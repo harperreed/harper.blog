@@ -21,6 +21,9 @@ rss_title: Harper Reed - the writing of Harper Reed
 markdown:   kramdown
 exclude:    ['Makefile','s3_website.yml','s3_website.example.yml','README.md','.gitignore', 'node_modules']
 permalink:  pretty
+paginate: 5
+
+gems: [jekyll-paginate]
 
 sass:
     style: :compressed
