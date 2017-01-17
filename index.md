@@ -1,6 +1,6 @@
 ---
 layout: internal
-menu: true
+
 ---
 
 # Writing
