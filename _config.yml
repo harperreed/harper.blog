@@ -8,7 +8,7 @@
 # Site settings
 title: Writing by Harper Reed
 name: Harper Reed
-email: harper+writin@nata2.org
+email: harper+writing@nata2.org
 description: > # this means to ignore newlines until "baseurl:"
   Some writing by Harper Reed. Mostly about technology, politics, and things.
 
@@ -17,8 +17,13 @@ url: "http://harper.blog" # the base hostname & protocol for your site
 twitter_username: harper
 github_username:  harperreed
 instagram_username:  harperreed
+google_analytics: UA-70650-74
+
+
+
 permalink: pretty
 markdown:    kramdown
+
 
 kramdown:
   auto_ids:       true
