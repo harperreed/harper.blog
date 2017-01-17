@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<nav>
+  <ul class="pager">
+    <li class="previous"><a href="/writing/"><span aria-hidden="true">&larr;</span> Back to writing</a></li>
+
+  </ul>
+</nav>
+<div class="post" style="padding-bottom: 50px;">
+  <div >
+    <h1 ><a title="Permanent Link to {{ page.title }}." href="{{page.url}}" rel="bookmark">{{ page.title }}</a> <br /><small>Posted on {{page.date | date: "%b %d, %Y"}}</small></h1>
+  </div>
+  <div class="postcontent">
+    {{ content }}
+  </div>
+</div>
+
+
+<hr>
+
+
+<nav>
+  <ul class="pager">
+  {% if page.previous %}
+    <li class="previous"><a href="{{ page.previous.url }}" title="Previous: {{ page.previous.title }}"><span aria-hidden="true">&larr;</span> Previous entry </a></li>
+  {% endif %}
+  {% if page.next %}
+    <li class="next"><a href="{{ page.next.url }}" title="Next: {{ page.next.title }}">Next entry <span aria-hidden="true">&rarr;</span></a></li>
+   {% endif %}
+  </ul>
+</nav>
