@@ -1,55 +1,26 @@
-- **2017-01-07**: smaller images
-- **2017-01-07**: errant markdown
-- **2017-01-07**: Merge pull request #1 from harperreed/static-no-insta
-- **2017-01-07**: added client hints support imgix
-- **2017-01-07**: updated html to be a bit more intersting
-- **2017-01-07**: almost ready
-- **2017-01-07**: removed excess datas
-- **2017-01-07**: not ready for posts quite yet
-- **2017-01-07**: updated to use the static files
-- **2016-06-13**: updated accesstoken to myown
-- **2016-06-01**: Merge branch 'gh-pages' of github.com:harperreed/harper.photos into gh-pages
-- **2016-06-01**: fuck instagram's new api changes. lolcry :(
-- **2016-05-21**: Update about.md
-- **2016-05-10**: baseurl or die
-- **2016-05-06**: Update _config.yml
-- **2016-05-06**: Update about.md
-- **2016-05-06**: Update about.md
-- **2016-05-06**: Update about.md
-- **2016-05-06**: Update about.md
-- **2016-05-06**: Update about.md
-- **2016-05-06**: Update README.md
-- **2016-05-06**: tweaked layout a bit. added favicon.io
-- **2016-05-04**: finally fixed the markdown and markdownifying
-- **2016-05-04**: apparently you have to markdownify it. who knew
-- **2016-05-04**: added initial readme
-- **2016-05-04**: updated config
-- **2016-05-04**: never mind. this is a bit better
-- **2016-05-04**: maybe better fancybox on mobile
-- **2016-05-04**: tweaked image template to be more responsive
-- **2016-05-03**: Merge branch 'gh-pages' of github.com:harperreed/harper.photos into gh-pages
-- **2016-05-03**: added site generation time
-- **2016-05-03**: Create CNAME
-- **2016-05-03**: added fancybox
-- **2016-05-03**: added fancybox
-- **2016-05-03**: readding this dude here
-- **2016-05-03**: let's unignore that file
-- **2016-05-03**: just kidding. was a good idea. but github needs it
-- **2016-05-03**: updated example
-- **2016-05-03**: updated ignores
-- **2016-05-03**: renamed so files could tell what it was
-- **2016-05-03**: renamed so files could tell what it was
-- **2016-05-03**: deleted _config.yml
-- **2016-05-03**: updated css
-- **2016-05-03**: updated content
-- **2016-05-03**: updated config file
-- **2016-05-03**: updated js
-- **2016-05-03**: gemfile, yo
-- **2016-05-03**: added better layout
-- **2016-04-26**: hmm
-- **2016-04-26**: Merge branch 'master' of github.com:harperreed/harper.photos into gh-pages
-- **2016-04-26**: Create README.md
-- **2016-04-26**: Update _config.yml
-- **2016-04-26**: add gemfile
-- **2016-04-26**: Create README.md
-- **2016-04-26**: initial import
+- **2017-01-16**: tweaks. bio fixed.
+- **2017-01-16**: some errant posts
+- **2017-01-16**: added old posts. oh boy
+- **2017-01-16**: added old posts. oh boy
+- **2017-01-16**: a few tweaks
+- **2017-01-16**: whoops
+- **2017-01-16**: Merge pull request #3 from harperreed/harpr-theme
+- **2017-01-16**: a good version
+- **2017-01-16**: updated template
+- **2017-01-16**: added 404
+- **2017-01-16**: added css
+- **2017-01-16**: added archives
+- **2017-01-15**: updated
+- **2017-01-13**: Merge pull request #2 from harperreed/harperreed-static-thing
+- **2017-01-13**: updated
+- **2017-01-13**: just like starting over
+- **2017-01-13**: Merge branch 'theme'
+- **2017-01-13**: theme
+- **2017-01-13**: Merge pull request #1 from harperreed/theme
+- **2017-01-13**: theme, yea
+- **2017-01-13**: updated config
+- **2017-01-13**: added some utilities
+- **2017-01-13**: added writing
+- **2017-01-04**: added cname for hosting
+- **2017-01-04**: new jekyll blog. ripe for deploying
+- **2017-01-04**: first commit
