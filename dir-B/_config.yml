@@ -1,0 +1,29 @@
+#
+# Jekyll configuration
+#
+destination: ./_site
+permalink:   pretty
+#paginate:    20
+lsi:         false
+#lsi:         false
+pygments:    true
+#markdown:    maruku
+markdown:    rdiscount
+exclude:     ['Makefile','s3_website.yml','s3_website.example.yml','README.md','.gitignore']
+
+baseurl: /
+
+relative_permalinks: true
+
+#
+# Site configuration
+#
+url:          http://www.nata2.org
+title:        "Harper Reed"
+subtitle:        "Technology and death metal"
+description:  "Hacking, Baphomet and the real time internet"
+author:       Harper Reed # atom.xml: Name of website's author
+email:        harper@nata2.org # atom.xml: Author email
+analytics_id: UA-70650-9 # Google Analytics ID: UA-xxx-xxx
+media_version: 9
+media_server: "" #http://media.nata2.org
