@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General Test Post on Writing by Harper Reed</title>
+    <link>http://harper.blog/tags/general-test-post/</link>
+    <description>Recent content in General Test Post on Writing by Harper Reed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Aug 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://harper.blog/tags/general-test-post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>If you see this, this blog is hosted on app engine</title>
+      <link>http://harper.blog/2010/08/12/if-you-see-this-this-blog-is-hosted-on-app-engine/</link>
+      <pubDate>Thu, 12 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://harper.blog/2010/08/12/if-you-see-this-this-blog-is-hosted-on-app-engine/</guid>
+      <description>Decided to ditch wordpress for jekyl and drydrop. Let&amp;rsquo;s see how it works.
+I will update this post later with more info later.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,168 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="shortcut icon" href="/favicon.ico">
+      
+      <title>Chicago Transit API &middot; Writing by Harper Reed</title>
+      <meta name="description" content="">
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script>
+      <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+      <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-hQpvDQiCJaD2H465dQfA717v7lu5qHWtDbWNPvaTJ0ID5xnPUlVXnKzq7b8YUkbN" crossorigin="anonymous">
+
+      <link rel="alternate" type="application/rss+xml" title="Writing by Harper Reed" href="">
+      <meta name="google-site-verification" content="UhNsUFmIygSV6JDvpCaxIJs2mQLgTvuKcFG5epZZiCg" />
+      <link rel="stylesheet" href="/css/main.css">
+      <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Person",
+      "name": "Harper Reed",
+      "url": "http://www.harperreed.com",
+      "sameAs": [
+        "https://instagram.com/harperreed",
+        "https://www.linkedin.com/in/harperreed",
+        "https://twitter.com/harper"
+      ]
+    }
+      </script>
+    
+  </head>
+  <body>
+    <div class="container">
+
+    
+      <header class="page-header">
+        
+
+      <div class="wrapper">
+        <ul class="nav nav-pills pull-right">
+            
+            <li class="presentation">
+              <a href="/about/">About</a>
+            </li>
+            
+            <li class="presentation">
+              <a href="/archives/">Full Archives</a>
+            </li>
+            
+        </ul>
+        <h1><a class="page-title" href="/"><i class="fa fa-pencil" aria-hidden="true"></i> Writing by Harper Reed</a></h1>
+      </div>
+    
+    </header>
+
+
+
+    
+    <div class="page-content">
+      
+<nav>
+  <ul class="pager">
+    <li class="previous"><a href="/"><span aria-hidden="true">&larr;</span> Back home</a></li>
+
+  </ul>
+</nav>
+<div class="post" style="padding-bottom: 50px;">
+  <div >
+    <h1 ><a title="Permanent Link to Chicago Transit API." href="/2008/10/06/chicago-transit-api/" rel="bookmark">Chicago Transit API</a> <br /><small>Posted on Oct 6, 2008</small></h1>
+  </div>
+  <div class="postcontent">
+    <p><a title="The goddamn damon bus. seriously by nata2, on Flickr" href="http://www.flickr.com/photos/natatwo/264290817/"><img class="alignright" src="http://farm1.static.flickr.com/87/264290817_f5ccf294d0_m.jpg" alt="The goddamn damon bus. seriously" width="240" height="180" align="right" /></a>I have been working hard to release the work that I have been doing to expose some of the more interesting real time data about chicago transit. Currently it is very bus-centric, but that is hopefully changing.</p>
+
+<p>The genesis for this API is some work I did awhile ago reverse engineering the <a href="http://ctabustracker.com/bustime/map/displaymap.jsp">CTA Bus Tracker mashup</a>. I was able to expose the endpoints that powered their google maps mashup. In its original state - you can get some pretty awesome functionality and data. I am attempting to clean it up and make it more robust.</p>
+
+<p>The native endpoints thus far are:
+<ul>
+    <li><a href="http://chicago.transitapi.com/bustime/map/getRoutePoints.jsp?route=49">getRoutePoints</a>: Returns latitude/longitude, stop IDs, and stop names for bus stops along a particular route.</li>
+    <li><a href="http://chicago.transitapi.com/bustime/map/getPatternPoints.jsp?route=20&amp;pattern=959">getPatternPoints</a>:</li>
+    <li><a href="http://chicago.transitapi.com/bustime/map/getStopPredictions.jsp?stop=8207&amp;route=49">getStopPredictions</a>: Gets stop predictions. Timing and whatnot.</li>
+    <li><a href="http://chicago.transitapi.com/bustime/map/getBusPredictions.jsp?bus=6654">getBusPredictions</a>: Returns arrival predictions for a particular bus.</li>
+    <li><a href="http://chicago.transitapi.com/bustime/map/getBusesForRoute.jsp?route=49">getBusesForRoute</a>: Gets buses for specific route</li>
+    <li><a href="http://chicago.transitapi.com/bustime/map/getBusesForRouteAll.jsp">getBusesForRouteAll</a>: Gets information about every bus in the system.</li>
+    <li><a href="http://chicago.transitapi.com/bustime/map/schedules.jsp?agency=1&amp;route=92">Schedule</a>: Download the Schedule (pdf! w00t)</li>
+    <li><a href="http://chicago.transitapi.com/bustime/map/getTimeAndTemp.jsp">getTimeAndTemp</a>: Outputs the current time and temp</li>
+</ul>
+I have created a proxy for the endpoints that will do some caching and hopefully alleviate any crazy load the CTA servers would have if this API becomes popular.</p>
+
+<p>I also did some work to push the UPOC alerts from the CTA riders community into a usable form. That endpoint is the first of hopefully many that can be used to grab real time information about the CTA. You can access it at:
+<ul>
+    <li><a href="http://chicago.transitapi.com/api/alerts/upoc/latest/">Community Upoc alerts</a>: Outputs the last alert sent from the UPOC group</li>
+</ul>
+Dan X O&rsquo;Neil and myself hacked these alerts into the <a href="http://twitter.com/ctatweet">CTA Tweet bot</a> that sends CTA updates via twitter. Pretty neat.</p>
+
+<p>Moving forward with the API, I want to do a couple key things. The first is to return JSON instead of that terrible XML. The second is to create a couple endpoints that will help with finding the right bus at the right location. I am always looking for help with this stuff - so if you have any ideas - please let me know in the comments.</p>
+
+<p>So far, there are not a whole lot of applications using this API. The only ones I have thus far are:
+<ul>
+    <li><a href="http://commuting.in/chicago/about">Commuting.in Chicago</a></li>
+    <li><a href="http://txtful.com/template.html?templateId=1368034">txtful bus alerts</a></li>
+    <li><a href="http://businfo.chicagobus.org/">ChicagoBus.org Bus Finder</a></li>
+</ul>
+If you know of any others - let me know. I have a couple projects brewing myself that will hopefully add a shortcode, and a jabber bot for bus notifications and queries. Are there any things yall would like to see? I personally want a really solid native iphone app. It would be awesome to be able to have the iphone pinpoint your location and then tell you what the nearest buses are that are arriving soon. Also - replicating the bus tracker in an easier to use fashion would be excellent.</p>
+
+<p>All of this API work wouldn&rsquo;t have been possible without the help of <a href="http://detour1999.com">Dylan Richard</a>, <a href="http://www.derivativeworks.com/">Dan X O&rsquo;Neil</a> and <a href="http://chicagobus.org">Kevin Zolkiewicz</a>. The CTA has also been amazingly cool with all of this - I really like those guys.</p>
+
+  </div>
+</div>
+
+<hr>
+
+
+
+
+<h3>See Also</h3>
+<ul>
+  
+  <li><a href="/2008/10/06/release-your-applications-inner-api.-please./">Release your applications inner API. Please.</a> <small>published on Oct 6, 2008</small></li>
+  
+  <li><a href="/2008/08/30/mini-hi-fi-the-chase/">Mini Hi Fi: The Chase</a> <small>published on Aug 30, 2008</small></li>
+  
+  <li><a href="/2008/07/13/excla.im---a-replacement-jabber-bot/">Excla.im - a replacement jabber bot</a> <small>published on Jul 13, 2008</small></li>
+  
+  <li><a href="/2008/07/13/japan-tech-friends/">Japan Tech Friends</a> <small>published on Jul 13, 2008</small></li>
+  
+  <li><a href="/2008/07/13/oh-yea.-i-have-a-blog/">oh yea. i have a blog</a> <small>published on Jul 13, 2008</small></li>
+  
+</ul>
+
+
+<hr>
+
+<nav>
+  <ul class="pager">
+  
+    <li class="previous"><a href="/2008/12/26/happy-holidays/" title="Previous: Happy Holidays"><span aria-hidden="true">&larr;</span> Previous entry </a></li>
+  
+  
+    <li class="next"><a href="/2008/10/06/release-your-applications-inner-api.-please./" title="Next: Release your applications inner API. Please.">Next entry <span aria-hidden="true">&rarr;</span></a></li>
+  
+  </ul>
+</nav>
+
+    </div>
+      <footer class="footer">
+    
+      <br /><br />
+        <p class="text-muted small"><b><i class="fa fa-camera-retro" aria-hidden="true"></i> Writing by Harper Reed</b> &middot; Copyright &copy; Harper Reed &middot; Contact <a href="mailto:harper@nata2.org">Harper Reed</a> &middot; Generated @ Jul 8, 2018</p>
+    
+      </footer>
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70650-74', 'auto');
+  ga('send', 'pageview');
+
+</script>
+  
+
+    </div>
+  </body>
+</html>

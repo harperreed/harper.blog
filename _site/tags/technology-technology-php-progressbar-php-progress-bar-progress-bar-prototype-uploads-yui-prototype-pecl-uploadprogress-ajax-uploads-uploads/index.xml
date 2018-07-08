@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology Technology Php Progressbar Php Progress Bar Progress Bar Prototype Uploads Yui Prototype Pecl Uploadprogress Ajax Uploads Uploads on Writing by Harper Reed</title>
+    <link>http://harper.blog/tags/technology-technology-php-progressbar-php-progress-bar-progress-bar-prototype-uploads-yui-prototype-pecl-uploadprogress-ajax-uploads-uploads/</link>
+    <description>Recent content in Technology Technology Php Progressbar Php Progress Bar Progress Bar Prototype Uploads Yui Prototype Pecl Uploadprogress Ajax Uploads Uploads on Writing by Harper Reed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Apr 2007 17:21:40 +0000</lastBuildDate>
+    
+	<atom:link href="http://harper.blog/tags/technology-technology-php-progressbar-php-progress-bar-progress-bar-prototype-uploads-yui-prototype-pecl-uploadprogress-ajax-uploads-uploads/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PECL Uploadprogress example</title>
+      <link>http://harper.blog/2007/04/16/pecl-uploadprogress-example/</link>
+      <pubDate>Mon, 16 Apr 2007 17:21:40 +0000</pubDate>
+      
+      <guid>http://harper.blog/2007/04/16/pecl-uploadprogress-example/</guid>
+      <description>Today I decided I was going to build the asynchronous picture uploader for one of our new projects. I had installed the PECL Uploadprogress extension awhile ago and I just needed to build an example and then build it into our app.
+However, my plan was spited by the opensource gods who delivered very little documentation about how to use the PECL Uploadprogress extension. So here is my quick writeup and example.</description>
+    </item>
+    
+  </channel>
+</rss>

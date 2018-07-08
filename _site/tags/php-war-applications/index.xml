@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Php War Applications on Writing by Harper Reed</title>
+    <link>http://harper.blog/tags/php-war-applications/</link>
+    <description>Recent content in Php War Applications on Writing by Harper Reed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Oct 2004 12:34:32 +0000</lastBuildDate>
+    
+	<atom:link href="http://harper.blog/tags/php-war-applications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Testing</title>
+      <link>http://harper.blog/2004/10/06/testing/</link>
+      <pubDate>Wed, 06 Oct 2004 12:34:32 +0000</pubDate>
+      
+      <guid>http://harper.blog/2004/10/06/testing/</guid>
+      <description>i have no idea whats going on. none I apparently broke my blog software and it isn&amp;rsquo;t allowing me to post. of this makes any sense. maybe its time.ok I figured it out. basically the new php.ini was all &amp;ldquo;secure&amp;rdquo; and such and removed the magic quotes. so my app - which submitted my entries to a db needed to cleansed with the addslashes() function. w00t. my applications from 2001 are failing.</description>
+    </item>
+    
+  </channel>
+</rss>

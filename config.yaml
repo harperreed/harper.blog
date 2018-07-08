@@ -1,0 +1,17 @@
+baseURL: http://harper.blog
+
+publishDir: "_site"
+languageCode: en-us
+title: Writing by Harper Reed
+theme: "harperblog"
+
+permalinks:
+  post: /:year/:month/:day/:title/
+
+params:
+  ga_id: "UA-70650-74"
+  description: "Some writing by Harper Reed. Mostly about technology, politics, and things"
+  keywords: "harper reed, nata2, harper rules, awesome, nata2.org, blog, writing"
+  cachebuster: "harper rules"
+  name: "Harper Reed"
+  email: harper@nata2.org

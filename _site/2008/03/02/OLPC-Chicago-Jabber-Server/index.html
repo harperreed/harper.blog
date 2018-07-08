@@ -1,0 +1,154 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="shortcut icon" href="/favicon.ico">
+      
+      <title>OLPC Chicago Jabber Server &middot; Writing by Harper Reed</title>
+      <meta name="description" content="">
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script>
+      <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+      <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-hQpvDQiCJaD2H465dQfA717v7lu5qHWtDbWNPvaTJ0ID5xnPUlVXnKzq7b8YUkbN" crossorigin="anonymous">
+
+      <link rel="alternate" type="application/rss+xml" title="Writing by Harper Reed" href="">
+      <meta name="google-site-verification" content="UhNsUFmIygSV6JDvpCaxIJs2mQLgTvuKcFG5epZZiCg" />
+      <link rel="stylesheet" href="/css/main.css">
+      <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Person",
+      "name": "Harper Reed",
+      "url": "http://www.harperreed.com",
+      "sameAs": [
+        "https://instagram.com/harperreed",
+        "https://www.linkedin.com/in/harperreed",
+        "https://twitter.com/harper"
+      ]
+    }
+      </script>
+    
+  </head>
+  <body>
+    <div class="container">
+
+    
+      <header class="page-header">
+        
+
+      <div class="wrapper">
+        <ul class="nav nav-pills pull-right">
+            
+            <li class="presentation">
+              <a href="/about/">About</a>
+            </li>
+            
+            <li class="presentation">
+              <a href="/archives/">Full Archives</a>
+            </li>
+            
+        </ul>
+        <h1><a class="page-title" href="/"><i class="fa fa-pencil" aria-hidden="true"></i> Writing by Harper Reed</a></h1>
+      </div>
+    
+    </header>
+
+
+
+    
+    <div class="page-content">
+      
+<nav>
+  <ul class="pager">
+    <li class="previous"><a href="/"><span aria-hidden="true">&larr;</span> Back home</a></li>
+
+  </ul>
+</nav>
+<div class="post" style="padding-bottom: 50px;">
+  <div >
+    <h1 ><a title="Permanent Link to OLPC Chicago Jabber Server." href="/2008/03/02/olpc-chicago-jabber-server/" rel="bookmark">OLPC Chicago Jabber Server</a> <br /><small>Posted on Mar 2, 2008</small></h1>
+  </div>
+  <div class="postcontent">
+    <p>Today I spent a minute setting up a <a href="http://lists.laptop.org/pipermail/olpc-chicago/2008-March/000136.html">Ejabberd Server</a> for the OLPC Chicago group. This will allow all of us OLPC XO hackers to be on the same &ldquo;mesh.&rdquo; To get started using the jabber server with your XO follow these simple steps:
+<blockquote>
+<ol>
+    <li>Boot the XO</li>
+    <li>Get connected to the internet</li>
+    <li>Open a terminal (activity or ctrl-alt-f1)</li>
+    <li>in the shell, type: su -</li>
+    <li>then type: <i>sugar-control-panel -s jabber jabber.olpchacks.org</i></li>
+    <li>then press ctrl-alt-erase to restart sugar/X</li>
+</ol>
+</blockquote>
+Once this is done, you should start to see other Chicago XOs. You will know you are successful if you see me (Harper) in the community view. Please <a href="http://harperreed.org/contact">let me know</a> if you are able to get on, or if you are having trouble.</p>
+
+<p>Getting the server going was pretty simple. I was able to jump right in thanks to this <a href="http://morgancollett.wordpress.com/2008/02/27/olpc-community-jabber-servers-ejabberd-200-from-source/">awesome write up</a> by <a href="http://morgancollett.wordpress.com/about/">Morgan Collett</a> of <a href="http://www.collabora.co.uk/">Collabora</a>. The install goes like this: you get your debian install primed, download the source, patch the source, compile the source, install the compiled binaries, edit the config, start the server and edit the server roster config. Then BAM you have a <a href="http://www.ejabberd.im/">ejabberd server</a> rocking and ready to go with your XO. The only caveat i ran into was that the config file from the <a href="http://wiki.laptop.org/go/Ejabberd_Configuration">ejabberd wiki page</a> details using IPV6 because eventually all the laptops will be using IPV6 to get around. However, the server i used was balking at this - and kept crashing ejabberd with the MOST verbose errors ever (I.E. no error). When i finally figured out what the problem was, it was smooth sailing.</p>
+
+<p>One thing to note - ejabberd is seriously business. <a href="http://erlang.org/">Erlang</a> is interesting to work with. I was lost for about 2 hours before I gave up trying to understand what was going on and just dived in. Then it didn&rsquo;t make sense, but was working and I was happy.</p>
+
+<p>It is really neat how the XO uses jabber to group people together. I really think that jabber is the future and seeing something use XMPP so elegantly is quite inspiring. I found one of the coolest parts of the implementation is how the rosters are forced to see everyone online - which i imagine is what powers the neighborhood view on the XO. This makes me wonder if this could be tweaked to create a more interactive or social networking aspect to the XO neighborhood.</p>
+
+<p>One thing I would like to know about is how the XO uses the Multi User Chat features of the jabber server. I am not sure if the <a href="http://wiki.laptop.org/go/Chat">Chat Activity</a> uses MUC to work, but it would be cool if you could chat with XO users with a regular user account on the jabber server by joining a specific room. I will have to research that.</p>
+
+  </div>
+</div>
+
+<hr>
+
+
+
+
+<h3>See Also</h3>
+<ul>
+  
+  <li><a href="/2008/03/02/awesome-hosting-options/">Awesome hosting options</a> <small>published on Mar 2, 2008</small></li>
+  
+  <li><a href="/2008/02/29/the-mosso-cloud-requests-are-not-a-good-metric/">The Mosso Cloud: Requests are not a good metric</a> <small>published on Feb 29, 2008</small></li>
+  
+  <li><a href="/2008/02/25/google-apps-auth-xmpp-and-radius-idea/">Google Apps Auth: XMPP and Radius idea</a> <small>published on Feb 25, 2008</small></li>
+  
+  <li><a href="/2008/02/23/rails-and-wired-magazine/">Rails and Wired magazine</a> <small>published on Feb 23, 2008</small></li>
+  
+  <li><a href="/2008/02/04/obama-yes-we-can/">Obama: yes we can</a> <small>published on Feb 4, 2008</small></li>
+  
+</ul>
+
+
+<hr>
+
+<nav>
+  <ul class="pager">
+  
+    <li class="previous"><a href="/2008/03/05/techcocktail-boulder-and-sxsw-come-see-me/" title="Previous: TechCocktail Boulder and SXSW! Come see me!"><span aria-hidden="true">&larr;</span> Previous entry </a></li>
+  
+  
+    <li class="next"><a href="/2008/03/02/awesome-hosting-options/" title="Next: Awesome hosting options">Next entry <span aria-hidden="true">&rarr;</span></a></li>
+  
+  </ul>
+</nav>
+
+    </div>
+      <footer class="footer">
+    
+      <br /><br />
+        <p class="text-muted small"><b><i class="fa fa-camera-retro" aria-hidden="true"></i> Writing by Harper Reed</b> &middot; Copyright &copy; Harper Reed &middot; Contact <a href="mailto:harper@nata2.org">Harper Reed</a> &middot; Generated @ Jul 8, 2018</p>
+    
+      </footer>
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70650-74', 'auto');
+  ga('send', 'pageview');
+
+</script>
+  
+
+    </div>
+  </body>
+</html>
