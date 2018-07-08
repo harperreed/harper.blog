@@ -1,6 +1,6 @@
 baseURL: http://harper.blog
 
-publishDir: "_site"
+publishDir: "docs"
 languageCode: en-us
 title: Writing by Harper Reed
 theme: "harperblog"
