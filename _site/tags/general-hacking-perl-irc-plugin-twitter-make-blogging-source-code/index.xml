@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General Hacking Perl Irc Plugin Twitter Make Blogging Source Code on Writing by Harper Reed</title>
+    <link>http://harper.blog/tags/general-hacking-perl-irc-plugin-twitter-make-blogging-source-code/</link>
+    <description>Recent content in General Hacking Perl Irc Plugin Twitter Make Blogging Source Code on Writing by Harper Reed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Mar 2007 19:19:35 +0000</lastBuildDate>
+    
+	<atom:link href="http://harper.blog/tags/general-hacking-perl-irc-plugin-twitter-make-blogging-source-code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My newest twitter hack: Twitter IRC bot</title>
+      <link>http://harper.blog/2007/03/17/my-newest-twitter-hack-twitter-irc-bot/</link>
+      <pubDate>Sat, 17 Mar 2007 19:19:35 +0000</pubDate>
+      
+      <guid>http://harper.blog/2007/03/17/my-newest-twitter-hack-twitter-irc-bot/</guid>
+      <description>The other day, I decided to finish up a twitter hack idea I had and never fully executed. Awhile ago I made a bot that output the updates of my friends into my IRC channel. I did this by writing a quick bot that would log into a dedicated AIM account which received updates from the twitter service. Then the bot would output these updates to my IRC channel. This was neat.</description>
+    </item>
+    
+  </channel>
+</rss>
