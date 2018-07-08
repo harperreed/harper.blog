@@ -13,10 +13,10 @@
     
     <item>
       <title>A fun Ghostbusters easter egg in FireFox/Mozilla</title>
-      <link>http://harper.blog/oldposts/2006-10-15-a-fun-ghostbusters-reference-in-firefoxmozilla/</link>
+      <link>http://harper.blog/2006/10/15/a-fun-ghostbusters-easter-egg-in-firefox/mozilla/</link>
       <pubDate>Sun, 15 Oct 2006 17:25:16 +0000</pubDate>
       
-      <guid>http://harper.blog/oldposts/2006-10-15-a-fun-ghostbusters-reference-in-firefoxmozilla/</guid>
+      <guid>http://harper.blog/2006/10/15/a-fun-ghostbusters-easter-egg-in-firefox/mozilla/</guid>
       <description>So my cable went out today. Lame. After giving up on debugging it - I started playing with the FireFox error pages. I just wanted to look at the HTML. So once I selected all and view the source of the page. I noticed this funny little piece of HTML:
  &amp;lt;xul:button xmlns:xul=&#34;http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul&#34; id=&#34;errorTryAgain&#34; label=&#34;Try Again&#34; oncommand=&#34;retryThis();&#34;/&amp;gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;  So. Apparently there is only XUL. who is probably the keymaster and the gatekeeper.</description>
     </item>
