@@ -1,7 +1,7 @@
 build:
 	hugo
 deploy: build
-	git commit -m "updated"
+	git commit -m "updated" -a
 	git push
 serve:
 	hugo serve

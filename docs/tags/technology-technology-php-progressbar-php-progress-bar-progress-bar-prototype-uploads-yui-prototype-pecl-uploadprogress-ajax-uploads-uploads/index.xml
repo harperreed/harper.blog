@@ -13,10 +13,10 @@
     
     <item>
       <title>PECL Uploadprogress example</title>
-      <link>http://harper.blog/2007/04/16/pecl-uploadprogress-example/</link>
+      <link>http://harper.blog/oldposts/2007-04-16-pecl-uploadprogress-example/</link>
       <pubDate>Mon, 16 Apr 2007 17:21:40 +0000</pubDate>
       
-      <guid>http://harper.blog/2007/04/16/pecl-uploadprogress-example/</guid>
+      <guid>http://harper.blog/oldposts/2007-04-16-pecl-uploadprogress-example/</guid>
       <description>Today I decided I was going to build the asynchronous picture uploader for one of our new projects. I had installed the PECL Uploadprogress extension awhile ago and I just needed to build an example and then build it into our app.
 However, my plan was spited by the opensource gods who delivered very little documentation about how to use the PECL Uploadprogress extension. So here is my quick writeup and example.</description>
     </item>
