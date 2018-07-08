@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Friends Php Server Qmail Apache War on Writing by Harper Reed</title>
+    <link>http://harper.blog/tags/friends-php-server-qmail-apache-war/</link>
+    <description>Recent content in Friends Php Server Qmail Apache War on Writing by Harper Reed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Jul 2001 14:57:56 +0000</lastBuildDate>
+    
+	<atom:link href="http://harper.blog/tags/friends-php-server-qmail-apache-war/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Servers, I love Servers</title>
+      <link>http://harper.blog/2001/07/20/servers-i-love-servers/</link>
+      <pubDate>Fri, 20 Jul 2001 14:57:56 +0000</pubDate>
+      
+      <guid>http://harper.blog/2001/07/20/servers-i-love-servers/</guid>
+      <description>So i set up my new server last night. You can visit it by going to dopeman.org. Its real real nice. hehe. Dual P3 700mhz, 1gig ram, dual 9 gig scsi drives.. damn is it fast. I am running apache, PHP, MYSQL, Qmail, Qpopper,. It rules. I am using the Zend Optimizer coupled with the BWARE cache to speed up PHP. Today, i am gunna tweak apache like a mofo and then i will secure it like a fortress.</description>
+    </item>
+    
+  </channel>
+</rss>

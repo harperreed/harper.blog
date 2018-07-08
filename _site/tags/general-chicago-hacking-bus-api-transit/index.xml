@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General Chicago Hacking Bus Api Transit on Writing by Harper Reed</title>
+    <link>http://harper.blog/tags/general-chicago-hacking-bus-api-transit/</link>
+    <description>Recent content in General Chicago Hacking Bus Api Transit on Writing by Harper Reed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Oct 2008 01:20:02 +0000</lastBuildDate>
+    
+	<atom:link href="http://harper.blog/tags/general-chicago-hacking-bus-api-transit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chicago Transit API</title>
+      <link>http://harper.blog/2008/10/06/chicago-transit-api/</link>
+      <pubDate>Mon, 06 Oct 2008 01:20:02 +0000</pubDate>
+      
+      <guid>http://harper.blog/2008/10/06/chicago-transit-api/</guid>
+      <description>I have been working hard to release the work that I have been doing to expose some of the more interesting real time data about chicago transit. Currently it is very bus-centric, but that is hopefully changing.
+The genesis for this API is some work I did awhile ago reverse engineering the CTA Bus Tracker mashup. I was able to expose the endpoints that powered their google maps mashup. In its original state - you can get some pretty awesome functionality and data.</description>
+    </item>
+    
+  </channel>
+</rss>
