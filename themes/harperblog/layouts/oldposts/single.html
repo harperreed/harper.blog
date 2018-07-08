@@ -1,12 +1,11 @@
-
 {{ define "main" }}
 <nav>
   <ul class="pager">
-    <li class="previous"><a href="/"><span aria-hidden="true">&larr;</span> Back home</a></li>
-
+    <li class="previous"><a href="/history/archives/"><span aria-hidden="true">&larr;</span> Back home</a></li>
   </ul>
 </nav>
 <div class="post" style="padding-bottom: 50px;">
+
   <div >
     <h1 ><a title="Permanent Link to {{ .Title }}." href="{{.RelPermalink}}" rel="bookmark">{{ .Title }}</a> <br /><small>Posted on {{.Date.Format "Jan 2, 2006" }}</small></h1>
   </div>
