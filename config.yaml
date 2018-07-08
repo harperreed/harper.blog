@@ -7,7 +7,7 @@ theme: "harperblog"
 
 permalinks:
   post: /:year/:month/:day/:title/
-  oldposts: /:year/:month/:day/:title/
+  archives: /:year/:month/:day/:title/
 
 params:
   ga_id: "UA-70650-74"
