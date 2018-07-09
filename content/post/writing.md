@@ -1,5 +1,5 @@
 ---
-title: "Blogging in 2018. Is that still a thing?"
+title: "Blogging in 2018. Blogs, How Do They Work?"
 date: 2018-07-08T22:29:48Z
 ---
 
