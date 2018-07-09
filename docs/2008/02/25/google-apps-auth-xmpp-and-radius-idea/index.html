@@ -1,0 +1,153 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="shortcut icon" href="/favicon.ico">
+      
+      <title>Google Apps Auth: XMPP and Radius idea &middot; Writing by Harper Reed</title>
+      <meta name="description" content="">
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script>
+      <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+      <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-hQpvDQiCJaD2H465dQfA717v7lu5qHWtDbWNPvaTJ0ID5xnPUlVXnKzq7b8YUkbN" crossorigin="anonymous">
+
+      <link rel="alternate" type="application/rss+xml" title="Writing by Harper Reed" href="">
+      <meta name="google-site-verification" content="UhNsUFmIygSV6JDvpCaxIJs2mQLgTvuKcFG5epZZiCg" />
+      <link rel="stylesheet" href="/css/main.css">
+      <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Person",
+      "name": "Harper Reed",
+      "url": "http://www.harperreed.com",
+      "sameAs": [
+        "https://instagram.com/harperreed",
+        "https://www.linkedin.com/in/harperreed",
+        "https://twitter.com/harper"
+      ]
+    }
+      </script>
+    
+  </head>
+  <body>
+    <div class="container">
+
+    
+      <header class="page-header">
+        
+
+      <div class="wrapper">
+        <ul class="nav nav-pills pull-right">
+            
+            <li class="presentation">
+              <a href="/about/">About</a>
+            </li>
+            
+            <li class="presentation">
+              <a href="/archives/">Historical Archives</a>
+            </li>
+            
+        </ul>
+        <h1><a class="page-title" href="/"><i class="fa fa-pencil" aria-hidden="true"></i> Writing by Harper Reed</a></h1>
+      </div>
+    
+    </header>
+
+
+
+    
+    <div class="page-content">
+      
+<nav>
+  <ul class="pager">
+    <li class="previous"><a href="/archives/"><span aria-hidden="true">&larr;</span> Back to Archives</a></li>
+  </ul>
+</nav>
+<div class="post" style="padding-bottom: 50px;">
+
+  <div >
+    <h1 ><a title="Permanent Link to Google Apps Auth: XMPP and Radius idea." href="/2008/02/25/google-apps-auth-xmpp-and-radius-idea/" rel="bookmark">Google Apps Auth: XMPP and Radius idea</a> <br /><small>Posted on Feb 25, 2008</small></h1>
+  </div>
+  <div class="postcontent">
+    <p>At work we use <a href="http://google.com/a">Google Apps</a> for our enterprise email and calendaring. We use pretty much the entire gamut of tools Google provides us. And for the most part, we love it. It is great to have an easy to use, inexpensive suite of hosted tools that you can use from anywhere.</p>
+
+<p>Gmail is far better than outlook for our organization and the other tools just help make things go smoothly. We use docs quite a bit for knowledge share and even use it some in the warehouse for quality control and what not. its neat stuff.</p>
+
+<p>Recently, we have been adding various appliances to our organization that can authenticate users based on an <a href="http://en.wikipedia.org/wiki/Ldap">LDAP data store</a> or a <a href="http://en.wikipedia.org/wiki/RADIUS">Radius server</a>.</p>
+
+<p>It started with one of out <a href="http://en.wikipedia.org/wiki/Samba_%28software%29">file servers</a>. I wanted to make it so people have their own share for archiving and backing up personal documents. A place that is &ldquo;protected&rdquo; by their password. But with 35 employees possibly accessing the file server, it is not efficient to have another ACL system. So ultimately it would be nice to have it use Google Apps as authentication portion.</p>
+
+<p>I googled a bunch and forgot that this was a goal. Until this last month when we added an awesome wifi mesh system (<a href="http://www.aerohive.com/">Aerohive</a> - hit me up if you want hooked up with them, awesome stuff) and we grabbed a MUCH better VPN subsystem (<a href="http://www.juniper.net/products_and_services/ssl_vpn_secure_access/">Juniper SSLVPN</a>). Both require user auth to work most securely. Which means that in the best case, both would authenticate to the same ACL system that the file server is authenticating against.</p>
+
+<p>Once again, the problem of integrating Google Apps accounts into an LDAP/Radius service was brought to my attention.  It seems like it should be something that is relatively easy to integrate. However, I can&rsquo;t quite grasp the <a href="http://code.google.com/apis/apps/sso/saml_reference_implementation.html">SAML offering that the Google Apps API suggests using</a> for SSO. I couldn&rsquo;t easily figure out if this would be an option for web only authentication, or I could drop it into a <a href="http://wiki.freeradius.org/Base_Modules">freeradius module</a> (using <a href="http://wiki.freeradius.org/Rlm_python">rlm_python</a>). It also seems that it is a way to use a radius server to authenticate a local user into their Google Apps account. Not the direction that I want. It seems like this should be possible, but i wasn&rsquo;t able to find any help on the various Google Groups that suggested that it possible.</p>
+
+<p>I got to thinking. If I am going to be hacking away at a python module for freeradius or using <a href="http://www.wiggy.net/code/pyrad/">pyrad</a> to create a radius server - why couldn&rsquo;t I just have it authenticate against Google Apps jabber server. Basically using <a href="http://xmpppy.sourceforge.net/">XMPPPY</a> or whatever to hit talk.google.com and check if a user is authenticating correctly, and if so let them in.</p>
+
+<p>The immediate benefit of piggy backing on Google&rsquo;s jabber server is that I would be able to bypass managing user accounts or passwords. They would be managed by the users themselves or by whoever is managing the user accounts. It would be independent of the Radius server.</p>
+
+<p>Some immediate problems are that all the users would immediately have the same access. If I wanted more granularity of access, I would obviously have to create some ACL system that sat between the XMPP auth and the response to the radius request.</p>
+
+<p>I am guessing that figuring out if SAML would work would be easiest. I can already tell this is possibly a backwards way of doing it. I just want everything to work well together. And I want to haxor up some python.</p>
+
+  </div>
+</div>
+
+<hr>
+
+
+
+
+<h3>See Also</h3>
+<ul>
+  
+  <li><a href="/2008/02/23/rails-and-wired-magazine/">Rails and Wired magazine</a> <small>published on Feb 23, 2008</small></li>
+  
+  <li><a href="/2008/02/04/obama-yes-we-can/">Obama: yes we can</a> <small>published on Feb 4, 2008</small></li>
+  
+  <li><a href="/2008/01/22/putting-the-blame-on-your-vendors-for-the-win./">Putting the blame on your vendors for the win. </a> <small>published on Jan 22, 2008</small></li>
+  
+  <li><a href="/2008/01/11/monsters-for-you-to-buy-and-make-your-friend/">Monsters for you to buy and make your friend!</a> <small>published on Jan 11, 2008</small></li>
+  
+  <li><a href="/2008/01/10/data-portability-feeds/">Data Portability feeds</a> <small>published on Jan 10, 2008</small></li>
+  
+</ul>
+
+
+<hr>
+
+<nav>
+  <ul class="pager">
+  
+    <li class="previous"><a href="/2008/02/29/the-mosso-cloud-requests-are-not-a-good-metric/" title="Previous: The Mosso Cloud: Requests are not a good metric"><span aria-hidden="true">&larr;</span> Previous entry </a></li>
+  
+  
+    <li class="next"><a href="/2008/02/23/rails-and-wired-magazine/" title="Next: Rails and Wired magazine">Next entry <span aria-hidden="true">&rarr;</span></a></li>
+  
+  </ul>
+</nav>
+
+    </div>
+      <footer class="footer">
+    
+      <br /><br />
+        <p class="text-muted small"><b><i class="fa fa-camera-retro" aria-hidden="true"></i> Writing by Harper Reed</b> &middot; Copyright &copy; Harper Reed &middot; Contact <a href="mailto:harper@nata2.org">Harper Reed</a> &middot; Generated @ Jul 9, 2018</p>
+    
+      </footer>
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70650-74', 'auto');
+  ga('send', 'pageview');
+
+</script>
+  
+
+    </div>
+  </body>
+</html>
