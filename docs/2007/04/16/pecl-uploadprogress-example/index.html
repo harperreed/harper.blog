@@ -1,0 +1,170 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="shortcut icon" href="/favicon.ico">
+      
+      <title>PECL Uploadprogress example &middot; Writing by Harper Reed</title>
+      <meta name="description" content="">
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script>
+      <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+      <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-hQpvDQiCJaD2H465dQfA717v7lu5qHWtDbWNPvaTJ0ID5xnPUlVXnKzq7b8YUkbN" crossorigin="anonymous">
+
+      <link rel="alternate" type="application/rss+xml" title="Writing by Harper Reed" href="">
+      <meta name="google-site-verification" content="UhNsUFmIygSV6JDvpCaxIJs2mQLgTvuKcFG5epZZiCg" />
+      <link rel="stylesheet" href="/css/main.css">
+      <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Person",
+      "name": "Harper Reed",
+      "url": "http://www.harperreed.com",
+      "sameAs": [
+        "https://instagram.com/harperreed",
+        "https://www.linkedin.com/in/harperreed",
+        "https://twitter.com/harper"
+      ]
+    }
+      </script>
+    
+  </head>
+  <body>
+    <div class="container">
+
+    
+      <header class="page-header">
+        
+
+      <div class="wrapper">
+        <ul class="nav nav-pills pull-right">
+            
+            <li class="presentation">
+              <a href="/about/">About</a>
+            </li>
+            
+            <li class="presentation">
+              <a href="/archives/">Historical Archives</a>
+            </li>
+            
+        </ul>
+        <h1><a class="page-title" href="/"><i class="fa fa-pencil" aria-hidden="true"></i> Writing by Harper Reed</a></h1>
+      </div>
+    
+    </header>
+
+
+
+    
+    <div class="page-content">
+      
+<nav>
+  <ul class="pager">
+    <li class="previous"><a href="/archives/"><span aria-hidden="true">&larr;</span> Back to Archives</a></li>
+  </ul>
+</nav>
+<div class="post" style="padding-bottom: 50px;">
+
+  <div >
+    <h1 ><a title="Permanent Link to PECL Uploadprogress example." href="/2007/04/16/pecl-uploadprogress-example/" rel="bookmark">PECL Uploadprogress example</a> <br /><small>Posted on Apr 16, 2007</small></h1>
+  </div>
+  <div class="postcontent">
+    <p>Today I decided I was going to build the asynchronous picture uploader for one of our new projects. I had installed the <a href="http://pecl.php.net/package/uploadprogress">PECL Uploadprogress extension</a> awhile ago and I just needed to build an example and then build it into our app.</p>
+
+<p>However, my plan was spited by the opensource gods who delivered very little documentation about how to use the <a href="http://pecl.php.net/package/uploadprogress">PECL Uploadprogress extension</a>. So here is my quick writeup and example.</p>
+
+<p>After crawling for 30 minutes through the C++ source of the Uploadprogress extension, I figured out what the heck was actually happening. The basic set of events is that an upload occurs. with that upload post is a hidden input that has a unique ID in it. The Uploadprogress extension then assigns the progress of that upload to that ID. Then when you call the uploadprogress_get_info() function with that unique id, the response is the upload progress.  So, the two key pieces of information are this:</p>
+
+<p>The function that accesses the upload progress is:
+<blockquote>uploadprogress_get_info($unique_id);</blockquote>
+It takes a string that is the uploads unique id. To set this id you include the following hidden input in your upload form:
+<blockquote>&lt;input type=&ldquo;hidden&rdquo; name=&ldquo;UPLOAD_IDENTIFIER&rdquo; value=&rdquo;&lt;?php echo $some_uniq_id; ?&gt;&rdquo; /&gt;</blockquote>
+This sets the ID of the upload that the uploadprogress extension then can track. THIS IS VERY IMPORTANT. As far as I could tell, if you entered a different ID name, your uploadprogress_get_info($unique_id); will not work. If there is no upload, or it is complete uploadprogress_get_info() returns not a array.</p>
+
+<p>So the pseudo php code is like this</p>
+
+<p><strong>upload.php</strong>
+<blockquote>&lt;form crap&gt;
+&lt;input type=&ldquo;hidden&rdquo; name=&ldquo;UPLOAD_IDENTIFIER&rdquo; value=&rdquo;&lt;?php echo $some_uniq_id; ?&gt;&rdquo; /&gt;
+&lt;input type=&ldquo;file&rdquo; &hellip;&hellip;. /&gt;
+&lt;input type=&ldquo;submit&rdquo; &hellip;. /&gt;
+&lt;/form&gt;</blockquote>
+<strong>progress.php</strong>
+<blockquote>&lt;?
+$uniq_id = $_GET[&ldquo;id&rdquo;];
+print_r(uploadprogress_get_info($unique_id));
+?&gt;</blockquote>
+so you would load up upload.php and upload a huge file. Then in another browser window you would view progress.php?id=$some_uniq_id and theoretically you would get a raw progress response from uploadprogress_get_info().</p>
+
+<p>heh.</p>
+
+<p>So I have created a working (at least on my server) example of this for yall to test. I have placed it in my code archive under <a href="http://stuff.harperreed.org/?path=code%2Fphp_upload_progressbar">php_upload_progressbar</a>. This example uses prototype and YUI components to achieve totally asynchronous uploads and then has a CSS progress bar to handle the upload progress. The upload is through an Iframe using the YUI container.js and the updaters are using prototype. I imagine I could have used just YUI, but I know prototype better and it was easy to rock out in about thirty seconds. I have attempted to thoroughly comment both my <a href="http://stuff.harperreed.org/?path=code%2Fphp_upload_progressbar&amp;text=progress.php">progress.php</a> and my <a href="http://stuff.harperreed.org/?path=code%2Fphp_upload_progressbar&amp;text=upload.php">upload.php</a> so it should be somewhat clear on what is going on.</p>
+
+<p>Let me know if you have questions or comments. I haven&rsquo;t placed a live example anywhere because I don&rsquo;t really feel comfortable having crazy people uploading random porn to my servers. however, I would love to help peeps that are having issues getting the example to run.</p>
+
+<p>UPDATE: I have updated the urls - as the old ones have expired.
+<p id="0767317B-992E-4b12-91E0-4F059A8CECA8:ccac64de-bd50-4ea3-8cd2-461a77951d8c" class="wlWriterSmartContent" style="margin: 0px; padding: 0px; display: inline">[tags]uploads, ajax uploads, uploadprogress, pecl, prototype, php, yui, prototype uploads, progress bar, php progress bar, progressbar[/tags]</p>
+<p class="wlWriterSmartContent" style="margin: 0px; padding: 0px; display: inline"></p></p>
+
+  </div>
+</div>
+
+<hr>
+
+
+
+
+<h3>See Also</h3>
+<ul>
+  
+  <li><a href="/2007/04/15/rails-woes.-the-slow-that-is-keeping-twitter-down./">Rails woes. The slow that is keeping twitter down.</a> <small>published on Apr 15, 2007</small></li>
+  
+  <li><a href="/2007/04/12/a-sad-day.-rip-kurt-vonnegut./">A Sad Day. RIP Kurt Vonnegut.</a> <small>published on Apr 12, 2007</small></li>
+  
+  <li><a href="/2007/04/10/haxoring-the-chumby-my-first-thoughts/">Haxoring the Chumby: My first thoughts</a> <small>published on Apr 10, 2007</small></li>
+  
+  <li><a href="/2007/04/10/the-whole-blogging-code-of-conduct-thing./">The whole blogging code of conduct thing.</a> <small>published on Apr 10, 2007</small></li>
+  
+  <li><a href="/2007/04/05/new-theme/">New theme</a> <small>published on Apr 5, 2007</small></li>
+  
+</ul>
+
+
+<hr>
+
+<nav>
+  <ul class="pager">
+  
+    <li class="previous"><a href="/2007/04/16/grindhouse.-an-awesome-weekend-and-my-new-phone-love/" title="Previous: Grindhouse. An awesome weekend and my new phone love!"><span aria-hidden="true">&larr;</span> Previous entry </a></li>
+  
+  
+    <li class="next"><a href="/2007/04/15/rails-woes.-the-slow-that-is-keeping-twitter-down./" title="Next: Rails woes. The slow that is keeping twitter down.">Next entry <span aria-hidden="true">&rarr;</span></a></li>
+  
+  </ul>
+</nav>
+
+    </div>
+      <footer class="footer">
+    
+      <br /><br />
+        <p class="text-muted small"><b><i class="fa fa-camera-retro" aria-hidden="true"></i> Writing by Harper Reed</b> &middot; Copyright &copy; Harper Reed &middot; Contact <a href="mailto:harper@nata2.org">Harper Reed</a> &middot; Generated @ Jul 9, 2018</p>
+    
+      </footer>
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70650-74', 'auto');
+  ga('send', 'pageview');
+
+</script>
+  
+
+    </div>
+  </body>
+</html>

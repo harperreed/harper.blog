@@ -1,26 +1,14 @@
-
 {{ define "main" }}
 
-<h1 id="writing">Writing</h1>
+  {{ range (where .Site.Pages "Type" "post") }}
+    <div class="post" style="padding-bottom: 50px;">
+      <div >
+        <h1 ><a title="Permanent Link to {{ .Title }}." href="{{.RelPermalink}}" rel="bookmark">{{ .Title }}</a> <br /><small>Posted on {{.Date.Format "Jan 2, 2006" }}</small></h1>
+      </div>
+      <div class="postcontent">
+        {{ .Content }}
+      </div>
+    </div>
+  {{ end }}
 
-<p>I don’t write very often. The last post was on May 19, 2018. I spend a lot of my time <a href="http://twitter.com/harper" target="_blank">tweeting</a> or, if I do write, posting to <a href="http://medium.com/@" target="_blank">medium</a>.</p>
-
-<p>I blogged regularly at <a href="https://web.archive.org/web/*/nata2.org" target="_blank">nata2.org</a> for a bunch of years (1416 post between 2000-2015). It was a lot of fun and was a great outlet. Around the launch of Twitter, I stopped doing it regularly.</p>
-
-<p>Here are the last 20 posts I made. If you want, you can check out the full <a href="/archives">archives</a>.</p>
-
-<h2 id="most-recent-twenty-posts">Most recent twenty posts</h2>
-<div class="post">
-  <ul>
-  {{ range first 20 .Data.Pages }}
-    {{ if eq .Type  "post" }}
-        <li>{{ .Date.Format "Jan 2, 2006" }} &mdash; <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-
-    {{ end }}
-{{ end }}
-  </ul>
-
-
-Check out the full <a href="/archives">archives</a>
-</div>
 {{ end }}

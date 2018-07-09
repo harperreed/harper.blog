@@ -1,7 +1,8 @@
 build:
 	hugo
 deploy: build
-	git commit -m "updated"
+	git add docs/*
+	git commit -m "Updated docs" docs
 	git push
 serve:
 	hugo serve

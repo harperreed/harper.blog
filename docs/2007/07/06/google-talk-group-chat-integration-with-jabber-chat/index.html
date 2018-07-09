@@ -1,0 +1,135 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="shortcut icon" href="/favicon.ico">
+      
+      <title>Google Talk group chat integration with Jabber Chat &middot; Writing by Harper Reed</title>
+      <meta name="description" content="">
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script>
+      <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+      <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-hQpvDQiCJaD2H465dQfA717v7lu5qHWtDbWNPvaTJ0ID5xnPUlVXnKzq7b8YUkbN" crossorigin="anonymous">
+
+      <link rel="alternate" type="application/rss+xml" title="Writing by Harper Reed" href="">
+      <meta name="google-site-verification" content="UhNsUFmIygSV6JDvpCaxIJs2mQLgTvuKcFG5epZZiCg" />
+      <link rel="stylesheet" href="/css/main.css">
+      <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Person",
+      "name": "Harper Reed",
+      "url": "http://www.harperreed.com",
+      "sameAs": [
+        "https://instagram.com/harperreed",
+        "https://www.linkedin.com/in/harperreed",
+        "https://twitter.com/harper"
+      ]
+    }
+      </script>
+    
+  </head>
+  <body>
+    <div class="container">
+
+    
+      <header class="page-header">
+        
+
+      <div class="wrapper">
+        <ul class="nav nav-pills pull-right">
+            
+            <li class="presentation">
+              <a href="/about/">About</a>
+            </li>
+            
+            <li class="presentation">
+              <a href="/archives/">Historical Archives</a>
+            </li>
+            
+        </ul>
+        <h1><a class="page-title" href="/"><i class="fa fa-pencil" aria-hidden="true"></i> Writing by Harper Reed</a></h1>
+      </div>
+    
+    </header>
+
+
+
+    
+    <div class="page-content">
+      
+<nav>
+  <ul class="pager">
+    <li class="previous"><a href="/archives/"><span aria-hidden="true">&larr;</span> Back to Archives</a></li>
+  </ul>
+</nav>
+<div class="post" style="padding-bottom: 50px;">
+
+  <div >
+    <h1 ><a title="Permanent Link to Google Talk group chat integration with Jabber Chat." href="/2007/07/06/google-talk-group-chat-integration-with-jabber-chat/" rel="bookmark">Google Talk group chat integration with Jabber Chat</a> <br /><small>Posted on Jul 6, 2007</small></h1>
+  </div>
+  <div class="postcontent">
+    <p><p>I love jabber. I love <a href="http://www.google.com/talk/">Google talk</a> because it is jabber. I really like what jabber supports and how it works. And the Google talk desktop app is pretty smooth. </p> <p>A couple weeks ago Google released <a href="http://mashable.com/2007/03/14/google-talk-gadget/">Google talk gadget</a> that allowed group chatting. This was super weird since the flash based gadget has totally blown the desktop app out of the water - in regards to features. What is annoying is that they are limiting the groups feature to Google talk accounts. </p> <p><img src="http://farm2.static.flickr.com/1268/734972888_403d1243e0.jpg?v=0" align="right"></p> <p>The screenshot on my left shows me attempting to invite a plain vanilla jabber account to my talk gadget group chat. As you can see it says &ldquo;nata2@jabber.org is not using a Google account. Currently, the group chat feature is only operational for such accounts.&rdquo; Google&nbsp;is blocking inviting other providers. </p> <p>So i got to thinking about Google Talk and Jabber. I imagined that the group chat was nothing more than the mult-iuser chat supported by jabber (<a href="http://www.xmpp.org/extensions/xep-0045.html">XEP-0045: Multi-User Chat</a>). Just a more googlized version.&nbsp; So i did a little experiment. Simple and easily reproducible. Try it yourself. </p> <p>First, i took <strike><a href="http://pidgin.im/~elb/cgi-bin/pyblosxom.cgi/going_public.html">gaim</a></strike> <a href="http://pidgin.im/">pidgin</a> and I created a group chat with my jabber account hosted at conference.jabber.org. I named this room harper-test. Pidgin popped up a dialog about configuring the room. I left it as plain as i could. </p> <p>Second, I invited my Google talk name. It is a <a href="http://google.com/a/">Google apps</a> talk name, but it is using the same client. So i invited that into the group chat. </p> <p>I need to jump in here and clarify something. You have always been able to use pidgin or really any other jabber client and log in as your Google Talk account and use jabber multi user chat. So i knew that theoretically you could connect using a Google Talk account. but i wanted to try through their gadget client. </p> <p>So anyway. I in pidgin, i&nbsp;invited my self to my newly created chat room. And it popped up the chat room right away. I was able to see right in. However, it was really wonky. The names of each participant was &ldquo;undefined&rdquo; and it was a bit slow to react. It sometimes stalled for a couple secs then caught up. But it worked. I was able to invite a bundle of people. I tested it on 2 hosted Google Talk accounts and one gmail - all in the Google talk gadget. I invited 2 friends who both used pidgin. They both got in fine and were able to see the real names of everyone. </p> <p><a title="Photo Sharing" href="http://www.flickr.com/photos/natatwo/734892136/"><img height="347" alt="google-talk-group-chat" src="http://farm2.static.flickr.com/1008/734892136_e68d5ac074.jpg" width="500"></a></p> <p>So i guess it is using the multi-user chat functionality. Hilarious. And their blocking non Google talk accounts could be purely not wanting to interop or federate with other jabber services. Or it could be some bigger game plan that i don&rsquo;t know. regardless - Google is a bunch of punks. </p> <p>I hope they someday open up Google Talk like we all want them to. They have been sitting on this <a href="http://code.google.com/apis/talk/open_communications.html">Google Talk and Open Communications</a>&nbsp;page for far too long without doing much (and when i say &ldquo;not doing much&rdquo; - i really mean &ldquo;doing a lot more than anyone else - but seriously - when can i hit up <a href="http://juberti.blogspot.com/2007/01/google-talk-aim-when.html">aim names on Google Talk</a>?!?&ldquo;).</p> <div class="wlWriterSmartContent" id="0767317B-992E-4b12-91E0-4F059A8CECA8:cd5ea250-c1f2-4283-9143-dd7f4d954e8c" contenteditable="false" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">[tags]google, gtalk, talk, google talk, jabber, multi-user chat, awesome, tricks[/tags]</div></p>
+
+  </div>
+</div>
+
+<hr>
+
+
+
+
+<h3>See Also</h3>
+<ul>
+  
+  <li><a href="/2007/06/30/the-iphone-is-nifty/">The iPhone is nifty</a> <small>published on Jun 30, 2007</small></li>
+  
+  <li><a href="/2007/06/27/goddamn-stoners/">Goddamn Stoners!</a> <small>published on Jun 27, 2007</small></li>
+  
+  <li><a href="/2007/06/20/sicko.-you-need-to-see-this-movie./">Sicko. You need to see this movie.</a> <small>published on Jun 20, 2007</small></li>
+  
+  <li><a href="/2007/06/14/heh.-crackers-just-tried-to-social-engineer-me/">heh. Crackers just tried to social engineer me</a> <small>published on Jun 14, 2007</small></li>
+  
+  <li><a href="/2007/06/13/new-window-live--writer-released/">New Window Live  Writer released</a> <small>published on Jun 13, 2007</small></li>
+  
+</ul>
+
+
+<hr>
+
+<nav>
+  <ul class="pager">
+  
+    <li class="previous"><a href="/2007/07/09/awesome-weekend.-pownce-invites/" title="Previous: Awesome weekend. Pownce invites"><span aria-hidden="true">&larr;</span> Previous entry </a></li>
+  
+  
+    <li class="next"><a href="/2007/06/30/the-iphone-is-nifty/" title="Next: The iPhone is nifty">Next entry <span aria-hidden="true">&rarr;</span></a></li>
+  
+  </ul>
+</nav>
+
+    </div>
+      <footer class="footer">
+    
+      <br /><br />
+        <p class="text-muted small"><b><i class="fa fa-camera-retro" aria-hidden="true"></i> Writing by Harper Reed</b> &middot; Copyright &copy; Harper Reed &middot; Contact <a href="mailto:harper@nata2.org">Harper Reed</a> &middot; Generated @ Jul 9, 2018</p>
+    
+      </footer>
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70650-74', 'auto');
+  ga('send', 'pageview');
+
+</script>
+  
+
+    </div>
+  </body>
+</html>

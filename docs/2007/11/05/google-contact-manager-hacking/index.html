@@ -1,0 +1,165 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="shortcut icon" href="/favicon.ico">
+      
+      <title>Google Contact Manager Hacking &middot; Writing by Harper Reed</title>
+      <meta name="description" content="">
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script>
+      <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+      <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-hQpvDQiCJaD2H465dQfA717v7lu5qHWtDbWNPvaTJ0ID5xnPUlVXnKzq7b8YUkbN" crossorigin="anonymous">
+
+      <link rel="alternate" type="application/rss+xml" title="Writing by Harper Reed" href="">
+      <meta name="google-site-verification" content="UhNsUFmIygSV6JDvpCaxIJs2mQLgTvuKcFG5epZZiCg" />
+      <link rel="stylesheet" href="/css/main.css">
+      <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Person",
+      "name": "Harper Reed",
+      "url": "http://www.harperreed.com",
+      "sameAs": [
+        "https://instagram.com/harperreed",
+        "https://www.linkedin.com/in/harperreed",
+        "https://twitter.com/harper"
+      ]
+    }
+      </script>
+    
+  </head>
+  <body>
+    <div class="container">
+
+    
+      <header class="page-header">
+        
+
+      <div class="wrapper">
+        <ul class="nav nav-pills pull-right">
+            
+            <li class="presentation">
+              <a href="/about/">About</a>
+            </li>
+            
+            <li class="presentation">
+              <a href="/archives/">Historical Archives</a>
+            </li>
+            
+        </ul>
+        <h1><a class="page-title" href="/"><i class="fa fa-pencil" aria-hidden="true"></i> Writing by Harper Reed</a></h1>
+      </div>
+    
+    </header>
+
+
+
+    
+    <div class="page-content">
+      
+<nav>
+  <ul class="pager">
+    <li class="previous"><a href="/archives/"><span aria-hidden="true">&larr;</span> Back to Archives</a></li>
+  </ul>
+</nav>
+<div class="post" style="padding-bottom: 50px;">
+
+  <div >
+    <h1 ><a title="Permanent Link to Google Contact Manager Hacking." href="/2007/11/05/google-contact-manager-hacking/" rel="bookmark">Google Contact Manager Hacking</a> <br /><small>Posted on Nov 5, 2007</small></h1>
+  </div>
+  <div class="postcontent">
+    <p>Since Google just changed the game of mobile software - I got to thinking about my new fascination - Contact management. So the first place I go to is Gmail and <a href="http://lifehacker.com/software/sneak-preview/gmail-speeds-up-improves-contacts-316673.php">Google&rsquo;s new contact manager</a>. Being an <a href="http://en.wikipedia.org/wiki/ISync">iSync</a> freakout, I love syncing my contacts. I LOVE being able to bring in contacts from all my different sources and see them mix with my current contacts. I LOVE finding duplicates and merging then. God I am a dork. So recently, Google released a new contact manager into Gmail&rsquo;s across the world (If you don&rsquo;t have it, you probably will soon) - so I was excited to try out the import export pieces to see how well it works/goes. fun fun. here are most of my notes.</p>
+
+<p>First off some history. So there is a pretty <a href="http://googlesystem.blogspot.com/2007/01/gmail-contact-list-exposure.html">well documented &ldquo;hole&rdquo; in the old Google contact manager available in Google video</a>. I say hole because some people claim its a security concern. It is. But I don&rsquo;t think it is too big of concern. It requires a legit cookie and active session. I imagine through some reflection and other security nonsense - bad things could happen. But i am happy it is exposed.</p>
+
+<p>If you go to:
+<blockquote><a href="http://video.google.com/contacts/data/contacts?thumb=true&amp;groups=true&amp;show=PICKER&amp;enums=true&amp;psort=Name&amp;max=300&amp;out=js&amp;rf=Emails&amp;jsx=true"><a href="http://mail.google.com/mail/contacts/ui/ContactManager?">http://mail.google.com/mail/contacts/ui/ContactManager?</a> js=RAW&amp;maximize=true&amp;hide=true&amp;position=absolute&amp;hl=en&amp;border=NONE</a></blockquote>
+You will get a list of your contacts in XML. You can add various things onto the query string to change the output to js (<a href="http://video.google.com/contacts/data/contacts?thumb=true&amp;groups=true&amp;show=ALL&amp;enums=true&amp;psort=Name&amp;max=500&amp;out=js&amp;jsx=true">out=js</a>), change the sort order (<a href="http://video.google.com/contacts/data/contacts?thumb=true&amp;groups=true&amp;show=ALL&amp;enums=true&amp;psort=Email&amp;max=500&amp;jsx=true">psort=Email</a>, <a href="http://video.google.com/contacts/data/contacts?thumb=true&amp;groups=true&amp;show=ALL&amp;enums=true&amp;psort=Name&amp;max=500&amp;jsx=true">psort=Name</a>) and I am sure there are others as well.</p>
+
+<p>So from here we move onto Gmail and the new contact manager. First off, you can easily find the new xml/js stream of your contacts:
+<blockquote><a href="http://mail.google.com/mail/contacts/data/contacts?show=ALL&amp;out=js">http://mail.google.com/mail/contacts/data/contacts?show=ALL&amp;out=js</a></blockquote>
+This is (apparently) all your contacts. Take away the &ldquo;&amp;out=js&rdquo; if you want to see the <a href="http://mail.google.com/mail/contacts/data/contacts?show=ALL">easier to read XML version.</a></p>
+
+<p>So now the magic part of it all! Access to the raw Contact Manager. You do not have to physically in Gmail to access it. Just visit this easy to remember URL:
+<blockquote><a href="http://mail.google.com/mail/contacts/ui/ContactManager">http://mail.google.com/mail/contacts/ui/ContactManager</a></blockquote>
+You now have access to the new contact manager for Gmail (even if your Gmail account doesn&rsquo;t have access). You can also access this from a Google Apps account as well:
+<blockquote><a href="http://mail.google.com/a/nata2.org/contacts/ui/ContactManager">http://mail.google.com/a/nata2.org/contacts/ui/ContactManager</a>?</blockquote>
+Pretty easy!</p>
+
+<p>From here you can handle all the goodness of importing and exporting your contacts to real formats. You can add real contact info. You can import from a bundle of different places and finally get your Gmail address book under control.</p>
+
+<p>Sadly, there is not an &ldquo;<a href="http://code.google.com/apis/gmail">official</a>&rdquo; Gdata rest API for Google contacts, however with the recent announcements and with <a href="http://code.google.com/apis/opensocial/">OpenSocial</a>, I can&rsquo;t imagine it being far behind.</p>
+
+<p><strong>Extra Credit: </strong>Here is a Gmail photo access trick from <a href="http://jacobdehart.com">Jacob</a>! Have you ever wondered how to access the photos stored? Well here is a trick:
+<blockquote><a href="http://mail.google.com/mail/photos/email@address.com" title="http://mail.google.com/mail/photos/email@address.com">http://mail.google.com/mail/photos/email@address.com</a></blockquote>
+So the trick is to just append the email address to the url: <a href="http://mail.google.com/mail/photos/" title="http://mail.google.com/mail/photos/">http://mail.google.com/mail/photos/</a></p>
+
+<p>So for me you get:
+<blockquote><a href="http://mail.google.com/a/nata2.org/photos/harper@nata2.org">http://mail.google.com/a/nata2.org/photos/harper@nata2.org</a></blockquote>
+That is the picture of me for my Google Apps account. If you want it in Gmail go to:
+<blockquote><a href="http://mail.google.com/mail/photos/harper@nata2.org">http://mail.google.com/mail/photos/harper@nata2.org</a></blockquote>
+<font style="background-color: #ffffff" color="#40454b">This is obvious a helper URL to easily get contact pictures in Gmail. You just replace the email address in the above URL with your own and you will get the picture. You could probably roll your own simple <a href="http://site.gravatar.com/">Gravatar</a> like service using this info!</font></p>
+
+  </div>
+</div>
+
+<hr>
+
+
+
+
+<h3>See Also</h3>
+<ul>
+  
+  <li><a href="/2007/10/23/a-vibrant-music-community-has-been-ended/">A vibrant music community has been ended</a> <small>published on Oct 23, 2007</small></li>
+  
+  <li><a href="/2007/10/17/a-email-response-from-a-friend/">A email response from a friend</a> <small>published on Oct 17, 2007</small></li>
+  
+  <li><a href="/2007/10/17/tell-him-to-stay-in-his-tree/">Tell him to stay in his tree</a> <small>published on Oct 17, 2007</small></li>
+  
+  <li><a href="/2007/10/09/everyday-because-of-the-internet-i-am-discovering-new-music/">Everyday, because of the internet, I am discovering new music</a> <small>published on Oct 9, 2007</small></li>
+  
+  <li><a href="/2007/09/26/no.-10-medical-pot-and-the-iraq-veteran/">No. 10: Medical Pot and the Iraq Veteran</a> <small>published on Sep 26, 2007</small></li>
+  
+</ul>
+
+
+<hr>
+
+<nav>
+  <ul class="pager">
+  
+    <li class="previous"><a href="/2007/11/05/exciting-news/" title="Previous: Exciting News!"><span aria-hidden="true">&larr;</span> Previous entry </a></li>
+  
+  
+    <li class="next"><a href="/2007/10/23/a-vibrant-music-community-has-been-ended/" title="Next: A vibrant music community has been ended">Next entry <span aria-hidden="true">&rarr;</span></a></li>
+  
+  </ul>
+</nav>
+
+    </div>
+      <footer class="footer">
+    
+      <br /><br />
+        <p class="text-muted small"><b><i class="fa fa-camera-retro" aria-hidden="true"></i> Writing by Harper Reed</b> &middot; Copyright &copy; Harper Reed &middot; Contact <a href="mailto:harper@nata2.org">Harper Reed</a> &middot; Generated @ Jul 9, 2018</p>
+    
+      </footer>
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70650-74', 'auto');
+  ga('send', 'pageview');
+
+</script>
+  
+
+    </div>
+  </body>
+</html>

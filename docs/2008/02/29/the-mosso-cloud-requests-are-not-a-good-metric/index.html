@@ -1,0 +1,162 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="shortcut icon" href="/favicon.ico">
+      
+      <title>The Mosso Cloud: Requests are not a good metric &middot; Writing by Harper Reed</title>
+      <meta name="description" content="">
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script>
+      <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+      <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-hQpvDQiCJaD2H465dQfA717v7lu5qHWtDbWNPvaTJ0ID5xnPUlVXnKzq7b8YUkbN" crossorigin="anonymous">
+
+      <link rel="alternate" type="application/rss+xml" title="Writing by Harper Reed" href="">
+      <meta name="google-site-verification" content="UhNsUFmIygSV6JDvpCaxIJs2mQLgTvuKcFG5epZZiCg" />
+      <link rel="stylesheet" href="/css/main.css">
+      <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Person",
+      "name": "Harper Reed",
+      "url": "http://www.harperreed.com",
+      "sameAs": [
+        "https://instagram.com/harperreed",
+        "https://www.linkedin.com/in/harperreed",
+        "https://twitter.com/harper"
+      ]
+    }
+      </script>
+    
+  </head>
+  <body>
+    <div class="container">
+
+    
+      <header class="page-header">
+        
+
+      <div class="wrapper">
+        <ul class="nav nav-pills pull-right">
+            
+            <li class="presentation">
+              <a href="/about/">About</a>
+            </li>
+            
+            <li class="presentation">
+              <a href="/archives/">Historical Archives</a>
+            </li>
+            
+        </ul>
+        <h1><a class="page-title" href="/"><i class="fa fa-pencil" aria-hidden="true"></i> Writing by Harper Reed</a></h1>
+      </div>
+    
+    </header>
+
+
+
+    
+    <div class="page-content">
+      
+<nav>
+  <ul class="pager">
+    <li class="previous"><a href="/archives/"><span aria-hidden="true">&larr;</span> Back to Archives</a></li>
+  </ul>
+</nav>
+<div class="post" style="padding-bottom: 50px;">
+
+  <div >
+    <h1 ><a title="Permanent Link to The Mosso Cloud: Requests are not a good metric." href="/2008/02/29/the-mosso-cloud-requests-are-not-a-good-metric/" rel="bookmark">The Mosso Cloud: Requests are not a good metric</a> <br /><small>Posted on Feb 29, 2008</small></h1>
+  </div>
+  <div class="postcontent">
+    <p><i><b>UPDATE: </b>Not a moment after i posted this - i got a mosso mailing that explained an upgrade in the plan. I will leave the original number in because i still think my point is valid and because that is what new Mosso customers will be getting. Their update is just a quick fix to stop us from bitching. It isn&rsquo;t solving the problem.</i></p>
+
+<p>I have <a href="http://www.nata2.org/2007/06/05/hosting-woes-collocation-and-how-mosso-sucks">blogged about Mosso before</a>. I have used them practically from their inception (well before they were cool. hah). I have been happy and I have been totally pissed. but for the most part they have done an amazing job of doing shared hosting in the most unsucky way possible. The features and capabilities they offer are hard to beat. They have some quirks and growing pains - but what shared host doesn&rsquo;t. But Mosso is quite different than most shared hosts.</p>
+
+<p>What is really neat about Mosso is that Mosso is just a giant cluster. So your sites are load balanced across many many servers. Its how I imagined cloud or &ldquo;grid&rdquo; hosting should be. And it works. and it works well.  You don&rsquo;t have to worry about your small site being sucked of its life by a larger site that sits on the same server. every site is spread over multiple servers - so your site
+gets the same priority as a HUGE site.</p>
+
+<p>Its awesome. and super cheap.</p>
+
+<p>I am hosting around 150 sites for 100 bucks a month. With crazy white label options and more features than almost any host. I use it primarily for hosting all my shitty domains and for hosting my friends blogs and sites. I don&rsquo;t host large sites on there, but I do have probably more on Mosso than I should in one account. I never hit any of the resource limits and I was never told to host less. In fact - there are no limits to what you can host as long as you stay within the resource limits.</p>
+
+<p>Obviously, I am not alone in this use case. I imagine that many clients are abusing their cluster the same way I am, with no practical repercussion and no way to limit them without drastically changing their plan.</p>
+
+<p>I am guessing Mosso was looking at their usage and looking at us horrible clients - and figured that they were getting owned. So they decided to set up a new resource metric.</p>
+
+<p>How they picked requests, I will never know. But they decided to bill based on requests. So each person gets 3MM requests a month. This is some 1995 shit. I mean - requests is just an annoying &ldquo;web 2.0 cloud computing market speak&rdquo; for hits. Everyone knows what a hit is. everyone knows that you can have a shitty site and have a lot of hits. Nobody uses hits as a metric. Except Mosso ;)</p>
+
+<p>With Mosso&rsquo;s new pricing, you get charged for each &ldquo;hit&rdquo; to a site that is hosted at Mosso. If you go over your 3MM allotment, you get charged at $0.03 for each 1000 &ldquo;hits&rdquo; to your site. seriously. three cents for every 1000 hits.</p>
+
+<p>That means - if you have a horrible blog that has 50 images on every page load. And you get around 2500 views a day (which is a lot - but not unrealistic). You will use up all your &ldquo;hits&rdquo; for that month. But if I don&rsquo;t have all those images, my 2500 view a day blog will not use all the &ldquo;hits&rdquo; up. Keep in mind as well that Mosso is a place where you are able to host an unlimited number of sites. So what happens if you have 50 clients, and each client is using around .5MM &ldquo;hits&rdquo; a month. You end up paying about ~$750 in overage for your cheap shared hosting. per month. Suddenly Mosso is more expensive than a NICE dedicated box from Server Beach.</p>
+
+<p>I imagine that the 5MM &ldquo;hits&rdquo; is just a rough number they thought up. I am guessing they are going to change that number. Offer a couple price plans and generally try and make things better.</p>
+
+<p>My concern is not in them attempting to make things better, more equal or for them to change the pricing into a more ala cart type of offering. My concern is in the requests metric. It doesn&rsquo;t make sense. There are lot better ways to measure server usage than something that is arbitrary and negatively impacts the people who are building these sites. People who use a premade CMS like drupal or wordpress may incur more charges than people who are using simpler, css based custom sites. People who have sites that are heavy in graphics (graphic designers, ad people, agency people) will all be effected - because they are more worried about how the site looks and how it is presented - not how many &ldquo;hits&rdquo; each page view will take.</p>
+
+<p>The whole philosophy of Mosso seems to be for them to take the much needed place of being a simple shared host targeting designers and other internet people who donÂ’t want to worry about their hosting and don&rsquo;t want to pay for a dedicated box. Someone who wants to give their client SOLID hosting, but doesn&rsquo;t want to hire a sysadmin. It seems to me that those people are not going to want to start worrying about how many &ldquo;hits&rdquo; each page view gets, nor are they going to want educate their clients that the more successful their site gets - the more they have to pay.</p>
+
+<p>I think that the &ldquo;pay for what you use&rdquo; model is the future. It doesn&rsquo;t make sense for me, with sites that are using 90% of a servers resources to pay the same as someone who is using 10% of a servers resources. However, it should be something that is quantifiable and based on actual server usage. Not something that is relative to how your site is laid out and created.</p>
+
+  </div>
+</div>
+
+<hr>
+
+
+
+
+<h3>See Also</h3>
+<ul>
+  
+  <li><a href="/2008/02/25/google-apps-auth-xmpp-and-radius-idea/">Google Apps Auth: XMPP and Radius idea</a> <small>published on Feb 25, 2008</small></li>
+  
+  <li><a href="/2008/02/23/rails-and-wired-magazine/">Rails and Wired magazine</a> <small>published on Feb 23, 2008</small></li>
+  
+  <li><a href="/2008/02/04/obama-yes-we-can/">Obama: yes we can</a> <small>published on Feb 4, 2008</small></li>
+  
+  <li><a href="/2008/01/22/putting-the-blame-on-your-vendors-for-the-win./">Putting the blame on your vendors for the win. </a> <small>published on Jan 22, 2008</small></li>
+  
+  <li><a href="/2008/01/11/monsters-for-you-to-buy-and-make-your-friend/">Monsters for you to buy and make your friend!</a> <small>published on Jan 11, 2008</small></li>
+  
+</ul>
+
+
+<hr>
+
+<nav>
+  <ul class="pager">
+  
+    <li class="previous"><a href="/2008/03/02/awesome-hosting-options/" title="Previous: Awesome hosting options"><span aria-hidden="true">&larr;</span> Previous entry </a></li>
+  
+  
+    <li class="next"><a href="/2008/02/25/google-apps-auth-xmpp-and-radius-idea/" title="Next: Google Apps Auth: XMPP and Radius idea">Next entry <span aria-hidden="true">&rarr;</span></a></li>
+  
+  </ul>
+</nav>
+
+    </div>
+      <footer class="footer">
+    
+      <br /><br />
+        <p class="text-muted small"><b><i class="fa fa-camera-retro" aria-hidden="true"></i> Writing by Harper Reed</b> &middot; Copyright &copy; Harper Reed &middot; Contact <a href="mailto:harper@nata2.org">Harper Reed</a> &middot; Generated @ Jul 9, 2018</p>
+    
+      </footer>
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70650-74', 'auto');
+  ga('send', 'pageview');
+
+</script>
+  
+
+    </div>
+  </body>
+</html>
