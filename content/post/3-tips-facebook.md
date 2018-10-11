@@ -46,7 +46,7 @@ This is the best tip ever. Seriously. It made Facebook interesting again. It is 
 
 This is the resulting newsfeed: 
 
-<img src="/images/Facebook/newsfeed.png" width="400px" />
+<img src="/images/facebook/newsfeed.png" width="400px" />
 
 so empty. so blank. 
 
@@ -63,18 +63,18 @@ Here is how to unfollow all your friends:
 Click on the little triangle at the top right of your Facebook
 
 looks like this:   
-<img src="/images/Facebook/top-right-guy.png" width="100px" />
+<img src="/images/facebook/top-right-guy.png" width="100px" />
 
 That will create a drop down and select: "News Feed Preferences"   
-<img src="/images/Facebook/news-feed-preferences.png" width="200px" />
+<img src="/images/facebook/news-feed-preferences.png" width="200px" />
 
 A pop up will appear! It looks like this:   
-<img src="/images/Facebook/unfollow-pref.png" width="300px" />
+<img src="/images/facebook/unfollow-pref.png" width="300px" />
 
 Click on "Unfollow people and groups to hide their posts"
 
 This dialog will appear:   
-<img src="/images/Facebook/following-pref.png" width="300px" />
+<img src="/images/facebook/following-pref.png" width="300px" />
 
 Except it will be full of your friends. I have already unfollowed everyone. 
 
