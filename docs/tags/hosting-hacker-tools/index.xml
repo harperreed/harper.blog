@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hosting Hacker Tools on Writing by Harper Reed</title>
-    <link>http://harper.blog/tags/hosting-hacker-tools/</link>
+    <link>https://harper.blog/tags/hosting-hacker-tools/</link>
     <description>Recent content in Hosting Hacker Tools on Writing by Harper Reed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Jan 2002 02:05:03 +0000</lastBuildDate>
     
-	<atom:link href="http://harper.blog/tags/hosting-hacker-tools/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://harper.blog/tags/hosting-hacker-tools/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>r00ted</title>
-      <link>http://harper.blog/2002/01/07/r00ted/</link>
+      <link>https://harper.blog/2002/01/07/r00ted/</link>
       <pubDate>Mon, 07 Jan 2002 02:05:03 +0000</pubDate>
       
-      <guid>http://harper.blog/2002/01/07/r00ted/</guid>
+      <guid>https://harper.blog/2002/01/07/r00ted/</guid>
       <description>Today a dumb ass cracker rooted one of my boxes. It was a cobalt RaQ and was running sendmail and an old version of sshd, so it &amp;ldquo;deserved it.&amp;rdquo; I had done a lot to make it more secure, however the default web admin tools that my clients use relied on sendmail and telnet and such. it was super sketchy. So anyway, the reason I say that it was a dumb ass cracker, was because they tried to install a rootkit on the box.</description>
     </item>
     

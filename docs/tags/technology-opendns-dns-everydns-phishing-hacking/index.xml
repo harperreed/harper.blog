@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology Opendns Dns Everydns Phishing Hacking on Writing by Harper Reed</title>
-    <link>http://harper.blog/tags/technology-opendns-dns-everydns-phishing-hacking/</link>
+    <link>https://harper.blog/tags/technology-opendns-dns-everydns-phishing-hacking/</link>
     <description>Recent content in Technology Opendns Dns Everydns Phishing Hacking on Writing by Harper Reed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Jul 2006 15:18:23 +0000</lastBuildDate>
     
-	<atom:link href="http://harper.blog/tags/technology-opendns-dns-everydns-phishing-hacking/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://harper.blog/tags/technology-opendns-dns-everydns-phishing-hacking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>testing out openDNS</title>
-      <link>http://harper.blog/2006/07/10/testing-out-opendns/</link>
+      <link>https://harper.blog/2006/07/10/testing-out-opendns/</link>
       <pubDate>Mon, 10 Jul 2006 15:18:23 +0000</pubDate>
       
-      <guid>http://harper.blog/2006/07/10/testing-out-opendns/</guid>
+      <guid>https://harper.blog/2006/07/10/testing-out-opendns/</guid>
       <description>I just put openDNS into place at skinny. It is a neat DNS &amp;ldquo;replacement&amp;rdquo; that is a bit more intelligent than regular DNS. it apparently checks for phishing and notifies the user that they are going to a &amp;ldquo;phishing site.&amp;rdquo; This is pretty cool stuff - however i am worried about who chooses the phishing sites. I mean, what if they become a bit more vigilant and start blocking &amp;ldquo;hacking sites&amp;rdquo; or &amp;ldquo;sites deemed inappropriate?</description>
     </item>
     

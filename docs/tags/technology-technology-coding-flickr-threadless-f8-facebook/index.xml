@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology Technology Coding Flickr Threadless F8 Facebook on Writing by Harper Reed</title>
-    <link>http://harper.blog/tags/technology-technology-coding-flickr-threadless-f8-facebook/</link>
+    <link>https://harper.blog/tags/technology-technology-coding-flickr-threadless-f8-facebook/</link>
     <description>Recent content in Technology Technology Coding Flickr Threadless F8 Facebook on Writing by Harper Reed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Jun 2007 21:30:44 +0000</lastBuildDate>
     
-	<atom:link href="http://harper.blog/tags/technology-technology-coding-flickr-threadless-f8-facebook/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://harper.blog/tags/technology-technology-coding-flickr-threadless-f8-facebook/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Flickr Gallery for facebook.</title>
-      <link>http://harper.blog/2007/06/04/flickr-gallery-for-facebook./</link>
+      <link>https://harper.blog/2007/06/04/flickr-gallery-for-facebook./</link>
       <pubDate>Mon, 04 Jun 2007 21:30:44 +0000</pubDate>
       
-      <guid>http://harper.blog/2007/06/04/flickr-gallery-for-facebook./</guid>
+      <guid>https://harper.blog/2007/06/04/flickr-gallery-for-facebook./</guid>
       <description>So I decided to jump in and write a facebook application. It was really fun and pretty easy. For those of you who haven&amp;rsquo;t been following this, Facebook released development kit for their site that allows third parties to develop applications that reside inside of facebook&amp;rsquo;s website. It is pretty nifty. So I used the framework I currently write software with. A mix of smarty and a solid DB abstraction layer, and modified it to work with facebook.</description>
     </item>
     
