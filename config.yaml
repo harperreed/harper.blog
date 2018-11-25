@@ -4,6 +4,8 @@ publishDir: "docs"
 languageCode: en-us
 title: Writing by Harper Reed
 theme: "harperblog"
+canonifyURLs: true
+enableRobotsTXT: true
 
 permalinks:
   post: /:year/:month/:day/:title/
@@ -16,3 +18,8 @@ params:
   cachebuster: "harper rules"
   name: "Harper Reed"
   email: harper@nata2.org
+
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+
