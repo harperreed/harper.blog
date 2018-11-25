@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>General Technology Technology on Writing by Harper Reed</title>
-    <link>http://harper.blog/tags/general-technology-technology/</link>
+    <link>https://harper.blog/tags/general-technology-technology/</link>
     <description>Recent content in General Technology Technology on Writing by Harper Reed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Apr 2006 05:49:37 +0000</lastBuildDate>
     
-	<atom:link href="http://harper.blog/tags/general-technology-technology/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://harper.blog/tags/general-technology-technology/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>gcal: google calendar wordpress plugin</title>
-      <link>http://harper.blog/2006/04/25/gcal-google-calendar-wordpress-plugin/</link>
+      <link>https://harper.blog/2006/04/25/gcal-google-calendar-wordpress-plugin/</link>
       <pubDate>Tue, 25 Apr 2006 05:49:37 +0000</pubDate>
       
-      <guid>http://harper.blog/2006/04/25/gcal-google-calendar-wordpress-plugin/</guid>
+      <guid>https://harper.blog/2006/04/25/gcal-google-calendar-wordpress-plugin/</guid>
       <description>I have released my first wordpress plugin. It allows a user to take the public shared calendar feed from goodle calendar and display it in a useful fashion on their wordpress blog.
 You can see the result of the plugin here: my calendar
 you can download it here: gcal.tar.gz
@@ -26,10 +26,10 @@ Let me know if you have any suggestions or any bugs. Feel free to leave comments
     
     <item>
       <title>Caller id spoofing with PHP and asterisk</title>
-      <link>http://harper.blog/2006/02/14/caller-id-spoofing-with-php-and-asterisk/</link>
+      <link>https://harper.blog/2006/02/14/caller-id-spoofing-with-php-and-asterisk/</link>
       <pubDate>Tue, 14 Feb 2006 14:28:58 +0000</pubDate>
       
-      <guid>http://harper.blog/2006/02/14/caller-id-spoofing-with-php-and-asterisk/</guid>
+      <guid>https://harper.blog/2006/02/14/caller-id-spoofing-with-php-and-asterisk/</guid>
       <description>I have cleaned up and commented a little hack i did for my home asterisk server - allowing a person to dial an extension and then be walked through spoofing caller id on a call. It is a ridiculously easy hack to engage. I was surprised and a bit concerned at what this means in regards to trust and telephony. I mean, if a hobbyist is able to spoof caller id on a phone call to anywhere with nothing more than asterisk@home and vmware.</description>
     </item>
     

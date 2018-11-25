@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Server Linux on Writing by Harper Reed</title>
-    <link>http://harper.blog/tags/server-linux/</link>
+    <link>https://harper.blog/tags/server-linux/</link>
     <description>Recent content in Server Linux on Writing by Harper Reed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Apr 2003 06:56:07 +0000</lastBuildDate>
     
-	<atom:link href="http://harper.blog/tags/server-linux/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://harper.blog/tags/server-linux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>jesus</title>
-      <link>http://harper.blog/2003/04/07/jesus/</link>
+      <link>https://harper.blog/2003/04/07/jesus/</link>
       <pubDate>Mon, 07 Apr 2003 06:56:07 +0000</pubDate>
       
-      <guid>http://harper.blog/2003/04/07/jesus/</guid>
+      <guid>https://harper.blog/2003/04/07/jesus/</guid>
       <description>today I installed linux on my new server. It was fun although I need to do it again and again to get it right. For some reason the minimal install of redhat install sendmail. wtf. I hate sendmail. stupid sendmail. anyway. 
 Old Server: -bogomips : 1389.36 -model name : Dual Pentium III (Coppermine) New Server -bogomips : 4784.26 -model name : Dual Intel&amp;reg; Xeon&amp;trade; CPU 2.40GHz  A little bit faster</description>
     </item>
     
     <item>
       <title>irony</title>
-      <link>http://harper.blog/2002/01/07/irony/</link>
+      <link>https://harper.blog/2002/01/07/irony/</link>
       <pubDate>Mon, 07 Jan 2002 02:21:02 +0000</pubDate>
       
-      <guid>http://harper.blog/2002/01/07/irony/</guid>
+      <guid>https://harper.blog/2002/01/07/irony/</guid>
       <description>I was just getting ready to write a linux bastion server how-to. HA</description>
     </item>
     

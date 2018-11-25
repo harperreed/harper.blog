@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology Technology Php Threadless Skinnycorp Memcached on Writing by Harper Reed</title>
-    <link>http://harper.blog/tags/technology-technology-php-threadless-skinnycorp-memcached/</link>
+    <link>https://harper.blog/tags/technology-technology-php-threadless-skinnycorp-memcached/</link>
     <description>Recent content in Technology Technology Php Threadless Skinnycorp Memcached on Writing by Harper Reed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Mar 2007 15:24:07 +0000</lastBuildDate>
     
-	<atom:link href="http://harper.blog/tags/technology-technology-php-threadless-skinnycorp-memcached/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://harper.blog/tags/technology-technology-php-threadless-skinnycorp-memcached/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Memcached on skinnyCorp</title>
-      <link>http://harper.blog/2007/03/23/memcached-on-skinnycorp/</link>
+      <link>https://harper.blog/2007/03/23/memcached-on-skinnycorp/</link>
       <pubDate>Fri, 23 Mar 2007 15:24:07 +0000</pubDate>
       
-      <guid>http://harper.blog/2007/03/23/memcached-on-skinnycorp/</guid>
+      <guid>https://harper.blog/2007/03/23/memcached-on-skinnycorp/</guid>
       <description>In the last year or so Threadless has grown insanely. When I started in 2005, we had around 2 servers and a bundle of downtime. Now, just a year and a half later we have an assload of servers and haven&amp;rsquo;t had any load based downtime in almost 6 months. Its awesome. We have really been striving to keep our server infrastructure two steps ahead of our traffic. It really makes a difference when we get slammed and our servers don&amp;rsquo;t even grown.</description>
     </item>
     

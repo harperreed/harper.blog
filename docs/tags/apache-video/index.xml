@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apache Video on Writing by Harper Reed</title>
-    <link>http://harper.blog/tags/apache-video/</link>
+    <link>https://harper.blog/tags/apache-video/</link>
     <description>Recent content in Apache Video on Writing by Harper Reed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Jan 2002 14:55:35 +0000</lastBuildDate>
     
-	<atom:link href="http://harper.blog/tags/apache-video/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://harper.blog/tags/apache-video/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Stunts.</title>
-      <link>http://harper.blog/2002/01/03/stunts./</link>
+      <link>https://harper.blog/2002/01/03/stunts./</link>
       <pubDate>Thu, 03 Jan 2002 14:55:35 +0000</pubDate>
       
-      <guid>http://harper.blog/2002/01/03/stunts./</guid>
+      <guid>https://harper.blog/2002/01/03/stunts./</guid>
       <description>Remember the video game stunts? It ruled. Today I pulled off a great stunt. I configured a apache and jserv in a chrooted environment. HeHe. it was way fun and quite tough. chrooting rules. there is nothing quite like it. I keep looking around my systems for something else to chroot. Ha. a new hobby..</description>
     </item>
     

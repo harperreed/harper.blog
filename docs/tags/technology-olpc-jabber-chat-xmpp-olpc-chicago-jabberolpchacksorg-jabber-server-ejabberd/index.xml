@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology Olpc Jabber Chat Xmpp Olpc Chicago Jabberolpchacksorg Jabber Server Ejabberd on Writing by Harper Reed</title>
-    <link>http://harper.blog/tags/technology-olpc-jabber-chat-xmpp-olpc-chicago-jabberolpchacksorg-jabber-server-ejabberd/</link>
+    <link>https://harper.blog/tags/technology-olpc-jabber-chat-xmpp-olpc-chicago-jabberolpchacksorg-jabber-server-ejabberd/</link>
     <description>Recent content in Technology Olpc Jabber Chat Xmpp Olpc Chicago Jabberolpchacksorg Jabber Server Ejabberd on Writing by Harper Reed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Mar 2008 02:54:36 +0000</lastBuildDate>
     
-	<atom:link href="http://harper.blog/tags/technology-olpc-jabber-chat-xmpp-olpc-chicago-jabberolpchacksorg-jabber-server-ejabberd/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://harper.blog/tags/technology-olpc-jabber-chat-xmpp-olpc-chicago-jabberolpchacksorg-jabber-server-ejabberd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OLPC Chicago Jabber Server</title>
-      <link>http://harper.blog/2008/03/02/olpc-chicago-jabber-server/</link>
+      <link>https://harper.blog/2008/03/02/olpc-chicago-jabber-server/</link>
       <pubDate>Sun, 02 Mar 2008 02:54:36 +0000</pubDate>
       
-      <guid>http://harper.blog/2008/03/02/olpc-chicago-jabber-server/</guid>
+      <guid>https://harper.blog/2008/03/02/olpc-chicago-jabber-server/</guid>
       <description>Today I spent a minute setting up a Ejabberd Server for the OLPC Chicago group. This will allow all of us OLPC XO hackers to be on the same &amp;ldquo;mesh.&amp;rdquo; To get started using the jabber server with your XO follow these simple steps:   Boot the XO Get connected to the internet Open a terminal (activity or ctrl-alt-f1) in the shell, type: su - then type: sugar-control-panel -s jabber jabber.</description>
     </item>
     

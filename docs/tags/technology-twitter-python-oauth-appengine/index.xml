@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology Twitter Python Oauth Appengine on Writing by Harper Reed</title>
-    <link>http://harper.blog/tags/technology-twitter-python-oauth-appengine/</link>
+    <link>https://harper.blog/tags/technology-twitter-python-oauth-appengine/</link>
     <description>Recent content in Technology Twitter Python Oauth Appengine on Writing by Harper Reed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Feb 2009 17:04:04 +0000</lastBuildDate>
     
-	<atom:link href="http://harper.blog/tags/technology-twitter-python-oauth-appengine/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://harper.blog/tags/technology-twitter-python-oauth-appengine/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Python Oauth Client - Excla.im</title>
-      <link>http://harper.blog/2009/02/28/python-oauth-client---excla.im/</link>
+      <link>https://harper.blog/2009/02/28/python-oauth-client-excla.im/</link>
       <pubDate>Sat, 28 Feb 2009 17:04:04 +0000</pubDate>
       
-      <guid>http://harper.blog/2009/02/28/python-oauth-client---excla.im/</guid>
+      <guid>https://harper.blog/2009/02/28/python-oauth-client-excla.im/</guid>
       <description>I built Excla.im quite awhile ago, well before Twitter unleased their oauth beta program. Regardless, Chris Messina tagged the Excla.im sign up process as an anty pattern within his flickr stream. I was bummed because i would have loved to use Oauth to authenticate Excla.im. But because of the tagging, i was constantly thinking about how to remove the anti pattern.
 Finally, Twitter released the Oauth Beta and I was able to bribe @Al3x to give me access (which reminds me, i need to send my bribe).</description>
     </item>
