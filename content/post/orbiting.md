@@ -5,7 +5,10 @@ date: 2019-03-19T17:04:11-05:00
 draft: true
 ---
 
-tldr; check out [orbiting](https://orbiting.com) and communicate with people in a visual textual sort of way
+tldr; check out [orbiting](https://orbiting.com) and communicate with people in a visual textual sort of way. Orbiting is a simple app that displays very big words to help communicate to others visually. Try it out: [orbiting.com](https://orbiting.com)
+
+
+---
 
 This is a really exciting blog post to write. 
 
