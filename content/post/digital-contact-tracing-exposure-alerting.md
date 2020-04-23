@@ -83,7 +83,7 @@ I hope this is helpful.
 
 A couple other thoughts: 
 
-  1. Originally I had suggested calling this technology Exposure Proximity Alerting - with proximity is a redundant. In a lot of the conversations we ended up explaining that the alerting was done via a very specific method of determining proximity. I received some really helpful feedback from Tina White of [CovidWatch][6] that we should call it just Exposure Alerting. Originally, I thought that the redundancy helps clarify another question: how do you track the exposure? Going forward, I think calling these solutions Exposure Alerting as CovidWatch does is sufficient. I will continue to use Exposure Proximity Alerting when verbally describing this tech when helpful. FWIW the WHO seems to call this "Exposure Notification." It is unclear if they are also talking about these apps or just general exposure notification.  
+  1. Originally I had suggested calling this technology Exposure Proximity Alerting - with proximity is a redundant. In a lot of the conversations we ended up explaining that the alerting was done via a very specific method of determining proximity. I received some really helpful feedback from Tina White of [Covid Watch][6] that we should call it just Exposure Alerting. Originally, I thought that the redundancy helps clarify another question: how do you track the exposure? Going forward, I think calling these solutions Exposure Alerting as Covid Watch does is sufficient. I will continue to use Exposure Proximity Alerting when verbally describing this tech when helpful. FWIW the WHO seems to call this "Exposure Notification." It is unclear if they are also talking about these apps or just general exposure notification.  
 
    [6]: https://www.covid-watch.org/
 
