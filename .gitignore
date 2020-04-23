@@ -4,3 +4,5 @@ s3_website.yml
 .sass-cache/
 node_modules
 .jekyll-metadata
+resources/_gen
+public
