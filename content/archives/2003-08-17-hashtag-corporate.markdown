@@ -6,7 +6,7 @@ excerpt: 'heh. so this irc channel has totally made for fun times. I hooked up t
   we play trivia.. which you are all invited to participate in. btw.. trivia rules.this
   weekend.. was dope. '
 tags: juggle, fashion, action, matiss, irc
-title: '#corporate'
+title: 'hash corporate'
 wordpress_id: 599
 wordpress_url: http://new.nata2.org/?p=599
 ---
