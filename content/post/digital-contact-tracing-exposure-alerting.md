@@ -58,12 +58,14 @@ It seems that we have a problem with vocabulary. We were talking about two thing
 
 Some background: 
 
-Contact Tracing is an essential tool in modeling, reacting to, and eradicating outbreaks. It has been used to successfully eradicate smallpox; to address HIV/Aids in Africa and to handle outbreaks in our cities. All of our excellent public health departments have people who are focused on contact tracing. 
+Contact Tracing is an essential tool in modeling, reacting to, and eradicating outbreaks. It has been used to successfully eradicate smallpox; to address HIV/Aids in Africa and, most often, to handle outbreaks in our own cities. All of our excellent public health departments have people who are focused on contact tracing. 
 
 One of my favorite organizations, [Partners in Health][4], is currently doing a lot of work to get manual contact tracing out in our world to stop this virus. It is very much one of the best tools to stop Covid19. You can find out more about contact tracing on the [very helpful Wikipedia page][5]. 
 
    [4]: https://www.pih.org/
    [5]: https://en.wikipedia.org/wiki/Contact_tracing
+
+As my friend Alli Black explained, Manual Contact Tracing is typically instigtaed via phone or in person. There are some new technologies that are doing Manual Contact Tracing via the web or mobile apps. These are very different than exposure alerting apps or technologies. 
 
 Once we started describing digital contact tracing tools, it was only a matter of time before someone would say, "Is this contact tracing?"
 
