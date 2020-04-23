@@ -90,3 +90,9 @@ A couple other thoughts:
   2. There are two aspects of Exposure Alerting that I think are really important:  Privacy and Decentralization. Many of the better solutions take advantage of these aspects (CovidWatch, CoEpi, Apple/Google protocol, TCN protocol, DP^3T protocol, PACT protocols and others). There are a few, however, that do alerting without following the best privacy practices or being decentralized. I think that privacy and decentralization should be required. It was one of the main reasons we launched the [contacttracingrights.org][7] framework (now we need a new domain hah). 
 
    [7]: https://contacttracingrights.org/
+
+* * * 
+
+Thanks to a bunch of folks who read and commented on this post. Especially: Adam Conner, Andreas Gebhard, Andy Moss, Chris Messina, Dylan Richard, Jenny Wanger, Tina White
+
+I am sure a few I am missing others who helped out. 
