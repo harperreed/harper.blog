@@ -93,6 +93,6 @@ A couple other thoughts:
 
 * * * 
 
-Thanks to a bunch of folks who read and commented on this post. Especially: Adam Conner, Andreas Gebhard, Andy Moss, Chris Messina, Dylan Richard, Jenny Wanger, Tina White
+Thanks to a bunch of folks who read and commented on this post. Especially: Adam Conner,  Alli Black, Andreas Gebhard, Andy Moss, Chris Messina, Dylan Richard, Jenny Wanger, and Tina White
 
 I am sure a few I am missing others who helped out. It is more clear than ever that I am standing on the shoulders of giants. Thanks for all your help 
