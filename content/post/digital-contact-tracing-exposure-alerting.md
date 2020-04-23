@@ -65,7 +65,7 @@ One of my favorite organizations, [Partners in Health][4], is currently doing a 
    [4]: https://www.pih.org/
    [5]: https://en.wikipedia.org/wiki/Contact_tracing
 
-As my friend Alli Black explained, Manual Contact Tracing is typically instigtaed via phone or in person. There are some new technologies that are doing Manual Contact Tracing via the web or mobile apps. These are very different than exposure alerting apps or technologies. 
+As my friend [Alli Black](https://bedford.io/team/allison-black/) from explained, Manual Contact Tracing is typically instigtaed via phone or in person. There are some new technologies that are doing Manual Contact Tracing via the web or mobile apps. These are very different than exposure alerting apps or technologies. 
 
 Once we started describing digital contact tracing tools, it was only a matter of time before someone would say, "Is this contact tracing?"
 
