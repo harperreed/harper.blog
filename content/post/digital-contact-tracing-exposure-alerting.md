@@ -18,6 +18,10 @@ TL;DR:
 
 * * *
 
+
+> There are only two hard things in Computer Science: cache invalidation and naming things.
+> -- Phil Karlton
+
 Over the past 6 weeks, I have been working with some fantastic people to help figure out what tech is appropriate to address the Covid19 crisis. I am skeptical of technology being the hammer that matches all these nails - but there are appropriate uses.  
 
 It is a unique experience. Everyone I have worked with is laser-focused on the same goal:
