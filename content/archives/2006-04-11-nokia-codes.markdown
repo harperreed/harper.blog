@@ -1,7 +1,7 @@
 ---
 date: 2006-04-11T13:22:35Z
 tags: general
-title: 'Nokia # Codes'
+title: 'Nokia hash Codes'
 wordpress_id: 1243
 wordpress_url: http://www.nata2.org/phone-stuff/nokia-codes/
 ---
