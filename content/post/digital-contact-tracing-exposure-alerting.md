@@ -9,9 +9,9 @@ TL;DR:
 
   * Digital contact tracing should be called Exposure Alerting
   * That is what it does. It doesn't "trace contacts" from an epidemiological perspective. 
-  * There is a relationship with contact tracing, but we should not conflate these separate technologies. 
+  * Exposure Alerting could tie in with contact tracing, but we should not conflate these separate technologies. 
   * Manual Contact Tracing is essential and is very different than Exposure Alerting
-  * Digital contact tracing should be decentralized. Manual contact tracing is centralized. 
+  * Exposure Alerting should be decentralized. Manual contact tracing is centralized. 
   * Exposure Alerting has very specific [privacy concerns][1] that are very different than Manual Contact Tracing 
 
    [1]: https://contacttracingrights.org
@@ -58,14 +58,14 @@ It seems that we have a problem with vocabulary. We were talking about two thing
 
 Some background: 
 
-Contact Tracing is an essential tool in modeling, reacting to, and eradicating outbreaks. It has been used to successfully eradicate smallpox; to address HIV/Aids in Africa and, most often, to handle outbreaks in our own cities. All of our excellent public health departments have people who are focused on contact tracing. 
+Contact Tracing is an essential tool for understanding and stopping disease transmission. It is a bread and butter function of public health, and has been used to successfully eradicate smallpox; to limit the spread of Ebola during outbreaks; and, most often, to handle outbreaks of diseases such as TB and HIV in our own cities. All of our excellent public health departments have people who are focused on contact tracing. 
 
 One of my favorite organizations, [Partners in Health][4], is currently doing a lot of work to get manual contact tracing out in our world to stop this virus. It is very much one of the best tools to stop Covid19. You can find out more about contact tracing on the [very helpful Wikipedia page][5]. 
 
    [4]: https://www.pih.org/
    [5]: https://en.wikipedia.org/wiki/Contact_tracing
 
-As my friend [Alli Black](https://bedford.io/team/allison-black/) explained, Manual Contact Tracing is typically instigated via phone or in person. There are some new technologies that are doing Manual Contact Tracing via the web or mobile apps. These are very different than exposure alerting apps or technologies. 
+As my friend [Alli Black](https://bedford.io/team/allison-black/) explained, Manual Contact Tracing typically involves interviewing a person who is confirmed to have whatever disease you're investigating. The epidemiologist wants to provide resources to support and educate the confirmed case, and also collect information about who the case interacted with while they were infectious. The goal of this second part is to find people who could be infected early enough on that you can prevent them from spreading the disease on to other people. Traditionally, these interviews are conducted via phone or in person. Given the number of people who could become infected with Covid, and the need to perform contact tracing quickly, there are some new technologies that are doing Manual Contact Tracing via web-based or mobile surveys. But these technologies still fundamentally follow the principle that the confirmed case will tell the epidemiologist who they had contact with. This is very different from exposure alerting apps or technologies. 
 
 Once we started describing digital contact tracing tools, it was only a matter of time before someone would say, "Is this contact tracing?"
 
