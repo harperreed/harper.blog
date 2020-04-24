@@ -5,6 +5,12 @@ date: 2020-04-22T22:34:27-05:00
 draft: false
 ---
 
+**UPDATE:** Luckily for all of us, WHO, Apple/Google and others have agreed that we are not doing contact tracing. They have decided that the term should be "**Exposure Notification**."
+
+This is so similar to Exposure Alerting that I am satisifed.
+
+----
+
 > There are only two hard things in Computer Science: cache invalidation and naming things.
 >
 > -- Phil Karlton
@@ -94,9 +100,10 @@ A couple other thoughts:
 
    [6]: https://www.covid-watch.org/
 
-  2. There are two aspects of Exposure Alerting that I think are really important:  Privacy and Decentralization. Many of the better solutions take advantage of these aspects (CovidWatch, CoEpi, Apple/Google protocol, TCN protocol, DP^3T protocol, PACT protocols and others). There are a few, however, that do alerting without following the best privacy practices or being decentralized. I think that privacy and decentralization should be required. It was one of the main reasons we launched the [contacttracingrights.org][7] framework (now we need a new domain hah). 
+  2. There are two aspects of Exposure Alerting that I think are really important:  Privacy and Decentralization. Many of the better solutions take advantage of these aspects (CovidWatch, CoEpi, Apple/Google protocol, TCN protocol, DP^3T protocol, PACT protocols and others). There are a few, however, that do alerting without following the best privacy practices or being decentralized. I think that privacy and decentralization should be required. It was one of the main reasons we launched the [contacttracingrights.org][7] framework (~~now we need a new domain hah~~ We moved to [exposurenotification.org][8]). 
 
    [7]: https://contacttracingrights.org/
+   [8]: https://exposurenotification.org/
 
 * * * 
 
