@@ -1,9 +1,9 @@
 # harper.blog
 
-My blog
+My blog's life
 
 * 2000-2007 - pre twitter. wild * days. don't judge. 
-* 2007-2011 - I'm a thought * leader, yo. lol
+* 2007-2011 - I'm a thought leader, yo. lol
 * 2011-2012 - I am very busy
 * 2013-2017 - what blog
 * 2017-2020 - This is my place to post long tweets that are actually blog posts
