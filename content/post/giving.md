@@ -10,6 +10,8 @@ This is a list of places that we have supported and I think you should too.
 
 Remember, the key is to give them your money. A lot of it. Over and over again. 
 
+---
+
 ## My block, My hood
 
 Jahmal Cole has an amazing program that is helping young people on the south side do real work. He is inspiring and really knows where help is needed. **GIVE THEM YOUR MONEY.**
@@ -19,6 +21,8 @@ Jahmal Cole has an amazing program that is helping young people on the south sid
 
 More Info:
 - [About](https://www.formyblock.org/mission)
+
+---
 
 ## Good Kids, Mad city
 
@@ -32,6 +36,7 @@ More info:
 - [Vogue Article](https://www.teenvogue.com/story/good-kids-mad-city-chicago-gun-violence-activists)
 - Social: [Twitter](https://twitter.com/GKMC18), [Facebook](https://www.facebook.com/GKMC2018/), [Insta](https://www.instagram.com/goodkidsmadcity_2018/)
 
+---
 
 ## BYP100 
 
@@ -43,6 +48,7 @@ More Info:
 - [About](https://www.byp100.org/about)
 - [Wikipedia](https://en.wikipedia.org/wiki/BYP100) 
 
+---
 
 ## Chicago Community Bail Fund
 
@@ -52,6 +58,8 @@ This is so important. Stop people from being victim to our fucked up bail system
 
 More Info:
 - [About](https://chicagobond.org/about-us/)
+
+---
 
 ## ACLU Illinois
 
@@ -67,6 +75,8 @@ More Info:
 
 # National
 
+---
+
 ## ACLU
 
 **GIVE THE ACLU MORE MONEY.**
@@ -76,6 +86,7 @@ More Info:
 More Info:
 - [About](https://www.aclu.org/)
 
+---
 
 ## Human Utility 
 
@@ -86,6 +97,7 @@ Tiffani Ashley Bell has been inspiring since the day I saw her launch Human Util
 More Info:
 - [About](https://detroitwaterproject.org/)
 
+---
 
 ### Center for Policing Equity
 
@@ -96,6 +108,7 @@ Not only is Phillip Atiba Goff one of my favorite people on the planet, but his 
 More Info:
 - [About](https://policingequity.org/)
 
+---
 
 ## Collagate Design
 
@@ -106,6 +119,7 @@ Justice isn't just about police. It is also about our environment and where we a
 More Info:
 - [About](https://colloqate.org/about)
 
+---
 
 ## MRelief
 
@@ -116,6 +130,7 @@ Rose, the founder of MRelief has been a leader around justice and equality for a
 More Info:
 - [About](https://www.mrelief.com/about_us)
 
+---
 
 ## Equal Justice Initiative
 
