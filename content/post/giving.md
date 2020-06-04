@@ -150,7 +150,7 @@ More Info:
 
 These are somethign that have helped me recently. 
 
-* [Elements of white middle class dominance culture](/assets/Elements-of-White-Middle-Class-Dominant-Culture.pdf) also [here](https://www.stevebozzone.com/wp-content/uploads/2011/11/Elements-of-White-Middle-Class-Dominant-Culture.pdf) - read this and learn how we fuck up meetings, work places and organizations with our own misplaced norms. Learn and be better
+* [Elements of white middle class dominance culture](/assets/Elements-of-White-Middle-Class-Dominant-Culture.pdf) (also [here](https://www.stevebozzone.com/wp-content/uploads/2011/11/Elements-of-White-Middle-Class-Dominant-Culture.pdf)) - read this and learn how we fuck up meetings, work places and organizations with our own misplaced norms. Learn and be better
 
 * [White Fragility: Why It’s So Hard For White People To Talk About Racism](https://robindiangelo.com/publications/) - buy this book. 
 
