@@ -146,7 +146,7 @@ More Info:
 ----
 
 
-## To my friends who are white (it  me!)
+# To my friends who are white (it  me!)
 
 These are somethign that have helped me recently. 
 
