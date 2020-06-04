@@ -110,7 +110,7 @@ More Info:
 
 ---
 
-## Collagate Design
+## Colloqate Design
 
 Justice isn't just about police. It is also about our environment and where we all live. Bryan Lee Jr's org is helping to make a more just environment for us all. GIVE THEM YOUR MONEY.
 
