@@ -14,7 +14,7 @@ Remember, the key is to give them your money. A lot of it. Over and over again.
 
 ## My block, My hood
 
-Jahmal Cole has an amazing program that is helping young people on the south side do real work. He is inspiring and really knows where help is needed. **GIVE THEM YOUR MONEY.**
+Jahmal Cole has an amazing program that is helping young people on the south side do amazing work. He is inspiring and really knows where help is needed. **GIVE THEM YOUR MONEY.**
 
 
 ### [Donate here](https://www.formyblock.org/checkout/donate?donatePageId=5e66b35da4656772cbbeb786)
