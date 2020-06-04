@@ -1,6 +1,7 @@
 ---
 title: "Giving"
-date: 2020-06-04T22:29:48Z
+date: 2020-06-04T22:34:27-05:00
+draft: false
 ---
 
 A few friends have asked where they should send their money to better help support black lives and our local chicago communities. 
