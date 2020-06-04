@@ -1,6 +1,6 @@
 ---
 title: "Giving"
-date: 2020-06-04T22:34:27-05:00
+date: 2020-06-04
 draft: false
 ---
 
