@@ -12,7 +12,7 @@ Remember, the key is to give them your money. A lot of it. Over and over again.
 
 ---
 
-## My block, My hood
+## My Block, My Hood, My City
 
 Jahmal Cole has an amazing program that is helping young people on the south side do amazing work. He is inspiring and really knows where help is needed. **GIVE THEM YOUR MONEY.**
 
