@@ -14,8 +14,10 @@ Remember, the key is to give them your money. A lot of it. Over and over again.
 
 Jahmal Cole has an amazing program that is helping young people on the south side do real work. He is inspiring and really knows where help is needed. **GIVE THEM YOUR MONEY.**
 
-- [About](https://www.formyblock.org/mission)
-- [Donate](https://www.formyblock.org/checkout/donate?donatePageId=5e66b35da4656772cbbeb786)
+
+#### [Donate here](https://www.formyblock.org/checkout/donate?donatePageId=5e66b35da4656772cbbeb786)
+
+[More info about My block, My hood](https://www.formyblock.org/mission)
 
 ### Good Kids, Mad city
 
