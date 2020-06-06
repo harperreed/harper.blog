@@ -30,7 +30,7 @@ An amazing group of young people fighting for resources for their neighborhoods.
 
 *You gotta email them - or email me and i will make sure your money gets to GKMC*
 
-### Donate: [Email me](harper@modest.com) to connect with their fiscal sponsor, Urban Juncture or email [them directly](mailto:INFO@URBANJUNCTURE.COM)
+### [Donate here](https://secure.actblue.com/donate/gkmc-1)
 
 More info:
 - [Vogue Article](https://www.teenvogue.com/story/good-kids-mad-city-chicago-gun-violence-activists)
@@ -155,6 +155,11 @@ These are somethign that have helped me recently.
 * [White Fragility: Why It’s So Hard For White People To Talk About Racism](https://robindiangelo.com/publications/) - buy this book. 
 
 * [Opportunities for White People in the Fight for Racial Justice](https://www.whiteaccomplices.org/) - Lots of resources for white people to help support racial justice. 
+
+* [It’s Time We Dealt With White Supremacy in Tech](https://marker.medium.com/its-time-we-dealt-with-white-supremacy-in-tech-8f7816fe809) - READ THIS IF YOU ARE A LEADER.
+
+
+
 
 Remember why we are here. We are here because black lives matter. That is it. Simple. 
 
