@@ -3,7 +3,6 @@ title: About
 type: special
 url: /about/
 menu: main
-date: 2020-06-18T02:44:55.022Z
 description: About page for harper.blog
 ---
 
