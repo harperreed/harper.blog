@@ -11,6 +11,13 @@ collections:
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: false
+    view_filters:
+      - label: 'Posts published in 2020'
+        field: date
+        pattern: '2020'
+      - label: Drafts
+        field: draft
+        pattern: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
@@ -37,7 +44,6 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: "Menu", name: "menu", widget: "hidden", default: "main"}
       - { label: "Type", name: "type", widget: "hidden", default: "special"}
       - { label: 'URL', name: 'url', widget: 'string' }
