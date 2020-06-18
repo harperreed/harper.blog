@@ -40,7 +40,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: "Menu", name: "menu", widget: "hidden", default: "main"}
-      - { label: "Type", name: "type", widget: "special", default: "main"}
+      - { label: "Type", name: "type", widget: "hidden", default: "special"}
       - { label: 'URL', name: 'url', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
