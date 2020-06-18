@@ -1,6 +1,6 @@
 ---
 title: Digital Contact Tracing and Alerting vs Exposure Alerting
-date: 2020-06-18T02:54:44.979Z
+date: 2020-04-22T22:34:27-05:00
 description: Digital Contact Tracing and Alerting vs Exposure Alerting
 ---
 **UPDATE:** Luckily for all of us, WHO, Apple/Google and others have agreed that we are not doing contact tracing. They have decided that the term should be "**Exposure Notification**."
