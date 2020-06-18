@@ -1,13 +1,15 @@
-+++
-title = "About"
-type = "special"
-url = "/about/"
-menu = "main"
-+++
+---
+title: About
+type: special
+url: /about/
+menu: main
+date: 2020-06-18T02:44:55.022Z
+description: About page for harper.blog
+---
 
 Hello. My name is [Harper Reed](mailto:harper@modest.com).
 
-I am a computer operator who likes to make things, have fun and hang out on the internet. Also pranks. 
+I am a computer operator who likes to make things, have fun, and hang out on the internet. Also pranks. 
 
 Please visit my main webpage at [harperreed.com](http://harperreed.com). 
 
