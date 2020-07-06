@@ -36,12 +36,16 @@ params:
     - name: twitter
       icon: "fab fa-twitter"
       url: "http://twitter.com/harper"
+    - name: site
+      icon: "fas fa-camera"
+      url: "http://harper.photos"
     - name: reading
       icon: "fas fa-book-dead"
       url: "https://reading.lol"
     - name: site
       icon: "fas fa-link"
       url: "http://harper.lol"
+
 
 disableKinds:
   - taxonomy
