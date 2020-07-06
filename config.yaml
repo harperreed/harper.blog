@@ -33,16 +33,19 @@ params:
   mainSections: 
     - "post"
   social:
-    - name: twitter
+    - name: "@harper"
       icon: "fab fa-twitter"
       url: "http://twitter.com/harper"
-    - name: site
+    - name: harper.blog
+      icon: "fas fa-pen"
+      url: "http://harper.blog"
+    - name: harper.photos
       icon: "fas fa-camera"
-      url: "http://harper.photos"
-    - name: reading
-      icon: "fas fa-book-dead"
+      url: "https://harper.photos"
+    - name: reading.lol
+      icon: "fas fa-book"
       url: "https://reading.lol"
-    - name: site
+    - name: harperreed.com
       icon: "fas fa-link"
       url: "http://harper.lol"
 
