@@ -5,4 +5,4 @@ deploy: build
 	git commit -m "Updated docs" docs
 	git push
 serve:
-	hugo serve
+	hugo serve --builddrafts
