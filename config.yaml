@@ -32,6 +32,7 @@ params:
   favicon:  false
   nofeedSections:
     - "page"
+    - "posts"
   mainSections: 
     - "post"
   social:
