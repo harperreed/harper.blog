@@ -4,7 +4,7 @@ date: 2020-09-21T01:24:53.556Z
 draft: false
 ---
 
-2020 has been a real motherfucker of a year (and it isn't even over!). Like everyone (and especially those of us in the U.S.), I have spent a lot of this year try to understand my place in this new world. I left PayPal in 2018 with the idea of figuring out what was next. I had a simple plan and early in 2020 it seemed that I was on the track of something exciting and big. Then COVID-19 hit. Everything stopped! 
+2020 has been a real **motherfucker** of a year (and it isn't even over!). Like everyone (and especially those of us in the U.S.), I have spent a lot of this year try to understand my place in this new world. I left PayPal in 2018 with the idea of figuring out what was next. I had a simple plan and early in 2020 it seemed that I was on the track of something exciting and big. Then COVID-19 hit. Everything stopped! 
 
 Like most folks, I spent the first couple of weeks reeling with our new reality. Then I got to work. 
 
