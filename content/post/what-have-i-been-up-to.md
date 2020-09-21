@@ -6,7 +6,7 @@ draft: true
 
 As a founder, an F list celebrity, a lite public figure, and someone who's usually *loud/visible* with what they are working on, I've been surprisingly quiet this year. Part of that is because this year sucks; the other part is that I've been super busy working on COVID-19 response. After 8 wild, exhausting, rewarding months doing the work, I've just finished my last obligation. So finally, I can take a moment and tell you about this wild journey.
 
-The journey started in early 2020. I left PayPal in 2018 with the idea of figuring out what was next. I had spent 2019 working with a bunch of amazing people on all sorts of fun projects. This was all coming to fruition with a potential project that I hoped would turn into my new company. I was working with a fantastic set of people to build a transformative. I was about to fly to Boston to meet up with my potential co-founders, and I decided I couldn't go due to COVID-19. Then the lockdown hit. I was scared, and I had no idea what was going to happen. 
+The journey started in early 2020. I left PayPal in 2018 with the idea of figuring out what was next. I had spent 2019 working with a bunch of amazing people on all sorts of fun projects. This was all coming to fruition with a potential project that I hoped would turn into my new company. I was working with a fantastic set of people to build a transformative product. I was about to fly to Boston to meet up with my potential co-founders when I decided I couldn't go due to COVID-19. Then the lockdown hit. The initiative was abandoned as we all were relegated to our homes. I was scared, and I had no idea what was going to happen. 
 
 That was the beginning. 
 
