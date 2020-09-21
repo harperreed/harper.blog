@@ -4,17 +4,25 @@ date: 2020-09-21T01:24:53.556Z
 draft: true
 ---
 
-2020 has been a real **motherfucker** of a year (and it isn't even over!). Like everyone (and especially those of us in the U.S.), I have spent a lot of this year try to understand my place in this new world. I left PayPal in 2018 with the idea of figuring out what was next. I had a simple plan and early in 2020 it seemed that I was on the track of something exciting and big. Then COVID-19 hit. Everything stopped! 
+As a founder, an F list celebrity, a lite public figure, and someone who's usually *loud/visible* with what they are working on, I've been surprisingly quiet this year. Part of that is because this year sucks, the other part is that I've been super busy working on COVID-19 response. After 8 wild, exhausting, rewarding months doing the work, I've just finished my last obligation and so finally I can take a moment and tell you about this wild journey.
 
-Like most folks, I spent the first couple of weeks reeling with our new reality. Then I got to work. 
+The journey started early 2020. I left PayPal in 2018 with the idea of figuring out what was next. I had spent 2019 working with a bunch of amazing people on all sorts of fun projects. This was all coming to fruition with a potential project that I hoped was going to turn into my new company. I was working with an amazing set of people to build an amazing thing. Then the lockdown hit. I was about to fly to Boston to meet up with my potential co-founders and I decided I couldn't go due to COVID-19. I was scared and I had no idea what was going to happen. 
 
-Many folks have been asking me, "**What have you been up to?**" I never have the right answer. I originally wrote  this as a way of remembering all the random stuff I was doing. But quickly realized that it was a really great way of answering that question.
+That was the beginning. 
+
+I remember sitting in my basement and thinking "I am going to be in this basement forever. I better get into video games or something." I tried hard to distract myself through the usual ways: programming computers, trying to get into video games and talking to friends online. 
+
+The talking to friends online became the number one activity in early 2020. Comiserating about the lockdown. Talking about how we were all potentially fucked, etc. The only thing that made me less scared was information. The information led to building out some communities that also wanted that info. The communities led to doing some interesting work and projects. Which lead to more information. Rinse repeat. 
+
+I was suddenly full time on COVID-19 response. Completely accidently. Most of the work was done because it was easier to be busy try ing to help than to sit in my basement and be scared. The work largely touched on some core parts of my career: organzing teams, building out communities, executing on technology, writing things down and working with amazing people. It was also work. It was hard, fun and took a lot of time and energy. 
+
+It was during this time that friends would ask me what I was up to. I never had the right answer. I would start down this wandering narrative that didn't make any sense and seemed unreal. To make that answer easy, I created a quick list. It was originally a github gist and had a list of everything I was doing. I would just send it via text and say "Yea. I have been busy. Let me know if you want to get involved." It did the trick. 
+
+As the list grew, I started to recognize that this was a rather expansive list of things. I also realized that I wanted to tell the story a bit more than just sending an ordered list to friensds. 
+
+So here we are. This is what I have been up to. 
 
 # Harper's COVID-19 work
-
-Over the past several months, I have been doing a lot of work around COVID-19. Most of it has been around community organizing, tech enablement, or privacy. Here is a light summary of what I have been up to since mid-January. I created this list as a useful way to remember what I am doing. It has been helpful to describe the COVID-19 work that I have done. 
-
-Here is what I have been up to since the beginning of the year (2020). 
 
 (Would love chat about any of this stuff - so feel free to [send me an email ](mailto:harper@modest.com))
 
@@ -93,6 +101,8 @@ One of my favorite parts of the TCN coalition is that a friend introduced me to 
 
 After working on Exposure Notification for a month or so, it became super clear that there was a need to document and define the privacy needs around exposure notification (and what we were calling at that time *digital contact tracing*). Cari, Andrew, and I spent weeks working through all of the issues we could imagine and attempted to find mitigation strategies for each one. The result was a very informative and easy to understand the document. It became some what of a bill of rights for orgs that were working in this space. 
 
+This work led me to write my first blog post in a hundred years: [Exposure notification vs contact tracing blog](https://harper.blog/2020/04/22/digital-contact-tracing-and-alerting-vs-exposure-alerting/). 
+
 I am very proud of this work. 
 
 ### FNB guide 
@@ -166,14 +176,6 @@ It turned out to be an amazing opportunity to convene some of the best folks who
 
 I was lucky to pitch the event to USDR, who then got Rockefeller involved. They were able to take it and make it into a real thing. It turned out fantastic. 
 
----
-
-## Writing
-
-I have written more blog posts during 2020 than I have for years. It has been nice. 
-
-* [Exposure notification vs contact tracing blog](https://harper.blog/2020/04/22/digital-contact-tracing-and-alerting-vs-exposure-alerting/)
-* [Giving](https://harper.blog/2020/06/04/giving/)
 
 -----
 
@@ -249,17 +251,13 @@ As you probably know, I enjoy speaking in front of people. It was exciting to ta
 
 # Summary, sort of. 
 
-Overall it was a really short 9 months. Wild, tbh. I learned so so much — both about myself, about viruses and about communities. 
+Overall it was a really short eight months. Wild, tbh. I learned so so much — both about myself, about viruses and about communities. I learned what happens when volunteers hit global bureaucracies (it isn't pretty). I learned that nobody has any idea what the fuck is going on (seriously. nobody). I learned that we are not prepared for COVID-19 nor the next one (scares the shit out of me). 
 
-The communties were amazing. Full of outstanding people trying to make the world better. It was a delightful group to be a part of. 
-
-In the end, I had worked with, and spoken to -  around 15 states in one way or another. And maybe a half dozen countries. I had spoken to most of the big companies in the space. It was sometimes frustrating and mostly helpful. It was always worthwhile. 
+I was invigorated by the communities. They were amazing. Full of outstanding people trying to make the world better. It was a delightful group to be a part of. 
 
 Two weeks ago I finished the last of the big pieces of my COVID-19 work. It marked the end of my time being "full time" on COVID-19. I often joke that I wish my lockdown hobby had been something other than "COVID-19." But here we are. 
 
-The best part was the people. Lots of incredible people helped out, participated, and were around to do work. I really thank every one of them. I think about the work we all did almost every day. Luckily, since most of the work was organized around WhatsApp, zoom chats, and weird emails - it is really easy to hit them up again and do another crazy  project. 
-
-I can't wait for COVID-20. lol. jk. 
+The best part was the people. Lots of incredible people helped out, participated, and were around to do work. I really thank every one of them. I think about the work we all did almost every day. Luckily, since most of the work was organized around WhatsApp, zoom chats, and weird emails - it is really easy to hit them up again and do another crazy project. 
 
 # Next
 
