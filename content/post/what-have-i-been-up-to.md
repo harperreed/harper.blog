@@ -38,7 +38,7 @@ My friend, Tricia Wang, descibed the use of chat apps as communities best in her
 - Created: 1/21/2020
 - Population: 133
     
-The O.G. of chat groups. It was composed entirely of a group of scientists, doctors, epidemiologists, data folks, and hackers focused on the *science* part of COVID-19. It was started relatively early in the year (before COVID-19 was COVID-19) and thus the focus on "real info only" (as coined by Dr. Jordan Shlain). 
+The O.G. of chat groups. It is composed entirely of a group of scientists, doctors, epidemiologists, data folks, and hackers focused on the *science* part of COVID-19. It is started relatively early in the year (before COVID-19 was COVID-19) and thus the focus on "real info only" (as coined by Dr. Jordan Shlain). 
 
 This community is still going and working together to talk about COVID-19 and its impact. 
 
@@ -46,14 +46,14 @@ This community is still going and working together to talk about COVID-19 and it
 - Created: 3/13/2020
 - Population: 114
 
-Dr. Jordan Shlain pitched an idea to make a copy of the "real info only" group but only be clinicians. The idea was that anyone could watch, but only clinicians could talk. It was entirely self-policed and worked out really well. A lot of amazing people are participating in this community. 
+Dr. Jordan Shlain pitched an idea to make a copy of the "real info only" group but only be clinicians. The idea is that anyone could watch, but only clinicians could talk. It is entirely self-policed and worked out really well. A lot of amazing people are participating in this community. 
 
 ### Sourcing PPE community (Ended) (success)
 - Created: 3/19/2020
 - Population: 175
 - Supply chains have come back (For the most part)
 
-When the supply chain broke down in the U.S., we splintered a few folks from the main channel and we started thinking through how to source PPE, etc. This group spent a lot of resources thinking through how to fill the holes that had been put into the U.S. supply chain. It was a success. An amazing amount of work and effort came from this group. 
+When the supply chain broke down in the U.S., we splintered a few folks from the main channel and we started working on how to source PPE, etc. This group spent a lot of resources learning how to fill the holes that had been put into the U.S. supply chain. It was a success. An amazing amount of work and effort came from this group. 
 
 Eventually, it ended up dying out - but not before a handful of really fantastic orgs spun out - including the Last Mile. 
 
@@ -92,14 +92,14 @@ I helped connect Bruno and the team with so many people who were working in this
 
 Lots of different groups came together early in the year to create one of the first versions of the Bluetooth exposure notification protocol. I helped organize and bring a lot of these folks together in a coalition. 
 
-One of my favorite parts of the TCN coalition is that a friend introduced me to Jenny as someone who had some time on her hands. She joined me to help write some PRDs for a few pieces of the EN stack. After a month of that she ended being one of the founders of the TCN Coalition! 
+One of my favorite parts of the TCN coalition how Jenny got involved. I needed some help writing up PRDs for some exposure notification tech. I asked a friend if they knew anyone with extra time on their hands that was interested in volunteer work. They connected me to Jenny. She helped immediately. We jumped right into some meetings and started documenting and writing up EN protocols. After a month of that work she ended being one of the founders of the TCN Coalition! 
 
 ### Exposure notification data rights 
 - **link**: [website](https://exposurenotification.org/)
 -  **Progress**: Done
 - **Collaborators**:  Cari Spivack, [Andrew Trask](https://twitter.com/iamtrask?lang=en)
 
-After working on Exposure Notification for a month or so, it became super clear that there was a need to document and define the privacy needs around exposure notification (and what we were calling at that time *digital contact tracing*). Cari, Andrew, and I spent weeks working through all of the issues we could imagine and attempted to find mitigation strategies for each one. The result was a very informative and easy to understand the document. It became some what of a bill of rights for orgs that were working in this space. 
+After working on Exposure Notification for a month or so, it became super clear that there was a need to document and define the privacy needs around exposure notification (and what we were calling at that time *digital contact tracing*). Cari, Andrew, and I spent weeks working through all of the issues we could imagine and attempted to find mitigation strategies for each one. The result was a very informative and easy to understand document. It became some what of a bill of rights for orgs that were working in this space. 
 
 This work led me to write my first blog post in a hundred years: [Exposure notification vs contact tracing blog](https://harper.blog/2020/04/22/digital-contact-tracing-and-alerting-vs-exposure-alerting/). 
 
