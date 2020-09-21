@@ -32,7 +32,7 @@ My friend, Tricia Wang, descibed the use of chat apps as communities best in her
     
 The O.G. of chat groups. It was composed entirely of a group of scientists, doctors, epidemiologists, data folks, and hackers focused on the *science* part of COVID-19. It was started relatively early in the year (before COVID-19 was COVID-19) and thus the focus on "real info only" (as coined by Dr. Jordan Shlain). 
 
-This community is still going and working together to talk about COVID-19 and it's impact. 
+This community is still going and working together to talk about COVID-19 and its impact. 
 
 ### Clinicians community (active)
 - Created: 3/13/2020
@@ -66,7 +66,7 @@ The data side. My friend [Nikete](https://twitter.com/nikete?lang=en) has an ama
 
 ## Projects
 
-Lot's of my work was on some very discrete projects. Here they are.
+Lots of my work was on some very discrete projects. Here they are.
 
 ### WHO app 
 - **Progress**: Largely ended advisory in May 2020 / Project ongoing
@@ -82,7 +82,7 @@ I helped connect Bruno and the team with so many people who were working in this
 - **Progress**: Founded  / Merged into LFPH
 - **Collaborators**: [Andreas Gebhard](https://www.linkedin.com/in/agebhard/), [Jenny Wanger](https://www.linkedin.com/in/jennywanger/)
 
-Lot's of different groups came together early in the year to create one of the first versions of the Bluetooth exposure notification protocol. I helped organize and bring a lot of these folks together in a coalition. 
+Lots of different groups came together early in the year to create one of the first versions of the Bluetooth exposure notification protocol. I helped organize and bring a lot of these folks together in a coalition. 
 
 One of my favorite parts of the TCN coalition is that a friend introduced me to Jenny as someone who had some time on her hands. She joined me to help write some PRDs for a few pieces of the EN stack. After a month of that she ended being one of the founders of the TCN Coalition! 
 
@@ -150,7 +150,7 @@ Christine then suggested we do the same, but with only deaf people. It turned ou
 -  **Progress**: Done / Ongoing
 - **Collaborators**: [USDR](https://www.usdigitalresponse.org/)
 
-USDR and Resolve to Save lives were spending a lot of time talking about contact tracing and how lot's of folks had no idea what or how to do it. USDR folks (and myself!) took a week and pumped out this excellent summary playbook on contact tracing. Some of the content made it's way into the Resolve to Save Live's playbooks.
+USDR and Resolve to Save lives were spending a lot of time talking about contact tracing and how lots of folks had no idea what or how to do it. USDR folks (and myself!) took a week and pumped out this excellent summary playbook on contact tracing. Some of the content made its way into the Resolve to Save Live's playbooks.
 
 It has also continued to be a good resource. 
 
@@ -160,7 +160,7 @@ It has also continued to be a good resource.
 
 Over the last few months, I have spent a bunch of time talking to states and various European countries about Exposure Notification. 
 
-The U.S. folks were trying to understand the efficacy, and the E.U. folks were trying to tell their story about it's effectiveness. 
+The U.S. folks were trying to understand the efficacy, and the E.U. folks were trying to tell their story about its effectiveness. 
 
 It turned out to be an amazing opportunity to convene some of the best folks who thought about efficacy with the folks who had questions about it. 
 
