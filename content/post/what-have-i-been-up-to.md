@@ -4,21 +4,23 @@ date: 2020-09-21T01:24:53.556Z
 draft: true
 ---
 
-As a founder, an F list celebrity, a lite public figure, and someone who's usually *loud/visible* with what they are working on, I've been surprisingly quiet this year. Part of that is because this year sucks, the other part is that I've been super busy working on COVID-19 response. After 8 wild, exhausting, rewarding months doing the work, I've just finished my last obligation and so finally I can take a moment and tell you about this wild journey.
+As a founder, an F list celebrity, a lite public figure, and someone who's usually *loud/visible* with what they are working on, I've been surprisingly quiet this year. Part of that is because this year sucks; the other part is that I've been super busy working on COVID-19 response. After 8 wild, exhausting, rewarding months doing the work, I've just finished my last obligation. So finally, I can take a moment and tell you about this wild journey.
 
-The journey started early 2020. I left PayPal in 2018 with the idea of figuring out what was next. I had spent 2019 working with a bunch of amazing people on all sorts of fun projects. This was all coming to fruition with a potential project that I hoped was going to turn into my new company. I was working with an amazing set of people to build an amazing thing. Then the lockdown hit. I was about to fly to Boston to meet up with my potential co-founders and I decided I couldn't go due to COVID-19. I was scared and I had no idea what was going to happen. 
+The journey started in early 2020. I left PayPal in 2018 with the idea of figuring out what was next. I had spent 2019 working with a bunch of amazing people on all sorts of fun projects. This was all coming to fruition with a potential project that I hoped would turn into my new company. I was working with a fantastic set of people to build a transformative. I was about to fly to Boston to meet up with my potential co-founders, and I decided I couldn't go due to COVID-19. Then the lockdown hit. I was scared, and I had no idea what was going to happen. 
 
 That was the beginning. 
 
-I remember sitting in my basement and thinking "I am going to be in this basement forever. I better get into video games or something." I tried hard to distract myself through the usual ways: programming computers, trying to get into video games and talking to friends online. 
+I remember sitting in my basement and thinking, "I am going to be in this basement forever. I better get into video games or something." I tried hard to distract myself through the usual ways: programming computers, getting into video games, and talking to friends online. 
 
-The talking to friends online became the number one activity in early 2020. Comiserating about the lockdown. Talking about how we were all potentially fucked, etc. The only thing that made me less scared was information. The information led to building out some communities that also wanted that info. The communities led to doing some interesting work and projects. Which lead to more information. Rinse repeat. 
+The talking to friends online became the number one activity in early 2020. Commiserating about the lockdown. Talking about how we were all potentially fucked, etc. The only thing that made me less scared was **information**. The need for information led to building out some communities of people who also wanted info. As the communities grew, they spawned projects. The projects led to exciting work. Which led to more information. Which built out new communities. Rinse repeat. 
 
-I was suddenly full time on COVID-19 response. Completely accidently. Most of the work was done because it was easier to be busy try ing to help than to sit in my basement and be scared. The work largely touched on some core parts of my career: organzing teams, building out communities, executing on technology, writing things down and working with amazing people. It was also work. It was hard, fun and took a lot of time and energy. 
+I was suddenly full time on COVID-19 response. Completely accidentally. Most of the work was done because it was easier to be busy trying to help with COVID-19 response than to be frightened while sitting in my basement. It was a coping mechanism. 
 
-It was during this time that friends would ask me what I was up to. I never had the right answer. I would start down this wandering narrative that didn't make any sense and seemed unreal. To make that answer easy, I created a quick list. It was originally a github gist and had a list of everything I was doing. I would just send it via text and say "Yea. I have been busy. Let me know if you want to get involved." It did the trick. 
+The work mainly touched on some core parts of my career: organizing teams, building out communities, executing on technology, writing things down, and working with amazing people. It was full-time work. It was challenging, fun, and took a lot of time and energy. 
 
-As the list grew, I started to recognize that this was a rather expansive list of things. I also realized that I wanted to tell the story a bit more than just sending an ordered list to friensds. 
+It was during this time that friends would ask me what I was up to. I never had the right answer. I would start down this wandering narrative that didn't make any sense and seemed unreal. To make that answer easy, I created a quick list. It was initially a [github gist](https://gist.github.com/harperreed/ccafaecebc63b6ce96e5b64dbd1660cd) and had a list of everything I was actively doing. I would just send it via text and say, "Yea. I have been busy. Let me know if you want to get involved." It did the trick. 
+
+As the list grew, I started to recognize that this was a rather expansive list of things. I also realized that I wanted to tell the story a bit more than just sending an ordered list to friends. 
 
 So here we are. This is what I have been up to. 
 
@@ -28,11 +30,11 @@ So here we are. This is what I have been up to.
 
 ## Communities I started
 
-The basis for my career and one of the things I find most powerful is community. The beginning of COVID-19 was no different. I was able to build, participate, and be a part of some amazing communities. 
+The basis for my career and one of the things I find most powerful is community. The beginning of COVID-19 was no different. I was able to build, participate, and be a part of some unique communities. 
 
 What was different, though, was the venue. Most of the communities I started existed first on WhatsApp and then spun off into other platforms. WhatsApp (although owned by facebook - big downside) is very good for group messaging. It is fast, light, and easy to use. More importantly, it is international. In the beginning, all of these communities were global communities. 
 
-My friend, Tricia Wang, descibed the use of chat apps as communities best in her piece about [Chinese COVID-19 communities on WeChat](https://www.buzzfeednews.com/article/triciawang/a-lesson-from-the-people-of-wuhan-community-hyper-local). The online Chinese communities did this well before we did. 
+My friend, Tricia Wang, described the use of chat apps as communities best in her piece about [Chinese COVID-19 communities on WeChat](https://www.buzzfeednews.com/article/triciawang/a-lesson-from-the-people-of-wuhan-community-hyper-local). We had stumbled across it purely by accident. Still, we were able to build upon the previous work that Tricia had outlined in the end. 
 
 ### COVID-1919: real info only (active)
 - Created: 1/21/2020
@@ -46,14 +48,14 @@ This community is still going and working together to talk about COVID-19 and it
 - Created: 3/13/2020
 - Population: 114
 
-Dr. Jordan Shlain pitched an idea to make a copy of the "real info only" group but only be clinicians. The idea is that anyone could watch, but only clinicians could talk. It is entirely self-policed and worked out really well. A lot of amazing people are participating in this community. 
+Dr. Jordan Shlain pitched an idea to make a copy of the "real info only" group and be clinicians. The idea is that anyone could watch, but only clinicians could talk. It is entirely self-policed and worked out really well. A lot of amazing people are participating in this community. 
 
 ### Sourcing PPE community (Ended) (success)
 - Created: 3/19/2020
 - Population: 175
 - Supply chains have come back (For the most part)
 
-When the supply chain broke down in the U.S., we splintered a few folks from the main channel and we started working on how to source PPE, etc. This group spent a lot of resources learning how to fill the holes that had been put into the U.S. supply chain. It was a success. An amazing amount of work and effort came from this group. 
+When the supply chain broke down in the U.S., we splintered a few folks from the main channel, and we started working on how to source PPE, etc. This group spent a lot of resources learning how to fill the holes put into the U.S. supply chain. It was a success. A fantastic amount of work and effort came from this group. 
 
 Eventually, it ended up dying out - but not before a handful of really fantastic orgs spun out - including the Last Mile. 
 
@@ -68,7 +70,7 @@ Very similar to the other PPE channel - but more focused on the DIY side. A lot 
 - Created: 3/11/2020
 - Population: 44
 
-The data side. My friend [Nikete](https://twitter.com/nikete?lang=en) has an amazing network of data hackers and scientists who wanted to help out. We did a lot of work around visualizing hotspots from mobile phone carrier data, and some work around modeling COVID-19. It was a shorter-lived community, but we had a lot of fun trying to solve some big problems. 
+The data side. My friend [Nikete](https://twitter.com/nikete?lang=en) has a great network of data hackers and scientists who wanted to help. We did a lot of work around visualizing hotspots from mobile phone carrier data, and some work around modeling COVID-19. It was a shorter-lived community, but we had a lot of fun trying to solve some big problems. 
 
 ---
 
@@ -81,7 +83,7 @@ Lots of my work was on some very discrete projects. Here they are.
 - **link**: [github](https://github.com/WorldHealthOrganization/app)
 - **Collaborators**: with [Bruno Bowden](https://www.linkedin.com/in/brunobowden/) 
 
-Early on, Bruno reached out and had this crazy idea to work with the WHO on their app. It was a really strong idea and plan. He assembled an amazing team of people and started building it earlier than almost anyone. 
+Early on, Bruno reached out and had this crazy idea to work with the WHO on their app. It was a solid idea and plan. He assembled a fantastic team of people and started building it earlier than almost anyone. 
 
 I helped connect Bruno and the team with so many people who were working in this space. 
 
@@ -90,18 +92,18 @@ I helped connect Bruno and the team with so many people who were working in this
 - **Progress**: Founded  / Merged into LFPH
 - **Collaborators**: [Andreas Gebhard](https://www.linkedin.com/in/agebhard/), [Jenny Wanger](https://www.linkedin.com/in/jennywanger/)
 
-Lots of different groups came together early in the year to create one of the first versions of the Bluetooth exposure notification protocol. I helped organize and bring a lot of these folks together in a coalition. 
+Many different groups came together early in the year to create one of the first versions of the Bluetooth exposure notification protocol. I helped organize and bring a lot of these folks together in a coalition. 
 
-One of my favorite parts of the TCN coalition how Jenny got involved. I needed some help writing up PRDs for some exposure notification tech. I asked a friend if they knew anyone with extra time on their hands that was interested in volunteer work. They connected me to Jenny. She helped immediately. We jumped right into some meetings and started documenting and writing up EN protocols. After a month of that work she ended being one of the founders of the TCN Coalition! 
+One of my favorite parts of working with the TCN coalition was how Jenny got involved. I needed some help writing up [PRDs](https://en.wikipedia.org/wiki/Product_requirements_document) for some exposure notification tech. I asked a friend if they knew anyone with extra time on their hands interested in volunteer work. They connected me to Jenny. She helped immediately. We jumped right into some meetings and started documenting and writing up EN protocols. After a month of that work, she ended being one of the founders of the TCN Coalition! 
 
 ### Exposure notification data rights 
 - **link**: [website](https://exposurenotification.org/)
 -  **Progress**: Done
 - **Collaborators**:  Cari Spivack, [Andrew Trask](https://twitter.com/iamtrask?lang=en)
 
-After working on Exposure Notification for a month or so, it became super clear that there was a need to document and define the privacy needs around exposure notification (and what we were calling at that time *digital contact tracing*). Cari, Andrew, and I spent weeks working through all of the issues we could imagine and attempted to find mitigation strategies for each one. The result was a very informative and easy to understand document. It became some what of a bill of rights for orgs that were working in this space. 
+It became super clear that there was a need to document and define the privacy needs around exposure notification (and what we were calling at that time *digital contact tracing*). Cari, Andrew, and I spent weeks working through all of the issues we could imagine and attempted to find mitigation strategies for each one. The result was a very informative and easy to understand document. It became somewhat of a bill of rights for organizations that were working in this space. 
 
-This work led me to write my first blog post in a hundred years: [Exposure notification vs contact tracing blog](https://harper.blog/2020/04/22/digital-contact-tracing-and-alerting-vs-exposure-alerting/). 
+This work led me to write my first blog post in a hundred years: [Exposure notification vs. contact tracing blog](https://harper.blog/2020/04/22/digital-contact-tracing-and-alerting-vs-exposure-alerting/). 
 
 I am very proud of this work. 
 
@@ -112,7 +114,7 @@ I am very proud of this work.
 
 Vaughn had been working through how to publish his Food and Bev guides. I helped him bring it to the internet. 
 
-It was fun and a neat way to do quick publishing of important content that is changing often. 
+It was fun and a neat way to do quick publishing of meaningful content that is often changing. 
 
 Fun fact: did you know you can link directly to the PDF export of a public google doc?
 
@@ -121,7 +123,7 @@ Fun fact: did you know you can link directly to the PDF export of a public googl
 -  **Progress**: Done
 - **Collaborators**: [Xihong Lin](https://www.hsph.harvard.edu/xihong-lin/),  [Dr. Jordan Shlain](https://www.linkedin.com/in/drjordanshlain/), [Jim Yong Kim](https://en.wikipedia.org/wiki/Jim_Yong_Kim), [Harvey Feinberg](https://www.hsph.harvard.edu/harvey-fineberg/), [Dan Sinker](https://twitter.com/dansinker), [Erik Garrison](https://twitter.com/erikgarrison), and [John Battelle](https://twitter.com/johnbattelle)
 
-Erik had the great idea of reaching out to Xihong Lin and doing an op-ed with her. Her work is amazing and instrumental in helping us understand how COVID-19 spreads in our communities. 
+Erik had the great idea of reaching out to Xihong Lin and doing an op-ed with her. Her work is impressive and instrumental in helping us understand how COVID-19 spreads in our communities. 
 
 We connected and jammed out the first version of the op-ed. Eventually, we were able to get a fantastic group of people together and publish the op-ed in the NYT. I still think that the idea around smart quarantine, if executed properly, would have allowed the U.S. to exit lockdown. 
 
@@ -142,7 +144,7 @@ I worked with John to help draft his Home Care Guide. Then showed Juhan what we 
 
 The Last Mile group is an incredible group that we built on top of our PPE WhatsApp group. It ballooned into a fantastic org right at the apex of COVID-19 in NYC. 
 
-Tricia and the team did an amazing job of building a grassroots org that still exists today. As documented in the New Yorker article, it was instrumental in helping New Yorkers working on the front lines get the PPE they need.
+Tricia and the team did a fantastic job of building a grassroots org that still exists today. As documented in the New Yorker article, it was instrumental in helping New Yorkers working on the front lines get the PPE they need.
 
 ### Zooooom.us (silly) 
 - **link**: [website](http://zooooom.us/)
@@ -151,7 +153,7 @@ Tricia and the team did an amazing job of building a grassroots org that still e
 
 My friend Tolar is addicted to screensavers. It is a problem. 
 
-We made this screensaver to try and match the anxiety we all felt during the beginning of COVID-19 times. It was a nightmare screensaver. Everytime your computer slept it was like a new zoom call was starting. 
+We made this screensaver to try and match the anxiety we all felt during the beginning of COVID-19 times. It was a nightmare screensaver. Every time your computer slept, it was like a new zoom call was starting. 
 
 Christine then suggested we do the same, but with only deaf people. It turned out to be one of my favorite collabs.  Also movie stars! 
 
@@ -160,9 +162,9 @@ Christine then suggested we do the same, but with only deaf people. It turned ou
 -  **Progress**: Done / Ongoing
 - **Collaborators**: [USDR](https://www.usdigitalresponse.org/)
 
-USDR and Resolve to Save lives were spending a lot of time talking about contact tracing and how lots of folks had no idea what or how to do it. USDR folks (and myself!) took a week and pumped out this excellent summary playbook on contact tracing. Some of the content made its way into the Resolve to Save Live's playbooks.
+USDR and Resolve to Save lives were spending a lot of time talking about contact tracing and how many folks had no idea what or how to do it. USDR folks (and myself!) took a week and pumped out this excellent summary playbook on contact tracing. Some of the content made its way into the Resolve to Save Live's playbooks.
 
-It has also continued to be a good resource. 
+It has also continued to be a useful resource. 
 
 ### Convening on Exposure Notification Efficacy
 - **Progress**: Done 
@@ -172,7 +174,7 @@ Over the last few months, I have spent a bunch of time talking to states and var
 
 The U.S. folks were trying to understand the efficacy, and the E.U. folks were trying to tell their story about its effectiveness. 
 
-It turned out to be an amazing opportunity to convene some of the best folks who thought about efficacy with the folks who had questions about it. 
+It turned out to be a fantastic opportunity to convene some of the best folks who thought about efficacy with the folks who had questions about it. 
 
 I was lucky to pitch the event to USDR, who then got Rockefeller involved. They were able to take it and make it into a real thing. It turned out fantastic. 
 
@@ -193,7 +195,7 @@ A couple organizations I am helped start or worked with
 
 ## Speaking
 
-As you probably know, I enjoy speaking in front of people. It was exciting to talk about some of my work and be a facilitator of some broader conversations around COVID-19. The topic was typically Exposure Notification and privacy related. 
+As you probably know, I enjoy speaking in front of people. It was exciting to talk about some of my work and be a facilitator of some broader conversations around COVID-19. The topic was typically Exposure Notification, and privacy related. 
 
 ### Next Wave
 * **Organization:** WSJ / Betaworks
@@ -251,16 +253,16 @@ As you probably know, I enjoy speaking in front of people. It was exciting to ta
 
 # Summary, sort of. 
 
-Overall it was a really short eight months. Wild, tbh. I learned so so much — both about myself, about viruses and about communities. I learned what happens when volunteers hit global bureaucracies (it isn't pretty). I learned that nobody has any idea what the fuck is going on (seriously. nobody). I learned that we are not prepared for COVID-19 nor the next one (scares the shit out of me). 
+Overall it was a really short eight months. Wild, tbh. I learned so so much — both about myself, about viruses, and about communities. I learned what happens when volunteers hit global bureaucracies (it isn't pretty). I learned that nobody has any idea what the fuck is going on (seriously. nobody). I learned that we are not prepared for COVID-19 nor the next one (scares the shit out of me). 
 
-I was invigorated by the communities. They were amazing. Full of outstanding people trying to make the world better. It was a delightful group to be a part of. 
+I was invigorated by the communities. They were amazing. Full of outstanding people trying to make the world better. It was a fun group to be a part of. 
 
-Two weeks ago I finished the last of the big pieces of my COVID-19 work. It marked the end of my time being "full time" on COVID-19. I often joke that I wish my lockdown hobby had been something other than "COVID-19." But here we are. 
+Two weeks ago, I finished the last of the big pieces of my COVID-19 work. It marked the end of my time being "full time" on COVID-19. I often joke that I wish my lockdown hobby had been something other than "COVID-19." But here we are. 
 
-The best part was the people. Lots of incredible people helped out, participated, and were around to do work. I really thank every one of them. I think about the work we all did almost every day. Luckily, since most of the work was organized around WhatsApp, zoom chats, and weird emails - it is really easy to hit them up again and do another crazy project. 
+The best part was the people. Lots of incredible people helped out, participated, and were around to do the job. I really thank every one of them. I think about the work we all did almost every day. 
 
 # Next
 
-Obviously, the year is not over - however, the brunt of my COVID-19 involvement is. Although I am still advising many of the organizations that I worked with, I am no longer involved on a day to day basis. 
+Obviously, the year is not over - however, the brunt of my COVID-19 involvement is. Although I am still advising many of the organizations that I worked with, I am no longer involved daily. 
 
 I am now focused on a new thing. I am very excited. You should be too. It is going to be galactic. 
