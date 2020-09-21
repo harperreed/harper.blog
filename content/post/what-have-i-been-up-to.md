@@ -4,7 +4,6 @@ date: 2020-09-21T01:24:53.556Z
 draft: false
 ---
 
-
 2020 has been a real motherfucker of a year (and it isn't even over!). Like everyone (and especially those of us in the U.S.), I have spent a lot of this year try to understand my place in this new world. I left PayPal in 2018 with the idea of figuring out what was next. I had a simple plan and early in 2020 it seemed that I was on the track of something exciting and big. Then COVID-19 hit. Everything stopped! 
 
 I spent the first couple of weeks reeling like most folks. Then I got to work. 
@@ -22,6 +21,8 @@ Here is what I have been up to since the beginning of the year (2020).
 ## Communities I started
 
 The basis for my career and one of the things I find most powerful is community. COVID-19 was no different. What was different, though, was the venue. Most of the communities I started existed first on WhatsApp and then spun off into other platforms. WhatsApp (although owned by facebook - big downside) is very good for group messaging. It is fast, light, and easy to use. More importantly, it is international. When I started, most of these communities were primarily global communities. 
+
+My friend, Tricia Wang, descibed this best in her piece about [Chinese COVID-19 communities on WeChat](https://www.buzzfeednews.com/article/triciawang/a-lesson-from-the-people-of-wuhan-community-hyper-local). The online Chinese communities did this well before we did. 
 
 ### COVID-1919: real info only (active)
 - Created: 1/21/2020
