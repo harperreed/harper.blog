@@ -10,7 +10,7 @@ Write a very short super casual blog post on the following:
 - experimenting with chatGPT. It is fun and scary. 
 - completely addicted to midjourney.
 - thinking a lot about ESP32, simple hacks, and LEDS (specifically WLED).
-- thinking a lot about fediverse and federation and how long lasting open source communities are often poisonous to new comers and outsiders.
+- thinking a lot about fediverse and federation and how older open source communities are often myopic, poisonous to new comers, and outsiders.
 - thinking a lot about photography. I kind of want a M11.
 - thinking about lighting up a private-ish pixelfed instance. Who wants in?
 - thinking a lot about reading feeds. Please send me you OPML? Please!
