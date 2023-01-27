@@ -2,7 +2,7 @@
 title: Some minor prompt engineering
 date: 2023-01-26T23:04:11-05:00
 description: Some minor prompt engineering
-draft: true
+draft: false
 ---
 A prompt I recently put into ChatGPT:
 
