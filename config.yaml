@@ -3,11 +3,9 @@ baseURL: https://harper.blog/
 publishDir: "public"
 languageCode: en-us
 title: Writing by Harper Reed
-theme: "hugo-vitae"
 canonifyURLs: true
 enableRobotsTXT: true
 paginate:  5
-enableRobotsTXT: true
 googleAnalytics: "UA-70650-74"
 
 defaultContentLanguage: "en"
@@ -20,10 +18,7 @@ permalinks:
 params:
   ga_id: "UA-70650-74"
   description: "Some writing by Harper Reed. Mostly about technology, politics, and things"
-
-
     
-  pagetitle:  "All about static site generation"
   subtitle: "Musing from a normal person doing normal things"
   cachebuster: "harper rules"
   name: "Harper Reed"
