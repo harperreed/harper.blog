@@ -1,6 +1,7 @@
 ---
 title: "Where to find me now"
 date: 2023-01-29
+description: Now that twitter has melted down, where can you find me?
 draft: false
 ---
 

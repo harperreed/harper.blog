@@ -2,8 +2,15 @@
 title: About
 type: special
 url: /about/
-menu: main
+
+nofeed: true
 description: About page for harper.blog
+weight: 6
+menu:
+  main:
+    name: About
+    weight: 1
+
 ---
 
 ## Hello. 

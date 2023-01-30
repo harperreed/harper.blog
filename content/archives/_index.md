@@ -1,10 +1,14 @@
-+++
-title = "Archives"
-lastmod = "2017-12-04"
-type = "archive"
-url = "/archives/"
-menu = "main"
-+++
+---
+title: Archives
+lastmod: '2017-12-04'
+type: archive
+url: /archives/
+nofeed: true
+menu:
+  main:
+    name: Archives
+    weight: 2
+---
 
 
 # My old blog: nata2.org
