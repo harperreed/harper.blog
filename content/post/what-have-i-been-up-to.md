@@ -2,6 +2,7 @@
 title: "What have I been up to? "
 date: 2020-09-21T01:24:53.556Z
 draft: false
+description: I spent a bunch of time doing a lot of weird stuff in 2020. Here's a quick summary of what I've been up to.
 ---
 
 As a founder, an F list celebrity, a lite public figure, and someone who's usually *loud/visible* with what they are working on, I've been surprisingly quiet this year. Part of that is because this year sucks; the other part is that I've been super busy working on COVID-19 response. After 8 wild, exhausting, rewarding months doing the work, I've just finished my last obligation. So finally, I can take a moment and tell you about this wild journey.

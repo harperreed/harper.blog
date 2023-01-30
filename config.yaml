@@ -3,11 +3,9 @@ baseURL: https://harper.blog/
 publishDir: "public"
 languageCode: en-us
 title: Writing by Harper Reed
-theme: "hugo-vitae"
 canonifyURLs: true
 enableRobotsTXT: true
 paginate:  5
-enableRobotsTXT: true
 googleAnalytics: "UA-70650-74"
 
 defaultContentLanguage: "en"
@@ -20,25 +18,24 @@ permalinks:
 params:
   ga_id: "UA-70650-74"
   description: "Some writing by Harper Reed. Mostly about technology, politics, and things"
-
-
-    
-  pagetitle:  "All about static site generation"
+  darkmode: false
   subtitle: "Musing from a normal person doing normal things"
   cachebuster: "harper rules"
   name: "Harper Reed"
   email: harper@modest.com
   avatar: "https://s.gravatar.com/avatar/b7a96b3d5b5cfed5228396104cd67b38?s=600&r=g"
   favicon:  false
+  wordCount: true
+  homepage: false
+  readingTime: true
+
+  fullRSS: true
   nofeedSections:
     - "page"
     - "posts"
   mainSections: 
     - "post"
   social:
-    - name: "@harper"
-      icon: "fab fa-twitter"
-      url: "http://twitter.com/harper"
     - name: harper.blog
       icon: "fas fa-pen"
       url: "http://harper.blog"
@@ -51,6 +48,14 @@ params:
     - name: harperreed.com
       icon: "fas fa-link"
       url: "http://harper.lol"
+
+menu:
+  main:
+
+    - identifier: "contact"
+      name: "harper@modest.com"
+      url: "mailto:harper@modest.com"
+      weight: 6
 
 
 disableKinds:
