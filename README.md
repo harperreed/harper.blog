@@ -7,7 +7,8 @@ My blog's life
 * 2011-2012 - I am very busy
 * 2013-2017 - what blog
 * 2017-2020 - This is my place to post long tweets that are actually blog posts
-
+* 2020-2023 - JK
+* 2020-Today - who knows
 ----
 
 I use Hugo and Netlify. It works well.  
