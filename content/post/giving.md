@@ -2,6 +2,7 @@
 title: "Giving"
 date: 2020-06-04
 draft: false
+description: "A few friends have asked where they should send their money to better help support black lives and our local chicago communities. "
 ---
 
 A few friends have asked where they should send their money to better help support black lives and our local chicago communities. 
