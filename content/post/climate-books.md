@@ -1,8 +1,8 @@
 ---
-title: "Harper's Climate fiction reading list"
+title: "Harper's climate fiction reading list"
 date: 2023-12-18
 draft: false
-description: "Harper's Climate fiction reading list: Read The Deluge"
+description: "Harper's climate fiction reading list: Read The Deluge"
 ---
 
 A bunch of friends have asked for my climate fiction reading list. Here it is:
