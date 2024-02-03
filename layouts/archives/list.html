@@ -1,14 +1,17 @@
-
-{{ define "main" }}
-
-{{ .Content }}
+{{ define "main" }} {{ .Content }}
 
 <div class="post">
-  <ul>
-  {{ range .Data.Pages }}
-    <li>{{ .Date.Format "Jan 2, 2006" }} &mdash; <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-  {{ end }}
-  </ul>
-
+    <ul style="list-style-type: none">
+        {{ $currentYear := "" }} {{ range .Data.Pages }} {{ if not (eq
+        $currentYear (.Date.Format "2006")) }} {{ $currentYear = .Date.Format
+        "2006" }}
+        <li class="year-header"><h1>{{ $currentYear }}</h1></li>
+        {{ end }}
+        <li>
+            {{ .Date.Format "January 2, 2006" }} &mdash;
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+    </ul>
 </div>
 {{ end }}

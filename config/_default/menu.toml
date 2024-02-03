@@ -1,0 +1,20 @@
+######### menu #########
+
+
+[[main]]
+identifier = "contact"
+name = "harper@modest.com"
+url = "mailto:harper@modest.com"
+weight = 6
+
+[[main]]
+identifier = "now"
+name = "Now"
+url = "/now"
+weight = 1
+
+[[main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1

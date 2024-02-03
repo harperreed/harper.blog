@@ -1,0 +1,12 @@
+baseURL = "https://harper.blog/"
+publishDir = "public"
+languageCode = "en-us"
+title = "Writing by Harper Reed"
+canonifyURLs = true
+enableRobotsTXT = true
+paginate = 5
+googleAnalytics = "UA-70650-74"
+defaultContentLanguage = "en"
+author = "Harper Reed"
+disableKinds = [ "taxonomy", "taxonomyTerm" ]
+timeZone = "America/Chicago"

@@ -1,0 +1,12 @@
+
+############################ Markup ##############################
+[goldmark.renderer]
+unsafe = true
+
+[highlight]
+style = 'monokai' # see https://xyproto.github.io/splash/docs/all.html
+
+[tableOfContents]
+startLevel = 2
+endLevel = 5
+ordered = true
