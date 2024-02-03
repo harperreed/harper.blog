@@ -1,0 +1,13 @@
+{{ define "main" }}
+<nav>
+    <a href="/now"><span aria-hidden="true">&larr;</span> Back to Now</a>
+</nav>
+<div style="padding-bottom: 50px">
+    <div>
+        <h2>Now from {{.Date.Format "Jan 2, 2006" }}</h2>
+    </div>
+    <div class="post">{{ .Content }}</div>
+    <i>updated {{.Date.Format "Jan 2, 2006"}}</i>
+</div>
+
+{{ end }}

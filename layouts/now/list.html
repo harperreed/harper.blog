@@ -1,0 +1,16 @@
+{{ define "main" }} {{ .Content }} {{ range first 1 .Data.Pages }}
+<div class="post">{{.Content}}</div>
+<i>updated {{.Date.Format "Jan 2, 2006"}}</i>
+{{end}}
+<hr />
+<div>
+    <h3>Previously</h3>
+    <ul>
+        {{ range after 1 .Data.Pages }}
+        <li>
+            <a href="{{ .RelPermalink }}">{{ .Date.Format "Jan 2, 2006" }}</a>
+        </li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}
