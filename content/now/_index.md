@@ -10,7 +10,7 @@ menu:
         identifier: now
 
 ---
-Inspired by @NowNowNow. A simple way to see whats happening now.
+Inspired by [@NowNowNow.](https://nownownow.com/) A simple way to see whats happening now.
 
 ## Now
 
