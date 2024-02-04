@@ -1,6 +1,7 @@
 ---
 title: "Blogging in 2018. Blogs, How Do They Work?"
 date: 2018-07-08T22:29:48Z
+description: Chronicling two decades of blogging evolution, from PHP to Hugo on Github, this blog navigates the shifts from detailed posts to Twitter's brevity and back. Expect candid thoughts on tech, founding companies, travel, and the occasional book review, interspersed with reflections on a blogger's journey from 2000s archives to current musings.
 ---
 
 I started this blog in a different form around 2000.  I was in college and loved writing posts about my life. 
