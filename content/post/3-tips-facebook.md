@@ -1,5 +1,6 @@
 ---
 title: "Harper's 3 tips to surviving Facebook"
+description: "Three unconventional tips for managing your relationship with Facebook, offering strategies to minimize distractions and regain control over your online experience. Learn how to disconnect from the 'notification-industrial complex,' create a dedicated Chrome profile for Facebook use, and radically transform your newsfeed by unfollowing friends. These personal insights aim to make Facebook usage more intentional and less intrusive in your daily life."
 date: 2018-10-11T10:02:30-05:00
 draft: false
 ---
