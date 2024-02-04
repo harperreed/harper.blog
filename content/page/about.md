@@ -1,5 +1,5 @@
 ---
-title: About
+title: Hello
 type: special
 url: /about/
 
@@ -12,8 +12,6 @@ menu:
     weight: 2
 
 ---
-
-## Hello
 
 My name is [Harper Reed](mailto:harper@modest.com). This is my blog. I average about 0.6 posts a year. I have been blogging for around 23 years (wtaf). You can check out [my old blog here](/past-archives).
 
