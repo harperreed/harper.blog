@@ -1,7 +1,7 @@
 ---
 title: "Some thoughts about turntables"
 date: 2023-02-10
-description: I did a LOT of research around this about a year ago. I thought it would be helpful to write up my notes. 
+description: "Dive into the world of turntables with a seasoned audiophile's comprehensive guide. Discover detailed insights on the Pro-Ject Debut Carbon EVO turntable, various setup options like preamps, amps, and streaming setups, along with personal recommendations for creating the perfect vinyl listening experience. Learn about quality gear choices, from the Schitt Mani preamp to the Bluesound streaming setup, and get practical advice on accessories like record storage solutions. Whether you're a vinyl veteran or new to the scene, this guide offers a genuine, knowledgeable perspective on enjoying music through turntables."
 draft: false
 ---
 I wrote this for a few friends awhile ago and thought maybe it would be helpful for some more folks. 
