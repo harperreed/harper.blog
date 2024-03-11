@@ -5,12 +5,16 @@ description: "I've transformed my git commit process by using an AI to automatic
 draft: true
 ---
 
+*TL;DR: You can set a pre-commit-msg git hook to call the `llm` cli and get a summary of your recent code changes as your commit message.*
+
+
 I love hacking on projects, but often I am super bad at making commits that make sense.
 
 For instance:
-![](https://i.imgur.com/pgM3QEc.png)
+![](/images/posts/commits.png)
 
 Trash commit messages. I am lazy!
+
 
 ## Never fear, LLMs are here.
 
@@ -193,7 +197,8 @@ Feat: Add prepare-commit-msg git hook
 - Write the generated message to the commit message file
 ```
 
-Yay. Much better!
+Yay. Much better! You can see [mine in my dotfiles](https://github.com/harperreed/dotfiles/blob/master/.git_hooks/prepare-commit-msg).
+
 
 ## How to set this up!
 
@@ -327,6 +332,9 @@ echo "$commit_msg" > "$1"
 
 
 ```
+
+You can see [mine in my dotfiles](https://github.com/harperreed/dotfiles/blob/master/.git_hooks/prepare-commit-msg).
+
 
 ### 7. Make the `prepare-commit-msg` file executable
 
