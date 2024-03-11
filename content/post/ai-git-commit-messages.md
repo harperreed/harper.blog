@@ -1,6 +1,6 @@
 ---
 title: Easily using LLMs to generate git commit messages
-date: 2024-03-11T23:04:11-05:00
+date: 2024-03-11T11:04:11-05:00
 description: "I've transformed my git commit process by using an AI to automatically generate meaningful messages. This setup involves a nifty integration of the llm CLI and git hooks, saving me time."
 draft: true
 ---
@@ -27,7 +27,7 @@ I also wanted the prompt to be stored externally so I could iterate on it withou
 
 I went ahead and put my prompt in `~/.config/prompts/git-commit-message.txt`. Here is the prompt:
 
-```
+```text
 Write concise, informative commit messages:
 - Remember to mention the files that were changed, and what was changed
 - Start with a summary in imperative mood
@@ -180,7 +180,7 @@ It works!
 
 Now, whenever I commit without a message, the commit hook executes and sends the diff of the changes to the llm cli with the system prompt previously defined. The output is really nice!
 
-```
+```text
 Feat: Add prepare-commit-msg git hook
 - Automatically generate informative commit messages using git diff and LLM
 - Skip message generation for merge commits
@@ -189,15 +189,27 @@ Feat: Add prepare-commit-msg git hook
 
 ## How to set this up!
 
-### 1. [Install](https://llm.datasette.io/en/stable/) `llm`.
+### 1. Install `llm`.
+
+Visit [llm.datasette.io](https://llm.datasette.io/en/stable/) for instructions. I used `pipx` to install it:
+
+```bash
+pipx install llm
+```
 
 Remember to set your key and default model.
 
-Set your Openai key: `llm keys set openai`
+Set your Openai key:
+```bash
+llm keys set openai
+```
 
-Set which model is default: `llm models default gpt-4-turbo`
+Set which model is default:
+```bash
+llm models default gpt-4-turbo
+```
 
-(The `llm` cli is awesome. It supports lots of different models, and contexts. Worth digging in for sure)
+(The `llm` cli is awesome. It supports lots of different models (including local models), and contexts. Worth digging in for sure)
 
 ### 2. Create a new directory for your prompts:
 
@@ -207,7 +219,7 @@ mkdir -p ~/.config/prompts
 
 ### 3. Add your system prompt:
 
-```
+```text
 Write concise, informative commit messages:
 - Remember to mention the files that were changed, and what was changed
 - Start with a summary in imperative mood
@@ -271,6 +283,13 @@ if [ -n "$2" ]; then
   exit 0 # Exit script if it's a merge commit, no custom message needed
 fi
 
+# Check if the `llm` command is installed
+if ! command -v llm &> /dev/null; then
+  echo "${RED}Error: 'llm' command is not installed. Please install it and try again.${NC}"
+  exit 1
+fi
+
+
 # Start the spinning animation in the background
 spin_animation &
 spin_pid=$! # Capture the process ID of the spinning animation
@@ -303,7 +322,7 @@ echo "$commit_msg" > "$1"
 
 Run the following command in your terminal:
 
-```
+```bash
 chmod +x ~/.git_hooks/prepare-commit-msg
 ```
 
@@ -311,7 +330,7 @@ chmod +x ~/.git_hooks/prepare-commit-msg
 
 Run the following command to set your global hooks directory
 
-```
+```bash
 git config --global core.hooksPath ~/.git_hooks
 ```
 
