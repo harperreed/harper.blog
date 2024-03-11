@@ -1,7 +1,7 @@
 ---
-title: Easily using LLMs to generate git commit messages
+title: Use an llm to automagically generate meaningful git commit messages
 date: 2024-03-11T11:04:11-05:00
-description: "I've transformed my git commit process by using an AI to automatically generate meaningful messages. This setup involves a nifty integration of the llm CLI and git hooks, saving me time."
+description: "I've transformed my git commit process by using an AI to automatically generate meaningful messages. This setup involves a nifty integration of the llm CLI and git hooks, saving me time. Now I can fuck off while the robots document my commits"
 draft: true
 ---
 
@@ -92,6 +92,8 @@ llm-staged = "!f() { \
 
 I was satisfied, but this was still too much work, and too kludgy.
 
+## Git Hooked
+
 Then I remembered! Git hooks! Lol. Why would I have that in my brain - who knows!
 
 I asked claude again, and they whipped up a simple script that would act as a hook that triggers with the `prepare-commit-msg` event.
@@ -115,7 +117,9 @@ commit_msg=$(git diff --cached | llm -s "$(cat ~/.config/prompts/commit-system-p
 echo "$commit_msg" > "$1"
 ```
 
-It works, but is boring. We (the AI and i. Lol. What a world) iterated on making it a bit prettier, and settled on this:
+It works, but is boring. We (the AI and i. Lol. What a world) iterated on making it a bit prettier, a bit more robust, and catch some failure modes.
+
+Claude iterated into this:
 
 ```bash
 #!/bin/sh
@@ -176,6 +180,8 @@ echo
 echo "$commit_msg" > "$1"
 ```
 
+(ChatGPT added the documentation)
+
 It works!
 
 Now, whenever I commit without a message, the commit hook executes and sends the diff of the changes to the llm cli with the system prompt previously defined. The output is really nice!
@@ -186,6 +192,8 @@ Feat: Add prepare-commit-msg git hook
 - Skip message generation for merge commits
 - Write the generated message to the commit message file
 ```
+
+Yay. Much better!
 
 ## How to set this up!
 
@@ -219,6 +227,8 @@ mkdir -p ~/.config/prompts
 
 ### 3. Add your system prompt:
 
+The hook will look in `~/.config/prompts/commit-system-prompt.txt` for the system prompt. You can create a file with the following content:
+
 ```text
 Write concise, informative commit messages:
 - Remember to mention the files that were changed, and what was changed
@@ -234,7 +244,7 @@ Think carefully before you write your commit message.
 What you write will be passed to git commit -m "[message]"
 ```
 
-This prompt worked great for me - but let me know if you have changes
+This prompt worked great for me - but let me know if you have changes. I consider this prompt v0.
 
 ### 4. Create a new directory for your global Git hooks.
 
@@ -248,7 +258,7 @@ mkdir -p ~/.git_hooks
 
 Create a new file named `prepare-commit-msg` (without any extension) in the `~/.git_hooks` directory.
 
-### 6. Open the `prepare-commit-msg` file in a text editor and add the same content as before:
+### 6. Open the `prepare-commit-msg` file in a text editor (vi or death) and add the same content as before:
 
 ```bash
 #!/bin/sh
