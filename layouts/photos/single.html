@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<div class="flex" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+
+    <div class="photo" style="padding: 1rem; max-width: 100%;"></div>
+
+    <!-- <a id="detailOpen" title="{{ with .Params.filename}}{{ .}}{{ end }}"></a> -->
+    {{ partial "photos/large-image.html" . }}
+    <!-- {{ partial "photos/photo-detail.html" . }} -->
+    {{ partial "photos/description.html" . }}
+    {{ partial "photos/metadata.html" . }}
+</div>
+
+{{ partial "photos/nextprev-photos.html" . }}
+</div>
+
+{{ end }}

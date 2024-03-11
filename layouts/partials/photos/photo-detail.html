@@ -1,0 +1,32 @@
+<!-- {{ with .Resources.ByType "image" }}
+  {{ range . }}
+   {{$detail := . }}
+    <div class="">
+      <a id="detailClose" href="#" title="{{ with .Params.filename}}{{ .}}{{ end }}">
+        <span class="full lazy" data-bg="{{ $detail.RelPermalink }}" style="background-image: url('{{ $detail.RelPermalink }}')">
+        </span>
+      </a>
+    </div>
+  {{ end }}
+{{ end }}
+
+<script>
+
+var detailToggle = function(){
+  var detail = $('.detail')
+  if (detail.hasClass( "d-none")){
+    detail.removeClass("d-none");
+  }else{
+    detail.addClass("d-none");
+  }
+  return false
+}
+
+$('#detailOpen').click(function(){
+  return detailToggle()
+})
+
+$('#detailClose').click(function(){
+  return detailToggle()
+})
+</script> -->

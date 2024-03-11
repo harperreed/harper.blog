@@ -1,0 +1,25 @@
+{{ with .Resources.ByType "image" }} {{ range . }} {{$original := . }}
+{{$preview := $original.Resize "1200x webp" }} {{$fallback := $original.Resize
+"1200x" }}
+<!-- Fallback for non-WebP browsers -->
+
+<picture>
+    <source srcset="{{ $preview.RelPermalink }}" type="image/webp" />
+    <source srcset="{{ $fallback.RelPermalink }}" type="image/jpeg" />
+    <!-- Fallback source -->
+    <img
+        src="{{ $preview.RelPermalink }}"
+        width="{{ $preview.Width }}"
+        height="{{ $preview.Height }}"
+        loading="lazy"
+        style="
+            radiusborder: 0.5rem;
+            box-shadow:
+                0 10px 15px -3px rgba(0, 0, 0, 0.1),
+                0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        "
+        alt="{{ with $original.Params.filename }} - Photo by Harper Reed{{ . }}{{ else }}Photo by Harper Reed{{ end }}"
+    />
+    <!-- Enhanced Alt Text -->
+</picture>
+{{ end }} {{ end }}

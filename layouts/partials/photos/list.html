@@ -1,0 +1,8 @@
+{{ $paginator := .Paginate (where .Site.RegularPages "Type" "photos") }}
+
+{{ range $paginator.Pages }}
+  {{ partial "photos/list-single.html" .}}
+{{ end }}
+
+
+<div class="d-flex justify-content-center">{{ template "partials/pagination.html" . }}</div>

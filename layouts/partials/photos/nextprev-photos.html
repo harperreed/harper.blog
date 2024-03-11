@@ -1,0 +1,63 @@
+<div class="justify-center flex flex-wrap">
+  <!-- Previous Section Link -->
+  {{ with .PrevInSection }}
+  <div class="m-4 p-1 hover:bg-gray-100 rounded-md">
+    <a class="page-link" href="{{ .Permalink }}">
+      <!-- Displaying Image Thumbnail if available -->
+      {{ with .Resources.ByType "image" }}
+      {{ range . }}
+      {{$original := . }}
+      {{$thumbnail := $original.Fill "100x100 smart webp" }}
+      {{$fallback := $original.Fill "100x100 smart" }} <!-- Fallback for non-WebP browsers -->
+
+      <picture>
+        <source srcset="{{ $thumbnail.RelPermalink }}" type="image/webp">
+        <source srcset="{{ $fallback.RelPermalink }}" type="image/jpeg"> <!-- Fallback source -->
+        <img src="{{ $thumbnail.RelPermalink }}" width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}"
+          class="rounded shadow-md filter grayscale"
+          alt="{{ with $original.Params.filename }}Thumbnail of {{ . }}{{ else }}Thumbnail{{ end }}">
+        <!-- Enhanced alt text -->
+      </picture>
+      {{ end }}
+      {{ else }}
+      <!-- Display Placeholder or alt text when Image is not available -->
+      <!-- Placeholder can be a small grey square or anything appropriate -->
+      {{ end }}
+      <div class="text-sm flex items-center justify-start mt-2">
+        <i class="fas fa-arrow-left" aria-hidden="true"></i>&nbsp;Previous <br />
+      </div>
+    </a>
+  </div>
+  {{ end }}
+
+  <!-- Next Section Link -->
+  {{ with .NextInSection }}
+  <div class="m-4 p-1 hover:bg-gray-100 rounded-md">
+    <a class="page-link" href="{{ .Permalink }}">
+      <!-- Displaying Image Thumbnail if available -->
+      {{ with .Resources.ByType "image" }}
+      {{ range . }}
+      {{$original := . }}
+      {{$thumbnail := $original.Fill "100x100 smart webp" }}
+      {{$fallback := $original.Fill "100x100 smart" }} <!-- Fallback for non-WebP browsers -->
+
+      <picture>
+        <source srcset="{{ $thumbnail.RelPermalink }}" type="image/webp">
+        <source srcset="{{ $fallback.RelPermalink }}" type="image/jpeg"> <!-- Fallback source -->
+        <img src="{{ $thumbnail.RelPermalink }}" width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}"
+          class="rounded shadow-md filter grayscale"
+          alt="{{ with $original.Params.filename }}Thumbnail of {{ . }}{{ else }}Thumbnail{{ end }}">
+        <!-- Enhanced alt text -->
+      </picture>
+      {{ end }}
+      {{ else }}
+      <!-- Display Placeholder or alt text when Image is not available -->
+      <!-- Placeholder can be a small grey square or anything appropriate -->
+      {{ end }}
+      <div class="text-sm flex items-center justify-end mt-2">
+        Next&nbsp;<i class="fas fa-arrow-right" aria-hidden="true"></i>
+      </div>
+    </a>
+  </div>
+  {{ end }}
+</div>

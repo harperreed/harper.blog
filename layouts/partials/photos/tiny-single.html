@@ -1,0 +1,23 @@
+<a href="{{ .RelPermalink }}">
+  {{ with .Resources.ByType "image" }}
+  {{ range . }}
+  {{$original := . }}
+  {{$preview := $original.Resize "600x webp" }}
+  {{$fallback := $original.Resize "600x" }} <!-- Fallback for non-WebP browsers -->
+
+  <picture>
+    <source srcset="{{ $preview.RelPermalink }}" type="image/webp">
+    <source srcset="{{ $fallback.RelPermalink }}" type="image/jpeg"> <!-- Fallback source -->
+    <img src="{{ $preview.RelPermalink }}" loading="lazy" width="{{ $preview.Width }}" height="{{ $preview.Height }}"
+      class="rounded shadow-md" alt="{{ with $original.Params.filename }}{{ . }}{{ else }}Image{{ end }}">
+    <!-- Enhanced alt text -->
+  </picture>
+  {{ end }}
+  {{ end }}
+</a>
+
+<div class="metadata">
+  <ul>
+    <li>Taken on {{ .Date.Format "Monday, January 02, 2006" }}</li>
+  </ul>
+</div>

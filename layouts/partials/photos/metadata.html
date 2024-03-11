@@ -1,0 +1,25 @@
+<div class="text-xs">
+  <!-- Use '.Resources.Match' to filter images of specific types -->
+  {{ with .Resources.Match "**.{jpg,jpeg}" }}
+
+    {{ range . }}
+      {{ with .Exif }}
+        <!-- Date -->
+        {{ with .Date }}<p>Taken on {{ .Format "January 02, 2006" }}</p>{{ end }}
+
+        <!-- Camera Info -->
+        <ul class="photo p-0 m-0 sm:visible invisible">
+          {{ if .Tags.Model }}<li class="inline">{{ .Tags.Model }} by {{ .Tags.Make }}</li>{{ end }}
+          {{ if .Tags.LensModel }}<li class="inline">Lens: {{ .Tags.LensModel }}</li>{{ end }}
+          {{ if .Tags.ApertureValue }}<li class="inline">Aperture: f/{{ .Tags.ApertureValue }}</li>{{ end }}
+          {{ if .Tags.ExposureTime }}<li class="inline">Exposure Time: {{ .Tags.ExposureTime }} seconds</li>{{ end }}
+          {{ if .Tags.FNumber }}<li class="inline">Aperture: f/{{ .Tags.FNumber }}</li>{{ end }}
+          {{ if .Tags.FocalLength }}<li class="inline">Focal Length: {{ .Tags.FocalLength }}mm</li>{{ end }}
+          {{ if .Tags.ISOSpeedRatings }}<li class="inline">ISO: {{ .Tags.ISOSpeedRatings }}</li>{{ end }}
+        </ul>
+
+      {{ end }}
+    {{ end }}
+
+  {{ end }}
+</div>

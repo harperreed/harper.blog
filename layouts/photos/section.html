@@ -1,0 +1,53 @@
+{{ define "main" }}
+<main>
+    <div
+        style="
+            display: flex;
+            flex-direction: row;
+            flex-grow: 1;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 0.5rem;
+        "
+    >
+        {{ range (where .Site.RegularPages "Type" "photos") }}
+
+        <a href="{{.RelPermalink}}" alt="{{.Content}}" title="{{.Content}}">
+            {{ with .Resources.ByType "image" }} {{ range . }} {{$original := .
+            }} {{$preview := $original.Fill "500x500 smart webp" }} {{$fallback
+            := $original.Fill "500x500 smart" }}
+            <!-- Fallback for non-WebP browsers -->
+            <div style="margin: 0.25rem; max-width: 100%">
+                <picture>
+                    <source
+                        srcset="{{ $preview.RelPermalink }}"
+                        type="image/webp"
+                    />
+                    <source
+                        srcset="{{ $fallback.RelPermalink }}"
+                        type="image/jpeg"
+                    />
+                    <!-- Fallback source -->
+                    <img
+                        src="{{ $preview.RelPermalink }}"
+                        style="
+                            border-radius: 0.375rem;
+                            box-shadow:
+                                0 4px 6px -1px rgba(0, 0, 0, 0.1),
+                                0 2px 4px -1px rgba(0, 0, 0, 0.06);
+                        "
+                        alt="{{ with $original.Params.filename }}{{ . }}{{ else }}Image{{ end }}"
+                    />
+                    <!-- Enhanced alt text -->
+                </picture>
+            </div>
+
+            {{ end }} {{ end }}
+        </a>
+
+        {{ end }}
+    </div>
+</main>
+{{ end }}
