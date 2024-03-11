@@ -1,0 +1,24 @@
+{{ define "main" }} {{ range (.Site.RegularPages.GroupByDate "2006" "Type"
+"books") }}
+<div>
+    {{ $year := .Key }} {{ $books := .Pages }} {{ $book_count := len $books }}
+
+    <div class="year-section">
+        <h1 class="body-header">{{ $year }}: {{ $book_count }} books read</h1>
+
+        <div
+            style="
+                margin-left: auto;
+                margin-top: 2rem;
+                display: flex;
+                flex-grow: 1;
+                flex-direction: row;
+                flex-wrap: wrap;
+                justify-content: center;
+            "
+        >
+            {{ range $books }} {{ partial "books/book-small.html" . }} {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }} {{ end }}

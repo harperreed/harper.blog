@@ -1,0 +1,27 @@
+<div class="m-0 sm:m-4 2xl:w-96 sm:w-72 w-full sm:px-5 group mb-4">
+  <a href="{{ .Permalink }}">
+
+    {{ if .Resources }}
+    {{ with .Resources.ByType "image" }}
+    {{ range . }}
+    {{$original := . }}
+    {{$large := $original.Resize "800x webp" }}
+    {{$small := $original.Resize "480x webp" }}
+    {{$fallback := $original.Resize "800x" }} <!-- Fallback for non-WebP browsers -->
+
+    <picture>
+      <source srcset="{{ $small.RelPermalink }} 480w, {{ $large.RelPermalink }} 800w"
+        sizes="(max-width: 600px) 480px, 800px" type="image/webp">
+      <source srcset="{{ $fallback.RelPermalink }}" type="image/jpeg"> <!-- Fallback source -->
+      <img src="{{ $large.RelPermalink }}" alt="{{ $original.Title }} by {{ $original.Params.author }}"
+        class="rounded shadow w-full group-hover:shadow-lg border-gray-400" loading="lazy"> <!-- Added lazy loading -->
+    </picture>
+    {{ end }}
+    {{ end }}
+    {{ end }}
+
+  </a>
+  <figcaption class="text-sm font-semi text-gray-600 group-hover:text-gray-800">
+    <a href="{{ .Permalink }}">{{ .Title }} by {{ .Params.author }}</a>
+  </figcaption>
+</div>

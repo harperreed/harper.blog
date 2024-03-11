@@ -1,0 +1,54 @@
+<div class="meta">
+    <div class="date">
+        <span class="day">{{ dateFormat "02" .Date }}</span>
+        <span class="rest"
+            >{{ if $.Site.Data.month }}{{ index $.Site.Data.month (printf "%d"
+            .Date.Month) }} {{ .Date.Year }}{{ else }}{{ dateFormat "Jan 2006"
+            .Date }}{{ end }}</span
+        >
+    </div>
+</div>
+<div class="matter">
+    <article>
+        <h3 class="title small">
+            <a href="{{ .RelPermalink }}"
+                >{{.Title}}{{partial "post_label.html" (dict "post" .)}}</a
+            >
+        </h3>
+        {{- if not .Params.hidemeta }}
+        <p class="post-meta">{{ partial "post_meta.html" . }}</p>
+        {{- end }}
+        <p class="description">
+            {{ if isset .Params "description" }}{{ .Description }}{{ else }}{{
+            .Plain | htmlUnescape | safeHTML | truncate 140 }}{{ end }}
+        </p>
+
+        <a href="{{.RelPermalink}}" alt="{{.Content}}" title="{{.Content}}">
+            {{ with .Resources.ByType "image" }} {{ range . }} {{$original := .
+            }} {{$preview := $original.Fill "500x500 smart webp" }} {{$fallback
+            := $original.Fill "500x500 smart" }}
+            <!-- Fallback for non-WebP browsers -->
+            <div class="m-1 sm:m-2 sm:max-w-max md:max-w-xs lg:max-w-xs">
+                <picture>
+                    <source
+                        srcset="{{ $preview.RelPermalink }}"
+                        type="image/webp"
+                    />
+                    <source
+                        srcset="{{ $fallback.RelPermalink }}"
+                        type="image/jpeg"
+                    />
+                    <!-- Fallback source -->
+                    <img
+                        src="{{ $preview.RelPermalink }}"
+                        class="rounded shadow-md"
+                        alt="{{ with $original.Params.filename }}{{ . }}{{ else }}Image{{ end }}"
+                    />
+                    <!-- Enhanced alt text -->
+                </picture>
+            </div>
+
+            {{ end }} {{ end }}
+        </a>
+    </article>
+</div>

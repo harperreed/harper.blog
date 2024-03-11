@@ -1,0 +1,190 @@
+{{ define "main" }} {{ $book := index .Site.Data.books .File.BaseFileName }}
+<div style="padding-left: 16px; padding-right: 16px">
+    <nav
+        style="
+            margin-top: 1rem;
+            margin-bottom: 2.5rem;
+            display: none;
+            color: black;
+        "
+        aria-label="Breadcrumb"
+    >
+        <ol
+            style="display: flex; flex-wrap: wrap; list-style: none; padding: 0"
+        >
+            <li style="display: flex; align-items: center">
+                <a href="/">Books</a>
+                <svg
+                    style="
+                        margin-left: 12px;
+                        height: 12px;
+                        width: 12px;
+                        fill: currentColor;
+                    "
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 320 512"
+                >
+                    <path
+                        d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"
+                    />
+                </svg>
+            </li>
+            <li style="display: flex; align-items: center">
+                {{ $taxo := "tags" }} {{ range .Param $taxo }} {{ $name := . }}
+                {{ with $.Site.GetPage (printf "/%s/%s" $taxo ($name | urlize))
+                }}
+                <a href="{{ .Permalink }}">{{ $name }}</a>
+                {{ end }} {{ end }}
+                <svg
+                    style="
+                        margin-left: 1rem;
+                        margin-right: 1rem;
+                        height: 1rem;
+                        width: 1rem;
+                        fill: currentColor;
+                    "
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 320 512"
+                >
+                    <path
+                        d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"
+                    />
+                </svg>
+            </li>
+            <li style="display: flex; align-items: center; font-weight: bold">
+                <a href="{{.Permalink}}">{{.Title}}</a>
+            </li>
+        </ol>
+    </nav>
+
+    <div class="my-5 hidden text-center sm:float-right sm:block">
+        <a
+            class="ml-0 place-self-center rounded bg-blue-200 px-4 py-2 text-blue-800 hover:bg-blue-400 hover:text-blue-900 sm:ml-10"
+            target="_blank"
+            href="https://www.amazon.com/dp/{{.Params.asin }}?tag={{ .Site.Params.amazon_tag}}"
+            role="button"
+        >
+            Buy on Amazon
+        </a>
+    </div>
+
+    <h1 class="body-header text-6xl">
+        {{.Title}} by {{ $taxo := "tags" }} {{ range .Param $taxo }} {{ $name :=
+        . }} {{ with $.Site.GetPage (printf "/%s/%s" $taxo ($name | urlize)) }}
+        <a href="{{ .Permalink }}">{{ $name }}</a>
+        {{ end }} {{ end }}
+    </h1>
+
+    <div class="text-gray-600">
+        Finished reading this book on
+        <strong>{{ .Date.Format "January 2, 2006"}}</strong>
+    </div>
+
+    <hr class="mb-5 mt-5" />
+
+    <div class="my-5 text-center sm:float-right sm:hidden">
+        <a
+            class="ml-0 place-self-center rounded bg-blue-200 px-4 py-2 text-blue-800 hover:bg-blue-400 hover:text-blue-900 sm:ml-10"
+            target="_blank"
+            href="https://www.amazon.com/dp/{{.Params.asin }}?tag={{ .Site.Params.amazon_tag}}"
+            role="button"
+        >
+            Buy on Amazon
+        </a>
+    </div>
+
+    <div class="px-0 sm:float-right sm:w-1/2 sm:px-4">
+        <!-- {{ if .Resources }}
+    {{ with .Resources.ByType "image" }}
+    {{ range . }}
+    {{$image := .Resize "600x webp" }}
+    <img src="{{ $image.RelPermalink }}" class=" shadow-lg sm:mx-6 mx-0 w-full  my-4">
+    {{ end }}
+    {{ end }}
+    {{ end }} -->
+
+        {{ if .Resources }} {{ with .Resources.ByType "image" }} {{ range . }}
+        {{$original := . }} {{$large := $original.Resize "800x webp" }} {{$small
+        := $original.Resize "480x webp" }} {{$fallback := $original.Resize
+        "800x" }}
+        <!-- Fallback for non-WebP browsers -->
+
+        <picture>
+            <source
+                srcset="{{ $small.RelPermalink }} 480w, {{ $large.RelPermalink }} 800w"
+                sizes="(max-width: 600px) 480px, 800px"
+                type="image/webp"
+            />
+            <source srcset="{{ $fallback.RelPermalink }}" type="image/jpeg" />
+            <!-- Fallback source -->
+            <img
+                src="{{ $large.RelPermalink }}"
+                alt="{{ $original.Title }} by {{ $original.Params.author }}"
+                class="w-full rounded border-gray-400 shadow group-hover:shadow-lg"
+                loading="lazy"
+            />
+            <!-- Added lazy loading -->
+        </picture>
+        {{ end }} {{ end }} {{ end }}
+    </div>
+
+    <div
+        style="
+            max-width: 65ch;
+            margin-top: 0;
+            margin-bottom: 0;
+            color: inherit;
+            font-family: Georgia, Cambria, Times, serif;
+            font-weight: 400;
+            font-size: 1rem;
+            line-height: 1.75;
+            overflow-wrap: break-word;
+            word-break: break-word;
+            padding: 0;
+        "
+    >
+        {{ .Content}}
+    </div>
+
+    <h3 class="body-header my-5">Information</h3>
+
+    <div class="my-4">
+        <ul class="pb-4">
+            <li class="list-group-item"><strong>{{.Title}}</strong></li>
+
+            <li class="list-group-item">
+                Author: {{ $taxo := "tags" }} {{ range .Param $taxo }} {{ $name
+                := . }} {{ with $.Site.GetPage (printf "/%s/%s" $taxo ($name |
+                urlize)) }}
+                <a href="{{ .Permalink }}"><strong>{{ $name }}</strong></a>
+                {{ end }} {{ end }}
+            </li>
+
+            <li class="list-group-item">
+                Finished reading:
+                <strong>{{ .Date.Format "January 2, 2006"}}</strong>
+            </li>
+            {{ if $book.num_pages }}
+            <li class="list-group-item">
+                Number of pages: <strong>{{ $book.num_pages }}</strong>
+            </li>
+            {{ end}}
+            <li class="list-group-item"></li>
+        </ul>
+        <a
+            class="rounded bg-yellow-200 px-4 py-2 text-yellow-800 hover:bg-yellow-400 hover:text-yellow-900"
+            target="_blank"
+            href="{{ $book.link }}"
+            role="button"
+            >View on goodreads</a
+        >
+        <a
+            class="rounded bg-blue-200 px-4 py-2 text-blue-800 hover:bg-blue-400 hover:text-blue-900"
+            target="_blank"
+            href="https://www.amazon.com/dp/{{.Params.asin }}?tag={{ .Site.Params.amazon_tag}}"
+            role="button"
+            >Buy on Amazon</a
+        >
+    </div>
+</div>
+{{ end }}
