@@ -18,7 +18,7 @@ Trash commit messages. I am lazy!
 
 ## Never fear, LLMs are here.
 
-Originally my buddy Kanno sent me a snippet that would allow you to have a simple git alias that would generate a commit message from the git diff. It was pretty robust.
+Originally my buddy [Kanno](https://twitter.com/ryankanno?lang=en) sent me a snippet that would allow you to have a simple git alias that would generate a commit message from the git diff. It was pretty robust.
 
 ```bash
 # generate comment
