@@ -58,8 +58,8 @@
   {{- end -}}
 
   <meta property="og:description" content="{{.Site.Params.description}}" />
-  <meta property="og:image" content="https://harperreed.com/images/og.png">
-  <meta property="og:video" content="https://harperreed.com/images/og.mp4">
+  <meta property="og:image" content="https://harper.blog/images/og.png">
+  <meta property="og:video" content="https://harper.blog/images/og.mp4">
   <meta property="og:video:width" content="1280">
   <meta property="og:video:height" content="704">
   <meta name="author" content="Harper Reed <{{.Site.Params.email}}>">
@@ -75,4 +75,7 @@
 
       <!-- opengraph -->
       {{ partial "basic-seo.html" . }}
+
+      <!-- progressive web app -->
+      {{ partial "manifest.html" . }}
 </head>
