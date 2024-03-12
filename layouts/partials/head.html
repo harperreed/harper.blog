@@ -20,8 +20,7 @@
   <meta name="description"
     content="{{ if .IsHome }}{{ $.Site.Params.description }}{{ else }}{{ .Description }}{{ end }}">
   {{- end -}}
-  {{- template "_internal/opengraph.html" . -}}
-  {{- template "_internal/twitter_cards.html" . -}}
+
   <!-- If favicon is true in config use the favicon files-->
   {{- if eq .Site.Params.favicon true -}}
   <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
@@ -58,12 +57,22 @@
   <title>{{ .Title }} | {{ .Site.Title }}</title>
   {{- end -}}
 
-  <link rel="me" href="https://github.com/harperreed">
-  <link rel="me" href="https://twitter.com/harper">
-  <link rel="me" href="mailto:harper@modest.com">
-  <link rel="micropub" href="https://chimerical-cactus-cf8d94.netlify.app/micropub">
+  <meta property="og:description" content="{{.Site.Params.description}}" />
+  <meta property="og:image" content="https://harperreed.com/images/og.png">
+  <meta property="og:video" content="https://harperreed.com/images/og.mp4">
+  <meta property="og:video:width" content="1280">
+  <meta property="og:video:height" content="704">
+  <meta name="author" content="Harper Reed <{{.Site.Params.email}}>">
+  <link rel="shortcut icon" href="/favicon.ico">
+
+  <link href="https://twitter.com/harper" rel="me">
+  <link href="https://github.com/harperreed" rel="me">
+  <link href="harper@modest.com" rel="me">
+  <link href="harper@nata2.org" rel="me">
+
   <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
   <link rel="authorization_endpoint" href="https://indieauth.com/auth">
 
-  <!-- / Fathom -->
+      <!-- opengraph -->
+      {{ partial "basic-seo.html" . }}
 </head>
