@@ -40,6 +40,7 @@ Write concise, informative commit messages:
 - Use bullet points for multiple changes
 - Reference related issues or tickets
 - If there are no changes, or the input is blank - then return a blank string
+- Use emojis!
 
 Think carefully before you write your commit message.
 
@@ -250,6 +251,7 @@ Write concise, informative commit messages:
 - Use bullet points for multiple changes
 - Reference related issues or tickets
 - If there are no changes, or the input is blank - then return a blank string
+- Use emojis!
 
 Think carefully before you write your commit message.
 
