@@ -205,8 +205,6 @@ echo "$commit_msg" > "$1"
 
 It works!  And has a spinner! And catches errors! And is pretty!
 
-![](/images/posts/llm-commit-hook.gif)
-
 Now, whenever I commit without a message, the commit hook executes and sends the diff of the changes to the llm cli with the system prompt previously defined. The output is really nice!
 
 ```text
