@@ -1,0 +1,13 @@
+
+
+########################### Output Format ##########################
+
+[WebAppManifest]
+mediaType = "application/manifest+json"
+rel = "manifest"
+
+[SearchIndex]
+mediaType = "application/json"
+baseName = "searchindex"
+isPlainText = true
+notAlternative = true
