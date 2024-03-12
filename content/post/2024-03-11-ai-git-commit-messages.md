@@ -109,24 +109,10 @@ The commit hook is super simple:
 ```bash
 #!/bin/sh
 
-# Check if the commit is a merge commit
-if [ -n "$2" ]; then
+# Exit if the `SKIP_LLM_GITHOOK` environment variable is set
+if [ ! -z "$SKIP_LLM_GITHOOK" ]; then
   exit 0
 fi
-
-# Generate the commit message using git diff and llm
-commit_msg=$(git diff --cached | llm -s "$(cat ~/.config/prompts/commit-system-prompt.txt)")
-
-# Write the generated commit message to the commit message file
-echo "$commit_msg" > "$1"
-```
-
-It works, but is boring. We (the AI and i. Lol. What a world) iterated on making it a bit prettier, a bit more robust, and catch some failure modes.
-
-Claude iterated into this:
-
-```bash
-#!/bin/sh
 
 # ANSI color codes for styling the output
 RED='\033[0;31m'    # Sets text to red
@@ -199,11 +185,12 @@ echo
 # Write the generated commit message to the specified file (usually the commit message file in .git)
 echo "$commit_msg" > "$1"
 
+
 ```
 
 (ChatGPT added the documentation)
 
-It works!  And has a spinner! And catches errors! And is pretty!
+It works! And has a spinner! And catches errors! And is pretty!
 
 ![](/images/posts/llm-commit-hook.gif)
 
@@ -218,6 +205,7 @@ Feat: Add prepare-commit-msg git hook
 
 Yay. Much better! You can see [mine in my dotfiles](https://github.com/harperreed/dotfiles/blob/master/.git_hooks/prepare-commit-msg).
 
+You can even disable it by setting the `SKIP_LLM_GITHOOK` environment variable.
 
 ## How to set this up!
 
@@ -287,6 +275,11 @@ Create a new file named `prepare-commit-msg` (without any extension) in the `~/.
 ```bash
 #!/bin/sh
 
+# Exit if the `SKIP_LLM_GITHOOK` environment variable is set
+if [ ! -z "$SKIP_LLM_GITHOOK" ]; then
+  exit 0
+fi
+
 # ANSI color codes for styling the output
 RED='\033[0;31m'    # Sets text to red
 GREEN='\033[0;32m'  # Sets text to green
@@ -357,6 +350,7 @@ echo
 
 # Write the generated commit message to the specified file (usually the commit message file in .git)
 echo "$commit_msg" > "$1"
+
 
 ```
 
