@@ -8,11 +8,10 @@ My blog's life
 * 2013-2017 - what blog
 * 2017-2020 - This is my place to post long tweets that are actually blog posts
 * 2020-2023 - JK
-* 2020-Today - who knows
+* 2023-Today - ¯\_(ツ)_/¯  
 ----
 
 I use Hugo and Netlify. It works well.  
-
 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c30e2890-5adf-4a11-944e-858d767681e9/deploy-status)](https://app.netlify.com/sites/harperblog/deploys)
