@@ -1,24 +1,61 @@
-{{ define "main" }} {{ range (.Site.RegularPages.GroupByDate "2006" "Type"
-"books") }}
+{{ define "main" }}
+
 <div>
-    {{ $year := .Key }} {{ $books := .Pages }} {{ $book_count := len $books }}
-
-    <div class="year-section">
-        <h1 class="body-header">{{ $year }}: {{ $book_count }} books read</h1>
-
-        <div
-            style="
-                margin-left: auto;
-                margin-top: 2rem;
-                display: flex;
-                flex-grow: 1;
-                flex-direction: row;
-                flex-wrap: wrap;
-                justify-content: center;
-            "
-        >
-            {{ range $books }} {{ partial "books/book-small.html" . }} {{ end }}
-        </div>
-    </div>
+{{ .Content }}
 </div>
-{{ end }} {{ end }}
+  {{ range (.Site.RegularPages.ByDate.GroupByDate "2006") }}
+    {{ $year := .Key }}
+    {{ $books := where .Pages "Type" "books" }}
+    {{ $book_count := len $books }}
+
+    {{ if gt $book_count 0 }}
+      <div class="year-section" style="padding-bottom: 20px; border-bottom:1px dashed #aaa;">
+        <h1 class="body-header">{{ $year }}: {{ $book_count }} books read</h1>
+        <div class="book-cover-grid" style="display: flex; flex-wrap: wrap; gap: 10px; padding-bottom: 10px; border-bottom:1px dashed #eee;">
+          {{ range $books }}
+          {{ $book := .Key }}
+            <a href="#{{ .Params.asin }}" style="flex: 0 1 150px;">
+              {{ if .Resources }}
+              {{ with .Resources.ByType "image" }}
+              {{ range . }}
+              {{$original := . }}
+              {{$small := $original.Resize "150x webp" }}
+              <img src="{{ $small.RelPermalink }}" alt="{{ .Title }} by {{ .Params.author }}" loading="lazy" style="width: 100%; height: auto;">
+              {{ end }}
+              {{ end }}
+              {{ end }}
+            </a>
+          {{ end }}
+        </div>
+        <div>
+
+            <div class="book-list" style="margin-top:10px;">
+              {{ range $books }}
+
+              <div id="{{.Params.asin}}" class="book-container" style="display: flex; align-items: flex-start; padding-bottom: 10px;">
+                  <div class="book-cover" style="margin-right: 10px; width: 100px; height: auto; overflow: hidden;">
+                      {{ if .Resources }}
+                      {{ with .Resources.ByType "image" }}
+                      {{ range . }}
+                      {{$original := . }}
+                      {{$small := $original.Resize "400x webp" }}
+                      <img src="{{ $small.RelPermalink }}" alt="{{ .Title }} by {{ .Params.author }}" loading="lazy" style="width: auto; height: 120px; object-fit: cover;">
+                      {{ end }}
+                      {{ end }}
+                      {{ end }}
+                  </div>
+                  <div class="book-entry" style="margin-bottom:10px; padding-top:10px; padding-bottom:10px;">
+                      <h3 class="book-author" style="margin:0px;">{{ .Params.author }}</h3>
+                      <h2 class="book-title" style="margin:0px;">{{ .Title }}</h2>
+                      <p class="book-metadata" style="margin:0px;">Finished {{ .Date.Format "January 2, 2006" }} <a href="{{ .Permalink }}">→</a></p>
+                  </div>
+              </div>
+
+              {{ end }}
+            </div>
+
+        </div>
+      </div>
+    {{ end }}
+  {{ end }}
+{{ end }}
