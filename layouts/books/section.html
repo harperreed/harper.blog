@@ -33,17 +33,18 @@
               {{ range $books }}
 
               <div id="{{.Params.asin}}" class="book-container" style="display: flex; align-items: flex-start; padding-bottom: 10px;">
-                  <div class="book-cover" style="margin-right: 10px; width: 100px; height: auto; overflow: hidden;">
-                      {{ if .Resources }}
+                  <div class="book-cover" style="margin-right: 10px; width: 100px; height: 120px; overflow: hidden;">
+                    {{ if .Resources }}
                       {{ with .Resources.ByType "image" }}
-                      {{ range . }}
-                      {{$original := . }}
-                      {{$small := $original.Resize "400x webp" }}
-                      <img src="{{ $small.RelPermalink }}" alt="{{ .Title }} by {{ .Params.author }}" loading="lazy" style="width: auto; height: 120px; object-fit: cover;">
+                        {{ range . }}
+                          {{$original := . }}
+                          {{$small := $original.Resize "x120 webp" }} <!-- Resize to a height of 120px, width is auto -->
+                          <img src="{{ $small.RelPermalink }}" alt="{{ .Title }} by {{ .Params.author }}" loading="lazy" style="width: 100%; height: 100%; object-fit: cover;">
+                        {{ end }}
                       {{ end }}
-                      {{ end }}
-                      {{ end }}
+                    {{ end }}
                   </div>
+
                   <div class="book-entry" style="margin-bottom:10px; padding-top:10px; padding-bottom:10px;">
                       <h3 class="book-author" style="margin:0px;">{{ .Params.author }}</h3>
                       <h2 class="book-title" style="margin:0px;">{{ .Title }}</h2>
