@@ -1,20 +1,24 @@
 ---
-title: Easily using LLMs to generate git commit messages
-date: 2024-03-11T23:04:11-05:00
-description: "I've transformed my git commit process by using an AI to automatically generate meaningful messages. This setup involves a nifty integration of the llm CLI and git hooks, saving me time."
-draft: true
+title: Use an llm to automagically generate meaningful git commit messages
+date: 2024-03-11T11:04:11-05:00
+description: "I've transformed my git commit process by using an AI to automatically generate meaningful messages. This setup involves a nifty integration of the llm CLI and git hooks, saving me time. Now I can fuck off while the robots document my commits"
+draft: false
 ---
+
+*TL;DR: You can set a pre-commit-msg git hook to call the `llm` cli and get a summary of your recent code changes as your commit message.*
+
 
 I love hacking on projects, but often I am super bad at making commits that make sense.
 
 For instance:
-![](https://i.imgur.com/pgM3QEc.png)
+![](/images/posts/commits.png)
 
 Trash commit messages. I am lazy!
 
+
 ## Never fear, LLMs are here.
 
-Originally my buddy Kanno sent me a snippet that would allow you to have a simple git alias that would generate a commit message from the git diff. It was pretty robust.
+Originally my buddy [Kanno](https://twitter.com/ryankanno?lang=en) sent me a snippet that would allow you to have a simple git alias that would generate a commit message from the git diff. It was pretty robust.
 
 ```bash
 # generate comment
@@ -27,7 +31,7 @@ I also wanted the prompt to be stored externally so I could iterate on it withou
 
 I went ahead and put my prompt in `~/.config/prompts/git-commit-message.txt`. Here is the prompt:
 
-```
+```text
 Write concise, informative commit messages:
 - Remember to mention the files that were changed, and what was changed
 - Start with a summary in imperative mood
@@ -36,6 +40,7 @@ Write concise, informative commit messages:
 - Use bullet points for multiple changes
 - Reference related issues or tickets
 - If there are no changes, or the input is blank - then return a blank string
+- Use emojis!
 
 Think carefully before you write your commit message.
 
@@ -92,6 +97,8 @@ llm-staged = "!f() { \
 
 I was satisfied, but this was still too much work, and too kludgy.
 
+## Git Hooked
+
 Then I remembered! Git hooks! Lol. Why would I have that in my brain - who knows!
 
 I asked claude again, and they whipped up a simple script that would act as a hook that triggers with the `prepare-commit-msg` event.
@@ -103,22 +110,10 @@ The commit hook is super simple:
 ```bash
 #!/bin/sh
 
-# Check if the commit is a merge commit
-if [ -n "$2" ]; then
+# Exit if the `SKIP_LLM_GITHOOK` environment variable is set
+if [ ! -z "$SKIP_LLM_GITHOOK" ]; then
   exit 0
 fi
-
-# Generate the commit message using git diff and llm
-commit_msg=$(git diff --cached | llm -s "$(cat ~/.config/prompts/commit-system-prompt.txt)")
-
-# Write the generated commit message to the commit message file
-echo "$commit_msg" > "$1"
-```
-
-It works, but is boring. We (the AI and i. Lol. What a world) iterated on making it a bit prettier, and settled on this:
-
-```bash
-#!/bin/sh
 
 # ANSI color codes for styling the output
 RED='\033[0;31m'    # Sets text to red
@@ -127,19 +122,18 @@ YELLOW='\033[0;33m' # Sets text to yellow
 BLUE='\033[0;34m'   # Sets text to blue
 NC='\033[0m'        # Resets the text color to default, no color
 
+
 # Function to display a spinning animation during the LLM processing
 spin_animation() {
   # Array of spinner characters for the animation
   spinner=("⠋" "⠙" "⠹" "⠸" "⠼" "⠴" "⠦" "⠧" "⠇" "⠏")
-
   # Infinite loop to keep the animation running
   while true; do
     for i in "${spinner[@]}"; do
-      tput civis # Hide the cursor to enhance the animation appearance
-      tput el1   # Clear the line from the cursor to the beginning to display the spinner
-      printf "\r${YELLOW}%s${NC} Generating LLM commit message..." "$i" # Print the spinner and message
-
-      sleep 0.1 # Delay to control the speed of the animation
+      tput civis  # Hide the cursor to enhance the animation appearance
+      tput el1    # Clear the line from the cursor to the beginning to display the spinner
+      printf "\\r${YELLOW}%s${NC} Generating LLM commit message..." "$i"  # Print the spinner and message
+      sleep 0.1   # Delay to control the speed of the animation
       tput cub 32 # Move the cursor back 32 columns to reset the spinner position
     done
   done
@@ -147,24 +141,41 @@ spin_animation() {
 
 # Check if the commit is a merge commit based on the presence of a second argument
 if [ -n "$2" ]; then
-  exit 0 # Exit script if it's a merge commit, no custom message needed
+  exit 0  # Exit script if it's a merge commit, no custom message needed
+fi
+
+# Check if the `llm` command is installed
+if ! command -v llm &> /dev/null; then
+  echo "${RED}Error: 'llm' command is not installed. Please install it and try again.${NC}"
+  exit 1
 fi
 
 # Start the spinning animation in the background
 spin_animation &
-spin_pid=$! # Capture the process ID of the spinning animation
+spin_pid=$!  # Capture the process ID of the spinning animation
 
 # Generate the commit message using `git diff` piped into `llm` command
 # The LLM command takes a system prompt from a file as input
-commit_msg=$(git diff --cached | llm -s "$(cat ~/.config/prompts/commit-system-prompt.txt)")
+if ! commit_msg=$(git diff --cached | llm -s "$(cat ~/.config/prompts/commit-system-prompt.txt)" 2>&1); then
+  # Stop the spinning animation by killing its process
+  kill $spin_pid
+  wait $spin_pid 2>/dev/null  # Wait for the process to terminate and suppress error messages
+
+  # Finalizing output
+  tput cnorm  # Show the cursor again
+  printf "\\n"  # Move the cursor to the next line
+
+  printf "${RED}Error: 'llm' command failed to generate the commit message:\\n${commit_msg}${NC}\\n\\nManually set the commit message"
+  exit 1
+fi
 
 # Stop the spinning animation by killing its process
 kill $spin_pid
-wait $spin_pid 2>/dev/null # Wait for the process to terminate and suppress error messages
+wait $spin_pid 2>/dev/null  # Wait for the process to terminate and suppress error messages
 
 # Finalizing output
-tput cnorm # Show the cursor again
-echo # Move the cursor to the next line
+tput cnorm  # Show the cursor again
+echo  # Move the cursor to the next line
 
 # Display the generated commit message with color-coded headings
 echo "${BLUE}=== Generated Commit Message ===${NC}"
@@ -174,30 +185,52 @@ echo
 
 # Write the generated commit message to the specified file (usually the commit message file in .git)
 echo "$commit_msg" > "$1"
+
+
 ```
 
-It works!
+(ChatGPT added the documentation)
+
+It works! And has a spinner! And catches errors! And is pretty!
+
+![](/images/posts/llm-commit-hook.gif)
 
 Now, whenever I commit without a message, the commit hook executes and sends the diff of the changes to the llm cli with the system prompt previously defined. The output is really nice!
 
-```
+```text
 Feat: Add prepare-commit-msg git hook
 - Automatically generate informative commit messages using git diff and LLM
 - Skip message generation for merge commits
 - Write the generated message to the commit message file
 ```
 
+Yay. Much better! You can see [mine in my dotfiles](https://github.com/harperreed/dotfiles/blob/master/.git_hooks/prepare-commit-msg).
+
+You can even disable it by setting the `SKIP_LLM_GITHOOK` environment variable.
+
 ## How to set this up!
 
-### 1. [Install](https://llm.datasette.io/en/stable/) `llm`.
+### 1. Install `llm`.
+
+Visit [llm.datasette.io](https://llm.datasette.io/en/stable/) for instructions. I used `pipx` to install it:
+
+```bash
+pipx install llm
+```
 
 Remember to set your key and default model.
 
-Set your Openai key: `llm keys set openai`
+Set your Openai key:
+```bash
+llm keys set openai
+```
 
-Set which model is default: `llm models default gpt-4-turbo`
+Set which model is default:
+```bash
+llm models default gpt-4-turbo
+```
 
-(The `llm` cli is awesome. It supports lots of different models, and contexts. Worth digging in for sure)
+(The `llm` cli is awesome. It supports lots of different models (including local models), and contexts. Worth digging in for sure)
 
 ### 2. Create a new directory for your prompts:
 
@@ -207,7 +240,9 @@ mkdir -p ~/.config/prompts
 
 ### 3. Add your system prompt:
 
-```
+The hook will look in `~/.config/prompts/commit-system-prompt.txt` for the system prompt. You can create a file with the following content:
+
+```text
 Write concise, informative commit messages:
 - Remember to mention the files that were changed, and what was changed
 - Start with a summary in imperative mood
@@ -216,13 +251,14 @@ Write concise, informative commit messages:
 - Use bullet points for multiple changes
 - Reference related issues or tickets
 - If there are no changes, or the input is blank - then return a blank string
+- Use emojis!
 
 Think carefully before you write your commit message.
 
 What you write will be passed to git commit -m "[message]"
 ```
 
-This prompt worked great for me - but let me know if you have changes
+This prompt worked great for me - but let me know if you have changes. I consider this prompt v0.
 
 ### 4. Create a new directory for your global Git hooks.
 
@@ -236,10 +272,15 @@ mkdir -p ~/.git_hooks
 
 Create a new file named `prepare-commit-msg` (without any extension) in the `~/.git_hooks` directory.
 
-### 6. Open the `prepare-commit-msg` file in a text editor and add the same content as before:
+### 6. Open the `prepare-commit-msg` file in a text editor (vi or death) and add the same content as before:
 
 ```bash
 #!/bin/sh
+
+# Exit if the `SKIP_LLM_GITHOOK` environment variable is set
+if [ ! -z "$SKIP_LLM_GITHOOK" ]; then
+  exit 0
+fi
 
 # ANSI color codes for styling the output
 RED='\033[0;31m'    # Sets text to red
@@ -248,19 +289,18 @@ YELLOW='\033[0;33m' # Sets text to yellow
 BLUE='\033[0;34m'   # Sets text to blue
 NC='\033[0m'        # Resets the text color to default, no color
 
+
 # Function to display a spinning animation during the LLM processing
 spin_animation() {
   # Array of spinner characters for the animation
   spinner=("⠋" "⠙" "⠹" "⠸" "⠼" "⠴" "⠦" "⠧" "⠇" "⠏")
-
   # Infinite loop to keep the animation running
   while true; do
     for i in "${spinner[@]}"; do
-      tput civis # Hide the cursor to enhance the animation appearance
-      tput el1   # Clear the line from the cursor to the beginning to display the spinner
-      printf "\r${YELLOW}%s${NC} Generating LLM commit message..." "$i" # Print the spinner and message
-
-      sleep 0.1 # Delay to control the speed of the animation
+      tput civis  # Hide the cursor to enhance the animation appearance
+      tput el1    # Clear the line from the cursor to the beginning to display the spinner
+      printf "\\r${YELLOW}%s${NC} Generating LLM commit message..." "$i"  # Print the spinner and message
+      sleep 0.1   # Delay to control the speed of the animation
       tput cub 32 # Move the cursor back 32 columns to reset the spinner position
     done
   done
@@ -268,24 +308,41 @@ spin_animation() {
 
 # Check if the commit is a merge commit based on the presence of a second argument
 if [ -n "$2" ]; then
-  exit 0 # Exit script if it's a merge commit, no custom message needed
+  exit 0  # Exit script if it's a merge commit, no custom message needed
+fi
+
+# Check if the `llm` command is installed
+if ! command -v llm &> /dev/null; then
+  echo "${RED}Error: 'llm' command is not installed. Please install it and try again.${NC}"
+  exit 1
 fi
 
 # Start the spinning animation in the background
 spin_animation &
-spin_pid=$! # Capture the process ID of the spinning animation
+spin_pid=$!  # Capture the process ID of the spinning animation
 
 # Generate the commit message using `git diff` piped into `llm` command
 # The LLM command takes a system prompt from a file as input
-commit_msg=$(git diff --cached | llm -s "$(cat ~/.config/prompts/commit-system-prompt.txt)")
+if ! commit_msg=$(git diff --cached | llm -s "$(cat ~/.config/prompts/commit-system-prompt.txt)" 2>&1); then
+  # Stop the spinning animation by killing its process
+  kill $spin_pid
+  wait $spin_pid 2>/dev/null  # Wait for the process to terminate and suppress error messages
+
+  # Finalizing output
+  tput cnorm  # Show the cursor again
+  printf "\\n"  # Move the cursor to the next line
+
+  printf "${RED}Error: 'llm' command failed to generate the commit message:\\n${commit_msg}${NC}\\n\\nManually set the commit message"
+  exit 1
+fi
 
 # Stop the spinning animation by killing its process
 kill $spin_pid
-wait $spin_pid 2>/dev/null # Wait for the process to terminate and suppress error messages
+wait $spin_pid 2>/dev/null  # Wait for the process to terminate and suppress error messages
 
 # Finalizing output
-tput cnorm # Show the cursor again
-echo # Move the cursor to the next line
+tput cnorm  # Show the cursor again
+echo  # Move the cursor to the next line
 
 # Display the generated commit message with color-coded headings
 echo "${BLUE}=== Generated Commit Message ===${NC}"
@@ -299,11 +356,14 @@ echo "$commit_msg" > "$1"
 
 ```
 
+You can see [mine in my dotfiles](https://github.com/harperreed/dotfiles/blob/master/.git_hooks/prepare-commit-msg).
+
+
 ### 7. Make the `prepare-commit-msg` file executable
 
 Run the following command in your terminal:
 
-```
+```bash
 chmod +x ~/.git_hooks/prepare-commit-msg
 ```
 
@@ -311,7 +371,7 @@ chmod +x ~/.git_hooks/prepare-commit-msg
 
 Run the following command to set your global hooks directory
 
-```
+```bash
 git config --global core.hooksPath ~/.git_hooks
 ```
 
