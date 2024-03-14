@@ -15,7 +15,7 @@ Someone once told me that Leica cameras are [Birkin bags](https://en.wikipedia.o
 
 ## Shooting
 
-{{< image src="/images/posts/photos-karin.jpg" caption="Karin Tanabe. Leica 262, Summilux 50mm. 2022. ">}}
+{{< image src="/images/posts/photos-karin.jpg" caption="Karin Tanabe. Leica M (Typ 262), Summilux 50mm. 2022. ">}}
 
 Don’t listen to me. Find your friend who is way better at photography and ask them. Barring that, here is what worked for me.
 
@@ -78,7 +78,7 @@ Sometimes the photography hobby is less about photography and more about equipme
 
 ## Software
 
-{{< image src="/images/posts/photos-dear-dj.jpg" caption="Matthew Dear. Leica 262, Summilux 50mm. 2017. ">}}
+{{< image src="/images/posts/photos-dear-dj.jpg" caption="Matthew Dear. Leica M (Typ 262), Summilux 50mm. 2017. ">}}
 
 I am literally the worst person to help select photography software. When I started, I only used google photos. I, of course, backed up all my jpg/raw pairs so I can change that later. I recently migrated over to apple photos and I am very very happy with it. I like that it is local to my devices, and that it doesn’t have to be “cloud based” like many of the alternatives.
 
@@ -90,11 +90,13 @@ I am literally the worst person to help select photography software. When I star
 
 ## It’s fun, ain’t it
 
-{{< image src="/images/posts/photos-pickleman-peaking.jpg" caption="Jason peeking. Leica 262, Noctilux 50mm. 2019.">}}
+{{< image src="/images/posts/photos-pickleman-peaking.jpg" caption="Jason peeking. Leica M (Typ 262), Noctilux 50mm. 2019.">}}
 
 My favorite thing about carrying a Leica camera is how understated it looks to most people. People will think you are using a vintage camera, and not some 60mp wild beast. Lean into that. Get good shots.
 
 **Enjoy it!**
+
+{{< image src="/images/posts/photos-eryan.jpg" caption="Eryan. Leica M Monochrom, Summilux 50mm. 2017. ">}}
 
 If you find that you don’t like the Leica (unlikely) sell it and get a different camera. Lots of options and most are way cheaper and just as good!
 {{< image src="/images/posts/photos-busking.jpg" caption="Some light operatic busking. Leica Q. 2016. ">}}
