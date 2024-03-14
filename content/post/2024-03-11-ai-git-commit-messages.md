@@ -44,11 +44,9 @@ Think carefully before you write your commit message.
 
 The output format should be:
 
-```
 Summary of changes
 - changes
 - changes
-```
 
 What you write will be passed directly to git commit -m "[message]"
 
@@ -211,7 +209,7 @@ Feat: Add prepare-commit-msg git hook
 - Write the generated message to the commit message file
 ```
 
-Yay. Much better! You can see [mine in my dotfiles](https://github.com/harperreed/dotfiles/blob/master/.git_hooks/prepare-commit-msg).
+Yay. Much better! You can see [my hook](https://github.com/harperreed/dotfiles/blob/master/.git_hooks/prepare-commit-msg) and [my prompt](https://github.com/harperreed/dotfiles/blob/master/.config/prompts/commit-system-prompt.txt) in my dotfiles.
 
 You can even disable it by setting the `SKIP_LLM_GITHOOK` environment variable.
 
@@ -262,11 +260,9 @@ Think carefully before you write your commit message.
 
 The output format should be:
 
-```
 Summary of changes
 - changes
 - changes
-```
 
 What you write will be passed directly to git commit -m "[message]"
 ```
