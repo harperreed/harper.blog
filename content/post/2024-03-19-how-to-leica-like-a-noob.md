@@ -96,7 +96,7 @@ My favorite thing about carrying a Leica camera is how understated it looks to m
 
 **Enjoy it!**
 
-{{< image src="/images/posts/photos-eryan.jpg" caption="Eryan. Leica M Monochrom, Summilux 50mm. 2017. ">}}
+{{< image src="/images/posts/photos-eryan.jpg" caption="Eryan. Leica M Monochrom, Summilux 50mm. 2022. ">}}
 
 If you find that you don’t like the Leica (unlikely) sell it and get a different camera. Lots of options and most are way cheaper and just as good!
 {{< image src="/images/posts/photos-busking.jpg" caption="Some light operatic busking. Leica Q. 2016. ">}}
