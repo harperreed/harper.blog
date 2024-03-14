@@ -37,3 +37,6 @@ name = "harperreed.com"
 icon = "fas fa-link"
 url = "http://harper.lol"
 
+
+[[params.plugins.js]]
+link = "plugins/lazy-loader.js"
