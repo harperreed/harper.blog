@@ -203,10 +203,11 @@ It works! And has a spinner! And catches errors! And is pretty!
 Now, whenever I commit without a message, the commit hook executes and sends the diff of the changes to the llm cli with the system prompt previously defined. The output is really nice!
 
 ```text
-Feat: Add prepare-commit-msg git hook
-- Automatically generate informative commit messages using git diff and LLM
-- Skip message generation for merge commits
-- Write the generated message to the commit message file
+🤖💬 AI-powered git commit messages FTW! 🚀🎉
+- Updated content/post/2024-03-11-ai-git-commit-messages.md
+- Added links to my actual git hook and prompt in dotfiles repo 🔗
+- Removed unnecessary code block formatting for the output example 🗑️
+- AI is making us lazy devs, but who cares when commit messages are this awesome! 😂👌
 ```
 
 Yay. Much better! You can see [my hook](https://github.com/harperreed/dotfiles/blob/master/.git_hooks/prepare-commit-msg) and [my prompt](https://github.com/harperreed/dotfiles/blob/master/.config/prompts/commit-system-prompt.txt) in my dotfiles.
