@@ -82,7 +82,7 @@ I am literally the worst person to help select photography software. When I star
 
 ## It’s fun, ain’t it
 
-{{< image src="/images/posts/photos-pickleman-peaking.jpg" caption="Jason peaking. Leica 262, Noctilux 50mm. 2019.">}}
+{{< image src="/images/posts/photos-pickleman-peaking.jpg" caption="Jason peeking. Leica 262, Noctilux 50mm. 2019.">}}
 
 My favorite thing about carrying a Leica camera is how understated it looks for most people. People will think you are using a vintage camera, and not some 60mp wild beast. Lean into that. Get good shots.
 
