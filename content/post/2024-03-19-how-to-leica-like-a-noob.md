@@ -30,7 +30,11 @@ Don’t listen to me. Find your friend who is way better at photography and ask 
 - My goal is to break my cameras while using them. My biggest fear is that they will get broken while they are sitting on a counter or a shelf. They are meant to be used.
 - I shoot full auto. 100% all the time full auto. Even on the M (obviously manual focus). A lot of photographers will do everything on manual. I do not have time for that. Lol. Those same people will give you shit about shooting on auto. Fuck em.
 - Play with the macro mode. its fun.
-- Shoot in black and white!
+- One of my favorite rules of thumb for photography is: **Remove variables for better results**
+    - Shoot in black and white!
+    - Don't use liveview
+    - Shoot only in f/8
+    - also works for most things in life
 - Share your [photos](https://harper.photos)!
 
 # Buying
