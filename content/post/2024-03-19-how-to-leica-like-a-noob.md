@@ -9,7 +9,7 @@ After going down the Leica path to extremism over the last few years, I felt com
 {{< image src="/images/posts/photos-congee.jpg" caption="Congee spot in Guangzhou. Leica Q. 2016">}}
 
 
-I have shot with Leica cameras since I got the original Q in 2016. Since then I have gone through the [Q](https://en.wikipedia.org/wiki/Leica_Q_), the [OG monochrom](https://en.wikipedia.org/wiki/Leica_M_Monochrom) (my very fav camera of all time), a [262](https://en.wikipedia.org/wiki/Leica_M_(Typ_262)) (Purchased with 10 BTC lol), and now I am shooting with a [M11](https://en.wikipedia.org/wiki/Leica_M11). I really enjoy them. I enjoy the community and I like the vibe.
+I have shot with Leica cameras since I got the og Q in 2016. Since then I have gone through the [Q](https://en.wikipedia.org/wiki/Leica_Q_), the [OG monochrom](https://en.wikipedia.org/wiki/Leica_M_Monochrom) (my very fav camera of all time), a [262](https://en.wikipedia.org/wiki/Leica_M_(Typ_262)) (Purchased with 10 BTC lol), and now I am shooting with a [M11](https://en.wikipedia.org/wiki/Leica_M11). I really enjoy them. I enjoy the community and I like the vibe.
 
 Someone once told me that Leica cameras are [Birkin bags](https://en.wikipedia.org/wiki/Birkin_bag) for men. Lol. Not wrong. This isn't bad - but is funny.
 
@@ -23,9 +23,9 @@ Don’t listen to me. Find your friend who is way better at photography and ask 
 - I carried a camera almost everyday from 2016 until Covid.
 - If you are shooting an M, learn to zone focus. It is helpful. I rarely use it in real life - but it was super helpful to learn. Taught me a lot about my camera.
 - You almost never need a zoom lens. As my friend [Trammell](https://twitter.com/trammell) told me: "Zoom with your feet."
-- Take a bunch of classes at a local photography spot. Every city has one. Find it, make friends, and take classes. None of them will be too easy. You will learn a lot.
+- Take a bunch of classes at a [local photography spot](https://www.latitudechicago.org/education). Every city has one. Find it, make friends, and take classes. None of them will be too easy. You will learn a lot.
     - I took a lighting class that blew my mind
-- Print at a [local photo printing lab](https://www.latitudechicago.org/). Its fun and you learn a lot
+- Print at a [local photo printing lab](https://www.latitudechicago.org/printing-services). Its fun and you learn a lot
 - Take your camera everywhere. The Q is super durable. I have hit it against everything and it still works great. Same with the Ms. They are like bricks.
 - My goal is to break my cameras while using them. My biggest fear is that they will get broken while they are sitting on a counter or a shelf. They are meant to be used.
 - I shoot full auto. 100% all the time full auto. Even on the M (obviously manual focus). A lot of photographers will do everything on manual. I do not have time for that. Lol. Those same people will give you shit about shooting on auto. Fuck em.
@@ -51,7 +51,7 @@ Sometimes the photography hobby is less about photography and more about equipme
 
 - Lenses. OMG. I have gone through a lot of lenses. I finally settled on shooting primarily with a [50m Summilux](https://en.wikipedia.org/wiki/Summilux). Through a bunch of experimentation I realized I like how 50mm works, how it looks, and how it frames.
 - I have never traveled with more than one lens.
-- Learning on a fast lenses is a nightmare. Call Dan at Tamarkin and buy a vintage summicron.  You will adore it, and you will have more fun. *Then* go for the fast af lens that costs a million dollars.
+- Learning on a fast lens is a nightmare cuz the super shallow depth of field. When I first started out, I was hitting on 5% of my shots. VERY frustrating. Call Dan at Tamarkin and buy a vintage summicron.  You will adore it, and you will have more fun. *Then* go for the fast af lens that costs a million dollars.
 - I don’t really use a camera bag. I typically put my camera in a pouch, and then in my tote, or backpack.
 	- I have always liked the [Artisan and Artist](https://aaa-tokyo.com) brand
     - I use their [lil travel pouch](https://aaa-tokyo.com/camera/camera-pouch/acam-75/) as the “wrapper” for my camera when it is in my bag.
@@ -60,11 +60,10 @@ Sometimes the photography hobby is less about photography and more about equipme
     - My friends like [Cooph](https://store.cooph.com/en-us)
     - The [Artisan and Artist](https://aaa-tokyo.com) straps are nice too.
 - I like the look and utility of the leather half cases
-    - I use the [Arti di Mano](https://artedimano.com
-    - https://artedimano.com/Leicacases/?idx=291) from Korea
-    - You can get it in many colors
+    - I use the [Arti di Mano](https://artedimano.com/Leicacases/?idx=291) from Korea. You can get it in many colors
     - It protects the camera and makes it look dope
 - Ditch the lens cap, just get a nice filter and use that as a lens cap lol. I haven’t had my lens cap on my cameras since 2016. Never going back.
+- Lot's of great equipment is waiting to be bought used. I got my dear Summilux, and my beloved Monochrom used. They are both perfect. Just make sure you are buying from someone ruputable, and trustworthy.
 - If you are not using a piece of equipment, sell it. Better yet, give it to someone who will love it.
 - This stuff isn’t meant to sit on shelves. It is meant to be used and capture amazing beautiful things.
 - If it is on a shelf, you should sell it or give it away. You can always buy it again later.
@@ -77,7 +76,7 @@ Sometimes the photography hobby is less about photography and more about equipme
 I am literally the worst person to help select photography software. When I started, I only used google photos. I, of course, backed up all my jpg/raw pairs so I can change that later. I recently migrated over to apple photos and I am very very happy with it. I like that it is local to my devices, and that it doesn’t have to be “cloud based” like many of the alternatives.
 
 - If you are starting out, just use Apple Photos. Lots of photography people will get on your ass about it, but it is fine and works well.
-    - if you use the SD card reader that Apple makes (or any usb-c sd card reader if you have the new iPhone) than you can import the photos to your phone and you don’t need to carry a computer!
+    - if you use the [SD card reader that Apple makes](https://www.apple.com/shop/product/MJYT2AM/A/lightning-to-sd-card-camera-reader) (or any usb-c sd card reader if you have the new iPhone) than you can import the photos to your phone and you don’t need to carry a computer!
 - Lightroom is too hard lol. Don’t listen to folks who say you have to learn it. You don’t. I used google photos for years and it was fine too.
 - There are so many neat photography software options. Play around until you find your jam. Don’t be too worried about what others think. You do you. Most people think we are already crazy for spending so much on cameras. lol
 - If you are a hacker type and you use apple photos, [osxphotos](https://rhettbull.github.io/osxphotos/index.html) is a really cool piece of kit that will help you manage your library.
@@ -90,5 +89,5 @@ My favorite thing about carrying a Leica camera is how understated it looks to m
 
 **Enjoy it!**
 
-If you find that you don’t like the Leica (unlikely) sell it and get a different camera. Lot’s of options and most are way cheaper and just as good!
+If you find that you don’t like the Leica (unlikely) sell it and get a different camera. Lots of options and most are way cheaper and just as good!
 {{< image src="/images/posts/photos-busking.jpg" caption="Some light operatic busking. Leica Q. 2016. ">}}
