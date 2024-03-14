@@ -33,7 +33,7 @@ Don’t listen to me. Find your friend who is way better at photography and ask 
 - One of my favorite rules of thumb for photography is: **Remove variables for better results**
     - Shoot in black and white!
     - Don't use liveview
-    - Shoot only in f/8
+    - Shoot only in f/8 (i know not "auto", but on the M the lens is fully manual. life is complicated)
     - also works for most things in life
 - Share your [photos](https://harper.photos)!
 
