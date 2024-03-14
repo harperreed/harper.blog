@@ -4,7 +4,7 @@ date: 2024-03-19T11:04:11-05:00
 description: "Some really bad advice on owning and using a Leica camera."
 draft: false
 ---
-After going down the Leica path to extremism over the last few years, I felt compelled to jot down a few notes and thoughts. Originally, I wrote this for a few friends who've recently purchased Leica cameras (Q2, and a M11). Thinking it might benefit others, I'm sharing it here. YMMV.
+After going down the *Leica path to extremism* over the last few years, I felt compelled to jot down a few notes and thoughts. Originally, I wrote this for a few friends who've recently purchased Leica cameras (Q2, and a M11). Thinking it might benefit others, I'm sharing it here. YMMV.
 
 {{< image src="/images/posts/photos-congee.jpg" caption="Congee spot in Guangzhou. Leica Q. 2016">}}
 
@@ -44,7 +44,7 @@ Don’t listen to me. Find your friend who is way better at photography and ask 
 Everyone needs a “Leica guy” to help maintain the constant drip of Leica cameras into their life. You already made the decision to get a camera based on fashion, just lean into it and live the lifestyle.
 
 - My go-to Leica shop is [Tamarkin camera in Chicago](https://www.tamarkin.com/). They are solid and helpful. Tell Dan that Harper sent you.
-- Leica Miami is a decent store to buy from on the internet.
+- [Leica Miami](https://leicastoremiami.com/) is a decent store to buy from on the internet.
 - Be careful of ordering off Amazon. [Lots of counterfeit](https://www.techdirt.com/2018/01/17/homeland-securitys-over-obsession-with-counterfeits-now-harming-innocent-buyers-counterfeit-goods-online/).
 - Lot's of great equipment is waiting to be bought used. I got my dear Summilux, and my beloved Monochrom used. They are both perfect. Just make sure you are buying from someone ruputable, and trustworthy.
 - If you are not using a piece of equipment, sell it. Better yet, give it to someone who will love it.
@@ -53,23 +53,26 @@ Everyone needs a “Leica guy” to help maintain the constant drip of Leica cam
 
 {{< image src="/images/posts/photos-dj.jpg" caption="My friend DJ. Leica M11, Summilux 50mm. 2023. ">}}
 
-Sometimes the photography hobby is less about photography and more about equipment. I try to make sure I have minimized my equipment acquisition addiction (EAA) and focused on shooting.
+Sometimes the photography hobby is less about photography and more about equipment. I try to make sure I have minimized my gear acquisition syndrome ([GAS](https://www.theinspiredeye.net/cameras/gear-acquisition-syndrome/)) and focused on shooting.
 
 - Lenses. OMG. I have gone through a lot of lenses. I finally settled on shooting primarily with a [50m Summilux](https://en.wikipedia.org/wiki/Summilux). Through a bunch of experimentation I realized I like how 50mm works, how it looks, and how it frames.
 - I have never traveled with more than one lens.
 - Learning on a fast lens is a nightmare cuz the super shallow depth of field. When I first started out, I was hitting on 5% of my shots. VERY frustrating. Call Dan at Tamarkin and buy a vintage summicron.  You will adore it, and you will have more fun. *Then* go for the fast af lens that costs a million dollars.
-- I don’t really use a camera bag. I typically put my camera in a pouch, and then in my tote, or backpack.
+- I don’t really use a camera bag. I typically put my camera in a pouch, and then in my tote, or backpack. I want it quickly accessible.
 	- I have always liked the [Artisan and Artist](https://aaa-tokyo.com) brand
     - I use their [lil travel pouch](https://aaa-tokyo.com/camera/camera-pouch/acam-75/) as the “wrapper” for my camera when it is in my bag.
 - Find a strap that you feel comfortable with
     - I use the "vintage" Leica goodies sling strap
     - My friends like [Cooph](https://store.cooph.com/en-us)
     - The [Artisan and Artist](https://aaa-tokyo.com) straps are nice too.
+    - I find the peak design straps a bit too clever.
 - I like the look and utility of the leather half cases
     - I use the [Arti di Mano](https://artedimano.com/Leicacases/?idx=291) from Korea. You can get it in many colors
     - It protects the camera and makes it look dope
+    - The leica brand one is "ok"
 - Ditch the lens cap, just get a nice filter and use that as a lens cap lol. I haven’t had my lens cap on my cameras since 2016. Never going back.
 - This stuff isn’t meant to sit on shelves. It is meant to be used and capture amazing beautiful things.
+- If you break your camera, Leica will repair it. Go out and break it!
 - If it is on a shelf, you should sell it or give it away. You can always buy it again later.
 
 
