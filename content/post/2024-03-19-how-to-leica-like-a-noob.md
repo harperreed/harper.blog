@@ -67,9 +67,7 @@ Sometimes the photography hobby is less about photography and more about equipme
     - The [Artisan and Artist](https://aaa-tokyo.com) straps are nice too.
     - I find the peak design straps a bit too clever.
 - I like the look and utility of the leather half cases
-    - I use the [Arti di Mano](https://artedimano.com/Leicacases/?idx=291) from Korea. You can get it in many colors
-    - It protects the camera and makes it look dope
-    - The leica brand one is "ok"
+- I use the [Arti di Mano](https://artedimano.com/Leicacases/?idx=291) from Korea. You can get it in many colors. It protects the camera and makes it look dope
 - Ditch the lens cap, just get a nice filter and use that as a lens cap lol. I haven’t had my lens cap on my cameras since 2016. Never going back.
 - This stuff isn’t meant to sit on shelves. It is meant to be used and capture amazing beautiful things.
 - If you break your camera, Leica will repair it. Go out and break it!
@@ -83,7 +81,7 @@ Sometimes the photography hobby is less about photography and more about equipme
 I am literally the worst person to help select photography software. When I started, I only used google photos. I, of course, backed up all my jpg/raw pairs so I can change that later. I recently migrated over to apple photos and I am very very happy with it. I like that it is local to my devices, and that it doesn’t have to be “cloud based” like many of the alternatives.
 
 - If you are starting out, just use Apple Photos. Lots of photography people will get on your ass about it, but it is fine and works well.
-    - if you use the [SD card reader that Apple makes](https://www.apple.com/shop/product/MJYT2AM/A/lightning-to-sd-card-camera-reader) (or any usb-c sd card reader if you have the new iPhone) than you can import the photos to your phone and you don’t need to carry a computer!
+- if you use the [SD card reader that Apple makes](https://www.apple.com/shop/product/MJYT2AM/A/lightning-to-sd-card-camera-reader) (or any usb-c sd card reader if you have the new iPhone) than you can import the photos to your phone and you don’t need to carry a computer!
 - Lightroom is too hard lol. Don’t listen to folks who say you have to learn it. You don’t. I used google photos for years and it was fine too.
 - There are so many neat photography software options. Play around until you find your jam. Don’t be too worried about what others think. You do you. Most people think we are already crazy for spending so much on cameras. lol
 - If you are a hacker type and you use apple photos, [osxphotos](https://rhettbull.github.io/osxphotos/index.html) is a really cool piece of kit that will help you manage your library.
