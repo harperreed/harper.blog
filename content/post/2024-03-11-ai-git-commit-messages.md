@@ -32,19 +32,24 @@ I also wanted the prompt to be stored externally so I could iterate on it withou
 I went ahead and put my prompt in `~/.config/prompts/git-commit-message.txt`. Here is the prompt:
 
 ```text
-Write concise, informative commit messages:
+Write short commit messages:
+- The first line should be a short summary of the changes
 - Remember to mention the files that were changed, and what was changed
-- Start with a summary in imperative mood
 - Explain the 'why' behind changes
-- Keep the summary under 50 characters
 - Use bullet points for multiple changes
-- Reference related issues or tickets
+- Tone: Use a LOT of emojis, be funny, and expressive. Feel free to be profane, but don't be offensive
 - If there are no changes, or the input is blank - then return a blank string
-- Use emojis!
 
 Think carefully before you write your commit message.
 
-What you write will be passed to git commit -m "[message]"
+The output format should be:
+
+Summary of changes
+- changes
+- changes
+
+What you write will be passed directly to git commit -m "[message]"
+
 ```
 
 And here is the updated gpt alias:
@@ -198,13 +203,14 @@ It works! And has a spinner! And catches errors! And is pretty!
 Now, whenever I commit without a message, the commit hook executes and sends the diff of the changes to the llm cli with the system prompt previously defined. The output is really nice!
 
 ```text
-Feat: Add prepare-commit-msg git hook
-- Automatically generate informative commit messages using git diff and LLM
-- Skip message generation for merge commits
-- Write the generated message to the commit message file
+🤖💬 AI-powered git commit messages FTW! 🚀🎉
+- Updated content/post/2024-03-11-ai-git-commit-messages.md
+- Added links to my actual git hook and prompt in dotfiles repo 🔗
+- Removed unnecessary code block formatting for the output example 🗑️
+- AI is making us lazy devs, but who cares when commit messages are this awesome! 😂👌
 ```
 
-Yay. Much better! You can see [mine in my dotfiles](https://github.com/harperreed/dotfiles/blob/master/.git_hooks/prepare-commit-msg).
+Yay. Much better! You can see [my hook](https://github.com/harperreed/dotfiles/blob/master/.git_hooks/prepare-commit-msg) and [my prompt](https://github.com/harperreed/dotfiles/blob/master/.config/prompts/commit-system-prompt.txt) in my dotfiles.
 
 You can even disable it by setting the `SKIP_LLM_GITHOOK` environment variable.
 
@@ -243,19 +249,23 @@ mkdir -p ~/.config/prompts
 The hook will look in `~/.config/prompts/commit-system-prompt.txt` for the system prompt. You can create a file with the following content:
 
 ```text
-Write concise, informative commit messages:
+Write short commit messages:
+- The first line should be a short summary of the changes
 - Remember to mention the files that were changed, and what was changed
-- Start with a summary in imperative mood
 - Explain the 'why' behind changes
-- Keep the summary under 50 characters
 - Use bullet points for multiple changes
-- Reference related issues or tickets
+- Tone: Use a LOT of emojis, be funny, and expressive. Feel free to be profane, but don't be offensive
 - If there are no changes, or the input is blank - then return a blank string
-- Use emojis!
 
 Think carefully before you write your commit message.
 
-What you write will be passed to git commit -m "[message]"
+The output format should be:
+
+Summary of changes
+- changes
+- changes
+
+What you write will be passed directly to git commit -m "[message]"
 ```
 
 This prompt worked great for me - but let me know if you have changes. I consider this prompt v0.
