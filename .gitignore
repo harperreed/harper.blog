@@ -1,9 +1,5 @@
-s3_website.yml
 .DS_Store
-.jekyll-assets-cache/
-.sass-cache/
 node_modules
-.jekyll-metadata
 resources/_gen
 public
 .hugo_build.lock
