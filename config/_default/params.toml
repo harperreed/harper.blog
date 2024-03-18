@@ -18,11 +18,6 @@ nofeedSections = [ "page", "posts" ]
 mainSections = [ "post" ]
 
 [[social]]
-name = "harper.blog"
-icon = "fas fa-pen"
-url = "http://harper.blog"
-
-[[social]]
 name = "harper.photos"
 icon = "fas fa-camera"
 url = "https://harper.photos"
