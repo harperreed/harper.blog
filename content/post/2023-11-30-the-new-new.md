@@ -15,7 +15,7 @@ For the first time in a decade, I am using regular new tools and apps that have 
 
 ## Arc Browser
 
-![Arc Browser](/images/posts/arc-browser.png)
+{{< image src="/images/posts/arc-browser.png" caption="Arc Browser is great!">}}
 
 ### Download: [https://arc.net/](https://arc.net/)
 
@@ -29,7 +29,7 @@ Related - since I shut down galactic, all I do is click cookies. Soooo many cook
 
 ## Perplexity
 
-![Perplexity](/images/posts/perplexity.png)
+{{< image caption="A new style search engine" src="/images/posts/perplexity.png" >}}
 
 ### Visit: [https://perplexity.ai/](https://www.perplexity.ai/)
 
@@ -43,7 +43,7 @@ It seems to be a LOT better than the chatgpt browsing / search tool. I have foun
 
 ## ChatGPT (obv)
 
-![chatgpt](/images/posts/chatgpt.png)
+{{< image caption="The OG" src="/images/posts/chatgpt.png" >}}
 
 ### Visit: [https://chat.openai.com/](https://chat.openai.com/)
 
@@ -67,7 +67,7 @@ An possibly related observation:  I no longer know how to spell things.
 
 ## Kagi
 
-![Kagi](/images/posts/kagi.png)
+{{< image caption="No More Google! Kagi!" src="/images/posts/kagi.png" >}}
 
 ### Visit: [https://kagi.com/](https://kagi.com/)
 

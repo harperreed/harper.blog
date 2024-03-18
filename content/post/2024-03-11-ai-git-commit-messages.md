@@ -11,7 +11,7 @@ draft: false
 I love hacking on projects, but often I am super bad at making commits that make sense.
 
 For instance:
-![](/images/posts/commits.png)
+{{< image src="/images/posts/commits.png" caption="My terrible commit messages" >}}
 
 Trash commit messages. I am lazy!
 
