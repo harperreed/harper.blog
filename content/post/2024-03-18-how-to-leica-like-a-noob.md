@@ -1,7 +1,7 @@
 ---
 title: How to Leica like a noob who shoots Leica
 date: 2024-03-18T09:00:11-05:00
-description: "Some really bad advice on owning and using a Leica camera."
+description: "Some really bad advice on owning and using a Leica camera. Also, some general photography advice."
 draft: false
 ---
 After going down the *Leica path to extremism* over the last few years, I felt compelled to jot down a few notes and thoughts. Originally, I wrote this for a few friends who've recently purchased Leica cameras (Q2, and a M11). Thinking it might benefit others, I'm sharing it here. YMMV.
