@@ -17,18 +17,18 @@ So i immediately broke it apart. I barely had the batteries in before i destroye
 After i took it apart i dropped a bundle of pictures on the SD card and it worked. Pretty cool. now if i only haxored it all apart. mount it in a frame or something (<a href="http://www.hackaday.com/entry/1234000203045338/">this</a> is real cool) and moved the buttons to another place. i could really do something exciting with it.
 
 here are some <strong>pictures</strong>:
-<blockquote><img alt="Juicebox" src="http://nata2.info/.thumbnails/misc/misc_hacking/juicebox/IMG_3826.jpg" />
+<blockquote><img alt="Juicebox" src="https://web.archive.org/web/20030814003134/http://www.nata2.info//.thumbnails/misc/misc_hacking/juicebox/IMG_3826.jpg" />
 The Juicebox in its packaging</blockquote>
-<blockquote><img alt="The circuit board" src="http://nata2.info/.thumbnails/misc/misc_hacking/juicebox/IMG_3828.jpg" />
+<blockquote><img alt="The circuit board" src="https://web.archive.org/web/20030814003134/http://www.nata2.info//.thumbnails/misc/misc_hacking/juicebox/IMG_3828.jpg" />
 This is the top of the circuit board and the bottom of the lcd.</blockquote>
-<blockquote><img alt="The backlight power connector" src="http://nata2.info/.thumbnails/misc/misc_hacking/juicebox/IMG_3844.jpg" />
+<blockquote><img alt="The backlight power connector" src="https://web.archive.org/web/20030814003134/http://www.nata2.info//.thumbnails/misc/misc_hacking/juicebox/IMG_3844.jpg" />
 This is were i broke the backlight power connector.</blockquote>
-<blockquote><img src="http://nata2.info/.thumbnails/misc/misc_hacking/juicebox/IMG_3847.jpg" />
+<blockquote><img src="https://web.archive.org/web/20030814003134/http://www.nata2.info//.thumbnails/misc/misc_hacking/juicebox/IMG_3847.jpg" />
 The music video chip. bare.</blockquote>
-<blockquote><img alt="The SD interface" src="http://nata2.info/.thumbnails/misc/misc_hacking/juicebox/IMG_3848.jpg" />
+<blockquote><img alt="The SD interface" src="https://web.archive.org/web/20030814003134/http://www.nata2.info//.thumbnails/misc/misc_hacking/juicebox/IMG_3848.jpg" />
 The SD interface. bare. ;)</blockquote>
-<blockquote><img alt="Hot ladies" src="http://nata2.info/.thumbnails/misc/misc_hacking/juicebox/IMG_3854.jpg" />
+<blockquote><img alt="Hot ladies" src="https://web.archive.org/web/20030814003134/http://www.nata2.info//.thumbnails/misc/misc_hacking/juicebox/IMG_3854.jpg" />
 The Hot Hot Ladies i have put on my juicebox.</blockquote>
-<blockquote><img alt="The test menu" src="http://nata2.info/.thumbnails/misc/misc_hacking/juicebox/IMG_3859.jpg" />
+<blockquote><img alt="The test menu" src="https://web.archive.org/web/20030814003134/http://www.nata2.info//.thumbnails/misc/misc_hacking/juicebox/IMG_3859.jpg" />
 The test menu. btw - you can access the test menu by pressing the topmost and bottommost buttons on powerup.</blockquote>
-I have placed a BUNDLE of pictures <a href="http://nata2.info/?path=misc%2Fmisc_hacking%2Fjuicebox">here</a>. I will of course post updates when they occur. probably never ;)
+I have placed a BUNDLE of pictures <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//?path=misc%2Fmisc_hacking%2Fjuicebox">here</a>. I will of course post updates when they occur. probably never ;)

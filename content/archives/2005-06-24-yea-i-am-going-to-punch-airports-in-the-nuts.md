@@ -22,7 +22,7 @@ apparently in my confusion, "flusteration" and annoyance at the general situatio
 
 at this time i have no idea if i have missed my flight, where my gate is or anything. so i run down the terminal. I am running and i feel my legs start to become tangle and i fall all the way down and crash hard. i mean HARD. i get up laughing at the ridiculousness of it all and make it to my terminal. 
 
-I hear an announcement that my flight changed gates and i start walking. that is when i notice that i have just <a href="http://nata2.info/?path=pictures%2Fmisc%2Fphone_camera%2Fnokia_7610%2F240620051236&img=Nokia7610%28267%29.jpg">ripped</a> my new diesel jeans, and <a href="http://nata2.info/?path=pictures%2Fmisc%2Fphone_camera%2Fnokia_7610%2F240620051236&img=Nokia7610%28269%29.jpg">scratched my knees</a> all up and am bleeding out of my knee and elbow.  and... my new gate is right where i fell. 
+I hear an announcement that my flight changed gates and i start walking. that is when i notice that i have just <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//?path=pictures%2Fmisc%2Fphone_camera%2Fnokia_7610%2F240620051236&img=Nokia7610%28267%29.jpg">ripped</a> my new diesel jeans, and <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//?path=pictures%2Fmisc%2Fphone_camera%2Fnokia_7610%2F240620051236&img=Nokia7610%28269%29.jpg">scratched my knees</a> all up and am bleeding out of my knee and elbow.  and... my new gate is right where i fell. 
 
 So i got on the plane, slept, woke up, got on another plane and finally made it to Chicago. 
 
