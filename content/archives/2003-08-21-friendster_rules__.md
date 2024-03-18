@@ -4,7 +4,7 @@ excerpt: |-
   so I have recently been getting more and more random messages from people on friendster. This one really caught my eye. well it caught it by calling me an asshole... it rules. I was so surprised. at first I was honestly concerned.. but then.. I thought about it. and whatever.. hehe I rule.
 
   How could you have all those friends??  You are such an asshole! I remember you in Chi...
-tags: friendster
+tags: ["friendster"]
 title: friendster rules..
 wordpress_id: 602
 wordpress_url: http://new.nata2.org/?p=602

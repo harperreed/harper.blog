@@ -5,7 +5,7 @@ excerpt: i feel better. even matt said I looked and acted more chilled out. I re
   same space/place. I think it will work out. we obviously have to redefine our relationship.
   and how we work together. but that is totally fine and completely appropriate. I
   think she said it best with an analogy to the gears in a car. going...
-tags: juggle, php, phone, blogs, war, juggling, corporate, matiss, nokia, blogger
+tags: ["juggle","php","phone","blogs","war","juggling","corporate","matiss","nokia","blogger"]
 title: i am incredibly tired.
 wordpress_id: 793
 wordpress_url: http://new.nata2.org/?p=793

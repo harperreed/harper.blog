@@ -5,7 +5,7 @@ excerpt: "this happens a lot. I had a lot of fun last night. the night at crobar
   anna karenina. now I have two. so if anyone wants to borrow this fancy and very
   good \"new\" translation - let me know. \nq: where does napoleon keep his armies?\na:
   in his sleevies!i rule.tonight the shins are pl..."
-tags: crobar
+tags: ["crobar"]
 title: i have no idea what i was about to say
 wordpress_id: 887
 wordpress_url: http://new.nata2.org/?p=887

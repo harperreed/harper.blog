@@ -5,7 +5,7 @@ excerpt: so the internet is a lot of fun. wheee. so is sleep. time to sleep. eha
   even though I am only on eharmony and friendster. but the eharmony commercials promised
   love - and friendster promised friends ;)i have a new project coming. it is going
   to rule so much. ...
-tags: internet, sites, friendster
+tags: ["internet","sites","friendster"]
 title: hehe. how i love the internet
 wordpress_id: 634
 wordpress_url: http://new.nata2.org/?p=634

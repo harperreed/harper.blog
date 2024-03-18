@@ -5,7 +5,7 @@ excerpt: sadakosadakoeeek.. I just watched ringu - the japanese version of the r
   it is insane. So So scary. it is just nuts. I wonder if the US version is the same.
   hmm.. but yea. really really scary.. I think it was quite possibly the scariest
   movie to watch I have seen as of recent.. whoa.. I don't think it ...
-tags: fear, insane
+tags: ["fear","insane"]
 title: Frolic in brine, goblins be thine..
 wordpress_id: 462
 wordpress_url: http://new.nata2.org/?p=462

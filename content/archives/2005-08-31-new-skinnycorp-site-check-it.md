@@ -1,6 +1,6 @@
 ---
 date: 2005-08-31T03:35:35Z
-tags: general, food, skinnycorp, awesome, work
+tags: ["general","food","skinnycorp","awesome","work"]
 title: new skinnyCorp site... check it
 wordpress_id: 1122
 wordpress_url: http://www.nata2.org/2005/08/31/new-skinnycorp-site-check-it/

@@ -1,6 +1,6 @@
 ---
 date: 2006-03-13T01:41:11Z
-tags: general, work, crazy, steam, verbos
+tags: ["general","work","crazy","steam","verbos"]
 title: Wow. this weekend was frantic and full of sleep.
 wordpress_id: 1231
 wordpress_url: http://www.nata2.org/2006/03/13/wow-this-weekend-was-frantic-and-full-of-sleep/

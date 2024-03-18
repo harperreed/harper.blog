@@ -1,6 +1,6 @@
 ---
 date: 2008-10-06T00:54:53Z
-tags: general, internet, javascript, api, web-20
+tags: ["general","internet","javascript","api","web-20"]
 title: Release your applications inner API. Please.
 wordpress_id: 1567
 wordpress_url: http://www.nata2.org/?p=1567

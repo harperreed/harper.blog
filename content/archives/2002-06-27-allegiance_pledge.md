@@ -5,7 +5,7 @@ excerpt: "I pledge allegiance to the flag of the United States of America, and t
   and justice for all. \nthe U.S. has proven what a dumb ass country we are:\"The
   Pledge, as currently codified, is an impermissible government endorsement of religion
   because it sends a message to unbelievers that they are outsid..."
-tags: search, community, chris, bush, irc, politic, religion
+tags: ["search","community","chris","bush","irc","politic","religion"]
 title: allegiance pledge
 wordpress_id: 304
 wordpress_url: http://new.nata2.org/?p=304

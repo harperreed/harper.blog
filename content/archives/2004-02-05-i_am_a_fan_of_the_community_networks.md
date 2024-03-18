@@ -5,7 +5,7 @@ excerpt: it is true. recently a google employees side/personal project relaly to
   communication to on site. it lets you see the contact info for all your friends
   and maintain some form of community without limiting yourself to some shoddy infrastructure.
   I really like how you can create su...
-tags: php, community, bush, politics, politic, hiromi, google, friendster
+tags: ["php","community","bush","politics","politic","hiromi","google","friendster"]
 title: i am a fan of the community networks
 wordpress_id: 746
 wordpress_url: http://new.nata2.org/?p=746

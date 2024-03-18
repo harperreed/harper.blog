@@ -1,6 +1,6 @@
 ---
 date: 2007-09-02T20:57:44Z
-tags: general, war, fear, bush, annoying, iran, sad
+tags: ["general","war","fear","bush","annoying","iran","sad"]
 title: I am not excited for the US to attack Iran
 wordpress_id: 1475
 wordpress_url: http://www.nata2.org/2007/09/02/i-am-not-excited-for-the-us-to-attack-iran/

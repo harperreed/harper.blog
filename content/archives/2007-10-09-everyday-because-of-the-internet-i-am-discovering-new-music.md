@@ -1,6 +1,6 @@
 ---
 date: 2007-10-09T01:37:40Z
-tags: general, internet, music, bittorrent, download
+tags: ["general","internet","music","bittorrent","download"]
 title: Everyday, because of the internet, I am discovering new music
 wordpress_id: 1484
 wordpress_url: http://www.nata2.org/2007/10/09/everyday-because-of-the-internet-i-am-discovering-new-music/

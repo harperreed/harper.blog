@@ -5,8 +5,7 @@ excerpt: last night I got home from work. went to the mega mall and got my yoyo 
   ;) i rode my bike a bunch yesterday. apparently around 15 miles. I haven't rode
   a bike in years. it was interesting to find myself getting back in to the hang of
   it. I can now ride for a long time with no hands. it is pr...
-tags: juggle, dylan, phone, cell, war, fear, crobar, insane, chris, juggling, matiss,
-  nyc
+tags: ["juggle","dylan","phone","cell","war","fear","crobar","insane","chris","juggling","matiss","nyc"]
 title: i drove my bike all around.
 wordpress_id: 894
 wordpress_url: http://new.nata2.org/?p=894

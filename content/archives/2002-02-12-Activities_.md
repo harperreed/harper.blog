@@ -5,7 +5,7 @@ excerpt: I want to start a play group. I want to have one night a week, a group 
   twin peaks, another of the activities to be playing risk or other games, and the
   other would be .. hmm.. something cool. I would try and get the people to all hang
   out together.. creating a "social group" like environment. heh.. just kiddin...
-tags: social, harper, chicago, games
+tags: ["social","harper","chicago","games"]
 title: Activities.
 wordpress_id: 207
 wordpress_url: http://new.nata2.org/?p=207

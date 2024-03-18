@@ -1,6 +1,6 @@
 ---
 date: 2007-04-10T09:45:45Z
-tags: technology, technology, stupid, life, decency, code, conduct, feelings
+tags: ["technology","technology","stupid","life","decency","code","conduct","feelings"]
 title: The whole blogging code of conduct thing.
 wordpress_id: 1429
 wordpress_url: http://www.nata2.org/2007/04/10/the-whole-blogging-code-of-conduct-thing/

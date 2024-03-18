@@ -1,6 +1,6 @@
 ---
 date: 2004-09-15T22:30:31Z
-tags: general, hacking, awesome, sony, haxoring, ps2
+tags: ["general","hacking","awesome","sony","haxoring","ps2"]
 title: Playstation 2 hacking
 wordpress_id: 1193
 wordpress_url: http://www.nata2.org/2004/09/15/playstation-2-hacking-2/
@@ -32,7 +32,7 @@ so i played with sendor and finally played the homebrew game. black adder rules.
 
 that is the basic story. it really wasn’t too bad. you do’nt need a modchip.. or break your warrenty.. i did.. but i didn’t have too.. it was mainly that i didn’t have patience to find an HD that actually fit.
 
-love <a href="http://nata2.info/misc/misc_hacking/ps2/hacking_ps2%20026.avi">nata2 </a>
+love <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//misc/misc_hacking/ps2/hacking_ps2%20026.avi">nata2 </a>
 if you have questions.. i am xygoat on efnet.
 I rule the school.. or is it the tool.. nobody knows.
 thanks to the guys at ps2ownz.com.. without your gentle ribbing.. i would have never sat down and rtfm. also send0r and prevch is awsome.
@@ -41,20 +41,20 @@ say hi to all of your mothers..
 i am a fancy man. fancy fancy fancy man. i am a fancy man.
 
 <strong>Media</strong>
-<blockquote><img alt="here is the weird insert a playstion disc screen that appeared after i installed the harddrive" src="http://nata2.info/%2Ethumbnails/misc/misc_hacking/ps2/hacking_ps2%20009.jpg" />
+<blockquote><img alt="here is the weird insert a playstion disc screen that appeared after i installed the harddrive" src="https://web.archive.org/web/20030814003134/http://www.nata2.info//%2Ethumbnails/misc/misc_hacking/ps2/hacking_ps2%20009.jpg" />
 here is the weird insert a playstion disc screen that appeared after i installed the harddrive</blockquote>
-<blockquote><img alt="intro screen for bbnav" src="http://nata2.info/.thumbnails/misc/misc_hacking/ps2/hacking_ps2%20011.jpg" />
+<blockquote><img alt="intro screen for bbnav" src="https://web.archive.org/web/20030814003134/http://www.nata2.info//.thumbnails/misc/misc_hacking/ps2/hacking_ps2%20011.jpg" />
 here is the intro screen for bbnav</blockquote>
-<blockquote><img alt="Kernel Panic" src="http://nata2.info/.thumbnails/misc/misc_hacking/ps2/hacking_ps2%20004.jpg" />
+<blockquote><img alt="Kernel Panic" src="https://web.archive.org/web/20030814003134/http://www.nata2.info//.thumbnails/misc/misc_hacking/ps2/hacking_ps2%20004.jpg" />
 here is the kernel panic from the RTE boot disk.. missing bbnav</blockquote>
-<blockquote><img alt="Send0r" src="http://nata2.info/.thumbnails/misc/misc_hacking/ps2/hacking_ps2%20021.jpg" />
+<blockquote><img alt="Send0r" src="https://web.archive.org/web/20030814003134/http://www.nata2.info//.thumbnails/misc/misc_hacking/ps2/hacking_ps2%20021.jpg" />
 here is the intro screen for send0r</blockquote>
-<blockquote><img alt="Send0r menu" src="http://nata2.info/.thumbnails/misc/misc_hacking/ps2/hacking_ps2%20022.jpg" />
+<blockquote><img alt="Send0r menu" src="https://web.archive.org/web/20030814003134/http://www.nata2.info//.thumbnails/misc/misc_hacking/ps2/hacking_ps2%20022.jpg" />
 here is the send0r menu</blockquote>
-<blockquote><img alt="Back Adder Rules" src="http://nata2.info/.thumbnails/misc/misc_hacking/ps2/hacking_ps2%20027.jpg" />
+<blockquote><img alt="Back Adder Rules" src="https://web.archive.org/web/20030814003134/http://www.nata2.info//.thumbnails/misc/misc_hacking/ps2/hacking_ps2%20027.jpg" />
 here is a send0r game:  black adder rules</blockquote>
-<a href="http://nata2.info/misc/misc_hacking/ps2/hacking_ps2%20025.avi">here </a>is a movie of the fireballs demo by raizer.. it rules.. w00t send0r
+<a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//misc/misc_hacking/ps2/hacking_ps2%20025.avi">here </a>is a movie of the fireballs demo by raizer.. it rules.. w00t send0r
 
-here is a movie of the <a href="http://nata2.info/misc/misc_hacking/ps2/hacking_ps2%20026.avi">fireballs and me </a>. i rule
+here is a movie of the <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//misc/misc_hacking/ps2/hacking_ps2%20026.avi">fireballs and me </a>. i rule
 
-here is a <a href="http://nata2.info/misc/misc_hacking/ps2/hacking_ps2%20028.avi">movie</a> () of the send0r home brew game
+here is a <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//misc/misc_hacking/ps2/hacking_ps2%20028.avi">movie</a> () of the send0r home brew game

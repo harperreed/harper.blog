@@ -1,6 +1,6 @@
 ---
 date: 2005-08-05T15:22:06Z
-tags: general, war, fear, movies, documentary
+tags: ["general","war","fear","movies","documentary"]
 title: Control Room
 wordpress_id: 1106
 wordpress_url: http://www.nata2.org/2005/08/05/control-room/

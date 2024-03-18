@@ -5,7 +5,7 @@ excerpt: "at about 3. I then went to watcht the incredibles with hiromi. it rule
   we then came home and watched zatoichi. soooo good. I am sleepy nwo - however I
   MUST clean my room. it is a mess for sure. recently I have been thinking a lot about
   some decisions I made in the last week - I think I mistre..."
-tags: hiromi
+tags: ["hiromi"]
 title: i woke up today. late.
 wordpress_id: 957
 wordpress_url: http://new.nata2.org/?p=957

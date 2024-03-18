@@ -1,6 +1,6 @@
 ---
 date: 2007-11-22T18:07:35Z
-tags: general, chicago, holidays, thanksgiving
+tags: ["general","chicago","holidays","thanksgiving"]
 title: Happy thanksgiving
 wordpress_id: 1492
 wordpress_url: http://www.nata2.org/2007/11/22/happy-thanksgiving/

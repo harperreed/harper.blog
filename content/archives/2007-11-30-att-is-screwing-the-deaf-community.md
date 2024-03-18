@@ -1,6 +1,6 @@
 ---
 date: 2007-11-30T11:56:02Z
-tags: general, insane, google, iphone, verizon, att, deaf, accessibility
+tags: ["general","insane","google","iphone","verizon","att","deaf","accessibility"]
 title: AT&T is screwing the Deaf Community
 wordpress_id: 1494
 wordpress_url: http://www.nata2.org/2007/11/30/att-is-screwing-the-deaf-community/

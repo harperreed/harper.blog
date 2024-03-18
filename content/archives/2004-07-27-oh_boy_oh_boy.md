@@ -5,7 +5,7 @@ excerpt: so my computer broke. so I tested all the parts I could and detirmined 
   be that big of deal - but my laptop is also down. I somehow broke tcp/ip on it.
   totally blown. so I am stuck booting knoppix on the laptop and using my desktop
   keyboard, mouse and monitor with it. it is kinda funny. totally weird. I sh...
-tags: war, laptop, movies
+tags: ["war","laptop","movies"]
 title: oh boy oh boy
 wordpress_id: 907
 wordpress_url: http://new.nata2.org/?p=907

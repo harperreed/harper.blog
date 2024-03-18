@@ -1,6 +1,6 @@
 ---
 date: 2005-10-27T01:05:02Z
-tags: general, hacking, projects, electronics, audio, t-amp
+tags: ["general","hacking","projects","electronics","audio","t-amp"]
 title: I am going to Haxor my t-amp. Super Klasse
 wordpress_id: 1143
 wordpress_url: http://www.nata2.org/?p=1143

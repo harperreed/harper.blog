@@ -1,6 +1,6 @@
 ---
 date: 2006-10-15T17:46:40Z
-tags: general
+tags: ["general"]
 title: Relaxing weekend
 wordpress_id: 1368
 wordpress_url: http://www.nata2.org/2006/10/15/relaxing-weekend/

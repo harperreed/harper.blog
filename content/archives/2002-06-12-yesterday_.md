@@ -4,7 +4,7 @@ excerpt: "\"A person is being detained on information -- the value of which, the
   of which, and the reliability of which, we don't know,\" - Donna Newman\r\n\r\nso
   I was listening to NPR the last night during dinner.. and they mentioned how some
   people were critical of the Bush administrations label of "
-tags: war, sites, video, fear, bush, security, politics, politic
+tags: ["war","sites","video","fear","bush","security","politics","politic"]
 title: yesterday.
 wordpress_id: 295
 wordpress_url: http://new.nata2.org/?p=295

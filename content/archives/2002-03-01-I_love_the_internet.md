@@ -4,7 +4,7 @@ excerpt: 'I love finding stuff that pushes the limits. It is always by sheer luc
   that it happens as well. check out this, this, this, and some other site I liked
   but immediatly forgot...whoops.. hopefully I will be able to hang out with my new
   friends tonight.. '
-tags: war, design
+tags: ["war","design"]
 title: I love the internet
 wordpress_id: 220
 wordpress_url: http://new.nata2.org/?p=220

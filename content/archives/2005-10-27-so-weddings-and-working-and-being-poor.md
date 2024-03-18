@@ -1,6 +1,6 @@
 ---
 date: 2005-10-27T01:17:23Z
-tags: general, money, work, sports, white, sox, weddings
+tags: ["general","money","work","sports","white","sox","weddings"]
 title: 'So weddings. and working. and being poor. '
 wordpress_id: 1144
 wordpress_url: http://www.nata2.org/2005/10/27/so-weddings-and-working-and-being-poor/

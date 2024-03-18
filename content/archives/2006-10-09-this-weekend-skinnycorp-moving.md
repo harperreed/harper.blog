@@ -1,6 +1,6 @@
 ---
 date: 2006-10-09T01:44:13Z
-tags: general, chicago, skinnycorp, clubbing, partying, going-out, moving
+tags: ["general","chicago","skinnycorp","clubbing","partying","going-out","moving"]
 title: This weekend. skinnyCorp Moving
 wordpress_id: 1361
 wordpress_url: http://www.nata2.org/2006/10/09/this-weekend-skinnycorp-moving/

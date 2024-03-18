@@ -1,6 +1,6 @@
 ---
 date: 2005-08-11T17:15:38Z
-tags: general, internet, travel, work, heat, confusion
+tags: ["general","internet","travel","work","heat","confusion"]
 title: 'sorta car sick. '
 wordpress_id: 1109
 wordpress_url: http://www.nata2.org/2005/08/11/sorta-car-sick/

@@ -5,7 +5,7 @@ excerpt: I am so tired today. I wish I was a simple web app designer. Soemtimes 
   my employment. I feel bad venting. But I don't have anywhere else to go.. ;). I
   am frustrated at what I see as unprogressive movement. It isn't necessarily anything
   that happened today. it is just that I get frustrated when certain a...
-tags: job, action, design
+tags: ["job","action","design"]
 title: very tired
 wordpress_id: 206
 wordpress_url: http://new.nata2.org/?p=206

@@ -5,7 +5,7 @@ excerpt: So today my parents came to visit me. How nice it is to finally have so
   be with her. Today we walked around, at at shoddy resturants and went and saw one
   of the best movies of all time. Lord Of The Rings. Boy oh Boy was it ever entertaining.
   It was very long, but I was able to handle it - in fact every...
-tags: girlfriend, movies, cinema
+tags: ["girlfriend","movies","cinema"]
 title: LOTR ruled
 wordpress_id: 152
 wordpress_url: http://new.nata2.org/?p=152

@@ -5,7 +5,7 @@ excerpt: I haven't left any messages in awhile... i visited cornell the other da
   I went to chinatown today and looked for a plastic buddha. i wanted a large glow
   buddha, like 33 inches or so. I wanted to seperate the head and make it spin and
   such.. .but whatever.. i purchased a jet li movie and was on my way... ...
-tags: friends, cornell
+tags: ["friends","cornell"]
 title: chinatown
 wordpress_id: 40
 wordpress_url: http://new.nata2.org/?p=40

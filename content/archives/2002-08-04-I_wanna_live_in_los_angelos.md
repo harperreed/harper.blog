@@ -5,7 +5,7 @@ excerpt: |-
 
 
   So I just got done watching arlington road and part of edward scissorhands  on the way to California. My laptop apparently had enough battery life to support almost 2 dvds. It rules. I am ha...
-tags: dylan, chicago, war, video, college, laptop, travel
+tags: ["dylan","chicago","war","video","college","laptop","travel"]
 title: I wanna live in los angelos
 wordpress_id: 332
 wordpress_url: http://new.nata2.org/?p=332

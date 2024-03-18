@@ -1,6 +1,6 @@
 ---
 date: 2005-03-22T16:06:49Z
-tags: general, hong, kong, usps, mail, hivizone, angry
+tags: ["general","hong","kong","usps","mail","hivizone","angry"]
 title: i HATE the usps. seirously i HATE them
 wordpress_id: 1025
 wordpress_url: http://www.nata2.org/2005/03/22/i-hate-the-usps-seirously-i-hate-them-2/

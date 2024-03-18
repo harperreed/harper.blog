@@ -1,6 +1,6 @@
 ---
 date: 2006-02-12T21:14:54Z
-tags: general, linux, diy, ambient, gumstix, qee, embedded
+tags: ["general","linux","diy","ambient","gumstix","qee","embedded"]
 title: 'Ambient devices. building ideas. '
 wordpress_id: 1206
 wordpress_url: http://www.nata2.org/2006/02/12/ambient-devices-building-ideas/

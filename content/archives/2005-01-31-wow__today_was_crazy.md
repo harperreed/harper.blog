@@ -5,7 +5,7 @@ excerpt: so after a week of work that last about 64+ hours I am about to fall as
   the sunrise. haha. umm. everything is sorta breaking. every couple months I get
   the feeling that the ceiling is falling. but. I don't care ;) haha. I will hoist
   it back up. so my site is almost done. now is time to start the o...
-tags: kungfu
+tags: ["kungfu"]
 title: wow. today was crazy
 wordpress_id: 986
 wordpress_url: http://new.nata2.org/?p=986

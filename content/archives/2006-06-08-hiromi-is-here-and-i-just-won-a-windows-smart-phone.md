@@ -1,6 +1,6 @@
 ---
 date: 2006-06-08T14:04:33Z
-tags: general, chicago, movies, phones, hiromi, mobile, tmobile, win, contest
+tags: ["general","chicago","movies","phones","hiromi","mobile","tmobile","win","contest"]
 title: Hiromi is here! and i just won a windows smart phone
 wordpress_id: 1288
 wordpress_url: http://www.nata2.org/2006/06/08/hiromi-is-here-and-i-just-won-a-windows-smart-phone/

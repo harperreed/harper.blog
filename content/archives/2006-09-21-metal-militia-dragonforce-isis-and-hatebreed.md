@@ -1,7 +1,6 @@
 ---
 date: 2006-09-21T10:06:43Z
-tags: general, concerts, metal, music, insanity, live-music, black-dahlia-murder,
-  hatebreed, napalm-death, mastodon, jeffrey, morgan, isis, dragonforce
+tags: ["general","concerts","metal","music","insanity","live-music","black-dahlia-murder","hatebreed","napalm-death","mastodon","jeffrey","morgan","isis","dragonforce"]
 title: 'Metal Militia: DragonForce, Isis and Hatebreed.'
 wordpress_id: 1348
 wordpress_url: http://www.nata2.org/2006/09/21/metal-militia-dragonforce-isis-and-hatebreed/

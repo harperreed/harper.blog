@@ -5,7 +5,7 @@ excerpt: "So the offending lines are:\r\nJan 23 11:39:26 dopeman sshd: Starting 
   AllowTcpForwarding\r\nJan 23 11:39:26 dopeman sshd: /etc/ssh/sshd_config: terminating,
   1 bad configuration options\r\nJan 23 11:39:26 dopeman sshd: sshd startup failed\r\nJan
   23 11:39:27 dopeman sshd: "
-tags: war
+tags: ["war"]
 title: Caught red handed
 wordpress_id: 188
 wordpress_url: http://new.nata2.org/?p=188

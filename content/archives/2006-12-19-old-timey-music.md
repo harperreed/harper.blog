@@ -1,6 +1,6 @@
 ---
 date: 2006-12-19T02:01:39Z
-tags: general, music, bluegrass, mountain-music, stanley-brothers, old-timey-music
+tags: ["general","music","bluegrass","mountain-music","stanley-brothers","old-timey-music"]
 title: Old timey music...
 wordpress_id: 1398
 wordpress_url: http://www.nata2.org/2006/12/19/old-timey-music/

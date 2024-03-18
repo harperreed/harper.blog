@@ -4,8 +4,7 @@ excerpt: "So my mobile phone fascination has reached a new height. I took some s
   time in the last couple days and compiled a phon/mobile/technology blog. check it
   out here. Hopefully it will continue to foster exciting phone stuff for my head.
   and make me a million dollar bills.\r\n\r\ni "
-tags: technology, phone, colorado, blogs, internet, server, video, girlfriend, coding,
-  security, games, hiromi, friendster, mobile
+tags: ["technology","phone","colorado","blogs","internet","server","video","girlfriend","coding","security","games","hiromi","friendster","mobile"]
 title: Handy Mobile
 wordpress_id: 702
 wordpress_url: http://new.nata2.org/?p=702

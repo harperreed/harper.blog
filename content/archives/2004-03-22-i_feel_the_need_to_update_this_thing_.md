@@ -5,7 +5,7 @@ excerpt: well. basically I feel right now that when you get down it is pretty ea
   ago. hah. just kidding ;) I stopped listening soemtime in the meeting. and then
   realized that they were talking about something I needed to listen to . so I attempted
   to replay what had happaned in my mind. it was hard. however. somehow in the ...
-tags: chris, coding
+tags: ["chris","coding"]
 title: i feel the need to update this thing.
 wordpress_id: 787
 wordpress_url: http://new.nata2.org/?p=787

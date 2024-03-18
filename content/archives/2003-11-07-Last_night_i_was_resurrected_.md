@@ -5,7 +5,7 @@ excerpt: So last night I went to the metro and hung out with my friends. it was 
   been able to stay out as late. maybe I am getting old. god I hope not. but whatever.
   I have a fucked up growth on my back. I talked to my doctor - who was like.. "it
   is nothing.. don't worry about it. " whatever. I think I am going to have...
-tags: school, bush, music, matiss, philosophy
+tags: ["school","bush","music","matiss","philosophy"]
 title: Last night i was resurrected.
 wordpress_id: 669
 wordpress_url: http://new.nata2.org/?p=669

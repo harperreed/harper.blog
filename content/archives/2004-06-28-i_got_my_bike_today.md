@@ -4,8 +4,7 @@ excerpt: this weekend was awesome. on thursday I hung out with a dope friend - w
   got dinner and drinks - it was pretty nice. I went home for a quick stop to say
   hi to my friends who were staying and then went to crobar - where a bunch of friends
   were. we somehow made it to vips. hahah. wh...
-tags: dylan, phone, sick, school, food, crobar, insane, movies, bush, action, matiss,
-  wedding, nokia
+tags: ["dylan","phone","sick","school","food","crobar","insane","movies","bush","action","matiss","wedding","nokia"]
 title: i got my bike today
 wordpress_id: 892
 wordpress_url: http://new.nata2.org/?p=892

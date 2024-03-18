@@ -5,7 +5,7 @@ excerpt: "so I arrived in india. it is pretty awesome. quite a change from calif
   the night befopre I was to leave for  india. hehe. my friend mike and nic came over
   from colorado and we hung out. we went to sushi and then to crobar. things got crazy
   and mike inadvertently got really drunk and assaulted re..."
-tags: family, phone, colorado, chicago, food, crobar, insane, movies, india, sushi
+tags: ["family","phone","colorado","chicago","food","crobar","insane","movies","india","sushi"]
 title: india. i am in.
 wordpress_id: 849
 wordpress_url: http://new.nata2.org/?p=849

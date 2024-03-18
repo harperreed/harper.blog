@@ -4,7 +4,7 @@ excerpt: 'So today around 2:00 I talked to this dude from cnn about his site.. w
   I found posted to some random page.. and I was browsing through when I noticed some
   of the strangest stuff on there... so I immediately mirrored it.. ;) and now it
   is posted to '
-tags: watership, aim
+tags: ["watership","aim"]
 title: hohowhwhaahahahah
 wordpress_id: 490
 wordpress_url: http://new.nata2.org/?p=490

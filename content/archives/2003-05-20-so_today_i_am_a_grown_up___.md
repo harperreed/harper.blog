@@ -5,7 +5,7 @@ excerpt: after my brief bout with insanity due to over the counter drug use.. I 
   place to live. woah. that is insane. all of my coworkers are doing this too. I think
   it is madness. I mean. I recently bulked at the paltry sum of $4500 for some servers..
   let alone $200K for a condo in chitown. wtf. who invented this craz...
-tags: server, insane, ipod, drugs
+tags: ["server","insane","ipod","drugs"]
 title: so today i am a grown up...
 wordpress_id: 517
 wordpress_url: http://new.nata2.org/?p=517

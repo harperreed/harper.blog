@@ -1,6 +1,6 @@
 ---
 date: 2006-12-12T02:51:41Z
-tags: technology, technology
+tags: ["technology","technology"]
 title: How to hook twitter into a IRC channel
 wordpress_id: 1395
 wordpress_url: http://www.nata2.org/2006/12/12/how-to-hook-twitter-into-a-irc-channel/

@@ -5,7 +5,7 @@ excerpt: |-
   i was like:
   "uhh, what"
   thems fighting words...
-tags: general, friends, server
+tags: ["general","friends","server"]
 title: Hosting woes
 wordpress_id: 11
 wordpress_url: http://new.nata2.org/?p=11

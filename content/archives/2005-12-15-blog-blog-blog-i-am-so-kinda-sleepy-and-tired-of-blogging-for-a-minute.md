@@ -1,6 +1,6 @@
 ---
 date: 2005-12-15T01:00:33Z
-tags: general, forward, bloggin
+tags: ["general","forward","bloggin"]
 title: blog blog blog... i am so kinda sleepy and tired of blogging for a minute
 wordpress_id: 1154
 wordpress_url: http://www.nata2.org/2005/12/15/blog-blog-blog-i-am-so-kinda-sleepy-and-tired-of-blogging-for-a-minute/

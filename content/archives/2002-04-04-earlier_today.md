@@ -5,7 +5,7 @@ excerpt: 'this morning whilst I was in the shower, I got to thinking about how a
   the whole enron thing. It seems that when clinton ran into some women problems,
   he was crucified - however when bush, cheney and the like get involved in a complicated
   financial scam the ...'
-tags: women, bush
+tags: ["women","bush"]
 title: earlier today
 wordpress_id: 248
 wordpress_url: http://new.nata2.org/?p=248

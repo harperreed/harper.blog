@@ -5,7 +5,7 @@ excerpt: so a couple days a go I really screwed up my photolog. it sucked - beca
   took when I was insane. now they are gone forever. how sad. but anyway.. it is now
   fixed. I figured it out - basically when I was cleaning out nata2.info I inadvertently
   changed the pe...
-tags: php, server, qmail, insane
+tags: ["php","server","qmail","insane"]
 title: i am not as smart as i was once
 wordpress_id: 741
 wordpress_url: http://new.nata2.org/?p=741

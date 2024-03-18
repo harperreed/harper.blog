@@ -4,7 +4,7 @@ excerpt: tonight I fly out to colorado. it will be a lot of fun. hiromi will be 
   which will rule. I really don't know what we will do for the week. but I imagine
   it will be entertainmentfull ;).i am wearing my new fancy boots. I am attempting
   to decide whether I am going to w...
-tags: phone, colorado, hiromi
+tags: ["phone","colorado","hiromi"]
 title: colorado again
 wordpress_id: 703
 wordpress_url: http://new.nata2.org/?p=703

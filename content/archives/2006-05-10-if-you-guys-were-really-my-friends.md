@@ -1,6 +1,6 @@
 ---
 date: 2006-05-10T14:49:05Z
-tags: general, technology, phones, nokia, wifi, e60
+tags: ["general","technology","phones","nokia","wifi","e60"]
 title: If you guys were really my friends
 wordpress_id: 1263
 wordpress_url: http://www.nata2.org/2006/05/10/if-you-guys-were-really-my-friends/

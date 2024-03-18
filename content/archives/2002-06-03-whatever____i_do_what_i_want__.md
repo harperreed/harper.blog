@@ -5,7 +5,7 @@ excerpt: So I have been reading a lot of african literature. it is so nice. I re
   so it was a nice change.. This weekend was strangely lonely. I just sat around.
   even when I was out.. it wasn't exactly thrilling. I did get my project done. which
   was cool.. and received good word from its recepients. but.. for som...
-tags: books, phone, war, birthday, dad, phones
+tags: ["books","phone","war","birthday","dad","phones"]
 title: whatever... i do what i want..
 wordpress_id: 289
 wordpress_url: http://new.nata2.org/?p=289

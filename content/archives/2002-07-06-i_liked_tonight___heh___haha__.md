@@ -5,7 +5,7 @@ excerpt: So tonight.. I played neverwinter nights with matiss... for quite awhil
   son. It was a good time. we hung out. I traded in some of my dvds. they will enjoy
   thenm I think. My friend pam came over. we hung out for a bit.. and then went to
   liars club. heh. and we got in for a reduced price because pam is a rocksta...
-tags: women, rock, kstar, matiss, hiromi
+tags: ["women","rock","kstar","matiss","hiromi"]
 title: i liked tonight.. heh.. haha..
 wordpress_id: 310
 wordpress_url: http://new.nata2.org/?p=310

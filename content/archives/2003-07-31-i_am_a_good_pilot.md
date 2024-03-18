@@ -5,7 +5,7 @@ excerpt: "Oh yea.. I am.. \n\n\nphunktoad (11:51:39 AM): I forgot to tell you ab
   (11:52:03 AM): so you and her came over to beth's place, and you tell me that you
   both were taking flying lessons\nphunktoad (11:52:09 AM): and you wanted to show
   me\n"
-tags: linux
+tags: ["linux"]
 title: i am a good pilot
 wordpress_id: 583
 wordpress_url: http://new.nata2.org/?p=583

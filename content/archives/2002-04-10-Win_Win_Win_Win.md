@@ -4,7 +4,7 @@ excerpt: "I got an email today from Ars Electronica notifying me that\nmy websit
   AudreyHacking.com has been accepted for entry in the \nPrix Ars Electronica 2002
   competition. Whee. I hope I win. That would rule. In other news. I slept a lot last
   night. it was nice. however.. I slept so much..."
-tags: dylan, reed, hacking, audreyhacking, audrey, apple
+tags: ["dylan","reed","hacking","audreyhacking","audrey","apple"]
 title: Win Win Win Win
 wordpress_id: 256
 wordpress_url: http://new.nata2.org/?p=256

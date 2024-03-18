@@ -4,8 +4,7 @@ excerpt: 'so a week or so ago I went to this party for the chicago thong organiz
   it was really funny and strange - but my friend chris and I participated in the
   activities and wore thongs and capes(which was the costume of choice). well later
   that night we were at a club and one of our friends snapped this really great '
-tags: nerd, reed, family, php, phone, chicago, hacking, search, chris, tools, security,
-  mom, aim, linux, ipod, kungfu, google, hong, advertising
+tags: ["nerd","reed","family","php","phone","chicago","hacking","search","chris","tools","security","mom","aim","linux","ipod","kungfu","google","hong","advertising"]
 title: hahahahaha. once again.. i rule
 wordpress_id: 750
 wordpress_url: http://new.nata2.org/?p=750

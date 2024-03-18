@@ -1,6 +1,6 @@
 ---
 date: 2010-01-17T19:49:55Z
-tags: general, phones, nokia, motorola, developing
+tags: ["general","phones","nokia","motorola","developing"]
 title: 'I love phones designed for developing countries. '
 wordpress_id: 1661
 wordpress_url: http://www.nata2.org/?p=1661

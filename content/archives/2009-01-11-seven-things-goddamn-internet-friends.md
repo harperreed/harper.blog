@@ -1,6 +1,6 @@
 ---
 date: 2009-01-11T16:05:55Z
-tags: general, harper, meme, seven-things, about-me
+tags: ["general","harper","meme","seven-things","about-me"]
 title: Seven Things (goddamn internet friends)
 wordpress_id: 1601
 wordpress_url: http://www.nata2.org/2009/01/11/seven-things-goddamn-internet-friends/

@@ -5,7 +5,7 @@ excerpt: So last night my brother graduated college. It was probably the most en
   and cussing.. hehe. and everyone kept gasping at what he was saying. but he kept
   it up  -  it was so funny. I laughed a bunch. Only 20 or so people graduated. so
   it was a very small group. After the ceremony we went to dinner at t...
-tags: chicago, food, college, source, games
+tags: ["chicago","food","college","source","games"]
 title: Long Beach..
 wordpress_id: 419
 wordpress_url: http://new.nata2.org/?p=419

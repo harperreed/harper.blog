@@ -1,6 +1,6 @@
 ---
 date: 2005-06-09T12:25:47Z
-tags: general, chicago, metal, iron, maiden, lake, rocker
+tags: ["general","chicago","metal","iron","maiden","lake","rocker"]
 title: Metal Deli
 wordpress_id: 1080
 wordpress_url: http://www.nata2.org/2005/06/09/metal-deli/

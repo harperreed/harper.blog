@@ -5,7 +5,7 @@ excerpt: contrary to the usual circumstances - I did not go out tonight. weird I
   is good. I did about 40% today. which is also good. so if I don't sleep all day
   tomorrow I will be able to knock the rest out. one thing I did today that rules
   - is generate pdf files with php. its awesome. yall shoudl check it out. in th...
-tags: php, irc
+tags: ["php","irc"]
 title: yep. i am kinda sleepy
 wordpress_id: 993
 wordpress_url: http://new.nata2.org/?p=993

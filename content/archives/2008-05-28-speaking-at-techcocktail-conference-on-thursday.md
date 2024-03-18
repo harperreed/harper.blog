@@ -1,6 +1,6 @@
 ---
 date: 2008-05-28T00:52:59Z
-tags: general, chicago, techcocktail, speaking, technology-agnosticism
+tags: ["general","chicago","techcocktail","speaking","technology-agnosticism"]
 title: Speaking at TechCocktail conference on thursday
 wordpress_id: 1520
 wordpress_url: http://www.nata2.org/?p=1520

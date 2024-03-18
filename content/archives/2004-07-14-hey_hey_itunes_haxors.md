@@ -5,7 +5,7 @@ excerpt: i made a quick little hack. you can get it here. WARNING. it is REALLY 
   it is a webserver that listens to a pre desposed port and servers a static page.
   this page takes from it whatever song is currently playign in itunes and displays
   it. it also displa...
-tags: juggle, server, war, itunes, ituneswww
+tags: ["juggle","server","war","itunes","ituneswww"]
 title: hey hey itunes haxors
 wordpress_id: 901
 wordpress_url: http://new.nata2.org/?p=901

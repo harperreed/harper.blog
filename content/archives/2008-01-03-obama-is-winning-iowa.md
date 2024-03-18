@@ -1,6 +1,6 @@
 ---
 date: 2008-01-03T23:15:09Z
-tags: general, politics, obama
+tags: ["general","politics","obama"]
 title: Obama is winning Iowa!
 wordpress_id: 1502
 wordpress_url: http://www.nata2.org/2008/01/03/obama-is-winning-iowa/

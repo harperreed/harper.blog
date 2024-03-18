@@ -4,7 +4,7 @@ excerpt: 'oh yea. this weekend. hmm.. well one of the past three days.. I fell a
   listening to Sunn 0)) (a very sludge doom metal sound). anyway.. I was listening
   to them.. well really sleeping to them.. and my dreams were infused with chaos.
   I had three '
-tags: php, war, metal, matiss
+tags: ["php","war","metal","matiss"]
 title: jukka jukka
 wordpress_id: 571
 wordpress_url: http://new.nata2.org/?p=571

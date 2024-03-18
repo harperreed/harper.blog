@@ -4,7 +4,7 @@ excerpt: "----- Original Message ----- \nFrom: \"Scott Vandenplas\" &lt;scottv@i
   &lt;dylan@dylanreed.org>\nSent: Monday, November 11, 2002 12:24 PM\nSubject: hi\n\n\nHi,\n\nI'm
   a friend of Harper's, and he was telling me about your diving job. We began to wonder
   a couple of things about diving.\n\nFor instance, if you had to fight a monkey ..."
-tags: job, harper, dylan, reed
+tags: ["job","harper","dylan","reed"]
 title: drugs are bad
 wordpress_id: 394
 wordpress_url: http://new.nata2.org/?p=394

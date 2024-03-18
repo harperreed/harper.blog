@@ -2,7 +2,7 @@
 date: 2002-11-12T06:52:48Z
 excerpt: 'here is a plan about U.S. propaganda. wtf. here is something that is not
   like the previous thing at all - in fact this is not at all like anything. '
-tags: video, broox
+tags: ["video","broox"]
 title: propaganda
 wordpress_id: 395
 wordpress_url: http://new.nata2.org/?p=395

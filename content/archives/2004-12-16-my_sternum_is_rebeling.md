@@ -4,7 +4,7 @@ excerpt: work is fun. however for the past 12 hours - my sternum has felt like i
   needed to be "popped." like a back. it sucks. it kinda hurts when I breath. I hope
   I am not dieing. heh. today I am not a fan of Harry Angstrom. I am annoyed at how
   hard he is on his son. me and my friends have been playing media mammon...
-tags: php
+tags: ["php"]
 title: my sternum is rebeling
 wordpress_id: 974
 wordpress_url: http://new.nata2.org/?p=974

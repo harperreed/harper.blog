@@ -1,6 +1,6 @@
 ---
 date: 2005-11-17T02:58:01Z
-tags: general, computers, work
+tags: ["general","computers","work"]
 title: I think i forgot i even had a blog
 wordpress_id: 1149
 wordpress_url: http://www.nata2.org/2005/11/17/i-think-i-forgot-i-even-had-a-blog/

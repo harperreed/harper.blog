@@ -1,6 +1,6 @@
 ---
 date: 2006-12-13T12:02:35Z
-tags: general
+tags: ["general"]
 title: Pen Island Pens!
 wordpress_id: 1396
 wordpress_url: http://www.nata2.org/2006/12/13/pen-island-pens/

@@ -5,7 +5,7 @@ excerpt: i am sittin ghere without a lot of clothes on listneing to pinback. the
   at all.. but is enough to make me want a sleeping car on the el. stupid el. stupid
   sleep. today I spent all day debuggin g a chroot environment on one of our web servers.
   it seems that you have to be awefully particular with tthe permissions w...
-tags: server
+tags: ["server"]
 title: hot hot hot
 wordpress_id: 550
 wordpress_url: http://new.nata2.org/?p=550

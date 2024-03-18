@@ -5,7 +5,7 @@ excerpt: It is so hot here in chi-town. I have never been in such an inferno deg
   gto read waiting for something to happen. For it to get cooler. For someone to tell
   me "hey, its nice and cool over here" but... nothing makes it better. and time only
   makes it worse....
-tags: friends
+tags: ["friends"]
 title: Damn!! It is Hot!!!
 wordpress_id: 21
 wordpress_url: http://new.nata2.org/?p=21

@@ -2,7 +2,7 @@
 date: 2004-02-13T16:56:05Z
 excerpt: 'So I lost reality the other night. I was sittign at work - going live with
   this product (FINALLY) amd I noticed reality slinking out the door(1, 2, '
-tags: social, phone, rock, movies, hiromi
+tags: ["social","phone","rock","movies","hiromi"]
 title: competent is not a reality at this point
 wordpress_id: 752
 wordpress_url: http://new.nata2.org/?p=752

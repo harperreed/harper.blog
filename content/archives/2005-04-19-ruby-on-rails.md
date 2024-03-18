@@ -1,7 +1,6 @@
 ---
 date: 2005-04-19T23:35:58Z
-tags: general, domains, dylan, php, blogs, community, ruby, rails, alliedmovements,
-  stigmata
+tags: ["general","domains","dylan","php","blogs","community","ruby","rails","alliedmovements","stigmata"]
 title: ruby on rails
 wordpress_id: 1047
 wordpress_url: http://www.nata2.org/2005/04/19/ruby-on-rails/

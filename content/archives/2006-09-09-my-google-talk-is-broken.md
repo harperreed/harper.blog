@@ -1,6 +1,6 @@
 ---
 date: 2006-09-09T16:32:35Z
-tags: general, google, sad, gmail, google-talk, bugs, gtalk, failure
+tags: ["general","google","sad","gmail","google-talk","bugs","gtalk","failure"]
 title: My Google Talk is broken.
 wordpress_id: 1336
 wordpress_url: http://www.nata2.org/2006/09/09/my-google-talk-is-broken/

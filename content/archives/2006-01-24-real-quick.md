@@ -1,6 +1,6 @@
 ---
 date: 2006-01-24T05:14:24Z
-tags: general, awe
+tags: ["general","awe"]
 title: 'real quick. '
 wordpress_id: 1200
 wordpress_url: http://www.nata2.org/2006/01/24/real-quick/

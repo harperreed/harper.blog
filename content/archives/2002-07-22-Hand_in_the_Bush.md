@@ -5,8 +5,7 @@ excerpt: So anyway. this weekend was incredibly hot. like not fun hot. I was not
   hung out. My friend brock and amanda hung out on thursday.. friday I hung out with
   my friend sevren and some of his friends. they are so "classy." hehe. but the real
   gem(hehe) was on saturday. Some new friends of ours came over about o...
-tags: juggle, rock, food, birthday, movies, bush, military, sex, aim, corporate, games,
-  matiss, girls, politic, cars
+tags: ["juggle","rock","food","birthday","movies","bush","military","sex","aim","corporate","games","matiss","girls","politic","cars"]
 title: Hand in the Bush
 wordpress_id: 326
 wordpress_url: http://new.nata2.org/?p=326

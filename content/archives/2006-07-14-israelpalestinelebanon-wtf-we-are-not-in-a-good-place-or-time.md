@@ -1,6 +1,6 @@
 ---
 date: 2006-07-14T11:35:55Z
-tags: general
+tags: ["general"]
 title: Israel/Palestine/Lebanon wtf. We are not in a good place or time.
 wordpress_id: 1305
 wordpress_url: http://www.nata2.org/2006/07/14/israelpalestinelebanon-wtf-we-are-not-in-a-good-place-or-time/

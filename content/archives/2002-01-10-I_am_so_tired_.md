@@ -5,7 +5,7 @@ excerpt: Man this server really wiped me out. However, it was/is quite the resum
   or thursday. hmm.. I wonder. Today marks the fourteenth month that k*star and I
   have dated. what a wonderful time. it was sad when we almost broke up... hopefully
   not for ahile yet will that happen.. anyway.. I have a big weekend in...
-tags: server, laptop, matiss
+tags: ["server","laptop","matiss"]
 title: I am so tired.
 wordpress_id: 174
 wordpress_url: http://new.nata2.org/?p=174

@@ -5,7 +5,7 @@ excerpt: Today i went to the art institute of chicago and looked at the contempo
   books i have ever read. I started with a book published in the early 18th century(1722)
   about the plurality of worlds, it was qute something.. i have never read a book
   that was so informal. And the secod set of books were translations of t...
-tags: books, chicago
+tags: ["books","chicago"]
 title: chi town art
 wordpress_id: 43
 wordpress_url: http://new.nata2.org/?p=43

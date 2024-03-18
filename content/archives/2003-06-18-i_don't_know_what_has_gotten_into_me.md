@@ -5,7 +5,7 @@ excerpt: 'I have been waking up earlier lately. it is rather strange. I am still
   cuz I don''t go out EVERY NIGHT. heh. umm.. yea.. well I have been workign a lot
   on this ringtone stuff.. it is fun. but I have to plan a lot to make sure it is
   robust. stupid robustness. I hate you so much ;). Today I ordered a '
-tags: phone, war, sites, school, bush, metal, music, ipod, phones, screensaver, screensavers
+tags: ["phone","war","sites","school","bush","metal","music","ipod","phones","screensaver","screensavers"]
 title: i don't know what has gotten into me
 wordpress_id: 544
 wordpress_url: http://new.nata2.org/?p=544

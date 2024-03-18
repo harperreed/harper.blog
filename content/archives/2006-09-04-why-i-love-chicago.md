@@ -1,7 +1,6 @@
 ---
 date: 2006-09-04T05:14:35Z
-tags: general, chicago, crobar, house-music, techno, arab, soundbar, smartbar, house,
-  banghra
+tags: ["general","chicago","crobar","house-music","techno","arab","soundbar","smartbar","house","banghra"]
 title: why i love chicago
 wordpress_id: 1332
 wordpress_url: http://www.nata2.org/2006/09/04/why-i-love-chicago/

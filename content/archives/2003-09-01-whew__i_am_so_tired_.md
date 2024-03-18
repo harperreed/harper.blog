@@ -5,7 +5,7 @@ excerpt: I could eat a cow I am so tired. heh. today we went to the art institut
   that - anne and I came back to my place and we went to argyle stop on the redline
   and we had really great vietnamese food. I also met matiss's friend roger. roger
   is really very very nice. and now I have been home for almost 2 hours. and I a...
-tags: food, matiss
+tags: ["food","matiss"]
 title: whew. i am so tired.
 wordpress_id: 610
 wordpress_url: http://new.nata2.org/?p=610

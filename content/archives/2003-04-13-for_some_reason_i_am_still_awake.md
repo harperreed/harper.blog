@@ -5,7 +5,7 @@ excerpt: This weekend was fun. it also passed in a blur. on friday night I went 
   none of my friends or myself new that it was a movie casting - so we just hung out
   and got free drinks.. such a silly thing.. so dumb. everyone with their head shots..
   trying to impress no one in particular.. hopeing they would be seen.. ...
-tags: server, insane, music
+tags: ["server","insane","music"]
 title: for some reason i am still awake
 wordpress_id: 486
 wordpress_url: http://new.nata2.org/?p=486

@@ -1,6 +1,6 @@
 ---
 date: 2006-05-15T18:12:26Z
-tags: general, family, colorado, fun, travel, home, reed-family
+tags: ["general","family","colorado","fun","travel","home","reed-family"]
 title: Colorado weekend
 wordpress_id: 1268
 wordpress_url: http://www.nata2.org/2006/05/15/colorado-weekend/

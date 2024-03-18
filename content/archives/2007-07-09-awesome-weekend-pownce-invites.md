@@ -1,6 +1,6 @@
 ---
 date: 2007-07-09T06:27:49Z
-tags: general
+tags: ["general"]
 title: Awesome weekend. Pownce invites
 wordpress_id: 1464
 wordpress_url: http://www.nata2.org/2007/07/09/awesome-weekend-pownce-invites/

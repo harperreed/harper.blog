@@ -5,7 +5,7 @@ excerpt: "so itunes came out for windows today. it is awesome. well sorta. it wa
   I don't think I will ever buy another CD. it rules so much. too bad there isn't
   more metal. sad day. they need a LOT more metal.. \r\n\r\none thing that is awesome..
   is I found my "
-tags: metal, music, windows, itunes
+tags: ["metal","music","windows","itunes"]
 title: itunes... heh
 wordpress_id: 647
 wordpress_url: http://new.nata2.org/?p=647

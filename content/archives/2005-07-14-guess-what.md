@@ -1,6 +1,6 @@
 ---
 date: 2005-07-14T17:51:54Z
-tags: general, job, travel, work, yoyo
+tags: ["general","job","travel","work","yoyo"]
 title: guess what
 wordpress_id: 1094
 wordpress_url: http://www.nata2.org/2005/07/14/guess-what/

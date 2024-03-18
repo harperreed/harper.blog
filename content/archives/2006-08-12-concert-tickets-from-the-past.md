@@ -1,6 +1,6 @@
 ---
 date: 2006-08-12T05:21:18Z
-tags: general, concerts, tickets, concert, shows, past, history, personal
+tags: ["general","concerts","tickets","concert","shows","past","history","personal"]
 title: Concert tickets from the past
 wordpress_id: 1320
 wordpress_url: http://www.nata2.org/2006/08/12/concert-tickets-from-the-past/

@@ -1,7 +1,6 @@
 ---
 date: 2008-03-02T02:54:36Z
-tags: technology, olpc, jabber, chat, xmpp, olpc-chicago, jabberolpchacksorg, jabber-server,
-  ejabberd
+tags: ["technology","olpc","jabber","chat","xmpp","olpc-chicago","jabberolpchacksorg","jabber-server","ejabberd"]
 title: OLPC Chicago Jabber Server
 wordpress_id: 1511
 wordpress_url: http://www.nata2.org/2008/03/02/olpc-chicago-jabber-server/

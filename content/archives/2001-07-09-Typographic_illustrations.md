@@ -1,7 +1,7 @@
 ---
 date: 2001-07-09T20:54:03Z
 excerpt: Check out this. Some really beautiful typographic illustrations.
-tags: friends
+tags: ["friends"]
 title: Typographic illustrations
 wordpress_id: 12
 wordpress_url: http://new.nata2.org/?p=12

@@ -1,6 +1,6 @@
 ---
 date: 2005-04-20T01:22:26Z
-tags: general, blogs, insanity, depervation
+tags: ["general","blogs","insanity","depervation"]
 title: insanity for sure
 wordpress_id: 1048
 wordpress_url: http://www.nata2.org/2005/04/20/insanity-for-sure/

@@ -5,7 +5,7 @@ excerpt: I have always thought that a military action in Iraq without the suppor
   fact that the middle east is a powder keg waiting to explode and the fact that numerous
   other geopolitical situations are walking a very thin line leads me to conclude
   now is not the time for an international conflict - especially one where the o...
-tags: php, war, bush, action, military, politic, iraq
+tags: ["php","war","bush","action","military","politic","iraq"]
 title: Agree with me
 wordpress_id: 384
 wordpress_url: http://new.nata2.org/?p=384

@@ -1,6 +1,6 @@
 ---
 date: 2007-04-12T00:38:59Z
-tags: general, books, sad, growing-up, novels, life, death, literature, authors, kurt-vonnegut
+tags: ["general","books","sad","growing-up","novels","life","death","literature","authors","kurt-vonnegut"]
 title: A Sad Day. RIP Kurt Vonnegut.
 wordpress_id: 1432
 wordpress_url: http://www.nata2.org/2007/04/12/a-sad-day-rip-kurt-vonnegut/
