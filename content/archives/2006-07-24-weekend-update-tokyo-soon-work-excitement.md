@@ -1,6 +1,6 @@
 ---
 date: 2006-07-24T04:21:54Z
-tags: general, juggling, travel, weekend, tokyo
+tags: ["general","juggling","travel","weekend","tokyo"]
 title: Weekend Update! Tokyo soon. Work excitement.
 wordpress_id: 1311
 wordpress_url: http://www.nata2.org/2006/07/24/weekend-update-tokyo-soon-work-excitement/

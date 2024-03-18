@@ -5,7 +5,7 @@ excerpt: last night my friends and I went to this pretty nice resturant and had 
   seemeingly is a misnomer. what does misnomer mean? so we hung out there and I had
   excellent tandori chicken kabobs and lotsa fish. it all ruled oh so much. good good
   food. then suresh and I went to a club called spin. apparently there is...
-tags: cell, war, rock, food, music, india
+tags: ["cell","war","rock","food","music","india"]
 title: rupies crack my shit up.
 wordpress_id: 855
 wordpress_url: http://new.nata2.org/?p=855

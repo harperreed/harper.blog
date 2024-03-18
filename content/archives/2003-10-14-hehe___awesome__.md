@@ -4,8 +4,7 @@ excerpt: The other day a friend lent me one of the CKY videos. I watched it.. an
   laughed.. and whatever.. so I thought today that I should do a little searching
   about cky and all related info. so I came accross bam's page. I was browsing it..
   and came accross the inte...
-tags: dylan, php, search, sites, video, rock, fashion, source, kstar, cripple, smash,
-  kungfu, google
+tags: ["dylan","php","search","sites","video","rock","fashion","source","kstar","cripple","smash","kungfu","google"]
 title: hehe. .awesome..
 wordpress_id: 642
 wordpress_url: http://new.nata2.org/?p=642

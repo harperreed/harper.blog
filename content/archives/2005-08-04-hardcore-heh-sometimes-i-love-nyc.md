@@ -1,6 +1,6 @@
 ---
 date: 2005-08-04T22:41:37Z
-tags: general, music, hardcore, gabber
+tags: ["general","music","hardcore","gabber"]
 title: HARDCORE! heh. sometimes i love nyc
 wordpress_id: 1105
 wordpress_url: http://www.nata2.org/2005/08/04/hardcore-heh-sometimes-i-love-nyc/

@@ -5,7 +5,7 @@ excerpt: and freaked out a bit. I finally calmed down and found out that it will
   of a nervous situation than anything. it was pretty weird. it is funny when you
   create scenerios in your head and they matter SOOO much - yet 15 minutes later you
   are like.. "ehh whatever." basically I woke up, went home, saw that my serve...
-tags: technology, server, insane, humor, ipod, itunes
+tags: ["technology","server","insane","humor","ipod","itunes"]
 title: so i woke up
 wordpress_id: 801
 wordpress_url: http://new.nata2.org/?p=801

@@ -5,7 +5,7 @@ excerpt: Tonight I went to see afriends fashion show. It was interesting. Quite 
   the whole presentation was well thought out. The third collection was from the crisiswear,
   and I have seen it many times before.. it is ok.. not bad. .but not super appealing
   for me.. however.. my friend rachel was modeling for him so ...
-tags: juggle, jugglers, fashion
+tags: ["juggle","jugglers","fashion"]
 title: Whooo Hooo
 wordpress_id: 356
 wordpress_url: http://new.nata2.org/?p=356

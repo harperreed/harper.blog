@@ -4,7 +4,7 @@ excerpt: "so today on IRC my friend clock was attacked by a group iof hooligans 
   flooded her off and stole her nick. they then came back to start trouble. \nand
   trouble was started. we made fun of the channels this one guy was on: \n\n#ryan1918
   #Radio+ #god.hates.fags #concepthosting #whipcream #novascotia #metal #linux-..."
-tags: php, hosting, school, metal, linux, corporate, irc
+tags: ["php","hosting","school","metal","linux","corporate","irc"]
 title: irc irc irc irc irc irc irc irc irc irc irc irc
 wordpress_id: 613
 wordpress_url: http://new.nata2.org/?p=613

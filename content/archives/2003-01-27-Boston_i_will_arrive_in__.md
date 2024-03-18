@@ -5,7 +5,7 @@ excerpt: Tomorrow I will arrive in boston for search engine training. I am excit
   friend miriam is leavign for cologne on sunday and I would like time to spend with
   her before she leaves.. alas.. I guess I will have to wait and spend time later..
   but that is why it sucks.. cuz later s...
-tags: chicago, search
+tags: ["chicago","search"]
 title: Boston i will arrive in..
 wordpress_id: 437
 wordpress_url: http://new.nata2.org/?p=437

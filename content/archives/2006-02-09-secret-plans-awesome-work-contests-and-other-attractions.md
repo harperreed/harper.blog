@@ -1,6 +1,6 @@
 ---
 date: 2006-02-09T03:44:33Z
-tags: general, books, threadless, projects, awesome, work, asterisk, voip
+tags: ["general","books","threadless","projects","awesome","work","asterisk","voip"]
 title: 'secret plans. awesome work. contests and other attractions. '
 wordpress_id: 1204
 wordpress_url: http://www.nata2.org/2006/02/09/secret-plans-awesome-work-contests-and-other-attractions/

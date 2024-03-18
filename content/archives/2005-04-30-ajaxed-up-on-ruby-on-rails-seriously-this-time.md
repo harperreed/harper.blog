@@ -1,7 +1,6 @@
 ---
 date: 2005-04-30T00:20:00Z
-tags: general, music, osx, apple, applications, mac, ruby, rails, on, ajax, application,
-  web, tiger, jack, spade
+tags: ["general","music","osx","apple","applications","mac","ruby","rails","on","ajax","application","web","tiger","jack","spade"]
 title: 'ajaxed up on ruby on rails. seriously this time. '
 wordpress_id: 1050
 wordpress_url: http://www.nata2.org/2005/04/30/ajaxed-up-on-ruby-on-rails-seriously-this-time/

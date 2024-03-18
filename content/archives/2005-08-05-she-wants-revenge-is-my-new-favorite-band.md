@@ -1,6 +1,6 @@
 ---
 date: 2005-08-05T17:07:30Z
-tags: general, humor, music
+tags: ["general","humor","music"]
 title: she wants revenge is my new favorite band.
 wordpress_id: 1107
 wordpress_url: http://www.nata2.org/2005/08/05/she-wants-revenge-is-my-new-favorite-band/

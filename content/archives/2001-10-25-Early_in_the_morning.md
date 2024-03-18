@@ -4,7 +4,7 @@ excerpt: So. Today has been great so far. My girlfriend is visiting later, I hav
   a BIG meeting and presentation for work in a couple hours. and to top it all off,
   while I was reading my favorite new source, I noticed this article which linked
   to my website. It is rather ex...
-tags: server, hacking, community, audreyhacking, audrey, girlfriend, source
+tags: ["server","hacking","community","audreyhacking","audrey","girlfriend","source"]
 title: Early in the morning
 wordpress_id: 120
 wordpress_url: http://new.nata2.org/?p=120

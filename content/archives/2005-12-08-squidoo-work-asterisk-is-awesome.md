@@ -1,6 +1,6 @@
 ---
 date: 2005-12-08T04:28:17Z
-tags: general, awesome, work, squidoo, asterisk, voip
+tags: ["general","awesome","work","squidoo","asterisk","voip"]
 title: 'squidoo. work. asterisk is awesome. '
 wordpress_id: 1153
 wordpress_url: http://www.nata2.org/2005/12/08/squidoo-work-asterisk-is-awesome/

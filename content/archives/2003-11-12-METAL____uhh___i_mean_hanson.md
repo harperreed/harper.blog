@@ -5,7 +5,7 @@ excerpt: So tonight I got home from work and rushed over to the house of blues t
   opera box seats.. and we hung out. it was really great. I was blown away by the
   talent and charisma that they held. it was intense. quite fun. we then hung out
   and just talked a bunch with them. they are nice. hopefully I got them to purchase...
-tags: chris
+tags: ["chris"]
 title: METAL... uhh.. i mean hanson
 wordpress_id: 674
 wordpress_url: http://new.nata2.org/?p=674

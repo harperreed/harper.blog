@@ -4,7 +4,7 @@ excerpt: "this is an excellent write up on the incredible google maps. the most 
   thing he says is: \n\nI also think it bears noting that Google is pulling out all
   the stops\nto build rich web apps, no matter how weirdly they have to hack the\nbrowser
   to make them go. And I strong..."
-tags: cell, blogs, internet, war, xhtml, google, gmail
+tags: ["cell","blogs","internet","war","xhtml","google","gmail"]
 title: google is my favorite friend/evil entity
 wordpress_id: 990
 wordpress_url: http://new.nata2.org/?p=990

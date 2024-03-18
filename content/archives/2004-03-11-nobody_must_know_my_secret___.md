@@ -5,7 +5,7 @@ excerpt: so today I got home from work and took a nap UNTIL 9:50pm. wtf. from 5:
   being me. seriously. I have to control this. heh. morgan called at like 7:30 and
   was like.. "hey why don't you meet me at my work at 9:30." I was late. haha. I slept
   through a 9:30pm appointment. hahah. seriously. so anywy. tonight w...
-tags: food
+tags: ["food"]
 title: nobody must know my secret...
 wordpress_id: 773
 wordpress_url: http://new.nata2.org/?p=773

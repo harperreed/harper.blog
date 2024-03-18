@@ -5,7 +5,7 @@ excerpt: Friday I about died from hunger. I got home from work.. .actually .. I 
   hiromi.. also.. rachel, hans, marcia and nicole were all there. so it was awesome.
   we then hurried home and went to heat. heat was intense. we got a live fish and
   a bunch of really good sushi. I think that it was good. but it wasn't wor...
-tags: juggle, dylan, food, insane, hiromi, sushi
+tags: ["juggle","dylan","food","insane","hiromi","sushi"]
 title: omg.. this weekend was a good time.
 wordpress_id: 641
 wordpress_url: http://new.nata2.org/?p=641

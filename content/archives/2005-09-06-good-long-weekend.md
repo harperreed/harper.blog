@@ -1,6 +1,6 @@
 ---
 date: 2005-09-06T13:24:45Z
-tags: general, hacking, birthday, movies, fun, money, parties, work, psp, rani
+tags: ["general","hacking","birthday","movies","fun","money","parties","work","psp","rani"]
 title: 'good long weekend. '
 wordpress_id: 1125
 wordpress_url: http://www.nata2.org/?p=1125

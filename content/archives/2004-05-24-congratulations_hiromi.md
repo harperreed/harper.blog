@@ -2,7 +2,7 @@
 date: 2004-05-24T03:46:47Z
 excerpt: 'hiromi graduated from the art institute on saturday. good job. here are
   the pictures. '
-tags: job, war, rock, crobar, matiss, hiromi
+tags: ["job","war","rock","crobar","matiss","hiromi"]
 title: congratulations hiromi
 wordpress_id: 869
 wordpress_url: http://new.nata2.org/?p=869

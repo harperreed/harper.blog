@@ -1,7 +1,6 @@
 ---
 date: 2007-12-07T00:11:21Z
-tags: technology, chicago, humor, fun, ignite, ignite-chicago, tech-community, giraffes,
-  mustaches
+tags: ["technology","chicago","humor","fun","ignite","ignite-chicago","tech-community","giraffes","mustaches"]
 title: Chicago Ignite! Our presentation
 wordpress_id: 1498
 wordpress_url: http://www.nata2.org/2007/12/07/chicago-ignite-our-presentation/

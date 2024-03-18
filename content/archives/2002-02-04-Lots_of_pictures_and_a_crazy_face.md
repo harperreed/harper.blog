@@ -2,7 +2,7 @@
 date: 2002-02-04T22:51:38Z
 excerpt: I posted lots and lots of pictures today. About 50mb of pictures. hehe. Check
   em out here, here and here. Oh check me
-tags: fashion, juggling, health
+tags: ["fashion","juggling","health"]
 title: Lots of pictures and a crazy face
 wordpress_id: 202
 wordpress_url: http://new.nata2.org/?p=202

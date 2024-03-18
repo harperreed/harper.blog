@@ -4,7 +4,7 @@ excerpt: so we have been workign to launch this search engine for a couple weeks
   - and I think we got it. congrats everyone involved. hehe. i have been playing a
   lot. tonight I made a juke box for some friends, I hooked up my new website, and
   I slept from 6-10
-tags: phone, search, war, community, hacker, crobar, chris, action, itunes, nokia
+tags: ["phone","search","war","community","hacker","crobar","chris","action","itunes","nokia"]
 title: i am hungry for launch.
 wordpress_id: 904
 wordpress_url: http://new.nata2.org/?p=904

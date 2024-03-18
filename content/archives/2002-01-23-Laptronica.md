@@ -5,7 +5,7 @@ excerpt: Last night I went out to this club and saw some of the strangest and mo
   of sorts between two "laptronica" teams. Each team had a tellytubby to fight out
   the matchs wrestling-style. The music was bomb and the teams were funny shit. I
   have never in all my years seen something so amusing. hehI also mana...
-tags: chicago, music
+tags: ["chicago","music"]
 title: Laptronica
 wordpress_id: 186
 wordpress_url: http://new.nata2.org/?p=186

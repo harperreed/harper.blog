@@ -1,6 +1,6 @@
 ---
 date: 2008-07-13T23:35:22Z
-tags: general, travel, japan, tokyo, friends, aa-camp, barcamp
+tags: ["general","travel","japan","tokyo","friends","aa-camp","barcamp"]
 title: Japan Tech Friends
 wordpress_id: 1540
 wordpress_url: http://www.nata2.org/?p=1540

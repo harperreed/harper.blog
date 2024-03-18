@@ -2,7 +2,7 @@
 date: 2001-07-11T16:04:42Z
 excerpt: While finalizing all of my hosting problems i made a Write Up of the experience.
   Check it out. Also i made a solution. HeHe tell me what you think...
-tags: friends, harper, reed, hosting
+tags: ["friends","harper","reed","hosting"]
 title: The final battle
 wordpress_id: 15
 wordpress_url: http://new.nata2.org/?p=15

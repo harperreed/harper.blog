@@ -3,8 +3,7 @@ date: 2004-01-26T19:51:13Z
 excerpt: |-
   this is a long entry
   heh. I wish I really was a darksider. I have had some really weird dreams the past couple days. first I had a dream I was in a bad place. the place was a bed and the other person in the bed didn't want me there but I couldn't leave - so I was attempting to stay on the edge of the bed the whole night. it was an incredibly strange dream - I imagine that a dream ana...
-tags: technology, phone, blogs, internet, server, community, video, school, security,
-  sex, juggling, porn, nyc, festivals, drugs, mobile, networks
+tags: ["technology","phone","blogs","internet","server","community","video","school","security","sex","juggling","porn","nyc","festivals","drugs","mobile","networks"]
 title: 'lentil soup is roasting my ever dark soul: privacy issues!'
 wordpress_id: 735
 wordpress_url: http://new.nata2.org/?p=735

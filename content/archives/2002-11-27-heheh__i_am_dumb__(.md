@@ -5,7 +5,7 @@ excerpt: so I am traveling to colorado, the colorful colorado mind you, and I br
   to bring my goddamn dvd drive. it is sitting on my desk. suxor am i. I am not as
   happy about this proclamation. However, I did remember to bring cradle of filth...
   and my discman... so that is avail - if I want it. I even have 14 hours of b...
-tags: colorado, hacking, laptop, aim, sprint, travel
+tags: ["colorado","hacking","laptop","aim","sprint","travel"]
 title: heheh. i am dumb :(
 wordpress_id: 406
 wordpress_url: http://new.nata2.org/?p=406

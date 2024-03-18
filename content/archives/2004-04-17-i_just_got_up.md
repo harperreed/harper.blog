@@ -5,7 +5,7 @@ excerpt: "i am supposed to go juggle with matiss. \nhowever. I lost matiss. \nwh
   it is pretty sad. she was old. and she was a good dog. last night was fun. it was
   a good friday. I hung out with hiromi, claudia, felix and felix's crew. we went
   to crobar and chilled. it was nice. I drank a lit..."
-tags: juggle, sick, crobar, matiss, hiromi
+tags: ["juggle","sick","crobar","matiss","hiromi"]
 title: i just got up
 wordpress_id: 822
 wordpress_url: http://new.nata2.org/?p=822

@@ -4,8 +4,7 @@ excerpt: i have been away. oh yes. I have been away. i got to buffalo on wednesd
   night. dylan arrived shortly after I did and we went to the renegade show at this
   really awesome space called sphere. The renegade show was  pretty awesome - mark
   faje was really funny as the MC and r...
-tags: juggle, jugglers, dylan, family, hacking, war, video, food, juggling, humor,
-  music, matiss, ipod, festivals, yoyoing, itunes, ituneshacking
+tags: ["juggle","jugglers","dylan","family","hacking","war","video","food","juggling","humor","music","matiss","ipod","festivals","yoyoing","itunes","ituneshacking"]
 title: IJA - i.e. i like to juggle lots.
 wordpress_id: 903
 wordpress_url: http://new.nata2.org/?p=903

@@ -5,8 +5,7 @@ excerpt: "something is strangely off about today. maybe it is the cloud cover.. 
   maybe the drama I make up in sentences like the last one. ;).. but no matter what
   it is.. it looks like bush and his iraq issue is coming to a head.\r\napparently
   a outspoken and often-ally of bush is making statements about how "
-tags: war, insane, bush, security, action, military, mom, terrorism, india, politics,
-  politic, iraq
+tags: ["war","insane","bush","security","action","military","mom","terrorism","india","politics","politic","iraq"]
 title: today is kinda weird
 wordpress_id: 343
 wordpress_url: http://new.nata2.org/?p=343

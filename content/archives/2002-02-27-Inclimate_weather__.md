@@ -5,7 +5,7 @@ excerpt: I remember when a friend of mine used to allude to my relationships as 
   answer. It was fun. Today I went to watch breakdancing. It would have been fun,
   if it hadn't been canceled. suxors. However. rigth before break dancing I talked
   to a new friend on the phone for quite awhile. It was nice. It is fun to mee...
-tags: phone, matiss
+tags: ["phone","matiss"]
 title: Inclimate weather..
 wordpress_id: 218
 wordpress_url: http://new.nata2.org/?p=218

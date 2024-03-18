@@ -5,7 +5,7 @@ excerpt: i totally didn't know that my blog was public. haha. jk. so I was talki
   in a meeting about rss feeds. I was used to demonstrate how "people need to keep
   in mind that anybody can read what you post." this was apparently especially true
   in light of my post about me resigning. well. first off....
-tags: php, chicago, hong
+tags: ["php","chicago","hong"]
 title: o m g. i am sooo busted.
 wordpress_id: 942
 wordpress_url: http://new.nata2.org/?p=942

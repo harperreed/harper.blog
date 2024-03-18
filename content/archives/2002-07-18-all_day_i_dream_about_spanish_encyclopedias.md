@@ -5,7 +5,7 @@ excerpt: so all day.. everyday.. for the last couple weeks, I have been developi
   night we went to puffy ami yumi. it was so much fun. they are veyr sarcastic and
   humorous. I caught the water bottle they threw at the crowd, but gave it to the
   women in fron tof me who wanted it so much better. this is the second c...
-tags: nerd, chicago, women, war, bush, humor, music, business, taiwan
+tags: ["nerd","chicago","women","war","bush","humor","music","business","taiwan"]
 title: all day i dream about spanish encyclopedias
 wordpress_id: 324
 wordpress_url: http://new.nata2.org/?p=324

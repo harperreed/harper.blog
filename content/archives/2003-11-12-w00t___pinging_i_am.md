@@ -5,7 +5,7 @@ excerpt: This morning was awesome. I really feel that getting up leisurely at 10
   stuff. but I onlly made it to about 3:30ish.. I was bummed out. I had planned to
   stay up late. but I didn't get a chance to take my much needed afternoon nap. I
   suppose I could have used this opportunity to start doing cocaine ;) hahah. umm...
-tags: nerd, php, blogs, war, sites, school, health
+tags: ["nerd","php","blogs","war","sites","school","health"]
 title: w00t.. pinging i am
 wordpress_id: 675
 wordpress_url: http://new.nata2.org/?p=675

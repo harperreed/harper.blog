@@ -4,7 +4,7 @@ excerpt: So about 6 months ago I graduated from Cornell College.  Besides being 
   annoying and really frustrating, they had an interesting computer science department.
   It was wacky, fun and quite interesting. I didn't learn much - but I had a great
   time participating. To see the level of fun we had, chekc out these quotes. Als...
-tags: cornell, college
+tags: ["cornell","college"]
 title: CSC Quotes
 wordpress_id: 137
 wordpress_url: http://new.nata2.org/?p=137

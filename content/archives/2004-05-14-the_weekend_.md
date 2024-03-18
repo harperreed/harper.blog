@@ -5,7 +5,7 @@ excerpt: as the weekend approaches.. I will be engaging in another weekend long 
   disappearing act when I come back. so you should send me crazy messages to my phone(thanks
   to those that sent me messages the past couple days), which will probably be on
   for the duration of th...
-tags: phone, internet, food, india
+tags: ["phone","internet","food","india"]
 title: the weekend.
 wordpress_id: 863
 wordpress_url: http://new.nata2.org/?p=863

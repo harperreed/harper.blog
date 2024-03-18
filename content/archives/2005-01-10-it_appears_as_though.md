@@ -5,7 +5,7 @@ excerpt: "i haven't really been blogging like I should. eh.. I get annoyed with 
   I start again. heh. a \"never ending\" cycle of horror. heh. eh.. it isn't so bad.
   I don't really mind it. I just haven't had all the extra time in the world. only
   about half of all the extra time. \nspeaking of extra time. I ha..."
-tags: family, sites, programming, movies, experiment
+tags: ["family","sites","programming","movies","experiment"]
 title: it appears as though
 wordpress_id: 978
 wordpress_url: http://new.nata2.org/?p=978

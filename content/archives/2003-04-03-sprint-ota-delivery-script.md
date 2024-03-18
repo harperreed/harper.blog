@@ -1,6 +1,6 @@
 ---
 date: 2003-04-03T11:04:43Z
-tags: general, php, sprint, screensavers, ringtones, ota
+tags: ["general","php","sprint","screensavers","ringtones","ota"]
 title: Sprint OTA delivery script
 wordpress_id: 1165
 wordpress_url: http://www.nata2.org/2003/04/03/sprint-ota-delivery-script/

@@ -1,6 +1,6 @@
 ---
 date: 2006-07-11T21:44:01Z
-tags: general, bus, pissed, public-transportation
+tags: ["general","bus","pissed","public-transportation"]
 title: Sometime public transportation sucks
 wordpress_id: 1302
 wordpress_url: http://www.nata2.org/2006/07/11/sometime-public-transportation-sucks/

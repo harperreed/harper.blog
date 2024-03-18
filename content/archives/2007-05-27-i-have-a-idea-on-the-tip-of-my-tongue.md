@@ -1,6 +1,6 @@
 ---
 date: 2007-05-27T11:32:19Z
-tags: technology, technology, hacking, ideas, jabber, projects, thinking
+tags: ["technology","technology","hacking","ideas","jabber","projects","thinking"]
 title: I have a idea on the tip of my tongue
 wordpress_id: 1446
 wordpress_url: http://www.nata2.org/2007/05/27/i-have-a-idea-on-the-tip-of-my-tongue/

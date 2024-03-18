@@ -1,7 +1,6 @@
 ---
 date: 2007-04-16T17:21:40Z
-tags: technology, technology, php, progressbar, php-progress-bar, progress-bar, prototype-uploads,
-  yui, prototype, pecl, uploadprogress, ajax-uploads, uploads
+tags: ["technology","technology","php","progressbar","php-progress-bar","progress-bar","prototype-uploads","yui","prototype","pecl","uploadprogress","ajax-uploads","uploads"]
 title: PECL Uploadprogress example
 wordpress_id: 1434
 wordpress_url: http://www.nata2.org/2007/04/16/pecl-uploadprogress-example/

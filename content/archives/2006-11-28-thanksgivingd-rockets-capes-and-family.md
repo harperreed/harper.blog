@@ -1,7 +1,6 @@
 ---
 date: 2006-11-28T01:06:21Z
-tags: general, family, colorado, vacation, holidays, insanity, thanksgiving, rockets,
-  capes
+tags: ["general","family","colorado","vacation","holidays","insanity","thanksgiving","rockets","capes"]
 title: 'Thanksgiving''d: Rockets, Capes and family'
 wordpress_id: 1390
 wordpress_url: http://www.nata2.org/2006/11/28/thanksgivingd-rockets-capes-and-family/

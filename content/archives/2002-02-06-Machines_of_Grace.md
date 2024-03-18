@@ -5,7 +5,7 @@ excerpt: So everyday I walk down some street that is being reconstructed. It is 
   enjoy watching the big machinery move about and crush and build and destroy things.
   I often time mistake them for dinosaurs. I mean I know they are not dinosaurs..
   however they could be. I imagine them being the same size as dinosaurs - and ...
-tags: bush, tones
+tags: ["bush","tones"]
 title: Machines of Grace
 wordpress_id: 203
 wordpress_url: http://new.nata2.org/?p=203

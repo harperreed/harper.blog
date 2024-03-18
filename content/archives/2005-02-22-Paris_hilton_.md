@@ -5,7 +5,7 @@ excerpt: 'So as everyone knows - paris hilton''s phonebook was &quot;hacked.&quo
   was nothing more than someone calling up paris and asking for her tmobile password.
   probably something along the lines of:hacker: Hi. I am operator #123 from T-Mobile.
   There has been a se...'
-tags: social, phone, hacker, hacked, mobile, tmobile
+tags: ["social","phone","hacker","hacked","mobile","tmobile"]
 title: Paris hilton.
 wordpress_id: 997
 wordpress_url: http://new.nata2.org/?p=997

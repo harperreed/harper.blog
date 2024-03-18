@@ -1,6 +1,6 @@
 ---
 date: 2007-04-30T13:59:11Z
-tags: general, work, nissan, car
+tags: ["general","work","nissan","car"]
 title: We got a new car
 wordpress_id: 1439
 wordpress_url: http://www.nata2.org/2007/04/30/we-got-a-new-car/

@@ -5,7 +5,7 @@ excerpt: This weekend was a good time. I juggled and yoyoed and gained a bunch o
   yoyo. Lovely. It was quite strange, I met while juggling, a friend of a friends
   that just happened to be the proprietor of a web site I used to frequent. weird.I
   also was able to see my girlfriend. Imagine, just 12 months ago I was pineing ...
-tags: juggle, girlfriend, juggling
+tags: ["juggle","girlfriend","juggling"]
 title: Juggling Festival and the magical mysterious...
 wordpress_id: 124
 wordpress_url: http://new.nata2.org/?p=124

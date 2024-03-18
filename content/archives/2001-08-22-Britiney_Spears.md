@@ -5,7 +5,7 @@ excerpt: I am so excited. I get to see some really crazy concerts soon. First on
   wednesday, i am going to see Madonna. Then on the next friday, built to spill is
   playing, and then way ahead in october, modest mouse. So looks like i am gunna be
   super busy(at least for four nights in the next two mont...
-tags: friends, concerts
+tags: ["friends","concerts"]
 title: Britiney Spears
 wordpress_id: 92
 wordpress_url: http://new.nata2.org/?p=92

@@ -1,6 +1,6 @@
 ---
 date: 2005-08-27T19:40:26Z
-tags: general, awesome, ruling, dork
+tags: ["general","awesome","ruling","dork"]
 title: 'goddamn i rule. '
 wordpress_id: 1121
 wordpress_url: http://www.nata2.org/2005/08/27/goddamn-i-rule/

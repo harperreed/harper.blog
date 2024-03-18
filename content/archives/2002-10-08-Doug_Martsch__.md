@@ -5,7 +5,7 @@ excerpt: Someday I will make it so I can link back to previous articles. If that
   built to spill and I really enjoy them in concert. But since it isn't today I won't
   link to that specific article.. instead I will tell you. I really like built to
   spill and I really enjoy them in concert.. or more appropriatly I really ...
-tags: war, bush
+tags: ["war","bush"]
 title: Doug Martsch..
 wordpress_id: 373
 wordpress_url: http://new.nata2.org/?p=373

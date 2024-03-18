@@ -5,7 +5,7 @@ excerpt: man. I had a rough weekend. I am so so tired. t I r e d . . this entry 
   tuesday. and I can't get better. for some reason - it sucks. I think I lead a unhealthy
   lifestyle.. mostly in terms of eating. but smoking crack so much certainly doesn't
   help. So yesterday miriam left for cologne. I am sad.. I wi...
-tags: sick, health
+tags: ["sick","health"]
 title: whoa nelly..  wtf.. why is that album named that.. seriously..
 wordpress_id: 443
 wordpress_url: http://new.nata2.org/?p=443

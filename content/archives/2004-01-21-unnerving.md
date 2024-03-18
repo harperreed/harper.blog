@@ -4,7 +4,7 @@ excerpt: i really enjoy words. they seem to really add good things to our world.
   want to be smart. someday. someday. I get really worried that my lack of writing
   structure will stifle my ability to exist in "blog" reality. I guess I iwll have
   to defeat my inelequoence by linking to cool stuff. haso here is a really nice movie
-tags: video, humor
+tags: ["video","humor"]
 title: unnerving
 wordpress_id: 731
 wordpress_url: http://new.nata2.org/?p=731

@@ -4,7 +4,7 @@ excerpt: so I think I got a playstation. It should come soon. I am excited to pl
   GTA3. hehe. it should rule. Nobody will know whoever if it actually will. the graphics
   better be dope. or I am returning it. haha. Check this out. ;). So work cancelled
   casual fridays. Which is a rather small deal. However.. I hat edressing up in busines...
-tags: cell, computers, action, business, playstation
+tags: ["cell","computers","action","business","playstation"]
 title: WEstCoast
 wordpress_id: 230
 wordpress_url: http://new.nata2.org/?p=230

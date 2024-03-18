@@ -5,7 +5,7 @@ excerpt: so for the past week or so I have been arrivign at work a lot earlier t
   9. it is insane. cuz by 10, I am already like.. dang.. I have been here a long time.
   heh. whatever. .. so anyway. this morning. I arrived at work and lost my ability
   to use punctuation.. what the fuck. hehe. anyway. I really just arrived at...
-tags: juggle, insane, matiss
+tags: ["juggle","insane","matiss"]
 title: Jugglers of LOVE..
 wordpress_id: 557
 wordpress_url: http://new.nata2.org/?p=557

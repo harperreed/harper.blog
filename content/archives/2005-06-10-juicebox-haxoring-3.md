@@ -1,6 +1,6 @@
 ---
 date: 2005-06-10T00:35:50Z
-tags: general, hacking, juicebox, haxoring, make
+tags: ["general","hacking","juicebox","haxoring","make"]
 title: Juicebox haxoring
 wordpress_id: 1187
 wordpress_url: http://www.nata2.org/2005/06/10/juicebox-haxoring-3/

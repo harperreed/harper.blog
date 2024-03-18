@@ -4,7 +4,7 @@ excerpt: Last night was so dope. We, the J.O.D. juggled at chris holmes' electro
   at te metro. it was sooo much fun. all my friends were there - and it was great
   to juggle with matt, matiss and brad. so much fun. here are pictures. The show was
   insane. first we started wit...
-tags: juggle, jugglers, phone, rock, insane, chris, juggling, matiss, amjad, holmes
+tags: ["juggle","jugglers","phone","rock","insane","chris","juggling","matiss","amjad","holmes"]
 title: The disaster it could have been...
 wordpress_id: 758
 wordpress_url: http://new.nata2.org/?p=758

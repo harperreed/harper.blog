@@ -4,7 +4,7 @@ excerpt: So somehow, a site that I host got slashdotted on monday. It was crazy,
   was working on the site around 5:30. I left work and went home, arriving around
   6:00. My audrey said that she couldn't connect to my mail server around 6:10. So
   i am ...
-tags: server, hacking, audreyhacking, audrey
+tags: ["server","hacking","audreyhacking","audrey"]
 title: slashdot.org sucks...
 wordpress_id: 24
 wordpress_url: http://new.nata2.org/?p=24

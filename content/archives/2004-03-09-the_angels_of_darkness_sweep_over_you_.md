@@ -5,7 +5,7 @@ excerpt: 'i fixed it. well I thought I did. until it wouldn''t reload. I think t
   wierd and dumb. together at last. man it has been a long caffiene drenched day.
   umm. yea. so anyway. my original post was going to be like this: so I modified my
   photolog recently - I made it so the most ...'
-tags: internet, movies, juggling, worldbook, perl, india, travel
+tags: ["internet","movies","juggling","worldbook","perl","india","travel"]
 title: the angels of darkness sweep over you.
 wordpress_id: 772
 wordpress_url: http://new.nata2.org/?p=772

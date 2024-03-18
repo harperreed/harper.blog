@@ -1,6 +1,6 @@
 ---
 date: 2005-08-12T21:11:35Z
-tags: general, travel, hungry, geek, sun, tired
+tags: ["general","travel","hungry","geek","sun","tired"]
 title: 'Radio Fame. '
 wordpress_id: 1110
 wordpress_url: http://www.nata2.org/2005/08/12/radio-fame/

@@ -1,6 +1,6 @@
 ---
 date: 2004-04-01T04:04:55Z
-tags: general, nerd, technology, phones, mobile, tmobile, awesome, review, machine
+tags: ["general","nerd","technology","phones","mobile","tmobile","awesome","review","machine"]
 title: 'Danger Sidekick: nerd machine'
 wordpress_id: 1170
 wordpress_url: http://www.nata2.org/2004/04/01/danger-sidekick-nerd-machine/

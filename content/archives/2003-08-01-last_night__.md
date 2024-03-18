@@ -5,7 +5,7 @@ excerpt: "so last night when I went out with bernie, his friend phil and hiromi.
   It totally was visible. Totally. I am a valley girl apparently. I can?t wait for
   it to get dark. I love the dark. Dark like a wolf.Laser pointer stats:\r\nStandard
   Red laser pointer: 650nm wavelength; "
-tags: server, hiromi
+tags: ["server","hiromi"]
 title: last night..
 wordpress_id: 586
 wordpress_url: http://new.nata2.org/?p=586

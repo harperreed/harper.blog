@@ -1,6 +1,6 @@
 ---
 date: 2006-08-20T20:32:12Z
-tags: general, chicago, sad, insanity, movie, experience, comedy, visitors
+tags: ["general","chicago","sad","insanity","movie","experience","comedy","visitors"]
 title: last night i had the craziest movie experience ever
 wordpress_id: 1327
 wordpress_url: http://www.nata2.org/2006/08/21/last-night-i-had-the-craziest-movie-experience-ever/

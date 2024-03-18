@@ -1,6 +1,6 @@
 ---
 date: 2006-03-03T10:22:52Z
-tags: general, work
+tags: ["general","work"]
 title: 'Worked to death. '
 wordpress_id: 1227
 wordpress_url: http://www.nata2.org/2006/03/03/worked-to-death/

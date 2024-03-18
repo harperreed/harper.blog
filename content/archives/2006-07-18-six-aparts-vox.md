@@ -1,6 +1,6 @@
 ---
 date: 2006-07-18T03:57:50Z
-tags: technology, technology
+tags: ["technology","technology"]
 title: 'Six Apart''s Vox - nice work.. good aggregation... but i don''t want another
   blog. '
 wordpress_id: 1308

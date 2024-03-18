@@ -1,6 +1,6 @@
 ---
 date: 2005-03-24T14:22:48Z
-tags: general, movies, religion, weird, spam
+tags: ["general","movies","religion","weird","spam"]
 title: a couple quick things
 wordpress_id: 1027
 wordpress_url: http://www.nata2.org/2005/03/24/a-couple-quick-things/

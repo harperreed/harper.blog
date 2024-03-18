@@ -4,7 +4,7 @@ excerpt: "Ted Turner is not doing his part to stop my irrational fear of apocaly
   Someday I hope to start an apocalypse cult. I feel it will be fun. I mean - what
   is better than living in fear with 75 close friends. You don'thave to worry about
   silly things like possessions or whatnot. just fear. it will rule. \n"
-tags: family, computers, fear, music, irc, lego
+tags: ["family","computers","fear","music","irc","lego"]
 title: world ender
 wordpress_id: 633
 wordpress_url: http://new.nata2.org/?p=633

@@ -5,8 +5,7 @@ excerpt: I am mad at boston. mostly cuz it doesn't make a damn bit of sense. the
   system was until about 45 minutes ago. also wtf is with the trains that make NO
   sense. serious. No sense at all. and they are really buses.. acting like trains.
   not trains at all. slackers...bush is kinda dumbi have no dou...
-tags: kinnera, phone, chicago, search, war, bush, metal, juggling, vacation, ipod,
-  hong, kong, festivals
+tags: ["kinnera","phone","chicago","search","war","bush","metal","juggling","vacation","ipod","hong","kong","festivals"]
 title: trains like buses
 wordpress_id: 440
 wordpress_url: http://new.nata2.org/?p=440

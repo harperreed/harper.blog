@@ -1,6 +1,6 @@
 ---
 date: 2005-04-10T16:15:15Z
-tags: general, family, colorado, fun, travel, snow
+tags: ["general","family","colorado","fun","travel","snow"]
 title: heh. dichotomy. wtf
 wordpress_id: 1040
 wordpress_url: http://www.nata2.org/2005/04/10/heh-dicotomy-wtf/

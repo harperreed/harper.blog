@@ -5,7 +5,7 @@ excerpt: 'The past couple days have been brilliant. yesterday I went and walked 
   pleasent surprise. I love nice weather. today I spent lunch outside and for the
   first time is awhile was worried about sunburn. heh. stupid skin. So if you have
   a sony wega tv and wanna muck with the internals - try '
-tags: war, google
+tags: ["war","google"]
 title: nice weather
 wordpress_id: 487
 wordpress_url: http://new.nata2.org/?p=487

@@ -3,7 +3,7 @@ date: 2003-10-29T16:16:02Z
 excerpt: 'nata2.info pulled 126287996 kbytes of bandwidth yesterday.that is 126g of
   bandwidth. wow. I have pulled 277397894 kbytes(277g)since the 24th. 64g is from
   AC-130U_gunship_video_high, 27g is from money_funny and 16g is from '
-tags: war, video, movies, humor
+tags: ["war","video","movies","humor"]
 title: jesus christ.
 wordpress_id: 662
 wordpress_url: http://new.nata2.org/?p=662

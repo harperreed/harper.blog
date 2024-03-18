@@ -4,7 +4,7 @@ excerpt: "i am getting my hair done today. I am pretty excited. I am looking for
   to a big change. we shall see. \n\n\ni posted a new versio of the itunesWWW server.
   check it out here. it is still super super super super alpha. so if it breaks everything
   - sucka you lose. ;)\nlast night was pretty nuts. I went home, changed into tigh..."
-tags: phone, server, war, rock, food, crobar, itunes, nokia, ituneswww
+tags: ["phone","server","war","rock","food","crobar","itunes","nokia","ituneswww"]
 title: angry for lunch
 wordpress_id: 905
 wordpress_url: http://new.nata2.org/?p=905

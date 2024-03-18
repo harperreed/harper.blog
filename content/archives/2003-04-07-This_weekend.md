@@ -6,7 +6,7 @@ excerpt: so this weekend was nice. Friday we went to redno and just hung out. th
   up getting a bit drunk do to the long island ice tea that was purchased for me.
   The best part about the night was the company.. some of my good new friends and
   som...
-tags: chicago, war, computers, food, music, irc
+tags: ["chicago","war","computers","food","music","irc"]
 title: This weekend
 wordpress_id: 479
 wordpress_url: http://new.nata2.org/?p=479

@@ -5,7 +5,7 @@ excerpt: since I last updated this page. On thursday.. I found out that I would 
   So I went and rented a car, got servers from one colo facility and brought them
   to virginia. We drove a bundle of hours.. went through indiana, ohio, pennsylvania,
   maryland, virginia and Washington DC. We ended up staying right across from t...
-tags: server, insane, india
+tags: ["server","insane","india"]
 title: a lot has happened
 wordpress_id: 205
 wordpress_url: http://new.nata2.org/?p=205

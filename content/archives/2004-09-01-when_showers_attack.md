@@ -3,8 +3,7 @@ date: 2004-09-01T16:51:59Z
 excerpt: so today - I am chilling - taking a shower and my wall attacked me. I was
   just brushing my teeth in the shower and I turned around and the wall that was facing
   my back lost all the tiles. It was ...
-tags: nerd, phone, cell, chicago, search, war, laptop, juggling, apple, travel, development,
-  nokia, haxored
+tags: ["nerd","phone","cell","chicago","search","war","laptop","juggling","apple","travel","development","nokia","haxored"]
 title: when showers attack
 wordpress_id: 926
 wordpress_url: http://new.nata2.org/?p=926

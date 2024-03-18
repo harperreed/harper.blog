@@ -5,7 +5,7 @@ excerpt: So I am watching 15 minutes. boy.. it isn't great. and robert de niro j
   there should be a law.anyway. I am sitting here watching this movie.. writing on
   my weblog.. chillin.. chekcin email.. now if all this were built into my phone I
   would be happy. real real ha...
-tags: phone, hacking, movies
+tags: ["phone","hacking","movies"]
 title: getting stabbed in the stomach with a knife would really really hurt
 wordpress_id: 362
 wordpress_url: http://new.nata2.org/?p=362

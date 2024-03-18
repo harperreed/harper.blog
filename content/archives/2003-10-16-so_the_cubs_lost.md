@@ -5,7 +5,7 @@ excerpt: 'heh. it sucks. all of my coworkers are gong to be sad. hopefully they 
   in our lives wherre they effect our emotions.. but then if they didn''t.. what good
   would they be. I think sports prepare us for war and conflict. whatever beowulf...we
   have got to elect someone better for president in 2004. '
-tags: war
+tags: ["war"]
 title: so the cubs lost
 wordpress_id: 645
 wordpress_url: http://new.nata2.org/?p=645

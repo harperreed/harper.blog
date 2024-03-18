@@ -5,7 +5,7 @@ excerpt: 'so today.. I didn''t get up at the time I was supposed to. I mean I wa
   but I am sure there was something.so the other day.. cole came over and was building
   a gigantic slot car track. it was increidble. we worked together and now it rules.
   check it out '
-tags: cars, ella
+tags: ["cars","ella"]
 title: youth of today
 wordpress_id: 311
 wordpress_url: http://new.nata2.org/?p=311

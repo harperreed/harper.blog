@@ -5,7 +5,7 @@ excerpt: so .. the last 2 weeks I haven't really hung out or gone out as much as
   I like it.. the stopping.. it was so relaxing and so nice. I hung out with my mom
   and aunt/cousin.. and hung out with marcia a bunch.. and now I am needing to re-introduce
   myself into the "real" world. I really love going out.. but it requires...
-tags: harper, chicago, insane, mom, matiss, girls, irc
+tags: ["harper","chicago","insane","mom","matiss","girls","irc"]
 title: tank destroyer. i mean my head is afire with thought
 wordpress_id: 537
 wordpress_url: http://new.nata2.org/?p=537

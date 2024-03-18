@@ -5,7 +5,7 @@ excerpt: So today I went to a building that was a little over two blocks away to
   Like fed-ex "accidently" dropped it off at a completly unrelated place. wtf. and
   the best part is that the other company totally signed for it ;)hehehe.. I giggled
   the whole way. the best part was that we were totally incompentent at ...
-tags: harper, server, irc, friendster
+tags: ["harper","server","irc","friendster"]
 title: Dell rules!
 wordpress_id: 489
 wordpress_url: http://new.nata2.org/?p=489

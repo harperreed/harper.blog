@@ -5,7 +5,7 @@ excerpt: "today is my bday. I will sing a little song:\ni am 24.. I am 24.. I am
   I am 24.. I am 24.. I am 24.. I am 24.. \ngood song huh. I found a cool winamp plugin
   that allows me to weight songs on a playlist.. which means that my playlists at
   work have 30..."
-tags: war
+tags: ["war"]
 title: My birthday is today
 wordpress_id: 236
 wordpress_url: http://new.nata2.org/?p=236

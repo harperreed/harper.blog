@@ -5,7 +5,7 @@ excerpt: "WhooHoo\nSo i am in chicago now. It is noce. I have a rather bomb apar
   is wonderful. My job is working out well - i wish i made more money.. hehe.. \nI
   had to buy a new monitor, damn.. a 19\" one at that.. heh.. its nice however. things
   are going well. i am lonly sometimes. cuz ..."
-tags: sites, job, chicago
+tags: ["sites","job","chicago"]
 title: Chicago.. The final Frontier
 wordpress_id: 88
 wordpress_url: http://new.nata2.org/?p=88

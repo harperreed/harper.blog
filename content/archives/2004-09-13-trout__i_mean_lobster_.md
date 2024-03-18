@@ -5,7 +5,7 @@ excerpt: i really want to go dancing - big band style. all of a sudden. or just 
   "business casual" clothing. I really want to just wear jeans. or whatever. just
   something that isn't "business casual." I suppose I will get over it. ;) I go through
   these...
-tags: phone, video, rock, college, action, metal, business, hong, kong, nokia
+tags: ["phone","video","rock","college","action","metal","business","hong","kong","nokia"]
 title: trout. i mean lobster.
 wordpress_id: 932
 wordpress_url: http://new.nata2.org/?p=932

@@ -4,8 +4,7 @@ excerpt: this is pretty funny. sometimes I wish I had a secret place to store th
   like a mary poppins bag of sorts that I could carry around and remove HUGE objects
   from. it would rule. but that technology is full of ninjas right now.tonight I watched
   anchorman. it was very funny. I LOVED brick. that actor cracks me up. he sure love...
-tags: books, technology, php, chicago, war, video, food, movies, watership, music,
-  aim, games, matiss, broox, hiromi, amjad
+tags: ["books","technology","php","chicago","war","video","food","movies","watership","music","aim","games","matiss","broox","hiromi","amjad"]
 title: totoro. medicine women
 wordpress_id: 899
 wordpress_url: http://new.nata2.org/?p=899

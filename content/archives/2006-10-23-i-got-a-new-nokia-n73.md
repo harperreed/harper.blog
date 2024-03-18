@@ -1,6 +1,6 @@
 ---
 date: 2006-10-23T01:08:00Z
-tags: technology, phones, mobile, nokia, awesome, e61, n70, n73, import
+tags: ["technology","phones","mobile","nokia","awesome","e61","n70","n73","import"]
 title: I got a new Nokia N73
 wordpress_id: 1375
 wordpress_url: http://www.nata2.org/2006/10/23/i-got-a-new-nokia-n73/

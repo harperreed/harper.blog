@@ -5,7 +5,7 @@ excerpt: after writing to myself on here. haha. now sleep is the next bet. I do 
   my talking myself down is posting my feelings which are inside of me to a public
   web page. haha. I rule the new school. obviously. blog privacy/public dynamics are
   ver...
-tags: school, source, google
+tags: ["school","source","google"]
 title: i feel better
 wordpress_id: 843
 wordpress_url: http://new.nata2.org/?p=843

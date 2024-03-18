@@ -5,7 +5,7 @@ excerpt: Last night I released on eof my first GPLd software apps. It was fun. C
   I am tired again. I didn't really get sleep. in fact I got the opposite of sleep.
   a kick in the head. stupid heads. I got some new buttons - one with mary, one with
   tux, one with a pentegra...
-tags: war, coding, google, screensaver
+tags: ["war","coding","google","screensaver"]
 title: lalala connect the dots..
 wordpress_id: 476
 wordpress_url: http://new.nata2.org/?p=476

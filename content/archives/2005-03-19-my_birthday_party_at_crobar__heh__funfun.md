@@ -5,7 +5,7 @@ excerpt: "I am sitting here listening to the misfits. oh how I love the misfits.
   - hiroimi and I went to the body worlds\nexhibit. it was hand down the craziest
   thing I have EVER seen. EVER.\ntotally insane. real people. dead. and made into
   plastic. totally\ncrazy. I don't relaly know what to think...."
-tags: general, juggle, crobar, insane, birthday, juggling, party
+tags: ["general","juggle","crobar","insane","birthday","juggling","party"]
 title: my birthday party at crobar. heh. funfun
 wordpress_id: 1010
 wordpress_url: http://new.nata2.org/?p=1010

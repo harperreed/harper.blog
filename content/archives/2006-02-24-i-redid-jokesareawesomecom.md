@@ -1,6 +1,6 @@
 ---
 date: 2006-02-24T02:14:37Z
-tags: general, harper, sites, humor, jokes, funny, me
+tags: ["general","harper","sites","humor","jokes","funny","me"]
 title: I redid jokesareawesome.com
 wordpress_id: 1219
 wordpress_url: http://www.nata2.org/2006/02/24/i-redid-jokesareawesomecom/

@@ -4,7 +4,7 @@ excerpt: "now hopefully nothing falls apart in the next 12 hours. \n\nthis is pr
   funny. heh. stupid states vote republican. ;) haha. umm yea. stupid colorado. omg.
   I am tired. I just got done from a marathon meeting about search engine features.
   w00t\nnow home.i am feeling pretty good. it has be..."
-tags: phone, colorado, search, school, india, travel
+tags: ["phone","colorado","search","school","india","travel"]
 title: everything is coming together
 wordpress_id: 848
 wordpress_url: http://new.nata2.org/?p=848

@@ -5,7 +5,7 @@ excerpt: today I went to a fancy shoe sale and bought me fancy boots. here is th
   been playing with itunes.. it is pretty rocking. I am gunna have to figure out how
   to RULE the aac files. stripping out the ownership bit and what not. so then I can
   transfer the ...
-tags: rock, itunes
+tags: ["rock","itunes"]
 title: i got fancy boots.. lalalalalal
 wordpress_id: 648
 wordpress_url: http://new.nata2.org/?p=648

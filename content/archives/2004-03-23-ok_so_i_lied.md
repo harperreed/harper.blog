@@ -5,7 +5,7 @@ excerpt: i was able to fix my photolog in like 3 minutes. it worked out FINE. ha
   demensions. however. I think the next step will be hooking GD into the photolog
   software to create thumbnails. heh. I think it will be worth it. and it will rule.
   RULE I say. i am able to bypass MMS and use t...
-tags: php, phone, war, design
+tags: ["php","phone","war","design"]
 title: ok so i lied
 wordpress_id: 792
 wordpress_url: http://new.nata2.org/?p=792

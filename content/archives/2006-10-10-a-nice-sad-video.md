@@ -1,6 +1,6 @@
 ---
 date: 2006-10-10T00:22:50Z
-tags: general, video, apple, phones, sad, mythtv, torrentocracy
+tags: ["general","video","apple","phones","sad","mythtv","torrentocracy"]
 title: A nice sad video
 wordpress_id: 1362
 wordpress_url: http://www.nata2.org/2006/10/10/a-nice-sad-video/

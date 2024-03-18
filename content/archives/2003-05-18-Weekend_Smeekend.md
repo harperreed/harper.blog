@@ -5,7 +5,7 @@ excerpt: So the weekend is over.. well almost. tonight I think we are going to s
   katie to see the faint. We left rather quickly.. the faint sucked it up.. haha.
   not really.. but I didn't really enjoy them as much as I had in the past.. so I
   was done with it rather quickly.. heh. Then last night we went to an underwear pa...
-tags: phone, ipod
+tags: ["phone","ipod"]
 title: Weekend Smeekend
 wordpress_id: 512
 wordpress_url: http://new.nata2.org/?p=512

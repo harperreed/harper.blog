@@ -1,7 +1,7 @@
 ---
 date: 2002-11-08T16:54:50Z
 excerpt: 'Here are some really messed up pictures: one, two, three, four, '
-tags: harper, php, war, humor
+tags: ["harper","php","war","humor"]
 title: guantanamo airlines
 wordpress_id: 391
 wordpress_url: http://new.nata2.org/?p=391

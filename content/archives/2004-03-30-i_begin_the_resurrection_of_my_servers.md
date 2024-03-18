@@ -5,7 +5,7 @@ excerpt: so I sent my boss notice today that I will be taking friday the 9th of 
   increases the stress level and my need to work. ;) no more hanging out. haha. well
   a little hanging out. it won't take that much time really. I magically and with
   great luck configured my other box so upgrading should (**should*...
-tags: server, war, mom
+tags: ["server","war","mom"]
 title: i begin the resurrection of my servers
 wordpress_id: 799
 wordpress_url: http://new.nata2.org/?p=799

@@ -1,6 +1,6 @@
 ---
 date: 2007-01-04T06:20:59Z
-tags: general
+tags: ["general"]
 title: The longest time with no Internet in recent memory
 wordpress_id: 1401
 wordpress_url: http://www.nata2.org/2007/01/04/the-longest-time-with-no-internet-in-recent-memory/

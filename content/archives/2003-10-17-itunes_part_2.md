@@ -5,8 +5,7 @@ excerpt: So I have been using itunes for around 24 hours now. I have come to the
   diverse set of vendors - all of who struggle.. so each product ends up having its
   own variation on the solution.. they each have unique features.. and eventually
   one or two products win. The PC software world seems to be based a bit mo...
-tags: nerd, php, internet, war, music, design, windows, apple, ipod, applications,
-  itunes
+tags: ["nerd","php","internet","war","music","design","windows","apple","ipod","applications","itunes"]
 title: itunes part 2
 wordpress_id: 649
 wordpress_url: http://new.nata2.org/?p=649

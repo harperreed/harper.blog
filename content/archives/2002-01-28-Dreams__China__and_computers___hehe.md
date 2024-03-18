@@ -5,7 +5,7 @@ excerpt: So I often have computer dreams. I dream of editing something in VI or 
   night I dreamt of trying to install a motherboard ethernet card into another motherboard...
   so I had to unsolder everything out and resolder it in. heh. I don't know hardware
   that well so it was hard. The other dream I had was that th...
-tags: war
+tags: ["war"]
 title: Dreams. China. and computers.. hehe
 wordpress_id: 193
 wordpress_url: http://new.nata2.org/?p=193

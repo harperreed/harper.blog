@@ -5,7 +5,7 @@ excerpt: 'this domain I just purchased. it is gone. disappeared. hopefully it wi
   or something. I hate phlegm. so gross. I feel like demons are being spawned from
   my orifaces every morning. it is disgusting. whee. love gross. no I have to find
   this domain. '
-tags: sick
+tags: ["sick"]
 title: today i lost it
 wordpress_id: 890
 wordpress_url: http://new.nata2.org/?p=890

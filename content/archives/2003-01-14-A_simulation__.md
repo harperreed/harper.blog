@@ -2,7 +2,7 @@
 date: 2003-01-14T23:16:12Z
 excerpt: A simulation of war with IRAQ. RULE. I have always loved propaganda, but
   the whitehouse is dumb as rocks when it comes to this stupid wa...
-tags: war, rock, politics, politic, iraq, ipod
+tags: ["war","rock","politics","politic","iraq","ipod"]
 title: A simulation..
 wordpress_id: 432
 wordpress_url: http://new.nata2.org/?p=432

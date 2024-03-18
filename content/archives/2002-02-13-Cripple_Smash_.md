@@ -5,7 +5,7 @@ excerpt: 'Heh. I really want to port cripple smash to the web. I was in contact 
   right now in pascal. I guess I could convert it to delphi and release a windows
   binary. heh. If you want, you can download the original BBS door, but you will need
   a '
-tags: php, author, cripple, smash, windows
+tags: ["php","author","cripple","smash","windows"]
 title: Cripple Smash.
 wordpress_id: 209
 wordpress_url: http://new.nata2.org/?p=209

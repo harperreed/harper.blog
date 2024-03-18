@@ -1,6 +1,6 @@
 ---
 date: 2005-07-20T06:11:30Z
-tags: general, work, cleaning
+tags: ["general","work","cleaning"]
 title: hehe. life in shambles part 2
 wordpress_id: 1097
 wordpress_url: http://www.nata2.org/2005/07/20/hehe-life-in-shambles-part-2/

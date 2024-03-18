@@ -2,7 +2,7 @@
 date: 2004-06-14T14:26:17Z
 excerpt: 'so the past month - I have reengaged my ears in a black metal journey. it
   is awesome. I '
-tags: juggle, php, phone, sick, blood, metal, author, music, aim, matiss, apple, nokia
+tags: ["juggle","php","phone","sick","blood","metal","author","music","aim","matiss","apple","nokia"]
 title: yoyoyo all the good men are dieing.
 wordpress_id: 883
 wordpress_url: http://new.nata2.org/?p=883

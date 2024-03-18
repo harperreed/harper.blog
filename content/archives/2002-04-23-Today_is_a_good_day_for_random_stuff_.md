@@ -4,7 +4,7 @@ excerpt: |-
   i love legos?, they rule. and I love morbid stuff. so when you combine the two, I laugh.
 
   So for the longest time I saw this guy all over the net and I couldn't figure out wtf was going on. until I read this. i...
-tags: harper, reed, php, hacking, audreyhacking, audrey, matiss, philosophy, lego
+tags: ["harper","reed","php","hacking","audreyhacking","audrey","matiss","philosophy","lego"]
 title: Today is a good day for random stuff.
 wordpress_id: 269
 wordpress_url: http://new.nata2.org/?p=269

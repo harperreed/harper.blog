@@ -5,7 +5,7 @@ excerpt: So this weekend was rather nice. On friday, some friends and I went and
   of crazy violence. it was insane. blown knees and all. then hiromi, lavi and I went
   to dinner. hiromi and I went and visited marcia - but we were all so tired. so we
   we...
-tags: server, school, insane, movies, hiromi
+tags: ["server","school","insane","movies","hiromi"]
 title: BBQ and juggling.
 wordpress_id: 619
 wordpress_url: http://new.nata2.org/?p=619

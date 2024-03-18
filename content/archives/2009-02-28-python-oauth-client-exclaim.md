@@ -1,6 +1,6 @@
 ---
 date: 2009-02-28T17:04:04Z
-tags: technology, twitter, python, oauth, appengine
+tags: ["technology","twitter","python","oauth","appengine"]
 title: Python Oauth Client - Excla.im
 wordpress_id: 1606
 wordpress_url: http://www.nata2.org/?p=1606

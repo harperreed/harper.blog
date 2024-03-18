@@ -5,7 +5,7 @@ excerpt: "I am sleepy\nI should have gone to bed sooner. It is now really late. 
   soon. I like getting my hair cut. It is a nice thing to have happen. I wish I wasn't
   sleepy and sick.. and going to be more sick.. because I would be happier.. \nI have
   a problem of hittin gthe space bar too quickly. I am too fast fo..."
-tags: women, sick, metal
+tags: ["women","sick","metal"]
 title: It is far too late..
 wordpress_id: 244
 wordpress_url: http://new.nata2.org/?p=244

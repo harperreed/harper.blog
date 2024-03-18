@@ -1,6 +1,6 @@
 ---
 date: 2002-11-01T12:11:20Z
-tags: general, community, awesome, drm, digital, rights
+tags: ["general","community","awesome","drm","digital","rights"]
 title: Community &amp; Digital Rights
 wordpress_id: 1164
 wordpress_url: http://www.nata2.org/2002/11/01/community-digital-rights/

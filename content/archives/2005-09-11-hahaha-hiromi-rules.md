@@ -1,6 +1,6 @@
 ---
 date: 2005-09-11T02:10:46Z
-tags: general, humor
+tags: ["general","humor"]
 title: hahaha. hiromi rules
 wordpress_id: 1128
 wordpress_url: http://www.nata2.org/2005/09/11/hahaha-hiromi-rules/

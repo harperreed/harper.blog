@@ -5,7 +5,7 @@ excerpt: So this weekend was the weekend of roomate house warming parties. It wa
   band and my friends name. They played with some other friends of mine.. Tallulah.
   heh. what a surprise. but anyway. so then after that I went to a friends house warming
   party. what a night. a bunch of people got naked and ran around.. mostly danc...
-tags: juggle, war
+tags: ["juggle","war"]
 title: Weekend Schmeekend
 wordpress_id: 351
 wordpress_url: http://new.nata2.org/?p=351

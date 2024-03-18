@@ -5,7 +5,7 @@ excerpt: so last night after morgan left I felt pretty good. like. "ok this will
   I wake up. it is not easier. it is not fun. I really don't want this to be happening.
   honestly. I am really sad. I don't really want to goto work. I don't really want
   to hang out. I look to checking my email in case she sent me one. I am afr...
-tags: internet, war, girlfriend, aim
+tags: ["internet","war","girlfriend","aim"]
 title: this sucks. i have decided
 wordpress_id: 785
 wordpress_url: http://new.nata2.org/?p=785

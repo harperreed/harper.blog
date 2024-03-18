@@ -1,6 +1,6 @@
 ---
 date: 2006-07-22T20:58:10Z
-tags: technology, linux, rants
+tags: ["technology","linux","rants"]
 title: Why linux isn't mainstream? Bullshit!
 wordpress_id: 1310
 wordpress_url: http://www.nata2.org/2006/07/22/why-linux-isnt-mainstream-bullshit/

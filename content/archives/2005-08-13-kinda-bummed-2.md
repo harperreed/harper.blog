@@ -1,6 +1,6 @@
 ---
 date: 2005-08-13T20:57:27Z
-tags: general, books, travel, sad, awesome, bummed
+tags: ["general","books","travel","sad","awesome","bummed"]
 title: kinda bummed
 wordpress_id: 1112
 wordpress_url: http://www.nata2.org/2005/08/13/kinda-bummed-2/

@@ -4,7 +4,7 @@ excerpt: So on friday I went out to eat with my friend hilary and my roomie hiro
   we went to irazu. it was great. we then went to mark's gallery opening. it was nice
   and small. chris called and we then went to sushi wabi to meet felix and friends
   for food. I lvoe sushi wabi. jill was worki...
-tags: video, food, crobar, insane, chris, matiss, hiromi, sushi
+tags: ["video","food","crobar","insane","chris","matiss","hiromi","sushi"]
 title: crobar.. weekend at marks.. yoyos.. etc..
 wordpress_id: 679
 wordpress_url: http://new.nata2.org/?p=679

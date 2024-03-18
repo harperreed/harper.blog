@@ -6,8 +6,7 @@ excerpt: This morning I was on the train and this super cute bundled child got o
   eyes were showing. she was a colorful ball of warm cloth it seemed. soshe and her
   guardian were standing on the train near me and just chilling. and suddenly out
   of ...
-tags: job, juggle, jugglers, php, war, food, movies, watership, juggling, matiss,
-  hiromi
+tags: ["job","juggle","jugglers","php","war","food","movies","watership","juggling","matiss","hiromi"]
 title: train of thought
 wordpress_id: 749
 wordpress_url: http://new.nata2.org/?p=749

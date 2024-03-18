@@ -5,7 +5,7 @@ excerpt: today I got up late for work again. it is stupid. I recently oredered a
   through the alarm. so if I forget to set my phone to ring.. I won't ever get up.
   I hate it. I need to replace my new alarm clock with my old one. my old one is super
   sketchy too. dayum alarm clocks. I am upset about my lack of ability in flo...
-tags: books, kinnera, phone, hacked, music, phones
+tags: ["books","kinnera","phone","hacked","music","phones"]
 title: i am incompetent
 wordpress_id: 733
 wordpress_url: http://new.nata2.org/?p=733

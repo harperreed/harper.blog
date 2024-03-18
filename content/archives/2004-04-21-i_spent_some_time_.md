@@ -3,7 +3,7 @@ date: 2004-04-21T16:47:04Z
 excerpt: today has been pretty good so far. last night was fun. I went to juggling
   club. yoyoed a bunch and then went to see the stare play at  the mutiny. god I hate
   the mutiny. but the ...
-tags: phone, juggling, india, hiromi, travel, nokia
+tags: ["phone","juggling","india","hiromi","travel","nokia"]
 title: i spent some time.
 wordpress_id: 827
 wordpress_url: http://new.nata2.org/?p=827

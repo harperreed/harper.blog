@@ -4,7 +4,7 @@ excerpt: I woke up and attempted my hardest to not make it to work. however, muc
   to my chagrin, I now find myself at work. on the way in - I listened to midnight
   oil's diesel and dust. I have been listening to music from my past lately. it is
   pretty fun. yesterday I purchased a bunch of crosby and nash and then a b...
-tags: war, food, movies, music, broox, apple
+tags: ["war","food","movies","music","broox","apple"]
 title: this morning.
 wordpress_id: 762
 wordpress_url: http://new.nata2.org/?p=762

@@ -1,6 +1,6 @@
 ---
 date: 2006-05-18T20:51:19Z
-tags: general, hacking, sad, servers, firewall, colocation
+tags: ["general","hacking","sad","servers","firewall","colocation"]
 title: horrible things...
 wordpress_id: 1269
 wordpress_url: http://www.nata2.org/2006/05/18/horrible-things/

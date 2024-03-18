@@ -5,7 +5,7 @@ excerpt: So I am now at work. Vacations are nice. some would say vacations are k
   19 dvds from my brothers hollywood video store and got 11 from hong kong. I am excited.
   Soon I will have to make a dvd database so you can all peruse my dvd collection.
   I also plan on buying a new tv soon.. probably a wega. but I don't kno...
-tags: video, bush, vacation, health, politics, politic, iraq, hong, kong
+tags: ["video","bush","vacation","health","politics","politic","iraq","hong","kong"]
 title: welcome back.
 wordpress_id: 333
 wordpress_url: http://new.nata2.org/?p=333

@@ -5,7 +5,7 @@ excerpt: I made this cuz I was bored. It takes all my friends blogs(if you want 
   pretty. Recently I have had a bunch of friends break up/have trauma within their
   relationsihps. it is screwed up. I don't understand it. spring is here. well sorta.
   it isn't really in chicag...
-tags: php, chicago, blogs, war, metal, juggling
+tags: ["php","chicago","blogs","war","metal","juggling"]
 title: blogger die
 wordpress_id: 501
 wordpress_url: http://new.nata2.org/?p=501

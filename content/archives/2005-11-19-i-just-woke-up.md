@@ -1,6 +1,6 @@
 ---
 date: 2005-11-19T21:21:54Z
-tags: general, food, websites, weekend
+tags: ["general","food","websites","weekend"]
 title: i just woke up
 wordpress_id: 1150
 wordpress_url: http://www.nata2.org/2005/11/19/i-just-woke-up/

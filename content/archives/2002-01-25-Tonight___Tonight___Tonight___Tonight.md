@@ -5,7 +5,7 @@ excerpt: Well. Tonight I slept. Well I went to a bar after work with coworkers g
   negated any sleep by staying up way late. I then watched a bunch of TV and rotted
   my mind. Sometimes.. I feel like contirbuting to the delinquency of my palm pilot.
   So I keep looking at all the nifty INFOSEC stuff available right now. Like all t...
-tags: job
+tags: ["job"]
 title: Tonight.. Tonight.. Tonight.. Tonight
 wordpress_id: 191
 wordpress_url: http://new.nata2.org/?p=191

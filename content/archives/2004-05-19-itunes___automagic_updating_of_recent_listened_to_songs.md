@@ -4,7 +4,7 @@ excerpt: recently apple released a pretty good COM sdk for its itunes program. m
   friend ajc created some sample code that would post whatever song you are listening
   to currently to a webpage. I found this pretty cool. and quite handy. so I implement
   my own v...
-tags: programming, apple, itunes, myspace
+tags: ["programming","apple","itunes","myspace"]
 title: itunes.. automagic updating of recent listened to songs
 wordpress_id: 866
 wordpress_url: http://new.nata2.org/?p=866

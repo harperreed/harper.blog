@@ -5,7 +5,7 @@ excerpt: today I woke up on the wrong side of the bed.. which is incredibly hard
   and screwed up today. it is a pain. first off I locked myself out of  my apartment..
   I wasn't even ready to leave.. but I left.. then realized I didn't have anything
   but my cell phone.. so I was able to call and wake matiss to have him le...
-tags: phone, cell, war, matiss, taiwan, hiromi, ella
+tags: ["phone","cell","war","matiss","taiwan","hiromi","ella"]
 title: good morning.. or not
 wordpress_id: 721
 wordpress_url: http://new.nata2.org/?p=721

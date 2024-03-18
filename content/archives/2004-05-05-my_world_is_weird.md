@@ -5,7 +5,7 @@ excerpt: the whole thing is so strange. I think I coudl say that right now I am 
   to work, india, morgan, friends, general life, real estate, money. yea know. the
   good stuff. all that stuff just creates such anxiety in my life. it is so so weird.
   however, as confusing as it is, it isn't bad. in fact a lot...
-tags: blogs, war, india, apple
+tags: ["blogs","war","india","apple"]
 title: my world is weird
 wordpress_id: 846
 wordpress_url: http://new.nata2.org/?p=846

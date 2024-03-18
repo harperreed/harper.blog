@@ -1,6 +1,6 @@
 ---
 date: 2005-08-25T16:37:30Z
-tags: general, technology, hiromi, work, geek
+tags: ["general","technology","hiromi","work","geek"]
 title: work is fun
 wordpress_id: 1117
 wordpress_url: http://www.nata2.org/2005/08/25/work-is-fun/

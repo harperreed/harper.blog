@@ -1,6 +1,6 @@
 ---
 date: 2007-09-16T19:55:01Z
-tags: general, books, reading, lists
+tags: ["general","books","reading","lists"]
 title: Recent readings. All the books in the past few weeks
 wordpress_id: 1478
 wordpress_url: http://www.nata2.org/2007/09/16/recent-readings/

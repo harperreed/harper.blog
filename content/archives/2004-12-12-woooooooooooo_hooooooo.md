@@ -5,7 +5,7 @@ excerpt: this weekend was really fun. I liked it. basically I just hung out and 
   on thrusday (as it always does)... so thursday I went to sushi wabi with claudia.
   then to sonotech. and I saw elisa. I was so excited.  I hadn't seen her in ages.
   I lke my friends. then we went to bungalow to see jordan and chad -...
-tags: video, chris, christmas, music, games, matiss, sushi
+tags: ["video","chris","christmas","music","games","matiss","sushi"]
 title: woooooooooooo hooooooo
 wordpress_id: 970
 wordpress_url: http://new.nata2.org/?p=970

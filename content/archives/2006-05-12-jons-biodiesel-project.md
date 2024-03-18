@@ -1,6 +1,6 @@
 ---
 date: 2006-05-12T19:58:51Z
-tags: general, biodiesel, renewable, energy, diesel, asu, epa, appalachian, sustainability
+tags: ["general","biodiesel","renewable","energy","diesel","asu","epa","appalachian","sustainability"]
 title: Jon's biodiesel project
 wordpress_id: 1265
 wordpress_url: http://www.nata2.org/2006/05/12/jons-biodiesel-project/

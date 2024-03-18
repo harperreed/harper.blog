@@ -4,7 +4,7 @@ excerpt: well maybe not quite that extreme - but a bunch of cool/fun things happ
   today. first I was attacked on a juggling b board about my rattail - so I defended...
   a bit unsuccessfully - but I tried. then I am going to be helping with a secret
   project. which is going to rule. last night I yoyoed a bunch ...
-tags: kinnera, rock, juggling, nyc
+tags: ["kinnera","rock","juggling","nyc"]
 title: apparently i am teh r0x0r
 wordpress_id: 732
 wordpress_url: http://new.nata2.org/?p=732

@@ -1,6 +1,6 @@
 ---
 date: 2010-02-11T01:44:15Z
-tags: general, phones, mobile, femtocell, developing-nations
+tags: ["general","phones","mobile","femtocell","developing-nations"]
 title: 'Musings about femtocells: the futures!'
 wordpress_id: 1669
 wordpress_url: http://www.nata2.org/?p=1669

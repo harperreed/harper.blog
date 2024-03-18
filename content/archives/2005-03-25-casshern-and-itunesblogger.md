@@ -1,6 +1,6 @@
 ---
 date: 2005-03-25T12:14:47Z
-tags: general, sites, movies, hong, kong, itunes, itunesblogger, kung, fu
+tags: ["general","sites","movies","hong","kong","itunes","itunesblogger","kung","fu"]
 title: casshern and itunesblogger
 wordpress_id: 1029
 wordpress_url: http://www.nata2.org/2005/03/25/casshern-and-itunesblogger/

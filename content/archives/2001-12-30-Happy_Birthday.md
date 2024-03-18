@@ -5,7 +5,7 @@ excerpt: Yesterday was kinnera's birthday. Lets all say happy Birthday to her.  
   It was wierd because members of the "pumpkins" were at the show. Often when I see
   famous people it takes me a little while t figure out that they are real. I guess
   that is what I get for living in a fantasy world. Well gnight ...
-tags: kinnera, rock, birthday
+tags: ["kinnera","rock","birthday"]
 title: Happy Birthday
 wordpress_id: 156
 wordpress_url: http://new.nata2.org/?p=156

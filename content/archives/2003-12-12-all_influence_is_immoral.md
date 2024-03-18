@@ -4,7 +4,7 @@ excerpt: I am watching wonder boys right now. it is so good. three movies I real
   enjoy are pirates of the caribbeans, wonder boys and o brother, where art thou.
   those movies are so good. I love them. heh. I LOVE johnny depp. heh. so good. I
   wish I could...
-tags: phone, movies, mom
+tags: ["phone","movies","mom"]
 title: all influence is immoral
 wordpress_id: 696
 wordpress_url: http://new.nata2.org/?p=696

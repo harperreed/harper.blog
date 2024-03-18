@@ -1,6 +1,6 @@
 ---
 date: 2005-05-27T15:43:43Z
-tags: general, concerts, music, google, itunes, musicblogger, viral
+tags: ["general","concerts","music","google","itunes","musicblogger","viral"]
 title: Musicblogger launched. Billy Corgan show. etcetc
 wordpress_id: 1071
 wordpress_url: http://www.nata2.org/2005/05/27/musicblogger-launched-billy-corgan-show-etcetc/

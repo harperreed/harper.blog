@@ -3,7 +3,7 @@ date: 2004-08-13T19:27:50Z
 excerpt: 'i got new shoes. I am excited. I also posted some new pictures. they are
   awesome. first I posted pictures of my cousin showing his steer off. it was pretty
   cool. he got '
-tags: birthday
+tags: ["birthday"]
 title: cool shoes..
 wordpress_id: 916
 wordpress_url: http://new.nata2.org/?p=916

@@ -1,7 +1,6 @@
 ---
 date: 2007-05-27T12:07:43Z
-tags: technology, technology, linux, disruptive, compelling-technology, digital-divide,
-  sugar, vmware, children, laptoporg, olpc
+tags: ["technology","technology","linux","disruptive","compelling-technology","digital-divide","sugar","vmware","children","laptoporg","olpc"]
 title: My thoughts on the OLPC.
 wordpress_id: 1447
 wordpress_url: http://www.nata2.org/2007/05/27/the-olpc-and-the-fascination-it-creates/

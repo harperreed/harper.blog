@@ -3,7 +3,7 @@ date: 2002-10-16T21:58:51Z
 excerpt: It is interesting that when UN is trying to push weapons inspections and
   congress is giving all of our money to defense that the dow drops. I think that
   bush should hurry up
-tags: war, bush, business, india, politics, politic
+tags: ["war","bush","business","india","politics","politic"]
 title: surprise surprise
 wordpress_id: 377
 wordpress_url: http://new.nata2.org/?p=377

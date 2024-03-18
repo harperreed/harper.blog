@@ -5,7 +5,7 @@ excerpt: First, I really miss block breaks. I am horribly stuck. I wish my compa
   really wish that the company I work for was interested in making the employees happy.
   WHich they seemingly arn't. It seems that profit is the key, but even when I can
   identify things which are easy and would save money - getting them ...
-tags: job
+tags: ["job"]
 title: Two things
 wordpress_id: 110
 wordpress_url: http://new.nata2.org/?p=110

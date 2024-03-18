@@ -5,7 +5,7 @@ excerpt: so madfest ruled this weekend. I had a bunch of fun. on friday - I pick
   car happened to be the largest car I have ever driven - a ford expedition. it was
   huge. I felt like I was in a semi. heh. but we all piled in and drove to brads house
   and picked him up. we then drove to madison and went to bed. on saturday we wo...
-tags: juggle, mom, juggling
+tags: ["juggle","mom","juggling"]
 title: madfest weekend.. fun fun
 wordpress_id: 730
 wordpress_url: http://new.nata2.org/?p=730

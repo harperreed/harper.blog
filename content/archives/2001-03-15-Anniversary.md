@@ -5,7 +5,7 @@ excerpt: Well, i am off to colorado in two days. My parents will be having an an
   I am rather excited. The drive will be hell - but whatever.  on a completly different
   note. I am almost completly done with the scripts and tools that manage nata2.com.
   it rules. I can update a billing session with one click and pr...
-tags: friends, kinnera, colorado, tools
+tags: ["friends","kinnera","colorado","tools"]
 title: Anniversary
 wordpress_id: 85
 wordpress_url: http://new.nata2.org/?p=85

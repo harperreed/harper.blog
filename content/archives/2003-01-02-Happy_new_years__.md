@@ -4,7 +4,7 @@ excerpt: well.. I guss that was supposed to happen yesterday. but whatever. So l
   night was quite fun.. or should I say two nights ago.. whener the 31st was. I had
   a good time. we went to a party with some friends of a friend and had really good
   food. then we went to a rocker party.. here are the pictures... i am excited...
-tags: war, rock, food
+tags: ["war","rock","food"]
 title: Happy new years..
 wordpress_id: 424
 wordpress_url: http://new.nata2.org/?p=424

@@ -1,6 +1,6 @@
 ---
 date: 2005-05-20T01:06:38Z
-tags: general, books, awesome, peapod
+tags: ["general","books","awesome","peapod"]
 title: i have discovered the magic of fanciness.
 wordpress_id: 1066
 wordpress_url: http://www.nata2.org/2005/05/20/i-have-discovered-the-magic-of-fanciness/

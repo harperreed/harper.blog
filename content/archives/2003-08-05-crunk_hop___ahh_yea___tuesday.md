@@ -5,7 +5,7 @@ excerpt: i love Lil Jon & the Eastside Boyz. it is so fun to listen to . the ene
   I would love to roll hard in an escalade listening to crunked up dirty south.. that
   is one of my many dreams. another one is to have an M5 and roll with maiden everywhere
   I went. someday I suppose. i love sitting at work listening t...
-tags: search, insane, music, asia, iraq, kungfu
+tags: ["search","insane","music","asia","iraq","kungfu"]
 title: crunk hop.. ahh yea.. tuesday
 wordpress_id: 587
 wordpress_url: http://new.nata2.org/?p=587

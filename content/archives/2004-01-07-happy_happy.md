@@ -5,7 +5,7 @@ excerpt: today is good. I went to bed somewhat early last night(1am) and I got a
   in my blankets but that is totally normal. Last night brad, erica, matiss and myself
   all hung out and talked. it was fun. well the subject matter left a little to be
   desired.. but it wasn't hte fault of the participants. we then played 16 t...
-tags: php, insane, coding, matiss
+tags: ["php","insane","coding","matiss"]
 title: happy happy
 wordpress_id: 717
 wordpress_url: http://new.nata2.org/?p=717

@@ -1,6 +1,6 @@
 ---
 date: 2005-06-01T15:11:14Z
-tags: general, google, weekend, jobs, hack
+tags: ["general","google","weekend","jobs","hack"]
 title: kinda sick. so a summary
 wordpress_id: 1072
 wordpress_url: http://www.nata2.org/2005/06/01/kinda-sick-so-a-summary/

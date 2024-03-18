@@ -5,7 +5,7 @@ excerpt: Sometimes, just when I think I understand something it explodes and blo
   culture. I think it is very similar to the rings on a tree, but rather than age
   - it maps how slow to change the corporation is. Take my institution, it is a very
   old and rather successful company. Ithas ma...
-tags: internet, worldbook, business, corporate
+tags: ["internet","worldbook","business","corporate"]
 title: Corporate Culture
 wordpress_id: 147
 wordpress_url: http://new.nata2.org/?p=147

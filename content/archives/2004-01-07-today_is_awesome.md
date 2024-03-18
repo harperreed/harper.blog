@@ -5,7 +5,7 @@ excerpt: "I saw a post in friendster about sad songs - or songs that make you cr
   list on ironkungfu. check it out here. please add some of your own. \ni am going
   to add a del.icio.us plugin to my site soon. it should rule. then you all can see
   what..."
-tags: books, php, phone, cell, hacking, experiment, kungfu, friendster
+tags: ["books","php","phone","cell","hacking","experiment","kungfu","friendster"]
 title: today is awesome
 wordpress_id: 719
 wordpress_url: http://new.nata2.org/?p=719

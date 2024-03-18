@@ -1,6 +1,6 @@
 ---
 date: 2005-08-03T18:34:09Z
-tags: general, music, electronics, stereo, computer, hot, heat, weather
+tags: ["general","music","electronics","stereo","computer","hot","heat","weather"]
 title: 'damn i am tired. but i scored some speaker equipment. '
 wordpress_id: 1104
 wordpress_url: http://www.nata2.org/?p=1104

@@ -3,7 +3,7 @@ date: 2004-02-24T17:15:47Z
 excerpt: i was so weird yesterday. I didn't want to be at work. so I just did my work
   without mentioning a word to anyone - and I reacted poorly when I was spoken too.
   it was annoying even to me.. I guess I was coming down fro...
-tags: harper, family, war, watership, humor
+tags: ["harper","family","war","watership","humor"]
 title: yesterday i wasn't...
 wordpress_id: 759
 wordpress_url: http://new.nata2.org/?p=759

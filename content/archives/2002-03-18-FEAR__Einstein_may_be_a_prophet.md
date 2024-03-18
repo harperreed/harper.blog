@@ -4,8 +4,7 @@ excerpt: 'Besides ineffectual teachers, and boring classes the United states com
   is threatened with a large scale war that may destroy us all. I was walking along
   the street this weeked and a bike messanger throw what amounted to a handfull of
   flyers in our direction. they said: "G.W. Bush wan...'
-tags: war, video, bush, action, military, tones, politics, politic, taiwan, asia,
-  iraq
+tags: ["war","video","bush","action","military","tones","politics","politic","taiwan","asia","iraq"]
 title: 'FEAR: Einstein may be a prophet'
 wordpress_id: 232
 wordpress_url: http://new.nata2.org/?p=232

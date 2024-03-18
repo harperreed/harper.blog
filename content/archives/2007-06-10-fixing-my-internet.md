@@ -1,6 +1,6 @@
 ---
 date: 2007-06-10T19:14:30Z
-tags: general
+tags: ["general"]
 title: Fixing my internet.
 wordpress_id: 1456
 wordpress_url: http://www.nata2.org/2007/06/10/fixing-my-internet/

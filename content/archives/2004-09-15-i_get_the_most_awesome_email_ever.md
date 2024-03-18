@@ -7,7 +7,7 @@ excerpt: |-
    At least I'll wake up who I am tomorrow..... But Nata's RETARD, well he will still be RETARDED in the am. You faggot will still wake up a faggot in the morning.
 
   I a...
-tags: php, server, apache, sites, sick, applications
+tags: ["php","server","apache","sites","sick","applications"]
 title: i get the most awesome email ever
 wordpress_id: 936
 wordpress_url: http://new.nata2.org/?p=936

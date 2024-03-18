@@ -1,6 +1,6 @@
 ---
 date: 2008-02-04T13:39:57Z
-tags: general, video, politics, obama, president, elections, yes-we-can
+tags: ["general","video","politics","obama","president","elections","yes-we-can"]
 title: 'Obama: yes we can'
 wordpress_id: 1506
 wordpress_url: http://www.nata2.org/2008/02/04/obama-yes-we-can/

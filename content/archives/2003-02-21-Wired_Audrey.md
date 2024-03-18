@@ -2,7 +2,7 @@
 date: 2003-02-21T22:29:25Z
 excerpt: 'heh.Here is a scan. it is rather big. so here is a smaller version. It is
   interesting. I want to be in wired for real. '
-tags: hacking, audreyhacking, audrey
+tags: ["hacking","audreyhacking","audrey"]
 title: Wired Audrey
 wordpress_id: 454
 wordpress_url: http://new.nata2.org/?p=454

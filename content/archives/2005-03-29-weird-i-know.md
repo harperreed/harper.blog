@@ -1,6 +1,6 @@
 ---
 date: 2005-03-29T19:00:08Z
-tags: general, sites, travel, interesting, work, hobby
+tags: ["general","sites","travel","interesting","work","hobby"]
 title: weird i know
 wordpress_id: 1033
 wordpress_url: http://www.nata2.org/2005/03/29/weird-i-know/

@@ -5,7 +5,7 @@ excerpt: 'in fact I really didn''t do much. I honestly barely made it to work. b
   was.. I was dieing. I drank soo much pop and candy  - I think I surpassed the point
   of it being helpfuland it became a method of sedation. stupid sedation. I am sitll
   in love however with wireless internet. so before any asks.. yea I like it. '
-tags: internet, server, bush, kstar, health, experiment, hiromi
+tags: ["internet","server","bush","kstar","health","experiment","hiromi"]
 title: i didn't shower this morning.
 wordpress_id: 737
 wordpress_url: http://new.nata2.org/?p=737

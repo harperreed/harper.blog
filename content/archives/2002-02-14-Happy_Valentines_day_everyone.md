@@ -5,7 +5,7 @@ excerpt: 'Today, I was almost hit by a car. I mean real close. It wasn''t my fau
   flinch at all. Which in retrospect I think is quite wierd. the car just slammed
   on its brakes and I kept walking and didn''t think anything wierd was going on.
   heh. whatever.Today is such a wierd day. '
-tags: nerd, girlfriend
+tags: ["nerd","girlfriend"]
 title: Happy Valentines day everyone
 wordpress_id: 210
 wordpress_url: http://new.nata2.org/?p=210
