@@ -5,7 +5,7 @@ title = "Harper Reed's Blog"
 canonifyURLs = true
 enableRobotsTXT = true
 paginate = 5
-googleAnalytics = "UA-70650-74"
+
 defaultContentLanguage = "en"
 author = "Harper Reed"
 disableKinds = [ "taxonomy", "term" ]
