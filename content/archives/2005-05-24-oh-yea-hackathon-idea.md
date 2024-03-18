@@ -1,6 +1,6 @@
 ---
 date: 2005-05-24T12:44:32Z
-tags: general, jobs
+tags: ["general","jobs"]
 title: oh yea. hackathon idea
 wordpress_id: 1069
 wordpress_url: http://www.nata2.org/2005/05/24/oh-yea-hackathon-idea/

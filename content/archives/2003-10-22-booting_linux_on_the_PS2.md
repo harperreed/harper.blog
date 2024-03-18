@@ -6,7 +6,7 @@ excerpt: So I get bored every once and awhile and I want to "hack" stuff. so lat
   out my set up. and wham it worked. I was able to boot the ps2linux rescue disk.
   however, the HD is not formatted so I wasn't able to boot BBnav. I attempted to
   ...
-tags: hacking, linux
+tags: ["hacking","linux"]
 title: booting linux on the PS2
 wordpress_id: 653
 wordpress_url: http://new.nata2.org/?p=653

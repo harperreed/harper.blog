@@ -5,7 +5,7 @@ excerpt: here is a video of danzig getting knocked out. hah. so I see this girl 
   I am a wuss. haha. and train people are scary. I sometimes want to establish myself
   as crazy. but it is tough on the train. hah. soo much to work with. I will abandon
   the cra...
-tags: video, movies, humor
+tags: ["video","movies","humor"]
 title: danzig. zip zig.
 wordpress_id: 900
 wordpress_url: http://new.nata2.org/?p=900

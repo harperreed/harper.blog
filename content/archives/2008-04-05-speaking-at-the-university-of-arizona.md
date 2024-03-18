@@ -1,7 +1,6 @@
 ---
 date: 2008-04-05T14:54:35Z
-tags: general, travel, speaking, university-of-arizona, business-school, marketing,
-  sidney-levey, kovinets, etribes
+tags: ["general","travel","speaking","university-of-arizona","business-school","marketing","sidney-levey","kovinets","etribes"]
 title: Speaking at the University of Arizona
 wordpress_id: 1515
 wordpress_url: http://www.nata2.org/2008/04/05/speaking-at-the-university-of-arizona/

@@ -5,7 +5,7 @@ excerpt: I just finished watching ghost world. I am not sure if my time has been
   I had a lot of friends over and went out to a lot of clubs. I also spent far too
   much money for the amount of return I got.  But that is OK. It was really funa dn
   I was able to lose all of my worries for one weekend. It was really great to...
-tags: kinnera, crobar
+tags: ["kinnera","crobar"]
 title: bastion of consumerism.
 wordpress_id: 253
 wordpress_url: http://new.nata2.org/?p=253

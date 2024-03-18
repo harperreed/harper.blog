@@ -3,7 +3,7 @@ date: 2002-08-18T01:50:35Z
 excerpt: "Apparently it has become insane outside. nasa is planning on reading people
   minds.. what.. wtf.. what.. no sense.. \n\nA senetor is questioning the lack of
   enron indictments..  no.. I h..."
-tags: insane, chris, bush, iraq
+tags: ["insane","chris","bush","iraq"]
 title: Whoa magic mind reading
 wordpress_id: 344
 wordpress_url: http://new.nata2.org/?p=344

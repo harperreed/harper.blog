@@ -1,6 +1,6 @@
 ---
 date: 2007-06-20T00:20:21Z
-tags: general, movies, sad, health-care, michael-moore, sicko
+tags: ["general","movies","sad","health-care","michael-moore","sicko"]
 title: Sicko. You need to see this movie.
 wordpress_id: 1459
 wordpress_url: http://www.nata2.org/2007/06/20/sicko-you-need-to-see-this-movie/

@@ -4,7 +4,7 @@ excerpt: The Toys-R-Us on state is going out of business so my coworkers and mys
   are going out of business and all the toys are uber cheap.  I picked up a HitClips
   playerand some britney hitclips. I am excited. It is rather shoddy and it did cost
   more then it should have(especially considering the brief amusement it ca...
-tags: phone, hacking, coding, music, business, phones
+tags: ["phone","hacking","coding","music","business","phones"]
 title: britney part 3
 wordpress_id: 287
 wordpress_url: http://new.nata2.org/?p=287

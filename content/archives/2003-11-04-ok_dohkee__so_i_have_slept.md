@@ -5,8 +5,7 @@ excerpt: This weekend was insane. as you may be able to tell from the crazy blog
   lot of fun. I hung out with mark and some nice jugglers from carleton college. we
   juggled a bunch. I love juggling with little kids - who are as good as I am. hah.
   at five or so I went to the theatre with mark.. and hung out with the perf...
-tags: cornell, juggle, jugglers, chicago, hacking, insane, college, halloween, juggling,
-  holidays
+tags: ["cornell","juggle","jugglers","chicago","hacking","insane","college","halloween","juggling","holidays"]
 title: ok dohkee. so i have slept
 wordpress_id: 667
 wordpress_url: http://new.nata2.org/?p=667

@@ -6,7 +6,7 @@ excerpt: so we got back from madfest last night rather late. I went to bed and I
   heh. so much fun. ;) - I learned a bunch of new tricks and hung with a bunchf of
   really cool jugglers. Matiss and I almost won the seven club passing endurance -
   ...
-tags: juggle, jugglers, sick, juggling, matiss, festivals
+tags: ["juggle","jugglers","sick","juggling","matiss","festivals"]
 title: juggling fest part 2
 wordpress_id: 435
 wordpress_url: http://new.nata2.org/?p=435

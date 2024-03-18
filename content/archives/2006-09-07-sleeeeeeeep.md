@@ -1,6 +1,6 @@
 ---
 date: 2006-09-07T09:27:26Z
-tags: general
+tags: ["general"]
 title: SLEEEEEEEEP
 wordpress_id: 1335
 wordpress_url: http://www.nata2.org/2006/09/07/sleeeeeeeep/

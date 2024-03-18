@@ -3,7 +3,7 @@ date: 2004-11-22T17:54:42Z
 excerpt: "this weekend was pretty fun. I hung out with the fam. yea know the drill.
   I apparently let my parents car out of the closet. stupid cars. hiding ALL THE TIME.
   here be pictures. \nhere are other pictures of a diffe..."
-tags: sites, cars, ipod
+tags: ["sites","cars","ipod"]
 title: i am going to punch your arms with a stick
 wordpress_id: 964
 wordpress_url: http://new.nata2.org/?p=964

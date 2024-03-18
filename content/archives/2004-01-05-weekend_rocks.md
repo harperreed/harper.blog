@@ -5,7 +5,7 @@ excerpt: This weekend was fun. besides having the craziest of sleep patterns I w
   went and got dinnera nd then came back to my place and drank and talked with matiss
   and hiromi. we ended up watchin a korean remake of ringu called the ring virus.
   it was ok. not wonderful. I should have pushed for fun sai yuk. but nooooo... ;...
-tags: books, cell, war, matiss, hiromi
+tags: ["books","cell","war","matiss","hiromi"]
 title: weekend rocks
 wordpress_id: 713
 wordpress_url: http://new.nata2.org/?p=713

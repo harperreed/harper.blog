@@ -4,7 +4,7 @@ excerpt: "seriously. everything is breaking. but I feel we are successfully fixi
   it. umm.. \nlinuXKilla: roxor= rock\nlinuXKilla: suxor = suck\nlinuXKilla: fuxor=fuck\ntellerific
   x: hahah dorxor?\n\nmy life rules. apparently the shins are tonight. it should be
   fun. I like them. but currently - cradle of filth is ..."
-tags: phone, rock, linux
+tags: ["phone","rock","linux"]
 title: work is insane
 wordpress_id: 888
 wordpress_url: http://new.nata2.org/?p=888

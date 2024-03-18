@@ -5,7 +5,7 @@ excerpt: "so lasts nights performance was lame. I mean it was OK from a juggling
   was dumb. I wish we had a real band to juggle with. heh. \nThis site is really great.
   \ I really enjoyed the pictures. so I made a script that picks a random one and
   displays ..."
-tags: cornell, juggle, php, juggling
+tags: ["cornell","juggle","php","juggling"]
 title: last night was a mess...
 wordpress_id: 558
 wordpress_url: http://new.nata2.org/?p=558

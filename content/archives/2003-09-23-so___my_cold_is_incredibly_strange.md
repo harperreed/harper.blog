@@ -6,7 +6,7 @@ excerpt: today I coked myself up on cold medicine and pain killers and made it t
   makes since. but now at 1 in the morning I am wired off my head and listening to
   classic rock. all I want to do is sleep. seriously. nothing else. but no. stupid
   god...
-tags: sick, rock, insane, bush, music, politics, politic
+tags: ["sick","rock","insane","bush","music","politics","politic"]
 title: so.. my cold is incredibly strange
 wordpress_id: 623
 wordpress_url: http://new.nata2.org/?p=623

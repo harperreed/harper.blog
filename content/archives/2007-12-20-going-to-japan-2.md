@@ -1,6 +1,6 @@
 ---
 date: 2007-12-20T13:00:41Z
-tags: general, travel-japan
+tags: ["general","travel-japan"]
 title: Going to Japan!
 wordpress_id: 1501
 wordpress_url: http://www.nata2.org/2007/12/20/going-to-japan-2/

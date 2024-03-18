@@ -5,7 +5,7 @@ excerpt: So tonight I went out wth a bunch of friends to game works in schaumber
   $35 dollars worth of games in 1.5 hours and then rode in a car going buck 20 down
   90, only to bring us to a great wine bar where I drank some wine. I don't know anything
   about wine. it seems "ok" but it kinda burns my mouth and I usually don'...
-tags: games
+tags: ["games"]
 title: faster than a speeding bullet
 wordpress_id: 183
 wordpress_url: http://new.nata2.org/?p=183

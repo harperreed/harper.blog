@@ -1,6 +1,6 @@
 ---
 date: 2006-04-06T12:34:37Z
-tags: general, google, gmail, email, down, broken
+tags: ["general","google","gmail","email","down","broken"]
 title: 'email is not around right now.. '
 wordpress_id: 1238
 wordpress_url: http://www.nata2.org/2006/04/06/email-is-not-around-right-now/

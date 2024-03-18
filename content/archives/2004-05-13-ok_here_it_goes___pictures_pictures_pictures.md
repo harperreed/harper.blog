@@ -4,7 +4,7 @@ excerpt: "so I finally put the pictures up and here is the \"annotated\" guide t
   my photos. there are a bunch that I didn't include. check them out here. I am not
   done. so I will be adding or modifying this entry soon. haha. word. \r\nso on sunday
   we drove from delhi to agra. on the way I saw a "
-tags: technology, insane, india
+tags: ["technology","insane","india"]
 title: 'ok here it goes:: pictures pictures pictures'
 wordpress_id: 859
 wordpress_url: http://new.nata2.org/?p=859

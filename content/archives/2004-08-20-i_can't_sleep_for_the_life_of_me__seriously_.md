@@ -5,7 +5,7 @@ excerpt: it doesn't work. having a crazy scedule where you are up from 11 to 6 a
   my head. I was hanging out at work yesterday morning - about 24hrs ago - and I thought
   I heard voices calling my name. I scurried off home. full of fear of zombies and
   demons. it ruled. I even took a cab. cuz I didn't trust the train. place i...
-tags: books, fear, rock, insane, coding, watership, dad
+tags: ["books","fear","rock","insane","coding","watership","dad"]
 title: i can't sleep for the life of me. seriously.
 wordpress_id: 918
 wordpress_url: http://new.nata2.org/?p=918

@@ -7,7 +7,7 @@ excerpt: |-
   released their &amp;quot;upgrade&amp;quot; which is significantly better than what they
   had, and rather similar to what I have done. doh! I guess I have to
   redo and make mine a lot bett...
-tags: general, sites, rock, websites
+tags: ["general","sites","rock","websites"]
 title: need sleep. stat. love. csharp.
 wordpress_id: 1006
 wordpress_url: http://new.nata2.org/?p=1006

@@ -4,7 +4,7 @@ excerpt: i fixed it. so you can all use it as your friends aggregator. w00t. if 
   wants to be added let me know. if anyone wnats to be removed - too bad ;). but yea.
   but yea. last night I purchased more "nice" clothes. I hate buying clothes that
   are not "...
-tags: blogs, server, source, design, google, itunes, ituneswww
+tags: ["blogs","server","source","design","google","itunes","ituneswww"]
 title: blogs.nata2.org
 wordpress_id: 909
 wordpress_url: http://new.nata2.org/?p=909

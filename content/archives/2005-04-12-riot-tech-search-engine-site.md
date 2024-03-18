@@ -1,6 +1,6 @@
 ---
 date: 2005-04-12T02:11:35Z
-tags: general, search, engine, optimization
+tags: ["general","search","engine","optimization"]
 title: riot tech search engine site
 wordpress_id: 1045
 wordpress_url: http://www.nata2.org/2005/04/12/riot-tech-search-engine-site/

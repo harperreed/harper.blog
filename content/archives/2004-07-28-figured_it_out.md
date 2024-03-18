@@ -4,7 +4,7 @@ excerpt: 'the past couple days have been real chill. I have listened to front 24
   exclusively. it is nice. I am a fan of head hunter. of course. i remembered again
   how to use multiple irc servers with scrollz:/window new hide[esc 2]/window server
   irc.whatever.org/join #irule'
-tags: server, coding, irc, wedding, hiromi, itunes
+tags: ["server","coding","irc","wedding","hiromi","itunes"]
 title: figured it out
 wordpress_id: 908
 wordpress_url: http://new.nata2.org/?p=908

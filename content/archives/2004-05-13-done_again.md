@@ -2,7 +2,7 @@
 date: 2004-05-13T10:01:37Z
 excerpt: 'ftp: 24154010 bytes sent in 1217.77Seconds 19.83Kbytes/sec.a bit faster.
   this time it worked. check out the pictures here'
-tags: india
+tags: ["india"]
 title: done again
 wordpress_id: 858
 wordpress_url: http://new.nata2.org/?p=858

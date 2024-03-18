@@ -1,6 +1,6 @@
 ---
 date: 2005-10-05T03:06:52Z
-tags: general, books, literature, stereo, hifi, diy, audio, sadness, society, violent
+tags: ["general","books","literature","stereo","hifi","diy","audio","sadness","society","violent"]
 title: Sad violent books about society
 wordpress_id: 1134
 wordpress_url: http://www.nata2.org/2005/10/05/sad-violent-books-about-society/

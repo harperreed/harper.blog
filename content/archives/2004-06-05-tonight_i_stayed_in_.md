@@ -5,7 +5,7 @@ excerpt: i worked. and then I went and got my hair trimmed. haha. I mean shorn. 
   food. watched 'bend it like beckham' and then watched 'platonic sex.' both were
   quite good. 'bend it like beckham' was really funny - I really liked it. sorta dumb
   - but really nice. 'platonic sex' was quite good - incredibly weird...
-tags: food, sex
+tags: ["food","sex"]
 title: tonight i stayed in.
 wordpress_id: 877
 wordpress_url: http://new.nata2.org/?p=877

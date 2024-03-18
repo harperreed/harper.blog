@@ -5,7 +5,7 @@ excerpt: "i made a couple new webpages.. I hung out with some friends.. that is 
   dancing.. instead I slept.. that ruled.. I did go out friday night but just to go
   and hang with a friend.. not \"we be clubbin\" style.. \r\ni did make the chicago
   reader early warning list look better.. check it out "
-tags: php, chicago, hacking, war, fear
+tags: ["php","chicago","hacking","war","fear"]
 title: theis weekend i slept
 wordpress_id: 371
 wordpress_url: http://new.nata2.org/?p=371

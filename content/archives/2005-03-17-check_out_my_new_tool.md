@@ -5,7 +5,7 @@ excerpt: I wrote a new tool after work today. Check it out:I needed a way to vie
   - I didn't really like the adnse preview tool for IE. it was annoying for some reason.
   so I did some poking about and made this. the ads displayed are using the test flag
   with no client id specified. so no one is getting ...
-tags: general, technology, hacking, tools, google, development, csharp, code
+tags: ["general","technology","hacking","tools","google","development","csharp","code"]
 title: check out my new tool
 wordpress_id: 1009
 wordpress_url: http://new.nata2.org/?p=1009

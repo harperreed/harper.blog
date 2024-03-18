@@ -1,6 +1,6 @@
 ---
 date: 2002-10-10T12:10:20Z
-tags: general, technology, community, mobile, forum
+tags: ["general","technology","community","mobile","forum"]
 title: 3gscreensaver.com
 wordpress_id: 1163
 wordpress_url: http://www.nata2.org/2002/10/10/3gscreensavercom/

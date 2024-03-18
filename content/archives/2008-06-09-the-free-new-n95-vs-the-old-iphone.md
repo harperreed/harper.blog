@@ -1,6 +1,6 @@
 ---
 date: 2008-06-09T23:52:36Z
-tags: technology, apple, mobile, nokia, symbian, iphone, n95, wom
+tags: ["technology","apple","mobile","nokia","symbian","iphone","n95","wom"]
 title: The free new N95 vs the old iPhone
 wordpress_id: 1531
 wordpress_url: http://www.nata2.org/?p=1531

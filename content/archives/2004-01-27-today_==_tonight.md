@@ -6,7 +6,7 @@ excerpt: so today I had a weird day at work. nothing happened - I just felt weir
   to people. so I got matt and we walked to the local bar. it ruled. we drank $20
   worth of beer - which on an empty stomach is PLENTY. but anyway. matt and I hugn
   ...
-tags: internet, watership, jokes
+tags: ["internet","watership","jokes"]
 title: today == tonight
 wordpress_id: 736
 wordpress_url: http://new.nata2.org/?p=736

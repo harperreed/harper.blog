@@ -5,7 +5,7 @@ excerpt: and I have been thinking about merging them all into one of two sites. 
   all the old entries into a nifty category system. I don't know yet. but I have been
   looking at some others and I noticed that a lot of them have incredible blogs..
   and one of the reasons is you don't have to jump all over the inte...
-tags: php, blogs, internet, sites, kungfu
+tags: ["php","blogs","internet","sites","kungfu"]
 title: i have a bundle of different sites.
 wordpress_id: 711
 wordpress_url: http://new.nata2.org/?p=711

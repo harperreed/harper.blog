@@ -5,8 +5,7 @@ excerpt: however, I don't feel very tired. I really don't understand how it is t
   mods from the 50s and 60s. he said they used to have normal jobs(working 9-5) and
   look like business people - then after work they would transform into these fashion
   seeking scene people. right after my friend adam told me this he started s...
-tags: books, job, blogs, war, video, rock, crobar, fashion, aim, business, corporate,
-  games, matiss, india, politic, porn, hiromi
+tags: ["books","job","blogs","war","video","rock","crobar","fashion","aim","business","corporate","games","matiss","india","politic","porn","hiromi"]
 title: my eyes are dripping tiredness
 wordpress_id: 949
 wordpress_url: http://new.nata2.org/?p=949

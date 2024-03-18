@@ -1,7 +1,6 @@
 ---
 date: 2006-07-18T03:07:43Z
-tags: general, chicago, fun, ideas, skinnycorp, heat, weather, squidoo, eating, dumb,
-  irazu, drinking
+tags: ["general","chicago","fun","ideas","skinnycorp","heat","weather","squidoo","eating","dumb","irazu","drinking"]
 title: 'jesus h christ. it is hot up in here. '
 wordpress_id: 1307
 wordpress_url: http://www.nata2.org/2006/07/18/jesus-h-christ-it-is-hot-up-in-here/

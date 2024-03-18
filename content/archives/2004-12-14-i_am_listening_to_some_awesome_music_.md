@@ -5,7 +5,7 @@ excerpt: i think the mix is grave diggaz, front line assembly, himsa, bleeding t
   mp3s. last night all I did was play video games. I played gish for about an hour
   - it is a lot of fun. I enjoyed the motif quite a bit. I do wish it really looked
   like the still gra...
-tags: server, sites, video, metal, games
+tags: ["server","sites","video","metal","games"]
 title: i am listening to some awesome music.
 wordpress_id: 972
 wordpress_url: http://new.nata2.org/?p=972

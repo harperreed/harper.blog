@@ -5,7 +5,7 @@ excerpt: so when I was little. skinny puppy was my favorite band. now they are a
   urge to chekc the readers early warning list. much to my amaze - skinny puppy was
   playing at the vic. so I immediately attempted to secure tickets. no luck. all sold
   out. in fact I think they were SOLD OUT. like in caps. pixies style. ...
-tags: phone, chicago, search, war, metal, matiss, nokia
+tags: ["phone","chicago","search","war","metal","matiss","nokia"]
 title: skinny puppy
 wordpress_id: 831
 wordpress_url: http://new.nata2.org/?p=831

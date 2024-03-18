@@ -5,7 +5,7 @@ excerpt: I have been workign nigths for WB doing load testing and such - and it 
   haha. it is hard on me. I get tired real easy and I totally don't have the stamina
   to run around and be merry today. Luckily last night was one of the last ones for
   awhile. work is going well. we have a lot of things going on that are fun - an...
-tags: server
+tags: ["server"]
 title: lock and block
 wordpress_id: 738
 wordpress_url: http://new.nata2.org/?p=738

@@ -5,7 +5,7 @@ excerpt: So this weekend was incredible. It was also INSANE. seriously. on frida
   ladytron did a remarkable job of representing their sound exactly how it is on the
   record. Dayum.. that concert was such a fashion show.. heh. so fun. my friend rachel
   c...
-tags: job, war, insane, chris, fashion, india
+tags: ["job","war","insane","chris","fashion","india"]
 title: Strange encounters with beast men.
 wordpress_id: 456
 wordpress_url: http://new.nata2.org/?p=456

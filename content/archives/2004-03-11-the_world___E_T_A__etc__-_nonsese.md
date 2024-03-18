@@ -4,8 +4,7 @@ excerpt: So today some terrorists in the basque region of spain blew up a bunch 
   commuter trains during rush hour. this is after the E.T.A. declared a cease fire
   on the caralina region of spain - so apparently the terrosist actions are now concentrated
   on madrid and the like. i know so little about the fran...
-tags: social, php, blogs, internet, sites, fear, bush, action, websites, source, aim,
-  dad, terrorism, politic, google
+tags: ["social","php","blogs","internet","sites","fear","bush","action","websites","source","aim","dad","terrorism","politic","google"]
 title: the world.. E.T.A. etc. - nonsese
 wordpress_id: 775
 wordpress_url: http://new.nata2.org/?p=775

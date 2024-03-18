@@ -5,7 +5,7 @@ excerpt: so I couldn't sleep again. I ended up finishng the book I started - whi
   with fear that if I didn't I woudl finish it too and it would be 8 in the morning.
   I suppose this is one of those days where I coudl afford to not sleep. but it would
   really wear on me. I don't want that much. so I solved the problem by getti...
-tags: phone, fear, food, hiromi
+tags: ["phone","fear","food","hiromi"]
 title: stupid sleep patterns..
 wordpress_id: 714
 wordpress_url: http://new.nata2.org/?p=714

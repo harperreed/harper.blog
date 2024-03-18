@@ -1,6 +1,6 @@
 ---
 date: 2006-11-17T02:03:16Z
-tags: general, annoying, airports, driving, gps
+tags: ["general","annoying","airports","driving","gps"]
 title: Driving in Colorado
 wordpress_id: 1386
 wordpress_url: http://www.nata2.org/2006/11/21/driving-in-colorado/

@@ -1,6 +1,6 @@
 ---
 date: 2005-06-01T18:13:05Z
-tags: general, humor, aim, work
+tags: ["general","humor","aim","work"]
 title: certainly not work related
 wordpress_id: 1073
 wordpress_url: http://www.nata2.org/2005/06/01/certainly-not-work-related/

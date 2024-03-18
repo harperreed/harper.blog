@@ -1,6 +1,6 @@
 ---
 date: 2005-11-07T19:10:16Z
-tags: general, sick, metal
+tags: ["general","sick","metal"]
 title: stupid sleep. i hate you!
 wordpress_id: 1148
 wordpress_url: http://www.nata2.org/2005/11/07/stupid-sleep-i-hate-you/

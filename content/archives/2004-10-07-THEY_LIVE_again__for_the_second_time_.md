@@ -4,8 +4,7 @@ excerpt: 'last night was pretty fun. I hung out with hannah. we went to the fain
   but first I slept until 8. rule. I love naps. I nede to eat better and sleep better.
   that is the way to the future. anyway. I hung out with hannah and we saw the faint.
   it was pretty good. tv on the radio ruled me. '
-tags: books, job, php, internet, rock, laptop, coding, action, author, juggling, humor,
-  music, aim, worldbook, business, apple
+tags: ["books","job","php","internet","rock","laptop","coding","action","author","juggling","humor","music","aim","worldbook","business","apple"]
 title: THEY LIVE again. for the second time.
 wordpress_id: 947
 wordpress_url: http://new.nata2.org/?p=947

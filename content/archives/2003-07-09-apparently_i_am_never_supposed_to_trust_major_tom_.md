@@ -5,7 +5,7 @@ excerpt: anyway.. yesterday - I ruled it up. I worked really hard at work.. fixe
   then went home. took a nap. a long nap. made really good progress on my other work.
   did a bunch of cool stuff there and then.. went to innjoy and hung with some friends..
   and then went to rockatiki.. which sucked.. sorta. it was kinda cool.. but ...
-tags: harper, server, rock
+tags: ["harper","server","rock"]
 title: apparently i am never supposed to trust major tom.
 wordpress_id: 561
 wordpress_url: http://new.nata2.org/?p=561

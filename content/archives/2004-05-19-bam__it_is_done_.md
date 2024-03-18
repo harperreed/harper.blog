@@ -4,8 +4,7 @@ excerpt: Ok Ok. so I have been reading Anna Karenina. It is amazing. seriously -
   one of the better books I have ever read. I am fascinated with how thorough Tolstoy
   covers the story. and how the story seemingly covers everything. it is soo good.
   I love the feeling of want that is associated with re...
-tags: books, reed, family, war, fear, rock, food, security, action, terrorism, india,
-  hiromi, itunes
+tags: ["books","reed","family","war","fear","rock","food","security","action","terrorism","india","hiromi","itunes"]
 title: bam. it is done.
 wordpress_id: 867
 wordpress_url: http://new.nata2.org/?p=867

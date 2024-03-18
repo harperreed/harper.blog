@@ -5,8 +5,7 @@ excerpt: So I have been trashing my blog by quoting aim and such. it is nice and
   like it. but I am still laughignabout this prank I pulled on my friend scott  -
   so I will share it with yall.. it is the last one for awhile.. (unless I continue
   to be awesome)So the setup was that I wanted to play a joke o...
-tags: harper, phone, cell, chicago, war, humor, music, aim, linux, broox, friendster,
-  brooks
+tags: ["harper","phone","cell","chicago","war","humor","music","aim","linux","broox","friendster","brooks"]
 title: trash and my ruleness absolute.
 wordpress_id: 727
 wordpress_url: http://new.nata2.org/?p=727

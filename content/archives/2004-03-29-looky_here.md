@@ -5,8 +5,7 @@ excerpt: so this weekend has been nice. on friday my coworkers and myself went t
   was able to hook us up a bit which offset the billion dollars the drinks normally
   would have cost. it was a nice place. pretty chilled out - however around 5:30 -
   it started to get pretty full and crazy. after that I went and picked up some butto...
-tags: phone, cell, blogs, war, video, rock, crobar, insane, chris, birthday, business,
-  perl, matiss, politics, politic, hiromi, sushi
+tags: ["phone","cell","blogs","war","video","rock","crobar","insane","chris","birthday","business","perl","matiss","politics","politic","hiromi","sushi"]
 title: looky here
 wordpress_id: 797
 wordpress_url: http://new.nata2.org/?p=797

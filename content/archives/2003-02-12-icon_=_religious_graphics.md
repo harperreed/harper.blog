@@ -4,7 +4,7 @@ excerpt: 'So washington is prepared. I would be so surprised if we were to recei
   a air strike. could you imagine what would happen. beside the fear and trauma that
   would occur. I mean every aspect of our life would be  affected. It would be insane.
   I am not ready fo that. I am ready for '
-tags: family, php, war, fear, insane, bush, author, humor, terrorism, jokes, iraq
+tags: ["family","php","war","fear","insane","bush","author","humor","terrorism","jokes","iraq"]
 title: icon = religious graphics
 wordpress_id: 446
 wordpress_url: http://new.nata2.org/?p=446

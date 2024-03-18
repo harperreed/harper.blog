@@ -5,7 +5,7 @@ excerpt: i am flying today.. so here is a good flying link. I leave in two hours
   ephpod.. hehe. whatever. the DB on my harddrive and the DB on the ipod were not
   in sync.. and thus the lost music. so now I am "restoring" 20g of music - an hour
   I wil...
-tags: php, music, ipod
+tags: ["php","music","ipod"]
 title: today i am flying
 wordpress_id: 438
 wordpress_url: http://new.nata2.org/?p=438

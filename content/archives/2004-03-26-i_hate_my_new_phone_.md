@@ -5,8 +5,7 @@ excerpt: i just hate the fact that I am unable to use MMS. i seriously need to s
   when I was a baller doesn't transcend well to the non-baller status I am currently
   exhibiting. doh! or lack there of. :(i say this rant as I prepare to go out to sushi
   and a super (hah) club with my friend...
-tags: php, phone, cell, blogs, internet, war, community, audrey, chris, linux, design,
-  osx, games, applications, phones, kungfu, hiromi, sushi, nokia
+tags: ["php","phone","cell","blogs","internet","war","community","audrey","chris","linux","design","osx","games","applications","phones","kungfu","hiromi","sushi","nokia"]
 title: i hate my new phone.
 wordpress_id: 795
 wordpress_url: http://new.nata2.org/?p=795

@@ -5,7 +5,7 @@ excerpt: i feel like I have been ehre before. it is almost four o clock.. althou
   rebooting.. silly non syncing time.. silly lazy sysadmin.. but anyway... we went
   and saw the matrix tonight. it was fun. I have decided that I will probably finsih
   my tattoos soon. I am scared though. cuz I know they will hurt and I hate that p...
-tags: server, sick
+tags: ["server","sick"]
 title: once again
 wordpress_id: 513
 wordpress_url: http://new.nata2.org/?p=513

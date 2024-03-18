@@ -1,6 +1,6 @@
 ---
 date: 2008-02-25T01:51:39Z
-tags: technology, xmpp, google-apps, radius, ldap, authentication, sso, saml
+tags: ["technology","xmpp","google-apps","radius","ldap","authentication","sso","saml"]
 title: 'Google Apps Auth: XMPP and Radius idea'
 wordpress_id: 1508
 wordpress_url: http://www.nata2.org/2008/02/25/google-apps-auth-xmpp-and-radius-idea/

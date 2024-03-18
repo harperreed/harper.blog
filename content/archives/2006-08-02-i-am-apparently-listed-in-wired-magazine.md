@@ -1,6 +1,6 @@
 ---
 date: 2006-08-02T13:07:49Z
-tags: general, sites, audreyhacking, websites, wired, press
+tags: ["general","sites","audreyhacking","websites","wired","press"]
 title: 'I am apparently listed in wired magazine. '
 wordpress_id: 1317
 wordpress_url: http://www.nata2.org/2006/08/02/i-am-apparently-listed-in-wired-magazine/

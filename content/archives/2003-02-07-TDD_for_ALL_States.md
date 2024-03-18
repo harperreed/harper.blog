@@ -5,7 +5,7 @@ excerpt: I need to fix my car. when I say fix - I really mean register and insur
   for awhile now and I can no longer do it(btw I am insured.. just not registered..
   ugh). heh. last night matiss and I invited some cats to come over and watch the
   spooky michael jackson interview. boy that d00d is a weirdo. jesus. it is all very...
-tags: php, chicago, tools, bush, action, matiss, politics, politic, iraq
+tags: ["php","chicago","tools","bush","action","matiss","politics","politic","iraq"]
 title: TDD for ALL States
 wordpress_id: 444
 wordpress_url: http://new.nata2.org/?p=444

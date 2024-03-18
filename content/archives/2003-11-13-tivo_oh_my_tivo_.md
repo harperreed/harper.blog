@@ -5,7 +5,7 @@ excerpt: soemthing happened that made me think.. "blog this!"  but I don't remem
   fun. I have yet to get the wireless inet working for it. stupid /dev/wlan isn't
   there. I don't understand why. the driver just doesn't do it. damned USB. I thought
   about going and buying a shittier one today at compusa. maybe I w...
-tags: porn
+tags: ["porn"]
 title: tivo oh my tivo.
 wordpress_id: 677
 wordpress_url: http://new.nata2.org/?p=677

@@ -4,7 +4,7 @@ excerpt: 'my hopes and dreams are in full time jepeordy. lucky for us. Lately I 
   been trying to figure out if the idea that "it all works out in the end" is a fate
   based idea. I think that it is. I do not think however that nuclear war is a fate
   that any wants. but whatever... stupid religion. '
-tags: war, religion
+tags: ["war","religion"]
 title: Clearly Americans must prevent George W. Bush's attack on Iraq.
 wordpress_id: 323
 wordpress_url: http://new.nata2.org/?p=323

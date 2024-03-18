@@ -1,6 +1,6 @@
 ---
 date: 2007-10-23T09:48:10Z
-tags: general, community, music, torrents, evil
+tags: ["general","community","music","torrents","evil"]
 title: A vibrant music community has been ended
 wordpress_id: 1487
 wordpress_url: http://www.nata2.org/2007/10/23/a-vibrant-music-community-has-been-ended/

@@ -4,7 +4,7 @@ excerpt: what up.. haha. here is a good picture. heh. anyway. tonight was great.
   guess I have a lot of great nights.  I went to a friends b-day party. all sorts
   of fun. dancing.. and trancing.. music is the answer... anyway.. all of the girls
   I have crushes on were at the party.. and I danced with ...
-tags: harper, dylan, reed, music, girls
+tags: ["harper","dylan","reed","music","girls"]
 title: fire.. i bring you to die
 wordpress_id: 322
 wordpress_url: http://new.nata2.org/?p=322

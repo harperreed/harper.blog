@@ -4,7 +4,7 @@ excerpt: 'so today over lunch I decided it would be a good idea to import my old
   into gmail. it rules. check out the tool that I am using. written by mark lyon.
   it works pretty well - albeit very slow. but whatever. I will just have it go in
   the background. my server has a '
-tags: server, movies, humor, gmail
+tags: ["server","movies","humor","gmail"]
 title: 'importing your old mail into gmail :: go cart action'
 wordpress_id: 893
 wordpress_url: http://new.nata2.org/?p=893

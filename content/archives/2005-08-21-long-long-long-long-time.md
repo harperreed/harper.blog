@@ -1,6 +1,6 @@
 ---
 date: 2005-08-21T19:04:06Z
-tags: general, tired, clubs
+tags: ["general","tired","clubs"]
 title: long long long long time
 wordpress_id: 1115
 wordpress_url: http://www.nata2.org/2005/08/21/long-long-long-long-time/

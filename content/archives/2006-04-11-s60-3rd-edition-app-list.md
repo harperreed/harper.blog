@@ -1,6 +1,6 @@
 ---
 date: 2006-04-11T13:46:46Z
-tags: general
+tags: ["general"]
 title: S60 3rd edition app list
 wordpress_id: 1244
 wordpress_url: http://www.nata2.org/s60-3rd-edition-app-list/

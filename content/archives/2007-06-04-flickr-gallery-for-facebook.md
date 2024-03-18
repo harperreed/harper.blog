@@ -1,6 +1,6 @@
 ---
 date: 2007-06-04T21:30:44Z
-tags: technology, technology, coding, flickr, threadless, f8, facebook
+tags: ["technology","technology","coding","flickr","threadless","f8","facebook"]
 title: Flickr Gallery for facebook.
 wordpress_id: 1450
 wordpress_url: http://www.nata2.org/2007/06/04/flickr-gallery-for-facebook/

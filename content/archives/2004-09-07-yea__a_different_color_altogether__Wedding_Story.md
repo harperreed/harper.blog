@@ -4,8 +4,7 @@ excerpt: So this weekend was pretty cool. I am reading another good japanese boo
   I have no idea why I am reading all the japanese dark ficiton I can get my hands
   on. I am currently reading Goodbye Tsugumi. it is pretty bleak. I like it. next
   I  got like 3 murak...
-tags: books, dylan, greeley, family, phone, school, insane, dad, wedding, hiromi,
-  travel, grandpa, nokia
+tags: ["books","dylan","greeley","family","phone","school","insane","dad","wedding","hiromi","travel","grandpa","nokia"]
 title: yea. a different color altogether. Wedding Story
 wordpress_id: 929
 wordpress_url: http://new.nata2.org/?p=929

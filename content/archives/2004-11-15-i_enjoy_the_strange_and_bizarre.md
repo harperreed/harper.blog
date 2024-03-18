@@ -6,7 +6,7 @@ excerpt: seriously I do. my new goal (well it is the same as my old goal - but w
   cool. I think their will be some nice changes soon. it just seems like their will
   be. like the wind is blowing change my way. I do think it is funny - I could be
   ...
-tags: war
+tags: ["war"]
 title: i enjoy the strange and bizarre
 wordpress_id: 960
 wordpress_url: http://new.nata2.org/?p=960

@@ -1,6 +1,6 @@
 ---
 date: 2007-07-14T01:20:36Z
-tags: general, marriage, wedding
+tags: ["general","marriage","wedding"]
 title: I am wearing my wedding ring for the first time.
 wordpress_id: 1465
 wordpress_url: http://www.nata2.org/2007/07/14/i-am-wearing-my-wedding-ring-for-the-first-time/

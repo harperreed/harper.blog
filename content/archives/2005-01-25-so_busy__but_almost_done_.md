@@ -4,8 +4,7 @@ excerpt: 'check it out. the first step: yeknom industries. w00t. you will have t
   wait until later to see what comes next. being so busy I have barely had enough
   time to notice the insanely smart people who "hang" on the internet. basically I
   mean.. google employees. heh. for some starters - Chris Wetherell seems to be quite...'
-tags: domains, php, blogs, internet, server, insane, chris, design, taiwan, google,
-  travel, wordpress
+tags: ["domains","php","blogs","internet","server","insane","chris","design","taiwan","google","travel","wordpress"]
 title: so busy. but almost done.
 wordpress_id: 984
 wordpress_url: http://new.nata2.org/?p=984

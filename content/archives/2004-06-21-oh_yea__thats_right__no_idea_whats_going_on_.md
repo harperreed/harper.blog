@@ -5,8 +5,7 @@ excerpt: i woke up this morning with both a strange sickness in my throat and an
   I basically just hung out with some friends, saw some good shows and all that nonsense.
   It all started on thrusday. oh yea. crobar. we all hung out. hiromi was drinking
   a little more than she usually  does so that was hilarious....
-tags: juggle, jugglers, sick, food, crobar, metal, juggling, music, matiss, girls,
-  hiromi
+tags: ["juggle","jugglers","sick","food","crobar","metal","juggling","music","matiss","girls","hiromi"]
 title: oh yea. thats right. no idea whats going on.
 wordpress_id: 889
 wordpress_url: http://new.nata2.org/?p=889

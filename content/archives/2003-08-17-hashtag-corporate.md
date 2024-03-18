@@ -5,7 +5,7 @@ excerpt: 'heh. so this irc channel has totally made for fun times. I hooked up t
   problem is that it doens''t log the bot - which will be annoying.. especially when
   we play trivia.. which you are all invited to participate in. btw.. trivia rules.this
   weekend.. was dope. '
-tags: juggle, fashion, action, matiss, irc
+tags: ["juggle","fashion","action","matiss","irc"]
 title: 'hash corporate'
 wordpress_id: 599
 wordpress_url: http://new.nata2.org/?p=599

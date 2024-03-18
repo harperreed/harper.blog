@@ -4,7 +4,7 @@ excerpt: 'i don''t feel like updating my blog today. stupid stupid stupid stupid
   I really want my new phone to come. I hate trusting vendors with more than 50 dollars.
   yeah yeah yeah. this weekend was a good time. it created a tired person out of me
   however. on friday '
-tags: nerd, harper, phone, chicago, war, rock, food, metal, google, nokia
+tags: ["nerd","harper","phone","chicago","war","rock","food","metal","google","nokia"]
 title: blah blah blah
 wordpress_id: 771
 wordpress_url: http://new.nata2.org/?p=771

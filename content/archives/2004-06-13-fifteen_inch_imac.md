@@ -3,7 +3,7 @@ date: 2004-06-13T02:56:22Z
 excerpt: |-
   so yesterday at work we watched the movie startup.com. it was pretty good. a quite sad story really. it made me want to be involved in a startup again. haha. I say agan like I was involved in one during the .com wars. I am a liar. I wasn't. in fact I don't even have arms.
   ...
-tags: phone, cell, war, crobar, india, nokia
+tags: ["phone","cell","war","crobar","india","nokia"]
 title: fifteen inch imac
 wordpress_id: 882
 wordpress_url: http://new.nata2.org/?p=882

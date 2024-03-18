@@ -4,7 +4,7 @@ excerpt: "heh. check out my new design. it is almost done. I need to fancy it up
   bit and tweak it a little bit. but for the most part it is near completion. \n\nalso
   check out 43 things - a really really cool idea. I think I will integrate it with
   my new blog design. I also want to make a friends section like nick whate..."
-tags: design
+tags: ["design"]
 title: xmlhttp. tiddlywiki. new design. other stuff
 wordpress_id: 991
 wordpress_url: http://new.nata2.org/?p=991

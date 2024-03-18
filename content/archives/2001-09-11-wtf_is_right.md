@@ -4,7 +4,7 @@ excerpt: "Please check out http://www.watership.org, http://indymedia.org/ and h
   for more information on the terrorist attack on the U.S. This is not good. Very
   much a bad situation. \n\nLook at what we have so far:\n\n\"We (members of the german
   army) have..."
-tags: reed, war, bush, watership, security, action, military
+tags: ["reed","war","bush","watership","security","action","military"]
 title: wtf is right
 wordpress_id: 102
 wordpress_url: http://new.nata2.org/?p=102

@@ -3,7 +3,7 @@ date: 2003-11-24T21:14:56Z
 excerpt: 'So I just got back.. well not just but recently got back from my parents
   house in colorful colorado and we had our fake thanksgiving. it was really nice.
   a bunch of people came and had fun with us. the best was watching kile and the crew '
-tags: colorado, holidays
+tags: ["colorado","holidays"]
 title: thanksgiving was a sham..
 wordpress_id: 683
 wordpress_url: http://new.nata2.org/?p=683

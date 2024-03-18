@@ -5,7 +5,7 @@ excerpt: However.. this time is a lot more pleasant. All I do is get tired when 
   but I am going to take some medicine.. and a E-merge-ENC-E. it will be a nice cocktail.So
   us IT workers have been complaining to the building manager that we need mountain
   dew in our damned pop machine. he just looks at us and laughs...
-tags: sushi, weownthesun
+tags: ["sushi","weownthesun"]
 title: wtf i am sick again..
 wordpress_id: 655
 wordpress_url: http://new.nata2.org/?p=655

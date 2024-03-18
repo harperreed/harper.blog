@@ -4,7 +4,7 @@ excerpt: "it was nice. I have bruises. I am real sleepy. and I smell like goth k
   they smell real bad. I am also a bit hungry. I wasn;t like 20 minutes ago. but now
   I am.if anyone wants a gmail account. I got a buttload of invites. haha\r\ni am
   so tired. I am going to sleep. "
-tags: gmail
+tags: ["gmail"]
 title: skinny puppy was good
 wordpress_id: 886
 wordpress_url: http://new.nata2.org/?p=886

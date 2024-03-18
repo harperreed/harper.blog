@@ -5,7 +5,7 @@ excerpt: today was kinda rough. morgan and I had a discussion last night that en
   this to happen. and I don't really know if she did either. but I am also not sure
   if it is something that is reconciliable or if it is just a situation that sucks
   and will not become "fixed." the reasons are all valid, and rational. it seems...
-tags: birthday, hiromi
+tags: ["birthday","hiromi"]
 title: what happens when it all goes wrong.
 wordpress_id: 783
 wordpress_url: http://new.nata2.org/?p=783

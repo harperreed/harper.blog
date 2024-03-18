@@ -3,7 +3,7 @@ date: 2003-07-15T20:22:35Z
 excerpt: 'It is important for everyone of you to check out the Distortion of Evidence  pledge
   about weapons of mass destruction. Also.. I am excited for my brother to come out
   and visit. I think I will take him hereI wonder if there is truth to '
-tags: chicago, health
+tags: ["chicago","health"]
 title: su su su su su su su
 wordpress_id: 567
 wordpress_url: http://new.nata2.org/?p=567

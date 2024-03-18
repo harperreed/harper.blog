@@ -3,7 +3,7 @@ date: 2003-12-06T07:51:03Z
 excerpt: |-
   so I am home. my parents picked me up from the airport and we went to eat at the cherry creek grill. it was nice. it was very colorado. afterwards I was driving and I went to shut a door and I cut my finger all up.
   so being home is nice. I really have njoyed hanging with my ren...
-tags: dylan, phone, colorado, war, sick, mom
+tags: ["dylan","phone","colorado","war","sick","mom"]
 title: things are weird
 wordpress_id: 691
 wordpress_url: http://new.nata2.org/?p=691

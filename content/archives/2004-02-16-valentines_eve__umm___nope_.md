@@ -5,7 +5,7 @@ excerpt: so this weekend was pretty fun. on friday I hung out with morgan and we
   out was really good. after this event, we went to a party where a pinata filled
   with cayan pepper was exploded prior to our arrival. it was rather abrasive on my
   poor nasal passage ;). we hun...
-tags: rock, insane, movies, holidays
+tags: ["rock","insane","movies","holidays"]
 title: valentines eve. umm.. nope.
 wordpress_id: 754
 wordpress_url: http://new.nata2.org/?p=754

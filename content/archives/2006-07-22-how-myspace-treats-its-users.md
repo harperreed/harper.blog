@@ -1,6 +1,6 @@
 ---
 date: 2006-07-22T20:37:00Z
-tags: technology, myspace, users, friendly, bad
+tags: ["technology","myspace","users","friendly","bad"]
 title: How myspace treats its users
 wordpress_id: 1309
 wordpress_url: http://www.nata2.org/2006/07/22/how-myspace-treats-its-users/

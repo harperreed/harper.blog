@@ -5,7 +5,7 @@ excerpt: "Hip Hop. Oh yes.. \nWell, another christmas has gone and went.. and to
   it is funny how time flys. i mean i just started school almost 4 years ago.. when
   i was like 19.. now as i approach my 23rd birthday, i realize that their isn't really
   a difference between being 23 and being 45. it is afterall, just..."
-tags: war, school, chris, christmas, birthday
+tags: ["war","school","chris","christmas","birthday"]
 title: Hip Hop and you too
 wordpress_id: 78
 wordpress_url: http://new.nata2.org/?p=78

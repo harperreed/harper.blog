@@ -2,7 +2,7 @@
 date: 2004-01-02T00:45:17Z
 excerpt: 'here are some pictures of the haps from last night. it was fun. First I
   went and had a great dinner with some friends. and then '
-tags: juggle, php, matiss, irc
+tags: ["juggle","php","matiss","irc"]
 title: happy new years!!
 wordpress_id: 710
 wordpress_url: http://new.nata2.org/?p=710

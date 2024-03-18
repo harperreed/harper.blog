@@ -1,6 +1,6 @@
 ---
 date: 2005-06-08T18:50:11Z
-tags: general, food, projects, ruby, rails, on, railsday, andy
+tags: ["general","food","projects","ruby","rails","on","railsday","andy"]
 title: railsday.com experience
 wordpress_id: 1079
 wordpress_url: http://www.nata2.org/2005/06/08/railsdaycom-experience/

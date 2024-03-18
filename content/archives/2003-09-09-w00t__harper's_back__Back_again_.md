@@ -5,7 +5,7 @@ excerpt: This time with a twist. So today sucked. seriously. nothing went rigth.
   my IRC clients. etc. etc. I got bad news from every corner.. lalala. and I was without
   sleep. I figured that I had got about 8 hours of sleep since last thursday. well
   looks like tonight I am gunna be a winner - and not get any sleep AGAIN....
-tags: server, insane, irc, nyc, amjad
+tags: ["server","insane","irc","nyc","amjad"]
 title: 'w00t: harper''s back. Back again.'
 wordpress_id: 615
 wordpress_url: http://new.nata2.org/?p=615

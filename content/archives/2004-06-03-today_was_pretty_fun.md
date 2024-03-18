@@ -3,7 +3,7 @@ date: 2004-06-03T06:02:02Z
 excerpt: |-
   i just got home from work and hung out. chilled with rachel. got quiznos - which is near my house(weird. it just appeared). yea know the usual. I think rachel is gunna give me this old bike of hears. I will prolly paint penises all over it and call it the "cock rocket" - umm... I mean.. yea...
   so after I hung out with rachel - I took a nap. I had meant to goto starsky and hutch - which is p...
-tags: phone, chicago, rock, linux, matiss, hiromi
+tags: ["phone","chicago","rock","linux","matiss","hiromi"]
 title: today was pretty fun
 wordpress_id: 874
 wordpress_url: http://new.nata2.org/?p=874

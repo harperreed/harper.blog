@@ -5,7 +5,7 @@ excerpt: i just realized that I have stood up on my feet for way too long. I am 
   lately. You never know however... what happens later.. heh.. I may go out. chicago
   is wierd like that. I may also sit in my room.. drink soda and eat food.. which
   is amazingly appealing. oh.. and write web applications of course. I juts wen...
-tags: chicago, rock, food, girls, applications
+tags: ["chicago","rock","food","girls","applications"]
 title: i am so tired
 wordpress_id: 260
 wordpress_url: http://new.nata2.org/?p=260

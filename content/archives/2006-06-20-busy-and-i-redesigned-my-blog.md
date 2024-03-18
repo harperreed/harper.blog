@@ -1,6 +1,6 @@
 ---
 date: 2006-06-20T04:29:54Z
-tags: general
+tags: ["general"]
 title: 'busy.. and i redesigned my blog. '
 wordpress_id: 1295
 wordpress_url: http://www.nata2.org/2006/06/20/busy-and-i-redesigned-my-blog/

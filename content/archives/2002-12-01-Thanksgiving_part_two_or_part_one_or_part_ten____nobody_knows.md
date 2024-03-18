@@ -5,7 +5,7 @@ excerpt: "So today we had our real.. thanksgiving. it was fun. We had all sorts 
   football and baseball and all sorts of other games. We also ate a bunch. It was
   pretty fun. \ni am real tired however.. I haven't moved that much in years and years\nheh.
   someday I will have to go back to work however.. sux..."
-tags: games
+tags: ["games"]
 title: Thanksgiving part two or part one or part ten... nobody knows
 wordpress_id: 408
 wordpress_url: http://new.nata2.org/?p=408

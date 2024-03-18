@@ -1,6 +1,6 @@
 ---
 date: 2005-09-15T02:10:46Z
-tags: general, food, crobar, fun, ideas, travel, bike
+tags: ["general","food","crobar","fun","ideas","travel","bike"]
 title: 'some ideas. '
 wordpress_id: 1129
 wordpress_url: http://www.nata2.org/2005/09/15/some-ideas/

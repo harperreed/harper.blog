@@ -5,7 +5,7 @@ excerpt: "my brother came over this weekend from LA. It was great. We hung out a
   of the most interesting things about this weekend was the strange occurance of people
   asking us which one of us is older. I guess it is because we are now similarly sized
   and full grown.. or there about.  it was interesting. It is ..."
-tags: dylan
+tags: ["dylan"]
 title: weekend is done. i am sad
 wordpress_id: 375
 wordpress_url: http://new.nata2.org/?p=375

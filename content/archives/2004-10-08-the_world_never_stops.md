@@ -4,7 +4,7 @@ excerpt: "this is the best quote I have heard in many moons. \r\n\r\nANGORA8: my
   girlfriend always wears corduroy and it sounds like gerbils screaming between her
   thighs\r\n\r\n\r\nhaha. so awesome. tonight I am going to a kerry thing. hopefully
   it won't suck. "
-tags: girlfriend
+tags: ["girlfriend"]
 title: the world never stops
 wordpress_id: 948
 wordpress_url: http://new.nata2.org/?p=948

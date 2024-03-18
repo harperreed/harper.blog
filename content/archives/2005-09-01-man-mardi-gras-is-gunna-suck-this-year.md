@@ -1,6 +1,6 @@
 ---
 date: 2005-09-01T02:53:31Z
-tags: general, skinnycorp, awesome, work, photolog, destruction
+tags: ["general","skinnycorp","awesome","work","photolog","destruction"]
 title: 'man... mardi gras is gunna suck this year. '
 wordpress_id: 1123
 wordpress_url: http://www.nata2.org/?p=1123

@@ -1,6 +1,6 @@
 ---
 date: 2006-01-03T13:16:16Z
-tags: general, chicago, christmas, flickr, hiromi, rails, upgrading, api, nye, killhannah
+tags: ["general","chicago","christmas","flickr","hiromi","rails","upgrading","api","nye","killhannah"]
 title: this is a long awaited post
 wordpress_id: 1155
 wordpress_url: http://www.nata2.org/?p=1155

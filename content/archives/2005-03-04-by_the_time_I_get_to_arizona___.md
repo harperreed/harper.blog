@@ -2,8 +2,7 @@
 date: 2005-03-04T18:56:47Z
 excerpt: Those are my cousins. of course they are awesome. and I will be hanging out
   with them tomorrow. it should be fun. I am flying out tonight....
-tags: general, harper, dylan, reed, family, phone, war, watership, screensaver, development,
-  itunes, blogger, itunesblogger, wordpress, symbian
+tags: ["general","harper","dylan","reed","family","phone","war","watership","screensaver","development","itunes","blogger","itunesblogger","wordpress","symbian"]
 title: by the time I get to arizona...
 wordpress_id: 1001
 wordpress_url: http://new.nata2.org/?p=1001

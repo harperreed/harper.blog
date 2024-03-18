@@ -5,7 +5,7 @@ excerpt: "I had a valentine for this years valentines day. It was really neat. I
   before felt this way about anyone. It is crazy. Valentines day was incredible. it
   was fun, romantic and all that.. \nOn another note, i am in a fun fun electronics
   course. I wrote an oscilliscope/function-generator for a digital acquisiti..."
-tags: friends
+tags: ["friends"]
 title: Valentines
 wordpress_id: 83
 wordpress_url: http://new.nata2.org/?p=83

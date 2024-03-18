@@ -4,7 +4,7 @@ excerpt: to the left side of my page I added my del.icio.us bookmark list. this 
   hopefully have a list of all the sites I have enjoyed recently. ;) get one for yourself.
   or look at my WHOLE list here.i have been really busy at work today. I find it interesting
   that the more busy I am at work the more I update my blog. in...
-tags: sites
+tags: ["sites"]
 title: del.icio.us link list
 wordpress_id: 720
 wordpress_url: http://new.nata2.org/?p=720

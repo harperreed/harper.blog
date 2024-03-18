@@ -5,7 +5,7 @@ excerpt: 'so I have been thinking up this journal entry for a couple days. I ent
   and lost it in the resulting downtime.. ugh.anyway.. I have a theory. it is this:
   so bush declared terror level orange and now their are security dogs on the blue
   line at all times. I think the two are related.. so it isn''t a very ...'
-tags: server, bush, security
+tags: ["server","bush","security"]
 title: Agent orange
 wordpress_id: 445
 wordpress_url: http://new.nata2.org/?p=445

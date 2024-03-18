@@ -1,7 +1,6 @@
 ---
 date: 2008-01-10T16:40:53Z
-tags: general, blogs, rss, data-portability, data, social-networks, opml, google-reader,
-  feeds
+tags: ["general","blogs","rss","data-portability","data","social-networks","opml","google-reader","feeds"]
 title: Data Portability feeds
 wordpress_id: 1503
 wordpress_url: http://www.nata2.org/2008/01/10/data-portability-feeds/

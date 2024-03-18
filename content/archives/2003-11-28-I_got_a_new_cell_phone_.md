@@ -5,8 +5,7 @@ excerpt: It is a lot of fun. I got a Sony Ericsson T610 from tmobile. as you pro
   portability rule to switch from sprint to tmobile. it was relatively painless -
   but I spent to much on the phone. btw. bluetooth RULES. I have it so I always sync
   my phone when I walk into my room. I also have made it turn off my computer wh...
-tags: greeley, phone, colorado, war, crobar, laptop, perl, sprint, phones, mobile,
-  tmobile
+tags: ["greeley","phone","colorado","war","crobar","laptop","perl","sprint","phones","mobile","tmobile"]
 title: I got a new cell phone.
 wordpress_id: 684
 wordpress_url: http://new.nata2.org/?p=684

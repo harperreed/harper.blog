@@ -1,6 +1,6 @@
 ---
 date: 2006-02-20T23:35:25Z
-tags: general, technology, technology, hacking
+tags: ["general","technology","technology","hacking"]
 title: 'Well i purchased my gumstix. '
 wordpress_id: 1213
 wordpress_url: http://www.nata2.org/2006/02/20/well-i-purchased-my-gumstix/

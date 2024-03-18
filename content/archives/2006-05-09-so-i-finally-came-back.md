@@ -1,6 +1,6 @@
 ---
 date: 2006-05-09T03:35:01Z
-tags: general, video, flickr, travel, home, jon
+tags: ["general","video","flickr","travel","home","jon"]
 title: 'So i finally came back. '
 wordpress_id: 1261
 wordpress_url: http://www.nata2.org/2006/05/09/so-i-finally-came-back/

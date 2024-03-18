@@ -1,6 +1,6 @@
 ---
 date: 2005-09-03T18:11:49Z
-tags: general, sad, nola, tragedy
+tags: ["general","sad","nola","tragedy"]
 title: watch this
 wordpress_id: 1124
 wordpress_url: http://www.nata2.org/2005/09/03/watch-this/

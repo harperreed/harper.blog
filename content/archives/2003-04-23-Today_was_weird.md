@@ -5,7 +5,7 @@ excerpt: So I sit her at almost three in the morning with one show off and one s
   that doesn't really make sense.. but whatever. Anyway.. today was weird - I had
   two rather pivotal meeting at work and about other work.. as well as really got
   some good stuff done at work.. I then left work to go to the ministry show whi...
-tags: internet, blood, food, matiss
+tags: ["internet","blood","food","matiss"]
 title: Today was weird
 wordpress_id: 494
 wordpress_url: http://new.nata2.org/?p=494

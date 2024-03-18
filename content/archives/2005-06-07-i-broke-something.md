@@ -1,6 +1,6 @@
 ---
 date: 2005-06-07T12:30:46Z
-tags: general, sick, pain, doctors, foot
+tags: ["general","sick","pain","doctors","foot"]
 title: i broke something
 wordpress_id: 1077
 wordpress_url: http://www.nata2.org/2005/06/07/i-broke-something/

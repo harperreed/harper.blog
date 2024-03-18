@@ -4,7 +4,7 @@ excerpt: "So last night I went to go and see public enemy. It was fun however fl
   flav was not present. Apparently he is in jail. wtf. hehe. but the show was great
   anyway. kinda weird.. but chuck D rocked it hard..\r\nthen I went to a bar and my
   friend kept getting me drinks. I hate that. "
-tags: rock
+tags: ["rock"]
 title: Public Enemy
 wordpress_id: 368
 wordpress_url: http://new.nata2.org/?p=368

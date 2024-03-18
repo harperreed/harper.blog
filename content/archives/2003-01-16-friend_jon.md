@@ -2,7 +2,7 @@
 date: 2003-01-16T14:45:42Z
 excerpt: My friend Jon got an article written about him in our hometown newspaper.
   Check it out. He walked a long way. Wierd - there is appare...
-tags: technology, greeley, bush, business, iraq
+tags: ["technology","greeley","bush","business","iraq"]
 title: friend jon
 wordpress_id: 433
 wordpress_url: http://new.nata2.org/?p=433

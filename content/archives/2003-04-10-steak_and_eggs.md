@@ -5,7 +5,7 @@ excerpt: whoa. I hope nothing like that ever happens to me. that would not be as
   or something. we would probably have to stop the performance. I am sad.. iron maiden
   is touring in europe. I only hope that they swing by chicago.. :( hopefully.. my
   dream...
-tags: chicago, war, insane, juggling
+tags: ["chicago","war","insane","juggling"]
 title: steak and eggs
 wordpress_id: 485
 wordpress_url: http://new.nata2.org/?p=485

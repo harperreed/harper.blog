@@ -1,6 +1,6 @@
 ---
 date: 2007-12-20T12:52:15Z
-tags: technology, linux, ubuntu, desktop-linux, computering, vpn
+tags: ["technology","linux","ubuntu","desktop-linux","computering","vpn"]
 title: My battle with desktop Linux
 wordpress_id: 1500
 wordpress_url: http://www.nata2.org/2007/12/20/my-battle-with-desktop-linux/

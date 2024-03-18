@@ -5,7 +5,7 @@ excerpt: so tonight was really nice. I went to eat with matt, matt, jenny and hi
   to make a picture frame computer. it should be pretty nice. it is strewn about the
   living room onw. much to te bemusement of my roommates I imagine. heh. after irazu
   we came back her and took apart the ibook. it ruled. I also talked a bit to ...
-tags: chris, birthday, hiromi, sushi
+tags: ["chris","birthday","hiromi","sushi"]
 title: reality sets n equal to i*9
 wordpress_id: 790
 wordpress_url: http://new.nata2.org/?p=790

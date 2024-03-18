@@ -1,6 +1,6 @@
 ---
 date: 2005-05-13T10:09:20Z
-tags: general, taiwan, hiromi, ella, yoyos, party, amara
+tags: ["general","taiwan","hiromi","ella","yoyos","party","amara"]
 title: like a hoody on a hot day
 wordpress_id: 1061
 wordpress_url: http://www.nata2.org/2005/05/13/like-a-hoody-on-a-hot-day/

@@ -1,6 +1,6 @@
 ---
 date: 2005-06-24T15:19:01Z
-tags: general, travel, airports, injuries
+tags: ["general","travel","airports","injuries"]
 title: yea. i am going to punch airports in the nuts
 wordpress_id: 1087
 wordpress_url: http://www.nata2.org/2005/06/24/yea-i-am-going-to-punch-airports-in-the-nuts/

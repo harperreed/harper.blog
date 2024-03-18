@@ -7,8 +7,7 @@ excerpt: |-
   and my eyes are sleepy. and I am hungry. and and andlast night
   we went to the science and industry museum - it was closed. suxor.
   hah.&nbsp; so I think I am going to go tomorrow with h...
-tags: general, books, war, sites, college, birthday, tools, games, matiss, irc, hiromi,
-  work, museums
+tags: ["general","books","war","sites","college","birthday","tools","games","matiss","irc","hiromi","work","museums"]
 title: sleeeeepy. hungry. hungry. human needs.
 wordpress_id: 1008
 wordpress_url: http://new.nata2.org/?p=1008

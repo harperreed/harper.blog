@@ -1,6 +1,6 @@
 ---
 date: 2007-11-05T16:35:32Z
-tags: general, threadless, skinnycorp, jobs, employment
+tags: ["general","threadless","skinnycorp","jobs","employment"]
 title: Exciting News!
 wordpress_id: 1490
 wordpress_url: http://www.nata2.org/2007/11/05/exciting-news/

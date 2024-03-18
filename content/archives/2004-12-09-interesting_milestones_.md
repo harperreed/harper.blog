@@ -5,7 +5,7 @@ excerpt: 'i was playing around with my blog software and I noticed something pre
   2525 pictures total in my photolog. I have taken pictures of a bunch of neat stuff.
   it is pretty cool. I have wanted to make a view that is the text from the blog and
   the pictures all in one fancy view. but I haven''t. maybe soon. haha. '
-tags: job, phone, cell, war, video, rock, insane, metal, ipod, nokia
+tags: ["job","phone","cell","war","video","rock","insane","metal","ipod","nokia"]
 title: interesting milestones.
 wordpress_id: 967
 wordpress_url: http://new.nata2.org/?p=967

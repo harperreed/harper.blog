@@ -1,6 +1,6 @@
 ---
 date: 2005-10-17T15:19:24Z
-tags: general, cornell, college, fun, travel
+tags: ["general","cornell","college","fun","travel"]
 title: homecoming college 2005!!
 wordpress_id: 1137
 wordpress_url: http://www.nata2.org/2005/10/17/homecoming-college-2005/

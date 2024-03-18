@@ -5,7 +5,7 @@ excerpt: "so I can now make international calls to everyone. if you want to pran
   an sms gateway so you can leave me messages. or I won't whatever. i will post pictures
   soon. I promise. \nnow I need food. it is lunch time. which is weird I know - since
   I am posting this at 2:15 am. ;)last night g..."
-tags: chicago, rock, food, design, india
+tags: ["chicago","rock","food","design","india"]
 title: i figured out my phone.
 wordpress_id: 851
 wordpress_url: http://new.nata2.org/?p=851

@@ -3,7 +3,7 @@ date: 2004-06-07T19:42:32Z
 excerpt: 'This weekend was pretty nice. I just hung out. watched movies. went to a
   bbq on saturday at my friend cole''s house. it was fun. met some cool cats. after
   the bbq I went with elaine to '
-tags: dylan, phone, crobar, movies, india, hiromi, sushi, nokia
+tags: ["dylan","phone","crobar","movies","india","hiromi","sushi","nokia"]
 title: even the misfits are misfits
 wordpress_id: 878
 wordpress_url: http://new.nata2.org/?p=878

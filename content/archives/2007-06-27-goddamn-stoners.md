@@ -1,6 +1,6 @@
 ---
 date: 2007-06-27T20:46:01Z
-tags: general, humor, life, hilarious, stoners, high-times, shipping
+tags: ["general","humor","life","hilarious","stoners","high-times","shipping"]
 title: Goddamn Stoners!
 wordpress_id: 1460
 wordpress_url: http://www.nata2.org/2007/06/27/goddamn-stoners/

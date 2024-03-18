@@ -2,7 +2,7 @@
 date: 2003-07-21T21:15:41Z
 excerpt: woah. I wish I was good at flash!i would probably end up a stoner. ;)friendster
   still is growing in popularity. it is insane. I wish one of m...
-tags: sites, insane, friendster
+tags: ["sites","insane","friendster"]
 title: my friend.. this is the end..
 wordpress_id: 572
 wordpress_url: http://new.nata2.org/?p=572

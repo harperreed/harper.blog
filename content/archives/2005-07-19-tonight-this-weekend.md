@@ -1,6 +1,6 @@
 ---
 date: 2005-07-19T03:19:51Z
-tags: general, movies, music, hiromi, clubbing, awesome, party, nightlife
+tags: ["general","movies","music","hiromi","clubbing","awesome","party","nightlife"]
 title: tonight / this weekend
 wordpress_id: 1095
 wordpress_url: http://www.nata2.org/?p=1095

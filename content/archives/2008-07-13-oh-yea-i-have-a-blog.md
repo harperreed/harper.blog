@@ -1,6 +1,6 @@
 ---
 date: 2008-07-13T22:32:51Z
-tags: general, twitter, life, blogging
+tags: ["general","twitter","life","blogging"]
 title: oh yea. i have a blog
 wordpress_id: 1537
 wordpress_url: http://www.nata2.org/?p=1537

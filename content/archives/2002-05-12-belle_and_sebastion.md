@@ -5,7 +5,7 @@ excerpt: Tonight my friend and myself went and saw belle and sebastion at the co
   lot of great songs. and they ended with a rendition of Thin Lizzies "The Boys Are
   Back In Town."  The concert was so fun. Insanity. I didn't want it to end eva. heh.  I
   just found out that my site, audreyhacking.com was one of ar...
-tags: nerd, hacking, audreyhacking, audrey, rock
+tags: ["nerd","hacking","audreyhacking","audrey","rock"]
 title: belle and sebastion
 wordpress_id: 280
 wordpress_url: http://new.nata2.org/?p=280

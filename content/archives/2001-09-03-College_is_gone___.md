@@ -5,7 +5,7 @@ excerpt: So K*star left for school today, it was wierd. I want to goto school ag
   K*star better :) Anyway, why is it that we have to grow up. I hate it. Its dumb..I
   really miss having food prepared for me, having everything paid for. Having the
   worst thing be a missed party or something a long those lines. I really do mis...
-tags: friends, school, food, college, girlfriend
+tags: ["friends","school","food","college","girlfriend"]
 title: College is gone...
 wordpress_id: 98
 wordpress_url: http://new.nata2.org/?p=98

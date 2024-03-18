@@ -4,7 +4,7 @@ excerpt: 'yep its true.  ihad blueberry soup last night. I cannot lie. it was ta
   a little out of control.Do you want to be a Rock Star Scenester?Bush warns CEOs:
   ''You''ll be exposed'' - I wonder if they will expose bush in the process of bush
   exposing them. I also wonder if '
-tags: php, war, rock, bush, kstar, kungfu
+tags: ["php","war","rock","bush","kstar","kungfu"]
 title: blueberry soup..
 wordpress_id: 329
 wordpress_url: http://new.nata2.org/?p=329

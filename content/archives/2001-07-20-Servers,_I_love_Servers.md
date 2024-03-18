@@ -4,7 +4,7 @@ excerpt: So i set up my new server last night. You can visit it by going to dope
   Its real real nice. hehe. Dual P3 700mhz, 1gig ram, dual 9 gig scsi drives.. damn
   is it fast. I am running apache, PHP, MYSQL, Qmail, Qpopper,. It rules. I am using
   the Zend Optimizer coupled with the BWA...
-tags: friends, php, server, qmail, apache, war
+tags: ["friends","php","server","qmail","apache","war"]
 title: Servers, I love Servers
 wordpress_id: 17
 wordpress_url: http://new.nata2.org/?p=17

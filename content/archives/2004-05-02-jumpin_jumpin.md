@@ -5,7 +5,7 @@ excerpt: tonight I am going to dinner with morgan. it is kinda weird. I haven't 
   about the whole situation. it is kinda scary. haha. I am glad, however that it is
   scary by design and not scary or uncomfortable because I happened to run in to her
   randomly. we have been talking on email - so it shoudln't be too uncomfo...
-tags: crobar, insane, design, india
+tags: ["crobar","insane","design","india"]
 title: jumpin jumpin
 wordpress_id: 836
 wordpress_url: http://new.nata2.org/?p=836

@@ -5,7 +5,7 @@ excerpt: "Tonight was fantastic. I don't know if I have used fantastic to descri
   Institute's graduate art show(It is real real good and huge) and then we hung out
   with a cool new friend and we went to see spider man. I really enjoyed both. \n\nThe
   movie was quite something. It was incredibly funny and sam raimi h..."
-tags: aim, matiss
+tags: ["aim","matiss"]
 title: spidey shoes
 wordpress_id: 274
 wordpress_url: http://new.nata2.org/?p=274

@@ -5,7 +5,7 @@ excerpt: So today.. I was watching cky4 hanging out with mark and matt.. waiting
   a call from derek exclaiming that my server wasn't responding. so I immediately
   called my lovely colo facility and mentioned to them that I needed my server rebooted.
   so they rebooted it.. ...
-tags: php, server, women, war, video, insane, juggling, aim, broox
+tags: ["php","server","women","war","video","insane","juggling","aim","broox"]
 title: stupid howard stern
 wordpress_id: 661
 wordpress_url: http://new.nata2.org/?p=661

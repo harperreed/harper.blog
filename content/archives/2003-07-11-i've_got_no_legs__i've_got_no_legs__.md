@@ -4,7 +4,7 @@ excerpt: 'So there is this new movie out called whole which is about Body Integr
   Identity Disorder -  or the want to become a amputee. I haven''t seen it - however
   it will probably be interesting. we have seen this stuff before, but not to such
   an extent as outlined in the movie or in '
-tags: social, war, programming, insane, bush, health
+tags: ["social","war","programming","insane","bush","health"]
 title: i've got no legs. i've got no legs..
 wordpress_id: 564
 wordpress_url: http://new.nata2.org/?p=564

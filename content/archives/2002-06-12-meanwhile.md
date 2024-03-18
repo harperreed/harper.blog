@@ -5,7 +5,7 @@ excerpt: "tonight.. I didn't meant o go out. I went to get my haircut.. and ende
   place called inn joy. heh. it was great. I met a lot of friends there and ended
   up hanging out something fierce. it was a great time. \r\nit looks like my state
   is gunna "
-tags: php, colorado, irc, kungfu
+tags: ["php","colorado","irc","kungfu"]
 title: meanwhile
 wordpress_id: 294
 wordpress_url: http://new.nata2.org/?p=294

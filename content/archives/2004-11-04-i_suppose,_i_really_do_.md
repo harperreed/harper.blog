@@ -5,8 +5,7 @@ excerpt: so basically I haven't updated this thing in about 3 years. which is a 
   it is taking a lot of my time. it rules. but I am in a different paradigm than I
   was when I was at the WB. basically I am totally engaged for 8 hours. I have to
   be much more accountable and I have to really justify my actions. th...
-tags: job, reed, war, fear, action, metal, robots, halloween, corporate, matiss, experiment,
-  porn, nyc, amjad, haxored
+tags: ["job","reed","war","fear","action","metal","robots","halloween","corporate","matiss","experiment","porn","nyc","amjad","haxored"]
 title: i suppose, i really do.
 wordpress_id: 956
 wordpress_url: http://new.nata2.org/?p=956

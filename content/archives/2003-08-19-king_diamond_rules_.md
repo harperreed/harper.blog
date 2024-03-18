@@ -3,7 +3,7 @@ date: 2003-08-19T06:28:19Z
 excerpt: |-
   seriously.. awesome.. you should check it out.
   herei am currently listening to kind diamond and lali puna on shuffle.balthus spooks  me out.i need to get SOOOO much work done. it sucks. but I am trucki...
-tags: music
+tags: ["music"]
 title: king diamond rules.
 wordpress_id: 601
 wordpress_url: http://new.nata2.org/?p=601

@@ -4,8 +4,7 @@ excerpt: Well, i have grown up and now i have a job and all sorts of responsibil
   I also got a hobby. I am a tinkerer, a gadgeteer, a hacker. Hehe. That is also a
   synynom for dork. I recently have been setting up my new web server, and hacking
   the audrey and doing all sorts of geeky stuff. I have been coll...
-tags: friends, job, harper, reed, server, hacking, audreyhacking, audrey, computers,
-  hacker
+tags: ["friends","job","harper","reed","server","hacking","audreyhacking","audrey","computers","hacker"]
 title: Hobbies... uhh.. geek
 wordpress_id: 25
 wordpress_url: http://new.nata2.org/?p=25

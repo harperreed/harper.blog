@@ -4,7 +4,7 @@ excerpt: 'First off.. they wrote a good piece of software. They wrote the origin
   gnutella client and leaked enough info out for it to be easily reverse engineered
   and propagated. but AOL pulled it. they recently released a program called waste
   that was '
-tags: war, mom, humor, dad, ella
+tags: ["war","mom","humor","dad","ella"]
 title: Winamp cracks me up..
 wordpress_id: 528
 wordpress_url: http://new.nata2.org/?p=528

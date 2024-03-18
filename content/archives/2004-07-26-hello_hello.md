@@ -2,8 +2,7 @@
 date: 2004-07-26T14:52:11Z
 excerpt: "this is dumb. heh. BREAKING THE LAW!!\r\nthis weekend was pretty fun. I
   got my hair severly cut on friday. no more "
-tags: family, phone, colorado, chicago, video, food, crobar, insane, chris, girls,
-  irc, experiment, nyc, sushi, nokia
+tags: ["family","phone","colorado","chicago","video","food","crobar","insane","chris","girls","irc","experiment","nyc","sushi","nokia"]
 title: hello hello
 wordpress_id: 906
 wordpress_url: http://new.nata2.org/?p=906

@@ -5,7 +5,7 @@ excerpt: with the US targeting a bit of aggression towards france.. I am reminde
   been scared of world war. and now we get our chance. I hope we don't screw this
   up. I am not really crazy. I just think that our world is inane rigth now and needs
   some humor in i...
-tags: war, school, college, bush, humor, dad
+tags: ["war","school","college","bush","humor","dad"]
 title: dream of the requiem
 wordpress_id: 453
 wordpress_url: http://new.nata2.org/?p=453

@@ -4,7 +4,7 @@ excerpt: |-
   goto google
   type miserable failure into the search box
   click I am feeling luckyhere are some funny pictures - poor fat kid.
-tags: php, search, google
+tags: ["php","search","google"]
 title: wow. what an algorithm
 wordpress_id: 690
 wordpress_url: http://new.nata2.org/?p=690

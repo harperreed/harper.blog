@@ -5,7 +5,7 @@ excerpt: 'Last night I hung out with tommie and we went to see the scissor siste
   they are incredibly nice guys. however the pinnicle of the experience was the show.
   o m g. they are really good live. I really didn''t expect it to be soo good. very
   different than I ever imagined. anyway. yea. also I am in love with '
-tags: php, sites
+tags: ["php","sites"]
 title: scissor sisters
 wordpress_id: 937
 wordpress_url: http://new.nata2.org/?p=937

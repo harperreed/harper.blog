@@ -1,6 +1,6 @@
 ---
 date: 2008-02-23T16:54:30Z
-tags: technology, community, rails, wired, rant
+tags: ["technology","community","rails","wired","rant"]
 title: Rails and Wired magazine
 wordpress_id: 1507
 wordpress_url: http://www.nata2.org/2008/02/23/rails-and-wired-magazine/

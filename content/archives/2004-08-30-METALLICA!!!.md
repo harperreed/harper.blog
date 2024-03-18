@@ -5,7 +5,7 @@ excerpt: "haha. \nso this weekend was pretty ridiculous. it was generally out of
   it all started on Wednesday (of course).  so for the past couple weeks I have been
   working  nights a lot. so I have also had a LOT of screwed up sleep - i.e. none.
   especially at night. soo... on Wednesday I was struggl..."
-tags: rock, food, crobar, metal, mom
+tags: ["rock","food","crobar","metal","mom"]
 title: METALLICA!!!
 wordpress_id: 925
 wordpress_url: http://new.nata2.org/?p=925

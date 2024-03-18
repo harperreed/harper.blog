@@ -1,6 +1,6 @@
 ---
 date: 2006-09-10T14:00:57Z
-tags: general, update, entries
+tags: ["general","update","entries"]
 title: 'too many entries... '
 wordpress_id: 1339
 wordpress_url: http://www.nata2.org/2006/09/10/too-many-entries/

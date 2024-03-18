@@ -5,7 +5,7 @@ excerpt: "i really like yoyoing. I made up a couple trick. I am calling it harpe
   a HUGE juggling convention this weekend. but I am sadly going to have to stay home
   nad work. it sucks. stupid work. always getting in the way. I am going to punch
   it. right in the head. PUNCH PUNCH PUNCH. \ni picked up a surp..."
-tags: harper, phone, video, juggling, business, apple, yoyoing
+tags: ["harper","phone","video","juggling","business","apple","yoyoing"]
 title: oh yea. says the octagon
 wordpress_id: 979
 wordpress_url: http://new.nata2.org/?p=979

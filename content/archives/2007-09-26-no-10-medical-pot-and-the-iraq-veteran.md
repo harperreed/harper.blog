@@ -1,6 +1,6 @@
 ---
 date: 2007-09-26T10:40:17Z
-tags: general
+tags: ["general"]
 title: 'No. 10: Medical Pot and the Iraq Veteran'
 wordpress_id: 1480
 wordpress_url: http://www.nata2.org/2007/09/26/no-10-medical-pot-and-the-iraq-veteran/

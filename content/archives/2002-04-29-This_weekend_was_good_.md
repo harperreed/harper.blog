@@ -4,7 +4,7 @@ excerpt: I was in another fasion show on friday. IT was at a crazy little place 
   le passage. The scene was silly, however Art and science did hair and I love them.
   haha. Then on saturday and sunday We went to the toss up juggling festival. It was
   great as well. We came in second in numerous competitions, including 7 club endur...
-tags: fashion, juggling
+tags: ["fashion","juggling"]
 title: This weekend was good.
 wordpress_id: 270
 wordpress_url: http://new.nata2.org/?p=270

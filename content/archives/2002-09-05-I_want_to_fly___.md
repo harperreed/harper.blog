@@ -4,7 +4,7 @@ excerpt: 'I guess even little kids need so diviation from the normal toys.. (rea
   the reviews on that one).. a vibrating broom.. that all the children love to "ride"
   around. heh. ride. So I set up a DVD sharing system. it is gunna be pretty sweet.
   whee. hehe. check it out '
-tags: harper, chicago, war, bush, iraq
+tags: ["harper","chicago","war","bush","iraq"]
 title: I want to fly...
 wordpress_id: 349
 wordpress_url: http://new.nata2.org/?p=349

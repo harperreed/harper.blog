@@ -5,7 +5,7 @@ excerpt: So hiromi and I went to dinner at this really great place called irazu.
   I planned for this -cuz I brought my laptop... so I could get some work done. I
   also brought my vision connection kit so I could use my cell phone as a modem and
   rule!!! however.. I couldn't get the bastard to work. So while I was bathi...
-tags: phone, cell, internet, war, laptop, hiromi
+tags: ["phone","cell","internet","war","laptop","hiromi"]
 title: wifi in you eye
 wordpress_id: 378
 wordpress_url: http://new.nata2.org/?p=378

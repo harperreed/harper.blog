@@ -3,7 +3,7 @@ date: 2004-09-20T07:00:45Z
 excerpt: 'probably more later. seriously. to describe the nonsense would be impossible.
   it was rough. I made it. barely. much much much much more later. I promise. for
   now: pictures - pictures - '
-tags: phone, rock, nokia
+tags: ["phone","rock","nokia"]
 title: this weekend was a mess
 wordpress_id: 939
 wordpress_url: http://new.nata2.org/?p=939

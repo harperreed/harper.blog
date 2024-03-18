@@ -1,6 +1,6 @@
 ---
 date: 2005-09-16T01:25:30Z
-tags: general, blogs, internet, movies, mom, music, travel, sleepy, crazy, parents
+tags: ["general","blogs","internet","movies","mom","music","travel","sleepy","crazy","parents"]
 title: blogging is sometimes hard. yea know. cuz it takes effort
 wordpress_id: 1130
 wordpress_url: http://www.nata2.org/?p=1130

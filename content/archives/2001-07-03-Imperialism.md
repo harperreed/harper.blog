@@ -5,7 +5,7 @@ excerpt: Hey yall, I have been reading some books for the last couple of months 
   is to destroy/assimilate culture and life of others. I find this disturbing, but
   mostly because it is an easy racket to get involved in. Is it hard, to maintain
   a cultural identity within the pseudo "melting pot" of the U.S.
-tags: general, friends, books
+tags: ["general","friends","books"]
 title: Imperialism
 wordpress_id: 3
 wordpress_url: http://new.nata2.org/?p=3

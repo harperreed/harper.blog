@@ -5,7 +5,7 @@ excerpt: check out my new site.. a500hacking. I know I am a big dork. but... umm
   then start a website dedicated to learning all I can about my new phone..  So last
   night I went to a couple parties. It was fun. One was a "indie rocker house party"
   that I was invited to by my f...
-tags: phone, hacking, women, rock, birthday
+tags: ["phone","hacking","women","rock","birthday"]
 title: wireless interaction.
 wordpress_id: 355
 wordpress_url: http://new.nata2.org/?p=355

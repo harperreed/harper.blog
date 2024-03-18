@@ -5,7 +5,7 @@ excerpt: 'give it to me.. give it to me yea.. its my weakness.. so today is the 
   to just brave it out. also.. the ricola was cutting the hell out of my mouth. I
   guess I suck too much. hahaha. anyway.. yea. so a bunch of journalists have been
   fired for having blogs.. '
-tags: blogs
+tags: ["blogs"]
 title: sweetness...
 wordpress_id: 627
 wordpress_url: http://new.nata2.org/?p=627

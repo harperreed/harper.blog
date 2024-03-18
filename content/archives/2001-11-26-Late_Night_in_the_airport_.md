@@ -5,7 +5,7 @@ excerpt: So I was walking in DIA heading to my terminal when I noticed a set of 
   model that will work." I think it was called go2net... althought io don't really
   remember. All I know is that they used linux and a slow version of netscape 4 and
   the terminal next to mine kernal panic...
-tags: chicago, internet, business, linux
+tags: ["chicago","internet","business","linux"]
 title: Late Night in the airport.
 wordpress_id: 135
 wordpress_url: http://new.nata2.org/?p=135

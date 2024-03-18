@@ -5,7 +5,7 @@ excerpt: so I have been reading the rabbit series of books by john updike. they 
   night. after I finished "rabbit, run" I immediately started "rabbit is rich." anyway.
   I have been thinking about rabbit and what I like/dislike about him in these books.
   well I don't really like him in "rabbit, run" - I think he is obviously t...
-tags: books
+tags: ["books"]
 title: he does stuff
 wordpress_id: 973
 wordpress_url: http://new.nata2.org/?p=973

@@ -5,7 +5,7 @@ excerpt: "I am officially done with work today. super weird. i get to start my n
   a fun and new experience. hehe. sounds lame but it is true. my coworker just asked
   me if i was a world book employee  - i was all \"nope\" and he tackled me. \n\nwell
   now it is off to my \"party\"\n"
-tags: job
+tags: ["job"]
 title: enders gamer
 wordpress_id: 945
 wordpress_url: http://new.nata2.org/?p=945

@@ -2,7 +2,7 @@
 date: 2004-09-05T00:07:30Z
 excerpt: 'ok. here are the pictures from dylans wedding: Wedding and bachelor party.it
   was fun. I am sleepy ;)'
-tags: dylan, wedding
+tags: ["dylan","wedding"]
 title: pictures pictures pictures
 wordpress_id: 928
 wordpress_url: http://new.nata2.org/?p=928

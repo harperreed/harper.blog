@@ -5,8 +5,7 @@ excerpt: yesterday and last nigth was pretty fun. guru, siddu and myself all wen
   with lots of shops. I went to this great little shop that had some nice sandlewood
   and such. it was all very nice but really expensive. so I lost money in that gamble.
   and probably yall gained some gifts ;). I then purchased a swatch watch(mainly...
-tags: social, kinnera, cell, search, sick, food, chris, bush, action, politics, politic,
-  iraq, planes
+tags: ["social","kinnera","cell","search","sick","food","chris","bush","action","politics","politic","iraq","planes"]
 title: so. this is a story
 wordpress_id: 853
 wordpress_url: http://new.nata2.org/?p=853

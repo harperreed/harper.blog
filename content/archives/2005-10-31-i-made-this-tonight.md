@@ -1,6 +1,6 @@
 ---
 date: 2005-10-31T05:59:23Z
-tags: general, rails, ajax, whotheheck
+tags: ["general","rails","ajax","whotheheck"]
 title: I made this tonight
 wordpress_id: 1145
 wordpress_url: http://www.nata2.org/2005/10/31/i-made-this-tonight/

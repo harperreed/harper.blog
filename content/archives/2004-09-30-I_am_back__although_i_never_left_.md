@@ -5,7 +5,7 @@ excerpt: so i accidently broke my webserver. haha. well by accidently i mean i a
   so in the process i broke it. it sucked. but now it is mostly back to normal. everything
   is pretty much the same except i am unable to officially do my photolog right now.
   but i still update the master "
-tags: books, php, server, sites, laptop, asia, porn, hiromi
+tags: ["books","php","server","sites","laptop","asia","porn","hiromi"]
 title: I am back. although i never left.
 wordpress_id: 944
 wordpress_url: http://new.nata2.org/?p=944

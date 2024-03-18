@@ -5,7 +5,7 @@ excerpt: hehe. this weekend was an incredible experiment in what I can take - mo
   is really something I am not exactly proud of - but it was a lot of fun. so it all
   started on thrusday. me and some friends went to a smartbar party - and then to
   crobar.  I had to try out my new "drop my name and you can get into crobar for...
-tags: harper, reed, rock, food, crobar, programming, insane, matiss, experiment, amjad
+tags: ["harper","reed","rock","food","crobar","programming","insane","matiss","experiment","amjad"]
 title: i amaze myself with my ability to not die.
 wordpress_id: 872
 wordpress_url: http://new.nata2.org/?p=872

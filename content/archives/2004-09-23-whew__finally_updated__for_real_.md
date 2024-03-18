@@ -4,8 +4,7 @@ excerpt: it has been a weird couple days. It all started last wednesday. tommie 
   me to alert me of his presence and invite me to scissor sisters. that ruled. we
   hung out then. and then we went to crobar and I broke myself. i hadn't been feeling
   good. so I stayed in bed friday. then we...
-tags: phone, war, rock, crobar, insane, movies, fashion, action, music, hong, kong,
-  nokia
+tags: ["phone","war","rock","crobar","insane","movies","fashion","action","music","hong","kong","nokia"]
 title: whew. finally updated. for real.
 wordpress_id: 941
 wordpress_url: http://new.nata2.org/?p=941

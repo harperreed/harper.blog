@@ -1,6 +1,6 @@
 ---
 date: 2007-11-29T01:15:08Z
-tags: general, linux, osx, ubuntu, unix, desktop-linux
+tags: ["general","linux","osx","ubuntu","unix","desktop-linux"]
 title: 'Desktop Linux.... '
 wordpress_id: 1493
 wordpress_url: http://www.nata2.org/2007/11/29/desktop-linux/

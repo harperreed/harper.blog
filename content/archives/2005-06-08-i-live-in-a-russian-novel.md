@@ -1,6 +1,6 @@
 ---
 date: 2005-06-08T12:49:25Z
-tags: general, job, chicago, injured, train, cta, medicine
+tags: ["general","job","chicago","injured","train","cta","medicine"]
 title: i live in a russian novel.
 wordpress_id: 1078
 wordpress_url: http://www.nata2.org/2005/06/08/i-live-in-a-russian-novel/

@@ -3,7 +3,7 @@ date: 2003-03-16T09:49:17Z
 excerpt: |-
   heh. so I stayed up real late tonight looking at web cam girl pages. what a weird world that is. I don't quite understand it. Such a voyeuristic world we have here. poor weird cat.
   Sometimes the internet is not amusing. It took me far too l...
-tags: internet, women
+tags: ["internet","women"]
 title: Web Cam Girls
 wordpress_id: 464
 wordpress_url: http://new.nata2.org/?p=464

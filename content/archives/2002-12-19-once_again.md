@@ -5,7 +5,7 @@ excerpt: i find myself in an airport terminal.. using my trusty cell phone as in
   laptop. weird. I mean the laptop isn't much bigger.. but still - I can't fit it
   in my pocket and I can't use it to navigate my palm..I am going to LA in an hour
   to see my brother graduate from comme...
-tags: juggle, phone, cell, internet, war, school, laptop, juggling, screensaver
+tags: ["juggle","phone","cell","internet","war","school","laptop","juggling","screensaver"]
 title: once again
 wordpress_id: 418
 wordpress_url: http://new.nata2.org/?p=418

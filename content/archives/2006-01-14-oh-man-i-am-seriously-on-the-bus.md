@@ -1,6 +1,6 @@
 ---
 date: 2006-01-14T02:13:00Z
-tags: general, technology, phone, mobile, awesome, bus
+tags: ["general","technology","phone","mobile","awesome","bus"]
 title: 'oh man. i am seriously on the bus. '
 wordpress_id: 1159
 wordpress_url: http://www.nata2.org/2006/01/14/oh-man-i-am-seriously-on-the-bus/

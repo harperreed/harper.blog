@@ -2,7 +2,7 @@
 date: 2005-01-20T17:58:11Z
 excerpt: "so I got my mac mini. it came during my last blog entry. I was excited.
   \nof course. apple had to pack it all nice and such. I appreciate how minimal a..."
-tags: phone, osx, apple, nokia
+tags: ["phone","osx","apple","nokia"]
 title: Mac Mini! oh yea. part deux
 wordpress_id: 983
 wordpress_url: http://new.nata2.org/?p=983

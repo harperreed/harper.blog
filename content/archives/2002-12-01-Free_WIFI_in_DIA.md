@@ -5,7 +5,7 @@ excerpt: SO I take out my laptop to check my email using my phone.. and I for ki
   wifi signal. so I type a web address and I get authenticated through att wireless
   "free" wifi service in airports. RULE. now it is time to look at some pron. haha.
   anyway.. I will be back to chitown soon.. I had a really good time in greeley ...
-tags: greeley, phone, cell, laptop
+tags: ["greeley","phone","cell","laptop"]
 title: Free WIFI in DIA
 wordpress_id: 409
 wordpress_url: http://new.nata2.org/?p=409

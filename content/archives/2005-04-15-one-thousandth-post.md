@@ -1,6 +1,6 @@
 ---
 date: 2005-04-15T10:00:42Z
-tags: general, dylan, blogs, ella, google, one, thousandth, post, resume, jon, riottech
+tags: ["general","dylan","blogs","ella","google","one","thousandth","post","resume","jon","riottech"]
 title: 'one thousandth post. '
 wordpress_id: 1046
 wordpress_url: http://www.nata2.org/2005/04/13/one-thousandth-post/
