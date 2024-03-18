@@ -5,7 +5,7 @@ excerpt: today was pretty fun. I worked. wore a tie. etc etc. it was nifty. and 
   dispise and hate it. i picked up an airport express. it is relly pretty cool. I
   like what I am abl eto do with it. especially the streaming of music. that is really
   really cool. I can't really think of anything cooler. I have it h...
-tags: music
+tags: ["music"]
 title: today of all days
 wordpress_id: 922
 wordpress_url: http://new.nata2.org/?p=922

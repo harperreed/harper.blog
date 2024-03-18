@@ -5,7 +5,7 @@ excerpt: '"How do you turn around troubled lives when so many of our social prob
   to say the problems specific to human behavoir are "addiction and violence." The
   question Salon.com raises, is what is the governments role? Well folks, I asked
   you a question... W...'
-tags: general, social
+tags: ["general","social"]
 title: ' Subduction'
 wordpress_id: 4
 wordpress_url: http://new.nata2.org/?p=4

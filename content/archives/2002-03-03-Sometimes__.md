@@ -5,7 +5,7 @@ excerpt: This weekend was good, my friend from high school, megan, came and visi
   surreal. After I got home from work - I immediately got a huge headache. HUGE. it
   was horrible. I stumbled around and then a firned picked me up. I passed out in
   her car and awoke to find myself in a nice indian resturant. ahh.. how nice. I a...
-tags: chicago, war, school, metal, tones, india
+tags: ["chicago","war","school","metal","tones","india"]
 title: Sometimes..
 wordpress_id: 221
 wordpress_url: http://new.nata2.org/?p=221

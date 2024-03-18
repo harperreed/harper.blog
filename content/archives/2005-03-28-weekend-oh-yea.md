@@ -1,6 +1,6 @@
 ---
 date: 2005-03-28T02:29:32Z
-tags: general, blogs, food, crobar, flickr, hong, kong, sushi, itunes, awesome, party
+tags: ["general","blogs","food","crobar","flickr","hong","kong","sushi","itunes","awesome","party"]
 title: weekend oh yea
 wordpress_id: 1030
 wordpress_url: http://www.nata2.org/2005/03/28/weekend-oh-yea/

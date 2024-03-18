@@ -1,6 +1,6 @@
 ---
 date: 2005-09-07T13:52:45Z
-tags: general, awesome, hack, geek
+tags: ["general","awesome","hack","geek"]
 title: Photolog fixored
 wordpress_id: 1126
 wordpress_url: http://www.nata2.org/2005/09/07/photolog-fixored/

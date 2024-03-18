@@ -1,6 +1,6 @@
 ---
 date: 2006-09-01T02:36:34Z
-tags: general, hiromi, lazy, chilling, rain
+tags: ["general","hiromi","lazy","chilling","rain"]
 title: today has been a lazy and rainy day.
 wordpress_id: 1331
 wordpress_url: http://www.nata2.org/2006/09/01/today-has-been-a-lazy-and-rainy-day/

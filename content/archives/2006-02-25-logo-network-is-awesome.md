@@ -1,6 +1,6 @@
 ---
 date: 2006-02-25T23:30:33Z
-tags: general, movies, logo, lesbian, grill, tnt, crap, gay
+tags: ["general","movies","logo","lesbian","grill","tnt","crap","gay"]
 title: LOGO network is awesome
 wordpress_id: 1221
 wordpress_url: http://www.nata2.org/2006/02/25/logo-network-is-awesome/

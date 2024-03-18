@@ -5,7 +5,7 @@ excerpt: I just finished watching Donnie Darko. It was quite the movie. I enjoye
   of christ - a movie that isn't necessarily halloweenish. It is also funny how similar
   donnie darko was to this movie. Heh. I smiledwhen they showed clips of evil dead.
   I really enjoyed the movie. I liked the music and how the sound inter...
-tags: insane, chris, halloween, humor, music
+tags: ["insane","chris","halloween","humor","music"]
 title: last temptation
 wordpress_id: 451
 wordpress_url: http://new.nata2.org/?p=451

@@ -3,7 +3,7 @@ date: 2003-07-23T15:09:01Z
 excerpt: 'as per usual.. a bunch of stuff is happening...North Korea has given a date
   to the U.S. to resolve its problems with N. Koreas nuclear arms.. woah.. I guess
   we should really learn about earth before the N. koreans and the U.S. '
-tags: insane, bush, security, military, aim, health, politics, politic, iraq
+tags: ["insane","bush","security","military","aim","health","politics","politic","iraq"]
 title: Sorry, people, cycling is not a sport
 wordpress_id: 575
 wordpress_url: http://new.nata2.org/?p=575

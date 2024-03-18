@@ -1,7 +1,6 @@
 ---
 date: 2005-07-07T17:32:05Z
-tags: general, books, blogs, coding, projects, hiromi, development, management, ruby,
-  rails, yoyo, agile, engineering, firefox, gtd
+tags: ["general","books","blogs","coding","projects","hiromi","development","management","ruby","rails","yoyo","agile","engineering","firefox","gtd"]
 title: so damned busy
 wordpress_id: 1093
 wordpress_url: http://www.nata2.org/?p=1093
@@ -17,7 +16,7 @@ First off i have to start <strong>scheduling things</strong>. It has helped quit
 
 whew.. my projects. i have so much going on. i am working with on a fancy project. and that is all about that - except it has really changed how i view project management. It has lead me down a pretty fierce road of <a href="http://jpatokal.iki.fi/photo/travel/Israel/Golan/Golan_Minefield.JPG">minefield</a> project management conversion.  <a href="http://sethgodin.typepad.com/">A friend</a> sent me this book called the <a href="http://www.amazon.com/exec/obidos/tg/detail/-/1572316217?v=glance">Software Project Survival Guide</a> which has really helped me look at software projects in such a fashion as to make them productive rather than evil. it has been VERY VERY helpful.  It really made me reevaluate how i managed my work, and my internal projects. 
 
-This lead me to <a href="http://nata2.info/pictures/misc/phone_camera/nokia_7610/070720050036/Nokia7610%28291%29.jpg">buy the first technical books</a> i have purchased since college. I call this my "re-engineering" or my "de-advertising." After not working wiht engineers for 6 months, i lost the vocabulary, the quirks and the function of being in that mindframe. I hope that these books will bring me back. heh. 
+This lead me to <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//pictures/misc/phone_camera/nokia_7610/070720050036/Nokia7610%28291%29.jpg">buy the first technical books</a> i have purchased since college. I call this my "re-engineering" or my "de-advertising." After not working wiht engineers for 6 months, i lost the vocabulary, the quirks and the function of being in that mindframe. I hope that these books will bring me back. heh. 
 
 First I picked up the <a href="http://www.pragmaticprogrammer.com/titles/rails/">Agile Web Development with Rails</a> ebook. It is very good. I wish i would have had this when i was starting to develop in rails. it covers a lot of the stuff that i originally struggled with.  Stupid plurality. I am really excited about the future in rails. I have SOOO many rails projects to do. soooon. hah. 
 
@@ -25,7 +24,7 @@ The next books i purchased was <a href="http://www.joelonsoftware.com/">Joel on 
 
 I am tired of getting the gest. a week ago i was told by two separate people that i was really good, but i didn't speak the write language. Well damnit. i am going to learn the language. haha. Take that computer. 
 
-in a completely other world, hiromi's friend is over from japan. She is really nice. She is a huge apple fan and loves ipods. so we gathered all our ipods together and <a href="http://nata2.info/pictures/misc/phone_camera/nokia_7610/070720050036/Nokia7610%28290%29.jpg">BAM</a>.
+in a completely other world, hiromi's friend is over from japan. She is really nice. She is a huge apple fan and loves ipods. so we gathered all our ipods together and <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//pictures/misc/phone_camera/nokia_7610/070720050036/Nokia7610%28290%29.jpg">BAM</a>.
 
 hiromi is leaving soon - which is sad. but hopefully i will visit japan. and taiwan. visiting all my far away friends. 
 

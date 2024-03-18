@@ -5,7 +5,7 @@ excerpt: today everything I am wearing is either grey or black. even my underwea
   it until I was on the train. but yea. everything is grey. hah. it is still sad out
   today.  the weather is nice though. the sun. however it is cold. it is kinda how
   I feel right now.  last night morgan sent me an email that r...
-tags: harper, chris, holidays
+tags: ["harper","chris","holidays"]
 title: gray. i am starting to hate dismantling.
 wordpress_id: 815
 wordpress_url: http://new.nata2.org/?p=815

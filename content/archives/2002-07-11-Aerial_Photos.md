@@ -2,7 +2,7 @@
 date: 2002-07-11T06:10:36Z
 excerpt: |
   There is something about aerial photos. they always fascinate me. it rules.
-tags: college
+tags: ["college"]
 title: Aerial Photos
 wordpress_id: 317
 wordpress_url: http://new.nata2.org/?p=317

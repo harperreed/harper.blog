@@ -1,6 +1,6 @@
 ---
 date: 2006-11-12T17:59:17Z
-tags: general
+tags: ["general"]
 title: 'Last night was insane: tags car is broken, hung out with cool peeps'
 wordpress_id: 1382
 wordpress_url: http://www.nata2.org/2006/11/12/last-night-was-insane-tags-car-is-broken-hung-out-with-cool-peeps/

@@ -5,7 +5,7 @@ excerpt: "I forgot to mention in my last post that I went and saw the show produ
   quite surprised. Matthew Broderick was very good as was the understudy for nathan
   lane(alas he couldn't make it). It was quite funny. some of the jokes caught me
   quite off guard. heh. \nbeing in new york, and seeing a lot of hasidic ..."
-tags: internet, business, jokes
+tags: ["internet","business","jokes"]
 title: Producers
 wordpress_id: 216
 wordpress_url: http://new.nata2.org/?p=216

@@ -5,7 +5,7 @@ excerpt: Today is nerve racking. My brother is driving to california to begin wh
   the vcational commercial diving achool on the 7th of january. It is pretty exciting.
   It reflects on me as being grown up. I don't want to grow up. Things are also hard
   right now. I think that my relationship is slipping. The dist...
-tags: family, health, perl
+tags: ["family","health","perl"]
 title: Don't ask don't tell
 wordpress_id: 153
 wordpress_url: http://new.nata2.org/?p=153

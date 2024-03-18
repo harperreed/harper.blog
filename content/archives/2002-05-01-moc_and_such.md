@@ -5,8 +5,7 @@ excerpt: 'I have a strange hobby where I look at people peronal home pages. I re
   heh. it is a strange voyeuristic hobby I guess, however it passes the time. I used
   to look primarily at slashdot comments. But lately I have been playing on moc, I
   recently '
-tags: juggle, greeley, chicago, blogs, search, women, war, sick, juggling, design,
-  games, girls, porn
+tags: ["juggle","greeley","chicago","blogs","search","women","war","sick","juggling","design","games","girls","porn"]
 title: moc and such
 wordpress_id: 271
 wordpress_url: http://new.nata2.org/?p=271

@@ -1,6 +1,6 @@
 ---
 date: 2005-10-17T16:58:00Z
-tags: general, hacking, stereo, hifi, t-amp
+tags: ["general","hacking","stereo","hifi","t-amp"]
 title: t-amp hacking
 wordpress_id: 1139
 wordpress_url: http://www.nata2.org/2005/10/17/t-amp-hacking/

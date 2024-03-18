@@ -1,6 +1,6 @@
 ---
 date: 2006-11-21T18:28:33Z
-tags: technology, osx, apple, mac, asterisk, voip
+tags: ["technology","osx","apple","mac","asterisk","voip"]
 title: Mac telephony mailing list
 wordpress_id: 1387
 wordpress_url: http://www.nata2.org/2006/11/21/mac-telephony-mailing-list/

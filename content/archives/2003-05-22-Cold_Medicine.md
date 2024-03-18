@@ -5,7 +5,7 @@ excerpt: 'Today I had another battle: me vs. pseudo-ephedrine and caffiene. I lo
   sleep. I keep having waves of absolute exhaustion wash over me. woah. it is insane.
   But I am propping myself up against my cube with the sticks I collected at lunch
   and attempting to seem busy.speaking of busy - I seriously rocked...'
-tags: war, rock, insane
+tags: ["war","rock","insane"]
 title: Cold Medicine
 wordpress_id: 518
 wordpress_url: http://new.nata2.org/?p=518

@@ -1,6 +1,6 @@
 ---
 date: 2008-03-02T02:32:39Z
-tags: technology, hosting, rackspace, mosso, servers, mediatemple, webfaction, fdcservers
+tags: ["technology","hosting","rackspace","mosso","servers","mediatemple","webfaction","fdcservers"]
 title: Awesome hosting options
 wordpress_id: 1510
 wordpress_url: http://www.nata2.org/2008/03/02/awesome-hosting-options/

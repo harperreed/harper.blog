@@ -1,6 +1,6 @@
 ---
 date: 2007-08-11T20:07:00Z
-tags: general, internet, annoying, outage, cable-internet, comcast, comcast-sucks
+tags: ["general","internet","annoying","outage","cable-internet","comcast","comcast-sucks"]
 title: I really hate Comcast
 wordpress_id: 1471
 wordpress_url: http://www.nata2.org/2007/08/11/i-really-hate-comcast/

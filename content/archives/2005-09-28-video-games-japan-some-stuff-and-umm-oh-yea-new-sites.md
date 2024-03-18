@@ -1,7 +1,6 @@
 ---
 date: 2005-09-28T01:38:03Z
-tags: general, chicago, hacking, games, hiromi, skinnycorp, awesome, psp, jpan, console,
-  emulation
+tags: ["general","chicago","hacking","games","hiromi","skinnycorp","awesome","psp","jpan","console","emulation"]
 title: video games, japan some stuff.. and umm.. oh yea. new sites
 wordpress_id: 1132
 wordpress_url: http://www.nata2.org/?p=1132
@@ -28,7 +27,7 @@ i sometimes feel that one of my main skills is that of a networker. it relaly ma
 
 <a href="http://web.mit.edu/chachaoc/www/2005.09.10.Mohawking/index.htm">getting a mohawk</a> is very liberating. i promise. you should all do it.
 
-most of the links on my blog i pull from my <a href="http://del.icio.us/nata2">del.icio.us</a> feed. how i love my del.icio.us feed. it is a simple thing that really helps me keep track of the internet. which is apaprently big. one thing that i missed about traveling so much and not working when everyone else is working is that i missed all the links that were given out in our <a href="http://corp.dopeman.org">irc</a> channel. so i made our tinyurl bot post our links to our irc channel's <a href="http://del.icio.us/corporate">del.icio.us account</a>. haha. i will never miss a link again. the source for the bot is at <a href="http://nata2.info/?path=code%2Firc_url_bot">nata2.info/code</a>. check it out for your own channels. i am NOT a nerd. i promise. i only spend about 40 hours a week on irc. 
+most of the links on my blog i pull from my <a href="http://del.icio.us/nata2">del.icio.us</a> feed. how i love my del.icio.us feed. it is a simple thing that really helps me keep track of the internet. which is apaprently big. one thing that i missed about traveling so much and not working when everyone else is working is that i missed all the links that were given out in our <a href="http://corp.dopeman.org">irc</a> channel. so i made our tinyurl bot post our links to our irc channel's <a href="http://del.icio.us/corporate">del.icio.us account</a>. haha. i will never miss a link again. the source for the bot is at <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//?path=code%2Firc_url_bot">nata2.info/code</a>. check it out for your own channels. i am NOT a nerd. i promise. i only spend about 40 hours a week on irc. 
 
 heh. 
 

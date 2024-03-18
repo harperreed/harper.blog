@@ -1,6 +1,6 @@
 ---
 date: 2006-01-29T16:12:19Z
-tags: general, reading, vinge, simmons, fantasy
+tags: ["general","reading","vinge","simmons","fantasy"]
 title: 'last night. '
 wordpress_id: 1202
 wordpress_url: http://www.nata2.org/2006/01/29/last-night/

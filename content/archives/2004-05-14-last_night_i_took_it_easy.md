@@ -5,7 +5,7 @@ excerpt: so last night vinay and myself hung around bangalore and went to differ
   nice and relaxing. I was in bed by 10 and asleep by 10:15. hah. the churches were
   pretty cool. they are all very majestic and quite something. it was as I expected
   - a mix of indian and western stylings. vinay's favorite was the best ...
-tags: domains, war, bush, fashion, games, india, clubbing
+tags: ["domains","war","bush","fashion","games","india","clubbing"]
 title: last night i took it easy
 wordpress_id: 860
 wordpress_url: http://new.nata2.org/?p=860

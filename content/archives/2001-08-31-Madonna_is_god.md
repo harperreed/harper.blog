@@ -5,7 +5,7 @@ excerpt: So I saw madonna the other night, and i would like to say that she is v
   have seen a few). She had great choreography, and incredible sets and costumes.
   It was quite spectacular. I would love to go again, and i have been scouring ebay
   for more tickets. The only problem was, that our tickets weren't exactly "g...
-tags: friends, kinnera
+tags: ["friends","kinnera"]
 title: Madonna is god
 wordpress_id: 96
 wordpress_url: http://new.nata2.org/?p=96

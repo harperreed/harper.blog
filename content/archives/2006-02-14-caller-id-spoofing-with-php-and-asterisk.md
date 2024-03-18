@@ -1,6 +1,6 @@
 ---
 date: 2006-02-14T14:28:58Z
-tags: general, technology, technology
+tags: ["general","technology","technology"]
 title: Caller id spoofing with PHP and asterisk
 wordpress_id: 1211
 wordpress_url: http://www.nata2.org/2006/02/14/caller-id-spoofing-with-php-and-asterisk/

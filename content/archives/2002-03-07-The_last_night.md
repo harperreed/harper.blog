@@ -4,7 +4,7 @@ excerpt: last night I watched rosemary's baby. hehe. how fun. I like tha movie. 
   all have to check out this game. It is quite nice. Also check out this site for
   some fun puzzles. heh. i am so sleepy. I stayed up wyay late last night. I shouldn't
   have. hehe. I had an oppurtunity to hit the sack quite ea...
-tags: college, action, perl
+tags: ["college","action","perl"]
 title: The last night
 wordpress_id: 226
 wordpress_url: http://new.nata2.org/?p=226

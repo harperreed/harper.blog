@@ -4,7 +4,7 @@ excerpt: "My friend Davidson Cole has made a movie called Design. It is about: \
   Sonya is struggling to save her father from alcoholism after his wife leaves him.
   Voyeuristic photographer Nicholas is obsessed with women, yet hides behind the prying
   lens of his camera. Cursed factory wo..."
-tags: php, women, war, sick, movies, source, design, health, irc, politic, wedding
+tags: ["php","women","war","sick","movies","source","design","health","irc","politic","wedding"]
 title: davidson's movie.
 wordpress_id: 390
 wordpress_url: http://new.nata2.org/?p=390

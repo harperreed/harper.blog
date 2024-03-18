@@ -1,6 +1,6 @@
 ---
 date: 2006-05-04T03:08:47Z
-tags: general, chicago, rights, protest, immigration, rally, hr4437, 1mayhuelga
+tags: ["general","chicago","rights","protest","immigration","rally","hr4437","1mayhuelga"]
 title: May 1st Immigration Rally/Parade
 wordpress_id: 1258
 wordpress_url: http://www.nata2.org/2006/05/04/may-1st-immigration-rallyparade/

@@ -1,6 +1,6 @@
 ---
 date: 2009-03-08T15:54:09Z
-tags: general, iphone, kindle, ebooks
+tags: ["general","iphone","kindle","ebooks"]
 title: 'My thoughts on the kindle: 1 vs 2 and the iphone app'
 wordpress_id: 1608
 wordpress_url: http://www.nata2.org/?p=1608

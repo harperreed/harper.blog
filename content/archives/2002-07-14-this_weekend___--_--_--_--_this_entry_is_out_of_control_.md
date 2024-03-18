@@ -5,7 +5,7 @@ excerpt: heh. hah. hoh. Yea. so this weekend was great. it really was. Quite som
   rebel.. and I went to work. I was able to wear jeans.. cuz friday is casual.. hah.
   so I worked.. and then I got home... and went to a couple art openings..  The one
   that was memorable was A ...
-tags: war, birthday, metal, humor, games, irc, cars, hiromi
+tags: ["war","birthday","metal","humor","games","irc","cars","hiromi"]
 title: this weekend.. -- -- -- -- this entry is out of control.
 wordpress_id: 319
 wordpress_url: http://new.nata2.org/?p=319

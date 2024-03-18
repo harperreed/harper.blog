@@ -5,7 +5,7 @@ excerpt: seriously.. it was incredible. I finally was able to get my cyberarts b
   to be such a fancy book. or a book that was actually at a store... and real. it
   is weird. I look at my picture and am like.. woah.. I am famous. haha. well not
   really.. but sorta. heh.tonight I went to spybar and as I left. I saw ...
-tags: insane, metal, cars
+tags: ["insane","metal","cars"]
 title: today ruled
 wordpress_id: 581
 wordpress_url: http://new.nata2.org/?p=581

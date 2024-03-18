@@ -1,6 +1,6 @@
 ---
 date: 2007-03-17T19:19:35Z
-tags: general, hacking, perl, irc, plugin, twitter, make, blogging, source-code
+tags: ["general","hacking","perl","irc","plugin","twitter","make","blogging","source-code"]
 title: 'My newest twitter hack: Twitter IRC bot'
 wordpress_id: 1419
 wordpress_url: http://www.nata2.org/2007/03/17/my-newest-twitter-hack-twitter-irc-bot/

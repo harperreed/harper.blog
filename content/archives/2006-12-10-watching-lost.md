@@ -1,6 +1,6 @@
 ---
 date: 2006-12-10T23:34:37Z
-tags: general, television, lost, entertainment, addiction
+tags: ["general","television","lost","entertainment","addiction"]
 title: Watching Lost.
 wordpress_id: 1394
 wordpress_url: http://www.nata2.org/2006/12/10/watching-lost/

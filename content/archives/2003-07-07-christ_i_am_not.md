@@ -5,8 +5,7 @@ excerpt: "So on thursday I got really bored and made a false profile for a chris
   it deleted the best part. I was so sad. :( here is an excerpt: \nWhen I was a younger
   lad, I unfortunately witnessed a crime of passion that changed my life forever.
   Finding my mother in ..."
-tags: family, chicago, search, community, chris, bush, action, vacation, games, hong,
-  restaurant
+tags: ["family","chicago","search","community","chris","bush","action","vacation","games","hong","restaurant"]
 title: christ i am not
 wordpress_id: 560
 wordpress_url: http://new.nata2.org/?p=560

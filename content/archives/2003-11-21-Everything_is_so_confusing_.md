@@ -4,7 +4,7 @@ excerpt: "So work got hard again. everyone is super stressed and really getting 
   about this project. I am confident it will be resolved soon enough. we just have
   to do it ;)in the meantime, we shoudl all be playing NES and then download GTA and
   go killin. \n"
-tags: phone, colorado, rock, kstar, games, phones
+tags: ["phone","colorado","rock","kstar","games","phones"]
 title: Everything is so confusing.
 wordpress_id: 682
 wordpress_url: http://new.nata2.org/?p=682

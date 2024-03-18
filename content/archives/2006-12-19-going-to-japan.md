@@ -1,6 +1,6 @@
 ---
 date: 2006-12-19T02:23:25Z
-tags: general, christmas, hiromi, travel, japan, new-years
+tags: ["general","christmas","hiromi","travel","japan","new-years"]
 title: Going to Japan.
 wordpress_id: 1399
 wordpress_url: http://www.nata2.org/2006/12/19/going-to-japan/

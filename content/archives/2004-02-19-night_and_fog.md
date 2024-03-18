@@ -5,7 +5,7 @@ excerpt: last night morgan and I watched night and fog - a really good documenta
   It was the first time I had seen actual movie footage of all the bodies and such.
   it was quite haunting. I am not a fan of genocide. I thought that the end of the
   documentary was quite appropriate -...
-tags: war
+tags: ["war"]
 title: night and fog
 wordpress_id: 757
 wordpress_url: http://new.nata2.org/?p=757

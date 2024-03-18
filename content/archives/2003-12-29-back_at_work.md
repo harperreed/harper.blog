@@ -5,7 +5,7 @@ excerpt: 'so work is going wellish. I guess as well as work always goes. I am ex
   I really enjoy reading peoples blogs and now that I have discovered the love of
   the rss aggregators and the wonders of OPML I really appreciate all that it does
   for me. I was reading my morning blogs when I stumbled upon '
-tags: blogs, search, war, community, video, chris, christmas, brooks
+tags: ["blogs","search","war","community","video","chris","christmas","brooks"]
 title: back at work
 wordpress_id: 707
 wordpress_url: http://new.nata2.org/?p=707

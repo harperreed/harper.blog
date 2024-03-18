@@ -1,6 +1,6 @@
 ---
 date: 2006-11-15T01:43:34Z
-tags: general, blogs, hosting, watershiporg
+tags: ["general","blogs","hosting","watershiporg"]
 title: Watership.org blogs
 wordpress_id: 1384
 wordpress_url: http://www.nata2.org/2006/11/15/watershiporg-blogs/

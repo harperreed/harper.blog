@@ -5,7 +5,7 @@ excerpt: George Bush is an awesome president. America has lost 3.3 million jobs 
   have no health insurance. (4 out of 5 of them are in working families.) This is
   the 29th month of the Bush recession. Right now, there are more than 9 million Americans
   who are looking for work. Bush has the worst jobs record of any pres...
-tags: job, search, bush, source, health, girls, google, friendster
+tags: ["job","search","bush","source","health","girls","google","friendster"]
 title: Bush's record..
 wordpress_id: 632
 wordpress_url: http://new.nata2.org/?p=632

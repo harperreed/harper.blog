@@ -5,7 +5,7 @@ excerpt: so this mornign at 7 we started launching a site at work. I was sleepin
   keeping me up. nothing is better than death metal at seven in the morning.Last night,
   after my work.. I hung out with hiromi and read. it was fun. then we went to reza's
   - which is always good. after that we cabbed it up to...
-tags: women, metal, halloween, juggling, hiromi, boobs
+tags: ["women","metal","halloween","juggling","hiromi","boobs"]
 title: LUNCH.. i mean launch..
 wordpress_id: 663
 wordpress_url: http://new.nata2.org/?p=663

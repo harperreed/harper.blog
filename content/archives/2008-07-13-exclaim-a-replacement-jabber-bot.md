@@ -1,6 +1,6 @@
 ---
 date: 2008-07-13T23:51:24Z
-tags: general, jabber, twitter, python, bot, xmpp, django, google-app-engine, sleekxmpp
+tags: ["general","jabber","twitter","python","bot","xmpp","django","google-app-engine","sleekxmpp"]
 title: Excla.im - a replacement jabber bot
 wordpress_id: 1543
 wordpress_url: http://www.nata2.org/?p=1543

@@ -5,7 +5,7 @@ excerpt: my shirt is causing my neck to turn red. usually this isn't a good thin
   early. nobody is out and around - but somehow I still managed to come to work barely
   by nine. I don't quite understand how this works. I leave my house anywhere from
   8-8:30ish and get here everyday at nine. it is insane. I hate getting...
-tags: php, insane, juggling, music, matiss
+tags: ["php","insane","juggling","music","matiss"]
 title: i think i am allergic to my shirt.
 wordpress_id: 745
 wordpress_url: http://new.nata2.org/?p=745

@@ -1,6 +1,6 @@
 ---
 date: 2007-06-13T05:51:55Z
-tags: general, windows, editors, blogging, microsoft, windows-live-writer
+tags: ["general","windows","editors","blogging","microsoft","windows-live-writer"]
 title: New Window Live  Writer released
 wordpress_id: 1457
 wordpress_url: http://www.nata2.org/2007/06/13/new-window-live-writer-released/

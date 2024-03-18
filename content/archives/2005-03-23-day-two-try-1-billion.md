@@ -1,7 +1,6 @@
 ---
 date: 2005-03-23T14:46:50Z
-tags: general, php, blogs, wordpress, content, management, trackbacks, xml, xslt,
-  mvc, smarty
+tags: ["general","php","blogs","wordpress","content","management","trackbacks","xml","xslt","mvc","smarty"]
 title: Day two try 1 billion
 wordpress_id: 1026
 wordpress_url: http://www.nata2.org/2005/03/23/day-two-try-1-billion/

@@ -5,7 +5,7 @@ excerpt: today was hard. I was able to hold up. Work was ok. I am trying to deci
   dvd. . I am thinking about drowning my sorrows in technology(something I do really
   good) and buying a laptop. hmm.. but I need one with UXGA(ahhh 1600x1200), however
   that shit is expensive.. I don't want to pay $2500 for a freaking computer(...
-tags: technology, hacking, laptop, girlfriend
+tags: ["technology","hacking","laptop","girlfriend"]
 title: It is better
 wordpress_id: 161
 wordpress_url: http://new.nata2.org/?p=161

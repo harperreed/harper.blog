@@ -5,7 +5,7 @@ excerpt: So yesterday I was really busy at work.. and I didn't get a chance to e
   snacked and didn't really get dinner. so today.. I am dieing.. everytime I stand
   up  - everything starts spinning. haha.. silly head.. always blacking out. ;) it
   isn't actually that bad.. but I am really really hungry.i can't WAIT for lun...
-tags: dylan, sushi
+tags: ["dylan","sushi"]
 title: umm yea.. i should eat..
 wordpress_id: 640
 wordpress_url: http://new.nata2.org/?p=640

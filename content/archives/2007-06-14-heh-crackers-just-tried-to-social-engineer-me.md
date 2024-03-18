@@ -1,6 +1,6 @@
 ---
 date: 2007-06-14T03:05:59Z
-tags: technology, technology, scary, hilarious, social-engineering, crackers, amazing
+tags: ["technology","technology","scary","hilarious","social-engineering","crackers","amazing"]
 title: heh. Crackers just tried to social engineer me
 wordpress_id: 1458
 wordpress_url: http://www.nata2.org/2007/06/13/heh-crackers-just-tried-to-social-engineer-me/

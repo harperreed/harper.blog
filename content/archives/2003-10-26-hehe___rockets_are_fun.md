@@ -5,7 +5,7 @@ excerpt: So I am in colorado.. hanging out with my parents and my brother. it is
   funny watching little kids play sports. they do really funny things. COle is the
   quarterback.. so he got to play a lot.. and he is quite good. then we had a nice
   dinner.. and then I went to fort collins to see where dylan lives, works and hang...
-tags: job, dylan, colorado, war, video, rock, games
+tags: ["job","dylan","colorado","war","video","rock","games"]
 title: hehe.. rockets are fun
 wordpress_id: 657
 wordpress_url: http://new.nata2.org/?p=657

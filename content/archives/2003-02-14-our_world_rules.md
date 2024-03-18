@@ -3,7 +3,7 @@ date: 2003-02-14T16:21:01Z
 excerpt: |-
   Happy Valentines dayToday is my brothers birthday. Happy birthday dylan. for your birthday I got you a nuclear war threat.
   sweet huhI love the our leaders ability to really fudge certain things.. like the propagand...
-tags: dylan, reed, php, chicago, war, birthday, source, humor, terrorism, asia, iraq
+tags: ["dylan","reed","php","chicago","war","birthday","source","humor","terrorism","asia","iraq"]
 title: our world rules
 wordpress_id: 447
 wordpress_url: http://new.nata2.org/?p=447

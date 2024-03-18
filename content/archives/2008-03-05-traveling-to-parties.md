@@ -1,6 +1,6 @@
 ---
 date: 2008-03-05T20:37:31Z
-tags: general, colorado, travel, parties, sxsw, techcocktail, boulder, austin, texas
+tags: ["general","colorado","travel","parties","sxsw","techcocktail","boulder","austin","texas"]
 title: TechCocktail Boulder and SXSW! Come see me!
 wordpress_id: 1512
 wordpress_url: http://www.nata2.org/2008/03/05/traveling-to-parties/

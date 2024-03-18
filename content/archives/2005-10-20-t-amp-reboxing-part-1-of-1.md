@@ -1,6 +1,6 @@
 ---
 date: 2005-10-20T07:08:42Z
-tags: general, skinnycorp, audio, t-amp, bugs
+tags: ["general","skinnycorp","audio","t-amp","bugs"]
 title: t-amp reboxing part 1 of 1
 wordpress_id: 1141
 wordpress_url: http://www.nata2.org/2005/10/20/t-amp-reboxing-part-1-of-1/

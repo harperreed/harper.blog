@@ -4,7 +4,7 @@ excerpt: "i am sleepy. I worked late again today. I worked late everyday for the
   month. LAME. soon I will be taking a day for myself. I really need it. \n\ncheck
   this out. I (as well as soem others) rule.some escitment is at our feetand. I am
   sleepy. \n"
-tags: business
+tags: ["business"]
 title: well well well
 wordpress_id: 989
 wordpress_url: http://new.nata2.org/?p=989

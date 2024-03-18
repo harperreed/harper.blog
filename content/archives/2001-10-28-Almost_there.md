@@ -5,7 +5,7 @@ excerpt: 'This past weekend my girlfriend came, it was great. I had a wonderful 
   said this morning, "a year has one of eveything in it." I never realized it - but
   it is true. Together we have been through almost everything. how nice. I enjoy it
   so so much. Walking last night, we found one of '
-tags: girlfriend
+tags: ["girlfriend"]
 title: Almost there
 wordpress_id: 121
 wordpress_url: http://new.nata2.org/?p=121

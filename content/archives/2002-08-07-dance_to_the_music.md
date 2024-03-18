@@ -2,7 +2,7 @@
 date: 2002-08-07T18:29:56Z
 excerpt: "this is humorous.. this is weird.. \r\nsmile your on candid camera..\r\nuhh..
   wtf.. "
-tags: humor, ipod
+tags: ["humor","ipod"]
 title: dance to the music
 wordpress_id: 334
 wordpress_url: http://new.nata2.org/?p=334

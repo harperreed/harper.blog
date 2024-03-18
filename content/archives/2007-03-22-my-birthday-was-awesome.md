@@ -1,6 +1,6 @@
 ---
 date: 2007-03-22T14:38:48Z
-tags: general, birthday, movies, fun, memcached, 300, studs-terkel
+tags: ["general","birthday","movies","fun","memcached","300","studs-terkel"]
 title: My birthday was awesome
 wordpress_id: 1423
 wordpress_url: http://www.nata2.org/2007/03/22/my-birthday-was-awesome/

@@ -4,7 +4,7 @@ excerpt: The good news is.. I came a accros this really great dj, dj Z-trip. I g
   he is doing work for ugh.. linkin park.. but other than that minor character flaw..
   he does great remixes.. specifically a cd called "uneasy listening." It is a bunch
   of remixes of pretty good songs.. like metallica and midnight oil mixed toget...
-tags: job, war, bush, metal, iraq
+tags: ["job","war","bush","metal","iraq"]
 title: good news/bad news.
 wordpress_id: 342
 wordpress_url: http://new.nata2.org/?p=342

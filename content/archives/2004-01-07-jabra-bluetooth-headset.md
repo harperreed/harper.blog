@@ -1,6 +1,6 @@
 ---
 date: 2004-01-07T11:01:41Z
-tags: general
+tags: ["general"]
 title: Jabra bluetooth headset
 wordpress_id: 1169
 wordpress_url: http://www.nata2.org/2004/01/07/jabra-bluetooth-headset/

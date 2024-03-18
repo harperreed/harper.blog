@@ -1,6 +1,6 @@
 ---
 date: 2005-06-29T00:16:22Z
-tags: general, travel, work, ruby, rails, on
+tags: ["general","travel","work","ruby","rails","on"]
 title: 'holy butterball '
 wordpress_id: 1089
 wordpress_url: http://www.nata2.org/2005/06/29/holy-butterball/

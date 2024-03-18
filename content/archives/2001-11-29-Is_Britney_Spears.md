@@ -5,7 +5,7 @@ excerpt: Oh boy, oh boy. Last night kstar came up and we went to the Britney Spe
   year olds. It was insanity. O-town opened for her and they were horrible. They had
   a hip hop part.. they sang the puff daddy song "wanna be a baller," it was funny
   the only guys who rapped were the "ethnic" guys. well I guess that isn't...
-tags: women, concerts, design, kstar, dad
+tags: ["women","concerts","design","kstar","dad"]
 title: Is Britney Spears?
 wordpress_id: 138
 wordpress_url: http://new.nata2.org/?p=138

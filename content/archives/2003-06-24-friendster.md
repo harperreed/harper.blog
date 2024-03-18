@@ -3,7 +3,7 @@ date: 2003-06-24T21:16:45Z
 excerpt: So while friendster is sucking it up.. cacheing everything.. and taking a
   long time for shit to work.. I did some research. this guy started it.. he has apparently
   been around for awhile. check out the growth. it is obvious t...
-tags: search, friendster
+tags: ["search","friendster"]
 title: friendster
 wordpress_id: 551
 wordpress_url: http://new.nata2.org/?p=551

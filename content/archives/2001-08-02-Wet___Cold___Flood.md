@@ -4,7 +4,7 @@ excerpt: Remember that TMBG album.. well it happened to chicago today. It was cr
   I was awoke at 7:50 by my X10 lights reacting to thunder and lightning(maybe static
   electricity?) and then i looked outside and noticed... apocalypse!!! So i got dressed,
   started my chi...
-tags: friends, chicago
+tags: ["friends","chicago"]
 title: Wet.. Cold.. Flood
 wordpress_id: 23
 wordpress_url: http://new.nata2.org/?p=23

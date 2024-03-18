@@ -5,7 +5,7 @@ excerpt: Today I made a dtd. This isn't really exciting so to speak. But it is q
   up. Last night the phone rang like 5 minutes after I went to sleep.. at like 1:45
   or so... and I when I got up to answer the phone I glanced over and noticed a glowing
   ball of spirits next to my bed. they slowly dissipated.. mostly because ...
-tags: phone, video, humor, music
+tags: ["phone","video","humor","music"]
 title: tuo siht kcehc
 wordpress_id: 283
 wordpress_url: http://new.nata2.org/?p=283

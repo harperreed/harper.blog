@@ -5,7 +5,7 @@ excerpt: i guess I still need to write that paper on online communities and the 
   virtual "ubermensch." heh. I guess I wasn't clear in what I was saying. I am naive
   enough to jump to the conclusion that I can use the idea of the ubermensch when
   ...
-tags: social, war, community, tones, development, friendster
+tags: ["social","war","community","tones","development","friendster"]
 title: online communities
 wordpress_id: 603
 wordpress_url: http://new.nata2.org/?p=603

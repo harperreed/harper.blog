@@ -1,6 +1,6 @@
 ---
 date: 2006-05-30T19:33:52Z
-tags: general
+tags: ["general"]
 title: 'DRONE! Flickr, holiday weekends, birthdays and fun. stupid stupid fun. '
 wordpress_id: 1278
 wordpress_url: http://www.nata2.org/2006/05/30/drone-flickr-holiday-weekends-birthdays-and-fun-stupid-stupid-fun/

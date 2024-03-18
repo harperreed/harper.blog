@@ -1,6 +1,6 @@
 ---
 date: 2008-10-06T01:20:02Z
-tags: general, chicago, hacking, bus, api, transit
+tags: ["general","chicago","hacking","bus","api","transit"]
 title: Chicago Transit API
 wordpress_id: 1569
 wordpress_url: http://www.nata2.org/?p=1569

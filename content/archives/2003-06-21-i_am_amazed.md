@@ -5,7 +5,7 @@ excerpt: Last night I went to this electro party. it was OK. it was a HUGE space
   and overall it did a good job as a party. my friend Chris DJ'd and that ruled..
   but some cats were pissed.. cuz his headphones were similiar to their previously
   stolen ones. wtf. speaking of headph...
-tags: job, phone, food, chris, ipod, phones, hiromi
+tags: ["job","phone","food","chris","ipod","phones","hiromi"]
 title: i am amazed
 wordpress_id: 547
 wordpress_url: http://new.nata2.org/?p=547

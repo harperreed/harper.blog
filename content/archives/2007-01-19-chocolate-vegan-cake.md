@@ -1,6 +1,6 @@
 ---
 date: 2007-01-19T17:25:15Z
-tags: general
+tags: ["general"]
 title: Chocolate Vegan Cake
 wordpress_id: 1407
 wordpress_url: http://www.nata2.org/2007/01/19/chocolate-vegan-cake/

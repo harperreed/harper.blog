@@ -1,6 +1,6 @@
 ---
 date: 2006-07-16T16:11:48Z
-tags: general
+tags: ["general"]
 title: Five Simple Things You Can Do to Help Save the World
 wordpress_id: 1306
 wordpress_url: http://www.nata2.org/2006/07/16/five-simple-things-you-can-do-to-help-save-the-world/

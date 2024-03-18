@@ -1,6 +1,6 @@
 ---
 date: 2005-10-12T06:12:38Z
-tags: general, skinnycorp, awesome, crazy, hifi, amp
+tags: ["general","skinnycorp","awesome","crazy","hifi","amp"]
 title: 'all sorts of firey goodness. '
 wordpress_id: 1136
 wordpress_url: http://www.nata2.org/2005/10/12/all-sorts-of-firey-goodness/

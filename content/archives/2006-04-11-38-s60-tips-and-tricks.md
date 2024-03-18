@@ -1,6 +1,6 @@
 ---
 date: 2006-04-11T13:21:54Z
-tags: general
+tags: ["general"]
 title: '38 S60 tips and tricks '
 wordpress_id: 1242
 wordpress_url: http://www.nata2.org/phone-stuff/38-s60-tips-and-tricks/

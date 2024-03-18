@@ -3,8 +3,7 @@ date: 2004-06-24T20:40:56Z
 excerpt: |-
   i hate being sick. it totally blows. I love black metal. I really don't know how they are related. but I have listened to black metal for the last couple months. and it rules. today was all emporer.
   i got bored of choosign music for my ipod - so I let itunes do it this time. it did a pretty good job. I am proud. anyway. last night I played yoyo and cleaned my room. it was co...
-tags: job, server, sites, sick, rock, crobar, programming, metal, sex, music, jokes,
-  ipod, yoyoing, itunes, clubbing
+tags: ["job","server","sites","sick","rock","crobar","programming","metal","sex","music","jokes","ipod","yoyoing","itunes","clubbing"]
 title: 'stupid sick :: jokesareawesome.com'
 wordpress_id: 891
 wordpress_url: http://new.nata2.org/?p=891
@@ -13,7 +12,7 @@ wordpress_url: http://new.nata2.org/?p=891
 i hate being sick. it totally blows. I love black metal. I really don't know how they are related. but I have listened to black metal for the last couple months. and it rules. today was all emporer.
 <br/><br/>i got bored of choosign music for my ipod - so I let itunes do it this time. it did a pretty good job. I am proud. <br/><br/>anyway. last night I played yoyo and cleaned my room. it was cool. I got these new bearings for my yoyojam hitmen (:P) and they are <a href="http://www.dif-e-yo.com/konkave.htm">"konkave"</a> so the string rests on the center and then the yoyo acts very smooth. rico suave. it rules. tricks for years. <br/><br/>
 
-check this out. haha. <a href="http://nata2.info">nata2.info</a> rules. it has an <a href="http://www.alexa.com/data/details/traffic_details?q=&amp;url=nata2.info">alexa traffic rank</a> of 96,525 and is constantly being blocked by web proxies. haha. my friends told him this:
+check this out. haha. <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info/">nata2.info</a> rules. it has an <a href="http://www.alexa.com/data/details/traffic_details?q=&amp;url=nata2.info">alexa traffic rank</a> of 96,525 and is constantly being blocked by web proxies. haha. my friends told him this:
 <blockquote>
 <small>
 The site you requested is blocked under your organization's filtering policy. It fits into the following filtering category(ies) that your organization has chosen to block: <br/>

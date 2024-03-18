@@ -5,7 +5,7 @@ excerpt: I am really sick. it sucks quite a bit. I have a sore throat, achy bone
   and I was in bed al yesterday. it sucks. not a good scene at all. especially since
   I am unable to take a sick day/days at work. no good at all. anyway.. so on friday
   I went to a party but went home cuz I was ill - yesterday I went ...
-tags: sick
+tags: ["sick"]
 title: Sick Sick Sick Sick
 wordpress_id: 622
 wordpress_url: http://new.nata2.org/?p=622

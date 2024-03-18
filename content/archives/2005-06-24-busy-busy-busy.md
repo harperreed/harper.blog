@@ -1,6 +1,6 @@
 ---
 date: 2005-06-24T15:23:32Z
-tags: general, job, music, travel, mobile, general
+tags: ["general","job","music","travel","mobile","general"]
 title: busy busy busy
 wordpress_id: 1088
 wordpress_url: http://www.nata2.org/2005/06/24/busy-busy-busy/

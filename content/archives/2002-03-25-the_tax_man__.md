@@ -5,7 +5,7 @@ excerpt: tonight.. I did and possibly finished my taxes. it is incredible. I tho
   helping me along the way ;). That is very funny to me. All I had to do was answer
   questionsa nd hope it came out right. I hope that I did it correctly. I hated tonights
   academy awards.  I thought that beautiful mind should not have ...
-tags: war, fashion
+tags: ["war","fashion"]
 title: the tax man..
 wordpress_id: 239
 wordpress_url: http://new.nata2.org/?p=239

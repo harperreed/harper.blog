@@ -3,7 +3,7 @@ date: 2003-01-28T20:18:29Z
 excerpt: 'I sit here in training for a search engine.. and the world potentially falls
   apart. well.. one thing is for sure.. bush rules. I mean jesus, can that guy be
   a worse president. I think many peopla agree... but the '
-tags: search, war, sick, bush, politics, politic
+tags: ["search","war","sick","bush","politics","politic"]
 title: Once again...
 wordpress_id: 439
 wordpress_url: http://new.nata2.org/?p=439

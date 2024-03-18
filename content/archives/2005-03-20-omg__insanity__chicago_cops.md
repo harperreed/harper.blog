@@ -5,7 +5,7 @@ excerpt: so tonight I went to crobar. my friend dayle met me. he is crazy. I am 
   not have been driving crazy. I don't know. however we got pulled over. the cops
   pulled their guns and told us to get out with our hands up. we both did. they made
   us get out and they searched us rather throughoughly. (that is spelled horrib...
-tags: general, chicago, search, war, crobar, insane, birthday, parties
+tags: ["general","chicago","search","war","crobar","insane","birthday","parties"]
 title: omg. insanity. chicago cops
 wordpress_id: 1011
 wordpress_url: http://new.nata2.org/?p=1011

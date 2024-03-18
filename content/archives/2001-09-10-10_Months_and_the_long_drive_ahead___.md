@@ -5,7 +5,7 @@ excerpt: So my girlfriend and myself have been dating 10 months. That is a real 
   is like 80% of a year, 304 days, a little over 1 million seconds(i think :)). So
   anyway, i am excited to go and see her at college. Hopefully all goes well and i
   get to go visit. I miss her terribly. My only solace is in my second bes...
-tags: phone, cell, college, girlfriend, marriage
+tags: ["phone","cell","college","girlfriend","marriage"]
 title: 10 Months and the long drive ahead...
 wordpress_id: 101
 wordpress_url: http://new.nata2.org/?p=101

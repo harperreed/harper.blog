@@ -5,7 +5,7 @@ excerpt: So I have seen this site around the net for awhile and I went to it a c
   boy are they funny. I laughed a lot. a whole whole lot. damned funny if you ask
   me. It is about a crazy man in charge of a video game store, and his antics with
   really dumb customers. it i...
-tags: video
+tags: ["video"]
 title: sometimes...
 wordpress_id: 140
 wordpress_url: http://new.nata2.org/?p=140

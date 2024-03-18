@@ -5,7 +5,7 @@ excerpt: Today is sunday. I hung out a bunch. it was great. on friday. well.. I 
   arrived.. we hung out and went to a steak place. it ruled. y little cousin was fun.
   on thursday I went to navy pier with them and we rented a 5 person bike. we ran
   about on the lake front and totally ruled the big city bikers.. we then went ...
-tags: food, matiss, hiromi
+tags: ["food","matiss","hiromi"]
 title: wheeee canned
 wordpress_id: 535
 wordpress_url: http://new.nata2.org/?p=535

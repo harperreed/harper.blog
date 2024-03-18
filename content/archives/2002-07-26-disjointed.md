@@ -5,7 +5,7 @@ excerpt: "Today has been weird. I am almost done with my encyclopedia. like pret
   and to clean up. I am excited to see how it does.. but I spent a small amount of
   time looking at some links I found.. \nbritPOP fans unite. this is a very very strange
   flash movie. derige..."
-tags: reed, php, school, design, games, girls, experiment, lego
+tags: ["reed","php","school","design","games","girls","experiment","lego"]
 title: disjointed
 wordpress_id: 328
 wordpress_url: http://new.nata2.org/?p=328

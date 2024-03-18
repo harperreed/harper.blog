@@ -5,7 +5,7 @@ excerpt: So I finally made a decision and paid off most of my credit cards and s
   goddamn it. I usually don't swear in my blog. but I feel that this is a good time
   to do it. however.. I feel better - cuz now I can finally get a handle on my finances.
   I mean it was cool having a bunch of money in savings.. hahah. but it is...
-tags: business
+tags: ["business"]
 title: man o man.. i don't know quite what to think.
 wordpress_id: 670
 wordpress_url: http://new.nata2.org/?p=670

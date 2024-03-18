@@ -1,7 +1,6 @@
 ---
 date: 2005-05-23T00:06:55Z
-tags: general, books, hacking, crobar, programming, music, wedding, hiromi, google,
-  hacks, ruby, rails, trex, bike, danielle, psp
+tags: ["general","books","hacking","crobar","programming","music","wedding","hiromi","google","hacks","ruby","rails","trex","bike","danielle","psp"]
 title: 'see.. i told you so. '
 wordpress_id: 1068
 wordpress_url: http://www.nata2.org/2005/05/23/see-i-told-you-so/

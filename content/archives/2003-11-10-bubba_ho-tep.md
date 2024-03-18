@@ -5,7 +5,7 @@ excerpt: 'On saturday night, matiss and I went to bubba ho-tep. it was really gr
   close. all I knon is that now being monday morning.. I am ready for some A C T -
   I O N. ;)i am really sleepy last night. for some reason I just didn''t sleep well.
   stupid well. '
-tags: war, chris, author, matiss
+tags: ["war","chris","author","matiss"]
 title: bubba ho-tep
 wordpress_id: 671
 wordpress_url: http://new.nata2.org/?p=671

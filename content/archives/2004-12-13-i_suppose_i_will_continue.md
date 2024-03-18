@@ -5,8 +5,7 @@ excerpt: on where I left off just a second ago. so anyawy. this weekend was a lo
   and my family. stupid money. why is all this shit so expensive. I would elaborate
   - but that might give away some of the oh so secret secrets I have. and their are
   many. so many it hurts inside.  this weekend I did a lot of ran...
-tags: books, family, server, hacking, sites, computers, chris, christmas, websites,
-  travel, itunes, blogger, itunesblogger, ituneshacking
+tags: ["books","family","server","hacking","sites","computers","chris","christmas","websites","travel","itunes","blogger","itunesblogger","ituneshacking"]
 title: i suppose i will continue
 wordpress_id: 971
 wordpress_url: http://new.nata2.org/?p=971

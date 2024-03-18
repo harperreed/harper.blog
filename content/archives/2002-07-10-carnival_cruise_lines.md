@@ -5,7 +5,7 @@ excerpt: once again theree is a carnival in front of my house. it is quite stran
   sounds of the carnival. but whataver.. heh. tonight I went to innjoy to see my friends
   brock and amanda dj. they are nice deejays. they play electro, which is becoming
   fun to listen to. I really do feel that industrial music will spawn from ...
-tags: rock, music
+tags: ["rock","music"]
 title: carnival cruise lines
 wordpress_id: 314
 wordpress_url: http://new.nata2.org/?p=314

@@ -4,7 +4,7 @@ excerpt: So.. a friend of mine messaged me and was rather freaked out by the fac
   that a online celebrity RPG was stalking her. heh. I did a bit of research and I
   noticed that the entire kill hannah group is enveloped in this stupid internet false
   world. hehe. weird...
-tags: php, internet, search, insane, juggling, music, girls, philosophy, kungfu, hiromi
+tags: ["php","internet","search","insane","juggling","music","girls","philosophy","kungfu","hiromi"]
 title: omg. sometimes people are really dumb..
 wordpress_id: 756
 wordpress_url: http://new.nata2.org/?p=756

@@ -1,7 +1,6 @@
 ---
 date: 2007-04-22T16:30:08Z
-tags: technology, technology, threadless, travel, california, santa-clara, skinnycorp,
-  mysqlconf, mysql
+tags: ["technology","technology","threadless","travel","california","santa-clara","skinnycorp","mysqlconf","mysql"]
 title: Sitting in the hotel lobby...
 wordpress_id: 1437
 wordpress_url: http://www.nata2.org/2007/04/22/sitting-in-the-hotel-lobby/

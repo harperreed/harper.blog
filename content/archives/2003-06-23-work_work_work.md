@@ -5,7 +5,7 @@ excerpt: Last night I came home early and worked a bit. I was so tired though. I
   I finally got on track and worked a bunch. I got a lot of the first part of my project
   done. it is still far from being completed - but.. it is right on track.. eek..
   still it is a big project. my headphones have been a total...
-tags: phone, food, laptop, music, aim, matiss, girls, ipod, philosophy, phones
+tags: ["phone","food","laptop","music","aim","matiss","girls","ipod","philosophy","phones"]
 title: work work work
 wordpress_id: 548
 wordpress_url: http://new.nata2.org/?p=548

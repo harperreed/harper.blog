@@ -1,6 +1,6 @@
 ---
 date: 2005-08-25T16:37:30Z
-tags: general, technology, hiromi, work, geek
+tags: ["general","technology","hiromi","work","geek"]
 title: work is fun
 wordpress_id: 1117
 wordpress_url: http://www.nata2.org/2005/08/25/work-is-fun/
@@ -8,7 +8,7 @@ wordpress_url: http://www.nata2.org/2005/08/25/work-is-fun/
 
 i enjoy work. it is fun. the people are nice. i am excited to get relaly involved and spend days and nights here. haha. 
 
-i <a href="http://nata2.info/?path=pictures%2Fmisc%2Fphone_camera%2Fnokia_7610%2F250820050948&img=Nokia7610%28333%29.jpg">have</a> a lot of <a href="http://nata2.info/?path=pictures%2Fmisc%2Fphone_camera%2Fnokia_7610%2F250820051114&img=Nokia7610%28334%29.jpg">monitor</a> at my desk. a combined amount of 47inches. w00t. the best is the little 7" lilliput display. totally for irc and by irc i mean work. The office is real nice.  it is real real open and everything is pretty cool. i am so far happy here.
+i <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//?path=pictures%2Fmisc%2Fphone_camera%2Fnokia_7610%2F250820050948&img=Nokia7610%28333%29.jpg">have</a> a lot of <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//?path=pictures%2Fmisc%2Fphone_camera%2Fnokia_7610%2F250820051114&img=Nokia7610%28334%29.jpg">monitor</a> at my desk. a combined amount of 47inches. w00t. the best is the little 7" lilliput display. totally for irc and by irc i mean work. The office is real nice.  it is real real open and everything is pretty cool. i am so far happy here.
 
 and i am tired. i relaly need a nap. and reading of a book. and hanging out. 
 

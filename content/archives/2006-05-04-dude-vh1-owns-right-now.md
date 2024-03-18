@@ -1,6 +1,6 @@
 ---
 date: 2006-05-04T04:10:37Z
-tags: general, metal, music, television
+tags: ["general","metal","music","television"]
 title: dude! vh1 owns right now
 wordpress_id: 1259
 wordpress_url: http://www.nata2.org/2006/05/04/dude-vh1-owns-right-now/

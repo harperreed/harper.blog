@@ -1,7 +1,6 @@
 ---
 date: 2007-05-19T14:56:20Z
-tags: general, stupid, costs, expensive, money, annoying, fraud, ticketmaster, events,
-  tickets
+tags: ["general","stupid","costs","expensive","money","annoying","fraud","ticketmaster","events","tickets"]
 title: WTF TicketMaster
 wordpress_id: 1444
 wordpress_url: http://www.nata2.org/2007/05/19/wtf-ticketmaster/

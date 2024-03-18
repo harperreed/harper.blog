@@ -4,7 +4,7 @@ excerpt: so a club broke and many people died last night. My parents called at 7
   to make sure I was alive. 7:30. that is so early. anyway.. I can totally imagine
   that happening in many of the clubs I have been in. they all have ONE entrance or
   exit and it is usual...
-tags: war, food, irc
+tags: ["war","food","irc"]
 title: we be clubin
 wordpress_id: 449
 wordpress_url: http://new.nata2.org/?p=449

@@ -4,7 +4,7 @@ excerpt: "arrrrgh.. \ni am pissed now. \ni had a whole entry full of neat links 
   I accidently canceled it. stupid goddamn mouse. always clicking clicking clicking.Watch
   out!\nSo anyway. I am bummed out. my parents were supposed to come in today - but
   since god hates us pagans - they are stuck in colorful colorado enjo..."
-tags: php, colorado, war, birthday, watership
+tags: ["php","colorado","war","birthday","watership"]
 title: sad sad sad
 wordpress_id: 466
 wordpress_url: http://new.nata2.org/?p=466

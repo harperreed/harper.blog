@@ -4,8 +4,7 @@ excerpt: so this day has been weird already and it is barely 9:30. first last ni
   I got home from juggling club and was notified that my paypal account was terminated
   due to 3gscreensaver having porn on it. I actually don't know if that was the reason
   they just sent me a terse email with this link. so I am...
-tags: harper, dylan, php, programming, chris, action, metal, juggling, porn, screensaver,
-  weownthesun
+tags: ["harper","dylan","php","programming","chris","action","metal","juggling","porn","screensaver","weownthesun"]
 title: when dinosaurs attack
 wordpress_id: 885
 wordpress_url: http://new.nata2.org/?p=885

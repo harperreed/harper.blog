@@ -1,6 +1,6 @@
 ---
 date: 2005-12-03T19:39:47Z
-tags: general, books, crobar, politics, travel, holidays, awesome, party
+tags: ["general","books","crobar","politics","travel","holidays","awesome","party"]
 title: 'wow. flickr. work. umm... holidays. etc. '
 wordpress_id: 1152
 wordpress_url: http://www.nata2.org/2005/12/03/wow-flickr-work-umm-holidays-etc/

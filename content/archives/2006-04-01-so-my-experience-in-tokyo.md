@@ -1,6 +1,6 @@
 ---
 date: 2006-04-01T20:00:28Z
-tags: general, food, hiromi, travel, japan, tokyo, trips
+tags: ["general","food","hiromi","travel","japan","tokyo","trips"]
 title: so.. my experience in tokyo
 wordpress_id: 1236
 wordpress_url: http://www.nata2.org/2006/04/01/so-my-experience-in-tokyo/

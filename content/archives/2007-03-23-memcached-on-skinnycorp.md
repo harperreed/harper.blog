@@ -1,6 +1,6 @@
 ---
 date: 2007-03-23T15:24:07Z
-tags: technology, technology, php, threadless, skinnycorp, memcached
+tags: ["technology","technology","php","threadless","skinnycorp","memcached"]
 title: Memcached on skinnyCorp
 wordpress_id: 1424
 wordpress_url: http://www.nata2.org/2007/03/23/memcached-on-skinnycorp/

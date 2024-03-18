@@ -1,6 +1,6 @@
 ---
 date: 2005-07-21T19:56:44Z
-tags: general
+tags: ["general"]
 title: i am a polyphasic sleeper. woot.
 wordpress_id: 1098
 wordpress_url: http://www.nata2.org/2005/07/21/i-am-a-polyphasic-sleeper-woot/

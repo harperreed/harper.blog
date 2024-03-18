@@ -5,7 +5,7 @@ excerpt: hehe. Yesterday ruled. I got up at around 1:30 or so and called my mom.
   3:30 and had an incredible meal. I think I had catfish and eggs and then shared
   a bunch of desert with my friends. so so good. we then went back to my apartment
   and watched a studio ghibli movie c...
-tags: mom, matiss
+tags: ["mom","matiss"]
 title: Valley of Wind
 wordpress_id: 510
 wordpress_url: http://new.nata2.org/?p=510

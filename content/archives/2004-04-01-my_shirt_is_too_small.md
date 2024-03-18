@@ -5,7 +5,7 @@ excerpt: The shirt I am wearing to day is far too small. heh. it isn't relaly "f
   I got it about 6 months ago. and I thought it fit. so I hung it up and then put
   it on prolly 2 months afte I got it. I then was like "wtf, did I grow"  - cuz it
   didn't fit at all. heh. so I put it away. and then yesterday I tried it on again...
-tags: phone, war
+tags: ["phone","war"]
 title: my shirt is too small
 wordpress_id: 804
 wordpress_url: http://new.nata2.org/?p=804

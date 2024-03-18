@@ -3,7 +3,7 @@ date: 2002-07-10T21:33:41Z
 excerpt: |-
   i love the internet. Awhile back I posted 60X1.com, I finally took the time to finish it and much to my chagrin it led me to some amazing sites:
   tinkin - this is the guy who made 60X1.com he has a bunch of really great anti war stuff. it is so good. it makes me happ...
-tags: internet, war, sites, bush, metal, source, humor, design, politics, politic
+tags: ["internet","war","sites","bush","metal","source","humor","design","politics","politic"]
 title: deisgn (i spelled this incorrectly.. and then i thought it was funny.. so yea)
 wordpress_id: 316
 wordpress_url: http://new.nata2.org/?p=316

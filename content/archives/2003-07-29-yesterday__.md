@@ -4,7 +4,7 @@ excerpt: "so yesterday I read two books. it was madness. I just needed that stim
   I guess.. \n\nfirst I read Angels & Demons by Dan Brown. It was pretty good. a very
   nice read. I felt that it was similar to those science/medical fiction books that
   are use a hihg base level of knowledge about the subject... the jargon I g..."
-tags: books, hacking, audreyhacking, audrey, insane, college
+tags: ["books","hacking","audreyhacking","audrey","insane","college"]
 title: yesterday..
 wordpress_id: 580
 wordpress_url: http://new.nata2.org/?p=580

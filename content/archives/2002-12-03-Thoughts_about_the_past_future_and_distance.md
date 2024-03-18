@@ -5,7 +5,7 @@ excerpt: I thought os a addition to this weblog awhile ago.. but it has left me.
   be about my rockstar friend jamie - or maybe about existing in this weird world
   of fashion - without an idea of fashion.. I really don't know. I have been reading
   a bunch of phillip k dick books. they are all very nice andthey really mes...
-tags: books, social, search, rock, college, fashion, security, kstar
+tags: ["books","social","search","rock","college","fashion","security","kstar"]
 title: Thoughts about the past/future and distance
 wordpress_id: 410
 wordpress_url: http://new.nata2.org/?p=410

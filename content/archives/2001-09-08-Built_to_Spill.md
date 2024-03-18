@@ -5,7 +5,7 @@ excerpt: 'I went to built to spill tonight. It was a good time. They played free
   is his name) was a good guitar player. The audience was OK, Except for some assholes
   who were harrasing a simple drunk man. I was sad for him. But eventually the dumbasses
   were kicked out.. weee.. '
-tags: friends
+tags: ["friends"]
 title: Built to Spill
 wordpress_id: 100
 wordpress_url: http://new.nata2.org/?p=100

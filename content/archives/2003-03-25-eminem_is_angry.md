@@ -5,7 +5,7 @@ excerpt: I just watched 8 mile. it is good. a little over acting a little undera
   have quite a bit of anger. a lot of anger.. over simple things.. it is sad..tonight
   I think we are going to watch a bunch of movies. it will be fun. the window is open
   in my room and in my living room. it is soo soo nice outside. today ...
-tags: movies
+tags: ["movies"]
 title: eminem is angry
 wordpress_id: 472
 wordpress_url: http://new.nata2.org/?p=472

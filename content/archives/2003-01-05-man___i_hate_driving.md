@@ -5,7 +5,7 @@ excerpt: So I have this car and I hate driving it. I never hated it before I mov
   to navigate the crazy system that is chicago traffic... whatever.. and now I have
   to license, insure and all that crap.. whatever whatever whatever.. heh.one nice
   thing about driving that you don't have as much with the train - is yo...
-tags: chicago, movies, games
+tags: ["chicago","movies","games"]
 title: man.. i hate driving
 wordpress_id: 425
 wordpress_url: http://new.nata2.org/?p=425

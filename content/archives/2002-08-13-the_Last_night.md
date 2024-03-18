@@ -5,7 +5,7 @@ excerpt: last night we went to go and see the movie signs. it was wonderful. I l
   that was pronounced laa. like I live in laa.. heh. too bad. stupid cars. After the
   movie.. hiromi "dragged" us to a bar.. I say dragged... because we didn't really
   know anyone.. but I wanted to go anyway. I saw some friends there.. whi...
-tags: social, internet, cars, hiromi
+tags: ["social","internet","cars","hiromi"]
 title: the Last night
 wordpress_id: 341
 wordpress_url: http://new.nata2.org/?p=341

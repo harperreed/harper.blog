@@ -5,7 +5,7 @@ excerpt: This weekend was actually quite good. Friday I hung out with my best fr
   because we don't quite know how to interact without dating. I mean - we know how
   to interact. it is just easier to go back to our old ways. We have to fight that.
   heh. but we are pulling thorugh. heh.  then on saturday I was in a fa...
-tags: fashion
+tags: ["fashion"]
 title: fashion victim
 wordpress_id: 201
 wordpress_url: http://new.nata2.org/?p=201
