@@ -1,6 +1,6 @@
 ---
 title: How to Leica like a noob who shoots Leica
-date: 2024-03-19T11:04:11-05:00
+date: 2024-03-18T09:00:11-05:00
 description: "Some really bad advice on owning and using a Leica camera."
 draft: false
 ---
