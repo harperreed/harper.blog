@@ -8,11 +8,11 @@ wordpress_url: http://www.nata2.org/2006/02/20/campfire-v2-released/
 
 Oh yea. I forgot to mention that i released a new version of my campfirenow.com bot framework. It is quite a bit better and a lot more robust - however i imagine that 37signals has changed things to stop it.
 
-Check out the source: <a href="http://nata2.info/?path=code%2Fcampfire_bot_hack">here</a>
+Check out the source: <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//?path=code%2Fcampfire_bot_hack">here</a>
 
 I also released a proof of concept flood. its real annoying and stupid.  don't use it. i just wanted to see if i could make it.
 
-Flood source: <a href="http://nata2.info/?path=code%2Fcampfire_bot_hack&text=campfire_flood.pl">here</a>
+Flood source: <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//?path=code%2Fcampfire_bot_hack&text=campfire_flood.pl">here</a>
 
 A couple things:
 

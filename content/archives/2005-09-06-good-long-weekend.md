@@ -19,10 +19,10 @@ anyway.. on friday i met up with Rani, Kira and the like to hang out at bars and
 
 On saturday i slept in. worked a bit and played with my fancy psp. then met Rani, Kira and crew for Rani's sorta birthday dinner at this nice Tapas resturant. it was pretty good. Then i went to Erica's birthday party and then met everyone at rainbo. Then to tumans. then to a small party at Rani's. I slept in and then went to rotofugi to get Rani a birthday present where i met my new PSP buddies. hah. it ruled. Then i went to Rani's BBQ. it was quite fun. 
 
-After the BBQ i went home, took a nap, played Rtype and then got ready for my VOX night at spybar. Spybar, as usual, sucked. haha. it was ok. but lame. so we went to redno 5 and had a great time. <a href="http://nata2.info/?path=pictures%2Fevents%2F2005%3A09%3A05_Vox_party_at_spybar">here are pictures</a>. then i had corn beef hash in the middle of the night - which almost killed me. KILLED I SAY!
+After the BBQ i went home, took a nap, played Rtype and then got ready for my VOX night at spybar. Spybar, as usual, sucked. haha. it was ok. but lame. so we went to redno 5 and had a great time. <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//?path=pictures%2Fevents%2F2005%3A09%3A05_Vox_party_at_spybar">here are pictures</a>. then i had corn beef hash in the middle of the night - which almost killed me. KILLED I SAY!
 
 So yesterday i just worked in front of the TV. i watched meet the fockers, LOTR: ROTK, and gremlins 2. I also got some ISO's to boot. how i love torrents. 
 
-<a href="http://nata2.info/war/aaron_broussard.mov">this is horribly sad</a>
+<a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//war/aaron_broussard.mov">this is horribly sad</a>
 
 
