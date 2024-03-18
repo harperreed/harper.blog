@@ -8,5 +8,5 @@ paginate = 5
 googleAnalytics = "UA-70650-74"
 defaultContentLanguage = "en"
 author = "Harper Reed"
-disableKinds = [ "taxonomy", "taxonomyTerm" ]
+disableKinds = [ "taxonomy" ]
 timeZone = "America/Chicago"
