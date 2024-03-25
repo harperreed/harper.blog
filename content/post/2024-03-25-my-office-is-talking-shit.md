@@ -354,3 +354,5 @@ I imagine it isn’t super hard to wire together, but it isn’t seamless. This 
 Send me an [email](mailto:harper@modest.com) if you have any trouble.
 
 My prediction is that this will be doable inside of home assistant shortly.
+
+**Part 2 will drop later. I will update yall on how we used a vtuber model to give the agent a body**
