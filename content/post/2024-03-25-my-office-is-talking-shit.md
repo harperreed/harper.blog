@@ -4,18 +4,15 @@ date: 2024-03-25T09:00:00-05:00
 description: "I used sensors and an LLM were used to make my office talk. We integrated these with humorous LLM-generated commentary, creating an interactive, personality-infused office space."
 draft: true
 ---
-
-
 **tl;dr:** *I use a bunch of sensors, and an LLM to make my office talk to us about what’s going on in the office. This is a long post, but should be pretty straight forward. Generally, this is a good demonstration of how I have been using LLMs in my real life.*
 
-
-In 2019 my buddy Ivan and I started working in this [amazing studio](https://company.lol) here in Chicago. It is a lot of fun. Mostly we just fuck off and build lots of fun stuff.
+In 2019 my buddy Ivan and I started working in this [amazing studio](https://company.lol) here in Chicago. Mostly we just fuck off and build lots of fun stuff.
 
 {{< image src="/images/posts/office.webp" caption="Our amazing studio">}}
 
-Early on one of the main things I spent my time building was adding some sensors and automation to the office. My goal was to have insight into the environment, etc of the office at any time.
+Early on, one of the main things I spent my time building was adding some sensors and automation to the office. My goal was to have insight into the environment, etc of the office at any time.
 
-We used home assistant to collect all the sensors into one platform. I built some really boring automations that would announce various states.
+We used [home assistant](https://en.wikipedia.org/wiki/Home_Assistant) to collect all the sensors into one platform. I built some really boring automations that would announce various states.
 
 The notifications were pretty straight forward:
 - Announcing when a person arrived
@@ -27,7 +24,7 @@ We pushed the notifications to a slack and a an old google home speaker with the
 
 Here is an example of the notifications:
 
-{{< image src="/images/posts/office-slack.png" caption="Not very smart">}}
+{{< image src="/images/posts/office-slack.png" caption="Boring and not very smart">}}
 
 As you can see it is effective, but pretty boring.
 
@@ -43,10 +40,9 @@ We all know now that this LLM revolution is fucking everything up, and probably 
 
 When GPT-3 was released in 2020, I immediately started building weird software to use it. I started thinking a lot about how to use this technology in my every day. I built lots of “bots.” Most of them had a very “personal” tone to their output.
 
-My favorite trick is to take structured `JSON` data and convert it to prose via the LLM.
+My favorite "emergent" trick is to take structured `JSON` data and convert it to **prose** via the LLM. When I say prose, I don't mean poems. I mean words and sentences.
 
 {{< image src="/images/posts/api-llm-lol.png" caption="my new favorite graph">}}
-
 
 Specifically I take json:
 ```json
@@ -270,7 +266,9 @@ As you can see, both of these require that the office is “occupied” for the 
 
 I also have two automations because some states are slow (air quality, physical space presence), and some are fast (personal presence, doors, AC, etc).
 
-This works surprisingly well. Since it based on a home assistant automation, I can add any sensor in home assistant to the agent and it will chat about it.
+The automations are pretty simple: They look for state change, and then push the state change to the mqtt topic.
+
+This works surprisingly well. Since it a home assistant automation, I can add any home assistant sensor to the agent and it will chat about it.
 
 I also have the prompt broken out separately so I can iterate on it without having to restart the entire stack. This is super helpful when you are tuning the sarcasm for your office.
 
@@ -278,9 +276,11 @@ I also have the prompt broken out separately so I can iterate on it without havi
 
 Once this was all built and working I decided that I wanted the office to see. As I type this, it seems like maybe it is a bad idea. However, it is hilarious.
 
-I wrote a really stupid piece of code that I can trigger with a motion sensor that will hit a box running LLAVA and return json.
+I wrote a really stupid piece of code that I can trigger with a motion sensor, grab a snapshot from a security camera, and then hit a box running LLAVA and then return json.
 
-I then just push this json into the sensor collector and have it act like another sensor.
+This works surprisingly well.
+
+Then I just push this json into the sensor collector and have it act like another sensor.
 
 ```json
 {
@@ -313,23 +313,19 @@ Which will result in:
 
 The agent can see! This added another level:
 
-
 > Look at Mr. Productivity over there, standing all tall, focused, and fashionable in his matching blue outfit. Hopefully, he’s actually working and not just posing for a laptop ad
 
 Quickly followed by:
 
 > Looks like our male model in business casual traded standing for sitting. Riveting change. Now he's "focused" at his desk with his laptop. Work must go on, I guess.
 
-
 Another example where it talked about clothing it saw.
-
 
 > Oh look, the front door decided to close itself. And surprise, someone is gearing up to leave. Maybe they realized this is not a fashion show despite the all-black ensemble.
 
 ### Combining it all together
 
 Once this was all wired together we had some magic experiences like this:
-
 
 > The front door had a moment of indecision but eventually closed, and some mysterious middle-aged man with a penchant for black hats and serious expressions escaped the office. Oh, and the front door is now as secure as my sense of job satisfaction: locked.
 
@@ -339,19 +335,17 @@ And now our office discord (no more slack) looks like this:
 
 We are constantly iterating on the prompt and the sensors to get it to sit between annoying and funny. It is a wafer thin line.
 
+Because the system is expecting a json payload, it is really easy to extend the agent to react to other sensors.
+
 **Hearing is next**
 
 ## Codes! You can run this yourself.
 
-Speaking of code:
+You can find all the code that does the sensor grabbing / LLM funny stuff here: [harperreed/houseagent](https://github.com/harperreed/houseagent)
 
-You can find all the code that does the sensor grabbing / LLM funny stuff here: https://github.com/harperreed/houseagent
+The code for the eyeballs are here: [harperreed/eyeballs-mqtt](https://github.com/harperreed/eyeballs-mqtt)
 
-The code for the eyeballs are here: https://github.com/harperreed/eyeballs-mqtt
-
-I imagine it isn’t super hard to wire together, but it isn’t seamless. This code has been running without many tweaks for the last 6-8 months. It is constantly hilarious and always brings a smile to us occupants and a “wtf” from our visitor friends.
-
-Send me an [email](mailto:harper@modest.com) if you have any trouble.
+I imagine it isn’t super hard to wire together, but it isn’t seamless. This code has been running without many tweaks for the last 6-8 months. It is constantly hilarious and always brings a smile to us occupants and a “wtf” from our visitor friends. If you do take a swing at it - let me know. Also, if you have any trouble, send me an [email](mailto:harper@modest.com) and maybe I can help!
 
 My prediction is that this will be doable inside of home assistant shortly.
 
