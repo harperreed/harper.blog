@@ -91,7 +91,7 @@ Hilariously, when building this type of app - if there is an error, the LLM will
 I use this pattern constantly. I mostly build lil bots that hang out and tell me things:
 - Sleep performance analysis
 - Weather bot
-- Chicago Alerts twitter account
+- [Chicago Alerts twitter account](https://twitter.com/chicagoalerts)
 - Sensor decisions for my e-ink ambient displays
 
 (*Never fear, I will document all of these later.*)
