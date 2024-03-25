@@ -341,7 +341,9 @@ Because the system is expecting a json payload, it is really easy to extend the 
 
 ## Codes! You can run this yourself.
 
-You can find all the code that does the sensor grabbing / LLM funny stuff here: [harperreed/houseagent](https://github.com/harperreed/houseagent)
+All of the code is open source. It isn't pretty, and isn't mostly written by LLM. But it works well.
+
+The code that does the sensor grabbing / LLM funny stuff here: [harperreed/houseagent](https://github.com/harperreed/houseagent)
 
 The code for the eyeballs are here: [harperreed/eyeballs-mqtt](https://github.com/harperreed/eyeballs-mqtt)
 
