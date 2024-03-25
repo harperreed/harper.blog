@@ -5,7 +5,9 @@ description: "I used sensors and an LLM were used to make my office talk. We int
 draft: true
 ---
 
-*tl;dr:* I use a bunch of sensors, and an LLM to make my office talk to us about what’s going on in the office.
+
+**tl;dr:** *I use a bunch of sensors, and an LLM to make my office talk to us about what’s going on in the office. This is a long post, but should be pretty straight forward. Generally, this is a good demonstration of how I have been using LLMs in my real life.*
+
 
 In 2019 my buddy Ivan and I started working in this [amazing studio](https://company.lol) here in Chicago. It is a lot of fun. Mostly we just fuck off and build lots of fun stuff.
 
@@ -198,12 +200,8 @@ trigger:
   - platform: state
     entity_id:
       - input_boolean.occupied
-      - person.harper_reed
       - lock.front_door
       - binary_sensor.front_door
-      - sensor.u_s_air_quality_index
-      - sensor.u_s_main_pollutant
-      - sensor.u_s_air_pollution_level
       - switch.ac
     for:
       hours: 0
@@ -239,7 +237,6 @@ trigger:
   - platform: state
     entity_id:
       - sensor.airthings_wave_183519_co2
-      - sensor.airthings_wave_183519_voc
       - binary_sensor.sitting_area_presence_sensor
       - binary_sensor.ivan_desk_presence_sensor
       - binary_sensor.harper_desk_presence_sensor
