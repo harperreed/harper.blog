@@ -9,7 +9,7 @@ draft: true
 
 In 2019 my buddy Ivan and I started working in this [amazing studio](https://company.lol) here in Chicago. It is a lot of fun. Mostly we just fuck off and build lots of fun stuff.
 
-![](https://harper.photos/photos/B0001479.JPG/B0001479_hu4378ebf6e6220348279ca60af0e7bf65_4485218_1200x0_resize_q75_h2_box.webp)
+{{< image src="/images/posts/office.webp" caption="Our amazing studio">}}
 
 Early on one of the main things I spent my time building was adding some sensors and automation to the office. My goal was to have insight into the environment, etc of the office at any time.
 
@@ -25,7 +25,7 @@ We pushed the notifications to a slack and a an old google home speaker with the
 
 Here is an example of the notifications:
 
-![Not very smart](https://i.imgur.com/eiQdfwi.png)
+{{< image src="/images/posts/office-slack.png" caption="Not very smart">}}
 
 As you can see it is effective, but pretty boring.
 
@@ -43,7 +43,8 @@ When GPT-3 was released in 2020, I immediately started building weird software t
 
 My favorite trick is to take structured `JSON` data and convert it to prose via the LLM.
 
-![](https://i.imgur.com/ApqF3PR.png)
+{{< image src="/images/posts/api-llm-lol.png" caption="my new favorite graph">}}
+
 
 Specifically I take json:
 ```json
@@ -337,20 +338,11 @@ Once this was all wired together we had some magic experiences like this:
 
 And now our office discord (no more slack) looks like this:
 
-![](https://i.imgur.com/Qn6UUxd.png)
+{{< image src="/images/posts/office-discord.png" caption="The discord is popping">}}
 
-Lol!
+We are constantly iterating on the prompt and the sensors to get it to sit between annoying and funny. It is a wafer thin line.
 
 **Hearing is next**
-
-## Ok. So wtaf.
-
-Yea. I know. This was about 20000 words long to basically say:
-
-*You can collect json blobs, jam them into a LLM, and have it say stupid stuff out loud. And, if you are so motivated, you can make this all automated with very little code.*
-
-To make this even more fun, I ended up using the text to voice model called`piper` from home assistant. It allows you to use custom models pretty easily. The office agent currently sounds like the GLadOS bot from portal. Heh!
-
 
 ## Codes! You can run this yourself.
 
