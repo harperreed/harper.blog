@@ -54,19 +54,14 @@ Specifically I take json:
 ```
 
 Then add a fun prompt:
-```text
-What should i wear. Be concise, have some personality.
-Think of this as a tweet telling people what to wear
 
-```
+> What should i wear. Be concise, have some personality. Think of this as a tweet telling people what to wear
+
+
 
 Pass it to `GPT-4-turbo` and get this:
 
-```
-Brrr, it's 32°F and snowing! 🌨️ Bundle up in your coziest
-layers, don't forget a warm coat, gloves, and a hat.
-Snow boots are a must. Stay toasty, friends! #WinterWonderland #DressWarm
-```
+> Brrr, it's 32°F and snowing! 🌨️ Bundle up in your coziest layers, don't forget a warm coat, gloves, and a hat. Snow boots are a must. Stay toasty, friends! #WinterWonderland #DressWarm
 
 Pretty straight forward. What is really great, is that you don’t have to pre-define the json object. The llm is able to be **very** flexible. For instance, let’s just randomly add another entity to the json:
 ```json
@@ -78,11 +73,8 @@ Pretty straight forward. What is really great, is that you don’t have to pre-d
 ```
 
 And the llm will reply with no change to the prompt:
-```text
-Bundle up in your warmest gear & don't forget a mask! 🌨️❄️
-With temps at freezing & air quality on the naughty list,
-it's all about layers & protection. #StayWarm #BreatheEasy
-```
+
+> Bundle up in your warmest gear & don't forget a mask! 🌨️❄️ With temps at freezing & air quality on the naughty list, it's all about layers & protection. #StayWarm #BreatheEasy
 
 This is effectively magic. ;)
 
@@ -90,11 +82,8 @@ Now weave it all together with a simple python or node app, and BAM - you have a
 
 Hilariously, when building this type of app - if there is an error, the LLM will interpret the error with the same prompt:
 
-```text
-Facing a 401 server error? Channel that frustration into fashion!
-Rock a bold, error-proof outfit today: a statement tee, comfy jeans,
-and sneakers that say 'I'm too fabulous for server issues.' 💻👖👟 #FashionFix #ServerChic
-```
+> Facing a 401 server error? Channel that frustration into fashion! Rock a bold, error-proof outfit today: a statement tee, comfy jeans, and sneakers that say 'I'm too fabulous for server issues.' 💻👖👟 #FashionFix #ServerChic
+
 
 I use this pattern constantly. I mostly build lil bots that hang out and tell me things:
 - Sleep performance analysis
@@ -148,14 +137,14 @@ For instance if this was a door:
 - last_state: `{ “front_door”: “open” }`
 
 The LLM may reply:
-```text
-No new updates, folks. The front door's still embracing the great outdoors! 🚪🌿
-```
+
+> No new updates, folks. The front door's still embracing the great outdoors! 🚪🌿
+
 
 It saw that there isn’t a change, and told us the state. If we close the door, the llm says:
-```text
-Front door's shut tight now! 😎✌️ No more drafts or uninvited guests!
-```
+
+> Front door's shut tight now! 😎✌️ No more drafts or uninvited guests!
+
 
 This was really compelling. Kind of annoying, but compelling!
 
@@ -192,11 +181,8 @@ Which would translate into:
 
 From here it is passed to Openai to turn this json into prose:
 
-```text
-Congratulations, the front door is now closed.
-One less way for the inevitable to find its way in.
-Keep up the vigilance; it might just prolong your survival.
-```
+> Congratulations, the front door is now closed. One less way for the inevitable to find its way in. Keep up the vigilance; it might just prolong your survival.
+
 
 This all happens via my friend, and yours: `mqtt.`
 
@@ -323,42 +309,31 @@ I then just push this json into the sensor collector and have it act like anothe
 
 Which will result in:
 
-```text
-I managed to detect a man interacting with modern technology.
-Let's hope his browsing doesn’t lead him to discover how
- inconsequential we all are in the grand scheme of the universe.
-```
+
+> I managed to detect a man interacting with modern technology. Let's hope his browsing doesn’t lead him to discover how inconsequential we all are in the grand scheme of the universe.
+
 
 The agent can see! This added another level:
 
-```text
-Look at Mr. Productivity over there, standing all tall, focused,
-and fashionable in his matching blue outfit. Hopefully,
-he’s actually working and not just posing for a laptop ad
-```
+
+> Look at Mr. Productivity over there, standing all tall, focused, and fashionable in his matching blue outfit. Hopefully, he’s actually working and not just posing for a laptop ad
 
 Quickly followed by:
-```text
-Looks like our male model in business casual traded standing
-for sitting. Riveting change. Now he's "focused" at his desk
-with his laptop. Work must go on, I guess.
-```
+
+> Looks like our male model in business casual traded standing for sitting. Riveting change. Now he's "focused" at his desk with his laptop. Work must go on, I guess.
+
 
 Another example where it talked about clothing it saw.
 
-```text
-Oh look, the front door decided to close itself. And surprise,
-someone is gearing up to leave. Maybe they realized this is not
-a fashion show despite the all-black ensemble.
-```
+
+> Oh look, the front door decided to close itself. And surprise, someone is gearing up to leave. Maybe they realized this is not a fashion show despite the all-black ensemble.
 
 ### Combining it all together
 
 Once this was all wired together we had some magic experiences like this:
 
-```text
-The front door had a moment of indecision but eventually closed, and some mysterious middle-aged man with a penchant for black hats and serious expressions escaped the office. Oh, and the front door is now as secure as my sense of job satisfaction: locked.
-```
+
+> The front door had a moment of indecision but eventually closed, and some mysterious middle-aged man with a penchant for black hats and serious expressions escaped the office. Oh, and the front door is now as secure as my sense of job satisfaction: locked.
 
 And now our office discord (no more slack) looks like this:
 
@@ -386,5 +361,7 @@ You can find all the code that does the sensor grabbing / LLM funny stuff here: 
 The code for the eyeballs are here: https://github.com/harperreed/eyeballs-mqtt
 
 I imagine it isn’t super hard to wire together, but it isn’t seamless. This code has been running without many tweaks for the last 6-8 months. It is constantly hilarious and always brings a smile to us occupants and a “wtf” from our visitor friends.
+
+Send me an [email](mailto:harper@modest.com) if you have any trouble.
 
 My prediction is that this will be doable inside of home assistant shortly.
