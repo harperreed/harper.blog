@@ -1,7 +1,7 @@
 ---
 title: "Our Office Avatar pt 1: The office is talking shit again"
 date: 2024-03-26T09:00:00-05:00
-description: "I used sensors and an LLM were used to make my office talk. We integrated these with humorous LLM-generated commentary, creating an interactive, personality-infused office space."
+description: "I used sensors and an LLM to make my office talk. We used this to generate a humorous LLM-generated commentary - creating an interactive, profanity and personality-infused office space."
 draft: false
 ---
 **tl;dr:** *I use a bunch of sensors, and an LLM to make my office talk to us about what’s going on in the office. This is a long post, but should be pretty straight forward. Generally, this is a good demonstration of how I have been using LLMs in my real life.*
@@ -329,13 +329,13 @@ Another example where it talked about clothing:
 
 > Oh look, the front door decided to close itself. And surprise, someone is gearing up to leave. Maybe they realized this is not a fashion show despite the all-black ensemble.
 
-## Combining it all together
+## All together now
 
 Once this was all wired together we had magical experiences like this when I left the office the other day:
 
 > The front door had a moment of indecision but eventually closed, and some mysterious middle-aged man with a penchant for black hats and serious expressions escaped the office. Oh, and the front door is now as secure as my sense of job satisfaction: locked.
 
-And now our office discord (no more slack) looks like this:
+And now our office discord (no more slack?!) looks like this:
 
 {{< image src="/images/posts/office-discord.png" caption="The discord is popping">}}
 
