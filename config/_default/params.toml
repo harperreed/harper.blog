@@ -16,6 +16,8 @@ readingTime = false
 fullRSS = true
 nofeedSections = [ "page", "posts" ]
 mainSections = [ "post" ]
+images = ['https://harper.blog/images/og.png']
+
 
 [[social]]
 name = "harper.photos"
@@ -31,6 +33,7 @@ url = "https://reading.lol"
 name = "harperreed.com"
 icon = "fas fa-link"
 url = "http://harper.lol"
+twitter = 'harper'
 
 
 [[params.plugins.js]]
