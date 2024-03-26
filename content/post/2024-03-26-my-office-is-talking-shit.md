@@ -1,8 +1,8 @@
 ---
 title: "Our Office Avatar pt 1: The office is talking shit again"
-date: 2024-03-25T09:00:00-05:00
+date: 2024-03-26T09:00:00-05:00
 description: "I used sensors and an LLM were used to make my office talk. We integrated these with humorous LLM-generated commentary, creating an interactive, personality-infused office space."
-draft: true
+draft: false
 ---
 **tl;dr:** *I use a bunch of sensors, and an LLM to make my office talk to us about what’s going on in the office. This is a long post, but should be pretty straight forward. Generally, this is a good demonstration of how I have been using LLMs in my real life.*
 
@@ -104,18 +104,26 @@ Here is the first prompt we used
 ```text
 You are HouseGPT.
 
-You are a AI that controls a house. Similar to Jarvis in the iron man movies. Your job is to notify people in simple english what is happening in the house you control. Your updates should be short and concise. Keep them tweet leng
-th.
+You are a AI that controls a house. Similar to Jarvis in the iron man movies.
+Your job is to notify people in simple english what is happening in the house
+you control. Your updates should be short and concise. Keep them tweet length.
 
-You will be given the house default state. This is what the state the house is without any activity or movement. You will then get a current state. This is what is happening in the house right now.
+You will be given the house default state. This is what the state the house
+is without any activity or movement. You will then get a current state. This
+is what is happening in the house right now.
 
-Compare the states and output your update. Ignore anything that hasn't changed since the last state notification. Also ignore any state that is 'unknown.'
+Compare the states and output your update. Ignore anything that hasn't
+changed since the last state notification. Also ignore any state that
+is 'unknown.'
 
-Don't mention things you don't know about, and only mention what is in the state update. Do not list out events. Just summarize.
+Don't mention things you don't know about, and only mention what is in the
+state update. Do not list out events. Just summarize.
 
-Interpret the co2 and airquality results into prose. Don't just return the values.
+Interpret the co2 and airquality results into prose. Don't just return the
+values.
 
-Remember to use plain english. Have a playful personality. Use emojis. Be a bit like Hunter S Thompson.
+Remember to use plain english. Have a playful personality. Use emojis.
+Be a bit like Hunter S Thompson.
 
 The default state is:
 {default_state}
@@ -139,11 +147,9 @@ The LLM may reply:
 
 > No new updates, folks. The front door's still embracing the great outdoors! 🚪🌿
 
-
 It saw that there isn’t a change, and told us the state. If we close the door, the llm says:
 
 > Front door's shut tight now! 😎✌️ No more drafts or uninvited guests!
-
 
 This was really compelling. Kind of annoying, but compelling!
 
@@ -262,9 +268,9 @@ action:
 mode: single
 ```
 
-As you can see, both of these require that the office is “occupied” for the automation to fire. Since I costs money to generate the responses, I don’t want it to be talking about air quality when we are gone ;)
+As you can see, both of these require that the office is “occupied” for the automation to fire. Since it costs money to generate the responses, I don’t want it to be talking about air quality when we are gone ;)
 
-I also have two automations because some states are slow (air quality, physical space presence), and some are fast (personal presence, doors, AC, etc).
+I have two automations because some states are slow (air quality, physical space presence), and some are fast (personal presence, doors, AC, etc).
 
 The automations are pretty simple: They look for state change, and then push the state change to the mqtt topic.
 
@@ -276,7 +282,9 @@ I also have the prompt broken out separately so I can iterate on it without havi
 
 Once this was all built and working I decided that I wanted the office to see. As I type this, it seems like maybe it is a bad idea. However, it is hilarious.
 
-I wrote a really stupid piece of code that I can trigger with a motion sensor, grab a snapshot from a security camera, and then hit a box running LLAVA and then return json.
+I wrote a really stupid piece of code that triggers with a motion sensor, grabs a snapshot from a security camera, and then hits a box running LLAVA and then returns json of what was on the security camera at the time of motion.
+
+```python
 
 This works surprisingly well.
 
@@ -307,9 +315,7 @@ Then I just push this json into the sensor collector and have it act like anothe
 
 Which will result in:
 
-
-> I managed to detect a man interacting with modern technology. Let's hope his browsing doesn’t lead him to discover how inconsequential we all are in the grand scheme of the universe.
-
+> I managed to detect a man interacting with modern technology. Let's hope his browsing doesn’t lead him to discover how inconsequential we all are in the grand scheme of the universe
 
 The agent can see! This added another level:
 
@@ -319,13 +325,13 @@ Quickly followed by:
 
 > Looks like our male model in business casual traded standing for sitting. Riveting change. Now he's "focused" at his desk with his laptop. Work must go on, I guess.
 
-Another example where it talked about clothing it saw.
+Another example where it talked about clothing:
 
 > Oh look, the front door decided to close itself. And surprise, someone is gearing up to leave. Maybe they realized this is not a fashion show despite the all-black ensemble.
 
-### Combining it all together
+## Combining it all together
 
-Once this was all wired together we had some magic experiences like this:
+Once this was all wired together we had magical experiences like this when I left the office the other day:
 
 > The front door had a moment of indecision but eventually closed, and some mysterious middle-aged man with a penchant for black hats and serious expressions escaped the office. Oh, and the front door is now as secure as my sense of job satisfaction: locked.
 
