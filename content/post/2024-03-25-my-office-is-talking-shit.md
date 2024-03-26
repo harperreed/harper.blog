@@ -1,6 +1,6 @@
 ---
 title: "Our Office Avatar pt 1: The office is talking shit again"
-date: 2024-03-26T09:00:00-05:00
+date: 2024-03-25T09:00:00-05:00
 description: "I used sensors and an LLM to make my office talk. We used this to generate a humorous LLM-generated commentary - creating an interactive, profanity and personality-infused office space."
 draft: false
 ---
