@@ -178,10 +178,11 @@ Which would translate into:
 		{
 			"entity_id": "binary_sensor.front_door",
 			"from_state": "on",
-			"to_state": "off", "timestamp": "2024-03-25T13:50:01.289165-05:00"
+			"to_state": "off",
+			"timestamp": "2024-03-25T13:50:01.289165-05:00"
 		}
 	]
-}"
+}
 ```
 
 From here it is passed to Openai to turn this json into prose:
@@ -189,7 +190,7 @@ From here it is passed to Openai to turn this json into prose:
 > Congratulations, the front door is now closed. One less way for the inevitable to find its way in. Keep up the vigilance; it might just prolong your survival.
 
 
-This all happens via my friend, and yours: `mqtt.`
+This all happens via my friend, and yours: `mqtt`.
 
 I then have a home assistant send that sends sensor changes down the wire to be collected and transformed.
 
@@ -227,8 +228,6 @@ action:
           "timestamp": "{{ now().isoformat() }}"
         }
 mode: single
-
-
 ```
 
 Slow change automation:
@@ -285,6 +284,8 @@ Once this was all built and working I decided that I wanted the office to see. A
 I wrote a really stupid piece of code that triggers with a motion sensor, grabs a snapshot from a security camera, and then hits a box running LLAVA and then returns json of what was on the security camera at the time of motion.
 
 ```python
+(Missing code here)
+```
 
 This works surprisingly well.
 
