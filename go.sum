@@ -2,3 +2,7 @@ github.com/dataCobra/hugo-vitae v0.0.0-20230210081730-1f2587b2b744 h1:WXX8pReYGO
 github.com/dataCobra/hugo-vitae v0.0.0-20230210081730-1f2587b2b744/go.mod h1:VYbjakcPdD3+BBj8DrVY+nu+23weJVpu+5sXRahBCqw=
 github.com/gethugothemes/hugo-modules/images v0.0.0-20240228105219-38c9f9c6e062 h1:HScpsHzGHkGqS1/rFhFIeLkS6m3SkGdj2ytLmFxjCyY=
 github.com/gethugothemes/hugo-modules/images v0.0.0-20240228105219-38c9f9c6e062/go.mod h1:FKliP3qOW9diIcQeLtyZ0Hdhg3PL8bdAkC/6O+XtU90=
+github.com/hugomods/seo/modules/open-graph v0.1.0 h1:Whveal1j1n2xZWcAlNAd2rdfKp7Fh5apol36wLGLb54=
+github.com/hugomods/seo/modules/open-graph v0.1.0/go.mod h1:G7mXf7D1QtRN/i7A9v+cUF5P55H/QaxRqxJ8tp9fVq4=
+github.com/hugomods/seo/modules/twitter-cards v0.1.0 h1:jH9WfmFZ3kCndUkATM/D/BYL+TQYoXA7/IxgQJbifKQ=
+github.com/hugomods/seo/modules/twitter-cards v0.1.0/go.mod h1:QYs7SWbhXSQrsn/RHZSD7DwzaCHFpoLQdVPxEI3j63k=
