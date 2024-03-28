@@ -3,3 +3,9 @@ path = "github.com/dataCobra/hugo-vitae"
 
 [[imports]]
 path = "github.com/gethugothemes/hugo-modules/images"
+
+[[imports]]
+path = "github.com/hugomods/seo/modules/open-graph"
+
+[[imports]]
+path = "github.com/hugomods/seo/modules/twitter-cards"
