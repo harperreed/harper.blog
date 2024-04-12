@@ -230,7 +230,7 @@ I would use conda or something similar to keep things clean. The interface is si
 ## My challenge for you!
 
 Please build an app that I can use to catalog my photo library in a nice way. I don't want to upload to another destination. I want to have a simple Mac app that I can point to my photo library and say "crawl this." I imagine a lot of neat stuff could be added:
-- Llava Aut captioning
+- Llava/Moondream auto captioning
 - Keywords / Tags
 - Vector similarity
 - etc
