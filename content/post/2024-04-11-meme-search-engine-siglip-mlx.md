@@ -1,11 +1,13 @@
 ---
 title: I accidentally built a meme search engine
 date: 2024-04-11T09:00:00-05:00
-description: ""
+description: "I built a magical meme search engine using siglip/CLIP and vector encoding images. It was a fun way to learn about this powerful technology. I'm sharing the code so you can build your own and discover forgotten gems in your photo library. Let's unleash the power of AI on our images!"
 draft: true
 ---
 
 ## Or: how to learn about siglip and vector encoding images
+
+*tl;dr*: I built a meme search engine using siglip/CLIP and vector encoding images. It was fun and I learned a lot.
 
 I have been building a lot of applied AI tools for a while. One of the parts that always seemed the most magical has always been vector embeddings. [Word2Vec](https://en.wikipedia.org/wiki/Word2vec) and the like have straight blown my mind. It is like magic.
 
