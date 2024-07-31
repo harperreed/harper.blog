@@ -230,7 +230,7 @@ Instead of:
 >
 > There were multiple days where both google and apple was mad at me and was returning bad data. My iCloud web interface is still broken. Lol. But the native address book works fine.
 
-### OK. So now what.
+## OK. So now what.
 
 It works!
 
