@@ -233,15 +233,20 @@ Instead of:
 
 ### Codifying reality
 
-I now have two main interfaces that sync with my database of record:
-- Google Contacts on the web
-- my iPhone contacts app
+I now have three main interfaces that sync with my database of record:
+- Google Contacts on the web - remote
+- my iPhone contacts app - remote
+- `khard` - local
 
-If I edit contacts on my phone, they will go to my google contacts. If I edit contacts on google contacts, they will go to my phone.
+Regardless of the interface, they sync back to my `vdir` directory and are checked into git. This is perfect.
 
-Although I am using these interfaces, the database of record is my `vdir` directory.
+I have a database of record that is versioned and backed up. I can see changes, and I can make granular changes.
 
 Even though I have all this magic cli nonsense glueing this all together, my workflow to add and edit contacts stays the same.
+
+I can use my phone, or google contacts, and always have an up to date version in my `vdir` directory.
+
+This is great!
 
 ## OK. So now what.
 
