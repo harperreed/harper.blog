@@ -1,7 +1,7 @@
 ---
-title: Contact management in 2024: Stupid vcard tricks for hackers
+title: "Contact management in 2024: Stupid vcard tricks for hackers"
 date: 2024-07-31T09:00:00-05:00
-description: "I built a magical meme search engine using siglip/CLIP and vector encoding images. It was a fun way to learn about this powerful technology. I'm sharing the code so you can build your own and discover forgotten gems in your photo library. Let's unleash the power of AI on our images!"
+description: ""
 draft: true
 ---
 
