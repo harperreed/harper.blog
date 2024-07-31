@@ -2,7 +2,7 @@
 title: "Contact management in 2024: Stupid vcard tricks for hackers"
 date: 2024-07-31T09:00:00-05:00
 description: "Too many contacts, apps crashing. Ditched fancy solutions for old-school vCards and vdir. Wrote scripts, used khard for CLI management, vdirsyncer for syncing. Deduped, sorted, version-controlled my digital Rolodex. Google's still a pain with UIDs. It's messy, it's overkill, but it's mine. Command-line junkies, this one's for you!"
-draft: true
+draft: false
 ---
 
 ## How to really fuck up your contacts and also get control back
