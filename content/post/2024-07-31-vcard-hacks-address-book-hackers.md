@@ -244,4 +244,10 @@ I can manage my contacts easy and without a lot of pain. My goal of having auton
 
 One nice side effect is that i can use tools like sunshine, clay, or contacts+ and see exactly what they are doing to my contacts. I can also declutter my contacts without deleting contacts. It is great!
 
+## So why did i do this?
+
+Who knows. I like to build weird shit, and this was one of the things that was always at the back of my mind. Now I solved some fake problems and did it in a way that I am proud of.
+
+I don't recommend this for many folks. If you happen to be me - you may like this!
+
 Thanks for reading. [Email me](mailto:harper@modest.com) and we can chat vcards!
