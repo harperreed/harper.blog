@@ -261,6 +261,6 @@ One nice side effect is that I can use tools like [sunshine](https://sunshine.co
 
 ## So why go to all this work?
 
-I do not know. please help me. I have lost control.
+I do not know. Please help me. I have lost control.
 
 Thanks for reading. [Email me](mailto:harper@modest.com) and we can chat vcards!
