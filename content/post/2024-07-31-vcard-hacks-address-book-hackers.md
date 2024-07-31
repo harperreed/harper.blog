@@ -54,7 +54,7 @@ This allows me to have 16k contacts, but not 16k contacts on my phone.
 
 `khard` does this easily. You just create multiple directories and then config khard to use those dirs:
 
-```toml
+```
 [addressbooks]
 [[main]]
 path = ~/.contacts/main/
@@ -198,7 +198,9 @@ Instead of
 
 Annoying. Google is bad. Never go full google.
 
-> A quick aside. While debugging this I had to reset my address books dozens of times. It is never an easy task.
+> **A quick aside.**
+>
+> While debugging this I had to reset my address books dozens of times. It is never an easy task.
 >
 > **How to delete Google contacts**
 >
@@ -224,11 +226,15 @@ Annoying. Google is bad. Never go full google.
 
 ## OK. So now what.
 
-It works! I have my contacts in a datastore that I control, that lets me make and see granular changes. I can sync to my phone, different address books, and receive changes from these address books. My immediate next step is to automate this via a GitHub action or something of the sort.
+It works! 
+
+I have my contacts in a datastore that I control, that lets me make and see granular changes. I can sync to my phone, different address books, and receive changes from these address books. All via the CLI. 
+
+My immediate next step is to automate this via a GitHub action or something of the sort. 
 
 I have a lot of [helper scripts](https://github.com/harperreed/vcard-tools/) that will help clean up my contacts. I have a good Claude project that is thoroughly vcard centric.
 
-I learned that living without contacts is annoying. I also learned that it is non-trivial to regularly delete 1000s of vcards from these providers.
+I can manage my contacts easy and without a lot of pain. My goal of having autonomy with my contacts is complete! 
 
 ### other questions
 
