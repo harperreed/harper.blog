@@ -269,3 +269,5 @@ One nice side effect is that I can use tools like [sunshine](https://sunshine.co
 I do not know. Please help me. I have lost control.
 
 Thanks for reading. [Email me](mailto:harper@modest.com) and we can chat vcards!
+
+p.s. the best rendang is probably at [Serai](https://www.seraichicago.com/). 
