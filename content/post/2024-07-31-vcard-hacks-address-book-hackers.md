@@ -130,11 +130,11 @@ Vdirsyncer is an amazing utility that basically does what it says on the tin. It
 
 You do a lot of dancing to configure it, and then once it is configured you run `vdirsyncer` and it syncs your directory to another place.
 
-It works natively with carddav (apple, fruit, etc) a few other providers (mainly google using their various contact apis). Vdirsyncer is in the middle of a much needed rewrite/migration to rust - but is working.
+It works natively with carddav (apple, fruux, etc) a few other providers (mainly google using their various contact apis). Vdirsyncer is in the middle of a much needed rewrite/migration to rust - but is working.
 
 I am using it to sync my *main* contacts directory to my main google contacts addressbook.
 
-My google contacts addressbook is my phones address book of record.
+My google contacts addressbook is my phone's address book of record.
 
 This works OK. I tried a handful of carddav providers (apple, fruux) and google was the most reliable strangely. It also had the benefit of having a rational and easy to use interface available on the web.
 
@@ -142,7 +142,7 @@ This works OK. I tried a handful of carddav providers (apple, fruux) and google 
 
 Vdirsyncer is very good at this. However, the providers are all stupid. And by providers I mean google.
 
-I don’t know who made google contacts api, or why but they have made one of the dumbest decisions I have seen in awhile.
+I don’t know who made google contacts api, or why,  but they have made one of the dumbest decisions I have seen in awhile.
 
 The vcard spec is pretty flexible, annoyingly so. You can kind of do anything you want. And many providers do. This is also why it is awesome.
 
@@ -163,7 +163,7 @@ END:VCARD
 
 This is fine. But what happens if there are two people with the same name, etc. It can get complicated.
 
-One way that `khard` handles this is to assume that every vcard has a UID. This is much better, and makes a lot o sense.
+One way that `khard` handles this is to assume that every vcard has a UID. This is much better, and makes a lot of sense.
 
 ```shell
 BEGIN:VCARD
