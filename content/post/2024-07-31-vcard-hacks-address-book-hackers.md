@@ -20,7 +20,7 @@ To solve this, I have used all manner of contact management solutions:
 However, I wasn’t satisfied.
 
 
-{{< image src="/images/posts/vcards-i-should-buy-a-boat.jpg" caption="Buy why shouldn't I? " >}}
+{{< image src="/images/posts/vcards-i-should-buy-a-boat.jpg" caption="But why shouldn't I? " >}}
 
 ## Self Sovereign Contacts
 
