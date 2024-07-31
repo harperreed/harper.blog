@@ -124,7 +124,7 @@ It works pretty well, but is kind of slow. I find I will do a few contacts at a 
 
 This was not too hard. But, it introduces the real keystone. I can’t believe I am this far into this post without talking about the real meat of the solution.
 
-#### Vdirsyncer!
+**Vdirsyncer!**
 
 Vdirsyncer is an amazing utility that basically does what it says on the tin. It syncs vdirs.
 
@@ -231,11 +231,25 @@ Instead of:
 >
 > There were multiple days where both google and apple was mad at me and was returning bad data. My iCloud web interface is still broken. Lol. But the native address book works fine.
 
+### Codifying reality
+
+I now have two main interfaces that sync with my database of record:
+- Google Contacts on the web
+- my iPhone contacts app
+
+If I edit contacts on my phone, they will go to my google contacts. If I edit contacts on google contacts, they will go to my phone.
+
+Although I am using these interfaces, the database of record is my `vdir` directory.
+
+Even though I have all this magic cli nonsense glueing this all together, my workflow to add and edit contacts stays the same.
+
 ## OK. So now what.
 
 It works!
 
 I have my contacts in a datastore that I control, that lets me make and see granular changes. I can sync to my phone, different address books, and receive changes from these address books. All via the CLI.
+
+After auditing, and removing third party access to my address books in my google account, and iOS devices I feel great. I have control back!
 
 My immediate next step is to automate this via a GitHub action or something of the sort.
 
@@ -243,12 +257,10 @@ I have a lot of [helper scripts](https://github.com/harperreed/vcard-tools/) tha
 
 I can manage my contacts easy and without a lot of pain. My goal of having autonomy with my contacts is complete!
 
-One nice side effect is that i can use tools like sunshine, clay, or contacts+ and see exactly what they are doing to my contacts. I can also declutter my contacts without deleting contacts. It is great!
+One nice side effect is that I can use tools like [sunshine](https://sunshine.com/contacts/), [clay](https://clay.earth/), or [contacts+](https://www.contactsplus.com/) and see exactly what they are doing to my contacts.
 
-## So why did i do this?
+## So why go to all this work?
 
-Who knows. I like to build weird shit, and this was one of the things that was always at the back of my mind. Now I solved some fake problems and did it in a way that I am proud of.
-
-I don't recommend this for many folks. If you happen to be me - you may like this!
+I do not know. please help me. I have lost control.
 
 Thanks for reading. [Email me](mailto:harper@modest.com) and we can chat vcards!
