@@ -19,7 +19,6 @@ To solve this, I have used all manner of contact management solutions:
 
 However, I wasn’t satisfied.
 
-
 {{< image src="/images/posts/vcards-i-should-buy-a-boat.jpg" caption="But why shouldn't I? " >}}
 
 ## Self Sovereign Contacts
@@ -67,7 +66,7 @@ path = ~/.contacts/secondary/
 path = ~/.contacts/other/
 ```
 
-This is effectively solved my problem.
+This has effectively solved my vcard management problem. A simple client that works locally and is easy to use.
 
 I went ahead and downloaded a good backup of all my contacts from google contacts as a vcard file. It was one file with all the mini vcards JAMMED together. Literally. Its hilarious.
 
