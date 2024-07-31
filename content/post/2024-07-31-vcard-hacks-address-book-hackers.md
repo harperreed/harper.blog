@@ -110,10 +110,11 @@ You can find the dedupe script [here](https://github.com/harperreed/vcard-tools/
 
 This is a hilarious problem, and once again Claude is here to save us. I explained the issue to Claude - and Claude whipped up a good solution.
 
-We built hot or not for your contacts. You just run this script and it will help you curate your contacts.
+We built *hot or not* for your contacts. You just run [this script](https://github.com/harperreed/vcard-tools/blob/main/vcf-curator.py) and it will help you curate your contacts.
 
-I am using openai, serper and some silliness to try and figure out if the contact is relevant to me. It then allows me to keep, move, or skip. This way I can quickly jump through a bunch of contacts and sort them into **primary** or **secondary**.
+I am using [openai](https://openai.com/index/openai-api/), [serper](https://serper.dev/), my email interactions,  and some silliness to try and figure out if the contact is relevant to me.
 
+It then allows me to keep, move, or skip. This way I can quickly jump through a bunch of contacts and sort them into **primary** or **secondary**.
 
 {{< image src="/images/posts/vcard-curation.jpg" caption="Chad made the cut!" >}}
 
