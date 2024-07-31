@@ -5,7 +5,7 @@ description: "Too many contacts, apps crashing. Ditched fancy solutions for old-
 draft: true
 ---
 
-## how to really fuck up your contacts and also get control back
+## How to really fuck up your contacts and also get control back
 
 I have too many contacts. Seriously. Like many thousands. It is uncomfortable.
 
@@ -18,6 +18,9 @@ To solve this, I have used all manner of contact management solutions:
 - Sunshine - I like the team, I like the product. A bit too fancy in some regards. I like the interface for their tooling. Very usable
 
 However, I wasn’t satisfied.
+
+
+{{< image src="/images/posts/vcards-i-should-buy-a-boat.jpg" caption="Buy why shouldn't I? " >}}
 
 ## Self Sovereign Contacts
 
@@ -54,7 +57,7 @@ This allows me to have 16k contacts, but not 16k contacts on my phone.
 
 `khard` does this easily. You just create multiple directories and then config khard to use those dirs:
 
-```
+```shell
 [addressbooks]
 [[main]]
 path = ~/.contacts/main/
@@ -113,7 +116,7 @@ We built hot or not for your contacts. You just run this script and it will help
 I am using openai, serper and some silliness to try and figure out if the contact is relevant to me. It then allows me to keep, move, or skip. This way I can quickly jump through a bunch of contacts and sort them into **primary** or **secondary**.
 
 
-{{< image src="https://i.imgur.com/sjWg7Wi.jpeg" caption="Chad made the cut!" >}}
+{{< image src="/images/posts/vcard-curation.jpg" caption="Chad made the cut!" >}}
 
 It works pretty well, but is kind of slow. I find I will do a few contacts at a time. It is nice.
 
@@ -147,7 +150,7 @@ One of the ways to add sanity is to add a UID to the vcard.
 
 Here is a sample vcard:
 
-```
+```shell
 BEGIN:VCARD
 VERSION:4.0
 FN:Milo Minderbinder
@@ -162,7 +165,7 @@ This is fine. But what happens if there are two people with the same name, etc. 
 
 One way that `khard` handles this is to assume that every vcard has a UID. This is much better, and makes a lot o sense.
 
-```
+```shell
 BEGIN:VCARD
 VERSION:4.0
 UID:a9ef2d17-7dbf-40c3-83e0-7c60165062a5
@@ -190,15 +193,19 @@ So frustrating.
 
 This means that you can’t use the magic of vdirsyncer if you want to sync multiple google accounts. For this, I am still using contacts plus. I use vdirsyncer to sync to my main google account. And then contacts plus pushes those changes to my work, and other address books.
 
-{{< image src="https://i.imgur.com/kC4R0mo.png" caption="Not ideal, but works" >}}
+We have:
 
-Instead of
+{{< image src="/images/posts/vcard-reality.svg" caption="Not ideal, but works" >}}
 
-{{< image src="https://i.imgur.com/cQUlchT.png" caption="Why can't we have nice things? " >}}
+Instead of:
 
-Annoying. Google is bad. Never go full google.
+{{< image src="/images/posts/vcard-dream.svg" caption="Why can't we have nice things? " >}}
 
-> **A quick aside.**
+#### Annoying. Google is bad. Never go full google.
+
+
+
+### **A quick aside.**
 >
 > While debugging this I had to reset my address books dozens of times. It is never an easy task.
 >
@@ -224,20 +231,18 @@ Annoying. Google is bad. Never go full google.
 >
 > There were multiple days where both google and apple was mad at me and was returning bad data. My iCloud web interface is still broken. Lol. But the native address book works fine.
 
-## OK. So now what.
+### OK. So now what.
 
-It works! 
+It works!
 
-I have my contacts in a datastore that I control, that lets me make and see granular changes. I can sync to my phone, different address books, and receive changes from these address books. All via the CLI. 
+I have my contacts in a datastore that I control, that lets me make and see granular changes. I can sync to my phone, different address books, and receive changes from these address books. All via the CLI.
 
-My immediate next step is to automate this via a GitHub action or something of the sort. 
+My immediate next step is to automate this via a GitHub action or something of the sort.
 
 I have a lot of [helper scripts](https://github.com/harperreed/vcard-tools/) that will help clean up my contacts. I have a good Claude project that is thoroughly vcard centric.
 
-I can manage my contacts easy and without a lot of pain. My goal of having autonomy with my contacts is complete! 
+I can manage my contacts easy and without a lot of pain. My goal of having autonomy with my contacts is complete!
 
-### other questions
-
-There were other questions, but they will wait for another blog post.
+One nice side effect is that i can use tools like sunshine, clay, or contacts+ and see exactly what they are doing to my contacts. I can also declutter my contacts without deleting contacts. It is great!
 
 Thanks for reading. [Email me](mailto:harper@modest.com) and we can chat vcards!
