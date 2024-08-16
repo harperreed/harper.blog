@@ -19,7 +19,7 @@ To solve this, I have used all manner of contact management solutions:
 
 However, I wasn’t satisfied.
 
-{{< image src="/images/posts/vcards-i-should-buy-a-boat.jpg" caption="But why shouldn't I? " >}}
+{{< image src="/images/posts/vcards-i-should-buy-a-boat.jpg" caption="But why shouldn't I? "  webp="true" position="center" >}}
 
 ## Self Sovereign Contacts
 
@@ -195,11 +195,11 @@ This means that you can’t use the magic of vdirsyncer if you want to sync mult
 
 We have:
 
-{{< image src="/images/posts/vcard-reality.svg" caption="Not ideal, but works" >}}
+{{< image src="/images/posts/vcard-reality.svg" caption="Not ideal, but works" position="center"  >}}
 
 Instead of:
 
-{{< image src="/images/posts/vcard-dream.svg" caption="Why can't we have nice things? " >}}
+{{< image src="/images/posts/vcard-dream.svg" caption="Why can't we have nice things? " position="center"  >}}
 
 #### Annoying. Google is bad. Never go full google.
 
@@ -270,4 +270,4 @@ I do not know. Please help me. I have lost control.
 
 Thanks for reading. [Email me](mailto:harper@modest.com) and we can chat vcards!
 
-p.s. the best rendang in Chicago is probably at [Serai](https://www.seraichicago.com/). 
+p.s. the best rendang in Chicago is probably at [Serai](https://www.seraichicago.com/).

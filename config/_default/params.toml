@@ -1,7 +1,6 @@
 
 ga_id = "UA-70650-74"
 
-# darkmode = false
 subtitle = "Musing from a normal person doing normal things"
 cachebuster = "harper rules"
 name = "Harper Reed"
@@ -10,18 +9,13 @@ email = "harper@modest.com"
 googleAnalytics = "UA-70650-74"
 
 #Bear stuff
-themeStyle = "original"
+themeStyle = "france"
 generateSocialCard = true
 
 
-# favicon = false
-# wordCount = false
-# homepage = false
-# readingTime = false
-# fullRSS = true
-# nofeedSections = [ "page", "posts" ]
+
 mainSections = [ "post" ]
-# images = ['https://harper.blog/images/og.png']
+images = ['https://harper.blog/images/og.png']
 
 
 # [[social]]
