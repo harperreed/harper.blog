@@ -10,3 +10,5 @@ defaultContentLanguage = "en"
 author = "Harper Reed"
 disableKinds = [ "taxonomy", "term" ]
 timeZone = "America/Chicago"
+
+copyright = "Harper Reed (CC BY 4.0)"

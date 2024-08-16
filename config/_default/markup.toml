@@ -5,6 +5,11 @@ unsafe = true
 
 [highlight]
 style = 'monokai' # see https://xyproto.github.io/splash/docs/all.html
+lineNumbersInTable = true
+# This allows Bear Cub to use a variation of Dracula that is more accessible
+# to people with poor eyesight. For more information about color contrast
+# and accessibility, see https://web.dev/color-and-contrast-accessibility/
+noClasses = false
 
 [tableOfContents]
 startLevel = 2

@@ -5,10 +5,16 @@
 identifier = "contact"
 name = "harper@modest.com"
 url = "mailto:harper@modest.com"
-weight = 6
+weight = 7
 
 [[main]]
-identifier = "home"
-name = "Home"
-url = "/"
-weight = 1
+identifier = "photos"
+name = "Photos"
+url = "https://photos.lol"
+weight = 5
+
+[[main]]
+identifier = "books"
+name = "Books"
+url = "https://reading.lol"
+weight = 6

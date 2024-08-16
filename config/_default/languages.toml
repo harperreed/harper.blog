@@ -1,0 +1,7 @@
+  [en]
+    languageName = "en-US 🇺🇸"
+    LanguageCode = "en-US"
+    contentDir = "content"
+[en.params]
+      madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
+      description = "Some writing by Harper Reed. Mostly about technology, politics, and things"

@@ -1,47 +1,28 @@
 {{ define "main" }}
-<nav>
-    <a href="/archives/"><span aria-hidden="true">&larr;</span> Back to Archives</a></li>
-
-</nav>
-<div class="post">
-
-    <div>
-        <h1><a title="Permanent Link to {{ .Title }}." href="{{.RelPermalink}}" rel="bookmark">{{ .Title }}</a></h1>
-
-        <h2><small>Posted on {{.Date.Format "Jan 2, 2006" }}</small></h2>
-    </div>
-    <div class="postcontent">
-        {{ .Content }}
-    </div>
-</div>
-
-<hr>
-
-
-{{ $related := .Site.RegularPages.Related . | first 5 }}
-{{ with $related }}
-<h3>See Also</h3>
-<ul style="list-style-type: none; padding: 0px">
-    {{ range . }}
-    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <small>published on {{.Date.Format "Jan 2, 2006" }}</small></li>
-    {{ end }}
-</ul>
-<hr>
+{{ if not .Params.menu }}
+<h1>{{ .Title }}</h1>
+<p class="byline">
+  <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+    {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
+  </time>
+  {{ with .Params.author }}· {{.}}{{ end }}
+</p>
 {{ end }}
-
-
-
-<nav>
-
-    {{ if .Prev }}
-    <a href="{{ .Prev.RelPermalink }}" title="Previous: {{ .Prev.Title }}"><span aria-hidden="true">&larr;</span>
-        Previous entry </a>
-    {{ end }}
-    &middot;
-    {{ if .Next }}
-    <a href="{{ .Next.RelPermalink }}" title="Next: {{ .Next.Title }}">Next entry <span
-            aria-hidden="true">&rarr;</span></a>
-    {{ end }}
-
-</nav>
+<content>
+  {{ .Content }}
+</content>
+<p>
+  {{ range (.GetTerms "tags") }}
+    <a class="blog-tags" href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a>
+  {{ end }}
+</p>
+{{ if not .Params.hideReply }}
+{{ with .Site.Params.author.email }}
+  <p>
+    <a href='mailto:{{ . }}?subject={{ i18n "email-subject" }}"{{ default $.Site.Title $.Page.Title }}"'>
+      {{ i18n "email-reply" }} ↪
+    </a>
+  </p>
+{{ end }}
+{{ end }}
 {{ end }}
