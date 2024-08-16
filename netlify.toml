@@ -1,7 +1,7 @@
 [build]
 HUGO_VERSION ="0.129.0"
 publish = "public"
-command = "hugo --gc --minify"
+command = "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic"
 
 [context.production.environment]
 HUGO_VERSION ="0.129.0"
@@ -10,10 +10,10 @@ HUGO_ENABLEGITINFO = "true"
 
 [context.deploy-preview]
 HUGO_VERSION ="0.129.0"
-command = "hugo --gc --buildDrafts --buildFuture -b $DEPLOY_PRIME_URL"
+command = "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic --buildDrafts --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
 HUGO_VERSION ="0.129.0"
 HUGO_ENV = "staging"
 HUGO_ENABLEGITINFO = "true"
-command = "hugo --gc --buildDrafts --buildFuture -b $DEPLOY_PRIME_URL"
+command = "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic --buildDrafts --buildFuture -b $DEPLOY_PRIME_URL"
