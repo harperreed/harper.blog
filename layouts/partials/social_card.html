@@ -3,7 +3,7 @@
 
 {{ $font := resources.GetRemote "https://github.com/google/fonts/raw/main/ofl/firamono/FiraMono-Bold.ttf" }}
 {{ $fg := resources.Get "images/social_card_fg.png"}}
-{{ $bg := resources.Get "images/social_card_bg_harper.png"}}
+{{ $bg := resources.Get "images/social_card_bg.png"}}
 
 
 
@@ -28,12 +28,12 @@
 {{ end }}
 
 {{ $date := .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
-{{ $author := (default $.Site.Params.author.name ($.Param "author") ) }}
-{{ $byline := (printf "%s" $author $date) }}
+{{ $author := (default $.Site.Params.author.name ($.Param "name") ) }}
+{{ $byline := (printf "%s | %s" $author $date) }}
 
 {{ $fg = $fg.Filter (images.Text $byline (dict
     "font" $font
-    "color" "#898a8d"
+    "color" "#ffffff"
     "size" 60
     "linespacing" 30
     "x" 0
