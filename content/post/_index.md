@@ -8,7 +8,9 @@ menu:
   main:
     name: Archives
     weight: 3
-
+  footer:
+    name: Archives
+    weight: 3
 ---
 
 I started blogging on March 1st, 2000. Since then I have had many different eras of blogging. Some with lots of blog posts, others with very few.

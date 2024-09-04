@@ -10,7 +10,9 @@ menu:
   main:
     name: About
     weight: 2
-
+  footer:
+    name: About
+    weight: 2
 ---
 
 My name is [Harper Reed](mailto:harper@modest.com). This is my blog. I have been blogging for around 24 years (wtaf). This is approximately {{< postcount 2000 "now" >}}. You can check out [all my posts here](/posts).
