@@ -1,38 +1,31 @@
 {{ $startYear := int (.Get 0) }}
 {{ $endYear := .Get 1 }}
-{{ $description := .Get 2 }}
 {{ $currentYear := now.Year }}
 {{ $currentDate := now }}
-
 {{ if eq (lower (string $endYear)) "now" }}
   {{ $endYear = $currentYear }}
 {{ else }}
   {{ $endYear = int $endYear }}
 {{ end }}
-
 {{ $count := 0 }}
 {{ $startDate := time.AsTime (printf "%d-01-01" $startYear) }}
 {{ $endDate := time.AsTime (printf "%d-12-31" $endYear) }}
 {{ if eq $endYear $currentYear }}
   {{ $endDate = $currentDate }}
 {{ end }}
-
 {{ range where .Site.RegularPages "Section" "post" }}
   {{ $postYear := .Date.Year }}
   {{ if and (ge $postYear $startYear) (le $postYear $endYear) }}
     {{ $count = add $count 1 }}
   {{ end }}
 {{ end }}
-
 {{ $daysDiff := div (sub $endDate.Unix $startDate.Unix) 86400 }}
 {{ $postsPerDay := 0 }}
 {{ if gt $daysDiff 0 }}
   {{ $postsPerDay = div (mul $count 1000000) $daysDiff }}
 {{ end }}
-
 {{ $frequency := div $postsPerDay 1000000.0 }}
 {{ $frequencyOutput := "" }}
-
 {{ if ge $frequency 0.5 }}
   {{ $frequencyOutput = printf "%.2f posts/day" $frequency }}
 {{ else if ge $frequency 0.07142857 }} {{/* 0.5 posts per week */}}
@@ -42,5 +35,4 @@
   {{ $postsPerMonth := mul $frequency 30.44 }} {{/* Average days in a month */}}
   {{ $frequencyOutput = printf "%.2f posts/month" $postsPerMonth }}
 {{ end }}
-
-{{ printf "%s %d posts ~ %s" $description $count $frequencyOutput }}
+{{ printf "%d posts ~ %s" $count $frequencyOutput }}
