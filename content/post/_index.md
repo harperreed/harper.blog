@@ -1,17 +1,33 @@
 ---
-title: Past Archives
+title: Posts
 lastmod: '2017-12-04'
-type: archive
-url: /past-archives/
+url: /posts
 nofeed: true
+description: All posts from harper.blog
+menu:
+  main:
+    name: Archives
+    weight: 3
 
 ---
 
+All my blog posts since i started blogging on March 1st, 2000.
 
-# My old blog: nata2.org
+Eras of my blog:
+- 2000-2001 - College ({{< postcount 2000 2001 >}})
+- 2001-2005 - Clubbing and first job ({{< postcount 2001 2005 >}}
+- 2005-2009 - Threadless ({{< postcount 2005 2009 >}})
+- 2009-2011 - Experimental life phase 1 ({{< postcount 2009 2011 >}})
+- 2011-2012 - Obama time ({{< postcount 2011 2012 >}})
+- 2012-2015 - Modest ({{< postcount 2012 2015 >}})
+- 2015-2018 - Paypal ({{< postcount 2015 2018 >}})
+- 2018-2020 - Experimental life phase 2 ({{< postcount 2018 2020 >}})
+- 2020-2023 - Galactic ({{< postcount 2020 2023 >}})
+- 2023-Now - Experimental life phase 3 ({{< postcount 2023 "now" >}})
 
-From 2000 to 2015 I blogged regularly at [nata2.org](https://web.archive.org/web/*/nata2.org). I wrote around *1416* posts and covered anything from technology to my (early 2000s) dating life. It was a lot of fun and was a great outlet. Around the launch of Twitter (~2006/2007), I stopped doing updating the site regularly.
+Total posts since 2000: {{< postcount 2000 "now" >}}
 
-This collection of posts is an unedited archive of all my *nata2.org* posts.
 
-## **Here be dragons**.
+# Archives
+
+---
