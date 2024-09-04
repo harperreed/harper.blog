@@ -1,0 +1,567 @@
+- **2024-09-04**: Added out-of-date warning for archived posts and a new partial template 🕰️⚠️
+- **2024-08-23**: Merge pull request #29 from harperreed/dynamic-social
+- **2024-08-23**: Summary of changes - 🌟 Added new file: `assets/images/social_card_fg_harper.png` - 🔀 Updated dynamic social card logic in `layouts/partials/social_card.html`   - 🔄 Changed background image reference from `social_card_bg_harper.png` to `social_card_bg.png`   - 🖋️ Updated author byline format to include both author and date (e.g., "Author Name | 2023-10-10")   - 🎨 Modified byline text color from `#898a8d` to `#ffffff`
+- **2024-08-23**: Add dynamic social card generation 📸✨
+- **2024-07-31**: Merge pull request #27 from harperreed/vcards
+- **2024-07-31**: Update 2024-07-31-vcard-hacks-address-book-hackers.md
+- **2024-07-31**: Update 2024-07-31-vcard-hacks-address-book-hackers.md
+- **2024-07-31**: Update 2024-07-31-vcard-hacks-address-book-hackers.md
+- **2024-07-31**: Update 2024-07-31-vcard-hacks-address-book-hackers.md
+- **2024-07-31**: updated with why!
+- **2024-07-31**: updated with why!
+- **2024-07-31**: updated with why!
+- **2024-07-31**: updated with why!
+- **2024-07-31**: updated with why!
+- **2024-07-31**: updated vcard post
+- **2024-07-31**: updated vcard post
+- **2024-07-31**: updated vcard post
+- **2024-07-31**: updated vcard post
+- **2024-07-31**: Update 2024-07-31-vcard-hacks-address-book-hackers.md
+- **2024-07-31**: updated vcard post
+- **2024-07-31**: updated vcard post
+- **2024-07-31**: updated vcard post
+- **2024-06-09**: 🎉 New "Now" page dropped, y'all! 🎉 - Added a fresh update for June 9, 2024 because I'm a time-traveling wizard 🧙‍♂️ - Geeking out hard on AI/ML like every other nerd on the planet 🤓🤖 - Jamming to tunes on my dope-ass vintage hi-fi setup 🎧🎶 - Gettin' swole at the gym because I'm old as fuck now 💪👴 - Still an unrepentant bookworm, so send me your recs or GTFO 📚😤 - Tryin' to blog more consistently (emphasis on "trying") ✍️😅 - Carrying my camera everywhere again like a proper hipster 📷🕶️ - Uploading my mediocre photos to harper.photos 🖼️💩 - Pondering the impending apocalypse, as one does 💀🌍 - 539 days deep into daily journaling - suck it, procrastination! 📔🖕 - Revamping all my janky-ass websites (pray for me) 🙏💻 - Someone please help me figure out how to share photos better 🆘📷 - Hugo is my love-hate relationship right now 😍😡 - We're building cool shit at 2389 Research! HMU if you're into AI and money 🤑🧠 - Stoked for whatever batshit craziness the future holds! 🚀🍿
+- **2024-04-12**: 🎉 Optimized a shit-ton of images! 🖼️💩 - Crunched down `api-llm-lol.png`, `arc-browser.png`, `chatgpt.png` and more in `/static/images/posts/` 📉 - Slimmed PNGs faster than a coked-up Jenny Craig spokesperson 🏃‍♀️❄️ - Saved some precious bytes, now we can fit even more cat memes! 🐱😸
+- **2024-04-12**: 🚨 Buckle up, nerds! We're about to embark on a wild ride through the magical world of meme searching! 🧙‍♂️🔍🌈
+- **2024-04-12**: Merge pull request #26 from harperreed/memes
+- **2024-04-12**: Merge pull request #25 from iandees/patch-1
+- **2024-04-12**: 🎉 MEME SEARCH ENGINE UNLEASHED!!! 🚀🔍🤣 - Changed publish date to tomorrow cuz why not 🤷‍♂️ - Flipped that `draft` shit to `false` so errybody can read this dope ass post 😎📝 - Added some fire emojis to the title for extra 🔥🔥🔥
+- **2024-04-12**: 🚨 Holy shit, I built a magical meme search engine! 🧙‍♂️🔍🖼️
+- **2024-04-12**: fixed photo names
+- **2024-04-11**: 🎉 Exciting Meme Search Engine! 🔍🤣 - Added a sassy and informative description about building a meme search engine using siglip/CLIP 📝 - Emphasized the fun and learning potential of the project 🧠💥 - Encouraged others to unleash the power of AI on their own images 🚀📸 - No offensive changes, just some fucking awesome improvements! 😎👍
+- **2024-04-11**: added images. need to rename them. but tired
+- **2024-04-11**: 🚨🔥 Holy shit y'all, I built a fucking MEME SEARCH ENGINE! 🤯🤖 - Added a new blog post about using siglip and vector encoding to search through my massive meme collection 📸🔍 - Wrote a janky ass crawler to grab all the memes and metadata 🕷️💩 - Used MLX_CLIP to encode the images and get them vector embeddings 🧠📐 - Slammed all that shit into a Chroma vector database for easy searching 🗄️💨 - Search by image or text and find similar memes, it's like fucking magic! ✨🔮 - Also works on regular ass photo libraries too, find all your forgotten gems 💎📷 - Open sourced this shit so y'all can play with it too, YOU'RE WELCOME 🎁🙏 - Hacked together with my buddy Ivan to recover thumbnails from Lightroom previews 🕵️‍♂️💾
+- **2024-04-06**: updated now
+- **2024-03-27**: 🎉 Adding SEO modules for richer link previews! 🔗🌐
+- **2024-03-26**: Fix Markdown code block ticks.
+- **2024-03-26**: 🎉🥳 Woot woot! Check out these sick new updates to my blog config! 🚀💻
+- **2024-03-25**: Merge pull request #23 from harperreed/office-agent-1
+- **2024-03-25**: updated headers
+- **2024-03-25**: tweaked post
+- **2024-03-25**: cleaned up a lot
+- **2024-03-25**: cleaned up a lot
+- **2024-03-25**: cleaned up a lot
+- **2024-03-25**: added a part 2 teaser
+- **2024-03-25**: 🎉 Sensors + LLM = Office with ATTITUDE! 😎 🏢💬
+- **2024-03-25**: 🎉 Our office avatar just leveled up! 🤖🎙️
+- **2024-03-25**: 👀 Look ma, the office is alive! 🎉 - Added sensors and LLM to make the office talk shit about what's going on 💩💬 - Uses MQTT to collect JSON sensor data and feeds it to GPT-4 for snarky commentary 🤖🗣️ - Even gave the fucker eyeballs so it can see and roast our outfits 👀👚👖 - Prompt engineering to dial in just the right amount of sass and sarcasm 📈🌶️ - Chat logs full of hilarious and sometimes unnervingly insightful observations 😂😳 - Prediction: Coming soon to a Home Assistant near you! 🏠🔜
+- **2024-03-25**: added some images
+- **2024-03-25**: tweaked post and fixed the extension lol
+- **2024-03-25**: fixed yaml
+- **2024-03-25**: 👀🔊 The Office Avatar speaks! 🎙️😜
+- **2024-03-25**: 🎉 The Office Avatar is alive and talking shit! 🎉 - Added computer vision via LLAVA to allow the office to see and comment on what's happening 👀📸 - Collecting sensor data via MQTT and using GPT-4 to generate hilarious, snarky notifications about the office state 🚪🌡️😎 - Notifications pushed to a Discord channel for maximum lulz 📣💬 - Using the GLaDOS voice model for extra sass 🤖🗣️
+- **2024-03-25**: 🤖🏢 The office gets an AI makeover! 🎉 - Added `houseagent` to transform boring sensor data into snarky prose using GPT-4 🦜 - Office avatar can now see what's happening with LLAVA computer vision 👀 - Notifications pushed to Slack and Google Home speaker for maximum sass 📢 - Home Assistant automations enhanced to trigger the AI based on sensor changes 🔄 - New voice model makes the office sound like GLaDOS from Portal 🎮
+- **2024-03-17**: Merge pull request #22 from harperreed/reset-to-defaults
+- **2024-03-17**: 📸 🚨 Buckle up, buttercups! We've got some SPICY changes to Harper's blog config! 🌶️ 🔥
+- **2024-03-17**: 🎉 Cleaned up some cruft and made harper.blog more awesome! 🚀 - Removed unnecessary social links in params.toml 🗑️ - Added meta tags for og:image, og:video, and author in extend_head.html 📸 - Added dark mode support with dark-mode.js 🌙 - Nuked the old head.html and header.html templates 💥 - Added IndieWeb support with rel="me" links 🕸️
+- **2024-03-17**: Merge pull request #21 from harperreed/tag-fix
+- **2024-03-17**: fixed nata2.info urls
+- **2024-03-17**: fixed tags
+- **2024-03-17**: 🤖 Zapped the fuck outta 'term' in disableKinds! 💥 - Added "term" to the disableKinds array in hugo.toml - This will prevent Hugo from generating pages for taxonomy terms - Why? Who the hell knows, but it's probably some nerdy SEO shit 🤓
+- **2024-03-17**: 🚀 Optimized site config and build process! 🏗️ - Removed unused entries from .gitignore, keeping shit clean! 🧹 - Added some badass new tasks to the Makefile for previewing and building the site with production settings 🔧 - Tweaked the Hugo config to remove an unused disableKind and keep that fucker lean 💪 - Updated the go.mod and go.sum files to use the latest and greatest version of the hugo-vitae theme 🆕 - Removed the Google Analytics snippet from the footer partial since that shit's handled elsewhere now 👋
+- **2024-03-17**: 🔥 Torched the boring deploy step from the Makefile 🔥 - Ripped out that lame ass deploy target like a nasty weed 🌿🪓 - Fixed the capitalization of those builddrafts flags to actually work 🤦‍♂️ - Now we can spin up the dev server with future and draft content without jumping through stupid hoops 🎪🤸‍♂️
+- **2024-03-17**: Merge branch 'main' into photos-post
+- **2024-03-17**: 📆 Moved post date back a day for "How to Leica like a noob" 📸🤓 - Changed date in filename from 2024-03-19 to 2024-03-18 - Updated date in frontmatter to match new filename - Tweaked time to be 09:00 instead of 11:04 cuz mornings are better for Leicaing 🌅
+- **2024-03-17**: updated to use image shortcode
+- **2024-03-14**: added a better commit example
+- **2024-03-14**: 🤖💬 AI-powered git commit messages FTW! 🚀🎉 - Updated content/post/2024-03-11-ai-git-commit-messages.md - Added links to my actual git hook and prompt in dotfiles repo 🔗 - Removed unnecessary code block formatting for the output example 🗑️ - AI is making us lazy devs, but who cares when commit messages are this awesome! 😂👌
+- **2024-03-14**: 🚀 Post update: AI-powered Git commit messages 🤖💬
+- **2024-03-14**: 📷 Leica tips for noobs! 📸 - Update post on how to shoot with a Leica like a total beginner - Clarify that f/8 aperture is a manual setting on the Leica M, not automatic. Life is fucking complicated, amirite? 😅 - Encourage sharing photos and link to my own gallery. Sharing is caring! 🤗
+- **2024-03-14**: 📝 Leica noob guide update! 📸😎 - Removed extra bullet point about leather half cases - Shortened section on photography software - Mentioned importing photos directly to iPhone with SD card reader - Still keepin' it real and not giving a fuck what others think! 🤘💪
+- **2024-03-14**: 🎉 Updated photo caption for Eryan pic 📸 - Changed date from 2017 to 2022 🗓️ - Gotta keep those captions accurate AF! 💯
+- **2024-03-14**: Add new Eryan photo 😍📸, update Leica model specificity in captions 🎯📝
+- **2024-03-14**: Update Leica photography advice post
+- **2024-03-14**: content: Update "How to Leica Like a Noob" post
+- **2024-03-14**: Add photography tips to "How to Leica Like a Noob" post
+- **2024-03-14**: Update 2024-03-19-how-to-leica-like-a-noob.md
+- **2024-03-13**: Summary: Update "How to Leica Like a Noob" post
+- **2024-03-13**: Fix typo in image caption: Change "peaking" to "peeking"
+- **2024-03-13**: Update netlify.toml
+- **2024-03-13**: - Set HUGO_VERSION to 0.111.0 for consistency across deploy contexts - Use same Hugo version for production and deploy previews
+- **2024-03-13**: Add hugo-modules/images and lazy-loader.js
+- **2024-03-13**: Add photos and captions to "How to Leica like a Noob" post
+- **2024-03-13**: photos for photos post
+- **2024-03-13**: Create 2024-03-19-how-to-leica-like-a-noob.md
+- **2024-03-12**: Update netlify.toml
+- **2024-03-12**: Update netlify.toml
+- **2024-03-12**: Update netlify.toml
+- **2024-03-12**: updated netlify build
+- **2024-03-11**: Update README.md
+- **2024-03-11**: Merge pull request #18 from harperreed/seo2
+- **2024-03-11**: ✨ Update head partial and add OG meta tags
+- **2024-03-11**: 📝 Add emojis to git commit message tips
+- **2024-03-11**: published the llm piece
+- **2024-03-11**: Feat: Improve prepare-commit-msg git hook
+- **2024-03-11**: llama_cpp not installed, install with: pip install llama-cpp-python Add llm-commit-hook.gif
+- **2024-03-11**: Add animated gif demonstrating llm-commit-hook usage
+- **2024-03-11**: hmm
+- **2024-03-11**: Add llm-commit-hook GIF and update post content
+- **2024-03-11**: renamed and removed a draft
+- **2024-03-11**: Update ai-git-commit-messages.md
+- **2024-03-11**: Enhance error handling and add documentation for prepare-commit-msg hook
+- **2024-03-11**: Merge branch 'main' into llm-ai-commit
+- **2024-03-11**: Build draft content for deploy previews
+- **2024-03-11**: - Add TL;DR summarizing the main point - Use local image path instead of external link - Link to prepare-commit-msg hook in dotfiles for reference
+- **2024-03-11**: Feat: Add AI-generated git commit messages using llm CLI and git hooks
+- **2024-03-11**: Update AI-generated git commit messages - Update prompt to include guidance on returning a blank string if no changes - Change post date to morning instead of evening - Use ```text for prompt and message examples for better formatting - Add instructions for installing llm CLI using pipx - Add check for llm command before executing hook - Specify language for code blocks (bash, text)
+- **2024-03-11**: - Added an AI-generated git commit message process - Created a post on AI git commit messages in `ai-git-commit-messages.md` - Integrated LLM CLI and git hooks for automated message generation - Set up customizable prompts for commit messages in `.config/prompts/git-commit-message.txt` - Developed git aliases to utilize LLM for commit message generation - Added interactive features to confirm commit messages for staged changes - Implemented a global `prepare-commit-msg` Git hook for automated commit message generation - Included detailed setup instructions for integrating LLM with Git processes
+- **2024-02-04**: added indie auth
+- **2024-02-04**: Update head.html
+- **2024-02-03**: Update head.html
+- **2024-02-03**: Update head.html
+- **2024-02-03**: Update turntables.md
+- **2024-02-03**: Update climate-books.md
+- **2024-02-03**: Update what-have-i-been-up-to.md
+- **2024-02-03**: Update what-have-i-been-up-to.md
+- **2024-02-03**: Update digital-contact-tracing-exposure-alerting.md
+- **2024-02-03**: Update where-to-find-me.md
+- **2024-02-03**: Update where-to-find-me.md
+- **2024-02-03**: Update writing.md
+- **2024-02-03**: Update 3-tips-facebook.md
+- **2024-02-03**: Update _index.md
+- **2024-02-03**: Update about.md
+- **2024-02-03**: Merge branch 'main' of github.com:harperreed/harper.blog
+- **2024-02-03**: changed name of past nows
+- **2024-02-03**: Update 2024-02-02.md
+- **2024-02-02**: updated gitignore
+- **2024-02-02**: added _index for posts
+- **2024-02-02**: tweaked arvhices and about
+- **2024-02-02**: updated title
+- **2024-02-02**: outputs!
+- **2024-02-02**: updated now posts
+- **2024-02-02**: updated now
+- **2024-02-02**: tweaks
+- **2024-02-02**: updated menu
+- **2024-02-02**: updated menu. and added index
+- **2024-02-02**: fixed config, and added proper now
+- **2024-01-14**: added ios notification post
+- **2024-01-02**: removed cursor
+- **2023-12-31**: moved cursor party
+- **2023-12-31**: updated for cursor party
+- **2023-12-18**: 0.111.0
+- **2023-12-18**: 0.121.1 may do it
+- **2023-12-18**: hugo mod get -u for netlify
+- **2023-12-18**: maybe this works for netlify
+- **2023-12-18**: C to c
+- **2023-12-18**: added climate books
+- **2023-11-30**: updated netlify hugo version
+- **2023-11-30**: Merge pull request #15 from harperreed/new-new
+- **2023-11-30**: updated with new post
+- **2023-07-09**: Update head.html
+- **2023-02-10**: added a post about turn tables
+- **2023-01-29**: removed extra metadata about posts
+- **2023-01-29**: Update README.md
+- **2023-01-29**: Merge pull request #14 from harperreed/tweaks
+- **2023-01-29**: added some content and some tweaks
+- **2023-01-29**: updated to not use gitmodules
+- **2023-01-29**: removed themes
+- **2023-01-29**: updated go info
+- **2023-01-29**: updated go info
+- **2023-01-26**: added silly blog post
+- **2023-01-26**: added silly blog post
+- **2023-01-26**: added silly blog post
+- **2023-01-26**: added silly blog post
+- **2020-10-05**: updated images
+- **2020-09-21**: publish
+- **2020-09-21**: whoops
+- **2020-09-21**: some grammer
+- **2020-09-21**: updated with dylan fixes
+- **2020-09-21**: sinker edits.
+- **2020-09-21**: Update Posts “what-have-i-been-up-to”
+- **2020-09-20**: Update what-have-i-been-up-to.md
+- **2020-09-20**: updated pages
+- **2020-09-20**: updated archive page
+- **2020-09-20**: Apostrophe (') is the eighteenth album by Frank Zappa, released in March 1974 in both stereo and quadraphonic formats
+- **2020-09-20**: updated
+- **2020-09-20**: some minor tweaks
+- **2020-09-20**: udpated post
+- **2020-09-21**: Create Posts “2020-09-21-whats-have-i-been-up-to”
+- **2020-07-26**: added posts to nofeed
+- **2020-07-13**: fixed config maybe
+- **2020-07-13**: updated xml i think...
+- **2020-07-09**: Update Posts “2020-07-07-streaming-setup”
+- **2020-07-09**: some progress on my draft
+- **2020-07-07**: Create Posts “2020-07-07-streaming-setup”
+- **2020-07-06**: updated social
+- **2020-07-05**: added harper.photos link
+- **2020-06-17**: updated cms config
+- **2020-06-17**: Delete Pages “test-post”
+- **2020-06-17**: Merge branch 'master' of github.com:harperreed/harper.blog
+- **2020-06-17**: added artchive
+- **2020-06-18**: Create Pages “test-post”
+- **2020-06-17**: updated cmd config
+- **2020-06-17**: Update about.md
+- **2020-06-17**: Delete Pages “colophon”
+- **2020-06-17**: Merge branch 'master' of github.com:harperreed/harper.blog
+- **2020-06-18**: Update Pages “colophon”
+- **2020-06-17**: updaed
+- **2020-06-18**: Create Pages “colophon”
+- **2020-06-17**: udpated orbiting
+- **2020-06-17**: Merge pull request #13 from harperreed/cms/post/orbiting
+- **2020-06-17**: updated config
+- **2020-06-18**: Update Posts “orbiting”
+- **2020-06-17**: tweaked a bit
+- **2020-06-17**: tweaked a bit
+- **2020-06-17**: Merge branch 'master' of github.com:harperreed/harper.blog
+- **2020-06-17**: updated cms
+- **2020-06-17**: Delete Pages “2020-06-18-colphon”
+- **2020-06-17**: Merge branch 'master' of github.com:harperreed/harper.blog
+- **2020-06-17**: updated back to real date
+- **2020-06-18**: Create Pages “2020-06-18-colphon”
+- **2020-06-17**: Delete Pages “2020-06-18-colophon”
+- **2020-06-17**: updated
+- **2020-06-17**: updated
+- **2020-06-18**: Create Pages “2020-06-18-colophon”
+- **2020-06-17**: Merge branch 'master' of github.com:harperreed/harper.blog
+- **2020-06-17**: updated to have menu
+- **2020-06-18**: Update Posts “digital-contact-tracing-exposure-alerting”
+- **2020-06-17**: Merge branch 'master' of github.com:harperreed/harper.blog
+- **2020-06-17**: renamed a few things
+- **2020-06-18**: Update Pages “about”
+- **2020-06-17**: updated admin
+- **2020-06-17**: netlify auth
+- **2020-06-17**: added admin
+- **2020-06-05**: added some links
+- **2020-06-04**: Colloqate Design
+- **2020-06-04**: fixed My Block, My Hood, My City
+- **2020-06-04**:  fucked up the date
+- **2020-06-04**: giving updated.  undrafted
+- **2020-06-04**: giving updated.
+- **2020-06-04**: draft cuz what?
+- **2020-06-04**: Merge pull request #12 from harperreed/giving
+- **2020-06-04**: tweaked
+- **2020-06-04**: tweaked
+- **2020-06-04**: updated header
+- **2020-06-04**: try # 232
+- **2020-06-04**: try # 232
+- **2020-06-04**: new style
+- **2020-06-04**: fixed links
+- **2020-06-04**: fixed links
+- **2020-06-04**: fixed links
+- **2020-06-04**: fixed links
+- **2020-06-04**: added giving
+- **2020-04-24**: Merge pull request #11 from harperreed/notification
+- **2020-04-24**: exposure notifications
+- **2020-04-24**: updated readme
+- **2020-04-23**: udpated Readme
+- **2020-04-23**: Merge branch 'master' of github.com:harperreed/harper.blog
+- **2020-04-23**: updated with a broader thanks!
+- **2020-04-23**: Merge pull request #9 from harperreed/ph-edits
+- **2020-04-23**: Merge branch 'alliblk-patch-1' into ph-edits
+- **2020-04-23**: Merge branch 'patch-1' of https://github.com/alliblk/harper.blog into alliblk-patch-1
+- **2020-04-23**: added quotation
+- **2020-04-23**: added quotation
+- **2020-04-23**: added quotation
+- **2020-04-23**: more alli edits
+- **2020-04-23**: some changes from alli
+- **2020-04-23**: some changes from alli
+- **2020-04-23**: some changes from alli
+- **2020-04-23**: some changes from alli
+- **2020-04-23**: Merge pull request #7 from harperreed/ct-post
+- **2020-04-23**: CovidWatch to Covid Watch
+- **2020-04-22**: Merge branch 'master' into ct-post
+- **2020-04-22**: updated thanks
+- **2020-04-22**: Merge pull request #8 from harperreed/favicon
+- **2020-04-22**: tweaked to allow for old favicon
+- **2020-04-22**: some clarification
+- **2020-04-22**: added thanks
+- **2020-04-22**: added contact tracing post
+- **2020-04-22**: Merge pull request #6 from harperreed/netlify
+- **2020-04-22**: added .gitignore
+- **2020-04-22**: fixed css bug
+- **2020-04-22**: updated config
+- **2020-04-22**: try again
+- **2020-04-22**: fixed i fhitnk
+- **2020-04-22**: added theme as submodule
+- **2020-04-22**: added theme as submodule
+- **2020-04-22**: added theme as submodule
+- **2020-04-22**: added some new stuff to support new theme
+- **2020-04-22**: removed docs
+- **2020-04-22**: updated readme
+- **2020-04-22**: updated readme
+- **2020-04-22**: updated url for #
+- **2020-04-22**: updated netlify config
+- **2020-04-22**: moved # to hashtag
+- **2020-04-22**: updated config
+- **2020-04-22**: update
+- **2020-04-22**: renamed
+- **2020-04-22**: updated
+- **2020-04-22**: updated config and theme (rss)
+- **2020-04-22**: Added netlify
+- **2020-04-22**: added seo schema
+- **2019-03-19**: added orbiting post
+- **2019-03-19**: added orbiting post
+- **2019-03-19**: added orbiting post
+- **2018-11-25**: udpated a bit
+- **2018-11-25**: Updated docs
+- **2018-11-25**: changed http to https
+- **2018-10-11**: updated images
+- **2018-10-11**: fixed images
+- **2018-10-11**: added facebook post
+- **2018-07-08**: Updated docs
+- **2018-07-08**: made h1 a bit more responsive
+- **2018-07-08**: Updated docs
+- **2018-07-08**: changed title
+- **2018-07-08**: Updated docs
+- **2018-07-08**: updated
+- **2018-07-08**: Updated docs
+- **2018-07-08**: Updated docs
+- **2018-07-08**: fixed the archives title
+- **2018-07-08**: Create README.md
+- **2018-07-08**: Merge pull request #5 from harperreed/oldpost
+- **2018-07-08**: Merge branch 'master' into oldpost
+- **2018-07-08**: added rss template
+- **2018-07-08**: finally updated post
+- **2018-07-09**: Updated docs
+- **2018-07-09**: updated writing post
+- **2018-07-08**: moved oldposts to archives
+- **2018-07-08**: changed archives url
+- **2018-07-08**: udpated theme
+- **2018-07-08**: added posts
+- **2018-07-08**: created archetype
+- **2018-07-08**: updated makefile
+- **2018-07-08**: fixed url in back home
+- **2018-07-08**: Updated docs
+- **2018-07-08**: added url for oldposts
+- **2018-07-08**: updated docs
+- **2018-07-08**: added old posts ideas
+- **2018-07-08**: Delete CNAME.old
+- **2018-07-08**: Create CNAME
+- **2018-07-08**: mayeb named
+- **2018-07-08**: added site
+- **2018-07-08**: hmm...
+- **2018-07-08**: updated
+- **2018-07-08**: :shrug:
+- **2018-07-08**: Merge pull request #4 from harperreed/hugo
+- **2018-07-08**: HUGO! yea. kind of a pita but MUCH faster. and go. not ruby. my friend
+- **2018-07-08**: migrated to hugo
+- **2018-05-02**: fixed title
+- **2018-05-02**: quick cname change
+- **2018-05-02**: quick cname change
+- **2018-04-30**: Added some structured data
+- **2018-04-30**: added sitemap
+- **2018-04-28**: Merge branch 'master' of github.com:harperreed/harper.blog
+- **2018-04-28**: added js stub
+- **2018-04-28**: olllllddd posts
+- **2018-04-28**: Merge B project as our subdirectory
+- **2018-04-28**: added analytics
+- **2018-04-28**: google is annoying
+- **2018-04-28**: update head to claim ownership
+- **2018-04-28**: updated timezone
+- **2018-04-28**: updated gemfile
+- **2017-04-21**: added ignore
+- **2017-01-16**: updated config
+- **2017-01-16**: more tweaks. added some google analytics
+- **2017-01-16**: removed old css
+- **2017-01-16**: tweaks. bio fixed.
+- **2017-01-16**: some errant posts
+- **2017-01-16**: added old posts. oh boy
+- **2017-01-16**: added old posts. oh boy
+- **2017-01-16**: a few tweaks
+- **2017-01-16**: whoops
+- **2017-01-16**: Merge pull request #3 from harperreed/harpr-theme
+- **2017-01-16**: a good version
+- **2017-01-16**: updated template
+- **2017-01-16**: added 404
+- **2017-01-16**: added css
+- **2017-01-16**: added archives
+- **2017-01-15**: updated
+- **2017-01-13**: Merge pull request #2 from harperreed/harperreed-static-thing
+- **2017-01-13**: updated
+- **2017-01-13**: just like starting over
+- **2017-01-13**: Merge branch 'theme'
+- **2017-01-13**: theme
+- **2017-01-13**: Merge pull request #1 from harperreed/theme
+- **2017-01-13**: theme, yea
+- **2017-01-13**: updated config
+- **2017-01-13**: added some utilities
+- **2017-01-13**: added writing
+- **2017-01-04**: added cname for hosting
+- **2017-01-04**: new jekyll blog. ripe for deploying
+- **2017-01-04**: first commit
+- **2015-06-26**: added post list
+- **2014-05-08**: removed site
+- **2014-01-12**: regenerated site. tweaked shit to be responsive
+- **2014-01-12**: regenerated site
+- **2014-01-12**: cleaned up includes
+- **2014-01-12**: cleaned up js. moved things to cdn.
+- **2014-01-12**: cleaned up layouts
+- **2014-01-12**: cleaned up js. moved things to cdn.
+- **2014-01-12**: cleaned up css
+- **2014-01-12**:  added new post
+- **2014-01-07**: updated post to reflect new datas
+- **2014-01-07**: added gitignore
+- **2014-01-07**: added gitignore
+- **2014-01-07**: updated some stats
+- **2014-01-07**: added Makefile and deploy script. to S3 we will go
+- **2014-01-07**: updated index
+- **2014-01-07**: updated index.html
+- **2014-01-07**: whoops
+- **2014-01-07**: once a year blog fix
+- **2013-09-22**: updated site. ALL POSTS! generated shit
+- **2013-09-22**: updated site. ALL POSTS!
+- **2013-09-22**: converted from sdos 2 unix
+- **2013-09-22**: restored all the old posts from 2000-2007
+- **2012-11-19**: removed ejekyl dependencies. redid bio
+- **2012-11-13**: unupdated bootstrap
+- **2012-11-13**: Revert "updated bootstrap"
+- **2012-11-13**: Revert "updated bootstrap"
+- **2012-11-13**: updated bootstrap
+- **2012-11-13**: updated bootstrap
+- **2012-11-13**: typo
+- **2012-11-13**: regenerated and added a new post. also tweaked the design quite a bit
+- **2012-03-14**: updated blog
+- **2012-03-14**: updated blog
+- **2012-03-14**: updated and tweaked a fuckton
+- **2012-03-14**: updated site. new bootstrap. seriously this time
+- **2012-03-14**: updated site. new bootstrap
+- **2012-03-14**: updated bootstrap to 2.2
+- **2012-02-11**: renamed post
+- **2012-02-11**: added new post and regenerated
+- **2012-02-11**: updated stylesheet. lets see if this works
+- **2012-02-11**: regenerated and changed css name
+- **2012-02-11**: renamed css file
+- **2012-02-11**: set cdn. cleaned up noise
+- **2012-02-11**: updated footer forget the year ;)
+- **2012-02-11**: regenerated using bootstrap
+- **2012-02-11**: Merge branches 'bootstrap' and 'master'
+- **2012-02-11**: updated for simpler html
+- **2012-02-11**: updated blog to use bootstrap
+- **2012-02-11**: updated blog to use bootstrap
+- **2012-01-08**: regenerated my blog
+- **2012-01-08**: updated index.html to reflect my current ability to blog
+- **2011-10-02**: regenerated the site
+- **2011-10-02**: fixed up post
+- **2011-10-02**: updated posts
+- **2011-10-02**: tweaked includes
+- **2011-10-02**: updated/tweaked post. added twitter intents
+- **2011-10-02**: tweaked index.html
+- **2011-10-02**: added more detail to bio
+- **2011-10-02**: deleted old renamed post
+- **2011-10-02**: renamed and edited post
+- **2011-10-02**: updated index to reflect new blog approach
+- **2011-09-27**: changed date in url
+- **2011-09-27**: changed date
+- **2011-09-27**: added new post
+- **2011-04-18**: updated title
+- **2011-04-17**: updated _site
+- **2011-04-17**: reset site again
+- **2011-04-17**: added empty site
+- **2011-04-17**: reset _site dir
+- **2011-04-17**: stole archive page layout from al3x. cuz his is awesome. going to tweak in a bit
+- **2011-04-13**: cleaned up data
+- **2011-02-06**: hopefully i didn't fuck it up this time
+- **2011-02-06**: site.yaml is edited
+- **2011-02-06**: fixed feed bug
+- **2011-02-06**: fixed feed bug
+- **2011-02-06**: fixed feed bug
+- **2011-02-06**: fixed feed bug
+- **2011-01-26**: forgot to add the post. hah
+- **2011-01-26**: published post about drydrop
+- **2011-01-26**: fixed the date in newest post
+- **2011-01-26**: added new post
+- **2011-01-14**: changed about path
+- **2011-01-14**: changed /about to /about/
+- **2011-01-14**: added list of media to invalidate script
+- **2011-01-14**: added list of media
+- **2011-01-14**: tweaked CSS and added missing images
+- **2011-01-14**: compressed css
+- **2011-01-14**: trimmed images
+- **2011-01-14**: fixed a few css bugs. i am terrible at s///g hahaha
+- **2011-01-14**: migrated to a cdn on aws:  https://gist.github.com/780318
+- **2011-01-01**: changed the number of posts on the index page
+- **2011-01-01**: published the most recent post. retrospective.
+- **2011-01-01**: tweaked the design a bit
+- **2011-01-01**: 2011 retrospective post is almost done
+- **2011-01-01**: 
+- **2011-01-01**: 
+- **2011-01-01**: added my newest post. 2011 retrospective
+- **2010-12-07**: fixed site
+- **2010-12-07**: published lincoln square post
+- **2010-12-06**: 
+- **2010-12-06**: Cleaned up post. Ready to post it.
+- **2010-12-03**: Merge branch 'master' of github.com:harperreed/harperreed-blog
+- **2010-12-03**: 
+- **2010-12-03**: how to make a good shirt
+- **2010-11-01**: regenerated the entire site
+- **2010-11-01**: modified the bio and the header
+- **2010-11-01**: regenerated the site
+- **2010-11-01**: added new post about techcocktail
+- **2010-09-26**: fixed spelling mistake.
+- **2010-09-26**: fixed spelling mistake
+- **2010-09-25**: fixed a image url issue. haha. stupid flickr
+- **2010-09-25**: regenerated blog with new entry
+- **2010-09-25**: _posts/2010-09-25-cta-hacking-unofficial-apis-and-winning-a-data-innovation-award.markdown
+- **2010-09-03**: added webfinger to look up my email address
+- **2010-09-03**: regenerated site
+- **2010-09-03**: added post about venture hacks scout
+- **2010-08-26**: updated draft abotu lincoln square
+- **2010-08-17**: fixed a title. whoops
+- **2010-08-17**: added drafts dir and a draft
+- **2010-08-17**: added new post. generated
+- **2010-08-16**: Merge branch 'master' of git@github.com:harperreed/harperreed-blog
+- **2010-08-16**: regenerated new content
+- **2010-08-16**: regenerated site
+- **2010-08-16**: Merge branch 'master' of github.com:harperreed/harperreed-blog
+- **2010-08-16**: added drafts dir
+- **2010-08-16**: deleted new post
+- **2010-08-16**: fixed hte home
+- **2010-08-16**: ready to regenerate the entire site. ugh
+- **2010-08-16**: did a bunch of cleaning of content
+- **2010-08-16**: did a bunch of cleaning of content
+- **2010-08-16**: fixed a bunch of template problems
+- **2010-08-16**: fixed a bunch of template problems
+- **2010-08-16**: regenerated site - but this time with dates
+- **2010-08-16**: added dates to posts
+- **2010-08-14**: regenerated the site
+- **2010-08-14**: moved the new archives to the archives
+- **2010-08-14**: regenerated the site
+- **2010-08-14**: trimed down posts
+- **2010-08-14**: added archive2. let's see if it works
+- **2010-08-14**: readded all the earlier posts
+- **2010-08-14**: flipped lsi switch
+- **2010-08-14**: regenerated the site using posts from 2010. i just realized that this will not work ;)
+- **2010-08-14**: tweaked config.yaml to use lsi for new posts
+- **2010-08-14**: removed all the old posts to make building a lot easier and lighter
+- **2010-08-14**: removed insane whitespace from this archive page
+- **2010-08-14**: Merge branch 'master' of git@github.com:harperreed/harperreed-blog
+- **2010-08-14**: rendered the rest of the content
+- **2010-08-12**: compressed css
+- **2010-08-12**: changed rss feed url back to feedburner
+- **2010-08-12**: about to regenerate again
+- **2010-08-12**: added all the rest of the posts. this is going to take 80 years to regenerate
+- **2010-08-12**: changed _site.yaml
+- **2010-08-12**: pushed to live blog. regenerated
+- **2010-08-12**: added some shit, regenerated the site and fixed the 404. lets see if the post commit hook works
+- **2010-08-12**: tweaked _site.yaml for 404
+- **2010-08-12**: modified a bunch fo shit
+- **2010-08-12**: added 404.html
+- **2010-08-12**: tweaked _site.yaml
+- **2010-08-12**: regenerated site
+- **2010-08-11**: trying out the _site.yaml
+- **2010-08-11**: added test post
+- **2010-08-11**: various tweaks. on my way to pushing this live. some parts of jekyll are super annoying. some parts are super awesome
+- **2010-07-12**: added posts
+- **2010-07-12**: generated a great blog
+- **2010-07-12**: a new generation
+- **2010-07-12**: a bunch of changes and a newly generated site
+- **2010-07-12**: added a cleanhtml script and cleaned up the html of a bunch of offending posts
+- **2010-07-12**: added a cleanhtml script and cleaned up the html of a bunch of offending posts
+- **2010-07-12**: separated the good from the bad
+- **2010-07-12**: removed dos newline
+- **2010-07-12**: about to generate the site
+- **2010-07-12**: updated posts. killed site
+- **2010-07-12**: Merge branch 'master' of github.com:harperreed/harperreed-blog
+- **2010-07-12**: added tags to the wordpress exporter
+- **2010-07-07**: added wordpress sql
+- **2010-07-07**: posts added.
+- **2010-07-05**: added post_errors.txt
+- **2010-07-05**: generated entire site
+- **2010-07-05**: almost there. archives done, comments working, need tags/categories and then i will be done
+- **2010-07-05**: fixed posts.html
+- **2010-07-05**: done for the night
+- **2010-07-05**: done for the night
+- **2010-07-04**: changed from markyuasdlkj to rdiscount
+- **2010-07-04**: generated site.
+- **2010-07-04**: fixed and reimported my blog
+- **2010-07-04**: first commit
