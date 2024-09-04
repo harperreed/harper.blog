@@ -10,10 +10,12 @@ menu:
   main:
     name: About
     weight: 2
-
+  footer:
+    name: About
+    weight: 2
 ---
 
-My name is [Harper Reed](mailto:harper@modest.com). This is my blog. I average about 0.6 posts a year. I have been blogging for around 23 years (wtaf). You can check out [my old blog here](/past-archives).
+My name is [Harper Reed](mailto:harper@modest.com). This is my blog. I have been blogging for around 24 years (wtaf). This is approximately {{< postcount 2000 "now" >}}. You can check out [all my posts here](/posts).
 
 I am a *computer operator* who likes to make things, have fun, and hang out on the internet. Also pranks.
 

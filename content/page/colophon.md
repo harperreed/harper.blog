@@ -66,6 +66,7 @@ This site is maintained by Harper Reed. For inquiries, please contact harper@mod
 
 Last updated: September 2024
 
+
 ## Change log
 
 Here is the git commit log for this iteration:
