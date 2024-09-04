@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Archives
 lastmod: '2017-12-04'
 url: /posts
 nofeed: true
@@ -11,7 +11,7 @@ menu:
 
 ---
 
-All my blog posts since i started blogging on March 1st, 2000.
+I started blogging on March 1st, 2000. Since then I have had many different eras of blogging. Some with lots of blog posts, others with very few.
 
 Eras of my blog:
 - **2023 - Now** - Experimental life phase 3 (*{{< postcount 2023 "now" >}}*)
@@ -27,7 +27,6 @@ Eras of my blog:
 
 Total posts since 2000: **{{< postcount 2000 "now" >}}**
 
-
-# Archives
+# All Posts
 
 ---
