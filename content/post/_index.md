@@ -1,11 +1,17 @@
 ---
-title: All Posts
+title: Past Archives
 lastmod: '2017-12-04'
-url: /posts
+type: archive
+url: /past-archives/
 nofeed: true
-description: All posts from harper.blog
-
 
 ---
 
-All my posts of the modern era. If you want to see older posts, please check out the expansive [past archives](/past-archives).
+
+# My old blog: nata2.org
+
+From 2000 to 2015 I blogged regularly at [nata2.org](https://web.archive.org/web/*/nata2.org). I wrote around *1416* posts and covered anything from technology to my (early 2000s) dating life. It was a lot of fun and was a great outlet. Around the launch of Twitter (~2006/2007), I stopped doing updating the site regularly.
+
+This collection of posts is an unedited archive of all my *nata2.org* posts.
+
+## **Here be dragons**.
