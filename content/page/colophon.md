@@ -12,8 +12,6 @@ menu:
 
 ---
 
-# Colophon
-
 This website, [harper.blog](https://harper.blog), is the personal blog of Harper Reed. It is built using modern web technologies and static site generation techniques.
 
 ## Technology Stack
@@ -67,6 +65,13 @@ This website, [harper.blog](https://harper.blog), is the personal blog of Harper
 This site is maintained by Harper Reed. For inquiries, please contact harper@modest.com.
 
 Last updated: September 2024
+
+
+## Change log
+
+Here is the git commit log for this iteration:
+
+{{< readfile file="gitlog.md" markdown="true" >}}
 
 ---
 
