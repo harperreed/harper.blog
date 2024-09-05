@@ -1,0 +1,14 @@
+{{ $publishDate := .PublishDate }}
+{{ $duration := now.Sub $publishDate }}
+{{ $monthsDiff := div $duration.Hours 730 }}
+{{ $yearsDiff := div $duration.Hours 8760 }}
+
+{{ if lt $monthsDiff 6 }}
+  in the last few months
+{{ else if lt $yearsDiff 1 }}
+  in the last year
+{{ else if eq $yearsDiff 1 }}
+  1 year ago
+{{ else }}
+  {{ math.Floor $yearsDiff }} years ago
+{{ end }}
