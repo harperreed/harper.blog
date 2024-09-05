@@ -1,3 +1,19 @@
+- **2024-09-04**: 📜 Update "Now" Content and Layout Enhancements 🚀
+- **2024-09-04**: Merge branch 'main' of github.com:harperreed/harper.blog
+- **2024-09-04**: ✨🎉 New Now Page for September 4, 2024! 🚀📅
+- **2024-09-04**: Update README.md
+- **2024-09-04**: Update _index.md
+- **2024-09-04**: Add new single post layout template! 🎉📰
+- **2024-09-04**: Merge pull request #30 from harperreed/the-merge
+- **2024-09-04**: Merge branch 'main' into the-merge
+- **2024-09-04**: 🚀 Add colophon and git log features; refine Makefile 🎉
+- **2024-09-04**: Enhance footer menu and add colophon page 🎉📄
+- **2024-09-04**: Rename Posts to Archives and Update Description 🎉📝
+- **2024-09-04**: 📚 Update About and Post Index Pages to Enhance Readability! 🚀
+- **2024-09-04**: Update about.md with new blogging stats 📈🎉 - Changed the blogging duration from 23 to 24 years (time flies, right? 🕰️) - Updated the link to "all my posts" instead of "my old blog" to keep it fresh and relevant 🆕🔗
+- **2024-09-04**: 🎉 About and Archives Overhaul: Say Goodbye to Past-Archives! 🚀
+- **2024-09-04**: Update out_of_date notice layout and delete unused JavaScript file 🎉🗑️
+- **2024-09-04**: 🔄 Archive Reorganization: Bye Bye Old Index! 👋 - Deleted **content/archives/_index.md** as it was redundant. - Renamed and revamped **content/posts/_index.md** to become the new "Past Archives". - Adjusted title, type, and URL to reflect the historical context. - Provided a detailed introductory blurb on the old blog, nata2.org, capturing the vibrant history from 2000 to 2015 and giving context to the archived content.
 - **2024-09-04**: Added out-of-date warning for archived posts and a new partial template 🕰️⚠️
 - **2024-08-23**: Merge pull request #29 from harperreed/dynamic-social
 - **2024-08-23**: Summary of changes - 🌟 Added new file: `assets/images/social_card_fg_harper.png` - 🔀 Updated dynamic social card logic in `layouts/partials/social_card.html`   - 🔄 Changed background image reference from `social_card_bg_harper.png` to `social_card_bg.png`   - 🖋️ Updated author byline format to include both author and date (e.g., "Author Name | 2023-10-10")   - 🎨 Modified byline text color from `#898a8d` to `#ffffff`
