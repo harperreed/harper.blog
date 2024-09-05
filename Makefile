@@ -17,3 +17,8 @@ preview:
 # Build the site with production settings and optimizations
 prod_build:
 	hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic
+
+gitlog:
+	git log --pretty=format:'- **%ad**: %s' --date=short >gitlog.md
+	sed -i '' '/Updated gitlog/d' "gitlog.md"
+	git commit -m "Updated gitlog" gitlog.md

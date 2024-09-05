@@ -1,0 +1,15 @@
+{{ $age := div (sub now.Unix .Date.Unix) 86400 }}
+{{ if gt $age 1460 }}
+
+{{ $postDate := .Date }}
+{{ $authorBirthDate := time "1978-03-21" }}
+{{ $ageAtPostTime := div (sub $postDate.Unix $authorBirthDate.Unix) 31536000 }}
+{{ $yearsAgo := math.Round (div (sub now.Unix $postDate.Unix) 31536000) }}
+<div class="outofdate-warning" style="margin-top: 10px; border: 1px dashed #8B8000; font-size: 1rem; background: #FFF8DC; padding-left: 10px; padding-right: 10px;">
+    <p><b>Please note:</b> This post was written some time ago ({{ $yearsAgo }} years ago).
+    {{ if lt $ageAtPostTime 25 }}
+        I was only {{ $ageAtPostTime }} years old when this post was written.
+    {{ end }}
+    My perspectives, knowledge, and opinions may have evolved significantly since then. While the content might still offer valuable insights, I encourage readers to consider it in the context of its publication date.</p>
+</div>
+{{ end }}

@@ -5,6 +5,7 @@ ga_id = "UA-70650-74"
 subtitle = "Musing from a normal person doing normal things"
 cachebuster = "harper rules"
 name = "Harper Reed"
+
 email = "harper@modest.com"
 # avatar = "https://s.gravatar.com/avatar/b7a96b3d5b5cfed5228396104cd67b38?s=600&r=g"
 googleAnalytics = "UA-70650-74"
@@ -23,6 +24,9 @@ generateSocialCard = true
 mainSections = [ "post" ]
 # images = ['https://harper.blog/images/og.png']
 
+[author]
+name = "Harper Reed"
+email = "harper@modest.com" # Added to the footer so readers can reply to post
 
 # [[social]]
 # name = "harper.photos"
