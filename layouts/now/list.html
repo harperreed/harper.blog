@@ -1,5 +1,5 @@
 {{ define "main" }} {{ .Content }} {{ range first 1 .Data.Pages }}
-<div class="post">{{.Content}}</div>
+<div class="post markdown">{{.Content}}</div>
 <i>updated {{.Date.Format "Jan 2, 2006"}}</i>
 {{end}}
 <hr />

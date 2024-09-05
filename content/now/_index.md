@@ -1,5 +1,5 @@
 ---
-title: Now
+title: now
 lastmod: '2017-12-04'
 
 url: /now
@@ -13,5 +13,3 @@ menu:
 Inspired by [@NowNowNow.](https://nownownow.com/) A simple way to see whats happening now.
 
 ## Now
-
-Lot's happening right now. Here is a select bit:
