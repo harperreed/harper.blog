@@ -1,5 +1,5 @@
 ---
-title: Now
+title: now
 lastmod: '2017-12-04'
 
 url: /now
