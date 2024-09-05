@@ -1,6 +1,17 @@
 ---
-date: 2007-02-16T10:52:13Z
-tags: ["technology","technology","money","adsense","tips","performance","ad-revenue","eaccelerator"]
+date: 2007-02-16 10:52:13+00:00
+summary: if you want to boost your adsense earnings, make your website faster. i saw
+  a huge increase in clicks and revenue after speeding things up - it's a game changer!
+tags:
+- performance
+- eaccelerator
+- ad-revenue
+- tips
+- money
+- ad revenue
+- technology
+- adsense
+- website speed
 title: Adsense results and website performance
 wordpress_id: 1410
 wordpress_url: http://www.nata2.org/2007/02/16/adsense-results-and-website-performance/

@@ -1,6 +1,27 @@
 ---
-date: 2007-02-14T13:50:00Z
-tags: ["general","dylan","chicago","hiromi","mosso","skinnycorp","cta","servers","moving","logan-square","lincoln-square","buses","valentines-day"]
+date: 2007-02-14 13:50:00+00:00
+summary: "hey folks, it's been a minute since i last blogged! i've been super busy\
+  \ since getting back from japan, moving to a new place with hiromi, and tackling\
+  \ a bunch of work stuff. but things are cooling down now and i\u2019m settling into\
+  \ our cozy apartment in lincoln square. my commute is way shorter too, which is\
+  \ great. also, tech updates: i'm switching hosting plans and it\u2019s a bit of\
+  \ a project. all in all, feeling good and excited for spring!"
+tags:
+- cta
+- general
+- moving
+- skinnycorp
+- hosting
+- logan-square
+- lincoln-square
+- valentines day
+- mosso
+- hiromi
+- chicago
+- buses
+- servers
+- dylan
+- valentines-day
 title: A lot of stuff in the last month.
 wordpress_id: 1408
 wordpress_url: http://www.nata2.org/2007/02/14/a-lot-of-stuff-in-the-last-month/

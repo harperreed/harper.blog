@@ -1,6 +1,22 @@
 ---
-date: 2006-02-22T00:56:13Z
-tags: ["general","hiromi","ramble","add","tv","apartment","roommate"]
+date: 2006-02-22 00:56:13+00:00
+summary: the author discusses their struggles with sleep deprivation and ADD while
+  juggling multiple projects. they express feelings of loneliness in an empty house
+  and excitement for an upcoming trip to japan. there's also a mention of programming
+  and experimenting with LEDs.
+tags:
+- sleep deprivation
+- add
+- loneliness
+- ramble
+- roommate
+- general
+- tv
+- programming
+- ADD
+- hiromi
+- projects
+- apartment
 title: DANG. Bittorrents are destroying my bandwidth.
 wordpress_id: 1216
 wordpress_url: http://www.nata2.org/2006/02/22/dang-bittorrents-are-destroying-my-bandwidth/

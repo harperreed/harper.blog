@@ -1,6 +1,18 @@
 ---
-date: 2006-11-15T01:43:34Z
-tags: ["general","blogs","hosting","watershiporg"]
+date: 2006-11-15 01:43:34+00:00
+summary: the author shares their experience hosting blogs for friends, starting from
+  greymatter to wordpress MU. it's a great way to stay in touch with friends, especially
+  those who travel. they invite readers to get a blog at watership and check out a
+  page showcasing friends' blogs.
+tags:
+- hosting
+- general
+- blogging
+- blogs
+- online community
+- friends
+- watershiporg
+- wordpress MU
 title: Watership.org blogs
 wordpress_id: 1384
 wordpress_url: http://www.nata2.org/2006/11/15/watershiporg-blogs/

@@ -1,6 +1,20 @@
 ---
-date: 2007-08-11T20:07:00Z
-tags: ["general","internet","annoying","outage","cable-internet","comcast","comcast-sucks"]
+date: 2007-08-11 20:07:00+00:00
+summary: my comcast internet has been out a bunch, and it's driving me nuts. they
+  keep sending technicians even when they admit it's their wiring. if rcn was available,
+  i'd switch in a heartbeat. i'm so done with comcast!
+tags:
+- internet issues
+- cable internet
+- internet
+- comcast
+- comcast-sucks
+- general
+- comcast sucks
+- outage
+- frustration
+- annoying
+- cable-internet
 title: I really hate Comcast
 wordpress_id: 1471
 wordpress_url: http://www.nata2.org/2007/08/11/i-really-hate-comcast/

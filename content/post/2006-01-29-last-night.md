@@ -1,6 +1,18 @@
 ---
-date: 2006-01-29T16:12:19Z
-tags: ["general","reading","vinge","simmons","fantasy"]
+date: 2006-01-29 16:12:19+00:00
+summary: "woke up late and ended up finishing the last book of the Hyperion series.\
+  \ got sucked into the story and lost track of time. now i\u2019m scrambling to catch\
+  \ up on work before diving back into more reading."
+tags:
+- vinge
+- Hyperion
+- book review
+- sleeping in
+- general
+- science fiction
+- reading
+- simmons
+- fantasy
 title: 'last night. '
 wordpress_id: 1202
 wordpress_url: http://www.nata2.org/2006/01/29/last-night/

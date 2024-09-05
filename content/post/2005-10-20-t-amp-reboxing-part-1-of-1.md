@@ -1,6 +1,19 @@
 ---
-date: 2005-10-20T07:08:42Z
-tags: ["general","skinnycorp","audio","t-amp","bugs"]
+date: 2005-10-20 07:08:42+00:00
+summary: "tonight was all about working on my t-amp project while waiting for the\
+  \ graffiti artist. got the parts, followed some helpful guides, and took a few pics\
+  \ of the process. can\u2019t wait to finish it up and hopefully have matching audio\
+  \ setups soon. also, dealing with weddings this month, which is both exciting and\
+  \ mildly annoying. w00t!"
+tags:
+- t-amp
+- general
+- bugs
+- skinnycorp
+- audio
+- projects
+- DIY
+- weddings
 title: t-amp reboxing part 1 of 1
 wordpress_id: 1141
 wordpress_url: http://www.nata2.org/2005/10/20/t-amp-reboxing-part-1-of-1/

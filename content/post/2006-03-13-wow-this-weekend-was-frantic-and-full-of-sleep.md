@@ -1,6 +1,20 @@
 ---
-date: 2006-03-13T01:41:11Z
-tags: ["general","work","crazy","steam","verbos"]
+date: 2006-03-13 01:41:11+00:00
+summary: this weekend was chill. hit up smart bar with kira to catch mark verbos'
+  live P.A. set, which was super cool. the new venue has crazy lighting and an incredible
+  sound system. saturday was a bit rough with internet and phone issues at work, but
+  got it sorted. caught up with hiromi and then crashed.
+tags:
+- work
+- night out
+- steam
+- general
+- live music
+- weekend recap
+- tech troubles
+- smart bar
+- crazy
+- verbos
 title: Wow. this weekend was frantic and full of sleep.
 wordpress_id: 1231
 wordpress_url: http://www.nata2.org/2006/03/13/wow-this-weekend-was-frantic-and-full-of-sleep/

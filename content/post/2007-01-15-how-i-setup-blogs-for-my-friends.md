@@ -1,6 +1,16 @@
 ---
-date: 2007-01-15T16:23:44Z
-tags: ["technology","technology"]
+date: 2007-01-15 16:23:44+00:00
+summary: this post is all about how to help friends start their own blogs using wordpress.
+  it covers everything from picking a domain to setting up hosting, installing wordpress,
+  and important plugins. the author shares tips and tricks for making the process
+  smooth and fun!
+tags:
+- blogging
+- technology
+- how to
+- plugins
+- wordpress
+- blog setup
 title: How I setup blogs for my friends
 wordpress_id: 1405
 wordpress_url: http://www.nata2.org/2007/01/15/how-i-setup-blogs-for-my-friends/

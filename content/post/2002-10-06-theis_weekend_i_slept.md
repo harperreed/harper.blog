@@ -1,11 +1,25 @@
 ---
-date: 2002-10-06T21:32:07Z
-excerpt: "i made a couple new webpages.. I hung out with some friends.. that is all\r\nactually
-  what I did do is a lot cooler than what I could have done. I was supposed to go
-  dancing.. instead I slept.. that ruled.. I did go out friday night but just to go
-  and hang with a friend.. not \"we be clubbin\" style.. \r\ni did make the chicago
-  reader early warning list look better.. check it out "
-tags: ["php","chicago","hacking","war","fear"]
+date: 2002-10-06 21:32:07+00:00
+excerpt: "i made a couple new webpages.. I hung out with some friends.. that is all\r\
+  \nactually what I did do is a lot cooler than what I could have done. I was supposed\
+  \ to go dancing.. instead I slept.. that ruled.. I did go out friday night but just\
+  \ to go and hang with a friend.. not \"we be clubbin\" style.. \r\ni did make the\
+  \ chicago reader early warning list look better.. check it out "
+summary: i made a couple new webpages, hung out with friends, and opted for sleep
+  over dancing. made the chicago reader early warning list look better, and i'm gonna
+  try to turn a500hacking into a subscription site, which is proving a bit tricky.
+  also, check out this cool link!
+tags:
+- fear
+- war
+- chicago
+- hacking
+- web development
+- php
+- subscription site
+- friend hangout
+- dancing
+- sleeping
 title: theis weekend i slept
 wordpress_id: 371
 wordpress_url: http://new.nata2.org/?p=371

@@ -1,8 +1,20 @@
 ---
-date: 2004-01-02T00:45:17Z
+date: 2004-01-02 00:45:17+00:00
 excerpt: 'here are some pictures of the haps from last night. it was fun. First I
   went and had a great dinner with some friends. and then '
-tags: ["juggle","php","matiss","irc"]
+summary: check out some pics from last night's new year's fun! had dinner with friends,
+  juggled at rhythm, then partied at watusi and greg's place. great times with good
+  music!
+tags:
+- juggle
+- juggling
+- new year's celebration
+- matiss
+- drum circle
+- php
+- irc
+- friends
+- party
 title: happy new years!!
 wordpress_id: 710
 wordpress_url: http://new.nata2.org/?p=710

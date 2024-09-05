@@ -1,6 +1,20 @@
 ---
-date: 2007-03-17T19:19:35Z
-tags: ["general","hacking","perl","irc","plugin","twitter","make","blogging","source-code"]
+date: 2007-03-17 19:19:35+00:00
+summary: the author created a twitter IRC bot to get updates from friends in their
+  IRC channel. the bot allows people to send twitter updates, making it easier to
+  stay connected. the source code is available online, and there's a plan to include
+  a supybot plugin to reduce clutter.
+tags:
+- twitter
+- make
+- general
+- blogging
+- bot
+- irc
+- hacking
+- plugin
+- perl
+- source-code
 title: 'My newest twitter hack: Twitter IRC bot'
 wordpress_id: 1419
 wordpress_url: http://www.nata2.org/2007/03/17/my-newest-twitter-hack-twitter-irc-bot/

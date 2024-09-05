@@ -1,6 +1,20 @@
 ---
-date: 2008-10-06T00:54:53Z
-tags: ["general","internet","javascript","api","web-20"]
+date: 2008-10-06 00:54:53+00:00
+summary: this post dives into the world of unofficial APIs and mashups, sharing insights
+  from a recent conversation about hidden APIs like the one behind the CTA Bustracker.
+  it encourages developers to document and share their internal APIs to let others
+  create cool stuff.
+tags:
+- web-20
+- mashups
+- javascript
+- internet
+- APIs
+- web development
+- general
+- Chicago
+- api
+- CTA BusTracker
 title: Release your applications inner API. Please.
 wordpress_id: 1567
 wordpress_url: http://www.nata2.org/?p=1567

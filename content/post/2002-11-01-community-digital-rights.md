@@ -1,6 +1,22 @@
 ---
-date: 2002-11-01T12:11:20Z
-tags: ["general","community","awesome","drm","digital","rights"]
+date: 2002-11-01 12:11:20+00:00
+summary: i wanted to create a site for uploading media without copyright issues, so
+  i thought of a community-controlled DRM system. anyone can upload anything, and
+  the community can manage it. it's open to abuse, but also allows for freedom. i
+  have moderators to help keep things legit, and some measures to protect the media
+  from misuse. still figuring out if this will actually work, so feedback is welcome!
+tags:
+- awesome
+- digital rights management
+- media upload
+- copyright issues
+- community moderation
+- community
+- drm
+- general
+- rights
+- social experiment
+- digital
 title: Community &amp; Digital Rights
 wordpress_id: 1164
 wordpress_url: http://www.nata2.org/2002/11/01/community-digital-rights/

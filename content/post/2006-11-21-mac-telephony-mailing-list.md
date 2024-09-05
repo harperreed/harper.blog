@@ -1,6 +1,18 @@
 ---
-date: 2006-11-21T18:28:33Z
-tags: ["technology","osx","apple","mac","asterisk","voip"]
+date: 2006-11-21 18:28:33+00:00
+summary: there's a new mailing list for the osx/mac voip community! check out the
+  macintosh telephony mailing list for cool discussions on voip topics beyond just
+  asterisk, including turning a mac mini into a full-featured pbx.
+tags:
+- osx
+- mac mini
+- mac
+- pbx
+- apple
+- technology
+- asterisk
+- mailing list
+- voip
 title: Mac telephony mailing list
 wordpress_id: 1387
 wordpress_url: http://www.nata2.org/2006/11/21/mac-telephony-mailing-list/

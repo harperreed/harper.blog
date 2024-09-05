@@ -1,12 +1,22 @@
 ---
-date: 2003-12-29T02:15:52Z
+date: 2003-12-29 02:15:52+00:00
 excerpt: 'all I do is sit here and play stupid video games. hahaha. umm. back to work
   tomarrow. so sad so sad. but I guess I knew this day would come. ;). well I guess
   I have to wait until the first to see what the deal is. '
-tags: ["video","games","gamecube"]
+summary: just sitting around playing video games, but back to work tomorrow. kind
+  of bummed about it, but it was bound to happen. gotta wait until the first to see
+  what's next.
+tags:
+- return to work
+- gamecube
+- video games
+- games
+- nostalgia
+- video
+- wind waker
 title: eeeek .. i hate video games. seriously.
 wordpress_id: 706
 wordpress_url: http://new.nata2.org/?p=706
 ---
 
-all I do is sit here and <a href="http://db.gamefaqs.com/console/gamecube/file/zelda_wind_waker_b.txt">play stupid video games</a>. hahaha. umm. back to work tomarrow. so sad so sad. but I guess I knew this day would come. ;). well I guess I have to wait until the first to see what the deal is. 
+all I do is sit here and <a href="http://db.gamefaqs.com/console/gamecube/file/zelda_wind_waker_b.txt">play stupid video games</a>. hahaha. umm. back to work tomarrow. so sad so sad. but I guess I knew this day would come. ;). well I guess I have to wait until the first to see what the deal is.

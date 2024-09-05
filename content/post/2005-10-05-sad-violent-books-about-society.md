@@ -1,6 +1,25 @@
 ---
-date: 2005-10-05T03:06:52Z
-tags: ["general","books","literature","stereo","hifi","diy","audio","sadness","society","violent"]
+date: 2005-10-05 03:06:52+00:00
+summary: talked about two intense books i read - 'a personal matter' by kenzoburo
+  oe and 'blueschild baby' by george cain. both had some heavy themes. then went on
+  about my plans for building fancy amps and needing info on preamps and chassis.
+  also mentioned playing the socom beta for the psp. time to sleep!
+tags:
+- stereo
+- general
+- diy
+- literature
+- sadness
+- violent
+- gaming
+- amplifiers
+- DIY
+- audio
+- book review
+- reading
+- books
+- society
+- hifi
 title: Sad violent books about society
 wordpress_id: 1134
 wordpress_url: http://www.nata2.org/2005/10/05/sad-violent-books-about-society/
@@ -18,4 +37,4 @@ i played the socom beta today for the psp. it was good.
 
 talking with my friend lakshmi - i am reminded that i should be reading more about software development and design patterns than about hifi equipment. hah. 
 
-i am now going to sleep. dreaming of hacking things and playing computers. 
+i am now going to sleep. dreaming of hacking things and playing computers.

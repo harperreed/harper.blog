@@ -1,6 +1,19 @@
 ---
-date: 2007-08-31T21:19:31Z
-tags: ["general","colorado","marriage","fun","hiromi","travel","parties"]
+date: 2007-08-31 21:19:31+00:00
+summary: hiromi and i had an awesome weekend in colorado to celebrate our marriage
+  with friends and family. we picked up guests from the airport, explored the mountains,
+  and threw a fun party. it was all about good food, drinks, and hanging out together.
+  big thanks to our families for making it happen!
+tags:
+- parties
+- marriage
+- travel
+- celebration
+- colorado
+- general
+- fun
+- hiromi
+- family
 title: Our unofficial official wedding party
 wordpress_id: 1474
 wordpress_url: http://www.nata2.org/2007/08/31/our-unofficial-official-wedding-party/

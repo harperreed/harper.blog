@@ -1,6 +1,25 @@
 ---
-date: 2008-01-22T17:08:41Z
-tags: ["technology","rackspace","rails","37signals","web20","tumblr","infrastructure","network","downtime"]
+date: 2008-01-22 17:08:41+00:00
+summary: this post talks about how companies, like tumblr and 37signals, are quick
+  to blame Rackspace for their downtime instead of owning the failures themselves.
+  it argues that customers don't care about the vendor issues but want to hear about
+  solutions. the author reflects on the frustration of scapegoating and the importance
+  of maintaining trust with clients during outages.
+tags:
+- rackspace
+- tumblr
+- 37signals
+- customer communication
+- downtime
+- web20
+- failure management
+- technology
+- network
+- infrastructure
+- rails
+- site downtime
+- hosting providers
+- vendor blame
 title: 'Putting the blame on your vendors for the win. '
 wordpress_id: 1505
 wordpress_url: http://www.nata2.org/?p=1505

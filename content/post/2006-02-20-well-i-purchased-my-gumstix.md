@@ -1,6 +1,17 @@
 ---
-date: 2006-02-20T23:35:25Z
-tags: ["general","technology","technology","hacking"]
+date: 2006-02-20 23:35:25+00:00
+summary: planning to integrate cool tech with Bluetooth and WiFi to alert me with
+  LEDs, dealing with some painful growth in my nose, and gearing up to blog more about
+  work. time for a nap!
+tags:
+- LEDs
+- general
+- blogging
+- technology
+- tech
+- health
+- hacking
+- personal growth
 title: 'Well i purchased my gumstix. '
 wordpress_id: 1213
 wordpress_url: http://www.nata2.org/2006/02/20/well-i-purchased-my-gumstix/

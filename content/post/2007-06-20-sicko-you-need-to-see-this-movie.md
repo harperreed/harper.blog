@@ -1,6 +1,18 @@
 ---
-date: 2007-06-20T00:20:21Z
-tags: ["general","movies","sad","health-care","michael-moore","sicko"]
+date: 2007-06-20 00:20:21+00:00
+summary: watched michael moore's 'sicko' and it was both sad and funny. learned cuba
+  has great medicine and thought about moving there if i get sick. you should download
+  it or catch it in theaters with me for some angry fun.
+tags:
+- sicko
+- michael-moore
+- health-care
+- movies
+- health care
+- general
+- michael moore
+- sad
+- cuba
 title: Sicko. You need to see this movie.
 wordpress_id: 1459
 wordpress_url: http://www.nata2.org/2007/06/20/sicko-you-need-to-see-this-movie/

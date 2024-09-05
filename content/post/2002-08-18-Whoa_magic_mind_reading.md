@@ -1,9 +1,21 @@
 ---
-date: 2002-08-18T01:50:35Z
-excerpt: "Apparently it has become insane outside. nasa is planning on reading people
-  minds.. what.. wtf.. what.. no sense.. \n\nA senetor is questioning the lack of
-  enron indictments..  no.. I h..."
-tags: ["insane","chris","bush","iraq"]
+date: 2002-08-18 01:50:35+00:00
+excerpt: "Apparently it has become insane outside. nasa is planning on reading people\
+  \ minds.. what.. wtf.. what.. no sense.. \n\nA senetor is questioning the lack of\
+  \ enron indictments..  no.. I h..."
+summary: the world is going nuts with nasa's mind-reading plans and a senator's enron
+  questions. also, iraq and russia are cooking up something which could lead to ww3.
+  if that happens, at least we might get the scoop from the press! but hey, no apocalypse
+  worries for me, just the fear of eternal night.
+tags:
+- iraq
+- chris
+- senator
+- insane
+- apocalypse
+- mind reading
+- enron
+- bush
 title: Whoa magic mind reading
 wordpress_id: 344
 wordpress_url: http://new.nata2.org/?p=344

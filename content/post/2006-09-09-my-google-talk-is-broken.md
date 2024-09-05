@@ -1,6 +1,22 @@
 ---
-date: 2006-09-09T16:32:35Z
-tags: ["general","google","sad","gmail","google-talk","bugs","gtalk","failure"]
+date: 2006-09-09 16:32:35+00:00
+summary: "my google talk is broken for my personal gmail account, and it's super annoying.\
+  \ it won't log in while i'm in gmail or using their gtalk client, but it works fine\
+  \ with other accounts. it's frustrating since more people are using google talk,\
+  \ and i was just starting to reach out to my friends. totally weird that it\u2019\
+  s account-based trouble, not service-based like when my gmail was down."
+tags:
+- general
+- bugs
+- account issues
+- tech problems
+- gtalk
+- google talk
+- google-talk
+- sad
+- failure
+- google
+- gmail
 title: My Google Talk is broken.
 wordpress_id: 1336
 wordpress_url: http://www.nata2.org/2006/09/09/my-google-talk-is-broken/

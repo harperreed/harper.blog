@@ -1,6 +1,16 @@
 ---
-date: 2006-12-12T02:51:41Z
-tags: ["technology","technology"]
+date: 2006-12-12 02:51:41+00:00
+summary: this post dives into a cool hack to connect your twitter updates to an IRC
+  channel using aim. it walks through securing a new aim screen name, registering
+  it with twitter, and running a simple perl script to get everything set up. easy
+  peasy!
+tags:
+- twitter
+- aim
+- perl script
+- technology
+- irc
+- hack
 title: How to hook twitter into a IRC channel
 wordpress_id: 1395
 wordpress_url: http://www.nata2.org/2006/12/12/how-to-hook-twitter-into-a-irc-channel/

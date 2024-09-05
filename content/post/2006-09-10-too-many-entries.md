@@ -1,6 +1,16 @@
 ---
-date: 2006-09-10T14:00:57Z
-tags: ["general","update","entries"]
+date: 2006-09-10 14:00:57+00:00
+summary: the blog is in need of an update, with a few entries in the queue. planning
+  to tackle them today along with laundry, cleaning, and work.
+tags:
+- general
+- entries
+- to-do list
+- blog update
+- life admin
+- update
+- productivity
+- laundry
 title: 'too many entries... '
 wordpress_id: 1339
 wordpress_url: http://www.nata2.org/2006/09/10/too-many-entries/

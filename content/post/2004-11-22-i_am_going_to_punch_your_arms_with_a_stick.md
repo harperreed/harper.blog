@@ -1,9 +1,20 @@
 ---
-date: 2004-11-22T17:54:42Z
-excerpt: "this weekend was pretty fun. I hung out with the fam. yea know the drill.
-  I apparently let my parents car out of the closet. stupid cars. hiding ALL THE TIME.
-  here be pictures. \nhere are other pictures of a diffe..."
-tags: ["sites","cars","ipod"]
+date: 2004-11-22 17:54:42+00:00
+excerpt: "this weekend was pretty fun. I hung out with the fam. yea know the drill.\
+  \ I apparently let my parents car out of the closet. stupid cars. hiding ALL THE\
+  \ TIME. here be pictures. \nhere are other pictures of a diffe..."
+summary: "this weekend was all about family time and car shenanigans. posted some\
+  \ pics from this weekend and another from last week. also waiting on my free ipod\
+  \ and flatscreen\u2014what a hassle!"
+tags:
+- pictures
+- cars
+- ipod
+- car issues
+- sites
+- free stuff
+- weekend fun
+- family
 title: i am going to punch your arms with a stick
 wordpress_id: 964
 wordpress_url: http://new.nata2.org/?p=964

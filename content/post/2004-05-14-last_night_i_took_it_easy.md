@@ -1,11 +1,27 @@
 ---
-date: 2004-05-14T06:42:04Z
+date: 2004-05-14 06:42:04+00:00
 excerpt: so last night vinay and myself hung around bangalore and went to different
   catholic churches. I met his wife and his mother and we just chilled out. it was
   nice and relaxing. I was in bed by 10 and asleep by 10:15. hah. the churches were
   pretty cool. they are all very majestic and quite something. it was as I expected
   - a mix of indian and western stylings. vinay's favorite was the best ...
-tags: ["domains","war","bush","fashion","games","india","clubbing"]
+summary: hung out in bangalore with vinay, visited some impressive catholic churches,
+  and met his fam. relaxing vibes and a decent sleep after. work today had games which
+  was chill. thinking about going clubbing tonight, then more temple visits and shopping
+  tomorrow. cool stuff all around.
+tags:
+- clubbing
+- war
+- india
+- fashion
+- games
+- Vinay
+- domains
+- Bangalore
+- Clubbing
+- Shopping
+- Catholic Churches
+- bush
 title: last night i took it easy
 wordpress_id: 860
 wordpress_url: http://new.nata2.org/?p=860

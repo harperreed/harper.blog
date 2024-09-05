@@ -1,6 +1,16 @@
 ---
-date: 2006-04-05T00:48:36Z
-tags: ["general"]
+date: 2006-04-05 00:48:36+00:00
+summary: today was a long day with some work on extratasty.com and finishing up the
+  maxbar site. feeling a bit under the weather but excited about upcoming projects.
+  also got my invite to barbelith, which should be interesting. time to call a cab
+  and get some rest.
+tags:
+- general
+- maxbar
+- sleep
+- webdevelopment
+- extratasty
+- barbelith
 title: About done. sick. maxbar. barbelith.
 wordpress_id: 1237
 wordpress_url: http://www.nata2.org/2006/04/05/about-done-sick-maxbar-barbelith/

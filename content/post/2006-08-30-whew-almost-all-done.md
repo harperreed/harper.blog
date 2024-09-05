@@ -1,6 +1,19 @@
 ---
-date: 2006-08-30T09:35:05Z
-tags: ["general","marriage","hiromi","japan","tokyo"]
+date: 2006-08-30 09:35:05+00:00
+summary: hiromi and i got married on tuesday, and it was super fun and chill. today,
+  we tackled the visa stuff, which was total madness and stress, but we're almost
+  done. stay tuned for more updates and check out the pictures!
+tags:
+- visa process
+- stress
+- wedding
+- tokyo
+- marriage
+- japan
+- life updates
+- general
+- bureaucracy
+- hiromi
 title: 'whew.. almost all done.. '
 wordpress_id: 1329
 wordpress_url: http://www.nata2.org/2006/08/30/whew-almost-all-done/

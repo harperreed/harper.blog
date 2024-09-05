@@ -1,6 +1,24 @@
 ---
-date: 2006-10-23T01:08:00Z
-tags: ["technology","phones","mobile","nokia","awesome","e61","n70","n73","import"]
+date: 2006-10-23 01:08:00+00:00
+summary: sold my nokia e61 to a friend and got a nokia n73 instead. it's thinner,
+  lighter, and has a great camera with a mechanical shutter. super excited about the
+  higher resolution screen and podcasting apps, but not a fan of the new photo app.
+  overall, stoked to see how the pics turn out!
+tags:
+- nokia
+- camera phone
+- awesome
+- import
+- e61
+- mobile
+- n73
+- n70
+- Nokia N73
+- mobile phone review
+- Symbian
+- technology
+- tech upgrade
+- phones
 title: I got a new Nokia N73
 wordpress_id: 1375
 wordpress_url: http://www.nata2.org/2006/10/23/i-got-a-new-nokia-n73/

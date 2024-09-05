@@ -1,6 +1,22 @@
 ---
-date: 2007-05-27T12:07:43Z
-tags: ["technology","technology","linux","disruptive","compelling-technology","digital-divide","sugar","vmware","children","laptoporg","olpc"]
+date: 2007-05-27 12:07:43+00:00
+summary: check out my experience with the beta XO-1 laptop from OLPC, a super cool
+  project aimed at getting tech into the hands of kids in developing countries. this
+  laptop's got some nifty features, like an awesome screen that works in sunlight,
+  and it's powered by innovative free software. it's got everyone I showed it to excited
+  about the future of children's technology!
+tags:
+- vmware
+- compelling-technology
+- laptoporg
+- disruptive
+- technology
+- sugar
+- children
+- olpc
+- laptop.org
+- linux
+- digital-divide
 title: My thoughts on the OLPC.
 wordpress_id: 1447
 wordpress_url: http://www.nata2.org/2007/05/27/the-olpc-and-the-fascination-it-creates/

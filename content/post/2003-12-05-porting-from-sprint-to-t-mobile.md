@@ -1,6 +1,15 @@
 ---
-date: 2003-12-05T01:12:04Z
-tags: ["general"]
+date: 2003-12-05 01:12:04+00:00
+summary: i switched from sprint to t-mobile and loved the t610 phone. went with t-mobile
+  for their sweet unlimited data plan. had some hiccups during the porting process
+  but now i'm all set and ready to enjoy my new service.
+tags:
+- general
+- Phone Porting
+- GSM vs CDMA
+- T-Mobile
+- Sprint
+- Unlimited Data Plan
 title: Porting from sprint to t-mobile
 wordpress_id: 1167
 wordpress_url: http://www.nata2.org/2003/12/05/porting-from-sprint-to-t-mobile/

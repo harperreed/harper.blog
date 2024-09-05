@@ -1,6 +1,17 @@
 ---
-date: 2006-04-07T12:29:17Z
-tags: ["general","google","gmail","email"]
+date: 2006-04-07 12:29:17+00:00
+summary: got gmail back today and found a bunch of emails from yesterday. super annoying
+  that google didn't even respond to my issue. seriously, a little acknowledgment
+  would be nice. maybe it's time to check out yahoo... just kidding, i still like
+  gmail. more coming on using windows on a macbook pro!
+tags:
+- general
+- email issues
+- tech
+- google
+- gmail
+- frustration
+- email
 title: 'got gmail back. weird... '
 wordpress_id: 1239
 wordpress_url: http://www.nata2.org/2006/04/07/got-gmail-back-weird/

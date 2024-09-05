@@ -1,6 +1,17 @@
 ---
-date: 2005-05-20T01:06:38Z
-tags: ["general","books","awesome","peapod"]
+date: 2005-05-20 01:06:38+00:00
+summary: discovered peapod for grocery shopping to save money while getting back into
+  cooking. also, saw star wars and thought it was awesome. ready to rule the world
+  with a full belly!
+tags:
+- general
+- peapod
+- awesome
+- grocery shopping
+- saving money
+- star wars
+- cooking
+- books
 title: i have discovered the magic of fanciness.
 wordpress_id: 1066
 wordpress_url: http://www.nata2.org/2005/05/20/i-have-discovered-the-magic-of-fanciness/

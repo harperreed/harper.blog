@@ -1,11 +1,30 @@
 ---
-date: 2002-12-19T00:20:26Z
+date: 2002-12-19 00:20:26+00:00
 excerpt: i find myself in an airport terminal.. using my trusty cell phone as internet
   access. I was noticing today that I have magically switched my palm pilot for my
   laptop. weird. I mean the laptop isn't much bigger.. but still - I can't fit it
   in my pocket and I can't use it to navigate my palm..I am going to LA in an hour
   to see my brother graduate from comme...
-tags: ["juggle","phone","cell","internet","war","school","laptop","juggling","screensaver"]
+summary: "chilling in the airport with my phone, reflecting on how my palm pilot\u2019\
+  s been replaced by a laptop. heading to LA for my brother's commercial diving school\
+  \ graduation! brought my clubs for some juggling\u2014hope the weather holds up,\
+  \ even if I'm not totally ready for it. planning my next big project during the\
+  \ break and missing miriam already. oh, and i'm kinda famous now, check it out!"
+tags:
+- airport musings
+- phone
+- juggle
+- laptop
+- school
+- juggling
+- war
+- screensaver
+- cell
+- technology
+- travel
+- internet
+- graduation
+- family
 title: once again
 wordpress_id: 418
 wordpress_url: http://new.nata2.org/?p=418

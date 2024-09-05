@@ -1,6 +1,22 @@
 ---
-date: 2007-11-30T11:56:02Z
-tags: ["general","insane","google","iphone","verizon","att","deaf","accessibility"]
+date: 2007-11-30 11:56:02+00:00
+summary: the blog reflects on the challenges faced by deaf individuals using mobile
+  phones, particularly the iphone. it discusses a conversation with a deaf user, brendan,
+  about the potential of the iphone for the deaf community and the disappointment
+  with AT&T's lack of a voice-free plan.
+tags:
+- general
+- iPhone
+- technology
+- accessibility
+- insane
+- att
+- verizon
+- google
+- AT&T
+- deaf
+- iphone
+- deaf community
 title: AT&T is screwing the Deaf Community
 wordpress_id: 1494
 wordpress_url: http://www.nata2.org/2007/11/30/att-is-screwing-the-deaf-community/

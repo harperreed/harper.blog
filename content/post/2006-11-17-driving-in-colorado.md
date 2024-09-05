@@ -1,6 +1,20 @@
 ---
-date: 2006-11-17T02:03:16Z
-tags: ["general","annoying","airports","driving","gps"]
+date: 2006-11-17 02:03:16+00:00
+summary: dylan is driving me and sarah to my grandpa's house, and i'm just thinking
+  about how annoying flying is. security checkpoints are a hassle, and it sucks that
+  we can't bring our toiletries on board. also, this mini computer is hard to type
+  on!
+tags:
+- security
+- gps
+- travel
+- general
+- frustrations
+- airports
+- annoying
+- technology
+- air travel
+- driving
 title: Driving in Colorado
 wordpress_id: 1386
 wordpress_url: http://www.nata2.org/2006/11/21/driving-in-colorado/

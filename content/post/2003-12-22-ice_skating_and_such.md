@@ -1,9 +1,28 @@
 ---
-date: 2003-12-22T17:37:48Z
+date: 2003-12-22 17:37:48+00:00
 excerpt: On saturday - my mom, dad and hiromi all went to the hobby shop to look for
   hobbies for my father. he didn't find anything so I later went back and got him
   a 130 in 1 electronic experimentation kit and a fancy radio ...
-tags: ["family","phone","sites","action","websites","mom","dad","experiment","cars","hiromi"]
+summary: went to the hobby shop with my fam, got dad an electronics kit and a rc car.
+  checked out a figure skating show featuring a family friend and had a fancy dress
+  party. then on sunday we cooked some goodies at home. also, stayed up late making
+  an opml reader. check it out!
+tags:
+- mom
+- phone
+- dad
+- experiment
+- cars
+- web development
+- websites
+- sites
+- hiromi
+- hobbies
+- figure skating
+- family weekend
+- action
+- cooking
+- family
 title: ice skating and such
 wordpress_id: 704
 wordpress_url: http://new.nata2.org/?p=704

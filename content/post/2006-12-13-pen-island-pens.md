@@ -1,6 +1,15 @@
 ---
-date: 2006-12-13T12:02:35Z
-tags: ["general"]
+date: 2006-12-13 12:02:35+00:00
+summary: got my pen island pens and i'm super happy with them! they're solid and the
+  grip is nice. sent some samples to my bro dylan and his wife got a funny email about
+  the weird package. check out penisland.net for these awesome pens!
+tags:
+- general
+- sample pens
+- shipping experience
+- pen island
+- Dylan
+- funny email
 title: Pen Island Pens!
 wordpress_id: 1396
 wordpress_url: http://www.nata2.org/2006/12/13/pen-island-pens/

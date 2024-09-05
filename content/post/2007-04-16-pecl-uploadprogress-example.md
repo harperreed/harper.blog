@@ -1,6 +1,24 @@
 ---
-date: 2007-04-16T17:21:40Z
-tags: ["technology","technology","php","progressbar","php-progress-bar","progress-bar","prototype-uploads","yui","prototype","pecl","uploadprogress","ajax-uploads","uploads"]
+date: 2007-04-16 17:21:40+00:00
+summary: built an async picture uploader using the PECL Uploadprogress extension,
+  but found limited docs. after digging into the source, i figured out how to implement
+  upload tracking with unique IDs. dropped a working example in my code archive for
+  testing.
+tags:
+- ajax uploads
+- progress bar
+- prototype
+- progress-bar
+- technology
+- php
+- yui
+- uploadprogress
+- uploads
+- ajax-uploads
+- prototype-uploads
+- pecl
+- php-progress-bar
+- progressbar
 title: PECL Uploadprogress example
 wordpress_id: 1434
 wordpress_url: http://www.nata2.org/2007/04/16/pecl-uploadprogress-example/

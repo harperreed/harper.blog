@@ -1,6 +1,18 @@
 ---
-date: 2006-01-22T06:14:12Z
-tags: ["general","travel","awesome","work"]
+date: 2006-01-22 06:14:12+00:00
+summary: needed a quick break while working on yellowikis.us, so i fixed my blog.
+  pictures and tags should work again and the theme needs a bit of tweaking. also,
+  i'm thinking about going to japan in march and coachella in april. rule.
+tags:
+- general
+- travel plans
+- awesome
+- work
+- blog update
+- travel
+- personal notes
+- yellowikis
+- website design
 title: I think its fixed
 wordpress_id: 1198
 wordpress_url: http://www.nata2.org/2006/01/22/i-think-its-fixed/

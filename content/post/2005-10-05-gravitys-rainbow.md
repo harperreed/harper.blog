@@ -1,6 +1,22 @@
 ---
-date: 2005-10-05T11:13:24Z
-tags: ["general","books","music","literature","singularity","bus","classical"]
+date: 2005-10-05 11:13:24+00:00
+summary: another attempt to tackle gravity's rainbow by pynchon, which is super dense
+  and reminds me of trying to read catch-22 back in 5th grade. also been vibing to
+  some classical music, especially adagios and philip glass. feeling a bit ridiculous
+  today but that's the way it is until my new sci-fi books arrive.
+tags:
+- Gravity's Rainbow
+- literature
+- bus
+- music
+- classical
+- singularity
+- classical music
+- sci-fi
+- general
+- Thomas Pynchon
+- reading challenge
+- books
 title: gravity's rainbow
 wordpress_id: 1135
 wordpress_url: http://www.nata2.org/2005/10/05/gravitys-rainbow/

@@ -1,6 +1,19 @@
 ---
-date: 2006-08-31T05:06:16Z
-tags: ["general","movies","osx","television","p2ptv","p2p"]
+date: 2006-08-31 05:06:16+00:00
+summary: wondering why there aren't any good p2p tv clients for osx like tvu or tvants.
+  not looking for democracy player, so hit me up if you know any. had a chill day
+  with hiromi, about to catch hustle and flow!
+tags:
+- osx
+- hustle and flow
+- streaming
+- movies
+- p2p tv
+- general
+- television
+- p2p
+- tv apps
+- p2ptv
 title: p2ptv client for osx
 wordpress_id: 1330
 wordpress_url: http://www.nata2.org/2006/08/31/p2ptv-client-for-osx/

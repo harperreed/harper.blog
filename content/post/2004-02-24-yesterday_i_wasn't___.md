@@ -1,9 +1,23 @@
 ---
-date: 2004-02-24T17:15:47Z
+date: 2004-02-24 17:15:47+00:00
 excerpt: i was so weird yesterday. I didn't want to be at work. so I just did my work
   without mentioning a word to anyone - and I reacted poorly when I was spoken too.
   it was annoying even to me.. I guess I was coming down fro...
-tags: ["harper","family","war","watership","humor"]
+summary: "yesterday was one of those days where i was just out of it at work. didn\u2019\
+  t really talk to anyone and felt kinda drained from the weekend fun. realized i\
+  \ hadn\u2019t eaten enough, which totally helped. now feeling better today after\
+  \ some good sleep and looking forward to a fun weekend with friends and concerts."
+tags:
+- social life
+- war
+- harper
+- watership
+- humor
+- weekend vibes
+- self-care
+- workplace
+- sleep
+- family
 title: yesterday i wasn't...
 wordpress_id: 759
 wordpress_url: http://new.nata2.org/?p=759

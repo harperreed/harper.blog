@@ -1,6 +1,20 @@
 ---
-date: 2008-03-11T23:41:13Z
-tags: ["general","technology","travel","parties","party","friends","sxsw","startups","traveling"]
+date: 2008-03-11 23:41:13+00:00
+summary: finally recovered from my flash travel/party tour. met awesome people and
+  saw cool stuff, especially in boulder and at sxsw. enjoyed some sweet startups,
+  hilarious venues, and powerful meetups. made great connections and had a blast overall!
+tags:
+- parties
+- startups
+- general
+- SXSW
+- technology
+- travel
+- sxsw
+- friends
+- traveling
+- party
+- networking
 title: Those parties were awesome!
 wordpress_id: 1513
 wordpress_url: http://www.nata2.org/2008/03/11/those-parties-were-awesome/

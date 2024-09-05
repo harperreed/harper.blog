@@ -1,10 +1,21 @@
 ---
-date: 2003-01-02T07:51:03Z
+date: 2003-01-02 07:51:03+00:00
 excerpt: well.. I guss that was supposed to happen yesterday. but whatever. So last
   night was quite fun.. or should I say two nights ago.. whener the 31st was. I had
   a good time. we went to a party with some friends of a friend and had really good
   food. then we went to a rocker party.. here are the pictures... i am excited...
-tags: ["war","rock","food"]
+summary: so, i went to a party on the 31st and had a blast. good food and a rocker
+  party with friends. check out the pictures! excited for what this year brings, fingers
+  crossed for no chaos.
+tags:
+- fun times
+- food
+- war
+- new year
+- good food
+- friends
+- party
+- rock
 title: Happy new years..
 wordpress_id: 424
 wordpress_url: http://new.nata2.org/?p=424

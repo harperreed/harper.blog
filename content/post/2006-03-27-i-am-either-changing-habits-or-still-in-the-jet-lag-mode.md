@@ -1,6 +1,20 @@
 ---
-date: 2006-03-27T10:09:06Z
-tags: ["general","projects","voip","art","seditionaries","shirts"]
+date: 2006-03-27 10:09:06+00:00
+summary: got up early and feeling sick, but finished the first draft of my ambient
+  device. also brainstorming an art project that lets people call random numbers in
+  the US. wearing a knock off shirt and wondering what people will think.
+tags:
+- art project
+- shirts
+- art
+- early morning
+- fashion
+- sick day
+- ambient device
+- seditionaries
+- general
+- projects
+- voip
 title: I am either changing habits or still in jet-lag mode.
 wordpress_id: 1235
 wordpress_url: http://www.nata2.org/2006/03/27/i-am-either-changing-habits-or-still-in-the-jet-lag-mode/

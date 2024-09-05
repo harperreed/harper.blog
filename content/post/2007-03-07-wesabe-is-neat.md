@@ -1,6 +1,15 @@
 ---
-date: 2007-03-07T11:34:07Z
-tags: ["general","money","finances","budget","savings","wesabe"]
+date: 2007-03-07 11:34:07+00:00
+summary: "i started managing my finances better after getting married and found wesabe.\
+  \ it\u2019s a cool way to see my money trends with community tips and neat graphs.\
+  \ if quicken isn't your vibe, give wesabe a shot!"
+tags:
+- budget
+- savings
+- general
+- wesabe
+- money
+- finances
 title: Wesabe is neat
 wordpress_id: 1417
 wordpress_url: http://www.nata2.org/2007/03/07/wesabe-is-neat/

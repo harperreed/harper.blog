@@ -1,6 +1,18 @@
 ---
-date: 2007-06-13T05:51:55Z
-tags: ["general","windows","editors","blogging","microsoft","windows-live-writer"]
+date: 2007-06-13 05:51:55+00:00
+summary: windows live writer just dropped a new version, making blogging super easy
+  with cool features like real-time spell checking. check it out on their page and
+  download it!
+tags:
+- windows
+- blogging
+- windows live writer
+- windows-live-writer
+- general
+- blog editors
+- microsoft
+- editors
+- update
 title: New Window Live  Writer released
 wordpress_id: 1457
 wordpress_url: http://www.nata2.org/2007/06/13/new-window-live-writer-released/

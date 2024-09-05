@@ -1,9 +1,23 @@
 ---
-date: 2003-01-17T21:49:57Z
+date: 2003-01-17 21:49:57+00:00
 excerpt: 'Man - I have been writing this entry for so long. I keep reading this post
   on fark about exam/test taking stories. Some of them are very funny. I wish I was
   in college again. so much fun was had. I found this to be humorous. and '
-tags: ["php","war","insane","college","humor","taiwan","ella"]
+summary: this blog entry dives into funny exam stories, shares some love for live
+  music, and touches on saddam's latest wild speech. also a shoutout to a fan from
+  taiwan - hey ella!
+tags:
+- ella
+- war
+- saddam news
+- insane
+- music
+- humor
+- college memories
+- php
+- exam stories
+- college
+- taiwan
 title: man men woman women
 wordpress_id: 434
 wordpress_url: http://new.nata2.org/?p=434

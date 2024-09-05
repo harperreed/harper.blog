@@ -1,9 +1,35 @@
 ---
-date: 2005-03-01T12:07:26Z
+date: 2005-03-01 12:07:26+00:00
 excerpt: check out this comic. so very very true. unfortunately it is being banned
   by newspapers all over. too bad it is true. heh. I love shit like that. Some really
   exciting thing...
-tags: ["general","technology","php","phone","colorado","sites","school","action","author","vacation","design","cripple","smash","politics","development","mobile","nokia"]
+summary: check out this comic that's getting banned because it's so true! working
+  on my dad's site and a bbs game port, plus thinking about making a magnetic stripe
+  reader. heading to Colorado this weekend to hang with cousins. also need to start
+  reading again, stupid fantasy novels are calling me. sleep is overrated, right?
+tags:
+- development
+- school
+- design
+- colorado
+- fantasy novels
+- author
+- phone
+- general
+- nokia
+- web development
+- cripple smash
+- mobile
+- sleep issues
+- vacation
+- politics
+- technology
+- php
+- sites
+- cripple
+- boondocks
+- action
+- smash
 title: hehe. i love bush
 wordpress_id: 999
 wordpress_url: http://new.nata2.org/?p=999

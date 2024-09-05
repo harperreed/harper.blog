@@ -1,6 +1,18 @@
 ---
-date: 2006-06-21T01:51:52Z
-tags: ["general","books","site","redesign"]
+date: 2006-06-21 01:51:52+00:00
+summary: spent like 100 hours on this scifi series. the plot's thin but the story's
+  great. finished 13 out of 15 books in a month. reading is my escape. now off to
+  play some computer games and work on my site!
+tags:
+- general
+- bookworm
+- site
+- fiction
+- redesign
+- scifi
+- bookreviews
+- reading
+- books
 title: goddamn scifi. and super things... like life changes
 wordpress_id: 1296
 wordpress_url: http://www.nata2.org/2006/06/21/goddamn-scifi-and-super-things-like-life-changes/

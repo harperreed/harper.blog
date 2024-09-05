@@ -1,6 +1,23 @@
 ---
-date: 2007-04-12T00:38:59Z
-tags: ["general","books","sad","growing-up","novels","life","death","literature","authors","kurt-vonnegut"]
+date: 2007-04-12 00:38:59+00:00
+summary: kurt vonnegut, one of my fave authors, passed away at 84. his books, especially
+  'slapstick', shaped my views on life and how to treat others. meeting him was a
+  highlight, and his humanist beliefs resonate with me. let's make the most of this
+  life!
+tags:
+- death
+- general
+- novels
+- literature
+- kurt vonnegut
+- growing-up
+- authors
+- humanism
+- sad
+- life
+- books
+- kurt-vonnegut
+- growing up
 title: A Sad Day. RIP Kurt Vonnegut.
 wordpress_id: 1432
 wordpress_url: http://www.nata2.org/2007/04/12/a-sad-day-rip-kurt-vonnegut/

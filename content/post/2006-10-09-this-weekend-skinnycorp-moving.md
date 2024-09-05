@@ -1,6 +1,22 @@
 ---
-date: 2006-10-09T01:44:13Z
-tags: ["general","chicago","skinnycorp","clubbing","partying","going-out","moving"]
+date: 2006-10-09 01:44:13+00:00
+summary: spent the weekend moving to a new office space - packed up, set up wifi,
+  and had a fun night out with friends at sushi wabi, ending in some wild adventures
+  and bruises. still managed to help with the move and get everything in order for
+  the week ahead.
+tags:
+- moving
+- clubbing
+- skinnycorp
+- going-out
+- office move
+- chicago
+- partying
+- general
+- weekend recap
+- sushi
+- friends
+- new space
 title: This weekend. skinnyCorp Moving
 wordpress_id: 1361
 wordpress_url: http://www.nata2.org/2006/10/09/this-weekend-skinnycorp-moving/

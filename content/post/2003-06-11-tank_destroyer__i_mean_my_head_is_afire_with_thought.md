@@ -1,11 +1,28 @@
 ---
-date: 2003-06-11T14:55:36Z
+date: 2003-06-11 14:55:36+00:00
 excerpt: so .. the last 2 weeks I haven't really hung out or gone out as much as I
   had before. it is weird when you go out an insane amount and then suddenly stop.
   I like it.. the stopping.. it was so relaxing and so nice. I hung out with my mom
   and aunt/cousin.. and hung out with marcia a bunch.. and now I am needing to re-introduce
   myself into the "real" world. I really love going out.. but it requires...
-tags: ["harper","chicago","insane","mom","matiss","girls","irc"]
+summary: "so, i\u2019ve taken a break from going out and it\u2019s been super chill.\
+  \ spending time with family and friends has been great, but now i gotta find a balance\
+  \ with my four worlds: going out, work, friends, and nerd stuff. oh, and i\u2019\
+  m getting a tattoo and dyeing my hair soon, which is exciting! also, bec is leaving\
+  \ soon, and that bums me out. can\u2019t wait to see what happens next!"
+tags:
+- mom
+- social life
+- hair dye
+- chicago
+- insane
+- tattoo
+- friendship
+- harper
+- girls
+- self-care
+- matiss
+- irc
 title: tank destroyer. i mean my head is afire with thought
 wordpress_id: 537
 wordpress_url: http://new.nata2.org/?p=537

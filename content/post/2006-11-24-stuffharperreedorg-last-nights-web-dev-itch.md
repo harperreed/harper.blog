@@ -1,6 +1,16 @@
 ---
-date: 2006-11-24T20:30:41Z
-tags: ["technology","technology"]
+date: 2006-11-24 20:30:41+00:00
+summary: last night, after some family time, i revamped my code repository and moved
+  it to a new domain. used PHP and smarty for the blorp script and added some cool
+  color coding with the Pear TEXT/Highlighter class. feeling more legit and ready
+  to share more code!
+tags:
+- web development
+- technology
+- code repository
+- PHP
+- coding
+- personal project
 title: stuff.harperreed.org. Last nights web-dev itch
 wordpress_id: 1389
 wordpress_url: http://www.nata2.org/2006/11/24/stuffharperreedorg-last-nights-web-dev-itch/

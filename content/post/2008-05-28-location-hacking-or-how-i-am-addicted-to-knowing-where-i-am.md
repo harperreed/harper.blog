@@ -1,6 +1,23 @@
 ---
-date: 2008-05-28T00:51:39Z
-tags: ["technology","hacking","fun","twitter","location","fireaeagle","dopplr","tripit"]
+date: 2008-05-28 00:51:39+00:00
+summary: "the last few weeks have been all about travel chaos and fun. i decided to\
+  \ track my journeys using sites like dopplr and tripit, and mixed them for a little\
+  \ homepage mashup. figured out some oauth stuff along the way, and now i can keep\
+  \ tabs on where i\u2019ve been and where i\u2019m headed!"
+tags:
+- twitter
+- fun
+- fireeagle
+- oauth
+- location
+- tripit
+- technology
+- fireaeagle
+- dopplr
+- Dopplr
+- hacking
+- TripIt
+- travel tracking
 title: Location hacking. Or how I am addicted to knowing where I am
 wordpress_id: 1518
 wordpress_url: http://www.nata2.org/?p=1518

@@ -1,6 +1,19 @@
 ---
-date: 2006-11-07T01:34:51Z
-tags: ["general","politics","voting","government"]
+date: 2006-11-07 01:34:51+00:00
+summary: "tomorrow is the 2006 general election, and it\u2019s super important to\
+  \ vote! i\u2019ve been voting since 1996, and it\u2019s still magical. i had a hard\
+  \ time finding my polling place info but luckily found an old reminder sheet. go\
+  \ vote - it\u2019ll be awesome!"
+tags:
+- general
+- voting
+- politics
+- Polls
+- Political Participation
+- Civic Duty
+- 2006 Election
+- Voting
+- government
 title: Don't forget to vote.
 wordpress_id: 1381
 wordpress_url: http://www.nata2.org/2006/11/07/dont-forget-to-vote-it-is-your-duty/

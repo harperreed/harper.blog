@@ -1,6 +1,22 @@
 ---
-date: 2006-02-27T20:45:43Z
-tags: ["general","technology","hacking","diy","make","ambient","embedded","nabaztag","takeapart","wifi","led"]
+date: 2006-02-27 20:45:43+00:00
+summary: got my gumstix and was super excited to work on a nabaztag device with my
+  coworker. we had some booting issues but it was an easy fix! ended up taking it
+  apart to see the insides and was surprised by the hardware inside. also played around
+  with the nabaztag API and created a little php tool. check it out!
+tags:
+- make
+- general
+- led
+- gadgets
+- technology
+- nabaztag
+- wifi
+- takeapart
+- hacking
+- embedded
+- ambient
+- diy
 title: Investigating the nabaztag
 wordpress_id: 1223
 wordpress_url: http://www.nata2.org/2006/02/27/investigating-the-nabaztag/

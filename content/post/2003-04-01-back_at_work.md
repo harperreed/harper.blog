@@ -1,9 +1,20 @@
 ---
-date: 2003-04-01T19:11:49Z
-excerpt: |-
-  Today I am back at work after a four day holiday. It was great. I hung out with my grandfather and my cousin and did all of the tourist stuff that chicago has to offer.. It was a lot of fun. Tonight I am apparentlyl having a small bday party with some friends.. it should be fun. I hope people come. but whatever.. ;)
-  Being back at work is nice. I like to work. it is pretty fun...
-tags: ["chicago"]
+date: 2003-04-01 19:11:49+00:00
+excerpt: 'Today I am back at work after a four day holiday. It was great. I hung out
+  with my grandfather and my cousin and did all of the tourist stuff that chicago
+  has to offer.. It was a lot of fun. Tonight I am apparentlyl having a small bday
+  party with some friends.. it should be fun. I hope people come. but whatever.. ;)
+
+  Being back at work is nice. I like to work. it is pretty fun...'
+summary: back at work after an awesome four-day holiday in chicago with my grandfather
+  and cousin. having a small bday party tonight. work's cool, but meetings suck. feeling
+  tired.
+tags:
+- holiday
+- birthday
+- work
+- chicago
+- meetings
 title: back at work
 wordpress_id: 474
 wordpress_url: http://new.nata2.org/?p=474

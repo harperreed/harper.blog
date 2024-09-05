@@ -1,6 +1,22 @@
 ---
-date: 2005-06-08T18:50:11Z
-tags: ["general","food","projects","ruby","rails","on","railsday","andy"]
+date: 2005-06-08 18:50:11+00:00
+summary: "andy and i tackled rails day on saturday from 10am to 6pm, getting close\
+  \ to finishing our app, even with some big pieces missing. we'll have to rename\
+  \ it since nasa isn't cool with similar names, but for now, check it out at nasa.versionfest.com.\
+  \ time for falafel and yoyos now\u2014ugh, it's hot outside!"
+tags:
+- general
+- rails day
+- food
+- nasa
+- ruby
+- coding experience
+- application development
+- railsday
+- rails
+- projects
+- andy
+- 'on'
 title: railsday.com experience
 wordpress_id: 1079
 wordpress_url: http://www.nata2.org/2005/06/08/railsdaycom-experience/
@@ -12,4 +28,4 @@ someday.
 
 anyway. check out our application : <a href="http://nasa.versionfest.com/">nasa.versionfest.com</a>. we are going to have to change the name cuz of nasa. they apparently don't like people to use any name that is similar to theirs. but that will be in a bit. we need to finish it first. I think i will name it wonder. 
 
-Now to falafel and then yoyos. apparently it is really hot out. i don't want to find out. i hate finding out about hot things. 
+Now to falafel and then yoyos. apparently it is really hot out. i don't want to find out. i hate finding out about hot things.

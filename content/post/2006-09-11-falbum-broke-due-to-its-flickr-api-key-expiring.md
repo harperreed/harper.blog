@@ -1,6 +1,18 @@
 ---
-date: 2006-09-11T16:32:18Z
-tags: ["technology","flickr","plugin","wordpress","api","key","falbum"]
+date: 2006-09-11 16:32:18+00:00
+summary: 'falbum is down due to an expired API key, affecting all sites using it.
+  it''s a hassle for the author to renew it if they have to change the code. there''s
+  speculation about why it expired, and it''s happened to others before. update: the
+  issue got fixed pretty quickly!'
+tags:
+- plugin
+- API issues
+- falbum
+- wordpress
+- api
+- flickr
+- technology
+- key
 title: 'falbum broke due to its flickr API key expiring. '
 wordpress_id: 1342
 wordpress_url: http://www.nata2.org/2006/09/11/falbum-broke-due-to-its-flickr-api-key-expiring/

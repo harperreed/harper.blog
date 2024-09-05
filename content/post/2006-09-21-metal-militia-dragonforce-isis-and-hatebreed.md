@@ -1,6 +1,28 @@
 ---
-date: 2006-09-21T10:06:43Z
-tags: ["general","concerts","metal","music","insanity","live-music","black-dahlia-murder","hatebreed","napalm-death","mastodon","jeffrey","morgan","isis","dragonforce"]
+date: 2006-09-21 10:06:43+00:00
+summary: the blog post shares experiences from recent metal concerts, including shows
+  by mastodon, hatebreed, and dragonforce. it highlights a great performance by isis
+  at a small venue and contrasts it with dragonforce's entertaining yet silly vibe.
+tags:
+- isis
+- music review
+- music
+- jeffrey
+- napalm-death
+- dragonforce
+- insanity
+- black-dahlia-murder
+- metal concerts
+- mastodon
+- live-music
+- DragonForce
+- hatebreed
+- Hatebreed
+- concerts
+- live shows
+- general
+- metal
+- morgan
 title: 'Metal Militia: DragonForce, Isis and Hatebreed.'
 wordpress_id: 1348
 wordpress_url: http://www.nata2.org/2006/09/21/metal-militia-dragonforce-isis-and-hatebreed/

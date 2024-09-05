@@ -1,9 +1,22 @@
 ---
-date: 2002-10-16T21:58:51Z
+date: 2002-10-16 21:58:51+00:00
 excerpt: It is interesting that when UN is trying to push weapons inspections and
   congress is giving all of our money to defense that the dow drops. I think that
   bush should hurry up
-tags: ["war","bush","business","india","politics","politic"]
+summary: the dow is dropping while congress throws money at defense and war looms
+  on the horizon. is bush gonna be stopped? india pulls back from pakistan borders,
+  but tensions are still high. everything feels out of our hands, especially with
+  defense contractors influencing decisions. what a mess.
+tags:
+- war
+- india
+- Bush administration
+- politics
+- politic
+- business
+- defense spending
+- India Pakistan tensions
+- bush
 title: surprise surprise
 wordpress_id: 377
 wordpress_url: http://new.nata2.org/?p=377

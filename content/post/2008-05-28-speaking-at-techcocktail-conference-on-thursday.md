@@ -1,6 +1,19 @@
 ---
-date: 2008-05-28T00:52:59Z
-tags: ["general","chicago","techcocktail","speaking","technology-agnosticism"]
+date: 2008-05-28 00:52:59+00:00
+summary: on thursday the 29th, the techcocktail conference is happening at loyola.
+  check out my talk on technology agnosticism at 9:30 am. it should be a blast! i'll
+  share the slides later.
+tags:
+- speaking
+- conference
+- chicago
+- technology-agnosticism
+- technology agnosticism
+- general
+- presentation
+- TechCocktail
+- Loyola
+- techcocktail
 title: Speaking at TechCocktail conference on thursday
 wordpress_id: 1520
 wordpress_url: http://www.nata2.org/?p=1520

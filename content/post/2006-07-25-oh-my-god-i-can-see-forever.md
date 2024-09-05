@@ -1,6 +1,23 @@
 ---
-date: 2006-07-25T04:10:45Z
-tags: ["general","phone","metal","humor","awesome","pranks","cartoons","stoner"]
+date: 2006-07-25 04:10:45+00:00
+summary: tonight i sent 400 texts saying 'oh my god. i can see forever' and got a
+  ton of hilarious responses. even received some questions like 'did you get lacek?'
+  and 'are you on drugs?' also went to see The Sword live, and it was amazing. can't
+  wait for 3 inches of blood next week!
+tags:
+- family circus
+- phone
+- general
+- humor
+- awesome
+- subterranean
+- text messaging
+- metal
+- amazing experiences
+- The Sword
+- stoner
+- cartoons
+- pranks
 title: Oh my god. I can see forever
 wordpress_id: 1312
 wordpress_url: http://www.nata2.org/2006/07/25/oh-my-god-i-can-see-forever/

@@ -1,14 +1,25 @@
 ---
-date: 2002-03-25T07:32:33Z
+date: 2002-03-25 07:32:33+00:00
 excerpt: tonight.. I did and possibly finished my taxes. it is incredible. I thought
   this day would never come. It wasn't very hard. especailly with lovely turbotax
   helping me along the way ;). That is very funny to me. All I had to do was answer
   questionsa nd hope it came out right. I hope that I did it correctly. I hated tonights
   academy awards.  I thought that beautiful mind should not have ...
-tags: ["war","fashion"]
+summary: "tonight, I tackled my taxes thanks to turbotax, and it was way easier than\
+  \ I thought. also, I wasn't a fan of this year's academy awards\u2014'beautiful\
+  \ mind' winning all those awards felt off to me. went to a fashion club too and\
+  \ saw a mix of beautiful and silly-looking folks!"
+tags:
+- war
+- fashion club
+- fashion
+- academy awards
+- taxes
+- turbotax
+- opinions
 title: the tax man..
 wordpress_id: 239
 wordpress_url: http://new.nata2.org/?p=239
 ---
 
-tonight.. I did and possibly finished my taxes. it is incredible. I thought this day would never come. It wasn't very hard. especailly with lovely turbotax helping me along the way ;). That is very funny to me. All I had to do was answer questionsa nd hope it came out right. I hope that I did it correctly. <br/><br/>I hated tonights academy awards.  I thought that beautiful mind should not have been awarded all of the awards.. especially since it left outsome rather important facts about the math guys life(nash). I was sad. <br/>I went out the otehr night to a fashion club. It was fun. A lot of beautiful people. hehe. a lot of silly looking people too. I hop ei was in the first group.. but probably not. alas.. 
+tonight.. I did and possibly finished my taxes. it is incredible. I thought this day would never come. It wasn't very hard. especailly with lovely turbotax helping me along the way ;). That is very funny to me. All I had to do was answer questionsa nd hope it came out right. I hope that I did it correctly. <br/><br/>I hated tonights academy awards.  I thought that beautiful mind should not have been awarded all of the awards.. especially since it left outsome rather important facts about the math guys life(nash). I was sad. <br/>I went out the otehr night to a fashion club. It was fun. A lot of beautiful people. hehe. a lot of silly looking people too. I hop ei was in the first group.. but probably not. alas..

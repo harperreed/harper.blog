@@ -1,8 +1,20 @@
 ---
-date: 2001-07-11T16:04:42Z
+date: 2001-07-11 16:04:42+00:00
 excerpt: While finalizing all of my hosting problems i made a Write Up of the experience.
   Check it out. Also i made a solution. HeHe tell me what you think...
-tags: ["friends","harper","reed","hosting"]
+summary: i wrapped up my hosting problems and wrote a <a href="http://www.harperreed.org/media/?path=writings/Harpers%20Writings/Hosting&text=writings.txt">Write
+  Up</a> about it. also, check out my <a href="http://www.harperreed.org/media/?path=writings/Harpers%20Writings/Hosting&text=solution.txt">solution</a>.
+  let me know what you think!
+tags:
+- hosting
+- tech blog
+- write up
+- reed
+- personal experience
+- hosting issues
+- friends
+- website solutions
+- harper
 title: The final battle
 wordpress_id: 15
 wordpress_url: http://new.nata2.org/?p=15

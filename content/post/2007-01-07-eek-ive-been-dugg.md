@@ -1,6 +1,17 @@
 ---
-date: 2007-01-07T15:18:33Z
-tags: ["technology","humor","photoshop","pranks","digg","dugg"]
+date: 2007-01-07 15:18:33+00:00
+summary: totally sleep deprived after japan, i messed with my server, found it dying,
+  then stumbled on my site being dugg. replaced the image with a speedo pic just for
+  fun. harper 1, digg users 0!
+tags:
+- humor
+- photoshop
+- digg
+- server issues
+- pranks
+- technology
+- jet lag
+- dugg
 title: eek. I've been dugg!
 wordpress_id: 1402
 wordpress_url: http://www.nata2.org/2007/01/07/eek-ive-been-dugg/

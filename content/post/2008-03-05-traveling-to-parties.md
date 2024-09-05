@@ -1,6 +1,23 @@
 ---
-date: 2008-03-05T20:37:31Z
-tags: ["general","colorado","travel","parties","sxsw","techcocktail","boulder","austin","texas"]
+date: 2008-03-05 20:37:31+00:00
+summary: i'll be in colorado tomorrow for tech cocktail boulder, repping skinnycorp.
+  come grab some swag and meet cool local tech folks! also hitting up the sxsw party
+  on sunday with free beer. hit me up if you wanna meet up!
+tags:
+- parties
+- texas
+- general
+- skinnyCorp
+- boulder
+- Boulder
+- travel
+- sxsw
+- austin
+- SxSWi Party
+- Tech Cocktail
+- networking
+- techcocktail
+- colorado
 title: TechCocktail Boulder and SXSW! Come see me!
 wordpress_id: 1512
 wordpress_url: http://www.nata2.org/2008/03/05/traveling-to-parties/

@@ -1,6 +1,23 @@
 ---
-date: 2008-06-09T23:52:36Z
-tags: ["technology","apple","mobile","nokia","symbian","iphone","n95","wom"]
+date: 2008-06-09 23:52:36+00:00
+summary: the writer reflects on their journey with nokia phones and contrasts it with
+  their experience using the iphone. after test driving the n95 8gb, they realize
+  the iphone's ease of use and functionality have redefined their expectations for
+  smartphones.
+tags:
+- nokia
+- wom
+- iPhone
+- mobile
+- technology
+- Nokia
+- n95
+- personal experience
+- symbian
+- apple
+- smartphones
+- tech review
+- iphone
 title: The free new N95 vs the old iPhone
 wordpress_id: 1531
 wordpress_url: http://www.nata2.org/?p=1531

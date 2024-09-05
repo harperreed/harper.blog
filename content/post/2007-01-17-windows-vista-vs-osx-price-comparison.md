@@ -1,6 +1,16 @@
 ---
-date: 2007-01-17T11:18:24Z
-tags: ["technology","technology"]
+date: 2007-01-17 11:18:24+00:00
+summary: "jake and i checked out microsoft's new windows vista, but the site is super\
+  \ unhelpful with no release date. the pricing is way too high compared to other\
+  \ os options like linux and apple. and with different versions being confusing,\
+  \ it\u2019s pushing people to pirate it instead. what is microsoft thinking?"
+tags:
+- Apple OSX
+- Linux
+- OS Pricing
+- technology
+- Microsoft
+- Windows Vista
 title: Windows Vista vs OSX - Price comparison
 wordpress_id: 1406
 wordpress_url: http://www.nata2.org/2007/01/17/windows-vista-vs-osx-price-comparison/

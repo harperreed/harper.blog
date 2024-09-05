@@ -1,10 +1,22 @@
 ---
-date: 2003-02-17T18:23:35Z
+date: 2003-02-17 18:23:35+00:00
 excerpt: so a club broke and many people died last night. My parents called at 7:30
   to make sure I was alive. 7:30. that is so early. anyway.. I can totally imagine
   that happening in many of the clubs I have been in. they all have ONE entrance or
   exit and it is usual...
-tags: ["war","food","irc"]
+summary: a club disaster led to a tragic loss, and it got the author's parents worried.
+  thinking about how many clubs have crazy exits, the author reflects on past experiences
+  and the police's often aggressive reactions. also, they mention falling asleep instead
+  of joining a protest against the war. oh, and gta vice city is their new obsession.
+tags:
+- food
+- war
+- police response
+- protests
+- irc
+- tragic events
+- personal anecdotes
+- club safety
 title: we be clubin
 wordpress_id: 449
 wordpress_url: http://new.nata2.org/?p=449

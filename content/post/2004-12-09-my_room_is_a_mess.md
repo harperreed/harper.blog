@@ -1,8 +1,25 @@
 ---
-date: 2004-12-09T03:26:29Z
+date: 2004-12-09 03:26:29+00:00
 excerpt: seriously. it is a crazy mess. it just exploded the other day and I haven't
   had a chance or ...
-tags: ["books","phone","vacation","apple","ipod","porn","phones","nokia"]
+summary: just dealing with my nokia 6600 exploding, and totally loving the new ipod
+  mini. it's tiny and comes with a belt clip, but wish it had better headphones. thinking
+  about starting a porn site for extra cash and reading rabbit redux, which is kinda
+  sad. also wondering what i'll wear tomorrow.
+tags:
+- nokia
+- phone
+- porn
+- ipod
+- vacation
+- nokia6600
+- randomthoughts
+- apple
+- ipodmini
+- rabbitredux
+- books
+- phones
+- vacationwishes
 title: my room is a mess
 wordpress_id: 968
 wordpress_url: http://new.nata2.org/?p=968

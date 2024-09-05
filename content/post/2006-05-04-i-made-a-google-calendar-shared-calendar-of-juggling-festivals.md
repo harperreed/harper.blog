@@ -1,6 +1,15 @@
 ---
-date: 2006-05-04T02:36:02Z
-tags: ["general"]
+date: 2006-05-04 02:36:02+00:00
+summary: i made a convention calendar since i couldn't find a good one. check out
+  the shared feed and let me know about changes or if you want admin access. also,
+  i'll be at The Stevenson Fest if you wanna meet up!
+tags:
+- general
+- shared feed
+- event planning
+- meetup
+- convention calendar
+- The Stevenson Fest
 title: I made a google calendar shared calendar of juggling festivals
 wordpress_id: 1257
 wordpress_url: http://www.nata2.org/2006/05/04/i-made-a-google-calendar-shared-calendar-of-juggling-festivals/

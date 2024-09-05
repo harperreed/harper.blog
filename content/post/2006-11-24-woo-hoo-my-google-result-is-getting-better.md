@@ -1,6 +1,23 @@
 ---
-date: 2006-11-24T20:11:23Z
-tags: ["general","nerd","harper","google","web","seo","search-engines","harper-reed"]
+date: 2006-11-24 20:11:23+00:00
+summary: so harper shares the story of how her unique name helps her rank high in
+  search results, but when searching for 'harper,' she's up against some big names.
+  she recently hit number 7 on the front page and humorously ponders becoming famous
+  to improve her ranking.
+tags:
+- seo
+- harper-reed
+- general
+- Harper Reed
+- personal branding
+- name competition
+- web
+- nerd
+- Google
+- search-engines
+- search rank
+- google
+- harper
 title: Woo Hoo. My Google result is getting better
 wordpress_id: 1388
 wordpress_url: http://www.nata2.org/2006/11/24/woo-hoo-my-google-result-is-getting-better/

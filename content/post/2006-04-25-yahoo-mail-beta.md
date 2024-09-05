@@ -1,6 +1,18 @@
 ---
-date: 2006-04-25T01:21:01Z
-tags: ["technology","mail","yahoo","beta"]
+date: 2006-04-25 01:21:01+00:00
+summary: i used this awesome trick to get on the yahoo mail beta. it has a cool interface,
+  but i still prefer gmail. if you wanna try it, just follow the easy steps i laid
+  out.
+tags:
+- yahoo
+- email interface
+- yahoo mail
+- technology
+- mail
+- gmail comparison
+- beta version
+- tricks
+- beta
 title: Yahoo mail beta
 wordpress_id: 1253
 wordpress_url: http://www.nata2.org/2006/04/25/yahoo-mail-beta/

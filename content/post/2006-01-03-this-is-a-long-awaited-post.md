@@ -1,6 +1,24 @@
 ---
-date: 2006-01-03T13:16:16Z
-tags: ["general","chicago","christmas","flickr","hiromi","rails","upgrading","api","nye","killhannah"]
+date: 2006-01-03 13:16:16+00:00
+summary: the post talks about the author's holiday adventures, including hanging out
+  with hiromi, a fun christmas in colorado, a chaotic new year's eve party, and some
+  cool tech projects with flickr and rails upgrades.
+tags:
+- general
+- killhannah
+- Flickr API
+- upgrading
+- api
+- party fun
+- flickr
+- Chicago events
+- hiromi
+- chicago
+- holiday recap
+- rails
+- christmas
+- Brokeback Mountain
+- nye
 title: this is a long awaited post
 wordpress_id: 1155
 wordpress_url: http://www.nata2.org/?p=1155
@@ -30,4 +48,4 @@ so then. on sunday i slept and made cool things. I fixed up <a href="http://flas
 
 i really want to upgrade my rails stuff to 1.0 - but i really don't want to deal with all the crap upgrading. seriously. wtf is with the upgrading guide. "backup your code (use svn). do a rails . in your application dir. do a diff to see whats different. debug" that is bullshit. people should release a LOT of incremental releases to make upgrading easy. it is hard to maintain rails applications.
 
-i need to break up my entries. haha. 
+i need to break up my entries. haha.

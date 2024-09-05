@@ -1,6 +1,17 @@
 ---
-date: 2005-07-14T17:51:54Z
-tags: ["general","job","travel","work","yoyo"]
+date: 2005-07-14 17:51:54+00:00
+summary: got a busy travel schedule and need a new laptop ASAP. trying to build a
+  robot gun and had a fun but challenging shirt printing night with friends. also
+  figuring out how to be a better worker.
+tags:
+- job
+- general
+- yoyo
+- work
+- travel
+- laptop
+- DIY
+- robotics
 title: guess what
 wordpress_id: 1094
 wordpress_url: http://www.nata2.org/2005/07/14/guess-what/
@@ -25,4 +36,4 @@ i need some braces and some gears and stepper motors to make my robot gun out of
 
 last night mark, hiromi and myself hung out and attempted to "print" some howtoyoyo shirts. unfortunantly we are bad at them. and we need to refine our process. hehe. hopefully they are fixed soon. 
 
-word. i need to figure out how to be a better worker. the world around me is tricking me. i think if i had a better laptop i coudl go to a coffee shop and work. that woudl be good. 
+word. i need to figure out how to be a better worker. the world around me is tricking me. i think if i had a better laptop i coudl go to a coffee shop and work. that woudl be good.

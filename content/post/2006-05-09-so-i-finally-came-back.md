@@ -1,6 +1,19 @@
 ---
-date: 2006-05-09T03:35:01Z
-tags: ["general","video","flickr","travel","home","jon"]
+date: 2006-05-09 03:35:01+00:00
+summary: just chillin' at home and loving it. check out my pics from jon's graduation,
+  some juggling shots, and his biodiesel setup. oh, and there's a super cool bluegrass
+  video from the party. next up, colorado and a big book delivery!
+tags:
+- juggling
+- flickr
+- bluegrass
+- travel
+- video
+- home
+- jon
+- graduation
+- general
+- biodiesel
 title: 'So i finally came back. '
 wordpress_id: 1261
 wordpress_url: http://www.nata2.org/2006/05/09/so-i-finally-came-back/

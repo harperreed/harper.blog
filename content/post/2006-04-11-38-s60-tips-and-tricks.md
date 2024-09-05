@@ -1,6 +1,15 @@
 ---
-date: 2006-04-11T13:21:54Z
-tags: ["general"]
+date: 2006-04-11 13:21:54+00:00
+summary: check out these awesome tips for managing your symbian phone better, from
+  deleting multiple texts to customizing soft keys. there's something here for every
+  symbian user!
+tags:
+- general
+- symbian
+- phone tips
+- nokia tricks
+- tech guide
+- mobile hacks
 title: '38 S60 tips and tricks '
 wordpress_id: 1242
 wordpress_url: http://www.nata2.org/phone-stuff/38-s60-tips-and-tricks/

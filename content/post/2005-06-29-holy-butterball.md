@@ -1,6 +1,19 @@
 ---
-date: 2005-06-29T00:16:22Z
-tags: ["general","travel","work","ruby","rails","on"]
+date: 2005-06-29 00:16:22+00:00
+summary: i'm back from san fran and had a blast hanging with noah and the gravity
+  team. the office was cool and the hotel was dope. now i'm diving into some fun projects
+  with RoR, which is just awesome.
+tags:
+- work
+- gravity mobile
+- travel
+- rails
+- san francisco
+- 'on'
+- general
+- fun
+- ruby
+- Ruby on Rails
 title: 'holy butterball '
 wordpress_id: 1089
 wordpress_url: http://www.nata2.org/2005/06/29/holy-butterball/
@@ -10,4 +23,4 @@ I am back. i have been back since sunday night - it was a trip. I really liked s
 
 So now i am working on some stuff. It is really fun. I really like RoR. so good. so easy. and SOOOO fun. haha. 
 
-check out <a href="http://43places.com">43places</a>. See. ROR is awesome. 
+check out <a href="http://43places.com">43places</a>. See. ROR is awesome.

@@ -1,6 +1,20 @@
 ---
-date: 2005-06-24T15:23:32Z
-tags: ["general","job","music","travel","mobile","general"]
+date: 2005-06-24 15:23:32+00:00
+summary: had a wild time in nyc partying in manhattan with amjad, topped off with
+  late-night tater tots. now i'm back at work before flying to san fran for pride
+  weekend, and i just discovered an awesome band called '3 inches of blood.' oh, and
+  i could really use a job.
+tags:
+- partying
+- travel
+- music
+- tater tots
+- pride weekend
+- job
+- general
+- music discovery
+- mobile
+- new york city
 title: busy busy busy
 wordpress_id: 1088
 wordpress_url: http://www.nata2.org/2005/06/24/busy-busy-busy/
@@ -12,4 +26,4 @@ now i am at work. making stuff happen. I am flying out tonight to san fran for s
 
 speaking of awesomeness - last night while attempting to regain control of my life matiss found this incredible band called "3 inches of blood."  they are like a hardcore version of king diamond/iron maiden. really awesome. i itunesd it and now i "own" it. it is incredible. 
 
-i need a job. btw. 
+i need a job. btw.

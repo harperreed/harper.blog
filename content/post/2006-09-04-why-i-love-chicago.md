@@ -1,6 +1,24 @@
 ---
-date: 2006-09-04T05:14:35Z
-tags: ["general","chicago","crobar","house-music","techno","arab","soundbar","smartbar","house","banghra"]
+date: 2006-09-04 05:14:35+00:00
+summary: just spent a wild night in chicago hitting up sushi spots, clubs, and dance
+  parties. from amazing food at sushi wabi to the craziness at soundbar, the city
+  is all about celebrating diversity. wrapped up with burritos and a sweet marriage
+  shoutout. love this vibe!
+tags:
+- general
+- soundbar
+- banghra
+- food
+- arab
+- smartbar
+- chicago
+- diversity
+- crobar
+- house
+- music
+- house-music
+- techno
+- nightlife
 title: why i love chicago
 wordpress_id: 1332
 wordpress_url: http://www.nata2.org/2006/09/04/why-i-love-chicago/

@@ -1,6 +1,21 @@
 ---
-date: 2006-04-06T12:34:37Z
-tags: ["general","google","gmail","email","down","broken"]
+date: 2006-04-06 12:34:37+00:00
+summary: i'm freaking out because my email isn't working! i forward stuff from harper
+  @ nata2.org to my gmail, but now i can't access my primary gmail account at all.
+  i could at home, but not at work. tried everything and it's just not showing any
+  messages. so annoying and worrying, especially since nata2.org is moving to gmail
+  for domains. i just want my email back and some peace of mind!
+tags:
+- nata2
+- broken
+- down
+- gmail
+- general
+- tech struggles
+- email issues
+- communication problems
+- google
+- email
 title: 'email is not around right now.. '
 wordpress_id: 1238
 wordpress_url: http://www.nata2.org/2006/04/06/email-is-not-around-right-now/

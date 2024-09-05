@@ -1,6 +1,20 @@
 ---
-date: 2006-01-14T02:13:00Z
-tags: ["general","technology","phone","mobile","awesome","bus"]
+date: 2006-01-14 02:13:00+00:00
+summary: blogger loves bluetooth while dealing with bus rides, heading to a juggling
+  festival in madison, and humorously sharing their experience of missing an early
+  bus and catching a late one.
+tags:
+- bus travel
+- awesome
+- bus
+- juggling festival
+- phone
+- general
+- mobile
+- bluetooth
+- technology
+- adventure
+- madison wisconsin
 title: 'oh man. i am seriously on the bus. '
 wordpress_id: 1159
 wordpress_url: http://www.nata2.org/2006/01/14/oh-man-i-am-seriously-on-the-bus/

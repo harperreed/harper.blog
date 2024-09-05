@@ -1,6 +1,16 @@
 ---
-date: 2005-02-01T10:51:29Z
-tags: ["general"]
+date: 2005-02-01 10:51:29+00:00
+summary: this post talks about getting a free ipod mini and how it's not worth it.
+  also, the author shares their thoughts on the mac mini, how they enjoy its design
+  but find macs limiting compared to windows and linux. they feel using a mac makes
+  computer time feel boring.
+tags:
+- general
+- mac mini
+- ipod mini
+- personal experience
+- computing
+- technology
 title: Ipod Mini, Mac Mini and padded rooms.
 wordpress_id: 1190
 wordpress_url: http://www.nata2.org/2005/02/01/ipod-mini-mac-mini-and-padded-rooms-2/

@@ -1,11 +1,21 @@
 ---
-date: 2003-05-12T15:23:29Z
+date: 2003-05-12 15:23:29+00:00
 excerpt: hehe. Yesterday ruled. I got up at around 1:30 or so and called my mom. w00t.
   then I went to lula with matiss, beck, eleni and silvia. We hung out until around
   3:30 and had an incredible meal. I think I had catfish and eggs and then shared
   a bunch of desert with my friends. so so good. we then went back to my apartment
   and watched a studio ghibli movie c...
-tags: ["mom","matiss"]
+summary: had an awesome day with friends, enjoyed a fantastic meal at lula, watched
+  nausicaa from studio ghibli, and finished it off with dinner at pacific cafe and
+  the new xmen movie. totally want to be nightcrawler!
+tags:
+- mom
+- xmen
+- food
+- matiss
+- friends
+- movies
+- studio ghibli
 title: Valley of Wind
 wordpress_id: 510
 wordpress_url: http://new.nata2.org/?p=510

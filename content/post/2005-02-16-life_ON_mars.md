@@ -1,11 +1,20 @@
 ---
-date: 2005-02-16T15:27:49Z
+date: 2005-02-16 15:27:49+00:00
 excerpt: 'here and then this thing... we are doomed. more appropriatly - theology
   is doomed. stupid single world theory. always getting in the way. if we find intelligent
   life we will at least know that it exists '
+summary: if we find intelligent life outside of earth, it'll challenge our ideas and
+  maybe get theology all messed up. also, single world theory is kinda a letdown,
+  right? brb, work.
+tags:
+- mars
+- intelligent life
+- theology
+- science
+- single world theory
 title: life ON mars
 wordpress_id: 994
 wordpress_url: http://new.nata2.org/?p=994
 ---
 
-<A href="http://www.space.com/scienceastronomy/mars_life_050216.html">here</a> and then <a href="http://www.space.com/imageoftheday/image_of_day_050111.html">this thing</a>... we are doomed. more appropriatly - theology is doomed. stupid single world theory. always getting in the way. if we find intelligent life we will at least know that it exists <a href="http://legis.state.nm.us/Sessions/05%20Regular/bills/senate/SB0291.html">somewhere</a>. <br/><br/>brb. work. 
+<A href="http://www.space.com/scienceastronomy/mars_life_050216.html">here</a> and then <a href="http://www.space.com/imageoftheday/image_of_day_050111.html">this thing</a>... we are doomed. more appropriatly - theology is doomed. stupid single world theory. always getting in the way. if we find intelligent life we will at least know that it exists <a href="http://legis.state.nm.us/Sessions/05%20Regular/bills/senate/SB0291.html">somewhere</a>. <br/><br/>brb. work.

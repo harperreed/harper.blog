@@ -1,6 +1,18 @@
 ---
-date: 2006-12-03T19:39:28Z
-tags: ["general","dylan","family","humor","finances"]
+date: 2006-12-03 19:39:28+00:00
+summary: "my brother and his wife are going through a tough time financially and it's\
+  \ hard to watch. it's all about trying to be supportive and keeping spirits up with\
+  \ humor. despite the struggles, we keep reminding ourselves it\u2019ll all work\
+  \ out eventually."
+tags:
+- adversity
+- general
+- humor
+- dylan
+- finance
+- family
+- finances
+- support
 title: Sometimes blogs are sad
 wordpress_id: 1391
 wordpress_url: http://www.nata2.org/2006/12/03/sometimes-blogs-are-sad/

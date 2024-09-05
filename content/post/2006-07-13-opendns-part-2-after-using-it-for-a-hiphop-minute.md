@@ -1,6 +1,19 @@
 ---
-date: 2006-07-13T20:33:55Z
-tags: ["technology","skinnycorp","opendns","enterprise"]
+date: 2006-07-13 20:33:55+00:00
+summary: this post revisits the previous discussion on openDNS after trying it out
+  for a few days. while it worked initially, the service failed, leading to a rollback.
+  concerns about centralized control and confusing error pages are noted, alongside
+  hopes for better configuration options in the future.
+tags:
+- skinnycorp
+- network solutions
+- openDNS
+- technology
+- internet safety
+- DNS issues
+- opendns
+- user experience
+- enterprise
 title: 'OpenDNS Part 2: after using it for a hiphop minute'
 wordpress_id: 1304
 wordpress_url: http://www.nata2.org/2006/07/13/opendns-part-2-after-using-it-for-a-hiphop-minute/

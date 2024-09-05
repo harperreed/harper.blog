@@ -1,11 +1,26 @@
 ---
-date: 2004-03-09T22:08:30Z
+date: 2004-03-09 22:08:30+00:00
 excerpt: 'i fixed it. well I thought I did. until it wouldn''t reload. I think that
   our internet here is really slow. I can''t even ssh to my boxen. weird. and dumb.
   wierd and dumb. together at last. man it has been a long caffiene drenched day.
   umm. yea. so anyway. my original post was going to be like this: so I modified my
   photolog recently - I made it so the most ...'
-tags: ["internet","movies","juggling","worldbook","perl","india","travel"]
+summary: fixed my photolog to show recent pics better, but internet is super slow.
+  hung out with friends, learned yoyo tricks, and thinking about getting a bike. also
+  caught up on some cool links.
+tags:
+- photolog
+- juggling
+- india
+- internet issues
+- travel
+- yoyo tricks
+- movies
+- internet
+- acupuncture
+- worldbook
+- bike shopping
+- perl
 title: the angels of darkness sweep over you.
 wordpress_id: 772
 wordpress_url: http://new.nata2.org/?p=772

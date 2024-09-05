@@ -1,6 +1,17 @@
 ---
-date: 2006-02-14T14:28:58Z
-tags: ["general","technology","technology"]
+date: 2006-02-14 14:28:58+00:00
+summary: i cleaned up and commented on a hack for my asterisk server that lets users
+  spoof caller ID. the process is super simple and only requires a few inputs to set
+  it up. i released my source code, and it raises some concerns about trust in telephony
+  because of how easy it is to do.
+tags:
+- general
+- telephony hack
+- technology
+- asterisk
+- social engineering
+- caller ID spoofing
+- security concerns
 title: Caller id spoofing with PHP and asterisk
 wordpress_id: 1211
 wordpress_url: http://www.nata2.org/2006/02/14/caller-id-spoofing-with-php-and-asterisk/

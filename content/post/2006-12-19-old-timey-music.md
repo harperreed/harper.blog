@@ -1,6 +1,22 @@
 ---
-date: 2006-12-19T02:01:39Z
-tags: ["general","music","bluegrass","mountain-music","stanley-brothers","old-timey-music"]
+date: 2006-12-19 02:01:39+00:00
+summary: watched my fave movie, o brother where art thou, with my parents and grandpa.
+  he liked it! did some digging into the music and found it's mostly by the stanley
+  brothers. got their stuff on itunes and have been vibing to it ever since. learned
+  a ton about bluegrass too. sent a cd to my dad and he jokingly replied, 'do not
+  seek the treasure.' heh.
+tags:
+- family time
+- O Brother Where Art Thou
+- bluegrass
+- music
+- bluegrass music
+- old-timey-music
+- stanley-brothers
+- mountain-music
+- general
+- movie nights
+- Stanley Brothers
 title: Old timey music...
 wordpress_id: 1398
 wordpress_url: http://www.nata2.org/2006/12/19/old-timey-music/

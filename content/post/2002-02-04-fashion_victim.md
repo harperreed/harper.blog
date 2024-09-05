@@ -1,11 +1,21 @@
 ---
-date: 2002-02-04T01:06:24Z
+date: 2002-02-04 01:06:24+00:00
 excerpt: This weekend was actually quite good. Friday I hung out with my best friedn
   in the whole world.. and we had an incredible time. It is a little wierd soemtimes..
   because we don't quite know how to interact without dating. I mean - we know how
   to interact. it is just easier to go back to our old ways. We have to fight that.
   heh. but we are pulling thorugh. heh.  then on saturday I was in a fa...
-tags: ["fashion"]
+summary: "hung out with my best friend this weekend, had a blast! we're figuring out\
+  \ our vibe since we used to date, but we're making it work. then i rocked a fashion\
+  \ show on saturday\u2014was supposed to look tough, so who knows if i pulled it\
+  \ off? lol. got pics to share soon!"
+tags:
+- weekend recap
+- fashion
+- personal stories
+- fashion show
+- friendship
+- fun moments
 title: fashion victim
 wordpress_id: 201
 wordpress_url: http://new.nata2.org/?p=201

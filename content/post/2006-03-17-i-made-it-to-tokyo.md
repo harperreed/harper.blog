@@ -1,6 +1,18 @@
 ---
-date: 2006-03-17T07:32:14Z
-tags: ["general","hiromi","travel","awesome","japan"]
+date: 2006-03-17 07:32:14+00:00
+summary: the flight was super long and boring, but i made it through immigration like
+  a breeze. hiromi's house is tiny but nice, with a balcony and two stacked rooms.
+  the trains here are crazy! now i just need to figure out my internet situation.
+tags:
+- immigration
+- awesome
+- Japan
+- travel
+- flights
+- japan
+- general
+- small living spaces
+- hiromi
 title: i made it to tokyo
 wordpress_id: 1232
 wordpress_url: http://www.nata2.org/2006/03/17/i-made-it-to-tokyo/

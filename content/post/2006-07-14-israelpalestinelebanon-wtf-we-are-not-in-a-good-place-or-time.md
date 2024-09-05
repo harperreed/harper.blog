@@ -1,6 +1,16 @@
 ---
-date: 2006-07-14T11:35:55Z
-tags: ["general"]
+date: 2006-07-14 11:35:55+00:00
+summary: the author expresses concern over escalating tensions in the middle east
+  and the implications of us support for israel. they reflect on conversations with
+  arab friends about the destruction of their homeland and question the us's role
+  in undermining the un peace process, fearing a potential world war.
+tags:
+- general
+- us foreign policy
+- war
+- un peace process
+- middle east conflict
+- israel
 title: Israel/Palestine/Lebanon wtf. We are not in a good place or time.
 wordpress_id: 1305
 wordpress_url: http://www.nata2.org/2006/07/14/israelpalestinelebanon-wtf-we-are-not-in-a-good-place-or-time/

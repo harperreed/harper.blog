@@ -1,6 +1,21 @@
 ---
-date: 2005-05-13T10:09:20Z
-tags: ["general","taiwan","hiromi","ella","yoyos","party","amara"]
+date: 2005-05-13 10:09:20+00:00
+summary: "hiromi and i sent some gifts to a friend in taiwan \u2013 a hoody from me\
+  \ and a skirt from her. check out the pic! last night, mark and i looked for bling\
+  \ for our yoyos but no luck, though i found a cool wholesale spot. also, i went\
+  \ to amara's bday party at bungalow, which was nice!"
+tags:
+- ella
+- yoyos
+- wholesale
+- amara
+- party
+- birthday party
+- general
+- gifts
+- Taiwan
+- hiromi
+- taiwan
 title: like a hoody on a hot day
 wordpress_id: 1061
 wordpress_url: http://www.nata2.org/2005/05/13/like-a-hoody-on-a-hot-day/
@@ -10,4 +25,4 @@ Recently hiromi and myself sent some gifts to a friend of ours in taiwan. I sent
 
 last night mark and i searched far and wide for some superbling for our yoyos. we were not successful. but i did find a great place to buy wholesale stuff. 
 
-and i went to amara's bday party at bungalow. how nice. 
+and i went to amara's bday party at bungalow. how nice.

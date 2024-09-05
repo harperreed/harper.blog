@@ -1,6 +1,19 @@
 ---
-date: 2010-01-17T19:49:55Z
-tags: ["general","phones","nokia","motorola","developing"]
+date: 2010-01-17 19:49:55+00:00
+summary: this post dives into the love for simple mobile phones, highlighting the
+  nokia 1100 and motorola f3 as great examples of basic devices designed for practicality
+  and resilience, especially in developing countries.
+tags:
+- simple technology
+- Nokia 1100
+- developing
+- Motorola F3
+- nokia
+- general
+- motorola
+- developing countries
+- mobile phones
+- phones
 title: 'I love phones designed for developing countries. '
 wordpress_id: 1661
 wordpress_url: http://www.nata2.org/?p=1661

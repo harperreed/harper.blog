@@ -1,11 +1,22 @@
 ---
-date: 2004-01-28T22:03:48Z
+date: 2004-01-28 22:03:48+00:00
 excerpt: I have been workign nigths for WB doing load testing and such - and it is
   so weird being up from 10-4 or so and then sleeping as much as you can from 4-10
   haha. it is hard on me. I get tired real easy and I totally don't have the stamina
   to run around and be merry today. Luckily last night was one of the last ones for
   awhile. work is going well. we have a lot of things going on that are fun - an...
-tags: ["server"]
+summary: "working nights for wb has been tough. sleeping from 4-10 is messing with\
+  \ my stamina, but thankfully it\u2019s almost over. work\u2019s got its fun moments\
+  \ and annoying schemes, but it\u2019ll sort itself out. also, my site\u2019s pulling\
+  \ in 50g of bandwidth a day - that\u2019s wild! planning a drive to add some servers\
+  \ soon. check out this cool article about car salespeople."
+tags:
+- server
+- frustrations
+- night shifts
+- tech life
+- work-life balance
+- internet bandwidth
 title: lock and block
 wordpress_id: 738
 wordpress_url: http://new.nata2.org/?p=738

@@ -1,6 +1,15 @@
 ---
-date: 2007-06-10T19:14:30Z
-tags: ["general"]
+date: 2007-06-10 19:14:30+00:00
+summary: comcast messed up my internet, so i got creative and used an extra WRT54G
+  with openwrt to steal internet from neighbors. it works, but it's slow and annoying.
+  at least my itunes is back up and running!
+tags:
+- OpenWRT
+- general
+- internet issues
+- Comcast
+- networking
+- WRT54G
 title: Fixing my internet.
 wordpress_id: 1456
 wordpress_url: http://www.nata2.org/2007/06/10/fixing-my-internet/

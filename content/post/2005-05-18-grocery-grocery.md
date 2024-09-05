@@ -1,6 +1,17 @@
 ---
-date: 2005-05-18T22:05:19Z
-tags: ["general","books","food","matiss","aliens"]
+date: 2005-05-18 22:05:19+00:00
+summary: today i went to the grocery for food for the first time in years. also, i've
+  been reading an awesome set of alien books!
+tags:
+- general
+- food
+- grocery shopping
+- matiss
+- personal experience
+- alien books
+- aliens
+- reading
+- books
 title: Grocery Grocery
 wordpress_id: 1064
 wordpress_url: http://www.nata2.org/2005/05/18/grocery-grocery/

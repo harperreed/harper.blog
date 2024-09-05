@@ -1,6 +1,21 @@
 ---
-date: 2006-10-08T21:36:31Z
-tags: ["general","bush","politics","annoying","youtube","olbermann","liberal","kieth"]
+date: 2006-10-08 21:36:31+00:00
+summary: the author expresses frustration with the current US administration and shares
+  their experience of cutting cable. they mention discovering keith olbermann and
+  provide a link to a compilation of his videos.
+tags:
+- general
+- Keith Olbermann
+- current events
+- kieth
+- liberal
+- politics
+- youtube
+- media
+- news
+- annoying
+- bush
+- olbermann
 title: Keith Olbermann is pretty awesome.
 wordpress_id: 1355
 wordpress_url: http://www.nata2.org/2006/10/09/keith-olbermann-is-pretty-awesome/

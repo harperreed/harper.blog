@@ -1,6 +1,17 @@
 ---
-date: 2008-02-23T16:54:30Z
-tags: ["technology","community","rails","wired","rant"]
+date: 2008-02-23 16:54:30+00:00
+summary: the author reflects on their tumultuous experience with the rails community
+  and discusses their transition to php, touching on the challenges faced and the
+  negative aspects of the community dynamics.
+tags:
+- Wired
+- rant
+- community
+- rails
+- programming
+- technology
+- wired
+- php
 title: Rails and Wired magazine
 wordpress_id: 1507
 wordpress_url: http://www.nata2.org/2008/02/23/rails-and-wired-magazine/

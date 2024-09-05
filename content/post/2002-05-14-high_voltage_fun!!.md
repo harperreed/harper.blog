@@ -1,10 +1,19 @@
 ---
-date: 2002-05-14T20:10:05Z
+date: 2002-05-14 20:10:05+00:00
 excerpt: 'Once when I was little, I was playing with my jacobs ladder, when my arm
   got stuck in it. This burnt me real bad and made me a littl ebit sad. however, since
   that moment I have always enjoyed high voltage equipment. SO check out this for
   all your antigravity needs or '
-tags: ["mom","humor"]
+summary: a throwback to when my arm got stuck in a jacobs ladder as a kid, sparking
+  my love for high voltage stuff. plus, check out some wild links and funny videos!
+tags:
+- mom
+- humor
+- high voltage
+- childhood memories
+- links round-up
+- jacobs ladder
+- funny videos
 title: high voltage fun!!
 wordpress_id: 282
 wordpress_url: http://new.nata2.org/?p=282

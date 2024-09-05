@@ -1,11 +1,21 @@
 ---
-date: 2001-12-05T12:48:13Z
+date: 2001-12-05 12:48:13+00:00
 excerpt: 'Awhile ago, when I first started dating my girlfriend a friend of mine used
   to allude to my relationship with her as the weather. He would say "hey harper,
   how is the weather" and per the current situation I would tailor the response. Well,
   my humble audience: the weather is great. In all situations... The actual weather
   and my girlfriend. Eveything is nice and smooth and fun. I enjoy it. It is l...'
-tags: ["harper","girlfriend"]
+summary: harper reflects on his relationship with k*star, comparing it to the weather.
+  he shares that everything is great, smooth, and fun, celebrating their 1.083 years
+  together.
+tags:
+- relationship
+- weather
+- love
+- girlfriend
+- harper
+- happiness
+- dating
 title: The weather...
 wordpress_id: 143
 wordpress_url: http://new.nata2.org/?p=143

@@ -1,11 +1,38 @@
 ---
-date: 2004-03-18T17:10:38Z
+date: 2004-03-18 17:10:38+00:00
 excerpt: so I went and got accupuncture last night. I think I am done for a bit. I
   originally went to alleviate some back pain I had gained from wrestling - however
   the back pain is gone. so wheni arrived yesterday I realized that I really had know
   ailments for her to manipulate. I was perfect. so the session ended up just being
   weird and boring I mean.. it isn't really suppsoed to be entertaining - but ...
-tags: ["reed","phone","blogs","women","war","video","rock","insane","college","chris","coding","birthday","tools","bush","aim","business","irc","religion","hiromi","myspace"]
+summary: went to acupuncture, back pain is gone but session was dull. weird finger
+  needle pain and funky emotions afterwards. chilled at home and hung out after with
+  friends. birthday coming up, feeling a bit off today.
+tags:
+- chris
+- aim
+- back pain
+- women
+- war
+- insane
+- weird experience
+- video
+- emotional side effects
+- coding
+- rock
+- phone
+- religion
+- birthday
+- blogs
+- tools
+- reed
+- myspace
+- business
+- hiromi
+- irc
+- acupuncture
+- college
+- bush
 title: accurate punctures
 wordpress_id: 779
 wordpress_url: http://new.nata2.org/?p=779

@@ -1,11 +1,23 @@
 ---
-date: 2002-11-27T23:33:43Z
+date: 2002-11-27 23:33:43+00:00
 excerpt: so I am traveling to colorado, the colorful colorado mind you, and I brought
   my laptop. so I could watch DVDs and such whilst on the plane. However - I forgot
   to bring my goddamn dvd drive. it is sitting on my desk. suxor am i. I am not as
   happy about this proclamation. However, I did remember to bring cradle of filth...
   and my discman... so that is avail - if I want it. I even have 14 hours of b...
-tags: ["colorado","hacking","laptop","aim","sprint","travel"]
+summary: "traveling to colorado but forgot my dvd drive? classic! at least i\u2019\
+  ve got cradle of filth and my discman. trying to connect to AIM on sprint vision\
+  \ but it's a no-go. time to check out my website for some distraction."
+tags:
+- aim
+- laptop
+- travel
+- hacking
+- colorado
+- tech troubles
+- dvd
+- sprint
+- cradle of filth
 title: heheh. i am dumb :(
 wordpress_id: 406
 wordpress_url: http://new.nata2.org/?p=406

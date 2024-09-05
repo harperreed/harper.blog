@@ -1,6 +1,22 @@
 ---
-date: 2005-06-08T12:49:25Z
-tags: ["general","job","chicago","injured","train","cta","medicine"]
+date: 2005-06-08 12:49:25+00:00
+summary: so i went to the doctor about my foot and found out my diet is messing with
+  it - hey, gout! after a meat binge, i'm hobbling around now. then i had a crazy
+  train ride where it broke down, and this lady was losing it. made me laugh despite
+  the heat and my slow walk to work. summer just jumped in with no warning, too!
+tags:
+- gout
+- summer heat
+- medicine
+- chicago
+- injured
+- job
+- general
+- cta
+- train commute
+- health
+- train
+- funny stories
 title: i live in a russian novel.
 wordpress_id: 1078
 wordpress_url: http://www.nata2.org/2005/06/08/i-live-in-a-russian-novel/

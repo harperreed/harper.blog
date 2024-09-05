@@ -1,9 +1,17 @@
 ---
-date: 2002-04-10T18:51:43Z
-excerpt: "everyone seems to be a bomb designer but myself.. hah.\nthis blew my mind.
-  It is really nice. the layout is crazy. no really its crazy.. really really crazy..
-  crazy like a stick that is. \nno really.. it is crazy"
-tags: ["design"]
+date: 2002-04-10 18:51:43+00:00
+excerpt: "everyone seems to be a bomb designer but myself.. hah.\nthis blew my mind.\
+  \ It is really nice. the layout is crazy. no really its crazy.. really really crazy..\
+  \ crazy like a stick that is. \nno really.. it is crazy"
+summary: everyone's getting into bomb design these days, but this website totally
+  blew my mind. the layout is just crazy, like really crazy. no joke, it's super wild!
+tags:
+- impressive design
+- web design
+- art
+- design
+- bomb design
+- crazy layout
 title: once again...
 wordpress_id: 257
 wordpress_url: http://new.nata2.org/?p=257

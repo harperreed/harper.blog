@@ -1,6 +1,16 @@
 ---
-date: 2008-01-03T23:15:09Z
-tags: ["general","politics","obama"]
+date: 2008-01-03 23:15:09+00:00
+summary: i donated money to obama, my first ever! hoping he and huckabee go head to
+  head - either way, we either get repair or chaos. just got back from an amazing
+  trip to japan, pics are on flickr, will blog about it soon!
+tags:
+- general
+- Obama
+- obama
+- Huckabee
+- donation
+- politics
+- Japan trip
 title: Obama is winning Iowa!
 wordpress_id: 1502
 wordpress_url: http://www.nata2.org/2008/01/03/obama-is-winning-iowa/

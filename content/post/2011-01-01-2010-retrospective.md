@@ -1,5 +1,16 @@
 ---
-date: 2011-01-01T00:00:00Z
+date: 2011-01-01 00:00:00+00:00
+summary: 2010 was a fantastic year filled with time spent on startups, traveling,
+  and personal projects. Highlights include working with Rackspace, launching apps
+  like CTA Alerts and Supertracker, and exploring the Chicago startup scene. The year
+  also involved memorable moments with family and friends, plus tracking health stats
+  and travel adventures. Excited for what 2011 has in store!
+tags:
+- 2010 recap
+- startups
+- technology
+- personal life
+- Chicago
 title: 2010 Retrospective
 ---
 

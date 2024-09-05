@@ -1,10 +1,29 @@
 ---
-date: 2002-11-06T18:29:40Z
-excerpt: "My friend Davidson Cole has made a movie called Design. It is about: \nEighteen-year-old
-  Sonya is struggling to save her father from alcoholism after his wife leaves him.
-  Voyeuristic photographer Nicholas is obsessed with women, yet hides behind the prying
-  lens of his camera. Cursed factory wo..."
-tags: ["php","women","war","sick","movies","source","design","health","irc","politic","wedding"]
+date: 2002-11-06 18:29:40+00:00
+excerpt: "My friend Davidson Cole has made a movie called Design. It is about: \n\
+  Eighteen-year-old Sonya is struggling to save her father from alcoholism after his\
+  \ wife leaves him. Voyeuristic photographer Nicholas is obsessed with women, yet\
+  \ hides behind the prying lens of his camera. Cursed factory wo..."
+summary: my friend davidson cole has a movie called design playing at the art institute
+  this sunday at 7:30. it follows three intersecting stories about personal struggles
+  and relationships. arrive at 7:00 with $5. should be good!
+tags:
+- women
+- war
+- wedding
+- source
+- design
+- politic
+- php
+- irc
+- health
+- Davidson Cole
+- art institute
+- sick
+- movies
+- storytelling
+- Design movie
+- film screening
 title: davidson's movie.
 wordpress_id: 390
 wordpress_url: http://new.nata2.org/?p=390

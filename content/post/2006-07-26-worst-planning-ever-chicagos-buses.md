@@ -1,6 +1,20 @@
 ---
-date: 2006-07-26T04:30:00Z
-tags: ["general","chicago","design","cta","public-transportation","planning"]
+date: 2006-07-26 04:30:00+00:00
+summary: riding the cta bus is a real pain, especially with the new design that totally
+  messes up card swiping. the setup is confusing and makes boarding a hassle, leading
+  to awkward encounters and long waits. seriously, what were they thinking?
+tags:
+- bus design
+- design
+- CTA
+- public-transportation
+- chicago
+- transportation issues
+- cta
+- general
+- planning
+- Chicago
+- public transportation
 title: Worst planning ever. Chicago's buses
 wordpress_id: 1313
 wordpress_url: http://www.nata2.org/2006/07/26/worst-planning-ever-chicagos-buses/

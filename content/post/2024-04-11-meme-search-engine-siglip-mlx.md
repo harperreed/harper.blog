@@ -1,8 +1,21 @@
 ---
-title: I accidentally built a meme search engine
-date: 2024-04-12T09:00:00-05:00
-description: "I built a magical meme search engine using siglip/CLIP and vector encoding images. It was a fun way to learn about this powerful technology. I'm sharing the code so you can build your own and discover forgotten gems in your photo library. Let's unleash the power of AI on our images!"
+date: 2024-04-12 09:00:00-05:00
+description: I built a magical meme search engine using siglip/CLIP and vector encoding
+  images. It was a fun way to learn about this powerful technology. I'm sharing the
+  code so you can build your own and discover forgotten gems in your photo library.
+  Let's unleash the power of AI on our images!
 draft: false
+summary: i built a meme search engine using siglip/CLIP and vector encoding images.
+  it was a fun project that taught me a ton about vector embeddings and how to work
+  with image databases. definitely magical results when searching through my meme
+  collection.
+tags:
+- ai
+- vector embeddings
+- image search
+- CLIP
+- memes
+title: I accidentally built a meme search engine
 ---
 
 ## Or: how to learn about clip/siglip and vector encoding images

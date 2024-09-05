@@ -1,6 +1,16 @@
 ---
-date: 2006-07-18T03:57:50Z
-tags: ["technology","technology"]
+date: 2006-07-18 03:57:50+00:00
+summary: "tonight i\u2019m checking out VOX by Six Apart\u2014it's pretty slick and\
+  \ social. love the app's design and integration with services like amazon and flickr,\
+  \ but annoyed i can\u2019t just import my stuff easily. also, why start a new blog?\
+  \ been loyal since 1999. let\u2019s keep it simple, right? oh, and if anyone\u2019\
+  s got a writely invite, hit me up!"
+tags:
+- VOX
+- blogging
+- Six Apart
+- technology
+- social network
 title: 'Six Apart''s Vox - nice work.. good aggregation... but i don''t want another
   blog. '
 wordpress_id: 1308

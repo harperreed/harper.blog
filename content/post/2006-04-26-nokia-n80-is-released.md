@@ -1,6 +1,23 @@
 ---
-date: 2006-04-26T01:48:47Z
-tags: ["general","technology","phones","nokia","voip","sip","n80","e60"]
+date: 2006-04-26 01:48:47+00:00
+summary: the nokia N80 is now available, featuring a great camera, solid os, and wifi
+  support. while it lacks voip capabilities, the fast media upload and browsing potential
+  are highlights. 3rd party apps like an rss reader and im support could enhance its
+  functionality. i'm also eyeing the e60 for voip support to replace my current phone.
+tags:
+- nokia
+- general
+- VOIP
+- n80
+- e60
+- mobile tech
+- technology
+- wifi
+- sip
+- Nokia N80
+- smartphones
+- phones
+- voip
 title: Nokia N80 is released
 wordpress_id: 1256
 wordpress_url: http://www.nata2.org/2006/04/26/nokia-n80-is-released/

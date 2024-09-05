@@ -1,6 +1,15 @@
 ---
-date: 2006-05-30T19:33:52Z
-tags: ["general"]
+date: 2006-05-30 19:33:52+00:00
+summary: this past weekend was super fun and hot. went to dinner with friends, caught
+  a SUNN 0))) show, and celebrated a birthday party. chatted about flickr's new look
+  and hit up a BBQ. ended with some messy drinking and watching X-Men. good times!
+tags:
+- general
+- weekend recap
+- flickr
+- concerts
+- X-Men
+- birthday party
 title: 'DRONE! Flickr, holiday weekends, birthdays and fun. stupid stupid fun. '
 wordpress_id: 1278
 wordpress_url: http://www.nata2.org/2006/05/30/drone-flickr-holiday-weekends-birthdays-and-fun-stupid-stupid-fun/

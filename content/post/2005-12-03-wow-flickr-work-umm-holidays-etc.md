@@ -1,6 +1,22 @@
 ---
-date: 2005-12-03T19:39:47Z
-tags: ["general","books","crobar","politics","travel","holidays","awesome","party"]
+date: 2005-12-03 19:39:47+00:00
+summary: had an awesome thanksgiving weekend with family, featuring fur vests, a catapult,
+  and lots of fun. read some good books on the way back and excited for more adventures
+  ahead!
+tags:
+- book recommendations
+- general
+- awesome
+- thanksgiving
+- family fun
+- fur vests
+- politics
+- travel
+- crobar
+- holidays
+- party
+- books
+- catapult
 title: 'wow. flickr. work. umm... holidays. etc. '
 wordpress_id: 1152
 wordpress_url: http://www.nata2.org/2005/12/03/wow-flickr-work-umm-holidays-etc/
@@ -16,4 +32,4 @@ I am still uploading hundreds of pictures a minute to flickr with shozo. it is p
 
 Tonight i am going to crobar to see hilary clinton. Hopefully i will get some pictures. I want to become illumanati.
 
-Hiormi is coming to visit on the 19th. i am excited. 
+Hiormi is coming to visit on the 19th. i am excited.

@@ -1,6 +1,24 @@
 ---
-date: 2006-08-14T04:25:13Z
-tags: ["technology","search","applications","wikipedia","software","endeca","open-source","solutions","oss"]
+date: 2006-08-14 04:25:13+00:00
+summary: the post rambles about the dilemma organizations face when needing a closed
+  source solution despite an open source philosophy. it suggests that transparency
+  about this need could encourage the community to develop better open source options,
+  using examples like JBOSS and endeca in the discussion.
+tags:
+- software
+- wikipedia
+- solutions
+- oss
+- search engines
+- open source
+- technology
+- closed source
+- search
+- endeca
+- JBOSS
+- philosophy
+- applications
+- open-source
 title: What happens when open source needs a closed source solution?
 wordpress_id: 1322
 wordpress_url: http://www.nata2.org/2006/08/14/what-happens-when-open-source-needs-a-closed-source-solution/

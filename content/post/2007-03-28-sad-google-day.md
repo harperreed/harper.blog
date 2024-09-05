@@ -1,6 +1,16 @@
 ---
-date: 2007-03-28T14:20:54Z
-tags: ["technology","technology","google","sad","seo"]
+date: 2007-03-28 14:20:54+00:00
+summary: "not happy with google today \u2013 my site isn\u2019t the top result for\
+  \ harper reed anymore. gotta step up my seo game. but hey, looks like harperreed.com\
+  \ dropped, and now i'm back on top. woohoo!"
+tags:
+- seo
+- blogging
+- technology
+- sad
+- google
+- search ranking
+- harper reed
 title: Sad Google day.
 wordpress_id: 1426
 wordpress_url: http://www.nata2.org/2007/03/28/sad-google-day/

@@ -1,6 +1,22 @@
 ---
-date: 2005-11-23T19:18:17Z
-tags: ["general","travel","awesome","airport","lynx","unix"]
+date: 2005-11-23 19:18:17+00:00
+summary: "sitting in midway waiting for my flight, but websense is blocking my sites,\
+  \ so i'm ssh'ing into my server to post this. working on setting up subversion and\
+  \ trac for skinny, feeling pretty awesome about it. heading to colorado to build\
+  \ a catapult and shoot jon into wyoming for thanksgiving - that\u2019s gonna be\
+  \ epic. oh, and i got a new nokia n70 that rocks, especially with this shozu app\
+  \ for uploading pics to flickr. w00t!"
+tags:
+- awesome
+- thanksgiving
+- ssh
+- lynx
+- travel
+- unix
+- airport
+- general
+- nokia
+- technology
 title: Airport internet. Free. W00t. Blocked.
 wordpress_id: 1151
 wordpress_url: http://www.nata2.org/2005/11/23/airport-internet-free-w00t-blocked/

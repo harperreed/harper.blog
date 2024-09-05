@@ -1,10 +1,21 @@
 ---
-date: 2001-12-21T17:57:32Z
+date: 2001-12-21 17:57:32+00:00
 excerpt: I was reading through a bunch of sites and I noticed some quite interesting
   movements in the "world." First off, the incredible epiphany that two thrids of
   the world thinks that the U.S. is brought the terror onto itself. Also, in a very
   scary move, China has apparently...
-tags: ["chicago","sites","bush"]
+summary: 'interesting movements in the world: two thirds think the us caused its own
+  terror, china''s support for al-Qaeda, and a domestic threat from tactical nukes,
+  plus chicago''s murder rate is through the roof.'
+tags:
+- china
+- us foreign policy
+- global opinions
+- terrorism
+- sites
+- domestic security
+- chicago
+- bush
 title: Well... we may be in trouble
 wordpress_id: 150
 wordpress_url: http://new.nata2.org/?p=150

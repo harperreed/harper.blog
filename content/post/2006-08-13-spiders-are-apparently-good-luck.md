@@ -1,6 +1,19 @@
 ---
-date: 2006-08-13T19:48:34Z
-tags: ["general","movies","juggling","spiders"]
+date: 2006-08-13 19:48:34+00:00
+summary: "spotted a tiny spider on my screen and now i feel like it\u2019s crawling\
+  \ on me! also, super stoked about seeing michel gondry's new movie and heading to\
+  \ tokyo with my dad in 2 weeks. had a blast at marcus monroe's juggling show\u2014\
+  juggling was epic, but not so much on the music or magician."
+tags:
+- general
+- spider
+- juggling show
+- Tokyo trip
+- juggling
+- spiders
+- Michel Gondry
+- movies
+- entertainment
 title: spiders are apparently good luck
 wordpress_id: 1321
 wordpress_url: http://www.nata2.org/2006/08/13/spiders-are-apparently-good-luck/

@@ -1,6 +1,23 @@
 ---
-date: 2006-07-31T13:16:16Z
-tags: ["technology","search","web-20","wikipedia","joel-on-software","joel","software","endeca","encycopedia"]
+date: 2006-07-31 13:16:16+00:00
+summary: the post discusses how wikipedia really needs a better search engine, comparing
+  it to joel on software's good search engine. it points out the irony of the situation,
+  questioning why google helped joel but not wikipedia, and expresses frustration
+  over the poor search functionality on such an important platform.
+tags:
+- web-20
+- wikipedia
+- software
+- joel on software
+- joel-on-software
+- technology
+- search
+- endeca
+- encycopedia
+- seth godin
+- search engine
+- joel
+- web 2.0
 title: 'Goddamn Joel on software''s new google search appliance. '
 wordpress_id: 1315
 wordpress_url: http://www.nata2.org/2006/07/31/goddamn-joel-on-softwares-new-google-search-appliance/

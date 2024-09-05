@@ -1,8 +1,30 @@
 ---
-date: 2005-03-04T18:56:47Z
+date: 2005-03-04 18:56:47+00:00
 excerpt: Those are my cousins. of course they are awesome. and I will be hanging out
   with them tomorrow. it should be fun. I am flying out tonight....
-tags: ["general","harper","dylan","reed","family","phone","war","watership","screensaver","development","itunes","blogger","itunesblogger","wordpress","symbian"]
+summary: spending time with awesome cousins tomorrow, delivering a new site, and making
+  my blog fancier. working on projects like idea safari and a screensaver for livejournal.
+  feeling productive and loving subversion!
+tags:
+- development
+- coding
+- wordpress
+- phone
+- reed
+- dylan
+- blogger
+- blogging
+- screensaver
+- war
+- itunesblogger
+- itunes
+- travel
+- harper
+- watership
+- general
+- symbian
+- projects
+- family
 title: by the time I get to arizona...
 wordpress_id: 1001
 wordpress_url: http://new.nata2.org/?p=1001

@@ -1,8 +1,15 @@
 ---
-date: 2002-06-20T19:58:10Z
-excerpt: |
-  this video is totally out of hand.
-tags: ["video","humor"]
+date: 2002-06-20 19:58:10+00:00
+excerpt: 'this video is totally out of hand.
+
+  '
+summary: this video is totally out of hand.
+tags:
+- humor
+- crazy
+- video
+- wild
+- funny
 title: out of hand.
 wordpress_id: 300
 wordpress_url: http://new.nata2.org/?p=300

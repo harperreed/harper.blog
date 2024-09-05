@@ -1,11 +1,23 @@
 ---
-date: 2004-11-20T20:44:15Z
+date: 2004-11-20 20:44:15+00:00
 excerpt: work is awesome again. on friday I did a bunch of stuff getting acclimated
   with flash and such. kinda fun. then I got bored and wne to drop off some cds to
   my "boss." he was in his office with this dude listening to music. they were listening
   to death from above 1979. so I hung out and we all talked about death metal for
   about 40 minutes. totally awesome. I love it. then me and some fri...
-tags: ["colorado","rock","metal","music","ipod"]
+summary: had a fun day at work getting into flash and chatting about death metal with
+  my boss. went out with friends, got tipsy, and crashed hard. flew to colorado, napped
+  a lot, and saw pretty snow. oh, and my free ipod order is in process. cat's being
+  clingy now. hehe.
+tags:
+- music
+- cats
+- work
+- ipod
+- metal
+- rock
+- naps
+- colorado
 title: i just woke up and i have bad breath.
 wordpress_id: 963
 wordpress_url: http://new.nata2.org/?p=963
@@ -18,5 +30,4 @@ work is awesome again. on friday I did a bunch of stuff getting acclimated with 
 hbbbbb87So 
 </small>
 </blockquote>
-hehe. there yea go cat people. in your own language. 
-
+hehe. there yea go cat people. in your own language.

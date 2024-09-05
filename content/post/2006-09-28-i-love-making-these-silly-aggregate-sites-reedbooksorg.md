@@ -1,6 +1,22 @@
 ---
-date: 2006-09-28T03:01:20Z
-tags: ["general","family","blogs","money","rss","aggregation","mashup"]
+date: 2006-09-28 03:01:20+00:00
+summary: "i created a few blogs, starting with thestoryofharper.com, then made hiromiandharper.com\
+  \ and blogs.nata2.org. tonight i revamped reedbooks.org to aggregate family blogs\
+  \ using RSS feeds and flickr pics. just making it easier to check out everyone's\
+  \ updates. who knows what i'll do next\u2014maybe make some money!"
+tags:
+- blogging
+- rss
+- website development
+- aggregation
+- personal projects
+- money
+- mashup
+- blog aggregation
+- general
+- blogs
+- RSS feeds
+- family
 title: I love making these silly aggregate sites - reedbooks.org
 wordpress_id: 1354
 wordpress_url: http://www.nata2.org/2006/09/28/i-love-making-these-silly-aggregate-sites-reedbooksorg/

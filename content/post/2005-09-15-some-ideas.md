@@ -1,6 +1,22 @@
 ---
-date: 2005-09-15T02:10:46Z
-tags: ["general","food","crobar","fun","ideas","travel","bike"]
+date: 2005-09-15 02:10:46+00:00
+summary: today was cool. thought up a bunch of interesting ideas but i'm super tired.
+  watched entourage and went to an entourage party at crobar after juggling club.
+  someone recognized me on the train from my blog. need more sleep or food. mom's
+  coming tomorrow - hope we hit up x/o. thinking of starting a mini blog for random
+  ideas.
+tags:
+- bike
+- blogging
+- ideas
+- entourage
+- travel
+- tired
+- life updates
+- general
+- fun
+- food
+- crobar
 title: 'some ideas. '
 wordpress_id: 1129
 wordpress_url: http://www.nata2.org/2005/09/15/some-ideas/
@@ -14,4 +30,4 @@ i need more sleep or more food. so i am not so tired.
 
 my mom comes tomorrow. i hope we goto X/O
 
-i think i am going to make a mini blog that is just ideas. and thoughts. like about security. it will be tag based - so you can read all blurbs about security, or all blurbs about linux or whatever. just one sentence to one paragraph blurbs. i will call it a blog. 
+i think i am going to make a mini blog that is just ideas. and thoughts. like about security. it will be tag based - so you can read all blurbs about security, or all blurbs about linux or whatever. just one sentence to one paragraph blurbs. i will call it a blog.

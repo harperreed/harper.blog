@@ -1,6 +1,22 @@
 ---
-date: 2006-09-24T00:45:28Z
-tags: ["general","phones","nokia","sad","sim-card","toasted","puk","pin"]
+date: 2006-09-24 00:45:28+00:00
+summary: "had a little mishap on the train with my phone and my sim card is totally\
+  \ fried. nokia's security settings are brutal! called tmobile and they were like\
+  \ 'you are screwed.' now i'm stuck without calls or texts, using my friend\u2019\
+  s internet and dreaming of better days."
+tags:
+- sim card
+- nokia
+- general
+- frying sim
+- tmobile
+- sad
+- puk
+- phone issues
+- pin
+- toasted
+- phones
+- sim-card
 title: Goddamn fancy phones
 wordpress_id: 1350
 wordpress_url: http://www.nata2.org/2006/09/24/goddamn-fancy-phones/

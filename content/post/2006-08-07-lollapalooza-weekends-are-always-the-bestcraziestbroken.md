@@ -1,6 +1,19 @@
 ---
-date: 2006-08-07T01:45:59Z
-tags: ["general","chicago","crobar","parties","party","lollapalooza"]
+date: 2006-08-07 01:45:59+00:00
+summary: super tired after three days of epic parties, including kill hannah at crobar
+  and the kanye party at hard rock. had a blast but now feeling totally burned out.
+  haha.
+tags:
+- parties
+- chicago
+- burnout
+- party
+- general
+- fun
+- Chicago
+- lollapalooza
+- crobar
+- nightlife
 title: lollapalooza weekends are always the best/craziest/broken
 wordpress_id: 1319
 wordpress_url: http://www.nata2.org/2006/08/07/lollapalooza-weekends-are-always-the-bestcraziestbroken/

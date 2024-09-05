@@ -1,6 +1,23 @@
 ---
-date: 2007-01-10T11:39:20Z
-tags: ["technology","social","technology","projects","interesting","television","web-20","beta","p2p","venice-project"]
+date: 2007-01-10 11:39:20+00:00
+summary: the venice project is a p2p social tv platform from the skype creators, and
+  i'm stoked to be part of the beta. played with it at work, and the picture quality
+  is impressive. excited to see how it develops and can't wait to share invites!
+tags:
+- web-20
+- Venice Project
+- venice-project
+- Skype
+- television
+- technology
+- p2p
+- interesting
+- social
+- P2P television
+- projects
+- entertainment
+- beta
+- beta testing
 title: I got a Venice Project beta test
 wordpress_id: 1404
 wordpress_url: http://www.nata2.org/2007/01/10/i-got-a-venice-project-beta-test/

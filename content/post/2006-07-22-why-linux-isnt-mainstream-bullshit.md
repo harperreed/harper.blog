@@ -1,6 +1,17 @@
 ---
-date: 2006-07-22T20:58:10Z
-tags: ["technology","linux","rants"]
+date: 2006-07-22 20:58:10+00:00
+summary: the author argues that while linux isn't the mainstream consumer OS, it's
+  definitely a solid choice in the tech world. they critique a recent article for
+  missing the point that business decision makers often stick to what they're comfortable
+  with rather than exploring better tech solutions.
+tags:
+- mainstream
+- IT solutions
+- technology
+- tech
+- business decisions
+- linux
+- rants
 title: Why linux isn't mainstream? Bullshit!
 wordpress_id: 1310
 wordpress_url: http://www.nata2.org/2006/07/22/why-linux-isnt-mainstream-bullshit/

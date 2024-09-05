@@ -1,6 +1,22 @@
 ---
-date: 2006-09-13T18:33:53Z
-tags: ["general","php","music","fun","hiromi","muse","website","rss","aggregation"]
+date: 2006-09-13 18:33:53+00:00
+summary: check out this amazing music video that got me hooked on muse, plus i made
+  a cool website to aggregate our blogs and pictures.
+tags:
+- blog aggregation
+- general
+- fun
+- website
+- rss
+- php
+- hiromi
+- aggregation
+- Muse
+- music
+- muse
+- music video
+- Hiromi and Harper
+- Flickr
 title: a couple things
 wordpress_id: 1343
 wordpress_url: http://www.nata2.org/2006/09/13/a-couple-things/

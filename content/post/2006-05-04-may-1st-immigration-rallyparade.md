@@ -1,6 +1,23 @@
 ---
-date: 2006-05-04T03:08:47Z
-tags: ["general","chicago","rights","protest","immigration","rally","hr4437","1mayhuelga"]
+date: 2006-05-04 03:08:47+00:00
+summary: on monday, i hit up the immigration rally in chicago with charlie, and it
+  was an epic experience. so many people showed up, and the vibe was unreal. we started
+  at division and ashland, marched to union park, and then got to walk down a bunch
+  of streets. had to leave around 1pm, but it was totally worth it. check out my pics
+  on flickr and stay tuned for the movie!
+tags:
+- general
+- immigration
+- 1mayhuelga
+- hr4437
+- flickr
+- protest
+- chicago
+- rally
+- immigration rally
+- rights
+- friendship
+- activism
 title: May 1st Immigration Rally/Parade
 wordpress_id: 1258
 wordpress_url: http://www.nata2.org/2006/05/04/may-1st-immigration-rallyparade/

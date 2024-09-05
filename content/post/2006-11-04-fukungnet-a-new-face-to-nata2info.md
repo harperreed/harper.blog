@@ -1,6 +1,17 @@
 ---
-date: 2006-11-04T16:48:08Z
-tags: ["technology","sites","humor","fukung"]
+date: 2006-11-04 16:48:08+00:00
+summary: after realizing i had a bunch of unused domains, i decided to do something
+  with fukung.net. turned it into a simple picture archive linked to nata2.info, making
+  it easy to add tags, share images, and track popularity. hoping people dig it!
+tags:
+- web development
+- humor
+- personal projects
+- fukung
+- sites
+- technology
+- nata2.info
+- domain management
 title: fukung.net - a new face to nata2.info
 wordpress_id: 1380
 wordpress_url: http://www.nata2.org/2006/11/04/fukungnet-a-new-face-to-nata2info/

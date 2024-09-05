@@ -1,6 +1,16 @@
 ---
-date: 2007-06-10T15:34:19Z
-tags: ["general"]
+date: 2007-06-10 15:34:19+00:00
+summary: the blog post discusses skinnyCorp's search for a reliable wifi access point
+  provider, highlighting their previous struggles with Linksys and WDS. they found
+  success with Meraki, which offered easy setup and management through their web dashboard,
+  though they noted a drawback in the need for internet connectivity for configuration.
+tags:
+- Meraki
+- general
+- network solutions
+- access points
+- technology
+- wifi
 title: 'Meraki: mesh wifi for the rest of us'
 wordpress_id: 1455
 wordpress_url: http://www.nata2.org/2007/06/10/meraki-mesh-wifi-for-the-rest-of-us/

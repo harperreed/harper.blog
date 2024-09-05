@@ -1,6 +1,18 @@
 ---
-date: 2007-04-22T16:30:08Z
-tags: ["technology","technology","threadless","travel","california","santa-clara","skinnycorp","mysqlconf","mysql"]
+date: 2007-04-22 16:30:08+00:00
+summary: "ivan and i are in santa clara for the mysql conference. we're pumped to\
+  \ learn about making threadless really fast and excited to chat with the rackspace\
+  \ crew. stay tuned for updates and let\u2019s grab a drink if you're here!"
+tags:
+- california
+- skinnycorp
+- technology
+- threadless
+- travel
+- santa-clara
+- mysqlconf
+- mysql
+- santa clara
 title: Sitting in the hotel lobby...
 wordpress_id: 1437
 wordpress_url: http://www.nata2.org/2007/04/22/sitting-in-the-hotel-lobby/

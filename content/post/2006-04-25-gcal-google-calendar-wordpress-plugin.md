@@ -1,6 +1,15 @@
 ---
-date: 2006-04-25T05:49:37Z
-tags: ["general","technology","technology"]
+date: 2006-04-25 05:49:37+00:00
+summary: i've released my first wordpress plugin that shows google calendar feeds
+  on a blog. check out the plugin and the calendar result!
+tags:
+- web development
+- general
+- blogging tools
+- technology
+- wordpress plugin
+- google calendar
+- calendar integration
 title: 'gcal: google calendar wordpress plugin'
 wordpress_id: 1255
 wordpress_url: http://www.nata2.org/2006/04/25/gcal-google-calendar-wordpress-plugin/

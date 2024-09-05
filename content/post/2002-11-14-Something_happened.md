@@ -1,7 +1,17 @@
 ---
-date: 2002-11-14T08:26:05Z
+date: 2002-11-14 08:26:05+00:00
 excerpt: So I guess reality is stranger than fiction.In other news, I got t...
-tags: ["google","screensaver"]
+summary: just got the new lord of the rings dvd and it's seriously amazing. the extended
+  stuff is awesome and now i really wanna get that new tv. thinking about ordering
+  it tonight or tomorrow. yeehaa!
+tags:
+- tv upgrade
+- screensaver
+- dvd
+- lotr
+- google
+- extended edition
+- geeking out
 title: Something happened
 wordpress_id: 400
 wordpress_url: http://new.nata2.org/?p=400

@@ -1,10 +1,21 @@
 ---
-date: 2004-06-18T19:50:11Z
-excerpt: "seriously. everything is breaking. but I feel we are successfully fixing
-  it. umm.. \nlinuXKilla: roxor= rock\nlinuXKilla: suxor = suck\nlinuXKilla: fuxor=fuck\ntellerific
-  x: hahah dorxor?\n\nmy life rules. apparently the shins are tonight. it should be
-  fun. I like them. but currently - cradle of filth is ..."
-tags: ["phone","rock","linux"]
+date: 2004-06-18 19:50:11+00:00
+excerpt: "seriously. everything is breaking. but I feel we are successfully fixing\
+  \ it. umm.. \nlinuXKilla: roxor= rock\nlinuXKilla: suxor = suck\nlinuXKilla: fuxor=fuck\n\
+  tellerific x: hahah dorxor?\n\nmy life rules. apparently the shins are tonight.\
+  \ it should be fun. I like them. but currently - cradle of filth is ..."
+summary: life is a mess but we're fixing it. excited for the shins tonight, but cradle
+  of filth is on blast. missed a bunch of calls, might be tahmour from a payphone.
+  classic!
+tags:
+- phone
+- linuXKilla
+- everything is breaking
+- music
+- cradle of filth
+- the shins
+- linux
+- rock
 title: work is insane
 wordpress_id: 888
 wordpress_url: http://new.nata2.org/?p=888

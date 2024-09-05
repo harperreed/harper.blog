@@ -1,6 +1,22 @@
 ---
-date: 2005-09-01T02:53:31Z
-tags: ["general","skinnycorp","awesome","work","photolog","destruction"]
+date: 2005-09-01 02:53:31+00:00
+summary: new orleans got hit hard by the hurricane, and it's wild to think about how
+  vulnerable we really are. the governor says the city might need to be abandoned,
+  which is just crazy. on a lighter note, at skinnyCorp we had a blast with nerf guns,
+  and i'm working on getting my space set up. also, uncomfortable movies totally stress
+  me out!
+tags:
+- photolog
+- skinnycorp
+- work
+- awesome
+- yoyos
+- destruction
+- new orleans
+- general
+- skinnyCorp
+- relief funds
+- hurricane
 title: 'man... mardi gras is gunna suck this year. '
 wordpress_id: 1123
 wordpress_url: http://www.nata2.org/?p=1123
@@ -16,4 +32,4 @@ yea know. yoyos. i love them.
 
 i need to fix my photolog. i will do that now. 
 
-so. i HATE movies that have uncomfortable situations.. seriously - along came polly, bottlerocket, and the like. the uncomfortableness makes me really uncomfortable. haha. so much so that i am pausing hitch and then fast forwarding it cuz i can't deal with it. it grates on my nerves. but like a horror movie - its nice and fun to have those feelings. although it KILLS me. KILLS. i may have to stop watching and goto bed. 
+so. i HATE movies that have uncomfortable situations.. seriously - along came polly, bottlerocket, and the like. the uncomfortableness makes me really uncomfortable. haha. so much so that i am pausing hitch and then fast forwarding it cuz i can't deal with it. it grates on my nerves. but like a horror movie - its nice and fun to have those feelings. although it KILLS me. KILLS. i may have to stop watching and goto bed.

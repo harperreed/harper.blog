@@ -1,6 +1,27 @@
 ---
-date: 2006-09-13T20:46:05Z
-tags: ["general","harper","family","marriage","fun","hiromi","travel","life","amazing","japan","tokyo","yamanashi","big"]
+date: 2006-09-13 20:46:05+00:00
+summary: hiromi and i are officially married after a wild trip to tokyo filled with
+  bureaucracy and adventures. we explored the city with my dad, hit up some cool spots,
+  and finally tied the knot with her parents. can't wait for her to join me in the
+  u.s.!
+tags:
+- general
+- fun
+- visa
+- big
+- wedding
+- tokyo
+- life
+- marriage
+- hiromi
+- travel
+- amazing
+- japan
+- Hiromi
+- harper
+- family
+- Tokyo
+- yamanashi
 title: Marriage. TOKYO.
 wordpress_id: 1334
 wordpress_url: http://www.nata2.org/2006/09/13/marriage-tokyo/

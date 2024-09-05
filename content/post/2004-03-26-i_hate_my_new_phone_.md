@@ -1,11 +1,38 @@
 ---
-date: 2004-03-26T17:25:11Z
+date: 2004-03-26 17:25:11+00:00
 excerpt: i just hate the fact that I am unable to use MMS. i seriously need to save
   my money. I am always running out of money. wtf. I guess my fasion lifestyle I established
   when I was a baller doesn't transcend well to the non-baller status I am currently
   exhibiting. doh! or lack there of. :(i say this rant as I prepare to go out to sushi
   and a super (hah) club with my friend...
-tags: ["php","phone","cell","blogs","internet","war","community","audrey","chris","linux","design","osx","games","applications","phones","kungfu","hiromi","sushi","nokia"]
+summary: i'm super bummed about not being able to use mms and money woes, but i'm
+  gearing up for a fun sushi dinner and club night with friends. things with morgan
+  are looking up too! also, i'm thinking about getting a camaro and messing with some
+  tech stuff at home. just everyday life, you know?
+tags:
+- chris
+- osx
+- war
+- design
+- cell
+- games
+- relationships
+- community
+- internet
+- moblogging
+- nokia
+- phone
+- blogs
+- php
+- hiromi
+- sushi
+- mms
+- friends
+- kungfu
+- audrey
+- linux
+- applications
+- phones
 title: i hate my new phone.
 wordpress_id: 795
 wordpress_url: http://new.nata2.org/?p=795

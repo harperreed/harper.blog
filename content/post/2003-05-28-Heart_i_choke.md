@@ -1,10 +1,18 @@
 ---
-date: 2003-05-28T18:30:26Z
+date: 2003-05-28 18:30:26+00:00
 excerpt: So today I am supra busy at work. I have to do allll of this stuff that generally
   would be quite annoying.. hoever it is leading to a "better time" and will make
   work a lot more bareable - so I guess that is 'ok.' Umm yea. I am eating an artichoke,
   chicken, mushroom rap.. listening to horrible trance and being bombarded with hotornot
-tags: ["ipod"]
+summary: today's a busy workday with annoying tasks that might actually make things
+  better. snacking on an artichoke, chicken, mushroom wrap while listening to trance
+  and checking out hotornot entries. also, super excited about getting my new ipod!
+tags:
+- work
+- food
+- busy day
+- ipod
+- music
 title: Heart i choke
 wordpress_id: 523
 wordpress_url: http://new.nata2.org/?p=523

@@ -1,10 +1,20 @@
 ---
-date: 2001-10-19T21:39:31Z
+date: 2001-10-19 21:39:31+00:00
 excerpt: '"Fixated offenders are not aware of the inherent detrimental nature of their
   actions because they exhibit a primitive sense of identification with children and
   that coupled with their distorted view of sexuality provokes them to believe that
   their actions are innocuous." - k*star'
-tags: ["war","action","sex"]
+summary: fixated offenders often don't realize how harmful their actions are due to
+  a primitive connection with kids and a twisted view of sexuality.
+tags:
+- fixated offenders
+- war
+- distorted sexuality
+- innocuous actions
+- action
+- sex
+- psychology
+- child identification
 title: A very good sentence...
 wordpress_id: 118
 wordpress_url: http://new.nata2.org/?p=118

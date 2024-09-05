@@ -1,11 +1,26 @@
 ---
-date: 2005-01-14T15:09:12Z
-excerpt: "i really like yoyoing. I made up a couple trick. I am calling it harper
-  rolls. haha. I really can't do it yet. soon. then video. then RULING?!\nthere is
-  a HUGE juggling convention this weekend. but I am sadly going to have to stay home
-  nad work. it sucks. stupid work. always getting in the way. I am going to punch
-  it. right in the head. PUNCH PUNCH PUNCH. \ni picked up a surp..."
-tags: ["harper","phone","video","juggling","business","apple","yoyoing"]
+date: 2005-01-14 15:09:12+00:00
+excerpt: "i really like yoyoing. I made up a couple trick. I am calling it harper\
+  \ rolls. haha. I really can't do it yet. soon. then video. then RULING?!\nthere\
+  \ is a HUGE juggling convention this weekend. but I am sadly going to have to stay\
+  \ home nad work. it sucks. stupid work. always getting in the way. I am going to\
+  \ punch it. right in the head. PUNCH PUNCH PUNCH. \ni picked up a surp..."
+summary: "i'm into yoyoing and made up a trick called harper rolls, but can't do it\
+  \ yet. there\u2019s a big juggling convention this weekend, but i have to work instead\
+  \ and it's super annoying. i got a mac mini to manage my stuff, and i\u2019m pretty\
+  \ stoked about it. can\u2019t wait for my project to wrap up. love."
+tags:
+- juggling convention
+- juggling
+- mac mini
+- video
+- apple
+- harper
+- phone
+- personal update
+- business
+- yoyoing
+- funny anecdotes
 title: oh yea. says the octagon
 wordpress_id: 979
 wordpress_url: http://new.nata2.org/?p=979

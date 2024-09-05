@@ -1,6 +1,20 @@
 ---
-date: 2009-01-11T16:05:55Z
-tags: ["general","harper","meme","seven-things","about-me"]
+date: 2009-01-11 16:05:55+00:00
+summary: "i was tagged by eli and brian in this meme about sharing seven things about\
+  \ me. here\u2019s my list: i grew up without a tv, i juggled for crowds, i had an\
+  \ apple ][c, i married my awesome wife hiromi, i read a lot, i love david bowie,\
+  \ and i switched to computer science after studying the history of catholicism.\
+  \ now it's time to tag some friends!"
+tags:
+- life experiences
+- blogging
+- seven-things
+- harper
+- seven things
+- general
+- meme
+- personal anecdotes
+- about-me
 title: Seven Things (goddamn internet friends)
 wordpress_id: 1601
 wordpress_url: http://www.nata2.org/2009/01/11/seven-things-goddamn-internet-friends/

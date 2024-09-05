@@ -1,6 +1,20 @@
 ---
-date: 2006-12-19T01:47:51Z
-tags: ["general","christmas","fun","holidays","parties"]
+date: 2006-12-19 01:47:51+00:00
+summary: last weekend was the skinnyCorp Christmas party, and it was an epic time
+  full of secret Santa, bowling, drinks, and fun with friends. we had some laughs,
+  made new connections, and even celebrated some engagements. overall, a weekend to
+  remember!
+tags:
+- parties
+- debauchery
+- Christmas party
+- secret Santa
+- christmas
+- holidays
+- general
+- fun
+- weekend recap
+- skinnyCorp
 title: Christmas parties are pretty awesome.
 wordpress_id: 1397
 wordpress_url: http://www.nata2.org/2006/12/19/christmas-parties-are-pretty-awesome/

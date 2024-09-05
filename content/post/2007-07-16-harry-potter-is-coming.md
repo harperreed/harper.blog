@@ -1,6 +1,15 @@
 ---
-date: 2007-07-16T05:07:06Z
-tags: ["general","books","harry-potter","reading"]
+date: 2007-07-16 05:07:06+00:00
+summary: "the final harry potter book is dropping soon, and i can\u2019t wait to binge\
+  \ it in a day like last time. it might be even harder this go around. we shall see!"
+tags:
+- general
+- harry-potter
+- book release
+- reading challenge
+- harry potter
+- reading
+- books
 title: Harry Potter is coming.
 wordpress_id: 1466
 wordpress_url: http://www.nata2.org/2007/07/16/harry-potter-is-coming/

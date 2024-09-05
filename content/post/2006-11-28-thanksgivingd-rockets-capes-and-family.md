@@ -1,6 +1,19 @@
 ---
-date: 2006-11-28T01:06:21Z
-tags: ["general","family","colorado","vacation","holidays","insanity","thanksgiving","rockets","capes"]
+date: 2006-11-28 01:06:21+00:00
+summary: had a blast in colorado with family and friends, from tasting nasty thanksgiving
+  soda to shooting rockets and making capes. wrapped it up with some great meals and
+  good laughs before heading back to chicago.
+tags:
+- vegan food
+- general
+- rockets
+- thanksgiving
+- vacation
+- insanity
+- capes
+- holidays
+- family
+- colorado
 title: 'Thanksgiving''d: Rockets, Capes and family'
 wordpress_id: 1390
 wordpress_url: http://www.nata2.org/2006/11/28/thanksgivingd-rockets-capes-and-family/

@@ -1,6 +1,31 @@
 ---
-date: 2005-05-23T00:06:55Z
-tags: ["general","books","hacking","crobar","programming","music","wedding","hiromi","google","hacks","ruby","rails","trex","bike","danielle","psp"]
+date: 2005-05-23 00:06:55+00:00
+summary: this weekend was wild. hit up the fischerspooner show, chilled with friends,
+  and hacked together a chicago sex offenders registry on google maps. also got some
+  fun stuff like scarface and watched The Office. ended the night geeking out about
+  projects and books. solid weekend!
+tags:
+- hacks
+- bike
+- wedding
+- Google Maps
+- music
+- rails
+- hacking
+- psp
+- PSP hacks
+- danielle
+- general
+- weekend recap
+- programming
+- Fischerspooner
+- ruby
+- trex
+- Chicago
+- hiromi
+- crobar
+- google
+- books
 title: 'see.. i told you so. '
 wordpress_id: 1068
 wordpress_url: http://www.nata2.org/2005/05/23/see-i-told-you-so/
@@ -35,4 +60,4 @@ hah.
 
 ok. done. i gotta go read book four of my worm books. 
 
-es ist worm. 
+es ist worm.

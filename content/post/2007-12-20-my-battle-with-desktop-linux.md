@@ -1,6 +1,21 @@
 ---
-date: 2007-12-20T12:52:15Z
-tags: ["technology","linux","ubuntu","desktop-linux","computering","vpn"]
+date: 2007-12-20 12:52:15+00:00
+summary: switched to linux on my laptop, but had to go back to windows due to work
+  issues with openvpn and cisco vpn. feeling bummed, but moved my linux setup to vmware.
+  got a smaller laptop for casual use and now it's my linux machine. fingers crossed
+  for fixing the vpn to switch back full time!
+tags:
+- Desktop Usability
+- vpn
+- VPN
+- computering
+- Linux
+- Windows
+- desktop-linux
+- technology
+- Virtual Machine
+- linux
+- ubuntu
 title: My battle with desktop Linux
 wordpress_id: 1500
 wordpress_url: http://www.nata2.org/2007/12/20/my-battle-with-desktop-linux/

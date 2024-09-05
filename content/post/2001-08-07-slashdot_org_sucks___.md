@@ -1,10 +1,23 @@
 ---
-date: 2001-08-07T21:34:38Z
+date: 2001-08-07 21:34:38+00:00
 excerpt: So somehow, a site that I host got slashdotted on monday. It was crazy, I
   was working on the site around 5:30. I left work and went home, arriving around
   6:00. My audrey said that she couldn't connect to my mail server around 6:10. So
   i am ...
-tags: ["server","hacking","audreyhacking","audrey"]
+summary: so my site got slashdotted on monday and it was wild. was working on it around
+  5:30, got home at 6, and my audrey said she couldn't connect to the mail server
+  at 6:10. looks like i lasted about 30min before everything went haywire. wish i
+  had more ram! check out the slashdot story here.
+tags:
+- hosting
+- server
+- website
+- slashdot
+- ramupgrade
+- audreyhacking
+- audrey
+- hacking
+- serverissues
 title: slashdot.org sucks...
 wordpress_id: 24
 wordpress_url: http://new.nata2.org/?p=24

@@ -1,6 +1,17 @@
 ---
-date: 2005-02-01T10:02:29Z
-tags: ["general"]
+date: 2005-02-01 10:02:29+00:00
+summary: "i got a free ipod mini and it was a total scam \u2013 just save your cash.\
+  \ then i tried a mac mini; the design and OS are nice, but as a lifelong pc user,\
+  \ i found macs too easy and boring. i couldn\u2019t mess with it the way i could\
+  \ with windows. it's like being in a padded room. still, the interface is smooth,\
+  \ so i haven't ditched it yet."
+tags:
+- general
+- mac mini
+- ipod mini
+- computing
+- tech review
+- linux
 title: Ipod Mini, Mac Mini and padded rooms.
 wordpress_id: 1177
 wordpress_url: http://www.nata2.org/2005/02/01/ipod-mini-mac-mini-and-padded-rooms/

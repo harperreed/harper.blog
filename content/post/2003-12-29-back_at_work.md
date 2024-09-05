@@ -1,11 +1,28 @@
 ---
-date: 2003-12-29T17:14:53Z
+date: 2003-12-29 17:14:53+00:00
 excerpt: 'so work is going wellish. I guess as well as work always goes. I am excited
   to be back. all the silliness and problems beware - I am prepared to attack ;)so
   I really enjoy reading peoples blogs and now that I have discovered the love of
   the rss aggregators and the wonders of OPML I really appreciate all that it does
   for me. I was reading my morning blogs when I stumbled upon '
-tags: ["blogs","search","war","community","video","chris","christmas","brooks"]
+summary: work's going wellish, excited to be back despite the usual silliness. loving
+  my new rss tools and stumbled on a cool site called del.icio.us for bookmarks. had
+  a total fail with brookstone on a holiday gift, but now ready to tackle customer
+  service. also, thinking of sprucing up my ambient device.
+tags:
+- brooks
+- chris
+- blogging
+- blogs
+- work updates
+- war
+- rss feeds
+- search
+- video
+- community
+- christmas
+- ambient devices
+- customer service
 title: back at work
 wordpress_id: 707
 wordpress_url: http://new.nata2.org/?p=707

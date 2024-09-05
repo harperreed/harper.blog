@@ -1,11 +1,23 @@
 ---
-date: 2002-01-14T07:07:46Z
-excerpt: "Well. I went to milwaukee last night for a friends b-day party. It was funny.
-  I haven't hung out in the college environment in awhile. It is a little wierd. Especially
-  the \"wisconson\" college environment. Everyone has a little twang to their speech
-  and they are all big drinkers. I guess that couldbe just college. There were pretty
-  girls there. That is wierd huh. Pretty girls. \nToday I..."
-tags: ["harper","reed","college","girls","xhtml"]
+date: 2002-01-14 07:07:46+00:00
+excerpt: "Well. I went to milwaukee last night for a friends b-day party. It was funny.\
+  \ I haven't hung out in the college environment in awhile. It is a little wierd.\
+  \ Especially the \"wisconson\" college environment. Everyone has a little twang\
+  \ to their speech and they are all big drinkers. I guess that couldbe just college.\
+  \ There were pretty girls there. That is wierd huh. Pretty girls. \nToday I..."
+summary: went to milwaukee for a friend's birthday party, hung out in a college scene,
+  noticed the wisconsin vibe, and released a new website.
+tags:
+- harperreed
+- xhtml
+- harper
+- girls
+- birthday party
+- personal experiences
+- milwaukee
+- college life
+- reed
+- college
 title: Milwaukee.. a breakthrough and the redesign is complete
 wordpress_id: 177
 wordpress_url: http://new.nata2.org/?p=177

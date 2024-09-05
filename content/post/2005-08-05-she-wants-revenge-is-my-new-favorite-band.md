@@ -1,6 +1,14 @@
 ---
-date: 2005-08-05T17:07:30Z
-tags: ["general","humor","music"]
+date: 2005-08-05 17:07:30+00:00
+summary: the blog post mentions that all the songs sound pretty similar, with a funny
+  quote from mike about mistaking a long song for track 3. also, it's lunch time!
+tags:
+- general
+- humor
+- songwriting
+- repetitive
+- music
+- lunch
 title: she wants revenge is my new favorite band.
 wordpress_id: 1107
 wordpress_url: http://www.nata2.org/2005/08/05/she-wants-revenge-is-my-new-favorite-band/

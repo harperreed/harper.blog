@@ -1,6 +1,17 @@
 ---
-date: 2006-09-24T23:36:16Z
-tags: ["technology","technology"]
+date: 2006-09-24 23:36:16+00:00
+summary: this post discusses the vulnerability in US mobile providers' voicemail systems
+  that allows caller ID spoofing, making it easy for someone to access another's voicemail
+  without a password. it includes a code snippet for a proof of concept hack, while
+  emphasizing the importance of setting up a voicemail passcode to prevent unauthorized
+  access.
+tags:
+- voicemail security
+- technology
+- mobile providers
+- Asterisk
+- hacking
+- caller ID spoofing
 title: Hacking mobile voicemail with Asterisk and caller ID spoofing
 wordpress_id: 1352
 wordpress_url: http://www.nata2.org/2006/09/24/hacking-voicemail-with-asterisk-and-caller-id-spoofing/

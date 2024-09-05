@@ -1,10 +1,25 @@
 ---
-date: 2005-02-09T16:57:21Z
-excerpt: "this is an excellent write up on the incredible google maps. the most important
-  thing he says is: \n\nI also think it bears noting that Google is pulling out all
-  the stops\nto build rich web apps, no matter how weirdly they have to hack the\nbrowser
-  to make them go. And I strong..."
-tags: ["cell","blogs","internet","war","xhtml","google","gmail"]
+date: 2005-02-09 16:57:21+00:00
+excerpt: "this is an excellent write up on the incredible google maps. the most important\
+  \ thing he says is: \n\nI also think it bears noting that Google is pulling out\
+  \ all the stops\nto build rich web apps, no matter how weirdly they have to hack\
+  \ the\nbrowser to make them go. And I strong..."
+summary: this post dives into google maps and how google is pushing the limits of
+  web apps. it highlights the shift towards apps that prioritize user experience over
+  strict compliance with web standards. plus, it touches on a fired blogger's thoughts
+  on working for innovative companies.
+tags:
+- blogging
+- war
+- cell
+- xhtml
+- internet
+- web apps
+- gmail
+- blogs
+- google maps
+- disruptive technology
+- google
 title: google is my favorite friend/evil entity
 wordpress_id: 990
 wordpress_url: http://new.nata2.org/?p=990

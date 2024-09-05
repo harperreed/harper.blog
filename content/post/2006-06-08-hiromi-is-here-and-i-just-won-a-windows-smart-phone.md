@@ -1,6 +1,24 @@
 ---
-date: 2006-06-08T14:04:33Z
-tags: ["general","chicago","movies","phones","hiromi","mobile","tmobile","win","contest"]
+date: 2006-06-08 14:04:33+00:00
+summary: hiromi arrived on monday! we hung out, had some good meals, and saw becca's
+  husband's band. tuesday included lunch and a movie, while i hit a tmobile party
+  and won a phone. had a nice dinner at le colonial too. i checked out the t-mobile
+  mda but i'm really wanting a nokia e61 instead.
+tags:
+- general
+- mobile
+- chicago fun
+- tmobile
+- contest
+- hiromi
+- chicago
+- dinner and a movie
+- movies
+- tmobile party
+- phone preferences
+- hiromi visit
+- phones
+- win
 title: Hiromi is here! and i just won a windows smart phone
 wordpress_id: 1288
 wordpress_url: http://www.nata2.org/2006/06/08/hiromi-is-here-and-i-just-won-a-windows-smart-phone/

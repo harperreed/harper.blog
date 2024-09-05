@@ -1,6 +1,17 @@
 ---
-date: 2007-03-23T15:24:07Z
-tags: ["technology","technology","php","threadless","skinnycorp","memcached"]
+date: 2007-03-23 15:24:07+00:00
+summary: threadless has leveled up its server game big time, going from a couple servers
+  to an 'assload' and zero load-based downtime for almost 6 months. they've integrated
+  memcached for even faster performance with their caching, and the results are wild.
+  can't wait to roll it out across all sites!
+tags:
+- threadless
+- performance
+- skinnycorp
+- memcached
+- server infrastructure
+- technology
+- php
 title: Memcached on skinnyCorp
 wordpress_id: 1424
 wordpress_url: http://www.nata2.org/2007/03/23/memcached-on-skinnycorp/

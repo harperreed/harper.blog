@@ -1,6 +1,22 @@
 ---
-date: 2006-12-24T18:44:26Z
-tags: ["general","internet","irc","travel","plane","ana","connexion","boeing"]
+date: 2006-12-24 18:44:26+00:00
+summary: currently flying at 36000 feet with free wifi on a plane, which is ending
+  soon. using the internet to watch 'Lost' and chat, all while contemplating security
+  measures. got upgraded to economy premier with a nice seat. legs are numb.
+tags:
+- ANA
+- general
+- boeing
+- ana
+- Lost TV show
+- irc
+- travel
+- airplane wifi
+- plane
+- Boeing
+- internet
+- air travel
+- connexion
 title: Technology is pretty dope. IRC on a plane.
 wordpress_id: 1400
 wordpress_url: http://www.nata2.org/2006/12/24/technology-is-pretty-dope-irc-on-a-plane/

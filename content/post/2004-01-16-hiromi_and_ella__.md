@@ -1,9 +1,24 @@
 ---
-date: 2004-01-16T17:07:49Z
+date: 2004-01-16 17:07:49+00:00
 excerpt: 'So my friend and best fan in taiwan, ella, met with my roommate hiromi in
   taiwan. I sent a care package with hiromi for ella. she seemed to like her a care
   package - which is good. '
-tags: ["nerd","rock","kstar","games","taiwan","hiromi","ella"]
+summary: ella got a care package from hiromi, which is awesome. last night was wild
+  with yoyo stuff and hanging out with friends. totally overslept today and felt super
+  bad about being late, but now looking forward to mad fest!
+tags:
+- kstar
+- ella
+- nerd
+- games
+- rock
+- mad fest
+- yoyo website
+- being late
+- hiromi
+- care package
+- hanging out
+- taiwan
 title: hiromi and ella..
 wordpress_id: 729
 wordpress_url: http://new.nata2.org/?p=729

@@ -1,10 +1,19 @@
 ---
-date: 2003-10-24T15:02:26Z
+date: 2003-10-24 15:02:26+00:00
 excerpt: so I really don't believe in god or jesus or the like.. but this is awesome.
   So apparently mel gibson has lost his mind and is making a movie about the "real
   story" of christ. and while they were filming.. the guy playing christ was struck
   by lightning. hahahahahahahahaha.. seriously.. and the assistent director...
-tags: ["chris","movies"]
+summary: the blog post talks about mel gibson's movie on christ and how the actor
+  playing him got struck by lightning during filming, which the author finds hilarious.
+tags:
+- chris
+- the passion of the christ
+- humor
+- religion
+- mel gibson
+- movies
+- lightning strike
 title: jesus.. bwahahahahah
 wordpress_id: 656
 wordpress_url: http://new.nata2.org/?p=656

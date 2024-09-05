@@ -1,10 +1,24 @@
 ---
-date: 2002-07-30T14:41:08Z
+date: 2002-07-30 14:41:08+00:00
 excerpt: 'yep its true.  ihad blueberry soup last night. I cannot lie. it was tasty.
   a little out of control.Do you want to be a Rock Star Scenester?Bush warns CEOs:
   ''You''ll be exposed'' - I wonder if they will expose bush in the process of bush
   exposing them. I also wonder if '
-tags: ["php","war","rock","bush","kstar","kungfu"]
+summary: "yep, had blueberry soup last night. it was pretty tasty, but kinda wild.\
+  \ also, there\u2019s some thoughts on bush, exposing crooks, and how we\u2019re\
+  \ all in a political mess. it\u2019s a wild ride, for sure."
+tags:
+- kstar
+- war
+- Bush administration
+- U.S. politics
+- rock
+- political commentary
+- Rock Star Scenester
+- php
+- kungfu
+- blueberry soup
+- bush
 title: blueberry soup..
 wordpress_id: 329
 wordpress_url: http://new.nata2.org/?p=329

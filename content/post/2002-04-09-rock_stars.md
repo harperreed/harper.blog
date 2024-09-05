@@ -1,10 +1,20 @@
 ---
-date: 2002-04-09T07:08:29Z
+date: 2002-04-09 07:08:29+00:00
 excerpt: so I went and saw the faint.. it was great. they were good a little bit canned.
   however I saw one of my friends who let me in on the secret of the "indie rock undrworld"
   a little joint called watusi.. where even I can pass as a suceeding or not suceeding
   musician.. underground or whatnot. heh. "when I released my record i...
-tags: ["rock","music"]
+summary: saw the faint live, it was dope. discovered watusi, a cool spot in the indie
+  rock scene. had some fun chats about music and even got a 'date' for a concert with
+  a girl who likes cannibal corpse. should be a wild time!
+tags:
+- Watusi
+- music scene
+- music
+- concert review
+- Cannibal Corpse
+- indie rock
+- rock
 title: rock stars
 wordpress_id: 254
 wordpress_url: http://new.nata2.org/?p=254

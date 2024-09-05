@@ -1,8 +1,30 @@
 ---
-date: 2004-06-14T14:26:17Z
+date: 2004-06-14 14:26:17+00:00
 excerpt: 'so the past month - I have reengaged my ears in a black metal journey. it
   is awesome. I '
-tags: ["juggle","php","phone","sick","blood","metal","author","music","aim","matiss","apple","nokia"]
+summary: "so i've been vibing hard with black metal lately, mainly jamming to dimmu\
+  \ borgir, cradle of filth, and emperor. favorites right now are dimmu's 'death cult\
+  \ armageddon' and cradle's 'from cradle to enslave.' also, found some cool docs\
+  \ on iMac repair and had a fun time juggling with friends. skinny puppy show coming\
+  \ up\u2014so hyped!"
+tags:
+- author
+- phone
+- aim
+- juggle
+- nokia
+- juggling
+- metal
+- matiss
+- iMac repair
+- php
+- black metal
+- music journey
+- music
+- apple
+- sick
+- diminu borgir
+- blood
 title: yoyoyo all the good men are dieing.
 wordpress_id: 883
 wordpress_url: http://new.nata2.org/?p=883

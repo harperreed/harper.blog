@@ -1,6 +1,19 @@
 ---
-date: 2006-07-24T04:21:54Z
-tags: ["general","juggling","travel","weekend","tokyo"]
+date: 2006-07-24 04:21:54+00:00
+summary: had a fun weekend mostly working and chilling. caught pirates of the caribbean
+  with friends, then just hung out and practiced juggling for an upcoming performance.
+  super excited to head to tokyo next month to see hiromi, even if the flights are
+  pricey. this week is gonna be a wild one at work!
+tags:
+- juggling
+- tokyo
+- weekend
+- travel
+- Pirates of the Caribbean
+- general
+- weekend recap
+- Tokyo trip
+- frequent flyer miles
 title: Weekend Update! Tokyo soon. Work excitement.
 wordpress_id: 1311
 wordpress_url: http://www.nata2.org/2006/07/24/weekend-update-tokyo-soon-work-excitement/

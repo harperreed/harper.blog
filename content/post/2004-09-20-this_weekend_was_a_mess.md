@@ -1,9 +1,19 @@
 ---
-date: 2004-09-20T07:00:45Z
+date: 2004-09-20 07:00:45+00:00
 excerpt: 'probably more later. seriously. to describe the nonsense would be impossible.
   it was rough. I made it. barely. much much much much more later. I promise. for
   now: pictures - pictures - '
-tags: ["phone","rock","nokia"]
+summary: "had a wild time, can\u2019t even describe the craziness. made it through\
+  \ somehow. more details coming later. check out some pictures for now."
+tags:
+- nokia
+- rough times
+- phone
+- pictures
+- afterparty
+- updates
+- nonsense
+- rock
 title: this weekend was a mess
 wordpress_id: 939
 wordpress_url: http://new.nata2.org/?p=939

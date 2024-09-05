@@ -1,7 +1,15 @@
 ---
-date: 2003-05-19T14:29:57Z
+date: 2003-05-19 14:29:57+00:00
 excerpt: So I scored a member's only jacket today.. it rules. my coworker mike got
   it for me. w00t!
+summary: scored a member's only jacket today, and it rules! my coworker mike got it
+  for me. w00t!
+tags:
+- members only jacket
+- fashion
+- gift
+- coworker
+- excited
 title: member's only
 wordpress_id: 514
 wordpress_url: http://new.nata2.org/?p=514

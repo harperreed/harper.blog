@@ -1,6 +1,21 @@
 ---
-date: 2005-04-06T12:42:13Z
-tags: ["general","travel","awesome","work","phoenix","insanity"]
+date: 2005-04-06 12:42:13+00:00
+summary: the weather's awesome and work's fun here. it's way more chill than chicago,
+  and the people are nice. i'm getting sunburned already, so i bought sunscreen. i'm
+  thinking about moving to somewhere warm, maybe cali or colorado. also, my boss spilled
+  water on my laptop, and now the IT guy is trying to fix it. classic!
+tags:
+- awesome
+- work
+- chill vibes
+- sunburn
+- travel
+- phoenix
+- work vacation
+- general
+- funny story
+- moving plans
+- insanity
 title: phoenix is rather nice
 wordpress_id: 1039
 wordpress_url: http://www.nata2.org/2005/04/06/phoenix-is-rather-nice/

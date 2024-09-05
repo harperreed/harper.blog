@@ -1,6 +1,20 @@
 ---
-date: 2007-04-10T22:41:58Z
-tags: ["technology","technology","hacking","audrey","linux","chumby","hardware","python","flash","widget"]
+date: 2007-04-10 22:41:58+00:00
+summary: got a chumby and fell in love. spent time tinkering with it, exploring its
+  sensors, and thinking of cool projects. while the default app is kinda boring, the
+  open architecture lets me hack it into something awesome. looking forward to making
+  it display what I want!
+tags:
+- flash
+- python
+- technology
+- chumby
+- audrey
+- hacking
+- widgets
+- linux
+- hardware
+- widget
 title: 'Haxoring the Chumby: My first thoughts'
 wordpress_id: 1430
 wordpress_url: http://www.nata2.org/2007/04/10/first-thoughts-on-the-chumby/

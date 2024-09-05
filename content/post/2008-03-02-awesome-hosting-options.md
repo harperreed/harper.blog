@@ -1,6 +1,23 @@
 ---
-date: 2008-03-02T02:32:39Z
-tags: ["technology","hosting","rackspace","mosso","servers","mediatemple","webfaction","fdcservers"]
+date: 2008-03-02 02:32:39+00:00
+summary: checked out some hosting options after mosso changed things up. here's my
+  list of hosting providers i dig, including mosso, mediatemple, fdcservers, webfaction,
+  and rackspace. all have their pros and cons, but i've had good experiences with
+  them!
+tags:
+- hosting
+- rackspace
+- Mosso
+- web hosting
+- technology
+- mosso
+- webfaction
+- fdcservers
+- hosting providers
+- servers
+- mediatemple
+- MediaTemple
+- Webfaction
 title: Awesome hosting options
 wordpress_id: 1510
 wordpress_url: http://www.nata2.org/2008/03/02/awesome-hosting-options/

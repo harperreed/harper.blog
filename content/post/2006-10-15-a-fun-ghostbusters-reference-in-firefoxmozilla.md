@@ -1,6 +1,21 @@
 ---
-date: 2006-10-15T17:25:16Z
-tags: ["general","fun","firefox","mozilla","easter-eggs","opensource","ghostbusters"]
+date: 2006-10-15 17:25:16+00:00
+summary: ran into a cable outage and started checking out Firefox error pages. found
+  some funny HTML about XUL that's a nod to Ghostbusters. cool to see a sense of humor
+  from big organizations!
+tags:
+- Ghostbusters
+- opensource
+- ghostbusters
+- easter-eggs
+- firefox
+- general
+- fun
+- Firefox
+- tech humor
+- HTML
+- XUL
+- mozilla
 title: A fun Ghostbusters easter egg in FireFox/Mozilla
 wordpress_id: 1367
 wordpress_url: http://www.nata2.org/2006/10/15/a-fun-ghostbusters-reference-in-firefoxmozilla/

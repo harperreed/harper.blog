@@ -1,6 +1,19 @@
 ---
-date: 2007-05-28T22:39:28Z
-tags: ["general","chicago","agriculture","organic","freshpickscom","csa"]
+date: 2007-05-28 22:39:28+00:00
+summary: hiromi had a sweet produce delivery service in tokyo, which turned out to
+  be a community-supported agriculture group. after chatting with her friend jon,
+  she found freshpicks.com and signed up. they got their first box with awesome stuff
+  like cilantro and arugula, making cooking and eating super easy and exciting.
+tags:
+- agriculture
+- csa
+- chicago
+- organic
+- general
+- local agriculture
+- freshpicks
+- produce delivery
+- freshpickscom
 title: 'Our first CSA experience: Freshpicks.com'
 wordpress_id: 1448
 wordpress_url: http://www.nata2.org/2007/05/28/our-first-csa-experience-freshpickscom/

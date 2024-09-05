@@ -1,6 +1,18 @@
 ---
-date: 2007-06-30T22:53:22Z
-tags: ["technology","technology","apple","phones","iphone"]
+date: 2007-06-30 22:53:22+00:00
+summary: "yesterday, my friend bryce came to chicago for the fbla national meet. we\
+  \ checked out the iphone at the apple store, and it\u2019s pretty neat! the maps\
+  \ and text app are solid, definitely better than the treo and s60 defaults. if it\
+  \ were for t-mobile, i\u2019d probably get one for my mom. just curious about the\
+  \ battery life, especially for music."
+tags:
+- phones
+- technology
+- chicago
+- apple
+- smartphones
+- FBLA
+- iphone
 title: The iPhone is nifty
 wordpress_id: 1461
 wordpress_url: http://www.nata2.org/2007/06/30/the-iphone-is-nifty/

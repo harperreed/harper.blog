@@ -1,6 +1,18 @@
 ---
-date: 2007-03-22T14:02:47Z
-tags: ["general","music","youtube","great","interview","frank-zappa"]
+date: 2007-03-22 14:02:47+00:00
+summary: check out these dope frank zappa interviews from the dick cavett show where
+  he dives into punk rock, politics in music, and his wild life. definitely worth
+  a look!
+tags:
+- frank zappa
+- interview
+- youtube
+- punk rock
+- frank-zappa
+- music
+- great
+- general
+- music history
 title: Watch this Frank Zappa interview
 wordpress_id: 1422
 wordpress_url: http://www.nata2.org/2007/03/22/watch-this-frank-zappa-interview/

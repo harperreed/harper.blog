@@ -1,6 +1,16 @@
 ---
-date: 2007-03-02T16:59:54Z
-tags: ["general","internet","google","alexa","growth"]
+date: 2007-03-02 16:59:54+00:00
+summary: jacob shared the top 10 internet sites according to alexa, highlighting how
+  google, yahoo, and microsoft dominate, with only myspace and qq being independent.
+  it's fascinating to see the major players in controlling the web.
+tags:
+- general
+- alexa
+- top sites
+- internet
+- google
+- power dynamics
+- growth
 title: Google owns the Internet... again
 wordpress_id: 1412
 wordpress_url: http://www.nata2.org/2007/03/02/google-owns-the-internet-again/

@@ -1,6 +1,21 @@
 ---
-date: 2005-03-29T19:00:08Z
-tags: ["general","sites","travel","interesting","work","hobby"]
+date: 2005-03-29 19:00:08+00:00
+summary: feeling super sleepy after a long day at work. planning a trip to phoenix
+  which should be awesome! also checking out ituners.com and hoping it gets popular.
+  thinking about starting the gym with matiss but feeling a bit intimidated. time
+  for a nap!
+tags:
+- sleepy
+- work
+- phoenix trip
+- interesting
+- travel
+- hobby
+- general
+- gym fears
+- sites
+- ituners
+- hobbies
 title: weird i know
 wordpress_id: 1033
 wordpress_url: http://www.nata2.org/2005/03/29/weird-i-know/

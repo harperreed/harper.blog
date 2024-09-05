@@ -1,6 +1,24 @@
 ---
-date: 2005-03-28T02:29:32Z
-tags: ["general","blogs","food","crobar","flickr","hong","kong","sushi","itunes","awesome","party"]
+date: 2005-03-28 02:29:32+00:00
+summary: hung out with matt and hiromi, had beers and thai food, watched new police
+  story and kung fu hustle. played around with my new site ituners.com, fixed a friend's
+  computer, and checked out flickr and wretch.cc. good times.
+tags:
+- general
+- food
+- kong
+- blogs
+- awesome
+- weekend recap
+- flickr
+- sushi
+- itunes
+- crobar
+- music
+- hong
+- movies
+- coding
+- party
 title: weekend oh yea
 wordpress_id: 1030
 wordpress_url: http://www.nata2.org/2005/03/28/weekend-oh-yea/

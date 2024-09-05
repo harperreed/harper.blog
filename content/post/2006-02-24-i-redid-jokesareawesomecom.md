@@ -1,6 +1,21 @@
 ---
-date: 2006-02-24T02:14:37Z
-tags: ["general","harper","sites","humor","jokes","funny","me"]
+date: 2006-02-24 02:14:37+00:00
+summary: i made some updates to jokesareawesome.com, making it more user friendly
+  and adding youtube content and pics from nata2.info. just testing a php framework
+  for future projects. gotta bounce from work now!
+tags:
+- website update
+- php framework
+- youtube content
+- harper
+- general
+- humor
+- sites
+- nata2.info
+- me
+- web 2.0
+- jokes
+- funny
 title: I redid jokesareawesome.com
 wordpress_id: 1219
 wordpress_url: http://www.nata2.org/2006/02/24/i-redid-jokesareawesomecom/

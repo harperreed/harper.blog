@@ -1,6 +1,13 @@
 ---
-date: 2006-09-07T09:27:26Z
-tags: ["general"]
+date: 2006-09-07 09:27:26+00:00
+summary: went to bed at 6:30 and got up at 7:30. slept a ton. feeling better now!
+tags:
+- general
+- personal update
+- sleep
+- health
+- rest
+- daily routine
 title: SLEEEEEEEEP
 wordpress_id: 1335
 wordpress_url: http://www.nata2.org/2006/09/07/sleeeeeeeep/

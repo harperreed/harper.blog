@@ -1,6 +1,20 @@
 ---
-date: 2006-05-15T18:12:26Z
-tags: ["general","family","colorado","fun","travel","home","reed-family"]
+date: 2006-05-15 18:12:26+00:00
+summary: this weekend in colorado was chill. helped my dad with his webpage, hung
+  out with family, and celebrated mothers day. enjoyed some really good fondue and
+  had fun chatting with everyone. also watched a stressful movie called crash and
+  finished my first book from my huge reading list. good times!
+tags:
+- reed-family
+- travel
+- fondue
+- home
+- colorado
+- general
+- fun
+- weekend vibes
+- mothers day
+- family
 title: Colorado weekend
 wordpress_id: 1268
 wordpress_url: http://www.nata2.org/2006/05/15/colorado-weekend/

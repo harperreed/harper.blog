@@ -1,6 +1,18 @@
 ---
-date: 2009-02-28T17:04:04Z
-tags: ["technology","twitter","python","oauth","appengine"]
+date: 2009-02-28 17:04:04+00:00
+summary: i built Excla.im before twitter had oauth. chris messina called my signup
+  process an anti pattern, which bummed me out. later, twitter's oauth beta came out,
+  and with the help of @al3x, i dug into the messy world of python oauth. after struggling,
+  i found a solid php oauth library and decided to create a python version. now, my
+  app supports oauth without holding passwords. check it out on github!
+tags:
+- twitter
+- appengine
+- Excla.im
+- programming
+- oauth
+- python
+- technology
 title: Python Oauth Client - Excla.im
 wordpress_id: 1606
 wordpress_url: http://www.nata2.org/?p=1606

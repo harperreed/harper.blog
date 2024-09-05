@@ -1,6 +1,29 @@
 ---
-date: 2005-04-30T00:20:00Z
-tags: ["general","music","osx","apple","applications","mac","ruby","rails","on","ajax","application","web","tiger","jack","spade"]
+date: 2005-04-30 00:20:00+00:00
+summary: "blogging has taken a backseat while i dive into ruby on rails and ajax.\
+  \ i\u2019m working on some cool projects and excited about making things seamless\
+  \ and user-friendly. also, bought tiger from apple and feeling a bit let down. life\u2019\
+  s a mix of coding, frustrations, and expensive bags. oh, and meat loaf? no thanks!"
+tags:
+- ajax
+- osx
+- spade
+- ruby on rails
+- music
+- rails
+- coding
+- 'on'
+- web development
+- ruby
+- tiger
+- mac
+- apple
+- jack
+- life updates
+- application
+- general
+- web
+- applications
 title: 'ajaxed up on ruby on rails. seriously this time. '
 wordpress_id: 1050
 wordpress_url: http://www.nata2.org/2005/04/30/ajaxed-up-on-ruby-on-rails-seriously-this-time/

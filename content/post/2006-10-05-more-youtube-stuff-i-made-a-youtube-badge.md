@@ -1,6 +1,22 @@
 ---
-date: 2006-10-05T00:02:13Z
-tags: ["technology","php","flickr","youtube","classes","badge","flashandburn"]
+date: 2006-10-05 00:02:13+00:00
+summary: i made a youtube badge that shows your last 6 uploaded videos, inspired by
+  my flickr badge. it's easy to use and i put it up on flashandburn.net. also working
+  on some fun hacks and maybe a JS flickr/youtube gallery. let me know if the badge
+  works for you!
+tags:
+- flickr
+- youtube
+- youtube badge
+- flashandburn
+- programming
+- technology
+- php
+- coding hacks
+- classes
+- badge
+- flickr badge
+- API tools
 title: 'More youTube stuff: I made a youTube badge. '
 wordpress_id: 1358
 wordpress_url: http://www.nata2.org/2006/10/05/more-youtube-stuff-i-made-a-youtube-badge/

@@ -1,11 +1,32 @@
 ---
-date: 2002-05-01T15:27:51Z
+date: 2002-05-01 15:27:51+00:00
 excerpt: 'I have a strange hobby where I look at people peronal home pages. I really
   enjoy reading peoples blogs and learning all sorts of interesting things about them.
   heh. it is a strange voyeuristic hobby I guess, however it passes the time. I used
   to look primarily at slashdot comments. But lately I have been playing on moc, I
   recently '
-tags: ["juggle","greeley","chicago","blogs","search","women","war","sick","juggling","design","games","girls","porn"]
+summary: this post dives into a quirky hobby of exploring personal home pages and
+  blogs, focusing on a search for webcam girls in greeley versus chicago. there's
+  also a random note about a juggling injury that led to a swollen finger. heh.
+tags:
+- greeley
+- juggle
+- women
+- blogs
+- juggling
+- war
+- porn
+- design
+- personal blogs
+- voyeurism
+- web culture
+- makeoutclub
+- search
+- chicago
+- games
+- hobbies
+- sick
+- girls
 title: moc and such
 wordpress_id: 271
 wordpress_url: http://new.nata2.org/?p=271

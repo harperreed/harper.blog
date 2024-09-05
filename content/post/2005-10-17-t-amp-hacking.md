@@ -1,6 +1,18 @@
 ---
-date: 2005-10-17T16:58:00Z
-tags: ["general","hacking","stereo","hifi","t-amp"]
+date: 2005-10-17 16:58:00+00:00
+summary: i've been using my new t-amp for 5 days and it's blowing my old receiver
+  out of the water. frustrated with finding good stereo amps, this is a game changer.
+  i'm planning to swap out some cheap parts and put it in a hammond enclosure while
+  keeping it all unique. bigger plans include a toslink DAC and preamps too!
+tags:
+- modifications
+- stereo
+- general
+- t-amp
+- audio equipment
+- hacking
+- DIY
+- hifi
 title: t-amp hacking
 wordpress_id: 1139
 wordpress_url: http://www.nata2.org/2005/10/17/t-amp-hacking/
@@ -10,4 +22,4 @@ I purchased a t-amp awhile ago and have been listening to it in it stock form fo
 
 eep. stereo. 
 
-epp. back to work. 
+epp. back to work.

@@ -1,6 +1,17 @@
 ---
-date: 2005-08-11T17:15:38Z
-tags: ["general","internet","travel","work","heat","confusion"]
+date: 2005-08-11 17:15:38+00:00
+summary: trying to navigate the craziness of the internet while on a road trip, feeling
+  uneasy about work and the potential job offer from skinnycorp, and dealing with
+  the awkwardness of using a laptop in the car.
+tags:
+- travel
+- general
+- work
+- heat
+- road trip
+- internet
+- confusion
+- car ride
 title: 'sorta car sick. '
 wordpress_id: 1109
 wordpress_url: http://www.nata2.org/2005/08/11/sorta-car-sick/
@@ -16,4 +27,3 @@ i also don't want to do work. but it is cool and interesting so i kinda do. i ju
 and my penis is really hot from my laptop. i need to move it. my penis or my laptop. 
 
 hahaha
- 

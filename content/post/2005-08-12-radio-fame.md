@@ -1,6 +1,20 @@
 ---
-date: 2005-08-12T21:11:35Z
-tags: ["general","travel","hungry","geek","sun","tired"]
+date: 2005-08-12 21:11:35+00:00
+summary: so i was listening to jack fm last night and heard harper reed's name announced
+  with vox vodka, and i was like, no way! it was super exciting. also, i got a psp
+  but it's all upgraded already, and i'm sunburned again. eep!
+tags:
+- Harper Reed
+- geek
+- travel
+- tired
+- PSP
+- event
+- general
+- hungry
+- radio
+- Kill Hannah
+- sun
 title: 'Radio Fame. '
 wordpress_id: 1110
 wordpress_url: http://www.nata2.org/2005/08/12/radio-fame/
@@ -42,4 +56,3 @@ Tomorrow i fly back to chicago for a VOX event - then i am back to working on su
 I got a PSP last night. it is cool. however it was already upgraded to 1.51 when i got it so none of the hacks work. :-(  
 
 I got sunburned again. i hate the sun. i was so careful. then today for some reason i wasn't. eep.
-

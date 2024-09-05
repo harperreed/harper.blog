@@ -1,6 +1,17 @@
 ---
-date: 2007-07-23T01:26:52Z
-tags: ["general","books","done","harry-potter"]
+date: 2007-07-23 01:26:52+00:00
+summary: just finished the new harry potter in under 24 hours. it was a solid ending
+  and totally worth a read if you're a fan. now off to check emails and chill with
+  hiromi!
+tags:
+- general
+- harry-potter
+- amazon delay
+- borders
+- harry potter
+- done
+- reading
+- books
 title: Harry Potter 7 was good.
 wordpress_id: 1468
 wordpress_url: http://www.nata2.org/2007/07/23/harry-potter-7-was-good/

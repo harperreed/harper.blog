@@ -1,10 +1,23 @@
 ---
-date: 2003-07-21T16:09:31Z
+date: 2003-07-21 16:09:31+00:00
 excerpt: 'oh yea. this weekend. hmm.. well one of the past three days.. I fell asleep
   listening to Sunn 0)) (a very sludge doom metal sound). anyway.. I was listening
   to them.. well really sleeping to them.. and my dreams were infused with chaos.
   I had three '
-tags: ["php","war","metal","matiss"]
+summary: this weekend was a mix of chaos and chill vibes. fell asleep to sunn 0)),
+  had some intense war dreams, and hung out with marcia at an art space. checked out
+  a party, played quake, and caught a performance. also dived into bonzai which was
+  funny yet kinda problematic. now just hyped for the new dimmu borgir album!
+tags:
+- dreams
+- weekend recap
+- bonzai
+- war
+- metal
+- matiss
+- php
+- art scene
+- doom metal
 title: jukka jukka
 wordpress_id: 571
 wordpress_url: http://new.nata2.org/?p=571

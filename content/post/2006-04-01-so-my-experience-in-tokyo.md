@@ -1,6 +1,20 @@
 ---
-date: 2006-04-01T20:00:28Z
-tags: ["general","food","hiromi","travel","japan","tokyo","trips"]
+date: 2006-04-01 20:00:28+00:00
+summary: just got back from an epic trip to tokyo! battled some serious jet lag and
+  a nasty cold but hung out with hiromi, explored awesome places, ate delicious food,
+  and celebrated my birthday. from crazy parks to a giant buddha, it was an unforgettable
+  adventure.
+tags:
+- tokyo
+- travel
+- culture
+- japan
+- Tokyo
+- general
+- food
+- jet lag
+- hiromi
+- trips
 title: so.. my experience in tokyo
 wordpress_id: 1236
 wordpress_url: http://www.nata2.org/2006/04/01/so-my-experience-in-tokyo/

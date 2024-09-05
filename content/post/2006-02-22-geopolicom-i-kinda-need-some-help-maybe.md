@@ -1,6 +1,25 @@
 ---
-date: 2006-02-22T02:09:11Z
-tags: ["general","technology","harper","hacking","websites","politics","geoip","geotag","congress","webapps"]
+date: 2006-02-22 02:09:11+00:00
+summary: this post talks about launching a new site, geopoli.com, that will deliver
+  geotargeted political ads to help users contact their representatives. the idea
+  is to make it unpartisan and easy to use, while discussing some technical challenges
+  and the importance of political engagement.
+tags:
+- geoip
+- general
+- website development
+- geo-targeting
+- websites
+- politics
+- technology
+- user engagement
+- hacking
+- geotag
+- harper
+- geopolitics
+- congress
+- webapps
+- political ads
 title: 'Geopoli.com. I kinda need some help maybe. '
 wordpress_id: 1217
 wordpress_url: http://www.nata2.org/2006/02/22/geopolicom-i-kinda-need-some-help-maybe/

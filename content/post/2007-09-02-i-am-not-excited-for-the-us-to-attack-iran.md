@@ -1,6 +1,19 @@
 ---
-date: 2007-09-02T20:57:44Z
-tags: ["general","war","fear","bush","annoying","iran","sad"]
+date: 2007-09-02 20:57:44+00:00
+summary: "not a fan of the current administration and frustrated about the looming\
+  \ attack on iran. they\u2019re ignoring history and facts, especially regarding\
+  \ iran\u2019s nuclear activities. it's all tied to oil and the greed of big oil\
+  \ companies. really concerned about what might happen next."
+tags:
+- fear
+- war
+- iran
+- general
+- oil
+- politics
+- sad
+- annoying
+- bush
 title: I am not excited for the US to attack Iran
 wordpress_id: 1475
 wordpress_url: http://www.nata2.org/2007/09/02/i-am-not-excited-for-the-us-to-attack-iran/

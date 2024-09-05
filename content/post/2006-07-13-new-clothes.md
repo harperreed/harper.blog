@@ -1,6 +1,21 @@
 ---
-date: 2006-07-13T20:17:41Z
-tags: ["general","insane","fashion","tokyo","clothing","bape"]
+date: 2006-07-13 20:17:41+00:00
+summary: i've been checking out the bape/bbc takeover in hip hop and i'm obsessed
+  with the crazy prints and designs. talked to hiroki about the wild prices for stuff
+  like a $700 hoody in tokyo. decided to grab an all over print shirt from rogue status
+  and it's amazing.
+tags:
+- tokyo
+- fashion
+- insane
+- bape
+- general
+- hip hop fashion
+- BAPE
+- limited edition
+- streetwear
+- clothing
+- BBC
 title: New clothes
 wordpress_id: 1303
 wordpress_url: http://www.nata2.org/2006/07/13/new-clothes/

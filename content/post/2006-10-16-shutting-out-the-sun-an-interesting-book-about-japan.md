@@ -1,6 +1,16 @@
 ---
-date: 2006-10-16T12:01:26Z
-tags: ["general"]
+date: 2006-10-16 12:01:26+00:00
+summary: "the blog post discusses the book 'shutting out the sun' by michael zielenziger,\
+  \ exploring the hikikomori phenomenon in japan\u2014men who isolate themselves and\
+  \ reject societal norms. it highlights unique traits of hikikomori, societal pressures,\
+  \ and interesting cultural insights from the book."
+tags:
+- general
+- hikikomori
+- Japan
+- Michael Zielenziger
+- mental health
+- society
 title: 'Shutting out the Sun: an interesting book about Japan'
 wordpress_id: 1371
 wordpress_url: http://www.nata2.org/2006/10/16/shutting-out-the-sun-an-interesting-book-about-japan/

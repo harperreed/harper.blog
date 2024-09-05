@@ -1,6 +1,18 @@
 ---
-date: 2007-06-27T20:46:01Z
-tags: ["general","humor","life","hilarious","stoners","high-times","shipping"]
+date: 2007-06-27 20:46:01+00:00
+summary: harper and charlie tried to swap packages with high times but ran into some
+  hilariously confusing shipping issues thanks to a little dyslexia from their friend
+  natasha. tracking down the lost package turned into a funny back-and-forth convo!
+tags:
+- life
+- stoners
+- general
+- humor
+- fun
+- hilarious
+- shipping
+- high-times
+- high times
 title: Goddamn Stoners!
 wordpress_id: 1460
 wordpress_url: http://www.nata2.org/2007/06/27/goddamn-stoners/

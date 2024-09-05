@@ -1,6 +1,25 @@
 ---
-date: 2004-04-01T04:04:55Z
-tags: ["general","nerd","technology","phones","mobile","tmobile","awesome","review","machine"]
+date: 2004-04-01 04:04:55+00:00
+summary: the post dives into the author's experience with the sidekick after they
+  grabbed one post-holidays. it highlights cool features like the flipping screen
+  and AIM but also calls out the web browser and email client for being frustrating.
+  overall, it's a fun mix of first and second impressions on how the sidekick fits
+  in their life.
+tags:
+- general
+- awesome
+- machine
+- mobile
+- nerd
+- technology
+- tmobile
+- Sidekick
+- technology review
+- review
+- AIM
+- user experience
+- phones
+- smartphone
 title: 'Danger Sidekick: nerd machine'
 wordpress_id: 1170
 wordpress_url: http://www.nata2.org/2004/04/01/danger-sidekick-nerd-machine/

@@ -1,6 +1,22 @@
 ---
-date: 2009-12-09T19:29:06Z
-tags: ["general","hosting","rackspace","google","infrastructure","cloud","amazon","cloud-hosting"]
+date: 2009-12-09 19:29:06+00:00
+summary: in this post, i share my thoughts on hosting options from 2009, highlighting
+  my favorites like google's app engine, heroku, and various cloud server providers.
+  i also touch on file hosting, shared hosting, and enterprise solutions. check it
+  out for insights on what worked for me!
+tags:
+- cloud servers
+- hosting
+- general
+- rackspace
+- amazon
+- cloud-hosting
+- infrastructure
+- Heroku
+- Rackspace
+- App Engine
+- google
+- cloud
 title: 2009 Hosting Summary (or where does Harper host in 2009/2010)
 wordpress_id: 1655
 wordpress_url: http://www.nata2.org/?p=1655

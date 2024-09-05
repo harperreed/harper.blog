@@ -1,6 +1,20 @@
 ---
-date: 2006-10-02T01:22:51Z
-tags: ["technology","php","code","api","youtube","classes"]
+date: 2006-10-02 01:22:51+00:00
+summary: had an awesome day juggling, eating good food, and writing some simple PHP
+  code for the youtube API. posted my quick and dirty class on nata2.info and a silly
+  hack on flashandburn.net. also started working on part .5 of the geopoli.com idea.
+  now it's bedtime!
+tags:
+- hacks
+- youtube
+- PHP
+- programming
+- Youtube API
+- code
+- api
+- technology
+- php
+- classes
 title: Some quick youtube hackings
 wordpress_id: 1356
 wordpress_url: http://www.nata2.org/2006/10/02/some-quick-youtube-hackings/

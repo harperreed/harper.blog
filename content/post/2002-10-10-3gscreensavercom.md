@@ -1,6 +1,19 @@
 ---
-date: 2002-10-10T12:10:20Z
-tags: ["general","technology","community","mobile","forum"]
+date: 2002-10-10 12:10:20+00:00
+summary: i started a500hacking.com and saw a surge in traffic and donations, so i
+  created a page for users to store personal pictures and ringtones. faced some issues
+  with BMI over ringtones, but now the site is doing well and mostly runs itself.
+tags:
+- website
+- a500hacking
+- ringtones
+- forum
+- community
+- locker
+- general
+- server
+- mobile
+- technology
 title: 3gscreensaver.com
 wordpress_id: 1163
 wordpress_url: http://www.nata2.org/2002/10/10/3gscreensavercom/

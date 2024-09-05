@@ -1,6 +1,24 @@
 ---
-date: 2006-01-24T03:56:01Z
-tags: ["technology","technology","source","osx","apple","asterisk","telephony","pbx","open"]
+date: 2006-01-24 03:56:01+00:00
+summary: "i've been diving into Asterisk and found a cool guy named benjk at sunrise-tel.com\
+  \ who\u2019s making it easier to run Asterisk on macs. their updates now make Asterisk\
+  \ GPL compliant, include Bonjour support for auto-configuring wifi phones, and improved\
+  \ hardware integration. check out the new update and stay tuned for more Asterisk\
+  \ hacks!"
+tags:
+- osx
+- source
+- sunrise-tel
+- Bonjour
+- technology
+- asterisk
+- pbx
+- PBX
+- apple
+- open
+- Asterisk
+- OSX
+- telephony
 title: OSX Asterisk updated
 wordpress_id: 1199
 wordpress_url: http://www.nata2.org/2006/01/24/osx-asterisk-updated/

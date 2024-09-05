@@ -1,11 +1,23 @@
 ---
-date: 2002-04-04T16:00:09Z
+date: 2002-04-04 16:00:09+00:00
 excerpt: 'this morning whilst I was in the shower, I got to thinking about how anoying
   our media and its relationship with the government is. In one particular example:
   the whole enron thing. It seems that when clinton ran into some women problems,
   he was crucified - however when bush, cheney and the like get involved in a complicated
   financial scam the ...'
-tags: ["women","bush"]
+summary: this morning while in the shower, i pondered the annoying relationship between
+  media and the government, especially regarding the enron scandal. i question why
+  the media crucified clinton over personal issues but turned a blind eye to bush
+  and cheney during financial scandals. could it be due to the connections and implications
+  of the enron crash? does bush aim to be remembered as the guy who broke the world?
+tags:
+- women
+- politics
+- Bush administration
+- government accountability
+- Enron scandal
+- bush
+- media criticism
 title: earlier today
 wordpress_id: 248
 wordpress_url: http://new.nata2.org/?p=248

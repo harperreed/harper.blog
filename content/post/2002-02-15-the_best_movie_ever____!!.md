@@ -1,11 +1,21 @@
 ---
-date: 2002-02-15T11:12:58Z
+date: 2002-02-15 11:12:58+00:00
 excerpt: 'Last night I went out to a seedy bar with some friends after work. Drank
   a little - helped another friend with web problems. and then went to some movies.
   I say some because we couldn''t afford to goto the movie we wanted to goto. So we
   purchased tickets to a cheaper movie and then after an hour of the cheaper movie,
   we sneaked out and the '
-tags: ["movies","humor"]
+summary: last night was a wild one at a sketchy bar with friends. after some drinks
+  and helping with web issues, we caught a cheaper movie but ditched it for 'Shiri,'
+  which turned out to be one of the best flicks ever - super sad, violent, and funny.
+  definitely not a typical valentines choice!
+tags:
+- humor
+- Shiri
+- bar adventures
+- sneaking out
+- friendship
+- movies
 title: the best movie ever... !!
 wordpress_id: 211
 wordpress_url: http://new.nata2.org/?p=211

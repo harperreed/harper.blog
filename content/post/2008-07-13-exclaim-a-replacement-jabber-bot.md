@@ -1,6 +1,22 @@
 ---
-date: 2008-07-13T23:51:24Z
-tags: ["general","jabber","twitter","python","bot","xmpp","django","google-app-engine","sleekxmpp"]
+date: 2008-07-13 23:51:24+00:00
+summary: i created excla.im to easily update my twitter status from jabber after missing
+  the old jabber bot. it's a simple app using python and django, with a bot that sends
+  messages to twitter. i'm considering sharing the bot on google code since it could
+  help others, and python is fun to work with!
+tags:
+- twitter
+- sleekxmpp
+- general
+- django
+- bot
+- python
+- open source
+- xmpp
+- google app engine
+- jabber bot
+- google-app-engine
+- jabber
 title: Excla.im - a replacement jabber bot
 wordpress_id: 1543
 wordpress_url: http://www.nata2.org/?p=1543

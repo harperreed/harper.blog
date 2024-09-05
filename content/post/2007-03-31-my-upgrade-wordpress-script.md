@@ -1,6 +1,17 @@
 ---
-date: 2007-03-31T18:54:13Z
-tags: ["technology","technology","php","wordpress","automatic-upgrade","bash","script","upgrade"]
+date: 2007-03-31 18:54:13+00:00
+summary: i broke my blog and vented about how much i hate upgrading wordpress. i created
+  a script to automate the process for 50 blogs, though it might kill a blog or two.
+  use at your own risk!
+tags:
+- bash
+- upgrade
+- automation
+- wordpress
+- automatic-upgrade
+- script
+- technology
+- php
 title: My upgrade wordpress script
 wordpress_id: 1427
 wordpress_url: http://www.nata2.org/2007/03/31/my-upgrade-wordpress-script/

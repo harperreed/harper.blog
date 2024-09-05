@@ -1,8 +1,25 @@
 ---
-date: 2002-11-18T07:26:02Z
-excerpt: "one of three choices:\r\n\r\nFiery death from a high rise building\r\nWar!\r\nNuclear
-  War\r\nBush's "
-tags: ["job","harper","reed","war","bush","corporate","politics","politic","asia","screensaver"]
+date: 2002-11-18 07:26:02+00:00
+excerpt: "one of three choices:\r\n\r\nFiery death from a high rise building\r\nWar!\r\
+  \nNuclear War\r\nBush's "
+summary: choosing the office job instead of fiery death or war. not a fan of bush's
+  economic strategy or the domestic spy agency. updated the portfolio and got a new
+  TV for the LOTR 4 dvd set. excited times!
+tags:
+- job
+- screensaver
+- corporate
+- war
+- LOTR
+- politics
+- reed
+- politic
+- portfolio update
+- TV
+- office job
+- harper
+- bush
+- asia
 title: Tomarrow brings..
 wordpress_id: 402
 wordpress_url: http://new.nata2.org/?p=402

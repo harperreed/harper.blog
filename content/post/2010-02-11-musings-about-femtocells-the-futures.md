@@ -1,6 +1,18 @@
 ---
-date: 2010-02-11T01:44:15Z
-tags: ["general","phones","mobile","femtocell","developing-nations"]
+date: 2010-02-11 01:44:15+00:00
+summary: the post discusses the potential of magicJack's femtocell to enhance mobile
+  connectivity, especially in developing regions, and imagines using it to create
+  ad hoc mobile networks during disasters or in rural areas.
+tags:
+- magicJack
+- mobile VOIP
+- femtocell
+- communication technology
+- general
+- mobile
+- developing countries
+- developing-nations
+- phones
 title: 'Musings about femtocells: the futures!'
 wordpress_id: 1669
 wordpress_url: http://www.nata2.org/?p=1669

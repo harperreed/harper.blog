@@ -1,6 +1,19 @@
 ---
-date: 2007-05-01T22:43:42Z
-tags: ["technology","technology","online","web-20","users","communities","digg"]
+date: 2007-05-01 22:43:42+00:00
+summary: today on digg, users rebelled after a story about the aacs controversy got
+  censored. despite the challenges, they flooded the homepage with similar stories
+  and the coveted key. this situation raises questions about user control in online
+  communities and digg's future.
+tags:
+- web-20
+- community
+- digg
+- users
+- censorship
+- online
+- technology
+- aacs
+- communities
 title: 'The Digg Rebellion: a breaking of the covenant'
 wordpress_id: 1440
 wordpress_url: http://www.nata2.org/2007/05/01/the-digg-rebellion-a-breaking-of-the-covenant/

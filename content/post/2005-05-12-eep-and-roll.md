@@ -1,6 +1,19 @@
 ---
-date: 2005-05-12T16:19:32Z
-tags: ["general","books","social","websites","friendster","networks"]
+date: 2005-05-12 16:19:32+00:00
+summary: staying in a lot lately, missing concerts like the killers and death from
+  above, but catching up on sleep. my book and new site are awesome.
+tags:
+- friendster
+- apartment life
+- online projects
+- websites
+- social
+- networks
+- music
+- concerts
+- general
+- sleep
+- books
 title: eep and roll.
 wordpress_id: 1058
 wordpress_url: http://www.nata2.org/2005/05/12/eep-and-roll/
@@ -16,4 +29,4 @@ my new site is awesome.
 
 ok.
 
-i am off. 
+i am off.

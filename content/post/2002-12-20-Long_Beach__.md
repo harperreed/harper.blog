@@ -1,11 +1,26 @@
 ---
-date: 2002-12-20T23:27:16Z
+date: 2002-12-20 23:27:16+00:00
 excerpt: So last night my brother graduated college. It was probably the most entertaining
   graduation ceremony I have seen in a long long time. One of the speakers kept swearing
   and cussing.. hehe. and everyone kept gasping at what he was saying. but he kept
   it up  -  it was so funny. I laughed a bunch. Only 20 or so people graduated. so
   it was a very small group. After the ceremony we went to dinner at t...
-tags: ["chicago","food","college","source","games"]
+summary: "my brother graduated college last night, and it was hilarious! one speaker\
+  \ was swearing like crazy, and everyone was shocked. after the ceremony, we had\
+  \ dinner with my first friend pam, who dropped a crazy story about dating C.C. deville.\
+  \ today we played air hockey and took a boat ride across the bay. i\u2019m kinda\
+  \ missing chicago and my friends, but overall, it\u2019s been a fun time!"
+tags:
+- chicago
+- games
+- graduation
+- food
+- source
+- friends
+- ocean
+- funny moments
+- college
+- family
 title: Long Beach..
 wordpress_id: 419
 wordpress_url: http://new.nata2.org/?p=419

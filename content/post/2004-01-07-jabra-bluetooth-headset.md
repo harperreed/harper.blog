@@ -1,6 +1,16 @@
 ---
-date: 2004-01-07T11:01:41Z
-tags: ["general"]
+date: 2004-01-07 11:01:41+00:00
+summary: picked up a jabra freespeak bluetooth headset for my t610 and it feels super
+  futuristic. thought about the digital bluespoon, but couldn't justify the price.
+  found some reviews that helped me decide, now hoping to pair it with my desktop
+  for VOIP calls!
+tags:
+- general
+- gadgets
+- VOIP
+- technology
+- bluetooth headset
+- Jabra Freespeak
 title: Jabra bluetooth headset
 wordpress_id: 1169
 wordpress_url: http://www.nata2.org/2004/01/07/jabra-bluetooth-headset/

@@ -1,11 +1,21 @@
 ---
-date: 2004-05-11T07:16:45Z
+date: 2004-05-11 07:16:45+00:00
 excerpt: 'i can''t figure out how to get prepaid gprs. so no photolog. :( sad day.
   oh and before I forget. they played classic rock elevator muzak in the domestic
   flight here. like joe walsh and such. it ruled. I was like: "i suddenly recognize
   these songs.. weird." it ruled. the same muzak is apparently everywhere. like in
   the bathroom and the kfc. haha. why was I in a kfc? I don''t know. i...'
-tags: ["rock"]
+summary: "struggling with getting prepaid gprs, so no photolog. sad day. also, they\
+  \ had classic rock muzak on my flight\u2014totally surprised to hear joe walsh,\
+  \ and it was playing everywhere, even in kfc where i ended up munching on some surprisingly\
+  \ tasty food."
+tags:
+- fast food
+- classic rock
+- muzak
+- gprs
+- travel
+- rock
 title: photolog 4 life
 wordpress_id: 852
 wordpress_url: http://new.nata2.org/?p=852

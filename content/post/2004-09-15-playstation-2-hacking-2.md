@@ -1,6 +1,21 @@
 ---
-date: 2004-09-15T22:30:31Z
-tags: ["general","hacking","awesome","sony","haxoring","ps2"]
+date: 2004-09-15 22:30:31+00:00
+summary: this post is all about my adventure hacking my ps2, from adding a hard drive
+  to trying out the BBNav and send0r. it was a wild ride filled with challenges and
+  some cool homebrew gaming. no modchip needed, just a bit of bravery (and a lot of
+  luck).
+tags:
+- PS2 hacking
+- awesome
+- sony
+- hard drive installation
+- homebrew games
+- hacking
+- BBNav
+- general
+- send0r disc
+- ps2
+- haxoring
 title: Playstation 2 hacking
 wordpress_id: 1193
 wordpress_url: http://www.nata2.org/2004/09/15/playstation-2-hacking-2/

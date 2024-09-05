@@ -1,7 +1,17 @@
 ---
-date: 2002-11-08T16:54:50Z
+date: 2002-11-08 16:54:50+00:00
 excerpt: 'Here are some really messed up pictures: one, two, three, four, '
-tags: ["harper","php","war","humor"]
+summary: check out some really messed up pictures related to prisoners of war and
+  a humorous site.
+tags:
+- messed up pictures
+- humor
+- war
+- php
+- Ernie's house of whoopass
+- prisoners of war
+- harper
+- web links
 title: guantanamo airlines
 wordpress_id: 391
 wordpress_url: http://new.nata2.org/?p=391

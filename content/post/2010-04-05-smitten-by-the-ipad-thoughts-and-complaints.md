@@ -1,6 +1,18 @@
 ---
-date: 2010-04-05T00:14:42Z
-tags: ["general","apple","ipad"]
+date: 2010-04-05 00:14:42+00:00
+summary: after a spontaneous trip to the apple store, i ended up with an iPad. it's
+  super cool and feels like the future, but there are some odd drawbacks like no camera
+  and a clunky iWork cloud. overall, it's perfect for casual web use and presentations,
+  but the app selection could be better.
+tags:
+- Apple
+- general
+- iPad
+- gadgets
+- ipad
+- iWork
+- apple
+- tech review
 title: 'Smitten by the iPad: thoughts and complaints. '
 wordpress_id: 1673
 wordpress_url: http://www.nata2.org/?p=1673

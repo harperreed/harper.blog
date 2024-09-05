@@ -1,6 +1,21 @@
 ---
-date: 2005-10-27T01:05:02Z
-tags: ["general","hacking","projects","electronics","audio","t-amp"]
+date: 2005-10-27 01:05:02+00:00
+summary: 'i''ve been working on my amp mod and it''s coming along pretty dope! planning
+  to build four parts: a separate power supply, a preamp with a remote, a chill phono
+  preamp for my turntable, and a basic amp. super excited about the flashy displays
+  and learning more about electronics along the way.'
+tags:
+- electronics
+- homemade audio
+- microcontroller projects
+- audio
+- hacking
+- t-amp
+- general
+- turntable setup
+- amp mod
+- projects
+- DIY electronics
 title: I am going to Haxor my t-amp. Super Klasse
 wordpress_id: 1143
 wordpress_url: http://www.nata2.org/?p=1143
@@ -63,4 +78,4 @@ A probably pseudo parts list:
 
 I think that this project rules and is totally teaching me more about electronics. i mean - i took the classes and have done shit with microcontrollers - but i like this application crap. it rules. 
 
-so there. 
+so there.

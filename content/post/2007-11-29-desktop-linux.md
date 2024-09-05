@@ -1,6 +1,16 @@
 ---
-date: 2007-11-29T01:15:08Z
-tags: ["general","linux","osx","ubuntu","unix","desktop-linux"]
+date: 2007-11-29 01:15:08+00:00
+summary: a linux newbie dives into desktop linux by installing ubuntu and shares thoughts
+  on package managers, love for osx, and nostalgia from the linux past.
+tags:
+- distro wars
+- general
+- osx
+- debian
+- unix
+- linux
+- desktop-linux
+- ubuntu
 title: 'Desktop Linux.... '
 wordpress_id: 1493
 wordpress_url: http://www.nata2.org/2007/11/29/desktop-linux/

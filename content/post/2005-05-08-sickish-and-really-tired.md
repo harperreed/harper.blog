@@ -1,6 +1,20 @@
 ---
-date: 2005-05-08T23:22:27Z
-tags: ["general","blogs","hiromi","clubbing","wordpress","cole"]
+date: 2005-05-08 23:22:27+00:00
+summary: "hiromi and i are waiting for food and i\u2019m feeling sick and sleepy lately.\
+  \ had a wild night out on friday, hitting up a bunch of places and spotted miss\
+  \ kittin! also, hiromi's blog rules and ajax is almost done. <3"
+tags:
+- ajax
+- clubbing
+- blogging
+- night out
+- wordpress
+- cole
+- general
+- food
+- blogs
+- sick days
+- hiromi
 title: sickish.. and really tired.  clubbing
 wordpress_id: 1053
 wordpress_url: http://www.nata2.org/2005/05/08/sickish-and-really-tired/
@@ -16,4 +30,4 @@ on friday i was sickish but still insane. i went to cals with work, went home, w
 
 hiromi's blog is good. that is exciting. i like it when people blog well. and really jump in. and wordpress makes it really easy. which is nice too. <3 heh. 
 
-ajax rules. i really feel that this is the last week for ituners.com - then we will be done. 
+ajax rules. i really feel that this is the last week for ituners.com - then we will be done.

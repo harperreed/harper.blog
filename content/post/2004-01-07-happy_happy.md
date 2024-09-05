@@ -1,11 +1,23 @@
 ---
-date: 2004-01-07T15:47:35Z
+date: 2004-01-07 15:47:35+00:00
 excerpt: today is good. I went to bed somewhat early last night(1am) and I got a lot
   of sleep. I of course had strange sleep dreams and somehow ended up tieingmy self
   in my blankets but that is totally normal. Last night brad, erica, matiss and myself
   all hung out and talked. it was fun. well the subject matter left a little to be
   desired.. but it wasn't hte fault of the participants. we then played 16 t...
-tags: ["php","insane","coding","matiss"]
+summary: today was pretty chill; got some good sleep and had fun playing mario kart
+  with friends. checked out a weird statistics website and finished reading a philip
+  k dick book. thinking about diving into a murakami next. w00t!
+tags:
+- matiss
+- philip k dick
+- sleep dreams
+- php
+- insane
+- mario kart
+- bluetooth headset
+- coding
+- reading
 title: happy happy
 wordpress_id: 717
 wordpress_url: http://new.nata2.org/?p=717

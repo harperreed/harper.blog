@@ -1,11 +1,30 @@
 ---
-date: 2004-03-04T18:00:02Z
-excerpt: "is when you lose a blog entry mid creation. ohhhhh. I hate that a lot. I
-  had written about my night here on bald mountain and how it was a lot of fun and
-  crazy. but now I am not interested in rewriting my entry.  sad day. so here is the
-  summary:\r\nwork dumb\r\nwent to bar with matt\r\nbonded with matt\r\nmorgan invited
-  us to hang out at watusi\r\nwas "
-tags: ["social","phone","blogs","server","war","insane","chris","birthday","humor"]
+date: 2004-03-04 18:00:02+00:00
+excerpt: "is when you lose a blog entry mid creation. ohhhhh. I hate that a lot. I\
+  \ had written about my night here on bald mountain and how it was a lot of fun and\
+  \ crazy. but now I am not interested in rewriting my entry.  sad day. so here is\
+  \ the summary:\r\nwork dumb\r\nwent to bar with matt\r\nbonded with matt\r\nmorgan\
+  \ invited us to hang out at watusi\r\nwas "
+summary: lost my blog entry about a fun night out and couldn't be bothered to rewrite
+  it. went to a bar with matt, had some wild times at watusi, got a weird scratch
+  from wrestling, and drank a bit too much. dealt with server issues too. tonight's
+  acupuncture and chris/steph's bday. jon's visiting tomorrow to paint. oh, and some
+  random links at the end!
+tags:
+- chris
+- phone
+- server
+- birthday
+- humor
+- blogs
+- blogging
+- war
+- night out
+- server issues
+- fun times
+- social
+- insane
+- random thoughts
 title: one of my most hated things
 wordpress_id: 768
 wordpress_url: http://new.nata2.org/?p=768

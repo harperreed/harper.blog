@@ -1,6 +1,26 @@
 ---
-date: 2006-07-18T03:07:43Z
-tags: ["general","chicago","fun","ideas","skinnycorp","heat","weather","squidoo","eating","dumb","irazu","drinking"]
+date: 2006-07-18 03:07:43+00:00
+summary: struggling with the heat without AC, sharing a fun work day, shopping for
+  cool apocalypse shirts, grabbing dinner and drinks at irazu with friends, and brainstorming
+  a new spoiler database idea.
+tags:
+- heatwave
+- worklife
+- general
+- fun
+- skinnycorp
+- ideas
+- heat
+- weather
+- drinking
+- foodie
+- irazu
+- chicago
+- eating
+- dumb
+- internetideas
+- clothing
+- squidoo
 title: 'jesus h christ. it is hot up in here. '
 wordpress_id: 1307
 wordpress_url: http://www.nata2.org/2006/07/18/jesus-h-christ-it-is-hot-up-in-here/

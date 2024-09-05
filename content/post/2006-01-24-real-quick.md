@@ -1,6 +1,16 @@
 ---
-date: 2006-01-24T05:14:24Z
-tags: ["general","awe"]
+date: 2006-01-24 05:14:24+00:00
+summary: the author shares a frustrating experience with a chicago company that snubbed
+  him over a potential deal, contrasting it with a positive experience at endeca where
+  sales people were genuinely helpful and stayed engaged post-sale.
+tags:
+- general
+- bad experiences
+- sales
+- austin vibes
+- awe
+- business
+- customer service
 title: 'real quick. '
 wordpress_id: 1200
 wordpress_url: http://www.nata2.org/2006/01/24/real-quick/

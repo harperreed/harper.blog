@@ -1,6 +1,16 @@
 ---
-date: 2007-03-06T21:20:07Z
-tags: ["general"]
+date: 2007-03-06 21:20:07+00:00
+summary: been working on my finances with hiromi and our joint account. today i tried
+  to change my student loan autodebit info and got a rude awakening from iowa student
+  loan. they messed up my loan bonus for changing accounts and i'm losing a chunk
+  of cash. totally frustrating experience!
+tags:
+- general
+- budgeting
+- personal finance
+- student loans
+- finance management
+- autodebit
 title: Goddamn. I hate Iowa Student loan people.
 wordpress_id: 1416
 wordpress_url: http://www.nata2.org/2007/03/06/goddamn-i-hate-iowa-student-loan-people/

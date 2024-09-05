@@ -1,6 +1,22 @@
 ---
-date: 2005-07-19T03:19:51Z
-tags: ["general","movies","music","hiromi","clubbing","awesome","party","nightlife"]
+date: 2005-07-19 03:19:51+00:00
+summary: struggling to stay on task, but planning for a new office and laptop. reminiscing
+  about old tech, excited to dive back into rails, and reflecting on a fun weekend
+  at the intonation festival.
+tags:
+- general
+- clubbing
+- awesome
+- laptop
+- live music
+- productivity
+- hiromi
+- music
+- movies
+- rails development
+- party
+- nightlife
+- introspection
 title: tonight / this weekend
 wordpress_id: 1095
 wordpress_url: http://www.nata2.org/?p=1095
@@ -16,4 +32,4 @@ This weekend was a good time. the <a href="http://www.intonationmusicfest.com/">
 
 speaking of which. i need to goto bed. 
 
-but first. tonight i saw Charlie and the Chocolate family. It was awesome. the best thing ever. so awesome. i loved it. 
+but first. tonight i saw Charlie and the Chocolate family. It was awesome. the best thing ever. so awesome. i loved it.

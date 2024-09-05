@@ -1,9 +1,27 @@
 ---
-date: 2002-07-31T13:58:40Z
-excerpt: "A fire soaked Dick Cheney will be driving his very own segway(segue wtf)
-  if you donate money. I don't think you should however. because I would use the money
-  a more wisely...\r\n\r\nMy mom is in town. we are going to visit my "
-tags: ["juggle","jugglers","dylan","reed","search","mom","juggling","vacation","cars","porn","google"]
+date: 2002-07-31 13:58:40+00:00
+excerpt: "A fire soaked Dick Cheney will be driving his very own segway(segue wtf)\
+  \ if you donate money. I don't think you should however. because I would use the\
+  \ money a more wisely...\r\n\r\nMy mom is in town. we are going to visit my "
+summary: dick cheney's driving a segway if you donate money, but honestly, it's a
+  better idea to save your cash. my mom's in town, and we're headed to california
+  to visit my brother, who's apparently a porn star. super stoked for my first vacation!
+  check out some juggling pics from the weekend.
+tags:
+- mom
+- Dick Cheney
+- juggle
+- cars
+- porn
+- juggling
+- jugglers
+- donation
+- vacation
+- reed
+- search
+- dylan
+- google
+- family
 title: Cheney will act his revenge against those who speak ill
 wordpress_id: 331
 wordpress_url: http://new.nata2.org/?p=331

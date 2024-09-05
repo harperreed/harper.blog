@@ -1,6 +1,21 @@
 ---
-date: 2006-12-19T02:23:25Z
-tags: ["general","christmas","hiromi","travel","japan","new-years"]
+date: 2006-12-19 02:23:25+00:00
+summary: getting ready for my 3rd visit to hiromi in tokyo! excited to meet her family
+  in yamanashi for new year's. it's my first christmas away from my fam, but i can't
+  wait to celebrate with her and maybe see mt. fuji. also, i'm flying high with my
+  mileage - possibly hitting 100k soon!
+tags:
+- New Year's
+- travel
+- Family
+- japan
+- christmas
+- Hiromi
+- Travel
+- general
+- Tokyo trip
+- hiromi
+- new-years
 title: Going to Japan.
 wordpress_id: 1399
 wordpress_url: http://www.nata2.org/2006/12/19/going-to-japan/

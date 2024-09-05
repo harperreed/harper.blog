@@ -1,14 +1,36 @@
 ---
-date: 2004-05-12T08:55:07Z
+date: 2004-05-12 08:55:07+00:00
 excerpt: yesterday and last nigth was pretty fun. guru, siddu and myself all went
   around bangalore again. this time we hung out in a very popular and modern area
   with lots of shops. I went to this great little shop that had some nice sandlewood
   and such. it was all very nice but really expensive. so I lost money in that gamble.
   and probably yall gained some gifts ;). I then purchased a swatch watch(mainly...
-tags: ["social","kinnera","cell","search","sick","food","chris","bush","action","politics","politic","iraq","planes"]
+summary: yesterday and last night was a blast in bangalore with guru and siddu. we
+  checked out a modern area, splurged on some sandlewood, and I picked up a swatch
+  and bangles. had an interesting dining experience with a strong british vibe too.
+  saw some stunning temples and yo-yoed like a pro. getting a bit homesick but still
+  loving the adventure!
+tags:
+- travel
+- iraq
+- bangalore
+- politics
+- chris
+- sick
+- planes
+- culture
+- bush
+- action
+- cell
+- kinnera
+- social
+- search
+- friendship
+- politic
+- food
 title: so. this is a story
 wordpress_id: 853
 wordpress_url: http://new.nata2.org/?p=853
 ---
 
-yesterday and last nigth was pretty fun. guru, siddu and myself all went around bangalore again. this time we hung out in a very popular and modern area with lots of shops. I went to this great little shop that had some nice sandlewood and such. it was all very nice but really expensive. so I lost money in that gamble. and probably yall gained some gifts ;). I then purchased a swatch watch(mainly cuz I have NO idea what time it is and when I landed I was confused for days) and I got some bangels for my lady friends (if they are not mean like some (heh)). I then was stricken with feelings of both extreme hunger and extreme fatigue(stupid airplanes and dates) and was totally confused - so we went to this really "western" place and had excellent food. <br/><br/>i am almost completely amazed at the "british" influence that is still apparent here. at the resturant everyone was interested in engaging in this weird servitude version of waiting tables. all very polite, traditional and very formal. it weirded me out. mostly cuz I get nervous in those situations. but the british influence is everyehere - and as guru said "we have had only 50 years to get over it." so I guess it follows. <br/><Br>i have slowed down on the picture taking. I don't want to take too many pictures of "the natives" cuz that seems pretty rude - even though I am way more interested in capturing the lives my friends lead than I am interested in capturing some temple. also.. we saw some temples yesterday. they are awesome. like nothing else I have seen. they are like a mix of graceland, vegas and a chruch. it is all very pretty. I was able to surprise everyone with my ability to name the hindu gods (go kinnera) and hoepfully will be visiting some temples and christian chruches tomorrow. <Br><br/>the weather is just like california. <br/><br/>i got kinda homesick last night. mostly cuz I was soo tired and felt really weak. I wanted to just talk to one of my friends. this situation reminds me of how social I am. how I strive for social contact and interaction. I get plenty here. but I am so led around - I don't feel in control. and you know how I like control. hehe. stupid airplanes. but yea. <br/><br/>i yoyoed a bunch today. garnered some stares. heh. "surprise"<br/><br/>now I am going to go and do work. or something. oh and meetings here are awesome. everyone formally suggests a change and then all hell breaks loose and everyone yells. then everyone thinks and it repeats. it is like meetings with the dev people at work (so I guess it makes sense) so yea. it is awesome. <br/><br/>oh. and it is VERY interesting to see the al queda reacting to our horrible mess of abuse. wtf. I mean. one american publicly killed versus the 20 or so iraqis killed. hmm. weird. it doesn't make it right. but we shoudl once again look at WHY we are gettign attacked and not just blindly seek retribution (which I know we will(stupid bush)). it was interesting to see this in the newspaper this morning. it had such a small portion. heh. rule. nobody is surprised except the really ignorant U.S. I love international politics. go america. we rule. hah. umm yea. <br/><br/>my life has been rendered into searching for bottled water. 
+yesterday and last nigth was pretty fun. guru, siddu and myself all went around bangalore again. this time we hung out in a very popular and modern area with lots of shops. I went to this great little shop that had some nice sandlewood and such. it was all very nice but really expensive. so I lost money in that gamble. and probably yall gained some gifts ;). I then purchased a swatch watch(mainly cuz I have NO idea what time it is and when I landed I was confused for days) and I got some bangels for my lady friends (if they are not mean like some (heh)). I then was stricken with feelings of both extreme hunger and extreme fatigue(stupid airplanes and dates) and was totally confused - so we went to this really "western" place and had excellent food. <br/><br/>i am almost completely amazed at the "british" influence that is still apparent here. at the resturant everyone was interested in engaging in this weird servitude version of waiting tables. all very polite, traditional and very formal. it weirded me out. mostly cuz I get nervous in those situations. but the british influence is everyehere - and as guru said "we have had only 50 years to get over it." so I guess it follows. <br/><Br>i have slowed down on the picture taking. I don't want to take too many pictures of "the natives" cuz that seems pretty rude - even though I am way more interested in capturing the lives my friends lead than I am interested in capturing some temple. also.. we saw some temples yesterday. they are awesome. like nothing else I have seen. they are like a mix of graceland, vegas and a chruch. it is all very pretty. I was able to surprise everyone with my ability to name the hindu gods (go kinnera) and hoepfully will be visiting some temples and christian chruches tomorrow. <Br><br/>the weather is just like california. <br/><br/>i got kinda homesick last night. mostly cuz I was soo tired and felt really weak. I wanted to just talk to one of my friends. this situation reminds me of how social I am. how I strive for social contact and interaction. I get plenty here. but I am so led around - I don't feel in control. and you know how I like control. hehe. stupid airplanes. but yea. <br/><br/>i yoyoed a bunch today. garnered some stares. heh. "surprise"<br/><br/>now I am going to go and do work. or something. oh and meetings here are awesome. everyone formally suggests a change and then all hell breaks loose and everyone yells. then everyone thinks and it repeats. it is like meetings with the dev people at work (so I guess it makes sense) so yea. it is awesome. <br/><br/>oh. and it is VERY interesting to see the al queda reacting to our horrible mess of abuse. wtf. I mean. one american publicly killed versus the 20 or so iraqis killed. hmm. weird. it doesn't make it right. but we shoudl once again look at WHY we are gettign attacked and not just blindly seek retribution (which I know we will(stupid bush)). it was interesting to see this in the newspaper this morning. it had such a small portion. heh. rule. nobody is surprised except the really ignorant U.S. I love international politics. go america. we rule. hah. umm yea. <br/><br/>my life has been rendered into searching for bottled water.

@@ -1,11 +1,26 @@
 ---
-date: 2002-07-06T09:21:48Z
+date: 2002-07-06 09:21:48+00:00
 excerpt: So tonight.. I played neverwinter nights with matiss... for quite awhile.
   it was fun.. then at around 10.. hiromi, cole and myself took the bus to the prodigal
   son. It was a good time. we hung out. I traded in some of my dvds. they will enjoy
   thenm I think. My friend pam came over. we hung out for a bit.. and then went to
   liars club. heh. and we got in for a reduced price because pam is a rocksta...
-tags: ["women","rock","kstar","matiss","hiromi"]
+summary: tonight was a blast! played neverwinter nights with matiss, then hit up the
+  prodigal son with hiromi and cole. traded some dvds and hung out. later, pam came
+  over and we headed to liars club for a cheaper entry thanks to her rockstar status.
+  switched gears and went to spybar where we ended up in the VIP section with some
+  cool people. now i'm home and it's late, gotta prep for a garage sale tomorrow.
+tags:
+- fun times
+- women
+- kstar
+- night out
+- rock
+- bar hop
+- gaming
+- matiss
+- hiromi
+- friends
 title: i liked tonight.. heh.. haha..
 wordpress_id: 310
 wordpress_url: http://new.nata2.org/?p=310

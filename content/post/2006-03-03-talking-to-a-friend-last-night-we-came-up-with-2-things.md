@@ -1,6 +1,18 @@
 ---
-date: 2006-03-03T14:48:34Z
-tags: ["general","myspace","web-20","rants"]
+date: 2006-03-03 14:48:34+00:00
+summary: last night at work, i chatted with andrew about myspace and its crazy potential
+  impact on elections, then we pivoted to a convo on success, drawing parallels with
+  threadless and the web 2.0 philosophy. keep it simple and focused, folks!
+tags:
+- general
+- work musings
+- web-20
+- success mindset
+- myspace
+- myspace impact
+- web 2.0
+- rants
+- office talks
 title: Talking to a friend last night we came up with 2 things
 wordpress_id: 1228
 wordpress_url: http://www.nata2.org/2006/03/03/talking-to-a-friend-last-night-we-came-up-with-2-things/

@@ -1,10 +1,21 @@
 ---
-date: 2005-02-10T01:29:32Z
-excerpt: "heh. check out my new design. it is almost done. I need to fancy it up a
-  bit and tweak it a little bit. but for the most part it is near completion. \n\nalso
-  check out 43 things - a really really cool idea. I think I will integrate it with
-  my new blog design. I also want to make a friends section like nick whate..."
-tags: ["design"]
+date: 2005-02-10 01:29:32+00:00
+excerpt: "heh. check out my new design. it is almost done. I need to fancy it up a\
+  \ bit and tweak it a little bit. but for the most part it is near completion. \n\
+  \nalso check out 43 things - a really really cool idea. I think I will integrate\
+  \ it with my new blog design. I also want to make a friends section like nick whate..."
+summary: hey, check out my almost done blog design! got some tweaks left. also diggin'
+  the idea of integrating 43 things and making a friends section. thinking about using
+  xmlhttp for rss stuff, and maybe mixing tiddlywiki with javascript for a cool notepad.
+  also, check out my buddy kevi's site as he works on his weight loss journey. nighty
+  night!
+tags:
+- web development
+- blog design
+- design
+- tiddlywiki
+- friend's site
+- 43 things
 title: xmlhttp. tiddlywiki. new design. other stuff
 wordpress_id: 991
 wordpress_url: http://new.nata2.org/?p=991
@@ -17,4 +28,4 @@ also check out <a href="http://43things.com">43 things</a> - a really really coo
 
 <Br><br/>also check out my friend kevi's site: <A href="http://www.slimkevi.com/">slimkevi</a>. he is trying to lose a bunch of weight. the site is totally awesome. good luck. I hope he finds himself successful. 
 <Br><br/>
-having reread my entry - I realized I am incredibly tired and need to goto bed. gnight. 
+having reread my entry - I realized I am incredibly tired and need to goto bed. gnight.

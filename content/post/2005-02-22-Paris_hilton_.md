@@ -1,11 +1,25 @@
 ---
-date: 2005-02-22T13:29:45Z
+date: 2005-02-22 13:29:45+00:00
 excerpt: 'So as everyone knows - paris hilton''s phonebook was &quot;hacked.&quot;
   it seems to me that it was gained through social engineering. and that social engineering
   was nothing more than someone calling up paris and asking for her tmobile password.
   probably something along the lines of:hacker: Hi. I am operator #123 from T-Mobile.
   There has been a se...'
-tags: ["social","phone","hacker","hacked","mobile","tmobile"]
+summary: this post dives into the paris hilton phone hack, suggesting it was likely
+  a social engineering scam where a caller pretended to be from T-Mobile to trick
+  her into giving her password.
+tags:
+- tmobile
+- social
+- hacker
+- cybersecurity
+- social engineering
+- hacked
+- phone
+- mobile
+- phone hack
+- paris hilton
+- T-Mobile
 title: Paris hilton.
 wordpress_id: 997
 wordpress_url: http://new.nata2.org/?p=997

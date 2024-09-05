@@ -1,9 +1,32 @@
 ---
-date: 2003-09-23T15:32:03Z
+date: 2003-09-23 15:32:03+00:00
 excerpt: 'is such a hippie that he is concerned about that "fad" called global warming.
   apparently some big chuck of ice broke and now everyone is all scared. it is supposed
   to be some proof that '
-tags: ["social","harper","reed","phone","war","school","rock","bush","marriage","security","business","health","terrorism","iraq","drugs"]
+summary: the post dives into concerns about global warming and a rant about government
+  ineptitude, while also sharing a frustrating experience with loud music and sleep
+  troubles. it wraps up with a note to spammers to back off.
+tags:
+- iraq
+- school
+- marriage
+- global warming
+- phone
+- classic rock
+- terrorism
+- reed
+- business
+- sleep problems
+- bush
+- war
+- security
+- social
+- harper
+- rock
+- government
+- spam
+- health
+- drugs
 title: my friend scott.
 wordpress_id: 624
 wordpress_url: http://new.nata2.org/?p=624

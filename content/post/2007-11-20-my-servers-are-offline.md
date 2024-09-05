@@ -1,6 +1,22 @@
 ---
-date: 2007-11-20T04:11:46Z
-tags: ["general","hosting","mosso","servers","colocation","shared-hosting","mediatemple"]
+date: 2007-11-20 04:11:46+00:00
+summary: after nearly 7 years, i'm officially shutting down my servers. it's been
+  a wild ride with tons of traffic and learning experiences. now, i'm switching to
+  a new mix of hosting options, but i'll miss the control and nostalgia of my old
+  setup.
+tags:
+- hosting
+- mosso
+- servers
+- trafficStats
+- shared-hosting
+- serverShutdown
+- techJourney
+- colocation
+- general
+- hostingChange
+- mediatemple
+- linuxLove
 title: My servers are offline. :(
 wordpress_id: 1491
 wordpress_url: http://www.nata2.org/2007/11/20/my-servers-are-offline/

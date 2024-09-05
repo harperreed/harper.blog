@@ -1,11 +1,23 @@
 ---
-date: 2004-01-05T06:09:03Z
+date: 2004-01-05 06:09:03+00:00
 excerpt: This weekend was fun. besides having the craziest of sleep patterns I was
   able to hang with some away cool cats. first on friday I hung out with morgan. we
   went and got dinnera nd then came back to my place and drank and talked with matiss
   and hiromi. we ended up watchin a korean remake of ringu called the ring virus.
   it was ok. not wonderful. I should have pushed for fun sai yuk. but nooooo... ;...
-tags: ["books","cell","war","matiss","hiromi"]
+summary: this weekend was a blast! hung out with morgan and friends, watched a korean
+  horror flick, and devoured some awesome fish and chips. also hit up barnes and noble
+  and scored some sci-fi books. can't wait to dive in!
+tags:
+- war
+- cell
+- movies
+- weekend fun
+- sleep patterns
+- matiss
+- hiromi
+- friends
+- books
 title: weekend rocks
 wordpress_id: 713
 wordpress_url: http://new.nata2.org/?p=713

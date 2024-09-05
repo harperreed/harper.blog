@@ -1,11 +1,23 @@
 ---
-date: 2003-04-03T16:55:09Z
+date: 2003-04-03 16:55:09+00:00
 excerpt: Last night I released on eof my first GPLd software apps. It was fun. Check
   it out here. Hopefully it won't kill my 3gscreensaver.com market. heh. whoops. Umm.
   I am tired again. I didn't really get sleep. in fact I got the opposite of sleep.
   a kick in the head. stupid heads. I got some new buttons - one with mary, one with
   tux, one with a pentegra...
-tags: ["war","coding","google","screensaver"]
+summary: last night i dropped my first gpl'd software app, so check it out! i'm kinda
+  tired and got new buttons to give away. also, been playing with this cool touchgraph
+  thing.
+tags:
+- TouchGraph
+- GPL software
+- screensaver
+- war
+- open source
+- buttons
+- coding
+- google
+- 3g screensaver
 title: lalala connect the dots..
 wordpress_id: 476
 wordpress_url: http://new.nata2.org/?p=476

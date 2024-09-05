@@ -1,6 +1,19 @@
 ---
-date: 2007-05-19T14:56:20Z
-tags: ["general","stupid","costs","expensive","money","annoying","fraud","ticketmaster","events","tickets"]
+date: 2007-05-19 14:56:20+00:00
+summary: had to buy tickets for jon stewart and ticketmaster totally ripped us off.
+  it cost $126.25 when the tickets were only $50 each. what's up with those processing
+  fees? so frustrating!
+tags:
+- general
+- ticketmaster
+- costs
+- expensive
+- tickets
+- fraud
+- events
+- annoying
+- stupid
+- money
 title: WTF TicketMaster
 wordpress_id: 1444
 wordpress_url: http://www.nata2.org/2007/05/19/wtf-ticketmaster/

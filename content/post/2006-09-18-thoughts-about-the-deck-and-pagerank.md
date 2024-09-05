@@ -1,6 +1,16 @@
 ---
-date: 2006-09-18T16:46:14Z
-tags: ["technology","technology"]
+date: 2006-09-18 16:46:14+00:00
+summary: this post talks about a blog post on matt cutt's seo tips and the DECK advertising
+  program. it goes into how the DECK's targeted links might break google's guidelines
+  and poses questions about whether it's different from link spamming. overall, it
+  considers the implications for advertisers and search rankings.
+tags:
+- link building
+- Matt Cutts
+- technology
+- The Deck
+- PageRank
+- SEO
 title: Thoughts about The DECK and PageRank.
 wordpress_id: 1346
 wordpress_url: http://www.nata2.org/2006/09/18/thoughts-about-the-deck-and-pagerank/

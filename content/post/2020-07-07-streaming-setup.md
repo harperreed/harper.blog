@@ -1,9 +1,20 @@
 ---
-title: A video conference setup for pro level video chats
-date: 2020-07-07T16:58:46.030Z
+date: 2020-07-07 16:58:46.030000+00:00
 description: My streaming setup
 draft: true
+summary: "after years of traveling and speaking at conferences, i\u2019m now home\
+  \ and doing tons of video chats. i wrote some software and set up a killer zoom\
+  \ room and streaming rig. i\u2019ll share my setup and some tips to make remote\
+  \ calls better!"
+tags:
+- video conferencing
+- remote work setup
+- zoom room
+- streaming equipment
+- COVID-19 impact
+title: A video conference setup for pro level video chats
 ---
+
 For the past 7 or 8 years I have  been traveling around the world speaking at amazing conferences and hanging out with amazing people. It was really great. However, that has all changed due to COVID-19. We now hang out in our houses and chat on zoom, hangouts, etc. It is... ok. But I think it can be better. let me walk you through what i have done. 
 
 Like most of the people reading this, I was stuck in my house doing 200 video chat meetings a day.

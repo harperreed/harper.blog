@@ -1,10 +1,24 @@
 ---
-date: 2002-04-10T16:33:38Z
-excerpt: "I got an email today from Ars Electronica notifying me that\nmy website
-  AudreyHacking.com has been accepted for entry in the \nPrix Ars Electronica 2002
-  competition. Whee. I hope I win. That would rule. In other news. I slept a lot last
-  night. it was nice. however.. I slept so much..."
-tags: ["dylan","reed","hacking","audreyhacking","audrey","apple"]
+date: 2002-04-10 16:33:38+00:00
+excerpt: "I got an email today from Ars Electronica notifying me that\nmy website\
+  \ AudreyHacking.com has been accepted for entry in the \nPrix Ars Electronica 2002\
+  \ competition. Whee. I hope I win. That would rule. In other news. I slept a lot\
+  \ last night. it was nice. however.. I slept so much..."
+summary: got an email today that my site got into the prix ars electronica 2002 competition!
+  sweet. also, i overslept this morning. thinking about getting an ibook soon and
+  might work on some link embedding for the weblog.
+tags:
+- AudreyHacking
+- audreyhacking
+- apple
+- hacking
+- iBook
+- Prix Ars Electronica
+- weblog
+- reed
+- Ars Electronica
+- dylan
+- audrey
 title: Win Win Win Win
 wordpress_id: 256
 wordpress_url: http://new.nata2.org/?p=256

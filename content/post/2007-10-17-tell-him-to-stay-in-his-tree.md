@@ -1,6 +1,19 @@
 ---
-date: 2007-10-17T01:18:47Z
-tags: ["general","family","disease","terrorism","trees","eczema"]
+date: 2007-10-17 01:18:47+00:00
+summary: my dad's in the hospital battling some extreme eczema, and my mom's stressing
+  out. tried to get my siblings involved, but it's a bit of a mess. ended up calling
+  my buddy jon who's in a tree in california. flying out to help my mom and the fam
+  for a few days. should be interesting!
+tags:
+- trees
+- hospital
+- support
+- general
+- humor
+- terrorism
+- disease
+- family
+- eczema
 title: Tell him to stay in his tree
 wordpress_id: 1485
 wordpress_url: http://www.nata2.org/2007/10/17/tell-him-to-stay-in-his-tree/

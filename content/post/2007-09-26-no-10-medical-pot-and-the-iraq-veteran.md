@@ -1,6 +1,15 @@
 ---
-date: 2007-09-26T10:40:17Z
-tags: ["general"]
+date: 2007-09-26 10:40:17+00:00
+summary: i just read this article about an iraq veteran dealing with post-traumatic
+  stress. it's intense but worth checking out. the writing is solid and reflects some
+  heavy truths about the current state of the US.
+tags:
+- general
+- veterans
+- Iraq Veteran
+- Esquire
+- mental health
+- post-traumatic stress
 title: 'No. 10: Medical Pot and the Iraq Veteran'
 wordpress_id: 1480
 wordpress_url: http://www.nata2.org/2007/09/26/no-10-medical-pot-and-the-iraq-veteran/

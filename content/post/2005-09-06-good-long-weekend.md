@@ -1,6 +1,24 @@
 ---
-date: 2005-09-06T13:24:45Z
-tags: ["general","hacking","birthday","movies","fun","money","parties","work","psp","rani"]
+date: 2005-09-06 13:24:45+00:00
+summary: back to work and feeling pumped! thought about building an intranet for some
+  rss feeds. had a busy weekend with parties and hanging out with friends. scored
+  a deal on a psp and dove into some classic games. hit up a tapas place for Rani's
+  birthday and wrapped it up with some late-night fun. just chilled at home watching
+  movies and messing with torrents.
+tags:
+- parties
+- general
+- fun
+- birthday
+- work
+- rani
+- weekend recap
+- house warming
+- movies
+- hacking
+- psp
+- money
+- emulators
 title: 'good long weekend. '
 wordpress_id: 1125
 wordpress_url: http://www.nata2.org/?p=1125
@@ -24,5 +42,3 @@ After the BBQ i went home, took a nap, played Rtype and then got ready for my VO
 So yesterday i just worked in front of the TV. i watched meet the fockers, LOTR: ROTK, and gremlins 2. I also got some ISO's to boot. how i love torrents. 
 
 <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//war/aaron_broussard.mov">this is horribly sad</a>
-
-

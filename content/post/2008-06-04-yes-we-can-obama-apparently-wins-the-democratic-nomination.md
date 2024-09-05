@@ -1,6 +1,22 @@
 ---
-date: 2008-06-04T01:00:16Z
-tags: ["general","politics","obama","barack-obama","democratic","election"]
+date: 2008-06-04 01:00:16+00:00
+summary: "barack obama has won the democratic nomination! super excited about this\
+  \ news after all the hard work we put in. i'm really glad hilary clinton didn't\
+  \ win\u2014her negative campaigning was annoying. now it\u2019s time to support\
+  \ obama and the democratic party to defeat john mccain in november. electing mccain\
+  \ is just endorsing more bush-like policies. let\u2019s spread some hope, not fear.\
+  \ go donate!"
+tags:
+- Democratic nomination
+- obama
+- election
+- barack-obama
+- hope
+- democratic
+- general
+- politics
+- Hilary Clinton
+- Barack Obama
 title: YES WE CAN. Obama apparently wins the democratic nomination
 wordpress_id: 1529
 wordpress_url: http://www.nata2.org/?p=1529

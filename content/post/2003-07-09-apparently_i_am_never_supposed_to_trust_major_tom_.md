@@ -1,11 +1,23 @@
 ---
-date: 2003-07-09T14:27:31Z
+date: 2003-07-09 14:27:31+00:00
 excerpt: anyway.. yesterday - I ruled it up. I worked really hard at work.. fixed
   a couple servers.. broke a couple firewalls.. programmed a couple web apps. and
   then went home. took a nap. a long nap. made really good progress on my other work.
   did a bunch of cool stuff there and then.. went to innjoy and hung with some friends..
   and then went to rockatiki.. which sucked.. sorta. it was kinda cool.. but ...
-tags: ["harper","server","rock"]
+summary: had a productive day at work fixing servers and coding, then took a long
+  nap. hung out with friends at innjoy, checked out rockatiki, and ended up chatting
+  with marcia before crashing for the night. oh, and set up a webcam at work for stress
+  relief.
+tags:
+- server
+- webcam
+- work
+- weekend
+- relaxation
+- friends
+- harper
+- rock
 title: apparently i am never supposed to trust major tom.
 wordpress_id: 561
 wordpress_url: http://new.nata2.org/?p=561

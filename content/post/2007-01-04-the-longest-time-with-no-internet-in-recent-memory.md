@@ -1,6 +1,15 @@
 ---
-date: 2007-01-04T06:20:59Z
-tags: ["general"]
+date: 2007-01-04 06:20:59+00:00
+summary: just got back from a fun new years celebration with hiromi's relatives in
+  yamanashi. spent almost 4 days without internet, which was pretty cool despite getting
+  a bit antsy on the last day. more on the trip later and check out my pictures!
+tags:
+- general
+- New Years
+- internet detox
+- Japan
+- Yamanashi
+- travel
 title: The longest time with no Internet in recent memory
 wordpress_id: 1401
 wordpress_url: http://www.nata2.org/2007/01/04/the-longest-time-with-no-internet-in-recent-memory/

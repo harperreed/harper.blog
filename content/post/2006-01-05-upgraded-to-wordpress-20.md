@@ -1,6 +1,18 @@
 ---
-date: 2006-01-05T13:17:59Z
-tags: ["general","skinnycorp","wordpress","work","upgrading","extratasty"]
+date: 2006-01-05 13:17:59+00:00
+summary: "upgraded to wordpress 2.0 and it was super easy\u2014took about 3 minutes\
+  \ total! been working on extratasty and it's getting a good reception online. stoked\
+  \ about it!"
+tags:
+- skinnycorp
+- work
+- blogging
+- upgrading
+- wordpress
+- web development
+- general
+- extratasty
+- upgrade
 title: upgraded to wordpress 2.0
 wordpress_id: 1156
 wordpress_url: http://www.nata2.org/2006/01/05/upgraded-to-wordpress-20/

@@ -1,6 +1,24 @@
 ---
-date: 2007-11-05T16:10:03Z
-tags: ["general","hacking","google","gmail","xml","javascript","ajax","contacts","isync","contact-manager"]
+date: 2007-11-05 16:10:03+00:00
+summary: check out the new contact manager in Gmail! it's got cool import/export features
+  and a way to access your contacts in XML/JS format. here's a few tips and tricks
+  to get your contact list organized, plus a neat way to find your contact photos!
+tags:
+- ajax
+- general
+- Contact Management
+- javascript
+- xml
+- Syncing Contacts
+- isync
+- contacts
+- hacking
+- Gmail
+- google
+- Tech Tips
+- contact-manager
+- Google Contacts
+- gmail
 title: Google Contact Manager Hacking
 wordpress_id: 1489
 wordpress_url: http://www.nata2.org/2007/11/05/google-contact-manager-hacking-2/

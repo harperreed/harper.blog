@@ -1,10 +1,27 @@
 ---
-date: 2003-07-29T14:43:53Z
-excerpt: "so yesterday I read two books. it was madness. I just needed that stimulation
-  I guess.. \n\nfirst I read Angels & Demons by Dan Brown. It was pretty good. a very
-  nice read. I felt that it was similar to those science/medical fiction books that
-  are use a hihg base level of knowledge about the subject... the jargon I g..."
-tags: ["books","hacking","audreyhacking","audrey","insane","college"]
+date: 2003-07-29 14:43:53+00:00
+excerpt: "so yesterday I read two books. it was madness. I just needed that stimulation\
+  \ I guess.. \n\nfirst I read Angels & Demons by Dan Brown. It was pretty good. a\
+  \ very nice read. I felt that it was similar to those science/medical fiction books\
+  \ that are use a hihg base level of knowledge about the subject... the jargon I\
+  \ g..."
+summary: 'so yesterday I read two books: Angels & Demons by dan brown and Bringing
+  Down the House. Angels & Demons was a fun read about catholicism and the vatican,
+  and now I''m diving into the da vinci code. Bringing Down the House was all about
+  MIT students counting cards in Vegas, but I wanted more of the crazy Vegas stories.
+  stayed up way too late reading and now I''m super tired and need caffeine.'
+tags:
+- caffeine needed
+- book reviews
+- Bringing Down the House
+- audreyhacking
+- insane
+- reading marathon
+- hacking
+- audrey
+- college
+- Angels & Demons
+- books
 title: yesterday..
 wordpress_id: 580
 wordpress_url: http://new.nata2.org/?p=580

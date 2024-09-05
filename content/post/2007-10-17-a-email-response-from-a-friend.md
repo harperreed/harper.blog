@@ -1,6 +1,21 @@
 ---
-date: 2007-10-17T22:16:51Z
-tags: ["general","war","fear","sad","email","friends"]
+date: 2007-10-17 22:16:51+00:00
+summary: the email discusses the struggles of veterans, particularly a friend named
+  john who returned from iraq changed and disconnected. it highlights the lack of
+  support for these individuals and the emotional toll of war, emphasizing the need
+  for better care for veterans.
+tags:
+- veterans
+- fear
+- war
+- mental health
+- general
+- friends
+- sad
+- Iraq war
+- medical marijuana
+- support for troops
+- email
 title: A email response from a friend
 wordpress_id: 1486
 wordpress_url: http://www.nata2.org/2007/10/17/a-email-response-from-a-friend/

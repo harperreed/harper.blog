@@ -1,9 +1,18 @@
 ---
-date: 2003-06-25T16:09:08Z
+date: 2003-06-25 16:09:08+00:00
 excerpt: 'so my "wake up early" high has left and the tiredness has worn through.
   doh. Religion is a must for these poor folks. But I know the secret handshake -
   so I am '
-tags: ["blood","chris","religion"]
+summary: "woke up early but now feeling super tired. religion is vital for some folks,\
+  \ but i\u2019ve got the secret handshake, so i'm good. is he safe though?"
+tags:
+- chris
+- religion
+- safety
+- tiredness
+- secret handshake
+- wake up early
+- blood
 title: i droppped like a ton of bricks
 wordpress_id: 553
 wordpress_url: http://new.nata2.org/?p=553

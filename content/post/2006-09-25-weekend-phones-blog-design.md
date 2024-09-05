@@ -1,6 +1,25 @@
 ---
-date: 2006-09-25T00:52:32Z
-tags: ["general","books","chicago","sites","fun","weekend","reading","nightlife","soundbar","dune","tornado"]
+date: 2006-09-25 00:52:32+00:00
+summary: this weekend was a mix of weird and fun. started with a tornado siren, missed
+  a sox game, and ended up playing katamari. went out with friends, dealt with some
+  bar drama, and felt lost without my phone. wrapped it up with food, reading dune,
+  and wishing my blog design was better. still loving windows live writer for blogging.
+tags:
+- general
+- fun
+- soundbar
+- weekend recap
+- blogging
+- dune
+- weekend
+- sites
+- bar adventures
+- chicago
+- scifi
+- tornado
+- reading
+- books
+- nightlife
 title: Weekend. Phones. blog design.
 wordpress_id: 1353
 wordpress_url: http://www.nata2.org/2006/09/25/weekend-phones-blog-design/

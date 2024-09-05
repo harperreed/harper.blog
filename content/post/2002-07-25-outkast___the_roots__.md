@@ -1,10 +1,24 @@
 ---
-date: 2002-07-25T15:44:13Z
+date: 2002-07-25 15:44:13+00:00
 excerpt: 'Last night, Kinnera, matiss and myself all went to the smoking grooves tour.
   It was ok. the tweeter center sux0rs. It has such bad acoustics. horrible. sounds
   like hell. I got better acoustics in my leg.  We saw the outkast, the roots, Lauryn
   Hill and '
-tags: ["kinnera","search","war","matiss","cars"]
+summary: last night, i hit up the smoking grooves tour with kinnera and matiss. the
+  venue sucked with awful acoustics, but we saw outkast, the roots, lauryn hill, and
+  jurassic 5. also, we finished our slot car collection, so a slot car party is coming
+  soon!
+tags:
+- cars
+- war
+- smoking grooves tour
+- mothman prophecies
+- search
+- kinnera
+- concert review
+- slot car
+- fun
+- matiss
 title: outkast.. the roots..
 wordpress_id: 327
 wordpress_url: http://new.nata2.org/?p=327

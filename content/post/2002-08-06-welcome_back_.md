@@ -1,11 +1,29 @@
 ---
-date: 2002-08-06T21:00:01Z
+date: 2002-08-06 21:00:01+00:00
 excerpt: So I am now at work. Vacations are nice. some would say vacations are kick
   ass. I woudl tend to agree. The last couple days have been a DVD binge. I purchased
   19 dvds from my brothers hollywood video store and got 11 from hong kong. I am excited.
   Soon I will have to make a dvd database so you can all peruse my dvd collection.
   I also plan on buying a new tv soon.. probably a wega. but I don't kno...
-tags: ["video","bush","vacation","health","politics","politic","iraq","hong","kong"]
+summary: "back at work and reminiscing about an awesome vacation filled with a dvd\
+  \ binge. snagged 19 dvds and 11 from hong kong! planning to create a dvd database\
+  \ and on the hunt for a new tv. also, a bit of news on the world stage since everyone\u2019\
+  s distracted."
+tags:
+- iraq
+- kong
+- market news
+- new tv
+- current events
+- politics
+- vacation
+- politic
+- health
+- video
+- hong
+- vacation vibes
+- bush
+- dvd collection
 title: welcome back.
 wordpress_id: 333
 wordpress_url: http://new.nata2.org/?p=333

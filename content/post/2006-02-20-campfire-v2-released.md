@@ -1,6 +1,24 @@
 ---
-date: 2006-02-20T23:58:42Z
-tags: ["general","technology","perl","hacks","37signals","campfire","bot","chat","campfirenow","flood","exploit"]
+date: 2006-02-20 23:58:42+00:00
+summary: "new version of campfirenow.com bot framework is out, it's way better and\
+  \ more robust. also, there's a proof of concept flood script\u2014don't use it though,\
+  \ it's just annoying. thinking campfire could use better security to stop message\
+  \ spoofing, but what do i know."
+tags:
+- campfire
+- hacks
+- general
+- campfirenow
+- 37signals
+- bot
+- bot framework
+- chat
+- security
+- technology
+- flood script
+- exploit
+- perl
+- flood
 title: Campfire bot framework v.2 released
 wordpress_id: 1214
 wordpress_url: http://www.nata2.org/2006/02/20/campfire-v2-released/

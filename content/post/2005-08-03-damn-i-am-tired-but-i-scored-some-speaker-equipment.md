@@ -1,6 +1,24 @@
 ---
-date: 2005-08-03T18:34:09Z
-tags: ["general","music","electronics","stereo","computer","hot","heat","weather"]
+date: 2005-08-03 18:34:09+00:00
+summary: so seth was about to trash some water damaged audio gear, but i snagged it
+  instead. it's some nice stuff like a decware amp and norh speakers, and i gave it
+  to mark who's a whiz with electronics. super excited to see if we can get them to
+  rock! also, it's boiling hot in here and i'm looking forward to chilling with my
+  mom this weekend.
+tags:
+- computer
+- general
+- stereo
+- audio equipment
+- heat
+- weather
+- DIY repairs
+- music gear
+- electronics
+- music
+- hot
+- audio restoration
+- summer hangout
 title: 'damn i am tired. but i scored some speaker equipment. '
 wordpress_id: 1104
 wordpress_url: http://www.nata2.org/?p=1104
@@ -29,4 +47,4 @@ my mom is coming this weekend with my cousin. it will be fun.
 
 hot hot hot.
 
-enough. my laptop is burning my lap. 
+enough. my laptop is burning my lap.

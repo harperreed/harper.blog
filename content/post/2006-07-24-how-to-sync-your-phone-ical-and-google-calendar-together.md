@@ -1,6 +1,16 @@
 ---
-date: 2006-07-24T04:04:18Z
-tags: ["technology","technology"]
+date: 2006-07-24 04:04:18+00:00
+summary: this post dives into how i juggle multiple operating systems, using iCal
+  and Google Calendar to sync my events and keep everything accessible across my devices.
+  i share my calendars, deal with some read-only quirks, and highlight how my phone
+  integrates into this setup.
+tags:
+- Google Calendar
+- iCal
+- technology
+- OSX
+- productivity
+- synchronization
 title: How to sync your phone, iCal and Google Calendar together.
 wordpress_id: 1249
 wordpress_url: http://www.nata2.org/2006/07/24/how-to-sync-your-phone-ical-and-google-calendar-together/

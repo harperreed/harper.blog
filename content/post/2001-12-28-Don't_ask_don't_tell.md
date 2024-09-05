@@ -1,11 +1,22 @@
 ---
-date: 2001-12-28T19:26:41Z
+date: 2001-12-28 19:26:41+00:00
 excerpt: Today is nerve racking. My brother is driving to california to begin what
   could be his career. He is actually going to go an dbe a commercial diver. He starts
   the vcational commercial diving achool on the 7th of january. It is pretty exciting.
   It reflects on me as being grown up. I don't want to grow up. Things are also hard
   right now. I think that my relationship is slipping. The dist...
-tags: ["family","health","perl"]
+summary: today's a mix of nerves and self-reflection. my brother's off to start diving
+  school, which is wild, but things feel tough with my relationship and loneliness
+  is creeping in. just trying to figure it all out and not feel sorry for myself.
+tags:
+- brother
+- health
+- loneliness
+- self-reflection
+- family
+- perl
+- relationship struggles
+- diving school
 title: Don't ask don't tell
 wordpress_id: 153
 wordpress_url: http://new.nata2.org/?p=153

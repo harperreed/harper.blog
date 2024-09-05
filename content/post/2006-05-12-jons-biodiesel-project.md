@@ -1,6 +1,21 @@
 ---
-date: 2006-05-12T19:58:51Z
-tags: ["general","biodiesel","renewable","energy","diesel","asu","epa","appalachian","sustainability"]
+date: 2006-05-12 19:58:51+00:00
+summary: my friend jon and his team went to washington for the EPA P3 grant competition
+  with their awesome biodiesel project. they won the contest and got featured on getty!
+  super proud of them.
+tags:
+- general
+- EPA competition
+- epa
+- grant winner
+- sustainability
+- renewable
+- biodiesel
+- diesel
+- student project
+- appalachian
+- asu
+- energy
 title: Jon's biodiesel project
 wordpress_id: 1265
 wordpress_url: http://www.nata2.org/2006/05/12/jons-biodiesel-project/

@@ -1,6 +1,19 @@
 ---
-date: 2007-04-18T14:20:42Z
-tags: ["technology","technology","broox","status","plugin","laim","derek","twitter","google-code"]
+date: 2007-04-18 14:20:42+00:00
+summary: the author loves using twitter and wishes there was a way to set IM statuses
+  based on tweets. they built a LAIM plugin for AIM but are looking for a way to integrate
+  this with gaim or a standalone app to keep online presence updated.
+tags:
+- twitter
+- aim
+- derek
+- laim
+- technology
+- broox
+- gaim
+- google-code
+- status
+- plugin
 title: The twitter plugin that I wish existed
 wordpress_id: 1436
 wordpress_url: http://www.nata2.org/2007/04/18/the-twitter-plugin-that-i-wish-existed/

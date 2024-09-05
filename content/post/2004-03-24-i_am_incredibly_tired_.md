@@ -1,11 +1,30 @@
 ---
-date: 2004-03-24T07:09:15Z
+date: 2004-03-24 07:09:15+00:00
 excerpt: i feel better. even matt said I looked and acted more chilled out. I really
   feel more chilled out. morgan and I talked and came to a point where we are in the
   same space/place. I think it will work out. we obviously have to redefine our relationship.
   and how we work together. but that is totally fine and completely appropriate. I
   think she said it best with an analogy to the gears in a car. going...
-tags: ["juggle","php","phone","blogs","war","juggling","corporate","matiss","nokia","blogger"]
+summary: feeling more chilled out after a good talk with morgan about redefining our
+  relationship. juggling club was fun and so was working on a cool project with matt.
+  looking forward to integrating our fancy picture frame with some nifty features.
+  gotta run to a meeting in the morning!
+tags:
+- nokia
+- phone
+- juggle
+- relationship
+- blogs
+- juggling
+- war
+- corporate
+- matiss
+- personal reflection
+- blogging
+- php
+- juggling club
+- blogger
+- tech project
 title: i am incredibly tired.
 wordpress_id: 793
 wordpress_url: http://new.nata2.org/?p=793

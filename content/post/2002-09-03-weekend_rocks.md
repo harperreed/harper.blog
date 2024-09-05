@@ -1,10 +1,27 @@
 ---
-date: 2002-09-03T14:17:14Z
+date: 2002-09-03 14:17:14+00:00
 excerpt: This weekend I worked. I ended a 14 day streak of working 8 hours or more
   a day. it was rough. but I finally had a one day vacation. suxor. my projet goes
   live tomarrow. I am gettign sick. I need caffiene. I need to learn how to spell.
   I got a new phone.. 3G.. in da house. it is cool. col...
-tags: ["nerd","phone","war","sick","bush","source","vacation","iraq","applications"]
+summary: this weekend was all about the grind, wrapping up a crazy two-week work marathon.
+  finally got a day off but feeling under the weather. got my new 3G phone ready to
+  roll and planning to dive into some coding. also, bush is about to talk to the nation
+  on sept 11, and man, politics is a wild ride right now!
+tags:
+- iraq
+- phone
+- work
+- war
+- source
+- vacation
+- nerd
+- technology
+- politics
+- personal updates
+- sick
+- applications
+- bush
 title: weekend rocks
 wordpress_id: 348
 wordpress_url: http://new.nata2.org/?p=348

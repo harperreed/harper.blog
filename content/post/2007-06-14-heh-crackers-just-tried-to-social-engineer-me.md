@@ -1,6 +1,22 @@
 ---
-date: 2007-06-14T03:05:59Z
-tags: ["technology","technology","scary","hilarious","social-engineering","crackers","amazing"]
+date: 2007-06-14 03:05:59+00:00
+summary: "tonight, i had an interesting run-in with some crackers trying to trick\
+  \ me into giving up my ftp password. they called claiming there was an incident\
+  \ and my password was being reset. turns out their info was off, but it got me thinking\u2014\
+  how often does this happen? definitely a reminder to always verify before sharing\
+  \ sensitive info. back to bed now!"
+tags:
+- social-engineering
+- ftp password
+- cybersecurity
+- social engineering
+- internet safety
+- scary
+- hilarious
+- voip scams
+- technology
+- amazing
+- crackers
 title: heh. Crackers just tried to social engineer me
 wordpress_id: 1458
 wordpress_url: http://www.nata2.org/2007/06/13/heh-crackers-just-tried-to-social-engineer-me/

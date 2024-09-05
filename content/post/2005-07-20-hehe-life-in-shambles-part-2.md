@@ -1,6 +1,16 @@
 ---
-date: 2005-07-20T06:11:30Z
-tags: ["general","work","cleaning"]
+date: 2005-07-20 06:11:30+00:00
+summary: feeling like life is coming back together after cleaning my room and fixing
+  my computers. merged my MP3 libraries and had a super productive workday. waiting
+  on my new laptop and thinking about my old sleep schedule to maximize my time. gnight!
+tags:
+- general
+- work
+- personal-update
+- productivity
+- tech
+- self-improvement
+- cleaning
 title: hehe. life in shambles part 2
 wordpress_id: 1097
 wordpress_url: http://www.nata2.org/2005/07/20/hehe-life-in-shambles-part-2/

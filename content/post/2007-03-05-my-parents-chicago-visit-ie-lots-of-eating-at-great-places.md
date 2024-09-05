@@ -1,6 +1,26 @@
 ---
-date: 2007-03-05T01:50:12Z
-tags: ["general","family","chicago","food","travel","dining","green-zebra","hard-rock-hotel","avec","eating"]
+date: 2007-03-05 01:50:12+00:00
+summary: this weekend my parents came to visit for the first time since hiromi moved
+  back. we had some excellent meals, from green zebra to smith and wollensky's. despite
+  feeling under the weather, we enjoyed time together, explored the city, and even
+  suffered through a terrible movie. overall, it was an amazing time and i'm really
+  glad they came!
+tags:
+- avec
+- general
+- food
+- hard-rock-hotel
+- Chicago dining
+- weekend recap
+- sick days
+- chicago
+- eating
+- travel
+- green-zebra
+- family visit
+- foodie experience
+- family
+- dining
 title: My parents Chicago visit. Lots of amazing dining...
 wordpress_id: 1415
 wordpress_url: http://www.nata2.org/2007/03/05/my-parents-chicago-visit-ie-lots-of-eating-at-great-places/

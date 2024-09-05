@@ -1,6 +1,15 @@
 ---
-date: 2006-12-05T00:21:39Z
-tags: ["technology","technology"]
+date: 2006-12-05 00:21:39+00:00
+summary: the post discusses the challenges of getting older adults, like the author's
+  grandfather, comfortable with technology, specifically email. it explores simpler
+  computing solutions like the OLPC and other Linux distributions designed for non-tech
+  users, emphasizing the need for intuitive and accessible tech.
+tags:
+- technology
+- accessibility
+- grandparents
+- Linux
+- email
 title: Linux distribution for older folks.
 wordpress_id: 1392
 wordpress_url: http://www.nata2.org/2006/12/05/linux-distribution-for-older-folks/

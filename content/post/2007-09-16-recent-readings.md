@@ -1,6 +1,16 @@
 ---
-date: 2007-09-16T19:55:01Z
-tags: ["general","books","reading","lists"]
+date: 2007-09-16 19:55:01+00:00
+summary: a rundown of recent reads, diving into both fiction and non-fiction, covering
+  a variety of topics from sociological issues to sci-fi adventures, while mentioning
+  personal thoughts on each book.
+tags:
+- non-fiction
+- general
+- book reviews
+- lists
+- sociological issues
+- reading
+- books
 title: Recent readings. All the books in the past few weeks
 wordpress_id: 1478
 wordpress_url: http://www.nata2.org/2007/09/16/recent-readings/

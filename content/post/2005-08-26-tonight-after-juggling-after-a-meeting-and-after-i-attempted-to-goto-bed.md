@@ -1,6 +1,20 @@
 ---
-date: 2005-08-26T04:05:05Z
-tags: ["general","music","awesome","work","clubs","shows"]
+date: 2005-08-26 04:05:05+00:00
+summary: went to catch mark verbos live at smartbar, and it was epic! loved the distortion
+  and his knob-twiddling skills. snapped some pics and linked to an mp3 of his set.
+  got a packed weekend ahead, but i'm stoked!
+tags:
+- awesome
+- work
+- Mark Verbos
+- clubs
+- shows
+- Smartbar
+- music
+- busy weekend
+- distortion
+- general
+- live music
 title: tonight after juggling, after a meeting and after i attempted to goto bed
 wordpress_id: 1118
 wordpress_url: http://www.nata2.org/2005/08/26/tonight-after-juggling-after-a-meeting-and-after-i-attempted-to-goto-bed/

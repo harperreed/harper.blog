@@ -1,6 +1,17 @@
 ---
-date: 2006-12-07T20:40:00Z
-tags: ["technology","technology"]
+date: 2006-12-07 20:40:00+00:00
+summary: i threw together a quick twitter client in C# that's meant to sit in your
+  taskbar and keep you updated on your timeline while letting you update without breaking
+  your groove. it's not fully featured yet, but it's working pretty well. i'm also
+  planning a bigger app to sync your twitter status with your IM clients. hit me up
+  if you know how to make cool gaim plugins!
+tags:
+- IM integration
+- programming
+- technology
+- C#
+- Twitter client
+- taskbar app
 title: Twapp - a quick hack to update and view twitter
 wordpress_id: 1393
 wordpress_url: http://www.nata2.org/2006/12/07/twapp-a-quick-hack-to-update-and-view-twitter/

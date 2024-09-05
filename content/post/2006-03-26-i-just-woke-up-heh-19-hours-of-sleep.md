@@ -1,6 +1,18 @@
 ---
-date: 2006-03-26T18:02:54Z
-tags: ["general","hiromi","travel","japan","taxes","slacker"]
+date: 2006-03-26 18:02:54+00:00
+summary: woke up super late after setting my alarms for 8pm! was planning to write
+  about my japan trip but not right now. check out hiromi's post and my flickr pics!
+  also need to tackle taxes and clean my room.
+tags:
+- Japan
+- travel
+- japan
+- general
+- slacker
+- sleep
+- hiromi
+- taxes
+- laundry
 title: i just woke up... heh. 19 hours of sleep
 wordpress_id: 1234
 wordpress_url: http://www.nata2.org/2006/03/26/i-just-woke-up-heh-19-hours-of-sleep/

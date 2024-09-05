@@ -1,6 +1,19 @@
 ---
-date: 2006-08-17T16:12:11Z
-tags: ["general","music","mos-def","hip-hop","chappelles-show"]
+date: 2006-08-17 16:12:11+00:00
+summary: mos def is one of my favs and 'whats beef' with talib kweli hits hard. check
+  out the video from chappelle's show. someday i'll meet mos and tell him how much
+  i dig his work.
+tags:
+- music
+- whats beef
+- general
+- favorite artists
+- talib kweli
+- mos def
+- mos-def
+- chappelles show
+- hip-hop
+- chappelles-show
 title: I thought you guys should watch this.
 wordpress_id: 1325
 wordpress_url: http://www.nata2.org/2006/08/17/i-thought-you-guys-should-watch-this/

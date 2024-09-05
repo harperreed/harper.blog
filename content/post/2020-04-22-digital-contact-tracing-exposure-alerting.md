@@ -1,9 +1,24 @@
 ---
+date: 2020-04-22 22:34:27-05:00
+description: The piece explores the intersection of technology, privacy, and public
+  health in the context of the Covid-19 crisis, emphasizing the need for clear terminology
+  and the pivotal role of both manual and digital methods in combating the pandemic.
+  Drawing on personal experiences and collaborations in the tech community, the author
+  presents a compelling argument for decentralized exposure alerting, underscoring
+  its importance in our collective efforts to navigate and overcome this global challenge.
+summary: the blog post discusses the renaming of digital contact tracing to 'exposure
+  alerting' and outlines the distinct differences between exposure alerting and manual
+  contact tracing. it emphasizes the importance of privacy, decentralization, and
+  the need for clear communication about these technologies.
+tags:
+- exposure alerting
+- digital contact tracing
+- privacy
+- Covid19
+- public health
 title: Digital Contact Tracing and Alerting vs Exposure Alerting
-date: 2020-04-22T22:34:27-05:00
-description: "The piece explores the intersection of technology, privacy, and public health in the context of the Covid-19 crisis, emphasizing the need for clear terminology and the pivotal role of both manual and digital methods in combating the pandemic. Drawing on personal experiences and collaborations in the tech community, the author presents a compelling argument for decentralized exposure alerting, underscoring its importance in our collective efforts to navigate and overcome this global challenge."
-
 ---
+
 **UPDATE:** Luckily for all of us, WHO, Apple/Google and others have agreed that we are not doing contact tracing. They have decided that the term should be "**Exposure Notification**."
 
 This is so similar to Exposure Alerting that I am satisifed.

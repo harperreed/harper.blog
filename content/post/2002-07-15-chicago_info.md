@@ -1,8 +1,17 @@
 ---
-date: 2002-07-15T21:46:24Z
+date: 2002-07-15 21:46:24+00:00
 excerpt: here is a good list of books and such about chicago. It covers all sorts
   of ground. actually this whole site seems to be pretty good.
-tags: ["books","chicago"]
+summary: check out this list of books about chicago - it covers all sorts of stuff.
+  the whole site is pretty good too!
+tags:
+- book recommendations
+- chicago books
+- chicago
+- reading list
+- newstips
+- chicago literature
+- books
 title: chicago info
 wordpress_id: 321
 wordpress_url: http://new.nata2.org/?p=321

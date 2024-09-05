@@ -1,9 +1,19 @@
 ---
-date: 2004-08-13T19:27:50Z
+date: 2004-08-13 19:27:50+00:00
 excerpt: 'i got new shoes. I am excited. I also posted some new pictures. they are
   awesome. first I posted pictures of my cousin showing his steer off. it was pretty
   cool. he got '
-tags: ["birthday"]
+summary: i got some new shoes and posted awesome pics! my cousin showed off his steer
+  and won first place. the photos from millennium park are amazing, especially the
+  giant silver spaceship. also, had a blast at red hair matt's birthday party in a
+  limo!
+tags:
+- birthday
+- new shoes
+- Millennium Park
+- photos
+- family
+- birthday party
 title: cool shoes..
 wordpress_id: 916
 wordpress_url: http://new.nata2.org/?p=916

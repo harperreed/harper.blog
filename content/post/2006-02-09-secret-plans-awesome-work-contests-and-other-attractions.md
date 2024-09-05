@@ -1,6 +1,21 @@
 ---
-date: 2006-02-09T03:44:33Z
-tags: ["general","books","threadless","projects","awesome","work","asterisk","voip"]
+date: 2006-02-09 03:44:33+00:00
+summary: so, i'm planning to blog more often and focus on tech topics instead of boring
+  club stories. recently, i widened my blog, revamped howtoyoyo.com, learned voip,
+  and did some cool coding projects. also got an underground sale going on at threadless.
+  oh, and i'm off to tokyo soon! miss ya, hiromi!
+tags:
+- general
+- awesome
+- work
+- blogging
+- technology
+- asterisk
+- threadless
+- personal
+- projects
+- books
+- voip
 title: 'secret plans. awesome work. contests and other attractions. '
 wordpress_id: 1204
 wordpress_url: http://www.nata2.org/2006/02/09/secret-plans-awesome-work-contests-and-other-attractions/

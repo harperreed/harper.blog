@@ -1,8 +1,19 @@
 ---
-title: Use an llm to automagically generate meaningful git commit messages
-date: 2024-03-11T11:04:11-05:00
-description: "I've transformed my git commit process by using an AI to automatically generate meaningful messages. This setup involves a nifty integration of the llm CLI and git hooks, saving me time. Now I can fuck off while the robots document my commits"
+date: 2024-03-11 11:04:11-05:00
+description: I've transformed my git commit process by using an AI to automatically
+  generate meaningful messages. This setup involves a nifty integration of the llm
+  CLI and git hooks, saving me time. Now I can fuck off while the robots document
+  my commits
 draft: false
+summary: set up a git hook to use the llm cli for generating better commit messages
+  automatically based on your code changes.
+tags:
+- git
+- commit-messages
+- llm
+- programming
+- automation
+title: Use an llm to automagically generate meaningful git commit messages
 ---
 
 *TL;DR: You can set a pre-commit-msg git hook to call the `llm` cli and get a summary of your recent code changes as your commit message.*

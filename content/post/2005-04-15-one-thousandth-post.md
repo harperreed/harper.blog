@@ -1,6 +1,25 @@
 ---
-date: 2005-04-15T10:00:42Z
-tags: ["general","dylan","blogs","ella","google","one","thousandth","post","resume","jon","riottech"]
+date: 2005-04-15 10:00:42+00:00
+summary: i've been blogging since 2000 and it's been a wild ride. a ton of jobs, relationships,
+  and randomness in between. love keeping up with my friends' blogs, and got a juggling
+  gig coming up. also working on my resume and a secret plan. it's all pretty nuts!
+tags:
+- general
+- blogging
+- ella
+- blogs
+- internet
+- jon
+- post
+- friends
+- dylan
+- riottech
+- rant
+- google
+- resume
+- random thoughts
+- thousandth
+- one
 title: 'one thousandth post. '
 wordpress_id: 1046
 wordpress_url: http://www.nata2.org/2005/04/13/one-thousandth-post/
@@ -14,4 +33,4 @@ heh. our <a href="http://www.riottech.net">search engine optimization blog</a> i
 
 matiss and i have a juggling gig tomorrow night. it shoudl be fun. we are making fliers and such.   heh. w00t marketing. 
 
-tonight i am going to finish my secret plan. oh and my <a href="http://harperreed.org/resume">resume</a>. hah. 
+tonight i am going to finish my secret plan. oh and my <a href="http://harperreed.org/resume">resume</a>. hah.

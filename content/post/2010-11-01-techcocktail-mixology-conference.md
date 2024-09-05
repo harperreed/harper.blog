@@ -1,5 +1,14 @@
 ---
-date: 2010-11-01T00:00:00Z
+date: 2010-11-01 00:00:00+00:00
+summary: on october 28th, i spoke at the tech cocktail startup mixology conference
+  about fostering a community of problem solvers. check out my [slides](https://docs.google.com/present/view?id=dd3wvxq5_649fzcvqpvz&interval=5&autoStart=true)
+  and let me know what you think! super excited to see tech cocktail grow!
+tags:
+- Tech Cocktail
+- Startup Conference
+- Community
+- Problem Solvers
+- Public Speaking
 title: The Tech Cocktail Startup Mixology Conference
 ---
 

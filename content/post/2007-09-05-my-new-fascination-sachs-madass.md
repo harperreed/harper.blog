@@ -1,6 +1,16 @@
 ---
-date: 2007-09-05T00:54:54Z
-tags: ["general","motorcycle","madass","sachs","moped"]
+date: 2007-09-05 00:54:54+00:00
+summary: i spotted a sick sachs madass while wandering down broadway and i'm totally
+  into its wild mix of scooter, moped, and homemade motorcycle vibes. perfect for
+  cruising around in the summer, too bad it's almost over! thinking of getting one
+  for some epic scooter gang adventures with hiromi.
+tags:
+- sachs
+- general
+- madass
+- motorcycle
+- bikers
+- moped
 title: 'My new fascination: Sachs Madass'
 wordpress_id: 1476
 wordpress_url: http://www.nata2.org/2007/09/05/my-new-fascination-sachs-madass/

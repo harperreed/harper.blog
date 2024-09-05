@@ -1,9 +1,20 @@
 ---
-date: 2002-04-05T16:47:03Z
-excerpt: "heh. you have got ot check this out. My favorite is the dance contest. that
-  furry guy can get down. \ni wonder if this is nice or funny looking? In other news(;))
-  it seems that people are ..."
-tags: ["military"]
+date: 2002-04-05 16:47:03+00:00
+excerpt: "heh. you have got ot check this out. My favorite is the dance contest. that\
+  \ furry guy can get down. \ni wonder if this is nice or funny looking? In other\
+  \ news(;)) it seems that people are ..."
+summary: check out this awesome link with a dance contest featuring a furry guy who
+  can really move. also pondering if this product is nice or just weird looking. people
+  are getting tired of the messed up media, and there's a newspaper aiming to tell
+  the truth about the military conflict. curious to see what future history will say
+  about all this!
+tags:
+- furry dance
+- military conflicts
+- dance contest
+- history
+- media criticism
+- military
 title: Funny as hell
 wordpress_id: 251
 wordpress_url: http://new.nata2.org/?p=251

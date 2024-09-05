@@ -1,9 +1,21 @@
 ---
-date: 2004-03-12T21:43:21Z
-excerpt: |-
-  so in the last week I made a game for morgan. it is retarded. seriously. so funny. reallly dumb. a lot of my friends helped. it is located texas.attackmorgan.com. ok.
+date: 2004-03-12 21:43:21+00:00
+excerpt: 'so in the last week I made a game for morgan. it is retarded. seriously.
+  so funny. reallly dumb. a lot of my friends helped. it is located texas.attackmorgan.com.
+  ok.
 
-  i am ready to go home. I think I have completed my work for the week. time to go home. time  to go home. I want to go home. hate to not go home. hehe. someday. tonig...
+
+  i am ready to go home. I think I have completed my work for the week. time to go
+  home. time  to go home. I want to go home. hate to not go home. hehe. someday. tonig...'
+summary: made a super silly game for morgan with help from friends, check it out at
+  texas.attackmorgan.com. i'm ready to head home and just chill, but first, it's out
+  night! also, definitely had way too much caffeine.
+tags:
+- game development
+- funny games
+- friends
+- personal update
+- caffeine
 title: game game game
 wordpress_id: 776
 wordpress_url: http://new.nata2.org/?p=776
@@ -11,4 +23,4 @@ wordpress_url: http://new.nata2.org/?p=776
 
 so in the last week I made a game for morgan. it is retarded. seriously. so funny. reallly dumb. a lot of my friends helped. it is located <a href="http://texas.attackmorgan.com">texas.attackmorgan.com</a>. ok.<br/><br/>
 
-i am ready to go home. I think I have completed my work for the week. time to go home. time  to go home. I want to go home. hate to not go home. hehe. someday. <br/><br/>tonight we are going out. out. out. out. <br/><br/>obviously I had to much caffiene. 
+i am ready to go home. I think I have completed my work for the week. time to go home. time  to go home. I want to go home. hate to not go home. hehe. someday. <br/><br/>tonight we are going out. out. out. out. <br/><br/>obviously I had to much caffiene.

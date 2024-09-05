@@ -1,10 +1,28 @@
 ---
-date: 2005-03-03T13:34:57Z
+date: 2005-03-03 13:34:57+00:00
 excerpt: 'so I have been thinking about going to des moines to see my friend derek
   and I was talkign to him and he was all surprised that I woudl be coming out:(11:42:00)
   Derek Brooks: just to hang out?(11:42:02) Work Aim: yea(11:42:06) Derek Brooks:
   cool(11:42:27) '
-tags: ["general","nerd","watership","aim","dad","broox","travel","brooks","subversion"]
+summary: thinking about visiting des moines to see derek; he's surprised i'm coming
+  out just to hang. been playing with subversion, working on projects, and super tired
+  from finishing my dad's site and my fantasy novel series. hope to catch some sleep
+  this weekend but probably won't.
+tags:
+- brooks
+- dad
+- general
+- aim
+- subversion
+- personal updates
+- tiredness
+- nerd
+- broox
+- travel
+- friends
+- collaboration
+- des moines
+- watership
 title: mapper of evil
 wordpress_id: 1000
 wordpress_url: http://new.nata2.org/?p=1000

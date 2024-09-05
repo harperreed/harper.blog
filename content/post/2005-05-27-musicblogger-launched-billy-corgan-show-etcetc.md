@@ -1,6 +1,21 @@
 ---
-date: 2005-05-27T15:43:43Z
-tags: ["general","concerts","music","google","itunes","musicblogger","viral"]
+date: 2005-05-27 15:43:43+00:00
+summary: went to see billy corgan's new show with scott, where my friend brian played
+  keyboards. the stage was awesome and billy's new stuff is cool. also launched my
+  first ruby on rails app, musicblogger.org, and updated the sex offenders map with
+  19k listings. just making viral websites, you know?
+tags:
+- viral
+- ruby on rails
+- itunes
+- music
+- concert review
+- concerts
+- Billy Corgan
+- general
+- sex offenders map
+- google
+- musicblogger
 title: Musicblogger launched. Billy Corgan show. etcetc
 wordpress_id: 1071
 wordpress_url: http://www.nata2.org/2005/05/27/musicblogger-launched-billy-corgan-show-etcetc/
@@ -12,6 +27,4 @@ I also got impatient and launched <a href="http://musicblogger.org">musicblogger
 
 i also updated the <a href="http://demon.dopeman.org/sexOffenders/">sexOffenders map</a>. ti should support most of the zip codes in illinois and has roughly 19k of sex offenders listed. it is still a pretty insane breach of privacy. i guess it is just cuz they are people who could be risk on society - but still. this view into their life is rather insane. we have got a bit of <a href="http://www.gapersblock.com/news/archives/2005/05/#008559">writeup</a>. hopefully more and more. 
 
-i laugh when i think that all i so is create viralish websites. hah. nata2.info is off the hook. OFF THE HOOK. 
-
-
+i laugh when i think that all i so is create viralish websites. hah. nata2.info is off the hook. OFF THE HOOK.

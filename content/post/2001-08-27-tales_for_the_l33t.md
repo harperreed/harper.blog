@@ -1,8 +1,17 @@
 ---
-date: 2001-08-27T13:57:05Z
+date: 2001-08-27 13:57:05+00:00
 excerpt: I wa5 ch1ll1ng 0n th3 w3b, and 1 f0und th1s gr3at flash m0vie. it 1s a r3mak1ng
   0f th3 t1m3le55 cla551c "R0m30 and J00liet." Watch 1t. N0w!! or y0u will b3 fuxored...
-tags: ["friends","chris"]
+summary: i found this dope flash movie that's a remake of the classic 'romeo and juliet.'
+  you gotta check it out now, or you'll be missing out!
+tags:
+- online finds
+- chris
+- chill vibes
+- remake
+- romeo and juliet
+- flash movie
+- friends
 title: tales for the l33t
 wordpress_id: 95
 wordpress_url: http://new.nata2.org/?p=95

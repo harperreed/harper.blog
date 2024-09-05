@@ -1,6 +1,16 @@
 ---
-date: 2007-07-26T20:20:36Z
-tags: ["general","flickr","meme","pockets"]
+date: 2007-07-26 20:20:36+00:00
+summary: so i found this cool thing on flickr where people show what they carry in
+  their pockets. i joined in and snapped a pic of my daily carry - nothing fancy,
+  just the basics like burts beeswax. more and more people are joining the fun, you
+  should check it out!
+tags:
+- general
+- meme
+- flickr
+- pockets
+- everydaycarry
+- socialshare
 title: The items we carry
 wordpress_id: 1469
 wordpress_url: http://www.nata2.org/2007/07/26/the-items-we-carry/

@@ -1,6 +1,25 @@
 ---
-date: 2005-04-19T23:35:58Z
-tags: ["general","domains","dylan","php","blogs","community","ruby","rails","alliedmovements","stigmata"]
+date: 2005-04-19 23:35:58+00:00
+summary: i've jumped into ruby on rails and it's pretty awesome. spent 30 hours learning
+  it for a new webapp project, alliedmovements.com. got tons of ideas for other sites
+  too, but quality is key. still searching for job opportunities since mine is in
+  limbo. time to hit the hay!
+tags:
+- web development
+- general
+- domains
+- blogs
+- ruby
+- php
+- stigmata
+- mini blogs
+- ruby on rails
+- dylan
+- community
+- rails
+- php to ruby
+- side projects
+- alliedmovements
 title: ruby on rails
 wordpress_id: 1047
 wordpress_url: http://www.nata2.org/2005/04/19/ruby-on-rails/

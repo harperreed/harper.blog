@@ -1,6 +1,19 @@
 ---
-date: 2005-07-31T21:56:19Z
-tags: ["general","books","travel","work"]
+date: 2005-07-31 21:56:19+00:00
+summary: just finished the newest harry potter book. loved it! super bummed about
+  harry and ginny though. stuck at Tommie's with crazy dogs. dreaming of a place with
+  self-sufficient pets. gotta get back to work, but can't wait to reunite with friends
+  in Chicago!
+tags:
+- general
+- work
+- dogs
+- travel
+- Brooklyn
+- harry potter
+- reading
+- books
+- life updates
 title: 'harry potter rules. '
 wordpress_id: 1102
 wordpress_url: http://www.nata2.org/2005/07/31/harry-potter-rules/
@@ -18,4 +31,4 @@ i can't wait to get back to Chicago and see all my friends. i miss them. its ann
 
 although i seriously couldn't ask for a better prison. haha. 
 
-btw. i LOVE reading. 
+btw. i LOVE reading.

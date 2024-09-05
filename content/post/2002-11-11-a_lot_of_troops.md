@@ -1,7 +1,16 @@
 ---
-date: 2002-11-11T23:33:00Z
+date: 2002-11-11 23:33:00+00:00
 excerpt: the "war machine" is planning to use up to 250,000 troups. whee
-tags: ["war","politics","politic"]
+summary: the 'war machine' is gearing up to mobilize around 250,000 troops. whee
+tags:
+- war machine
+- current events
+- war
+- deployment
+- politics
+- politic
+- troops
+- military
 title: a lot of troops
 wordpress_id: 393
 wordpress_url: http://new.nata2.org/?p=393

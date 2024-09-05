@@ -1,8 +1,17 @@
 ---
-date: 2003-04-03T20:38:05Z
-excerpt: "so awhile ago I ordered some new servers.. and here they are.. weee\r\nthe
-  biggin, the littlin and the "
-tags: ["server","action"]
+date: 2003-04-03 20:38:05+00:00
+excerpt: "so awhile ago I ordered some new servers.. and here they are.. weee\r\n\
+  the biggin, the littlin and the "
+summary: ordered some new servers and they're finally here! got a big one with dual
+  xeon, a little celeron for a firewall, and some rack converters. super excited and
+  feeling broke. wheee!
+tags:
+- server
+- excitement
+- technology
+- servers
+- action
+- hardware
 title: new new new
 wordpress_id: 477
 wordpress_url: http://new.nata2.org/?p=477

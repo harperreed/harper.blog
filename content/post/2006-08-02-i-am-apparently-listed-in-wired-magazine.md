@@ -1,6 +1,19 @@
 ---
-date: 2006-08-02T13:07:49Z
-tags: ["general","sites","audreyhacking","websites","wired","press"]
+date: 2006-08-02 13:07:49+00:00
+summary: "so, one of my websites might be in wired again - probably about my flickr\
+  \ myspace badge. i\u2019ve heard it before with audreyhacking.com but never saw\
+  \ it. also, i'm downsizing my domain collection, dropping some gems like drugpenismachine.com\
+  \ because paying for unused domains is just annoying. money down the drain!"
+tags:
+- websites
+- audreyhacking
+- wired
+- general
+- domain names
+- sites
+- web mentions
+- press
+- flickr badge
 title: 'I am apparently listed in wired magazine. '
 wordpress_id: 1317
 wordpress_url: http://www.nata2.org/2006/08/02/i-am-apparently-listed-in-wired-magazine/

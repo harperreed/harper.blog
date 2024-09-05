@@ -1,10 +1,35 @@
 ---
-date: 2003-12-16T22:34:24Z
-excerpt: "So my mobile phone fascination has reached a new height. I took some spare
-  time in the last couple days and compiled a phon/mobile/technology blog. check it
-  out here. Hopefully it will continue to foster exciting phone stuff for my head.
-  and make me a million dollar bills.\r\n\r\ni "
-tags: ["technology","phone","colorado","blogs","internet","server","video","girlfriend","coding","security","games","hiromi","friendster","mobile"]
+date: 2003-12-16 22:34:24+00:00
+excerpt: "So my mobile phone fascination has reached a new height. I took some spare\
+  \ time in the last couple days and compiled a phon/mobile/technology blog. check\
+  \ it out here. Hopefully it will continue to foster exciting phone stuff for my\
+  \ head. and make me a million dollar bills.\r\n\r\ni "
+summary: i started a mobile tech blog to share my fascination with phones and hopefully
+  make some cash. i doodle a lot during meetings to stay focused, watched pirates
+  of the caribbean, and played video games instead of working. i also plan to add
+  trackback features to my blog. super excited about getting my ambient orb set up
+  to monitor cool stuff and might go to colorado soon with hiromi. oh, and sharpreader
+  makes reading blogs a blast!
+tags:
+- doodles
+- games
+- girlfriend
+- video
+- coding
+- phone
+- server
+- mobile
+- hiromi
+- ambient devices
+- friendster
+- blogging
+- security
+- mobile technology
+- internet
+- colorado
+- blogs
+- video games
+- technology
 title: Handy Mobile
 wordpress_id: 702
 wordpress_url: http://new.nata2.org/?p=702

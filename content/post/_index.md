@@ -1,16 +1,25 @@
 ---
-title: Archives
-lastmod: '2017-12-04'
-url: /posts
-nofeed: true
 description: All posts from harper.blog
+lastmod: '2017-12-04'
 menu:
-  main:
-    name: Archives
-    weight: 3
   footer:
     name: Archives
     weight: 3
+  main:
+    name: Archives
+    weight: 3
+nofeed: true
+summary: i've been blogging since march 1, 2000, and have gone through a bunch of
+  different eras, each with its own vibe and number of posts. from college days to
+  experimental phases, here's a quick rundown of my blogging journey.
+tags:
+- blogging
+- blog eras
+- personal journey
+- blog history
+- blog milestones
+title: Archives
+url: /posts
 ---
 
 I started blogging on March 1st, 2000. Since then I have had many different eras of blogging. Some with lots of blog posts, others with very few.

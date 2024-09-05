@@ -1,6 +1,20 @@
 ---
-date: 2005-12-08T04:28:17Z
-tags: ["general","awesome","work","squidoo","asterisk","voip"]
+date: 2005-12-08 04:28:17+00:00
+summary: i've been playing with asterisk and hooked it up at skinnyCorp as their PBX.
+  it's super cool to have so much control over the phone system. thinking about launching
+  a small-scale service using it. oh, and check out my squidoo lenses!
+tags:
+- awesome
+- work
+- Asterisk
+- lenses
+- squidoo
+- general
+- skinnyCorp
+- asterisk
+- PBX
+- Squidoo
+- voip
 title: 'squidoo. work. asterisk is awesome. '
 wordpress_id: 1153
 wordpress_url: http://www.nata2.org/2005/12/08/squidoo-work-asterisk-is-awesome/
@@ -15,4 +29,4 @@ Oh yea. Squidoo launched. check it out. here are some of my lenses: <a href="htt
 <a href="http://www.squidoo.com/asterisk/">Asterisk</a>, 
 <a href="http://www.squidoo.com/mobilephone/">Mobile Phones</a> and soon to have others.
 
-awesome. 
+awesome.

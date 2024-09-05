@@ -1,6 +1,21 @@
 ---
-date: 2008-02-29T13:15:59Z
-tags: ["technology","hosting","mosso","web-20","cloud","grid"]
+date: 2008-02-29 13:15:59+00:00
+summary: "this post dives into the recent changes in Mosso\u2019s pricing model, shifting\
+  \ to a requests-based system that could negatively impact users, especially those\
+  \ with sites heavy on media and graphics. the author highlights past satisfaction\
+  \ with Mosso but raises concerns about the new charges potentially making their\
+  \ hosting more expensive than expected."
+tags:
+- hosting
+- Mosso
+- web-20
+- mosso
+- shared hosting
+- cloud
+- cloud hosting
+- pricing model
+- grid
+- technology
 title: 'The Mosso Cloud: Requests are not a good metric'
 wordpress_id: 1509
 wordpress_url: http://www.nata2.org/?p=1509

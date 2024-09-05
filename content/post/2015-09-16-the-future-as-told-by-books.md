@@ -1,5 +1,14 @@
 ---
-date: 2015-09-16T00:00:00Z
+date: 2015-09-16 00:00:00+00:00
+summary: this post dives into a list of books that predict the future, sparked by
+  a twitter question. it highlights popular picks, some lesser-known gems, and offers
+  insights into the themes of dystopia and optimism in literature.
+tags:
+- book recommendations
+- future predictions
+- dystopian literature
+- twitter responses
+- inspiration from books
 title: The future as told by books
 ---
 

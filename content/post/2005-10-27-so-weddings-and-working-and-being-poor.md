@@ -1,6 +1,19 @@
 ---
-date: 2005-10-27T01:17:23Z
-tags: ["general","money","work","sports","white","sox","weddings"]
+date: 2005-10-27 01:17:23+00:00
+summary: struggling with money and work, dealing with weddings, and loving metal music.
+  the craziness of chicago is just the cherry on top!
+tags:
+- work
+- chicago
+- money
+- general
+- white
+- money issues
+- work life
+- sports
+- weddings
+- metal music
+- sox
 title: 'So weddings. and working. and being poor. '
 wordpress_id: 1144
 wordpress_url: http://www.nata2.org/2005/10/27/so-weddings-and-working-and-being-poor/
@@ -19,4 +32,3 @@ and reading.
 and chicago. and chicago loves the white sox. its insane. everyone is breaking shit and running  around with guns and firecrackers outside. its crazy. 
 
 CRAZY!
-

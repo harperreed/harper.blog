@@ -1,11 +1,24 @@
 ---
-date: 2001-09-03T08:50:49Z
+date: 2001-09-03 08:50:49+00:00
 excerpt: So K*star left for school today, it was wierd. I want to goto school again.
   I am through with this grown up crap. I liked college better. I like being around
   K*star better :) Anyway, why is it that we have to grow up. I hate it. Its dumb..I
   really miss having food prepared for me, having everything paid for. Having the
   worst thing be a missed party or something a long those lines. I really do mis...
-tags: ["friends","school","food","college","girlfriend"]
+summary: feeling weird about k*star leaving for school and missing college life. tired
+  of adult responsibilities and longing for simpler times. excited but sad about growing
+  up, with hope for a bright future with my girlfriend.
+tags:
+- school
+- girlfriend
+- relationships
+- growing up
+- food
+- college life
+- adulting
+- nostalgia
+- friends
+- college
 title: College is gone...
 wordpress_id: 98
 wordpress_url: http://new.nata2.org/?p=98

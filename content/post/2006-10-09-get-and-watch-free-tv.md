@@ -1,6 +1,23 @@
 ---
-date: 2006-10-09T00:24:46Z
-tags: ["technology","awesome","television","p2p","rss","democracy","torrents","bittorrent","download"]
+date: 2006-10-09 00:24:46+00:00
+summary: after canceling directTV, i struggled to find a legal way to download shows
+  i wanted, finally landing on the democracy video client. it lets me add RSS feeds
+  for my favorite shows and download them seamlessly. pretty dope!
+tags:
+- awesome
+- rss
+- torrents
+- bittorrent
+- DemocracyClient
+- RSSFeeds
+- Streaming
+- television
+- technology
+- p2p
+- TVShows
+- download
+- Bittorrent
+- democracy
 title: How to get and watch free TV
 wordpress_id: 1360
 wordpress_url: http://www.nata2.org/2006/10/09/get-and-watch-free-tv/

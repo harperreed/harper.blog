@@ -1,11 +1,25 @@
 ---
-date: 2002-09-15T21:47:51Z
+date: 2002-09-15 21:47:51+00:00
 excerpt: check out my new site.. a500hacking. I know I am a big dork. but... umm..
   yea.. I am bored.. and I want to know a lot about my new phone. so what better way
   then start a website dedicated to learning all I can about my new phone..  So last
   night I went to a couple parties. It was fun. One was a "indie rocker house party"
   that I was invited to by my f...
-tags: ["phone","hacking","women","rock","birthday"]
+summary: check out my new site, a500hacking, where I'm diving deep into my new phone.
+  went to some parties last night, saw a friend unexpectedly, and had a great time
+  dancing until the music went kaput. also, some drama about a lady possibly lying
+  about a terror situation. crazy stuff, right?
+tags:
+- women
+- random encounters
+- phone exploration
+- hacking
+- rock
+- phone
+- birthday
+- friends
+- party stories
+- new website
 title: wireless interaction.
 wordpress_id: 355
 wordpress_url: http://new.nata2.org/?p=355

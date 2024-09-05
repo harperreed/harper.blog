@@ -1,11 +1,25 @@
 ---
-date: 2003-08-21T15:58:41Z
+date: 2003-08-21 15:58:41+00:00
 excerpt: i guess I still need to write that paper on online communities and the socialization
   of online relationships. Especially in light of friendster and the development of
   virtual "ubermensch." heh. I guess I wasn't clear in what I was saying. I am naive
   enough to jump to the conclusion that I can use the idea of the ubermensch when
   ...
-tags: ["social","war","community","tones","development","friendster"]
+summary: this post dives into the concept of the ubermensch in online communities,
+  exploring how these strong, value-driven leaders influence and attract others in
+  social environments, especially in platforms like Friendster.
+tags:
+- virtual relationships
+- friendster
+- development
+- war
+- social
+- community
+- socialization
+- online communities
+- ubermensch
+- tones
+- Friendster
 title: online communities
 wordpress_id: 603
 wordpress_url: http://new.nata2.org/?p=603

@@ -1,6 +1,16 @@
 ---
-date: 2006-03-09T06:26:20Z
-tags: ["general","pictures-flickr-uploading"]
+date: 2006-03-09 06:26:20+00:00
+summary: uploaded 1500 pics from my brother's wedding, random club nights, trip to
+  india, holidays, and amjadfest. check them out! my photostream should hit 50,000
+  views by morning. w00t!
+tags:
+- general
+- personal memories
+- wedding
+- travel
+- pictures-flickr-uploading
+- photo upload
+- Flickr
 title: I just uploaded a bundle of photos to flickr
 wordpress_id: 1230
 wordpress_url: http://www.nata2.org/2006/03/09/i-just-uploaded-a-bundle-of-photos-to-flickr/

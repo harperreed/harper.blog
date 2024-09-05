@@ -1,6 +1,21 @@
 ---
-date: 2006-05-18T20:51:19Z
-tags: ["general","hacking","sad","servers","firewall","colocation"]
+date: 2006-05-18 20:51:19+00:00
+summary: "man, today was a disaster. started with my server being totally unreachable,\
+  \ had to reboot it, and it was just wrecked. after a long slog, a guy from columbus\
+  \ saved the day and fixed it up. now i\u2019m debugging some scripts and fingers\
+  \ crossed the rest of the day gets better. time for a drink!"
+tags:
+- firewall
+- unix support
+- server issues
+- servers
+- bad day
+- hacking
+- colocation
+- general
+- tech troubles
+- sad
+- debugging
 title: horrible things...
 wordpress_id: 1269
 wordpress_url: http://www.nata2.org/2006/05/18/horrible-things/

@@ -1,10 +1,19 @@
 ---
-date: 2003-12-05T17:21:30Z
-excerpt: |-
-  goto google
+date: 2003-12-05 17:21:30+00:00
+excerpt: 'goto google
+
   type miserable failure into the search box
-  click I am feeling luckyhere are some funny pictures - poor fat kid.
-tags: ["php","search","google"]
+
+  click I am feeling luckyhere are some funny pictures - poor fat kid.'
+summary: go to google, type in 'miserable failure', hit 'i am feeling lucky', and
+  check out some funny pics of a poor fat kid.
+tags:
+- humor
+- php
+- search
+- funny pictures
+- google
+- miserable failure
 title: wow. what an algorithm
 wordpress_id: 690
 wordpress_url: http://new.nata2.org/?p=690

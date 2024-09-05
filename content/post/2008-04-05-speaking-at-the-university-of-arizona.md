@@ -1,6 +1,25 @@
 ---
-date: 2008-04-05T14:54:35Z
-tags: ["general","travel","speaking","university-of-arizona","business-school","marketing","sidney-levey","kovinets","etribes"]
+date: 2008-04-05 14:54:35+00:00
+summary: charlie and i flew to arizona for the thinking forward conference and got
+  to present about threadless and social media. the trip was a mix of hilarious moments,
+  awesome food, and meeting smart folks like robert kozinet and sidney levy. it was
+  a wild ride hanging out with college kids and gaining cool insights, and we'd love
+  to do it all again somewhere tropical.
+tags:
+- general
+- public speaking
+- marketing conference
+- Tucson nightlife
+- speaking
+- etribes
+- University of Arizona
+- business-school
+- travel
+- kovinets
+- marketing
+- networking
+- sidney-levey
+- university-of-arizona
 title: Speaking at the University of Arizona
 wordpress_id: 1515
 wordpress_url: http://www.nata2.org/2008/04/05/speaking-at-the-university-of-arizona/

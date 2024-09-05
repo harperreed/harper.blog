@@ -1,6 +1,21 @@
 ---
-date: 2008-01-11T00:28:21Z
-tags: ["general","dylan","fun","awesomeguy","etsy","creatures","awesometown"]
+date: 2008-01-11 00:28:21+00:00
+summary: my brother's been making cute sock monsters, and we figured adding stories
+  to each character would make them even cooler. he went all out and created a whole
+  universe for them. check out his stuff on etsy!
+tags:
+- Etsy
+- storytelling
+- etsy
+- creatures
+- general
+- fun
+- awesometown
+- awesomeguy
+- creature design
+- dylan
+- sock monsters
+- handmade
 title: Monsters for you to buy and make your friend!
 wordpress_id: 1504
 wordpress_url: http://www.nata2.org/2008/01/11/monsters-for-you-to-buy-and-make-your-friend/

@@ -1,11 +1,26 @@
 ---
-date: 2003-08-05T20:31:58Z
+date: 2003-08-05 20:31:58+00:00
 excerpt: i love Lil Jon & the Eastside Boyz. it is so fun to listen to . the energy
   level is very high. I wish I had a low rider or an escalade with dubs... serious.
   I would love to roll hard in an escalade listening to crunked up dirty south.. that
   is one of my many dreams. another one is to have an M5 and roll with maiden everywhere
   I went. someday I suppose. i love sitting at work listening t...
-tags: ["search","insane","music","asia","iraq","kungfu"]
+summary: the author shares their love for Lil Jon & the Eastside Boyz, daydreams about
+  cruising in style while listening to crunk music, and reflects on the craziness
+  of current US affairs. they also mention reading dan brown books and poke fun at
+  their own rambling thoughts.
+tags:
+- iraq
+- crunk
+- Lil Jon
+- US politics
+- search
+- insane
+- music
+- aggressive music
+- music vibes
+- kungfu
+- asia
 title: crunk hop.. ahh yea.. tuesday
 wordpress_id: 587
 wordpress_url: http://new.nata2.org/?p=587

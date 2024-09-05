@@ -1,6 +1,16 @@
 ---
-date: 2005-08-10T00:10:19Z
-tags: ["general","family","hiromi","travel","yoyo"]
+date: 2005-08-10 00:10:19+00:00
+summary: having a blast hanging out with my cousin cole, my mom, and hiromi. gonna
+  miss hiromi when she heads out. cole's getting good at yoyoing, which is awesome!
+tags:
+- travel
+- yoyo
+- general
+- fun
+- cousins
+- adventures
+- family
+- hiromi
 title: 'driving across the world. '
 wordpress_id: 1108
 wordpress_url: http://www.nata2.org/2005/08/10/driving-across-the-world/

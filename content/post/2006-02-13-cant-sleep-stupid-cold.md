@@ -1,6 +1,22 @@
 ---
-date: 2006-02-13T06:56:02Z
-tags: ["general","cold","sick","google","hacks","diy","ambient","future"]
+date: 2006-02-13 06:56:02+00:00
+summary: "feeling sick in bed, but brainstorming some fun tech projects\u2014like\
+  \ a bluetooth-connected ambient device set and a personal wiki using gmail for storage.\
+  \ hoping to kick the cold and get started soon!"
+tags:
+- personal wiki
+- hacks
+- general
+- future
+- sick days
+- xmpp
+- google
+- sick
+- tech ideas
+- cold
+- ambient devices
+- ambient
+- diy
 title: 'can''t sleep. stupid cold. '
 wordpress_id: 1210
 wordpress_url: http://www.nata2.org/2006/02/13/cant-sleep-stupid-cold/

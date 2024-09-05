@@ -1,12 +1,24 @@
 ---
-date: 2004-01-27T06:42:19Z
+date: 2004-01-27 06:42:19+00:00
 excerpt: so today I had a weird day at work. nothing happened - I just felt weird.
   so I went home and attempted to take a nap to relax myself. but that didn't work.
   I couldn't sleep. I needed to just screw around or hang out and say stupid shit
   to people. so I got matt and we walked to the local bar. it ruled. we drank $20
   worth of beer - which on an empty stomach is PLENTY. but anyway. matt and I hugn
   ...
-tags: ["internet","watership","jokes"]
+summary: had a weird day at work with nothing happening, so I chilled with matt at
+  the bar, drank some beer, and talked trash. later, I had dinner with morgan, cracked
+  bad jokes with some homeless guys, and now I'm home, getting ready for a late night
+  of load testing with candy and dr. pepper.
+tags:
+- bar hangout
+- weird work day
+- friendship
+- internet
+- bad jokes
+- jokes
+- watership
+- tipsy adventures
 title: today == tonight
 wordpress_id: 736
 wordpress_url: http://new.nata2.org/?p=736
@@ -24,4 +36,4 @@ And then separately:<br/>
 
 </small></blockquote>
 
-I miss <a href="http://thom.watership.org">thom</a>. heh. 
+I miss <a href="http://thom.watership.org">thom</a>. heh.

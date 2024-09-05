@@ -1,6 +1,17 @@
 ---
-date: 2007-07-18T18:22:57Z
-tags: ["general","threadless","music","fun","secret-santa","mixtape","mixcd"]
+date: 2007-07-18 18:22:57+00:00
+summary: check out this super fun idea for a secret santa mix CD swap at work! everyone
+  makes a mix for a random person and then you compare them. it's a hilarious way
+  to see how well you know each other's music tastes. totally do it with your friends!
+tags:
+- threadless
+- general
+- fun
+- music
+- mixtape
+- mixcd
+- secret-santa
+- secret santa
 title: Secret Santa Mix CD Swap
 wordpress_id: 1467
 wordpress_url: http://www.nata2.org/2007/07/18/secret-santa-mix-cd-swap/

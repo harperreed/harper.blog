@@ -1,11 +1,29 @@
 ---
-date: 2003-10-29T00:43:18Z
+date: 2003-10-29 00:43:18+00:00
 excerpt: So today.. I was watching cky4 hanging out with mark and matt.. waiting to
   goto juggling club.. and as soon as we should have left for juggling club.. I got
   a call from derek exclaiming that my server wasn't responding. so I immediately
   called my lovely colo facility and mentioned to them that I needed my server rebooted.
   so they rebooted it.. ...
-tags: ["php","server","women","war","video","insane","juggling","aim","broox"]
+summary: had a crazy day chilling with mark and matt, almost missed juggling club,
+  then got a call that my server was down. turns out a site linked to my 160mb war
+  video after it was mentioned on howard stern, causing mad traffic. fixed it with
+  a clever file to slow down bandwidth theft. i rule!
+tags:
+- server
+- aim
+- bandwidth
+- women
+- juggling
+- war
+- server issues
+- video traffic
+- php
+- broox
+- internet fame
+- insane
+- video
+- juggling club
 title: stupid howard stern
 wordpress_id: 661
 wordpress_url: http://new.nata2.org/?p=661

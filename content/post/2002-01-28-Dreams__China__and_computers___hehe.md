@@ -1,11 +1,21 @@
 ---
-date: 2002-01-28T15:25:48Z
+date: 2002-01-28 15:25:48+00:00
 excerpt: So I often have computer dreams. I dream of editing something in VI or Pico.
   I dream of installing content managment systems. I dream of mostly software. Last
   night I dreamt of trying to install a motherboard ethernet card into another motherboard...
   so I had to unsolder everything out and resolder it in. heh. I don't know hardware
   that well so it was hard. The other dream I had was that th...
-tags: ["war"]
+summary: the author shares dreams about editing software and trying to install a motherboard
+  ethernet card, alongside a more intense dream about a nuclear conflict between the
+  u.s. and china. they reflect on a crazy weekend and express mixed feelings about
+  it.
+tags:
+- dreams
+- software
+- war
+- computers
+- crazy weekend
+- hardware
 title: Dreams. China. and computers.. hehe
 wordpress_id: 193
 wordpress_url: http://new.nata2.org/?p=193

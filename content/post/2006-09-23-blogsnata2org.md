@@ -1,6 +1,19 @@
 ---
-date: 2006-09-23T21:18:07Z
-tags: ["general","blogs","sites","smarty","magpie-rss"]
+date: 2006-09-23 21:18:07+00:00
+summary: "i revamped my mini site using smarty and magpie rss, and it looks pretty\
+  \ nice now. i love wordpress themes for quick setups. it\u2019s all about aggregating\
+  \ my friends' blogs, though i still have some missing features. check it out at\
+  \ blogs.nata2.org!"
+tags:
+- magpie rss
+- smarty
+- wordpress themes
+- magpie-rss
+- web development
+- general
+- blogs
+- sites
+- blog aggregator
 title: blogs.nata2.org
 wordpress_id: 1349
 wordpress_url: http://www.nata2.org/2006/09/23/blogsnata2org/

@@ -1,6 +1,20 @@
 ---
-date: 2005-04-10T16:15:15Z
-tags: ["general","family","colorado","fun","travel","snow"]
+date: 2005-04-10 16:15:15+00:00
+summary: chilling in phoenix, i decided to make a website for my grandfather, so i
+  flew to colorado to scan some pics with my dad. ended up scanning 200 pictures and
+  found an old comic to post online. then a huge snowstorm hit and stranded me for
+  an extra couple days, but i got a lot done on the site. time to take over the world!
+tags:
+- snowstorm
+- website
+- travel
+- colorado
+- general
+- fun
+- Colorado
+- snow
+- scanning pictures
+- family
 title: heh. dichotomy. wtf
 wordpress_id: 1040
 wordpress_url: http://www.nata2.org/2005/04/10/heh-dicotomy-wtf/

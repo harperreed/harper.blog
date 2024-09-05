@@ -1,6 +1,19 @@
 ---
-date: 2006-10-31T16:19:32Z
-tags: ["technology","content","users","wikipedia","endeca","usability"]
+date: 2006-10-31 16:19:32+00:00
+summary: the author loves wikipedia but is frustrated by its inconsistent search and
+  URL systems; even simple usability issues like capitalization lead to confusion
+  and hinder learning.
+tags:
+- endeca
+- knowledge
+- web navigation
+- users
+- wikipedia
+- Wikipedia
+- content
+- technology
+- user experience
+- usability
 title: Wikipedia is hard to use. WTF Search.
 wordpress_id: 1379
 wordpress_url: http://www.nata2.org/2006/10/31/wikipedia-is-hard-to-use-wtf-search/

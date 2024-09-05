@@ -1,9 +1,31 @@
 ---
-date: 2004-09-01T16:51:59Z
+date: 2004-09-01 16:51:59+00:00
 excerpt: so today - I am chilling - taking a shower and my wall attacked me. I was
   just brushing my teeth in the shower and I turned around and the wall that was facing
   my back lost all the tiles. It was ...
-tags: ["nerd","phone","cell","chicago","search","war","laptop","juggling","apple","travel","development","nokia","haxored"]
+summary: today was wild - while showering, the wall behind me lost its tiles, and
+  it freaked me out. I'm heading out of town for my brother's wedding, which is exciting.
+  last night was epic with korean BBQ and chilling with friends, plus my buddy chad
+  won best bartender. all in a day's fun!
+tags:
+- nokia
+- phone
+- brother's wedding
+- laptop
+- development
+- juggling
+- war
+- shower incident
+- nerd
+- cell
+- haxored
+- search
+- chicago
+- travel
+- traveling thoughts
+- apple
+- city's best bartender
+- korean BBQ
 title: when showers attack
 wordpress_id: 926
 wordpress_url: http://new.nata2.org/?p=926
@@ -13,4 +35,4 @@ so today - I am chilling - taking a shower and my wall attacked me. I was just b
 
 
 
-<a href="http://metromix.chicagotribune.com/reviews/reader/mmx-040901-readerreviews-bartenderwinner,0,7128987.story?coll=mmx-home_top_hedsh2o">w00t</a> my friend chad won "city's best bartender." and nobody haxored it. I swear. I mean really. hah. it is pretty cool. 
+<a href="http://metromix.chicagotribune.com/reviews/reader/mmx-040901-readerreviews-bartenderwinner,0,7128987.story?coll=mmx-home_top_hedsh2o">w00t</a> my friend chad won "city's best bartender." and nobody haxored it. I swear. I mean really. hah. it is pretty cool.

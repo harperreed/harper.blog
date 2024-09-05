@@ -1,9 +1,17 @@
 ---
-date: 2002-10-30T16:58:36Z
+date: 2002-10-30 16:58:36+00:00
 excerpt: This is so true. check out my new page. I am really interested in atom and
   his package - I used to love hearing about people named adam that referred to themselves
   as atom. I always wanted my name to ...
-tags: ["php"]
+summary: this post talks about a new page, a love for atom and his package, and a
+  nod to annie lennox looking just like herself.
+tags:
+- annie lennox
+- personal interests
+- PHP user
+- php
+- atom and his package
+- internet page
 title: I love mary
 wordpress_id: 387
 wordpress_url: http://new.nata2.org/?p=387

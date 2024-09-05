@@ -1,7 +1,15 @@
 ---
-date: 2003-07-23T14:23:23Z
+date: 2003-07-23 14:23:23+00:00
 excerpt: Apparently, the article Weapons Of Mass Stupidity is enough to garner you
   attention by the FBI. woah. That is rather messed up.
+summary: the article 'Weapons Of Mass Stupidity' caught the FBI's eye, and that's
+  pretty wild.
+tags:
+- FBI
+- Weapons of Mass Stupidity
+- media attention
+- controversy
+- journalism
 title: heh.. silly FBI.. always violating rights and protecting..
 wordpress_id: 574
 wordpress_url: http://new.nata2.org/?p=574

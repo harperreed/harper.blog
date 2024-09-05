@@ -1,6 +1,20 @@
 ---
-date: 2008-08-30T22:31:25Z
-tags: ["general","stereo","hifi","audio","t-amp","audiophile","preamp-amp"]
+date: 2008-08-30 22:31:25+00:00
+summary: went on a crazy journey building my audio system from scratch. after discovering
+  the T-Amp, i dove deep into DIY speaker and cable projects, finally bi-amping my
+  klipsch speakers with some awesome new gear. excited for future upgrades like a
+  new preamp and DACs for better sound!
+tags:
+- audiophile
+- audio_exploration
+- sound_system
+- audio
+- preamp-amp
+- hifi
+- stereo
+- general
+- t-amp
+- diy_audio
 title: 'Mini Hi Fi: The Chase'
 wordpress_id: 1546
 wordpress_url: http://www.nata2.org/?p=1546

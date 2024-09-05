@@ -1,6 +1,18 @@
 ---
-date: 2007-06-05T13:50:53Z
-tags: ["technology","technology","oarnet","hosting","collocation","rackspace","mosso"]
+date: 2007-06-05 13:50:53+00:00
+summary: the author has had a long-time good experience with collocation hosting at
+  OSU but is now facing challenges after they close down. after trying out mosso,
+  which seemed great initially, they found issues with downtime and slow email. now
+  they're looking for a new solution, weighing options like rackspace or splitting
+  a server.
+tags:
+- collocation
+- hosting
+- rackspace
+- oar.net
+- oarnet
+- technology
+- mosso
 title: Hosting woes. Collocation and how Mosso sucks
 wordpress_id: 1453
 wordpress_url: http://www.nata2.org/2007/06/05/hosting-woes-collocation-and-how-mosso-sucks/

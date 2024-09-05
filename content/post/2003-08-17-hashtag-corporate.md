@@ -1,12 +1,25 @@
 ---
-date: 2003-08-17T23:56:27Z
+date: 2003-08-17 23:56:27+00:00
 excerpt: 'heh. so this irc channel has totally made for fun times. I hooked up this
   to log everything and especially links.. hehe. it rules. but whatever. the only
   problem is that it doens''t log the bot - which will be annoying.. especially when
   we play trivia.. which you are all invited to participate in. btw.. trivia rules.this
   weekend.. was dope. '
-tags: ["juggle","fashion","action","matiss","irc"]
-title: 'hash corporate'
+summary: had a blast in the irc channel and logged all the fun! this weekend was cool
+  with a block party in wicker park and a killer Kill Hannah show. also, juggled for
+  some smart kids at a bday party. good times all around!
+tags:
+- fashion
+- irc channel
+- DJ action
+- block party
+- juggle
+- matiss
+- trivia
+- irc
+- action
+- Kill Hannah
+title: hash corporate
 wordpress_id: 599
 wordpress_url: http://new.nata2.org/?p=599
 ---

@@ -1,6 +1,16 @@
 ---
-date: 2005-08-04T22:41:37Z
-tags: ["general","music","hardcore","gabber"]
+date: 2005-08-04 22:41:37+00:00
+summary: last night, after crashing a convo with mark, tommie, and jim, i hit up a
+  BBQ at lenny dee's place. it was a total throwback with all the gabber legends there,
+  like ralphie dee and adam x. had a blast and came home to blast my last gabber cd.
+tags:
+- hardcore
+- gabber
+- general
+- nostalgia
+- music
+- barbecue
+- hardcore techno
 title: HARDCORE! heh. sometimes i love nyc
 wordpress_id: 1105
 wordpress_url: http://www.nata2.org/2005/08/04/hardcore-heh-sometimes-i-love-nyc/

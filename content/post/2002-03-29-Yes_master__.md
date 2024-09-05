@@ -1,7 +1,15 @@
 ---
-date: 2002-03-29T17:35:32Z
+date: 2002-03-29 17:35:32+00:00
 excerpt: Yes Master... yes master.. uhh.. here. here and go here.i am a sponsor here
-tags: ["php"]
+summary: i'm excited for my haircut today and can't wait to look pretty! also, check
+  out some links and my sponsorship.
+tags:
+- selfcare
+- haircut
+- php
+- links
+- sponsorship
+- excitement
 title: Yes master..
 wordpress_id: 245
 wordpress_url: http://new.nata2.org/?p=245

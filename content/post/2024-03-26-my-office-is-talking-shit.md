@@ -1,9 +1,23 @@
 ---
-title: "Our Office Avatar pt 1: The office is talking shit again"
-date: 2024-03-26T09:00:00-05:00
-description: "I used sensors and an LLM to make my office talk. We used this to generate a humorous LLM-generated commentary - creating an interactive, profanity and personality-infused office space."
+date: 2024-03-26 09:00:00-05:00
+description: I used sensors and an LLM to make my office talk. We used this to generate
+  a humorous LLM-generated commentary - creating an interactive, profanity and personality-infused
+  office space.
 draft: false
+summary: this post dives into how i combined sensors and an llm to create a fun and
+  interactive office environment. from notifications about temperature and air quality
+  to witty remarks based on sensor data, it's all about making the office smarter
+  and a bit more entertaining. plus, there's some cool coding stuff if you're into
+  that!
+tags:
+- sensors
+- LLM
+- automation
+- office tech
+- home assistant
+title: 'Our Office Avatar pt 1: The office is talking shit again'
 ---
+
 **tl;dr:** *I use a bunch of sensors, and an LLM to make my office talk to us about what’s going on in the office. This is a long post, but should be pretty straight forward. Generally, this is a good demonstration of how I have been using LLMs in my real life.*
 
 In 2019 my buddy Ivan and I started working in this [amazing studio](https://company.lol) here in Chicago. Mostly we just fuck off and build lots of fun stuff.

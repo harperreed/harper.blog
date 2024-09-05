@@ -1,6 +1,18 @@
 ---
-date: 2007-04-30T13:59:11Z
-tags: ["general","work","nissan","car"]
+date: 2007-04-30 13:59:11+00:00
+summary: hiromi and i just got a new nissan versa! it's a small car with good safety
+  ratings, perfect for city parking. hiromi's driving it back from colorado, and i'm
+  stoked to see it. i'm thinking about making it look like a spaceship. hiromi will
+  be using it for work and to grab upright video games for friends.
+tags:
+- general
+- work
+- spaceship
+- nissan
+- new car
+- commuting
+- car
+- versa
 title: We got a new car
 wordpress_id: 1439
 wordpress_url: http://www.nata2.org/2007/04/30/we-got-a-new-car/

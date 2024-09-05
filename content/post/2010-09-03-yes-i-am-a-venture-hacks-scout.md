@@ -1,5 +1,14 @@
 ---
-date: 2010-09-03T00:00:00Z
+date: 2010-09-03 00:00:00+00:00
+summary: excited to join venture hacks and help startups connect with angels on angellist.
+  if you have a startup, submit it directly or hit me up for a chat. let's make the
+  midwest a great spot for entrepreneurs!
+tags:
+- startups
+- angel investing
+- Chicago
+- Venture Hacks
+- Angellist
 title: Yes! I am a venture hacks scout! Chicago RPZNT
 ---
 

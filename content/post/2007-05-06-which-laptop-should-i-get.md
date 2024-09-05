@@ -1,6 +1,25 @@
 ---
-date: 2007-05-06T01:06:05Z
-tags: ["technology","technology","linux","osx","apple","macbook","t60","lenovo","purchase","development","desktop-development","mac","ubuntu","laptops"]
+date: 2007-05-06 01:06:05+00:00
+summary: the author is looking to upgrade from a dell inspiron 700m to a new laptop
+  and is considering either a lenovo t60 or a black macbook. they discuss their laptop
+  usage, software needs, and experiences with both brands.
+tags:
+- Apple
+- ubuntu
+- osx
+- laptops
+- development
+- mac
+- technology
+- macbook
+- t60
+- desktop-development
+- apple
+- Lenovo
+- Ubuntu
+- lenovo
+- linux
+- purchase
 title: Which laptop should I get
 wordpress_id: 1441
 wordpress_url: http://www.nata2.org/2007/05/06/which-laptop-should-i-get/

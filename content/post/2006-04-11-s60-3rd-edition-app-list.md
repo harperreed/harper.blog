@@ -1,6 +1,15 @@
 ---
-date: 2006-04-11T13:46:46Z
-tags: ["general"]
+date: 2006-04-11 13:46:46+00:00
+summary: "put together a list of apps for the Symbian 3rd edition phones after my\
+  \ friend jacob got a Nokia 3250 and wanted more options. here\u2019s what i found\
+  \ so far!"
+tags:
+- Handy Weather
+- general
+- application list
+- Symbian apps
+- mobile software
+- Nokia 3250
 title: S60 3rd edition app list
 wordpress_id: 1244
 wordpress_url: http://www.nata2.org/s60-3rd-edition-app-list/

@@ -1,6 +1,20 @@
 ---
-date: 2007-06-04T20:49:41Z
-tags: ["general","fun","online","games","scrabulous","scrabble","weewar","weewarcom"]
+date: 2007-06-04 20:49:41+00:00
+summary: "found weewar and played some epic turn-based battles with friends. then\
+  \ got hooked on scrabble at scrabulous and invited everyone I knew. ended up with\
+  \ a weewar pro account, but now I\u2019m officially done with games... unless it's\
+  \ scrabble!"
+tags:
+- general
+- fun
+- online
+- gaming
+- weewarcom
+- scrabble
+- online games
+- games
+- weewar
+- scrabulous
 title: 'Online games are killing me: weewar and scrabulous'
 wordpress_id: 1449
 wordpress_url: http://www.nata2.org/2007/06/04/online-games-are-killing-me-weewar-and-scrabulous/

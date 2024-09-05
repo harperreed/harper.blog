@@ -1,6 +1,22 @@
 ---
-date: 2006-08-12T05:21:18Z
-tags: ["general","concerts","tickets","concert","shows","past","history","personal"]
+date: 2006-08-12 05:21:18+00:00
+summary: "while digging through old high school pics, i found a stash of concert tickets.\
+  \ over 150 shows! spent around 450 hours rocking out, mostly to death metal. hilariously,\
+  \ i missed some epic gigs, like built to spill, and made questionable choices. now\
+  \ i need a concert calendar because i can\u2019t keep track!"
+tags:
+- concert
+- general
+- past
+- tickets
+- shows
+- music fandom
+- personal
+- concerts
+- high school memories
+- ticket collection
+- history
+- funny stories
 title: Concert tickets from the past
 wordpress_id: 1320
 wordpress_url: http://www.nata2.org/2006/08/12/concert-tickets-from-the-past/

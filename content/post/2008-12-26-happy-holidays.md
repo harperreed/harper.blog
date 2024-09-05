@@ -1,6 +1,17 @@
 ---
-date: 2008-12-26T00:31:12Z
-tags: ["general","family","holidays"]
+date: 2008-12-26 00:31:12+00:00
+summary: just a quick hello and happy holidays! been busy with family and a cool dinner.
+  looking forward to sharing more in a year-end post soon. check out my twitter and
+  flickr for updates!
+tags:
+- general
+- family time
+- blog update
+- holiday season
+- cooking
+- holidays
+- family
+- Threadless sale
 title: Happy Holidays
 wordpress_id: 1578
 wordpress_url: http://www.nata2.org/?p=1578

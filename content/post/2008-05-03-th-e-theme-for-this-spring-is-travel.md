@@ -1,6 +1,16 @@
 ---
-date: 2008-05-03T00:45:17Z
-tags: ["general","travel"]
+date: 2008-05-03 00:45:17+00:00
+summary: After a long blogging break, the author shares their recent travel adventures,
+  including trips to Tucson, San Antonio, and NYC for various conferences. They reflect
+  on the challenges of flying, the enjoyment of meeting people in person, and their
+  experiences with food and fun in different cities.
+tags:
+- general
+- blogging
+- food
+- travel
+- conferences
+- flying
 title: The theme for this spring is travel
 wordpress_id: 1517
 wordpress_url: http://www.nata2.org/?p=1517

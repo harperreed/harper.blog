@@ -1,6 +1,20 @@
 ---
-date: 2005-09-09T23:04:49Z
-tags: ["general","movies","awesome","sorrow","illness"]
+date: 2005-09-09 23:04:49+00:00
+summary: just watched the beginning of an awesome movie about susan tom raising 11
+  adopted kids with severe illnesses. it's super heart-wrenching and totally caught
+  me off guard while i was looking for something mindless to watch. grab some kleenex
+  and check it out!
+tags:
+- heartwarming
+- awesome
+- movies
+- illness
+- adoption
+- general
+- movie review
+- emotional film
+- sorrow
+- susan tom
 title: 'Saddest movie ever.. jesus. '
 wordpress_id: 1127
 wordpress_url: http://www.nata2.org/2005/09/09/saddest-movie-ever-jesus/
@@ -11,4 +25,4 @@ I just watched the beginning of this <a href="http://imdb.com/title/tt0342804/ma
 anyway. work work work. 
 
 brb
-;) 
+;)

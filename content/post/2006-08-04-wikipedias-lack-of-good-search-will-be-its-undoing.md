@@ -1,6 +1,18 @@
 ---
-date: 2006-08-04T19:34:28Z
-tags: ["technology","search","wikipedia","endeca","encyclopedia"]
+date: 2006-08-04 19:34:28+00:00
+summary: the blog discusses the vital need for wikipedia to improve its search functionality.
+  drawing from past experience in the encyclopedia industry, the author emphasizes
+  that enhancing search capabilities will make it easier for users, especially children
+  and those from developing nations, to access information effectively.
+tags:
+- wikipedia
+- community
+- Wikipedia
+- search
+- encyclopedia
+- user experience
+- technology
+- endeca
 title: Wikipedia's lack of good search will be its undoing
 wordpress_id: 1318
 wordpress_url: http://www.nata2.org/2006/08/04/wikipedias-lack-of-good-search-will-be-its-undoing/

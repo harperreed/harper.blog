@@ -1,6 +1,18 @@
 ---
-date: 2007-04-22T16:48:44Z
-tags: ["general","chicago","matiss","brithdays","dining","weekend"]
+date: 2007-04-22 16:48:44+00:00
+summary: "this weekend has been awesome and packed with good times! hiromi got a job\
+  \ offer with a japanese game company, and we celebrated matiss' birthday with great\
+  \ food and friends. from dinner at ethiopian diamond to hanging out over pho and\
+  \ beers, it\u2019s been a blast!"
+tags:
+- general
+- brithdays
+- birthdays
+- matiss
+- dining
+- weekend
+- hiromi
+- chicago
 title: Matiss' birthday, Aaron visits and Hiromi gets a job
 wordpress_id: 1438
 wordpress_url: http://www.nata2.org/2007/04/22/matiss-birthday-aaron-visits-and-hiromi-gets-a-job/

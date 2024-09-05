@@ -1,6 +1,22 @@
 ---
-date: 2008-01-10T16:40:53Z
-tags: ["general","blogs","rss","data-portability","data","social-networks","opml","google-reader","feeds"]
+date: 2008-01-10 16:40:53+00:00
+summary: "the futuro is all about data and sharing it! the dataportability.org crew\
+  \ is awesome, and i\u2019m hooked on their blogs. check out my shared tag and stay\
+  \ tuned for more cool stuff from this group!"
+tags:
+- general
+- opml
+- rss
+- blogs
+- social-networks
+- data portability
+- dataportability.org
+- data
+- data-portability
+- RSS feed
+- community
+- google-reader
+- feeds
 title: Data Portability feeds
 wordpress_id: 1503
 wordpress_url: http://www.nata2.org/2008/01/10/data-portability-feeds/

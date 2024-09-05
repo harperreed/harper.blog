@@ -1,9 +1,37 @@
 ---
-date: 2004-01-26T19:51:13Z
-excerpt: |-
-  this is a long entry
-  heh. I wish I really was a darksider. I have had some really weird dreams the past couple days. first I had a dream I was in a bad place. the place was a bed and the other person in the bed didn't want me there but I couldn't leave - so I was attempting to stay on the edge of the bed the whole night. it was an incredibly strange dream - I imagine that a dream ana...
-tags: ["technology","phone","blogs","internet","server","community","video","school","security","sex","juggling","porn","nyc","festivals","drugs","mobile","networks"]
+date: 2004-01-26 19:51:13+00:00
+excerpt: 'this is a long entry
+
+  heh. I wish I really was a darksider. I have had some really weird dreams the past
+  couple days. first I had a dream I was in a bad place. the place was a bed and the
+  other person in the bed didn''t want me there but I couldn''t leave - so I was attempting
+  to stay on the edge of the bed the whole night. it was an incredibly strange dream
+  - I imagine that a dream ana...'
+summary: the post dives into some wild dreams, thoughts on privacy in the digital
+  age, and a bit about dating morgan. it touches on the impact of internet culture
+  on youth, as well as future plans that might include law school or sociology.
+tags:
+- dreams
+- porn
+- blogging
+- school
+- juggling
+- security
+- networks
+- privacy
+- relationships
+- video
+- community
+- internet
+- sex
+- phone
+- server
+- blogs
+- mobile
+- nyc
+- technology
+- festivals
+- drugs
 title: 'lentil soup is roasting my ever dark soul: privacy issues!'
 wordpress_id: 735
 wordpress_url: http://new.nata2.org/?p=735

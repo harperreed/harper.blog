@@ -1,11 +1,24 @@
 ---
-date: 2000-12-27T20:27:59Z
-excerpt: "Hip Hop. Oh yes.. \nWell, another christmas has gone and went.. and to think
-  i just started acknowledging the year 200 last month.. heh.. its almost 2k1. I think
-  it is funny how time flys. i mean i just started school almost 4 years ago.. when
-  i was like 19.. now as i approach my 23rd birthday, i realize that their isn't really
-  a difference between being 23 and being 45. it is afterall, just..."
-tags: ["war","school","chris","christmas","birthday"]
+date: 2000-12-27 20:27:59+00:00
+excerpt: "Hip Hop. Oh yes.. \nWell, another christmas has gone and went.. and to think\
+  \ i just started acknowledging the year 200 last month.. heh.. its almost 2k1. I\
+  \ think it is funny how time flys. i mean i just started school almost 4 years ago..\
+  \ when i was like 19.. now as i approach my 23rd birthday, i realize that their\
+  \ isn't really a difference between being 23 and being 45. it is afterall, just..."
+summary: the post reflects on the passage of time and personal growth, sharing a recent
+  dentist visit where the author tried meditation to cope with discomfort and explores
+  the importance of processing feelings.
+tags:
+- chris
+- school
+- war
+- dentist visit
+- christmas
+- self-reflection
+- time flying
+- hip hop
+- birthday
+- meditation
 title: Hip Hop and you too
 wordpress_id: 78
 wordpress_url: http://new.nata2.org/?p=78

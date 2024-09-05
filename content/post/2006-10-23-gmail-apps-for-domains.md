@@ -1,6 +1,25 @@
 ---
-date: 2006-10-23T01:49:58Z
-tags: ["technology","google","skinnycorp","gmail","microsoft","email","google-hosted-apps","gmail-for-domains","exchange","outlook"]
+date: 2006-10-23 01:49:58+00:00
+summary: skinnyCorp recently moved their email to a hosted platform after finding
+  managing email servers a hassle. they tried Rackspace's managed Exchange but it
+  wasn't the right fit, so they switched to Google hosted apps and are loving the
+  speed and simplicity of Gmail.
+tags:
+- gmail-for-domains
+- google-hosted-apps
+- skinnycorp
+- cloud services
+- Gmail
+- exchange
+- technology
+- microsoft
+- productivity tools
+- email migration
+- Rackspace
+- outlook
+- google
+- gmail
+- email
 title: Gmail Apps for Domains
 wordpress_id: 1376
 wordpress_url: http://www.nata2.org/2006/10/23/gmail-apps-for-domains/

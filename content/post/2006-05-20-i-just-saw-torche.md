@@ -1,6 +1,16 @@
 ---
-date: 2006-05-20T02:11:18Z
-tags: ["general","metal","yoyo","torche"]
+date: 2006-05-20 02:11:18+00:00
+summary: today was way better because i'm waiting for 6 midwest yoyo kids to come
+  over for a party. it's gonna be so much fun with yoyos for everyone!
+tags:
+- general
+- yoyo
+- fun
+- kids
+- metal
+- midwest
+- party
+- torche
 title: 'I just saw torche. '
 wordpress_id: 1270
 wordpress_url: http://www.nata2.org/2006/05/20/i-just-saw-torche/

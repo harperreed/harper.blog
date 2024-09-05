@@ -1,11 +1,27 @@
 ---
-date: 2003-02-07T16:40:32Z
+date: 2003-02-07 16:40:32+00:00
 excerpt: I need to fix my car. when I say fix - I really mean register and insure
   it in chicago. I also need to get a chicago license. I have been skirting the law
   for awhile now and I can no longer do it(btw I am insured.. just not registered..
   ugh). heh. last night matiss and I invited some cats to come over and watch the
   spooky michael jackson interview. boy that d00d is a weirdo. jesus. it is all very...
-tags: ["php","chicago","tools","bush","action","matiss","politics","politic","iraq"]
+summary: "gotta register and insure my car in chicago and get a license too. watched\
+  \ that spooky michael jackson interview last night with some friends \u2013 dude's\
+  \ a total weirdo but kinda misunderstood. also, what's up with the uk plagiarizing\
+  \ reports? and bush raising the threat level to orange \u2013 classic."
+tags:
+- iraq
+- car registration
+- matiss
+- michael jackson
+- tools
+- politics
+- php
+- politic
+- chicago
+- weird news
+- action
+- bush
 title: TDD for ALL States
 wordpress_id: 444
 wordpress_url: http://new.nata2.org/?p=444

@@ -1,6 +1,19 @@
 ---
-date: 2009-10-07T21:52:50Z
-tags: ["general","rackspace","threadless","future"]
+date: 2009-10-07 21:52:50+00:00
+summary: i'm leaving Threadless after 4 awesome years and heading to Rackspace to
+  work in their cloud division as a nepholologist. super excited for the future and
+  to dive into new projects while detoxing from my time at Threadless. stay tuned
+  for more updates!
+tags:
+- rackspace
+- general
+- future
+- nepholologist
+- threadless
+- Rackspace
+- startup life
+- Threadless
+- career change
 title: Leaving Threadless
 wordpress_id: 1638
 wordpress_url: http://www.nata2.org/?p=1638

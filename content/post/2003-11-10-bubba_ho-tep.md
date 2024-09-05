@@ -1,11 +1,24 @@
 ---
-date: 2003-11-10T15:17:05Z
+date: 2003-11-10 15:17:05+00:00
 excerpt: 'On saturday night, matiss and I went to bubba ho-tep. it was really great.
   chris said it was perfect - and I have to partially agree with him. it was damned
   close. all I knon is that now being monday morning.. I am ready for some A C T -
   I O N. ;)i am really sleepy last night. for some reason I just didn''t sleep well.
   stupid well. '
-tags: ["war","chris","author","matiss"]
+summary: "went to bubba ho-tep on saturday night and it was great! chris thought it\
+  \ was perfect. feeling sleepy and not sleeping well. reading a book called 'with\
+  \ charity toward none'\u2014not impressed. my blogging style is all over the place\
+  \ lately, but hoping it gets better soon!"
+tags:
+- war
+- bubba ho-tep
+- blogging struggle
+- weekend recap
+- chris
+- matiss
+- author
+- misanthropy
+- reading
 title: bubba ho-tep
 wordpress_id: 671
 wordpress_url: http://new.nata2.org/?p=671

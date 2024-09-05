@@ -1,6 +1,22 @@
 ---
-date: 2008-02-25T01:51:39Z
-tags: ["technology","xmpp","google-apps","radius","ldap","authentication","sso","saml"]
+date: 2008-02-25 01:51:39+00:00
+summary: "the blog post discusses how the writer's organization uses Google Apps for\
+  \ email and collaboration, and explores the challenges of integrating Google Apps\
+  \ accounts with LDAP and Radius for user authentication, while considering alternative\
+  \ solutions like using Google\u2019s jabber server."
+tags:
+- radius
+- sso
+- ldap
+- LDAP
+- xmpp
+- technology
+- google-apps
+- saml
+- authentication
+- Radius
+- SAML
+- Google Apps
 title: 'Google Apps Auth: XMPP and Radius idea'
 wordpress_id: 1508
 wordpress_url: http://www.nata2.org/2008/02/25/google-apps-auth-xmpp-and-radius-idea/

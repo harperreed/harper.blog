@@ -1,8 +1,22 @@
 ---
-date: 2003-01-16T14:45:42Z
+date: 2003-01-16 14:45:42+00:00
 excerpt: My friend Jon got an article written about him in our hometown newspaper.
   Check it out. He walked a long way. Wierd - there is appare...
-tags: ["technology","greeley","bush","business","iraq"]
+summary: my friend jon got featured in the local paper for his long walk. there's
+  some chatter about a super database for citizen info and the surprising news that
+  north korea isn't a threat anymore. just some random thoughts on terrorism and government
+  reactions.
+tags:
+- iraq
+- hometown news
+- greeley
+- government surveillance
+- current events
+- North Korea
+- technology
+- business
+- war on terror
+- bush
 title: friend jon
 wordpress_id: 433
 wordpress_url: http://new.nata2.org/?p=433

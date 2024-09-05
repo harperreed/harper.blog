@@ -1,11 +1,26 @@
 ---
-date: 2004-08-20T09:03:33Z
+date: 2004-08-20 09:03:33+00:00
 excerpt: it doesn't work. having a crazy scedule where you are up from 11 to 6 and
   sleep from 6 to 9 and then are up from 9 until 6 is insane. it creates ghosts in
   my head. I was hanging out at work yesterday morning - about 24hrs ago - and I thought
   I heard voices calling my name. I scurried off home. full of fear of zombies and
   demons. it ruled. I even took a cab. cuz I didn't trust the train. place i...
-tags: ["books","fear","rock","insane","coding","watership","dad"]
+summary: the blog post dives into the chaos of a wild sleep schedule that leads to
+  eerie experiences, reflects on the haunting beauty of Murakami's 'norwegian wood,'
+  shares emotional reading moments, and ends with a desire for books and connections.
+tags:
+- fear
+- Murakami
+- insane
+- coding
+- watership
+- rock
+- emotional books
+- dad
+- crazy schedule
+- reading
+- books
+- late night thoughts
 title: i can't sleep for the life of me. seriously.
 wordpress_id: 918
 wordpress_url: http://new.nata2.org/?p=918

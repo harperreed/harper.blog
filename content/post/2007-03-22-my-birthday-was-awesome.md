@@ -1,6 +1,18 @@
 ---
-date: 2007-03-22T14:38:48Z
-tags: ["general","birthday","movies","fun","memcached","300","studs-terkel"]
+date: 2007-03-22 14:38:48+00:00
+summary: had a fun day starting with new jeans and work on my memcached server, then
+  enjoyed some cupcakes from hiromi. attended a studs terkel event that was super
+  inspiring, went for drinks with friends, and ended with a movie that was just okay.
+  passed out tired but happy!
+tags:
+- general
+- fun
+- birthday
+- movies
+- studs terkel
+- memcached
+- '300'
+- studs-terkel
 title: My birthday was awesome
 wordpress_id: 1423
 wordpress_url: http://www.nata2.org/2007/03/22/my-birthday-was-awesome/

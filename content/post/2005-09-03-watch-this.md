@@ -1,6 +1,16 @@
 ---
-date: 2005-09-03T18:11:49Z
-tags: ["general","sad","nola","tragedy"]
+date: 2005-09-03 18:11:49+00:00
+summary: this post highlights an emotional moment involving kanye west during a new
+  orleans benefit, emphasizing the impact of hurricane katrina.
+tags:
+- general
+- nola
+- nola benefit
+- hurricane katrina
+- sad
+- emotional response
+- tragedy
+- kanye west
 title: watch this
 wordpress_id: 1124
 wordpress_url: http://www.nata2.org/2005/09/03/watch-this/

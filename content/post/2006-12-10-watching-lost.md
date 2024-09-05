@@ -1,6 +1,20 @@
 ---
-date: 2006-12-10T23:34:37Z
-tags: ["general","television","lost","entertainment","addiction"]
+date: 2006-12-10 23:34:37+00:00
+summary: "everyone at work kept raving about Lost, and after some serious fomo, I\
+  \ finally started watching it with my roommates. season one was super intriguing,\
+  \ and now I\u2019m diving into season two. loving the mystery, but man, I can't\
+  \ stand Michelle Rodriguez's character. also, wikipedia is the worst for spoilers!"
+tags:
+- viral marketing
+- addiction
+- general
+- season reviews
+- television
+- lost
+- Lost
+- entertainment
+- TV shows
+- spoilers
 title: Watching Lost.
 wordpress_id: 1394
 wordpress_url: http://www.nata2.org/2006/12/10/watching-lost/

@@ -1,11 +1,39 @@
 ---
-date: 2004-04-27T14:27:50Z
+date: 2004-04-27 14:27:50+00:00
 excerpt: the last couple days have been pretty weird. I didn't feel like posting at
   all. which is in itself pretty different. usually I post as a decompression activity
   - or because I want to say something. however in the last couple days I have really
   felt that my motivations for posting on my 'blog' were not exactly legit. hah. they
   were not really  illegal - just not necessarily in the same vein as ...
-tags: ["books","phone","women","war","fear","rock","food","insane","humor","music","matiss","india","phones","hiromi","travel","development","nokia","blogger"]
+summary: "the last couple days were kinda off for me, not feeling like posting. but\
+  \ now i'm back! had a fun weekend with coworkers at the hard rock, watched kill\
+  \ bill 2, and hit a party. also, i'm prepping for my trip to india soon, which is\
+  \ exciting and a bit scary. gotta figure out what to pack\u2014light clothes, apparently!\
+  \ blogging feedback has been interesting too. all good vibes here. RULE!"
+tags:
+- development
+- women
+- fear
+- war
+- india
+- insane
+- music
+- travel
+- personal reflections
+- rock
+- travel plans
+- nokia
+- phone
+- humor
+- food
+- weekend recap
+- matiss
+- hiromi
+- microphone love
+- blogging thoughts
+- books
+- blogger
+- phones
 title: it has and it will be. ghosts in my eyes
 wordpress_id: 829
 wordpress_url: http://new.nata2.org/?p=829

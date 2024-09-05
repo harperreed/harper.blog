@@ -1,6 +1,20 @@
 ---
-date: 2007-04-10T09:45:45Z
-tags: ["technology","technology","stupid","life","decency","code","conduct","feelings"]
+date: 2007-04-10 09:45:45+00:00
+summary: kathy sierra got attacked online, which freaked her out and sparked a big
+  convo about being mean on the internet. a blogger code of conduct came out of it,
+  but the author thinks we should just treat each other decently instead of needing
+  a bunch of rules.
+tags:
+- conduct
+- kathy sierra
+- internet
+- decency
+- stupid
+- life
+- code
+- bullying
+- technology
+- feelings
 title: The whole blogging code of conduct thing.
 wordpress_id: 1429
 wordpress_url: http://www.nata2.org/2007/04/10/the-whole-blogging-code-of-conduct-thing/

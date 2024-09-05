@@ -1,6 +1,18 @@
 ---
-date: 2006-10-20T20:53:09Z
-tags: ["general","sites","community","digg","slashdot","delicious","web20"]
+date: 2006-10-20 20:53:09+00:00
+summary: the author hasn't checked slashdot in a month, shifting focus to digg and
+  del.icio.us for better news and bookmarking features. they appreciate the community
+  aspect and tagging of del.icio.us, and use it in their IRC channel to track links.
+tags:
+- web20
+- slashdot
+- community
+- digg
+- social media
+- delicious
+- general
+- bookmarking
+- sites
 title: Sadly I think I have left slashdot...
 wordpress_id: 1373
 wordpress_url: http://www.nata2.org/2006/10/20/sadly-i-think-i-have-left-slashdot/

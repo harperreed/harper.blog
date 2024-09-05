@@ -1,11 +1,24 @@
 ---
-date: 2001-07-15T16:27:46Z
+date: 2001-07-15 16:27:46+00:00
 excerpt: Man.. i don't know whats going on. I had the wierdest dreams recently. both
   of them involved the "weather." In one i was walking from cedar rapids to Mt. Vernon,
   and i was following a tornado. So everything was destroyed... then when i got to
   cornell, the tornado had somehow turned all of the "jocks" into vampires... it was
   really funny. it wasn't just jocks persay, but that is all i remember a...
-tags: ["friends","cornell","cell","search","women"]
+summary: had some super weird dreams lately involving weather. one was about chasing
+  a tornado to cornell where all the jocks turned into vampires. a bunch of random
+  women showed up as vampire killers, but couldn't find pool cues anywhere. also,
+  why is the protagonist usually the only one who gets the vampire thing?
+tags:
+- weird dreams
+- women
+- dream analysis
+- cell
+- search
+- tornado
+- cornell
+- friends
+- vampires
 title: Vampires and Cornell..
 wordpress_id: 16
 wordpress_url: http://new.nata2.org/?p=16

@@ -1,6 +1,22 @@
 ---
-date: 2006-02-25T23:30:33Z
-tags: ["general","movies","logo","lesbian","grill","tnt","crap","gay"]
+date: 2006-02-25 23:30:33+00:00
+summary: watched some terrible TV including hallmark movies before switching to TNT
+  and the logo network. found a cool documentary about butch lesbians and noted how
+  parents often think being a lesbian is just a phase. also, wants a grill.
+tags:
+- grill
+- general
+- crap
+- lesbian culture
+- documentaries
+- logo
+- movies
+- personal anecdotes
+- TV reviews
+- lesbian
+- gay
+- tnt
+- Hallmark movies
 title: LOGO network is awesome
 wordpress_id: 1221
 wordpress_url: http://www.nata2.org/2006/02/25/logo-network-is-awesome/

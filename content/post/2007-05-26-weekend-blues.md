@@ -1,6 +1,15 @@
 ---
-date: 2007-05-26T14:31:55Z
-tags: ["general","hacking","chumby"]
+date: 2007-05-26 14:31:55+00:00
+summary: i love weekends, but lately i've been so busy that i've had to work on them.
+  today, i'm taking the day off to hack my chumby and explore some python tricks.
+  super excited!
+tags:
+- general
+- python
+- weekend
+- chumby
+- hacking
+- work-life balance
 title: Weekend blues
 wordpress_id: 1445
 wordpress_url: http://www.nata2.org/2007/05/26/weekend-blues/

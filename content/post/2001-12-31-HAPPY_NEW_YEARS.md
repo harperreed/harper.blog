@@ -1,10 +1,22 @@
 ---
-date: 2001-12-31T14:32:03Z
-excerpt: "Everyone have a safe and fun new years eve/ new years. Hopefully not everything
-  is full/closed or dumb.. \nwell peace and hopefully we won't see nuclear war soon.
-  speaking of  which.. my new years resolution is to not press the shiny red button
-  :). Also.. I fixed harperreed.org/media/ so now the pictures wor..."
-tags: ["books","harper","reed","war"]
+date: 2001-12-31 14:32:03+00:00
+excerpt: "Everyone have a safe and fun new years eve/ new years. Hopefully not everything\
+  \ is full/closed or dumb.. \nwell peace and hopefully we won't see nuclear war soon.\
+  \ speaking of  which.. my new years resolution is to not press the shiny red button\
+  \ :). Also.. I fixed harperreed.org/media/ so now the pictures wor..."
+summary: wishing everyone a safe and fun new year's eve! my resolution is to not press
+  the shiny red button :) check out the fixed harperreed.org/media for some cool pics
+  and a contest to spot misinformation. email me your guesses!
+tags:
+- misinformation
+- resolution
+- war
+- nuclear war
+- reed
+- contest
+- new years
+- harper
+- books
 title: HAPPY NEW YEARS
 wordpress_id: 158
 wordpress_url: http://new.nata2.org/?p=158

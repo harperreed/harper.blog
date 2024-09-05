@@ -1,6 +1,26 @@
 ---
-date: 2005-09-28T01:38:03Z
-tags: ["general","chicago","hacking","games","hiromi","skinnycorp","awesome","psp","jpan","console","emulation"]
+date: 2005-09-28 01:38:03+00:00
+summary: checking out health's new movie group, playing way too many PSP games, and
+  realizing some classics just don't hold up. also working on new projects like straightupmobile
+  and illlist.com, plus plans for a chill networking party. oh, and thinking about
+  a trip to japan!
+tags:
+- emulation
+- jpan
+- general
+- skinnycorp
+- awesome
+- video games
+- hiromi
+- games
+- chicago
+- console
+- hacking
+- psp
+- blog updates
+- PSP
+- networking
+- online store
 title: video games, japan some stuff.. and umm.. oh yea. new sites
 wordpress_id: 1132
 wordpress_url: http://www.nata2.org/?p=1132

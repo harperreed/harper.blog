@@ -1,10 +1,25 @@
 ---
-date: 2001-10-25T08:32:47Z
+date: 2001-10-25 08:32:47+00:00
 excerpt: So. Today has been great so far. My girlfriend is visiting later, I have
   a BIG meeting and presentation for work in a couple hours. and to top it all off,
   while I was reading my favorite new source, I noticed this article which linked
   to my website. It is rather ex...
-tags: ["server","hacking","community","audreyhacking","audrey","girlfriend","source"]
+summary: today has been awesome! my girlfriend is coming over, i have a big meeting
+  soon, and i just saw that my website got linked in an article. super pumped about
+  helping build a community!
+tags:
+- website recognition
+- audreyhacking
+- girlfriend
+- community
+- hacking
+- work presentation
+- great day
+- community building
+- server
+- girlfriend visit
+- source
+- audrey
 title: Early in the morning
 wordpress_id: 120
 wordpress_url: http://new.nata2.org/?p=120

@@ -1,6 +1,16 @@
 ---
-date: 2006-09-18T20:09:59Z
-tags: ["general"]
+date: 2006-09-18 20:09:59+00:00
+summary: on a train ride from jefferson park, the author encounters loud meatheads
+  causing a scene. when one confronts a guy getting off the train for flipping him
+  off, the situation turns hilarious when the other dude reveals he's missing his
+  middle finger, leaving everyone on the train amused and annoyed at the meatheads.
+tags:
+- general
+- humor
+- train ride
+- annoying people
+- public transport
+- suburban stereotypes
 title: the most insane thing happened today on the train
 wordpress_id: 1347
 wordpress_url: http://www.nata2.org/2006/09/18/the-most-insane-thing-happened-today-on-the-train/

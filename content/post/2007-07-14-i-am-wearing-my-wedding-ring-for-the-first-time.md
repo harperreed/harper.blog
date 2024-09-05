@@ -1,6 +1,15 @@
 ---
-date: 2007-07-14T01:20:36Z
-tags: ["general","marriage","wedding"]
+date: 2007-07-14 01:20:36+00:00
+summary: "today i picked up our wedding rings, so we\u2019re officially married now!\
+  \ it\u2019s pretty cool, but this ring is a bit weird while typing. i\u2019ll get\
+  \ used to it, though. hehe."
+tags:
+- general
+- newlyweds
+- life changes
+- wedding
+- wedding rings
+- marriage
 title: I am wearing my wedding ring for the first time.
 wordpress_id: 1465
 wordpress_url: http://www.nata2.org/2007/07/14/i-am-wearing-my-wedding-ring-for-the-first-time/

@@ -1,6 +1,18 @@
 ---
-date: 2006-05-08T19:32:18Z
-tags: ["general","flickr","travel","jon","airports-books"]
+date: 2006-05-08 19:32:18+00:00
+summary: waiting for my delayed flight and discovered that airport book stores are
+  all about the same old authors. this weekend was fun though! check out my pics from
+  jon's graduation.
+tags:
+- flickr
+- travel
+- jon
+- graduation
+- airport
+- general
+- waiting
+- airports-books
+- books
 title: waiting to fly
 wordpress_id: 1260
 wordpress_url: http://www.nata2.org/2006/05/08/waiting-to-fly/

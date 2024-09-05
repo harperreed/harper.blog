@@ -1,6 +1,17 @@
 ---
-date: 2006-08-17T02:37:54Z
-tags: ["general","sick","neti-pot"]
+date: 2006-08-17 02:37:54+00:00
+summary: woke up super tired and felt like garbage after errands. missed a bbq because
+  of it. tried the neti pot again and it's getting better! hoping to be better before
+  visiting hiromi. my mom and cousin cole are visiting this weekend, so that's exciting!
+tags:
+- general
+- neti-pot
+- bbq plans
+- neti pot
+- sick day
+- errands
+- family visit
+- sick
 title: 'neti pots are rough. well not as rough.. but still a bit rough.. '
 wordpress_id: 1324
 wordpress_url: http://www.nata2.org/2006/08/17/neti-pots-are-rough-well-not-as-rough-but-still-a-bit-rough/

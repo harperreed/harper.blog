@@ -1,7 +1,15 @@
 ---
-date: 2004-09-13T22:08:31Z
+date: 2004-09-13 22:08:31+00:00
 excerpt: here is my newest google experiment.
-tags: ["watership","experiment","google"]
+summary: here is my newest google experiment.
+tags:
+- experiment
+- innovation
+- tech
+- google
+- google experiment
+- watership
+- experimentation
 title: i have an experiment
 wordpress_id: 934
 wordpress_url: http://new.nata2.org/?p=934

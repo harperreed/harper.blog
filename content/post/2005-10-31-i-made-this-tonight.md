@@ -1,6 +1,17 @@
 ---
-date: 2005-10-31T05:59:23Z
-tags: ["general","rails","ajax","whotheheck"]
+date: 2005-10-31 05:59:23+00:00
+summary: instead of going clubbing, i made a website with my friend jeffrey. check
+  out WhoTheHeck.com! had some issues at first with rails, but it sorted itself out.
+  gnight!
+tags:
+- ajax
+- web development
+- general
+- whotheheck
+- friends
+- rails
+- projects
+- coding
 title: I made this tonight
 wordpress_id: 1145
 wordpress_url: http://www.nata2.org/2005/10/31/i-made-this-tonight/

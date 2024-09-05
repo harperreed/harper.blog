@@ -1,6 +1,22 @@
 ---
-date: 2004-12-26T22:12:16Z
-tags: ["general","hacking","osx","apple","mac","picture","ibook","fram"]
+date: 2004-12-26 22:12:16+00:00
+summary: this post details the journey of turning a clamshell ibook into a digital
+  picture frame, discussing the choice of the ibook for its features and the process
+  of building it with a custom frame.
+tags:
+- general
+- osx
+- DIY project
+- open source
+- mac
+- ibook
+- fram
+- digital picture frame
+- tech tutorial
+- apple
+- hacking
+- picture
+- ibook hack
 title: iBook picture frame
 wordpress_id: 1181
 wordpress_url: http://www.nata2.org/2004/12/26/ibook-picture-frame/

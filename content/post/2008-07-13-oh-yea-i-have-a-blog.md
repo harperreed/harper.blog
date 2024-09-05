@@ -1,6 +1,18 @@
 ---
-date: 2008-07-13T22:32:51Z
-tags: ["general","twitter","life","blogging"]
+date: 2008-07-13 22:32:51+00:00
+summary: "so, i kinda forgot about my blog for a bit while hanging out with hiromi,\
+  \ using twitter, and working on projects. i noticed my twitter activity affects\
+  \ my blogging, and it's frustrating since my blog has more reach. i want to do both,\
+  \ so i\u2019m thinking about posting smaller but more frequent updates to keep everything\
+  \ balanced."
+tags:
+- twitter
+- content creation
+- general
+- blogging
+- personal update
+- life
+- social media
 title: oh yea. i have a blog
 wordpress_id: 1537
 wordpress_url: http://www.nata2.org/?p=1537

@@ -1,6 +1,14 @@
 ---
-date: 2006-07-16T16:11:48Z
-tags: ["general"]
+date: 2006-07-16 16:11:48+00:00
+summary: mark shares five easy ways everyone can chip in to help the planet. super
+  doable stuff for all of us (yeah, i'm looking at you dylan).
+tags:
+- eco-friendly
+- general
+- environment
+- simple tips
+- sustainability
+- green living
 title: Five Simple Things You Can Do to Help Save the World
 wordpress_id: 1306
 wordpress_url: http://www.nata2.org/2006/07/16/five-simple-things-you-can-do-to-help-save-the-world/

@@ -1,10 +1,28 @@
 ---
-date: 2002-04-23T15:29:32Z
-excerpt: |-
-  i love legos?, they rule. and I love morbid stuff. so when you combine the two, I laugh.
+date: 2002-04-23 15:29:32+00:00
+excerpt: 'i love legos?, they rule. and I love morbid stuff. so when you combine the
+  two, I laugh.
 
-  So for the longest time I saw this guy all over the net and I couldn't figure out wtf was going on. until I read this. i...
-tags: ["harper","reed","php","hacking","audreyhacking","audrey","matiss","philosophy","lego"]
+
+  So for the longest time I saw this guy all over the net and I couldn''t figure out
+  wtf was going on. until I read this. i...'
+summary: this post is all about my love for legos and morbid stuff, mixing it all
+  up with some quirky links about alex chiu, custom cars, and my awesome mug with
+  matiss. check it out!
+tags:
+- legos
+- matiss
+- reed
+- php
+- morbid humor
+- audreyhacking
+- alex chiu
+- custom merchandise
+- lego
+- hacking
+- audrey
+- philosophy
+- harper
 title: Today is a good day for random stuff.
 wordpress_id: 269
 wordpress_url: http://new.nata2.org/?p=269

@@ -1,6 +1,19 @@
 ---
-date: 2006-06-26T03:01:29Z
-tags: ["general","juggling","fun","weekend","tired","intonation","tommie-sunshine"]
+date: 2006-06-26 03:01:29+00:00
+summary: this weekend was wild with intonation festival and juggling in the pride
+  parade. saw some cool bands, but the juggling was killer. super tired now, but excited
+  for what's ahead! night night!
+tags:
+- intonation
+- juggling
+- intonation festival
+- weekend
+- music
+- tired
+- tommie-sunshine
+- general
+- fun
+- weekend recap
 title: holy damn tired. Juggling for Pride. intonation
 wordpress_id: 1298
 wordpress_url: http://www.nata2.org/2006/06/26/holy-damn-tired-juggling-for-pride-intonation/

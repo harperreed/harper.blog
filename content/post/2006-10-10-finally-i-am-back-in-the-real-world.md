@@ -1,6 +1,19 @@
 ---
-date: 2006-10-10T17:18:16Z
-tags: ["general","skinnycorp","work","update"]
+date: 2006-10-10 17:18:16+00:00
+summary: got my computer set up at work, and it feels good to be back online. things
+  are coming together, and i can't wait for the office to be finished - it's going
+  to be awesome! also planning an office warming party. gotta run home now, but i'm
+  looking to revamp harperreed.org to showcase my music, books, and movies.
+tags:
+- general
+- skinnycorp
+- work
+- office setup
+- harperreed.org
+- office warming
+- work life
+- internet presence
+- update
 title: Finally. I am back in the real world
 wordpress_id: 1363
 wordpress_url: http://www.nata2.org/2006/10/10/finally-i-am-back-in-the-real-world/

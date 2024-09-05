@@ -1,6 +1,21 @@
 ---
-date: 2006-09-14T18:04:13Z
-tags: ["general","flickr","linksys","wrt54g","muse","windows-live-writer","dd-wrt","wrt54gl"]
+date: 2006-09-14 18:04:13+00:00
+summary: this post covers my experience using windows live writer for blogging, my
+  excitement for an upcoming show, my obsession with muse, and struggles with setting
+  up WDS on routers.
+tags:
+- general
+- blogging
+- windows live writer
+- dd-wrt
+- flickr
+- wrt54gl
+- technology
+- music
+- wrt54g
+- muse
+- windows-live-writer
+- linksys
 title: 'windows live writer. shows. and what not. '
 wordpress_id: 1344
 wordpress_url: http://www.nata2.org/2006/09/14/windows-live-writer-shows-and-what-not/

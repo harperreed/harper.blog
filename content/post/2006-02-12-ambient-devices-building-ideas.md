@@ -1,6 +1,22 @@
 ---
-date: 2006-02-12T21:14:54Z
-tags: ["general","linux","diy","ambient","gumstix","qee","embedded"]
+date: 2006-02-12 21:14:54+00:00
+summary: "i've been exploring ambient display devices like the ambient orb and nabaztag.\
+  \ the nabaztag stands out because it's wifi-enabled and interactive, unlike the\
+  \ ambient orb. i\u2019m also planning to build my own version using a microprocessor\
+  \ and some leds. stay tuned for updates!"
+tags:
+- tech gadgets
+- nabaztag
+- embedded
+- ambient
+- diy
+- general
+- DIY projects
+- qee
+- gumstix
+- ambient orb
+- embedded linux
+- linux
 title: 'Ambient devices. building ideas. '
 wordpress_id: 1206
 wordpress_url: http://www.nata2.org/2006/02/12/ambient-devices-building-ideas/

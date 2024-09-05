@@ -1,6 +1,18 @@
 ---
-date: 2006-10-13T12:52:23Z
-tags: ["general","awesome","weird","greed","animation"]
+date: 2006-10-13 12:52:23+00:00
+summary: check out this weird and awesome short film that won an animation award at
+  the Rushes Soho Shorts Festival. created by Run Wrake, it features cool 2.5d animation
+  and a good story. if you love jewels, ink, and feathers, you'll dig it!
+tags:
+- animation
+- awesome
+- weird
+- festival award
+- Motion Graphics
+- general
+- greed
+- Run Wrake
+- short film
 title: This is an amazing animation
 wordpress_id: 1365
 wordpress_url: http://www.nata2.org/2006/10/13/this-is-an-amazing-animation/

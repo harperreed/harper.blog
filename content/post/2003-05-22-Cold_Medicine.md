@@ -1,11 +1,22 @@
 ---
-date: 2003-05-22T20:02:05Z
+date: 2003-05-22 20:02:05+00:00
 excerpt: 'Today I had another battle: me vs. pseudo-ephedrine and caffiene. I lost
   the battle, however I won the war. I finally got some nyquil so maybe I will actually
   sleep. I keep having waves of absolute exhaustion wash over me. woah. it is insane.
   But I am propping myself up against my cube with the sticks I collected at lunch
   and attempting to seem busy.speaking of busy - I seriously rocked...'
-tags: ["war","rock","insane"]
+summary: today was a wild ride with pseudo-ephedrine and caffeine, but i managed to
+  score some nyquil for sleep. totally crushed my meeting after a chaotic morning,
+  feeling like a modded cyborg. also grabbed some awesome dancehall cds from virgin!
+tags:
+- meetings
+- war
+- caffeine
+- dancehall
+- insane
+- pseudoephedrine
+- nyquil
+- rock
 title: Cold Medicine
 wordpress_id: 518
 wordpress_url: http://new.nata2.org/?p=518

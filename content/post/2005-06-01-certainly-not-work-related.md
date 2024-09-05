@@ -1,6 +1,16 @@
 ---
-date: 2005-06-01T18:13:05Z
-tags: ["general","humor","aim","work"]
+date: 2005-06-01 18:13:05+00:00
+summary: freakelephant talks about a chat with someone about linuxkilla's funny anti-social
+  behavior and his pants situation.
+tags:
+- general
+- humor
+- work
+- aim
+- conversations
+- rap
+- social
+- pants
 title: certainly not work related
 wordpress_id: 1073
 wordpress_url: http://www.nata2.org/2005/06/01/certainly-not-work-related/
@@ -17,4 +27,3 @@ wordpress_url: http://www.nata2.org/2005/06/01/certainly-not-work-related/
 <strong>freakelephant: </strong>don't use that language around me or i'll murder you
 </small>
 </blockquote>
-

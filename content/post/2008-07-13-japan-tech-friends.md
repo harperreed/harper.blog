@@ -1,6 +1,22 @@
 ---
-date: 2008-07-13T23:35:22Z
-tags: ["general","travel","japan","tokyo","friends","aa-camp","barcamp"]
+date: 2008-07-13 23:35:22+00:00
+summary: recently, i went to japan for family events and reached out to the tokyo
+  tech community. i met some cool people at an AA-Camp event hosted by cybozu labs,
+  where we shared our projects. later, i had a great time exploring with tsutomu kodama
+  from japan hopper. overall, it was an awesome trip filled with networking and fun.
+tags:
+- barcamp
+- CybozuLabs
+- tokyo
+- travel
+- japan
+- Networking
+- Travel
+- general
+- AA-Camp
+- aa-camp
+- friends
+- TokyoTech
 title: Japan Tech Friends
 wordpress_id: 1540
 wordpress_url: http://www.nata2.org/?p=1540

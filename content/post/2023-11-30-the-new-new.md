@@ -1,8 +1,18 @@
 ---
-title: "The new new AI tools"
 date: 2023-11-30
+description: Holy Smokes there is a lot of new AI tools out there. Here is what I
+  have been recently using
 draft: false
-description: "Holy Smokes there is a lot of new AI tools out there. Here is what I have been recently using"
+summary: the blog post reminisces about the excitement of new tools in the 2000s and
+  compares it to the current wave of AI productivity tools, featuring reviews of arc
+  browser, perplexity, chatgpt, and kagi, along with a list of daily-use tools.
+tags:
+- AI tools
+- productivity
+- tech review
+- browsers
+- search engines
+title: The new new AI tools
 ---
 
 Back in the 2000s, we were all excited about new rock and roll, electro, and the scene and music coming out of nyc. some friends put together a party called the new new. The party was a great time (well, until I got kicked out for acting a fool lol). Specifically meant to feature all the wild new vibes that were coming down the pike.

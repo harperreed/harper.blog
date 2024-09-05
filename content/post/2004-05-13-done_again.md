@@ -1,8 +1,16 @@
 ---
-date: 2004-05-13T10:01:37Z
+date: 2004-05-13 10:01:37+00:00
 excerpt: 'ftp: 24154010 bytes sent in 1217.77Seconds 19.83Kbytes/sec.a bit faster.
   this time it worked. check out the pictures here'
-tags: ["india"]
+summary: ftp completed with 24154010 bytes sent in 1217.77 seconds at 19.83Kbytes/sec.
+  things are looking up this time! check out the awesome pictures here.
+tags:
+- file transfer
+- pictures
+- speed test
+- india
+- ftp
+- India trip
 title: done again
 wordpress_id: 858
 wordpress_url: http://new.nata2.org/?p=858

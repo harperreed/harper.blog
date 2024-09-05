@@ -1,11 +1,27 @@
 ---
-date: 2005-03-17T22:28:32Z
+date: 2005-03-17 22:28:32+00:00
 excerpt: I wrote a new tool after work today. Check it out:I needed a way to view
   what keywords woudl display what ads with Google's incredible adsense tool. However
   - I didn't really like the adnse preview tool for IE. it was annoying for some reason.
   so I did some poking about and made this. the ads displayed are using the test flag
   with no client id specified. so no one is getting ...
-tags: ["general","technology","hacking","tools","google","development","csharp","code"]
+summary: check out my new tool that helps you see which keywords show what ads using
+  google's adsense. i wasn't a fan of the old preview tool, so i made my own. you
+  can download it here. also, i'm sleepy, so come to my party!
+tags:
+- csharp
+- general
+- development
+- google adsense
+- software
+- code
+- tools
+- technology
+- keyword tool
+- hacking
+- google
+- ad preview
+- downloads
 title: check out my new tool
 wordpress_id: 1009
 wordpress_url: http://new.nata2.org/?p=1009

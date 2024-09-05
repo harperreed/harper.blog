@@ -1,8 +1,17 @@
 ---
-date: 2005-02-11T20:22:33Z
-excerpt: "i was about ready to go home when I decided to finish up an old hack and
-  look what happened: \nawesomenessok\nsleep time. well at home. that is. peace ;)\n"
-tags: ["watership"]
+date: 2005-02-11 20:22:33+00:00
+excerpt: "i was about ready to go home when I decided to finish up an old hack and\
+  \ look what happened: \nawesomenessok\nsleep time. well at home. that is. peace\
+  \ ;)\n"
+summary: finished an old hack before heading home and ended up with something awesome.
+  time to sleep now. peace!
+tags:
+- hacks
+- tech
+- personal
+- projects
+- coding
+- watership
 title: in after work boredom
 wordpress_id: 992
 wordpress_url: http://new.nata2.org/?p=992

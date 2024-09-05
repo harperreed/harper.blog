@@ -1,6 +1,17 @@
 ---
-date: 2007-11-22T18:07:35Z
-tags: ["general","chicago","holidays","thanksgiving"]
+date: 2007-11-22 18:07:35+00:00
+summary: happy thanksgiving! had a chill day and heading to a party at jill's. had
+  tons of invites but picked the first one - hoping for great food since the hosts
+  are chefs. miss the family but will see them soon!
+tags:
+- general
+- food
+- thanksgiving
+- chicago
+- friends
+- holidays
+- party
+- family
 title: Happy thanksgiving
 wordpress_id: 1492
 wordpress_url: http://www.nata2.org/2007/11/22/happy-thanksgiving/

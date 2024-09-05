@@ -1,10 +1,19 @@
 ---
-date: 2003-09-10T21:20:37Z
+date: 2003-09-10 21:20:37+00:00
 excerpt: so today I had to move cubicals. I HATE moving. seriously. it just pisses
   me off. really. all I want to do is run around. play computer and what not. not
   move. but now I am all moved. listening to kmfdm.. chillin out. generally speaking
   I am doing well.. yesterday I ate one whole pound of baby carrots. that was a bad
   decision. haha. tonight. I am going to go home and clean my ...
+summary: moved cubicles today, ugh, hate it. now just chillin listening to kmfdm.
+  yesterday I ate a whole pound of baby carrots, which was a bad idea, lol. tonight
+  gonna clean my room and help a friend with her website.
+tags:
+- office life
+- moving
+- music
+- carrots
+- cleaning
 title: goddamnit. hehe
 wordpress_id: 616
 wordpress_url: http://new.nata2.org/?p=616

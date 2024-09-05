@@ -1,6 +1,20 @@
 ---
-date: 2005-06-09T12:25:47Z
-tags: ["general","chicago","metal","iron","maiden","lake","rocker"]
+date: 2005-06-09 12:25:47+00:00
+summary: stumbled upon this awesome deli with a killer iron maiden sign on my way
+  to work. the dude working there is super metal, and as a fellow metal head, i totally
+  appreciated it. where's my jackson guitar, though? ;) w00t!
+tags:
+- iron
+- chicago
+- rocker
+- local spots
+- iron maiden
+- general
+- metal
+- deli
+- sandwiches
+- lake
+- maiden
 title: Metal Deli
 wordpress_id: 1080
 wordpress_url: http://www.nata2.org/2005/06/09/metal-deli/

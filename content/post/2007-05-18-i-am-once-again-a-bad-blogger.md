@@ -1,6 +1,18 @@
 ---
-date: 2007-05-18T12:18:58Z
-tags: ["general","stuff","blogging","slacker"]
+date: 2007-05-18 12:18:58+00:00
+summary: 'been super busy and slacking on updates, but i''ve got a lot to share from
+  the past month: cool people, python attempts, OLPC hacking, a tech talk at google,
+  hosting a CHIPY meeting, and the mysql conf in santa clara. gonna start blogging
+  about it in reverse order now!'
+tags:
+- general
+- stuff
+- blogging
+- python
+- slacker
+- tech
+- mysql
+- hacking
 title: I am once again a bad blogger.
 wordpress_id: 1442
 wordpress_url: http://www.nata2.org/2007/05/18/i-am-once-again-a-bad-blogger/

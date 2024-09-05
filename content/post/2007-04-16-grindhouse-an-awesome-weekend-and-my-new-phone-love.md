@@ -1,6 +1,24 @@
 ---
-date: 2007-04-16T19:42:03Z
-tags: ["general","concerts","phones","annoying","home","fox-news","vonnegut","nokia-e61i","e61i","nokia","blonde-redhead","grindhouse"]
+date: 2007-04-16 19:42:03+00:00
+summary: had a fun weekend with hiromi, saw grindhouse (planet terror? not a fan,
+  but death proof was epic), and checked out blonde redhead at the metro despite some
+  annoying fellow concert-goers. also, super excited about the new nokia e61i. fox
+  news? total fail on the vonnegut coverage.
+tags:
+- vonnegut
+- nokia
+- general
+- nokia-e61i
+- blonde-redhead
+- blonde redhead
+- fox news
+- e61i
+- home
+- concerts
+- annoying
+- fox-news
+- grindhouse
+- phones
 title: Grindhouse. An awesome weekend and my new phone love!
 wordpress_id: 1435
 wordpress_url: http://www.nata2.org/2007/04/16/grindhouse-an-awesome-weekend-and-my-new-phone-love/

@@ -1,11 +1,23 @@
 ---
-date: 2003-05-20T21:26:29Z
+date: 2003-05-20 21:26:29+00:00
 excerpt: after my brief bout with insanity due to over the counter drug use.. I decided
   to grow up. I know have a lawyer and I am reading information about purchasing a
   place to live. woah. that is insane. all of my coworkers are doing this too. I think
   it is madness. I mean. I recently bulked at the paltry sum of $4500 for some servers..
   let alone $200K for a condo in chitown. wtf. who invented this craz...
-tags: ["server","insane","ipod","drugs"]
+summary: "after a wild time with over the counter drugs, i'm getting serious about\
+  \ life\u2014lawyer, real estate, the whole deal. it\u2019s crazy expensive though!\
+  \ also, thinking of selling my ipod soon. money just feels dumb right now."
+tags:
+- server
+- ipod
+- personal growth
+- real estate
+- iPod sale
+- insane
+- over the counter drugs
+- drugs
+- money woes
 title: so today i am a grown up...
 wordpress_id: 517
 wordpress_url: http://new.nata2.org/?p=517

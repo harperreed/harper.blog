@@ -1,6 +1,18 @@
 ---
-date: 2007-08-31T15:48:43Z
-tags: ["general","skymall","awesome","herman-miller","mirra","chairs","purchases"]
+date: 2007-08-31 15:48:43+00:00
+summary: "i\u2019ve been dealing with bad posture from sitting on my couch and ghetto\
+  \ ikea chair while working. finally decided to get a new chair, ordered the mirra,\
+  \ and it just arrived! super comfy so far, now just need to tweak it and get a mini\
+  \ desk to hang out with hiromi more comfortably."
+tags:
+- chairs
+- general
+- herman-miller
+- awesome
+- purchases
+- Herman Miller
+- mirra
+- skymall
 title: 'I got a new chair: Herman Miller Mirra'
 wordpress_id: 1473
 wordpress_url: http://www.nata2.org/2007/08/31/i-got-a-new-chair-herman-miller-mirra/

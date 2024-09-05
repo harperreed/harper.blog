@@ -1,6 +1,22 @@
 ---
-date: 2006-10-10T00:22:50Z
-tags: ["general","video","apple","phones","sad","mythtv","torrentocracy"]
+date: 2006-10-10 00:22:50+00:00
+summary: check out this french commercial i found. also, i've been binge-watching
+  the lord of the rings trilogy and considering diving into the count of monte cristo,
+  even though it looks huge. thinking about building a mythTV setup too, but not trying
+  to break the bank. also, my phone might be dead, which is a bummer.
+tags:
+- Count of Monte Cristo
+- French commercials
+- video
+- apple
+- torrentocracy
+- general
+- Lord of the Rings
+- MythTV
+- technology
+- sad
+- mythtv
+- phones
 title: A nice sad video
 wordpress_id: 1362
 wordpress_url: http://www.nata2.org/2006/10/10/a-nice-sad-video/

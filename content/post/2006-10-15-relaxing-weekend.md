@@ -1,6 +1,15 @@
 ---
-date: 2006-10-15T17:46:40Z
-tags: ["general"]
+date: 2006-10-15 17:46:40+00:00
+summary: "this weekend was chill. didn\u2019t do much but hung out with mark and matiss,\
+  \ juggled, and watched some circus performances. plus, i made grilled cheese and\
+  \ played with some online tools. all in all, a solid lazy weekend."
+tags:
+- general
+- blogging
+- grilled cheese
+- juggling
+- weekend
+- circus
 title: Relaxing weekend
 wordpress_id: 1368
 wordpress_url: http://www.nata2.org/2006/10/15/relaxing-weekend/

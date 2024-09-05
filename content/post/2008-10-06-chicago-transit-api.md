@@ -1,6 +1,21 @@
 ---
-date: 2008-10-06T01:20:02Z
-tags: ["general","chicago","hacking","bus","api","transit"]
+date: 2008-10-06 01:20:02+00:00
+summary: "check out my new api for chicago transit that exposes interesting real-time\
+  \ bus data. it\u2019s got a bunch of cool endpoints like getting route points and\
+  \ bus predictions, plus i\u2019m working on improving it and making it more user-friendly.\
+  \ if you have suggestions or projects using this, hit me up!"
+tags:
+- bus
+- Real-Time Data
+- CTA
+- transit
+- chicago
+- hacking
+- Chicago Transit
+- general
+- api
+- API Development
+- Bus Tracker
 title: Chicago Transit API
 wordpress_id: 1569
 wordpress_url: http://www.nata2.org/?p=1569

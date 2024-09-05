@@ -1,6 +1,20 @@
 ---
-date: 2005-07-31T00:00:37Z
-tags: ["general","travel","work","yoyo"]
+date: 2005-07-31 00:00:37+00:00
+summary: "chillin' in nyc at tommie's place, jamming to some remixes. had a blast\
+  \ at the yoyo contest, maybe making my debut in a 'porn' flick while messing with\
+  \ some friends\u2014oops! heading back to work with seth this week, can't wait to\
+  \ see the gang and show off my new laptop. next week, it's family time with my mom\
+  \ and cousin. sweet!"
+tags:
+- general
+- yoyo
+- work
+- fun times
+- nyc
+- party antics
+- travel
+- scandalous
+- yoyo contest
 title: 'nyc. gay porn again. '
 wordpress_id: 1101
 wordpress_url: http://www.nata2.org/2005/07/31/nyc-gay-porn-again/

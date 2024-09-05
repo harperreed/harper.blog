@@ -1,11 +1,27 @@
 ---
-date: 2004-01-07T21:57:12Z
-excerpt: "I saw a post in friendster about sad songs - or songs that make you cry
-  and I thought about making a mood song db. but instead I just reposted the sad song
-  list on ironkungfu. check it out here. please add some of your own. \ni am going
-  to add a del.icio.us plugin to my site soon. it should rule. then you all can see
-  what..."
-tags: ["books","php","phone","cell","hacking","experiment","kungfu","friendster"]
+date: 2004-01-07 21:57:12+00:00
+excerpt: "I saw a post in friendster about sad songs - or songs that make you cry\
+  \ and I thought about making a mood song db. but instead I just reposted the sad\
+  \ song list on ironkungfu. check it out here. please add some of your own. \ni am\
+  \ going to add a del.icio.us plugin to my site soon. it should rule. then you all\
+  \ can see what..."
+summary: saw a post about sad songs and decided to share a list on ironkungfu. check
+  it out and add your own! also, got a del.icio.us plugin coming soon to show what
+  i'm looking at. found a wild site about drawings from an acid trip that made me
+  smile. and got a funny email about the a600 that i replied to.
+tags:
+- friendster
+- phone
+- experiment
+- emails
+- art
+- sad songs
+- cell
+- php
+- music
+- kungfu
+- hacking
+- books
 title: today is awesome
 wordpress_id: 719
 wordpress_url: http://new.nata2.org/?p=719

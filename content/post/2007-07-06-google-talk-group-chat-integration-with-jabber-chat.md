@@ -1,6 +1,21 @@
 ---
-date: 2007-07-06T06:23:53Z
-tags: ["technology","technology","jabber","google","awesome","tricks","multi-user-chat","google-talk","gtalk","talk"]
+date: 2007-07-06 06:23:53+00:00
+summary: this post dives into the love for jabber and google talk, highlighting the
+  new group chat feature of the google talk gadget. it discusses the limitations imposed
+  on non-google accounts, an experiment with pidgin and jabber group chats, and expresses
+  a hope for a more open google talk experience.
+tags:
+- awesome
+- technology
+- multi-user chat
+- gtalk
+- talk
+- google-talk
+- group chat
+- google
+- multi-user-chat
+- tricks
+- jabber
 title: Google Talk group chat integration with Jabber Chat
 wordpress_id: 1463
 wordpress_url: http://www.nata2.org/2007/07/06/google-talk-group-chat-integration-with-jabber-chat/

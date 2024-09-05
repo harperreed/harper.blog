@@ -1,9 +1,18 @@
 ---
-date: 2003-08-19T06:28:19Z
-excerpt: |-
-  seriously.. awesome.. you should check it out.
-  herei am currently listening to kind diamond and lali puna on shuffle.balthus spooks  me out.i need to get SOOOO much work done. it sucks. but I am trucki...
-tags: ["music"]
+date: 2003-08-19 06:28:19+00:00
+excerpt: 'seriously.. awesome.. you should check it out.
+
+  herei am currently listening to kind diamond and lali puna on shuffle.balthus spooks  me
+  out.i need to get SOOOO much work done. it sucks. but I am trucki...'
+summary: check out this awesome track and listen to kind diamond and lali puna on
+  shuffle. balthus is kinda spooky, and even though work is piling up, i'm pushing
+  through the ups and downs.
+tags:
+- work
+- kind diamond
+- music
+- shuffle
+- balthus
 title: king diamond rules.
 wordpress_id: 601
 wordpress_url: http://new.nata2.org/?p=601

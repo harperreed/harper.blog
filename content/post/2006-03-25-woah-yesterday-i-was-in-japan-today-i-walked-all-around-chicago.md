@@ -1,6 +1,17 @@
 ---
-date: 2006-03-25T20:02:11Z
-tags: ["general","hiromi","travel","tokyo"]
+date: 2006-03-25 20:02:11+00:00
+summary: got back this morning after a sleepless night and went on a walking journey
+  to snag some project pieces from radio shack and home depot. now i'm tired, but
+  later i'll share my tokyo trip with hiromi. for now, it's time for some sleep...
+tags:
+- general
+- tokyo
+- home improvement
+- hiromi
+- adventure
+- walking
+- travel
+- Tokyo
 title: woah.. yesterday i was in japan. today i walked all around chicago.
 wordpress_id: 1233
 wordpress_url: http://www.nata2.org/2006/03/25/woah-yesterday-i-was-in-japan-today-i-walked-all-around-chicago/

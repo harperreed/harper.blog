@@ -1,11 +1,26 @@
 ---
-date: 2002-06-03T21:54:39Z
+date: 2002-06-03 21:54:39+00:00
 excerpt: So I have been reading a lot of african literature. it is so nice. I really
   needed somethign that would make me smile again. all my books had gotten stale.
   so it was a nice change.. This weekend was strangely lonely. I just sat around.
   even when I was out.. it wasn't exactly thrilling. I did get my project done. which
   was cool.. and received good word from its recepients. but.. for som...
-tags: ["books","phone","war","birthday","dad","phones"]
+summary: "so i've been diving into african literature and it's been a refreshing change\
+  \ from my usual reads. this past weekend felt oddly lonely, even though i finished\
+  \ a project and got some good feedback. i also broke my headphones, but at least\
+  \ i can fix them! oh, and it's my dad's birthday today\u2014happy birthday to him!"
+tags:
+- war
+- loneliness
+- dad
+- phone
+- birthday
+- current events
+- soldering
+- birthday wishes
+- african literature
+- books
+- phones
 title: whatever... i do what i want..
 wordpress_id: 289
 wordpress_url: http://new.nata2.org/?p=289

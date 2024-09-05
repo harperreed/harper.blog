@@ -1,11 +1,29 @@
 ---
-date: 2002-07-14T17:34:18Z
+date: 2002-07-14 17:34:18+00:00
 excerpt: heh. hah. hoh. Yea. so this weekend was great. it really was. Quite something.
   On friday, I got up a little late. Not too late. but late enough to feel like a
   rebel.. and I went to work. I was able to wear jeans.. cuz friday is casual.. hah.
   so I worked.. and then I got home... and went to a couple art openings..  The one
   that was memorable was A ...
-tags: ["war","birthday","metal","humor","games","irc","cars","hiromi"]
+summary: this weekend was a blast! friday started with a late wake-up, work in jeans,
+  and some art openings. hit up lula for some late-night grub with a side of camus.
+  saturday was all about cleaning and western vibes, buying a cool cowboy outfit,
+  and partying with friends, playing fun games. overall, a great mix of art, laughs,
+  and hanging out!
+tags:
+- humor
+- birthday
+- cars
+- weekend recap
+- war
+- metal
+- hiromi
+- games
+- irc
+- cooperative games
+- art openings
+- slot cars
+- casual fun
 title: this weekend.. -- -- -- -- this entry is out of control.
 wordpress_id: 319
 wordpress_url: http://new.nata2.org/?p=319

@@ -1,6 +1,20 @@
 ---
-date: 2009-03-08T15:54:09Z
-tags: ["general","iphone","kindle","ebooks"]
+date: 2009-03-08 15:54:09+00:00
+summary: the kindle is awesome for reading. after getting my original kindle, i transitioned
+  to the kindle 2, which has a ton of improvements and made reading a breeze. i discovered
+  a whole world of ebooks, from free classics to technical manuals, and managed to
+  sync reading across devices, although the kindle app lacks some features. overall,
+  if you read a lot, you should definitely get a kindle.
+tags:
+- general
+- eBooks
+- Kindle 1
+- Kindle 2
+- ebooks
+- kindle
+- Kindle
+- reading
+- iphone
 title: 'My thoughts on the kindle: 1 vs 2 and the iphone app'
 wordpress_id: 1608
 wordpress_url: http://www.nata2.org/?p=1608

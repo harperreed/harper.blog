@@ -1,9 +1,27 @@
 ---
-date: 2003-06-28T17:51:09Z
+date: 2003-06-28 17:51:09+00:00
 excerpt: 'after work I went to the apple store opening. it was interesting. nothing
   like sitting outside in a line for 2 hours with a bunch of people who are waiting
   to get into a computer store. I took three rather poor pictures: 1-'
-tags: ["phone","chicago","insane","fashion","music","corporate","girls","apple","sushi"]
+summary: after work, hit up the apple store opening and waited in line for 2 hours.
+  took some not-so-great pics and scored a large mac shirt that I gave away. then
+  went to the MCA for a Thomas Struth opening which had a wild dance party where no
+  one could hear the music. wrapped up the night with some surprisingly good sushi
+  and a party at vision. tonight's play should be fun!
+tags:
+- phone
+- dance party
+- corporate
+- fashion
+- MCA Chicago
+- chicago
+- sushi
+- insane
+- music
+- apple
+- Thomas Struth
+- girls
+- apple store opening
 title: last night..
 wordpress_id: 556
 wordpress_url: http://new.nata2.org/?p=556

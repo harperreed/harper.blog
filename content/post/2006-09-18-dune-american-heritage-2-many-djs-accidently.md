@@ -1,6 +1,16 @@
 ---
-date: 2006-09-18T01:18:47Z
-tags: ["general"]
+date: 2006-09-18 01:18:47+00:00
+summary: started watching the bbs documentary and it's amazing. tried watching clive
+  barker's lord of illusions but it always sucked. after that, i read dune and it
+  was amazing too. then went out to an american heritage show and ended up at a soulwax
+  party. what a night!
+tags:
+- general
+- Dune
+- Clive Barker
+- BBS
+- American Heritage
+- Documentary
 title: DUNE. american heritage. 2 many djs. accidently
 wordpress_id: 1345
 wordpress_url: http://www.nata2.org/2006/09/18/dune-american-heritage-2-many-djs-accidently/

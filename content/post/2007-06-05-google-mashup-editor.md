@@ -1,6 +1,18 @@
 ---
-date: 2007-06-05T13:39:32Z
-tags: ["technology","technology","yahoo-pipes","google","yahoo","mashups","google-mashup-editor"]
+date: 2007-06-05 13:39:32+00:00
+summary: today i got access to the google mashup editor and it's super nifty! the
+  samples are amazing and i can't wait to experiment with it. combining this with
+  yahoo pipes could lead to some cool stuff, like a language translating feed reader
+  or a mashup with yahoo local and google base. so much potential!
+tags:
+- yahoo
+- yahoo pipes
+- mashups
+- google-mashup-editor
+- google
+- technology
+- yahoo-pipes
+- google mashup editor
 title: Google Mashup Editor
 wordpress_id: 1452
 wordpress_url: http://www.nata2.org/2007/06/05/google-mashup-editor/

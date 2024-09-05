@@ -1,11 +1,30 @@
 ---
-date: 2003-06-23T05:02:12Z
+date: 2003-06-23 05:02:12+00:00
 excerpt: Last night I came home early and worked a bit. I was so tired though. I didn't
   get much done. today however is a different story.. after getting off rather slowly
   I finally got on track and worked a bunch. I got a lot of the first part of my project
   done. it is still far from being completed - but.. it is right on track.. eek..
   still it is a big project. my headphones have been a total...
-tags: ["phone","food","laptop","music","aim","matiss","girls","ipod","philosophy","phones"]
+summary: last night was a struggle to get work done, but today was productive! got
+  a bunch of my project moving forward. my headphones have been a lifesaver, letting
+  me zone into music and ignore distractions. discovered new details in old cds! thinking
+  about spaghetti for dinner while my laptop battery fades. and just musing about
+  life and girls, heh.
+tags:
+- phone
+- aim
+- food
+- laptop
+- work
+- ipod
+- matiss
+- headphones
+- music
+- random thoughts
+- projects
+- philosophy
+- girls
+- phones
 title: work work work
 wordpress_id: 548
 wordpress_url: http://new.nata2.org/?p=548

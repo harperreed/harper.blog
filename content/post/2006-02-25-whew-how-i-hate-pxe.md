@@ -1,6 +1,24 @@
 ---
-date: 2006-02-25T23:23:36Z
-tags: ["general","technology","unix","freebsd","soekris","stompbox","pxe","booting","linksys","wrt54g","monowall"]
+date: 2006-02-25 23:23:36+00:00
+summary: "attempted to boot my soekris 4521 via PXE for freebsd and it's been a total\
+  \ struggle. gave monowall a shot, which was super cool to configure, but no shell\
+  \ made it tough. still thinking about swapping my linksys with a soekris \u2013\
+  \ looks promising!"
+tags:
+- monowall
+- general
+- stompbox
+- technology
+- pxe
+- freebsd
+- soekris4521
+- techfrustration
+- wrt54g
+- unix
+- linksys
+- soekris
+- unixes
+- booting
 title: 'Whew. How i hate PXE. '
 wordpress_id: 1220
 wordpress_url: http://www.nata2.org/2006/02/25/whew-how-i-hate-pxe/

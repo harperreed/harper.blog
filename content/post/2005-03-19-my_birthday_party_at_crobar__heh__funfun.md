@@ -1,11 +1,26 @@
 ---
-date: 2005-03-19T20:27:28Z
-excerpt: "I am sitting here listening to the misfits. oh how I love the misfits. heh.
-  I could listen to last caress every day. heh ;)\nso anyway. \nlast night after work
-  - hiroimi and I went to the body worlds\nexhibit. it was hand down the craziest
-  thing I have EVER seen. EVER.\ntotally insane. real people. dead. and made into
-  plastic. totally\ncrazy. I don't relaly know what to think...."
-tags: ["general","juggle","crobar","insane","birthday","juggling","party"]
+date: 2005-03-19 20:27:28+00:00
+excerpt: "I am sitting here listening to the misfits. oh how I love the misfits. heh.\
+  \ I could listen to last caress every day. heh ;)\nso anyway. \nlast night after\
+  \ work - hiroimi and I went to the body worlds\nexhibit. it was hand down the craziest\
+  \ thing I have EVER seen. EVER.\ntotally insane. real people. dead. and made into\
+  \ plastic. totally\ncrazy. I don't relaly know what to think...."
+summary: chillin' with the misfits and hit up the body worlds exhibit, totally mind-blowing!
+  then went home, threw on my cowboy costume, and partied it up for my birthday at
+  crobar with friends and cake. good vibes! tonight's a b-list celeb party; might
+  juggle some gigs. ;)
+tags:
+- juggling
+- insane
+- cowboy costume
+- party
+- birthday party
+- general
+- birthday
+- juggle
+- body worlds
+- crobar
+- misfits
 title: my birthday party at crobar. heh. funfun
 wordpress_id: 1010
 wordpress_url: http://new.nata2.org/?p=1010

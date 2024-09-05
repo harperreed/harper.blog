@@ -1,11 +1,29 @@
 ---
-date: 2004-09-13T16:42:01Z
+date: 2004-09-13 16:42:01+00:00
 excerpt: i really want to go dancing - big band style. all of a sudden. or just watch
   triplets of belleville. something. just not be up or at work. I am tired of wearing
   "business casual" clothing. I really want to just wear jeans. or whatever. just
   something that isn't "business casual." I suppose I will get over it. ;) I go through
   these...
-tags: ["phone","video","rock","college","action","metal","business","hong","kong","nokia"]
+summary: just feeling fed up with business casual and wanting to dance instead. spent
+  the weekend chilling, attended a birthday party, and had an epic lobster bbq. also
+  managed to play a ton of video games. good times!
+tags:
+- nokia
+- phone
+- kong
+- weekend fun
+- metal
+- lobster bbq
+- gaming
+- business
+- video
+- action
+- hong
+- college
+- dancing
+- rock
+- business casual
 title: trout. i mean lobster.
 wordpress_id: 932
 wordpress_url: http://new.nata2.org/?p=932

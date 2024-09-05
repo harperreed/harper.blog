@@ -1,6 +1,20 @@
 ---
-date: 2005-03-22T16:06:49Z
-tags: ["general","hong","kong","usps","mail","hivizone","angry"]
+date: 2005-03-22 16:06:49+00:00
+summary: The author vents about their ongoing struggles with USPS while ordering from
+  hivizone, sharing frustrations over missed delivery attempts and careless handling
+  of packages.
+tags:
+- Asian cinema
+- kong
+- USPS
+- hong
+- angry
+- general
+- usps
+- package delivery
+- mail
+- hivizone
+- frustration
 title: i HATE the usps. seirously i HATE them
 wordpress_id: 1025
 wordpress_url: http://www.nata2.org/2005/03/22/i-hate-the-usps-seirously-i-hate-them-2/
@@ -14,4 +28,4 @@ WTF. omg. it seriously makes me so mad. this is not a point at which my patience
 
 EEk. haha. i will now relax. and work. 
 
-Ecto is also killing me. it doesn't really work. 
+Ecto is also killing me. it doesn't really work.

@@ -1,6 +1,14 @@
 ---
-date: 2005-05-19T01:05:33Z
-tags: ["general"]
+date: 2005-05-19 01:05:33+00:00
+summary: getting back into blogging after a break, exploring data's role in mobile
+  gaming, and sharing thoughts on the future of text messaging. stay tuned!
+tags:
+- mobile gaming
+- trends
+- general
+- blogging
+- data analysis
+- text messaging
 title: 3gcoding part 2
 wordpress_id: 1161
 wordpress_url: http://www.nata2.org/2005/05/19/3gcoding-part-2/

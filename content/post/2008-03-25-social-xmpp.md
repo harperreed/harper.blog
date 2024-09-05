@@ -1,6 +1,22 @@
 ---
-date: 2008-03-25T22:26:16Z
-tags: ["technology","jabber","awesome","lists","communities","xmpp","social-software"]
+date: 2008-03-25 22:26:16+00:00
+summary: met up with brian dorsey during pycon, had a rad dinner and talked a ton
+  about xMPP. ended up meeting anders conbere, and we totally vibed on ideas around
+  xMPP and social software. then we got linked up with peter saint-andre and launched
+  a mailing list for all things social xMPP. super excited to dive into it!
+tags:
+- awesome
+- XMPP
+- networking
+- mailing list
+- PYCON
+- xmpp
+- technology
+- lists
+- social software
+- social-software
+- jabber
+- communities
 title: Social XMPP
 wordpress_id: 1514
 wordpress_url: http://www.nata2.org/2008/03/25/social-xmpp/

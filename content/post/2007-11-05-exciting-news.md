@@ -1,6 +1,20 @@
 ---
-date: 2007-11-05T16:35:32Z
-tags: ["general","threadless","skinnycorp","jobs","employment"]
+date: 2007-11-05 16:35:32+00:00
+summary: "after 2.4 years at skinnyCorp, i\u2019m pumped to be named CTO! we\u2019\
+  ve grown so much, and i\u2019m excited to lead our tech presence publicly. stay\
+  \ tuned for some awesome stuff coming up, and we\u2019re on the lookout for a mysql\
+  \ rockstar. hit me up if you know someone!"
+tags:
+- skinnycorp
+- technology evolution
+- employment
+- jobs
+- job opening
+- CTO announcement
+- general
+- skinnyCorp
+- Threadless growth
+- threadless
 title: Exciting News!
 wordpress_id: 1490
 wordpress_url: http://www.nata2.org/2007/11/05/exciting-news/

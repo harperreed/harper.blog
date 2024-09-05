@@ -1,6 +1,15 @@
 ---
-date: 2006-11-12T17:59:17Z
-tags: ["general"]
+date: 2006-11-12 17:59:17+00:00
+summary: had a fun day learning symfony and hanging out with friends. after some drinks
+  at debonair, we crashed someone's bottle service at soundbar. later, we found out
+  tags car was wrecked by an suv, but thankfully, no one got hurt. just a wild night!
+tags:
+- general
+- car accident
+- vodka
+- debonaire
+- friends
+- symphony
 title: 'Last night was insane: tags car is broken, hung out with cool peeps'
 wordpress_id: 1382
 wordpress_url: http://www.nata2.org/2006/11/12/last-night-was-insane-tags-car-is-broken-hung-out-with-cool-peeps/

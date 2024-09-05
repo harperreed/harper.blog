@@ -1,7 +1,13 @@
 ---
-date: 2003-07-27T17:45:59Z
+date: 2003-07-27 17:45:59+00:00
 excerpt: I love this.
-tags: ["video","apple"]
+summary: check out this awesome video that i love!
+tags:
+- streaming
+- video
+- apple
+- entertainment
+- favorites
 title: i love power tools
 wordpress_id: 578
 wordpress_url: http://new.nata2.org/?p=578

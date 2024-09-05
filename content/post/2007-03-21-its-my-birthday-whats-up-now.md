@@ -1,6 +1,15 @@
 ---
-date: 2007-03-21T00:19:02Z
-tags: ["general","harper","birthday","awesome","aging"]
+date: 2007-03-21 00:19:02+00:00
+summary: i'm 29 now! birthdays are getting less exciting, but hey, let's celebrate!
+tags:
+- general
+- birthday
+- awesome
+- celebration
+- 29th birthday
+- milestones
+- harper
+- aging
 title: Its my birthday! What's up now!!!
 wordpress_id: 1421
 wordpress_url: http://www.nata2.org/2007/03/21/its-my-birthday-whats-up-now/

@@ -1,6 +1,19 @@
 ---
-date: 2005-06-10T00:35:50Z
-tags: ["general","hacking","juicebox","haxoring","make"]
+date: 2005-06-10 00:35:50+00:00
+summary: "got a juicebox frame after searching high and low, decided to tear it apart\
+  \ the moment it arrived. it runs uClinux and has a 2.75 inch screen, perfect for\
+  \ some hacking. i tossed pics on the SD card, and now i\u2019m dreaming of modifying\
+  \ it and maybe turning it into a mini linux box. check out the pics!"
+tags:
+- make
+- hacking
+- uClinux
+- general
+- technology
+- Juicebox
+- haxoring
+- juicebox
+- DIY
 title: Juicebox haxoring
 wordpress_id: 1187
 wordpress_url: http://www.nata2.org/2005/06/10/juicebox-haxoring-3/

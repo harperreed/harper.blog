@@ -1,6 +1,25 @@
 ---
-date: 2008-03-02T02:54:36Z
-tags: ["technology","olpc","jabber","chat","xmpp","olpc-chicago","jabberolpchacksorg","jabber-server","ejabberd"]
+date: 2008-03-02 02:54:36+00:00
+summary: today i set up an ejabberd server for the olpc chicago group, making it easy
+  for us xo hackers to connect. just follow a few simple steps to get on the mesh
+  and see everyone in the community view. the setup was pretty straightforward, but
+  i had a bit of a hiccup with ipv6. overall, jabber's integration in the xo is super
+  cool and it makes me wonder about the future of interactive features.
+tags:
+- Ejabberd
+- XOs
+- ejabberd
+- jabber-server
+- chat
+- OLPC
+- xmpp
+- olpc
+- technology
+- olpc-chicago
+- jabberolpchacksorg
+- Chat
+- jabber
+- Jabber
 title: OLPC Chicago Jabber Server
 wordpress_id: 1511
 wordpress_url: http://www.nata2.org/2008/03/02/olpc-chicago-jabber-server/

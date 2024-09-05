@@ -1,6 +1,17 @@
 ---
-date: 2005-06-24T15:19:01Z
-tags: ["general","travel","airports","injuries"]
+date: 2005-06-24 15:19:01+00:00
+summary: this post recounts a chaotic travel experience that began with a ticketing
+  mistake and spiraled into a series of frantic airport adventures, including a missed
+  laptop, a hard fall, and a bloody knee, all leading to a final flight to chicago.
+tags:
+- general
+- travel mishaps
+- injuries
+- airports
+- travel
+- NYC trip
+- flying frustrations
+- funny stories
 title: yea. i am going to punch airports in the nuts
 wordpress_id: 1087
 wordpress_url: http://www.nata2.org/2005/06/24/yea-i-am-going-to-punch-airports-in-the-nuts/
@@ -28,4 +39,4 @@ So i got on the plane, slept, woke up, got on another plane and finally made it 
 
 yea. all because i am incompetent at booking tickets. 
 
-NO MORE. 
+NO MORE.

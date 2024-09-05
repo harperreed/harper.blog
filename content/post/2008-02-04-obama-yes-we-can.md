@@ -1,6 +1,23 @@
 ---
-date: 2008-02-04T13:39:57Z
-tags: ["general","video","politics","obama","president","elections","yes-we-can"]
+date: 2008-02-04 13:39:57+00:00
+summary: "this weekend, i volunteered for the obama campaign and it was super inspiring!\
+  \ spent hours validating tons of volunteer info with a great crew. got a special\
+  \ treat when we watched the will.i.am 'yes we can' video \u2013 totally moved the\
+  \ whole room. seeing everyone so dedicated made me want to do even more. let's get\
+  \ out there and vote!"
+tags:
+- obama
+- president
+- Obama Campaign
+- volunteering
+- video
+- community
+- activism
+- general
+- elections
+- politics
+- yes-we-can
+- Yes We Can
 title: 'Obama: yes we can'
 wordpress_id: 1506
 wordpress_url: http://www.nata2.org/2008/02/04/obama-yes-we-can/

@@ -1,6 +1,21 @@
 ---
-date: 2006-10-16T21:19:03Z
-tags: ["general","help","heath-row","magazine","interaction","compassion"]
+date: 2006-10-16 21:19:03+00:00
+summary: heath shares a cool idea about marking up your favorite magazine with a sharpie
+  and sending it to the editor for feedback. it's all about making those one-way conversations
+  a bit more two-way. keep it short with 3-5 main points and see if your notes make
+  it into the next issue!
+tags:
+- magazine
+- reader_feedback
+- compassion
+- help
+- heath-row
+- creative_exercise
+- sharpie_art
+- general
+- magazine_markup
+- interaction
+- editor_interaction
 title: Marking up a magazine - interaction with the editors
 wordpress_id: 1372
 wordpress_url: http://www.nata2.org/2006/10/16/marking-up-a-magazine-interaction-with-the-editors/

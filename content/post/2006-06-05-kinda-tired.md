@@ -1,6 +1,15 @@
 ---
-date: 2006-06-05T14:02:07Z
-tags: ["general","hiromi"]
+date: 2006-06-05 14:02:07+00:00
+summary: about to head out to pick up hiromi from the airport. she's landing in 40
+  minutes, and i'm trying to time the foster bus to drop me off just as she comes
+  out of customs. more updates later!
+tags:
+- airport pickup
+- general
+- hiromi
+- timing
+- travel
+- customs
 title: kinda tired
 wordpress_id: 1284
 wordpress_url: http://www.nata2.org/2006/06/05/kinda-tired/

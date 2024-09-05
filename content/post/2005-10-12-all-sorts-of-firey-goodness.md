@@ -1,6 +1,22 @@
 ---
-date: 2005-10-12T06:12:38Z
-tags: ["general","skinnycorp","awesome","crazy","hifi","amp"]
+date: 2005-10-12 06:12:38+00:00
+summary: today was a blast! hung out with my brother dylan over the weekend; played
+  video games, went to sushi, and he wowed everyone with magic tricks at my work.
+  we checked out designer toys and i got some cool stuff from him. then got my hands
+  on a sonic t-amp and it blew me away. ended the day with some awesome graf wall
+  action. good times!
+tags:
+- music gear
+- skinnycorp
+- awesome
+- hifi
+- general
+- weekend recap
+- video games
+- time with friends
+- crazy
+- sushi
+- amp
 title: 'all sorts of firey goodness. '
 wordpress_id: 1136
 wordpress_url: http://www.nata2.org/2005/10/12/all-sorts-of-firey-goodness/
@@ -15,5 +31,4 @@ so then dylan left and i came to work. i continued to set up the webcams and fin
 
 then we took the t-amp, speakers and a bunch of tshirts and went and attacked clark and belmont threadless style. it ruled. especially since we have the siren. heh. it ruled. 
 
-then we hung out and watched joe do the graf wall. check out the <a href="http://skinnycorp.com/videos/october11thswallprogress">timelapse movie i made</a>. it rules. now it is time to go get breakfast. 
-
+then we hung out and watched joe do the graf wall. check out the <a href="http://skinnycorp.com/videos/october11thswallprogress">timelapse movie i made</a>. it rules. now it is time to go get breakfast.

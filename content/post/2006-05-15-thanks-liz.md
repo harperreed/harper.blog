@@ -1,6 +1,22 @@
 ---
-date: 2006-05-15T17:57:39Z
-tags: ["general","chicago","awesome","fractalspin","liz","quantazelle","fasihon"]
+date: 2006-05-15 17:57:39+00:00
+summary: "got a belated birthday gift from my friend liz \u2013 some cool mens geek\
+  \ jewelry from her zellestyle line. got a midi bracelet and some black wire bracelets.\
+  \ super happy since i was kinda wanting to wear bracelets again. check out liz's\
+  \ stuff and her music!"
+tags:
+- awesome
+- fractalspin
+- support small business
+- fashion
+- chicago
+- friendship
+- geek jewelry
+- general
+- liz
+- birthday gift
+- quantazelle
+- fasihon
 title: 'Thanks liz... '
 wordpress_id: 1267
 wordpress_url: http://www.nata2.org/2006/05/15/thanks-liz/

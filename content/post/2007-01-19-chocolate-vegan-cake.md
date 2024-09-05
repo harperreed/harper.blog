@@ -1,6 +1,14 @@
 ---
-date: 2007-01-19T17:25:15Z
-tags: ["general"]
+date: 2007-01-19 17:25:15+00:00
+summary: here's a super tasty vegan chocolate cake recipe from my mom that's always
+  a hit during the holidays, even with non-vegans! check it out and enjoy!
+tags:
+- general
+- dessert
+- family recipes
+- easy baking
+- vegan chocolate cake
+- vegan recipes
 title: Chocolate Vegan Cake
 wordpress_id: 1407
 wordpress_url: http://www.nata2.org/2007/01/19/chocolate-vegan-cake/

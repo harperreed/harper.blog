@@ -1,9 +1,42 @@
 ---
-date: 2005-03-11T19:09:24Z
+date: 2005-03-11 19:09:24+00:00
 excerpt: where the deer and the antelope play. where seldom is heard a discouraging
   word. and the eyes eat cowboys all day. Oh yea. it is the weekend. I am soooo sleepy.
   I am going to have a meet and greet. and then have a meet and sleep. and t...
-tags: ["general","harper","reed","php","blogs","internet","hacking","search","war","sites","audreyhacking","audrey","coding","source","design","osx","apple","google","wordpress","work","wiki","adsense","mambo"]
+summary: it's the weekend and i'm feeling sleepy! planning a meet and greet, then
+  a meet and sleep. also diving into some web projects like hooking howtoyoyo into
+  mambo and working on my mvc php port of cripplesmash. maybe i'll finally redesign
+  nata2 and think about merging some of my sites. just trying to keep the 80s alive,
+  man!
+tags:
+- osx
+- work
+- blogging
+- war
+- design
+- search
+- audreyhacking
+- apple
+- hacking
+- coding
+- wordpress
+- internet
+- harper
+- personal projects
+- mambo
+- web development
+- general
+- weekend vibes
+- blogs
+- source
+- reed
+- php
+- adsense
+- sites
+- nostalgia
+- audrey
+- wiki
+- google
 title: home. home on the range.
 wordpress_id: 1003
 wordpress_url: http://new.nata2.org/?p=1003

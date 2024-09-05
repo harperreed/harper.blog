@@ -1,6 +1,18 @@
 ---
-date: 2005-03-22T00:08:00Z
-tags: ["general","food","birthday","wordpress","ecto"]
+date: 2005-03-22 00:08:00+00:00
+summary: testing ecto for posting to wordpress was a wild ride. it feels a bit wrong,
+  but the features are nice, even if the commercial side is annoying. also, had amazing
+  Ethiopian food last night. tried to post, didn't work at first, but then it did!
+  now blogging is super easy, but it still doesn't actually work. heh.
+tags:
+- ecto
+- software development
+- general
+- Ethiopian food
+- birthday
+- food
+- blogging
+- wordpress
 title: Ecto!! w00t. nee blog software.
 wordpress_id: 1018
 wordpress_url: http://www.nata2.org/2005/03/22/ecto-w00t-nee-blog-software/
@@ -14,4 +26,4 @@ how nice. spell check.
 
 doh! it didn't work
 
-Try two! W00t. it worked. ok. now i have made posting to my blog super super easy. i have NO excuse not to post. i guess i need to register this. or something. ;) except.. it doesn't actually work. heh. 
+Try two! W00t. it worked. ok. now i have made posting to my blog super super easy. i have NO excuse not to post. i guess i need to register this. or something. ;) except.. it doesn't actually work. heh.

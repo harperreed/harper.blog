@@ -1,6 +1,15 @@
 ---
-date: 2006-06-20T04:29:54Z
-tags: ["general"]
+date: 2006-06-20 04:29:54+00:00
+summary: "just a quick update \u2013 super busy, but got a first draft of the nata2\
+  \ redesign. home page works, but everything else is a bit of a mess. need suggestions\
+  \ from friends. let me know what you think!"
+tags:
+- general
+- first draft
+- suggestions needed
+- blog update
+- nata2 redesign
+- busy life
 title: 'busy.. and i redesigned my blog. '
 wordpress_id: 1295
 wordpress_url: http://www.nata2.org/2006/06/20/busy-and-i-redesigned-my-blog/

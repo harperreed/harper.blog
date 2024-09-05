@@ -1,11 +1,25 @@
 ---
-date: 2003-07-01T15:01:17Z
+date: 2003-07-01 15:01:17+00:00
 excerpt: so for the past week or so I have been arrivign at work a lot earlier than
   I have in the past 2 years. I usaually arrive on time or about 15-30 minutes before
   9. it is insane. cuz by 10, I am already like.. dang.. I have been here a long time.
   heh. whatever. .. so anyway. this morning. I arrived at work and lost my ability
   to use punctuation.. what the fuck. hehe. anyway. I really just arrived at...
-tags: ["juggle","insane","matiss"]
+summary: "so i've been getting to work super early lately and it's wild. this morning,\
+  \ though, i got hit with a nasty migraine as soon as i arrived. had to chill in\
+  \ a dark conference room until i could see straight again. also had this creepy\
+  \ home invader dream last night. oh, and i'm struggling big time with freebsd installation.\
+  \ tonight, i\u2019m juggling at the abbey pub with matiss and hoping it\u2019ll\
+  \ be awesome!"
+tags:
+- dreams
+- juggle
+- work
+- juggling
+- matiss
+- migraine
+- freebsd
+- insane
 title: Jugglers of LOVE..
 wordpress_id: 557
 wordpress_url: http://new.nata2.org/?p=557

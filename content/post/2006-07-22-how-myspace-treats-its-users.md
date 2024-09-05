@@ -1,6 +1,19 @@
 ---
-date: 2006-07-22T20:37:00Z
-tags: ["technology","myspace","users","friendly","bad"]
+date: 2006-07-22 20:37:00+00:00
+summary: so myspace is seriously annoying. even with two accounts and a ton of 'friends',
+  the site has bad design and usability. recently, they blamed users for a flash exploit
+  that hijacked pages instead of taking responsibility. their passive-aggressive communication
+  just makes it worse, like a friend who always shifts blame.
+tags:
+- users
+- social media
+- bad
+- web usability
+- myspace
+- technology
+- flash security
+- friendly
+- user experience
 title: How myspace treats its users
 wordpress_id: 1309
 wordpress_url: http://www.nata2.org/2006/07/22/how-myspace-treats-its-users/

@@ -1,5 +1,14 @@
 ---
-date: 2012-02-11T00:00:00Z
+date: 2012-02-11 00:00:00+00:00
+summary: in this post, harper reed shares insights from his interview with the setup,
+  discussing his role as a technologist, his work setup including hardware and software,
+  and a glimpse into his dream tech setup.
+tags:
+- Harper Reed
+- The Setup
+- tech interview
+- work setup
+- gadgets
 title: 'Me on The Setup: Harper Reed uses this.'
 ---
 
@@ -64,4 +73,4 @@ My dream setup from when I was in high school is more interesting. I spent hours
 
 ----
 
-####What do you use? I would love to know. Feel free to comment and let me know. 
+####What do you use? I would love to know. Feel free to comment and let me know.

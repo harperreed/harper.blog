@@ -1,11 +1,22 @@
 ---
-date: 2003-04-15T18:18:59Z
+date: 2003-04-15 18:18:59+00:00
 excerpt: 'The past couple days have been brilliant. yesterday I went and walked around
   the clark/belmont area with a friend and I didn''t wear a coat. so nice. what a
   pleasent surprise. I love nice weather. today I spent lunch outside and for the
   first time is awhile was worried about sunburn. heh. stupid skin. So if you have
   a sony wega tv and wanna muck with the internals - try '
-tags: ["war","google"]
+summary: the past couple of days have been awesome, especially with great weather.
+  went for a coatless walk in the clark/belmont area and enjoyed lunch outside. also
+  shared some sony wega tv hacks for those interested, but stay cautious! just want
+  to chill and not worry about stuff.
+tags:
+- sunburn
+- weather
+- war
+- outdoor lunch
+- relaxation
+- google
+- sony wega tv
 title: nice weather
 wordpress_id: 487
 wordpress_url: http://new.nata2.org/?p=487

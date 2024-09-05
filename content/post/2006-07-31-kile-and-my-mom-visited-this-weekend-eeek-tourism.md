@@ -1,6 +1,22 @@
 ---
-date: 2006-07-31T13:27:34Z
-tags: ["general","family","vacation","fun","visits","navy-pier","kile"]
+date: 2006-07-31 13:27:34+00:00
+summary: had an awesome weekend with kile and my mom! we did dinner, saw some shows,
+  hit up chinatown for lunch, and did a lot of hanging out and fun activities like
+  juggling and biking around navy pier. ended the weekend playing legos and crashing
+  hard. good times!
+tags:
+- family time
+- fun activities
+- navy-pier
+- chicago
+- general
+- fun
+- weekend recap
+- vacation
+- food adventures
+- visits
+- kile
+- family
 title: Kile and my Mom visited this weekend. eeek tourism!
 wordpress_id: 1314
 wordpress_url: http://www.nata2.org/2006/07/31/kile-and-my-mom-visited-this-weekend-eeek-tourism/

@@ -1,11 +1,26 @@
 ---
-date: 2003-03-03T17:05:29Z
+date: 2003-03-03 17:05:29+00:00
 excerpt: So this weekend was incredible. It was also INSANE. seriously. on friday
   I hung out with a bunch of friends at the ladytron show. Which btw, was really great.
   ladytron did a remarkable job of representing their sound exactly how it is on the
   record. Dayum.. that concert was such a fashion show.. heh. so fun. my friend rachel
   c...
-tags: ["job","war","insane","chris","fashion","india"]
+summary: "this weekend was wild! caught the ladytron show on friday with rachel, and\
+  \ it was a total vibe. then saturday blew my mind with super stars of love and laptronica\u2014\
+  pure chaos. also, kim jong il is up to some crazy stuff, like possibly starting\
+  \ a nuclear war. what even?!"
+tags:
+- chris
+- war
+- india
+- fashion
+- insane
+- concerts
+- north korea
+- super stars of love
+- job
+- laptronica
+- ladytron
 title: Strange encounters with beast men.
 wordpress_id: 456
 wordpress_url: http://new.nata2.org/?p=456

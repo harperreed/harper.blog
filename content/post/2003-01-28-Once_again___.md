@@ -1,9 +1,21 @@
 ---
-date: 2003-01-28T20:18:29Z
+date: 2003-01-28 20:18:29+00:00
 excerpt: 'I sit here in training for a search engine.. and the world potentially falls
   apart. well.. one thing is for sure.. bush rules. I mean jesus, can that guy be
   a worse president. I think many peopla agree... but the '
-tags: ["search","war","sick","bush","politics","politic"]
+summary: the author reflects on the state of the world during a training session for
+  a search engine, expressing frustration with bush's presidency and the looming threat
+  of war with saddam. they question the legitimacy of the evidence for war and mention
+  a desire to avoid conflict, while feeling tired and unwell.
+tags:
+- sick
+- current events
+- war
+- saddam
+- politics
+- politic
+- bush
+- search
 title: Once again...
 wordpress_id: 439
 wordpress_url: http://new.nata2.org/?p=439

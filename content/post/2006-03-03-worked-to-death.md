@@ -1,6 +1,15 @@
 ---
-date: 2006-03-03T10:22:52Z
-tags: ["general","work"]
+date: 2006-03-03 10:22:52+00:00
+summary: yesterday was an awesome day of work where i focused on cool projects like
+  an awesome site and an embedded linux box. had a great lunch and ended the day working
+  on personal sites. feeling sleepy now, but it's all worth it!
+tags:
+- general
+- work
+- embeddedlinux
+- personaldevelopment
+- tech
+- productivity
 title: 'Worked to death. '
 wordpress_id: 1227
 wordpress_url: http://www.nata2.org/2006/03/03/worked-to-death/

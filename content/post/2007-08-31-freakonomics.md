@@ -1,6 +1,20 @@
 ---
-date: 2007-08-31T15:31:01Z
-tags: ["general","books","interesting","economics","freakonomics"]
+date: 2007-08-31 15:31:01+00:00
+summary: "last night, i finished reading freakonomics and it was hilarious! i\u2019\
+  ve been into the freakonomics blog for a while, but the book took it to a whole\
+  \ new level. the chapters on chicago gangs were especially eye-opening, and i can't\
+  \ believe sudhir venkatesh studied with the gangster disciples. if you haven't read\
+  \ it yet, you should totally check it out!"
+tags:
+- economics
+- freakonomics
+- Freakonomics
+- interesting
+- general
+- Stephen Levitt
+- Sudhir Venkatesh
+- books
+- Chicago gangs
 title: Freakonomics
 wordpress_id: 1472
 wordpress_url: http://www.nata2.org/2007/08/31/freakonomics/

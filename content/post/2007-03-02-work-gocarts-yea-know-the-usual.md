@@ -1,6 +1,15 @@
 ---
-date: 2007-03-02T17:18:53Z
-tags: ["general"]
+date: 2007-03-02 17:18:53+00:00
+summary: we got gocarts at work and it's a blast! every day jake zooms around having
+  a great time, and i even took off my pants to drive. check out the videos of our
+  crazy adventures!
+tags:
+- general
+- Jake
+- gocarts
+- workplace fun
+- driving
+- videos
 title: Work gocarts. yea know. the usual.
 wordpress_id: 1414
 wordpress_url: http://www.nata2.org/2007/03/02/work-gocarts-yea-know-the-usual/

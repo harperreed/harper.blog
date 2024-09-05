@@ -1,11 +1,32 @@
 ---
-date: 2003-07-07T16:26:13Z
-excerpt: "So on thursday I got really bored and made a false profile for a christian
-  dating service. It is really lame.. however we made a funny profile. unfortunantly
-  it deleted the best part. I was so sad. :( here is an excerpt: \nWhen I was a younger
-  lad, I unfortunately witnessed a crime of passion that changed my life forever.
-  Finding my mother in ..."
-tags: ["family","chicago","search","community","chris","bush","action","vacation","games","hong","restaurant"]
+date: 2003-07-07 16:26:13+00:00
+excerpt: "So on thursday I got really bored and made a false profile for a christian\
+  \ dating service. It is really lame.. however we made a funny profile. unfortunantly\
+  \ it deleted the best part. I was so sad. :( here is an excerpt: \nWhen I was a\
+  \ younger lad, I unfortunately witnessed a crime of passion that changed my life\
+  \ forever. Finding my mother in ..."
+summary: on thursday, i got bored and created a funny false profile for a christian
+  dating site, but it got partially deleted, which bummed me out. i also spent time
+  with my parents, hitting up some tasty restaurants and just chilling together. plus,
+  i shared my thoughts on the movie '28 days later' and how its minimalism reminded
+  me of 'funny games.'
+tags:
+- chris
+- humor
+- family time
+- movie reviews
+- vacation
+- search
+- chicago
+- games
+- christian dating
+- action
+- community
+- hong
+- personal anecdotes
+- restaurant
+- family
+- bush
 title: christ i am not
 wordpress_id: 560
 wordpress_url: http://new.nata2.org/?p=560

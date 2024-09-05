@@ -1,11 +1,25 @@
 ---
-date: 2002-03-03T03:19:59Z
+date: 2002-03-03 03:19:59+00:00
 excerpt: This weekend was good, my friend from high school, megan, came and visited.
   It was fun to be around her again.. ever since friday my life has been very very
   surreal. After I got home from work - I immediately got a huge headache. HUGE. it
   was horrible. I stumbled around and then a firned picked me up. I passed out in
   her car and awoke to find myself in a nice indian resturant. ahh.. how nice. I a...
-tags: ["chicago","war","school","metal","tones","india"]
+summary: had a great weekend catching up with megan from high school, even though
+  it started with a huge headache. ended up at an indian restaurant and went to a
+  film fest with a new friend. super excited for a death metal show tonight! can't
+  wait to see dimmu borgir, even though I only know one of their songs.
+tags:
+- weekend adventures
+- school
+- war
+- india
+- chicago
+- friendship
+- concerts
+- film festival
+- metal
+- tones
 title: Sometimes..
 wordpress_id: 221
 wordpress_url: http://new.nata2.org/?p=221

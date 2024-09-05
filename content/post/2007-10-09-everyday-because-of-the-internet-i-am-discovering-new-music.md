@@ -1,6 +1,20 @@
 ---
-date: 2007-10-09T01:37:40Z
-tags: ["general","internet","music","bittorrent","download"]
+date: 2007-10-09 01:37:40+00:00
+summary: everyday i'm discovering new music thanks to the internet. it's wild how
+  i can just decide to learn about classical music and find concerts for free. super
+  cool to see artists like trent reznor and radiohead ditching record labels and embracing
+  the new music scene. btw, i'm on the hunt for some dark and brooding classical tunes!
+tags:
+- new music
+- bittorrent
+- modern artists
+- music
+- download
+- classical music
+- internet
+- general
+- Trent Reznor
+- Radiohead
 title: Everyday, because of the internet, I am discovering new music
 wordpress_id: 1484
 wordpress_url: http://www.nata2.org/2007/10/09/everyday-because-of-the-internet-i-am-discovering-new-music/

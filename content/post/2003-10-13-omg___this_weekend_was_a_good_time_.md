@@ -1,11 +1,26 @@
 ---
-date: 2003-10-13T05:00:57Z
+date: 2003-10-13 05:00:57+00:00
 excerpt: Friday I about died from hunger. I got home from work.. .actually .. I didn't
   really get home form work. I went straight to atomix coffee shop and met dylan and
   hiromi.. also.. rachel, hans, marcia and nicole were all there. so it was awesome.
   we then hurried home and went to heat. heat was intense. we got a live fish and
   a bunch of really good sushi. I think that it was good. but it wasn't wor...
-tags: ["juggle","dylan","food","insane","hiromi","sushi"]
+summary: "friday was all about hunger and meeting up at atomix coffee shop with dylan,\
+  \ hiromi, and the crew. heat was intense with live fish and sushi, but maybe not\
+  \ worth the price. saturday brought great italian food and some good laughs with\
+  \ friends. today was chill with lunch, juggling, and hanging out at marks. now it\u2019\
+  s time for some much-needed sleep."
+tags:
+- insane
+- live fish
+- juggle
+- food
+- italian food
+- hiromi
+- sushi
+- food adventures
+- dylan
+- friend hangout
 title: omg.. this weekend was a good time.
 wordpress_id: 641
 wordpress_url: http://new.nata2.org/?p=641

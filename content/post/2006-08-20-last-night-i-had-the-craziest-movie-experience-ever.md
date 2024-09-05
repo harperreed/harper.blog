@@ -1,6 +1,23 @@
 ---
-date: 2006-08-20T20:32:12Z
-tags: ["general","chicago","sad","insanity","movie","experience","comedy","visitors"]
+date: 2006-08-20 20:32:12+00:00
+summary: went to see Taladega Nights with my mom and cousin cole, and ended up having
+  a wild encounter with an angry woman who spilled coke on me after a slight bump.
+  the whole situation escalated but got sorted out thanks to a witness. just wanted
+  to enjoy the movie, but wow, what a night!
+tags:
+- AMC
+- comedy
+- general
+- experience
+- family outing
+- Taladega Nights
+- chicago
+- insanity
+- visitors
+- sad
+- crazy encounter
+- movie
+- movie experience
 title: last night i had the craziest movie experience ever
 wordpress_id: 1327
 wordpress_url: http://www.nata2.org/2006/08/21/last-night-i-had-the-craziest-movie-experience-ever/
