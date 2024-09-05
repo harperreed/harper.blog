@@ -2,11 +2,16 @@
 
 
 {{ $font := resources.GetRemote "https://github.com/google/fonts/raw/main/ofl/firamono/FiraMono-Bold.ttf" }}
-{{ $fg := resources.Get "images/social_card_fg.png"}}
-{{ $bg := resources.Get "images/social_card_bg.png"}}
+{{ $fg := resources.Get "images/social_card_fg_harper.png"}}
+{{ $bg := resources.Get "images/social_card_bg_harper.png"}}  // Change this to your photo's path
 
+// Resize and crop your photo to fit the social card dimensions
+{{ $bg = $bg.Resize "1500x750 crop" }}
 
+// Apply a darkening filter to ensure text readability
+{{ $bg = $bg.Filter (images.Brightness -10) }}
 
+// Composite the foreground onto your photo
 {{ if gt (len .Title) 45 }}
   {{ $fg = $fg.Filter (images.Text .Title (dict
     "font" $font
