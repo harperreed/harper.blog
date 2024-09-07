@@ -44,9 +44,9 @@ You would plug the preamp into your receiver (unless it has a preamp built into 
 
 There are a handful of options for "good stuff":
 
-a) an integrated amp with phono stage. Roughly #200 - 1.5k
-b) a phono preamp, and an amp. Roughly $1k
-c) vintage or thrift store receiver. Roughly $300 but lots of caveats
+1. an integrated amp with phono stage. Roughly #200 - 1.5k
+2. a phono preamp, and an amp. Roughly $1k
+3. vintage or thrift store receiver. Roughly $300 but lots of caveats
 
 #### Integrated amp
 
@@ -59,17 +59,17 @@ There are so many options. I really like NAD. You can get a good "receiver" that
 
 This is how i typically do it:
 
-1) The Mani preamp from above
-2) Project Stereo Box S2 - $300
+1. The Mani preamp from above
+2. Project Stereo Box S2 - $300
 
 Both are super tiny and inexpensive. Dedicated hardware will be super nice. Easy to use. Super light and chill. Will sound amazing
 
 
 #### Speakers are complicated.
 
-a) best stand alone speakers for this type of application are the KEF bookshelf speakers + stands. Roughly $1.5k
-b) PSB bookshelves are very nice. Roughly $800
-c) Cheap amazon speakers: Roughly $250
+1. best stand alone speakers for this type of application are the KEF bookshelf speakers + stands. Roughly $1.5k
+2. PSB bookshelves are very nice. Roughly $800
+3. Cheap amazon speakers: Roughly $250
 
 You can kind of pick anything here. It only matters if it sounds good to y'all. Volume isn't really important. A clean sound that makes you happy is. I would go with B or A. C is fine, but often is underwhelming.
 
@@ -83,8 +83,8 @@ This is how i do it. Rather than trying to have a separate stereo or a connectio
 
 A couple of options:
 
-a) sonos - port ($450) + preamp ($150)
-b) bluenote - Hub (320) + Node ($500)
+1. sonos - port ($450) + preamp ($150)
+2. bluenote - Hub (320) + Node ($500)
 
 **option A:** the newer sonos stuff is very good for this use case. It would. Sonos has it's own issues, but it does this pretty well. I use it at my office and our house. It allows for me to play my turntable through the speakers next to me (two play5s) or via the in ceiling speakers around the house. Works well.
 
@@ -125,8 +125,8 @@ Obviously Amazon works. I try not to buy from amazon cuz the quality of record i
 
 Right now I buy from two places:
 
-1) Discogs
-2) Vinyl of the month clubs
+1. Discogs
+2. Vinyl of the month clubs
 
 #### Discogs
 
@@ -150,9 +150,9 @@ Turntable furniture is an insane world. SO expensive and gnarly.
 
 A couple options that I have used:
 
-**a) Milk crates**
-**b) Etsy**
-**b) Dedicated audiophile brands**
+**1. Milk crates**
+**2. Etsy**
+**3. Dedicated audiophile brands**
 
 #### Milk Crates
 
