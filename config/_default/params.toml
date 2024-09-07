@@ -13,8 +13,8 @@ googleAnalytics = "UA-70650-74"
 #Bear stuff
 themeStyle = "original"
 generateSocialCard = true
-
-
+goToTop = true
+toc = true
 # favicon = false
 # wordCount = false
 # homepage = false
@@ -28,22 +28,18 @@ mainSections = [ "post" ]
 name = "Harper Reed"
 email = "harper@modest.com" # Added to the footer so readers can reply to post
 
-# [[social]]
-# name = "harper.photos"
-# icon = "fas fa-camera"
-# url = "https://harper.photos"
+[[socialIcons]]
+name = "github"
+url = "https://github.com/harperreed"
 
-# [[social]]
-# name = "reading.lol"
-# icon = "fas fa-book"
-# url = "https://reading.lol"
+[[socialIcons]]
+name = "twitter"
+url = "https://twitter.com/harper"
 
-# [[social]]
-# name = "harperreed.com"
-# icon = "fas fa-link"
-# url = "http://harper.lol"
-# twitter = 'harper'
+[[socialIcons]]
+name = "Rss"
+url = "index.xml"
 
 
-[[params.plugins.js]]
+[[plugins.js]]
 link = "plugins/lazy-loader.js"

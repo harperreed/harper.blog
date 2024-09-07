@@ -1,4 +1,10 @@
-{{ define "main" }} {{ .Content }} {{ range first 1 .Data.Pages }}
+{{ define "main" }}
+<div class="wrapper list-page">
+    <header class="header">
+        <h1 class="header-title center">{{ .Title }}</h1>
+    </header>
+    <main class="page-content" aria-label="Content">
+{{ .Content }} {{ range first 1 .Data.Pages }}
 <div class="post markdown">{{.Content}}</div>
 <i>updated {{.Date.Format "Jan 2, 2006"}}</i>
 {{end}}
@@ -12,5 +18,7 @@
         </li>
         {{ end }}
     </ul>
+</div>
+</main>
 </div>
 {{ end }}
