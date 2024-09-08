@@ -1,8 +1,9 @@
 name: Update AUTHORS
 on:
+  workflow_dispatch:  # Allows manual triggering
   push:
     branches:
-      - master
+      - main
 jobs:
   updateAuthors:
     runs-on: ubuntu-latest
