@@ -8,7 +8,7 @@
     {{ .Content }}
 
     <ul class="posts flat">
-        {{- $paginator := .Paginate .Data.Pages }}
+        {{- $paginator := .Paginate .Data.Pages .Site.Params.notes_pagination }}
         {{- range $paginator.Pages }}
             {{- if (in .Site.Params.excludedTypes .Type) }}
             {{- else }}
