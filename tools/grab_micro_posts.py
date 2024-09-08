@@ -34,9 +34,10 @@ def download_image(url, output_path):
     return False
 
 def process_images(content, post_dir):
-    img_pattern = re.compile(r'<img[^>]+src="([^">]+)"')
+    img_pattern = re.compile(r'!\[([^\]]*)\]\(([^)]+)\)')
     img_matches = img_pattern.findall(content)
-    for i, img_url in enumerate(img_matches):
+
+    for i, (alt_text, img_url) in enumerate(img_matches):
         parsed_url = urlparse(img_url)
         file_extension = os.path.splitext(parsed_url.path)[1]
         if not file_extension:
@@ -44,8 +45,12 @@ def process_images(content, post_dir):
         local_img_path = f'image_{i + 1}{file_extension}'
         full_img_path = os.path.join(post_dir, local_img_path)
         if download_image(img_url, full_img_path):
-            content = content.replace(img_url, local_img_path)
-    return content
+            # Remove the image from the content
+            content = content.replace(f'![{alt_text}]({img_url})', '')
+
+    # Remove any empty lines left after removing images
+    content = re.sub(r'\n\s*\n', '\n\n', content)
+    return content.strip()
 
 def create_hugo_content(entry, output_dir, note_id):
     sub_title = entry.get('title', None)
@@ -64,24 +69,16 @@ def create_hugo_content(entry, output_dir, note_id):
     # Use the full timestamp and note_id in the filename
     base_filename = f"{date.strftime('%Y-%m-%d-%H-%M-%S')}-{note_id:04d}-{slug}"
 
-    img_pattern = re.compile(r'<img[^>]+src="[^">]+"')
-    has_images = bool(img_pattern.search(content))
-
-    if has_images:
-        post_dir = os.path.join(output_dir, base_filename)
-        if os.path.exists(post_dir):
-            print(f"Post already exists (with images): {post_dir}")
-            return
-        os.makedirs(post_dir, exist_ok=True)
-        content = process_images(content, post_dir)
-        file_path = os.path.join(post_dir, "index.md")
-    else:
-        file_path = os.path.join(output_dir, f"{base_filename}.md")
-        if os.path.exists(file_path):
-            print(f"Post already exists: {file_path}")
-            return
+    post_dir = os.path.join(output_dir, base_filename)
+    if os.path.exists(post_dir):
+        print(f"Post already exists: {post_dir}")
+        return
+    os.makedirs(post_dir, exist_ok=True)
 
     content = html_to_markdown(content)
+    content = process_images(content, post_dir)
+
+    file_path = os.path.join(post_dir, "index.md")
 
     # Create a frontmatter.Post object
     post = frontmatter.loads(content)

@@ -2,68 +2,64 @@
 <div class="post note">
     <article>
         <div class="post-header">
-
             {{- if ne .Date.Year 1 }}
             <div class="meta">
                 <div class="date">
                     <span class="day">{{ dateFormat "02" .Date }}</span>
-                    <span class="rest">{{ if $.Site.Data.month }}{{ index $.Site.Data.month (printf "%d" .Date.Month) }} {{ .Date.Year }}{{ else }}{{ dateFormat "Jan 2006" .Date }}{{ end }}</span>
+                    <span class="rest"
+                        >{{ if $.Site.Data.month }}{{ index $.Site.Data.month
+                        (printf "%d" .Date.Month) }} {{ .Date.Year }}{{ else
+                        }}{{ dateFormat "Jan 2006" .Date }}{{ end }}</span
+                    >
                 </div>
             </div>
             {{- end }}
             <div class="matter">
-            <h1 class="title">{{ .Title }}{{ partial "post_label.html" (dict "post" .) }}</h1>
+                <h1 class="title">
+                    {{ .Title }}{{ partial "post_label.html" (dict "post" .) }}
+                </h1>
             </div>
         </div>
+        <div class="markdown">{{ .Content }}</div>
 
-        <div class="markdown">
-            {{ .Content }}
-        </div>
-<a href="/notes" class="back-to-notes">&larr; Back to Notes</a>
-        {{- if ne (in .Site.Params.disableTaxoTypes .Type) true }}
-        {{- $pagename := .Page.Title }}
-        {{- $notaxo := .Params.notaxonomy }}
-        {{- range $taxonomyname, $taxonomy := .Site.Taxonomies }}
-        {{- with index $.Params $taxonomyname }}
-        {{- with ($.Site.GetPage (printf "/%s" $taxonomyname)) }}
-        {{- if not (in $notaxo $taxonomyname) }}
+        {{- with .Resources.ByType "image" }}
+            <div class="note-images">
+                {{- range . }}
+                        <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
+                {{- end }}
+            </div>
+        {{- end }}
+        <a href="/notes" class="back-to-notes">&larr; Back to Notes</a>
+        {{- if ne (in .Site.Params.disableTaxoTypes .Type) true }} {{- $pagename
+        := .Page.Title }} {{- $notaxo := .Params.notaxonomy }} {{- range
+        $taxonomyname, $taxonomy := .Site.Taxonomies }} {{- with index $.Params
+        $taxonomyname }} {{- with ($.Site.GetPage (printf "/%s" $taxonomyname))
+        }} {{- if not (in $notaxo $taxonomyname) }}
         <div class="tags">
             <div class="taxosfloating_left">
                 <p>{{ $taxonomyname | humanize }}</p>
             </div>
             <div class="termsfloating_right">
                 <p>
-                {{- range $key, $value := $taxonomy -}}
-                {{- range $value.Pages }}
-                {{- if eq .LinkTitle $pagename }}
-                <a href="{{ relURL $taxonomyname }}/{{ $key }}/">{{ $key }}</a>
-                {{- end }}
-                {{- end }}
-                {{- end }}
+                    {{- range $key, $value := $taxonomy -}} {{- range
+                    $value.Pages }} {{- if eq .LinkTitle $pagename }}
+                    <a href="{{ relURL $taxonomyname }}/{{ $key }}/"
+                        >{{ $key }}</a
+                    >
+                    {{- end }} {{- end }} {{- end }}
                 </p>
             </div>
             <div class="clearit"></div>
         </div>
-        {{- end }}
-        {{- end -}}
-        {{- end -}}
-        {{- end -}}
-        {{- end }}
+        {{- end }} {{- end -}} {{- end -}} {{- end -}} {{- end }}
     </article>
 </div>
 
-{{- if eq .Site.Params.comments.enabled true }}
-{{- $.Scratch.Set "comments" true }}
-{{- if and (isset .Params "type") (in .Site.Params.comments.disableOnTypes .Params.type) }}
-{{- $.Scratch.Set "comments" false }}
-{{- end }}
-{{- if and (isset .Params "commentable") (eq .Params.commentable false) }}
-{{- $.Scratch.Set "comments" false -}}
-{{- else if and (isset .Params "commentable") (eq .Params.commentable true) }}
-{{- $.Scratch.Set "comments" true }}
-{{- end }}
-{{- if eq ($.Scratch.Get "comments") true }}
-{{- partial "comments.html" . }}
-{{- end }}
-{{- end }}
-{{- end }}
+{{- if eq .Site.Params.comments.enabled true }} {{- $.Scratch.Set "comments"
+true }} {{- if and (isset .Params "type") (in
+.Site.Params.comments.disableOnTypes .Params.type) }} {{- $.Scratch.Set
+"comments" false }} {{- end }} {{- if and (isset .Params "commentable") (eq
+.Params.commentable false) }} {{- $.Scratch.Set "comments" false -}} {{- else if
+and (isset .Params "commentable") (eq .Params.commentable true) }} {{-
+$.Scratch.Set "comments" true }} {{- end }} {{- if eq ($.Scratch.Get "comments")
+true }} {{- partial "comments.html" . }} {{- end }} {{- end }} {{- end }}
