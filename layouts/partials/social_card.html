@@ -1,52 +1,52 @@
-<!-- Dynamic social card generation -->
+{{ $cardURL := .Site.Params.default_social_image | absURL }}
 
+{{ if .Site.Params.social_image_gen }}
+  <!-- Dynamic social card generation -->
+  {{ $font := resources.GetRemote "https://github.com/google/fonts/raw/main/ofl/firamono/FiraMono-Bold.ttf" }}
+  {{ $fg := resources.Get "images/social_card_fg_harper.png"}}
+  {{ $bg := resources.Get "images/social_card_bg_harper.png"}}
 
-{{ $font := resources.GetRemote "https://github.com/google/fonts/raw/main/ofl/firamono/FiraMono-Bold.ttf" }}
-{{ $fg := resources.Get "images/social_card_fg_harper.png"}}
-{{ $bg := resources.Get "images/social_card_bg_harper.png"}}
+  {{ $bg = $bg.Resize "1500x750 crop" }}
+  {{ $bg = $bg.Filter (images.Brightness -10) }}
 
+  {{ if gt (len .Title) 45 }}
+    {{ $fg = $fg.Filter (images.Text .Title (dict
+      "font" $font
+      "color" "#fafafa"
+      "size" 95
+      "linespacing" 16
+      "x" 0
+      "y" 0
+    )) }}
+  {{ else }}
+    {{ $fg = $fg.Filter (images.Text .Title (dict
+      "font" $font
+      "color" "#fafafa"
+      "size" 130
+      "linespacing" 20
+      "x" 0
+      "y" 0
+    )) }}
+  {{ end }}
 
-{{ $bg = $bg.Resize "1500x750 crop" }}
+  {{ $date := .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
+  {{ $author := (default $.Site.Params.author.name ($.Param "name") ) }}
+  {{ $byline := (printf "%s | %s" $author $date) }}
 
-
-{{ $bg = $bg.Filter (images.Brightness -10) }}
-
-
-{{ if gt (len .Title) 45 }}
-  {{ $fg = $fg.Filter (images.Text .Title (dict
-    "font" $font
-    "color" "#fafafa"
-    "size" 95
-    "linespacing" 16
-    "x" 0
-    "y" 0
+  {{ $fg = $fg.Filter (images.Text $byline (dict
+      "font" $font
+      "color" "#ffffff"
+      "size" 60
+      "linespacing" 30
+      "x" 0
+      "y" 425
   )) }}
-{{ else }}
-  {{ $fg = $fg.Filter (images.Text .Title (dict
-    "font" $font
-    "color" "#fafafa"
-    "size" 130
-    "linespacing" 20
-    "x" 0
-    "y" 0
-  )) }}
+
+  {{ $card := $bg.Filter (images.Overlay $fg 112 140 ) }}
+  {{ $card := $card.Resize "900x webp q100" }}
+
+  {{ $cardURL = $card.Permalink | absURL }}
 {{ end }}
-
-{{ $date := .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
-{{ $author := (default $.Site.Params.author.name ($.Param "name") ) }}
-{{ $byline := (printf "%s | %s" $author $date) }}
-
-{{ $fg = $fg.Filter (images.Text $byline (dict
-    "font" $font
-    "color" "#ffffff"
-    "size" 60
-    "linespacing" 30
-    "x" 0
-    "y" 425
-)) }}
-
-{{ $card := $bg.Filter (images.Overlay $fg 112 140 ) }}
-{{ $card := $card.Resize "900x webp q100" }}
 
 
 <!-- Open Graph / Facebook -->
@@ -56,7 +56,7 @@
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 
-<meta property="og:image" content="{{ $card.Permalink | absURL }}"/>
+<meta property="og:image" content="{{ $cardURL | absURL }}"/>
 
 {{- if .IsPage }}
 {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
@@ -103,7 +103,7 @@
 <!-- Twitter -->
 <!-- Source: https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/twitter_cards.html -->
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="{{ $card.Permalink | absURL }}"/>
+<meta name="twitter:image" content="{{ $cardURL | absURL }}"/>
 <meta name="twitter:title" content="{{ .Title }}"/>
 <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}"/>
 
@@ -139,7 +139,7 @@
 {{ with .Lastmod }}<meta itemprop="dateModified" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end}}
 <meta itemprop="wordCount" content="{{ .WordCount }}">
 
-<meta itemprop="image" content="{{ $card.Permalink | absURL }}"/>
+<meta itemprop="image" content="{{ $cardURL | absURL }}"/>
 
 <!-- Output all taxonomies as schema.org keywords -->
 <meta itemprop="keywords" content="{{ if .IsPage}}{{ range $index, $tag := .Params.tags }}{{ $tag }},{{ end }}{{ else }}{{ range $plural, $terms := .Site.Taxonomies }}{{ range $term, $val := $terms }}{{ printf "%s," $term }}{{ end }}{{ end }}{{ end }}" />
