@@ -53,7 +53,7 @@ def process_images(content, post_dir):
     return content.strip()
 
 def create_hugo_content(entry, output_dir, note_id):
-    sub_title = entry.get('title', None)
+    sub_title = entry.get('title', "Untitled")
     title = f"Note #{note_id}"
     content = entry.get('content_html') or entry.get('content_text', '')
     date_str = entry.get('date_published', datetime.now().isoformat())
