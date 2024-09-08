@@ -16,20 +16,21 @@
                         </div>
                         <div class="matter">
                             <article>
-                                {{- if not .Params.hidemeta }}
-                                <p class="post-meta">
-                                    {{ partial "post_meta.html" . }}
-                                </p>
-                                {{- end }}
+                                <h3 class="title small">{{.Title}}</h3>
+
                                 <div class="note-content">
                                     {{ .Content }}
                                 </div>
+                                {{- $postLink := .RelPermalink }}
                                 {{- with .Resources.ByType "image" }}
-                                <div class="note-images">
-                                    {{- range . }}
-                                    <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
-                                    {{- end }}
-                                </div>
+                                    <div class="note-images">
+                                        {{- range . }}
+                                            {{- $thumbnail := .Resize "300x" }}
+                                            <a href="{{ $postLink }}" target="_blank">
+                                                <img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Title }}" />
+                                            </a>
+                                        {{- end }}
+                                    </div>
                                 {{- end }}
                                 <a href="{{ .RelPermalink }}" class="note-permalink" title="Permalink to this note">#</a>
                             </article>

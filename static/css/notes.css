@@ -9,30 +9,29 @@
     color: #333;
 }
 
-.note-content img {
-    max-width: 100%;
-    height: auto;
-    margin: 1em 0;
-}
 
-.note {
-    margin-bottom: 2em;
-}
+
 
 .note-images {
     margin-bottom: 1em;
 }
 
+
+.note-images {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.note-images a {
+    display: block;
+    width: 300px;
+    height: auto;
+}
+
 .note-images img {
     max-width: 100%;
     height: auto;
-    margin-bottom: 0.5em;
-}
-
-.note-header {
-    margin-bottom: 1em;
-}
-
-.note-content {
-    line-height: 1.6;
+    object-fit: cover;
 }
