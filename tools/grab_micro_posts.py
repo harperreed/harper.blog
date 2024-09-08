@@ -88,7 +88,7 @@ def create_hugo_content(entry, output_dir):
     post['title'] = title
     post['date'] = date
     post['draft'] = False
-    post['url'] = post_url
+    post['origina_url'] = post_url
 
     with open(file_path, 'w', encoding='utf-8') as f:
         f.write(frontmatter.dumps(post))
