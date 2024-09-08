@@ -1,0 +1,37 @@
+name: Run Micro Posts Script
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # Runs every 10 minutes
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-micro-posts:
+    runs-on: ubuntu-latest
+    env:
+      JSON_FEED_URL: ${{ secrets.JSON_FEED_URL }}
+      HUGO_CONTENT_DIR: ./content/notes
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run script
+      run: python ./tools/grab_micro_posts.py
+
+    - name: Commit and push if changes
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git add -A
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update micro posts" && git push)
