@@ -1,12 +1,6 @@
 {{- define "main" }}
-    {{- if .Page.Title }}
-        <h1 class="page-title">{{ .Page.Title }}</h1>
-    {{- else if isset .Data "Term" }}
-        <h1 class="page-title">{{ humanize .Data.Term }}</h1>
-    {{- end -}}
-
+    <h1 class="page-title">Notes</h1>
     {{ .Content }}
-
     <ul class="posts flat">
         {{- $paginator := .Paginate .Data.Pages .Site.Params.notes_pagination }}
         {{- range $paginator.Pages }}
@@ -22,13 +16,22 @@
                         </div>
                         <div class="matter">
                             <article>
-                                <h3 class="title small"><a href="{{ .RelPermalink }}">{{.Title}}{{ partial "post_label.html" (dict "post" .)}}</a></h3>
                                 {{- if not .Params.hidemeta }}
                                 <p class="post-meta">
                                     {{ partial "post_meta.html" . }}
                                 </p>
                                 {{- end }}
-                                <span class="description">{{ if isset .Params "description" }}{{ .Description }}{{ else }}{{ .Plain  | htmlUnescape | safeHTML | truncate 140 }}{{ end }}</span>
+                                <div class="note-content">
+                                    {{ .Content }}
+                                </div>
+                                {{- with .Resources.ByType "image" }}
+                                <div class="note-images">
+                                    {{- range . }}
+                                    <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
+                                    {{- end }}
+                                </div>
+                                {{- end }}
+                                <a href="{{ .RelPermalink }}" class="note-permalink" title="Permalink to this note">#</a>
                             </article>
                         </div>
                     </div>

@@ -47,8 +47,9 @@ def process_images(content, post_dir):
             content = content.replace(img_url, local_img_path)
     return content
 
-def create_hugo_content(entry, output_dir):
-    title = entry.get('title', 'Untitled')
+def create_hugo_content(entry, output_dir, note_id):
+    sub_title = entry.get('title', None)
+    title = f"Note #{note_id}"
     content = entry.get('content_html') or entry.get('content_text', '')
     date_str = entry.get('date_published', datetime.now().isoformat())
     post_url = entry.get('url', '')
@@ -60,8 +61,8 @@ def create_hugo_content(entry, output_dir):
 
     slug = slugify(title)
 
-    # Use the full timestamp in the filename
-    base_filename = f"{date.strftime('%Y-%m-%d-%H-%M-%S')}-{slug}"
+    # Use the full timestamp and note_id in the filename
+    base_filename = f"{date.strftime('%Y-%m-%d-%H-%M-%S')}-{note_id:04d}-{slug}"
 
     img_pattern = re.compile(r'<img[^>]+src="[^">]+"')
     has_images = bool(img_pattern.search(content))
@@ -83,12 +84,13 @@ def create_hugo_content(entry, output_dir):
     content = html_to_markdown(content)
 
     # Create a frontmatter.Post object
-    # post = frontmatter.loads(content)
     post = frontmatter.loads(content)
     post['title'] = title
+    post['sub_title'] = sub_title
     post['date'] = date
     post['draft'] = False
-    post['origina_url'] = post_url
+    post['original_url'] = post_url
+    post['note_id'] = note_id
 
     with open(file_path, 'w', encoding='utf-8') as f:
         f.write(frontmatter.dumps(post))
@@ -106,11 +108,27 @@ def main():
 
     feed_data = download_json_feed(json_feed_url)
 
-    for entry in feed_data.get('items', []):
-        create_hugo_content(entry, hugo_content_dir)
+    # Sort entries by date_published
+    sorted_entries = sorted(
+        feed_data.get('items', []),
+        key=lambda x: datetime.fromisoformat(x.get('date_published', datetime.now().isoformat())),
+        reverse=False  # Oldest first
+    )
 
-    print(f"Processed {len(feed_data.get('items', []))} entries.")
+    # Get the current highest note_id
+    existing_files = os.listdir(hugo_content_dir)
+    highest_id = 0
+    for filename in existing_files:
+        match = re.search(r'-(\d{4})-', filename)
+        if match:
+            file_id = int(match.group(1))
+            highest_id = max(highest_id, file_id)
+
+    # Process entries
+    for i, entry in enumerate(sorted_entries, start=highest_id+1):
+        create_hugo_content(entry, hugo_content_dir, i)
+
+    print(f"Processed {len(sorted_entries)} entries.")
 
 if __name__ == "__main__":
-
     main()

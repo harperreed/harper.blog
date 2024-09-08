@@ -19,6 +19,7 @@ nofeedSections = [ "page", "posts" ]
 mainSections = [ "post" ]
 images = ['https://harper.blog/images/og.png']
 notes_pagination = 10
+customcss = ["css/notes.css"]
 
 [author]
 name = "Harper Reed"
