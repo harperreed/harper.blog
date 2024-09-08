@@ -8,5 +8,5 @@ paginate = 5
 
 defaultContentLanguage = "en"
 author = "Harper Reed"
-disableKinds = [ "taxonomy", "term" ]
+disableKinds = [  ]
 timeZone = "America/Chicago"
