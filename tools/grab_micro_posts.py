@@ -81,20 +81,26 @@ def create_hugo_content(entry, output_dir):
             return
 
     content = html_to_markdown(content)
+
+    # Create a frontmatter.Post object
+    # post = frontmatter.loads(content)
     post = frontmatter.loads(content)
     post['title'] = title
     post['date'] = date
     post['draft'] = False
     post['url'] = post_url
 
-    with open(file_path, 'w') as f:
+    with open(file_path, 'w', encoding='utf-8') as f:
         f.write(frontmatter.dumps(post))
 
     print(f"Created new post: {file_path}")
 
 def main():
-    json_feed_url = os.getenv('JSON_FEED_URL', 'https://example.com/feed.json')
-    hugo_content_dir = os.getenv('HUGO_CONTENT_DIR', 'path/to/hugo/content/notes')
+    json_feed_url = os.getenv('JSON_FEED_URL')
+    hugo_content_dir = os.getenv('HUGO_CONTENT_DIR')
+
+    if not json_feed_url or not hugo_content_dir:
+        raise ValueError("JSON_FEED_URL and HUGO_CONTENT_DIR must be set in the .env file")
 
     os.makedirs(hugo_content_dir, exist_ok=True)
 
@@ -106,4 +112,5 @@ def main():
     print(f"Processed {len(feed_data.get('items', []))} entries.")
 
 if __name__ == "__main__":
+
     main()
