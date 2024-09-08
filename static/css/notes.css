@@ -1,0 +1,38 @@
+.note-permalink {
+    font-size: 0.8em;
+    color: #999;
+    text-decoration: none;
+    vertical-align: super;
+}
+
+.note-permalink:hover {
+    color: #333;
+}
+
+.note-content img {
+    max-width: 100%;
+    height: auto;
+    margin: 1em 0;
+}
+
+.note {
+    margin-bottom: 2em;
+}
+
+.note-images {
+    margin-bottom: 1em;
+}
+
+.note-images img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 0.5em;
+}
+
+.note-header {
+    margin-bottom: 1em;
+}
+
+.note-content {
+    line-height: 1.6;
+}
