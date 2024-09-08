@@ -1,7 +1,13 @@
-{{ define "main" }} {{ .Content }} {{ range first 1 .Data.Pages }}
+{{ define "main" }}
+<h1 class="page-title">{{ .Page.Title }}</h1>
+
+{{ .Content }}
+
+{{ range first 1 .Data.Pages }}
 <div class="post markdown">{{.Content}}</div>
 <i>updated {{.Date.Format "Jan 2, 2006"}}</i>
 {{end}}
+
 <hr />
 <div>
     <h3>Past "nows:"</h3>
