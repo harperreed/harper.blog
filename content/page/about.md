@@ -9,7 +9,7 @@ weight: 6
 menu:
   main:
     name: About
-    weight: 2
+    weight: 4
   footer:
     name: About
     weight: 2
