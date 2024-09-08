@@ -67,7 +67,7 @@ def create_hugo_content(entry, output_dir, note_id):
     slug = slugify(title)
 
     # Use the full timestamp and note_id in the filename
-    base_filename = f"{date.strftime('%Y-%m-%d-%H-%M-%S')}-{note_id:04d}-{slug}"
+    base_filename = f"{date.strftime('%Y-%m-%d-%H-%M-%S')}-{slug}"
 
     post_dir = os.path.join(output_dir, base_filename)
     if os.path.exists(post_dir):

@@ -19,7 +19,7 @@ nofeedSections = [ "page", "posts" ]
 mainSections = [ "post" ]
 images = ['https://harper.blog/images/og.png']
 default_social_image = "https://harper.blog/images/og.png"
-social_image_gen = false
+social_image_gen = true
 notes_pagination = 10
 customcss = ["css/notes.css"]
 
