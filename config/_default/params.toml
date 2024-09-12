@@ -15,13 +15,13 @@ wordCount = false
 homepage = false
 readingTime = false
 fullRSS = true
-nofeedSections = [ "page", "posts" ]
-mainSections = [ "post" ]
+nofeedSections = ["page", "posts"]
+mainSections = ["post"]
 images = ['https://harper.blog/images/og.png']
 default_social_image = "https://harper.blog/images/og.png"
 social_image_gen = false
 notes_pagination = 10
-customcss = ["css/notes.css"]
+customcss = ["css/notes.css", "css/outofdate.css"]
 
 [author]
 name = "Harper Reed"
