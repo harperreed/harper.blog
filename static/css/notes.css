@@ -16,7 +16,7 @@
 .note-images {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 30px;
     margin-top: 0px;
 }
 
@@ -26,12 +26,36 @@
     height: auto;
 }
 
-.note-images img {
+/* .note-images img {
     max-width: 100%;
     height: auto;
     object-fit: cover;
-}
+    border: 1px solid #000;
+} */
 
 .note-content p {
     margin: 0;
 }
+
+.note-images img {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    border: none;
+    padding: 10px; /* Adjust the padding to make the border appear larger */
+    background-color: white; /* White background to mimic the Polaroid border */
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.3); /* Adds a subtle shadow for depth */
+    border-radius: 5px; /* Slightly rounded corners for a softer look */
+    marging: 2px;
+}
+
+/* .note-images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px; /* Creates spacing around the image */
+    background-color: white;
+    border: 1px solid #e0e0e0; /* Subtle outer border like a Polaroid frame */
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.5); /* Stronger shadow for Polaroid effect */
+    width: fit-content; /* Ensures the border hugs the image */
+} */
