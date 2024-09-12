@@ -3,24 +3,33 @@
 {{ .Content }}
 <ul class="posts flat">
     {{- $paginator := .Paginate .Data.Pages .Site.Params.notes_pagination }} {{-
-    range $paginator.Pages }} {{- if (in .Site.Params.excludedTypes .Type) }}
-    {{- else }}
+    $.Scratch.Set "lastDate" "" }} {{- range $paginator.Pages }} {{- if (not (in
+    .Site.Params.excludedTypes .Type)) }}
     <li class="post">
         <div class="post-header">
+            {{- $currentDate := .Date.Format "2006-01-02" }} {{- $lastDate :=
+            $.Scratch.Get "lastDate" }} {{- if ne $currentDate $lastDate }}
             <div class="meta">
                 <div class="date">
                     <span class="day">{{ dateFormat "02" .Date }}</span>
-                    <span class="rest"
-                        >{{ if $.Site.Data.month }}{{ index $.Site.Data.month
-                        (printf "%d" .Date.Month) }} {{ .Date.Year }}{{ else
-                        }}{{ dateFormat "Jan 2006" .Date }}{{ end }}</span
-                    >
+                    <span class="rest">
+                        {{- if $.Site.Data.month }} {{ index $.Site.Data.month
+                        (printf "%d" .Date.Month) }} {{ .Date.Year }} {{- else
+                        }} {{ dateFormat "Jan 2006" .Date }} {{- end }}
+                    </span>
                 </div>
             </div>
+            {{- $.Scratch.Set "lastDate" $currentDate }} {{ else }}
+            <div class="meta">
+                <div class="date">
+                    <span class="day"></span>
+                    <span class="rest"> </span>
+                </div>
+            </div>
+            {{- end }}
             <div class="matter">
                 <article>
-                    <h3 class="title small">{{.Title}}</h3>
-
+                    <!-- <h3 class="title small">{{.Title}}</h3> -->
                     <div class="note-content">{{ .Content }}</div>
                     {{- $postLink := .RelPermalink }} {{- with .Resources.ByType
                     "image" }}
