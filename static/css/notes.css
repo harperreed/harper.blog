@@ -3,7 +3,6 @@
     color: #999;
     text-decoration: none;
     vertical-align: super;
-
 }
 
 .note-permalink:hover {
@@ -11,28 +10,19 @@
 }
 
 .note-images {
-    margin-bottom: 1em;
-}
-
-.note-images {
     display: flex;
     flex-wrap: wrap;
-    gap: 30px;
-    margin-top: 0px;
+    gap: 20px; /* Reduced gap for better mobile layout */
+    margin-top: 0;
+    margin-bottom: 1em;
 }
 
 .note-images a {
     display: block;
-    width: 600px;
+    width: 100%; /* Changed from fixed 600px to 100% for responsiveness */
+    max-width: 600px; /* Max width for larger screens */
     height: auto;
 }
-
-/* .note-images img {
-    max-width: 100%;
-    height: auto;
-    object-fit: cover;
-    border: 1px solid #000;
-} */
 
 .note-content p {
     margin: 0;
@@ -43,20 +33,25 @@
     height: auto;
     object-fit: cover;
     border: none;
-    padding: 10px; /* Adjust the padding to make the border appear larger */
-    background-color: white; /* White background to mimic the Polaroid border */
-    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.3); /* Adds a subtle shadow for depth */
-    border-radius: 5px; /* Slightly rounded corners for a softer look */
-    marging: 2px;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    margin: 2px; /* Fixed typo: changed 'marging' to 'margin' */
 }
 
-/* .note-images {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 20px; /* Creates spacing around the image */
-    background-color: white;
-    border: 1px solid #e0e0e0; /* Subtle outer border like a Polaroid frame */
-    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.5); /* Stronger shadow for Polaroid effect */
-    width: fit-content; /* Ensures the border hugs the image */
-} */
+/* Media query for mobile devices */
+@media screen and (max-width: 768px) {
+    .note-images {
+        gap: 10px; /* Further reduce gap on smaller screens */
+    }
+
+    .note-images a {
+        width: 100%; /* Full width on mobile */
+    }
+
+    .note-images img {
+        padding: 5px; /* Smaller padding on mobile */
+        border-radius: 3px; /* Slightly smaller border-radius */
+    }
+}
