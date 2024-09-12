@@ -3,6 +3,7 @@
     color: #999;
     text-decoration: none;
     vertical-align: super;
+
 }
 
 .note-permalink:hover {
@@ -22,7 +23,7 @@
 
 .note-images a {
     display: block;
-    width: 300px;
+    width: 600px;
     height: auto;
 }
 
