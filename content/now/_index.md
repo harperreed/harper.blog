@@ -6,7 +6,7 @@ url: /now
 nofeed: true
 menu:
     main:
-        weight: 1
+        weight: 3
         identifier: now
         name: Now
 
