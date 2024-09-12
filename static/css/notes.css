@@ -1,5 +1,5 @@
 .note-permalink {
-    font-size: 0.8em;
+    font-size: 1em;
     color: #999;
     text-decoration: none;
     vertical-align: super;
@@ -9,19 +9,15 @@
     color: #333;
 }
 
-
-
-
 .note-images {
     margin-bottom: 1em;
 }
-
 
 .note-images {
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
-    margin-top: 20px;
+    margin-top: 0px;
 }
 
 .note-images a {
@@ -34,4 +30,8 @@
     max-width: 100%;
     height: auto;
     object-fit: cover;
+}
+
+.note-content p {
+    margin: 0;
 }
