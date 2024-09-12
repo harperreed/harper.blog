@@ -52,10 +52,32 @@ def process_images(content, post_dir):
     content = re.sub(r'\n\s*\n', '\n\n', content)
     return content.strip()
 
+def get_highest_note_id(hugo_content_dir):
+    highest_note_id = 0
+    for root, dirs, files in os.walk(hugo_content_dir):
+        for file in files:
+            if file == "index.md":
+                file_path = os.path.join(root, file)
+                try:
+                    with open(file_path, 'r', encoding='utf-8') as f:
+                        post = frontmatter.load(f)
+                        if 'note_id' in post.metadata:
+                            current_id = post.metadata['note_id']
+                            print(f"Found note_id: {current_id} in file: {file_path}")
+                            if isinstance(current_id, int):
+                                highest_note_id = max(highest_note_id, current_id)
+                            else:
+                                print(f"Warning: non-integer note_id found: {current_id} in file: {file_path}")
+                except Exception as e:
+                    print(f"Error reading file {file_path}: {str(e)}")
+
+    print(f"Highest Note ID found: {highest_note_id}")
+    return highest_note_id
+
 def create_hugo_content(entry, output_dir, note_id):
     sub_title = entry.get('title', "Untitled")
     title = f"Note #{note_id}"
-    content = entry.get('content_html') or entry.get('content_text', '')
+    content = entry.get('content_text') or entry.get('content_html', '')
     date_str = entry.get('date_published', datetime.now().isoformat())
     post_url = entry.get('url', '')
 
@@ -64,15 +86,13 @@ def create_hugo_content(entry, output_dir, note_id):
     except ValueError:
         date = datetime.now()
 
-    slug = slugify(title)
-
-    # Use the full timestamp and note_id in the filename
     base_filename = f"{date.strftime('%Y-%m-%d-%H-%M-%S')}-{slugify(sub_title)}"
-
     post_dir = os.path.join(output_dir, base_filename)
+    
     if os.path.exists(post_dir):
         print(f"Post already exists: {post_dir}")
-        return
+        return False
+
     os.makedirs(post_dir, exist_ok=True)
 
     content = html_to_markdown(content)
@@ -80,7 +100,6 @@ def create_hugo_content(entry, output_dir, note_id):
 
     file_path = os.path.join(post_dir, "index.md")
 
-    # Create a frontmatter.Post object
     post = frontmatter.loads(content)
     post['title'] = title
     post['sub_title'] = sub_title
@@ -92,7 +111,8 @@ def create_hugo_content(entry, output_dir, note_id):
     with open(file_path, 'w', encoding='utf-8') as f:
         f.write(frontmatter.dumps(post))
 
-    print(f"Created new post: {file_path}")
+    print(f"Created new post: {file_path} with Note ID: {note_id}")
+    return True
 
 def main():
     json_feed_url = os.getenv('JSON_FEED_URL')
@@ -105,27 +125,25 @@ def main():
 
     feed_data = download_json_feed(json_feed_url)
 
-    # Sort entries by date_published
     sorted_entries = sorted(
         feed_data.get('items', []),
         key=lambda x: datetime.fromisoformat(x.get('date_published', datetime.now().isoformat())),
-        reverse=False  # Oldest first
+        reverse=False
     )
 
-    # Get the current highest note_id
-    existing_files = os.listdir(hugo_content_dir)
-    highest_id = 0
-    for filename in existing_files:
-        match = re.search(r'-(\d{4})-', filename)
-        if match:
-            file_id = int(match.group(1))
-            highest_id = max(highest_id, file_id)
+    highest_note_id = get_highest_note_id(hugo_content_dir)
+    print(f"Starting with highest Note ID: {highest_note_id}")
 
-    # Process entries
-    for i, entry in enumerate(sorted_entries, start=highest_id+1):
-        create_hugo_content(entry, hugo_content_dir, i)
+    new_posts_created = 0
+    for entry in sorted_entries:
+        new_note_id = highest_note_id + new_posts_created + 1
+        print(f"Attempting to create post with Note ID: {new_note_id}")
+        if create_hugo_content(entry, hugo_content_dir, new_note_id):
+            new_posts_created += 1
 
     print(f"Processed {len(sorted_entries)} entries.")
+    print(f"Created {new_posts_created} new posts.")
+    print(f"New highest Note ID: {highest_note_id + new_posts_created}")
 
 if __name__ == "__main__":
     main()
