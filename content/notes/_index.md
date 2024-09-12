@@ -1,6 +1,6 @@
 ---
 title: Notes
-lastmod: '2017-12-04'
+lastmod: "2017-12-04"
 
 url: /notes
 nofeed: true
@@ -10,9 +10,8 @@ menu:
         weight: 2
         identifier: notes
         name: Notes
-
 ---
 
-A colleciton of snaps, notes and thoughts. Mostly short form. Long stuff is in the [blog](/archives).
+A colleciton of snaps, notes and thoughts. Mostly short form. Long stuff is in the [blog](/posts).
 
 ---
