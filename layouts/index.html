@@ -13,8 +13,13 @@
                 $thumbnail := .Fill "300x200 Smart" }}
                 <img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Title }}" />
                 {{- end }} {{- end }}
-                <div class="note-summary">
-                    <p>{{ .Summary }}</p>
+                <div class="note-content">
+                    <div class="note-summary">
+                        <p>{{ .Summary | truncate 120 }}</p>
+                    </div>
+                    <div class="note-date">
+                        <p>Posted on {{ .Date.Format "January 2, 2006" }}</p>
+                    </div>
                 </div>
             </a>
         </article>
