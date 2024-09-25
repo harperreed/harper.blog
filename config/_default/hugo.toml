@@ -8,5 +8,9 @@ paginate = 5
 
 defaultContentLanguage = "en"
 author = "Harper Reed"
-disableKinds = [  ]
+disableKinds = []
 timeZone = "America/Chicago"
+
+
+[services.rss]
+limit = 20 # Or any other number
