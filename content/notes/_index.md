@@ -13,5 +13,3 @@ menu:
 ---
 
 A collection of snaps, notes and thoughts. Mostly short form. Long stuff is in the [blog](/posts).
-
----

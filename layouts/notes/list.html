@@ -1,6 +1,7 @@
 {{- define "main" }}
 <h1 class="page-title">Notes</h1>
-{{ .Content }}
+
+<div class="notes-desc">{{ .Content }}</div>
 <ul class="posts flat">
     {{- $paginator := .Paginate .Data.Pages .Site.Params.notes_pagination }} {{-
     $.Scratch.Set "lastDate" "" }} {{- range $paginator.Pages }} {{- if (not (in
