@@ -31,6 +31,6 @@ Eras of my blog:
 
 Total posts since 2000: **{{< postcount 2000 "now" >}}**
 
-# All Posts
+## All Posts
 
 ---
