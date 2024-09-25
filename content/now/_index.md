@@ -1,6 +1,6 @@
 ---
 title: Now
-lastmod: '2017-12-04'
+lastmod: "2017-12-04"
 
 url: /now
 nofeed: true
@@ -9,6 +9,7 @@ menu:
         weight: 3
         identifier: now
         name: Now
-
 ---
-Inspired by [@NowNowNow.](https://nownownow.com/) A simple way to see whats happening now.
+
+This page is meant to be simple view into what is happening in my life
+right **now**. Inspired by [@NowNowNow.](https://nownownow.com/) and Derek Sivers.

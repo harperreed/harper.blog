@@ -1,14 +1,14 @@
 {{ define "main" }}
 <h1 class="page-title">{{ .Page.Title }}</h1>
 
-{{ .Content }}
-
+<div class="now-desc">{{ .Content }}</div>
 {{ range first 1 .Data.Pages }}
+
 <div class="post markdown">{{.Content}}</div>
-<i>updated {{.Date.Format "Jan 2, 2006"}}</i>
+
+<div class="now-date">Last Updated: {{.Date.Format "Jan 2, 2006"}}</div>
 {{end}}
 
-<hr />
 <div>
     <h3>Past "nows:"</h3>
     <ul style="list-style-type: none; padding: 0px">
