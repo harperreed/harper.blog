@@ -9,8 +9,8 @@ jobs:
     update-micro-posts:
         runs-on: ubuntu-latest
         env:
-            NOTES_JSON_FEED_URL: ${{ secrets.JSON_FEED_URL }}
-            NOTES_HUGO_CONTENT_DIR: ./content/notes
+            LINKS_RSS_URL: ${{ secrets.LINKS_RSS_URL }}
+            HUGO_CONTENT_DIR: ./content/links
 
         steps:
             - name: Check out repository
@@ -27,7 +27,7 @@ jobs:
                   pip install -r ./tools/requirements.txt
 
             - name: Run script
-              run: python ./tools/grab_micro_posts.py
+              run: python ./tools/grab_starred_links.py
 
             - name: Commit and push if changes
               run: |
