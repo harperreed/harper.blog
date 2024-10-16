@@ -1,0 +1,48 @@
+/* Styles for the links list */
+
+.links-article p {
+    margin-top: 0;
+    font-weight: bold;
+}
+
+.links-collection {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.links-collection .link {
+    position: relative;
+    padding-left: 15px;
+    margin-bottom: 8px;
+}
+
+.links-collection .link::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #888;
+}
+
+.link-permalink {
+    font-size: 1em;
+    vertical-align: super;
+    text-decoration: none;
+}
+
+.link-permalink .link-title {
+    transition: color 0.3s ease;
+}
+
+.link-permalink .link-domain {
+    color: #888;
+    transition: color 0.3s ease;
+}
+
+/* Hover states */
+.link-permalink:hover .link-title {
+    color: #004080;
+}
+
+.link-permalink:hover .link-domain {
+    color: #666;
+}
