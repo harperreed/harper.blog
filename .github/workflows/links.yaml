@@ -1,4 +1,4 @@
-name: Run Micro Posts Script
+name: Run Starred Links Script
 
 on:
     schedule:
@@ -6,7 +6,7 @@ on:
     workflow_dispatch: # Allows manual triggering
 
 jobs:
-    update-micro-posts:
+    update-starred-links:
         runs-on: ubuntu-latest
         env:
             LINKS_RSS_URL: ${{ secrets.LINKS_RSS_URL }}
