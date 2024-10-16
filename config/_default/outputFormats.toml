@@ -1,0 +1,8 @@
+[LinksRSS]
+mediaType = "application/rss+xml"
+baseName = "links"
+isPlainText = false
+rel = "alternate"
+isHTML = false
+noUgly = true
+permalinkable = false
