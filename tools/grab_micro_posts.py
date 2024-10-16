@@ -115,11 +115,11 @@ def create_hugo_content(entry, output_dir, note_id):
     return True
 
 def main():
-    json_feed_url = os.getenv('JSON_FEED_URL')
-    hugo_content_dir = os.getenv('HUGO_CONTENT_DIR')
+    json_feed_url = os.getenv('NOTES_JSON_FEED_URL')
+    hugo_content_dir = os.getenv('NOTES_HUGO_CONTENT_DIR')
 
     if not json_feed_url or not hugo_content_dir:
-        raise ValueError("JSON_FEED_URL and HUGO_CONTENT_DIR must be set in the .env file")
+        raise ValueError("NOTES_JSON_FEED_URL and NOTES_HUGO_CONTENT_DIR must be set in the .env file")
 
     os.makedirs(hugo_content_dir, exist_ok=True)
 
