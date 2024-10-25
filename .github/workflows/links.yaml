@@ -24,7 +24,7 @@ jobs:
 
             - name: Run links script
               working-directory: ./tools
-              run: uv run ./tools/grab_starred_links.py
+              run: uv run grab_starred_links.py
 
             - name: Commit and push if changes
               run: |
