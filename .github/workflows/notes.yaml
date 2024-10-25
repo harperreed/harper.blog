@@ -21,7 +21,10 @@ jobs:
               with:
                   version: "latest"
 
+            # - name: Install dependencies
+            #   run: uv pip install -r requirements.txt
             - name: Run script
+              working-directory: ./tools
               run: uv run ./tools/grab_micro_posts.py
 
             - name: Commit and push if changes
