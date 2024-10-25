@@ -20,8 +20,10 @@ jobs:
               uses: astral-sh/setup-uv@v3
               with:
                   version: "latest"
+                  enable-cache: true
 
-            - name: Run script
+            - name: Run links script
+              working-directory: ./tools
               run: uv run ./tools/grab_starred_links.py
 
             - name: Commit and push if changes
