@@ -16,18 +16,13 @@ jobs:
             - name: Check out repository
               uses: actions/checkout@v2
 
-            - name: Set up Python
-              uses: actions/setup-python@v2
+            - name: Install the latest version of uv
+              uses: astral-sh/setup-uv@v3
               with:
-                  python-version: "3.x"
-
-            - name: Install dependencies
-              run: |
-                  python -m pip install --upgrade pip
-                  pip install -r ./tools/requirements.txt
+                  version: "latest"
 
             - name: Run script
-              run: python ./tools/grab_micro_posts.py
+              run: uv run ./tools/grab_micro_posts.py
 
             - name: Commit and push if changes
               run: |
