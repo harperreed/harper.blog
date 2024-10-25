@@ -26,7 +26,7 @@ jobs:
             #   run: uv pip install -r requirements.txt
             - name: Run note grabbing script
               working-directory: ./tools
-              run: uv run ./tools/grab_micro_posts.py
+              run: uv run grab_micro_posts.py
 
             - name: Commit and push if changes
               run: |
