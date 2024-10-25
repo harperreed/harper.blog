@@ -10,7 +10,7 @@ jobs:
         runs-on: ubuntu-latest
         env:
             LINKS_RSS_URL: ${{ secrets.LINKS_RSS_URL }}
-            LINKS_HUGO_CONTENT_DIR: ./content/links
+            LINKS_HUGO_CONTENT_DIR: ../content/links
 
         steps:
             - name: Check out repository
