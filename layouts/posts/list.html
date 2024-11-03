@@ -26,7 +26,8 @@
                         <a href="{{ .Permalink }}" class="text-gray-900 hover:text-blue-600">{{ .Title }}</a>
                     </h2>
                     <div class="text-gray-600 text-sm mb-4">
-                        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format site.Params.dateFormat | default "January 2, 2006" }}</time>
+                        <time datetime="{{ .Date.Format "2006-01-02" }}">
+                            {{ .Date.Format site.Params.dateFormat | default "January 2, 2006" }}</time>
                         {{ with .Params.tags }}
                         <span class="mx-2">•</span>
                         <span>
