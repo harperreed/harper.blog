@@ -7,13 +7,17 @@
             <h2 class="text-2xl font-bold mb-2">
                 <a href="{{ .Permalink }}" class="text-gray-900 hover:text-blue-600">{{ .Title }}</a>
             </h2>
-            <div class="text-gray-600 text-sm mb-4">
-                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+            <div class="text-gray-600 text-sm mb-4" role="contentinfo">
+                <time datetime="{{ .Date.Format "2006-01-02" }}" aria-label="Published on {{ .Date.Format "January 2, 2006" }}">
+                    {{ .Date.Format "January 2, 2006" }}
+                </time>
             </div>
             {{ with .Summary }}
             <div class="text-gray-700 mb-4">{{ . }}</div>
             {{ end }}
-            <a href="{{ .Permalink }}" class="text-blue-600 hover:text-blue-800">Read more →</a>
+            <a href="{{ .Permalink }}" class="text-blue-600 hover:text-blue-800" aria-label="Read more about {{ .Title }}">
+                Read more <span class="sr-only">about {{ .Title }}</span> →
+            </a>
         </article>
         {{ end }}
     </div>
