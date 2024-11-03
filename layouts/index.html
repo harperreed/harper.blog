@@ -42,7 +42,7 @@
         <h2 class="text-2xl font-bold mb-8">Latest Posts</h2>
         <div class="space-y-8">
             {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
-            <article class="bg-white p-6 rounded-lg shadow-sm hover:shadow-md transition-shadow">
+            <article class="bg-white p-6 rounded-lg shadow-sm hover:shadow-md transition-shadow border-2">
                 <div class="md:flex md:items-start md:gap-8">
                     {{ with .Params.image }}
                     <div class="md:w-1/4 mb-4 md:mb-0">
@@ -53,7 +53,7 @@
                     </div>
                     {{ end }}
                     <div class="md:flex-1">
-                        <h3 class="text-xl font-bold mb-2">
+                        <h3 class="text-xl font-bold mb-2"></h3>
                             <a href="{{ .Permalink }}" class="text-gray-900 hover:text-blue-600">{{ .Title }}</a>
                         </h3>
                         <div class="text-gray-600 text-sm mb-4">

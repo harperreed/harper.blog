@@ -1,78 +1,108 @@
 {{ define "main" }}
 <div class="max-w-3xl mx-auto px-4">
-    <h1 class="text-3xl font-bold mb-6">Links</h1>
-    
-    <div class="prose mb-8">
-        {{ .Content }}
+  <h1 class="text-3xl font-bold mb-6">Links</h1>
+
+  <div class="prose mb-8">{{ .Content }}</div>
+
+  <!-- Links Stream -->
+  <div class="space-y-12">
+    {{ $paginator := .Paginate .Data.Pages .Site.Params.links_pagination }} {{
+    $.Scratch.Set "currentDate" "" }} {{ $.Scratch.Set "currentDayLinks" slice
+    }} {{ range $index, $page := $paginator.Pages }} {{ if (not (in
+    $.Site.Params.excludedTypes .Type)) }} {{ $postDate := .Date.Format
+    "2006-01-02" }} {{ $currentDate := $.Scratch.Get "currentDate" }} {{
+    $isLastPage := eq (add $index 1) (len $paginator.Pages) }} {{ if or (ne
+    $postDate $currentDate) $isLastPage }} {{ if ne $currentDate "" }} {{
+    $dayLinks := $.Scratch.Get "currentDayLinks" }}
+    <article class="bg-white rounded-lg shadow-sm p-6">
+      <!-- Date Header -->
+      <div class="flex items-baseline mb-4">
+        <span class="text-3xl font-bold text-gray-900 mr-2">
+          {{ dateFormat "02" (time $currentDate) }}
+        </span>
+        <span class="text-gray-600">
+          {{ dateFormat "January 2006" (time $currentDate) }}
+        </span>
+      </div>
+
+      <!-- Links List -->
+      <div class="border-t border-gray-100 pt-4">
+        <h2 class="text-sm text-gray-600 mb-4">
+          Links for {{ dateFormat "Monday, January 2, 2006" (time $currentDate)
+          }}
+        </h2>
+        <ul class="space-y-3">
+          {{ range $dayLinks }} {{ $url := urls.Parse .Params.original_url }}
+          <li class="group">
+            <a
+              href="{{ .Params.original_url }}"
+              target="_blank"
+              class="flex items-baseline hover:bg-gray-50 p-2 -mx-2 rounded transition-colors"
+            >
+              <span class="text-gray-900 group-hover:text-blue-600 flex-grow">
+                {{ .Content }}
+              </span>
+              <span
+                class="text-sm text-gray-500 group-hover:text-gray-700 ml-2"
+              >
+                ({{ $url.Hostname }})
+              </span>
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+    </article>
+    {{ end }} {{ $.Scratch.Set "currentDate" $postDate }} {{ $.Scratch.Set
+    "currentDayLinks" slice }} {{ end }} {{ $currentDayLinks := $.Scratch.Get
+    "currentDayLinks" }} {{ $.Scratch.Set "currentDayLinks" ($currentDayLinks |
+    append .) }} {{ if $isLastPage }} {{ $lastDayLinks := $.Scratch.Get
+    "currentDayLinks" }} {{ $.Scratch.Set "currentDayLinks" $lastDayLinks }} {{
+    end }} {{ end }} {{ end }}
+  </div>
+
+  <!-- Pagination -->
+  {{ if gt $paginator.TotalPages 1 }}
+  <nav class="mt-12 flex items-center justify-between" aria-label="Pagination">
+    <div class="flex flex-1 justify-between sm:justify-end gap-6">
+      {{ if $paginator.HasPrev }}
+      <a
+        href="{{ $paginator.Prev.URL }}"
+        class="relative inline-flex items-center rounded-md bg-white px-3 py-2 text-sm font-semibold text-gray-900 ring-1 ring-inset ring-gray-300 hover:bg-gray-50"
+      >
+        Previous
+      </a>
+      {{ else }}
+      <span
+        class="relative inline-flex items-center rounded-md bg-gray-100 px-3 py-2 text-sm font-semibold text-gray-400 ring-1 ring-inset ring-gray-300"
+      >
+        Previous
+      </span>
+      {{ end }}
+
+      <div class="hidden sm:flex sm:items-center">
+        <p class="text-sm text-gray-700">
+          Page <span class="font-medium">{{ $paginator.PageNumber }}</span> of
+          <span class="font-medium">{{ $paginator.TotalPages }}</span>
+        </p>
+      </div>
+
+      {{ if $paginator.HasNext }}
+      <a
+        href="{{ $paginator.Next.URL }}"
+        class="relative inline-flex items-center rounded-md bg-white px-3 py-2 text-sm font-semibold text-gray-900 ring-1 ring-inset ring-gray-300 hover:bg-gray-50"
+      >
+        Next
+      </a>
+      {{ else }}
+      <span
+        class="relative inline-flex items-center rounded-md bg-gray-100 px-3 py-2 text-sm font-semibold text-gray-400 ring-1 ring-inset ring-gray-300"
+      >
+        Next
+      </span>
+      {{ end }}
     </div>
-
-    <!-- Links Stream -->
-    <div class="space-y-12">
-        {{ $paginator := .Paginate .Data.Pages .Site.Params.links_pagination }}
-        {{ $.Scratch.Set "currentDate" "" }}
-        {{ $.Scratch.Set "currentDayLinks" slice }}
-
-        {{ range $index, $page := $paginator.Pages }}
-            {{ if (not (in $.Site.Params.excludedTypes .Type)) }}
-                {{ $postDate := .Date.Format "2006-01-02" }}
-                {{ $currentDate := $.Scratch.Get "currentDate" }}
-                {{ $isLastPage := eq (add $index 1) (len $paginator.Pages) }}
-
-                {{ if or (ne $postDate $currentDate) $isLastPage }}
-                    {{ if ne $currentDate "" }}
-                        {{ $dayLinks := $.Scratch.Get "currentDayLinks" }}
-                        <article class="bg-white rounded-lg shadow-sm p-6">
-                            <!-- Date Header -->
-                            <div class="flex items-baseline mb-4">
-                                <span class="text-3xl font-bold text-gray-900 mr-2">
-                                    {{ dateFormat "02" (time $currentDate) }}
-                                </span>
-                                <span class="text-gray-600">
-                                    {{ dateFormat "January 2006" (time $currentDate) }}
-                                </span>
-                            </div>
-
-                            <!-- Links List -->
-                            <div class="border-t border-gray-100 pt-4">
-                                <h2 class="text-sm text-gray-600 mb-4">
-                                    Links for {{ dateFormat "Monday, January 2, 2006" (time $currentDate) }}
-                                </h2>
-                                <ul class="space-y-3">
-                                    {{ range $dayLinks }}
-                                        {{ $url := urls.Parse .Params.original_url }}
-                                        <li class="group">
-                                            <a href="{{ .Params.original_url }}" 
-                                               target="_blank"
-                                               class="flex items-baseline hover:bg-gray-50 p-2 -mx-2 rounded transition-colors"></a>
-                                                <span class="text-gray-900 group-hover:text-blue-600 flex-grow">
-                                                    {{ .Content }}
-                                                </span>
-                                                <span class="text-sm text-gray-500 group-hover:text-gray-700 ml-2"></span>
-                                                    ({{ $url.Hostname }})
-                                                </span>
-                                            </a>
-                                        </li>
-                                    {{ end }}
-                                </ul>
-                            </div>
-                        </article>
-                    {{ end }}
-                    {{ $.Scratch.Set "currentDate" $postDate }}
-                    {{ $.Scratch.Set "currentDayLinks" slice }}
-                {{ end }}
-
-                {{ $currentDayLinks := $.Scratch.Get "currentDayLinks" }}
-                {{ $.Scratch.Set "currentDayLinks" ($currentDayLinks | append .) }}
-
-                {{ if $isLastPage }}
-                    {{ $lastDayLinks := $.Scratch.Get "currentDayLinks" }}
-                    {{ $.Scratch.Set "currentDayLinks" $lastDayLinks }}
-                {{ end }}
-            {{ end }}
-        {{ end }}
-    </div>
-
-    <!-- Pagination -->
-    {{ partial "pagination.html" . }}
+  </nav>
+  {{ end }}
 </div>
 {{ end }}
