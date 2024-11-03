@@ -1,15 +1,17 @@
 {{ define "main" }}
 <article class="max-w-3xl mx-auto bg-white dark:bg-gray-800 p-8 rounded-lg shadow-sm" role="main">
     <header class="mb-8">
-        <h1 class="text-4xl font-bold mb-4">{{ .Title }}</h1>
-        <div class="text-gray-600">
-            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+        <h1 class="text-4xl font-bold mb-4 dark:text-white">{{ .Title }}</h1>
+        <div class="text-gray-600 dark:text-gray-300">
+            <time datetime="{{ .Date.Format "2006-01-02" }}" aria-label="Published on {{ .Date.Format "January 2, 2006" }}">
+                {{ .Date.Format "January 2, 2006" }}
+            </time>
             {{ with .Params.tags }}
-            <div class="mt-4 flex flex-wrap gap-2">
+            <nav aria-label="Post tags" class="mt-4 flex flex-wrap gap-2">
                 {{ range . }}
-                <span class="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-sm">{{ . }}</span>
+                <span class="bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 px-3 py-1 rounded-full text-sm">{{ . }}</span>
                 {{ end }}
-            </div>
+            </nav>
             {{ end }}
         </div>
     </header>
