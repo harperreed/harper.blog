@@ -10,7 +10,9 @@
     </a>
 
     <!-- Date -->
-    <div class="text-gray-500 mb-4">{{ .Date.Format "January 2, 2006" }}</div>
+    <time datetime="{{ .Date.Format "2006-01-02" }}" class="text-gray-500 mb-4">
+        {{ .Date.Format "January 2, 2006" }}
+    </time>
 
     <!-- Content -->
     <div class="prose max-w-none mb-8">{{ .Content }}</div>
