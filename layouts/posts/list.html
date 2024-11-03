@@ -9,10 +9,16 @@
             <div class="md:flex md:items-start md:gap-8">
                 {{ with .Params.image }}
                 <div class="md:w-1/4 mb-4 md:mb-0">
-                    <img src="{{ . }}" 
-                         alt="{{ $.Title }}" 
+                    {{ $image := resources.Get . }}
+                    {{ with $image }}
+                    <img src="{{ .RelPermalink }}" 
+                         alt="{{ $.Params.image_alt | default $.Title }}" 
+                         width="{{ .Width }}"
+                         height="{{ .Height }}"
                          class="rounded-lg object-cover w-full h-48 md:h-32"
-                         loading="lazy">
+                         loading="lazy"
+                         onerror="this.style.display='none'">
+                    {{ end }}
                 </div>
                 {{ end }}
                 <div class="md:flex-1">
