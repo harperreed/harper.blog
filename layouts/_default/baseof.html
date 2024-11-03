@@ -11,8 +11,7 @@
     
     <meta name="description" content="{{ .Site.Params.description }}">
     <meta name="keywords" content="{{ .Site.Params.keywords }}" />
-    <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ with .OutputFormats.Get " RSS" }}{{
-      .RelPermalink }}{{ end }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">
     <meta name="author" content="Harper Reed <{{ .Site.Params.email }}>">
     
     {{ template "_internal/opengraph.html" . }}
