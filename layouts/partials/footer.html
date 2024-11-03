@@ -1,0 +1,46 @@
+<footer class="bg-white border-t">
+  <div class="container mx-auto px-4 py-12">
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+      <!-- About Section -->
+      <div class="col-span-1">
+        <h3 class="font-semibold text-gray-900 mb-4">About</h3>
+        <p class="text-gray-600 text-sm">{{ .Site.Params.description }}</p>
+      </div>
+
+      <!-- Footer Menu Sections -->
+      {{ range .Site.Menus.footer }} {{ if .HasChildren }}
+      <div class="col-span-1">
+        <h3 class="font-semibold text-gray-900 mb-4">{{ .Name }}</h3>
+        <ul class="space-y-2">
+          {{ range .Children }}
+          <li>
+            <a
+              href="{{ .URL }}"
+              class="text-gray-600 hover:text-gray-900 text-sm"
+              >{{ .Name }}</a
+            >
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }} {{ end }}
+
+      <!-- Social Links -->
+      <div class="col-span-1">
+        <h3 class="font-semibold text-gray-900 mb-4">Connect</h3>
+        <div class="flex space-x-4">
+          {{ range .Site.Menus.footer }}
+          <a href="{{ .URL }}" class="text-gray-600 hover:text-gray-900">
+            {{ .Name }}
+          </a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+    <!-- Copyright -->
+    <div class="border-t mt-8 pt-8 text-center text-gray-600 text-sm">
+      <p>&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
+    </div>
+  </div>
+</footer>

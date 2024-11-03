@@ -1,99 +1,91 @@
 {{ define "main" }}
-<div class="max-w-3xl mx-auto px-4">
-  <h1 class="text-3xl font-bold mb-6">Books</h1>
+<div class="article-body">
+  <h1 class="article-title">Books</h1>
   <div class="prose mb-8">{{ .Content }}</div>
-  
+
   <!-- Books Stream -->
   <div class="space-y-12">
-    {{ $paginator := .Paginate .Data.Pages .Site.Params.books_pagination }}
-    {{ $.Scratch.Set "currentMonth" "" }}
-    {{ $.Scratch.Set "currentMonthBooks" slice }}
-    
-    {{ range $index, $page := $paginator.Pages }}
-      {{ if (not (in $.Site.Params.excludedTypes .Type)) }}
-        {{ $postMonth := .Date.Format "2006-01-06" }}
-        {{ $currentMonth := $.Scratch.Get "currentMonth" }}
-        {{ $isLastPage := eq (add $index 1) (len $paginator.Pages) }}
-        
-        {{ if or (ne $postMonth $currentMonth) $isLastPage }}
-          {{ if ne $currentMonth "" }}
-            {{ $monthBooks := $.Scratch.Get "currentMonthBooks" }}
-            <article class="bg-white rounded-lg shadow-sm p-6">
-              <!-- Month Header -->
-              <div class="flex items-baseline mb-4">
-                <span class="text-2xl font-bold text-gray-900">
-                  {{ dateFormat "January 2006" (time $currentMonth) }}
-                </span>
-                <span class="text-gray-600 ml-2">
-                  ({{ len $monthBooks }} books)
-                </span>
-              </div>
-              
-              <!-- Books List -->
-              <div class="border-t border-gray-100 pt-4">
-                <ul class="space-y-6">
-                  {{ range $monthBooks }}
-                  <li class="group">
-                    <div class="flex items-start hover:bg-gray-50 p-3 -mx-3 rounded transition-colors">
-                      {{ if .Params.cover_image }}
-                      <img 
-                        src="{{ .Params.cover_image }}" 
-                        alt="Cover of {{ .Title }}"
-                        class="w-16 h-auto rounded shadow-sm mr-4"
-                      >
-                      {{ end }}
-                      
-                      <div class="flex-grow">
-                        <div class="flex items-baseline justify-between mb-1">
-                          <h3 class="font-medium text-lg text-gray-900 group-hover:text-blue-600">
-                            {{ .Title }}
-                          </h3>
-                          <span class="text-sm text-gray-500">
-                            {{ dateFormat "Jan 2" .Date }}
-                          </span>
-                        </div>
-                        
-                        {{ if .Params.author }}
-                        <p class="text-gray-600 text-sm mb-2">by {{ .Params.author }}</p>
-                        {{ end }}
-                        
-                        {{ if .Params.rating }}
-                        <div class="flex items-center mb-2">
-                          {{ range $i := (seq .Params.rating) }}
-                          <svg class="w-4 h-4 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
-                          </svg>
-                          {{ end }}
-                        </div>
-                        {{ end }}
-                        
-                        {{ if .Summary }}
-                        <p class="text-gray-700 text-sm">{{ .Summary }}</p>
-                        {{ end }}
-                      </div>
-                    </div>
-                  </li>
+    {{ $paginator := .Paginate .Data.Pages .Site.Params.books_pagination }} {{
+    $.Scratch.Set "currentMonth" "" }} {{ $.Scratch.Set "currentMonthBooks"
+    slice }} {{ range $index, $page := $paginator.Pages }} {{ if (not (in
+    $.Site.Params.excludedTypes .Type)) }} {{ $postMonth := .Date.Format
+    "2006-01-06" }} {{ $currentMonth := $.Scratch.Get "currentMonth" }} {{
+    $isLastPage := eq (add $index 1) (len $paginator.Pages) }} {{ if or (ne
+    $postMonth $currentMonth) $isLastPage }} {{ if ne $currentMonth "" }} {{
+    $monthBooks := $.Scratch.Get "currentMonthBooks" }}
+    <article class="bg-white rounded-lg shadow-sm p-6">
+      <!-- Month Header -->
+      <div class="flex items-baseline mb-4">
+        <span class="text-2xl font-bold text-gray-900">
+          {{ dateFormat "January 2006" (time $currentMonth) }}
+        </span>
+        <span class="text-gray-600 ml-2"> ({{ len $monthBooks }} books) </span>
+      </div>
+
+      <!-- Books List -->
+      <div class="border-t border-gray-100 pt-4">
+        <ul class="space-y-6">
+          {{ range $monthBooks }}
+          <li class="group">
+            <div
+              class="flex items-start hover:bg-gray-50 p-3 -mx-3 rounded transition-colors"
+            >
+              {{ if .Params.cover_image }}
+              <img
+                src="{{ .Params.cover_image }}"
+                alt="Cover of {{ .Title }}"
+                class="w-16 h-auto rounded shadow-sm mr-4"
+              />
+              {{ end }}
+
+              <div class="flex-grow">
+                <div class="flex items-baseline justify-between mb-1">
+                  <h3
+                    class="font-medium text-lg text-gray-900 group-hover:text-blue-600"
+                  >
+                    {{ .Title }}
+                  </h3>
+                  <span class="text-sm text-gray-500">
+                    {{ dateFormat "Jan 2" .Date }}
+                  </span>
+                </div>
+
+                {{ if .Params.author }}
+                <p class="text-gray-600 text-sm mb-2">
+                  by {{ .Params.author }}
+                </p>
+                {{ end }} {{ if .Params.rating }}
+                <div class="flex items-center mb-2">
+                  {{ range $i := (seq .Params.rating) }}
+                  <svg
+                    class="w-4 h-4 text-yellow-400"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                  >
+                    <path
+                      d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"
+                    />
+                  </svg>
                   {{ end }}
-                </ul>
+                </div>
+                {{ end }} {{ if .Summary }}
+                <p class="text-gray-700 text-sm">{{ .Summary }}</p>
+                {{ end }}
               </div>
-            </article>
+            </div>
+          </li>
           {{ end }}
-          
-          {{ $.Scratch.Set "currentMonth" $postMonth }}
-          {{ $.Scratch.Set "currentMonthBooks" slice }}
-        {{ end }}
-        
-        {{ $currentMonthBooks := $.Scratch.Get "currentMonthBooks" }}
-        {{ $.Scratch.Set "currentMonthBooks" ($currentMonthBooks | append .) }}
-        
-        {{ if $isLastPage }}
-          {{ $lastMonthBooks := $.Scratch.Get "currentMonthBooks" }}
-          {{ $.Scratch.Set "currentMonthBooks" $lastMonthBooks }}
-        {{ end }}
-      {{ end }}
-    {{ end }}
+        </ul>
+      </div>
+    </article>
+    {{ end }} {{ $.Scratch.Set "currentMonth" $postMonth }} {{ $.Scratch.Set
+    "currentMonthBooks" slice }} {{ end }} {{ $currentMonthBooks :=
+    $.Scratch.Get "currentMonthBooks" }} {{ $.Scratch.Set "currentMonthBooks"
+    ($currentMonthBooks | append .) }} {{ if $isLastPage }} {{ $lastMonthBooks
+    := $.Scratch.Get "currentMonthBooks" }} {{ $.Scratch.Set "currentMonthBooks"
+    $lastMonthBooks }} {{ end }} {{ end }} {{ end }}
   </div>
-  
+
   <!-- Pagination -->
   {{ partial "pagination.html" . }}
 </div>

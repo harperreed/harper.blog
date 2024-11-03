@@ -1,29 +1,31 @@
 {{ define "main" }}
-<div class="max-w-3xl mx-auto px-4">
-  <h1 class="text-3xl font-bold mb-6">Notes</h1>
+<div class="article-body">
+  <h1 class="article-title">Notes</h1>
 
-  <div class="prose mb-8">{{ .Content }}</div>
+  <div class="content">{{ .Content }}</div>
 
   <!-- Notes Stream -->
   <div class="space-y-12">
     {{ $paginator := .Paginate .Pages 10 }} {{ range $paginator.Pages }}
-    <article class="group">
+    <article
+      class="group border bg-white p-4 sm:p-6 sm:rounded-lg sm:shadow-sm sm:hover:shadow-md sm:transition-shadow"
+    >
       <!-- Date Header -->
-      <div class="text-sm text-gray-500 mb-2">
-        {{ .Date.Format "January 2, 2006" }}
-      </div>
+      <div class="article-date">{{ .Date.Format "January 2, 2006" }}</div>
 
       <!-- Note Content -->
-      <div class="prose max-w-none mb-4">{{ .Content }}</div>
+      <div class="content">{{ .Content }}</div>
 
       <!-- Images -->
       {{ with .Resources.ByType "image" }}
-      <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-4">
-        {{ range . }} {{ $image := .Resize "800x" }}
+      <div
+        class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-4 border flex justify-center"
+      >
+        {{ range . }} {{ $image := .Resize "800x webp" }}
         <img
           src="{{ $image.RelPermalink }}"
           alt="{{ with .Title }}{{ . }}{{ else }}Image{{ end }}"
-          class="rounded-lg shadow-sm hover:shadow-md transition-shadow"
+          class="rounded-lg shadow-sm hover:shadow-md transition-shadow w-full h-full object-cover aspect-ratio: auto;"
           loading="lazy"
         />
         {{ end }}

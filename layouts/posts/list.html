@@ -1,7 +1,11 @@
 {{ define "main" }}
-<div class="max-w-4xl mx-auto px-4">
+<div class="article-body">
+   
     <h1 class="text-3xl font-bold mb-8">Posts</h1>
-    <div class="prose mb-8">{{ .Content }}</div>
+
+    <div class="prose mb-8 border max-w-none">{{ .Content }}</div>
+
+
     <div class="space-y-8">
         {{ $paginator := .Paginate .Pages 5 }}
         {{ range $paginator.Pages }}

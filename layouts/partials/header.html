@@ -1,0 +1,16 @@
+<header class="bg-white shadow-sm">
+  <nav class="container mx-auto px-4 py-4">
+    <div class="flex justify-between items-center">
+      <a href="{{ .Site.BaseURL }}" class="text-xl font-bold text-gray-900"
+        >{{ .Site.Title }}</a
+      >
+      <div class="space-x-4">
+        {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}" class="text-gray-600 hover:text-gray-900"
+          >{{ .Name }}</a
+        >
+        {{ end }}
+      </div>
+    </div>
+  </nav>
+</header>
