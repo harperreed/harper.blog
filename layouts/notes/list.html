@@ -22,7 +22,7 @@
         {{ range . }} {{ $image := .Resize "800x" }}
         <img
           src="{{ $image.RelPermalink }}"
-          alt="{{ .Title }}"
+          alt="{{ with .Title }}{{ . }}{{ else }}Image{{ end }}"
           class="rounded-lg shadow-sm hover:shadow-md transition-shadow"
           loading="lazy"
         />
