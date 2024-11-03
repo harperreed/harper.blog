@@ -1,22 +1,39 @@
 {{ define "main" }}
-<h1 class="page-title">{{ .Page.Title }}</h1>
+<div class="max-w-3xl mx-auto px-4">
+    <!-- Page Title and Description -->
+    <h1 class="text-4xl font-bold mb-6">{{ .Page.Title }}</h1>
+    <div class="prose mb-12">{{ .Content }}</div>
 
-<div class="now-desc">{{ .Content }}</div>
-{{ range first 1 .Data.Pages }}
+    <!-- Current Now -->
+    {{ range first 1 .Data.Pages }}
+    <div class="bg-white rounded-lg shadow-sm p-8 mb-8">
+        <div class="prose max-w-none mb-4">{{.Content}}</div>
+        <div class="text-gray-600 text-sm italic">
+            Last Updated: {{.Date.Format "Jan 2, 2006"}}
+        </div>
+    </div>
+    {{end}}
 
-<div class="post markdown">{{.Content}}</div>
-
-<div class="now-date">Last Updated: {{.Date.Format "Jan 2, 2006"}}</div>
-{{end}}
-
-<div>
-    <h3>Past "nows:"</h3>
-    <ul style="list-style-type: none; padding: 0px">
-        {{ range after 1 .Data.Pages }}
-        <li>
-            <a href="{{ .RelPermalink }}">{{ .Date.Format "Jan 2, 2006" }}</a>
-        </li>
-        {{ end }}
-    </ul>
+    <!-- Past Nows -->
+    <div class="bg-gray-50 rounded-lg p-6">
+        <h3 class="text-xl font-semibold mb-4">Past "nows:"</h3>
+        <ul class="space-y-2">
+            {{ range after 1 .Data.Pages }}
+            <li class="hover:bg-white rounded transition-colors duration-200">
+                <a
+                    href="{{ .RelPermalink }}"
+                    class="block px-4 py-2 text-gray-700 hover:text-blue-600"
+                >
+                    {{ .Date.Format "Jan 2, 2006" }}
+                    <span
+                        class="text-gray-400 hover:text-blue-400 float-right"
+                        aria-hidden="true"
+                        >&rarr;</span
+                    >
+                </a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
 </div>
 {{ end }}

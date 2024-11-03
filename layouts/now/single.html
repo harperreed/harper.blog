@@ -1,13 +1,30 @@
 {{ define "main" }}
-<nav>
-    <a href="/now"><span aria-hidden="true">&larr;</span> Back to the current Now</a>
-</nav>
-<div style="padding-bottom: 50px">
-    <div>
-        <h2>Now from {{.Date.Format "Jan 2, 2006" }}</h2>
-    </div>
-    <div class="post markdown">{{ .Content }}</div>
-    <i>updated {{.Date.Format "Jan 2, 2006"}}</i>
-</div>
+<div class="max-w-3xl mx-auto px-4">
+    <!-- Navigation -->
+    <nav class="mb-8">
+        <a
+            href="/now"
+            class="inline-flex items-center text-blue-600 hover:text-blue-800 transition-colors"
+        >
+            <span aria-hidden="true" class="mr-2">&larr;</span>
+            Back to the current Now
+        </a>
+    </nav>
 
+    <!-- Content -->
+    <article class="bg-white rounded-lg shadow-sm p-8">
+        <header class="mb-6">
+            <h2 class="text-3xl font-bold">
+                Now from {{.Date.Format "Jan 2, 2006" }}
+            </h2>
+        </header>
+
+        <div class="prose max-w-none mb-6">{{ .Content }}</div>
+
+        <footer class="text-gray-600 text-sm italic">
+            Updated {{.Date.Format "Jan 2, 2006"}}
+        </footer>
+    </article>
+    x
+</div>
 {{ end }}
