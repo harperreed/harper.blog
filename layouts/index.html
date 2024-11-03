@@ -1,7 +1,10 @@
 {{ define "main" }}
 <div class="max-w-6xl mx-auto px-4">
+    <section class="mb-8">
+        <article class="prose max-w-none">{{ .Content }}</article>
+    </section>
     <!-- Notes Section -->
-    <section class="mb-16">
+    <section class="mb-8">
         <h2 class="text-2xl font-bold mb-6">Latest Notes</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
             {{ range first 3 (where .Site.RegularPages "Section" "notes") }}
