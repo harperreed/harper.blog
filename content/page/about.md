@@ -9,7 +9,7 @@ weight: 6
 menu:
   main:
     name: About
-    weight: 5
+    weight: 9
   footer:
     name: About
     weight: 2
@@ -19,7 +19,7 @@ My name is [Harper Reed](mailto:harper@modest.com). This is my blog. I have been
 
 ## About me
 
-I am a *computer operator* who likes to make things, have fun, and hang out on the internet. Also pranks.
+I am a _computer operator_ who likes to make things, have fun, and hang out on the internet. Also pranks.
 
 Please visit my main webpage at [harperreed.com](http://harperreed.com) for more information about me!
 
