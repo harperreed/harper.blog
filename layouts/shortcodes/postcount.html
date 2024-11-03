@@ -13,7 +13,7 @@
 {{ if eq $endYear $currentYear }}
   {{ $endDate = $currentDate }}
 {{ end }}
-{{ range where .Site.RegularPages "Section" "post" }}
+{{ range where .Site.RegularPages "Section" "posts" }}
   {{ $postYear := .Date.Year }}
   {{ if and (ge $postYear $startYear) (le $postYear $endYear) }}
     {{ $count = add $count 1 }}

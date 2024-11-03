@@ -43,11 +43,11 @@
                                         <li class="group">
                                             <a href="{{ .Params.original_url }}" 
                                                target="_blank"
-                                               class="flex items-baseline hover:bg-gray-50 p-2 -mx-2 rounded transition-colors">
+                                               class="flex items-baseline hover:bg-gray-50 p-2 -mx-2 rounded transition-colors"></a>
                                                 <span class="text-gray-900 group-hover:text-blue-600 flex-grow">
                                                     {{ .Content }}
                                                 </span>
-                                                <span class="text-sm text-gray-500 group-hover:text-gray-700 ml-2">
+                                                <span class="text-sm text-gray-500 group-hover:text-gray-700 ml-2"></span>
                                                     ({{ $url.Hostname }})
                                                 </span>
                                             </a>
@@ -73,39 +73,6 @@
     </div>
 
     <!-- Pagination -->
-    {{ if gt $paginator.TotalPages 1 }}
-    <nav class="mt-12 flex items-center justify-between" aria-label="Pagination">
-        <div class="flex flex-1 justify-between sm:justify-end gap-6">
-            {{ if $paginator.HasPrev }}
-            <a href="{{ $paginator.Prev.URL }}" 
-               class="relative inline-flex items-center rounded-md bg-white px-3 py-2 text-sm font-semibold text-gray-900 ring-1 ring-inset ring-gray-300 hover:bg-gray-50">
-                Previous
-            </a>
-            {{ else }}
-            <span class="relative inline-flex items-center rounded-md bg-gray-100 px-3 py-2 text-sm font-semibold text-gray-400 ring-1 ring-inset ring-gray-300">
-                Previous
-            </span>
-            {{ end }}
-
-            <div class="hidden sm:flex sm:items-center">
-                <p class="text-sm text-gray-700">
-                    Page <span class="font-medium">{{ $paginator.PageNumber }}</span> of
-                    <span class="font-medium">{{ $paginator.TotalPages }}</span>
-                </p>
-            </div>
-
-            {{ if $paginator.HasNext }}
-            <a href="{{ $paginator.Next.URL }}"
-               class="relative inline-flex items-center rounded-md bg-white px-3 py-2 text-sm font-semibold text-gray-900 ring-1 ring-inset ring-gray-300 hover:bg-gray-50">
-                Next
-            </a>
-            {{ else }}
-            <span class="relative inline-flex items-center rounded-md bg-gray-100 px-3 py-2 text-sm font-semibold text-gray-400 ring-1 ring-inset ring-gray-300">
-                Next
-            </span>
-            {{ end }}
-        </div>
-    </nav>
-    {{ end }}
+    {{ partial "pagination.html" . }}
 </div>
 {{ end }}

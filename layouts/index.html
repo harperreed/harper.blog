@@ -1,28 +1,33 @@
 {{ define "main" }}
-<div class="max-w-6xl mx-auto">
+<div class="max-w-6xl mx-auto px-4">
     <!-- Notes Section -->
     <section class="mb-16">
         <h2 class="text-2xl font-bold mb-6">Latest Notes</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
             {{ range first 3 (where .Site.RegularPages "Section" "notes") }}
             <article class="bg-white rounded-lg shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-                {{ with .Params.image }}
-                <div class="aspect-w-16 aspect-h-9 bg-gray-100">
-                    <img src="{{ . }}" 
-                         alt="{{ $.Title }}" 
-                         class="object-cover w-full h-48">
-                </div>
+                {{ with .Resources.ByType "image" }}
+                    {{ with (index . 0) }}
+                    {{ $image := .Resize "800x " }}
+                    <div class="aspect-w-16 aspect-h-9 bg-gray-100">
+                        <img src="{{ $image.RelPermalink }}" 
+                             alt="{{ .Title }}" 
+                             class="object-cover w-full h-48"
+                             loading="lazy">
+                    </div>
+                    {{ end }}
                 {{ end }}
                 <div class="p-4">
-                    <h3 class="text-lg font-medium mb-2">
-                        <a href="{{ .Permalink }}" class="text-gray-900 hover:text-blue-600">{{ .Title }}</a>
-                    </h3>
                     <div class="text-gray-600 text-sm mb-2">
                         <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
                     </div>
-                    <div class="text-gray-700 text-sm">
-                        {{ .Summary }}
+                    <div class="prose prose-sm max-w-none">
+                        {{ .Content }}
                     </div>
+                    <a href="{{ .Permalink }}" 
+                       class="mt-2 text-gray-400 hover:text-blue-600 text-sm opacity-0 group-hover:opacity-100 transition-opacity">
+                       #
+                    </a>
                 </div>
             </article>
             {{ end }}
@@ -43,7 +48,8 @@
                     <div class="md:w-1/4 mb-4 md:mb-0">
                         <img src="{{ . }}" 
                              alt="{{ $.Title }}" 
-                             class="rounded-lg object-cover w-full h-48 md:h-32">
+                             class="rounded-lg object-cover w-full h-48 md:h-32"
+                             loading="lazy">
                     </div>
                     {{ end }}
                     <div class="md:flex-1">

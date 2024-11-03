@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @import "base";
+}
+
+@layer components {
+    @import "notes";
+    @import "now";
+    @import "links";
+    @import "posts";
+}
+
+@layer utilities {
+    @import "utilities";
+}
