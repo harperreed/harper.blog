@@ -24,6 +24,7 @@ default_social_image = "https://harper.blog/images/og.png"
 social_image_gen = false
 notes_pagination = 10
 links_pagination = 20
+books_pagination = 20
 customcss = [
     "css/notes.css",
     "css/outofdate.css",
