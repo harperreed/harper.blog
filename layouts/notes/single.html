@@ -23,7 +23,9 @@
         {{ range . }}
         <img
             src="{{ .RelPermalink }}"
-            alt="{{ .Title }}"
+            alt="{{ .Params.alt | default .Title }}"
+            width="{{ .Width }}"
+            height="{{ .Height }}"
             class="rounded-lg shadow-sm"
             loading="lazy"
         />
