@@ -1,17 +1,11 @@
 {{ define "main" }}
-<article class="article-body">
+<article class="article-body mx-auto bg-white dark:bg-gray-800 p-4 sm:py-4 sm:px-4 md:py-4 md:px-8 rounded-none sm:rounded-lg shadow-none sm:shadow-sm">
     <!-- Navigation -->
-    <a
-        href="/notes"
-        class="inline-flex items-center text-gray-600 hover:text-blue-600 mb-8 transition-colors"
-    >
-        <span aria-hidden="true" class="mr-2">&larr;</span>
-        Back to Notes
-    </a>
+    
 
     <!-- Date -->
     <time datetime="{{ .Date.Format "2006-01-02" }}" class="article-title">
-        {{ .Date.Format "January 2, 2006" }}
+        {{.Title}}:  {{ .Date.Format "January 2, 2006" }}
     </time>
 
     <!-- Content -->
@@ -48,5 +42,7 @@
         </div>
     </div>
     {{ end }}
+    {{- partial "next-prev.html" . -}} 
+
 </article>
 {{ end }}
