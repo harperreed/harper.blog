@@ -2,7 +2,14 @@
 <div class="max-w-4xl mx-auto">
     <h1 class="text-2xl md:text-3xl lg:text-4xl font-bold mb-8">{{ .Title }}</h1>
     <div class="space-y-8">
+        {{ if .Pages }}
         {{ range .Pages }}
+        {{ else }}
+        <div class="text-gray-600 text-center py-8">
+            <p>No pages found.</p>
+        </div>
+        {{ end }}
+        {{ template "_internal/pagination.html" . }}
         <article class="bg-white p-6 rounded-lg shadow-sm hover:shadow-md transition-shadow">
             <h2 class="text-2xl font-bold mb-2">
                 <a href="{{ .Permalink }}" class="text-gray-900 hover:text-blue-600">{{ .Title }}</a>
