@@ -27,3 +27,7 @@
 .content {
   @apply prose lg:prose-xl dark:prose-invert max-w-none print:prose-sm print:max-w-none;
 }
+
+.outofdate-warning {
+  @apply mt-3 border border-dashed p-3 text-base bg-gray-100;
+}

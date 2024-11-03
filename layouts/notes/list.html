@@ -6,7 +6,8 @@
 
   <!-- Notes Stream -->
   <div class="space-y-12">
-    {{ $paginator := .Paginate .Pages 10 }} {{ range $paginator.Pages }}
+    {{ $paginator := .Paginate .Pages .Site.Params.notes_pagination }} {{ range
+    $paginator.Pages }}
     <article
       class="group border bg-white p-4 sm:p-6 sm:rounded-lg sm:shadow-sm sm:hover:shadow-md sm:transition-shadow"
     >

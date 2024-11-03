@@ -22,6 +22,7 @@ mainSections = ["post"]
 images = ['https://harper.blog/images/og.png']
 default_social_image = "https://harper.blog/images/og.png"
 social_image_gen = false
+posts_pagination = 10
 notes_pagination = 10
 links_pagination = 20
 books_pagination = 20

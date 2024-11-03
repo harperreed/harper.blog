@@ -2,10 +2,14 @@
 <article class="article-body mx-auto bg-white dark:bg-gray-800 p-4 sm:py-4 sm:px-4 md:py-4 md:px-8 rounded-none sm:rounded-lg shadow-none sm:shadow-sm" role="main">
     <header class="mb-4 pb-2 border-b">
         <h1 class="article-title">{{ .Title }}</h1>
+        
         <div class="article-date">
+            {{ if and .IsPage (eq .Type "posts") }}
             <time datetime="{{ .Date.Format "2006-01-02" }}" aria-label="Published on {{ .Date.Format "January 2, 2006" }}">
                 {{ .Date.Format "January 2, 2006" }}
             </time>
+            {{ end }}
+
             {{ with .Params.tags }}
             <nav aria-label="Post tags" class="mt-4 flex flex-wrap gap-2">
                 {{ range . }}
@@ -16,10 +20,14 @@
         </div>
     </header>
 
+    {{ partial "out_of_date.html" . }}
+    
     <div class="content">
         {{ .Content }}
     </div>
 
+    {{ if and .IsPage (ne .Type "special") }}
     {{- partial "next-prev.html" . -}}
+    {{ end }}
 </article>
 {{ end }}

@@ -1,13 +1,13 @@
 {{ define "main" }}
 <div class="article-body">
    
-    <h1 class="text-3xl font-bold mb-8">Posts</h1>
+    <h1 class="article-title">Posts</h1>
 
     <div class="prose mb-8 border max-w-none">{{ .Content }}</div>
 
 
     <div class="space-y-8">
-        {{ $paginator := .Paginate .Pages 5 }}
+        {{ $paginator := .Paginate .Pages .Site.Params.posts_pagination }}
         {{ range $paginator.Pages }}
         <article class="bg-white p-6 rounded-lg shadow-sm hover:shadow-md transition-shadow">
             <div class="md:flex md:items-start md:gap-8">
