@@ -6,11 +6,11 @@
 }
 
 .main-body {
-  @apply bg-gray-200 text-gray-900 min-h-screen flex flex-col border border-blue-500;
+  @apply bg-gray-200 dark:bg-gray-800 text-gray-900 dark:text-gray-100 min-h-screen flex flex-col;
 }
 
 .main-container {
-  @apply container mx-auto px-0 py-0 sm:px-4 sm:py-8 flex-grow;
+  @apply container mx-auto px-4 py-4 sm:py-8 flex-grow;
 }
 
 .article-body {
