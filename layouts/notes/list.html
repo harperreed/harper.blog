@@ -9,7 +9,7 @@
     <div class="space-y-24">
       {{ $paginator := .Paginate .Pages .Site.Params.notes_pagination }}
       {{ range $paginator.Pages }}
-      <article class="space-y-6 border">
+      <article class="space-y-6 border my-4">
         <div class="space-y-1">
           <time class="text-sm text-gray-500 font-['Public_Sans',_sans-serif]">
             {{ .Date.Format "January 2, 2006" }}
