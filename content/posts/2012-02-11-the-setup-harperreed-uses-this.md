@@ -3,7 +3,7 @@ date: 2012-02-11T00:00:00Z
 title: 'Me on The Setup: Harper Reed uses this.'
 ---
 
-###Preface
+### Preface
 
 I have been following [The Setup](http://usesthis.com) for quite awhile. I love learning about the **how**, **why** and **what** of getting things done. The Setup does such a great job of shifting the dialog to the objects that are behind the action. 
 
@@ -16,15 +16,15 @@ Although I have included it here, please [check it out](http://harper.reed.usest
 --- 
 
 
-#My interview for [The Setup](http://usesthis.com)
+# My interview for [The Setup](http://usesthis.com)
 
 
 
-####Who are you, and what do you do? (Try to keep this brief!)
+#### Who are you, and what do you do? (Try to keep this brief!)
 
 I am [Harper Reed](http://harperreed.org). I make things happen on the internet. I am a connector and a technologist. I like to meld both of those things together to connect people to one another and enable them to build amazing technology. In the past I spent a bunch of time helping [Threadless](http://threadless.com) grow, then I helped [startups](http://www.sandboxindustries.com/) in Chicago [grow](http://www.exceleratelabs.com/), and now I am helping [reelect the president](http://barackobama.com). 
 
-####What hardware are you using?
+#### What hardware are you using?
 
 I typically have two workstations that I keep in sync via [Dropbox](http://dropbox.com) and [Git](http://git-scm.com/). In the past, I have relied on a trusty [Lenovo X series](http://en.wikipedia.org/wiki/ThinkPad#X_series) laptop running [Ubuntu](http://www.ubuntu.com/) that I carry with me and then a workstation at home that is some form of macbook pro/mac mini. I used this setup for many years and loved it. Recently, because I fell in love with the [Macbook Air form factor](http://en.wikipedia.org/wiki/MacBook_Air#Design), I migrated away from the lenovo and ubuntu in favor of a tiny happy [11" Macbook Air (i7)](http://support.apple.com/kb/SP631). It works well. For my desktop workstation I am using a late-model [Mac Mini (i7)](http://support.apple.com/kb/SP632) paired with a [Samsung SyncMaster 2343 monitor](http://www.samsung.com/ph/consumer/monitor-peripherals-printer/monitor/lcd-monitor/LS23MYZKFNA/XP/index.idx?pagetype=prd_detail). It looks great and doesn't take up too much space on my desk. 
 
@@ -41,7 +41,7 @@ I aggressively use my [Kindle](http://en.wikipedia.org/wiki/Amazon_Kindle). I am
 A quick note on Kindles: I have owned the suite of Kindle devices. The best kindle they have made is the [Kindle 4](http://en.wikipedia.org/wiki/Amazon_Kindle#Kindle) (also known as the cheap kindle). After using the [Aztec Kindle](https://twitter.com/#!/zachklein/status/1192280043), the various Kindles with keyboards and finally the Kindle touch - I find that I am able to be a happier and more efficient reader with the cheaper kindle.
 
 
-####And what software?
+#### And what software?
 
 I try and keep a pretty simple software catalog. I don't want too many apps clogging my various tubes. 
 
@@ -56,7 +56,7 @@ For some strange reason, I use both [Amazon Cloudplayer](https://en.wikipedia.or
 One of my favorite killer apps is [partychat](http://partycapp.appspot.com). It is an [open source](https://code.google.com/p/partychapp/) jabber based persistent chat room. It works with google talk and is VERY simple. I use this to communicate with small groups of friends/collaborators. It has allowed [us](http://kntd.us) to collaborate on some amazing things. 
 
 
-####What would be your dream setup?
+#### What would be your dream setup?
 
 I am lucky and am pretty happy with my current setup. I would easily add faster internet, more memory, smaller devices, better battery life and more general device convergence. also the [singularity](http://en.wikipedia.org/wiki/Technological_singularity). 
 
@@ -64,4 +64,4 @@ My dream setup from when I was in high school is more interesting. I spent hours
 
 ----
 
-####What do you use? I would love to know. Feel free to comment and let me know. 
+#### What do you use? I would love to know. Feel free to comment and let me know. 
