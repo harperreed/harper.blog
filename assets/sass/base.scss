@@ -14,11 +14,13 @@
 }
 
 .article-body {
-  @apply max-w-4xl mx-auto py-2 px-0 sm:px-4 border border-green-100;
+  @apply max-w-4xl mx-auto py-2 px-0 sm:px-4;
 }
 
 .article-title {
-  @apply text-4xl font-bold dark:text-white mb-6;
+  @apply text-3xl sm:text-4xl lg:text-5xl font-bold dark:text-white mb-6;
+  /* Add this if using h1 element */
+  @apply leading-tight tracking-tight;
 }
 
 .article-date {
