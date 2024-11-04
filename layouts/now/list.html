@@ -1,28 +1,30 @@
 {{ define "main" }}
 <main class="article-body" role="main">
   <!-- Page Title and Description -->
-  <h1 class="article-title" id="page-title">{{ .Page.Title }}</h1>
-  <div class="content" aria-labelledby="page-title">{{ .Content }}</div>
+  <article class="border-b py-4 mb-4">
+    <h1 class="article-title" id="page-title">{{ .Page.Title }}</h1>
+    <div class="content" aria-labelledby="page-title">{{ .Content }}</div>
 
-  <!-- Current Now -->
-  {{ range first 1 .Data.Pages }}
-  <div class="bg-white rounded-lg shadow-sm p-8 mb-8">
+    <!-- Current Now -->
+    {{ range first 1 .Data.Pages }}
+
     <div class="content">{{.Content}}</div>
     <div class="text-gray-600 text-sm italic">
       Last Updated: {{.Date.Format "Jan 2, 2006"}}
     </div>
-  </div>
-  {{end}}
+
+    {{end}}
+  </article>
 
   <!-- Past Nows -->
-  <div class="bg-gray-50 rounded-lg p-6">
+  <div class="bg-gray-50 rounded-lg py-4">
     <h3 class="text-xl font-semibold mb-4">Past "nows:"</h3>
     <ul class="space-y-2">
       {{ range after 1 .Data.Pages }}
       <li class="hover:bg-white rounded transition-colors duration-200">
         <a
           href="{{ .RelPermalink }}"
-          class="block px-4 py-2 text-gray-700 hover:text-blue-600"
+          class="block py-1 text-gray-700 hover:text-blue-600"
         >
           {{ .Date.Format "Jan 2, 2006" }}
           <span

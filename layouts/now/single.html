@@ -13,18 +13,15 @@
   </nav>
 
   <!-- Content -->
-  <article class="bg-white rounded-lg shadow-sm p-8">
-    <header class="mb-6">
-      <h2 class="text-3xl font-bold">
-        Now from {{.Date.Format "Jan 2, 2006" }}
-      </h2>
-    </header>
 
-    <div class="content">{{ .Content }}</div>
+  <header class="mb-6">
+    <h2 class="text-3xl font-bold">Now from {{.Date.Format "Jan 2, 2006" }}</h2>
+  </header>
 
-    <footer class="text-gray-600 text-sm italic">
-      Updated {{.Date.Format "Jan 2, 2006"}}
-    </footer>
-  </article>
+  <div class="content">{{ .Content }}</div>
+
+  <footer class="text-gray-600 text-sm italic">
+    Updated {{.Date.Format "Jan 2, 2006"}}
+  </footer>
 </div>
 {{ end }}
