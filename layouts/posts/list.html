@@ -1,13 +1,16 @@
 {{ define "main" }}
 <div class="article-body">
    
-    <h1 class="article-title">Posts</h1>
+    <h1 class="article-title">Posts {{ if ne .Paginator.PageNumber 1 }}<small>(Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }})</small>{{ end }}</h1>
 
-    <div class="prose mb-8 border max-w-none">{{ .Content }}</div>
+    {{ if eq .Paginator.PageNumber 1 }}
+    <div class="content">{{ .Content }}</div>
+    {{ end }}
 
 
     <div class="space-y-8">
-        {{ $paginator := .Paginate .Pages .Site.Params.posts_pagination }}
+
+        {{ $paginator := .Paginate .Pages 12 }}
         {{ range $paginator.Pages }}
         <article class="bg-white p-6 rounded-lg shadow-sm hover:shadow-md transition-shadow">
             <div class="md:flex md:items-start md:gap-8">

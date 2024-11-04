@@ -4,7 +4,6 @@ languageCode = "en-us"
 title = "Harper Reed's Blog"
 canonifyURLs = true
 enableRobotsTXT = true
-paginate = 5
 
 defaultContentLanguage = "en"
 author = "Harper Reed"

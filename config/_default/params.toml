@@ -13,16 +13,16 @@ avatar = "https://s.gravatar.com/avatar/b7a96b3d5b5cfed5228396104cd67b38?s=600&r
 googleAnalytics = "UA-70650-74"
 
 favicon = false
-wordCount = false
+wordCount = true
 homepage = false
-readingTime = false
+readingTime = true
 fullRSS = true
 nofeedSections = ["page", "posts", "links"]
 mainSections = ["post"]
 images = ['https://harper.blog/images/og.png']
 default_social_image = "https://harper.blog/images/og.png"
 social_image_gen = false
-posts_pagination = 10
+posts_pagination = 20
 notes_pagination = 10
 links_pagination = 20
 books_pagination = 20

@@ -1,48 +1,60 @@
 {{ define "main" }}
-<article class="article-body mx-auto bg-white dark:bg-gray-800 p-4 sm:py-4 sm:px-4 md:py-4 md:px-8 rounded-none sm:rounded-lg shadow-none sm:shadow-sm">
-    <!-- Navigation -->
-    
+<article
+  class="article-body mx-auto bg-white dark:bg-gray-800 p-4 sm:py-4 sm:px-4 md:py-4 md:px-8 rounded-none sm:rounded-lg shadow-none sm:shadow-sm"
+>
+  <!-- Navigation -->
 
-    <!-- Date -->
-    <time datetime="{{ .Date.Format "2006-01-02" }}" class="article-title">
-        {{.Title}}:  {{ .Date.Format "January 2, 2006" }}
+  <div variant="ghost" asChild class="mb-8">
+    <a
+      href="/notes"
+      class="inline-flex items-center text-sm font-['Public_Sans',_sans-serif] text-gray-600 hover:text-gray-900 transition-colors"
+    >
+      ← Back to Notes
+    </a>
+  </div>
+  <!-- Date -->
+
+  <div class="space-y-2">
+    <time
+      class="text-sm text-gray-500 font-['Public_Sans',_sans-serif] flex items-center"
+    >
+      {{ .Date.Format "January 2, 2006" }}
     </time>
+    <h1 class="article-title">{{.Title}}</h1>
+  </div>
 
-    <!-- Content -->
-    <div class="content">{{ .Content }}</div>
-
-    <!-- Images -->
-    {{ with .Resources.ByType "image" }}
-    <div class="space-y-6">
-        {{ range . }}
-        <img
-            src="{{ .RelPermalink }}"
-            alt="{{ .Params.alt | default .Title }}"
-            width="{{ .Width }}"
-            height="{{ .Height }}"
-            class="rounded-lg shadow-sm"
-            loading="lazy"
-        />
-        {{ end }}
-    </div>
+  <!-- Images -->
+  {{ with .Resources.ByType "image" }}
+  <div class="space-y-6 my-4">
+    {{ range . }}
+    <img
+      src="{{ .RelPermalink }}"
+      alt="{{ .Params.alt | default .Title }}"
+      width="{{ .Width }}"
+      height="{{ .Height }}"
+      class="rounded-lg shadow-sm"
+      loading="lazy"
+    />
     {{ end }}
+  </div>
+  {{ end }}
+  <!-- Content -->
+  <div class="content">{{ .Content }}</div>
 
-    <!-- Tags if present -->
-    {{ with .Params.tags }}
-    <div class="mt-8 pt-8 border-t">
-        <div class="flex flex-wrap gap-2" aria-label="Post tags">
-            {{ range . }}
-            <a
-                href="/tags/{{ . | urlize }}"
-                class="px-3 py-1 bg-gray-100 text-sm text-gray-700 rounded-full hover:bg-gray-200 transition-colors"
-            >
-                {{ . }}
-            </a>
-            {{ end }}
-        </div>
+  <!-- Tags if present -->
+  {{ with .Params.tags }}
+  <div class="mt-8 pt-8 border-t">
+    <div class="flex flex-wrap gap-2" aria-label="Post tags">
+      {{ range . }}
+      <a
+        href="/tags/{{ . | urlize }}"
+        class="px-3 py-1 bg-gray-100 text-sm text-gray-700 rounded-full hover:bg-gray-200 transition-colors"
+      >
+        {{ . }}
+      </a>
+      {{ end }}
     </div>
-    {{ end }}
-    {{- partial "next-prev.html" . -}} 
-
+  </div>
+  {{ end }} {{- partial "next-prev.html" . -}}
 </article>
 {{ end }}

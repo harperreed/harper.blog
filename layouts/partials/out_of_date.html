@@ -3,7 +3,7 @@
 time "1978-03-21" }} {{ $ageAtPostTime := div (sub $postDate.Unix
 $authorBirthDate.Unix) 31536000 }} {{ $yearsAgo := math.Round (div (sub now.Unix
 $postDate.Unix) 31536000) }}
-<div class="outofdate-warning">
+<div class="outofdate-warning" role="alert" aria-live="polite">
   <p>
     <b>Please note:</b> This post was written some time ago ({{ $yearsAgo }}
     years ago). {{ if lt $ageAtPostTime 25 }} I was only {{ $ageAtPostTime }}

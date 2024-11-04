@@ -1,52 +1,66 @@
 {{ define "main" }}
-<div class="article-body">
-  <h1 class="article-title">Notes</h1>
 
-  <div class="content">{{ .Content }}</div>
+  <!-- Main content -->
+  <main class="article-body">
+    <h1 class="article-title">Notes</h1>
+    
+    <div class="content">{{ .Content }}</div>
 
-  <!-- Notes Stream -->
-  <div class="space-y-12">
-    {{ $paginator := .Paginate .Pages .Site.Params.notes_pagination }} {{ range
-    $paginator.Pages }}
-    <article
-      class="group border bg-white p-4 sm:p-6 sm:rounded-lg sm:shadow-sm sm:hover:shadow-md sm:transition-shadow"
-    >
-      <!-- Date Header -->
-      <div class="article-date">{{ .Date.Format "January 2, 2006" }}</div>
+    <div class="space-y-24">
+      {{ $paginator := .Paginate .Pages .Site.Params.notes_pagination }}
+      {{ range $paginator.Pages }}
+      <article class="space-y-6 border">
+        <div class="space-y-1">
+          <time class="text-sm text-gray-500 font-['Public_Sans',_sans-serif]">
+            {{ .Date.Format "January 2, 2006" }}
+          </time>
+          <h2 class="text-2xl font-semibold">
+            <a href="{{ .RelPermalink }}" class="hover:text-primary transition-colors">
+              {{ .Title }}
+            </a>
+          </h2>
+        </div>
 
-      <!-- Note Content -->
-      <div class="content">{{ .Content }}</div>
+        <!-- Note Content -->
+        <div class="content">{{ .Content }}</div>
 
-      <!-- Images -->
-      {{ with .Resources.ByType "image" }}
-      <div
-        class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-4 border flex justify-center"
-      >
-        {{ range . }} {{ $image := .Resize "800x webp" }}
-        <img
-          src="{{ $image.RelPermalink }}"
-          alt="{{ with .Title }}{{ . }}{{ else }}Image{{ end }}"
-          class="rounded-lg shadow-sm hover:shadow-md transition-shadow w-full h-full object-cover aspect-ratio: auto;"
-          loading="lazy"
-        />
+        <!-- Images -->
+        {{ $imageCount := len (.Resources.ByType "image") }}
+
+        {{ with .Resources.ByType "image" }}
+        <div class="grid gap-4 {{ if eq $imageCount 1 }}grid-cols-1{{ else if eq $imageCount 2 }}grid-cols-1 sm:grid-cols-2{{ else }}grid-cols-1 md:grid-cols-3{{ end }}">
+          {{ range . }}
+          {{ $image := .Resize "800x webp" }}
+          <div class="relative aspect-[4/3] overflow-hidden rounded-lg">
+            <img
+              src="{{ $image.RelPermalink }}"
+              alt="{{ with .Title }}{{ . }}{{ else }}Image{{ end }}"
+              class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
+              loading="lazy"
+            />
+          </div>
+          {{ end }}
+        </div>
         {{ end }}
-      </div>
+
+        <!-- Tags -->
+        {{ with .Params.tags }}
+        <div class="flex gap-2">
+          {{ range . }}
+          <a
+            href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"
+            class="text-sm text-gray-500 hover:text-gray-900 font-['Public_Sans',_sans-serif]"
+          >
+            #{{ . }}
+          </a>
+          {{ end }}
+        </div>
+        {{ end }}
+      </article>
       {{ end }}
+    </div>
 
-      <!-- Permalink -->
-      <a
-        href="{{ .RelPermalink }}"
-        class="text-sm text-gray-400 hover:text-blue-600 focus:opacity-100 group-hover:opacity-100 transition-opacity"
-        tabindex="0"
-        title="Permanent link to this note"
-      >
-        #
-      </a>
-    </article>
-    {{ end }}
-  </div>
-
-  <!-- Pagination -->
-  {{ partial "pagination.html" . }}
-</div>
+    <!-- Pagination -->
+    {{ partial "pagination.html" . }}
+  </main>
 {{ end }}

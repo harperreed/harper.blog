@@ -5,7 +5,7 @@
 }
 
 .main-body {
-  @apply bg-gray-200 text-gray-900 min-h-screen flex flex-col border border-blue-500;
+  @apply min-h-screen bg-[#FAFAF9] text-[#1A1A1A]  min-h-screen flex flex-col border border-blue-500;
 }
 
 .main-container {
@@ -30,4 +30,16 @@
 
 .outofdate-warning {
   @apply mt-3 border border-dashed p-3 text-base bg-gray-100;
+}
+
+figure {
+  @apply text-center;
+}
+
+figure img {
+  @apply rounded-sm shadow-sm;
+}
+
+figcaption {
+  @apply text-sm text-gray-300 dark:text-gray-400;
 }
