@@ -5,7 +5,7 @@
   <div class="content">{{ .Content }}</div>
 
   <!-- Links Stream -->
-  <div class="space-y-12">
+  <div class="space-y-6">
     {{ $paginator := .Paginate .Data.Pages .Site.Params.links_pagination }} {{
     $.Scratch.Set "currentDate" "" }} {{ $.Scratch.Set "currentDayLinks" slice
     }} {{ range $index, $page := $paginator.Pages }} {{ if (not (in
@@ -14,36 +14,30 @@
     $isLastPage := eq (add $index 1) (len $paginator.Pages) }} {{ if or (ne
     $postDate $currentDate) $isLastPage }} {{ if ne $currentDate "" }} {{
     $dayLinks := $.Scratch.Get "currentDayLinks" }}
-    <article class="bg-white rounded-lg shadow-sm p-6">
+    <article class="pb-4 border-b-2 my-6">
       <!-- Date Header -->
-      <div class="flex items-baseline mb-4">
-        <span class="text-3xl font-bold text-gray-900 mr-2">
-          {{ dateFormat "02" (time $currentDate) }}
-        </span>
-        <span class="text-gray-600">
-          {{ dateFormat "January 2006" (time $currentDate) }}
-        </span>
+      <div class="flex items-baseline mb-2">
+        <h2 class="text-xl">
+          🔗 Links for {{ dateFormat "Monday, January 2, 2006" (time
+          $currentDate) }}
+        </h2>
       </div>
 
       <!-- Links List -->
       <div class="border-t border-gray-100 pt-4">
-        <h2 class="text-sm text-gray-600 mb-4">
-          Links for {{ dateFormat "Monday, January 2, 2006" (time $currentDate)
-          }}
-        </h2>
-        <ul class="space-y-3">
+        <ul class="space-y-3 list-disc">
           {{ range $dayLinks }} {{ $url := urls.Parse .Params.original_url }}
           <li class="group">
             <a
               href="{{ .Params.original_url }}"
               target="_blank"
-              class="flex items-baseline hover:bg-gray-50 p-2 -mx-2 rounded transition-colors"
+              class="flex items-baseline hover:bg-gray-50 rounded transition-colors"
             >
-              <span class="text-gray-900 group-hover:text-blue-600 flex-grow">
+              <span class="text-blue-600 group-hover:text-gray-600 flex-grow">
                 {{ .Content }}
               </span>
               <span
-                class="text-sm text-gray-500 group-hover:text-gray-700 ml-2"
+                class="text-sm text-gray-600 group-hover:text-blue-600 ml-2"
               >
                 ({{ $url.Hostname }})
               </span>
