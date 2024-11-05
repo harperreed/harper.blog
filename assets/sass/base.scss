@@ -83,10 +83,13 @@ body {
 
 /* Code blocks */
 pre {
-  @apply p-4 overflow-x-auto bg-gray-50 rounded;
+  @apply p-4 overflow-x-auto bg-gray-50 rounded
+    border border-gray-200 relative;
+  -webkit-overflow-scrolling: touch;
   code {
     font-family: var(--font-mono);
-    @apply text-sm;
+    @apply text-sm leading-relaxed;
+    tab-size: 2;
   }
 }
 
