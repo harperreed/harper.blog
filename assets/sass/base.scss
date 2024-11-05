@@ -66,12 +66,18 @@ body {
 .article-list {
   @apply space-y-8;
   article {
-    @apply mb-8;
+    @apply mb-8 relative;
     h2 {
       @apply text-xl font-bold mb-2;
+      a {
+        @apply after:absolute after:inset-0;
+      }
     }
     time {
-      @apply text-gray-600 text-sm;
+      @apply text-gray-600 text-sm block;
+      &[datetime] {
+        @apply tabular-nums;
+      }
     }
   }
 }
