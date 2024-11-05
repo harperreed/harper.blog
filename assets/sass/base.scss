@@ -41,7 +41,7 @@ body {
   h3,
   h4,
   h5 {
-    @apply font-bold mb-4 mt-8;
+    @apply font-bold mb-6 mt-12 leading-tight;
   }
   h1 {
     @apply text-3xl;
@@ -58,7 +58,10 @@ body {
   }
 
   a {
-    @apply text-blue-700 underline hover:text-blue-900;
+    @apply text-blue-700 underline hover:text-blue-900
+      focus:outline-none focus:ring-2 focus:ring-offset-2
+      focus:ring-blue-500 transition-colors;
+    text-underline-offset: 0.2em;
   }
 }
 
