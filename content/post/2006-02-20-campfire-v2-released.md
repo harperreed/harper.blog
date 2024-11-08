@@ -1,6 +1,11 @@
 ---
-date: 2006-02-20T23:58:42Z
-tags: ["general","technology","perl","hacks","37signals","campfire","bot","chat","campfirenow","flood","exploit"]
+date: 2006-02-20 23:58:42+00:00
+tags:
+- campfire
+- bot-framework
+- technology
+- security
+- chat
 title: Campfire bot framework v.2 released
 wordpress_id: 1214
 wordpress_url: http://www.nata2.org/2006/02/20/campfire-v2-released/

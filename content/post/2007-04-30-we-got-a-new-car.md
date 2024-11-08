@@ -1,6 +1,11 @@
 ---
-date: 2007-04-30T13:59:11Z
-tags: ["general","work","nissan","car"]
+date: 2007-04-30 13:59:11+00:00
+tags:
+- new-car
+- nissan
+- automotive
+- commuting
+- safety
 title: We got a new car
 wordpress_id: 1439
 wordpress_url: http://www.nata2.org/2007/04/30/we-got-a-new-car/

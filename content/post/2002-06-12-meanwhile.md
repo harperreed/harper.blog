@@ -1,11 +1,16 @@
 ---
-date: 2002-06-12T07:14:00Z
+date: 2002-06-12 07:14:00+00:00
 excerpt: "tonight.. I didn't meant o go out. I went to get my haircut.. and ended
   up going out with my stylist.. severn and a lot of his friends. we went to some
   place called inn joy. heh. it was great. I met a lot of friends there and ended
   up hanging out something fierce. it was a great time. \r\nit looks like my state
   is gunna "
-tags: ["php","colorado","irc","kungfu"]
+tags:
+- social-life
+- colorado
+- haircut
+- friends
+- apocalypse
 title: meanwhile
 wordpress_id: 294
 wordpress_url: http://new.nata2.org/?p=294

@@ -1,7 +1,12 @@
 ---
-date: 2002-08-12T14:32:32Z
+date: 2002-08-12 14:32:32+00:00
 excerpt: whooo. And the reason he lost it.
-tags: ["php"]
+tags:
+- news
+- reaction
+- media
+- humor
+- php
 title: This dude totally flips out
 wordpress_id: 337
 wordpress_url: http://new.nata2.org/?p=337

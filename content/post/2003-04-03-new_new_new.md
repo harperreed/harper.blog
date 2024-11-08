@@ -1,8 +1,13 @@
 ---
-date: 2003-04-03T20:38:05Z
+date: 2003-04-03 20:38:05+00:00
 excerpt: "so awhile ago I ordered some new servers.. and here they are.. weee\r\nthe
   biggin, the littlin and the "
-tags: ["server","action"]
+tags:
+- servers
+- hardware
+- technology
+- firewall
+- data-center
 title: new new new
 wordpress_id: 477
 wordpress_url: http://new.nata2.org/?p=477

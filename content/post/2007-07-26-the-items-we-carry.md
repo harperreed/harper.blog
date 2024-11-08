@@ -1,6 +1,11 @@
 ---
-date: 2007-07-26T20:20:36Z
-tags: ["general","flickr","meme","pockets"]
+date: 2007-07-26 20:20:36+00:00
+tags:
+- everyday-carry
+- flickr
+- lifestyle
+- personal-items
+- meme
 title: The items we carry
 wordpress_id: 1469
 wordpress_url: http://www.nata2.org/2007/07/26/the-items-we-carry/

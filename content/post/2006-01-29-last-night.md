@@ -1,6 +1,11 @@
 ---
-date: 2006-01-29T16:12:19Z
-tags: ["general","reading","vinge","simmons","fantasy"]
+date: 2006-01-29 16:12:19+00:00
+tags:
+- sleep
+- sci-fi
+- book-review
+- personal-reflection
+- reading-habits
 title: 'last night. '
 wordpress_id: 1202
 wordpress_url: http://www.nata2.org/2006/01/29/last-night/

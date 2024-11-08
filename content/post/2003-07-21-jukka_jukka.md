@@ -1,10 +1,15 @@
 ---
-date: 2003-07-21T16:09:31Z
+date: 2003-07-21 16:09:31+00:00
 excerpt: 'oh yea. this weekend. hmm.. well one of the past three days.. I fell asleep
   listening to Sunn 0)) (a very sludge doom metal sound). anyway.. I was listening
   to them.. well really sleeping to them.. and my dreams were infused with chaos.
   I had three '
-tags: ["php","war","metal","matiss"]
+tags:
+- dreams
+- music
+- violence
+- chaos
+- sludge-metal
 title: jukka jukka
 wordpress_id: 571
 wordpress_url: http://new.nata2.org/?p=571

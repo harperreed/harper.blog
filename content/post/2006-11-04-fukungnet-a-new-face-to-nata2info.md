@@ -1,6 +1,10 @@
 ---
-date: 2006-11-04T16:48:08Z
-tags: ["technology","sites","humor","fukung"]
+date: 2006-11-04 16:48:08+00:00
+tags:
+- domain-names
+- image-sharing
+- online-communities
+- humor
 title: fukung.net - a new face to nata2.info
 wordpress_id: 1380
 wordpress_url: http://www.nata2.org/2006/11/04/fukungnet-a-new-face-to-nata2info/

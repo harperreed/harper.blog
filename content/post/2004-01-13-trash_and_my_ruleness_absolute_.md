@@ -1,11 +1,16 @@
 ---
-date: 2004-01-13T21:42:52Z
+date: 2004-01-13 21:42:52+00:00
 excerpt: So I have been trashing my blog by quoting aim and such. it is nice and humorous
   but it totally throughs of the blog feel and makes it kinda childish. I really don't
   like it. but I am still laughignabout this prank I pulled on my friend scott  -
   so I will share it with yall.. it is the last one for awhile.. (unless I continue
   to be awesome)So the setup was that I wanted to play a joke o...
-tags: ["harper","phone","cell","chicago","war","humor","music","aim","linux","broox","friendster","brooks"]
+tags:
+- humor
+- blogging
+- pranks
+- chicago
+- cell-phones
 title: trash and my ruleness absolute.
 wordpress_id: 727
 wordpress_url: http://new.nata2.org/?p=727
@@ -58,4 +63,4 @@ and then finally he found out:
 
 
 </small></blockquote>I am the master man. I hope whatever happens next will be entertaining. 
-<br/><a href="http://www.dkbnews.com/bbs/data/dica/1072263139/1224_moto.jpg">this</a> is entertaining. 
+<br/><a href="http://www.dkbnews.com/bbs/data/dica/1072263139/1224_moto.jpg">this</a> is entertaining.

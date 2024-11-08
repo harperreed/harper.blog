@@ -1,9 +1,14 @@
 ---
-date: 2002-09-20T18:56:09Z
+date: 2002-09-20 18:56:09+00:00
 excerpt: 'Bush unleashed a new first-strike doctrine. According to CNN, bush''s plan
   states ''We will not hesitate to act alone, if necessary.''Lucky Day.But it should
   be over soon enough. heh. '
-tags: ["bush","security","politics","politic"]
+tags:
+- national-security
+- foreign-policy
+- military-strategy
+- us-politics
+- bush-administration
 title: We may are become fire
 wordpress_id: 361
 wordpress_url: http://new.nata2.org/?p=361

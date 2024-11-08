@@ -1,6 +1,11 @@
 ---
-date: 2005-07-31T22:16:15Z
-tags: ["general","books"]
+date: 2005-07-31 22:16:15+00:00
+tags:
+- books
+- spoilers
+- reading
+- humor
+- apology
 title: 'hahah.  doh. i mean.. umm.. '
 wordpress_id: 1103
 wordpress_url: http://www.nata2.org/2005/07/31/hahah-doh-i-mean-umm/
@@ -10,4 +15,4 @@ so apparently some people didn't appreciate the.. umm.. spoilers in my last post
 
 ;-)
 
-i guess yall should read faster. i gave you a week headstart. wtf. 
+i guess yall should read faster. i gave you a week headstart. wtf.

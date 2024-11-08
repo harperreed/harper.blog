@@ -1,6 +1,11 @@
 ---
-date: 2006-03-25T20:02:11Z
-tags: ["general","hiromi","travel","tokyo"]
+date: 2006-03-25 20:02:11+00:00
+tags:
+- travel
+- chicago
+- tokyo
+- personal-experience
+- journey
 title: woah.. yesterday i was in japan. today i walked all around chicago.
 wordpress_id: 1233
 wordpress_url: http://www.nata2.org/2006/03/25/woah-yesterday-i-was-in-japan-today-i-walked-all-around-chicago/

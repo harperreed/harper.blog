@@ -1,11 +1,16 @@
 ---
-date: 2002-05-15T20:47:28Z
+date: 2002-05-15 20:47:28+00:00
 excerpt: Today I made a dtd. This isn't really exciting so to speak. But it is quite
   fun for me. In my head anyway. I really enjoy stupid shit like that. It cracks me
   up. Last night the phone rang like 5 minutes after I went to sleep.. at like 1:45
   or so... and I when I got up to answer the phone I glanced over and noticed a glowing
   ball of spirits next to my bed. they slowly dissipated.. mostly because ...
-tags: ["phone","video","humor","music"]
+tags:
+- humor
+- music
+- phone
+- spirits
+- projects
 title: tuo siht kcehc
 wordpress_id: 283
 wordpress_url: http://new.nata2.org/?p=283

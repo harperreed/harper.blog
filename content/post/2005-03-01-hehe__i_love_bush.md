@@ -1,9 +1,13 @@
 ---
-date: 2005-03-01T12:07:26Z
+date: 2005-03-01 12:07:26+00:00
 excerpt: check out this comic. so very very true. unfortunately it is being banned
   by newspapers all over. too bad it is true. heh. I love shit like that. Some really
   exciting thing...
-tags: ["general","technology","php","phone","colorado","sites","school","action","author","vacation","design","cripple","smash","politics","development","mobile","nokia"]
+tags:
+- comics
+- projects
+- technology
+- gaming
 title: hehe. i love bush
 wordpress_id: 999
 wordpress_url: http://new.nata2.org/?p=999

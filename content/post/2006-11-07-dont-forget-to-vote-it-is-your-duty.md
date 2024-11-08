@@ -1,6 +1,11 @@
 ---
-date: 2006-11-07T01:34:51Z
-tags: ["general","politics","voting","government"]
+date: 2006-11-07 01:34:51+00:00
+tags:
+- elections
+- civic-engagement
+- voter-information
+- participation
+- democracy
 title: Don't forget to vote.
 wordpress_id: 1381
 wordpress_url: http://www.nata2.org/2006/11/07/dont-forget-to-vote-it-is-your-duty/

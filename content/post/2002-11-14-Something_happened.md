@@ -1,7 +1,12 @@
 ---
-date: 2002-11-14T08:26:05Z
+date: 2002-11-14 08:26:05+00:00
 excerpt: So I guess reality is stranger than fiction.In other news, I got t...
-tags: ["google","screensaver"]
+tags:
+- entertainment
+- movies
+- technology
+- dvd
+- reality
 title: Something happened
 wordpress_id: 400
 wordpress_url: http://new.nata2.org/?p=400

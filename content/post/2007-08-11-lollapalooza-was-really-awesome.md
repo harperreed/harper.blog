@@ -1,6 +1,11 @@
 ---
-date: 2007-08-11T19:58:12Z
-tags: ["general","chicago","concerts","music","lollapalooza","live-music","tv-on-the-radio","muse","yeah-yeah-yeahs","daft-punk","celebrities"]
+date: 2007-08-11 19:58:12+00:00
+tags:
+- festivals
+- chicago-events
+- live-performances
+- music-fans
+- nightlife
 title: Lollapalooza was really awesome.
 wordpress_id: 1470
 wordpress_url: http://www.nata2.org/2007/08/11/lollapalooza-was-really-awesome/

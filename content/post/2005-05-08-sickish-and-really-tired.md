@@ -1,6 +1,11 @@
 ---
-date: 2005-05-08T23:22:27Z
-tags: ["general","blogs","hiromi","clubbing","wordpress","cole"]
+date: 2005-05-08 23:22:27+00:00
+tags:
+- health
+- food
+- nights-out
+- friends
+- events
 title: sickish.. and really tired.  clubbing
 wordpress_id: 1053
 wordpress_url: http://www.nata2.org/2005/05/08/sickish-and-really-tired/
@@ -16,4 +21,4 @@ on friday i was sickish but still insane. i went to cals with work, went home, w
 
 hiromi's blog is good. that is exciting. i like it when people blog well. and really jump in. and wordpress makes it really easy. which is nice too. <3 heh. 
 
-ajax rules. i really feel that this is the last week for ituners.com - then we will be done. 
+ajax rules. i really feel that this is the last week for ituners.com - then we will be done.

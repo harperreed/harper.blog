@@ -1,6 +1,11 @@
 ---
-date: 2006-09-07T09:27:26Z
-tags: ["general"]
+date: 2006-09-07 09:27:26+00:00
+tags:
+- sleep
+- health
+- wellness
+- personal-experience
+- lifestyle
 title: SLEEEEEEEEP
 wordpress_id: 1335
 wordpress_url: http://www.nata2.org/2006/09/07/sleeeeeeeep/

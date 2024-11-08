@@ -1,6 +1,11 @@
 ---
-date: 2005-03-31T00:59:02Z
-tags: ["general","concerts","travel","hope"]
+date: 2005-03-31 00:59:02+00:00
+tags:
+- music-festival
+- fashion
+- self-expression
+- art
+- experience
 title: coachella
 wordpress_id: 1036
 wordpress_url: http://www.nata2.org/2005/03/31/coachella/

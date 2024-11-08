@@ -1,11 +1,16 @@
 ---
-date: 2002-02-13T14:30:29Z
+date: 2002-02-13 14:30:29+00:00
 excerpt: 'Heh. I really want to port cripple smash to the web. I was in contact some
   years ago with the author about possibly porting it to PHP or java. It is written
   right now in pascal. I guess I could convert it to delphi and release a windows
   binary. heh. If you want, you can download the original BBS door, but you will need
   a '
-tags: ["php","author","cripple","smash","windows"]
+tags:
+- gaming
+- programming
+- porting
+- software-development
+- bbs
 title: Cripple Smash.
 wordpress_id: 209
 wordpress_url: http://new.nata2.org/?p=209

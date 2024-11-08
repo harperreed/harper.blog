@@ -1,10 +1,15 @@
 ---
-date: 2002-03-19T20:47:56Z
+date: 2002-03-19 20:47:56+00:00
 excerpt: As I sit here waiting for scans to finish and my playstation to arrive..
   I found some interesting stuff. First off, my new hobby. I don't goto kuro5hin often..
   but I am usually happy when I do. and they added a really neat ad system where people
   contribute ads to the site. the ads rule. they are so...
-tags: ["playstation"]
+tags:
+- gaming
+- hobbies
+- playstation
+- internet-culture
+- advertising
 title: a new internet hobby.
 wordpress_id: 235
 wordpress_url: http://new.nata2.org/?p=235

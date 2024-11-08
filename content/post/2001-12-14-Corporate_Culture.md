@@ -1,11 +1,16 @@
 ---
-date: 2001-12-14T22:47:59Z
+date: 2001-12-14 22:47:59+00:00
 excerpt: Sometimes, just when I think I understand something it explodes and blows
   up in my face.. making me look silly and dumb. One of those things is corporate
   culture. I think it is very similar to the rings on a tree, but rather than age
   - it maps how slow to change the corporation is. Take my institution, it is a very
   old and rather successful company. Ithas ma...
-tags: ["internet","worldbook","business","corporate"]
+tags:
+- corporate-culture
+- business-model
+- change-management
+- digital-transformation
+- organizational-behavior
 title: Corporate Culture
 wordpress_id: 147
 wordpress_url: http://new.nata2.org/?p=147

@@ -1,6 +1,11 @@
 ---
-date: 2005-05-12T16:19:32Z
-tags: ["general","books","social","websites","friendster","networks"]
+date: 2005-05-12 16:19:32+00:00
+tags:
+- concerts
+- music
+- books
+- lifestyle
+- social-media
 title: eep and roll.
 wordpress_id: 1058
 wordpress_url: http://www.nata2.org/2005/05/12/eep-and-roll/
@@ -16,4 +21,4 @@ my new site is awesome.
 
 ok.
 
-i am off. 
+i am off.

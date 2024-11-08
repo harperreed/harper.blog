@@ -1,6 +1,11 @@
 ---
-date: 2007-03-06T21:20:07Z
-tags: ["general"]
+date: 2007-03-06 21:20:07+00:00
+tags:
+- student-loans
+- finance
+- budgeting
+- personal-finance
+- debt-management
 title: Goddamn. I hate Iowa Student loan people.
 wordpress_id: 1416
 wordpress_url: http://www.nata2.org/2007/03/06/goddamn-i-hate-iowa-student-loan-people/

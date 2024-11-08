@@ -1,6 +1,11 @@
 ---
-date: 2006-04-25T01:21:01Z
-tags: ["technology","mail","yahoo","beta"]
+date: 2006-04-25 01:21:01+00:00
+tags:
+- email
+- user-experience
+- web-apps
+- beta-testing
+- interface-design
 title: Yahoo mail beta
 wordpress_id: 1253
 wordpress_url: http://www.nata2.org/2006/04/25/yahoo-mail-beta/

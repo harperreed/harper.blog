@@ -1,6 +1,11 @@
 ---
-date: 2007-11-20T04:11:46Z
-tags: ["general","hosting","mosso","servers","colocation","shared-hosting","mediatemple"]
+date: 2007-11-20 04:11:46+00:00
+tags:
+- server-management
+- hosting
+- dedicated-hosting
+- infrastructure
+- virtualization
 title: My servers are offline. :(
 wordpress_id: 1491
 wordpress_url: http://www.nata2.org/2007/11/20/my-servers-are-offline/

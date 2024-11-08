@@ -1,10 +1,15 @@
 ---
-date: 2002-11-06T18:29:40Z
+date: 2002-11-06 18:29:40+00:00
 excerpt: "My friend Davidson Cole has made a movie called Design. It is about: \nEighteen-year-old
   Sonya is struggling to save her father from alcoholism after his wife leaves him.
   Voyeuristic photographer Nicholas is obsessed with women, yet hides behind the prying
   lens of his camera. Cursed factory wo..."
-tags: ["php","women","war","sick","movies","source","design","health","irc","politic","wedding"]
+tags:
+- movies
+- design
+- relationships
+- art
+- addiction
 title: davidson's movie.
 wordpress_id: 390
 wordpress_url: http://new.nata2.org/?p=390

@@ -1,6 +1,11 @@
 ---
-date: 2006-12-03T19:39:28Z
-tags: ["general","dylan","family","humor","finances"]
+date: 2006-12-03 19:39:28+00:00
+tags:
+- sadness
+- support
+- financial-struggles
+- family
+- personal-experience
 title: Sometimes blogs are sad
 wordpress_id: 1391
 wordpress_url: http://www.nata2.org/2006/12/03/sometimes-blogs-are-sad/

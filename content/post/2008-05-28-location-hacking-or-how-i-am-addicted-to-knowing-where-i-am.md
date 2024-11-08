@@ -1,6 +1,11 @@
 ---
-date: 2008-05-28T00:51:39Z
-tags: ["technology","hacking","fun","twitter","location","fireaeagle","dopplr","tripit"]
+date: 2008-05-28 00:51:39+00:00
+tags:
+- location-tracking
+- travel-technology
+- social-media
+- emergency-planning
+- digital-tools
 title: Location hacking. Or how I am addicted to knowing where I am
 wordpress_id: 1518
 wordpress_url: http://www.nata2.org/?p=1518

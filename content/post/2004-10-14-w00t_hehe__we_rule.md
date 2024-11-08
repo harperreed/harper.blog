@@ -1,10 +1,15 @@
 ---
-date: 2004-10-14T18:06:16Z
+date: 2004-10-14 18:06:16+00:00
 excerpt: 'so the kids who brought you weownthesun.com have completed another site
   toward world domination. soo.. check out our new site: http://www.falaphilia.com.
   we rule. so far we have received a bunch of emails and gotten coverage on  boingboing.
   I am...'
-tags: ["harper","war","weownthesun"]
+tags:
+- internet-culture
+- website-launch
+- digital-media
+- youth-activism
+- online-communities
 title: w00t hehe. we rule
 wordpress_id: 951
 wordpress_url: http://new.nata2.org/?p=951

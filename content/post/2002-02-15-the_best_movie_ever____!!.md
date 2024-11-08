@@ -1,11 +1,16 @@
 ---
-date: 2002-02-15T11:12:58Z
+date: 2002-02-15 11:12:58+00:00
 excerpt: 'Last night I went out to a seedy bar with some friends after work. Drank
   a little - helped another friend with web problems. and then went to some movies.
   I say some because we couldn''t afford to goto the movie we wanted to goto. So we
   purchased tickets to a cheaper movie and then after an hour of the cheaper movie,
   we sneaked out and the '
-tags: ["movies","humor"]
+tags:
+- movies
+- film-reviews
+- humor
+- cinema
+- entertainment
 title: the best movie ever... !!
 wordpress_id: 211
 wordpress_url: http://new.nata2.org/?p=211

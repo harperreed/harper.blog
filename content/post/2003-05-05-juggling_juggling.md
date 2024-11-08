@@ -1,8 +1,15 @@
 ---
-date: 2003-05-05T21:15:44Z
-excerpt: |
-  So matiss and I juggled yesterday with the superstars of love for the chic-a-go-go. What fun. Here is a video. Yall should be listening to the dungeon family.
-tags: ["juggle","family","chicago","video","chris","matiss"]
+date: 2003-05-05 21:15:44+00:00
+excerpt: 'So matiss and I juggled yesterday with the superstars of love for the chic-a-go-go.
+  What fun. Here is a video. Yall should be listening to the dungeon family.
+
+  '
+tags:
+- juggling
+- family
+- chicago
+- video
+- music
 title: juggling juggling
 wordpress_id: 506
 wordpress_url: http://new.nata2.org/?p=506

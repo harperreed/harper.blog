@@ -1,6 +1,11 @@
 ---
-date: 2006-05-20T02:11:18Z
-tags: ["general","metal","yoyo","torche"]
+date: 2006-05-20 02:11:18+00:00
+tags:
+- music
+- yoyo
+- party
+- metal
+- fun
 title: 'I just saw torche. '
 wordpress_id: 1270
 wordpress_url: http://www.nata2.org/2006/05/20/i-just-saw-torche/

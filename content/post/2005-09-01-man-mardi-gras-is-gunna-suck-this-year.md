@@ -1,6 +1,11 @@
 ---
-date: 2005-09-01T02:53:31Z
-tags: ["general","skinnycorp","awesome","work","photolog","destruction"]
+date: 2005-09-01 02:53:31+00:00
+tags:
+- new-orleans
+- hurricane
+- disaster-relief
+- nature
+- rebuilding
 title: 'man... mardi gras is gunna suck this year. '
 wordpress_id: 1123
 wordpress_url: http://www.nata2.org/?p=1123
@@ -16,4 +21,4 @@ yea know. yoyos. i love them.
 
 i need to fix my photolog. i will do that now. 
 
-so. i HATE movies that have uncomfortable situations.. seriously - along came polly, bottlerocket, and the like. the uncomfortableness makes me really uncomfortable. haha. so much so that i am pausing hitch and then fast forwarding it cuz i can't deal with it. it grates on my nerves. but like a horror movie - its nice and fun to have those feelings. although it KILLS me. KILLS. i may have to stop watching and goto bed. 
+so. i HATE movies that have uncomfortable situations.. seriously - along came polly, bottlerocket, and the like. the uncomfortableness makes me really uncomfortable. haha. so much so that i am pausing hitch and then fast forwarding it cuz i can't deal with it. it grates on my nerves. but like a horror movie - its nice and fun to have those feelings. although it KILLS me. KILLS. i may have to stop watching and goto bed.

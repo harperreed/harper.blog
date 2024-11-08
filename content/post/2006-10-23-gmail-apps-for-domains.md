@@ -1,6 +1,11 @@
 ---
-date: 2006-10-23T01:49:58Z
-tags: ["technology","google","skinnycorp","gmail","microsoft","email","google-hosted-apps","gmail-for-domains","exchange","outlook"]
+date: 2006-10-23 01:49:58+00:00
+tags:
+- email
+- cloud-computing
+- managed-services
+- technology
+- spam-protection
 title: Gmail Apps for Domains
 wordpress_id: 1376
 wordpress_url: http://www.nata2.org/2006/10/23/gmail-apps-for-domains/

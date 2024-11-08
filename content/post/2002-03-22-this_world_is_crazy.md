@@ -1,8 +1,14 @@
 ---
-date: 2002-03-22T00:33:29Z
+date: 2002-03-22 00:33:29+00:00
 excerpt: wtf.You should all go and read the newest new yorker. they have a great article
   on kurdish problems and saddam. Also about gas attacks and our possible future...
   wtf is right
+tags:
+- world-news
+- kurdish-issues
+- middle-east
+- politics
+- future
 title: this world is crazy
 wordpress_id: 237
 wordpress_url: http://new.nata2.org/?p=237

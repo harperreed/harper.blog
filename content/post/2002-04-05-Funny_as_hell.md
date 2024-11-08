@@ -1,9 +1,14 @@
 ---
-date: 2002-04-05T16:47:03Z
+date: 2002-04-05 16:47:03+00:00
 excerpt: "heh. you have got ot check this out. My favorite is the dance contest. that
   furry guy can get down. \ni wonder if this is nice or funny looking? In other news(;))
   it seems that people are ..."
-tags: ["military"]
+tags:
+- humor
+- military
+- media-criticism
+- history
+- entertainment
 title: Funny as hell
 wordpress_id: 251
 wordpress_url: http://new.nata2.org/?p=251

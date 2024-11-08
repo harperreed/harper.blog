@@ -1,11 +1,16 @@
 ---
-date: 2003-11-01T14:39:49Z
+date: 2003-11-01 14:39:49+00:00
 excerpt: so this mornign at 7 we started launching a site at work. I was sleeping.
   because last night was halloween. and I didn't goto bed early. stupid satan.. always
   keeping me up. nothing is better than death metal at seven in the morning.Last night,
   after my work.. I hung out with hiromi and read. it was fun. then we went to reza's
   - which is always good. after that we cabbed it up to...
-tags: ["women","metal","halloween","juggling","hiromi","boobs"]
+tags:
+- halloween
+- metal
+- parties
+- women
+- juggling
 title: LUNCH.. i mean launch..
 wordpress_id: 663
 wordpress_url: http://new.nata2.org/?p=663

@@ -1,9 +1,14 @@
 ---
-date: 2002-03-25T19:58:45Z
+date: 2002-03-25 19:58:45+00:00
 excerpt: 'So a friend sent me here and then here. Which normally wouldn''t be wierd..
   but for some reason, it was super sketchy. I am almost done with my taxes.. which
   is wierd as well. and to top it '
-tags: ["rock","movies","kstar","cars"]
+tags:
+- weirdness
+- culture
+- taxes
+- weather
+- entertainment
 title: This world is a wierd place..   no really it is..
 wordpress_id: 240
 wordpress_url: http://new.nata2.org/?p=240

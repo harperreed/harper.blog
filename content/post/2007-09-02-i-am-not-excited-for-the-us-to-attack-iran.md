@@ -1,6 +1,11 @@
 ---
-date: 2007-09-02T20:57:44Z
-tags: ["general","war","fear","bush","annoying","iran","sad"]
+date: 2007-09-02 20:57:44+00:00
+tags:
+- politics
+- military
+- iran
+- international-relations
+- nuclear-issues
 title: I am not excited for the US to attack Iran
 wordpress_id: 1475
 wordpress_url: http://www.nata2.org/2007/09/02/i-am-not-excited-for-the-us-to-attack-iran/

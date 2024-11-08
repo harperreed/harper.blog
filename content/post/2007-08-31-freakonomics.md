@@ -1,6 +1,11 @@
 ---
-date: 2007-08-31T15:31:01Z
-tags: ["general","books","interesting","economics","freakonomics"]
+date: 2007-08-31 15:31:01+00:00
+tags:
+- freakonomics
+- economics
+- books
+- sociology
+- gangs
 title: Freakonomics
 wordpress_id: 1472
 wordpress_url: http://www.nata2.org/2007/08/31/freakonomics/

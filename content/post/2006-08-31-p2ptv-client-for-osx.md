@@ -1,6 +1,11 @@
 ---
-date: 2006-08-31T05:06:16Z
-tags: ["general","movies","osx","television","p2ptv","p2p"]
+date: 2006-08-31 05:06:16+00:00
+tags:
+- p2p
+- osx
+- television
+- streaming
+- software
 title: p2ptv client for osx
 wordpress_id: 1330
 wordpress_url: http://www.nata2.org/2006/08/31/p2ptv-client-for-osx/

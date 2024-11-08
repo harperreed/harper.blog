@@ -1,6 +1,11 @@
 ---
-date: 2007-10-09T01:37:40Z
-tags: ["general","internet","music","bittorrent","download"]
+date: 2007-10-09 01:37:40+00:00
+tags:
+- music-discovery
+- classical-music
+- modern-artists
+- music-industry
+- internet-culture
 title: Everyday, because of the internet, I am discovering new music
 wordpress_id: 1484
 wordpress_url: http://www.nata2.org/2007/10/09/everyday-because-of-the-internet-i-am-discovering-new-music/

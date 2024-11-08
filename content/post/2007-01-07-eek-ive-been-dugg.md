@@ -1,6 +1,11 @@
 ---
-date: 2007-01-07T15:18:33Z
-tags: ["technology","humor","photoshop","pranks","digg","dugg"]
+date: 2007-01-07 15:18:33+00:00
+tags:
+- technology
+- humor
+- jet-lag
+- servers
+- pranks
 title: eek. I've been dugg!
 wordpress_id: 1402
 wordpress_url: http://www.nata2.org/2007/01/07/eek-ive-been-dugg/

@@ -1,8 +1,13 @@
 ---
-date: 2004-06-14T14:26:17Z
+date: 2004-06-14 14:26:17+00:00
 excerpt: 'so the past month - I have reengaged my ears in a black metal journey. it
   is awesome. I '
-tags: ["juggle","php","phone","sick","blood","metal","author","music","aim","matiss","apple","nokia"]
+tags:
+- black-metal
+- music
+- humor
+- technology
+- death
 title: yoyoyo all the good men are dieing.
 wordpress_id: 883
 wordpress_url: http://new.nata2.org/?p=883
