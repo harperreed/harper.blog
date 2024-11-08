@@ -2,9 +2,9 @@
 date: Thu, 07 Nov 2024 14:16:00 +0000
 draft: false
 original_url: https://adele.pages.casa/md/blog/xmpp-the-forgotten-gem-of-instant-messaging.md
-summary: In a world overwhelmed by proprietary messaging apps, XMPP quietly shines
-  as an open and customizable alternative, ready to cater to the privacy-conscious
-  and versatile communicator. It's the charming underdog of the messaging realm!
+summary: In a world dominated by cloistered messaging apps, XMPP emerges as the quirky
+  underdog—full of potential yet overlooked, ready to rekindle your faith in open
+  communication!
 tags:
 - xmpp
 - instant-messaging
