@@ -8,12 +8,10 @@ from dotenv import load_dotenv
 from email.utils import parsedate_to_datetime
 from firecrawl import FirecrawlApp
 from openai import OpenAI, RateLimitError, APIError
-from pydantic import BaseModel, Field
-from typing import Optional, List, Dict, Tuple
+from pydantic import BaseModel
+from typing import Optional, List
 import logging
 from readabilipy import simple_json_from_html_string
-from bs4 import BeautifulSoup  # 👉️ Import BeautifulSoup
-from pprint import pprint
 from diskcache import Cache
 
 # Load environment variables
