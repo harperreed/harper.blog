@@ -1,13 +1,22 @@
 ---
-date: 2005-03-17T13:08:15Z
-excerpt: |-
-  i got up late today. it was a bummer. I did na mean to. but I kept
+date: 2005-03-17 13:08:15+00:00
+excerpt: 'i got up late today. it was a bummer. I did na mean to. but I kept
+
   having WEIRD dreams about doing menial tasks at work. so nerve
+
   wrecking. they were stressful dreams. not as awesome as other dreams.
+
   and my eyes are sleepy. and I am hungry. and and andlast night
+
   we went to the science and industry museum - it was closed. suxor.
-  hah.&nbsp; so I think I am going to go tomorrow with h...
-tags: ["general","books","war","sites","college","birthday","tools","games","matiss","irc","hiromi","work","museums"]
+
+  hah.&nbsp; so I think I am going to go tomorrow with h...'
+tags:
+- personal
+- dreams
+- birthdays
+- museums
+- hobbies
 title: sleeeeepy. hungry. hungry. human needs.
 wordpress_id: 1008
 wordpress_url: http://new.nata2.org/?p=1008

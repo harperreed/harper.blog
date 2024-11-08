@@ -1,8 +1,22 @@
 ---
-title: "What have I been up to? "
-date: 2020-09-21T01:24:53.556Z
+date: 2020-09-21 01:24:53.556000+00:00
+description: Join Harper Reed on a candid reflection of his unexpected yet deeply
+  impactful journey through the tumultuous 2020, diving headfirst into COVID-19 response.
+  From building communities to spearheading critical projects, discover how a series
+  of serendipitous events led this tech entrepreneur and "F list" celebrity to pivot
+  from potential co-founder meetups to being a driving force in the fight against
+  a global pandemic. Experience the raw, real, and at times chaotic narrative of a
+  year filled with learning, volunteering, and connecting with remarkable people,
+  all while navigating the uncertainties and challenges of COVID-19. This is Harper's
+  story of resilience, innovation, and the power of community in times of crisis.
 draft: false
-description: "Join Harper Reed on a candid reflection of his unexpected yet deeply impactful journey through the tumultuous 2020, diving headfirst into COVID-19 response. From building communities to spearheading critical projects, discover how a series of serendipitous events led this tech entrepreneur and \"F list\" celebrity to pivot from potential co-founder meetups to being a driving force in the fight against a global pandemic. Experience the raw, real, and at times chaotic narrative of a year filled with learning, volunteering, and connecting with remarkable people, all while navigating the uncertainties and challenges of COVID-19. This is Harper's story of resilience, innovation, and the power of community in times of crisis."
+tags:
+- entrepreneurship
+- covid-19
+- personal-journey
+- public-figure
+- startup
+title: 'What have I been up to? '
 ---
 
 As a founder, an F list celebrity, a lite public figure, and someone who's usually *loud/visible* with what they are working on, I've been surprisingly quiet this year. Part of that is because this year sucks; the other part is that I've been super busy working on COVID-19 response. After 8 wild, exhausting, rewarding months doing the work, I've just finished my last obligation. So finally, I can take a moment and tell you about this wild journey.
@@ -266,4 +280,4 @@ The best part was the people. Lots of incredible people helped out, participated
 
 Obviously, the year is not over - however, the brunt of my COVID-19 involvement is. Although I am still advising many of the organizations that I worked with, I am no longer involved daily. 
 
-I am now focused on a new thing. I am very excited. You should be too. It is going to be galactic. 
+I am now focused on a new thing. I am very excited. You should be too. It is going to be galactic.

@@ -1,6 +1,11 @@
 ---
-date: 2006-04-07T12:29:17Z
-tags: ["general","google","gmail","email"]
+date: 2006-04-07 12:29:17+00:00
+tags:
+- gmail
+- google
+- email
+- frustration
+- tech
 title: 'got gmail back. weird... '
 wordpress_id: 1239
 wordpress_url: http://www.nata2.org/2006/04/07/got-gmail-back-weird/

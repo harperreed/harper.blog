@@ -1,9 +1,14 @@
 ---
-date: 2002-02-01T12:52:38Z
+date: 2002-02-01 12:52:38+00:00
 excerpt: 'So I find myself once again having that pit of fear riding in my stomach.
   This time it again seems like WW3 is upon us. I got proof. Check out this, or this
   and finally '
-tags: ["fear"]
+tags:
+- fear
+- anxiety
+- world-events
+- politics
+- global-security
 title: Once again fear is present...
 wordpress_id: 200
 wordpress_url: http://new.nata2.org/?p=200

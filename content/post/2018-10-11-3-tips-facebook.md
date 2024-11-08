@@ -1,8 +1,19 @@
 ---
-title: "Harper's 3 tips to surviving Facebook"
-description: "Three unconventional tips for managing your relationship with Facebook, offering strategies to minimize distractions and regain control over your online experience. Learn how to disconnect from the 'notification-industrial complex,' create a dedicated Chrome profile for Facebook use, and radically transform your newsfeed by unfollowing friends. These personal insights aim to make Facebook usage more intentional and less intrusive in your daily life."
-date: 2018-10-11T10:02:30-05:00
+date: 2018-10-11 10:02:30-05:00
+description: Three unconventional tips for managing your relationship with Facebook,
+  offering strategies to minimize distractions and regain control over your online
+  experience. Learn how to disconnect from the 'notification-industrial complex,'
+  create a dedicated Chrome profile for Facebook use, and radically transform your
+  newsfeed by unfollowing friends. These personal insights aim to make Facebook usage
+  more intentional and less intrusive in your daily life.
 draft: false
+tags:
+- social-media
+- facebook
+- digital-wellbeing
+- technology
+- online-privacy
+title: Harper's 3 tips to surviving Facebook
 ---
 
 I am not a huge fan of the Facebook suite of products<sup>†</sup>. Many times I have attempted to quit, only to be thwarted by the various warnings about deleting Facebook apps I admin and pages I own. I always forgot about how spidery the Facebook ecosystem is. I obviously don't have it in me to cut ties with all of the various things I built long ago and the pages that I have created or admin. So.. what to do. Well. I did a few things that helped somewhat. Here they are:

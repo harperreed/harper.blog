@@ -1,6 +1,11 @@
 ---
-date: 2005-12-08T04:28:17Z
-tags: ["general","awesome","work","squidoo","asterisk","voip"]
+date: 2005-12-08 04:28:17+00:00
+tags:
+- voip
+- technology
+- squidoo
+- telecommunications
+- business
 title: 'squidoo. work. asterisk is awesome. '
 wordpress_id: 1153
 wordpress_url: http://www.nata2.org/2005/12/08/squidoo-work-asterisk-is-awesome/
@@ -15,4 +20,4 @@ Oh yea. Squidoo launched. check it out. here are some of my lenses: <a href="htt
 <a href="http://www.squidoo.com/asterisk/">Asterisk</a>, 
 <a href="http://www.squidoo.com/mobilephone/">Mobile Phones</a> and soon to have others.
 
-awesome. 
+awesome.

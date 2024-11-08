@@ -1,6 +1,11 @@
 ---
-date: 2005-04-03T21:52:04Z
-tags: ["general","job","travel","sad","javascript","hacks"]
+date: 2005-04-03 21:52:04+00:00
+tags:
+- emotions
+- life-changes
+- social-events
+- food
+- travel
 title: ohhh... stuff got insane
 wordpress_id: 1038
 wordpress_url: http://www.nata2.org/2005/04/03/ohhh-stuff-got-insane/
@@ -20,4 +25,4 @@ btw. i HATE the forward and backward keys on the ibm thinkpad keyboard. it almos
 
 i am gunna need a new laptop. and i am gunna need some other stuff. 
 
-i am going to pheonix on tuesday. 
+i am going to pheonix on tuesday.

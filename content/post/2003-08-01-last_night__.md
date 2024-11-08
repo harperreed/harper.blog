@@ -1,11 +1,16 @@
 ---
-date: 2003-08-01T19:06:01Z
+date: 2003-08-01 19:06:01+00:00
 excerpt: "so last night when I went out with bernie, his friend phil and hiromi..
   we fire my laser pointer to the top of the john hancock antennae. It was crazy.
   It totally was visible. Totally. I am a valley girl apparently. I can?t wait for
   it to get dark. I love the dark. Dark like a wolf.Laser pointer stats:\r\nStandard
   Red laser pointer: 650nm wavelength; "
-tags: ["server","hiromi"]
+tags:
+- laser-pointers
+- night-out
+- tall-ships
+- meeting-people
+- adventures
 title: last night..
 wordpress_id: 586
 wordpress_url: http://new.nata2.org/?p=586
@@ -24,5 +29,3 @@ So this afternoon. I am supposed to go visit a friend of a friend of mine on one
 
 
 <a href="http://news.ft.com/servlet/ContentServer?pagename=FT.com/StoryFT/FullStory&c=StoryFT&cid=1059478586845">The U.S.A. foreign policy makers RULE</a>. did you hear me RULE!!!!<br/><br/>
-
-

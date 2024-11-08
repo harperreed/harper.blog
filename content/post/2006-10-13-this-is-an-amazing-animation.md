@@ -1,6 +1,11 @@
 ---
-date: 2006-10-13T12:52:23Z
-tags: ["general","awesome","weird","greed","animation"]
+date: 2006-10-13 12:52:23+00:00
+tags:
+- animation
+- short-film
+- motion-graphics
+- creepy
+- art
 title: This is an amazing animation
 wordpress_id: 1365
 wordpress_url: http://www.nata2.org/2006/10/13/this-is-an-amazing-animation/

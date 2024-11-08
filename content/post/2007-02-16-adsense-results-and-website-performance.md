@@ -1,6 +1,11 @@
 ---
-date: 2007-02-16T10:52:13Z
-tags: ["technology","technology","money","adsense","tips","performance","ad-revenue","eaccelerator"]
+date: 2007-02-16 10:52:13+00:00
+tags:
+- adsense
+- website-performance
+- ad-revenue
+- online-marketing
+- tips
 title: Adsense results and website performance
 wordpress_id: 1410
 wordpress_url: http://www.nata2.org/2007/02/16/adsense-results-and-website-performance/

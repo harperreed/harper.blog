@@ -1,6 +1,11 @@
 ---
-date: 2006-04-26T01:48:47Z
-tags: ["general","technology","phones","nokia","voip","sip","n80","e60"]
+date: 2006-04-26 01:48:47+00:00
+tags:
+- nokia
+- smartphones
+- wifi
+- voip
+- technology
 title: Nokia N80 is released
 wordpress_id: 1256
 wordpress_url: http://www.nata2.org/2006/04/26/nokia-n80-is-released/

@@ -1,11 +1,17 @@
 ---
-date: 2003-08-27T19:55:17Z
-excerpt: |-
-  so my friend angela moved to L.A.  I guess I will have to go and visit. She had a nifty going away party last night. I always look insane in pictures.
+date: 2003-08-27 19:55:17+00:00
+excerpt: 'so my friend angela moved to L.A.  I guess I will have to go and visit.
+  She had a nifty going away party last night. I always look insane in pictures.
 
 
-  this is awesome. check it out. GWBush is the w...
-tags: ["insane","bush"]
+
+  this is awesome. check it out. GWBush is the w...'
+tags:
+- friendship
+- moving
+- parties
+- emotions
+- politics
 title: angela.. left.. sad..
 wordpress_id: 608
 wordpress_url: http://new.nata2.org/?p=608

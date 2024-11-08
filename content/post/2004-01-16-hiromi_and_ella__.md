@@ -1,9 +1,14 @@
 ---
-date: 2004-01-16T17:07:49Z
+date: 2004-01-16 17:07:49+00:00
 excerpt: 'So my friend and best fan in taiwan, ella, met with my roommate hiromi in
   taiwan. I sent a care package with hiromi for ella. she seemed to like her a care
   package - which is good. '
-tags: ["nerd","rock","kstar","games","taiwan","hiromi","ella"]
+tags:
+- friendship
+- care-package
+- taiwan
+- work-life-balance
+- gaming
 title: hiromi and ella..
 wordpress_id: 729
 wordpress_url: http://new.nata2.org/?p=729

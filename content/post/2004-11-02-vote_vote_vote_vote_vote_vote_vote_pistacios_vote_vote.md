@@ -1,9 +1,18 @@
 ---
-date: 2004-11-02T13:37:58Z
-excerpt: |-
-  so. I have been formulating this post since the last one went live. so about a week or so. a lot has happened in the last couple weeks. mostly insanity. but whatever.
-  i totally don't feel it. I will be working on some stuff later. I will feel it then. I hope. I will blog then. i have some exciting new news I can't tell anyone about. no one must know my secret. until it is t...
-tags: ["hosting","source","halloween","nyc"]
+date: 2004-11-02 13:37:58+00:00
+excerpt: 'so. I have been formulating this post since the last one went live. so about
+  a week or so. a lot has happened in the last couple weeks. mostly insanity. but
+  whatever.
+
+  i totally don''t feel it. I will be working on some stuff later. I will feel it
+  then. I hope. I will blog then. i have some exciting new news I can''t tell anyone
+  about. no one must know my secret. until it is t...'
+tags:
+- blogging
+- secrets
+- updates
+- weekend
+- hosting
 title: vote vote vote vote vote vote vote pistacios vote vote
 wordpress_id: 953
 wordpress_url: http://new.nata2.org/?p=953

@@ -1,6 +1,10 @@
 ---
-date: 2008-10-06T00:54:53Z
-tags: ["general","internet","javascript","api","web-20"]
+date: 2008-10-06 00:54:53+00:00
+tags:
+- mashups
+- hidden-apis
+- data-extraction
+- chicago
 title: Release your applications inner API. Please.
 wordpress_id: 1567
 wordpress_url: http://www.nata2.org/?p=1567

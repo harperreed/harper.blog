@@ -1,6 +1,11 @@
 ---
-date: 2005-03-24T14:22:48Z
-tags: ["general","movies","religion","weird","spam"]
+date: 2005-03-24 14:22:48+00:00
+tags:
+- humor
+- christianity
+- internet-culture
+- movies
+- weird
 title: a couple quick things
 wordpress_id: 1027
 wordpress_url: http://www.nata2.org/2005/03/24/a-couple-quick-things/
@@ -12,4 +17,4 @@ itunesblogger is going to get a lot cooler shortly.  i promise. a new service. a
 
 i need to do soemthing with soap. "like take a bath" haha
 
-umm 
+umm

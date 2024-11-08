@@ -1,6 +1,11 @@
 ---
-date: 2005-05-18T22:05:19Z
-tags: ["general","books","food","matiss","aliens"]
+date: 2005-05-18 22:05:19+00:00
+tags:
+- grocery
+- food
+- books
+- aliens
+- personal-experience
 title: Grocery Grocery
 wordpress_id: 1064
 wordpress_url: http://www.nata2.org/2005/05/18/grocery-grocery/

@@ -1,6 +1,11 @@
 ---
-date: 2005-09-06T13:24:45Z
-tags: ["general","hacking","birthday","movies","fun","money","parties","work","psp","rani"]
+date: 2005-09-06 13:24:45+00:00
+tags:
+- weekend
+- gaming
+- work
+- parties
+- psp
 title: 'good long weekend. '
 wordpress_id: 1125
 wordpress_url: http://www.nata2.org/?p=1125
@@ -24,5 +29,3 @@ After the BBQ i went home, took a nap, played Rtype and then got ready for my VO
 So yesterday i just worked in front of the TV. i watched meet the fockers, LOTR: ROTK, and gremlins 2. I also got some ISO's to boot. how i love torrents. 
 
 <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//war/aaron_broussard.mov">this is horribly sad</a>
-
-

@@ -1,6 +1,11 @@
 ---
-date: 2006-10-02T01:22:51Z
-tags: ["technology","php","code","api","youtube","classes"]
+date: 2006-10-02 01:22:51+00:00
+tags:
+- youtube
+- php
+- programming
+- api
+- coding
 title: Some quick youtube hackings
 wordpress_id: 1356
 wordpress_url: http://www.nata2.org/2006/10/02/some-quick-youtube-hackings/

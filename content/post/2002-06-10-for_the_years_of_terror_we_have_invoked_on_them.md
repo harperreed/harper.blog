@@ -1,10 +1,15 @@
 ---
-date: 2002-06-10T21:53:55Z
+date: 2002-06-10 21:53:55+00:00
 excerpt: "This is a rant:\r\nI do not like that we are at war right now. I think it
   is really ridiculous. I mean, our enemy is a group of militants that we don?t officially
   know exists, they use weapons that are more powerful than what we use, they are
   scare mongered into inhuman monsters. And it seems that "
-tags: ["war","bush","security"]
+tags:
+- military-conflict
+- foreign-policy
+- imperialism
+- ethics
+- terrorism
 title: for the years of terror we have invoked on them
 wordpress_id: 291
 wordpress_url: http://new.nata2.org/?p=291

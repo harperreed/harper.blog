@@ -1,12 +1,17 @@
 ---
-date: 2003-08-17T23:56:27Z
+date: 2003-08-17 23:56:27+00:00
 excerpt: 'heh. so this irc channel has totally made for fun times. I hooked up this
   to log everything and especially links.. hehe. it rules. but whatever. the only
   problem is that it doens''t log the bot - which will be annoying.. especially when
   we play trivia.. which you are all invited to participate in. btw.. trivia rules.this
   weekend.. was dope. '
-tags: ["juggle","fashion","action","matiss","irc"]
-title: 'hash corporate'
+tags:
+- irc
+- trivia
+- block-party
+- fashion
+- logging
+title: hash corporate
 wordpress_id: 599
 wordpress_url: http://new.nata2.org/?p=599
 ---

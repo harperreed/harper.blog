@@ -1,11 +1,16 @@
 ---
-date: 2004-11-09T18:30:09Z
+date: 2004-11-09 18:30:09+00:00
 excerpt: this morning I woke up early. like 7:00. I was having a dream wher ei was
   invader zim and I was able to time travel (a combination of the two things I did
   last night between 2:30am and 4:00am). it ruled. I just buzzed around and had time
   traveling problems. I am currently reading this book by authur c clarke. it rules.
   I forgot what it is called. I have not bothered to look at the titles of the l...
-tags: ["books","job","search","fear","movies","politics","politic","travel","hong","kong","haxored"]
+tags:
+- dreams
+- books
+- time-travel
+- blogging
+- friendship
 title: lalala. connect the dots.
 wordpress_id: 959
 wordpress_url: http://new.nata2.org/?p=959

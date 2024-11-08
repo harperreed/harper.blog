@@ -1,11 +1,16 @@
 ---
-date: 2004-02-19T16:58:06Z
+date: 2004-02-19 16:58:06+00:00
 excerpt: last night morgan and I watched night and fog - a really good documentary
   on the horrors of the german concentration camps in europe during world war II.
   It was the first time I had seen actual movie footage of all the bodies and such.
   it was quite haunting. I am not a fan of genocide. I thought that the end of the
   documentary was quite appropriate -...
-tags: ["war"]
+tags:
+- documentary
+- holocaust
+- genocide
+- world-war-ii
+- personal-reflection
 title: night and fog
 wordpress_id: 757
 wordpress_url: http://new.nata2.org/?p=757

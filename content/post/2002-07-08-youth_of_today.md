@@ -1,11 +1,16 @@
 ---
-date: 2002-07-08T02:01:40Z
+date: 2002-07-08 02:01:40+00:00
 excerpt: 'so today.. I didn''t get up at the time I was supposed to. I mean I wasn''t
   really late. but I had planned to get up and do something. I don''t know what..
   but I am sure there was something.so the other day.. cole came over and was building
   a gigantic slot car track. it was increidble. we worked together and now it rules.
   check it out '
-tags: ["cars","ella"]
+tags:
+- youth
+- friendship
+- slot-cars
+- night-out
+- nostalgia
 title: youth of today
 wordpress_id: 311
 wordpress_url: http://new.nata2.org/?p=311
@@ -16,4 +21,4 @@ so today.. I didn't get up at the time I was supposed to. I mean I wasn't really
 <b>n0disc:</b> WOW!!!<br/>
 <b>n0disc:</b> YESS!<br/>
 <b>n0disc:</b> drunk drivin!</small><br/>---<br/>
-<br/>so tonight.. I went out with a friend. it was really great. we got italian ice. and hung out.. went to a park. chilled. it was a great night out. I love how people say. its a great night out. for some reason it seems so nice right now. that phrase. but whatever. I laugh a lot at my own minds meandering.. I wonder if it as amusing to others as it is to me. probably not. so anyway. I had a great time. <b>;)</b>.<br/><br/>so my friend robyn has a profile on moc. heh. and she also has a <a hef=http://www.livejournal.com/users/velmaodella">livejournal</a>. check it out. 
+<br/>so tonight.. I went out with a friend. it was really great. we got italian ice. and hung out.. went to a park. chilled. it was a great night out. I love how people say. its a great night out. for some reason it seems so nice right now. that phrase. but whatever. I laugh a lot at my own minds meandering.. I wonder if it as amusing to others as it is to me. probably not. so anyway. I had a great time. <b>;)</b>.<br/><br/>so my friend robyn has a profile on moc. heh. and she also has a <a hef=http://www.livejournal.com/users/velmaodella">livejournal</a>. check it out.

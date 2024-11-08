@@ -1,13 +1,22 @@
 ---
-date: 2005-03-14T05:48:07Z
-excerpt: |-
-  I am rather sleepy. tonight/today was good. I coded all day in
+date: 2005-03-14 05:48:07+00:00
+excerpt: 'I am rather sleepy. tonight/today was good. I coded all day in
+
   anticipation of my new tool being released. I am excited. unfortunantly
+
   all my work is going to be looked at as sketchy - cuz the competitor
-  released their &amp;quot;upgrade&amp;quot; which is significantly better than what they
+
+  released their &amp;quot;upgrade&amp;quot; which is significantly better than what
+  they
+
   had, and rather similar to what I have done. doh! I guess I have to
-  redo and make mine a lot bett...
-tags: ["general","sites","rock","websites"]
+
+  redo and make mine a lot bett...'
+tags:
+- programming
+- sleep
+- innovation
+- coding
 title: need sleep. stat. love. csharp.
 wordpress_id: 1006
 wordpress_url: http://new.nata2.org/?p=1006

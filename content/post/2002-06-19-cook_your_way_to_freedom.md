@@ -1,7 +1,14 @@
 ---
-date: 2002-06-19T21:36:20Z
-excerpt: |
-  shoot the cook
+date: 2002-06-19 21:36:20+00:00
+excerpt: 'shoot the cook
+
+  '
+tags:
+- cooking
+- food
+- recipes
+- freedom
+- lifestyle
 title: cook your way to freedom
 wordpress_id: 299
 wordpress_url: http://new.nata2.org/?p=299

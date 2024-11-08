@@ -1,8 +1,13 @@
 ---
-date: 2001-07-27T04:37:39Z
+date: 2001-07-27 04:37:39+00:00
 excerpt: Hehe. i sometime wish that i didn't live in such a repressed community. to
   see what i am talking about check this out. heh.
-tags: ["friends","war","community","video"]
+tags:
+- culture
+- society
+- travel
+- freedom
+- expression
 title: I love other countries
 wordpress_id: 20
 wordpress_url: http://new.nata2.org/?p=20

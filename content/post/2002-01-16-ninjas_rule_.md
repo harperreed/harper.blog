@@ -1,8 +1,13 @@
 ---
-date: 2002-01-16T23:32:16Z
+date: 2002-01-16 23:32:16+00:00
 excerpt: When I was in high school I was obsessed with ninjas. I don't know what casused
   my obsession.. but it was intense.
-tags: ["school"]
+tags:
+- ninjas
+- high-school
+- obsession
+- pop-culture
+- hobbies
 title: ninjas rule.
 wordpress_id: 181
 wordpress_url: http://new.nata2.org/?p=181

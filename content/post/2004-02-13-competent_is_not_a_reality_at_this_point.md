@@ -1,8 +1,13 @@
 ---
-date: 2004-02-13T16:56:05Z
+date: 2004-02-13 16:56:05+00:00
 excerpt: 'So I lost reality the other night. I was sittign at work - going live with
   this product (FINALLY) amd I noticed reality slinking out the door(1, 2, '
-tags: ["social","phone","rock","movies","hiromi"]
+tags:
+- reality
+- work-life
+- product-launch
+- personal-experience
+- technology
 title: competent is not a reality at this point
 wordpress_id: 752
 wordpress_url: http://new.nata2.org/?p=752
@@ -12,4 +17,4 @@ So I lost reality the other night. I was sittign at work - going live with this 
 
 <br/><br/>
 
-<a href="http://www.nata2.info/?path=pictures%2Fmisc%2Fphone_camera%2Fphotolog&amp;img=1076646915-t610(1).jpg">valentines day</a> is in the marrow. I didn't get my brother a bday present. I am a slacker. I should however. maybe I will get him a <a href=""></a>. maye not ;). morgan and I our going to go to see <a href="http://www.ticketmaster.com/artist/807285?tm_link=tm_home_g10">Monster Jam Monster Truck Racing</a> tommarrow night. I am thrilled. apparently a bunch of others are going as well. it will be an experience. for occasions like this, I am glad I have a mullet/rattail. I am able to blend in. heh. morgan however may have some issues - as she does have a mohawk. I will have to be extra hick I guess to make up for the lack of hick she possesses. possesses has a bundle of ss. haha. ss. esses?<br/><br/>tonight I am going to sleep a bunch. and then goto <a href="http://redrocketgallery.com/">lenore and jason's gallery</a>. I like gallery openings - especially when I am not interested in the art. it turns into such a social event. I love socials. then apparently there is a party. <br/><br/>i have strangely and unfortunantly run out of disposable income for the month.<br/><br/>i get to act the future man for sure.<br/><br/>my new shoes squeek and it cracks me up.<br/><br/>i have not yet recovered from my night up. 
+<a href="http://www.nata2.info/?path=pictures%2Fmisc%2Fphone_camera%2Fphotolog&amp;img=1076646915-t610(1).jpg">valentines day</a> is in the marrow. I didn't get my brother a bday present. I am a slacker. I should however. maybe I will get him a <a href=""></a>. maye not ;). morgan and I our going to go to see <a href="http://www.ticketmaster.com/artist/807285?tm_link=tm_home_g10">Monster Jam Monster Truck Racing</a> tommarrow night. I am thrilled. apparently a bunch of others are going as well. it will be an experience. for occasions like this, I am glad I have a mullet/rattail. I am able to blend in. heh. morgan however may have some issues - as she does have a mohawk. I will have to be extra hick I guess to make up for the lack of hick she possesses. possesses has a bundle of ss. haha. ss. esses?<br/><br/>tonight I am going to sleep a bunch. and then goto <a href="http://redrocketgallery.com/">lenore and jason's gallery</a>. I like gallery openings - especially when I am not interested in the art. it turns into such a social event. I love socials. then apparently there is a party. <br/><br/>i have strangely and unfortunantly run out of disposable income for the month.<br/><br/>i get to act the future man for sure.<br/><br/>my new shoes squeek and it cracks me up.<br/><br/>i have not yet recovered from my night up.

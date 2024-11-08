@@ -1,9 +1,14 @@
 ---
-date: 2003-06-12T15:41:18Z
+date: 2003-06-12 15:41:18+00:00
 excerpt: but I called the yoyo guys, and they have found my package. it was returned.
   whew. my yoyos will live... again.. Yesterday was nice. I went after work to visit
   marcia at the art institute, we then went to Joy Yee on a whim a...
-tags: ["chicago","food","yoyos"]
+tags:
+- chicago
+- food
+- yoyos
+- art-institute
+- music
 title: i know you are all very worried..
 wordpress_id: 539
 wordpress_url: http://new.nata2.org/?p=539

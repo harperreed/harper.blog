@@ -1,6 +1,11 @@
 ---
-date: 2006-04-01T20:00:28Z
-tags: ["general","food","hiromi","travel","japan","tokyo","trips"]
+date: 2006-04-01 20:00:28+00:00
+tags:
+- travel
+- food
+- tokyo
+- japan
+- personal-experience
 title: so.. my experience in tokyo
 wordpress_id: 1236
 wordpress_url: http://www.nata2.org/2006/04/01/so-my-experience-in-tokyo/

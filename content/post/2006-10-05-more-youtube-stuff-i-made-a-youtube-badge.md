@@ -1,6 +1,10 @@
 ---
-date: 2006-10-05T00:02:13Z
-tags: ["technology","php","flickr","youtube","classes","badge","flashandburn"]
+date: 2006-10-05 00:02:13+00:00
+tags:
+- youtube
+- technology
+- badges
+- hacks
 title: 'More youTube stuff: I made a youTube badge. '
 wordpress_id: 1358
 wordpress_url: http://www.nata2.org/2006/10/05/more-youtube-stuff-i-made-a-youtube-badge/

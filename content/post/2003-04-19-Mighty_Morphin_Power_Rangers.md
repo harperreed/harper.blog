@@ -1,12 +1,22 @@
 ---
-date: 2003-04-19T20:35:02Z
-excerpt: |-
-  So the other day a friend of mine and myself were perusing ebay for some fine goods.. and we came accross a box of mighty morphin power ranger soap. so I purchased it and had it sent to a friend of mine:
+date: 2003-04-19 20:35:02+00:00
+excerpt: 'So the other day a friend of mine and myself were perusing ebay for some
+  fine goods.. and we came accross a box of mighty morphin power ranger soap. so I
+  purchased it and had it sent to a friend of mine:
+
 
 
   [15:25 - Saturday] NaTa22aTaN: wew you surprised
+
   [15:25 - Saturday] quantazelle: totally
-  [15:25 - Saturday] quantazelle: that was hilariou...
+
+  [15:25 - Saturday] quantazelle: that was hilariou...'
+tags:
+- mighty-morphin-power-rangers
+- nostalgia
+- collectibles
+- pop-culture
+- soap
 title: Mighty Morphin Power Rangers
 wordpress_id: 491
 wordpress_url: http://new.nata2.org/?p=491

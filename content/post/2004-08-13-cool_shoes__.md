@@ -1,9 +1,14 @@
 ---
-date: 2004-08-13T19:27:50Z
+date: 2004-08-13 19:27:50+00:00
 excerpt: 'i got new shoes. I am excited. I also posted some new pictures. they are
   awesome. first I posted pictures of my cousin showing his steer off. it was pretty
   cool. he got '
-tags: ["birthday"]
+tags:
+- shoes
+- birthday
+- family
+- events
+- photography
 title: cool shoes..
 wordpress_id: 916
 wordpress_url: http://new.nata2.org/?p=916

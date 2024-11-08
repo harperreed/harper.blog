@@ -1,7 +1,12 @@
 ---
-date: 2006-04-11T13:22:35Z
-tags: ["general"]
-title: 'Nokia hash Codes'
+date: 2006-04-11 13:22:35+00:00
+tags:
+- nokia
+- mobile-phones
+- tech-tips
+- firmware
+- codes
+title: Nokia hash Codes
 wordpress_id: 1243
 wordpress_url: http://www.nata2.org/phone-stuff/nokia-codes/
 ---

@@ -1,6 +1,11 @@
 ---
-date: 2007-10-17T01:18:47Z
-tags: ["general","family","disease","terrorism","trees","eczema"]
+date: 2007-10-17 01:18:47+00:00
+tags:
+- family
+- health
+- hospital
+- stress
+- eczema
 title: Tell him to stay in his tree
 wordpress_id: 1485
 wordpress_url: http://www.nata2.org/2007/10/17/tell-him-to-stay-in-his-tree/

@@ -1,6 +1,10 @@
 ---
-date: 2007-06-05T13:39:32Z
-tags: ["technology","technology","yahoo-pipes","google","yahoo","mashups","google-mashup-editor"]
+date: 2007-06-05 13:39:32+00:00
+tags:
+- google
+- mashups
+- technology
+- data-api
 title: Google Mashup Editor
 wordpress_id: 1452
 wordpress_url: http://www.nata2.org/2007/06/05/google-mashup-editor/

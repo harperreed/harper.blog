@@ -1,9 +1,14 @@
 ---
-date: 2005-02-22T05:34:18Z
+date: 2005-02-22 05:34:18+00:00
 excerpt: this weekend was a good time. I flew to minneapolis to engage in a juggling
   festival. it ruled. I saw lots of cool friends. sadly tomorrow is work. hey all
   my far away friends (i.e. bec, miriam and ella) I am n...
-tags: ["php","phone","internet","sites","juggling","phones","ella"]
+tags:
+- long-distance
+- voip
+- juggling-festival
+- skype
+- internet-communication
 title: skype. long distance. radio waves. and yoyos
 wordpress_id: 996
 wordpress_url: http://new.nata2.org/?p=996

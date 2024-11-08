@@ -1,8 +1,13 @@
 ---
-date: 2002-11-18T07:26:02Z
+date: 2002-11-18 07:26:02+00:00
 excerpt: "one of three choices:\r\n\r\nFiery death from a high rise building\r\nWar!\r\nNuclear
   War\r\nBush's "
-tags: ["job","harper","reed","war","bush","corporate","politics","politic","asia","screensaver"]
+tags:
+- job
+- politics
+- war
+- economy
+- corporate
 title: Tomarrow brings..
 wordpress_id: 402
 wordpress_url: http://new.nata2.org/?p=402

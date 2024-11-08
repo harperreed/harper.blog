@@ -1,6 +1,11 @@
 ---
-date: 2005-06-24T15:19:01Z
-tags: ["general","travel","airports","injuries"]
+date: 2005-06-24 15:19:01+00:00
+tags:
+- frustration
+- travel-woes
+- airports
+- flight-issues
+- new-york
 title: yea. i am going to punch airports in the nuts
 wordpress_id: 1087
 wordpress_url: http://www.nata2.org/2005/06/24/yea-i-am-going-to-punch-airports-in-the-nuts/
@@ -28,4 +33,4 @@ So i got on the plane, slept, woke up, got on another plane and finally made it 
 
 yea. all because i am incompetent at booking tickets. 
 
-NO MORE. 
+NO MORE.

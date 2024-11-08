@@ -1,11 +1,16 @@
 ---
-date: 2005-03-20T07:14:50Z
+date: 2005-03-20 07:14:50+00:00
 excerpt: so tonight I went to crobar. my friend dayle met me. he is crazy. I am crazy.
   we hung out. he was giving me a ride home and he got pulled over. he may or may
   not have been driving crazy. I don't know. however we got pulled over. the cops
   pulled their guns and told us to get out with our hands up. we both did. they made
   us get out and they searched us rather throughoughly. (that is spelled horrib...
-tags: ["general","chicago","search","war","crobar","insane","birthday","parties"]
+tags:
+- police-brutality
+- chicago
+- partying
+- crazy-experience
+- law-enforcement
 title: omg. insanity. chicago cops
 wordpress_id: 1011
 wordpress_url: http://new.nata2.org/?p=1011

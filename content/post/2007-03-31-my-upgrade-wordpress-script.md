@@ -1,6 +1,11 @@
 ---
-date: 2007-03-31T18:54:13Z
-tags: ["technology","technology","php","wordpress","automatic-upgrade","bash","script","upgrade"]
+date: 2007-03-31 18:54:13+00:00
+tags:
+- wordpress
+- upgrade
+- bash-script
+- php
+- automation
 title: My upgrade wordpress script
 wordpress_id: 1427
 wordpress_url: http://www.nata2.org/2007/03/31/my-upgrade-wordpress-script/

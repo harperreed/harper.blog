@@ -1,6 +1,11 @@
 ---
-date: 2007-02-14T13:50:00Z
-tags: ["general","dylan","chicago","hiromi","mosso","skinnycorp","cta","servers","moving","logan-square","lincoln-square","buses","valentines-day"]
+date: 2007-02-14 13:50:00+00:00
+tags:
+- moving
+- chicago
+- life-updates
+- apartment
+- neighborhood
 title: A lot of stuff in the last month.
 wordpress_id: 1408
 wordpress_url: http://www.nata2.org/2007/02/14/a-lot-of-stuff-in-the-last-month/

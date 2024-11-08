@@ -1,10 +1,15 @@
 ---
-date: 2004-06-18T19:50:11Z
+date: 2004-06-18 19:50:11+00:00
 excerpt: "seriously. everything is breaking. but I feel we are successfully fixing
   it. umm.. \nlinuXKilla: roxor= rock\nlinuXKilla: suxor = suck\nlinuXKilla: fuxor=fuck\ntellerific
   x: hahah dorxor?\n\nmy life rules. apparently the shins are tonight. it should be
   fun. I like them. but currently - cradle of filth is ..."
-tags: ["phone","rock","linux"]
+tags:
+- work
+- music
+- linux
+- technology
+- stress
 title: work is insane
 wordpress_id: 888
 wordpress_url: http://new.nata2.org/?p=888

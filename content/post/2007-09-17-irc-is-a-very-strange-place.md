@@ -1,6 +1,11 @@
 ---
-date: 2007-09-17T01:20:36Z
-tags: ["general","humor","irc","nerds","breaking-up"]
+date: 2007-09-17 01:20:36+00:00
+tags:
+- irc
+- internet-culture
+- humor
+- social-interaction
+- nerd-culture
 title: IRC is a very strange place
 wordpress_id: 1479
 wordpress_url: http://www.nata2.org/2007/09/17/irc-is-a-very-strange-place/

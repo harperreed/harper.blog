@@ -1,6 +1,11 @@
 ---
-date: 2007-09-05T00:54:54Z
-tags: ["general","motorcycle","madass","sachs","moped"]
+date: 2007-09-05 00:54:54+00:00
+tags:
+- motorcycling
+- urban-transportation
+- custom-bikes
+- scooters
+- two-wheelers
 title: 'My new fascination: Sachs Madass'
 wordpress_id: 1476
 wordpress_url: http://www.nata2.org/2007/09/05/my-new-fascination-sachs-madass/

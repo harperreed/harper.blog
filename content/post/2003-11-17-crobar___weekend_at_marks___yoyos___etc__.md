@@ -1,10 +1,15 @@
 ---
-date: 2003-11-17T06:37:01Z
+date: 2003-11-17 06:37:01+00:00
 excerpt: So on friday I went out to eat with my friend hilary and my roomie hiromi.
   we went to irazu. it was great. we then went to mark's gallery opening. it was nice
   and small. chris called and we then went to sushi wabi to meet felix and friends
   for food. I lvoe sushi wabi. jill was worki...
-tags: ["video","food","crobar","insane","chris","matiss","hiromi","sushi"]
+tags:
+- food
+- nightlife
+- sushi
+- events
+- friends
 title: crobar.. weekend at marks.. yoyos.. etc..
 wordpress_id: 679
 wordpress_url: http://new.nata2.org/?p=679

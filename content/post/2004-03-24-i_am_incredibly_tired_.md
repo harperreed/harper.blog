@@ -1,11 +1,16 @@
 ---
-date: 2004-03-24T07:09:15Z
+date: 2004-03-24 07:09:15+00:00
 excerpt: i feel better. even matt said I looked and acted more chilled out. I really
   feel more chilled out. morgan and I talked and came to a point where we are in the
   same space/place. I think it will work out. we obviously have to redefine our relationship.
   and how we work together. but that is totally fine and completely appropriate. I
   think she said it best with an analogy to the gears in a car. going...
-tags: ["juggle","php","phone","blogs","war","juggling","corporate","matiss","nokia","blogger"]
+tags:
+- personal-reflection
+- relationships
+- blogging
+- mental-health
+- self-discovery
 title: i am incredibly tired.
 wordpress_id: 793
 wordpress_url: http://new.nata2.org/?p=793

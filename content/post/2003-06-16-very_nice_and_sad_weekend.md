@@ -1,9 +1,14 @@
 ---
-date: 2003-06-16T15:54:20Z
+date: 2003-06-16 15:54:20+00:00
 excerpt: So this weekend was erally great. So much nice stuff happened and went down..
   but all because of a very sad reason.. Yesterday bec left for miami.. :( - hopefully
   we will see her again. I really enjoyed hangin...
-tags: ["juggle","chicago","war","food","matiss","hiromi"]
+tags:
+- goodbye
+- friendship
+- food
+- emotions
+- chicago
 title: very nice and sad weekend
 wordpress_id: 541
 wordpress_url: http://new.nata2.org/?p=541

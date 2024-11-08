@@ -1,6 +1,11 @@
 ---
-date: 2005-06-10T00:35:50Z
-tags: ["general","hacking","juicebox","haxoring","make"]
+date: 2005-06-10 00:35:50+00:00
+tags:
+- hacking
+- electronics
+- open-source
+- diy
+- juicer
 title: Juicebox haxoring
 wordpress_id: 1187
 wordpress_url: http://www.nata2.org/2005/06/10/juicebox-haxoring-3/

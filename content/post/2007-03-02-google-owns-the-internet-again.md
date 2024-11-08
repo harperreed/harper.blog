@@ -1,6 +1,11 @@
 ---
-date: 2007-03-02T16:59:54Z
-tags: ["general","internet","google","alexa","growth"]
+date: 2007-03-02 16:59:54+00:00
+tags:
+- google
+- internet
+- websites
+- dominance
+- technology
 title: Google owns the Internet... again
 wordpress_id: 1412
 wordpress_url: http://www.nata2.org/2007/03/02/google-owns-the-internet-again/

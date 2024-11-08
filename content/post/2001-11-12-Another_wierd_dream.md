@@ -1,12 +1,16 @@
 ---
-date: 2001-11-12T16:40:25Z
-excerpt: |-
-  So, I had another weird dream. this one was quite scary - not that weird good scary either. Real real scary. Not fun. it went like this:
-
-   I was one of the head guys at a mental institution and I was in charge of combating all communicable diseases. So I got an alert of a breakout of this scary disease that turns ordinary people into shape shifters on a killing rampage.
-
-  S...
-tags: ["job","war","insane","action","disease"]
+date: 2001-11-12 16:40:25+00:00
+excerpt: "So, I had another weird dream. this one was quite scary - not that weird
+  good scary either. Real real scary. Not fun. it went like this:\n\n I was one of
+  the head guys at a mental institution and I was in charge of combating all communicable
+  diseases. So I got an alert of a breakout of this scary disease that turns ordinary
+  people into shape shifters on a killing rampage.\n\nS..."
+tags:
+- dreams
+- horror
+- mental-health
+- disease
+- action
 title: Another wierd dream
 wordpress_id: 129
 wordpress_url: http://new.nata2.org/?p=129

@@ -1,11 +1,16 @@
 ---
-date: 2001-09-10T18:07:01Z
+date: 2001-09-10 18:07:01+00:00
 excerpt: So my girlfriend and myself have been dating 10 months. That is a real long
   time for me. I mean it is nothing compared to some lucky peoples marriage, but it
   is like 80% of a year, 304 days, a little over 1 million seconds(i think :)). So
   anyway, i am excited to go and see her at college. Hopefully all goes well and i
   get to go visit. I miss her terribly. My only solace is in my second bes...
-tags: ["phone","cell","college","girlfriend","marriage"]
+tags:
+- long-distance-relationship
+- college-life
+- travel
+- relationships
+- communication
 title: 10 Months and the long drive ahead...
 wordpress_id: 101
 wordpress_url: http://new.nata2.org/?p=101

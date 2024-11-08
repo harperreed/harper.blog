@@ -1,11 +1,16 @@
 ---
-date: 2003-10-24T14:15:59Z
+date: 2003-10-24 14:15:59+00:00
 excerpt: However.. this time is a lot more pleasant. All I do is get tired when I
   run over 1 mile and sleep when I lay in my bed. oh.. and I also have the sniffles.
   but I am going to take some medicine.. and a E-merge-ENC-E. it will be a nice cocktail.So
   us IT workers have been complaining to the building manager that we need mountain
   dew in our damned pop machine. he just looks at us and laughs...
-tags: ["sushi","weownthesun"]
+tags:
+- health
+- sushi
+- workplace
+- technology
+- website-launch
 title: wtf i am sick again..
 wordpress_id: 655
 wordpress_url: http://new.nata2.org/?p=655

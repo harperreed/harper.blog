@@ -1,6 +1,11 @@
 ---
-date: 2008-10-06T01:20:02Z
-tags: ["general","chicago","hacking","bus","api","transit"]
+date: 2008-10-06 01:20:02+00:00
+tags:
+- chicago-transit
+- public-transportation
+- real-time-data
+- api-development
+- bus-tracker
 title: Chicago Transit API
 wordpress_id: 1569
 wordpress_url: http://www.nata2.org/?p=1569
