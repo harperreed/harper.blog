@@ -1,6 +1,11 @@
 ---
-date: 2008-12-26T00:31:12Z
-tags: ["general","family","holidays"]
+date: 2008-12-26 00:31:12+00:00
+tags:
+- winter
+- celebration
+- family-gathering
+- holiday-season
+- food
 title: Happy Holidays
 wordpress_id: 1578
 wordpress_url: http://www.nata2.org/?p=1578

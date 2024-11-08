@@ -1,6 +1,11 @@
 ---
-date: 2007-08-31T21:19:31Z
-tags: ["general","colorado","marriage","fun","hiromi","travel","parties"]
+date: 2007-08-31 21:19:31+00:00
+tags:
+- wedding
+- celebration
+- friends
+- family
+- travel
 title: Our unofficial official wedding party
 wordpress_id: 1474
 wordpress_url: http://www.nata2.org/2007/08/31/our-unofficial-official-wedding-party/

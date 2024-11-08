@@ -1,6 +1,11 @@
 ---
-date: 2007-06-10T15:34:19Z
-tags: ["general"]
+date: 2007-06-10 15:34:19+00:00
+tags:
+- wifi
+- mesh-networking
+- networking
+- access-points
+- wireless-technology
 title: 'Meraki: mesh wifi for the rest of us'
 wordpress_id: 1455
 wordpress_url: http://www.nata2.org/2007/06/10/meraki-mesh-wifi-for-the-rest-of-us/

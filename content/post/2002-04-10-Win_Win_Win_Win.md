@@ -1,10 +1,15 @@
 ---
-date: 2002-04-10T16:33:38Z
+date: 2002-04-10 16:33:38+00:00
 excerpt: "I got an email today from Ars Electronica notifying me that\nmy website
   AudreyHacking.com has been accepted for entry in the \nPrix Ars Electronica 2002
   competition. Whee. I hope I win. That would rule. In other news. I slept a lot last
   night. it was nice. however.. I slept so much..."
-tags: ["dylan","reed","hacking","audreyhacking","audrey","apple"]
+tags:
+- web-design
+- competition
+- apple
+- technology
+- blogging
 title: Win Win Win Win
 wordpress_id: 256
 wordpress_url: http://new.nata2.org/?p=256

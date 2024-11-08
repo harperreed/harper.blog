@@ -1,6 +1,11 @@
 ---
-date: 2007-07-06T06:23:53Z
-tags: ["technology","technology","jabber","google","awesome","tricks","multi-user-chat","google-talk","gtalk","talk"]
+date: 2007-07-06 06:23:53+00:00
+tags:
+- jabber
+- google-talk
+- group-chat
+- instant-messaging
+- technology
 title: Google Talk group chat integration with Jabber Chat
 wordpress_id: 1463
 wordpress_url: http://www.nata2.org/2007/07/06/google-talk-group-chat-integration-with-jabber-chat/

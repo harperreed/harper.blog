@@ -1,6 +1,11 @@
 ---
-date: 2005-10-17T16:58:00Z
-tags: ["general","hacking","stereo","hifi","t-amp"]
+date: 2005-10-17 16:58:00+00:00
+tags:
+- audio
+- diy-audio
+- amplifier
+- electronics
+- stereo
 title: t-amp hacking
 wordpress_id: 1139
 wordpress_url: http://www.nata2.org/2005/10/17/t-amp-hacking/
@@ -10,4 +15,4 @@ I purchased a t-amp awhile ago and have been listening to it in it stock form fo
 
 eep. stereo. 
 
-epp. back to work. 
+epp. back to work.

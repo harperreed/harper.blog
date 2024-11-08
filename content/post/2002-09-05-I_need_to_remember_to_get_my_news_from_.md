@@ -1,9 +1,16 @@
 ---
-date: 2002-09-05T09:46:08Z
-excerpt: |-
-  metafilter
+date: 2002-09-05 09:46:08+00:00
+excerpt: 'metafilter
+
   fark
-  drudge
+
+  drudge'
+tags:
+- news
+- media
+- websites
+- information
+- blog
 title: 'I need to remember to get my news from:'
 wordpress_id: 350
 wordpress_url: http://new.nata2.org/?p=350

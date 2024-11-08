@@ -1,6 +1,11 @@
 ---
-date: 2006-01-13T17:05:29Z
-tags: ["general","blogs","jokes","awesome"]
+date: 2006-01-13 17:05:29+00:00
+tags:
+- humor
+- blonde-jokes
+- comedy
+- entertainment
+- funny
 title: best blond joke ever
 wordpress_id: 1158
 wordpress_url: http://www.nata2.org/2006/01/13/best-blond-joke-ever/

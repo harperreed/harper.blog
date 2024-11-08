@@ -1,6 +1,11 @@
 ---
-date: 2005-10-05T11:13:24Z
-tags: ["general","books","music","literature","singularity","bus","classical"]
+date: 2005-10-05 11:13:24+00:00
+tags:
+- literature
+- books
+- music
+- classical
+- reading
 title: gravity's rainbow
 wordpress_id: 1135
 wordpress_url: http://www.nata2.org/2005/10/05/gravitys-rainbow/

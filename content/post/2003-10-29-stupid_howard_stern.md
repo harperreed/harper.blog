@@ -1,11 +1,16 @@
 ---
-date: 2003-10-29T00:43:18Z
+date: 2003-10-29 00:43:18+00:00
 excerpt: So today.. I was watching cky4 hanging out with mark and matt.. waiting to
   goto juggling club.. and as soon as we should have left for juggling club.. I got
   a call from derek exclaiming that my server wasn't responding. so I immediately
   called my lovely colo facility and mentioned to them that I needed my server rebooted.
   so they rebooted it.. ...
-tags: ["php","server","women","war","video","insane","juggling","aim","broox"]
+tags:
+- server
+- traffic
+- video
+- technology
+- juggling
 title: stupid howard stern
 wordpress_id: 661
 wordpress_url: http://new.nata2.org/?p=661

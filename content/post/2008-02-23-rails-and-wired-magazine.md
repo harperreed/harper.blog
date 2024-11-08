@@ -1,6 +1,10 @@
 ---
-date: 2008-02-23T16:54:30Z
-tags: ["technology","community","rails","wired","rant"]
+date: 2008-02-23 16:54:30+00:00
+tags:
+- ruby
+- programming
+- software-engineering
+- tech-communication
 title: Rails and Wired magazine
 wordpress_id: 1507
 wordpress_url: http://www.nata2.org/2008/02/23/rails-and-wired-magazine/

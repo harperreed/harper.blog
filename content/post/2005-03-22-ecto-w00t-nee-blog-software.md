@@ -1,6 +1,11 @@
 ---
-date: 2005-03-22T00:08:00Z
-tags: ["general","food","birthday","wordpress","ecto"]
+date: 2005-03-22 00:08:00+00:00
+tags:
+- blogging
+- software
+- food
+- wordpress
+- testing
 title: Ecto!! w00t. nee blog software.
 wordpress_id: 1018
 wordpress_url: http://www.nata2.org/2005/03/22/ecto-w00t-nee-blog-software/
@@ -14,4 +19,4 @@ how nice. spell check.
 
 doh! it didn't work
 
-Try two! W00t. it worked. ok. now i have made posting to my blog super super easy. i have NO excuse not to post. i guess i need to register this. or something. ;) except.. it doesn't actually work. heh. 
+Try two! W00t. it worked. ok. now i have made posting to my blog super super easy. i have NO excuse not to post. i guess i need to register this. or something. ;) except.. it doesn't actually work. heh.

@@ -1,6 +1,11 @@
 ---
-date: 2007-05-06T01:06:05Z
-tags: ["technology","technology","linux","osx","apple","macbook","t60","lenovo","purchase","development","desktop-development","mac","ubuntu","laptops"]
+date: 2007-05-06 01:06:05+00:00
+tags:
+- laptops
+- technology
+- purchase
+- travel
+- development
 title: Which laptop should I get
 wordpress_id: 1441
 wordpress_url: http://www.nata2.org/2007/05/06/which-laptop-should-i-get/

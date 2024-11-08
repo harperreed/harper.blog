@@ -1,6 +1,11 @@
 ---
-date: 2007-06-04T20:49:41Z
-tags: ["general","fun","online","games","scrabulous","scrabble","weewar","weewarcom"]
+date: 2007-06-04 20:49:41+00:00
+tags:
+- online-gaming
+- strategy-games
+- multiplayer
+- fun
+- casual-games
 title: 'Online games are killing me: weewar and scrabulous'
 wordpress_id: 1449
 wordpress_url: http://www.nata2.org/2007/06/04/online-games-are-killing-me-weewar-and-scrabulous/

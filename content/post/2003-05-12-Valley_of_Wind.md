@@ -1,11 +1,16 @@
 ---
-date: 2003-05-12T15:23:29Z
+date: 2003-05-12 15:23:29+00:00
 excerpt: hehe. Yesterday ruled. I got up at around 1:30 or so and called my mom. w00t.
   then I went to lula with matiss, beck, eleni and silvia. We hung out until around
   3:30 and had an incredible meal. I think I had catfish and eggs and then shared
   a bunch of desert with my friends. so so good. we then went back to my apartment
   and watched a studio ghibli movie c...
-tags: ["mom","matiss"]
+tags:
+- food
+- friends
+- movies
+- hayao-miyazaki
+- personal-experience
 title: Valley of Wind
 wordpress_id: 510
 wordpress_url: http://new.nata2.org/?p=510

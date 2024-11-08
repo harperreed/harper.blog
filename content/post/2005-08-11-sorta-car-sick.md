@@ -1,6 +1,11 @@
 ---
-date: 2005-08-11T17:15:38Z
-tags: ["general","internet","travel","work","heat","confusion"]
+date: 2005-08-11 17:15:38+00:00
+tags:
+- internet
+- travel
+- work
+- confusion
+- personal-experience
 title: 'sorta car sick. '
 wordpress_id: 1109
 wordpress_url: http://www.nata2.org/2005/08/11/sorta-car-sick/
@@ -16,4 +21,3 @@ i also don't want to do work. but it is cool and interesting so i kinda do. i ju
 and my penis is really hot from my laptop. i need to move it. my penis or my laptop. 
 
 hahaha
- 

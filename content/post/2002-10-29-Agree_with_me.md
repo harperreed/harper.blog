@@ -1,11 +1,16 @@
 ---
-date: 2002-10-29T15:21:55Z
+date: 2002-10-29 15:21:55+00:00
 excerpt: I have always thought that a military action in Iraq without the support
   of the UN could result in igniting a much larger and more violent conflict. The
   fact that the middle east is a powder keg waiting to explode and the fact that numerous
   other geopolitical situations are walking a very thin line leads me to conclude
   now is not the time for an international conflict - especially one where the o...
-tags: ["php","war","bush","action","military","politic","iraq"]
+tags:
+- military-action
+- geopolitics
+- iraq-war
+- international-relations
+- united-nations
 title: Agree with me
 wordpress_id: 384
 wordpress_url: http://new.nata2.org/?p=384

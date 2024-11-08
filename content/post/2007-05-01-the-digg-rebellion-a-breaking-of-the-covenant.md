@@ -1,6 +1,11 @@
 ---
-date: 2007-05-01T22:43:42Z
-tags: ["technology","technology","online","web-20","users","communities","digg"]
+date: 2007-05-01 22:43:42+00:00
+tags:
+- online-communities
+- censorship
+- user-generated-content
+- digital-rights
+- social-media
 title: 'The Digg Rebellion: a breaking of the covenant'
 wordpress_id: 1440
 wordpress_url: http://www.nata2.org/2007/05/01/the-digg-rebellion-a-breaking-of-the-covenant/

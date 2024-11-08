@@ -1,6 +1,11 @@
 ---
-date: 2006-07-13T20:33:55Z
-tags: ["technology","skinnycorp","opendns","enterprise"]
+date: 2006-07-13 20:33:55+00:00
+tags:
+- dns
+- internet-security
+- cloud-computing
+- networking
+- technology
 title: 'OpenDNS Part 2: after using it for a hiphop minute'
 wordpress_id: 1304
 wordpress_url: http://www.nata2.org/2006/07/13/opendns-part-2-after-using-it-for-a-hiphop-minute/

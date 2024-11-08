@@ -1,6 +1,11 @@
 ---
-date: 2003-12-05T01:12:04Z
-tags: ["general"]
+date: 2003-12-05 01:12:04+00:00
+tags:
+- mobile-phones
+- cellular-providers
+- porting-numbers
+- data-plans
+- sprint-to-tmobile
 title: Porting from sprint to t-mobile
 wordpress_id: 1167
 wordpress_url: http://www.nata2.org/2003/12/05/porting-from-sprint-to-t-mobile/

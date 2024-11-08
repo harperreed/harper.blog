@@ -1,6 +1,11 @@
 ---
-date: 2007-04-22T16:30:08Z
-tags: ["technology","technology","threadless","travel","california","santa-clara","skinnycorp","mysqlconf","mysql"]
+date: 2007-04-22 16:30:08+00:00
+tags:
+- mysql
+- technology
+- travel
+- conference
+- cloud-computing
 title: Sitting in the hotel lobby...
 wordpress_id: 1437
 wordpress_url: http://www.nata2.org/2007/04/22/sitting-in-the-hotel-lobby/

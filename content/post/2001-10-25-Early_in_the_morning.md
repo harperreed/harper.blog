@@ -1,10 +1,15 @@
 ---
-date: 2001-10-25T08:32:47Z
+date: 2001-10-25 08:32:47+00:00
 excerpt: So. Today has been great so far. My girlfriend is visiting later, I have
   a BIG meeting and presentation for work in a couple hours. and to top it all off,
   while I was reading my favorite new source, I noticed this article which linked
   to my website. It is rather ex...
-tags: ["server","hacking","community","audreyhacking","audrey","girlfriend","source"]
+tags:
+- community
+- technology
+- relationships
+- work
+- blogging
 title: Early in the morning
 wordpress_id: 120
 wordpress_url: http://new.nata2.org/?p=120

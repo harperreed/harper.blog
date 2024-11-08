@@ -1,10 +1,15 @@
 ---
-date: 2003-04-28T21:25:58Z
+date: 2003-04-28 21:25:58+00:00
 excerpt: Today work is fun. well sorta. we got smoe good stuff done. but now I am
   ready to go home. Some friends and coworkers sent me some good links. Noel sent
   this gayness test in.. I am apparently 46% gay. wow surprise there huh ;) one of
   my coworkers sent this "Starship Dimensions" site to me. It is rathe...
-tags: ["video","rock"]
+tags:
+- fun
+- work
+- video
+- rock
+- space
 title: Fun at work
 wordpress_id: 499
 wordpress_url: http://new.nata2.org/?p=499

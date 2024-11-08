@@ -1,6 +1,11 @@
 ---
-date: 2007-01-09T02:32:00Z
-tags: ["general","movies","scary","children-of-men","suggestions"]
+date: 2007-01-09 02:32:00+00:00
+tags:
+- drama
+- sci-fi
+- thought-provoking
+- dystopian
+- film-review
 title: Children of Men. You need to see it. Go Now!
 wordpress_id: 1403
 wordpress_url: http://www.nata2.org/2007/01/09/children-of-men-you-need-to-see-it-go-now/

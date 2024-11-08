@@ -1,6 +1,11 @@
 ---
-date: 2007-01-17T11:18:24Z
-tags: ["technology","technology"]
+date: 2007-01-17 11:18:24+00:00
+tags:
+- windows-vista
+- osx
+- price-comparison
+- operating-systems
+- technology
 title: Windows Vista vs OSX - Price comparison
 wordpress_id: 1406
 wordpress_url: http://www.nata2.org/2007/01/17/windows-vista-vs-osx-price-comparison/

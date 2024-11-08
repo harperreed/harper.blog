@@ -1,6 +1,11 @@
 ---
-date: 2006-05-09T03:35:01Z
-tags: ["general","video","flickr","travel","home","jon"]
+date: 2006-05-09 03:35:01+00:00
+tags:
+- home
+- graduation
+- travel
+- video
+- bluegrass
 title: 'So i finally came back. '
 wordpress_id: 1261
 wordpress_url: http://www.nata2.org/2006/05/09/so-i-finally-came-back/

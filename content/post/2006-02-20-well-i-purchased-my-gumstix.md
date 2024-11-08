@@ -1,6 +1,11 @@
 ---
-date: 2006-02-20T23:35:25Z
-tags: ["general","technology","technology","hacking"]
+date: 2006-02-20 23:35:25+00:00
+tags:
+- gumstix
+- technology
+- hacking
+- blogging
+- personal-experience
 title: 'Well i purchased my gumstix. '
 wordpress_id: 1213
 wordpress_url: http://www.nata2.org/2006/02/20/well-i-purchased-my-gumstix/

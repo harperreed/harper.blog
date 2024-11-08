@@ -1,6 +1,11 @@
 ---
-date: 2006-10-09T00:24:46Z
-tags: ["technology","awesome","television","p2p","rss","democracy","torrents","bittorrent","download"]
+date: 2006-10-09 00:24:46+00:00
+tags:
+- free-tv
+- streaming
+- media
+- download
+- technology
 title: How to get and watch free TV
 wordpress_id: 1360
 wordpress_url: http://www.nata2.org/2006/10/09/get-and-watch-free-tv/

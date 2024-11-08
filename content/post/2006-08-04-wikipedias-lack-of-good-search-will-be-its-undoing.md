@@ -1,6 +1,11 @@
 ---
-date: 2006-08-04T19:34:28Z
-tags: ["technology","search","wikipedia","endeca","encyclopedia"]
+date: 2006-08-04 19:34:28+00:00
+tags:
+- search-engine
+- online-encyclopedia
+- information-retrieval
+- user-experience
+- technology
 title: Wikipedia's lack of good search will be its undoing
 wordpress_id: 1318
 wordpress_url: http://www.nata2.org/2006/08/04/wikipedias-lack-of-good-search-will-be-its-undoing/

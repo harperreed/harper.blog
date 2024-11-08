@@ -1,10 +1,15 @@
 ---
-date: 2004-07-12T07:47:28Z
+date: 2004-07-12 07:47:28+00:00
 excerpt: this is pretty funny. sometimes I wish I had a secret place to store things.
   like a mary poppins bag of sorts that I could carry around and remove HUGE objects
   from. it would rule. but that technology is full of ninjas right now.tonight I watched
   anchorman. it was very funny. I LOVED brick. that actor cracks me up. he sure love...
-tags: ["books","technology","php","chicago","war","video","food","movies","watership","music","aim","games","matiss","broox","hiromi","amjad"]
+tags:
+- movies
+- music
+- technology
+- humor
+- books
 title: totoro. medicine women
 wordpress_id: 899
 wordpress_url: http://new.nata2.org/?p=899
@@ -19,4 +24,4 @@ a friend of mine just told me that <a href="http://www.imdb.com/title/tt0361596/
 ok yall. you need to help my friend robyn. she is running a marathon(which is apparently a bunch of miles hah I am retarded) and she is a normal person like us - so it is crazy that she is running it. but she is. and she has ran more than I have ever ran just in training. it is quite incredible. but she asked me to post a little thing about her on my blog. so go and support her. check her out <a href="http://aidsmarathon.com/participant.asp?runner=CH-2039">here</a>. if you don't I will be soooo mad. seriously. it is important. 
 
 <br/><br/>
-i should goto sleep.<br/>ok. done. but first good music.<br/>done. <br/>now sleep. 
+i should goto sleep.<br/>ok. done. but first good music.<br/>done. <br/>now sleep.

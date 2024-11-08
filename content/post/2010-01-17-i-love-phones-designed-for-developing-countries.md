@@ -1,6 +1,11 @@
 ---
-date: 2010-01-17T19:49:55Z
-tags: ["general","phones","nokia","motorola","developing"]
+date: 2010-01-17 19:49:55+00:00
+tags:
+- mobile-technology
+- feature-phones
+- affordable-devices
+- technology-in-developing-countries
+- simple-devices
 title: 'I love phones designed for developing countries. '
 wordpress_id: 1661
 wordpress_url: http://www.nata2.org/?p=1661

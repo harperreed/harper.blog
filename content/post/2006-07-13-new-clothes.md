@@ -1,6 +1,11 @@
 ---
-date: 2006-07-13T20:17:41Z
-tags: ["general","insane","fashion","tokyo","clothing","bape"]
+date: 2006-07-13 20:17:41+00:00
+tags:
+- streetwear
+- hiphop
+- limited-edition
+- fashion-trends
+- bape
 title: New clothes
 wordpress_id: 1303
 wordpress_url: http://www.nata2.org/2006/07/13/new-clothes/

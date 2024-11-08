@@ -1,11 +1,16 @@
 ---
-date: 2003-06-21T19:33:13Z
+date: 2003-06-21 19:33:13+00:00
 excerpt: Last night I went to this electro party. it was OK. it was a HUGE space and
   their was not enough people to fill it up. However - it was rather well executed
   and overall it did a good job as a party. my friend Chris DJ'd and that ruled..
   but some cats were pissed.. cuz his headphones were similiar to their previously
   stolen ones. wtf. speaking of headph...
-tags: ["job","phone","food","chris","ipod","phones","hiromi"]
+tags:
+- party
+- music
+- headphones
+- food
+- friends
 title: i am amazed
 wordpress_id: 547
 wordpress_url: http://new.nata2.org/?p=547

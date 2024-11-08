@@ -1,6 +1,11 @@
 ---
-date: 2007-03-28T14:20:54Z
-tags: ["technology","technology","google","sad","seo"]
+date: 2007-03-28 14:20:54+00:00
+tags:
+- google
+- seo
+- technology
+- blogging
+- digital-marketing
 title: Sad Google day.
 wordpress_id: 1426
 wordpress_url: http://www.nata2.org/2007/03/28/sad-google-day/

@@ -1,6 +1,11 @@
 ---
-date: 2007-10-23T09:48:10Z
-tags: ["general","community","music","torrents","evil"]
+date: 2007-10-23 09:48:10+00:00
+tags:
+- music-community
+- bittorrent
+- file-sharing
+- online-communities
+- digital-music
 title: A vibrant music community has been ended
 wordpress_id: 1487
 wordpress_url: http://www.nata2.org/2007/10/23/a-vibrant-music-community-has-been-ended/

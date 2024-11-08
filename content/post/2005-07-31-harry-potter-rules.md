@@ -1,6 +1,11 @@
 ---
-date: 2005-07-31T21:56:19Z
-tags: ["general","books","travel","work"]
+date: 2005-07-31 21:56:19+00:00
+tags:
+- harry-potter
+- books
+- travel
+- pets
+- personal
 title: 'harry potter rules. '
 wordpress_id: 1102
 wordpress_url: http://www.nata2.org/2005/07/31/harry-potter-rules/
@@ -18,4 +23,4 @@ i can't wait to get back to Chicago and see all my friends. i miss them. its ann
 
 although i seriously couldn't ask for a better prison. haha. 
 
-btw. i LOVE reading. 
+btw. i LOVE reading.

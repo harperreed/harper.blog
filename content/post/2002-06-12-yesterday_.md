@@ -1,10 +1,15 @@
 ---
-date: 2002-06-12T17:08:50Z
+date: 2002-06-12 17:08:50+00:00
 excerpt: "\"A person is being detained on information -- the value of which, the credibility
   of which, and the reliability of which, we don't know,\" - Donna Newman\r\n\r\nso
   I was listening to NPR the last night during dinner.. and they mentioned how some
   people were critical of the Bush administrations label of "
-tags: ["war","sites","video","fear","bush","security","politics","politic"]
+tags:
+- us-politics
+- war-on-terror
+- security
+- civil-liberties
+- bush-administration
 title: yesterday.
 wordpress_id: 295
 wordpress_url: http://new.nata2.org/?p=295

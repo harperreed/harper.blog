@@ -1,8 +1,19 @@
 ---
-title: "Harper's climate fiction reading list"
 date: 2023-12-18
+description: Explore the imminent realities of a changing climate through fiction.
+  Dive into this curated reading list, featuring gripping tales like 'The Deluge'
+  and 'American War', that paint a vivid picture of our possible future. Whether you're
+  starting with Stephen Markley's 'The Deluge' or branching out to the entire list,
+  each book offers a unique perspective on the challenges ahead. Join the journey
+  and share your thoughts on these climate fiction must-reads.
 draft: false
-description: "Explore the imminent realities of a changing climate through fiction. Dive into this curated reading list, featuring gripping tales like 'The Deluge' and 'American War', that paint a vivid picture of our possible future. Whether you're starting with Stephen Markley's 'The Deluge' or branching out to the entire list, each book offers a unique perspective on the challenges ahead. Join the journey and share your thoughts on these climate fiction must-reads."
+tags:
+- climate-fiction
+- book-list
+- reading
+- environment
+- literature
+title: Harper's climate fiction reading list
 ---
 
 A bunch of friends have asked for my climate fiction reading list. Here it is:

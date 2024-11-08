@@ -1,6 +1,11 @@
 ---
-date: 2006-09-25T00:52:32Z
-tags: ["general","books","chicago","sites","fun","weekend","reading","nightlife","soundbar","dune","tornado"]
+date: 2006-09-25 00:52:32+00:00
+tags:
+- weekend-fun
+- chicago-nightlife
+- phones
+- tornado
+- blogging
 title: Weekend. Phones. blog design.
 wordpress_id: 1353
 wordpress_url: http://www.nata2.org/2006/09/25/weekend-phones-blog-design/

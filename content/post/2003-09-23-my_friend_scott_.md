@@ -1,9 +1,14 @@
 ---
-date: 2003-09-23T15:32:03Z
+date: 2003-09-23 15:32:03+00:00
 excerpt: 'is such a hippie that he is concerned about that "fad" called global warming.
   apparently some big chuck of ice broke and now everyone is all scared. it is supposed
   to be some proof that '
-tags: ["social","harper","reed","phone","war","school","rock","bush","marriage","security","business","health","terrorism","iraq","drugs"]
+tags:
+- global-warming
+- environment
+- politics
+- social-issues
+- climate-change
 title: my friend scott.
 wordpress_id: 624
 wordpress_url: http://new.nata2.org/?p=624

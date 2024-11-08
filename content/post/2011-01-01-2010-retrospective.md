@@ -1,5 +1,11 @@
 ---
-date: 2011-01-01T00:00:00Z
+date: 2011-01-01 00:00:00+00:00
+tags:
+- retrospective
+- life-experience
+- startups
+- travel
+- cloud-computing
 title: 2010 Retrospective
 ---
 

@@ -1,10 +1,15 @@
 ---
-date: 2003-12-04T00:11:37Z
+date: 2003-12-04 00:11:37+00:00
 excerpt: I have been playing with my phone for awhile and looking for great sites
   at the same time.. so my friend mike found and sent me this which is really exciting.
   that site led me to this one which has some good info. i will be submitting stuff
   to it soon. wheee!tonight I am cleaning. i...
-tags: ["phone","sites","mobile"]
+tags:
+- mobile
+- technology
+- websites
+- projects
+- housework
 title: stuff.. phones.
 wordpress_id: 686
 wordpress_url: http://new.nata2.org/?p=686

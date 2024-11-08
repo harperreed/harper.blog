@@ -1,6 +1,11 @@
 ---
-date: 2008-02-04T13:39:57Z
-tags: ["general","video","politics","obama","president","elections","yes-we-can"]
+date: 2008-02-04 13:39:57+00:00
+tags:
+- volunteering
+- community
+- inspiration
+- activism
+- campaign
 title: 'Obama: yes we can'
 wordpress_id: 1506
 wordpress_url: http://www.nata2.org/2008/02/04/obama-yes-we-can/

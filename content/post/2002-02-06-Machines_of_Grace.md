@@ -1,11 +1,16 @@
 ---
-date: 2002-02-06T12:51:58Z
+date: 2002-02-06 12:51:58+00:00
 excerpt: So everyday I walk down some street that is being reconstructed. It is really
   neat to see civil engineering happen over time. Quite something really. I quite
   enjoy watching the big machinery move about and crush and build and destroy things.
   I often time mistake them for dinosaurs. I mean I know they are not dinosaurs..
   however they could be. I imagine them being the same size as dinosaurs - and ...
-tags: ["bush","tones"]
+tags:
+- civil-engineering
+- music
+- machinery
+- urban-reconstruction
+- pop-culture
 title: Machines of Grace
 wordpress_id: 203
 wordpress_url: http://new.nata2.org/?p=203

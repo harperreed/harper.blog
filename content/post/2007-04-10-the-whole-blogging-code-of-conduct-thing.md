@@ -1,6 +1,11 @@
 ---
-date: 2007-04-10T09:45:45Z
-tags: ["technology","technology","stupid","life","decency","code","conduct","feelings"]
+date: 2007-04-10 09:45:45+00:00
+tags:
+- internet-culture
+- online-safety
+- blogging
+- community-guidelines
+- personal-accountability
 title: The whole blogging code of conduct thing.
 wordpress_id: 1429
 wordpress_url: http://www.nata2.org/2007/04/10/the-whole-blogging-code-of-conduct-thing/

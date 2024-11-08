@@ -1,11 +1,16 @@
 ---
-date: 2004-04-27T14:27:50Z
+date: 2004-04-27 14:27:50+00:00
 excerpt: the last couple days have been pretty weird. I didn't feel like posting at
   all. which is in itself pretty different. usually I post as a decompression activity
   - or because I want to say something. however in the last couple days I have really
   felt that my motivations for posting on my 'blog' were not exactly legit. hah. they
   were not really  illegal - just not necessarily in the same vein as ...
-tags: ["books","phone","women","war","fear","rock","food","insane","humor","music","matiss","india","phones","hiromi","travel","development","nokia","blogger"]
+tags:
+- personal-reflection
+- entertainment
+- social-experiences
+- humor
+- music
 title: it has and it will be. ghosts in my eyes
 wordpress_id: 829
 wordpress_url: http://new.nata2.org/?p=829

@@ -1,6 +1,11 @@
 ---
-date: 2006-10-08T21:36:31Z
-tags: ["general","bush","politics","annoying","youtube","olbermann","liberal","kieth"]
+date: 2006-10-08 21:36:31+00:00
+tags:
+- politics
+- media
+- liberal
+- cable-tv
+- news
 title: Keith Olbermann is pretty awesome.
 wordpress_id: 1355
 wordpress_url: http://www.nata2.org/2006/10/09/keith-olbermann-is-pretty-awesome/

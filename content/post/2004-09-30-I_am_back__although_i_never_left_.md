@@ -1,11 +1,16 @@
 ---
-date: 2004-09-30T01:21:10Z
+date: 2004-09-30 01:21:10+00:00
 excerpt: so i accidently broke my webserver. haha. well by accidently i mean i am
   in the process of moving all my important and not so important sites to my new webserver
   so in the process i broke it. it sucked. but now it is mostly back to normal. everything
   is pretty much the same except i am unable to officially do my photolog right now.
   but i still update the master "
-tags: ["books","php","server","sites","laptop","asia","porn","hiromi"]
+tags:
+- webserver
+- laptop
+- transition
+- moblog
+- photolog
 title: I am back. although i never left.
 wordpress_id: 944
 wordpress_url: http://new.nata2.org/?p=944

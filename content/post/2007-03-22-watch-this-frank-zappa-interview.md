@@ -1,6 +1,11 @@
 ---
-date: 2007-03-22T14:02:47Z
-tags: ["general","music","youtube","great","interview","frank-zappa"]
+date: 2007-03-22 14:02:47+00:00
+tags:
+- frank-zappa
+- music-history
+- interview
+- punk-rock
+- pop-culture
 title: Watch this Frank Zappa interview
 wordpress_id: 1422
 wordpress_url: http://www.nata2.org/2007/03/22/watch-this-frank-zappa-interview/

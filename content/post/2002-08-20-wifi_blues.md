@@ -1,9 +1,14 @@
 ---
-date: 2002-08-20T06:44:15Z
-excerpt: |-
-  i need to send in my laptop
-  and I need to remember  this, this and finally this...
-tags: ["laptop"]
+date: 2002-08-20 06:44:15+00:00
+excerpt: 'i need to send in my laptop
+
+  and I need to remember  this, this and finally this...'
+tags:
+- wifi
+- laptop
+- technology
+- troubleshooting
+- gadgets
 title: wifi blues
 wordpress_id: 345
 wordpress_url: http://new.nata2.org/?p=345

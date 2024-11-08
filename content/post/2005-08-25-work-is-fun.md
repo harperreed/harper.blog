@@ -1,6 +1,11 @@
 ---
-date: 2005-08-25T16:37:30Z
-tags: ["general","technology","hiromi","work","geek"]
+date: 2005-08-25 16:37:30+00:00
+tags:
+- work
+- technology
+- office-life
+- productivity
+- remote-work
 title: work is fun
 wordpress_id: 1117
 wordpress_url: http://www.nata2.org/2005/08/25/work-is-fun/
@@ -12,4 +17,4 @@ i <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//?pa
 
 and i am tired. i relaly need a nap. and reading of a book. and hanging out. 
 
-although i miss hiromi - it seems she is getting more acclimated to japan. it is nice to talk with her on aim though. i can't wait until a google talk client comes for mac. which reminds me. i need another monitor to put blood on. 
+although i miss hiromi - it seems she is getting more acclimated to japan. it is nice to talk with her on aim though. i can't wait until a google talk client comes for mac. which reminds me. i need another monitor to put blood on.

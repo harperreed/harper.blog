@@ -1,6 +1,11 @@
 ---
-date: 2006-08-17T16:12:11Z
-tags: ["general","music","mos-def","hip-hop","chappelles-show"]
+date: 2006-08-17 16:12:11+00:00
+tags:
+- music
+- hip-hop
+- mos-def
+- talib-kweli
+- chappelles-show
 title: I thought you guys should watch this.
 wordpress_id: 1325
 wordpress_url: http://www.nata2.org/2006/08/17/i-thought-you-guys-should-watch-this/

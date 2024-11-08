@@ -1,12 +1,17 @@
 ---
-date: 2004-02-10T16:43:00Z
+date: 2004-02-10 16:43:00+00:00
 excerpt: This morning I was on the train and this super cute bundled child got on
   the train with what I imagine was her father. it coudln't havebeen more than 5.
   since it is cold she was bundled up in such a way that only her mouth, nose and
   eyes were showing. she was a colorful ball of warm cloth it seemed. soshe and her
   guardian were standing on the train near me and just chilling. and suddenly out
   of ...
-tags: ["job","juggle","jugglers","php","war","food","movies","watership","juggling","matiss","hiromi"]
+tags:
+- humanity
+- kindness
+- trains
+- childhood
+- community
 title: train of thought
 wordpress_id: 749
 wordpress_url: http://new.nata2.org/?p=749

@@ -1,5 +1,10 @@
 ---
-date: 2011-01-26T00:00:00Z
+date: 2011-01-26 00:00:00+00:00
+tags:
+- free-hosting
+- static-sites
+- gae
+- cloud-computing
 title: 'OMG FREE HOSTING: How to use GAE to host static sites for free'
 ---
 
@@ -123,6 +128,4 @@ I have only played around with this - and haven't deployed it to my blog or in p
 
 The last two tips are app wide - which means that they will work for all sites that are deployed on that instance of DryDrop. You will be able to split the costs associated with the high performance replication and the ALways On instances across the number of domains you are hosting. 
 
-This makes me LOVE hosting again. 
-
-
+This makes me LOVE hosting again.

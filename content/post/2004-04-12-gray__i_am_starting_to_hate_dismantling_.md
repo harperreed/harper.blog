@@ -1,11 +1,16 @@
 ---
-date: 2004-04-12T14:20:02Z
+date: 2004-04-12 14:20:02+00:00
 excerpt: today everything I am wearing is either grey or black. even my underwear
   and socks. it is kinds funny. I didn't mrean to and I didn't really think about
   it until I was on the train. but yea. everything is grey. hah. it is still sad out
   today.  the weather is nice though. the sun. however it is cold. it is kinda how
   I feel right now.  last night morgan sent me an email that r...
-tags: ["harper","chris","holidays"]
+tags:
+- gray
+- emotions
+- music
+- weather
+- personal-reflection
 title: gray. i am starting to hate dismantling.
 wordpress_id: 815
 wordpress_url: http://new.nata2.org/?p=815

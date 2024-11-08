@@ -1,13 +1,21 @@
 ---
-date: 2003-07-24T21:45:24Z
-excerpt: |-
-  I love alex chiu. he cracks me up so much.
-  So I signed up to be an affiliate and I was able to achieve the required 80 clicks in no time flat. and I received my pair of eternal life rings a couple months ago. I lent them to my friend chris.
+date: 2003-07-24 21:45:24+00:00
+excerpt: 'I love alex chiu. he cracks me up so much.
+
+  So I signed up to be an affiliate and I was able to achieve the required 80 clicks
+  in no time flat. and I received my pair of eternal life rings a couple months ago.
+  I lent them to my friend chris.
 
 
 
-  phunktoad : what happened to your rings for eterna...
-tags: ["war","chris","linux"]
+
+  phunktoad : what happened to your rings for eterna...'
+tags:
+- humor
+- eternal-life
+- affiliate-marketing
+- personal-experience
+- friendship
 title: alex chiu is my mom
 wordpress_id: 577
 wordpress_url: http://new.nata2.org/?p=577

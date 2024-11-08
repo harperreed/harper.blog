@@ -1,9 +1,17 @@
 ---
-date: 2003-10-08T14:58:20Z
-excerpt: |-
-  stupid media
-  so gorbachev has called Bush's decision to invade Iraq a mistake. wow, that is a surprise. I wonder why it matters when gorbachev says it.. but doesn't matter when the citizens of the US say it. one thing that really pisses me off is that bush is all hot a...
-tags: ["php","chicago","war","insane","bush","health","iraq"]
+date: 2003-10-08 14:58:20+00:00
+excerpt: 'stupid media
+
+  so gorbachev has called Bush''s decision to invade Iraq a mistake. wow, that is
+  a surprise. I wonder why it matters when gorbachev says it.. but doesn''t matter
+  when the citizens of the US say it. one thing that really pisses me off is that
+  bush is all hot a...'
+tags:
+- media-bias
+- politics
+- healthcare
+- iraq-war
+- bush-administration
 title: liberal media bias
 wordpress_id: 639
 wordpress_url: http://new.nata2.org/?p=639

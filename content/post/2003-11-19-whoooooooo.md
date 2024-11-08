@@ -1,10 +1,16 @@
 ---
-date: 2003-11-19T12:32:23Z
+date: 2003-11-19 12:32:23+00:00
 excerpt: So I slept all day yesterday and came to work at 6:00pm and now it is 7:15am
   and I am confused about what dday was yesterday and what day was two days ago. it
   seems like a billion years have passed since I was last home.. I guess sleeping
   under your desk will do that to you. we are apparently finally live. which is nice.
   I am apparently finally sleepy. need to go home. then bed. need to...
+tags:
+- sleep-deprivation
+- work-life-balance
+- confusion
+- personal-experience
+- daily-life
 title: whoooooooo
 wordpress_id: 681
 wordpress_url: http://new.nata2.org/?p=681
