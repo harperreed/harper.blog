@@ -1,6 +1,11 @@
 ---
-date: 2006-02-12T21:14:54Z
-tags: ["general","linux","diy","ambient","gumstix","qee","embedded"]
+date: 2006-02-12 21:14:54+00:00
+tags:
+- ambient-displays
+- home-automation
+- internet-of-things
+- visualization
+- user-interface
 title: 'Ambient devices. building ideas. '
 wordpress_id: 1206
 wordpress_url: http://www.nata2.org/2006/02/12/ambient-devices-building-ideas/

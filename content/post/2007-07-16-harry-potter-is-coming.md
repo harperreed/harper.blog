@@ -1,6 +1,11 @@
 ---
-date: 2007-07-16T05:07:06Z
-tags: ["general","books","harry-potter","reading"]
+date: 2007-07-16 05:07:06+00:00
+tags:
+- harry-potter
+- books
+- reading
+- fantasy
+- literature
 title: Harry Potter is coming.
 wordpress_id: 1466
 wordpress_url: http://www.nata2.org/2007/07/16/harry-potter-is-coming/

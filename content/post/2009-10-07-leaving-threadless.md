@@ -1,6 +1,11 @@
 ---
-date: 2009-10-07T21:52:50Z
-tags: ["general","rackspace","threadless","future"]
+date: 2009-10-07 21:52:50+00:00
+tags:
+- career-transition
+- cloud-computing
+- threadless
+- rackspace
+- personal-growth
 title: Leaving Threadless
 wordpress_id: 1638
 wordpress_url: http://www.nata2.org/?p=1638

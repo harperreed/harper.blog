@@ -1,6 +1,11 @@
 ---
-date: 2005-09-16T01:25:30Z
-tags: ["general","blogs","internet","movies","mom","music","travel","sleepy","crazy","parents"]
+date: 2005-09-16 01:25:30+00:00
+tags:
+- blogging
+- internet-culture
+- personal-reflection
+- creativity
+- effort
 title: blogging is sometimes hard. yea know. cuz it takes effort
 wordpress_id: 1130
 wordpress_url: http://www.nata2.org/?p=1130
@@ -16,5 +21,4 @@ i am currently attempting to work. and watching the <a href="http://imdb.com/tit
 
 tonight i went to X/O with my mom and her friend betty. it was of course good. but it wasn't as good without my dad, hiromi and matiss there to enjoy it with us. i really miss hiromi. i think i am going to visit soon. i want to. there is no reason why i wouldn't.
 
-its raining. i am sleepy. 
-
+its raining. i am sleepy.

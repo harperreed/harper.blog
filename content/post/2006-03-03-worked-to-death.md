@@ -1,6 +1,11 @@
 ---
-date: 2006-03-03T10:22:52Z
-tags: ["general","work"]
+date: 2006-03-03 10:22:52+00:00
+tags:
+- work-life-balance
+- technology
+- personal-projects
+- career-development
+- productivity
 title: 'Worked to death. '
 wordpress_id: 1227
 wordpress_url: http://www.nata2.org/2006/03/03/worked-to-death/

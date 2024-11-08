@@ -1,11 +1,16 @@
 ---
-date: 2002-02-18T03:27:54Z
+date: 2002-02-18 03:27:54+00:00
 excerpt: This weekend was a great time. I modeled in another fashion show. I don't
   know if I have any pictures as yet. I hope so. I met some rather cool cats, some
   I hope to see again. heh. I also went to some crazy frat boy bar and had free drinks
   and then found the crazy new meaning to "hungry drunk." I also fixed my direct TV.
   heh. however, it is still sorta wack. but whatever. I still thikn that we a...
-tags: ["fashion","business"]
+tags:
+- fashion-show
+- nightlife
+- travel
+- personal-experience
+- entertainment
 title: The magical mystery tour
 wordpress_id: 213
 wordpress_url: http://new.nata2.org/?p=213

@@ -1,6 +1,11 @@
 ---
-date: 2008-05-03T00:45:17Z
-tags: ["general","travel"]
+date: 2008-05-03 00:45:17+00:00
+tags:
+- blogging
+- travel
+- flying
+- experiences
+- adventure
 title: The theme for this spring is travel
 wordpress_id: 1517
 wordpress_url: http://www.nata2.org/?p=1517

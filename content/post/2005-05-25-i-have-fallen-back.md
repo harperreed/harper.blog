@@ -1,9 +1,14 @@
 ---
-date: 2005-05-25T23:54:52Z
-tags: ["general","books","music"]
+date: 2005-05-25 23:54:52+00:00
+tags:
+- literature
+- music
+- reading
+- culture
+- art
 title: 'i have fallen back.. '
 wordpress_id: 1070
 wordpress_url: http://www.nata2.org/2005/05/25/i-have-fallen-back/
 ---
 
-i am reading updike and listening to leonard cohen. 
+i am reading updike and listening to leonard cohen.

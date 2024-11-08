@@ -1,6 +1,10 @@
 ---
-date: 2005-04-19T23:35:58Z
-tags: ["general","domains","dylan","php","blogs","community","ruby","rails","alliedmovements","stigmata"]
+date: 2005-04-19 23:35:58+00:00
+tags:
+- ruby-on-rails
+- programming
+- mvc
+- learning
 title: ruby on rails
 wordpress_id: 1047
 wordpress_url: http://www.nata2.org/2005/04/19/ruby-on-rails/

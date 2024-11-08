@@ -1,6 +1,11 @@
 ---
-date: 2010-04-05T00:14:42Z
-tags: ["general","apple","ipad"]
+date: 2010-04-05 00:14:42+00:00
+tags:
+- ipad
+- apple
+- technology
+- gadgets
+- consumer-electronics
 title: 'Smitten by the iPad: thoughts and complaints. '
 wordpress_id: 1673
 wordpress_url: http://www.nata2.org/?p=1673

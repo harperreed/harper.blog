@@ -1,11 +1,16 @@
 ---
-date: 2004-06-30T16:08:47Z
+date: 2004-06-30 16:08:47+00:00
 excerpt: last night I got home from work. went to the mega mall and got my yoyo case.
   it rules. so insane. haha. I will take a picture. matiss got a cell phone. haha.
   ;) i rode my bike a bunch yesterday. apparently around 15 miles. I haven't rode
   a bike in years. it was interesting to find myself getting back in to the hang of
   it. I can now ride for a long time with no hands. it is pr...
-tags: ["juggle","dylan","phone","cell","war","fear","crobar","insane","chris","juggling","matiss","nyc"]
+tags:
+- biking
+- hobbies
+- new-york
+- friends
+- juggling
 title: i drove my bike all around.
 wordpress_id: 894
 wordpress_url: http://new.nata2.org/?p=894
@@ -15,4 +20,4 @@ last night I got home from work. went to the mega mall and got my yoyo case. it 
 
 i am sad right now about my lack of words. I only know about ten apparently. I need to do some vocab exercises. it isn;t like I don't know the words. I am just unable to use them in this venue - or in any venue where I am attempting to vocalize my thoughts. sad :( <br/><br/>
 
-i am really behind at work. it sucks. I wrote this whole program - had it work and was done - and then.. WHAM.. a pretty significant bug appears and destroys all hope. it is rather annoying. I think I have to rearchitect the internals. <br/><br/>i have fear. heh. <br/><br/>oh yea. I am going to be in nyc this weekend. if anyone wants to "hang out" let me know. 
+i am really behind at work. it sucks. I wrote this whole program - had it work and was done - and then.. WHAM.. a pretty significant bug appears and destroys all hope. it is rather annoying. I think I have to rearchitect the internals. <br/><br/>i have fear. heh. <br/><br/>oh yea. I am going to be in nyc this weekend. if anyone wants to "hang out" let me know.

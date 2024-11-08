@@ -1,10 +1,15 @@
 ---
-date: 2005-02-09T16:57:21Z
+date: 2005-02-09 16:57:21+00:00
 excerpt: "this is an excellent write up on the incredible google maps. the most important
   thing he says is: \n\nI also think it bears noting that Google is pulling out all
   the stops\nto build rich web apps, no matter how weirdly they have to hack the\nbrowser
   to make them go. And I strong..."
-tags: ["cell","blogs","internet","war","xhtml","google","gmail"]
+tags:
+- google
+- web-apps
+- internet
+- technology
+- gmail
 title: google is my favorite friend/evil entity
 wordpress_id: 990
 wordpress_url: http://new.nata2.org/?p=990

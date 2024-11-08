@@ -1,6 +1,11 @@
 ---
-date: 2006-10-15T17:46:40Z
-tags: ["general"]
+date: 2006-10-15 17:46:40+00:00
+tags:
+- relaxation
+- weekend
+- juggling
+- performances
+- friends
 title: Relaxing weekend
 wordpress_id: 1368
 wordpress_url: http://www.nata2.org/2006/10/15/relaxing-weekend/

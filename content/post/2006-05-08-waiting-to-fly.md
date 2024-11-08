@@ -1,6 +1,11 @@
 ---
-date: 2006-05-08T19:32:18Z
-tags: ["general","flickr","travel","jon","airports-books"]
+date: 2006-05-08 19:32:18+00:00
+tags:
+- travel
+- reading
+- airports
+- books
+- family
 title: waiting to fly
 wordpress_id: 1260
 wordpress_url: http://www.nata2.org/2006/05/08/waiting-to-fly/

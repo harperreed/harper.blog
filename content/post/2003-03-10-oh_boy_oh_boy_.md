@@ -1,11 +1,16 @@
 ---
-date: 2003-03-10T23:33:14Z
+date: 2003-03-10 23:33:14+00:00
 excerpt: I have needed to update this site for so long. I guess really since last
   thursday. So last thursday I went out with some friends.. maybe a little too late..
   it was all my poor little body could handle. I was horribly sick the next day and
   had to stay home from work.. which sucks.. cuz work is cool right now.. but whatever.
   so I slept most of the day - but was supposed to drive to Champaign/urbana...
-tags: ["juggle","jugglers","chicago","war","sick","insane","watership","juggling","games","matiss","ipod"]
+tags:
+- juggling
+- chicago
+- friends
+- music
+- sick
 title: oh boy oh boy.
 wordpress_id: 460
 wordpress_url: http://new.nata2.org/?p=460

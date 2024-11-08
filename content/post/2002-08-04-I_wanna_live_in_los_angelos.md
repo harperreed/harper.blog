@@ -1,11 +1,20 @@
 ---
-date: 2002-08-04T07:50:48Z
-excerpt: |-
-  I am now in L.A. visiting my brother.. I have wrote the following entries on the road.. and thus they are out of order.. well they are in order.. but not entered seperatly. whatever.. here it goes..
+date: 2002-08-04 07:50:48+00:00
+excerpt: 'I am now in L.A. visiting my brother.. I have wrote the following entries
+  on the road.. and thus they are out of order.. well they are in order.. but not
+  entered seperatly. whatever.. here it goes..
 
 
-  So I just got done watching arlington road and part of edward scissorhands  on the way to California. My laptop apparently had enough battery life to support almost 2 dvds. It rules. I am ha...
-tags: ["dylan","chicago","war","video","college","laptop","travel"]
+
+  So I just got done watching arlington road and part of edward scissorhands  on the
+  way to California. My laptop apparently had enough battery life to support almost
+  2 dvds. It rules. I am ha...'
+tags:
+- los-angeles
+- travel
+- movies
+- summer
+- family
 title: I wanna live in los angelos
 wordpress_id: 332
 wordpress_url: http://new.nata2.org/?p=332
@@ -38,5 +47,4 @@ I gotta go.. we are gunna walk along the beach or something ;)<br/>
 
 <hr/>
 
-Today we were tourists. it was nice though. we went to silly rides at universal studios.. and we hung out at hollywood. heh. hollywood is not as cool as I thought it would be. the china-Mann??? theatre is rather nice though.. and the weather is wonderful. the weather the whole trip has been brilliant. I enjoy having the oppurtunity to be chilly. what an idea. 
-
+Today we were tourists. it was nice though. we went to silly rides at universal studios.. and we hung out at hollywood. heh. hollywood is not as cool as I thought it would be. the china-Mann??? theatre is rather nice though.. and the weather is wonderful. the weather the whole trip has been brilliant. I enjoy having the oppurtunity to be chilly. what an idea.

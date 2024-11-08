@@ -1,10 +1,15 @@
 ---
-date: 2002-11-12T06:49:20Z
+date: 2002-11-12 06:49:20+00:00
 excerpt: "----- Original Message ----- \nFrom: \"Scott Vandenplas\" &lt;scottv@insignis.com>\nTo:
   &lt;dylan@dylanreed.org>\nSent: Monday, November 11, 2002 12:24 PM\nSubject: hi\n\n\nHi,\n\nI'm
   a friend of Harper's, and he was telling me about your diving job. We began to wonder
   a couple of things about diving.\n\nFor instance, if you had to fight a monkey ..."
-tags: ["job","harper","dylan","reed"]
+tags:
+- drugs
+- diving
+- animal-encounters
+- survival
+- friendship
 title: drugs are bad
 wordpress_id: 394
 wordpress_url: http://new.nata2.org/?p=394

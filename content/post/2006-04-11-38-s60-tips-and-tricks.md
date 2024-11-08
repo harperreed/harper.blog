@@ -1,6 +1,11 @@
 ---
-date: 2006-04-11T13:21:54Z
-tags: ["general"]
+date: 2006-04-11 13:21:54+00:00
+tags:
+- symbian
+- mobile-tips
+- smartphone
+- tech-tricks
+- user-guide
 title: '38 S60 tips and tricks '
 wordpress_id: 1242
 wordpress_url: http://www.nata2.org/phone-stuff/38-s60-tips-and-tricks/

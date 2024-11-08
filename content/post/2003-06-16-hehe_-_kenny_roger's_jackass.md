@@ -1,8 +1,14 @@
 ---
-date: 2003-06-16T20:50:07Z
+date: 2003-06-16 20:50:07+00:00
 excerpt: ':) lolin song: I got my yoyo''s.. I got my yoyo''s.. I got my yoyo''s..
   I got my yoyo''s.. I got my yoyo''s.. I got my yoyo''s.. I got my yoyo''s.. I got
   my yoyo''sw00t'
+tags:
+- music
+- humor
+- entertainment
+- kenny-rogers
+- yoyos
 title: hehe - kenny roger's jackass
 wordpress_id: 542
 wordpress_url: http://new.nata2.org/?p=542

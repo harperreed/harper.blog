@@ -1,6 +1,11 @@
 ---
-date: 2005-03-25T12:14:47Z
-tags: ["general","sites","movies","hong","kong","itunes","itunesblogger","kung","fu"]
+date: 2005-03-25 12:14:47+00:00
+tags:
+- movies
+- hong-kong
+- action
+- cinema
+- reviews
 title: casshern and itunesblogger
 wordpress_id: 1029
 wordpress_url: http://www.nata2.org/2005/03/25/casshern-and-itunesblogger/
@@ -12,4 +17,4 @@ i went ahead and watched casshern. it is incredible. one of the weirdest movies 
 
 some cool stuff happening with <a href="http://www.itunesblogger.com">itunesblogger </a>in the next couple days. first - we updated itunesblogger to the new version. fixed some bugs and added more wildcard support. exciting. and then we talked about making a itunesblogger community site. and luckily enough i own <a href="http://www.ituners.com">ituners.com </a>- which will work wonders. i am excited. it will be fun - even if it is just my friends playing. 
 
-WEEKEND. today is a half day. so excited. i will probably stay awhiel though. got some work and testing to do. stupid testing. haha. 
+WEEKEND. today is a half day. so excited. i will probably stay awhiel though. got some work and testing to do. stupid testing. haha.

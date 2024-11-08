@@ -1,6 +1,10 @@
 ---
-date: 2006-11-24T20:30:41Z
-tags: ["technology","technology"]
+date: 2006-11-24 20:30:41+00:00
+tags:
+- coding
+- php
+- repository
+- programming
 title: stuff.harperreed.org. Last nights web-dev itch
 wordpress_id: 1389
 wordpress_url: http://www.nata2.org/2006/11/24/stuffharperreedorg-last-nights-web-dev-itch/

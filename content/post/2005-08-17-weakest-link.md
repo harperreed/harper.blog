@@ -1,6 +1,11 @@
 ---
-date: 2005-08-17T00:29:53Z
-tags: ["general","humor","projects","awesome"]
+date: 2005-08-17 00:29:53+00:00
+tags:
+- humor
+- music
+- entertainment
+- projects
+- funny
 title: Weakest link
 wordpress_id: 1113
 wordpress_url: http://www.nata2.org/2005/08/17/weakest-link/
@@ -12,4 +17,4 @@ Check out our families plan for the coming year: <a href="http://catapultindustr
 
 we rule. 
 
-i got a lot of work done today. 
+i got a lot of work done today.

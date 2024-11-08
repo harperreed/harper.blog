@@ -1,6 +1,11 @@
 ---
-date: 2006-05-18T20:51:19Z
-tags: ["general","hacking","sad","servers","firewall","colocation"]
+date: 2006-05-18 20:51:19+00:00
+tags:
+- technical-issues
+- server-management
+- unix-support
+- bad-day
+- friendship
 title: horrible things...
 wordpress_id: 1269
 wordpress_url: http://www.nata2.org/2006/05/18/horrible-things/

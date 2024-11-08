@@ -1,6 +1,11 @@
 ---
-date: 2007-07-23T01:26:52Z
-tags: ["general","books","done","harry-potter"]
+date: 2007-07-23 01:26:52+00:00
+tags:
+- harry-potter
+- books
+- reading
+- fiction
+- literature
 title: Harry Potter 7 was good.
 wordpress_id: 1468
 wordpress_url: http://www.nata2.org/2007/07/23/harry-potter-7-was-good/

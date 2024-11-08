@@ -1,6 +1,11 @@
 ---
-date: 2004-09-15T22:30:31Z
-tags: ["general","hacking","awesome","sony","haxoring","ps2"]
+date: 2004-09-15 22:30:31+00:00
+tags:
+- gaming
+- modding
+- playstation
+- hardware
+- technology
 title: Playstation 2 hacking
 wordpress_id: 1193
 wordpress_url: http://www.nata2.org/2004/09/15/playstation-2-hacking-2/

@@ -1,6 +1,12 @@
 ---
-date: 2004-03-11T08:11:03Z
+date: 2004-03-11 08:11:03+00:00
 excerpt: this is really something
+tags:
+- incredible
+- technology
+- innovation
+- music
+- art
 title: incredible
 wordpress_id: 774
 wordpress_url: http://new.nata2.org/?p=774

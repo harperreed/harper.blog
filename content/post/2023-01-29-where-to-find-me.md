@@ -1,9 +1,21 @@
 ---
-title: "Where to find me now"
 date: 2023-01-29
-description: Now that twitter has melted down, where can you find me?
+description: 'Exploring the Chaotic World of Social Media: Harper Reed''s Digital
+  Odyssey - Join Harper Reed in his candid exploration of today''s digital landscape.
+  As Twitter''s relevance wanes, Reed delves into the fediverse''s rise, embracing
+  platforms like Mastodon, Farcaster, and Bluesky. With a critical eye on Mastodon''s
+  UID scheme and an enthusiast’s zest for crypto networks, especially Farcaster, he
+  navigates the ''mess'' of the internet with humor and insight. Share your thoughts
+  on decentralization and the fediverse with Harper, and join this engaging journey
+  through the ever-evolving world of social media.'
 draft: false
-description: "Exploring the Chaotic World of Social Media: Harper Reed's Digital Odyssey - Join Harper Reed in his candid exploration of today's digital landscape. As Twitter's relevance wanes, Reed delves into the fediverse's rise, embracing platforms like Mastodon, Farcaster, and Bluesky. With a critical eye on Mastodon's UID scheme and an enthusiast’s zest for crypto networks, especially Farcaster, he navigates the 'mess' of the internet with humor and insight. Share your thoughts on decentralization and the fediverse with Harper, and join this engaging journey through the ever-evolving world of social media."
+tags:
+- social-media
+- fediverse
+- blogging
+- online-communities
+- internet-culture
+title: Where to find me now
 ---
 
 Ever since twitter kind of died I have been a bit lost as to where to post random thoughts. 
@@ -31,4 +43,4 @@ The crypto networks are pretty fun tho. Farcaster is my fav. A really wonderful 
 
 Anyway
 
-Please hmu and i would love to learn what you think of all this. especially the magic world of decentralization and fediverse. 
+Please hmu and i would love to learn what you think of all this. especially the magic world of decentralization and fediverse.

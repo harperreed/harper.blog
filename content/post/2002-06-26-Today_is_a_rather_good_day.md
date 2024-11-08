@@ -1,10 +1,15 @@
 ---
-date: 2002-06-26T16:00:41Z
+date: 2002-06-26 16:00:41+00:00
 excerpt: I got all my computers yesterday. I think I got some more work. which leads
   to more computers. which leads to more work. or something like that. Yesterday ..
   I went and played with the smallest cat in the world. I want a kitten. I like kittens.
   they are so nice.. so...
-tags: ["computers","laptop","linux","porn"]
+tags:
+- technology
+- kittens
+- linux
+- computers
+- laptops
 title: Today is a rather good day
 wordpress_id: 302
 wordpress_url: http://new.nata2.org/?p=302

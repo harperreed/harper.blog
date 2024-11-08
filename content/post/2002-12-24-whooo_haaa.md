@@ -1,10 +1,15 @@
 ---
-date: 2002-12-24T09:10:19Z
+date: 2002-12-24 09:10:19+00:00
 excerpt: 'Just in time for christmas: N. korea threatens to "destroy the earth.."
   Boy I am excited.. this destruction to go along with the horrific terror attacks
   on the US - that the government has been promising for months.. anyday now.. and
   once ag...'
-tags: ["colorado","chris","christmas"]
+tags:
+- north-korea
+- christmas
+- vegas
+- terrorism
+- colorado
 title: whooo haaa
 wordpress_id: 420
 wordpress_url: http://new.nata2.org/?p=420

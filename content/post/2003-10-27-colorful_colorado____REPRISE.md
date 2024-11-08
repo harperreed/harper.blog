@@ -1,8 +1,13 @@
 ---
-date: 2003-10-27T06:21:43Z
+date: 2003-10-27 06:21:43+00:00
 excerpt: 'so I just got back from colorado. it was nice to see my family and such.
   here are pictures and such. check out my cousins(cole, '
-tags: ["dylan","family","colorado","rock"]
+tags:
+- colorado
+- family
+- travel
+- gaming
+- recreation
 title: colorful colorado... REPRISE
 wordpress_id: 658
 wordpress_url: http://new.nata2.org/?p=658

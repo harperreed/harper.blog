@@ -1,6 +1,11 @@
 ---
-date: 2008-07-13T22:32:51Z
-tags: ["general","twitter","life","blogging"]
+date: 2008-07-13 22:32:51+00:00
+tags:
+- blogging
+- social-media
+- lifestyle
+- personal-reflection
+- creativity
 title: oh yea. i have a blog
 wordpress_id: 1537
 wordpress_url: http://www.nata2.org/?p=1537

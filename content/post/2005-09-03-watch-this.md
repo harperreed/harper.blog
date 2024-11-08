@@ -1,6 +1,11 @@
 ---
-date: 2005-09-03T18:11:49Z
-tags: ["general","sad","nola","tragedy"]
+date: 2005-09-03 18:11:49+00:00
+tags:
+- kanye-west
+- music
+- new-orleans
+- benefit-concert
+- emotional
 title: watch this
 wordpress_id: 1124
 wordpress_url: http://www.nata2.org/2005/09/03/watch-this/

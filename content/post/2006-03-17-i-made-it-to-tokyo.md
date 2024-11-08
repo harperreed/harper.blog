@@ -1,6 +1,11 @@
 ---
-date: 2006-03-17T07:32:14Z
-tags: ["general","hiromi","travel","awesome","japan"]
+date: 2006-03-17 07:32:14+00:00
+tags:
+- travel
+- japan
+- culture
+- adventure
+- personal-experience
 title: i made it to tokyo
 wordpress_id: 1232
 wordpress_url: http://www.nata2.org/2006/03/17/i-made-it-to-tokyo/

@@ -1,6 +1,12 @@
 ---
-date: 2003-09-23T16:58:45Z
+date: 2003-09-23 16:58:45+00:00
 excerpt: i windo you?
+tags:
+- sports
+- quizzes
+- games
+- competition
+- fun
 title: this is awesome..
 wordpress_id: 625
 wordpress_url: http://new.nata2.org/?p=625

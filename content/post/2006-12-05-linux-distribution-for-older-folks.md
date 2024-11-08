@@ -1,6 +1,11 @@
 ---
-date: 2006-12-05T00:21:39Z
-tags: ["technology","technology"]
+date: 2006-12-05 00:21:39+00:00
+tags:
+- linux
+- technology
+- email
+- accessibility
+- senior-tech
 title: Linux distribution for older folks.
 wordpress_id: 1392
 wordpress_url: http://www.nata2.org/2006/12/05/linux-distribution-for-older-folks/

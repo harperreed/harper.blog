@@ -1,6 +1,11 @@
 ---
-date: 2006-01-24T05:14:24Z
-tags: ["general","awe"]
+date: 2006-01-24 05:14:24+00:00
+tags:
+- customer-service
+- sales
+- business
+- company-culture
+- frustration
 title: 'real quick. '
 wordpress_id: 1200
 wordpress_url: http://www.nata2.org/2006/01/24/real-quick/

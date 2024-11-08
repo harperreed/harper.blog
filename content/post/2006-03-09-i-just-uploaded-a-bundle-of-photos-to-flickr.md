@@ -1,6 +1,11 @@
 ---
-date: 2006-03-09T06:26:20Z
-tags: ["general","pictures-flickr-uploading"]
+date: 2006-03-09 06:26:20+00:00
+tags:
+- flickr
+- photography
+- travel
+- events
+- uploads
 title: I just uploaded a bundle of photos to flickr
 wordpress_id: 1230
 wordpress_url: http://www.nata2.org/2006/03/09/i-just-uploaded-a-bundle-of-photos-to-flickr/

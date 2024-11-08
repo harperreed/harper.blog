@@ -1,6 +1,11 @@
 ---
-date: 2008-01-22T17:08:41Z
-tags: ["technology","rackspace","rails","37signals","web20","tumblr","infrastructure","network","downtime"]
+date: 2008-01-22 17:08:41+00:00
+tags:
+- vendor-management
+- site-downtime
+- business-relationships
+- cloud-services
+- technology
 title: 'Putting the blame on your vendors for the win. '
 wordpress_id: 1505
 wordpress_url: http://www.nata2.org/?p=1505

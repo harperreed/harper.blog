@@ -1,6 +1,11 @@
 ---
-date: 2007-01-10T11:39:20Z
-tags: ["technology","social","technology","projects","interesting","television","web-20","beta","p2p","venice-project"]
+date: 2007-01-10 11:39:20+00:00
+tags:
+- p2p
+- social-television
+- disruptive-technology
+- beta-testing
+- streaming
 title: I got a Venice Project beta test
 wordpress_id: 1404
 wordpress_url: http://www.nata2.org/2007/01/10/i-got-a-venice-project-beta-test/

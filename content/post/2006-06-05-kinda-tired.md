@@ -1,6 +1,11 @@
 ---
-date: 2006-06-05T14:02:07Z
-tags: ["general","hiromi"]
+date: 2006-06-05 14:02:07+00:00
+tags:
+- travel
+- airport
+- friends
+- hiromi
+- waiting
 title: kinda tired
 wordpress_id: 1284
 wordpress_url: http://www.nata2.org/2006/06/05/kinda-tired/

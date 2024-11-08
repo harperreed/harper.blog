@@ -1,6 +1,11 @@
 ---
-date: 2007-04-10T22:41:58Z
-tags: ["technology","technology","hacking","audrey","linux","chumby","hardware","python","flash","widget"]
+date: 2007-04-10 22:41:58+00:00
+tags:
+- hacking
+- technology
+- hardware
+- linux
+- widgets
 title: 'Haxoring the Chumby: My first thoughts'
 wordpress_id: 1430
 wordpress_url: http://www.nata2.org/2007/04/10/first-thoughts-on-the-chumby/

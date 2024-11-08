@@ -1,10 +1,15 @@
 ---
-date: 2001-08-07T21:34:38Z
+date: 2001-08-07 21:34:38+00:00
 excerpt: So somehow, a site that I host got slashdotted on monday. It was crazy, I
   was working on the site around 5:30. I left work and went home, arriving around
   6:00. My audrey said that she couldn't connect to my mail server around 6:10. So
   i am ...
-tags: ["server","hacking","audreyhacking","audrey"]
+tags:
+- web-hosting
+- server
+- slashdot
+- performance
+- hacking
 title: slashdot.org sucks...
 wordpress_id: 24
 wordpress_url: http://new.nata2.org/?p=24

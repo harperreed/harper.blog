@@ -1,10 +1,15 @@
 ---
-date: 2002-03-18T21:32:14Z
+date: 2002-03-18 21:32:14+00:00
 excerpt: 'Besides ineffectual teachers, and boring classes the United states commoner
   is threatened with a large scale war that may destroy us all. I was walking along
   the street this weeked and a bike messanger throw what amounted to a handfull of
   flyers in our direction. they said: "G.W. Bush wan...'
-tags: ["war","video","bush","action","military","tones","politics","politic","taiwan","asia","iraq"]
+tags:
+- war
+- politics
+- foreign-policy
+- china
+- taiwan
 title: 'FEAR: Einstein may be a prophet'
 wordpress_id: 232
 wordpress_url: http://new.nata2.org/?p=232
@@ -26,4 +31,4 @@ More info:
 China is not happy for a number of reasons, first it is quite pissed about the <a href="http://www.nytimes.com/2002/03/17/international/asia/17CHIN.html">nuclear blackmail</a> that bush has committed and second, <a href="http://news.bbc.co.uk/hi/english/world/asia-pacific/newsid_1859000/1859585.stm">china is mad</a> about <a href="http://www.nytimes.com/reuters/politics/politics-taiwan-usa-china.html">U.S. foreign policy</a> in terms of our <a href="http://www.nytimes.com/aponline/international/AP-Taiwan-Hungary.html">action towards taiwan</a>. 
 </blockquote>
 <br/>
-"I don't know what will be used in the next world war, but the fourth will be fought with sticks and stones." <br/><p align="right">-Albert Einstein</p> 
+"I don't know what will be used in the next world war, but the fourth will be fought with sticks and stones." <br/><p align="right">-Albert Einstein</p>

@@ -1,6 +1,11 @@
 ---
-date: 2007-06-30T22:53:22Z
-tags: ["technology","technology","apple","phones","iphone"]
+date: 2007-06-30 22:53:22+00:00
+tags:
+- smartphones
+- apple
+- mobile-technology
+- gadgets
+- consumer-electronics
 title: The iPhone is nifty
 wordpress_id: 1461
 wordpress_url: http://www.nata2.org/2007/06/30/the-iphone-is-nifty/

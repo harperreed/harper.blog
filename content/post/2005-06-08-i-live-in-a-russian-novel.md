@@ -1,6 +1,11 @@
 ---
-date: 2005-06-08T12:49:25Z
-tags: ["general","job","chicago","injured","train","cta","medicine"]
+date: 2005-06-08 12:49:25+00:00
+tags:
+- health
+- diet
+- public-transportation
+- humor
+- chicago
 title: i live in a russian novel.
 wordpress_id: 1078
 wordpress_url: http://www.nata2.org/2005/06/08/i-live-in-a-russian-novel/

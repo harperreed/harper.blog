@@ -1,10 +1,15 @@
 ---
-date: 2003-09-04T15:57:18Z
+date: 2003-09-04 15:57:18+00:00
 excerpt: "so today on IRC my friend clock was attacked by a group iof hooligans who
   flooded her off and stole her nick. they then came back to start trouble. \nand
   trouble was started. we made fun of the channels this one guy was on: \n\n#ryan1918
   #Radio+ #god.hates.fags #concepthosting #whipcream #novascotia #metal #linux-..."
-tags: ["php","hosting","school","metal","linux","corporate","irc"]
+tags:
+- irc
+- hacking
+- linux
+- online-communities
+- chat
 title: irc irc irc irc irc irc irc irc irc irc irc irc
 wordpress_id: 613
 wordpress_url: http://new.nata2.org/?p=613
@@ -46,4 +51,4 @@ and trouble was started. we made fun of the channels this one guy was on:
 <b>[xy_goat]</b> how old are you..<br/>
 <b> bare` is away: school</b><br/></small>
 </blockquote>
-So it appears I took a bit of bandwidth. but my nick stayed connected - which obviously surprised him (and me). it just got very very lagged. ah the joys of colo. and what a surprise that he is in school. anyway.. 
+So it appears I took a bit of bandwidth. but my nick stayed connected - which obviously surprised him (and me). it just got very very lagged. ah the joys of colo. and what a surprise that he is in school. anyway..

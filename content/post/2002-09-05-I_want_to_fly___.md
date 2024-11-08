@@ -1,10 +1,15 @@
 ---
-date: 2002-09-05T09:24:03Z
+date: 2002-09-05 09:24:03+00:00
 excerpt: 'I guess even little kids need so diviation from the normal toys.. (read
   the reviews on that one).. a vibrating broom.. that all the children love to "ride"
   around. heh. ride. So I set up a DVD sharing system. it is gunna be pretty sweet.
   whee. hehe. check it out '
-tags: ["harper","chicago","war","bush","iraq"]
+tags:
+- children
+- chicago
+- war
+- toys
+- dvd-sharing
 title: I want to fly...
 wordpress_id: 349
 wordpress_url: http://new.nata2.org/?p=349

@@ -1,5 +1,11 @@
 ---
-date: 2010-09-25T00:00:00Z
+date: 2010-09-25 00:00:00+00:00
+tags:
+- data-innovation
+- api
+- transit
+- software-development
+- hacking
 title: CTA Hacking, Unofficial APIs and Winning a Data Innovation Award
 ---
 
@@ -18,4 +24,4 @@ The most recent chapter in this story is that the <a href="http://blog.mcic.org/
 
 A lot of people helped make this happen. [Dan O’Neil](http://www.derivativeworks.com/) was an inspiration and really helped me figure out a strategy in working with the CTA. The CTA itself was awesome - especially [Tony Coppoletta](http://coppoletta.net/) and [Graham Garfield](http://www.chicago-l.org/). Both of those dudes made it easy to work with the CTA and are also sweet guys outside of the CTA.
 
-This has been a really good hack. ;) I am now a data innovator. 
+This has been a really good hack. ;) I am now a data innovator.

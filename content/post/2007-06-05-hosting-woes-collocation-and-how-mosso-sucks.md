@@ -1,6 +1,11 @@
 ---
-date: 2007-06-05T13:50:53Z
-tags: ["technology","technology","oarnet","hosting","collocation","rackspace","mosso"]
+date: 2007-06-05 13:50:53+00:00
+tags:
+- web-hosting
+- collocation
+- technology
+- rackspace
+- cloud-computing
 title: Hosting woes. Collocation and how Mosso sucks
 wordpress_id: 1453
 wordpress_url: http://www.nata2.org/2007/06/05/hosting-woes-collocation-and-how-mosso-sucks/

@@ -1,6 +1,11 @@
 ---
-date: 2006-10-23T00:25:59Z
-tags: ["general","family","marriage","hiromi","immigration","visa","happy"]
+date: 2006-10-23 00:25:59+00:00
+tags:
+- visa-process
+- expat-life
+- international-marriage
+- immigration-experience
+- happy-occasions
 title: Hiromi got her visa!
 wordpress_id: 1374
 wordpress_url: http://www.nata2.org/2006/10/23/hiromi-got-her-visa/

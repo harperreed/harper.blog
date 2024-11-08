@@ -1,6 +1,10 @@
 ---
-date: 2006-04-05T00:48:36Z
-tags: ["general"]
+date: 2006-04-05 00:48:36+00:00
+tags:
+- personal-experience
+- health
+- projects
+- general
 title: About done. sick. maxbar. barbelith.
 wordpress_id: 1237
 wordpress_url: http://www.nata2.org/2006/04/05/about-done-sick-maxbar-barbelith/
