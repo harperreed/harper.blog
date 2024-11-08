@@ -11,6 +11,8 @@ jobs:
         env:
             LINKS_RSS_URL: ${{ secrets.LINKS_RSS_URL }}
             LINKS_HUGO_CONTENT_DIR: ../content/links
+            OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+            FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
 
         steps:
             - name: Check out repository
@@ -22,7 +24,14 @@ jobs:
                   version: "latest"
                   enable-cache: true
 
-            - name: Run links script
+            - name: Cache Script Cache directory
+              uses: actions/cache@v3
+              with:
+                  path: ./tools/.script_cache
+                  key: openai-cache-${{ github.sha }}
+                  restore-keys: openai-cache-
+
+            - name: Run links script 
               working-directory: ./tools
               run: uv run grab_starred_links.py
 
