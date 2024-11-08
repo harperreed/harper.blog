@@ -14,7 +14,7 @@
 }
 
 .article-body {
-  @apply max-w-4xl mx-auto py-2 px-0 sm:px-4;
+  @apply max-w-4xl mx-auto py-2 px-0 sm:px-4 dark:bg-gray-900;
 }
 
 .article-title {
