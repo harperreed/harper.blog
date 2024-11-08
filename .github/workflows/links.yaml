@@ -5,6 +5,11 @@ on:
         - cron: "*/30 * * * *" # Runs every 30 minutes
     workflow_dispatch: # Allows manual triggering
 
+# Add concurrency control
+concurrency:
+    group: starred-links-${{ github.ref }}
+    cancel-in-progress: true
+
 jobs:
     update-starred-links:
         runs-on: ubuntu-latest
