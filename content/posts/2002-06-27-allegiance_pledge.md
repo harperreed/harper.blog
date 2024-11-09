@@ -1,11 +1,16 @@
 ---
-date: 2002-06-27T15:12:33Z
+date: 2002-06-27 15:12:33+00:00
 excerpt: "I pledge allegiance to the flag of the United States of America, and to
   the Republic for which it stands, one nation under God, indivisible, with liberty
   and justice for all. \nthe U.S. has proven what a dumb ass country we are:\"The
   Pledge, as currently codified, is an impermissible government endorsement of religion
   because it sends a message to unbelievers that they are outsid..."
-tags: ["search","community","chris","bush","irc","politic","religion"]
+tags:
+- separation-of-church-and-state
+- freedom-of-religion
+- political-issues
+- diversity
+- us-history
 title: allegiance pledge
 wordpress_id: 304
 wordpress_url: http://new.nata2.org/?p=304
@@ -20,4 +25,3 @@ Bush said the ruling was "out of step with the history and traditions of America
 
 <a href="http://216.239.39.100/search?q=cache:OeBjDrmYL3IC:www.ustreas.gov/opc/opc0011.html+in+god+we+trust&hl=en&ie=UTF-8&e=619">History of God in the U.S. currency</a>.<br/>
 <a href="http://www.atheists.org/flash.line/igwt1.htm">Stamping out religion in US currency</a>.
-

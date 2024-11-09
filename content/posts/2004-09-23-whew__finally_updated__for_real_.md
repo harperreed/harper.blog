@@ -1,10 +1,15 @@
 ---
-date: 2004-09-23T16:39:06Z
+date: 2004-09-23 16:39:06+00:00
 excerpt: it has been a weird couple days. It all started last wednesday. tommie called
   me to alert me of his presence and invite me to scissor sisters. that ruled. we
   hung out then. and then we went to crobar and I broke myself. i hadn't been feeling
   good. so I stayed in bed friday. then we...
-tags: ["phone","war","rock","crobar","insane","movies","fashion","action","music","hong","kong","nokia"]
+tags:
+- social-events
+- music
+- fashion
+- personal-experience
+- health
 title: whew. finally updated. for real.
 wordpress_id: 941
 wordpress_url: http://new.nata2.org/?p=941
@@ -21,4 +26,4 @@ Amrita, Asleep, and Kitchen  by Yoshimoto, Banana <br/>
 Haruki Murakami and the Music of Words by Rubin, Jay <br/>
 A Personal Matter  by Kenzaburo O?<br/>
 </small></blockquote>
-I am excited. I apparently forgot to by earthquake - by murakami - which is sad. but whatever. I will get it later. I love him. I am currently struggling through <a href="http://www.complete-review.com/reviews/japannew/yumiri1.htm">gold rush</a> by Yu Miri. I don't really like it. and it totally makes me upset. so I don't think I can read it any longer. I stopped carrying it. it just seems to be filled with horrible gratuitous violence. so annoying. not even a redeeming story. I need more darkness. <br/><br/>i started/made/whatever another site. relaly it is just following through with the plan I made a billion years ago. check out <a href="http://www.fukung.net">fukung.net</a>. it is my new hong kong/horror/foriegn/action/cultish movie review site. and since I started playign with that I also decided to catalog my movies for reals. I got out my fancy <a href="http://cuecatastrophe.com/">cuecat</a> barcode scanner - got some <a href="http://collectorz.com/movie/">software</a> that would do all the dirty work for me. and went to town. it took a couple hours. but the results are pretty good. check out my collection <a href="http://dopeman.org/movies/">here</a>. all 230 movies or whatever. it is amazing to look at them in that perspective. totally crazy. but whatever. <br/><br/>i am tired. weird. I have tried not to go out. and I have been pretty successful. last night I avoided it - but missed a friends bday. sad. I shoudl have gone - but was so tired. and am trying to save money. speaking of saving money I got a <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//?path=pictures%2Fmisc%2Fphone_camera%2Fnokia_6600%2F220920041236&img=Nokia6600%28582%29.jpg">new wallet</a>. hahaha. <br/><br/>i found out today that a lot of people from work read my blog. awesome. hi peoples. 
+I am excited. I apparently forgot to by earthquake - by murakami - which is sad. but whatever. I will get it later. I love him. I am currently struggling through <a href="http://www.complete-review.com/reviews/japannew/yumiri1.htm">gold rush</a> by Yu Miri. I don't really like it. and it totally makes me upset. so I don't think I can read it any longer. I stopped carrying it. it just seems to be filled with horrible gratuitous violence. so annoying. not even a redeeming story. I need more darkness. <br/><br/>i started/made/whatever another site. relaly it is just following through with the plan I made a billion years ago. check out <a href="http://www.fukung.net">fukung.net</a>. it is my new hong kong/horror/foriegn/action/cultish movie review site. and since I started playign with that I also decided to catalog my movies for reals. I got out my fancy <a href="http://cuecatastrophe.com/">cuecat</a> barcode scanner - got some <a href="http://collectorz.com/movie/">software</a> that would do all the dirty work for me. and went to town. it took a couple hours. but the results are pretty good. check out my collection <a href="http://dopeman.org/movies/">here</a>. all 230 movies or whatever. it is amazing to look at them in that perspective. totally crazy. but whatever. <br/><br/>i am tired. weird. I have tried not to go out. and I have been pretty successful. last night I avoided it - but missed a friends bday. sad. I shoudl have gone - but was so tired. and am trying to save money. speaking of saving money I got a <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//?path=pictures%2Fmisc%2Fphone_camera%2Fnokia_6600%2F220920041236&img=Nokia6600%28582%29.jpg">new wallet</a>. hahaha. <br/><br/>i found out today that a lot of people from work read my blog. awesome. hi peoples.

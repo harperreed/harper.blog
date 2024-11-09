@@ -1,6 +1,11 @@
 ---
-date: 2007-10-17T22:16:51Z
-tags: ["general","war","fear","sad","email","friends"]
+date: 2007-10-17 22:16:51+00:00
+tags:
+- veterans
+- medical-marijuana
+- mental-health
+- friendship
+- post-traumatic-stress
 title: A email response from a friend
 wordpress_id: 1486
 wordpress_url: http://www.nata2.org/2007/10/17/a-email-response-from-a-friend/

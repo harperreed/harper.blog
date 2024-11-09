@@ -1,12 +1,17 @@
 ---
-date: 2003-10-22T15:18:56Z
+date: 2003-10-22 15:18:56+00:00
 excerpt: So I get bored every once and awhile and I want to "hack" stuff. so lately
   I have been into hacking the ps2 and the tivo. I just ordered a tivo to hack and
   I just got my "key" to the ps2 world. so yesterday I burnt a couple disks to test
   out my set up. and wham it worked. I was able to boot the ps2linux rescue disk.
   however, the HD is not formatted so I wasn't able to boot BBnav. I attempted to
   ...
-tags: ["hacking","linux"]
+tags:
+- ps2-hacking
+- linux
+- home-automation
+- tivo-hacking
+- gaming
 title: booting linux on the PS2
 wordpress_id: 653
 wordpress_url: http://new.nata2.org/?p=653

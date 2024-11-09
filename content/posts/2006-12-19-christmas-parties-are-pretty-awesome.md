@@ -1,6 +1,11 @@
 ---
-date: 2006-12-19T01:47:51Z
-tags: ["general","christmas","fun","holidays","parties"]
+date: 2006-12-19 01:47:51+00:00
+tags:
+- christmas-party
+- secret-santa
+- office-fun
+- holiday-celebration
+- gift-giving
 title: Christmas parties are pretty awesome.
 wordpress_id: 1397
 wordpress_url: http://www.nata2.org/2006/12/19/christmas-parties-are-pretty-awesome/

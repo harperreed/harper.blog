@@ -1,5 +1,11 @@
 ---
-date: 2010-09-03T00:00:00Z
+date: 2010-09-03 00:00:00+00:00
+tags:
+- venture-capital
+- startups
+- angel-investing
+- midwest-entrepreneurship
+- scouting-programs
 title: Yes! I am a venture hacks scout! Chicago RPZNT
 ---
 

@@ -1,9 +1,16 @@
 ---
-date: 2002-07-10T21:33:41Z
-excerpt: |-
-  i love the internet. Awhile back I posted 60X1.com, I finally took the time to finish it and much to my chagrin it led me to some amazing sites:
-  tinkin - this is the guy who made 60X1.com he has a bunch of really great anti war stuff. it is so good. it makes me happ...
-tags: ["internet","war","sites","bush","metal","source","humor","design","politics","politic"]
+date: 2002-07-10 21:33:41+00:00
+excerpt: 'i love the internet. Awhile back I posted 60X1.com, I finally took the time
+  to finish it and much to my chagrin it led me to some amazing sites:
+
+  tinkin - this is the guy who made 60X1.com he has a bunch of really great anti war
+  stuff. it is so good. it makes me happ...'
+tags:
+- internet
+- design
+- politics
+- humor
+- art
 title: deisgn (i spelled this incorrectly.. and then i thought it was funny.. so yea)
 wordpress_id: 316
 wordpress_url: http://new.nata2.org/?p=316
@@ -15,4 +22,4 @@ i love the internet. Awhile back I posted <a href="http://1111111111111111111111
 <li><a href="http://www.surfstation.lu/">Surfstation</a> - I haven't had a lot of time to check this out. but it seems to be what I need. 
 <li><a href="http://www.alternet.org/">Alternet</a> - this is an alternative new source. it seems to fit rather well with what I feel. Check out <a href="http://www.alternet.org/story.html?StoryID=13554">this</a> article called "Bush Threatens Future of Peacekeeping."
 <li><a herf="http://www.23dpi.com">23dpi</a> is more along the lines of the sites I do. But it is done with style. hah. whereas the sites I do are done with a crayon. 
-Well. I am out of here.. here being work.. work being ok. java being dumb. metallica being humorous. do you think the internet will become like shadowrun. I hope so. 
+Well. I am out of here.. here being work.. work being ok. java being dumb. metallica being humorous. do you think the internet will become like shadowrun. I hope so.

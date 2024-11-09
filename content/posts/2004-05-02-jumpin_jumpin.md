@@ -1,11 +1,16 @@
 ---
-date: 2004-05-02T23:29:49Z
+date: 2004-05-02 23:29:49+00:00
 excerpt: tonight I am going to dinner with morgan. it is kinda weird. I haven't seen
   her since we broke up. I am a bit apprenhensive - not really about seeing her. just
   about the whole situation. it is kinda scary. haha. I am glad, however that it is
   scary by design and not scary or uncomfortable because I happened to run in to her
   randomly. we have been talking on email - so it shoudln't be too uncomfo...
-tags: ["crobar","insane","design","india"]
+tags:
+- relationships
+- emotions
+- nightlife
+- personal-reflection
+- social-situations
 title: jumpin jumpin
 wordpress_id: 836
 wordpress_url: http://new.nata2.org/?p=836

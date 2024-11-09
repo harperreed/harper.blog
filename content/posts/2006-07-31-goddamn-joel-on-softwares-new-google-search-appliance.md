@@ -1,6 +1,11 @@
 ---
-date: 2006-07-31T13:16:16Z
-tags: ["technology","search","web-20","wikipedia","joel-on-software","joel","software","endeca","encycopedia"]
+date: 2006-07-31 13:16:16+00:00
+tags:
+- search-engine
+- wikipedia
+- content-creation
+- technology
+- software
 title: 'Goddamn Joel on software''s new google search appliance. '
 wordpress_id: 1315
 wordpress_url: http://www.nata2.org/2006/07/31/goddamn-joel-on-softwares-new-google-search-appliance/

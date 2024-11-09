@@ -1,6 +1,11 @@
 ---
-date: 2006-09-18T16:46:14Z
-tags: ["technology","technology"]
+date: 2006-09-18 16:46:14+00:00
+tags:
+- seo
+- digital-marketing
+- web-2-0
+- online-advertising
+- technology
 title: Thoughts about The DECK and PageRank.
 wordpress_id: 1346
 wordpress_url: http://www.nata2.org/2006/09/18/thoughts-about-the-deck-and-pagerank/

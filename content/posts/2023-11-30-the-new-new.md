@@ -1,8 +1,15 @@
 ---
-title: "The new new AI tools"
 date: 2023-11-30
+description: Holy Smokes there is a lot of new AI tools out there. Here is what I
+  have been recently using
 draft: false
-description: "Holy Smokes there is a lot of new AI tools out there. Here is what I have been recently using"
+tags:
+- ai
+- productivity-tools
+- technology
+- browsers
+- innovation
+title: The new new AI tools
 ---
 
 Back in the 2000s, we were all excited about new rock and roll, electro, and the scene and music coming out of nyc. some friends put together a party called the new new. The party was a great time (well, until I got kicked out for acting a fool lol). Specifically meant to feature all the wild new vibes that were coming down the pike.

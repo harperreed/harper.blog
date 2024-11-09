@@ -1,6 +1,11 @@
 ---
-date: 2005-10-27T01:05:02Z
-tags: ["general","hacking","projects","electronics","audio","t-amp"]
+date: 2005-10-27 01:05:02+00:00
+tags:
+- audio
+- electronics
+- hacking
+- projects
+- diy
 title: I am going to Haxor my t-amp. Super Klasse
 wordpress_id: 1143
 wordpress_url: http://www.nata2.org/?p=1143
@@ -63,4 +68,4 @@ A probably pseudo parts list:
 
 I think that this project rules and is totally teaching me more about electronics. i mean - i took the classes and have done shit with microcontrollers - but i like this application crap. it rules. 
 
-so there. 
+so there.

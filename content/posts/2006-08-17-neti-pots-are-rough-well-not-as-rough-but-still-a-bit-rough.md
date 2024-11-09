@@ -1,6 +1,11 @@
 ---
-date: 2006-08-17T02:37:54Z
-tags: ["general","sick","neti-pot"]
+date: 2006-08-17 02:37:54+00:00
+tags:
+- health
+- self-care
+- wellness
+- sickness
+- family-visits
 title: 'neti pots are rough. well not as rough.. but still a bit rough.. '
 wordpress_id: 1324
 wordpress_url: http://www.nata2.org/2006/08/17/neti-pots-are-rough-well-not-as-rough-but-still-a-bit-rough/

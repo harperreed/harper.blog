@@ -1,6 +1,11 @@
 ---
-date: 2006-08-07T01:45:59Z
-tags: ["general","chicago","crobar","parties","party","lollapalooza"]
+date: 2006-08-07 01:45:59+00:00
+tags:
+- music-festival
+- nightlife
+- chicago-events
+- party-scene
+- lollapalooza
 title: lollapalooza weekends are always the best/craziest/broken
 wordpress_id: 1319
 wordpress_url: http://www.nata2.org/2006/08/07/lollapalooza-weekends-are-always-the-bestcraziestbroken/

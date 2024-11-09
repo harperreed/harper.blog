@@ -1,6 +1,11 @@
 ---
-date: 2007-03-07T11:34:07Z
-tags: ["general","money","finances","budget","savings","wesabe"]
+date: 2007-03-07 11:34:07+00:00
+tags:
+- personal-finance
+- financial-management
+- money-saving
+- budgeting
+- financial-goals
 title: Wesabe is neat
 wordpress_id: 1417
 wordpress_url: http://www.nata2.org/2007/03/07/wesabe-is-neat/

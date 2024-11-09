@@ -1,6 +1,11 @@
 ---
-date: 2005-08-26T04:05:05Z
-tags: ["general","music","awesome","work","clubs","shows"]
+date: 2005-08-26 04:05:05+00:00
+tags:
+- music
+- live-performance
+- events
+- nightlife
+- work
 title: tonight after juggling, after a meeting and after i attempted to goto bed
 wordpress_id: 1118
 wordpress_url: http://www.nata2.org/2005/08/26/tonight-after-juggling-after-a-meeting-and-after-i-attempted-to-goto-bed/

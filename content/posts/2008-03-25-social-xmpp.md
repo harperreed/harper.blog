@@ -1,6 +1,11 @@
 ---
-date: 2008-03-25T22:26:16Z
-tags: ["technology","jabber","awesome","lists","communities","xmpp","social-software"]
+date: 2008-03-25 22:26:16+00:00
+tags:
+- social-media
+- networking
+- xmpp
+- technology
+- community
 title: Social XMPP
 wordpress_id: 1514
 wordpress_url: http://www.nata2.org/2008/03/25/social-xmpp/

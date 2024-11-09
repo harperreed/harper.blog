@@ -1,6 +1,10 @@
 ---
-date: 2008-02-29T13:15:59Z
-tags: ["technology","hosting","mosso","web-20","cloud","grid"]
+date: 2008-02-29 13:15:59+00:00
+tags:
+- cloud-hosting
+- shared-hosting
+- load-balancing
+- technology
 title: 'The Mosso Cloud: Requests are not a good metric'
 wordpress_id: 1509
 wordpress_url: http://www.nata2.org/?p=1509

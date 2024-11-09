@@ -1,6 +1,11 @@
 ---
-date: 2005-02-01T10:51:29Z
-tags: ["general"]
+date: 2005-02-01 10:51:29+00:00
+tags:
+- ipod
+- mac
+- technology
+- computers
+- consumer-products
 title: Ipod Mini, Mac Mini and padded rooms.
 wordpress_id: 1190
 wordpress_url: http://www.nata2.org/2005/02/01/ipod-mini-mac-mini-and-padded-rooms-2/

@@ -1,11 +1,16 @@
 ---
-date: 2001-07-15T16:27:46Z
+date: 2001-07-15 16:27:46+00:00
 excerpt: Man.. i don't know whats going on. I had the wierdest dreams recently. both
   of them involved the "weather." In one i was walking from cedar rapids to Mt. Vernon,
   and i was following a tornado. So everything was destroyed... then when i got to
   cornell, the tornado had somehow turned all of the "jocks" into vampires... it was
   really funny. it wasn't just jocks persay, but that is all i remember a...
-tags: ["friends","cornell","cell","search","women"]
+tags:
+- vampires
+- dreams
+- cornell-university
+- weather
+- supernatural
 title: Vampires and Cornell..
 wordpress_id: 16
 wordpress_url: http://new.nata2.org/?p=16

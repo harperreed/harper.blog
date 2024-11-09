@@ -1,9 +1,14 @@
 ---
-date: 2002-09-19T14:38:15Z
-excerpt: |-
-  I agree, I do think that Bush's resolution about iraq will be nukes.jesus
-  Apparently Yuen Wo Ping will be...
-tags: ["bush","iraq"]
+date: 2002-09-19 14:38:15+00:00
+excerpt: 'I agree, I do think that Bush''s resolution about iraq will be nukes.jesus
+
+  Apparently Yuen Wo Ping will be...'
+tags:
+- politics
+- iraq-war
+- entertainment
+- film-adaptations
+- bush
 title: tone inmy arm.
 wordpress_id: 358
 wordpress_url: http://new.nata2.org/?p=358

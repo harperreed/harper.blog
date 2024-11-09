@@ -1,11 +1,16 @@
 ---
-date: 2003-07-31T16:57:32Z
+date: 2003-07-31 16:57:32+00:00
 excerpt: "Oh yea.. I am.. \n\n\nphunktoad (11:51:39 AM): I forgot to tell you about
   the dream I had last night\nphunktoad (11:51:45 AM): it had you and liz in it\nphunktoad
   (11:52:03 AM): so you and her came over to beth's place, and you tell me that you
   both were taking flying lessons\nphunktoad (11:52:09 AM): and you wanted to show
   me\n"
-tags: ["linux"]
+tags:
+- flying
+- dreams
+- aviation
+- personal-stories
+- linux
 title: i am a good pilot
 wordpress_id: 583
 wordpress_url: http://new.nata2.org/?p=583
@@ -33,4 +38,4 @@ Oh yea.. I am..
 <b>linUXkilla (11:55:41 AM)</b>: I rule so much<br/>
 </small>
 </blockquote>
-told you.. 
+told you..

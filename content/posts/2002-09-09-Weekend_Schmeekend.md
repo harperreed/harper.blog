@@ -1,11 +1,16 @@
 ---
-date: 2002-09-09T05:12:36Z
+date: 2002-09-09 05:12:36+00:00
 excerpt: So this weekend was the weekend of roomate house warming parties. It was
   fun. On friday I went and saw my friends band.. winnie. heh.. which is both the
   band and my friends name. They played with some other friends of mine.. Tallulah.
   heh. what a surprise. but anyway. so then after that I went to a friends house warming
   party. what a night. a bunch of people got naked and ran around.. mostly danc...
-tags: ["juggle","war"]
+tags:
+- social-events
+- house-warming
+- music
+- parties
+- friends
 title: Weekend Schmeekend
 wordpress_id: 351
 wordpress_url: http://new.nata2.org/?p=351

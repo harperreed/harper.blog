@@ -1,11 +1,16 @@
 ---
-date: 2001-10-10T23:57:20Z
+date: 2001-10-10 23:57:20+00:00
 excerpt: Today I saw the band Anniversary. They were interesting. Not really as good
   as I thought. It is weird when you go see a lot of bands that you listen to often
   ? I feel I know every lick, every lyric and every guitar riff, and when the band
   does something creative in concert it annoys me. Luckily with bands like modest
   mouse, the creativity is very solid ? and with built to spill, they were right o...
-tags: ["girlfriend"]
+tags:
+- music
+- concerts
+- relationships
+- bands
+- anniversaries
 title: Anniversary
 wordpress_id: 114
 wordpress_url: http://new.nata2.org/?p=114

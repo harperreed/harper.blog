@@ -1,11 +1,16 @@
 ---
-date: 2002-02-11T14:30:01Z
+date: 2002-02-11 14:30:01+00:00
 excerpt: since I last updated this page. On thursday.. I found out that I would be
   accompanying a bunch of servers to vienna, virginia in an emergency server upgrade.
   So I went and rented a car, got servers from one colo facility and brought them
   to virginia. We drove a bundle of hours.. went through indiana, ohio, pennsylvania,
   maryland, virginia and Washington DC. We ended up staying right across from t...
-tags: ["server","insane","india"]
+tags:
+- server-upgrade
+- data-center
+- travel
+- technology
+- adventure
 title: a lot has happened
 wordpress_id: 205
 wordpress_url: http://new.nata2.org/?p=205

@@ -1,6 +1,10 @@
 ---
-date: 2005-10-31T05:59:23Z
-tags: ["general","rails","ajax","whotheheck"]
+date: 2005-10-31 05:59:23+00:00
+tags:
+- ruby-on-rails
+- ajax
+- programming
+- software-development
 title: I made this tonight
 wordpress_id: 1145
 wordpress_url: http://www.nata2.org/2005/10/31/i-made-this-tonight/

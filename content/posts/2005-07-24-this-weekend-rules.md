@@ -1,6 +1,11 @@
 ---
-date: 2005-07-24T06:34:38Z
-tags: ["general","party","concert","lollapalooza"]
+date: 2005-07-24 06:34:38+00:00
+tags:
+- lollapalooza
+- party
+- documentary
+- music
+- chicago
 title: 'This weekend rules. '
 wordpress_id: 1099
 wordpress_url: http://www.nata2.org/2005/07/24/this-weekend-rules/
@@ -13,4 +18,4 @@ Last night was the <a href="https://web.archive.org/web/20030814003134/http://ww
 
 Then tonight i saw the <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//?path=pictures%2Fevents%2F2005%3A07%3A23_lollapalooza_party&img=IMG_4250.jpg">pixies </a>, then <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//?path=pictures%2Fevents%2F2005%3A07%3A23_lollapalooza_party&img=IMG_4257.jpg">weezer </a>- then i came home and hung out with hiromi and took her to see the <a href="https://web.archive.org/web/20030814003134/http://www.nata2.info//?path=pictures%2Fevents%2F2005%3A07%3A23_lollapalooza_party&img=IMG_4266.jpg">blonde redhead secret show</a> at the double door. 
 
-I really want <a href="http://www.triplexgoldteeth.com/">gold teeth</a>. <a href="http://www.goldteethny.com/">white gold</a>. i want to have raised letters in it to say YoYo. heh. that would rule. RULE!! maybe i will get them when i goto nyc soon. i would laugh. 
+I really want <a href="http://www.triplexgoldteeth.com/">gold teeth</a>. <a href="http://www.goldteethny.com/">white gold</a>. i want to have raised letters in it to say YoYo. heh. that would rule. RULE!! maybe i will get them when i goto nyc soon. i would laugh.

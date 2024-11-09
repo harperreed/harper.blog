@@ -1,6 +1,11 @@
 ---
-date: 2006-02-13T06:56:02Z
-tags: ["general","cold","sick","google","hacks","diy","ambient","future"]
+date: 2006-02-13 06:56:02+00:00
+tags:
+- health
+- technology
+- sleep
+- ideas
+- ambient
 title: 'can''t sleep. stupid cold. '
 wordpress_id: 1210
 wordpress_url: http://www.nata2.org/2006/02/13/cant-sleep-stupid-cold/

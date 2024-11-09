@@ -1,6 +1,11 @@
 ---
-date: 2005-08-13T20:57:27Z
-tags: ["general","books","travel","sad","awesome","bummed"]
+date: 2005-08-13 20:57:27+00:00
+tags:
+- travel
+- books
+- sad
+- airlines
+- memories
 title: kinda bummed
 wordpress_id: 1112
 wordpress_url: http://www.nata2.org/2005/08/13/kinda-bummed-2/
@@ -10,4 +15,4 @@ So i mistakenly packed this swiss army knife that my brother got for me when he 
 
 i just read <a href="http://www.amazon.com/exec/obidos/tg/detail/-/1400075793/qid=1123978062/sr=8-1/ref=pd_bbs_1/103-0635108-1839832?v=glance&s=books&n=507846">this</a>. You should all read it. it is really good. hiromi was reading it but i stole it and read it while on the plane. Really sad. but really good. 
 
-And now i am going to prepare for tonight. Looks like i have 3-5 hours before i have to "perform" - so i am going to take a nap. 
+And now i am going to prepare for tonight. Looks like i have 3-5 hours before i have to "perform" - so i am going to take a nap.

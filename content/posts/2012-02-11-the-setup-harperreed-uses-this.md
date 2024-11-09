@@ -1,5 +1,10 @@
 ---
-date: 2012-02-11T00:00:00Z
+date: 2012-02-11 00:00:00+00:00
+tags:
+- interview
+- technology
+- productivity
+- connectivity
 title: 'Me on The Setup: Harper Reed uses this.'
 ---
 
@@ -64,4 +69,4 @@ My dream setup from when I was in high school is more interesting. I spent hours
 
 ----
 
-#### What do you use? I would love to know. Feel free to comment and let me know. 
+#### What do you use? I would love to know. Feel free to comment and let me know.

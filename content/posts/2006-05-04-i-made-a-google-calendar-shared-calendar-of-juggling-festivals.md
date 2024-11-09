@@ -1,6 +1,11 @@
 ---
-date: 2006-05-04T02:36:02Z
-tags: ["general"]
+date: 2006-05-04 02:36:02+00:00
+tags:
+- juggling
+- events
+- calendar
+- festivals
+- community
 title: I made a google calendar shared calendar of juggling festivals
 wordpress_id: 1257
 wordpress_url: http://www.nata2.org/2006/05/04/i-made-a-google-calendar-shared-calendar-of-juggling-festivals/

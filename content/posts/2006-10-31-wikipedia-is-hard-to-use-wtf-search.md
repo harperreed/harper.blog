@@ -1,6 +1,11 @@
 ---
-date: 2006-10-31T16:19:32Z
-tags: ["technology","content","users","wikipedia","endeca","usability"]
+date: 2006-10-31 16:19:32+00:00
+tags:
+- usability
+- search
+- user-experience
+- knowledge-sharing
+- technology
 title: Wikipedia is hard to use. WTF Search.
 wordpress_id: 1379
 wordpress_url: http://www.nata2.org/2006/10/31/wikipedia-is-hard-to-use-wtf-search/

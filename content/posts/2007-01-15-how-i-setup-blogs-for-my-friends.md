@@ -1,6 +1,11 @@
 ---
-date: 2007-01-15T16:23:44Z
-tags: ["technology","technology"]
+date: 2007-01-15 16:23:44+00:00
+tags:
+- blogging
+- wordpress
+- digital-communication
+- online-communities
+- friendship
 title: How I setup blogs for my friends
 wordpress_id: 1405
 wordpress_url: http://www.nata2.org/2007/01/15/how-i-setup-blogs-for-my-friends/

@@ -1,6 +1,11 @@
 ---
-date: 2006-02-27T20:45:43Z
-tags: ["general","technology","hacking","diy","make","ambient","embedded","nabaztag","takeapart","wifi","led"]
+date: 2006-02-27 20:45:43+00:00
+tags:
+- internet-of-things
+- home-automation
+- wireless-technology
+- embedded-systems
+- gadget
 title: Investigating the nabaztag
 wordpress_id: 1223
 wordpress_url: http://www.nata2.org/2006/02/27/investigating-the-nabaztag/

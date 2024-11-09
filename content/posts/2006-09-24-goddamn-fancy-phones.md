@@ -1,6 +1,11 @@
 ---
-date: 2006-09-24T00:45:28Z
-tags: ["general","phones","nokia","sad","sim-card","toasted","puk","pin"]
+date: 2006-09-24 00:45:28+00:00
+tags:
+- smartphones
+- mobile-phones
+- technology
+- sim-cards
+- frustration
 title: Goddamn fancy phones
 wordpress_id: 1350
 wordpress_url: http://www.nata2.org/2006/09/24/goddamn-fancy-phones/

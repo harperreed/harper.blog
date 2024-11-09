@@ -1,6 +1,11 @@
 ---
-date: 2006-09-18T01:18:47Z
-tags: ["general"]
+date: 2006-09-18 01:18:47+00:00
+tags:
+- movies
+- literature
+- bbs
+- dune
+- clive-barker
 title: DUNE. american heritage. 2 many djs. accidently
 wordpress_id: 1345
 wordpress_url: http://www.nata2.org/2006/09/18/dune-american-heritage-2-many-djs-accidently/

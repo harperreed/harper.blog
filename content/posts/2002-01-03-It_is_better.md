@@ -1,11 +1,16 @@
 ---
-date: 2002-01-03T02:07:17Z
+date: 2002-01-03 02:07:17+00:00
 excerpt: today was hard. I was able to hold up. Work was ok. I am trying to decide
   a hobby. maybe direct TV hacking.. maybe console stuff.. maybe getting a no region
   dvd. . I am thinking about drowning my sorrows in technology(something I do really
   good) and buying a laptop. hmm.. but I need one with UXGA(ahhh 1600x1200), however
   that shit is expensive.. I don't want to pay $2500 for a freaking computer(...
-tags: ["technology","hacking","laptop","girlfriend"]
+tags:
+- personal-reflection
+- technology
+- gaming
+- relationships
+- hobbies
 title: It is better
 wordpress_id: 161
 wordpress_url: http://new.nata2.org/?p=161

@@ -1,6 +1,11 @@
 ---
-date: 2005-11-23T19:18:17Z
-tags: ["general","travel","awesome","airport","lynx","unix"]
+date: 2005-11-23 19:18:17+00:00
+tags:
+- internet
+- travel
+- technology
+- servers
+- thanksgiving
 title: Airport internet. Free. W00t. Blocked.
 wordpress_id: 1151
 wordpress_url: http://www.nata2.org/2005/11/23/airport-internet-free-w00t-blocked/

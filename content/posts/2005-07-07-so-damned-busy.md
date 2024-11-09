@@ -1,6 +1,11 @@
 ---
-date: 2005-07-07T17:32:05Z
-tags: ["general","books","blogs","coding","projects","hiromi","development","management","ruby","rails","yoyo","agile","engineering","firefox","gtd"]
+date: 2005-07-07 17:32:05+00:00
+tags:
+- gaming
+- hobbies
+- teamwork
+- entertainment
+- leisure
 title: so damned busy
 wordpress_id: 1093
 wordpress_url: http://www.nata2.org/?p=1093
@@ -38,4 +43,4 @@ i am going to make websites in this order: secret project 1, secret project 2, 3
 
 see i am ready. 
 
-OMG. my mouse buttons almost killed this post. HOW I LOVE YOU FIREFOX FOR NOT REMOVING ALL THE CONTENTS OF THE FORM. 
+OMG. my mouse buttons almost killed this post. HOW I LOVE YOU FIREFOX FOR NOT REMOVING ALL THE CONTENTS OF THE FORM.

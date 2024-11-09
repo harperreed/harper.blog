@@ -1,10 +1,15 @@
 ---
-date: 2003-07-29T14:43:53Z
+date: 2003-07-29 14:43:53+00:00
 excerpt: "so yesterday I read two books. it was madness. I just needed that stimulation
   I guess.. \n\nfirst I read Angels & Demons by Dan Brown. It was pretty good. a very
   nice read. I felt that it was similar to those science/medical fiction books that
   are use a hihg base level of knowledge about the subject... the jargon I g..."
-tags: ["books","hacking","audreyhacking","audrey","insane","college"]
+tags:
+- books
+- reading
+- fiction
+- catholicism
+- college
 title: yesterday..
 wordpress_id: 580
 wordpress_url: http://new.nata2.org/?p=580

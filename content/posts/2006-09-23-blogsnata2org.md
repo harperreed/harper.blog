@@ -1,6 +1,10 @@
 ---
-date: 2006-09-23T21:18:07Z
-tags: ["general","blogs","sites","smarty","magpie-rss"]
+date: 2006-09-23 21:18:07+00:00
+tags:
+- blogging
+- aggregator
+- wordpress
+- smarty
 title: blogs.nata2.org
 wordpress_id: 1349
 wordpress_url: http://www.nata2.org/2006/09/23/blogsnata2org/

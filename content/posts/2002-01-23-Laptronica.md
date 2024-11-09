@@ -1,11 +1,16 @@
 ---
-date: 2002-01-23T11:17:53Z
+date: 2002-01-23 11:17:53+00:00
 excerpt: Last night I went out to this club and saw some of the strangest and most
   entertaining performances of my short stay in lovely chicago. It was a "Battle Royal"
   of sorts between two "laptronica" teams. Each team had a tellytubby to fight out
   the matchs wrestling-style. The music was bomb and the teams were funny shit. I
   have never in all my years seen something so amusing. hehI also mana...
-tags: ["chicago","music"]
+tags:
+- laptronica
+- chicago-nightlife
+- music-performance
+- underground-scene
+- entertainment
 title: Laptronica
 wordpress_id: 186
 wordpress_url: http://new.nata2.org/?p=186

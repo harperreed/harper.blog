@@ -1,6 +1,11 @@
 ---
-date: 2005-08-04T22:41:37Z
-tags: ["general","music","hardcore","gabber"]
+date: 2005-08-04 22:41:37+00:00
+tags:
+- new-york-city
+- barbecue
+- techno
+- music-festival
+- nostalgia
 title: HARDCORE! heh. sometimes i love nyc
 wordpress_id: 1105
 wordpress_url: http://www.nata2.org/2005/08/04/hardcore-heh-sometimes-i-love-nyc/

@@ -1,6 +1,11 @@
 ---
-date: 2007-11-05T16:10:03Z
-tags: ["general","hacking","google","gmail","xml","javascript","ajax","contacts","isync","contact-manager"]
+date: 2007-11-05 16:10:03+00:00
+tags:
+- contact-management
+- gmail
+- mobile-software
+- data-sync
+- hacking
 title: Google Contact Manager Hacking
 wordpress_id: 1489
 wordpress_url: http://www.nata2.org/2007/11/05/google-contact-manager-hacking-2/

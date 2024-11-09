@@ -1,6 +1,11 @@
 ---
-date: 2007-08-31T15:48:43Z
-tags: ["general","skymall","awesome","herman-miller","mirra","chairs","purchases"]
+date: 2007-08-31 15:48:43+00:00
+tags:
+- ergonomics
+- workspace
+- furniture
+- health
+- product-reviews
 title: 'I got a new chair: Herman Miller Mirra'
 wordpress_id: 1473
 wordpress_url: http://www.nata2.org/2007/08/31/i-got-a-new-chair-herman-miller-mirra/

@@ -1,6 +1,11 @@
 ---
-date: 2004-12-26T22:12:16Z
-tags: ["general","hacking","osx","apple","mac","picture","ibook","fram"]
+date: 2004-12-26 22:12:16+00:00
+tags:
+- digital-picture-frame
+- open-source
+- remote-management
+- linux
+- apple-hardware
 title: iBook picture frame
 wordpress_id: 1181
 wordpress_url: http://www.nata2.org/2004/12/26/ibook-picture-frame/

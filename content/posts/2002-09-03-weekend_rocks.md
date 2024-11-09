@@ -1,10 +1,15 @@
 ---
-date: 2002-09-03T14:17:14Z
+date: 2002-09-03 14:17:14+00:00
 excerpt: This weekend I worked. I ended a 14 day streak of working 8 hours or more
   a day. it was rough. but I finally had a one day vacation. suxor. my projet goes
   live tomarrow. I am gettign sick. I need caffiene. I need to learn how to spell.
   I got a new phone.. 3G.. in da house. it is cool. col...
-tags: ["nerd","phone","war","sick","bush","source","vacation","iraq","applications"]
+tags:
+- weekend
+- work
+- technology
+- politics
+- health
 title: weekend rocks
 wordpress_id: 348
 wordpress_url: http://new.nata2.org/?p=348

@@ -1,5 +1,11 @@
 ---
-date: 2010-12-07T00:00:00Z
+date: 2010-12-07 00:00:00+00:00
+tags:
+- lincoln-square
+- neighborhood-review
+- restaurant-guide
+- moving
+- urban-living
 title: Lincoln Square Retrospective
 ---
 
@@ -31,4 +37,4 @@ I wanted to take a minute to chronicle the places we went to a bunch and the pla
 
 I imagine I missed a bunch of great places. If you have any favs, leave them in the comments. 
 
-I really like Lincoln Square. I think we would live there again. 
+I really like Lincoln Square. I think we would live there again.

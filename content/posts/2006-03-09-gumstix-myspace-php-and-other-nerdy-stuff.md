@@ -1,6 +1,11 @@
 ---
-date: 2006-03-09T04:24:54Z
-tags: ["general","technology","nerd","php","hiromi","myspace","gumstix","podcasting","ambientagent"]
+date: 2006-03-09 04:24:54+00:00
+tags:
+- gadget
+- social-media
+- electronics
+- programming
+- hobbyist
 title: Gumstix, myspace, php and other nerdy stuff.
 wordpress_id: 1229
 wordpress_url: http://www.nata2.org/2006/03/09/gumstix-myspace-php-and-other-nerdy-stuff/

@@ -1,10 +1,15 @@
 ---
-date: 2004-07-19T16:52:38Z
+date: 2004-07-19 16:52:38+00:00
 excerpt: i have been away. oh yes. I have been away. i got to buffalo on wednesday
   night. dylan arrived shortly after I did and we went to the renegade show at this
   really awesome space called sphere. The renegade show was  pretty awesome - mark
   faje was really funny as the MC and r...
-tags: ["juggle","jugglers","dylan","family","hacking","war","video","food","juggling","humor","music","matiss","ipod","festivals","yoyoing","itunes","ituneshacking"]
+tags:
+- juggling
+- festivals
+- humor
+- music
+- family
 title: IJA - i.e. i like to juggle lots.
 wordpress_id: 903
 wordpress_url: http://new.nata2.org/?p=903
@@ -15,4 +20,4 @@ speaking of juggling...  I think <a href="http://thewjf.com/">this</a> is redicu
 
 
 
-<br/><br/>work is fun right now. a lot going on - so I am not bored. <br/><br/>i want to finish my itunes project. andy is working on it now. I really enjoy working with him on these small projects. it is fun to see how different people solve different problems. and how we both edge toward similar solutions - but possinbly different implementations of the same solution. quite interesting. I am setting up ituneshacking to host our projects. heh. quite fun. I love being invovled in shit like this. <br/><rb>check <a href="http://www.yvg.com/itunesartimporter.shtml">this</a> out. it is pretty cool. I have been importing my album art. heh. <3 itunes. <3 amazon. <3 / want the new ipod. hmm. BUT ME AN IPOD and a 12 inch powerbook please. thanks. <br/>oh.. and I want one of <a href="http://store4.yimg.com/I/thescooterworks_1795_13142558">these</a>.<br/><br/>i am back. 
+<br/><br/>work is fun right now. a lot going on - so I am not bored. <br/><br/>i want to finish my itunes project. andy is working on it now. I really enjoy working with him on these small projects. it is fun to see how different people solve different problems. and how we both edge toward similar solutions - but possinbly different implementations of the same solution. quite interesting. I am setting up ituneshacking to host our projects. heh. quite fun. I love being invovled in shit like this. <br/><rb>check <a href="http://www.yvg.com/itunesartimporter.shtml">this</a> out. it is pretty cool. I have been importing my album art. heh. <3 itunes. <3 amazon. <3 / want the new ipod. hmm. BUT ME AN IPOD and a 12 inch powerbook please. thanks. <br/>oh.. and I want one of <a href="http://store4.yimg.com/I/thescooterworks_1795_13142558">these</a>.<br/><br/>i am back.

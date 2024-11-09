@@ -1,9 +1,14 @@
 ---
-date: 2002-10-26T06:20:46Z
+date: 2002-10-26 06:20:46+00:00
 excerpt: When I was in college, my friends and I juggled for a bill bradley rally.
   It was great fun and we met paul wellstone there. It is unfortunant that he has
   died. He was a good person and an excellent politician. Anyway.. here are some pictures
-tags: ["juggle","harper","cell","college","politic"]
+tags:
+- politics
+- college-life
+- memorial
+- activism
+- juggling
 title: Paul Wellstone
 wordpress_id: 382
 wordpress_url: http://new.nata2.org/?p=382

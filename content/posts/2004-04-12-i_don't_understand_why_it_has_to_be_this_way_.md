@@ -1,7 +1,11 @@
 ---
-date: 2004-04-12T04:54:44Z
+date: 2004-04-12 04:54:44+00:00
 excerpt: "it seems like it could be different. \nbut it isn't. \nwhy?"
-tags: ["php"]
+tags:
+- php
+- programming
+- technology
+- software
 title: i don't understand why it has to be this way.
 wordpress_id: 814
 wordpress_url: http://new.nata2.org/?p=814

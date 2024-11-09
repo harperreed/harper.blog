@@ -1,6 +1,11 @@
 ---
-date: 2006-09-04T05:14:35Z
-tags: ["general","chicago","crobar","house-music","techno","arab","soundbar","smartbar","house","banghra"]
+date: 2006-09-04 05:14:35+00:00
+tags:
+- chicago
+- nightlife
+- food
+- music
+- diversity
 title: why i love chicago
 wordpress_id: 1332
 wordpress_url: http://www.nata2.org/2006/09/04/why-i-love-chicago/

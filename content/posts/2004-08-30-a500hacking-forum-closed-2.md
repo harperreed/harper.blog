@@ -1,6 +1,11 @@
 ---
-date: 2004-08-30T02:58:25Z
-tags: ["general","technology","hacking","sites","mobile","web","forums","mine","a500hacking"]
+date: 2004-08-30 02:58:25+00:00
+tags:
+- forum-closure
+- spam
+- content-management
+- hacking
+- website
 title: a500hacking forum closed
 wordpress_id: 1194
 wordpress_url: http://www.nata2.org/2004/08/30/a500hacking-forum-closed-2/

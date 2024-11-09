@@ -1,6 +1,11 @@
 ---
-date: 2005-07-21T19:56:44Z
-tags: ["general"]
+date: 2005-07-21 19:56:44+00:00
+tags:
+- sleep
+- health
+- lifestyle
+- wellness
+- productivity
 title: i am a polyphasic sleeper. woot.
 wordpress_id: 1098
 wordpress_url: http://www.nata2.org/2005/07/21/i-am-a-polyphasic-sleeper-woot/
@@ -10,4 +15,4 @@ After some discussion with my new friend <a href="http://mediadiet.net/">heath</
 
 I don't think that the uberman schedule is for me. but i do think that polyphasic sleep is good.
 
-hehe. 
+hehe.

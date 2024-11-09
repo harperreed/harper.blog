@@ -1,5 +1,11 @@
 ---
-date: 2010-11-01T00:00:00Z
+date: 2010-11-01 00:00:00+00:00
+tags:
+- startup
+- conference
+- community
+- technology
+- problem-solving
 title: The Tech Cocktail Startup Mixology Conference
 ---
 

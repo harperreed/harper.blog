@@ -1,8 +1,13 @@
 ---
-date: 2004-12-09T03:26:29Z
+date: 2004-12-09 03:26:29+00:00
 excerpt: seriously. it is a crazy mess. it just exploded the other day and I haven't
   had a chance or ...
-tags: ["books","phone","vacation","apple","ipod","porn","phones","nokia"]
+tags:
+- mess
+- organization
+- technology
+- gadgets
+- personal-space
 title: my room is a mess
 wordpress_id: 968
 wordpress_url: http://new.nata2.org/?p=968

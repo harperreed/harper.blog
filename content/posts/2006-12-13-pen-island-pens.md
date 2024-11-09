@@ -1,6 +1,11 @@
 ---
-date: 2006-12-13T12:02:35Z
-tags: ["general"]
+date: 2006-12-13 12:02:35+00:00
+tags:
+- pens
+- stationery
+- product-review
+- gift-ideas
+- family
 title: Pen Island Pens!
 wordpress_id: 1396
 wordpress_url: http://www.nata2.org/2006/12/13/pen-island-pens/

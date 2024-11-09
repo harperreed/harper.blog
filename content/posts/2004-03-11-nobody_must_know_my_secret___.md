@@ -1,11 +1,16 @@
 ---
-date: 2004-03-11T07:44:15Z
+date: 2004-03-11 07:44:15+00:00
 excerpt: so today I got home from work and took a nap UNTIL 9:50pm. wtf. from 5:20
   to 9:50. that is a long nap. that is a nights sleep for some people. those peole
   being me. seriously. I have to control this. heh. morgan called at like 7:30 and
   was like.. "hey why don't you meet me at my work at 9:30." I was late. haha. I slept
   through a 9:30pm appointment. hahah. seriously. so anywy. tonight w...
-tags: ["food"]
+tags:
+- food
+- social-life
+- napping
+- dining-out
+- friendship
 title: nobody must know my secret...
 wordpress_id: 773
 wordpress_url: http://new.nata2.org/?p=773

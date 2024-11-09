@@ -1,9 +1,14 @@
 ---
-date: 2002-11-01T16:50:14Z
+date: 2002-11-01 16:50:14+00:00
 excerpt: So isreal has decided that war with iraq is no longer imminent. That seems
   like a good thing.. And of course celebrities can all rejoice.. The democrats made
   a sequal to their nice granny cartoo...
-tags: ["social","war","security","iraq"]
+tags:
+- politics
+- international-relations
+- media
+- celebrity-culture
+- security
 title: Just the normal stuff
 wordpress_id: 388
 wordpress_url: http://new.nata2.org/?p=388

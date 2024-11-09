@@ -1,11 +1,16 @@
 ---
-date: 2002-08-13T14:55:57Z
+date: 2002-08-13 14:55:57+00:00
 excerpt: last night we went to go and see the movie signs. it was wonderful. I liked
   it. The first time I asw it.. it was at that crazy chimaman theatre in LA. I wish
   that was pronounced laa. like I live in laa.. heh. too bad. stupid cars. After the
   movie.. hiromi "dragged" us to a bar.. I say dragged... because we didn't really
   know anyone.. but I wanted to go anyway. I saw some friends there.. whi...
-tags: ["social","internet","cars","hiromi"]
+tags:
+- movies
+- social-life
+- bar-culture
+- internet
+- friendship
 title: the Last night
 wordpress_id: 341
 wordpress_url: http://new.nata2.org/?p=341

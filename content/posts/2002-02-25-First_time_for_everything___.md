@@ -1,9 +1,17 @@
 ---
-date: 2002-02-25T01:28:43Z
-excerpt: |-
-  I really need a new computer. I would really like a laptop.. with a UXGA screen. For the last 1.5 weeks I have been using my cell phone as an instant messenger client. It is kinda cumbersome and not exactly convienient. however. it works. ugh
-  So a friend came over tonight.. she is nice. I would like to get to know her better. heh. however.. all her stuff was stolen out of her car whils...
-tags: ["phone","cell","laptop"]
+date: 2002-02-25 01:28:43+00:00
+excerpt: 'I really need a new computer. I would really like a laptop.. with a UXGA
+  screen. For the last 1.5 weeks I have been using my cell phone as an instant messenger
+  client. It is kinda cumbersome and not exactly convienient. however. it works. ugh
+
+  So a friend came over tonight.. she is nice. I would like to get to know her better.
+  heh. however.. all her stuff was stolen out of her car whils...'
+tags:
+- laptop
+- technology
+- communication
+- friendship
+- travel
 title: First time for everything...
 wordpress_id: 217
 wordpress_url: http://new.nata2.org/?p=217

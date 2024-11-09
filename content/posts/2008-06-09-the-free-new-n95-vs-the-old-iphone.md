@@ -1,6 +1,11 @@
 ---
-date: 2008-06-09T23:52:36Z
-tags: ["technology","apple","mobile","nokia","symbian","iphone","n95","wom"]
+date: 2008-06-09 23:52:36+00:00
+tags:
+- smartphones
+- technology
+- mobile-phones
+- history
+- nokia
 title: The free new N95 vs the old iPhone
 wordpress_id: 1531
 wordpress_url: http://www.nata2.org/?p=1531

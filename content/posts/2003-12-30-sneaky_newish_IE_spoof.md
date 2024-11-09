@@ -1,9 +1,16 @@
 ---
-date: 2003-12-30T15:20:25Z
-excerpt: |-
-  to solve the problem with virus scanners and such I have relocated this spoof to here
-  that should work. for more info check out here or here. weird eh.. i am tired and hungry. mostly hung...
-tags: ["phone","server","irc"]
+date: 2003-12-30 15:20:25+00:00
+excerpt: 'to solve the problem with virus scanners and such I have relocated this
+  spoof to here
+
+  that should work. for more info check out here or here. weird eh.. i am tired and
+  hungry. mostly hung...'
+tags:
+- internet-explorer
+- security
+- spoofing
+- irc
+- technology
 title: sneaky newish IE spoof
 wordpress_id: 709
 wordpress_url: http://new.nata2.org/?p=709
