@@ -1,0 +1,6 @@
+[tasks.llm_helper_generate_llm_bundle]
+description = 'Generate output.txt in XML style using repomix'
+run = """
+#!/usr/bin/env bash
+npx repomix --style xml --output output.txt --ignore static,**/*.md,**/uv.lock,**/package-lock.json,**/.env
+"""
