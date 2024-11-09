@@ -1,60 +1,70 @@
+{{/* layouts/notes/single.html */}}
 {{ define "main" }}
-<article
-  class="article-body mx-auto bg-white dark:bg-gray-800 p-4 sm:py-4 sm:px-4 md:py-4 md:px-8 rounded-none sm:rounded-lg shadow-none sm:shadow-sm"
->
-  <!-- Navigation -->
-
-  <div variant="ghost" asChild class="mb-8">
-    <a
-      href="/notes"
-      class="inline-flex items-center text-sm font-['Public_Sans',_sans-serif] text-gray-600 hover:text-gray-900 transition-colors"
-    >
-      ← Back to Notes
-    </a>
-  </div>
-  <!-- Date -->
-
-  <div class="space-y-2">
-    <time
-      class="text-sm text-gray-500 font-['Public_Sans',_sans-serif] flex items-center"
-    >
-      {{ .Date.Format "January 2, 2006" }}
-    </time>
-    <h1 class="article-title">{{.Title}}</h1>
-  </div>
-
-  <!-- Images -->
-  {{ with .Resources.ByType "image" }}
-  <div class="space-y-6 my-4">
-    {{ range . }}
-    <img
-      src="{{ .RelPermalink }}"
-      alt="{{ .Params.alt | default .Title }}"
-      width="{{ .Width }}"
-      height="{{ .Height }}"
-      class="rounded-lg shadow-sm"
-      loading="lazy"
-    />
-    {{ end }}
-  </div>
-  {{ end }}
-  <!-- Content -->
-  <div class="content">{{ .Content }}</div>
-
-  <!-- Tags if present -->
-  {{ with .Params.tags }}
-  <div class="mt-8 pt-8 border-t">
-    <div class="flex flex-wrap gap-2" aria-label="Post tags">
-      {{ range . }}
-      <a
-        href="/tags/{{ . | urlize }}"
-        class="px-3 py-1 bg-gray-100 text-sm text-gray-700 rounded-full hover:bg-gray-200 transition-colors"
-      >
-        {{ . }}
-      </a>
-      {{ end }}
+<article class="h-entry">
+    <!-- Navigation -->
+    <div class="mb-12">
+        <a href="/notes" class="text-gray-600 hover:text-gray-900 no-underline">← Back to notes</a>
     </div>
-  </div>
-  {{ end }} {{- partial "next-prev.html" . -}}
+
+    <!-- Date -->
+    <header class="mb-8">
+        <time class="text-gray-600" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+            {{ .Date.Format "January 2, 2006" }}
+        </time>
+    </header>
+
+    <!-- Images -->
+    {{ with .Resources.ByType "image" }}
+    <div class="space-y-8 mb-12">
+        {{ range . }}
+        {{ $image := .Resize "1600x webp" }}
+        <figure>
+            <img
+                src="{{ $image.RelPermalink }}"
+                alt="{{ with .Title }}{{ . }}{{ else }}Note image{{ end }}"
+                width="{{ $image.Width }}"
+                height="{{ $image.Height }}"
+                class="w-full max-h-[85vh] object-contain bg-gray-50"
+                loading="lazy"
+            />
+        </figure>
+        {{ end }}
+    </div>
+    {{ end }}
+
+    <!-- Content -->
+    <div class="prose prose-lg prose-neutral max-w-none mb-12">
+        {{ .Content }}
+    </div>
+
+    <!-- Tags -->
+    {{ with .Params.tags }}
+    <div class="flex flex-wrap gap-2 mb-16">
+        {{ range . }}
+        <a href="/tags/{{ . | urlize }}" class="text-base text-gray-600 hover:text-gray-900 no-underline">
+            #{{ . }}
+        </a>
+        {{ end }}
+    </div>
+    {{ end }}
+
+    <!-- Previous/Next Navigation -->
+    {{ if or .PrevInSection .NextInSection }}
+    <nav class="mt-20 pt-8 border-t border-gray-100 flex justify-between text-base text-gray-600">
+        {{ if .PrevInSection }}
+        <a href="{{ .PrevInSection.Permalink }}" class="group no-underline max-w-[40%]">
+            <span class="block text-sm uppercase tracking-wide mb-1">Previous note</span>
+            <div class="group-hover:text-gray-900 line-clamp-2">← {{ .PrevInSection.Date.Format "January 2, 2006" }}</div>
+        </a>
+        {{ end }}
+        
+        {{ if .NextInSection }}
+        <a href="{{ .NextInSection.Permalink }}" class="group no-underline text-right max-w-[40%]">
+            <span class="block text-sm uppercase tracking-wide mb-1">Next note</span>
+            <div class="group-hover:text-gray-900 line-clamp-2">{{ .NextInSection.Date.Format "January 2, 2006" }} →</div>
+        </a>
+        {{ end }}
+    </nav>
+    {{ end }}
 </article>
 {{ end }}
