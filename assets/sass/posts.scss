@@ -1,3 +1,7 @@
 .outofdate-warning {
-  @apply mt-3 border-2 border-dashed p-3 text-base bg-gray-100 shadow-sm rounded-sm;
+  @apply mt-3 border-2 border-dashed p-3 text-base bg-gray-100 shadow-sm rounded-sm
+    text-gray-800  /* Ensure good contrast */
+    sm:p-4        /* More padding on larger screens */
+    sm:text-lg    /* Larger text on larger screens */
+    dark:bg-gray-800 dark:text-gray-200; /* Dark mode support */
 }
