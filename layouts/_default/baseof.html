@@ -1,32 +1,43 @@
 {{/* layouts/_default/baseof.html */}}
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode | default "en" }}">
+<html lang="{{ .Site.LanguageCode | default "en" }}" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
-    <meta name="description" content="{{ .Site.Params.description }}">
+    
+    {{/* Meta */}}
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+    
+    {{/* RSS */}}
     <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">
+    
     {{- partial "head/css.html" . -}}
 </head>
-<body class="mx-auto max-w-2xl px-6 text-gray-900 antialiased leading-relaxed">
-    <header class="py-12">
-        <nav class="flex flex-col sm:flex-row items-start sm:items-center gap-6">
-            <a href="/" class="text-2xl no-underline">{{ .Site.Title }}</a>
-            <div class="flex gap-6 text-base text-gray-600">
-                {{ range .Site.Menus.main }}
-                <a href="{{ .URL }}" class="no-underline hover:text-gray-900">{{ .Name }}</a>
-                {{ end }}
+<body class="mx-auto max-w-3xl px-6 text-gray-900 text-lg leading-relaxed antialiased">
+    <header class="py-16">
+        <nav class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-8">
+            <a href="/" class="text-3xl no-underline hover:text-gray-600 transition-colors">{{ .Site.Title }}</a>
+            <div class="flex flex-wrap gap-8 text-lg text-gray-600">
+                <a href="/posts" class="no-underline hover:text-gray-900">Writing</a>
+                <a href="/notes" class="no-underline hover:text-gray-900">Notes</a>
+                <a href="/links" class="no-underline hover:text-gray-900">Links</a>
+                <a href="/now" class="no-underline hover:text-gray-900">Now</a>
             </div>
         </nav>
     </header>
 
-    <main class="mb-12">
+    <main class="mb-16">
         {{ block "main" . }}{{ end }}
     </main>
 
-    <footer class="border-t border-gray-200 mt-20 py-12 text-center text-sm text-gray-600">
-        <p>{{ .Site.Params.description }}</p>
+    <footer class="border-t border-gray-100 mt-24 py-16 text-center text-lg text-gray-600">
+        <p class="mb-6">{{ .Site.Params.description }}</p>
+        <p>
+            <a href="/about" class="no-underline hover:text-gray-900">About</a> ·
+            <a href="/feed.xml" class="no-underline hover:text-gray-900">RSS</a>
+        </p>
     </footer>
 </body>
 </html>

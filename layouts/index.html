@@ -1,90 +1,82 @@
+{{/* layouts/index.html */}}
 {{ define "main" }}
-<div class="article-body">
+<div>
+    <!-- Introduction/Bio -->
+    {{ with .Content }}
+    <div class="prose prose-neutral max-w-none mb-20">
+        {{ . }}
+    </div>
+    {{ end }}
 
-        <article class="content">{{ .Content }}</article>
-
-    <!-- Notes Section -->
-    <section class="mb-8">
-        <h2 class="text-2xl font-bold mb-6">Latest Notes</h2>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-            {{ range first 3 (where .Site.RegularPages "Section" "notes") }}
-            <article class="bg-white rounded-lg shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-                {{ with .Resources.ByType "image" }}
-                    {{ with (index . 0) }}
-                    {{ $image := .Fill "300x200 webp Smart" }}
-                    <div class="aspect-w-16 aspect-h-9 bg-gray-100 border border-blue-700">
-                        <img src="{{ $image.RelPermalink }}" 
-                             alt="{{ .Title }}" 
-                             width="{{ $image.Width }}"
-                             height="{{ $image.Height }}"
-                             class="object-cover w-full h-48"
-                             loading="lazy">
-                    </div>
-                    {{ end }}
-                {{ end }}
-                <div class="p-4 bg-white">
-                    <div class=" text-gray-600 text-sm">
-                        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
-                    </div>
-                    <div class="content">
-                        {{ .Content }}
-                    </div>
-                    <a href="{{ .Permalink }}" 
-                       class="mt-2 text-gray-400 hover:text-blue-600 text-sm opacity-0 group-hover:opacity-100 transition-opacity">
-                       #
-                    </a>
+    <!-- Latest Posts -->
+    <section class="mb-20">
+        <h2 class="text-2xl mb-10">Recent Writing</h2>
+        <div class="space-y-6">
+            {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+            <article>
+                <div class="flex justify-between items-baseline gap-4">
+                    <h3 class="text-lg">
+                        <a href="{{ .Permalink }}" class="no-underline hover:underline">{{ .Title }}</a>
+                    </h3>
+                    <time class="text-gray-600 shrink-0" datetime="{{ .Date.Format "2006-01-02" }}">
+                        {{ .Date.Format "Jan 02, 2006" }}
+                    </time>
                 </div>
             </article>
             {{ end }}
         </div>
-        <div class="mt-4 text-right">
-            <a href="/notes" class="text-blue-600 hover:text-blue-800 text-sm">View all notes</a>
+        <div class="mt-8">
+            <a href="/posts" class="text-gray-600 hover:text-gray-900 no-underline">More writing →</a>
         </div>
     </section>
 
-    <!-- Posts Section -->
-    <section class="mb-16">
-           <div class="flex justify-between items-center mb-8">
-               <h2 class="text-2xl font-bold">Latest Posts</h2>
-               <a href="/posts" class="text-blue-600 hover:text-blue-800 text-sm">View all posts →</a>
-           </div>
-           
-           <div class="space-y-6">
-               {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
-               <article class="bg-white rounded-lg shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-                   <div class="p-6">
-                       <!-- Post Header -->
-                       <div class="md:flex-1">
-                           <h2 class="text-xl font-bold mb-2">
-                               <a href="{{ .Permalink }}" class="text-gray-900 hover:text-blue-600">{{ .Title }}</a>
-                           </h2>
-                           <div class="text-gray-600 text-sm mb-4">
-                               <time datetime="{{ .Date.Format "2006-01-02" }}">
-                                   {{ .Date.Format site.Params.dateFormat | default "January 2, 2006" }}</time>
-                               {{ with .Params.tags }}
-                               <span class="mx-2">•</span>
-                               <span>
-                                   {{ range $index, $tag := . }}
-                                   {{ if $index }}, {{ end }}
-                                   <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="hover:text-blue-600">{{ . }}</a>
-                                   {{ end }}
-                               </span>
-                               {{ end }}
-                           </div>
-                           <div class="text-gray-700 mb-4">
-                               {{ if isset .Params "description" }}{{ .Description }}{{ else }}{{ .Plain  | htmlUnescape | safeHTML | truncate 140 }}{{ end }}
-                           </div>
-                           <a href="{{ .Permalink }}" class="text-blue-600 hover:text-blue-800">Read more →</a>
-                       </div>
-                   </div>
-               </article>
-               {{ end }}
-           </div>
-           <div class="mt-8 text-center">
-               <a href="/posts" class="inline-block px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">
-                   View all posts
-               </a>
-           </div>
-       </section>
+    <!-- Latest Notes -->
+    <section>
+        <h2 class="text-2xl mb-10">Recent Notes</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
+            {{ range first 6 (where .Site.RegularPages "Section" "notes") }}
+            <article class="group">
+                <a href="{{ .Permalink }}" class="no-underline">
+                    {{ with .Resources.ByType "image" }}
+                        {{ range first 1 . }}
+                            {{ $image := .Resize "800x webp" }}
+                            <div class="aspect-[3/2] mb-4 overflow-hidden">
+                                <img 
+                                    src="{{ $image.RelPermalink }}" 
+                                    alt="{{ with .Title }}{{ . }}{{ else }}Note image{{ end }}"
+                                    class="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+                                    loading="lazy"
+                                    width="{{ $image.Width }}"
+                                    height="{{ $image.Height }}"
+                                />
+                            </div>
+                        {{ end }}
+                    {{ end }}
+                    
+                    <div class="space-y-2">
+                        <time class="text-gray-600 text-base" datetime="{{ .Date.Format "2006-01-02" }}">
+                            {{ .Date.Format "January 2, 2006" }}
+                        </time>
+
+                        <div class="prose prose-neutral max-w-none group-hover:text-gray-600">
+                            {{ .Content }}
+                        </div>
+
+                        {{ with .Params.tags }}
+                        <div class="flex flex-wrap gap-2 mt-2">
+                            {{ range . }}
+                            <span class="text-gray-600 text-base">#{{ . }}</span>
+                            {{ end }}
+                        </div>
+                        {{ end }}
+                    </div>
+                </a>
+            </article>
+            {{ end }}
+        </div>
+        <div class="mt-12">
+            <a href="/notes" class="text-gray-600 hover:text-gray-900 no-underline">More notes →</a>
+        </div>
+    </section>
 </div>
 {{ end }}

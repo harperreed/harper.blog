@@ -1,36 +1,45 @@
 {{/* layouts/_default/single.html */}}
 {{ define "main" }}
 <article class="h-entry">
-    <header class="mb-8">
-        <h1 class="text-3xl font-normal mb-2">{{ .Title }}</h1>
+    <header class="mb-16">
+        <h1 class="text-4xl font-normal mb-4">{{ .Title }}</h1>
         {{ if not .Date.IsZero }}
-        <time class="text-gray-600 text-sm" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-            {{ .Date.Format "January 2, 2006" }}
-        </time>
+        <div class="text-gray-600 text-lg">
+            <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+                {{ .Date.Format "January 2, 2006" }}
+            </time>
+            {{ with .Params.tags }}
+            <span class="mx-2">·</span>
+            <span>
+                {{ range $index, $tag := . }}
+                {{ if $index }}, {{ end }}
+                <a href="/tags/{{ . | urlize }}" class="hover:text-gray-900">#{{ . }}</a>
+                {{ end }}
+            </span>
+            {{ end }}
+        </div>
         {{ end }}
     </header>
 
     <div class="prose prose-neutral max-w-none">
         {{ .Content }}
     </div>
-
-    {{ if .Params.tags }}
-    <div class="mt-12 flex gap-2">
-        {{ range .Params.tags }}
-        <a href="/tags/{{ . | urlize }}" class="text-sm text-gray-600 hover:text-gray-900">#{{ . }}</a>
-        {{ end }}
-    </div>
-    {{ end }}
 </article>
 
 {{ if or .PrevInSection .NextInSection }}
-<nav class="mt-16 flex justify-between text-sm">
+<nav class="mt-20 flex justify-between text-lg text-gray-600">
     {{ if .PrevInSection }}
-    <a href="{{ .PrevInSection.Permalink }}" class="text-gray-600 hover:text-gray-900">← {{ .PrevInSection.Title }}</a>
+    <a href="{{ .PrevInSection.Permalink }}" class="group no-underline">
+        <span class="block text-base uppercase tracking-wide text-gray-500">Previous</span>
+        <span class="group-hover:text-gray-900">← {{ .PrevInSection.Title }}</span>
+    </a>
     {{ end }}
     
     {{ if .NextInSection }}
-    <a href="{{ .NextInSection.Permalink }}" class="text-gray-600 hover:text-gray-900">{{ .NextInSection.Title }} →</a>
+    <a href="{{ .NextInSection.Permalink }}" class="group no-underline text-right">
+        <span class="block text-base uppercase tracking-wide text-gray-500">Next</span>
+        <span class="group-hover:text-gray-900">{{ .NextInSection.Title }} →</span>
+    </a>
     {{ end }}
 </nav>
 {{ end }}

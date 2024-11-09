@@ -1,66 +1,60 @@
+{{/* layouts/notes/list.html */}}
 {{ define "main" }}
-
-  <!-- Main content -->
-  <main class="article-body">
-    <h1 class="article-title">Notes</h1>
+<div>
+    <h1 class="text-3xl font-normal mb-12">Notes</h1>
     
-    <div class="content">{{ .Content }}</div>
+    {{ $paginator := .Paginate .Pages 12 }}
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
+        {{ range $paginator.Pages }}
+        <article class="group">
+            {{ with .Resources.ByType "image" }}
+                {{ range first 1 . }}
+                    {{ $image := .Resize "800x webp" }}
+                    <div class="aspect-[3/2] mb-4 overflow-hidden">
+                        <img 
+                            src="{{ $image.RelPermalink }}" 
+                            alt="{{ with .Title }}{{ . }}{{ else }}Note image{{ end }}"
+                            class="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+                            loading="lazy"
+                            width="{{ $image.Width }}"
+                            height="{{ $image.Height }}"
+                        />
+                    </div>
+                {{ end }}
+            {{ end }}
+            
+            <a href="{{ .Permalink }}" class="no-underline block group-hover:text-gray-600">
+                <div class="space-y-3">
+                    <time class="block text-gray-600 text-base" datetime="{{ .Date.Format "2006-01-02" }}">
+                        {{ .Date.Format "January 2, 2006" }}
+                    </time>
+                    
+                    <div class="prose prose-neutral max-w-none">
+                        {{ .Content }}
+                    </div>
 
-    <div class="space-y-24">
-      {{ $paginator := .Paginate .Pages .Site.Params.notes_pagination }}
-      {{ range $paginator.Pages }}
-      <article class="space-y-6 border my-4">
-        <div class="space-y-1">
-          <time class="text-sm text-gray-500 font-['Public_Sans',_sans-serif]">
-            {{ .Date.Format "January 2, 2006" }}
-          </time>
-          <h2 class="text-2xl font-semibold">
-            <a href="{{ .RelPermalink }}" class="hover:text-primary transition-colors">
-              {{ .Title }}
+                    {{ with .Params.tags }}
+                    <div class="flex flex-wrap gap-2 pt-2">
+                        {{ range . }}
+                        <span class="text-gray-600 text-base">#{{ . }}</span>
+                        {{ end }}
+                    </div>
+                    {{ end }}
+                </div>
             </a>
-          </h2>
-        </div>
-
-        <!-- Note Content -->
-        <div class="content">{{ .Content }}</div>
-
-        <!-- Images -->
-        {{ $imageCount := len (.Resources.ByType "image") }}
-
-        {{ with .Resources.ByType "image" }}
-        <div class="grid gap-4 {{ if eq $imageCount 1 }}grid-cols-1{{ else if eq $imageCount 2 }}grid-cols-1 sm:grid-cols-2{{ else }}grid-cols-1 md:grid-cols-3{{ end }}">
-          {{ range . }}
-          {{ $image := .Resize "800x webp" }}
-          <div class="relative aspect-[4/3] overflow-hidden rounded-lg">
-            <img
-              src="{{ $image.RelPermalink }}"
-              alt="{{ with .Title }}{{ . }}{{ else }}Image{{ end }}"
-              class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
-              loading="lazy"
-            />
-          </div>
-          {{ end }}
-        </div>
+        </article>
         {{ end }}
-
-        <!-- Tags -->
-        {{ with .Params.tags }}
-        <div class="flex gap-2">
-          {{ range . }}
-          <a
-            href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"
-            class="text-sm text-gray-500 hover:text-gray-900 font-['Public_Sans',_sans-serif]"
-          >
-            #{{ . }}
-          </a>
-          {{ end }}
-        </div>
-        {{ end }}
-      </article>
-      {{ end }}
     </div>
 
-    <!-- Pagination -->
-    {{ partial "pagination.html" . }}
-  </main>
+    {{ if gt $paginator.TotalPages 1 }}
+    <nav class="mt-20 flex justify-between text-lg text-gray-600">
+        {{ if $paginator.HasPrev }}
+        <a href="{{ $paginator.Prev.URL }}" class="hover:text-gray-900 no-underline">← Newer notes</a>
+        {{ end }}
+        {{ if $paginator.HasNext }}
+        <a href="{{ $paginator.Next.URL }}" class="hover:text-gray-900 no-underline">Older notes →</a>
+        {{ end }}
+    </nav>
+    {{ end }}
+</div>
 {{ end }}

@@ -1,42 +1,47 @@
-{{/* layouts/_default/list.html */}}
+{{/* layouts/links/list.html */}}
 {{ define "main" }}
 <div>
-    {{ if .IsHome }}
-        {{ with .Content }}
-        <div class="prose prose-neutral max-w-none mb-16">
-            {{ . }}
-        </div>
-        {{ end }}
-    {{ else }}
-        <h1 class="text-3xl font-normal mb-8">{{ .Title }}</h1>
-    {{ end }}
+    <h1 class="text-4xl font-normal mb-12">Links</h1>
 
-    {{ $paginator := .Paginate .Pages }}
-    <div class="space-y-12">
+    {{ $paginator := .Paginate .Pages 30 }}
+    {{ $currentDate := "" }}
+    
+    <div class="space-y-16">
         {{ range $paginator.Pages }}
-        <article>
-            <h2 class="mb-1 text-xl">
-                <a href="{{ .Permalink }}" class="no-underline hover:underline">{{ .Title }}</a>
-            </h2>
-            {{ if not .Date.IsZero }}
-            <time class="block text-sm text-gray-600 mb-2" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-                {{ .Date.Format "January 2, 2006" }}
-            </time>
+            {{ $postDate := .Date.Format "January 2, 2006" }}
+            {{ if ne $currentDate $postDate }}
+                {{ if ne $currentDate "" }}
+                    </div>
+                {{ end }}
+                <h2 class="text-2xl font-normal mt-16 mb-6 text-gray-600">{{ $postDate }}</h2>
+                <div class="space-y-6">
+                {{ $currentDate = $postDate }}
             {{ end }}
-            {{ with .Summary }}
-            <div class="text-gray-700">{{ . }}</div>
-            {{ end }}
-        </article>
+            
+            <article class="group">
+                <a href="{{ .Params.original_url }}" class="no-underline" target="_blank" rel="noopener noreferrer">
+                    <div class="prose prose-neutral max-w-none">
+                        {{ .Content }}
+                    </div>
+                    <div class="text-lg text-gray-500 group-hover:text-gray-700 mt-2">
+                        {{ with .Params.original_url }}
+                        {{ $url := urls.Parse . }}
+                        {{ $url.Host }}
+                        {{ end }}
+                    </div>
+                </a>
+            </article>
         {{ end }}
+        </div>
     </div>
 
     {{ if gt $paginator.TotalPages 1 }}
-    <nav class="mt-16 flex justify-between text-sm">
+    <nav class="mt-20 flex justify-between text-lg text-gray-600">
         {{ if $paginator.HasPrev }}
-        <a href="{{ $paginator.Prev.URL }}" class="text-gray-600 hover:text-gray-900">← Newer posts</a>
+        <a href="{{ $paginator.Prev.URL }}" class="hover:text-gray-900">← Newer links</a>
         {{ end }}
         {{ if $paginator.HasNext }}
-        <a href="{{ $paginator.Next.URL }}" class="text-gray-600 hover:text-gray-900">Older posts →</a>
+        <a href="{{ $paginator.Next.URL }}" class="hover:text-gray-900">Older links →</a>
         {{ end }}
     </nav>
     {{ end }}
