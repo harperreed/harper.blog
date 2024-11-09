@@ -1,10 +1,10 @@
 ---
 date: 2024-10-11 18:19:12-06:00
 draft: false
-note_id: 99
+note_id: 117
 original_url: https://harper.micro.blog/2024/10/11/i-need-your.html
 sub_title: Untitled
-title: 'Note #99'
+title: 'Note #117'
 ---
 
 I need your recommendations on TV shows.
