@@ -1,18 +1,28 @@
 {{ if or .PrevInSection .NextInSection }}
-<nav aria-label="Post navigation" class="mt-8 pt-8 border-t dark:border-gray-700">
-    <div class="flex justify-between">
+<nav
+  aria-label="Post navigation"
+  class="mt-8 pt-8 border-t dark:border-gray-700"
+>
+  <div class="flex justify-between">
     {{ with .PrevInSection }}
     <div>
-        <p class="text-gray-600 dark:text-gray-400">← Previous Post</p>
-        <a href="{{ .Permalink }}" class="text-xl font-semibold text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 focus:outline-none focus:ring-2 focus:ring-blue-500 rounded">{{ .Title }}</a>
+      <p class="text-gray-600 dark:text-gray-400">← Previous Post</p>
+      <a
+        href="{{ .Permalink }}"
+        class="text-xl font-semibold text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 focus:outline-none focus:ring-2 focus:ring-blue-500 rounded"
+        >{{ .Title }}</a
+      >
     </div>
-    {{ end }}
-    {{ with .NextInSection }}
+    {{ end }} {{ with .NextInSection }}
     <div class="text-right">
-        <p class="text-gray-600 dark:text-gray-400">Next Post →</p>
-        <a href="{{ .Permalink }}" class="text-xl font-semibold text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 focus:outline-none focus:ring-2 focus:ring-blue-500 rounded">{{ .Title }}</a>
+      <p class="text-gray-600 dark:text-gray-400">Next Post →</p>
+      <a
+        href="{{ .Permalink }}"
+        class="text-xl font-semibold text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 focus:outline-none focus:ring-2 focus:ring-blue-500 rounded"
+        >{{ .Title }}</a
+      >
     </div>
     {{ end }}
-    </div>
+  </div>
 </nav>
 {{ end }}

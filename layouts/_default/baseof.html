@@ -16,28 +16,16 @@
     {{- partial "head/css.html" . -}}
 </head>
 <body class="mx-auto max-w-3xl px-6 text-gray-900 text-lg leading-relaxed antialiased">
-    <header class="py-16">
-        <nav class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-8">
-            <a href="/" class="text-3xl no-underline hover:text-gray-600 transition-colors">{{ .Site.Title }}</a>
-            <div class="flex flex-wrap gap-8 text-lg text-gray-600">
-                <a href="/posts" class="no-underline hover:text-gray-900">Writing</a>
-                <a href="/notes" class="no-underline hover:text-gray-900">Notes</a>
-                <a href="/links" class="no-underline hover:text-gray-900">Links</a>
-                <a href="/now" class="no-underline hover:text-gray-900">Now</a>
-            </div>
-        </nav>
-    </header>
+
+    {{- partial "header.html" . -}}
+    
+    <hr class="hr">
+
 
     <main class="mb-16">
         {{ block "main" . }}{{ end }}
     </main>
 
-    <footer class="border-t border-gray-100 mt-24 py-16 text-center text-lg text-gray-600">
-        <p class="mb-6">{{ .Site.Params.description }}</p>
-        <p>
-            <a href="/about" class="no-underline hover:text-gray-900">About</a> ·
-            <a href="/feed.xml" class="no-underline hover:text-gray-900">RSS</a>
-        </p>
-    </footer>
+    {{- partial "footer.html" . -}}
 </body>
 </html>

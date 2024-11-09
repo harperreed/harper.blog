@@ -5,3 +5,35 @@
     sm:text-lg    /* Larger text on larger screens */
     dark:bg-gray-800 dark:text-gray-200; /* Dark mode support */
 }
+
+/* Post list styling */
+.post-list {
+  @apply space-y-12;
+}
+
+.post-item {
+  @apply mb-8;
+}
+
+.post-link {
+  @apply text-xl text-gray-900 no-underline hover:underline;
+}
+
+/* Content styling */
+.article-title {
+  @apply text-3xl font-normal mb-2 text-gray-900;
+}
+
+.article-date {
+  @apply text-gray-600 text-sm mb-8;
+}
+
+.content {
+  @apply prose prose-sm max-w-none;
+  /* Bear Blog-like typography */
+  @apply prose-headings:font-normal prose-headings:text-gray-900;
+  @apply prose-p:text-gray-800 prose-p:leading-relaxed;
+  @apply prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline;
+  @apply prose-pre:bg-gray-50 prose-pre:border prose-pre:border-gray-200;
+  @apply prose-code:text-gray-800 prose-code:bg-gray-50 prose-code:px-1 prose-code:rounded;
+}

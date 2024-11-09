@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="article-body">
    
-    <h1 class="article-title">Posts {{ if ne .Paginator.PageNumber 1 }}<small>(Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }})</small>{{ end }}</h1>
+    <h1 class="article-title">{{.Title}} {{ if ne .Paginator.PageNumber 1 }}<small>(Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }})</small>{{ end }}</h1>
 
     {{ if eq .Paginator.PageNumber 1 }}
     <div class="content">{{ .Content }}</div>
@@ -35,16 +35,22 @@
                     <div class="text-gray-600 text-sm mb-4">
                         <time datetime="{{ .Date.Format "2006-01-02" }}">
                             {{ .Date.Format site.Params.dateFormat | default "January 2, 2006" }}</time>
-                        {{ with .Params.tags }}
                         <span class="mx-2">•</span>
+                        <span>{{ .ReadingTime }} min</span>
+                        <span class="mx-2">•</span>
+                        <span>{{ .WordCount }} words</span>
+                        <!-- {{ with .Params.tags }}
+                        <span class="mx-2">•</span>
+                        
                         <span>
                             {{ range $index, $tag := . }}
                             {{ if $index }}, {{ end }}
                             <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="hover:text-blue-600">{{ . }}</a>
                             {{ end }}
                         </span>
-                        {{ end }}
+                        {{ end }} -->
                     </div>
+
                     <div class="text-gray-700 mb-4">
                         {{ if isset .Params "description" }}{{ .Description }}{{ else }}{{ .Plain  | htmlUnescape | safeHTML | truncate 140 }}{{ end }}
                     </div>

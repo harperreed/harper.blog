@@ -3,13 +3,15 @@
 <div>
     <!-- Introduction/Bio -->
     {{ with .Content }}
-    <div class="prose prose-neutral max-w-none mb-20">
+    <div class="prose prose-neutral max-w-none mb-8">
         {{ . }}
     </div>
     {{ end }}
+    
+    <hr class="hr">
 
     <!-- Latest Posts -->
-    <section class="mb-20">
+    <section class="mb-10">
         <h2 class="text-2xl mb-10">Recent Writing</h2>
         <div class="space-y-6">
             {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
@@ -29,6 +31,8 @@
             <a href="/posts" class="text-gray-600 hover:text-gray-900 no-underline">More writing →</a>
         </div>
     </section>
+    
+    <hr class="hr">
 
     <!-- Latest Notes -->
     <section>
@@ -40,7 +44,7 @@
                     {{ with .Resources.ByType "image" }}
                         {{ range first 1 . }}
                             {{ $image := .Resize "800x webp" }}
-                            <div class="aspect-[3/2] mb-4 overflow-hidden">
+                            <div class="aspect-[3/2] mb-4 overflow-hidden rounded-md">
                                 <img 
                                     src="{{ $image.RelPermalink }}" 
                                     alt="{{ with .Title }}{{ . }}{{ else }}Note image{{ end }}"

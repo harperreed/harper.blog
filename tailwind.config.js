@@ -52,7 +52,7 @@ module.exports = {
             },
             h1: {
               fontSize: "2.25rem", // 36px
-              marginTop: "0",
+              // marginTop: "0",
             },
             h2: {
               fontSize: "1.875rem", // 30px

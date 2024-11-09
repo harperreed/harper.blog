@@ -1,16 +1,23 @@
-<header class="bg-white shadow-sm">
-  <nav class="container mx-auto px-4 py-4">
-    <div class="flex justify-between items-center">
-      <a href="{{ .Site.BaseURL }}" class="text-2xl font-bold text-gray-900"
-        >{{ .Site.Title }}</a
-      >
-      <div class="space-x-4">
-        {{ range .Site.Menus.main }}
-        <a href="{{ .URL }}" class="text-gray-600 hover:text-gray-900"
-          >{{ .Name }}</a
-        >
-        {{ end }}
-      </div>
-    </div>
+<header class="pt-4 pb-2">
+  <div class="mb-2">
+    <a
+      href="/"
+      class="text-3xl no-underline hover:text-gray-600 transition-colors"
+      >{{ .Site.Title }}</a
+    >
+  </div>
+
+  <nav
+    class="flex flex-wrap gap-x-1 sm:gap-x-2 gap-y-1 sm:gap-y-4 text-lg text-gray-600"
+  >
+    {{ $mainmenuLen := len .Site.Menus.main }} {{ range $index, $element :=
+    .Site.Menus.main }}
+
+    <a href="{{ .URL }}" class="no-underline text-blue-700 hover:text-gray-900"
+      >{{ .Name }}</a
+    >
+    {{ if ne (add $index 1) $mainmenuLen }}
+    <span class="px-0 sm:px-2">&middot;</span>
+    {{ end }} {{ end }}
   </nav>
 </header>

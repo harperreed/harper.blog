@@ -3,7 +3,9 @@
   <!-- Page Title and Description -->
   <article class="pb-4 border-b-2 mb-4">
     <h1 class="article-title" id="page-title">{{ .Page.Title }}</h1>
-    <div class="content" aria-labelledby="page-title">{{ .Content }}</div>
+    <div class="prose md:prose-lg" aria-labelledby="page-title">
+      {{ .Content }}
+    </div>
 
     <!-- Current Now -->
     {{ range first 1 .Data.Pages }}
@@ -17,21 +19,16 @@
   </article>
 
   <!-- Past Nows -->
-  <div class="bg-gray-50 rounded-lg py-4">
-    <h3 class="text-xl font-semibold mb-4">Past "nows:"</h3>
-    <ul class="space-y-2">
+  <div>
+    <h3>Past "nows:"</h3>
+    <ul>
       {{ range after 1 .Data.Pages }}
-      <li class="hover:bg-white rounded transition-colors duration-200">
+      <li>
         <a
           href="{{ .RelPermalink }}"
-          class="block py-1 text-gray-700 hover:text-blue-600"
+          class="no-underline text-blue-700 hover:text-gray-900"
         >
           {{ .Date.Format "Jan 2, 2006" }}
-          <span
-            class="text-gray-400 hover:text-blue-400 float-right"
-            aria-hidden="true"
-            >&rarr;</span
-          >
         </a>
       </li>
       {{ end }}

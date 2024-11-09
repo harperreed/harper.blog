@@ -1,21 +1,23 @@
-<footer class="bg-white py-8 border border-red-500">
-
+<footer class="py-4 border">
     <!-- Copyright -->
-    <div class="mx-4 text-center text-gray-600">
+    <div class="text-center text-gray-600">
       <p class="text-gray-600">{{ .Site.Params.description }}</p>
       <p>
-          <nobr>
-        {{ range .Site.Menus.footer }}
-        <a href="{{ .URL }}" class="text-gray-800 hover:text-gray-600 font-semibold">{{ .Name }}</a> &middot; {{ end }}
-          </nobr>
-        <nobr>Copyright &copy; {{ .Site.Params.Name }}</nobr> &middot;
-        <nobr
-          >Contact
-          <a href="mailto:{{ .Site.Params.email }}" class="text-gray-800 hover:text-gray-600 font-semibold"
-            >{{ .Site.Params.Name }}</a
-          ></nobr
-        >
-        &middot; <nobr>Generated @ {{ now.Format "Jan 2, 2006" }}</nobr>
+        <nobr>
+            {{ $footerLen := len .Site.Menus.footer }}
+            {{ range $index, $element := .Site.Menus.footer }}
+            <a href="{{ .URL }}" class="text-gray-800 hover:text-gray-600 font-semibold">{{ .Name }}</a>{{ if ne (add $index 1) $footerLen }} &middot; {{ end }}
+            {{ end }}
+        </nobr>
+      </p>
+      
+      
+      <p>
+        <nobr>Copyright &copy; <a href="mailto:{{ .Site.Params.email }}" class="text-gray-800 hover:text-gray-600 font-semibold"
+          >{{ .Site.Params.Name }}</a
+        ></nobr> &middot;
+      </p>
+      <p class="text-sm"><nobr>Generated @ {{ now.Format "Jan 2, 2006" }}</nobr></p>
       </p>
     </div>
   </div>

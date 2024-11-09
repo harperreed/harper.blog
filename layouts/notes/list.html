@@ -1,8 +1,13 @@
 {{/* layouts/notes/list.html */}}
 {{ define "main" }}
 <div>
-    <h1 class="text-3xl font-normal mb-12">Notes</h1>
+    <h1 class="article-title">{{.Title}}</h1>
+
+    {{ if eq .Paginator.PageNumber 1 }}
+    <div class="content">{{ .Content }}</div>
+    {{ end }}
     
+    <hr class="hr">
     {{ $paginator := .Paginate .Pages 20 }}
     <div class="space-y-20">
         {{ range $paginator.Pages }}
