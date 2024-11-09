@@ -10,7 +10,7 @@
             </time>
             {{ with .Params.tags }}
             <span class="mx-2">·</span>
-            <span>
+            <span></span>
                 {{ range $index, $tag := . }}
                 {{ if $index }}, {{ end }}
                 <a href="/tags/{{ . | urlize }}" class="hover:text-gray-900">#{{ . }}</a>
@@ -29,7 +29,7 @@
 {{ if or .PrevInSection .NextInSection }}
 <nav class="mt-20 flex justify-between text-lg text-gray-600">
     {{ if .PrevInSection }}
-    <a href="{{ .PrevInSection.Permalink }}" class="group no-underline">
+    <a href="{{ .PrevInSection.Permalink }}" class="group no-underline"></a>
         <span class="block text-base uppercase tracking-wide text-gray-500">Previous</span>
         <span class="group-hover:text-gray-900">← {{ .PrevInSection.Title }}</span>
     </a>

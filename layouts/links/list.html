@@ -1,61 +1,55 @@
+{{/* layouts/links/list.html */}}
 {{ define "main" }}
-<div class="article-body">
-  <h1 class="article-title">Links</h1>
+<div>
+    <h1 class="text-3xl font-normal mb-12">Links</h1>
 
-  <div class="content">{{ .Content }}</div>
+    {{ $paginator := .Paginate .Pages 50 }}
+    {{ $prevDate := "" }}
+    
+    <div class="space-y-24">
+        {{ range $paginator.Pages }}
+            {{ $currentDate := .Date.Format "Monday, January 2, 2006" }}
+            
+            {{ if ne $currentDate $prevDate }}
+                {{ if ne $prevDate "" }}
+                    </div> <!-- Close previous links group -->
+                {{ end }}
+                
+                <section>
+                    <h2 class="text-2xl mb-8">{{ $currentDate }}</h2>
+                    <div class="space-y-6">
+                {{ $prevDate = $currentDate }}
+            {{ end }}
+            
+            <article class="group">
+                <a href="{{ .Params.original_url }}" 
+                   class="block no-underline group-hover:text-gray-600" 
+                   target="_blank" 
+                   rel="noopener noreferrer">
+                    <div class="prose prose-lg prose-neutral max-w-none">
+                        {{ .Content }}
+                        <span class="text-base text-gray-600 group-hover:text-gray-900">
+                            {{ with .Params.original_url }}
+                            {{ $url := urls.Parse . }}
+                            ({{ $url.Host }})
+                            {{ end }}
+                        </span>
+                    </div>
+                </a>
+            </article>
+        {{ end }}
+        </div> <!-- Close last links group -->
+    </div>
 
-  <!-- Links Stream -->
-  <div class="space-y-6">
-    {{ $paginator := .Paginate .Data.Pages .Site.Params.links_pagination }} {{
-    $.Scratch.Set "currentDate" "" }} {{ $.Scratch.Set "currentDayLinks" slice
-    }} {{ range $index, $page := $paginator.Pages }} {{ if (not (in
-    $.Site.Params.excludedTypes .Type)) }} {{ $postDate := .Date.Format
-    "2006-01-02" }} {{ $currentDate := $.Scratch.Get "currentDate" }} {{
-    $isLastPage := eq (add $index 1) (len $paginator.Pages) }} {{ if or (ne
-    $postDate $currentDate) $isLastPage }} {{ if ne $currentDate "" }} {{
-    $dayLinks := $.Scratch.Get "currentDayLinks" }}
-    <article class="pb-4 border-b-2 my-6">
-      <!-- Date Header -->
-      <div class="flex items-baseline mb-2">
-        <h2 class="text-xl">
-          🔗 Links for {{ dateFormat "Monday, January 2, 2006" (time
-          $currentDate) }}
-        </h2>
-      </div>
-
-      <!-- Links List -->
-      <div class="border-t border-gray-100 pt-4">
-        <ul class="space-y-3 list-disc">
-          {{ range $dayLinks }} {{ $url := urls.Parse .Params.original_url }}
-          <li class="group">
-            <a
-              href="{{ .Params.original_url }}"
-              target="_blank"
-              class="flex items-baseline hover:bg-gray-50 rounded transition-colors"
-            >
-              <span class="text-blue-600 group-hover:text-gray-600 flex-grow">
-                {{ .Content }}
-              </span>
-              <span
-                class="text-sm text-gray-600 group-hover:text-blue-600 ml-2"
-              >
-                ({{ $url.Hostname }})
-              </span>
-            </a>
-          </li>
-          {{ end }}
-        </ul>
-      </div>
-    </article>
-    {{ end }} {{ $.Scratch.Set "currentDate" $postDate }} {{ $.Scratch.Set
-    "currentDayLinks" slice }} {{ end }} {{ $currentDayLinks := $.Scratch.Get
-    "currentDayLinks" }} {{ $.Scratch.Set "currentDayLinks" ($currentDayLinks |
-    append .) }} {{ if $isLastPage }} {{ $lastDayLinks := $.Scratch.Get
-    "currentDayLinks" }} {{ $.Scratch.Set "currentDayLinks" $lastDayLinks }} {{
-    end }} {{ end }} {{ end }}
-  </div>
-
-  <!-- Pagination -->
-  {{ partial "pagination.html" . }}
+    {{ if gt $paginator.TotalPages 1 }}
+    <nav class="mt-20 flex justify-between text-lg text-gray-600">
+        {{ if $paginator.HasPrev }}
+        <a href="{{ $paginator.Prev.URL }}" class="hover:text-gray-900 no-underline">← Newer links</a>
+        {{ end }}
+        {{ if $paginator.HasNext }}
+        <a href="{{ $paginator.Next.URL }}" class="hover:text-gray-900 no-underline">Older links →</a>
+        {{ end }}
+    </nav>
+    {{ end }}
 </div>
 {{ end }}

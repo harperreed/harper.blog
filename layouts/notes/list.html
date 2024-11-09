@@ -3,45 +3,50 @@
 <div>
     <h1 class="text-3xl font-normal mb-12">Notes</h1>
     
-    {{ $paginator := .Paginate .Pages 12 }}
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
+    {{ $paginator := .Paginate .Pages 20 }}
+    <div class="space-y-20">
         {{ range $paginator.Pages }}
-        <article class="group">
+        <article class="group relative">
+            <time class="block text-gray-600 mb-4" datetime="{{ .Date.Format "2006-01-02" }}">
+                {{ .Date.Format "January 2, 2006" }}
+            </time>
+            
             {{ with .Resources.ByType "image" }}
-                {{ range first 1 . }}
-                    {{ $image := .Resize "800x webp" }}
-                    <div class="aspect-[3/2] mb-4 overflow-hidden">
-                        <img 
-                            src="{{ $image.RelPermalink }}" 
-                            alt="{{ with .Title }}{{ . }}{{ else }}Note image{{ end }}"
-                            class="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                            loading="lazy"
-                            width="{{ $image.Width }}"
-                            height="{{ $image.Height }}"
-                        />
-                    </div>
+            <div class="space-y-4 mb-6">
+                {{ range . }}
+                {{ $image := .Resize "1200x webp" }}
+                <figure>
+                    <img 
+                        src="{{ $image.RelPermalink }}" 
+                        alt="{{ with .Title }}{{ . }}{{ else }}Note image{{ end }}"
+                        class="w-full max-h-[70vh] object-contain bg-gray-50"
+                        loading="lazy"
+                        width="{{ $image.Width }}"
+                        height="{{ $image.Height }}"
+                    />
+                    {{ with .Title }}
+                    <figcaption class="mt-2 text-base text-gray-600 text-center">{{ . }}</figcaption>
+                    {{ end }}
+                </figure>
                 {{ end }}
+            </div>
             {{ end }}
             
-            <a href="{{ .Permalink }}" class="no-underline block group-hover:text-gray-600">
-                <div class="space-y-3">
-                    <time class="block text-gray-600 text-base" datetime="{{ .Date.Format "2006-01-02" }}">
-                        {{ .Date.Format "January 2, 2006" }}
-                    </time>
-                    
-                    <div class="prose prose-neutral max-w-none">
-                        {{ .Content }}
-                    </div>
+            <div class="space-y-4">
+                <div class="prose prose-neutral max-w-none">
+                    {{ .Content }}
+                </div>
 
-                    {{ with .Params.tags }}
-                    <div class="flex flex-wrap gap-2 pt-2">
-                        {{ range . }}
-                        <span class="text-gray-600 text-base">#{{ . }}</span>
-                        {{ end }}
-                    </div>
+                {{ with .Params.tags }}
+                <div class="flex flex-wrap gap-2">
+                    {{ range . }}
+                    <a href="/tags/{{ . | urlize }}" class="text-base text-gray-600 hover:text-gray-900 no-underline">#{{ . }}</a>
                     {{ end }}
                 </div>
-            </a>
+                {{ end }}
+            </div>
+
+            <a href="{{ .Permalink }}" class="absolute -left-8 text-gray-400 opacity-0 group-hover:opacity-100 transition-opacity" aria-label="Permalink to this note">¶</a>
         </article>
         {{ end }}
     </div>
