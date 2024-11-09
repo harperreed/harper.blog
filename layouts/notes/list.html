@@ -20,19 +20,17 @@
             <div class="space-y-4 mb-6">
                 {{ range . }}
                 {{ $image := .Resize "1200x webp" }}
-                <figure>
+
                     <img 
                         src="{{ $image.RelPermalink }}" 
                         alt="{{ with .Title }}{{ . }}{{ else }}Note image{{ end }}"
-                        class="w-full max-h-[70vh] object-contain bg-gray-50"
+                        class="max-h-[70vh] object-contain bg-gray-500"
                         loading="lazy"
                         width="{{ $image.Width }}"
                         height="{{ $image.Height }}"
                     />
-                    {{ with .Title }}
-                    <figcaption class="mt-2 text-base text-gray-600 text-center">{{ . }}</figcaption>
-                    {{ end }}
-                </figure>
+
+                  
                 {{ end }}
             </div>
             {{ end }}

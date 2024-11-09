@@ -47,7 +47,7 @@
 
   /* Simplify cards */
   .card {
-    @apply border-none shadow-none p-0 bg-transparent;
+    @apply border rounded-sm shadow-none p-0 bg-transparent;
   }
 
   .hr {
