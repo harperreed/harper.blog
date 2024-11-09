@@ -1,63 +1,37 @@
+{{/* layouts/_default/single.html */}}
 {{ define "main" }}
-<article class="article-body mx-auto" role="main">
-    <header class="mb-4 pb-2 border-b">
-        <h1 class="article-title">{{ .Title }}</h1>
-        
-        <div class="article-date">
-            {{ if and .IsPage (eq .Type "posts") }}
-            <time datetime="{{ .Date.Format "2006-01-02" }}" aria-label="Published on {{ .Date.Format "January 2, 2006" }}">
-                {{ .Date.Format "January 2, 2006" }}
-            </time>
-            {{ end }}
-
-            
-            {{ if and .IsPage (ne .Type "special") }}
-            <span class="post-meta">
-            {{ if .Site.Params.readingTime }}
-            &nbsp;<span aria-label="Reading time:">⏲️</span></span>&nbsp;{{ .ReadingTime }}&nbsp;{{ i18n "minutes" }}
-            {{ end }}
-            {{ if .Site.Params.wordCount }}
-            {{ if .Site.Params.readingTime }} <!-- Add a separator between readingTime and WordCount if readingTime is enabled -->
-            &nbsp;| &nbsp;
-            {{ end }}
-            <span aria-label="Word count:">📖</span></span>&nbsp;{{ .WordCount }}&nbsp;{{ i18n "words" }}
-            {{ end }}
-            {{ if not .Site.Params.hideAuthor }}
-            {{ if isset .Params "author" }}
-            {{ if or (.Site.Params.wordCount) (.Site.Params.readingTime)  }} <!-- Add a separator before author if either readingTime or  WordCount is enabled -->
-            &nbsp;|&nbsp;
-            {{ end }}
-            <span aria-label="Author:">🧑‍🎤</span></span>&nbsp;
-            {{ if isset .Params "authorlink" }}
-            <a href="{{ relURL .Params.authorlink }}" target="_blank" rel="noopener noreferrer">{{ .Params.author | safeHTML }}</a>
-            {{ else }}
-            {{ .Params.author | safeHTML }}
-            {{ end }}
-            {{ end }}
-            {{ end }}
-            </span>
-            {{ end }}
-            
-            
-        </div>
+<article class="h-entry">
+    <header class="mb-8">
+        <h1 class="text-3xl font-normal mb-2">{{ .Title }}</h1>
+        {{ if not .Date.IsZero }}
+        <time class="text-gray-600 text-sm" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+            {{ .Date.Format "January 2, 2006" }}
+        </time>
+        {{ end }}
     </header>
 
-    {{ partial "out_of_date.html" . }}
-    
-    <div class="content">
+    <div class="prose prose-neutral max-w-none">
         {{ .Content }}
     </div>
-    
-    {{ with .Params.tags }}
-    <nav aria-label="Post tags" class="mt-4 flex flex-wrap gap-2">
-        {{ range . }}
-        <span class="bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 px-3 py-1 rounded-full text-sm">{{ . }}</span>
-        {{ end }}
-    </nav>
-    {{ end }}
 
-    {{ if and .IsPage (ne .Type "special") }}
-    {{- partial "next-prev.html" . -}}
+    {{ if .Params.tags }}
+    <div class="mt-12 flex gap-2">
+        {{ range .Params.tags }}
+        <a href="/tags/{{ . | urlize }}" class="text-sm text-gray-600 hover:text-gray-900">#{{ . }}</a>
+        {{ end }}
+    </div>
     {{ end }}
 </article>
+
+{{ if or .PrevInSection .NextInSection }}
+<nav class="mt-16 flex justify-between text-sm">
+    {{ if .PrevInSection }}
+    <a href="{{ .PrevInSection.Permalink }}" class="text-gray-600 hover:text-gray-900">← {{ .PrevInSection.Title }}</a>
+    {{ end }}
+    
+    {{ if .NextInSection }}
+    <a href="{{ .NextInSection.Permalink }}" class="text-gray-600 hover:text-gray-900">{{ .NextInSection.Title }} →</a>
+    {{ end }}
+</nav>
+{{ end }}
 {{ end }}

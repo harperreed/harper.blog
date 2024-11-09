@@ -4,3 +4,43 @@ run = """
 #!/usr/bin/env bash
 npx repomix --style xml --output output.txt --ignore static,**/*.md,**/uv.lock,**/package-lock.json,**/.env
 """
+
+[tasks.build]
+run = "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic"
+description = "Build the static site from the contents of the 'content' directory."
+
+[tasks.clean]
+run = "hugo --cleanDestinationDir"
+description = "Clean the destination directory before building the site."
+
+[tasks.server]
+run = "hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify"
+description = "Start the local server and watch for changes during development."
+
+[tasks.update-modules]
+run = "hugo mod clean --all && hugo mod get -u ./... && hugo mod tidy"
+description = "Deploy the site to the configured remote server."
+
+[tasks.deploy]
+run = "hugo deploy"
+description = "Deploy the site to the configured remote server."
+
+[tasks.optimize]
+run = "hugo --gc --minify"
+description = "Build the site with garbage collection and minification for performance."
+
+[tasks.checklinks]
+run = "hugo --checkLinks"
+description = "Check for broken links in your site."
+
+[tasks.lint]
+run = "hugo-lint"
+description = "Lint your content files for markdown and front matter errors."
+
+[tasks.render]
+run = "hugo --renderToDisk"
+description = "Render the site to disk without any additional flags."
+
+[tasks.statistics]
+run = "hugo stats"
+description = "Generate statistics about content usage and site structure."

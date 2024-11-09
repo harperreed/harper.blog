@@ -1,33 +1,32 @@
+{{/* layouts/_default/baseof.html */}}
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode | default "en" }}">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
-
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-    <link rel="shortcut icon" href="/favicon.ico">
-    
     <meta name="description" content="{{ .Site.Params.description }}">
-    <meta name="keywords" content="{{ .Site.Params.keywords }}" />
     <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">
-    <meta name="author" content="Harper Reed <{{ .Site.Params.email }}>">
-    
-    {{ template "_internal/opengraph.html" . }}
-    {{ template "_internal/twitter_cards.html" . }}
-    
-    
-    {{- partial "head/javascript.html" . -}}
     {{- partial "head/css.html" . -}}
 </head>
-<body class="main-body">
-    {{- partial "header.html" . -}}
+<body class="mx-auto max-w-2xl px-6 text-gray-900 antialiased leading-relaxed">
+    <header class="py-12">
+        <nav class="flex flex-col sm:flex-row items-start sm:items-center gap-6">
+            <a href="/" class="text-2xl no-underline">{{ .Site.Title }}</a>
+            <div class="flex gap-6 text-base text-gray-600">
+                {{ range .Site.Menus.main }}
+                <a href="{{ .URL }}" class="no-underline hover:text-gray-900">{{ .Name }}</a>
+                {{ end }}
+            </div>
+        </nav>
+    </header>
 
-    <main class="main-container">
+    <main class="mb-12">
         {{ block "main" . }}{{ end }}
     </main>
 
-    {{- partial "footer.html" . -}}
+    <footer class="border-t border-gray-200 mt-20 py-12 text-center text-sm text-gray-600">
+        <p>{{ .Site.Params.description }}</p>
+    </footer>
 </body>
 </html>

@@ -1,48 +1,84 @@
-/* Base layer for fundamental site-wide styles */
 @layer base {
   body {
-    @apply antialiased;
+    @apply bg-white text-gray-900 leading-relaxed max-w-3xl mx-auto px-4;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+      Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   }
-}
 
-.main-body {
-  @apply min-h-screen bg-[#ff667c] text-[#000]  min-h-screen flex flex-col border border-blue-500;
-}
+  /* Simple header styling */
+  .main-header {
+    @apply py-8 mb-8 border-b border-gray-200;
+  }
 
-.main-container {
-  @apply container mx-auto px-4 py-4 sm:py-8 flex-grow;
-}
+  .site-title {
+    @apply text-2xl font-normal text-gray-900 no-underline;
+  }
 
-.article-body {
-  @apply max-w-4xl mx-auto py-2 px-0 sm:px-4 dark:bg-gray-900;
-}
+  /* Clean navigation */
+  .main-nav {
+    @apply mt-4 space-x-4 text-base;
+  }
 
-.article-title {
-  @apply text-3xl sm:text-4xl lg:text-5xl font-bold dark:text-white mb-6;
-  /* Add this if using h1 element */
-  @apply leading-tight tracking-tight;
-}
+  .nav-link {
+    @apply text-gray-600 hover:text-gray-900 no-underline;
+  }
 
-.article-date {
-  @apply text-gray-600 dark:text-gray-300;
-}
+  /* Content styling */
+  .article-title {
+    @apply text-3xl font-normal mb-2 text-gray-900;
+  }
 
-.content {
-  @apply prose lg:prose-xl dark:prose-invert max-w-none print:prose-sm print:max-w-none;
-}
+  .article-date {
+    @apply text-gray-600 text-sm mb-8;
+  }
 
-.outofdate-warning {
-  @apply mt-3 border border-dashed p-3 text-base bg-gray-100;
-}
+  .content {
+    @apply prose prose-sm max-w-none;
+    /* Bear Blog-like typography */
+    @apply prose-headings:font-normal prose-headings:text-gray-900;
+    @apply prose-p:text-gray-800 prose-p:leading-relaxed;
+    @apply prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline;
+    @apply prose-pre:bg-gray-50 prose-pre:border prose-pre:border-gray-200;
+    @apply prose-code:text-gray-800 prose-code:bg-gray-50 prose-code:px-1 prose-code:rounded;
+  }
 
-figure {
-  @apply text-center;
-}
+  /* Simple footer */
+  .main-footer {
+    @apply mt-16 py-8 border-t border-gray-200 text-center text-gray-600 text-sm;
+  }
 
-figure img {
-  @apply rounded-sm shadow-sm;
-}
+  /* Post list styling */
+  .post-list {
+    @apply space-y-12;
+  }
 
-figcaption {
-  @apply text-sm text-gray-300 dark:text-gray-400;
+  .post-item {
+    @apply mb-8;
+  }
+
+  .post-link {
+    @apply text-xl text-gray-900 no-underline hover:underline;
+  }
+
+  /* Remove shadows and complex styling */
+  .shadow-sm,
+  .shadow-md,
+  .hover\:shadow-md {
+    @apply shadow-none;
+  }
+
+  /* Simplify buttons */
+  .button {
+    @apply px-4 py-2 border border-gray-300 text-gray-700 rounded hover:bg-gray-50 transition-colors;
+  }
+
+  /* Clean pagination */
+  .pagination {
+    @apply mt-12 flex justify-between items-center text-gray-600;
+  }
+
+  /* Simplify cards */
+  .card {
+    @apply border-none shadow-none p-0 bg-transparent;
+  }
 }

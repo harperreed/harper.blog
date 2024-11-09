@@ -1,32 +1,44 @@
+{{/* layouts/_default/list.html */}}
 {{ define "main" }}
-<div class="article-body">
-    <h1 class="article-title">{{ .Title }}</h1>
-    <div class="space-y-8">
-        {{ if .Pages }}
-        {{ range .Pages }}
-        {{ else }}
-        <div class="text-gray-600 text-center py-8">
-            <p>No pages found.</p>
+<div>
+    {{ if .IsHome }}
+        {{ with .Content }}
+        <div class="prose prose-neutral max-w-none mb-16">
+            {{ . }}
         </div>
         {{ end }}
-        {{ template "_internal/pagination.html" . }}
-        <article class="bg-white p-6 rounded-lg shadow-sm hover:shadow-md transition-shadow">
-            <h2 class="article-title">
-                <a href="{{ .Permalink }}" class="text-gray-900 hover:text-blue-600">{{ .Title }}</a>
+    {{ else }}
+        <h1 class="text-3xl font-normal mb-8">{{ .Title }}</h1>
+    {{ end }}
+
+    {{ $paginator := .Paginate .Pages }}
+    <div class="space-y-12">
+        {{ range $paginator.Pages }}
+        <article>
+            <h2 class="mb-1 text-xl">
+                <a href="{{ .Permalink }}" class="no-underline hover:underline">{{ .Title }}</a>
             </h2>
-            <div class="text-gray-600 text-sm mb-4" role="contentinfo">
-                <time datetime="{{ .Date.Format "2006-01-02" }}" aria-label="Published on {{ .Date.Format "January 2, 2006" }}">
-                    {{ .Date.Format "January 2, 2006" }}
-                </time>
-            </div>
-            {{ with .Summary }}
-            <div class="text-gray-700 mb-4">{{ . }}</div>
+            {{ if not .Date.IsZero }}
+            <time class="block text-sm text-gray-600 mb-2" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+                {{ .Date.Format "January 2, 2006" }}
+            </time>
             {{ end }}
-            <a href="{{ .Permalink }}" class="text-blue-600 hover:text-blue-800" aria-label="Read more about {{ .Title }}">
-                Read more <span class="sr-only">about {{ .Title }}</span> →
-            </a>
+            {{ with .Summary }}
+            <div class="text-gray-700">{{ . }}</div>
+            {{ end }}
         </article>
         {{ end }}
     </div>
+
+    {{ if gt $paginator.TotalPages 1 }}
+    <nav class="mt-16 flex justify-between text-sm">
+        {{ if $paginator.HasPrev }}
+        <a href="{{ $paginator.Prev.URL }}" class="text-gray-600 hover:text-gray-900">← Newer posts</a>
+        {{ end }}
+        {{ if $paginator.HasNext }}
+        <a href="{{ $paginator.Next.URL }}" class="text-gray-600 hover:text-gray-900">Older posts →</a>
+        {{ end }}
+    </nav>
+    {{ end }}
 </div>
 {{ end }}
