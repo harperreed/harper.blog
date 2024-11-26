@@ -1,6 +1,11 @@
 ---
-date: 2006-04-11T13:46:46Z
-tags: ["general"]
+date: 2006-04-11 13:46:46+00:00
+tags:
+- symbian
+- mobile-apps
+- nokia
+- software-list
+- technology
 title: S60 3rd edition app list
 wordpress_id: 1244
 wordpress_url: http://www.nata2.org/s60-3rd-edition-app-list/

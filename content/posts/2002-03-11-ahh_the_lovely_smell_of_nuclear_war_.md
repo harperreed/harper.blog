@@ -1,9 +1,14 @@
 ---
-date: 2002-03-11T03:38:00Z
+date: 2002-03-11 03:38:00+00:00
 excerpt: I love going to the internet and seeing a fresh brew of fear waiting for
   me on the other side. It is quite disconcerting. Check out this and this. as well
   as this ...
-tags: ["internet","war","fear","school"]
+tags:
+- nuclear-war
+- fear
+- politics
+- international-relations
+- cold-war
 title: ahh the lovely smell of nuclear war.
 wordpress_id: 227
 wordpress_url: http://new.nata2.org/?p=227

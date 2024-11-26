@@ -1,6 +1,11 @@
 ---
-date: 2007-12-20T13:00:41Z
-tags: ["general","travel-japan"]
+date: 2007-12-20 13:00:41+00:00
+tags:
+- japan
+- family-travel
+- new-years
+- tokyo
+- cultural-experience
 title: Going to Japan!
 wordpress_id: 1501
 wordpress_url: http://www.nata2.org/2007/12/20/going-to-japan-2/

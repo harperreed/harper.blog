@@ -1,6 +1,10 @@
 ---
-date: 2006-10-15T17:25:16Z
-tags: ["general","fun","firefox","mozilla","easter-eggs","opensource","ghostbusters"]
+date: 2006-10-15 17:25:16+00:00
+tags:
+- ghostbusters
+- firefox
+- easter-eggs
+- opensource
 title: A fun Ghostbusters easter egg in FireFox/Mozilla
 wordpress_id: 1367
 wordpress_url: http://www.nata2.org/2006/10/15/a-fun-ghostbusters-reference-in-firefoxmozilla/

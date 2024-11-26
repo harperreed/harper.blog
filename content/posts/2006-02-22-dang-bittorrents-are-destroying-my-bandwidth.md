@@ -1,6 +1,11 @@
 ---
-date: 2006-02-22T00:56:13Z
-tags: ["general","hiromi","ramble","add","tv","apartment","roommate"]
+date: 2006-02-22 00:56:13+00:00
+tags:
+- bandwidth
+- add
+- productivity
+- tv
+- loneliness
 title: DANG. Bittorrents are destroying my bandwidth.
 wordpress_id: 1216
 wordpress_url: http://www.nata2.org/2006/02/22/dang-bittorrents-are-destroying-my-bandwidth/

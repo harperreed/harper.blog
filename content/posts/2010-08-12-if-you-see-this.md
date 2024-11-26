@@ -1,7 +1,11 @@
 ---
 author: harper
-date: 2010-08-12T00:00:00Z
-tags: ["general","test","post"]
+date: 2010-08-12 00:00:00+00:00
+tags:
+- blogging
+- jekyll
+- hosting
+- content-management
 title: If you see this, this blog is hosted on app engine
 ---
 

@@ -1,6 +1,11 @@
 ---
-date: 2006-12-24T18:44:26Z
-tags: ["general","internet","irc","travel","plane","ana","connexion","boeing"]
+date: 2006-12-24 18:44:26+00:00
+tags:
+- technology
+- wifi
+- satellite-internet
+- aviation
+- chat
 title: Technology is pretty dope. IRC on a plane.
 wordpress_id: 1400
 wordpress_url: http://www.nata2.org/2006/12/24/technology-is-pretty-dope-irc-on-a-plane/

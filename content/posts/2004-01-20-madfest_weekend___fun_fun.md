@@ -1,11 +1,16 @@
 ---
-date: 2004-01-20T16:49:31Z
+date: 2004-01-20 16:49:31+00:00
 excerpt: so madfest ruled this weekend. I had a bunch of fun. on friday - I picked
   my mom, brother and sarah up from the airport adn picked up our rental car. the
   car happened to be the largest car I have ever driven - a ford expedition. it was
   huge. I felt like I was in a semi. heh. but we all piled in and drove to brads house
   and picked him up. we then drove to madison and went to bed. on saturday we wo...
-tags: ["juggle","mom","juggling"]
+tags:
+- family
+- madfest
+- juggling
+- yoyo
+- weekend-fun
 title: madfest weekend.. fun fun
 wordpress_id: 730
 wordpress_url: http://new.nata2.org/?p=730

@@ -1,6 +1,11 @@
 ---
-date: 2007-07-18T18:22:57Z
-tags: ["general","threadless","music","fun","secret-santa","mixtape","mixcd"]
+date: 2007-07-18 18:22:57+00:00
+tags:
+- secret-santa
+- music
+- mixtape
+- creativity
+- fun
 title: Secret Santa Mix CD Swap
 wordpress_id: 1467
 wordpress_url: http://www.nata2.org/2007/07/18/secret-santa-mix-cd-swap/

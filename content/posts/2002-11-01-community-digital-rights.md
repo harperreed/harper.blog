@@ -1,6 +1,11 @@
 ---
-date: 2002-11-01T12:11:20Z
-tags: ["general","community","awesome","drm","digital","rights"]
+date: 2002-11-01 12:11:20+00:00
+tags:
+- digital-rights
+- community-management
+- user-generated-content
+- copyright
+- moderation
 title: Community &amp; Digital Rights
 wordpress_id: 1164
 wordpress_url: http://www.nata2.org/2002/11/01/community-digital-rights/

@@ -1,6 +1,11 @@
 ---
-date: 2006-08-12T05:21:18Z
-tags: ["general","concerts","tickets","concert","shows","past","history","personal"]
+date: 2006-08-12 05:21:18+00:00
+tags:
+- concerts
+- music
+- nostalgia
+- personal-experience
+- ticket-collection
 title: Concert tickets from the past
 wordpress_id: 1320
 wordpress_url: http://www.nata2.org/2006/08/12/concert-tickets-from-the-past/

@@ -1,9 +1,17 @@
 ---
-date: 2002-07-04T06:17:28Z
-excerpt: |-
-  USA USA USA USA USA USA USA USA USA USA
-  I sit in my kitchen once again.. having just got back from a juggling show at the Prodigal Son. It was a great time. It was incredible. The audience was receptive.. the juggling went well. We didn't drop at any pivitol points.. heh. and we got contacts for more gigs. I am very interested in w...
-tags: ["war","bush","juggling"]
+date: 2002-07-04 06:17:28+00:00
+excerpt: 'USA USA USA USA USA USA USA USA USA USA
+
+  I sit in my kitchen once again.. having just got back from a juggling show at the
+  Prodigal Son. It was a great time. It was incredible. The audience was receptive..
+  the juggling went well. We didn''t drop at any pivitol points.. heh. and we got
+  contacts for more gigs. I am very interested in w...'
+tags:
+- juggling
+- war
+- entertainment
+- usa
+- terrorism
 title: Jugglers of Death
 wordpress_id: 308
 wordpress_url: http://new.nata2.org/?p=308

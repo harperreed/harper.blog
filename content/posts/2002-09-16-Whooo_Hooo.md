@@ -1,11 +1,16 @@
 ---
-date: 2002-09-16T06:26:33Z
+date: 2002-09-16 06:26:33+00:00
 excerpt: Tonight I went to see afriends fashion show. It was interesting. Quite something
   really. the first two collections were good. The models were very professional and
   the whole presentation was well thought out. The third collection was from the crisiswear,
   and I have seen it many times before.. it is ok.. not bad. .but not super appealing
   for me.. however.. my friend rachel was modeling for him so ...
-tags: ["juggle","jugglers","fashion"]
+tags:
+- fashion-show
+- fire-spinning
+- modeling
+- event-review
+- performing-arts
 title: Whooo Hooo
 wordpress_id: 356
 wordpress_url: http://new.nata2.org/?p=356

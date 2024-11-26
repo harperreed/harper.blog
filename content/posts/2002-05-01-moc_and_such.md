@@ -1,11 +1,16 @@
 ---
-date: 2002-05-01T15:27:51Z
+date: 2002-05-01 15:27:51+00:00
 excerpt: 'I have a strange hobby where I look at people peronal home pages. I really
   enjoy reading peoples blogs and learning all sorts of interesting things about them.
   heh. it is a strange voyeuristic hobby I guess, however it passes the time. I used
   to look primarily at slashdot comments. But lately I have been playing on moc, I
   recently '
-tags: ["juggle","greeley","chicago","blogs","search","women","war","sick","juggling","design","games","girls","porn"]
+tags:
+- blogs
+- online-communities
+- web-culture
+- personal-hobbies
+- voyeurism
 title: moc and such
 wordpress_id: 271
 wordpress_url: http://new.nata2.org/?p=271

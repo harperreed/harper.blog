@@ -1,7 +1,12 @@
 ---
-date: 2004-06-09T06:26:50Z
+date: 2004-06-09 06:26:50+00:00
 excerpt: Chris Holmes Legal Relief Fund
-tags: ["chris","holmes"]
+tags:
+- legal-relief
+- prison-reform
+- advocacy
+- fundraising
+- chris-holmes
 title: check it out
 wordpress_id: 879
 wordpress_url: http://new.nata2.org/?p=879

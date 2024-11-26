@@ -1,8 +1,13 @@
 ---
-date: 2003-01-16T14:45:42Z
+date: 2003-01-16 14:45:42+00:00
 excerpt: My friend Jon got an article written about him in our hometown newspaper.
   Check it out. He walked a long way. Wierd - there is appare...
-tags: ["technology","greeley","bush","business","iraq"]
+tags:
+- friendship
+- media
+- government
+- outsiders
+- technology
 title: friend jon
 wordpress_id: 433
 wordpress_url: http://new.nata2.org/?p=433

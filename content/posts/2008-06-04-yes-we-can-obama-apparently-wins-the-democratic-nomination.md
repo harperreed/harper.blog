@@ -1,6 +1,11 @@
 ---
-date: 2008-06-04T01:00:16Z
-tags: ["general","politics","obama","barack-obama","democratic","election"]
+date: 2008-06-04 01:00:16+00:00
+tags:
+- obama
+- democratic-party
+- election-2008
+- political-campaign
+- hope
 title: YES WE CAN. Obama apparently wins the democratic nomination
 wordpress_id: 1529
 wordpress_url: http://www.nata2.org/?p=1529

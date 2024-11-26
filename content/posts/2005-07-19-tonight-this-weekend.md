@@ -1,6 +1,11 @@
 ---
-date: 2005-07-19T03:19:51Z
-tags: ["general","movies","music","hiromi","clubbing","awesome","party","nightlife"]
+date: 2005-07-19 03:19:51+00:00
+tags:
+- weekend
+- planning
+- technology
+- rails-development
+- personal
 title: tonight / this weekend
 wordpress_id: 1095
 wordpress_url: http://www.nata2.org/?p=1095
@@ -16,4 +21,4 @@ This weekend was a good time. the <a href="http://www.intonationmusicfest.com/">
 
 speaking of which. i need to goto bed. 
 
-but first. tonight i saw Charlie and the Chocolate family. It was awesome. the best thing ever. so awesome. i loved it. 
+but first. tonight i saw Charlie and the Chocolate family. It was awesome. the best thing ever. so awesome. i loved it.

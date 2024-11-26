@@ -1,10 +1,15 @@
 ---
-date: 2001-09-11T19:14:05Z
+date: 2001-09-11 19:14:05+00:00
 excerpt: "Please check out http://www.watership.org, http://indymedia.org/ and http://slashdot.org
   for more information on the terrorist attack on the U.S. This is not good. Very
   much a bad situation. \n\nLook at what we have so far:\n\n\"We (members of the german
   army) have..."
-tags: ["reed","war","bush","watership","security","action","military"]
+tags:
+- terrorism
+- military-alert
+- us-security
+- global-conflict
+- international-relations
 title: wtf is right
 wordpress_id: 102
 wordpress_url: http://new.nata2.org/?p=102
@@ -26,4 +31,4 @@ wordpress_url: http://new.nata2.org/?p=102
 
 <p>I hope that Bush is good at being a president for the first time when he reacts to this. I imagine his flight from Florida to ?Washington DC? is really the governments chance to remove him from the scene. This is important. With the president removed, the military going to the mideast, all western European countries are mobilizing their militaries ? ready them for attack. We do not need war. We need to be accountable for our actions ? just like we ask the ?attackers? to be.
 
-<p>It is important to not jump to conclusions, I heard many a person whom I thought was open minded and not a hatemonger say racist things about Palestinians and Arabic people ALREADY. This is not acceptable. We need to be careful and not attack a people for the mistakes and attacks of someone of there ethnicity. 
+<p>It is important to not jump to conclusions, I heard many a person whom I thought was open minded and not a hatemonger say racist things about Palestinians and Arabic people ALREADY. This is not acceptable. We need to be careful and not attack a people for the mistakes and attacks of someone of there ethnicity.

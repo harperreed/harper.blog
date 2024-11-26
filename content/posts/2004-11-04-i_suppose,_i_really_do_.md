@@ -1,11 +1,16 @@
 ---
-date: 2004-11-04T03:08:09Z
+date: 2004-11-04 03:08:09+00:00
 excerpt: so basically I haven't updated this thing in about 3 years. which is a long
   time. so I am going to "update" yall as to my whereabouts. so. I got this new job.
   it is taking a lot of my time. it rules. but I am in a different paradigm than I
   was when I was at the WB. basically I am totally engaged for 8 hours. I have to
   be much more accountable and I have to really justify my actions. th...
-tags: ["job","reed","war","fear","action","metal","robots","halloween","corporate","matiss","experiment","porn","nyc","amjad","haxored"]
+tags:
+- job
+- corporate
+- personal-growth
+- politics
+- life-update
 title: i suppose, i really do.
 wordpress_id: 956
 wordpress_url: http://new.nata2.org/?p=956

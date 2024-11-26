@@ -1,10 +1,19 @@
 ---
-date: 2004-08-17T10:59:08Z
-excerpt: |-
-  Today is weird. I worked from 9 to 5 twice in 24 hours. That is a lot of work. I am totally of the school of thought that you should always pace yourself. 16 hours with a 3 hour break isn't really pacing myself. But whatever - it is the same sxhedule I sometimes have with going out and work - and I don't complain then. Heh.
+date: 2004-08-17 10:59:08+00:00
+excerpt: 'Today is weird. I worked from 9 to 5 twice in 24 hours. That is a lot of
+  work. I am totally of the school of thought that you should always pace yourself.
+  16 hours with a 3 hour break isn''t really pacing myself. But whatever - it is the
+  same sxhedule I sometimes have with going out and work - and I don''t complain then.
+  Heh.
 
-  Today I got a letter from my friend ella from taiwan. It w...
-tags: ["fear","school","taiwan","cars","ella"]
+
+  Today I got a letter from my friend ella from taiwan. It w...'
+tags:
+- work-life-balance
+- friendship
+- technology
+- stress
+- communication
 title: how soon is tomorrow
 wordpress_id: 917
 wordpress_url: http://new.nata2.org/?p=917
@@ -35,4 +44,4 @@ Today Is gunna be so weird.<br/><br/>
 I think my life is either about to come together or explode.<br/><br/>
 
 I hope either one is a big mess.<br/><br/>
-btw. it is a beautiful day out. 
+btw. it is a beautiful day out.

@@ -1,11 +1,16 @@
 ---
-date: 2003-04-16T21:13:17Z
+date: 2003-04-16 21:13:17+00:00
 excerpt: So today I went to a building that was a little over two blocks away to pick
   up a dell server(~$alot of money) that was mis-delievered to another company. heh.
   Like fed-ex "accidently" dropped it off at a completly unrelated place. wtf. and
   the best part is that the other company totally signed for it ;)hehehe.. I giggled
   the whole way. the best part was that we were totally incompentent at ...
-tags: ["harper","server","irc","friendster"]
+tags:
+- dell
+- servers
+- technology
+- delivery
+- computing
 title: Dell rules!
 wordpress_id: 489
 wordpress_url: http://new.nata2.org/?p=489

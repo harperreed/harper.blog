@@ -1,11 +1,16 @@
 ---
-date: 2003-10-16T13:17:13Z
+date: 2003-10-16 13:17:13+00:00
 excerpt: 'heh. it sucks. all of my coworkers are gong to be sad. hopefully they will
   get over it soon. stupid sports. we should have never let them breach the level
   in our lives wherre they effect our emotions.. but then if they didn''t.. what good
   would they be. I think sports prepare us for war and conflict. whatever beowulf...we
   have got to elect someone better for president in 2004. '
-tags: ["war"]
+tags:
+- sports
+- emotions
+- politics
+- work-life-balance
+- personal-reflection
 title: so the cubs lost
 wordpress_id: 645
 wordpress_url: http://new.nata2.org/?p=645

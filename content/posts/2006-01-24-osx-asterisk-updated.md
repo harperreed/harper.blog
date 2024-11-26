@@ -1,6 +1,11 @@
 ---
-date: 2006-01-24T03:56:01Z
-tags: ["technology","technology","source","osx","apple","asterisk","telephony","pbx","open"]
+date: 2006-01-24 03:56:01+00:00
+tags:
+- asterisk
+- pbx
+- osx
+- telephony
+- open-source
 title: OSX Asterisk updated
 wordpress_id: 1199
 wordpress_url: http://www.nata2.org/2006/01/24/osx-asterisk-updated/

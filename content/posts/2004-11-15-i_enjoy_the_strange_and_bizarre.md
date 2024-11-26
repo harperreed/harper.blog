@@ -1,12 +1,17 @@
 ---
-date: 2004-11-15T11:32:00Z
+date: 2004-11-15 11:32:00+00:00
 excerpt: seriously I do. my new goal (well it is the same as my old goal - but with
   a bit more randomness) is awkwardness, juxtoposition and hyperbole. so basiclaly
   my life. hah. but I am excited. for the next couple days. work is becoming ultra
   cool. I think their will be some nice changes soon. it just seems like their will
   be. like the wind is blowing change my way. I do think it is funny - I could be
   ...
-tags: ["war"]
+tags:
+- bizarre
+- awkwardness
+- change
+- fun
+- work
 title: i enjoy the strange and bizarre
 wordpress_id: 960
 wordpress_url: http://new.nata2.org/?p=960

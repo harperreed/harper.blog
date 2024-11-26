@@ -1,11 +1,16 @@
 ---
-date: 2003-11-04T15:50:35Z
+date: 2003-11-04 15:50:35+00:00
 excerpt: This weekend was insane. as you may be able to tell from the crazy blog entries.
   I was a madperson. So.. on saturday I went to quad cities juggle fest. it was a
   lot of fun. I hung out with mark and some nice jugglers from carleton college. we
   juggled a bunch. I love juggling with little kids - who are as good as I am. hah.
   at five or so I went to the theatre with mark.. and hung out with the perf...
-tags: ["cornell","juggle","jugglers","chicago","hacking","insane","college","halloween","juggling","holidays"]
+tags:
+- juggling
+- college
+- halloween
+- festivals
+- chicago
 title: ok dohkee. so i have slept
 wordpress_id: 667
 wordpress_url: http://new.nata2.org/?p=667

@@ -1,10 +1,15 @@
 ---
-date: 2004-03-11T20:38:43Z
+date: 2004-03-11 20:38:43+00:00
 excerpt: So today some terrorists in the basque region of spain blew up a bunch of
   commuter trains during rush hour. this is after the E.T.A. declared a cease fire
   on the caralina region of spain - so apparently the terrosist actions are now concentrated
   on madrid and the like. i know so little about the fran...
-tags: ["social","php","blogs","internet","sites","fear","bush","action","websites","source","aim","dad","terrorism","politic","google"]
+tags:
+- terrorism
+- spain
+- basque-conflict
+- politics
+- blogs
 title: the world.. E.T.A. etc. - nonsese
 wordpress_id: 775
 wordpress_url: http://new.nata2.org/?p=775
@@ -20,4 +25,4 @@ So today some terrorists in the basque region of spain <a href="http://www.nytim
 </small></blockquote>It is hard to view this objectively or in a form that woudl understand the political or social motivatio nfor participating and executing such an attack. I really feel that terrorism obviously has its place in the path to revolution and change - but it is difficult to agree with that stance when you see the ramifications of terrorism effecting your daily life. we all witnessed this with sept. 11th and now spain is dealing with it on a scale new to them as well. so what should a group of people do when confronted with this situation. react back? react against whom though - the "E.T.A" has not claimed responsibility - we know from oklahoma city bombing that it could easily be a small malaligned group of people who have the same political motivations as the E.T.A. but are not associated. this sucks for the E.T.A. because it blows there attempts at gaining a cease fire or some assemblence of peace. and then conversely - if it were the E.T.A. why would they be doing this a week before the spanish elections - they probably won't cause people to vote pro-basque out of fear. I suppose they coudl scare politicians into acting a certain way. but I don't know. <br/><br/>i am interested in seeing how the world reacts to these very publicized atacks in this age of "anti-terror."  is the U.S. gunna come help? - hah. is bush going to react? I wonder.
 
 <br/><br/>
-this is awesome: <a href="http://lawgeek.typepad.com/lawgeek/2004/03/steve_martins_s.html">Steve Martin's Script Notes on "The Passion"</a> haha.<br/>i need to eat. I will eat now. 
+this is awesome: <a href="http://lawgeek.typepad.com/lawgeek/2004/03/steve_martins_s.html">Steve Martin's Script Notes on "The Passion"</a> haha.<br/>i need to eat. I will eat now.

@@ -1,6 +1,11 @@
 ---
-date: 2007-08-11T20:07:00Z
-tags: ["general","internet","annoying","outage","cable-internet","comcast","comcast-sucks"]
+date: 2007-08-11 20:07:00+00:00
+tags:
+- customer-service
+- internet-provider
+- frustration
+- cable-service
+- service-outage
 title: I really hate Comcast
 wordpress_id: 1471
 wordpress_url: http://www.nata2.org/2007/08/11/i-really-hate-comcast/

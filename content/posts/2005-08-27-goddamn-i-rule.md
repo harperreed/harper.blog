@@ -1,6 +1,11 @@
 ---
-date: 2005-08-27T19:40:26Z
-tags: ["general","awesome","ruling","dork"]
+date: 2005-08-27 19:40:26+00:00
+tags:
+- confidence
+- self-affirmation
+- humor
+- internet-culture
+- friends
 title: 'goddamn i rule. '
 wordpress_id: 1121
 wordpress_url: http://www.nata2.org/2005/08/27/goddamn-i-rule/
@@ -16,4 +21,4 @@ i had no idea how much i rule until derek pointed it out to me:
 </small>
 </blockquote>
 
-Thats right... i rule. 
+Thats right... i rule.

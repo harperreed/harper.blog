@@ -1,10 +1,15 @@
 ---
-date: 2004-03-30T22:43:02Z
+date: 2004-03-30 22:43:02+00:00
 excerpt: 'i was complaining about not having a really solid way to upload images from
   my phone to my server. I was using my MMS to photolog script, which totally worked
   good. but I needed a way to get ALL of the pictures from my camera to my server
   without havign to bluetooth them and then ftp them and then move them. so I found '
-tags: ["php","phone","cell","server","nokia"]
+tags:
+- image-upload
+- photolog
+- nokia
+- php
+- mobile-photos
 title: recently on nata2
 wordpress_id: 803
 wordpress_url: http://new.nata2.org/?p=803

@@ -1,10 +1,15 @@
 ---
-date: 2004-07-29T16:25:47Z
+date: 2004-07-29 16:25:47+00:00
 excerpt: i fixed it. so you can all use it as your friends aggregator. w00t. if anyone
   wants to be added let me know. if anyone wnats to be removed - too bad ;). but yea.
   but yea. last night I purchased more "nice" clothes. I hate buying clothes that
   are not "...
-tags: ["blogs","server","source","design","google","itunes","ituneswww"]
+tags:
+- blogs
+- design
+- fashion
+- tech
+- servers
 title: blogs.nata2.org
 wordpress_id: 909
 wordpress_url: http://new.nata2.org/?p=909

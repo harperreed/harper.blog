@@ -1,6 +1,11 @@
 ---
-date: 2006-09-13T20:46:05Z
-tags: ["general","harper","family","marriage","fun","hiromi","travel","life","amazing","japan","tokyo","yamanashi","big"]
+date: 2006-09-13 20:46:05+00:00
+tags:
+- marriage
+- travel
+- bureaucracy
+- life
+- japan
 title: Marriage. TOKYO.
 wordpress_id: 1334
 wordpress_url: http://www.nata2.org/2006/09/13/marriage-tokyo/

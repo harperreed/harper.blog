@@ -1,6 +1,11 @@
 ---
-date: 2007-05-26T14:31:55Z
-tags: ["general","hacking","chumby"]
+date: 2007-05-26 14:31:55+00:00
+tags:
+- weekend
+- hacking
+- chumby
+- python
+- work-life-balance
 title: Weekend blues
 wordpress_id: 1445
 wordpress_url: http://www.nata2.org/2007/05/26/weekend-blues/

@@ -1,11 +1,16 @@
 ---
-date: 2002-07-22T15:31:04Z
+date: 2002-07-22 15:31:04+00:00
 excerpt: So anyway. this weekend was incredibly hot. like not fun hot. I was not excited.
   I can't quite remember what exactly went down this weekend. but I think we mostly
   hung out. My friend brock and amanda hung out on thursday.. friday I hung out with
   my friend sevren and some of his friends. they are so "classy." hehe. but the real
   gem(hehe) was on saturday. Some new friends of ours came over about o...
-tags: ["juggle","rock","food","birthday","movies","bush","military","sex","aim","corporate","games","matiss","girls","politic","cars"]
+tags:
+- weekend
+- friends
+- street-performance
+- food
+- games
 title: Hand in the Bush
 wordpress_id: 326
 wordpress_url: http://new.nata2.org/?p=326

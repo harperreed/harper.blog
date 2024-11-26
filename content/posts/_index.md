@@ -1,16 +1,16 @@
 ---
-title: Posts
-lastmod: "2017-12-04"
-url: /posts
-nofeed: true
 description: All posts from harper.blog
+lastmod: '2017-12-04'
 menu:
-    main:
-        name: Posts
-        weight: 4
-    footer:
-        name: Posts
-        weight: 5
+  footer:
+    name: Posts
+    weight: 5
+  main:
+    name: Posts
+    weight: 4
+nofeed: true
+title: Posts
+url: /posts
 ---
 
 I started blogging on March 1st, 2000. Since then I have had many different eras of blogging. Some with lots of blog posts, others with very few.

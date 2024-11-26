@@ -1,11 +1,16 @@
 ---
-date: 2001-09-27T11:38:35Z
+date: 2001-09-27 11:38:35+00:00
 excerpt: First, I really miss block breaks. I am horribly stuck. I wish my company
   was a more liberal dot com. I wish it was 99-2000 and I was a high profile consultant.  I
   really wish that the company I work for was interested in making the employees happy.
   WHich they seemingly arn't. It seems that profit is the key, but even when I can
   identify things which are easy and would save money - getting them ...
-tags: ["job"]
+tags:
+- workplace-culture
+- employee-satisfaction
+- job-satisfaction
+- consulting
+- company-benefits
 title: Two things
 wordpress_id: 110
 wordpress_url: http://new.nata2.org/?p=110

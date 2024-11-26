@@ -1,5 +1,11 @@
 ---
-date: 2015-09-16T00:00:00Z
+date: 2015-09-16 00:00:00+00:00
+tags:
+- books
+- future
+- inspiration
+- literature
+- critical-thinking
 title: The future as told by books
 ---
 

@@ -1,6 +1,11 @@
 ---
-date: 2004-01-07T11:01:41Z
-tags: ["general"]
+date: 2004-01-07 11:01:41+00:00
+tags:
+- bluetooth-headsets
+- jabra
+- mobile-accessories
+- technology
+- reviews
 title: Jabra bluetooth headset
 wordpress_id: 1169
 wordpress_url: http://www.nata2.org/2004/01/07/jabra-bluetooth-headset/

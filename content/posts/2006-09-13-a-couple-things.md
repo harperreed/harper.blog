@@ -1,6 +1,11 @@
 ---
-date: 2006-09-13T18:33:53Z
-tags: ["general","php","music","fun","hiromi","muse","website","rss","aggregation"]
+date: 2006-09-13 18:33:53+00:00
+tags:
+- music-video
+- website-development
+- blogging
+- aggregation
+- muse
 title: a couple things
 wordpress_id: 1343
 wordpress_url: http://www.nata2.org/2006/09/13/a-couple-things/

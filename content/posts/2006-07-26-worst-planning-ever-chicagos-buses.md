@@ -1,6 +1,11 @@
 ---
-date: 2006-07-26T04:30:00Z
-tags: ["general","chicago","design","cta","public-transportation","planning"]
+date: 2006-07-26 04:30:00+00:00
+tags:
+- public-transportation
+- chicago
+- bus-design
+- user-experience
+- transportation-planning
 title: Worst planning ever. Chicago's buses
 wordpress_id: 1313
 wordpress_url: http://www.nata2.org/2006/07/26/worst-planning-ever-chicagos-buses/

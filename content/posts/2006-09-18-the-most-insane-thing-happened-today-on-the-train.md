@@ -1,6 +1,11 @@
 ---
-date: 2006-09-18T20:09:59Z
-tags: ["general"]
+date: 2006-09-18 20:09:59+00:00
+tags:
+- public-transport
+- train-ride
+- urban-life
+- social-interaction
+- humor
 title: the most insane thing happened today on the train
 wordpress_id: 1347
 wordpress_url: http://www.nata2.org/2006/09/18/the-most-insane-thing-happened-today-on-the-train/

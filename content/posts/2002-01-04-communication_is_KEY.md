@@ -1,11 +1,16 @@
 ---
-date: 2002-01-04T01:31:11Z
+date: 2002-01-04 01:31:11+00:00
 excerpt: "Well. everythin gis better. We talked and I fessed up to my crimes. We figured
   out what and how to make things better. How to make things more healthy for the
   best of us and why it happened. It is good. I am sad however.. because she is leaving
   for school again. I will see her soon..\nhowever, now it is time for a hobby.. \nmaybe
   working out?"
-tags: ["school","health"]
+tags:
+- communication
+- mental-health
+- relationships
+- hobbies
+- self-improvement
 title: communication is KEY
 wordpress_id: 165
 wordpress_url: http://new.nata2.org/?p=165

@@ -1,6 +1,11 @@
 ---
-date: 2005-05-24T12:44:32Z
-tags: ["general","jobs"]
+date: 2005-05-24 12:44:32+00:00
+tags:
+- hackathon
+- technology
+- events
+- community
+- writing
 title: oh yea. hackathon idea
 wordpress_id: 1069
 wordpress_url: http://www.nata2.org/2005/05/24/oh-yea-hackathon-idea/
@@ -18,4 +23,4 @@ afterwards, andy and i came to the conclusion that wired magazine is maxim for d
 
 i need to figure out what is happening in my life. it suddenly feels a bit out of control. not out of control like i am drunk all the time and my friends hate me.. but out of control like i don't know what i will be doing in a month. that is weird. having ALWAYS had a job it totally makes the prospect of not having a job seem very interesting.  
 
-by the way.. i have one of the strangest lives ever. hah. 
+by the way.. i have one of the strangest lives ever. hah.

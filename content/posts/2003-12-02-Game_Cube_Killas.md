@@ -1,9 +1,14 @@
 ---
-date: 2003-12-02T22:58:36Z
+date: 2003-12-02 22:58:36+00:00
 excerpt: here is my new cell phone specs. here is the start to the mms photolog program.
   it is a bit complicated. stupid blogs ;) I will be putting all the pictures I take
   here. I love cell phones.. they a...
-tags: ["reed","phone","cell","colorado","chicago","blogs","games","apple","phones","hiromi","gamecube"]
+tags:
+- gaming
+- technology
+- cell-phones
+- photolog
+- personal-experience
 title: Game Cube Killas
 wordpress_id: 685
 wordpress_url: http://new.nata2.org/?p=685

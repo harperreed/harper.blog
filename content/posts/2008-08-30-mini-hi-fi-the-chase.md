@@ -1,6 +1,11 @@
 ---
-date: 2008-08-30T22:31:25Z
-tags: ["general","stereo","hifi","audio","t-amp","audiophile","preamp-amp"]
+date: 2008-08-30 22:31:25+00:00
+tags:
+- stereo
+- audio
+- hifi
+- sound-system
+- amplifier
 title: 'Mini Hi Fi: The Chase'
 wordpress_id: 1546
 wordpress_url: http://www.nata2.org/?p=1546

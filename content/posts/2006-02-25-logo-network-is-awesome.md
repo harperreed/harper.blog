@@ -1,6 +1,11 @@
 ---
-date: 2006-02-25T23:30:33Z
-tags: ["general","movies","logo","lesbian","grill","tnt","crap","gay"]
+date: 2006-02-25 23:30:33+00:00
+tags:
+- tv
+- documentary
+- lgbtq
+- entertainment
+- hallmark
 title: LOGO network is awesome
 wordpress_id: 1221
 wordpress_url: http://www.nata2.org/2006/02/25/logo-network-is-awesome/

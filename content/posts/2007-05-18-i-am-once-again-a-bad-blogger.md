@@ -1,6 +1,11 @@
 ---
-date: 2007-05-18T12:18:58Z
-tags: ["general","stuff","blogging","slacker"]
+date: 2007-05-18 12:18:58+00:00
+tags:
+- blogging
+- tech-talk
+- python
+- work-from-home
+- side-projects
 title: I am once again a bad blogger.
 wordpress_id: 1442
 wordpress_url: http://www.nata2.org/2007/05/18/i-am-once-again-a-bad-blogger/

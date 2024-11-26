@@ -1,6 +1,11 @@
 ---
-date: 2008-03-11T23:41:13Z
-tags: ["general","technology","travel","parties","party","friends","sxsw","startups","traveling"]
+date: 2008-03-11 23:41:13+00:00
+tags:
+- parties
+- startups
+- technology
+- travel
+- events
 title: Those parties were awesome!
 wordpress_id: 1513
 wordpress_url: http://www.nata2.org/2008/03/11/those-parties-were-awesome/

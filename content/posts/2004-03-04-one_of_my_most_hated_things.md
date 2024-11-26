@@ -1,11 +1,16 @@
 ---
-date: 2004-03-04T18:00:02Z
+date: 2004-03-04 18:00:02+00:00
 excerpt: "is when you lose a blog entry mid creation. ohhhhh. I hate that a lot. I
   had written about my night here on bald mountain and how it was a lot of fun and
   crazy. but now I am not interested in rewriting my entry.  sad day. so here is the
   summary:\r\nwork dumb\r\nwent to bar with matt\r\nbonded with matt\r\nmorgan invited
   us to hang out at watusi\r\nwas "
-tags: ["social","phone","blogs","server","war","insane","chris","birthday","humor"]
+tags:
+- blogging
+- social-life
+- humor
+- frustration
+- night-out
 title: one of my most hated things
 wordpress_id: 768
 wordpress_url: http://new.nata2.org/?p=768

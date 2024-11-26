@@ -1,6 +1,11 @@
 ---
-date: 2005-03-21T23:23:23Z
-tags: ["general"]
+date: 2005-03-21 23:23:23+00:00
+tags:
+- birthday
+- food
+- celebration
+- ethiopian-food
+- friends
 title: sleepy. my birthday was good
 wordpress_id: 1017
 wordpress_url: http://www.nata2.org/2005/03/22/sleepy-my-birthday-was-good/

@@ -1,6 +1,11 @@
 ---
-date: 2005-08-03T18:34:09Z
-tags: ["general","music","electronics","stereo","computer","hot","heat","weather"]
+date: 2005-08-03 18:34:09+00:00
+tags:
+- audio
+- equipment
+- audiophile
+- hobbies
+- repair
 title: 'damn i am tired. but i scored some speaker equipment. '
 wordpress_id: 1104
 wordpress_url: http://www.nata2.org/?p=1104
@@ -29,4 +34,4 @@ my mom is coming this weekend with my cousin. it will be fun.
 
 hot hot hot.
 
-enough. my laptop is burning my lap. 
+enough. my laptop is burning my lap.

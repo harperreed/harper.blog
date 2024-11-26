@@ -1,6 +1,11 @@
 ---
-date: 2005-11-07T19:10:16Z
-tags: ["general","sick","metal"]
+date: 2005-11-07 19:10:16+00:00
+tags:
+- gaming
+- sickness
+- metal
+- counterstrike
+- sleep-deprivation
 title: stupid sleep. i hate you!
 wordpress_id: 1148
 wordpress_url: http://www.nata2.org/2005/11/07/stupid-sleep-i-hate-you/
@@ -14,4 +19,4 @@ i am a huge fan of sludgey metal. i like my metal tough and water themed. hah.
 
 i just cracked my neck and my vision slurred. haha. 
 
-ok. i need to concentrate or i will die. 
+ok. i need to concentrate or i will die.

@@ -1,6 +1,11 @@
 ---
-date: 2006-01-06T04:15:13Z
-tags: ["general","chris","coding","hot","issak","videos","bored","television"]
+date: 2006-01-06 04:15:13+00:00
+tags:
+- coding
+- music
+- television
+- entertainment
+- lifestyle
 title: goddamn. haha. development and TV
 wordpress_id: 1157
 wordpress_url: http://www.nata2.org/2006/01/06/goddamn-haha-development-and-tv/

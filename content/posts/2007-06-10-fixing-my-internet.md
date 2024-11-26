@@ -1,6 +1,11 @@
 ---
-date: 2007-06-10T19:14:30Z
-tags: ["general"]
+date: 2007-06-10 19:14:30+00:00
+tags:
+- internet
+- comcast
+- networking
+- technology
+- frustration
 title: Fixing my internet.
 wordpress_id: 1456
 wordpress_url: http://www.nata2.org/2007/06/10/fixing-my-internet/

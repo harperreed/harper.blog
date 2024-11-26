@@ -1,6 +1,11 @@
 ---
-date: 2006-03-01T05:15:41Z
-tags: ["general","ambientagent"]
+date: 2006-03-01 05:15:41+00:00
+tags:
+- ambient-agent
+- project
+- technology
+- innovation
+- wiki
 title: My ambient agent project
 wordpress_id: 1226
 wordpress_url: http://www.nata2.org/2006/03/01/my-ambient-agent-project/

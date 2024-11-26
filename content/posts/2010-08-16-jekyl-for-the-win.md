@@ -1,5 +1,11 @@
 ---
-date: 2010-08-16T00:00:00Z
+date: 2010-08-16 00:00:00+00:00
+tags:
+- jekyll
+- app-engine
+- blogging
+- wordpress
+- static-site
 title: 'I migrated this blog to Jekyll on App Engine. So long Wordpress. '
 ---
 
