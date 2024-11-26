@@ -4,7 +4,8 @@ draft: false
 note_id: 133
 original_url: https://harper.micro.blog/2024/11/04/this-squirrel-was.html
 sub_title: Untitled
-title: 'Note #133'
+title: "Note #133"
+bsky: https://bsky.app/profile/harper.lol/post/3la5pzcjtzk2x
 ---
 
 This squirrel was mean mugging me
