@@ -1,58 +1,47 @@
-<!DOCTYPE html>
-<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}" class="theme-nature">
+<!doctype html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}" class="theme-autumn">
+    <head>
+        <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        {{- partialCached "favicon.html" . -}}
+        <title>
+            {{- block "title" . }}{{ with .Title }}{{ . }} | {{ end }}{{
+            .Site.Title }}{{- end }}
+        </title>
 
-<head>
-  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  {{- partialCached "favicon.html" . -}}
-  <title>{{- block "title" . }}{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{- end }}</title>
+        {{- partial "seo_tags.html" . -}}
+        <meta name="referrer" content="no-referrer-when-downgrade" />
 
-  {{- partial "seo_tags.html" . -}}
-  <meta name="referrer" content="no-referrer-when-downgrade" />
+        {{ $style := print (default "original" .Site.Params.themeStyle) ".css" |
+        resources.Get | minify }}
+        <link href="{{ $style.RelPermalink }}" rel="stylesheet" />
 
-  {{ $style := print (default "original" .Site.Params.themeStyle) ".css" | resources.Get | minify }}
-  <link href="{{ $style.RelPermalink }}" rel="stylesheet">
+        {{ $syntax := resources.Get "syntax.css" | minify }}
+        <link href="{{ $syntax.RelPermalink }}" rel="stylesheet" />
 
+        {{ with .Params.style }} {{ $extra := resources.Get . | minify }}
+        <link href="{{ $extra.RelPermalink }}" rel="stylesheet" />
+        {{ end }} {{ range .Site.Params.customcss -}}
+        <link rel="stylesheet" type="text/css" media="screen" href="{{ . }}" />
+        {{- end }} {{ with .OutputFormats.Get "rss" -}} {{ printf `
+        <link rel="%s" type="%s" href="%s" title="%s" />
+        ` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }} {{ end -}}
 
-  {{ $syntax := resources.Get "syntax.css" | minify }}
-  <link href="{{ $syntax.RelPermalink }}" rel="stylesheet">
-
-
-  {{ with .Params.style }}
-    {{ $extra := resources.Get . | minify }}
-    <link href="{{ $extra.RelPermalink }}" rel="stylesheet">
-  {{ end }}
-  
-  {{ range .Site.Params.customcss -}}
-    <link rel="stylesheet" type="text/css" media="screen" href="{{ . }}">
-  {{- end }}
-
-  {{ with .OutputFormats.Get "rss" -}}
-  {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
-  {{ end -}}
-
-  <!-- A partial to be overwritten by the user.
+        <!-- A partial to be overwritten by the user.
   Simply place a custom_head.html into
   your local /layouts/partials-directory -->
-  {{- partial "custom_head.html" . -}}
-</head>
+        {{- partial "custom_head.html" . -}}
+    </head>
 
-<body>
-  <header>
-    {{- partialCached "header.html" . -}}
-  </header>
-  <main id="main-content">
-    {{- block "main" . }}{{- end }}
-  </main>
-  <footer>
-    {{- partialCached "footer.html" . -}}
-  </footer>
+    <body>
+        <header>{{- partialCached "header.html" . -}}</header>
+        <main id="main-content">{{- block "main" . }}{{- end }}</main>
+        <footer>{{- partialCached "footer.html" . -}}</footer>
 
-  <!-- A partial to be overwritten by the user.
+        <!-- A partial to be overwritten by the user.
   Simply place a custom_body.html into
   your local /layouts/partials-directory -->
-  {{- partialCached "custom_body.html" . -}}
-</body>
-
+        {{- partialCached "custom_body.html" . -}}
+    </body>
 </html>
