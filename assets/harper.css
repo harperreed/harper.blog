@@ -11,28 +11,9 @@
     --color-code-bg: #222;
     --size: 1rem;
     --spacing: calc(var(--size) * 2.4);
+    --size-width: 720px;
 }
 
-
-@media (prefers-color-scheme: dark) {
-/* Dark Mode Theme */
-:root {
-    --color-dark: #fafafa;
-    --color-light: #181a20;
-    --color-primary: #e2e2e2;
-    --color-secondary: #60a5fa;
-    --color-tertiary: #2a2d37;
-    --color-link: #60a5fa;
-    --color-link-visited: #93c5fd;
-    --color-link-hover: #fafafa;
-    --color-code-fg: #181a20;
-    --color-code-bg: #e2e2e2;
-}
-
-}
-
-@media (prefers-color-scheme: dark) {
-/* Dark Mode Theme */
 .theme-dark {
     --color-dark: #fafafa;
     --color-light: #181a20;
@@ -44,8 +25,6 @@
     --color-link-hover: #fafafa;
     --color-code-fg: #181a20;
     --color-code-bg: #e2e2e2;
-}
-
 }
 
 /* Nature Theme */
@@ -189,7 +168,7 @@ body {
     font-family: Verdana, sans-serif;
     margin: auto;
     padding: 20px;
-    max-width: 720px;
+    max-width: var(--size-width);
     text-align: left;
     background-color: var(--color-light);
     word-wrap: break-word;
@@ -246,17 +225,11 @@ nav a:hover {
     color: var(--color-link-hover);
 }
 
-textarea {
-    background-color: #252525;
-    color: #ddd;
-    width: 100%;
-    font-size: 16px;
-}
-
+textarea,
 input {
-    background-color: #252525;
-    color: #ddd;
-    font-size: 16px;
+    background-color: var(--color-tertiary);
+    color: var(--color-primary);
+    font-size: 1rem;
 }
 
 content {
@@ -296,9 +269,9 @@ pre code {
 }
 
 blockquote {
-    border-left: 1px solid #999;
+    border-left: 1px solid var(--color-tertiary);
     color: var(--color-dark);
-    padding-left: 20px;
+    padding-left: var(--spacing);
     font-style: italic;
 }
 
@@ -308,8 +281,8 @@ footer {
 }
 
 .helptext {
-    color: #aaa;
-    font-size: small;
+    color: var(--color-tertiary);
+    font-size: 0.875rem;
 }
 
 .errorlist {
@@ -358,11 +331,11 @@ p.byline {
 /* "Skip to main content" link */
 .skip-link {
     position: absolute;
-    top: 5;
+    top: 5px;
     transform: translateY(-600%);
-    transition: transform 0.5s;
+    transition: transform 0.3s;
     background-color: var(--color-light);
-    padding: 6px;
+    padding: 0.5rem;
 }
 
 .skip-link:focus {
