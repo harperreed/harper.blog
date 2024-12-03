@@ -106,11 +106,15 @@ function renderComments(thread, container) {
 
     const postUrl = `https://bsky.app/profile/${thread.post.author.did}/post/${thread.post.uri.split("/").pop()}`;
 
+    const metaHR = document.createElement("hr");
+
+    container.appendChild(metaHR);
+
     const metaDiv = document.createElement("div");
     const link = document.createElement("a");
     link.href = postUrl;
     link.target = "_blank";
-    link.textContent = `${thread.post.likeCount ?? 0} likes | ${thread.post.repostCount ?? 0} reposts | ${thread.post.replyCount ?? 0} replies`;
+    link.textContent = `${thread.post.likeCount ?? 0} likes | ${thread.post.repostCount ?? 0} reposts | ${thread.post.replyCount ?? 0} replies on bluesky`;
     metaDiv.appendChild(link);
 
     container.appendChild(metaDiv);
@@ -148,6 +152,7 @@ function renderComments(thread, container) {
         noComments.textContent = "No comments available.";
         container.appendChild(noComments);
     }
+    container.appendChild(metaHR);
 }
 
 function renderComment(comment) {
