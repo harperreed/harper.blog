@@ -1,7 +1,7 @@
 [build]
 HUGO_VERSION = "0.136.4"
 publish = "public"
-command = "hugo --cleanDestinationDir --minify --templateMetrics --templateMetricsHints --gc --logLevel info"
+command = "make prod_build"
 
 [context.production.environment]
 HUGO_VERSION = "0.136.4"
@@ -10,7 +10,7 @@ HUGO_ENABLEGITINFO = "true"
 
 [context.deploy-preview]
 HUGO_VERSION = "0.136.4"
-command = "hugo --cleanDestinationDir --templateMetrics --templateMetricsHints --gc --logLevel info --buildDrafts --buildFuture -b $DEPLOY_PRIME_URL"
+command = "make getmodules; hugo --cleanDestinationDir --templateMetrics --templateMetricsHints --gc --logLevel info --buildDrafts --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.136.4"
