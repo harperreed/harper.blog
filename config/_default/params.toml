@@ -25,6 +25,7 @@ notes_pagination = 10
 themeStyle = "harper"
 links_pagination = 20
 customcss = [
+    "/css/bsky_comments.css",
     "/css/notes.css",
     "/css/outofdate.css",
     "/css/now.css",

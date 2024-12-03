@@ -7,4 +7,13 @@
         {{ i18n "email-reply" }} ↪
     </a>
 </p>
-{{ end }} {{ end }}
+{{ end }} 
+{{ end }}
+
+
+
+{{ if .Params.bsky }}
+<div id="comments-section" data-bsky-uri="{{ .Params.bsky }}"></div>
+{{ $comments := resources.Get "js/bluesky_comments.js" }}
+<script src="{{ $comments.RelPermalink }}"></script>
+{{ end }}
