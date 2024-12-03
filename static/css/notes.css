@@ -35,7 +35,7 @@
     border: none;
     padding: 10px;
     background-color: white;
-    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
+    border: 1px solid #eee;
     border-radius: 5px;
     margin: 2px; /* Fixed typo: changed 'marging' to 'margin' */
 }

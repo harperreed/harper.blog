@@ -1,51 +1,43 @@
 {{ define "main" }}
 <content>
-    <style>
-        .blog-posts .date-group {
-            margin-bottom: 2rem;
-        }
-
-        .blog-posts .date-header {
-            margin-bottom: 0.5rem;
-            color: #666;
-            border: 1px solid;
-        }
-
-        .blog-posts .posts-for-day {
-            list-style: none;
-            margin-left: 1rem;
-        }
-    </style>
-
-    {{ .Content }} {{ if .Data.Singular }}
-    <h3 class="blog-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
+    {{ .Content }} 
+    {{ if .Data.Singular }}
+    <h3 class="link-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
     {{ end }}
 
-    <ul class="blog-posts">
-        {{ $pages := .Pages }} {{ if not $pages }}
-        <li>{{ i18n "no-posts" }}</li>
-        {{ else }} {{ range .Pages.GroupByDate "2006-01-02" }} {{ range $index,
-        $page := .Pages }}
-        <li>
-            {{ if eq $index 0 }}
-            <span>
-                <i>
-                    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
-                        {{ .Date.Format (default "2006-01-02"
-                        $.Site.Params.dateFormat) }}
-                    </time>
-                </i>
-            </span>
-            {{ else }}
-            <span></span>
+    {{ $pages := .Pages }}
+    {{ if not $pages }}
+        <ul class="link-posts">
+            <li>{{ i18n "no-posts" }}</li>
+        </ul>
+    {{ else }}
+        {{ $paginator := .Paginate $pages 20 }}
+        <ul class="link-posts">
+            {{ range $paginator.Pages.GroupByDate "2006-01-02" }} 
+                {{ range $index, $page := .Pages }}
+                <li>
+                    {{ if eq $index 0 }}
+                    <span>
+                        <i>
+                            <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+                                {{ .Date.Format (default "2006-01-02" $.Site.Params.dateFormat) }}
+                            </time>
+                        </i>
+                    </span>
+                    {{ else }}
+                    <span></span>
+                    {{ end }} 
+                    {{ if .Params.original_url }}
+                    <a href="{{ .Params.original_url }}" target="_blank">{{ .Title }}</a>
+                    {{ else }}
+                    {{ .Title }}
+                    {{ end }}
+                </li>
+                {{ end }} 
             {{ end }}
+        </ul>
 
-            <a href="{{ .Params.original_url }}" target="_blank"
-                >{{ .Title }} ↪</a
-            >
-        </li>
-        {{ end }} {{ end }} {{ end }}
-    </ul>
+        {{ partial "pagination.html" . }}
+    {{ end }}
 </content>
-
 {{ end }}
