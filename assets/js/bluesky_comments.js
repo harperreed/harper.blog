@@ -1,33 +1,212 @@
-document.addEventListener("DOMContentLoaded", () => {
-    const commentsSection = document.getElementById("comments-section");
-    const bskyWebUrl = commentsSection?.getAttribute("data-bsky-uri");
+// Constants
+const API_BASE_URL = "https://public.api.bsky.app/xrpc";
+const BSKY_WEB_URL = "https://bsky.app";
+const RESOLVE_HANDLE_URL =
+    "https://bsky.social/xrpc/com.atproto.identity.resolveHandle";
 
-    if (!bskyWebUrl) return;
+// Types and validation
+class ValidationError extends Error {
+    constructor(message) {
+        super(message);
+        this.name = "ValidationError";
+    }
+}
 
-    (async () => {
-        try {
-            const atUri = await extractAtUri(bskyWebUrl);
-            console.log("Extracted AT URI:", atUri);
+// Utility functions
+const createElementWithClass = (tag, className) => {
+    const element = document.createElement(tag);
+    if (className) element.className = className;
+    return element;
+};
 
-            const thread = await getPostThread(atUri);
+const createLink = (href, text, target = "_blank") => {
+    const link = document.createElement("a");
+    link.href = href;
+    link.textContent = text;
+    link.target = target;
+    return link;
+};
 
-            if (
-                thread &&
-                thread.$type === "app.bsky.feed.defs#threadViewPost"
-            ) {
-                renderComments(thread, commentsSection);
-            } else {
-                commentsSection.textContent = "Error fetching comments.";
-            }
-        } catch (error) {
-            console.error("Error loading comments:", error);
-            commentsSection.textContent = "Error loading comments.";
+// API interaction class
+class BlueskyAPI {
+    static async resolveHandle(handle) {
+        const url = `${RESOLVE_HANDLE_URL}?handle=${encodeURIComponent(handle)}`;
+        const response = await fetch(url);
+
+        if (!response.ok) {
+            throw new ValidationError(
+                `Failed to resolve handle: ${await response.text()}`,
+            );
         }
-    })();
-});
 
-async function extractAtUri(webUrl) {
-    try {
+        const data = await response.json();
+        if (!data.did) {
+            throw new ValidationError("DID not found in response");
+        }
+
+        return data.did;
+    }
+
+    static async getPostThread(atUri) {
+        const params = new URLSearchParams({ uri: atUri });
+        const response = await fetch(
+            `${API_BASE_URL}/app.bsky.feed.getPostThread?${params.toString()}`,
+            {
+                headers: { Accept: "application/json" },
+                cache: "no-store",
+            },
+        );
+
+        if (!response.ok) {
+            throw new Error(
+                `Failed to fetch post thread: ${await response.text()}`,
+            );
+        }
+
+        const data = await response.json();
+        if (
+            !data.thread ||
+            data.thread.$type !== "app.bsky.feed.defs#threadViewPost"
+        ) {
+            throw new ValidationError("Invalid thread data received");
+        }
+
+        return data.thread;
+    }
+}
+
+// Comment renderer class
+class CommentRenderer {
+    constructor(container) {
+        this.container = container;
+    }
+
+    renderMetadata(thread) {
+        const postUrl = this.createPostUrl(thread.post);
+
+        const metaDiv = createElementWithClass("div", "bsky-meta");
+        const stats = [
+            `${thread.post.likeCount ?? 0} likes`,
+            `${thread.post.repostCount ?? 0} reposts`,
+            `${thread.post.replyCount ?? 0} replies on bluesky`,
+        ].join(" | ");
+
+        metaDiv.appendChild(createLink(postUrl, stats));
+
+        return metaDiv;
+    }
+
+    renderComment(comment) {
+        if (!this.isValidComment(comment)) {
+            console.warn("Invalid comment data:", comment);
+            return null;
+        }
+
+        const { post, replies } = comment;
+        const commentDiv = createElementWithClass("div", "bsky-comment");
+
+        // Author section
+        commentDiv.appendChild(this.renderAuthor(post.author));
+
+        // Content section
+        const content = createElementWithClass("p", "bsky-content");
+        content.textContent = post.record.text;
+        commentDiv.appendChild(content);
+
+        // Actions section
+        commentDiv.appendChild(this.renderActions(post));
+
+        // Nested replies
+        if (replies?.length > 0) {
+            const nestedReplies = createElementWithClass(
+                "div",
+                "bsky-nested-replies",
+            );
+            replies
+                .sort(this.sortByLikes.bind(this))
+                .filter((reply) => this.isValidComment(reply))
+                .forEach((reply) => {
+                    const renderedReply = this.renderComment(reply);
+                    if (renderedReply) nestedReplies.appendChild(renderedReply);
+                });
+            commentDiv.appendChild(nestedReplies);
+        }
+
+        return commentDiv;
+    }
+
+    renderAuthor(author) {
+        const authorDiv = createElementWithClass("div", "bsky-author");
+
+        if (author.avatar) {
+            const avatar = document.createElement("img");
+            avatar.src = author.avatar;
+            avatar.alt = `${author.handle}'s avatar`;
+            avatar.className = "bsky-avatar";
+            authorDiv.appendChild(avatar);
+        }
+
+        const authorLink = createLink(
+            `${BSKY_WEB_URL}/profile/${author.did}`,
+            author.displayName ?? author.handle,
+        );
+        authorDiv.appendChild(authorLink);
+
+        const handle = document.createElement("span");
+        handle.className = "bsky-handle";
+        handle.textContent = `@${author.handle}`;
+        authorDiv.appendChild(handle);
+
+        return authorDiv;
+    }
+
+    renderActions(post) {
+        const actions = createElementWithClass("div", "bsky-actions");
+        actions.textContent = [
+            `${post.replyCount ?? 0} replies`,
+            `${post.repostCount ?? 0} reposts`,
+            `${post.likeCount ?? 0} likes`,
+        ].join(" | ");
+        return actions;
+    }
+
+    createPostUrl(post) {
+        return `${BSKY_WEB_URL}/profile/${post.author.did}/post/${post.uri.split("/").pop()}`;
+    }
+
+    isValidComment(obj) {
+        return obj && obj.$type === "app.bsky.feed.defs#threadViewPost";
+    }
+
+    sortByLikes(a, b) {
+        if (!a?.post?.likeCount || !b?.post?.likeCount) return 0;
+        return b.post.likeCount - a.post.likeCount;
+    }
+}
+
+// Main widget class
+class BlueskyCommentsWidget {
+    constructor(container) {
+        this.container = container;
+        this.renderer = new CommentRenderer(container);
+    }
+
+    async initialize() {
+        const bskyWebUrl = this.container.getAttribute("data-bsky-uri");
+        if (!bskyWebUrl) {
+            throw new ValidationError("Missing data-bsky-uri attribute");
+        }
+
+        try {
+            const atUri = await this.extractAtUri(bskyWebUrl);
+            const thread = await BlueskyAPI.getPostThread(atUri);
+            await this.render(thread);
+        } catch (error) {
+            this.handleError(error);
+        }
+    }
+
+    async extractAtUri(webUrl) {
         const url = new URL(webUrl);
         const pathSegments = url.pathname.split("/").filter(Boolean);
 
@@ -36,188 +215,84 @@ async function extractAtUri(webUrl) {
             pathSegments[0] !== "profile" ||
             pathSegments[2] !== "post"
         ) {
-            throw new Error("Invalid URL format");
+            throw new ValidationError("Invalid URL format");
         }
 
         const handleOrDid = pathSegments[1];
         const postID = pathSegments[3];
-        let did = handleOrDid;
-
-        if (!did.startsWith("did:")) {
-            const resolveHandleURL = `https://bsky.social/xrpc/com.atproto.identity.resolveHandle?handle=${encodeURIComponent(
-                handleOrDid,
-            )}`;
-            const res = await fetch(resolveHandleURL);
-            if (!res.ok) {
-                const errorText = await res.text();
-                throw new Error(
-                    `Failed to resolve handle to DID: ${errorText}`,
-                );
-            }
-            const data = await res.json();
-            if (!data.did) {
-                throw new Error("DID not found in response");
-            }
-            did = data.did;
-        }
+        const did = handleOrDid.startsWith("did:")
+            ? handleOrDid
+            : await BlueskyAPI.resolveHandle(handleOrDid);
 
         return `at://${did}/app.bsky.feed.post/${postID}`;
-    } catch (error) {
-        console.error("Error extracting AT URI:", error);
-        throw error;
-    }
-}
-
-async function getPostThread(atUri) {
-    console.log("getPostThread called with atUri:", atUri);
-    const params = new URLSearchParams({ uri: atUri });
-    const apiUrl = `https://public.api.bsky.app/xrpc/app.bsky.feed.getPostThread?${params.toString()}`;
-
-    console.log("API URL:", apiUrl);
-
-    const res = await fetch(apiUrl, {
-        method: "GET",
-        headers: {
-            Accept: "application/json",
-        },
-        cache: "no-store",
-    });
-
-    if (!res.ok) {
-        const errorText = await res.text();
-        console.error("API Error:", errorText);
-        throw new Error(`Failed to fetch post thread: ${errorText}`);
     }
 
-    const data = await res.json();
+    async render(thread) {
+        this.container.innerHTML = "";
 
-    if (
-        !data.thread ||
-        data.thread.$type !== "app.bsky.feed.defs#threadViewPost"
-    ) {
-        throw new Error("Could not find thread");
-    }
+        // Add metadata
+        this.container.appendChild(document.createElement("hr"));
+        this.container.appendChild(this.renderer.renderMetadata(thread));
 
-    return data.thread;
-}
+        // Add header
+        const header = document.createElement("h2");
+        header.textContent = "Comments";
+        this.container.appendChild(header);
 
-function renderComments(thread, container) {
-    container.innerHTML = "";
+        // Add reply link
+        const replySection = document.createElement("p");
+        replySection.textContent = "Reply on Bluesky ";
+        replySection.appendChild(
+            createLink(this.createPostUrl(thread.post), "here"),
+        );
+        this.container.appendChild(replySection);
 
-    const postUrl = `https://bsky.app/profile/${thread.post.author.did}/post/${thread.post.uri.split("/").pop()}`;
+        this.container.appendChild(document.createElement("hr"));
 
-    const metaHR = document.createElement("hr");
-
-    container.appendChild(metaHR);
-
-    const metaDiv = document.createElement("div");
-    const link = document.createElement("a");
-    link.href = postUrl;
-    link.target = "_blank";
-    link.textContent = `${thread.post.likeCount ?? 0} likes | ${thread.post.repostCount ?? 0} reposts | ${thread.post.replyCount ?? 0} replies on bluesky`;
-    metaDiv.appendChild(link);
-
-    container.appendChild(metaDiv);
-
-    const commentsHeader = document.createElement("h2");
-    commentsHeader.textContent = "Comments";
-    container.appendChild(commentsHeader);
-
-    const replyText = document.createElement("p");
-    replyText.textContent = "Reply on Bluesky ";
-    const replyLink = document.createElement("a");
-    replyLink.href = postUrl;
-    replyLink.target = "_blank";
-    replyLink.textContent = "here";
-    replyText.appendChild(replyLink);
-    container.appendChild(replyText);
-
-    const divider = document.createElement("hr");
-    container.appendChild(divider);
-
-    if (thread.replies && thread.replies.length > 0) {
-        const commentsContainer = document.createElement("div");
-        commentsContainer.id = "comments-container";
-
-        const sortedReplies = thread.replies.sort(sortByLikes);
-        for (const reply of sortedReplies) {
-            if (isThreadViewPost(reply)) {
-                commentsContainer.appendChild(renderComment(reply));
-            }
+        // Render comments
+        if (thread.replies?.length > 0) {
+            const commentsContainer = createElementWithClass(
+                "div",
+                "bsky-comments-container",
+            );
+            thread.replies
+                .sort(this.renderer.sortByLikes.bind(this.renderer))
+                .filter((reply) => this.renderer.isValidComment(reply))
+                .forEach((reply) => {
+                    const renderedComment = this.renderer.renderComment(reply);
+                    if (renderedComment)
+                        commentsContainer.appendChild(renderedComment);
+                });
+            this.container.appendChild(commentsContainer);
+        } else {
+            const noComments = document.createElement("p");
+            noComments.textContent = "No comments available.";
+            this.container.appendChild(noComments);
         }
 
-        container.appendChild(commentsContainer);
-    } else {
-        const noComments = document.createElement("p");
-        noComments.textContent = "No comments available.";
-        container.appendChild(noComments);
-    }
-    container.appendChild(metaHR);
-}
-
-function renderComment(comment) {
-    const { post } = comment;
-    const { author } = post;
-
-    const commentDiv = document.createElement("div");
-    commentDiv.className = "comment";
-
-    const authorDiv = document.createElement("div");
-    authorDiv.className = "author";
-
-    if (author.avatar) {
-        const avatarImg = document.createElement("img");
-        avatarImg.src = author.avatar;
-        avatarImg.alt = "avatar";
-        avatarImg.className = "avatar";
-        authorDiv.appendChild(avatarImg);
+        this.container.appendChild(document.createElement("hr"));
     }
 
-    const authorLink = document.createElement("a");
-    authorLink.href = `https://bsky.app/profile/${author.did}`;
-    authorLink.target = "_blank";
-    authorLink.textContent = author.displayName ?? author.handle;
-    authorDiv.appendChild(authorLink);
-
-    const handleSpan = document.createElement("span");
-    handleSpan.textContent = `@${author.handle}`;
-    authorDiv.appendChild(handleSpan);
-
-    commentDiv.appendChild(authorDiv);
-
-    const contentP = document.createElement("p");
-    contentP.textContent = post.record.text;
-    commentDiv.appendChild(contentP);
-
-    const actionsDiv = document.createElement("div");
-    actionsDiv.className = "actions";
-    actionsDiv.textContent = `${post.replyCount ?? 0} replies | ${post.repostCount ?? 0} reposts | ${post.likeCount ?? 0} likes`;
-    commentDiv.appendChild(actionsDiv);
-
-    if (comment.replies && comment.replies.length > 0) {
-        const nestedRepliesDiv = document.createElement("div");
-        nestedRepliesDiv.className = "nested-replies";
-
-        const sortedReplies = comment.replies.sort(sortByLikes);
-        for (const reply of sortedReplies) {
-            if (isThreadViewPost(reply)) {
-                nestedRepliesDiv.appendChild(renderComment(reply));
-            }
-        }
-
-        commentDiv.appendChild(nestedRepliesDiv);
+    createPostUrl(post) {
+        return `${BSKY_WEB_URL}/profile/${post.author.did}/post/${post.uri.split("/").pop()}`;
     }
 
-    return commentDiv;
-}
-
-function sortByLikes(a, b) {
-    if (!isThreadViewPost(a) || !isThreadViewPost(b)) {
-        return 0;
+    handleError(error) {
+        console.error("BlueskyCommentsWidget Error:", error);
+        this.container.textContent =
+            error instanceof ValidationError
+                ? `Configuration error: ${error.message}`
+                : "Error loading comments.";
     }
-    return (b.post.likeCount ?? 0) - (a.post.likeCount ?? 0);
 }
 
-function isThreadViewPost(obj) {
-    return obj && obj.$type === "app.bsky.feed.defs#threadViewPost";
-}
+// Initialize widget
+document.addEventListener("DOMContentLoaded", () => {
+    const container = document.getElementById("comments-section");
+    if (container) {
+        const widget = new BlueskyCommentsWidget(container);
+        widget.initialize().catch((error) => {
+            console.error("Failed to initialize BlueskyCommentsWidget:", error);
+        });
+    }
+});
