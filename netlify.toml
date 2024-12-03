@@ -7,6 +7,7 @@ command = "make prod_build"
 HUGO_VERSION = "0.136.4"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
+GO_VERSION = "1.23"         # Add this line to specify a modern Go version
 
 [context.deploy-preview]
 HUGO_VERSION = "0.136.4"
@@ -14,6 +15,7 @@ command = "make getmodules; hugo --cleanDestinationDir --templateMetrics --templ
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.136.4"
+GO_VERSION = "1.23"                                                                                                                                    # Add this line to specify a modern Go version
 HUGO_ENV = "staging"
 HUGO_ENABLEGITINFO = "true"
 command = " hugo --cleanDestinationDir --templateMetrics --templateMetricsHints --gc --logLevel info --buildDrafts --buildFuture -b $DEPLOY_PRIME_URL"
