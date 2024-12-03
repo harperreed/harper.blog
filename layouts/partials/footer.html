@@ -1,0 +1,10 @@
+<p>
+    {{ range .Site.Menus.footer }}
+
+    <a href="{{ .URL }}">{{ .Name }}</a> &middot; {{ end }}
+    <nobr>Copyright &copy; {{ .Site.Params.Name }}</nobr>
+</p>
+<p>
+    <nobr>Send me an <a href="mailto:{{ .Site.Params.email }}">email</a></nobr>
+    &middot; <nobr>Generated @ {{ now.Format "Jan 2, 2006" }}</nobr>
+</p>

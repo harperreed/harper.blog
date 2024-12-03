@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+
+
+{{ if not .Params.menu }}
+<h1>{{ .Title }}</h1>
+
+{{ end }}
+<content> {{ .Content }} </content>
+<p>
+    {{ range (.GetTerms "tags") }}
+    <a class="blog-tags" href="{{ .RelPermalink }}"
+        >#{{ lower .LinkTitle }}</a
+    >
+    {{ end }}
+</p>
+
+<nav>
+    <a href="/now"><span aria-hidden="true">&larr;</span> Back to the current Now</a>
+</nav>
+
+{{ end }}
