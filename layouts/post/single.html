@@ -17,9 +17,8 @@
   
   {{ .Content }}
 </content>
-<p>
-  {{ range (.GetTerms "tags") }}
-    <a class="blog-tags" href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a>
-  {{ end }}
-</p>
+
+{{ partialCached "tags.html" . .Title}}
+
+{{ partialCached "comments.html" . .Title}}
 {{ end }}

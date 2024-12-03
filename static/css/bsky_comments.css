@@ -1,0 +1,24 @@
+.comment {
+    padding: 10px 0;
+}
+.author {
+    font-weight: bold;
+}
+.avatar {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 8px;
+}
+.nested-replies {
+    margin-left: 20px;
+    padding-left: 10px;
+}
+.actions {
+    font-size: 12px;
+    color: #666;
+}
+.nested-replies .comment {
+    margin-bottom: 0;
+}

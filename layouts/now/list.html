@@ -1,12 +1,6 @@
 {{ define "main" }}
 <content>
-    
-    {{ .Content }}
-    
-    
-    {{ range first 1 .Data.Pages }} 
-    
-    {{ if not .Params.menu }}
+    {{ .Content }} {{ range first 1 .Data.Pages }} {{ if not .Params.menu }}
     <h1>{{ .Title }}</h1>
 
     {{ end }}
@@ -23,11 +17,13 @@
 
     <hr />
 
+    <h2>Previous Nows</h2>
+
     {{ if .Data.Singular }}
     <h3 class="blog-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
     {{ end }}
     <ul class="blog-posts">
-        {{ range .Pages }}
+        {{ range after 1 .Data.Pages }}
         <li>
             <span>
                 <i>
