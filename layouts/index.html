@@ -1,6 +1,6 @@
 {{ define "main" }} {{ .Content }}
 
-<h1>Recent Posts</h1>
+<h1>{{ i18n "recentPosts" | default "Recent Posts" }}</h1>
 <ul class="blog-posts">
     {{ $notes := first 5 (where .Site.RegularPages "Section" "post") }} {{ range
     $notes }}
@@ -23,9 +23,9 @@
     <li>{{ i18n "no-posts" }}</li>
     {{ end }}
 </ul>
-<a href="/posts">More posts</a>
+<a href="/posts">{{ i18n "morePosts" | default "More Posts" }}</a>
 
-<h1>Recent notes</h1>
+<h1>{{ i18n "recentNotes" | default "Recent notes" }}</h1>
 <ul class="blog-posts">
     {{ $notes := first 3 (where .Site.RegularPages "Section" "notes") }} {{
     range $notes }}
@@ -48,6 +48,6 @@
     <li>{{ i18n "no-posts" }}</li>
     {{ end }}
 </ul>
-<a href="/notes">More notes</a>
+<a href="/notes">{{ i18n "moreNotes" | default "More Notes" }}</a>
 
 {{ end }}

@@ -7,7 +7,7 @@
     <content> {{ .Content }} </content>
     <p>
         {{ range (.GetTerms "tags") }}
-        <a class="blog-tags" href="{{ .RelPermalink }}"
+        <a class="now-tags" href="{{ .RelPermalink }}"
             >#{{ lower .LinkTitle }}</a
         >
         {{ end }}
@@ -17,12 +17,12 @@
 
     <hr />
 
-    <h2>Previous Nows</h2>
+    <h2>{{ i18n "previousNows" | default "Previous Nows" }}</h2>
 
     {{ if .Data.Singular }}
-    <h3 class="blog-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
+    <h3 class="now-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
     {{ end }}
-    <ul class="blog-posts">
+    <ul class="now-posts">
         {{ range after 1 .Data.Pages }}
         <li>
             <span>

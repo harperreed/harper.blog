@@ -1,0 +1,56 @@
+# i18n/en.yaml
+- id: prevpage
+  translation: "Previous page"
+
+- id: nextpage
+  translation: "Next page"
+
+- id: page
+  translation: "Page"
+
+- id: of
+  translation: "of"
+
+- id: nojscomments
+  translation: "Please enable JavaScript to load the comments."
+
+- id: 404title
+  translation: "HTTP-404 Error"
+
+- id: 404text
+  translation: "There is no content here."
+
+- id: minutes
+  translation: "minutes"
+
+- id: words
+  translation: "words"
+
+- id: readmore
+  translation: "Read more"
+
+- id: previousNows
+  translation: "Previous Nows"
+
+- id: generated
+  translation: "Generated"
+- id: sendMeAn
+  translation: "Send me an"
+- id: email
+  translation: "email"
+- id: "on"
+  translation: "on"
+- id: copyright
+  translation: "Copyright"
+
+- id: morePosts
+  translation: "More posts"
+
+- id: moreNotes
+  translation: "More notes"
+
+- id: recentPosts
+  translation: "Recent Posts"
+
+- id: recentNotes
+  translation: "Recent Notes"

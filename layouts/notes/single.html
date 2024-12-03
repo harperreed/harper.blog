@@ -1,8 +1,5 @@
 {{ define "main" }}
 
-NOTES
-
-
 {{ if not .Params.menu }}
 <h1>{{ .Title }}</h1>
 <p class="byline">
@@ -14,6 +11,15 @@ NOTES
 {{ end }}
 <content>
   {{ .Content }}
+  
+  {{- with .Resources.ByType "image" }}
+              <div class="note-images">
+                  {{- range . }}
+                          <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
+                  {{- end }}
+              </div>
+          {{- end }}
+          
 </content>
 <p>
   {{ range (.GetTerms "tags") }}
@@ -22,6 +28,9 @@ NOTES
 </p>
 
 {{ partialCached "tags.html" . .Title}}
-
 {{ partialCached "comments.html" . .Title}}
+
+<nav>
+    <a href="/notes">Back to the current notes</a>
+</nav>
 {{ end }}

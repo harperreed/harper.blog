@@ -2,9 +2,9 @@
     {{ range .Site.Menus.footer }}
 
     <a href="{{ .URL }}">{{ .Name }}</a> &middot; {{ end }}
-    <nobr>Copyright &copy; {{ .Site.Params.Name }}</nobr>
+    <nobr>{{ i18n "generated" | default "Generated" }} &copy; {{ .Site.Params.Name }}</nobr>
 </p>
 <p>
-    <nobr>Send me an <a href="mailto:{{ .Site.Params.email }}">email</a></nobr>
-    &middot; <nobr>Generated @ {{ now.Format "Jan 2, 2006" }}</nobr>
+    <nobr>{{ i18n "sendMeAn" | default "Send me an" }} <a href="mailto:{{ .Site.Params.email }}">{{ i18n "email" | default "email" }}</a></nobr>
+    &middot; <nobr>{{ i18n "generated" | default "Generated" }} {{ i18n "on" | default "on" }} {{ now.Format "Jan 2, 2006" }}</nobr>
 </p>
