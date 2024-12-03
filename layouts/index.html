@@ -1,0 +1,51 @@
+{{ define "main" }} {{ .Content }}
+
+<h1>Recent Posts</h1>
+<ul class="blog-posts">
+    {{ $notes := first 5 (where .Site.RegularPages "Section" "post") }} {{ range
+    $notes }}
+    <li>
+        <span>
+            <i>
+                <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+                    {{ .Date.Format (default "2006-01-02"
+                    .Site.Params.dateFormat) }}
+                </time>
+            </i>
+        </span>
+        {{ if .Params.link }}
+        <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
+        {{ else }}
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ end }}
+    </li>
+    {{ else }}
+    <li>{{ i18n "no-posts" }}</li>
+    {{ end }}
+</ul>
+
+<h1>Recent notes</h1>
+<ul class="blog-posts">
+    {{ $notes := first 3 (where .Site.RegularPages "Section" "notes") }} {{
+    range $notes }}
+    <li>
+        <span>
+            <i>
+                <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+                    {{ .Date.Format (default "2006-01-02"
+                    .Site.Params.dateFormat) }}
+                </time>
+            </i>
+        </span>
+        {{ if .Params.link }}
+        <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
+        {{ else }}
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ end }}
+    </li>
+    {{ else }}
+    <li>{{ i18n "no-posts" }}</li>
+    {{ end }}
+</ul>
+
+{{ end }}

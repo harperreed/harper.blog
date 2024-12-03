@@ -22,12 +22,13 @@ default_social_image = "https://harper.blog/images/og.png"
 social_image_gen = false
 generateSocialCard = true
 notes_pagination = 10
+themeStyle = "harper"
 links_pagination = 20
 customcss = [
-    "css/notes.css",
-    "css/outofdate.css",
-    "css/now.css",
-    "css/links.css",
+    "/css/notes.css",
+    "/css/outofdate.css",
+    "/css/now.css",
+    "/css/links.css",
 ]
 
 [author]
