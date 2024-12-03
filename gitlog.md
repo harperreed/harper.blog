@@ -1,3 +1,228 @@
+- **2024-12-03**: 🎉 Major Theme Overhaul & Internationalization Fun 🚀
+- **2024-12-03**: 🚀 Update layout links and hugo version 🚀 - Added "More posts" and "More notes" links to the layout/index.html file to enhance navigation. Now readers can dive deeper into posts and notes! 📚🔗 - Updated Hugo version from 0.111.0 to 0.136.4 in netlify.toml for better performance, stability, and features 🎉👌 - Refined build commands in netlify.toml to include template metrics and clean destination directory options, allowing for more efficient builds and better debugging 🔧🛠️
+- **2024-12-03**: 🎉 Added Bluesky comments functionality and CSS styles! 🚀
+- **2024-12-03**: 🎉 New Theme & CSS Overhaul! 🌈
+- **2024-12-03**: Added social card generation support in params.toml 🎉📊
+- **2024-12-03**: Replace hugo-vitae with hugo-bearcub and clean up files 📦✨ - Updated `module.toml` to replace `github.com/dataCobra/hugo-vitae` with `github.com/clente/hugo-bearcub`. - Adjusted `go.mod` file to reflect the new dependency and updated versions accordingly 🎉. - Removed `layout` files related to various sections such as `index.html`, `list.html`, and `single.html` for `notes`, `links`, `now`, and `post`, basically decluttering like it's spring cleaning for the codebase 🧹👍. - All layouts that were previously used are now gone, effectively giving a fresh start without any lingering references to the old styles 🚀.
+- **2024-12-03**: Auto update micro posts
+- **2024-12-03**: Auto update micro posts
+- **2024-11-29**: Auto update micro posts
+- **2024-11-29**: Auto update micro posts
+- **2024-11-29**: Auto update micro posts
+- **2024-11-28**: Auto update micro posts
+- **2024-11-27**: Auto update micro posts
+- **2024-11-27**: Auto update micro posts
+- **2024-11-27**: Auto update micro posts
+- **2024-11-26**: Auto update micro posts
+- **2024-11-26**: Added bsky links and standardized note titles 😎✨ - Added a `bsky` link to each of the note Markdown files for easy access to corresponding profiles/posts. - Changed single quotes to double quotes for all `title` attributes to maintain consistency across the notes. - Deleted two outdated note files that were no longer needed, which cleans up the codebase! 🧹💥
+- **2024-11-26**: Auto update micro posts
+- **2024-11-26**: Auto update micro posts
+- **2024-11-22**: Auto update micro posts
+- **2024-11-22**: Auto update micro posts
+- **2024-11-21**: Auto update micro posts
+- **2024-11-18**: Auto update micro posts
+- **2024-11-18**: Auto update micro posts
+- **2024-11-18**: Auto update micro posts
+- **2024-11-18**: Auto update micro posts
+- **2024-11-18**: Auto update micro posts
+- **2024-11-18**: Auto update micro posts
+- **2024-11-17**: Auto update micro posts
+- **2024-11-17**: Auto update micro posts
+- **2024-11-17**: Auto update micro posts
+- **2024-11-16**: Auto update micro posts
+- **2024-11-16**: Auto update micro posts
+- **2024-11-16**: Auto update micro posts
+- **2024-11-14**: Auto update micro posts
+- **2024-11-14**: Auto update micro posts
+- **2024-11-13**: Auto update micro posts
+- **2024-11-11**: Auto update micro posts
+- **2024-11-09**: Auto update micro posts
+- **2024-11-08**: fixed i think
+- **2024-11-08**: Update .gitignore to ignore output.txt 🗑️🚫
+- **2024-11-09**: Auto update micro posts
+- **2024-11-09**: Auto update micro posts
+- **2024-11-09**: Auto update micro posts
+- **2024-11-08**: Merge pull request #46 from harperreed/taggged-content
+- **2024-11-08**: Merge branch 'main' into taggged-content
+- **2024-11-08**: 🎉 Add html2text dependency to project! 🚀
+- **2024-11-08**: added tags
+- **2024-11-08**: Merge pull request #45 from harperreed/fix-links
+- **2024-11-08**: ✨🚀 Update metadata and remove defunct links! 🌟💥
+- **2024-11-08**: Auto update micro posts
+- **2024-11-08**: Deleted XMPP article 💔🚫 - Removed the file `20241107-xmpp-the-gem-of-instant-messaging-b04a3b.md` - This article was likely deemed unnecessary or outdated, possibly because it contradicted current messaging standards or trends. - By removing it, we’re decluttering the content repository, making it easier for users to find relevant information! 🎉📚
+- **2024-11-08**: Auto update micro posts
+- **2024-11-08**: Add concurrency control to links workflow 🚀⚙️
+- **2024-11-08**: Update GitHub Actions Workflow for Starred Links Script 🌟🔧
+- **2024-11-08**: Delete obsolete markdown files 🗑️✌️
+- **2024-11-08**: Merge pull request #44 from harperreed/updated-links-crawler
+- **2024-11-08**: Refactor imports and remove unused code 🎉🚀
+- **2024-11-08**: 🚀 Update GitHub Actions Workflow for Starred Links Script 🐙
+- **2024-11-08**: Updated `grab_starred_links.py` and added dependencies in `pyproject.toml` 🎉🛠️
+- **2024-11-08**: 🎉 Added .env file to .gitignore 🎉 - Created a new .gitignore file in the tools directory to exclude the .env file from version control. - This is crucial because it prevents sensitive environment variables from being pushed to the repo. We want to keep those secrets under wraps, you feel me? 🤫🔥
+- **2024-11-08**: 💥💨 Deleted .env file in tools directory 💨💥 - Removed the `.env` file from the `tools` directory, which contained environment variable settings for JSON feed URLs and content directories 🤷‍♂️📂. - Cleaned up unnecessary configurations since they're either not used or are being repurposed elsewhere 🤔 🔄. - This helps to reduce clutter and prevent potential confusion for developers who might be poking around looking for environment variable settings that no longer apply 🚮🔍.
+- **2024-11-08**: Auto update micro posts
+- **2024-11-08**: Auto update micro posts
+- **2024-11-08**: Auto update micro posts
+- **2024-11-07**: Reflecting on the world's chaos – book recommendations included! 📚✨ - Changed the image syntax from markdown to Hugo shortcodes for better compatibility and rendering. 🤖💻 - Maintained original content while ensuring the post aligns with the updated image handling in our site. 💪🖼️
+- **2024-11-07**: Auto update micro posts
+- **2024-11-07**: Updated dates and polished content in Now entries 🗓️✨
+- **2024-11-07**: Update dates and content in now.md files 🚀🎉
+- **2024-11-07**: Auto update micro posts
+- **2024-11-06**: Update timestamp and reflect mood shift in 2024-09-24.md 😱✨
+- **2024-11-06**: Merge pull request #43 from harperreed/new-post
+- **2024-11-06**: Update content/post/2024-11-06-again.md
+- **2024-11-06**: Updated description and added reading list context 📚✨
+- **2024-11-06**: New blog post "Again" and image added 🎉📚
+- **2024-11-06**: Add uv-x86_64-unknown-linux-gnu.tar.gz to .gitignore 🎉🦄
+- **2024-11-06**: Remove unused binary file - Deleted the `uv-x86_64-unknown-linux-gnu.tar.gz` file as it is no longer needed 🎉 - This helps keep the repository clean and reduces unnecessary bloat 🚀 - Removing unused files prevents potential confusion for developers who may mistakenly rely on it in the future 🙈💥
+- **2024-11-05**: Auto update micro posts
+- **2024-11-05**: Auto update micro posts
+- **2024-11-05**: Auto update micro posts
+- **2024-11-05**: Auto update micro posts
+- **2024-11-04**: Auto update micro posts
+- **2024-11-04**: Auto update micro posts
+- **2024-11-04**: Auto update micro posts
+- **2024-11-04**: Auto update micro posts
+- **2024-11-04**: Auto update micro posts
+- **2024-11-03**: Update 2012-02-11-the-setup-harperreed-uses-this.md
+- **2024-11-03**: Auto update micro posts
+- **2024-11-01**: Auto update micro posts
+- **2024-11-01**: Auto update micro posts
+- **2024-11-01**: Auto update micro posts
+- **2024-10-31**: 🚀 Update RSS and LinksRSS Layouts + Add Pretty Feed Stylesheet 🎉
+- **2024-10-31**: Auto update micro posts
+- **2024-10-29**: Merge branch 'main' of github.com:harperreed/harper.blog
+- **2024-10-29**: Updated grab_micro_posts.py for streamlined image processing 📸✨ - Removed the import statement for the json module since it was not used, decluttering the code! 🧹 - Simplified the image filename creation by directly using `f'image_{i + 1}{file_extension}'` instead of a more complex construction 🤹‍♂️. - Ensured default file extension is '.jpg' if none is found, providing an extra safety net for those dodgy URLs 🌧️💧. - Added checks and print statements to enhance logging and debugging for image processing 👀🔍. - Tidied up the process_images function - now it also removes empty lines effectively after image replacement, making the content cleaner! 🧼📝
+- **2024-10-29**: Auto update micro posts
+- **2024-10-28**: Auto update micro posts
+- **2024-10-26**: Auto update micro posts
+- **2024-10-26**: Auto update micro posts
+- **2024-10-25**: 🚀🚫 Delete obsolete XSS-related document! 🚫🚀 - Removed the file `20241025-company-named-script-src-https-mjt-xss-ht-ltd-forced-to-change-it-2020-script-f8ebaf.md` - This file was previously used to document a business name change due to an XSS vulnerability, but it's no longer relevant or useful 🗑️
+- **2024-10-25**: Deleted unnecessary markdown file related to security risk news 😱 - Removed the file `20241025-uk-company-named-script-src-https-mjt-xss-ht-ltd-forced-to-change-it-script-f8ebaf.md` entirely 🗑️ - This file contained outdated information about a UK company being forced to change its name due to security risks related to XSS (Cross-Site Scripting) 🦠, which is no longer relevant or necessary for our current documentation ✌️
+- **2024-10-25**: Improved title formatting in the markdown file 📝✨ - Changed the title format from a single-line string to a multi-line string for better readability. - Updated the title to use consistent single quotes to avoid any potential formatting issues.
+- **2024-10-25**: Update title formatting for clarity 🎉🤓 - Changed the formatting of the title to ensure proper escaping and quotation marks. - Updated body text to match the title formatting change, enhancing consistency across the document.
+- **2024-10-25**: Delete outdated article and add new link about security risk 🚨📄
+- **2024-10-25**: Auto update micro posts
+- **2024-10-25**: Auto update micro posts
+- **2024-10-25**: Auto update micro posts
+- **2024-10-25**: Auto update micro posts
+- **2024-10-24**: Update directory paths in GitHub workflows 🌟🚀
+- **2024-10-24**: Delete unused notes and images 📂🗑️
+- **2024-10-25**: Auto update micro posts
+- **2024-10-24**: 🎉 Refactor script paths in GitHub workflows! 🎉
+- **2024-10-24**: Improve GitHub Actions Workflows for Improved Clarity and Performance 🛠️✨
+- **2024-10-24**: Updated GitHub Actions workflow for micro posts script 🚀🎉 - Changed `Run script` step to use `working-directory: ./tools`, ensuring the script executes in the correct context. - Removed the commented-out `Install dependencies` step, cleaning up the YAML for better readability. - Kept the cron schedule and manual triggering for flexibility.
+- **2024-10-24**: Add `uv.lock` file for dependency management 🎉🛠️
+- **2024-10-24**: Updated GitHub Actions workflows to use 'uv' instead of Python setup 🎉🐍
+- **2024-10-24**: Merge branch 'main' of github.com:harperreed/harper.blog
+- **2024-10-24**: README.md
+- **2024-10-24**: 🎉 Added Python version management and project configuration! 🚀
+- **2024-10-24**: Auto update micro posts
+- **2024-10-23**: Auto update micro posts
+- **2024-10-22**: Auto update micro posts
+- **2024-10-22**: Auto update micro posts
+- **2024-10-21**: Auto update micro posts
+- **2024-10-21**: Auto update micro posts
+- **2024-10-21**: Auto update micro posts
+- **2024-10-21**: Auto update micro posts
+- **2024-10-21**: Auto update micro posts
+- **2024-10-20**: Auto update micro posts
+- **2024-10-15**: Merge branch 'main' of github.com:harperreed/harper.blog
+- **2024-10-15**: Add description styling for links section in links.css 🎉✨
+- **2024-10-16**: Auto update micro posts
+- **2024-10-15**: 🚀 Update GitHub Actions Workflow for Starred Links! 🐱‍👤
+- **2024-10-15**: Adjust cron schedule for the starred links workflow 🕒✨
+- **2024-10-15**: Updating environment variable names for clarity 🎉
+- **2024-10-15**: Renamed workflow from Micro Posts to Starred Links 🏷️✨
+- **2024-10-15**: Merge pull request #40 from harperreed/links
+- **2024-10-15**: 🎉 Added new GitHub Actions workflow and updated existing one! 🎉 - Created a new workflow `links.yaml` to run a script every 10 minutes for micro post updates. 🕒 - Renamed environment variables for better clarity in `notes.yaml` from generic names to more descriptive ones. 📝 - Ensured both workflows (`links.yaml` and `notes.yaml`) now have consistent formatting for better readability. Looks way nicer! 🌈
+- **2024-10-15**: Add links functionality and RSS feed support 🎉✨
+- **2024-10-15**: Auto update micro posts
+- **2024-10-15**: Auto update micro posts
+- **2024-10-12**: Auto update micro posts
+- **2024-10-11**: Auto update micro posts
+- **2024-09-29**: Auto update micro posts
+- **2024-09-25**: Auto update micro posts
+- **2024-09-25**: Auto update micro posts
+- **2024-09-24**: Updated header for Posts section in _index.md 🎉✍️
+- **2024-09-24**: Remove unused notes and enhance layout for better presentation 🎨🚀 - Deleted the note file `image_1.jpg` and its corresponding markdown `index.md` as they were no longer needed 🙅‍♂️ - Modified the `list.html` file to add a new `notes-desc` div, enhancing the layout by wrapping the main content in a styled container for clearer presentation 🎉 - Updated the CSS in `notes.css` to make images and notes responsive. Changed image widths to 100% for better adaptability on mobile and adjusted gaps and padding for improved user experience 📱👌 - Corrected a typo by changing `marging` to `margin` in image styles 🤦‍♂️
+- **2024-09-24**: Fix formatting and clarity in note #68 📜✨ - Changed title quotes from single `'` to double `"` for consistency - Updated the sentence for clarity to indicate that the RSS feed should display full snaps, media, and content - Ensured the file ends with a newline
+- **2024-09-24**: Merge branch 'main' of github.com:harperreed/harper.blog
+- **2024-09-24**: Update dates and refine content in blog entries 📝✨
+- **2024-09-24**: 🎉✨ Update the Now section with new posts and styles! ✨🎉
+- **2024-09-25**: Auto update micro posts
+- **2024-09-24**: 🎉 Update to Hugo configuration for Harper's Blog 🎉 - Changed `disableKinds` from `[ ]` to `[]` for cleaner code 🚀 - Added RSS service configuration with a limit of 20 posts 📰✨
+- **2024-09-24**: Updated RSS layout to include content:encoded tags and use description summary
+- **2024-09-25**: Auto update micro posts
+- **2024-09-23**: Update index.md
+- **2024-09-23**: Auto update micro posts
+- **2024-09-19**: Auto update micro posts
+- **2024-09-18**: Auto update micro posts
+- **2024-09-16**: Update _index.md
+- **2024-09-14**: Auto update micro posts
+- **2024-09-13**: 📝 Revamp "Archives" to "Posts" - More relatable title, baby! 🎉
+- **2024-09-13**: ✨🎉 Revamp of Notes Layout and Styles! 🎉✨
+- **2024-09-13**: Auto update micro posts
+- **2024-09-13**: Merge pull request #39 from harperreed/response
+- **2024-09-13**: Add blog and notes sections 🌟✨
+- **2024-09-12**: Update date and title in now.md 🎉🗓️
+- **2024-09-12**: 🎉 Enhancements and Style Updates Galore! 🍰
+- **2024-09-11**: Merge pull request #38 from harperreed/response
+- **2024-09-11**: 🎉📜 CSS Party: Fancier Notes Layout! 🎉📜
+- **2024-09-11**: Merge pull request #37 from harperreed/all-notes-reid
+- **2024-09-11**: 🤖🎉 Added note ID handling and content processing updates! 🚀📝
+- **2024-09-11**: Added a bunch of new notes and images 📸✨ - Created and added 25 new Markdown notes with details about travels, tips, and experiences. These notes have unique IDs and draft statuses set to false, meaning they're ready to roll! 🚀 - Added numerous image files (totaling 38!) corresponding to the new notes. 🖼️ - Updated existing notes to reflect the right IDs (i.e., changed note_id from 15 to 46 in one note, etc.) to maintain a clear and sequential order. 📅 - Note metadata includes original URLs pointing to their respective sources to keep everything linked! 🔗
+- **2024-09-12**: Auto update micro posts
+- **2024-09-11**: Merge pull request #36 from harperreed/all-the-notes
+- **2024-09-11**: ✨🎉 Major Note Revamp - Say hello to our new IDs and less clutter! 🚀
+- **2024-09-11**: Merge pull request #34 from harperreed/notes
+- **2024-09-11**: Merge branch 'main' into notes
+- **2024-09-11**: 🎉 Revamped Notes Layout & Styling! 🚀
+- **2024-09-11**: 🎉 CSS Overhaul: Polaroid Magic Activates! 🎨
+- **2024-09-11**: 🎉 Update Notes List Layout and CSS! 🎉
+- **2024-09-11**: 🎉 Update Notes Layout and Metadata 🎉
+- **2024-09-11**: Merge branch 'main' into notes
+- **2024-09-11**: Auto update micro posts
+- **2024-09-11**: Auto update micro posts
+- **2024-09-10**: Auto update micro posts
+- **2024-09-10**: Auto update micro posts
+- **2024-09-10**: Update notes.yaml
+- **2024-09-08**: Auto update micro posts
+- **2024-09-08**: 🎉✨ Added a sparkling new index file for notes! 📚💡
+- **2024-09-08**: Merge pull request #33 from harperreed/update-authors
+- **2024-09-08**: 🎉 Update blog configuration and page content for better organization! 🎉
+- **2024-09-08**: update authors
+- **2024-09-08**: Merge pull request #32 from harperreed/update-authors
+- **2024-09-08**: update authors
+- **2024-09-08**: Merge branch 'main' of github.com:harperreed/harper.blog
+- **2024-09-08**: 🎉 Update AUTHORS Workflow to Trigger on Main Branch 🚀
+- **2024-09-08**: Auto update micro posts
+- **2024-09-08**: Fix subtitle handling in create_hugo_content function
+- **2024-09-08**: 🚀 Update filename generation in grab_micro_posts.py to include subtitles! 🎉
+- **2024-09-08**: Update notes.yaml
+- **2024-09-08**: Disable social image generation in params.toml 🤖✨ - Changed `social_image_gen` from `true` to `false` in `config/_default/params.toml`. - This prevents the automatic generation of a social image, which could lead to more uniformity in post appearances across social media platforms 🚀📸. - No effects on other configurations, but may impact how posts are displayed when shared online. As Harp would say, less clutter, more clarity! 🤷‍♂️✨
+- **2024-09-08**: Updated social image generation and filename formatting in config and script 🎉✨
+- **2024-09-08**: 🚀 Huge deletion day! Goodbye notes and images! 👋🎉 - Removed numerous note files (101 total) from "content/notes" directory 🚫📜. - Deleted images associated with notes across different dates, because they're just bugs on the wall now! 🐛💔 - Updated "params.toml" to include `social_image_gen = false`, which stops the generation of social images! We need to chill 🥂.
+- **2024-09-08**: 🎉 Major Refactor and Feature Additions! 🎉
+- **2024-09-08**: Add a new imaging configuration file 🎉🖼️
+- **2024-09-08**: Renamed markdown files to index.md and cleaned up notes
+- **2024-09-07**: 🎉 Major Overhaul for Notes Feature! 📝✨
+- **2024-09-07**: Update pagination settings for notes and add author email to config 🎉🤓
+- **2024-09-07**: Add Notes section and layouts 📝✨
+- **2024-09-07**: Improve titles, weights, and layout in content and templates 🎉🙌
+- **2024-09-07**: 🚀 Major Spring Cleaning: Deleting Unused Note Files and Adjusting Field Name! 🚀
+- **2024-09-07**: Update requirements.txt
+- **2024-09-07**: Updated grab_micro_posts.py for better error handling and encoding 🎉🚀
+- **2024-09-07**: Add python-dotenv to requirements for environment variable management 🌟💻
+- **2024-09-07**: Add 'requests' library to requirements.txt 🚀🍕 - Added `requests` to `tools/requirements.txt` to facilitate making HTTP requests easily. This addition is crucial because it empowers our code to interact with external APIs without reinventing the wheel. 🦸‍♂️ - This change ensures that developers have all the necessary dependencies to run the code smoothly right out of the box. No more "why the fuck is this not working?" moments! 😅
+- **2024-09-07**: 🚀 Update Micro Posts Workflow and Add .env File 🔥
+- **2024-09-07**: 🎉✨ Introduce new tools for grabbing micro posts! 🚀
+- **2024-09-07**: ✨🎉 **Add GitHub Actions for AUTHORS and Micro Posts** 🎉✨
+- **2024-09-07**: Add name field to menu configuration in _index.md 📝✨ - Added a "name" field with the value "Now" to the menu configuration - This allows for a clearer identification of the menu item in the navigation 🧭
+- **2024-09-07**: Revamped turntable guide with clearer structure and formatting improvements 🎧✨
+- **2024-09-07**: Update `social_card.html` for consistent formatting and improved readability 🖌️✨
+- **2024-09-07**: 🚀 Initial commit: Add gitlog shortcode layout 🎉
+- **2024-09-04**: 🎉 Update social card assets and markdown title 🎉
 - **2024-09-04**: 📜 Update "Now" Content and Layout Enhancements 🚀
 - **2024-09-04**: Merge branch 'main' of github.com:harperreed/harper.blog
 - **2024-09-04**: ✨🎉 New Now Page for September 4, 2024! 🚀📅
