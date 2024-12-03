@@ -11,12 +11,12 @@ getmodules:
 	hugo mod clean --all && hugo mod get -u ./... && hugo mod tidy
 
 # Preview the site with production settings
-preview:
+preview: 
 	hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify
 
 # Build the site with production settings and optimizations
-prod_build:
-	hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic
+prod_build: getmodules
+	hugo --cleanDestinationDir --minify --forceSyncStatic --templateMetrics --templateMetricsHints --gc --logLevel info
 
 gitlog:
 	git log --pretty=format:'- **%ad**: %s' --date=short >gitlog.md
