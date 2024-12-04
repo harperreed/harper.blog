@@ -10,7 +10,9 @@
 <p>
     <nobr
         >{{ i18n "sendMeAn" | default "Send me an" }}
-        <a href="mailto:{{ .Site.Params.email }}"
+        <a
+            href="mailto:{{ .Site.Params.email }}"
+            aria-label="Send email to {{ .Site.Params.Name }}"
             >{{ i18n "email" | default "email" }}</a
         ></nobr
     >

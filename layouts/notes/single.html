@@ -1,34 +1,24 @@
-{{ define "main" }}
-
-{{ if not .Params.menu }}
+{{ define "main" }} {{ if not .Params.menu }}
 <h1>{{ .Title }}</h1>
 <p class="byline">
-  <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
-    {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
-  </time>
-  {{ with .Params.author }}· {{.}}{{ end }}
+    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+        {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
+    </time>
+    {{ with .Params.author }}· {{.}}{{ end }}
 </p>
 {{ end }}
 <content>
-  {{ .Content }}
-  
-  {{- with .Resources.ByType "image" }}
-              <div class="note-images">
-                  {{- range . }}
-                          <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
-                  {{- end }}
-              </div>
-          {{- end }}
-          
+    {{ .Content }} {{- with .Resources.ByType "image" }}
+    <div class="note-images">
+        {{- range . }}
+        <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
+        {{- end }}
+    </div>
+    {{- end }}
 </content>
-<p>
-  {{ range (.GetTerms "tags") }}
-    <a class="blog-tags" href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a>
-  {{ end }}
-</p>
 
-{{ partialCached "tags.html" . .Title}}
-{{ partialCached "comments.html" . .Title}}
+{{ partialCached "tags.html" . .Title}} {{ partialCached "comments.html" .
+.Title}}
 
 <nav>
     <a href="/notes">Back to the current notes</a>
