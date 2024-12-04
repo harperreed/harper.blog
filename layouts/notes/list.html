@@ -1,11 +1,11 @@
 {{ define "main" }}
 <content>
-    {{ .Content }} 
-    {{ if .Data.Singular }}
+    {{ .Content }} {{ if .Data.Singular }}
     <p class="filter-notice">{{ i18n "filtering-for" }} "{{ .Title }}"</p>
     {{ end }}
     <div class="notes">
-        {{ $paginator := .Paginate .Pages (.Param "notes_pagination" | default 2) }}
+        {{ $paginator := .Paginate .Pages (.Param "notes_pagination" | default
+        2) }}
         <!-- {{ $paginator := .Paginate .Pages .Site.Params.notes_pagination }} -->
         {{ range $paginator.Pages }}
         <article class="post">
@@ -13,35 +13,27 @@
                 <time datetime='{{ .Date.Format "2006-01-02" }}'>
                     {{ .Date.Format "Jan 02, 2006" }}
                 </time>
+                 <a href="{{ .RelPermalink }}" title="Permalink to this note">#</a>
             </header>
-            {{ if .Params.text }} 
-                {{ .Params.text | markdownify }} 
-            {{ else }} 
-                {{ .Content }} 
-            {{ end }} 
-            
-            {{ with .Resources.ByType "image" }} 
+            {{ if .Params.text }} {{ .Params.text | markdownify }} {{ else }} {{
+            .Content }} {{ end }} {{ with .Resources.ByType "image" }}
             <div class="note-images">
-                {{ range . }} 
-                    {{ $thumbnail := .Resize "600x" }}
-                    <img
-                        src="{{ $thumbnail.RelPermalink }}"
-                        alt="{{ .Title }}"
-                        loading="lazy"
-                    />
-                {{ end }} 
+                {{ range . }} {{ $thumbnail := .Resize "600x" }}
+                <img
+                    src="{{ $thumbnail.RelPermalink }}"
+                    alt="{{ .Title }}"
+                    loading="lazy"
+                />
+                {{ end }}
             </div>
             {{ end }}
-            
+
             <div>
-                {{ if .Params.tags }}
-                    {{ range .Params.tags }}
-                    <a href="/tags/{{ . }}">#{{ . }}</a>
-                    {{ end }}
-                {{ end }}
-                <a href="{{ .RelPermalink }}" title="Permalink to this note">#</a>
+                {{ if .Params.tags }} {{ range .Params.tags }}
+                <a href="/tags/{{ . }}">#{{ . }}</a>
+                {{ end }} {{ end }}
             </div>
-            
+
             <hr />
         </article>
         {{ else }}

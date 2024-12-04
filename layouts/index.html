@@ -38,11 +38,7 @@
                 </time>
             </i>
         </span>
-        {{ if .Params.link }}
-        <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
-        {{ else }}
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        {{ end }}
+        <a href="{{ .RelPermalink }}">{{ .Description | default .Title }}</a>
     </li>
     {{ else }}
     <li>{{ i18n "no-posts" }}</li>
