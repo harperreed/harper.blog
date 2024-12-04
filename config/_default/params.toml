@@ -20,7 +20,7 @@ notes_pagination = 10
 # Number of items to show per page in links section
 links_pagination = 20
 themeStyle = "harper"
-customcss = ["/css/bsky_comments.css", "/css/outofdate.css", "syntax.css"]
+customcss = ["/css/harper.css","/css/bsky_comments.css", "/css/outofdate.css", "syntax.css"]
 
 customjs = ["/js/bluesky_comments.js", "/js/theme.js"]
 
