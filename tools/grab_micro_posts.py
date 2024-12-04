@@ -102,7 +102,7 @@ def create_hugo_content(entry, output_dir, note_id):
     post = frontmatter.loads(content)
     post['title'] = title
     post['sub_title'] = sub_title
-    post['description'] = content
+    post['description'] = create_description(content)
     post['date'] = date
     post['draft'] = False
     post['original_url'] = post_url
@@ -113,6 +113,16 @@ def create_hugo_content(entry, output_dir, note_id):
 
     print(f"Created new post: {file_path} with Note ID: {note_id}")
     return True
+
+def create_description(content, max_length=160):
+    # Strip markdown syntax
+    clean_content = re.sub(r'[#*`_~\[\]\(\)!]', '', content)
+    # Normalize whitespace
+    clean_content = ' '.join(clean_content.split())
+    # Truncate and add ellipsis if needed
+    if len(clean_content) > max_length:
+        return clean_content[:max_length-3] + '...'
+    return clean_content
 
 def main():
     json_feed_url = os.getenv('NOTES_JSON_FEED_URL')
