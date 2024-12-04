@@ -29,7 +29,13 @@ command = " hugo --cleanDestinationDir --templateMetrics --templateMetricsHints 
     X-Frame-Options = "deny"
     Referrer-Policy = "no-referrer"
     Feature-Policy = "microphone 'none'; payment 'none'; geolocation 'none'; midi 'none'; sync-xhr 'none'; camera 'none'; magnetometer 'none'; gyroscope 'none'"
-    Content-Security-Policy = "default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' https:; connect-src 'self' https://bsky.social;"
+    Content-Security-Policy = """
+         default-src 'self'; 
+         script-src 'self' 'unsafe-inline' 'unsafe-eval';
+         style-src 'self' 'unsafe-inline';
+         img-src 'self' https: data:;
+         connect-src 'self' https://bsky.social https://*.services-prod.nsvcs.net;
+         frame-ancestors 'none';"""
     X-XSS-Protection = "1; mode=block"
     
     [[headers]]
