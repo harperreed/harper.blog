@@ -16,7 +16,7 @@ preview:
 
 # Build the site with production settings and optimizations
 prod_build: getmodules
-	hugo --cleanDestinationDir --minify --forceSyncStatic --templateMetrics --templateMetricsHints --gc --logLevel info
+	hugo --cleanDestinationDir --minify --forceSyncStatic --gc --logLevel info
 
 gitlog:
 	git log --pretty=format:'- **%ad**: %s' --date=short >gitlog.md
