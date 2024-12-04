@@ -28,7 +28,7 @@
 }
 
 /* Nature Theme */
-.theme-nature {
+.theme-nature2 {
     --color-dark: #2c392f;
     --color-light: #f8f9f6;
     --color-primary: #2c392f;
@@ -161,7 +161,6 @@
     --color-sparkle: #ff3399;
     --color-blink: #ffff00;
 }
-
 /* markup */
 
 body {
@@ -360,6 +359,26 @@ hr {
     margin: 2rem 0;
 }
 
+/* now */
+/* blog posts */
+ul.now-posts {
+    list-style-type: none;
+    padding: unset;
+}
+
+ul.now-posts li {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+ul.now-posts li span {
+    flex: 0 0 130px;
+}
+
+ul.now-posts li a:visited {
+    color: var(--color-link-visited);
+}
+
 /* notes */
 
 .notes hr {
@@ -415,4 +434,18 @@ hr {
     color: #767676;
     font-size: 1.1em;
     margin-bottom: 2em;
+}
+
+.link-domain {
+    color: var(--color-dark);
+    transition: color 0.3s ease;
+    text-decoration: none;
+}
+
+.link-posts a {
+    text-decoration: none;
+}
+
+.link-posts a .link-title {
+    text-decoration: underline;
 }

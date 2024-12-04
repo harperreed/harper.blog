@@ -1,7 +1,7 @@
 <!doctype html>
 <html
     lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}"
-    class="theme-academia"
+    class="theme-autumn"
 >
     <head>
         <meta charset="utf-8" />
@@ -29,6 +29,12 @@
         {{- end }} {{ with .OutputFormats.Get "rss" -}} {{ printf `
         <link rel="%s" type="%s" href="%s" title="%s" />
         ` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }} {{ end -}}
+        {{ $commentsJS := resources.Get "js/bluesky_comments.js" }}
+        <script src="{{ $commentsJS.RelPermalink }}"></script>
+
+        {{ $themeJS := resources.Get "js/theme.js" }}
+        <script src="{{ $themeJS.RelPermalink }}"></script>
+
         {{- partial "custom_head.html" . -}}
     </head>
 

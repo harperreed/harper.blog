@@ -1,7 +1,6 @@
-{{ define "main" }}
-  {{ .Content }}
+{{ define "main" }} {{ .Content }}
 
-<h1>{{ i18n "recentPosts" | default "Recent Posts" }}</h1>
+<h2>{{ i18n "recentPosts" | default "Recent Posts" }}</h2>
 <ul class="blog-posts">
     {{ $notes := first 5 (where .Site.RegularPages "Section" "post") }} {{ range
     $notes }}
@@ -15,7 +14,9 @@
             </i>
         </span>
         {{ if .Params.link }}
-        <a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer">{{ .Title }} ↪</a>
+        <a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer"
+            >{{ .Title }} ↪</a
+        >
         {{ else }}
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         {{ end }}
@@ -26,9 +27,9 @@
 </ul>
 <a href="/posts">{{ i18n "morePosts" | default "More Posts" }}</a>
 
-<h1>{{ i18n "recentNotes" | default "Recent notes" }}</h1>
+<h2>{{ i18n "recentNotes" | default "Recent notes" }}</h2>
 <ul class="blog-posts">
-    {{ $notes := first 3 (where .Site.RegularPages "Section" "notes") }} {{
+    {{ $notes := first 5 (where .Site.RegularPages "Section" "notes") }} {{
     range $notes }}
     <li>
         <span>
