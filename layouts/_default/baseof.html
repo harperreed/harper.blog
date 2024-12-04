@@ -15,25 +15,31 @@
         {{- partial "seo_tags.html" . -}}
         <meta name="referrer" content="no-referrer-when-downgrade" />
 
-        {{ $style := print (default "original" .Site.Params.themeStyle) ".css" |
-        resources.Get | minify }}
-        <link href="{{ $style.RelPermalink }}" rel="stylesheet" />
+        {{ $style := print "css/" (default "original" .Site.Params.themeStyle) ".css" |
+        resources.Get | minify  | resources.Fingerprint "sha512"  }}
+        <link href="{{ $style.RelPermalink }}" rel="stylesheet"  integrity="{{ $style.Data.Integrity }}" />
 
-        {{ $syntax := resources.Get "syntax.css" | minify }}
-        <link href="{{ $syntax.RelPermalink }}" rel="stylesheet" />
+        {{ with .Site.Params.customcss }}
+            {{- range . -}}
+                {{ $customStyle := resources.Get . }}
+                {{ $minStyle := $customStyle | minify | resources.Fingerprint "sha512" }}
+                <link href="{{ $minStyle.RelPermalink }}" integrity="{{ $minStyle.Data.Integrity }}" rel="stylesheet">
+            {{- end -}}
+        {{ end }}
 
-        {{ with .Params.style }} {{ $extra := resources.Get . | minify }}
-        <link href="{{ $extra.RelPermalink }}" rel="stylesheet" />
-        {{ end }} {{ range .Site.Params.customcss -}}
-        <link rel="stylesheet" type="text/css" media="screen" href="{{ . }}" />
-        {{- end }} {{ with .OutputFormats.Get "rss" -}} {{ printf `
-        <link rel="%s" type="%s" href="%s" title="%s" />
-        ` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }} {{ end -}}
-        {{ $commentsJS := resources.Get "js/bluesky_comments.js" }}
-        <script src="{{ $commentsJS.RelPermalink }}"></script>
-
-        {{ $themeJS := resources.Get "js/theme.js" }}
-        <script src="{{ $themeJS.RelPermalink }}"></script>
+        
+        {{ with .Site.Params.customjs }}
+            {{- range . -}}
+                {{ $customJS := resources.Get . }}
+                {{ $minJS := $customJS | minify | resources.Fingerprint "sha512" }}
+                <script src="{{ $minJS.RelPermalink }}" integrity="{{ $minJS.Data.Integrity }}"></script>
+            {{- end -}}
+        {{ end }}
+        
+        
+        {{ with .OutputFormats.Get "rss" -}} 
+        {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }} 
+        {{ end -}}
 
         {{- partial "custom_head.html" . -}}
     </head>

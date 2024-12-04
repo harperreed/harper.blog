@@ -215,6 +215,11 @@ a:visited {
     font-weight: 400;
 }
 
+nav {
+    padding-bottom: var(--margin);
+    border-bottom: 1px solid var(--color-tertiary);
+}
+
 nav a {
     margin-right: var(--margin);
 }
