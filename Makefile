@@ -11,8 +11,13 @@ getmodules:
 	hugo mod clean --all && hugo mod get -u ./... && hugo mod tidy
 
 # Preview the site with production settings
+# Preview the site with production settings
 preview: 
-	hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify
+	hugo server --disableFastRender --navigateToChanged --watch --forceSyncStatic -e production --minify
+
+# Development build with template metrics
+dev:
+	hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic
 
 # Build the site with production settings and optimizations
 prod_build: getmodules
