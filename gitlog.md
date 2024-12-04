@@ -1,3 +1,15 @@
+- **2024-12-03**: Update blog index to include links section 🎉📚
+- **2024-12-03**: Add new archetype and metadata updates, along with various content enhancements 📝✨
+- **2024-12-03**: 🎉 Revamped Note Titles with Links! 🎉 - Changed title quotes from single to double quotes in `content/notes/2024-12-03-18-49-49-untitled/index.md` and `content/notes/2024-12-03-18-57-15-untitled/index.md` - Added Bsky profile links to both notes 🎈
+- **2024-12-03**: Merge branch 'main' into bearcub
+- **2024-12-04**: Auto update micro posts
+- **2024-12-03**: 🚀 Refactor base HTML layout for improved structure and theme! 🎉
+- **2024-12-03**: 🎨✨ CSS Cleanup and Themes Revamp! ✨🎨
+- **2024-12-03**: 🎉 Add Dark Mode and Refactor Bluesky Comments! 🌙
+- **2024-12-03**: 🚀 Enhance Bluesky Comments Feature & Configuration Adjustments 🎉
+- **2024-12-03**: 🎉 Updated Go Version in Netlify Configuration! 🚀
+- **2024-12-03**: Refactor Makefile and Netlify configuration for improved build processes 🚀🔥
+- **2024-12-03**: 🎉 Update Hugo Configuration for Pagination! 🎉 - Changed pagination from 5 posts to 6 posts per page to improve content display. 📜➡️📜 - Added a new `[pagination]` section with `pagerSize` set to "6," which allows for flexible future configurations. ⚙️💪
 - **2024-12-03**: 🎉 Major Theme Overhaul & Internationalization Fun 🚀
 - **2024-12-03**: 🚀 Update layout links and hugo version 🚀 - Added "More posts" and "More notes" links to the layout/index.html file to enhance navigation. Now readers can dive deeper into posts and notes! 📚🔗 - Updated Hugo version from 0.111.0 to 0.136.4 in netlify.toml for better performance, stability, and features 🎉👌 - Refined build commands in netlify.toml to include template metrics and clean destination directory options, allowing for more efficient builds and better debugging 🔧🛠️
 - **2024-12-03**: 🎉 Added Bluesky comments functionality and CSS styles! 🚀
