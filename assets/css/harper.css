@@ -19,7 +19,7 @@
     --font-family-base: Verdana, sans-serif;
     --font-size-base: 1rem;
     --line-height-base: 1.5;
-    
+
     /* Borders */
     --border-radius-sm: 3px;
     --border-radius-base: 5px;
@@ -39,7 +39,7 @@
 }
 
 /* Nature Theme */
-.theme-nature2 {
+.theme-nature {
     --color-dark: #2c392f;
     --color-light: #f8f9f6;
     --color-primary: #2c392f;
