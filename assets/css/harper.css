@@ -505,3 +505,15 @@ ul.now-posts li a:visited {
 .link-posts a .link-title {
     text-decoration: underline;
 }
+
+/* Common avatar styles */
+.avatar-base {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+}
+
+.avatar extends .avatar-base {
+    vertical-align: middle;
+    margin-right: 8px;
+}
