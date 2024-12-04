@@ -34,7 +34,7 @@ command = " hugo --cleanDestinationDir --templateMetrics --templateMetricsHints 
          script-src 'self' 'unsafe-inline' 'unsafe-eval';
          style-src 'self' 'unsafe-inline';
          img-src 'self' https: data:;
-         connect-src 'self' https://bsky.social https://*.services-prod.nsvcs.net;
+         connect-src 'self' https:;
          frame-ancestors 'none';"""
     X-XSS-Protection = "1; mode=block"
     
