@@ -32,13 +32,23 @@ class ThemeManager {
         return this.currentTheme;
     }
 
-    // Apply a theme to the document
+    /**
+     * Applies a theme to the document
+     * @param {string} themeName - Name of the theme to apply
+     * @returns {boolean} Success status
+     * @fires ThemeManager#themeChanged
+     */
     applyTheme(themeName) {
         // Validate theme name
         if (!this.themes.includes(themeName)) {
             console.error(
                 `Theme "${themeName}" not found. Available themes: ${this.themes.join(", ")}`,
             );
+            return false;
+        }
+
+        if (!document.body) {
+            console.error("Document body not available");
             return false;
         }
 
@@ -53,10 +63,19 @@ class ThemeManager {
         }
 
         // Save to localStorage
-        localStorage.setItem("theme", themeName);
+        try {
+            localStorage.setItem("theme", themeName);
+        } catch (e) {
+            console.warn("Failed to save theme to localStorage:", e);
+        }
 
         // Update current theme
         this.currentTheme = themeName;
+
+        // Dispatch theme change event
+        window.dispatchEvent(new CustomEvent('themeChanged', {
+            detail: { theme: themeName }
+        }));
 
         return true;
     }
