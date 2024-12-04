@@ -15,6 +15,14 @@
     --spacing: calc(var(--size) * 2.4);
     --size-width: 720px;
     --title-font-size: 24px;
+    /* Typography */
+    --font-family-base: Verdana, sans-serif;
+    --font-size-base: 1rem;
+    --line-height-base: 1.5;
+    
+    /* Borders */
+    --border-radius-sm: 3px;
+    --border-radius-base: 5px;
 }
 
 .theme-dark {
