@@ -34,12 +34,16 @@
 
 - id: generated
   translation: "Generated"
+
 - id: sendMeAn
   translation: "Send me an"
+
 - id: email
   translation: "email"
+
 - id: "on"
   translation: "on"
+  
 - id: copyright
   translation: "Copyright"
 
@@ -54,3 +58,9 @@
 
 - id: recentNotes
   translation: "Recent Notes"
+
+- id: posts
+  translation: "Posts"
+
+- id: notes
+  translation: "Notes"
