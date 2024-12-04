@@ -1,7 +1,7 @@
 [build]
 HUGO_VERSION = "0.136.4"
 publish = "public"
-command = "make prod_build"
+command = "hugo --cleanDestinationDir --templateMetrics --templateMetricsHints --gc"
 
 [context.production.environment]
 HUGO_VERSION = "0.136.4"
