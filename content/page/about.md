@@ -2,6 +2,7 @@
 title: Hello
 type: special
 url: /about/
+hideReply: true
 
 nofeed: true
 description: About page for harper.blog

@@ -3,12 +3,13 @@ title: Colophon
 type: special
 url: /colophon/
 nofeed: true
+hideReply: true
 description: Colophon for harper.blog
 weight: 6
 menu:
     footer:
         name: Colophon
-        weight: 6
+        weight: 3
 ---
 
 This website, [harper.blog](https://harper.blog), is the personal blog of Harper Reed. It is built using modern web technologies and static site generation techniques.

@@ -12,3 +12,9 @@ identifier = "home"
 name = "Home"
 url = "/"
 weight = 1
+
+[[footer]]
+identifier = "home"
+name = "Harper.lol"
+url = "https://harper.lol"
+weight = 5
