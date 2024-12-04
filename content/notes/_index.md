@@ -7,7 +7,7 @@ nofeed: true
 draft: false
 menu:
     main:
-        weight: 2
+        weight: 3
         identifier: notes
         name: Notes
 ---

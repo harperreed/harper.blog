@@ -2,24 +2,25 @@
 title: Hello
 type: special
 url: /about/
+hideReply: true
 
 nofeed: true
 description: About page for harper.blog
-weight: 6
+weight: 3
 menu:
-  main:
-    name: About
-    weight: 5
-  footer:
-    name: About
-    weight: 2
+    main:
+        name: About
+        weight: 6
+    footer:
+        name: About
+        weight: 2
 ---
 
 My name is [Harper Reed](mailto:harper@modest.com). This is my blog. I have been blogging for around 24 years (wtaf). This is approximately {{< postcount 2000 "now" >}}. You can check out [all my posts here](/posts) and my [short form notes here](/notes).
 
 ## About me
 
-I am a *computer operator* who likes to make things, have fun, and hang out on the internet. Also pranks.
+I am a _computer operator_ who likes to make things, have fun, and hang out on the internet. Also pranks.
 
 Please visit my main webpage at [harperreed.com](http://harperreed.com) for more information about me!
 

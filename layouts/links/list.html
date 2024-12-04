@@ -1,69 +1,41 @@
-{{- define "main" }}
-<h1 class="page-title">Links</h1>
-<div class="links-desc">{{ .Content }}</div>
-<ul class="posts flat">
-    {{- $paginator := .Paginate .Data.Pages .Site.Params.links_pagination }}
-    {{- $.Scratch.Set "currentDate" "" }}
-    {{- $.Scratch.Set "currentDayLinks" slice }}
+{{ define "main" }}
+<content>
+    {{ .Content }} {{ if .Data.Singular }}
+    <h3 class="link-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
+    {{ end }} {{ $pages := .Pages }} {{ if not $pages }}
+    <ul class="link-posts">
+        <li>{{ i18n "no-posts" }}</li>
+    </ul>
+    {{ else }} {{ $paginator := .Paginate $pages 20 }}
+    <ul class="link-posts">
+        {{ range $paginator.Pages.GroupByDate "2006-01-02" }} {{ range $index,
+        $page := .Pages }} {{ $url := urls.Parse .Params.original_url}}
+        <li>
+            {{ if eq $index 0 }}
+            <span>
+                <i>
+                    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+                        {{ .Date.Format (default "2006-01-02"
+                        $.Site.Params.dateFormat) }}
+                    </time>
+                </i>
+            </span>
+            {{ else }}
+            <span></span>
+            {{ end }} {{ if .Params.original_url }}
+            <a
+                href="{{ .Params.original_url }}"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                <span class="link-title">{{ .Title }}</span>
+                <span class="link-domain">({{ $url.Hostname }})</span>
+            </a>
+            {{ else }} {{ .Title }} {{ end }}
+        </li>
+        {{ end }} {{ end }}
+    </ul>
 
-    {{- range $index, $page := $paginator.Pages }}
-        {{- if (not (in $.Site.Params.excludedTypes .Type)) }}
-            {{- $postDate := .Date.Format "2006-01-02" }}
-            {{- $currentDate := $.Scratch.Get "currentDate" }}
-            {{- $isLastPage := eq (add $index 1) (len $paginator.Pages) }}
-
-            {{- if or (ne $postDate $currentDate) $isLastPage }}
-                {{- if ne $currentDate "" }}
-                    {{- $dayLinks := $.Scratch.Get "currentDayLinks" }}
-                    <li class="post">
-                        <div class="post-header">
-                            <div class="meta">
-                                <div class="date">
-                                    <span class="day">{{ dateFormat "02" (time $currentDate) }}</span>
-                                    <span class="rest">
-                                        {{- if $.Site.Data.month }}
-                                            {{ index $.Site.Data.month (printf "%d" (time $currentDate).Month) }}
-                                            {{ (time $currentDate).Year }}
-                                        {{- else }}
-                                            {{ dateFormat "Jan 2006" (time $currentDate) }}
-                                        {{- end }}
-                                    </span>
-                                </div>
-                            </div>
-                            <div class="matter">
-                                <article class="links-article">
-                                    <p>Links for {{ dateFormat "Monday, January 2, 2006" (time $currentDate) }}</p>
-                                    <div class="links-content">
-                                        <ul class="links-collection">
-                                            {{- range $dayLinks }}
-                                            {{ $url := urls.Parse .Params.original_url}}
-                                            <li class="link">
-                                                <a href="{{ .Params.original_url }}" target="_blank" class="link-permalink" title="Visit: {{ .Content }}">
-                                                    <span class="link-title">{{ .Content }}</span>
-                                                    <span class="link-domain">({{ $url.Hostname }})</span>
-                                                </a>
-                                            </li>
-                                            {{- end }}
-                                        </ul>
-                                    </div>
-                                </article>
-                            </div>
-                        </div>
-                    </li>
-                {{- end }}
-                {{- $.Scratch.Set "currentDate" $postDate }}
-                {{- $.Scratch.Set "currentDayLinks" slice }}
-            {{- end }}
-
-            {{- $currentDayLinks := $.Scratch.Get "currentDayLinks" }}
-            {{- $.Scratch.Set "currentDayLinks" ($currentDayLinks | append .) }}
-
-            {{- if $isLastPage }}
-                {{- $lastDayLinks := $.Scratch.Get "currentDayLinks" }}
-                {{- $.Scratch.Set "currentDayLinks" $lastDayLinks }}
-            {{- end }}
-        {{- end }}
-    {{- end }}
-</ul>
-{{- partial "paginator.html" . }}
-{{- end }}
+    {{ partial "pagination.html" . }} {{ end }}
+</content>
+{{ end }}

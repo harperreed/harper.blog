@@ -102,6 +102,7 @@ def create_hugo_content(entry, output_dir, note_id):
     post = frontmatter.loads(content)
     post['title'] = title
     post['sub_title'] = sub_title
+    post['description'] = content
     post['date'] = date
     post['draft'] = False
     post['original_url'] = post_url
