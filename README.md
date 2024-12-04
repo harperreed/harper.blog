@@ -28,7 +28,7 @@ My blog's life
 
 ## Design and Layout
 
-- The site uses a custom theme based on the [Hugo Vitae](https://github.com/dataCobra/hugo-vitae) theme
+- The site uses a custom theme based on the [Hugo Vitae](://github.com/dataCobra/hugo-vitae) theme
 - Typography: System fonts are used for optimal performance and native appearance
 - Responsive design ensures compatibility across various devices and screen sizes
 
@@ -43,6 +43,7 @@ My blog's life
 - Continuous Deployment is set up through Netlify
 - The site is automatically built and deployed when changes are pushed to the main branch
 - Custom build commands and settings are defined in `netlify.toml`
+- Content-Security-Policy (CSP) headers are implemented to prevent XSS attacks and control resource loading
 
 ## Performance Optimizations
 
