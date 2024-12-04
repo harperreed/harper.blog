@@ -18,7 +18,7 @@
             >{{ .Title }} ↪</a
         >
         {{ else }}
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <a href="{{ .RelPermalink }}" title="{{.Summary}}">{{ .Title }}</a>
         {{ end }}
     </li>
     {{ else }}
