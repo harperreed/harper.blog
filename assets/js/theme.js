@@ -23,11 +23,18 @@ class ThemeManager {
     }
 
     // Get list of available themes
+    /**
+     * Returns a copy of available themes array
+     * @returns {readonly string[]} Array of theme names
+     */
     getThemes() {
-        return this.themes;
+        return Object.freeze([...this.themes]);
     }
 
-    // Get current active theme
+    /**
+     * Returns the currently active theme name
+     * @returns {string} Current theme name
+     */
     getCurrentTheme() {
         return this.currentTheme;
     }
