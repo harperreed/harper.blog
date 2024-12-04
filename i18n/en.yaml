@@ -64,3 +64,24 @@
 
 - id: notes
   translation: "Notes"
+
+- id: morePostsAria
+  translation: "More Posts"
+
+- id: moreNotesAria
+  translation: "More Notes"
+
+- id: skipLinkAria
+  translation: "Skip to main content"
+
+- id: titleAria
+  translation: "Home"
+
+- id: backToNowAria
+  translation: "Back to the current Now"
+
+- id: backToNotesAria
+  translation: "Back to the current notes"
+
+- id: backToLinksAria
+  translation: "Back to the current links"
