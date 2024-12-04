@@ -1,6 +1,6 @@
 ---
 title: "Now @ {{ .Date }}"
-date: { { .Date } }
+date: {{ .Date }}
 draft: true
 ---
 
