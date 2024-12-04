@@ -12,7 +12,7 @@
                     .Site.Params.dateFormat) }}
                 </time>
             </i>
-    </li>span>
+        </span>
         {{ if .Params.link }}
         <a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer"
             >{{ .Title }} ↪</a
@@ -38,8 +38,8 @@
                     {{ .Date.Format (default "2006-01-02"
                     .Site.Params.dateFormat) }}
                 </time>
-        </span>i>
-    </li>span>
+            </i>
+        </span>
         <a href="{{ .RelPermalink }}">{{ .Description | default .Title }}</a>
     </li>
     {{ else }}
