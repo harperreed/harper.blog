@@ -203,7 +203,7 @@ a {
 }
 
 a:hover {
-    color: var(--color-link-hover);
+    color: var (--color-link-hover);
 }
 
 a:visited {
@@ -213,7 +213,10 @@ a:visited {
 .title {
     text-decoration: none;
     margin-bottom: var(--margin);
+    display: flex;
+    align-items: center;
 }
+
 .title h1 {
     font-size: var(--title-font-size);
     margin: 19.92px 0 19.92px 0;
@@ -221,6 +224,10 @@ a:visited {
 
 .title span {
     font-weight: 400;
+}
+
+.avatar {
+    margin-right: 10px;
 }
 
 nav {
