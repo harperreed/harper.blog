@@ -38,6 +38,21 @@
     --color-code-bg: #e2e2e2;
 }
 
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color-dark: #fafafa;
+        --color-light: #181a20;
+        --color-primary: #e2e2e2;
+        --color-secondary: #60a5fa;
+        --color-tertiary: #2a2d37;
+        --color-link: #60a5fa;
+        --color-link-visited: #93c5fd;
+        --color-link-hover: #fafafa;
+        --color-code-fg: #181a20;
+        --color-code-bg: #e2e2e2;
+    }
+}
+
 /* Nature Theme */
 .theme-nature2 {
     --color-dark: #2c392f;
@@ -429,7 +444,7 @@ ul.now-posts li a:visited {
     object-fit: cover;
     padding: var(--margin);
     background-color: white;
-    border: 1px solid var(--color-tertiary);
+    border: 1px solid var (--color-tertiary);
     border-radius: 5px;
 }
 

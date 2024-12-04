@@ -20,6 +20,9 @@ class ThemeManager {
 
         // Apply the saved theme on initialization
         this.applyTheme(this.currentTheme);
+
+        // Check for prefers-color-scheme and apply dark theme if preferred
+        this.applyPreferredColorScheme();
     }
 
     // Get list of available themes
@@ -97,6 +100,14 @@ class ThemeManager {
     setRandomTheme() {
         const randomIndex = Math.floor(Math.random() * this.themes.length);
         return this.applyTheme(this.themes[randomIndex]);
+    }
+
+    // Apply preferred color scheme based on user preference
+    applyPreferredColorScheme() {
+        const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)").matches;
+        if (prefersDarkScheme && this.currentTheme === "default") {
+            this.applyTheme("dark");
+        }
     }
 }
 
