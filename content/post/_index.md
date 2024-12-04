@@ -4,7 +4,7 @@ lastmod: "2017-12-04"
 menu:
     footer:
         name: Posts
-        weight: 5
+        weight: 2
     main:
         name: Posts
         weight: 2

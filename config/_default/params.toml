@@ -1,26 +1,23 @@
 
-ga_id = "UA-70650-74"
+
 description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
-darkmode = false
 subtitle = "Musing from a normal person doing normal things"
-cachebuster = "harper rules"
 name = "Harper Reed"
 
 email = "harper@modest.com"
 avatar = "https://s.gravatar.com/avatar/b7a96b3d5b5cfed5228396104cd67b38?s=600&r=g"
 googleAnalytics = "UA-70650-74"
-
+ga_id = "UA-70650-74"
 
 fullRSS = true
 nofeedSections = ["page", "posts", "links"]
 mainSections = ["post"]
 images = ['https://harper.blog/images/og.png']
 default_social_image = "https://harper.blog/images/og.png"
-social_image_gen = false
 generateSocialCard = true
 notes_pagination = 10
-themeStyle = "harper"
 links_pagination = 20
+themeStyle = "harper"
 customcss = [
     "/css/bsky_comments.css",
     "/css/notes.css",
@@ -48,7 +45,3 @@ name = "harperreed.com"
 icon = "fas fa-link"
 url = "http://harper.lol"
 twitter = 'harper'
-
-
-[[plugins.js]]
-link = "plugins/lazy-loader.js"
