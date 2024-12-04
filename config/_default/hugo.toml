@@ -13,7 +13,7 @@ timeZone = "America/Chicago"
 
 
 [services.rss]
-limit = 20 # Or any other number
+limit = 20 # Limits the number of items in RSS feed to prevent excessive bandwidth usage
 
 [pagination]
 pagerSize = "6"
