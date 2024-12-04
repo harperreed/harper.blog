@@ -1,124 +1,122 @@
 .comment {
-    padding: 10px 0;
+	padding: 10px 0;
 }
 .author {
-    font-weight: bold;
+	font-weight: bold;
 }
 .avatar {
-    width: 24px;
-    height: 24px;
-    border-radius: 50%;
-    vertical-align: middle;
-    margin-right: 8px;
+	width: 24px;
+	height: 24px;
+	border-radius: 50%;
+	vertical-align: middle;
+	margin-right: 8px;
 }
 .nested-replies {
-    margin-left: 20px;
-    padding-left: 10px;
+	margin-left: 20px;
+	padding-left: 10px;
 }
 .actions {
-    font-size: 12px;
-    color: var(--color-primary);
+	font-size: 12px;
+	color: var(--color-primary);
 }
 .nested-replies .comment {
-    margin-bottom: 0;
+	margin-bottom: 0;
 }
 
 :root {
-    --font-system: system-ui, -apple-system, sans-serif;
+	--font-system: system-ui, -apple-system, sans-serif;
 }
 
 .bsky-comments-container {
-    max-width: 100%;
-    margin: 1rem 0;
-    font-family: var(--font-system);
+	max-width: 100%;
+	margin: 1rem 0;
+	font-family: var(--font-system);
 }
 
 /* Metadata styling */
 .bsky-meta {
-    margin: 1rem 0;
-    font-size: 0.9rem;
-    color: var(--color-primary);
+	margin: 1rem 0;
+	font-size: 0.9rem;
+	color: var(--color-primary);
 }
 
 .bsky-meta a {
-    color: var(--color-primary);
-    text-decoration: none;
+	color: var(--color-primary);
+	text-decoration: none;
 }
 
 .bsky-meta a:hover {
-    text-decoration: underline;
+	text-decoration: underline;
 }
 
 /* Individual comment styling */
 .bsky-comment {
-    padding: 1rem 0;
-    border-bottom: 1px solid var(--color-tertiary);;
+	padding: 1rem 0;
+	border-bottom: 1px solid var(--color-tertiary);
 }
 
 .bsky-comment:last-child {
-    border-bottom: none;
+	border-bottom: none;
 }
 
 /* Author section */
 .bsky-author {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    margin-bottom: 0.5rem;
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+	margin-bottom: 0.5rem;
 }
 
 .bsky-avatar {
-    width: 24px;
-    height: 24px;
-    border-radius: 50%;
-    object-fit: cover;
+	width: 24px;
+	height: 24px;
+	border-radius: 50%;
+	object-fit: cover;
 }
 
 .bsky-author a {
-    color: var(--color-primary);;
-    text-decoration: none;
-    font-weight: 500;
+	color: var(--color-primary);
+	text-decoration: none;
+	font-weight: 500;
 }
 
 .bsky-author a:hover {
-    text-decoration: underline;
+	text-decoration: underline;
 }
 
 .bsky-handle {
-    color: var(--color-primary);
-    font-size: 0.9rem;
+	color: var(--color-primary);
+	font-size: 0.9rem;
 }
 
 /* Comment content */
 .bsky-content {
-    margin: 0.5rem 0;
-    line-height: 1.5;
-    word-wrap: break-word;
+	margin: 0.5rem 0;
+	line-height: 1.5;
+	word-wrap: break-word;
 }
 
 /* Actions section */
 .bsky-actions {
-    margin-top: 0.5rem;
-    font-size: 0.9rem;
-    color: var(--color-primary);
+	margin-top: 0.5rem;
+	font-size: 0.9rem;
+	color: var(--color-primary);
 }
 
 /* Nested replies */
 .bsky-nested-replies {
-    margin-left: 2rem;
-    border-left: 2px solid var(--color-tertiary);;
-    padding-left: 1rem;
+	margin-left: 2rem;
+	border-left: 2px solid var(--color-tertiary);
+	padding-left: 1rem;
 }
 
 /* Additional elements */
 
-
 /* Error states */
 .bsky-error {
-    color: #dc2626;
-    padding: 1rem;
-    background-color: #fef2f2;
-    border-radius: 4px;
-    margin: 1rem 0;
+	color: #dc2626;
+	padding: 1rem;
+	background-color: #fef2f2;
+	border-radius: 4px;
+	margin: 1rem 0;
 }
-
