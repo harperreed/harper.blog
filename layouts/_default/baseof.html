@@ -1,7 +1,6 @@
 <!doctype html>
 <html
     lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}"
-    class="{{ partialCached "theme-chooser.html" . }}"
 >
     <head>
         <meta charset="utf-8" />
@@ -14,10 +13,6 @@
 
         {{- partial "seo_tags.html" . -}}
         <meta name="referrer" content="no-referrer-when-downgrade" />
-
-        {{ $style := print "css/" (default "original" .Site.Params.themeStyle) ".css" |
-        resources.Get | minify  | resources.Fingerprint "sha512"  }}
-        <link href="{{ $style.RelPermalink }}" rel="stylesheet"  integrity="{{ $style.Data.Integrity }}" />
 
         {{ with .Site.Params.customcss }}
             {{- range . -}}
