@@ -25,7 +25,7 @@
     <li>{{ i18n "no-posts" }}</li>
     {{ end }}
 </ul>
-<a href="/posts">{{ i18n "morePosts" | default "More Posts" }}</a>
+<a href="/posts" aria-label="More Posts">{{ i18n "morePosts" | default "More Posts" }}</a>
 
 <h2>{{ i18n "notes" | default "Notes" }}</h2>
 <ul class="blog-posts">
@@ -46,6 +46,6 @@
     <li>{{ i18n "no-posts" }}</li>
     {{ end }}
 </ul>
-<a href="/notes">{{ i18n "moreNotes" | default "More Notes" }}</a>
+<a href="/notes" aria-label="More Notes">{{ i18n "moreNotes" | default "More Notes" }}</a>
 
 {{ end }}
