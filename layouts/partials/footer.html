@@ -8,6 +8,12 @@
         >{{ i18n "copyright" | default "Copyright" }} &copy; {{
         .Site.Params.Name }}</nobr
     >
+
+    <br />
+    <nobr
+        >{{ i18n "generated" | default "Generated" }} {{ i18n "on" | default
+        "on" }} {{ now.Format "Jan 2, 2006" }}</nobr
+    >
     <br />
     <nobr
         >{{ i18n "sendMeAn" | default "Send me an" }}
@@ -16,10 +22,5 @@
             aria-label="Send email to {{ .Site.Params.Name }}"
             >{{ i18n "email" | default "email" }}</a
         ></nobr
-    >
-    <br />
-    <nobr
-        >{{ i18n "generated" | default "Generated" }} {{ i18n "on" | default
-        "on" }} {{ now.Format "Jan 2, 2006" }}</nobr
     >
 </p>
