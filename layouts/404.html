@@ -4,7 +4,7 @@
 <h3>{{ i18n "404text" | default "Page not found" }}</h3>
 
 <p>
-    Maybe go check out the <a href="/posts">posts</a>,
-    <a href="/notes">notes</a>, or the <a href="/links">links</a>.
+    Maybe go check out the <a href="{{ "/posts" | relLangURL }}">posts</a>,
+    <a href="{{ "/notes" | relLangURL }}">notes</a>, or the <a href="{{ "/links" | relLangURL }}">links</a>.
 </p>
 {{ end }}
