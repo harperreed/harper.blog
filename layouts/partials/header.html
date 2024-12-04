@@ -1,8 +1,9 @@
-<a class="skip-link" href="#main-content">{{ i18n "skip-link" }}</a>
+<a class="skip-link" href="#main-content" aria-label="Skip to main content">{{ i18n "skip-link" }}</a>
 <a
     href="{{ relURL .Site.Home.RelPermalink }}"
     class="title"
     style="display: flex; align-items: center"
+    aria-label="Home"
 >
     <img
         src="{{ .Site.Params.avatar }}"
