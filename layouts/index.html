@@ -12,7 +12,7 @@
                     .Site.Params.dateFormat) }}
                 </time>
             </i>
-        </span>
+    </li>span>
         {{ if .Params.link }}
         <a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer"
             >{{ .Title }} ↪</a
@@ -25,7 +25,7 @@
     <li>{{ i18n "no-posts" }}</li>
     {{ end }}
 </ul>
-<a href="/posts">{{ i18n "morePosts" | default "More Posts" }}</a>
+<a href="/posts" aria-label="More Posts">{{ i18n "morePosts" | default "More Posts" }}</a>
 
 <h2>{{ i18n "notes" | default "Notes" }}</h2>
 <ul class="blog-posts">
@@ -34,18 +34,18 @@
     <li>
         <span>
             <i>
-                <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+                <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate></time>
                     {{ .Date.Format (default "2006-01-02"
                     .Site.Params.dateFormat) }}
                 </time>
-            </i>
-        </span>
+        </span>i>
+    </li>span>
         <a href="{{ .RelPermalink }}">{{ .Description | default .Title }}</a>
     </li>
     {{ else }}
     <li>{{ i18n "no-posts" }}</li>
     {{ end }}
 </ul>
-<a href="/notes">{{ i18n "moreNotes" | default "More Notes" }}</a>
+<a href="/notes" aria-label="More Notes">{{ i18n "moreNotes" | default "More Notes" }}</a>
 
 {{ end }}
