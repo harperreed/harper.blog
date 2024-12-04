@@ -28,7 +28,7 @@
                     <span></span>
                     {{ end }} 
                     {{ if .Params.original_url }}
-                    <a href="{{ .Params.original_url }}" target="_blank">{{ .Title }}</a>
+                    <a href="{{ .Params.original_url }}" target="_blank" rel="noopener noreferrer">{{ .Title }}</a>
                     {{ else }}
                     {{ .Title }}
                     {{ end }}

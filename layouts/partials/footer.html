@@ -1,7 +1,8 @@
 <p>
-    {{ range .Site.Menus.footer }}
-
-    <a href="{{ .URL }}">{{ .Name }}</a> &middot; {{ end }}
+    {{ $menuItems := .Site.Menus.footer }}
+    {{ range $index, $item := $menuItems }}
+    <a href="{{ .URL }}">{{ .Name }}</a>{{ if ne (add $index 1) (len $menuItems) }} &middot; {{ end }}
+    {{ end }}
     <nobr
         >{{ i18n "copyright" | default "Copyright" }} &copy; {{
         .Site.Params.Name }}</nobr
