@@ -1,33 +1,28 @@
 
-ga_id = "UA-70650-74"
+
 description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
-darkmode = false
 subtitle = "Musing from a normal person doing normal things"
-cachebuster = "harper rules"
 name = "Harper Reed"
 
 email = "harper@modest.com"
 avatar = "https://s.gravatar.com/avatar/b7a96b3d5b5cfed5228396104cd67b38?s=600&r=g"
 googleAnalytics = "UA-70650-74"
+ga_id = "UA-70650-74"
 
-favicon = false
-wordCount = false
-homepage = false
-readingTime = false
 fullRSS = true
 nofeedSections = ["page", "posts", "links"]
 mainSections = ["post"]
 images = ['https://harper.blog/images/og.png']
 default_social_image = "https://harper.blog/images/og.png"
-social_image_gen = false
+generateSocialCard = true
+# Number of items to show per page in notes section
 notes_pagination = 10
+# Number of items to show per page in links section
 links_pagination = 20
-customcss = [
-    "css/notes.css",
-    "css/outofdate.css",
-    "css/now.css",
-    "css/links.css",
-]
+themeStyle = "harper"
+customcss = ["/css/bsky_comments.css", "/css/outofdate.css", "syntax.css"]
+
+customjs = ["/js/bluesky_comments.js", "/js/theme.js"]
 
 [author]
 name = "Harper Reed"
@@ -48,7 +43,3 @@ name = "harperreed.com"
 icon = "fas fa-link"
 url = "http://harper.lol"
 twitter = 'harper'
-
-
-[[plugins.js]]
-link = "plugins/lazy-loader.js"

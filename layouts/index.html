@@ -1,76 +1,51 @@
-{{- define "main" }} {{ .Content }}
+{{ define "main" }} {{ .Content }}
 
-<h2>Recent Notes</h2>
-
-<div class="note-grid">
-    {{ $notes := first 3 (where .Site.RegularPages "Section" "notes") }} {{
-    range $notes }}
-    <div class="note-column">
-        <article class="note-entry">
-            {{- $postLink := .RelPermalink }}
-            <a href="{{ $postLink }}" class="note-link">
-                {{- with .Resources.ByType "image" }} {{- range first 1 . }} {{-
-                $thumbnail := .Fill "300x200 Smart" }}
-                <img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Title }}" />
-                {{- end }} {{- end }}
-                <div class="note-content">
-                    <div class="note-summary">
-                        <p>{{ .Summary | truncate 120 }}</p>
-                    </div>
-                    <div class="note-date">
-                        <p>Posted on {{ .Date.Format "January 2, 2006" }}</p>
-                    </div>
-                </div>
-            </a>
-        </article>
-    </div>
+<h2>{{ i18n "posts" | default "Posts" }}</h2>
+<ul class="blog-posts">
+    {{ $notes := first 5 (where .Site.RegularPages "Section" "post") }} {{ range
+    $notes }}
+    <li>
+        <span>
+            <i>
+                <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+                    {{ .Date.Format (default "2006-01-02"
+                    .Site.Params.dateFormat) }}
+                </time>
+            </i>
+        </span>
+        {{ if .Params.link }}
+        <a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer"
+            >{{ .Title }} ↪</a
+        >
+        {{ else }}
+        <a href="{{ .RelPermalink }}" title="{{.Summary}}">{{ .Title }}</a>
+        {{ end }}
+    </li>
+    {{ else }}
+    <li>{{ i18n "no-posts" }}</li>
     {{ end }}
-</div>
+</ul>
+<a href="/posts">{{ i18n "morePosts" | default "More Posts" }}</a>
 
-<p><a href="/notes" class="button">View all notes</a></p>
+<h2>{{ i18n "notes" | default "Notes" }}</h2>
+<ul class="blog-posts">
+    {{ $notes := first 5 (where .Site.RegularPages "Section" "notes") }} {{
+    range $notes }}
+    <li>
+        <span>
+            <i>
+                <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+                    {{ .Date.Format (default "2006-01-02"
+                    .Site.Params.dateFormat) }}
+                </time>
+            </i>
+        </span>
+        <a href="{{ .RelPermalink }}">{{ .Description | default .Title }}</a>
+    </li>
+    {{ else }}
+    <li>{{ i18n "no-posts" }}</li>
+    {{ end }}
+</ul>
+<a href="/notes">{{ i18n "moreNotes" | default "More Notes" }}</a>
 
-<h2>Recent Posts</h2>
-<div class="recent-posts">
-    <div class="posts">
-        {{- $pages := where .Site.RegularPages "Section" "in"
-        .Site.Params.mainSections }} {{- $paginator := .Paginate (where $pages
-        "Params.hidden" "ne" true) }} {{- range $paginator.Pages }}
-        <div class="post">
-            <div class="post-header">
-                <div class="meta">
-                    <div class="date">
-                        <span class="day">{{ dateFormat "02" .Date }}</span>
-                        <span class="rest"
-                            >{{ if $.Site.Data.month }}{{ index
-                            $.Site.Data.month (printf "%d" .Date.Month) }} {{
-                            .Date.Year }}{{ else }}{{ dateFormat "Jan 2006"
-                            .Date }}{{ end }}</span
-                        >
-                    </div>
-                </div>
-                <div class="matter">
-                    <article>
-                        <h3 class="title small">
-                            <a href="{{ .RelPermalink }}"
-                                >{{.Title}}{{partial "post_label.html" (dict
-                                "post" .)}}</a
-                            >
-                        </h3>
-                        {{- if not .Params.hidemeta }}
-                        <p class="post-meta">
-                            {{ partial "post_meta.html" . }}
-                        </p>
-                        {{- end }}
-                        <p class="description">
-                            {{ if isset .Params "description" }}{{ .Description
-                            }}{{ else }}{{ .Plain | htmlUnescape | safeHTML |
-                            truncate 140 }}{{ end }}
-                        </p>
-                    </article>
-                </div>
-            </div>
-        </div>
-        {{- end }} {{- partial "paginator.html" . }}
-    </div>
-</div>
-{{- end }}
+{{ end }}

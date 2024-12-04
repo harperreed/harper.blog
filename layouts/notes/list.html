@@ -1,61 +1,46 @@
-{{- define "main" }}
-<h1 class="page-title">Notes</h1>
+{{ define "main" }}
+<content>
+    {{ .Content }} {{ if .Data.Singular }}
+    <p class="filter-notice">{{ i18n "filtering-for" }} "{{ .Title }}"</p>
+    {{ end }}
+    <div class="notes">
+        {{ $paginator := .Paginate .Pages (.Param "notes_pagination" | default
+        2) }}
+        <!-- {{ $paginator := .Paginate .Pages .Site.Params.notes_pagination }} -->
+        {{ range $paginator.Pages }}
+        <article class="post">
+            <header>
+                <time datetime='{{ .Date.Format "2006-01-02" }}'>
+                    {{ .Date.Format "Jan 02, 2006" }}
+                </time>
+                 <a href="{{ .RelPermalink }}" title="Permalink to this note">#</a>
+            </header>
+            {{ if .Params.text }} {{ .Params.text | markdownify }} {{ else }} {{
+            .Content }} {{ end }} {{ with .Resources.ByType "image" }}
+            <div class="note-images">
+                {{ range . }} {{ $thumbnail := .Resize "600x" }}
+                <img
+                    src="{{ $thumbnail.RelPermalink }}"
+                    alt="{{ .Title }}"
+                    loading="lazy"
+                />
+                {{ end }}
+            </div>
+            {{ end }}
 
-<div class="notes-desc">{{ .Content }}</div>
-<ul class="posts flat">
-    {{- $paginator := .Paginate .Data.Pages .Site.Params.notes_pagination }} {{-
-    $.Scratch.Set "lastDate" "" }} {{- range $paginator.Pages }} {{- if (not (in
-    .Site.Params.excludedTypes .Type)) }}
-    <li class="post">
-        <div class="post-header">
-            {{- $currentDate := .Date.Format "2006-01-02" }} {{- $lastDate :=
-            $.Scratch.Get "lastDate" }} {{- if ne $currentDate $lastDate }}
-            <div class="meta">
-                <div class="date">
-                    <span class="day">{{ dateFormat "02" .Date }}</span>
-                    <span class="rest">
-                        {{- if $.Site.Data.month }} {{ index $.Site.Data.month
-                        (printf "%d" .Date.Month) }} {{ .Date.Year }} {{- else
-                        }} {{ dateFormat "Jan 2006" .Date }} {{- end }}
-                    </span>
-                </div>
+            <div>
+                {{ if .Params.tags }} {{ range .Params.tags }}
+                <a href="/tags/{{ . }}">#{{ . }}</a>
+                {{ end }} {{ end }}
             </div>
-            {{- $.Scratch.Set "lastDate" $currentDate }} {{ else }}
-            <div class="meta">
-                <div class="date">
-                    <span class="day"></span>
-                    <span class="rest"> </span>
-                </div>
-            </div>
-            {{- end }}
 
-            <div class="matter" style="border-bottom: 2px dashed #ddd">
-                <article>
-                    <!-- <h3 class="title small">{{.Title}}</h3> -->
-                    <div class="note-content">{{ .Content }}</div>
-                    {{- $postLink := .RelPermalink }} {{- with .Resources.ByType
-                    "image" }}
-                    <div class="note-images">
-                        {{- range . }} {{- $thumbnail := .Resize "600x" }}
-                        <a href="{{ $postLink }}" target="_blank">
-                            <img
-                                src="{{ $thumbnail.RelPermalink }}"
-                                alt="{{ .Title }}"
-                            />
-                        </a>
-                        {{- end }}
-                    </div>
-                    {{- end }}
-                    <a
-                        href="{{ .RelPermalink }}"
-                        class="note-permalink"
-                        title="Permalink to this note"
-                        >#</a
-                    >
-                </article>
-            </div>
-        </div>
-    </li>
-    {{- end }} {{- end }}
-</ul>
-{{- partial "paginator.html" . }} {{- end }}
+            <hr />
+        </article>
+        {{ else }}
+        <p>{{ i18n "no-posts" | default "No posts yet." }}</p>
+        {{ end }}
+    </div>
+
+    {{ partial "pagination.html" . }}
+</content>
+{{ end }}

@@ -1,0 +1,10 @@
+{{ define "title" }}404{{ end }} {{ define "main" }}
+<h1>{{ i18n "404title" | default "404" }}</h1>
+<h2>ʕノ•ᴥ•ʔノ ︵ ┻━┻</h2>
+<h3>{{ i18n "404text" | default "Page not found" }}</h3>
+
+<p>
+    Maybe go check out the <a href="{{ "/posts" | relLangURL }}">posts</a>,
+    <a href="{{ "/notes" | relLangURL }}">notes</a>, or the <a href="{{ "/links" | relLangURL }}">links</a>.
+</p>
+{{ end }}
