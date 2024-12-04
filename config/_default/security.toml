@@ -1,5 +1,0 @@
-[security]
-contentSecurityPolicy = """
-default-src 'self';
-connect-src 'self' https://bsky.social;
-"""
