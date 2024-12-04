@@ -7,7 +7,7 @@ nofeed: true
 
 My name is Harper Reed, and this is my blog. If you want to know more about me, visit my website: [harper.lol](https://harper.lol).
 
-Here you will find longer form [blog posts](/posts), and some short form [notes](/notes).
+Here you will find longer form [blog posts](/posts), some short form [notes](/notes), and occasionally some [links](/links) I find interesting.
 
 I typically post about hacks I am building, general thoughts on technology, and some snaps of friends.
 
