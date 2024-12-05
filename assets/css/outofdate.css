@@ -1,8 +1,7 @@
 .outofdate-warning {
-	margin-top: 10px;
-	border: 1px dashed var(--color-secondary);
-	font-size: 1rem;
-	background: var(--color-tertiary);
-	padding-left: 10px;
-	padding-right: 10px;
+    margin-top: var(--margin);
+    border: 1px dashed var(--color-secondary);
+    background: var(--color-tertiary);
+    padding-left: var(--margin);
+    padding-right: var(--margin);
 }
