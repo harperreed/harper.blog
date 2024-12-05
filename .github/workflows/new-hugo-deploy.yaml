@@ -71,14 +71,6 @@ jobs:
               with:
                   fetch-depth: 1
 
-            - name: Restore Dependencies
-              uses: actions/cache@v3
-              with:
-                  path: |
-                      node_modules
-                      ~/.npm
-                  key: ${{ needs.prepare.outputs.cache-key }}-deps
-
             - name: Restore Hugo Cache
               uses: actions/cache@v3
               with:
