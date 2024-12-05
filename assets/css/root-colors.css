@@ -1,0 +1,51 @@
+/* Light mode (default) */
+:root {
+    --color-dark: #222;
+    --color-light: #fafafa;
+    --color-primary: #222;
+    --color-secondary: #1a8fe3;
+    --color-tertiary: #efefef;
+    --color-error: #eba613;
+    --color-link: #1a8fe3;
+    --color-link-visited: #097ed2;
+    --color-link-hover: #181a20;
+    --color-code-fg: #fafafa;
+    --color-code-bg: #222;
+
+    /* Sizing */
+    --size: 1rem;
+    --margin: calc(var(--size) * 0.8);
+    --margin-big: calc(var(--size) * 1.5);
+    --padding-body: calc(var(--size) * 1.25);
+    --spacing: calc(var(--size) * 2.4);
+    --size-width: 720px;
+    --title-font-size: 24px;
+
+    /* Typography */
+    --font-family-base: Verdana, sans-serif;
+    --font-size-base: 1rem;
+    --line-height-base: 1.5;
+
+    /* Borders */
+    --border-radius-sm: 3px;
+    --border-radius-base: 5px;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color-dark: #fafafa;
+        --color-light: #222;
+        --color-primary: #fafafa;
+        --color-secondary: #3aa0f3;
+        --color-tertiary: #2a2a2a;
+        --color-error: #ffc107;
+        --color-link: #3aa0f3;
+        --color-link-visited: #2b93e6;
+        --color-link-hover: #e0e0e0;
+        --color-code-fg: #222;
+        --color-code-bg: #fafafa;
+
+        /* Keep the rest of the variables the same since they're not color-related */
+    }
+}
