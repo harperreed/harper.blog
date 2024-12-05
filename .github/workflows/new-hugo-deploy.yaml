@@ -1,0 +1,219 @@
+name: Hugo Build and Deploy
+
+on:
+  workflow_dispatch:
+  # push:
+  #   branches:
+  #     - main
+  #   paths:
+  #     - "content/**"
+  #     - "layouts/**"
+  #     - "static/**"
+  #     - "config/**"
+  #     - "data/**"
+  #     - "assets/**"
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    outputs:
+      cache-key: ${{ steps.cache-key.outputs.value }}
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - id: cache-key
+        run: |
+          echo "value=${{ runner.os }}-${{ hashFiles('**/package-lock.json', '**/go.sum', '**/go.mod') }}" >> $GITHUB_OUTPUT
+
+  setup-dependencies:
+    needs: prepare
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20.x"
+          cache: "npm"
+          cache-dependency-path: "**/package-lock.json"
+
+      - name: Install Dependencies
+        run: |
+          npm cache clean --force
+          npm ci --prefer-offline --no-audit
+          npm cache verify
+        env:
+          CI: true
+        timeout-minutes: 10
+
+      - name: Cache Dependencies
+        uses: actions/cache@v3
+        with:
+          path: |
+            node_modules
+            ~/.npm
+          key: ${{ needs.prepare.outputs.cache-key }}-deps
+          restore-keys: |
+            ${{ needs.prepare.outputs.cache-key }}-deps-
+
+  setup-hugo:
+    needs: prepare
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.136.4"
+          extended: true
+
+      - name: Cache Hugo modules
+        uses: actions/cache@v3
+        with:
+          path: |
+            /tmp/hugo_cache
+            ~/.cache/go-build
+            ~/go/pkg/mod
+            /tmp/hugo_resources
+          key: ${{ needs.prepare.outputs.cache-key }}-hugo
+          restore-keys: |
+            ${{ needs.prepare.outputs.cache-key }}-hugo-
+
+  build:
+    needs: [setup-dependencies, setup-hugo]
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20.x"
+          cache: "npm"
+          cache-dependency-path: "**/package-lock.json"
+
+      - name: Restore Dependencies
+        uses: actions/cache@v3
+        with:
+          path: |
+            node_modules
+            ~/.npm
+          key: ${{ needs.prepare.outputs.cache-key }}-deps
+
+      - name: Restore Hugo Cache
+        uses: actions/cache@v3
+        with:
+          path: |
+            /tmp/hugo_cache
+            ~/.cache/go-build
+            ~/go/pkg/mod
+            /tmp/hugo_resources
+          key: ${{ needs.prepare.outputs.cache-key }}-hugo
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.136.4"
+          extended: true
+
+      - name: Build Hugo Site
+        run: |
+          export NODE_OPTIONS="--max_old_space_size=4096"
+
+          echo "Starting Hugo build..."
+          hugo --minify --templateMetrics --templateMetricsHints --gc --logLevel info
+          BUILD_EXIT_CODE=$?
+
+          if [ $BUILD_EXIT_CODE -ne 0 ]; then
+            echo "First build attempt failed, cleaning and retrying..."
+            rm -rf public/ resources/
+
+            hugo --cleanDestinationDir --minify --templateMetrics --templateMetricsHints --gc --logLevel info
+            BUILD_EXIT_CODE=$?
+
+            if [ $BUILD_EXIT_CODE -ne 0 ]; then
+              echo "Build failed after retry"
+              exit $BUILD_EXIT_CODE
+            fi
+          fi
+        env:
+          HUGO_CACHEDIR: /tmp/hugo_cache
+          HUGO_RESOURCEDIR: /tmp/hugo_resources
+          HUGO_NUMWORKERMULTIPLIER: 2
+
+      - name: Upload Build Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: hugo-build
+          path: public/
+          retention-days: 1
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment: production
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - name: Download Build Artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: hugo-build
+          path: public/
+
+      - name: Deploy to Firebase
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        id: deploy
+        continue-on-error: true
+        with:
+          repoToken: "${{ secrets.GITHUB_TOKEN }}"
+          firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT_HARPER_PHOTOS_4C4B3 }}"
+          channelId: live
+          projectId: harper-photos-4c4b3
+        timeout-minutes: 10
+
+      - name: Retry Deploy if Failed
+        if: steps.deploy.outcome == 'failure'
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: "${{ secrets.GITHUB_TOKEN }}"
+          firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT_HARPER_PHOTOS_4C4B3 }}"
+          channelId: live
+          projectId: harper-photos-4c4b3
+        timeout-minutes: 10
+
+  cleanup:
+    if: always()
+    needs: [deploy]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete Build Artifact
+        uses: geekyeggo/delete-artifact@v2
+        with:
+          name: hugo-build
