@@ -1,0 +1,94 @@
+{{ $images := $.Resources.ByType "image" }}
+{{ $featured := $images.GetMatch "*feature*" }}
+{{ $textColor := "#FFF" }}
+{{ $textSubColor := "#808080" }}
+
+{{ $name := "Harper Reed" }}
+{{ $email := "harper@modest.com" }}
+
+
+{{ if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end }}
+{{ if not $featured }}
+    {{ $featured = resources.Get "images/social_card_bg_harper.png" }}
+    {{ $size := 80 }}
+    {{ $title := $.LinkTitle }}
+    
+    {{ $maxWidth := 1000 }}
+    {{ $charPerLine := div $maxWidth (div $size 1.5) }}
+    {{ $words := split $title " " }}
+    {{ $lines := slice }}
+    {{ $currentLine := slice }}
+    {{ $currentLength := 0 }}
+    
+    {{ range $words }}
+        {{ $wordLen := len . }}
+        {{ if gt (add $currentLength $wordLen) $charPerLine }}
+            {{ $lines = $lines | append (delimit $currentLine " ") }}
+            {{ $currentLine = slice . }}
+            {{ $currentLength = $wordLen }}
+        {{ else }}
+            {{ $currentLine = $currentLine | append . }}
+            {{ $currentLength = add $currentLength (add $wordLen 1) }}
+        {{ end }}
+    {{ end }}
+    {{ if len $currentLine }}
+        {{ $lines = $lines | append (delimit $currentLine " ") }}
+    {{ end }}
+    
+    {{ $font := resources.Get "fonts/mulish-black.ttf" }}
+    {{ if not $font }}
+        {{ $font = resources.Get "fonts/Mulish-Black.ttf" }}
+    {{ end }}
+    
+    {{ $regularFont := resources.Get "fonts/mulish-regular.ttf" }}
+    {{ if not $regularFont }}
+        {{ $regularFont = resources.Get "fonts/Mulish-Regular.ttf" }}
+    {{ end }}
+    
+    {{ $featured = $featured }}
+    {{ $lastYPos := 80 }}
+    {{ range $index, $line := $lines }}
+        {{ $yPos := add 80 (mul $index (add $size 10)) }}
+        {{ $lastYPos = $yPos }}
+        {{ $textOptions := dict 
+            "color" $textColor
+            "size" $size
+            "x" 65 
+            "y" $yPos
+            "font" $font
+        }}
+        {{ $featured = $featured | images.Filter (images.Text $line $textOptions) }}
+    {{ end }}
+    
+    {{ if $regularFont }}
+        {{ $dateYPos := add $lastYPos (add $size 20) }}
+        {{ $dateOptions := dict
+            "color" $textSubColor
+            "size" 32
+            "x" 65 
+            "y" $dateYPos
+            "font" $regularFont
+        }}
+        
+        {{ $footerOptions := dict
+            "color" "#FFF"
+            "size" 48
+            "x" 65 
+            "y" 500
+            "font" $font
+        }}
+        
+        {{ $emailOptions := dict
+            "color" "#808080"
+            "size" 36
+            "x" 65 
+            "y" 560
+            "font" $regularFont
+        }}
+        
+        {{ $featured = $featured | images.Filter (images.Text ($.Date.Format "January 2, 2006") $dateOptions) }}
+        {{ $featured = $featured | images.Filter (images.Text $name $footerOptions) }}
+        {{ $featured = $featured | images.Filter (images.Text $email $emailOptions) }}
+    {{ end }}
+{{ end }}
+{{ return $featured }}
