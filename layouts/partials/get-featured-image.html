@@ -3,8 +3,8 @@
 {{ $textColor := "#FFF" }}
 {{ $textSubColor := "#808080" }}
 
-{{ $name := "Harper Reed" }}
-{{ $email := "harper@modest.com" }}
+{{ $name := .Site.Params.author.name }}
+{{ $email := .Site.Params.author.email }}
 
 
 {{ if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end }}
@@ -45,7 +45,6 @@
         {{ $regularFont = resources.Get "fonts/Mulish-Regular.ttf" }}
     {{ end }}
     
-    {{ $featured = $featured }}
     {{ $lastYPos := 80 }}
     {{ range $index, $line := $lines }}
         {{ $yPos := add 80 (mul $index (add $size 10)) }}
