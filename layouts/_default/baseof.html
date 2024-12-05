@@ -1,6 +1,7 @@
 <!doctype html>
 <html
     lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}"
+    class="theme-light"
 >
     <head>
         <meta charset="utf-8" />
@@ -14,28 +15,24 @@
         {{- partial "seo_tags.html" . -}}
         <meta name="referrer" content="no-referrer-when-downgrade" />
 
-        {{ with .Site.Params.customcss }}
-            {{- range . -}}
-                {{ $customStyle := resources.Get . }}
-                {{ $minStyle := $customStyle | minify | resources.Fingerprint "sha512" }}
-                <link href="{{ $minStyle.RelPermalink }}" integrity="{{ $minStyle.Data.Inistry }}" rel="stylesheet">
-            {{- end -}}
-        {{ end }}
-
-        
-        {{ with .Site.Params.customjs }}
-            {{- range . -}}
-                {{ $customJS := resources.Get . }}
-                {{ $minJS := $customJS | resources.Fingerprint "sha512" }}
-                <script src="{{ $minJS.RelPermalink }}" integrity="{{ $minJS.Data.Integrity }}"></script>
-            {{- end -}}
-        {{ end }}
-        
-        
-        {{ with .OutputFormats.Get "rss" -}} 
-        {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }} 
-        {{ end -}}
-
+        {{ with .Site.Params.customcss }} {{- range . -}} {{ $customStyle :=
+        resources.Get . }} {{ $minStyle := $customStyle | minify |
+        resources.Fingerprint "sha512" }}
+        <link
+            href="{{ $minStyle.RelPermalink }}"
+            integrity="{{ $minStyle.Data.Inistry }}"
+            rel="stylesheet"
+        />
+        {{- end -}} {{ end }} {{ with .Site.Params.customjs }} {{- range . -}}
+        {{ $customJS := resources.Get . }} {{ $minJS := $customJS |
+        resources.Fingerprint "sha512" }}
+        <script
+            src="{{ $minJS.RelPermalink }}"
+            integrity="{{ $minJS.Data.Integrity }}"
+        ></script>
+        {{- end -}} {{ end }} {{ with .OutputFormats.Get "rss" -}} {{ printf `
+        <link rel="%s" type="%s" href="%s" title="%s" />
+        ` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }} {{ end -}}
         {{- partial "custom_head.html" . -}}
     </head>
 
