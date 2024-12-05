@@ -1,44 +1,4 @@
-<!-- Dynamic social card generation -->
-{{ $font := resources.GetRemote "https://github.com/google/fonts/raw/main/ofl/firamono/FiraMono-Bold.ttf" }}
-{{ $fg := resources.Get "images/social_card_fg.png"}}
-{{ $bg := resources.Get "images/social_card_bg.png"}}
-
-{{ if gt (len .Title) 45 }}
-  {{ $fg = $fg.Filter (images.Text .Title (dict
-    "font" $font
-    "color" "#fafafa"
-    "size" 95
-    "linespacing" 16
-    "x" 0
-    "y" 0
-  )) }}
-{{ else }}
-  {{ $fg = $fg.Filter (images.Text .Title (dict
-    "font" $font
-    "color" "#fafafa"
-    "size" 130
-    "linespacing" 20
-    "x" 0
-    "y" 0
-  )) }}
-{{ end }}
-{{$.Site.Params.author.name}}
-
-{{ $date := .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
-{{ $author := $.Site.Params.author.name }}
-{{ $byline := (printf "%s | %s" $author $date) }}
-
-{{ $fg = $fg.Filter (images.Text $byline (dict
-    "font" $font
-    "color" "#898a8d"
-    "size" 60
-    "linespacing" 30
-    "x" 0
-    "y" 425
-)) }}
-
-{{ $card := $bg.Filter (images.Overlay $fg 112 140 ) }}
-{{ $card := $card.Resize "900x webp q100" }}
+{{- $card := partial "get-featured-image.html" . }}
 
 <!-- Open Graph / Facebook -->
 <!-- Source: https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/opengraph.html -->
