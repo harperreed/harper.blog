@@ -62,10 +62,14 @@ def generate_unique_slug(title, date_str, url):
     return f"{date_str}-{base_slug}-{url_hash}"
 
 def create_hugo_post(entry):
-    if True:
+    try:
+
         title = entry.title
         date = entry.get('published', entry.get('updated', datetime.now().isoformat()))
         url = entry.link
+        if not title or not date or not url:
+            print(f"Skipping invalid entry: {title}, {url}")
+            return False
         
         slug = generate_unique_slug(title, date, url)
         file_path = os.path.join(HUGO_CONTENT_DIR, f"{slug}.md")
@@ -74,9 +78,10 @@ def create_hugo_post(entry):
             print(f"Skipping existing entry: {title}")
             return False
         else:
-            print(f"Creating post for: {title}")
+            print(f"Creating post for: {title}, {url}")
 
         scraped_content = scrape_url(url)
+     
         if scraped_content:
             tags = get_tags_summary(title, scraped_content)
         else:
@@ -102,8 +107,7 @@ def create_hugo_post(entry):
         
         print(f"Created post: {file_path}")
         return True
-    try:
-        pass
+ 
     except Exception as e:
         print(f"Error creating post for '{title}': {e}")
         return False
@@ -113,7 +117,7 @@ def get_tags_summary(title, content):
 
     if not title or not content:
         logging.warning("Empty title or content provided")
-        return Tags(tags=[])
+        return Tags(tags=[], summary=None)
 
     # Truncate content to avoid token limits while preserving meaning
     max_content_len = 1000
