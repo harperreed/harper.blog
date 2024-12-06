@@ -14,7 +14,7 @@ nofeedSections = ["page", "posts", "links"]
 mainSections = ["post"]
 images = ['https://harper.blog/images/og.png']
 default_social_image = "https://harper.blog/images/og.png"
-generateSocialCard = true
+generateSocialCard = false
 # Number of items to show per page in notes section
 notes_pagination = 10
 # Number of items to show per page in links section
