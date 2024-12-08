@@ -18,5 +18,7 @@
 <link href="https://gravatar.com/harperreeed" rel="me" />
 <link href="harper@modest.com" rel="me" />
 <link href="harper@nata2.org" rel="me" />
-<link rel="token_endpoint" href="https://tokens.indieauth.com/token" />
-<link rel="authorization_endpoint" href="https://indieauth.com/auth" />
+{{ with .Site.Params.indieAuth }}
+  <link rel="token_endpoint" href="{{ .tokenEndpoint | default "https://tokens.indieauth.com/token" }}" />
+  <link rel="authorization_endpoint" href="{{ .authEndpoint | default "https://indieauth.com/auth" }}" />
+{{ end }}
