@@ -19,6 +19,11 @@ preview:
 dev:
 	hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic
 
+prod_build_verbose: getmodules
+	hugo --cleanDestinationDir --templateMetrics --templateMetricsHints --minify --forceSyncStatic --gc --logLevel info
+
+	
+	
 # Build the site with production settings and optimizations
 prod_build: getmodules
 	hugo --cleanDestinationDir --minify --forceSyncStatic --gc --logLevel info

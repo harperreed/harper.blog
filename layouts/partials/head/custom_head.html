@@ -1,0 +1,24 @@
+
+
+<meta property="og:video" content="https://harper.blog/images/og.mp4" />
+<meta property="og:video:type" content="video/mp4" />
+<meta property="og:video:width" content="{{ .Site.Params.ogVideoWidth | default "1280" }}" />
+<meta property="og:video:height" content="{{ .Site.Params.ogVideoHeight | default "704" }}" />
+<meta name="author" content="Harper Reed <{{.Site.Params.email}}>" />
+<link rel="shortcut icon" href="/favicon.ico" />
+
+<link href="https://twitter.com/harper" rel="me" />
+<link href="https://github.com/harperreed" rel="me" />
+<link href="https://reading.lol" rel="me" />
+<link href="https://photos.lol" rel="me" />
+<link href="https://harper.lol" rel="me" />
+<link href="https://social.modest.com/@harper" rel="me" />
+<link href="https://www.threads.net/@harperreed" rel="me" />
+<link href="https://bsky.app/profile/harper.lol" rel="me" />
+<link href="https://gravatar.com/harperreeed" rel="me" />
+<link href="harper@modest.com" rel="me" />
+<link href="harper@nata2.org" rel="me" />
+{{ with .Site.Params.indieAuth }}
+  <link rel="token_endpoint" href="{{ .tokenEndpoint | default "https://tokens.indieauth.com/token" }}" />
+  <link rel="authorization_endpoint" href="{{ .authEndpoint | default "https://indieauth.com/auth" }}" />
+{{ end }}
