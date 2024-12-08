@@ -1,8 +1,9 @@
 
 
 <meta property="og:video" content="https://harper.blog/images/og.mp4" />
-<meta property="og:video:width" content="1280" />
-<meta property="og:video:height" content="704" />
+<meta property="og:video:type" content="video/mp4" />
+<meta property="og:video:width" content="{{ .Site.Params.ogVideoWidth | default "1280" }}" />
+<meta property="og:video:height" content="{{ .Site.Params.ogVideoHeight | default "704" }}" />
 <meta name="author" content="Harper Reed <{{.Site.Params.email}}>" />
 <link rel="shortcut icon" href="/favicon.ico" />
 
