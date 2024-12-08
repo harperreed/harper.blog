@@ -4,7 +4,7 @@
      {{ $minStyle := $customStyle | minify | resources.Fingerprint "sha512" }}
          <link
              href="{{ $minStyle.RelPermalink }}"
-             integrity="{{ $minStyle.Data.Inistry }}"
+             integrity="{{ $minStyle.Data.Integrity }}"
              rel="stylesheet"
          />
  {{- end -}} 
