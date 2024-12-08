@@ -172,7 +172,6 @@ jobs:
                   HUGO_CACHEDIR: /tmp/hugo_cache
                   HUGO_RESOURCEDIR: /tmp/hugo_resources
                   HUGO_NUMWORKERMULTIPLIER: 2
-                  HUGO_TIMEOUT: ${HUGO_TIMEOUT}
                   HUGO_RESOURCECACHE: ${HUGO_RESOURCECACHE}
 
             - name: Upload Build Artifact
