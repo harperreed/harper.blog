@@ -45,7 +45,6 @@ jobs:
               run: |
                   echo "value=${{ env.CACHE_VERSION }}-${{ github.workflow }}-${{ runner.os }}-${{ hashFiles('**/package-lock.json', '**/go.sum', '**/go.mod') }}" >> $GITHUB_OUTPUT
 
-
             - name: Create Cache Directories
               id: create-dirs
               run: |
@@ -147,24 +146,24 @@ jobs:
               id: hugo-build
               run: |
                   export NODE_OPTIONS="--max_old_space_size=4096"
-                  HUGO_COMMON_ARGS="--minify --templateMetrics --templateMetricsHints --gc --logLevel info --verbose"
+                  HUGO_COMMON_ARGS="--minify --templateMetrics --templateMetricsHints --gc --logLevel info --verbose --timeout 3600s"
 
                   for i in $(seq 1 ${{ env.MAX_ATTEMPTS }}); do
-                    echo "Attempt $i of ${{ env.MAX_ATTEMPTS }}..."
-                    
-                    if [ $i -gt 1 ]; then
+                      echo "Attempt $i of ${{ env.MAX_ATTEMPTS }}..."
+
+                      if [ $i -gt 1 ]; then
                       echo "Clearing destination directory for retry..."
                       rm -rf public/
                       sleep $((2 ** ($i - 1)))  # Exponential backoff
-                    fi
-                    
-                    if hugo $HUGO_COMMON_ARGS; then
+                      fi
+
+                      if hugo $HUGO_COMMON_ARGS; then
                       echo "Build succeeded on attempt $i"
                       echo "build_attempt=$i" >> $GITHUB_OUTPUT
                       exit 0
-                    fi
-                    
-                    echo "Build attempt $i failed"
+                      fi
+
+                      echo "Build attempt $i failed"
                   done
 
                   echo "Build failed after ${{ env.MAX_ATTEMPTS }} attempts"
