@@ -13,7 +13,7 @@
 </p>
 {{ end }}
 
-{{ partial "out_of_date.html" . }}
+{{ partialCached "out_of_date.html" . (.Date.Format "2006") }}
 
 <content>
   
