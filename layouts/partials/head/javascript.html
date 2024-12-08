@@ -1,0 +1,9 @@
+{{ with .Site.Params.customjs }} 
+    {{- range . -}}
+        {{ $customJS := resources.Get . }} {{ $minJS := $customJS | resources.Fingerprint "sha512" }}
+<script
+    src="{{ $minJS.RelPermalink }}"
+    integrity="{{ $minJS.Data.Integrity }}"
+></script>
+{{- end -}} 
+{{ end }} 

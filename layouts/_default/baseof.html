@@ -1,40 +1,31 @@
 <!doctype html>
 <html
     lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}"
-    class="theme-light"
+    class="theme-nordic"
 >
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="referrer" content="no-referrer-when-downgrade" />
         {{- partialCached "favicon.html" . -}}
         <title>
-            {{- block "title" . }}{{ with .Title }}{{ . }} | {{ end }}{{
-            .Site.Title }}{{- end }}
+            {{- block "title" . }}
+                {{ with .Title }}{{ . }} | {{ end }} {{.Site.Title }}
+            {{- end }}
         </title>
 
-        {{- partial "seo_tags.html" . -}}
-        <meta property="og:video" content="https://harper.blog/images/og.mp4" />
-        <meta name="referrer" content="no-referrer-when-downgrade" />
+        {{- partialCached "seo_tags.html" . .Title -}}
+        
 
-        {{ with .Site.Params.customcss }} {{- range . -}} {{ $customStyle :=
-        resources.Get . }} {{ $minStyle := $customStyle | minify |
-        resources.Fingerprint "sha512" }}
-        <link
-            href="{{ $minStyle.RelPermalink }}"
-            integrity="{{ $minStyle.Data.Inistry }}"
-            rel="stylesheet"
-        />
-        {{- end -}} {{ end }} {{ with .Site.Params.customjs }} {{- range . -}}
-        {{ $customJS := resources.Get . }} {{ $minJS := $customJS |
-        resources.Fingerprint "sha512" }}
-        <script
-            src="{{ $minJS.RelPermalink }}"
-            integrity="{{ $minJS.Data.Integrity }}"
-        ></script>
-        {{- end -}} {{ end }} {{ with .OutputFormats.Get "rss" -}} {{ printf `
-        <link rel="%s" type="%s" href="%s" title="%s" />
-        ` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }} {{ end -}}
-        {{- partial "custom_head.html" . -}}
+        {{- partialCached "head/css.html" . -}}
+        
+        {{- partialCached "head/javascript.html" . -}}
+        
+        
+        {{- partialCached "head/rss.html" . -}}
+        
+        
+        {{- partialCached "head/custom_head.html" . -}}
     </head>
 
     <body>
