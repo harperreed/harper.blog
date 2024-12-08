@@ -27,7 +27,7 @@ for = "/*"
 X-Content-Type-Options = "nosniff"
 Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
 X-Frame-Options = "deny"
-Referrer-Policy = "no-referrer"
+Referrer-Policy = "no-referrer-when-downgrade"
 Feature-Policy = "microphone 'none'; payment 'none'; geolocation 'none'; midi 'none'; sync-xhr 'none'; camera 'none'; magnetometer 'none'; gyroscope 'none'"
 Content-Security-Policy = """
          default-src 'self'; 
