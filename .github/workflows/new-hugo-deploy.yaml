@@ -146,7 +146,7 @@ jobs:
               id: hugo-build
               run: |
                   export NODE_OPTIONS="--max_old_space_size=4096"
-                  HUGO_COMMON_ARGS="--minify --templateMetrics --templateMetricsHints --gc --logLevel info --verbose --timeout 3600s"
+                  HUGO_COMMON_ARGS="--minify --templateMetrics --templateMetricsHints --gc --logLevel info --verbose"
 
                   for i in $(seq 1 ${{ env.MAX_ATTEMPTS }}); do
                       echo "Attempt $i of ${{ env.MAX_ATTEMPTS }}..."
