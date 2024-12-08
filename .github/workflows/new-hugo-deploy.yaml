@@ -45,38 +45,12 @@ jobs:
               run: |
                   echo "value=${{ env.CACHE_VERSION }}-${{ github.workflow }}-${{ runner.os }}-${{ hashFiles('**/package-lock.json', '**/go.sum', '**/go.mod') }}" >> $GITHUB_OUTPUT
 
-            - name: Setup Node
-              uses: actions/setup-node@v3
-              with:
-                  node-version: ${{ env.NODE_VERSION }}
-                  cache: "npm"
-                  cache-dependency-path: "**/package-lock.json"
 
             - name: Create Cache Directories
               id: create-dirs
               run: |
                   mkdir -p node_modules /tmp/hugo_cache /tmp/hugo_resources ~/.cache/go-build ~/go/pkg/mod
                   echo "Directory structure created successfully"
-
-            - name: Restore Dependencies Cache
-              id: deps-cache
-              uses: actions/cache@v3
-              with:
-                  path: |
-                      node_modules
-                  key: ${{ steps.cache-key.outputs.value }}-deps
-                  restore-keys: |
-                      ${{ steps.cache-key.outputs.value }}-deps-
-                      ${{ env.CACHE_VERSION }}-${{ github.workflow }}-${{ runner.os }}-deps-
-
-            - name: Install Dependencies
-              if: steps.deps-cache.outputs.cache-hit != 'true'
-              run: |
-                  echo "Installing dependencies..."
-                  npm ci --prefer-offline --no-audit --no-progress
-                  echo "Dependencies installed successfully"
-              env:
-                  CI: true
 
             - name: Setup Hugo
               uses: peaceiris/actions-hugo@v3
@@ -118,13 +92,6 @@ jobs:
               with:
                   fetch-depth: 1
 
-            - name: Setup Node
-              uses: actions/setup-node@v3
-              with:
-                  node-version: ${{ env.NODE_VERSION }}
-                  cache: "npm"
-                  cache-dependency-path: "**/package-lock.json"
-
             - name: Create and Verify Cache Directories
               run: |
                   mkdir -p node_modules /tmp/hugo_cache /tmp/hugo_resources ~/.cache/go-build ~/go/pkg/mod
@@ -134,25 +101,6 @@ jobs:
                       exit 1
                     fi
                   done
-
-            - name: Restore Dependencies Cache
-              uses: actions/cache@v3
-              with:
-                  path: |
-                      node_modules
-                  key: ${{ needs.setup.outputs.cache-key }}-deps
-                  restore-keys: |
-                      ${{ needs.setup.outputs.cache-key }}-deps-
-                      ${{ env.CACHE_VERSION }}-${{ github.workflow }}-${{ runner.os }}-deps-
-
-            - name: Install Dependencies if No Cache
-              if: needs.setup.outputs.deps-cache-hit != 'true'
-              run: |
-                  echo "Cache miss - installing dependencies..."
-                  npm ci --prefer-offline --no-audit --no-progress
-                  echo "Dependencies installed successfully"
-              env:
-                  CI: true
 
             - name: Setup Hugo
               uses: peaceiris/actions-hugo@v3
