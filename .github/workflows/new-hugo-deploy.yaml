@@ -1,125 +1,242 @@
 name: Hugo Build and Deploy
 
 on:
-    workflow_dispatch:
-    # push:
-    #   branches:
-    #     - main
-    #   paths:
-    #     - "content/**"
-    #     - "layouts/**"
-    #     - "static/**"
-    #     - "config/**"
-    #     - "data/**"
-    #     - "assets/**"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "content/**"
+      - "layouts/**"
+      - "static/**"
+      - "config/**"
+      - "data/**"
+      - "assets/**"
+      - ".github/workflows/**"  # Include workflow changes
 
+# Prevent concurrent deployments
 concurrency:
-    group: ${{ github.workflow }}-${{ github.ref }}
-    cancel-in-progress: true
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  HUGO_VERSION: "0.136.4"
+  NODE_VERSION: "20.x"
+  CACHE_VERSION: "v2"  # Increment this to invalidate all caches
+  MAX_ATTEMPTS: 3
+  HUGO_RESOURCES_KEY: "hugo-resources-v2"  # Separate version for long-term resource cache
 
 jobs:
-    prepare:
-        runs-on: ubuntu-latest
-        timeout-minutes: 10
-        outputs:
-            cache-key: ${{ steps.cache-key.outputs.value }}
+  setup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    outputs:
+      deps-cache-hit: ${{ steps.deps-cache.outputs.cache-hit }}
+      hugo-cache-hit: ${{ steps.hugo-cache.outputs.cache-hit }}
+      cache-key: ${{ steps.cache-key.outputs.value }}
+      resource-cache-key: ${{ env.HUGO_RESOURCES_KEY }}
 
-        steps:
-            - uses: actions/checkout@v3
-              with:
-                  fetch-depth: 1
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
 
-            - id: cache-key
-              run: |
-                  echo "value=${{ runner.os }}-${{ hashFiles('**/package-lock.json', '**/go.sum', '**/go.mod') }}" >> $GITHUB_OUTPUT
+      - id: cache-key
+        run: |
+          echo "value=${{ env.CACHE_VERSION }}-${{ github.workflow }}-${{ runner.os }}-${{ hashFiles('**/package-lock.json', '**/go.sum', '**/go.mod') }}" >> $GITHUB_OUTPUT
 
-    setup-hugo:
-        needs: prepare
-        runs-on: ubuntu-latest
-        timeout-minutes: 15
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: "npm"
+          cache-dependency-path: "**/package-lock.json"
 
-        steps:
-            - uses: actions/checkout@v3
-              with:
-                  fetch-depth: 1
+      - name: Create Cache Directories
+        id: create-dirs
+        run: |
+          mkdir -p node_modules /tmp/hugo_cache /tmp/hugo_resources ~/.cache/go-build ~/go/pkg/mod
+          echo "Directory structure created successfully"
 
-            - name: Setup Hugo
-              uses: peaceiris/actions-hugo@v3
-              with:
-                  hugo-version: "0.136.4"
-                  extended: true
+      - name: Restore Dependencies Cache
+        id: deps-cache
+        uses: actions/cache@v3
+        with:
+          path: |
+            node_modules
+          key: ${{ steps.cache-key.outputs.value }}-deps
+          restore-keys: |
+            ${{ steps.cache-key.outputs.value }}-deps-
+            ${{ env.CACHE_VERSION }}-${{ github.workflow }}-${{ runner.os }}-deps-
 
-            - name: Cache Hugo modules
-              uses: actions/cache@v3
-              with:
-                  path: |
-                      /tmp/hugo_cache
-                      ~/.cache/go-build
-                      ~/go/pkg/mod
-                      /tmp/hugo_resources
-                  key: ${{ needs.prepare.outputs.cache-key }}-hugo
-                  restore-keys: |
-                      ${{ needs.prepare.outputs.cache-key }}-hugo-
+      - name: Install Dependencies
+        if: steps.deps-cache.outputs.cache-hit != 'true'
+        run: |
+          echo "Installing dependencies..."
+          npm ci --prefer-offline --no-audit --no-progress
+          echo "Dependencies installed successfully"
+        env:
+          CI: true
 
-    build:
-        needs: [setup-hugo]
-        runs-on: ubuntu-latest
-        timeout-minutes: 30
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: ${{ env.HUGO_VERSION }}
+          extended: true
 
-        steps:
-            - uses: actions/checkout@v3
-              with:
-                  fetch-depth: 1
+      - name: Restore Hugo Build Cache
+        id: hugo-cache
+        uses: actions/cache@v3
+        with:
+          path: |
+            /tmp/hugo_cache
+            ~/.cache/go-build
+            ~/go/pkg/mod
+          key: ${{ steps.cache-key.outputs.value }}-hugo
+          restore-keys: |
+            ${{ steps.cache-key.outputs.value }}-hugo-
+            ${{ env.CACHE_VERSION }}-${{ github.workflow }}-${{ runner.os }}-hugo-
 
-            - name: Restore Hugo Cache
-              uses: actions/cache@v3
-              with:
-                  path: |
-                      /tmp/hugo_cache
-                      ~/.cache/go-build
-                      ~/go/pkg/mod
-                      /tmp/hugo_resources
-                  key: ${{ needs.prepare.outputs.cache-key }}-hugo
+      # Separate long-term resource cache
+      - name: Restore Hugo Resources Cache
+        id: hugo-resources-cache
+        uses: actions/cache@v3
+        with:
+          path: /tmp/hugo_resources
+          key: ${{ env.HUGO_RESOURCES_KEY }}
+          restore-keys: |
+            ${{ env.HUGO_RESOURCES_KEY }}
+            hugo-resources-  # Fallback to any hugo resources cache
 
-            - name: Setup Hugo
-              uses: peaceiris/actions-hugo@v3
-              with:
-                  hugo-version: "0.136.4"
-                  extended: true
+  build:
+    needs: setup
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
 
-            - name: Build Hugo Site
-              run: |
-                  export NODE_OPTIONS="--max_old_space_size=4096"
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
 
-                  echo "Starting Hugo build..."
-                  hugo --minify --templateMetrics --templateMetricsHints --gc --logLevel info
-                  BUILD_EXIT_CODE=$?
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: "npm"
+          cache-dependency-path: "**/package-lock.json"
 
-                  if [ $BUILD_EXIT_CODE -ne 0 ]; then
-                    echo "First build attempt failed, cleaning and retrying..."
-                    rm -rf public/ resources/
+      - name: Create and Verify Cache Directories
+        run: |
+          mkdir -p node_modules /tmp/hugo_cache /tmp/hugo_resources ~/.cache/go-build ~/go/pkg/mod
+          for dir in node_modules /tmp/hugo_cache /tmp/hugo_resources ~/.cache/go-build ~/go/pkg/mod; do
+            if [ ! -d "$dir" ]; then
+              echo "Failed to create $dir"
+              exit 1
+            fi
+          done
 
-                    hugo --cleanDestinationDir --minify --templateMetrics --templateMetricsHints --gc --logLevel info
-                    BUILD_EXIT_CODE=$?
+      - name: Restore Dependencies Cache
+        uses: actions/cache@v3
+        with:
+          path: |
+            node_modules
+          key: ${{ needs.setup.outputs.cache-key }}-deps
+          restore-keys: |
+            ${{ needs.setup.outputs.cache-key }}-deps-
+            ${{ env.CACHE_VERSION }}-${{ github.workflow }}-${{ runner.os }}-deps-
 
-                    if [ $BUILD_EXIT_CODE -ne 0 ]; then
-                      echo "Build failed after retry"
-                      exit $BUILD_EXIT_CODE
-                    fi
-                  fi
-              env:
-                  HUGO_CACHEDIR: /tmp/hugo_cache
-                  HUGO_RESOURCEDIR: /tmp/hugo_resources
-                  HUGO_NUMWORKERMULTIPLIER: 2
+      - name: Install Dependencies if No Cache
+        if: needs.setup.outputs.deps-cache-hit != 'true'
+        run: |
+          echo "Cache miss - installing dependencies..."
+          npm ci --prefer-offline --no-audit --no-progress
+          echo "Dependencies installed successfully"
+        env:
+          CI: true
 
-            - name: Upload Build Artifact
-              uses: actions/upload-artifact@v3
-              with:
-                  name: hugo-build
-                  path: public/
-                  retention-days: 1
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: ${{ env.HUGO_VERSION }}
+          extended: true
 
-    deploy:
+      - name: Restore Hugo Build Cache
+        uses: actions/cache@v3
+        with:
+          path: |
+            /tmp/hugo_cache
+            ~/.cache/go-build
+            ~/go/pkg/mod
+          key: ${{ needs.setup.outputs.cache-key }}-hugo
+
+      - name: Restore Hugo Resources Cache
+        uses: actions/cache@v3
+        with:
+          path: /tmp/hugo_resources
+          key: ${{ needs.setup.outputs.resource-cache-key }}
+
+      - name: Verify Hugo Installation
+        run: |
+          hugo version
+          if [ $? -ne 0 ]; then
+            echo "Hugo installation verification failed"
+            exit 1
+          fi
+
+      - name: Verify Resource Cache
+        run: |
+          echo "Resource cache contents before build:"
+          ls -la /tmp/hugo_resources || true
+          du -sh /tmp/hugo_resources || true
+
+      - name: Configure Hugo Cache
+        run: |
+          # Ensure cache directories exist and are writable
+          sudo mkdir -p /tmp/hugo_resources /tmp/hugo_cache
+          sudo chmod -R 777 /tmp/hugo_resources /tmp/hugo_cache
+          
+      - name: Build Hugo Site
+        id: hugo-build
+        run: |
+          export NODE_OPTIONS="--max_old_space_size=4096"
+          HUGO_COMMON_ARGS="--minify --templateMetrics --templateMetricsHints --gc --logLevel info --verbose"
+          
+          for i in $(seq 1 ${{ env.MAX_ATTEMPTS }}); do
+            echo "Attempt $i of ${{ env.MAX_ATTEMPTS }}..."
+            
+            if [ $i -gt 1 ]; then
+              echo "Clearing destination directory for retry..."
+              rm -rf public/
+              sleep $((2 ** ($i - 1)))  # Exponential backoff
+            fi
+            
+            if hugo $HUGO_COMMON_ARGS; then
+              echo "Build succeeded on attempt $i"
+              echo "build_attempt=$i" >> $GITHUB_OUTPUT
+              exit 0
+            fi
+            
+            echo "Build attempt $i failed"
+          done
+          
+          echo "Build failed after ${{ env.MAX_ATTEMPTS }} attempts"
+          exit 1
+        env:
+          HUGO_CACHEDIR: /tmp/hugo_cache
+          HUGO_RESOURCEDIR: /tmp/hugo_resources
+          HUGO_NUMWORKERMULTIPLIER: 2
+          HUGO_TIMEOUT: ${HUGO_TIMEOUT}
+          HUGO_RESOURCECACHE: ${HUGO_RESOURCECACHE}
+
+      - name: Upload Build Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: hugo-build
+          path: public/
+          retention-days: 1
+          if-no-files-found: error
+
+  deploy:
         needs: build
         runs-on: ubuntu-latest
         timeout-minutes: 15
@@ -144,12 +261,14 @@ jobs:
                     --site ${{ secrets.NETLIFY_SITE_ID }} \
                     --auth ${{ secrets.NETLIFY_API_TOKEN }}
 
-    cleanup:
-        if: always()
-        needs: [deploy]
-        runs-on: ubuntu-latest
-        steps:
-            - name: Delete Build Artifact
-              uses: geekyeggo/delete-artifact@v2
-              with:
-                  name: hugo-build
+  cleanup:
+    if: always()
+    needs: [deploy]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete Build Artifact
+        uses: geekyeggo/delete-artifact@v2
+        with:
+          name: hugo-build
+          failOnError: false
+        
