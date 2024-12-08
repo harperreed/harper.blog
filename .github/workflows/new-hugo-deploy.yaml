@@ -203,7 +203,7 @@ jobs:
               id: netlify_deploy
               run: |
                   netlify deploy \
-                    --dir dist \
+                    --dir public \
                     --site ${{ secrets.NETLIFY_SITE_ID }} \
                     --auth ${{ secrets.NETLIFY_API_TOKEN }}
 
