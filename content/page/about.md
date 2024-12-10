@@ -20,13 +20,15 @@ My name is [Harper Reed](mailto:harper@modest.com). This is my blog. I have been
 
 ## About me
 
+{{< image src="/images/harper_portrait.webp" caption="This is me!" >}}
+
 I am a _computer operator_ who likes to make things, have fun, and hang out on the internet. Also pranks.
 
 Please visit my main webpage at [harperreed.com](http://harperreed.com) for more information about me!
 
 ## Contact
 
-You can email me at [harper@modest.com](mailto:harper@modest.com). If social media is your thing, you can find me on twitter at [@harper](http://twitter.com/harper).
+You can email me at [harper@modest.com](mailto:harper@modest.com). If social media is your thing, you can find me on bluesky at [@harper.lol](https://bsky.app/profile/harper.lol).
 
 You can contact me many different ways by visiting [my contact page](http://harperreed.com/contact).
 
