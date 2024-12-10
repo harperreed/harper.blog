@@ -33,8 +33,8 @@ Content-Security-Policy = """
     default-src 'self';
     script-src 'self';
     style-src 'self' ;
-    font-src 'self'
-    img-src 'self' data: https: http: *;
+    font-src 'self';
+    img-src 'self' data: https: http: * https://s.gravatar.com;
     connect-src 'self' https:;
     media-src 'self';
     object-src 'none';
