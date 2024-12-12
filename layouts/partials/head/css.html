@@ -4,7 +4,12 @@
      {{ $customStyle := resources.Get . }} 
      {{ $concatStyles = $concatStyles | append $customStyle }}
  {{- end -}}
- {{ $bundle := $concatStyles | resources.Concat "css/bundle.css" | minify | resources.Fingerprint "sha512" }}
+{{ $bundle := $concatStyles | resources.Concat "css/bundle.css" }}
+{{ if hugo.IsProduction }}
+    {{ $bundle = $bundle | minify | resources.Fingerprint "sha512" }}
+{{ else }}
+    {{ $bundle = $bundle | resources.ExecuteAsTemplate "css/bundle.css" . | resources.PostCSS (dict "sourcemap" true) | resources.Fingerprint "sha512" }}
+{{ end }}
     <link
         rel="preload"
         href="{{ $bundle.RelPermalink }}"
