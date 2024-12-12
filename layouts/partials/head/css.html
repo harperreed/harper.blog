@@ -1,11 +1,13 @@
  {{ with .Site.Params.customcss }} 
+ {{- $concatStyles := slice -}}
  {{- range . -}} 
      {{ $customStyle := resources.Get . }} 
-     {{ $minStyle := $customStyle | minify | resources.Fingerprint "sha512" }}
-         <link
-             href="{{ $minStyle.RelPermalink }}"
-             integrity="{{ $minStyle.Data.Integrity }}"
-             rel="stylesheet"
-         />
- {{- end -}} 
- {{ end }} 
+     {{ $concatStyles = $concatStyles | append $customStyle }}
+ {{- end -}}
+ {{ $bundle := $concatStyles | resources.Concat "css/bundle.css" | minify | resources.Fingerprint "sha512" }}
+     <link
+         href="{{ $bundle.RelPermalink }}"
+         integrity="{{ $bundle.Data.Integrity }}"
+         rel="stylesheet"
+     />
+ {{ end }}
