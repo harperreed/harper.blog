@@ -1,9 +1,12 @@
-{{ with .Site.Params.customjs }} 
+{{ with .Site.Params.customjs }}
+    {{ $js := slice }}
     {{- range . -}}
-        {{ $customJS := resources.Get . }} {{ $minJS := $customJS | resources.Fingerprint "sha512" }}
-<script
+        {{ $js = $js | append (resources.Get .) }}
+    {{- end -}}
+    {{ $bundle := resources.Concat "js/bundle.js" $js }}
+    {{ $minJS := $bundle | resources.Fingerprint "sha512" }}
+<script 
     src="{{ $minJS.RelPermalink }}"
     integrity="{{ $minJS.Data.Integrity }}"
 ></script>
-{{- end -}} 
-{{ end }} 
+{{ end }}
