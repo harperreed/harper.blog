@@ -1,8 +1,11 @@
  {{ with .Site.Params.customcss }} 
  {{- $concatStyles := slice -}}
  {{- range . -}} 
-     {{ $customStyle := resources.Get . }} 
-     {{ $concatStyles = $concatStyles | append $customStyle }}
+     {{ with (resources.Get .) }}
+        {{ $concatStyles = $concatStyles | append . }}
+     {{ else }}
+        {{ warnf "Missing CSS resource: %s" . }}
+     {{ end }}
  {{- end -}}
 {{ $bundle := $concatStyles | resources.Concat "css/bundle.css" }}
 {{ if hugo.IsProduction }}
