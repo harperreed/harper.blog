@@ -8,7 +8,7 @@
 {{ if hugo.IsProduction }}
     {{ $bundle = $bundle | minify | resources.Fingerprint "sha512" }}
 {{ else }}
-    {{ $bundle = $bundle | resources.ExecuteAsTemplate "css/bundle.css" . | resources.PostCSS (dict "sourcemap" true) | resources.Fingerprint "sha512" }}
+    {{ $bundle = $bundle | resources.ExecuteAsTemplate "css/bundle.css" . | resources.Fingerprint "sha512" }}
 {{ end }}
     <link
         rel="preload"
