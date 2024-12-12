@@ -3,7 +3,7 @@
     {{- range . -}}
         {{ $js = $js | append (resources.Get .) }}
     {{- end -}}
-    {{ $bundle := resources.Concat "js/bundle.js" $js }}
+    {{ $bundle := resources.Concat "js/bundle.js" $js | minify }}
     {{ $minJS := $bundle | resources.Fingerprint "sha512" }}
 <script 
     src="{{ $minJS.RelPermalink }}"
