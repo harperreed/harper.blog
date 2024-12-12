@@ -26,10 +26,11 @@ customcss = [
     "/css/themes.css",
     "/css/bsky_comments.css",
     "/css/outofdate.css",
+    "/css/image-loading.css",
     "syntax.css",
 ]
 
-customjs = ["/js/bluesky_comments.js", "/js/theme.js"]
+customjs = ["/js/bluesky_comments.js", "/js/theme.js", "/js/image-loading.js"]
 
 [author]
 name = "Harper Reed"
