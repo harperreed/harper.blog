@@ -1,11 +1,26 @@
  {{ with .Site.Params.customcss }} 
+ {{- $concatStyles := slice -}}
  {{- range . -}} 
-     {{ $customStyle := resources.Get . }} 
-     {{ $minStyle := $customStyle | minify | resources.Fingerprint "sha512" }}
-         <link
-             href="{{ $minStyle.RelPermalink }}"
-             integrity="{{ $minStyle.Data.Integrity }}"
-             rel="stylesheet"
-         />
- {{- end -}} 
- {{ end }} 
+     {{ with (resources.Get .) }}
+        {{ $concatStyles = $concatStyles | append . }}
+     {{ else }}
+        {{ warnf "Missing CSS resource: %s" . }}
+     {{ end }}
+ {{- end -}}
+{{ $bundle := $concatStyles | resources.Concat "css/bundle.css" }}
+{{ if hugo.IsProduction }}
+    {{ $bundle = $bundle | minify | resources.Fingerprint "sha512" }}
+{{ else }}
+    {{ $bundle = $bundle | resources.ExecuteAsTemplate "css/bundle.css" . | resources.Fingerprint "sha512" }}
+{{ end }}
+    <link
+        rel="preload"
+        href="{{ $bundle.RelPermalink }}"
+        as="style"
+    />
+    <link
+        href="{{ $bundle.RelPermalink }}"
+        integrity="{{ $bundle.Data.Integrity }}"
+        rel="stylesheet"
+    />
+ {{ end }}
