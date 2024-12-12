@@ -5,9 +5,14 @@
      {{ $concatStyles = $concatStyles | append $customStyle }}
  {{- end -}}
  {{ $bundle := $concatStyles | resources.Concat "css/bundle.css" | minify | resources.Fingerprint "sha512" }}
-     <link
-         href="{{ $bundle.RelPermalink }}"
-         integrity="{{ $bundle.Data.Integrity }}"
-         rel="stylesheet"
-     />
+    <link
+        rel="preload"
+        href="{{ $bundle.RelPermalink }}"
+        as="style"
+    />
+    <link
+        href="{{ $bundle.RelPermalink }}"
+        integrity="{{ $bundle.Data.Integrity }}"
+        rel="stylesheet"
+    />
  {{ end }}
