@@ -1,7 +1,11 @@
 {{ with .Site.Params.customjs }}
     {{ $js := slice }}
     {{- range . -}}
-        {{ $js = $js | append (resources.Get .) }}
+{{ with (resources.Get .) }}
+    {{ $js = $js | append . }}
+{{ else }}
+    {{ warnf "Missing JavaScript resource: %s" . }}
+{{ end }}
     {{- end -}}
     {{ $bundle := resources.Concat "js/bundle.js" $js | minify }}
     {{ $minJS := $bundle | resources.Fingerprint "sha512" }}
