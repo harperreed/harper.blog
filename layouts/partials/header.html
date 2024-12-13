@@ -8,8 +8,10 @@
         src="{{ .Site.Params.avatar }}"
         alt="Avatar"
         class="avatar"
+        tabindex="0"
+        aria-label="Avatar"
     />
-    <h1>{{ .Site.Title }}</h1>
+    <h1 tabindex="0" aria-label="Site Title">{{ .Site.Title }}</h1>
 </a>
 
-<nav>{{- partialCached "nav.html" . -}}</nav>
+<nav tabindex="0" aria-label="Main Navigation">{{- partialCached "nav.html" . -}}</nav>

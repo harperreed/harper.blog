@@ -1,5 +1,5 @@
 {{ define "main" }} {{ if not .Params.menu }}
-<h1>{{ .Title }}</h1>
+<h1 aria-label="Page title">{{ .Title }}</h1>
 <p class="byline">
     <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
         {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
@@ -9,7 +9,7 @@
 {{ end }}
 <content>
     {{ .Content }} {{- with .Resources.ByType "image" }}
-    <div class="note-images">
+    <div class="note-images" aria-label="Note images">
         {{- range . }}
         <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
         {{- end }}
