@@ -7,16 +7,22 @@ import frontmatter
 from slugify import slugify
 from urllib.parse import urlparse
 from dotenv import load_dotenv
+import logging
 
 # Load environment variables from .env file if it exists
 load_dotenv()
 
+# Centralized logging configuration
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
 def download_json_feed(url):
-    response = requests.get(url)
-    if response.status_code == 200:
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
         return response.json()
-    else:
-        raise Exception(f"Failed to download JSON feed. Status code: {response.status_code}")
+    except requests.RequestException as e:
+        logging.error(f"Failed to download JSON feed: {e}")
+        raise
 
 def html_to_markdown(html_content):
     h = html2text.HTML2Text()
@@ -25,12 +31,15 @@ def html_to_markdown(html_content):
     return h.handle(html_content)
 
 def download_image(url, output_path):
-    response = requests.get(url)
-    if response.status_code == 200:
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
         with open(output_path, 'wb') as f:
             f.write(response.content)
         return True
-    return False
+    except requests.RequestException as e:
+        logging.error(f"Failed to download image from {url}: {e}")
+        return False
 
 def process_images(content, post_dir):
     img_pattern = re.compile(r'!\[([^\]]*)\]\(([^)]+)\)')
@@ -62,15 +71,15 @@ def get_highest_note_id(hugo_content_dir):
                         post = frontmatter.load(f)
                         if 'note_id' in post.metadata:
                             current_id = post.metadata['note_id']
-                            print(f"Found note_id: {current_id} in file: {file_path}")
+                            logging.info(f"Found note_id: {current_id} in file: {file_path}")
                             if isinstance(current_id, int):
                                 highest_note_id = max(highest_note_id, current_id)
                             else:
-                                print(f"Warning: non-integer note_id found: {current_id} in file: {file_path}")
+                                logging.warning(f"Non-integer note_id found: {current_id} in file: {file_path}")
                 except Exception as e:
-                    print(f"Error reading file {file_path}: {str(e)}")
+                    logging.error(f"Error reading file {file_path}: {str(e)}")
 
-    print(f"Highest Note ID found: {highest_note_id}")
+    logging.info(f"Highest Note ID found: {highest_note_id}")
     return highest_note_id
 
 def create_hugo_content(entry, output_dir, note_id):
@@ -89,7 +98,7 @@ def create_hugo_content(entry, output_dir, note_id):
     post_dir = os.path.join(output_dir, base_filename)
     
     if os.path.exists(post_dir):
-        print(f"Post already exists: {post_dir}")
+        logging.info(f"Post already exists: {post_dir}")
         return False
 
     os.makedirs(post_dir, exist_ok=True)
@@ -108,11 +117,14 @@ def create_hugo_content(entry, output_dir, note_id):
     post['original_url'] = post_url
     post['note_id'] = note_id
 
-    with open(file_path, 'w', encoding='utf-8') as f:
-        f.write(frontmatter.dumps(post))
-
-    print(f"Created new post: {file_path} with Note ID: {note_id}")
-    return True
+    try:
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write(frontmatter.dumps(post))
+        logging.info(f"Created new post: {file_path} with Note ID: {note_id}")
+        return True
+    except Exception as e:
+        logging.error(f"Error creating post for '{title}': {e}")
+        return False
 
 def create_description(content, max_length=160):
     # Strip markdown syntax
@@ -129,11 +141,16 @@ def main():
     hugo_content_dir = os.getenv('NOTES_HUGO_CONTENT_DIR')
 
     if not json_feed_url or not hugo_content_dir:
-        raise ValueError("NOTES_JSON_FEED_URL and NOTES_HUGO_CONTENT_DIR must be set in the .env file")
+        logging.error("NOTES_JSON_FEED_URL and NOTES_HUGO_CONTENT_DIR must be set in the .env file")
+        return
 
     os.makedirs(hugo_content_dir, exist_ok=True)
 
-    feed_data = download_json_feed(json_feed_url)
+    try:
+        feed_data = download_json_feed(json_feed_url)
+    except Exception as e:
+        logging.error(f"Failed to download JSON feed: {e}")
+        return
 
     sorted_entries = sorted(
         feed_data.get('items', []),
@@ -142,18 +159,18 @@ def main():
     )
 
     highest_note_id = get_highest_note_id(hugo_content_dir)
-    print(f"Starting with highest Note ID: {highest_note_id}")
+    logging.info(f"Starting with highest Note ID: {highest_note_id}")
 
     new_posts_created = 0
     for entry in sorted_entries:
         new_note_id = highest_note_id + new_posts_created + 1
-        print(f"Attempting to create post with Note ID: {new_note_id}")
+        logging.info(f"Attempting to create post with Note ID: {new_note_id}")
         if create_hugo_content(entry, hugo_content_dir, new_note_id):
             new_posts_created += 1
 
-    print(f"Processed {len(sorted_entries)} entries.")
-    print(f"Created {new_posts_created} new posts.")
-    print(f"New highest Note ID: {highest_note_id + new_posts_created}")
+    logging.info(f"Processed {len(sorted_entries)} entries.")
+    logging.info(f"Created {new_posts_created} new posts.")
+    logging.info(f"New highest Note ID: {highest_note_id + new_posts_created}")
 
 if __name__ == "__main__":
     main()
