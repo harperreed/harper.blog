@@ -42,7 +42,7 @@
                 </time>
             </i>
         </span>
-        <a href="{{ .RelPermalink }}" aria-label="Link to {{ .Description | default .Title }}">
+        <a href="{{ .RelPermalink }}" aria-label="Note: {{ .Description | default .Title }}">
             {{ .Description | default .Title }}
         </a>
     </li>
