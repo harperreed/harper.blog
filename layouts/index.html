@@ -1,7 +1,7 @@
 {{ define "main" }} {{ .Content }}
 
 <h2>{{ i18n "posts" | default "Posts" }}</h2>
-<ul class="blog-posts" aria-label="List of recent posts">
+<ul class="blog-posts">
     {{ $notes := first 5 (where .Site.RegularPages "Section" "post") }} {{ range
     $notes }}
     <li>
