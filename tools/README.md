@@ -9,7 +9,7 @@ This project comprises two primary scripts:
 1. **grab_micro_posts.py**: This script downloads JSON feeds, converts HTML content to Markdown, and processes any images associated with the posts to ensure a smooth integration into a Hugo blog.
 2. **grab_starred_links.py**: This script fetches RSS feeds of starred links and converts them into Markdown format suitable for Hugo.
 
-Additionally, the repository includes configuration files (like `requirements.txt` and `pyproject.toml`) to manage dependencies and environment setup effectively.
+Additionally, the repository includes configuration files (like `pyproject.toml`) to manage dependencies and environment setup effectively.
 
 ## 🔧 How to Use
 
@@ -18,7 +18,7 @@ Additionally, the repository includes configuration files (like `requirements.tx
 Before using the tools, ensure you have the following installed:
 
 - Python 3.12 or higher
-- Dependencies defined in `requirements.txt` or `pyproject.toml`.
+- Dependencies defined in `pyproject.toml`.
 
 ### Setup
 
@@ -27,7 +27,7 @@ Before using the tools, ensure you have the following installed:
    Run the following command to install the required packages:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r pyproject.toml
    ```
 
    or if using poetry:
@@ -79,7 +79,6 @@ Before using the tools, ensure you have the following installed:
   ├── grab_micro_posts.py       # Script to fetch and process micro posts
   ├── grab_starred_links.py     # Script to fetch and process starred links
   ├── pyproject.toml            # Configuration file for project dependencies
-  ├── requirements.txt          # List of dependencies
   ```
 
 ---
