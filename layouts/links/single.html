@@ -1,7 +1,7 @@
 {{ define "main" }} {{ if not .Params.menu }}
 <h1>{{ .Title }}</h1>
 <p class="byline">
-    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
         {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
     </time>
     {{ with .Params.author }}· {{.}}{{ end }}
@@ -10,15 +10,16 @@
 <content> {{ .Content }} </content>
 <p>
     {{ range (.GetTerms "tags") }}
-    <a class="blog-tags" href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a>
+    <a class="blog-tags" href="{{ .RelPermalink }}" aria-label="Tag: {{ lower .LinkTitle }}">#{{ lower .LinkTitle }}</a>
     {{ end }}
 </p>
 {{ if not .Params.hideReply }} {{ with .Site.Params.author.email }}
 <p>
     <a
         href='mailto:{{ . }}?subject={{ i18n "email-subject" }}"{{ default $.Site.Title $.Page.Title }}"'
+        aria-label="Reply to this post via email"
     >
-        {{ i18n "email-reply" }} ↪
+        {{ i18n "email-reply" }} <span aria-hidden="true">↪</span>
     </a>
 </p>
 {{ end }} {{ end }} 
