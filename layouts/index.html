@@ -14,11 +14,13 @@
             </i>
         </span>
         {{ if .Params.link }}
-        <a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer"
-            >{{ .Title }} ↪</a
-        >
+        <a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer" aria-label="Link to {{ .Title }}">
+            {{ .Title }} ↪
+        </a>
         {{ else }}
-        <a href="{{ .RelPermalink }}" title="{{.Summary}}">{{ .Title }}</a>
+        <a href="{{ .RelPermalink }}" title="{{.Summary}}" aria-label="Link to {{ .Title }}">
+            {{ .Title }}
+        </a>
         {{ end }}
     </li>
     {{ else }}
@@ -28,7 +30,7 @@
 <a href="/posts" aria-label="More Posts">{{ i18n "morePosts" | default "More Posts" }}</a>
 
 <h2>{{ i18n "notes" | default "Notes" }}</h2>
-<ul class="blog-posts">
+<ul class="blog-posts" aria-label="List of recent notes">
     {{ $notes := first 5 (where .Site.RegularPages "Section" "notes") }} {{
     range $notes }}
     <li>
@@ -40,7 +42,9 @@
                 </time>
             </i>
         </span>
-        <a href="{{ .RelPermalink }}">{{ .Description | default .Title }}</a>
+        <a href="{{ .RelPermalink }}" aria-label="Note: {{ .Description | default .Title }}">
+            {{ .Description | default .Title }}
+        </a>
     </li>
     {{ else }}
     <li>{{ i18n "no-posts" }}</li>
