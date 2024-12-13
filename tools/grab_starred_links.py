@@ -17,6 +17,9 @@ from diskcache import Cache
 # Load environment variables
 load_dotenv()
 
+# Centralized logging configuration
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
 # Configuration
 CACHE_DIRECTORY = "./script_cache"
 CACHE_TIMEOUT = 86400  # 24 hours
@@ -43,7 +46,7 @@ def fetch_rss_feed(url):
     try:
         return feedparser.parse(url)
     except Exception as e:
-        print(f"Error fetching RSS feed: {e}")
+        logging.error(f"Error fetching RSS feed: {e}")
         return None
 
 def generate_unique_slug(title, date_str, url):
@@ -63,22 +66,21 @@ def generate_unique_slug(title, date_str, url):
 
 def create_hugo_post(entry):
     try:
-
         title = entry.title
         date = entry.get('published', entry.get('updated', datetime.now().isoformat()))
         url = entry.link
         if not title or not date or not url:
-            print(f"Skipping invalid entry: {title}, {url}")
+            logging.warning(f"Skipping invalid entry: {title}, {url}")
             return False
         
         slug = generate_unique_slug(title, date, url)
         file_path = os.path.join(HUGO_CONTENT_DIR, f"{slug}.md")
         
         if os.path.exists(file_path):
-            print(f"Skipping existing entry: {title}")
+            logging.info(f"Skipping existing entry: {title}")
             return False
         else:
-            print(f"Creating post for: {title}, {url}")
+            logging.info(f"Creating post for: {title}, {url}")
 
         scraped_content = scrape_url(url)
      
@@ -102,14 +104,17 @@ def create_hugo_post(entry):
         post.metadata['draft'] = False
         post.metadata['original_url'] = url
         
-        with open(file_path, 'w', encoding='utf-8') as f:
-           f.write(frontmatter.dumps(post))
-        
-        print(f"Created post: {file_path}")
-        return True
+        try:
+            with open(file_path, 'w', encoding='utf-8') as f:
+                f.write(frontmatter.dumps(post))
+            logging.info(f"Created post: {file_path}")
+            return True
+        except Exception as e:
+            logging.error(f"Error writing post to file '{file_path}': {e}")
+            return False
  
     except Exception as e:
-        print(f"Error creating post for '{title}': {e}")
+        logging.error(f"Error creating post for '{title}': {e}")
         return False
 
 def get_tags_summary(title, content):
@@ -121,7 +126,6 @@ def get_tags_summary(title, content):
 
     # Truncate content to avoid token limits while preserving meaning
     max_content_len = 1000
-
 
     prompt = f"""
     Analyze this webpage and suggest up to 3 relevant tags.
@@ -142,8 +146,6 @@ def get_tags_summary(title, content):
     """
 
     try:
-        
-
         # Create cache key from prompt
         cache_key = hashlib.md5(prompt.encode()).hexdigest()
 
@@ -165,13 +167,6 @@ def get_tags_summary(title, content):
             cache.set(cache_key, result, expire=CACHE_TIMEOUT) # Cache for 24 hours
         else:
             logging.debug("Using cached OpenAI response")
-
-        
-
-        # Parse response and validate
-        
-
-        
 
         logging.info(f"Generated tags: {result.tags}")
         return result
@@ -220,21 +215,23 @@ def scrape_url(url):
 
 def main():
     if not RSS_URL or not HUGO_CONTENT_DIR:
-        print("Error: RSS_URL or HUGO_CONTENT_DIR not set in .env file")
+        logging.error("RSS_URL or HUGO_CONTENT_DIR not set in .env file")
         return
 
-    feed = fetch_rss_feed(RSS_URL)
-    if not feed:
-        print("Failed to fetch RSS feed. Exiting.")
-        return
+    try:
+        feed = fetch_rss_feed(RSS_URL)
+        if not feed:
+            logging.error("Failed to fetch RSS feed. Exiting.")
+            return
 
-    new_entries_count = 0
-    for entry in feed.entries:
-        
-        if create_hugo_post(entry):
-            new_entries_count += 1
-    
-    print(f"Processed {new_entries_count} new entries")
+        new_entries_count = 0
+        for entry in feed.entries:
+            if create_hugo_post(entry):
+                new_entries_count += 1
+
+        logging.info(f"Processed {new_entries_count} new entries")
+    except Exception as e:
+        logging.error(f"Unexpected error in main: {e}")
 
 if __name__ == "__main__":
     main()
