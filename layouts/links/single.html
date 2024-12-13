@@ -17,9 +17,9 @@
 <p>
     <a
         href='mailto:{{ . }}?subject={{ i18n "email-subject" }}"{{ default $.Site.Title $.Page.Title }}"'
-        aria-label="Reply via email"
+        aria-label="Reply to this post via email"
     >
-        {{ i18n "email-reply" }} ↪
+        {{ i18n "email-reply" }} <span aria-hidden="true">↪</span>
     </a>
 </p>
 {{ end }} {{ end }} 
