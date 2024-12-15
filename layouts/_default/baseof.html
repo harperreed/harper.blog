@@ -1,7 +1,7 @@
 <!doctype html>
 <html
     lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}"
-    class="theme-nordic"
+    class="{{ with .Site.Params.theme }}theme-{{ . }}{{ end }}"
 >
     <head>
         <meta charset="utf-8" />
