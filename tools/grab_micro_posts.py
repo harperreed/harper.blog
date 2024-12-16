@@ -13,7 +13,14 @@ import logging
 load_dotenv()
 
 # Centralized logging configuration
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.StreamHandler(),
+        logging.FileHandler('micro_posts.log')
+    ]
+)
 
 def download_json_feed(url):
     try:
