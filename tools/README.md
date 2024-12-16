@@ -71,6 +71,7 @@ Before using the tools, ensure you have the following installed:
   - `python-dotenv`: For loading environment variables from the `.env` file.
   - `python-frontmatter`: For handling front matter in Markdown files.
   - `python-slugify`: To create URL-friendly slugs.
+  - `logging`: For centralized logging configuration and error handling.
 
 - **Directory Structure**:
   ```
@@ -80,6 +81,12 @@ Before using the tools, ensure you have the following installed:
   ├── grab_starred_links.py     # Script to fetch and process starred links
   ├── pyproject.toml            # Configuration file for project dependencies
   ```
+
+## 📝 Logging and Error Handling
+
+Both `grab_micro_posts.py` and `grab_starred_links.py` scripts now use the `logging` module for logging instead of print statements. A centralized logging configuration is set up at the beginning of each script. Errors are logged with appropriate severity levels (e.g., `logging.error`, `logging.warning`).
+
+Comprehensive error handling is implemented in both scripts. Exceptions are caught and logged with detailed error messages. Retry mechanisms are added where appropriate to handle transient errors.
 
 ---
 
