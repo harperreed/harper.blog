@@ -1,23 +1,63 @@
 name: Update AUTHORS
 on:
-  workflow_dispatch:  # Allows manual triggering
   push:
     branches:
       - main
+  workflow_dispatch: # Allow manual triggers
+
+# Document workflow purpose
+# This workflow automatically updates the AUTHORS file with new contributors
 jobs:
   updateAuthors:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      # Check out repository with full history
+      - name: Checkout Repository
+        uses: actions/checkout@v3 # Upgrade to v3
         with:
           fetch-depth: 0
+
+      # Configure git user
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      # Generate AUTHORS file
       - name: Update AUTHORS
         run: |
-          git log --format='%aN <%aE>%n%cN <%cE>' | sort -u > AUTHORS
+          echo "Generating AUTHORS file..."
+          echo "# This file lists all contributors to the repository." > AUTHORS
+          echo "# This file is auto-generated, do not edit manually." >> AUTHORS
+          echo "" >> AUTHORS
+          # Get all authors and committers, normalize emails, remove duplicates by email
+          git log --format='%aN|%aE%n%cN|%cE' | \
+            tr '[:upper:]' '[:lower:]' | \
+            sed -E 's/[[:space:]]+<(.+)>/|\1/' | \
+            awk -F'|' '!seen[$2]++ {if($1!="" && $2!="") printf "%s <%s>\n",$1,$2}' | \
+            # Remove noreply GitHub emails in favor of real ones for same user
+            awk -F'[<>]' '!($2 ~ /@users.noreply.github.com$/) || !seen[$1]++' | \
+            # Remove any remaining GitHub noreply emails
+            grep -v "@users.noreply.github.com" | \
+            # Final sort and uniqueness check
+            sort -u >> AUTHORS
+          echo "AUTHORS file generated successfully"
+
+      # Create Pull Request if changes exist
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v3
+        uses: peter-evans/create-pull-request@v5 # Upgrade to v5
         with:
-          commit-message: update authors
-          title: Update AUTHORS
-          body: Credit new contributors by updating AUTHORS
+          commit-message: "chore: update AUTHORS file"
+          title: "chore: update AUTHORS file with new contributors"
+          body: |
+            This PR updates the AUTHORS file to credit new contributors.
+
+            This is an automated PR created by the Update AUTHORS workflow.
+
+            Changes:
+            - Updates list of contributors based on git history
           branch: update-authors
+          delete-branch: true # Clean up branch after merge
+          base: main
+          labels: |
+            documentation
