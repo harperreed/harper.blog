@@ -1,0 +1,39 @@
+<!-- Content Security Policy (CSP) -->
+<meta
+  http-equiv="Content-Security-Policy"
+  content="
+    default-src 'self';
+    script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://static.cloudflareinsights.com https://tinylytics.app;
+    style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://fonts.googleapis.com;
+    font-src 'self' https://fonts.gstatic.com;
+    img-src 'self' data: https: *;
+    connect-src 'self' https:;
+    media-src 'self';
+    object-src 'none';
+    frame-src 'self' https://www.youtube.com https://youtube.com https://youtu.be;
+    form-action 'self';
+    base-uri 'self';
+    upgrade-insecure-requests;" />
+
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+
+<!-- Cross-Site Scripting Protection -->
+<meta http-equiv="X-XSS-Protection" content="1; mode=block" />
+
+<!-- Prevent MIME-type sniffing -->
+<meta http-equiv="X-Content-Type-Options" content="nosniff" />
+
+<!-- Referrer Policy -->
+<meta name="referrer" content="strict-origin-when-cross-origin" />
+
+<!-- Force HTTPS -->
+<meta
+  http-equiv="Strict-Transport-Security"
+  content="max-age=31536000; includeSubDomains" />
+
+<!-- Disable caching for sensitive pages -->
+<meta
+  http-equiv="Cache-Control"
+  content="no-store, no-cache, must-revalidate, proxy-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
