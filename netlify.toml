@@ -1,7 +1,7 @@
 [build]
 HUGO_VERSION = "0.136.4"
 publish = "public"
-command = "hugo --cleanDestinationDir --templateMetrics --templateMetricsHints --gc"
+command = "hugo --cleanDestinationDir --gc --minify --forceSyncStatic --logLevel info"
 
 [context.production.environment]
 HUGO_VERSION = "0.136.4"
