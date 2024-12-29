@@ -59,6 +59,12 @@ This website, [harper.blog](https://harper.blog), is the personal blog of Harper
 -   The site aims to be accessible and adheres to modern web standards
 -   Semantic HTML is used throughout the site
 
+## Analytics
+
+-   The site is using [tinylytics](https://tinylytics.app/) to track various bits and hits. You can see the results [here](https://tinylytics.app/public/cw1YY9KSGSE4XkEeXej7).
+
+-   This site has recieved {{< ta_hits >}} hits from the following countries: {{< ta_countries >}}.
+
 ## Author and Maintenance
 
 This site is maintained by Harper Reed. For inquiries, please contact [harper@modest.com](mailto:harper@modest.com).
