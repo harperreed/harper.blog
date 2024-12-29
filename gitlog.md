@@ -1,5 +1,210 @@
+- **2024-12-28**: Add query parameters to Tinylytics script in footer
+- **2024-12-28**: Add security measures in base layout and create security partial 🤖🔒
+- **2024-12-28**: Add Analytics Section and Shortcodes for Tracking Hits and Countries 🎉📊
+- **2024-12-28**: Merge branch 'main' of github.com:harperreed/harper.blog
+- **2024-12-28**: Add analytics script and update CSP for footer and Netlify configuration 🎉🎉
+- **2024-12-28**: Auto update micro posts
+- **2024-12-28**: Auto update micro posts
+- **2024-12-28**: Auto update micro posts
+- **2024-12-27**: Merge pull request #84 from harperreed/update-authors
+- **2024-12-27**: chore: update AUTHORS file
+- **2024-12-27**: Merge branch 'main' of github.com:harperreed/harper.blog
+- **2024-12-27**: 🎉 Enhanced AUTHORS Update Workflow 💥
+- **2024-12-27**: Auto update micro posts
+- **2024-12-26**: Auto update micro posts
+- **2024-12-26**: Auto update micro posts
+- **2024-12-26**: Auto update micro posts
+- **2024-12-25**: Auto update micro posts
+- **2024-12-23**: Auto update micro posts
+- **2024-12-23**: Auto update micro posts
+- **2024-12-19**: Auto update micro posts
+- **2024-12-19**: Auto update micro posts
+- **2024-12-19**: Auto update micro posts
+- **2024-12-16**: log is stupid
+- **2024-12-16**: Centralized logging changes in grab_micro_posts.py 🚀📜
+- **2024-12-17**: Auto update micro posts
+- **2024-12-17**: Auto update micro posts
+- **2024-12-17**: Auto update micro posts
+- **2024-12-17**: Auto update micro posts
+- **2024-12-17**: Auto update micro posts
+- **2024-12-17**: Auto update micro posts
+- **2024-12-17**: Auto update micro posts
+- **2024-12-17**: Auto update micro posts
+- **2024-12-17**: Auto update micro posts
+- **2024-12-17**: Auto update micro posts
+- **2024-12-17**: Auto update micro posts
+- **2024-12-17**: Auto update micro posts
+- **2024-12-17**: Auto update micro posts
+- **2024-12-17**: Auto update micro posts
+- **2024-12-17**: Auto update micro posts
+- **2024-12-17**: Auto update micro posts
+- **2024-12-17**: Auto update micro posts
+- **2024-12-16**: Auto update micro posts
+- **2024-12-16**: Auto update micro posts
+- **2024-12-16**: Auto update micro posts
+- **2024-12-16**: Merge pull request #83 from harperreed/improve-error-handling
+- **2024-12-16**: Update tools/grab_micro_posts.py
+- **2024-12-16**: Auto update micro posts
+- **2024-12-16**: Auto update micro posts
+- **2024-12-16**: Auto update micro posts
+- **2024-12-15**: Add theme customization and minor fixes 🎨✨
+- **2024-12-14**: Auto update micro posts
+- **2024-12-13**: Improve error handling and logging in Python scripts
+- **2024-12-13**: Merge pull request #81 from harperreed/add-accessibility-features
+- **2024-12-13**: Update layouts/index.html
+- **2024-12-13**: Update layouts/index.html
+- **2024-12-13**: Update layouts/links/single.html
+- **2024-12-13**: Update layouts/links/single.html
+- **2024-12-13**: Update layouts/notes/single.html
+- **2024-12-13**: Update layouts/partials/header.html
+- **2024-12-13**: Add accessibility features
+- **2024-12-13**: Merge pull request #80 from harperreed/consolidate-dependencies
+- **2024-12-13**: Consolidate dependencies into pyproject.toml
+- **2024-12-12**: Merge pull request #73 from harperreed/bundles
+- **2024-12-12**: Refactor JavaScript resource loading in head section 🚀💻
+- **2024-12-12**: New error handling for missing CSS resources in head/css.html 🎨🚫
+- **2024-12-12**: Refactor CSS handling in non-production mode 🎨🔥
+- **2024-12-12**: Update layouts/partials/head/css.html
+- **2024-12-12**: Update layouts/partials/head/css.html
+- **2024-12-12**: Update layouts/partials/head/javascript.html
+- **2024-12-12**: Update layouts/partials/head/javascript.html
+- **2024-12-12**: Update layouts/partials/head/javascript.html
+- **2024-12-12**: Refactor CSS and JS handling to improve resource concatenation 🎉🎨
+- **2024-12-12**: ✨ Add image loading effects with CSS and JS! 🎉
+- **2024-12-12**: Auto update micro posts
+- **2024-12-12**: Auto update micro posts
+- **2024-12-11**: Auto update micro posts
+- **2024-12-10**: Auto update micro posts
+- **2024-12-10**: Auto update micro posts
+- **2024-12-10**: Auto update micro posts
+- **2024-12-10**: Auto update micro posts
+- **2024-12-09**: Merge pull request #72 from harperreed/headers
+- **2024-12-09**: Update Netlify configuration for modern build tools and security settings 🚀🔧
+- **2024-12-09**: Update netlify.toml with modern settings and enhanced security 🔒🚀
+- **2024-12-09**: Updated About page with new image and social media link 🎉📸
+- **2024-12-09**: Auto update micro posts
+- **2024-12-09**: Auto update micro posts
+- **2024-12-08**: Fix deployment path in Netlify configuration 🚀🔧
+- **2024-12-08**: 🐰💥 🛠️ Refactor GitHub Actions Workflow for Hugo Deployment 🛠️💥 🐰
+- **2024-12-08**: 🎉 Update Hugo Build and Deploy Workflow! 🚀
+- **2024-12-08**: Hugo build workflow update: Increased timeout and refined logging! 🚀⏱️
+- **2024-12-08**: 🛠️✨ Revamped Hugo Deploy Workflow: No More Node Setup! 🎉
+- **2024-12-08**: 📦 Refactor GitHub Action for Hugo Deployment 🚀
+- **2024-12-08**: Merge branch 'main' of github.com:harperreed/harper.blog
+- **2024-12-08**: 🚀 Enhance Hugo Build and Deploy Workflow 🎉
+- **2024-12-08**: Merge pull request #70 from harperreed/caching
+- **2024-12-08**: Update layouts/partials/head/custom_head.html
+- **2024-12-08**: Update layouts/partials/head/css.html
+- **2024-12-08**: Update layouts/partials/head/rss.html
+- **2024-12-08**: Merge branch 'caching' of github.com:harperreed/harper.blog into caching
+- **2024-12-08**: Updated Netlify configuration for better performance 🚀💨
+- **2024-12-08**: Update layouts/partials/head/custom_head.html
+- **2024-12-08**: Remove Netlify Identity Widget script and minor adjustments in custom_head.html 🚫🦸‍♂️
+- **2024-12-08**: 🚀 Major Overhaul: Enhanced Hugo Build & Layout Files! 🌟
+- **2024-12-08**: Auto update micro posts
+- **2024-12-07**: Auto update micro posts
+- **2024-12-06**: Merge branch 'main' of github.com:harperreed/harper.blog
+- **2024-12-06**: 🎉✨ Update CSS & HTML for Links Layout! 🚀🖌️
+- **2024-12-06**: Auto update micro posts
+- **2024-12-06**: Auto update micro posts
+- **2024-12-06**: Auto update micro posts
+- **2024-12-06**: Auto update micro posts
+- **2024-12-06**: Auto update micro posts
+- **2024-12-05**: 🎉 Added Open Graph video meta tag to base template! 🚀
+- **2024-12-05**: Merge branch 'main' of github.com:harperreed/harper.blog
+- **2024-12-05**: 🎉 Added error handling and improved entry validation in grab_starred_links.py 🚀
+- **2024-12-06**: Auto update micro posts
+- **2024-12-05**: Update params.toml
+- **2024-12-05**: 🎉 Revamped Hugo Deployment Workflow! 🚀
+- **2024-12-05**: 🚀 Simplified Hugo Deployment Workflow! 🥳
+- **2024-12-05**: 🎉 Major overhaul of the new Hugo deploy workflow! 🚀
+- **2024-12-05**: Add new GitHub Actions workflow for Hugo build and deployment 🚀🎉
+- **2024-12-05**: Merge pull request #68 from harperreed/social-card
+- **2024-12-05**: Refactor featured image parameters and cleanup 🎨✨
+- **2024-12-05**: 🎉 New Partial Template for Featured Image 🎉 - Added `get-featured-image.html` to generate a dynamic featured image based on available resources. 🖼️ - The template checks for images containing "feature" in their names, and if not found, it defaults to "cover" or "thumbnail" images. - If no images match, a fallback image is used (social card background). 🦸‍♂️ - Implements text overlay from the title and current date, adjusting placement and styling dynamically for better visuals! ⭐ - Added font resources for better typography in the resulting images! 🖊️ - Overall, this change enhances visual content presentation significantly, making our images pop like popcorn! 🍿
+- **2024-12-05**: Add Mulish fonts and simplify social card generation 🎉
+- **2024-12-05**: Merge branch 'main' of github.com:harperreed/harper.blog
+- **2024-12-05**: Dynamic social card template added 📅🎉 - Added a new file `layouts/partials/social_card.html` that generates dynamic social cards for improved SEO and sharing on social media. - The template dynamically adjusts text size based on title length, pulling in author and publish date data for better visibility. - It includes Open Graph and Twitter card meta tags to enhance social media integration and appearance when links are shared. - Deprecated old site configuration keys for social media in favor of parameters, making it cleaner and easier to manage 🧹. - The template supports images for both Open Graph and microdata, boosting the overall richness of the shared content 🍔.
+- **2024-12-04**: ✨🎉 Major CSS Overhaul: Streamlined Themes and Styling! 🎉✨
+- **2024-12-04**: Merge pull request #67 from harperreed/new-post
+- **2024-12-04**: Updated outputFormats.toml to remove LinksRSS configuration 🎉🚀
+- **2024-12-04**: New theme blog post update! 🎉
+- **2024-12-04**: Add generated date to footer and tidy up code 🎉🚀
+- **2024-12-04**: Updated theme post for clarity and engagement 🎨✨ - Changed "let me know" to "please let me know" for a more polite invite to feedback ✉️ - Adjusted the tone to encourage user interaction, aligning with the theme’s accessible and friendly vibe 💬 - The content remains primarily intact, reinforcing the emphasis on user feedback to promote community engagement 🔄
+- **2024-12-04**: New theme update with improved clarity and accessibility 🚀✨
+- **2024-12-04**: 🎉 Update custom CSS and clean up layouts! 🚀
+- **2024-12-04**: ✨ CSS Tweaks Galore! ✨
+- **2024-12-04**: Update theme selection and build command in config files 🎨🚀
+- **2024-12-04**: Add .mise.toml for project task management 🎉🛠️
+- **2024-12-04**: New theme announcement 🎉🎨
+- **2024-12-04**: Add theme-chooser functionality and refactor CSS theme names 🎨✨
+- **2024-12-04**: 🎉✨ Security Settings Overhaul & Hugo Version Bump! 🎉✨
+- **2024-12-04**: Updated Netlify config with Go version and CSP adjustments 🚀✨
+- **2024-12-04**: 🎉 Security and Netlify Config Overhaul 🚀
+- **2024-12-04**: Merge pull request #66 from harperreed/fix-csp
+- **2024-12-04**: Fix CSP issue
+- **2024-12-04**: Updated metadata for note #158 📅✨ - Added a description: "Hangs with Spencer" to provide context about the content 👯‍♂️ - Ensured the status of the note is set to draft: false (it’s ready to be shared with the world 🌍) - No newline is added at the end of the file; this is just a formatting quirk, nothing major to freak out about 🙃
+- **2024-12-04**: Merge pull request #64 from harperreed/add-csp-headers
+- **2024-12-04**: Add Content Security Policy headers
+- **2024-12-04**: Merge pull request #59 from harperreed/add-aria
+- **2024-12-04**: Merge branch 'main' into add-aria
+- **2024-12-04**: Merge branch 'main' of github.com:harperreed/harper.blog
+- **2024-12-04**: Fix HTML tag structure in index.html for better rendering 🚀✨
+- **2024-12-04**: Delete content/notes/2024-01-16-19-43-56-untitled/index.md
+- **2024-12-04**: Merge pull request #63 from harperreed/improve-description-processing
+- **2024-12-04**: Merge pull request #60 from harperreed/move-inline-styles
+- **2024-12-04**: Merge branch 'main' into move-inline-styles
+- **2024-12-04**: Merge pull request #57 from harperreed/add-aria-labels
+- **2024-12-04**: Merge pull request #58 from harperreed/fix-themes
+- **2024-12-04**: Updated HTML structure and enhanced Netlify config 🔧🍕 - Fixed HTML structure in `layouts/index.html`: cleaned up `<span>` and `<time>` tag positions to ensure valid HTML after rendering. This is crucial for proper display and accessibility, making our posts way less cringe. 🙌 - Updated `netlify.toml`: added `script-src 'self'` to the Content Security Policy for enhanced security. This is like putting a bouncer at the front door of our site—only the cool stuff gets in! 🎉🏰 Plus, updated Go version to `1.23` for compatibility and modern vibes.
+- **2024-12-04**: Improve description field processing in grab_micro_posts.py
+- **2024-12-04**: Update assets/css/harper.css
+- **2024-12-04**: Move inline styles to external CSS
+- **2024-12-04**: Add `aria-label` attribute to the `date` front matter for accessibility
+- **2024-12-04**: Add ARIA to dates
+- **2024-12-04**: Fix themes
+- **2024-12-04**: Add i18n entries for `aria-label` attributes
+- **2024-12-04**: Add `aria-label` attribute to the "Back to the current Now" link for accessibility
+- **2024-12-04**: Add ARIA labels to navigation links
+- **2024-12-04**: Merge pull request #47 from harperreed/bearcub
+- **2024-12-04**: Update archetypes/now.md
+- **2024-12-04**: Update layouts/notes/single.html
+- **2024-12-04**: Update config/_default/params.toml
+- **2024-12-04**: Update layouts/404.html
+- **2024-12-04**: Update assets/js/theme.js
+- **2024-12-04**: Update assets/css/harper.css
+- **2024-12-04**: Update assets/css/bsky_comments.css
+- **2024-12-04**: Update Makefile
+- **2024-12-04**: Update assets/js/theme.js
+- **2024-12-04**: Update i18n/en.yaml
+- **2024-12-04**: Update content/now/2024-12-03.md
+- **2024-12-04**: Update config/_default/languages.toml
+- **2024-12-04**: Update Makefile
+- **2024-12-04**: Update config/_default/hugo.toml
+- **2024-12-04**: Update i18n/en.yaml
+- **2024-12-04**: Auto update micro posts
+- **2024-12-04**: ✨ Translations and HTML updates for clarity and organization! 🎉
+- **2024-12-04**: tUpdate Netlify configuration for build and caching 🛠️🚀
+- **2024-12-04**: Updated CSS structure and config for better organization and security enhancements 🚀🛡️
+- **2024-12-04**: 🎨 Update CSS and Markdown Files with New Styles and Format Enhancements 🚀
+- **2024-12-03**: 🎉 Add avatar image to header for stylish branding! 😎
+- **2024-12-03**: New theme and JavaScript functionality, with various CSS updates 🌈💻
+- **2024-12-03**: Merge branch 'main' into bearcub
+- **2024-12-03**: Updated base template to use new theme and clean up comments 🎨✨
+- **2024-12-03**: **Add footer links and minor adjustments to metadata 📝✨**
+- **2024-12-03**: Merge branch 'bearcub' of github.com:harperreed/harper.blog into bearcub
+- **2024-12-03**: - **layouts/links/single.html**:   - Simplified HTML structure by condensing the opening and closing `define` and conditional tags into one line, enhancing readability and consistency across the file.   - Reformatted `<content>` to be in one line for better alignment and clarity.   - Consolidated some line breaks to streamline the code and remove unnecessary whitespace. 🤓
+- **2024-12-03**: Update layouts/partials/pagination.html
+- **2024-12-03**: Update layouts/links/list.html
+- **2024-12-03**: Update layouts/post/single.html
+- **2024-12-03**: Update layouts/now/single.html
+- **2024-12-03**: Update layouts/index.html
+- **2024-12-03**: Update layouts/index.html
+- **2024-12-03**: Update layouts/links/single.html
+- **2024-12-03**: Update layouts/partials/footer.html
 - **2024-12-03**: Update blog index to include links section 🎉📚
 - **2024-12-03**: Add new archetype and metadata updates, along with various content enhancements 📝✨
+- **2024-12-04**: Auto update micro posts
 - **2024-12-03**: 🎉 Revamped Note Titles with Links! 🎉 - Changed title quotes from single to double quotes in `content/notes/2024-12-03-18-49-49-untitled/index.md` and `content/notes/2024-12-03-18-57-15-untitled/index.md` - Added Bsky profile links to both notes 🎈
 - **2024-12-03**: Merge branch 'main' into bearcub
 - **2024-12-04**: Auto update micro posts
