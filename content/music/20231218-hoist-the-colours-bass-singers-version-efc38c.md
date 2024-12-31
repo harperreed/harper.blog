@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Hoist the Colours - Bass Singers Version
-
 ## Bobby Bass on the album Hoist the Colours (Bass Singers Version)
 
 You can listen [here](https://open.spotify.com/track/6osGEhJCyLbneXgpcpKlUW)
 
 {{% spotify "6osGEhJCyLbneXgpcpKlUW" small %}}
 
-added on 2023-12-18 05:06:57+00:00
+added on December 18, 2023

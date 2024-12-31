@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Dear Mr. Fantasy
-
 ## Traffic on the album Mr. Fantasy
 
 You can listen [here](https://open.spotify.com/track/5CGpPUcUahMuLzkNK9ZgPP)
 
 {{% spotify "5CGpPUcUahMuLzkNK9ZgPP" small %}}
 
-added on 2024-02-07 14:18:25+00:00
+added on February 07, 2024

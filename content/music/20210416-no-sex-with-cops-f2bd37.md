@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# No Sex With Cops
-
 ## Brutalismus 3000 on the album Amore Hardcore
 
 You can listen [here](https://open.spotify.com/track/3VENW5XwluAdLalduotknJ)
 
 {{% spotify "3VENW5XwluAdLalduotknJ" small %}}
 
-added on 2021-04-16 19:23:24+00:00
+added on April 16, 2021

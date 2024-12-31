@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Concealer
-
 ## Eartheater on the album Concealer
 
 You can listen [here](https://open.spotify.com/track/50y2fNzHymzKehWtnyD8Cb)
 
 {{% spotify "50y2fNzHymzKehWtnyD8Cb" small %}}
 
-added on 2021-07-19 22:04:31+00:00
+added on July 19, 2021

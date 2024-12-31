@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Today Is the Day
-
 ## Yo La Tengo on the album Summer Sun
 
 You can listen [here](https://open.spotify.com/track/5nunaC0CNOswAsk98i0Ugq)
 
 {{% spotify "5nunaC0CNOswAsk98i0Ugq" small %}}
 
-added on 2023-05-31 01:13:39+00:00
+added on May 31, 2023

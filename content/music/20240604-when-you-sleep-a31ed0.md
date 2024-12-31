@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# When You Sleep
-
 ## my bloody valentine on the album Loveless
 
 You can listen [here](https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda)
 
 {{% spotify "3HfEgAaf0koxBpBB8NvGda" small %}}
 
-added on 2024-06-04 13:19:07+00:00
+added on June 04, 2024

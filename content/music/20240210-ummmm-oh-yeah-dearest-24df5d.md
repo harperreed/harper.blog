@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# (Ummmm, Oh Yeah) Dearest
-
 ## Buddy Holly on the album Giant
 
 You can listen [here](https://open.spotify.com/track/6NDg4EyQE5lalcCEEpytsM)
 
 {{% spotify "6NDg4EyQE5lalcCEEpytsM" small %}}
 
-added on 2024-02-10 22:10:24+00:00
+added on February 10, 2024

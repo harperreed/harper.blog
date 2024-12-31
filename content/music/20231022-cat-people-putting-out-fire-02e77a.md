@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Cat People (Putting Out Fire)
-
 ## David Bowie on the album A New Career in a New Town (1977 - 1982)
 
 You can listen [here](https://open.spotify.com/track/5vLI1yIuny3x4OLZ38Rrn2)
 
 {{% spotify "5vLI1yIuny3x4OLZ38Rrn2" small %}}
 
-added on 2023-10-22 16:59:22+00:00
+added on October 22, 2023

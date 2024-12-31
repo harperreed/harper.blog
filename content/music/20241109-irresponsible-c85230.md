@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Irresponsible
-
 ## Emei on the album Scatterbrain
 
 You can listen [here](https://open.spotify.com/track/0zlJpc8mUU9x92uU8t5f6p)
 
 {{% spotify "0zlJpc8mUU9x92uU8t5f6p" small %}}
 
-added on 2024-11-09 06:03:53+00:00
+added on November 09, 2024

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# AMBULANCE FREESTYLE II
-
 ## HXLT on the album AMBULANCE FREESTYLE II
 
 You can listen [here](https://open.spotify.com/track/4r5biKaqMUdFhBmS62dqpW)
 
 {{% spotify "4r5biKaqMUdFhBmS62dqpW" small %}}
 
-added on 2023-10-19 22:50:05+00:00
+added on October 19, 2023

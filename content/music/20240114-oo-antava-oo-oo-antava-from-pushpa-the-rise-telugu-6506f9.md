@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Oo Antava Oo Oo Antava (From "Pushpa - The Rise")(Telugu)
-
 ## Devi Sri Prasad on the album Oo Antava Oo Oo Antava (From "Pushpa - The Rise")(Telugu)
 
 You can listen [here](https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8)
 
 {{% spotify "3szxldqiYs7nkvtmooRod8" small %}}
 
-added on 2024-01-14 17:40:22+00:00
+added on January 14, 2024

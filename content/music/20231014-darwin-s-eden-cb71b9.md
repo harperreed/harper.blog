@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Darwin's Eden
-
 ## A Projection on the album In A Different Light
 
 You can listen [here](https://open.spotify.com/track/12FnItHRIxyBdNpXSXlmCv)
 
 {{% spotify "12FnItHRIxyBdNpXSXlmCv" small %}}
 
-added on 2023-10-14 16:57:08+00:00
+added on October 14, 2023

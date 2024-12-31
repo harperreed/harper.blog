@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Blood Oceans (How Many?)
-
 ## Ghostemane on the album Blood Oceans (How Many?)
 
 You can listen [here](https://open.spotify.com/track/7HG0J5pblRBXV1weLaNeMr)
 
 {{% spotify "7HG0J5pblRBXV1weLaNeMr" small %}}
 
-added on 2024-01-27 01:16:16+00:00
+added on January 27, 2024

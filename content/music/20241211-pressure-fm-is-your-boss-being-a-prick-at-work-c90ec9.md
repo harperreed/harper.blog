@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Pressure FM (is your boss being a prick at work?)
-
 ## JACK MARLOW on the album hat-trick
 
 You can listen [here](https://open.spotify.com/track/0KZmI8YWSwWX5BsttVKR6l)
 
 {{% spotify "0KZmI8YWSwWX5BsttVKR6l" small %}}
 
-added on 2024-12-11 05:18:43+00:00
+added on December 11, 2024

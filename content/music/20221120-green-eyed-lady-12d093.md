@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Green-Eyed Lady
-
 ## Sugarloaf on the album Green-Eyed Lady
 
 You can listen [here](https://open.spotify.com/track/7s2orxqJ8qE0aG3Ngvct3C)
 
 {{% spotify "7s2orxqJ8qE0aG3Ngvct3C" small %}}
 
-added on 2022-11-20 16:02:10+00:00
+added on November 20, 2022

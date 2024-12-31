@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Suite Bergamasque: Clair de Lune, No. 3
-
 ## Claude Debussy on the album Tomita's Greatest Hits
 
 You can listen [here](https://open.spotify.com/track/7cwPQGHgob1v9pek8WnQRx)
 
 {{% spotify "7cwPQGHgob1v9pek8WnQRx" small %}}
 
-added on 2023-01-15 00:41:23+00:00
+added on January 15, 2023

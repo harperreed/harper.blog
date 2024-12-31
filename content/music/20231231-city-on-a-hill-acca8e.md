@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# City On A Hill
-
 ## Mon Rovîa on the album City On A Hill
 
 You can listen [here](https://open.spotify.com/track/4eklSuk7sHcFDVLQR74QLn)
 
 {{% spotify "4eklSuk7sHcFDVLQR74QLn" small %}}
 
-added on 2023-12-31 04:09:41+00:00
+added on December 31, 2023

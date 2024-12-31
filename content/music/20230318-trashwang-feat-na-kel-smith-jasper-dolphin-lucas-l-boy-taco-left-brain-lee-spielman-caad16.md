@@ -13,12 +13,10 @@ type: music
 ---
 
 
-# Trashwang (feat. Na-Kel Smith, Jasper Dolphin, Lucas, L-Boy, Taco, Left Brain & Lee Spielman)
-
 ## Tyler, The Creator on the album Wolf
 
 You can listen [here](https://open.spotify.com/track/2OaPyH3JLuft6iuNFHFJl0)
 
 {{% spotify "2OaPyH3JLuft6iuNFHFJl0" small %}}
 
-added on 2023-03-18 19:44:34+00:00
+added on March 18, 2023

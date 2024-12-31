@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Power And The Passion - Remastered Version
-
 ## Midnight Oil on the album 10,9,8,7,6,5,4,3,2,1
 
 You can listen [here](https://open.spotify.com/track/75SH7qKifZ0Mzl4UFmps31)
 
 {{% spotify "75SH7qKifZ0Mzl4UFmps31" small %}}
 
-added on 2024-09-29 22:32:17+00:00
+added on September 29, 2024

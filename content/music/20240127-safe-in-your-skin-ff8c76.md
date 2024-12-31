@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Safe In Your Skin
-
 ## Title Fight on the album Shed
 
 You can listen [here](https://open.spotify.com/track/1acjIzGS1YUrx6nSuktnqU)
 
 {{% spotify "1acjIzGS1YUrx6nSuktnqU" small %}}
 
-added on 2024-01-27 05:05:58+00:00
+added on January 27, 2024

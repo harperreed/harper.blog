@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# tbh i dont like being social
-
 ## luvlxckdown on the album tbh i dont like being social
 
 You can listen [here](https://open.spotify.com/track/2N9fiSiVyPRCqMVGQiLUVr)
 
 {{% spotify "2N9fiSiVyPRCqMVGQiLUVr" small %}}
 
-added on 2024-01-05 23:40:15+00:00
+added on January 05, 2024

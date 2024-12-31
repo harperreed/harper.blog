@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Take Control
-
 ## Culture Shock on the album Sequence
 
 You can listen [here](https://open.spotify.com/track/416Gg6xPcOnhbYKJzS35LQ)
 
 {{% spotify "416Gg6xPcOnhbYKJzS35LQ" small %}}
 
-added on 2022-09-18 00:28:51+00:00
+added on September 18, 2022

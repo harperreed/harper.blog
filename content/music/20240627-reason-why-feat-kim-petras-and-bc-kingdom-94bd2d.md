@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Reason Why (feat. Kim Petras and BC Kingdom)
-
 ## SOPHIE on the album Reason Why (feat. Kim Petras and BC Kingdom)
 
 You can listen [here](https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu)
 
 {{% spotify "1I4fm6R1YbcLE3DIut2yWu" small %}}
 
-added on 2024-06-27 03:07:32+00:00
+added on June 27, 2024

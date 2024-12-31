@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# This Charming Man - 2011 Remaster
-
 ## The Smiths on the album The Smiths
 
 You can listen [here](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ)
 
 {{% spotify "1FvDJ9KGxcqwv1utyPL3JZ" small %}}
 
-added on 2022-08-21 22:21:18+00:00
+added on August 21, 2022

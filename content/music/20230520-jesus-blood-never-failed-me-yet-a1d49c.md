@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Jesus' Blood Never Failed Me Yet
-
 ## Gavin Bryars on the album Bryars: Jesus' Blood Never Failed Me Yet
 
 You can listen [here](https://open.spotify.com/track/5TZZ1FqSZhWpLjUapdpG35)
 
 {{% spotify "5TZZ1FqSZhWpLjUapdpG35" small %}}
 
-added on 2023-05-20 16:08:52+00:00
+added on May 20, 2023

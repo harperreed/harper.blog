@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# The Expanding Universe
-
 ## Laurie Spiegel on the album The Expanding Universe
 
 You can listen [here](https://open.spotify.com/track/43mnZs5bumUEqepenx1Hgn)
 
 {{% spotify "43mnZs5bumUEqepenx1Hgn" small %}}
 
-added on 2023-11-08 01:36:43+00:00
+added on November 08, 2023

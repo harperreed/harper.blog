@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# S on Ya Chest
-
 ## Injury Reserve on the album Floss
 
 You can listen [here](https://open.spotify.com/track/1vup3vAmSmFLxSIzGOM38V)
 
 {{% spotify "1vup3vAmSmFLxSIzGOM38V" small %}}
 
-added on 2022-10-11 17:16:07+00:00
+added on October 11, 2022

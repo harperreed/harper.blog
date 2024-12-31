@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Joni: LA's No. 1 Health Goth
-
 ## illuminati hotties on the album Let Me Do One More
 
 You can listen [here](https://open.spotify.com/track/4gq0UBygSttdeOkjMNDZQB)
 
 {{% spotify "4gq0UBygSttdeOkjMNDZQB" small %}}
 
-added on 2023-04-21 19:44:08+00:00
+added on April 21, 2023

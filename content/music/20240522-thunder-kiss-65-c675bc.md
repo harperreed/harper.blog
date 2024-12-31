@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Thunder Kiss '65
-
 ## White Zombie on the album La Sexorcisto: Devil Music Volume 1
 
 You can listen [here](https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod)
 
 {{% spotify "4tvBoSWeIW0bjhKNre5mod" small %}}
 
-added on 2024-05-22 22:05:07+00:00
+added on May 22, 2024

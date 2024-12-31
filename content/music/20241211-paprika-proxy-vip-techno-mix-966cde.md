@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Paprika - Proxy VIP Techno Mix
-
 ## Ilektrify on the album VIP Mixes, Vol. 65
 
 You can listen [here](https://open.spotify.com/track/0GHrnZhAQxQTiSaVsx27MI)
 
 {{% spotify "0GHrnZhAQxQTiSaVsx27MI" small %}}
 
-added on 2024-12-11 05:26:36+00:00
+added on December 11, 2024

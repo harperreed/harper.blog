@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Big Fun Never Ending Nightmare [75 BPM]
-
 ## Vegyn on the album Don't Follow Me Because I'm Lost Too!!
 
 You can listen [here](https://open.spotify.com/track/5mWW2kP2PSkTo2CsCJQZD9)
 
 {{% spotify "5mWW2kP2PSkTo2CsCJQZD9" small %}}
 
-added on 2023-11-26 22:55:40+00:00
+added on November 26, 2023

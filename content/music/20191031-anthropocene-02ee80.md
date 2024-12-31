@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Anthropocene
-
 ## Samsa on the album Anthropocene
 
 You can listen [here](https://open.spotify.com/track/070iRzgOurm4lI1SViKJ6i)
 
 {{% spotify "070iRzgOurm4lI1SViKJ6i" small %}}
 
-added on 2019-10-31 14:03:24+00:00
+added on October 31, 2019

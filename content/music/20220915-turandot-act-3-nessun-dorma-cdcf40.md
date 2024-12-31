@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Turandot / Act 3: Nessun dorma!
-
 ## Giacomo Puccini on the album Puccini: Turandot
 
 You can listen [here](https://open.spotify.com/track/3b9Dae2aPvOGKNOcdhj9CP)
 
 {{% spotify "3b9Dae2aPvOGKNOcdhj9CP" small %}}
 
-added on 2022-09-15 20:38:38+00:00
+added on September 15, 2022

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Shown and Told
-
 ## Devendra Banhart on the album Shown and Told
 
 You can listen [here](https://open.spotify.com/track/24YR49RSh1T9rVPvJ9cTwM)
 
 {{% spotify "24YR49RSh1T9rVPvJ9cTwM" small %}}
 
-added on 2023-06-18 16:45:51+00:00
+added on June 18, 2023

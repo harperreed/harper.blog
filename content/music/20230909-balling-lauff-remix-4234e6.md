@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Balling - LÄUFF Remix
-
 ## Vibe Chemistry on the album Balling (LÄUFF Remix)
 
 You can listen [here](https://open.spotify.com/track/3PsQcSCxyOm5l96rQfEjVA)
 
 {{% spotify "3PsQcSCxyOm5l96rQfEjVA" small %}}
 
-added on 2023-09-09 02:16:28+00:00
+added on September 09, 2023

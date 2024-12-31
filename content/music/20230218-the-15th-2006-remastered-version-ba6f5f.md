@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# The 15th - 2006 Remastered Version
-
 ## Wire on the album 154 (2006 Remastered Version)
 
 You can listen [here](https://open.spotify.com/track/6uzfO4Nl3imrQEEbUN8kBY)
 
 {{% spotify "6uzfO4Nl3imrQEEbUN8kBY" small %}}
 
-added on 2023-02-18 04:37:52+00:00
+added on February 18, 2023

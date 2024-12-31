@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Bleecker Street
-
 ## Simon & Garfunkel on the album Wednesday Morning, 3 A.M.
 
 You can listen [here](https://open.spotify.com/track/4c0ecVwn17owdwpIBL07wC)
 
 {{% spotify "4c0ecVwn17owdwpIBL07wC" small %}}
 
-added on 2022-06-27 16:27:29+00:00
+added on June 27, 2022

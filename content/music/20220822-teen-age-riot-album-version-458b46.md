@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Teen Age Riot (Album Version)
-
 ## Sonic Youth on the album Daydream Nation (Deluxe Edition)
 
 You can listen [here](https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9)
 
 {{% spotify "0WIbzDVEpmOyBnqqdtqIL9" small %}}
 
-added on 2022-08-22 16:21:49+00:00
+added on August 22, 2022

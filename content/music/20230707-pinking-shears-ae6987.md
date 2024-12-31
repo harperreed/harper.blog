@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Pinking Shears
-
 ## Mandy, Indiana on the album Pinking Shears
 
 You can listen [here](https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF)
 
 {{% spotify "25nJyg6wnbRLN1zkmbX8cF" small %}}
 
-added on 2023-07-07 14:06:47+00:00
+added on July 07, 2023

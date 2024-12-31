@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Soul Love - 2012 Remaster
-
 ## David Bowie on the album The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)
 
 You can listen [here](https://open.spotify.com/track/1bo6xzrCrK7ocEirC5rrZk)
 
 {{% spotify "1bo6xzrCrK7ocEirC5rrZk" small %}}
 
-added on 2022-07-03 03:21:10+00:00
+added on July 03, 2022

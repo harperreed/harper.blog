@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Road to Nowhere - 2003 Remaster
-
 ## Talking Heads on the album The Best of Talking Heads
 
 You can listen [here](https://open.spotify.com/track/4OHIIZHytQRtATug0Abpaa)
 
 {{% spotify "4OHIIZHytQRtATug0Abpaa" small %}}
 
-added on 2023-03-20 19:07:52+00:00
+added on March 20, 2023

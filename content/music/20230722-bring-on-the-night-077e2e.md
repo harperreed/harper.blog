@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Bring On The Night
-
 ## The Police on the album Reggatta De Blanc (Remastered 2003)
 
 You can listen [here](https://open.spotify.com/track/4EkNINvDLeGgIL4zYGsYPb)
 
 {{% spotify "4EkNINvDLeGgIL4zYGsYPb" small %}}
 
-added on 2023-07-22 15:47:46+00:00
+added on July 22, 2023

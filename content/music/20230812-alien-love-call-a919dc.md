@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# ALIEN LOVE CALL
-
 ## Turnstile on the album GLOW ON
 
 You can listen [here](https://open.spotify.com/track/5o5SdS2vu1PgKblBABGlER)
 
 {{% spotify "5o5SdS2vu1PgKblBABGlER" small %}}
 
-added on 2023-08-12 22:28:18+00:00
+added on August 12, 2023

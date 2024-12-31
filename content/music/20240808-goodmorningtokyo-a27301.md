@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# GOODMORNINGTOKYO!
-
 ## TOKYO’S REVENGE on the album GOODMORNINGTOKYO!
 
 You can listen [here](https://open.spotify.com/track/32aVpvig4eQuNjMzQ8pNKN)
 
 {{% spotify "32aVpvig4eQuNjMzQ8pNKN" small %}}
 
-added on 2024-08-08 01:03:09+00:00
+added on August 08, 2024

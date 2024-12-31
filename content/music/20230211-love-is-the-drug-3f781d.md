@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Love Is The Drug
-
 ## Roxy Music on the album Siren
 
 You can listen [here](https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ)
 
 {{% spotify "3wtMkvedoWMQ3XTKv7tqcZ" small %}}
 
-added on 2023-02-11 23:37:31+00:00
+added on February 11, 2023

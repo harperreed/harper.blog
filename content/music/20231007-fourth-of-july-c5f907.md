@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Fourth of July
-
 ## Sufjan Stevens on the album Carrie & Lowell
 
 You can listen [here](https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz)
 
 {{% spotify "5Qnrgqy1pAm9GyNQOgyVFz" small %}}
 
-added on 2023-10-07 19:36:53+00:00
+added on October 07, 2023

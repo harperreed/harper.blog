@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# SIN MIEDO
-
 ## JPEGMAFIA on the album I LAY DOWN MY LIFE FOR YOU
 
 You can listen [here](https://open.spotify.com/track/6zSLy6mrBrMlzaIn9UDw6o)
 
 {{% spotify "6zSLy6mrBrMlzaIn9UDw6o" small %}}
 
-added on 2024-12-07 15:53:23+00:00
+added on December 07, 2024

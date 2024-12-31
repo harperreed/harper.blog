@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# BILLI (feat. Future)
-
 ## EARTHGANG on the album GHETTO GODS
 
 You can listen [here](https://open.spotify.com/track/2w0DHjwF1NIMGXKeypz0sr)
 
 {{% spotify "2w0DHjwF1NIMGXKeypz0sr" small %}}
 
-added on 2022-08-11 01:31:22+00:00
+added on August 11, 2022

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Highly Recommended
-
 ## Gerry Read on the album Highly Recommended
 
 You can listen [here](https://open.spotify.com/track/2kyhGp9Okt2kYzgFBxDed6)
 
 {{% spotify "2kyhGp9Okt2kYzgFBxDed6" small %}}
 
-added on 2024-12-29 16:53:31+00:00
+added on December 29, 2024

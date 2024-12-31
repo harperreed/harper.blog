@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# through the light
-
 ## dracodraco on the album through the light
 
 You can listen [here](https://open.spotify.com/track/4dUFWoTGL8BXPj3chx3RzL)
 
 {{% spotify "4dUFWoTGL8BXPj3chx3RzL" small %}}
 
-added on 2023-05-21 17:43:11+00:00
+added on May 21, 2023

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# I'm So Tired - Remastered 2009
-
 ## The Beatles on the album The Beatles (Remastered)
 
 You can listen [here](https://open.spotify.com/track/2X9H5BokS1u5O46YpNYNsZ)
 
 {{% spotify "2X9H5BokS1u5O46YpNYNsZ" small %}}
 
-added on 2022-08-11 02:30:03+00:00
+added on August 11, 2022

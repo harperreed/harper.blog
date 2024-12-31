@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Friday on My Mind
-
 ## The Easybeats on the album Easy
 
 You can listen [here](https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi)
 
 {{% spotify "2CT08rpgdut8qQs7IAzMGi" small %}}
 
-added on 2022-12-21 20:55:29+00:00
+added on December 21, 2022

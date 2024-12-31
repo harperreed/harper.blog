@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# yandere
-
 ## Mai is outside on the album yandere
 
 You can listen [here](https://open.spotify.com/track/28LhTmlacBkppfjQIAPSCF)
 
 {{% spotify "28LhTmlacBkppfjQIAPSCF" small %}}
 
-added on 2024-12-20 05:11:58+00:00
+added on December 20, 2024

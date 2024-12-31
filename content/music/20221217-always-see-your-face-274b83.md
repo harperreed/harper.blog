@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Always See Your Face
-
 ## Love on the album Four Sail (Expanded Edition)
 
 You can listen [here](https://open.spotify.com/track/6OojY4NdPiEGWHV2EUSwHz)
 
 {{% spotify "6OojY4NdPiEGWHV2EUSwHz" small %}}
 
-added on 2022-12-17 18:52:30+00:00
+added on December 17, 2022

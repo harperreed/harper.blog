@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Knotty Pine
-
 ## Dirty Projectors on the album Dark Was The Night (Red Hot Compilation)
 
 You can listen [here](https://open.spotify.com/track/6OVrzpbprJutSZeJGAfm5F)
 
 {{% spotify "6OVrzpbprJutSZeJGAfm5F" small %}}
 
-added on 2023-07-02 20:52:10+00:00
+added on July 02, 2023

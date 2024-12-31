@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Deformative
-
 ## Black Eyes on the album Black Eyes
 
 You can listen [here](https://open.spotify.com/track/1xTJ4sE2wEv6eq4L9BoKQ0)
 
 {{% spotify "1xTJ4sE2wEv6eq4L9BoKQ0" small %}}
 
-added on 2024-08-03 15:40:27+00:00
+added on August 03, 2024

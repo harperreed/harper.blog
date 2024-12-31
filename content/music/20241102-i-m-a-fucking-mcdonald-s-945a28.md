@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# I'm a Fucking McDonald's
-
 ## Drinking Boys and Girls Choir on the album Keep Drinking
 
 You can listen [here](https://open.spotify.com/track/3M1Sjaj866h4VqejE7Ak6b)
 
 {{% spotify "3M1Sjaj866h4VqejE7Ak6b" small %}}
 
-added on 2024-11-02 16:45:22+00:00
+added on November 02, 2024

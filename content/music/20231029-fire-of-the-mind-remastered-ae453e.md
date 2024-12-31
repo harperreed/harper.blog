@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Fire of the Mind - Remastered
-
 ## Coil on the album The Ape of Naples
 
 You can listen [here](https://open.spotify.com/track/6G4oCGTKDLeP1AVtA5L3Yl)
 
 {{% spotify "6G4oCGTKDLeP1AVtA5L3Yl" small %}}
 
-added on 2023-10-29 00:20:47+00:00
+added on October 29, 2023

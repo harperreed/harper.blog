@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Politicians In My Eyes
-
 ## Death on the album …For The Whole World To See
 
 You can listen [here](https://open.spotify.com/track/6EMAoUEgfk2WtfwiBRG8hd)
 
 {{% spotify "6EMAoUEgfk2WtfwiBRG8hd" small %}}
 
-added on 2022-12-21 15:05:12+00:00
+added on December 21, 2022

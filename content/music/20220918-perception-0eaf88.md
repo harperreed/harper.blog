@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Perception
-
 ## Tsuki on the album Redemption
 
 You can listen [here](https://open.spotify.com/track/1sbSjbgN3BO6pJ3Aes2XoS)
 
 {{% spotify "1sbSjbgN3BO6pJ3Aes2XoS" small %}}
 
-added on 2022-09-18 00:16:17+00:00
+added on September 18, 2022

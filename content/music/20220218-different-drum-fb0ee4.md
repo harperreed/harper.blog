@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Different Drum
-
 ## Stone Poneys on the album Evergreen, Vol.2
 
 You can listen [here](https://open.spotify.com/track/3k63RLvRgkgPGx0keOH3P6)
 
 {{% spotify "3k63RLvRgkgPGx0keOH3P6" small %}}
 
-added on 2022-02-18 02:59:55+00:00
+added on February 18, 2022

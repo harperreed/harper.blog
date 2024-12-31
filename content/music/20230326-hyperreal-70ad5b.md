@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Hyperreal
-
 ## Flume on the album Hyperreal
 
 You can listen [here](https://open.spotify.com/track/5NsruZ9uIydV0A196WZjkV)
 
 {{% spotify "5NsruZ9uIydV0A196WZjkV" small %}}
 
-added on 2023-03-26 20:10:29+00:00
+added on March 26, 2023

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Raining Blood
-
 ## Slayer on the album Reign In Blood
 
 You can listen [here](https://open.spotify.com/track/01Mpj13vURSO3cCLprPt5T)
 
 {{% spotify "01Mpj13vURSO3cCLprPt5T" small %}}
 
-added on 2023-03-09 16:48:02+00:00
+added on March 09, 2023

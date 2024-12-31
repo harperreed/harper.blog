@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Tarantula - Original Mix
-
 ## Pendulum on the album Hold Your Colour
 
 You can listen [here](https://open.spotify.com/track/0G7qyvqwjfMdHZn4RwiAdf)
 
 {{% spotify "0G7qyvqwjfMdHZn4RwiAdf" small %}}
 
-added on 2024-02-13 04:50:53+00:00
+added on February 13, 2024

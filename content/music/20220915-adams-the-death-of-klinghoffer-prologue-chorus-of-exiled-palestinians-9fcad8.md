@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Adams: The Death of Klinghoffer, Prologue: Chorus of Exiled Palestinians
-
 ## John Adams on the album John Adams: The Death Of Klinghoffer
 
 You can listen [here](https://open.spotify.com/track/5L9bEvb3CdE9LQWe5hAhD2)
 
 {{% spotify "5L9bEvb3CdE9LQWe5hAhD2" small %}}
 
-added on 2022-09-15 18:56:27+00:00
+added on September 15, 2022

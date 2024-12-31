@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# On the Level
-
 ## Mac DeMarco on the album This Old Dog
 
 You can listen [here](https://open.spotify.com/track/36rqjSUBaArtMBLWrzwInc)
 
 {{% spotify "36rqjSUBaArtMBLWrzwInc" small %}}
 
-added on 2020-07-30 03:02:01+00:00
+added on July 30, 2020

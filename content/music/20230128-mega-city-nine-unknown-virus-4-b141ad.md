@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Mega City Nine (unknown virus 4.)
-
 ## Ho99o9 on the album Cyber Cop [Unauthorized MP3.]
 
 You can listen [here](https://open.spotify.com/track/2dqFCjvajPzIisD9bSxPXj)
 
 {{% spotify "2dqFCjvajPzIisD9bSxPXj" small %}}
 
-added on 2023-01-28 18:33:49+00:00
+added on January 28, 2023

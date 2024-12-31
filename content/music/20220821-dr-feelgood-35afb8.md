@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Dr. Feelgood
-
 ## Mötley Crüe on the album Dr. Feelgood (Deluxe Version)
 
 You can listen [here](https://open.spotify.com/track/2cc9k15AifO7RfxxuEExkS)
 
 {{% spotify "2cc9k15AifO7RfxxuEExkS" small %}}
 
-added on 2022-08-21 16:46:05+00:00
+added on August 21, 2022

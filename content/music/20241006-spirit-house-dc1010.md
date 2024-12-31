@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Spirit House
-
 ## Broadcast on the album Spell Blanket - Collected Demos 2006 - 2009
 
 You can listen [here](https://open.spotify.com/track/2mLZhtgEXPfYP4bn6hzrUV)
 
 {{% spotify "2mLZhtgEXPfYP4bn6hzrUV" small %}}
 
-added on 2024-10-06 23:42:00+00:00
+added on October 06, 2024

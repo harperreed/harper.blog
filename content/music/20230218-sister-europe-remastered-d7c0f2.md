@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Sister Europe - Remastered
-
 ## The Psychedelic Furs on the album The Psychedelic Furs
 
 You can listen [here](https://open.spotify.com/track/60YZ4pQN9D2YvWx4WyauVl)
 
 {{% spotify "60YZ4pQN9D2YvWx4WyauVl" small %}}
 
-added on 2023-02-18 04:39:25+00:00
+added on February 18, 2023

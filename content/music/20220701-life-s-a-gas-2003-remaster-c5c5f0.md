@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Life's a Gas - 2003 Remaster
-
 ## T. Rex on the album Electric Warrior [Expanded & Remastered]
 
 You can listen [here](https://open.spotify.com/track/1MU62iuv0tVWWVkqHcY1tx)
 
 {{% spotify "1MU62iuv0tVWWVkqHcY1tx" small %}}
 
-added on 2022-07-01 16:23:22+00:00
+added on July 01, 2022

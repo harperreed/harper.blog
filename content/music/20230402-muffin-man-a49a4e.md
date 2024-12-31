@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Muffin Man
-
 ## Frank Zappa on the album Bongo Fury (Live)
 
 You can listen [here](https://open.spotify.com/track/2KfjGQ3MjL1PlRsf2xUH5s)
 
 {{% spotify "2KfjGQ3MjL1PlRsf2xUH5s" small %}}
 
-added on 2023-04-02 19:34:05+00:00
+added on April 02, 2023

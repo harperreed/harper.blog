@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Neighborhood Trapstars
-
 ## Lil Darius on the album Neighborhood Trapstars
 
 You can listen [here](https://open.spotify.com/track/7zXZQEkHUclAqRTJXLIip4)
 
 {{% spotify "7zXZQEkHUclAqRTJXLIip4" small %}}
 
-added on 2023-02-17 09:52:09+00:00
+added on February 17, 2023

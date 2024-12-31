@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Bad Reputation
-
 ## Joan Jett & the Blackhearts on the album Bad Reputation (Music from the Original Motion Picture)
 
 You can listen [here](https://open.spotify.com/track/5UGCoJvoAyKkK51ShNcJS3)
 
 {{% spotify "5UGCoJvoAyKkK51ShNcJS3" small %}}
 
-added on 2024-09-30 00:21:23+00:00
+added on September 30, 2024

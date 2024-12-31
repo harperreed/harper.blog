@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Metallic Taste of Patience
-
 ## Eartheater on the album Phoenix: Flames Are Dew Upon My Skin
 
 You can listen [here](https://open.spotify.com/track/4NkfSizDcCrFZoUzvEYJup)
 
 {{% spotify "4NkfSizDcCrFZoUzvEYJup" small %}}
 
-added on 2021-07-15 20:37:50+00:00
+added on July 15, 2021

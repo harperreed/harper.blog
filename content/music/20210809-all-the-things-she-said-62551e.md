@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# All The Things She Said
-
 ## Poppy on the album All The Things She Said
 
 You can listen [here](https://open.spotify.com/track/0je6JQMhrkDF8aPSHcQ1r2)
 
 {{% spotify "0je6JQMhrkDF8aPSHcQ1r2" small %}}
 
-added on 2021-08-09 21:34:16+00:00
+added on August 09, 2021

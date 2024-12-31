@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Get Me Hype (Intro)
-
 ## Lebra Jolie on the album Lebra Jolie
 
 You can listen [here](https://open.spotify.com/track/1S04juvhfo9NFsTVzxR4tU)
 
 {{% spotify "1S04juvhfo9NFsTVzxR4tU" small %}}
 
-added on 2022-11-04 18:07:54+00:00
+added on November 04, 2022

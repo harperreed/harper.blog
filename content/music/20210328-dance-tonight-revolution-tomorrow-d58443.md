@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Dance Tonight Revolution Tomorrow
-
 ## Lorenzo Senni on the album Scacco Matto
 
 You can listen [here](https://open.spotify.com/track/5nhCNDNbudIii09s8L6aFs)
 
 {{% spotify "5nhCNDNbudIii09s8L6aFs" small %}}
 
-added on 2021-03-28 19:45:48+00:00
+added on March 28, 2021

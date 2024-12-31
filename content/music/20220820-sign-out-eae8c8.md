@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Sign Out
-
 ## Ben Snow on the album With You
 
 You can listen [here](https://open.spotify.com/track/5sonL63lLrWKxYtZfnvtK3)
 
 {{% spotify "5sonL63lLrWKxYtZfnvtK3" small %}}
 
-added on 2022-08-20 02:04:50+00:00
+added on August 20, 2022

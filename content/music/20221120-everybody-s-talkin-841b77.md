@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Everybody's Talkin'
-
 ## Harry Nilsson on the album Midnight Cowboy (Music From The Motion Picture)
 
 You can listen [here](https://open.spotify.com/track/3c8JemHol1XwFFruXQxjCO)
 
 {{% spotify "3c8JemHol1XwFFruXQxjCO" small %}}
 
-added on 2022-11-20 17:31:47+00:00
+added on November 20, 2022

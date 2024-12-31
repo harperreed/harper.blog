@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# First Watch
-
 ## King Creosote on the album Diamond Mine
 
 You can listen [here](https://open.spotify.com/track/5rzxAFIQA9FyTclkBBUYZb)
 
 {{% spotify "5rzxAFIQA9FyTclkBBUYZb" small %}}
 
-added on 2022-10-07 18:34:16+00:00
+added on October 07, 2022

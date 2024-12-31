@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Play The Game - Remastered 2011
-
 ## Queen on the album The Game (2011 Remaster)
 
 You can listen [here](https://open.spotify.com/track/5p6xhgQCwzX0G9PadMU9GA)
 
 {{% spotify "5p6xhgQCwzX0G9PadMU9GA" small %}}
 
-added on 2019-10-27 16:55:13+00:00
+added on October 27, 2019

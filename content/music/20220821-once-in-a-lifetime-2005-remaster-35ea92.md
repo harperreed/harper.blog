@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Once in a Lifetime - 2005 Remaster
-
 ## Talking Heads on the album Remain in Light (Deluxe Version)
 
 You can listen [here](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k)
 
 {{% spotify "38Ngied9rBORlAbLYNCl4k" small %}}
 
-added on 2022-08-21 22:57:20+00:00
+added on August 21, 2022

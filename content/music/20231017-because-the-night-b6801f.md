@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Because the Night
-
 ## Patti Smith on the album Easter
 
 You can listen [here](https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u)
 
 {{% spotify "0lIoY4ZQsdn5QzhraM9o9u" small %}}
 
-added on 2023-10-17 03:02:41+00:00
+added on October 17, 2023

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# act ii: date @ 8 (feat. Drake) - remix
-
 ## 4batz on the album act ii: date @ 8 (feat. Drake) [remix]
 
 You can listen [here](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS)
 
 {{% spotify "3QS9ZCtoSCJhmaJ7QNXSAS" small %}}
 
-added on 2024-03-22 22:25:39+00:00
+added on March 22, 2024

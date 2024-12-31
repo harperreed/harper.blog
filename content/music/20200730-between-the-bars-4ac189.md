@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Between The Bars
-
 ## Madeleine Peyroux on the album Careless Love
 
 You can listen [here](https://open.spotify.com/track/1MLvc7jAgCTIqVbI2Hr2uE)
 
 {{% spotify "1MLvc7jAgCTIqVbI2Hr2uE" small %}}
 
-added on 2020-07-30 03:00:37+00:00
+added on July 30, 2020

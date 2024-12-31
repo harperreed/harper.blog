@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# MILLION DOLLAR BABY (VHS)
-
 ## Tommy Richman on the album MILLION DOLLAR BABY
 
 You can listen [here](https://open.spotify.com/track/3Sz8P5ZFLARe2oJeb0qsyb)
 
 {{% spotify "3Sz8P5ZFLARe2oJeb0qsyb" small %}}
 
-added on 2024-05-07 03:12:56+00:00
+added on May 07, 2024

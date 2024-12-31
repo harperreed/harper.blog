@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# 13th Floor/Growing Old
-
 ## Outkast on the album ATLiens
 
 You can listen [here](https://open.spotify.com/track/5oKpqxuTm4kg8BRQwIBFzk)
 
 {{% spotify "5oKpqxuTm4kg8BRQwIBFzk" small %}}
 
-added on 2023-07-11 19:09:15+00:00
+added on July 11, 2023

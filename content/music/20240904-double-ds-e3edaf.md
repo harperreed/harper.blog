@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Double D’s
-
 ## BigGlacierKeez on the album Chicago, Illinois
 
 You can listen [here](https://open.spotify.com/track/69KxiRXLyA1r5zeSe45SzP)
 
 {{% spotify "69KxiRXLyA1r5zeSe45SzP" small %}}
 
-added on 2024-09-04 20:27:22+00:00
+added on September 04, 2024

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Never Fight A Man With A Perm
-
 ## IDLES on the album Joy as an Act of Resistance.
 
 You can listen [here](https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0)
 
 {{% spotify "4B4CQ84BBpHK5d02cWKUb0" small %}}
 
-added on 2024-07-18 03:42:56+00:00
+added on July 18, 2024

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Master of Puppets (Remastered)
-
 ## Metallica on the album Master of Puppets (Remastered Deluxe Box Set)
 
 You can listen [here](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ)
 
 {{% spotify "54bm2e3tk8cliUz3VSdCPZ" small %}}
 
-added on 2022-08-21 16:47:36+00:00
+added on August 21, 2022

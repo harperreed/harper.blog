@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Snow On Tha Bluff
-
 ## J. Cole on the album Snow On Tha Bluff
 
 You can listen [here](https://open.spotify.com/track/1oOEkBNp4zWnkD7nWjJdog)
 
 {{% spotify "1oOEkBNp4zWnkD7nWjJdog" small %}}
 
-added on 2022-11-16 18:27:24+00:00
+added on November 16, 2022

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Sacrifice
-
 ## Lisa Gerrard on the album Duality
 
 You can listen [here](https://open.spotify.com/track/53qMNaWGzzYZGItbjeldC5)
 
 {{% spotify "53qMNaWGzzYZGItbjeldC5" small %}}
 
-added on 2023-11-08 00:10:43+00:00
+added on November 08, 2023

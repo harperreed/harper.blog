@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Anchin Kfu Ayinkash
-
 ## Hailu Mergia on the album Wede Harer Guzo
 
 You can listen [here](https://open.spotify.com/track/2YfRKF4sWeV1t1NqBoUgxH)
 
 {{% spotify "2YfRKF4sWeV1t1NqBoUgxH" small %}}
 
-added on 2022-12-24 04:16:27+00:00
+added on December 24, 2022

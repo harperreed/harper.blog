@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Not Yet Remembered - Remastered 2004
-
 ## Harold Budd on the album Ambient 2: The Plateaux Of Mirror (Remastered 2004)
 
 You can listen [here](https://open.spotify.com/track/1kxf6rOZTJh2rVMIqkMpFm)
 
 {{% spotify "1kxf6rOZTJh2rVMIqkMpFm" small %}}
 
-added on 2023-02-11 22:05:34+00:00
+added on February 11, 2023

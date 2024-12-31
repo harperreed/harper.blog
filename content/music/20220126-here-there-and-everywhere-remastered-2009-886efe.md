@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Here, There And Everywhere - Remastered 2009
-
 ## The Beatles on the album Revolver (Remastered)
 
 You can listen [here](https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP)
 
 {{% spotify "2B4Y9u4ERAFiMo13XPJyGP" small %}}
 
-added on 2022-01-26 22:21:57+00:00
+added on January 26, 2022

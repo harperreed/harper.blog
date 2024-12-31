@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Click Click Click
-
 ## Tiësto on the album Click Click Click
 
 You can listen [here](https://open.spotify.com/track/5E1XI3JnHOoSEcY2hYnbhj)
 
 {{% spotify "5E1XI3JnHOoSEcY2hYnbhj" small %}}
 
-added on 2024-08-08 00:51:19+00:00
+added on August 08, 2024

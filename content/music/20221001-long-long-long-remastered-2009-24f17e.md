@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Long, Long, Long - Remastered 2009
-
 ## The Beatles on the album The Beatles (Remastered)
 
 You can listen [here](https://open.spotify.com/track/40d2EcaOOCUjDzzo2YvUWn)
 
 {{% spotify "40d2EcaOOCUjDzzo2YvUWn" small %}}
 
-added on 2022-10-01 21:11:13+00:00
+added on October 01, 2022

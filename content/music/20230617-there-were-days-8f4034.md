@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# There Were Days
-
 ## Kin Leonn on the album Commune
 
 You can listen [here](https://open.spotify.com/track/4y0ttEUAd4P3MfYUvwReIu)
 
 {{% spotify "4y0ttEUAd4P3MfYUvwReIu" small %}}
 
-added on 2023-06-17 01:36:50+00:00
+added on June 17, 2023

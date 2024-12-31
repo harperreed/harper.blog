@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# how it falls apart
-
 ## Karima Walker on the album how it falls apart
 
 You can listen [here](https://open.spotify.com/track/7wh81iDTpNGqB2Mi8OpYCR)
 
 {{% spotify "7wh81iDTpNGqB2Mi8OpYCR" small %}}
 
-added on 2023-02-05 22:30:26+00:00
+added on February 05, 2023

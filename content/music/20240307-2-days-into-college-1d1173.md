@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# 2 days into college
-
 ## Aimee Carty on the album 2 days into college
 
 You can listen [here](https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU)
 
 {{% spotify "1v4m9GLt7lpFM5iOvwQZrU" small %}}
 
-added on 2024-03-07 04:24:47+00:00
+added on March 07, 2024

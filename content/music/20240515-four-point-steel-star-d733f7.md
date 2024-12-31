@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Four Point Steel Star
-
 ## Kumo 99 on the album Body N. Will
 
 You can listen [here](https://open.spotify.com/track/5f8B1wdJbXv1DUz6KR4drD)
 
 {{% spotify "5f8B1wdJbXv1DUz6KR4drD" small %}}
 
-added on 2024-05-15 20:34:01+00:00
+added on May 15, 2024

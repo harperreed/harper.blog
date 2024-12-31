@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Incinerate
-
 ## Sonic Youth on the album Rather Ripped
 
 You can listen [here](https://open.spotify.com/track/0lDoG5fQ9cmpvpenwR7Jln)
 
 {{% spotify "0lDoG5fQ9cmpvpenwR7Jln" small %}}
 
-added on 2022-01-27 03:53:06+00:00
+added on January 27, 2022

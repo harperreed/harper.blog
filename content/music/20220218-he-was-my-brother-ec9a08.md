@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# He Was My Brother
-
 ## Simon & Garfunkel on the album Wednesday Morning, 3 A.M.
 
 You can listen [here](https://open.spotify.com/track/5K1aYLWFU4FZlqldlYX8Yg)
 
 {{% spotify "5K1aYLWFU4FZlqldlYX8Yg" small %}}
 
-added on 2022-02-18 02:27:04+00:00
+added on February 18, 2022

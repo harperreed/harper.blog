@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# How Insensitive (Insensatez)
-
 ## Antônio Carlos Jobim on the album Sinatra/Jobim: The Complete Reprise Recordings
 
 You can listen [here](https://open.spotify.com/track/56OMc2pr6XJgpQqASY7kYc)
 
 {{% spotify "56OMc2pr6XJgpQqASY7kYc" small %}}
 
-added on 2023-01-24 15:23:15+00:00
+added on January 24, 2023

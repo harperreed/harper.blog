@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Wild World
-
 ## Yusuf / Cat Stevens on the album Tea For The Tillerman (Remastered 2020)
 
 You can listen [here](https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9)
 
 {{% spotify "7mjSHL2Eb0kAwiKbvNNyD9" small %}}
 
-added on 2022-07-06 19:01:44+00:00
+added on July 06, 2022

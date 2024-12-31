@@ -13,12 +13,10 @@ type: music
 ---
 
 
-# Symphony No. 3, Op. 36 "Symphony of Sorrowful Songs": II. Lento e largo. Tranquillissimo cantabillissimo, dolcissimo, legatissimo
-
 ## Henryk Górecki on the album Górecki: Symphony No. 3, Op. 36 "Symphony of Sorrowful Songs"
 
 You can listen [here](https://open.spotify.com/track/3OF4zZxNv7gF1km8CELqYV)
 
 {{% spotify "3OF4zZxNv7gF1km8CELqYV" small %}}
 
-added on 2023-12-17 20:21:40+00:00
+added on December 17, 2023

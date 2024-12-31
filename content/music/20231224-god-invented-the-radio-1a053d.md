@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# God Invented The Radio
-
 ## FILLY on the album God Invented The Radio
 
 You can listen [here](https://open.spotify.com/track/3uxywHpCVUxrc7EyySg6mY)
 
 {{% spotify "3uxywHpCVUxrc7EyySg6mY" small %}}
 
-added on 2023-12-24 05:07:10+00:00
+added on December 24, 2023

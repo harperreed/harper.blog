@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Separate Ways (Worlds Apart)
-
 ## Journey on the album Frontiers
 
 You can listen [here](https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3)
 
 {{% spotify "4ECNtOnqzxutZkXP4TE3n3" small %}}
 
-added on 2022-08-21 16:50:49+00:00
+added on August 21, 2022

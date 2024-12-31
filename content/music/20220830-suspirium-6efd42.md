@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Suspirium
-
 ## Thom Yorke on the album Suspiria (Music for the Luca Guadagnino Film)
 
 You can listen [here](https://open.spotify.com/track/4Y1igB1GDncJvt7ezbV3cW)
 
 {{% spotify "4Y1igB1GDncJvt7ezbV3cW" small %}}
 
-added on 2022-08-30 20:35:57+00:00
+added on August 30, 2022

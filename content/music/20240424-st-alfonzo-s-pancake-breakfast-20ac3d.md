@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# St. Alfonzo's Pancake Breakfast
-
 ## Frank Zappa on the album Apostrophe(')
 
 You can listen [here](https://open.spotify.com/track/0vUxHD0cUQnSQK4FUmN0iG)
 
 {{% spotify "0vUxHD0cUQnSQK4FUmN0iG" small %}}
 
-added on 2024-04-24 13:29:40+00:00
+added on April 24, 2024

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# April Come She Will
-
 ## Simon & Garfunkel on the album Sounds Of Silence
 
 You can listen [here](https://open.spotify.com/track/0djZ2ndRfAL69WYNra5jRC)
 
 {{% spotify "0djZ2ndRfAL69WYNra5jRC" small %}}
 
-added on 2023-04-06 15:03:18+00:00
+added on April 06, 2023

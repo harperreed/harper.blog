@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Another Sleep Song
-
 ## Graham Nash on the album Wild Tales
 
 You can listen [here](https://open.spotify.com/track/3IIpy5Xjha68QLNklBwFOw)
 
 {{% spotify "3IIpy5Xjha68QLNklBwFOw" small %}}
 
-added on 2024-05-23 02:37:32+00:00
+added on May 23, 2024

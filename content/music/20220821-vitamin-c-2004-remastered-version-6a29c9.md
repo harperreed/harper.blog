@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Vitamin C - 2004 Remastered Version
-
 ## CAN on the album Ege Bamyasi (Remastered Version)
 
 You can listen [here](https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c)
 
 {{% spotify "1tzXnPndBrd2G5GXrOBc1c" small %}}
 
-added on 2022-08-21 14:09:29+00:00
+added on August 21, 2022

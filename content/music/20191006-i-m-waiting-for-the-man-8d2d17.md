@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# I'm Waiting For The Man
-
 ## The Velvet Underground on the album The Velvet Underground & Nico 45th Anniversary
 
 You can listen [here](https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb)
 
 {{% spotify "3fElupNRLRJ0tbUDahPrAb" small %}}
 
-added on 2019-10-06 15:16:59+00:00
+added on October 06, 2019

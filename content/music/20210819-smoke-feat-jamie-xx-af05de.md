@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Smoke (feat. Jamie xx)
-
 ## Headie One on the album Smoke (feat. Jamie xx)
 
 You can listen [here](https://open.spotify.com/track/35D9ljqjFeYWGKwy3eI0bE)
 
 {{% spotify "35D9ljqjFeYWGKwy3eI0bE" small %}}
 
-added on 2021-08-19 19:49:46+00:00
+added on August 19, 2021

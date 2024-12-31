@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Brass Mechanics
-
 ## Motion Graphics on the album Brass Mechanics
 
 You can listen [here](https://open.spotify.com/track/0M50LKqpbR1sSz8ml8g027)
 
 {{% spotify "0M50LKqpbR1sSz8ml8g027" small %}}
 
-added on 2022-08-30 20:24:14+00:00
+added on August 30, 2022

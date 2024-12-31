@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Warm Leatherette
-
 ## The Normal on the album Warm Leatherette
 
 You can listen [here](https://open.spotify.com/track/7mxvuhmRrnQ31vHRm9A9qj)
 
 {{% spotify "7mxvuhmRrnQ31vHRm9A9qj" small %}}
 
-added on 2022-08-10 22:25:53+00:00
+added on August 10, 2022

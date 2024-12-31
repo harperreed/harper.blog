@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Time Is Tight
-
 ## Booker T. & the M.G.'s on the album The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971
 
 You can listen [here](https://open.spotify.com/track/3XOVanRi3prWDEZQiZTlYx)
 
 {{% spotify "3XOVanRi3prWDEZQiZTlYx" small %}}
 
-added on 2022-11-16 01:11:58+00:00
+added on November 16, 2022

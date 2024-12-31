@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Tales Of Lolita
-
 ## Floor on the album Self-Titled + Outtakes
 
 You can listen [here](https://open.spotify.com/track/68dJLo5V8r7SjA0P6JnnWt)
 
 {{% spotify "68dJLo5V8r7SjA0P6JnnWt" small %}}
 
-added on 2019-11-02 17:48:40+00:00
+added on November 02, 2019

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Music Sounds Better With You
-
 ## Stardust on the album Music Sounds Better With You
 
 You can listen [here](https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt)
 
 {{% spotify "303ccTay2FiDTZ9fZ2AdBt" small %}}
 
-added on 2023-06-23 13:53:59+00:00
+added on June 23, 2023

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Touch Me
-
 ## The Doors on the album The Soft Parade
 
 You can listen [here](https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW)
 
 {{% spotify "4BVE5tIIpYabZcYCbephNW" small %}}
 
-added on 2022-09-04 21:52:22+00:00
+added on September 04, 2022

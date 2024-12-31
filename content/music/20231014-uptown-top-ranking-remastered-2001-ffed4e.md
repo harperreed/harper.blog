@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Uptown Top Ranking - Remastered 2001
-
 ## Althea And Donna on the album Uptown Top Ranking
 
 You can listen [here](https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4)
 
 {{% spotify "34zWZOSpU2V1ab0PiZCcv4" small %}}
 
-added on 2023-10-14 23:56:01+00:00
+added on October 14, 2023

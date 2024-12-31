@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Final Boss
-
 ## Ethan Bortnick on the album Final Boss
 
 You can listen [here](https://open.spotify.com/track/1N5B6fOAn8n16VRKnjb6Nv)
 
 {{% spotify "1N5B6fOAn8n16VRKnjb6Nv" small %}}
 
-added on 2022-11-17 15:11:30+00:00
+added on November 17, 2022

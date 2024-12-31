@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Working for the Weekend
-
 ## Loverboy on the album Big Ones
 
 You can listen [here](https://open.spotify.com/track/0zF1cSexRdrMlEzXKwxCDU)
 
 {{% spotify "0zF1cSexRdrMlEzXKwxCDU" small %}}
 
-added on 2022-08-21 16:47:47+00:00
+added on August 21, 2022

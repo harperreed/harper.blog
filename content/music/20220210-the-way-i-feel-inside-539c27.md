@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# The Way I Feel Inside
-
 ## The Zombies on the album Begin Here
 
 You can listen [here](https://open.spotify.com/track/2iSxljzM8Xw9EEIGBRW1CD)
 
 {{% spotify "2iSxljzM8Xw9EEIGBRW1CD" small %}}
 
-added on 2022-02-10 18:21:48+00:00
+added on February 10, 2022

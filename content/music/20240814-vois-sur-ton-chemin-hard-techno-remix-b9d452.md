@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Vois Sur Ton Chemin - Hard Techno Remix
-
 ## GEWOONRAVES on the album Vois Sur Ton Chemin (Hard Techno Remix)
 
 You can listen [here](https://open.spotify.com/track/6Sah28vFeZOmLVXE5KAsrZ)
 
 {{% spotify "6Sah28vFeZOmLVXE5KAsrZ" small %}}
 
-added on 2024-08-14 03:42:19+00:00
+added on August 14, 2024

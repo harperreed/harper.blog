@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Pretend We're Dead
-
 ## L7 on the album Bricks Are Heavy
 
 You can listen [here](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9)
 
 {{% spotify "3z5ggGtcs4t8pizW521gW9" small %}}
 
-added on 2023-08-04 20:13:55+00:00
+added on August 04, 2023

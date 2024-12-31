@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Let Me Be Your Fantasy - Dope Ammo & DJ Hybrid Remix
-
 ## Baby D on the album Let Me Be You Fantasy (Dope Ammo & DJ Hybrid Remix)
 
 You can listen [here](https://open.spotify.com/track/4Q2BYoTPLRGcKeahgDmj7C)
 
 {{% spotify "4Q2BYoTPLRGcKeahgDmj7C" small %}}
 
-added on 2022-07-30 20:45:04+00:00
+added on July 30, 2022

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Enola Gay - Remastered 2003
-
 ## Orchestral Manoeuvres In The Dark on the album Organisation
 
 You can listen [here](https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV)
 
 {{% spotify "3NYCaxkggl0Hh8vQptSUvV" small %}}
 
-added on 2024-12-04 23:51:45+00:00
+added on December 04, 2024

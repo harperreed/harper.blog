@@ -14,12 +14,10 @@ type: music
 ---
 
 
-# Read U Wrote U (Ellis Miah Mix) [feat. The Cast of RuPaul's Drag Race All Stars, Season 2]
-
 ## RuPaul on the album Read U Wrote U (Ellis Miah Mix) [feat. The Cast of RuPaul's Drag Race All Stars, Season 2]
 
 You can listen [here](https://open.spotify.com/track/40fX0BlY8HRW9vtzFuKutC)
 
 {{% spotify "40fX0BlY8HRW9vtzFuKutC" small %}}
 
-added on 2024-11-23 19:38:32+00:00
+added on November 23, 2024

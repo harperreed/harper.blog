@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Fratres (realized by Thomas Höfer)
-
 ## Arvo Pärt on the album Winter Was Hard
 
 You can listen [here](https://open.spotify.com/track/5tsRjXhpTPJyNefX0PKSfD)
 
 {{% spotify "5tsRjXhpTPJyNefX0PKSfD" small %}}
 
-added on 2023-11-08 15:37:03+00:00
+added on November 08, 2023

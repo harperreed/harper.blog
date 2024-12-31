@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Scissor Man - 2001 Digital Remaster
-
 ## XTC on the album Drums And Wires
 
 You can listen [here](https://open.spotify.com/track/1OM6HeJdm6AKe2VJCn9pbA)
 
 {{% spotify "1OM6HeJdm6AKe2VJCn9pbA" small %}}
 
-added on 2023-03-23 15:37:34+00:00
+added on March 23, 2023

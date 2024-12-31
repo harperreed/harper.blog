@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Ntabala (Rolex Riddim)
-
 ## Still on the album Ntabala (Rolex Riddim)
 
 You can listen [here](https://open.spotify.com/track/6Fp3rmwGPtCQQImsFyNQ1L)
 
 {{% spotify "6Fp3rmwGPtCQQImsFyNQ1L" small %}}
 
-added on 2021-08-25 20:02:49+00:00
+added on August 25, 2021

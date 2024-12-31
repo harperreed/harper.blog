@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Play the Greatest Hits
-
 ## Wolf Alice on the album Blue Weekend
 
 You can listen [here](https://open.spotify.com/track/0rSuev4QLH0DydIV7PosuX)
 
 {{% spotify "0rSuev4QLH0DydIV7PosuX" small %}}
 
-added on 2023-05-07 16:25:13+00:00
+added on May 07, 2023

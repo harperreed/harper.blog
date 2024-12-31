@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# 忘れられないの
-
 ## sakanaction on the album 834.194
 
 You can listen [here](https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN)
 
 {{% spotify "7a3LbQFgp7NCuNcGlTgSsN" small %}}
 
-added on 2024-11-22 23:19:29+00:00
+added on November 22, 2024

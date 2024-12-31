@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# I Don't Wanna Be Me
-
 ## Type O Negative on the album Life Is Killing Me
 
 You can listen [here](https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p)
 
 {{% spotify "4eGHEHqoDMMejzPhRFTc7p" small %}}
 
-added on 2022-10-10 20:23:56+00:00
+added on October 10, 2022

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# 隨風而去
-
 ## Wu Bai on the album 愛情的盡頭
 
 You can listen [here](https://open.spotify.com/track/4LfmwxBjnk9vzBAg2AgbSb)
 
 {{% spotify "4LfmwxBjnk9vzBAg2AgbSb" small %}}
 
-added on 2021-07-23 15:37:53+00:00
+added on July 23, 2021

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Fangs - Slowed Down
-
 ## Dionnysuss on the album Fangs
 
 You can listen [here](https://open.spotify.com/track/30l31DirTxcg4NaAY1BHlS)
 
 {{% spotify "30l31DirTxcg4NaAY1BHlS" small %}}
 
-added on 2024-09-19 21:41:38+00:00
+added on September 19, 2024

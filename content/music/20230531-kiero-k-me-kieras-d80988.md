@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Kiero K Me Kieras
-
 ## SoFTT on the album Kiero K Me Kieras
 
 You can listen [here](https://open.spotify.com/track/1ahEs6Mn7tP8SGN1WXuvbF)
 
 {{% spotify "1ahEs6Mn7tP8SGN1WXuvbF" small %}}
 
-added on 2023-05-31 12:07:01+00:00
+added on May 31, 2023

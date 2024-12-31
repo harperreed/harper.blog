@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Sunday Morning
-
 ## The Velvet Underground on the album The Velvet Underground & Nico 45th Anniversary
 
 You can listen [here](https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ)
 
 {{% spotify "11607FzqoipskTsXrwEHnJ" small %}}
 
-added on 2023-03-20 14:27:29+00:00
+added on March 20, 2023

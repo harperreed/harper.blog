@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Fairytale of New York (feat. Kirsty MacColl)
-
 ## The Pogues on the album If I Should Fall from Grace with God (Expanded Edition)
 
 You can listen [here](https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK)
 
 {{% spotify "3VTNVsTTu05dmTsVFrmGpK" small %}}
 
-added on 2023-12-11 13:42:32+00:00
+added on December 11, 2023

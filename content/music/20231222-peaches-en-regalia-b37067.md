@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Peaches En Regalia
-
 ## Frank Zappa on the album Hot Rats
 
 You can listen [here](https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l)
 
 {{% spotify "5uDu2qOoDou7cFXsipAo8l" small %}}
 
-added on 2023-12-22 20:49:22+00:00
+added on December 22, 2023

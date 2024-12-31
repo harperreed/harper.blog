@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# When You Die
-
 ## MGMT on the album Little Dark Age
 
 You can listen [here](https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji)
 
 {{% spotify "3td69vL9Py7Ai9wfXYnvji" small %}}
 
-added on 2022-07-28 02:14:12+00:00
+added on July 28, 2022

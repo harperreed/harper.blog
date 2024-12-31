@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Stay Together For The Kids
-
 ## blink-182 on the album Take Off Your Pants And Jacket
 
 You can listen [here](https://open.spotify.com/track/3YD9EehnGOf88rGSZFrnHg)
 
 {{% spotify "3YD9EehnGOf88rGSZFrnHg" small %}}
 
-added on 2020-06-24 02:39:43+00:00
+added on June 24, 2020

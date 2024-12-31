@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Just My Imagination (Running Away With Me)
-
 ## The Temptations on the album Sky's The Limit
 
 You can listen [here](https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv)
 
 {{% spotify "39Bd345OWEhRNyfayhp9gv" small %}}
 
-added on 2021-04-28 16:50:32+00:00
+added on April 28, 2021

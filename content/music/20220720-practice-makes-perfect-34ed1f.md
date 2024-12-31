@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Practice Makes Perfect
-
 ## SR on the album Practice Makes Perfect
 
 You can listen [here](https://open.spotify.com/track/4Qpa0WH8hUHtOJKSNPrGV7)
 
 {{% spotify "4Qpa0WH8hUHtOJKSNPrGV7" small %}}
 
-added on 2022-07-20 13:55:03+00:00
+added on July 20, 2022

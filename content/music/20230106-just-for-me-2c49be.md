@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Just for Me
-
 ## PinkPantheress on the album to hell with it
 
 You can listen [here](https://open.spotify.com/track/1Vrj9Vcbb0lOG94pQbYvzv)
 
 {{% spotify "1Vrj9Vcbb0lOG94pQbYvzv" small %}}
 
-added on 2023-01-06 20:26:09+00:00
+added on January 06, 2023

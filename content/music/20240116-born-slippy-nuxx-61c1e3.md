@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Born Slippy (Nuxx)
-
 ## Underworld on the album 1992 - 2012
 
 You can listen [here](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC)
 
 {{% spotify "7xQYVjs4wZNdCwO0EeAWMC" small %}}
 
-added on 2024-01-16 04:01:38+00:00
+added on January 16, 2024

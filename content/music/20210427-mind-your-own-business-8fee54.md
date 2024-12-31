@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Mind Your Own Business
-
 ## Delta 5 on the album Singles and Sessions 1979-1981
 
 You can listen [here](https://open.spotify.com/track/2CMQoSgyQLXshYuWLdtlRh)
 
 {{% spotify "2CMQoSgyQLXshYuWLdtlRh" small %}}
 
-added on 2021-04-27 02:17:08+00:00
+added on April 27, 2021

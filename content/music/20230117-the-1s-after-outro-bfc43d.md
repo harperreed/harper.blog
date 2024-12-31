@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# The 1s After - Outro
-
 ## Olik on the album The 1s After (Outro)
 
 You can listen [here](https://open.spotify.com/track/3TUKsEPnPC2KpTrHiZSjkf)
 
 {{% spotify "3TUKsEPnPC2KpTrHiZSjkf" small %}}
 
-added on 2023-01-17 17:47:07+00:00
+added on January 17, 2023

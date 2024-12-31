@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Voices Carry
-
 ## 'Til Tuesday on the album Voices Carry (Expanded Edition)
 
 You can listen [here](https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ)
 
 {{% spotify "0ZYf6N5eBeXStMri0mf3DZ" small %}}
 
-added on 2022-08-21 22:09:31+00:00
+added on August 21, 2022

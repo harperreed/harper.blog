@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Last Night I Had the Strangest Dream
-
 ## Simon & Garfunkel on the album Wednesday Morning, 3 A.M.
 
 You can listen [here](https://open.spotify.com/track/6HFlrUeCo9BwRvhlYkDbn6)
 
 {{% spotify "6HFlrUeCo9BwRvhlYkDbn6" small %}}
 
-added on 2022-06-27 16:25:23+00:00
+added on June 27, 2022

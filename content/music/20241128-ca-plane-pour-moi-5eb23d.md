@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Ca Plane Pour Moi
-
 ## Sonic Youth on the album Freedom Of Choice: Yesterday's New Wave Hits As Performed By Today's Stars
 
 You can listen [here](https://open.spotify.com/track/0Tik10Y3wsU8J5v4fjbV26)
 
 {{% spotify "0Tik10Y3wsU8J5v4fjbV26" small %}}
 
-added on 2024-11-28 01:45:14+00:00
+added on November 28, 2024

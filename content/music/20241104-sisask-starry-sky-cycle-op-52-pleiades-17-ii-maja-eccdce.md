@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Sisask : Starry Sky Cycle Op.52 - Pleiades : 17. II Maja
-
 ## Urmas Sisask on the album Sisask : Starry Sky Cycle
 
 You can listen [here](https://open.spotify.com/track/5jme5vI0C4ynzEC7YGvW2C)
 
 {{% spotify "5jme5vI0C4ynzEC7YGvW2C" small %}}
 
-added on 2024-11-04 02:37:24+00:00
+added on November 04, 2024

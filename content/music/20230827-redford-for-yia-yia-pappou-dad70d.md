@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Redford (For Yia-Yia & Pappou)
-
 ## Sufjan Stevens on the album Undun
 
 You can listen [here](https://open.spotify.com/track/40vfXX854M4Y5ndNIVth6J)
 
 {{% spotify "40vfXX854M4Y5ndNIVth6J" small %}}
 
-added on 2023-08-27 01:58:23+00:00
+added on August 27, 2023

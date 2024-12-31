@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# The Long Day Closes
-
 ## Arthur Sullivan on the album Traditional Glees and Madrigals
 
 You can listen [here](https://open.spotify.com/track/32c5u16EkwZjJ1lEy9nRtk)
 
 {{% spotify "32c5u16EkwZjJ1lEy9nRtk" small %}}
 
-added on 2024-01-18 18:42:15+00:00
+added on January 18, 2024

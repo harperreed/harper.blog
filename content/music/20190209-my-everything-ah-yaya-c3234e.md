@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# My Everything (Ah Yaya)
-
 ## Crowd Mova Crystal on the album Where My Shakers At?, Vol. 2 (New Orleans Gutta Bounce)
 
 You can listen [here](https://open.spotify.com/track/2GCTl74Bh8X2QDFh6h3h45)
 
 {{% spotify "2GCTl74Bh8X2QDFh6h3h45" small %}}
 
-added on 2019-02-09 20:08:55+00:00
+added on February 09, 2019

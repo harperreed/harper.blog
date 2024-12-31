@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Kings of the Carnival Creation
-
 ## Dimmu Borgir on the album Puritanical Euphoric Misanthropia
 
 You can listen [here](https://open.spotify.com/track/7x9gPXIuiG4K45JGR1Zqyq)
 
 {{% spotify "7x9gPXIuiG4K45JGR1Zqyq" small %}}
 
-added on 2023-04-02 19:51:40+00:00
+added on April 02, 2023

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Close to Me - 2006 Remaster
-
 ## The Cure on the album The Head on the Door
 
 You can listen [here](https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA)
 
 {{% spotify "7ABE6G4uQxbNtYgVrpBBPA" small %}}
 
-added on 2023-06-18 17:40:11+00:00
+added on June 18, 2023

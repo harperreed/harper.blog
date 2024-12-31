@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Recorddeals
-
 ## 1 9 0 5 on the album Ghettoboom Vol. 1
 
 You can listen [here](https://open.spotify.com/track/48mKqnEWVN0U68U6SUc995)
 
 {{% spotify "48mKqnEWVN0U68U6SUc995" small %}}
 
-added on 2024-09-21 04:24:55+00:00
+added on September 21, 2024

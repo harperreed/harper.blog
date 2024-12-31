@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Talkin the Hardest
-
 ## Giggs on the album PAY CLOSE ATTENTION: XL Recordings
 
 You can listen [here](https://open.spotify.com/track/4PlLA6QRD4YQmlwQfaNeaz)
 
 {{% spotify "4PlLA6QRD4YQmlwQfaNeaz" small %}}
 
-added on 2024-07-14 02:08:39+00:00
+added on July 14, 2024

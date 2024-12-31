@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Rhythm Is A Dancer
-
 ## SNAP! on the album The Madman's Return
 
 You can listen [here](https://open.spotify.com/track/1IWzfq3sLedGQ3fb2hAMBA)
 
 {{% spotify "1IWzfq3sLedGQ3fb2hAMBA" small %}}
 
-added on 2024-05-17 21:53:29+00:00
+added on May 17, 2024

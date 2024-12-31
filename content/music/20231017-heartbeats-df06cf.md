@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Heartbeats
-
 ## José González on the album Veneer
 
 You can listen [here](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll)
 
 {{% spotify "5YqpHuXpFjDVZ7tY1ClFll" small %}}
 
-added on 2023-10-17 03:10:25+00:00
+added on October 17, 2023

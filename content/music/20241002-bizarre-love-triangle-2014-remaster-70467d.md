@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Bizarre Love Triangle - 2014 Remaster
-
 ## Frente! on the album Marvin The Album - 21st Anniversary Edition
 
 You can listen [here](https://open.spotify.com/track/7sgi66biRYpAXuRZJBDuli)
 
 {{% spotify "7sgi66biRYpAXuRZJBDuli" small %}}
 
-added on 2024-10-02 17:07:19+00:00
+added on October 02, 2024

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Heroine
-
 ## Dimitri Vegas & Like Mike on the album Heroine
 
 You can listen [here](https://open.spotify.com/track/0Hu7MIDZWEiipqaN2UBCet)
 
 {{% spotify "0Hu7MIDZWEiipqaN2UBCet" small %}}
 
-added on 2024-12-09 06:14:21+00:00
+added on December 09, 2024

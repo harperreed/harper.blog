@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# The Thing That Should Not Be
-
 ## Primus on the album Rhinoplasty
 
 You can listen [here](https://open.spotify.com/track/37ikgy8GsWkczicwJAUDOR)
 
 {{% spotify "37ikgy8GsWkczicwJAUDOR" small %}}
 
-added on 2023-03-23 14:55:00+00:00
+added on March 23, 2023
