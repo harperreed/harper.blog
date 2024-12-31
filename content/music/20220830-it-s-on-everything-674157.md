@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# It's On Everything
-
 ## Akira Kosemura on the album It's On Everything
 
 You can listen [here](https://open.spotify.com/track/1LvcZ6JvBU3KDu04N7n8as)
 
 {{% spotify "1LvcZ6JvBU3KDu04N7n8as" small %}}
 
-added on 2022-08-30 20:31:34+00:00
+added on August 30, 2022

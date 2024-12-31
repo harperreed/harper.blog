@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Lovergirls Precinct
-
 ## Oneohtrix Point Never on the album Rifts
 
 You can listen [here](https://open.spotify.com/track/1FZid2kPGVvAUM2Rab8NN7)
 
 {{% spotify "1FZid2kPGVvAUM2Rab8NN7" small %}}
 
-added on 2023-11-27 00:04:02+00:00
+added on November 27, 2023

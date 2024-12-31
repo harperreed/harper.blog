@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# I'm So Tired
-
 ## Fugazi on the album Instrument Soundtrack
 
 You can listen [here](https://open.spotify.com/track/6JgHKt0WwdwlXIht6M0mqa)
 
 {{% spotify "6JgHKt0WwdwlXIht6M0mqa" small %}}
 
-added on 2022-08-11 02:29:59+00:00
+added on August 11, 2022

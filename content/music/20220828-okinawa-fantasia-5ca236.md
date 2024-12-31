@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Okinawa Fantasia
-
 ## Martin Glass on the album The Pacific Visions of Martin Glass
 
 You can listen [here](https://open.spotify.com/track/7phasdQ9ODIIJlCfE1z3fY)
 
 {{% spotify "7phasdQ9ODIIJlCfE1z3fY" small %}}
 
-added on 2022-08-28 00:45:48+00:00
+added on August 28, 2022

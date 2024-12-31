@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# The First Time Ever I Saw Your Face
-
 ## Roberta Flack on the album First Take
 
 You can listen [here](https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf)
 
 {{% spotify "0SxFyA4FqmEQqZVuAlg8lf" small %}}
 
-added on 2023-01-14 22:35:27+00:00
+added on January 14, 2023

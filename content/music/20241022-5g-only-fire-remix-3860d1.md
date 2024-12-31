@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# 5G (Only Fire Remix)
-
 ## Heidi Montag on the album 5G (Only Fire Remix)
 
 You can listen [here](https://open.spotify.com/track/1krwLYOjGFwwPBhgG3q0dq)
 
 {{% spotify "1krwLYOjGFwwPBhgG3q0dq" small %}}
 
-added on 2024-10-22 00:53:21+00:00
+added on October 22, 2024

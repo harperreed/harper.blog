@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Diddy Bop
-
 ## Noname on the album Little (Original Motion Picture Soundtrack)
 
 You can listen [here](https://open.spotify.com/track/24bPUsIQ2ocVEP0tgZV5jJ)
 
 {{% spotify "24bPUsIQ2ocVEP0tgZV5jJ" small %}}
 
-added on 2023-04-11 22:26:09+00:00
+added on April 11, 2023

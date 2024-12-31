@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Jardim dos Deuses
-
 ## Joyce Moreno on the album Visions of Dawn
 
 You can listen [here](https://open.spotify.com/track/1FUHg56IIoOc3CrI5bV7yz)
 
 {{% spotify "1FUHg56IIoOc3CrI5bV7yz" small %}}
 
-added on 2023-01-16 18:34:12+00:00
+added on January 16, 2023

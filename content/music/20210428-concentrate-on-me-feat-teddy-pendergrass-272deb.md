@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Concentrate On Me (feat. Teddy Pendergrass)
-
 ## Harold Melvin & The Blue Notes on the album Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)
 
 You can listen [here](https://open.spotify.com/track/2lu7G8oIwTUSVQHqV2TqKh)
 
 {{% spotify "2lu7G8oIwTUSVQHqV2TqKh" small %}}
 
-added on 2021-04-28 16:06:29+00:00
+added on April 28, 2021

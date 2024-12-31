@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# We Go On Walks
-
 ## Petey on the album Lean Into Life
 
 You can listen [here](https://open.spotify.com/track/4C1vFlHxwtnzj58n7ML8FI)
 
 {{% spotify "4C1vFlHxwtnzj58n7ML8FI" small %}}
 
-added on 2024-02-28 23:05:49+00:00
+added on February 28, 2024

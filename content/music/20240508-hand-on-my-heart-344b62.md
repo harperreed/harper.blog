@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Hand on my heart
-
 ## Ninajirachi on the album Hand on my heart
 
 You can listen [here](https://open.spotify.com/track/0ttpRUqY7S9LfMPnbZjrXq)
 
 {{% spotify "0ttpRUqY7S9LfMPnbZjrXq" small %}}
 
-added on 2024-05-08 00:22:51+00:00
+added on May 08, 2024

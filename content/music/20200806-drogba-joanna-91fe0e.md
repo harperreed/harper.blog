@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Drogba (Joanna)
-
 ## Afro B on the album Afrowave 2
 
 You can listen [here](https://open.spotify.com/track/4E0teOQQQwagLVvQ7VfYm1)
 
 {{% spotify "4E0teOQQQwagLVvQ7VfYm1" small %}}
 
-added on 2020-08-06 01:20:10+00:00
+added on August 06, 2020

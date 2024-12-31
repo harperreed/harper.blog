@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Boys Don't Cry - Single Version
-
 ## The Cure on the album Three Imaginary Boys (Deluxe Edition)
 
 You can listen [here](https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375)
 
 {{% spotify "4dneV7C1yDt9UtyxrQY375" small %}}
 
-added on 2022-08-10 22:16:30+00:00
+added on August 10, 2022

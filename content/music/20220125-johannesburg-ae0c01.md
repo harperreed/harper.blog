@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Johannesburg
-
 ## Africa Express on the album EGOLI
 
 You can listen [here](https://open.spotify.com/track/7n2kFvSGMN51HVITbVgyu9)
 
 {{% spotify "7n2kFvSGMN51HVITbVgyu9" small %}}
 
-added on 2022-01-25 04:18:42+00:00
+added on January 25, 2022

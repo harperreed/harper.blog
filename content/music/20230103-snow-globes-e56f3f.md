@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Snow Globes
-
 ## Black Country, New Road on the album Ants From Up There
 
 You can listen [here](https://open.spotify.com/track/0hpDqky5jV8MQqdvMWFv7K)
 
 {{% spotify "0hpDqky5jV8MQqdvMWFv7K" small %}}
 
-added on 2023-01-03 18:27:10+00:00
+added on January 03, 2023

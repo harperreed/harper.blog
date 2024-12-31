@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Going Up The Country
-
 ## Canned Heat on the album The Best Of Canned Heat
 
 You can listen [here](https://open.spotify.com/track/57460SJgSpCXaRJ9YIYHxy)
 
 {{% spotify "57460SJgSpCXaRJ9YIYHxy" small %}}
 
-added on 2022-06-27 14:59:01+00:00
+added on June 27, 2022

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Nature's Revenge
-
 ## Skinny Puppy on the album Too Dark Park
 
 You can listen [here](https://open.spotify.com/track/4rDRYvy9wdW1ShNcuoTKUa)
 
 {{% spotify "4rDRYvy9wdW1ShNcuoTKUa" small %}}
 
-added on 2022-08-26 16:04:10+00:00
+added on August 26, 2022

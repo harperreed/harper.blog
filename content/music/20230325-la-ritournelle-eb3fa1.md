@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# La ritournelle
-
 ## Sébastien Tellier on the album Politics
 
 You can listen [here](https://open.spotify.com/track/0qG1teoBvooRo7Z5Z8edCk)
 
 {{% spotify "0qG1teoBvooRo7Z5Z8edCk" small %}}
 
-added on 2023-03-25 00:55:09+00:00
+added on March 25, 2023

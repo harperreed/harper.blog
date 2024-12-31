@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Here Come The Warm Jets - 2004 Digital Remaster
-
 ## Brian Eno on the album Electrospective: Electronic Music Since 1958
 
 You can listen [here](https://open.spotify.com/track/4EGDubRZvtHQqRIbbdyVcO)
 
 {{% spotify "4EGDubRZvtHQqRIbbdyVcO" small %}}
 
-added on 2023-02-10 16:41:29+00:00
+added on February 10, 2023

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# This World Is Sick
-
 ## IC3PEAK on the album This World Is Sick
 
 You can listen [here](https://open.spotify.com/track/04xhIz4DiBGDECn7kIFodv)
 
 {{% spotify "04xhIz4DiBGDECn7kIFodv" small %}}
 
-added on 2022-12-12 16:45:03+00:00
+added on December 12, 2022

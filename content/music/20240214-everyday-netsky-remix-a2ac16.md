@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Everyday - Netsky Remix
-
 ## Rusko on the album Everyday/Lick The Lizard
 
 You can listen [here](https://open.spotify.com/track/76kY7vDRhosNwxcml9LwTR)
 
 {{% spotify "76kY7vDRhosNwxcml9LwTR" small %}}
 
-added on 2024-02-14 22:31:00+00:00
+added on February 14, 2024

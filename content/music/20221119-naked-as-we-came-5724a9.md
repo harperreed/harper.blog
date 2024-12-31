@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Naked as We Came
-
 ## Iron & Wine on the album Our Endless Numbered Days (Deluxe Edition)
 
 You can listen [here](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R)
 
 {{% spotify "6UIxGIqWlO5wsddY44AV1R" small %}}
 
-added on 2022-11-19 22:03:16+00:00
+added on November 19, 2022

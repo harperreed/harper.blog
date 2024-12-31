@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# The Man Who Sold the World - 2015 Remaster
-
 ## David Bowie on the album The Man Who Sold the World (2015 Remaster)
 
 You can listen [here](https://open.spotify.com/track/4mWahKerLaVddUjb8d1Q4Q)
 
 {{% spotify "4mWahKerLaVddUjb8d1Q4Q" small %}}
 
-added on 2024-05-20 13:32:03+00:00
+added on May 20, 2024

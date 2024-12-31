@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Upnow (feat. Coi Leray)
-
 ## DD Osama on the album Upnow (feat. Coi Leray)
 
 You can listen [here](https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO)
 
 {{% spotify "3zMp6WgIRFof3uq6B43iQO" small %}}
 
-added on 2023-02-17 09:56:33+00:00
+added on February 17, 2023

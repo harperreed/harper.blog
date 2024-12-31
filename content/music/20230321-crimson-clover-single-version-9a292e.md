@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Crimson & Clover - Single Version
-
 ## Tommy James & The Shondells on the album The Essentials: Tommy James & The Shondells
 
 You can listen [here](https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY)
 
 {{% spotify "1vXuYPpkLjn1v06E2EsWQY" small %}}
 
-added on 2023-03-21 18:14:27+00:00
+added on March 21, 2023

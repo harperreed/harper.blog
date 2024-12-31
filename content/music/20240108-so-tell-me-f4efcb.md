@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# So Tell Me…
-
 ## Nia Archives on the album So Tell Me…
 
 You can listen [here](https://open.spotify.com/track/3GJbXOYweOltxSiOsCNkMd)
 
 {{% spotify "3GJbXOYweOltxSiOsCNkMd" small %}}
 
-added on 2024-01-08 21:33:12+00:00
+added on January 08, 2024

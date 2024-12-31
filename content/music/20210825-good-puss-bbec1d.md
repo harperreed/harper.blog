@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# GOOD PUSS
-
 ## COBRAH on the album GOOD PUSS
 
 You can listen [here](https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc)
 
 {{% spotify "26WSeuKeWZNwKARvZNIrUc" small %}}
 
-added on 2021-08-25 15:00:35+00:00
+added on August 25, 2021

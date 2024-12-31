@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Y'all Want a Single
-
 ## Korn on the album The Essential Korn
 
 You can listen [here](https://open.spotify.com/track/4S1zPTpWtNSymfNua4pGqU)
 
 {{% spotify "4S1zPTpWtNSymfNua4pGqU" small %}}
 
-added on 2024-03-01 21:59:32+00:00
+added on March 01, 2024

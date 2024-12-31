@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# It's All over Now, Baby Blue
-
 ## ANOHNI on the album It's All over Now, Baby Blue b/w Be My Husband
 
 You can listen [here](https://open.spotify.com/track/4nz1UjOhZx5ZlhbAAnvmSi)
 
 {{% spotify "4nz1UjOhZx5ZlhbAAnvmSi" small %}}
 
-added on 2021-05-08 21:25:09+00:00
+added on May 08, 2021

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Bikini Bottom
-
 ## Ice Spice on the album Bikini Bottom
 
 You can listen [here](https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe)
 
 {{% spotify "27Qz0cFmMGADsniMeUwyUe" small %}}
 
-added on 2022-11-05 17:30:01+00:00
+added on November 05, 2022

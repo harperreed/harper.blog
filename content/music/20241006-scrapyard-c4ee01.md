@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Scrapyard
-
 ## Skinny Puppy on the album Last Rights
 
 You can listen [here](https://open.spotify.com/track/6kjbzQAJ2BkgcUecMikI0U)
 
 {{% spotify "6kjbzQAJ2BkgcUecMikI0U" small %}}
 
-added on 2024-10-06 23:38:29+00:00
+added on October 06, 2024

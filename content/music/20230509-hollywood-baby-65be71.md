@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Hollywood Baby
-
 ## 100 gecs on the album 10,000 gecs
 
 You can listen [here](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5)
 
 {{% spotify "0oigSejhoNen2EdNAIFcm5" small %}}
 
-added on 2023-05-09 13:13:02+00:00
+added on May 09, 2023

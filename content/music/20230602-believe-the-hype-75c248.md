@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Believe the Hype
-
 ## Alice Longyu Gao on the album Let's Hope Heteros Fail, Learn and Retire
 
 You can listen [here](https://open.spotify.com/track/5LaT6csofzDEaFf8cmqoaQ)
 
 {{% spotify "5LaT6csofzDEaFf8cmqoaQ" small %}}
 
-added on 2023-06-02 23:26:43+00:00
+added on June 02, 2023

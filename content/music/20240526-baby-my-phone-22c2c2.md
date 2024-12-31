@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Baby My Phone
-
 ## Yameii Online on the album Baby My Phone
 
 You can listen [here](https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8)
 
 {{% spotify "2SjvBmZYIbQTJ7rrPgdmV8" small %}}
 
-added on 2024-05-26 21:44:41+00:00
+added on May 26, 2024

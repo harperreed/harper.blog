@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Cherry-coloured Funk
-
 ## Cocteau Twins on the album Heaven or Las Vegas
 
 You can listen [here](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ)
 
 {{% spotify "37pKTyMwalomKCZjxTc2QZ" small %}}
 
-added on 2023-05-28 23:20:38+00:00
+added on May 28, 2023

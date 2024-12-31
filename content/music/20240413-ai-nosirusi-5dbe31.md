@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# 愛のしるし
-
 ## Puffy AmiYumi on the album JET CD
 
 You can listen [here](https://open.spotify.com/track/39ctCzopDN0dYr26AKmQOP)
 
 {{% spotify "39ctCzopDN0dYr26AKmQOP" small %}}
 
-added on 2024-04-13 16:47:58+00:00
+added on April 13, 2024

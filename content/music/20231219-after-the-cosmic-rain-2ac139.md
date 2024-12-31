@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# After The Cosmic Rain
-
 ## Chick Corea on the album Return To The Seventh Galaxy
 
 You can listen [here](https://open.spotify.com/track/5Wi1jAQNcNARUvX7D2OASQ)
 
 {{% spotify "5Wi1jAQNcNARUvX7D2OASQ" small %}}
 
-added on 2023-12-19 20:06:58+00:00
+added on December 19, 2023

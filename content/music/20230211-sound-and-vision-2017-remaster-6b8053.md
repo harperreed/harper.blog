@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Sound and Vision - 2017 Remaster
-
 ## David Bowie on the album Low (2017 Remaster)
 
 You can listen [here](https://open.spotify.com/track/1vP2JEXRsGrFbwOZ0foOQ5)
 
 {{% spotify "1vP2JEXRsGrFbwOZ0foOQ5" small %}}
 
-added on 2023-02-11 23:25:42+00:00
+added on February 11, 2023

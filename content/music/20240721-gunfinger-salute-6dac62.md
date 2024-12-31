@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Gunfinger (Salute)
-
 ## IRAH on the album Gunfinger (Salute)
 
 You can listen [here](https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT)
 
 {{% spotify "30aEleGsSvwoORcXA4mKgT" small %}}
 
-added on 2024-07-21 03:45:46+00:00
+added on July 21, 2024

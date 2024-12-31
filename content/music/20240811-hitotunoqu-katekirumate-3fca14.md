@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# ひとつの曲ができるまで
-
 ## PK shampoo on the album 輝くもの天より堕ち
 
 You can listen [here](https://open.spotify.com/track/5WzC0LHb2Ebb6Jz0v56D8y)
 
 {{% spotify "5WzC0LHb2Ebb6Jz0v56D8y" small %}}
 
-added on 2024-08-11 15:49:47+00:00
+added on August 11, 2024

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Silver Moons
-
 ## Sunset Rubdown on the album Dragonslayer
 
 You can listen [here](https://open.spotify.com/track/1G4uCwBdIvaWGM2n4H4tN8)
 
 {{% spotify "1G4uCwBdIvaWGM2n4H4tN8" small %}}
 
-added on 2023-04-08 23:32:58+00:00
+added on April 08, 2023

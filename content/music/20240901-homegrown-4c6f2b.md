@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Homegrown
-
 ## Abandoned By Bears on the album When Nothing Goes Right, Go Left!
 
 You can listen [here](https://open.spotify.com/track/56jZV49Ub3mmGjZES0nG6U)
 
 {{% spotify "56jZV49Ub3mmGjZES0nG6U" small %}}
 
-added on 2024-09-01 03:29:01+00:00
+added on September 01, 2024

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# I H8 mY Anxiety <3
-
 ## Jahzae Rose on the album I H8 mY Anxiety <3
 
 You can listen [here](https://open.spotify.com/track/6Uf4np9Ar3qVYd5VgPJU7s)
 
 {{% spotify "6Uf4np9Ar3qVYd5VgPJU7s" small %}}
 
-added on 2024-09-02 04:53:59+00:00
+added on September 02, 2024

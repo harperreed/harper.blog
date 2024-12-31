@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# The Hues of Your Smile
-
 ## Mad Keys on the album Currents
 
 You can listen [here](https://open.spotify.com/track/0EXG1rmbXdgcr0kjSg3rpR)
 
 {{% spotify "0EXG1rmbXdgcr0kjSg3rpR" small %}}
 
-added on 2024-07-22 03:45:43+00:00
+added on July 22, 2024

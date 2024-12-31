@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Wildfire (feat. Frank Ocean)
-
 ## John Mayer on the album Paradise Valley
 
 You can listen [here](https://open.spotify.com/track/4wOYt5nULk1Cu8pwJWk26m)
 
 {{% spotify "4wOYt5nULk1Cu8pwJWk26m" small %}}
 
-added on 2022-08-18 14:45:00+00:00
+added on August 18, 2022

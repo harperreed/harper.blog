@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Something On Your Mind
-
 ## Karen Dalton on the album In My Own Time
 
 You can listen [here](https://open.spotify.com/track/6Vz2IQv3AYoznh4tjsrRPo)
 
 {{% spotify "6Vz2IQv3AYoznh4tjsrRPo" small %}}
 
-added on 2021-12-30 20:38:21+00:00
+added on December 30, 2021

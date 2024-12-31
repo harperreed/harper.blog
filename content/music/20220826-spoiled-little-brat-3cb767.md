@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Spoiled little brat
-
 ## underscores on the album fishmonger
 
 You can listen [here](https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu)
 
 {{% spotify "724utiMbqUfT1g3tqbfQYu" small %}}
 
-added on 2022-08-26 00:59:51+00:00
+added on August 26, 2022

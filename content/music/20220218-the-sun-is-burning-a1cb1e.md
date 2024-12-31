@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# The Sun Is Burning
-
 ## Simon & Garfunkel on the album Wednesday Morning, 3 A.M.
 
 You can listen [here](https://open.spotify.com/track/3bophIN3WTxzLd4yiIZv6X)
 
 {{% spotify "3bophIN3WTxzLd4yiIZv6X" small %}}
 
-added on 2022-02-18 02:27:01+00:00
+added on February 18, 2022

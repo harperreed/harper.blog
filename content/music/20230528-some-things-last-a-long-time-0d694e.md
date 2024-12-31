@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Some Things Last a Long Time
-
 ## Daniel Johnston on the album 1990
 
 You can listen [here](https://open.spotify.com/track/0vzWUTqv0hDXJsH2fUrNlJ)
 
 {{% spotify "0vzWUTqv0hDXJsH2fUrNlJ" small %}}
 
-added on 2023-05-28 23:31:47+00:00
+added on May 28, 2023

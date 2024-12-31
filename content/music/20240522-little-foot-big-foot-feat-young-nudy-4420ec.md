@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Little Foot Big Foot (feat. Young Nudy)
-
 ## Childish Gambino on the album Atavista
 
 You can listen [here](https://open.spotify.com/track/1SdqlTmK9P97PntBQrtf85)
 
 {{% spotify "1SdqlTmK9P97PntBQrtf85" small %}}
 
-added on 2024-05-22 04:07:44+00:00
+added on May 22, 2024

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# cut my fingers off
-
 ## Ethan Bortnick on the album cut my fingers off
 
 You can listen [here](https://open.spotify.com/track/5ARrWiDDRDocvURbemcnCy)
 
 {{% spotify "5ARrWiDDRDocvURbemcnCy" small %}}
 
-added on 2022-11-17 15:11:15+00:00
+added on November 17, 2022

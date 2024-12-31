@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Doritos & Fritos
-
 ## 100 gecs on the album 10,000 gecs
 
 You can listen [here](https://open.spotify.com/track/1jPPKYq1s1HhIjAiqrnRR8)
 
 {{% spotify "1jPPKYq1s1HhIjAiqrnRR8" small %}}
 
-added on 2023-04-21 17:05:51+00:00
+added on April 21, 2023

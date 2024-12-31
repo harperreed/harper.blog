@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Another Girl, Another Planet - 2008 re-mastered version
-
 ## The Only Ones on the album The Only Ones
 
 You can listen [here](https://open.spotify.com/track/5TmQl8urbTlfZb8xKisSl0)
 
 {{% spotify "5TmQl8urbTlfZb8xKisSl0" small %}}
 
-added on 2023-06-19 18:43:47+00:00
+added on June 19, 2023

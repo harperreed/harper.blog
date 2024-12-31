@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# BAND4BAND (feat. Lil Baby)
-
 ## Central Cee on the album BAND4BAND (feat. Lil Baby)
 
 You can listen [here](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD)
 
 {{% spotify "7iabz12vAuVQYyekFIWJxD" small %}}
 
-added on 2024-06-14 03:27:41+00:00
+added on June 14, 2024

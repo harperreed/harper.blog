@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Something to Rap About (feat. Tyler, The Creator)
-
 ## Freddie Gibbs on the album Alfredo
 
 You can listen [here](https://open.spotify.com/track/5OkYfk72CNL8XLqa3gp9q7)
 
 {{% spotify "5OkYfk72CNL8XLqa3gp9q7" small %}}
 
-added on 2022-01-24 22:49:31+00:00
+added on January 24, 2022

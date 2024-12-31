@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Things I Don't Need
-
 ## Human Tetris on the album Things I Don't Need
 
 You can listen [here](https://open.spotify.com/track/5VfnmTz5NPAW5a8V9M1ZJ9)
 
 {{% spotify "5VfnmTz5NPAW5a8V9M1ZJ9" small %}}
 
-added on 2022-08-11 17:05:21+00:00
+added on August 11, 2022

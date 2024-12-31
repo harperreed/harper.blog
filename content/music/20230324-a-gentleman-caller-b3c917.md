@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# A Gentleman Caller
-
 ## Cursive on the album The Ugly Organ
 
 You can listen [here](https://open.spotify.com/track/4t46Hd6ZNx5t1X6Y6EmT2e)
 
 {{% spotify "4t46Hd6ZNx5t1X6Y6EmT2e" small %}}
 
-added on 2023-03-24 18:25:13+00:00
+added on March 24, 2023

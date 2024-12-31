@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Genesis Demo Twenty-Twenty
-
 ## Pillars of Ivory on the album Genesis Demo Twenty-Twenty
 
 You can listen [here](https://open.spotify.com/track/6heTKB089ppJfw2NTKn8sT)
 
 {{% spotify "6heTKB089ppJfw2NTKn8sT" small %}}
 
-added on 2022-01-27 23:46:25+00:00
+added on January 27, 2022

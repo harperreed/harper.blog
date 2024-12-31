@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# It's Gonna Be (Alright)
-
 ## Ween on the album The Mollusk
 
 You can listen [here](https://open.spotify.com/track/5wYAof2gsaOvwNJ4PWZWxP)
 
 {{% spotify "5wYAof2gsaOvwNJ4PWZWxP" small %}}
 
-added on 2023-04-02 18:17:24+00:00
+added on April 02, 2023

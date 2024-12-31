@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Where Eagles Dare
-
 ## Misfits on the album Collection
 
 You can listen [here](https://open.spotify.com/track/5LgiqEgpK54OfXC6947wbU)
 
 {{% spotify "5LgiqEgpK54OfXC6947wbU" small %}}
 
-added on 2024-11-10 02:35:14+00:00
+added on November 10, 2024

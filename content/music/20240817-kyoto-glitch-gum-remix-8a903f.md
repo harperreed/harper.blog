@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Kyoto (Glitch Gum Remix)
-
 ## Phoebe Bridgers on the album Kyoto (Glitch Gum Remix)
 
 You can listen [here](https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl)
 
 {{% spotify "0cYsiOzerJ7PvTyQdwASXl" small %}}
 
-added on 2024-08-17 00:06:58+00:00
+added on August 17, 2024

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Handel: Serse, HWV 40, Act 1, Scene 1: Arioso. "Ombra mai fù" (Serse)
-
 ## George Frideric Handel on the album Handel: Serse, HWV 40
 
 You can listen [here](https://open.spotify.com/track/4fBqGaGJfEqTQDX4d7Hcil)
 
 {{% spotify "4fBqGaGJfEqTQDX4d7Hcil" small %}}
 
-added on 2020-02-10 16:39:04+00:00
+added on February 10, 2020

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Rudy, a Message to You
-
 ## Dandy Livingstone on the album The Best of Dandy Livingstone
 
 You can listen [here](https://open.spotify.com/track/4gukGozFOurNmDXZzgQHaP)
 
 {{% spotify "4gukGozFOurNmDXZzgQHaP" small %}}
 
-added on 2024-07-12 12:09:51+00:00
+added on July 12, 2024

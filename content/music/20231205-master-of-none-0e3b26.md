@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Master of None
-
 ## Beach House on the album Beach House
 
 You can listen [here](https://open.spotify.com/track/3stWWPN41byqp8loPdy92u)
 
 {{% spotify "3stWWPN41byqp8loPdy92u" small %}}
 
-added on 2023-12-05 03:48:24+00:00
+added on December 05, 2023

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Swamp Bitches (with Rico Nasty)
-
 ## Doechii on the album she / her / black bitch
 
 You can listen [here](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM)
 
 {{% spotify "2aOG6jVZnTqZwEhjGTcFMM" small %}}
 
-added on 2022-09-19 20:34:12+00:00
+added on September 19, 2022

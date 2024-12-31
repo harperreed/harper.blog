@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# She's Leaving You
-
 ## MJ Lenderman on the album She's Leaving You
 
 You can listen [here](https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru)
 
 {{% spotify "10cGyorRXoOc9RhVhY9Sru" small %}}
 
-added on 2024-12-13 14:40:35+00:00
+added on December 13, 2024

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# The Secret
-
 ## Midst on the album Another Dimension
 
 You can listen [here](https://open.spotify.com/track/7f78EkTPwfR5JbAeLRBxbw)
 
 {{% spotify "7f78EkTPwfR5JbAeLRBxbw" small %}}
 
-added on 2023-01-09 19:15:12+00:00
+added on January 09, 2023

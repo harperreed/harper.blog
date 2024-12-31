@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# LEFT RIGHT
-
 ## Bktherula on the album LEFT RIGHT
 
 You can listen [here](https://open.spotify.com/track/6hO0b9LAggdysS9RIn8VxH)
 
 {{% spotify "6hO0b9LAggdysS9RIn8VxH" small %}}
 
-added on 2024-02-15 15:02:01+00:00
+added on February 15, 2024

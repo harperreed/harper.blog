@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Teef Chizzel
-
 ## Iglooghost on the album XYZ
 
 You can listen [here](https://open.spotify.com/track/7rTt433bhu76fMawGzFDtQ)
 
 {{% spotify "7rTt433bhu76fMawGzFDtQ" small %}}
 
-added on 2022-08-29 01:13:12+00:00
+added on August 29, 2022

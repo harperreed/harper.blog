@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Comment te dire adieu - Remasterisé en 2016
-
 ## Françoise Hardy on the album Comment te dire adieu (Remasterisé en 2016)
 
 You can listen [here](https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO)
 
 {{% spotify "6g5qyQrAcoBX4X7XjxBoTO" small %}}
 
-added on 2024-11-28 01:24:14+00:00
+added on November 28, 2024

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# From The Start!
-
 ## Clover! on the album From The Start!
 
 You can listen [here](https://open.spotify.com/track/0Xy97fQCGZnReNxeBqWf9i)
 
 {{% spotify "0Xy97fQCGZnReNxeBqWf9i" small %}}
 
-added on 2024-08-14 22:35:49+00:00
+added on August 14, 2024

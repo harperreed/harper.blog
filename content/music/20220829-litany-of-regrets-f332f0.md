@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Litany of Regrets
-
 ## Krallice on the album Diotima
 
 You can listen [here](https://open.spotify.com/track/2nJXoK4eJH5LpsuAqfSI2e)
 
 {{% spotify "2nJXoK4eJH5LpsuAqfSI2e" small %}}
 
-added on 2022-08-29 03:12:28+00:00
+added on August 29, 2022

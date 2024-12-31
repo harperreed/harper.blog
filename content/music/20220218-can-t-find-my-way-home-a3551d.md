@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Can't Find My Way Home
-
 ## Blind Faith on the album Blind Faith
 
 You can listen [here](https://open.spotify.com/track/3VyJGPYr2DF9gdBNosSao4)
 
 {{% spotify "3VyJGPYr2DF9gdBNosSao4" small %}}
 
-added on 2022-02-18 02:49:26+00:00
+added on February 18, 2022

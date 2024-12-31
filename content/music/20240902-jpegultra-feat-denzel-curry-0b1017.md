@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# JPEGULTRA! (feat. Denzel Curry)
-
 ## JPEGMAFIA on the album I LAY DOWN MY LIFE FOR YOU
 
 You can listen [here](https://open.spotify.com/track/0NMC6aezcf1GItgscoiQCO)
 
 {{% spotify "0NMC6aezcf1GItgscoiQCO" small %}}
 
-added on 2024-09-02 04:21:02+00:00
+added on September 02, 2024

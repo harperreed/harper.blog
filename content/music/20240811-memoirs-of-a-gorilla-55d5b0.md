@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Memoirs of a Gorilla
-
 ## $uicideboy$ on the album Radical $uicide
 
 You can listen [here](https://open.spotify.com/track/32B4HyegZNlYIWhENs8FcZ)
 
 {{% spotify "32B4HyegZNlYIWhENs8FcZ" small %}}
 
-added on 2024-08-11 04:45:01+00:00
+added on August 11, 2024

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Mental Hopscotch - Remastered
-
 ## Missing Persons on the album Classic Masters
 
 You can listen [here](https://open.spotify.com/track/63UqtmIkguvvKyuoGzg6CW)
 
 {{% spotify "63UqtmIkguvvKyuoGzg6CW" small %}}
 
-added on 2022-08-03 18:45:17+00:00
+added on August 03, 2022

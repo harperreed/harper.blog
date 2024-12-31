@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Melody - French Version
-
 ## Blonde Redhead on the album Equus
 
 You can listen [here](https://open.spotify.com/track/7uNI7hGwuNUddCRK6F5QsO)
 
 {{% spotify "7uNI7hGwuNUddCRK6F5QsO" small %}}
 
-added on 2024-12-30 15:59:38+00:00
+added on December 30, 2024

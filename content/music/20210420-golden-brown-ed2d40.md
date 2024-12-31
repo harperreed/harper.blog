@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Golden Brown
-
 ## THE TAKE VIBE E.P. on the album Golden Brown
 
 You can listen [here](https://open.spotify.com/track/24XIbFhfr4mqCtKDHyzIvv)
 
 {{% spotify "24XIbFhfr4mqCtKDHyzIvv" small %}}
 
-added on 2021-04-20 16:53:45+00:00
+added on April 20, 2021

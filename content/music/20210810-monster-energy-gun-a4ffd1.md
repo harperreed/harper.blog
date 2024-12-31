@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# MONSTER ENERGY GUN!
-
 ## KevinKempt on the album MONSTER ENERGY GUN!
 
 You can listen [here](https://open.spotify.com/track/06gYMq6RAEHnSYnkrppYBp)
 
 {{% spotify "06gYMq6RAEHnSYnkrppYBp" small %}}
 
-added on 2021-08-10 19:35:52+00:00
+added on August 10, 2021

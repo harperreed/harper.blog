@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Under Pressure - Original Mix
-
 ## Belocca on the album Under Pressure (Original Mix)
 
 You can listen [here](https://open.spotify.com/track/0M07XMvl0ylY9VVt69LsJu)
 
 {{% spotify "0M07XMvl0ylY9VVt69LsJu" small %}}
 
-added on 2021-05-19 15:53:37+00:00
+added on May 19, 2021

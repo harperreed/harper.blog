@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Bruno Power
-
 ## Ivan Giannovani on the album Bruno Power
 
 You can listen [here](https://open.spotify.com/track/5P8By5oKf2pSDHoG7t4NyD)
 
 {{% spotify "5P8By5oKf2pSDHoG7t4NyD" small %}}
 
-added on 2024-08-11 04:55:26+00:00
+added on August 11, 2024

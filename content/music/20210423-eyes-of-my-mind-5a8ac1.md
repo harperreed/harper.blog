@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Eyes Of My Mind
-
 ## Axel Boman on the album Eyes Of My Mind
 
 You can listen [here](https://open.spotify.com/track/6eLNnJwSlwEStbIAZVAYzd)
 
 {{% spotify "6eLNnJwSlwEStbIAZVAYzd" small %}}
 
-added on 2021-04-23 22:40:14+00:00
+added on April 23, 2021

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# La vie en rose - Single Version
-
 ## Louis Armstrong on the album The Best Of The Decca Years Volume One: The Singer
 
 You can listen [here](https://open.spotify.com/track/1UH4viviUjZnS9aWgPGrk0)
 
 {{% spotify "1UH4viviUjZnS9aWgPGrk0" small %}}
 
-added on 2022-10-08 22:13:41+00:00
+added on October 08, 2022

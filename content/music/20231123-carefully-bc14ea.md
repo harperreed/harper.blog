@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Carefully
-
 ## Voice Actor on the album Sent From My Telephone
 
 You can listen [here](https://open.spotify.com/track/09JSsDztGIy37dye5eqzb3)
 
 {{% spotify "09JSsDztGIy37dye5eqzb3" small %}}
 
-added on 2023-11-23 18:39:57+00:00
+added on November 23, 2023

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Custom Concern
-
 ## Modest Mouse on the album This Is a Long Drive for Someone with Nothing to Think About
 
 You can listen [here](https://open.spotify.com/track/4MN8iMuJhAlXtFeBKtM1PG)
 
 {{% spotify "4MN8iMuJhAlXtFeBKtM1PG" small %}}
 
-added on 2022-10-25 18:01:03+00:00
+added on October 25, 2022

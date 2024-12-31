@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# AUTOMOTIVO EXTRADIMENSIONAL
-
 ## DJ Erik JP on the album AUTOMOTIVO EXTRADIMENSIONAL
 
 You can listen [here](https://open.spotify.com/track/0VuMkeXhzn0Qp9KzzC4s4N)
 
 {{% spotify "0VuMkeXhzn0Qp9KzzC4s4N" small %}}
 
-added on 2021-12-29 22:20:52+00:00
+added on December 29, 2021

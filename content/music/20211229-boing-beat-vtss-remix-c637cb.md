@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Boing Beat - VTSS Remix
-
 ## Danny L Harle on the album Boing Beat (VTSS Remix)
 
 You can listen [here](https://open.spotify.com/track/2tDrNpxe5PboAmdXTASPdA)
 
 {{% spotify "2tDrNpxe5PboAmdXTASPdA" small %}}
 
-added on 2021-12-29 22:13:45+00:00
+added on December 29, 2021

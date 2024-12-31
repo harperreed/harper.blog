@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Beautiful World
-
 ## DEVO on the album New Traditionalists
 
 You can listen [here](https://open.spotify.com/track/2BgQ1M5BVr9WIAk7iJ9oAh)
 
 {{% spotify "2BgQ1M5BVr9WIAk7iJ9oAh" small %}}
 
-added on 2024-05-03 03:03:37+00:00
+added on May 03, 2024

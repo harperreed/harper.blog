@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Foundation Style
-
 ## Selecta J-Man on the album Foundation Style
 
 You can listen [here](https://open.spotify.com/track/2wXNEnIOWq8dZhwJR4tjxv)
 
 {{% spotify "2wXNEnIOWq8dZhwJR4tjxv" small %}}
 
-added on 2024-03-20 21:47:06+00:00
+added on March 20, 2024

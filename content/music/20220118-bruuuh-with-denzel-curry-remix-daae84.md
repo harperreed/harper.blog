@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Bruuuh (with Denzel Curry) - Remix
-
 ## JID on the album Bruuuh (with Denzel Curry) [Remix]
 
 You can listen [here](https://open.spotify.com/track/5LghBGmNUUwI2BvX2boIdK)
 
 {{% spotify "5LghBGmNUUwI2BvX2boIdK" small %}}
 
-added on 2022-01-18 18:07:09+00:00
+added on January 18, 2022

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# PULLINGALLMYHAIROUT
-
 ## Alice Gas on the album PULLINGALLMYHAIROUT
 
 You can listen [here](https://open.spotify.com/track/3IKgNZCey8iIJkRiwvoyUs)
 
 {{% spotify "3IKgNZCey8iIJkRiwvoyUs" small %}}
 
-added on 2024-08-17 00:17:28+00:00
+added on August 17, 2024

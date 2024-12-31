@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Mexican Phonk Eki
-
 ## NUEKI on the album Mexican Phonk Eki
 
 You can listen [here](https://open.spotify.com/track/586x98q1tY2vlDlhN1BwQM)
 
 {{% spotify "586x98q1tY2vlDlhN1BwQM" small %}}
 
-added on 2023-09-04 17:26:51+00:00
+added on September 04, 2023

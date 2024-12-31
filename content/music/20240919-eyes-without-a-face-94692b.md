@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Eyes Without A Face
-
 ## Sinnerella on the album Eyes Without A Face
 
 You can listen [here](https://open.spotify.com/track/7x1vOvfRj1NkoaMoAFlwxV)
 
 {{% spotify "7x1vOvfRj1NkoaMoAFlwxV" small %}}
 
-added on 2024-09-19 03:36:04+00:00
+added on September 19, 2024

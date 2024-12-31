@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# An Archer in the Emptiness
-
 ## Inter Arma on the album Paradise Gallows
 
 You can listen [here](https://open.spotify.com/track/5DvFlA13hUCziTxdUOZIWR)
 
 {{% spotify "5DvFlA13hUCziTxdUOZIWR" small %}}
 
-added on 2022-08-29 03:09:42+00:00
+added on August 29, 2022

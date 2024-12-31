@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Sorry I Am Late - Extended
-
 ## Kollektiv Turmstrasse on the album Sorry I Am Late (Extended)
 
 You can listen [here](https://open.spotify.com/track/4FpawvuBz4HxTz7UqR4ter)
 
 {{% spotify "4FpawvuBz4HxTz7UqR4ter" small %}}
 
-added on 2021-03-15 20:03:45+00:00
+added on March 15, 2021

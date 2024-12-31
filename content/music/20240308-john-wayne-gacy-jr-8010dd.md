@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# John Wayne Gacy, Jr.
-
 ## Sufjan Stevens on the album Illinois
 
 You can listen [here](https://open.spotify.com/track/2R3g9k14OAcUzZYwo90Tx6)
 
 {{% spotify "2R3g9k14OAcUzZYwo90Tx6" small %}}
 
-added on 2024-03-08 23:19:50+00:00
+added on March 08, 2024

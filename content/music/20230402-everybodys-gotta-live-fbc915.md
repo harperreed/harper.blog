@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Everybody’s Gotta Live
-
 ## Love on the album Reel To Real
 
 You can listen [here](https://open.spotify.com/track/1Og2Qi5XwYdr0YI6rn79Zb)
 
 {{% spotify "1Og2Qi5XwYdr0YI6rn79Zb" small %}}
 
-added on 2023-04-02 20:22:13+00:00
+added on April 02, 2023

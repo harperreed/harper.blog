@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Patakha Guddi
-
 ## GUERRILLA RADIO on the album Guerrilla Radio VA 001
 
 You can listen [here](https://open.spotify.com/track/3teldiOOgXYvXhRvs6BaP4)
 
 {{% spotify "3teldiOOgXYvXhRvs6BaP4" small %}}
 
-added on 2023-02-08 17:24:36+00:00
+added on February 08, 2023

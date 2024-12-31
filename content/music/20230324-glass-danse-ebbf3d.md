@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Glass Danse
-
 ## The Faint on the album Danse Macabre
 
 You can listen [here](https://open.spotify.com/track/5p2hASmdinu6WKlramNIu5)
 
 {{% spotify "5p2hASmdinu6WKlramNIu5" small %}}
 
-added on 2023-03-24 18:39:06+00:00
+added on March 24, 2023

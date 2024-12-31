@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# SpottieOttieDopaliscious
-
 ## Outkast on the album Aquemini
 
 You can listen [here](https://open.spotify.com/track/4GdB5M7GbwLZLouktYocFC)
 
 {{% spotify "4GdB5M7GbwLZLouktYocFC" small %}}
 
-added on 2022-07-14 17:35:08+00:00
+added on July 14, 2022

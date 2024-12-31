@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Baddadan (feat. IRAH, Flowdan, Trigga & Takura)
-
 ## Chase & Status on the album Baddadan (feat. IRAH, Flowdan, Trigga & Takura)
 
 You can listen [here](https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg)
 
 {{% spotify "2ZWmmrWUgDBcPSLihBMvhg" small %}}
 
-added on 2023-08-10 00:37:48+00:00
+added on August 10, 2023

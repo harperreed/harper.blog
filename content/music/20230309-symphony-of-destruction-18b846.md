@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Symphony Of Destruction
-
 ## Megadeth on the album Countdown To Extinction (Expanded Edition - Remastered)
 
 You can listen [here](https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ)
 
 {{% spotify "51TG9W3y9qyO8BY5RXKgnZ" small %}}
 
-added on 2023-03-09 16:44:31+00:00
+added on March 09, 2023

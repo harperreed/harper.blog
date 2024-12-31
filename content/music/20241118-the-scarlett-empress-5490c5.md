@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# The scarlett empress
-
 ## College on the album Teenage color Ep
 
 You can listen [here](https://open.spotify.com/track/46A9awz7xtpDGNeNtaqWMh)
 
 {{% spotify "46A9awz7xtpDGNeNtaqWMh" small %}}
 
-added on 2024-11-18 01:51:32+00:00
+added on November 18, 2024

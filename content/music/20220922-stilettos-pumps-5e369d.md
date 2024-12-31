@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Stilettos (Pumps)
-
 ## Crime Mob on the album Crime Mob
 
 You can listen [here](https://open.spotify.com/track/1bWFvGIN7b5cTps09X6tZ8)
 
 {{% spotify "1bWFvGIN7b5cTps09X6tZ8" small %}}
 
-added on 2022-09-22 00:05:19+00:00
+added on September 22, 2022

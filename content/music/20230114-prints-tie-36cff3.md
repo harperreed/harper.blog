@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Prints Tie
-
 ## Bobby Hutcherson on the album San Francisco
 
 You can listen [here](https://open.spotify.com/track/6FERZX07fqebws3FeqChTl)
 
 {{% spotify "6FERZX07fqebws3FeqChTl" small %}}
 
-added on 2023-01-14 22:24:38+00:00
+added on January 14, 2023

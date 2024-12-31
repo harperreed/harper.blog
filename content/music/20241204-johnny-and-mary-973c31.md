@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Johnny And Mary
-
 ## Robert Palmer on the album Clues (Expanded Edition)
 
 You can listen [here](https://open.spotify.com/track/0ldTcpmFsxEASGiBBIfVLW)
 
 {{% spotify "0ldTcpmFsxEASGiBBIfVLW" small %}}
 
-added on 2024-12-04 23:49:41+00:00
+added on December 04, 2024

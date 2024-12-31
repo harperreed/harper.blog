@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Pretend Friend
-
 ## Sam Austins on the album Boy Toy
 
 You can listen [here](https://open.spotify.com/track/42hPDiwTOSPAPUL51FRNhp)
 
 {{% spotify "42hPDiwTOSPAPUL51FRNhp" small %}}
 
-added on 2024-09-21 04:07:17+00:00
+added on September 21, 2024

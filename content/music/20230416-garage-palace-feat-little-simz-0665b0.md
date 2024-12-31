@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Garage Palace (feat. Little Simz)
-
 ## Gorillaz on the album Garage Palace (feat. Little Simz)
 
 You can listen [here](https://open.spotify.com/track/5ZYBczat60p8a2Fnenour4)
 
 {{% spotify "5ZYBczat60p8a2Fnenour4" small %}}
 
-added on 2023-04-16 11:59:40+00:00
+added on April 16, 2023

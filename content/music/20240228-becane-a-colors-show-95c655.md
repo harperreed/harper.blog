@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Bécane - A COLORS SHOW
-
 ## Yamê on the album Bécane - A COLORS SHOW
 
 You can listen [here](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ)
 
 {{% spotify "3oUEzTAoOxqZHN4xiqTGqJ" small %}}
 
-added on 2024-02-28 04:27:55+00:00
+added on February 28, 2024

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# The Sinking of the Titanic
-
 ## Gavin Bryars on the album Bryars: Jesus' Blood Never Failed Me Yet
 
 You can listen [here](https://open.spotify.com/track/46ZQNYMl3w3B6XJcpsuQl7)
 
 {{% spotify "46ZQNYMl3w3B6XJcpsuQl7" small %}}
 
-added on 2023-05-25 21:19:10+00:00
+added on May 25, 2023

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# I'm Only Sleeping - Remastered 2009
-
 ## The Beatles on the album Revolver (Remastered)
 
 You can listen [here](https://open.spotify.com/track/2ylCrFiBu98SC0vFfaCent)
 
 {{% spotify "2ylCrFiBu98SC0vFfaCent" small %}}
 
-added on 2022-01-25 23:11:17+00:00
+added on January 25, 2022

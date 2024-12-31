@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# The Offering
-
 ## Darkhouse Family on the album The Offering
 
 You can listen [here](https://open.spotify.com/track/4KEtMkh8YTPVPODhQcW2Yb)
 
 {{% spotify "4KEtMkh8YTPVPODhQcW2Yb" small %}}
 
-added on 2022-01-27 18:31:58+00:00
+added on January 27, 2022

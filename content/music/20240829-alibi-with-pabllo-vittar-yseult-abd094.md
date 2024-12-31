@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Alibi (with Pabllo Vittar & Yseult)
-
 ## Sevdaliza on the album Alibi (with Pabllo Vittar & Yseult)
 
 You can listen [here](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap)
 
 {{% spotify "5496lks6V3fh1mZAB6IAap" small %}}
 
-added on 2024-08-29 04:20:12+00:00
+added on August 29, 2024

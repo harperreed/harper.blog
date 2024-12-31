@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# SCIENTISTS & ENGINEERS [Feat. Future, Eryn Allen Kane]
-
 ## Killer Mike on the album SCIENTISTS & ENGINEERS [Feat. Future, Eryn Allen Kane]
 
 You can listen [here](https://open.spotify.com/track/2RHKzvzdxXANTOKtbZnuLo)
 
 {{% spotify "2RHKzvzdxXANTOKtbZnuLo" small %}}
 
-added on 2023-06-18 17:19:12+00:00
+added on June 18, 2023

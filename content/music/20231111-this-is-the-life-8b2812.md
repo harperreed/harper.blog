@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# This Is The Life
-
 ## LIZOT on the album This Is The Life
 
 You can listen [here](https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula)
 
 {{% spotify "3Me5bYXeDXqjBVgug53Ula" small %}}
 
-added on 2023-11-11 02:53:06+00:00
+added on November 11, 2023

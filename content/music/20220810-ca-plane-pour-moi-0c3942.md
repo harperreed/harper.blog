@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Ça Plane Pour Moi
-
 ## Plastic Bertrand on the album Ça Plane Pour Moi
 
 You can listen [here](https://open.spotify.com/track/7bx4zW72qdZKBb8p6g80jb)
 
 {{% spotify "7bx4zW72qdZKBb8p6g80jb" small %}}
 
-added on 2022-08-10 17:12:49+00:00
+added on August 10, 2022

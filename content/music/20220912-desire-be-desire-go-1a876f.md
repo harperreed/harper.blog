@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Desire Be Desire Go
-
 ## Tame Impala on the album InnerSpeaker
 
 You can listen [here](https://open.spotify.com/track/1jn1tS8R58gpxfgGNyRQph)
 
 {{% spotify "1jn1tS8R58gpxfgGNyRQph" small %}}
 
-added on 2022-09-12 16:30:09+00:00
+added on September 12, 2022

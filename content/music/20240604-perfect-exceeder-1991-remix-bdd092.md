@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Perfect (Exceeder) - 1991 Remix
-
 ## Mason on the album Perfect (Exceeder) [1991 Remix]
 
 You can listen [here](https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM)
 
 {{% spotify "1VKWQgq0g2uKtgNfL0ceNM" small %}}
 
-added on 2024-06-04 01:30:29+00:00
+added on June 04, 2024

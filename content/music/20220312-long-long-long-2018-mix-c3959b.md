@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Long, Long, Long - 2018 Mix
-
 ## The Beatles on the album The Beatles
 
 You can listen [here](https://open.spotify.com/track/4eQVJHK0O5LctXPzsRj9LI)
 
 {{% spotify "4eQVJHK0O5LctXPzsRj9LI" small %}}
 
-added on 2022-03-12 03:46:40+00:00
+added on March 12, 2022

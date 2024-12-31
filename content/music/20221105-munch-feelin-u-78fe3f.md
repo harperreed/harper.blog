@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Munch (Feelin’ U)
-
 ## Ice Spice on the album Munch (Feelin’ U)
 
 You can listen [here](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz)
 
 {{% spotify "1jOgJN75btuUONIdf57vHz" small %}}
 
-added on 2022-11-05 17:29:33+00:00
+added on November 05, 2022

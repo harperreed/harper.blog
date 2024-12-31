@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Brighter Days - Dajae- Underground Mix '93
-
 ## Cajmere on the album It's Time
 
 You can listen [here](https://open.spotify.com/track/09IT6ZbPsY5EioVEqeyq4j)
 
 {{% spotify "09IT6ZbPsY5EioVEqeyq4j" small %}}
 
-added on 2020-05-28 03:11:09+00:00
+added on May 28, 2020

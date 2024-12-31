@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Give Me Back My Man
-
 ## The B-52's on the album Wild Planet
 
 You can listen [here](https://open.spotify.com/track/4vKLfj7YuS2yRKAJ9Nn0Id)
 
 {{% spotify "4vKLfj7YuS2yRKAJ9Nn0Id" small %}}
 
-added on 2024-08-17 17:54:27+00:00
+added on August 17, 2024

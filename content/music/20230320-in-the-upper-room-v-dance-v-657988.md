@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# In the Upper Room: V. Dance V
-
 ## Philip Glass on the album Glass: In the Upper Room
 
 You can listen [here](https://open.spotify.com/track/0YvgKDGFeVkkkIFMoGDGtZ)
 
 {{% spotify "0YvgKDGFeVkkkIFMoGDGtZ" small %}}
 
-added on 2023-03-20 18:59:55+00:00
+added on March 20, 2023

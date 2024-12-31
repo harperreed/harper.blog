@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Ballie (feat. Kah-Lo) - Destructo Remix
-
 ## IDRIS on the album Ballie (feat. Kah-Lo) [Destructo Remix]
 
 You can listen [here](https://open.spotify.com/track/24mAiaFiKP55r6IITNB2As)
 
 {{% spotify "24mAiaFiKP55r6IITNB2As" small %}}
 
-added on 2020-05-28 03:10:48+00:00
+added on May 28, 2020

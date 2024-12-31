@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Los Angeles
-
 ## Frank Black on the album Frank Black
 
 You can listen [here](https://open.spotify.com/track/5tAAIc2ve40EUsG1v1QTDQ)
 
 {{% spotify "5tAAIc2ve40EUsG1v1QTDQ" small %}}
 
-added on 2022-08-23 20:13:48+00:00
+added on August 23, 2022

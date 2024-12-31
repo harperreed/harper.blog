@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Harness Your Hopes - B-side
-
 ## Pavement on the album Brighten the Corners: Nicene Creedence Ed.
 
 You can listen [here](https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX)
 
 {{% spotify "4vsoWZcvtvSsE0OiVvDDvX" small %}}
 
-added on 2021-06-12 17:27:27+00:00
+added on June 12, 2021

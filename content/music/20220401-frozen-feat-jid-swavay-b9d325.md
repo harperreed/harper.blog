@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Frozen (feat. JID & SwaVay)
-
 ## James Blake on the album Friends That Break Your Heart
 
 You can listen [here](https://open.spotify.com/track/4IX1G5Ibs3aWyiSLUO7OPt)
 
 {{% spotify "4IX1G5Ibs3aWyiSLUO7OPt" small %}}
 
-added on 2022-04-01 23:13:47+00:00
+added on April 01, 2022

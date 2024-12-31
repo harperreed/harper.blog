@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Two Worlds Apart
-
 ## Little Simz on the album Sometimes I Might Be Introvert
 
 You can listen [here](https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv)
 
 {{% spotify "34qvgmIagzNQdZTRL2poiv" small %}}
 
-added on 2023-03-04 17:43:01+00:00
+added on March 04, 2023

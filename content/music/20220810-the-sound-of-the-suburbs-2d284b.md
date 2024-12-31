@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# The Sound Of The Suburbs
-
 ## The Members on the album Sound Of The Suburbs - A Collection Of The Members Finest Moments
 
 You can listen [here](https://open.spotify.com/track/6RTh5BDes7y6KwC0rxW8WG)
 
 {{% spotify "6RTh5BDes7y6KwC0rxW8WG" small %}}
 
-added on 2022-08-10 17:14:41+00:00
+added on August 10, 2022

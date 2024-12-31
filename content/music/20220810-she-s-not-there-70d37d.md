@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# She's Not There
-
 ## The Zombies on the album Begin Here
 
 You can listen [here](https://open.spotify.com/track/3dzW0SoVNyJTWWJimX8stj)
 
 {{% spotify "3dzW0SoVNyJTWWJimX8stj" small %}}
 
-added on 2022-08-10 22:16:24+00:00
+added on August 10, 2022

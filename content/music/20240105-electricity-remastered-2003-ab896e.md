@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Electricity - Remastered 2003
-
 ## Orchestral Manoeuvres In The Dark on the album Orchestral Manoeuvres In The Dark (Remastered 2003)
 
 You can listen [here](https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB)
 
 {{% spotify "60TmG8cFPMBo7kTTFOLiAB" small %}}
 
-added on 2024-01-05 02:54:38+00:00
+added on January 05, 2024

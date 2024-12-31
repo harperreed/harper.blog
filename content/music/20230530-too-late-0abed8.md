@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Too Late
-
 ## Reflection Eternal on the album Train Of Thought
 
 You can listen [here](https://open.spotify.com/track/52eg5klFsy0lgiUuQNaZA7)
 
 {{% spotify "52eg5klFsy0lgiUuQNaZA7" small %}}
 
-added on 2023-05-30 14:43:06+00:00
+added on May 30, 2023

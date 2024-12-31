@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Mishima: VI. Closing - Arr. for Saxophone Quartet
-
 ## Philip Glass on the album Amstel Tracks
 
 You can listen [here](https://open.spotify.com/track/1aIIZRFRX2LP16WMBKXFfF)
 
 {{% spotify "1aIIZRFRX2LP16WMBKXFfF" small %}}
 
-added on 2024-11-16 18:06:22+00:00
+added on November 16, 2024

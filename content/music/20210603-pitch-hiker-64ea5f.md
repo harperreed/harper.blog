@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Pitch-Hiker
-
 ## Marc Acardipane a.k.a. Pilldriver on the album Don't You Mess With Cupid, 'Cause Cupid Ain't Stupid.
 
 You can listen [here](https://open.spotify.com/track/3XhS1vbvsVQPblCGP615sH)
 
 {{% spotify "3XhS1vbvsVQPblCGP615sH" small %}}
 
-added on 2021-06-03 00:05:25+00:00
+added on June 03, 2021

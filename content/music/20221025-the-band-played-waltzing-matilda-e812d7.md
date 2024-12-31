@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# The Band Played Waltzing Matilda
-
 ## The Pogues on the album Rum Sodomy & The Lash (Expanded Edition)
 
 You can listen [here](https://open.spotify.com/track/1O2SlAUcjIoFFt9vpI3P1i)
 
 {{% spotify "1O2SlAUcjIoFFt9vpI3P1i" small %}}
 
-added on 2022-10-25 18:01:09+00:00
+added on October 25, 2022

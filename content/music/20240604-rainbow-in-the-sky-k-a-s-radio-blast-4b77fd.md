@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Rainbow In The Sky - K & A's Radio Blast
-
 ## Paul Elstak on the album The Best Of Paul Elstak Top 20
 
 You can listen [here](https://open.spotify.com/track/2PVqPbRv7mlCp2JYzDeMsc)
 
 {{% spotify "2PVqPbRv7mlCp2JYzDeMsc" small %}}
 
-added on 2024-06-04 01:11:26+00:00
+added on June 04, 2024

@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Certain Things Around You, Pt. 2
-
 ## Minilogue on the album Certain Things - EP
 
 You can listen [here](https://open.spotify.com/track/6T23ri8QUVdRWbkvImmXR2)
 
 {{% spotify "6T23ri8QUVdRWbkvImmXR2" small %}}
 
-added on 2021-04-23 22:59:53+00:00
+added on April 23, 2021

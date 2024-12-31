@@ -12,12 +12,10 @@ type: music
 ---
 
 
-# Milonga Del Angel
-
 ## Astor Piazzolla on the album Tango: Zero Hour
 
 You can listen [here](https://open.spotify.com/track/1Gas3HGCmNODYQiMU13LqL)
 
 {{% spotify "1Gas3HGCmNODYQiMU13LqL" small %}}
 
-added on 2023-05-28 15:04:39+00:00
+added on May 28, 2023
