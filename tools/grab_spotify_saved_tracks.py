@@ -118,7 +118,6 @@ def create_hugo_content(track, output_dir):
             logging.info(f"Track already exists: {file_path}")
             return False
 
-        print(track)
         # Create post with frontmatter
         post = frontmatter.Post("")
         post['title'] = track['title']
@@ -133,15 +132,13 @@ def create_hugo_content(track, output_dir):
         post['type'] = 'music'
         
         post.content = f"""
-# {post['title']}
-
 ## {post['artist']} on the album {post['album']}
 
 You can listen [here]({post['spotify_url']})
 
 {{{{% spotify "{track['id']}" small %}}}}
 
-added on {post['date']}
+added on {post['date'].strftime("%B %d, %Y")}
 """
         
         # Write the file
