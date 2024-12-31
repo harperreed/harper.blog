@@ -38,7 +38,7 @@ Content-Security-Policy = """
     connect-src 'self' https:;
     media-src 'self';
     object-src 'none';
-    frame-src 'self';
+    frame-src 'self' https://www.youtube.com https://youtube.com https://youtu.be https://open.spotify.com;
     frame-ancestors 'self';
     form-action 'self';
     base-uri 'self';
