@@ -32,7 +32,7 @@ jobs:
 
             - name: Run spotify tracks script
               working-directory: ./tools
-              run: uv run grab_spotify_tracks.py
+              run: uv run grab_spotify_saved_tracks.py
 
             - name: Commit and push if changes
               run: |
