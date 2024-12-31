@@ -41,12 +41,12 @@ def setup_spotify():
         sp = spotipy.Spotify(auth_manager=auth_manager)
         
         # After authentication, save the token back to environment if needed
-        if os.path.exists(cache_path):
-            with open(cache_path, 'r') as f:
-                token_info = f.read()
-                # In a GitHub Action, you might want to set this as an output
-                # to save for the next run
-                print(f"::set-output name=spotify_token::{token_info}")
+        # if os.path.exists(cache_path):
+        #     with open(cache_path, 'r') as f:
+        #         token_info = f.read()
+        #         # In a GitHub Action, you might want to set this as an output
+        #         # to save for the next run
+        #         print(f"::set-output name=spotify_token::{token_info}")
         
         return sp
     except Exception as e:
