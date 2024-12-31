@@ -67,8 +67,9 @@ def get_saved_tracks(sp, limit=50):
             for item in results['items']:
                 track = item['track']
                 added_at = item['added_at']
-                
+          
                 track_data = {
+                    'id': track['id'],
                     'title': track['name'],
                     'artist': track['artists'][0]['name'],
                     'album': track['album']['name'],
@@ -108,14 +109,16 @@ def generate_unique_slug(title, date_str, url):
 
 def create_hugo_content(track, output_dir):
     """Create a Hugo markdown file for a track."""
-    try:
+    # try:
+    if True:
         slug = generate_unique_slug(track['title'], track['added_at'], track['spotify_url'])
         file_path = os.path.join(output_dir, f"{slug}.md")
         
         if os.path.exists(file_path):
             logging.info(f"Track already exists: {file_path}")
             return False
-            
+
+        print(track)
         # Create post with frontmatter
         post = frontmatter.Post("")
         post['title'] = track['title']
@@ -129,6 +132,18 @@ def create_hugo_content(track, output_dir):
         post['draft'] = False
         post['type'] = 'music'
         
+        post.content = f"""
+# {post['title']}
+
+## {post['artist']} on the album {post['album']}
+
+You can listen [here]({post['spotify_url']})
+
+{{{{% spotify "{track['id']}" small %}}}}
+
+added on {post['date']}
+"""
+        
         # Write the file
         with open(file_path, 'w', encoding='utf-8') as f:
             f.write(frontmatter.dumps(post))
@@ -136,9 +151,9 @@ def create_hugo_content(track, output_dir):
         logging.info(f"Created new track post: {file_path}")
         return True
         
-    except Exception as e:
-        logging.error(f"Error creating post for '{track['title']}': {e}")
-        return False
+    # except Exception as e:
+    #     logging.error(f"Error creating post for '{track['title']}': {e}")
+    #     return False
 
 def main():
     """Main function to orchestrate the script."""
