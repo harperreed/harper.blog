@@ -1,17 +1,16 @@
 ---
 date: 2024-12-31 23:59:59-05:00
 title: 2024 in the rear view
-description:
-    A personal retrospective on 2024, covering major life changes, health improvements, shifts in travel patterns, music discoveries, and technological adaptations, culminating in a forward-looking view of 2025.
+description: A personal retrospective on 2024, covering major life changes, health improvements, shifts in travel patterns, music discoveries, and technological adaptations, culminating in a forward-looking view of 2025.
 draft: false
 tags:
-- life
-- retrospective
-- year-in-review
-- health
-- travel
-- music
-- photography
+    - life
+    - retrospective
+    - year-in-review
+    - health
+    - travel
+    - music
+    - photography
 ---
 
 I have started this post about 200 times.
@@ -34,6 +33,8 @@ Will check again in a bit.
 
 ## Travel
 
+{{< image src="/images/posts/black-dragon-temple.jpg" caption="Mt. Minobu Kuonji Temple">}}
+
 I traveled almost zero this year. Wild. Five years ago in 2019, I did 95 flights. This year I did about 10?
 
 This has been the hardest post-COVID change for me. It obviously started in 2020, but has continued since then.
@@ -46,13 +47,17 @@ I am not sure if I miss it or not.
 
 ## Music
 
-I listened to a lot of great music, mostly hyper pop and classic rock. One of the biggest joys has been sharing music with the kid. We have a playlist that has all the songs that he has liked on it. He seems to like Devo, hyper pop, and David Bowie. Not too bad! Hit me up and I will send you the playlist.
+I listened to a lot of great music, mostly hyperpop and classic rock. One of the biggest joys has been sharing music with the kid. We have a playlist that has all the songs that he has liked on it. He seems to like Devo, hyperpop, and David Bowie. Not too bad! Hit me up and I will send you the playlist.
 
-I am still thinking a lot about stereos (middle age, amirite), and I really need to get some new speakers for the basement. Thinking about some Klipsch Forte IVs.
+I am still thinking a lot about stereos (middle age, amirite), and I really need to get some new speakers for the basement. Thinking about some Klipsch Forte IVs. They may pair nice with the vintage Mcintosh amp I got from my dead uncle.
 
 ## Photography
 
-This year was fun because I got a new camera that changed how I shoot. I picked up a Ricoh GR3x after shooting with my M11 in Japan and being frustrated by its size and speed in certain situations. Normally the size and speed (slow) is a feature, but not always. The ricoh really unlocked some fun opportunities. You can see the magic of the ricoh in my [notes](/notes) section.
+{{< image src="/images/posts/corncob-building.jpg" caption="The corncob dudes">}}
+
+This year was fun because I got a new camera that changed how I shoot. I picked up a Ricoh GR3x after shooting with my M11 in Japan and being frustrated by its size and speed in certain situations. Normally the size and speed (slow) is a feature, but not always. The ricoh really unlocked some fun opportunities. You can see the magic of the ricoh in my [notes](/notes) section. It is quite fun to point, and shoot. Who knew!
+
+{{< image src="/images/posts/on-the-road.jpg" caption="Somewhere in eastern colorado">}}
 
 I still adore the M11 and still use it often - but the convenience of having the Ricoh (literally) in my pocket is amazing. I can grab hilarious shots that I would normally have lost.
 
@@ -66,7 +71,7 @@ Here is my list of things and stuff and media that I really enjoyed in 2024
 
 ## My favorite books
 
-I loved these books in 2024. You can find my entire list of books I read in 2024 at reading.lol
+I loved these books in 2024. You can find my entire list of books I read in 2024 at [reading.lol](https://reading.lol)
 
 -   [My Work by Olga Ravn](https://amzn.to/4023AxA)
 -   [Moonbound by Robin Sloan](https://amzn.to/401G8QW)
@@ -79,10 +84,10 @@ I loved these books in 2024. You can find my entire list of books I read in 2024
 
 We don’t watch a lot of TV, but these were notable this year
 
--   Pantheon
--   Shrinking
--   Kaos
--   Slow Horses
+-   [Pantheon](<https://en.wikipedia.org/wiki/Pantheon_(TV_series)>)
+-   [Shrinking](<https://en.wikipedia.org/wiki/Shrinking_(TV_series)>)
+-   [Kaos](<https://en.wikipedia.org/wiki/Kaos_(TV_series)>)
+-   [Slow Horses](https://en.wikipedia.org/wiki/Slow_Horses)
 
 ## Favorite Tracks (in no particular order )
 
@@ -119,6 +124,8 @@ These were my everyday carry
 # 2025
 
 I am excited for 2025.
+
+{{< image src="/images/posts/leaves.jpg" caption="A \"new\" leaf">}}
 
 The company that I started with my friends is really starting to get going.
 
