@@ -135,6 +135,4 @@ I will continue listening to terrible hyperpop and having a great time.
 
 I will continue to work out and hopefully to run.
 
-I am excited for the next year!
-
-See you there!
+Let's go!
