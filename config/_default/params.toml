@@ -28,6 +28,7 @@ customcss = [
     "/css/bsky_comments.css",
     "/css/outofdate.css",
     "/css/image-loading.css",
+    "/css/tinylytics.css",
     "syntax.css",
 ]
 
