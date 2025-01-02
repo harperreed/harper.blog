@@ -1,3 +1,46 @@
+- **2025-01-01**: ✨ Updated blog post index and post list layout! 🚀
+- **2025-01-01**: Added missing byline section to notes layout 🤓🎉 - Moved the byline code out of the menu condition, so it's always displayed! No more ghost bylines! 👻✍️ - Ensured that the date, author, and kudos button are visible on all notes, improving accessibility and consistency. 📅👍 - Changed the file: `layouts/notes/single.html`
+- **2025-01-01**: 🚀 Big Cleanup: Deleted Unused Notes and Images! 🗑️
+- **2025-01-01**: Merge branch 'main' of github.com:harperreed/harper.blog
+- **2025-01-01**: 📜🗑️ Delete multiple untitled notes to declutter the repo! 🥳
+- **2025-01-02**: Auto update micro posts
+- **2025-01-01**: Deleted multiple note files and images 📸❌ - Removed images and index.md files for notes dated from September 8, 2024, to December 16, 2024. - Note details included things like photos, descriptions, and original URLs which are now gone! Bye-bye memories! 😢
+- **2025-01-01**: Updated single note layout for better formatting and user experience 🎉✨
+- **2025-01-01**: Updated tinylytics CSS for improved readability ✨💖
+- **2025-01-01**: 🎉 Add Kudos Button to Note and Now Pages! 🎉
+- **2025-01-01**: Add a Kudos button to the Now list layout 🎉✨
+- **2025-01-01**: ✨ Add Kudos Button to Notes and Posts & Update Script URL! 🎉
+- **2025-01-01**: Add tinylytics CSS and update params.toml to include it 🎉✨
+- **2025-01-01**: Merge pull request #87 from harperreed/kudos
+- **2025-01-01**: Updated dependencies and improved footer analytics 🎉
+- **2025-01-01**: Auto update micro posts
+- **2025-01-01**: Merge pull request #86 from harperreed/harperreed-2024-post
+- **2025-01-01**: 2024 Retrospective Update 🎉😂 - Changed the ending of the retrospective from "I am excited for the next year! See you there!" to "Let's go!" to give it a snappier, more energetic closure. 🚀 - This brief tweak in the conclusion amps up the enthusiasm and maintains the light-hearted tone of the piece. - It's like switching from a boring farewell to a pumped-up rallying cry! Who doesn't love a good "Let's go!"? 🙌💥
+- **2025-01-01**: Bam! A 2024 Retrospective Revamped! 🎉✨ - Merged and cleaned up the YAML front matter for better readability and consistency. - Added captions for new images in the retrospective to enhance engagement. 🖼️ - Expanded sections on health, travel, music, and photography by providing additional context and insights. 📸🎶 - Included links in the favorite books and TV shows sections, making it easier to explore them. 📚📺 - Introduced new image files to visually represent key moments and enhance the post's appeal! 🙌 - Overall, these changes update and enrich the content, providing a more engaging and visually appealing retrospective for readers. 🥳
+- **2024-12-31**: A total makeover of the 2024 retrospective post! 🎉📝 - Added a complete YAML front matter section to `2024-12-31-retrospective.md` including date, title, description, draft status, and tags. - Expanded the content to detail personal insights and experiences throughout the year, such as health, travel, music, and photography. - Introduced a structured section format (like "Health," "Travel," etc.) for clarity and easier navigation. - Included a list of favorite books, TV shows, music tracks, bags, and cameras from the year for added context and personality. 😎📚🎶
+- **2024-12-31**: Update 2024-12-31-retrospective.md
+- **2025-01-01**: Auto update spotify tracks
+- **2024-12-31**: Create 2024-12-31-retrospective.md
+- **2024-12-31**: Auto update micro posts
+- **2024-12-30**: Merge branch 'main' of github.com:harperreed/harper.blog
+- **2024-12-30**: 🎉 Update formatting for Hugo markdown files & remove debug print statement 🎉
+- **2024-12-31**: Auto update micro posts
+- **2024-12-30**: fixed music content
+- **2024-12-30**: Update grab_spotify_saved_tracks.yaml
+- **2024-12-30**: Update netlify.toml for Hugo and Go versioning 🚀⚙️
+- **2024-12-30**: Update Spotify tracks script reference 🎶🚀
+- **2024-12-30**: Merge pull request #85 from harperreed/music
+- **2024-12-30**: Removed commented logging for token retrieval in Spotify setup 🎤🎶 - Commented out code on lines 48-55 related to reading the cached Spotify token to avoid confusion during execution. This code was previously intended for GitHub Actions output, but it was commented out to streamline the function and prevent unnecessary complications. - Clarified that the Spotify client initialization will not output the token, making the setup cleaner and less prone to issues during usage 🚀.
+- **2024-12-30**: Update .gitignore to exclude additional cache files 🎉🗑️
+- **2024-12-30**: 🎉 Added Spotify embed shortcode for small and regular sizes! 🎶
+- **2024-12-30**: 🎉 Security tweaks and Spotify script shenanigans! 🎶
+- **2024-12-30**: added music
+- **2024-12-30**: 🎉✨ Added Spotify Tracks Automation Workflow & Script! 🎶🚀
+- **2024-12-30**: Auto update micro posts
+- **2024-12-29**: Auto update micro posts
+- **2024-12-29**: Auto update micro posts
+- **2024-12-28**: 🎉💥 Major Cleanup: Removed Unused Image and Note Files! 💥🎉 - Deleted `image_1.jpg` which was a random image file that no one gives a damn about. 🗑️💔 - Removed the `index.md` file associated with the note that featured “Hanging with my fav player in NBA jam, Josh.” - goodbye to this "epic" content! ✌️👋🤷‍♂️
+- **2024-12-28**: 🚀 Update Netlify Configuration for Hugo Build 🚀 - Modified the `command` for production build to include `--minify`, `--forceSyncStatic`, and changed `--templateMetrics` to `--logLevel info` for better performance and debugging. - Added 'GO_VERSION' to specify a modern Go version (1.23) in production and deploy-preview contexts. This ensures a more consistent and optimized build environment. - Kept existing settings for headers, cache controls, and image management intact to maintain security and performance standards. - Overall, these changes will improve build performance, reduce output size, and ensure the project uses up-to-date tooling. Let's keep this rocket flying! 🚀✨
 - **2024-12-28**: Add query parameters to Tinylytics script in footer
 - **2024-12-28**: Add security measures in base layout and create security partial 🤖🔒
 - **2024-12-28**: Add Analytics Section and Shortcodes for Tracking Hits and Countries 🎉📊
