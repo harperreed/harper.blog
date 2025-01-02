@@ -7,6 +7,7 @@
 
 {{ end }}
 <content> {{ .Content }} </content>
+<button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
 <p>
     {{ range (.GetTerms "tags") }}
     <a class="blog-tags" href="{{ .RelPermalink }}"
