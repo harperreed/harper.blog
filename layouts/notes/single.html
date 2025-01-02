@@ -1,13 +1,6 @@
 {{ define "main" }} {{ if not .Params.menu }}
 <h1>{{ .Title }}</h1>
-<p class="byline">
-    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
-        {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
-    </time> &middot;
-    {{ with .Params.author }}{{.}} &middot;{{ end }}
 
-    <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
-</p>
 {{ end }}
 <content>
     {{ .Content }} {{- with .Resources.ByType "image" }}
@@ -18,7 +11,14 @@
     </div>
     {{- end }}
 </content>
+<p class="byline">
+    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
+        {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
+    </time> &middot;
+    {{ with .Params.author }}{{.}} &middot;{{ end }}
 
+    <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
+</p>
 {{ partialCached "tags.html" . .Title }}
 {{ partialCached "comments.html" . .Title }}
 
