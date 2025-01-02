@@ -15,7 +15,8 @@ url: /posts
 
 I started blogging on March 1st, 2000. Since then I have had many different eras of blogging. Some with lots of blog posts, others with very few.
 
-Eras of my blog:
+<details>
+    <summary>Eras of my blog:</summary>
 
 -   **2023 - Now** - Experimental life phase 3 (_{{< postcount 2023 "now" >}}_)
 -   **2020 - 2023** - Galactic (_{{< postcount 2020 2023 >}}_)
@@ -28,6 +29,8 @@ Eras of my blog:
 -   **2004 - 2005** - Clubbing and second job (_{{< postcount 2004 2005 >}}_)
 -   **2001 - 2004** - Clubbing and first job (_{{< postcount 2001 2004 >}}_)
 -   **2000 - 2001** - College (_{{< postcount 2000 2001 >}}_)
+
+</details>
 
 Total posts since 2000: **{{< postcount 2000 "now" >}}**
 
