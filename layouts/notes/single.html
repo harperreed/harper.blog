@@ -5,6 +5,7 @@
         {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
     </time>
     {{ with .Params.author }}· {{.}}{{ end }}
+    <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
 </p>
 {{ end }}
 <content>
