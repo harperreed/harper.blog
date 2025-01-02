@@ -3,8 +3,9 @@
 <p class="byline">
     <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
         {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
-    </time>
-    {{ with .Params.author }}· {{.}}{{ end }}
+    </time> &middot;
+    {{ with .Params.author }}{{.}} &middot;{{ end }}
+
     <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
 </p>
 {{ end }}
