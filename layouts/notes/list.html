@@ -14,6 +14,7 @@
                     {{ .Date.Format "Jan 02, 2006" }}
                 </time>
                  <a href="{{ .RelPermalink }}" title="Permalink to this note">#</a>
+                 <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
             </header>
             {{ if .Params.text }} {{ .Params.text | markdownify }} {{ else }} {{
             .Content }} {{ end }} {{ with .Resources.ByType "image" }}
