@@ -15,6 +15,6 @@
 .did_select {
     opacity: 0.6;
     cursor: default;
-    text-decoration: underline;
+    text-decoration: none;
     pointer-events: none;
 }
