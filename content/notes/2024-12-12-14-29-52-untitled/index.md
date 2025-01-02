@@ -2,10 +2,10 @@
 date: 2024-12-12 14:29:52-07:00
 description: This doechii tiny desk is incredible
 draft: false
-note_id: 187
+note_id: 148
 original_url: https://harper.micro.blog/2024/12/12/this-doechii-tiny.html
 sub_title: Untitled
-title: 'Note #187'
+title: 'Note #148'
 ---
 
 This doechii tiny desk is incredible
