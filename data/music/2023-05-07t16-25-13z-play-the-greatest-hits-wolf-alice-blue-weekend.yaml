@@ -1,0 +1,74 @@
+added_at: '2023-05-07T16:25:13Z'
+album: Blue Weekend
+album_image: https://i.scdn.co/image/ab67616d0000b2730d1e8740297489a355564e34
+artist: Wolf Alice
+duration_ms: 147666
+id: 0rSuev4QLH0DydIV7PosuX
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV
+      href: https://api.spotify.com/v1/artists/3btzEQD6sugImIHPMRgkwV
+      id: 3btzEQD6sugImIHPMRgkwV
+      name: Wolf Alice
+      type: artist
+      uri: spotify:artist:3btzEQD6sugImIHPMRgkwV
+    available_markets:
+    - CA
+    - PR
+    - US
+    external_urls:
+      spotify: https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0
+    href: https://api.spotify.com/v1/albums/1VCTWaze9kuY5IDlbtR5p0
+    id: 1VCTWaze9kuY5IDlbtR5p0
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2730d1e8740297489a355564e34
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e020d1e8740297489a355564e34
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048510d1e8740297489a355564e34
+      width: 64
+    is_playable: true
+    name: Blue Weekend
+    release_date: '2021-06-04'
+    release_date_precision: day
+    total_tracks: 11
+    type: album
+    uri: spotify:album:1VCTWaze9kuY5IDlbtR5p0
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV
+    href: https://api.spotify.com/v1/artists/3btzEQD6sugImIHPMRgkwV
+    id: 3btzEQD6sugImIHPMRgkwV
+    name: Wolf Alice
+    type: artist
+    uri: spotify:artist:3btzEQD6sugImIHPMRgkwV
+  available_markets:
+  - CA
+  - PR
+  - US
+  disc_number: 1
+  duration_ms: 147666
+  explicit: false
+  external_ids:
+    isrc: GBK3W2001634
+  external_urls:
+    spotify: https://open.spotify.com/track/0rSuev4QLH0DydIV7PosuX
+  href: https://api.spotify.com/v1/tracks/0rSuev4QLH0DydIV7PosuX
+  id: 0rSuev4QLH0DydIV7PosuX
+  is_local: false
+  is_playable: true
+  name: Play the Greatest Hits
+  popularity: 31
+  preview_url: null
+  track_number: 7
+  type: track
+  uri: spotify:track:0rSuev4QLH0DydIV7PosuX
+spotify_url: https://open.spotify.com/track/0rSuev4QLH0DydIV7PosuX
+title: Play the Greatest Hits

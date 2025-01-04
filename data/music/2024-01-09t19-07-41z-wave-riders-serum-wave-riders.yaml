@@ -1,0 +1,68 @@
+added_at: '2024-01-09T19:07:41Z'
+album: Wave Riders
+album_image: https://i.scdn.co/image/ab67616d0000b2735be25039fc89d408cf756dc0
+artist: Serum
+duration_ms: 155056
+id: 7dK7xcQfo3txp2Z7et395z
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m
+      href: https://api.spotify.com/v1/artists/1OeYjH80o59axC1PYRV97m
+      id: 1OeYjH80o59axC1PYRV97m
+      name: Serum
+      type: artist
+      uri: spotify:artist:1OeYjH80o59axC1PYRV97m
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/4DK9Dx4NdcezQvsx1KUd6L
+    href: https://api.spotify.com/v1/albums/4DK9Dx4NdcezQvsx1KUd6L
+    id: 4DK9Dx4NdcezQvsx1KUd6L
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2735be25039fc89d408cf756dc0
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e025be25039fc89d408cf756dc0
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048515be25039fc89d408cf756dc0
+      width: 64
+    is_playable: true
+    name: Wave Riders
+    release_date: '2022-11-25'
+    release_date_precision: day
+    total_tracks: 2
+    type: album
+    uri: spotify:album:4DK9Dx4NdcezQvsx1KUd6L
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m
+    href: https://api.spotify.com/v1/artists/1OeYjH80o59axC1PYRV97m
+    id: 1OeYjH80o59axC1PYRV97m
+    name: Serum
+    type: artist
+    uri: spotify:artist:1OeYjH80o59axC1PYRV97m
+  available_markets: []
+  disc_number: 1
+  duration_ms: 155056
+  explicit: false
+  external_ids:
+    isrc: UKK762251011
+  external_urls:
+    spotify: https://open.spotify.com/track/7dK7xcQfo3txp2Z7et395z
+  href: https://api.spotify.com/v1/tracks/7dK7xcQfo3txp2Z7et395z
+  id: 7dK7xcQfo3txp2Z7et395z
+  is_local: false
+  is_playable: true
+  name: Wave Riders
+  popularity: 0
+  preview_url: null
+  track_number: 2
+  type: track
+  uri: spotify:track:7dK7xcQfo3txp2Z7et395z
+spotify_url: https://open.spotify.com/track/7dK7xcQfo3txp2Z7et395z
+title: Wave Riders

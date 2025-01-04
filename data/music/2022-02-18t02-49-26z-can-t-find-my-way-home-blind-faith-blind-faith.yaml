@@ -1,0 +1,72 @@
+added_at: '2022-02-18T02:49:26Z'
+album: Blind Faith
+album_image: https://i.scdn.co/image/ab67616d0000b273a8e327d9ae533452ea8e613b
+artist: Blind Faith
+duration_ms: 196133
+id: 3VyJGPYr2DF9gdBNosSao4
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/5GUVj2b1lJ4DolQyHlzyaO
+      href: https://api.spotify.com/v1/artists/5GUVj2b1lJ4DolQyHlzyaO
+      id: 5GUVj2b1lJ4DolQyHlzyaO
+      name: Blind Faith
+      type: artist
+      uri: spotify:artist:5GUVj2b1lJ4DolQyHlzyaO
+    available_markets:
+    - CA
+    - US
+    external_urls:
+      spotify: https://open.spotify.com/album/6xmPL0CddWADJTJkJZkrl2
+    href: https://api.spotify.com/v1/albums/6xmPL0CddWADJTJkJZkrl2
+    id: 6xmPL0CddWADJTJkJZkrl2
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273a8e327d9ae533452ea8e613b
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02a8e327d9ae533452ea8e613b
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851a8e327d9ae533452ea8e613b
+      width: 64
+    is_playable: true
+    name: Blind Faith
+    release_date: 1969-08
+    release_date_precision: month
+    total_tracks: 6
+    type: album
+    uri: spotify:album:6xmPL0CddWADJTJkJZkrl2
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/5GUVj2b1lJ4DolQyHlzyaO
+    href: https://api.spotify.com/v1/artists/5GUVj2b1lJ4DolQyHlzyaO
+    id: 5GUVj2b1lJ4DolQyHlzyaO
+    name: Blind Faith
+    type: artist
+    uri: spotify:artist:5GUVj2b1lJ4DolQyHlzyaO
+  available_markets:
+  - CA
+  - US
+  disc_number: 1
+  duration_ms: 196133
+  explicit: false
+  external_ids:
+    isrc: NLF056990018
+  external_urls:
+    spotify: https://open.spotify.com/track/3VyJGPYr2DF9gdBNosSao4
+  href: https://api.spotify.com/v1/tracks/3VyJGPYr2DF9gdBNosSao4
+  id: 3VyJGPYr2DF9gdBNosSao4
+  is_local: false
+  is_playable: true
+  name: Can't Find My Way Home
+  popularity: 56
+  preview_url: null
+  track_number: 2
+  type: track
+  uri: spotify:track:3VyJGPYr2DF9gdBNosSao4
+spotify_url: https://open.spotify.com/track/3VyJGPYr2DF9gdBNosSao4
+title: Can't Find My Way Home

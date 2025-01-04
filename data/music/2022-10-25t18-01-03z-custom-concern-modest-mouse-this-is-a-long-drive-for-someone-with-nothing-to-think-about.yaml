@@ -1,0 +1,68 @@
+added_at: '2022-10-25T18:01:03Z'
+album: This Is a Long Drive for Someone with Nothing to Think About
+album_image: https://i.scdn.co/image/ab67616d0000b273ecfe46f1fb481d6dc0e5371e
+artist: Modest Mouse
+duration_ms: 268093
+id: 4MN8iMuJhAlXtFeBKtM1PG
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+      href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+      id: 1yAwtBaoHLEDWAnWR87hBT
+      name: Modest Mouse
+      type: artist
+      uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/7BAzCcA3ri1ifFiC1TgPMx
+    href: https://api.spotify.com/v1/albums/7BAzCcA3ri1ifFiC1TgPMx
+    id: 7BAzCcA3ri1ifFiC1TgPMx
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273ecfe46f1fb481d6dc0e5371e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02ecfe46f1fb481d6dc0e5371e
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851ecfe46f1fb481d6dc0e5371e
+      width: 64
+    is_playable: true
+    name: This Is a Long Drive for Someone with Nothing to Think About
+    release_date: '1996-04-16'
+    release_date_precision: day
+    total_tracks: 16
+    type: album
+    uri: spotify:album:7BAzCcA3ri1ifFiC1TgPMx
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+    href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+    id: 1yAwtBaoHLEDWAnWR87hBT
+    name: Modest Mouse
+    type: artist
+    uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+  available_markets: []
+  disc_number: 1
+  duration_ms: 268093
+  explicit: false
+  external_ids:
+    isrc: USFP71444503
+  external_urls:
+    spotify: https://open.spotify.com/track/4MN8iMuJhAlXtFeBKtM1PG
+  href: https://api.spotify.com/v1/tracks/4MN8iMuJhAlXtFeBKtM1PG
+  id: 4MN8iMuJhAlXtFeBKtM1PG
+  is_local: false
+  is_playable: true
+  name: Custom Concern
+  popularity: 0
+  preview_url: null
+  track_number: 3
+  type: track
+  uri: spotify:track:4MN8iMuJhAlXtFeBKtM1PG
+spotify_url: https://open.spotify.com/track/4MN8iMuJhAlXtFeBKtM1PG
+title: Custom Concern

@@ -1,0 +1,68 @@
+added_at: '2023-03-25T15:49:25Z'
+album: Anika
+album_image: https://i.scdn.co/image/ab67616d0000b27378f78da1ecc0fe55d4fa6f13
+artist: Anika
+duration_ms: 200440
+id: 2Ih0ixnGXprfA0aoSWOioR
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5
+      href: https://api.spotify.com/v1/artists/6fimwBQkUgYS2HweErgxN5
+      id: 6fimwBQkUgYS2HweErgxN5
+      name: Anika
+      type: artist
+      uri: spotify:artist:6fimwBQkUgYS2HweErgxN5
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/0wcr6i3pA9jWXEBD8V44rM
+    href: https://api.spotify.com/v1/albums/0wcr6i3pA9jWXEBD8V44rM
+    id: 0wcr6i3pA9jWXEBD8V44rM
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b27378f78da1ecc0fe55d4fa6f13
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e0278f78da1ecc0fe55d4fa6f13
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d0000485178f78da1ecc0fe55d4fa6f13
+      width: 64
+    is_playable: true
+    name: Anika
+    release_date: '2010-11-02'
+    release_date_precision: day
+    total_tracks: 14
+    type: album
+    uri: spotify:album:0wcr6i3pA9jWXEBD8V44rM
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5
+    href: https://api.spotify.com/v1/artists/6fimwBQkUgYS2HweErgxN5
+    id: 6fimwBQkUgYS2HweErgxN5
+    name: Anika
+    type: artist
+    uri: spotify:artist:6fimwBQkUgYS2HweErgxN5
+  available_markets: []
+  disc_number: 1
+  duration_ms: 200440
+  explicit: false
+  external_ids:
+    isrc: US2S71161008
+  external_urls:
+    spotify: https://open.spotify.com/track/2Ih0ixnGXprfA0aoSWOioR
+  href: https://api.spotify.com/v1/tracks/2Ih0ixnGXprfA0aoSWOioR
+  id: 2Ih0ixnGXprfA0aoSWOioR
+  is_local: false
+  is_playable: true
+  name: I Go To Sleep
+  popularity: 0
+  preview_url: null
+  track_number: 8
+  type: track
+  uri: spotify:track:2Ih0ixnGXprfA0aoSWOioR
+spotify_url: https://open.spotify.com/track/2Ih0ixnGXprfA0aoSWOioR
+title: I Go To Sleep

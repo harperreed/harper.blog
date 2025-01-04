@@ -1,0 +1,82 @@
+added_at: '2024-06-04T03:48:42Z'
+album: CHEGOU 3
+album_image: https://i.scdn.co/image/ab67616d0000b273c1d1135010f6ce47bd3c1e42
+artist: shonci
+duration_ms: 159456
+id: 3Pd1MwrGRhEzjiO7njmlbi
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl
+      href: https://api.spotify.com/v1/artists/0PDEn6fqo7VEhexzDok9Dl
+      id: 0PDEn6fqo7VEhexzDok9Dl
+      name: shonci
+      type: artist
+      uri: spotify:artist:0PDEn6fqo7VEhexzDok9Dl
+    - external_urls:
+        spotify: https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI
+      href: https://api.spotify.com/v1/artists/4JA9UvIYD3D5kL7utiGJMI
+      id: 4JA9UvIYD3D5kL7utiGJMI
+      name: Mc Magrinho
+      type: artist
+      uri: spotify:artist:4JA9UvIYD3D5kL7utiGJMI
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/0FBrponFK306z8KcWiWpxj
+    href: https://api.spotify.com/v1/albums/0FBrponFK306z8KcWiWpxj
+    id: 0FBrponFK306z8KcWiWpxj
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273c1d1135010f6ce47bd3c1e42
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02c1d1135010f6ce47bd3c1e42
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851c1d1135010f6ce47bd3c1e42
+      width: 64
+    is_playable: true
+    name: CHEGOU 3
+    release_date: '2024-05-14'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:0FBrponFK306z8KcWiWpxj
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl
+    href: https://api.spotify.com/v1/artists/0PDEn6fqo7VEhexzDok9Dl
+    id: 0PDEn6fqo7VEhexzDok9Dl
+    name: shonci
+    type: artist
+    uri: spotify:artist:0PDEn6fqo7VEhexzDok9Dl
+  - external_urls:
+      spotify: https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI
+    href: https://api.spotify.com/v1/artists/4JA9UvIYD3D5kL7utiGJMI
+    id: 4JA9UvIYD3D5kL7utiGJMI
+    name: Mc Magrinho
+    type: artist
+    uri: spotify:artist:4JA9UvIYD3D5kL7utiGJMI
+  available_markets: []
+  disc_number: 1
+  duration_ms: 159456
+  explicit: true
+  external_ids:
+    isrc: QM24S2402900
+  external_urls:
+    spotify: https://open.spotify.com/track/3Pd1MwrGRhEzjiO7njmlbi
+  href: https://api.spotify.com/v1/tracks/3Pd1MwrGRhEzjiO7njmlbi
+  id: 3Pd1MwrGRhEzjiO7njmlbi
+  is_local: false
+  is_playable: true
+  name: CHEGOU 3
+  popularity: 12
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:3Pd1MwrGRhEzjiO7njmlbi
+spotify_url: https://open.spotify.com/track/3Pd1MwrGRhEzjiO7njmlbi
+title: CHEGOU 3

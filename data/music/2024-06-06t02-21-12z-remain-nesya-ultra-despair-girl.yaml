@@ -1,0 +1,68 @@
+added_at: '2024-06-06T02:21:12Z'
+album: Ultra Despair Girl
+album_image: https://i.scdn.co/image/ab67616d0000b273ade33da88059fed1fd5af810
+artist: NESYA
+duration_ms: 170013
+id: 6Zc3yashT5XTHHQfN28Ddd
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp
+      href: https://api.spotify.com/v1/artists/0P0siigmv3AUVmXnPaHUFp
+      id: 0P0siigmv3AUVmXnPaHUFp
+      name: NESYA
+      type: artist
+      uri: spotify:artist:0P0siigmv3AUVmXnPaHUFp
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/5hvse8IATs4qYjOXQri5wU
+    href: https://api.spotify.com/v1/albums/5hvse8IATs4qYjOXQri5wU
+    id: 5hvse8IATs4qYjOXQri5wU
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273ade33da88059fed1fd5af810
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02ade33da88059fed1fd5af810
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851ade33da88059fed1fd5af810
+      width: 64
+    is_playable: true
+    name: Ultra Despair Girl
+    release_date: '2024-05-17'
+    release_date_precision: day
+    total_tracks: 11
+    type: album
+    uri: spotify:album:5hvse8IATs4qYjOXQri5wU
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp
+    href: https://api.spotify.com/v1/artists/0P0siigmv3AUVmXnPaHUFp
+    id: 0P0siigmv3AUVmXnPaHUFp
+    name: NESYA
+    type: artist
+    uri: spotify:artist:0P0siigmv3AUVmXnPaHUFp
+  available_markets: []
+  disc_number: 1
+  duration_ms: 170013
+  explicit: false
+  external_ids:
+    isrc: UKXN22402814
+  external_urls:
+    spotify: https://open.spotify.com/track/6Zc3yashT5XTHHQfN28Ddd
+  href: https://api.spotify.com/v1/tracks/6Zc3yashT5XTHHQfN28Ddd
+  id: 6Zc3yashT5XTHHQfN28Ddd
+  is_local: false
+  is_playable: true
+  name: Remain
+  popularity: 5
+  preview_url: null
+  track_number: 5
+  type: track
+  uri: spotify:track:6Zc3yashT5XTHHQfN28Ddd
+spotify_url: https://open.spotify.com/track/6Zc3yashT5XTHHQfN28Ddd
+title: Remain

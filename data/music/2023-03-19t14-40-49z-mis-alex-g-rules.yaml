@@ -1,0 +1,68 @@
+added_at: '2023-03-19T14:40:49Z'
+album: Rules
+album_image: https://i.scdn.co/image/ab67616d0000b2736156dd7154357e6ccb45068e
+artist: Alex G
+duration_ms: 200680
+id: 4PL0neV0CW44OxbbwVT9zl
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs
+      href: https://api.spotify.com/v1/artists/6lcwlkAjBPSKnFBZjjZFJs
+      id: 6lcwlkAjBPSKnFBZjjZFJs
+      name: Alex G
+      type: artist
+      uri: spotify:artist:6lcwlkAjBPSKnFBZjjZFJs
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/6jaNGL4S4tYKX5z1A683Do
+    href: https://api.spotify.com/v1/albums/6jaNGL4S4tYKX5z1A683Do
+    id: 6jaNGL4S4tYKX5z1A683Do
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2736156dd7154357e6ccb45068e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e026156dd7154357e6ccb45068e
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048516156dd7154357e6ccb45068e
+      width: 64
+    is_playable: true
+    name: Rules
+    release_date: '2015-03-24'
+    release_date_precision: day
+    total_tracks: 13
+    type: album
+    uri: spotify:album:6jaNGL4S4tYKX5z1A683Do
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs
+    href: https://api.spotify.com/v1/artists/6lcwlkAjBPSKnFBZjjZFJs
+    id: 6lcwlkAjBPSKnFBZjjZFJs
+    name: Alex G
+    type: artist
+    uri: spotify:artist:6lcwlkAjBPSKnFBZjjZFJs
+  available_markets: []
+  disc_number: 1
+  duration_ms: 200680
+  explicit: false
+  external_ids:
+    isrc: GBJET1400067
+  external_urls:
+    spotify: https://open.spotify.com/track/4PL0neV0CW44OxbbwVT9zl
+  href: https://api.spotify.com/v1/tracks/4PL0neV0CW44OxbbwVT9zl
+  id: 4PL0neV0CW44OxbbwVT9zl
+  is_local: false
+  is_playable: true
+  name: Mis
+  popularity: 0
+  preview_url: null
+  track_number: 6
+  type: track
+  uri: spotify:track:4PL0neV0CW44OxbbwVT9zl
+spotify_url: https://open.spotify.com/track/4PL0neV0CW44OxbbwVT9zl
+title: Mis

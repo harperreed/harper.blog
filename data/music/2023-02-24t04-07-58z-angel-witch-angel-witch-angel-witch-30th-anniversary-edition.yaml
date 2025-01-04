@@ -1,0 +1,68 @@
+added_at: '2023-02-24T04:07:58Z'
+album: Angel Witch (30th Anniversary Edition)
+album_image: https://i.scdn.co/image/ab67616d0000b27329da7c7bac0d4d3406cee5e5
+artist: Angel Witch
+duration_ms: 203933
+id: 4G3Nnoae2XF1cdbdgATKKq
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/6L48AOtGmQL1ELLoKML7cS
+      href: https://api.spotify.com/v1/artists/6L48AOtGmQL1ELLoKML7cS
+      id: 6L48AOtGmQL1ELLoKML7cS
+      name: Angel Witch
+      type: artist
+      uri: spotify:artist:6L48AOtGmQL1ELLoKML7cS
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/1a3pru3t4DuZoGHBpCNM66
+    href: https://api.spotify.com/v1/albums/1a3pru3t4DuZoGHBpCNM66
+    id: 1a3pru3t4DuZoGHBpCNM66
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b27329da7c7bac0d4d3406cee5e5
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e0229da7c7bac0d4d3406cee5e5
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d0000485129da7c7bac0d4d3406cee5e5
+      width: 64
+    is_playable: true
+    name: Angel Witch (30th Anniversary Edition)
+    release_date: '1980-03-12'
+    release_date_precision: day
+    total_tracks: 30
+    type: album
+    uri: spotify:album:1a3pru3t4DuZoGHBpCNM66
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/6L48AOtGmQL1ELLoKML7cS
+    href: https://api.spotify.com/v1/artists/6L48AOtGmQL1ELLoKML7cS
+    id: 6L48AOtGmQL1ELLoKML7cS
+    name: Angel Witch
+    type: artist
+    uri: spotify:artist:6L48AOtGmQL1ELLoKML7cS
+  available_markets: []
+  disc_number: 1
+  duration_ms: 203933
+  explicit: false
+  external_ids:
+    isrc: GBAJE8000037
+  external_urls:
+    spotify: https://open.spotify.com/track/4G3Nnoae2XF1cdbdgATKKq
+  href: https://api.spotify.com/v1/tracks/4G3Nnoae2XF1cdbdgATKKq
+  id: 4G3Nnoae2XF1cdbdgATKKq
+  is_local: false
+  is_playable: true
+  name: Angel Witch
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:4G3Nnoae2XF1cdbdgATKKq
+spotify_url: https://open.spotify.com/track/4G3Nnoae2XF1cdbdgATKKq
+title: Angel Witch

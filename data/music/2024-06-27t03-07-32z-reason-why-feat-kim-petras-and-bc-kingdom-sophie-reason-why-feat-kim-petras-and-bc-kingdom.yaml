@@ -1,0 +1,188 @@
+added_at: '2024-06-27T03:07:32Z'
+album: Reason Why (feat. Kim Petras and BC Kingdom)
+album_image: https://i.scdn.co/image/ab67616d0000b273aff8feda281ebf99de7013e1
+artist: SOPHIE
+duration_ms: 232374
+id: 1I4fm6R1YbcLE3DIut2yWu
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu
+      href: https://api.spotify.com/v1/artists/5a2w2tgpLwv26BYJf2qYwu
+      id: 5a2w2tgpLwv26BYJf2qYwu
+      name: SOPHIE
+      type: artist
+      uri: spotify:artist:5a2w2tgpLwv26BYJf2qYwu
+    - external_urls:
+        spotify: https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J
+      href: https://api.spotify.com/v1/artists/3Xt3RrJMFv5SZkCfUE8C1J
+      id: 3Xt3RrJMFv5SZkCfUE8C1J
+      name: Kim Petras
+      type: artist
+      uri: spotify:artist:3Xt3RrJMFv5SZkCfUE8C1J
+    - external_urls:
+        spotify: https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP
+      href: https://api.spotify.com/v1/artists/7HVp0RVFZQBU8NJFZHe7vP
+      id: 7HVp0RVFZQBU8NJFZHe7vP
+      name: BC Kingdom
+      type: artist
+      uri: spotify:artist:7HVp0RVFZQBU8NJFZHe7vP
+    available_markets:
+    - AE
+    - AM
+    - AU
+    - AZ
+    - BD
+    - BH
+    - BN
+    - BT
+    - CA
+    - GE
+    - HK
+    - ID
+    - IL
+    - IN
+    - IQ
+    - JO
+    - JP
+    - KG
+    - KH
+    - KR
+    - KW
+    - KZ
+    - LA
+    - LB
+    - LK
+    - MN
+    - MO
+    - MV
+    - MY
+    - NP
+    - NZ
+    - OM
+    - PG
+    - PH
+    - PK
+    - PS
+    - QA
+    - SA
+    - SG
+    - TH
+    - TJ
+    - TR
+    - TW
+    - US
+    - UZ
+    - VN
+    external_urls:
+      spotify: https://open.spotify.com/album/4kepJ3GktWe5ijlknpPN88
+    href: https://api.spotify.com/v1/albums/4kepJ3GktWe5ijlknpPN88
+    id: 4kepJ3GktWe5ijlknpPN88
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273aff8feda281ebf99de7013e1
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02aff8feda281ebf99de7013e1
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851aff8feda281ebf99de7013e1
+      width: 64
+    is_playable: true
+    name: Reason Why (feat. Kim Petras and BC Kingdom)
+    release_date: '2024-06-24'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:4kepJ3GktWe5ijlknpPN88
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu
+    href: https://api.spotify.com/v1/artists/5a2w2tgpLwv26BYJf2qYwu
+    id: 5a2w2tgpLwv26BYJf2qYwu
+    name: SOPHIE
+    type: artist
+    uri: spotify:artist:5a2w2tgpLwv26BYJf2qYwu
+  - external_urls:
+      spotify: https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J
+    href: https://api.spotify.com/v1/artists/3Xt3RrJMFv5SZkCfUE8C1J
+    id: 3Xt3RrJMFv5SZkCfUE8C1J
+    name: Kim Petras
+    type: artist
+    uri: spotify:artist:3Xt3RrJMFv5SZkCfUE8C1J
+  - external_urls:
+      spotify: https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP
+    href: https://api.spotify.com/v1/artists/7HVp0RVFZQBU8NJFZHe7vP
+    id: 7HVp0RVFZQBU8NJFZHe7vP
+    name: BC Kingdom
+    type: artist
+    uri: spotify:artist:7HVp0RVFZQBU8NJFZHe7vP
+  available_markets:
+  - AE
+  - AM
+  - AU
+  - AZ
+  - BD
+  - BH
+  - BN
+  - BT
+  - CA
+  - GE
+  - HK
+  - ID
+  - IL
+  - IN
+  - IQ
+  - JO
+  - JP
+  - KG
+  - KH
+  - KR
+  - KW
+  - KZ
+  - LA
+  - LB
+  - LK
+  - MN
+  - MO
+  - MV
+  - MY
+  - NP
+  - NZ
+  - OM
+  - PG
+  - PH
+  - PK
+  - PS
+  - QA
+  - SA
+  - SG
+  - TH
+  - TJ
+  - TR
+  - TW
+  - US
+  - UZ
+  - VN
+  disc_number: 1
+  duration_ms: 232374
+  explicit: true
+  external_ids:
+    isrc: AUFF02400076
+  external_urls:
+    spotify: https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu
+  href: https://api.spotify.com/v1/tracks/1I4fm6R1YbcLE3DIut2yWu
+  id: 1I4fm6R1YbcLE3DIut2yWu
+  is_local: false
+  is_playable: true
+  name: Reason Why (feat. Kim Petras and BC Kingdom)
+  popularity: 44
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:1I4fm6R1YbcLE3DIut2yWu
+spotify_url: https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu
+title: Reason Why (feat. Kim Petras and BC Kingdom)

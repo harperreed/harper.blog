@@ -1,0 +1,68 @@
+added_at: '2023-04-02T20:22:13Z'
+album: Reel To Real
+album_image: https://i.scdn.co/image/ab67616d0000b273dc6d79c3fd16655fcfc0baaf
+artist: Love
+duration_ms: 204521
+id: 1Og2Qi5XwYdr0YI6rn79Zb
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk
+      href: https://api.spotify.com/v1/artists/3Q6OOkfssqoMSTtl11J5Uk
+      id: 3Q6OOkfssqoMSTtl11J5Uk
+      name: Love
+      type: artist
+      uri: spotify:artist:3Q6OOkfssqoMSTtl11J5Uk
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/5fhrpFxoThV3rhboaG1PzC
+    href: https://api.spotify.com/v1/albums/5fhrpFxoThV3rhboaG1PzC
+    id: 5fhrpFxoThV3rhboaG1PzC
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273dc6d79c3fd16655fcfc0baaf
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02dc6d79c3fd16655fcfc0baaf
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851dc6d79c3fd16655fcfc0baaf
+      width: 64
+    is_playable: true
+    name: Reel To Real
+    release_date: '1974'
+    release_date_precision: year
+    total_tracks: 11
+    type: album
+    uri: spotify:album:5fhrpFxoThV3rhboaG1PzC
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk
+    href: https://api.spotify.com/v1/artists/3Q6OOkfssqoMSTtl11J5Uk
+    id: 3Q6OOkfssqoMSTtl11J5Uk
+    name: Love
+    type: artist
+    uri: spotify:artist:3Q6OOkfssqoMSTtl11J5Uk
+  available_markets: []
+  disc_number: 1
+  duration_ms: 204521
+  explicit: false
+  external_ids:
+    isrc: QMEF91350061
+  external_urls:
+    spotify: https://open.spotify.com/track/1Og2Qi5XwYdr0YI6rn79Zb
+  href: https://api.spotify.com/v1/tracks/1Og2Qi5XwYdr0YI6rn79Zb
+  id: 1Og2Qi5XwYdr0YI6rn79Zb
+  is_local: false
+  is_playable: true
+  name: "Everybody\u2019s Gotta Live"
+  popularity: 0
+  preview_url: null
+  track_number: 11
+  type: track
+  uri: spotify:track:1Og2Qi5XwYdr0YI6rn79Zb
+spotify_url: https://open.spotify.com/track/1Og2Qi5XwYdr0YI6rn79Zb
+title: "Everybody\u2019s Gotta Live"

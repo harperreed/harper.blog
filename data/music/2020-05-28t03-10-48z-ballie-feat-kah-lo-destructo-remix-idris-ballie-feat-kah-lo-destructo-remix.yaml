@@ -1,0 +1,96 @@
+added_at: '2020-05-28T03:10:48Z'
+album: Ballie (feat. Kah-Lo) [Destructo Remix]
+album_image: https://i.scdn.co/image/ab67616d0000b27356f6a489658c10e9df1fdd22
+artist: IDRIS
+duration_ms: 266263
+id: 24mAiaFiKP55r6IITNB2As
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS
+      href: https://api.spotify.com/v1/artists/0Dc2rdPzleezxhvQhQbXuS
+      id: 0Dc2rdPzleezxhvQhQbXuS
+      name: IDRIS
+      type: artist
+      uri: spotify:artist:0Dc2rdPzleezxhvQhQbXuS
+    - external_urls:
+        spotify: https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3
+      href: https://api.spotify.com/v1/artists/59iOp415oyqGlBHyAhu4z3
+      id: 59iOp415oyqGlBHyAhu4z3
+      name: Kah-Lo
+      type: artist
+      uri: spotify:artist:59iOp415oyqGlBHyAhu4z3
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab
+      href: https://api.spotify.com/v1/artists/0BEYTctVmnYa5yStp4Jpab
+      id: 0BEYTctVmnYa5yStp4Jpab
+      name: Destructo
+      type: artist
+      uri: spotify:artist:0BEYTctVmnYa5yStp4Jpab
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/4KPLKJL2s9CIYXDA7gIM92
+    href: https://api.spotify.com/v1/albums/4KPLKJL2s9CIYXDA7gIM92
+    id: 4KPLKJL2s9CIYXDA7gIM92
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b27356f6a489658c10e9df1fdd22
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e0256f6a489658c10e9df1fdd22
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d0000485156f6a489658c10e9df1fdd22
+      width: 64
+    is_playable: true
+    name: Ballie (feat. Kah-Lo) [Destructo Remix]
+    release_date: '2020-03-06'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:4KPLKJL2s9CIYXDA7gIM92
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS
+    href: https://api.spotify.com/v1/artists/0Dc2rdPzleezxhvQhQbXuS
+    id: 0Dc2rdPzleezxhvQhQbXuS
+    name: IDRIS
+    type: artist
+    uri: spotify:artist:0Dc2rdPzleezxhvQhQbXuS
+  - external_urls:
+      spotify: https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3
+    href: https://api.spotify.com/v1/artists/59iOp415oyqGlBHyAhu4z3
+    id: 59iOp415oyqGlBHyAhu4z3
+    name: Kah-Lo
+    type: artist
+    uri: spotify:artist:59iOp415oyqGlBHyAhu4z3
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab
+    href: https://api.spotify.com/v1/artists/0BEYTctVmnYa5yStp4Jpab
+    id: 0BEYTctVmnYa5yStp4Jpab
+    name: Destructo
+    type: artist
+    uri: spotify:artist:0BEYTctVmnYa5yStp4Jpab
+  available_markets: []
+  disc_number: 1
+  duration_ms: 266263
+  explicit: true
+  external_ids:
+    isrc: UKS3T2000006
+  external_urls:
+    spotify: https://open.spotify.com/track/24mAiaFiKP55r6IITNB2As
+  href: https://api.spotify.com/v1/tracks/24mAiaFiKP55r6IITNB2As
+  id: 24mAiaFiKP55r6IITNB2As
+  is_local: false
+  is_playable: true
+  name: Ballie (feat. Kah-Lo) - Destructo Remix
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:24mAiaFiKP55r6IITNB2As
+spotify_url: https://open.spotify.com/track/24mAiaFiKP55r6IITNB2As
+title: Ballie (feat. Kah-Lo) - Destructo Remix

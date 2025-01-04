@@ -1,0 +1,106 @@
+added_at: '2024-12-24T03:22:01Z'
+album: 'The Complete Recollection: 1999 - 2010'
+album_image: https://i.scdn.co/image/ab67616d0000b2736499c88dae19e614dadabdd0
+artist: Tegan and Sara
+duration_ms: 209266
+id: 3gieCQ7BW1X5qHiOev0NtO
+preview_url: null
+raw_data:
+  album:
+    album_type: compilation
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH
+      href: https://api.spotify.com/v1/artists/5e1BZulIiYWPRm8yogwUYH
+      id: 5e1BZulIiYWPRm8yogwUYH
+      name: Tegan and Sara
+      type: artist
+      uri: spotify:artist:5e1BZulIiYWPRm8yogwUYH
+    available_markets:
+    - BN
+    - CA
+    - FR
+    - HK
+    - ID
+    - KH
+    - KR
+    - LA
+    - LK
+    - MO
+    - MX
+    - MY
+    - PH
+    - SG
+    - TH
+    - TL
+    - TW
+    - US
+    - VN
+    external_urls:
+      spotify: https://open.spotify.com/album/2Xx9iqPEwiJZpsvX5pduny
+    href: https://api.spotify.com/v1/albums/2Xx9iqPEwiJZpsvX5pduny
+    id: 2Xx9iqPEwiJZpsvX5pduny
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2736499c88dae19e614dadabdd0
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e026499c88dae19e614dadabdd0
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048516499c88dae19e614dadabdd0
+      width: 64
+    is_playable: true
+    name: 'The Complete Recollection: 1999 - 2010'
+    release_date: '2010-09-21'
+    release_date_precision: day
+    total_tracks: 93
+    type: album
+    uri: spotify:album:2Xx9iqPEwiJZpsvX5pduny
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH
+    href: https://api.spotify.com/v1/artists/5e1BZulIiYWPRm8yogwUYH
+    id: 5e1BZulIiYWPRm8yogwUYH
+    name: Tegan and Sara
+    type: artist
+    uri: spotify:artist:5e1BZulIiYWPRm8yogwUYH
+  available_markets:
+  - BN
+  - CA
+  - FR
+  - HK
+  - ID
+  - KH
+  - KR
+  - LA
+  - LK
+  - MO
+  - MX
+  - MY
+  - PH
+  - SG
+  - TH
+  - TL
+  - TW
+  - US
+  - VN
+  disc_number: 5
+  duration_ms: 209266
+  explicit: false
+  external_ids:
+    isrc: USRE10700694
+  external_urls:
+    spotify: https://open.spotify.com/track/3gieCQ7BW1X5qHiOev0NtO
+  href: https://api.spotify.com/v1/tracks/3gieCQ7BW1X5qHiOev0NtO
+  id: 3gieCQ7BW1X5qHiOev0NtO
+  is_local: false
+  is_playable: true
+  name: The Con
+  popularity: 10
+  preview_url: null
+  track_number: 3
+  type: track
+  uri: spotify:track:3gieCQ7BW1X5qHiOev0NtO
+spotify_url: https://open.spotify.com/track/3gieCQ7BW1X5qHiOev0NtO
+title: The Con

@@ -1,0 +1,764 @@
+asin: ''
+author: Cal Henderson
+authors:
+  author:
+    average_rating: '3.72'
+    id: '65320'
+    image_url:
+      _: '
+
+        https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+
+        '
+      nophoto: 'true'
+    link: https://www.goodreads.com/author/show/65320.Cal_Henderson
+    name: Cal Henderson
+    ratings_count: '274'
+    role: ''
+    small_image_url:
+      _: '
+
+        https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png
+
+        '
+      nophoto: 'true'
+    text_reviews_count: '18'
+average_rating: '3.72'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Walmart eBooks
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: Abebooks
+  - id: '882'
+    link: https://www.goodreads.com/book_link/follow/882
+    name: Book Depository
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+country_code: US
+description: Learn the tricks of the trade so you can build and architect applications
+  that scale quickly--without all the high-priced headaches and service-level agreements
+  associated with enterprise app servers and proprietary programming and database
+  products. Culled from the experience of the Flickr.com lead developer, <i>Building
+  Scalable Web Sites</i> offers techniques for creating fast sites that your visitors
+  will find a pleasure to use.<br /><br /> Creating popular sites requires much more
+  than fast hardware with lots of memory and hard drive space. It requires thinking
+  about how to grow over time, how to make the same resources accessible to audiences
+  with different expectations, and how to have a team of developers work on a site
+  without creating new problems for visitors and for each other.<br /><br /> Presenting
+  information to visitors from all over the world<br /><br /><i> Integrating email
+  with your web applications<br /><br /></i> Planning hardware purchases and hosting
+  options to have as much as you need without breaking your wallet<br /><br /><i>
+  Partitioning and distributing databases to support large datasets and simultaneous
+  transactions<br /><br /></i> Monitoring your applications to find and clear bottlenecks<br
+  /><br /> * Providing services APIs and using services from other providers to increase
+  your site's reach and capabilities<br /><br /> Whether you're starting a small web
+  site with hopes of growing big or you already have a large system that needs maintenance,
+  you'll find <i>Building Scalable Web Sites</i> to be a library of ideas for making
+  things work.
+edition_information: ''
+format: Paperback
+id: '112863'
+image: https://images.gr-assets.com/books/1328834638m/112863.jpg
+image_url: https://images.gr-assets.com/books/1328834638m/112863.jpg
+is_ebook: 'false'
+isbn: 0596102356
+isbn13: '9780596102357'
+kindle_asin: B0026OR2UO
+language_code: ''
+link: https://www.goodreads.com/book/show/112863.Building_Scalable_Web_Sites
+marketplace_id: ATVPDKIKX0DER
+num_pages: '352'
+popular_shelves:
+  shelf:
+  - count: '304'
+    name: to-read
+  - count: '21'
+    name: currently-reading
+  - count: '16'
+    name: programming
+  - count: '7'
+    name: non-fiction
+  - count: '7'
+    name: technology
+  - count: '7'
+    name: computers
+  - count: '5'
+    name: work
+  - count: '5'
+    name: reference
+  - count: '5'
+    name: web
+  - count: '5'
+    name: computer
+  - count: '4'
+    name: tech
+  - count: '4'
+    name: technical
+  - count: '4'
+    name: software
+  - count: '3'
+    name: front-end
+  - count: '3'
+    name: computer-science
+  - count: '3'
+    name: ebook
+  - count: '3'
+    name: software-development
+  - count: '2'
+    name: about-personal-development
+  - count: '2'
+    name: software-architecture
+  - count: '2'
+    name: scanned
+  - count: '2'
+    name: i-own
+  - count: '2'
+    name: computing
+  - count: '1'
+    name: data-science
+  - count: '1'
+    name: coding
+  - count: '1'
+    name: old-to-read
+  - count: '1'
+    name: computers-tech
+  - count: '1'
+    name: systems-agile
+  - count: '1'
+    name: started
+  - count: '1'
+    name: designing
+  - count: '1'
+    name: interview-prep
+  - count: '1'
+    name: "computa\xE7\xE3o"
+  - count: '1'
+    name: work-related
+  - count: '1'
+    name: to-read-dev-design
+  - count: '1'
+    name: ready-to-read
+  - count: '1'
+    name: have-softcopy
+  - count: '1'
+    name: genre-nonfiction
+  - count: '1'
+    name: february
+  - count: '1'
+    name: experience-and-service-design
+  - count: '1'
+    name: design-distributed-system
+  - count: '1'
+    name: cs-programming
+  - count: '1'
+    name: ops
+  - count: '1'
+    name: technical-queue
+  - count: '1'
+    name: "\u0412\u0440\u0435\u043C\u0435\u043D\u043D\u043E-\u0437\u0430\u0431\u0430\
+      \u0442\u0430\u0447\u0435\u043D\u0438"
+  - count: '1'
+    name: website
+  - count: '1'
+    name: information-technology
+  - count: '1'
+    name: python-django
+  - count: '1'
+    name: programming-web
+  - count: '1'
+    name: porterm
+  - count: '1'
+    name: owned
+  - count: '1'
+    name: sbooks2
+  - count: '1'
+    name: donated
+  - count: '1'
+    name: cto
+  - count: '1'
+    name: system-architecture
+  - count: '1'
+    name: devops
+  - count: '1'
+    name: my-books
+  - count: '1'
+    name: stuffs
+  - count: '1'
+    name: might-want-to-read
+  - count: '1'
+    name: to-read-professional
+  - count: '1'
+    name: tech-webdev
+  - count: '1'
+    name: performance
+  - count: '1'
+    name: 1-computer-science
+  - count: '1'
+    name: american
+  - count: '1'
+    name: do-not-own
+  - count: '1'
+    name: cs-other
+  - count: '1'
+    name: tech-reference
+  - count: '1'
+    name: to-read-computing-tech
+  - count: '1'
+    name: own-it-ebook
+  - count: '1'
+    name: mark1
+  - count: '1'
+    name: user-experience
+  - count: '1'
+    name: i-bought-this
+  - count: '1'
+    name: design
+  - count: '1'
+    name: business
+  - count: '1'
+    name: canceled
+  - count: '1'
+    name: ms-books
+  - count: '1'
+    name: technology-and-design
+  - count: '1'
+    name: first-floor
+  - count: '1'
+    name: some-day
+  - count: '1'
+    name: web-scalable
+  - count: '1'
+    name: own-it
+  - count: '1'
+    name: recommended
+  - count: '1'
+    name: '2006'
+  - count: '1'
+    name: computer-design
+  - count: '1'
+    name: bookstore
+  - count: '1'
+    name: want-to-read-have
+  - count: '1'
+    name: web-dev
+  - count: '1'
+    name: code
+  - count: '1'
+    name: not-read
+  - count: '1'
+    name: tech-books-read
+  - count: '1'
+    name: at-work-shelf
+  - count: '1'
+    name: at-work
+  - count: '1'
+    name: sc
+  - count: '1'
+    name: on-hold
+  - count: '1'
+    name: about-technology
+  - count: '1'
+    name: operations
+  - count: '1'
+    name: got-it
+  - count: '1'
+    name: html-css
+  - count: '1'
+    name: personal-collection
+  - count: '1'
+    name: development
+  - count: '1'
+    name: favorites
+  - count: '1'
+    name: computers-internet
+publication_day: '23'
+publication_month: '5'
+publication_year: '2006'
+publisher: O'Reilly Media
+ratings_count: '248'
+reviews_widget: "\n      \n        <style>\n  #goodreads-widget {\n    font-family:\
+  \ georgia, serif;\n    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget\
+  \ h1 {\n    font-weight:normal;\n    font-size: 16px;\n    border-bottom: 1px solid\
+  \ #BBB596;\n    margin-bottom: 0;\n  }\n  #goodreads-widget a {\n    text-decoration:\
+  \ none;\n    color:#660;\n  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget\
+  \ a:hover { text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/112863.Building_Scalable_Web_Sites\"\
+  >Building Scalable Web Sites Reviews</a></h1></div>\n  <iframe id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0596102356&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/112863.Building_Scalable_Web_Sites?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>\n\n      \n    "
+series_works: "\n    \n  "
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '775693'
+        link: https://www.goodreads.com/author/show/775693.Steve_Souders
+        name: Steve Souders
+    average_rating: '3.72'
+    id: '1681559'
+    image_url: https://images.gr-assets.com/books/1328834938m/1681559.jpg
+    isbn: 0596529309
+    isbn13: '9780596529307'
+    link: https://www.goodreads.com/book/show/1681559.High_Performance_Web_Sites
+    num_pages: '146'
+    publication_day: '21'
+    publication_month: '9'
+    publication_year: '2007'
+    ratings_count: '274'
+    small_image_url: https://images.gr-assets.com/books/1328834938s/1681559.jpg
+    title: High Performance Web Sites
+    title_without_series: High Performance Web Sites
+    work:
+      id: '1678141'
+  - authors:
+      author:
+        id: '3100'
+        link: https://www.goodreads.com/author/show/3100.Leonard_Richardson
+        name: Leonard Richardson
+    average_rating: '3.72'
+    id: '853961'
+    image_url: https://images.gr-assets.com/books/1328834937m/853961.jpg
+    isbn: 0596529260
+    isbn13: '9780596529260'
+    link: https://www.goodreads.com/book/show/853961.RESTful_Web_Services
+    num_pages: '454'
+    publication_day: '15'
+    publication_month: '5'
+    publication_year: '2007'
+    ratings_count: '274'
+    small_image_url: https://images.gr-assets.com/books/1328834937s/853961.jpg
+    title: RESTful Web Services
+    title_without_series: RESTful Web Services
+    work:
+      id: '839459'
+  - authors:
+      author:
+        id: '442112'
+        link: https://www.goodreads.com/author/show/442112.Theo_Schlossnagle
+        name: Theo Schlossnagle
+    average_rating: '3.72'
+    id: '853963'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 067232699X
+    isbn13: '9780672326998'
+    link: https://www.goodreads.com/book/show/853963.Scalable_Internet_Architectures
+    num_pages: '262'
+    publication_day: '1'
+    publication_month: '7'
+    publication_year: '2006'
+    ratings_count: '274'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Scalable Internet Architectures
+    title_without_series: Scalable Internet Architectures
+    work:
+      id: '839461'
+  - authors:
+      author:
+        id: '799347'
+        link: https://www.goodreads.com/author/show/799347.Toby_Segaran
+        name: Toby Segaran
+    average_rating: '3.72'
+    id: '1741472'
+    image_url: https://images.gr-assets.com/books/1371685521m/1741472.jpg
+    isbn: 0596529325
+    isbn13: '9780596529321'
+    link: https://www.goodreads.com/book/show/1741472.Programming_Collective_Intelligence
+    num_pages: '362'
+    publication_day: '23'
+    publication_month: '8'
+    publication_year: '2007'
+    ratings_count: '274'
+    small_image_url: https://images.gr-assets.com/books/1371685521s/1741472.jpg
+    title: 'Programming Collective Intelligence: Building Smart Web 2.0 Applications'
+    title_without_series: 'Programming Collective Intelligence: Building Smart Web
+      2.0 Applications'
+    work:
+      id: '1739097'
+  - authors:
+      author:
+        id: '24343'
+        link: https://www.goodreads.com/author/show/24343.Jeremy_D_Zawodny
+        name: Jeremy D. Zawodny
+    average_rating: '3.72'
+    id: '43244'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0596003064
+    isbn13: '9780596003067'
+    link: https://www.goodreads.com/book/show/43244.High_Performance_MySQL
+    num_pages: '304'
+    publication_day: '18'
+    publication_month: '4'
+    publication_year: '2004'
+    ratings_count: '274'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'High Performance MySQL: Optimization, Backups, Replication & Load Balancing'
+    title_without_series: 'High Performance MySQL: Optimization, Backups, Replication
+      & Load Balancing'
+    work:
+      id: '42679'
+  - authors:
+      author:
+        id: '2016216'
+        link: https://www.goodreads.com/author/show/2016216.John_Allspaw
+        name: John Allspaw
+    average_rating: '3.72'
+    id: '8571725'
+    image_url: https://images.gr-assets.com/books/1328761592m/8571725.jpg
+    isbn: '1449377440'
+    isbn13: '9781449377441'
+    link: https://www.goodreads.com/book/show/8571725-web-operations
+    num_pages: '315'
+    publication_day: '1'
+    publication_month: '7'
+    publication_year: '2010'
+    ratings_count: '274'
+    small_image_url: https://images.gr-assets.com/books/1328761592s/8571725.jpg
+    title: 'Web Operations: Keeping the Data on Time'
+    title_without_series: 'Web Operations: Keeping the Data on Time'
+    work:
+      id: '13440463'
+  - authors:
+      author:
+        id: '85682'
+        link: https://www.goodreads.com/author/show/85682.David_Flanagan
+        name: David Flanagan
+    average_rating: '3.72'
+    id: '2485075'
+    image_url: https://images.gr-assets.com/books/1328834776m/2485075.jpg
+    isbn: 0596516177
+    isbn13: '9780596516178'
+    link: https://www.goodreads.com/book/show/2485075.The_Ruby_Programming_Language
+    num_pages: '448'
+    publication_day: '1'
+    publication_month: '2'
+    publication_year: '2008'
+    ratings_count: '274'
+    small_image_url: https://images.gr-assets.com/books/1328834776s/2485075.jpg
+    title: The Ruby Programming Language
+    title_without_series: The Ruby Programming Language
+    work:
+      id: '2492280'
+  - authors:
+      author:
+        id: '341'
+        link: https://www.goodreads.com/author/show/341.Andy_Budd
+        name: Andy Budd
+    average_rating: '3.72'
+    id: '563'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1590596145'
+    isbn13: '9781590596142'
+    link: https://www.goodreads.com/book/show/563.CSS_Mastery
+    num_pages: '255'
+    publication_day: '1'
+    publication_month: '2'
+    publication_year: '2006'
+    ratings_count: '274'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'CSS Mastery: Advanced Web Standards Solutions'
+    title_without_series: 'CSS Mastery: Advanced Web Standards Solutions'
+    work:
+      id: '4819'
+  - authors:
+      author:
+        id: '4640113'
+        link: https://www.goodreads.com/author/show/4640113.Michael_Howard
+        name: Michael  Howard
+    average_rating: '3.72'
+    id: '44916'
+    image_url: https://images.gr-assets.com/books/1396836770m/44916.jpg
+    isbn: 0735617228
+    isbn13: '9780735617223'
+    link: https://www.goodreads.com/book/show/44916.Writing_Secure_Code
+    num_pages: '768'
+    publication_day: '14'
+    publication_month: '12'
+    publication_year: '2002'
+    ratings_count: '274'
+    small_image_url: https://images.gr-assets.com/books/1396836770s/44916.jpg
+    title: Writing Secure Code
+    title_without_series: Writing Secure Code
+    work:
+      id: '44238'
+  - authors:
+      author:
+        id: '13'
+        link: https://www.goodreads.com/author/show/13.Dave_Thomas
+        name: Dave Thomas
+    average_rating: '3.72'
+    id: '45'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 097669400X
+    isbn13: '9780976694007'
+    link: https://www.goodreads.com/book/show/45.Agile_Web_Development_with_Rails
+    num_pages: '558'
+    publication_day: '28'
+    publication_month: '7'
+    publication_year: '2005'
+    ratings_count: '274'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Agile Web Development with Rails: A Pragmatic Guide'
+    title_without_series: 'Agile Web Development with Rails: A Pragmatic Guide'
+    work:
+      id: '1699340'
+  - authors:
+      author:
+        id: '5021888'
+        link: https://www.goodreads.com/author/show/5021888.Alex_MacCaw
+        name: Alex MacCaw
+    average_rating: '3.72'
+    id: '11971105'
+    image_url: https://images.gr-assets.com/books/1328761483m/11971105.jpg
+    isbn: 144930351X
+    isbn13: '9781449303518'
+    link: https://www.goodreads.com/book/show/11971105-javascript-web-applications
+    num_pages: '282'
+    publication_day: '30'
+    publication_month: '8'
+    publication_year: '2011'
+    ratings_count: '274'
+    small_image_url: https://images.gr-assets.com/books/1328761483s/11971105.jpg
+    title: JavaScript Web Applications
+    title_without_series: JavaScript Web Applications
+    work:
+      id: '16934028'
+  - authors:
+      author:
+        id: '23546'
+        link: https://www.goodreads.com/author/show/23546.Joel_Spolsky
+        name: Joel Spolsky
+    average_rating: '3.72'
+    id: '41790'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1893115941'
+    isbn13: '9781893115941'
+    link: https://www.goodreads.com/book/show/41790.User_Interface_Design_for_Programmers
+    num_pages: '144'
+    publication_day: '23'
+    publication_month: '1'
+    publication_year: '2006'
+    ratings_count: '274'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: User Interface Design for Programmers
+    title_without_series: User Interface Design for Programmers
+    work:
+      id: '41306'
+  - authors:
+      author:
+        id: '4499035'
+        link: https://www.goodreads.com/author/show/4499035.Jos_Valim
+        name: "Jos\xE9 Valim"
+    average_rating: '3.72'
+    id: '9856964'
+    image_url: https://images.gr-assets.com/books/1297349721m/9856964.jpg
+    isbn: '1934356735'
+    isbn13: '9781934356739'
+    link: https://www.goodreads.com/book/show/9856964-crafting-rails-applications
+    num_pages: '180'
+    publication_day: '15'
+    publication_month: '5'
+    publication_year: '2011'
+    ratings_count: '274'
+    small_image_url: https://images.gr-assets.com/books/1297349721s/9856964.jpg
+    title: ' Crafting Rails Applications: Expert Practices for Everyday Rails Development'
+    title_without_series: 'Crafting Rails Applications: Expert Practices for Everyday
+      Rails Development'
+    work:
+      id: '14748126'
+  - authors:
+      author:
+        id: '192580'
+        link: https://www.goodreads.com/author/show/192580.Obie_Fernandez
+        name: Obie Fernandez
+    average_rating: '3.72'
+    id: '8017554'
+    image_url: https://images.gr-assets.com/books/1301061482m/8017554.jpg
+    isbn: '0321601661'
+    isbn13: '9780321601667'
+    link: https://www.goodreads.com/book/show/8017554-the-rails-3-way
+    num_pages: '708'
+    publication_day: '20'
+    publication_month: '12'
+    publication_year: '2010'
+    ratings_count: '274'
+    small_image_url: https://images.gr-assets.com/books/1301061482s/8017554.jpg
+    title: The Rails 3 Way
+    title_without_series: The Rails 3 Way
+    work:
+      id: '12583489'
+  - authors:
+      author:
+        id: '1108306'
+        link: https://www.goodreads.com/author/show/1108306.Joshua_Porter
+        name: Joshua Porter
+    average_rating: '3.72'
+    id: '2497816'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0321534921
+    isbn13: '9780321534927'
+    link: https://www.goodreads.com/book/show/2497816.Designing_for_the_Social_Web
+    num_pages: '188'
+    publication_day: '1'
+    publication_month: '2'
+    publication_year: '2008'
+    ratings_count: '274'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Designing for the Social Web
+    title_without_series: Designing for the Social Web
+    work:
+      id: '2505136'
+  - authors:
+      author:
+        id: '1072792'
+        link: https://www.goodreads.com/author/show/1072792.Tim_Ash
+        name: Tim Ash
+    average_rating: '3.72'
+    id: '20382465'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: ''
+    isbn13: ''
+    link: https://www.goodreads.com/book/show/20382465-landing-page-optimization
+    num_pages: ''
+    publication_day: ''
+    publication_month: ''
+    publication_year: ''
+    ratings_count: '274'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Landing Page Optimization: The Definitive Guide to Testing and Tuning
+      for Conversions'
+    title_without_series: 'Landing Page Optimization: The Definitive Guide to Testing
+      and Tuning for Conversions'
+    work:
+      id: '2409391'
+  - authors:
+      author:
+        id: '3099'
+        link: https://www.goodreads.com/author/show/3099.Hal_Fulton
+        name: Hal Fulton
+    average_rating: '3.72'
+    id: '4514'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: ''
+    isbn13: '9780672328848'
+    link: https://www.goodreads.com/book/show/4514.The_Ruby_Way
+    num_pages: '839'
+    publication_day: '25'
+    publication_month: '10'
+    publication_year: '2006'
+    ratings_count: '274'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Ruby Way: Solutions and Techniques in Ruby Programming (Addison-Wesley
+      Professional Ruby Series)'
+    title_without_series: 'The Ruby Way: Solutions and Techniques in Ruby Programming'
+    work:
+      id: '8150'
+  - authors:
+      author:
+        id: '206678'
+        link: https://www.goodreads.com/author/show/206678.David_A_Black
+        name: David A. Black
+    average_rating: '3.72'
+    id: '3892688'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1933988657'
+    isbn13: '9781933988658'
+    link: https://www.goodreads.com/book/show/3892688-the-well-grounded-rubyist
+    num_pages: '520'
+    publication_day: '4'
+    publication_month: '6'
+    publication_year: '2009'
+    ratings_count: '274'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Well-Grounded Rubyist
+    title_without_series: The Well-Grounded Rubyist
+    work:
+      id: '3937988'
+small_image_url: https://images.gr-assets.com/books/1328834638s/112863.jpg
+text_reviews_count: '18'
+title: Building Scalable Web Sites
+url: https://www.goodreads.com/book/show/112863.Building_Scalable_Web_Sites
+work:
+  best_book_id:
+    _: '112863'
+    type: integer
+  books_count:
+    _: '13'
+    type: integer
+  default_chaptering_book_id:
+    nil: 'true'
+    type: integer
+  default_description_language_code:
+    nil: 'true'
+  desc_user_id:
+    _: '-9'
+    type: integer
+  id:
+    _: '108671'
+    type: integer
+  media_type: book
+  original_language_id:
+    nil: 'true'
+    type: integer
+  original_publication_day:
+    _: '1'
+    type: integer
+  original_publication_month:
+    _: '1'
+    type: integer
+  original_publication_year:
+    _: '2006'
+    type: integer
+  original_title: ''
+  rating_dist: 5:60|4:104|3:88|2:18|1:4|total:274
+  ratings_count:
+    _: '274'
+    type: integer
+  ratings_sum:
+    _: '1020'
+    type: integer
+  reviews_count:
+    _: '720'
+    type: integer
+  text_reviews_count:
+    _: '18'
+    type: integer

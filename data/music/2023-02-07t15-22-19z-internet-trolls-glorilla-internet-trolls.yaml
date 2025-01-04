@@ -1,0 +1,75 @@
+added_at: '2023-02-07T15:22:19Z'
+album: Internet Trolls
+album_image: https://i.scdn.co/image/ab67616d0000b2735ab70bfb9fb622a344142fed
+artist: GloRilla
+duration_ms: 140572
+id: 5c2IvJeaFx4m2DmOR1iryD
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG
+      href: https://api.spotify.com/v1/artists/2qoQgPAilErOKCwE2Y8wOG
+      id: 2qoQgPAilErOKCwE2Y8wOG
+      name: GloRilla
+      type: artist
+      uri: spotify:artist:2qoQgPAilErOKCwE2Y8wOG
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/1T1BSzvHFyuHBJrUOH3QhR
+    href: https://api.spotify.com/v1/albums/1T1BSzvHFyuHBJrUOH3QhR
+    id: 1T1BSzvHFyuHBJrUOH3QhR
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2735ab70bfb9fb622a344142fed
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e025ab70bfb9fb622a344142fed
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048515ab70bfb9fb622a344142fed
+      width: 64
+    is_playable: true
+    name: Internet Trolls
+    release_date: '2023-02-03'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:1T1BSzvHFyuHBJrUOH3QhR
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG
+    href: https://api.spotify.com/v1/artists/2qoQgPAilErOKCwE2Y8wOG
+    id: 2qoQgPAilErOKCwE2Y8wOG
+    name: GloRilla
+    type: artist
+    uri: spotify:artist:2qoQgPAilErOKCwE2Y8wOG
+  - external_urls:
+      spotify: https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf
+    href: https://api.spotify.com/v1/artists/5pR1zWq3UPsOpW1pTWayLf
+    id: 5pR1zWq3UPsOpW1pTWayLf
+    name: Hitkidd
+    type: artist
+    uri: spotify:artist:5pR1zWq3UPsOpW1pTWayLf
+  available_markets: []
+  disc_number: 1
+  duration_ms: 140572
+  explicit: true
+  external_ids:
+    isrc: USUM72300727
+  external_urls:
+    spotify: https://open.spotify.com/track/5c2IvJeaFx4m2DmOR1iryD
+  href: https://api.spotify.com/v1/tracks/5c2IvJeaFx4m2DmOR1iryD
+  id: 5c2IvJeaFx4m2DmOR1iryD
+  is_local: false
+  is_playable: true
+  name: Internet Trolls
+  popularity: 25
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:5c2IvJeaFx4m2DmOR1iryD
+spotify_url: https://open.spotify.com/track/5c2IvJeaFx4m2DmOR1iryD
+title: Internet Trolls

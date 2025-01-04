@@ -1,0 +1,68 @@
+added_at: '2023-03-20T19:51:44Z'
+album: Mule Variations
+album_image: https://i.scdn.co/image/ab67616d0000b2739564080f709f9d31d7586629
+artist: Tom Waits
+duration_ms: 264360
+id: 1SreJUUazHljmvra5AW3JH
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM
+      href: https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM
+      id: 7x83XhcMbOTl1UdYsPTuZM
+      name: Tom Waits
+      type: artist
+      uri: spotify:artist:7x83XhcMbOTl1UdYsPTuZM
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/3HbiZpp2QwPU1Y4eweEStW
+    href: https://api.spotify.com/v1/albums/3HbiZpp2QwPU1Y4eweEStW
+    id: 3HbiZpp2QwPU1Y4eweEStW
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2739564080f709f9d31d7586629
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e029564080f709f9d31d7586629
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048519564080f709f9d31d7586629
+      width: 64
+    is_playable: true
+    name: Mule Variations
+    release_date: '1999-04-27'
+    release_date_precision: day
+    total_tracks: 16
+    type: album
+    uri: spotify:album:3HbiZpp2QwPU1Y4eweEStW
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM
+    href: https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM
+    id: 7x83XhcMbOTl1UdYsPTuZM
+    name: Tom Waits
+    type: artist
+    uri: spotify:artist:7x83XhcMbOTl1UdYsPTuZM
+  available_markets: []
+  disc_number: 1
+  duration_ms: 264360
+  explicit: false
+  external_ids:
+    isrc: USAI50301113
+  external_urls:
+    spotify: https://open.spotify.com/track/1SreJUUazHljmvra5AW3JH
+  href: https://api.spotify.com/v1/tracks/1SreJUUazHljmvra5AW3JH
+  id: 1SreJUUazHljmvra5AW3JH
+  is_local: false
+  is_playable: true
+  name: Georgia Lee
+  popularity: 0
+  preview_url: null
+  track_number: 13
+  type: track
+  uri: spotify:track:1SreJUUazHljmvra5AW3JH
+spotify_url: https://open.spotify.com/track/1SreJUUazHljmvra5AW3JH
+title: Georgia Lee

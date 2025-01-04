@@ -1,0 +1,68 @@
+added_at: '2022-08-21T03:48:42Z'
+album: Getting There (Music From the Mary-Kate & Ashely Olsen Movie)
+album_image: https://i.scdn.co/image/ab67616d0000b273ebf860e53d135511bbf76f74
+artist: Tones On Tail
+duration_ms: 152773
+id: 4LWDrXMHBWks89tnZFsZvc
+preview_url: null
+raw_data:
+  album:
+    album_type: compilation
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+      href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+      id: 0LyfQWJT6nXafLPZqxe9Of
+      name: Various Artists
+      type: artist
+      uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/20Xau7U5H6Dg1rFL3N3s7A
+    href: https://api.spotify.com/v1/albums/20Xau7U5H6Dg1rFL3N3s7A
+    id: 20Xau7U5H6Dg1rFL3N3s7A
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273ebf860e53d135511bbf76f74
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02ebf860e53d135511bbf76f74
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851ebf860e53d135511bbf76f74
+      width: 64
+    is_playable: true
+    name: Getting There (Music From the Mary-Kate & Ashely Olsen Movie)
+    release_date: '2010-07-15'
+    release_date_precision: day
+    total_tracks: 11
+    type: album
+    uri: spotify:album:20Xau7U5H6Dg1rFL3N3s7A
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb
+    href: https://api.spotify.com/v1/artists/5aBEGOeWQCJfptic9xyaAb
+    id: 5aBEGOeWQCJfptic9xyaAb
+    name: Tones On Tail
+    type: artist
+    uri: spotify:artist:5aBEGOeWQCJfptic9xyaAb
+  available_markets: []
+  disc_number: 1
+  duration_ms: 152773
+  explicit: false
+  external_ids:
+    isrc: USZXT0907990
+  external_urls:
+    spotify: https://open.spotify.com/track/4LWDrXMHBWks89tnZFsZvc
+  href: https://api.spotify.com/v1/tracks/4LWDrXMHBWks89tnZFsZvc
+  id: 4LWDrXMHBWks89tnZFsZvc
+  is_local: false
+  is_playable: false
+  name: Go!
+  popularity: 0
+  preview_url: null
+  track_number: 7
+  type: track
+  uri: spotify:track:4LWDrXMHBWks89tnZFsZvc
+spotify_url: https://open.spotify.com/track/4LWDrXMHBWks89tnZFsZvc
+title: Go!

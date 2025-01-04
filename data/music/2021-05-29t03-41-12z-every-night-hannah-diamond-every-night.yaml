@@ -1,0 +1,68 @@
+added_at: '2021-05-29T03:41:12Z'
+album: Every Night
+album_image: https://i.scdn.co/image/ab67616d0000b2735e42dd68d9a08f2074800168
+artist: Hannah Diamond
+duration_ms: 212658
+id: 3Y7zslHyhuXmMf52u0miT4
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU
+      href: https://api.spotify.com/v1/artists/3sXErEOw7EmO6Sj7EgjHdU
+      id: 3sXErEOw7EmO6Sj7EgjHdU
+      name: Hannah Diamond
+      type: artist
+      uri: spotify:artist:3sXErEOw7EmO6Sj7EgjHdU
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/1hFjQzqOt1UmSbzhdcDyj3
+    href: https://api.spotify.com/v1/albums/1hFjQzqOt1UmSbzhdcDyj3
+    id: 1hFjQzqOt1UmSbzhdcDyj3
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2735e42dd68d9a08f2074800168
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e025e42dd68d9a08f2074800168
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048515e42dd68d9a08f2074800168
+      width: 64
+    is_playable: true
+    name: Every Night
+    release_date: '2014-11-24'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:1hFjQzqOt1UmSbzhdcDyj3
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU
+    href: https://api.spotify.com/v1/artists/3sXErEOw7EmO6Sj7EgjHdU
+    id: 3sXErEOw7EmO6Sj7EgjHdU
+    name: Hannah Diamond
+    type: artist
+    uri: spotify:artist:3sXErEOw7EmO6Sj7EgjHdU
+  available_markets: []
+  disc_number: 1
+  duration_ms: 212658
+  explicit: false
+  external_ids:
+    isrc: UK9951400101
+  external_urls:
+    spotify: https://open.spotify.com/track/3Y7zslHyhuXmMf52u0miT4
+  href: https://api.spotify.com/v1/tracks/3Y7zslHyhuXmMf52u0miT4
+  id: 3Y7zslHyhuXmMf52u0miT4
+  is_local: false
+  is_playable: true
+  name: Every Night
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:3Y7zslHyhuXmMf52u0miT4
+spotify_url: https://open.spotify.com/track/3Y7zslHyhuXmMf52u0miT4
+title: Every Night

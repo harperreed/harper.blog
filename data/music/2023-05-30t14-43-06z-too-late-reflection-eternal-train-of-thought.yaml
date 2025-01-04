@@ -1,0 +1,235 @@
+added_at: '2023-05-30T14:43:06Z'
+album: Train Of Thought
+album_image: https://i.scdn.co/image/ab67616d0000b2736fa0f3b2dc48e99f891e085f
+artist: Reflection Eternal
+duration_ms: 205960
+id: 52eg5klFsy0lgiUuQNaZA7
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC
+      href: https://api.spotify.com/v1/artists/6vwJ3e6KaQAhLEpBPxCMBC
+      id: 6vwJ3e6KaQAhLEpBPxCMBC
+      name: Reflection Eternal
+      type: artist
+      uri: spotify:artist:6vwJ3e6KaQAhLEpBPxCMBC
+    available_markets:
+    - AD
+    - AR
+    - AT
+    - AU
+    - BA
+    - BD
+    - BE
+    - BG
+    - BO
+    - BR
+    - CA
+    - CH
+    - CI
+    - CL
+    - CM
+    - CO
+    - CR
+    - CW
+    - CY
+    - CZ
+    - DE
+    - DK
+    - DO
+    - EC
+    - EE
+    - ES
+    - FI
+    - FR
+    - GB
+    - GN
+    - GR
+    - GT
+    - HK
+    - HN
+    - HR
+    - HU
+    - ID
+    - IE
+    - IL
+    - IN
+    - IS
+    - IT
+    - JP
+    - KR
+    - LA
+    - LI
+    - LK
+    - LT
+    - LU
+    - LV
+    - MC
+    - MK
+    - MU
+    - MX
+    - MY
+    - NG
+    - NI
+    - NL
+    - 'NO'
+    - NZ
+    - PA
+    - PE
+    - PH
+    - PT
+    - PY
+    - RO
+    - RW
+    - SE
+    - SG
+    - SI
+    - SK
+    - SV
+    - TH
+    - TR
+    - TW
+    - UA
+    - US
+    - VE
+    - VN
+    - ZA
+    external_urls:
+      spotify: https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx
+    href: https://api.spotify.com/v1/albums/2PbWFmysd3j9MEacjjhozx
+    id: 2PbWFmysd3j9MEacjjhozx
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2736fa0f3b2dc48e99f891e085f
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e026fa0f3b2dc48e99f891e085f
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048516fa0f3b2dc48e99f891e085f
+      width: 64
+    is_playable: true
+    name: Train Of Thought
+    release_date: '2000-10-17'
+    release_date_precision: day
+    total_tracks: 20
+    type: album
+    uri: spotify:album:2PbWFmysd3j9MEacjjhozx
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC
+    href: https://api.spotify.com/v1/artists/6vwJ3e6KaQAhLEpBPxCMBC
+    id: 6vwJ3e6KaQAhLEpBPxCMBC
+    name: Reflection Eternal
+    type: artist
+    uri: spotify:artist:6vwJ3e6KaQAhLEpBPxCMBC
+  - external_urls:
+      spotify: https://open.spotify.com/artist/56YiNz2C704YPpRtPvMBg7
+    href: https://api.spotify.com/v1/artists/56YiNz2C704YPpRtPvMBg7
+    id: 56YiNz2C704YPpRtPvMBg7
+    name: Res
+    type: artist
+    uri: spotify:artist:56YiNz2C704YPpRtPvMBg7
+  available_markets:
+  - AD
+  - AR
+  - AT
+  - AU
+  - BA
+  - BD
+  - BE
+  - BG
+  - BO
+  - BR
+  - CA
+  - CH
+  - CI
+  - CL
+  - CM
+  - CO
+  - CR
+  - CW
+  - CY
+  - CZ
+  - DE
+  - DK
+  - DO
+  - EC
+  - EE
+  - ES
+  - FI
+  - FR
+  - GB
+  - GN
+  - GR
+  - GT
+  - HK
+  - HN
+  - HR
+  - HU
+  - ID
+  - IE
+  - IL
+  - IN
+  - IS
+  - IT
+  - JP
+  - KR
+  - LA
+  - LI
+  - LK
+  - LT
+  - LU
+  - LV
+  - MC
+  - MK
+  - MU
+  - MX
+  - MY
+  - NG
+  - NI
+  - NL
+  - 'NO'
+  - NZ
+  - PA
+  - PE
+  - PH
+  - PT
+  - PY
+  - RO
+  - RW
+  - SE
+  - SG
+  - SI
+  - SK
+  - SV
+  - TH
+  - TR
+  - TW
+  - UA
+  - US
+  - VE
+  - VN
+  - ZA
+  disc_number: 1
+  duration_ms: 205960
+  explicit: true
+  external_ids:
+    isrc: USRW50200036
+  external_urls:
+    spotify: https://open.spotify.com/track/52eg5klFsy0lgiUuQNaZA7
+  href: https://api.spotify.com/v1/tracks/52eg5klFsy0lgiUuQNaZA7
+  id: 52eg5klFsy0lgiUuQNaZA7
+  is_local: false
+  is_playable: true
+  name: Too Late
+  popularity: 39
+  preview_url: null
+  track_number: 6
+  type: track
+  uri: spotify:track:52eg5klFsy0lgiUuQNaZA7
+spotify_url: https://open.spotify.com/track/52eg5klFsy0lgiUuQNaZA7
+title: Too Late

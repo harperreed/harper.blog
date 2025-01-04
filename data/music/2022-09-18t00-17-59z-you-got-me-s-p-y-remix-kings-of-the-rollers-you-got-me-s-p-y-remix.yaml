@@ -1,0 +1,82 @@
+added_at: '2022-09-18T00:17:59Z'
+album: You Got Me (S.P.Y Remix)
+album_image: https://i.scdn.co/image/ab67616d0000b273e89ee267876c245af5e51691
+artist: Kings Of The Rollers
+duration_ms: 321324
+id: 0m2LlO0pyWWKnxx08GznJJ
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP
+      href: https://api.spotify.com/v1/artists/3OHnTiMsWYjSyj52aKmrBP
+      id: 3OHnTiMsWYjSyj52aKmrBP
+      name: Kings Of The Rollers
+      type: artist
+      uri: spotify:artist:3OHnTiMsWYjSyj52aKmrBP
+    - external_urls:
+        spotify: https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF
+      href: https://api.spotify.com/v1/artists/6aJAd8zM1s3Slw64KfsmaF
+      id: 6aJAd8zM1s3Slw64KfsmaF
+      name: S.P.Y
+      type: artist
+      uri: spotify:artist:6aJAd8zM1s3Slw64KfsmaF
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/5xLH5EyoskCvhskx8TR1bL
+    href: https://api.spotify.com/v1/albums/5xLH5EyoskCvhskx8TR1bL
+    id: 5xLH5EyoskCvhskx8TR1bL
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273e89ee267876c245af5e51691
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02e89ee267876c245af5e51691
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851e89ee267876c245af5e51691
+      width: 64
+    is_playable: true
+    name: You Got Me (S.P.Y Remix)
+    release_date: '2020-01-17'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:5xLH5EyoskCvhskx8TR1bL
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP
+    href: https://api.spotify.com/v1/artists/3OHnTiMsWYjSyj52aKmrBP
+    id: 3OHnTiMsWYjSyj52aKmrBP
+    name: Kings Of The Rollers
+    type: artist
+    uri: spotify:artist:3OHnTiMsWYjSyj52aKmrBP
+  - external_urls:
+      spotify: https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF
+    href: https://api.spotify.com/v1/artists/6aJAd8zM1s3Slw64KfsmaF
+    id: 6aJAd8zM1s3Slw64KfsmaF
+    name: S.P.Y
+    type: artist
+    uri: spotify:artist:6aJAd8zM1s3Slw64KfsmaF
+  available_markets: []
+  disc_number: 1
+  duration_ms: 321324
+  explicit: false
+  external_ids:
+    isrc: GBCJY2000007
+  external_urls:
+    spotify: https://open.spotify.com/track/0m2LlO0pyWWKnxx08GznJJ
+  href: https://api.spotify.com/v1/tracks/0m2LlO0pyWWKnxx08GznJJ
+  id: 0m2LlO0pyWWKnxx08GznJJ
+  is_local: false
+  is_playable: true
+  name: You Got Me - S.P.Y Remix
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:0m2LlO0pyWWKnxx08GznJJ
+spotify_url: https://open.spotify.com/track/0m2LlO0pyWWKnxx08GznJJ
+title: You Got Me - S.P.Y Remix

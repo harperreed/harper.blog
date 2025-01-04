@@ -1,0 +1,68 @@
+added_at: '2015-07-09T02:10:21Z'
+album: Summer Sun
+album_image: https://i.scdn.co/image/ab67616d0000b273121b687f35d53bed68a375d0
+artist: Yo La Tengo
+duration_ms: 334426
+id: 1MI0EW4ydOfbIYBuOEJ9Kc
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi
+      href: https://api.spotify.com/v1/artists/5hAhrnb0Ch4ODwWu4tsbpi
+      id: 5hAhrnb0Ch4ODwWu4tsbpi
+      name: Yo La Tengo
+      type: artist
+      uri: spotify:artist:5hAhrnb0Ch4ODwWu4tsbpi
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/0D3ctgxMWpGluLWN011yrW
+    href: https://api.spotify.com/v1/albums/0D3ctgxMWpGluLWN011yrW
+    id: 0D3ctgxMWpGluLWN011yrW
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273121b687f35d53bed68a375d0
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02121b687f35d53bed68a375d0
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851121b687f35d53bed68a375d0
+      width: 64
+    is_playable: true
+    name: Summer Sun
+    release_date: '2003-04-08'
+    release_date_precision: day
+    total_tracks: 13
+    type: album
+    uri: spotify:album:0D3ctgxMWpGluLWN011yrW
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi
+    href: https://api.spotify.com/v1/artists/5hAhrnb0Ch4ODwWu4tsbpi
+    id: 5hAhrnb0Ch4ODwWu4tsbpi
+    name: Yo La Tengo
+    type: artist
+    uri: spotify:artist:5hAhrnb0Ch4ODwWu4tsbpi
+  available_markets: []
+  disc_number: 1
+  duration_ms: 334426
+  explicit: false
+  external_ids:
+    isrc: USMTD0354805
+  external_urls:
+    spotify: https://open.spotify.com/track/1MI0EW4ydOfbIYBuOEJ9Kc
+  href: https://api.spotify.com/v1/tracks/1MI0EW4ydOfbIYBuOEJ9Kc
+  id: 1MI0EW4ydOfbIYBuOEJ9Kc
+  is_local: false
+  is_playable: true
+  name: Today Is the Day
+  popularity: 0
+  preview_url: null
+  track_number: 5
+  type: track
+  uri: spotify:track:1MI0EW4ydOfbIYBuOEJ9Kc
+spotify_url: https://open.spotify.com/track/1MI0EW4ydOfbIYBuOEJ9Kc
+title: Today Is the Day

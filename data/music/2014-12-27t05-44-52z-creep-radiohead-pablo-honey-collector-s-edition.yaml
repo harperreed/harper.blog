@@ -1,0 +1,68 @@
+added_at: '2014-12-27T05:44:52Z'
+album: Pablo Honey (Collector's Edition)
+album_image: https://i.scdn.co/image/ab67616d0000b27302411992c50bee356ce04d68
+artist: Radiohead
+duration_ms: 235666
+id: 3HfB5hBU0dmBt8T0iCmH42
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb
+      href: https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb
+      id: 4Z8W4fKeB5YxbusRsdQVPb
+      name: Radiohead
+      type: artist
+      uri: spotify:artist:4Z8W4fKeB5YxbusRsdQVPb
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/6AZv3m27uyRxi8KyJSfUxL
+    href: https://api.spotify.com/v1/albums/6AZv3m27uyRxi8KyJSfUxL
+    id: 6AZv3m27uyRxi8KyJSfUxL
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b27302411992c50bee356ce04d68
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e0202411992c50bee356ce04d68
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d0000485102411992c50bee356ce04d68
+      width: 64
+    is_playable: true
+    name: Pablo Honey (Collector's Edition)
+    release_date: '1993-04-23'
+    release_date_precision: day
+    total_tracks: 34
+    type: album
+    uri: spotify:album:6AZv3m27uyRxi8KyJSfUxL
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb
+    href: https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb
+    id: 4Z8W4fKeB5YxbusRsdQVPb
+    name: Radiohead
+    type: artist
+    uri: spotify:artist:4Z8W4fKeB5YxbusRsdQVPb
+  available_markets: []
+  disc_number: 1
+  duration_ms: 235666
+  explicit: true
+  external_ids:
+    isrc: GBAYE9200070
+  external_urls:
+    spotify: https://open.spotify.com/track/3HfB5hBU0dmBt8T0iCmH42
+  href: https://api.spotify.com/v1/tracks/3HfB5hBU0dmBt8T0iCmH42
+  id: 3HfB5hBU0dmBt8T0iCmH42
+  is_local: false
+  is_playable: true
+  name: Creep
+  popularity: 20
+  preview_url: null
+  track_number: 2
+  type: track
+  uri: spotify:track:3HfB5hBU0dmBt8T0iCmH42
+spotify_url: https://open.spotify.com/track/3HfB5hBU0dmBt8T0iCmH42
+title: Creep

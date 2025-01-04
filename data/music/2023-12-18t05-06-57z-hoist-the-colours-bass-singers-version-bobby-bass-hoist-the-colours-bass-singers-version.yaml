@@ -1,0 +1,89 @@
+added_at: '2023-12-18T05:06:57Z'
+album: Hoist the Colours (Bass Singers Version)
+album_image: https://i.scdn.co/image/ab67616d0000b2733becea63470760bb6be69ac0
+artist: Bobby Bass
+duration_ms: 278442
+id: 6osGEhJCyLbneXgpcpKlUW
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0ZM2ioGGBOZ3NPTSUbuimj
+      href: https://api.spotify.com/v1/artists/0ZM2ioGGBOZ3NPTSUbuimj
+      id: 0ZM2ioGGBOZ3NPTSUbuimj
+      name: Bobby Bass
+      type: artist
+      uri: spotify:artist:0ZM2ioGGBOZ3NPTSUbuimj
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/4IhOtHh7kgmYJXLzS0SEzX
+    href: https://api.spotify.com/v1/albums/4IhOtHh7kgmYJXLzS0SEzX
+    id: 4IhOtHh7kgmYJXLzS0SEzX
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2733becea63470760bb6be69ac0
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e023becea63470760bb6be69ac0
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048513becea63470760bb6be69ac0
+      width: 64
+    is_playable: true
+    name: Hoist the Colours (Bass Singers Version)
+    release_date: '2023-01-12'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:4IhOtHh7kgmYJXLzS0SEzX
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0ZM2ioGGBOZ3NPTSUbuimj
+    href: https://api.spotify.com/v1/artists/0ZM2ioGGBOZ3NPTSUbuimj
+    id: 0ZM2ioGGBOZ3NPTSUbuimj
+    name: Bobby Bass
+    type: artist
+    uri: spotify:artist:0ZM2ioGGBOZ3NPTSUbuimj
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0g1ScDyTSIJprId6DF9iP7
+    href: https://api.spotify.com/v1/artists/0g1ScDyTSIJprId6DF9iP7
+    id: 0g1ScDyTSIJprId6DF9iP7
+    name: Big Brev
+    type: artist
+    uri: spotify:artist:0g1ScDyTSIJprId6DF9iP7
+  - external_urls:
+      spotify: https://open.spotify.com/artist/1h9NOlRgTGVBZdX3Zab79l
+    href: https://api.spotify.com/v1/artists/1h9NOlRgTGVBZdX3Zab79l
+    id: 1h9NOlRgTGVBZdX3Zab79l
+    name: Eric Hollaway
+    type: artist
+    uri: spotify:artist:1h9NOlRgTGVBZdX3Zab79l
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0Sl22kYbJDXJoZvmOKe4XQ
+    href: https://api.spotify.com/v1/artists/0Sl22kYbJDXJoZvmOKe4XQ
+    id: 0Sl22kYbJDXJoZvmOKe4XQ
+    name: Ebucs
+    type: artist
+    uri: spotify:artist:0Sl22kYbJDXJoZvmOKe4XQ
+  available_markets: []
+  disc_number: 1
+  duration_ms: 278442
+  explicit: false
+  external_ids:
+    isrc: QZPJ32195587
+  external_urls:
+    spotify: https://open.spotify.com/track/6osGEhJCyLbneXgpcpKlUW
+  href: https://api.spotify.com/v1/tracks/6osGEhJCyLbneXgpcpKlUW
+  id: 6osGEhJCyLbneXgpcpKlUW
+  is_local: false
+  is_playable: true
+  name: Hoist the Colours - Bass Singers Version
+  popularity: 8
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:6osGEhJCyLbneXgpcpKlUW
+spotify_url: https://open.spotify.com/track/6osGEhJCyLbneXgpcpKlUW
+title: Hoist the Colours - Bass Singers Version

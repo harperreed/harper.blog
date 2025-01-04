@@ -1,0 +1,72 @@
+added_at: '2023-06-18T17:40:11Z'
+album: The Head on the Door
+album_image: https://i.scdn.co/image/ab67616d0000b2731b54add5c2a3a337e512941b
+artist: The Cure
+duration_ms: 203266
+id: 7ABE6G4uQxbNtYgVrpBBPA
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+      href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+      id: 7bu3H8JO7d0UbMoVzbo70s
+      name: The Cure
+      type: artist
+      uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+    available_markets:
+    - CA
+    - US
+    external_urls:
+      spotify: https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw
+    href: https://api.spotify.com/v1/albums/6HhpmJekzDCRu2K64ZbWqw
+    id: 6HhpmJekzDCRu2K64ZbWqw
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2731b54add5c2a3a337e512941b
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e021b54add5c2a3a337e512941b
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048511b54add5c2a3a337e512941b
+      width: 64
+    is_playable: true
+    name: The Head on the Door
+    release_date: '1985-08-26'
+    release_date_precision: day
+    total_tracks: 10
+    type: album
+    uri: spotify:album:6HhpmJekzDCRu2K64ZbWqw
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+    href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+    id: 7bu3H8JO7d0UbMoVzbo70s
+    name: The Cure
+    type: artist
+    uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+  available_markets:
+  - CA
+  - US
+  disc_number: 1
+  duration_ms: 203266
+  explicit: false
+  external_ids:
+    isrc: USEE10608884
+  external_urls:
+    spotify: https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA
+  href: https://api.spotify.com/v1/tracks/7ABE6G4uQxbNtYgVrpBBPA
+  id: 7ABE6G4uQxbNtYgVrpBBPA
+  is_local: false
+  is_playable: true
+  name: Close to Me - 2006 Remaster
+  popularity: 59
+  preview_url: null
+  track_number: 7
+  type: track
+  uri: spotify:track:7ABE6G4uQxbNtYgVrpBBPA
+spotify_url: https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA
+title: Close to Me - 2006 Remaster

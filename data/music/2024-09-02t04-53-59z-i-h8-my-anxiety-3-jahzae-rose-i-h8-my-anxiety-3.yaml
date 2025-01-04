@@ -1,0 +1,68 @@
+added_at: '2024-09-02T04:53:59Z'
+album: I H8 mY Anxiety <3
+album_image: https://i.scdn.co/image/ab67616d0000b2733932e5d0ad6edaca1a43bbce
+artist: Jahzae Rose
+duration_ms: 115114
+id: 6Uf4np9Ar3qVYd5VgPJU7s
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0ltelqgOWxVzK6covc0dkY
+      href: https://api.spotify.com/v1/artists/0ltelqgOWxVzK6covc0dkY
+      id: 0ltelqgOWxVzK6covc0dkY
+      name: Jahzae Rose
+      type: artist
+      uri: spotify:artist:0ltelqgOWxVzK6covc0dkY
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/2fASveJbdwFJPbkRaxJdkr
+    href: https://api.spotify.com/v1/albums/2fASveJbdwFJPbkRaxJdkr
+    id: 2fASveJbdwFJPbkRaxJdkr
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2733932e5d0ad6edaca1a43bbce
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e023932e5d0ad6edaca1a43bbce
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048513932e5d0ad6edaca1a43bbce
+      width: 64
+    is_playable: true
+    name: I H8 mY Anxiety <3
+    release_date: '2024-08-30'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:2fASveJbdwFJPbkRaxJdkr
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0ltelqgOWxVzK6covc0dkY
+    href: https://api.spotify.com/v1/artists/0ltelqgOWxVzK6covc0dkY
+    id: 0ltelqgOWxVzK6covc0dkY
+    name: Jahzae Rose
+    type: artist
+    uri: spotify:artist:0ltelqgOWxVzK6covc0dkY
+  available_markets: []
+  disc_number: 1
+  duration_ms: 115114
+  explicit: true
+  external_ids:
+    isrc: QZTBA2457820
+  external_urls:
+    spotify: https://open.spotify.com/track/6Uf4np9Ar3qVYd5VgPJU7s
+  href: https://api.spotify.com/v1/tracks/6Uf4np9Ar3qVYd5VgPJU7s
+  id: 6Uf4np9Ar3qVYd5VgPJU7s
+  is_local: false
+  is_playable: true
+  name: I H8 mY Anxiety <3
+  popularity: 23
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:6Uf4np9Ar3qVYd5VgPJU7s
+spotify_url: https://open.spotify.com/track/6Uf4np9Ar3qVYd5VgPJU7s
+title: I H8 mY Anxiety <3

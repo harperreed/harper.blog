@@ -1,0 +1,68 @@
+added_at: '2022-12-21T20:55:29Z'
+album: Easy
+album_image: https://i.scdn.co/image/ab67616d0000b2736f69cc280f4d0f6df3d2107e
+artist: The Easybeats
+duration_ms: 163293
+id: 2CT08rpgdut8qQs7IAzMGi
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu
+      href: https://api.spotify.com/v1/artists/1pJEZXU2hJApJW3rM7LmMu
+      id: 1pJEZXU2hJApJW3rM7LmMu
+      name: The Easybeats
+      type: artist
+      uri: spotify:artist:1pJEZXU2hJApJW3rM7LmMu
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9
+    href: https://api.spotify.com/v1/albums/2LTIOQBvQt6ubWJQiQSxS9
+    id: 2LTIOQBvQt6ubWJQiQSxS9
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2736f69cc280f4d0f6df3d2107e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e026f69cc280f4d0f6df3d2107e
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048516f69cc280f4d0f6df3d2107e
+      width: 64
+    is_playable: true
+    name: Easy
+    release_date: '1965-01-01'
+    release_date_precision: day
+    total_tracks: 22
+    type: album
+    uri: spotify:album:2LTIOQBvQt6ubWJQiQSxS9
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu
+    href: https://api.spotify.com/v1/artists/1pJEZXU2hJApJW3rM7LmMu
+    id: 1pJEZXU2hJApJW3rM7LmMu
+    name: The Easybeats
+    type: artist
+    uri: spotify:artist:1pJEZXU2hJApJW3rM7LmMu
+  available_markets: []
+  disc_number: 1
+  duration_ms: 163293
+  explicit: false
+  external_ids:
+    isrc: AUAP06600062
+  external_urls:
+    spotify: https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi
+  href: https://api.spotify.com/v1/tracks/2CT08rpgdut8qQs7IAzMGi
+  id: 2CT08rpgdut8qQs7IAzMGi
+  is_local: false
+  is_playable: true
+  name: Friday on My Mind
+  popularity: 1
+  preview_url: null
+  track_number: 18
+  type: track
+  uri: spotify:track:2CT08rpgdut8qQs7IAzMGi
+spotify_url: https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi
+title: Friday on My Mind

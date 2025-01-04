@@ -1,0 +1,68 @@
+added_at: '2023-10-17T03:44:36Z'
+album: May The Forze Be With You
+album_image: https://i.scdn.co/image/ab67616d0000b2734b50dfd931f7b7497322b07b
+artist: Paul Elstak
+duration_ms: 207933
+id: 2MlqP1HzhitHfFXPXKumdB
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6
+      href: https://api.spotify.com/v1/artists/123hDJRbi4KtCdBaaKNHW6
+      id: 123hDJRbi4KtCdBaaKNHW6
+      name: Paul Elstak
+      type: artist
+      uri: spotify:artist:123hDJRbi4KtCdBaaKNHW6
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/5UyEXyjH5flnfcmotVS1kS
+    href: https://api.spotify.com/v1/albums/5UyEXyjH5flnfcmotVS1kS
+    id: 5UyEXyjH5flnfcmotVS1kS
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2734b50dfd931f7b7497322b07b
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e024b50dfd931f7b7497322b07b
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048514b50dfd931f7b7497322b07b
+      width: 64
+    is_playable: true
+    name: May The Forze Be With You
+    release_date: '1995-06-01'
+    release_date_precision: day
+    total_tracks: 13
+    type: album
+    uri: spotify:album:5UyEXyjH5flnfcmotVS1kS
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6
+    href: https://api.spotify.com/v1/artists/123hDJRbi4KtCdBaaKNHW6
+    id: 123hDJRbi4KtCdBaaKNHW6
+    name: Paul Elstak
+    type: artist
+    uri: spotify:artist:123hDJRbi4KtCdBaaKNHW6
+  available_markets: []
+  disc_number: 1
+  duration_ms: 207933
+  explicit: false
+  external_ids:
+    isrc: NLS241700071
+  external_urls:
+    spotify: https://open.spotify.com/track/2MlqP1HzhitHfFXPXKumdB
+  href: https://api.spotify.com/v1/tracks/2MlqP1HzhitHfFXPXKumdB
+  id: 2MlqP1HzhitHfFXPXKumdB
+  is_local: false
+  is_playable: true
+  name: Rainbow In The Sky - Radio Edit
+  popularity: 5
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:2MlqP1HzhitHfFXPXKumdB
+spotify_url: https://open.spotify.com/track/2MlqP1HzhitHfFXPXKumdB
+title: Rainbow In The Sky - Radio Edit
