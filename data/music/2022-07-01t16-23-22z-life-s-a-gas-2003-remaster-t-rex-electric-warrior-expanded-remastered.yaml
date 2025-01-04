@@ -1,0 +1,72 @@
+added_at: '2022-07-01T16:23:22Z'
+album: Electric Warrior [Expanded & Remastered]
+album_image: https://i.scdn.co/image/ab67616d0000b2737762663eeab308df9d240cd0
+artist: T. Rex
+duration_ms: 144760
+id: 1MU62iuv0tVWWVkqHcY1tx
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin
+      href: https://api.spotify.com/v1/artists/3dBVyJ7JuOMt4GE9607Qin
+      id: 3dBVyJ7JuOMt4GE9607Qin
+      name: T. Rex
+      type: artist
+      uri: spotify:artist:3dBVyJ7JuOMt4GE9607Qin
+    available_markets:
+    - CA
+    - US
+    external_urls:
+      spotify: https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt
+    href: https://api.spotify.com/v1/albums/6k1iylSzWOs7SgavxlJ8kt
+    id: 6k1iylSzWOs7SgavxlJ8kt
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2737762663eeab308df9d240cd0
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e027762663eeab308df9d240cd0
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048517762663eeab308df9d240cd0
+      width: 64
+    is_playable: true
+    name: Electric Warrior [Expanded & Remastered]
+    release_date: '1971-09-24'
+    release_date_precision: day
+    total_tracks: 18
+    type: album
+    uri: spotify:album:6k1iylSzWOs7SgavxlJ8kt
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin
+    href: https://api.spotify.com/v1/artists/3dBVyJ7JuOMt4GE9607Qin
+    id: 3dBVyJ7JuOMt4GE9607Qin
+    name: T. Rex
+    type: artist
+    uri: spotify:artist:3dBVyJ7JuOMt4GE9607Qin
+  available_markets:
+  - CA
+  - US
+  disc_number: 1
+  duration_ms: 144760
+  explicit: false
+  external_ids:
+    isrc: USRE10300011
+  external_urls:
+    spotify: https://open.spotify.com/track/1MU62iuv0tVWWVkqHcY1tx
+  href: https://api.spotify.com/v1/tracks/1MU62iuv0tVWWVkqHcY1tx
+  id: 1MU62iuv0tVWWVkqHcY1tx
+  is_local: false
+  is_playable: true
+  name: Life's a Gas - 2003 Remaster
+  popularity: 45
+  preview_url: null
+  track_number: 10
+  type: track
+  uri: spotify:track:1MU62iuv0tVWWVkqHcY1tx
+spotify_url: https://open.spotify.com/track/1MU62iuv0tVWWVkqHcY1tx
+title: Life's a Gas - 2003 Remaster

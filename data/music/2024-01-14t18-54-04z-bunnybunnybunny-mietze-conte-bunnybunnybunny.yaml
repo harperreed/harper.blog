@@ -1,0 +1,68 @@
+added_at: '2024-01-14T18:54:04Z'
+album: bunnybunnybunny
+album_image: https://i.scdn.co/image/ab67616d0000b2734ec994a88ac4e78ff5c2255f
+artist: Mietze Conte
+duration_ms: 88040
+id: 7FuyZvm8Bc4Cb56KPwWFpc
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN
+      href: https://api.spotify.com/v1/artists/3ETvRzzQK7ppB28GcAE8rN
+      id: 3ETvRzzQK7ppB28GcAE8rN
+      name: Mietze Conte
+      type: artist
+      uri: spotify:artist:3ETvRzzQK7ppB28GcAE8rN
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/50mBk35e191Z8zzGwMXdW1
+    href: https://api.spotify.com/v1/albums/50mBk35e191Z8zzGwMXdW1
+    id: 50mBk35e191Z8zzGwMXdW1
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2734ec994a88ac4e78ff5c2255f
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e024ec994a88ac4e78ff5c2255f
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048514ec994a88ac4e78ff5c2255f
+      width: 64
+    is_playable: true
+    name: bunnybunnybunny
+    release_date: '2022-09-30'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:50mBk35e191Z8zzGwMXdW1
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN
+    href: https://api.spotify.com/v1/artists/3ETvRzzQK7ppB28GcAE8rN
+    id: 3ETvRzzQK7ppB28GcAE8rN
+    name: Mietze Conte
+    type: artist
+    uri: spotify:artist:3ETvRzzQK7ppB28GcAE8rN
+  available_markets: []
+  disc_number: 1
+  duration_ms: 88040
+  explicit: false
+  external_ids:
+    isrc: FRX762207877
+  external_urls:
+    spotify: https://open.spotify.com/track/7FuyZvm8Bc4Cb56KPwWFpc
+  href: https://api.spotify.com/v1/tracks/7FuyZvm8Bc4Cb56KPwWFpc
+  id: 7FuyZvm8Bc4Cb56KPwWFpc
+  is_local: false
+  is_playable: true
+  name: bunnybunnybunny
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:7FuyZvm8Bc4Cb56KPwWFpc
+spotify_url: https://open.spotify.com/track/7FuyZvm8Bc4Cb56KPwWFpc
+title: bunnybunnybunny

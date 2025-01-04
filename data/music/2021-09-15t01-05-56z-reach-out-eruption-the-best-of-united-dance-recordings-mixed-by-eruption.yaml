@@ -1,0 +1,68 @@
+added_at: '2021-09-15T01:05:56Z'
+album: The Best of United Dance Recordings Mixed by Eruption
+album_image: https://i.scdn.co/image/ab67616d0000b2735f774e9e07f656a211a5d632
+artist: Eruption
+duration_ms: 360000
+id: 3ZlYm0dh8PpQrzXBNWMp29
+preview_url: null
+raw_data:
+  album:
+    album_type: compilation
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+      href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+      id: 0LyfQWJT6nXafLPZqxe9Of
+      name: Various Artists
+      type: artist
+      uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/5ODlC89Zjo7Qx17c3ZB1th
+    href: https://api.spotify.com/v1/albums/5ODlC89Zjo7Qx17c3ZB1th
+    id: 5ODlC89Zjo7Qx17c3ZB1th
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2735f774e9e07f656a211a5d632
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e025f774e9e07f656a211a5d632
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048515f774e9e07f656a211a5d632
+      width: 64
+    is_playable: true
+    name: The Best of United Dance Recordings Mixed by Eruption
+    release_date: '2010-10-11'
+    release_date_precision: day
+    total_tracks: 16
+    type: album
+    uri: spotify:album:5ODlC89Zjo7Qx17c3ZB1th
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY
+    href: https://api.spotify.com/v1/artists/3R6f1aBWwde7ZqGv7hf4dY
+    id: 3R6f1aBWwde7ZqGv7hf4dY
+    name: Eruption
+    type: artist
+    uri: spotify:artist:3R6f1aBWwde7ZqGv7hf4dY
+  available_markets: []
+  disc_number: 1
+  duration_ms: 360000
+  explicit: false
+  external_ids:
+    isrc: GBVEC0800538
+  external_urls:
+    spotify: https://open.spotify.com/track/3ZlYm0dh8PpQrzXBNWMp29
+  href: https://api.spotify.com/v1/tracks/3ZlYm0dh8PpQrzXBNWMp29
+  id: 3ZlYm0dh8PpQrzXBNWMp29
+  is_local: false
+  is_playable: false
+  name: Reach Out
+  popularity: 0
+  preview_url: null
+  track_number: 12
+  type: track
+  uri: spotify:track:3ZlYm0dh8PpQrzXBNWMp29
+spotify_url: https://open.spotify.com/track/3ZlYm0dh8PpQrzXBNWMp29
+title: Reach Out

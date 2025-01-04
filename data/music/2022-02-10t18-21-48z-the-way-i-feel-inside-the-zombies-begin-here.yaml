@@ -1,0 +1,68 @@
+added_at: '2022-02-10T18:21:48Z'
+album: Begin Here
+album_image: https://i.scdn.co/image/ab67616d0000b273b7fbb999ab997e52cecd01f2
+artist: The Zombies
+duration_ms: 108573
+id: 2iSxljzM8Xw9EEIGBRW1CD
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5
+      href: https://api.spotify.com/v1/artists/2jgPkn6LuUazBoBk6vvjh5
+      id: 2jgPkn6LuUazBoBk6vvjh5
+      name: The Zombies
+      type: artist
+      uri: spotify:artist:2jgPkn6LuUazBoBk6vvjh5
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/1vWVHhniWzqyNC0UzDDGs4
+    href: https://api.spotify.com/v1/albums/1vWVHhniWzqyNC0UzDDGs4
+    id: 1vWVHhniWzqyNC0UzDDGs4
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273b7fbb999ab997e52cecd01f2
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02b7fbb999ab997e52cecd01f2
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851b7fbb999ab997e52cecd01f2
+      width: 64
+    is_playable: true
+    name: Begin Here
+    release_date: '1965-03-01'
+    release_date_precision: day
+    total_tracks: 14
+    type: album
+    uri: spotify:album:1vWVHhniWzqyNC0UzDDGs4
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5
+    href: https://api.spotify.com/v1/artists/2jgPkn6LuUazBoBk6vvjh5
+    id: 2jgPkn6LuUazBoBk6vvjh5
+    name: The Zombies
+    type: artist
+    uri: spotify:artist:2jgPkn6LuUazBoBk6vvjh5
+  available_markets: []
+  disc_number: 1
+  duration_ms: 108573
+  explicit: false
+  external_ids:
+    isrc: GBCBS6432263
+  external_urls:
+    spotify: https://open.spotify.com/track/2iSxljzM8Xw9EEIGBRW1CD
+  href: https://api.spotify.com/v1/tracks/2iSxljzM8Xw9EEIGBRW1CD
+  id: 2iSxljzM8Xw9EEIGBRW1CD
+  is_local: false
+  is_playable: true
+  name: The Way I Feel Inside
+  popularity: 0
+  preview_url: null
+  track_number: 4
+  type: track
+  uri: spotify:track:2iSxljzM8Xw9EEIGBRW1CD
+spotify_url: https://open.spotify.com/track/2iSxljzM8Xw9EEIGBRW1CD
+title: The Way I Feel Inside

@@ -1,0 +1,82 @@
+added_at: '2024-11-23T03:54:55Z'
+album: Eyeless
+album_image: https://i.scdn.co/image/ab67616d0000b273a0d8acd1a224a2f6969e28a3
+artist: Dante Swan
+duration_ms: 184420
+id: 7ipNFI5a2s8hJ7ZLDaMumf
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/053pfecMGLcIQnZf0h6dOW
+      href: https://api.spotify.com/v1/artists/053pfecMGLcIQnZf0h6dOW
+      id: 053pfecMGLcIQnZf0h6dOW
+      name: Dante Swan
+      type: artist
+      uri: spotify:artist:053pfecMGLcIQnZf0h6dOW
+    - external_urls:
+        spotify: https://open.spotify.com/artist/7yK6lSFWssVt8UoIaw7arH
+      href: https://api.spotify.com/v1/artists/7yK6lSFWssVt8UoIaw7arH
+      id: 7yK6lSFWssVt8UoIaw7arH
+      name: LXD Beats
+      type: artist
+      uri: spotify:artist:7yK6lSFWssVt8UoIaw7arH
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/6avSPtkf1HXbLWAH3DYrbG
+    href: https://api.spotify.com/v1/albums/6avSPtkf1HXbLWAH3DYrbG
+    id: 6avSPtkf1HXbLWAH3DYrbG
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273a0d8acd1a224a2f6969e28a3
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02a0d8acd1a224a2f6969e28a3
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851a0d8acd1a224a2f6969e28a3
+      width: 64
+    is_playable: true
+    name: Eyeless
+    release_date: '2024-08-27'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:6avSPtkf1HXbLWAH3DYrbG
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/053pfecMGLcIQnZf0h6dOW
+    href: https://api.spotify.com/v1/artists/053pfecMGLcIQnZf0h6dOW
+    id: 053pfecMGLcIQnZf0h6dOW
+    name: Dante Swan
+    type: artist
+    uri: spotify:artist:053pfecMGLcIQnZf0h6dOW
+  - external_urls:
+      spotify: https://open.spotify.com/artist/7yK6lSFWssVt8UoIaw7arH
+    href: https://api.spotify.com/v1/artists/7yK6lSFWssVt8UoIaw7arH
+    id: 7yK6lSFWssVt8UoIaw7arH
+    name: LXD Beats
+    type: artist
+    uri: spotify:artist:7yK6lSFWssVt8UoIaw7arH
+  available_markets: []
+  disc_number: 1
+  duration_ms: 184420
+  explicit: false
+  external_ids:
+    isrc: QZTB92497744
+  external_urls:
+    spotify: https://open.spotify.com/track/7ipNFI5a2s8hJ7ZLDaMumf
+  href: https://api.spotify.com/v1/tracks/7ipNFI5a2s8hJ7ZLDaMumf
+  id: 7ipNFI5a2s8hJ7ZLDaMumf
+  is_local: false
+  is_playable: true
+  name: Eyeless
+  popularity: 1
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:7ipNFI5a2s8hJ7ZLDaMumf
+spotify_url: https://open.spotify.com/track/7ipNFI5a2s8hJ7ZLDaMumf
+title: Eyeless

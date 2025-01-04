@@ -1,0 +1,70 @@
+added_at: '2023-03-21T18:14:27Z'
+album: 'The Essentials: Tommy James & The Shondells'
+album_image: https://i.scdn.co/image/ab67616d0000b273217e6eb492554e7b0103475d
+artist: Tommy James & The Shondells
+duration_ms: 208666
+id: 1vXuYPpkLjn1v06E2EsWQY
+preview_url: null
+raw_data:
+  album:
+    album_type: compilation
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI
+      href: https://api.spotify.com/v1/artists/01hRNr3yF5bYnPq4wZ88iI
+      id: 01hRNr3yF5bYnPq4wZ88iI
+      name: Tommy James & The Shondells
+      type: artist
+      uri: spotify:artist:01hRNr3yF5bYnPq4wZ88iI
+    available_markets:
+    - US
+    external_urls:
+      spotify: https://open.spotify.com/album/0OuQjb89LiXrs0AiWb6zRZ
+    href: https://api.spotify.com/v1/albums/0OuQjb89LiXrs0AiWb6zRZ
+    id: 0OuQjb89LiXrs0AiWb6zRZ
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273217e6eb492554e7b0103475d
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02217e6eb492554e7b0103475d
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851217e6eb492554e7b0103475d
+      width: 64
+    is_playable: true
+    name: 'The Essentials: Tommy James & The Shondells'
+    release_date: '2002-06-04'
+    release_date_precision: day
+    total_tracks: 12
+    type: album
+    uri: spotify:album:0OuQjb89LiXrs0AiWb6zRZ
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI
+    href: https://api.spotify.com/v1/artists/01hRNr3yF5bYnPq4wZ88iI
+    id: 01hRNr3yF5bYnPq4wZ88iI
+    name: Tommy James & The Shondells
+    type: artist
+    uri: spotify:artist:01hRNr3yF5bYnPq4wZ88iI
+  available_markets:
+  - US
+  disc_number: 1
+  duration_ms: 208666
+  explicit: false
+  external_ids:
+    isrc: USRH10284728
+  external_urls:
+    spotify: https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY
+  href: https://api.spotify.com/v1/tracks/1vXuYPpkLjn1v06E2EsWQY
+  id: 1vXuYPpkLjn1v06E2EsWQY
+  is_local: false
+  is_playable: true
+  name: Crimson & Clover - Single Version
+  popularity: 48
+  preview_url: null
+  track_number: 7
+  type: track
+  uri: spotify:track:1vXuYPpkLjn1v06E2EsWQY
+spotify_url: https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY
+title: Crimson & Clover - Single Version

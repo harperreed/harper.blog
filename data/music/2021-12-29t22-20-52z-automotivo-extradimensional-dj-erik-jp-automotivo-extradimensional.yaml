@@ -1,0 +1,75 @@
+added_at: '2021-12-29T22:20:52Z'
+album: AUTOMOTIVO EXTRADIMENSIONAL
+album_image: https://i.scdn.co/image/ab67616d0000b2735b683057892f1adaa1cbbab6
+artist: DJ Erik JP
+duration_ms: 145893
+id: 0VuMkeXhzn0Qp9KzzC4s4N
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0G50WjP6s1v6zLeOl33BwK
+      href: https://api.spotify.com/v1/artists/0G50WjP6s1v6zLeOl33BwK
+      id: 0G50WjP6s1v6zLeOl33BwK
+      name: DJ Erik JP
+      type: artist
+      uri: spotify:artist:0G50WjP6s1v6zLeOl33BwK
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/6ZJhYGusMYFw1JYsjA2CT9
+    href: https://api.spotify.com/v1/albums/6ZJhYGusMYFw1JYsjA2CT9
+    id: 6ZJhYGusMYFw1JYsjA2CT9
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2735b683057892f1adaa1cbbab6
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e025b683057892f1adaa1cbbab6
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048515b683057892f1adaa1cbbab6
+      width: 64
+    is_playable: true
+    name: AUTOMOTIVO EXTRADIMENSIONAL
+    release_date: '2021-05-02'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:6ZJhYGusMYFw1JYsjA2CT9
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0G50WjP6s1v6zLeOl33BwK
+    href: https://api.spotify.com/v1/artists/0G50WjP6s1v6zLeOl33BwK
+    id: 0G50WjP6s1v6zLeOl33BwK
+    name: DJ Erik JP
+    type: artist
+    uri: spotify:artist:0G50WjP6s1v6zLeOl33BwK
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0WL2xTzoE0X3Uu0ewOsxaO
+    href: https://api.spotify.com/v1/artists/0WL2xTzoE0X3Uu0ewOsxaO
+    id: 0WL2xTzoE0X3Uu0ewOsxaO
+    name: DJ Patrick R
+    type: artist
+    uri: spotify:artist:0WL2xTzoE0X3Uu0ewOsxaO
+  available_markets: []
+  disc_number: 1
+  duration_ms: 145893
+  explicit: false
+  external_ids:
+    isrc: US3DF2126401
+  external_urls:
+    spotify: https://open.spotify.com/track/0VuMkeXhzn0Qp9KzzC4s4N
+  href: https://api.spotify.com/v1/tracks/0VuMkeXhzn0Qp9KzzC4s4N
+  id: 0VuMkeXhzn0Qp9KzzC4s4N
+  is_local: false
+  is_playable: true
+  name: AUTOMOTIVO EXTRADIMENSIONAL
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:0VuMkeXhzn0Qp9KzzC4s4N
+spotify_url: https://open.spotify.com/track/0VuMkeXhzn0Qp9KzzC4s4N
+title: AUTOMOTIVO EXTRADIMENSIONAL

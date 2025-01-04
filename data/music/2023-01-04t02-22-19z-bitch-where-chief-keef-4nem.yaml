@@ -1,0 +1,68 @@
+added_at: '2023-01-04T02:22:19Z'
+album: 4NEM
+album_image: https://i.scdn.co/image/ab67616d0000b273d3984416d9f1cdf42163ab91
+artist: Chief Keef
+duration_ms: 111483
+id: 0t9V60QxyMyVZSUVTBgOnt
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P
+      href: https://api.spotify.com/v1/artists/15iVAtD3s3FsQR4w1v6M0P
+      id: 15iVAtD3s3FsQR4w1v6M0P
+      name: Chief Keef
+      type: artist
+      uri: spotify:artist:15iVAtD3s3FsQR4w1v6M0P
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/1sujvm6paInfm8fYnNdjIy
+    href: https://api.spotify.com/v1/albums/1sujvm6paInfm8fYnNdjIy
+    id: 1sujvm6paInfm8fYnNdjIy
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273d3984416d9f1cdf42163ab91
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02d3984416d9f1cdf42163ab91
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851d3984416d9f1cdf42163ab91
+      width: 64
+    is_playable: true
+    name: 4NEM
+    release_date: '2021-12-17'
+    release_date_precision: day
+    total_tracks: 14
+    type: album
+    uri: spotify:album:1sujvm6paInfm8fYnNdjIy
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P
+    href: https://api.spotify.com/v1/artists/15iVAtD3s3FsQR4w1v6M0P
+    id: 15iVAtD3s3FsQR4w1v6M0P
+    name: Chief Keef
+    type: artist
+    uri: spotify:artist:15iVAtD3s3FsQR4w1v6M0P
+  available_markets: []
+  disc_number: 1
+  duration_ms: 111483
+  explicit: true
+  external_ids:
+    isrc: QMRSZ2102952
+  external_urls:
+    spotify: https://open.spotify.com/track/0t9V60QxyMyVZSUVTBgOnt
+  href: https://api.spotify.com/v1/tracks/0t9V60QxyMyVZSUVTBgOnt
+  id: 0t9V60QxyMyVZSUVTBgOnt
+  is_local: false
+  is_playable: true
+  name: Bitch Where
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:0t9V60QxyMyVZSUVTBgOnt
+spotify_url: https://open.spotify.com/track/0t9V60QxyMyVZSUVTBgOnt
+title: Bitch Where

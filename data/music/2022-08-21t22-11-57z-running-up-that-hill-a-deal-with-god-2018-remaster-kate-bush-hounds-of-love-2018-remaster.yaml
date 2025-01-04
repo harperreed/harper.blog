@@ -1,0 +1,68 @@
+added_at: '2022-08-21T22:11:57Z'
+album: Hounds of Love (2018 Remaster)
+album_image: https://i.scdn.co/image/ab67616d0000b2735c390e413e27798edd4d18b4
+artist: Kate Bush
+duration_ms: 300840
+id: 29d0nY7TzCoi22XBqDQkiP
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL
+      href: https://api.spotify.com/v1/artists/1aSxMhuvixZ8h9dK9jIDwL
+      id: 1aSxMhuvixZ8h9dK9jIDwL
+      name: Kate Bush
+      type: artist
+      uri: spotify:artist:1aSxMhuvixZ8h9dK9jIDwL
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH
+    href: https://api.spotify.com/v1/albums/3OYnManu1Nlxnw9OMng7BH
+    id: 3OYnManu1Nlxnw9OMng7BH
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2735c390e413e27798edd4d18b4
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e025c390e413e27798edd4d18b4
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048515c390e413e27798edd4d18b4
+      width: 64
+    is_playable: true
+    name: Hounds of Love (2018 Remaster)
+    release_date: '1985-09-16'
+    release_date_precision: day
+    total_tracks: 12
+    type: album
+    uri: spotify:album:3OYnManu1Nlxnw9OMng7BH
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL
+    href: https://api.spotify.com/v1/artists/1aSxMhuvixZ8h9dK9jIDwL
+    id: 1aSxMhuvixZ8h9dK9jIDwL
+    name: Kate Bush
+    type: artist
+    uri: spotify:artist:1aSxMhuvixZ8h9dK9jIDwL
+  available_markets: []
+  disc_number: 1
+  duration_ms: 300840
+  explicit: false
+  external_ids:
+    isrc: GBAYE1800884
+  external_urls:
+    spotify: https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP
+  href: https://api.spotify.com/v1/tracks/29d0nY7TzCoi22XBqDQkiP
+  id: 29d0nY7TzCoi22XBqDQkiP
+  is_local: false
+  is_playable: true
+  name: Running Up That Hill (A Deal With God) - 2018 Remaster
+  popularity: 6
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:29d0nY7TzCoi22XBqDQkiP
+spotify_url: https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP
+title: Running Up That Hill (A Deal With God) - 2018 Remaster

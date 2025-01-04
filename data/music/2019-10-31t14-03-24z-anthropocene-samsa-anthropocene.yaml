@@ -1,0 +1,68 @@
+added_at: '2019-10-31T14:03:24Z'
+album: Anthropocene
+album_image: https://i.scdn.co/image/ab67616d0000b2737db07eea54d86cd398f9f5f9
+artist: Samsa
+duration_ms: 256078
+id: 070iRzgOurm4lI1SViKJ6i
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/5FN9kuAUamAd4IadVnH4jH
+      href: https://api.spotify.com/v1/artists/5FN9kuAUamAd4IadVnH4jH
+      id: 5FN9kuAUamAd4IadVnH4jH
+      name: Samsa
+      type: artist
+      uri: spotify:artist:5FN9kuAUamAd4IadVnH4jH
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/4jptldIvLItURIlbbAyWMz
+    href: https://api.spotify.com/v1/albums/4jptldIvLItURIlbbAyWMz
+    id: 4jptldIvLItURIlbbAyWMz
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2737db07eea54d86cd398f9f5f9
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e027db07eea54d86cd398f9f5f9
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048517db07eea54d86cd398f9f5f9
+      width: 64
+    is_playable: true
+    name: Anthropocene
+    release_date: '2017-05-16'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:4jptldIvLItURIlbbAyWMz
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/5FN9kuAUamAd4IadVnH4jH
+    href: https://api.spotify.com/v1/artists/5FN9kuAUamAd4IadVnH4jH
+    id: 5FN9kuAUamAd4IadVnH4jH
+    name: Samsa
+    type: artist
+    uri: spotify:artist:5FN9kuAUamAd4IadVnH4jH
+  available_markets: []
+  disc_number: 1
+  duration_ms: 256078
+  explicit: true
+  external_ids:
+    isrc: QM2PV1704686
+  external_urls:
+    spotify: https://open.spotify.com/track/070iRzgOurm4lI1SViKJ6i
+  href: https://api.spotify.com/v1/tracks/070iRzgOurm4lI1SViKJ6i
+  id: 070iRzgOurm4lI1SViKJ6i
+  is_local: false
+  is_playable: true
+  name: Anthropocene
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:070iRzgOurm4lI1SViKJ6i
+spotify_url: https://open.spotify.com/track/070iRzgOurm4lI1SViKJ6i
+title: Anthropocene

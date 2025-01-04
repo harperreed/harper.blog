@@ -1,0 +1,68 @@
+added_at: '2021-05-08T21:25:09Z'
+album: It's All over Now, Baby Blue b/w Be My Husband
+album_image: https://i.scdn.co/image/ab67616d0000b2734cc0c82eb7fcd78c43972c16
+artist: ANOHNI
+duration_ms: 252630
+id: 4nz1UjOhZx5ZlhbAAnvmSi
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo
+      href: https://api.spotify.com/v1/artists/6VJZYivuYJGCrPuOAnI7Qo
+      id: 6VJZYivuYJGCrPuOAnI7Qo
+      name: ANOHNI
+      type: artist
+      uri: spotify:artist:6VJZYivuYJGCrPuOAnI7Qo
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/0PJh3UqgyOTqyg3wGnY53A
+    href: https://api.spotify.com/v1/albums/0PJh3UqgyOTqyg3wGnY53A
+    id: 0PJh3UqgyOTqyg3wGnY53A
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2734cc0c82eb7fcd78c43972c16
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e024cc0c82eb7fcd78c43972c16
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048514cc0c82eb7fcd78c43972c16
+      width: 64
+    is_playable: true
+    name: It's All over Now, Baby Blue b/w Be My Husband
+    release_date: '2020-08-04'
+    release_date_precision: day
+    total_tracks: 2
+    type: album
+    uri: spotify:album:0PJh3UqgyOTqyg3wGnY53A
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo
+    href: https://api.spotify.com/v1/artists/6VJZYivuYJGCrPuOAnI7Qo
+    id: 6VJZYivuYJGCrPuOAnI7Qo
+    name: ANOHNI
+    type: artist
+    uri: spotify:artist:6VJZYivuYJGCrPuOAnI7Qo
+  available_markets: []
+  disc_number: 1
+  duration_ms: 252630
+  explicit: false
+  external_ids:
+    isrc: US38W2041401
+  external_urls:
+    spotify: https://open.spotify.com/track/4nz1UjOhZx5ZlhbAAnvmSi
+  href: https://api.spotify.com/v1/tracks/4nz1UjOhZx5ZlhbAAnvmSi
+  id: 4nz1UjOhZx5ZlhbAAnvmSi
+  is_local: false
+  is_playable: true
+  name: It's All over Now, Baby Blue
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:4nz1UjOhZx5ZlhbAAnvmSi
+spotify_url: https://open.spotify.com/track/4nz1UjOhZx5ZlhbAAnvmSi
+title: It's All over Now, Baby Blue

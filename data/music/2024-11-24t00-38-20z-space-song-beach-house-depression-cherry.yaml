@@ -1,0 +1,114 @@
+added_at: '2024-11-24T00:38:20Z'
+album: Depression Cherry
+album_image: https://i.scdn.co/image/ab67616d0000b2739b7190e673e46271b2754aab
+artist: Beach House
+duration_ms: 320466
+id: 7H0ya83CMmgFcOhw0UB6ow
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY
+      href: https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY
+      id: 56ZTgzPBDge0OvCGgMO3OY
+      name: Beach House
+      type: artist
+      uri: spotify:artist:56ZTgzPBDge0OvCGgMO3OY
+    available_markets:
+    - AG
+    - BB
+    - BS
+    - BZ
+    - CA
+    - CR
+    - DM
+    - DO
+    - GD
+    - GT
+    - HN
+    - HT
+    - JM
+    - KN
+    - LC
+    - MX
+    - NI
+    - PA
+    - PR
+    - SV
+    - TT
+    - US
+    - VC
+    external_urls:
+      spotify: https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr
+    href: https://api.spotify.com/v1/albums/194CqC2Zi0kUFEPWedb3qr
+    id: 194CqC2Zi0kUFEPWedb3qr
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2739b7190e673e46271b2754aab
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e029b7190e673e46271b2754aab
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048519b7190e673e46271b2754aab
+      width: 64
+    is_playable: true
+    name: Depression Cherry
+    release_date: '2015-08-28'
+    release_date_precision: day
+    total_tracks: 9
+    type: album
+    uri: spotify:album:194CqC2Zi0kUFEPWedb3qr
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY
+    href: https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY
+    id: 56ZTgzPBDge0OvCGgMO3OY
+    name: Beach House
+    type: artist
+    uri: spotify:artist:56ZTgzPBDge0OvCGgMO3OY
+  available_markets:
+  - AG
+  - BB
+  - BS
+  - BZ
+  - CA
+  - CR
+  - DM
+  - DO
+  - GD
+  - GT
+  - HN
+  - HT
+  - JM
+  - KN
+  - LC
+  - MX
+  - NI
+  - PA
+  - PR
+  - SV
+  - TT
+  - US
+  - VC
+  disc_number: 1
+  duration_ms: 320466
+  explicit: false
+  external_ids:
+    isrc: USSUB1512203
+  external_urls:
+    spotify: https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow
+  href: https://api.spotify.com/v1/tracks/7H0ya83CMmgFcOhw0UB6ow
+  id: 7H0ya83CMmgFcOhw0UB6ow
+  is_local: false
+  is_playable: true
+  name: Space Song
+  popularity: 75
+  preview_url: null
+  track_number: 3
+  type: track
+  uri: spotify:track:7H0ya83CMmgFcOhw0UB6ow
+spotify_url: https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow
+title: Space Song

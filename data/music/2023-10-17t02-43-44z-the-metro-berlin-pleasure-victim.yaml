@@ -1,0 +1,72 @@
+added_at: '2023-10-17T02:43:44Z'
+album: Pleasure Victim
+album_image: https://i.scdn.co/image/ab67616d0000b273fff90929f61644405d20cb78
+artist: Berlin
+duration_ms: 251200
+id: 3Mp0s4jN8X7J74Qt6sgDXl
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM
+      href: https://api.spotify.com/v1/artists/2aS6jYh7ysTL1ZUsHneNgM
+      id: 2aS6jYh7ysTL1ZUsHneNgM
+      name: Berlin
+      type: artist
+      uri: spotify:artist:2aS6jYh7ysTL1ZUsHneNgM
+    available_markets:
+    - CA
+    - US
+    external_urls:
+      spotify: https://open.spotify.com/album/3olTjegBD2x0kKzOCp9Vof
+    href: https://api.spotify.com/v1/albums/3olTjegBD2x0kKzOCp9Vof
+    id: 3olTjegBD2x0kKzOCp9Vof
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273fff90929f61644405d20cb78
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02fff90929f61644405d20cb78
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851fff90929f61644405d20cb78
+      width: 64
+    is_playable: true
+    name: Pleasure Victim
+    release_date: '1982-10-01'
+    release_date_precision: day
+    total_tracks: 8
+    type: album
+    uri: spotify:album:3olTjegBD2x0kKzOCp9Vof
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM
+    href: https://api.spotify.com/v1/artists/2aS6jYh7ysTL1ZUsHneNgM
+    id: 2aS6jYh7ysTL1ZUsHneNgM
+    name: Berlin
+    type: artist
+    uri: spotify:artist:2aS6jYh7ysTL1ZUsHneNgM
+  available_markets:
+  - CA
+  - US
+  disc_number: 1
+  duration_ms: 251200
+  explicit: false
+  external_ids:
+    isrc: USGF19918710
+  external_urls:
+    spotify: https://open.spotify.com/track/3Mp0s4jN8X7J74Qt6sgDXl
+  href: https://api.spotify.com/v1/tracks/3Mp0s4jN8X7J74Qt6sgDXl
+  id: 3Mp0s4jN8X7J74Qt6sgDXl
+  is_local: false
+  is_playable: true
+  name: The Metro
+  popularity: 41
+  preview_url: null
+  track_number: 5
+  type: track
+  uri: spotify:track:3Mp0s4jN8X7J74Qt6sgDXl
+spotify_url: https://open.spotify.com/track/3Mp0s4jN8X7J74Qt6sgDXl
+title: The Metro

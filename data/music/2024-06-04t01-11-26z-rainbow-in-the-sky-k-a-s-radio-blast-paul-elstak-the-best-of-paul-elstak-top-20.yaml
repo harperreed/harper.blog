@@ -1,0 +1,68 @@
+added_at: '2024-06-04T01:11:26Z'
+album: The Best Of Paul Elstak Top 20
+album_image: https://i.scdn.co/image/ab67616d0000b2735b4dd66ddf21812a85b416bf
+artist: Paul Elstak
+duration_ms: 213112
+id: 2PVqPbRv7mlCp2JYzDeMsc
+preview_url: null
+raw_data:
+  album:
+    album_type: compilation
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6
+      href: https://api.spotify.com/v1/artists/123hDJRbi4KtCdBaaKNHW6
+      id: 123hDJRbi4KtCdBaaKNHW6
+      name: Paul Elstak
+      type: artist
+      uri: spotify:artist:123hDJRbi4KtCdBaaKNHW6
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/5NOu6WXdxUoMoqTgseVIbT
+    href: https://api.spotify.com/v1/albums/5NOu6WXdxUoMoqTgseVIbT
+    id: 5NOu6WXdxUoMoqTgseVIbT
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2735b4dd66ddf21812a85b416bf
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e025b4dd66ddf21812a85b416bf
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048515b4dd66ddf21812a85b416bf
+      width: 64
+    is_playable: true
+    name: The Best Of Paul Elstak Top 20
+    release_date: '2011-04-29'
+    release_date_precision: day
+    total_tracks: 20
+    type: album
+    uri: spotify:album:5NOu6WXdxUoMoqTgseVIbT
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6
+    href: https://api.spotify.com/v1/artists/123hDJRbi4KtCdBaaKNHW6
+    id: 123hDJRbi4KtCdBaaKNHW6
+    name: Paul Elstak
+    type: artist
+    uri: spotify:artist:123hDJRbi4KtCdBaaKNHW6
+  available_markets: []
+  disc_number: 1
+  duration_ms: 213112
+  explicit: false
+  external_ids:
+    isrc: NLC050201616
+  external_urls:
+    spotify: https://open.spotify.com/track/2PVqPbRv7mlCp2JYzDeMsc
+  href: https://api.spotify.com/v1/tracks/2PVqPbRv7mlCp2JYzDeMsc
+  id: 2PVqPbRv7mlCp2JYzDeMsc
+  is_local: false
+  is_playable: true
+  name: Rainbow In The Sky - K & A's Radio Blast
+  popularity: 3
+  preview_url: null
+  track_number: 3
+  type: track
+  uri: spotify:track:2PVqPbRv7mlCp2JYzDeMsc
+spotify_url: https://open.spotify.com/track/2PVqPbRv7mlCp2JYzDeMsc
+title: Rainbow In The Sky - K & A's Radio Blast

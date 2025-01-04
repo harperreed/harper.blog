@@ -1,0 +1,75 @@
+added_at: '2021-06-03T16:40:39Z'
+album: 'Hot Steel: Round 2'
+album_image: https://i.scdn.co/image/ab67616d0000b2735deee8535c1c46cf6c271cbd
+artist: De Jeugd Van Tegenwoordig
+duration_ms: 299654
+id: 1GOdrG8p7TBawr3rEOqT1l
+preview_url: null
+raw_data:
+  album:
+    album_type: compilation
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+      href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+      id: 0LyfQWJT6nXafLPZqxe9Of
+      name: Various Artists
+      type: artist
+      uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/5wQD0O8BTSIO2usImkM1MN
+    href: https://api.spotify.com/v1/albums/5wQD0O8BTSIO2usImkM1MN
+    id: 5wQD0O8BTSIO2usImkM1MN
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2735deee8535c1c46cf6c271cbd
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e025deee8535c1c46cf6c271cbd
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048515deee8535c1c46cf6c271cbd
+      width: 64
+    is_playable: true
+    name: 'Hot Steel: Round 2'
+    release_date: '2020-10-23'
+    release_date_precision: day
+    total_tracks: 21
+    type: album
+    uri: spotify:album:5wQD0O8BTSIO2usImkM1MN
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq
+    href: https://api.spotify.com/v1/artists/1u7uShzlA1tXJeox3jMFPq
+    id: 1u7uShzlA1tXJeox3jMFPq
+    name: De Jeugd Van Tegenwoordig
+    type: artist
+    uri: spotify:artist:1u7uShzlA1tXJeox3jMFPq
+  - external_urls:
+      spotify: https://open.spotify.com/artist/23cvUX4pJLzBv3HrF12AqK
+    href: https://api.spotify.com/v1/artists/23cvUX4pJLzBv3HrF12AqK
+    id: 23cvUX4pJLzBv3HrF12AqK
+    name: Dissolver
+    type: artist
+    uri: spotify:artist:23cvUX4pJLzBv3HrF12AqK
+  available_markets: []
+  disc_number: 1
+  duration_ms: 299654
+  explicit: true
+  external_ids:
+    isrc: UKMH51900099
+  external_urls:
+    spotify: https://open.spotify.com/track/1GOdrG8p7TBawr3rEOqT1l
+  href: https://api.spotify.com/v1/tracks/1GOdrG8p7TBawr3rEOqT1l
+  id: 1GOdrG8p7TBawr3rEOqT1l
+  is_local: false
+  is_playable: true
+  name: "Watskeburt?! - Dissolver\u2019s Liquid Styrofoam Edit"
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:1GOdrG8p7TBawr3rEOqT1l
+spotify_url: https://open.spotify.com/track/1GOdrG8p7TBawr3rEOqT1l
+title: "Watskeburt?! - Dissolver\u2019s Liquid Styrofoam Edit"

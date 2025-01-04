@@ -1,0 +1,68 @@
+added_at: '2023-04-15T15:39:47Z'
+album: Lost Tape Side B
+album_image: https://i.scdn.co/image/ab67616d0000b2736642c56e47fb37224aab75ab
+artist: "Depresi\xF3n Post-Mortem"
+duration_ms: 195499
+id: 6tMaDmNWb8G07O66ANZwyK
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/21R9yNYe0vAQEOjcuddBTZ
+      href: https://api.spotify.com/v1/artists/21R9yNYe0vAQEOjcuddBTZ
+      id: 21R9yNYe0vAQEOjcuddBTZ
+      name: "Depresi\xF3n Post-Mortem"
+      type: artist
+      uri: spotify:artist:21R9yNYe0vAQEOjcuddBTZ
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/5lGmBxD9Hhrm7zUC9WMcx3
+    href: https://api.spotify.com/v1/albums/5lGmBxD9Hhrm7zUC9WMcx3
+    id: 5lGmBxD9Hhrm7zUC9WMcx3
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2736642c56e47fb37224aab75ab
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e026642c56e47fb37224aab75ab
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048516642c56e47fb37224aab75ab
+      width: 64
+    is_playable: true
+    name: Lost Tape Side B
+    release_date: '2022-10-03'
+    release_date_precision: day
+    total_tracks: 10
+    type: album
+    uri: spotify:album:5lGmBxD9Hhrm7zUC9WMcx3
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/21R9yNYe0vAQEOjcuddBTZ
+    href: https://api.spotify.com/v1/artists/21R9yNYe0vAQEOjcuddBTZ
+    id: 21R9yNYe0vAQEOjcuddBTZ
+    name: "Depresi\xF3n Post-Mortem"
+    type: artist
+    uri: spotify:artist:21R9yNYe0vAQEOjcuddBTZ
+  available_markets: []
+  disc_number: 1
+  duration_ms: 195499
+  explicit: false
+  external_ids:
+    isrc: USHM92260529
+  external_urls:
+    spotify: https://open.spotify.com/track/6tMaDmNWb8G07O66ANZwyK
+  href: https://api.spotify.com/v1/tracks/6tMaDmNWb8G07O66ANZwyK
+  id: 6tMaDmNWb8G07O66ANZwyK
+  is_local: false
+  is_playable: true
+  name: Lovesong
+  popularity: 0
+  preview_url: null
+  track_number: 2
+  type: track
+  uri: spotify:track:6tMaDmNWb8G07O66ANZwyK
+spotify_url: https://open.spotify.com/track/6tMaDmNWb8G07O66ANZwyK
+title: Lovesong

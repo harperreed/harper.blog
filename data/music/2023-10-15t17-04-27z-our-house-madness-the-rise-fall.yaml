@@ -1,0 +1,68 @@
+added_at: '2023-10-15T17:04:27Z'
+album: The Rise & Fall
+album_image: https://i.scdn.co/image/ab67616d0000b273ce5ad5ce2b582aa56ca59022
+artist: Madness
+duration_ms: 203120
+id: 1EXrFPfVNVsyb32yapebbM
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd
+      href: https://api.spotify.com/v1/artists/4AYkFtEBnNnGuoo8HaHErd
+      id: 4AYkFtEBnNnGuoo8HaHErd
+      name: Madness
+      type: artist
+      uri: spotify:artist:4AYkFtEBnNnGuoo8HaHErd
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/6CZkNYiE9HGqRlGFprzR4i
+    href: https://api.spotify.com/v1/albums/6CZkNYiE9HGqRlGFprzR4i
+    id: 6CZkNYiE9HGqRlGFprzR4i
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273ce5ad5ce2b582aa56ca59022
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02ce5ad5ce2b582aa56ca59022
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851ce5ad5ce2b582aa56ca59022
+      width: 64
+    is_playable: true
+    name: The Rise & Fall
+    release_date: '1982-10-08'
+    release_date_precision: day
+    total_tracks: 30
+    type: album
+    uri: spotify:album:6CZkNYiE9HGqRlGFprzR4i
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd
+    href: https://api.spotify.com/v1/artists/4AYkFtEBnNnGuoo8HaHErd
+    id: 4AYkFtEBnNnGuoo8HaHErd
+    name: Madness
+    type: artist
+    uri: spotify:artist:4AYkFtEBnNnGuoo8HaHErd
+  available_markets: []
+  disc_number: 1
+  duration_ms: 203120
+  explicit: false
+  external_ids:
+    isrc: GB7GZ1000033
+  external_urls:
+    spotify: https://open.spotify.com/track/1EXrFPfVNVsyb32yapebbM
+  href: https://api.spotify.com/v1/tracks/1EXrFPfVNVsyb32yapebbM
+  id: 1EXrFPfVNVsyb32yapebbM
+  is_local: false
+  is_playable: true
+  name: Our House
+  popularity: 3
+  preview_url: null
+  track_number: 7
+  type: track
+  uri: spotify:track:1EXrFPfVNVsyb32yapebbM
+spotify_url: https://open.spotify.com/track/1EXrFPfVNVsyb32yapebbM
+title: Our House

@@ -1,0 +1,75 @@
+added_at: '2021-08-24T22:34:42Z'
+album: BS6
+album_image: https://i.scdn.co/image/ab67616d0000b273005d452490d7cbddb73df152
+artist: Sinistarr
+duration_ms: 240895
+id: 3bakmwCGNKApcqyhxGX9tZ
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0
+      href: https://api.spotify.com/v1/artists/6hNELDwN2cBEdL74cpXKc0
+      id: 6hNELDwN2cBEdL74cpXKc0
+      name: Hyroglifics
+      type: artist
+      uri: spotify:artist:6hNELDwN2cBEdL74cpXKc0
+    - external_urls:
+        spotify: https://open.spotify.com/artist/1AqybHsTw984feND8RwcCe
+      href: https://api.spotify.com/v1/artists/1AqybHsTw984feND8RwcCe
+      id: 1AqybHsTw984feND8RwcCe
+      name: Sinistarr
+      type: artist
+      uri: spotify:artist:1AqybHsTw984feND8RwcCe
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/6NeoDlP2hzdBFRQdG8hLQF
+    href: https://api.spotify.com/v1/albums/6NeoDlP2hzdBFRQdG8hLQF
+    id: 6NeoDlP2hzdBFRQdG8hLQF
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273005d452490d7cbddb73df152
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02005d452490d7cbddb73df152
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851005d452490d7cbddb73df152
+      width: 64
+    is_playable: true
+    name: BS6
+    release_date: '2020-03-13'
+    release_date_precision: day
+    total_tracks: 5
+    type: album
+    uri: spotify:album:6NeoDlP2hzdBFRQdG8hLQF
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/1AqybHsTw984feND8RwcCe
+    href: https://api.spotify.com/v1/artists/1AqybHsTw984feND8RwcCe
+    id: 1AqybHsTw984feND8RwcCe
+    name: Sinistarr
+    type: artist
+    uri: spotify:artist:1AqybHsTw984feND8RwcCe
+  available_markets: []
+  disc_number: 1
+  duration_ms: 240895
+  explicit: false
+  external_ids:
+    isrc: GBJX32041504
+  external_urls:
+    spotify: https://open.spotify.com/track/3bakmwCGNKApcqyhxGX9tZ
+  href: https://api.spotify.com/v1/tracks/3bakmwCGNKApcqyhxGX9tZ
+  id: 3bakmwCGNKApcqyhxGX9tZ
+  is_local: false
+  is_playable: true
+  name: Detroit
+  popularity: 0
+  preview_url: null
+  track_number: 4
+  type: track
+  uri: spotify:track:3bakmwCGNKApcqyhxGX9tZ
+spotify_url: https://open.spotify.com/track/3bakmwCGNKApcqyhxGX9tZ
+title: Detroit

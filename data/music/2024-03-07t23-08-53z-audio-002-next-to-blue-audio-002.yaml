@@ -1,0 +1,68 @@
+added_at: '2024-03-07T23:08:53Z'
+album: Audio 002
+album_image: https://i.scdn.co/image/ab67616d0000b2730ca06df9b851d33232e48fde
+artist: Next To Blue
+duration_ms: 66666
+id: 0k6uhJ9XEn1c1qqU2WxL59
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco
+      href: https://api.spotify.com/v1/artists/651bTRrM7AWeYldvSxdHco
+      id: 651bTRrM7AWeYldvSxdHco
+      name: Next To Blue
+      type: artist
+      uri: spotify:artist:651bTRrM7AWeYldvSxdHco
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/6GJvPYhO8ivcS5p9NLG6eQ
+    href: https://api.spotify.com/v1/albums/6GJvPYhO8ivcS5p9NLG6eQ
+    id: 6GJvPYhO8ivcS5p9NLG6eQ
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2730ca06df9b851d33232e48fde
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e020ca06df9b851d33232e48fde
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048510ca06df9b851d33232e48fde
+      width: 64
+    is_playable: true
+    name: Audio 002
+    release_date: '2023-04-19'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:6GJvPYhO8ivcS5p9NLG6eQ
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco
+    href: https://api.spotify.com/v1/artists/651bTRrM7AWeYldvSxdHco
+    id: 651bTRrM7AWeYldvSxdHco
+    name: Next To Blue
+    type: artist
+    uri: spotify:artist:651bTRrM7AWeYldvSxdHco
+  available_markets: []
+  disc_number: 1
+  duration_ms: 66666
+  explicit: false
+  external_ids:
+    isrc: CA5KR2341696
+  external_urls:
+    spotify: https://open.spotify.com/track/0k6uhJ9XEn1c1qqU2WxL59
+  href: https://api.spotify.com/v1/tracks/0k6uhJ9XEn1c1qqU2WxL59
+  id: 0k6uhJ9XEn1c1qqU2WxL59
+  is_local: false
+  is_playable: true
+  name: Audio 002
+  popularity: 1
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:0k6uhJ9XEn1c1qqU2WxL59
+spotify_url: https://open.spotify.com/track/0k6uhJ9XEn1c1qqU2WxL59
+title: Audio 002

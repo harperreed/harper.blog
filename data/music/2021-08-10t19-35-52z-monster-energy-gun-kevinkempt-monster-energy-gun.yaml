@@ -1,0 +1,68 @@
+added_at: '2021-08-10T19:35:52Z'
+album: MONSTER ENERGY GUN!
+album_image: https://i.scdn.co/image/ab67616d0000b273a8b62ca4a7603ea2c25a74f1
+artist: KevinKempt
+duration_ms: 140800
+id: 06gYMq6RAEHnSYnkrppYBp
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/5rW6rpuV2MZfke72uiQe8a
+      href: https://api.spotify.com/v1/artists/5rW6rpuV2MZfke72uiQe8a
+      id: 5rW6rpuV2MZfke72uiQe8a
+      name: KevinKempt
+      type: artist
+      uri: spotify:artist:5rW6rpuV2MZfke72uiQe8a
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/7LVCsvRVtwY6zus74Qkkfv
+    href: https://api.spotify.com/v1/albums/7LVCsvRVtwY6zus74Qkkfv
+    id: 7LVCsvRVtwY6zus74Qkkfv
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273a8b62ca4a7603ea2c25a74f1
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02a8b62ca4a7603ea2c25a74f1
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851a8b62ca4a7603ea2c25a74f1
+      width: 64
+    is_playable: true
+    name: MONSTER ENERGY GUN!
+    release_date: '2020-08-08'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:7LVCsvRVtwY6zus74Qkkfv
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/5rW6rpuV2MZfke72uiQe8a
+    href: https://api.spotify.com/v1/artists/5rW6rpuV2MZfke72uiQe8a
+    id: 5rW6rpuV2MZfke72uiQe8a
+    name: KevinKempt
+    type: artist
+    uri: spotify:artist:5rW6rpuV2MZfke72uiQe8a
+  available_markets: []
+  disc_number: 1
+  duration_ms: 140800
+  explicit: false
+  external_ids:
+    isrc: QZK6N2006925
+  external_urls:
+    spotify: https://open.spotify.com/track/06gYMq6RAEHnSYnkrppYBp
+  href: https://api.spotify.com/v1/tracks/06gYMq6RAEHnSYnkrppYBp
+  id: 06gYMq6RAEHnSYnkrppYBp
+  is_local: false
+  is_playable: true
+  name: MONSTER ENERGY GUN!
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:06gYMq6RAEHnSYnkrppYBp
+spotify_url: https://open.spotify.com/track/06gYMq6RAEHnSYnkrppYBp
+title: MONSTER ENERGY GUN!

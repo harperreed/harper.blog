@@ -1,0 +1,68 @@
+added_at: '2024-05-17T21:53:29Z'
+album: The Madman's Return
+album_image: https://i.scdn.co/image/ab67616d0000b273f2bb243604066dc0b62b66a1
+artist: SNAP!
+duration_ms: 332229
+id: 1IWzfq3sLedGQ3fb2hAMBA
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx
+      href: https://api.spotify.com/v1/artists/2FrKQPjJe4pVMZOgm0ESOx
+      id: 2FrKQPjJe4pVMZOgm0ESOx
+      name: SNAP!
+      type: artist
+      uri: spotify:artist:2FrKQPjJe4pVMZOgm0ESOx
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/2TrNT4qm7qDIRTUVn9jBW4
+    href: https://api.spotify.com/v1/albums/2TrNT4qm7qDIRTUVn9jBW4
+    id: 2TrNT4qm7qDIRTUVn9jBW4
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273f2bb243604066dc0b62b66a1
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02f2bb243604066dc0b62b66a1
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851f2bb243604066dc0b62b66a1
+      width: 64
+    is_playable: true
+    name: The Madman's Return
+    release_date: '1992-01-01'
+    release_date_precision: day
+    total_tracks: 14
+    type: album
+    uri: spotify:album:2TrNT4qm7qDIRTUVn9jBW4
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx
+    href: https://api.spotify.com/v1/artists/2FrKQPjJe4pVMZOgm0ESOx
+    id: 2FrKQPjJe4pVMZOgm0ESOx
+    name: SNAP!
+    type: artist
+    uri: spotify:artist:2FrKQPjJe4pVMZOgm0ESOx
+  available_markets: []
+  disc_number: 1
+  duration_ms: 332229
+  explicit: false
+  external_ids:
+    isrc: DET189200600
+  external_urls:
+    spotify: https://open.spotify.com/track/1IWzfq3sLedGQ3fb2hAMBA
+  href: https://api.spotify.com/v1/tracks/1IWzfq3sLedGQ3fb2hAMBA
+  id: 1IWzfq3sLedGQ3fb2hAMBA
+  is_local: false
+  is_playable: true
+  name: Rhythm Is A Dancer
+  popularity: 4
+  preview_url: null
+  track_number: 6
+  type: track
+  uri: spotify:track:1IWzfq3sLedGQ3fb2hAMBA
+spotify_url: https://open.spotify.com/track/1IWzfq3sLedGQ3fb2hAMBA
+title: Rhythm Is A Dancer

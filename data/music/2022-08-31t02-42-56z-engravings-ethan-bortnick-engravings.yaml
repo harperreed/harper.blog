@@ -1,0 +1,68 @@
+added_at: '2022-08-31T02:42:56Z'
+album: engravings
+album_image: https://i.scdn.co/image/ab67616d0000b27317b049a4a38194672655a852
+artist: Ethan Bortnick
+duration_ms: 173466
+id: 4u5CfuAGAHNYDIHSSW7BiY
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY
+      href: https://api.spotify.com/v1/artists/0LyP0Zn0mXLb65AgGOS6EY
+      id: 0LyP0Zn0mXLb65AgGOS6EY
+      name: Ethan Bortnick
+      type: artist
+      uri: spotify:artist:0LyP0Zn0mXLb65AgGOS6EY
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w
+    href: https://api.spotify.com/v1/albums/2SbLcM1nwlKO76evmEuX6w
+    id: 2SbLcM1nwlKO76evmEuX6w
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b27317b049a4a38194672655a852
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e0217b049a4a38194672655a852
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d0000485117b049a4a38194672655a852
+      width: 64
+    is_playable: true
+    name: engravings
+    release_date: '2022-06-24'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:2SbLcM1nwlKO76evmEuX6w
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY
+    href: https://api.spotify.com/v1/artists/0LyP0Zn0mXLb65AgGOS6EY
+    id: 0LyP0Zn0mXLb65AgGOS6EY
+    name: Ethan Bortnick
+    type: artist
+    uri: spotify:artist:0LyP0Zn0mXLb65AgGOS6EY
+  available_markets: []
+  disc_number: 1
+  duration_ms: 173466
+  explicit: true
+  external_ids:
+    isrc: USSM12205932
+  external_urls:
+    spotify: https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY
+  href: https://api.spotify.com/v1/tracks/4u5CfuAGAHNYDIHSSW7BiY
+  id: 4u5CfuAGAHNYDIHSSW7BiY
+  is_local: false
+  is_playable: true
+  name: engravings
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:4u5CfuAGAHNYDIHSSW7BiY
+spotify_url: https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY
+title: engravings

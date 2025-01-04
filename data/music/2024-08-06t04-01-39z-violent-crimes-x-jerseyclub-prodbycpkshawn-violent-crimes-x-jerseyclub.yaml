@@ -1,0 +1,68 @@
+added_at: '2024-08-06T04:01:39Z'
+album: Violent Crimes x jerseyclub
+album_image: https://i.scdn.co/image/ab67616d0000b27394e60806bf22b1aa03fdabb9
+artist: prodbycpkshawn
+duration_ms: 117375
+id: 4Smwjevj6kLCEntc890pmC
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z
+      href: https://api.spotify.com/v1/artists/4lSMHN0hTQWFJchmKwHE7Z
+      id: 4lSMHN0hTQWFJchmKwHE7Z
+      name: prodbycpkshawn
+      type: artist
+      uri: spotify:artist:4lSMHN0hTQWFJchmKwHE7Z
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/2BnlkeT8jXo738QMR8Tt0l
+    href: https://api.spotify.com/v1/albums/2BnlkeT8jXo738QMR8Tt0l
+    id: 2BnlkeT8jXo738QMR8Tt0l
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b27394e60806bf22b1aa03fdabb9
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e0294e60806bf22b1aa03fdabb9
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d0000485194e60806bf22b1aa03fdabb9
+      width: 64
+    is_playable: true
+    name: Violent Crimes x jerseyclub
+    release_date: '2024-06-28'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:2BnlkeT8jXo738QMR8Tt0l
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z
+    href: https://api.spotify.com/v1/artists/4lSMHN0hTQWFJchmKwHE7Z
+    id: 4lSMHN0hTQWFJchmKwHE7Z
+    name: prodbycpkshawn
+    type: artist
+    uri: spotify:artist:4lSMHN0hTQWFJchmKwHE7Z
+  available_markets: []
+  disc_number: 1
+  duration_ms: 117375
+  explicit: false
+  external_ids:
+    isrc: QZNWZ2498339
+  external_urls:
+    spotify: https://open.spotify.com/track/4Smwjevj6kLCEntc890pmC
+  href: https://api.spotify.com/v1/tracks/4Smwjevj6kLCEntc890pmC
+  id: 4Smwjevj6kLCEntc890pmC
+  is_local: false
+  is_playable: true
+  name: Violent Crimes x jerseyclub
+  popularity: 9
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:4Smwjevj6kLCEntc890pmC
+spotify_url: https://open.spotify.com/track/4Smwjevj6kLCEntc890pmC
+title: Violent Crimes x jerseyclub

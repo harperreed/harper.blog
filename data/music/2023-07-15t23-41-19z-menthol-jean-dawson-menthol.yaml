@@ -1,0 +1,79 @@
+added_at: '2023-07-15T23:41:19Z'
+album: MENTHOL*
+album_image: https://i.scdn.co/image/ab67616d0000b2735b3a234fa8744ddac69d5ad5
+artist: Jean Dawson
+duration_ms: 187106
+id: 72rEOdEzgGc81Gos5dD0Je
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP
+      href: https://api.spotify.com/v1/artists/7vNNmjV14SKQzlQAEg0BXP
+      id: 7vNNmjV14SKQzlQAEg0BXP
+      name: Jean Dawson
+      type: artist
+      uri: spotify:artist:7vNNmjV14SKQzlQAEg0BXP
+    available_markets:
+    - AU
+    - NZ
+    external_urls:
+      spotify: https://open.spotify.com/album/4fdI8lc6iPhJrsNi7pBgPl
+    href: https://api.spotify.com/v1/albums/4fdI8lc6iPhJrsNi7pBgPl
+    id: 4fdI8lc6iPhJrsNi7pBgPl
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2735b3a234fa8744ddac69d5ad5
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e025b3a234fa8744ddac69d5ad5
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048515b3a234fa8744ddac69d5ad5
+      width: 64
+    is_playable: true
+    name: MENTHOL*
+    release_date: '2021-12-10'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:4fdI8lc6iPhJrsNi7pBgPl
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP
+    href: https://api.spotify.com/v1/artists/7vNNmjV14SKQzlQAEg0BXP
+    id: 7vNNmjV14SKQzlQAEg0BXP
+    name: Jean Dawson
+    type: artist
+    uri: spotify:artist:7vNNmjV14SKQzlQAEg0BXP
+  - external_urls:
+      spotify: https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM
+    href: https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM
+    id: 3Sz7ZnJQBIHsXLUSo0OQtM
+    name: Mac DeMarco
+    type: artist
+    uri: spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM
+  available_markets:
+  - AU
+  - NZ
+  disc_number: 1
+  duration_ms: 187106
+  explicit: true
+  external_ids:
+    isrc: QZ9H32100077
+  external_urls:
+    spotify: https://open.spotify.com/track/72rEOdEzgGc81Gos5dD0Je
+  href: https://api.spotify.com/v1/tracks/72rEOdEzgGc81Gos5dD0Je
+  id: 72rEOdEzgGc81Gos5dD0Je
+  is_local: false
+  is_playable: true
+  name: MENTHOL*
+  popularity: 30
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:72rEOdEzgGc81Gos5dD0Je
+spotify_url: https://open.spotify.com/track/72rEOdEzgGc81Gos5dD0Je
+title: MENTHOL*

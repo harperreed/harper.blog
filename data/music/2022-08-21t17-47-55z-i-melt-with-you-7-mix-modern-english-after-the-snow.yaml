@@ -1,0 +1,74 @@
+added_at: '2022-08-21T17:47:55Z'
+album: After the Snow
+album_image: https://i.scdn.co/image/ab67616d0000b273277f9005d9c9475965086560
+artist: Modern English
+duration_ms: 230066
+id: 24y09nBEJNRP46uA0FRQQ2
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF
+      href: https://api.spotify.com/v1/artists/0fYPQBOx0vsRMmjUba9HgF
+      id: 0fYPQBOx0vsRMmjUba9HgF
+      name: Modern English
+      type: artist
+      uri: spotify:artist:0fYPQBOx0vsRMmjUba9HgF
+    available_markets:
+    - MH
+    - PR
+    - US
+    external_urls:
+      spotify: https://open.spotify.com/album/4vRPqgP624nl5Nupi3AxzZ
+    href: https://api.spotify.com/v1/albums/4vRPqgP624nl5Nupi3AxzZ
+    id: 4vRPqgP624nl5Nupi3AxzZ
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273277f9005d9c9475965086560
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02277f9005d9c9475965086560
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851277f9005d9c9475965086560
+      width: 64
+    is_playable: true
+    name: After the Snow
+    release_date: '1982-01-25'
+    release_date_precision: day
+    total_tracks: 14
+    type: album
+    uri: spotify:album:4vRPqgP624nl5Nupi3AxzZ
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF
+    href: https://api.spotify.com/v1/artists/0fYPQBOx0vsRMmjUba9HgF
+    id: 0fYPQBOx0vsRMmjUba9HgF
+    name: Modern English
+    type: artist
+    uri: spotify:artist:0fYPQBOx0vsRMmjUba9HgF
+  available_markets:
+  - MH
+  - PR
+  - US
+  disc_number: 1
+  duration_ms: 230066
+  explicit: false
+  external_ids:
+    isrc: GBAFL8200042
+  external_urls:
+    spotify: https://open.spotify.com/track/24y09nBEJNRP46uA0FRQQ2
+  href: https://api.spotify.com/v1/tracks/24y09nBEJNRP46uA0FRQQ2
+  id: 24y09nBEJNRP46uA0FRQQ2
+  is_local: false
+  is_playable: true
+  name: I Melt with You (7" Mix)
+  popularity: 45
+  preview_url: null
+  track_number: 11
+  type: track
+  uri: spotify:track:24y09nBEJNRP46uA0FRQQ2
+spotify_url: https://open.spotify.com/track/24y09nBEJNRP46uA0FRQQ2
+title: I Melt with You (7" Mix)

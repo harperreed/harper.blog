@@ -1,0 +1,82 @@
+added_at: '2022-09-21T23:58:42Z'
+album: Bangers & Cash
+album_image: https://i.scdn.co/image/ab67616d0000b2735fb673de039c587aec17e85f
+artist: benny blanco
+duration_ms: 186026
+id: 6QX4KBRfnmuYPE3jvAprIy
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2
+      href: https://api.spotify.com/v1/artists/1LcLsIWOl1Z8vo1wl6bxg2
+      id: 1LcLsIWOl1Z8vo1wl6bxg2
+      name: Spank Rock
+      type: artist
+      uri: spotify:artist:1LcLsIWOl1Z8vo1wl6bxg2
+    - external_urls:
+        spotify: https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa
+      href: https://api.spotify.com/v1/artists/5CiGnKThu5ctn9pBxv7DGa
+      id: 5CiGnKThu5ctn9pBxv7DGa
+      name: benny blanco
+      type: artist
+      uri: spotify:artist:5CiGnKThu5ctn9pBxv7DGa
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/5F5bHlhgLVeymIzVh9qlgU
+    href: https://api.spotify.com/v1/albums/5F5bHlhgLVeymIzVh9qlgU
+    id: 5F5bHlhgLVeymIzVh9qlgU
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2735fb673de039c587aec17e85f
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e025fb673de039c587aec17e85f
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048515fb673de039c587aec17e85f
+      width: 64
+    is_playable: true
+    name: Bangers & Cash
+    release_date: '2007-10-01'
+    release_date_precision: day
+    total_tracks: 5
+    type: album
+    uri: spotify:album:5F5bHlhgLVeymIzVh9qlgU
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa
+    href: https://api.spotify.com/v1/artists/5CiGnKThu5ctn9pBxv7DGa
+    id: 5CiGnKThu5ctn9pBxv7DGa
+    name: benny blanco
+    type: artist
+    uri: spotify:artist:5CiGnKThu5ctn9pBxv7DGa
+  - external_urls:
+      spotify: https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2
+    href: https://api.spotify.com/v1/artists/1LcLsIWOl1Z8vo1wl6bxg2
+    id: 1LcLsIWOl1Z8vo1wl6bxg2
+    name: Spank Rock
+    type: artist
+    uri: spotify:artist:1LcLsIWOl1Z8vo1wl6bxg2
+  available_markets: []
+  disc_number: 1
+  duration_ms: 186026
+  explicit: true
+  external_ids:
+    isrc: USCJ80600117
+  external_urls:
+    spotify: https://open.spotify.com/track/6QX4KBRfnmuYPE3jvAprIy
+  href: https://api.spotify.com/v1/tracks/6QX4KBRfnmuYPE3jvAprIy
+  id: 6QX4KBRfnmuYPE3jvAprIy
+  is_local: false
+  is_playable: true
+  name: Shake That
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:6QX4KBRfnmuYPE3jvAprIy
+spotify_url: https://open.spotify.com/track/6QX4KBRfnmuYPE3jvAprIy
+title: Shake That

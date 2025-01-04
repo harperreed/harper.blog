@@ -1,0 +1,72 @@
+added_at: '2022-01-27T03:53:06Z'
+album: Rather Ripped
+album_image: https://i.scdn.co/image/ab67616d0000b2732fe7a57d52c0e58f650fdc4e
+artist: Sonic Youth
+duration_ms: 295813
+id: 0lDoG5fQ9cmpvpenwR7Jln
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6
+      href: https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6
+      id: 5UqTO8smerMvxHYA5xsXb6
+      name: Sonic Youth
+      type: artist
+      uri: spotify:artist:5UqTO8smerMvxHYA5xsXb6
+    available_markets:
+    - CA
+    - US
+    external_urls:
+      spotify: https://open.spotify.com/album/706OL6kpsbf73LRdXD1dCB
+    href: https://api.spotify.com/v1/albums/706OL6kpsbf73LRdXD1dCB
+    id: 706OL6kpsbf73LRdXD1dCB
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2732fe7a57d52c0e58f650fdc4e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e022fe7a57d52c0e58f650fdc4e
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048512fe7a57d52c0e58f650fdc4e
+      width: 64
+    is_playable: true
+    name: Rather Ripped
+    release_date: '2006-01-01'
+    release_date_precision: day
+    total_tracks: 12
+    type: album
+    uri: spotify:album:706OL6kpsbf73LRdXD1dCB
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6
+    href: https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6
+    id: 5UqTO8smerMvxHYA5xsXb6
+    name: Sonic Youth
+    type: artist
+    uri: spotify:artist:5UqTO8smerMvxHYA5xsXb6
+  available_markets:
+  - CA
+  - US
+  disc_number: 1
+  duration_ms: 295813
+  explicit: false
+  external_ids:
+    isrc: USUM70602004
+  external_urls:
+    spotify: https://open.spotify.com/track/0lDoG5fQ9cmpvpenwR7Jln
+  href: https://api.spotify.com/v1/tracks/0lDoG5fQ9cmpvpenwR7Jln
+  id: 0lDoG5fQ9cmpvpenwR7Jln
+  is_local: false
+  is_playable: true
+  name: Incinerate
+  popularity: 50
+  preview_url: null
+  track_number: 2
+  type: track
+  uri: spotify:track:0lDoG5fQ9cmpvpenwR7Jln
+spotify_url: https://open.spotify.com/track/0lDoG5fQ9cmpvpenwR7Jln
+title: Incinerate

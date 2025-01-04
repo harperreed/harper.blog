@@ -1,0 +1,70 @@
+added_at: '2023-01-12T01:09:30Z'
+album: '#1EpicEP'
+album_image: https://i.scdn.co/image/ab67616d0000b273bc29f55ed4663c59e92bc535
+artist: DRAM
+duration_ms: 196680
+id: 6gzdIBcce0JIYaIURlMuUZ
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8
+      href: https://api.spotify.com/v1/artists/5M0lbkGluOPXLeFjApw8r8
+      id: 5M0lbkGluOPXLeFjApw8r8
+      name: DRAM
+      type: artist
+      uri: spotify:artist:5M0lbkGluOPXLeFjApw8r8
+    available_markets:
+    - US
+    external_urls:
+      spotify: https://open.spotify.com/album/2ulZfOND4JRQiNxK0wki4z
+    href: https://api.spotify.com/v1/albums/2ulZfOND4JRQiNxK0wki4z
+    id: 2ulZfOND4JRQiNxK0wki4z
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273bc29f55ed4663c59e92bc535
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02bc29f55ed4663c59e92bc535
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851bc29f55ed4663c59e92bc535
+      width: 64
+    is_playable: true
+    name: '#1EpicEP'
+    release_date: '2015-03-03'
+    release_date_precision: day
+    total_tracks: 8
+    type: album
+    uri: spotify:album:2ulZfOND4JRQiNxK0wki4z
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8
+    href: https://api.spotify.com/v1/artists/5M0lbkGluOPXLeFjApw8r8
+    id: 5M0lbkGluOPXLeFjApw8r8
+    name: DRAM
+    type: artist
+    uri: spotify:artist:5M0lbkGluOPXLeFjApw8r8
+  available_markets:
+  - US
+  disc_number: 1
+  duration_ms: 196680
+  explicit: true
+  external_ids:
+    isrc: USUYG1065786
+  external_urls:
+    spotify: https://open.spotify.com/track/6gzdIBcce0JIYaIURlMuUZ
+  href: https://api.spotify.com/v1/tracks/6gzdIBcce0JIYaIURlMuUZ
+  id: 6gzdIBcce0JIYaIURlMuUZ
+  is_local: false
+  is_playable: true
+  name: $
+  popularity: 10
+  preview_url: null
+  track_number: 4
+  type: track
+  uri: spotify:track:6gzdIBcce0JIYaIURlMuUZ
+spotify_url: https://open.spotify.com/track/6gzdIBcce0JIYaIURlMuUZ
+title: $
