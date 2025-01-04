@@ -1,6 +1,6 @@
-# 🚀 Harper's Blog
+# 📝 Harper Reed's Blog Repository
 
-Welcome to my personal blog repository! This project showcases my thoughts, experiences, and random musings on technology, politics, and everything in between. It's built using modern web technologies and static site generation techniques. 
+Welcome to my personal blog repository! This project showcases my thoughts, experiences, and random musings on technology, politics, and everything in between. It's built using modern web technologies and static site generation techniques.
 
 ## 📖 Summary of Project
 
@@ -12,6 +12,8 @@ The blog is powered by [Hugo](https://gohugo.io/), a fast and flexible static si
 - Markdown support for content creation
 - Responsive design for all devices
 - Integrated SEO features for better visibility
+
+---
 
 ## 🔧 How to Use
 
@@ -52,6 +54,8 @@ LINKS_RSS_URL=your_rss_feed_url_here
 LINKS_HUGO_CONTENT_DIR=your_hugo_content_directory_here
 ```
 
+---
+
 ## 🛠️ Tech Info
 
 - **Languages and Frameworks**: Hugo (Go)
@@ -74,9 +78,8 @@ LINKS_HUGO_CONTENT_DIR=your_hugo_content_directory_here
   ```
 
 - **Hosting**: The site is hosted on Netlify, allowing for continuous deployment and easy management.
-
 - **Version Control**: The project is maintained using Git, with a clear commit history to track changes over time.
 
-Feel free to explore and contribute! If you have any questions, please reach out to me at [harper@modest.com](mailto:harper@modest.com). 
+Feel free to explore and contribute! If you have any questions, please reach out to me at [harper@modest.com](mailto:harper@modest.com).
 
 Happy blogging! 🎉
