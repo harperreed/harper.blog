@@ -1,0 +1,68 @@
+added_at: '2023-06-29T23:44:24Z'
+album: MONTAGEM - PR FUNK
+album_image: https://i.scdn.co/image/ab67616d0000b273af25d41176f98f53ac617956
+artist: S3BZS
+duration_ms: 61673
+id: 6YC5ibtCMyXU1RQ1LkQLIn
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id
+      href: https://api.spotify.com/v1/artists/6zFMFB1JvNHkHvCSudF4id
+      id: 6zFMFB1JvNHkHvCSudF4id
+      name: S3BZS
+      type: artist
+      uri: spotify:artist:6zFMFB1JvNHkHvCSudF4id
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn
+    href: https://api.spotify.com/v1/albums/79gX4oNb3k71P2J0XjN2Bn
+    id: 79gX4oNb3k71P2J0XjN2Bn
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273af25d41176f98f53ac617956
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02af25d41176f98f53ac617956
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851af25d41176f98f53ac617956
+      width: 64
+    is_playable: true
+    name: MONTAGEM - PR FUNK
+    release_date: '2023-05-01'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:79gX4oNb3k71P2J0XjN2Bn
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id
+    href: https://api.spotify.com/v1/artists/6zFMFB1JvNHkHvCSudF4id
+    id: 6zFMFB1JvNHkHvCSudF4id
+    name: S3BZS
+    type: artist
+    uri: spotify:artist:6zFMFB1JvNHkHvCSudF4id
+  available_markets: []
+  disc_number: 1
+  duration_ms: 61673
+  explicit: false
+  external_ids:
+    isrc: QZK6Q2360479
+  external_urls:
+    spotify: https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn
+  href: https://api.spotify.com/v1/tracks/6YC5ibtCMyXU1RQ1LkQLIn
+  id: 6YC5ibtCMyXU1RQ1LkQLIn
+  is_local: false
+  is_playable: true
+  name: MONTAGEM - PR FUNK
+  popularity: 1
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:6YC5ibtCMyXU1RQ1LkQLIn
+spotify_url: https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn
+title: MONTAGEM - PR FUNK

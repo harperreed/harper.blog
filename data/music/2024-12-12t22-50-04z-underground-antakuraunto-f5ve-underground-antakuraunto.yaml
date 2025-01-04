@@ -1,0 +1,108 @@
+added_at: '2024-12-12T22:50:04Z'
+album: "Underground \u2022 \u30A2\u30F3\u30C0\u30FC\u30B0\u30E9\u30A6\u30F3\u30C9"
+album_image: https://i.scdn.co/image/ab67616d0000b273679426c8bde5578660016438
+artist: f5ve
+duration_ms: 141782
+id: 5st7fSQE9kxzN4ZWzJYEYw
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy
+      href: https://api.spotify.com/v1/artists/6aiCF0pornq0j11wvKG4dy
+      id: 6aiCF0pornq0j11wvKG4dy
+      name: f5ve
+      type: artist
+      uri: spotify:artist:6aiCF0pornq0j11wvKG4dy
+    available_markets:
+    - BD
+    - BN
+    - BT
+    - ID
+    - IN
+    - JP
+    - KH
+    - KR
+    - LA
+    - LK
+    - MN
+    - MV
+    - MY
+    - NP
+    - PH
+    - PK
+    - SG
+    - TH
+    - TW
+    - VN
+    external_urls:
+      spotify: https://open.spotify.com/album/2iYPT5fQ3BFnlJNhfj46c1
+    href: https://api.spotify.com/v1/albums/2iYPT5fQ3BFnlJNhfj46c1
+    id: 2iYPT5fQ3BFnlJNhfj46c1
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273679426c8bde5578660016438
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02679426c8bde5578660016438
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851679426c8bde5578660016438
+      width: 64
+    is_playable: true
+    name: "Underground \u2022 \u30A2\u30F3\u30C0\u30FC\u30B0\u30E9\u30A6\u30F3\u30C9"
+    release_date: '2024-07-12'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:2iYPT5fQ3BFnlJNhfj46c1
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy
+    href: https://api.spotify.com/v1/artists/6aiCF0pornq0j11wvKG4dy
+    id: 6aiCF0pornq0j11wvKG4dy
+    name: f5ve
+    type: artist
+    uri: spotify:artist:6aiCF0pornq0j11wvKG4dy
+  available_markets:
+  - BD
+  - BN
+  - BT
+  - ID
+  - IN
+  - JP
+  - KH
+  - KR
+  - LA
+  - LK
+  - MN
+  - MV
+  - MY
+  - NP
+  - PH
+  - PK
+  - SG
+  - TH
+  - TW
+  - VN
+  disc_number: 1
+  duration_ms: 141782
+  explicit: false
+  external_ids:
+    isrc: QZQAY2461870
+  external_urls:
+    spotify: https://open.spotify.com/track/5st7fSQE9kxzN4ZWzJYEYw
+  href: https://api.spotify.com/v1/tracks/5st7fSQE9kxzN4ZWzJYEYw
+  id: 5st7fSQE9kxzN4ZWzJYEYw
+  is_local: false
+  is_playable: true
+  name: "Underground \u2022 \u30A2\u30F3\u30C0\u30FC\u30B0\u30E9\u30A6\u30F3\u30C9"
+  popularity: 43
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:5st7fSQE9kxzN4ZWzJYEYw
+spotify_url: https://open.spotify.com/track/5st7fSQE9kxzN4ZWzJYEYw
+title: "Underground \u2022 \u30A2\u30F3\u30C0\u30FC\u30B0\u30E9\u30A6\u30F3\u30C9"

@@ -1,0 +1,68 @@
+added_at: '2022-08-21T17:50:46Z'
+album: All The Rage
+album_image: https://i.scdn.co/image/ab67616d0000b273f06a9f1c0184c9e6290d3d39
+artist: General Public
+duration_ms: 218160
+id: 7cRWPAHuHQ36agbu6Empc8
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/6BZbe6PDrJgxiXZ3cIXA8o
+      href: https://api.spotify.com/v1/artists/6BZbe6PDrJgxiXZ3cIXA8o
+      id: 6BZbe6PDrJgxiXZ3cIXA8o
+      name: General Public
+      type: artist
+      uri: spotify:artist:6BZbe6PDrJgxiXZ3cIXA8o
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/1tbMiM0wZgFdEVnJxwQGun
+    href: https://api.spotify.com/v1/albums/1tbMiM0wZgFdEVnJxwQGun
+    id: 1tbMiM0wZgFdEVnJxwQGun
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273f06a9f1c0184c9e6290d3d39
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02f06a9f1c0184c9e6290d3d39
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851f06a9f1c0184c9e6290d3d39
+      width: 64
+    is_playable: true
+    name: All The Rage
+    release_date: '2012-01-01'
+    release_date_precision: day
+    total_tracks: 10
+    type: album
+    uri: spotify:album:1tbMiM0wZgFdEVnJxwQGun
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/6BZbe6PDrJgxiXZ3cIXA8o
+    href: https://api.spotify.com/v1/artists/6BZbe6PDrJgxiXZ3cIXA8o
+    id: 6BZbe6PDrJgxiXZ3cIXA8o
+    name: General Public
+    type: artist
+    uri: spotify:artist:6BZbe6PDrJgxiXZ3cIXA8o
+  available_markets: []
+  disc_number: 1
+  duration_ms: 218160
+  explicit: false
+  external_ids:
+    isrc: USSE91232758
+  external_urls:
+    spotify: https://open.spotify.com/track/7cRWPAHuHQ36agbu6Empc8
+  href: https://api.spotify.com/v1/tracks/7cRWPAHuHQ36agbu6Empc8
+  id: 7cRWPAHuHQ36agbu6Empc8
+  is_local: false
+  is_playable: true
+  name: Tenderness
+  popularity: 0
+  preview_url: null
+  track_number: 2
+  type: track
+  uri: spotify:track:7cRWPAHuHQ36agbu6Empc8
+spotify_url: https://open.spotify.com/track/7cRWPAHuHQ36agbu6Empc8
+title: Tenderness

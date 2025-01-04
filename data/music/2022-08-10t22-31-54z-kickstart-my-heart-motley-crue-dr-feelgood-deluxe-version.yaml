@@ -1,0 +1,68 @@
+added_at: '2022-08-10T22:31:54Z'
+album: Dr. Feelgood (Deluxe Version)
+album_image: https://i.scdn.co/image/ab67616d0000b27357338231dc4a85d5aed03186
+artist: "M\xF6tley Cr\xFCe"
+duration_ms: 284026
+id: 6imjJij6aCM0IbbODUzJQn
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL
+      href: https://api.spotify.com/v1/artists/0cc6vw3VN8YlIcvr1v7tBL
+      id: 0cc6vw3VN8YlIcvr1v7tBL
+      name: "M\xF6tley Cr\xFCe"
+      type: artist
+      uri: spotify:artist:0cc6vw3VN8YlIcvr1v7tBL
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD
+    href: https://api.spotify.com/v1/albums/23krn1eEy7o3u9laLI1PLD
+    id: 23krn1eEy7o3u9laLI1PLD
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b27357338231dc4a85d5aed03186
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e0257338231dc4a85d5aed03186
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d0000485157338231dc4a85d5aed03186
+      width: 64
+    is_playable: true
+    name: Dr. Feelgood (Deluxe Version)
+    release_date: '1989-09-01'
+    release_date_precision: day
+    total_tracks: 16
+    type: album
+    uri: spotify:album:23krn1eEy7o3u9laLI1PLD
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL
+    href: https://api.spotify.com/v1/artists/0cc6vw3VN8YlIcvr1v7tBL
+    id: 0cc6vw3VN8YlIcvr1v7tBL
+    name: "M\xF6tley Cr\xFCe"
+    type: artist
+    uri: spotify:artist:0cc6vw3VN8YlIcvr1v7tBL
+  available_markets: []
+  disc_number: 1
+  duration_ms: 284026
+  explicit: false
+  external_ids:
+    isrc: USBY29900215
+  external_urls:
+    spotify: https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn
+  href: https://api.spotify.com/v1/tracks/6imjJij6aCM0IbbODUzJQn
+  id: 6imjJij6aCM0IbbODUzJQn
+  is_local: false
+  is_playable: true
+  name: Kickstart My Heart
+  popularity: 9
+  preview_url: null
+  track_number: 5
+  type: track
+  uri: spotify:track:6imjJij6aCM0IbbODUzJQn
+spotify_url: https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn
+title: Kickstart My Heart

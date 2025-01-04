@@ -1,0 +1,68 @@
+added_at: '2024-01-05T23:40:15Z'
+album: tbh i dont like being social
+album_image: https://i.scdn.co/image/ab67616d0000b273cc3483e017f95ff3ed75e039
+artist: luvlxckdown
+duration_ms: 135529
+id: 2N9fiSiVyPRCqMVGQiLUVr
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/5gchr4NRAbDOgdPcjUITGz
+      href: https://api.spotify.com/v1/artists/5gchr4NRAbDOgdPcjUITGz
+      id: 5gchr4NRAbDOgdPcjUITGz
+      name: luvlxckdown
+      type: artist
+      uri: spotify:artist:5gchr4NRAbDOgdPcjUITGz
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/5cHGXf6nIqWYL3DodZlNkq
+    href: https://api.spotify.com/v1/albums/5cHGXf6nIqWYL3DodZlNkq
+    id: 5cHGXf6nIqWYL3DodZlNkq
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273cc3483e017f95ff3ed75e039
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02cc3483e017f95ff3ed75e039
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851cc3483e017f95ff3ed75e039
+      width: 64
+    is_playable: true
+    name: tbh i dont like being social
+    release_date: '2020-10-16'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:5cHGXf6nIqWYL3DodZlNkq
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/5gchr4NRAbDOgdPcjUITGz
+    href: https://api.spotify.com/v1/artists/5gchr4NRAbDOgdPcjUITGz
+    id: 5gchr4NRAbDOgdPcjUITGz
+    name: luvlxckdown
+    type: artist
+    uri: spotify:artist:5gchr4NRAbDOgdPcjUITGz
+  available_markets: []
+  disc_number: 1
+  duration_ms: 135529
+  explicit: true
+  external_ids:
+    isrc: QZMHL2032679
+  external_urls:
+    spotify: https://open.spotify.com/track/2N9fiSiVyPRCqMVGQiLUVr
+  href: https://api.spotify.com/v1/tracks/2N9fiSiVyPRCqMVGQiLUVr
+  id: 2N9fiSiVyPRCqMVGQiLUVr
+  is_local: false
+  is_playable: true
+  name: tbh i dont like being social
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:2N9fiSiVyPRCqMVGQiLUVr
+spotify_url: https://open.spotify.com/track/2N9fiSiVyPRCqMVGQiLUVr
+title: tbh i dont like being social

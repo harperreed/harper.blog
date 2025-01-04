@@ -1,0 +1,70 @@
+added_at: '2024-04-13T15:01:00Z'
+album: "\u30AE\u30B6\u30AE\u30B6\u30CF\u30FC\u30C8\u306E\u5B50\u5B88\u5504"
+album_image: https://i.scdn.co/image/ab67616d0000b27382d9cc2530ee6cb694ee965a
+artist: The Checkers
+duration_ms: 176560
+id: 2iCmi85cq1crvP1akxIl91
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/5lA50TmLEmo7BkEYBu7hS1
+      href: https://api.spotify.com/v1/artists/5lA50TmLEmo7BkEYBu7hS1
+      id: 5lA50TmLEmo7BkEYBu7hS1
+      name: The Checkers
+      type: artist
+      uri: spotify:artist:5lA50TmLEmo7BkEYBu7hS1
+    available_markets:
+    - JP
+    external_urls:
+      spotify: https://open.spotify.com/album/033SWqVtPGliBM1FFNJSi8
+    href: https://api.spotify.com/v1/albums/033SWqVtPGliBM1FFNJSi8
+    id: 033SWqVtPGliBM1FFNJSi8
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b27382d9cc2530ee6cb694ee965a
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e0282d9cc2530ee6cb694ee965a
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d0000485182d9cc2530ee6cb694ee965a
+      width: 64
+    is_playable: true
+    name: "\u30AE\u30B6\u30AE\u30B6\u30CF\u30FC\u30C8\u306E\u5B50\u5B88\u5504"
+    release_date: '1983-09-01'
+    release_date_precision: day
+    total_tracks: 2
+    type: album
+    uri: spotify:album:033SWqVtPGliBM1FFNJSi8
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/5lA50TmLEmo7BkEYBu7hS1
+    href: https://api.spotify.com/v1/artists/5lA50TmLEmo7BkEYBu7hS1
+    id: 5lA50TmLEmo7BkEYBu7hS1
+    name: The Checkers
+    type: artist
+    uri: spotify:artist:5lA50TmLEmo7BkEYBu7hS1
+  available_markets:
+  - JP
+  disc_number: 1
+  duration_ms: 176560
+  explicit: false
+  external_ids:
+    isrc: JPPC08300440
+  external_urls:
+    spotify: https://open.spotify.com/track/2iCmi85cq1crvP1akxIl91
+  href: https://api.spotify.com/v1/tracks/2iCmi85cq1crvP1akxIl91
+  id: 2iCmi85cq1crvP1akxIl91
+  is_local: false
+  is_playable: true
+  name: "\u30AE\u30B6\u30AE\u30B6\u30CF\u30FC\u30C8\u306E\u5B50\u5B88\u5504"
+  popularity: 47
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:2iCmi85cq1crvP1akxIl91
+spotify_url: https://open.spotify.com/track/2iCmi85cq1crvP1akxIl91
+title: "\u30AE\u30B6\u30AE\u30B6\u30CF\u30FC\u30C8\u306E\u5B50\u5B88\u5504"

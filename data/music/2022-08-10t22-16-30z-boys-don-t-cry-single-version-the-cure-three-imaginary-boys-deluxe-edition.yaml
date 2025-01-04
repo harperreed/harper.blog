@@ -1,0 +1,72 @@
+added_at: '2022-08-10T22:16:30Z'
+album: Three Imaginary Boys (Deluxe Edition)
+album_image: https://i.scdn.co/image/ab67616d0000b2735d0d65102be8606e439e54cc
+artist: The Cure
+duration_ms: 157533
+id: 4dneV7C1yDt9UtyxrQY375
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+      href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+      id: 7bu3H8JO7d0UbMoVzbo70s
+      name: The Cure
+      type: artist
+      uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+    available_markets:
+    - CA
+    - US
+    external_urls:
+      spotify: https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC
+    href: https://api.spotify.com/v1/albums/7gPql7GFpBMOxeO80vMMsC
+    id: 7gPql7GFpBMOxeO80vMMsC
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2735d0d65102be8606e439e54cc
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e025d0d65102be8606e439e54cc
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048515d0d65102be8606e439e54cc
+      width: 64
+    is_playable: true
+    name: Three Imaginary Boys (Deluxe Edition)
+    release_date: '1979-05-11'
+    release_date_precision: day
+    total_tracks: 33
+    type: album
+    uri: spotify:album:7gPql7GFpBMOxeO80vMMsC
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+    href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+    id: 7bu3H8JO7d0UbMoVzbo70s
+    name: The Cure
+    type: artist
+    uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+  available_markets:
+  - CA
+  - US
+  disc_number: 1
+  duration_ms: 157533
+  explicit: false
+  external_ids:
+    isrc: USEE10413404
+  external_urls:
+    spotify: https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375
+  href: https://api.spotify.com/v1/tracks/4dneV7C1yDt9UtyxrQY375
+  id: 4dneV7C1yDt9UtyxrQY375
+  is_local: false
+  is_playable: true
+  name: Boys Don't Cry - Single Version
+  popularity: 65
+  preview_url: null
+  track_number: 29
+  type: track
+  uri: spotify:track:4dneV7C1yDt9UtyxrQY375
+spotify_url: https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375
+title: Boys Don't Cry - Single Version

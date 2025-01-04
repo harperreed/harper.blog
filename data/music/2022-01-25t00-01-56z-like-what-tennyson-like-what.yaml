@@ -1,0 +1,68 @@
+added_at: '2022-01-25T00:01:56Z'
+album: Like What
+album_image: https://i.scdn.co/image/ab67616d0000b273c9ff10f5616d6415f218151e
+artist: Tennyson
+duration_ms: 227149
+id: 0R2wdhXnJPLAMIw3e2SZER
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8
+      href: https://api.spotify.com/v1/artists/3Nb8N20WChM0swo5qWTvm8
+      id: 3Nb8N20WChM0swo5qWTvm8
+      name: Tennyson
+      type: artist
+      uri: spotify:artist:3Nb8N20WChM0swo5qWTvm8
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/5GKQPXAiOl3ICc3CzSCy2v
+    href: https://api.spotify.com/v1/albums/5GKQPXAiOl3ICc3CzSCy2v
+    id: 5GKQPXAiOl3ICc3CzSCy2v
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273c9ff10f5616d6415f218151e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02c9ff10f5616d6415f218151e
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851c9ff10f5616d6415f218151e
+      width: 64
+    is_playable: true
+    name: Like What
+    release_date: '2015-12-04'
+    release_date_precision: day
+    total_tracks: 6
+    type: album
+    uri: spotify:album:5GKQPXAiOl3ICc3CzSCy2v
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8
+    href: https://api.spotify.com/v1/artists/3Nb8N20WChM0swo5qWTvm8
+    id: 3Nb8N20WChM0swo5qWTvm8
+    name: Tennyson
+    type: artist
+    uri: spotify:artist:3Nb8N20WChM0swo5qWTvm8
+  available_markets: []
+  disc_number: 1
+  duration_ms: 227149
+  explicit: false
+  external_ids:
+    isrc: CAL451568301
+  external_urls:
+    spotify: https://open.spotify.com/track/0R2wdhXnJPLAMIw3e2SZER
+  href: https://api.spotify.com/v1/tracks/0R2wdhXnJPLAMIw3e2SZER
+  id: 0R2wdhXnJPLAMIw3e2SZER
+  is_local: false
+  is_playable: true
+  name: Like What
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:0R2wdhXnJPLAMIw3e2SZER
+spotify_url: https://open.spotify.com/track/0R2wdhXnJPLAMIw3e2SZER
+title: Like What

@@ -1,0 +1,68 @@
+added_at: '2024-01-05T22:43:50Z'
+album: GFOTYBUCKS
+album_image: https://i.scdn.co/image/ab67616d0000b2733002fbbff1d61ea5946ef613
+artist: GFOTY
+duration_ms: 166188
+id: 4LfWeKowS033BhD9WaNHXj
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC
+      href: https://api.spotify.com/v1/artists/3FPflECmvkrze212dLPRSC
+      id: 3FPflECmvkrze212dLPRSC
+      name: GFOTY
+      type: artist
+      uri: spotify:artist:3FPflECmvkrze212dLPRSC
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/6tWzE9TtF39kOmc7JmfcQM
+    href: https://api.spotify.com/v1/albums/6tWzE9TtF39kOmc7JmfcQM
+    id: 6tWzE9TtF39kOmc7JmfcQM
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2733002fbbff1d61ea5946ef613
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e023002fbbff1d61ea5946ef613
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048513002fbbff1d61ea5946ef613
+      width: 64
+    is_playable: true
+    name: GFOTYBUCKS
+    release_date: '2017-11-17'
+    release_date_precision: day
+    total_tracks: 19
+    type: album
+    uri: spotify:album:6tWzE9TtF39kOmc7JmfcQM
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC
+    href: https://api.spotify.com/v1/artists/3FPflECmvkrze212dLPRSC
+    id: 3FPflECmvkrze212dLPRSC
+    name: GFOTY
+    type: artist
+    uri: spotify:artist:3FPflECmvkrze212dLPRSC
+  available_markets: []
+  disc_number: 1
+  duration_ms: 166188
+  explicit: false
+  external_ids:
+    isrc: UK9951600604
+  external_urls:
+    spotify: https://open.spotify.com/track/4LfWeKowS033BhD9WaNHXj
+  href: https://api.spotify.com/v1/tracks/4LfWeKowS033BhD9WaNHXj
+  id: 4LfWeKowS033BhD9WaNHXj
+  is_local: false
+  is_playable: true
+  name: Poison
+  popularity: 0
+  preview_url: null
+  track_number: 7
+  type: track
+  uri: spotify:track:4LfWeKowS033BhD9WaNHXj
+spotify_url: https://open.spotify.com/track/4LfWeKowS033BhD9WaNHXj
+title: Poison

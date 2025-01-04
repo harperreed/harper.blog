@@ -1,0 +1,68 @@
+added_at: '2021-04-14T22:51:20Z'
+album: Luke Vibert presents Amen Andrews
+album_image: https://i.scdn.co/image/ab67616d0000b2739e2c9515d170ef3a6a776633
+artist: Luke Vibert
+duration_ms: 235876
+id: 3X13LxqG4JI1qdBi9mfmbr
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv
+      href: https://api.spotify.com/v1/artists/0HfxCluo7N2dhr4oRM0wBv
+      id: 0HfxCluo7N2dhr4oRM0wBv
+      name: Luke Vibert
+      type: artist
+      uri: spotify:artist:0HfxCluo7N2dhr4oRM0wBv
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/7FXcqrg9FAnX4P3U9V8lea
+    href: https://api.spotify.com/v1/albums/7FXcqrg9FAnX4P3U9V8lea
+    id: 7FXcqrg9FAnX4P3U9V8lea
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2739e2c9515d170ef3a6a776633
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e029e2c9515d170ef3a6a776633
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048519e2c9515d170ef3a6a776633
+      width: 64
+    is_playable: true
+    name: Luke Vibert presents Amen Andrews
+    release_date: '2020-05-29'
+    release_date_precision: day
+    total_tracks: 14
+    type: album
+    uri: spotify:album:7FXcqrg9FAnX4P3U9V8lea
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv
+    href: https://api.spotify.com/v1/artists/0HfxCluo7N2dhr4oRM0wBv
+    id: 0HfxCluo7N2dhr4oRM0wBv
+    name: Luke Vibert
+    type: artist
+    uri: spotify:artist:0HfxCluo7N2dhr4oRM0wBv
+  available_markets: []
+  disc_number: 1
+  duration_ms: 235876
+  explicit: false
+  external_ids:
+    isrc: UK9PS1900078
+  external_urls:
+    spotify: https://open.spotify.com/track/3X13LxqG4JI1qdBi9mfmbr
+  href: https://api.spotify.com/v1/tracks/3X13LxqG4JI1qdBi9mfmbr
+  id: 3X13LxqG4JI1qdBi9mfmbr
+  is_local: false
+  is_playable: true
+  name: God
+  popularity: 0
+  preview_url: null
+  track_number: 2
+  type: track
+  uri: spotify:track:3X13LxqG4JI1qdBi9mfmbr
+spotify_url: https://open.spotify.com/track/3X13LxqG4JI1qdBi9mfmbr
+title: God

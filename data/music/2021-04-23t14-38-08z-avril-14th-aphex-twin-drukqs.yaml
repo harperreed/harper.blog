@@ -1,0 +1,68 @@
+added_at: '2021-04-23T14:38:08Z'
+album: Drukqs
+album_image: https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a
+artist: Aphex Twin
+duration_ms: 125520
+id: 2MZSXhq4XDJWu6coGoXX1V
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG
+      href: https://api.spotify.com/v1/artists/6kBDZFXuLrZgHnvmPu9NsG
+      id: 6kBDZFXuLrZgHnvmPu9NsG
+      name: Aphex Twin
+      type: artist
+      uri: spotify:artist:6kBDZFXuLrZgHnvmPu9NsG
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx
+    href: https://api.spotify.com/v1/albums/1maoQPAmw44bbkNOxKlwsx
+    id: 1maoQPAmw44bbkNOxKlwsx
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02a5aef98a1762d0f64bb6ed9a
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851a5aef98a1762d0f64bb6ed9a
+      width: 64
+    is_playable: true
+    name: Drukqs
+    release_date: '2001-10-22'
+    release_date_precision: day
+    total_tracks: 30
+    type: album
+    uri: spotify:album:1maoQPAmw44bbkNOxKlwsx
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG
+    href: https://api.spotify.com/v1/artists/6kBDZFXuLrZgHnvmPu9NsG
+    id: 6kBDZFXuLrZgHnvmPu9NsG
+    name: Aphex Twin
+    type: artist
+    uri: spotify:artist:6kBDZFXuLrZgHnvmPu9NsG
+  available_markets: []
+  disc_number: 1
+  duration_ms: 125520
+  explicit: false
+  external_ids:
+    isrc: GBBPW0100148
+  external_urls:
+    spotify: https://open.spotify.com/track/2MZSXhq4XDJWu6coGoXX1V
+  href: https://api.spotify.com/v1/tracks/2MZSXhq4XDJWu6coGoXX1V
+  id: 2MZSXhq4XDJWu6coGoXX1V
+  is_local: false
+  is_playable: true
+  name: Avril 14th
+  popularity: 0
+  preview_url: null
+  track_number: 9
+  type: track
+  uri: spotify:track:2MZSXhq4XDJWu6coGoXX1V
+spotify_url: https://open.spotify.com/track/2MZSXhq4XDJWu6coGoXX1V
+title: Avril 14th

@@ -1,0 +1,68 @@
+added_at: '2021-03-31T15:39:38Z'
+album: Roots & Crowns
+album_image: https://i.scdn.co/image/ab67616d0000b2732dc5d7ae44540c46230ebd02
+artist: Califone
+duration_ms: 175533
+id: 1TPCnbPTxxvhlJGMQNoG5J
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/3mv2eHwrIONSkviASDMRMa
+      href: https://api.spotify.com/v1/artists/3mv2eHwrIONSkviASDMRMa
+      id: 3mv2eHwrIONSkviASDMRMa
+      name: Califone
+      type: artist
+      uri: spotify:artist:3mv2eHwrIONSkviASDMRMa
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/0XqO7SrIX0etqBnkHElFut
+    href: https://api.spotify.com/v1/albums/0XqO7SrIX0etqBnkHElFut
+    id: 0XqO7SrIX0etqBnkHElFut
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2732dc5d7ae44540c46230ebd02
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e022dc5d7ae44540c46230ebd02
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048512dc5d7ae44540c46230ebd02
+      width: 64
+    is_playable: true
+    name: Roots & Crowns
+    release_date: '2006-10-10'
+    release_date_precision: day
+    total_tracks: 13
+    type: album
+    uri: spotify:album:0XqO7SrIX0etqBnkHElFut
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/3mv2eHwrIONSkviASDMRMa
+    href: https://api.spotify.com/v1/artists/3mv2eHwrIONSkviASDMRMa
+    id: 3mv2eHwrIONSkviASDMRMa
+    name: Califone
+    type: artist
+    uri: spotify:artist:3mv2eHwrIONSkviASDMRMa
+  available_markets: []
+  disc_number: 1
+  duration_ms: 175533
+  explicit: false
+  external_ids:
+    isrc: USTJ20616308
+  external_urls:
+    spotify: https://open.spotify.com/track/1TPCnbPTxxvhlJGMQNoG5J
+  href: https://api.spotify.com/v1/tracks/1TPCnbPTxxvhlJGMQNoG5J
+  id: 1TPCnbPTxxvhlJGMQNoG5J
+  is_local: false
+  is_playable: true
+  name: The Orchids
+  popularity: 0
+  preview_url: null
+  track_number: 8
+  type: track
+  uri: spotify:track:1TPCnbPTxxvhlJGMQNoG5J
+spotify_url: https://open.spotify.com/track/1TPCnbPTxxvhlJGMQNoG5J
+title: The Orchids

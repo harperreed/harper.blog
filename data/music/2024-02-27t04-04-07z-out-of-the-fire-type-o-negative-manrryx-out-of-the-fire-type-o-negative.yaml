@@ -1,0 +1,68 @@
+added_at: '2024-02-27T04:04:07Z'
+album: Out of The Fire (Type O Negative)
+album_image: https://i.scdn.co/image/ab67616d0000b2734a9a393871abc6b437fa5224
+artist: MANRRYX
+duration_ms: 204382
+id: 7vpJ3dvtr8xeAEdMFgAirp
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/5huUl5rKzzdBsK5QX4pNeZ
+      href: https://api.spotify.com/v1/artists/5huUl5rKzzdBsK5QX4pNeZ
+      id: 5huUl5rKzzdBsK5QX4pNeZ
+      name: MANRRYX
+      type: artist
+      uri: spotify:artist:5huUl5rKzzdBsK5QX4pNeZ
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/1uxn6mOfOekEuHYozBKY3O
+    href: https://api.spotify.com/v1/albums/1uxn6mOfOekEuHYozBKY3O
+    id: 1uxn6mOfOekEuHYozBKY3O
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2734a9a393871abc6b437fa5224
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e024a9a393871abc6b437fa5224
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048514a9a393871abc6b437fa5224
+      width: 64
+    is_playable: true
+    name: Out of The Fire (Type O Negative)
+    release_date: '2023-12-31'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:1uxn6mOfOekEuHYozBKY3O
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/5huUl5rKzzdBsK5QX4pNeZ
+    href: https://api.spotify.com/v1/artists/5huUl5rKzzdBsK5QX4pNeZ
+    id: 5huUl5rKzzdBsK5QX4pNeZ
+    name: MANRRYX
+    type: artist
+    uri: spotify:artist:5huUl5rKzzdBsK5QX4pNeZ
+  available_markets: []
+  disc_number: 1
+  duration_ms: 204382
+  explicit: false
+  external_ids:
+    isrc: QZWFS2325363
+  external_urls:
+    spotify: https://open.spotify.com/track/7vpJ3dvtr8xeAEdMFgAirp
+  href: https://api.spotify.com/v1/tracks/7vpJ3dvtr8xeAEdMFgAirp
+  id: 7vpJ3dvtr8xeAEdMFgAirp
+  is_local: false
+  is_playable: true
+  name: Out of The Fire (Type O Negative)
+  popularity: 34
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:7vpJ3dvtr8xeAEdMFgAirp
+spotify_url: https://open.spotify.com/track/7vpJ3dvtr8xeAEdMFgAirp
+title: Out of The Fire (Type O Negative)

@@ -1,0 +1,68 @@
+added_at: '2024-08-17T00:13:56Z'
+album: masquerade
+album_image: https://i.scdn.co/image/ab67616d0000b2735e5ba38487dbb11ece7b7ef8
+artist: siouxxie sixxsta
+duration_ms: 144535
+id: 64EA2RKyciBwCuVczLH6Ct
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr
+      href: https://api.spotify.com/v1/artists/0OO76E5lRfeyBI3fkA73Dr
+      id: 0OO76E5lRfeyBI3fkA73Dr
+      name: siouxxie sixxsta
+      type: artist
+      uri: spotify:artist:0OO76E5lRfeyBI3fkA73Dr
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/20blibqF1THTtLCzQq0Ovx
+    href: https://api.spotify.com/v1/albums/20blibqF1THTtLCzQq0Ovx
+    id: 20blibqF1THTtLCzQq0Ovx
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2735e5ba38487dbb11ece7b7ef8
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e025e5ba38487dbb11ece7b7ef8
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048515e5ba38487dbb11ece7b7ef8
+      width: 64
+    is_playable: true
+    name: masquerade
+    release_date: '2020-06-17'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:20blibqF1THTtLCzQq0Ovx
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr
+    href: https://api.spotify.com/v1/artists/0OO76E5lRfeyBI3fkA73Dr
+    id: 0OO76E5lRfeyBI3fkA73Dr
+    name: siouxxie sixxsta
+    type: artist
+    uri: spotify:artist:0OO76E5lRfeyBI3fkA73Dr
+  available_markets: []
+  disc_number: 1
+  duration_ms: 144535
+  explicit: true
+  external_ids:
+    isrc: QZK6P2005393
+  external_urls:
+    spotify: https://open.spotify.com/track/64EA2RKyciBwCuVczLH6Ct
+  href: https://api.spotify.com/v1/tracks/64EA2RKyciBwCuVczLH6Ct
+  id: 64EA2RKyciBwCuVczLH6Ct
+  is_local: false
+  is_playable: true
+  name: masquerade
+  popularity: 2
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:64EA2RKyciBwCuVczLH6Ct
+spotify_url: https://open.spotify.com/track/64EA2RKyciBwCuVczLH6Ct
+title: masquerade

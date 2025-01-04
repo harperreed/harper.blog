@@ -1,0 +1,68 @@
+added_at: '2021-10-30T02:41:47Z'
+album: Idontknow
+album_image: https://i.scdn.co/image/ab67616d0000b2736d4e7bd358891d4abb8953e7
+artist: Jamie xx
+duration_ms: 321502
+id: 55YMj9pA2x7CkC3NmDtBkl
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ
+      href: https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ
+      id: 7A0awCXkE1FtSU8B0qwOJQ
+      name: Jamie xx
+      type: artist
+      uri: spotify:artist:7A0awCXkE1FtSU8B0qwOJQ
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/05Jf78ScRG8YeX4aLwxjMk
+    href: https://api.spotify.com/v1/albums/05Jf78ScRG8YeX4aLwxjMk
+    id: 05Jf78ScRG8YeX4aLwxjMk
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2736d4e7bd358891d4abb8953e7
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e026d4e7bd358891d4abb8953e7
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048516d4e7bd358891d4abb8953e7
+      width: 64
+    is_playable: true
+    name: Idontknow
+    release_date: '2020-04-15'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:05Jf78ScRG8YeX4aLwxjMk
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ
+    href: https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ
+    id: 7A0awCXkE1FtSU8B0qwOJQ
+    name: Jamie xx
+    type: artist
+    uri: spotify:artist:7A0awCXkE1FtSU8B0qwOJQ
+  available_markets: []
+  disc_number: 1
+  duration_ms: 321502
+  explicit: false
+  external_ids:
+    isrc: UK7MC2000001
+  external_urls:
+    spotify: https://open.spotify.com/track/55YMj9pA2x7CkC3NmDtBkl
+  href: https://api.spotify.com/v1/tracks/55YMj9pA2x7CkC3NmDtBkl
+  id: 55YMj9pA2x7CkC3NmDtBkl
+  is_local: false
+  is_playable: true
+  name: Idontknow
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:55YMj9pA2x7CkC3NmDtBkl
+spotify_url: https://open.spotify.com/track/55YMj9pA2x7CkC3NmDtBkl
+title: Idontknow

@@ -1,0 +1,72 @@
+added_at: '2022-08-11T01:24:54Z'
+album: Special Beat Service (Remastered)
+album_image: https://i.scdn.co/image/ab67616d0000b273fd4b0aa9db46867f1e2a8470
+artist: The English Beat
+duration_ms: 213933
+id: 5rBOBI3INEw0u0rwNNGib5
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N
+      href: https://api.spotify.com/v1/artists/1eVEVL20zNLcGrPDOR691N
+      id: 1eVEVL20zNLcGrPDOR691N
+      name: The English Beat
+      type: artist
+      uri: spotify:artist:1eVEVL20zNLcGrPDOR691N
+    available_markets:
+    - CA
+    - US
+    external_urls:
+      spotify: https://open.spotify.com/album/4Y1DZv5OK6rg4ljw2Oj6wP
+    href: https://api.spotify.com/v1/albums/4Y1DZv5OK6rg4ljw2Oj6wP
+    id: 4Y1DZv5OK6rg4ljw2Oj6wP
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273fd4b0aa9db46867f1e2a8470
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02fd4b0aa9db46867f1e2a8470
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851fd4b0aa9db46867f1e2a8470
+      width: 64
+    is_playable: true
+    name: Special Beat Service (Remastered)
+    release_date: '1982'
+    release_date_precision: year
+    total_tracks: 16
+    type: album
+    uri: spotify:album:4Y1DZv5OK6rg4ljw2Oj6wP
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N
+    href: https://api.spotify.com/v1/artists/1eVEVL20zNLcGrPDOR691N
+    id: 1eVEVL20zNLcGrPDOR691N
+    name: The English Beat
+    type: artist
+    uri: spotify:artist:1eVEVL20zNLcGrPDOR691N
+  available_markets:
+  - CA
+  - US
+  disc_number: 1
+  duration_ms: 213933
+  explicit: false
+  external_ids:
+    isrc: USSE91232692
+  external_urls:
+    spotify: https://open.spotify.com/track/5rBOBI3INEw0u0rwNNGib5
+  href: https://api.spotify.com/v1/tracks/5rBOBI3INEw0u0rwNNGib5
+  id: 5rBOBI3INEw0u0rwNNGib5
+  is_local: false
+  is_playable: true
+  name: Save It For Later
+  popularity: 53
+  preview_url: null
+  track_number: 7
+  type: track
+  uri: spotify:track:5rBOBI3INEw0u0rwNNGib5
+spotify_url: https://open.spotify.com/track/5rBOBI3INEw0u0rwNNGib5
+title: Save It For Later

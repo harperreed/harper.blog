@@ -1,0 +1,72 @@
+added_at: '2022-08-10T17:18:34Z'
+album: Three Imaginary Boys (Deluxe Edition)
+album_image: https://i.scdn.co/image/ab67616d0000b2735d0d65102be8606e439e54cc
+artist: The Cure
+duration_ms: 222093
+id: 0l7djXY6dukQGO9qzWadiz
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+      href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+      id: 7bu3H8JO7d0UbMoVzbo70s
+      name: The Cure
+      type: artist
+      uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+    available_markets:
+    - CA
+    - US
+    external_urls:
+      spotify: https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC
+    href: https://api.spotify.com/v1/albums/7gPql7GFpBMOxeO80vMMsC
+    id: 7gPql7GFpBMOxeO80vMMsC
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2735d0d65102be8606e439e54cc
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e025d0d65102be8606e439e54cc
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048515d0d65102be8606e439e54cc
+      width: 64
+    is_playable: true
+    name: Three Imaginary Boys (Deluxe Edition)
+    release_date: '1979-05-11'
+    release_date_precision: day
+    total_tracks: 33
+    type: album
+    uri: spotify:album:7gPql7GFpBMOxeO80vMMsC
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+    href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+    id: 7bu3H8JO7d0UbMoVzbo70s
+    name: The Cure
+    type: artist
+    uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+  available_markets:
+  - CA
+  - US
+  disc_number: 1
+  duration_ms: 222093
+  explicit: false
+  external_ids:
+    isrc: USEE10500800
+  external_urls:
+    spotify: https://open.spotify.com/track/0l7djXY6dukQGO9qzWadiz
+  href: https://api.spotify.com/v1/tracks/0l7djXY6dukQGO9qzWadiz
+  id: 0l7djXY6dukQGO9qzWadiz
+  is_local: false
+  is_playable: true
+  name: 10:15 Saturday Night - 2005 Remaster
+  popularity: 40
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:0l7djXY6dukQGO9qzWadiz
+spotify_url: https://open.spotify.com/track/0l7djXY6dukQGO9qzWadiz
+title: 10:15 Saturday Night - 2005 Remaster

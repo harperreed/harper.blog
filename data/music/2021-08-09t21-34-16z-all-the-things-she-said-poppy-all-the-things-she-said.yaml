@@ -1,0 +1,68 @@
+added_at: '2021-08-09T21:34:16Z'
+album: All The Things She Said
+album_image: https://i.scdn.co/image/ab67616d0000b273b6f849be6ec117a976a2e0a4
+artist: Poppy
+duration_ms: 221498
+id: 0je6JQMhrkDF8aPSHcQ1r2
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv
+      href: https://api.spotify.com/v1/artists/5mlbvTfWUOfDrUIK6dkNzv
+      id: 5mlbvTfWUOfDrUIK6dkNzv
+      name: Poppy
+      type: artist
+      uri: spotify:artist:5mlbvTfWUOfDrUIK6dkNzv
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/4z0TlDkmTebNWs0HdTN4cw
+    href: https://api.spotify.com/v1/albums/4z0TlDkmTebNWs0HdTN4cw
+    id: 4z0TlDkmTebNWs0HdTN4cw
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273b6f849be6ec117a976a2e0a4
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02b6f849be6ec117a976a2e0a4
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851b6f849be6ec117a976a2e0a4
+      width: 64
+    is_playable: true
+    name: All The Things She Said
+    release_date: '2020-06-03'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:4z0TlDkmTebNWs0HdTN4cw
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv
+    href: https://api.spotify.com/v1/artists/5mlbvTfWUOfDrUIK6dkNzv
+    id: 5mlbvTfWUOfDrUIK6dkNzv
+    name: Poppy
+    type: artist
+    uri: spotify:artist:5mlbvTfWUOfDrUIK6dkNzv
+  available_markets: []
+  disc_number: 1
+  duration_ms: 221498
+  explicit: false
+  external_ids:
+    isrc: USYFZ2035201
+  external_urls:
+    spotify: https://open.spotify.com/track/0je6JQMhrkDF8aPSHcQ1r2
+  href: https://api.spotify.com/v1/tracks/0je6JQMhrkDF8aPSHcQ1r2
+  id: 0je6JQMhrkDF8aPSHcQ1r2
+  is_local: false
+  is_playable: true
+  name: All The Things She Said
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:0je6JQMhrkDF8aPSHcQ1r2
+spotify_url: https://open.spotify.com/track/0je6JQMhrkDF8aPSHcQ1r2
+title: All The Things She Said

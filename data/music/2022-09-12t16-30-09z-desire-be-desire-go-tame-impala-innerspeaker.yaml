@@ -1,0 +1,68 @@
+added_at: '2022-09-12T16:30:09Z'
+album: InnerSpeaker
+album_image: https://i.scdn.co/image/ab67616d0000b273cd6ec171d9acdb315ff81610
+artist: Tame Impala
+duration_ms: 266160
+id: 1jn1tS8R58gpxfgGNyRQph
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb
+      href: https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb
+      id: 5INjqkS1o8h1imAzPqGZBb
+      name: Tame Impala
+      type: artist
+      uri: spotify:artist:5INjqkS1o8h1imAzPqGZBb
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/5RA5hhLlbw31QfQRX11pwo
+    href: https://api.spotify.com/v1/albums/5RA5hhLlbw31QfQRX11pwo
+    id: 5RA5hhLlbw31QfQRX11pwo
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273cd6ec171d9acdb315ff81610
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02cd6ec171d9acdb315ff81610
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851cd6ec171d9acdb315ff81610
+      width: 64
+    is_playable: true
+    name: InnerSpeaker
+    release_date: '2010-05-21'
+    release_date_precision: day
+    total_tracks: 11
+    type: album
+    uri: spotify:album:5RA5hhLlbw31QfQRX11pwo
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb
+    href: https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb
+    id: 5INjqkS1o8h1imAzPqGZBb
+    name: Tame Impala
+    type: artist
+    uri: spotify:artist:5INjqkS1o8h1imAzPqGZBb
+  available_markets: []
+  disc_number: 1
+  duration_ms: 266160
+  explicit: false
+  external_ids:
+    isrc: AUUM71000132
+  external_urls:
+    spotify: https://open.spotify.com/track/1jn1tS8R58gpxfgGNyRQph
+  href: https://api.spotify.com/v1/tracks/1jn1tS8R58gpxfgGNyRQph
+  id: 1jn1tS8R58gpxfgGNyRQph
+  is_local: false
+  is_playable: true
+  name: Desire Be Desire Go
+  popularity: 1
+  preview_url: null
+  track_number: 2
+  type: track
+  uri: spotify:track:1jn1tS8R58gpxfgGNyRQph
+spotify_url: https://open.spotify.com/track/1jn1tS8R58gpxfgGNyRQph
+title: Desire Be Desire Go

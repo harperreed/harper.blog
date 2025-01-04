@@ -1,0 +1,68 @@
+added_at: '2021-06-02T23:01:24Z'
+album: 'Hot Steel: Round 2'
+album_image: https://i.scdn.co/image/ab67616d0000b2735deee8535c1c46cf6c271cbd
+artist: Christian Kluge
+duration_ms: 422500
+id: 0HYPqoZcSkRthezyr9YAC1
+preview_url: null
+raw_data:
+  album:
+    album_type: compilation
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+      href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+      id: 0LyfQWJT6nXafLPZqxe9Of
+      name: Various Artists
+      type: artist
+      uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/5wQD0O8BTSIO2usImkM1MN
+    href: https://api.spotify.com/v1/albums/5wQD0O8BTSIO2usImkM1MN
+    id: 5wQD0O8BTSIO2usImkM1MN
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2735deee8535c1c46cf6c271cbd
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e025deee8535c1c46cf6c271cbd
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048515deee8535c1c46cf6c271cbd
+      width: 64
+    is_playable: true
+    name: 'Hot Steel: Round 2'
+    release_date: '2020-10-23'
+    release_date_precision: day
+    total_tracks: 21
+    type: album
+    uri: spotify:album:5wQD0O8BTSIO2usImkM1MN
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/1AdSvF1PUKjLeWf26wbCc2
+    href: https://api.spotify.com/v1/artists/1AdSvF1PUKjLeWf26wbCc2
+    id: 1AdSvF1PUKjLeWf26wbCc2
+    name: Christian Kluge
+    type: artist
+    uri: spotify:artist:1AdSvF1PUKjLeWf26wbCc2
+  available_markets: []
+  disc_number: 1
+  duration_ms: 422500
+  explicit: false
+  external_ids:
+    isrc: UKMH51900100
+  external_urls:
+    spotify: https://open.spotify.com/track/0HYPqoZcSkRthezyr9YAC1
+  href: https://api.spotify.com/v1/tracks/0HYPqoZcSkRthezyr9YAC1
+  id: 0HYPqoZcSkRthezyr9YAC1
+  is_local: false
+  is_playable: true
+  name: Ich Sehe Sie
+  popularity: 0
+  preview_url: null
+  track_number: 2
+  type: track
+  uri: spotify:track:0HYPqoZcSkRthezyr9YAC1
+spotify_url: https://open.spotify.com/track/0HYPqoZcSkRthezyr9YAC1
+title: Ich Sehe Sie

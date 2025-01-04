@@ -1,0 +1,72 @@
+added_at: '2023-10-17T03:10:25Z'
+album: Veneer
+album_image: https://i.scdn.co/image/ab67616d0000b2731017779b8f5fe0ccd77bf886
+artist: "Jos\xE9 Gonz\xE1lez"
+duration_ms: 161680
+id: 5YqpHuXpFjDVZ7tY1ClFll
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI
+      href: https://api.spotify.com/v1/artists/6xrCU6zdcSTsG2hLrojpmI
+      id: 6xrCU6zdcSTsG2hLrojpmI
+      name: "Jos\xE9 Gonz\xE1lez"
+      type: artist
+      uri: spotify:artist:6xrCU6zdcSTsG2hLrojpmI
+    available_markets:
+    - CA
+    - US
+    external_urls:
+      spotify: https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl
+    href: https://api.spotify.com/v1/albums/2e0BYdQ7VJlzSNHafdmfrl
+    id: 2e0BYdQ7VJlzSNHafdmfrl
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2731017779b8f5fe0ccd77bf886
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e021017779b8f5fe0ccd77bf886
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048511017779b8f5fe0ccd77bf886
+      width: 64
+    is_playable: true
+    name: Veneer
+    release_date: '2006-04-03'
+    release_date_precision: day
+    total_tracks: 11
+    type: album
+    uri: spotify:album:2e0BYdQ7VJlzSNHafdmfrl
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI
+    href: https://api.spotify.com/v1/artists/6xrCU6zdcSTsG2hLrojpmI
+    id: 6xrCU6zdcSTsG2hLrojpmI
+    name: "Jos\xE9 Gonz\xE1lez"
+    type: artist
+    uri: spotify:artist:6xrCU6zdcSTsG2hLrojpmI
+  available_markets:
+  - CA
+  - US
+  disc_number: 1
+  duration_ms: 161680
+  explicit: false
+  external_ids:
+    isrc: SEVVX0300201
+  external_urls:
+    spotify: https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll
+  href: https://api.spotify.com/v1/tracks/5YqpHuXpFjDVZ7tY1ClFll
+  id: 5YqpHuXpFjDVZ7tY1ClFll
+  is_local: false
+  is_playable: true
+  name: Heartbeats
+  popularity: 62
+  preview_url: null
+  track_number: 4
+  type: track
+  uri: spotify:track:5YqpHuXpFjDVZ7tY1ClFll
+spotify_url: https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll
+title: Heartbeats

@@ -1,0 +1,75 @@
+added_at: '2023-04-03T15:55:48Z'
+album: 'The Best Of Crosby & Nash: The ABC Years'
+album_image: https://i.scdn.co/image/ab67616d0000b27340ba660feb6ce563513ced68
+artist: David Crosby
+duration_ms: 331293
+id: 1SCUAyfSXUzXccMbMb3LJB
+preview_url: null
+raw_data:
+  album:
+    album_type: compilation
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/2mDlls63YpRsMjgpyXxyu6
+      href: https://api.spotify.com/v1/artists/2mDlls63YpRsMjgpyXxyu6
+      id: 2mDlls63YpRsMjgpyXxyu6
+      name: Crosby & Nash
+      type: artist
+      uri: spotify:artist:2mDlls63YpRsMjgpyXxyu6
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/1SSFasWyvEivBAw2OkphHY
+    href: https://api.spotify.com/v1/albums/1SSFasWyvEivBAw2OkphHY
+    id: 1SSFasWyvEivBAw2OkphHY
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b27340ba660feb6ce563513ced68
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e0240ba660feb6ce563513ced68
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d0000485140ba660feb6ce563513ced68
+      width: 64
+    is_playable: true
+    name: 'The Best Of Crosby & Nash: The ABC Years'
+    release_date: '2002-01-01'
+    release_date_precision: day
+    total_tracks: 19
+    type: album
+    uri: spotify:album:1SSFasWyvEivBAw2OkphHY
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/59zdhVoWxSoHMc74n098Re
+    href: https://api.spotify.com/v1/artists/59zdhVoWxSoHMc74n098Re
+    id: 59zdhVoWxSoHMc74n098Re
+    name: David Crosby
+    type: artist
+    uri: spotify:artist:59zdhVoWxSoHMc74n098Re
+  - external_urls:
+      spotify: https://open.spotify.com/artist/2E6Roj0oQnJIm2BeXwDica
+    href: https://api.spotify.com/v1/artists/2E6Roj0oQnJIm2BeXwDica
+    id: 2E6Roj0oQnJIm2BeXwDica
+    name: Graham Nash
+    type: artist
+    uri: spotify:artist:2E6Roj0oQnJIm2BeXwDica
+  available_markets: []
+  disc_number: 1
+  duration_ms: 331293
+  explicit: false
+  external_ids:
+    isrc: USMC17546560
+  external_urls:
+    spotify: https://open.spotify.com/track/1SCUAyfSXUzXccMbMb3LJB
+  href: https://api.spotify.com/v1/tracks/1SCUAyfSXUzXccMbMb3LJB
+  id: 1SCUAyfSXUzXccMbMb3LJB
+  is_local: false
+  is_playable: true
+  name: To The Last Whale... A) Critical Mass / B) Wind On The Water
+  popularity: 0
+  preview_url: null
+  track_number: 8
+  type: track
+  uri: spotify:track:1SCUAyfSXUzXccMbMb3LJB
+spotify_url: https://open.spotify.com/track/1SCUAyfSXUzXccMbMb3LJB
+title: To The Last Whale... A) Critical Mass / B) Wind On The Water

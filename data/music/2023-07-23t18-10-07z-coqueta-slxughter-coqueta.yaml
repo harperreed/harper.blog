@@ -1,0 +1,82 @@
+added_at: '2023-07-23T18:10:07Z'
+album: coqueta
+album_image: https://i.scdn.co/image/ab67616d0000b273b9c982fb121db3fa678134e1
+artist: slxughter
+duration_ms: 154489
+id: 6zX9Jhq8lB6DRiMIzNTxet
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa
+      href: https://api.spotify.com/v1/artists/1M02J1PLobtQYok93DEvVa
+      id: 1M02J1PLobtQYok93DEvVa
+      name: slxughter
+      type: artist
+      uri: spotify:artist:1M02J1PLobtQYok93DEvVa
+    - external_urls:
+        spotify: https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl
+      href: https://api.spotify.com/v1/artists/6QwlKB1hO357wh5oNuuInl
+      id: 6QwlKB1hO357wh5oNuuInl
+      name: Crazy Mano
+      type: artist
+      uri: spotify:artist:6QwlKB1hO357wh5oNuuInl
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/6azCKU1xPZG3ELddYmSgqM
+    href: https://api.spotify.com/v1/albums/6azCKU1xPZG3ELddYmSgqM
+    id: 6azCKU1xPZG3ELddYmSgqM
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273b9c982fb121db3fa678134e1
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02b9c982fb121db3fa678134e1
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851b9c982fb121db3fa678134e1
+      width: 64
+    is_playable: true
+    name: coqueta
+    release_date: '2023-03-17'
+    release_date_precision: day
+    total_tracks: 2
+    type: album
+    uri: spotify:album:6azCKU1xPZG3ELddYmSgqM
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa
+    href: https://api.spotify.com/v1/artists/1M02J1PLobtQYok93DEvVa
+    id: 1M02J1PLobtQYok93DEvVa
+    name: slxughter
+    type: artist
+    uri: spotify:artist:1M02J1PLobtQYok93DEvVa
+  - external_urls:
+      spotify: https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl
+    href: https://api.spotify.com/v1/artists/6QwlKB1hO357wh5oNuuInl
+    id: 6QwlKB1hO357wh5oNuuInl
+    name: Crazy Mano
+    type: artist
+    uri: spotify:artist:6QwlKB1hO357wh5oNuuInl
+  available_markets: []
+  disc_number: 1
+  duration_ms: 154489
+  explicit: false
+  external_ids:
+    isrc: QM42K2343893
+  external_urls:
+    spotify: https://open.spotify.com/track/6zX9Jhq8lB6DRiMIzNTxet
+  href: https://api.spotify.com/v1/tracks/6zX9Jhq8lB6DRiMIzNTxet
+  id: 6zX9Jhq8lB6DRiMIzNTxet
+  is_local: false
+  is_playable: true
+  name: coqueta
+  popularity: 18
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:6zX9Jhq8lB6DRiMIzNTxet
+spotify_url: https://open.spotify.com/track/6zX9Jhq8lB6DRiMIzNTxet
+title: coqueta

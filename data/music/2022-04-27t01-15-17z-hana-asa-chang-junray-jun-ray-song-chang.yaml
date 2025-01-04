@@ -1,0 +1,68 @@
+added_at: '2022-04-27T01:15:17Z'
+album: Jun Ray Song Chang
+album_image: https://i.scdn.co/image/ab67616d0000b27309cddee41b9759b67bfe4982
+artist: Asa-Chang & Junray
+duration_ms: 401773
+id: 58cYbiLXTke29DjTSJYlsM
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0AODSrFsTbyXq7Wnp7LfBV
+      href: https://api.spotify.com/v1/artists/0AODSrFsTbyXq7Wnp7LfBV
+      id: 0AODSrFsTbyXq7Wnp7LfBV
+      name: Asa-Chang & Junray
+      type: artist
+      uri: spotify:artist:0AODSrFsTbyXq7Wnp7LfBV
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/3z05hHpqmLi1vpwKntDmVU
+    href: https://api.spotify.com/v1/albums/3z05hHpqmLi1vpwKntDmVU
+    id: 3z05hHpqmLi1vpwKntDmVU
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b27309cddee41b9759b67bfe4982
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e0209cddee41b9759b67bfe4982
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d0000485109cddee41b9759b67bfe4982
+      width: 64
+    is_playable: true
+    name: Jun Ray Song Chang
+    release_date: '2002-06-17'
+    release_date_precision: day
+    total_tracks: 11
+    type: album
+    uri: spotify:album:3z05hHpqmLi1vpwKntDmVU
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0AODSrFsTbyXq7Wnp7LfBV
+    href: https://api.spotify.com/v1/artists/0AODSrFsTbyXq7Wnp7LfBV
+    id: 0AODSrFsTbyXq7Wnp7LfBV
+    name: Asa-Chang & Junray
+    type: artist
+    uri: spotify:artist:0AODSrFsTbyXq7Wnp7LfBV
+  available_markets: []
+  disc_number: 1
+  duration_ms: 401773
+  explicit: false
+  external_ids:
+    isrc: GBCKB0200010
+  external_urls:
+    spotify: https://open.spotify.com/track/58cYbiLXTke29DjTSJYlsM
+  href: https://api.spotify.com/v1/tracks/58cYbiLXTke29DjTSJYlsM
+  id: 58cYbiLXTke29DjTSJYlsM
+  is_local: false
+  is_playable: true
+  name: Hana
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:58cYbiLXTke29DjTSJYlsM
+spotify_url: https://open.spotify.com/track/58cYbiLXTke29DjTSJYlsM
+title: Hana

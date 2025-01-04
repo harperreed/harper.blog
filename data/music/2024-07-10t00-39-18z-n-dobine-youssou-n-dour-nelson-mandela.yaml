@@ -1,0 +1,68 @@
+added_at: '2024-07-10T00:39:18Z'
+album: Nelson Mandela
+album_image: https://i.scdn.co/image/ab67616d0000b2731d8a1d476793c824f2631daf
+artist: Youssou N'Dour
+duration_ms: 297213
+id: 1mXRmDWWE4r2J9QhIUhqD4
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY
+      href: https://api.spotify.com/v1/artists/77zlytAFjPFjUKda8TNIDY
+      id: 77zlytAFjPFjUKda8TNIDY
+      name: Youssou N'Dour
+      type: artist
+      uri: spotify:artist:77zlytAFjPFjUKda8TNIDY
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/2goUlAeqJm6gCACTvEtbKt
+    href: https://api.spotify.com/v1/albums/2goUlAeqJm6gCACTvEtbKt
+    id: 2goUlAeqJm6gCACTvEtbKt
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2731d8a1d476793c824f2631daf
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e021d8a1d476793c824f2631daf
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048511d8a1d476793c824f2631daf
+      width: 64
+    is_playable: true
+    name: Nelson Mandela
+    release_date: '2023-06-20'
+    release_date_precision: day
+    total_tracks: 8
+    type: album
+    uri: spotify:album:2goUlAeqJm6gCACTvEtbKt
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY
+    href: https://api.spotify.com/v1/artists/77zlytAFjPFjUKda8TNIDY
+    id: 77zlytAFjPFjUKda8TNIDY
+    name: Youssou N'Dour
+    type: artist
+    uri: spotify:artist:77zlytAFjPFjUKda8TNIDY
+  available_markets: []
+  disc_number: 1
+  duration_ms: 297213
+  explicit: false
+  external_ids:
+    isrc: ESA122442517
+  external_urls:
+    spotify: https://open.spotify.com/track/1mXRmDWWE4r2J9QhIUhqD4
+  href: https://api.spotify.com/v1/tracks/1mXRmDWWE4r2J9QhIUhqD4
+  id: 1mXRmDWWE4r2J9QhIUhqD4
+  is_local: false
+  is_playable: false
+  name: N'dobine
+  popularity: 0
+  preview_url: null
+  track_number: 4
+  type: track
+  uri: spotify:track:1mXRmDWWE4r2J9QhIUhqD4
+spotify_url: https://open.spotify.com/track/1mXRmDWWE4r2J9QhIUhqD4
+title: N'dobine

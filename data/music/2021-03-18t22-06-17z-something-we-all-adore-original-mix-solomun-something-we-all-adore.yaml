@@ -1,0 +1,68 @@
+added_at: '2021-03-18T22:06:17Z'
+album: Something We All Adore
+album_image: https://i.scdn.co/image/ab67616d0000b273dd06537d5646ad6c4fa6a39b
+artist: Solomun
+duration_ms: 477120
+id: 3npxGyRpSmxS7mlN5ndjNS
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC
+      href: https://api.spotify.com/v1/artists/5wJK4kQAkVGjqM9x46KQOC
+      id: 5wJK4kQAkVGjqM9x46KQOC
+      name: Solomun
+      type: artist
+      uri: spotify:artist:5wJK4kQAkVGjqM9x46KQOC
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/2VdNu7mWS8tFXioGS0pzU1
+    href: https://api.spotify.com/v1/albums/2VdNu7mWS8tFXioGS0pzU1
+    id: 2VdNu7mWS8tFXioGS0pzU1
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273dd06537d5646ad6c4fa6a39b
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02dd06537d5646ad6c4fa6a39b
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851dd06537d5646ad6c4fa6a39b
+      width: 64
+    is_playable: true
+    name: Something We All Adore
+    release_date: '2011-11-30'
+    release_date_precision: day
+    total_tracks: 3
+    type: album
+    uri: spotify:album:2VdNu7mWS8tFXioGS0pzU1
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC
+    href: https://api.spotify.com/v1/artists/5wJK4kQAkVGjqM9x46KQOC
+    id: 5wJK4kQAkVGjqM9x46KQOC
+    name: Solomun
+    type: artist
+    uri: spotify:artist:5wJK4kQAkVGjqM9x46KQOC
+  available_markets: []
+  disc_number: 1
+  duration_ms: 477120
+  explicit: false
+  external_ids:
+    isrc: GBTVG1000139
+  external_urls:
+    spotify: https://open.spotify.com/track/3npxGyRpSmxS7mlN5ndjNS
+  href: https://api.spotify.com/v1/tracks/3npxGyRpSmxS7mlN5ndjNS
+  id: 3npxGyRpSmxS7mlN5ndjNS
+  is_local: false
+  is_playable: true
+  name: Something We All Adore - Original Mix
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:3npxGyRpSmxS7mlN5ndjNS
+spotify_url: https://open.spotify.com/track/3npxGyRpSmxS7mlN5ndjNS
+title: Something We All Adore - Original Mix

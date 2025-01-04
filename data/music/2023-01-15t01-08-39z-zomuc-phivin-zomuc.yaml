@@ -1,0 +1,68 @@
+added_at: '2023-01-15T01:08:39Z'
+album: Zomuc
+album_image: https://i.scdn.co/image/ab67616d0000b273f9ccb6d220da658689b83723
+artist: Phivin
+duration_ms: 78367
+id: 2tuybPWpuCkvjhHs8xOIjL
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/6HLL6ItLEETonTfXokam87
+      href: https://api.spotify.com/v1/artists/6HLL6ItLEETonTfXokam87
+      id: 6HLL6ItLEETonTfXokam87
+      name: Phivin
+      type: artist
+      uri: spotify:artist:6HLL6ItLEETonTfXokam87
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/4F8udJ7GBMJDni2aGNGKNn
+    href: https://api.spotify.com/v1/albums/4F8udJ7GBMJDni2aGNGKNn
+    id: 4F8udJ7GBMJDni2aGNGKNn
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273f9ccb6d220da658689b83723
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02f9ccb6d220da658689b83723
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851f9ccb6d220da658689b83723
+      width: 64
+    is_playable: true
+    name: Zomuc
+    release_date: '2022-09-16'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:4F8udJ7GBMJDni2aGNGKNn
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/6HLL6ItLEETonTfXokam87
+    href: https://api.spotify.com/v1/artists/6HLL6ItLEETonTfXokam87
+    id: 6HLL6ItLEETonTfXokam87
+    name: Phivin
+    type: artist
+    uri: spotify:artist:6HLL6ItLEETonTfXokam87
+  available_markets: []
+  disc_number: 1
+  duration_ms: 78367
+  explicit: false
+  external_ids:
+    isrc: PL44J2249975
+  external_urls:
+    spotify: https://open.spotify.com/track/2tuybPWpuCkvjhHs8xOIjL
+  href: https://api.spotify.com/v1/tracks/2tuybPWpuCkvjhHs8xOIjL
+  id: 2tuybPWpuCkvjhHs8xOIjL
+  is_local: false
+  is_playable: false
+  name: Zomuc
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:2tuybPWpuCkvjhHs8xOIjL
+spotify_url: https://open.spotify.com/track/2tuybPWpuCkvjhHs8xOIjL
+title: Zomuc
