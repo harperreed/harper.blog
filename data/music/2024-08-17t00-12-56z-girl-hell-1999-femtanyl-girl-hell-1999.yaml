@@ -1,0 +1,68 @@
+added_at: '2024-08-17T00:12:56Z'
+album: GIRL HELL 1999
+album_image: https://i.scdn.co/image/ab67616d0000b27301b3a0ba15c6cda034f2d4fe
+artist: femtanyl
+duration_ms: 145371
+id: 3PIccMVZdnMMbSb22ROpn8
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/53e9n1LucuH3guikmtv180
+      href: https://api.spotify.com/v1/artists/53e9n1LucuH3guikmtv180
+      id: 53e9n1LucuH3guikmtv180
+      name: femtanyl
+      type: artist
+      uri: spotify:artist:53e9n1LucuH3guikmtv180
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/4ZvebeNHfARLqWoiZaND6z
+    href: https://api.spotify.com/v1/albums/4ZvebeNHfARLqWoiZaND6z
+    id: 4ZvebeNHfARLqWoiZaND6z
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b27301b3a0ba15c6cda034f2d4fe
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e0201b3a0ba15c6cda034f2d4fe
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d0000485101b3a0ba15c6cda034f2d4fe
+      width: 64
+    is_playable: true
+    name: GIRL HELL 1999
+    release_date: '2023-08-25'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:4ZvebeNHfARLqWoiZaND6z
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/53e9n1LucuH3guikmtv180
+    href: https://api.spotify.com/v1/artists/53e9n1LucuH3guikmtv180
+    id: 53e9n1LucuH3guikmtv180
+    name: femtanyl
+    type: artist
+    uri: spotify:artist:53e9n1LucuH3guikmtv180
+  available_markets: []
+  disc_number: 1
+  duration_ms: 145371
+  explicit: true
+  external_ids:
+    isrc: QZTAS2370370
+  external_urls:
+    spotify: https://open.spotify.com/track/3PIccMVZdnMMbSb22ROpn8
+  href: https://api.spotify.com/v1/tracks/3PIccMVZdnMMbSb22ROpn8
+  id: 3PIccMVZdnMMbSb22ROpn8
+  is_local: false
+  is_playable: true
+  name: GIRL HELL 1999
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:3PIccMVZdnMMbSb22ROpn8
+spotify_url: https://open.spotify.com/track/3PIccMVZdnMMbSb22ROpn8
+title: GIRL HELL 1999

@@ -1,0 +1,68 @@
+added_at: '2023-04-21T19:47:01Z'
+album: Sundays
+album_image: https://i.scdn.co/image/ab67616d0000b2735269a2d15e85f5ae05cc214c
+artist: Tanukichan
+duration_ms: 168320
+id: 0nJM3li3qU18Q7MJqzbZ4R
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6
+      href: https://api.spotify.com/v1/artists/7d0wUlQ0ZXIGFa0YzuBiR6
+      id: 7d0wUlQ0ZXIGFa0YzuBiR6
+      name: Tanukichan
+      type: artist
+      uri: spotify:artist:7d0wUlQ0ZXIGFa0YzuBiR6
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/64TSZqQszg2OHzX5vYiqRP
+    href: https://api.spotify.com/v1/albums/64TSZqQszg2OHzX5vYiqRP
+    id: 64TSZqQszg2OHzX5vYiqRP
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2735269a2d15e85f5ae05cc214c
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e025269a2d15e85f5ae05cc214c
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048515269a2d15e85f5ae05cc214c
+      width: 64
+    is_playable: true
+    name: Sundays
+    release_date: '2018-07-13'
+    release_date_precision: day
+    total_tracks: 10
+    type: album
+    uri: spotify:album:64TSZqQszg2OHzX5vYiqRP
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6
+    href: https://api.spotify.com/v1/artists/7d0wUlQ0ZXIGFa0YzuBiR6
+    id: 7d0wUlQ0ZXIGFa0YzuBiR6
+    name: Tanukichan
+    type: artist
+    uri: spotify:artist:7d0wUlQ0ZXIGFa0YzuBiR6
+  available_markets: []
+  disc_number: 1
+  duration_ms: 168320
+  explicit: false
+  external_ids:
+    isrc: US22N1801105
+  external_urls:
+    spotify: https://open.spotify.com/track/0nJM3li3qU18Q7MJqzbZ4R
+  href: https://api.spotify.com/v1/tracks/0nJM3li3qU18Q7MJqzbZ4R
+  id: 0nJM3li3qU18Q7MJqzbZ4R
+  is_local: false
+  is_playable: true
+  name: Hunned Bandz
+  popularity: 0
+  preview_url: null
+  track_number: 5
+  type: track
+  uri: spotify:track:0nJM3li3qU18Q7MJqzbZ4R
+spotify_url: https://open.spotify.com/track/0nJM3li3qU18Q7MJqzbZ4R
+title: Hunned Bandz

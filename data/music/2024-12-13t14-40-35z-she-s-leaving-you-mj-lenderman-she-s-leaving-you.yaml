@@ -1,0 +1,68 @@
+added_at: '2024-12-13T14:40:35Z'
+album: She's Leaving You
+album_image: https://i.scdn.co/image/ab67616d0000b273e3cb367271ccbe1520330d07
+artist: MJ Lenderman
+duration_ms: 278226
+id: 10cGyorRXoOc9RhVhY9Sru
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT
+      href: https://api.spotify.com/v1/artists/4tK6Z8fK7Sc9133byjPGIT
+      id: 4tK6Z8fK7Sc9133byjPGIT
+      name: MJ Lenderman
+      type: artist
+      uri: spotify:artist:4tK6Z8fK7Sc9133byjPGIT
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp
+    href: https://api.spotify.com/v1/albums/07Wpt6vMno7YmKR4F5AoFp
+    id: 07Wpt6vMno7YmKR4F5AoFp
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273e3cb367271ccbe1520330d07
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02e3cb367271ccbe1520330d07
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851e3cb367271ccbe1520330d07
+      width: 64
+    is_playable: true
+    name: She's Leaving You
+    release_date: '2024-06-24'
+    release_date_precision: day
+    total_tracks: 2
+    type: album
+    uri: spotify:album:07Wpt6vMno7YmKR4F5AoFp
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT
+    href: https://api.spotify.com/v1/artists/4tK6Z8fK7Sc9133byjPGIT
+    id: 4tK6Z8fK7Sc9133byjPGIT
+    name: MJ Lenderman
+    type: artist
+    uri: spotify:artist:4tK6Z8fK7Sc9133byjPGIT
+  available_markets: []
+  disc_number: 1
+  duration_ms: 278226
+  explicit: false
+  external_ids:
+    isrc: USEP42405004
+  external_urls:
+    spotify: https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru
+  href: https://api.spotify.com/v1/tracks/10cGyorRXoOc9RhVhY9Sru
+  id: 10cGyorRXoOc9RhVhY9Sru
+  is_local: false
+  is_playable: true
+  name: She's Leaving You
+  popularity: 25
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:10cGyorRXoOc9RhVhY9Sru
+spotify_url: https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru
+title: She's Leaving You

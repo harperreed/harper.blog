@@ -1,0 +1,75 @@
+added_at: '2023-03-26T20:10:29Z'
+album: Hyperreal
+album_image: https://i.scdn.co/image/ab67616d0000b2731e4a3ecbd5ca0cbdf67cb5e5
+artist: Flume
+duration_ms: 254062
+id: 5NsruZ9uIydV0A196WZjkV
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer
+      href: https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer
+      id: 6nxWCVXbOlEVRexSbLsTer
+      name: Flume
+      type: artist
+      uri: spotify:artist:6nxWCVXbOlEVRexSbLsTer
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/0XzHfgLEQ5IODfpGhD78Sp
+    href: https://api.spotify.com/v1/albums/0XzHfgLEQ5IODfpGhD78Sp
+    id: 0XzHfgLEQ5IODfpGhD78Sp
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2731e4a3ecbd5ca0cbdf67cb5e5
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e021e4a3ecbd5ca0cbdf67cb5e5
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048511e4a3ecbd5ca0cbdf67cb5e5
+      width: 64
+    is_playable: true
+    name: Hyperreal
+    release_date: '2017-05-05'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:0XzHfgLEQ5IODfpGhD78Sp
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer
+    href: https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer
+    id: 6nxWCVXbOlEVRexSbLsTer
+    name: Flume
+    type: artist
+    uri: spotify:artist:6nxWCVXbOlEVRexSbLsTer
+  - external_urls:
+      spotify: https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw
+    href: https://api.spotify.com/v1/artists/6JcD2YKEhgimweLpUI0NEw
+    id: 6JcD2YKEhgimweLpUI0NEw
+    name: "KU\u010CKA"
+    type: artist
+    uri: spotify:artist:6JcD2YKEhgimweLpUI0NEw
+  available_markets: []
+  disc_number: 1
+  duration_ms: 254062
+  explicit: false
+  external_ids:
+    isrc: AUFF01700016
+  external_urls:
+    spotify: https://open.spotify.com/track/5NsruZ9uIydV0A196WZjkV
+  href: https://api.spotify.com/v1/tracks/5NsruZ9uIydV0A196WZjkV
+  id: 5NsruZ9uIydV0A196WZjkV
+  is_local: false
+  is_playable: true
+  name: Hyperreal
+  popularity: 5
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:5NsruZ9uIydV0A196WZjkV
+spotify_url: https://open.spotify.com/track/5NsruZ9uIydV0A196WZjkV
+title: Hyperreal

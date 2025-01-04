@@ -1,0 +1,82 @@
+added_at: '2023-03-20T18:59:55Z'
+album: 'Glass: In the Upper Room'
+album_image: https://i.scdn.co/image/ab67616d0000b273911d8d2c8002194fd4adbd6a
+artist: Philip Glass
+duration_ms: 203000
+id: 0YvgKDGFeVkkkIFMoGDGtZ
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC
+      href: https://api.spotify.com/v1/artists/69lxxQvsfAIoQbB20bEPFC
+      id: 69lxxQvsfAIoQbB20bEPFC
+      name: Philip Glass
+      type: artist
+      uri: spotify:artist:69lxxQvsfAIoQbB20bEPFC
+    - external_urls:
+        spotify: https://open.spotify.com/artist/1KPzLZHZrqvYILcVTEMCP1
+      href: https://api.spotify.com/v1/artists/1KPzLZHZrqvYILcVTEMCP1
+      id: 1KPzLZHZrqvYILcVTEMCP1
+      name: Michael Riesman
+      type: artist
+      uri: spotify:artist:1KPzLZHZrqvYILcVTEMCP1
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/2B0pdiBZ5uISlCtMauqrJH
+    href: https://api.spotify.com/v1/albums/2B0pdiBZ5uISlCtMauqrJH
+    id: 2B0pdiBZ5uISlCtMauqrJH
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273911d8d2c8002194fd4adbd6a
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02911d8d2c8002194fd4adbd6a
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851911d8d2c8002194fd4adbd6a
+      width: 64
+    is_playable: true
+    name: 'Glass: In the Upper Room'
+    release_date: '2009-09-10'
+    release_date_precision: day
+    total_tracks: 9
+    type: album
+    uri: spotify:album:2B0pdiBZ5uISlCtMauqrJH
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC
+    href: https://api.spotify.com/v1/artists/69lxxQvsfAIoQbB20bEPFC
+    id: 69lxxQvsfAIoQbB20bEPFC
+    name: Philip Glass
+    type: artist
+    uri: spotify:artist:69lxxQvsfAIoQbB20bEPFC
+  - external_urls:
+      spotify: https://open.spotify.com/artist/1KPzLZHZrqvYILcVTEMCP1
+    href: https://api.spotify.com/v1/artists/1KPzLZHZrqvYILcVTEMCP1
+    id: 1KPzLZHZrqvYILcVTEMCP1
+    name: Michael Riesman
+    type: artist
+    uri: spotify:artist:1KPzLZHZrqvYILcVTEMCP1
+  available_markets: []
+  disc_number: 1
+  duration_ms: 203000
+  explicit: false
+  external_ids:
+    isrc: US65R0905605
+  external_urls:
+    spotify: https://open.spotify.com/track/0YvgKDGFeVkkkIFMoGDGtZ
+  href: https://api.spotify.com/v1/tracks/0YvgKDGFeVkkkIFMoGDGtZ
+  id: 0YvgKDGFeVkkkIFMoGDGtZ
+  is_local: false
+  is_playable: true
+  name: 'In the Upper Room: V. Dance V'
+  popularity: 0
+  preview_url: null
+  track_number: 5
+  type: track
+  uri: spotify:track:0YvgKDGFeVkkkIFMoGDGtZ
+spotify_url: https://open.spotify.com/track/0YvgKDGFeVkkkIFMoGDGtZ
+title: 'In the Upper Room: V. Dance V'

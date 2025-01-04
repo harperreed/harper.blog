@@ -1,0 +1,68 @@
+added_at: '2024-05-26T04:17:39Z'
+album: Glorilla TGIF
+album_image: https://i.scdn.co/image/ab67616d0000b273423166de199e8326e1195221
+artist: Lil Zkillz
+duration_ms: 88721
+id: 1JT5KYes4zH1HswFueUxmY
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/7HpJ5yOo43COiBwJHybElk
+      href: https://api.spotify.com/v1/artists/7HpJ5yOo43COiBwJHybElk
+      id: 7HpJ5yOo43COiBwJHybElk
+      name: Lil Zkillz
+      type: artist
+      uri: spotify:artist:7HpJ5yOo43COiBwJHybElk
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/5nfAsJwJB9hwSwCX2Oa3ZA
+    href: https://api.spotify.com/v1/albums/5nfAsJwJB9hwSwCX2Oa3ZA
+    id: 5nfAsJwJB9hwSwCX2Oa3ZA
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273423166de199e8326e1195221
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02423166de199e8326e1195221
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851423166de199e8326e1195221
+      width: 64
+    is_playable: true
+    name: Glorilla TGIF
+    release_date: '2024-05-22'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:5nfAsJwJB9hwSwCX2Oa3ZA
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/7HpJ5yOo43COiBwJHybElk
+    href: https://api.spotify.com/v1/artists/7HpJ5yOo43COiBwJHybElk
+    id: 7HpJ5yOo43COiBwJHybElk
+    name: Lil Zkillz
+    type: artist
+    uri: spotify:artist:7HpJ5yOo43COiBwJHybElk
+  available_markets: []
+  disc_number: 1
+  duration_ms: 88721
+  explicit: true
+  external_ids:
+    isrc: QZYFZ2437137
+  external_urls:
+    spotify: https://open.spotify.com/track/1JT5KYes4zH1HswFueUxmY
+  href: https://api.spotify.com/v1/tracks/1JT5KYes4zH1HswFueUxmY
+  id: 1JT5KYes4zH1HswFueUxmY
+  is_local: false
+  is_playable: false
+  name: Glorilla TGIF
+  popularity: 1
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:1JT5KYes4zH1HswFueUxmY
+spotify_url: https://open.spotify.com/track/1JT5KYes4zH1HswFueUxmY
+title: Glorilla TGIF

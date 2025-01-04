@@ -1,0 +1,68 @@
+added_at: '2020-07-30T03:02:01Z'
+album: This Old Dog
+album_image: https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818
+artist: Mac DeMarco
+duration_ms: 227653
+id: 36rqjSUBaArtMBLWrzwInc
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM
+      href: https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM
+      id: 3Sz7ZnJQBIHsXLUSo0OQtM
+      name: Mac DeMarco
+      type: artist
+      uri: spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR
+    href: https://api.spotify.com/v1/albums/6XzoFb3hP14jVQeCMRdVJR
+    id: 6XzoFb3hP14jVQeCMRdVJR
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e0298526846ff341ae71e5c3818
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d0000485198526846ff341ae71e5c3818
+      width: 64
+    is_playable: true
+    name: This Old Dog
+    release_date: '2017-05-05'
+    release_date_precision: day
+    total_tracks: 13
+    type: album
+    uri: spotify:album:6XzoFb3hP14jVQeCMRdVJR
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM
+    href: https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM
+    id: 3Sz7ZnJQBIHsXLUSo0OQtM
+    name: Mac DeMarco
+    type: artist
+    uri: spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM
+  available_markets: []
+  disc_number: 1
+  duration_ms: 227653
+  explicit: false
+  external_ids:
+    isrc: QMMZN1701308
+  external_urls:
+    spotify: https://open.spotify.com/track/36rqjSUBaArtMBLWrzwInc
+  href: https://api.spotify.com/v1/tracks/36rqjSUBaArtMBLWrzwInc
+  id: 36rqjSUBaArtMBLWrzwInc
+  is_local: false
+  is_playable: true
+  name: On the Level
+  popularity: 0
+  preview_url: null
+  track_number: 11
+  type: track
+  uri: spotify:track:36rqjSUBaArtMBLWrzwInc
+spotify_url: https://open.spotify.com/track/36rqjSUBaArtMBLWrzwInc
+title: On the Level

@@ -1,0 +1,68 @@
+added_at: '2023-10-08T23:20:58Z'
+album: The Album
+album_image: https://i.scdn.co/image/ab67616d0000b273fe2466bf2316d66cf3d3249c
+artist: Haddaway
+duration_ms: 270373
+id: 2IHaGyfxNoFPLJnaEg4GTs
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma
+      href: https://api.spotify.com/v1/artists/0Suv0tRrNrUlRzAy8aXjma
+      id: 0Suv0tRrNrUlRzAy8aXjma
+      name: Haddaway
+      type: artist
+      uri: spotify:artist:0Suv0tRrNrUlRzAy8aXjma
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC
+    href: https://api.spotify.com/v1/albums/1LAx7yCVbGwskdnGDof8SC
+    id: 1LAx7yCVbGwskdnGDof8SC
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273fe2466bf2316d66cf3d3249c
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02fe2466bf2316d66cf3d3249c
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851fe2466bf2316d66cf3d3249c
+      width: 64
+    is_playable: true
+    name: The Album
+    release_date: '1993-09-13'
+    release_date_precision: day
+    total_tracks: 12
+    type: album
+    uri: spotify:album:1LAx7yCVbGwskdnGDof8SC
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma
+    href: https://api.spotify.com/v1/artists/0Suv0tRrNrUlRzAy8aXjma
+    id: 0Suv0tRrNrUlRzAy8aXjma
+    name: Haddaway
+    type: artist
+    uri: spotify:artist:0Suv0tRrNrUlRzAy8aXjma
+  available_markets: []
+  disc_number: 1
+  duration_ms: 270373
+  explicit: false
+  external_ids:
+    isrc: DEA410500401
+  external_urls:
+    spotify: https://open.spotify.com/track/2IHaGyfxNoFPLJnaEg4GTs
+  href: https://api.spotify.com/v1/tracks/2IHaGyfxNoFPLJnaEg4GTs
+  id: 2IHaGyfxNoFPLJnaEg4GTs
+  is_local: false
+  is_playable: true
+  name: What Is Love - 7" Mix
+  popularity: 18
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:2IHaGyfxNoFPLJnaEg4GTs
+spotify_url: https://open.spotify.com/track/2IHaGyfxNoFPLJnaEg4GTs
+title: What Is Love - 7" Mix

@@ -1,0 +1,27 @@
+---
+title: "The Dead Mountaineer's Inn"
+date: 2015-04-04T22:25:32.000Z
+draft: false
+tags: [Arkady Strugatsky]
+layout: book
+image: https://images-na.ssl-images-amazon.com/images/P/B00N6PBGRM.LZZZZZZZ.jpg
+image: 
+  - https://images-na.ssl-images-amazon.com/images/P/B00N6PBGRM.LZZZZZZZ.jpg
+asin: "B00N6PBGRM"
+yaml: the-dead-mountaineer-s-inn
+author: Arkady Strugatsky
+
+---
+
+**A hilarious spoof on the classic country-house murder mystery, from the Russian masters of sci-fi—never before translated**  
+    
+ When Inspector Peter Glebsky arrives at the remote ski chalet on vacation, the last thing he intends to do is get involved in any police work. He’s there to ski, drink brandy, and loaf around in blissful solitude.  
+    
+ But he hadn’t counted on the other vacationers, an eccentric bunch including a famous hypnotist, a physicist with a penchant for gymnastic feats, a sulky teenager of indeterminate gender, and the mysterious Mr. and Mrs. Moses. And as the chalet fills up, strange things start happening—things that seem to indicate the presence of another, unseen guest. Is there a ghost on the premises? A prankster? Something more sinister? And then an avalanche blocks the mountain pass, and they’re stuck.  
+    
+ Which is just about when they find the corpse. Meaning that Glebksy’s vacation is over and he’s embarked on the most unusual investigation he’s ever been involved with. In fact, the further he looks into it, the more Glebsky realizes that the victim may not even be human.  
+    
+ In this late novel from the legendary Russian sci-fi duo—here in its first-ever English translation—the Strugatskys gleefully upend the plot of many a Hercule Poirot mystery—and the result is much funnier, and much stranger, than anything Agatha Christie ever wrote.  
+  
+  
+*From the Trade Paperback edition.*

@@ -1,0 +1,72 @@
+added_at: '2020-08-10T00:31:54Z'
+album: '...And Justice for All (Remastered Deluxe Box Set)'
+album_image: https://i.scdn.co/image/ab67616d0000b273be54746b374358970b5e617a
+artist: Metallica
+duration_ms: 446145
+id: 0LAcM6I7ijW4VVW0aytl1t
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB
+      href: https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB
+      id: 2ye2Wgw4gimLv2eAKyk1NB
+      name: Metallica
+      type: artist
+      uri: spotify:artist:2ye2Wgw4gimLv2eAKyk1NB
+    available_markets:
+    - CA
+    - US
+    external_urls:
+      spotify: https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF
+    href: https://api.spotify.com/v1/albums/2XbWaerVk9fjhEiGSrd6TF
+    id: 2XbWaerVk9fjhEiGSrd6TF
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273be54746b374358970b5e617a
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02be54746b374358970b5e617a
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851be54746b374358970b5e617a
+      width: 64
+    is_playable: true
+    name: '...And Justice for All (Remastered Deluxe Box Set)'
+    release_date: '1988-09-07'
+    release_date_precision: day
+    total_tracks: 147
+    type: album
+    uri: spotify:album:2XbWaerVk9fjhEiGSrd6TF
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB
+    href: https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB
+    id: 2ye2Wgw4gimLv2eAKyk1NB
+    name: Metallica
+    type: artist
+    uri: spotify:artist:2ye2Wgw4gimLv2eAKyk1NB
+  available_markets:
+  - CA
+  - US
+  disc_number: 1
+  duration_ms: 446145
+  explicit: false
+  external_ids:
+    isrc: QMKHM1700138
+  external_urls:
+    spotify: https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t
+  href: https://api.spotify.com/v1/tracks/0LAcM6I7ijW4VVW0aytl1t
+  id: 0LAcM6I7ijW4VVW0aytl1t
+  is_local: false
+  is_playable: true
+  name: One (Remastered)
+  popularity: 68
+  preview_url: null
+  track_number: 4
+  type: track
+  uri: spotify:track:0LAcM6I7ijW4VVW0aytl1t
+spotify_url: https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t
+title: One (Remastered)

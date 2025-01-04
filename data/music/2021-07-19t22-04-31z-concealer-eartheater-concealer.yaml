@@ -1,0 +1,68 @@
+added_at: '2021-07-19T22:04:31Z'
+album: Concealer
+album_image: https://i.scdn.co/image/ab67616d0000b27376f3067721f92cd2fd51bb4d
+artist: Eartheater
+duration_ms: 158584
+id: 50y2fNzHymzKehWtnyD8Cb
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0
+      href: https://api.spotify.com/v1/artists/18ca9d5EU5R1AhVKPR1cm0
+      id: 18ca9d5EU5R1AhVKPR1cm0
+      name: Eartheater
+      type: artist
+      uri: spotify:artist:18ca9d5EU5R1AhVKPR1cm0
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/4KEomTygDWvHqXgwQVuhe4
+    href: https://api.spotify.com/v1/albums/4KEomTygDWvHqXgwQVuhe4
+    id: 4KEomTygDWvHqXgwQVuhe4
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b27376f3067721f92cd2fd51bb4d
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e0276f3067721f92cd2fd51bb4d
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d0000485176f3067721f92cd2fd51bb4d
+      width: 64
+    is_playable: true
+    name: Concealer
+    release_date: '2020-03-13'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:4KEomTygDWvHqXgwQVuhe4
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0
+    href: https://api.spotify.com/v1/artists/18ca9d5EU5R1AhVKPR1cm0
+    id: 18ca9d5EU5R1AhVKPR1cm0
+    name: Eartheater
+    type: artist
+    uri: spotify:artist:18ca9d5EU5R1AhVKPR1cm0
+  available_markets: []
+  disc_number: 1
+  duration_ms: 158584
+  explicit: false
+  external_ids:
+    isrc: USCGJ1913212
+  external_urls:
+    spotify: https://open.spotify.com/track/50y2fNzHymzKehWtnyD8Cb
+  href: https://api.spotify.com/v1/tracks/50y2fNzHymzKehWtnyD8Cb
+  id: 50y2fNzHymzKehWtnyD8Cb
+  is_local: false
+  is_playable: true
+  name: Concealer
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:50y2fNzHymzKehWtnyD8Cb
+spotify_url: https://open.spotify.com/track/50y2fNzHymzKehWtnyD8Cb
+title: Concealer

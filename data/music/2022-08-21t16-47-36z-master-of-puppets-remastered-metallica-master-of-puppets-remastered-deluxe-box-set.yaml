@@ -1,0 +1,74 @@
+added_at: '2022-08-21T16:47:36Z'
+album: Master of Puppets (Remastered Deluxe Box Set)
+album_image: https://i.scdn.co/image/ab67616d0000b273cad4832cb7b5844343278daa
+artist: Metallica
+duration_ms: 515386
+id: 54bm2e3tk8cliUz3VSdCPZ
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB
+      href: https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB
+      id: 2ye2Wgw4gimLv2eAKyk1NB
+      name: Metallica
+      type: artist
+      uri: spotify:artist:2ye2Wgw4gimLv2eAKyk1NB
+    available_markets:
+    - CA
+    - PR
+    - US
+    external_urls:
+      spotify: https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j
+    href: https://api.spotify.com/v1/albums/7CGhx630DIjdJqaBDVKc5j
+    id: 7CGhx630DIjdJqaBDVKc5j
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273cad4832cb7b5844343278daa
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02cad4832cb7b5844343278daa
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851cad4832cb7b5844343278daa
+      width: 64
+    is_playable: true
+    name: Master of Puppets (Remastered Deluxe Box Set)
+    release_date: '1986-03-03'
+    release_date_precision: day
+    total_tracks: 137
+    type: album
+    uri: spotify:album:7CGhx630DIjdJqaBDVKc5j
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB
+    href: https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB
+    id: 2ye2Wgw4gimLv2eAKyk1NB
+    name: Metallica
+    type: artist
+    uri: spotify:artist:2ye2Wgw4gimLv2eAKyk1NB
+  available_markets:
+  - CA
+  - PR
+  - US
+  disc_number: 1
+  duration_ms: 515386
+  explicit: false
+  external_ids:
+    isrc: QMKHM1600219
+  external_urls:
+    spotify: https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ
+  href: https://api.spotify.com/v1/tracks/54bm2e3tk8cliUz3VSdCPZ
+  id: 54bm2e3tk8cliUz3VSdCPZ
+  is_local: false
+  is_playable: true
+  name: Master of Puppets (Remastered)
+  popularity: 70
+  preview_url: null
+  track_number: 2
+  type: track
+  uri: spotify:track:54bm2e3tk8cliUz3VSdCPZ
+spotify_url: https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ
+title: Master of Puppets (Remastered)

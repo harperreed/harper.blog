@@ -1,0 +1,68 @@
+added_at: '2023-08-24T23:31:32Z'
+album: Sirens (deluxe edition)
+album_image: https://i.scdn.co/image/ab67616d0000b273c45c7b5779a2882274439d71
+artist: Nicolas Jaar
+duration_ms: 394121
+id: 3zJM2uRfPuVsED5NN4iQOw
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W
+      href: https://api.spotify.com/v1/artists/5a0etAzO5V26gvlbmHzT9W
+      id: 5a0etAzO5V26gvlbmHzT9W
+      name: Nicolas Jaar
+      type: artist
+      uri: spotify:artist:5a0etAzO5V26gvlbmHzT9W
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/2VXWzIyMRrumxBuLzOAzTF
+    href: https://api.spotify.com/v1/albums/2VXWzIyMRrumxBuLzOAzTF
+    id: 2VXWzIyMRrumxBuLzOAzTF
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273c45c7b5779a2882274439d71
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02c45c7b5779a2882274439d71
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851c45c7b5779a2882274439d71
+      width: 64
+    is_playable: true
+    name: Sirens (deluxe edition)
+    release_date: '2017-12-08'
+    release_date_precision: day
+    total_tracks: 9
+    type: album
+    uri: spotify:album:2VXWzIyMRrumxBuLzOAzTF
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W
+    href: https://api.spotify.com/v1/artists/5a0etAzO5V26gvlbmHzT9W
+    id: 5a0etAzO5V26gvlbmHzT9W
+    name: Nicolas Jaar
+    type: artist
+    uri: spotify:artist:5a0etAzO5V26gvlbmHzT9W
+  available_markets: []
+  disc_number: 1
+  duration_ms: 394121
+  explicit: false
+  external_ids:
+    isrc: GBWWP1602103
+  external_urls:
+    spotify: https://open.spotify.com/track/3zJM2uRfPuVsED5NN4iQOw
+  href: https://api.spotify.com/v1/tracks/3zJM2uRfPuVsED5NN4iQOw
+  id: 3zJM2uRfPuVsED5NN4iQOw
+  is_local: false
+  is_playable: true
+  name: 'No'
+  popularity: 0
+  preview_url: null
+  track_number: 6
+  type: track
+  uri: spotify:track:3zJM2uRfPuVsED5NN4iQOw
+spotify_url: https://open.spotify.com/track/3zJM2uRfPuVsED5NN4iQOw
+title: 'No'

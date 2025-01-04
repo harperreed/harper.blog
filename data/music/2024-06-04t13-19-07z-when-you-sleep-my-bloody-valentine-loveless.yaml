@@ -1,0 +1,72 @@
+added_at: '2024-06-04T13:19:07Z'
+album: Loveless
+album_image: https://i.scdn.co/image/ab67616d0000b2730ede770070357575bc050511
+artist: my bloody valentine
+duration_ms: 251933
+id: 3HfEgAaf0koxBpBB8NvGda
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5
+      href: https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5
+      id: 3G3Gdm0ZRAOxLrbyjfhii5
+      name: my bloody valentine
+      type: artist
+      uri: spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5
+    available_markets:
+    - CA
+    - US
+    external_urls:
+      spotify: https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6
+    href: https://api.spotify.com/v1/albums/3GH4IiI6jQAIvnHVdb5FB6
+    id: 3GH4IiI6jQAIvnHVdb5FB6
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2730ede770070357575bc050511
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e020ede770070357575bc050511
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048510ede770070357575bc050511
+      width: 64
+    is_playable: true
+    name: Loveless
+    release_date: '1991-11-04'
+    release_date_precision: day
+    total_tracks: 11
+    type: album
+    uri: spotify:album:3GH4IiI6jQAIvnHVdb5FB6
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5
+    href: https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5
+    id: 3G3Gdm0ZRAOxLrbyjfhii5
+    name: my bloody valentine
+    type: artist
+    uri: spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5
+  available_markets:
+  - CA
+  - US
+  disc_number: 1
+  duration_ms: 251933
+  explicit: false
+  external_ids:
+    isrc: USWB10101907
+  external_urls:
+    spotify: https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda
+  href: https://api.spotify.com/v1/tracks/3HfEgAaf0koxBpBB8NvGda
+  id: 3HfEgAaf0koxBpBB8NvGda
+  is_local: false
+  is_playable: true
+  name: When You Sleep
+  popularity: 61
+  preview_url: null
+  track_number: 5
+  type: track
+  uri: spotify:track:3HfEgAaf0koxBpBB8NvGda
+spotify_url: https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda
+title: When You Sleep

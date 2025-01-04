@@ -1,0 +1,68 @@
+added_at: '2023-11-27T00:04:02Z'
+album: Rifts
+album_image: https://i.scdn.co/image/ab67616d0000b273aadd8180bdf94173618a7c92
+artist: Oneohtrix Point Never
+duration_ms: 95794
+id: 1FZid2kPGVvAUM2Rab8NN7
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK
+      href: https://api.spotify.com/v1/artists/2wPDbhaGXCqROrVmwDdCrK
+      id: 2wPDbhaGXCqROrVmwDdCrK
+      name: Oneohtrix Point Never
+      type: artist
+      uri: spotify:artist:2wPDbhaGXCqROrVmwDdCrK
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/7LFJtH7a8IEr9ONvdkEdEJ
+    href: https://api.spotify.com/v1/albums/7LFJtH7a8IEr9ONvdkEdEJ
+    id: 7LFJtH7a8IEr9ONvdkEdEJ
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273aadd8180bdf94173618a7c92
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02aadd8180bdf94173618a7c92
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851aadd8180bdf94173618a7c92
+      width: 64
+    is_playable: true
+    name: Rifts
+    release_date: '2012-11-19'
+    release_date_precision: day
+    total_tracks: 33
+    type: album
+    uri: spotify:album:7LFJtH7a8IEr9ONvdkEdEJ
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK
+    href: https://api.spotify.com/v1/artists/2wPDbhaGXCqROrVmwDdCrK
+    id: 2wPDbhaGXCqROrVmwDdCrK
+    name: Oneohtrix Point Never
+    type: artist
+    uri: spotify:artist:2wPDbhaGXCqROrVmwDdCrK
+  available_markets: []
+  disc_number: 1
+  duration_ms: 95794
+  explicit: false
+  external_ids:
+    isrc: QMUJD1202026
+  external_urls:
+    spotify: https://open.spotify.com/track/1FZid2kPGVvAUM2Rab8NN7
+  href: https://api.spotify.com/v1/tracks/1FZid2kPGVvAUM2Rab8NN7
+  id: 1FZid2kPGVvAUM2Rab8NN7
+  is_local: false
+  is_playable: true
+  name: Lovergirls Precinct
+  popularity: 0
+  preview_url: null
+  track_number: 20
+  type: track
+  uri: spotify:track:1FZid2kPGVvAUM2Rab8NN7
+spotify_url: https://open.spotify.com/track/1FZid2kPGVvAUM2Rab8NN7
+title: Lovergirls Precinct

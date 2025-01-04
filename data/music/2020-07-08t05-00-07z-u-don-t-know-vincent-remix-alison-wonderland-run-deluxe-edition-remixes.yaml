@@ -1,0 +1,82 @@
+added_at: '2020-07-08T05:00:07Z'
+album: Run (Deluxe Edition - Remixes)
+album_image: https://i.scdn.co/image/ab67616d0000b273ee53a57a8861d0ec332b78ad
+artist: Alison Wonderland
+duration_ms: 217794
+id: 2i4jtleFrK1P8KrP3r14xB
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW
+      href: https://api.spotify.com/v1/artists/11gWrKZMBsGQWmobv3oNfW
+      id: 11gWrKZMBsGQWmobv3oNfW
+      name: Alison Wonderland
+      type: artist
+      uri: spotify:artist:11gWrKZMBsGQWmobv3oNfW
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/0NxGP4qblRTsHdudzIoRPE
+    href: https://api.spotify.com/v1/albums/0NxGP4qblRTsHdudzIoRPE
+    id: 0NxGP4qblRTsHdudzIoRPE
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273ee53a57a8861d0ec332b78ad
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02ee53a57a8861d0ec332b78ad
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851ee53a57a8861d0ec332b78ad
+      width: 64
+    is_playable: true
+    name: Run (Deluxe Edition - Remixes)
+    release_date: '2015-10-30'
+    release_date_precision: day
+    total_tracks: 12
+    type: album
+    uri: spotify:album:0NxGP4qblRTsHdudzIoRPE
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW
+    href: https://api.spotify.com/v1/artists/11gWrKZMBsGQWmobv3oNfW
+    id: 11gWrKZMBsGQWmobv3oNfW
+    name: Alison Wonderland
+    type: artist
+    uri: spotify:artist:11gWrKZMBsGQWmobv3oNfW
+  - external_urls:
+      spotify: https://open.spotify.com/artist/5gfPxEps3rAgyDzS5hfxHz
+    href: https://api.spotify.com/v1/artists/5gfPxEps3rAgyDzS5hfxHz
+    id: 5gfPxEps3rAgyDzS5hfxHz
+    name: Wayne Coyne
+    type: artist
+    uri: spotify:artist:5gfPxEps3rAgyDzS5hfxHz
+  - external_urls:
+      spotify: https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB
+    href: https://api.spotify.com/v1/artists/7ymczLNmjz6AVMGApVNWbB
+    id: 7ymczLNmjz6AVMGApVNWbB
+    name: Vincent
+    type: artist
+    uri: spotify:artist:7ymczLNmjz6AVMGApVNWbB
+  available_markets: []
+  disc_number: 1
+  duration_ms: 217794
+  explicit: false
+  external_ids:
+    isrc: AUUM71501291
+  external_urls:
+    spotify: https://open.spotify.com/track/2i4jtleFrK1P8KrP3r14xB
+  href: https://api.spotify.com/v1/tracks/2i4jtleFrK1P8KrP3r14xB
+  id: 2i4jtleFrK1P8KrP3r14xB
+  is_local: false
+  is_playable: true
+  name: U Don't Know - Vincent Remix
+  popularity: 0
+  preview_url: null
+  track_number: 2
+  type: track
+  uri: spotify:track:2i4jtleFrK1P8KrP3r14xB
+spotify_url: https://open.spotify.com/track/2i4jtleFrK1P8KrP3r14xB
+title: U Don't Know - Vincent Remix

@@ -1,0 +1,75 @@
+added_at: '2023-11-23T18:39:57Z'
+album: Sent From My Telephone
+album_image: https://i.scdn.co/image/ab67616d0000b273e4d7c0434669bb29c4480f8f
+artist: Voice Actor
+duration_ms: 152018
+id: 09JSsDztGIy37dye5eqzb3
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/6PsuUa5ijopH2T8rVzHSZc
+      href: https://api.spotify.com/v1/artists/6PsuUa5ijopH2T8rVzHSZc
+      id: 6PsuUa5ijopH2T8rVzHSZc
+      name: Voice Actor
+      type: artist
+      uri: spotify:artist:6PsuUa5ijopH2T8rVzHSZc
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/4h9EUsDMvwsUdmXEvK449j
+    href: https://api.spotify.com/v1/albums/4h9EUsDMvwsUdmXEvK449j
+    id: 4h9EUsDMvwsUdmXEvK449j
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273e4d7c0434669bb29c4480f8f
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02e4d7c0434669bb29c4480f8f
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851e4d7c0434669bb29c4480f8f
+      width: 64
+    is_playable: true
+    name: Sent From My Telephone
+    release_date: '2022-10-05'
+    release_date_precision: day
+    total_tracks: 109
+    type: album
+    uri: spotify:album:4h9EUsDMvwsUdmXEvK449j
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/6PsuUa5ijopH2T8rVzHSZc
+    href: https://api.spotify.com/v1/artists/6PsuUa5ijopH2T8rVzHSZc
+    id: 6PsuUa5ijopH2T8rVzHSZc
+    name: Voice Actor
+    type: artist
+    uri: spotify:artist:6PsuUa5ijopH2T8rVzHSZc
+  - external_urls:
+      spotify: https://open.spotify.com/artist/4vCkSG0KYQ1PlkTJK8vnn6
+    href: https://api.spotify.com/v1/artists/4vCkSG0KYQ1PlkTJK8vnn6
+    id: 4vCkSG0KYQ1PlkTJK8vnn6
+    name: Joseph
+    type: artist
+    uri: spotify:artist:4vCkSG0KYQ1PlkTJK8vnn6
+  available_markets: []
+  disc_number: 1
+  duration_ms: 152018
+  explicit: false
+  external_ids:
+    isrc: BEIX82200262
+  external_urls:
+    spotify: https://open.spotify.com/track/09JSsDztGIy37dye5eqzb3
+  href: https://api.spotify.com/v1/tracks/09JSsDztGIy37dye5eqzb3
+  id: 09JSsDztGIy37dye5eqzb3
+  is_local: false
+  is_playable: true
+  name: Carefully
+  popularity: 6
+  preview_url: null
+  track_number: 16
+  type: track
+  uri: spotify:track:09JSsDztGIy37dye5eqzb3
+spotify_url: https://open.spotify.com/track/09JSsDztGIy37dye5eqzb3
+title: Carefully

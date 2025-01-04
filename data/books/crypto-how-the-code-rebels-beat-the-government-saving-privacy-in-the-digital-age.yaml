@@ -1,0 +1,753 @@
+asin: ''
+author: Steven Levy
+authors:
+  author:
+    average_rating: '3.88'
+    id: '32131'
+    image_url:
+      _: '
+
+        https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png
+
+        '
+      nophoto: 'true'
+    link: https://www.goodreads.com/author/show/32131.Steven_Levy
+    name: Steven Levy
+    ratings_count: '38064'
+    role: ''
+    small_image_url:
+      _: '
+
+        https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png
+
+        '
+      nophoto: 'true'
+    text_reviews_count: '1413'
+average_rating: '3.99'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Walmart eBooks
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: Abebooks
+  - id: '882'
+    link: https://www.goodreads.com/book_link/follow/882
+    name: Book Depository
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+country_code: US
+description: ''
+edition_information: ''
+format: ''
+id: '160737'
+image: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: 0756777887
+isbn13: '9780756777883'
+kindle_asin: B004IATDCO
+language_code: ''
+link: https://www.goodreads.com/book/show/160737.Crypto
+marketplace_id: ATVPDKIKX0DER
+num_pages: ''
+popular_shelves:
+  shelf:
+  - count: '2358'
+    name: to-read
+  - count: '67'
+    name: currently-reading
+  - count: '63'
+    name: non-fiction
+  - count: '35'
+    name: history
+  - count: '32'
+    name: technology
+  - count: '22'
+    name: science
+  - count: '20'
+    name: nonfiction
+  - count: '17'
+    name: tech
+  - count: '16'
+    name: cryptography
+  - count: '14'
+    name: computers
+  - count: '13'
+    name: security
+  - count: '13'
+    name: owned
+  - count: '12'
+    name: computer-science
+  - count: '12'
+    name: crypto
+  - count: '10'
+    name: default
+  - count: '9'
+    name: computer
+  - count: '8'
+    name: computing
+  - count: '7'
+    name: to-buy
+  - count: '4'
+    name: cyber-security
+  - count: '4'
+    name: privacy
+  - count: '4'
+    name: wish-list
+  - count: '4'
+    name: cybersecurity
+  - count: '4'
+    name: programming
+  - count: '4'
+    name: library
+  - count: '4'
+    name: mathematics
+  - count: '4'
+    name: historical
+  - count: '3'
+    name: i-own
+  - count: '3'
+    name: computer-security
+  - count: '3'
+    name: to-read-nonfiction
+  - count: '3'
+    name: it
+  - count: '3'
+    name: national-security
+  - count: '3'
+    name: software
+  - count: '3'
+    name: ict
+  - count: '3'
+    name: my-library
+  - count: '3'
+    name: cyber
+  - count: '3'
+    name: business
+  - count: '3'
+    name: tech-history
+  - count: '3'
+    name: husband
+  - count: '3'
+    name: hacking
+  - count: '3'
+    name: books-i-own
+  - count: '3'
+    name: cryptology
+  - count: '3'
+    name: unsorted
+  - count: '2'
+    name: on-hold
+  - count: '2'
+    name: stem
+  - count: '2'
+    name: it-security
+  - count: '2'
+    name: cs
+  - count: '2'
+    name: compsci
+  - count: '2'
+    name: mr-robot
+  - count: '2'
+    name: nonfiction-to-read
+  - count: '2'
+    name: cybersecurity-canon
+  - count: '2'
+    name: math
+  - count: '2'
+    name: science-history
+  - count: '2'
+    name: current-affairs
+  - count: '2'
+    name: to-read-2
+  - count: '2'
+    name: scientific
+  - count: '2'
+    name: recommended
+  - count: '2'
+    name: a
+  - count: '2'
+    name: ebooks
+  - count: '2'
+    name: work
+  - count: '2'
+    name: intelligence
+  - count: '2'
+    name: have
+  - count: '2'
+    name: information
+  - count: '2'
+    name: american-literature
+  - count: '2'
+    name: science-technology
+  - count: '2'
+    name: maybe
+  - count: '2'
+    name: check
+  - count: '2'
+    name: not-read
+  - count: '2'
+    name: development
+  - count: '2'
+    name: hardcover
+  - count: '2'
+    name: ebook
+  - count: '2'
+    name: 0209
+  - count: '2'
+    name: epub
+  - count: '2'
+    name: technology-history
+  - count: '2'
+    name: espionage
+  - count: '2'
+    name: reference
+  - count: '2'
+    name: technical
+  - count: '2'
+    name: kindle
+  - count: '2'
+    name: computer-related
+  - count: '1'
+    name: dtown-library
+  - count: '1'
+    name: proofpoint
+  - count: '1'
+    name: scanned
+  - count: '1'
+    name: albabbage
+  - count: '1'
+    name: 28b-cia-fbi-nsa-kgb
+  - count: '1'
+    name: computer-stuff
+  - count: '1'
+    name: hacktivism
+  - count: '1'
+    name: read-history
+  - count: '1'
+    name: history-current-affairs
+  - count: '1'
+    name: to-read-2019
+  - count: '1'
+    name: might-read
+  - count: '1'
+    name: cyber-canon
+  - count: '1'
+    name: own-ready-to-read
+  - count: '1'
+    name: chintushelf
+  - count: '1'
+    name: '1'
+  - count: '1'
+    name: books-i-want
+  - count: '1'
+    name: via-g
+  - count: '1'
+    name: 2000s
+  - count: '1'
+    name: pc-skills-design-infography
+  - count: '1'
+    name: mh
+  - count: '1'
+    name: "\u062A\u0627\u0631\u064A\u062E"
+  - count: '1'
+    name: academic
+publication_day: ''
+publication_month: ''
+publication_year: ''
+publisher: ''
+ratings_count: '1'
+reviews_widget: "\n      \n        <style>\n  #goodreads-widget {\n    font-family:\
+  \ georgia, serif;\n    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget\
+  \ h1 {\n    font-weight:normal;\n    font-size: 16px;\n    border-bottom: 1px solid\
+  \ #BBB596;\n    margin-bottom: 0;\n  }\n  #goodreads-widget a {\n    text-decoration:\
+  \ none;\n    color:#660;\n  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget\
+  \ a:hover { text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/160737.Crypto\"\
+  >Crypto Reviews</a></h1></div>\n  <iframe id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0756777887&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/160737.Crypto?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>\n\n      \n    "
+series_works: "\n    \n  "
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '151520'
+        link: https://www.goodreads.com/author/show/151520.James_Bamford
+        name: James Bamford
+    average_rating: '3.99'
+    id: '804860'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0140067485
+    isbn13: '9780140067484'
+    link: https://www.goodreads.com/book/show/804860.The_Puzzle_Palace
+    num_pages: '656'
+    publication_day: '29'
+    publication_month: '9'
+    publication_year: '1983'
+    ratings_count: '1240'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Puzzle Palace: Inside the National Security Agency, America''s Most
+      Secret Intelligence Organization'
+    title_without_series: 'The Puzzle Palace: Inside the National Security Agency,
+      America''s Most Secret Intelligence Organization'
+    work:
+      id: '790818'
+  - authors:
+      author:
+        id: '16679'
+        link: https://www.goodreads.com/author/show/16679.David_Kahn
+        name: David Kahn
+    average_rating: '3.99'
+    id: '29608'
+    image_url: https://images.gr-assets.com/books/1492339589m/29608.jpg
+    isbn: 0684831309
+    isbn13: '9780684831305'
+    link: https://www.goodreads.com/book/show/29608.The_Codebreakers
+    num_pages: '1200'
+    publication_day: '5'
+    publication_month: '12'
+    publication_year: '1996'
+    ratings_count: '1240'
+    small_image_url: https://images.gr-assets.com/books/1492339589s/29608.jpg
+    title: 'The Codebreakers: The Comprehensive History of Secret Communication from
+      Ancient Times to the Internet'
+    title_without_series: 'The Codebreakers: The Comprehensive History of Secret Communication
+      from Ancient Times to the Internet'
+    work:
+      id: '458200'
+  - authors:
+      author:
+        id: '6938812'
+        link: https://www.goodreads.com/author/show/6938812.Katie_Hafner
+        name: Katie Hafner
+    average_rating: '3.99'
+    id: '281818'
+    image_url: https://images.gr-assets.com/books/1405259838m/281818.jpg
+    isbn: 0684832674
+    isbn13: '9780684832678'
+    link: https://www.goodreads.com/book/show/281818.Where_Wizards_Stay_Up_Late
+    num_pages: '304'
+    publication_day: '21'
+    publication_month: '1'
+    publication_year: '1998'
+    ratings_count: '1240'
+    small_image_url: https://images.gr-assets.com/books/1405259838s/281818.jpg
+    title: 'Where Wizards Stay Up Late: The Origins of the Internet'
+    title_without_series: 'Where Wizards Stay Up Late: The Origins of the Internet'
+    work:
+      id: '1290875'
+  - authors:
+      author:
+        id: '175417'
+        link: https://www.goodreads.com/author/show/175417.Bruce_Schneier
+        name: Bruce Schneier
+    average_rating: '3.99'
+    id: '351301'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0471128457
+    isbn13: '9780471128458'
+    link: https://www.goodreads.com/book/show/351301.Applied_Cryptography
+    num_pages: '784'
+    publication_day: '2'
+    publication_month: '11'
+    publication_year: '1995'
+    ratings_count: '1240'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Applied Cryptography: Protocols, Algorithms, and Source Code in C'
+    title_without_series: 'Applied Cryptography: Protocols, Algorithms, and Source
+      Code in C'
+    work:
+      id: '341534'
+  - authors:
+      author:
+        id: '172382'
+        link: https://www.goodreads.com/author/show/172382.G_Pascal_Zachary
+        name: G. Pascal Zachary
+    average_rating: '3.99'
+    id: '1416925'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0029356717
+    isbn13: '9780029356715'
+    link: https://www.goodreads.com/book/show/1416925.Show_Stopper_
+    num_pages: ''
+    publication_day: ''
+    publication_month: ''
+    publication_year: ''
+    ratings_count: '1240'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Show Stopper!: The Breakneck Race to Create Windows NT and the Next Generation
+      at Microsoft'
+    title_without_series: 'Show Stopper!: The Breakneck Race to Create Windows NT
+      and the Next Generation at Microsoft'
+    work:
+      id: '1407293'
+  - authors:
+      author:
+        id: '337448'
+        link: https://www.goodreads.com/author/show/337448.Ross_J_Anderson
+        name: Ross J. Anderson
+    average_rating: '3.99'
+    id: '3268675'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0470068523
+    isbn13: '9780470068526'
+    link: https://www.goodreads.com/book/show/3268675-security-engineering
+    num_pages: '1040'
+    publication_day: '1'
+    publication_month: '4'
+    publication_year: '2008'
+    ratings_count: '1240'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Security Engineering: A Guide to Building Dependable Distributed Systems'
+    title_without_series: 'Security Engineering: A Guide to Building Dependable Distributed
+      Systems'
+    work:
+      id: '3304012'
+  - authors:
+      author:
+        id: '5631268'
+        link: https://www.goodreads.com/author/show/5631268.F_H_Hinsley
+        name: F.H. Hinsley
+    average_rating: '3.99'
+    id: '29609'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0192801325
+    isbn13: '9780192801326'
+    link: https://www.goodreads.com/book/show/29609.Codebreakers
+    num_pages: '360'
+    publication_day: '9'
+    publication_month: '8'
+    publication_year: '2001'
+    ratings_count: '1240'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Codebreakers: The Inside Story of Bletchley Park'
+    title_without_series: 'Codebreakers: The Inside Story of Bletchley Park'
+    work:
+      id: '30045'
+  - authors:
+      author:
+        id: '319926'
+        link: https://www.goodreads.com/author/show/319926.Michelle_Slatalla
+        name: Michelle Slatalla
+    average_rating: '3.99'
+    id: '984598'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0060926945
+    isbn13: '9780060926946'
+    link: https://www.goodreads.com/book/show/984598.Masters_of_Deception
+    num_pages: '240'
+    publication_day: '1'
+    publication_month: '12'
+    publication_year: '1995'
+    ratings_count: '1240'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Masters of Deception: The Gang That Ruled Cyberspace'
+    title_without_series: 'Masters of Deception: The Gang That Ruled Cyberspace'
+    work:
+      id: '970097'
+  - authors:
+      author:
+        id: '10955'
+        link: https://www.goodreads.com/author/show/10955.Jonathan_Littman
+        name: Jonathan Littman
+    average_rating: '3.99'
+    id: '18162'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0316528692
+    isbn13: '9780316528696'
+    link: https://www.goodreads.com/book/show/18162.The_Fugitive_Game
+    num_pages: '416'
+    publication_day: '1'
+    publication_month: '1'
+    publication_year: '1997'
+    ratings_count: '1240'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Fugitive Game: Online with Kevin Mitnick'
+    title_without_series: 'The Fugitive Game: Online with Kevin Mitnick'
+    work:
+      id: '19619'
+  - authors:
+      author:
+        id: '167896'
+        link: https://www.goodreads.com/author/show/167896.Glyn_Moody
+        name: Glyn Moody
+    average_rating: '3.99'
+    id: '289947'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0738206709
+    isbn13: '9780738206707'
+    link: https://www.goodreads.com/book/show/289947.Rebel_Code
+    num_pages: '344'
+    publication_day: '11'
+    publication_month: '7'
+    publication_year: '2002'
+    ratings_count: '1240'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Rebel Code: Linux and the Open Source Revolution'
+    title_without_series: 'Rebel Code: Linux and the Open Source Revolution'
+    work:
+      id: '281305'
+  - authors:
+      author:
+        id: '9876303'
+        link: https://www.goodreads.com/author/show/9876303.Helen_Fouche_Gaines
+        name: Helen Fouche Gaines
+    average_rating: '3.99'
+    id: '382899'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0486200973
+    isbn13: '9780486200972'
+    link: https://www.goodreads.com/book/show/382899.Cryptanalysis
+    num_pages: '256'
+    publication_day: '1'
+    publication_month: '4'
+    publication_year: '1989'
+    ratings_count: '1240'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Cryptanalysis: A Study of Ciphers and Their Solution'
+    title_without_series: 'Cryptanalysis: A Study of Ciphers and Their Solution'
+    work:
+      id: '372670'
+  - authors:
+      author:
+        id: '671953'
+        link: https://www.goodreads.com/author/show/671953.Paul_Freiberger
+        name: Paul Freiberger
+    average_rating: '3.99'
+    id: '1427580'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0071358927
+    isbn13: '9780071358927'
+    link: https://www.goodreads.com/book/show/1427580.Fire_in_the_Valley
+    num_pages: '463'
+    publication_day: '29'
+    publication_month: '11'
+    publication_year: '1999'
+    ratings_count: '1240'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Fire in the Valley: The Making of the Personal Computer'
+    title_without_series: 'Fire in the Valley: The Making of the Personal Computer'
+    work:
+      id: '1418070'
+  - authors:
+      author:
+        id: '18542'
+        link: https://www.goodreads.com/author/show/18542.Eric_S_Raymond
+        name: Eric S. Raymond
+    average_rating: '3.99'
+    id: '104746'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0262680920
+    isbn13: '9780262680929'
+    link: https://www.goodreads.com/book/show/104746.The_New_Hacker_s_Dictionary
+    num_pages: '568'
+    publication_day: '11'
+    publication_month: '10'
+    publication_year: '1996'
+    ratings_count: '1240'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The New Hacker's Dictionary
+    title_without_series: The New Hacker's Dictionary
+    work:
+      id: '100995'
+  - authors:
+      author:
+        id: '384605'
+        link: https://www.goodreads.com/author/show/384605.Greg_Hoglund
+        name: Greg Hoglund
+    average_rating: '3.99'
+    id: '998922'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0321294319
+    isbn13: '9780321294319'
+    link: https://www.goodreads.com/book/show/998922.Rootkits
+    num_pages: '352'
+    publication_day: '1'
+    publication_month: '7'
+    publication_year: '2005'
+    ratings_count: '1240'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Rootkits: Subverting the Windows Kernel'
+    title_without_series: 'Rootkits: Subverting the Windows Kernel'
+    work:
+      id: '984414'
+  - authors:
+      author:
+        id: '2754673'
+        link: https://www.goodreads.com/author/show/2754673.Gordon_Fyodor_Lyon
+        name: Gordon Fyodor Lyon
+    average_rating: '3.99'
+    id: '6019856'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0979958717
+    isbn13: '9780979958717'
+    link: https://www.goodreads.com/book/show/6019856-nmap-network-scanning
+    num_pages: '468'
+    publication_day: '1'
+    publication_month: '1'
+    publication_year: '2009'
+    ratings_count: '1240'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Nmap Network Scanning: The Official Nmap Project Guide to Network Discovery
+      and Security Scanning'
+    title_without_series: 'Nmap Network Scanning: The Official Nmap Project Guide
+      to Network Discovery and Security Scanning'
+    work:
+      id: '6195273'
+  - authors:
+      author:
+        id: '34429'
+        link: https://www.goodreads.com/author/show/34429.Bruce_Sterling
+        name: Bruce Sterling
+    average_rating: '3.99'
+    id: '61182'
+    image_url: https://images.gr-assets.com/books/1446384046m/61182.jpg
+    isbn: 055356370X
+    isbn13: '9780553563702'
+    link: https://www.goodreads.com/book/show/61182.The_Hacker_Crackdown
+    num_pages: '336'
+    publication_day: '1'
+    publication_month: '11'
+    publication_year: '1993'
+    ratings_count: '1240'
+    small_image_url: https://images.gr-assets.com/books/1446384046s/61182.jpg
+    title: 'The Hacker Crackdown: Law and Disorder on the Electronic Frontier'
+    title_without_series: 'The Hacker Crackdown: Law and Disorder on the Electronic
+      Frontier'
+    work:
+      id: '962299'
+  - authors:
+      author:
+        id: '10954'
+        link: https://www.goodreads.com/author/show/10954.Tsutomu_Shimomura
+        name: Tsutomu Shimomura
+    average_rating: '3.99'
+    id: '18161'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0786889136
+    isbn13: '9780786889136'
+    link: https://www.goodreads.com/book/show/18161.Takedown
+    num_pages: '336'
+    publication_day: '1'
+    publication_month: '12'
+    publication_year: '1996'
+    ratings_count: '1240'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Takedown: The Pursuit and Capture of Kevin Mitnick, America''s Most Wanted
+      Computer Outlaw - By the Man Who Did It'
+    title_without_series: 'Takedown: The Pursuit and Capture of Kevin Mitnick, America''s
+      Most Wanted Computer Outlaw - By the Man Who Did It'
+    work:
+      id: '19618'
+  - authors:
+      author:
+        id: '32727'
+        link: https://www.goodreads.com/author/show/32727.Chris_Eagle
+        name: Chris Eagle
+    average_rating: '3.99'
+    id: '3004460'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1593271786'
+    isbn13: '9781593271787'
+    link: https://www.goodreads.com/book/show/3004460-the-ida-pro-book
+    num_pages: '640'
+    publication_day: '19'
+    publication_month: '8'
+    publication_year: '2008'
+    ratings_count: '1240'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The IDA Pro Book: The Unofficial Guide to the World''s Most Popular Disassembler'
+    title_without_series: 'The IDA Pro Book: The Unofficial Guide to the World''s
+      Most Popular Disassembler'
+    work:
+      id: '3034958'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+text_reviews_count: '0'
+title: 'Crypto: How The Code Rebels Beat The Government - Saving Privacy In The Digital
+  Age'
+url: https://www.goodreads.com/book/show/160737.Crypto
+work:
+  best_book_id:
+    _: '984428'
+    type: integer
+  books_count:
+    _: '18'
+    type: integer
+  default_chaptering_book_id:
+    nil: 'true'
+    type: integer
+  default_description_language_code:
+    nil: 'true'
+  desc_user_id:
+    nil: 'true'
+    type: integer
+  id:
+    _: '55370'
+    type: integer
+  media_type: book
+  original_language_id:
+    nil: 'true'
+    type: integer
+  original_publication_day:
+    _: '1'
+    type: integer
+  original_publication_month:
+    _: '1'
+    type: integer
+  original_publication_year:
+    _: '2001'
+    type: integer
+  original_title: 'Crypto: How the Code Rebels Beat the Government Saving Privacy
+    in the Digital Age'
+  rating_dist: 5:391|4:514|3:274|2:48|1:13|total:1240
+  ratings_count:
+    _: '1240'
+    type: integer
+  ratings_sum:
+    _: '4942'
+    type: integer
+  reviews_count:
+    _: '4017'
+    type: integer
+  text_reviews_count:
+    _: '97'
+    type: integer

@@ -1,0 +1,82 @@
+added_at: '2021-05-29T04:08:47Z'
+album: FYE FYE
+album_image: https://i.scdn.co/image/ab67616d0000b2732673e9e1cf39a423b51bd4ae
+artist: Tobe Nwigwe
+duration_ms: 232615
+id: 08L5NUKHYS0RO32tz34G4A
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3
+      href: https://api.spotify.com/v1/artists/3Qh89pgJeZq6d8uM1bTot3
+      id: 3Qh89pgJeZq6d8uM1bTot3
+      name: Tobe Nwigwe
+      type: artist
+      uri: spotify:artist:3Qh89pgJeZq6d8uM1bTot3
+    - external_urls:
+        spotify: https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y
+      href: https://api.spotify.com/v1/artists/6vKEwTQ0TVz0aJoobvLG1Y
+      id: 6vKEwTQ0TVz0aJoobvLG1Y
+      name: Fat Nwigwe
+      type: artist
+      uri: spotify:artist:6vKEwTQ0TVz0aJoobvLG1Y
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/6fyajWzEooH12hA3oJIOZU
+    href: https://api.spotify.com/v1/albums/6fyajWzEooH12hA3oJIOZU
+    id: 6fyajWzEooH12hA3oJIOZU
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2732673e9e1cf39a423b51bd4ae
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e022673e9e1cf39a423b51bd4ae
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048512673e9e1cf39a423b51bd4ae
+      width: 64
+    is_playable: true
+    name: FYE FYE
+    release_date: '2021-05-16'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:6fyajWzEooH12hA3oJIOZU
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3
+    href: https://api.spotify.com/v1/artists/3Qh89pgJeZq6d8uM1bTot3
+    id: 3Qh89pgJeZq6d8uM1bTot3
+    name: Tobe Nwigwe
+    type: artist
+    uri: spotify:artist:3Qh89pgJeZq6d8uM1bTot3
+  - external_urls:
+      spotify: https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y
+    href: https://api.spotify.com/v1/artists/6vKEwTQ0TVz0aJoobvLG1Y
+    id: 6vKEwTQ0TVz0aJoobvLG1Y
+    name: Fat Nwigwe
+    type: artist
+    uri: spotify:artist:6vKEwTQ0TVz0aJoobvLG1Y
+  available_markets: []
+  disc_number: 1
+  duration_ms: 232615
+  explicit: false
+  external_ids:
+    isrc: QZJG52130003
+  external_urls:
+    spotify: https://open.spotify.com/track/08L5NUKHYS0RO32tz34G4A
+  href: https://api.spotify.com/v1/tracks/08L5NUKHYS0RO32tz34G4A
+  id: 08L5NUKHYS0RO32tz34G4A
+  is_local: false
+  is_playable: true
+  name: FYE FYE
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:08L5NUKHYS0RO32tz34G4A
+spotify_url: https://open.spotify.com/track/08L5NUKHYS0RO32tz34G4A
+title: FYE FYE

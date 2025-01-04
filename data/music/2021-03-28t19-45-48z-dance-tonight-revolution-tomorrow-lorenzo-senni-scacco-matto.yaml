@@ -1,0 +1,68 @@
+added_at: '2021-03-28T19:45:48Z'
+album: Scacco Matto
+album_image: https://i.scdn.co/image/ab67616d0000b273d4dcfe76f3a83328bcbc776d
+artist: Lorenzo Senni
+duration_ms: 452853
+id: 5nhCNDNbudIii09s8L6aFs
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi
+      href: https://api.spotify.com/v1/artists/7mKwhB3UiepqzM946jBOyi
+      id: 7mKwhB3UiepqzM946jBOyi
+      name: Lorenzo Senni
+      type: artist
+      uri: spotify:artist:7mKwhB3UiepqzM946jBOyi
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/31DdFqt8J1AMFXBzrMf1Hb
+    href: https://api.spotify.com/v1/albums/31DdFqt8J1AMFXBzrMf1Hb
+    id: 31DdFqt8J1AMFXBzrMf1Hb
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273d4dcfe76f3a83328bcbc776d
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02d4dcfe76f3a83328bcbc776d
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851d4dcfe76f3a83328bcbc776d
+      width: 64
+    is_playable: true
+    name: Scacco Matto
+    release_date: '2020-04-24'
+    release_date_precision: day
+    total_tracks: 8
+    type: album
+    uri: spotify:album:31DdFqt8J1AMFXBzrMf1Hb
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi
+    href: https://api.spotify.com/v1/artists/7mKwhB3UiepqzM946jBOyi
+    id: 7mKwhB3UiepqzM946jBOyi
+    name: Lorenzo Senni
+    type: artist
+    uri: spotify:artist:7mKwhB3UiepqzM946jBOyi
+  available_markets: []
+  disc_number: 1
+  duration_ms: 452853
+  explicit: false
+  external_ids:
+    isrc: GBBPW2000014
+  external_urls:
+    spotify: https://open.spotify.com/track/5nhCNDNbudIii09s8L6aFs
+  href: https://api.spotify.com/v1/tracks/5nhCNDNbudIii09s8L6aFs
+  id: 5nhCNDNbudIii09s8L6aFs
+  is_local: false
+  is_playable: true
+  name: Dance Tonight Revolution Tomorrow
+  popularity: 0
+  preview_url: null
+  track_number: 5
+  type: track
+  uri: spotify:track:5nhCNDNbudIii09s8L6aFs
+spotify_url: https://open.spotify.com/track/5nhCNDNbudIii09s8L6aFs
+title: Dance Tonight Revolution Tomorrow

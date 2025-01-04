@@ -1,0 +1,70 @@
+added_at: '2023-07-03T21:54:03Z'
+album: Blood Sugar Sex Magik
+album_image: https://i.scdn.co/image/ab67616d0000b273e7957730bc48a85ee53657fd
+artist: Red Hot Chili Peppers
+duration_ms: 295373
+id: 6Va1qwqV4lEvbOyPqodbth
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+      href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+      id: 0L8ExT028jH3ddEcZwqJJ5
+      name: Red Hot Chili Peppers
+      type: artist
+      uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+    available_markets:
+    - US
+    external_urls:
+      spotify: https://open.spotify.com/album/1DCI2yWmV4UI7Aga71yx9B
+    href: https://api.spotify.com/v1/albums/1DCI2yWmV4UI7Aga71yx9B
+    id: 1DCI2yWmV4UI7Aga71yx9B
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273e7957730bc48a85ee53657fd
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02e7957730bc48a85ee53657fd
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851e7957730bc48a85ee53657fd
+      width: 64
+    is_playable: true
+    name: Blood Sugar Sex Magik
+    release_date: '1991-09-24'
+    release_date_precision: day
+    total_tracks: 17
+    type: album
+    uri: spotify:album:1DCI2yWmV4UI7Aga71yx9B
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+    href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+    id: 0L8ExT028jH3ddEcZwqJJ5
+    name: Red Hot Chili Peppers
+    type: artist
+    uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+  available_markets:
+  - US
+  disc_number: 1
+  duration_ms: 295373
+  explicit: false
+  external_ids:
+    isrc: USWB19901568
+  external_urls:
+    spotify: https://open.spotify.com/track/6Va1qwqV4lEvbOyPqodbth
+  href: https://api.spotify.com/v1/tracks/6Va1qwqV4lEvbOyPqodbth
+  id: 6Va1qwqV4lEvbOyPqodbth
+  is_local: false
+  is_playable: true
+  name: Breaking the Girl
+  popularity: 34
+  preview_url: null
+  track_number: 3
+  type: track
+  uri: spotify:track:6Va1qwqV4lEvbOyPqodbth
+spotify_url: https://open.spotify.com/track/6Va1qwqV4lEvbOyPqodbth
+title: Breaking the Girl

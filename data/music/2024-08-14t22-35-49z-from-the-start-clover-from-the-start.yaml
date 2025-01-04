@@ -1,0 +1,82 @@
+added_at: '2024-08-14T22:35:49Z'
+album: From The Start!
+album_image: https://i.scdn.co/image/ab67616d0000b273c4f2d036b7fd558fff31347c
+artist: Clover!
+duration_ms: 128485
+id: 0Xy97fQCGZnReNxeBqWf9i
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/32cxkkzCHntC7KY72NOyHD
+      href: https://api.spotify.com/v1/artists/32cxkkzCHntC7KY72NOyHD
+      id: 32cxkkzCHntC7KY72NOyHD
+      name: Clover!
+      type: artist
+      uri: spotify:artist:32cxkkzCHntC7KY72NOyHD
+    - external_urls:
+        spotify: https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh
+      href: https://api.spotify.com/v1/artists/6FK0azeTwe5RwhUAkpkhnh
+      id: 6FK0azeTwe5RwhUAkpkhnh
+      name: Nosgov
+      type: artist
+      uri: spotify:artist:6FK0azeTwe5RwhUAkpkhnh
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/6XVB6Ah5O5rHfp7K75kZkr
+    href: https://api.spotify.com/v1/albums/6XVB6Ah5O5rHfp7K75kZkr
+    id: 6XVB6Ah5O5rHfp7K75kZkr
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273c4f2d036b7fd558fff31347c
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02c4f2d036b7fd558fff31347c
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851c4f2d036b7fd558fff31347c
+      width: 64
+    is_playable: true
+    name: From The Start!
+    release_date: '2024-04-26'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:6XVB6Ah5O5rHfp7K75kZkr
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/32cxkkzCHntC7KY72NOyHD
+    href: https://api.spotify.com/v1/artists/32cxkkzCHntC7KY72NOyHD
+    id: 32cxkkzCHntC7KY72NOyHD
+    name: Clover!
+    type: artist
+    uri: spotify:artist:32cxkkzCHntC7KY72NOyHD
+  - external_urls:
+      spotify: https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh
+    href: https://api.spotify.com/v1/artists/6FK0azeTwe5RwhUAkpkhnh
+    id: 6FK0azeTwe5RwhUAkpkhnh
+    name: Nosgov
+    type: artist
+    uri: spotify:artist:6FK0azeTwe5RwhUAkpkhnh
+  available_markets: []
+  disc_number: 1
+  duration_ms: 128485
+  explicit: false
+  external_ids:
+    isrc: QZHN92449495
+  external_urls:
+    spotify: https://open.spotify.com/track/0Xy97fQCGZnReNxeBqWf9i
+  href: https://api.spotify.com/v1/tracks/0Xy97fQCGZnReNxeBqWf9i
+  id: 0Xy97fQCGZnReNxeBqWf9i
+  is_local: false
+  is_playable: true
+  name: From The Start!
+  popularity: 2
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:0Xy97fQCGZnReNxeBqWf9i
+spotify_url: https://open.spotify.com/track/0Xy97fQCGZnReNxeBqWf9i
+title: From The Start!

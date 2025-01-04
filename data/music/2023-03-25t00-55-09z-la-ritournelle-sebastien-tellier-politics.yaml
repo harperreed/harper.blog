@@ -1,0 +1,68 @@
+added_at: '2023-03-25T00:55:09Z'
+album: Politics
+album_image: https://i.scdn.co/image/ab67616d0000b273f4497b79f6cc676a29b77117
+artist: "S\xE9bastien Tellier"
+duration_ms: 454480
+id: 0qG1teoBvooRo7Z5Z8edCk
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z
+      href: https://api.spotify.com/v1/artists/23ymPLjbtAMzTJS2qRtQ8Z
+      id: 23ymPLjbtAMzTJS2qRtQ8Z
+      name: "S\xE9bastien Tellier"
+      type: artist
+      uri: spotify:artist:23ymPLjbtAMzTJS2qRtQ8Z
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/05MRLgXFBdHFMww01vbvWY
+    href: https://api.spotify.com/v1/albums/05MRLgXFBdHFMww01vbvWY
+    id: 05MRLgXFBdHFMww01vbvWY
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273f4497b79f6cc676a29b77117
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02f4497b79f6cc676a29b77117
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851f4497b79f6cc676a29b77117
+      width: 64
+    is_playable: true
+    name: Politics
+    release_date: '2004-01-01'
+    release_date_precision: day
+    total_tracks: 11
+    type: album
+    uri: spotify:album:05MRLgXFBdHFMww01vbvWY
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z
+    href: https://api.spotify.com/v1/artists/23ymPLjbtAMzTJS2qRtQ8Z
+    id: 23ymPLjbtAMzTJS2qRtQ8Z
+    name: "S\xE9bastien Tellier"
+    type: artist
+    uri: spotify:artist:23ymPLjbtAMzTJS2qRtQ8Z
+  available_markets: []
+  disc_number: 1
+  duration_ms: 454480
+  explicit: false
+  external_ids:
+    isrc: FRS710300071
+  external_urls:
+    spotify: https://open.spotify.com/track/0qG1teoBvooRo7Z5Z8edCk
+  href: https://api.spotify.com/v1/tracks/0qG1teoBvooRo7Z5Z8edCk
+  id: 0qG1teoBvooRo7Z5Z8edCk
+  is_local: false
+  is_playable: true
+  name: La ritournelle
+  popularity: 8
+  preview_url: null
+  track_number: 5
+  type: track
+  uri: spotify:track:0qG1teoBvooRo7Z5Z8edCk
+spotify_url: https://open.spotify.com/track/0qG1teoBvooRo7Z5Z8edCk
+title: La ritournelle

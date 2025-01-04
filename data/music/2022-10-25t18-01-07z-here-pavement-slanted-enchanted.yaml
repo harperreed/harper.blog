@@ -1,0 +1,68 @@
+added_at: '2022-10-25T18:01:07Z'
+album: Slanted & Enchanted
+album_image: https://i.scdn.co/image/ab67616d0000b273aabe76cc363bd4af9a389d91
+artist: Pavement
+duration_ms: 236133
+id: 5hljr4kXcgNXWNEO60duAd
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+      href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+      id: 3inCNiUr4R6XQ3W43s9Aqi
+      name: Pavement
+      type: artist
+      uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/3EdtFWfLmkT5mC1QFXgqIW
+    href: https://api.spotify.com/v1/albums/3EdtFWfLmkT5mC1QFXgqIW
+    id: 3EdtFWfLmkT5mC1QFXgqIW
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273aabe76cc363bd4af9a389d91
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02aabe76cc363bd4af9a389d91
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851aabe76cc363bd4af9a389d91
+      width: 64
+    is_playable: true
+    name: Slanted & Enchanted
+    release_date: '1992-04-20'
+    release_date_precision: day
+    total_tracks: 14
+    type: album
+    uri: spotify:album:3EdtFWfLmkT5mC1QFXgqIW
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+    href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+    id: 3inCNiUr4R6XQ3W43s9Aqi
+    name: Pavement
+    type: artist
+    uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+  available_markets: []
+  disc_number: 1
+  duration_ms: 236133
+  explicit: false
+  external_ids:
+    isrc: USMTD9203809
+  external_urls:
+    spotify: https://open.spotify.com/track/5hljr4kXcgNXWNEO60duAd
+  href: https://api.spotify.com/v1/tracks/5hljr4kXcgNXWNEO60duAd
+  id: 5hljr4kXcgNXWNEO60duAd
+  is_local: false
+  is_playable: true
+  name: Here
+  popularity: 0
+  preview_url: null
+  track_number: 9
+  type: track
+  uri: spotify:track:5hljr4kXcgNXWNEO60duAd
+spotify_url: https://open.spotify.com/track/5hljr4kXcgNXWNEO60duAd
+title: Here

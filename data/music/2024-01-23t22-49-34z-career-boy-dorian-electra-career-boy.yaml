@@ -1,0 +1,68 @@
+added_at: '2024-01-23T22:49:34Z'
+album: Career Boy
+album_image: https://i.scdn.co/image/ab67616d0000b2731de6a5e290aeb10f5489d6c1
+artist: Dorian Electra
+duration_ms: 216000
+id: 3GpFE1SwshhLxRTbGh7stN
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u
+      href: https://api.spotify.com/v1/artists/202HZzqKvPsMHcbwnDZx7u
+      id: 202HZzqKvPsMHcbwnDZx7u
+      name: Dorian Electra
+      type: artist
+      uri: spotify:artist:202HZzqKvPsMHcbwnDZx7u
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/7maEO9tUSEfV5mJVWOmdwQ
+    href: https://api.spotify.com/v1/albums/7maEO9tUSEfV5mJVWOmdwQ
+    id: 7maEO9tUSEfV5mJVWOmdwQ
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2731de6a5e290aeb10f5489d6c1
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e021de6a5e290aeb10f5489d6c1
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048511de6a5e290aeb10f5489d6c1
+      width: 64
+    is_playable: true
+    name: Career Boy
+    release_date: '2018-06-01'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:7maEO9tUSEfV5mJVWOmdwQ
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u
+    href: https://api.spotify.com/v1/artists/202HZzqKvPsMHcbwnDZx7u
+    id: 202HZzqKvPsMHcbwnDZx7u
+    name: Dorian Electra
+    type: artist
+    uri: spotify:artist:202HZzqKvPsMHcbwnDZx7u
+  available_markets: []
+  disc_number: 1
+  duration_ms: 216000
+  explicit: false
+  external_ids:
+    isrc: USYBL1800909
+  external_urls:
+    spotify: https://open.spotify.com/track/3GpFE1SwshhLxRTbGh7stN
+  href: https://api.spotify.com/v1/tracks/3GpFE1SwshhLxRTbGh7stN
+  id: 3GpFE1SwshhLxRTbGh7stN
+  is_local: false
+  is_playable: true
+  name: Career Boy
+  popularity: 8
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:3GpFE1SwshhLxRTbGh7stN
+spotify_url: https://open.spotify.com/track/3GpFE1SwshhLxRTbGh7stN
+title: Career Boy

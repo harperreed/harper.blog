@@ -1,0 +1,68 @@
+added_at: '2023-09-15T17:49:29Z'
+album: FAFO
+album_image: https://i.scdn.co/image/ab67616d0000b27360a65eddde548539d4d85a9e
+artist: THOT SQUAD
+duration_ms: 171000
+id: 3BCPrmc55IyurJbN51AwaK
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/3tQfr3HUAPHG9roF9VN1gE
+      href: https://api.spotify.com/v1/artists/3tQfr3HUAPHG9roF9VN1gE
+      id: 3tQfr3HUAPHG9roF9VN1gE
+      name: THOT SQUAD
+      type: artist
+      uri: spotify:artist:3tQfr3HUAPHG9roF9VN1gE
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/07dTTALJKUjn8qSjHal7VT
+    href: https://api.spotify.com/v1/albums/07dTTALJKUjn8qSjHal7VT
+    id: 07dTTALJKUjn8qSjHal7VT
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b27360a65eddde548539d4d85a9e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e0260a65eddde548539d4d85a9e
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d0000485160a65eddde548539d4d85a9e
+      width: 64
+    is_playable: true
+    name: FAFO
+    release_date: '2023-07-21'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:07dTTALJKUjn8qSjHal7VT
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/3tQfr3HUAPHG9roF9VN1gE
+    href: https://api.spotify.com/v1/artists/3tQfr3HUAPHG9roF9VN1gE
+    id: 3tQfr3HUAPHG9roF9VN1gE
+    name: THOT SQUAD
+    type: artist
+    uri: spotify:artist:3tQfr3HUAPHG9roF9VN1gE
+  available_markets: []
+  disc_number: 1
+  duration_ms: 171000
+  explicit: true
+  external_ids:
+    isrc: QZNWV2302253
+  external_urls:
+    spotify: https://open.spotify.com/track/3BCPrmc55IyurJbN51AwaK
+  href: https://api.spotify.com/v1/tracks/3BCPrmc55IyurJbN51AwaK
+  id: 3BCPrmc55IyurJbN51AwaK
+  is_local: false
+  is_playable: true
+  name: FAFO
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:3BCPrmc55IyurJbN51AwaK
+spotify_url: https://open.spotify.com/track/3BCPrmc55IyurJbN51AwaK
+title: FAFO

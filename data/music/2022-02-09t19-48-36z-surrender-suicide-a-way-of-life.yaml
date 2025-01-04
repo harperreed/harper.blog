@@ -1,0 +1,68 @@
+added_at: '2022-02-09T19:48:36Z'
+album: A Way of Life
+album_image: https://i.scdn.co/image/ab67616d0000b273a82ffd7ee7e001fb2dab9917
+artist: Suicide
+duration_ms: 228426
+id: 4QRO73C82pI3OCHo0njVlS
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW
+      href: https://api.spotify.com/v1/artists/6uVeWolwyRDrT84lLsaZyW
+      id: 6uVeWolwyRDrT84lLsaZyW
+      name: Suicide
+      type: artist
+      uri: spotify:artist:6uVeWolwyRDrT84lLsaZyW
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/26PJUy6j7JJYwNMQ2M5XQh
+    href: https://api.spotify.com/v1/albums/26PJUy6j7JJYwNMQ2M5XQh
+    id: 26PJUy6j7JJYwNMQ2M5XQh
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273a82ffd7ee7e001fb2dab9917
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02a82ffd7ee7e001fb2dab9917
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851a82ffd7ee7e001fb2dab9917
+      width: 64
+    is_playable: true
+    name: A Way of Life
+    release_date: '1988'
+    release_date_precision: year
+    total_tracks: 9
+    type: album
+    uri: spotify:album:26PJUy6j7JJYwNMQ2M5XQh
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW
+    href: https://api.spotify.com/v1/artists/6uVeWolwyRDrT84lLsaZyW
+    id: 6uVeWolwyRDrT84lLsaZyW
+    name: Suicide
+    type: artist
+    uri: spotify:artist:6uVeWolwyRDrT84lLsaZyW
+  available_markets: []
+  disc_number: 1
+  duration_ms: 228426
+  explicit: false
+  external_ids:
+    isrc: GBBLY1103462
+  external_urls:
+    spotify: https://open.spotify.com/track/4QRO73C82pI3OCHo0njVlS
+  href: https://api.spotify.com/v1/tracks/4QRO73C82pI3OCHo0njVlS
+  id: 4QRO73C82pI3OCHo0njVlS
+  is_local: false
+  is_playable: true
+  name: Surrender
+  popularity: 0
+  preview_url: null
+  track_number: 2
+  type: track
+  uri: spotify:track:4QRO73C82pI3OCHo0njVlS
+spotify_url: https://open.spotify.com/track/4QRO73C82pI3OCHo0njVlS
+title: Surrender

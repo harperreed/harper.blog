@@ -1,0 +1,96 @@
+added_at: '2022-08-11T01:31:29Z'
+album: Automotivo Extradimensional
+album_image: https://i.scdn.co/image/ab67616d0000b27317a7152a99cc2eee6c5959b3
+artist: DJ Erik JP
+duration_ms: 146128
+id: 4CKSSGFLqEpkEq6C0CNBEo
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0G50WjP6s1v6zLeOl33BwK
+      href: https://api.spotify.com/v1/artists/0G50WjP6s1v6zLeOl33BwK
+      id: 0G50WjP6s1v6zLeOl33BwK
+      name: DJ Erik JP
+      type: artist
+      uri: spotify:artist:0G50WjP6s1v6zLeOl33BwK
+    - external_urls:
+        spotify: https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu
+      href: https://api.spotify.com/v1/artists/2MUXvv3lFulPYMUCtNrEBu
+      id: 2MUXvv3lFulPYMUCtNrEBu
+      name: DJ Patrick Muniz
+      type: artist
+      uri: spotify:artist:2MUXvv3lFulPYMUCtNrEBu
+    - external_urls:
+        spotify: https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI
+      href: https://api.spotify.com/v1/artists/4JA9UvIYD3D5kL7utiGJMI
+      id: 4JA9UvIYD3D5kL7utiGJMI
+      name: Mc Magrinho
+      type: artist
+      uri: spotify:artist:4JA9UvIYD3D5kL7utiGJMI
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/5Ku81whXlG2CXU30fxUqCT
+    href: https://api.spotify.com/v1/albums/5Ku81whXlG2CXU30fxUqCT
+    id: 5Ku81whXlG2CXU30fxUqCT
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b27317a7152a99cc2eee6c5959b3
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e0217a7152a99cc2eee6c5959b3
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d0000485117a7152a99cc2eee6c5959b3
+      width: 64
+    is_playable: true
+    name: Automotivo Extradimensional
+    release_date: '2021-02-05'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:5Ku81whXlG2CXU30fxUqCT
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0G50WjP6s1v6zLeOl33BwK
+    href: https://api.spotify.com/v1/artists/0G50WjP6s1v6zLeOl33BwK
+    id: 0G50WjP6s1v6zLeOl33BwK
+    name: DJ Erik JP
+    type: artist
+    uri: spotify:artist:0G50WjP6s1v6zLeOl33BwK
+  - external_urls:
+      spotify: https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu
+    href: https://api.spotify.com/v1/artists/2MUXvv3lFulPYMUCtNrEBu
+    id: 2MUXvv3lFulPYMUCtNrEBu
+    name: DJ Patrick Muniz
+    type: artist
+    uri: spotify:artist:2MUXvv3lFulPYMUCtNrEBu
+  - external_urls:
+      spotify: https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI
+    href: https://api.spotify.com/v1/artists/4JA9UvIYD3D5kL7utiGJMI
+    id: 4JA9UvIYD3D5kL7utiGJMI
+    name: Mc Magrinho
+    type: artist
+    uri: spotify:artist:4JA9UvIYD3D5kL7utiGJMI
+  available_markets: []
+  disc_number: 1
+  duration_ms: 146128
+  explicit: true
+  external_ids:
+    isrc: US3DF2126401
+  external_urls:
+    spotify: https://open.spotify.com/track/4CKSSGFLqEpkEq6C0CNBEo
+  href: https://api.spotify.com/v1/tracks/4CKSSGFLqEpkEq6C0CNBEo
+  id: 4CKSSGFLqEpkEq6C0CNBEo
+  is_local: false
+  is_playable: true
+  name: Automotivo Extradimensional
+  popularity: 0
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:4CKSSGFLqEpkEq6C0CNBEo
+spotify_url: https://open.spotify.com/track/4CKSSGFLqEpkEq6C0CNBEo
+title: Automotivo Extradimensional

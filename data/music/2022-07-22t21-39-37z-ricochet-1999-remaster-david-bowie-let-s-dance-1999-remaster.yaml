@@ -1,0 +1,68 @@
+added_at: '2022-07-22T21:39:37Z'
+album: Let's Dance (1999 Remaster)
+album_image: https://i.scdn.co/image/ab67616d0000b2734b4cc5866bd793ab9caa8bb5
+artist: David Bowie
+duration_ms: 313506
+id: 4QvM6tXCwKmc6BiFQ6sxh7
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy
+      href: https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy
+      id: 0oSGxfWSnnOXhD2fKuz2Gy
+      name: David Bowie
+      type: artist
+      uri: spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/37KYBt1Lzn4eJ4KoCFZcnR
+    href: https://api.spotify.com/v1/albums/37KYBt1Lzn4eJ4KoCFZcnR
+    id: 37KYBt1Lzn4eJ4KoCFZcnR
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2734b4cc5866bd793ab9caa8bb5
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e024b4cc5866bd793ab9caa8bb5
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048514b4cc5866bd793ab9caa8bb5
+      width: 64
+    is_playable: true
+    name: Let's Dance (1999 Remaster)
+    release_date: '1983-04-14'
+    release_date_precision: day
+    total_tracks: 8
+    type: album
+    uri: spotify:album:37KYBt1Lzn4eJ4KoCFZcnR
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy
+    href: https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy
+    id: 0oSGxfWSnnOXhD2fKuz2Gy
+    name: David Bowie
+    type: artist
+    uri: spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy
+  available_markets: []
+  disc_number: 1
+  duration_ms: 313506
+  explicit: false
+  external_ids:
+    isrc: USJT19900187
+  external_urls:
+    spotify: https://open.spotify.com/track/4QvM6tXCwKmc6BiFQ6sxh7
+  href: https://api.spotify.com/v1/tracks/4QvM6tXCwKmc6BiFQ6sxh7
+  id: 4QvM6tXCwKmc6BiFQ6sxh7
+  is_local: false
+  is_playable: true
+  name: Ricochet - 1999 Remaster
+  popularity: 0
+  preview_url: null
+  track_number: 5
+  type: track
+  uri: spotify:track:4QvM6tXCwKmc6BiFQ6sxh7
+spotify_url: https://open.spotify.com/track/4QvM6tXCwKmc6BiFQ6sxh7
+title: Ricochet - 1999 Remaster

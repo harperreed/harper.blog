@@ -1,0 +1,68 @@
+added_at: '2023-03-09T16:48:02Z'
+album: Reign In Blood
+album_image: https://i.scdn.co/image/ab67616d0000b273fd833375c806981a61bb82ec
+artist: Slayer
+duration_ms: 254400
+id: 01Mpj13vURSO3cCLprPt5T
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk
+      href: https://api.spotify.com/v1/artists/1IQ2e1buppatiN1bxUVkrk
+      id: 1IQ2e1buppatiN1bxUVkrk
+      name: Slayer
+      type: artist
+      uri: spotify:artist:1IQ2e1buppatiN1bxUVkrk
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN
+    href: https://api.spotify.com/v1/albums/2DumvqHl78bNXuvU9kQfPN
+    id: 2DumvqHl78bNXuvU9kQfPN
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273fd833375c806981a61bb82ec
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02fd833375c806981a61bb82ec
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851fd833375c806981a61bb82ec
+      width: 64
+    is_playable: true
+    name: Reign In Blood
+    release_date: '1986-01-01'
+    release_date_precision: day
+    total_tracks: 12
+    type: album
+    uri: spotify:album:2DumvqHl78bNXuvU9kQfPN
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk
+    href: https://api.spotify.com/v1/artists/1IQ2e1buppatiN1bxUVkrk
+    id: 1IQ2e1buppatiN1bxUVkrk
+    name: Slayer
+    type: artist
+    uri: spotify:artist:1IQ2e1buppatiN1bxUVkrk
+  available_markets: []
+  disc_number: 1
+  duration_ms: 254400
+  explicit: false
+  external_ids:
+    isrc: USSM18600241
+  external_urls:
+    spotify: https://open.spotify.com/track/01Mpj13vURSO3cCLprPt5T
+  href: https://api.spotify.com/v1/tracks/01Mpj13vURSO3cCLprPt5T
+  id: 01Mpj13vURSO3cCLprPt5T
+  is_local: false
+  is_playable: true
+  name: Raining Blood
+  popularity: 22
+  preview_url: null
+  track_number: 10
+  type: track
+  uri: spotify:track:01Mpj13vURSO3cCLprPt5T
+spotify_url: https://open.spotify.com/track/01Mpj13vURSO3cCLprPt5T
+title: Raining Blood

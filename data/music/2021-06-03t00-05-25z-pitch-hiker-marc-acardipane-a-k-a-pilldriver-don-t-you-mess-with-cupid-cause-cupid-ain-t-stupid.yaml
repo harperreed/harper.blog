@@ -1,0 +1,68 @@
+added_at: '2021-06-03T00:05:25Z'
+album: Don't You Mess With Cupid, 'Cause Cupid Ain't Stupid.
+album_image: https://i.scdn.co/image/ab67616d0000b2730f2f4ae690d275c3e9b0807e
+artist: Marc Acardipane a.k.a. Pilldriver
+duration_ms: 304534
+id: 3XhS1vbvsVQPblCGP615sH
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE
+      href: https://api.spotify.com/v1/artists/1oZmFNkGAT93yD1xX4vTRE
+      id: 1oZmFNkGAT93yD1xX4vTRE
+      name: Nina Kraviz
+      type: artist
+      uri: spotify:artist:1oZmFNkGAT93yD1xX4vTRE
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/1SVUruDKQbagVjcA9OKKQ3
+    href: https://api.spotify.com/v1/albums/1SVUruDKQbagVjcA9OKKQ3
+    id: 1SVUruDKQbagVjcA9OKKQ3
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2730f2f4ae690d275c3e9b0807e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e020f2f4ae690d275c3e9b0807e
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048510f2f4ae690d275c3e9b0807e
+      width: 64
+    is_playable: true
+    name: Don't You Mess With Cupid, 'Cause Cupid Ain't Stupid.
+    release_date: '2018-08-03'
+    release_date_precision: day
+    total_tracks: 10
+    type: album
+    uri: spotify:album:1SVUruDKQbagVjcA9OKKQ3
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/6zTBVYh4umGw1pk0x6sYOJ
+    href: https://api.spotify.com/v1/artists/6zTBVYh4umGw1pk0x6sYOJ
+    id: 6zTBVYh4umGw1pk0x6sYOJ
+    name: Marc Acardipane a.k.a. Pilldriver
+    type: artist
+    uri: spotify:artist:6zTBVYh4umGw1pk0x6sYOJ
+  available_markets: []
+  disc_number: 1
+  duration_ms: 304534
+  explicit: false
+  external_ids:
+    isrc: GBLFT1840006
+  external_urls:
+    spotify: https://open.spotify.com/track/3XhS1vbvsVQPblCGP615sH
+  href: https://api.spotify.com/v1/tracks/3XhS1vbvsVQPblCGP615sH
+  id: 3XhS1vbvsVQPblCGP615sH
+  is_local: false
+  is_playable: true
+  name: Pitch-Hiker
+  popularity: 0
+  preview_url: null
+  track_number: 6
+  type: track
+  uri: spotify:track:3XhS1vbvsVQPblCGP615sH
+spotify_url: https://open.spotify.com/track/3XhS1vbvsVQPblCGP615sH
+title: Pitch-Hiker
