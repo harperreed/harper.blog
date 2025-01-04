@@ -41,7 +41,7 @@
             
             {{ if eq $page.Section "links" }}
                 {{ if .Params.original_url }}
-                <a href="{{ .Params.original_url }}" target="_blank" rel="noopener noreferrer">
+                <a href="{{ .Params.original_url }}" target="_blank" rel="noopener noreferrer"></a>
                     <span class="link-title">{{ $emoji }} {{ .Title }}</span>
                     {{ $url := urls.Parse .Params.original_url }}
                     <span class="link-domain">({{ $url.Hostname }})</span>
