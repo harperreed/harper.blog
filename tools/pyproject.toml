@@ -9,6 +9,7 @@ dependencies = [
     "diskcache>=5.6.3",
     "feedparser>=6.0.11",
     "firecrawl-py>=1.4.0",
+    "goodreads>=0.3.2",
     "html2text>=2024.2.26",
     "markdownify>=0.13.1",
     "nltk>=3.9.1",
@@ -19,4 +20,5 @@ dependencies = [
     "readabilipy>=0.2.0",
     "requests>=2.32.3",
     "spotipy>=2.24.0",
+    "xmltodict>=0.14.2",
 ]

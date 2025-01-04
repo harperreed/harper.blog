@@ -1,0 +1,43 @@
+name: Run Goodreads Read Script
+
+on:
+    schedule:
+        - cron: "0 10 * * *" # Runs every 12 hours
+    workflow_dispatch: # Allows manual triggering
+
+# Add concurrency control
+concurrency:
+    group: spotify-tracks-${{ github.ref }}
+    cancel-in-progress: true
+
+jobs:
+    update-goodreads-tracks:
+        runs-on: ubuntu-latest
+        env:
+            OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+            GOODREADS_KEY: ${{ secrets.GOODREADS_KEY }}
+            GOODREADS_SECRET: ${{ secrets.GOODREADS_SECRET }}
+            GOODREADS_ACCESS_TOKEN: ${{ secrets.GOODREADS_ACCESS_TOKEN }}
+            GOODREADS_ACCESS_TOKEN_SECRET: ${{ secrets.GOODREADS_ACCESS_TOKEN_SECRET }}
+            GOODREADS_REQUEST_TOKEN: ${{ secrets.GOODREADS_REQUEST_TOKEN }}
+            GOODREADS_REQUEST_TOKEN_SECRET: ${{ secrets.GOODREADS_REQUEST_TOKEN_SECRET }}
+        steps:
+            - name: Check out repository
+              uses: actions/checkout@v2
+
+            - name: Install the latest version of uv
+              uses: astral-sh/setup-uv@v3
+              with:
+                  version: "latest"
+                  enable-cache: true
+
+            - name: Run goodreads script
+              working-directory: ./tools
+              run: uv run grab_read_books.py
+
+            - name: Commit and push if changes
+              run: |
+                  git config --global user.name 'GitHub Action'
+                  git config --global user.email 'action@github.com'
+                  git add -A
+                  git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update spotify tracks" && git push)
