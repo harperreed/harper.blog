@@ -7,6 +7,7 @@ import logging
 from dotenv import load_dotenv
 from slugify import slugify
 import hashlib
+import yaml
 
 # Load environment variables
 load_dotenv()
@@ -53,13 +54,13 @@ def setup_spotify():
         logging.error(f"Failed to initialize Spotify client: {e}")
         raise
 
-def get_saved_tracks(sp, limit=50):
+def get_saved_tracks(sp, limit=50, offset=0, grab_all=True):
     """Fetch user's saved tracks from Spotify."""
     tracks = []
     offset = 0
     
     try:
-        while True:
+        while grab_all:
             results = sp.current_user_saved_tracks(limit=limit, offset=offset)
             if not results['items']:
                 break
@@ -77,7 +78,8 @@ def get_saved_tracks(sp, limit=50):
                     'spotify_url': track['external_urls']['spotify'],
                     'preview_url': track['preview_url'],
                     'duration_ms': track['duration_ms'],
-                    'album_image': track['album']['images'][0]['url'] if track['album']['images'] else None
+                    'album_image': track['album']['images'][0]['url'] if track['album']['images'] else None,
+                    'raw_data': track,
                 }
                 tracks.append(track_data)
             
@@ -156,13 +158,14 @@ def main():
     """Main function to orchestrate the script."""
     # Get environment variables
     hugo_content_dir = os.getenv('MUSIC_HUGO_CONTENT_DIR', "../content/music")
+    hugo_data_dir = os.getenv('MUSIC_HUGO_DATA_DIR', "../data/music")
     
-    if not hugo_content_dir:
-        logging.error("MUSIC_HUGO_CONTENT_DIR must be set in the .env file")
-        return
+    
+    
         
     # Ensure content directory exists
     os.makedirs(hugo_content_dir, exist_ok=True)
+    os.makedirs(hugo_data_dir, exist_ok=True)
     
     try:
         # Initialize Spotify client
@@ -176,6 +179,20 @@ def main():
         for track in tracks:
             if create_hugo_content(track, hugo_content_dir):
                 new_tracks_count += 1
+                logging.info(f"Created new track post: {track['title']}")
+                
+                # Write data file
+                logging.info(f"Writing data file for {track['title']}")
+                track_title = F"{track['added_at']} - {track['title']} - {track['artist']} - {track['album']}"
+                data_filename = os.path.join(hugo_data_dir, f"{slugify(track_title)}.yaml")
+                #check if file exists
+                if os.path.exists(data_filename):
+                    logging.info(f"Data file already exists: {data_filename}")
+                    continue
+                with open(data_filename, "w", encoding="utf-8") as f:
+                    yaml.safe_dump(track, f, default_flow_style=False)
+                    logging.info(f"Data file created: {data_filename}")
+                
                 
         logging.info(f"Successfully processed {len(tracks)} tracks")
         logging.info(f"Created {new_tracks_count} new track posts")
