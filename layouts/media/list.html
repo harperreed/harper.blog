@@ -1,0 +1,73 @@
+{{ define "main" }}
+<content>
+    {{ .Content }}
+    
+    {{ $allMedia := slice }}
+    {{ range where .Site.RegularPages "Section" "books" }}
+        {{ $allMedia = $allMedia | append . }}
+    {{ end }}
+    {{ range where .Site.RegularPages "Section" "music" }}
+        {{ $allMedia = $allMedia | append . }}
+    {{ end }}
+    {{ range where .Site.RegularPages "Section" "links" }}
+        {{ $allMedia = $allMedia | append . }}
+    {{ end }}
+    
+    {{ $sortedMedia := sort $allMedia "Date" "desc" }}
+    {{ $paginator := .Paginate $sortedMedia 20 }}
+    
+    <ul class="link-posts">
+        {{ range $paginator.Pages.GroupByDate "2006-01-02" }} 
+        {{ range $index, $page := .Pages }}
+        <li>
+            {{ if eq $index 0 }}
+            <span class="date">
+                <i>
+                    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+                        {{ .Date.Format (default "2006-01-02" $.Site.Params.dateFormat) }}
+                    </time>
+                </i>
+            </span>
+            {{ else }}
+            <span></span>
+            {{ end }}
+            
+            {{ $emoji := "🔗" }}
+            {{ if eq $page.Section "books" }}
+                {{ $emoji = "📚" }}
+            {{ else if eq $page.Section "music" }}
+                {{ $emoji = "🎵" }}
+            {{ end }}
+            
+            {{ if eq $page.Section "links" }}
+                {{ if .Params.original_url }}
+                <a href="{{ .Params.original_url }}" target="_blank" rel="noopener noreferrer">
+                    <span class="link-title">{{ $emoji }} {{ .Title }}</span>
+                    {{ $url := urls.Parse .Params.original_url }}
+                    <span class="link-domain">({{ $url.Hostname }})</span>
+                </a>
+                {{ else }}
+                    {{ $emoji }} {{ .Title }}
+                {{ end }}
+            {{ else }}
+                <a href="{{ .RelPermalink }}">
+                    <span class="link-title">{{ $emoji }} {{ .Title }}</span>
+                    {{ if eq $page.Section "books" }}
+                        {{ with .Params.author }}
+                        <span class="link-domain">(by {{ . }})</span>
+                        {{ end }}
+                    {{ else if eq $page.Section "music" }}
+                        {{ with .Params.artist }}
+                        <span class="link-domain">(by {{ . }})</span>
+                        {{ end }}
+                    {{ end }}
+                </a>
+            {{ end }}
+        </li>
+        {{ end }}
+        {{ end }}
+    </ul>
+    
+    {{ partial "pagination.html" . }}
+</content>
+{{ end }}
