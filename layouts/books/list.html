@@ -1,13 +1,13 @@
 {{ define "main" }}
 <content>
     {{ .Content }} {{ if .Data.Singular }}
-    <h3 class="link-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
+    <h3 class="books-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
     {{ end }} {{ $pages := .Pages }} {{ if not $pages }}
-    <ul class="link-posts">
+    <ul class="book-posts">
         <li>{{ i18n "no-posts" }}</li>
     </ul>
     {{ else }} {{ $paginator := .Paginate $pages 20 }}
-    <ul class="link-posts">
+    <ul class="book-posts">
         {{ range $paginator.Pages.GroupByDate "2006-01-02" }} {{ range $index,
         $page := .Pages }} {{ $url := urls.Parse .Params.original_url}}
         <li>
@@ -22,14 +22,18 @@
             </span>
             {{ else }}
             <span></span>
-            {{ end }} {{ if .Params.original_url }}
+            {{ end }} 
+            {{ if .Params.asin }}
+            {{ $link := print "https://www.amazon.com/dp/" .Params.asin "?tag=" .Site.Params.amazon_tag }}
             <a
-                href="{{ .Params.original_url }}"
+                href="{{ $link }}"
                 target="_blank"
                 rel="noopener noreferrer"
             >
-                <span class="link-title">{{ .Title }}</span>
-                <span class="link-domain">({{ $url.Hostname }})</span>
+                <span class="book-title">{{ .Title }}</span>
+                {{ with .Params.author }}
+                <span class="book-domain">(by {{ . }})</span>
+                {{ end }}
             </a>
             {{ else }} {{ .Title }} {{ end }}
         </li>
