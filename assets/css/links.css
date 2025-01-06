@@ -64,8 +64,8 @@
     margin-right: 1em;
 }
 
-.link-posts a[target="_blank"]::after {
-    content: " ↪";
+.link-posts a[target="_blank"]::before {
+    content: "🔗";
     color: var(--color-secondary);
     text-decoration: none;
 }
