@@ -64,7 +64,7 @@
             </a>
             {{ end }}
             {{ else if eq $page.Section "books" }}
-            {{ $url := print "https://www.amazon.com/dp/" .Params.asin "?tag=" .Site.Params.amazon_tag }}
+            {{ $url := print "https://www.amazon.com/dp/" (urlquery .Params.asin) "?tag=" (urlquery .Site.Params.amazon_tag) }}
             <a href="{{ $url }}" target="_blank"  class="media-book" rel="noopener noreferrer">
                 <span class="media-link-title">{{ .Title }}</span>
 
