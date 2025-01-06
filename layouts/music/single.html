@@ -13,17 +13,8 @@
     <a class="blog-tags" href="{{ .RelPermalink }}" aria-label="Tag: {{ lower .LinkTitle }}">#{{ lower .LinkTitle }}</a>
     {{ end }}
 </p>
-{{ if not .Params.hideReply }} {{ with .Site.Params.author.email }}
-<p>
-    <a
-        href='mailto:{{ . }}?subject={{ i18n "email-subject" }}"{{ default $.Site.Title $.Page.Title }}"'
-        aria-label="Reply to this post via email"
-    >
-        {{ i18n "email-reply" }} <span aria-hidden="true">↪</span>
-    </a>
-</p>
-{{ end }} {{ end }} 
+
 <nav>
-    <a href="/links" aria-label="Back to the current links">Back to the current links</a>
+    <a href="/media/music" aria-label="Back to the current links">Back to music</a>
 </nav>
 {{ end }}

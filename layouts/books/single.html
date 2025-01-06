@@ -1,29 +1,30 @@
 {{ define "main" }} {{ if not .Params.menu }}
 <h1>{{ .Title }}</h1>
 <p class="byline">
-    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
-        {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
-    </time>
-    {{ with .Params.author }}· {{.}}{{ end }}
+    {{ with .Params.author }}By {{.}}{{ end }}
+
 </p>
 {{ end }}
-<content> {{ .Content }} </content>
+<content>
+    {{ with .Params.asin }}
+    {{ $image := print "https://images-na.ssl-images-amazon.com/images/P/" . ".01._SCLZZZZZZZ.jpg" }}
+
+    <img src="{{ $image  }}" alt="Book cover" class="book-cover">
+    {{ end }}
+    {{ .Content }}
+</content>
+{{ $url := print "https://www.amazon.com/dp/" .Params.asin "?tag=" .Site.Params.amazon_tag }}
+<a href="{{ $url }}" target="_blank"  rel="noopener noreferrer" >buy this book</a>
+
+
+
 <p>
     {{ range (.GetTerms "tags") }}
     <a class="blog-tags" href="{{ .RelPermalink }}" aria-label="Tag: {{ lower .LinkTitle }}">#{{ lower .LinkTitle }}</a>
     {{ end }}
 </p>
-{{ if not .Params.hideReply }} {{ with .Site.Params.author.email }}
-<p>
-    <a
-        href='mailto:{{ . }}?subject={{ i18n "email-subject" }}"{{ default $.Site.Title $.Page.Title }}"'
-        aria-label="Reply to this post via email"
-    >
-        {{ i18n "email-reply" }} <span aria-hidden="true">↪</span>
-    </a>
-</p>
-{{ end }} {{ end }} 
+
 <nav>
-    <a href="/links" aria-label="Back to the current links">Back to the current links</a>
+    <a href="/media/books" aria-label="Back to the book list">Back to the book list</a>
 </nav>
 {{ end }}
