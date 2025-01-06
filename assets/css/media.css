@@ -2,18 +2,21 @@
     content: "🔗";
     color: var(--color-secondary);
     text-decoration: none;
+    speak: none;
 }
 
 .media-book::before {
     content: "📚";
     color: var(--color-secondary);
     text-decoration: none;
+    speak: none;
 }
 
 .media-music::before {
     content: "🎵";
     color: var(--color-secondary);
     text-decoration: none;
+    speak: none;
 }
 
 .media-link-posts {
