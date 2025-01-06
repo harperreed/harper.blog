@@ -1,55 +1,17 @@
 .book-posts {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.book-posts li {
-    display: flex;
-    align-items: baseline;
-    margin-bottom: 0.7em;
-}
-
-.book-posts span {
-    flex: 0 0 130px;
-    margin-right: 1em;
+    composes: media-posts;
 }
 
 .book-filter {
-    color: var(--color-secondary);
-    font-size: 1.1em;
-    margin-bottom: 2em;
+    composes: media-filter;
 }
 
 .book-domain {
-    color: var(--color-dark);
-    transition: color 0.3s ease;
-    text-decoration: none;
+    composes: media-domain;
 }
 
-.book-posts a {
-    text-decoration: none;
-}
-
-.book-posts a .book-title {
-    text-decoration: underline;
-}
-
-@media (max-width: 600px) {
-    .book-posts li {
-        flex-direction: column;
-        margin-bottom: 1em;
-    }
-
-    .book-posts span {
-        flex: 0 0 auto;
-        margin-right: 0;
-        margin-bottom: 0.3em;
-    }
-
-    .book-posts a {
-        margin-left: 0;
-    }
+.book-title {
+    composes: media-title;
 }
 
 .book-posts a[target="_blank"]::before {

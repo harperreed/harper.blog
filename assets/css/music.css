@@ -1,18 +1,17 @@
 .music-posts {
-    list-style: none;
-    padding: 0;
-    margin: 0;
+    composes: media-posts;
 }
 
-.music-posts li {
-    display: flex;
-    align-items: baseline;
-    margin-bottom: 0.7em;
+.music-filter {
+    composes: media-filter;
 }
 
-.music-posts span {
-    flex: 0 0 130px;
-    margin-right: 1em;
+.music-domain {
+    composes: media-domain;
+}
+
+.music-title {
+    composes: media-title;
 }
 
 .music-posts a[target="_blank"]::before {
@@ -20,41 +19,4 @@
     color: var(--color-secondary);
     text-decoration: none;
     speak: none;
-}
-
-.music-filter {
-    color: var(--color-secondary);
-    font-size: 1.1em;
-    margin-bottom: 2em;
-}
-
-.music-domain {
-    color: var(--color-dark);
-    transition: color 0.3s ease;
-    text-decoration: none;
-}
-
-.music-posts a {
-    text-decoration: none;
-}
-
-.music-posts a .music-title {
-    text-decoration: underline;
-}
-
-@media (max-width: 600px) {
-    .music-posts li {
-        flex-direction: column;
-        margin-bottom: 1em;
-    }
-
-    .music-posts span {
-        flex: 0 0 auto;
-        margin-right: 0;
-        margin-bottom: 0.3em;
-    }
-
-    .music-posts a {
-        margin-left: 0;
-    }
 }
