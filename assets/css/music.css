@@ -64,8 +64,8 @@
     margin-right: 1em;
 }
 
-.music-posts a[target="_blank"]::after {
-    content: " 🎵";
+.music-posts a[target="_blank"]::before {
+    content: "🎵";
     color: var(--color-secondary);
     text-decoration: none;
 }

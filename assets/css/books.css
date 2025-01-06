@@ -101,8 +101,8 @@
     }
 }
 
-.book-posts a[target="_blank"]::after {
-    content: " 📚";
+.book-posts a[target="_blank"]::before {
+    content: "📚";
     color: var(--color-secondary);
     text-decoration: none;
 }
