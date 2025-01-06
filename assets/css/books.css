@@ -1,52 +1,3 @@
-/* links */
-
-/* .book-posts {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.book-posts .date {
-
-}
-
-.book-posts li {
-    display: flex;
-    align-items: baseline;
-    margin-bottom: 0.7em;
-}
-
-.book-posts span {
-    flex: 0 0 130px;
-    margin-right: 1em;
-}
-
-.book-posts a[target="_blank"]::after {
-    content: " ↪";
-    color: var(--color-secondary);
-    text-decoration: none;
-}
-
-.book-filter {
-    color: var(--color-secondary);
-    font-size: 1.1em;
-    margin-bottom: 2em;
-}
-
-.book-domain {
-    color: var(--color-dark);
-    transition: color 0.3s ease;
-    text-decoration: none;
-}
-
-.book-posts a {
-    text-decoration: none;
-}
-
-.book-posts a .book-title {
-    text-decoration: underline;
-} */
-/* links */
 .book-posts {
     list-style: none;
     padding: 0;
@@ -105,4 +56,5 @@
     content: "📚";
     color: var(--color-secondary);
     text-decoration: none;
+    speak: none;
 }
