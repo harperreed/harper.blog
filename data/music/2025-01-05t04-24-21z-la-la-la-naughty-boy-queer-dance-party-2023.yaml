@@ -1,0 +1,265 @@
+added_at: '2025-01-05T04:24:21Z'
+album: Queer Dance Party 2023
+album_image: https://i.scdn.co/image/ab67616d0000b27339060fb802c402ba735e4d3e
+artist: Naughty Boy
+duration_ms: 220779
+id: 01fAOI7ZLmw3xqfPYBP6Tl
+preview_url: null
+raw_data:
+  album:
+    album_type: compilation
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+      href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+      id: 0LyfQWJT6nXafLPZqxe9Of
+      name: Various Artists
+      type: artist
+      uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+    available_markets:
+    - AE
+    - AL
+    - AR
+    - AT
+    - AU
+    - BA
+    - BE
+    - BG
+    - BH
+    - BO
+    - BR
+    - CA
+    - CH
+    - CI
+    - CL
+    - CM
+    - CO
+    - CR
+    - CW
+    - CY
+    - CZ
+    - DE
+    - DK
+    - DO
+    - DZ
+    - EC
+    - EE
+    - EG
+    - ES
+    - FI
+    - FR
+    - GB
+    - GH
+    - GR
+    - GT
+    - HK
+    - HN
+    - HR
+    - HU
+    - ID
+    - IE
+    - IL
+    - IN
+    - IS
+    - IT
+    - JP
+    - KE
+    - KH
+    - KR
+    - KW
+    - LB
+    - LK
+    - LT
+    - LU
+    - LV
+    - MA
+    - ME
+    - MK
+    - MT
+    - MX
+    - MY
+    - NG
+    - NI
+    - NL
+    - 'NO'
+    - NZ
+    - OM
+    - PA
+    - PE
+    - PH
+    - PL
+    - PT
+    - PY
+    - QA
+    - RO
+    - RS
+    - SA
+    - SE
+    - SG
+    - SI
+    - SK
+    - SN
+    - SV
+    - TH
+    - TN
+    - TR
+    - TT
+    - TW
+    - UA
+    - US
+    - UY
+    - VE
+    - VN
+    - XK
+    - ZA
+    external_urls:
+      spotify: https://open.spotify.com/album/1LK4vowzoANuasJW4qKKl7
+    href: https://api.spotify.com/v1/albums/1LK4vowzoANuasJW4qKKl7
+    id: 1LK4vowzoANuasJW4qKKl7
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b27339060fb802c402ba735e4d3e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e0239060fb802c402ba735e4d3e
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d0000485139060fb802c402ba735e4d3e
+      width: 64
+    is_playable: true
+    name: Queer Dance Party 2023
+    release_date: '2023-05-27'
+    release_date_precision: day
+    total_tracks: 84
+    type: album
+    uri: spotify:album:1LK4vowzoANuasJW4qKKl7
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5
+    href: https://api.spotify.com/v1/artists/1bT7m67vi78r2oqvxrP3X5
+    id: 1bT7m67vi78r2oqvxrP3X5
+    name: Naughty Boy
+    type: artist
+    uri: spotify:artist:1bT7m67vi78r2oqvxrP3X5
+  - external_urls:
+      spotify: https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI
+    href: https://api.spotify.com/v1/artists/2wY79sveU1sp5g7SokKOiI
+    id: 2wY79sveU1sp5g7SokKOiI
+    name: Sam Smith
+    type: artist
+    uri: spotify:artist:2wY79sveU1sp5g7SokKOiI
+  available_markets:
+  - AE
+  - AL
+  - AR
+  - AT
+  - AU
+  - BA
+  - BE
+  - BG
+  - BH
+  - BO
+  - BR
+  - CA
+  - CH
+  - CI
+  - CL
+  - CM
+  - CO
+  - CR
+  - CW
+  - CY
+  - CZ
+  - DE
+  - DK
+  - DO
+  - DZ
+  - EC
+  - EE
+  - EG
+  - ES
+  - FI
+  - FR
+  - GB
+  - GH
+  - GR
+  - GT
+  - HK
+  - HN
+  - HR
+  - HU
+  - ID
+  - IE
+  - IL
+  - IN
+  - IS
+  - IT
+  - JP
+  - KE
+  - KH
+  - KR
+  - KW
+  - LB
+  - LK
+  - LT
+  - LU
+  - LV
+  - MA
+  - ME
+  - MK
+  - MT
+  - MX
+  - MY
+  - NG
+  - NI
+  - NL
+  - 'NO'
+  - NZ
+  - OM
+  - PA
+  - PE
+  - PH
+  - PL
+  - PT
+  - PY
+  - QA
+  - RO
+  - RS
+  - SA
+  - SE
+  - SG
+  - SI
+  - SK
+  - SN
+  - SV
+  - TH
+  - TN
+  - TR
+  - TT
+  - TW
+  - UA
+  - US
+  - UY
+  - VE
+  - VN
+  - XK
+  - ZA
+  disc_number: 1
+  duration_ms: 220779
+  explicit: false
+  external_ids:
+    isrc: GBAAA1300148
+  external_urls:
+    spotify: https://open.spotify.com/track/01fAOI7ZLmw3xqfPYBP6Tl
+  href: https://api.spotify.com/v1/tracks/01fAOI7ZLmw3xqfPYBP6Tl
+  id: 01fAOI7ZLmw3xqfPYBP6Tl
+  is_local: false
+  is_playable: true
+  name: La La La
+  popularity: 58
+  preview_url: null
+  track_number: 42
+  type: track
+  uri: spotify:track:01fAOI7ZLmw3xqfPYBP6Tl
+spotify_url: https://open.spotify.com/track/01fAOI7ZLmw3xqfPYBP6Tl
+title: La La La
