@@ -448,7 +448,7 @@ def main():
 
     logging.info("Fetching books from Goodreads API")
     try:
-        books = get_goodreads_books(limit=10)
+        books = get_goodreads_books(limit=15)
     except Exception as e:
         logging.error(f"Failed to get books from Goodreads: {str(e)}")
         raise

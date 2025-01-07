@@ -26,7 +26,7 @@
             {{ if .Params.asin }}
             {{ $link := print "https://www.amazon.com/dp/" .Params.asin "?tag=" .Site.Params.amazon_tag }}
             <a
-                href="{{ $link }}"
+                href="{{ .RelPermalink }}"
                 target="_blank"
                 rel="noopener noreferrer"
             >

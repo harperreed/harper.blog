@@ -1,30 +1,63 @@
 {{ define "main" }} {{ if not .Params.menu }}
 <h1>{{ .Title }}</h1>
-<p class="byline">
-    {{ with .Params.author }}By {{.}}{{ end }}
-
-</p>
+<p class="byline">{{ with .Params.author }}By {{.}}{{ end }}</p>
 {{ end }}
 <content>
-    {{ with .Params.asin }}
-    {{ $image := print "https://images-na.ssl-images-amazon.com/images/P/" . ".01._SCLZZZZZZZ.jpg" }}
+    <h3>{{.Params.tagline}}</h3>
+    {{ with .Params.asin }} {{ $image := print
+    "https://images-na.ssl-images-amazon.com/images/P/" . ".01._SCLZZZZZZZ.jpg"
+    }}
+    
+    
 
-    <img src="{{ $image  }}" alt="Book cover" class="book-cover">
-    {{ end }}
-    {{ .Content }}
+    <img src="{{ $image  }}" alt="Book cover" class="book-cover" />
+    {{ end }} {{ .Content }}
 </content>
-{{ $url := print "https://www.amazon.com/dp/" .Params.asin "?tag=" .Site.Params.amazon_tag }}
-<a href="{{ $url }}" target="_blank"  rel="noopener noreferrer" >buy this book</a>
 
+<ul>
+    
+    {{ with .Params.review_rating}}
+    <li>My rating: {{.}}/5</li>
+    {{end}}
+    
+{{ $read_at := .Params.date }}
+{{ with .Params.started_at}}
+{{ $start := time  . }}
+{{ $end := time $read_at }}
+{{ $duration := $end.Sub $start }}
 
+{{/* Get total hours */}}
+{{ $hours := $duration.Hours }}
+
+{{/* Get total days */}}
+{{ $days := div $duration.Hours 24 }}
+<li>Reading duration: Read in {{math.Ceil $days}} days</li>
+{{ end }}
+{{ with .Params.num_pages}}
+<li>Number of pages: {{.}} Pages</li>
+{{end}}
+
+</ul>
+{{ $url := print "https://www.amazon.com/dp/" .Params.asin "?tag="
+.Site.Params.amazon_tag }}
+<a href="{{ $url }}" target="_blank" rel="noopener noreferrer"
+    >Read this book</a
+>
 
 <p>
     {{ range (.GetTerms "tags") }}
-    <a class="blog-tags" href="{{ .RelPermalink }}" aria-label="Tag: {{ lower .LinkTitle }}">#{{ lower .LinkTitle }}</a>
+    <a
+        class="blog-tags"
+        href="{{ .RelPermalink }}"
+        aria-label="Tag: {{ lower .LinkTitle }}"
+        >#{{ lower .LinkTitle }}</a
+    >
     {{ end }}
 </p>
 
 <nav>
-    <a href="/media/books" aria-label="Back to the book list">Back to the book list</a>
+    <a href="/media/books" aria-label="Back to the book list"
+        >Back to the book list</a
+    >
 </nav>
 {{ end }}

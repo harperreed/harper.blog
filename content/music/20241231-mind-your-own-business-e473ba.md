@@ -16,6 +16,6 @@ type: music
 
 You can listen [here](https://open.spotify.com/track/6bEjOYezTuD2gYq5X7tGlP)
 
-{{% spotify "6bEjOYezTuD2gYq5X7tGlP" small %}}
+{{% spotify "6bEjOYezTuD2gYq5X7tGlP" %}}
 
 added on December 31, 2024
