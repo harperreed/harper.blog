@@ -1,7 +1,7 @@
 {{- /* layouts/books/rss.xml */ -}}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 {{- printf "<?xml-stylesheet href=\"/pretty-feed-v3.xsl\" type=\"text/xsl\"?>" | safeHTML }}
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" type="books">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ .Site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
@@ -40,6 +40,7 @@
             {{ $url := print "https://www.amazon.com/dp/" . "?tag=" $tag }}
             <p><a href="{{ $url }}" target="_blank" rel="noopener noreferrer">read this book</a></p>
             {{ end }}
+            <hr />
             {{ .Summary | html }}
         </description>
         </item>
