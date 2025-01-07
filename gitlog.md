@@ -1,3 +1,35 @@
+- **2025-01-07**: Added ASIN support for Amazon links in RSS feed 📚🚀
+- **2025-01-07**: Add rich book metadata to RSS feed 🥳📚
+- **2025-01-07**: 🎉 Major Cleanup and New Features in Configuration and Layouts! 🌟
+- **2025-01-07**: Transform book metadata and summaries for "Absolution" and "We'll Prescribe You a Cat" 📚✨
+- **2025-01-07**: Merge branch 'main' of github.com:harperreed/harper.blog
+- **2025-01-07**: 🚀 Refactor CSS and HTML for Links and Media Components 🎨
+- **2025-01-07**: Auto update micro posts
+- **2025-01-07**: Auto update spotify tracks
+- **2025-01-06**: Update books.css
+- **2025-01-06**: Update music.css
+- **2025-01-06**: Update links.css
+- **2025-01-06**: Update media.css
+- **2025-01-06**: 🚀 Update .gitignore and params.toml for improved configuration! 🚀
+- **2025-01-06**: refactor: Consolidate shared CSS styles into a new shared.css file
+- **2025-01-06**: Merge branch 'media' of github.com:harperreed/harper.blog into media
+- **2025-01-06**: 🎉 Styling Enhancements and Declutter! 🎉 - Removed lengthy CSS comments in `books.css`, `links.css`, `music.css` to make the code cleaner and easier to read. 📜✨ - Added a `speak: none;` property to link icons in `books.css`, `links.css`, `music.css`, and `media.css` to improve accessibility, preventing screen readers from announcing the icon. 🗣️🔇 - Introduced emotional 🥳 icon prefixes for clickable items in `music.css`, `links.css`, `books.css`, plus some fun media types in `media.css` for a snazzy visual enhancement! 🎵📚🔗
+- **2025-01-06**: Update layouts/media/list.html
+- **2025-01-06**: ✨ Update book and media layouts for better usability! ✨
+- **2025-01-06**: 🎉 Styling updates and new media pages! 🎉 - **Updated CSS**: Changed the pseudo-element for external links from `::after` to `::before` for `books.css`, `links.css`, and `music.css`, turning move-along icons into fun emojis! 📚🔗🎵 - **Reflected styling changes**: This change improves readability and keeps spacing consistent, giving it a fresh new flair! 🤩 - **Created new Markdown files**: Added `_index.md` for books and music with descriptive content, differentiating between media types! 🎈 - **Updated links**: Fixed all URLs in links for better navigation to the new media structure. Bye-bye old paths! 🚫
+- **2025-01-06**: 🎉 Add new styles for books, music, and links! 🎵📚
+- **2025-01-06**: Merge branch 'main' into media
+- **2025-01-06**: Auto update spotify tracks
+- **2025-01-05**: Auto update micro posts
+- **2025-01-05**: Auto update micro posts
+- **2025-01-05**: Auto update spotify tracks
+- **2025-01-04**: 🎉 Add new layouts for books and music, enhance existing media list! 📚🎶
+- **2025-01-04**: Links and Media Menu Weight Adjustments 🎉✨
+- **2025-01-04**: t🚨 Update README and Add Media Section! 🚨
+- **2025-01-04**: Merge pull request #88 from harperreed/books
+- **2025-01-04**: Auto update micro posts
+- **2025-01-04**: GitHub Actions & Goodreads Script Added 🥳🚀
+- **2025-01-04**: added data and content
 - **2025-01-01**: ✨ Updated blog post index and post list layout! 🚀
 - **2025-01-01**: Added missing byline section to notes layout 🤓🎉 - Moved the byline code out of the menu condition, so it's always displayed! No more ghost bylines! 👻✍️ - Ensured that the date, author, and kudos button are visible on all notes, improving accessibility and consistency. 📅👍 - Changed the file: `layouts/notes/single.html`
 - **2025-01-01**: 🚀 Big Cleanup: Deleted Unused Notes and Images! 🗑️
