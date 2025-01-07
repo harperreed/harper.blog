@@ -15,33 +15,34 @@
     {{ with .OutputFormats.Get "RSS" }}
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{ end }}
+    {{ $tag := .Site.Params.amazon_tag }}
     {{ range .Pages }}
-    <item>
-      <title>{{ .Title }}</title>
-      {{ with .Params.asin }}
-      {{ $url := print "https://www.amazon.com/dp/" .Params.asin "?tag=" .Site.Params.amazon_tag }}
-      <link>{{ $url }}</link>
-      {{else}}
-      <link>{{ .Permalink }}</link>
-      {{end}}
-      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-      {{ with .Site.Author.email }}<author>{{ . }}{{ with $.Site.Author.name }} ({{ . }}){{ end }}</author>{{ end }}
-      <guid>{{ .Permalink }}</guid>
-      <description>
-        {{- /* Customize this section for book-specific content */ -}}
-        {{ with .Params.image_url }}
-        <![CDATA[<img src="{{ . | absURL }}" alt="Book cover" style="max-width:300px;height:auto;display:block;margin:1em 0"/>]]>
-        {{ end }}
-        {{ with .Params.author }}<p><strong>Author:</strong> {{ . }}</p>{{ end }}
-        {{ with .Params.pages }}<p><strong>Pages:</strong> {{ . }}</p>{{ end }}
-        {{ with .Params.review_rating }}<p><strong>My rating:</strong> {{ . }}</p>{{ end }}
+        <item>
+        <title>{{ .Title }}</title>
         {{ with .Params.asin }}
-        {{ $url := print "https://www.amazon.com/dp/" .Params.asin "?tag=" .Site.Params.amazon_tag }}
-        <p><a href="{{ $url }}" target="_blank"  rel="noopener noreferrer" >read this book</a></p>
+        
+        {{ $url := print "https://www.amazon.com/dp/" . "?tag=" $tag }}
+        <link>{{ $url }}</link>
+        {{ else }}
+        <link>{{ .Permalink }}</link>
         {{ end }}
-        {{ .Summary | html }}
-      </description>
-    </item>
-    {{ end }}
+        <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+        {{ with .Site.Author.email }}<author>{{ . }}{{ with $.Site.Author.name }} ({{ . }}){{ end }}</author>{{ end }}
+        <guid>{{ .Permalink }}</guid>
+        <description>
+            {{ with .Params.image_url }}
+            <![CDATA[<img src="{{ . | absURL }}" alt="Book cover" style="max-width:300px;height:auto;display:block;margin:1em 0"/>]]>
+            {{ end }}
+            {{ with .Params.author }}<p><strong>Author:</strong> {{ . }}</p>{{ end }}
+            {{ with .Params.pages }}<p><strong>Pages:</strong> {{ . }}</p>{{ end }}
+            {{ with .Params.review_rating }}<p><strong>My rating:</strong> {{ . }}</p>{{ end }}
+            {{ with .Params.asin }}
+            {{ $url := print "https://www.amazon.com/dp/" . "?tag=" $tag }}
+            <p><a href="{{ $url }}" target="_blank" rel="noopener noreferrer">read this book</a></p>
+            {{ end }}
+            {{ .Summary | html }}
+        </description>
+        </item>
+        {{ end }}
   </channel>
 </rss>
