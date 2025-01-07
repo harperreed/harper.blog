@@ -1,5 +1,7 @@
 .link-posts {
-    composes: media-posts;
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
 
 .link-filter {
