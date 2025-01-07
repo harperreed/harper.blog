@@ -43,7 +43,7 @@
             {{ end }}
             <hr />
             {{ .Summary | html }}
-            ]]>
+        ]]>
         </description>
         </item>
         {{ end }}
