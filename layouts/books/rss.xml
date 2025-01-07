@@ -24,9 +24,16 @@
       <guid>{{ .Permalink }}</guid>
       <description>
         {{- /* Customize this section for book-specific content */ -}}
-        {{ with .Params.image_url }}<img src="{{ . | absURL }}" alt="Book cover"/>{{ end }}
-        {{ with .Params.author }}<p>Author: {{ . }}</p>{{ end }}
-        {{ with .Params.asin }}<p>ISBN: {{ . }}</p>{{ end }}
+        {{ with .Params.image_url }}
+        <![CDATA[<img src="{{ . | absURL }}" alt="Book cover" style="max-width:300px;height:auto;display:block;margin:1em 0"/>]]>
+        {{ end }}
+        {{ with .Params.author }}<p><strong>Author:</strong> {{ . }}</p>{{ end }}
+        {{ with .Params.pages }}<p><strong>Pages:</strong> {{ . }}</p>{{ end }}
+        {{ with .Params.review_rating }}<p><strong>My rating:</strong> {{ . }}</p>{{ end }}
+        {{ with .Params.asin }}
+        {{ $url := print "https://www.amazon.com/dp/" .Params.asin "?tag=" .Site.Params.amazon_tag }}
+        <p><a href="{{ $url }}" target="_blank"  rel="noopener noreferrer" >read this book</a></p>
+        {{ end }}
         {{ .Summary | html }}
       </description>
     </item>
