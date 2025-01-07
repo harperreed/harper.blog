@@ -3,6 +3,7 @@ from __future__ import print_function
 import datetime
 from openai import OpenAI
 from pydantic import BaseModel
+from typing import List
 import json
 import os
 import requests
@@ -12,16 +13,13 @@ import shutil
 from slugify import slugify
 from dotenv import load_dotenv
 import xmltodict
+from pprint import pprint
+import frontmatter
 from goodreads import review
 from json import loads, dumps
 
 load_dotenv()
 
-
-class BookSummary(BaseModel):
-    Summary: str
-    Tagline: str
-    Description: str
 
 
 logger = logging.getLogger()
@@ -35,27 +33,11 @@ logging.getLogger("urllib3").setLevel(logging.WARNING)
 logging.getLogger("requests_oauthlib").setLevel(logging.WARNING)
 logging.getLogger("oauthlib.oauth1.rfc5849").setLevel(logging.WARNING)
 
-post_template = """
----
-title: "###TITLE###"
-date: ###DATE###
-draft: false
-tagline: ###TAGLINE###
-summary: ###SUMMARY###
-tags: [###TAGS###]
-layout: book
-image: ###IMAGE###
-image:
-  - ###IMAGE###
-asin: "###ASIN###"
-yaml: ###SLUG###
-author: ###AUTHOR###
+class BookSummary(BaseModel):
+    Summary: str
+    Tagline: str
+    Description: str
 
----
-
-###DESC###
-
-"""
 
 
 def get_book_summary(book_metadata):
@@ -424,12 +406,36 @@ def get_goodreads_books(limit: int = 200) -> list:
     return books
 
 
+def create_post_metadata(book_data, book, summary, asin, author):
+    """
+    Creates metadata dictionary for the frontmatter post
+    """
+
+    return {
+        "title": book_data["title"],
+        "title_without_series": book.get("title_without_series", ""),
+        "date": book["read_at"],
+        "num_pages": book.get("num_pages", 0),
+        "review_rating": book["review_rating"],
+        "average_rating": book["average_rating"],
+        "goodreads_link": book["link"],
+        "started_at": book["started_at"],
+        "image_url": f"https://images-na.ssl-images-amazon.com/images/P/{asin}.01._SCLZZZZZZZ.jpg",
+        "draft": False,
+        "tagline": summary["Tagline"],
+        "summary": summary["Summary"],
+        "tags": [author],
+        "layout": "book",
+        "image": [asin + ".jpg"] if asin else [],
+        "asin": asin,
+        "yaml": slugify(book_data["title"]),
+        "book_author": author
+    }
+    
 def main():
     """
     Main function to process books from Goodreads API and generate Hugo blog posts.
-
-    Creates data files, blog posts and downloads cover images for books retrieved
-    from Goodreads. Handles file creation, metadata processing and error cases.
+    Now uses frontmatter library for post creation.
     """
     logging.info("Starting main processing")
 
@@ -466,9 +472,7 @@ def main():
                 with open(data_filename, "w", encoding="utf-8") as f:
                     yaml.safe_dump(book_data, f, default_flow_style=False)
             except Exception as e:
-                logging.error(
-                    f"Failed processing book data for {book['title']}: {str(e)}"
-                )
+                logging.error(f"Failed processing book data for {book['title']}: {str(e)}")
                 continue
         else:
             logging.debug(f"Loading existing book data from {data_filename}")
@@ -476,9 +480,7 @@ def main():
                 with open(data_filename, "r", encoding="utf-8") as stream:
                     book_data = yaml.safe_load(stream)
             except Exception as e:
-                logging.error(
-                    f"Failed loading book data from {data_filename}: {str(e)}"
-                )
+                logging.error(f"Failed loading book data from {data_filename}: {str(e)}")
                 continue
 
         # Determine ASIN
@@ -495,29 +497,19 @@ def main():
 
             try:
                 author = book["authors"]["author"]["name"]
-                tags = [author]
-
+                
                 if book_data:
                     summary = get_book_summary(book_data)
+                    
+                    # Create post using frontmatter
+                    post = frontmatter.Post(
+                        content=summary.get("Description", ""),
+                        **create_post_metadata(book_data, book, summary, asin, author)
+                    )
 
-                    post = post_template
-                    replacements = {
-                        "###ASIN###": asin,
-                        "###AUTHOR###": author,
-                        "###TAGLINE###": summary["Tagline"],
-                        "###SUMMARY###": summary["Summary"],
-                        "###TITLE###": book_data["title"],
-                        "###DATE###": book["read_at"],
-                        "###SLUG###": slugify(book_data["title"]),
-                        "###TAGS###": ",".join(tags),
-                        "###DESC###": summary.get("Description", ""),
-                    }
-
-                    for key, value in replacements.items():
-                        post = post.replace(key, value)
-
+                    # Write the post to file
                     with open(post_filename, "wb") as file:
-                        file.write(post.encode("utf-8").strip())
+                        frontmatter.dump(post, file, encoding="utf-8")
 
             except Exception as e:
                 logging.error(f"Failed creating post for {book['title']}: {str(e)}")
@@ -531,12 +523,9 @@ def main():
                 try:
                     downloadAmazonImage(asin, book_data, "", image_filename)
                 except Exception as e:
-                    logging.error(
-                        f"Failed downloading image for {book['title']}: {str(e)}"
-                    )
+                    logging.error(f"Failed downloading image for {book['title']}: {str(e)}")
 
     logging.info("Main processing completed")
-
 
 if __name__ == "__main__":
     main()
