@@ -15,7 +15,7 @@
 }
 
 .book-posts a[target="_blank"]::before {
-    content: "📚";
+    content: "📚 ";
     color: var(--color-secondary);
     text-decoration: none;
     speak: none;
