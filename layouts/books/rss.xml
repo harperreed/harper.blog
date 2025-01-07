@@ -30,8 +30,9 @@
         {{ with .Site.Author.email }}<author>{{ . }}{{ with $.Site.Author.name }} ({{ . }}){{ end }}</author>{{ end }}
         <guid>{{ .Permalink }}</guid>
         <description>
+        <![CDATA[
             {{ with .Params.image_url }}
-            <![CDATA[<img src="{{ . | absURL }}" alt="Book cover" style="max-width:300px;height:auto;display:block;margin:1em 0"/>]]>
+            <img src="{{ . | absURL }}" alt="Book cover" style="max-width:300px;height:auto;display:block;margin:1em 0"/>
             {{ end }}
             {{ with .Params.author }}<p><strong>Author:</strong> {{ . }}</p>{{ end }}
             {{ with .Params.pages }}<p><strong>Pages:</strong> {{ . }}</p>{{ end }}
@@ -42,6 +43,7 @@
             {{ end }}
             <hr />
             {{ .Summary | html }}
+            ]]>
         </description>
         </item>
         {{ end }}
