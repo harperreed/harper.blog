@@ -25,6 +25,7 @@ amazon_tag = "harperrules0d-20"
 customcss = [
     "/css/root-colors.css",
     "/css/harper.css",
+    "/css/shared.css",
     "/css/themes.css",
     "/css/bsky_comments.css",
     "/css/outofdate.css",
@@ -34,7 +35,7 @@ customcss = [
     "/css/books.css",
     "/css/music.css",
     "/css/links.css",
-    "/css/shared.css",
+
     "syntax.css",
 ]
 

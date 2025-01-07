@@ -1,7 +1,7 @@
 {{ define "main" }}
 <content>
     {{ .Content }} {{ if .Data.Singular }}
-    <h3 class="books-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
+    <h3 class="book-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
     {{ end }} {{ $pages := .Pages }} {{ if not $pages }}
     <ul class="book-posts">
         <li>{{ i18n "no-posts" }}</li>

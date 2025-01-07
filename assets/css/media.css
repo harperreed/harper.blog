@@ -36,7 +36,7 @@
     margin-right: 1em;
 }
 
-.link-filter {
+.media-link-filter {
     color: var(--color-secondary);
     font-size: 1.1em;
     margin-bottom: 2em;
@@ -52,7 +52,7 @@
     text-decoration: none;
 }
 
-.link-posts a .media-link-title {
+.media-link-posts a .media-link-title {
     text-decoration: underline;
 }
 
