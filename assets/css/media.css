@@ -1,19 +1,19 @@
 .media-link::before {
-    content: "🔗";
+    content: "🔗 ";
     color: var(--color-secondary);
     text-decoration: none;
     speak: none;
 }
 
 .media-book::before {
-    content: "📚";
+    content: "📚 ";
     color: var(--color-secondary);
     text-decoration: none;
     speak: none;
 }
 
 .media-music::before {
-    content: "🎵";
+    content: "🎵 ";
     color: var(--color-secondary);
     text-decoration: none;
     speak: none;
