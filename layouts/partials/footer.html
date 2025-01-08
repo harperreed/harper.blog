@@ -12,7 +12,8 @@
     <br />
     <nobr
         >{{ i18n "generated" | default "Generated" }} {{ i18n "on" | default
-        "on" }} {{ now.Format "Jan 2, 2006" }}</nobr
+        "on" }} {{ now.Format "Jan 2, 2006" }} &middot;
+        {{.GitInfo.AbbreviatedHash}}</nobr
     >
     <br />
     <nobr
