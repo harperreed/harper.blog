@@ -1,1 +1,6 @@
 
+[outputFormats.MediaRSS]
+mediaType = "application/rss+xml"
+baseName = "media"
+isPlainText = true
+rel = "alternate"
