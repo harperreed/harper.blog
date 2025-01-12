@@ -64,6 +64,9 @@
         {{- else if eq .Section "music" }}
           {{- with .Params.artist }}<p><strong>Artist:</strong> {{ . }}</p>{{- end }}
           {{- with .Params.album }}<p><strong>Album:</strong> {{ . }}</p>{{- end }}
+        {{- else if eq .Section "links" }}
+            {{ with .Description }}{{ . }}{{ else }}{{ .Summary | html }}{{ end }}
+            {{- with .Params.original_url }}<p><a href="{{ . }}" target="_blank">Read more</a></p>{{- end }}
         {{- end }}
         {{ .Content | html }}
       {{ printf "]]>" | safeHTML }}</content:encoded>
