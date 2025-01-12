@@ -1,4 +1,5 @@
 
+# MediaRSS format for aggregating media content (books, music, links)
 [outputFormats.MediaRSS]
 mediaType = "application/rss+xml"
 baseName = "media"
