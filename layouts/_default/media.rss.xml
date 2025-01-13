@@ -69,7 +69,8 @@
             {{ with .Description }}{{ . }}{{ else }}{{ .Summary | html }}{{ end }}
             {{- with .Params.original_url }}<p><a href="{{ . | htmlEscape }}" target="_blank">Read more</a></p>{{- end }}
         {{- end }}
-        {{ .Content | html }}
+        
+        <p>{{ .Content | html }}</p>
         ]]>
       </content:encoded>
       {{- with .Section }}
