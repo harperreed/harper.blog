@@ -21,7 +21,7 @@ notes_pagination = 10
 links_pagination = 20
 themeStyle = "harper"
 amazon_tag = "harperrules0d-20"
-#theme = "nordic"
+theme = "nature"
 customcss = [
     "/css/root-colors.css",
     "/css/harper.css",
