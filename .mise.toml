@@ -20,10 +20,10 @@ hide = true
 
 [tasks.clean]
 depends = [
-  'clean_llm_outputs',
-  'clean_public_dir',
-  'clean_hugo_build_lock_file',
-  'clean_node_modules',
+    'clean_llm_outputs',
+    'clean_public_dir',
+    'clean_hugo_build_lock_file',
+    'clean_node_modules',
 ]
 description = 'Clean up the project: remove all the output.txts and node_modules'
 
@@ -70,4 +70,13 @@ run = """
 cd tools
 python get_photos.py
 
+"""
+
+
+[tasks."llm:audit_hugo"]
+depends = ["llm:generate_bundle"]
+description = 'Generate GitHub issues from repository content stored in output.txt using LLM generation'
+run = """
+#!/usr/bin/env bash
+cat output.txt | llm -m claude-3.5-sonnet "Audit this hugo blog. Output any issues you find in the style of github issues. Look for performance, efficiency, and usability issues. This is important" > hugo_issues.md
 """
