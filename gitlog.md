@@ -1,3 +1,46 @@
+- **2025-01-12**: Updated headings and formatting in 2025-01-12.md 🎉📄
+- **2025-01-12**: Updated theme and improved media post description 🎨📖
+- **2025-01-12**: Add content for January 12, 2025
+- **2025-01-12**: Add support for RSS feed from site and page contexts 📰✨
+- **2025-01-12**: Added media section to blog with new images! 📚🎧📄 - Added a media section to the blog to track and display reading, listening, and bookmarking activities. - Included new images: `harper-politics.jpeg` and `new-media-sufjan.jpeg` to enhance visual appeal. - Explained the 'why' behind tracking media and referenced tools used (Goodreads, Spotify, and Feedbin) for automation. - Added sections for RSS feeds for easier media tracking and sharing. 📨📲
+- **2025-01-12**: Merge pull request #90 from harperreed/media-rss
+- **2025-01-13**: Auto update micro posts
+- **2025-01-12**: Updated EXIF settings in imaging.toml ⚙️📸
+- **2025-01-12**: Added a media section to track and display my reading, listening, and bookmarking activities 🎉📚🎶
+- **2025-01-12**: Added media section to track and display content consumption 📚🎶🔗 - Introduced a new media section to the website, detailed in `content/post/2025-01-12-new-media.md`, which logs books, music, and links automatically. - Included a summarized _tl;dr_ at the beginning for quick readers to understand the update at a glance. - Explained the personal motivation behind tracking media consumption and drew inspiration from a friend's project, ensuring clarity for future developers on the rationale. - Provided links for easy navigation to individual sections, such as books and music RSS feeds.
+- **2025-01-12**: 🚀 Add 'New Media' Section and Update RSS Feed! 🎉
+- **2025-01-13**: Auto update spotify tracks
+- **2025-01-12**: Update layouts/_default/media.rss.xml
+- **2025-01-12**: Update layouts/_default/media.rss.xml
+- **2025-01-12**: Update config/_default/outputFormats.toml
+- **2025-01-11**: 🎉 Update Media RSS Feed to Include Links Section! 🌐
+- **2025-01-11**: Added MediaRSS support and created corresponding layout 🎉📺
+- **2025-01-12**: Auto update spotify tracks
+- **2025-01-11**: Auto update spotify tracks
+- **2025-01-10**: Auto update micro posts
+- **2025-01-10**: Auto update micro posts
+- **2025-01-10**: Auto update spotify tracks
+- **2025-01-09**: Auto update micro posts
+- **2025-01-09**: Auto update micro posts
+- **2025-01-09**: Auto update micro posts
+- **2025-01-09**: Auto update micro posts
+- **2025-01-08**: Updated footer template for better Git info display 🎉🚀
+- **2025-01-08**: 🚀 Update Configuration and Footer to Include Git Info! 🥳
+- **2025-01-08**: 🚨 Major Cleanup in the Notes Section! 🚨 - Deletion of several image files: `image_1.jpg` & `image_2.jpg` from multiple untitled folders (2024-12-30, 2025-01-04) - Deleted markdown files corresponding to deleted images and cleaned up some stray text files: Removed `index.md` files from 2024-12-30, 2024-12-31, 2025-01-04. - Updated note IDs in `index.md` files for the rest of the notes, ensuring correct sequential referencing (fixing a fucky-wucky with note IDs!)
+- **2025-01-08**: Merge branch 'main' of github.com:harperreed/harper.blog
+- **2025-01-08**: Updated avatar size in params.toml 🎉🐢
+- **2025-01-08**: Auto update micro posts
+- **2025-01-08**: Auto update micro posts
+- **2025-01-08**: Auto update micro posts
+- **2025-01-08**: Auto update spotify tracks
+- **2025-01-07**: Auto update micro posts
+- **2025-01-07**: Auto update micro posts
+- **2025-01-07**: 🚀 Add new book entries and images with detailed metadata updates! 📚
+- **2025-01-07**: Updated RSS feed structure in `layouts/books/rss.xml`
+- **2025-01-07**: Update RSS feed layout for improved formatting 😎📚
+- **2025-01-07**: 🚀 Improve RSS Feed Structure and Content 🎉
+- **2025-01-07**: Updated RSS feed layout for book listings 📚✨ - Removed the `type="books"` attribute from the `<rss>` tag. - Added a horizontal rule `<hr />` before the book summary in the `<description>` tag.
+- **2025-01-07**: 🎉 Update RSS Feed Template for Books with Dynamic Amazon Links! 🎉
 - **2025-01-07**: Added ASIN support for Amazon links in RSS feed 📚🚀
 - **2025-01-07**: Add rich book metadata to RSS feed 🥳📚
 - **2025-01-07**: 🎉 Major Cleanup and New Features in Configuration and Layouts! 🌟
