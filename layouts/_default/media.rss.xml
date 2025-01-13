@@ -1,0 +1,82 @@
+{{- $pctx := . -}}
+{{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
+
+{{- $allMedia := slice -}}
+{{- range where .Site.RegularPages "Section" "books" -}}
+    {{- $allMedia = $allMedia | append . -}}
+{{- end -}}
+{{- range where .Site.RegularPages "Section" "music" -}}
+    {{- $allMedia = $allMedia | append . -}}
+{{- end -}}
+{{- range where .Site.RegularPages "Section" "links" -}}
+    {{- $allMedia = $allMedia | append . -}}
+{{- end -}}
+
+{{- $sortedMedia := sort $allMedia "Date" "desc" -}}
+{{- $limit := .Site.Config.Services.RSS.Limit -}}
+{{- if ge $limit 1 -}}
+    {{- $sortedMedia = $sortedMedia | first $limit -}}
+{{- end -}}
+
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+{{- printf "<?xml-stylesheet href=\"/pretty-feed-v3.xsl\" type=\"text/xsl\"?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>{{ .Site.Title }} - Media Feed</title>
+    <link>{{ .Permalink }}</link>
+    <description>Recent media activity including books, music, and links from {{ .Site.Title }}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    {{ with .Site.LanguageCode }}<language>{{.}}</language>{{end}}
+    {{ with .Site.Author.email }}<managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}
+    {{ with .Site.Author.email }}<webMaster>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</webMaster>{{end}}
+    {{ if not .Date.IsZero }}<lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
+    {{ with .OutputFormats.Get "RSS" }}
+    {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+    {{ end }}
+    
+    {{- range $sortedMedia }}
+    <item>
+      <title>{{ .Title }}</title>
+      {{- if eq .Section "books" }}
+        {{- with .Params.asin }}
+        {{- $url := print "https://www.amazon.com/dp/" . "?tag=" $.Site.Params.amazon_tag }}
+        <link>{{ $url }}</link>
+        {{- else }}
+        <link>{{ .Permalink }}</link>
+        {{- end }}
+      {{- else if eq .Section "music" }}
+        <link>{{ .Params.spotify_url | default .Permalink }}</link>
+      {{- else }}
+        <link>{{ .Params.original_url | default .Permalink }}</link>
+      {{- end }}
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+      {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
+      <guid>{{ .Permalink }}</guid>
+      <description>{{ with .Description }}{{ . }}{{ else }}{{ .Summary | html }}{{ end }}</description>
+      <content:encoded>
+        <![CDATA[
+        {{- if eq .Section "books" }}
+          {{- with .Params.image_url }}
+          <img src="{{ . | htmlEscape }}" alt="Book cover" style="max-width:300px;height:auto;display:block;margin:1em 0"/>
+          {{- end }}
+          {{- with .Params.author }}<p><strong>Author:</strong> {{ . | htmlEscape }}</p>{{- end }}
+          {{- with .Params.pages }}<p><strong>Pages:</strong> {{ . }}</p>{{- end }}
+          {{- with .Params.review_rating }}<p><strong>Rating:</strong> {{ . }}/5</p>{{- end }}
+        {{- else if eq .Section "music" }}
+          {{- with .Params.artist }}<p><strong>Artist:</strong> {{ . | htmlEscape }}</p>{{- end }}
+          {{- with .Params.album }}<p><strong>Album:</strong> {{ . | htmlEscape }}</p>{{- end }}
+        {{- else if eq .Section "links" }}
+            {{ with .Description }}{{ . }}{{ else }}{{ .Summary | html }}{{ end }}
+            {{- with .Params.original_url }}<p><a href="{{ . | htmlEscape }}" target="_blank">Read more</a></p>{{- end }}
+        {{- end }}
+        
+        <p>{{ .Content | html }}</p>
+        ]]>
+      </content:encoded>
+      {{- with .Section }}
+      <category>{{ . }}</category>
+      {{- end }}
+    </item>
+    {{- end }}
+  </channel>
+</rss>
