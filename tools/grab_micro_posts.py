@@ -98,7 +98,7 @@ def create_hugo_content(entry, output_dir):
     file_path = os.path.join(post_dir, "index.md")
 
     post = frontmatter.loads(content)
-    post['title'] = "Note"  # Simple title since we're not using IDs anymore
+    post['title'] = f"Note #{content_hash[:6]}"  # Use first 6 chars of hash as ID
     post['sub_title'] = sub_title
     post['description'] = create_description(content)
     post['date'] = date
