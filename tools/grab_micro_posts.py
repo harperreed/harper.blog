@@ -113,7 +113,7 @@ def create_hugo_content(entry, output_dir):
     try:
         with open(file_path, 'w', encoding='utf-8') as f:
             f.write(frontmatter.dumps(post))
-        logging.info(f"Created new post: {file_path} with Note ID: {current_id}")
+        logging.info(f"Created new post: {file_path} with Note ID: {post_id}")
         return True
     except Exception as e:
         logging.error(f"Error creating post: {e}")
