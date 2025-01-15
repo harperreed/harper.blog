@@ -98,7 +98,8 @@ def create_hugo_content(entry, output_dir):
     file_path = os.path.join(post_dir, "index.md")
 
     post = frontmatter.loads(content)
-    post['title'] = f"Note #{content_hash[:6]}"  # Use first 6 chars of hash as ID
+    current_id = get_highest_note_id(os.path.dirname(post_dir)) + 1
+    post['title'] = f"Note #{current_id}"
     post['sub_title'] = sub_title
     post['description'] = create_description(content)
     post['date'] = date
@@ -108,7 +109,7 @@ def create_hugo_content(entry, output_dir):
     try:
         with open(file_path, 'w', encoding='utf-8') as f:
             f.write(frontmatter.dumps(post))
-        logging.info(f"Created new post: {file_path}")
+        logging.info(f"Created new post: {file_path} with Note ID: {current_id}")
         return True
     except Exception as e:
         logging.error(f"Error creating post: {e}")
@@ -119,6 +120,27 @@ def generate_hash(content):
     sha1 = hashlib.sha1()
     sha1.update(content.encode('utf-8'))
     return sha1.hexdigest()[:12]
+
+def get_highest_note_id(hugo_content_dir):
+    """Find the highest note ID from existing posts."""
+    highest_note_id = 0
+    for root, dirs, files in os.walk(hugo_content_dir):
+        for file in files:
+            if file == "index.md":
+                try:
+                    with open(os.path.join(root, file), 'r', encoding='utf-8') as f:
+                        post = frontmatter.load(f)
+                        title = post.get('title', '')
+                        if title.startswith('Note #'):
+                            try:
+                                current_id = int(title.split('#')[1])
+                                highest_note_id = max(highest_note_id, current_id)
+                            except (IndexError, ValueError):
+                                continue
+                except Exception as e:
+                    logging.error(f"Error reading file {os.path.join(root, file)}: {str(e)}")
+    
+    return highest_note_id
 
 def create_description(content, max_length=160):
     # Strip markdown syntax
