@@ -1,6 +1,7 @@
 import requests
 import os
 import re
+import hashlib
 from datetime import datetime
 import html2text
 import frontmatter
@@ -66,31 +67,9 @@ def process_images(content, post_dir):
     content = re.sub(r'\n\s*\n', '\n\n', content)
     return content.strip()
 
-def get_highest_note_id(hugo_content_dir):
-    highest_note_id = 0
-    for root, dirs, files in os.walk(hugo_content_dir):
-        for file in files:
-            if file == "index.md":
-                file_path = os.path.join(root, file)
-                try:
-                    with open(file_path, 'r', encoding='utf-8') as f:
-                        post = frontmatter.load(f)
-                        if 'note_id' in post.metadata:
-                            current_id = post.metadata['note_id']
-                            logging.info(f"Found note_id: {current_id} in file: {file_path}")
-                            if isinstance(current_id, int):
-                                highest_note_id = max(highest_note_id, current_id)
-                            else:
-                                logging.warning(f"Non-integer note_id found: {current_id} in file: {file_path}")
-                except Exception as e:
-                    logging.error(f"Error reading file {file_path}: {str(e)}")
 
-    logging.info(f"Highest Note ID found: {highest_note_id}")
-    return highest_note_id
-
-def create_hugo_content(entry, output_dir, note_id):
+def create_hugo_content(entry, output_dir):
     sub_title = entry.get('title', "Untitled")
-    title = f"Note #{note_id}"
     content = entry.get('content_text') or entry.get('content_html', '')
     date_str = entry.get('date_published', datetime.now().isoformat())
     post_url = entry.get('url', '')
@@ -100,14 +79,18 @@ def create_hugo_content(entry, output_dir, note_id):
     except ValueError:
         date = datetime.now()
 
-    base_filename = f"{date.strftime('%Y-%m-%d-%H-%M-%S')}-{slugify(sub_title)}"
+    # Generate hash from content and date to ensure uniqueness
+    hash_input = f"{content}{date_str}{post_url}"
+    content_hash = generate_hash(hash_input)
+    
+    base_filename = f"{content_hash}_{date.strftime('%Y%m%d%H%M%S')}"
     post_dir = os.path.join(output_dir, base_filename)
     
     if os.path.exists(post_dir):
         logging.info(f"Post already exists: {post_dir}")
         return False
 
-    os.makedirs(post_dir, exist_ok=True)
+    os.makedirs(post_dir)
 
     content = html_to_markdown(content)
     content = process_images(content, post_dir)
@@ -121,7 +104,6 @@ def create_hugo_content(entry, output_dir, note_id):
     post['date'] = date
     post['draft'] = False
     post['original_url'] = post_url
-    post['note_id'] = note_id
 
     try:
         with open(file_path, 'w', encoding='utf-8') as f:
@@ -131,6 +113,12 @@ def create_hugo_content(entry, output_dir, note_id):
     except Exception as e:
         logging.error(f"Error creating post for '{title}': {e}")
         return False
+
+def generate_hash(content):
+    """Generate a 12-character SHA-1 hash of the content."""
+    sha1 = hashlib.sha1()
+    sha1.update(content.encode('utf-8'))
+    return sha1.hexdigest()[:12]
 
 def create_description(content, max_length=160):
     # Strip markdown syntax
@@ -164,19 +152,13 @@ def main():
         reverse=False
     )
 
-    highest_note_id = get_highest_note_id(hugo_content_dir)
-    logging.info(f"Starting with highest Note ID: {highest_note_id}")
-
     new_posts_created = 0
     for entry in sorted_entries:
-        new_note_id = highest_note_id + new_posts_created + 1
-        logging.info(f"Attempting to create post with Note ID: {new_note_id}")
-        if create_hugo_content(entry, hugo_content_dir, new_note_id):
+        if create_hugo_content(entry, hugo_content_dir):
             new_posts_created += 1
 
     logging.info(f"Processed {len(sorted_entries)} entries.")
     logging.info(f"Created {new_posts_created} new posts.")
-    logging.info(f"New highest Note ID: {highest_note_id + new_posts_created}")
 
 if __name__ == "__main__":
     main()
