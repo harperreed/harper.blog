@@ -69,7 +69,7 @@ def process_post(post_path):
             return None
             
         # Generate hash from content and date
-        hash_input = f"{content}{date}"
+        hash_input = f"{content}{date.isoformat()}"
         content_hash = generate_hash(hash_input)
         
         # Create new filename
