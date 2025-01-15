@@ -2,7 +2,9 @@ import requests
 import os
 import re
 import hashlib
+import json
 from datetime import datetime
+from functools import lru_cache
 import html2text
 import frontmatter
 from slugify import slugify
@@ -98,8 +100,10 @@ def create_hugo_content(entry, output_dir):
     file_path = os.path.join(post_dir, "index.md")
 
     post = frontmatter.loads(content)
-    current_id = get_highest_note_id(os.path.dirname(post_dir)) + 1
-    post['title'] = f"Note #{current_id}"
+    post_id = find_post_id(post_url, content)
+    if post_id is None:
+        post_id = get_highest_note_id(os.path.dirname(post_dir)) + 1
+    post['title'] = f"Note #{post_id}"
     post['sub_title'] = sub_title
     post['description'] = create_description(content)
     post['date'] = date
@@ -114,6 +118,33 @@ def create_hugo_content(entry, output_dir):
     except Exception as e:
         logging.error(f"Error creating post: {e}")
         return False
+
+ARCHIVAL_FEED_URL = "https://raw.githubusercontent.com/harperreed/harper.micro.blog/refs/heads/main/feed.json"
+
+@lru_cache(maxsize=1)
+def get_archival_feed():
+    """Fetch and cache the archival feed."""
+    try:
+        response = requests.get(ARCHIVAL_FEED_URL)
+        response.raise_for_status()
+        return response.json()
+    except Exception as e:
+        logging.error(f"Failed to fetch archival feed: {e}")
+        return None
+
+def find_post_id(url, content):
+    """Find the original post ID from the archival feed."""
+    feed = get_archival_feed()
+    if not feed:
+        return None
+    
+    for item in feed.get('items', []):
+        if item.get('url') == url or item.get('content_text') == content:
+            # Extract ID from the id field which might be in format "post/123456"
+            post_id = item.get('id', '').split('/')[-1]
+            if post_id.isdigit():
+                return int(post_id)
+    return None
 
 def generate_hash(content):
     """Generate a 12-character SHA-1 hash of the content."""
