@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Books Grid View</title>
+    <link rel="stylesheet" href="/assets/css/books.css">
+</head>
+<body>
+    <div class="book-grid">
+        {{ range .Pages }}
+        <div class="book-item">
+            <a href="{{ .Permalink }}">
+                <img src="{{ .Params.image }}" alt="{{ .Title }}">
+                <h2>{{ .Title }}</h2>
+                <p>{{ .Params.author }}</p>
+            </a>
+        </div>
+        {{ end }}
+    </div>
+</body>
+</html>

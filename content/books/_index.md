@@ -8,3 +8,5 @@ url: /media/books
 ---
 
 I read a lot of books. Here is my read book list.
+
+[View books in grid format](/books/grid)
