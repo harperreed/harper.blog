@@ -100,10 +100,12 @@ def create_hugo_content(entry, output_dir):
     file_path = os.path.join(post_dir, "index.md")
 
     post = frontmatter.loads(content)
-    post_id = find_post_id(post_url, content)
+    post_id, archive_title = find_post_info(post_url, content)
     if post_id is None:
         post_id = get_highest_note_id(os.path.dirname(post_dir)) + 1
-    post['title'] = f"Note #{post_id}"
+        post['title'] = f"Note #{post_id}"
+    else:
+        post['title'] = archive_title if archive_title else f"Note #{post_id}"
     post['sub_title'] = sub_title
     post['description'] = create_description(content)
     post['date'] = date
@@ -132,19 +134,22 @@ def get_archival_feed():
         logging.error(f"Failed to fetch archival feed: {e}")
         return None
 
-def find_post_id(url, content):
-    """Find the original post ID from the archival feed."""
+def find_post_info(url, content):
+    """Find the original post ID and title from the archival feed."""
     feed = get_archival_feed()
     if not feed:
-        return None
+        return None, None
     
     for item in feed.get('items', []):
         if item.get('url') == url or item.get('content_text') == content:
             # Extract ID from the id field which might be in format "post/123456"
             post_id = item.get('id', '').split('/')[-1]
             if post_id.isdigit():
-                return int(post_id)
-    return None
+                logging.debug(f"Found match in archive - URL: {url}")
+                logging.debug(f"Archive title: {item.get('title')}")
+                logging.debug(f"Archive content: {item.get('content_text')[:100]}...")
+                return int(post_id), item.get('title')
+    return None, None
 
 def generate_hash(content):
     """Generate a 12-character SHA-1 hash of the content."""
