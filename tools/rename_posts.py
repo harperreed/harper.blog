@@ -79,7 +79,7 @@ def process_post(post_path):
         return None
 
 def main():
-    notes_dir = Path("content/notes")
+    notes_dir = Path("../content/notes")
     
     # Process all post directories
     for post_path in notes_dir.iterdir():
