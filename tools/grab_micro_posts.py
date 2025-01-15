@@ -4,6 +4,7 @@ import re
 import hashlib
 import json
 from datetime import datetime
+from bs4 import BeautifulSoup
 from functools import lru_cache
 import html2text
 import frontmatter
@@ -23,6 +24,12 @@ logging.basicConfig(
         logging.StreamHandler()
     ]
 )
+
+
+def strip_html(html_string):
+    # Convert HTML to text
+    return BeautifulSoup(html_string, "html.parser").get_text()
+
 
 def download_json_feed(url):
     try:
@@ -86,7 +93,10 @@ def create_hugo_content(entry, output_dir):
     print(hash_input)
     content_hash = generate_hash(hash_input)
     
-    base_filename = f"{date.strftime('%Y-%m-%d')}_{content_hash}"
+    content_text = strip_html(content)
+    slug = slugify(content_text)
+    
+    base_filename = f"{date.strftime('%Y-%m-%d')}_{content_hash}_{slug[:30]}"
     post_dir = os.path.join(output_dir, base_filename)
     
     if os.path.exists(post_dir):

@@ -4,6 +4,7 @@ import hashlib
 import frontmatter
 import logging
 import requests
+from slugify import slugify
 import sys
 from datetime import datetime
 from pathlib import Path
@@ -85,13 +86,14 @@ def process_post(post_path):
             logging.warning(f"No date found in {post_path}")
             return None
             
+        slug = slugify(content)
         # Generate hash from content and date
         hash_input = f"{url}{date.isoformat()}"
         
         content_hash = generate_hash(hash_input)
         
         # Create new filename
-        new_name = f"{date.strftime('%Y-%m-%d')}_{content_hash}"
+        new_name = f"{date.strftime('%Y-%m-%d')}_{content_hash}_{slug[:30]}"
         
         return new_name
         
