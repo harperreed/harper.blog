@@ -98,7 +98,7 @@ def create_hugo_content(entry, output_dir):
     file_path = os.path.join(post_dir, "index.md")
 
     post = frontmatter.loads(content)
-    post['title'] = title
+    post['title'] = "Note"  # Simple title since we're not using IDs anymore
     post['sub_title'] = sub_title
     post['description'] = create_description(content)
     post['date'] = date
@@ -108,10 +108,10 @@ def create_hugo_content(entry, output_dir):
     try:
         with open(file_path, 'w', encoding='utf-8') as f:
             f.write(frontmatter.dumps(post))
-        logging.info(f"Created new post: {file_path} with Note ID: {note_id}")
+        logging.info(f"Created new post: {file_path}")
         return True
     except Exception as e:
-        logging.error(f"Error creating post for '{title}': {e}")
+        logging.error(f"Error creating post: {e}")
         return False
 
 def generate_hash(content):
