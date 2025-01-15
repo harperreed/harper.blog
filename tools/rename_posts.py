@@ -7,10 +7,21 @@ import requests
 from datetime import datetime
 from pathlib import Path
 from functools import lru_cache
+from dotenv import load_dotenv
+
+# Load environment variables from .env file if it exists
+load_dotenv()
 
 ARCHIVAL_FEED_URL = "https://raw.githubusercontent.com/harperreed/harper.micro.blog/refs/heads/main/feed.json"
 
-logging.basicConfig(level=logging.INFO)
+# Centralized logging configuration
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.StreamHandler()
+    ]
+)
 
 @lru_cache(maxsize=1)
 def get_archival_feed():
@@ -82,7 +93,7 @@ def process_post(post_path):
         return None
 
 def main():
-    notes_dir = Path("../content/notes")
+    notes_dir = Path(os.getenv('NOTES_HUGO_CONTENT_DIR', '../content/notes'))
     
     # Process all post directories
     for post_path in notes_dir.iterdir():
