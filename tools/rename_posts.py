@@ -23,18 +23,21 @@ def get_archival_feed():
         logging.error(f"Failed to fetch archival feed: {e}")
         return None
 
-def find_post_id(content, url=None):
-    """Find the original post ID from the archival feed."""
+def find_post_info(content, url=None):
+    """Find the original post ID and title from the archival feed."""
     feed = get_archival_feed()
     if not feed:
-        return None
+        return None, None
     
     for item in feed.get('items', []):
         if (url and item.get('url') == url) or item.get('content_text') == content:
             post_id = item.get('id', '').split('/')[-1]
             if post_id.isdigit():
-                return int(post_id)
-    return None
+                logging.debug(f"Found match in archive - URL: {url}")
+                logging.debug(f"Archive title: {item.get('title')}")
+                logging.debug(f"Archive content: {item.get('content_text')[:100]}...")
+                return int(post_id), item.get('title')
+    return None, None
 
 def generate_hash(content):
     """Generate a 12-character SHA-1 hash of the content."""
@@ -54,10 +57,10 @@ def process_post(post_path):
         date = post.get('date')
         url = post.get('original_url')
         
-        # Try to find the original post ID
-        post_id = find_post_id(content, url)
+        # Try to find the original post ID and title
+        post_id, archive_title = find_post_info(content, url)
         if post_id:
-            post['title'] = f"Note #{post_id}"
+            post['title'] = archive_title if archive_title else f"Note #{post_id}"
             # Write back the updated frontmatter
             with open(post_path / "index.md", 'w', encoding='utf-8') as f:
                 f.write(frontmatter.dumps(post))
