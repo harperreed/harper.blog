@@ -86,7 +86,7 @@ def create_hugo_content(entry, output_dir):
     print(hash_input)
     content_hash = generate_hash(hash_input)
     
-    base_filename = f"{date.strftime('%Y-%m-%d-%H-%M')}_{content_hash}"
+    base_filename = f"{date.strftime('%Y-%m-%d')}_{content_hash}"
     post_dir = os.path.join(output_dir, base_filename)
     
     if os.path.exists(post_dir):
