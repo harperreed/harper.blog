@@ -4,6 +4,7 @@ import hashlib
 import frontmatter
 import logging
 import requests
+import sys
 from datetime import datetime
 from pathlib import Path
 from functools import lru_cache
@@ -38,8 +39,8 @@ def find_post_info(content, url=None):
     """Find the original post ID and title from the archival feed."""
     feed = get_archival_feed()
     if not feed:
-        return None, None
-    
+        return None, None, None
+
     for item in feed.get('items', []):
         if (url and item.get('url') == url) or item.get('content_text') == content:
             post_id = item.get('id', '').split('/')[-1]
@@ -47,8 +48,8 @@ def find_post_info(content, url=None):
                 logging.debug(f"Found match in archive - URL: {url}")
                 logging.debug(f"Archive title: {item.get('title')}")
                 logging.debug(f"Archive content: {item.get('content_text')[:100]}...")
-                return int(post_id), item.get('title')
-    return None, None
+                return int(post_id), item.get('title'), item.get('content_html')
+    return None, None, None
 
 def generate_hash(content):
     """Generate a 12-character SHA-1 hash of the content."""
@@ -70,9 +71,13 @@ def process_post(post_path):
         print(url)
         
         # Try to find the original post ID and title
-        post_id, archive_title = find_post_info(content, url)
+        post_id, archive_title, archive_html = find_post_info(content, url)
+        
+        print(post_id, archive_title, archive_html)
+        
         if post_id:
             post['title'] = archive_title if archive_title else f"Note #{post_id}"
+            
             # Write back the updated frontmatter
             with open(post_path / "index.md", 'w', encoding='utf-8') as f:
                 f.write(frontmatter.dumps(post))
@@ -82,11 +87,11 @@ def process_post(post_path):
             
         # Generate hash from content and date
         hash_input = f"{url}{date.isoformat()}"
-        print(hash_input)
+        
         content_hash = generate_hash(hash_input)
         
         # Create new filename
-        new_name = f"{date.strftime('%Y-%m-%d-%H-%M')}_{content_hash}"
+        new_name = f"{date.strftime('%Y-%m-%d')}_{content_hash}"
         
         return new_name
         
