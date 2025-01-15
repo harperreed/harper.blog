@@ -82,7 +82,8 @@ def create_hugo_content(entry, output_dir):
         date = datetime.now()
 
     # Generate hash from content and date to ensure uniqueness
-    hash_input = f"{content}{date.isoformat()}"
+    hash_input = f"{post_url}{date.isoformat()}"
+    print(hash_input)
     content_hash = generate_hash(hash_input)
     
     base_filename = f"{date.strftime('%Y-%m-%d-%H-%M')}_{content_hash}"

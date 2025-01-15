@@ -67,6 +67,7 @@ def process_post(post_path):
         # Get the date and URL from frontmatter
         date = post.get('date')
         url = post.get('original_url')
+        print(url)
         
         # Try to find the original post ID and title
         post_id, archive_title = find_post_info(content, url)
@@ -80,7 +81,8 @@ def process_post(post_path):
             return None
             
         # Generate hash from content and date
-        hash_input = f"{content}{date.isoformat()}"
+        hash_input = f"{url}{date.isoformat()}"
+        print(hash_input)
         content_hash = generate_hash(hash_input)
         
         # Create new filename
