@@ -84,16 +84,26 @@
                 {{- $pagePermalink := .Permalink -}}
                 {{- with .Params.images -}}
                     {{- $img := index . 0 -}}
-                    <enclosure url="{{ printf "%s%s" $pagePermalink $img }}" type="image/jpg"></enclosure>
+                    {{- $imgPath := printf "%s%s" $pagePermalink $img -}}
+                    {{- with resources.GetRemote $imgPath -}}
+                        <enclosure url="{{ $imgPath }}" type="image/jpg" length="{{ len .Content }}"></enclosure>
+                    {{- else -}}
+                        <enclosure url="{{ $imgPath }}" type="image/jpg" length="0"></enclosure>
+                    {{- end -}}
                 {{ else -}}
                     {{- $images := .Resources.ByType "image" -}}
                     {{- $featured := $images.GetMatch "*feature*" -}}
                     {{- if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end -}}
                     {{- with $featured -}}
-                        <enclosure url="{{ $featured.Permalink }}" type="image/jpg"></enclosure>
+                        <enclosure url="{{ $featured.Permalink }}" type="image/jpg" length="{{ len $featured.Content }}"></enclosure>
                     {{- else -}}
                         {{- with .Site.Params.images -}}
-                            <enclosure url="{{ index . 0 | absURL }}" type="image/jpg"></enclosure>
+                            {{- $defaultImg := index . 0 | absURL -}}
+                            {{- with resources.GetRemote $defaultImg -}}
+                                <enclosure url="{{ $defaultImg }}" type="image/jpg" length="{{ len .Content }}"></enclosure>
+                            {{- else -}}
+                                <enclosure url="{{ $defaultImg }}" type="image/jpg" length="0"></enclosure>
+                            {{- end -}}
                         {{- end -}}
                     {{- end -}}
                 {{- end }}
