@@ -2,9 +2,17 @@
 {{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
 {{- $pages := slice -}}
 {{- if or $.IsHome $.IsSection -}}
-{{- $pages = $pctx.RegularPages -}}
+    {{- if .Site.Params.nofeedSections -}}
+        {{- $pages = where $pctx.RegularPages "Type" "not in" .Site.Params.nofeedSections -}}
+    {{- else -}}
+        {{- $pages = $pctx.RegularPages -}}
+    {{- end -}}
 {{- else -}}
-{{- $pages = $pctx.Pages -}}
+    {{- if .Site.Params.nofeedSections -}}
+        {{- $pages = where $pctx.Pages "Type" "not in" .Site.Params.nofeedSections -}}
+    {{- else -}}
+        {{- $pages = $pctx.Pages -}}
+    {{- end -}}
 {{- end -}}
 {{- $limit := .Site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}
