@@ -33,7 +33,7 @@
             {{ with .Params.image_url }}
             <img src="{{ . | absURL }}" alt="Book cover" style="max-width:300px;height:auto;display:block;margin:1em 0"/>
             {{ end }}
-            {{ with .Params.author }}<p><strong>Author:</strong> {{ . }}</p>{{ end }}
+            {{ with .Params.book_author }}<p><strong>Author:</strong> {{ . }}</p>{{ end }}
             {{ with .Params.pages }}<p><strong>Pages:</strong> {{ . }}</p>{{ end }}
             {{ with .Params.review_rating }}<p><strong>My rating:</strong> {{ . }}</p>{{ end }}
             {{ with .Params.asin }}

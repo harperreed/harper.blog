@@ -45,7 +45,16 @@
       {{- with .Site.Author.email }}
       <author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{ end }}
       <guid>{{ .Permalink }}</guid>
-      <description>{{ .Summary | html }}</description>
+      <description>{{ .Summary | html }}
+      <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:harper@modest.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my generous supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+                
+      </description>
       <content:encoded>{{ printf "<![CDATA[" | safeHTML }}{{ .Content | safeHTML }}
         {{- with .Resources.ByType "image" }}
           {{- range . }}

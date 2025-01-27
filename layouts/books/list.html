@@ -31,7 +31,7 @@
                 rel="noopener noreferrer"
             >
                 <span class="book-title">{{ .Title }}</span>
-                {{ with .Params.author }}
+                {{ with .Params.book_author }}
                 <span class="book-domain">(by {{ . }})</span>
                 {{ end }}
             </a>
