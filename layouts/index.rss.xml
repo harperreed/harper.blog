@@ -67,16 +67,26 @@
     {{- range $pages }}
         {{- if ne .Params.nofeed true }}
             <item>
-                <title>{{ .Title }}</title>
-                <link>{{ .Permalink }}</link>
-                <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+                <title>
+                    {{ .Title }}
+                </title>
+                <link>
+                    {{ .Permalink }}
+                </link>
+                <pubDate>
+                    {{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}
+                </pubDate>
                 {{- with .Site.Author.email }}
-                <author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>
+                    <author>
+                        {{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}
+                    </author>
                 {{ end }}
                 <guid>{{ .Permalink }}</guid>
                 <description>
                     {{ printf "<![CDATA[" | safeHTML }}
+                        
                         {{ .Summary | html }}
+                        
                         <hr />
                         <p>Thank you for using RSS. I appreciate you</p>
                         <p><a href="mailto:harper@modest.com">Email me</a></p>
@@ -85,9 +95,21 @@
                 <content:encoded>
                     {{ printf "<![CDATA[" | safeHTML }}
                         {{ .Content | safeHTML }}
-                        {{- with .Resources.ByType "image" }}
+                        
+                        {{- $images := union (.Resources.ByType "image") (.Resources.Match "**.{jpg,jpeg,png,gif,webp}") -}}
+                        {{- with $images }}
                             {{- range . }}
-                                <img src="{{ .Permalink }}" alt="{{ .Title }}" />
+                                {{- $img := . }}
+                                {{- $alt := or .Title .Name }}
+                                {{- $caption := or .Params.caption "" }}
+                                <figure>
+                                    <img src="{{ .Permalink }}" 
+                                         alt="{{ $alt }}"
+                                         {{ with .Width }}width="{{ . }}"{{ end }}
+                                         {{ with .Height }}height="{{ . }}"{{ end }}
+                                         loading="lazy" />
+                                    {{ with $caption }}<figcaption>{{ . }}</figcaption>{{ end }}
+                                </figure>
                             {{- end }}
                         {{- end }}
                         <hr />
