@@ -123,6 +123,23 @@
                         {{- $content = replaceRE "img src=\"(.*?)\"" (printf "%s%s%s" "img src=\"" .Permalink "$1\"") $content -}}
                         {{ $content | html }}
                         
+                        {{- $images := union (.Resources.ByType "image") (.Resources.Match "**.{jpg,jpeg,png,gif,webp}") -}}
+                        {{- with $images }}
+                            {{- range . }}
+                                {{- $img := . }}
+                                {{- $alt := or .Title .Name }}
+                                {{- $caption := or .Params.caption "" }}
+                                <figure>
+                                    <img src="{{ .Permalink }}" 
+                                         alt="{{ $alt }}"
+                                         {{ with .Width }}width="{{ . }}"{{ end }}
+                                         {{ with .Height }}height="{{ . }}"{{ end }}
+                                         loading="lazy" />
+                                    {{ with $caption }}<figcaption>{{ . }}</figcaption>{{ end }}
+                                </figure>
+                            {{- end }}
+                        {{- end }}
+                        
                         <hr />
                         <p>Thank you for using RSS. I appreciate you</p>
                         <p><a href="mailto:harper&#64;modest.com">Email me</a></p>
