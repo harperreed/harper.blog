@@ -1,23 +1,31 @@
 {{- $pctx := . -}}
-{{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
+
+{{- if .IsHome -}}
+    {{ $pctx = .Site }}
+{{- end -}}
+
 {{- $pages := slice -}}
+
 {{- if or $.IsHome $.IsSection -}}
-{{- if .Site.Params.nofeedSections -}}
-{{- $pages = where $pctx.RegularPages "Type" "not in" .Site.Params.nofeedSections -}}
+    {{- if .Site.Params.nofeedSections -}}
+        {{- $pages = where $pctx.RegularPages "Type" "not in" .Site.Params.nofeedSections -}}
+    {{- else -}}
+        {{- $pages = $pctx.RegularPages -}}
+    {{- end -}}
 {{- else -}}
-{{- $pages = $pctx.RegularPages -}}
+    {{- if .Site.Params.nofeedSections -}}
+        {{- $pages = where $pctx.Pages "Type" "not in" .Site.Params.nofeedSections -}}
+    {{- else -}}
+        {{- $pages = $pctx.Pages -}}
+    {{- end -}}
 {{- end -}}
-{{- else -}}
-{{- if .Site.Params.nofeedSections -}}
-{{- $pages = where $pctx.Pages "Type" "not in" .Site.Params.nofeedSections -}}
-{{- else -}}
-{{- $pages = $pctx.Pages -}}
-{{- end -}}
-{{- end -}}
+
 {{- $limit := .Site.Config.Services.RSS.Limit -}}
+
 {{- if ge $limit 1 -}}
-{{- $pages = $pages | first $limit -}}
+    {{- $pages = $pages | first $limit -}}
 {{- end -}}
+
 
 
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
