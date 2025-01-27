@@ -75,9 +75,7 @@
     {{- range $pages }}
         {{- if ne .Params.nofeed true }}
             <item>
-                <title>
-                    {{ .Title }}
-                </title>
+                <title>{{ .Title | htmlEscape }}</title>
                 <link>
                     {{ .Permalink }}
                 </link>
@@ -92,12 +90,11 @@
                 <guid>{{ .Permalink }}</guid>
                 <description>
                     {{ printf "<![CDATA[" | safeHTML }}
-                        
                         {{ .Summary | html }}
                         
                         <hr />
                         <p>Thank you for using RSS. I appreciate you</p>
-                        <p><a href="mailto:harper@modest.com">Email me</a></p>
+                        <p><a href="mailto:harper&#64;modest.com">Email me</a></p>
                     {{ printf "]]>" | safeHTML }}
                 </description>
                 <content:encoded>
@@ -122,7 +119,7 @@
                         {{- end }}
                         <hr />
                         <p>Thank you for using RSS. I appreciate you</p>
-                        <p><a href="mailto:harper@modest.com">Email me</a></p>
+                        <p><a href="mailto:harper&#64;modest.com">Email me</a></p>
                     {{ printf "]]>" | safeHTML }}
                 </content:encoded>
             </item>
