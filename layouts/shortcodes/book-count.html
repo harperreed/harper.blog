@@ -1,10 +1,20 @@
+{{/* Access the year parameter or default to current year */}}
+{{ $year := default (now.Format "2006") (.Get 0) }}
 
-
-{{ $year := .Get 0 | default (now.Format "2006") }}
+{{/* Initialize counter */}}
 {{ $count := 0 }}
+
+{{/* Loop through books and sum pages */}}
 {{ range where .Site.RegularPages "Section" "books" }}
-  {{ if eq (.Date.Format "2006") $year }}
-    {{ $count = add $count 1 }}
+  {{ if eq (.Date.Format "2006") (string $year) }}
+
+        {{ $count = add $count 1 }}
+
   {{ end }}
 {{ end }}
-{{ $count }}
+
+{{/* Output the total */}}
+
+
+{{/* Output the total */}}
+{{ printf "%d books" $count }}
