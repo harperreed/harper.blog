@@ -23,7 +23,7 @@
 
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 {{- printf "<?xml-stylesheet href=\"/pretty-feed-v3.xsl\" type=\"text/xsl\"?>" | safeHTML }}
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>
         {{ if eq  .Title  .Site.Title }}
@@ -83,19 +83,29 @@
                 <guid>{{ .Permalink }}</guid>
                 {{- $pagePermalink := .Permalink -}}
                 {{- with .Params.images -}}
-                {{- $img := index . 0 -}}
-                <enclosure url="{{ printf "%s%s" $pagePermalink $img }}" type="image/jpg"></enclosure>
+                    {{- $img := index . 0 -}}
+                    <enclosure url="{{ printf "%s%s" $pagePermalink $img }}" type="image/jpg"></enclosure>
                 {{ else -}}
-                {{- $images := .Resources.ByType "image" -}}
-                {{- $featured := $images.GetMatch "*feature*" -}}
-                {{- if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end -}}
-                {{- with $featured -}}
-                <enclosure url="{{ $featured.Permalink }}" type="image/jpg"></enclosure>
-                {{- else -}}
-                {{- with .Site.Params.images -}}
-                <enclosure url="{{ index . 0 | absURL }}" type="image/jpg"></enclosure>
-                {{- end -}}
-                {{- end -}}
+                    {{- $images := .Resources.ByType "image" -}}
+                    {{- $featured := $images.GetMatch "*feature*" -}}
+                    {{- if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end -}}
+                    {{- with $featured -}}
+                        <enclosure url="{{ $featured.Permalink }}" type="image/jpg"></enclosure>
+                    {{- else -}}
+                        {{- with .Site.Params.images -}}
+                            <enclosure url="{{ index . 0 | absURL }}" type="image/jpg"></enclosure>
+                        {{- end -}}
+                    {{- end -}}
+                {{- end }}
+
+                {{- $images := union (.Resources.ByType "image") (.Resources.Match "**.{jpg,jpeg,png,gif,webp}") -}}
+                {{- with $images }}
+                    {{- range . }}
+                        {{- $img := . }}
+                        {{- $alt := or .Title .Name }}
+                        {{- $caption := or .Params.caption "" }}
+                        <media:content url="{{ .Permalink }}" medium="image" />
+                    {{- end }}
                 {{- end }}
                 <description>
                     {{ printf "<![CDATA[" | safeHTML }}
