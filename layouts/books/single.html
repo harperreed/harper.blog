@@ -1,6 +1,6 @@
 {{ define "main" }} {{ if not .Params.menu }}
 <h1>{{ .Title }}</h1>
-<p class="byline">{{ with .Params.author }}By {{.}}{{ end }}</p>
+<p class="byline">{{ with .Params.book_author }}By {{.}}{{ end }}</p>
 {{ end }}
 <content>
     <h3>{{.Params.tagline}}</h3>

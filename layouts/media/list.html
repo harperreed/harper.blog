@@ -36,7 +36,7 @@
             
             {{ if eq $page.Section "links" }}
                 {{ if .Params.original_url }}
-                <a href="{{ .Params.original_url }}" class="media-link" target="_blank" rel="noopener noreferrer">
+                <a href="{{ .Params.original_url }}" class="media-link" target="_blank" rel="noopener noreferrer"></a>
                     <span class="media-link-title">{{ .Title }}</span>
                     {{ $url := urls.Parse .Params.original_url }}
                     <span class="media-link-domain">({{ $url.Hostname }})</span>
@@ -68,7 +68,7 @@
             <a href="{{ $url }}" target="_blank"  class="media-book" rel="noopener noreferrer">
                 <span class="media-link-title">{{ .Title }}</span>
 
-                {{ with .Params.author }}
+                {{ with .Params.book_author }}
                 <span class="media-link-domain">(by {{ . }})</span>
                 {{ end }}
                
