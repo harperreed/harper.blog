@@ -121,7 +121,7 @@
                     {{ printf "<![CDATA[" | safeHTML }}
                         {{- $content := replaceRE "a href=\"(#.*?)\"" (printf "%s%s%s" "a href=\"" .Permalink "$1\"") .Content -}}
                         {{- $content = replaceRE "img src=\"(.*?)\"" (printf "%s%s%s" "img src=\"" .Permalink "$1\"") $content -}}
-                        {{ $content | html }}
+                        {{ $content | safeHTML }}
                         
                         {{- $images := union (.Resources.ByType "image") (.Resources.Match "**.{jpg,jpeg,png,gif,webp}") -}}
                         {{- with $images }}
