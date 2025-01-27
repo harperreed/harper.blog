@@ -45,14 +45,27 @@
       {{- with .Site.Author.email }}
       <author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{ end }}
       <guid>{{ .Permalink }}</guid>
-      <description>{{ .Summary | html }}</description>
-      <content:encoded>{{ printf "<![CDATA[" | safeHTML }}{{ .Content | safeHTML }}
-        {{- with .Resources.ByType "image" }}
-          {{- range . }}
-            <img src="{{ .Permalink }}" alt="{{ .Title }}" />
-          {{- end }}
-        {{- end }}
-      {{ printf "]]>" | safeHTML }}</content:encoded>
+      <description>
+        {{ printf "<![CDATA[" | safeHTML }}
+            {{ .Summary | html }}
+            <hr />
+            <p>Thank you for using RSS. I appreciate you</p>
+            <p><a href="mailto:harper@modest.com">Email me</a></p>
+        {{ printf "]]>" | safeHTML }}
+      </description>
+      <content:encoded>
+        {{ printf "<![CDATA[" | safeHTML }}
+        {{ .Content | safeHTML }}
+            {{- with .Resources.ByType "image" }}
+            {{- range . }}
+                <img src="{{ .Permalink }}" alt="{{ .Title }}" />
+            {{- end }}
+            {{- end }}
+            <hr />
+            <p>Thank you for using RSS. I appreciate you</p>
+            <p><a href="mailto:harper@modest.com">Email me</a></p>
+        {{ printf "]]>" | safeHTML }}
+      </content:encoded>
     </item>
     {{- end }}
     {{- end }}
