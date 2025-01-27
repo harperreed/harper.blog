@@ -1,5 +1,5 @@
 ---
-asin: 0593537629
+asin: 0593685776
 average_rating: '4.23'
 book_author: Kaveh Akbar
 date: '2025-01-26T00:00:00-08:00'
