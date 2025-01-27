@@ -1,132 +1,57 @@
 {{- $pctx := . -}}
-
-{{- if .IsHome -}}
-    {{ $pctx = .Site }}
-{{- end -}}
-
+{{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
 {{- $pages := slice -}}
-
 {{- if or $.IsHome $.IsSection -}}
-    {{- if .Site.Params.nofeedSections -}}
-        {{- $pages = where $pctx.RegularPages "Type" "not in" .Site.Params.nofeedSections -}}
-    {{- else -}}
-        {{- $pages = $pctx.RegularPages -}}
-    {{- end -}}
+{{- $pages = $pctx.RegularPages -}}
 {{- else -}}
-    {{- if .Site.Params.nofeedSections -}}
-        {{- $pages = where $pctx.Pages "Type" "not in" .Site.Params.nofeedSections -}}
-    {{- else -}}
-        {{- $pages = $pctx.Pages -}}
-    {{- end -}}
+{{- $pages = $pctx.Pages -}}
 {{- end -}}
-
 {{- $limit := .Site.Config.Services.RSS.Limit -}}
-
 {{- if ge $limit 1 -}}
-    {{- $pages = $pages | first $limit -}}
+{{- $pages = $pages | first $limit -}}
 {{- end -}}
-
-
-
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
-{{- printf "<?xml-stylesheet href=\"/pretty-feed-v3.xsl\" type=\"text/xsl\"?>" | safeHTML }}
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>
-        {{ if eq  .Title  .Site.Title }}
-            {{ .Site.Title }}
-        {{ else }}
-            {{ with .Title }}
-                {{.}} on 
-            {{ end }}
-            {{ .Site.Title }}
-        {{ end }}
-    </title>
+    <title>{{ if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
-    <description>
-        Recent content 
-        {{ if ne  .Title  .Site.Title }}
-            {{ with .Title }}
-                in {{.}} 
-            {{ end }}
-        {{ end }}
-        on {{ $baseurl := urls.Parse .Site.BaseURL }}{{ $baseurl.Host }}
-    </description>
-    <generator>Hugo -- gohugo.io</generator>
-    {{ with .Site.LanguageCode }}
-    <language>{{.}}</language>{{end}}
-    {{ with .Site.Author.email }}
-    <managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>
-    {{end}}
-    {{ with .Site.Author.email }}
-    <webMaster>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</webMaster>
-    {{end}}
-    {{ with .Site.Copyright }}
-    <copyright>{{ . | markdownify | plainify }}</copyright>
-    {{end}}
-    {{ if not .Date.IsZero }}
-    <lastBuildDate>
-        {{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}
-    </lastBuildDate>
+    <description>Recent content {{ if ne  .Title  .Site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ .Site.Title }}</description>
+    <generator>Hugo -- gohugo.io</generator>{{ with .Site.LanguageCode }}
+    <language>{{.}}</language>{{end}}{{ with .Site.Author.email }}
+    <managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}{{ with .Site.Author.email }}
+    <webMaster>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</webMaster>{{end}}{{ with .Site.Copyright }}
+    <copyright>{{.}}</copyright>{{end}}{{ if not .Date.IsZero }}
+    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
+    {{ with .OutputFormats.Get "RSS" }}
+	{{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{ end }}
-    {{- with .OutputFormats.Get "RSS" }}
-        {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
-    {{- end }}
-    {{- range $pages }}
-        {{- if ne .Params.nofeed true }}
-            <item>
-                <title>
-                    {{ .Title }}
-                </title>
-                <link>
-                    {{ .Permalink }}
-                </link>
-                <pubDate>
-                    {{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}
-                </pubDate>
-                {{- with .Site.Author.email }}
-                    <author>
-                        {{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}
-                    </author>
-                {{ end }}
-                <guid>{{ .Permalink }}</guid>
-                <description>
-                    {{ printf "<![CDATA[" | safeHTML }}
-                        
-                        {{ .Summary | html }}
-                        
-                        <hr />
-                        <p>Thank you for using RSS. I appreciate you</p>
-                        <p><a href="mailto:harper@modest.com">Email me</a></p>
-                    {{ printf "]]>" | safeHTML }}
-                </description>
-                <content:encoded>
-                    {{ printf "<![CDATA[" | safeHTML }}
-                        {{ .Content | safeHTML }}
-                        
-                        {{- $images := union (.Resources.ByType "image") (.Resources.Match "**.{jpg,jpeg,png,gif,webp}") -}}
-                        {{- with $images }}
-                            {{- range . }}
-                                {{- $img := . }}
-                                {{- $alt := or .Title .Name }}
-                                {{- $caption := or .Params.caption "" }}
-                                <figure>
-                                    <img src="{{ .Permalink }}" 
-                                         alt="{{ $alt }}"
-                                         {{ with .Width }}width="{{ . }}"{{ end }}
-                                         {{ with .Height }}height="{{ . }}"{{ end }}
-                                         loading="lazy" />
-                                    {{ with $caption }}<figcaption>{{ . }}</figcaption>{{ end }}
-                                </figure>
-                            {{- end }}
-                        {{- end }}
-                        <hr />
-                        <p>Thank you for using RSS. I appreciate you</p>
-                        <p><a href="mailto:harper@modest.com">Email me</a></p>
-                    {{ printf "]]>" | safeHTML }}
-                </content:encoded>
-            </item>
-        {{- end }}
-    {{- end }}
+    {{ range $pages }}
+    <item>
+      <title>{{ .Title }}</title>
+      {{- $pagePermalink := .Permalink -}}
+      {{- with .Params.images -}}
+      {{- $img := index . 0 -}}
+      <enclosure url="{{ printf "%s%s" $pagePermalink $img }}" type="image/jpg"></enclosure>
+      {{ else -}}
+      {{- $images := .Resources.ByType "image" -}}
+      {{- $featured := $images.GetMatch "*feature*" -}}
+      {{- if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end -}}
+      {{- with $featured -}}
+      <enclosure url="{{ $featured.Permalink }}" type="image/jpg"></enclosure>
+      {{- else -}}
+      {{- with .Site.Params.images -}}
+      <enclosure url="{{ index . 0 | absURL }}" type="image/jpg"></enclosure>
+      {{- end -}}
+      {{- end -}}
+      {{- end }}
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+      {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
+      <guid>{{ .Permalink }}</guid>
+      {{- $content := replaceRE "a href=\"(#.*?)\"" (printf "%s%s%s" "a href=\"" .Permalink "$1\"") .Content -}}
+      {{- $content = replaceRE "img src=\"(.*?)\"" (printf "%s%s%s" "img src=\"" .Permalink "$1\"") $content -}}
+      <description>{{ $content | html }}</description>
+    </item>
+    {{ end }}
   </channel>
 </rss>
