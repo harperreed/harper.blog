@@ -141,8 +141,7 @@
                         {{- end }}
                         
                         <hr />
-                        <p>Thank you for using RSS. I appreciate you</p>
-                        <p><a href="mailto:harper&#64;modest.com">Email me</a></p>
+                        <p>Thank you for using RSS. I appreciate you. <a href="mailto:harper&#64;modest.com">Email me</a></p>
                     {{ printf "]]>" | safeHTML }}
                 </description>
             </item>
