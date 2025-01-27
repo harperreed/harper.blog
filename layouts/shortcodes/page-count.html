@@ -1,0 +1,11 @@
+
+
+{{ $year := .Get 0 | default (now.Format "2006") }}
+{{ $count := 0 }}
+{{ range where .Site.RegularPages "Section" "books" }}
+  {{ if eq (.Date.Format "2006") $year }}
+    {{ $pages := .Params.num_pages | default 0 }}
+    {{ $count = add $count $pages }}
+  {{ end }}
+{{ end }}
+{{ $count }}
