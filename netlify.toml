@@ -31,7 +31,7 @@ Referrer-Policy = "strict-origin-when-cross-origin"
 Permissions-Policy = "microphone 'none'; payment 'none'; geolocation 'none'; midi 'none'; sync-xhr 'none'; camera 'none'; magnetometer 'none'; gyroscope 'none'"
 Content-Security-Policy = """
     default-src 'self';
-    script-src 'self' https://cdnjs.cloudflare.com https://static.cloudflareinsights.com https://tinylytics.app;
+    script-src 'self' https://unpkg.com https://cdnjs.cloudflare.com https://static.cloudflareinsights.com https://tinylytics.app;
     style-src 'self' ;
     font-src 'self';
     img-src 'self' data: https: http: * https://s.gravatar.com;
