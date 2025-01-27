@@ -1,29 +1,14 @@
 {{- $pctx := . -}}
-
-{{- if .IsHome -}}
-    {{ $pctx = .Site }}
-{{- end -}}
-
+{{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
 {{- $pages := slice -}}
-
 {{- if or $.IsHome $.IsSection -}}
-    {{- if .Site.Params.nofeedSections -}}
-        {{- $pages = where $pctx.RegularPages "Type" "not in" .Site.Params.nofeedSections -}}
-    {{- else -}}
-        {{- $pages = $pctx.RegularPages -}}
-    {{- end -}}
+{{- $pages = $pctx.RegularPages -}}
 {{- else -}}
-    {{- if .Site.Params.nofeedSections -}}
-        {{- $pages = where $pctx.Pages "Type" "not in" .Site.Params.nofeedSections -}}
-    {{- else -}}
-        {{- $pages = $pctx.Pages -}}
-    {{- end -}}
+{{- $pages = $pctx.Pages -}}
 {{- end -}}
-
 {{- $limit := .Site.Config.Services.RSS.Limit -}}
-
 {{- if ge $limit 1 -}}
-    {{- $pages = $pages | first $limit -}}
+{{- $pages = $pages | first $limit -}}
 {{- end -}}
 
 
@@ -88,40 +73,33 @@
                     </author>
                 {{ end }}
                 <guid>{{ .Permalink }}</guid>
+                {{- $pagePermalink := .Permalink -}}
+                {{- with .Params.images -}}
+                {{- $img := index . 0 -}}
+                <enclosure url="{{ printf "%s%s" $pagePermalink $img }}" type="image/jpg"></enclosure>
+                {{ else -}}
+                {{- $images := .Resources.ByType "image" -}}
+                {{- $featured := $images.GetMatch "*feature*" -}}
+                {{- if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end -}}
+                {{- with $featured -}}
+                <enclosure url="{{ $featured.Permalink }}" type="image/jpg"></enclosure>
+                {{- else -}}
+                {{- with .Site.Params.images -}}
+                <enclosure url="{{ index . 0 | absURL }}" type="image/jpg"></enclosure>
+                {{- end -}}
+                {{- end -}}
+                {{- end }}
                 <description>
                     {{ printf "<![CDATA[" | safeHTML }}
-                        {{ .Summary | html }}
+                        {{- $content := replaceRE "a href=\"(#.*?)\"" (printf "%s%s%s" "a href=\"" .Permalink "$1\"") .Content -}}
+                        {{- $content = replaceRE "img src=\"(.*?)\"" (printf "%s%s%s" "img src=\"" .Permalink "$1\"") $content -}}
+                        {{ $content | html }}
                         
                         <hr />
                         <p>Thank you for using RSS. I appreciate you</p>
                         <p><a href="mailto:harper&#64;modest.com">Email me</a></p>
                     {{ printf "]]>" | safeHTML }}
                 </description>
-                <content:encoded>
-                    {{ printf "<![CDATA[" | safeHTML }}
-                        {{ .Content | safeHTML }}
-                        
-                        {{- $images := union (.Resources.ByType "image") (.Resources.Match "**.{jpg,jpeg,png,gif,webp}") -}}
-                        {{- with $images }}
-                            {{- range . }}
-                                {{- $img := . }}
-                                {{- $alt := or .Title .Name }}
-                                {{- $caption := or .Params.caption "" }}
-                                <figure>
-                                    <img src="{{ .Permalink }}" 
-                                         alt="{{ $alt }}"
-                                         {{ with .Width }}width="{{ . }}"{{ end }}
-                                         {{ with .Height }}height="{{ . }}"{{ end }}
-                                         loading="lazy" />
-                                    {{ with $caption }}<figcaption>{{ . }}</figcaption>{{ end }}
-                                </figure>
-                            {{- end }}
-                        {{- end }}
-                        <hr />
-                        <p>Thank you for using RSS. I appreciate you</p>
-                        <p><a href="mailto:harper&#64;modest.com">Email me</a></p>
-                    {{ printf "]]>" | safeHTML }}
-                </content:encoded>
             </item>
         {{- end }}
     {{- end }}
