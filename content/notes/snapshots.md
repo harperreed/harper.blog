@@ -1,6 +1,6 @@
 ---
 title: "Snapshots"
-layout: "grid"
+layout: "notes-grid"
 url: "/notes/snapshots/"
 ---
 

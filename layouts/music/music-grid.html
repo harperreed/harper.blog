@@ -1,0 +1,42 @@
+{{ define "main" }}
+  {{ .Content }}
+  
+  <!-- Filter for music and group by year -->
+  {{ $music := where .Site.RegularPages "Type" "music" }}
+  {{ $musicByYear := $music.GroupByDate "2006" }}
+  
+  {{ range $musicByYear }}
+    <!-- Year section -->
+    <div class="year-section">
+      <h2 class="year-heading">{{ .Key }} ({{ len .Pages }} songs)</h2>
+      
+      <!-- Group by month within the year -->
+      {{ $musicByMonth := .Pages.GroupByDate "January" }}
+      {{ range $musicByMonth }}
+        <div class="month-section">
+          <h3 class="month-heading">{{ .Key }} ({{ len .Pages }} songs)</h3>
+          <div class="music-grid">
+            {{ range .Pages }}
+              <div class="music-grid-item">
+                {{ with .Params.album_image }}
+                  <img src="{{ . }}" class="album-bg" alt="">
+                {{ end }}
+
+                  <a href="{{ .RelPermalink }}" target="_blank" rel="noopener noreferrer" class="music-link">
+                    <div class="music-info">
+                      <h3 class="music-title">{{ .Title }}</h3>
+                      {{ with .Params.artist }}
+                        <p class="music-artist">by {{ . }}</p>
+                      {{ end }}
+                    </div>
+                  </a>
+               
+              </div>
+            {{ end }}
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  {{ end }}
+
+{{ end }}
