@@ -1,5 +1,5 @@
 ---
-title: "Song Grid "
+title: "Songs"
 layout: "music-grid"
 url: "/media/music/grid"
 nofeed: true
