@@ -61,15 +61,17 @@
 
 /* Individual grid item */
 .music-grid-item {
-  border: 1px solid #ddd;
+  border: 1px solid var(--color-primary);
   border-radius: 4px;
   padding: 15px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 6px var(--color-primary);
   transition: transform 0.2s, box-shadow 0.2s;
   background: #fff;
   position: relative;
   overflow: hidden;
   aspect-ratio: 1/1;
+  background: var(--color-dark);
+  background: radial-gradient(circle, var(--color-secondary) 0%, var(--color-dark) 90%);
 }
 
 .music-grid-item .album-bg {
@@ -84,7 +86,7 @@
 
 .music-grid-item:hover {
   transform: translateY(-5px);
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 6px 8px var(--color-primary);
 }
 
 /* Link styling */
