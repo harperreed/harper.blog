@@ -20,4 +20,4 @@ pagerSize = "6"
 
 [minify]
 disableXML = true
-minifyOutput = true
+# minifyOutput = true
