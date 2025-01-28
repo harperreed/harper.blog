@@ -1,8 +1,10 @@
 {{ define "main" }} {{ .Content }}
 <div class="masonry-columns">
     {{ range where .Site.RegularPages "Type" "notes" }} 
-    
+
     {{ $pageLink := .Permalink }}
+    {{ if ne .Params.exclude true }}
+
     {{ range .Resources.ByType "image" }}
     <div class="masonry-item">
         <a href="{{ $pageLink }}">
@@ -16,6 +18,7 @@
             />
         </a>
     </div>
+    {{ end }} 
     {{ end }} 
     
     {{ end }}

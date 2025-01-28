@@ -4,4 +4,4 @@ layout: "notes-grid"
 url: "/notes/snapshots/"
 ---
 
-Here are just the photos from my notes. A simple gallery of my snaps.
+A collection of snaps from my notes. View the [notes](/notes).

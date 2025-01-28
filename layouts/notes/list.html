@@ -4,6 +4,7 @@
     <p class="filter-notice">{{ i18n "filtering-for" }} "{{ .Title }}"</p>
     {{ end }}
     <div class="notes">
+        
         {{ $paginator := .Paginate .Pages (.Param "notes_pagination" | default
         2) }}
         <!-- {{ $paginator := .Paginate .Pages .Site.Params.notes_pagination }} -->
