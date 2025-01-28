@@ -1,5 +1,5 @@
 ---
-title: "Books Grid"
+title: "Books by the cover"
 layout: "books-grid"
 url: "/media/books/grid"
 nofeed: true
