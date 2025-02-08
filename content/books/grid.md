@@ -3,7 +3,7 @@ title: "Books by the cover"
 layout: "books-grid"
 url: "/media/books/grid"
 aliases:
- - "/media/books/grid2"
+ - "/media/books"
 nofeed: true
 ---
 
