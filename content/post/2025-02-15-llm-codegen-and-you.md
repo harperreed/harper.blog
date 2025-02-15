@@ -111,7 +111,7 @@ This entire process will take maybe **15 minutes**. It is pretty quick. Wild tbh
 
 There are so many options available for execution. The success really depends on how well step 2 went.
 
-I have used this workflow with [github workspace](https://githubnext.com/projects/copilot-workspace), [aider](https://aider.chat/), [claude engineer](https://github.com/Doriandarko/claude-engineer), [geppetto](https://chatgpt.com) (lol), [claude.ai](https://claude.ai), etc. It all works pretty well with all of the tools. It should work with any codegen tool.
+I have used this workflow with [github workspace](https://githubnext.com/projects/copilot-workspace), [aider](https://aider.chat/), [claude engineer](https://github.com/Doriandarko/claude-engineer), [geppetto](https://chatgpt.com) (lol), [claude.ai](https://claude.ai), etc. It works pretty well with all of the tools. I imagine it will work well with any codegen tool.
 
 I, however, prefer raw claude and aider:
 
