@@ -20,11 +20,9 @@ I have been building a lot of small products using LLMs. It has been fun, and us
 
 I talk to a lot of dev friends about this, and we all have a similar approach with various tweaks in either direction.
 
-Here is my workflow. It is built upon a lot of my own work, a lot of conversations with friends (thx Nikete, Kanno, and Erik), and following lots of best practices shared on the various terrible internet [bad](https://news.ycombinator.com/) [places](https://twitter.com).
+Here is my workflow. It is built upon a lot of my own work, a lot of conversations with friends (thx [Nikete](https://www.nikete.com/), [Kanno](https://nocruft.com/), and [Erik](https://thinks.lol/)), and following lots of best practices shared on the various terrible internet [bad](https://news.ycombinator.com/) [places](https://twitter.com).
 
-This is working well **NOW**, it will probably not work in 2 weeks. Lol.
-
-Here is my workflow! Enjoy.
+This is working well **NOW**, it will probably not work in 2 weeks, or it will work twice as good. ¯\\\_(ツ)\_/¯
 
 ## Let’s go
 
@@ -41,7 +39,7 @@ I will show you my process for both paths
 
 I find the following process works well for greenfield development. It is a robust on the planning and documentation side.
 
-{{< image src="/images/posts/greenfield.jpg" alt="Green field" caption="Technically there is a green field on the right. Leica Q, 5/14/2016" >}}
+{{< image src="/images/posts/greenfield.jpg" alt="Green field" caption="Technically, there is a green field on the right. Leica Q, 5/14/2016" >}}
 
 ### Step 1: Idea honing
 
@@ -165,13 +163,13 @@ I have built so so many things using this workflow: scripts, expo apps, rust cli
 
 If you have a small or large project that you are procrastinating on, I would recommend giving it a shot. You will be surprised how far you can get in a short amount of time.
 
-My hack todo list is empty cuz I built everything. I keep thinking of new things and knocking it out while watching a movie or something. For the first time in years, I am spending time with new programming languages and tools. This is pushing me to expand my programming perspective.
+My hack todo list is empty because I built everything. I keep thinking of new things and knocking them out while watching a movie or something. For the first time in years, I am spending time with new programming languages and tools. This is pushing me to expand my programming perspective.
 
 ## Non-greenfield: Iteration, incrementally
 
 Sometimes you don’t have greenfield, and instead need to iterate or do increment work on an established code base.
 
-{{< image src="/images/posts/brownfield.jpg" alt="a brown field" caption="This is not a green field. A random photo from of grandfather's somewhere in uganda in the 60s" >}}
+{{< image src="/images/posts/brownfield.jpg" alt="a brown field" caption="This is not a green field. A random photo from my grandfather's camera - somewhere in Uganda in the 60s" >}}
 
 For this I have a slightly different method. It is similar to above, but a bit less “planning based.” The planning is done per task, not for the entire project.
 
@@ -179,7 +177,7 @@ For this I have a slightly different method. It is similar to above, but a bit l
 
 I think everyone who is knee deep in AI dev has a different tool for this, but you need something to grab your source code and efficiently jam it into the LLM.
 
-I currently use a tool called `[repomix](https://github.com/yamadashy/repomix)`. I have a task set system wide in my `.mise.toml` that allows me to do various things with my code base ([mise rules](https://mise.jdx.dev/)).
+I currently use a tool called `[repomix](https://github.com/yamadashy/repomix)`. I have a task collection defined in my global `~/.config/mise/config.toml` that allows me to do various things with my code base ([mise rules](https://mise.jdx.dev/)).
 
 Here is the LLM task list:
 
@@ -194,6 +192,8 @@ LLM:generate_readme         Generate README.md from repository content stored in
 ```
 
 I generate an `output.txt` that has the context from my code base. If I am blowing through tokens, and it is too big - I will edit the generate command to ignore parts of the code base that are not germane to this task.
+
+> One thing really nice about `mise` is that the tasks can be redefined and overloaded in the working directory's `.mise.toml`. I can use a different tool to dump/pack the code, and as long as it generates an `output.txt` I can use my LLM tasks. This is helpful when various codebases differ so much. I regularly override the `repomix` step to include broader ignore patterns, or just use a more effective tool to do the packing.
 
 Once the output.txt is generated, I pass it to the [LLM](https://github.com/simonw/LLM) command to do various transformations and then save those as a markdown file.
 
@@ -285,17 +285,19 @@ I have changed how I work enough to start incorporating some practice that will 
 
 - I start the “brainstorming” process for another project
 - I listen to records
-- I play cookie clicker
+- I play [cookie clicker](https://orteil.dashnet.org/cookieclicker/)
 - I talk shit to friends
 
 It is pretty awesome. Hack Hack Hack. I can't think of another time I have been this productive in code.
 
 ## Haterade ╭∩╮( •̀\_•́ )╭∩╮
 
-A lot of my friends are like "fuck LLMs. They are terrible at everything." I don't mind this pov. I don't share it, but I think it is important to be skeptical. There are an awful lot of reasons to hate AI. My main fear is about power consumption and the environmental impact. But.. the code must flow. Right... sigh.
+A lot of my friends are like "fuck LLMs. They are terrible at everything." I don't mind this POV. I don't share it, but I think it is important to be skeptical. There are an awful lot of reasons to hate AI. My main fear is about power consumption and the environmental impact. But... the code must flow. Right... sigh.
 
 If you are open to learning more, but don't want to dig in and become a cyborg programmer - my recommendation is not to change your opinion, but to read Ethan Mollick's book about LLMs and how they can be used: [**Co-Intelligence: Living and Working with AI.**](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/)
 
 It does a good job of explaining a lot of the benefits without being a tech anarcho capitalist bro type tome. I found it very helpful, and have had a lot of good and nuanced conversations with friends who have read it. Highly recommended.
 
 If you are skeptical, but a bit curious - feel free to hmu and let's talk through all this madness. I can show you how we use LLMs, and maybe we could build something together.
+
+_thanks to [Derek](https://derek.broox.com), [Kanno](https://nocruft.com/), and [Erik](https://thinks.lol/) for taking a look at this and suggesting edits. I appreciate it._
