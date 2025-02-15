@@ -1,5 +1,5 @@
 ---
-date: 2025-02-14 20:59:59-05:00
+date: 2025-02-15 20:59:59-05:00
 title: My LLM codegen workflow atm.
 description: A detailed walkthrough of my current workflow for using LLms to build software, from brainstorming through planning and execution.
 draft: true
