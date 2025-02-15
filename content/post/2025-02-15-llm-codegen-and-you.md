@@ -14,13 +14,13 @@ tags:
 
 _tl:dr; Brainstorm spec, then plan a plan, then execute using LLM codegen. Discrete loops. Then magic. ✩₊˚.⋆☾⋆⁺₊✧_
 
-I have been building a lot of small products using LLMs. It has been fun, and useful. However, there are a lot of pitfalls that can waste so much time.
+I have been building so many small products using LLMs. It has been fun, and useful. However, there are pitfalls that can waste so much time.
 
 (p.s. if you are a AI hater - scroll to the end)
 
-I talk to a lot of dev friends about this, and we all have a similar approach with various tweaks in either direction.
+I talk to many dev friends about this, and we all have a similar approach with various tweaks in either direction.
 
-Here is my workflow. It is built upon a lot of my own work, a lot of conversations with friends (thx [Nikete](https://www.nikete.com/), [Kanno](https://nocruft.com/), and [Erik](https://thinks.lol/)), and following lots of best practices shared on the various terrible internet [bad](https://news.ycombinator.com/) [places](https://twitter.com).
+Here is my workflow. It is built upon my own work, conversations with friends (thx [Nikete](https://www.nikete.com/), [Kanno](https://nocruft.com/), and [Erik](https://thinks.lol/)), and following lots of best practices shared on the various terrible internet [bad](https://news.ycombinator.com/) [places](https://twitter.com).
 
 This is working well **NOW**, it will probably not work in 2 weeks, or it will work twice as good. ¯\\\_(ツ)\_/¯
 
@@ -117,7 +117,7 @@ I, however, prefer raw claude and aider:
 
 ### Claude
 
-I either pair program with [claude.ai](https://claude.ai) and just drop each prompt in iteratively. I find that works pretty well. There is a lot of back and forth, but it works.
+I either pair program with [claude.ai](https://claude.ai) and just drop each prompt in iteratively. I find that works pretty well. The back and forth can be annoying, but it largely works.
 
 I am in charge of the initial boilerplate code, and making sure tooling is set up correctly. This allows for some freedom and choice.
 
@@ -136,7 +136,7 @@ The workflow is like this:
 
 ### Aider
 
-[Aider](https://aider.chat/) is a lot of fun. I find that it slots in well to the output of step 2. I can get really far with very little work.
+[Aider](https://aider.chat/) is fun and weird to use. I find that it slots in well to the output of step 2. I can get really far with very little work.
 
 The workflow is essentially the same as above but instead of pasting into claude, I am pasting the prompts into aider.
 
@@ -279,7 +279,7 @@ GET TO WORK!
 
 ## ⴵ Time ⴵ
 
-All this codegen has accelerated the amount of code that I as a single person am able to generate. However, there is a weird side effect. There is a lot of “down time” while you are waiting for the LLM to finish or whatever.
+All this codegen has accelerated the amount of code that I as a single person am able to generate. However, there is a weird side effect. I find myself having a huge amount of “down time” while waiting for the LLM to finish burning it's tokens.
 
 {{< image src="/images/posts/apple-print-shop-printing.png" alt="Printing" caption="I remember this like it was yesterday" >}}
 
@@ -298,7 +298,7 @@ A lot of my friends are like "fuck LLMs. They are terrible at everything." I don
 
 If you are open to learning more, but don't want to dig in and become a cyborg programmer - my recommendation is not to change your opinion, but to read Ethan Mollick's book about LLMs and how they can be used: [**Co-Intelligence: Living and Working with AI.**](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/)
 
-It does a good job of explaining a lot of the benefits without being a tech anarcho capitalist bro type tome. I found it very helpful, and have had a lot of good and nuanced conversations with friends who have read it. Highly recommended.
+It does a good job of explaining the benefits without being a tech anarcho capitalist bro type tome. I found it very helpful, and have had so many good and nuanced conversations with friends who have read it. Highly recommended. 
 
 If you are skeptical, but a bit curious - feel free to hmu and let's talk through all this madness. I can show you how we use LLMs, and maybe we could build something together.
 
