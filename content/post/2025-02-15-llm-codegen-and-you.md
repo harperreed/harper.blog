@@ -14,7 +14,7 @@ tags:
 
 _tl:dr; Brainstorm spec, then plan a plan, then execute using LLM codegen. Discrete loops. Then magic. ✩₊˚.⋆☾⋆⁺₊✧_
 
-I have been building so many small products using LLMs. It has been fun, and useful. However, there are pitfalls that can waste so much time. Awhile back a friend asked me how I was using LLMs to write software. I thought "oh boy. how much time do you have!" and thus this post.
+I have been building so many small products using LLMs. It has been fun, and useful. However, there are pitfalls that can waste so much time. A while back a friend asked me how I was using LLMs to write software. I thought "oh boy. how much time do you have!" and thus this post.
 
 (p.s. if you are an AI hater - scroll to the end)
 
@@ -37,7 +37,7 @@ I will show you my process for both paths
 
 ## Greenfield
 
-I find the following process works well for greenfield development. It is robust on the planning and documentation side, and allows you to execute easily in small steps.
+I find the following process works well for greenfield development. It provides a robust planning and documentation approach, and allows you to execute easily in small steps.
 
 {{< image src="/images/posts/greenfield.jpg" alt="Green field" caption="Technically, there is a green field on the right. Leica Q, 5/14/2016" >}}
 
@@ -82,7 +82,7 @@ Make sure and separate each prompt section. Use markdown. Each prompt should be 
 (This is the non-tdd prompt)
 
 ```prompt
-Draft a detailed, step-by-step blueprint for building this project. Then, once you have a solid plan, break it down into small, iterative chunks that build on each other. Look at these chunks and then go another round to break it into small steps. review the results and make sure that the steps are small enough to be implemented safely, but big enough to move the project forward. Iterate until you feel that thr steps are right sized for this project.
+Draft a detailed, step-by-step blueprint for building this project. Then, once you have a solid plan, break it down into small, iterative chunks that build on each other. Look at these chunks and then go another round to break it into small steps. review the results and make sure that the steps are small enough to be implemented safely, but big enough to move the project forward. Iterate until you feel that the steps are right sized for this project.
 
 From here you should have the foundation to provide a series of prompts for a code-generation LLM that will implement each step. Prioritize best practices, and incremental progress, ensuring no big jumps in complexity at any stage. Make sure that each prompt builds on the previous prompts, and ends with wiring things together. There should be no hanging or orphaned code that isn't integrated into a previous step.
 
@@ -113,7 +113,7 @@ This entire process will take maybe **15 minutes**. It is pretty quick. Wild tbh
 
 There are so many options available for execution. The success really depends on how well step 2 went.
 
-I have used this workflow with [github workspace](https://githubnext.com/projects/copilot-workspace), [aider](https://aider.chat/), [cursor](https://www.cursor.com/), [claude engineer](https://github.com/Doriandarko/claude-engineer), [sweep.dev](https://sweep.dev/), [chatgpt](https://chatgpt.com), [claude.ai](https://claude.ai), etc. It works pretty well with all of the tools I have tried, and I imagine it will work well with any codegen tool.
+I have used this workflow with [github workspace](https://githubnext.com/projects/copilot-workspace), [aider](https://aider.chat/), [cursor](https://www.cursor.com/), [claude engineer](https://github.com/Doriandarko/claude-engineer), [sweep.dev](https://sweep.dev/), [chatgpt](https://chatgpt.com), [claude.ai](https://claude.ai), etc. It works pretty well with all the tools I have tried, and I imagine it will work well with any codegen tool.
 
 I, however, prefer **raw** claude and aider:
 
@@ -165,7 +165,7 @@ I have built so so many things using this workflow: scripts, expo apps, rust cli
 
 If you have a small or large project that you are procrastinating on, I would recommend giving it a shot. You will be surprised how far you can get in a short amount of time.
 
-My hack todo list is empty because I built everything. I keep thinking of new things and knocking them out while watching a movie or something. For the first time in years, I am spending time with new programming languages and tools. This is pushing me to expand my programming perspective.
+My hack to-do list is empty because I built everything. I keep thinking of new things and knocking them out while watching a movie or something. For the first time in years, I am spending time with new programming languages and tools. This is pushing me to expand my programming perspective.
 
 ## Non-greenfield: Iteration, incrementally
 
@@ -183,7 +183,7 @@ I currently use a tool called [repomix](https://github.com/yamadashy/repomix). I
 
 Here is the LLM task list:
 
-```
+```shell
 LLM:clean_bundles           Generate LLM bundle output file using repomix
 LLM:copy_buffer_bundle      Copy generated LLM bundle from output.txt to system clipboard for external use
 LLM:generate_code_review    Generate code review output from repository content stored in output.txt using LLM generation
@@ -235,7 +235,7 @@ These quick hacks work super well to dig into places where we can make a project
 
 Here are some of my prompts that I use to dig into established code bases:
 
-#### Code review:
+#### Code review
 
 ```prompt
 You are a senior developer. Your job is to do a thorough code review of this code. You should write it up and output markdown. Include line numbers, and contextual info. Your code review will be passed to another teammate, so be thorough. Think deeply  before writing the code review. Review every part, and don't hallucinate.
@@ -263,9 +263,9 @@ When I describe this process to people I say “you have to aggressively keep tr
 
 For some reason I say "over my skies" a lot when talking about LLMs. I don't know why. It resonates with me. Maybe it's because it is beautiful smooth powder skiing, and then all of a sudden you are like "WHAT THE FUCK IS GOING ON!," and are completely lost and suddenly fall off a cliff.
 
-I find that using a **planning step** (ala the Greenfield process above) can help keep things under control. At least you will have a doc you can double check against. I also do believe that testing is helpful - especially if you are doing wild style aider coding. Helps keep things good, and tight.
+I find that using a **planning step** (ala the Greenfield process above) can help keep things under control. At least you will have a doc you can double-check against. I also do believe that testing is helpful - especially if you are doing wild style aider coding. Helps keep things good, and tight.
 
-Regardless, I still do find myself **over my skies** quite a bit. Sometimes a quick break or short walk will help. In this regard it is a normal problem solving process, but accelerated to a break neck speed.
+Regardless, I still do find myself **over my skies** quite a bit. Sometimes a quick break or short walk will help. In this regard it is a normal problem-solving process, but accelerated to a breakneck speed.
 
 > We will often ask the LLM to include ridiculous things in our not very ridiculous code. For instance, we asked it to create a lore file and then reference the lore in the user interface. This is for python cli tools. Suddenly there is lore, glitchy interfaces, etc. All to manage your cloud functions, your todo list or whatever. The sky is the limit.
 
@@ -281,7 +281,7 @@ GET TO WORK!
 
 ## ⴵ Time ⴵ
 
-All this codegen has accelerated the amount of code that I as a single person am able to generate. However, there is a weird side effect. I find myself having a huge amount of “downtime” while waiting for the LLM to finish burning it's tokens.
+All this codegen has accelerated the amount of code that I as a single person am able to generate. However, there is a weird side effect. I find myself having a huge amount of “downtime” while waiting for the LLM to finish burning its tokens.
 
 {{< image src="/images/posts/apple-print-shop-printing.png" alt="Printing" caption="I remember this like it was yesterday" >}}
 
@@ -300,8 +300,8 @@ A lot of my friends are like "fuck LLMs. They are terrible at everything." I don
 
 If you are open to learning more, but don't want to dig in and become a cyborg programmer - my recommendation is not to change your opinion, but to read Ethan Mollick's book about LLMs and how they can be used: [**Co-Intelligence: Living and Working with AI.**](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/)
 
-It does a good job of explaining the benefits without being a tech anarcho capitalist bro type tome. I found it very helpful, and have had so many good and nuanced conversations with friends who have read it. Highly recommended.
+It does a good job of explaining the benefits without being a tech anarcho-capitalist bro type tome. I found it very helpful, and have had so many good and nuanced conversations with friends who have read it. Highly recommended.
 
-If you are skeptical, but a bit curious - feel free to hmu and let's talk through all this madness. I can show you how we use LLMs, and maybe we could build something together.
+If you are skeptical, but a bit curious - feel free to hit me up and let's talk through all this madness. I can show you how we use LLMs, and maybe we could build something together.
 
 _thanks to [Derek](https://derek.broox.com), [Kanno](https://nocruft.com/), [Obra](https://fsck.com), and [Erik](https://thinks.lol/) for taking a look at this post and suggesting edits. I appreciate it._
