@@ -103,7 +103,7 @@ You can save it as `todo.md` in the repo.
 
 Your codegen tool should be able to check off the `todo.md` while processing. This is good for keeping state across sessions.
 
----
+#### Yay. Plan!
 
 Now you have a robust plan and documentation that will help you execute and build your project.
 
