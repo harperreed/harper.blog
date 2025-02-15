@@ -63,7 +63,7 @@ This will output a pretty solid and straightforward spec that can be handed off 
 
 ### Step 2: Planning
 
-Take the spec and pass it a proper reasoning model (`o1*`, `o3*`, `r1`):
+Take the spec and pass it to a proper reasoning model (`o1*`, `o3*`, `r1`):
 
 (This is the TDD prompt)
 
