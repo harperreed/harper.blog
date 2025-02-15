@@ -195,13 +195,15 @@ I generate an `output.txt` that has the context from my code base. If I am blowi
 
 Once the output.txt is generated, I pass it to the [llm](https://github.com/simonw/llm) command to do various transformations and then save those as a markdown file.
 
-For instance, if I need a quick review of test coverage I would do the following:
+Ultimately, the mise task is running this: `cat output.txt | llm -t readme-gen > README.md` or `cat output.txt | llm -m claude-3.5-sonnet -t code-review-gen > code-review.md`. This isn't super complicated. the `llm` command is doing the heavy lifting (supporting different models, saving keys, and using prompt templates).
+
+For example, if I need a quick review and fix of test coverage I would do the following:
 
 #### Claude
 
 - go to the directory where the code lives
 - run `mise run llm:generate_missing_tests`
-- look at the generated markdown file
+- look at the generated markdown file (`issue-prompts.md`)
 - grab the full context for the code: `mise run llm:copy_buffer_bundle`
 - paste that into claude along with the first missing test “issue”
 - copy the generated code from claude into my ide.
@@ -214,7 +216,7 @@ For instance, if I need a quick review of test coverage I would do the following
 - go to the directory where the code lives
 - run aider (always make sure you are on a new branch for aider work)
 - run `mise run llm:generate_missing_tests`
-- look at the generated markdown file
+- look at the generated markdown file (`issue-prompts.md`)
 - paste the first missing test “issue” into aider
 - ...
 - run tests
