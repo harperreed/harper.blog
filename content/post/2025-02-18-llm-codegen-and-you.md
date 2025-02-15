@@ -26,7 +26,7 @@ This is working well **NOW**, it will probably not work in 2 weeks, or it will w
 
 ## Let’s go
 
-{{< image src="images/posts/llm-coding-robot.webp" alt="Juggalo Robot" caption="I always find these AI-generated images to be suspect, you gotta lean in! Say hi to my juggalo coding robot angel!" >}}
+{{< image src="images/posts/llm-coding-robot.webp" alt="Juggalo Robot" caption="I always find these AI-generated images to be suspect. Say hi to my juggalo coding robot angel!" >}}
 
 There are many paths for doing dev, but my case is typically one of two:
 
