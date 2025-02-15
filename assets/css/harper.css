@@ -109,27 +109,14 @@ img {
     max-width: 100%;
 }
 
-code {
-    padding: 2px 5px;
-    color: var(--color-code-fg);
-    background-color: var(--color-code-bg);
-}
-
-pre code {
-    display: block;
-    padding: var(--margin);
-    white-space: pre-wrap;
-    font-size: var(--font-size-base);
-    overflow-x: auto;
-    text-wrap: nowrap;
-}
-
 blockquote {
     margin-left: var(--margin);
-    border-left: 1px solid var(--color-tertiary);
+    border-left: 2px dashed var(--color-dark);
     color: var(--color-dark);
-    padding-left: var(--spacing);
+
+    padding: var(--margin);
     font-style: italic;
+    background-color: var(--color-tertiary);
 }
 
 footer {
@@ -305,4 +292,3 @@ ul.now-posts li a:visited {
 .pagination .page-number {
     color: var(--color-primary);
 }
-
