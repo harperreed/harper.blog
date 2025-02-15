@@ -14,6 +14,7 @@ pre code {
     text-wrap: nowrap;
 }
 
-code[data-lang="prompt"] {
+code[data-lang="prompt"],
+code[data-lang="text"] {
     text-wrap: wrap;
 }
