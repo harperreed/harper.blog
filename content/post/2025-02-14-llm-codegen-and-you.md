@@ -258,7 +258,7 @@ I find that using a planning step (ala the Greenfield process above) can help ke
 
 Regardless, I still do find myself **over my skies** quite a bit. Sometimes a quick break or short walk will help. In this regard it is a normal problem solving process, but accelerated to a break neck speed.
 
-> One fun things we have been doing is to ask the LLM to do ridiculous things. For instance, we asked it to create a lore file and then reference the lore in the user interface. This is for python cli tools. Suddenly there is lore, glitchy interfaces, etc. All to manage your cloud functions, your todo list or whatever. The sky is the limit.
+> We will often as the LLM to include ridiculous things in our not very ridiculous code. For instance, we asked it to create a lore file and then reference the lore in the user interface. This is for python cli tools. Suddenly there is lore, glitchy interfaces, etc. All to manage your cloud functions, your todo list or whatever. The sky is the limit.
 
 ## I am so lonely (｡•́︿•̀｡)
 
