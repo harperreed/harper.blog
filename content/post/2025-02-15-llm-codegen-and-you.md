@@ -117,9 +117,9 @@ I, however, prefer raw claude and aider:
 
 ### Claude
 
-I either pair program with [claude.ai](https://claude.ai) and just drop each prompt in iteratively. I find that works pretty well. The back and forth can be annoying, but it largely works.
+I essentially pair program with [claude.ai](https://claude.ai) and just drop each prompt in iteratively. I find that works pretty well. The back and forth can be annoying, but it largely works.
 
-I am in charge of the initial boilerplate code, and making sure tooling is set up correctly. This allows for some freedom and choice.
+I am in charge of the initial boilerplate code, and making sure tooling is set up correctly. This allows for some freedom, choice, and guidance in the beginning. Claude has a tendency to just output react code - and having a solid foundation with the language, style, and tooling of your choice will help quite a bit.
 
 I will then use a tool like [repomix](https://github.com/yamadashy/repomix) to iterate when things get stuck (more about that later).
 
