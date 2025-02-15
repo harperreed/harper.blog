@@ -20,7 +20,7 @@ I have been building so many small products using LLMs. It has been fun, and use
 
 I talk to many dev friends about this, and we all have a similar approach with various tweaks in either direction.
 
-Here is my workflow. It is built upon my own work, conversations with friends (thx [Nikete](https://www.nikete.com/), [Kanno](https://nocruft.com/), and [Erik](https://thinks.lol/)), and following lots of best practices shared on the various terrible internet [bad](https://news.ycombinator.com/) [places](https://twitter.com).
+Here is my workflow. It is built upon my own work, conversations with friends (thx [Nikete](https://www.nikete.com/), [Kanno](https://nocruft.com/), [Obra](https://fsck.com/), [Kris](https://github.com/KristopherKubicki), and [Erik](https://thinks.lol/)), and following lots of best practices shared on the various terrible internet [bad](https://news.ycombinator.com/) [places](https://twitter.com).
 
 This is working well **NOW**, it will probably not work in 2 weeks, or it will work twice as good. ¯\\\_(ツ)\_/¯
 
@@ -111,9 +111,9 @@ This entire process will take maybe **15 minutes**. It is pretty quick. Wild tbh
 
 There are so many options available for execution. The success really depends on how well step 2 went.
 
-I have used this workflow with [github workspace](https://githubnext.com/projects/copilot-workspace), [aider](https://aider.chat/), [claude engineer](https://github.com/Doriandarko/claude-engineer), [geppetto](https://chatgpt.com) (lol), [claude.ai](https://claude.ai), etc. It works pretty well with all of the tools. I imagine it will work well with any codegen tool.
+I have used this workflow with [github workspace](https://githubnext.com/projects/copilot-workspace), [aider](https://aider.chat/), [claude engineer](https://github.com/Doriandarko/claude-engineer), [sweep.dev](https://sweep.dev/), [chatgpt](https://chatgpt.com), [claude.ai](https://claude.ai), etc. It works pretty well with all of the tools I have tried, and I imagine it will work well with any codegen tool.
 
-I, however, prefer raw claude and aider:
+I, however, prefer **raw** claude and aider:
 
 ### Claude
 
