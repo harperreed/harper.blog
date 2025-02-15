@@ -16,7 +16,7 @@ _tl:dr; Brainstorm spec, then plan a plan, then execute using LLM codegen. Discr
 
 I have been building so many small products using LLMs. It has been fun, and useful. However, there are pitfalls that can waste so much time. Awhile back a friend asked me how I was using LLMs to write software. I thought "oh boy. how much time do you have!" and thus this post.
 
-(p.s. if you are a AI hater - scroll to the end)
+(p.s. if you are an AI hater - scroll to the end)
 
 I talk to many dev friends about this, and we all have a similar approach with various tweaks in either direction.
 
@@ -177,7 +177,7 @@ For this I have a slightly different method. It is similar to above, but a bit l
 
 ### Get context
 
-I think everyone who is knee deep in AI dev has a different tool for this, but you need something to grab your source code and efficiently jam it into the LLM.
+I think everyone who is knee-deep in AI dev has a different tool for this, but you need something to grab your source code and efficiently jam it into the LLM.
 
 I currently use a tool called [repomix](https://github.com/yamadashy/repomix). I have a task collection defined in my global `~/.config/mise/config.toml` that allows me to do various things with my code base ([mise rules](https://mise.jdx.dev/)).
 
@@ -267,7 +267,7 @@ I find that using a **planning step** (ala the Greenfield process above) can hel
 
 Regardless, I still do find myself **over my skies** quite a bit. Sometimes a quick break or short walk will help. In this regard it is a normal problem solving process, but accelerated to a break neck speed.
 
-> We will often as the LLM to include ridiculous things in our not very ridiculous code. For instance, we asked it to create a lore file and then reference the lore in the user interface. This is for python cli tools. Suddenly there is lore, glitchy interfaces, etc. All to manage your cloud functions, your todo list or whatever. The sky is the limit.
+> We will often ask the LLM to include ridiculous things in our not very ridiculous code. For instance, we asked it to create a lore file and then reference the lore in the user interface. This is for python cli tools. Suddenly there is lore, glitchy interfaces, etc. All to manage your cloud functions, your todo list or whatever. The sky is the limit.
 
 ## I am so lonely (｡•́︿•̀｡)
 
@@ -281,7 +281,7 @@ GET TO WORK!
 
 ## ⴵ Time ⴵ
 
-All this codegen has accelerated the amount of code that I as a single person am able to generate. However, there is a weird side effect. I find myself having a huge amount of “down time” while waiting for the LLM to finish burning it's tokens.
+All this codegen has accelerated the amount of code that I as a single person am able to generate. However, there is a weird side effect. I find myself having a huge amount of “downtime” while waiting for the LLM to finish burning it's tokens.
 
 {{< image src="/images/posts/apple-print-shop-printing.png" alt="Printing" caption="I remember this like it was yesterday" >}}
 
