@@ -20,13 +20,13 @@ I have been building so many small products using LLMs. It has been fun, and use
 
 I talk to many dev friends about this, and we all have a similar approach with various tweaks in either direction.
 
-Here is my workflow. It is built upon my own work, conversations with friends (thx [Nikete](https://www.nikete.com/), [Kanno](https://nocruft.com/), [Obra](https://fsck.com/), [Kris](https://github.com/KristopherKubicki), and [Erik](https://thinks.lol/)), and following lots of best practices shared on the various terrible internet [bad](https://news.ycombinator.com/) [places](https://twitter.com).
+Here is my workflow. It is built upon my own work, conversations with friends (thx [Nikete](https://www.nikete.com/), [Kanno](https://nocruft.com/), [Obra](https://fsck.com/), [Kris](https://github.com/KristopherKubicki), and [Erik](https://thinks.lol/)), and following many best practices shared on the various terrible internet [bad](https://news.ycombinator.com/) [places](https://twitter.com).
 
-This is working well **NOW**, it will probably not work in 2 weeks, or it will work twice as good. ¯\\\_(ツ)\_/¯
+This is working well **NOW**, it will probably not work in 2 weeks, or it will work twice as well. ¯\\\_(ツ)\_/¯
 
 ## Let’s go
 
-{{< image src="images/posts/llm-coding-robot.webp" alt="Juggalo Robot" caption="I always find these AI generated images to be suspect. so lean in! Here is my juggalo coding robot angel!" >}}
+{{< image src="images/posts/llm-coding-robot.webp" alt="Juggalo Robot" caption="I always find these AI-generated images to be suspect, you gotta lean in! Say hi to my juggalo coding robot angel!" >}}
 
 There are many paths for doing dev, but my case is typically one of two:
 
@@ -37,7 +37,7 @@ I will show you my process for both paths
 
 ## Greenfield
 
-I find the following process works well for greenfield development. It is a robust on the planning and documentation side.
+I find the following process works well for greenfield development. It is robust on the planning and documentation side, and allows you to execute easily in small steps.
 
 {{< image src="/images/posts/greenfield.jpg" alt="Green field" caption="Technically, there is a green field on the right. Leica Q, 5/14/2016" >}}
 
@@ -61,6 +61,8 @@ Now that we’ve wrapped up the brainstorming process, can you compile our findi
 
 This will output a pretty solid and straightforward spec that can be handed off to the planning step. I like to save it as `spec.md` in the repo.
 
+> You can use this spec for a number of things. We are doing codegen here, but I have used it to bolster ideas by asking a reasoning model to poke holes in the idea (must go deeper!), to generate a white paper, or to generate a business model. You can pop it into deep research and get a 10k word supporting document in return.
+
 ### Step 2: Planning
 
 Take the spec and pass it to a proper reasoning model (`o1*`, `o3*`, `r1`):
@@ -68,7 +70,7 @@ Take the spec and pass it to a proper reasoning model (`o1*`, `o3*`, `r1`):
 (This is the TDD prompt)
 
 ```prompt
-Draft a detailed, step-by-step blueprint for building this project. Then, once you have a solid plan, break it down into small, iterative chunks that build on each other. Look at those chucks and then go another round to break it into small steps. Review the results and make sure that the steps are small enough to be implemented safely with strong testing, but big enough to move the project forward. Iterate until you feel that the steps are right sized for this project.
+Draft a detailed, step-by-step blueprint for building this project. Then, once you have a solid plan, break it down into small, iterative chunks that build on each other. Look at these chunks and then go another round to break it into small steps. Review the results and make sure that the steps are small enough to be implemented safely with strong testing, but big enough to move the project forward. Iterate until you feel that the steps are right sized for this project.
 
 From here you should have the foundation to provide a series of prompts for a code-generation LLM that will implement each step in a test-driven manner. Prioritize best practices, incremental progress, and early testing, ensuring no big jumps in complexity at any stage. Make sure that each prompt builds on the previous prompts, and ends with wiring things together. There should be no hanging or orphaned code that isn't integrated into a previous step.
 
@@ -80,7 +82,7 @@ Make sure and separate each prompt section. Use markdown. Each prompt should be 
 (This is the non-tdd prompt)
 
 ```prompt
-Draft a detailed, step-by-step blueprint for building this project. Then, once you have a solid plan, break it down into small, iterative chunks that build on each other. Look at those chucks and then go another round to break it into small steps. review the results and make sure that the steps are small enough to be implemented safely, but big enough to move the project forward. Iterate until you feel that thr steps are right sized for this project.
+Draft a detailed, step-by-step blueprint for building this project. Then, once you have a solid plan, break it down into small, iterative chunks that build on each other. Look at these chunks and then go another round to break it into small steps. review the results and make sure that the steps are small enough to be implemented safely, but big enough to move the project forward. Iterate until you feel that thr steps are right sized for this project.
 
 From here you should have the foundation to provide a series of prompts for a code-generation LLM that will implement each step. Prioritize best practices, and incremental progress, ensuring no big jumps in complexity at any stage. Make sure that each prompt builds on the previous prompts, and ends with wiring things together. There should be no hanging or orphaned code that isn't integrated into a previous step.
 
@@ -177,7 +179,7 @@ For this I have a slightly different method. It is similar to above, but a bit l
 
 I think everyone who is knee deep in AI dev has a different tool for this, but you need something to grab your source code and efficiently jam it into the LLM.
 
-I currently use a tool called `[repomix](https://github.com/yamadashy/repomix)`. I have a task collection defined in my global `~/.config/mise/config.toml` that allows me to do various things with my code base ([mise rules](https://mise.jdx.dev/)).
+I currently use a tool called [repomix](https://github.com/yamadashy/repomix). I have a task collection defined in my global `~/.config/mise/config.toml` that allows me to do various things with my code base ([mise rules](https://mise.jdx.dev/)).
 
 Here is the LLM task list:
 
@@ -225,7 +227,7 @@ For example, if I need a quick review and fix of test coverage I would do the fo
 - run tests
 - rinse repeat ✩₊˚.⋆☾⋆⁺₊✧
 
-This is a pretty good way to incrementally improve a code base. It has been super helpful to do small amounts of work in a big code base. You can pretty much do any sized tasks with this method.
+This is a pretty good way to incrementally improve a code base. It has been super helpful to do small amounts of work in a big code base. I have found that I can do any sized tasks with this method.
 
 ### Prompt magic
 
@@ -253,13 +255,13 @@ You are a senior developer. Your job is to review this code, and write out the t
 You are a senior developer. Your job is to review this code, and write out a list of missing test cases, and code tests that should exist. You should be specific, and be very good. Do Not Hallucinate. Think quietly to yourself, then act - write the issues. The issues  will be given to a developer to executed on, so they should be in a format that is compatible with github issues
 ```
 
-These prompts are pretty old and busted. They need some refactoring. If you have ideas to make them better lmk.
+These prompts are pretty _old and busted_ ("boomer prompts" if I may). They need some refactoring. If you have ideas to make them better lmk.
 
 ## Skiing ᨒ↟ 𖠰ᨒ↟ 𖠰
 
-When I describe this process to people I say “you gotta keep track of what’s going on cuz you can get ahead of yourself quite easily.”
+When I describe this process to people I say “you have to aggressively keep track of what’s going on because you can easily get ahead of yourself.”
 
-For some reason I say "over my skies" a lot when talking about LLMs. I don't know why. It resonates with me. Maybe it's because it is beautiful smooth powder skiing, and then all of a sudden you are like "WHAT THE FUCK IS GOING ON!" and are completely lost and suddenly fall off a cliff.
+For some reason I say "over my skies" a lot when talking about LLMs. I don't know why. It resonates with me. Maybe it's because it is beautiful smooth powder skiing, and then all of a sudden you are like "WHAT THE FUCK IS GOING ON!," and are completely lost and suddenly fall off a cliff.
 
 I find that using a **planning step** (ala the Greenfield process above) can help keep things under control. At least you will have a doc you can double check against. I also do believe that testing is helpful - especially if you are doing wild style aider coding. Helps keep things good, and tight.
 
@@ -290,7 +292,7 @@ I have changed how I work enough to start incorporating some practice that will 
 - I play [cookie clicker](https://orteil.dashnet.org/cookieclicker/)
 - I talk with friends and robots
 
-It is pretty awesome. Hack Hack Hack. I can't think of another time I have been this productive in code.
+It is awesome to be able to hack like this. Hack Hack Hack. I can't think of another time I have been this productive in code.
 
 ## Haterade ╭∩╮( •̀\_•́ )╭∩╮
 
