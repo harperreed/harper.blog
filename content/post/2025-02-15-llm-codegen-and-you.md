@@ -288,7 +288,7 @@ I have changed how I work enough to start incorporating some practice that will 
 - I start the “brainstorming” process for another project
 - I listen to records
 - I play [cookie clicker](https://orteil.dashnet.org/cookieclicker/)
-- I talk shit to friends
+- I talk with friends and robots
 
 It is pretty awesome. Hack Hack Hack. I can't think of another time I have been this productive in code.
 
@@ -298,7 +298,7 @@ A lot of my friends are like "fuck LLMs. They are terrible at everything." I don
 
 If you are open to learning more, but don't want to dig in and become a cyborg programmer - my recommendation is not to change your opinion, but to read Ethan Mollick's book about LLMs and how they can be used: [**Co-Intelligence: Living and Working with AI.**](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/)
 
-It does a good job of explaining the benefits without being a tech anarcho capitalist bro type tome. I found it very helpful, and have had so many good and nuanced conversations with friends who have read it. Highly recommended. 
+It does a good job of explaining the benefits without being a tech anarcho capitalist bro type tome. I found it very helpful, and have had so many good and nuanced conversations with friends who have read it. Highly recommended.
 
 If you are skeptical, but a bit curious - feel free to hmu and let's talk through all this madness. I can show you how we use LLMs, and maybe we could build something together.
 
