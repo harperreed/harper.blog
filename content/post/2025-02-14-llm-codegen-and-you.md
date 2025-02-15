@@ -257,9 +257,11 @@ These prompts are pretty old and busted. They need some refactoring. If you have
 
 ## Skiing ᨒ↟ 𖠰ᨒ↟ 𖠰
 
-When I describe this process to people I say “you gotta keep track of what’s going on cuz you can get ahead of yourself quite easily.” For some reasons I say "over my skies" a lot when talking about LLMs. I don't know why. It resonates with me. Maybes its cuz it is smooth sailing and then all of a sudden you are like "WHAT THE FUCK IS GOING ON!" and are completely lost.
+When I describe this process to people I say “you gotta keep track of what’s going on cuz you can get ahead of yourself quite easily.”
 
-I find that using a planning step (ala the Greenfield process above) can help keep things under control. At least you will have a doc you can double check against. I also do believe that testing is helpful - especially if you are doing wild style aider coding. Helps keep things good, and tight.
+For some reason I say "over my skies" a lot when talking about LLMs. I don't know why. It resonates with me. Maybe it's because it is beautiful smooth powder skiing, and then all of a sudden you are like "WHAT THE FUCK IS GOING ON!" and are completely lost and suddenly fall off a cliff.
+
+I find that using a **planning step** (ala the Greenfield process above) can help keep things under control. At least you will have a doc you can double check against. I also do believe that testing is helpful - especially if you are doing wild style aider coding. Helps keep things good, and tight.
 
 Regardless, I still do find myself **over my skies** quite a bit. Sometimes a quick break or short walk will help. In this regard it is a normal problem solving process, but accelerated to a break neck speed.
 
