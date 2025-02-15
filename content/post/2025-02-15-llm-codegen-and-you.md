@@ -302,4 +302,4 @@ It does a good job of explaining the benefits without being a tech anarcho capit
 
 If you are skeptical, but a bit curious - feel free to hmu and let's talk through all this madness. I can show you how we use LLMs, and maybe we could build something together.
 
-_thanks to [Derek](https://derek.broox.com), [Kanno](https://nocruft.com/), and [Erik](https://thinks.lol/) for taking a look at this and suggesting edits. I appreciate it._
+_thanks to [Derek](https://derek.broox.com), [Kanno](https://nocruft.com/), [Obra](https://fsck.com), and [Erik](https://thinks.lol/) for taking a look at this post and suggesting edits. I appreciate it._
