@@ -61,7 +61,7 @@ At the end of the brainstorm (it will come to a natural conclusion):
 Now that we’ve wrapped up the brainstorming process, can you compile our findings into a comprehensive, developer-ready specification? Include all relevant requirements, architecture choices, data handling details, error handling strategies, and a testing plan so a developer can immediately begin implementation.
 ```
 
-This will output a pretty solid and straightforward spec that can be handed off to a the planning step. I like to save it as `spec.md` in the repo.
+This will output a pretty solid and straightforward spec that can be handed off to the planning step. I like to save it as `spec.md` in the repo.
 
 ### Step 2: Planning
 
