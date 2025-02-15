@@ -20,7 +20,7 @@ I have been building a lot of small products using LLMs. It has been fun, and us
 
 I talk to a lot of dev friends about this, and we all have a similar approach with various tweaks in either direction.
 
-Here is my workflow. It is built upon a lot of my own work, a lot of conversations with friends (thx Nikete, Kanno, and Erik), and following lots of best practices shared on the
+Here is my workflow. It is built upon a lot of my own work, a lot of conversations with friends (thx Nikete, Kanno, and Erik), and following lots of best practices shared on the various terrible internet [bad](https://news.ycombinator.com/) [places](https://twitter.com).
 
 This is working well **NOW**, it will probably not work in 2 weeks. Lol.
 
@@ -159,9 +159,13 @@ The workflow is like this:
 
 ### Results
 
-I have built so so many things using this workflow: scripts, expo apps, rust cli tools, etc. It has worked across programming languages, and contexts. I do like it. If you have a small or large project that you are procrastinating on, I would recommend giving it a shot. You will be surprised how far you can get in a short amount of time.
+I have built so so many things using this workflow: scripts, expo apps, rust cli tools, etc. It has worked across programming languages, and contexts. I do like it.
 
-## non-greenfield: Iteration, incrementally
+If you have a small or large project that you are procrastinating on, I would recommend giving it a shot. You will be surprised how far you can get in a short amount of time.
+
+My hack todo list is empty cuz I built everything. I keep thinking of new things and knocking it out while watching a movie or something. For the first time in years, I am spending time with new programming languages and tools. This is pushing me to expand my programming perspective.
+
+## Non-greenfield: Iteration, incrementally
 
 Sometimes you don’t have greenfield, and instead need to iterate or do increment work on an established code base.
 
@@ -248,19 +252,23 @@ These prompts are pretty old and busted. They need some refactoring. If you have
 
 ## Skiing ᨒ↟ 𖠰ᨒ↟ 𖠰
 
-When I describe this process to people I say “you gotta keep track of what’s going on cuz you can get ahead of yourself quite easily.”
+When I describe this process to people I say “you gotta keep track of what’s going on cuz you can get ahead of yourself quite easily.” For some reasons I say "over my skies" a lot when talking about LLMs. I don't know why. It resonates with me. Maybes its cuz it is smooth sailing and then all of a sudden you are like "WHAT THE FUCK IS GOING ON!" and are completely lost.
 
 I find that using a planning step (ala the Greenfield process above) can help keep things under control. At least you will have a doc you can double check against. I also do believe that testing is helpful - especially if you are doing wild style aider coding. Helps keep things good, and tight.
 
-Regardless, I do find myself over my skies quite a bit. Sometimes a quick break or short walk will help. In this regard it is a normal problem solving process, but accelerated to a break neck speed.
+Regardless, I still do find myself **over my skies** quite a bit. Sometimes a quick break or short walk will help. In this regard it is a normal problem solving process, but accelerated to a break neck speed.
 
 > One fun things we have been doing is to ask the LLM to do ridiculous things. For instance, we asked it to create a lore file and then reference the lore in the user interface. This is for python cli tools. Suddenly there is lore, glitchy interfaces, etc. All to manage your cloud functions, your todo list or whatever. The sky is the limit.
 
 ## I am so lonely (｡•́︿•̀｡)
 
-My main complaint about these workflows is that it is largely a solo endeavor. I have spent years coding by my self, years coding as a pair, and years coding in a team. It is always better with people. These workflows are not easy to use as a team. The bots collide, the merges are horrific, the context complicated.
+My main complaint about these workflows is that it is largely a solo endeavor - i.e. the interfaces are all \*_single player mode_.
 
-I really want someone to solve this problem in a way that makes coding with an LLM a multiplayer game. Not a solo hacker experience. GET TO WORK!
+I have spent years coding by myself, years coding as a pair, and years coding in a team. It is always better with people. These workflows are not easy to use as a team. The bots collide, the merges are horrific, the context complicated.
+
+I really want someone to solve this problem in a way that makes coding with an LLM a multiplayer game. Not a solo hacker experience. There is so much opportunity to fix this and make it amazing.
+
+GET TO WORK!
 
 ## ⴵ Time ⴵ
 
