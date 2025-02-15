@@ -4,7 +4,7 @@ title: My LLM codegen workflow atm.
 description: A detailed walkthrough of my current workflow for using LLms to build software, from brainstorming through planning and execution.
 draft: true
 tags:
-    - llm
+    - LLM
     - coding
     - ai
     - workflow
@@ -12,7 +12,7 @@ tags:
     - productivity
 ---
 
-_tl:dr; Brainstorm spec, then plan a plan, then execute using llm codegen. Discrete loops. Then magic. ✩₊˚.⋆☾⋆⁺₊✧_
+_tl:dr; Brainstorm spec, then plan a plan, then execute using LLM codegen. Discrete loops. Then magic. ✩₊˚.⋆☾⋆⁺₊✧_
 
 I have been building a lot of small products using LLMs. It has been fun, and useful. However, there are a lot of pitfalls that can waste so much time.
 
@@ -28,7 +28,7 @@ Here is my workflow! Enjoy.
 
 ## Let’s go
 
-{{< image src="/images/posts/llm-coding-robot.webp" alt="Juggalo Robot" caption="I always find these AI generated images to be suspect. so lean in! Here is my juggalo coding robot angel!" >}}
+{{< image src="/images/posts/LLM-coding-robot.webp" alt="Juggalo Robot" caption="I always find these AI generated images to be suspect. so lean in! Here is my juggalo coding robot angel!" >}}
 
 There are many paths for doing dev, but my case is typically one of two:
 
@@ -144,7 +144,7 @@ The workflow is essentially the same as above but instead of pasting into claude
 
 Aider will then “just do it” and I get to play [cookie clicker](https://orteil.dashnet.org/cookieclicker/).
 
-> An aside: Aider does really great benchmarking of new models for codegen in their [llm leaderboards](https://aider.chat/docs/leaderboards/). I find it to be a really great resource for seeing how effective new models are.
+> An aside: Aider does really great benchmarking of new models for codegen in their [LLM leaderboards](https://aider.chat/docs/leaderboards/). I find it to be a really great resource for seeing how effective new models are.
 
 Testing is nice with aider, because it can be even more hands off as aider will run the test suite and debug things for you.
 
@@ -155,6 +155,8 @@ The workflow is like this:
 - paste prompt into aider
 - watch aider dance ♪┏(・o･)┛♪
 - aider will run tests, or you can run app to verify
+- if it works, move on to next prompt
+- if it doesn’t work, Q&A with aider to fix
 - rinse repeat ✩₊˚.⋆☾⋆⁺₊✧
 
 ### Results
@@ -179,32 +181,32 @@ I think everyone who is knee deep in AI dev has a different tool for this, but y
 
 I currently use a tool called `[repomix](https://github.com/yamadashy/repomix)`. I have a task set system wide in my `.mise.toml` that allows me to do various things with my code base ([mise rules](https://mise.jdx.dev/)).
 
-Here is the llm task list:
+Here is the LLM task list:
 
 ```
-llm:clean_bundles           Generate LLM bundle output file using repomix
-llm:copy_buffer_bundle      Copy generated LLM bundle from output.txt to system clipboard for external use
-llm:generate_code_review    Generate code review output from repository content stored in output.txt using LLM generation
-llm:generate_github_issues  Generate GitHub issues from repository content stored in output.txt using LLM generation
-llm:generate_issue_prompts  Generate issue prompts from repository content stored in output.txt using LLM generation
-llm:generate_missing_tests  Generate missing tests for code in repository content stored in output.txt using LLM generation
-llm:generate_readme         Generate README.md from repository content stored in output.txt using LLM generation
+LLM:clean_bundles           Generate LLM bundle output file using repomix
+LLM:copy_buffer_bundle      Copy generated LLM bundle from output.txt to system clipboard for external use
+LLM:generate_code_review    Generate code review output from repository content stored in output.txt using LLM generation
+LLM:generate_github_issues  Generate GitHub issues from repository content stored in output.txt using LLM generation
+LLM:generate_issue_prompts  Generate issue prompts from repository content stored in output.txt using LLM generation
+LLM:generate_missing_tests  Generate missing tests for code in repository content stored in output.txt using LLM generation
+LLM:generate_readme         Generate README.md from repository content stored in output.txt using LLM generation
 ```
 
 I generate an `output.txt` that has the context from my code base. If I am blowing through tokens, and it is too big - I will edit the generate command to ignore parts of the code base that are not germane to this task.
 
-Once the output.txt is generated, I pass it to the [llm](https://github.com/simonw/llm) command to do various transformations and then save those as a markdown file.
+Once the output.txt is generated, I pass it to the [LLM](https://github.com/simonw/LLM) command to do various transformations and then save those as a markdown file.
 
-Ultimately, the mise task is running this: `cat output.txt | llm -t readme-gen > README.md` or `cat output.txt | llm -m claude-3.5-sonnet -t code-review-gen > code-review.md`. This isn't super complicated. the `llm` command is doing the heavy lifting (supporting different models, saving keys, and using prompt templates).
+Ultimately, the mise task is running this: `cat output.txt | LLM -t readme-gen > README.md` or `cat output.txt | LLM -m claude-3.5-sonnet -t code-review-gen > code-review.md`. This isn't super complicated. the `LLM` command is doing the heavy lifting (supporting different models, saving keys, and using prompt templates).
 
 For example, if I need a quick review and fix of test coverage I would do the following:
 
 #### Claude
 
 - go to the directory where the code lives
-- run `mise run llm:generate_missing_tests`
+- run `mise run LLM:generate_missing_tests`
 - look at the generated markdown file (`issue-prompts.md`)
-- grab the full context for the code: `mise run llm:copy_buffer_bundle`
+- grab the full context for the code: `mise run LLM:copy_buffer_bundle`
 - paste that into claude along with the first missing test “issue”
 - copy the generated code from claude into my ide.
 - ...
@@ -215,9 +217,10 @@ For example, if I need a quick review and fix of test coverage I would do the fo
 
 - go to the directory where the code lives
 - run aider (always make sure you are on a new branch for aider work)
-- run `mise run llm:generate_missing_tests`
+- run `mise run LLM:generate_missing_tests`
 - look at the generated markdown file (`issue-prompts.md`)
 - paste the first missing test “issue” into aider
+- watch aider dance ♪┏(・o･)┛♪
 - ...
 - run tests
 - rinse repeat ✩₊˚.⋆☾⋆⁺₊✧
@@ -264,7 +267,7 @@ Regardless, I still do find myself **over my skies** quite a bit. Sometimes a qu
 
 ## I am so lonely (｡•́︿•̀｡)
 
-My main complaint about these workflows is that it is largely a solo endeavor - i.e. the interfaces are all \*_single player mode_.
+My main complaint about these workflows is that it is largely a solo endeavor - i.e. the interfaces are all _single player mode_.
 
 I have spent years coding by myself, years coding as a pair, and years coding in a team. It is always better with people. These workflows are not easy to use as a team. The bots collide, the merges are horrific, the context complicated.
 
@@ -291,8 +294,8 @@ It is pretty awesome. Hack Hack Hack. I can't think of another time I have been 
 
 A lot of my friends are like "fuck LLMs. They are terrible at everything." I don't mind this pov. I don't share it, but I think it is important to be skeptical. There are an awful lot of reasons to hate AI. My main fear is about power consumption and the environmental impact. But.. the code must flow. Right... sigh.
 
-If you are open to understanding more, but don't want to dig in and become a cyborg programmer - my recommendation is not to change your opinion, but to read Ethan Mollick's book about LLMs and how they can be used: [**Co-Intelligence: Living and Working with AI.**](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/)
+If you are open to learning more, but don't want to dig in and become a cyborg programmer - my recommendation is not to change your opinion, but to read Ethan Mollick's book about LLMs and how they can be used: [**Co-Intelligence: Living and Working with AI.**](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/)
 
-It does a good job of explaining a lot of the benefits without being a tech anarcho capitalist bro type. I found it very helpful, and have had a lot of good and nuanced conversations with friends who have read it. Highly recommend.
+It does a good job of explaining a lot of the benefits without being a tech anarcho capitalist bro type tome. I found it very helpful, and have had a lot of good and nuanced conversations with friends who have read it. Highly recommended.
 
-If you are skeptical, but a bit curious - feel free to hmu and let's talk through it. I can show you how we use them, and maybe we could build something together.
+If you are skeptical, but a bit curious - feel free to hmu and let's talk through all this madness. I can show you how we use LLMs, and maybe we could build something together.
