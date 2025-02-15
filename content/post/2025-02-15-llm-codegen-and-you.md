@@ -14,7 +14,7 @@ tags:
 
 _tl:dr; Brainstorm spec, then plan a plan, then execute using LLM codegen. Discrete loops. Then magic. ✩₊˚.⋆☾⋆⁺₊✧_
 
-I have been building so many small products using LLMs. It has been fun, and useful. However, there are pitfalls that can waste so much time.
+I have been building so many small products using LLMs. It has been fun, and useful. However, there are pitfalls that can waste so much time. Awhile back a friend asked me how I was using LLMs to write software. I thought "oh boy. how much time do you have!" and thus this post.
 
 (p.s. if you are a AI hater - scroll to the end)
 
@@ -111,7 +111,7 @@ This entire process will take maybe **15 minutes**. It is pretty quick. Wild tbh
 
 There are so many options available for execution. The success really depends on how well step 2 went.
 
-I have used this workflow with [github workspace](https://githubnext.com/projects/copilot-workspace), [aider](https://aider.chat/), [claude engineer](https://github.com/Doriandarko/claude-engineer), [sweep.dev](https://sweep.dev/), [chatgpt](https://chatgpt.com), [claude.ai](https://claude.ai), etc. It works pretty well with all of the tools I have tried, and I imagine it will work well with any codegen tool.
+I have used this workflow with [github workspace](https://githubnext.com/projects/copilot-workspace), [aider](https://aider.chat/), [cursor](https://www.cursor.com/), [claude engineer](https://github.com/Doriandarko/claude-engineer), [sweep.dev](https://sweep.dev/), [chatgpt](https://chatgpt.com), [claude.ai](https://claude.ai), etc. It works pretty well with all of the tools I have tried, and I imagine it will work well with any codegen tool.
 
 I, however, prefer **raw** claude and aider:
 
