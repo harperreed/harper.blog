@@ -4,10 +4,11 @@ This repository contains a suite of powerful tools designed to help you manage a
 
 ## 📖 Summary of Project
 
-This project comprises two primary scripts:
+This project comprises three primary scripts:
 
 1. **grab_micro_posts.py**: This script downloads JSON feeds, converts HTML content to Markdown, and processes any images associated with the posts to ensure a smooth integration into a Hugo blog.
 2. **grab_starred_links.py**: This script fetches RSS feeds of starred links and converts them into Markdown format suitable for Hugo.
+3. **convert_posts_to_page_bundles.py**: This script converts posts in the `content/post` directory into page bundle directories, processes images in the markdown content, and updates the image paths.
 
 Additionally, the repository includes configuration files (like `pyproject.toml`) to manage dependencies and environment setup effectively.
 
@@ -61,6 +62,12 @@ Before using the tools, ensure you have the following installed:
    python grab_starred_links.py
    ```
 
+   To convert posts to page bundles, run:
+
+   ```bash
+   python convert_posts_to_page_bundles.py
+   ```
+
 ## 🛠️ Tech Info
 
 - **Languages and Frameworks**: Python
@@ -79,14 +86,15 @@ Before using the tools, ensure you have the following installed:
   ├── README.md
   ├── grab_micro_posts.py       # Script to fetch and process micro posts
   ├── grab_starred_links.py     # Script to fetch and process starred links
+  ├── convert_posts_to_page_bundles.py # Script to convert posts to page bundles
   ├── pyproject.toml            # Configuration file for project dependencies
   ```
 
 ## 📝 Logging and Error Handling
 
-Both `grab_micro_posts.py` and `grab_starred_links.py` scripts now use the `logging` module for logging instead of print statements. A centralized logging configuration is set up at the beginning of each script. Errors are logged with appropriate severity levels (e.g., `logging.error`, `logging.warning`).
+All scripts in this repository use the `logging` module for logging instead of print statements. A centralized logging configuration is set up at the beginning of each script. Errors are logged with appropriate severity levels (e.g., `logging.error`, `logging.warning`).
 
-Comprehensive error handling is implemented in both scripts. Exceptions are caught and logged with detailed error messages. Retry mechanisms are added where appropriate to handle transient errors.
+Comprehensive error handling is implemented in all scripts. Exceptions are caught and logged with detailed error messages. Retry mechanisms are added where appropriate to handle transient errors.
 
 ---
 
