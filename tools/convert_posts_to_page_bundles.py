@@ -3,19 +3,16 @@ import re
 import requests
 import logging
 from pathlib import Path
-from slugify import slugify
 from urllib.parse import urlparse
-from bs4 import BeautifulSoup
 
 # Centralized logging configuration
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.StreamHandler()
+        logging.StreamHandler(),
     ]
 )
-
 def download_image(url: str, output_path: Path) -> bool:
     try:
         response = requests.get(url, timeout=30)
