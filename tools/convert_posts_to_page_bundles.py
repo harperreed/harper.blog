@@ -16,17 +16,16 @@ logging.basicConfig(
     ]
 )
 
-def download_image(url, output_path):
+def download_image(url: str, output_path: Path) -> bool:
     try:
-        response = requests.get(url)
+        response = requests.get(url, timeout=30)
         response.raise_for_status()
         with open(output_path, 'wb') as f:
             f.write(response.content)
         return True
     except requests.RequestException as e:
-        logging.error(f"Failed to download image from {url}: {e}")
+        logging.exception("Failed to download image from %s", url)
         return False
-
 def process_images(content, post_dir):
     img_pattern = re.compile(r'!\[([^\]]*)\]\(([^)]+)\)')
     img_matches = img_pattern.findall(content)
