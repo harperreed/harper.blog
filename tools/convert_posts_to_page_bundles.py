@@ -41,25 +41,27 @@ def process_images(content: str, post_dir: Path) -> str:
             content = content.replace(f'![{alt_text}]({img_url})', f'![{alt_text}]({local_img_path})')
 
     return content
-def convert_posts_to_page_bundles(content_dir):
+def convert_posts_to_page_bundles(content_dir: Path) -> None:
     content_dir = Path(content_dir)
     for md_file in content_dir.glob("*.md"):
-        post_name = md_file.stem
-        post_dir = content_dir / post_name
-        post_dir.mkdir(exist_ok=True)
+        try:
+            post_name = md_file.stem
+            post_dir = content_dir / post_name
+            post_dir.mkdir(exist_ok=True)
 
-        with open(md_file, 'r', encoding='utf-8') as f:
-            content = f.read()
+            with open(md_file, 'r') as f:
+                content = f.read()
 
-        content = process_images(content, post_dir)
+            content = process_images(content, post_dir)
 
-        index_md_path = post_dir / "index.md"
-        with open(index_md_path, 'w', encoding='utf-8') as f:
-            f.write(content)
+            index_md_path = post_dir / "index.md"
+            with open(index_md_path, 'w') as f:
+                f.write(content)
 
-        md_file.unlink()
-        logging.info(f"Converted {md_file} to page bundle {post_dir}")
-
+            md_file.unlink()
+            logging.info("Converted %s to page bundle %s", md_file, post_dir)
+        except Exception:
+            logging.exception("Failed to convert %s", md_file)
 if __name__ == "__main__":
     content_dir = "../content/post"
     convert_posts_to_page_bundles(content_dir)
