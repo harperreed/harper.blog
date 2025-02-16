@@ -23,11 +23,14 @@ def download_image(url: str, output_path: Path) -> bool:
     except requests.RequestException as e:
         logging.exception("Failed to download image from %s", url)
         return False
-def process_images(content, post_dir):
+def process_images(content: str, post_dir: Path) -> str:
     img_pattern = re.compile(r'!\[([^\]]*)\]\(([^)]+)\)')
     img_matches = img_pattern.findall(content)
 
     for i, (alt_text, img_url) in enumerate(img_matches):
+        if not img_url.startswith(('http://', 'https://')):
+            logging.warning("Skipping invalid URL: %s", img_url)
+            continue
         parsed_url = urlparse(img_url)
         file_extension = os.path.splitext(parsed_url.path)[1]
         if not file_extension:
@@ -38,7 +41,6 @@ def process_images(content, post_dir):
             content = content.replace(f'![{alt_text}]({img_url})', f'![{alt_text}]({local_img_path})')
 
     return content
-
 def convert_posts_to_page_bundles(content_dir):
     content_dir = Path(content_dir)
     for md_file in content_dir.glob("*.md"):
