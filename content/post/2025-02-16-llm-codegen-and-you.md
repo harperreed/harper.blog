@@ -265,7 +265,7 @@ For some reason I say "over my skies" a lot when talking about LLMs. I don't kno
 
 I find that using a **planning step** (ala the Greenfield process above) can help keep things under control. At least you will have a doc you can double-check against. I also do believe that testing is helpful - especially if you are doing wild style aider coding. Helps keep things good, and tight.
 
-Regardless, I still do find myself **over my skies** quite a bit. Sometimes a quick break or short walk will help. In this regard it is a normal problem-solving process, but accelerated to a breakneck speed.
+Regardless, I still do find myself **over my skis** quite a bit. Sometimes a quick break or short walk will help. In this regard it is a normal problem-solving process, but accelerated to a breakneck speed.
 
 > We will often ask the LLM to include ridiculous things in our not very ridiculous code. For instance, we asked it to create a lore file and then reference the lore in the user interface. This is for python cli tools. Suddenly there is lore, glitchy interfaces, etc. All to manage your cloud functions, your todo list or whatever. The sky is the limit.
 
