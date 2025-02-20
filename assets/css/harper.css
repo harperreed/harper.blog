@@ -245,35 +245,6 @@ ul.now-posts li a:visited {
     color: var(--color-link-visited);
 }
 
-/* notes */
-
-.notes hr {
-    border: 0;
-    border-top: 1px solid var(--color-tertiary);
-    margin: 2rem 0;
-}
-
-.note-images img {
-    max-width: 100%;
-    height: auto;
-    object-fit: cover;
-    padding: var(--margin);
-    background-color: white;
-    border: 1px solid var(--color-tertiary);
-    border-radius: var(--border-radius-base);
-}
-
-/* Media query for mobile devices */
-@media screen and (max-width: 768px) {
-    .note-images img {
-        padding: 0px; /* Smaller padding on mobile */
-        border-radius: var(
-            --border-radius-sm
-        ); /* Slightly smaller border-radius */
-        border: 1px solid var(--color-primary);
-    }
-}
-
 /* pagination */
 
 .pagination {
