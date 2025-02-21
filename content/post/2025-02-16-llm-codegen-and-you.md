@@ -207,7 +207,7 @@ For example, if I need a quick review and fix of test coverage I would do the fo
 
 - go to the directory where the code lives
 - run `mise run LLM:generate_missing_tests`
-- look at the generated markdown file (`issue-prompts.md`)
+- look at the generated markdown file (`missing-tests.md`)
 - grab the full context for the code: `mise run LLM:copy_buffer_bundle`
 - paste that into claude along with the first missing test “issue”
 - copy the generated code from claude into my ide.
@@ -220,7 +220,7 @@ For example, if I need a quick review and fix of test coverage I would do the fo
 - go to the directory where the code lives
 - run aider (always make sure you are on a new branch for aider work)
 - run `mise run LLM:generate_missing_tests`
-- look at the generated markdown file (`issue-prompts.md`)
+- look at the generated markdown file (`missing-tests.md`)
 - paste the first missing test “issue” into aider
 - watch aider dance ♪┏(・o･)┛♪
 - ...
