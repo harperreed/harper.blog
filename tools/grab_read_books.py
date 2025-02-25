@@ -455,8 +455,16 @@ def main():
 
     for book in books:
         logging.debug(f"Processing book: {book['title']}")
+  
+        
+        # date = datetime.fromisoformat(book['date'])\
+        date_pattern = "%Y-%m-%dT%H:%M:%S%z"
+        datetime_object = datetime.datetime.strptime(book['date'], date_pattern)
+        date_str = datetime_object.strftime("%Y-%m-%d")
+        
+        content_filename = f"{date_str} {book['title']}"
 
-        post_directory = os.path.join(hugo_book_dir, slugify(book["title"]))
+        post_directory = os.path.join(hugo_book_dir, slugify(content_filename))
         os.makedirs(post_directory, exist_ok=True)
 
         data_filename = os.path.join(hugo_data_dir, f"{slugify(book['title'])}.yaml")
