@@ -1,24 +1,26 @@
 ---
-asin: 0593801989
-average_rating: '3.84'
+asin: "0593801970"
+average_rating: "3.84"
 book_author: Haruki Murakami
-date: '2024-12-27T00:00:00-08:00'
+date: "2024-12-27T00:00:00-08:00"
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/209314506-the-city-and-its-uncertain-walls
 image:
-- 0593801989.jpg
-image_url: https://images-na.ssl-images-amazon.com/images/P/0593801989.01._SCLZZZZZZZ.jpg
+    - 0593801970.jpg
+image_url: https://images-na.ssl-images-amazon.com/images/P/0593801970.01._SCLZZZZZZZ.jpg
 layout: book
-num_pages: '480'
-review_rating: '5'
-started_at: ''
-summary: 3.83 average rating based on 9,189 ratings. A story of a man's quest through
-  love's labyrinth, merging the tangible with the surreal in a world created by Murakami's
-  signature narrative style.
-tagline: A haunting exploration of love, loss, and the magic woven into the fabric
-  of reality.
+num_pages: "480"
+review_rating: "5"
+started_at: ""
+summary:
+    3.83 average rating based on 9,189 ratings. A story of a man's quest through
+    love's labyrinth, merging the tangible with the surreal in a world created by Murakami's
+    signature narrative style.
+tagline:
+    A haunting exploration of love, loss, and the magic woven into the fabric
+    of reality.
 tags:
-- Haruki Murakami
+    - Haruki Murakami
 title: The City and Its Uncertain Walls
 title_without_series: The City and Its Uncertain Walls
 yaml: the-city-and-its-uncertain-walls
