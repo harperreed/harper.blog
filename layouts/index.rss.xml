@@ -2,17 +2,17 @@
 {{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
 {{- $pages := slice -}}
 {{- if or $.IsHome $.IsSection -}}
-{{- if .Site.Params.nofeedSections -}}
-{{- $pages = where $pctx.RegularPages "Type" "not in" .Site.Params.nofeedSections -}}
+    {{- if .Site.Params.nofeedSections -}}
+        {{- $pages = where $pctx.RegularPages "Type" "not in" .Site.Params.nofeedSections -}}
+    {{- else -}}
+        {{- $pages = $pctx.RegularPages -}}
+    {{- end -}}
 {{- else -}}
-{{- $pages = $pctx.RegularPages -}}
-{{- end -}}
-{{- else -}}
-{{- if .Site.Params.nofeedSections -}}
-{{- $pages = where $pctx.Pages "Type" "not in" .Site.Params.nofeedSections -}}
-{{- else -}}
-{{- $pages = $pctx.Pages -}}
-{{- end -}}
+    {{- if .Site.Params.nofeedSections -}}
+        {{- $pages = where $pctx.Pages "Type" "not in" .Site.Params.nofeedSections -}}
+    {{- else -}}
+        {{- $pages = $pctx.Pages -}}
+    {{- end -}}
 {{- end -}}
 {{- $limit := .Site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}
@@ -20,50 +20,132 @@
 {{- end -}}
 
 
+
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 {{- printf "<?xml-stylesheet href=\"/pretty-feed-v3.xsl\" type=\"text/xsl\"?>" | safeHTML }}
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>{{ if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <title>
+        {{ if eq  .Title  .Site.Title }}
+            {{ .Site.Title }}
+        {{ else }}
+            {{ with .Title }}
+                {{.}} on 
+            {{ end }}
+            {{ .Site.Title }}
+        {{ end }}
+    </title>
     <link>{{ .Permalink }}</link>
-    <description>Recent content {{ if ne  .Title  .Site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ $baseurl := urls.Parse .Site.BaseURL }}{{ $baseurl.Host }}</description>
-    <generator>Hugo -- gohugo.io</generator>{{ with .Site.LanguageCode }}
-    <language>{{.}}</language>{{end}}{{ with .Site.Author.email }}
-    <managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}{{ with .Site.Author.email }}
-    <webMaster>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</webMaster>{{end}}{{ with .Site.Copyright }}
-    <copyright>{{ . | markdownify | plainify }}</copyright>{{end}}{{ if not .Date.IsZero }}
-    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
+    <description>
+        Recent content 
+        {{ if ne  .Title  .Site.Title }}
+            {{ with .Title }}
+                in {{.}} 
+            {{ end }}
+        {{ end }}
+        on {{ $baseurl := urls.Parse .Site.BaseURL }}{{ $baseurl.Host }}
+    </description>
+    <generator>Hugo -- gohugo.io</generator>
+    {{ with .Site.LanguageCode }}
+    <language>{{.}}</language>{{end}}
+    {{ with .Site.Author.email }}
+    <managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>
+    {{end}}
+    {{ with .Site.Author.email }}
+    <webMaster>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</webMaster>
+    {{end}}
+    {{ with .Site.Copyright }}
+    <copyright>{{ . | markdownify | plainify }}</copyright>
+    {{end}}
+    {{ if not .Date.IsZero }}
+    <lastBuildDate>
+        {{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}
+    </lastBuildDate>
+    {{ end }}
     {{- with .OutputFormats.Get "RSS" }}
-    {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+        {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{- end }}
     {{- range $pages }}
-    {{- if ne .Params.nofeed true }}
-    <item>
-      <title>{{ .Title }}</title>
-      <link>{{ .Permalink }}</link>
-      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-      {{- with .Site.Author.email }}
-      <author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{ end }}
-      <guid>{{ .Permalink }}</guid>
-      <description>{{ .Summary | html }}
-      <hr>
-                <p>Thank you for keeping RSS alive. You're awesome.</p>
-                <p><a href="mailto:harper@modest.com">Email me</a> ::
-                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
-                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
-                <a href="https://manuelmoreale.com/supporters">See my generous supporters</a> :: 
-                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
-                
-      </description>
-      <content:encoded>{{ printf "<![CDATA[" | safeHTML }}{{ .Content | safeHTML }}
-        {{- with .Resources.ByType "image" }}
-          {{- range . }}
-            <img src="{{ .Permalink }}" alt="{{ .Title }}" />
-          {{- end }}
+        {{- if ne .Params.nofeed true }}
+            <item>
+                <title>{{ .Title | htmlEscape }}</title>
+                <link>
+                    {{ .Permalink }}
+                </link>
+                <pubDate>
+                    {{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}
+                </pubDate>
+                {{- with .Site.Author.email }}
+                    <author>
+                        {{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}
+                    </author>
+                {{ end }}
+                <guid>{{ .Permalink }}</guid>
+                {{- $pagePermalink := .Permalink -}}
+                {{- with .Params.images -}}
+                    {{- $img := index . 0 -}}
+                    {{- $imgPath := printf "%s%s" $pagePermalink $img -}}
+                    {{- with resources.GetRemote $imgPath -}}
+                        <enclosure url="{{ $imgPath }}" type="image/jpg" length="{{ len .Content }}"></enclosure>
+                    {{- else -}}
+                        <enclosure url="{{ $imgPath }}" type="image/jpg" length="0"></enclosure>
+                    {{- end -}}
+                {{ else -}}
+                    {{- $images := .Resources.ByType "image" -}}
+                    {{- $featured := $images.GetMatch "*feature*" -}}
+                    {{- if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end -}}
+                    {{- with $featured -}}
+                        <enclosure url="{{ $featured.Permalink }}" type="image/jpg" length="{{ len $featured.Content }}"></enclosure>
+                    {{- else -}}
+                        {{- with .Site.Params.images -}}
+                            {{- $defaultImg := index . 0 | absURL -}}
+                            {{- with resources.GetRemote $defaultImg -}}
+                                <enclosure url="{{ $defaultImg }}" type="image/jpg" length="{{ len .Content }}"></enclosure>
+                            {{- else -}}
+                                <enclosure url="{{ $defaultImg }}" type="image/jpg" length="0"></enclosure>
+                            {{- end -}}
+                        {{- end -}}
+                    {{- end -}}
+                {{- end }}
+
+                {{- $images := union (.Resources.ByType "image") (.Resources.Match "**.{jpg,jpeg,png,gif,webp}") -}}
+                {{- with $images }}
+                    {{- range . }}
+                        {{- $img := . }}
+                        {{- $alt := or .Title .Name }}
+                        {{- $caption := or .Params.caption "" }}
+                        <media:content url="{{ .Permalink }}" medium="image" />
+                    {{- end }}
+                {{- end }}
+                <description>
+                    {{ printf "<![CDATA[" | safeHTML }}
+                        {{- $content := replaceRE "a href=\"(#.*?)\"" (printf "%s%s%s" "a href=\"" .Permalink "$1\"") .Content -}}
+                        {{- $content = replaceRE "img src=\"(.*?)\"" (printf "%s%s%s" "img src=\"" .Permalink "$1\"") $content -}}
+                        {{ $content | safeHTML }}
+                        
+                        {{- $images := union (.Resources.ByType "image") (.Resources.Match "**.{jpg,jpeg,png,gif,webp}") -}}
+                        {{- with $images }}
+                            {{- range . }}
+                                {{- $img := . }}
+                                {{- $alt := or .Title .Name }}
+                                {{- $caption := or .Params.caption "" }}
+                                <figure>
+                                    <img src="{{ .Permalink }}" 
+                                         alt="{{ $alt }}"
+                                         {{ with .Width }}width="{{ . }}"{{ end }}
+                                         {{ with .Height }}height="{{ . }}"{{ end }}
+                                         loading="lazy" />
+                                    {{ with $caption }}<figcaption>{{ . }}</figcaption>{{ end }}
+                                </figure>
+                            {{- end }}
+                        {{- end }}
+                        
+                        <hr />
+                        <p>Thank you for using RSS. I appreciate you. <a href="mailto:harper&#64;modest.com">Email me</a></p>
+                    {{ printf "]]>" | safeHTML }}
+                </description>
+            </item>
         {{- end }}
-      {{ printf "]]>" | safeHTML }}</content:encoded>
-    </item>
-    {{- end }}
     {{- end }}
   </channel>
 </rss>

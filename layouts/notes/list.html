@@ -4,6 +4,7 @@
     <p class="filter-notice">{{ i18n "filtering-for" }} "{{ .Title }}"</p>
     {{ end }}
     <div class="notes">
+        
         {{ $paginator := .Paginate .Pages (.Param "notes_pagination" | default
         2) }}
         <!-- {{ $paginator := .Paginate .Pages .Site.Params.notes_pagination }} -->
@@ -17,9 +18,12 @@
                  <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
             </header>
             {{ if .Params.text }} {{ .Params.text | markdownify }} {{ else }} {{
-            .Content }} {{ end }} {{ with .Resources.ByType "image" }}
+            .Content }} 
+            {{ end }} 
+            {{ with .Resources.ByType "image" }}
             <div class="note-images">
-                {{ range . }} {{ $thumbnail := .Resize "600x" }}
+                {{ range . }} 
+                {{ $thumbnail := .Resize "600x" }}
                 <img
                     src="{{ $thumbnail.RelPermalink }}"
                     alt="{{ .Title }}"

@@ -43,7 +43,7 @@
             </i>
         </span>
         <a href="{{ .RelPermalink }}" aria-label="Note: {{ .Description | default .Title }}">
-            {{ .Description | default .Title }}
+            {{ .Description | default .Title | truncate 120}}
         </a>
     </li>
     {{ else }}
