@@ -1,0 +1,79 @@
+/* Masonry Columns Container */
+.masonry-columns {
+    column-count: 3;
+    column-gap: 16px;
+    column-fill: balance;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+/* Responsive columns */
+@media (max-width: 1200px) {
+    .masonry-columns {
+        column-count: 2;
+    }
+}
+
+@media (max-width: 768px) {
+    .masonry-columns {
+        column-count: 1;
+    }
+}
+
+/* Masonry Items */
+.masonry-item {
+    break-inside: avoid;
+    margin-bottom: 16px;
+    page-break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+    position: relative;
+    display: block;
+    will-change: transform;
+    transform: translateZ(0);
+}
+
+/* Image Styling */
+.masonry-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 2px;
+    object-fit: cover;
+    display: block;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    transition: transform 0.3s ease;
+    will-change: transform;
+}
+
+/* Hover effect */
+.masonry-item:hover img {
+    transform: scale(1.02);
+}
+
+/* Fix for Firefox */
+@-moz-document url-prefix() {
+    .masonry-item {
+        display: inline-block;
+        width: 100%;
+    }
+}
+
+/* Fix for Safari */
+@supports (-webkit-overflow-scrolling: touch) {
+    .masonry-item {
+        -webkit-transform: translate3d(0, 0, 0);
+    }
+}
+
+/* Prevent FOUC */
+.masonry-columns {
+    opacity: 0;
+    animation: fadeIn 0.3s ease forwards;
+}
+
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+    }
+}

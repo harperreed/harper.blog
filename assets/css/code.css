@@ -1,0 +1,20 @@
+code {
+    padding: 2px 5px;
+    color: var(--color-code-fg);
+    background-color: var(--color-code-bg);
+    font-family: monospace;
+}
+
+pre code {
+    display: block;
+    padding: var(--margin);
+    white-space: pre-wrap;
+    font-size: var(--font-size-base);
+    overflow-x: auto;
+    text-wrap: nowrap;
+}
+
+code[data-lang="prompt"],
+code[data-lang="text"] {
+    text-wrap: wrap;
+}

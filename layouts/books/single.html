@@ -7,36 +7,22 @@
     {{ with .Params.asin }} {{ $image := print
     "https://images-na.ssl-images-amazon.com/images/P/" . ".01._SCLZZZZZZZ.jpg"
     }}
-    
-    
 
     <img src="{{ $image  }}" alt="Book cover" class="book-cover" />
     {{ end }} {{ .Content }}
 </content>
 
 <ul>
-    
     {{ with .Params.review_rating}}
     <li>My rating: {{.}}/5</li>
+    {{end}} {{ $read_at := .Params.date }} {{ with .Params.started_at}} {{
+    $start := time . }} {{ $end := time $read_at }} {{ $duration := $end.Sub
+    $start }} {{/* Get total hours */}} {{ $hours := $duration.Hours }} {{/* Get
+    total days */}} {{ $days := div $duration.Hours 24 }}
+    <li>Reading duration: Read in {{math.Ceil $days}} days</li>
+    {{ end }} {{ with .Params.num_pages}}
+    <li>Number of pages: {{.}} Pages</li>
     {{end}}
-    
-{{ $read_at := .Params.date }}
-{{ with .Params.started_at}}
-{{ $start := time  . }}
-{{ $end := time $read_at }}
-{{ $duration := $end.Sub $start }}
-
-{{/* Get total hours */}}
-{{ $hours := $duration.Hours }}
-
-{{/* Get total days */}}
-{{ $days := div $duration.Hours 24 }}
-<li>Reading duration: Read in {{math.Ceil $days}} days</li>
-{{ end }}
-{{ with .Params.num_pages}}
-<li>Number of pages: {{.}} Pages</li>
-{{end}}
-
 </ul>
 {{ $url := print "https://www.amazon.com/dp/" .Params.asin "?tag="
 .Site.Params.amazon_tag }}
