@@ -1,0 +1,49 @@
+{{ define "main" }}
+  {{ .Content }}
+  
+  <!-- Group books by year -->
+  
+
+  
+  
+  {{ $books := where (where .Site.RegularPages "Type" "books") "Kind" "page" }}
+  {{ $filteredBooks := where $books "File.LogicalName" "not in" (slice "grid.md" "_index.md") }}
+  {{ $booksByYear := $filteredBooks.GroupByDate "2006" }}
+  
+  {{ range $booksByYear }}
+    <div class="year-section">
+      <h2 class="year-heading">{{ .Key }} ({{ len .Pages }} books)</h2>
+      <div class="book-grid">
+        {{ range .Pages }}
+          <div class="book-grid-item">
+            {{ with .Params.asin }}
+              {{ $image := print "https://images-na.ssl-images-amazon.com/images/P/" . ".01._SCLZZZZZZZ.jpg" }}
+              <img src="{{ $image }}" class="book-bg" alt="">
+            {{ end }}
+            {{ if .Params.asin }}
+              {{ $link := print "https://www.amazon.com/dp/" .Params.asin "?tag=" .Site.Params.amazon_tag }}
+              <a href="{{ .RelPermalink }}" target="_blank" rel="noopener noreferrer" class="book-link">
+                <div class="book-info">
+                  <h3 class="book-title">{{ .Title }}</h3>
+                  {{ with .Params.book_author }}
+                    <p class="book-author">by {{ . }}</p>
+                  {{ end }}
+                  {{ with .Params.author }}
+                    <p class="book-author">by {{ . }}</p>
+                  {{ end }}
+                </div>
+              </a>
+            {{ else }}
+              <div class="book-info">
+                <h3 class="book-title">{{ .Title }}</h3>
+                {{ with .Params.book_author }}
+                  <p class="book-author">by {{ . }}</p>
+                {{ end }}
+              </div>
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  {{ end }}
+{{ end }}

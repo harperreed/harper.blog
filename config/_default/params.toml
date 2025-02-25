@@ -21,7 +21,24 @@ notes_pagination = 10
 links_pagination = 20
 themeStyle = "harper"
 amazon_tag = "harperrules0d-20"
-theme = "nature"
+
+# Themes
+# theme = "sunset"
+# theme = "ocean"
+# theme = "desert"
+theme = "nordic"
+# theme = "autumn"
+# theme = "cyber"
+# theme = "academia"
+# theme = "myspace"
+# theme = "halloween"
+# theme = "xmas"
+# theme = "neon"
+# theme = "electric"
+# theme = "volcano"
+# theme = "cyberpunk"
+
+
 customcss = [
     "/css/root-colors.css",
     "/css/harper.css",
@@ -35,7 +52,9 @@ customcss = [
     "/css/books.css",
     "/css/music.css",
     "/css/links.css",
-
+    "/css/notes.css",
+    "/css/notes-grid.css",
+    "/css/code.css",
     "syntax.css",
 ]
 
