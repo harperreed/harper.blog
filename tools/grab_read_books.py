@@ -467,7 +467,7 @@ def main():
         post_directory = os.path.join(hugo_book_dir, slugify(content_filename))
         os.makedirs(post_directory, exist_ok=True)
 
-        data_filename = os.path.join(hugo_data_dir, f"{slugify(book['title'])}.yaml")
+        data_filename = os.path.join(hugo_data_dir, f"{slugify(content_filename)}.yaml")
         book_data = {}
 
         # Get or load book data
