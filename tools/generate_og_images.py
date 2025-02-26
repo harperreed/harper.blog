@@ -26,9 +26,15 @@ def generate_og_image(content_type: str, output_dir: str) -> None:
         text_color = (0, 0, 0)
         font_size = 100
 
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
     image = Image.new("RGB", (width, height), background_color)
     draw = ImageDraw.Draw(image)
-    font = ImageFont.truetype(font_path, font_size)
+    try:
+        font = ImageFont.truetype(font_path, font_size)
+    except OSError as e:
+        raise OSError(f"Failed to load font: {e}")
 
     text = content_type.capitalize()
     text_width, text_height = draw.textsize(text, font=font)
@@ -38,7 +44,10 @@ def generate_og_image(content_type: str, output_dir: str) -> None:
     draw.text((text_x, text_y), text, font=font, fill=text_color)
 
     output_path = os.path.join(output_dir, f"{content_type}_og_image.png")
-    image.save(output_path)
+    try:
+        image.save(output_path)
+    except OSError as e:
+        raise OSError(f"Failed to save image: {e}")
     print(f"OG image saved to {output_path}")
 
 def main() -> None:
