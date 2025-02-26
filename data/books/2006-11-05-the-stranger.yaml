@@ -1,0 +1,739 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.03'
+    id: '957894'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1686463588p5/957894.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/957894.Albert_Camus
+    name: Albert Camus
+    ratings_count: '1951009'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1686463588p2/957894.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '108760'
+average_rating: '4.03'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: Through the story of an ordinary man unwittingly drawn into a senseless
+  murder on an Algerian beach, Camus explored what he termed "the nakedness of man
+  faced with the absurd." First published in English in 1946; now in a new translation
+  by Matthew Ward.
+edition_information: null
+format: Library Binding
+id: '331070'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1270257405l/331070._SX98_.jpg
+is_ebook: 'false'
+isbn: 0881032476
+isbn13: '9780881032475'
+json: '{"id": "331070", "isbn": "0881032476", "isbn13": "9780881032475", "text_reviews_count":
+  {"@type": "integer", "#text": "543"}, "uri": "kca://book/amzn1.gr.book.v1.AzQCWpFWZZyrQvAGYmzWjQ",
+  "title": "The Stranger", "title_without_series": "The Stranger", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1270257405l/331070._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1270257405l/331070._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/331070.The_Stranger",
+  "num_pages": null, "format": "Library Binding", "edition_information": null, "publisher":
+  "Vintage International", "publication_day": null, "publication_year": null, "publication_month":
+  null, "average_rating": "4.03", "ratings_count": "1248163", "description": "Through
+  the story of an ordinary man unwittingly drawn into a senseless murder on an Algerian
+  beach, Camus explored what he termed \"the nakedness of man faced with the absurd.\"
+  First published in English in 1946; now in a new translation by Matthew Ward.",
+  "authors": {"author": {"id": "957894", "name": "Albert Camus", "role": null, "image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1686463588p5/957894.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1686463588p2/957894.jpg"},
+  "link": "https://www.goodreads.com/author/show/957894.Albert_Camus", "average_rating":
+  "4.03", "ratings_count": "1951009", "text_reviews_count": "108760"}}, "published":
+  null, "work": {"id": "3324344", "uri": "kca://work/amzn1.gr.work.v1.Utz0fvS02P1YxyJHfysyFw"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417495",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B008QLXSG8
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/331070.The_Stranger
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '924428'
+    '@name': to-read
+  - '@count': '30934'
+    '@name': currently-reading
+  - '@count': '19248'
+    '@name': classics
+  - '@count': '13217'
+    '@name': fiction
+  - '@count': '11529'
+    '@name': favorites
+  - '@count': '8398'
+    '@name': philosophy
+  - '@count': '3279'
+    '@name': owned
+  - '@count': '2957'
+    '@name': french
+  - '@count': '2313'
+    '@name': literature
+  - '@count': '1655'
+    '@name': books-i-own
+  - '@count': '1440'
+    '@name': novels
+  - '@count': '1346'
+    '@name': french-literature
+  - '@count': '1229'
+    '@name': favourites
+  - '@count': '1117'
+    '@name': school
+  - '@count': '987'
+    '@name': existentialism
+  - '@count': '952'
+    '@name': novel
+  - '@count': '794'
+    '@name': physical-tbr
+  - '@count': '792'
+    '@name': to-buy
+  - '@count': '758'
+    '@name': literary-fiction
+  - '@count': '754'
+    '@name': library
+  - '@count': '629'
+    '@name': translated
+  - '@count': '626'
+    '@name': "fran\xE7ais"
+  - '@count': '623'
+    '@name': french-lit
+  - '@count': '600'
+    '@name': 20th-century
+  - '@count': '584'
+    '@name': owned-books
+  - '@count': '571'
+    '@name': tbr
+  - '@count': '535'
+    '@name': my-library
+  - '@count': '470'
+    '@name': kindle
+  - '@count': '451'
+    '@name': read-for-school
+  - '@count': '439'
+    '@name': classic-literature
+  - '@count': '417'
+    '@name': modern-classics
+  - '@count': '407'
+    '@name': book-club
+  - '@count': '389'
+    '@name': philosophical
+  - '@count': '385'
+    '@name': bookshelf
+  - '@count': '382'
+    '@name': 1001-books
+  - '@count': '381'
+    '@name': high-school
+  - '@count': '380'
+    '@name': favs
+  - '@count': '374'
+    '@name': want-to-buy
+  - '@count': '371'
+    '@name': re-read
+  - '@count': '362'
+    '@name': audiobook
+  - '@count': '341'
+    '@name': my-books
+  - '@count': '329'
+    '@name': for-school
+  - '@count': '328'
+    '@name': dnf
+  - '@count': '320'
+    '@name': camus
+  - '@count': '318'
+    '@name': books
+  - '@count': '316'
+    '@name': classics-to-read
+  - '@count': '313'
+    '@name': adult
+  - '@count': '312'
+    '@name': algeria
+  - '@count': '312'
+    '@name': literary
+  - '@count': '295'
+    '@name': crime
+  - '@count': '293'
+    '@name': ebook
+  - '@count': '292'
+    '@name': absurdism
+  - '@count': '291'
+    '@name': "cl\xE1sicos"
+  - '@count': '261'
+    '@name': novella
+  - '@count': '260'
+    '@name': nobel-prize
+  - '@count': '259'
+    '@name': audiobooks
+  - '@count': '258'
+    '@name': school-books
+  - '@count': '255'
+    '@name': on-my-shelf
+  - '@count': '246'
+    '@name': read-in-french
+  - '@count': '244'
+    '@name': default
+  - '@count': '243'
+    '@name': my-bookshelf
+  - '@count': '242'
+    '@name': roman
+  - '@count': '242'
+    '@name': to-reread
+  - '@count': '242'
+    '@name': to-re-read
+  - '@count': '240'
+    '@name': reread
+  - '@count': '234'
+    '@name': philosophical-fiction
+  - '@count': '226'
+    '@name': general-fiction
+  - '@count': '223'
+    '@name': favorite
+  - '@count': '218'
+    '@name': home-library
+  - '@count': '217'
+    '@name': classiques
+  - '@count': '215'
+    '@name': klassiker
+  - '@count': '215'
+    '@name': short
+  - '@count': '214'
+    '@name': novela
+  - '@count': '209'
+    '@name': adult-fiction
+  - '@count': '208'
+    '@name': wish-list
+  - '@count': '208'
+    '@name': must-read
+  - '@count': '208'
+    '@name': classic-lit
+  - '@count': '207'
+    '@name': lit
+  - '@count': '206'
+    '@name': 1940s
+  - '@count': '200'
+    '@name': psychology
+  - '@count': '200'
+    '@name': all-time-favorites
+  - '@count': '200'
+    '@name': existential
+  - '@count': '199'
+    '@name': translation
+  - '@count': '199'
+    '@name': favorite-books
+  - '@count': '195'
+    '@name': classique
+  - '@count': '195'
+    '@name': favoritos
+  - '@count': '193'
+    '@name': classics-tbr
+  - '@count': '189'
+    '@name': "\u0631\u0648\u0627\u064A\u0627\u062A"
+  - '@count': '189'
+    '@name': classic-fiction
+  - '@count': '185'
+    '@name': have
+  - '@count': '183'
+    '@name': short-books
+  - '@count': '176'
+    '@name': francais
+  - '@count': '174'
+    '@name': 5-stars
+  - '@count': '172'
+    '@name': drama
+  - '@count': '161'
+    '@name': contemporary
+  - '@count': '160'
+    '@name': school-reads
+  - '@count': '159'
+    '@name': english
+  - '@count': '159'
+    '@name': in-translation
+  - '@count': '158'
+    '@name': classici
+  - '@count': '156'
+    '@name': short-stories
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: Vintage International
+ratings_count: '1248163'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417495
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/331070.The_Stranger\"\
+  >The Stranger Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0881032476&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/331070.The_Stranger?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '5223'
+        link: https://www.goodreads.com/author/show/5223.Franz_Kafka
+        name: Franz Kafka
+    average_rating: '4.03'
+    id: '485894'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646444605l/485894._SY160_.jpg
+    isbn: 0553213695
+    isbn13: '9780553213690'
+    link: https://www.goodreads.com/book/show/485894.The_Metamorphosis
+    num_pages: '201'
+    publication_day: '1'
+    publication_month: '3'
+    publication_year: '1972'
+    ratings_count: '1248176'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646444605l/485894._SY75_.jpg
+    title: The Metamorphosis
+    title_without_series: The Metamorphosis
+    uri: kca://book/amzn1.gr.book.v1.0r9VHL78l1OW5uQQyenS-g
+    work:
+      id: '2373750'
+  - authors:
+      author:
+        id: '3137322'
+        link: https://www.goodreads.com/author/show/3137322.Fyodor_Dostoevsky
+        name: Fyodor Dostoevsky
+    average_rating: '4.03'
+    id: '1772910'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450699039l/1772910._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/1772910.White_Nights
+    num_pages: '82'
+    publication_day: null
+    publication_month: null
+    publication_year: '1848'
+    ratings_count: '1248176'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450699039l/1772910._SX50_.jpg
+    title: White Nights
+    title_without_series: White Nights
+    uri: kca://book/amzn1.gr.book.v1.og7aev_DT0MOI1ONaisZhQ
+    work:
+      id: '4111509'
+  - authors:
+      author:
+        id: '3137322'
+        link: https://www.goodreads.com/author/show/3137322.Fyodor_Dostoevsky
+        name: Fyodor Dostoevsky
+    average_rating: '4.03'
+    id: '7144'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382846449l/7144._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/7144.Crime_and_Punishment
+    num_pages: '671'
+    publication_day: '31'
+    publication_month: '12'
+    publication_year: '2002'
+    ratings_count: '1248176'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382846449l/7144._SY75_.jpg
+    title: Crime and Punishment
+    title_without_series: Crime and Punishment
+    uri: kca://book/amzn1.gr.book.v1.PduOaUyKDt1zhmvGomhhhQ
+    work:
+      id: '3393917'
+  - authors:
+      author:
+        id: '3706'
+        link: https://www.goodreads.com/author/show/3706.George_Orwell
+        name: George Orwell
+    average_rating: '4.03'
+    id: '170448'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1740048031l/170448._SY160_.jpg
+    isbn: '0451526341'
+    isbn13: '9780451526342'
+    link: https://www.goodreads.com/book/show/170448.Animal_Farm
+    num_pages: '152'
+    publication_day: null
+    publication_month: '1'
+    publication_year: '2020'
+    ratings_count: '1248176'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1740048031l/170448._SY75_.jpg
+    title: Animal Farm
+    title_without_series: Animal Farm
+    uri: kca://book/amzn1.gr.book.v1.OPL1L19jvyFEvtyxeIp2CQ
+    work:
+      id: '2207778'
+  - authors:
+      author:
+        id: '3706'
+        link: https://www.goodreads.com/author/show/3706.George_Orwell
+        name: George Orwell
+    average_rating: '4.03'
+    id: '61439040'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657781256l/61439040._SX98_.jpg
+    isbn: 0452284236
+    isbn13: '9780452284234'
+    link: https://www.goodreads.com/book/show/61439040-1984
+    num_pages: '368'
+    publication_day: null
+    publication_month: '7'
+    publication_year: '2022'
+    ratings_count: '1248176'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657781256l/61439040._SX50_.jpg
+    title: '1984'
+    title_without_series: '1984'
+    uri: kca://book/amzn1.gr.book.v3.Emy23xgDnXpqF2NP
+    work:
+      id: '153313'
+  - authors:
+      author:
+        id: '3565'
+        link: https://www.goodreads.com/author/show/3565.Oscar_Wilde
+        name: Oscar Wilde
+    average_rating: '4.03'
+    id: '489732'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454087681l/489732._SX98_.jpg
+    isbn: 0141439572
+    isbn13: '9780141439570'
+    link: https://www.goodreads.com/book/show/489732.The_Picture_of_Dorian_Gray
+    num_pages: '253'
+    publication_day: '4'
+    publication_month: '2'
+    publication_year: '2003'
+    ratings_count: '1248176'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454087681l/489732._SY75_.jpg
+    title: The Picture of Dorian Gray
+    title_without_series: The Picture of Dorian Gray
+    uri: kca://book/amzn1.gr.book.v1.gA-HiNbBMdJFd3y5EnlyCw
+    work:
+      id: '1858012'
+  - authors:
+      author:
+        id: '5223'
+        link: https://www.goodreads.com/author/show/5223.Franz_Kafka
+        name: Franz Kafka
+    average_rating: '4.03'
+    id: '17690'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399438l/17690._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/17690.The_Trial
+    num_pages: '255'
+    publication_day: '9'
+    publication_month: '4'
+    publication_year: '2001'
+    ratings_count: '1248176'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399438l/17690._SY75_.jpg
+    title: The Trial
+    title_without_series: The Trial
+    uri: kca://book/amzn1.gr.book.v1.4XT3uMAFY2OUcyvcyayhhw
+    work:
+      id: '2965832'
+  - authors:
+      author:
+        id: '3137322'
+        link: https://www.goodreads.com/author/show/3137322.Fyodor_Dostoevsky
+        name: Fyodor Dostoevsky
+    average_rating: '4.03'
+    id: '49455'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657562670l/49455._SX98_.jpg
+    isbn: 067973452X
+    isbn13: '9780679734529'
+    link: https://www.goodreads.com/book/show/49455.Notes_from_Underground
+    num_pages: '136'
+    publication_day: null
+    publication_month: '9'
+    publication_year: '1994'
+    ratings_count: '1248176'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657562670l/49455._SY75_.jpg
+    title: Notes from Underground
+    title_without_series: Notes from Underground
+    uri: kca://book/amzn1.gr.book.v1.rIigTrktBuR9ZYPOcbCShg
+    work:
+      id: '50717723'
+  - authors:
+      author:
+        id: '113561'
+        link: https://www.goodreads.com/author/show/113561.Osamu_Dazai
+        name: Osamu Dazai
+    average_rating: '4.03'
+    id: '194746'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422638843l/194746._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/194746.No_Longer_Human
+    num_pages: '176'
+    publication_day: '17'
+    publication_month: '1'
+    publication_year: '1958'
+    ratings_count: '1248176'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422638843l/194746._SY75_.jpg
+    title: No Longer Human
+    title_without_series: No Longer Human
+    uri: kca://book/amzn1.gr.book.v1.i4PoYbOwx_oUlT0yKc54FA
+    work:
+      id: '188338'
+  - authors:
+      author:
+        id: '819789'
+        link: https://www.goodreads.com/author/show/819789.J_D_Salinger
+        name: J.D. Salinger
+    average_rating: '4.03'
+    id: '5107'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107._SX98_.jpg
+    isbn: 0316769177
+    isbn13: '9780316769174'
+    link: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
+    num_pages: '277'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1248176'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107._SY75_.jpg
+    title: The Catcher in the Rye
+    title_without_series: The Catcher in the Rye
+    uri: kca://book/amzn1.gr.book.v1.IqM3-G-EAL6pSFPVNq63FQ
+    work:
+      id: '3036731'
+  - authors:
+      author:
+        id: '1020792'
+        link: https://www.goodreads.com/author/show/1020792.Antoine_de_Saint_Exup_ry
+        name: "Antoine de Saint-Exup\xE9ry"
+    average_rating: '4.03'
+    id: '157993'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367545443l/157993._SX98_.jpg
+    isbn: 0152023984
+    isbn13: '9780152023980'
+    link: https://www.goodreads.com/book/show/157993.The_Little_Prince
+    num_pages: '96'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1248176'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367545443l/157993._SY75_.jpg
+    title: The Little Prince
+    title_without_series: The Little Prince
+    uri: kca://book/amzn1.gr.book.v1.UOzV_dE308M_I5mJxsCmsA
+    work:
+      id: '2180358'
+  - authors:
+      author:
+        id: '4379'
+        link: https://www.goodreads.com/author/show/4379.Sylvia_Plath
+        name: Sylvia Plath
+    average_rating: '4.03'
+    id: '56616095'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668645154l/56616095._SX98_.jpg
+    isbn: 0060837020
+    isbn13: '9780060837020'
+    link: https://www.goodreads.com/book/show/56616095-the-bell-jar
+    num_pages: '288'
+    publication_day: null
+    publication_month: null
+    publication_year: '2006'
+    ratings_count: '1248176'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668645154l/56616095._SX50_.jpg
+    title: The Bell Jar
+    title_without_series: The Bell Jar
+    uri: kca://book/amzn1.gr.book.v3.cKGBgExqB_-TO1jd
+    work:
+      id: '1385044'
+  - authors:
+      author:
+        id: '1455'
+        link: https://www.goodreads.com/author/show/1455.Ernest_Hemingway
+        name: Ernest Hemingway
+    average_rating: '4.03'
+    id: '2165'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329189714l/2165._SX98_.jpg
+    isbn: 0684830493
+    isbn13: '9780684830490'
+    link: https://www.goodreads.com/book/show/2165.The_Old_Man_and_the_Sea
+    num_pages: '96'
+    publication_day: null
+    publication_month: null
+    publication_year: '1996'
+    ratings_count: '1248176'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329189714l/2165._SY75_.jpg
+    title: The Old Man and the Sea
+    title_without_series: The Old Man and the Sea
+    uri: kca://book/amzn1.gr.book.v1.UVd_AiIcOPN9WXQIEhzxeg
+    work:
+      id: '69741'
+  - authors:
+      author:
+        id: '3487'
+        link: https://www.goodreads.com/author/show/3487.Aldous_Huxley
+        name: Aldous Huxley
+    average_rating: '4.03'
+    id: '5129'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575509280l/5129._SX98_.jpg
+    isbn: 0060929871
+    isbn13: '9780060929879'
+    link: https://www.goodreads.com/book/show/5129.Brave_New_World
+    num_pages: '268'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1248176'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575509280l/5129._SY75_.jpg
+    title: Brave New World
+    title_without_series: Brave New World
+    uri: kca://book/amzn1.gr.book.v1.-kk1f25jPWvQSYx7iIvZgQ
+    work:
+      id: '3204877'
+  - authors:
+      author:
+        id: '1113469'
+        link: https://www.goodreads.com/author/show/1113469.Hermann_Hesse
+        name: Hermann Hesse
+    average_rating: '4.03'
+    id: '52036'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629378189l/52036._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/52036.Siddhartha
+    num_pages: '152'
+    publication_day: '1'
+    publication_month: '12'
+    publication_year: '1981'
+    ratings_count: '1248176'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629378189l/52036._SY75_.jpg
+    title: Siddhartha
+    title_without_series: Siddhartha
+    uri: kca://book/amzn1.gr.book.v1.nLh7u9d1KWI6cz_pC-1zHQ
+    work:
+      id: '4840290'
+  - authors:
+      author:
+        id: '1466'
+        link: https://www.goodreads.com/author/show/1466.Jean_Paul_Sartre
+        name: Jean-Paul Sartre
+    average_rating: '4.03'
+    id: '298275'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738688084l/298275._SY160_.jpg
+    isbn: 0811201880
+    isbn13: '9780811201889'
+    link: https://www.goodreads.com/book/show/298275.Nausea
+    num_pages: '178'
+    publication_day: null
+    publication_month: null
+    publication_year: '1969'
+    ratings_count: '1248176'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738688084l/298275._SY75_.jpg
+    title: Nausea
+    title_without_series: Nausea
+    uri: kca://book/amzn1.gr.book.v1.6z4LAbFKQWjM2MaWQJTPyA
+    work:
+      id: '1319935'
+  - authors:
+      author:
+        id: '128382'
+        link: https://www.goodreads.com/author/show/128382.Leo_Tolstoy
+        name: Leo Tolstoy
+    average_rating: '4.03'
+    id: '18386'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663546974l/18386._SX98_.jpg
+    isbn: '1600964338'
+    isbn13: '9781600964336'
+    link: https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1248176'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663546974l/18386._SY75_.jpg
+    title: The Death of Ivan Ilych
+    title_without_series: The Death of Ivan Ilych
+    uri: kca://book/amzn1.gr.book.v1.it7RhPsydQeMtj_nrXV76Q
+    work:
+      id: '234915'
+  - authors:
+      author:
+        id: '1630'
+        link: https://www.goodreads.com/author/show/1630.Ray_Bradbury
+        name: Ray Bradbury
+    average_rating: '4.03'
+    id: '13079982'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383718290l/13079982._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/13079982-fahrenheit-451
+    num_pages: '194'
+    publication_day: '6'
+    publication_month: '12'
+    publication_year: '2011'
+    ratings_count: '1248176'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383718290l/13079982._SY75_.jpg
+    title: Fahrenheit 451
+    title_without_series: Fahrenheit 451
+    uri: kca://book/amzn1.gr.book.v1.t_QHIvTlavta-Y2of512_w
+    work:
+      id: '1272463'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1270257405l/331070._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '543'
+  '@type': integer
+title: The Stranger
+title_without_series: The Stranger
+uri: kca://book/amzn1.gr.book.v1.AzQCWpFWZZyrQvAGYmzWjQ
+url: https://www.goodreads.com/book/show/331070.The_Stranger
+work:
+  id: '3324344'
+  uri: kca://work/amzn1.gr.work.v1.Utz0fvS02P1YxyJHfysyFw

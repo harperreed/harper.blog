@@ -1,0 +1,753 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.79'
+    id: '6878'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1419249254p5/6878.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/6878.John_Updike
+    name: John Updike
+    ratings_count: '312165'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1419249254p2/6878.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '22692'
+average_rating: '3.92'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: Winner of the 1982 Pulitzer Prize for Fiction.<br /><br />Ten years after
+  <i>Rabbit Redux</i>, Harry Angstrom has come to enjoy prosperity as the Chief Sales
+  Representative of Springer Motors. The rest of the world may be falling to pieces,
+  but Harry's doing all right. That is, until his son returns from the West, and the
+  image of an old love pays a visit to his lot....
+edition_information: Reissue
+format: null
+id: '386406'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518491582l/386406._SX98_.jpg
+is_ebook: 'false'
+isbn: 0449911829
+isbn13: '9780449911822'
+json: '{"id": "386406", "isbn": "0449911829", "isbn13": "9780449911822", "text_reviews_count":
+  {"@type": "integer", "#text": "40"}, "uri": "kca://book/amzn1.gr.book.v1.rFMJns99gvLcp8_VwgtMGg",
+  "title": "Rabbit Is Rich (Rabbit Angstrom #3)", "title_without_series": "Rabbit
+  Is Rich", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518491582l/386406._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518491582l/386406._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/386406.Rabbit_Is_Rich",
+  "num_pages": null, "format": null, "edition_information": "Reissue", "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "3.92", "ratings_count": "17542", "description": "Winner of the
+  1982 Pulitzer Prize for Fiction.<br /><br />Ten years after <i>Rabbit Redux</i>,
+  Harry Angstrom has come to enjoy prosperity as the Chief Sales Representative of
+  Springer Motors. The rest of the world may be falling to pieces, but Harry''s doing
+  all right. That is, until his son returns from the West, and the image of an old
+  love pays a visit to his lot....", "authors": {"author": {"id": "6878", "name":
+  "John Updike", "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1419249254p5/6878.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1419249254p2/6878.jpg"},
+  "link": "https://www.goodreads.com/author/show/6878.John_Updike", "average_rating":
+  "3.79", "ratings_count": "312165", "text_reviews_count": "22692"}}, "published":
+  null, "work": {"id": "3101473", "uri": "kca://work/amzn1.gr.work.v1.y1uHA6qW-5XXdLeJMqU3jQ"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417578",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B003WUYRJA
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/386406.Rabbit_Is_Rich
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '13001'
+    '@name': to-read
+  - '@count': '543'
+    '@name': fiction
+  - '@count': '335'
+    '@name': currently-reading
+  - '@count': '248'
+    '@name': pulitzer
+  - '@count': '137'
+    '@name': pulitzer-prize
+  - '@count': '124'
+    '@name': 1001-books
+  - '@count': '107'
+    '@name': classics
+  - '@count': '103'
+    '@name': pulitzer-prize-winners
+  - '@count': '101'
+    '@name': owned
+  - '@count': '89'
+    '@name': favorites
+  - '@count': '83'
+    '@name': national-book-award
+  - '@count': '83'
+    '@name': '1001'
+  - '@count': '75'
+    '@name': pulitzer-winners
+  - '@count': '71'
+    '@name': pulitzer-fiction
+  - '@count': '61'
+    '@name': pulitzers
+  - '@count': '60'
+    '@name': american
+  - '@count': '56'
+    '@name': literature
+  - '@count': '56'
+    '@name': novels
+  - '@count': '51'
+    '@name': literary-fiction
+  - '@count': '48'
+    '@name': 1001-books-to-read-before-you-die
+  - '@count': '45'
+    '@name': pulitzer-prize-fiction
+  - '@count': '41'
+    '@name': series
+  - '@count': '36'
+    '@name': books-i-own
+  - '@count': '34'
+    '@name': 1001-books-to-read
+  - '@count': '33'
+    '@name': literary
+  - '@count': '33'
+    '@name': american-literature
+  - '@count': '31'
+    '@name': library
+  - '@count': '30'
+    '@name': 20th-century
+  - '@count': '28'
+    '@name': kindle
+  - '@count': '27'
+    '@name': novel
+  - '@count': '26'
+    '@name': romance
+  - '@count': '25'
+    '@name': contemporary-fiction
+  - '@count': '24'
+    '@name': john-updike
+  - '@count': '23'
+    '@name': contemporary
+  - '@count': '23'
+    '@name': updike
+  - '@count': '22'
+    '@name': pulitzer-prize-winner
+  - '@count': '22'
+    '@name': pulitzer-prize-for-fiction
+  - '@count': '22'
+    '@name': pulitzer-winner
+  - '@count': '22'
+    '@name': 1980s
+  - '@count': '19'
+    '@name': angstrom
+  - '@count': '19'
+    '@name': general-fiction
+  - '@count': '18'
+    '@name': men
+  - '@count': '18'
+    '@name': harry
+  - '@count': '18'
+    '@name': national-book-award-winners
+  - '@count': '18'
+    '@name': 1001-to-read
+  - '@count': '17'
+    '@name': default
+  - '@count': '17'
+    '@name': character
+  - '@count': '17'
+    '@name': class
+  - '@count': '17'
+    '@name': psychological
+  - '@count': '17'
+    '@name': general
+  - '@count': '17'
+    '@name': ebook
+  - '@count': '16'
+    '@name': 1001-import
+  - '@count': '16'
+    '@name': fictitious
+  - '@count': '16'
+    '@name': ebooks
+  - '@count': '16'
+    '@name': middle
+  - '@count': '16'
+    '@name': 1001-books-you-must-read-before-you
+  - '@count': '15'
+    '@name': owned-books
+  - '@count': '15'
+    '@name': my-library
+  - '@count': '15'
+    '@name': to-buy
+  - '@count': '15'
+    '@name': american-lit
+  - '@count': '14'
+    '@name': modern-classics
+  - '@count': '14'
+    '@name': modern-fiction
+  - '@count': '14'
+    '@name': classic
+  - '@count': '14'
+    '@name': american-fiction
+  - '@count': '13'
+    '@name': english
+  - '@count': '13'
+    '@name': calibre
+  - '@count': '13'
+    '@name': pulitzer-fiction-winners
+  - '@count': '12'
+    '@name': national-book-award-fiction
+  - '@count': '12'
+    '@name': unread
+  - '@count': '12'
+    '@name': pulitzer-winners-fiction
+  - '@count': '12'
+    '@name': award-winners
+  - '@count': '12'
+    '@name': have
+  - '@count': '11'
+    '@name': audiobooks
+  - '@count': '11'
+    '@name': audio
+  - '@count': '11'
+    '@name': e-book
+  - '@count': '11'
+    '@name': usa
+  - '@count': '11'
+    '@name': national-book-critics-circle-award
+  - '@count': '11'
+    '@name': audiobook
+  - '@count': '9'
+    '@name': favourites
+  - '@count': '9'
+    '@name': nba
+  - '@count': '9'
+    '@name': national-book-awards
+  - '@count': '8'
+    '@name': e-books
+  - '@count': '8'
+    '@name': pennsylvania
+  - '@count': '8'
+    '@name': america
+  - '@count': '8'
+    '@name': book-club
+  - '@count': '8'
+    '@name': americana
+  - '@count': '7'
+    '@name': pulitzer-prize-for-fiction-winners
+  - '@count': '7'
+    '@name': awards
+  - '@count': '7'
+    '@name': award-winner
+  - '@count': '7'
+    '@name': united-states
+  - '@count': '7'
+    '@name': best
+  - '@count': '7'
+    '@name': my-books
+  - '@count': '7'
+    '@name': nbcc
+  - '@count': '7'
+    '@name': pulitzer-project
+  - '@count': '7'
+    '@name': 1001-before-you-die
+  - '@count': '7'
+    '@name': national-book-critics-circle
+  - '@count': '6'
+    '@name': tbr
+  - '@count': '6'
+    '@name': fiction-general
+  - '@count': '6'
+    '@name': award-pulitzer-prize
+  - '@count': '6'
+    '@name': bookshelf
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '17542'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417578
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/386406.Rabbit_Is_Rich\"\
+  >Rabbit Is Rich Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0449911829&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/386406.Rabbit_Is_Rich?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '237926'
+    series:
+      description: null
+      id: '57543'
+      note: null
+      numbered: 'true'
+      primary_work_count: '5'
+      series_works_count: '8'
+      title: Rabbit Angstrom
+    user_position: '3'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '26090'
+        link: https://www.goodreads.com/author/show/26090.William_Kennedy
+        name: William  Kennedy
+    average_rating: '3.92'
+    id: '267243'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408926209l/267243._SX98_.jpg
+    isbn: '0743263065'
+    isbn13: '9780743263061'
+    link: https://www.goodreads.com/book/show/267243.Ironweed
+    num_pages: '208'
+    publication_day: '30'
+    publication_month: '9'
+    publication_year: '2004'
+    ratings_count: '17542'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408926209l/267243._SY75_.jpg
+    title: Ironweed
+    title_without_series: Ironweed
+    uri: kca://book/amzn1.gr.book.v1.rNDSrsooit7CwAQT8b96-Q
+    work:
+      id: '1268146'
+  - authors:
+      author:
+        id: '4391'
+        link: https://www.goodreads.com/author/show/4391.Saul_Bellow
+        name: Saul Bellow
+    average_rating: '3.92'
+    id: '11494'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0140189440
+    isbn13: '9780140189445'
+    link: https://www.goodreads.com/book/show/11494.Humboldt_s_Gift
+    num_pages: '487'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17542'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Humboldt's Gift
+    title_without_series: Humboldt's Gift
+    uri: kca://book/amzn1.gr.book.v1.HfIM1C4jpJXX4L2XKmr2yA
+    work:
+      id: '1644010'
+  - authors:
+      author:
+        id: '7849'
+        link: https://www.goodreads.com/author/show/7849.Richard_Ford
+        name: Richard Ford
+    average_rating: '3.92'
+    id: '12374'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0099447126
+    isbn13: '9780099447122'
+    link: https://www.goodreads.com/book/show/12374.Independence_Day
+    num_pages: '464'
+    publication_day: null
+    publication_month: null
+    publication_year: '2003'
+    ratings_count: '17542'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Independence Day
+    title_without_series: Independence Day
+    uri: kca://book/amzn1.gr.book.v1.PCAlTL-wq4wcchAV591a3Q
+    work:
+      id: '2199385'
+  - authors:
+      author:
+        id: '34191'
+        link: https://www.goodreads.com/author/show/34191.Peter_Taylor
+        name: Peter Taylor
+    average_rating: '3.92'
+    id: '60737'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403165310l/60737._SX98_.jpg
+    isbn: '0375701176'
+    isbn13: '9780375701177'
+    link: https://www.goodreads.com/book/show/60737.A_Summons_to_Memphis
+    num_pages: '209'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17542'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403165310l/60737._SY75_.jpg
+    title: A Summons to Memphis
+    title_without_series: A Summons to Memphis
+    uri: kca://book/amzn1.gr.book.v1.OadlvpupZwJRgBXsDvLrWA
+    work:
+      id: '59093'
+  - authors:
+      author:
+        id: '7927'
+        link: https://www.goodreads.com/author/show/7927.Norman_Mailer
+        name: Norman Mailer
+    average_rating: '3.92'
+    id: '12468'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325755176l/12468._SX98_.jpg
+    isbn: 0375700811
+    isbn13: '9780375700811'
+    link: https://www.goodreads.com/book/show/12468.The_Executioner_s_Song
+    num_pages: '1056'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17542'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325755176l/12468._SY75_.jpg
+    title: The Executioner's Song
+    title_without_series: The Executioner's Song
+    uri: kca://book/amzn1.gr.book.v1.GqsWPSyJW1PFv2zHLqBSGw
+    work:
+      id: '838965'
+  - authors:
+      author:
+        id: '7457'
+        link: https://www.goodreads.com/author/show/7457.Oscar_Hijuelos
+        name: Oscar Hijuelos
+    average_rating: '3.92'
+    id: '294081'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330072994l/294081._SX98_.jpg
+    isbn: 0140143912
+    isbn13: '9780140143911'
+    link: https://www.goodreads.com/book/show/294081.The_Mambo_Kings_Play_Songs_of_Love
+    num_pages: '407'
+    publication_day: null
+    publication_month: null
+    publication_year: '1990'
+    ratings_count: '17542'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330072994l/294081._SY75_.jpg
+    title: The Mambo Kings Play Songs of Love
+    title_without_series: The Mambo Kings Play Songs of Love
+    uri: kca://book/amzn1.gr.book.v1.rqNFQyem-Y9Rnmx17yoMeA
+    work:
+      id: '14081'
+  - authors:
+      author:
+        id: '90820'
+        link: https://www.goodreads.com/author/show/90820.Robert_Olen_Butler
+        name: Robert Olen Butler
+    average_rating: '3.92'
+    id: '261601'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0802137989
+    isbn13: '9780802137982'
+    link: https://www.goodreads.com/book/show/261601.A_Good_Scent_from_a_Strange_Mountain
+    num_pages: '269'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17542'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: A Good Scent from a Strange Mountain
+    title_without_series: A Good Scent from a Strange Mountain
+    uri: kca://book/amzn1.gr.book.v1.Yn4wfgpQEPfGI0MLBdhDEw
+    work:
+      id: '1773531'
+  - authors:
+      author:
+        id: '2046'
+        link: https://www.goodreads.com/author/show/2046.Alison_Lurie
+        name: Alison Lurie
+    average_rating: '3.92'
+    id: '202897'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0812976312
+    isbn13: '9780812976311'
+    link: https://www.goodreads.com/book/show/202897.Foreign_Affairs
+    num_pages: '292'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17542'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Foreign Affairs
+    title_without_series: Foreign Affairs
+    uri: kca://book/amzn1.gr.book.v1.YgsZ-ykCiA4pvcTCakzLXw
+    work:
+      id: '1808016'
+  - authors:
+      author:
+        id: '12589'
+        link: https://www.goodreads.com/author/show/12589.Steven_Millhauser
+        name: Steven Millhauser
+    average_rating: '3.92'
+    id: '40856825'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531850270l/40856825._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/40856825-martin-dressler
+    num_pages: '306'
+    publication_day: '1'
+    publication_month: '9'
+    publication_year: '2010'
+    ratings_count: '17542'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531850270l/40856825._SY75_.jpg
+    title: 'Martin Dressler: The Tale of an American Dreamer'
+    title_without_series: 'Martin Dressler: The Tale of an American Dreamer'
+    uri: kca://book/amzn1.gr.book.v1.54lDYdyIdSwuzdJgKsYyNw
+    work:
+      id: '1295054'
+  - authors:
+      author:
+        id: '4391'
+        link: https://www.goodreads.com/author/show/4391.Saul_Bellow
+        name: Saul Bellow
+    average_rating: '3.92'
+    id: '11908'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0143039571
+    isbn13: '9780143039570'
+    link: https://www.goodreads.com/book/show/11908.The_Adventures_of_Augie_March
+    num_pages: '586'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17542'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Adventures of Augie March
+    title_without_series: The Adventures of Augie March
+    uri: kca://book/amzn1.gr.book.v1.4SWbxrBVSV5kutj35DRYQA
+    work:
+      id: '2453177'
+  - authors:
+      author:
+        id: '457'
+        link: https://www.goodreads.com/author/show/457.Anne_Tyler
+        name: Anne Tyler
+    average_rating: '3.92'
+    id: '31181'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389130508l/31181._SY160_.jpg
+    isbn: 0345485599
+    isbn13: '9780345485595'
+    link: https://www.goodreads.com/book/show/31181.Breathing_Lessons
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17542'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389130508l/31181._SY75_.jpg
+    title: Breathing Lessons
+    title_without_series: Breathing Lessons
+    uri: kca://book/amzn1.gr.book.v1.YhEGmFPELCZQcWWe8xVGHA
+    work:
+      id: '3766822'
+  - authors:
+      author:
+        id: '463'
+        link: https://www.goodreads.com/author/show/463.Philip_Roth
+        name: Philip Roth
+    average_rating: '3.92'
+    id: '11654'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327935642l/11654._SX98_.jpg
+    isbn: 0679772596
+    isbn13: '9780679772590'
+    link: https://www.goodreads.com/book/show/11654.Sabbath_s_Theater
+    num_pages: '451'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17542'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327935642l/11654._SY75_.jpg
+    title: Sabbath's Theater
+    title_without_series: Sabbath's Theater
+    uri: kca://book/amzn1.gr.book.v1.LSNeno2KfK2sY8u_jfr7ng
+    work:
+      id: '588'
+  - authors:
+      author:
+        id: '29611'
+        link: https://www.goodreads.com/author/show/29611.James_Agee
+        name: James Agee
+    average_rating: '3.92'
+    id: '113091'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327885315l/113091._SX98_.jpg
+    isbn: '0375701230'
+    isbn13: '9780375701238'
+    link: https://www.goodreads.com/book/show/113091.A_Death_in_the_Family
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17542'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327885315l/113091._SY75_.jpg
+    title: A Death in the Family
+    title_without_series: A Death in the Family
+    uri: kca://book/amzn1.gr.book.v1.RkicvcL_6r7P0EX92on3Mw
+    work:
+      id: '2115367'
+  - authors:
+      author:
+        id: '4391'
+        link: https://www.goodreads.com/author/show/4391.Saul_Bellow
+        name: Saul Bellow
+    average_rating: '3.92'
+    id: '6551'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924221l/6551._SX98_.jpg
+    isbn: 0142437298
+    isbn13: '9780142437292'
+    link: https://www.goodreads.com/book/show/6551.Herzog
+    num_pages: '371'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17542'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924221l/6551._SY75_.jpg
+    title: Herzog
+    title_without_series: Herzog
+    uri: kca://book/amzn1.gr.book.v1.RgExvlYwUVo9g1VM0SMn9A
+    work:
+      id: '2088454'
+  - authors:
+      author:
+        id: '7849'
+        link: https://www.goodreads.com/author/show/7849.Richard_Ford
+        name: Richard Ford
+    average_rating: '3.92'
+    id: '40722'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327936345l/40722._SX98_.jpg
+    isbn: 0394743253
+    isbn13: '9780394743257'
+    link: https://www.goodreads.com/book/show/40722.The_Sportswriter
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17542'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327936345l/40722._SY75_.jpg
+    title: The Sportswriter
+    title_without_series: The Sportswriter
+    uri: kca://book/amzn1.gr.book.v1.dmv1jSn5dCkskp6zHaUMBQ
+    work:
+      id: '14675'
+  - authors:
+      author:
+        id: '463'
+        link: https://www.goodreads.com/author/show/463.Philip_Roth
+        name: Philip Roth
+    average_rating: '3.92'
+    id: '11650'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504801263l/11650._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/11650.American_Pastoral
+    num_pages: '432'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17542'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504801263l/11650._SY75_.jpg
+    title: American Pastoral
+    title_without_series: American Pastoral
+    uri: kca://book/amzn1.gr.book.v1.AJ7pkX0X4cIFcqUXolYu0Q
+    work:
+      id: '598119'
+  - authors:
+      author:
+        id: '3535'
+        link: https://www.goodreads.com/author/show/3535.William_Faulkner
+        name: William Faulkner
+    average_rating: '3.92'
+    id: '210825'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393062591l/210825._SX98_.jpg
+    isbn: 0679741925
+    isbn13: '9780679741923'
+    link: https://www.goodreads.com/book/show/210825.The_Reivers
+    num_pages: '305'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17542'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393062591l/210825._SY75_.jpg
+    title: The Reivers
+    title_without_series: The Reivers
+    uri: kca://book/amzn1.gr.book.v1.A5RBYtGgUGCz1ym4S6W0ZQ
+    work:
+      id: '3127511'
+  - authors:
+      author:
+        id: '5735'
+        link: https://www.goodreads.com/author/show/5735.Anthony_Burgess
+        name: Anthony Burgess
+    average_rating: '3.92'
+    id: '8822'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355598044l/8822._SX98_.jpg
+    isbn: 0099468646
+    isbn13: '9780099468646'
+    link: https://www.goodreads.com/book/show/8822.Earthly_Powers
+    num_pages: '649'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17542'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355598044l/8822._SY75_.jpg
+    title: Earthly Powers
+    title_without_series: Earthly Powers
+    uri: kca://book/amzn1.gr.book.v1.Ymb9BObdn1jvvI0B3TVybw
+    work:
+      id: '1282899'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518491582l/386406._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '40'
+  '@type': integer
+title: 'Rabbit Is Rich (Rabbit Angstrom #3)'
+title_without_series: Rabbit Is Rich
+uri: kca://book/amzn1.gr.book.v1.rFMJns99gvLcp8_VwgtMGg
+url: https://www.goodreads.com/book/show/386406.Rabbit_Is_Rich
+work:
+  id: '3101473'
+  uri: kca://work/amzn1.gr.work.v1.y1uHA6qW-5XXdLeJMqU3jQ

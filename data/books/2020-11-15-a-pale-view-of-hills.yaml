@@ -1,0 +1,742 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.84'
+    id: '4280'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1424906625p5/4280.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/4280.Kazuo_Ishiguro
+    name: Kazuo Ishiguro
+    ratings_count: '1790277'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1424906625p2/4280.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '166970'
+average_rating: '3.79'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2020-11-15T00:00:00-08:00'
+description: The story of Etsuko, a Japanese woman now living alone in England, dwelling
+  on the recent suicide of her daughter. In a story where past and present confuse,
+  she relives scenes of Japan's devastation in the wake of World War II.
+edition_information: US Edition
+format: Kindle Edition
+id: '18144253'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372714028l/18144253._SX98_.jpg
+is_ebook: 'true'
+isbn: 0307829073
+isbn13: '9780307829078'
+json: '{"id": "18144253", "isbn": "0307829073", "isbn13": "9780307829078", "text_reviews_count":
+  {"@type": "integer", "#text": "115"}, "uri": "kca://book/amzn1.gr.book.v1.diTbk9UjuzkQw-YFvFwUPw",
+  "title": "A Pale View of Hills", "title_without_series": "A Pale View of Hills",
+  "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372714028l/18144253._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372714028l/18144253._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/18144253-a-pale-view-of-hills",
+  "num_pages": "196", "format": "Kindle Edition", "edition_information": "US Edition",
+  "publisher": "Vintage", "publication_day": "5", "publication_year": "2012", "publication_month":
+  "9", "average_rating": "3.79", "ratings_count": "39013", "description": "The story
+  of Etsuko, a Japanese woman now living alone in England, dwelling on the recent
+  suicide of her daughter. In a story where past and present confuse, she relives
+  scenes of Japan''s devastation in the wake of World War II.", "authors": {"author":
+  {"id": "4280", "name": "Kazuo Ishiguro", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1424906625p5/4280.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1424906625p2/4280.jpg"},
+  "link": "https://www.goodreads.com/author/show/4280.Kazuo_Ishiguro", "average_rating":
+  "3.84", "ratings_count": "1790277", "text_reviews_count": "166970"}}, "published":
+  "2012", "work": {"id": "1676317", "uri": "kca://work/amzn1.gr.work.v1.TRG36UjW66Pjgz6ZAzLJNQ"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/3643979736",
+  "read_at": "Sun Nov 15 00:00:00 -0800 2020", "started_at": "Fri Nov 13 00:00:00
+  -0800 2020", "date": "Sun Nov 15 00:00:00 -0800 2020"}'
+kindle_asin: B008WOO7DM
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/18144253-a-pale-view-of-hills
+marketplace_id: ATVPDKIKX0DER
+num_pages: '196'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '36529'
+    '@name': to-read
+  - '@count': '1226'
+    '@name': currently-reading
+  - '@count': '1035'
+    '@name': fiction
+  - '@count': '384'
+    '@name': japan
+  - '@count': '345'
+    '@name': historical-fiction
+  - '@count': '290'
+    '@name': favorites
+  - '@count': '240'
+    '@name': owned
+  - '@count': '173'
+    '@name': 1001-books
+  - '@count': '166'
+    '@name': literary-fiction
+  - '@count': '147'
+    '@name': japanese
+  - '@count': '117'
+    '@name': contemporary
+  - '@count': '116'
+    '@name': '1001'
+  - '@count': '114'
+    '@name': novels
+  - '@count': '104'
+    '@name': japanese-literature
+  - '@count': '96'
+    '@name': literature
+  - '@count': '91'
+    '@name': historical
+  - '@count': '91'
+    '@name': library
+  - '@count': '89'
+    '@name': books-i-own
+  - '@count': '85'
+    '@name': asia
+  - '@count': '82'
+    '@name': kazuo-ishiguro
+  - '@count': '81'
+    '@name': novel
+  - '@count': '76'
+    '@name': physical-tbr
+  - '@count': '67'
+    '@name': to-buy
+  - '@count': '62'
+    '@name': japanese-lit
+  - '@count': '59'
+    '@name': british
+  - '@count': '58'
+    '@name': english
+  - '@count': '57'
+    '@name': 20th-century
+  - '@count': '55'
+    '@name': audiobook
+  - '@count': '52'
+    '@name': nobel
+  - '@count': '51'
+    '@name': kindle
+  - '@count': '51'
+    '@name': 1001-books-to-read-before-you-die
+  - '@count': '50'
+    '@name': favourites
+  - '@count': '50'
+    '@name': classics
+  - '@count': '50'
+    '@name': ishiguro
+  - '@count': '47'
+    '@name': owned-books
+  - '@count': '45'
+    '@name': ebook
+  - '@count': '45'
+    '@name': literary
+  - '@count': '44'
+    '@name': england
+  - '@count': '43'
+    '@name': audiobooks
+  - '@count': '42'
+    '@name': tbr
+  - '@count': '41'
+    '@name': nobel-prize
+  - '@count': '39'
+    '@name': book-club
+  - '@count': '39'
+    '@name': asian
+  - '@count': '37'
+    '@name': asian-literature
+  - '@count': '37'
+    '@name': british-literature
+  - '@count': '36'
+    '@name': 1980s
+  - '@count': '36'
+    '@name': my-library
+  - '@count': '36'
+    '@name': contemporary-fiction
+  - '@count': '35'
+    '@name': uk
+  - '@count': '33'
+    '@name': general-fiction
+  - '@count': '31'
+    '@name': asian-lit
+  - '@count': '31'
+    '@name': 1001-books-to-read
+  - '@count': '27'
+    '@name': history
+  - '@count': '25'
+    '@name': audio
+  - '@count': '25'
+    '@name': japanese-fiction
+  - '@count': '24'
+    '@name': unreliable-narrator
+  - '@count': '23'
+    '@name': default
+  - '@count': '23'
+    '@name': adult
+  - '@count': '22'
+    '@name': home-library
+  - '@count': '22'
+    '@name': war
+  - '@count': '22'
+    '@name': 1001-to-read
+  - '@count': '22'
+    '@name': japanese-authors
+  - '@count': '21'
+    '@name': my-books
+  - '@count': '21'
+    '@name': english-literature
+  - '@count': '21'
+    '@name': british-lit
+  - '@count': '21'
+    '@name': read-in-english
+  - '@count': '21'
+    '@name': bookshelf
+  - '@count': '21'
+    '@name': adult-fiction
+  - '@count': '20'
+    '@name': dnf
+  - '@count': '20'
+    '@name': lit-fic
+  - '@count': '20'
+    '@name': drama
+  - '@count': '19'
+    '@name': read-in-2022
+  - '@count': '19'
+    '@name': wish-list
+  - '@count': '18'
+    '@name': read-in-2021
+  - '@count': '18'
+    '@name': read-in-2018
+  - '@count': '18'
+    '@name': on-my-shelf
+  - '@count': '18'
+    '@name': maybe
+  - '@count': '18'
+    '@name': e-books
+  - '@count': '18'
+    '@name': mystery
+  - '@count': '18'
+    '@name': ebooks
+  - '@count': '18'
+    '@name': cultural
+  - '@count': '17'
+    '@name': want-to-buy
+  - '@count': '17'
+    '@name': family
+  - '@count': '16'
+    '@name': read-2024
+  - '@count': '16'
+    '@name': read-2023
+  - '@count': '16'
+    '@name': nobel-laureates
+  - '@count': '16'
+    '@name': 1001-import
+  - '@count': '16'
+    '@name': wwii
+  - '@count': '16'
+    '@name': debut
+  - '@count': '15'
+    '@name': read-2022
+  - '@count': '15'
+    '@name': read-in-2020
+  - '@count': '15'
+    '@name': read-in-2019
+  - '@count': '15'
+    '@name': owned-tbr
+  - '@count': '15'
+    '@name': read-in-2015
+  - '@count': '15'
+    '@name': britain
+  - '@count': '15'
+    '@name': e-book
+  - '@count': '14'
+    '@name': short
+  - '@count': '14'
+    '@name': sub
+  - '@count': '14'
+    '@name': suicide
+  - '@count': '14'
+    '@name': 1001-books-you-must-read-before-you
+publication_day: '5'
+publication_month: '9'
+publication_year: '2012'
+published: '2012'
+publisher: Vintage
+ratings_count: '39013'
+read_at: '2020-11-15T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/3643979736
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/18144253-a-pale-view-of-hills\"\
+  >A Pale View of Hills Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0307829073&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/18144253-a-pale-view-of-hills?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '5031025'
+        link: https://www.goodreads.com/author/show/5031025.Anton_Chekhov
+        name: Anton Chekhov
+    average_rating: '3.79'
+    id: '25815799'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528484200l/25815799._SX98_.jpg
+    isbn: '1443447994'
+    isbn13: '9781443447997'
+    link: https://www.goodreads.com/book/show/25815799-peasants
+    num_pages: '44'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '39013'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528484200l/25815799._SY75_.jpg
+    title: Peasants
+    title_without_series: Peasants
+    uri: kca://book/amzn1.gr.book.v1.WFUbreb4mqzZs02pj8lYPA
+    work:
+      id: '228018678'
+  - authors:
+      author:
+        id: '1569475'
+        link: https://www.goodreads.com/author/show/1569475._
+        name: "\u0639\u0645\u0631 \u0637\u0627\u0647\u0631"
+    average_rating: '3.79'
+    id: '16121517'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351733721l/16121517._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/16121517
+    num_pages: '32'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '39013'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351733721l/16121517._SX50_.jpg
+    title: "\u0623\u0642\u0648\u0627\u0644 \u0628\u0631\u0645\u0627"
+    title_without_series: "\u0623\u0642\u0648\u0627\u0644 \u0628\u0631\u0645\u0627"
+    uri: kca://book/amzn1.gr.book.v1.CShelI272S4oKJPbJEMdSA
+    work:
+      id: '21942183'
+  - authors:
+      author:
+        id: '1918920'
+        link: https://www.goodreads.com/author/show/1918920.Samantha_Harvey
+        name: Samantha Harvey
+    average_rating: '3.79'
+    id: '123136728'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1682375874l/123136728._SX98_.jpg
+    isbn: 0802161545
+    isbn13: '9780802161543'
+    link: https://www.goodreads.com/book/show/123136728-orbital
+    num_pages: '207'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '39013'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1682375874l/123136728._SY75_.jpg
+    title: Orbital
+    title_without_series: Orbital
+    uri: kca://book/amzn1.gr.book.v3.n9pJU1tfOcRyTjHT
+    work:
+      id: '120178902'
+  - authors:
+      author:
+        id: '4119155'
+        link: https://www.goodreads.com/author/show/4119155.Han_Kang
+        name: Han Kang
+    average_rating: '3.79'
+    id: '25489025'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728661771l/25489025._SX98_.jpg
+    isbn: 0553448188
+    isbn13: '9780553448184'
+    link: https://www.goodreads.com/book/show/25489025-the-vegetarian
+    num_pages: '188'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '39013'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728661771l/25489025._SY75_.jpg
+    title: The Vegetarian
+    title_without_series: The Vegetarian
+    uri: kca://book/amzn1.gr.book.v1.i9drUaX1sIwjy4vP2rb1Gw
+    work:
+      id: '18449744'
+  - authors:
+      author:
+        id: '14416938'
+        link: https://www.goodreads.com/author/show/14416938._
+        name: "\u0639\u0627\u0631\u0641 \u062D\u062C\u0627\u0648\u064A"
+    average_rating: '3.79'
+    id: '28004044'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448954112l/28004044.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/28004044
+    num_pages: '95'
+    publication_day: '24'
+    publication_month: '8'
+    publication_year: '2015'
+    ratings_count: '39013'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448954112l/28004044._SX50_.jpg
+    title: "\u062D\u064A\u0627\u062A\u064A \u0641\u064A \u0627\u0644\u0625\u0639\u0644\
+      \u0627\u0645"
+    title_without_series: "\u062D\u064A\u0627\u062A\u064A \u0641\u064A \u0627\u0644\
+      \u0625\u0639\u0644\u0627\u0645"
+    uri: kca://book/amzn1.gr.book.v1.8McO72BXuQdAd3Il-uNpgQ
+    work:
+      id: '48009160'
+  - authors:
+      author:
+        id: '3354'
+        link: https://www.goodreads.com/author/show/3354.Haruki_Murakami
+        name: Haruki Murakami
+    average_rating: '3.79'
+    id: '209192695'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1709742028l/209192695._SX98_.jpg
+    isbn: 0593801970
+    isbn13: '9780593801970'
+    link: https://www.goodreads.com/book/show/209192695-the-city-and-its-uncertain-walls
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '39013'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1709742028l/209192695._SX50_.jpg
+    title: The City and Its Uncertain Walls
+    title_without_series: The City and Its Uncertain Walls
+    uri: kca://book/amzn1.gr.book.v3.oAhZMdKMmffmsl3c
+    work:
+      id: '135081785'
+  - authors:
+      author:
+        id: '15860970'
+        link: https://www.goodreads.com/author/show/15860970.Sally_Rooney
+        name: Sally Rooney
+    average_rating: '3.79'
+    id: '208931300'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716387455l/208931300._SX98_.jpg
+    isbn: 0374602638
+    isbn13: '9780374602635'
+    link: https://www.goodreads.com/book/show/208931300-intermezzo
+    num_pages: '454'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '39013'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716387455l/208931300._SY75_.jpg
+    title: Intermezzo
+    title_without_series: Intermezzo
+    uri: kca://book/amzn1.gr.book.v3.76uAiVKL5834lcUs
+    work:
+      id: '215458376'
+  - authors:
+      author:
+        id: '5559451'
+        link: https://www.goodreads.com/author/show/5559451.Mieko_Kawakami
+        name: Mieko Kawakami
+    average_rating: '3.79'
+    id: '59336625'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637059389l/59336625._SX98_.jpg
+    isbn: '1609456998'
+    isbn13: '9781609456993'
+    link: https://www.goodreads.com/book/show/59336625-all-the-lovers-in-the-night
+    num_pages: '224'
+    publication_day: '3'
+    publication_month: '5'
+    publication_year: '2022'
+    ratings_count: '39013'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637059389l/59336625._SY75_.jpg
+    title: All the Lovers in the Night
+    title_without_series: All the Lovers in the Night
+    uri: kca://book/amzn1.gr.book.v3.aNrtQhW6-uNqviv3
+    work:
+      id: '40898049'
+  - authors:
+      author:
+        id: '4119155'
+        link: https://www.goodreads.com/author/show/4119155.Han_Kang
+        name: Han Kang
+    average_rating: '3.79'
+    id: '61686012'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733711419l/61686012._SX98_.jpg
+    isbn: 0593595270
+    isbn13: '9780593595275'
+    link: https://www.goodreads.com/book/show/61686012-greek-lessons
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '39013'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733711419l/61686012._SY75_.jpg
+    title: Greek Lessons
+    title_without_series: Greek Lessons
+    uri: kca://book/amzn1.gr.book.v3.nxCYDewJ_h3TIeVz
+    work:
+      id: '42281994'
+  - authors:
+      author:
+        id: '3354'
+        link: https://www.goodreads.com/author/show/3354.Haruki_Murakami
+        name: Haruki Murakami
+    average_rating: '3.79'
+    id: '11297'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1713542603l/11297._SX98_.jpg
+    isbn: '0375704027'
+    isbn13: '9780375704024'
+    link: https://www.goodreads.com/book/show/11297.Norwegian_Wood
+    num_pages: '296'
+    publication_day: '12'
+    publication_month: '9'
+    publication_year: '2000'
+    ratings_count: '39013'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1713542603l/11297._SY75_.jpg
+    title: Norwegian Wood
+    title_without_series: Norwegian Wood
+    uri: kca://book/amzn1.gr.book.v1.AlP6ID8bNidEco9FBwNaNA
+    work:
+      id: '2956680'
+  - authors:
+      author:
+        id: '4119155'
+        link: https://www.goodreads.com/author/show/4119155.Han_Kang
+        name: Han Kang
+    average_rating: '3.79'
+    id: '30091914'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728665520l/30091914._SX98_.jpg
+    isbn: '1101906723'
+    isbn13: '9781101906729'
+    link: https://www.goodreads.com/book/show/30091914-human-acts
+    num_pages: '218'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '39013'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728665520l/30091914._SY75_.jpg
+    title: Human Acts
+    title_without_series: Human Acts
+    uri: kca://book/amzn1.gr.book.v1.15zOEeOw93eLgWUrbk00uA
+    work:
+      id: '48190343'
+  - authors:
+      author:
+        id: '6559152'
+        link: https://www.goodreads.com/author/show/6559152._
+        name: "\u0631\u0634\u0627\u062F \u0623\u0628\u0648 \u0634\u0627\u0648\u0631"
+    average_rating: '3.79'
+    id: '34746876'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491032757l/34746876._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/34746876
+    num_pages: '71'
+    publication_day: null
+    publication_month: null
+    publication_year: '1979'
+    ratings_count: '39013'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491032757l/34746876._SX50_.jpg
+    title: "\u0623\u0631\u0636 \u0627\u0644\u0639\u0633\u0644"
+    title_without_series: "\u0623\u0631\u0636 \u0627\u0644\u0639\u0633\u0644"
+    uri: kca://book/amzn1.gr.book.v1.B8ziLGzTdsCuenZ5Zhd16w
+    work:
+      id: '55938766'
+  - authors:
+      author:
+        id: '274817'
+        link: https://www.goodreads.com/author/show/274817.Claire_Keegan
+        name: Claire Keegan
+    average_rating: '3.79'
+    id: '58662236'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734631773l/58662236._SX98_.jpg
+    isbn: 0802158749
+    isbn13: '9780802158741'
+    link: https://www.goodreads.com/book/show/58662236-small-things-like-these
+    num_pages: '128'
+    publication_day: '30'
+    publication_month: '11'
+    publication_year: '2021'
+    ratings_count: '39013'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734631773l/58662236._SX50_.jpg
+    title: Small Things Like These
+    title_without_series: Small Things Like These
+    uri: kca://book/amzn1.gr.book.v3.N4sHeNvxKefaiznw
+    work:
+      id: '86476810'
+  - authors:
+      author:
+        id: '14071697'
+        link: https://www.goodreads.com/author/show/14071697.Asako_Yuzuki
+        name: Asako Yuzuki
+    average_rating: '3.79'
+    id: '200776812'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698348373l/200776812._SX98_.jpg
+    isbn: '0063236400'
+    isbn13: '9780063236400'
+    link: https://www.goodreads.com/book/show/200776812-butter
+    num_pages: '464'
+    publication_day: '16'
+    publication_month: '4'
+    publication_year: '2024'
+    ratings_count: '39013'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698348373l/200776812._SY75_.jpg
+    title: Butter
+    title_without_series: Butter
+    uri: kca://book/amzn1.gr.book.v3._xUsRZzsh8yYBIR7
+    work:
+      id: '63331482'
+  - authors:
+      author:
+        id: '20016133'
+        link: https://www.goodreads.com/author/show/20016133.Katarzyna_Jasio_ek
+        name: "Katarzyna Jasio\u0142ek"
+    average_rating: '3.79'
+    id: '127067818'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1720328747l/127067818._SX98_.jpg
+    isbn: '8367406656'
+    isbn13: '9788367406659'
+    link: https://www.goodreads.com/book/show/127067818-hanna-lachert-wygoda-wa-niejsza-ni-pi-kno
+    num_pages: null
+    publication_day: '16'
+    publication_month: '11'
+    publication_year: '2022'
+    ratings_count: '39013'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1720328747l/127067818._SX50_.jpg
+    title: "Hanna Lachert. Wygoda wa\u017Cniejsza ni\u017C pi\u0119kno"
+    title_without_series: "Hanna Lachert. Wygoda wa\u017Cniejsza ni\u017C pi\u0119\
+      kno"
+    uri: kca://book/amzn1.gr.book.v3.txPf505JcaSwxrAO
+    work:
+      id: '98568188'
+  - authors:
+      author:
+        id: '7620'
+        link: https://www.goodreads.com/author/show/7620.Jacqueline_Harpman
+        name: Jacqueline Harpman
+    average_rating: '3.79'
+    id: '60811826'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649947133l/60811826._SX98_.jpg
+    isbn: '1945492600'
+    isbn13: '9781945492600'
+    link: https://www.goodreads.com/book/show/60811826-i-who-have-never-known-men
+    num_pages: '208'
+    publication_day: '10'
+    publication_month: '5'
+    publication_year: '2022'
+    ratings_count: '39013'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649947133l/60811826._SY75_.jpg
+    title: I Who Have Never Known Men
+    title_without_series: I Who Have Never Known Men
+    uri: kca://book/amzn1.gr.book.v3.HXCTkkK0ZVMP6vCi
+    work:
+      id: '14356'
+  - authors:
+      author:
+        id: '5559451'
+        link: https://www.goodreads.com/author/show/5559451.Mieko_Kawakami
+        name: Mieko Kawakami
+    average_rating: '3.79'
+    id: '50736031'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1609455878'
+    isbn13: '9781609455873'
+    link: https://www.goodreads.com/book/show/50736031-breasts-and-eggs
+    num_pages: '430'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '39013'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Breasts and Eggs
+    title_without_series: Breasts and Eggs
+    uri: kca://book/amzn1.gr.book.v3.fW6k1p_UToppCphj
+    work:
+      id: '74401064'
+  - authors:
+      author:
+        id: '5559451'
+        link: https://www.goodreads.com/author/show/5559451.Mieko_Kawakami
+        name: Mieko Kawakami
+    average_rating: '3.79'
+    id: '53223710'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615916179l/53223710._SX98_.jpg
+    isbn: '1609456211'
+    isbn13: '9781609456214'
+    link: https://www.goodreads.com/book/show/53223710-heaven
+    num_pages: '192'
+    publication_day: '25'
+    publication_month: '5'
+    publication_year: '2021'
+    ratings_count: '39013'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615916179l/53223710._SY75_.jpg
+    title: Heaven
+    title_without_series: Heaven
+    uri: kca://book/amzn1.gr.book.v3.tcw2oPCJcsqfoQ4v
+    work:
+      id: '7124935'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372714028l/18144253._SY75_.jpg
+started_at: '2020-11-13T00:00:00-08:00'
+text_reviews_count:
+  '#text': '115'
+  '@type': integer
+title: A Pale View of Hills
+title_without_series: A Pale View of Hills
+uri: kca://book/amzn1.gr.book.v1.diTbk9UjuzkQw-YFvFwUPw
+url: https://www.goodreads.com/book/show/18144253-a-pale-view-of-hills
+work:
+  id: '1676317'
+  uri: kca://work/amzn1.gr.work.v1.TRG36UjW66Pjgz6ZAzLJNQ

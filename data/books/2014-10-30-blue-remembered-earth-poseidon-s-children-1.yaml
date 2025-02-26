@@ -1,0 +1,773 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.03'
+    id: '51204'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1521740247p5/51204.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/51204.Alastair_Reynolds
+    name: Alastair Reynolds
+    ratings_count: '373894'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1521740247p2/51204.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '23414'
+average_rating: '3.88'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2014-10-30T00:00:00-07:00'
+description: "One hundred and fifty years from now, Africa has become the world\u2019\
+  s dominant technological and economic power. Crime, war, disease and poverty have\
+  \ been practically eliminated. The Moon and Mars are settled, and colonies stretch\
+  \ all the way out to the edge of the solar system. And Ocular, the largest scientific\
+  \ instrument in history, is about to make an epochal discovery\u2026<br /> <br />Geoffrey\
+  \ Akinya wants only one thing: to be left in peace, so that he can continue his\
+  \ long-running studies into the elephants of the Amboseli basin. But Geoffrey\u2019\
+  s family, which controls the vast Akinya business empire, has other plans for him.\
+  \ After the death of his grandmother Eunice\u2014the erstwhile space explorer and\
+  \ entrepreneur\u2014something awkward has come to light on the Moon, so Geoffrey\
+  \ is dispatched there to ensure the family name remains untarnished.<br /> <br />But\
+  \ the secrets Eunice died with are about to be revealed\u2014secrets that could\
+  \ change everything...or tear this near utopia apart."
+edition_information: US Edition
+format: Kindle Edition
+id: '18139005'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372546247l/18139005._SX98_.jpg
+is_ebook: 'true'
+isbn: '1101568852'
+isbn13: '9781101568859'
+json: '{"id": "18139005", "isbn": "1101568852", "isbn13": "9781101568859", "text_reviews_count":
+  {"@type": "integer", "#text": "23"}, "uri": "kca://book/amzn1.gr.book.v1.L8n3cnijjKNkpEQvjurChA",
+  "title": "Blue Remembered Earth (Poseidon''s Children, #1)", "title_without_series":
+  "Blue Remembered Earth", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372546247l/18139005._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372546247l/18139005._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/18139005-blue-remembered-earth",
+  "num_pages": "505", "format": "Kindle Edition", "edition_information": "US Edition",
+  "publisher": "Ace", "publication_day": "5", "publication_year": "2012", "publication_month":
+  "6", "average_rating": "3.88", "ratings_count": "11913", "description": "One hundred
+  and fifty years from now, Africa has become the world\u2019s dominant technological
+  and economic power. Crime, war, disease and poverty have been practically eliminated.
+  The Moon and Mars are settled, and colonies stretch all the way out to the edge
+  of the solar system. And Ocular, the largest scientific instrument in history, is
+  about to make an epochal discovery\u2026<br /> <br />Geoffrey Akinya wants only
+  one thing: to be left in peace, so that he can continue his long-running studies
+  into the elephants of the Amboseli basin. But Geoffrey\u2019s family, which controls
+  the vast Akinya business empire, has other plans for him. After the death of his
+  grandmother Eunice\u2014the erstwhile space explorer and entrepreneur\u2014something
+  awkward has come to light on the Moon, so Geoffrey is dispatched there to ensure
+  the family name remains untarnished.<br /> <br />But the secrets Eunice died with
+  are about to be revealed\u2014secrets that could change everything...or tear this
+  near utopia apart.", "authors": {"author": {"id": "51204", "name": "Alastair Reynolds",
+  "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1521740247p5/51204.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1521740247p2/51204.jpg"},
+  "link": "https://www.goodreads.com/author/show/51204.Alastair_Reynolds", "average_rating":
+  "4.03", "ratings_count": "373894", "text_reviews_count": "23414"}}, "published":
+  "2012", "work": {"id": "14308470", "uri": "kca://work/amzn1.gr.work.v1.6yE4oukjFnP5kV4_j40g3g"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1093440483",
+  "read_at": "Thu Oct 30 00:00:00 -0700 2014", "started_at": "", "date": "Thu Oct
+  30 00:00:00 -0700 2014"}'
+kindle_asin: B005ZOCF5E
+language_code: en-US
+large_image_url: null
+link: https://www.goodreads.com/book/show/18139005-blue-remembered-earth
+marketplace_id: ATVPDKIKX0DER
+num_pages: '505'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '10474'
+    '@name': to-read
+  - '@count': '671'
+    '@name': science-fiction
+  - '@count': '450'
+    '@name': sci-fi
+  - '@count': '428'
+    '@name': currently-reading
+  - '@count': '158'
+    '@name': scifi
+  - '@count': '146'
+    '@name': fiction
+  - '@count': '97'
+    '@name': space-opera
+  - '@count': '84'
+    '@name': owned
+  - '@count': '68'
+    '@name': sf
+  - '@count': '41'
+    '@name': default
+  - '@count': '40'
+    '@name': audiobook
+  - '@count': '35'
+    '@name': favorites
+  - '@count': '29'
+    '@name': audible
+  - '@count': '29'
+    '@name': kindle
+  - '@count': '25'
+    '@name': series
+  - '@count': '24'
+    '@name': alastair-reynolds
+  - '@count': '24'
+    '@name': audiobooks
+  - '@count': '23'
+    '@name': audio
+  - '@count': '20'
+    '@name': library
+  - '@count': '19'
+    '@name': space
+  - '@count': '18'
+    '@name': hard-sci-fi
+  - '@count': '18'
+    '@name': to-buy
+  - '@count': '17'
+    '@name': ebook
+  - '@count': '17'
+    '@name': africa
+  - '@count': '16'
+    '@name': sci-fi-fantasy
+  - '@count': '15'
+    '@name': dnf
+  - '@count': '15'
+    '@name': fantasy
+  - '@count': '14'
+    '@name': did-not-finish
+  - '@count': '14'
+    '@name': owned-books
+  - '@count': '14'
+    '@name': abandoned
+  - '@count': '13'
+    '@name': ebooks
+  - '@count': '13'
+    '@name': sff
+  - '@count': '12'
+    '@name': hard-science-fiction
+  - '@count': '12'
+    '@name': speculative-fiction
+  - '@count': '11'
+    '@name': hard-scifi
+  - '@count': '10'
+    '@name': adventure
+  - '@count': '10'
+    '@name': books-i-own
+  - '@count': '9'
+    '@name': science-fiction-fantasy
+  - '@count': '9'
+    '@name': mystery
+  - '@count': '9'
+    '@name': scifi-fantasy
+  - '@count': '9'
+    '@name': sf-fantasy
+  - '@count': '8'
+    '@name': audio-book
+  - '@count': '8'
+    '@name': to-read-fiction
+  - '@count': '8'
+    '@name': reynolds
+  - '@count': '8'
+    '@name': e-books
+  - '@count': '8'
+    '@name': unfinished
+  - '@count': '8'
+    '@name': calibre
+  - '@count': '7'
+    '@name': novels
+  - '@count': '7'
+    '@name': books
+  - '@count': '7'
+    '@name': fantasy-sci-fi
+  - '@count': '7'
+    '@name': hard-sf
+  - '@count': '7'
+    '@name': have
+  - '@count': '6'
+    '@name': afrofuturism
+  - '@count': '6'
+    '@name': e-book
+  - '@count': '6'
+    '@name': read-2013
+  - '@count': '6'
+    '@name': sciencefiction
+  - '@count': '6'
+    '@name': maybe
+  - '@count': '6'
+    '@name': my-books
+  - '@count': '6'
+    '@name': read-2012
+  - '@count': '6'
+    '@name': science
+  - '@count': '6'
+    '@name': mars
+  - '@count': '6'
+    '@name': english
+  - '@count': '6'
+    '@name': wish-list
+  - '@count': '5'
+    '@name': fiction-to-read
+  - '@count': '5'
+    '@name': unread
+  - '@count': '5'
+    '@name': reynolds-alastair
+  - '@count': '5'
+    '@name': favourites
+  - '@count': '5'
+    '@name': own-it
+  - '@count': '5'
+    '@name': owned-to-read
+  - '@count': '5'
+    '@name': read-2014
+  - '@count': '5'
+    '@name': 2010s
+  - '@count': '5'
+    '@name': sci-fi-to-read
+  - '@count': '5'
+    '@name': on-hold
+  - '@count': '5'
+    '@name': 2012-read
+  - '@count': '5'
+    '@name': read-in-2012
+  - '@count': '5'
+    '@name': science-fiction-and-fantasy
+  - '@count': '5'
+    '@name': to-read-sci-fi
+  - '@count': '4'
+    '@name': readarr
+  - '@count': '4'
+    '@name': bookshelf
+  - '@count': '4'
+    '@name': tbr
+  - '@count': '4'
+    '@name': in-my-library
+  - '@count': '4'
+    '@name': sci-fi-and-fantasy
+  - '@count': '4'
+    '@name': read-in-2014
+  - '@count': '4'
+    '@name': backlog
+  - '@count': '4'
+    '@name': audio-books
+  - '@count': '4'
+    '@name': space-travel
+  - '@count': '4'
+    '@name': family
+  - '@count': '4'
+    '@name': recommended
+  - '@count': '4'
+    '@name': to-read-sf
+  - '@count': '4'
+    '@name': want
+  - '@count': '4'
+    '@name': near-future
+  - '@count': '4'
+    '@name': didn-t-finish
+  - '@count': '4'
+    '@name': considering
+  - '@count': '4'
+    '@name': solar-system
+  - '@count': '4'
+    '@name': to-get
+  - '@count': '3'
+    '@name': want-to-read-sci-fi
+  - '@count': '3'
+    '@name': read-in-2023
+  - '@count': '3'
+    '@name': thriller
+  - '@count': '3'
+    '@name': solarpunk
+  - '@count': '3'
+    '@name': to-read-science-fiction
+publication_day: '5'
+publication_month: '6'
+publication_year: '2012'
+published: '2012'
+publisher: Ace
+ratings_count: '11913'
+read_at: '2014-10-30T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/1093440483
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/18139005-blue-remembered-earth\"\
+  >Blue Remembered Earth Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1101568852&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/18139005-blue-remembered-earth?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '319354'
+    series:
+      description: <i>Poseidon's Children</i> is a hard science fiction trilogy which
+        follows humanity's development in a utopian future. It deals with the expansion
+        of the human species into the solar system and beyond, and the emergence of
+        Africa as a spacefaring, technological super-state several centuries down
+        the line over the next 11,000 years.
+      id: '70560'
+      note: null
+      numbered: 'true'
+      primary_work_count: '3'
+      series_works_count: '3'
+      title: Poseidon's Children
+    user_position: '1'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '14407836'
+        link: https://www.goodreads.com/author/show/14407836.A_R_Merrydew
+        name: A.R. Merrydew
+    average_rating: '3.88'
+    id: '215186841'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/215186841-inara
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11913'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Inara (Godfrey Davis, #3)'
+    title_without_series: Inara
+    uri: kca://book/amzn1.gr.book.v3.wCOHuKhf0nZUkB2e
+    work:
+      id: '221595685'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '3.88'
+    id: '205670068'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729967825l/205670068._SX98_.jpg
+    isbn: 0593357663
+    isbn13: '9780593357668'
+    link: https://www.goodreads.com/book/show/205670068-exodus
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11913'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729967825l/205670068._SY75_.jpg
+    title: 'Exodus: The Archimedes Engine (Archimedes Engine, #1)'
+    title_without_series: 'Exodus: The Archimedes Engine'
+    uri: kca://book/amzn1.gr.book.v3.oKI1MhJVI6jcpH-k
+    work:
+      id: '211692605'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '3.88'
+    id: '199798188'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704681929l/199798188._SX98_.jpg
+    isbn: '1837861749'
+    isbn13: '9781837861743'
+    link: https://www.goodreads.com/book/show/199798188-saturation-point
+    num_pages: '165'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11913'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704681929l/199798188._SY75_.jpg
+    title: Saturation Point
+    title_without_series: Saturation Point
+    uri: kca://book/amzn1.gr.book.v3.iJQejMRi5apPwOKj
+    work:
+      id: '204370575'
+  - authors:
+      author:
+        id: '989968'
+        link: https://www.goodreads.com/author/show/989968.C_J_Cherryh
+        name: C.J. Cherryh
+    average_rating: '3.88'
+    id: '834518'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316469389l/834518._SX98_.jpg
+    isbn: '0446671274'
+    isbn13: '9780446671279'
+    link: https://www.goodreads.com/book/show/834518.Cyteen
+    num_pages: '680'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11913'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316469389l/834518._SX50_.jpg
+    title: 'Cyteen (Cyteen, #1-3)'
+    title_without_series: Cyteen
+    uri: kca://book/amzn1.gr.book.v1.ORejlnpnbO1D8TF0M5vomw
+    work:
+      id: '820134'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '3.88'
+    id: '195443798'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SX98_.jpg
+    isbn: '1035013770'
+    isbn13: '9781035013777'
+    link: https://www.goodreads.com/book/show/195443798-alien-clay
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11913'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SY75_.jpg
+    title: Alien Clay
+    title_without_series: Alien Clay
+    uri: kca://book/amzn1.gr.book.v3.U07jHOWpgU_-RRTg
+    work:
+      id: '197089092'
+  - authors:
+      author:
+        id: '9860453'
+        link: https://www.goodreads.com/author/show/9860453.James_Tiptree_Jr_
+        name: James Tiptree Jr.
+    average_rating: '3.88'
+    id: '27059'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395145994l/27059._SX98_.jpg
+    isbn: '1892391201'
+    isbn13: '9781892391209'
+    link: https://www.goodreads.com/book/show/27059.Her_Smoke_Rose_Up_Forever
+    num_pages: '448'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11913'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395145994l/27059._SX50_.jpg
+    title: Her Smoke Rose Up Forever
+    title_without_series: Her Smoke Rose Up Forever
+    uri: kca://book/amzn1.gr.book.v1.LaBv0p8icjkCkLNPQRNYwA
+    work:
+      id: '27713'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '3.88'
+    id: '201930181'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SX98_.jpg
+    isbn: 031652557X
+    isbn13: '9780316525572'
+    link: https://www.goodreads.com/book/show/201930181-the-mercy-of-gods
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11913'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SY75_.jpg
+    title: "The Mercy of Gods (The Captive\u2019s War, #1)"
+    title_without_series: The Mercy of Gods
+    uri: kca://book/amzn1.gr.book.v3.nndIiP3mF2vHLfgz
+    work:
+      id: '95320019'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '3.88'
+    id: '3437328'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357349093l/3437328._SX98_.jpg
+    isbn: '1405088834'
+    isbn13: '9781405088831'
+    link: https://www.goodreads.com/book/show/3437328-the-temporal-void
+    num_pages: '746'
+    publication_day: '3'
+    publication_month: '10'
+    publication_year: '2008'
+    ratings_count: '11913'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357349093l/3437328._SY75_.jpg
+    title: 'The Temporal Void (Void #2)'
+    title_without_series: The Temporal Void
+    uri: kca://book/amzn1.gr.book.v1.nZxYkGU0Fx1QsWbWPY42cg
+    work:
+      id: '3478338'
+  - authors:
+      author:
+        id: '7448339'
+        link: https://www.goodreads.com/author/show/7448339.Steven_Decker
+        name: Steven Decker
+    average_rating: '3.88'
+    id: '200923963'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698512599l/200923963._SX98_.jpg
+    isbn: null
+    isbn13: '9798987394014'
+    link: https://www.goodreads.com/book/show/200923963-child-of-another-kind
+    num_pages: '392'
+    publication_day: '18'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '11913'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698512599l/200923963._SY75_.jpg
+    title: 'Child of Another Kind (Another Kind #1)'
+    title_without_series: Child of Another Kind
+    uri: kca://book/amzn1.gr.book.v3.cpxUKP4J15at4iaw
+    work:
+      id: '144050375'
+  - authors:
+      author:
+        id: '4338'
+        link: https://www.goodreads.com/author/show/4338.Robert_Silverberg
+        name: Robert Silverberg
+    average_rating: '3.88'
+    id: '141860'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0765305372'
+    isbn13: '9780765305374'
+    link: https://www.goodreads.com/book/show/141860.The_Science_Fiction_Hall_of_Fame_Volume_One_1929_1964
+    num_pages: '560'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11913'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Science Fiction Hall of Fame, Volume One, 1929-1964
+    title_without_series: The Science Fiction Hall of Fame, Volume One, 1929-1964
+    uri: kca://book/amzn1.gr.book.v1.m3njFIno5nnrExc300fk8g
+    work:
+      id: '136824'
+  - authors:
+      author:
+        id: '20295'
+        link: https://www.goodreads.com/author/show/20295.Stephen_Baxter
+        name: Stephen Baxter
+    average_rating: '3.88'
+    id: '22738693'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448101369l/22738693._SX98_.jpg
+    isbn: '1473210186'
+    isbn13: '9781473210189'
+    link: https://www.goodreads.com/book/show/22738693-the-medusa-chronicles
+    num_pages: '326'
+    publication_day: '19'
+    publication_month: '5'
+    publication_year: '2016'
+    ratings_count: '11913'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448101369l/22738693._SY75_.jpg
+    title: The Medusa Chronicles
+    title_without_series: The Medusa Chronicles
+    uri: kca://book/amzn1.gr.book.v1.Tvic1HSEy4Js8YF08q2uoA
+    work:
+      id: '42278479'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '3.88'
+    id: '34068552'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518190008l/34068552._SX98_.jpg
+    isbn: 0399178848
+    isbn13: '9780399178849'
+    link: https://www.goodreads.com/book/show/34068552-salvation
+    num_pages: '576'
+    publication_day: '4'
+    publication_month: '9'
+    publication_year: '2018'
+    ratings_count: '11913'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518190008l/34068552._SY75_.jpg
+    title: 'Salvation (Salvation Sequence, #1)'
+    title_without_series: Salvation
+    uri: kca://book/amzn1.gr.book.v1.TgRveKxt_nuUxHf_OLoEOQ
+    work:
+      id: '55079132'
+  - authors:
+      author:
+        id: '22565447'
+        link: https://www.goodreads.com/author/show/22565447.Therisa_Peimer
+        name: Therisa Peimer
+    average_rating: '3.88'
+    id: '61608233'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658244114l/61608233._SX98_.jpg
+    isbn: '1039125611'
+    isbn13: '9781039125612'
+    link: https://www.goodreads.com/book/show/61608233-taming-flame
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11913'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658244114l/61608233._SX50_.jpg
+    title: Taming Flame
+    title_without_series: Taming Flame
+    uri: kca://book/amzn1.gr.book.v3.clKIDY7JJdvmz7KB
+    work:
+      id: '97169008'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '3.88'
+    id: '45244'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316501189l/45244._SX98_.jpg
+    isbn: '0345461665'
+    isbn13: '9780345461667'
+    link: https://www.goodreads.com/book/show/45244.Judas_Unchained
+    num_pages: '827'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11913'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316501189l/45244._SY75_.jpg
+    title: 'Judas Unchained (Commonwealth Saga #2)'
+    title_without_series: Judas Unchained
+    uri: kca://book/amzn1.gr.book.v1.4cur2X9Awz8U2izr0T7c7A
+    work:
+      id: '44507'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '3.88'
+    id: '13573419'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344371600l/13573419._SX98_.jpg
+    isbn: 034552666X
+    isbn13: '9780345526663'
+    link: https://www.goodreads.com/book/show/13573419-great-north-road
+    num_pages: '948'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11913'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344371600l/13573419._SY75_.jpg
+    title: Great North Road
+    title_without_series: Great North Road
+    uri: kca://book/amzn1.gr.book.v1.64r5XkXGJZUUmefD5m2q8g
+    work:
+      id: '19154394'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '3.88'
+    id: '45252'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440699949l/45252._SX98_.jpg
+    isbn: '0345461622'
+    isbn13: '9780345461629'
+    link: https://www.goodreads.com/book/show/45252.Pandora_s_Star
+    num_pages: '768'
+    publication_day: '2'
+    publication_month: '3'
+    publication_year: '2005'
+    ratings_count: '11913'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440699949l/45252._SX50_.jpg
+    title: 'Pandora''s Star (Commonwealth Saga #1)'
+    title_without_series: Pandora's Star
+    uri: kca://book/amzn1.gr.book.v1.ZrVSLOqFs-Hg_W5jyky1KQ
+    work:
+      id: '987015'
+  - authors:
+      author:
+        id: '8794'
+        link: https://www.goodreads.com/author/show/8794.Charles_Stross
+        name: Charles Stross
+    average_rating: '3.88'
+    id: '81992'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446324638l/81992._SY160_.jpg
+    isbn: '1841493341'
+    isbn13: '9781841493343'
+    link: https://www.goodreads.com/book/show/81992.Singularity_Sky
+    num_pages: '389'
+    publication_day: '3'
+    publication_month: '2'
+    publication_year: '2005'
+    ratings_count: '11913'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446324638l/81992._SY75_.jpg
+    title: 'Singularity Sky (Eschaton, #1)'
+    title_without_series: Singularity Sky
+    uri: kca://book/amzn1.gr.book.v1.b-HTmxepsO4fuoPbkPszgg
+    work:
+      id: '1192005'
+  - authors:
+      author:
+        id: '56353'
+        link: https://www.goodreads.com/author/show/56353.Neal_Asher
+        name: Neal Asher
+    average_rating: '3.88'
+    id: '98046'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0765349051
+    isbn13: '9780765349057'
+    link: https://www.goodreads.com/book/show/98046.Gridlinked
+    num_pages: '423'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11913'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Gridlinked (Agent Cormac #1, Polity Universe #3)'
+    title_without_series: Gridlinked
+    uri: kca://book/amzn1.gr.book.v1.kyJeEg3zhKmQBDBXYY-x-Q
+    work:
+      id: '1487886'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372546247l/18139005._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '23'
+  '@type': integer
+title: 'Blue Remembered Earth (Poseidon''s Children, #1)'
+title_without_series: Blue Remembered Earth
+uri: kca://book/amzn1.gr.book.v1.L8n3cnijjKNkpEQvjurChA
+url: https://www.goodreads.com/book/show/18139005-blue-remembered-earth
+work:
+  id: '14308470'
+  uri: kca://work/amzn1.gr.work.v1.6yE4oukjFnP5kV4_j40g3g

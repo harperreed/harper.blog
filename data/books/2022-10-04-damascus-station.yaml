@@ -1,0 +1,768 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.21'
+    id: '21107028'
+    image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+      '@nophoto': 'true'
+    link: https://www.goodreads.com/author/show/21107028.David_McCloskey
+    name: David McCloskey
+    ratings_count: '25531'
+    role: null
+    small_image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png
+      '@nophoto': 'true'
+    text_reviews_count: '1768'
+average_rating: '4.19'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2022-10-04T00:00:00-07:00'
+description: "CIA case officer Sam Joseph is dispatched to Paris to recruit Syrian\
+  \ Palace official Mariam Haddad. The two fall into a forbidden relationship, supercharging\
+  \ Haddad\u2019s recruitment and creating unspeakable danger when they enter Damascus\
+  \ to find the man responsible for the disappearance of an American spy.<br /><br\
+  \ />But the cat-and-mouse chase for the killer soon leads to a trail of high-profile\
+  \ assassinations and the discovery of a dark secret at the heart of the Syrian regime,\
+  \ bringing the pair under the all-seeing eyes of Asad\u2019s spycatcher, Ali Hassan,\
+  \ and his brother Rustum, the head of the feared Republican Guard. Set against the\
+  \ backdrop of a Syria pulsing with fear and rebellion, <em>Damascus Station\_</em>is\
+  \ a pulse-pounding thriller that offers a textured portrayal of espionage, love,\
+  \ loyalty, and betrayal in one of the most difficult CIA assignments on the planet."
+edition_information: null
+format: null
+id: '58378886'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624164316l/58378886._SX98_.jpg
+is_ebook: 'true'
+isbn: 0393881059
+isbn13: '9780393881059'
+json: '{"id": "58378886", "isbn": "0393881059", "isbn13": "9780393881059", "text_reviews_count":
+  {"@type": "integer", "#text": "135"}, "uri": "kca://book/amzn1.gr.book.v3.cCvf7yCba_LkL9b_",
+  "title": "Damascus Station", "title_without_series": "Damascus Station", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624164316l/58378886._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624164316l/58378886._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/58378886-damascus-station",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "4.19", "ratings_count": "15763", "description": "CIA case officer Sam Joseph is
+  dispatched to Paris to recruit Syrian Palace official Mariam Haddad. The two fall
+  into a forbidden relationship, supercharging Haddad\u2019s recruitment and creating
+  unspeakable danger when they enter Damascus to find the man responsible for the
+  disappearance of an American spy.<br /><br />But the cat-and-mouse chase for the
+  killer soon leads to a trail of high-profile assassinations and the discovery of
+  a dark secret at the heart of the Syrian regime, bringing the pair under the all-seeing
+  eyes of Asad\u2019s spycatcher, Ali Hassan, and his brother Rustum, the head of
+  the feared Republican Guard. Set against the backdrop of a Syria pulsing with fear
+  and rebellion, <em>Damascus Station\u00a0</em>is a pulse-pounding thriller that
+  offers a textured portrayal of espionage, love, loyalty, and betrayal in one of
+  the most difficult CIA assignments on the planet.", "authors": {"author": {"id":
+  "21107028", "name": "David McCloskey", "role": null, "image_url": {"@nophoto": "true",
+  "#text": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"},
+  "small_image_url": {"@nophoto": "true", "#text": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"},
+  "link": "https://www.goodreads.com/author/show/21107028.David_McCloskey", "average_rating":
+  "4.21", "ratings_count": "25531", "text_reviews_count": "1768"}}, "published": null,
+  "work": {"id": "88729204", "uri": "kca://work/amzn1.gr.work.v3.nU6QxDd1LP2PMa2n"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/5017090836",
+  "read_at": "Tue Oct 04 00:00:00 -0700 2022", "started_at": "Thu Sep 29 00:00:00
+  -0700 2022", "date": "Tue Oct 04 00:00:00 -0700 2022"}'
+kindle_asin: B08X8V2V7Y
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/58378886-damascus-station
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '15886'
+    '@name': to-read
+  - '@count': '2605'
+    '@name': currently-reading
+  - '@count': '244'
+    '@name': fiction
+  - '@count': '122'
+    '@name': thriller
+  - '@count': '91'
+    '@name': espionage
+  - '@count': '52'
+    '@name': spy
+  - '@count': '43'
+    '@name': mystery
+  - '@count': '30'
+    '@name': spy-thriller
+  - '@count': '29'
+    '@name': owned
+  - '@count': '29'
+    '@name': dnf
+  - '@count': '27'
+    '@name': thrillers
+  - '@count': '24'
+    '@name': middle-east
+  - '@count': '23'
+    '@name': library
+  - '@count': '22'
+    '@name': audiobook
+  - '@count': '21'
+    '@name': mystery-thriller
+  - '@count': '19'
+    '@name': audiobooks
+  - '@count': '19'
+    '@name': spies
+  - '@count': '19'
+    '@name': kindle
+  - '@count': '16'
+    '@name': book-club
+  - '@count': '15'
+    '@name': ebook
+  - '@count': '15'
+    '@name': favorites
+  - '@count': '14'
+    '@name': did-not-finish
+  - '@count': '14'
+    '@name': abandoned
+  - '@count': '13'
+    '@name': read-2024
+  - '@count': '13'
+    '@name': spy-novels
+  - '@count': '13'
+    '@name': historical-fiction
+  - '@count': '13'
+    '@name': novels
+  - '@count': '12'
+    '@name': syria
+  - '@count': '12'
+    '@name': audible
+  - '@count': '12'
+    '@name': audio
+  - '@count': '11'
+    '@name': 2024-books
+  - '@count': '11'
+    '@name': crime
+  - '@count': '10'
+    '@name': read-in-2024
+  - '@count': '10'
+    '@name': series
+  - '@count': '10'
+    '@name': spy-fiction
+  - '@count': '10'
+    '@name': politics
+  - '@count': '9'
+    '@name': to-buy
+  - '@count': '8'
+    '@name': novel
+  - '@count': '8'
+    '@name': tbr
+  - '@count': '8'
+    '@name': bought
+  - '@count': '8'
+    '@name': spy-thrillers
+  - '@count': '8'
+    '@name': suspense
+  - '@count': '7'
+    '@name': david-mccloskey
+  - '@count': '7'
+    '@name': read-2023
+  - '@count': '7'
+    '@name': spy-novel
+  - '@count': '6'
+    '@name': 2024-reads
+  - '@count': '6'
+    '@name': spy-books
+  - '@count': '6'
+    '@name': unfinished
+  - '@count': '6'
+    '@name': 2022-read
+  - '@count': '5'
+    '@name': read-in-2025
+  - '@count': '5'
+    '@name': 2025-reading-list
+  - '@count': '5'
+    '@name': kindle-books
+  - '@count': '5'
+    '@name': 2024-reading-list
+  - '@count': '5'
+    '@name': fiction-to-read
+  - '@count': '5'
+    '@name': 2023-books
+  - '@count': '5'
+    '@name': e-books
+  - '@count': '5'
+    '@name': mysteries
+  - '@count': '5'
+    '@name': crime-thriller
+  - '@count': '5'
+    '@name': ebooks
+  - '@count': '5'
+    '@name': next
+  - '@count': '4'
+    '@name': my-library
+  - '@count': '4'
+    '@name': fiction-espionage
+  - '@count': '4'
+    '@name': fiction-thriller
+  - '@count': '4'
+    '@name': contemporary
+  - '@count': '4'
+    '@name': cia
+  - '@count': '4'
+    '@name': novela
+  - '@count': '4'
+    '@name': libby
+  - '@count': '4'
+    '@name': owned-unread
+  - '@count': '4'
+    '@name': spy-espionage
+  - '@count': '4'
+    '@name': read-in-2022
+  - '@count': '4'
+    '@name': to-get
+  - '@count': '4'
+    '@name': audio-book
+  - '@count': '4'
+    '@name': 2022-books
+  - '@count': '4'
+    '@name': recommendations
+  - '@count': '4'
+    '@name': general-fiction
+  - '@count': '4'
+    '@name': 21st-century
+  - '@count': '4'
+    '@name': hoopla
+  - '@count': '4'
+    '@name': read-in-2021
+  - '@count': '4'
+    '@name': thriller-spy
+  - '@count': '4'
+    '@name': to-read-fiction
+  - '@count': '4'
+    '@name': wish-list
+  - '@count': '4'
+    '@name': thriller-mystery
+  - '@count': '4'
+    '@name': giveaways
+  - '@count': '3'
+    '@name': read-2025
+  - '@count': '3'
+    '@name': 2025-books
+  - '@count': '3'
+    '@name': 2025-reads
+  - '@count': '3'
+    '@name': political-thrillers
+  - '@count': '3'
+    '@name': adventure
+  - '@count': '3'
+    '@name': historical
+  - '@count': '3'
+    '@name': part-of-a-series
+  - '@count': '3'
+    '@name': books-i-own
+  - '@count': '3'
+    '@name': crime-fiction
+  - '@count': '3'
+    '@name': read-in-2023
+  - '@count': '3'
+    '@name': spooks
+  - '@count': '3'
+    '@name': crime-thrillers
+  - '@count': '3'
+    '@name': espionage-thriller
+  - '@count': '3'
+    '@name': 2023-read
+  - '@count': '3'
+    '@name': e-book
+  - '@count': '3'
+    '@name': 2020s
+  - '@count': '3'
+    '@name': audio-books
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '15763'
+read_at: '2022-10-04T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/5017090836
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/58378886-damascus-station\"\
+  >Damascus Station Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0393881059&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/58378886-damascus-station?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '2087451'
+    series:
+      description: null
+      id: '363048'
+      note: null
+      numbered: 'true'
+      primary_work_count: '3'
+      series_works_count: '3'
+      title: Damascus Station
+    user_position: '1'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '45664354'
+        link: https://www.goodreads.com/author/show/45664354.Charles_Beaumont
+        name: Charles    Beaumont
+    average_rating: '4.19'
+    id: '174943528'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1804364797'
+    isbn13: '9781804364796'
+    link: https://www.goodreads.com/book/show/174943528-a-spy-alone
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15763'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: A Spy Alone
+    title_without_series: A Spy Alone
+    uri: kca://book/amzn1.gr.book.v3.VpfIu6EUsT5WUsVW
+    work:
+      id: '182168935'
+  - authors:
+      author:
+        id: '313983'
+        link: https://www.goodreads.com/author/show/313983.Matthew_Richardson
+        name: Matthew Richardson
+    average_rating: '4.19'
+    id: '67356121'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671019891l/67356121._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/67356121-the-scarlet-papers
+    num_pages: null
+    publication_day: '25'
+    publication_month: '5'
+    publication_year: '2023'
+    ratings_count: '15763'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671019891l/67356121._SY75_.jpg
+    title: The Scarlet Papers
+    title_without_series: The Scarlet Papers
+    uri: kca://book/amzn1.gr.book.v3.xrmtAj-rgx9oBHvE
+    work:
+      id: '97867890'
+  - authors:
+      author:
+        id: '14132866'
+        link: https://www.goodreads.com/author/show/14132866.Paul_Vidich
+        name: Paul Vidich
+    average_rating: '4.19'
+    id: '101135587'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676319880l/101135587._SX98_.jpg
+    isbn: '1639365117'
+    isbn13: '9781639365111'
+    link: https://www.goodreads.com/book/show/101135587-beirut-station
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15763'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676319880l/101135587._SX50_.jpg
+    title: 'Beirut Station: Two Lives of a Spy'
+    title_without_series: 'Beirut Station: Two Lives of a Spy'
+    uri: kca://book/amzn1.gr.book.v3.I3g5-GBvvvLmkwkF
+    work:
+      id: '124541210'
+  - authors:
+      author:
+        id: '22935945'
+        link: https://www.goodreads.com/author/show/22935945.I_S_Berry
+        name: I.S. Berry
+    average_rating: '4.19'
+    id: '62919887'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683135436l/62919887._SX98_.jpg
+    isbn: '1982194545'
+    isbn13: '9781982194543'
+    link: https://www.goodreads.com/book/show/62919887-the-peacock-and-the-sparrow
+    num_pages: '308'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15763'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683135436l/62919887._SY75_.jpg
+    title: The Peacock and the Sparrow
+    title_without_series: The Peacock and the Sparrow
+    uri: kca://book/amzn1.gr.book.v3.cC3zF-0gt3v6gPlI
+    work:
+      id: '98736160'
+  - authors:
+      author:
+        id: '306659'
+        link: https://www.goodreads.com/author/show/306659.Charles_Cumming
+        name: Charles Cumming
+    average_rating: '4.19'
+    id: '122494788'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692858546l/122494788._SX98_.jpg
+    isbn: '1613164556'
+    isbn13: '9781613164556'
+    link: https://www.goodreads.com/book/show/122494788-kennedy-35
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15763'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692858546l/122494788._SY75_.jpg
+    title: 'Kennedy 35 (BOX 88 #3)'
+    title_without_series: Kennedy 35
+    uri: kca://book/amzn1.gr.book.v3.HFZjfWhlSsCFodFC
+    work:
+      id: '97275009'
+  - authors:
+      author:
+        id: '1100593'
+        link: https://www.goodreads.com/author/show/1100593.Nick_Harkaway
+        name: Nick Harkaway
+    average_rating: '4.19'
+    id: '205899901'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722279958l/205899901._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/205899901-karla-s-choice
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15763'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722279958l/205899901._SY75_.jpg
+    title: Karla's Choice
+    title_without_series: Karla's Choice
+    uri: kca://book/amzn1.gr.book.v3.-10Gchyrkexw8D0C
+    work:
+      id: '211948288'
+  - authors:
+      author:
+        id: '1237964'
+        link: https://www.goodreads.com/author/show/1237964.Mick_Herron
+        name: Mick Herron
+    average_rating: '4.19'
+    id: '123727738'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692736142l/123727738._SX98_.jpg
+    isbn: 164129521X
+    isbn13: '9781641295215'
+    link: https://www.goodreads.com/book/show/123727738-the-secret-hours
+    num_pages: '384'
+    publication_day: '12'
+    publication_month: '9'
+    publication_year: '2023'
+    ratings_count: '15763'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692736142l/123727738._SY75_.jpg
+    title: The Secret Hours
+    title_without_series: The Secret Hours
+    uri: kca://book/amzn1.gr.book.v3.axy24bYg3qDd1oy0
+    work:
+      id: '145108210'
+  - authors:
+      author:
+        id: '313983'
+        link: https://www.goodreads.com/author/show/313983.Matthew_Richardson
+        name: Matthew Richardson
+    average_rating: '4.19'
+    id: '36526427'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1405924829'
+    isbn13: '9781405924825'
+    link: https://www.goodreads.com/book/show/36526427-the-insider
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15763'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Insider (Solomon Vine, #2)'
+    title_without_series: The Insider
+    uri: kca://book/amzn1.gr.book.v1.eTvi-ASU1XtV1jG2OmcqwQ
+    work:
+      id: '58143765'
+  - authors:
+      author:
+        id: '313983'
+        link: https://www.goodreads.com/author/show/313983.Matthew_Richardson
+        name: Matthew Richardson
+    average_rating: '4.19'
+    id: '34217884'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/34217884-my-name-is-nobody
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15763'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'My Name Is Nobody (Solomon Vine, #1)'
+    title_without_series: My Name Is Nobody
+    uri: kca://book/amzn1.gr.book.v1.yV1W9nV0jl6jgVCSMSU9sA
+    work:
+      id: '54703222'
+  - authors:
+      author:
+        id: '904939'
+        link: https://www.goodreads.com/author/show/904939.Terry_Hayes
+        name: Terry Hayes
+    average_rating: '4.19'
+    id: '25723813'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/25723813-the-year-of-the-locust
+    num_pages: null
+    publication_day: '9'
+    publication_month: '11'
+    publication_year: '2023'
+    ratings_count: '15763'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Year of the Locust
+    title_without_series: The Year of the Locust
+    uri: kca://book/amzn1.gr.book.v1.zCbJ28zPbT7RnaLtTKGM2w
+    work:
+      id: '43082573'
+  - authors:
+      author:
+        id: '575'
+        link: https://www.goodreads.com/author/show/575.Robert_Harris
+        name: Robert   Harris
+    average_rating: '4.19'
+    id: '199820684'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712474315l/199820684._SX98_.jpg
+    isbn: 0063248050
+    isbn13: '9780063248052'
+    link: https://www.goodreads.com/book/show/199820684-precipice
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15763'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712474315l/199820684._SY75_.jpg
+    title: Precipice
+    title_without_series: Precipice
+    uri: kca://book/amzn1.gr.book.v3.ci03nYP6mSFDiCFg
+    work:
+      id: '204572299'
+  - authors:
+      author:
+        id: '32137'
+        link: https://www.goodreads.com/author/show/32137.Ben_Macintyre
+        name: Ben Macintyre
+    average_rating: '4.19'
+    id: '203767605'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716297042l/203767605._SX98_.jpg
+    isbn: 0593728092
+    isbn13: '9780593728093'
+    link: https://www.goodreads.com/book/show/203767605-the-siege
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15763'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716297042l/203767605._SY75_.jpg
+    title: 'The Siege: A Six-Day Hostage Crisis and the Daring Special-Forces Operation
+      That Shocked the World'
+    title_without_series: 'The Siege: A Six-Day Hostage Crisis and the Daring Special-Forces
+      Operation That Shocked the World'
+    uri: kca://book/amzn1.gr.book.v3.MWlHATMvs8GqY7-l
+    work:
+      id: '210049185'
+  - authors:
+      author:
+        id: '12984'
+        link: https://www.goodreads.com/author/show/12984.Joseph_Kanon
+        name: Joseph Kanon
+    average_rating: '4.19'
+    id: '199798044'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1702401049l/199798044._SX98_.jpg
+    isbn: '1668006421'
+    isbn13: '9781668006429'
+    link: https://www.goodreads.com/book/show/199798044-shanghai
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15763'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1702401049l/199798044._SY75_.jpg
+    title: Shanghai
+    title_without_series: Shanghai
+    uri: kca://book/amzn1.gr.book.v3.eap9Tc1JRo7p7TwX
+    work:
+      id: '204370451'
+  - authors:
+      author:
+        id: '306659'
+        link: https://www.goodreads.com/author/show/306659.Charles_Cumming
+        name: Charles Cumming
+    average_rating: '4.19'
+    id: '58354385'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623860727l/58354385._SX98_.jpg
+    isbn: 0008363463
+    isbn13: '9780008363468'
+    link: https://www.goodreads.com/book/show/58354385-judas-62
+    num_pages: '502'
+    publication_day: '30'
+    publication_month: '9'
+    publication_year: '2021'
+    ratings_count: '15763'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623860727l/58354385._SY75_.jpg
+    title: 'Judas 62 (BOX 88, #2)'
+    title_without_series: Judas 62
+    uri: kca://book/amzn1.gr.book.v3.gnUq4EbGHZQGM24J
+    work:
+      id: '91508125'
+  - authors:
+      author:
+        id: '306659'
+        link: https://www.goodreads.com/author/show/306659.Charles_Cumming
+        name: Charles Cumming
+    average_rating: '4.19'
+    id: '51261489'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593654595l/51261489._SX98_.jpg
+    isbn: 0008200378
+    isbn13: '9780008200374'
+    link: https://www.goodreads.com/book/show/51261489-box-88
+    num_pages: '482'
+    publication_day: '1'
+    publication_month: '10'
+    publication_year: '2020'
+    ratings_count: '15763'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593654595l/51261489._SY75_.jpg
+    title: 'BOX 88 (BOX 88, #1)'
+    title_without_series: BOX 88
+    uri: kca://book/amzn1.gr.book.v3.Qa6Bp3yPAqnbjkBv
+    work:
+      id: '75986846'
+  - authors:
+      author:
+        id: '2878975'
+        link: https://www.goodreads.com/author/show/2878975.Rory_Clements
+        name: Rory Clements
+    average_rating: '4.19'
+    id: '179272908'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1690588171l/179272908._SX98_.jpg
+    isbn: '1804181447'
+    isbn13: '9781804181447'
+    link: https://www.goodreads.com/book/show/179272908-munich-wolf
+    num_pages: '400'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15763'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1690588171l/179272908._SY75_.jpg
+    title: Munich Wolf
+    title_without_series: Munich Wolf
+    uri: kca://book/amzn1.gr.book.v3.c53mZX8KRREWnMEI
+    work:
+      id: '184609071'
+  - authors:
+      author:
+        id: '8170'
+        link: https://www.goodreads.com/author/show/8170.William_Boyd
+        name: William  Boyd
+    average_rating: '4.19'
+    id: '215198466'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0802164870
+    isbn13: '9780802164872'
+    link: https://www.goodreads.com/book/show/215198466-gabriel-s-moon
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15763'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Gabriel's Moon
+    title_without_series: Gabriel's Moon
+    uri: kca://book/amzn1.gr.book.v3.UvR4aUnsD7Ig9FZP
+    work:
+      id: '215458226'
+  - authors:
+      author:
+        id: '14132866'
+        link: https://www.goodreads.com/author/show/14132866.Paul_Vidich
+        name: Paul Vidich
+    average_rating: '4.19'
+    id: '25814492'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460304763l/25814492._SX98_.jpg
+    isbn: '1501110381'
+    isbn13: '9781501110382'
+    link: https://www.goodreads.com/book/show/25814492-an-honorable-man
+    num_pages: '278'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15763'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460304763l/25814492._SY75_.jpg
+    title: 'An Honorable Man (George Mueller #1)'
+    title_without_series: An Honorable Man
+    uri: kca://book/amzn1.gr.book.v1.fSWACet6rLNmTQ9xF3MDmQ
+    work:
+      id: '45671173'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624164316l/58378886._SY75_.jpg
+started_at: '2022-09-29T00:00:00-07:00'
+text_reviews_count:
+  '#text': '135'
+  '@type': integer
+title: Damascus Station
+title_without_series: Damascus Station
+uri: kca://book/amzn1.gr.book.v3.cCvf7yCba_LkL9b_
+url: https://www.goodreads.com/book/show/58378886-damascus-station
+work:
+  id: '88729204'
+  uri: kca://work/amzn1.gr.work.v3.nU6QxDd1LP2PMa2n

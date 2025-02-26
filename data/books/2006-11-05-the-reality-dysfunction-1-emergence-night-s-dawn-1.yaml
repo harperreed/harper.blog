@@ -1,0 +1,752 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.19'
+    id: '25375'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1235123752p5/25375.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+    name: Peter F. Hamilton
+    ratings_count: '417995'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1235123752p2/25375.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '18288'
+average_rating: '4.26'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: null
+edition_information: null
+format: Mass Market Paperback
+id: '761154'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: 0446605158
+isbn13: '9780446605151'
+json: '{"id": "761154", "isbn": "0446605158", "isbn13": "9780446605151", "text_reviews_count":
+  {"@type": "integer", "#text": "114"}, "uri": "kca://book/amzn1.gr.book.v1.TPtDyIBp1Ks3tP6lPR_hKw",
+  "title": "The Reality Dysfunction 1: Emergence (Night''s Dawn 1)", "title_without_series":
+  "The Reality Dysfunction 1: Emergence", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/761154.The_Reality_Dysfunction_1",
+  "num_pages": null, "format": "Mass Market Paperback", "edition_information": null,
+  "publisher": "Warner Books Inc", "publication_day": null, "publication_year": null,
+  "publication_month": null, "average_rating": "4.26", "ratings_count": "7020", "description":
+  null, "authors": {"author": {"id": "25375", "name": "Peter F. Hamilton", "role":
+  null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1235123752p5/25375.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1235123752p2/25375.jpg"},
+  "link": "https://www.goodreads.com/author/show/25375.Peter_F_Hamilton", "average_rating":
+  "4.19", "ratings_count": "417995", "text_reviews_count": "18288"}}, "published":
+  null, "work": {"id": "6519564", "uri": "kca://work/amzn1.gr.work.v1.C20kl6-f9xLAtK-xvrPrhg"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417615",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B001KOA08M
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/761154.The_Reality_Dysfunction_1
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '1841'
+    '@name': to-read
+  - '@count': '247'
+    '@name': science-fiction
+  - '@count': '161'
+    '@name': sci-fi
+  - '@count': '57'
+    '@name': fiction
+  - '@count': '49'
+    '@name': space-opera
+  - '@count': '46'
+    '@name': currently-reading
+  - '@count': '46'
+    '@name': scifi
+  - '@count': '44'
+    '@name': default
+  - '@count': '43'
+    '@name': owned
+  - '@count': '38'
+    '@name': sf
+  - '@count': '29'
+    '@name': favorites
+  - '@count': '10'
+    '@name': paperback
+  - '@count': '9'
+    '@name': peter-f-hamilton
+  - '@count': '9'
+    '@name': sci-fi-fantasy
+  - '@count': '9'
+    '@name': scifi-fantasy
+  - '@count': '8'
+    '@name': fantasy
+  - '@count': '7'
+    '@name': ebook
+  - '@count': '6'
+    '@name': library
+  - '@count': '6'
+    '@name': space
+  - '@count': '6'
+    '@name': books-i-own
+  - '@count': '6'
+    '@name': kindle
+  - '@count': '5'
+    '@name': physical
+  - '@count': '5'
+    '@name': own-it
+  - '@count': '5'
+    '@name': my-library
+  - '@count': '5'
+    '@name': novels
+  - '@count': '5'
+    '@name': science-fiction-fantasy
+  - '@count': '5'
+    '@name': science
+  - '@count': '5'
+    '@name': horror
+  - '@count': '4'
+    '@name': speculative-fiction
+  - '@count': '4'
+    '@name': physical-books
+  - '@count': '4'
+    '@name': aliens
+  - '@count': '4'
+    '@name': hard-science-fiction
+  - '@count': '4'
+    '@name': sf-fantasy
+  - '@count': '4'
+    '@name': series
+  - '@count': '3'
+    '@name': books
+  - '@count': '3'
+    '@name': audiobook
+  - '@count': '3'
+    '@name': sci-fi-read
+  - '@count': '3'
+    '@name': abandoned
+  - '@count': '3'
+    '@name': hamilton
+  - '@count': '3'
+    '@name': novel
+  - '@count': '3'
+    '@name': epic
+  - '@count': '3'
+    '@name': my-books
+  - '@count': '3'
+    '@name': sf-f
+  - '@count': '2'
+    '@name': physical-tbr
+  - '@count': '2'
+    '@name': sub
+  - '@count': '2'
+    '@name': audio_wanted
+  - '@count': '2'
+    '@name': calibre
+  - '@count': '2'
+    '@name': audio
+  - '@count': '2'
+    '@name': sc
+  - '@count': '2'
+    '@name': have
+  - '@count': '2'
+    '@name': dropped
+  - '@count': '2'
+    '@name': book-recs
+  - '@count': '2'
+    '@name': auf-deutsch
+  - '@count': '2'
+    '@name': donated
+  - '@count': '2'
+    '@name': read-2011
+  - '@count': '2'
+    '@name': not-interested
+  - '@count': '2'
+    '@name': paperbacks
+  - '@count': '2'
+    '@name': storage
+  - '@count': '2'
+    '@name': abgebrochen
+  - '@count': '2'
+    '@name': dnf
+  - '@count': '2'
+    '@name': armageddon-zyklus
+  - '@count': '2'
+    '@name': audiobooks
+  - '@count': '2'
+    '@name': collection
+  - '@count': '2'
+    '@name': '2001'
+  - '@count': '2'
+    '@name': need-to-buy
+  - '@count': '2'
+    '@name': peter-hamilton
+  - '@count': '2'
+    '@name': read-fiction
+  - '@count': '2'
+    '@name': nights-dawn
+  - '@count': '2'
+    '@name': favourites
+  - '@count': '2'
+    '@name': scifi-space-opera
+  - '@count': '2'
+    '@name': read-sci-fi
+  - '@count': '2'
+    '@name': to-read-again
+  - '@count': '2'
+    '@name': sff
+  - '@count': '2'
+    '@name': not-read
+  - '@count': '2'
+    '@name': unfinished
+  - '@count': '2'
+    '@name': english
+  - '@count': '2'
+    '@name': paper
+  - '@count': '2'
+    '@name': didn-t-finish
+  - '@count': '2'
+    '@name': favs
+  - '@count': '2'
+    '@name': to-read-fiction
+  - '@count': '2'
+    '@name': to-buy
+  - '@count': '2'
+    '@name': hard-sci-fi
+  - '@count': '2'
+    '@name': to-read-sci-fi
+  - '@count': '2'
+    '@name': own-read
+  - '@count': '2'
+    '@name': hamilton-peter-f
+  - '@count': '2'
+    '@name': box-3
+  - '@count': '2'
+    '@name': opera
+  - '@count': '2'
+    '@name': paperbooks
+  - '@count': '2'
+    '@name': sci-fi-and-fantasy
+  - '@count': '2'
+    '@name': i-own
+  - '@count': '2'
+    '@name': sciencefiction
+  - '@count': '2'
+    '@name': home-library
+  - '@count': '1'
+    '@name': book-collection
+  - '@count': '1'
+    '@name': sci-fi_fantasy
+  - '@count': '1'
+    '@name': book-inventory
+  - '@count': '1'
+    '@name': might-maybe-possibly-read
+  - '@count': '1'
+    '@name': read-in-science-fiction-book-club
+  - '@count': '1'
+    '@name': bin-7
+  - '@count': '1'
+    '@name': libby
+  - '@count': '1'
+    '@name': buchklub
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: Warner Books Inc
+ratings_count: '7020'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417615
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/761154.The_Reality_Dysfunction_1\"\
+  >The Reality Dysfunction 1 Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0446605158&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/761154.The_Reality_Dysfunction_1?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '294381'
+    series:
+      description: The trilogy is set in a universe with a wealth of worlds and artificial
+        orbiting colonies. The plot is centered on the souls of the dead coming back
+        from a hellish "beyond" to possess the living, and the latter fighting back.
+        It was followed by a companion to the series, The Confederation Handbook,
+        an informational book containing data about the universe of the Night's Dawn
+        trilogy. Hamilton re-set several earlier short stories in the Confederation
+        timeline, published as the collection A Second Chance at Eden, including the
+        newly written title novella.
+      id: '43318'
+      note: null
+      numbered: 'true'
+      primary_work_count: '3'
+      series_works_count: '27'
+      title: Night's Dawn
+    user_position: 1, Part 1 of 2
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '51204'
+        link: https://www.goodreads.com/author/show/51204.Alastair_Reynolds
+        name: Alastair Reynolds
+    average_rating: '4.26'
+    id: '89190'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309206851l/89190._SX98_.jpg
+    isbn: 044101173X
+    isbn13: '9780441011735'
+    link: https://www.goodreads.com/book/show/89190.Redemption_Ark
+    num_pages: '694'
+    publication_day: '25'
+    publication_month: '5'
+    publication_year: '2004'
+    ratings_count: '7020'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309206851l/89190._SY75_.jpg
+    title: 'Redemption Ark (Revelation Space, #2)'
+    title_without_series: Redemption Ark
+    uri: kca://book/amzn1.gr.book.v1.BBWI1xexX1iGQVc37WsCBA
+    work:
+      id: '3024029'
+  - authors:
+      author:
+        id: '12534'
+        link: https://www.goodreads.com/author/show/12534.Larry_Niven
+        name: Larry Niven
+    average_rating: '4.26'
+    id: '100365'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399490037l/100365._SX98_.jpg
+    isbn: 156865054X
+    isbn13: '9781568650548'
+    link: https://www.goodreads.com/book/show/100365.The_Mote_in_God_s_Eye
+    num_pages: '596'
+    publication_day: '26'
+    publication_month: '4'
+    publication_year: '2011'
+    ratings_count: '7020'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399490037l/100365._SY75_.jpg
+    title: 'The Mote in God''s Eye (Moties, #1)'
+    title_without_series: The Mote in God's Eye
+    uri: kca://book/amzn1.gr.book.v1.9qxORspmPWxh4_X5EMJ6qg
+    work:
+      id: '2190500'
+  - authors:
+      author:
+        id: '51204'
+        link: https://www.goodreads.com/author/show/51204.Alastair_Reynolds
+        name: Alastair Reynolds
+    average_rating: '4.26'
+    id: '1126719'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447892903l/1126719._SX98_.jpg
+    isbn: 0575099127
+    isbn13: '9780575099128'
+    link: https://www.goodreads.com/book/show/1126719.House_of_Suns
+    num_pages: '512'
+    publication_day: null
+    publication_month: null
+    publication_year: '2010'
+    ratings_count: '7020'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447892903l/1126719._SY75_.jpg
+    title: House of Suns
+    title_without_series: House of Suns
+    uri: kca://book/amzn1.gr.book.v1.XZ4LCNHN8Aug7lcRpBSaww
+    work:
+      id: '2020929'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.26'
+    id: '55278507'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724827773l/55278507._SX98_.jpg
+    isbn: '1549106392'
+    isbn13: '9781549106392'
+    link: https://www.goodreads.com/book/show/55278507-shards-of-earth
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7020'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724827773l/55278507._SY75_.jpg
+    title: 'Shards of Earth (The Final Architecture, #1)'
+    title_without_series: Shards of Earth
+    uri: kca://book/amzn1.gr.book.v3.iXJ8HRwu2xYH7ClI
+    work:
+      id: '86200930'
+  - authors:
+      author:
+        id: '12130438'
+        link: https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor
+        name: Dennis E. Taylor
+    average_rating: '4.26'
+    id: '159116833'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712930306l/159116833._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/159116833-not-till-we-are-lost
+    num_pages: '413'
+    publication_day: '5'
+    publication_month: '9'
+    publication_year: '2024'
+    ratings_count: '7020'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712930306l/159116833._SX50_.jpg
+    title: 'Not Till We Are Lost (Bobiverse #5)'
+    title_without_series: Not Till We Are Lost
+    uri: kca://book/amzn1.gr.book.v3.AzkbsrEAp5F3hB8P
+    work:
+      id: '171689305'
+  - authors:
+      author:
+        id: '2768002'
+        link: https://www.goodreads.com/author/show/2768002.Hannu_Rajaniemi
+        name: Hannu Rajaniemi
+    average_rating: '4.26'
+    id: '7562764'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327950631l/7562764._SX98_.jpg
+    isbn: 0575088877
+    isbn13: '9780575088870'
+    link: https://www.goodreads.com/book/show/7562764-the-quantum-thief
+    num_pages: '336'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7020'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327950631l/7562764._SY75_.jpg
+    title: 'The Quantum Thief (Jean le Flambeur, #1)'
+    title_without_series: The Quantum Thief
+    uri: kca://book/amzn1.gr.book.v1.6NG_42RIfztb1FIrwXuBNw
+    work:
+      id: '9886333'
+  - authors:
+      author:
+        id: '51204'
+        link: https://www.goodreads.com/author/show/51204.Alastair_Reynolds
+        name: Alastair Reynolds
+    average_rating: '4.26'
+    id: '75593499'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675082567l/75593499._SX98_.jpg
+    isbn: 0316462845
+    isbn13: '9780316462846'
+    link: https://www.goodreads.com/book/show/75593499-machine-vendetta
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7020'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675082567l/75593499._SY75_.jpg
+    title: 'Machine Vendetta (Prefect Dreyfus Emergency #3)'
+    title_without_series: Machine Vendetta
+    uri: kca://book/amzn1.gr.book.v3.YVE16ro2h-cBRWsy
+    work:
+      id: '99755612'
+  - authors:
+      author:
+        id: '545'
+        link: https://www.goodreads.com/author/show/545.Neal_Stephenson
+        name: Neal Stephenson
+    average_rating: '4.26'
+    id: '827'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0553380966
+    isbn13: '9780553380965'
+    link: https://www.goodreads.com/book/show/827.The_Diamond_Age
+    num_pages: '499'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7020'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Diamond Age: Or, a Young Lady''s Illustrated Primer'
+    title_without_series: 'The Diamond Age: Or, a Young Lady''s Illustrated Primer'
+    uri: kca://book/amzn1.gr.book.v1.DY0zJ1f5vMb4XU5Ivsa_eQ
+    work:
+      id: '2181158'
+  - authors:
+      author:
+        id: '12130438'
+        link: https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor
+        name: Dennis E. Taylor
+    average_rating: '4.26'
+    id: '42950440'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593705196l/42950440._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/42950440-heaven-s-river
+    num_pages: '17'
+    publication_day: '24'
+    publication_month: '9'
+    publication_year: '2020'
+    ratings_count: '7020'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593705196l/42950440._SX50_.jpg
+    title: 'Heaven''s River (Bobiverse, #4)'
+    title_without_series: Heaven's River
+    uri: kca://book/amzn1.gr.book.v1.6jAWzosUJIY1AeUmEz0R_g
+    work:
+      id: '66753562'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.26'
+    id: '58950674'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1641881897l/58950674._SX98_.jpg
+    isbn: '1668604906'
+    isbn13: '9781668604908'
+    link: https://www.goodreads.com/book/show/58950674-eyes-of-the-void
+    num_pages: '596'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7020'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1641881897l/58950674._SY75_.jpg
+    title: 'Eyes of the Void (The Final Architecture, #2)'
+    title_without_series: Eyes of the Void
+    uri: kca://book/amzn1.gr.book.v3.KHZ5S7SZsGl0dUNs
+    work:
+      id: '92907302'
+  - authors:
+      author:
+        id: '10518'
+        link: https://www.goodreads.com/author/show/10518.Elizabeth_Moon
+        name: Elizabeth Moon
+    average_rating: '4.26'
+    id: '96279'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 034544759X
+    isbn13: '9780345447593'
+    link: https://www.goodreads.com/book/show/96279.Marque_and_Reprisal
+    num_pages: '387'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7020'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Marque and Reprisal (Vatta''s War, #2)'
+    title_without_series: Marque and Reprisal
+    uri: kca://book/amzn1.gr.book.v1.5t_hilKThFcoOqeeE7Z4fQ
+    work:
+      id: '92799'
+  - authors:
+      author:
+        id: '10518'
+        link: https://www.goodreads.com/author/show/10518.Elizabeth_Moon
+        name: Elizabeth Moon
+    average_rating: '4.26'
+    id: '96277'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0345447573'
+    isbn13: '9780345447579'
+    link: https://www.goodreads.com/book/show/96277.Engaging_the_Enemy
+    num_pages: '405'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7020'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Engaging the Enemy (Vatta''s War, #3)'
+    title_without_series: Engaging the Enemy
+    uri: kca://book/amzn1.gr.book.v1.DnudpqRQtaqf4AK5KWXifQ
+    work:
+      id: '1136474'
+  - authors:
+      author:
+        id: '10518'
+        link: https://www.goodreads.com/author/show/10518.Elizabeth_Moon
+        name: Elizabeth Moon
+    average_rating: '4.26'
+    id: '1305912'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1261083800l/1305912._SX98_.jpg
+    isbn: 0345491610
+    isbn13: '9780345491619'
+    link: https://www.goodreads.com/book/show/1305912.Victory_Conditions
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7020'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1261083800l/1305912._SY75_.jpg
+    title: 'Victory Conditions (Vatta''s War, #5)'
+    title_without_series: Victory Conditions
+    uri: kca://book/amzn1.gr.book.v1.WlM9kLUNBEEiNvPfcge1_A
+    work:
+      id: '1074078'
+  - authors:
+      author:
+        id: '10518'
+        link: https://www.goodreads.com/author/show/10518.Elizabeth_Moon
+        name: Elizabeth Moon
+    average_rating: '4.26'
+    id: '96276'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0345491599
+    isbn13: '9780345491596'
+    link: https://www.goodreads.com/book/show/96276.Command_Decision
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7020'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Command Decision (Vatta''s War, #4)'
+    title_without_series: Command Decision
+    uri: kca://book/amzn1.gr.book.v1.GZvkRGZL00AaC32O-CvQCw
+    work:
+      id: '230213'
+  - authors:
+      author:
+        id: '1858'
+        link: https://www.goodreads.com/author/show/1858.Kim_Stanley_Robinson
+        name: Kim Stanley Robinson
+    average_rating: '4.26'
+    id: '11830394'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405778758l/11830394._SX98_.jpg
+    isbn: 0316098124
+    isbn13: '9780316098120'
+    link: https://www.goodreads.com/book/show/11830394-2312
+    num_pages: '561'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7020'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405778758l/11830394._SY75_.jpg
+    title: '2312'
+    title_without_series: '2312'
+    uri: kca://book/amzn1.gr.book.v1.BC4OVPavgv81MoGWS9jktg
+    work:
+      id: '16785236'
+  - authors:
+      author:
+        id: '12130438'
+        link: https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor
+        name: Dennis E. Taylor
+    average_rating: '4.26'
+    id: '33395557'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501817361l/33395557._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/33395557-for-we-are-many
+    num_pages: '311'
+    publication_day: '18'
+    publication_month: '4'
+    publication_year: '2017'
+    ratings_count: '7020'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501817361l/33395557._SX50_.jpg
+    title: 'For We Are Many (Bobiverse, #2)'
+    title_without_series: For We Are Many
+    uri: kca://book/amzn1.gr.book.v1.EDxjHNx70kSGzRyYfd2T_g
+    work:
+      id: '54144664'
+  - authors:
+      author:
+        id: '51204'
+        link: https://www.goodreads.com/author/show/51204.Alastair_Reynolds
+        name: Alastair Reynolds
+    average_rating: '4.26'
+    id: '89185'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309203334l/89185._SX98_.jpg
+    isbn: '0441010644'
+    isbn13: '9780441010646'
+    link: https://www.goodreads.com/book/show/89185.Chasm_City
+    num_pages: '694'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7020'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309203334l/89185._SY75_.jpg
+    title: Chasm City
+    title_without_series: Chasm City
+    uri: kca://book/amzn1.gr.book.v1.53zghcQgmo9Arq4NF_kKkA
+    work:
+      id: '2926628'
+  - authors:
+      author:
+        id: '20295'
+        link: https://www.goodreads.com/author/show/20295.Stephen_Baxter
+        name: Stephen Baxter
+    average_rating: '4.26'
+    id: '100680'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0586210911
+    isbn13: '9780586210918'
+    link: https://www.goodreads.com/book/show/100680.Raft
+    num_pages: '251'
+    publication_day: '12'
+    publication_month: '2'
+    publication_year: '1992'
+    ratings_count: '7020'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Raft (Xeelee Sequence, #1)'
+    title_without_series: Raft
+    uri: kca://book/amzn1.gr.book.v1.w0EejlevNrld2O_FzhlwIQ
+    work:
+      id: '829085'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '114'
+  '@type': integer
+title: 'The Reality Dysfunction 1: Emergence (Night''s Dawn 1)'
+title_without_series: 'The Reality Dysfunction 1: Emergence'
+uri: kca://book/amzn1.gr.book.v1.TPtDyIBp1Ks3tP6lPR_hKw
+url: https://www.goodreads.com/book/show/761154.The_Reality_Dysfunction_1
+work:
+  id: '6519564'
+  uri: kca://work/amzn1.gr.work.v1.C20kl6-f9xLAtK-xvrPrhg

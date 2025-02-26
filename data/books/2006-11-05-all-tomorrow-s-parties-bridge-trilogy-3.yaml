@@ -1,0 +1,774 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.89'
+    id: '9226'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1373826214p5/9226.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/9226.William_Gibson
+    name: William Gibson
+    ratings_count: '766924'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1373826214p2/9226.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '37601'
+average_rating: '3.93'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: Although Colin Laney (from Gibson's earlier novel <i>Idoru</i>) lives
+  in a cardboard box, he has the power to change the world. Thanks to an experimental
+  drug that he received during his youth, Colin can see "nodal points" in the vast
+  streams of data that make up the worldwide computer network. Nodal points are rare
+  but significant events in history that forever change society, even though they
+  might not be recognizable as such when they occur. Colin isn't quite sure what's
+  going to happen when society reaches this latest nodal point, but he knows it's
+  going to be big. And he knows it's going to occur on the Bay Bridge in San Francisco,
+  which has been home to a sort of SoHo-esque shantytown since an earthquake rendered
+  it structurally unsound to carry traffic.<br /><br />Although <i>All Tomorrow's
+  Parties</i> includes characters from two of Gibson's earlier novels, it's not a
+  direct sequel to either. It's a stand-alone book.<i>--Craig E. Engler</i>
+edition_information: First Edition
+format: Trade Paperback
+id: '888626'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: '0441007554'
+isbn13: '9780441007554'
+json: '{"id": "888626", "isbn": "0441007554", "isbn13": "9780441007554", "text_reviews_count":
+  {"@type": "integer", "#text": "12"}, "uri": "kca://book/amzn1.gr.book.v1.xDD_8KvuSn1kxaFV-5l0Lg",
+  "title": "All Tomorrow''s Parties (Bridge Trilogy, #3)", "title_without_series":
+  "All Tomorrow''s Parties", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/888626.All_Tomorrow_s_Parties",
+  "num_pages": "278", "format": "Trade Paperback", "edition_information": "First Edition",
+  "publisher": "Penguin Berkley Ace Books", "publication_day": "1", "publication_year":
+  "2000", "publication_month": "8", "average_rating": "3.93", "ratings_count": "16749",
+  "description": "Although Colin Laney (from Gibson''s earlier novel <i>Idoru</i>)
+  lives in a cardboard box, he has the power to change the world. Thanks to an experimental
+  drug that he received during his youth, Colin can see \"nodal points\" in the vast
+  streams of data that make up the worldwide computer network. Nodal points are rare
+  but significant events in history that forever change society, even though they
+  might not be recognizable as such when they occur. Colin isn''t quite sure what''s
+  going to happen when society reaches this latest nodal point, but he knows it''s
+  going to be big. And he knows it''s going to occur on the Bay Bridge in San Francisco,
+  which has been home to a sort of SoHo-esque shantytown since an earthquake rendered
+  it structurally unsound to carry traffic.<br /><br />Although <i>All Tomorrow''s
+  Parties</i> includes characters from two of Gibson''s earlier novels, it''s not
+  a direct sequel to either. It''s a stand-alone book.<i>--Craig E. Engler</i>", "authors":
+  {"author": {"id": "9226", "name": "William Gibson", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1373826214p5/9226.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1373826214p2/9226.jpg"},
+  "link": "https://www.goodreads.com/author/show/9226.William_Gibson", "average_rating":
+  "3.89", "ratings_count": "766924", "text_reviews_count": "37601"}}, "published":
+  "2000", "work": {"id": "513838", "uri": "kca://work/amzn1.gr.work.v1.pp_UKBKZZNt0Wvd6zWqn3w"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417661",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B000O76ONG
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/888626.All_Tomorrow_s_Parties
+marketplace_id: ATVPDKIKX0DER
+num_pages: '278'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '6631'
+    '@name': to-read
+  - '@count': '552'
+    '@name': science-fiction
+  - '@count': '402'
+    '@name': cyberpunk
+  - '@count': '401'
+    '@name': sci-fi
+  - '@count': '339'
+    '@name': fiction
+  - '@count': '332'
+    '@name': currently-reading
+  - '@count': '173'
+    '@name': owned
+  - '@count': '125'
+    '@name': scifi
+  - '@count': '88'
+    '@name': sf
+  - '@count': '55'
+    '@name': favorites
+  - '@count': '54'
+    '@name': default
+  - '@count': '44'
+    '@name': william-gibson
+  - '@count': '39'
+    '@name': sci-fi-fantasy
+  - '@count': '33'
+    '@name': library
+  - '@count': '30'
+    '@name': speculative-fiction
+  - '@count': '26'
+    '@name': gibson
+  - '@count': '26'
+    '@name': science
+  - '@count': '26'
+    '@name': novels
+  - '@count': '20'
+    '@name': owned-books
+  - '@count': '20'
+    '@name': books-i-own
+  - '@count': '20'
+    '@name': dystopia
+  - '@count': '17'
+    '@name': series
+  - '@count': '17'
+    '@name': ebook
+  - '@count': '17'
+    '@name': cyber-punk
+  - '@count': '15'
+    '@name': kindle
+  - '@count': '14'
+    '@name': fantasy
+  - '@count': '13'
+    '@name': my-library
+  - '@count': '13'
+    '@name': unread
+  - '@count': '13'
+    '@name': scifi-fantasy
+  - '@count': '12'
+    '@name': ebooks
+  - '@count': '12'
+    '@name': fantascienza
+  - '@count': '11'
+    '@name': bookshelf
+  - '@count': '11'
+    '@name': my-books
+  - '@count': '11'
+    '@name': calibre
+  - '@count': '11'
+    '@name': books
+  - '@count': '11'
+    '@name': sff
+  - '@count': '11'
+    '@name': science-fiction-fantasy
+  - '@count': '10'
+    '@name': 1990s
+  - '@count': '10'
+    '@name': sf-fantasy
+  - '@count': '10'
+    '@name': near-future
+  - '@count': '9'
+    '@name': san-francisco
+  - '@count': '9'
+    '@name': american
+  - '@count': '9'
+    '@name': literature
+  - '@count': '8'
+    '@name': have
+  - '@count': '8'
+    '@name': english
+  - '@count': '8'
+    '@name': scanned
+  - '@count': '8'
+    '@name': audio
+  - '@count': '8'
+    '@name': california
+  - '@count': '8'
+    '@name': to-buy
+  - '@count': '8'
+    '@name': speculative
+  - '@count': '8'
+    '@name': sci-fi-and-fantasy
+  - '@count': '8'
+    '@name': own-it
+  - '@count': '8'
+    '@name': home
+  - '@count': '8'
+    '@name': canadian
+  - '@count': '8'
+    '@name': re-read
+  - '@count': '7'
+    '@name': owned-unread
+  - '@count': '7'
+    '@name': physical
+  - '@count': '7'
+    '@name': ciencia-ficcion
+  - '@count': '7'
+    '@name': audiobook
+  - '@count': '7'
+    '@name': adventure
+  - '@count': '7'
+    '@name': 20th-century
+  - '@count': '7'
+    '@name': dystopian
+  - '@count': '7'
+    '@name': sciencefiction
+  - '@count': '7'
+    '@name': novel
+  - '@count': '7'
+    '@name': audiobooks
+  - '@count': '6'
+    '@name': favourites
+  - '@count': '6'
+    '@name': finished
+  - '@count': '6'
+    '@name': paper
+  - '@count': '6'
+    '@name': sf-f
+  - '@count': '6'
+    '@name': general
+  - '@count': '6'
+    '@name': e-books
+  - '@count': '5'
+    '@name': sci-fi-cyberpunk
+  - '@count': '5'
+    '@name': kobo
+  - '@count': '5'
+    '@name': bridge-trilogy
+  - '@count': '5'
+    '@name': physical-books
+  - '@count': '5'
+    '@name': audible
+  - '@count': '5'
+    '@name': fantasy-scifi
+  - '@count': '5'
+    '@name': san
+  - '@count': '5'
+    '@name': francisco
+  - '@count': '5'
+    '@name': hardcover
+  - '@count': '5'
+    '@name': narrativa
+  - '@count': '5'
+    '@name': i-own-it
+  - '@count': '5'
+    '@name': not-read
+  - '@count': '5'
+    '@name': to-reread
+  - '@count': '5'
+    '@name': gibson-william
+  - '@count': '5'
+    '@name': genre
+  - '@count': '4'
+    '@name': audio_wanted
+  - '@count': '4'
+    '@name': bought
+  - '@count': '4'
+    '@name': e-book
+  - '@count': '4'
+    '@name': home-library
+  - '@count': '4'
+    '@name': collection
+  - '@count': '4'
+    '@name': sf-cyberpunk
+  - '@count': '4'
+    '@name': not-owned
+  - '@count': '4'
+    '@name': fiction-science-fiction
+  - '@count': '4'
+    '@name': maybe
+  - '@count': '4'
+    '@name': looking-for
+  - '@count': '4'
+    '@name': artificial-intelligence
+  - '@count': '4'
+    '@name': spec-fic
+  - '@count': '4'
+    '@name': thriller
+  - '@count': '4'
+    '@name': digital
+publication_day: '1'
+publication_month: '8'
+publication_year: '2000'
+published: '2000'
+publisher: Penguin Berkley Ace Books
+ratings_count: '16749'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417661
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/888626.All_Tomorrow_s_Parties\"\
+  >All Tomorrow&#39;s Parties Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0441007554&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/888626.All_Tomorrow_s_Parties?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '150005'
+    series:
+      description: "DE: Idoru-Trilogie\n    \n    The Bridge trilogy is a series of\
+        \ novels by William Gibson, his second after the successful Sprawl trilogy.\
+        \ The trilogy comprises the novels <i>Virtual Light</i> (1993), <i>Idoru</i>,\
+        \ (1996) and <i>All Tomorrow's Parties</i> (1999). A short story, \"Skinner's\
+        \ Room\", was originally composed for Visionary San Francisco, a 1990 museum\
+        \ exhibition exploring the future of San Francisco."
+      id: '42753'
+      note: null
+      numbered: 'true'
+      primary_work_count: '3'
+      series_works_count: '4'
+      title: Bridge
+    user_position: '3'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '14407836'
+        link: https://www.goodreads.com/author/show/14407836.A_R_Merrydew
+        name: A.R. Merrydew
+    average_rating: '3.93'
+    id: '215186841'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/215186841-inara
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '16749'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Inara (Godfrey Davis, #3)'
+    title_without_series: Inara
+    uri: kca://book/amzn1.gr.book.v3.wCOHuKhf0nZUkB2e
+    work:
+      id: '221595685'
+  - authors:
+      author:
+        id: '6899673'
+        link: https://www.goodreads.com/author/show/6899673.Todor_Bombov
+        name: Todor Bombov
+    average_rating: '3.93'
+    id: '61085357'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652446489l/61085357._SX98_.jpg
+    isbn: '1682353761'
+    isbn13: '9781682353769'
+    link: https://www.goodreads.com/book/show/61085357-homo-cosmicus-2
+    num_pages: '152'
+    publication_day: '5'
+    publication_month: '4'
+    publication_year: '2022'
+    ratings_count: '16749'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652446489l/61085357._SY75_.jpg
+    title: 'Homo Cosmicus 2: Titan: A Science Fiction Novel'
+    title_without_series: 'Homo Cosmicus 2: Titan: A Science Fiction Novel'
+    uri: kca://book/amzn1.gr.book.v3.nhyNJvDXiLJZFgQk
+    work:
+      id: '96278683'
+  - authors:
+      author:
+        id: '8794'
+        link: https://www.goodreads.com/author/show/8794.Charles_Stross
+        name: Charles Stross
+    average_rating: '3.93'
+    id: '17866'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0441014038
+    isbn13: '9780441014033'
+    link: https://www.goodreads.com/book/show/17866.Glasshouse
+    num_pages: '335'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '16749'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Glasshouse
+    title_without_series: Glasshouse
+    uri: kca://book/amzn1.gr.book.v1.Al616kc_qDY703aLIYRLeQ
+    work:
+      id: '930588'
+  - authors:
+      author:
+        id: '7448339'
+        link: https://www.goodreads.com/author/show/7448339.Steven_Decker
+        name: Steven Decker
+    average_rating: '3.93'
+    id: '200923963'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698512599l/200923963._SX98_.jpg
+    isbn: null
+    isbn13: '9798987394014'
+    link: https://www.goodreads.com/book/show/200923963-child-of-another-kind
+    num_pages: '392'
+    publication_day: '18'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '16749'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698512599l/200923963._SY75_.jpg
+    title: 'Child of Another Kind (Another Kind #1)'
+    title_without_series: Child of Another Kind
+    uri: kca://book/amzn1.gr.book.v3.cpxUKP4J15at4iaw
+    work:
+      id: '144050375'
+  - authors:
+      author:
+        id: '58'
+        link: https://www.goodreads.com/author/show/58.Frank_Herbert
+        name: Frank Herbert
+    average_rating: '3.93'
+    id: '2011'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0765342537'
+    isbn13: '9780765342539'
+    link: https://www.goodreads.com/book/show/2011.The_Dosadi_Experiment
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '16749'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Dosadi Experiment (ConSentiency Universe, #2)'
+    title_without_series: The Dosadi Experiment
+    uri: kca://book/amzn1.gr.book.v1.hdPtwmhSJygI_cqAY214cg
+    work:
+      id: '6983472'
+  - authors:
+      author:
+        id: '22565447'
+        link: https://www.goodreads.com/author/show/22565447.Therisa_Peimer
+        name: Therisa Peimer
+    average_rating: '3.93'
+    id: '61608233'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658244114l/61608233._SX98_.jpg
+    isbn: '1039125611'
+    isbn13: '9781039125612'
+    link: https://www.goodreads.com/book/show/61608233-taming-flame
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '16749'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658244114l/61608233._SX50_.jpg
+    title: Taming Flame
+    title_without_series: Taming Flame
+    uri: kca://book/amzn1.gr.book.v3.clKIDY7JJdvmz7KB
+    work:
+      id: '97169008'
+  - authors:
+      author:
+        id: '2917920'
+        link: https://www.goodreads.com/author/show/2917920.Ken_Liu
+        name: Ken Liu
+    average_rating: '3.93'
+    id: '28220730'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463570833l/28220730._SX98_.jpg
+    isbn: 0765384191
+    isbn13: '9780765384195'
+    link: https://www.goodreads.com/book/show/28220730-invisible-planets
+    num_pages: '383'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '16749'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463570833l/28220730._SY75_.jpg
+    title: 'Invisible Planets: Contemporary Chinese Science Fiction in Translation'
+    title_without_series: 'Invisible Planets: Contemporary Chinese Science Fiction
+      in Translation'
+    uri: kca://book/amzn1.gr.book.v1.hHDbUVuyKKdDFnxSRmweMg
+    work:
+      id: '48249401'
+  - authors:
+      author:
+        id: '10089'
+        link: https://www.goodreads.com/author/show/10089.Philip_Jos_Farmer
+        name: "Philip Jos\xE9 Farmer"
+    average_rating: '3.93'
+    id: '16536'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0345419685
+    isbn13: '9780345419682'
+    link: https://www.goodreads.com/book/show/16536.The_Fabulous_Riverboat
+    num_pages: '231'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '16749'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Fabulous Riverboat (Riverworld #2)'
+    title_without_series: The Fabulous Riverboat
+    uri: kca://book/amzn1.gr.book.v1.Cwt1JqafUfMTuPmmHaP1Ww
+    work:
+      id: '18220'
+  - authors:
+      author:
+        id: '32699'
+        link: https://www.goodreads.com/author/show/32699.Greg_Egan
+        name: Greg Egan
+    average_rating: '3.93'
+    id: '156775'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0061054232'
+    isbn13: '9780061054235'
+    link: https://www.goodreads.com/book/show/156775.Quarantine
+    num_pages: '280'
+    publication_day: '1'
+    publication_month: '1'
+    publication_year: '1995'
+    ratings_count: '16749'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Quarantine
+    title_without_series: Quarantine
+    uri: kca://book/amzn1.gr.book.v1.ZIhdUysjLzGS9M71ANUG8Q
+    work:
+      id: '1270545'
+  - authors:
+      author:
+        id: '11137'
+        link: https://www.goodreads.com/author/show/11137.Adam_Rex
+        name: Adam Rex
+    average_rating: '3.93'
+    id: '1194366'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0786849002
+    isbn13: '9780786849000'
+    link: https://www.goodreads.com/book/show/1194366.The_True_Meaning_of_Smekday
+    num_pages: '426'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '16749'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The True Meaning of Smekday
+    title_without_series: The True Meaning of Smekday
+    uri: kca://book/amzn1.gr.book.v1.HIImoe8XbjXSKn59xrKn4A
+    work:
+      id: '1182420'
+  - authors:
+      author:
+        id: '545'
+        link: https://www.goodreads.com/author/show/545.Neal_Stephenson
+        name: Neal Stephenson
+    average_rating: '3.93'
+    id: '199793426'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714031079l/199793426._SX98_.jpg
+    isbn: 0062334492
+    isbn13: '9780062334497'
+    link: https://www.goodreads.com/book/show/199793426-polostan
+    num_pages: '303'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '16749'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714031079l/199793426._SY75_.jpg
+    title: 'Polostan (Bomb Light, #1)'
+    title_without_series: Polostan
+    uri: kca://book/amzn1.gr.book.v3.8CLQbGH4z-T5lvaG
+    work:
+      id: '73605495'
+  - authors:
+      author:
+        id: '545'
+        link: https://www.goodreads.com/author/show/545.Neal_Stephenson
+        name: Neal Stephenson
+    average_rating: '3.93'
+    id: '61240297'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1656932283l/61240297._SX98_.jpg
+    isbn: 059359973X
+    isbn13: '9780593599730'
+    link: https://www.goodreads.com/book/show/61240297-snow-crash
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '16749'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1656932283l/61240297._SY75_.jpg
+    title: Snow Crash
+    title_without_series: Snow Crash
+    uri: kca://book/amzn1.gr.book.v3.hgj087Bmokbxdumw
+    work:
+      id: '493634'
+  - authors:
+      author:
+        id: '12534'
+        link: https://www.goodreads.com/author/show/12534.Larry_Niven
+        name: Larry Niven
+    average_rating: '3.93'
+    id: '100344'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403179200l/100344._SY160_.jpg
+    isbn: 0345353129
+    isbn13: '9780345353122'
+    link: https://www.goodreads.com/book/show/100344.Protector
+    num_pages: '218'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '16749'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403179200l/100344._SY75_.jpg
+    title: Protector (Known Space)
+    title_without_series: Protector
+    uri: kca://book/amzn1.gr.book.v1.BKIMeD-pDiUokTcgwx5v7A
+    work:
+      id: '2576385'
+  - authors:
+      author:
+        id: '8835'
+        link: https://www.goodreads.com/author/show/8835.Tim_Powers
+        name: Tim Powers
+    average_rating: '3.93'
+    id: '142296'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344409006l/142296._SX98_.jpg
+    isbn: '0441004016'
+    isbn13: '9780441004010'
+    link: https://www.goodreads.com/book/show/142296.The_Anubis_Gates
+    num_pages: '387'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '16749'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344409006l/142296._SY75_.jpg
+    title: The Anubis Gates
+    title_without_series: The Anubis Gates
+    uri: kca://book/amzn1.gr.book.v1.RYDEriAo1kTtdSKyJmgVyg
+    work:
+      id: '2193115'
+  - authors:
+      author:
+        id: '205'
+        link: https://www.goodreads.com/author/show/205.Robert_A_Heinlein
+        name: Robert A. Heinlein
+    average_rating: '3.93'
+    id: '354'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629411445l/354._SY160_.jpg
+    isbn: 0441748600
+    isbn13: '9780441748600'
+    link: https://www.goodreads.com/book/show/354.To_Sail_Beyond_the_Sunset
+    num_pages: '434'
+    publication_day: null
+    publication_month: '6'
+    publication_year: '1988'
+    ratings_count: '16749'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629411445l/354._SY75_.jpg
+    title: To Sail Beyond the Sunset
+    title_without_series: To Sail Beyond the Sunset
+    uri: kca://book/amzn1.gr.book.v1.fSD6a4Lf4ar7TNQnStAQaA
+    work:
+      id: '347280'
+  - authors:
+      author:
+        id: '2768002'
+        link: https://www.goodreads.com/author/show/2768002.Hannu_Rajaniemi
+        name: Hannu Rajaniemi
+    average_rating: '3.93'
+    id: '12074927'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/12074927-the-fractal-prince
+    num_pages: '320'
+    publication_day: '27'
+    publication_month: '9'
+    publication_year: '2012'
+    ratings_count: '16749'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Fractal Prince (Jean le Flambeur, #2)'
+    title_without_series: The Fractal Prince
+    uri: kca://book/amzn1.gr.book.v1.Bmx9p9jljTaCW34TbNnm2w
+    work:
+      id: '17042640'
+  - authors:
+      author:
+        id: '76471'
+        link: https://www.goodreads.com/author/show/76471.George_Alec_Effinger
+        name: George Alec Effinger
+    average_rating: '3.93'
+    id: '358991'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0765313596
+    isbn13: '9780765313591'
+    link: https://www.goodreads.com/book/show/358991.A_Fire_in_the_Sun
+    num_pages: null
+    publication_day: '21'
+    publication_month: '2'
+    publication_year: '2006'
+    ratings_count: '16749'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: "A Fire in the Sun (Mar\xEEd Audran, #2)"
+    title_without_series: A Fire in the Sun
+    uri: kca://book/amzn1.gr.book.v1.BNHTQzlSTZix6d_0TzIc4A
+    work:
+      id: '349114'
+  - authors:
+      author:
+        id: '12980'
+        link: https://www.goodreads.com/author/show/12980.Stephen_R_Donaldson
+        name: Stephen R. Donaldson
+    average_rating: '3.93'
+    id: '427353'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395844757l/427353._SY160_.jpg
+    isbn: 0553295098
+    isbn13: '9780553295092'
+    link: https://www.goodreads.com/book/show/427353.The_Gap_Into_Conflict
+    num_pages: '241'
+    publication_day: null
+    publication_month: '7'
+    publication_year: '1992'
+    ratings_count: '16749'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395844757l/427353._SY75_.jpg
+    title: 'The Gap Into Conflict: The Real Story (The Gap Cycle #1)'
+    title_without_series: 'The Gap Into Conflict: The Real Story'
+    uri: kca://book/amzn1.gr.book.v1.jUq6ahASuL3fG4x5jgVCyQ
+    work:
+      id: '593713'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '12'
+  '@type': integer
+title: 'All Tomorrow''s Parties (Bridge Trilogy, #3)'
+title_without_series: All Tomorrow's Parties
+uri: kca://book/amzn1.gr.book.v1.xDD_8KvuSn1kxaFV-5l0Lg
+url: https://www.goodreads.com/book/show/888626.All_Tomorrow_s_Parties
+work:
+  id: '513838'
+  uri: kca://work/amzn1.gr.work.v1.pp_UKBKZZNt0Wvd6zWqn3w

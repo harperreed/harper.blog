@@ -1,0 +1,752 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.91'
+    id: '55473'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1299843760p5/55473.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/55473.Jeremy_Scahill
+    name: Jeremy Scahill
+    ratings_count: '14280'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1299843760p2/55473.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '1327'
+average_rating: '3.81'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: null
+edition_information: Revised, Updated ed.
+format: null
+id: '1920578'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379393637l/1920578._SX98_.jpg
+is_ebook: 'false'
+isbn: 156858394X
+isbn13: '9781568583945'
+json: '{"id": "1920578", "isbn": "156858394X", "isbn13": "9781568583945", "text_reviews_count":
+  {"@type": "integer", "#text": "37"}, "uri": "kca://book/amzn1.gr.book.v1.DBBDMux5z8D9JtnjOhnq6Q",
+  "title": "Blackwater: The Rise of the World''s Most Powerful Mercenary Army", "title_without_series":
+  "Blackwater: The Rise of the World''s Most Powerful Mercenary Army", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379393637l/1920578._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379393637l/1920578._SX50_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/1920578.Blackwater",
+  "num_pages": "550", "format": null, "edition_information": "Revised, Updated ed.",
+  "publisher": null, "publication_day": null, "publication_year": null, "publication_month":
+  null, "average_rating": "3.81", "ratings_count": "8199", "description": null, "authors":
+  {"author": {"id": "55473", "name": "Jeremy Scahill", "role": null, "image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1299843760p5/55473.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1299843760p2/55473.jpg"},
+  "link": "https://www.goodreads.com/author/show/55473.Jeremy_Scahill", "average_rating":
+  "3.91", "ratings_count": "14280", "text_reviews_count": "1327"}}, "published": null,
+  "work": {"id": "93002", "uri": "kca://work/amzn1.gr.work.v1.MwSA1028lT8C7GJmGbN1xQ"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/42404736",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B0097CYTYA
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/1920578.Blackwater
+marketplace_id: ATVPDKIKX0DER
+num_pages: '550'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '11180'
+    '@name': to-read
+  - '@count': '610'
+    '@name': currently-reading
+  - '@count': '381'
+    '@name': non-fiction
+  - '@count': '241'
+    '@name': politics
+  - '@count': '221'
+    '@name': history
+  - '@count': '128'
+    '@name': nonfiction
+  - '@count': '109'
+    '@name': war
+  - '@count': '109'
+    '@name': military
+  - '@count': '73'
+    '@name': owned
+  - '@count': '27'
+    '@name': military-history
+  - '@count': '27'
+    '@name': books-i-own
+  - '@count': '26'
+    '@name': middle-east
+  - '@count': '26'
+    '@name': iraq
+  - '@count': '24'
+    '@name': library
+  - '@count': '21'
+    '@name': default
+  - '@count': '21'
+    '@name': journalism
+  - '@count': '21'
+    '@name': political
+  - '@count': '20'
+    '@name': audiobook
+  - '@count': '19'
+    '@name': audiobooks
+  - '@count': '19'
+    '@name': current-affairs
+  - '@count': '18'
+    '@name': american-history
+  - '@count': '17'
+    '@name': audio
+  - '@count': '16'
+    '@name': current-events
+  - '@count': '15'
+    '@name': business
+  - '@count': '14'
+    '@name': favorites
+  - '@count': '13'
+    '@name': my-library
+  - '@count': '13'
+    '@name': my-books
+  - '@count': '12'
+    '@name': geopolitics
+  - '@count': '12'
+    '@name': owned-books
+  - '@count': '12'
+    '@name': abandoned
+  - '@count': '11'
+    '@name': foreign-policy
+  - '@count': '11'
+    '@name': to-read-non-fiction
+  - '@count': '11'
+    '@name': mercenaries
+  - '@count': '11'
+    '@name': terrorism
+  - '@count': '11'
+    '@name': to-buy
+  - '@count': '10'
+    '@name': war-on-terror
+  - '@count': '10'
+    '@name': history-politics
+  - '@count': '10'
+    '@name': government
+  - '@count': '10'
+    '@name': america
+  - '@count': '9'
+    '@name': historical
+  - '@count': '9'
+    '@name': usa
+  - '@count': '9'
+    '@name': biography
+  - '@count': '9'
+    '@name': political-science
+  - '@count': '8'
+    '@name': "\u0633\u064A\u0627\u0633\u0629"
+  - '@count': '8'
+    '@name': economics
+  - '@count': '7'
+    '@name': ebooks
+  - '@count': '7'
+    '@name': social-justice
+  - '@count': '7'
+    '@name': kindle
+  - '@count': '7'
+    '@name': us-history
+  - '@count': '7'
+    '@name': wish-list
+  - '@count': '6'
+    '@name': home-library
+  - '@count': '6'
+    '@name': ebook
+  - '@count': '6'
+    '@name': i-own
+  - '@count': '6'
+    '@name': espionage
+  - '@count': '6'
+    '@name': non-fic
+  - '@count': '6'
+    '@name': crime
+  - '@count': '6'
+    '@name': want-to-read
+  - '@count': '6'
+    '@name': 2000s
+  - '@count': '5'
+    '@name': physical-tbr
+  - '@count': '5'
+    '@name': personal-library
+  - '@count': '5'
+    '@name': social-issues
+  - '@count': '5'
+    '@name': did-not-finish
+  - '@count': '5'
+    '@name': politics-history
+  - '@count': '5'
+    '@name': scanned
+  - '@count': '5'
+    '@name': unread
+  - '@count': '5'
+    '@name': warfare
+  - '@count': '5'
+    '@name': paused
+  - '@count': '5'
+    '@name': audio-books
+  - '@count': '5'
+    '@name': american
+  - '@count': '5'
+    '@name': corruption
+  - '@count': '5'
+    '@name': military-war
+  - '@count': '5'
+    '@name': audible
+  - '@count': '5'
+    '@name': iraq-war
+  - '@count': '4'
+    '@name': modern-war
+  - '@count': '4'
+    '@name': imperialism
+  - '@count': '4'
+    '@name': nonfiction-tbr
+  - '@count': '4'
+    '@name': my-bookshelf
+  - '@count': '4'
+    '@name': owned-to-read
+  - '@count': '4'
+    '@name': backlog
+  - '@count': '4'
+    '@name': dnf
+  - '@count': '4'
+    '@name': bookshelf
+  - '@count': '4'
+    '@name': own-to-read
+  - '@count': '4'
+    '@name': bush-administration
+  - '@count': '4'
+    '@name': physical
+  - '@count': '4'
+    '@name': us-politics
+  - '@count': '4'
+    '@name': afghanistan
+  - '@count': '4'
+    '@name': war-military
+  - '@count': '4'
+    '@name': on-the-shelf
+  - '@count': '4'
+    '@name': education
+  - '@count': '4'
+    '@name': books-to-buy
+  - '@count': '4'
+    '@name': international-relations
+  - '@count': '4'
+    '@name': 4-star
+  - '@count': '4'
+    '@name': true-crime
+  - '@count': '4'
+    '@name': have
+  - '@count': '4'
+    '@name': capitalism
+  - '@count': '4'
+    '@name': united-states
+  - '@count': '4'
+    '@name': religion
+  - '@count': '4'
+    '@name': non-fiction-to-read
+  - '@count': '4'
+    '@name': research
+  - '@count': '4'
+    '@name': to-read-nonfiction
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '8199'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/42404736
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/1920578.Blackwater\"\
+  >Blackwater Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=156858394X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/1920578.Blackwater?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '15015247'
+        link: https://www.goodreads.com/author/show/15015247.Michael_G_Kramer
+        name: Michael G. Kramer
+    average_rating: '3.81'
+    id: '60657747'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647831441l/60657747._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/60657747-a-gracious-enemy-after-the-war-volume-one
+    num_pages: '470'
+    publication_day: null
+    publication_month: '3'
+    publication_year: '2022'
+    ratings_count: '8199'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647831441l/60657747._SY75_.jpg
+    title: A Gracious Enemy & After the War Volume One
+    title_without_series: A Gracious Enemy & After the War Volume One
+    uri: kca://book/amzn1.gr.book.v3.Q7x9FGiRUqnbfArG
+    work:
+      id: '95622526'
+  - authors:
+      author:
+        id: '21949591'
+        link: https://www.goodreads.com/author/show/21949591.John_Payton_Foden
+        name: John Payton Foden
+    average_rating: '3.81'
+    id: '59448257'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 092133284X
+    isbn13: '9780921332848'
+    link: https://www.goodreads.com/book/show/59448257-magenta
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '8199'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Magenta
+    title_without_series: Magenta
+    uri: kca://book/amzn1.gr.book.v3.4vIBID30HGWAErFt
+    work:
+      id: '93642039'
+  - authors:
+      author:
+        id: '49422'
+        link: https://www.goodreads.com/author/show/49422.Thomas_E_Ricks
+        name: Thomas E. Ricks
+    average_rating: '3.81'
+    id: '86342'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 159420103X
+    isbn13: '9781594201035'
+    link: https://www.goodreads.com/book/show/86342.Fiasco
+    num_pages: '482'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '8199'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Fiasco: The American Military Adventure in Iraq'
+    title_without_series: 'Fiasco: The American Military Adventure in Iraq'
+    uri: kca://book/amzn1.gr.book.v1.NCcLreX6P9Szmr9UWbHbKA
+    work:
+      id: '1465267'
+  - authors:
+      author:
+        id: '40651'
+        link: https://www.goodreads.com/author/show/40651.Steve_Coll
+        name: Steve Coll
+    average_rating: '3.81'
+    id: '71984'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0143034669
+    isbn13: '9780143034667'
+    link: https://www.goodreads.com/book/show/71984.Ghost_Wars
+    num_pages: '712'
+    publication_day: '28'
+    publication_month: '12'
+    publication_year: '2004'
+    ratings_count: '8199'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden
+      from the Soviet Invasion to September 10, 2001'
+    title_without_series: 'Ghost Wars: The Secret History of the CIA, Afghanistan,
+      and Bin Laden from the Soviet Invasion to September 10, 2001'
+    uri: kca://book/amzn1.gr.book.v1.UnX46qngM41eDPFbnQnNfg
+    work:
+      id: '69695'
+  - authors:
+      author:
+        id: '159090'
+        link: https://www.goodreads.com/author/show/159090.Tim_Weiner
+        name: Tim Weiner
+    average_rating: '3.81'
+    id: '970488'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320525571l/970488._SX98_.jpg
+    isbn: 038551445X
+    isbn13: '9780385514453'
+    link: https://www.goodreads.com/book/show/970488.Legacy_of_Ashes
+    num_pages: '514'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '8199'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320525571l/970488._SY75_.jpg
+    title: 'Legacy of Ashes: The History of the CIA'
+    title_without_series: 'Legacy of Ashes: The History of the CIA'
+    uri: kca://book/amzn1.gr.book.v1.qeUV5K5KOWqTFlQ9mElZQw
+    work:
+      id: '2202139'
+  - authors:
+      author:
+        id: '17156904'
+        link: https://www.goodreads.com/author/show/17156904.Kathleen_Belew
+        name: Kathleen Belew
+    average_rating: '3.81'
+    id: '36228413'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514816478l/36228413._SX98_.jpg
+    isbn: 0674286073
+    isbn13: '9780674286078'
+    link: https://www.goodreads.com/book/show/36228413-bring-the-war-home
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '8199'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514816478l/36228413._SY75_.jpg
+    title: 'Bring the War Home: The White Power Movement and Paramilitary America'
+    title_without_series: 'Bring the War Home: The White Power Movement and Paramilitary
+      America'
+    uri: kca://book/amzn1.gr.book.v1.gf8NkGRjLPqx5FqMFw_jtQ
+    work:
+      id: '57868055'
+  - authors:
+      author:
+        id: '7499942'
+        link: https://www.goodreads.com/author/show/7499942.Miranda_Carter
+        name: Miranda Carter
+    average_rating: '3.81'
+    id: '6709606'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320563703l/6709606._SX98_.jpg
+    isbn: '1400043638'
+    isbn13: '9781400043637'
+    link: https://www.goodreads.com/book/show/6709606-george-nicholas-and-wilhelm
+    num_pages: '528'
+    publication_day: '23'
+    publication_month: '3'
+    publication_year: '2010'
+    ratings_count: '8199'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320563703l/6709606._SX50_.jpg
+    title: 'George, Nicholas and Wilhelm: Three Royal Cousins and the Road to World
+      War I'
+    title_without_series: 'George, Nicholas and Wilhelm: Three Royal Cousins and the
+      Road to World War I'
+    uri: kca://book/amzn1.gr.book.v1.GmuelyzqaShcsj8dAoXatg
+    work:
+      id: '6905443'
+  - authors:
+      author:
+        id: '23108535'
+        link: https://www.goodreads.com/author/show/23108535.K_G_E_Konkel
+        name: K.G.E. Konkel
+    average_rating: '3.81'
+    id: '83171755'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0888903421
+    isbn13: '9780888903426'
+    link: https://www.goodreads.com/book/show/83171755-who-has-buried-the-dead
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '8199'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: "Who Has Buried the Dead?: From Stalin to Putin \u2026 The last great secret\
+      \ of World War Two"
+    title_without_series: "Who Has Buried the Dead?: From Stalin to Putin \u2026 The\
+      \ last great secret of World War Two"
+    uri: kca://book/amzn1.gr.book.v3.bSAFWAGQ-pRgIt1U
+    work:
+      id: '99938573'
+  - authors:
+      author:
+        id: '232736'
+        link: https://www.goodreads.com/author/show/232736.Gerald_Astor
+        name: Gerald Astor
+    average_rating: '3.81'
+    id: '2933803'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0891417605
+    isbn13: '9780891417606'
+    link: https://www.goodreads.com/book/show/2933803-terrible-terry-allen
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '8199'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Terrible Terry Allen: Combat General of World War II - The Life of an
+      American Soldier'
+    title_without_series: 'Terrible Terry Allen: Combat General of World War II -
+      The Life of an American Soldier'
+    uri: kca://book/amzn1.gr.book.v1.TKmTLL7lxrF3Fx17QNDuXw
+    work:
+      id: '2961251'
+  - authors:
+      author:
+        id: '31233'
+        link: https://www.goodreads.com/author/show/31233.Max_Hastings
+        name: Max Hastings
+    average_rating: '3.81'
+    id: '1960034'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320531980l/1960034._SX98_.jpg
+    isbn: '0307263517'
+    isbn13: '9780307263513'
+    link: https://www.goodreads.com/book/show/1960034.Retribution
+    num_pages: '615'
+    publication_day: null
+    publication_month: null
+    publication_year: '2008'
+    ratings_count: '8199'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320531980l/1960034._SX50_.jpg
+    title: 'Retribution: The Battle for Japan, 1944-45'
+    title_without_series: 'Retribution: The Battle for Japan, 1944-45'
+    uri: kca://book/amzn1.gr.book.v1.mka8T1n-br3_UtOTJu-Jgw
+    work:
+      id: '1963073'
+  - authors:
+      author:
+        id: '21234'
+        link: https://www.goodreads.com/author/show/21234.Michael_Parenti
+        name: Michael Parenti
+    average_rating: '3.81'
+    id: '673719'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0312020139
+    isbn13: '9780312020132'
+    link: https://www.goodreads.com/book/show/673719.Inventing_Reality
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '8199'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Inventing Reality: The Politics of News Media'
+    title_without_series: 'Inventing Reality: The Politics of News Media'
+    uri: kca://book/amzn1.gr.book.v1.c-bPLWy-wDN5movOZr_YdQ
+    work:
+      id: '1180796'
+  - authors:
+      author:
+        id: '910230'
+        link: https://www.goodreads.com/author/show/910230.Nick_Turse
+        name: Nick Turse
+    average_rating: '3.81'
+    id: '12292260'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361026288l/12292260._SX98_.jpg
+    isbn: 0805086919
+    isbn13: '9780805086911'
+    link: https://www.goodreads.com/book/show/12292260-kill-anything-that-moves
+    num_pages: '370'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '8199'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361026288l/12292260._SY75_.jpg
+    title: 'Kill Anything That Moves: The Real American War in Vietnam (American Empire
+      Project)'
+    title_without_series: 'Kill Anything That Moves: The Real American War in Vietnam'
+    uri: kca://book/amzn1.gr.book.v1.Z19pJyEgvGoqZqtso4lWxg
+    work:
+      id: '17268904'
+  - authors:
+      author:
+        id: '65834'
+        link: https://www.goodreads.com/author/show/65834.Selwyn_Raab
+        name: Selwyn Raab
+    average_rating: '3.81'
+    id: '652063'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312028942l/652063._SX98_.jpg
+    isbn: 0312300948
+    isbn13: '9780312300944'
+    link: https://www.goodreads.com/book/show/652063.Five_Families
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '8199'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312028942l/652063._SY75_.jpg
+    title: 'Five Families: The Rise, Decline, and Resurgence of America''s Most Powerful
+      Mafia Empires'
+    title_without_series: 'Five Families: The Rise, Decline, and Resurgence of America''s
+      Most Powerful Mafia Empires'
+    uri: kca://book/amzn1.gr.book.v1.OoIE7sMI0PXRAZV6eXYbow
+    work:
+      id: '109392'
+  - authors:
+      author:
+        id: '7032087'
+        link: https://www.goodreads.com/author/show/7032087.Annie_Jacobsen
+        name: Annie Jacobsen
+    average_rating: '3.81'
+    id: '41716921'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551108605l/41716921._SX98_.jpg
+    isbn: '0316441430'
+    isbn13: '9780316441438'
+    link: https://www.goodreads.com/book/show/41716921-surprise-kill-vanish
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '8199'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551108605l/41716921._SY75_.jpg
+    title: 'Surprise, Kill, Vanish: The Secret History Of CIA Paramilitary Armies,
+      Operators, And Assassins'
+    title_without_series: 'Surprise, Kill, Vanish: The Secret History Of CIA Paramilitary
+      Armies, Operators, And Assassins'
+    uri: kca://book/amzn1.gr.book.v1.8ZgMOu0cYHiNU0PgPQsQVw
+    work:
+      id: '65072667'
+  - authors:
+      author:
+        id: '31015'
+        link: https://www.goodreads.com/author/show/31015.Plutarch
+        name: Plutarch
+    average_rating: '3.81'
+    id: '279476'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0192825011
+    isbn13: '9780192825018'
+    link: https://www.goodreads.com/book/show/279476.Greek_Lives
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '8199'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Greek Lives
+    title_without_series: Greek Lives
+    uri: kca://book/amzn1.gr.book.v1.vWRf1HSh5yCDuLxY94M8pA
+    work:
+      id: '14048413'
+  - authors:
+      author:
+        id: '55270'
+        link: https://www.goodreads.com/author/show/55270.Stanley_Karnow
+        name: Stanley Karnow
+    average_rating: '3.81'
+    id: '96110'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535986107l/96110._SX98_.jpg
+    isbn: '0140265473'
+    isbn13: '9780140265477'
+    link: https://www.goodreads.com/book/show/96110.Vietnam
+    num_pages: null
+    publication_day: '26'
+    publication_month: '6'
+    publication_year: '1997'
+    ratings_count: '8199'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535986107l/96110._SY75_.jpg
+    title: 'Vietnam: A History'
+    title_without_series: 'Vietnam: A History'
+    uri: kca://book/amzn1.gr.book.v1.7J7O6MEUt2fhHZb2xvdwaw
+    work:
+      id: '92632'
+  - authors:
+      author:
+        id: '5882'
+        link: https://www.goodreads.com/author/show/5882.Stephen_E_Ambrose
+        name: Stephen E. Ambrose
+    average_rating: '3.81'
+    id: '49255'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0743203178
+    isbn13: '9780743203173'
+    link: https://www.goodreads.com/book/show/49255.Nothing_Like_It_in_the_World
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '8199'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Nothing Like It in the World: The Men Who Built the Transcontinental Railroad
+      1863-69'
+    title_without_series: 'Nothing Like It in the World: The Men Who Built the Transcontinental
+      Railroad 1863-69'
+    uri: kca://book/amzn1.gr.book.v1.BkMSeoSiScW6-uqMwZTvEQ
+    work:
+      id: '99506'
+  - authors:
+      author:
+        id: '23239'
+        link: https://www.goodreads.com/author/show/23239.John_C_Waugh
+        name: John C. Waugh
+    average_rating: '3.81'
+    id: '477519'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320413537l/477519._SX98_.jpg
+    isbn: 034543403X
+    isbn13: '9780345434036'
+    link: https://www.goodreads.com/book/show/477519.The_Class_of_1846
+    num_pages: '635'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '8199'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320413537l/477519._SX50_.jpg
+    title: 'The Class of 1846: From West Point to Appomattox: Stonewall Jackson, George
+      McClellan, and Their Brothers'
+    title_without_series: 'The Class of 1846: From West Point to Appomattox: Stonewall
+      Jackson, George McClellan, and Their Brothers'
+    uri: kca://book/amzn1.gr.book.v1.Pe7k7wTpYn72lBl9XM4PLw
+    work:
+      id: '465732'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379393637l/1920578._SX50_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '37'
+  '@type': integer
+title: 'Blackwater: The Rise of the World''s Most Powerful Mercenary Army'
+title_without_series: 'Blackwater: The Rise of the World''s Most Powerful Mercenary
+  Army'
+uri: kca://book/amzn1.gr.book.v1.DBBDMux5z8D9JtnjOhnq6Q
+url: https://www.goodreads.com/book/show/1920578.Blackwater
+work:
+  id: '93002'
+  uri: kca://work/amzn1.gr.work.v1.MwSA1028lT8C7GJmGbN1xQ

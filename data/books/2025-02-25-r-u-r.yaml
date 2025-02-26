@@ -1,0 +1,749 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.01'
+    id: '439723'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1208185188p5/439723.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/439723.Karel_apek
+    name: "Karel \u010Capek"
+    ratings_count: '68267'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1208185188p2/439723.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '5181'
+average_rating: '3.84'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: "<b>A visionary work of science fiction that introduced the word \"robot\"\
+  </b><br /><br />Written in 1920, premiered in Prague in 1921, and first performed\
+  \ in New York in 1922\u2014garnered worldwide acclaim for its author and popularized\
+  \ the word robot. Mass-produced as efficient laborers to serve man, Capek\u2019\
+  s Robots are an android product\u2014they remember everything but think of nothing\
+  \ new. But the Utopian life they provide ultimately lacks meaning, and the humans\
+  \ they serve stop reproducing. When the Robots revolt, killing all but one of their\
+  \ masters, they must strain to learn the secret of self-duplication. It is not until\
+  \ two Robots fall in love and are christened \u201CAdam\u201D and \u201CEve\u201D\
+  \ by the last surviving human that Nature emerges triumphant"
+edition_information: Penguin Classics
+format: null
+id: '816443'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628105109l/816443._SX98_.jpg
+is_ebook: 'false'
+isbn: 0141182083
+isbn13: '9780141182087'
+json: '{"id": "816443", "isbn": "0141182083", "isbn13": "9780141182087", "text_reviews_count":
+  {"@type": "integer", "#text": "200"}, "uri": "kca://book/amzn1.gr.book.v1.kQB33v3g6sqFLqwSekvTEg",
+  "title": "R.U.R.", "title_without_series": "R.U.R.", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628105109l/816443._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628105109l/816443._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/816443.R_U_R_",
+  "num_pages": "84", "format": null, "edition_information": "Penguin Classics", "publisher":
+  "Penguin Books", "publication_day": "30", "publication_year": "2004", "publication_month":
+  "3", "average_rating": "3.84", "ratings_count": "16042", "description": "<b>A visionary
+  work of science fiction that introduced the word \"robot\"</b><br /><br />Written
+  in 1920, premiered in Prague in 1921, and first performed in New York in 1922\u2014garnered
+  worldwide acclaim for its author and popularized the word robot. Mass-produced as
+  efficient laborers to serve man, Capek\u2019s Robots are an android product\u2014they
+  remember everything but think of nothing new. But the Utopian life they provide
+  ultimately lacks meaning, and the humans they serve stop reproducing. When the Robots
+  revolt, killing all but one of their masters, they must strain to learn the secret
+  of self-duplication. It is not until two Robots fall in love and are christened
+  \u201cAdam\u201d and \u201cEve\u201d by the last surviving human that Nature emerges
+  triumphant", "authors": {"author": {"id": "439723", "name": "Karel \u010capek",
+  "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1208185188p5/439723.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1208185188p2/439723.jpg"},
+  "link": "https://www.goodreads.com/author/show/439723.Karel_apek", "average_rating":
+  "4.01", "ratings_count": "68267", "text_reviews_count": "5181"}}, "published": "2004",
+  "work": {"id": "3065006", "uri": "kca://work/amzn1.gr.work.v1.jLIrRBrG7_fA5SAU3GEKaA"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/42404679",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B07D7V4XW3
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/816443.R_U_R_
+marketplace_id: ATVPDKIKX0DER
+num_pages: '84'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '7740'
+    '@name': to-read
+  - '@count': '439'
+    '@name': science-fiction
+  - '@count': '390'
+    '@name': sci-fi
+  - '@count': '369'
+    '@name': plays
+  - '@count': '342'
+    '@name': classics
+  - '@count': '299'
+    '@name': currently-reading
+  - '@count': '214'
+    '@name': fiction
+  - '@count': '182'
+    '@name': maturita
+  - '@count': '161'
+    '@name': czech
+  - '@count': '86'
+    '@name': favorites
+  - '@count': '86'
+    '@name': play
+  - '@count': '73'
+    '@name': classic
+  - '@count': '72'
+    '@name': dystopia
+  - '@count': '68'
+    '@name': scifi
+  - '@count': '67'
+    '@name': czech-literature
+  - '@count': '56'
+    '@name': school
+  - '@count': '55'
+    '@name': owned
+  - '@count': '50'
+    '@name': theatre
+  - '@count': '49'
+    '@name': dystopian
+  - '@count': '40'
+    '@name': sf
+  - '@count': '39'
+    '@name': robots
+  - '@count': '38'
+    '@name': "povinn\xE1-\u010Detba"
+  - '@count': '38'
+    '@name': "maturitn\xED-\u010Detba"
+  - '@count': '34'
+    '@name': teatro
+  - '@count': '32'
+    '@name': 20th-century
+  - '@count': '29'
+    '@name': translated
+  - '@count': '28'
+    '@name': sci-fi-fantasy
+  - '@count': '27'
+    '@name': klasika
+  - '@count': '27'
+    '@name': books-i-own
+  - '@count': '26'
+    '@name': czech-authors
+  - '@count': '26'
+    '@name': 1920s
+  - '@count': '26'
+    '@name': theater
+  - '@count': '25'
+    '@name': literature
+  - '@count': '23'
+    '@name': kindle
+  - '@count': '22'
+    '@name': favourites
+  - '@count': '18'
+    '@name': ebook
+  - '@count': '18'
+    '@name': speculative-fiction
+  - '@count': '17'
+    '@name': library
+  - '@count': '17'
+    '@name': fantasy
+  - '@count': '16'
+    '@name': read-in-czech
+  - '@count': '16'
+    '@name': philosophy
+  - '@count': '15'
+    '@name': for-school
+  - '@count': '14'
+    '@name': audiobook
+  - '@count': '14'
+    '@name': czech-lit
+  - '@count': '12'
+    '@name': owned-books
+  - '@count': '12'
+    '@name': translation
+  - '@count': '12'
+    '@name': sff
+  - '@count': '12'
+    '@name': sf-masterworks
+  - '@count': '12'
+    '@name': audio
+  - '@count': '11'
+    '@name': audiobooks
+  - '@count': '11'
+    '@name': read-for-school
+  - '@count': '11'
+    '@name': czech-books
+  - '@count': '10'
+    '@name': maturitka
+  - '@count': '10'
+    '@name': czechia
+  - '@count': '10'
+    '@name': e-book
+  - '@count': '10'
+    '@name': short-stories
+  - '@count': '10'
+    '@name': in-czech
+  - '@count': '10'
+    '@name': penguin-classics
+  - '@count': '10'
+    '@name': fantasy-sci-fi
+  - '@count': '10'
+    '@name': novel
+  - '@count': '10'
+    '@name': cz
+  - '@count': '10'
+    '@name': college
+  - '@count': '9'
+    '@name': read-in-2019
+  - '@count': '9'
+    '@name': read-in-2018
+  - '@count': '9'
+    '@name': bookshelf
+  - '@count': '9'
+    '@name': my-library
+  - '@count': '9'
+    '@name': adult
+  - '@count': '9'
+    '@name': modernism
+  - '@count': '9'
+    '@name': apocalyptic
+  - '@count': '9'
+    '@name': to-buy
+  - '@count': '8'
+    '@name': ficcao-cientifica
+  - '@count': '8'
+    '@name': ai
+  - '@count': '8'
+    '@name': university
+  - '@count': '8'
+    '@name': scripts
+  - '@count': '8'
+    '@name': sf-fantasy
+  - '@count': '8'
+    '@name': books
+  - '@count': '8'
+    '@name': "ciencia-ficci\xF3n"
+  - '@count': '8'
+    '@name': i-own
+  - '@count': '8'
+    '@name': fantascienza
+  - '@count': '8'
+    '@name': artificial-intelligence
+  - '@count': '8'
+    '@name': "\u010Desk\xE1-literatura"
+  - '@count': '8'
+    '@name': czech-republic
+  - '@count': '7'
+    '@name': ebooks
+  - '@count': '7'
+    '@name': read-in-2022
+  - '@count': '7'
+    '@name': tbr
+  - '@count': '7'
+    '@name': matura
+  - '@count': '7'
+    '@name': "th\xE9\xE2tre"
+  - '@count': '7'
+    '@name': bilim-kurgu
+  - '@count': '7'
+    '@name': "\u010Desk\xE9"
+  - '@count': '7'
+    '@name': in-translation
+  - '@count': '7'
+    '@name': european-literature
+  - '@count': '7'
+    '@name': scifi-fantasy
+  - '@count': '7'
+    '@name': europe
+  - '@count': '7'
+    '@name': european
+  - '@count': '7'
+    '@name': utopia-dystopia
+  - '@count': '7'
+    '@name': eastern-europe
+  - '@count': '7'
+    '@name': drama
+  - '@count': '6'
+    '@name': ithaki-bilimkurgu-klasikleri
+  - '@count': '6'
+    '@name': "maturitni-\u010Detba"
+  - '@count': '6'
+    '@name': "\u010De\u0161t\xED-auto\u0159i"
+publication_day: '30'
+publication_month: '3'
+publication_year: '2004'
+published: '2004'
+publisher: Penguin Books
+ratings_count: '16042'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/42404679
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/816443.R_U_R_\"\
+  >R.U.R. Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0141182083&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/816443.R_U_R_?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '1922873'
+        link: https://www.goodreads.com/author/show/1922873.Viktor_Dyk
+        name: Viktor Dyk
+    average_rating: '3.84'
+    id: '4617242'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1295249629l/4617242._SX98_.jpg
+    isbn: '8072870343'
+    isbn13: '9788072870349'
+    link: https://www.goodreads.com/book/show/4617242-krysa
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '16042'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1295249629l/4617242._SX50_.jpg
+    title: "Krysa\u0159"
+    title_without_series: "Krysa\u0159"
+    uri: kca://book/amzn1.gr.book.v1.VTcRnDs7ENpkLPhZ2KSEtA
+    work:
+      id: '4667151'
+  - authors:
+      author:
+        id: '385751'
+        link: https://www.goodreads.com/author/show/385751.Ladislav_Fuks
+        name: Ladislav Fuks
+    average_rating: '3.84'
+    id: '823045'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360184519l/823045._SX98_.jpg
+    isbn: '8020711279'
+    isbn13: '9788020711274'
+    link: https://www.goodreads.com/book/show/823045.Spalova_mrtvol
+    num_pages: '144'
+    publication_day: null
+    publication_month: '2'
+    publication_year: '2003'
+    ratings_count: '16042'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360184519l/823045._SY75_.jpg
+    title: "Spalova\u010D mrtvol"
+    title_without_series: "Spalova\u010D mrtvol"
+    uri: kca://book/amzn1.gr.book.v1.tAwAzcR95mg33iKJHv-8wg
+    work:
+      id: '808843'
+  - authors:
+      author:
+        id: '41495'
+        link: https://www.goodreads.com/author/show/41495.Romain_Rolland
+        name: Romain Rolland
+    average_rating: '3.84'
+    id: '425904'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1595690603'
+    isbn13: '9781595690609'
+    link: https://www.goodreads.com/book/show/425904.Pierre_and_Luce
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '16042'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Pierre and Luce
+    title_without_series: Pierre and Luce
+    uri: kca://book/amzn1.gr.book.v1.mr7GFGTn40kSlScdWSIA-g
+    work:
+      id: '414962'
+  - authors:
+      author:
+        id: '692308'
+        link: https://www.goodreads.com/author/show/692308.Karel_Jarom_r_Erben
+        name: "Karel Jarom\xEDr Erben"
+    average_rating: '3.84'
+    id: '3055089'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388499891l/3055089._SX98_.jpg
+    isbn: '8086138305'
+    isbn13: '9788086138305'
+    link: https://www.goodreads.com/book/show/3055089-kytice
+    num_pages: '162'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '16042'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388499891l/3055089._SX50_.jpg
+    title: Kytice
+    title_without_series: Kytice
+    uri: kca://book/amzn1.gr.book.v1.NCzYbhJvXPhXGS4RSv37lA
+    work:
+      id: '3085988'
+  - authors:
+      author:
+        id: '385728'
+        link: https://www.goodreads.com/author/show/385728.Karel_Hynek_M_cha
+        name: "Karel Hynek M\xE1cha"
+    average_rating: '3.84'
+    id: '725268'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335706664l/725268._SX98_.jpg
+    isbn: 808626422X
+    isbn13: '9788086264226'
+    link: https://www.goodreads.com/book/show/725268.May
+    num_pages: null
+    publication_day: '15'
+    publication_month: '11'
+    publication_year: '2005'
+    ratings_count: '16042'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335706664l/725268._SX50_.jpg
+    title: May
+    title_without_series: May
+    uri: kca://book/amzn1.gr.book.v1.gJQW26v9S_-Pvp4eXNlkAw
+    work:
+      id: '711486'
+  - authors:
+      author:
+        id: '3396711'
+        link: https://www.goodreads.com/author/show/3396711.Alois_Mr_t_k
+        name: "Alois Mr\u0161t\xEDk"
+    average_rating: '3.84'
+    id: '7792897'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359746834l/7792897._SY160_.jpg
+    isbn: '8086216446'
+    isbn13: '9788086216447'
+    link: https://www.goodreads.com/book/show/7792897-mary-a
+    num_pages: '86'
+    publication_day: null
+    publication_month: null
+    publication_year: '2004'
+    ratings_count: '16042'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359746834l/7792897._SY75_.jpg
+    title: "Mary\u0161a"
+    title_without_series: "Mary\u0161a"
+    uri: kca://book/amzn1.gr.book.v1.nt8h8B2NVQlNJYd1AS9KDg
+    work:
+      id: '10751963'
+  - authors:
+      author:
+        id: '2946969'
+        link: https://www.goodreads.com/author/show/2946969.Jan_Ot_en_ek
+        name: "Jan Ot\u010Den\xE1\u0161ek"
+    average_rating: '3.84'
+    id: '6556212'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1275739663l/6556212._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/6556212-romeo-julie-a-tma
+    num_pages: '142'
+    publication_day: null
+    publication_month: null
+    publication_year: '1959'
+    ratings_count: '16042'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1275739663l/6556212._SX50_.jpg
+    title: Romeo, Julie a tma
+    title_without_series: Romeo, Julie a tma
+    uri: kca://book/amzn1.gr.book.v1.cxwlhE0HRxUrDlGKKOfNaQ
+    work:
+      id: '6748813'
+  - authors:
+      author:
+        id: '1929113'
+        link: https://www.goodreads.com/author/show/1929113.Karel_Havl_ek_Borovsk_
+        name: "Karel Havl\xED\u010Dek Borovsk\xFD"
+    average_rating: '3.84'
+    id: '8766351'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354115444l/8766351._SX98_.jpg
+    isbn: 807399092X
+    isbn13: '9788073990923'
+    link: https://www.goodreads.com/book/show/8766351-kr-l-l-vra
+    num_pages: '38'
+    publication_day: null
+    publication_month: null
+    publication_year: '2006'
+    ratings_count: '16042'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354115444l/8766351._SX50_.jpg
+    title: "Kr\xE1l L\xE1vra"
+    title_without_series: "Kr\xE1l L\xE1vra"
+    uri: kca://book/amzn1.gr.book.v1.60UrgCa87jokJgRUMu516g
+    work:
+      id: '13639770'
+  - authors:
+      author:
+        id: '3270481'
+        link: https://www.goodreads.com/author/show/3270481.Jaroslav_Vrchlick_
+        name: "Jaroslav Vrchlick\xFD"
+    average_rating: '3.84'
+    id: '10801632'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1300287281l/10801632._SY160_.jpg
+    isbn: '8087128419'
+    isbn13: '9788087128411'
+    link: https://www.goodreads.com/book/show/10801632-noc-na-karl-tejn
+    num_pages: '87'
+    publication_day: null
+    publication_month: null
+    publication_year: '2010'
+    ratings_count: '16042'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1300287281l/10801632._SY75_.jpg
+    title: "Noc na Karl\u0161tejn\u011B"
+    title_without_series: "Noc na Karl\u0161tejn\u011B"
+    uri: kca://book/amzn1.gr.book.v1.634v-76qAYyf5lDBbwZE1w
+    work:
+      id: '15714954'
+  - authors:
+      author:
+        id: '18791'
+        link: https://www.goodreads.com/author/show/18791.Guy_de_Maupassant
+        name: Guy de Maupassant
+    average_rating: '3.84'
+    id: '13456335'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328625195l/13456335._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/13456335-kuli-ka
+    num_pages: '98'
+    publication_day: null
+    publication_month: null
+    publication_year: '1968'
+    ratings_count: '16042'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328625195l/13456335._SY75_.jpg
+    title: "Kuli\u010Dka"
+    title_without_series: "Kuli\u010Dka"
+    uri: kca://book/amzn1.gr.book.v1.b-qjZ2vONxkYAEet-UJO5Q
+    work:
+      id: '76141536'
+  - authors:
+      author:
+        id: '50071'
+        link: https://www.goodreads.com/author/show/50071.Bohumil_Hrabal
+        name: Bohumil Hrabal
+    average_rating: '3.84'
+    id: '87282'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375389446l/87282._SX98_.jpg
+    isbn: 0810112787
+    isbn13: '9780810112780'
+    link: https://www.goodreads.com/book/show/87282.Closely_Watched_Trains
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '16042'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375389446l/87282._SY75_.jpg
+    title: Closely Watched Trains
+    title_without_series: Closely Watched Trains
+    uri: kca://book/amzn1.gr.book.v1.ZOP5fSKYN4H3zqVtaYxumQ
+    work:
+      id: '1579061'
+  - authors:
+      author:
+        id: '1997179'
+        link: https://www.goodreads.com/author/show/1997179.Karel_Pol_ek
+        name: "Karel Pol\xE1\u010Dek"
+    average_rating: '3.84'
+    id: '4796846'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304844125l/4796846._SY160_.jpg
+    isbn: '8000018845'
+    isbn13: null
+    link: https://www.goodreads.com/book/show/4796846-bylo-n-s-p-t
+    num_pages: '190'
+    publication_day: null
+    publication_month: null
+    publication_year: '2008'
+    ratings_count: '16042'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304844125l/4796846._SY75_.jpg
+    title: "Bylo n\xE1s p\u011Bt"
+    title_without_series: "Bylo n\xE1s p\u011Bt"
+    uri: kca://book/amzn1.gr.book.v1.PcezskpnvfjBstwFjIFa1Q
+    work:
+      id: '4861946'
+  - authors:
+      author:
+        id: '304182'
+        link: https://www.goodreads.com/author/show/304182.Jaroslav_Seifert
+        name: Jaroslav Seifert
+    average_rating: '3.84'
+    id: '13456346'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328626045l/13456346._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/13456346-maminka
+    num_pages: '200'
+    publication_day: null
+    publication_month: null
+    publication_year: '1986'
+    ratings_count: '16042'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328626045l/13456346._SX50_.jpg
+    title: Maminka
+    title_without_series: Maminka
+    uri: kca://book/amzn1.gr.book.v1.x_FyaV2KCusV57PU967gYA
+    work:
+      id: '18985232'
+  - authors:
+      author:
+        id: '194887'
+        link: https://www.goodreads.com/author/show/194887.Michal_Viewegh
+        name: Michal Viewegh
+    average_rating: '3.84'
+    id: '1391930'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '8072271350'
+    isbn13: '9797880722713'
+    link: https://www.goodreads.com/book/show/1391930.B_je_n_l_ta_pod_psa
+    num_pages: '238'
+    publication_day: null
+    publication_month: null
+    publication_year: '2002'
+    ratings_count: '16042'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: "B\xE1je\u010Dn\xE1 l\xE9ta pod psa"
+    title_without_series: "B\xE1je\u010Dn\xE1 l\xE9ta pod psa"
+    uri: kca://book/amzn1.gr.book.v1.9QHEE4Ht8n6VwXHIJJrLrA
+    work:
+      id: '1382067'
+  - authors:
+      author:
+        id: '232932'
+        link: https://www.goodreads.com/author/show/232932.Nikolai_Gogol
+        name: Nikolai Gogol
+    average_rating: '3.84'
+    id: '142262'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415677867l/142262._SX98_.jpg
+    isbn: 0486285006
+    isbn13: '9780486285009'
+    link: https://www.goodreads.com/book/show/142262.The_Inspector_General
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '16042'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415677867l/142262._SY75_.jpg
+    title: The Inspector General
+    title_without_series: The Inspector General
+    uri: kca://book/amzn1.gr.book.v1.Y54Z4DLErg5DPR1RodHi1Q
+    work:
+      id: '1055396'
+  - authors:
+      author:
+        id: '1929113'
+        link: https://www.goodreads.com/author/show/1929113.Karel_Havl_ek_Borovsk_
+        name: "Karel Havl\xED\u010Dek Borovsk\xFD"
+    average_rating: '3.84'
+    id: '6519324'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/6519324-tyrolsk-elegie
+    num_pages: '45'
+    publication_day: null
+    publication_month: null
+    publication_year: '1948'
+    ratings_count: '16042'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: "Tyrolsk\xE9 elegie"
+    title_without_series: "Tyrolsk\xE9 elegie"
+    uri: kca://book/amzn1.gr.book.v1.2xOr3cqCTitHNpZVk8HjTg
+    work:
+      id: '6711193'
+  - authors:
+      author:
+        id: '71441'
+        link: https://www.goodreads.com/author/show/71441.V_clav_Havel
+        name: "V\xE1clav Havel"
+    average_rating: '3.84'
+    id: '1686102'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365964991l/1686102.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/1686102.Audience
+    num_pages: '34'
+    publication_day: '8'
+    publication_month: '5'
+    publication_year: '1991'
+    ratings_count: '16042'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365964991l/1686102._SY75_.jpg
+    title: Audience
+    title_without_series: Audience
+    uri: kca://book/amzn1.gr.book.v1.maUVQBgYzT-Bj2KKH3wpJA
+    work:
+      id: '1682749'
+  - authors:
+      author:
+        id: '1775746'
+        link: https://www.goodreads.com/author/show/1775746.Zden_k_Jirotka
+        name: "Zden\u011Bk Jirotka"
+    average_rating: '3.84'
+    id: '1724928'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328697507l/1724928._SX98_.jpg
+    isbn: '8024606836'
+    isbn13: '9788024606835'
+    link: https://www.goodreads.com/book/show/1724928.Saturnin
+    num_pages: null
+    publication_day: '1'
+    publication_month: '5'
+    publication_year: '2006'
+    ratings_count: '16042'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328697507l/1724928._SY75_.jpg
+    title: Saturnin
+    title_without_series: Saturnin
+    uri: kca://book/amzn1.gr.book.v1.9lQsyXQiV53xbdopPmtT_A
+    work:
+      id: '1722336'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628105109l/816443._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '200'
+  '@type': integer
+title: R.U.R.
+title_without_series: R.U.R.
+uri: kca://book/amzn1.gr.book.v1.kQB33v3g6sqFLqwSekvTEg
+url: https://www.goodreads.com/book/show/816443.R_U_R_
+work:
+  id: '3065006'
+  uri: kca://work/amzn1.gr.work.v1.jLIrRBrG7_fA5SAU3GEKaA

@@ -1,0 +1,758 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.84'
+    id: '42775'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1526204227p5/42775.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/42775.Y_ko_Ogawa
+    name: "Y\u014Dko Ogawa"
+    ratings_count: '257502'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1526204227p2/42775.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '39897'
+average_rating: '3.72'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2020-07-14T00:00:00-07:00'
+description: "A deft and dark Orwellian novel about the terrors of state surveillance,\
+  \ from the acclaimed author of <em>The Housekeeper and the Professor</em>.<br /><br\
+  \ />On an unnamed island off an unnamed coast, things are disappearing. First, animals\
+  \ and flowers. Then objects\u2014ribbons, bells, photographs. Then, body parts.\
+  \ Most of the island\u2019s inhabitants fail to notice these changes, while those\
+  \ few imbued with the power to recall the lost objects live in fear of the mysterious\
+  \ \u201Cmemory police,\u201D who are committed to ensuring that the disappeared\
+  \ remain forgotten. When a young novelist realizes that more than her career is\
+  \ in danger, she hides her editor beneath her floorboards, and together, as fear\
+  \ and loss close in around them, they cling to literature as the last way of preserving\
+  \ the past. Part allegory, part literary thriller, <em>The Memory Police</em> is\
+  \ a stunning new work from one of the most exciting contemporary authors writing\
+  \ in any language."
+edition_information: null
+format: Kindle Edition
+id: '38058832'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550886591l/38058832._SX98_.jpg
+is_ebook: 'true'
+isbn: '1101870613'
+isbn13: '9781101870617'
+json: '{"id": "38058832", "isbn": "1101870613", "isbn13": "9781101870617", "text_reviews_count":
+  {"@type": "integer", "#text": "722"}, "uri": "kca://book/amzn1.gr.book.v1.r67mUtUQ6N8iIYdyh0D31A",
+  "title": "The Memory Police", "title_without_series": "The Memory Police", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550886591l/38058832._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550886591l/38058832._SX50_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/38058832-the-memory-police",
+  "num_pages": "226", "format": "Kindle Edition", "edition_information": null, "publisher":
+  "Pantheon", "publication_day": "13", "publication_year": "2019", "publication_month":
+  "8", "average_rating": "3.72", "ratings_count": "110945", "description": "A deft
+  and dark Orwellian novel about the terrors of state surveillance, from the acclaimed
+  author of <em>The Housekeeper and the Professor</em>.<br /><br />On an unnamed island
+  off an unnamed coast, things are disappearing. First, animals and flowers. Then
+  objects\u2014ribbons, bells, photographs. Then, body parts. Most of the island\u2019s
+  inhabitants fail to notice these changes, while those few imbued with the power
+  to recall the lost objects live in fear of the mysterious \u201cmemory police,\u201d
+  who are committed to ensuring that the disappeared remain forgotten. When a young
+  novelist realizes that more than her career is in danger, she hides her editor beneath
+  her floorboards, and together, as fear and loss close in around them, they cling
+  to literature as the last way of preserving the past. Part allegory, part literary
+  thriller, <em>The Memory Police</em> is a stunning new work from one of the most
+  exciting contemporary authors writing in any language.", "authors": {"author": {"id":
+  "42775", "name": "Y\u014dko Ogawa", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1526204227p5/42775.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1526204227p2/42775.jpg"},
+  "link": "https://www.goodreads.com/author/show/42775.Y_ko_Ogawa", "average_rating":
+  "3.84", "ratings_count": "257502", "text_reviews_count": "39897"}}, "published":
+  "2019", "work": {"id": "7310932", "uri": "kca://work/amzn1.gr.work.v1.xIoVRjQ70wG3eb0fRswrig"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/3431844853",
+  "read_at": "Tue Jul 14 00:00:00 -0700 2020", "started_at": "Tue Jul 07 00:00:00
+  -0700 2020", "date": "Tue Jul 14 00:00:00 -0700 2020"}'
+kindle_asin: B077RG9JFX
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/38058832-the-memory-police
+marketplace_id: ATVPDKIKX0DER
+num_pages: '226'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '218533'
+    '@name': to-read
+  - '@count': '7947'
+    '@name': currently-reading
+  - '@count': '2573'
+    '@name': fiction
+  - '@count': '1223'
+    '@name': sci-fi
+  - '@count': '1115'
+    '@name': science-fiction
+  - '@count': '1065'
+    '@name': favorites
+  - '@count': '1053'
+    '@name': dystopian
+  - '@count': '1001'
+    '@name': dystopia
+  - '@count': '852'
+    '@name': japan
+  - '@count': '760'
+    '@name': owned
+  - '@count': '644'
+    '@name': translated
+  - '@count': '603'
+    '@name': physical-tbr
+  - '@count': '556'
+    '@name': fantasy
+  - '@count': '543'
+    '@name': japanese-literature
+  - '@count': '538'
+    '@name': japanese
+  - '@count': '526'
+    '@name': magical-realism
+  - '@count': '450'
+    '@name': dnf
+  - '@count': '430'
+    '@name': books-i-own
+  - '@count': '384'
+    '@name': japanese-lit
+  - '@count': '369'
+    '@name': book-club
+  - '@count': '354'
+    '@name': literary-fiction
+  - '@count': '346'
+    '@name': tbr
+  - '@count': '321'
+    '@name': audiobook
+  - '@count': '311'
+    '@name': library
+  - '@count': '272'
+    '@name': kindle
+  - '@count': '243'
+    '@name': to-buy
+  - '@count': '236'
+    '@name': adult
+  - '@count': '212'
+    '@name': scifi
+  - '@count': '203'
+    '@name': audiobooks
+  - '@count': '200'
+    '@name': asian-literature
+  - '@count': '199'
+    '@name': asian
+  - '@count': '187'
+    '@name': novels
+  - '@count': '182'
+    '@name': favourites
+  - '@count': '175'
+    '@name': in-translation
+  - '@count': '173'
+    '@name': asian-lit
+  - '@count': '167'
+    '@name': ebook
+  - '@count': '166'
+    '@name': translation
+  - '@count': '158'
+    '@name': contemporary
+  - '@count': '140'
+    '@name': speculative-fiction
+  - '@count': '133'
+    '@name': did-not-finish
+  - '@count': '129'
+    '@name': want-to-buy
+  - '@count': '126'
+    '@name': read-in-2020
+  - '@count': '123'
+    '@name': owned-tbr
+  - '@count': '117'
+    '@name': owned-books
+  - '@count': '114'
+    '@name': on-my-shelf
+  - '@count': '109'
+    '@name': translated-fiction
+  - '@count': '108'
+    '@name': read-in-2021
+  - '@count': '108'
+    '@name': asian-authors
+  - '@count': '107'
+    '@name': audio
+  - '@count': '103'
+    '@name': novel
+  - '@count': '101'
+    '@name': literary
+  - '@count': '100'
+    '@name': read-in-2024
+  - '@count': '100'
+    '@name': japanese-fiction
+  - '@count': '99'
+    '@name': bookclub
+  - '@count': '99'
+    '@name': bookshelf
+  - '@count': '98'
+    '@name': literature
+  - '@count': '95'
+    '@name': translations
+  - '@count': '94'
+    '@name': my-library
+  - '@count': '93'
+    '@name': adult-fiction
+  - '@count': '90'
+    '@name': abandoned
+  - '@count': '89'
+    '@name': sci-fi-fantasy
+  - '@count': '89'
+    '@name': mystery
+  - '@count': '85'
+    '@name': read-in-2022
+  - '@count': '82'
+    '@name': read-in-2023
+  - '@count': '82'
+    '@name': horror
+  - '@count': '81'
+    '@name': read-2020
+  - '@count': '80'
+    '@name': 2021-reads
+  - '@count': '80'
+    '@name': 2020-reads
+  - '@count': '79'
+    '@name': women-in-translation
+  - '@count': '77'
+    '@name': wish-list
+  - '@count': '75'
+    '@name': read-2024
+  - '@count': '75'
+    '@name': read-2021
+  - '@count': '75'
+    '@name': maybe
+  - '@count': '73'
+    '@name': 2024-reads
+  - '@count': '72'
+    '@name': 2025-tbr
+  - '@count': '71'
+    '@name': japanese-authors
+  - '@count': '70'
+    '@name': kindle-tbr
+  - '@count': '70'
+    '@name': libby
+  - '@count': '70'
+    '@name': ebooks
+  - '@count': '68'
+    '@name': e-book
+  - '@count': '64'
+    '@name': translated-works
+  - '@count': '62'
+    '@name': read-2023
+  - '@count': '60'
+    '@name': 2023-reads
+  - '@count': '60'
+    '@name': my-bookshelf
+  - '@count': '60'
+    '@name': english
+  - '@count': '59'
+    '@name': 2022-reads
+  - '@count': '59'
+    '@name': lit-fic
+  - '@count': '59'
+    '@name': fantasy-sci-fi
+  - '@count': '58'
+    '@name': female-author
+  - '@count': '58'
+    '@name': speculative
+  - '@count': '56'
+    '@name': female-authors
+  - '@count': '55'
+    '@name': contemporary-fiction
+  - '@count': '54'
+    '@name': home-library
+  - '@count': '54'
+    '@name': recommended
+  - '@count': '54'
+    '@name': thriller
+  - '@count': '52'
+    '@name': standalone
+  - '@count': '52'
+    '@name': 2019-releases
+  - '@count': '50'
+    '@name': library-books
+  - '@count': '49'
+    '@name': interested
+  - '@count': '48'
+    '@name': bipoc
+publication_day: '13'
+publication_month: '8'
+publication_year: '2019'
+published: '2019'
+publisher: Pantheon
+ratings_count: '110945'
+read_at: '2020-07-14T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/3431844853
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/38058832-the-memory-police\"\
+  >The Memory Police Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1101870613&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/38058832-the-memory-police?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '7620'
+        link: https://www.goodreads.com/author/show/7620.Jacqueline_Harpman
+        name: Jacqueline Harpman
+    average_rating: '3.72'
+    id: '60811826'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649947133l/60811826._SX98_.jpg
+    isbn: '1945492600'
+    isbn13: '9781945492600'
+    link: https://www.goodreads.com/book/show/60811826-i-who-have-never-known-men
+    num_pages: '208'
+    publication_day: '10'
+    publication_month: '5'
+    publication_year: '2022'
+    ratings_count: '110945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649947133l/60811826._SY75_.jpg
+    title: I Who Have Never Known Men
+    title_without_series: I Who Have Never Known Men
+    uri: kca://book/amzn1.gr.book.v3.HXCTkkK0ZVMP6vCi
+    work:
+      id: '14356'
+  - authors:
+      author:
+        id: '4119155'
+        link: https://www.goodreads.com/author/show/4119155.Han_Kang
+        name: Han Kang
+    average_rating: '3.72'
+    id: '25489025'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728661771l/25489025._SX98_.jpg
+    isbn: 0553448188
+    isbn13: '9780553448184'
+    link: https://www.goodreads.com/book/show/25489025-the-vegetarian
+    num_pages: '188'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '110945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728661771l/25489025._SY75_.jpg
+    title: The Vegetarian
+    title_without_series: The Vegetarian
+    uri: kca://book/amzn1.gr.book.v1.i9drUaX1sIwjy4vP2rb1Gw
+    work:
+      id: '18449744'
+  - authors:
+      author:
+        id: '8816506'
+        link: https://www.goodreads.com/author/show/8816506.Sayaka_Murata
+        name: Sayaka Murata
+    average_rating: '3.72'
+    id: '36739755'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680105376l/36739755._SX98_.jpg
+    isbn: 0802128254
+    isbn13: '9780802128256'
+    link: https://www.goodreads.com/book/show/36739755-convenience-store-woman
+    num_pages: '163'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '110945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680105376l/36739755._SX50_.jpg
+    title: Convenience Store Woman
+    title_without_series: Convenience Store Woman
+    uri: kca://book/amzn1.gr.book.v1.pd-m3NAOg9okdaBasal_bw
+    work:
+      id: '51852264'
+  - authors:
+      author:
+        id: '8816506'
+        link: https://www.goodreads.com/author/show/8816506.Sayaka_Murata
+        name: Sayaka Murata
+    average_rating: '3.72'
+    id: '50269327'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580144195l/50269327._SX98_.jpg
+    isbn: '1783785675'
+    isbn13: '9781783785674'
+    link: https://www.goodreads.com/book/show/50269327-earthlings
+    num_pages: '247'
+    publication_day: '1'
+    publication_month: '10'
+    publication_year: '2020'
+    ratings_count: '110945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580144195l/50269327._SY75_.jpg
+    title: Earthlings
+    title_without_series: Earthlings
+    uri: kca://book/amzn1.gr.book.v3.QMxZgu22IjuZLI-w
+    work:
+      id: '64972303'
+  - authors:
+      author:
+        id: '14071697'
+        link: https://www.goodreads.com/author/show/14071697.Asako_Yuzuki
+        name: Asako Yuzuki
+    average_rating: '3.72'
+    id: '200776812'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698348373l/200776812._SX98_.jpg
+    isbn: '0063236400'
+    isbn13: '9780063236400'
+    link: https://www.goodreads.com/book/show/200776812-butter
+    num_pages: '464'
+    publication_day: '16'
+    publication_month: '4'
+    publication_year: '2024'
+    ratings_count: '110945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698348373l/200776812._SY75_.jpg
+    title: Butter
+    title_without_series: Butter
+    uri: kca://book/amzn1.gr.book.v3._xUsRZzsh8yYBIR7
+    work:
+      id: '63331482'
+  - authors:
+      author:
+        id: '5559451'
+        link: https://www.goodreads.com/author/show/5559451.Mieko_Kawakami
+        name: Mieko Kawakami
+    average_rating: '3.72'
+    id: '53223710'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615916179l/53223710._SX98_.jpg
+    isbn: '1609456211'
+    isbn13: '9781609456214'
+    link: https://www.goodreads.com/book/show/53223710-heaven
+    num_pages: '192'
+    publication_day: '25'
+    publication_month: '5'
+    publication_year: '2021'
+    ratings_count: '110945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615916179l/53223710._SY75_.jpg
+    title: Heaven
+    title_without_series: Heaven
+    uri: kca://book/amzn1.gr.book.v3.tcw2oPCJcsqfoQ4v
+    work:
+      id: '7124935'
+  - authors:
+      author:
+        id: '1918920'
+        link: https://www.goodreads.com/author/show/1918920.Samantha_Harvey
+        name: Samantha Harvey
+    average_rating: '3.72'
+    id: '123136728'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1682375874l/123136728._SX98_.jpg
+    isbn: 0802161545
+    isbn13: '9780802161543'
+    link: https://www.goodreads.com/book/show/123136728-orbital
+    num_pages: '207'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '110945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1682375874l/123136728._SY75_.jpg
+    title: Orbital
+    title_without_series: Orbital
+    uri: kca://book/amzn1.gr.book.v3.n9pJU1tfOcRyTjHT
+    work:
+      id: '120178902'
+  - authors:
+      author:
+        id: '5559451'
+        link: https://www.goodreads.com/author/show/5559451.Mieko_Kawakami
+        name: Mieko Kawakami
+    average_rating: '3.72'
+    id: '59336625'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637059389l/59336625._SX98_.jpg
+    isbn: '1609456998'
+    isbn13: '9781609456993'
+    link: https://www.goodreads.com/book/show/59336625-all-the-lovers-in-the-night
+    num_pages: '224'
+    publication_day: '3'
+    publication_month: '5'
+    publication_year: '2022'
+    ratings_count: '110945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637059389l/59336625._SY75_.jpg
+    title: All the Lovers in the Night
+    title_without_series: All the Lovers in the Night
+    uri: kca://book/amzn1.gr.book.v3.aNrtQhW6-uNqviv3
+    work:
+      id: '40898049'
+  - authors:
+      author:
+        id: '15860970'
+        link: https://www.goodreads.com/author/show/15860970.Sally_Rooney
+        name: Sally Rooney
+    average_rating: '3.72'
+    id: '208931300'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716387455l/208931300._SX98_.jpg
+    isbn: 0374602638
+    isbn13: '9780374602635'
+    link: https://www.goodreads.com/book/show/208931300-intermezzo
+    num_pages: '454'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '110945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716387455l/208931300._SY75_.jpg
+    title: Intermezzo
+    title_without_series: Intermezzo
+    uri: kca://book/amzn1.gr.book.v3.76uAiVKL5834lcUs
+    work:
+      id: '215458376'
+  - authors:
+      author:
+        id: '5559451'
+        link: https://www.goodreads.com/author/show/5559451.Mieko_Kawakami
+        name: Mieko Kawakami
+    average_rating: '3.72'
+    id: '50736031'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1609455878'
+    isbn13: '9781609455873'
+    link: https://www.goodreads.com/book/show/50736031-breasts-and-eggs
+    num_pages: '430'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '110945'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Breasts and Eggs
+    title_without_series: Breasts and Eggs
+    uri: kca://book/amzn1.gr.book.v3.fW6k1p_UToppCphj
+    work:
+      id: '74401064'
+  - authors:
+      author:
+        id: '18202262'
+        link: https://www.goodreads.com/author/show/18202262.Julia_Armfield
+        name: Julia Armfield
+    average_rating: '3.72'
+    id: '58659343'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722881053l/58659343._SX98_.jpg
+    isbn: 152901722X
+    isbn13: '9781529017229'
+    link: https://www.goodreads.com/book/show/58659343-our-wives-under-the-sea
+    num_pages: '240'
+    publication_day: '3'
+    publication_month: '3'
+    publication_year: '2022'
+    ratings_count: '110945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722881053l/58659343._SY75_.jpg
+    title: Our Wives Under the Sea
+    title_without_series: Our Wives Under the Sea
+    uri: kca://book/amzn1.gr.book.v3.IIBfaOLG0YTA_Ncw
+    work:
+      id: '92277854'
+  - authors:
+      author:
+        id: '22926208'
+        link: https://www.goodreads.com/author/show/22926208.Gerardo_S_mano_C_rdova
+        name: "Gerardo S\xE1mano C\xF3rdova"
+    average_rating: '3.72'
+    id: '62888191'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664985853l/62888191._SX98_.jpg
+    isbn: '1638930368'
+    isbn13: '9781638930365'
+    link: https://www.goodreads.com/book/show/62888191-monstrilio
+    num_pages: '336'
+    publication_day: '7'
+    publication_month: '3'
+    publication_year: '2023'
+    ratings_count: '110945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664985853l/62888191._SY75_.jpg
+    title: Monstrilio
+    title_without_series: Monstrilio
+    uri: kca://book/amzn1.gr.book.v3.Xj839cqEh89qqUnh
+    work:
+      id: '98689789'
+  - authors:
+      author:
+        id: '19849637'
+        link: https://www.goodreads.com/author/show/19849637.Anne_de_Marcken
+        name: Anne de Marcken
+    average_rating: '3.72'
+    id: '177148776'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0811237850
+    isbn13: '9780811237857'
+    link: https://www.goodreads.com/book/show/177148776-it-lasts-forever-and-then-it-s-over
+    num_pages: '128'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '110945'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: It Lasts Forever and Then It's Over
+    title_without_series: It Lasts Forever and Then It's Over
+    uri: kca://book/amzn1.gr.book.v3.SKeky9odzN5cYBZD
+    work:
+      id: '183351726'
+  - authors:
+      author:
+        id: '40411798'
+        link: https://www.goodreads.com/author/show/40411798.Monika_Kim
+        name: Monika Kim
+    average_rating: '3.72'
+    id: '195703882'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696808869l/195703882._SX98_.jpg
+    isbn: '1645661237'
+    isbn13: '9781645661238'
+    link: https://www.goodreads.com/book/show/195703882-the-eyes-are-the-best-part
+    num_pages: '278'
+    publication_day: '25'
+    publication_month: '6'
+    publication_year: '2024'
+    ratings_count: '110945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696808869l/195703882._SY75_.jpg
+    title: The Eyes Are the Best Part
+    title_without_series: The Eyes Are the Best Part
+    uri: kca://book/amzn1.gr.book.v3.CD-VQXtcM2pyJrpF
+    work:
+      id: '184997652'
+  - authors:
+      author:
+        id: '4280'
+        link: https://www.goodreads.com/author/show/4280.Kazuo_Ishiguro
+        name: Kazuo Ishiguro
+    average_rating: '3.72'
+    id: '6334'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353048590l/6334._SX98_.jpg
+    isbn: '1400078776'
+    isbn13: '9781400078776'
+    link: https://www.goodreads.com/book/show/6334.Never_Let_Me_Go
+    num_pages: '288'
+    publication_day: '31'
+    publication_month: '8'
+    publication_year: '2010'
+    ratings_count: '110945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353048590l/6334._SY75_.jpg
+    title: Never Let Me Go
+    title_without_series: Never Let Me Go
+    uri: kca://book/amzn1.gr.book.v1.t3ESMobC-9O2YByR0RqA6g
+    work:
+      id: '1499998'
+  - authors:
+      author:
+        id: '15957484'
+        link: https://www.goodreads.com/author/show/15957484.Kaveh_Akbar
+        name: Kaveh Akbar
+    average_rating: '3.72'
+    id: '139400713'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683818219l/139400713._SX98_.jpg
+    isbn: 0593537610
+    isbn13: '9780593537619'
+    link: https://www.goodreads.com/book/show/139400713-martyr
+    num_pages: '331'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '110945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683818219l/139400713._SX50_.jpg
+    title: Martyr!
+    title_without_series: Martyr!
+    uri: kca://book/amzn1.gr.book.v3.bNI6tQkGi7fVRh8B
+    work:
+      id: '155375386'
+  - authors:
+      author:
+        id: '8816506'
+        link: https://www.goodreads.com/author/show/8816506.Sayaka_Murata
+        name: Sayaka Murata
+    average_rating: '3.72'
+    id: '59793324'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639159033l/59793324._SX98_.jpg
+    isbn: 0802159583
+    isbn13: '9780802159588'
+    link: https://www.goodreads.com/book/show/59793324-life-ceremony
+    num_pages: '256'
+    publication_day: '5'
+    publication_month: '7'
+    publication_year: '2022'
+    ratings_count: '110945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639159033l/59793324._SX50_.jpg
+    title: Life Ceremony
+    title_without_series: Life Ceremony
+    uri: kca://book/amzn1.gr.book.v3.gBOyP0k59MMVDyY5
+    work:
+      id: '94174667'
+  - authors:
+      author:
+        id: '17343848'
+        link: https://www.goodreads.com/author/show/17343848.Ling_Ma
+        name: Ling  Ma
+    average_rating: '3.72'
+    id: '36348525'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507060524l/36348525._SX98_.jpg
+    isbn: 0374261598
+    isbn13: '9780374261597'
+    link: https://www.goodreads.com/book/show/36348525-severance
+    num_pages: '291'
+    publication_day: '14'
+    publication_month: '8'
+    publication_year: '2018'
+    ratings_count: '110945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507060524l/36348525._SY75_.jpg
+    title: Severance
+    title_without_series: Severance
+    uri: kca://book/amzn1.gr.book.v1.Q_ooUC45b4-ECjD1PNcBbg
+    work:
+      id: '58029884'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550886591l/38058832._SX50_.jpg
+started_at: '2020-07-07T00:00:00-07:00'
+text_reviews_count:
+  '#text': '722'
+  '@type': integer
+title: The Memory Police
+title_without_series: The Memory Police
+uri: kca://book/amzn1.gr.book.v1.r67mUtUQ6N8iIYdyh0D31A
+url: https://www.goodreads.com/book/show/38058832-the-memory-police
+work:
+  id: '7310932'
+  uri: kca://work/amzn1.gr.work.v1.xIoVRjQ70wG3eb0fRswrig

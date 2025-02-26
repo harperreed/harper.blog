@@ -1,0 +1,771 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.34'
+    id: '6447537'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1722855019p5/6447537.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/6447537.R_R_Haywood
+    name: R.R. Haywood
+    ratings_count: '76231'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1722855019p2/6447537.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '4560'
+average_rating: '3.95'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2020-04-07T00:00:00-07:00'
+description: "In 2061, a young scientist invents a time machine to fix a tragedy in\
+  \ his past. But his good intentions turn catastrophic when an early test reveals\
+  \ something unexpected: the end of the world.<br /><br />A desperate plan is formed.\
+  \ Recruit three heroes, ordinary humans capable of extraordinary things, and change\
+  \ the future.<br /><br />Safa Patel is an elite police officer, on duty when Downing\
+  \ Street comes under terrorist attack. As armed men storm through the breach, she\
+  \ dispatches them all.<br /><br />'Mad' Harry Madden is a legend of the Second World\
+  \ War. Not only did he complete an impossible mission\u2014to plant charges on a\
+  \ heavily defended submarine base\u2014but he also escaped with his life.<br /><br\
+  \ />Ben Ryder is just an insurance investigator. But as a young man he witnessed\
+  \ a gang assaulting a woman and her child. He went to their rescue, and killed all\
+  \ five.<br /><br />Can these three heroes, extracted from their timelines at the\
+  \ point of death, save the world?"
+edition_information: null
+format: null
+id: '31578285'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484169128l/31578285._SX98_.jpg
+is_ebook: 'true'
+isbn: '1503996867'
+isbn13: '9781503996861'
+json: '{"id": "31578285", "isbn": "1503996867", "isbn13": "9781503996861", "text_reviews_count":
+  {"@type": "integer", "#text": "912"}, "uri": "kca://book/amzn1.gr.book.v1.REHn93hZynON8OCYRGipFA",
+  "title": "Extracted (Extracted Trilogy, #1)", "title_without_series": "Extracted",
+  "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484169128l/31578285._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484169128l/31578285._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/31578285-extracted",
+  "num_pages": "400", "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.95", "ratings_count": "14422", "description": "In 2061, a young scientist invents
+  a time machine to fix a tragedy in his past. But his good intentions turn catastrophic
+  when an early test reveals something unexpected: the end of the world.<br /><br
+  />A desperate plan is formed. Recruit three heroes, ordinary humans capable of extraordinary
+  things, and change the future.<br /><br />Safa Patel is an elite police officer,
+  on duty when Downing Street comes under terrorist attack. As armed men storm through
+  the breach, she dispatches them all.<br /><br />''Mad'' Harry Madden is a legend
+  of the Second World War. Not only did he complete an impossible mission\u2014to
+  plant charges on a heavily defended submarine base\u2014but he also escaped with
+  his life.<br /><br />Ben Ryder is just an insurance investigator. But as a young
+  man he witnessed a gang assaulting a woman and her child. He went to their rescue,
+  and killed all five.<br /><br />Can these three heroes, extracted from their timelines
+  at the point of death, save the world?", "authors": {"author": {"id": "6447537",
+  "name": "R.R. Haywood", "role": null, "image_url": {"@nophoto": "false", "#text":
+  "https://images.gr-assets.com/authors/1722855019p5/6447537.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1722855019p2/6447537.jpg"},
+  "link": "https://www.goodreads.com/author/show/6447537.R_R_Haywood", "average_rating":
+  "4.34", "ratings_count": "76231", "text_reviews_count": "4560"}}, "published": null,
+  "work": {"id": "51434778", "uri": "kca://work/amzn1.gr.work.v1.FBIi_VQIX6e2jh35Fa5MJw"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/2955372760",
+  "read_at": "Tue Apr 07 00:00:00 -0700 2020", "started_at": "Wed Aug 28 00:00:00
+  -0700 2019", "date": "Tue Apr 07 00:00:00 -0700 2020"}'
+kindle_asin: B01HIKCA52
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/31578285-extracted
+marketplace_id: ATVPDKIKX0DER
+num_pages: '400'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '14370'
+    '@name': to-read
+  - '@count': '4728'
+    '@name': currently-reading
+  - '@count': '193'
+    '@name': science-fiction
+  - '@count': '191'
+    '@name': sci-fi
+  - '@count': '138'
+    '@name': kindle
+  - '@count': '102'
+    '@name': time-travel
+  - '@count': '93'
+    '@name': fiction
+  - '@count': '65'
+    '@name': owned
+  - '@count': '46'
+    '@name': audible
+  - '@count': '42'
+    '@name': audiobook
+  - '@count': '41'
+    '@name': audiobooks
+  - '@count': '36'
+    '@name': scifi
+  - '@count': '29'
+    '@name': dnf
+  - '@count': '27'
+    '@name': fantasy
+  - '@count': '26'
+    '@name': kindle-first
+  - '@count': '24'
+    '@name': kindle-unlimited
+  - '@count': '22'
+    '@name': ebooks
+  - '@count': '22'
+    '@name': series
+  - '@count': '21'
+    '@name': ebook
+  - '@count': '20'
+    '@name': favorites
+  - '@count': '20'
+    '@name': kindle-books
+  - '@count': '17'
+    '@name': did-not-finish
+  - '@count': '17'
+    '@name': abandoned
+  - '@count': '16'
+    '@name': sci-fi-fantasy
+  - '@count': '15'
+    '@name': read-2017
+  - '@count': '15'
+    '@name': books-i-own
+  - '@count': '15'
+    '@name': mystery
+  - '@count': '14'
+    '@name': audio-books
+  - '@count': '13'
+    '@name': thriller
+  - '@count': '12'
+    '@name': audio
+  - '@count': '12'
+    '@name': on-kindle
+  - '@count': '12'
+    '@name': read-in-2017
+  - '@count': '12'
+    '@name': sf
+  - '@count': '12'
+    '@name': amazon
+  - '@count': '11'
+    '@name': e-book
+  - '@count': '11'
+    '@name': e-books
+  - '@count': '10'
+    '@name': owned-kindle
+  - '@count': '10'
+    '@name': tbr
+  - '@count': '10'
+    '@name': owned-books
+  - '@count': '10'
+    '@name': kindle-tbr
+  - '@count': '9'
+    '@name': audio-book
+  - '@count': '9'
+    '@name': own-kindle
+  - '@count': '9'
+    '@name': dystopian
+  - '@count': '8'
+    '@name': amazon-first-reads
+  - '@count': '8'
+    '@name': first-reads
+  - '@count': '8'
+    '@name': dystopia
+  - '@count': '8'
+    '@name': maybe
+  - '@count': '7'
+    '@name': to-buy
+  - '@count': '7'
+    '@name': scifi-fantasy
+  - '@count': '7'
+    '@name': netgalley
+  - '@count': '6'
+    '@name': unfinished
+  - '@count': '6'
+    '@name': giveaways
+  - '@count': '6'
+    '@name': downloaded
+  - '@count': '6'
+    '@name': on-my-kindle
+  - '@count': '6'
+    '@name': fantasy-sci-fi
+  - '@count': '5'
+    '@name': tbr-kindle
+  - '@count': '5'
+    '@name': need-to-buy
+  - '@count': '5'
+    '@name': not-interested
+  - '@count': '5'
+    '@name': owned-not-read
+  - '@count': '5'
+    '@name': future
+  - '@count': '5'
+    '@name': on-hold
+  - '@count': '5'
+    '@name': adventure
+  - '@count': '5'
+    '@name': historical
+  - '@count': '5'
+    '@name': dropped
+  - '@count': '5'
+    '@name': gave-up-on
+  - '@count': '5'
+    '@name': 2017-releases
+  - '@count': '5'
+    '@name': kindle-to-read
+  - '@count': '5'
+    '@name': sff
+  - '@count': '5'
+    '@name': purchased
+  - '@count': '4'
+    '@name': own-on-kindle
+  - '@count': '4'
+    '@name': speculative-fiction
+  - '@count': '4'
+    '@name': recommended
+  - '@count': '4'
+    '@name': kindle-library
+  - '@count': '4'
+    '@name': extracted
+  - '@count': '4'
+    '@name': read-2018
+  - '@count': '4'
+    '@name': library
+  - '@count': '4'
+    '@name': amazon-books
+  - '@count': '4'
+    '@name': interesting
+  - '@count': '4'
+    '@name': didn-t-finish
+  - '@count': '4'
+    '@name': owned-to-read
+  - '@count': '4'
+    '@name': gave-up
+  - '@count': '4'
+    '@name': british
+  - '@count': '4'
+    '@name': science-fiction-fantasy
+  - '@count': '4'
+    '@name': read-next
+  - '@count': '4'
+    '@name': extracted-trilogy
+  - '@count': '4'
+    '@name': reviewed
+  - '@count': '4'
+    '@name': my-ebooks
+  - '@count': '4'
+    '@name': own-it
+  - '@count': '4'
+    '@name': adult
+  - '@count': '4'
+    '@name': unread
+  - '@count': '4'
+    '@name': owned-unread
+  - '@count': '3'
+    '@name': read-2023
+  - '@count': '3'
+    '@name': digital
+  - '@count': '3'
+    '@name': read-in-2022
+  - '@count': '3'
+    '@name': action
+  - '@count': '3'
+    '@name': young-adult
+  - '@count': '3'
+    '@name': unlimited
+  - '@count': '3'
+    '@name': rr-haywood
+  - '@count': '3'
+    '@name': buy
+  - '@count': '3'
+    '@name': to-read-on-kindle
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '14422'
+read_at: '2020-04-07T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/2955372760
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/31578285-extracted\"\
+  >Extracted Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1503996867&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/31578285-extracted?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '1009942'
+    series:
+      description: null
+      id: '197446'
+      note: null
+      numbered: 'true'
+      primary_work_count: '3'
+      series_works_count: '3'
+      title: Extracted Trilogy
+    user_position: '1'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '49986971'
+        link: https://www.goodreads.com/author/show/49986971.RR_Haywood
+        name: RR Haywood
+    average_rating: '3.95'
+    id: '215698774'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/215698774-the-undead-33-one-true-race
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14422'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Undead 33. One True Race: Season Five. The Rain'
+    title_without_series: 'The Undead 33. One True Race: Season Five. The Rain'
+    uri: kca://book/amzn1.gr.book.v3.PS_S_-4fGXBI6B98
+    work:
+      id: '222118626'
+  - authors:
+      author:
+        id: '49986971'
+        link: https://www.goodreads.com/author/show/49986971.RR_Haywood
+        name: RR Haywood
+    average_rating: '3.95'
+    id: '214478503'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/214478503-the-undead-32-the-battle-for-winchester
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14422'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Undead 32. The Battle for Winchester: Season Five. The Rain'
+    title_without_series: 'The Undead 32. The Battle for Winchester: Season Five.
+      The Rain'
+    uri: kca://book/amzn1.gr.book.v3.U2XFI033F86An55L
+    work:
+      id: '220754465'
+  - authors:
+      author:
+        id: '49986971'
+        link: https://www.goodreads.com/author/show/49986971.RR_Haywood
+        name: RR Haywood
+    average_rating: '3.95'
+    id: '216674747'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/216674747-gaslit
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14422'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'GASLIT: An absolutely gripping psychological thriller packed with a twist
+      you won''t see coming'
+    title_without_series: 'GASLIT: An absolutely gripping psychological thriller packed
+      with a twist you won''t see coming'
+    uri: kca://book/amzn1.gr.book.v3.e3TrM9vzNcbHs7Qd
+    work:
+      id: '223105779'
+  - authors:
+      author:
+        id: '49986971'
+        link: https://www.goodreads.com/author/show/49986971.RR_Haywood
+        name: RR Haywood
+    average_rating: '3.95'
+    id: '213908330'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/213908330-the-undead-thirty-one-winchester
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14422'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Undead Thirty-One. Winchester: Season Five. The Rain'
+    title_without_series: 'The Undead Thirty-One. Winchester: Season Five. The Rain'
+    uri: kca://book/amzn1.gr.book.v3.eSxyR0dZ_Z3Y6Jb-
+    work:
+      id: '220172845'
+  - authors:
+      author:
+        id: '7448339'
+        link: https://www.goodreads.com/author/show/7448339.Steven_Decker
+        name: Steven Decker
+    average_rating: '3.95'
+    id: '215515923'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: '9798988926245'
+    link: https://www.goodreads.com/book/show/215515923-one-more-life-to-live
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14422'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: One More Life to Live (Edward and the Bricklayer Book 1)
+    title_without_series: One More Life to Live
+    uri: kca://book/amzn1.gr.book.v3.w9Z8_uIuGqF6nDxb
+    work:
+      id: '221943269'
+  - authors:
+      author:
+        id: '18423887'
+        link: https://www.goodreads.com/author/show/18423887.Amy_Ginsburg
+        name: Amy Ginsburg
+    average_rating: '3.95'
+    id: '50772146'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 173311310X
+    isbn13: '9781733113106'
+    link: https://www.goodreads.com/book/show/50772146-the-after-days
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14422'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The After Days
+    title_without_series: The After Days
+    uri: kca://book/amzn1.gr.book.v3.oyBBa80g3JBl12Hz
+    work:
+      id: '71866240'
+  - authors:
+      author:
+        id: '49986971'
+        link: https://www.goodreads.com/author/show/49986971.RR_Haywood
+        name: RR Haywood
+    average_rating: '3.95'
+    id: '221784918'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/221784918-stella
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14422'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Stella : An Undead Novella (The Undead Series)'
+    title_without_series: 'Stella : An Undead Novella'
+    uri: kca://book/amzn1.gr.book.v3.gcDbvhMHjpvUI_QV
+    work:
+      id: '228779888'
+  - authors:
+      author:
+        id: '18158038'
+        link: https://www.goodreads.com/author/show/18158038.Adam_Eccles
+        name: Adam Eccles
+    average_rating: '3.95'
+    id: '90142573'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675013002l/90142573._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/90142573-22
+    num_pages: '337'
+    publication_day: '27'
+    publication_month: '1'
+    publication_year: '2023'
+    ratings_count: '14422'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675013002l/90142573._SY75_.jpg
+    title: '22:22:22: Frequency Shift (Toby Steele #1)'
+    title_without_series: '22:22:22: Frequency Shift'
+    uri: kca://book/amzn1.gr.book.v3.A8STI5RR8MBVWnzh
+    work:
+      id: '114441791'
+  - authors:
+      author:
+        id: '14151579'
+        link: https://www.goodreads.com/author/show/14151579.Gerald_M_Kilby
+        name: Gerald M. Kilby
+    average_rating: '3.95'
+    id: '217440291'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/217440291-brain-gain
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14422'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'BRAIN GAIN: A high-stakes technothriller'
+    title_without_series: 'BRAIN GAIN: A high-stakes technothriller'
+    uri: kca://book/amzn1.gr.book.v3.SM9ZNUa4lGteBwyJ
+    work:
+      id: '223946316'
+  - authors:
+      author:
+        id: '16519319'
+        link: https://www.goodreads.com/author/show/16519319.James_D_Prescott
+        name: James D. Prescott
+    average_rating: '3.95'
+    id: '199331991'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/199331991-the-fifth-kind
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14422'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Fifth Kind: Ascension (Dark Nova #3)'
+    title_without_series: 'The Fifth Kind: Ascension'
+    uri: kca://book/amzn1.gr.book.v3.3sZc9KeByLhodvAw
+    work:
+      id: '203702228'
+  - authors:
+      author:
+        id: '21232043'
+        link: https://www.goodreads.com/author/show/21232043.Joshua_T_Calvert
+        name: Joshua T. Calvert
+    average_rating: '3.95'
+    id: '218617105'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/218617105-the-meteor-4
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14422'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Meteor 4
+    title_without_series: The Meteor 4
+    uri: kca://book/amzn1.gr.book.v3.slGXywwQyZicS_M4
+    work:
+      id: '225544964'
+  - authors:
+      author:
+        id: '1442754'
+        link: https://www.goodreads.com/author/show/1442754.Gary_Gibson
+        name: Gary Gibson
+    average_rating: '3.95'
+    id: '196753819'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710686088l/196753819._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/196753819-europa-deep
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14422'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710686088l/196753819._SY75_.jpg
+    title: Europa Deep
+    title_without_series: Europa Deep
+    uri: kca://book/amzn1.gr.book.v3.3anogZTHk6x1oNNy
+    work:
+      id: '199021192'
+  - authors:
+      author:
+        id: '7341639'
+        link: https://www.goodreads.com/author/show/7341639.David_Atkinson
+        name: David   Atkinson
+    average_rating: '3.95'
+    id: '88562892'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/88562892-future-proof
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14422'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Future Proof
+    title_without_series: Future Proof
+    uri: kca://book/amzn1.gr.book.v3.CsX0bI50GNewRJ-i
+    work:
+      id: '112975391'
+  - authors:
+      author:
+        id: '6524567'
+        link: https://www.goodreads.com/author/show/6524567.Shawn_Inmon
+        name: Shawn Inmon
+    average_rating: '3.95'
+    id: '51211227'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/51211227-a-door-into-time
+    num_pages: '334'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14422'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'A Door Into Time (An Alex Hawk Time Travel Adventure, #1)'
+    title_without_series: A Door Into Time
+    uri: kca://book/amzn1.gr.book.v3.XjepCPtPREDJtrqo
+    work:
+      id: '75965092'
+  - authors:
+      author:
+        id: '6524567'
+        link: https://www.goodreads.com/author/show/6524567.Shawn_Inmon
+        name: Shawn Inmon
+    average_rating: '3.95'
+    id: '213668324'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/213668324-the-unrepentant-lives-of-reggie-blackwell
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14422'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Unrepentant Lives of Reggie Blackwell (Middle Falls Time Travel #21)'
+    title_without_series: The Unrepentant Lives of Reggie Blackwell
+    uri: kca://book/amzn1.gr.book.v3.-Upd3toG1CqsvLrX
+    work:
+      id: '219919979'
+  - authors:
+      author:
+        id: '7303863'
+        link: https://www.goodreads.com/author/show/7303863.Jason_Ayres
+        name: Jason Ayres
+    average_rating: '3.95'
+    id: '209640026'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/209640026-1982
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14422'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: '1982: A Year in the Life of Wendy Wood'
+    title_without_series: '1982: A Year in the Life of Wendy Wood'
+    uri: kca://book/amzn1.gr.book.v3.DqlLXUnf_UXM-hmd
+    work:
+      id: '215850902'
+  - authors:
+      author:
+        id: '21111447'
+        link: https://www.goodreads.com/author/show/21111447.Adrian_Cousins
+        name: Adrian Cousins
+    average_rating: '3.95'
+    id: '60699253'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/60699253-force-of-time
+    num_pages: '442'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14422'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Force of Time (Jason Apsley #3)'
+    title_without_series: Force of Time
+    uri: kca://book/amzn1.gr.book.v3.ZM2A1nzGXkhHVK9W
+    work:
+      id: '95693731'
+  - authors:
+      author:
+        id: '374164'
+        link: https://www.goodreads.com/author/show/374164.Douglas_E_Richards
+        name: Douglas E. Richards
+    average_rating: '3.95'
+    id: '50535129'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580544778l/50535129._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/50535129-the-enigma-cube
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14422'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580544778l/50535129._SY75_.jpg
+    title: 'The Enigma Cube (Alien Artifact, #1)'
+    title_without_series: The Enigma Cube
+    uri: kca://book/amzn1.gr.book.v3.ATvbJUAUSxCQ-_b4
+    work:
+      id: '75516904'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484169128l/31578285._SY75_.jpg
+started_at: '2019-08-28T00:00:00-07:00'
+text_reviews_count:
+  '#text': '912'
+  '@type': integer
+title: 'Extracted (Extracted Trilogy, #1)'
+title_without_series: Extracted
+uri: kca://book/amzn1.gr.book.v1.REHn93hZynON8OCYRGipFA
+url: https://www.goodreads.com/book/show/31578285-extracted
+work:
+  id: '51434778'
+  uri: kca://work/amzn1.gr.work.v1.FBIi_VQIX6e2jh35Fa5MJw

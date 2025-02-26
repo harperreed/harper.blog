@@ -1,0 +1,733 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.08'
+    id: '44037'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1215099239p5/44037.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/44037.Vernor_Vinge
+    name: Vernor Vinge
+    ratings_count: '149454'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1215099239p2/44037.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '7753'
+average_rating: '3.45'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-12-13T00:00:00-08:00'
+description: null
+edition_information: 1st, First Edition
+format: null
+id: '167842'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: 076530886X
+isbn13: '9780765308863'
+json: '{"id": "167842", "isbn": "076530886X", "isbn13": "9780765308863", "text_reviews_count":
+  {"@type": "integer", "#text": "34"}, "uri": "kca://book/amzn1.gr.book.v1.hppOYdvgaUkzTaLC8OBtuQ",
+  "title": "The Witling", "title_without_series": "The Witling", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/167842.The_Witling",
+  "num_pages": null, "format": null, "edition_information": "1st, First Edition",
+  "publisher": null, "publication_day": null, "publication_year": null, "publication_month":
+  null, "average_rating": "3.45", "ratings_count": "701", "description": null, "authors":
+  {"author": {"id": "44037", "name": "Vernor Vinge", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"},
+  "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge", "average_rating":
+  "4.08", "ratings_count": "149454", "text_reviews_count": "7753"}}, "published":
+  null, "work": {"id": "1270005", "uri": "kca://work/amzn1.gr.work.v1.bUg8axMrQbLDMIcmBCVSSw"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417656",
+  "read_at": "Wed Dec 13 00:00:00 -0800 2006", "started_at": "", "date": "Wed Dec
+  13 00:00:00 -0800 2006"}'
+kindle_asin: B0056IBFKA
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/167842.The_Witling
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '392'
+    '@name': to-read
+  - '@count': '49'
+    '@name': science-fiction
+  - '@count': '28'
+    '@name': sci-fi
+  - '@count': '20'
+    '@name': fiction
+  - '@count': '15'
+    '@name': scifi
+  - '@count': '12'
+    '@name': sf
+  - '@count': '10'
+    '@name': owned
+  - '@count': '10'
+    '@name': currently-reading
+  - '@count': '8'
+    '@name': default
+  - '@count': '6'
+    '@name': fantasy
+  - '@count': '4'
+    '@name': vernor-vinge
+  - '@count': '3'
+    '@name': aliens
+  - '@count': '3'
+    '@name': ebook
+  - '@count': '3'
+    '@name': e-book
+  - '@count': '2'
+    '@name': ebook-on-libby
+  - '@count': '2'
+    '@name': owned-print
+  - '@count': '2'
+    '@name': collection
+  - '@count': '2'
+    '@name': daw
+  - '@count': '2'
+    '@name': ebook-library
+  - '@count': '2'
+    '@name': have
+  - '@count': '2'
+    '@name': donated
+  - '@count': '2'
+    '@name': sci-fi-fantasy
+  - '@count': '2'
+    '@name': v
+  - '@count': '2'
+    '@name': available
+  - '@count': '2'
+    '@name': hard-sci-fi
+  - '@count': '2'
+    '@name': physical
+  - '@count': '2'
+    '@name': vinge-vernor
+  - '@count': '2'
+    '@name': vintage
+  - '@count': '2'
+    '@name': science
+  - '@count': '2'
+    '@name': scifi-fantasy
+  - '@count': '1'
+    '@name': on-deck
+  - '@count': '1'
+    '@name': curious
+  - '@count': '1'
+    '@name': purchased
+  - '@count': '1'
+    '@name': want-to-read
+  - '@count': '1'
+    '@name': the-expanse
+  - '@count': '1'
+    '@name': outdoors
+  - '@count': '1'
+    '@name': law-want-to-read
+  - '@count': '1'
+    '@name': my-ebooks
+  - '@count': '1'
+    '@name': libby-overdrive
+  - '@count': '1'
+    '@name': own-unread
+  - '@count': '1'
+    '@name': tech
+  - '@count': '1'
+    '@name': read-2012
+  - '@count': '1'
+    '@name': 4-ready
+  - '@count': '1'
+    '@name': 2024-sf
+  - '@count': '1'
+    '@name': want-to-buy
+  - '@count': '1'
+    '@name': physical-book-case
+  - '@count': '1'
+    '@name': daw-books
+  - '@count': '1'
+    '@name': home2022
+  - '@count': '1'
+    '@name': writer-usa
+  - '@count': '1'
+    '@name': needtobuy
+  - '@count': '1'
+    '@name': r2
+  - '@count': '1'
+    '@name': to-hunt
+  - '@count': '1'
+    '@name': published1970s
+  - '@count': '1'
+    '@name': read-1993-2000
+  - '@count': '1'
+    '@name': havecopy
+  - '@count': '1'
+    '@name': in-our-library
+  - '@count': '1'
+    '@name': endless-pile-of-sci-fi
+  - '@count': '1'
+    '@name': book-club
+  - '@count': '1'
+    '@name': garvald
+  - '@count': '1'
+    '@name': scifi-stacks-owned
+  - '@count': '1'
+    '@name': calibre
+  - '@count': '1'
+    '@name': gallery-sf
+  - '@count': '1'
+    '@name': 0-fantasy
+  - '@count': '1'
+    '@name': tr-openlibrary-2024
+  - '@count': '1'
+    '@name': trade-paperbacks
+  - '@count': '1'
+    '@name': eb
+  - '@count': '1'
+    '@name': in-readarr
+  - '@count': '1'
+    '@name': library
+  - '@count': '1'
+    '@name': '1'
+  - '@count': '1'
+    '@name': zacquired-in-2022
+  - '@count': '1'
+    '@name': unread
+  - '@count': '1'
+    '@name': "d\u017Eana-sci-fi"
+  - '@count': '1'
+    '@name': books-that-i-own
+  - '@count': '1'
+    '@name': owned-unread
+  - '@count': '1'
+    '@name': fantascienza-l
+  - '@count': '1'
+    '@name': low-priority
+  - '@count': '1'
+    '@name': 20th-century
+  - '@count': '1'
+    '@name': sf-psychic
+  - '@count': '1'
+    '@name': sf-and-fantasy
+  - '@count': '1'
+    '@name': own-copy
+  - '@count': '1'
+    '@name': ya
+  - '@count': '1'
+    '@name': massimo
+  - '@count': '1'
+    '@name': taggare
+  - '@count': '1'
+    '@name': short-stories
+  - '@count': '1'
+    '@name': to-read-april-2016
+  - '@count': '1'
+    '@name': science-fiction-to-read
+  - '@count': '1'
+    '@name': ownedebook
+  - '@count': '1'
+    '@name': wantedaudio
+  - '@count': '1'
+    '@name': added-010120-063020
+  - '@count': '1'
+    '@name': year-1976
+  - '@count': '1'
+    '@name': v3
+  - '@count': '1'
+    '@name': two-word-title
+  - '@count': '1'
+    '@name': title-the-xxx
+  - '@count': '1'
+    '@name': 01-sf
+  - '@count': '1'
+    '@name': scott-read
+  - '@count': '1'
+    '@name': paperback
+  - '@count': '1'
+    '@name': science-fiction-boxes
+  - '@count': '1'
+    '@name': read-in-2019
+  - '@count': '1'
+    '@name': with-shelley
+  - '@count': '1'
+    '@name': urania
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '701'
+read_at: '2006-12-13T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417656
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/167842.The_Witling\"\
+  >The Witling Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=076530886X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/167842.The_Witling?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '22018'
+        link: https://www.goodreads.com/author/show/22018.Mervyn_Peake
+        name: Mervyn Peake
+    average_rating: '3.45'
+    id: '39063'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327871204l/39063._SX98_.jpg
+    isbn: 0879514256
+    isbn13: '9780879514259'
+    link: https://www.goodreads.com/book/show/39063.Titus_Groan
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '701'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327871204l/39063._SY75_.jpg
+    title: 'Titus Groan (Gormenghast, #1)'
+    title_without_series: Titus Groan
+    uri: kca://book/amzn1.gr.book.v1.UwXN3V6Qf-xKJahhF-kY4Q
+    work:
+      id: '3250394'
+  - authors:
+      author:
+        id: '61073'
+        link: https://www.goodreads.com/author/show/61073.Cecelia_Holland
+        name: Cecelia Holland
+    average_rating: '3.45'
+    id: '731114'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0575071427'
+    isbn13: '9780575071421'
+    link: https://www.goodreads.com/book/show/731114.Floating_Worlds
+    num_pages: '542'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '701'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Floating Worlds
+    title_without_series: Floating Worlds
+    uri: kca://book/amzn1.gr.book.v1.QF9aDBGViD0VEIDxuv2caA
+    work:
+      id: '717306'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '3.45'
+    id: '195443798'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SX98_.jpg
+    isbn: '1035013770'
+    isbn13: '9781035013777'
+    link: https://www.goodreads.com/book/show/195443798-alien-clay
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '701'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SY75_.jpg
+    title: Alien Clay
+    title_without_series: Alien Clay
+    uri: kca://book/amzn1.gr.book.v3.U07jHOWpgU_-RRTg
+    work:
+      id: '197089092'
+  - authors:
+      author:
+        id: '29479'
+        link: https://www.goodreads.com/author/show/29479.Harry_Turtledove
+        name: Harry Turtledove
+    average_rating: '3.45'
+    id: '101528'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403169075l/101528._SY160_.jpg
+    isbn: 0345412087
+    isbn13: '9780345412089'
+    link: https://www.goodreads.com/book/show/101528.Striking_the_Balance
+    num_pages: '547'
+    publication_day: null
+    publication_month: '9'
+    publication_year: '1997'
+    ratings_count: '701'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403169075l/101528._SY75_.jpg
+    title: 'Striking the Balance (Worldwar, #4)'
+    title_without_series: Striking the Balance
+    uri: kca://book/amzn1.gr.book.v1.ROikNql8bQMci6kyynZwzQ
+    work:
+      id: '1194831'
+  - authors:
+      author:
+        id: '29479'
+        link: https://www.goodreads.com/author/show/29479.Harry_Turtledove
+        name: Harry Turtledove
+    average_rating: '3.45'
+    id: '101589'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0345420586
+    isbn13: '9780345420589'
+    link: https://www.goodreads.com/book/show/101589.Upsetting_the_Balance
+    num_pages: '481'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '701'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Upsetting the Balance (Worldwar, #3)'
+    title_without_series: Upsetting the Balance
+    uri: kca://book/amzn1.gr.book.v1.N5ypCyACxOmPxWqPW3mkzg
+    work:
+      id: '1046803'
+  - authors:
+      author:
+        id: '29479'
+        link: https://www.goodreads.com/author/show/29479.Harry_Turtledove
+        name: Harry Turtledove
+    average_rating: '3.45'
+    id: '101570'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0345420578
+    isbn13: '9780345420572'
+    link: https://www.goodreads.com/book/show/101570.Tilting_the_Balance
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '701'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Tilting the Balance (Worldwar, #2)'
+    title_without_series: Tilting the Balance
+    uri: kca://book/amzn1.gr.book.v1.IFps9tnZOYR02N3MhxbI6Q
+    work:
+      id: '97926'
+  - authors:
+      author:
+        id: '29479'
+        link: https://www.goodreads.com/author/show/29479.Harry_Turtledove
+        name: Harry Turtledove
+    average_rating: '3.45'
+    id: '101527'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1313412268l/101527._SY160_.jpg
+    isbn: 034542056X
+    isbn13: '9780345420565'
+    link: https://www.goodreads.com/book/show/101527.In_the_Balance
+    num_pages: '465'
+    publication_day: '4'
+    publication_month: '10'
+    publication_year: '1996'
+    ratings_count: '701'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1313412268l/101527._SY75_.jpg
+    title: 'In the Balance (Worldwar, #1)'
+    title_without_series: In the Balance
+    uri: kca://book/amzn1.gr.book.v1.IHBNJut6errgkB63GplJsQ
+    work:
+      id: '1046805'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '3.45'
+    id: '60850767'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655929460l/60850767._SX98_.jpg
+    isbn: '1529087201'
+    isbn13: '9781529087208'
+    link: https://www.goodreads.com/book/show/60850767-children-of-memory
+    num_pages: '486'
+    publication_day: '24'
+    publication_month: '11'
+    publication_year: '2022'
+    ratings_count: '701'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655929460l/60850767._SY75_.jpg
+    title: 'Children of Memory (Children of Time, #3)'
+    title_without_series: Children of Memory
+    uri: kca://book/amzn1.gr.book.v3.xEoaLme9tUe6Ppqa
+    work:
+      id: '95966083'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '3.45'
+    id: '50663055'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614008015l/50663055._SX98_.jpg
+    isbn: '1250768721'
+    isbn13: '9781250768728'
+    link: https://www.goodreads.com/book/show/50663055-elder-race
+    num_pages: '201'
+    publication_day: '16'
+    publication_month: '11'
+    publication_year: '2021'
+    ratings_count: '701'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614008015l/50663055._SY75_.jpg
+    title: Elder Race
+    title_without_series: Elder Race
+    uri: kca://book/amzn1.gr.book.v3.ypTHrcdWrfLNgOux
+    work:
+      id: '75680379'
+  - authors:
+      author:
+        id: '12534'
+        link: https://www.goodreads.com/author/show/12534.Larry_Niven
+        name: Larry Niven
+    average_rating: '3.45'
+    id: '100366'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0345336941
+    isbn13: '9780345336941'
+    link: https://www.goodreads.com/book/show/100366.Neutron_Star
+    num_pages: '285'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '701'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Neutron Star (Known Space)
+    title_without_series: Neutron Star
+    uri: kca://book/amzn1.gr.book.v1.2fLMa5fgAVzGm8FkTTU54Q
+    work:
+      id: '96772'
+  - authors:
+      author:
+        id: '3020656'
+        link: https://www.goodreads.com/author/show/3020656.Ian_C_Esslemont
+        name: Ian C. Esslemont
+    average_rating: '3.45'
+    id: '2485836'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327981831l/2485836._SX98_.jpg
+    isbn: 0593058097
+    isbn13: '9780593058091'
+    link: https://www.goodreads.com/book/show/2485836.Return_of_the_Crimson_Guard
+    num_pages: '702'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '701'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327981831l/2485836._SY75_.jpg
+    title: 'Return of the Crimson Guard (Novels of the Malazan Empire, #2)'
+    title_without_series: Return of the Crimson Guard
+    uri: kca://book/amzn1.gr.book.v1.fbIJO_6uzqiO7lhPhuCrQw
+    work:
+      id: '2493041'
+  - authors:
+      author:
+        id: '3020656'
+        link: https://www.goodreads.com/author/show/3020656.Ian_C_Esslemont
+        name: Ian C. Esslemont
+    average_rating: '3.45'
+    id: '458394'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327981918l/458394._SY160_.jpg
+    isbn: 0593057813
+    isbn13: '9780593057810'
+    link: https://www.goodreads.com/book/show/458394.Night_of_Knives
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '701'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327981918l/458394._SY75_.jpg
+    title: 'Night of Knives (Novels of the Malazan Empire, #1)'
+    title_without_series: Night of Knives
+    uri: kca://book/amzn1.gr.book.v1.MdhHNnAvys6G45pMwJeBbw
+    work:
+      id: '446887'
+  - authors:
+      author:
+        id: '3020656'
+        link: https://www.goodreads.com/author/show/3020656.Ian_C_Esslemont
+        name: Ian C. Esslemont
+    average_rating: '3.45'
+    id: '8432418'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320434092l/8432418._SX98_.jpg
+    isbn: 0593064445
+    isbn13: '9780593064443'
+    link: https://www.goodreads.com/book/show/8432418-stonewielder
+    num_pages: '634'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '701'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320434092l/8432418._SY75_.jpg
+    title: 'Stonewielder (Novels of the Malazan Empire, #3)'
+    title_without_series: Stonewielder
+    uri: kca://book/amzn1.gr.book.v1.zf0nfzUd0sbrFt8EMZg3Ng
+    work:
+      id: '13295834'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '3.45'
+    id: '42201505'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539510199l/42201505._SX98_.jpg
+    isbn: '1781087067'
+    isbn13: '9781781087060'
+    link: https://www.goodreads.com/book/show/42201505-walking-to-aldebaran
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '701'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539510199l/42201505._SX50_.jpg
+    title: Walking to Aldebaran
+    title_without_series: Walking to Aldebaran
+    uri: kca://book/amzn1.gr.book.v1.ghgQEK5bpV7cZaVbGfvrWQ
+    work:
+      id: '65814044'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '3.45'
+    id: '34466691'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499862212l/34466691._SX98_.jpg
+    isbn: '1781085684'
+    isbn13: '9781781085684'
+    link: https://www.goodreads.com/book/show/34466691-ironclads
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '701'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499862212l/34466691._SY75_.jpg
+    title: Ironclads
+    title_without_series: Ironclads
+    uri: kca://book/amzn1.gr.book.v1.0gExKLhL6zWz7HL4XT0Taw
+    work:
+      id: '55586798'
+  - authors:
+      author:
+        id: '3020656'
+        link: https://www.goodreads.com/author/show/3020656.Ian_C_Esslemont
+        name: Ian C. Esslemont
+    average_rating: '3.45'
+    id: '25480364'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448382324l/25480364._SX98_.jpg
+    isbn: 0765379457
+    isbn13: '9780765379450'
+    link: https://www.goodreads.com/book/show/25480364-dancer-s-lament
+    num_pages: '416'
+    publication_day: '21'
+    publication_month: '4'
+    publication_year: '2016'
+    ratings_count: '701'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448382324l/25480364._SY75_.jpg
+    title: 'Dancer''s Lament (Path to Ascendancy, #1)'
+    title_without_series: Dancer's Lament
+    uri: kca://book/amzn1.gr.book.v1.GT0DMtM3M_HiiN5EvNluZA
+    work:
+      id: '45252453'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '3.45'
+    id: '55278507'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724827773l/55278507._SX98_.jpg
+    isbn: '1549106392'
+    isbn13: '9781549106392'
+    link: https://www.goodreads.com/book/show/55278507-shards-of-earth
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '701'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724827773l/55278507._SY75_.jpg
+    title: 'Shards of Earth (The Final Architecture, #1)'
+    title_without_series: Shards of Earth
+    uri: kca://book/amzn1.gr.book.v3.iXJ8HRwu2xYH7ClI
+    work:
+      id: '86200930'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '3.45'
+    id: '62315578'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671150806l/62315578._SX98_.jpg
+    isbn: '1668628104'
+    isbn13: '9781668628102'
+    link: https://www.goodreads.com/book/show/62315578-lords-of-uncreation
+    num_pages: '608'
+    publication_day: '2'
+    publication_month: '5'
+    publication_year: '2023'
+    ratings_count: '701'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671150806l/62315578._SY75_.jpg
+    title: 'Lords of Uncreation (The Final Architecture, #3)'
+    title_without_series: Lords of Uncreation
+    uri: kca://book/amzn1.gr.book.v3.b6Lkk7CCldRK1y9X
+    work:
+      id: '98118051'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '34'
+  '@type': integer
+title: The Witling
+title_without_series: The Witling
+uri: kca://book/amzn1.gr.book.v1.hppOYdvgaUkzTaLC8OBtuQ
+url: https://www.goodreads.com/book/show/167842.The_Witling
+work:
+  id: '1270005'
+  uri: kca://work/amzn1.gr.work.v1.bUg8axMrQbLDMIcmBCVSSw

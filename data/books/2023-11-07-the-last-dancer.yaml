@@ -1,0 +1,747 @@
+asin: B004XNKOOC
+authors:
+  author:
+    average_rating: '3.93'
+    id: '196482'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1323292796p5/196482.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/196482.Daniel_Keys_Moran
+    name: Daniel Keys Moran
+    ratings_count: '11037'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1323292796p2/196482.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '543'
+average_rating: '4.34'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2023-11-07T00:00:00-08:00'
+description: null
+edition_information: null
+format: null
+id: '12289997'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn:
+  '@nil': 'true'
+isbn13:
+  '@nil': 'true'
+json: '{"id": "12289997", "isbn": {"@nil": "true"}, "isbn13": {"@nil": "true"}, "text_reviews_count":
+  {"@type": "integer", "#text": "8"}, "uri": "kca://book/amzn1.gr.book.v1.HgyQQJGP-nGqGM1ky8-V_w",
+  "title": "The Last Dancer", "title_without_series": "The Last Dancer", "image_url":
+  "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/12289997-the-last-dancer",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "4.34", "ratings_count": "607", "description": null, "authors": {"author": {"id":
+  "196482", "name": "Daniel Keys Moran", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1323292796p5/196482.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1323292796p2/196482.jpg"},
+  "link": "https://www.goodreads.com/author/show/196482.Daniel_Keys_Moran", "average_rating":
+  "3.93", "ratings_count": "11037", "text_reviews_count": "543"}}, "published": null,
+  "work": {"id": "1251863", "uri": "kca://work/amzn1.gr.work.v1.F4RSRsY_ogI5F5MywdqKww"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/5962171239",
+  "read_at": "Tue Nov 07 00:00:00 -0800 2023", "started_at": "", "date": "Tue Nov
+  07 00:00:00 -0800 2023"}'
+kindle_asin: B004XNKOOC
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/12289997-the-last-dancer
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '209'
+    '@name': to-read
+  - '@count': '33'
+    '@name': science-fiction
+  - '@count': '21'
+    '@name': currently-reading
+  - '@count': '13'
+    '@name': sci-fi
+  - '@count': '8'
+    '@name': fiction
+  - '@count': '7'
+    '@name': cyberpunk
+  - '@count': '6'
+    '@name': sf
+  - '@count': '6'
+    '@name': scifi
+  - '@count': '6'
+    '@name': favorites
+  - '@count': '5'
+    '@name': owned
+  - '@count': '4'
+    '@name': fantasy
+  - '@count': '3'
+    '@name': dystopian
+  - '@count': '3'
+    '@name': default
+  - '@count': '3'
+    '@name': kindle
+  - '@count': '3'
+    '@name': ebook
+  - '@count': '3'
+    '@name': ebooks
+  - '@count': '2'
+    '@name': reread
+  - '@count': '2'
+    '@name': science
+  - '@count': '1'
+    '@name': no-encuentro
+  - '@count': '1'
+    '@name': on-deck
+  - '@count': '1'
+    '@name': fan-comments-sci-fi-fantasy-channel
+  - '@count': '1'
+    '@name': ready-to-read
+  - '@count': '1'
+    '@name': o-spec-fic-older-classics-maybes
+  - '@count': '1'
+    '@name': a-ebook-kindle
+  - '@count': '1'
+    '@name': american-authors
+  - '@count': '1'
+    '@name': military-sci-fi-4
+  - '@count': '1'
+    '@name': owned-physical
+  - '@count': '1'
+    '@name': owned-ebook
+  - '@count': '1'
+    '@name': my-bookshelves
+  - '@count': '1'
+    '@name': physical-books
+  - '@count': '1'
+    '@name': wish-list
+  - '@count': '1'
+    '@name': fantasy-science-fiction
+  - '@count': '1'
+    '@name': favorite-sci-fi
+  - '@count': '1'
+    '@name': have
+  - '@count': '1'
+    '@name': own-read
+  - '@count': '1'
+    '@name': political-fiction
+  - '@count': '1'
+    '@name': as
+  - '@count': '1'
+    '@name': lts
+  - '@count': '1'
+    '@name': torture
+  - '@count': '1'
+    '@name': space
+  - '@count': '1'
+    '@name': psionics
+  - '@count': '1'
+    '@name': orphan
+  - '@count': '1'
+    '@name': mind-control
+  - '@count': '1'
+    '@name': ensemble
+  - '@count': '1'
+    '@name': body-modification
+  - '@count': '1'
+    '@name': aliens
+  - '@count': '1'
+    '@name': the-library-of-carl
+  - '@count': '1'
+    '@name': to-listen
+  - '@count': '1'
+    '@name': electronic
+  - '@count': '1'
+    '@name': fetch
+  - '@count': '1'
+    '@name': hard-sci-fi
+  - '@count': '1'
+    '@name': b-ok
+  - '@count': '1'
+    '@name': box-2
+  - '@count': '1'
+    '@name': will-finish
+  - '@count': '1'
+    '@name': sci-fi-fantasy
+  - '@count': '1'
+    '@name': attic7
+  - '@count': '1'
+    '@name': mega-novel-101k-and-up
+  - '@count': '1'
+    '@name': novel-40k-words-and-up
+  - '@count': '1'
+    '@name': 00-inbox
+  - '@count': '1'
+    '@name': fiction-novels
+  - '@count': '1'
+    '@name': tbr-authors
+  - '@count': '1'
+    '@name': read-kevin
+  - '@count': '1'
+    '@name': a-bird-in-the-hand
+  - '@count': '1'
+    '@name': trent
+  - '@count': '1'
+    '@name': rereads-in-2018
+  - '@count': '1'
+    '@name': '10'
+  - '@count': '1'
+    '@name': wanted
+  - '@count': '1'
+    '@name': series
+  - '@count': '1'
+    '@name': space-opera
+  - '@count': '1'
+    '@name': 2018-reading-challenge
+  - '@count': '1'
+    '@name': own-hardcover
+  - '@count': '1'
+    '@name': fiction-own
+  - '@count': '1'
+    '@name': on-calibre-to-read
+  - '@count': '1'
+    '@name': fiction-read
+  - '@count': '1'
+    '@name': sff
+  - '@count': '1'
+    '@name': unread
+  - '@count': '1'
+    '@name': read-but-unowned
+  - '@count': '1'
+    '@name': e-book
+  - '@count': '1'
+    '@name': in-the-stacks
+  - '@count': '1'
+    '@name': hard
+  - '@count': '1'
+    '@name': read-on-kindle
+  - '@count': '1'
+    '@name': read-in-2016
+  - '@count': '1'
+    '@name': first-read
+  - '@count': '1'
+    '@name': 1990s
+  - '@count': '1'
+    '@name': _garbage
+  - '@count': '1'
+    '@name': s-f
+  - '@count': '1'
+    '@name': yearly-reads
+  - '@count': '1'
+    '@name': big-faves
+  - '@count': '1'
+    '@name': hardcopy
+  - '@count': '1'
+    '@name': speculative-fiction
+  - '@count': '1'
+    '@name': romance
+  - '@count': '1'
+    '@name': daniel-keys-moran
+  - '@count': '1'
+    '@name': own-on-ipad-kindle-nook
+  - '@count': '1'
+    '@name': thriller
+  - '@count': '1'
+    '@name': for-sale
+  - '@count': '1'
+    '@name': paperback
+  - '@count': '1'
+    '@name': clear-out
+  - '@count': '1'
+    '@name': the-continuing-time
+  - '@count': '1'
+    '@name': collection
+  - '@count': '1'
+    '@name': zzz-epub
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '607'
+read_at: '2023-11-07T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/5962171239
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/12289997-the-last-dancer\"\
+  >The Last Dancer Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B004XNKOOC&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/12289997-the-last-dancer?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '249089'
+    series:
+      description: null
+      id: '59138'
+      note: null
+      numbered: 'true'
+      primary_work_count: '4'
+      series_works_count: '4'
+      title: The Continuing Time
+    user_position: '3'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '3365457'
+        link: https://www.goodreads.com/author/show/3365457.Ann_Leckie
+        name: Ann Leckie
+    average_rating: '4.34'
+    id: '17333324'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397215917l/17333324._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/17333324-ancillary-justice
+    num_pages: '386'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '607'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397215917l/17333324._SY75_.jpg
+    title: 'Ancillary Justice (Imperial Radch, #1)'
+    title_without_series: Ancillary Justice
+    uri: kca://book/amzn1.gr.book.v1.oPEWFxWYEA4CV6IIhbU8rw
+    work:
+      id: '24064628'
+  - authors:
+      author:
+        id: '44037'
+        link: https://www.goodreads.com/author/show/44037.Vernor_Vinge
+        name: Vernor Vinge
+    average_rating: '4.34'
+    id: '77711'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728332458l/77711._SY160_.jpg
+    isbn: 0812515285
+    isbn13: '9780812515282'
+    link: https://www.goodreads.com/book/show/77711.A_Fire_Upon_the_Deep
+    num_pages: '613'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '607'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728332458l/77711._SY75_.jpg
+    title: 'A Fire Upon the Deep (Zones of Thought, #1)'
+    title_without_series: A Fire Upon the Deep
+    uri: kca://book/amzn1.gr.book.v1.P2pv-bd3HGUPBOYQNaPGJw
+    work:
+      id: '1253374'
+  - authors:
+      author:
+        id: '8427407'
+        link: https://www.goodreads.com/author/show/8427407.James_Islington
+        name: James  Islington
+    average_rating: '4.34'
+    id: '32498052'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487139774l/32498052._SX98_.jpg
+    isbn: 0316274119
+    isbn13: '9780316274111'
+    link: https://www.goodreads.com/book/show/32498052-an-echo-of-things-to-come
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '607'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487139774l/32498052._SY75_.jpg
+    title: 'An Echo of Things to Come (The Licanius Trilogy, #2)'
+    title_without_series: An Echo of Things to Come
+    uri: kca://book/amzn1.gr.book.v1._v6_ayfanBQSJeNkZP38bQ
+    work:
+      id: '42746818'
+  - authors:
+      author:
+        id: '10746'
+        link: https://www.goodreads.com/author/show/10746.Jim_Butcher
+        name: Jim  Butcher
+    average_rating: '4.34'
+    id: '195463561'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1039452434'
+    isbn13: '9781039452435'
+    link: https://www.goodreads.com/book/show/195463561-warriorborn
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '607'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Warriorborn (The Cinder Spires #1.5)'
+    title_without_series: Warriorborn
+    uri: kca://book/amzn1.gr.book.v3.XvXFTvM4bunGKp2y
+    work:
+      id: '197129305'
+  - authors:
+      author:
+        id: '10746'
+        link: https://www.goodreads.com/author/show/10746.Jim_Butcher
+        name: Jim  Butcher
+    average_rating: '4.34'
+    id: '26860699'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685085160l/26860699._SX98_.jpg
+    isbn: 0451466829
+    isbn13: '9780451466822'
+    link: https://www.goodreads.com/book/show/26860699-the-olympian-affair
+    num_pages: '610'
+    publication_day: '7'
+    publication_month: '11'
+    publication_year: '2023'
+    ratings_count: '607'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685085160l/26860699._SY75_.jpg
+    title: 'The Olympian Affair (The Cinder Spires, #2)'
+    title_without_series: The Olympian Affair
+    uri: kca://book/amzn1.gr.book.v1.mGJNFBUkaOJrUfqf7f2jMg
+    work:
+      id: '46900078'
+  - authors:
+      author:
+        id: '10746'
+        link: https://www.goodreads.com/author/show/10746.Jim_Butcher
+        name: Jim  Butcher
+    average_rating: '4.34'
+    id: '136342745'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685352413l/136342745._SX98_.jpg
+    isbn: 0593642058
+    isbn13: '9780593642054'
+    link: https://www.goodreads.com/book/show/136342745-the-aeronaut-s-windlass
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '607'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685352413l/136342745._SY75_.jpg
+    title: 'The Aeronaut''s Windlass (The Cinder Spires, #1)'
+    title_without_series: The Aeronaut's Windlass
+    uri: kca://book/amzn1.gr.book.v3.gjVvxrWL0p9zWoPd
+    work:
+      id: '24239884'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.34'
+    id: '195264190'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1690602081l/195264190._SX98_.jpg
+    isbn: '1645241726'
+    isbn13: '9781645241720'
+    link: https://www.goodreads.com/book/show/195264190-compulsory
+    num_pages: null
+    publication_day: '20'
+    publication_month: '7'
+    publication_year: '2023'
+    ratings_count: '607'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1690602081l/195264190._SY75_.jpg
+    title: 'Compulsory (The Murderbot Diaries, #0.5)'
+    title_without_series: Compulsory
+    uri: kca://book/amzn1.gr.book.v3.499rZtdz9VjWh3S_
+    work:
+      id: '196838465'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.34'
+    id: '201930181'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SX98_.jpg
+    isbn: 031652557X
+    isbn13: '9780316525572'
+    link: https://www.goodreads.com/book/show/201930181-the-mercy-of-gods
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '607'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SY75_.jpg
+    title: "The Mercy of Gods (The Captive\u2019s War, #1)"
+    title_without_series: The Mercy of Gods
+    uri: kca://book/amzn1.gr.book.v3.nndIiP3mF2vHLfgz
+    work:
+      id: '95320019'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.34'
+    id: '65211701'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674575978l/65211701._SX98_.jpg
+    isbn: '1250826977'
+    isbn13: '9781250826978'
+    link: https://www.goodreads.com/book/show/65211701-system-collapse
+    num_pages: '245'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '607'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674575978l/65211701._SY75_.jpg
+    title: 'System Collapse (The Murderbot Diaries, #7)'
+    title_without_series: System Collapse
+    uri: kca://book/amzn1.gr.book.v3.BlgXZE2jb-Pp_eWq
+    work:
+      id: '90712113'
+  - authors:
+      author:
+        id: '48417717'
+        link: https://www.goodreads.com/author/show/48417717.Gareth_L_Powell
+        name: Gareth L.   Powell
+    average_rating: '4.34'
+    id: '62595650'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/62595650-descendant-machine
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '607'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Descendant Machine (Continuance #2)'
+    title_without_series: Descendant Machine
+    uri: kca://book/amzn1.gr.book.v3.IxGWhiLsy9Ijktfu
+    work:
+      id: '98344999'
+  - authors:
+      author:
+        id: '4763'
+        link: https://www.goodreads.com/author/show/4763.John_Scalzi
+        name: John Scalzi
+    average_rating: '4.34'
+    id: '61885029'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683564155l/61885029._SX98_.jpg
+    isbn: 0765389223
+    isbn13: '9780765389220'
+    link: https://www.goodreads.com/book/show/61885029-starter-villain
+    num_pages: '264'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '607'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683564155l/61885029._SY75_.jpg
+    title: Starter Villain
+    title_without_series: Starter Villain
+    uri: kca://book/amzn1.gr.book.v3.lw5OQ1LT9jh6bQd-
+    work:
+      id: '97563902'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.34'
+    id: '215760525'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724079438l/215760525._SX98_.jpg
+    isbn: 0316575348
+    isbn13: '9780316575348'
+    link: https://www.goodreads.com/book/show/215760525-livesuit
+    num_pages: '90'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '607'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724079438l/215760525._SY75_.jpg
+    title: "Livesuit (The Captive\u2019s War #1.5)"
+    title_without_series: Livesuit
+    uri: kca://book/amzn1.gr.book.v3.Rr7d-BxEjSsqm-t3
+    work:
+      id: '222176366'
+  - authors:
+      author:
+        id: '44037'
+        link: https://www.goodreads.com/author/show/44037.Vernor_Vinge
+        name: Vernor Vinge
+    average_rating: '4.34'
+    id: '226004'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1217218691l/226004._SY160_.jpg
+    isbn: 0812536355
+    isbn13: '9780812536355'
+    link: https://www.goodreads.com/book/show/226004.A_Deepness_in_the_Sky
+    num_pages: '775'
+    publication_day: '15'
+    publication_month: '1'
+    publication_year: '2000'
+    ratings_count: '607'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1217218691l/226004._SY75_.jpg
+    title: 'A Deepness in the Sky (Zones of Thought, #2)'
+    title_without_series: A Deepness in the Sky
+    uri: kca://book/amzn1.gr.book.v1.QAo0n279_XA2-6OaX7OUSQ
+    work:
+      id: '1270006'
+  - authors:
+      author:
+        id: '10518'
+        link: https://www.goodreads.com/author/show/10518.Elizabeth_Moon
+        name: Elizabeth Moon
+    average_rating: '4.34'
+    id: '17316'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0671697986
+    isbn13: '9780671697983'
+    link: https://www.goodreads.com/book/show/17316.Oath_of_Gold
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '607'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Oath of Gold (The Deed of Paksenarrion, #3)'
+    title_without_series: Oath of Gold
+    uri: kca://book/amzn1.gr.book.v1.78t8vU10lGjMaXzaVh5psg
+    work:
+      id: '18891'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.34'
+    id: '53205854'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731700666l/53205854._SX98_.jpg
+    isbn: '1250765374'
+    isbn13: '9781250765376'
+    link: https://www.goodreads.com/book/show/53205854-fugitive-telemetry
+    num_pages: '168'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '607'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731700666l/53205854._SY75_.jpg
+    title: 'Fugitive Telemetry (The Murderbot Diaries, #6)'
+    title_without_series: Fugitive Telemetry
+    uri: kca://book/amzn1.gr.book.v3.zA5G7sk4BKdPYlNo
+    work:
+      id: '80438420'
+  - authors:
+      author:
+        id: '1226977'
+        link: https://www.goodreads.com/author/show/1226977.Paolo_Bacigalupi
+        name: Paolo Bacigalupi
+    average_rating: '4.34'
+    id: '199927764'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701017313l/199927764._SX98_.jpg
+    isbn: 0593535057
+    isbn13: '9780593535059'
+    link: https://www.goodreads.com/book/show/199927764-navola
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '607'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701017313l/199927764._SY75_.jpg
+    title: Navola
+    title_without_series: Navola
+    uri: kca://book/amzn1.gr.book.v3.weU0tci4gG7A2oRC
+    work:
+      id: '204555273'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.34'
+    id: '52381770'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640597293l/52381770._SX98_.jpg
+    isbn: '1250229863'
+    isbn13: '9781250229861'
+    link: https://www.goodreads.com/book/show/52381770-network-effect
+    num_pages: '350'
+    publication_day: '5'
+    publication_month: '5'
+    publication_year: '2020'
+    ratings_count: '607'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640597293l/52381770._SY75_.jpg
+    title: 'Network Effect (The Murderbot Diaries, #5)'
+    title_without_series: Network Effect
+    uri: kca://book/amzn1.gr.book.v3.jq0mBydDYRHnJKGr
+    work:
+      id: '63614271'
+  - authors:
+      author:
+        id: '5807106'
+        link: https://www.goodreads.com/author/show/5807106.Iain_M_Banks
+        name: Iain M. Banks
+    average_rating: '4.34'
+    id: '18630'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0061053562'
+    isbn13: '9780061053566'
+    link: https://www.goodreads.com/book/show/18630.The_Player_of_Games
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '607'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Player of Games (Culture, #2)'
+    title_without_series: The Player of Games
+    uri: kca://book/amzn1.gr.book.v1.g0y5yzOo3TqOXqySHJ7JCA
+    work:
+      id: '1494157'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '8'
+  '@type': integer
+title: The Last Dancer
+title_without_series: The Last Dancer
+uri: kca://book/amzn1.gr.book.v1.HgyQQJGP-nGqGM1ky8-V_w
+url: https://www.goodreads.com/book/show/12289997-the-last-dancer
+work:
+  id: '1251863'
+  uri: kca://work/amzn1.gr.work.v1.F4RSRsY_ogI5F5MywdqKww

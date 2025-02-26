@@ -1,0 +1,337 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.74'
+    id: '65320'
+    image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+      '@nophoto': 'true'
+    link: https://www.goodreads.com/author/show/65320.Cal_Henderson
+    name: Cal Henderson
+    ratings_count: '297'
+    role: null
+    small_image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png
+      '@nophoto': 'true'
+    text_reviews_count: '20'
+average_rating: '3.75'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: null
+edition_information: '1'
+format: null
+id: '112863'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328834638l/112863._SX98_.jpg
+is_ebook: 'false'
+isbn: 0596102356
+isbn13: '9780596102357'
+json: '{"id": "112863", "isbn": "0596102356", "isbn13": "9780596102357", "text_reviews_count":
+  {"@type": "integer", "#text": "20"}, "uri": "kca://book/amzn1.gr.book.v1.yB6-ww0GJ6RE5tXmWy0JnA",
+  "title": "Building Scalable Web Sites", "title_without_series": "Building Scalable
+  Web Sites", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328834638l/112863._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328834638l/112863._SX50_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/112863.Building_Scalable_Web_Sites",
+  "num_pages": null, "format": null, "edition_information": "1", "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.75", "ratings_count": "299", "description": null, "authors": {"author": {"id":
+  "65320", "name": "Cal Henderson", "role": null, "image_url": {"@nophoto": "true",
+  "#text": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"},
+  "small_image_url": {"@nophoto": "true", "#text": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"},
+  "link": "https://www.goodreads.com/author/show/65320.Cal_Henderson", "average_rating":
+  "3.74", "ratings_count": "297", "text_reviews_count": "20"}}, "published": null,
+  "work": {"id": "108671", "uri": "kca://work/amzn1.gr.work.v1.z89Hn0R0fQh0wFnW6jwPNA"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417540",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B0026OR2UO
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/112863.Building_Scalable_Web_Sites
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '333'
+    '@name': to-read
+  - '@count': '23'
+    '@name': currently-reading
+  - '@count': '15'
+    '@name': programming
+  - '@count': '7'
+    '@name': technology
+  - '@count': '7'
+    '@name': computers
+  - '@count': '7'
+    '@name': computer
+  - '@count': '6'
+    '@name': tech
+  - '@count': '6'
+    '@name': non-fiction
+  - '@count': '6'
+    '@name': software
+  - '@count': '5'
+    '@name': work
+  - '@count': '5'
+    '@name': computer-science
+  - '@count': '5'
+    '@name': technical
+  - '@count': '5'
+    '@name': web
+  - '@count': '4'
+    '@name': reference
+  - '@count': '3'
+    '@name': owned
+  - '@count': '3'
+    '@name': front-end
+  - '@count': '3'
+    '@name': ebook
+  - '@count': '3'
+    '@name': software-development
+  - '@count': '2'
+    '@name': software-architecture
+  - '@count': '2'
+    '@name': performance
+  - '@count': '2'
+    '@name': scanned
+  - '@count': '2'
+    '@name': i-own
+  - '@count': '2'
+    '@name': computing
+  - '@count': '1'
+    '@name': 0-desarrollo
+  - '@count': '1'
+    '@name': book-club-bussiness
+  - '@count': '1'
+    '@name': random
+  - '@count': '1'
+    '@name': o-reilly
+  - '@count': '1'
+    '@name': c04
+  - '@count': '1'
+    '@name': biblioteca
+  - '@count': '1'
+    '@name': abandoned
+  - '@count': '1'
+    '@name': www
+  - '@count': '1'
+    '@name': real-books
+  - '@count': '1'
+    '@name': owned-programming
+  - '@count': '1'
+    '@name': jb
+  - '@count': '1'
+    '@name': engineer
+  - '@count': '1'
+    '@name': webscalability
+  - '@count': '1'
+    '@name': my-books-at-home
+  - '@count': '1'
+    '@name': systems
+  - '@count': '1'
+    '@name': architecture
+  - '@count': '1'
+    '@name': it_web-scalability
+  - '@count': '1'
+    '@name': it-architecture
+  - '@count': '1'
+    '@name': 1-programming
+  - '@count': '1'
+    '@name': infrastructure-performance-systems
+  - '@count': '1'
+    '@name': 006-special-method-apps-specific
+  - '@count': '1'
+    '@name': tech-library
+  - '@count': '1'
+    '@name': coding
+  - '@count': '1'
+    '@name': old-to-read
+  - '@count': '1'
+    '@name': computers-tech
+  - '@count': '1'
+    '@name': systems-agile
+  - '@count': '1'
+    '@name': started
+  - '@count': '1'
+    '@name': designing
+  - '@count': '1'
+    '@name': interview-prep
+  - '@count': '1'
+    '@name': "computa\xE7\xE3o"
+  - '@count': '1'
+    '@name': work-related
+  - '@count': '1'
+    '@name': have-softcopy
+  - '@count': '1'
+    '@name': february
+  - '@count': '1'
+    '@name': design-distributed-system
+  - '@count': '1'
+    '@name': cs-programming
+  - '@count': '1'
+    '@name': ops
+  - '@count': '1'
+    '@name': about-personal-development
+  - '@count': '1'
+    '@name': "\u0412\u0440\u0435\u043C\u0435\u043D\u043D\u043E-\u0437\u0430\u0431\u0430\
+      \u0442\u0430\u0447\u0435\u043D\u0438"
+  - '@count': '1'
+    '@name': website
+  - '@count': '1'
+    '@name': information-technology
+  - '@count': '1'
+    '@name': python-django
+  - '@count': '1'
+    '@name': programming-web
+  - '@count': '1'
+    '@name': porterm
+  - '@count': '1'
+    '@name': sbooks2
+  - '@count': '1'
+    '@name': donated
+  - '@count': '1'
+    '@name': cto
+  - '@count': '1'
+    '@name': system-architecture
+  - '@count': '1'
+    '@name': devops
+  - '@count': '1'
+    '@name': my-books
+  - '@count': '1'
+    '@name': stuffs
+  - '@count': '1'
+    '@name': might-want-to-read
+  - '@count': '1'
+    '@name': to-read-professional
+  - '@count': '1'
+    '@name': 1-computer-science
+  - '@count': '1'
+    '@name': american
+  - '@count': '1'
+    '@name': cs-other
+  - '@count': '1'
+    '@name': to-read-computing-tech
+  - '@count': '1'
+    '@name': own-it-ebook
+  - '@count': '1'
+    '@name': mark1
+  - '@count': '1'
+    '@name': user-experience
+  - '@count': '1'
+    '@name': i-bought-this
+  - '@count': '1'
+    '@name': design
+  - '@count': '1'
+    '@name': business
+  - '@count': '1'
+    '@name': canceled
+  - '@count': '1'
+    '@name': ms-books
+  - '@count': '1'
+    '@name': first-floor
+  - '@count': '1'
+    '@name': some-day
+  - '@count': '1'
+    '@name': web-scalable
+  - '@count': '1'
+    '@name': own-it
+  - '@count': '1'
+    '@name': recommended
+  - '@count': '1'
+    '@name': '2006'
+  - '@count': '1'
+    '@name': computer-design
+  - '@count': '1'
+    '@name': bookstore
+  - '@count': '1'
+    '@name': want-to-read-have
+  - '@count': '1'
+    '@name': web-dev
+  - '@count': '1'
+    '@name': code
+  - '@count': '1'
+    '@name': not-read
+  - '@count': '1'
+    '@name': at-work
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '299'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417540
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/112863.Building_Scalable_Web_Sites\"\
+  >Building Scalable Web Sites Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0596102356&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/112863.Building_Scalable_Web_Sites?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328834638l/112863._SX50_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '20'
+  '@type': integer
+title: Building Scalable Web Sites
+title_without_series: Building Scalable Web Sites
+uri: kca://book/amzn1.gr.book.v1.yB6-ww0GJ6RE5tXmWy0JnA
+url: https://www.goodreads.com/book/show/112863.Building_Scalable_Web_Sites
+work:
+  id: '108671'
+  uri: kca://work/amzn1.gr.work.v1.z89Hn0R0fQh0wFnW6jwPNA

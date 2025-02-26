@@ -1,0 +1,779 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.08'
+    id: '27704'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1361579656p5/27704.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/27704.Steven_Brust
+    name: Steven Brust
+    ratings_count: '151011'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1361579656p2/27704.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '6674'
+average_rating: '4.29'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: null
+edition_information: 1st, First Edition
+format: null
+id: '133459'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: 0812589173
+isbn13: '9780812589177'
+json: '{"id": "133459", "isbn": "0812589173", "isbn13": "9780812589177", "text_reviews_count":
+  {"@type": "integer", "#text": "12"}, "uri": "kca://book/amzn1.gr.book.v1.0jYWmR9D7AQ31LK1LpgFEQ",
+  "title": "Issola (Vlad Taltos, #9)", "title_without_series": "Issola", "image_url":
+  "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/133459.Issola",
+  "num_pages": null, "format": null, "edition_information": "1st, First Edition",
+  "publisher": null, "publication_day": null, "publication_year": null, "publication_month":
+  null, "average_rating": "4.29", "ratings_count": "6528", "description": null, "authors":
+  {"author": {"id": "27704", "name": "Steven Brust", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1361579656p5/27704.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1361579656p2/27704.jpg"},
+  "link": "https://www.goodreads.com/author/show/27704.Steven_Brust", "average_rating":
+  "4.08", "ratings_count": "151011", "text_reviews_count": "6674"}}, "published":
+  null, "work": {"id": "1059", "uri": "kca://work/amzn1.gr.work.v1.4sE32GbhSU3mF_sb8ZAshg"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417642",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B004WPGG2K
+language_code: en-US
+large_image_url: null
+link: https://www.goodreads.com/book/show/133459.Issola
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '1317'
+    '@name': to-read
+  - '@count': '535'
+    '@name': fantasy
+  - '@count': '55'
+    '@name': owned
+  - '@count': '48'
+    '@name': fiction
+  - '@count': '45'
+    '@name': favorites
+  - '@count': '31'
+    '@name': default
+  - '@count': '21'
+    '@name': currently-reading
+  - '@count': '20'
+    '@name': steven-brust
+  - '@count': '19'
+    '@name': vlad-taltos
+  - '@count': '17'
+    '@name': sci-fi-fantasy
+  - '@count': '14'
+    '@name': high-fantasy
+  - '@count': '14'
+    '@name': sci-fi
+  - '@count': '13'
+    '@name': assassins
+  - '@count': '13'
+    '@name': series
+  - '@count': '11'
+    '@name': sff
+  - '@count': '11'
+    '@name': taltos
+  - '@count': '10'
+    '@name': epic-fantasy
+  - '@count': '10'
+    '@name': fantasy-sci-fi
+  - '@count': '9'
+    '@name': library
+  - '@count': '9'
+    '@name': books-i-own
+  - '@count': '8'
+    '@name': audiobook
+  - '@count': '8'
+    '@name': sf-fantasy
+  - '@count': '8'
+    '@name': dragaera
+  - '@count': '7'
+    '@name': audible
+  - '@count': '7'
+    '@name': science-fiction
+  - '@count': '7'
+    '@name': brust
+  - '@count': '7'
+    '@name': sword-and-sorcery
+  - '@count': '7'
+    '@name': adventure
+  - '@count': '7'
+    '@name': dragons
+  - '@count': '7'
+    '@name': science-fiction-fantasy
+  - '@count': '6'
+    '@name': urban-fantasy
+  - '@count': '6'
+    '@name': calibre
+  - '@count': '6'
+    '@name': magic
+  - '@count': '6'
+    '@name': kindle
+  - '@count': '6'
+    '@name': ebook
+  - '@count': '6'
+    '@name': assassin
+  - '@count': '6'
+    '@name': adult
+  - '@count': '5'
+    '@name': audio
+  - '@count': '5'
+    '@name': have
+  - '@count': '5'
+    '@name': vlad-taltos-series
+  - '@count': '5'
+    '@name': i-own
+  - '@count': '5'
+    '@name': scifi-fantasy
+  - '@count': '4'
+    '@name': audiobooks
+  - '@count': '4'
+    '@name': fantasy-series
+  - '@count': '4'
+    '@name': paperback
+  - '@count': '4'
+    '@name': my-books
+  - '@count': '4'
+    '@name': epic
+  - '@count': '4'
+    '@name': borrowed
+  - '@count': '4'
+    '@name': speculative-fiction
+  - '@count': '4'
+    '@name': re-read
+  - '@count': '4'
+    '@name': dragon
+  - '@count': '4'
+    '@name': vlad
+  - '@count': '4'
+    '@name': sword-sorcery
+  - '@count': '3'
+    '@name': unread
+  - '@count': '3'
+    '@name': my-library
+  - '@count': '3'
+    '@name': hardback
+  - '@count': '3'
+    '@name': owned-physical
+  - '@count': '3'
+    '@name': crime
+  - '@count': '3'
+    '@name': hardcopy
+  - '@count': '3'
+    '@name': novels
+  - '@count': '3'
+    '@name': scifi
+  - '@count': '3'
+    '@name': read-in-2013
+  - '@count': '3'
+    '@name': humour
+  - '@count': '3'
+    '@name': books
+  - '@count': '3'
+    '@name': swords-and-sorcery
+  - '@count': '3'
+    '@name': fantasy-scifi
+  - '@count': '3'
+    '@name': sf-f
+  - '@count': '3'
+    '@name': favorite-series
+  - '@count': '3'
+    '@name': own-it
+  - '@count': '3'
+    '@name': intrigue
+  - '@count': '3'
+    '@name': science-fiction-and-fantasy
+  - '@count': '3'
+    '@name': humor
+  - '@count': '2'
+    '@name': not-owned
+  - '@count': '2'
+    '@name': read-in-2021
+  - '@count': '2'
+    '@name': unknown
+  - '@count': '2'
+    '@name': gods
+  - '@count': '2'
+    '@name': physical-copy
+  - '@count': '2'
+    '@name': digital
+  - '@count': '2'
+    '@name': 66-nlo
+  - '@count': '2'
+    '@name': first-edition
+  - '@count': '2'
+    '@name': 5-star
+  - '@count': '2'
+    '@name': reread
+  - '@count': '2'
+    '@name': owned-and-unread
+  - '@count': '2'
+    '@name': my-ebooks
+  - '@count': '2'
+    '@name': need
+  - '@count': '2'
+    '@name': mine
+  - '@count': '2'
+    '@name': home-library
+  - '@count': '2'
+    '@name': ebooks
+  - '@count': '2'
+    '@name': to-buy
+  - '@count': '2'
+    '@name': to-reread
+  - '@count': '2'
+    '@name': recommended
+  - '@count': '2'
+    '@name': male-author
+  - '@count': '2'
+    '@name': urban
+  - '@count': '2'
+    '@name': fantasy-sword-and-sorcery
+  - '@count': '2'
+    '@name': faves
+  - '@count': '2'
+    '@name': fictitious
+  - '@count': '2'
+    '@name': character
+  - '@count': '2'
+    '@name': '1'
+  - '@count': '2'
+    '@name': to-read-fantasy
+  - '@count': '2'
+    '@name': e-books
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '6528'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417642
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/133459.Issola\"\
+  >Issola Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0812589173&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/133459.Issola?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+  - id: '144409'
+    series:
+      description: "Steven Brust's fantasy series follows Vlad Taltos: a short-statured,\
+        \ short-lived human in an Empire of tall, long-lived Dragaerans.\n    \n \
+        \   http://us.macmillan.com/series/vlad\n    \n    This is one series set\
+        \ in Steven Brust's <a href=http://www.goodreads.com/series/49760-draegara>Dragaeran\
+        \ world.</a>\n    \n    Of the ordering, the author notes:<blockquote>One\
+        \ of the questions I'm most often asked is: \"In what order would you recommend\
+        \ reading these books?\" Unfortunately, I'm just exactly the wrong guy to\
+        \ ask. I made every effort to write them so that they could be read in any\
+        \ order. I am aware that, in some measure at least, I have failed (I certainly\
+        \ wouldn't recommend starting with <i>Teckla</i>, for example), but the fact\
+        \ that I was trying makes me incapable of giving an answer.\n    \n    Many\
+        \ people whose opinion I respect believe publication order is best . . . The\
+        \ choice, I daresay, is yours. In any case, I hope you enjoy them.\n    \n\
+        \    --Steven Brust, 1999, in the notes for <i>The Book of Jhereg</i></blockquote>The\
+        \ books are numbered in publication order;  here is a rough guide to chronological\
+        \ order:\n    \n        Taltos (1988)\n        Dragon (1998)\n        Yendi\
+        \ (1984)\n        Tiassa, section 1 (2011)\n        Jhereg (1983)\n      \
+        \  Teckla (1987)\n        Phoenix (1990)\n        Jhegaala (2008)\n      \
+        \  Athyra (1993)\n        Orca (1996)\n        Issola (2001)\n        Dzur\
+        \ (2006)\n        Tiassa, section 2 (2011)\n        Iorich (2010)\n      \
+        \  Tiassa, section 3 (2011)\n    \n    http://en.wikipedia.org/wiki/Steven_Brust\n\
+        \    \n    http://us.macmillan.com/series/Vlad"
+      id: '40334'
+      note: null
+      numbered: 'true'
+      primary_work_count: '17'
+      series_works_count: '29'
+      title: Vlad Taltos
+    user_position: '9'
+  - id: '184601'
+    series:
+      description: These are the books set in Steven Brust's Dragaera world. These
+        include the books in the <a href=http://www.goodreads.com/series/40334-vlad-taltos>Vlad
+        Taltos</a> series, as well as those in the <a href=http://www.goodreads.com/series/41289-the-khaavren-romances>Khaavren
+        Romances</a>. The stand-alone novel <I>Brokedown Palace</i> is included here,
+        as it is also set in that world.
+      id: '49760'
+      note: null
+      numbered: 'false'
+      primary_work_count: '24'
+      series_works_count: '32'
+      title: Dragaera
+    user_position: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '8730'
+        link: https://www.goodreads.com/author/show/8730.Naomi_Novik
+        name: Naomi Novik
+    average_rating: '4.29'
+    id: '203956677'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1709732231l/203956677._SX98_.jpg
+    isbn: 0593600355
+    isbn13: '9780593600351'
+    link: https://www.goodreads.com/book/show/203956677-buried-deep-and-other-stories
+    num_pages: '430'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6528'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1709732231l/203956677._SY75_.jpg
+    title: Buried Deep and Other Stories
+    title_without_series: Buried Deep and Other Stories
+    uri: kca://book/amzn1.gr.book.v3.eAaIpxyO_Xy8RC_8
+    work:
+      id: '209821349'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '4.29'
+    id: '61906'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0743468406
+    isbn13: '9780743468404'
+    link: https://www.goodreads.com/book/show/61906.The_Warrior_s_Apprentice
+    num_pages: '372'
+    publication_day: null
+    publication_month: null
+    publication_year: '2003'
+    ratings_count: '6528'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Warrior''s Apprentice (Vorkosigan Saga, #2)'
+    title_without_series: The Warrior's Apprentice
+    uri: kca://book/amzn1.gr.book.v1.gn2GgIHPUJcoVl9UA6azkw
+    work:
+      id: '2792'
+  - authors:
+      author:
+        id: '800052'
+        link: https://www.goodreads.com/author/show/800052.Andrea_Stewart
+        name: Andrea Stewart
+    average_rating: '4.29'
+    id: '208855018'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0316564893
+    isbn13: '9780316564892'
+    link: https://www.goodreads.com/book/show/208855018-the-gods-below
+    num_pages: '520'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6528'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Gods Below (The Hollow Covenant, #1)'
+    title_without_series: The Gods Below
+    uri: kca://book/amzn1.gr.book.v3.LR4oB9E3CxgajemE
+    work:
+      id: '98788848'
+  - authors:
+      author:
+        id: '6469903'
+        link: https://www.goodreads.com/author/show/6469903.Marina_J_Lostetter
+        name: Marina J. Lostetter
+    average_rating: '4.29'
+    id: '53205864'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602518638l/53205864._SX98_.jpg
+    isbn: '1250757053'
+    isbn13: '9781250757050'
+    link: https://www.goodreads.com/book/show/53205864-the-helm-of-midnight
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6528'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602518638l/53205864._SY75_.jpg
+    title: 'The Helm of Midnight (The Five Penalties, #1)'
+    title_without_series: The Helm of Midnight
+    uri: kca://book/amzn1.gr.book.v3._ED8OYNp-6QwwzTk
+    work:
+      id: '80438433'
+  - authors:
+      author:
+        id: '8218462'
+        link: https://www.goodreads.com/author/show/8218462.Victoria_Goddard
+        name: Victoria   Goddard
+    average_rating: '4.29'
+    id: '134754338'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681772275l/134754338._SX98_.jpg
+    isbn: '1988908906'
+    isbn13: '9781988908908'
+    link: https://www.goodreads.com/book/show/134754338-derring-do-for-beginners
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6528'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681772275l/134754338._SX50_.jpg
+    title: 'Derring-Do for Beginners (The Red Company, #1)'
+    title_without_series: Derring-Do for Beginners
+    uri: kca://book/amzn1.gr.book.v3.npKk4KhOZiER8kFV
+    work:
+      id: '151624782'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '4.29'
+    id: '76812'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/76812.Cetaganda
+    num_pages: '302'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6528'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Cetaganda (Vorkosigan Saga, #9)'
+    title_without_series: Cetaganda
+    uri: kca://book/amzn1.gr.book.v1.qFqCsHlhhFn2nE0BMKAW7g
+    work:
+      id: '2802'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '4.29'
+    id: '215793538'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/215793538-penric-and-the-bandit
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6528'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Penric and the Bandit (Penric and Desdemona, #13)'
+    title_without_series: Penric and the Bandit
+    uri: kca://book/amzn1.gr.book.v3.ZgSQDX1uOvjrJ0D7
+    work:
+      id: '220688482'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.29'
+    id: '201930181'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SX98_.jpg
+    isbn: 031652557X
+    isbn13: '9780316525572'
+    link: https://www.goodreads.com/book/show/201930181-the-mercy-of-gods
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6528'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SY75_.jpg
+    title: "The Mercy of Gods (The Captive\u2019s War, #1)"
+    title_without_series: The Mercy of Gods
+    uri: kca://book/amzn1.gr.book.v3.nndIiP3mF2vHLfgz
+    work:
+      id: '95320019'
+  - authors:
+      author:
+        id: '7058667'
+        link: https://www.goodreads.com/author/show/7058667.Nghi_Vo
+        name: Nghi Vo
+    average_rating: '4.29'
+    id: '58008003'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701021886l/58008003._SX98_.jpg
+    isbn: '1250838037'
+    isbn13: '9781250838032'
+    link: https://www.goodreads.com/book/show/58008003-the-brides-of-high-hill
+    num_pages: '116'
+    publication_day: '7'
+    publication_month: '5'
+    publication_year: '2024'
+    ratings_count: '6528'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701021886l/58008003._SY75_.jpg
+    title: 'The Brides of High Hill (The Singing Hills Cycle, #5)'
+    title_without_series: The Brides of High Hill
+    uri: kca://book/amzn1.gr.book.v3._JGEvGpNbV356dDb
+    work:
+      id: '90899519'
+  - authors:
+      author:
+        id: '999015'
+        link: https://www.goodreads.com/author/show/999015.Matt_Dinniman
+        name: Matt Dinniman
+    average_rating: '4.29'
+    id: '125887685'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/125887685-the-eye-of-the-bedlam-bride
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6528'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Eye of the Bedlam Bride (Dungeon Crawler Carl, #6)'
+    title_without_series: The Eye of the Bedlam Bride
+    uri: kca://book/amzn1.gr.book.v3.rKminKyz7KLtH9eE
+    work:
+      id: '147338115'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '4.29'
+    id: '296182'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681493541l/296182._SY160_.jpg
+    isbn: 0671697994
+    isbn13: '9780671697990'
+    link: https://www.goodreads.com/book/show/296182.Brothers_in_Arms
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6528'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681493541l/296182._SY75_.jpg
+    title: 'Brothers in Arms (Vorkosigan Saga, #5)'
+    title_without_series: Brothers in Arms
+    uri: kca://book/amzn1.gr.book.v1.g4RprVhle8ES3Bg38zlDzw
+    work:
+      id: '1808918'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '4.29'
+    id: '76811'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327916933l/76811._SX98_.jpg
+    isbn: 0671578294
+    isbn13: '9780671578299'
+    link: https://www.goodreads.com/book/show/76811.Borders_of_Infinity
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6528'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327916933l/76811._SY75_.jpg
+    title: 'Borders of Infinity (Vorkosigan Saga [Publication] #5.1-5.3)'
+    title_without_series: Borders of Infinity
+    uri: kca://book/amzn1.gr.book.v1.TlReLubOwMypEoV6DlOxAw
+    work:
+      id: '1129260'
+  - authors:
+      author:
+        id: '849723'
+        link: https://www.goodreads.com/author/show/849723.Benedict_Jacka
+        name: Benedict Jacka
+    average_rating: '4.29'
+    id: '78292528'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685351902l/78292528._SX98_.jpg
+    isbn: 0593549848
+    isbn13: '9780593549841'
+    link: https://www.goodreads.com/book/show/78292528-an-inheritance-of-magic
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6528'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685351902l/78292528._SY75_.jpg
+    title: 'An Inheritance of Magic (Inheritance of Magic #1)'
+    title_without_series: An Inheritance of Magic
+    uri: kca://book/amzn1.gr.book.v3.sKzs_09H2EoZ3pH6
+    work:
+      id: '99995682'
+  - authors:
+      author:
+        id: '16391'
+        link: https://www.goodreads.com/author/show/16391.J_V_Jones
+        name: J.V. Jones
+    average_rating: '4.29'
+    id: '24249'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 076534551X
+    isbn13: '9780765345516'
+    link: https://www.goodreads.com/book/show/24249.A_Cavern_of_Black_Ice
+    num_pages: '769'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6528'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'A Cavern of Black Ice (Sword of Shadows, #1)'
+    title_without_series: A Cavern of Black Ice
+    uri: kca://book/amzn1.gr.book.v1.tPXUE1SY7VGmkKQxc0nwzA
+    work:
+      id: '4649348'
+  - authors:
+      author:
+        id: '8218462'
+        link: https://www.goodreads.com/author/show/8218462.Victoria_Goddard
+        name: Victoria   Goddard
+    average_rating: '4.29'
+    id: '209989067'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/209989067-traveller-s-joy
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6528'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Traveller's Joy (Greenwing & Dart)
+    title_without_series: Traveller's Joy
+    uri: kca://book/amzn1.gr.book.v3.Yc9VP4cmBvo_zPeN
+    work:
+      id: '215907630'
+  - authors:
+      author:
+        id: '2860219'
+        link: https://www.goodreads.com/author/show/2860219.Seanan_McGuire
+        name: Seanan McGuire
+    average_rating: '4.29'
+    id: '195790585'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698093492l/195790585._SX98_.jpg
+    isbn: '1250333555'
+    isbn13: '9781250333551'
+    link: https://www.goodreads.com/book/show/195790585-tidal-creatures
+    num_pages: '464'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6528'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698093492l/195790585._SY75_.jpg
+    title: 'Tidal Creatures (Alchemical Journeys, #3)'
+    title_without_series: Tidal Creatures
+    uri: kca://book/amzn1.gr.book.v3.X2esqrDzC1IeVcwz
+    work:
+      id: '197724434'
+  - authors:
+      author:
+        id: '16391'
+        link: https://www.goodreads.com/author/show/16391.J_V_Jones
+        name: J.V. Jones
+    average_rating: '4.29'
+    id: '29133'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0765345498
+    isbn13: '9780765345493'
+    link: https://www.goodreads.com/book/show/29133.A_Fortress_of_Grey_Ice
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6528'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'A Fortress of Grey Ice (Sword of Shadows, #2)'
+    title_without_series: A Fortress of Grey Ice
+    uri: kca://book/amzn1.gr.book.v1.9UDTe_lFvvzcrDaLQHE8Dw
+    work:
+      id: '29602'
+  - authors:
+      author:
+        id: '1276004'
+        link: https://www.goodreads.com/author/show/1276004.C_S_Friedman
+        name: C.S. Friedman
+    average_rating: '4.29'
+    id: '36164'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311103901l/36164._SY160_.jpg
+    isbn: 0886777178
+    isbn13: '9780886777173'
+    link: https://www.goodreads.com/book/show/36164.Crown_of_Shadows
+    num_pages: '525'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6528'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311103901l/36164._SY75_.jpg
+    title: 'Crown of Shadows (The Coldfire Trilogy, #3)'
+    title_without_series: Crown of Shadows
+    uri: kca://book/amzn1.gr.book.v1.eNcOh377uilxRIfiPHP2NA
+    work:
+      id: '940528'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '12'
+  '@type': integer
+title: 'Issola (Vlad Taltos, #9)'
+title_without_series: Issola
+uri: kca://book/amzn1.gr.book.v1.0jYWmR9D7AQ31LK1LpgFEQ
+url: https://www.goodreads.com/book/show/133459.Issola
+work:
+  id: '1059'
+  uri: kca://work/amzn1.gr.work.v1.4sE32GbhSU3mF_sb8ZAshg

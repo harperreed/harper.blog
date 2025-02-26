@@ -1,0 +1,743 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.14'
+    id: '22302'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1696236573p5/22302.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/22302.Frank_Zappa
+    name: Frank Zappa
+    ratings_count: '6885'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1696236573p2/22302.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '367'
+average_rating: '4.13'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2019-12-12T00:00:00-08:00'
+description: The legendary Frank Zappa, one of the most influential, innovative and
+  controversial musical artists for the past 20 years, takes us on a wild, funny trip
+  through his life and times. Along the way, Zappa offers his inimitable views on
+  many things such as art, politics and beer.
+edition_information: 1st, First Edition
+format: null
+id: '1160790'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363885378l/1160790._SX98_.jpg
+is_ebook: 'false'
+isbn: 067163870X
+isbn13: '9780671638702'
+json: '{"id": "1160790", "isbn": "067163870X", "isbn13": "9780671638702", "text_reviews_count":
+  {"@type": "integer", "#text": "9"}, "uri": "kca://book/amzn1.gr.book.v1.guB5iV3guGvBf0SJWn4o0A",
+  "title": "The Real Frank Zappa", "title_without_series": "The Real Frank Zappa",
+  "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363885378l/1160790._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363885378l/1160790._SX50_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/1160790.The_Real_Frank_Zappa",
+  "num_pages": "352", "format": null, "edition_information": "1st, First Edition",
+  "publisher": null, "publication_day": null, "publication_year": null, "publication_month":
+  null, "average_rating": "4.13", "ratings_count": "6522", "description": "The legendary
+  Frank Zappa, one of the most influential, innovative and controversial musical artists
+  for the past 20 years, takes us on a wild, funny trip through his life and times.
+  Along the way, Zappa offers his inimitable views on many things such as art, politics
+  and beer.", "authors": {"author": {"id": "22302", "name": "Frank Zappa", "role":
+  null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1696236573p5/22302.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1696236573p2/22302.jpg"},
+  "link": "https://www.goodreads.com/author/show/22302.Frank_Zappa", "average_rating":
+  "4.14", "ratings_count": "6885", "text_reviews_count": "367"}}, "published": null,
+  "work": {"id": "1148404", "uri": "kca://work/amzn1.gr.work.v1.q7p_b_OIJYarl7GM9qwx-w"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/3083097493",
+  "read_at": "Thu Dec 12 00:00:00 -0800 2019", "started_at": "Wed Dec 04 00:00:00
+  -0800 2019", "date": "Thu Dec 12 00:00:00 -0800 2019"}'
+kindle_asin: B0C1RYPPZZ
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/1160790.The_Real_Frank_Zappa
+marketplace_id: ATVPDKIKX0DER
+num_pages: '352'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '7013'
+    '@name': to-read
+  - '@count': '326'
+    '@name': music
+  - '@count': '161'
+    '@name': biography
+  - '@count': '129'
+    '@name': currently-reading
+  - '@count': '119'
+    '@name': non-fiction
+  - '@count': '56'
+    '@name': favorites
+  - '@count': '49'
+    '@name': nonfiction
+  - '@count': '37'
+    '@name': memoir
+  - '@count': '36'
+    '@name': autobiography
+  - '@count': '34'
+    '@name': owned
+  - '@count': '25'
+    '@name': biographies
+  - '@count': '16'
+    '@name': biography-memoir
+  - '@count': '15'
+    '@name': humor
+  - '@count': '11'
+    '@name': bio
+  - '@count': '10'
+    '@name': books-i-own
+  - '@count': '10'
+    '@name': auto-biography
+  - '@count': '9'
+    '@name': music-books
+  - '@count': '8'
+    '@name': english
+  - '@count': '8'
+    '@name': music-related
+  - '@count': '7'
+    '@name': musica
+  - '@count': '7'
+    '@name': "m\xFAsica"
+  - '@count': '7'
+    '@name': zappa
+  - '@count': '7'
+    '@name': default
+  - '@count': '7'
+    '@name': biography-autobiography
+  - '@count': '7'
+    '@name': music-biography
+  - '@count': '6'
+    '@name': rock
+  - '@count': '6'
+    '@name': memoirs
+  - '@count': '5'
+    '@name': muziek
+  - '@count': '5'
+    '@name': bios
+  - '@count': '5'
+    '@name': american
+  - '@count': '5'
+    '@name': biographical
+  - '@count': '5'
+    '@name': owned-books
+  - '@count': '5'
+    '@name': humour
+  - '@count': '5'
+    '@name': autobiographies
+  - '@count': '5'
+    '@name': history
+  - '@count': '5'
+    '@name': books
+  - '@count': '4'
+    '@name': bookshelf
+  - '@count': '4'
+    '@name': biography-and-memoir
+  - '@count': '4'
+    '@name': my-books
+  - '@count': '4'
+    '@name': memoir-autobiography
+  - '@count': '4'
+    '@name': politics
+  - '@count': '4'
+    '@name': 20th-century
+  - '@count': '4'
+    '@name': rock-n-roll
+  - '@count': '4'
+    '@name': biographies-memoirs
+  - '@count': '4'
+    '@name': funny
+  - '@count': '3'
+    '@name': biblioteca
+  - '@count': '3'
+    '@name': usa
+  - '@count': '3'
+    '@name': musik
+  - '@count': '3'
+    '@name': biografia
+  - '@count': '3'
+    '@name': memoirs-biographies
+  - '@count': '3'
+    '@name': physical
+  - '@count': '3'
+    '@name': music-musicians
+  - '@count': '3'
+    '@name': to-read-non-fiction
+  - '@count': '3'
+    '@name': musicians
+  - '@count': '3'
+    '@name': library
+  - '@count': '3'
+    '@name': counterculture
+  - '@count': '3'
+    '@name': arts
+  - '@count': '3'
+    '@name': comedy
+  - '@count': '3'
+    '@name': culture
+  - '@count': '3'
+    '@name': to-buy
+  - '@count': '3'
+    '@name': biography-music
+  - '@count': '3'
+    '@name': social-commentary
+  - '@count': '3'
+    '@name': people
+  - '@count': '3'
+    '@name': biografie
+  - '@count': '3'
+    '@name': music-and-musicians
+  - '@count': '3'
+    '@name': rock-music
+  - '@count': '3'
+    '@name': memoir-biography
+  - '@count': '3'
+    '@name': entertainment
+  - '@count': '2'
+    '@name': audible
+  - '@count': '2'
+    '@name': 4-5-stars
+  - '@count': '2'
+    '@name': essays
+  - '@count': '2'
+    '@name': "biograf\xEDa"
+  - '@count': '2'
+    '@name': abandoned
+  - '@count': '2'
+    '@name': 1980s
+  - '@count': '2'
+    '@name': i-own
+  - '@count': '2'
+    '@name': own-it
+  - '@count': '2'
+    '@name': music-non-fiction
+  - '@count': '2'
+    '@name': my-bookshelf
+  - '@count': '2'
+    '@name': bios-memoirs
+  - '@count': '2'
+    '@name': autobiography-biography-memoir
+  - '@count': '2'
+    '@name': art-artists
+  - '@count': '2'
+    '@name': to-read-nonfiction
+  - '@count': '2'
+    '@name': not-interested
+  - '@count': '2'
+    '@name': music-art
+  - '@count': '2'
+    '@name': on-my-bookshelf
+  - '@count': '2'
+    '@name': kindle
+  - '@count': '2'
+    '@name': libros
+  - '@count': '2'
+    '@name': rock-bios
+  - '@count': '2'
+    '@name': read-in-2015
+  - '@count': '2'
+    '@name': autobiography-biography
+  - '@count': '2'
+    '@name': art
+  - '@count': '2'
+    '@name': to-read-music
+  - '@count': '2'
+    '@name': non-fiction-bio
+  - '@count': '2'
+    '@name': home-library
+  - '@count': '2'
+    '@name': business
+  - '@count': '2'
+    '@name': auto-biographies
+  - '@count': '2'
+    '@name': music-reads
+  - '@count': '2'
+    '@name': musique
+  - '@count': '2'
+    '@name': misc
+  - '@count': '2'
+    '@name': finished
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '6522'
+read_at: '2019-12-12T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/3083097493
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/1160790.The_Real_Frank_Zappa\"\
+  >The Real Frank Zappa Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=067163870X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/1160790.The_Real_Frank_Zappa?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '54761'
+        link: https://www.goodreads.com/author/show/54761.Miles_Davis
+        name: Miles Davis
+    average_rating: '4.13'
+    id: '829313'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0671725823
+    isbn13: '9780671725822'
+    link: https://www.goodreads.com/book/show/829313.Miles
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6522'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Miles: The Autobiography'
+    title_without_series: 'Miles: The Autobiography'
+    uri: kca://book/amzn1.gr.book.v1.ZBPtOLJwqCTXyuYKS8K4Dw
+    work:
+      id: '120812'
+  - authors:
+      author:
+        id: '24507'
+        link: https://www.goodreads.com/author/show/24507.Charles_R_Cross
+        name: Charles R. Cross
+    average_rating: '4.13'
+    id: '101636'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0786888415
+    isbn13: '9780786888412'
+    link: https://www.goodreads.com/book/show/101636.Room_Full_of_Mirrors
+    num_pages: '384'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6522'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Room Full of Mirrors: A Biography of Jimi Hendrix'
+    title_without_series: 'Room Full of Mirrors: A Biography of Jimi Hendrix'
+    uri: kca://book/amzn1.gr.book.v1.W9eTC0b_9QK5IsX7kbMRbA
+    work:
+      id: '811081'
+  - authors:
+      author:
+        id: '25847'
+        link: https://www.goodreads.com/author/show/25847.Lester_Bangs
+        name: Lester Bangs
+    average_rating: '4.13'
+    id: '239404'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328126537l/239404._SX98_.jpg
+    isbn: 0679720456
+    isbn13: '9780679720454'
+    link: https://www.goodreads.com/book/show/239404.Psychotic_Reactions_and_Carburetor_Dung
+    num_pages: '391'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6522'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328126537l/239404._SY75_.jpg
+    title: Psychotic Reactions and Carburetor Dung
+    title_without_series: Psychotic Reactions and Carburetor Dung
+    uri: kca://book/amzn1.gr.book.v1.8txiQdaiY5lyFx9hUe5vvw
+    work:
+      id: '62767'
+  - authors:
+      author:
+        id: '18483400'
+        link: https://www.goodreads.com/author/show/18483400.Michael_Diamond
+        name: Michael    Diamond
+    average_rating: '4.13'
+    id: '38799788'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542735391l/38799788._SX98_.jpg
+    isbn: 0812995546
+    isbn13: '9780812995541'
+    link: https://www.goodreads.com/book/show/38799788-beastie-boys-book
+    num_pages: '572'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6522'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542735391l/38799788._SX50_.jpg
+    title: Beastie Boys Book
+    title_without_series: Beastie Boys Book
+    uri: kca://book/amzn1.gr.book.v1.w4-bxdKz6wCVHyeen1FBEA
+    work:
+      id: '60373757'
+  - authors:
+      author:
+        id: '168864'
+        link: https://www.goodreads.com/author/show/168864.Neil_Young
+        name: Neil Young
+    average_rating: '4.13'
+    id: '13586786'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339252753l/13586786._SX98_.jpg
+    isbn: 0399159460
+    isbn13: '9780399159466'
+    link: https://www.goodreads.com/book/show/13586786-waging-heavy-peace
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6522'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339252753l/13586786._SY75_.jpg
+    title: 'Waging Heavy Peace: A Hippie Dream'
+    title_without_series: 'Waging Heavy Peace: A Hippie Dream'
+    uri: kca://book/amzn1.gr.book.v1.Uq7wXwjJfF3cQiJFJcZgjA
+    work:
+      id: '19174134'
+  - authors:
+      author:
+        id: '7637671'
+        link: https://www.goodreads.com/author/show/7637671.Ahmir_Questlove_Thompson
+        name: Ahmir "Questlove" Thompson
+    average_rating: '4.13'
+    id: '16131189'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368424961l/16131189._SX98_.jpg
+    isbn: '1455501352'
+    isbn13: '9781455501359'
+    link: https://www.goodreads.com/book/show/16131189-mo-meta-blues
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6522'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368424961l/16131189._SY75_.jpg
+    title: 'Mo'' Meta Blues: The World According to Questlove'
+    title_without_series: 'Mo'' Meta Blues: The World According to Questlove'
+    uri: kca://book/amzn1.gr.book.v1.PiCuOl6dsHBJk3B8s0qdQw
+    work:
+      id: '21957002'
+  - authors:
+      author:
+        id: '64277'
+        link: https://www.goodreads.com/author/show/64277.Jerry_Hopkins
+        name: Jerry Hopkins
+    average_rating: '4.13'
+    id: '691520'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344270704l/691520._SX98_.jpg
+    isbn: 0446697338
+    isbn13: '9780446697330'
+    link: https://www.goodreads.com/book/show/691520.No_One_Here_Gets_Out_Alive
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6522'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344270704l/691520._SY75_.jpg
+    title: No One Here Gets Out Alive
+    title_without_series: No One Here Gets Out Alive
+    uri: kca://book/amzn1.gr.book.v1.acE2Vf-YsIyp0t40UzmgZw
+    work:
+      id: '1422202'
+  - authors:
+      author:
+        id: '27078'
+        link: https://www.goodreads.com/author/show/27078.David_Byrne
+        name: David Byrne
+    average_rating: '4.13'
+    id: '13235689'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340792878l/13235689._SX98_.jpg
+    isbn: '1936365537'
+    isbn13: '9781936365531'
+    link: https://www.goodreads.com/book/show/13235689-how-music-works
+    num_pages: '345'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6522'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340792878l/13235689._SX50_.jpg
+    title: How Music Works
+    title_without_series: How Music Works
+    uri: kca://book/amzn1.gr.book.v1.UHZOCtt2PpzCQ_r5iTnYKQ
+    work:
+      id: '18433052'
+  - authors:
+      author:
+        id: '5237'
+        link: https://www.goodreads.com/author/show/5237.Hunter_S_Thompson
+        name: Hunter S. Thompson
+    average_rating: '4.13'
+    id: '7748'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0446698229
+    isbn13: '9780446698221'
+    link: https://www.goodreads.com/book/show/7748.Fear_and_Loathing_on_the_Campaign_Trail_72
+    num_pages: '481'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6522'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Fear and Loathing on the Campaign Trail '72
+    title_without_series: Fear and Loathing on the Campaign Trail '72
+    uri: kca://book/amzn1.gr.book.v1.bD1T1LP1NeKCuNGNWRHX6g
+    work:
+      id: '273425'
+  - authors:
+      author:
+        id: '51308107'
+        link: https://www.goodreads.com/author/show/51308107.Edward_Williams
+        name: Edward        Williams
+    average_rating: '4.13'
+    id: '221646006'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731970488l/221646006._SX98_.jpg
+    isbn: null
+    isbn13: '9798223888307'
+    link: https://www.goodreads.com/book/show/221646006-framed-hunted
+    num_pages: '427'
+    publication_day: '15'
+    publication_month: '8'
+    publication_year: '2023'
+    ratings_count: '6522'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731970488l/221646006._SY75_.jpg
+    title: 'Framed & Hunted: A True Story of Occult Persecution'
+    title_without_series: 'Framed & Hunted: A True Story of Occult Persecution'
+    uri: kca://book/amzn1.gr.book.v3.4FWa6RTl7xOYZ0Pa
+    work:
+      id: '199583951'
+  - authors:
+      author:
+        id: '22307'
+        link: https://www.goodreads.com/author/show/22307.Moon_Unit_Zappa
+        name: Moon Unit Zappa
+    average_rating: '4.13'
+    id: '61980307'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719341171l/61980307._SX98_.jpg
+    isbn: '0063113341'
+    isbn13: '9780063113343'
+    link: https://www.goodreads.com/book/show/61980307-earth-to-moon
+    num_pages: '351'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6522'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719341171l/61980307._SY75_.jpg
+    title: 'Earth to Moon: A Memoir'
+    title_without_series: 'Earth to Moon: A Memoir'
+    uri: kca://book/amzn1.gr.book.v3.cvXwxNe9PHoS0kLX
+    work:
+      id: '97582509'
+  - authors:
+      author:
+        id: '14280'
+        link: https://www.goodreads.com/author/show/14280.Marilyn_Manson
+        name: Marilyn Manson
+    average_rating: '4.13'
+    id: '37847'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0060987464
+    isbn13: '9780060987466'
+    link: https://www.goodreads.com/book/show/37847.The_Long_Hard_Road_Out_of_Hell
+    num_pages: '275'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6522'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Long Hard Road Out of Hell
+    title_without_series: The Long Hard Road Out of Hell
+    uri: kca://book/amzn1.gr.book.v1.Ww-KJ9J4hw4zcPLQQcUqJA
+    work:
+      id: '37641'
+  - authors:
+      author:
+        id: '4843128'
+        link: https://www.goodreads.com/author/show/4843128.Will_Hermes
+        name: Will Hermes
+    average_rating: '4.13'
+    id: '65215410'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678752552l/65215410._SX98_.jpg
+    isbn: 0374193398
+    isbn13: '9780374193393'
+    link: https://www.goodreads.com/book/show/65215410-lou-reed
+    num_pages: '529'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6522'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678752552l/65215410._SX50_.jpg
+    title: 'Lou Reed: The King of New York'
+    title_without_series: 'Lou Reed: The King of New York'
+    uri: kca://book/amzn1.gr.book.v3.eTGWTC7iZVwDdV54
+    work:
+      id: '100097255'
+  - authors:
+      author:
+        id: '8619972'
+        link: https://www.goodreads.com/author/show/8619972.Daniel_Warren_Johnson
+        name: Daniel Warren Johnson
+    average_rating: '4.13'
+    id: '202201956'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708918153l/202201956._SX98_.jpg
+    isbn: '1534398171'
+    isbn13: '9781534398177'
+    link: https://www.goodreads.com/book/show/202201956-transformers-vol-1
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6522'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708918153l/202201956._SY75_.jpg
+    title: 'Transformers, Vol. 1: Robots in Disguise'
+    title_without_series: 'Transformers, Vol. 1: Robots in Disguise'
+    uri: kca://book/amzn1.gr.book.v3.e4VNJyICsX7zxm6T
+    work:
+      id: '207519591'
+  - authors:
+      author:
+        id: '17432673'
+        link: https://www.goodreads.com/author/show/17432673.Steve_Lukather
+        name: Steve Lukather
+    average_rating: '4.13'
+    id: '36977595'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1472126432'
+    isbn13: '9781472126436'
+    link: https://www.goodreads.com/book/show/36977595-the-gospel-according-to-luke
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6522'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Gospel According to Luke
+    title_without_series: The Gospel According to Luke
+    uri: kca://book/amzn1.gr.book.v1.tejevJ9ETemo0MLMk43Wpw
+    work:
+      id: '58774014'
+  - authors:
+      author:
+        id: '25742'
+        link: https://www.goodreads.com/author/show/25742.Laurent_Bouzereau
+        name: Laurent Bouzereau
+    average_rating: '4.13'
+    id: '204593688'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0762485574
+    isbn13: '9780762485574'
+    link: https://www.goodreads.com/book/show/204593688-the-de-palma-decade
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6522'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The De Palma Decade: Redefining Cinema with Doubles, Voyeurs, and Psychic
+      Teens'
+    title_without_series: 'The De Palma Decade: Redefining Cinema with Doubles, Voyeurs,
+      and Psychic Teens'
+    uri: kca://book/amzn1.gr.book.v3.1BoRNJdEJQ74J-JV
+    work:
+      id: '210502587'
+  - authors:
+      author:
+        id: '2991326'
+        link: https://www.goodreads.com/author/show/2991326.Steven_Lomazow
+        name: Steven Lomazow
+    average_rating: '4.13'
+    id: '209251042'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '9062993044'
+    isbn13: '9789062993048'
+    link: https://www.goodreads.com/book/show/209251042-fdr-unmasked
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6522'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'FDR Unmasked: 73 Years of Medical Cover-ups That Rewrote History'
+    title_without_series: 'FDR Unmasked: 73 Years of Medical Cover-ups That Rewrote
+      History'
+    uri: kca://book/amzn1.gr.book.v3.MP_A1ilSrZ2d0DRW
+    work:
+      id: '182477232'
+  - authors:
+      author:
+        id: '136961'
+        link: https://www.goodreads.com/author/show/136961.Phil_Collins
+        name: Phil Collins
+    average_rating: '4.13'
+    id: '28686968'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465941263l/28686968._SX98_.jpg
+    isbn: '1101907479'
+    isbn13: '9781101907474'
+    link: https://www.goodreads.com/book/show/28686968-not-dead-yet
+    num_pages: '371'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6522'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465941263l/28686968._SY75_.jpg
+    title: 'Not Dead Yet: The Memoir'
+    title_without_series: 'Not Dead Yet: The Memoir'
+    uri: kca://book/amzn1.gr.book.v1.qGHyBN2_R5uWooBowOYfww
+    work:
+      id: '48881969'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363885378l/1160790._SX50_.jpg
+started_at: '2019-12-04T00:00:00-08:00'
+text_reviews_count:
+  '#text': '9'
+  '@type': integer
+title: The Real Frank Zappa
+title_without_series: The Real Frank Zappa
+uri: kca://book/amzn1.gr.book.v1.guB5iV3guGvBf0SJWn4o0A
+url: https://www.goodreads.com/book/show/1160790.The_Real_Frank_Zappa
+work:
+  id: '1148404'
+  uri: kca://work/amzn1.gr.work.v1.q7p_b_OIJYarl7GM9qwx-w

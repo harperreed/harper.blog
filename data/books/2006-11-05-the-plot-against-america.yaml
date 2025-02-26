@@ -1,0 +1,764 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.83'
+    id: '463'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1399886959p5/463.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/463.Philip_Roth
+    name: Philip Roth
+    ratings_count: '519968'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1399886959p2/463.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '40246'
+average_rating: '3.81'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: "When the renowned aviation hero and rabid isolationist Charles A. Lindbergh\
+  \ defeated Franklin Roosevelt by a landslide in the 1940 presidential election,\
+  \ fear invaded every Jewish household in America. Not only had Lindbergh, in a nationwide\
+  \ radio address, publicly blamed the Jews for sel\uFB01shly pushing America toward\
+  \ a pointless war with Nazi Germany, but upon taking of\uFB01ce as the thirty-third\
+  \ president of the United States, he negotiated a cordial \u201Cunderstanding\u201D\
+  \ with Adolf Hitler, whose conquest of Europe and virulent anti-Semitic policies\
+  \ he appeared to accept without dif\uFB01culty.<p>What then followed in America\
+  \ is the historical setting for this startling new book by Pulitzer Prize\u2013\
+  winner Philip Roth, who recounts what it was like for his Newark family \u2014 and\
+  \ for a million such families all over the country \u2014 during the menacing years\
+  \ of the Lindbergh presidency, when American citizens who happened to be Jews had\
+  \ every reason to expect the worst.<br />(front flap)</p>"
+edition_information: null
+format: null
+id: '416050'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554366038l/416050._SX98_.jpg
+is_ebook: 'false'
+isbn:
+  '@nil': 'true'
+isbn13:
+  '@nil': 'true'
+json: '{"id": "416050", "isbn": {"@nil": "true"}, "isbn13": {"@nil": "true"}, "text_reviews_count":
+  {"@type": "integer", "#text": "146"}, "uri": "kca://book/amzn1.gr.book.v1.YT_Cgzbhy1vQZ5rClqh7ug",
+  "title": "The Plot Against America", "title_without_series": "The Plot Against America",
+  "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554366038l/416050._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554366038l/416050._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/416050.The_Plot_Against_America",
+  "num_pages": "391", "format": null, "edition_information": null, "publisher": "Houghton
+  Mifflin", "publication_day": null, "publication_year": null, "publication_month":
+  null, "average_rating": "3.81", "ratings_count": "65460", "description": "When the
+  renowned aviation hero and rabid isolationist Charles A. Lindbergh defeated Franklin
+  Roosevelt by a landslide in the 1940 presidential election, fear invaded every Jewish
+  household in America. Not only had Lindbergh, in a nationwide radio address, publicly
+  blamed the Jews for sel\ufb01shly pushing America toward a pointless war with Nazi
+  Germany, but upon taking of\ufb01ce as the thirty-third president of the United
+  States, he negotiated a cordial \u201cunderstanding\u201d with Adolf Hitler, whose
+  conquest of Europe and virulent anti-Semitic policies he appeared to accept without
+  dif\ufb01culty.<p>What then followed in America is the historical setting for this
+  startling new book by Pulitzer Prize\u2013winner Philip Roth, who recounts what
+  it was like for his Newark family \u2014 and for a million such families all over
+  the country \u2014 during the menacing years of the Lindbergh presidency, when American
+  citizens who happened to be Jews had every reason to expect the worst.<br />(front
+  flap)</p>", "authors": {"author": {"id": "463", "name": "Philip Roth", "role": null,
+  "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1399886959p5/463.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1399886959p2/463.jpg"},
+  "link": "https://www.goodreads.com/author/show/463.Philip_Roth", "average_rating":
+  "3.83", "ratings_count": "519968", "text_reviews_count": "40246"}}, "published":
+  null, "work": {"id": "911456", "uri": "kca://work/amzn1.gr.work.v1.aDq4tXbyG3jxcMHEzvDjww"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417632",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B003WJQ6RC
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/416050.The_Plot_Against_America
+marketplace_id: ATVPDKIKX0DER
+num_pages: '391'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '62140'
+    '@name': to-read
+  - '@count': '4692'
+    '@name': currently-reading
+  - '@count': '2149'
+    '@name': fiction
+  - '@count': '824'
+    '@name': historical-fiction
+  - '@count': '371'
+    '@name': alternate-history
+  - '@count': '312'
+    '@name': owned
+  - '@count': '274'
+    '@name': favorites
+  - '@count': '219'
+    '@name': 1001-books
+  - '@count': '204'
+    '@name': history
+  - '@count': '179'
+    '@name': literature
+  - '@count': '161'
+    '@name': science-fiction
+  - '@count': '159'
+    '@name': politics
+  - '@count': '156'
+    '@name': novels
+  - '@count': '150'
+    '@name': jewish
+  - '@count': '147'
+    '@name': american
+  - '@count': '147'
+    '@name': book-club
+  - '@count': '145'
+    '@name': books-i-own
+  - '@count': '140'
+    '@name': literary-fiction
+  - '@count': '135'
+    '@name': '1001'
+  - '@count': '129'
+    '@name': audiobook
+  - '@count': '123'
+    '@name': library
+  - '@count': '112'
+    '@name': dystopian
+  - '@count': '112'
+    '@name': alternative-history
+  - '@count': '100'
+    '@name': audiobooks
+  - '@count': '99'
+    '@name': historical
+  - '@count': '96'
+    '@name': american-literature
+  - '@count': '93'
+    '@name': novel
+  - '@count': '91'
+    '@name': 1001-books-to-read-before-you-die
+  - '@count': '90'
+    '@name': war
+  - '@count': '89'
+    '@name': sci-fi
+  - '@count': '88'
+    '@name': classics
+  - '@count': '88'
+    '@name': wwii
+  - '@count': '85'
+    '@name': philip-roth
+  - '@count': '83'
+    '@name': dystopia
+  - '@count': '81'
+    '@name': usa
+  - '@count': '79'
+    '@name': audio
+  - '@count': '72'
+    '@name': owned-books
+  - '@count': '70'
+    '@name': to-buy
+  - '@count': '68'
+    '@name': dnf
+  - '@count': '68'
+    '@name': world-war-ii
+  - '@count': '66'
+    '@name': america
+  - '@count': '63'
+    '@name': contemporary
+  - '@count': '61'
+    '@name': my-library
+  - '@count': '61'
+    '@name': default
+  - '@count': '60'
+    '@name': audible
+  - '@count': '59'
+    '@name': kindle
+  - '@count': '57'
+    '@name': abandoned
+  - '@count': '56'
+    '@name': alt-history
+  - '@count': '55'
+    '@name': english
+  - '@count': '54'
+    '@name': contemporary-fiction
+  - '@count': '54'
+    '@name': did-not-finish
+  - '@count': '51'
+    '@name': ebook
+  - '@count': '51'
+    '@name': speculative-fiction
+  - '@count': '50'
+    '@name': 21st-century
+  - '@count': '50'
+    '@name': americana
+  - '@count': '47'
+    '@name': 1001-books-to-read
+  - '@count': '46'
+    '@name': 2000s
+  - '@count': '42'
+    '@name': american-lit
+  - '@count': '42'
+    '@name': bookclub
+  - '@count': '41'
+    '@name': nyt-top-100
+  - '@count': '41'
+    '@name': adult
+  - '@count': '41'
+    '@name': to-read-fiction
+  - '@count': '40'
+    '@name': roth
+  - '@count': '38'
+    '@name': adult-fiction
+  - '@count': '38'
+    '@name': my-books
+  - '@count': '36'
+    '@name': literary
+  - '@count': '36'
+    '@name': tbr
+  - '@count': '35'
+    '@name': 1001-books-you-must-read-before-you
+  - '@count': '35'
+    '@name': narrativa
+  - '@count': '34'
+    '@name': fantasy
+  - '@count': '34'
+    '@name': general-fiction
+  - '@count': '32'
+    '@name': roman
+  - '@count': '32'
+    '@name': read-in-2020
+  - '@count': '31'
+    '@name': bookshelf
+  - '@count': '31'
+    '@name': judaism
+  - '@count': '31'
+    '@name': physical-tbr
+  - '@count': '31'
+    '@name': wish-list
+  - '@count': '30'
+    '@name': ww2
+  - '@count': '30'
+    '@name': modern-fiction
+  - '@count': '30'
+    '@name': audio-books
+  - '@count': '29'
+    '@name': 100-best-books-of-the-21st-century
+  - '@count': '29'
+    '@name': non-fiction
+  - '@count': '28'
+    '@name': nyt-100
+  - '@count': '28'
+    '@name': political
+  - '@count': '26'
+    '@name': holocaust
+  - '@count': '26'
+    '@name': book-group
+  - '@count': '26'
+    '@name': world-war-2
+  - '@count': '26'
+    '@name': lit
+  - '@count': '26'
+    '@name': nyt
+  - '@count': '25'
+    '@name': home-library
+  - '@count': '25'
+    '@name': '2005'
+  - '@count': '25'
+    '@name': fictie
+  - '@count': '25'
+    '@name': libby
+  - '@count': '25'
+    '@name': 20th-century
+  - '@count': '25'
+    '@name': read-2020
+  - '@count': '24'
+    '@name': fiction-to-read
+  - '@count': '24'
+    '@name': nyt-best-books-of-the-21st-century
+  - '@count': '24'
+    '@name': new-jersey
+  - '@count': '24'
+    '@name': letteratura-americana
+  - '@count': '23'
+    '@name': fascism
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: Houghton Mifflin
+ratings_count: '65460'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417632
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/416050.The_Plot_Against_America\"\
+  >The Plot Against America Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/416050.The_Plot_Against_America?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '1011'
+        link: https://www.goodreads.com/author/show/1011.Aristophanes
+        name: Aristophanes
+    average_rating: '3.81'
+    id: '52999119'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '2081451670'
+    isbn13: '9782081451674'
+    link: https://www.goodreads.com/book/show/52999119-les-cavaliers-l-assemblee-des-femmes
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '65460'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: LES CAVALIERS L'ASSEMBLEE DES FEMMES
+    title_without_series: LES CAVALIERS L'ASSEMBLEE DES FEMMES
+    uri: kca://book/amzn1.gr.book.v3.pmS0gEhaGJzAhDz7
+    work:
+      id: '71381390'
+  - authors:
+      author:
+        id: '7330'
+        link: https://www.goodreads.com/author/show/7330.Sinclair_Lewis
+        name: Sinclair Lewis
+    average_rating: '3.81'
+    id: '11371'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1670180451l/11371._SX98_.jpg
+    isbn: 045121658X
+    isbn13: '9780451216588'
+    link: https://www.goodreads.com/book/show/11371.It_Can_t_Happen_Here
+    num_pages: '400'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '65460'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1670180451l/11371._SY75_.jpg
+    title: It Can't Happen Here
+    title_without_series: It Can't Happen Here
+    uri: kca://book/amzn1.gr.book.v1.qD_DwnDC9j4sKekmrd2-hQ
+    work:
+      id: '1296784'
+  - authors:
+      author:
+        id: '31723'
+        link: https://www.goodreads.com/author/show/31723.Percival_Everett
+        name: Percival Everett
+    average_rating: '3.81'
+    id: '173754979'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704107491l/173754979._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/173754979-james
+    num_pages: '303'
+    publication_day: '19'
+    publication_month: '3'
+    publication_year: '2024'
+    ratings_count: '65460'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704107491l/173754979._SX50_.jpg
+    title: James
+    title_without_series: James
+    uri: kca://book/amzn1.gr.book.v3.w1rdXN6bI8ReZ494
+    work:
+      id: '181379063'
+  - authors:
+      author:
+        id: '6468'
+        link: https://www.goodreads.com/author/show/6468.Denis_Johnson
+        name: Denis Johnson
+    average_rating: '3.81'
+    id: '271074'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480095525l/271074._SX98_.jpg
+    isbn: 0374279128
+    isbn13: '9780374279127'
+    link: https://www.goodreads.com/book/show/271074.Tree_of_Smoke
+    num_pages: '614'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '65460'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480095525l/271074._SY75_.jpg
+    title: Tree of Smoke
+    title_without_series: Tree of Smoke
+    uri: kca://book/amzn1.gr.book.v1.v52Af2WBkRWXt5_imLQz-w
+    work:
+      id: '3279686'
+  - authors:
+      author:
+        id: '2578'
+        link: https://www.goodreads.com/author/show/2578.Jonathan_Franzen
+        name: Jonathan Franzen
+    average_rating: '3.81'
+    id: '3805'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355011305l/3805._SX98_.jpg
+    isbn: '1841156736'
+    isbn13: '9781841156736'
+    link: https://www.goodreads.com/book/show/3805.The_Corrections
+    num_pages: '653'
+    publication_day: '2'
+    publication_month: '9'
+    publication_year: '2002'
+    ratings_count: '65460'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355011305l/3805._SY75_.jpg
+    title: The Corrections
+    title_without_series: The Corrections
+    uri: kca://book/amzn1.gr.book.v1.Xoy4P1RNfIhyq20Q2Scqrw
+    work:
+      id: '941200'
+  - authors:
+      author:
+        id: '31723'
+        link: https://www.goodreads.com/author/show/31723.Percival_Everett
+        name: Percival Everett
+    average_rating: '3.81'
+    id: '355862'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708274015l/355862._SX98_.jpg
+    isbn: 0786888156
+    isbn13: '9780786888153'
+    link: https://www.goodreads.com/book/show/355862.Erasure
+    num_pages: '280'
+    publication_day: '2'
+    publication_month: '10'
+    publication_year: '2002'
+    ratings_count: '65460'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708274015l/355862._SY75_.jpg
+    title: Erasure
+    title_without_series: Erasure
+    uri: kca://book/amzn1.gr.book.v1.UEHRfS_TcanSemYJUwUmsA
+    work:
+      id: '345986'
+  - authors:
+      author:
+        id: '164139'
+        link: https://www.goodreads.com/author/show/164139.Rachel_Kushner
+        name: Rachel Kushner
+    average_rating: '3.81'
+    id: '207300960'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707672124l/207300960._SX98_.jpg
+    isbn: '1982116528'
+    isbn13: '9781982116521'
+    link: https://www.goodreads.com/book/show/207300960-creation-lake
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '65460'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707672124l/207300960._SY75_.jpg
+    title: Creation Lake
+    title_without_series: Creation Lake
+    uri: kca://book/amzn1.gr.book.v3.6R-PKqEJGwbHEBem
+    work:
+      id: '209287299'
+  - authors:
+      author:
+        id: '1918920'
+        link: https://www.goodreads.com/author/show/1918920.Samantha_Harvey
+        name: Samantha Harvey
+    average_rating: '3.81'
+    id: '123136728'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1682375874l/123136728._SX98_.jpg
+    isbn: 0802161545
+    isbn13: '9780802161543'
+    link: https://www.goodreads.com/book/show/123136728-orbital
+    num_pages: '207'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '65460'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1682375874l/123136728._SY75_.jpg
+    title: Orbital
+    title_without_series: Orbital
+    uri: kca://book/amzn1.gr.book.v3.n9pJU1tfOcRyTjHT
+    work:
+      id: '120178902'
+  - authors:
+      author:
+        id: '184427'
+        link: https://www.goodreads.com/author/show/184427.Philippe_Raynaud
+        name: Philippe Raynaud
+    average_rating: '3.81'
+    id: '51037928'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '2081451662'
+    isbn13: '9782081451667'
+    link: https://www.goodreads.com/book/show/51037928-de-la-d-mocratie-en-am-rique
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '65460'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: "De la d\xE9mocratie en Am\xE9rique : Tome 2, partie. Pr\xE9pas scientifiques"
+    title_without_series: "De la d\xE9mocratie en Am\xE9rique : Tome 2, partie. Pr\xE9\
+      pas scientifiques"
+    uri: kca://book/amzn1.gr.book.v3.K8tvBGByeHu33Ou0
+    work:
+      id: '71798802'
+  - authors:
+      author:
+        id: '8885'
+        link: https://www.goodreads.com/author/show/8885.George_Saunders
+        name: George Saunders
+    average_rating: '3.81'
+    id: '13641208'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349967540l/13641208._SX98_.jpg
+    isbn: 0812993802
+    isbn13: '9780812993806'
+    link: https://www.goodreads.com/book/show/13641208-tenth-of-december
+    num_pages: '251'
+    publication_day: '8'
+    publication_month: '1'
+    publication_year: '2013'
+    ratings_count: '65460'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349967540l/13641208._SX50_.jpg
+    title: Tenth of December
+    title_without_series: Tenth of December
+    uri: kca://book/amzn1.gr.book.v1.xeJ8DvDYjJzHtrjpKQfvfw
+    work:
+      id: '19256026'
+  - authors:
+      author:
+        id: '6580622'
+        link: https://www.goodreads.com/author/show/6580622.W_G_Sebald
+        name: W.G. Sebald
+    average_rating: '3.81'
+    id: '88442'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516499623l/88442._SX98_.jpg
+    isbn: 0140297995
+    isbn13: '9780140297997'
+    link: https://www.goodreads.com/book/show/88442.Austerlitz
+    num_pages: '415'
+    publication_day: '4'
+    publication_month: '7'
+    publication_year: '2002'
+    ratings_count: '65460'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516499623l/88442._SY75_.jpg
+    title: Austerlitz
+    title_without_series: Austerlitz
+    uri: kca://book/amzn1.gr.book.v1.YyPoUTiSZP3fGyAJLhkSvg
+    work:
+      id: '2193696'
+  - authors:
+      author:
+        id: '22899'
+        link: https://www.goodreads.com/author/show/22899.John_Jeremiah_Sullivan
+        name: John Jeremiah Sullivan
+    average_rating: '3.81'
+    id: '10851868'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878901l/10851868._SX98_.jpg
+    isbn: 0374532907
+    isbn13: '9780374532901'
+    link: https://www.goodreads.com/book/show/10851868-pulphead
+    num_pages: '365'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '65460'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878901l/10851868._SY75_.jpg
+    title: Pulphead
+    title_without_series: Pulphead
+    uri: kca://book/amzn1.gr.book.v1.OqMIEi0kfTAMqO21lm1w2A
+    work:
+      id: '15766613'
+  - authors:
+      author:
+        id: '5869'
+        link: https://www.goodreads.com/author/show/5869.Erik_Larson
+        name: Erik Larson
+    average_rating: '3.81'
+    id: '195608683'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697649165l/195608683._SX98_.jpg
+    isbn: 0385348746
+    isbn13: '9780385348744'
+    link: https://www.goodreads.com/book/show/195608683-the-demon-of-unrest
+    num_pages: '565'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '65460'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697649165l/195608683._SY75_.jpg
+    title: 'The Demon of Unrest: A Saga of Hubris, Heartbreak, and Heroism at the
+      Dawn of the Civil War'
+    title_without_series: 'The Demon of Unrest: A Saga of Hubris, Heartbreak, and
+      Heroism at the Dawn of the Civil War'
+    uri: kca://book/amzn1.gr.book.v3.vEybJiayEfjhfcCA
+    work:
+      id: '197500960'
+  - authors:
+      author:
+        id: '7136914'
+        link: https://www.goodreads.com/author/show/7136914.Ann_Patchett
+        name: Ann Patchett
+    average_rating: '3.81'
+    id: '5826'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352997328l/5826._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/5826.Bel_Canto
+    num_pages: '318'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '65460'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352997328l/5826._SY75_.jpg
+    title: Bel Canto
+    title_without_series: Bel Canto
+    uri: kca://book/amzn1.gr.book.v1.FzQcZkj7Pd4_kPKxmRFJrw
+    work:
+      id: '859342'
+  - authors:
+      author:
+        id: '8885'
+        link: https://www.goodreads.com/author/show/8885.George_Saunders
+        name: George Saunders
+    average_rating: '3.81'
+    id: '14295'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700549316l/14295._SX98_.jpg
+    isbn: 0747553866
+    isbn13: '9780747553861'
+    link: https://www.goodreads.com/book/show/14295.Pastoralia
+    num_pages: '188'
+    publication_day: '8'
+    publication_month: '9'
+    publication_year: '2001'
+    ratings_count: '65460'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700549316l/14295._SY75_.jpg
+    title: Pastoralia
+    title_without_series: Pastoralia
+    uri: kca://book/amzn1.gr.book.v1.m3JH4TWsZVB9HM9zqFyTAQ
+    work:
+      id: '4225'
+  - authors:
+      author:
+        id: '197852'
+        link: https://www.goodreads.com/author/show/197852.Patrick_Radden_Keefe
+        name: Patrick Radden Keefe
+    average_rating: '3.81'
+    id: '40163119'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537315266l/40163119._SX98_.jpg
+    isbn: 0385521316
+    isbn13: '9780385521314'
+    link: https://www.goodreads.com/book/show/40163119-say-nothing
+    num_pages: '441'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '65460'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537315266l/40163119._SY75_.jpg
+    title: 'Say Nothing: A True Story of Murder and Memory in Northern Ireland'
+    title_without_series: 'Say Nothing: A True Story of Murder and Memory in Northern
+      Ireland'
+    uri: kca://book/amzn1.gr.book.v1.ZpOxXa4rHaS61WLiRE361w
+    work:
+      id: '62303430'
+  - authors:
+      author:
+        id: '282390'
+        link: https://www.goodreads.com/author/show/282390.Viet_Thanh_Nguyen
+        name: Viet Thanh Nguyen
+    average_rating: '3.81'
+    id: '23168277'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718982183l/23168277._SX98_.jpg
+    isbn: 0802123457
+    isbn13: '9780802123459'
+    link: https://www.goodreads.com/book/show/23168277-the-sympathizer
+    num_pages: '371'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '65460'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718982183l/23168277._SX50_.jpg
+    title: 'The Sympathizer (The Sympathizer, #1)'
+    title_without_series: The Sympathizer
+    uri: kca://book/amzn1.gr.book.v1.pGJn2n6sYSA4KPzi7kkX0A
+    work:
+      id: '42713530'
+  - authors:
+      author:
+        id: '15957484'
+        link: https://www.goodreads.com/author/show/15957484.Kaveh_Akbar
+        name: Kaveh Akbar
+    average_rating: '3.81'
+    id: '139400713'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683818219l/139400713._SX98_.jpg
+    isbn: 0593537610
+    isbn13: '9780593537619'
+    link: https://www.goodreads.com/book/show/139400713-martyr
+    num_pages: '331'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '65460'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683818219l/139400713._SX50_.jpg
+    title: Martyr!
+    title_without_series: Martyr!
+    uri: kca://book/amzn1.gr.book.v3.bNI6tQkGi7fVRh8B
+    work:
+      id: '155375386'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554366038l/416050._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '146'
+  '@type': integer
+title: The Plot Against America
+title_without_series: The Plot Against America
+uri: kca://book/amzn1.gr.book.v1.YT_Cgzbhy1vQZ5rClqh7ug
+url: https://www.goodreads.com/book/show/416050.The_Plot_Against_America
+work:
+  id: '911456'
+  uri: kca://work/amzn1.gr.work.v1.aDq4tXbyG3jxcMHEzvDjww

@@ -1,0 +1,697 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.72'
+    id: '245528'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1738156574p5/245528.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/245528.Travis_Hugh_Culley
+    name: Travis Hugh Culley
+    ratings_count: '463'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1738156574p2/245528.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '84'
+average_rating: '3.76'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: Adventures and philosophy of a bike<br />messenger in contemporary Chicago.
+edition_information: 2d ptg.
+format: null
+id: '1882722'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: 0375504281
+isbn13: '9780375504280'
+json: '{"id": "1882722", "isbn": "0375504281", "isbn13": "9780375504280", "text_reviews_count":
+  {"@type": "integer", "#text": "15"}, "uri": "kca://book/amzn1.gr.book.v1.we1dCWhyOLP2Vg-8jyEb5g",
+  "title": "The Immortal Class: Bike Messengers and the Cult of Human Power", "title_without_series":
+  "The Immortal Class: Bike Messengers and the Cult of Human Power", "image_url":
+  "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/1882722.The_Immortal_Class",
+  "num_pages": null, "format": null, "edition_information": "2d ptg.", "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "3.76", "ratings_count": "404", "description": "Adventures and
+  philosophy of a bike<br />messenger in contemporary Chicago.", "authors": {"author":
+  {"id": "245528", "name": "Travis Hugh Culley", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1738156574p5/245528.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1738156574p2/245528.jpg"},
+  "link": "https://www.goodreads.com/author/show/245528.Travis_Hugh_Culley", "average_rating":
+  "3.72", "ratings_count": "463", "text_reviews_count": "84"}}, "published": null,
+  "work": {"id": "169797", "uri": "kca://work/amzn1.gr.work.v1.21e6MhZ56J4qOYycaADh1w"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/12429072",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B000FC1IR2
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/1882722.The_Immortal_Class
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '181'
+    '@name': to-read
+  - '@count': '15'
+    '@name': non-fiction
+  - '@count': '14'
+    '@name': currently-reading
+  - '@count': '12'
+    '@name': cycling
+  - '@count': '8'
+    '@name': nonfiction
+  - '@count': '7'
+    '@name': chicago
+  - '@count': '7'
+    '@name': memoir
+  - '@count': '5'
+    '@name': biography
+  - '@count': '5'
+    '@name': bikes
+  - '@count': '3'
+    '@name': sports
+  - '@count': '3'
+    '@name': bicycle
+  - '@count': '3'
+    '@name': owned
+  - '@count': '3'
+    '@name': bicycling
+  - '@count': '2'
+    '@name': history
+  - '@count': '2'
+    '@name': bike
+  - '@count': '2'
+    '@name': shelved
+  - '@count': '2'
+    '@name': bio
+  - '@count': '1'
+    '@name': devil-inside
+  - '@count': '1'
+    '@name': 2024-book-purge
+  - '@count': '1'
+    '@name': '2002'
+  - '@count': '1'
+    '@name': politi-nomics
+  - '@count': '1'
+    '@name': workplace
+  - '@count': '1'
+    '@name': ecology
+  - '@count': '1'
+    '@name': go-go-manipogo
+  - '@count': '1'
+    '@name': not-in-collection
+  - '@count': '1'
+    '@name': urbanism
+  - '@count': '1'
+    '@name': 2000s
+  - '@count': '1'
+    '@name': ta_biography-memoir
+  - '@count': '1'
+    '@name': memoir-etc
+  - '@count': '1'
+    '@name': crunchy-sustainable
+  - '@count': '1'
+    '@name': hardcopy-to-read
+  - '@count': '1'
+    '@name': home-library
+  - '@count': '1'
+    '@name': mooberry-library
+  - '@count': '1'
+    '@name': shipping-from-israel
+  - '@count': '1'
+    '@name': location-in-israel
+  - '@count': '1'
+    '@name': memoir-autobiography
+  - '@count': '1'
+    '@name': sociology
+  - '@count': '1'
+    '@name': own-physical-editions
+  - '@count': '1'
+    '@name': art
+  - '@count': '1'
+    '@name': apl-hardcopy
+  - '@count': '1'
+    '@name': biography-memoir
+  - '@count': '1'
+    '@name': cities
+  - '@count': '1'
+    '@name': my-bookshelves
+  - '@count': '1'
+    '@name': free-little-library-books
+  - '@count': '1'
+    '@name': us-nonfiction
+  - '@count': '1'
+    '@name': urbanism-technology
+  - '@count': '1'
+    '@name': the-bike
+  - '@count': '1'
+    '@name': read-long-ago
+  - '@count': '1'
+    '@name': read-by-chen
+  - '@count': '1'
+    '@name': re-read
+  - '@count': '1'
+    '@name': pop-culture
+  - '@count': '1'
+    '@name': philosophy
+  - '@count': '1'
+    '@name': phenomenology
+  - '@count': '1'
+    '@name': outdoors-sports
+  - '@count': '1'
+    '@name': nature-outdoors
+  - '@count': '1'
+    '@name': midwest-chicago
+  - '@count': '1'
+    '@name': matts-collection
+  - '@count': '1'
+    '@name': i-give-up
+  - '@count': '1'
+    '@name': hardback
+  - '@count': '1'
+    '@name': give-away
+  - '@count': '1'
+    '@name': chen-s
+  - '@count': '1'
+    '@name': chatham
+  - '@count': '1'
+    '@name': boston-years-1997-2004
+  - '@count': '1'
+    '@name': bikes-and-boats
+  - '@count': '1'
+    '@name': bedroom
+  - '@count': '1'
+    '@name': adventure-truelife
+  - '@count': '1'
+    '@name': 2009-reads
+  - '@count': '1'
+    '@name': books-everyone-should-read
+  - '@count': '1'
+    '@name': via-deadtree
+  - '@count': '1'
+    '@name': worker-rights
+  - '@count': '1'
+    '@name': classroom-library
+  - '@count': '1'
+    '@name': memoirs-and-biographies
+  - '@count': '1'
+    '@name': bicycle-library
+  - '@count': '1'
+    '@name': unfinished
+  - '@count': '1'
+    '@name': shelfari-favorites
+  - '@count': '1'
+    '@name': shelfari-sports
+  - '@count': '1'
+    '@name': 2015-reads
+  - '@count': '1'
+    '@name': in-the-realosphere
+  - '@count': '1'
+    '@name': auto-and-biography
+  - '@count': '1'
+    '@name': bio-autiobio
+  - '@count': '1'
+    '@name': sell-or-donate
+  - '@count': '1'
+    '@name': for-academics
+  - '@count': '1'
+    '@name': adult
+  - '@count': '1'
+    '@name': sport-cycling
+  - '@count': '1'
+    '@name': culture-sociology
+  - '@count': '1'
+    '@name': pre-2007
+  - '@count': '1'
+    '@name': food-sport
+  - '@count': '1'
+    '@name': books-i-ve-read-in-2008
+  - '@count': '1'
+    '@name': popular-nonfiction
+  - '@count': '1'
+    '@name': mystery-us-illinois
+  - '@count': '1'
+    '@name': books
+  - '@count': '1'
+    '@name': nonfic
+  - '@count': '1'
+    '@name': memoirs-autobiography
+  - '@count': '1'
+    '@name': pre-college
+  - '@count': '1'
+    '@name': fiction
+  - '@count': '1'
+    '@name': 1-scanned
+  - '@count': '1'
+    '@name': unsure
+  - '@count': '1'
+    '@name': favorites
+  - '@count': '1'
+    '@name': adventure
+  - '@count': '1'
+    '@name': '2001'
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '404'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/12429072
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/1882722.The_Immortal_Class\"\
+  >The Immortal Class Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0375504281&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/1882722.The_Immortal_Class?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '5321283'
+        link: https://www.goodreads.com/author/show/5321283.Mikel_Jollett
+        name: Mikel Jollett
+    average_rating: '3.76'
+    id: '49235526'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601570535l/49235526._SX98_.jpg
+    isbn: '1250621569'
+    isbn13: '9781250621566'
+    link: https://www.goodreads.com/book/show/49235526-hollywood-park
+    num_pages: null
+    publication_day: '26'
+    publication_month: '5'
+    publication_year: '2020'
+    ratings_count: '404'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601570535l/49235526._SY75_.jpg
+    title: Hollywood Park
+    title_without_series: Hollywood Park
+    uri: kca://book/amzn1.gr.book.v3.eGhqQ0JorZkPTas0
+    work:
+      id: '73606802'
+  - authors:
+      author:
+        id: '14201766'
+        link: https://www.goodreads.com/author/show/14201766.Andrew_McMahon
+        name: Andrew McMahon
+    average_rating: '3.76'
+    id: '57190863'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620758059l/57190863._SX98_.jpg
+    isbn: '1648960200'
+    isbn13: '9781648960208'
+    link: https://www.goodreads.com/book/show/57190863-three-pianos
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '404'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620758059l/57190863._SX50_.jpg
+    title: 'Three Pianos: A Memoir'
+    title_without_series: 'Three Pianos: A Memoir'
+    uri: kca://book/amzn1.gr.book.v3.ZcnqnnxZaNW4iNZW
+    work:
+      id: '89505311'
+  - authors:
+      author:
+        id: '7378'
+        link: https://www.goodreads.com/author/show/7378.William_Finnegan
+        name: William Finnegan
+    average_rating: '3.76'
+    id: '18693910'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418768620l/18693910._SX98_.jpg
+    isbn: '1594203474'
+    isbn13: '9781594203473'
+    link: https://www.goodreads.com/book/show/18693910-barbarian-days
+    num_pages: '447'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '404'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418768620l/18693910._SX50_.jpg
+    title: 'Barbarian Days: A Surfing Life'
+    title_without_series: 'Barbarian Days: A Surfing Life'
+    uri: kca://book/amzn1.gr.book.v1.OYgHo_97kTmGbedB1chEww
+    work:
+      id: '26542461'
+  - authors:
+      author:
+        id: '127789'
+        link: https://www.goodreads.com/author/show/127789.Alex_Soojung_Kim_Pang
+        name: Alex Soojung-Kim Pang
+    average_rating: '3.76'
+    id: '51205954'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1541730712'
+    isbn13: '9781541730717'
+    link: https://www.goodreads.com/book/show/51205954-shorter
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '404'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Shorter: Redesign Your Work and Reclaim Your Time'
+    title_without_series: 'Shorter: Redesign Your Work and Reclaim Your Time'
+    uri: kca://book/amzn1.gr.book.v3.7D6oHsoClIV7Ygdm
+    work:
+      id: '71838373'
+  - authors:
+      author:
+        id: '17503523'
+        link: https://www.goodreads.com/author/show/17503523.Trent_Dalton
+        name: Trent Dalton
+    average_rating: '3.76'
+    id: '37558445'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519792733l/37558445._SX98_.jpg
+    isbn: '1460753895'
+    isbn13: '9781460753897'
+    link: https://www.goodreads.com/book/show/37558445-boy-swallows-universe
+    num_pages: '474'
+    publication_day: '18'
+    publication_month: '6'
+    publication_year: '2018'
+    ratings_count: '404'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519792733l/37558445._SY75_.jpg
+    title: Boy Swallows Universe
+    title_without_series: Boy Swallows Universe
+    uri: kca://book/amzn1.gr.book.v1.4YGaLOmrNuz2ps7T8pxsbQ
+    work:
+      id: '59168550'
+  - authors:
+      author:
+        id: '2408'
+        link: https://www.goodreads.com/author/show/2408.Ian_McEwan
+        name: Ian McEwan
+    average_rating: '3.76'
+    id: '815309'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0224081187
+    isbn13: '9780224081184'
+    link: https://www.goodreads.com/book/show/815309.On_Chesil_Beach
+    num_pages: '166'
+    publication_day: '23'
+    publication_month: '3'
+    publication_year: '2007'
+    ratings_count: '404'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: On Chesil Beach
+    title_without_series: On Chesil Beach
+    uri: kca://book/amzn1.gr.book.v1.PADXccgZcxypqU68IYygEg
+    work:
+      id: '1698999'
+  - authors:
+      author:
+        id: '915500'
+        link: https://www.goodreads.com/author/show/915500.Matthew_Desmond
+        name: Matthew Desmond
+    average_rating: '3.76'
+    id: '25852784'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442840968l/25852784._SX98_.jpg
+    isbn: '0553447432'
+    isbn13: '9780553447439'
+    link: https://www.goodreads.com/book/show/25852784-evicted
+    num_pages: '418'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '404'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442840968l/25852784._SX50_.jpg
+    title: 'Evicted: Poverty and Profit in the American City'
+    title_without_series: 'Evicted: Poverty and Profit in the American City'
+    uri: kca://book/amzn1.gr.book.v1.5-a44iQq7xXhyGZxECrWTg
+    work:
+      id: '45720714'
+  - authors:
+      author:
+        id: '18092405'
+        link: https://www.goodreads.com/author/show/18092405.Ben_Goldfarb
+        name: Ben  Goldfarb
+    average_rating: '3.76'
+    id: '123627807'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1324005890'
+    isbn13: '9781324005896'
+    link: https://www.goodreads.com/book/show/123627807-crossings
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '404'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Crossings: How Road Ecology Is Shaping the Future of Our Planet'
+    title_without_series: 'Crossings: How Road Ecology Is Shaping the Future of Our
+      Planet'
+    uri: kca://book/amzn1.gr.book.v3.LTwi0XroK6XqiwPW
+    work:
+      id: '102480384'
+  - authors:
+      author:
+        id: '2778055'
+        link: https://www.goodreads.com/author/show/2778055.Kurt_Vonnegut_Jr_
+        name: Kurt Vonnegut Jr.
+    average_rating: '3.76'
+    id: '9593'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585146350l/9593._SX98_.jpg
+    isbn: 0385333870
+    isbn13: '9780385333870'
+    link: https://www.goodreads.com/book/show/9593.Gal_pagos
+    num_pages: '324'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '404'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585146350l/9593._SY75_.jpg
+    title: "Gal\xE1pagos"
+    title_without_series: "Gal\xE1pagos"
+    uri: kca://book/amzn1.gr.book.v1.S5L64Z_h3X8mFIqU7BQt8g
+    work:
+      id: '517654'
+  - authors:
+      author:
+        id: '19472946'
+        link: https://www.goodreads.com/author/show/19472946.Merlin_Sheldrake
+        name: Merlin Sheldrake
+    average_rating: '3.76'
+    id: '52668915'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0525510311'
+    isbn13: '9780525510314'
+    link: https://www.goodreads.com/book/show/52668915-entangled-life
+    num_pages: '352'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '404'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our
+      Futures'
+    title_without_series: 'Entangled Life: How Fungi Make Our Worlds, Change Our Minds
+      & Shape Our Futures'
+    uri: kca://book/amzn1.gr.book.v3.m6JFjzxVnAsIDsl4
+    work:
+      id: '73100236'
+  - authors:
+      author:
+        id: '19316'
+        link: https://www.goodreads.com/author/show/19316.Peter_Mayle
+        name: Peter Mayle
+    average_rating: '3.76'
+    id: '40189'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535746681l/40189._SX98_.jpg
+    isbn: 0679731148
+    isbn13: '9780679731146'
+    link: https://www.goodreads.com/book/show/40189.A_Year_in_Provence
+    num_pages: '224'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '404'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535746681l/40189._SY75_.jpg
+    title: 'A Year in Provence (Provence, #1)'
+    title_without_series: A Year in Provence
+    uri: kca://book/amzn1.gr.book.v1.mN4GD9mVOtW8gqy2fHXaEA
+    work:
+      id: '940715'
+  - authors:
+      author:
+        id: '3354'
+        link: https://www.goodreads.com/author/show/3354.Haruki_Murakami
+        name: Haruki Murakami
+    average_rating: '3.76'
+    id: '2195464'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473397159l/2195464._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running
+    num_pages: '188'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '404'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473397159l/2195464._SY75_.jpg
+    title: What I Talk About When I Talk About Running
+    title_without_series: What I Talk About When I Talk About Running
+    uri: kca://book/amzn1.gr.book.v1.G7pkz8X5nXtwCmQOqqGPsQ
+    work:
+      id: '2475030'
+  - authors:
+      author:
+        id: '6164287'
+        link: https://www.goodreads.com/author/show/6164287.Chas_Smith
+        name: Chas Smith
+    average_rating: '3.76'
+    id: '39885857'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1945572817'
+    isbn13: '9781945572814'
+    link: https://www.goodreads.com/book/show/39885857-cocaine-surfing
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '404'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Cocaine + Surfing: A Sordid History of Surfing''s Greatest Love Affair'
+    title_without_series: 'Cocaine + Surfing: A Sordid History of Surfing''s Greatest
+      Love Affair'
+    uri: kca://book/amzn1.gr.book.v1.lpxGSHG0LET88O0FuxfGjg
+    work:
+      id: '61701948'
+  - authors:
+      author:
+        id: '88386'
+        link: https://www.goodreads.com/author/show/88386.Aleksandar_Hemon
+        name: Aleksandar Hemon
+    average_rating: '3.76'
+    id: '60784834'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667337510l/60784834._SX98_.jpg
+    isbn: 0374287708
+    isbn13: '9780374287702'
+    link: https://www.goodreads.com/book/show/60784834-the-world-and-all-that-it-holds
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '404'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667337510l/60784834._SY75_.jpg
+    title: The World and All That It Holds
+    title_without_series: The World and All That It Holds
+    uri: kca://book/amzn1.gr.book.v3.xWtzzLW1vlVrwacC
+    work:
+      id: '95849571'
+  - authors:
+      author:
+        id: '6164287'
+        link: https://www.goodreads.com/author/show/6164287.Chas_Smith
+        name: Chas Smith
+    average_rating: '3.76'
+    id: '17349166'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367786176l/17349166._SX98_.jpg
+    isbn: 0062202529
+    isbn13: '9780062202529'
+    link: https://www.goodreads.com/book/show/17349166-welcome-to-paradise-now-go-to-hell
+    num_pages: '247'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '404'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367786176l/17349166._SX50_.jpg
+    title: 'Welcome to Paradise, Now Go to Hell: A True Story of Violence, Corruption,
+      and the Soul of Surfing'
+    title_without_series: 'Welcome to Paradise, Now Go to Hell: A True Story of Violence,
+      Corruption, and the Soul of Surfing'
+    uri: kca://book/amzn1.gr.book.v1.JNt-S3-WQ3e4EhaCM0kblQ
+    work:
+      id: '24090232'
+  - authors:
+      author:
+        id: '16943'
+        link: https://www.goodreads.com/author/show/16943.Norman_Maclean
+        name: Norman Maclean
+    average_rating: '3.76'
+    id: '30044'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0226500624'
+    isbn13: '9780226500621'
+    link: https://www.goodreads.com/book/show/30044.Young_Men_and_Fire
+    num_pages: '301'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '404'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Young Men and Fire
+    title_without_series: Young Men and Fire
+    uri: kca://book/amzn1.gr.book.v1.r2xS_j92Wr4oGeTwOu6_cw
+    work:
+      id: '2963503'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '15'
+  '@type': integer
+title: 'The Immortal Class: Bike Messengers and the Cult of Human Power'
+title_without_series: 'The Immortal Class: Bike Messengers and the Cult of Human Power'
+uri: kca://book/amzn1.gr.book.v1.we1dCWhyOLP2Vg-8jyEb5g
+url: https://www.goodreads.com/book/show/1882722.The_Immortal_Class
+work:
+  id: '169797'
+  uri: kca://work/amzn1.gr.work.v1.21e6MhZ56J4qOYycaADh1w

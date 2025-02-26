@@ -1,0 +1,737 @@
+asin: B089JY53S7
+authors:
+  author:
+    average_rating: '3.75'
+    id: '34429'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1379306689p5/34429.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/34429.Bruce_Sterling
+    name: Bruce Sterling
+    ratings_count: '100516'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1379306689p2/34429.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '7003'
+average_rating: '3.68'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2020-11-10T00:00:00-08:00'
+description: null
+edition_information: null
+format: null
+id: '54878006'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn:
+  '@nil': 'true'
+isbn13:
+  '@nil': 'true'
+json: '{"id": "54878006", "isbn": {"@nil": "true"}, "isbn13": {"@nil": "true"}, "text_reviews_count":
+  {"@type": "integer", "#text": "9"}, "uri": "kca://book/amzn1.gr.book.v3.BRtj7p-Ngbz2ERW6",
+  "title": "Heavy Weather", "title_without_series": "Heavy Weather", "image_url":
+  "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/54878006-heavy-weather",
+  "num_pages": "312", "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.68", "ratings_count": "3099", "description": null, "authors": {"author": {"id":
+  "34429", "name": "Bruce Sterling", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1379306689p5/34429.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1379306689p2/34429.jpg"},
+  "link": "https://www.goodreads.com/author/show/34429.Bruce_Sterling", "average_rating":
+  "3.75", "ratings_count": "100516", "text_reviews_count": "7003"}}, "published":
+  null, "work": {"id": "215064896", "uri": "kca://work/amzn1.gr.work.v3.9sY7hw8iwF50bSZp"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/3624854182",
+  "read_at": "Tue Nov 10 00:00:00 -0800 2020", "started_at": "Sun Nov 01 00:00:00
+  -0700 2020", "date": "Tue Nov 10 00:00:00 -0800 2020"}'
+kindle_asin: B089JY53S7
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/54878006-heavy-weather
+marketplace_id: ATVPDKIKX0DER
+num_pages: '312'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '2242'
+    '@name': to-read
+  - '@count': '186'
+    '@name': science-fiction
+  - '@count': '101'
+    '@name': currently-reading
+  - '@count': '97'
+    '@name': cyberpunk
+  - '@count': '70'
+    '@name': fiction
+  - '@count': '68'
+    '@name': sci-fi
+  - '@count': '28'
+    '@name': sf
+  - '@count': '26'
+    '@name': scifi
+  - '@count': '19'
+    '@name': owned
+  - '@count': '13'
+    '@name': default
+  - '@count': '11'
+    '@name': speculative-fiction
+  - '@count': '8'
+    '@name': thriller
+  - '@count': '8'
+    '@name': novels
+  - '@count': '8'
+    '@name': favorites
+  - '@count': '7'
+    '@name': science
+  - '@count': '7'
+    '@name': sci-fi-fantasy
+  - '@count': '7'
+    '@name': kindle
+  - '@count': '7'
+    '@name': dystopian
+  - '@count': '7'
+    '@name': dystopia
+  - '@count': '6'
+    '@name': cli-fi
+  - '@count': '6'
+    '@name': scifi-fantasy
+  - '@count': '5'
+    '@name': fantasy
+  - '@count': '5'
+    '@name': fantascienza
+  - '@count': '5'
+    '@name': apocalyptic
+  - '@count': '4'
+    '@name': maybe
+  - '@count': '4'
+    '@name': environmental
+  - '@count': '4'
+    '@name': dnf
+  - '@count': '4'
+    '@name': cyber-punk
+  - '@count': '4'
+    '@name': books-i-own
+  - '@count': '4'
+    '@name': adventure
+  - '@count': '3'
+    '@name': sci-fi-cyberpunk
+  - '@count': '3'
+    '@name': narrativa
+  - '@count': '3'
+    '@name': my-library
+  - '@count': '3'
+    '@name': library
+  - '@count': '3'
+    '@name': cyber
+  - '@count': '3'
+    '@name': climate-fiction
+  - '@count': '3'
+    '@name': climate-change
+  - '@count': '3'
+    '@name': spec-fic
+  - '@count': '3'
+    '@name': science-fiction-fantasy
+  - '@count': '3'
+    '@name': sci-fi-and-fantasy
+  - '@count': '3'
+    '@name': paperback
+  - '@count': '3'
+    '@name': not-read
+  - '@count': '3'
+    '@name': hard-sf
+  - '@count': '3'
+    '@name': books
+  - '@count': '3'
+    '@name': audiobook
+  - '@count': '3'
+    '@name': apocalypse
+  - '@count': '2'
+    '@name': anoraks-almanac
+  - '@count': '2'
+    '@name': 1990s
+  - '@count': '2'
+    '@name': research
+  - '@count': '2'
+    '@name': on-the-shelf
+  - '@count': '2'
+    '@name': inventory
+  - '@count': '2'
+    '@name': disasters
+  - '@count': '2'
+    '@name': classics
+  - '@count': '2'
+    '@name': bookshelf
+  - '@count': '2'
+    '@name': to-read-soon
+  - '@count': '2'
+    '@name': sf-fantasy
+  - '@count': '2'
+    '@name': science-fantasy
+  - '@count': '2'
+    '@name': need-to-buy
+  - '@count': '2'
+    '@name': near-future
+  - '@count': '2'
+    '@name': infosec
+  - '@count': '2'
+    '@name': ebook
+  - '@count': '2'
+    '@name': weather
+  - '@count': '2'
+    '@name': wanted
+  - '@count': '2'
+    '@name': unread
+  - '@count': '2'
+    '@name': unowned
+  - '@count': '2'
+    '@name': to-read-fiction
+  - '@count': '2'
+    '@name': sold
+  - '@count': '2'
+    '@name': scifi-dystopia
+  - '@count': '2'
+    '@name': sciencefiction
+  - '@count': '2'
+    '@name': scanned
+  - '@count': '2'
+    '@name': read-books
+  - '@count': '2'
+    '@name': prose
+  - '@count': '2'
+    '@name': physical-books
+  - '@count': '2'
+    '@name': own-but-not-read
+  - '@count': '2'
+    '@name': non-series
+  - '@count': '2'
+    '@name': nancy-pearl-s-book-lust
+  - '@count': '2'
+    '@name': my-books
+  - '@count': '2'
+    '@name': hard-science-fiction
+  - '@count': '2'
+    '@name': environment
+  - '@count': '2'
+    '@name': ecology
+  - '@count': '2'
+    '@name': e-book
+  - '@count': '2'
+    '@name': dystopian-fiction
+  - '@count': '2'
+    '@name': digital
+  - '@count': '2'
+    '@name': did-not-finish
+  - '@count': '2'
+    '@name': bruce-sterling
+  - '@count': '2'
+    '@name': adult-fiction
+  - '@count': '2'
+    '@name': abbandonati
+  - '@count': '2'
+    '@name': abandoned
+  - '@count': '2'
+    '@name': 300-400
+  - '@count': '2'
+    '@name': 20th-century
+  - '@count': '2'
+    '@name': 1sci-fi
+  - '@count': '2'
+    '@name': 1990-1999
+  - '@count': '1'
+    '@name': scifi-fantasy-horror
+  - '@count': '1'
+    '@name': 000rws-su-20-03-climate-change
+  - '@count': '1'
+    '@name': loft
+  - '@count': '1'
+    '@name': fantasy-science-fiction
+  - '@count': '1'
+    '@name': buy
+  - '@count': '1'
+    '@name': 3-p-4a-s-b-geek-optimize-geekiness
+  - '@count': '1'
+    '@name': meh
+  - '@count': '1'
+    '@name': dreck
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '3099'
+read_at: '2020-11-10T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/3624854182
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/54878006-heavy-weather\"\
+  >Heavy Weather Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B089JY53S7&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/54878006-heavy-weather?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '787031'
+        link: https://www.goodreads.com/author/show/787031.Garth_Risk_Hallberg
+        name: Garth Risk Hallberg
+    average_rating: '3.68'
+    id: '24189224'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422969880l/24189224._SX98_.jpg
+    isbn: 0385353774
+    isbn13: '9780385353779'
+    link: https://www.goodreads.com/book/show/24189224-city-on-fire
+    num_pages: '911'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3099'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422969880l/24189224._SX50_.jpg
+    title: City on Fire
+    title_without_series: City on Fire
+    uri: kca://book/amzn1.gr.book.v1.JVl0IklXQ565dWOt4_S2XA
+    work:
+      id: '26690360'
+  - authors:
+      author:
+        id: '27167'
+        link: https://www.goodreads.com/author/show/27167.Peter_Watts
+        name: Peter Watts
+    average_rating: '3.68'
+    id: '48484'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0765312182
+    isbn13: '9780765312181'
+    link: https://www.goodreads.com/book/show/48484.Blindsight
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3099'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Blindsight (Firefall, #1)'
+    title_without_series: Blindsight
+    uri: kca://book/amzn1.gr.book.v1.A4CNk2qG0qxshK4OKH9lJQ
+    work:
+      id: '223813791'
+  - authors:
+      author:
+        id: '545'
+        link: https://www.goodreads.com/author/show/545.Neal_Stephenson
+        name: Neal Stephenson
+    average_rating: '3.68'
+    id: '823'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377095669l/823._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/823.Quicksilver
+    num_pages: '927'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3099'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377095669l/823._SY75_.jpg
+    title: 'Quicksilver (The Baroque Cycle, #1)'
+    title_without_series: Quicksilver
+    uri: kca://book/amzn1.gr.book.v1.0_YoNMjWd_WOzmLGgRG5XQ
+    work:
+      id: '1610031'
+  - authors:
+      author:
+        id: '12581'
+        link: https://www.goodreads.com/author/show/12581.Cory_Doctorow
+        name: Cory Doctorow
+    average_rating: '3.68'
+    id: '127306588'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1690390791l/127306588._SX98_.jpg
+    isbn: '1250865875'
+    isbn13: '9781250865878'
+    link: https://www.goodreads.com/book/show/127306588-the-bezzle
+    num_pages: '230'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3099'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1690390791l/127306588._SY75_.jpg
+    title: 'The Bezzle (Martin Hench, #2)'
+    title_without_series: The Bezzle
+    uri: kca://book/amzn1.gr.book.v3.hHFPxejnE1Ular31
+    work:
+      id: '148188943'
+  - authors:
+      author:
+        id: '44037'
+        link: https://www.goodreads.com/author/show/44037.Vernor_Vinge
+        name: Vernor Vinge
+    average_rating: '3.68'
+    id: '1280983'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0312944446
+    isbn13: '9780312944445'
+    link: https://www.goodreads.com/book/show/1280983.True_Names
+    num_pages: '153'
+    publication_day: '15'
+    publication_month: '12'
+    publication_year: '1984'
+    ratings_count: '3099'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: True Names
+    title_without_series: True Names
+    uri: kca://book/amzn1.gr.book.v1.KebTVIyftV7pSxbkDyrT6Q
+    work:
+      id: '26477427'
+  - authors:
+      author:
+        id: '51204'
+        link: https://www.goodreads.com/author/show/51204.Alastair_Reynolds
+        name: Alastair Reynolds
+    average_rating: '3.68'
+    id: '75593499'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675082567l/75593499._SX98_.jpg
+    isbn: 0316462845
+    isbn13: '9780316462846'
+    link: https://www.goodreads.com/book/show/75593499-machine-vendetta
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3099'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675082567l/75593499._SY75_.jpg
+    title: 'Machine Vendetta (Prefect Dreyfus Emergency #3)'
+    title_without_series: Machine Vendetta
+    uri: kca://book/amzn1.gr.book.v3.YVE16ro2h-cBRWsy
+    work:
+      id: '99755612'
+  - authors:
+      author:
+        id: '12581'
+        link: https://www.goodreads.com/author/show/12581.Cory_Doctorow
+        name: Cory Doctorow
+    average_rating: '3.68'
+    id: '65213928'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683246232l/65213928._SX98_.jpg
+    isbn: 125086593X
+    isbn13: '9781250865939'
+    link: https://www.goodreads.com/book/show/65213928-the-lost-cause
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3099'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683246232l/65213928._SX50_.jpg
+    title: The Lost Cause
+    title_without_series: The Lost Cause
+    uri: kca://book/amzn1.gr.book.v3.8M8hx2L1seo-ewWc
+    work:
+      id: '100097093'
+  - authors:
+      author:
+        id: '44037'
+        link: https://www.goodreads.com/author/show/44037.Vernor_Vinge
+        name: Vernor Vinge
+    average_rating: '3.68'
+    id: '226004'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1217218691l/226004._SY160_.jpg
+    isbn: 0812536355
+    isbn13: '9780812536355'
+    link: https://www.goodreads.com/book/show/226004.A_Deepness_in_the_Sky
+    num_pages: '775'
+    publication_day: '15'
+    publication_month: '1'
+    publication_year: '2000'
+    ratings_count: '3099'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1217218691l/226004._SY75_.jpg
+    title: 'A Deepness in the Sky (Zones of Thought, #2)'
+    title_without_series: A Deepness in the Sky
+    uri: kca://book/amzn1.gr.book.v1.QAo0n279_XA2-6OaX7OUSQ
+    work:
+      id: '1270006'
+  - authors:
+      author:
+        id: '989968'
+        link: https://www.goodreads.com/author/show/989968.C_J_Cherryh
+        name: C.J. Cherryh
+    average_rating: '3.68'
+    id: '57127'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1295778104l/57127._SX98_.jpg
+    isbn: 0445209798
+    isbn13: '9780445209794'
+    link: https://www.goodreads.com/book/show/57127.Rimrunners
+    num_pages: '280'
+    publication_day: null
+    publication_month: '2'
+    publication_year: '1990'
+    ratings_count: '3099'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1295778104l/57127._SY75_.jpg
+    title: 'Rimrunners (The Company Wars, #3)'
+    title_without_series: Rimrunners
+    uri: kca://book/amzn1.gr.book.v1.bopQAqv3x3bf8JptzDoYiw
+    work:
+      id: '196855899'
+  - authors:
+      author:
+        id: '545'
+        link: https://www.goodreads.com/author/show/545.Neal_Stephenson
+        name: Neal Stephenson
+    average_rating: '3.68'
+    id: '199793426'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714031079l/199793426._SX98_.jpg
+    isbn: 0062334492
+    isbn13: '9780062334497'
+    link: https://www.goodreads.com/book/show/199793426-polostan
+    num_pages: '303'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3099'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714031079l/199793426._SY75_.jpg
+    title: 'Polostan (Bomb Light, #1)'
+    title_without_series: Polostan
+    uri: kca://book/amzn1.gr.book.v3.8CLQbGH4z-T5lvaG
+    work:
+      id: '73605495'
+  - authors:
+      author:
+        id: '108281'
+        link: https://www.goodreads.com/author/show/108281.Ken_MacLeod
+        name: Ken MacLeod
+    average_rating: '3.68'
+    id: '199910761'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712006289l/199910761._SX98_.jpg
+    isbn: 0356514838
+    isbn13: '9780356514833'
+    link: https://www.goodreads.com/book/show/199910761-beyond-the-light-horizon
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3099'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712006289l/199910761._SY75_.jpg
+    title: 'Beyond the Light Horizon (Lightspeed Trilogy, #3)'
+    title_without_series: Beyond the Light Horizon
+    uri: kca://book/amzn1.gr.book.v3.FUSBZsV3tJEBGa5Z
+    work:
+      id: '204527368'
+  - authors:
+      author:
+        id: '12581'
+        link: https://www.goodreads.com/author/show/12581.Cory_Doctorow
+        name: Cory Doctorow
+    average_rating: '3.68'
+    id: '60784417'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681104878l/60784417._SX98_.jpg
+    isbn: '1250865840'
+    isbn13: '9781250865847'
+    link: https://www.goodreads.com/book/show/60784417-red-team-blues
+    num_pages: '213'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3099'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681104878l/60784417._SY75_.jpg
+    title: 'Red Team Blues (Martin Hench, #1)'
+    title_without_series: Red Team Blues
+    uri: kca://book/amzn1.gr.book.v3.Weenzta-1MVztWA2
+    work:
+      id: '95090910'
+  - authors:
+      author:
+        id: '8794'
+        link: https://www.goodreads.com/author/show/8794.Charles_Stross
+        name: Charles Stross
+    average_rating: '3.68'
+    id: '208291908'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1739682056l/208291908._SY160_.jpg
+    isbn: '0356524647'
+    isbn13: '9780356524641'
+    link: https://www.goodreads.com/book/show/208291908-a-conventional-boy
+    num_pages: '384'
+    publication_day: '7'
+    publication_month: '1'
+    publication_year: '2025'
+    ratings_count: '3099'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1739682056l/208291908._SY75_.jpg
+    title: 'A Conventional Boy (Laundry Files, #13; New Management, #4)'
+    title_without_series: A Conventional Boy
+    uri: kca://book/amzn1.gr.book.v3.KYnraDM-8kAIVhIy
+    work:
+      id: '214427549'
+  - authors:
+      author:
+        id: '70177'
+        link: https://www.goodreads.com/author/show/70177.Joan_Slonczewski
+        name: Joan Slonczewski
+    average_rating: '3.68'
+    id: '121607'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312055902l/121607._SX98_.jpg
+    isbn: 0812568621
+    isbn13: '9780812568622'
+    link: https://www.goodreads.com/book/show/121607.The_Children_Star
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3099'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312055902l/121607._SY75_.jpg
+    title: 'The Children Star (Elysium Cycle, #3)'
+    title_without_series: The Children Star
+    uri: kca://book/amzn1.gr.book.v1.cgGK7Fnzg4lzR9T0hQEedQ
+    work:
+      id: '117081'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '3.68'
+    id: '65211701'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674575978l/65211701._SX98_.jpg
+    isbn: '1250826977'
+    isbn13: '9781250826978'
+    link: https://www.goodreads.com/book/show/65211701-system-collapse
+    num_pages: '245'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3099'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674575978l/65211701._SY75_.jpg
+    title: 'System Collapse (The Murderbot Diaries, #7)'
+    title_without_series: System Collapse
+    uri: kca://book/amzn1.gr.book.v3.BlgXZE2jb-Pp_eWq
+    work:
+      id: '90712113'
+  - authors:
+      author:
+        id: '48960'
+        link: https://www.goodreads.com/author/show/48960.Walter_Jon_Williams
+        name: Walter Jon Williams
+    average_rating: '3.68'
+    id: '30199443'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464078002l/30199443._SX98_.jpg
+    isbn: 0765387816
+    isbn13: '9780765387813'
+    link: https://www.goodreads.com/book/show/30199443-impersonations
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3099'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464078002l/30199443._SY75_.jpg
+    title: 'Impersonations (Dread Empire''s Fall, #3.75)'
+    title_without_series: Impersonations
+    uri: kca://book/amzn1.gr.book.v1.40QdG7XeVSjZYc2o3z1efg
+    work:
+      id: '50650415'
+  - authors:
+      author:
+        id: '578581'
+        link: https://www.goodreads.com/author/show/578581.Linda_Nagata
+        name: Linda Nagata
+    average_rating: '3.68'
+    id: '205218626'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 193719745X
+    isbn13: '9781937197452'
+    link: https://www.goodreads.com/book/show/205218626-blade
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3099'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Blade (Inverted Frontier Book 4)
+    title_without_series: Blade
+    uri: kca://book/amzn1.gr.book.v3.5Ot-XNF59oojmUsV
+    work:
+      id: '211223520'
+  - authors:
+      author:
+        id: '874602'
+        link: https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin
+        name: Ursula K. Le Guin
+    average_rating: '3.68'
+    id: '199798061'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699050638l/199798061._SX98_.jpg
+    isbn: '1668034905'
+    isbn13: '9781668034903'
+    link: https://www.goodreads.com/book/show/199798061-the-language-of-the-night
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3099'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699050638l/199798061._SY75_.jpg
+    title: 'The Language of the Night: Essays on Writing, Science Fiction, and Fantasy'
+    title_without_series: 'The Language of the Night: Essays on Writing, Science Fiction,
+      and Fantasy'
+    uri: kca://book/amzn1.gr.book.v3.duO139T7tdiilT0R
+    work:
+      id: '204370465'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: '2020-11-01T00:00:00-07:00'
+text_reviews_count:
+  '#text': '9'
+  '@type': integer
+title: Heavy Weather
+title_without_series: Heavy Weather
+uri: kca://book/amzn1.gr.book.v3.BRtj7p-Ngbz2ERW6
+url: https://www.goodreads.com/book/show/54878006-heavy-weather
+work:
+  id: '215064896'
+  uri: kca://work/amzn1.gr.work.v3.9sY7hw8iwF50bSZp

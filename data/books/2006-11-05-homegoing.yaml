@@ -1,0 +1,744 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.87'
+    id: '22996'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1226540337p5/22996.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/22996.Frederik_Pohl
+    name: Frederik Pohl
+    ratings_count: '139321'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1226540337p2/22996.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '8374'
+average_rating: '3.38'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: Sandy Washington was a pretty normal guy. The only unusual thing about
+  him was that Sandy had been raised by aliens on their spaceship. The Hakh'hli had
+  done everything they could to give Sandy an Earth-type boyhood. Now, finally, the
+  Hakh'hli were bringing Sandy home to Earth. And while they were at it, they intended
+  to give humanity some extraordinary gifts. The Hakh'hli seemed to have Sandy's --
+  and humanity's -- best interests at heart. But the people of Earth weren't so sure
+  . . .
+edition_information: null
+format: Paperback
+id: '1417025'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358222414l/1417025._SX98_.jpg
+is_ebook: 'false'
+isbn: 034536550X
+isbn13: '9780345365507'
+json: '{"id": "1417025", "isbn": "034536550X", "isbn13": "9780345365507", "text_reviews_count":
+  {"@type": "integer", "#text": "1"}, "uri": "kca://book/amzn1.gr.book.v1.MJJJOpSRbXoTaqkjlloiHQ",
+  "title": "Homegoing", "title_without_series": "Homegoing", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358222414l/1417025._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358222414l/1417025._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/1417025.Homegoing",
+  "num_pages": "283", "format": "Paperback", "edition_information": null, "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "3.38", "ratings_count": "477", "description": "Sandy Washington
+  was a pretty normal guy. The only unusual thing about him was that Sandy had been
+  raised by aliens on their spaceship. The Hakh''hli had done everything they could
+  to give Sandy an Earth-type boyhood. Now, finally, the Hakh''hli were bringing Sandy
+  home to Earth. And while they were at it, they intended to give humanity some extraordinary
+  gifts. The Hakh''hli seemed to have Sandy''s -- and humanity''s -- best interests
+  at heart. But the people of Earth weren''t so sure . . .", "authors": {"author":
+  {"id": "22996", "name": "Frederik Pohl", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1226540337p5/22996.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1226540337p2/22996.jpg"},
+  "link": "https://www.goodreads.com/author/show/22996.Frederik_Pohl", "average_rating":
+  "3.87", "ratings_count": "139321", "text_reviews_count": "8374"}}, "published":
+  null, "work": {"id": "973999", "uri": "kca://work/amzn1.gr.work.v1.P0yG4UwyrT52po6w1HIdGQ"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417552",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B084KHSCVZ
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/1417025.Homegoing
+marketplace_id: ATVPDKIKX0DER
+num_pages: '283'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '407'
+    '@name': to-read
+  - '@count': '61'
+    '@name': science-fiction
+  - '@count': '24'
+    '@name': sci-fi
+  - '@count': '22'
+    '@name': owned
+  - '@count': '19'
+    '@name': default
+  - '@count': '19'
+    '@name': fiction
+  - '@count': '9'
+    '@name': sf
+  - '@count': '8'
+    '@name': currently-reading
+  - '@count': '8'
+    '@name': fantascienza
+  - '@count': '7'
+    '@name': scifi
+  - '@count': '6'
+    '@name': books-i-own
+  - '@count': '6'
+    '@name': urania
+  - '@count': '4'
+    '@name': unread
+  - '@count': '3'
+    '@name': sf-fantasy
+  - '@count': '3'
+    '@name': my-library
+  - '@count': '3'
+    '@name': narrativa
+  - '@count': '3'
+    '@name': fantasy
+  - '@count': '3'
+    '@name': hardcover
+  - '@count': '3'
+    '@name': science
+  - '@count': '2'
+    '@name': library
+  - '@count': '2'
+    '@name': sold
+  - '@count': '2'
+    '@name': have
+  - '@count': '2'
+    '@name': scanned-books
+  - '@count': '2'
+    '@name': physical
+  - '@count': '2'
+    '@name': owned-books
+  - '@count': '2'
+    '@name': e-books
+  - '@count': '2'
+    '@name': ebook
+  - '@count': '2'
+    '@name': bookshelf
+  - '@count': '2'
+    '@name': space
+  - '@count': '2'
+    '@name': owned-unread
+  - '@count': '2'
+    '@name': ebooks
+  - '@count': '2'
+    '@name': palermo
+  - '@count': '2'
+    '@name': frederik-pohl
+  - '@count': '2'
+    '@name': sci-fi-fantasy
+  - '@count': '2'
+    '@name': own-a-copy
+  - '@count': '2'
+    '@name': hb
+  - '@count': '1'
+    '@name': my-stuff
+  - '@count': '1'
+    '@name': sf-unread
+  - '@count': '1'
+    '@name': holding
+  - '@count': '1'
+    '@name': in-library
+  - '@count': '1'
+    '@name': fic-scifi
+  - '@count': '1'
+    '@name': 00_genre-fiction
+  - '@count': '1'
+    '@name': 00_f-bok
+  - '@count': '1'
+    '@name': 00_2-lyd
+  - '@count': '1'
+    '@name': frederick-pohl
+  - '@count': '1'
+    '@name': mia
+  - '@count': '1'
+    '@name': sffp
+  - '@count': '1'
+    '@name': digitally-own
+  - '@count': '1'
+    '@name': confirmado
+  - '@count': '1'
+    '@name': tbr-speculative-sf
+  - '@count': '1'
+    '@name': owned-unread-hc
+  - '@count': '1'
+    '@name': my-sci-fi-library
+  - '@count': '1'
+    '@name': audiobook-to-read
+  - '@count': '1'
+    '@name': dougs
+  - '@count': '1'
+    '@name': alien
+  - '@count': '1'
+    '@name': locus-sf-award
+  - '@count': '1'
+    '@name': hugo-award
+  - '@count': '1'
+    '@name': american-fiction
+  - '@count': '1'
+    '@name': '1989'
+  - '@count': '1'
+    '@name': 1980s
+  - '@count': '1'
+    '@name': owm
+  - '@count': '1'
+    '@name': tbr-shelf
+  - '@count': '1'
+    '@name': owned-physical
+  - '@count': '1'
+    '@name': to-read-maybe
+  - '@count': '1'
+    '@name': scanned
+  - '@count': '1'
+    '@name': adult
+  - '@count': '1'
+    '@name': to-be-read-owned
+  - '@count': '1'
+    '@name': writer-usa
+  - '@count': '1'
+    '@name': mark
+  - '@count': '1'
+    '@name': bkcs-viii-3rd-shelf
+  - '@count': '1'
+    '@name': published1980s
+  - '@count': '1'
+    '@name': havecopy
+  - '@count': '1'
+    '@name': fantascienza-fantasy
+  - '@count': '1'
+    '@name': x-scifi
+  - '@count': '1'
+    '@name': author-completion
+  - '@count': '1'
+    '@name': home
+  - '@count': '1'
+    '@name': delete
+  - '@count': '1'
+    '@name': e-book
+  - '@count': '1'
+    '@name': non-letto
+  - '@count': '1'
+    '@name': space-sf
+  - '@count': '1'
+    '@name': number-one
+  - '@count': '1'
+    '@name': ccw
+  - '@count': '1'
+    '@name': tbr-i-own
+  - '@count': '1'
+    '@name': sf-to-read
+  - '@count': '1'
+    '@name': romanzi
+  - '@count': '1'
+    '@name': oldh
+  - '@count': '1'
+    '@name': brown-bookcase-shelf-4
+  - '@count': '1'
+    '@name': fiction-general
+  - '@count': '1'
+    '@name': den-bookshelf
+  - '@count': '1'
+    '@name': box_010
+  - '@count': '1'
+    '@name': adult-books
+  - '@count': '1'
+    '@name': less-than-1-000-reviews
+  - '@count': '1'
+    '@name': paperbacks
+  - '@count': '1'
+    '@name': giorgio
+  - '@count': '1'
+    '@name': hardback-collection
+  - '@count': '1'
+    '@name': wantedaudio
+  - '@count': '1'
+    '@name': wantedebook
+  - '@count': '1'
+    '@name': in-de-kast
+  - '@count': '1'
+    '@name': sfbc
+  - '@count': '1'
+    '@name': fine
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '477'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417552
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/1417025.Homegoing\"\
+  >Homegoing Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=034536550X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/1417025.Homegoing?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '16667'
+        link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+        name: Isaac Asimov
+    average_rating: '3.38'
+    id: '76688'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659946439l/76688._SX98_.jpg
+    isbn: 0586062009
+    isbn13: '9780586062005'
+    link: https://www.goodreads.com/book/show/76688.Robots_and_Empire
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: '1996'
+    ratings_count: '477'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659946439l/76688._SY75_.jpg
+    title: 'Robots and Empire (Robot, #4)'
+    title_without_series: Robots and Empire
+    uri: kca://book/amzn1.gr.book.v1.NgXdCR1e8UBXoaoLb60A3Q
+    work:
+      id: '1932588'
+  - authors:
+      author:
+        id: '16667'
+        link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+        name: Isaac Asimov
+    average_rating: '3.38'
+    id: '85434'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328110000l/85434._SX98_.jpg
+    isbn: 0553293419
+    isbn13: '9780553293418'
+    link: https://www.goodreads.com/book/show/85434.The_Currents_of_Space
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '477'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328110000l/85434._SY75_.jpg
+    title: 'The Currents of Space (Galactic Empire, #2)'
+    title_without_series: The Currents of Space
+    uri: kca://book/amzn1.gr.book.v1.VVv8Qxf_CwXuMTsaB8MzyA
+    work:
+      id: '1279051'
+  - authors:
+      author:
+        id: '16667'
+        link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+        name: Isaac Asimov
+    average_rating: '3.38'
+    id: '41822'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325310236l/41822._SY160_.jpg
+    isbn: 0553293435
+    isbn13: '9780553293432'
+    link: https://www.goodreads.com/book/show/41822.The_Stars_Like_Dust
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '477'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325310236l/41822._SY75_.jpg
+    title: 'The Stars, Like Dust (Galactic Empire, #1)'
+    title_without_series: The Stars, Like Dust
+    uri: kca://book/amzn1.gr.book.v1.snBe1FOrajpMxz7JvD_aWg
+    work:
+      id: '1032075'
+  - authors:
+      author:
+        id: '16667'
+        link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+        name: Isaac Asimov
+    average_rating: '3.38'
+    id: '41820'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335782053l/41820._SY160_.jpg
+    isbn: 0553293427
+    isbn13: '9780553293425'
+    link: https://www.goodreads.com/book/show/41820.Pebble_in_the_Sky
+    num_pages: '308'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '477'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335782053l/41820._SY75_.jpg
+    title: 'Pebble in the Sky (Galactic Empire, #3)'
+    title_without_series: Pebble in the Sky
+    uri: kca://book/amzn1.gr.book.v1.BpbqWG2XeA7UpPBmqYqX4w
+    work:
+      id: '1621390'
+  - authors:
+      author:
+        id: '205'
+        link: https://www.goodreads.com/author/show/205.Robert_A_Heinlein
+        name: Robert A. Heinlein
+    average_rating: '3.38'
+    id: '50856'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0765312220'
+    isbn13: '9780765312228'
+    link: https://www.goodreads.com/book/show/50856.Glory_Road
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '477'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Glory Road
+    title_without_series: Glory Road
+    uri: kca://book/amzn1.gr.book.v1.WuIfYd-c3ed8ngHbplKqDA
+    work:
+      id: '1862679'
+  - authors:
+      author:
+        id: '4763'
+        link: https://www.goodreads.com/author/show/4763.John_Scalzi
+        name: John Scalzi
+    average_rating: '3.38'
+    id: '55291869'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1599753317l/55291869._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/55291869-murder-by-other-means
+    num_pages: '4'
+    publication_day: '10'
+    publication_month: '9'
+    publication_year: '2020'
+    ratings_count: '477'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1599753317l/55291869._SX50_.jpg
+    title: 'Murder by Other Means (The Dispatcher, #2)'
+    title_without_series: Murder by Other Means
+    uri: kca://book/amzn1.gr.book.v3.2d7qOpwRtYMFsYaE
+    work:
+      id: '86224223'
+  - authors:
+      author:
+        id: '3087199'
+        link: https://www.goodreads.com/author/show/3087199.A_G_Riddle
+        name: A.G. Riddle
+    average_rating: '3.38'
+    id: '64415236'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/64415236-quantum-radio
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '477'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Quantum Radio
+    title_without_series: Quantum Radio
+    uri: kca://book/amzn1.gr.book.v3.AQHuOeYqzc3ZQaqN
+    work:
+      id: '91704260'
+  - authors:
+      author:
+        id: '17650479'
+        link: https://www.goodreads.com/author/show/17650479.Becky_Chambers
+        name: Becky  Chambers
+    average_rating: '3.38'
+    id: '29475447'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457598923l/29475447._SX98_.jpg
+    isbn: '1473621445'
+    isbn13: '9781473621442'
+    link: https://www.goodreads.com/book/show/29475447-a-closed-and-common-orbit
+    num_pages: '365'
+    publication_day: '20'
+    publication_month: '10'
+    publication_year: '2016'
+    ratings_count: '477'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457598923l/29475447._SY75_.jpg
+    title: 'A Closed and Common Orbit (Wayfarers, #2)'
+    title_without_series: A Closed and Common Orbit
+    uri: kca://book/amzn1.gr.book.v1.G9aQpSKnh0heqZeoJJXnJQ
+    work:
+      id: '48620653'
+  - authors:
+      author:
+        id: '130698'
+        link: https://www.goodreads.com/author/show/130698.Ted_Chiang
+        name: Ted Chiang
+    average_rating: '3.38'
+    id: '41160292'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/41160292-exhalation
+    num_pages: '368'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '477'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Exhalation
+    title_without_series: Exhalation
+    uri: kca://book/amzn1.gr.book.v1.rdRpMI_c2rg5WxzUEwp5Mw
+    work:
+      id: '64336454'
+  - authors:
+      author:
+        id: '23012'
+        link: https://www.goodreads.com/author/show/23012.Clifford_D_Simak
+        name: Clifford D. Simak
+    average_rating: '3.38'
+    id: '876499'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298817851l/876499._SY160_.jpg
+    isbn: 0441810039
+    isbn13: '9780441810031'
+    link: https://www.goodreads.com/book/show/876499.Time_and_Again
+    num_pages: '303'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '477'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298817851l/876499._SY75_.jpg
+    title: Time and Again
+    title_without_series: Time and Again
+    uri: kca://book/amzn1.gr.book.v1.4gO3N8mLN-Gx2RvgXD82QQ
+    work:
+      id: '342347'
+  - authors:
+      author:
+        id: '14078'
+        link: https://www.goodreads.com/author/show/14078.David_Brin
+        name: David Brin
+    average_rating: '3.38'
+    id: '234489'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375272637l/234489._SY160_.jpg
+    isbn: 0553279718
+    isbn13: '9780553279719'
+    link: https://www.goodreads.com/book/show/234489.The_Uplift_War
+    num_pages: '638'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '477'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375272637l/234489._SY75_.jpg
+    title: 'The Uplift War (The Uplift Saga, #3)'
+    title_without_series: The Uplift War
+    uri: kca://book/amzn1.gr.book.v1.Qe0f8ScDMXX0te-RwV6Kag
+    work:
+      id: '98235'
+  - authors:
+      author:
+        id: '14078'
+        link: https://www.goodreads.com/author/show/14078.David_Brin
+        name: David Brin
+    average_rating: '3.38'
+    id: '234501'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476445711l/234501._SY160_.jpg
+    isbn: 055327418X
+    isbn13: '9780553274189'
+    link: https://www.goodreads.com/book/show/234501.Startide_Rising
+    num_pages: '458'
+    publication_day: '1'
+    publication_month: '9'
+    publication_year: '1983'
+    ratings_count: '477'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476445711l/234501._SY75_.jpg
+    title: 'Startide Rising (The Uplift Saga, #2)'
+    title_without_series: Startide Rising
+    uri: kca://book/amzn1.gr.book.v1.-udcgKUX5bzo1fbGJaj1lQ
+    work:
+      id: '251634'
+  - authors:
+      author:
+        id: '874602'
+        link: https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin
+        name: Ursula K. Le Guin
+    average_rating: '3.38'
+    id: '59924'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433084322l/59924._SX98_.jpg
+    isbn: '0060512741'
+    isbn13: '9780060512743'
+    link: https://www.goodreads.com/book/show/59924.The_Lathe_of_Heaven
+    num_pages: '176'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '477'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433084322l/59924._SX50_.jpg
+    title: The Lathe of Heaven
+    title_without_series: The Lathe of Heaven
+    uri: kca://book/amzn1.gr.book.v1.3QcF73V2Krce1Cb4hufwiw
+    work:
+      id: '425872'
+  - authors:
+      author:
+        id: '16667'
+        link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+        name: Isaac Asimov
+    average_rating: '3.38'
+    id: '41811'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335782224l/41811._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/41811.The_Caves_of_Steel
+    num_pages: '206'
+    publication_day: null
+    publication_month: null
+    publication_year: '1997'
+    ratings_count: '477'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335782224l/41811._SY75_.jpg
+    title: 'The Caves of Steel (Robot, #1)'
+    title_without_series: The Caves of Steel
+    uri: kca://book/amzn1.gr.book.v1.gIg7GOhzZLzWSNPXqE33gQ
+    work:
+      id: '140376'
+  - authors:
+      author:
+        id: '12534'
+        link: https://www.goodreads.com/author/show/12534.Larry_Niven
+        name: Larry Niven
+    average_rating: '3.38'
+    id: '100369'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0671826581
+    isbn13: '9780671826581'
+    link: https://www.goodreads.com/book/show/100369.Inferno
+    num_pages: '237'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '477'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Inferno (Inferno, #1)'
+    title_without_series: Inferno
+    uri: kca://book/amzn1.gr.book.v1.XssF5J3ZSdpbFA9jXBhZ0A
+    work:
+      id: '2015541'
+  - authors:
+      author:
+        id: '5091'
+        link: https://www.goodreads.com/author/show/5091.Lee_Child
+        name: Lee Child
+    average_rating: '3.38'
+    id: '33378951'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489630986l/33378951._SX98_.jpg
+    isbn: 0399593489
+    isbn13: '9780399593482'
+    link: https://www.goodreads.com/book/show/33378951-the-midnight-line
+    num_pages: '368'
+    publication_day: '7'
+    publication_month: '11'
+    publication_year: '2017'
+    ratings_count: '477'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489630986l/33378951._SY75_.jpg
+    title: 'The Midnight Line (Jack Reacher, #22)'
+    title_without_series: The Midnight Line
+    uri: kca://book/amzn1.gr.book.v1.L2pbPufJXPNSgl4lCG8ogg
+    work:
+      id: '54120408'
+  - authors:
+      author:
+        id: '5091'
+        link: https://www.goodreads.com/author/show/5091.Lee_Child
+        name: Lee Child
+    average_rating: '3.38'
+    id: '23664710'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467905395l/23664710._SX98_.jpg
+    isbn: 0593073894
+    isbn13: '9780593073896'
+    link: https://www.goodreads.com/book/show/23664710-make-me
+    num_pages: null
+    publication_day: '8'
+    publication_month: '9'
+    publication_year: '2015'
+    ratings_count: '477'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467905395l/23664710._SY75_.jpg
+    title: 'Make Me (Jack Reacher, #20)'
+    title_without_series: Make Me
+    uri: kca://book/amzn1.gr.book.v1.MiDiXuzWNxCedRD7nEnLdw
+    work:
+      id: '43272201'
+  - authors:
+      author:
+        id: '7779'
+        link: https://www.goodreads.com/author/show/7779.Arthur_C_Clarke
+        name: Arthur C. Clarke
+    average_rating: '3.38'
+    id: '414999'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320552628l/414999._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/414999.Childhood_s_End
+    num_pages: '224'
+    publication_day: '12'
+    publication_month: '5'
+    publication_year: '1987'
+    ratings_count: '477'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320552628l/414999._SY75_.jpg
+    title: "Childhood\u2019s End"
+    title_without_series: "Childhood\u2019s End"
+    uri: kca://book/amzn1.gr.book.v1.NkBnzKp3gs-V7RVPx1-LiA
+    work:
+      id: '209414'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358222414l/1417025._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '1'
+  '@type': integer
+title: Homegoing
+title_without_series: Homegoing
+uri: kca://book/amzn1.gr.book.v1.MJJJOpSRbXoTaqkjlloiHQ
+url: https://www.goodreads.com/book/show/1417025.Homegoing
+work:
+  id: '973999'
+  uri: kca://work/amzn1.gr.work.v1.P0yG4UwyrT52po6w1HIdGQ

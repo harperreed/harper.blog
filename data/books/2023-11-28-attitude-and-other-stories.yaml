@@ -1,0 +1,550 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.85'
+    id: '578581'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1545180307p5/578581.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/578581.Linda_Nagata
+    name: Linda Nagata
+    ratings_count: '20287'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1545180307p2/578581.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '2148'
+average_rating: '4.33'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2023-11-28T00:00:00-08:00'
+description: null
+edition_information: null
+format: null
+id: '61445466'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn: '1937197433'
+isbn13: '9781937197438'
+json: '{"id": "61445466", "isbn": "1937197433", "isbn13": "9781937197438", "text_reviews_count":
+  {"@type": "integer", "#text": "0"}, "uri": "kca://book/amzn1.gr.book.v3.YYR9HxzHp0O5Txry",
+  "title": "Attitude and Other Stories", "title_without_series": "Attitude and Other
+  Stories", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/61445466-attitude-and-other-stories",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "4.33", "ratings_count": "12", "description": null, "authors": {"author": {"id":
+  "578581", "name": "Linda Nagata", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1545180307p5/578581.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1545180307p2/578581.jpg"},
+  "link": "https://www.goodreads.com/author/show/578581.Linda_Nagata", "average_rating":
+  "3.85", "ratings_count": "20287", "text_reviews_count": "2148"}}, "published": null,
+  "work": {"id": "96988842", "uri": "kca://work/amzn1.gr.work.v3.DDORa0Tz_VvJ3z3G"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/6008654466",
+  "read_at": "Tue Nov 28 00:00:00 -0800 2023", "started_at": "", "date": "Tue Nov
+  28 00:00:00 -0800 2023"}'
+kindle_asin: B0B4GV7TRF
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/61445466-attitude-and-other-stories
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '7'
+    '@name': to-read
+  - '@count': '1'
+    '@name': sci-fi-fantasy
+  - '@count': '1'
+    '@name': collections
+  - '@count': '1'
+    '@name': fiction
+  - '@count': '1'
+    '@name': currently-reading
+  - '@count': '1'
+    '@name': short-stories
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '12'
+read_at: '2023-11-28T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/6008654466
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/61445466-attitude-and-other-stories\"\
+  >Attitude and Other Stories Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1937197433&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/61445466-attitude-and-other-stories?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '47155824'
+        link: https://www.goodreads.com/author/show/47155824.Paul_Dixon
+        name: Paul   Dixon
+    average_rating: '4.33'
+    id: '199222725'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/199222725-carpathians
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Carpathians
+    title_without_series: Carpathians
+    uri: kca://book/amzn1.gr.book.v3.c6m9SFC2miFKxh3e
+    work:
+      id: '203155472'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.33'
+    id: '201930181'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SX98_.jpg
+    isbn: 031652557X
+    isbn13: '9780316525572'
+    link: https://www.goodreads.com/book/show/201930181-the-mercy-of-gods
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SY75_.jpg
+    title: "The Mercy of Gods (The Captive\u2019s War, #1)"
+    title_without_series: The Mercy of Gods
+    uri: kca://book/amzn1.gr.book.v3.nndIiP3mF2vHLfgz
+    work:
+      id: '95320019'
+  - authors:
+      author:
+        id: '1442754'
+        link: https://www.goodreads.com/author/show/1442754.Gary_Gibson
+        name: Gary Gibson
+    average_rating: '4.33'
+    id: '196753819'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710686088l/196753819._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/196753819-europa-deep
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710686088l/196753819._SY75_.jpg
+    title: Europa Deep
+    title_without_series: Europa Deep
+    uri: kca://book/amzn1.gr.book.v3.3anogZTHk6x1oNNy
+    work:
+      id: '199021192'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.33'
+    id: '215760525'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724079438l/215760525._SX98_.jpg
+    isbn: 0316575348
+    isbn13: '9780316575348'
+    link: https://www.goodreads.com/book/show/215760525-livesuit
+    num_pages: '90'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724079438l/215760525._SY75_.jpg
+    title: "Livesuit (The Captive\u2019s War #1.5)"
+    title_without_series: Livesuit
+    uri: kca://book/amzn1.gr.book.v3.Rr7d-BxEjSsqm-t3
+    work:
+      id: '222176366'
+  - authors:
+      author:
+        id: '5252525'
+        link: https://www.goodreads.com/author/show/5252525.Peter_Cawdron
+        name: Peter Cawdron
+    average_rating: '4.33'
+    id: '213896563'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/213896563-the-simulacrum
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Simulacrum (First Contact)
+    title_without_series: The Simulacrum
+    uri: kca://book/amzn1.gr.book.v3.44rTjvku62wWe4iD
+    work:
+      id: '220156577'
+  - authors:
+      author:
+        id: '5252525'
+        link: https://www.goodreads.com/author/show/5252525.Peter_Cawdron
+        name: Peter Cawdron
+    average_rating: '4.33'
+    id: '148194724'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/148194724-the-art-of-war
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Art of War
+    title_without_series: The Art of War
+    uri: kca://book/amzn1.gr.book.v3.3VO35kHfLbWdHrAZ
+    work:
+      id: '163180759'
+  - authors:
+      author:
+        id: '5252525'
+        link: https://www.goodreads.com/author/show/5252525.Peter_Cawdron
+        name: Peter Cawdron
+    average_rating: '4.33'
+    id: '198626398'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/198626398-ghosts
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Ghosts
+    title_without_series: Ghosts
+    uri: kca://book/amzn1.gr.book.v3.i69yN92U3lKHU0qJ
+    work:
+      id: '201689873'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.33'
+    id: '195790861'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698554344l/195790861._SX98_.jpg
+    isbn: '1250290287'
+    isbn13: '9781250290281'
+    link: https://www.goodreads.com/book/show/195790861-service-model
+    num_pages: '376'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698554344l/195790861._SY75_.jpg
+    title: Service Model
+    title_without_series: Service Model
+    uri: kca://book/amzn1.gr.book.v3.BUtNnpSh6EMDHugG
+    work:
+      id: '197724648'
+  - authors:
+      author:
+        id: '7177350'
+        link: https://www.goodreads.com/author/show/7177350.M_R_Carey
+        name: M.R. Carey
+    average_rating: '4.33'
+    id: '181031840'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695835425l/181031840._SX98_.jpg
+    isbn: 035651806X
+    isbn13: '9780356518060'
+    link: https://www.goodreads.com/book/show/181031840-echo-of-worlds
+    num_pages: '496'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695835425l/181031840._SY75_.jpg
+    title: 'Echo of Worlds (Pandominion, #2)'
+    title_without_series: Echo of Worlds
+    uri: kca://book/amzn1.gr.book.v3.l1GbWqQButI61lSM
+    work:
+      id: '185992364'
+  - authors:
+      author:
+        id: '20295'
+        link: https://www.goodreads.com/author/show/20295.Stephen_Baxter
+        name: Stephen Baxter
+    average_rating: '4.33'
+    id: '45276063'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1473223202'
+    isbn13: '9781473223202'
+    link: https://www.goodreads.com/book/show/45276063-world-engines
+    num_pages: '447'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'World Engines: Destroyer: A post climate change high concept science fiction
+      odyssey'
+    title_without_series: 'World Engines: Destroyer: A post climate change high concept
+      science fiction odyssey'
+    uri: kca://book/amzn1.gr.book.v1.Tf3DEKx3D2so4BR10t-LsQ
+    work:
+      id: '69985019'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.33'
+    id: '150254281'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1694565383l/150254281._SX98_.jpg
+    isbn: '1035901382'
+    isbn13: '9781035901388'
+    link: https://www.goodreads.com/book/show/150254281-house-of-open-wounds
+    num_pages: '608'
+    publication_day: '7'
+    publication_month: '12'
+    publication_year: '2023'
+    ratings_count: '12'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1694565383l/150254281._SY75_.jpg
+    title: 'House of Open Wounds (The Tyrant Philosophers, #2)'
+    title_without_series: House of Open Wounds
+    uri: kca://book/amzn1.gr.book.v3.t2uQDvZlJ_07HUYj
+    work:
+      id: '165136388'
+  - authors:
+      author:
+        id: '56353'
+        link: https://www.goodreads.com/author/show/56353.Neal_Asher
+        name: Neal Asher
+    average_rating: '4.33'
+    id: '137502835'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/137502835-fantastical
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Fantastical
+    title_without_series: Fantastical
+    uri: kca://book/amzn1.gr.book.v3.Jt7j01sWy85Q1hlx
+    work:
+      id: '153763741'
+  - authors:
+      author:
+        id: '38550'
+        link: https://www.goodreads.com/author/show/38550.Brandon_Sanderson
+        name: Brandon Sanderson
+    average_rating: '4.33'
+    id: '60531420'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696146860l/60531420._SX98_.jpg
+    isbn: '1938570391'
+    isbn13: '9781938570391'
+    link: https://www.goodreads.com/book/show/60531420-the-sunlit-man
+    num_pages: '447'
+    publication_day: '1'
+    publication_month: '10'
+    publication_year: '2023'
+    ratings_count: '12'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696146860l/60531420._SY75_.jpg
+    title: The Sunlit Man
+    title_without_series: The Sunlit Man
+    uri: kca://book/amzn1.gr.book.v3.jr6Mm06epxcOys6N
+    work:
+      id: '95396333'
+  - authors:
+      author:
+        id: '38550'
+        link: https://www.goodreads.com/author/show/38550.Brandon_Sanderson
+        name: Brandon Sanderson
+    average_rating: '4.33'
+    id: '60531410'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680535465l/60531410._SX98_.jpg
+    isbn: '1938570332'
+    isbn13: '9781938570339'
+    link: https://www.goodreads.com/book/show/60531410-the-frugal-wizard-s-handbook-for-surviving-medieval-england
+    num_pages: '399'
+    publication_day: '11'
+    publication_month: '4'
+    publication_year: '2023'
+    ratings_count: '12'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680535465l/60531410._SY75_.jpg
+    title: "The Frugal Wizard\u2019s Handbook for Surviving Medieval England (Secret\
+      \ Projects, #2)"
+    title_without_series: "The Frugal Wizard\u2019s Handbook for Surviving Medieval\
+      \ England"
+    uri: kca://book/amzn1.gr.book.v3.T_SUFAPvt_-t5RFB
+    work:
+      id: '95396314'
+  - authors:
+      author:
+        id: '6606349'
+        link: https://www.goodreads.com/author/show/6606349.Marko_Kloos
+        name: Marko Kloos
+    average_rating: '4.33'
+    id: '201155269'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712005842l/201155269._SX98_.jpg
+    isbn: 154203616X
+    isbn13: '9781542036160'
+    link: https://www.goodreads.com/book/show/201155269-descent
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712005842l/201155269._SY75_.jpg
+    title: 'Descent (The Palladium Wars, #4)'
+    title_without_series: Descent
+    uri: kca://book/amzn1.gr.book.v3.0T-jahxqLBj9fiMN
+    work:
+      id: '206045498'
+  - authors:
+      author:
+        id: '56353'
+        link: https://www.goodreads.com/author/show/56353.Neal_Asher
+        name: Neal Asher
+    average_rating: '4.33'
+    id: '204210779'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/204210779-jenny-trapdoor
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Jenny Trapdoor
+    title_without_series: Jenny Trapdoor
+    uri: kca://book/amzn1.gr.book.v3.CZ4P9JWtgYlXQh2I
+    work:
+      id: '210077458'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.33'
+    id: '20491017'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389177332l/20491017._SX98_.jpg
+    isbn: '0230770010'
+    isbn13: '9780230770010'
+    link: https://www.goodreads.com/book/show/20491017-seal-of-the-worm
+    num_pages: '614'
+    publication_day: '3'
+    publication_month: '7'
+    publication_year: '2014'
+    ratings_count: '12'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389177332l/20491017._SY75_.jpg
+    title: 'Seal of the Worm (Shadows of the Apt, #10)'
+    title_without_series: Seal of the Worm
+    uri: kca://book/amzn1.gr.book.v1.P7fFeEC9oSpB1kX4c_hIeQ
+    work:
+      id: '33158120'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.33'
+    id: '25499718'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431014197l/25499718._SX98_.jpg
+    isbn: '1447273281'
+    isbn13: '9781447273288'
+    link: https://www.goodreads.com/book/show/25499718-children-of-time
+    num_pages: '608'
+    publication_day: '4'
+    publication_month: '6'
+    publication_year: '2015'
+    ratings_count: '12'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431014197l/25499718._SY75_.jpg
+    title: 'Children of Time (Children of Time, #1)'
+    title_without_series: Children of Time
+    uri: kca://book/amzn1.gr.book.v1.JYzNnVpVL-Ry_RX9QJeEwA
+    work:
+      id: '45276208'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '0'
+  '@type': integer
+title: Attitude and Other Stories
+title_without_series: Attitude and Other Stories
+uri: kca://book/amzn1.gr.book.v3.YYR9HxzHp0O5Txry
+url: https://www.goodreads.com/book/show/61445466-attitude-and-other-stories
+work:
+  id: '96988842'
+  uri: kca://work/amzn1.gr.work.v3.DDORa0Tz_VvJ3z3G

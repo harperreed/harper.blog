@@ -1,0 +1,798 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.91'
+    id: '12534'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1596428206p5/12534.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/12534.Larry_Niven
+    name: Larry Niven
+    ratings_count: '517023'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1596428206p2/12534.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '19756'
+average_rating: '3.55'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: Excellent Book
+edition_information: 1st, First Edition
+format: null
+id: '61177'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460170223l/61177._SX98_.jpg
+is_ebook: 'false'
+isbn: 0345358619
+isbn13: '9780345358615'
+json: '{"id": "61177", "isbn": "0345358619", "isbn13": "9780345358615", "text_reviews_count":
+  {"@type": "integer", "#text": "11"}, "uri": "kca://book/amzn1.gr.book.v1.pCOQ11ybTXvdciMhK955kA",
+  "title": "The Ringworld Throne (Ringworld, #3)", "title_without_series": "The Ringworld
+  Throne", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460170223l/61177._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460170223l/61177._SX50_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/61177.The_Ringworld_Throne",
+  "num_pages": null, "format": null, "edition_information": "1st, First Edition",
+  "publisher": "Random House", "publication_day": "3", "publication_year": "1996",
+  "publication_month": "6", "average_rating": "3.55", "ratings_count": "11504", "description":
+  "Excellent Book", "authors": {"author": {"id": "12534", "name": "Larry Niven", "role":
+  null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1596428206p5/12534.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1596428206p2/12534.jpg"},
+  "link": "https://www.goodreads.com/author/show/12534.Larry_Niven", "average_rating":
+  "3.91", "ratings_count": "517023", "text_reviews_count": "19756"}}, "published":
+  "1996", "work": {"id": "59500", "uri": "kca://work/amzn1.gr.work.v1.EBotYL7avjm7QEPFoacd_A"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/12429107",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: 0345358619
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/61177.The_Ringworld_Throne
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '5274'
+    '@name': to-read
+  - '@count': '566'
+    '@name': science-fiction
+  - '@count': '353'
+    '@name': sci-fi
+  - '@count': '157'
+    '@name': fiction
+  - '@count': '140'
+    '@name': owned
+  - '@count': '134'
+    '@name': currently-reading
+  - '@count': '127'
+    '@name': scifi
+  - '@count': '92'
+    '@name': default
+  - '@count': '58'
+    '@name': sf
+  - '@count': '44'
+    '@name': fantasy
+  - '@count': '35'
+    '@name': ringworld
+  - '@count': '34'
+    '@name': larry-niven
+  - '@count': '31'
+    '@name': space-opera
+  - '@count': '26'
+    '@name': audiobooks
+  - '@count': '25'
+    '@name': science
+  - '@count': '25'
+    '@name': sci-fi-fantasy
+  - '@count': '24'
+    '@name': known-space
+  - '@count': '23'
+    '@name': audiobook
+  - '@count': '23'
+    '@name': books-i-own
+  - '@count': '22'
+    '@name': ebook
+  - '@count': '21'
+    '@name': library
+  - '@count': '19'
+    '@name': ebooks
+  - '@count': '18'
+    '@name': calibre
+  - '@count': '17'
+    '@name': series
+  - '@count': '17'
+    '@name': adventure
+  - '@count': '15'
+    '@name': my-library
+  - '@count': '14'
+    '@name': audio
+  - '@count': '14'
+    '@name': my-books
+  - '@count': '14'
+    '@name': paperback
+  - '@count': '13'
+    '@name': aliens
+  - '@count': '13'
+    '@name': scifi-fantasy
+  - '@count': '12'
+    '@name': space
+  - '@count': '11'
+    '@name': abandoned
+  - '@count': '11'
+    '@name': general
+  - '@count': '11'
+    '@name': to-buy
+  - '@count': '10'
+    '@name': have
+  - '@count': '10'
+    '@name': speculative-fiction
+  - '@count': '10'
+    '@name': tech
+  - '@count': '10'
+    '@name': high
+  - '@count': '10'
+    '@name': kindle
+  - '@count': '10'
+    '@name': niven
+  - '@count': '9'
+    '@name': audible
+  - '@count': '9'
+    '@name': sf-fantasy
+  - '@count': '9'
+    '@name': hard-sf
+  - '@count': '9'
+    '@name': "ciencia-ficci\xF3n"
+  - '@count': '9'
+    '@name': science-fiction-fantasy
+  - '@count': '9'
+    '@name': sciencefiction
+  - '@count': '8'
+    '@name': unread
+  - '@count': '8'
+    '@name': place
+  - '@count': '8'
+    '@name': imaginary
+  - '@count': '8'
+    '@name': ciencia-ficcion
+  - '@count': '8'
+    '@name': novels
+  - '@count': '7'
+    '@name': dnf
+  - '@count': '7'
+    '@name': favorites
+  - '@count': '7'
+    '@name': fantascienza
+  - '@count': '7'
+    '@name': owned-books
+  - '@count': '7'
+    '@name': niven-larry
+  - '@count': '7'
+    '@name': series-ringworld
+  - '@count': '6'
+    '@name': physical
+  - '@count': '6'
+    '@name': 1990s
+  - '@count': '6'
+    '@name': e-books
+  - '@count': '6'
+    '@name': home
+  - '@count': '6'
+    '@name': novel
+  - '@count': '6'
+    '@name': science-fiction-and-fantasy
+  - '@count': '6'
+    '@name': fantasy-sci-fi
+  - '@count': '5'
+    '@name': books
+  - '@count': '5'
+    '@name': owned-unread
+  - '@count': '5'
+    '@name': e-book
+  - '@count': '5'
+    '@name': audio-book
+  - '@count': '4'
+    '@name': chirp
+  - '@count': '4'
+    '@name': genre-science-fiction
+  - '@count': '4'
+    '@name': gave-up-on
+  - '@count': '4'
+    '@name': physical-books
+  - '@count': '4'
+    '@name': donated
+  - '@count': '4'
+    '@name': in-my-library
+  - '@count': '4'
+    '@name': '1'
+  - '@count': '4'
+    '@name': digital
+  - '@count': '4'
+    '@name': sci-fi-to-read
+  - '@count': '4'
+    '@name': fiction-sci-fi
+  - '@count': '4'
+    '@name': hard-sci-fi
+  - '@count': '4'
+    '@name': literature
+  - '@count': '4'
+    '@name': sff
+  - '@count': '4'
+    '@name': hardcover
+  - '@count': '3'
+    '@name': humble-bundle
+  - '@count': '3'
+    '@name': didn-t-finish
+  - '@count': '3'
+    '@name': biblioteca
+  - '@count': '3'
+    '@name': tbr
+  - '@count': '3'
+    '@name': to-be-read
+  - '@count': '3'
+    '@name': owned-physical
+  - '@count': '3'
+    '@name': audio_wanted
+  - '@count': '3'
+    '@name': alien
+  - '@count': '3'
+    '@name': downloaded
+  - '@count': '3'
+    '@name': hard-scifi
+  - '@count': '3'
+    '@name': backlog
+  - '@count': '3'
+    '@name': paper
+  - '@count': '3'
+    '@name': ringworld-series
+  - '@count': '3'
+    '@name': pdf
+  - '@count': '3'
+    '@name': '1996'
+  - '@count': '3'
+    '@name': on-kindle
+  - '@count': '3'
+    '@name': personal-library
+publication_day: '3'
+publication_month: '6'
+publication_year: '1996'
+published: '1996'
+publisher: Random House
+ratings_count: '11504'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/12429107
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/61177.The_Ringworld_Throne\"\
+  >The Ringworld Throne Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0345358619&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/61177.The_Ringworld_Throne?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+  - id: '187314'
+    series:
+      description: "This is a sub-series of Larry Niven's Known Space universe and\
+        \ eventually merges with the Fleet of Worlds series.\n    \n    <i><b>Fate\
+        \ of Worlds</b></i> is the fifth and final book in both the <b>Ringworld</b>\
+        \ series <b>AND</b> the fifth and final book in the <a href=\"https://www.goodreads.com/series/58169-fleet-of-worlds\"\
+        ><b>Fleet of Worlds</b></a> series.  It must therefore be read <b>AFTER</b>\
+        \ the four Ringworld titles and <b>AFTER</b> the four Fleet of Worlds titles.\n\
+        \    \n    Each book in the series is a whole story with a beginning and an\
+        \ ending, however the plot of each book relies <b>very</b> heavily on the\
+        \ prior books in the series.\n    \n    <a href=\"https://www.goodreads.com/series/132305-ringworld-the-graphic-novel\"\
+        >Ringworld: The Graphic series </a>"
+      id: '50225'
+      note: null
+      numbered: 'true'
+      primary_work_count: '5'
+      series_works_count: '6'
+      title: Ringworld
+    user_position: '3'
+  - id: '187283'
+    series:
+      description: "A series of short stories and novels charting the expansion of\
+        \ mankind through space over millenia.\n    \n    Although the Known Space\
+        \ universe has a well defined chronology, most of the stories can be read\
+        \ independently. The major exception being the <i>Ringworld</i> and <i>Fleet\
+        \ of Worlds</i> sub-series, which are best read in order.\n    \n    Also,\
+        \ <i><b>Fate of Worlds</b></i> is the fifth and final book in both the <b>Ringword</b>\
+        \ series <b>AND</b> in the <b>Fleet of Worlds</b> series.  It <b>must</b>\
+        \ therefore be read <b>AFTER</b> the four Ringword titles and the four Fleet\
+        \ of Worlds titles.\n    \n    See also:\n    <a href=\"https://www.goodreads.com/series/50225-ringworld\"\
+        >Ringworld Series</a>\n    <a href=\"https://www.goodreads.com/series/58169-fleet-of-worlds\"\
+        >Fleet of Worlds series</a>"
+      id: '50222'
+      note: "Added Fate of Worlds: Return from the Ringworld.  Updated description.\n\
+        \    \n    Removed Man Kzin books from primary.  They are not by Niven and\
+        \ there is much argument about how much is canon.  This Wikipedia page http://en.wikipedia.org/wiki/Man-Kzin_Wars#Canonicity\
+        \ offers a good summary."
+      numbered: 'false'
+      primary_work_count: '18'
+      series_works_count: '34'
+      title: Known Space
+    user_position: null
+  - id: '1916380'
+    series:
+      description: "Notes:\n    [book:The Borderlands of Sol|6037551] is included\
+        \ in [book:Tales of Knowns Space|100359], but is <i>not</i> included in [book:Three\
+        \ Books of Known Space|100346]."
+      id: '336221'
+      note: null
+      numbered: 'true'
+      primary_work_count: '39'
+      series_works_count: '51'
+      title: Known Space (Publication Order)
+    user_position: null
+  - id: '1916428'
+    series:
+      description: null
+      id: '336229'
+      note: null
+      numbered: 'true'
+      primary_work_count: '9'
+      series_works_count: '9'
+      title: Ringworld and Before the Discovery of Ringworld
+    user_position: '3'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '14407836'
+        link: https://www.goodreads.com/author/show/14407836.A_R_Merrydew
+        name: A.R. Merrydew
+    average_rating: '3.55'
+    id: '215186841'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/215186841-inara
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11504'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Inara (Godfrey Davis, #3)'
+    title_without_series: Inara
+    uri: kca://book/amzn1.gr.book.v3.wCOHuKhf0nZUkB2e
+    work:
+      id: '221595685'
+  - authors:
+      author:
+        id: '7448339'
+        link: https://www.goodreads.com/author/show/7448339.Steven_Decker
+        name: Steven Decker
+    average_rating: '3.55'
+    id: '200923963'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698512599l/200923963._SX98_.jpg
+    isbn: null
+    isbn13: '9798987394014'
+    link: https://www.goodreads.com/book/show/200923963-child-of-another-kind
+    num_pages: '392'
+    publication_day: '18'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '11504'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698512599l/200923963._SY75_.jpg
+    title: 'Child of Another Kind (Another Kind #1)'
+    title_without_series: Child of Another Kind
+    uri: kca://book/amzn1.gr.book.v3.cpxUKP4J15at4iaw
+    work:
+      id: '144050375'
+  - authors:
+      author:
+        id: '10089'
+        link: https://www.goodreads.com/author/show/10089.Philip_Jos_Farmer
+        name: "Philip Jos\xE9 Farmer"
+    average_rating: '3.55'
+    id: '16536'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0345419685
+    isbn13: '9780345419682'
+    link: https://www.goodreads.com/book/show/16536.The_Fabulous_Riverboat
+    num_pages: '231'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11504'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Fabulous Riverboat (Riverworld #2)'
+    title_without_series: The Fabulous Riverboat
+    uri: kca://book/amzn1.gr.book.v1.Cwt1JqafUfMTuPmmHaP1Ww
+    work:
+      id: '18220'
+  - authors:
+      author:
+        id: '5807106'
+        link: https://www.goodreads.com/author/show/5807106.Iain_M_Banks
+        name: Iain M. Banks
+    average_rating: '3.55'
+    id: '12015'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330098070l/12015._SY160_.jpg
+    isbn: 0553573586
+    isbn13: '9780553573589'
+    link: https://www.goodreads.com/book/show/12015.Feersum_Endjinn
+    num_pages: '311'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11504'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330098070l/12015._SY75_.jpg
+    title: Feersum Endjinn
+    title_without_series: Feersum Endjinn
+    uri: kca://book/amzn1.gr.book.v1.Hy2cVNkkGTMt3kUac6RYeA
+    work:
+      id: '851516'
+  - authors:
+      author:
+        id: '22565447'
+        link: https://www.goodreads.com/author/show/22565447.Therisa_Peimer
+        name: Therisa Peimer
+    average_rating: '3.55'
+    id: '61608233'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658244114l/61608233._SX98_.jpg
+    isbn: '1039125611'
+    isbn13: '9781039125612'
+    link: https://www.goodreads.com/book/show/61608233-taming-flame
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11504'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658244114l/61608233._SX50_.jpg
+    title: Taming Flame
+    title_without_series: Taming Flame
+    uri: kca://book/amzn1.gr.book.v3.clKIDY7JJdvmz7KB
+    work:
+      id: '97169008'
+  - authors:
+      author:
+        id: '5752454'
+        link: https://www.goodreads.com/author/show/5752454.Robert_Shea
+        name: Robert Shea
+    average_rating: '3.55'
+    id: '57913'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0440539811
+    isbn13: '9780440539810'
+    link: https://www.goodreads.com/book/show/57913.The_Illuminatus_Trilogy
+    num_pages: '805'
+    publication_day: null
+    publication_month: '12'
+    publication_year: '1983'
+    ratings_count: '11504'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Illuminatus! Trilogy
+    title_without_series: The Illuminatus! Trilogy
+    uri: kca://book/amzn1.gr.book.v1.GbZtd0B4o0SolfiNz4nNig
+    work:
+      id: '813'
+  - authors:
+      author:
+        id: '2768002'
+        link: https://www.goodreads.com/author/show/2768002.Hannu_Rajaniemi
+        name: Hannu Rajaniemi
+    average_rating: '3.55'
+    id: '12074927'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/12074927-the-fractal-prince
+    num_pages: '320'
+    publication_day: '27'
+    publication_month: '9'
+    publication_year: '2012'
+    ratings_count: '11504'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Fractal Prince (Jean le Flambeur, #2)'
+    title_without_series: The Fractal Prince
+    uri: kca://book/amzn1.gr.book.v1.Bmx9p9jljTaCW34TbNnm2w
+    work:
+      id: '17042640'
+  - authors:
+      author:
+        id: '7415'
+        link: https://www.goodreads.com/author/show/7415.Harlan_Ellison
+        name: Harlan Ellison
+    average_rating: '3.55'
+    id: '600349'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617921084l/600349._SX98_.jpg
+    isbn: '0743452615'
+    isbn13: '9780743452618'
+    link: https://www.goodreads.com/book/show/600349.Dangerous_Visions
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11504'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617921084l/600349._SX50_.jpg
+    title: Dangerous Visions
+    title_without_series: Dangerous Visions
+    uri: kca://book/amzn1.gr.book.v1.k5HMDOlNcJDQnOi40P3jjw
+    work:
+      id: '2758790'
+  - authors:
+      author:
+        id: '205'
+        link: https://www.goodreads.com/author/show/205.Robert_A_Heinlein
+        name: Robert A. Heinlein
+    average_rating: '3.55'
+    id: '351'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1416505504'
+    isbn13: '9781416505501'
+    link: https://www.goodreads.com/book/show/351.Starman_Jones
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11504'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Starman Jones
+    title_without_series: Starman Jones
+    uri: kca://book/amzn1.gr.book.v1.aroJH1DeX8WEzDoBoPqm1w
+    work:
+      id: '1754018'
+  - authors:
+      author:
+        id: '338705'
+        link: https://www.goodreads.com/author/show/338705.Catherynne_M_Valente
+        name: Catherynne M. Valente
+    average_rating: '3.55'
+    id: '18490533'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412283972l/18490533._SX98_.jpg
+    isbn: 0765335298
+    isbn13: '9780765335296'
+    link: https://www.goodreads.com/book/show/18490533-radiance
+    num_pages: '432'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11504'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412283972l/18490533._SY75_.jpg
+    title: Radiance
+    title_without_series: Radiance
+    uri: kca://book/amzn1.gr.book.v1.RGCHq9z8n9N8nzHSkcC2Tw
+    work:
+      id: '26174247'
+  - authors:
+      author:
+        id: '445303'
+        link: https://www.goodreads.com/author/show/445303.Maria_V_Snyder
+        name: Maria V. Snyder
+    average_rating: '3.55'
+    id: '7059135'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335383824l/7059135._SX98_.jpg
+    isbn: 037321006X
+    isbn13: '9780373210060'
+    link: https://www.goodreads.com/book/show/7059135-inside-out
+    num_pages: '320'
+    publication_day: '1'
+    publication_month: '4'
+    publication_year: '2010'
+    ratings_count: '11504'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335383824l/7059135._SX50_.jpg
+    title: 'Inside Out (Insider, #1)'
+    title_without_series: Inside Out
+    uri: kca://book/amzn1.gr.book.v1.bXRlLqmKUlTKCLRMW7L0zA
+    work:
+      id: '6662880'
+  - authors:
+      author:
+        id: '9226'
+        link: https://www.goodreads.com/author/show/9226.William_Gibson
+        name: William Gibson
+    average_rating: '3.55'
+    id: '7745031'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1282769471l/7745031._SX98_.jpg
+    isbn: 0399156828
+    isbn13: '9780399156823'
+    link: https://www.goodreads.com/book/show/7745031-zero-history
+    num_pages: '404'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11504'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1282769471l/7745031._SY75_.jpg
+    title: 'Zero History (Blue Ant, #3)'
+    title_without_series: Zero History
+    uri: kca://book/amzn1.gr.book.v1.WPvJx0JNpykHKnun5AmLYQ
+    work:
+      id: '10567916'
+  - authors:
+      author:
+        id: '18002918'
+        link: https://www.goodreads.com/author/show/18002918.Trevor_Alan_Foris
+        name: Trevor Alan Foris
+    average_rating: '3.55'
+    id: '123000533'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677192331l/123000533._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/123000533-the-octunnumi-fosbit-files-prologue
+    num_pages: '520'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11504'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677192331l/123000533._SY75_.jpg
+    title: The Octunnumi Fosbit Files Prologue
+    title_without_series: The Octunnumi Fosbit Files Prologue
+    uri: kca://book/amzn1.gr.book.v3.PUREzXX-TgFjkrpu
+    work:
+      id: '62021335'
+  - authors:
+      author:
+        id: '15038121'
+        link: https://www.goodreads.com/author/show/15038121.Brian_Van_Norman
+        name: Brian Van Norman
+    average_rating: '3.55'
+    id: '123176505'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679757980l/123176505._SX98_.jpg
+    isbn: '1771838442'
+    isbn13: '9781771838443'
+    link: https://www.goodreads.com/book/show/123176505-against-the-machine
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11504'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679757980l/123176505._SX50_.jpg
+    title: 'Against the Machine: Evolution'
+    title_without_series: 'Against the Machine: Evolution'
+    uri: kca://book/amzn1.gr.book.v3.TjvgJ4wn4Benl5q1
+    work:
+      id: '144476499'
+  - authors:
+      author:
+        id: '90780'
+        link: https://www.goodreads.com/author/show/90780.Nicola_Griffith
+        name: Nicola Griffith
+    average_rating: '3.55'
+    id: '180270'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429576542l/180270._SX98_.jpg
+    isbn: 0345452380
+    isbn13: '9780345452382'
+    link: https://www.goodreads.com/book/show/180270.Ammonite
+    num_pages: null
+    publication_day: '28'
+    publication_month: '4'
+    publication_year: '2002'
+    ratings_count: '11504'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429576542l/180270._SX50_.jpg
+    title: Ammonite
+    title_without_series: Ammonite
+    uri: kca://book/amzn1.gr.book.v1.gPUXBRjxLLS_5iU1X0mQzg
+    work:
+      id: '1876209'
+  - authors:
+      author:
+        id: '111948'
+        link: https://www.goodreads.com/author/show/111948.Kathy_Tyers
+        name: Kathy Tyers
+    average_rating: '3.55'
+    id: '302618'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326718249l/302618._SY160_.jpg
+    isbn: 0553568728
+    isbn13: '9780553568721'
+    link: https://www.goodreads.com/book/show/302618.Star_Wars
+    num_pages: '341'
+    publication_day: null
+    publication_month: '12'
+    publication_year: '1994'
+    ratings_count: '11504'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326718249l/302618._SY75_.jpg
+    title: 'Star Wars: The Truce at Bakura'
+    title_without_series: 'Star Wars: The Truce at Bakura'
+    uri: kca://book/amzn1.gr.book.v1.hKF0hxKJ5EEZWQwAYrY-3Q
+    work:
+      id: '591520'
+  - authors:
+      author:
+        id: '3039800'
+        link: https://www.goodreads.com/author/show/3039800.Dexter_Palmer
+        name: Dexter Palmer
+    average_rating: '3.55'
+    id: '25733442'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439837238l/25733442._SX98_.jpg
+    isbn: 0307907597
+    isbn13: '9780307907592'
+    link: https://www.goodreads.com/book/show/25733442-version-control
+    num_pages: '495'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11504'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439837238l/25733442._SY75_.jpg
+    title: Version Control
+    title_without_series: Version Control
+    uri: kca://book/amzn1.gr.book.v1.JpRY3Aleue2ZoLvQSl2CtA
+    work:
+      id: '45426167'
+  - authors:
+      author:
+        id: '1100593'
+        link: https://www.goodreads.com/author/show/1100593.Nick_Harkaway
+        name: Nick Harkaway
+    average_rating: '3.55'
+    id: '3007704'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328322676l/3007704._SX98_.jpg
+    isbn: 0434018422
+    isbn13: '9780434018420'
+    link: https://www.goodreads.com/book/show/3007704-the-gone-away-world
+    num_pages: '531'
+    publication_day: null
+    publication_month: '6'
+    publication_year: '2008'
+    ratings_count: '11504'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328322676l/3007704._SX50_.jpg
+    title: The Gone-Away World
+    title_without_series: The Gone-Away World
+    uri: kca://book/amzn1.gr.book.v1.cdqMEva3VzM6NuEOoDm05Q
+    work:
+      id: '3038235'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460170223l/61177._SX50_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '11'
+  '@type': integer
+title: 'The Ringworld Throne (Ringworld, #3)'
+title_without_series: The Ringworld Throne
+uri: kca://book/amzn1.gr.book.v1.pCOQ11ybTXvdciMhK955kA
+url: https://www.goodreads.com/book/show/61177.The_Ringworld_Throne
+work:
+  id: '59500'
+  uri: kca://work/amzn1.gr.work.v1.EBotYL7avjm7QEPFoacd_A

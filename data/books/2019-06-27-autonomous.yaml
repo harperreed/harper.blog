@@ -1,0 +1,753 @@
+asin: B01N4P14CI
+authors:
+  author:
+    average_rating: '3.63'
+    id: '191888'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1608627466p5/191888.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/191888.Annalee_Newitz
+    name: Annalee Newitz
+    ratings_count: '47892'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1608627466p2/191888.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '8110'
+average_rating: '3.58'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2019-06-27T00:00:00-07:00'
+description: "Earth, 2144. Jack is an anti-patent scientist turned drug pirate, traversing\
+  \ the world in a submarine as a pharmaceutical Robin Hood, fabricating cheap scrips\
+  \ for poor people who can\u2019t otherwise afford them. But her latest drug hack\
+  \ has left a trail of lethal overdoses as people become addicted to their work,\
+  \ doing repetitive tasks until they become unsafe or insane.<p>Hot on her trail,\
+  \ an unlikely pair: Eliasz, a brooding military agent, and his robotic partner,\
+  \ Paladin. As they race to stop information about the sinister origins of Jack\u2019\
+  s drug from getting out, they begin to form an uncommonly close bond that neither\
+  \ of them fully understand.</p><p>And underlying it all is one fundamental question:\
+  \ Is freedom possible in a culture where everything, even people, can be owned?</p>"
+edition_information: null
+format: null
+id: '34001622'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn:
+  '@nil': 'true'
+isbn13:
+  '@nil': 'true'
+json: '{"id": "34001622", "isbn": {"@nil": "true"}, "isbn13": {"@nil": "true"}, "text_reviews_count":
+  {"@type": "integer", "#text": "230"}, "uri": "kca://book/amzn1.gr.book.v1.jW5KhP-S-XvfePbS8Cp2pw",
+  "title": "Autonomous", "title_without_series": "Autonomous", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/34001622-autonomous",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.58", "ratings_count": "17584", "description": "Earth, 2144. Jack is an anti-patent
+  scientist turned drug pirate, traversing the world in a submarine as a pharmaceutical
+  Robin Hood, fabricating cheap scrips for poor people who can\u2019t otherwise afford
+  them. But her latest drug hack has left a trail of lethal overdoses as people become
+  addicted to their work, doing repetitive tasks until they become unsafe or insane.<p>Hot
+  on her trail, an unlikely pair: Eliasz, a brooding military agent, and his robotic
+  partner, Paladin. As they race to stop information about the sinister origins of
+  Jack\u2019s drug from getting out, they begin to form an uncommonly close bond that
+  neither of them fully understand.</p><p>And underlying it all is one fundamental
+  question: Is freedom possible in a culture where everything, even people, can be
+  owned?</p>", "authors": {"author": {"id": "191888", "name": "Annalee Newitz", "role":
+  null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1608627466p5/191888.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1608627466p2/191888.jpg"},
+  "link": "https://www.goodreads.com/author/show/191888.Annalee_Newitz", "average_rating":
+  "3.63", "ratings_count": "47892", "text_reviews_count": "8110"}}, "published": null,
+  "work": {"id": "48237590", "uri": "kca://work/amzn1.gr.work.v1.Muxn79xyo8jEjh2JbvTiNQ"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/2132141709",
+  "read_at": "Thu Jun 27 00:00:00 -0700 2019", "started_at": "Fri Sep 22 00:00:00
+  -0700 2017", "date": "Thu Jun 27 00:00:00 -0700 2019"}'
+kindle_asin: B01N4P14CI
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/34001622-autonomous
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '23726'
+    '@name': to-read
+  - '@count': '1618'
+    '@name': currently-reading
+  - '@count': '861'
+    '@name': science-fiction
+  - '@count': '802'
+    '@name': sci-fi
+  - '@count': '365'
+    '@name': fiction
+  - '@count': '226'
+    '@name': scifi
+  - '@count': '137'
+    '@name': owned
+  - '@count': '126'
+    '@name': dnf
+  - '@count': '114'
+    '@name': cyberpunk
+  - '@count': '100'
+    '@name': kindle
+  - '@count': '100'
+    '@name': sf
+  - '@count': '91'
+    '@name': audiobook
+  - '@count': '83'
+    '@name': ebook
+  - '@count': '76'
+    '@name': dystopian
+  - '@count': '74'
+    '@name': dystopia
+  - '@count': '73'
+    '@name': lgbtq
+  - '@count': '68'
+    '@name': sci-fi-fantasy
+  - '@count': '66'
+    '@name': queer
+  - '@count': '65'
+    '@name': speculative-fiction
+  - '@count': '62'
+    '@name': library
+  - '@count': '60'
+    '@name': audiobooks
+  - '@count': '57'
+    '@name': lgbt
+  - '@count': '55'
+    '@name': abandoned
+  - '@count': '54'
+    '@name': favorites
+  - '@count': '54'
+    '@name': robots
+  - '@count': '51'
+    '@name': did-not-finish
+  - '@count': '47'
+    '@name': book-club
+  - '@count': '47'
+    '@name': audio
+  - '@count': '47'
+    '@name': adult
+  - '@count': '43'
+    '@name': books-i-own
+  - '@count': '38'
+    '@name': read-in-2018
+  - '@count': '31'
+    '@name': fantasy
+  - '@count': '31'
+    '@name': maybe
+  - '@count': '30'
+    '@name': fantasy-sci-fi
+  - '@count': '29'
+    '@name': scifi-fantasy
+  - '@count': '29'
+    '@name': sff
+  - '@count': '28'
+    '@name': tbr
+  - '@count': '27'
+    '@name': ebooks
+  - '@count': '27'
+    '@name': audible
+  - '@count': '25'
+    '@name': novels
+  - '@count': '25'
+    '@name': science-fiction-fantasy
+  - '@count': '25'
+    '@name': 2017-releases
+  - '@count': '24'
+    '@name': lgbtqia
+  - '@count': '23'
+    '@name': ai
+  - '@count': '22'
+    '@name': physical-tbr
+  - '@count': '22'
+    '@name': standalone
+  - '@count': '21'
+    '@name': read-2018
+  - '@count': '21'
+    '@name': artificial-intelligence
+  - '@count': '21'
+    '@name': to-buy
+  - '@count': '20'
+    '@name': novel
+  - '@count': '17'
+    '@name': female-author
+  - '@count': '17'
+    '@name': unfinished
+  - '@count': '17'
+    '@name': pirates
+  - '@count': '16'
+    '@name': read-in-2017
+  - '@count': '16'
+    '@name': romance
+  - '@count': '15'
+    '@name': read-in-2019
+  - '@count': '15'
+    '@name': owned-tbr
+  - '@count': '15'
+    '@name': e-book
+  - '@count': '14'
+    '@name': didn-t-finish
+  - '@count': '14'
+    '@name': futuristic
+  - '@count': '13'
+    '@name': read-2019
+  - '@count': '13'
+    '@name': my-books
+  - '@count': '13'
+    '@name': sci-fi-and-fantasy
+  - '@count': '13'
+    '@name': i-own
+  - '@count': '13'
+    '@name': owned-books
+  - '@count': '13'
+    '@name': my-library
+  - '@count': '13'
+    '@name': audio-book
+  - '@count': '13'
+    '@name': science
+  - '@count': '13'
+    '@name': adventure
+  - '@count': '12'
+    '@name': "ciencia-ficci\xF3n"
+  - '@count': '12'
+    '@name': nebula
+  - '@count': '12'
+    '@name': owned-ebook
+  - '@count': '12'
+    '@name': biopunk
+  - '@count': '12'
+    '@name': unread
+  - '@count': '12'
+    '@name': recommended
+  - '@count': '12'
+    '@name': bookclub
+  - '@count': '12'
+    '@name': stand-alone
+  - '@count': '12'
+    '@name': to-read-fiction
+  - '@count': '11'
+    '@name': genre-science-fiction
+  - '@count': '11'
+    '@name': audio-books
+  - '@count': '11'
+    '@name': arc
+  - '@count': '10'
+    '@name': read-in-2021
+  - '@count': '10'
+    '@name': read-in-2020
+  - '@count': '10'
+    '@name': 2010s
+  - '@count': '10'
+    '@name': sci-fi-tbr
+  - '@count': '10'
+    '@name': future
+  - '@count': '10'
+    '@name': gave-up-on
+  - '@count': '10'
+    '@name': women-authors
+  - '@count': '10'
+    '@name': physical
+  - '@count': '10'
+    '@name': thriller
+  - '@count': '10'
+    '@name': sf-fantasy
+  - '@count': '10'
+    '@name': read-2017
+  - '@count': '10'
+    '@name': on-hold
+  - '@count': '10'
+    '@name': wish-list
+  - '@count': '10'
+    '@name': tbr-sci-fi
+  - '@count': '9'
+    '@name': own-it
+  - '@count': '9'
+    '@name': bookshelf
+  - '@count': '9'
+    '@name': 2018-reads
+  - '@count': '9'
+    '@name': digital
+  - '@count': '9'
+    '@name': english
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '17584'
+read_at: '2019-06-27T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/2132141709
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/34001622-autonomous\"\
+  >Autonomous Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B01N4P14CI&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/34001622-autonomous?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '14887946'
+        link: https://www.goodreads.com/author/show/14887946.Max_Nowaz
+        name: Max Nowaz
+    average_rating: '3.58'
+    id: '101265124'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SX98_.jpg
+    isbn: '1803133961'
+    isbn13: '9781803133966'
+    link: https://www.goodreads.com/book/show/101265124-the-polymorph
+    num_pages: '0'
+    publication_day: '4'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '17584'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SY75_.jpg
+    title: The Polymorph
+    title_without_series: The Polymorph
+    uri: kca://book/amzn1.gr.book.v3.2WI1HTFNfz3UC2Zb
+    work:
+      id: '124767981'
+  - authors:
+      author:
+        id: '14220734'
+        link: https://www.goodreads.com/author/show/14220734.Malka_Ann_Older
+        name: Malka Ann Older
+    average_rating: '3.58'
+    id: '26114433'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444883445l/26114433._SX98_.jpg
+    isbn: 0765385155
+    isbn13: '9780765385154'
+    link: https://www.goodreads.com/book/show/26114433-infomocracy
+    num_pages: '380'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17584'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444883445l/26114433._SY75_.jpg
+    title: 'Infomocracy (The Centenal Cycle, #1)'
+    title_without_series: Infomocracy
+    uri: kca://book/amzn1.gr.book.v1.y5BoaKnYgKKEOedEKkskiw
+    work:
+      id: '46061300'
+  - authors:
+      author:
+        id: '4369922'
+        link: https://www.goodreads.com/author/show/4369922.Kameron_Hurley
+        name: Kameron Hurley
+    average_rating: '3.58'
+    id: '29090844'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455431216l/29090844._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/29090844-the-stars-are-legion
+    num_pages: '512'
+    publication_day: '7'
+    publication_month: '2'
+    publication_year: '2017'
+    ratings_count: '17584'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455431216l/29090844._SY75_.jpg
+    title: The Stars Are Legion
+    title_without_series: The Stars Are Legion
+    uri: kca://book/amzn1.gr.book.v1.GHnz5Qv1yxB5kdryallyJQ
+    work:
+      id: '21836212'
+  - authors:
+      author:
+        id: '14407836'
+        link: https://www.goodreads.com/author/show/14407836.A_R_Merrydew
+        name: A.R. Merrydew
+    average_rating: '3.58'
+    id: '215186841'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/215186841-inara
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17584'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Inara (Godfrey Davis, #3)'
+    title_without_series: Inara
+    uri: kca://book/amzn1.gr.book.v3.wCOHuKhf0nZUkB2e
+    work:
+      id: '221595685'
+  - authors:
+      author:
+        id: '69059'
+        link: https://www.goodreads.com/author/show/69059.Alex_White
+        name: Alex White
+    average_rating: '3.58'
+    id: '35520564'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504129587l/35520564._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/35520564-a-big-ship-at-the-edge-of-the-universe
+    num_pages: '480'
+    publication_day: '26'
+    publication_month: '6'
+    publication_year: '2018'
+    ratings_count: '17584'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504129587l/35520564._SY75_.jpg
+    title: 'A Big Ship at the Edge of the Universe (The Salvagers, #1)'
+    title_without_series: A Big Ship at the Edge of the Universe
+    uri: kca://book/amzn1.gr.book.v1.8cYqbK1OWQx_6H8uWcFOfg
+    work:
+      id: '56936451'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '3.58'
+    id: '195790861'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698554344l/195790861._SX98_.jpg
+    isbn: '1250290287'
+    isbn13: '9781250290281'
+    link: https://www.goodreads.com/book/show/195790861-service-model
+    num_pages: '376'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17584'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698554344l/195790861._SY75_.jpg
+    title: Service Model
+    title_without_series: Service Model
+    uri: kca://book/amzn1.gr.book.v3.BUtNnpSh6EMDHugG
+    work:
+      id: '197724648'
+  - authors:
+      author:
+        id: '3365457'
+        link: https://www.goodreads.com/author/show/3365457.Ann_Leckie
+        name: Ann Leckie
+    average_rating: '3.58'
+    id: '62873999'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673303646l/62873999._SX98_.jpg
+    isbn: 031628971X
+    isbn13: '9780316289719'
+    link: https://www.goodreads.com/book/show/62873999-translation-state
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17584'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673303646l/62873999._SY75_.jpg
+    title: Translation State
+    title_without_series: Translation State
+    uri: kca://book/amzn1.gr.book.v3.IPz5gT7elXgSEOUd
+    work:
+      id: '98667857'
+  - authors:
+      author:
+        id: '989968'
+        link: https://www.goodreads.com/author/show/989968.C_J_Cherryh
+        name: C.J. Cherryh
+    average_rating: '3.58'
+    id: '57043'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680461149l/57043._SX98_.jpg
+    isbn: '0756402514'
+    isbn13: '9780756402518'
+    link: https://www.goodreads.com/book/show/57043.Foreigner
+    num_pages: '428'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17584'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680461149l/57043._SY75_.jpg
+    title: 'Foreigner (Foreigner, #1)'
+    title_without_series: Foreigner
+    uri: kca://book/amzn1.gr.book.v1.uDWJbBsNQIAcoRLdPKyUcg
+    work:
+      id: '1592031'
+  - authors:
+      author:
+        id: '3329042'
+        link: https://www.goodreads.com/author/show/3329042.Emma_Newman
+        name: Emma Newman
+    average_rating: '3.58'
+    id: '24237785'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424627926l/24237785._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/24237785-planetfall
+    num_pages: '336'
+    publication_day: '3'
+    publication_month: '11'
+    publication_year: '2015'
+    ratings_count: '17584'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424627926l/24237785._SX50_.jpg
+    title: 'Planetfall (Planetfall, #1)'
+    title_without_series: Planetfall
+    uri: kca://book/amzn1.gr.book.v1.4RfloFvCHF08D2iF9ufGoA
+    work:
+      id: '43823353'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '3.58'
+    id: '65211701'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674575978l/65211701._SX98_.jpg
+    isbn: '1250826977'
+    isbn13: '9781250826978'
+    link: https://www.goodreads.com/book/show/65211701-system-collapse
+    num_pages: '245'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17584'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674575978l/65211701._SY75_.jpg
+    title: 'System Collapse (The Murderbot Diaries, #7)'
+    title_without_series: System Collapse
+    uri: kca://book/amzn1.gr.book.v3.BlgXZE2jb-Pp_eWq
+    work:
+      id: '90712113'
+  - authors:
+      author:
+        id: '108173'
+        link: https://www.goodreads.com/author/show/108173.Elizabeth_Bear
+        name: Elizabeth Bear
+    average_rating: '3.58'
+    id: '52527709'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584711363l/52527709._SX98_.jpg
+    isbn: '1534403019'
+    isbn13: '9781534403017'
+    link: https://www.goodreads.com/book/show/52527709-machine
+    num_pages: '485'
+    publication_day: '20'
+    publication_month: '10'
+    publication_year: '2020'
+    ratings_count: '17584'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584711363l/52527709._SY75_.jpg
+    title: 'Machine (White Space, #2)'
+    title_without_series: Machine
+    uri: kca://book/amzn1.gr.book.v3.TgfLprOpz86ej0LR
+    work:
+      id: '41186181'
+  - authors:
+      author:
+        id: '6572837'
+        link: https://www.goodreads.com/author/show/6572837.Rachel_Bach
+        name: Rachel Bach
+    average_rating: '3.58'
+    id: '15790894'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375610325l/15790894._SX98_.jpg
+    isbn: '0316221112'
+    isbn13: '9780316221115'
+    link: https://www.goodreads.com/book/show/15790894-fortune-s-pawn
+    num_pages: '320'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17584'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375610325l/15790894._SX50_.jpg
+    title: 'Fortune''s Pawn (Paradox, #1)'
+    title_without_series: Fortune's Pawn
+    uri: kca://book/amzn1.gr.book.v1.PGaLp_APjdVbW0MYaIHVkg
+    work:
+      id: '21512449'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '3.58'
+    id: '13573419'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344371600l/13573419._SX98_.jpg
+    isbn: 034552666X
+    isbn13: '9780345526663'
+    link: https://www.goodreads.com/book/show/13573419-great-north-road
+    num_pages: '948'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17584'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344371600l/13573419._SY75_.jpg
+    title: Great North Road
+    title_without_series: Great North Road
+    uri: kca://book/amzn1.gr.book.v1.64r5XkXGJZUUmefD5m2q8g
+    work:
+      id: '19154394'
+  - authors:
+      author:
+        id: '8794'
+        link: https://www.goodreads.com/author/show/8794.Charles_Stross
+        name: Charles Stross
+    average_rating: '3.58'
+    id: '15985402'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358215802l/15985402._SX98_.jpg
+    isbn: '0425256774'
+    isbn13: '9780425256770'
+    link: https://www.goodreads.com/book/show/15985402-neptune-s-brood
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17584'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358215802l/15985402._SY75_.jpg
+    title: 'Neptune''s Brood (Freyaverse, #2)'
+    title_without_series: Neptune's Brood
+    uri: kca://book/amzn1.gr.book.v1.joprRyQ3EsgAB-dmXdXkDQ
+    work:
+      id: '21562011'
+  - authors:
+      author:
+        id: '2868678'
+        link: https://www.goodreads.com/author/show/2868678.Mary_Robinette_Kowal
+        name: Mary Robinette Kowal
+    average_rating: '3.58'
+    id: '33081262'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539850563l/33081262._SX98_.jpg
+    isbn: 076539894X
+    isbn13: '9780765398949'
+    link: https://www.goodreads.com/book/show/33081262-the-fated-sky
+    num_pages: '384'
+    publication_day: '21'
+    publication_month: '8'
+    publication_year: '2018'
+    ratings_count: '17584'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539850563l/33081262._SY75_.jpg
+    title: 'The Fated Sky (Lady Astronaut Universe, #2)'
+    title_without_series: The Fated Sky
+    uri: kca://book/amzn1.gr.book.v1.gfs7Gr-8RSS8Z7Mt3iSUHg
+    work:
+      id: '53736197'
+  - authors:
+      author:
+        id: '4918514'
+        link: https://www.goodreads.com/author/show/4918514.Charlie_Jane_Anders
+        name: Charlie Jane Anders
+    average_rating: '3.58'
+    id: '25372801'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429225322l/25372801._SX98_.jpg
+    isbn: 0765379945
+    isbn13: '9780765379948'
+    link: https://www.goodreads.com/book/show/25372801-all-the-birds-in-the-sky
+    num_pages: '316'
+    publication_day: '26'
+    publication_month: '1'
+    publication_year: '2016'
+    ratings_count: '17584'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429225322l/25372801._SY75_.jpg
+    title: All the Birds in the Sky
+    title_without_series: All the Birds in the Sky
+    uri: kca://book/amzn1.gr.book.v1.GWa9yf3uQFW9O4-ikCbbdw
+    work:
+      id: '45119441'
+  - authors:
+      author:
+        id: '108281'
+        link: https://www.goodreads.com/author/show/108281.Ken_MacLeod
+        name: Ken MacLeod
+    average_rating: '3.58'
+    id: '31932972'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482790432l/31932972._SY160_.jpg
+    isbn: 0316363758
+    isbn13: '9780316363754'
+    link: https://www.goodreads.com/book/show/31932972-emergence
+    num_pages: '400'
+    publication_day: '26'
+    publication_month: '9'
+    publication_year: '2017'
+    ratings_count: '17584'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482790432l/31932972._SY75_.jpg
+    title: 'Emergence (The Corporation Wars, #3)'
+    title_without_series: Emergence
+    uri: kca://book/amzn1.gr.book.v1.iPbDH5bE5Hb5HYET4Nk2sA
+    work:
+      id: '52587939'
+  - authors:
+      author:
+        id: '14220734'
+        link: https://www.goodreads.com/author/show/14220734.Malka_Ann_Older
+        name: Malka Ann Older
+    average_rating: '3.58'
+    id: '60784309'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655389803l/60784309._SX98_.jpg
+    isbn: '1250860504'
+    isbn13: '9781250860507'
+    link: https://www.goodreads.com/book/show/60784309-the-mimicking-of-known-successes
+    num_pages: '169'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '17584'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655389803l/60784309._SY75_.jpg
+    title: 'The Mimicking of Known Successes (The Investigations of Mossa and Pleiti,
+      #1)'
+    title_without_series: The Mimicking of Known Successes
+    uri: kca://book/amzn1.gr.book.v3.XIgZsOdeEwRfvN2U
+    work:
+      id: '93113033'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: '2017-09-22T00:00:00-07:00'
+text_reviews_count:
+  '#text': '230'
+  '@type': integer
+title: Autonomous
+title_without_series: Autonomous
+uri: kca://book/amzn1.gr.book.v1.jW5KhP-S-XvfePbS8Cp2pw
+url: https://www.goodreads.com/book/show/34001622-autonomous
+work:
+  id: '48237590'
+  uri: kca://work/amzn1.gr.work.v1.Muxn79xyo8jEjh2JbvTiNQ

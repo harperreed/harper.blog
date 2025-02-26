@@ -1,0 +1,155 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.17'
+    id: '3967117'
+    image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+      '@nophoto': 'true'
+    link: https://www.goodreads.com/author/show/3967117.Thomas_Onorato
+    name: Thomas Onorato
+    ratings_count: '30'
+    role: null
+    small_image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png
+      '@nophoto': 'true'
+    text_reviews_count: '5'
+average_rating: '3.21'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: null
+edition_information: 1st, First Edition
+format: null
+id: '312638'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311995684l/312638._SX98_.jpg
+is_ebook: 'false'
+isbn: 0312354592
+isbn13: '9780312354596'
+json: '{"id": "312638", "isbn": "0312354592", "isbn13": "9780312354596", "text_reviews_count":
+  {"@type": "integer", "#text": "5"}, "uri": "kca://book/amzn1.gr.book.v1.PhFRl6yvXvRjFUVuPSm1vQ",
+  "title": "Confessions from the Velvet Ropes: The Glamorous, Grueling Life of Thomas
+  Onorato, New York''s Top Club Doorman", "title_without_series": "Confessions from
+  the Velvet Ropes: The Glamorous, Grueling Life of Thomas Onorato, New York''s Top
+  Club Doorman", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311995684l/312638._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311995684l/312638._SX50_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/312638.Confessions_from_the_Velvet_Ropes",
+  "num_pages": null, "format": null, "edition_information": "1st, First Edition",
+  "publisher": null, "publication_day": null, "publication_year": null, "publication_month":
+  null, "average_rating": "3.21", "ratings_count": "28", "description": null, "authors":
+  {"author": {"id": "3967117", "name": "Thomas Onorato", "role": null, "image_url":
+  {"@nophoto": "true", "#text": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"},
+  "small_image_url": {"@nophoto": "true", "#text": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"},
+  "link": "https://www.goodreads.com/author/show/3967117.Thomas_Onorato", "average_rating":
+  "3.17", "ratings_count": "30", "text_reviews_count": "5"}}, "published": null, "work":
+  {"id": "303541", "uri": "kca://work/amzn1.gr.work.v1.OXHbU2YPoprDB6xQDstVvw"}, "review_rating":
+  "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/12429081",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B003E4CYWQ
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/312638.Confessions_from_the_Velvet_Ropes
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '36'
+    '@name': to-read
+  - '@count': '2'
+    '@name': biography
+  - '@count': '1'
+    '@name': niet-uitgelezen-weggelegd
+  - '@count': '1'
+    '@name': to-be-read
+  - '@count': '1'
+    '@name': ramit-reading-list
+  - '@count': '1'
+    '@name': ditmas
+  - '@count': '1'
+    '@name': nonfiction
+  - '@count': '1'
+    '@name': non-fiction
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '28'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/12429081
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/312638.Confessions_from_the_Velvet_Ropes\"\
+  >Confessions from the Velvet Ropes Reviews</a></h1></div>\n  <iframe sandbox id=\"\
+  the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0312354592&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/312638.Confessions_from_the_Velvet_Ropes?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311995684l/312638._SX50_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '5'
+  '@type': integer
+title: 'Confessions from the Velvet Ropes: The Glamorous, Grueling Life of Thomas
+  Onorato, New York''s Top Club Doorman'
+title_without_series: 'Confessions from the Velvet Ropes: The Glamorous, Grueling
+  Life of Thomas Onorato, New York''s Top Club Doorman'
+uri: kca://book/amzn1.gr.book.v1.PhFRl6yvXvRjFUVuPSm1vQ
+url: https://www.goodreads.com/book/show/312638.Confessions_from_the_Velvet_Ropes
+work:
+  id: '303541'
+  uri: kca://work/amzn1.gr.work.v1.OXHbU2YPoprDB6xQDstVvw

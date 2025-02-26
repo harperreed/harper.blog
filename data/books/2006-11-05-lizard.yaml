@@ -1,0 +1,738 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.76'
+    id: '28229'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1386368930p5/28229.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/28229.Banana_Yoshimoto
+    name: Banana Yoshimoto
+    ratings_count: '252322'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1386368930p2/28229.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '27894'
+average_rating: '3.74'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: In these six stories, the author of <i>Goodbye Tsugumi</i> and <i>N.P.</i>
+  explores themes of time, healing and fate, and how her urban, sophisticated, independent
+  young men and women come to terms with them. The stories are a blend of traditional
+  Japanese and contemporary popular culture.
+edition_information: null
+format: Paperback
+id: '50148'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: 0571212158
+isbn13: '9780571212156'
+json: '{"id": "50148", "isbn": "0571212158", "isbn13": "9780571212156", "text_reviews_count":
+  {"@type": "integer", "#text": "400"}, "uri": "kca://book/amzn1.gr.book.v1.W4PmUbh3TCZFnpatmb2Igw",
+  "title": "Lizard", "title_without_series": "Lizard", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/50148.Lizard",
+  "num_pages": "180", "format": "Paperback", "edition_information": null, "publisher":
+  "Faber & Faber", "publication_day": "31", "publication_year": "2001", "publication_month":
+  "8", "average_rating": "3.74", "ratings_count": "9657", "description": "In these
+  six stories, the author of <i>Goodbye Tsugumi</i> and <i>N.P.</i> explores themes
+  of time, healing and fate, and how her urban, sophisticated, independent young men
+  and women come to terms with them. The stories are a blend of traditional Japanese
+  and contemporary popular culture.", "authors": {"author": {"id": "28229", "name":
+  "Banana Yoshimoto", "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1386368930p5/28229.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1386368930p2/28229.jpg"},
+  "link": "https://www.goodreads.com/author/show/28229.Banana_Yoshimoto", "average_rating":
+  "3.76", "ratings_count": "252322", "text_reviews_count": "27894"}}, "published":
+  "2001", "work": {"id": "281214", "uri": "kca://work/amzn1.gr.work.v1.RpFMqsZkMPtWpMnahPGqZA"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417536",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B00XAQ1N2K
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/50148.Lizard
+marketplace_id: ATVPDKIKX0DER
+num_pages: '180'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '8989'
+    '@name': to-read
+  - '@count': '247'
+    '@name': currently-reading
+  - '@count': '247'
+    '@name': short-stories
+  - '@count': '244'
+    '@name': fiction
+  - '@count': '165'
+    '@name': japan
+  - '@count': '126'
+    '@name': japanese-literature
+  - '@count': '109'
+    '@name': japanese
+  - '@count': '80'
+    '@name': favorites
+  - '@count': '66'
+    '@name': japanese-lit
+  - '@count': '60'
+    '@name': owned
+  - '@count': '41'
+    '@name': asia
+  - '@count': '37'
+    '@name': contemporary
+  - '@count': '33'
+    '@name': banana-yoshimoto
+  - '@count': '31'
+    '@name': books-i-own
+  - '@count': '29'
+    '@name': translated
+  - '@count': '27'
+    '@name': letteratura-giapponese
+  - '@count': '27'
+    '@name': asian
+  - '@count': '26'
+    '@name': narrativa
+  - '@count': '25'
+    '@name': japanese-fiction
+  - '@count': '24'
+    '@name': magical-realism
+  - '@count': '24'
+    '@name': asian-literature
+  - '@count': '23'
+    '@name': giappone
+  - '@count': '22'
+    '@name': in-translation
+  - '@count': '22'
+    '@name': literature
+  - '@count': '16'
+    '@name': literatura-japonesa
+  - '@count': '16'
+    '@name': owned-books
+  - '@count': '16'
+    '@name': translation
+  - '@count': '16'
+    '@name': japanese-authors
+  - '@count': '15'
+    '@name': default
+  - '@count': '13'
+    '@name': short-story
+  - '@count': '12'
+    '@name': to-buy
+  - '@count': '12'
+    '@name': racconti
+  - '@count': '11'
+    '@name': asian-lit
+  - '@count': '11'
+    '@name': ebook
+  - '@count': '11'
+    '@name': my-library
+  - '@count': '11'
+    '@name': finished
+  - '@count': '11'
+    '@name': literary-fiction
+  - '@count': '10'
+    '@name': physical-tbr
+  - '@count': '10'
+    '@name': libreria
+  - '@count': '10'
+    '@name': giapponesi
+  - '@count': '10'
+    '@name': 20th-century
+  - '@count': '9'
+    '@name': female-author
+  - '@count': '8'
+    '@name': "literatura-asi\xE0tica"
+  - '@count': '8'
+    '@name': autoras
+  - '@count': '8'
+    '@name': cuentos
+  - '@count': '8'
+    '@name': 1990s
+  - '@count': '8'
+    '@name': short-story-collections
+  - '@count': '8'
+    '@name': japon
+  - '@count': '8'
+    '@name': novels
+  - '@count': '8'
+    '@name': women
+  - '@count': '7'
+    '@name': kindle
+  - '@count': '7'
+    '@name': own-it
+  - '@count': '7'
+    '@name': library
+  - '@count': '7'
+    '@name': contemporary-fiction
+  - '@count': '7'
+    '@name': stories
+  - '@count': '6'
+    '@name': women-in-translation
+  - '@count': '6'
+    '@name': "jap\xF3n"
+  - '@count': '6'
+    '@name': "ficci\xF3n"
+  - '@count': '6'
+    '@name': english
+  - '@count': '6'
+    '@name': favourites
+  - '@count': '6'
+    '@name': my-books
+  - '@count': '6'
+    '@name': short-story-collection
+  - '@count': '6'
+    '@name': short-fiction
+  - '@count': '6'
+    '@name': giapponese
+  - '@count': '6'
+    '@name': wish-list
+  - '@count': '6'
+    '@name': japanese-author
+  - '@count': '6'
+    '@name': general-fiction
+  - '@count': '6'
+    '@name': novel
+  - '@count': '5'
+    '@name': audiobook
+  - '@count': '5'
+    '@name': japanese-novels
+  - '@count': '5'
+    '@name': japoneses
+  - '@count': '5'
+    '@name': in-libreria
+  - '@count': '5'
+    '@name': japan-lit
+  - '@count': '5'
+    '@name': shorts
+  - '@count': '5'
+    '@name': japanese-books
+  - '@count': '5'
+    '@name': adult
+  - '@count': '5'
+    '@name': romanzi
+  - '@count': '5'
+    '@name': oriente
+  - '@count': '5'
+    '@name': feltrinelli
+  - '@count': '5'
+    '@name': letteratura
+  - '@count': '5'
+    '@name': romanzo
+  - '@count': '5'
+    '@name': female-authors
+  - '@count': '5'
+    '@name': borrowed
+  - '@count': '5'
+    '@name': translated-fiction
+  - '@count': '5'
+    '@name': women-authors
+  - '@count': '4'
+    '@name': 2024-reads
+  - '@count': '4'
+    '@name': '1'
+  - '@count': '4'
+    '@name': read-in-2021
+  - '@count': '4'
+    '@name': literature-japanese
+  - '@count': '4'
+    '@name': 5-stars
+  - '@count': '4'
+    '@name': cuento
+  - '@count': '4'
+    '@name': "jap\xF3"
+  - '@count': '4'
+    '@name': tbr
+  - '@count': '4'
+    '@name': bibliometro
+  - '@count': '4'
+    '@name': dnf
+  - '@count': '4'
+    '@name': east-asian-lit
+  - '@count': '4'
+    '@name': nihon
+  - '@count': '4'
+    '@name': read-in-english
+  - '@count': '4'
+    '@name': "\u65E5\u672C"
+  - '@count': '4'
+    '@name': "\u65E5\u672C\u8A9E"
+publication_day: '31'
+publication_month: '8'
+publication_year: '2001'
+published: '2001'
+publisher: Faber & Faber
+ratings_count: '9657'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417536
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/50148.Lizard\"\
+  >Lizard Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0571212158&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/50148.Lizard?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '637929'
+        link: https://www.goodreads.com/author/show/637929.Hiromi_Kawakami
+        name: Hiromi Kawakami
+    average_rating: '3.74'
+    id: '18283207'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375634096l/18283207._SY160_.jpg
+    isbn: '1846275083'
+    isbn13: '9781846275081'
+    link: https://www.goodreads.com/book/show/18283207-strange-weather-in-tokyo
+    num_pages: '176'
+    publication_day: '1'
+    publication_month: '8'
+    publication_year: '2013'
+    ratings_count: '9657'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375634096l/18283207._SY75_.jpg
+    title: Strange Weather in Tokyo
+    title_without_series: Strange Weather in Tokyo
+    uri: kca://book/amzn1.gr.book.v1.jQ2VTFGxd1pWR3jNbNl_jw
+    work:
+      id: '2974590'
+  - authors:
+      author:
+        id: '4119155'
+        link: https://www.goodreads.com/author/show/4119155.Han_Kang
+        name: Han Kang
+    average_rating: '3.74'
+    id: '61686012'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733711419l/61686012._SX98_.jpg
+    isbn: 0593595270
+    isbn13: '9780593595275'
+    link: https://www.goodreads.com/book/show/61686012-greek-lessons
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '9657'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733711419l/61686012._SY75_.jpg
+    title: Greek Lessons
+    title_without_series: Greek Lessons
+    uri: kca://book/amzn1.gr.book.v3.nxCYDewJ_h3TIeVz
+    work:
+      id: '42281994'
+  - authors:
+      author:
+        id: '42775'
+        link: https://www.goodreads.com/author/show/42775.Y_ko_Ogawa
+        name: "Y\u014Dko Ogawa"
+    average_rating: '3.74'
+    id: '1337973'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317064652l/1337973._SX98_.jpg
+    isbn: 0312426836
+    isbn13: '9780312426835'
+    link: https://www.goodreads.com/book/show/1337973.The_Diving_Pool
+    num_pages: '164'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '9657'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317064652l/1337973._SX50_.jpg
+    title: 'The Diving Pool: Three Novellas'
+    title_without_series: 'The Diving Pool: Three Novellas'
+    uri: kca://book/amzn1.gr.book.v1.f7uBl3mMdjQpk0il5YiEXA
+    work:
+      id: '2542259'
+  - authors:
+      author:
+        id: '4119155'
+        link: https://www.goodreads.com/author/show/4119155.Han_Kang
+        name: Han Kang
+    average_rating: '3.74'
+    id: '25489025'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728661771l/25489025._SX98_.jpg
+    isbn: 0553448188
+    isbn13: '9780553448184'
+    link: https://www.goodreads.com/book/show/25489025-the-vegetarian
+    num_pages: '188'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '9657'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728661771l/25489025._SY75_.jpg
+    title: The Vegetarian
+    title_without_series: The Vegetarian
+    uri: kca://book/amzn1.gr.book.v1.i9drUaX1sIwjy4vP2rb1Gw
+    work:
+      id: '18449744'
+  - authors:
+      author:
+        id: '42775'
+        link: https://www.goodreads.com/author/show/42775.Y_ko_Ogawa
+        name: "Y\u014Dko Ogawa"
+    average_rating: '3.74'
+    id: '6713015'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312037340l/6713015._SX98_.jpg
+    isbn: '0312425244'
+    isbn13: '9780312425241'
+    link: https://www.goodreads.com/book/show/6713015-hotel-iris
+    num_pages: '164'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '9657'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312037340l/6713015._SX50_.jpg
+    title: Hotel Iris
+    title_without_series: Hotel Iris
+    uri: kca://book/amzn1.gr.book.v1.2qYxErY_oZXy7jHALz6XUg
+    work:
+      id: '1608113'
+  - authors:
+      author:
+        id: '637929'
+        link: https://www.goodreads.com/author/show/637929.Hiromi_Kawakami
+        name: Hiromi Kawakami
+    average_rating: '3.74'
+    id: '53345896'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588875038l/53345896._SX98_.jpg
+    isbn: '1846276985'
+    isbn13: '9781846276989'
+    link: https://www.goodreads.com/book/show/53345896-people-from-my-neighbourhood
+    num_pages: '121'
+    publication_day: '6'
+    publication_month: '8'
+    publication_year: '2020'
+    ratings_count: '9657'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588875038l/53345896._SX50_.jpg
+    title: People From My Neighbourhood
+    title_without_series: People From My Neighbourhood
+    uri: kca://book/amzn1.gr.book.v3.en3XkpfEId9UxwOX
+    work:
+      id: '82096086'
+  - authors:
+      author:
+        id: '637929'
+        link: https://www.goodreads.com/author/show/637929.Hiromi_Kawakami
+        name: Hiromi Kawakami
+    average_rating: '3.74'
+    id: '46205497'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1846277027'
+    isbn13: '9781846277023'
+    link: https://www.goodreads.com/book/show/46205497-the-ten-loves-of-mr-nishino
+    num_pages: '170'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '9657'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Ten Loves of Mr. Nishino
+    title_without_series: The Ten Loves of Mr. Nishino
+    uri: kca://book/amzn1.gr.book.v1.yehmEAK7rol0ZbEIMWuzAQ
+    work:
+      id: '1939745'
+  - authors:
+      author:
+        id: '8107495'
+        link: https://www.goodreads.com/author/show/8107495.Hiroko_Oyamada
+        name: Hiroko Oyamada
+    average_rating: '3.74'
+    id: '51283868'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597104641l/51283868._SX98_.jpg
+    isbn: 0811228878
+    isbn13: '9780811228879'
+    link: https://www.goodreads.com/book/show/51283868-the-hole
+    num_pages: '92'
+    publication_day: '6'
+    publication_month: '10'
+    publication_year: '2020'
+    ratings_count: '9657'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597104641l/51283868._SY75_.jpg
+    title: The Hole
+    title_without_series: The Hole
+    uri: kca://book/amzn1.gr.book.v3.ZlLpNU3VZzB4CXZU
+    work:
+      id: '41050724'
+  - authors:
+      author:
+        id: '5559451'
+        link: https://www.goodreads.com/author/show/5559451.Mieko_Kawakami
+        name: Mieko Kawakami
+    average_rating: '3.74'
+    id: '32927264'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483162179l/32927264._SX98_.jpg
+    isbn: '1782273301'
+    isbn13: '9781782273301'
+    link: https://www.goodreads.com/book/show/32927264-ms-ice-sandwich
+    num_pages: '92'
+    publication_day: '30'
+    publication_month: '11'
+    publication_year: '2017'
+    ratings_count: '9657'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483162179l/32927264._SY75_.jpg
+    title: Ms Ice Sandwich
+    title_without_series: Ms Ice Sandwich
+    uri: kca://book/amzn1.gr.book.v1.EA0YWb_s2R5kC62b944mfQ
+    work:
+      id: '53544529'
+  - authors:
+      author:
+        id: '637929'
+        link: https://www.goodreads.com/author/show/637929.Hiromi_Kawakami
+        name: Hiromi Kawakami
+    average_rating: '3.74'
+    id: '44146682'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556654461l/44146682._SX98_.jpg
+    isbn: '1593765800'
+    isbn13: '9781593765804'
+    link: https://www.goodreads.com/book/show/44146682-parade
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '9657'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556654461l/44146682._SY75_.jpg
+    title: Parade
+    title_without_series: Parade
+    uri: kca://book/amzn1.gr.book.v1.n3MDN5pKi3Cb5dq5gm2M_w
+    work:
+      id: '68655900'
+  - authors:
+      author:
+        id: '5559451'
+        link: https://www.goodreads.com/author/show/5559451.Mieko_Kawakami
+        name: Mieko Kawakami
+    average_rating: '3.74'
+    id: '53223710'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615916179l/53223710._SX98_.jpg
+    isbn: '1609456211'
+    isbn13: '9781609456214'
+    link: https://www.goodreads.com/book/show/53223710-heaven
+    num_pages: '192'
+    publication_day: '25'
+    publication_month: '5'
+    publication_year: '2021'
+    ratings_count: '9657'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615916179l/53223710._SY75_.jpg
+    title: Heaven
+    title_without_series: Heaven
+    uri: kca://book/amzn1.gr.book.v3.tcw2oPCJcsqfoQ4v
+    work:
+      id: '7124935'
+  - authors:
+      author:
+        id: '637929'
+        link: https://www.goodreads.com/author/show/637929.Hiromi_Kawakami
+        name: Hiromi Kawakami
+    average_rating: '3.74'
+    id: '32994995'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479288206l/32994995._SX98_.jpg
+    isbn: '8416748225'
+    isbn13: '9788416748228'
+    link: https://www.goodreads.com/book/show/32994995-amores-imperfectos
+    num_pages: '144'
+    publication_day: null
+    publication_month: '11'
+    publication_year: '2016'
+    ratings_count: '9657'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479288206l/32994995._SX50_.jpg
+    title: Amores imperfectos
+    title_without_series: Amores imperfectos
+    uri: kca://book/amzn1.gr.book.v1.ySHglgSTGfZqrOxYv4tsng
+    work:
+      id: '21965026'
+  - authors:
+      author:
+        id: '637929'
+        link: https://www.goodreads.com/author/show/637929.Hiromi_Kawakami
+        name: Hiromi Kawakami
+    average_rating: '3.74'
+    id: '15739315'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341602458l/15739315._SX98_.jpg
+    isbn: 841527744X
+    isbn13: '9788415277446'
+    link: https://www.goodreads.com/book/show/15739315-abandonarse-a-la-pasi-n
+    num_pages: '128'
+    publication_day: null
+    publication_month: null
+    publication_year: '2011'
+    ratings_count: '9657'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341602458l/15739315._SY75_.jpg
+    title: "Abandonarse a la pasi\xF3n: Ocho relatos de amor y desamor"
+    title_without_series: "Abandonarse a la pasi\xF3n: Ocho relatos de amor y desamor"
+    uri: kca://book/amzn1.gr.book.v1.pEL05KKqO14Jdy9V0jk-sQ
+    work:
+      id: '2942098'
+  - authors:
+      author:
+        id: '1397136'
+        link: https://www.goodreads.com/author/show/1397136.Antonio_Ortu_o
+        name: "Antonio Ortu\xF1o"
+    average_rating: '3.74'
+    id: '35154179'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494942060l/35154179._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/35154179-la-vaga-ambici-n
+    num_pages: '120'
+    publication_day: null
+    publication_month: null
+    publication_year: '2016'
+    ratings_count: '9657'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494942060l/35154179._SY75_.jpg
+    title: "La vaga ambici\xF3n"
+    title_without_series: "La vaga ambici\xF3n"
+    uri: kca://book/amzn1.gr.book.v1.Qa9WlAB15XAReQGbES75Sg
+    work:
+      id: '56480753'
+  - authors:
+      author:
+        id: '8816506'
+        link: https://www.goodreads.com/author/show/8816506.Sayaka_Murata
+        name: Sayaka Murata
+    average_rating: '3.74'
+    id: '59793324'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639159033l/59793324._SX98_.jpg
+    isbn: 0802159583
+    isbn13: '9780802159588'
+    link: https://www.goodreads.com/book/show/59793324-life-ceremony
+    num_pages: '256'
+    publication_day: '5'
+    publication_month: '7'
+    publication_year: '2022'
+    ratings_count: '9657'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639159033l/59793324._SX50_.jpg
+    title: Life Ceremony
+    title_without_series: Life Ceremony
+    uri: kca://book/amzn1.gr.book.v3.gBOyP0k59MMVDyY5
+    work:
+      id: '94174667'
+  - authors:
+      author:
+        id: '5559451'
+        link: https://www.goodreads.com/author/show/5559451.Mieko_Kawakami
+        name: Mieko Kawakami
+    average_rating: '3.74'
+    id: '59336625'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637059389l/59336625._SX98_.jpg
+    isbn: '1609456998'
+    isbn13: '9781609456993'
+    link: https://www.goodreads.com/book/show/59336625-all-the-lovers-in-the-night
+    num_pages: '224'
+    publication_day: '3'
+    publication_month: '5'
+    publication_year: '2022'
+    ratings_count: '9657'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637059389l/59336625._SY75_.jpg
+    title: All the Lovers in the Night
+    title_without_series: All the Lovers in the Night
+    uri: kca://book/amzn1.gr.book.v3.aNrtQhW6-uNqviv3
+    work:
+      id: '40898049'
+  - authors:
+      author:
+        id: '1461'
+        link: https://www.goodreads.com/author/show/1461.Gustave_Flaubert
+        name: Gustave Flaubert
+    average_rating: '3.74'
+    id: '60698'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328728903l/60698._SX98_.jpg
+    isbn: '1843910004'
+    isbn13: '9781843910008'
+    link: https://www.goodreads.com/book/show/60698.Memoirs_of_a_Madman
+    num_pages: '86'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '9657'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328728903l/60698._SY75_.jpg
+    title: Memoirs of a Madman
+    title_without_series: Memoirs of a Madman
+    uri: kca://book/amzn1.gr.book.v1._Ss9b9jcI-pwJvUMxQw1pw
+    work:
+      id: '1838646'
+  - authors:
+      author:
+        id: '3354'
+        link: https://www.goodreads.com/author/show/3354.Haruki_Murakami
+        name: Haruki Murakami
+    average_rating: '3.74'
+    id: '41022133'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533141634l/41022133._SX98_.jpg
+    isbn: 0385352115
+    isbn13: '9780385352116'
+    link: https://www.goodreads.com/book/show/41022133-colorless-tsukuru-tazaki-and-his-years-of-pilgrimage
+    num_pages: '308'
+    publication_day: '12'
+    publication_month: '8'
+    publication_year: '2014'
+    ratings_count: '9657'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533141634l/41022133._SY75_.jpg
+    title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
+    title_without_series: Colorless Tsukuru Tazaki and His Years of Pilgrimage
+    uri: kca://book/amzn1.gr.book.v1.r70JNZJzwerx07NK4VwEuQ
+    work:
+      id: '24593525'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '400'
+  '@type': integer
+title: Lizard
+title_without_series: Lizard
+uri: kca://book/amzn1.gr.book.v1.W4PmUbh3TCZFnpatmb2Igw
+url: https://www.goodreads.com/book/show/50148.Lizard
+work:
+  id: '281214'
+  uri: kca://work/amzn1.gr.work.v1.RpFMqsZkMPtWpMnahPGqZA

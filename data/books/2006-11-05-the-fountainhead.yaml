@@ -1,0 +1,758 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.77'
+    id: '432'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1168729178p5/432.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/432.Ayn_Rand
+    name: Ayn Rand
+    ratings_count: '987625'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1168729178p2/432.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '53274'
+average_rating: '3.89'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: "The revolutionary literary vision that sowed the seeds of Objectivism,\
+  \ Ayn Rand's groundbreaking philosophy, and brought her immediate worldwide acclaim.<br\
+  \ /><br />This modern classic is the story of intransigent young architect Howard\
+  \ Roark, whose integrity was as unyielding as granite...of Dominique Francon, the\
+  \ exquisitely beautiful woman who loved Roark passionately, but married his worst\
+  \ enemy...and of the fanatic denunciation unleashed by an enraged society against\
+  \ a great creator. As fresh today as it was then, Rand\u2019s provocative novel\
+  \ presents one of the most challenging ideas in all of fiction\u2014that man\u2019\
+  s ego is the fountainhead of human progress...<br /><br />\u201CA writer of great\
+  \ power. She has a subtle and ingenious mind and the capacity of writing brilliantly,\
+  \ beautifully, bitterly...This is the only novel of ideas written by an American\
+  \ woman that I can recall.\u201D\u2014The New York Times"
+edition_information: 25 Aniv Edition
+format: Mass Market Paperback
+id: '2122'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491163636l/2122._SY160_.jpg
+is_ebook: 'false'
+isbn:
+  '@nil': 'true'
+isbn13:
+  '@nil': 'true'
+json: '{"id": "2122", "isbn": {"@nil": "true"}, "isbn13": {"@nil": "true"}, "text_reviews_count":
+  {"@type": "integer", "#text": "12271"}, "uri": "kca://book/amzn1.gr.book.v1.ERhjiWLOCH6pjYGQUCs8-Q",
+  "title": "The Fountainhead", "title_without_series": "The Fountainhead", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491163636l/2122._SY160_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491163636l/2122._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/2122.The_Fountainhead",
+  "num_pages": "704", "format": "Mass Market Paperback", "edition_information": "25
+  Aniv Edition", "publisher": "Signet Book", "publication_day": "1", "publication_year":
+  "1996", "publication_month": "9", "average_rating": "3.89", "ratings_count": "330743",
+  "description": "The revolutionary literary vision that sowed the seeds of Objectivism,
+  Ayn Rand''s groundbreaking philosophy, and brought her immediate worldwide acclaim.<br
+  /><br />This modern classic is the story of intransigent young architect Howard
+  Roark, whose integrity was as unyielding as granite...of Dominique Francon, the
+  exquisitely beautiful woman who loved Roark passionately, but married his worst
+  enemy...and of the fanatic denunciation unleashed by an enraged society against
+  a great creator. As fresh today as it was then, Rand\u2019s provocative novel presents
+  one of the most challenging ideas in all of fiction\u2014that man\u2019s ego is
+  the fountainhead of human progress...<br /><br />\u201cA writer of great power.
+  She has a subtle and ingenious mind and the capacity of writing brilliantly, beautifully,
+  bitterly...This is the only novel of ideas written by an American woman that I can
+  recall.\u201d\u2014The New York Times", "authors": {"author": {"id": "432", "name":
+  "Ayn Rand", "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1168729178p5/432.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1168729178p2/432.jpg"},
+  "link": "https://www.goodreads.com/author/show/432.Ayn_Rand", "average_rating":
+  "3.77", "ratings_count": "987625", "text_reviews_count": "53274"}}, "published":
+  "1996", "work": {"id": "3331807", "uri": "kca://work/amzn1.gr.work.v1.nKYg67DlRS-x7QKpTNja3Q"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417534",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B098BBVG7D
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/2122.The_Fountainhead
+marketplace_id: ATVPDKIKX0DER
+num_pages: '704'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '232755'
+    '@name': to-read
+  - '@count': '14761'
+    '@name': currently-reading
+  - '@count': '5575'
+    '@name': fiction
+  - '@count': '3713'
+    '@name': classics
+  - '@count': '3107'
+    '@name': favorites
+  - '@count': '2047'
+    '@name': philosophy
+  - '@count': '975'
+    '@name': owned
+  - '@count': '654'
+    '@name': classic
+  - '@count': '598'
+    '@name': literature
+  - '@count': '582'
+    '@name': books-i-own
+  - '@count': '403'
+    '@name': novels
+  - '@count': '301'
+    '@name': politics
+  - '@count': '264'
+    '@name': architecture
+  - '@count': '254'
+    '@name': rory-gilmore-reading-challenge
+  - '@count': '244'
+    '@name': library
+  - '@count': '226'
+    '@name': novel
+  - '@count': '223'
+    '@name': owned-books
+  - '@count': '212'
+    '@name': ayn-rand
+  - '@count': '211'
+    '@name': favourites
+  - '@count': '200'
+    '@name': my-library
+  - '@count': '193'
+    '@name': dnf
+  - '@count': '182'
+    '@name': abandoned
+  - '@count': '170'
+    '@name': to-buy
+  - '@count': '161'
+    '@name': literary-fiction
+  - '@count': '160'
+    '@name': audiobook
+  - '@count': '154'
+    '@name': gilmore-girls
+  - '@count': '153'
+    '@name': default
+  - '@count': '145'
+    '@name': rory-gilmore
+  - '@count': '144'
+    '@name': rory-gilmore-reading-list
+  - '@count': '138'
+    '@name': general-fiction
+  - '@count': '136'
+    '@name': did-not-finish
+  - '@count': '134'
+    '@name': rory-gilmore-challenge
+  - '@count': '132'
+    '@name': american
+  - '@count': '130'
+    '@name': objectivism
+  - '@count': '114'
+    '@name': physical-tbr
+  - '@count': '114'
+    '@name': kindle
+  - '@count': '114'
+    '@name': my-books
+  - '@count': '110'
+    '@name': classic-literature
+  - '@count': '110'
+    '@name': audiobooks
+  - '@count': '109'
+    '@name': all-time-favorites
+  - '@count': '105'
+    '@name': audible
+  - '@count': '105'
+    '@name': adult
+  - '@count': '104'
+    '@name': book-club
+  - '@count': '103'
+    '@name': political
+  - '@count': '102'
+    '@name': 20th-century
+  - '@count': '96'
+    '@name': adult-fiction
+  - '@count': '95'
+    '@name': american-literature
+  - '@count': '94'
+    '@name': home-library
+  - '@count': '94'
+    '@name': unfinished
+  - '@count': '92'
+    '@name': modern-classics
+  - '@count': '91'
+    '@name': audio
+  - '@count': '90'
+    '@name': philosophical
+  - '@count': '87'
+    '@name': classics-to-read
+  - '@count': '84'
+    '@name': favorite
+  - '@count': '81'
+    '@name': re-read
+  - '@count': '80'
+    '@name': english
+  - '@count': '79'
+    '@name': bookshelf
+  - '@count': '76'
+    '@name': literary
+  - '@count': '74'
+    '@name': tbr
+  - '@count': '74'
+    '@name': contemporary
+  - '@count': '73'
+    '@name': favorite-books
+  - '@count': '72'
+    '@name': romance
+  - '@count': '71'
+    '@name': shelfari-favorites
+  - '@count': '70'
+    '@name': ebook
+  - '@count': '70'
+    '@name': classic-fiction
+  - '@count': '70'
+    '@name': i-own
+  - '@count': '69'
+    '@name': science-fiction
+  - '@count': '66'
+    '@name': economics
+  - '@count': '64'
+    '@name': dystopian
+  - '@count': '63'
+    '@name': must-read
+  - '@count': '62'
+    '@name': business
+  - '@count': '62'
+    '@name': high-school
+  - '@count': '61'
+    '@name': philosophical-fiction
+  - '@count': '60'
+    '@name': personal-library
+  - '@count': '60'
+    '@name': have
+  - '@count': '59'
+    '@name': individualism
+  - '@count': '59'
+    '@name': historical-fiction
+  - '@count': '59'
+    '@name': non-fiction
+  - '@count': '58'
+    '@name': my-bookshelf
+  - '@count': '58'
+    '@name': american-lit
+  - '@count': '58'
+    '@name': school
+  - '@count': '57'
+    '@name': on-my-shelf
+  - '@count': '57'
+    '@name': drama
+  - '@count': '55'
+    '@name': rand
+  - '@count': '54'
+    '@name': ebooks
+  - '@count': '53'
+    '@name': recommended
+  - '@count': '53'
+    '@name': own-it
+  - '@count': '52'
+    '@name': gilmore
+  - '@count': '51'
+    '@name': usa
+  - '@count': '50'
+    '@name': to-read-fiction
+  - '@count': '50'
+    '@name': want-to-buy
+  - '@count': '50'
+    '@name': to-re-read
+  - '@count': '49'
+    '@name': lit
+  - '@count': '49'
+    '@name': wish-list
+  - '@count': '47'
+    '@name': the-perks-of-being-a-wallflower
+  - '@count': '47'
+    '@name': maybe
+  - '@count': '47'
+    '@name': capitalism
+  - '@count': '47'
+    '@name': sci-fi
+  - '@count': '47'
+    '@name': fiction-literature
+  - '@count': '45'
+    '@name': to-read-classics
+publication_day: '1'
+publication_month: '9'
+publication_year: '1996'
+published: '1996'
+publisher: Signet Book
+ratings_count: '330743'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417534
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/2122.The_Fountainhead\"\
+  >The Fountainhead Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/2122.The_Fountainhead?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '5182799'
+        link: https://www.goodreads.com/author/show/5182799.Gabija_Gru_ait_
+        name: "Gabija Gru\u0161ait\u0117"
+    average_rating: '3.89'
+    id: '203278941'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701803159l/203278941._SX98_.jpg
+    isbn: '6098198756'
+    isbn13: '9786098198751'
+    link: https://www.goodreads.com/book/show/203278941-grybo-sapnas
+    num_pages: '384'
+    publication_day: null
+    publication_month: null
+    publication_year: '2023'
+    ratings_count: '330743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701803159l/203278941._SY75_.jpg
+    title: Grybo sapnas
+    title_without_series: Grybo sapnas
+    uri: kca://book/amzn1.gr.book.v3.wmxsLgWw-r3Jiasc
+    work:
+      id: '208929515'
+  - authors:
+      author:
+        id: '14826420'
+        link: https://www.goodreads.com/author/show/14826420.Kotryna_Zyl_
+        name: "Kotryna Zyl\u0117"
+    average_rating: '3.89'
+    id: '214853995'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718523739l/214853995._SX98_.jpg
+    isbn: '6098335257'
+    isbn13: '9786098335255'
+    link: https://www.goodreads.com/book/show/214853995-mylimi-kaulai
+    num_pages: '192'
+    publication_day: '28'
+    publication_month: '6'
+    publication_year: '2024'
+    ratings_count: '330743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718523739l/214853995._SX50_.jpg
+    title: Mylimi kaulai
+    title_without_series: Mylimi kaulai
+    uri: kca://book/amzn1.gr.book.v3.0B9wzwy_gfYxOpx_
+    work:
+      id: '221178789'
+  - authors:
+      author:
+        id: '1421'
+        link: https://www.goodreads.com/author/show/1421.Leonard_Peikoff
+        name: Leonard Peikoff
+    average_rating: '3.89'
+    id: '99951'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0452011019
+    isbn13: '9780452011014'
+    link: https://www.goodreads.com/book/show/99951.Objectivism
+    num_pages: '493'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '330743'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Objectivism: The Philosophy of Ayn Rand'
+    title_without_series: 'Objectivism: The Philosophy of Ayn Rand'
+    uri: kca://book/amzn1.gr.book.v1.KmJYAfhJwahykdHY_CgPlw
+    work:
+      id: '114427'
+  - authors:
+      author:
+        id: '5751733'
+        link: https://www.goodreads.com/author/show/5751733.Mantas_Adom_nas
+        name: "Mantas Adom\u0117nas"
+    average_rating: '3.89'
+    id: '201915356'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699565939l/201915356._SX98_.jpg
+    isbn: '6094798244'
+    isbn13: '9786094798245'
+    link: https://www.goodreads.com/book/show/201915356-moneta-labirintas
+    num_pages: '576'
+    publication_day: '17'
+    publication_month: '11'
+    publication_year: '2023'
+    ratings_count: '330743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699565939l/201915356._SX50_.jpg
+    title: Moneta & labirintas
+    title_without_series: Moneta & labirintas
+    uri: kca://book/amzn1.gr.book.v3.WjfZ7WYpBVevzbD0
+    work:
+      id: '207004414'
+  - authors:
+      author:
+        id: '3114263'
+        link: https://www.goodreads.com/author/show/3114263.Kristina_Sabaliauskait_
+        name: "Kristina Sabaliauskait\u0117"
+    average_rating: '3.89'
+    id: '222118076'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733043173l/222118076._SX98_.jpg
+    isbn: '6090900036'
+    isbn13: '9786090900031'
+    link: https://www.goodreads.com/book/show/222118076-kaip-skaityti-men
+    num_pages: '200'
+    publication_day: '6'
+    publication_month: '12'
+    publication_year: '2024'
+    ratings_count: '330743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733043173l/222118076._SX50_.jpg
+    title: "Kaip skaityti men\u0105"
+    title_without_series: "Kaip skaityti men\u0105"
+    uri: kca://book/amzn1.gr.book.v3.a4FbI43xN1IWUzWb
+    work:
+      id: '229112961'
+  - authors:
+      author:
+        id: '48429280'
+        link: https://www.goodreads.com/author/show/48429280.Giedr_alyt_
+        name: "Giedr\u0117 \u017Dalyt\u0117"
+    average_rating: '3.89'
+    id: '207973680'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707422699l/207973680._SX98_.jpg
+    isbn: '6094668006'
+    isbn13: '9786094668005'
+    link: https://www.goodreads.com/book/show/207973680-gamtos-terapija
+    num_pages: '208'
+    publication_day: '6'
+    publication_month: '2'
+    publication_year: '2024'
+    ratings_count: '330743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707422699l/207973680._SX50_.jpg
+    title: Gamtos terapija
+    title_without_series: Gamtos terapija
+    uri: kca://book/amzn1.gr.book.v3.AyCFmDUWbq-dOOyb
+    work:
+      id: '214065511'
+  - authors:
+      author:
+        id: '3167'
+        link: https://www.goodreads.com/author/show/3167.Joseph_Heller
+        name: Joseph Heller
+    average_rating: '3.89'
+    id: '168668'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463157317l/168668._SX98_.jpg
+    isbn: 0684833395
+    isbn13: '9780684833392'
+    link: https://www.goodreads.com/book/show/168668.Catch_22
+    num_pages: '453'
+    publication_day: '4'
+    publication_month: '9'
+    publication_year: '2004'
+    ratings_count: '330743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463157317l/168668._SY75_.jpg
+    title: Catch-22
+    title_without_series: Catch-22
+    uri: kca://book/amzn1.gr.book.v1.bnDiMekj5pk1csnAkoPABw
+    work:
+      id: '814330'
+  - authors:
+      author:
+        id: '20863499'
+        link: https://www.goodreads.com/author/show/20863499.Sonata_Dirsyt_
+        name: "Sonata Dirsyt\u0117"
+    average_rating: '3.89'
+    id: '208009418'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707466758l/208009418._SX98_.jpg
+    isbn: '6090159026'
+    isbn13: '9786090159026'
+    link: https://www.goodreads.com/book/show/208009418-i-didumo-kalin
+    num_pages: '352'
+    publication_day: null
+    publication_month: '2'
+    publication_year: '2024'
+    ratings_count: '330743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707466758l/208009418._SY75_.jpg
+    title: "I\u0161didumo kalin\u0117"
+    title_without_series: "I\u0161didumo kalin\u0117"
+    uri: kca://book/amzn1.gr.book.v3.Epxfj023u-N34VHA
+    work:
+      id: '214102785'
+  - authors:
+      author:
+        id: '51626206'
+        link: https://www.goodreads.com/author/show/51626206.Deimant_Rud_inskait_
+        name: "Deimant\u0117 Rud\u017Einskait\u0117"
+    average_rating: '3.89'
+    id: '218022285'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724437698l/218022285._SX98_.jpg
+    isbn: '6094799607'
+    isbn13: '9786094799600'
+    link: https://www.goodreads.com/book/show/218022285-pasauliet
+    num_pages: '288'
+    publication_day: '29'
+    publication_month: '8'
+    publication_year: '2024'
+    ratings_count: '330743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724437698l/218022285._SY75_.jpg
+    title: "Pasauliet\u0117"
+    title_without_series: "Pasauliet\u0117"
+    uri: kca://book/amzn1.gr.book.v3.qPQrNnKA9BWeTt7h
+    work:
+      id: '224545594'
+  - authors:
+      author:
+        id: '5751733'
+        link: https://www.goodreads.com/author/show/5751733.Mantas_Adom_nas
+        name: "Mantas Adom\u0117nas"
+    average_rating: '3.89'
+    id: '208194178'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707680622l/208194178._SX98_.jpg
+    isbn: '6094798600'
+    isbn13: '9786094798603'
+    link: https://www.goodreads.com/book/show/208194178-moneta-labirintas-ii
+    num_pages: '560'
+    publication_day: null
+    publication_month: null
+    publication_year: '2024'
+    ratings_count: '330743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707680622l/208194178._SY75_.jpg
+    title: Moneta & labirintas II
+    title_without_series: Moneta & labirintas II
+    uri: kca://book/amzn1.gr.book.v3.hLussYDp4bzrmVPL
+    work:
+      id: '214319695'
+  - authors:
+      author:
+        id: '3487'
+        link: https://www.goodreads.com/author/show/3487.Aldous_Huxley
+        name: Aldous Huxley
+    average_rating: '3.89'
+    id: '5129'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575509280l/5129._SX98_.jpg
+    isbn: 0060929871
+    isbn13: '9780060929879'
+    link: https://www.goodreads.com/book/show/5129.Brave_New_World
+    num_pages: '268'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '330743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575509280l/5129._SY75_.jpg
+    title: Brave New World
+    title_without_series: Brave New World
+    uri: kca://book/amzn1.gr.book.v1.-kk1f25jPWvQSYx7iIvZgQ
+    work:
+      id: '3204877'
+  - authors:
+      author:
+        id: '4820'
+        link: https://www.goodreads.com/author/show/4820.Jeffrey_Archer
+        name: Jeffrey Archer
+    average_rating: '3.89'
+    id: '78983'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0312995059
+    isbn13: '9780312995058'
+    link: https://www.goodreads.com/book/show/78983.Kane_Abel
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '330743'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Kane & Abel (Kane & Abel, #1)'
+    title_without_series: Kane & Abel
+    uri: kca://book/amzn1.gr.book.v1.Et2l-_WCuiY_COUq3SaTgg
+    work:
+      id: '1084150'
+  - authors:
+      author:
+        id: '585'
+        link: https://www.goodreads.com/author/show/585.John_Steinbeck
+        name: John Steinbeck
+    average_rating: '3.89'
+    id: '4406'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639969375l/4406._SX98_.jpg
+    isbn: '0142000655'
+    isbn13: '9780142000656'
+    link: https://www.goodreads.com/book/show/4406.East_of_Eden
+    num_pages: '601'
+    publication_day: null
+    publication_month: null
+    publication_year: '2002'
+    ratings_count: '330743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639969375l/4406._SY75_.jpg
+    title: East of Eden
+    title_without_series: East of Eden
+    uri: kca://book/amzn1.gr.book.v1.MpV2Z6qT_WeCo5WxoUygJw
+    work:
+      id: '2574991'
+  - authors:
+      author:
+        id: '585'
+        link: https://www.goodreads.com/author/show/585.John_Steinbeck
+        name: John Steinbeck
+    average_rating: '3.89'
+    id: '18114322'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375670575l/18114322._SY160_.jpg
+    isbn: 067001690X
+    isbn13: '9780670016907'
+    link: https://www.goodreads.com/book/show/18114322-the-grapes-of-wrath
+    num_pages: '496'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '330743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375670575l/18114322._SY75_.jpg
+    title: The Grapes of Wrath
+    title_without_series: The Grapes of Wrath
+    uri: kca://book/amzn1.gr.book.v1.83NjLckYn5vH9Gf7AdtIQQ
+    work:
+      id: '2931549'
+  - authors:
+      author:
+        id: '51975568'
+        link: https://www.goodreads.com/author/show/51975568.Laima_Bar_auskien_
+        name: "Laima Bar\u0161auskien\u0117"
+    average_rating: '3.89'
+    id: '219180349'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726331827l/219180349._SX98_.jpg
+    isbn: '6094874714'
+    isbn13: '9786094874710'
+    link: https://www.goodreads.com/book/show/219180349-mirtis-ir-ma-iau-svarb-s-dalykai
+    num_pages: '306'
+    publication_day: '16'
+    publication_month: '8'
+    publication_year: '2024'
+    ratings_count: '330743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726331827l/219180349._SX50_.jpg
+    title: "Mirtis ir ma\u017Eiau svarb\u016Bs dalykai"
+    title_without_series: "Mirtis ir ma\u017Eiau svarb\u016Bs dalykai"
+    uri: kca://book/amzn1.gr.book.v3.8nVwYmDn4yrX7vN_
+    work:
+      id: '226103919'
+  - authors:
+      author:
+        id: '6893674'
+        link: https://www.goodreads.com/author/show/6893674.Mencius_Moldbug
+        name: Mencius Moldbug
+    average_rating: '3.89'
+    id: '34526491'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/34526491-patchwork
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '330743'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Patchwork: A Political System for the 21st Century'
+    title_without_series: 'Patchwork: A Political System for the 21st Century'
+    uri: kca://book/amzn1.gr.book.v1.svgvUMu7opmY9SFNwPB4aw
+    work:
+      id: '55660903'
+  - authors:
+      author:
+        id: '3137322'
+        link: https://www.goodreads.com/author/show/3137322.Fyodor_Dostoevsky
+        name: Fyodor Dostoevsky
+    average_rating: '3.89'
+    id: '4934'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427728126l/4934._SX98_.jpg
+    isbn: 0374528373
+    isbn13: '9780374528379'
+    link: https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov
+    num_pages: '796'
+    publication_day: '14'
+    publication_month: '6'
+    publication_year: '2002'
+    ratings_count: '330743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427728126l/4934._SX50_.jpg
+    title: The Brothers Karamazov
+    title_without_series: The Brothers Karamazov
+    uri: kca://book/amzn1.gr.book.v1.uheNhg0E3I3z48JLAZdFrw
+    work:
+      id: '3393910'
+  - authors:
+      author:
+        id: '4828993'
+        link: https://www.goodreads.com/author/show/4828993.Danut_Kalinauskait_
+        name: "Danut\u0117 Kalinauskait\u0117"
+    average_rating: '3.89'
+    id: '150133118'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683381729l/150133118._SX98_.jpg
+    isbn: '6094667263'
+    isbn13: '9786094667268'
+    link: https://www.goodreads.com/book/show/150133118-baltieji-prie-juoduosius
+    num_pages: '202'
+    publication_day: null
+    publication_month: null
+    publication_year: '2023'
+    ratings_count: '330743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683381729l/150133118._SY75_.jpg
+    title: "Baltieji prie\u0161 juoduosius"
+    title_without_series: "Baltieji prie\u0161 juoduosius"
+    uri: kca://book/amzn1.gr.book.v3.kRD3djq6BH3XA9Xa
+    work:
+      id: '165009486'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491163636l/2122._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '12271'
+  '@type': integer
+title: The Fountainhead
+title_without_series: The Fountainhead
+uri: kca://book/amzn1.gr.book.v1.ERhjiWLOCH6pjYGQUCs8-Q
+url: https://www.goodreads.com/book/show/2122.The_Fountainhead
+work:
+  id: '3331807'
+  uri: kca://work/amzn1.gr.work.v1.nKYg67DlRS-x7QKpTNja3Q

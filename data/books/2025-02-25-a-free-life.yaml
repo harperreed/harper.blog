@@ -1,0 +1,756 @@
+asin: B000W966N4
+authors:
+  author:
+    average_rating: '3.60'
+    id: '8055'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1316640407p5/8055.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/8055.Ha_Jin
+    name: Ha Jin
+    ratings_count: '47573'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1316640407p2/8055.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '5576'
+average_rating: '3.71'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: "<b>A <i>New York Times</i> Notable Book </b><br /><br /><b>One of the\
+  \ Best Books of the Year: <i>Chicago Tribune, Chicago Sun-Times, Entertainment Weekly,\
+  \ Slate</i></b><br /><br />In <i>A Free Life</i>, Ha Jin follows the Wu family \u2014\
+  \ father Nan, mother Pingping, and son Taotao \u2014 as they sever their ties with\
+  \ China in the aftermath of the 1989 massacre at Tiananmen Square and begin a new\
+  \ life in the United States. As Nan takes on a number of menial jobs, eventually\
+  \ operating a restaurant with Pingping, he struggles to adapt to the American way\
+  \ of life and to hold his family together, even as he pines for a woman he loved\
+  \ and lost in his youth. Ha Jin's prodigious talents are in full force as he brilliantly\
+  \ brings to life the struggles and successes of the contemporary immigrant experience.<br\
+  \ /><br /><i>From the Trade Paperback edition.</i>"
+edition_information: '1'
+format: null
+id: '6082242'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn:
+  '@nil': 'true'
+isbn13:
+  '@nil': 'true'
+json: '{"id": "6082242", "isbn": {"@nil": "true"}, "isbn13": {"@nil": "true"}, "text_reviews_count":
+  {"@type": "integer", "#text": "6"}, "uri": "kca://book/amzn1.gr.book.v1.QVtYDU2ZbLoVjGkTS46lqw",
+  "title": "A Free Life", "title_without_series": "A Free Life", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/6082242-a-free-life",
+  "num_pages": null, "format": null, "edition_information": "1", "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.71", "ratings_count": "3043", "description": "<b>A <i>New York Times</i> Notable
+  Book </b><br /><br /><b>One of the Best Books of the Year: <i>Chicago Tribune, Chicago
+  Sun-Times, Entertainment Weekly, Slate</i></b><br /><br />In <i>A Free Life</i>,
+  Ha Jin follows the Wu family \u2014 father Nan, mother Pingping, and son Taotao
+  \u2014 as they sever their ties with China in the aftermath of the 1989 massacre
+  at Tiananmen Square and begin a new life in the United States. As Nan takes on a
+  number of menial jobs, eventually operating a restaurant with Pingping, he struggles
+  to adapt to the American way of life and to hold his family together, even as he
+  pines for a woman he loved and lost in his youth. Ha Jin''s prodigious talents are
+  in full force as he brilliantly brings to life the struggles and successes of the
+  contemporary immigrant experience.<br /><br /><i>From the Trade Paperback edition.</i>",
+  "authors": {"author": {"id": "8055", "name": "Ha Jin", "role": null, "image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1316640407p5/8055.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1316640407p2/8055.jpg"},
+  "link": "https://www.goodreads.com/author/show/8055.Ha_Jin", "average_rating": "3.60",
+  "ratings_count": "47573", "text_reviews_count": "5576"}}, "published": null, "work":
+  {"id": "2082841", "uri": "kca://work/amzn1.gr.work.v1.F4A0_dodh6dEE3RHRyRe6Q"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/42404822",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B000W966N4
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/6082242-a-free-life
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '3241'
+    '@name': to-read
+  - '@count': '141'
+    '@name': currently-reading
+  - '@count': '130'
+    '@name': fiction
+  - '@count': '66'
+    '@name': china
+  - '@count': '23'
+    '@name': favorites
+  - '@count': '17'
+    '@name': books-i-own
+  - '@count': '16'
+    '@name': contemporary
+  - '@count': '15'
+    '@name': owned
+  - '@count': '15'
+    '@name': literary-fiction
+  - '@count': '13'
+    '@name': asia
+  - '@count': '11'
+    '@name': audiobook
+  - '@count': '10'
+    '@name': asian-lit
+  - '@count': '10'
+    '@name': immigration
+  - '@count': '9'
+    '@name': novels
+  - '@count': '9'
+    '@name': chinese
+  - '@count': '9'
+    '@name': library
+  - '@count': '8'
+    '@name': literature
+  - '@count': '8'
+    '@name': asian-literature
+  - '@count': '8'
+    '@name': asian
+  - '@count': '7'
+    '@name': america
+  - '@count': '7'
+    '@name': ha-jin
+  - '@count': '7'
+    '@name': audio
+  - '@count': '7'
+    '@name': realistic-fiction
+  - '@count': '6'
+    '@name': immigrant
+  - '@count': '6'
+    '@name': audiobooks
+  - '@count': '5'
+    '@name': owned-books
+  - '@count': '5'
+    '@name': audio-book
+  - '@count': '5'
+    '@name': abandoned
+  - '@count': '5'
+    '@name': literary
+  - '@count': '5'
+    '@name': ebook
+  - '@count': '5'
+    '@name': general-fiction
+  - '@count': '5'
+    '@name': multicultural
+  - '@count': '5'
+    '@name': unfinished
+  - '@count': '5'
+    '@name': poetry
+  - '@count': '5'
+    '@name': chinese-fiction
+  - '@count': '5'
+    '@name': did-not-finish
+  - '@count': '5'
+    '@name': modern-fiction
+  - '@count': '5'
+    '@name': family
+  - '@count': '5'
+    '@name': could-not-finish
+  - '@count': '4'
+    '@name': historical
+  - '@count': '4'
+    '@name': historical-fiction
+  - '@count': '4'
+    '@name': novel
+  - '@count': '4'
+    '@name': chinese-literature
+  - '@count': '4'
+    '@name': contemporary-fiction
+  - '@count': '4'
+    '@name': book-club
+  - '@count': '4'
+    '@name': immigrants
+  - '@count': '3'
+    '@name': physical-tbr
+  - '@count': '3'
+    '@name': asian-authors
+  - '@count': '3'
+    '@name': digital
+  - '@count': '3'
+    '@name': loved
+  - '@count': '3'
+    '@name': cultural
+  - '@count': '3'
+    '@name': ap-lit
+  - '@count': '3'
+    '@name': immigrant-stories
+  - '@count': '3'
+    '@name': read-in-2014
+  - '@count': '3'
+    '@name': chinese-lit
+  - '@count': '3'
+    '@name': maybe
+  - '@count': '3'
+    '@name': asian-american
+  - '@count': '3'
+    '@name': usa
+  - '@count': '3'
+    '@name': my-books
+  - '@count': '3'
+    '@name': ebooks
+  - '@count': '3'
+    '@name': migration
+  - '@count': '3'
+    '@name': adult-fiction
+  - '@count': '2'
+    '@name': want-to-read-fiction
+  - '@count': '2'
+    '@name': lfl
+  - '@count': '2'
+    '@name': buy
+  - '@count': '2'
+    '@name': default
+  - '@count': '2'
+    '@name': realism
+  - '@count': '2'
+    '@name': assimilation
+  - '@count': '2'
+    '@name': immigrant-experience
+  - '@count': '2'
+    '@name': asian-experience
+  - '@count': '2'
+    '@name': books
+  - '@count': '2'
+    '@name': wish-list
+  - '@count': '2'
+    '@name': diaspora
+  - '@count': '2'
+    '@name': might-want-to-read
+  - '@count': '2'
+    '@name': home-shelf
+  - '@count': '2'
+    '@name': audio-books
+  - '@count': '2'
+    '@name': in-my-library
+  - '@count': '2'
+    '@name': books-to-buy
+  - '@count': '2'
+    '@name': international-lit
+  - '@count': '2'
+    '@name': kindle
+  - '@count': '2'
+    '@name': asian-studies
+  - '@count': '2'
+    '@name': politics
+  - '@count': '2'
+    '@name': cina
+  - '@count': '2'
+    '@name': drama
+  - '@count': '2'
+    '@name': biography
+  - '@count': '2'
+    '@name': non-fiction
+  - '@count': '2'
+    '@name': borrowed
+  - '@count': '2'
+    '@name': culture
+  - '@count': '2'
+    '@name': emigration
+  - '@count': '2'
+    '@name': listened-to
+  - '@count': '2'
+    '@name': american
+  - '@count': '2'
+    '@name': to-read-fiction
+  - '@count': '2'
+    '@name': fiction-literature
+  - '@count': '2'
+    '@name': read-in-2010
+  - '@count': '2'
+    '@name': read-2009
+  - '@count': '2'
+    '@name': ap-literature
+  - '@count': '2'
+    '@name': immigrant-fiction
+  - '@count': '2'
+    '@name': chinese-authors
+  - '@count': '2'
+    '@name': owned-to-read
+  - '@count': '2'
+    '@name': fun
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '3043'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/42404822
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/6082242-a-free-life\"\
+  >A Free Life Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B000W966N4&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/6082242-a-free-life?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '7113'
+        link: https://www.goodreads.com/author/show/7113.Anne_Lamott
+        name: Anne Lamott
+    average_rating: '3.71'
+    id: '165934'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328753533l/165934._SX98_.jpg
+    isbn: '1593760035'
+    isbn13: '9781593760038'
+    link: https://www.goodreads.com/book/show/165934.Joe_Jones
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3043'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328753533l/165934._SX50_.jpg
+    title: Joe Jones
+    title_without_series: Joe Jones
+    uri: kca://book/amzn1.gr.book.v1.T6of6CMa5RagsuiOcfrDyg
+    work:
+      id: '1157942'
+  - authors:
+      author:
+        id: '94171'
+        link: https://www.goodreads.com/author/show/94171.Masanobu_Fukuoka
+        name: Masanobu Fukuoka
+    average_rating: '3.71'
+    id: '976905'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558988569l/976905._SX98_.jpg
+    isbn: '8185569312'
+    isbn13: '9788185569314'
+    link: https://www.goodreads.com/book/show/976905.The_One_Straw_Revolution
+    num_pages: '181'
+    publication_day: null
+    publication_month: null
+    publication_year: '2006'
+    ratings_count: '3043'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558988569l/976905._SY75_.jpg
+    title: The One-Straw Revolution
+    title_without_series: The One-Straw Revolution
+    uri: kca://book/amzn1.gr.book.v1.4wRIyYiROLwEoW0McJTqcw
+    work:
+      id: '455641'
+  - authors:
+      author:
+        id: '1911543'
+        link: https://www.goodreads.com/author/show/1911543.Leslie_T_Chang
+        name: Leslie T. Chang
+    average_rating: '3.71'
+    id: '2635587'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320406400l/2635587._SX98_.jpg
+    isbn: 0385520174
+    isbn13: '9780385520171'
+    link: https://www.goodreads.com/book/show/2635587-factory-girls
+    num_pages: '420'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3043'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320406400l/2635587._SY75_.jpg
+    title: 'Factory Girls: From Village to City in a Changing China'
+    title_without_series: 'Factory Girls: From Village to City in a Changing China'
+    uri: kca://book/amzn1.gr.book.v1.BsCBzG2tvlXSbr513xkiww
+    work:
+      id: '2660297'
+  - authors:
+      author:
+        id: '4391'
+        link: https://www.goodreads.com/author/show/4391.Saul_Bellow
+        name: Saul Bellow
+    average_rating: '3.71'
+    id: '52783'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1297116277l/52783._SX98_.jpg
+    isbn: 0140189424
+    isbn13: '9780140189421'
+    link: https://www.goodreads.com/book/show/52783.Henderson_the_Rain_King
+    num_pages: '341'
+    publication_day: null
+    publication_month: null
+    publication_year: '1996'
+    ratings_count: '3043'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1297116277l/52783._SY75_.jpg
+    title: Henderson the Rain King
+    title_without_series: Henderson the Rain King
+    uri: kca://book/amzn1.gr.book.v1.odnIxxSX25Zu3TO8AfCwzw
+    work:
+      id: '2222957'
+  - authors:
+      author:
+        id: '3525'
+        link: https://www.goodreads.com/author/show/3525.Edwidge_Danticat
+        name: Edwidge Danticat
+    average_rating: '3.71'
+    id: '5186'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 037570504X
+    isbn13: '9780375705045'
+    link: https://www.goodreads.com/book/show/5186.Breath_Eyes_Memory
+    num_pages: '234'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3043'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Breath, Eyes, Memory
+    title_without_series: Breath, Eyes, Memory
+    uri: kca://book/amzn1.gr.book.v1.7BIg8BLefo9S2O38HE76lg
+    work:
+      id: '459447'
+  - authors:
+      author:
+        id: '3525'
+        link: https://www.goodreads.com/author/show/3525.Edwidge_Danticat
+        name: Edwidge Danticat
+    average_rating: '3.71'
+    id: '205363944'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711071324l/205363944._SX98_.jpg
+    isbn: '1644453029'
+    isbn13: '9781644453025'
+    link: https://www.goodreads.com/book/show/205363944-we-re-alone
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3043'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711071324l/205363944._SY75_.jpg
+    title: 'We''re Alone: Essays'
+    title_without_series: 'We''re Alone: Essays'
+    uri: kca://book/amzn1.gr.book.v3.3Zda_L1HRap1IdXU
+    work:
+      id: '211639728'
+  - authors:
+      author:
+        id: '150701'
+        link: https://www.goodreads.com/author/show/150701.Jack_Schaefer
+        name: Jack Schaefer
+    average_rating: '3.71'
+    id: '257837'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400442303l/257837._SX98_.jpg
+    isbn: 0395941164
+    isbn13: '9780395941164'
+    link: https://www.goodreads.com/book/show/257837.Shane
+    num_pages: '135'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3043'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400442303l/257837._SX50_.jpg
+    title: Shane
+    title_without_series: Shane
+    uri: kca://book/amzn1.gr.book.v1.pr8qoL_rJc9Jryj5CWq-pA
+    work:
+      id: '444396'
+  - authors:
+      author:
+        id: '481631'
+        link: https://www.goodreads.com/author/show/481631.Kate_Zernike
+        name: Kate Zernike
+    average_rating: '3.71'
+    id: '61273694'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675288780l/61273694._SX98_.jpg
+    isbn: '1982131837'
+    isbn13: '9781982131838'
+    link: https://www.goodreads.com/book/show/61273694-the-exceptions
+    num_pages: '411'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3043'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675288780l/61273694._SX50_.jpg
+    title: 'The Exceptions: Nancy Hopkins, MIT, and the Fight for Women in Science'
+    title_without_series: 'The Exceptions: Nancy Hopkins, MIT, and the Fight for Women
+      in Science'
+    uri: kca://book/amzn1.gr.book.v3.edZwtbVdPXVZQcz_
+    work:
+      id: '96611333'
+  - authors:
+      author:
+        id: '157779'
+        link: https://www.goodreads.com/author/show/157779.Wallace_Stegner
+        name: Wallace Stegner
+    average_rating: '3.71'
+    id: '11045'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0140139400
+    isbn13: '9780140139402'
+    link: https://www.goodreads.com/book/show/11045.The_Spectator_Bird
+    num_pages: '214'
+    publication_day: '1'
+    publication_month: '11'
+    publication_year: '1990'
+    ratings_count: '3043'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Spectator Bird
+    title_without_series: The Spectator Bird
+    uri: kca://book/amzn1.gr.book.v1.F8jGiB3hKme9bKJqTqXDtw
+    work:
+      id: '949595'
+  - authors:
+      author:
+        id: '10442'
+        link: https://www.goodreads.com/author/show/10442.Robert_Cormier
+        name: Robert Cormier
+    average_rating: '3.71'
+    id: '48974'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0141300515'
+    isbn13: '9780141300511'
+    link: https://www.goodreads.com/book/show/48974.I_Am_the_Cheese
+    num_pages: '233'
+    publication_day: '30'
+    publication_month: '7'
+    publication_year: '1998'
+    ratings_count: '3043'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: I Am the Cheese
+    title_without_series: I Am the Cheese
+    uri: kca://book/amzn1.gr.book.v1.jBYMHf8KgrU2S1mJjwFDsA
+    work:
+      id: '958210'
+  - authors:
+      author:
+        id: '234753'
+        link: https://www.goodreads.com/author/show/234753.Marie_Myung_Ok_Lee
+        name: Marie Myung-Ok Lee
+    average_rating: '3.71'
+    id: '59365049'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1651419935l/59365049._SX98_.jpg
+    isbn: '1476735077'
+    isbn13: '9781476735078'
+    link: https://www.goodreads.com/book/show/59365049-the-evening-hero
+    num_pages: '430'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3043'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1651419935l/59365049._SY75_.jpg
+    title: The Evening Hero
+    title_without_series: The Evening Hero
+    uri: kca://book/amzn1.gr.book.v3.DLjQ8Vu6Q86PZL-Y
+    work:
+      id: '84620916'
+  - authors:
+      author:
+        id: '10029'
+        link: https://www.goodreads.com/author/show/10029.Colson_Whitehead
+        name: Colson Whitehead
+    average_rating: '3.71'
+    id: '16271'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550850779l/16271._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/16271.The_Intuitionist
+    num_pages: '255'
+    publication_day: '4'
+    publication_month: '1'
+    publication_year: '1999'
+    ratings_count: '3043'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550850779l/16271._SY75_.jpg
+    title: The Intuitionist
+    title_without_series: The Intuitionist
+    uri: kca://book/amzn1.gr.book.v1.HcQlljkt6JWxvqFB2BYESw
+    work:
+      id: '1632284'
+  - authors:
+      author:
+        id: '10029'
+        link: https://www.goodreads.com/author/show/10029.Colson_Whitehead
+        name: Colson Whitehead
+    average_rating: '3.71'
+    id: '16276'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/16276.John_Henry_Days
+    num_pages: '400'
+    publication_day: '14'
+    publication_month: '5'
+    publication_year: '2002'
+    ratings_count: '3043'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: John Henry Days
+    title_without_series: John Henry Days
+    uri: kca://book/amzn1.gr.book.v1.AE4R7YWzN84qrMdqaJoHbA
+    work:
+      id: '1293126'
+  - authors:
+      author:
+        id: '20177406'
+        link: https://www.goodreads.com/author/show/20177406.Tahir_Hamut_Izgil
+        name: Tahir Hamut Izgil
+    average_rating: '3.71'
+    id: '63249763'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685353059l/63249763._SX98_.jpg
+    isbn: 0593491793
+    isbn13: '9780593491799'
+    link: https://www.goodreads.com/book/show/63249763-waiting-to-be-arrested-at-night
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3043'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685353059l/63249763._SY75_.jpg
+    title: 'Waiting to Be Arrested at Night: A Uyghur Poet''s Memoir of China''s Genocide'
+    title_without_series: 'Waiting to Be Arrested at Night: A Uyghur Poet''s Memoir
+      of China''s Genocide'
+    uri: kca://book/amzn1.gr.book.v3.0WiRRC-JaffBQorn
+    work:
+      id: '99098198'
+  - authors:
+      author:
+        id: '128668'
+        link: https://www.goodreads.com/author/show/128668.Ji_li_Jiang
+        name: Ji-li Jiang
+    average_rating: '3.71'
+    id: '413432'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0439063000
+    isbn13: '9780439063005'
+    link: https://www.goodreads.com/book/show/413432.Red_Scarf_Girl
+    num_pages: '285'
+    publication_day: null
+    publication_month: null
+    publication_year: '1999'
+    ratings_count: '3043'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Red Scarf Girl
+    title_without_series: Red Scarf Girl
+    uri: kca://book/amzn1.gr.book.v1.3XTw-bvhQTYKZ4ysLdhzIA
+    work:
+      id: '2411038'
+  - authors:
+      author:
+        id: '31095'
+        link: https://www.goodreads.com/author/show/31095.Daniel_Mason
+        name: Daniel       Mason
+    average_rating: '3.71'
+    id: '71872930'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684816182l/71872930._SX98_.jpg
+    isbn: 0593597036
+    isbn13: '9780593597033'
+    link: https://www.goodreads.com/book/show/71872930-north-woods
+    num_pages: '372'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3043'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684816182l/71872930._SX50_.jpg
+    title: North Woods
+    title_without_series: North Woods
+    uri: kca://book/amzn1.gr.book.v3.uzHBgqjf0cRXilp8
+    work:
+      id: '100316131'
+  - authors:
+      author:
+        id: '3299'
+        link: https://www.goodreads.com/author/show/3299.Salman_Rushdie
+        name: Salman Rushdie
+    average_rating: '3.71'
+    id: '199344846'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697452251l/199344846._SX98_.jpg
+    isbn: 0593730240
+    isbn13: '9780593730249'
+    link: https://www.goodreads.com/book/show/199344846-knife
+    num_pages: '209'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3043'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697452251l/199344846._SY75_.jpg
+    title: 'Knife: Meditations After an Attempted Murder'
+    title_without_series: 'Knife: Meditations After an Attempted Murder'
+    uri: kca://book/amzn1.gr.book.v3.Kx0_kFsYRKU_mLqu
+    work:
+      id: '203772079'
+  - authors:
+      author:
+        id: '4030'
+        link: https://www.goodreads.com/author/show/4030.Michael_Ondaatje
+        name: Michael Ondaatje
+    average_rating: '3.71'
+    id: '35657511'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534085289l/35657511._SX98_.jpg
+    isbn: '1787330729'
+    isbn13: '9781787330726'
+    link: https://www.goodreads.com/book/show/35657511-warlight
+    num_pages: '290'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3043'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534085289l/35657511._SY75_.jpg
+    title: Warlight
+    title_without_series: Warlight
+    uri: kca://book/amzn1.gr.book.v1.mwFyMNn-QFZwrj1m6zjNqQ
+    work:
+      id: '57112070'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '6'
+  '@type': integer
+title: A Free Life
+title_without_series: A Free Life
+uri: kca://book/amzn1.gr.book.v1.QVtYDU2ZbLoVjGkTS46lqw
+url: https://www.goodreads.com/book/show/6082242-a-free-life
+work:
+  id: '2082841'
+  uri: kca://work/amzn1.gr.work.v1.F4A0_dodh6dEE3RHRyRe6Q

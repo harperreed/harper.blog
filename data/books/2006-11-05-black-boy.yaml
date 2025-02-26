@@ -1,0 +1,745 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.05'
+    id: '9657'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1209848296p5/9657.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/9657.Richard_Wright
+    name: Richard Wright
+    ratings_count: '173076'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1209848296p2/9657.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '9631'
+average_rating: '4.09'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: <i>Black Boy</i> is a classic of American autobiography, a subtly crafted
+  narrative of Richard Wright's journey from innocence to experience in the Jim Crow
+  South. An enduring story of one young man's coming of age during a particular time
+  and place, <i>Black Boy</i> remains a seminal text in our history about what it
+  means to be a man, black, and Southern in America.
+edition_information: The Restored Text Established by The Library of America
+format: Paperback
+id: '228630'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625884353l/228630.jpg
+is_ebook: 'false'
+isbn: 0060929782
+isbn13: '9780060929787'
+json: '{"id": "228630", "isbn": "0060929782", "isbn13": "9780060929787", "text_reviews_count":
+  {"@type": "integer", "#text": "1907"}, "uri": "kca://book/amzn1.gr.book.v1.Aw9G9m3D-pDBr9ps1NBcnw",
+  "title": "Black Boy", "title_without_series": "Black Boy", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625884353l/228630.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625884353l/228630._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/228630.Black_Boy",
+  "num_pages": "419", "format": "Paperback", "edition_information": "The Restored
+  Text Established by The Library of America", "publisher": "Harper Perennial Modern
+  Classics", "publication_day": null, "publication_year": "1998", "publication_month":
+  "9", "average_rating": "4.09", "ratings_count": "54839", "description": "<i>Black
+  Boy</i> is a classic of American autobiography, a subtly crafted narrative of Richard
+  Wright''s journey from innocence to experience in the Jim Crow South. An enduring
+  story of one young man''s coming of age during a particular time and place, <i>Black
+  Boy</i> remains a seminal text in our history about what it means to be a man, black,
+  and Southern in America.", "authors": {"author": {"id": "9657", "name": "Richard
+  Wright", "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1209848296p5/9657.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1209848296p2/9657.jpg"},
+  "link": "https://www.goodreads.com/author/show/9657.Richard_Wright", "average_rating":
+  "4.05", "ratings_count": "173076", "text_reviews_count": "9631"}}, "published":
+  "1998", "work": {"id": "2063986", "uri": "kca://work/amzn1.gr.work.v1.p80aRqWmJlVgYR0az_uKPQ"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417637",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B082T2DBT3
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/228630.Black_Boy
+marketplace_id: ATVPDKIKX0DER
+num_pages: '419'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '44375'
+    '@name': to-read
+  - '@count': '1845'
+    '@name': currently-reading
+  - '@count': '746'
+    '@name': classics
+  - '@count': '629'
+    '@name': non-fiction
+  - '@count': '487'
+    '@name': memoir
+  - '@count': '445'
+    '@name': nonfiction
+  - '@count': '434'
+    '@name': fiction
+  - '@count': '363'
+    '@name': favorites
+  - '@count': '295'
+    '@name': biography
+  - '@count': '227'
+    '@name': african-american
+  - '@count': '188'
+    '@name': race
+  - '@count': '179'
+    '@name': owned
+  - '@count': '171'
+    '@name': autobiography
+  - '@count': '165'
+    '@name': history
+  - '@count': '162'
+    '@name': books-i-own
+  - '@count': '150'
+    '@name': school
+  - '@count': '123'
+    '@name': memoirs
+  - '@count': '121'
+    '@name': classic
+  - '@count': '119'
+    '@name': literature
+  - '@count': '100'
+    '@name': biography-memoir
+  - '@count': '76'
+    '@name': high-school
+  - '@count': '70'
+    '@name': american
+  - '@count': '64'
+    '@name': read-for-school
+  - '@count': '63'
+    '@name': american-literature
+  - '@count': '61'
+    '@name': biographies
+  - '@count': '60'
+    '@name': banned-books
+  - '@count': '56'
+    '@name': library
+  - '@count': '54'
+    '@name': black-authors
+  - '@count': '53'
+    '@name': african-american-literature
+  - '@count': '52'
+    '@name': african-american-lit
+  - '@count': '51'
+    '@name': 20th-century
+  - '@count': '48'
+    '@name': my-library
+  - '@count': '48'
+    '@name': for-school
+  - '@count': '47'
+    '@name': memoir-biography
+  - '@count': '46'
+    '@name': school-books
+  - '@count': '45'
+    '@name': owned-books
+  - '@count': '45'
+    '@name': kindle
+  - '@count': '44'
+    '@name': coming-of-age
+  - '@count': '43'
+    '@name': racism
+  - '@count': '43'
+    '@name': historical
+  - '@count': '41'
+    '@name': american-lit
+  - '@count': '41'
+    '@name': adult
+  - '@count': '40'
+    '@name': novels
+  - '@count': '38'
+    '@name': usa
+  - '@count': '37'
+    '@name': black
+  - '@count': '37'
+    '@name': historical-fiction
+  - '@count': '36'
+    '@name': black-history
+  - '@count': '35'
+    '@name': default
+  - '@count': '33'
+    '@name': autobiography-memoir
+  - '@count': '28'
+    '@name': bowie
+  - '@count': '28'
+    '@name': 1940s
+  - '@count': '27'
+    '@name': to-buy
+  - '@count': '26'
+    '@name': personal-library
+  - '@count': '26'
+    '@name': america
+  - '@count': '26'
+    '@name': 10th-grade
+  - '@count': '26'
+    '@name': book-club
+  - '@count': '25'
+    '@name': black-lit
+  - '@count': '24'
+    '@name': black-literature
+  - '@count': '24'
+    '@name': literary-fiction
+  - '@count': '24'
+    '@name': race-relations
+  - '@count': '24'
+    '@name': classic-literature
+  - '@count': '23'
+    '@name': social-justice
+  - '@count': '23'
+    '@name': audiobook
+  - '@count': '22'
+    '@name': physical-tbr
+  - '@count': '22'
+    '@name': politics
+  - '@count': '22'
+    '@name': civil-rights
+  - '@count': '22'
+    '@name': young-adult
+  - '@count': '21'
+    '@name': united-states
+  - '@count': '21'
+    '@name': school-reads
+  - '@count': '20'
+    '@name': novel
+  - '@count': '20'
+    '@name': authors-of-color
+  - '@count': '20'
+    '@name': chicago
+  - '@count': '19'
+    '@name': bipoc
+  - '@count': '19'
+    '@name': dnf
+  - '@count': '19'
+    '@name': audio
+  - '@count': '19'
+    '@name': memoir-bio
+  - '@count': '19'
+    '@name': school-reading
+  - '@count': '18'
+    '@name': my-books
+  - '@count': '18'
+    '@name': blm
+  - '@count': '18'
+    '@name': memoir-autobiography
+  - '@count': '18'
+    '@name': bio
+  - '@count': '18'
+    '@name': southern-lit
+  - '@count': '18'
+    '@name': junior-year
+  - '@count': '18'
+    '@name': read-in-school
+  - '@count': '18'
+    '@name': on-my-shelf
+  - '@count': '17'
+    '@name': home-library
+  - '@count': '17'
+    '@name': biographies-memoirs
+  - '@count': '17'
+    '@name': southern
+  - '@count': '17'
+    '@name': summer-reading
+  - '@count': '17'
+    '@name': biography-autobiography
+  - '@count': '16'
+    '@name': american-history
+  - '@count': '16'
+    '@name': wish-list
+  - '@count': '16'
+    '@name': banned
+  - '@count': '15'
+    '@name': english
+  - '@count': '15'
+    '@name': sophomore-year
+  - '@count': '15'
+    '@name': ebook
+  - '@count': '15'
+    '@name': ap-lit
+  - '@count': '15'
+    '@name': audiobooks
+  - '@count': '15'
+    '@name': nonfic
+  - '@count': '15'
+    '@name': bookshelf
+publication_day: null
+publication_month: '9'
+publication_year: '1998'
+published: '1998'
+publisher: Harper Perennial Modern Classics
+ratings_count: '54839'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417637
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/228630.Black_Boy\"\
+  >Black Boy Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0060929782&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/228630.Black_Boy?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '22694'
+        link: https://www.goodreads.com/author/show/22694.Flannery_O_Connor
+        name: Flannery O'Connor
+    average_rating: '4.09'
+    id: '48467'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389629799l/48467._SX98_.jpg
+    isbn: '0374530637'
+    isbn13: '9780374530631'
+    link: https://www.goodreads.com/book/show/48467.Wise_Blood
+    num_pages: '256'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '54839'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389629799l/48467._SY75_.jpg
+    title: Wise Blood
+    title_without_series: Wise Blood
+    uri: kca://book/amzn1.gr.book.v1.feMTidEGSfz8YRByRTgSaA
+    work:
+      id: '1046530'
+  - authors:
+      author:
+        id: '8348728'
+        link: https://www.goodreads.com/author/show/8348728.Larada_Horner_Miller
+        name: Larada Horner-Miller
+    average_rating: '4.09'
+    id: '198668522'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1694870293l/198668522._SX98_.jpg
+    isbn: 0996614494
+    isbn13: '9780996614498'
+    link: https://www.goodreads.com/book/show/198668522-hair-on-fire
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '54839'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1694870293l/198668522._SY75_.jpg
+    title: 'Hair on Fire: A Heartwarming & Humorous Christmas Memoir'
+    title_without_series: 'Hair on Fire: A Heartwarming & Humorous Christmas Memoir'
+    uri: kca://book/amzn1.gr.book.v3.2Kp7_T3eytWa_HYr
+    work:
+      id: '201762504'
+  - authors:
+      author:
+        id: '8113'
+        link: https://www.goodreads.com/author/show/8113.John_Barth
+        name: John Barth
+    average_rating: '4.09'
+    id: '12885'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1672764919l/12885._SX98_.jpg
+    isbn: 0385240872
+    isbn13: '9780385240871'
+    link: https://www.goodreads.com/book/show/12885.Lost_in_the_Funhouse
+    num_pages: '205'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '54839'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1672764919l/12885._SY75_.jpg
+    title: Lost in the Funhouse
+    title_without_series: Lost in the Funhouse
+    uri: kca://book/amzn1.gr.book.v1.PMN2vnewpl00zMOWYBn_Bw
+    work:
+      id: '1807785'
+  - authors:
+      author:
+        id: '7508'
+        link: https://www.goodreads.com/author/show/7508.Ralph_Ellison
+        name: Ralph Ellison
+    average_rating: '4.09'
+    id: '16981'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556482805l/16981._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/16981.Invisible_Man
+    num_pages: '581'
+    publication_day: '1'
+    publication_month: '2'
+    publication_year: '1995'
+    ratings_count: '54839'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556482805l/16981._SY75_.jpg
+    title: Invisible Man
+    title_without_series: Invisible Man
+    uri: kca://book/amzn1.gr.book.v1.C-i_xP0_d2JzUKLpmSlU7w
+    work:
+      id: '170957'
+  - authors:
+      author:
+        id: '17290'
+        link: https://www.goodreads.com/author/show/17290.Maxine_Hong_Kingston
+        name: Maxine Hong Kingston
+    average_rating: '4.09'
+    id: '30852'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541333110l/30852._SX98_.jpg
+    isbn: 0679721886
+    isbn13: '9780679721888'
+    link: https://www.goodreads.com/book/show/30852.The_Woman_Warrior
+    num_pages: '204'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '54839'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541333110l/30852._SY75_.jpg
+    title: 'The Woman Warrior: Memoirs of a Girlhood Among Ghosts'
+    title_without_series: 'The Woman Warrior: Memoirs of a Girlhood Among Ghosts'
+    uri: kca://book/amzn1.gr.book.v1.FsIe7sPf8U9LGswG2AmjRQ
+    work:
+      id: '1759'
+  - authors:
+      author:
+        id: '10710'
+        link: https://www.goodreads.com/author/show/10710.W_E_B_Du_Bois
+        name: W.E.B. Du Bois
+    average_rating: '4.09'
+    id: '318742'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309202855l/318742._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/318742.The_Souls_of_Black_Folk
+    num_pages: '288'
+    publication_day: '26'
+    publication_month: '9'
+    publication_year: '1996'
+    ratings_count: '54839'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309202855l/318742._SY75_.jpg
+    title: The Souls of Black Folk
+    title_without_series: The Souls of Black Folk
+    uri: kca://book/amzn1.gr.book.v1.sZEcHw0XPt-y_q0RnR-caw
+    work:
+      id: '1137159'
+  - authors:
+      author:
+        id: '15151'
+        link: https://www.goodreads.com/author/show/15151.Zora_Neale_Hurston
+        name: Zora Neale Hurston
+    average_rating: '4.09'
+    id: '37415'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368072803l/37415._SX98_.jpg
+    isbn: '0061120065'
+    isbn13: '9780061120060'
+    link: https://www.goodreads.com/book/show/37415.Their_Eyes_Were_Watching_God
+    num_pages: '238'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '54839'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368072803l/37415._SY75_.jpg
+    title: Their Eyes Were Watching God
+    title_without_series: Their Eyes Were Watching God
+    uri: kca://book/amzn1.gr.book.v1.VQ2sPS30J-wtJsxYbdcCXg
+    work:
+      id: '1643555'
+  - authors:
+      author:
+        id: '15151'
+        link: https://www.goodreads.com/author/show/15151.Zora_Neale_Hurston
+        name: Zora Neale Hurston
+    average_rating: '4.09'
+    id: '58399'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675153291l/58399._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/58399.Dust_Tracks_on_a_Road
+    num_pages: '324'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '54839'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675153291l/58399._SY75_.jpg
+    title: Dust Tracks on a Road
+    title_without_series: Dust Tracks on a Road
+    uri: kca://book/amzn1.gr.book.v1._tJcEfsgZRhnVof_1Hr5nA
+    work:
+      id: '940516'
+  - authors:
+      author:
+        id: '42661'
+        link: https://www.goodreads.com/author/show/42661.Eldridge_Cleaver
+        name: Eldridge Cleaver
+    average_rating: '4.09'
+    id: '75162'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417410878l/75162._SX98_.jpg
+    isbn: 038533379X
+    isbn13: '9780385333795'
+    link: https://www.goodreads.com/book/show/75162.Soul_on_Ice
+    num_pages: '242'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '54839'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417410878l/75162._SY75_.jpg
+    title: Soul on Ice
+    title_without_series: Soul on Ice
+    uri: kca://book/amzn1.gr.book.v1.fLgFNJpvN7cFv8C9lmZPqw
+    work:
+      id: '1949545'
+  - authors:
+      author:
+        id: '4369397'
+        link: https://www.goodreads.com/author/show/4369397.Harriet_Ann_Jacobs
+        name: Harriet Ann Jacobs
+    average_rating: '4.09'
+    id: '152519'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418788224l/152519._SX98_.jpg
+    isbn: 0486419312
+    isbn13: '9780486419312'
+    link: https://www.goodreads.com/book/show/152519.Incidents_in_the_Life_of_a_Slave_Girl
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '54839'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418788224l/152519._SY75_.jpg
+    title: Incidents in the Life of a Slave Girl
+    title_without_series: Incidents in the Life of a Slave Girl
+    uri: kca://book/amzn1.gr.book.v1.LJRAzpWQ1CH66vSriBSvpQ
+    work:
+      id: '330710'
+  - authors:
+      author:
+        id: '7922266'
+        link: https://www.goodreads.com/author/show/7922266.Neely_Fuller_Jr_
+        name: Neely Fuller Jr.
+    average_rating: '4.09'
+    id: '18711219'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/18711219-the-united-independent-compensatory-code-system-concept-a-textbook-workb
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '54839'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The United Independent Compensatory Code System Concept a textbook/workbook
+      for Thought, Speech and/or Action for Victims of Racism (white supremacy)
+    title_without_series: The United Independent Compensatory Code System Concept
+      a textbook/workbook for Thought, Speech and/or Action for Victims of Racism
+    uri: kca://book/amzn1.gr.book.v1.90Ds4yW3DeccmHl3y3B4Vg
+    work:
+      id: '26570425'
+  - authors:
+      author:
+        id: '142122'
+        link: https://www.goodreads.com/author/show/142122.Carter_G_Woodson
+        name: Carter G. Woodson
+    average_rating: '4.09'
+    id: '242936'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1564110419'
+    isbn13: '9781564110411'
+    link: https://www.goodreads.com/book/show/242936.The_Mis_Education_of_the_Negro
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '54839'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Mis-Education of the Negro
+    title_without_series: The Mis-Education of the Negro
+    uri: kca://book/amzn1.gr.book.v1.s7wkLXIlO6RpWIe2MHz1sg
+    work:
+      id: '235359'
+  - authors:
+      author:
+        id: '372319'
+        link: https://www.goodreads.com/author/show/372319.Frances_Cress_Welsing
+        name: Frances Cress Welsing
+    average_rating: '4.09'
+    id: '696980'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686145408l/696980._SX98_.jpg
+    isbn: 0976531704
+    isbn13: '9780976531708'
+    link: https://www.goodreads.com/book/show/696980.The_Isis_Papers
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '54839'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686145408l/696980._SY75_.jpg
+    title: 'The Isis Papers: The Keys to the Colors'
+    title_without_series: 'The Isis Papers: The Keys to the Colors'
+    uri: kca://book/amzn1.gr.book.v1._XCndS6SSj3EFIPqhJwztA
+    work:
+      id: '683299'
+  - authors:
+      author:
+        id: '10427'
+        link: https://www.goodreads.com/author/show/10427.James_Baldwin
+        name: James Baldwin
+    average_rating: '4.09'
+    id: '38458'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1736733782l/38458._SY160_.jpg
+    isbn: 0679744738
+    isbn13: '9780679744733'
+    link: https://www.goodreads.com/book/show/38458.Nobody_Knows_My_Name
+    num_pages: '242'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '54839'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1736733782l/38458._SY75_.jpg
+    title: Nobody Knows My Name
+    title_without_series: Nobody Knows My Name
+    uri: kca://book/amzn1.gr.book.v1.aXcVmRjE5s7Pie0RbmxEZg
+    work:
+      id: '38225'
+  - authors:
+      author:
+        id: '23088036'
+        link: https://www.goodreads.com/author/show/23088036.Anise_Vance
+        name: Anise Vance
+    average_rating: '4.09'
+    id: '125478681'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687141197l/125478681._SX98_.jpg
+    isbn: '1335449523'
+    isbn13: '9781335449528'
+    link: https://www.goodreads.com/book/show/125478681-hush-harbor
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '54839'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687141197l/125478681._SY75_.jpg
+    title: Hush Harbor
+    title_without_series: Hush Harbor
+    uri: kca://book/amzn1.gr.book.v3.wYexM4fkjqm94mLz
+    work:
+      id: '99837843'
+  - authors:
+      author:
+        id: '15151'
+        link: https://www.goodreads.com/author/show/15151.Zora_Neale_Hurston
+        name: Zora Neale Hurston
+    average_rating: '4.09'
+    id: '84031'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328768174l/84031._SX98_.jpg
+    isbn: 0912670665
+    isbn13: '9780912670669'
+    link: https://www.goodreads.com/book/show/84031.I_Love_Myself_When_I_Am_Laughing_And_Then_Again_When_I_Am_Looking_Mean_Impressive
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '54839'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328768174l/84031._SY75_.jpg
+    title: I Love Myself When I Am Laughing And Then Again When I Am Looking Mean
+      & Impressive
+    title_without_series: I Love Myself When I Am Laughing And Then Again When I Am
+      Looking Mean & Impressive
+    uri: kca://book/amzn1.gr.book.v1.iKBfI005hcUHlMN4Y8Tw5Q
+    work:
+      id: '2108573'
+  - authors:
+      author:
+        id: '10427'
+        link: https://www.goodreads.com/author/show/10427.James_Baldwin
+        name: James Baldwin
+    average_rating: '4.09'
+    id: '464260'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657560861l/464260._SX98_.jpg
+    isbn: 067974472X
+    isbn13: '9780679744726'
+    link: https://www.goodreads.com/book/show/464260.The_Fire_Next_Time
+    num_pages: '106'
+    publication_day: '1'
+    publication_month: '12'
+    publication_year: '1992'
+    ratings_count: '54839'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657560861l/464260._SY75_.jpg
+    title: The Fire Next Time
+    title_without_series: The Fire Next Time
+    uri: kca://book/amzn1.gr.book.v1.zv3K4IKiYhCu9hpyEYG-vg
+    work:
+      id: '1129041'
+  - authors:
+      author:
+        id: '15151'
+        link: https://www.goodreads.com/author/show/15151.Zora_Neale_Hurston
+        name: Zora Neale Hurston
+    average_rating: '4.09'
+    id: '584512'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0060916486
+    isbn13: '9780060916480'
+    link: https://www.goodreads.com/book/show/584512.Mules_and_Men
+    num_pages: '341'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '54839'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Mules and Men
+    title_without_series: Mules and Men
+    uri: kca://book/amzn1.gr.book.v1.hUnFUzHRQ75C5R2QtT6MqQ
+    work:
+      id: '2372176'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625884353l/228630._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '1907'
+  '@type': integer
+title: Black Boy
+title_without_series: Black Boy
+uri: kca://book/amzn1.gr.book.v1.Aw9G9m3D-pDBr9ps1NBcnw
+url: https://www.goodreads.com/book/show/228630.Black_Boy
+work:
+  id: '2063986'
+  uri: kca://work/amzn1.gr.work.v1.p80aRqWmJlVgYR0az_uKPQ
