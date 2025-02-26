@@ -1,0 +1,753 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.98'
+    id: '12476'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1630694226p5/12476.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/12476.Joe_Haldeman
+    name: Joe Haldeman
+    ratings_count: '271469'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1630694226p2/12476.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '15043'
+average_rating: '3.75'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2019-10-10T00:00:00-07:00'
+description: <p>2043 The Ngumi War rages. A burned-out soldier and his scientist lover
+  discover a secret that could put the universe back to square one. And it is not
+  terrifying. It is tempting...</p>
+edition_information: Reissue
+format: Kindle Edition
+id: '31346068'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470275773l/31346068._SY160_.jpg
+is_ebook: 'true'
+isbn: '1101666196'
+isbn13: '9781101666197'
+json: '{"id": "31346068", "isbn": "1101666196", "isbn13": "9781101666197", "text_reviews_count":
+  {"@type": "integer", "#text": "29"}, "uri": "kca://book/amzn1.gr.book.v1.kF_F316XwQowmq8hFG4-0Q",
+  "title": "Forever Peace", "title_without_series": "Forever Peace", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470275773l/31346068._SY160_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470275773l/31346068._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/31346068-forever-peace",
+  "num_pages": "364", "format": "Kindle Edition", "edition_information": "Reissue",
+  "publisher": null, "publication_day": "7", "publication_year": "2013", "publication_month":
+  "6", "average_rating": "3.75", "ratings_count": "22205", "description": "<p>2043
+  The Ngumi War rages. A burned-out soldier and his scientist lover discover a secret
+  that could put the universe back to square one. And it is not terrifying. It is
+  tempting...</p>", "authors": {"author": {"id": "12476", "name": "Joe Haldeman",
+  "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1630694226p5/12476.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1630694226p2/12476.jpg"},
+  "link": "https://www.goodreads.com/author/show/12476.Joe_Haldeman", "average_rating":
+  "3.98", "ratings_count": "271469", "text_reviews_count": "15043"}}, "published":
+  "2013", "work": {"id": "94590", "uri": "kca://work/amzn1.gr.work.v1.zD23RBfZCeO1smMpxL4xIw"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/3003840381",
+  "read_at": "Thu Oct 10 00:00:00 -0700 2019", "started_at": "Sun Oct 06 00:00:00
+  -0700 2019", "date": "Thu Oct 10 00:00:00 -0700 2019"}'
+kindle_asin: B01JHOBPWG
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/31346068-forever-peace
+marketplace_id: ATVPDKIKX0DER
+num_pages: '364'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '11312'
+    '@name': to-read
+  - '@count': '777'
+    '@name': science-fiction
+  - '@count': '583'
+    '@name': currently-reading
+  - '@count': '499'
+    '@name': sci-fi
+  - '@count': '210'
+    '@name': fiction
+  - '@count': '164'
+    '@name': scifi
+  - '@count': '108'
+    '@name': owned
+  - '@count': '101'
+    '@name': hugo-winners
+  - '@count': '101'
+    '@name': hugo
+  - '@count': '91'
+    '@name': sf
+  - '@count': '77'
+    '@name': nebula
+  - '@count': '62'
+    '@name': hugo-award
+  - '@count': '60'
+    '@name': hugo-award-winners
+  - '@count': '53'
+    '@name': war
+  - '@count': '51'
+    '@name': nebula-winners
+  - '@count': '47'
+    '@name': nebula-award
+  - '@count': '46'
+    '@name': hugo-nebula
+  - '@count': '41'
+    '@name': sci-fi-fantasy
+  - '@count': '40'
+    '@name': default
+  - '@count': '32'
+    '@name': military
+  - '@count': '29'
+    '@name': hugo-awards
+  - '@count': '29'
+    '@name': audiobook
+  - '@count': '29'
+    '@name': favorites
+  - '@count': '28'
+    '@name': hugo-winner
+  - '@count': '27'
+    '@name': series
+  - '@count': '25'
+    '@name': library
+  - '@count': '24'
+    '@name': kindle
+  - '@count': '24'
+    '@name': speculative-fiction
+  - '@count': '23'
+    '@name': nebula-award-winners
+  - '@count': '22'
+    '@name': ebook
+  - '@count': '22'
+    '@name': to-buy
+  - '@count': '20'
+    '@name': audiobooks
+  - '@count': '19'
+    '@name': scifi-fantasy
+  - '@count': '18'
+    '@name': science-fiction-fantasy
+  - '@count': '18'
+    '@name': novels
+  - '@count': '18'
+    '@name': space-opera
+  - '@count': '18'
+    '@name': science
+  - '@count': '17'
+    '@name': joe-haldeman
+  - '@count': '17'
+    '@name': audible
+  - '@count': '17'
+    '@name': fantasy
+  - '@count': '17'
+    '@name': nebula-winner
+  - '@count': '16'
+    '@name': military-sci-fi
+  - '@count': '15'
+    '@name': military-sf
+  - '@count': '15'
+    '@name': hugo-nebula-winners
+  - '@count': '15'
+    '@name': ebooks
+  - '@count': '15'
+    '@name': hugo-award-winner
+  - '@count': '15'
+    '@name': sf-fantasy
+  - '@count': '14'
+    '@name': "ciencia-ficci\xF3n"
+  - '@count': '14'
+    '@name': hugos
+  - '@count': '13'
+    '@name': military-scifi
+  - '@count': '13'
+    '@name': abandoned
+  - '@count': '12'
+    '@name': dnf
+  - '@count': '12'
+    '@name': novel
+  - '@count': '12'
+    '@name': books-i-own
+  - '@count': '12'
+    '@name': calibre
+  - '@count': '12'
+    '@name': adventure
+  - '@count': '12'
+    '@name': 1990s
+  - '@count': '11'
+    '@name': nebula-awards
+  - '@count': '11'
+    '@name': dystopian
+  - '@count': '11'
+    '@name': space
+  - '@count': '11'
+    '@name': hugo-and-nebula-winners
+  - '@count': '10'
+    '@name': forever-war
+  - '@count': '10'
+    '@name': my-library
+  - '@count': '10'
+    '@name': e-book
+  - '@count': '9'
+    '@name': award-hugo
+  - '@count': '9'
+    '@name': audio
+  - '@count': '9'
+    '@name': owned-books
+  - '@count': '9'
+    '@name': have
+  - '@count': '9'
+    '@name': military-fiction
+  - '@count': '9'
+    '@name': ciencia-ficcion
+  - '@count': '9'
+    '@name': action
+  - '@count': '9'
+    '@name': dystopia
+  - '@count': '9'
+    '@name': haldeman
+  - '@count': '8'
+    '@name': audio-book
+  - '@count': '8'
+    '@name': award-nebula
+  - '@count': '8'
+    '@name': military-science-fiction
+  - '@count': '8'
+    '@name': fantascienza
+  - '@count': '7'
+    '@name': owned-unread
+  - '@count': '7'
+    '@name': classics
+  - '@count': '7'
+    '@name': paperback
+  - '@count': '7'
+    '@name': unread
+  - '@count': '7'
+    '@name': my-books
+  - '@count': '7'
+    '@name': digital
+  - '@count': '7'
+    '@name': wish-list
+  - '@count': '7'
+    '@name': sff
+  - '@count': '7'
+    '@name': to-read-sci-fi
+  - '@count': '7'
+    '@name': science-fiction-and-fantasy
+  - '@count': '7'
+    '@name': hugo-and-nebula
+  - '@count': '7'
+    '@name': cyberpunk
+  - '@count': '7'
+    '@name': haldeman-joe
+  - '@count': '7'
+    '@name': award-winner
+  - '@count': '6'
+    '@name': books
+  - '@count': '6'
+    '@name': fantasy-sci-fi
+  - '@count': '6'
+    '@name': hugo-award-best-novel
+  - '@count': '6'
+    '@name': to-read-fiction
+  - '@count': '6'
+    '@name': want-to-buy
+  - '@count': '6'
+    '@name': awards-hugo
+  - '@count': '6'
+    '@name': general
+  - '@count': '6'
+    '@name': fantasy-scifi
+  - '@count': '6'
+    '@name': nebula-award-winner
+publication_day: '7'
+publication_month: '6'
+publication_year: '2013'
+published: '2013'
+publisher: null
+ratings_count: '22205'
+read_at: '2019-10-10T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/3003840381
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/31346068-forever-peace\"\
+  >Forever Peace Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1101666196&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/31346068-forever-peace?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '1969697'
+    series:
+      description: "<i>Forever Peace</i> is a thematic companion novel to Haldeman's\
+        \ famous novel <i>Forever War</i>. (Also see the <a href=\"http://www.goodreads.com/series/54376-the-forever-war\"\
+        >Forever War series</a>.)\n    \n    Haldeman later added a prequel novelette,\
+        \ \"Forever Bound\", which was first published in the <i>Warriors</i> anthology\
+        \ and has also been reprinted in an issue of <i>Clarkesworld</i>."
+      id: '343974'
+      note: null
+      numbered: 'true'
+      primary_work_count: '1'
+      series_works_count: '4'
+      title: Forever Peace
+    user_position: '1'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '14887946'
+        link: https://www.goodreads.com/author/show/14887946.Max_Nowaz
+        name: Max Nowaz
+    average_rating: '3.75'
+    id: '101265124'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SX98_.jpg
+    isbn: '1803133961'
+    isbn13: '9781803133966'
+    link: https://www.goodreads.com/book/show/101265124-the-polymorph
+    num_pages: '0'
+    publication_day: '4'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '22205'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SY75_.jpg
+    title: The Polymorph
+    title_without_series: The Polymorph
+    uri: kca://book/amzn1.gr.book.v3.2WI1HTFNfz3UC2Zb
+    work:
+      id: '124767981'
+  - authors:
+      author:
+        id: '14078'
+        link: https://www.goodreads.com/author/show/14078.David_Brin
+        name: David Brin
+    average_rating: '3.75'
+    id: '234501'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476445711l/234501._SY160_.jpg
+    isbn: 055327418X
+    isbn13: '9780553274189'
+    link: https://www.goodreads.com/book/show/234501.Startide_Rising
+    num_pages: '458'
+    publication_day: '1'
+    publication_month: '9'
+    publication_year: '1983'
+    ratings_count: '22205'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476445711l/234501._SY75_.jpg
+    title: 'Startide Rising (The Uplift Saga, #2)'
+    title_without_series: Startide Rising
+    uri: kca://book/amzn1.gr.book.v1.-udcgKUX5bzo1fbGJaj1lQ
+    work:
+      id: '251634'
+  - authors:
+      author:
+        id: '4338'
+        link: https://www.goodreads.com/author/show/4338.Robert_Silverberg
+        name: Robert Silverberg
+    average_rating: '3.75'
+    id: '1706646'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1264969026l/1706646._SX98_.jpg
+    isbn: 0586039953
+    isbn13: '9780586039953'
+    link: https://www.goodreads.com/book/show/1706646.A_Time_of_Changes
+    num_pages: '205'
+    publication_day: null
+    publication_month: null
+    publication_year: '1975'
+    ratings_count: '22205'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1264969026l/1706646._SY75_.jpg
+    title: A Time of Changes
+    title_without_series: A Time of Changes
+    uri: kca://book/amzn1.gr.book.v1.6gH9NrfJbcaWbAlxLA_gjw
+    work:
+      id: '1011356'
+  - authors:
+      author:
+        id: '10089'
+        link: https://www.goodreads.com/author/show/10089.Philip_Jos_Farmer
+        name: "Philip Jos\xE9 Farmer"
+    average_rating: '3.75'
+    id: '189147'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327657439l/189147._SX98_.jpg
+    isbn: 0345419677
+    isbn13: '9780345419675'
+    link: https://www.goodreads.com/book/show/189147.To_Your_Scattered_Bodies_Go
+    num_pages: '220'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '22205'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327657439l/189147._SY75_.jpg
+    title: 'To Your Scattered Bodies Go (Riverworld, #1)'
+    title_without_series: To Your Scattered Bodies Go
+    uri: kca://book/amzn1.gr.book.v1.wIw5GtZ5OUjNitXyrbWlKA
+    work:
+      id: '3171254'
+  - authors:
+      author:
+        id: '23503'
+        link: https://www.goodreads.com/author/show/23503.Vonda_N_McIntyre
+        name: Vonda N. McIntyre
+    average_rating: '3.75'
+    id: '263021'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440756641l/263021._SY160_.jpg
+    isbn: 0553296590
+    isbn13: '9780553296594'
+    link: https://www.goodreads.com/book/show/263021.Dreamsnake
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '22205'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440756641l/263021._SY75_.jpg
+    title: Dreamsnake
+    title_without_series: Dreamsnake
+    uri: kca://book/amzn1.gr.book.v1.g8J4Uam0DBdqEs_HGFA1hg
+    work:
+      id: '254960'
+  - authors:
+      author:
+        id: '14078'
+        link: https://www.goodreads.com/author/show/14078.David_Brin
+        name: David Brin
+    average_rating: '3.75'
+    id: '96472'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0553269828
+    isbn13: '9780553269826'
+    link: https://www.goodreads.com/book/show/96472.Sundiver
+    num_pages: '340'
+    publication_day: '21'
+    publication_month: '7'
+    publication_year: '2010'
+    ratings_count: '22205'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Sundiver (The Uplift Saga, #1)'
+    title_without_series: Sundiver
+    uri: kca://book/amzn1.gr.book.v1.kLuNoSlFn3Cl0sC97tejyg
+    work:
+      id: '461555'
+  - authors:
+      author:
+        id: '23113'
+        link: https://www.goodreads.com/author/show/23113.John_Brunner
+        name: John Brunner
+    average_rating: '3.75'
+    id: '41069'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360613921l/41069._SX98_.jpg
+    isbn: '1857988361'
+    isbn13: '9781857988369'
+    link: https://www.goodreads.com/book/show/41069.Stand_on_Zanzibar
+    num_pages: '672'
+    publication_day: '12'
+    publication_month: '8'
+    publication_year: '1999'
+    ratings_count: '22205'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360613921l/41069._SY75_.jpg
+    title: Stand on Zanzibar
+    title_without_series: Stand on Zanzibar
+    uri: kca://book/amzn1.gr.book.v1.mgQayaokn8LDiZ1--4Islg
+    work:
+      id: '2184253'
+  - authors:
+      author:
+        id: '15015247'
+        link: https://www.goodreads.com/author/show/15015247.Michael_G_Kramer
+        name: Michael G. Kramer
+    average_rating: '3.75'
+    id: '61834162'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683012903l/61834162._SX98_.jpg
+    isbn: 0645570109
+    isbn13: '9780645570106'
+    link: https://www.goodreads.com/book/show/61834162-a-gracious-enemy-after-the-war-volume-two
+    num_pages: '300'
+    publication_day: '3'
+    publication_month: '8'
+    publication_year: '2022'
+    ratings_count: '22205'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683012903l/61834162._SY75_.jpg
+    title: A Gracious Enemy & After the War Volume Two
+    title_without_series: A Gracious Enemy & After the War Volume Two
+    uri: kca://book/amzn1.gr.book.v3.aDQ3bN6RMhU_ET0b
+    work:
+      id: '97480671'
+  - authors:
+      author:
+        id: '22996'
+        link: https://www.goodreads.com/author/show/22996.Frederik_Pohl
+        name: Frederik Pohl
+    average_rating: '3.75'
+    id: '218427'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441698400l/218427._SX98_.jpg
+    isbn: 0345475836
+    isbn13: '9780345475831'
+    link: https://www.goodreads.com/book/show/218427.Gateway
+    num_pages: '278'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '22205'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441698400l/218427._SY75_.jpg
+    title: 'Gateway (Heechee Saga, #1)'
+    title_without_series: Gateway
+    uri: kca://book/amzn1.gr.book.v1.n1Tv-lX4_x6OV_jZ77vLhA
+    work:
+      id: '1668837'
+  - authors:
+      author:
+        id: '14407836'
+        link: https://www.goodreads.com/author/show/14407836.A_R_Merrydew
+        name: A.R. Merrydew
+    average_rating: '3.75'
+    id: '215186841'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/215186841-inara
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '22205'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Inara (Godfrey Davis, #3)'
+    title_without_series: Inara
+    uri: kca://book/amzn1.gr.book.v3.wCOHuKhf0nZUkB2e
+    work:
+      id: '221595685'
+  - authors:
+      author:
+        id: '4763'
+        link: https://www.goodreads.com/author/show/4763.John_Scalzi
+        name: John Scalzi
+    average_rating: '3.75'
+    id: '23168809'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411134775l/23168809._SX98_.jpg
+    isbn: '0765376075'
+    isbn13: '9780765376077'
+    link: https://www.goodreads.com/book/show/23168809-the-end-of-all-things
+    num_pages: '380'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '22205'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411134775l/23168809._SX50_.jpg
+    title: 'The End of All Things (Old Man''s War, #6)'
+    title_without_series: The End of All Things
+    uri: kca://book/amzn1.gr.book.v1.9UbNdbJHp4jpxhziByg4Ow
+    work:
+      id: '42713953'
+  - authors:
+      author:
+        id: '48885'
+        link: https://www.goodreads.com/author/show/48885.Kate_Wilhelm
+        name: Kate Wilhelm
+    average_rating: '3.75'
+    id: '968827'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460999710l/968827._SX98_.jpg
+    isbn: '0060146540'
+    isbn13: '9780060146542'
+    link: https://www.goodreads.com/book/show/968827.Where_Late_the_Sweet_Birds_Sang
+    num_pages: '251'
+    publication_day: '1'
+    publication_month: '12'
+    publication_year: '1977'
+    ratings_count: '22205'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460999710l/968827._SY75_.jpg
+    title: Where Late the Sweet Birds Sang
+    title_without_series: Where Late the Sweet Birds Sang
+    uri: kca://book/amzn1.gr.book.v1.Bgb2APkNYtH5BnEeOgM3mg
+    work:
+      id: '953721'
+  - authors:
+      author:
+        id: '4763'
+        link: https://www.goodreads.com/author/show/4763.John_Scalzi
+        name: John Scalzi
+    average_rating: '3.75'
+    id: '88071'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0765316978
+    isbn13: '9780765316974'
+    link: https://www.goodreads.com/book/show/88071.The_Last_Colony
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '22205'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Last Colony (Old Man''s War, #3)'
+    title_without_series: The Last Colony
+    uri: kca://book/amzn1.gr.book.v1.4JzszrQ4MSuHOp81OmydLQ
+    work:
+      id: '18279847'
+  - authors:
+      author:
+        id: '4763'
+        link: https://www.goodreads.com/author/show/4763.John_Scalzi
+        name: John Scalzi
+    average_rating: '3.75'
+    id: '15698479'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341582413l/15698479._SX98_.jpg
+    isbn: '0765333511'
+    isbn13: '9780765333513'
+    link: https://www.goodreads.com/book/show/15698479-the-human-division
+    num_pages: '431'
+    publication_day: '14'
+    publication_month: '5'
+    publication_year: '2013'
+    ratings_count: '22205'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341582413l/15698479._SY75_.jpg
+    title: 'The Human Division (Old Man''s War, #5)'
+    title_without_series: The Human Division
+    uri: kca://book/amzn1.gr.book.v1.Yc_o1eV14LlLSyAkCFTmIA
+    work:
+      id: '21356077'
+  - authors:
+      author:
+        id: '7779'
+        link: https://www.goodreads.com/author/show/7779.Arthur_C_Clarke
+        name: Arthur C. Clarke
+    average_rating: '3.75'
+    id: '149049'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344265959l/149049._SX98_.jpg
+    isbn: 0446677949
+    isbn13: '9780446677943'
+    link: https://www.goodreads.com/book/show/149049.The_Fountains_of_Paradise
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '22205'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344265959l/149049._SY75_.jpg
+    title: The Fountains of Paradise
+    title_without_series: The Fountains of Paradise
+    uri: kca://book/amzn1.gr.book.v1.7CL_QltVzJTaFRIXATb6zQ
+    work:
+      id: '734510'
+  - authors:
+      author:
+        id: '205'
+        link: https://www.goodreads.com/author/show/205.Robert_A_Heinlein
+        name: Robert A. Heinlein
+    average_rating: '3.75'
+    id: '175324'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327984434l/175324._SY160_.jpg
+    isbn: '0345330137'
+    isbn13: '9780345330130'
+    link: https://www.goodreads.com/book/show/175324.Double_Star
+    num_pages: '243'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '22205'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327984434l/175324._SY75_.jpg
+    title: Double Star
+    title_without_series: Double Star
+    uri: kca://book/amzn1.gr.book.v1.rnm83tv1Xf6gKimwRVmqcQ
+    work:
+      id: '2887127'
+  - authors:
+      author:
+        id: '205'
+        link: https://www.goodreads.com/author/show/205.Robert_A_Heinlein
+        name: Robert A. Heinlein
+    average_rating: '3.75'
+    id: '17214'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614054412l/17214._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/17214.Starship_Troopers
+    num_pages: '264'
+    publication_day: null
+    publication_month: '5'
+    publication_year: '1987'
+    ratings_count: '22205'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614054412l/17214._SY75_.jpg
+    title: Starship Troopers
+    title_without_series: Starship Troopers
+    uri: kca://book/amzn1.gr.book.v1.WlcZG9NeWw7A-2d1-4B8sw
+    work:
+      id: '2534973'
+  - authors:
+      author:
+        id: '23001'
+        link: https://www.goodreads.com/author/show/23001.Fritz_Leiber
+        name: Fritz Leiber
+    average_rating: '3.75'
+    id: '102281'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312007868l/102281._SX98_.jpg
+    isbn: 0312890788
+    isbn13: '9780312890780'
+    link: https://www.goodreads.com/book/show/102281.The_Big_Time
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '22205'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312007868l/102281._SY75_.jpg
+    title: The Big Time
+    title_without_series: The Big Time
+    uri: kca://book/amzn1.gr.book.v1.CJl0WEqZ4vu8H_0PX3bt2Q
+    work:
+      id: '937317'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470275773l/31346068._SY75_.jpg
+started_at: '2019-10-06T00:00:00-07:00'
+text_reviews_count:
+  '#text': '29'
+  '@type': integer
+title: Forever Peace
+title_without_series: Forever Peace
+uri: kca://book/amzn1.gr.book.v1.kF_F316XwQowmq8hFG4-0Q
+url: https://www.goodreads.com/book/show/31346068-forever-peace
+work:
+  id: '94590'
+  uri: kca://work/amzn1.gr.work.v1.zD23RBfZCeO1smMpxL4xIw

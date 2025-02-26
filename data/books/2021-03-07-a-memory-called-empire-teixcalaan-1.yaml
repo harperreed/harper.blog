@@ -1,0 +1,767 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.16'
+    id: '13803582'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1517495486p5/13803582.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/13803582.Arkady_Martine
+    name: Arkady Martine
+    ratings_count: '102316'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1517495486p2/13803582.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '13484'
+average_rating: '4.12'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2021-03-07T00:00:00-08:00'
+description: "Ambassador Mahit Dzmare arrives in the center of the multi-system Teixcalaanli\
+  \ Empire only to discover that her predecessor, the previous ambassador from their\
+  \ small but fiercely independent mining Station, has died. But no one will admit\
+  \ that his death wasn't an accident\u2014or that Mahit might be next to die, during\
+  \ a time of political instability in the highest echelons of the imperial court.<br\
+  \ /><br />Now, Mahit must discover who is behind the murder, rescue herself, and\
+  \ save her Station from Teixcalaan's unceasing expansion\u2014all while navigating\
+  \ an alien culture that is all too seductive, engaging in intrigues of her own,\
+  \ and hiding a deadly technological secret\u2014one that might spell the end of\
+  \ her Station and her way of life\u2014or rescue it from annihilation.<br /><br\
+  \ /><b>A fascinating space opera debut novel, Arkady Martine's <i>A Memory Called\
+  \ Empire</i> is an interstellar mystery adventure.</b>"
+edition_information: null
+format: null
+id: '39873472'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528119589l/39873472._SX98_.jpg
+is_ebook: 'true'
+isbn: '1250186455'
+isbn13: '9781250186454'
+json: '{"id": "39873472", "isbn": "1250186455", "isbn13": "9781250186454", "text_reviews_count":
+  {"@type": "integer", "#text": "866"}, "uri": "kca://book/amzn1.gr.book.v1.yT0ccJ8czbmj46aCv637gg",
+  "title": "A Memory Called Empire (Teixcalaan, #1)", "title_without_series": "A Memory
+  Called Empire", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528119589l/39873472._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528119589l/39873472._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/39873472-a-memory-called-empire",
+  "num_pages": "472", "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "4.12", "ratings_count": "64925", "description": "Ambassador Mahit Dzmare arrives
+  in the center of the multi-system Teixcalaanli Empire only to discover that her
+  predecessor, the previous ambassador from their small but fiercely independent mining
+  Station, has died. But no one will admit that his death wasn''t an accident\u2014or
+  that Mahit might be next to die, during a time of political instability in the highest
+  echelons of the imperial court.<br /><br />Now, Mahit must discover who is behind
+  the murder, rescue herself, and save her Station from Teixcalaan''s unceasing expansion\u2014all
+  while navigating an alien culture that is all too seductive, engaging in intrigues
+  of her own, and hiding a deadly technological secret\u2014one that might spell the
+  end of her Station and her way of life\u2014or rescue it from annihilation.<br /><br
+  /><b>A fascinating space opera debut novel, Arkady Martine''s <i>A Memory Called
+  Empire</i> is an interstellar mystery adventure.</b>", "authors": {"author": {"id":
+  "13803582", "name": "Arkady Martine", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1517495486p5/13803582.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1517495486p2/13803582.jpg"},
+  "link": "https://www.goodreads.com/author/show/13803582.Arkady_Martine", "average_rating":
+  "4.16", "ratings_count": "102316", "text_reviews_count": "13484"}}, "published":
+  null, "work": {"id": "59457173", "uri": "kca://work/amzn1.gr.work.v1.jMxV-C6KIF_yYZwG1a2lMA"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/3865994860",
+  "read_at": "Sun Mar 07 00:00:00 -0800 2021", "started_at": "Sun Feb 28 00:00:00
+  -0800 2021", "date": "Sun Mar 07 00:00:00 -0800 2021"}'
+kindle_asin: B07C7BCB88
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/39873472-a-memory-called-empire
+marketplace_id: ATVPDKIKX0DER
+num_pages: '472'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '133249'
+    '@name': to-read
+  - '@count': '8553'
+    '@name': currently-reading
+  - '@count': '3646'
+    '@name': sci-fi
+  - '@count': '3317'
+    '@name': science-fiction
+  - '@count': '1209'
+    '@name': fiction
+  - '@count': '941'
+    '@name': favorites
+  - '@count': '934'
+    '@name': fantasy
+  - '@count': '886'
+    '@name': scifi
+  - '@count': '550'
+    '@name': space-opera
+  - '@count': '529'
+    '@name': owned
+  - '@count': '494'
+    '@name': dnf
+  - '@count': '468'
+    '@name': queer
+  - '@count': '423'
+    '@name': lgbtq
+  - '@count': '420'
+    '@name': lgbt
+  - '@count': '395'
+    '@name': audiobook
+  - '@count': '317'
+    '@name': adult
+  - '@count': '291'
+    '@name': mystery
+  - '@count': '282'
+    '@name': physical-tbr
+  - '@count': '254'
+    '@name': kindle
+  - '@count': '245'
+    '@name': sapphic
+  - '@count': '244'
+    '@name': library
+  - '@count': '244'
+    '@name': sci-fi-fantasy
+  - '@count': '242'
+    '@name': sf
+  - '@count': '236'
+    '@name': audiobooks
+  - '@count': '223'
+    '@name': space
+  - '@count': '215'
+    '@name': lgbtqia
+  - '@count': '193'
+    '@name': did-not-finish
+  - '@count': '191'
+    '@name': tbr
+  - '@count': '191'
+    '@name': sff
+  - '@count': '190'
+    '@name': ebook
+  - '@count': '179'
+    '@name': book-club
+  - '@count': '148'
+    '@name': audio
+  - '@count': '135'
+    '@name': books-i-own
+  - '@count': '131'
+    '@name': abandoned
+  - '@count': '129'
+    '@name': scifi-fantasy
+  - '@count': '128'
+    '@name': favourites
+  - '@count': '125'
+    '@name': to-buy
+  - '@count': '124'
+    '@name': fantasy-sci-fi
+  - '@count': '110'
+    '@name': wlw
+  - '@count': '108'
+    '@name': hugo
+  - '@count': '108'
+    '@name': speculative-fiction
+  - '@count': '104'
+    '@name': maybe
+  - '@count': '102'
+    '@name': owned-tbr
+  - '@count': '98'
+    '@name': 2019-releases
+  - '@count': '88'
+    '@name': hugo-winners
+  - '@count': '78'
+    '@name': read-in-2020
+  - '@count': '78'
+    '@name': novels
+  - '@count': '77'
+    '@name': read-in-2021
+  - '@count': '77'
+    '@name': audible
+  - '@count': '77'
+    '@name': politics
+  - '@count': '76'
+    '@name': hugo-award
+  - '@count': '70'
+    '@name': owned-books
+  - '@count': '69'
+    '@name': science-fiction-fantasy
+  - '@count': '68'
+    '@name': kindle-unlimited
+  - '@count': '66'
+    '@name': ebooks
+  - '@count': '65'
+    '@name': female-author
+  - '@count': '64'
+    '@name': read-in-2022
+  - '@count': '64'
+    '@name': read-2021
+  - '@count': '63'
+    '@name': sci-fi-tbr
+  - '@count': '60'
+    '@name': read-2020
+  - '@count': '60'
+    '@name': sci-fi-to-read
+  - '@count': '58'
+    '@name': fantasy-scifi
+  - '@count': '57'
+    '@name': recommended
+  - '@count': '56'
+    '@name': adult-fiction
+  - '@count': '56'
+    '@name': tbr-sci-fi
+  - '@count': '51'
+    '@name': read-2022
+  - '@count': '50'
+    '@name': read-in-2023
+  - '@count': '49'
+    '@name': libby
+  - '@count': '49'
+    '@name': priority
+  - '@count': '47'
+    '@name': wish-list
+  - '@count': '46'
+    '@name': hugo-award-winners
+  - '@count': '46'
+    '@name': want-to-buy
+  - '@count': '45'
+    '@name': 2025-tbr
+  - '@count': '45'
+    '@name': read-in-2019
+  - '@count': '43'
+    '@name': sword-and-laser
+  - '@count': '43'
+    '@name': e-book
+  - '@count': '43'
+    '@name': aliens
+  - '@count': '42'
+    '@name': genre-sci-fi
+  - '@count': '41'
+    '@name': novel
+  - '@count': '40'
+    '@name': unfinished
+  - '@count': '40'
+    '@name': lesbian
+  - '@count': '40'
+    '@name': f-f
+  - '@count': '39'
+    '@name': read-in-2024
+  - '@count': '39'
+    '@name': sci-fi-and-fantasy
+  - '@count': '39'
+    '@name': romance
+  - '@count': '39'
+    '@name': tbr-scifi
+  - '@count': '39'
+    '@name': political-intrigue
+  - '@count': '38'
+    '@name': political
+  - '@count': '38'
+    '@name': bookclub
+  - '@count': '38'
+    '@name': recommendations
+  - '@count': '37'
+    '@name': 2021-reads
+  - '@count': '37'
+    '@name': next
+  - '@count': '36'
+    '@name': hugo-winner
+  - '@count': '36'
+    '@name': hugo-awards
+  - '@count': '36'
+    '@name': priority-tbr
+  - '@count': '36'
+    '@name': audio-books
+  - '@count': '36'
+    '@name': dropped
+  - '@count': '36'
+    '@name': speculative
+  - '@count': '35'
+    '@name': read-2024
+  - '@count': '35'
+    '@name': female-protagonist
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '64925'
+read_at: '2021-03-07T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/3865994860
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/39873472-a-memory-called-empire\"\
+  >A Memory Called Empire Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1250186455&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/39873472-a-memory-called-empire?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '2161793'
+    series:
+      description: https://us.macmillan.com/series/teixcalaan
+      id: '233352'
+      note: null
+      numbered: 'true'
+      primary_work_count: '2'
+      series_works_count: '3'
+      title: Teixcalaan
+    user_position: '1'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '3365457'
+        link: https://www.goodreads.com/author/show/3365457.Ann_Leckie
+        name: Ann Leckie
+    average_rating: '4.12'
+    id: '17333324'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397215917l/17333324._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/17333324-ancillary-justice
+    num_pages: '386'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '64925'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397215917l/17333324._SY75_.jpg
+    title: 'Ancillary Justice (Imperial Radch, #1)'
+    title_without_series: Ancillary Justice
+    uri: kca://book/amzn1.gr.book.v1.oPEWFxWYEA4CV6IIhbU8rw
+    work:
+      id: '24064628'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.12'
+    id: '65211701'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674575978l/65211701._SX98_.jpg
+    isbn: '1250826977'
+    isbn13: '9781250826978'
+    link: https://www.goodreads.com/book/show/65211701-system-collapse
+    num_pages: '245'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '64925'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674575978l/65211701._SY75_.jpg
+    title: 'System Collapse (The Murderbot Diaries, #7)'
+    title_without_series: System Collapse
+    uri: kca://book/amzn1.gr.book.v3.BlgXZE2jb-Pp_eWq
+    work:
+      id: '90712113'
+  - authors:
+      author:
+        id: '3365457'
+        link: https://www.goodreads.com/author/show/3365457.Ann_Leckie
+        name: Ann Leckie
+    average_rating: '4.12'
+    id: '20706284'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597476183l/20706284._SX98_.jpg
+    isbn: '0316246654'
+    isbn13: '9780316246651'
+    link: https://www.goodreads.com/book/show/20706284-ancillary-sword
+    num_pages: '359'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '64925'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597476183l/20706284._SY75_.jpg
+    title: 'Ancillary Sword (Imperial Radch, #2)'
+    title_without_series: Ancillary Sword
+    uri: kca://book/amzn1.gr.book.v1.fGIToZ6ji4Qh2U0x8YUCgg
+    work:
+      id: '40026175'
+  - authors:
+      author:
+        id: '3365457'
+        link: https://www.goodreads.com/author/show/3365457.Ann_Leckie
+        name: Ann Leckie
+    average_rating: '4.12'
+    id: '62873999'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673303646l/62873999._SX98_.jpg
+    isbn: 031628971X
+    isbn13: '9780316289719'
+    link: https://www.goodreads.com/book/show/62873999-translation-state
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '64925'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673303646l/62873999._SY75_.jpg
+    title: Translation State
+    title_without_series: Translation State
+    uri: kca://book/amzn1.gr.book.v3.IPz5gT7elXgSEOUd
+    work:
+      id: '98667857'
+  - authors:
+      author:
+        id: '18758567'
+        link: https://www.goodreads.com/author/show/18758567.Emily_Tesh
+        name: Emily Tesh
+    average_rating: '4.12'
+    id: '58388343'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668621616l/58388343._SX98_.jpg
+    isbn: '1250834988'
+    isbn13: '9781250834980'
+    link: https://www.goodreads.com/book/show/58388343-some-desperate-glory
+    num_pages: '438'
+    publication_day: '11'
+    publication_month: '4'
+    publication_year: '2023'
+    ratings_count: '64925'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668621616l/58388343._SY75_.jpg
+    title: Some Desperate Glory
+    title_without_series: Some Desperate Glory
+    uri: kca://book/amzn1.gr.book.v3.-IfyWJ7UlVOZIFdC
+    work:
+      id: '91580340'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.12'
+    id: '32758901'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631585309l/32758901._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/32758901-all-systems-red
+    num_pages: '144'
+    publication_day: '2'
+    publication_month: '5'
+    publication_year: '2017'
+    ratings_count: '64925'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631585309l/32758901._SY75_.jpg
+    title: 'All Systems Red (The Murderbot Diaries, #1)'
+    title_without_series: All Systems Red
+    uri: kca://book/amzn1.gr.book.v1._wBOegAytcJ1t9Dl75w6FA
+    work:
+      id: '53349516'
+  - authors:
+      author:
+        id: '3365457'
+        link: https://www.goodreads.com/author/show/3365457.Ann_Leckie
+        name: Ann Leckie
+    average_rating: '4.12'
+    id: '23533039'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493642929l/23533039._SX98_.jpg
+    isbn: '0356502422'
+    isbn13: '9780356502427'
+    link: https://www.goodreads.com/book/show/23533039-ancillary-mercy
+    num_pages: '328'
+    publication_day: '6'
+    publication_month: '10'
+    publication_year: '2015'
+    ratings_count: '64925'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493642929l/23533039._SX50_.jpg
+    title: 'Ancillary Mercy (Imperial Radch, #3)'
+    title_without_series: Ancillary Mercy
+    uri: kca://book/amzn1.gr.book.v1.u4KJY-Y8KGOYQtaNLeJfSw
+    work:
+      id: '43134689'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.12'
+    id: '35519101'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506001607l/35519101._SX98_.jpg
+    isbn: '1250191785'
+    isbn13: '9781250191786'
+    link: https://www.goodreads.com/book/show/35519101-rogue-protocol
+    num_pages: '158'
+    publication_day: '7'
+    publication_month: '8'
+    publication_year: '2018'
+    ratings_count: '64925'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506001607l/35519101._SY75_.jpg
+    title: 'Rogue Protocol (The Murderbot Diaries, #3)'
+    title_without_series: Rogue Protocol
+    uri: kca://book/amzn1.gr.book.v1.HJjFhXbGbaVmhpOWpBIKCg
+    work:
+      id: '56934596'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.12'
+    id: '52381770'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640597293l/52381770._SX98_.jpg
+    isbn: '1250229863'
+    isbn13: '9781250229861'
+    link: https://www.goodreads.com/book/show/52381770-network-effect
+    num_pages: '350'
+    publication_day: '5'
+    publication_month: '5'
+    publication_year: '2020'
+    ratings_count: '64925'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640597293l/52381770._SY75_.jpg
+    title: 'Network Effect (The Murderbot Diaries, #5)'
+    title_without_series: Network Effect
+    uri: kca://book/amzn1.gr.book.v3.jq0mBydDYRHnJKGr
+    work:
+      id: '63614271'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.12'
+    id: '36223860'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505590203l/36223860._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/36223860-artificial-condition
+    num_pages: '158'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '64925'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505590203l/36223860._SY75_.jpg
+    title: 'Artificial Condition (The Murderbot Diaries, #2)'
+    title_without_series: Artificial Condition
+    uri: kca://book/amzn1.gr.book.v1._2dnzunLlYMNdIZepzk6ZQ
+    work:
+      id: '56357518'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.12'
+    id: '53205854'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731700666l/53205854._SX98_.jpg
+    isbn: '1250765374'
+    isbn13: '9781250765376'
+    link: https://www.goodreads.com/book/show/53205854-fugitive-telemetry
+    num_pages: '168'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '64925'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731700666l/53205854._SY75_.jpg
+    title: 'Fugitive Telemetry (The Murderbot Diaries, #6)'
+    title_without_series: Fugitive Telemetry
+    uri: kca://book/amzn1.gr.book.v3.zA5G7sk4BKdPYlNo
+    work:
+      id: '80438420'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.12'
+    id: '201930181'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SX98_.jpg
+    isbn: 031652557X
+    isbn13: '9780316525572'
+    link: https://www.goodreads.com/book/show/201930181-the-mercy-of-gods
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '64925'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SY75_.jpg
+    title: "The Mercy of Gods (The Captive\u2019s War, #1)"
+    title_without_series: The Mercy of Gods
+    uri: kca://book/amzn1.gr.book.v3.nndIiP3mF2vHLfgz
+    work:
+      id: '95320019'
+  - authors:
+      author:
+        id: '6876324'
+        link: https://www.goodreads.com/author/show/6876324.Tamsyn_Muir
+        name: Tamsyn Muir
+    average_rating: '4.12'
+    id: '42036538'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546870952l/42036538._SX98_.jpg
+    isbn: '1250313198'
+    isbn13: '9781250313195'
+    link: https://www.goodreads.com/book/show/42036538-gideon-the-ninth
+    num_pages: '448'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '64925'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546870952l/42036538._SY75_.jpg
+    title: 'Gideon the Ninth (The Locked Tomb, #1)'
+    title_without_series: Gideon the Ninth
+    uri: kca://book/amzn1.gr.book.v1.Z5TDooB5CEcvi3VeJN7rUA
+    work:
+      id: '60943229'
+  - authors:
+      author:
+        id: '15117586'
+        link: https://www.goodreads.com/author/show/15117586.P_Dj_l_Clark
+        name: "P. Dj\xE8l\xED Clark"
+    average_rating: '4.12'
+    id: '52504334'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600715136l/52504334._SX98_.jpg
+    isbn: '1250267676'
+    isbn13: '9781250267672'
+    link: https://www.goodreads.com/book/show/52504334-a-master-of-djinn
+    num_pages: '438'
+    publication_day: '11'
+    publication_month: '5'
+    publication_year: '2021'
+    ratings_count: '64925'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600715136l/52504334._SY75_.jpg
+    title: 'A Master of Djinn (Dead Djinn Universe, #1)'
+    title_without_series: A Master of Djinn
+    uri: kca://book/amzn1.gr.book.v3.rYNT2X_lmlM4EUoN
+    work:
+      id: '78021845'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.12'
+    id: '35519109'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518642623l/35519109._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/35519109-exit-strategy
+    num_pages: '163'
+    publication_day: '2'
+    publication_month: '10'
+    publication_year: '2018'
+    ratings_count: '64925'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518642623l/35519109._SY75_.jpg
+    title: 'Exit Strategy (The Murderbot Diaries, #4)'
+    title_without_series: Exit Strategy
+    uri: kca://book/amzn1.gr.book.v1.NOCVAbifLCpCdeBrEUUVgA
+    work:
+      id: '56934601'
+  - authors:
+      author:
+        id: '6876324'
+        link: https://www.goodreads.com/author/show/6876324.Tamsyn_Muir
+        name: Tamsyn Muir
+    average_rating: '4.12'
+    id: '39325105'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602323622l/39325105._SX98_.jpg
+    isbn: '1250313228'
+    isbn13: '9781250313225'
+    link: https://www.goodreads.com/book/show/39325105-harrow-the-ninth
+    num_pages: '512'
+    publication_day: '4'
+    publication_month: '8'
+    publication_year: '2020'
+    ratings_count: '64925'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602323622l/39325105._SY75_.jpg
+    title: 'Harrow the Ninth (The Locked Tomb, #2)'
+    title_without_series: Harrow the Ninth
+    uri: kca://book/amzn1.gr.book.v1.ORa_gVII29WWrYAd85jfuA
+    work:
+      id: '60943273'
+  - authors:
+      author:
+        id: '17650479'
+        link: https://www.goodreads.com/author/show/17650479.Becky_Chambers
+        name: Becky  Chambers
+    average_rating: '4.12'
+    id: '22733729'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405532474l/22733729._SX98_.jpg
+    isbn: '1500453307'
+    isbn13: '9781500453305'
+    link: https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet
+    num_pages: '518'
+    publication_day: '29'
+    publication_month: '7'
+    publication_year: '2014'
+    ratings_count: '64925'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405532474l/22733729._SY75_.jpg
+    title: 'The Long Way to a Small, Angry Planet (Wayfarers, #1)'
+    title_without_series: The Long Way to a Small, Angry Planet
+    uri: kca://book/amzn1.gr.book.v1.7jMMysy4IZiuY37Y1E_EyA
+    work:
+      id: '42270825'
+  - authors:
+      author:
+        id: '6876324'
+        link: https://www.goodreads.com/author/show/6876324.Tamsyn_Muir
+        name: Tamsyn Muir
+    average_rating: '4.12'
+    id: '58662507'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643298298l/58662507._SX98_.jpg
+    isbn: '1250854113'
+    isbn13: '9781250854117'
+    link: https://www.goodreads.com/book/show/58662507-nona-the-ninth
+    num_pages: '480'
+    publication_day: '13'
+    publication_month: '9'
+    publication_year: '2022'
+    ratings_count: '64925'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643298298l/58662507._SY75_.jpg
+    title: 'Nona the Ninth (The Locked Tomb, #3)'
+    title_without_series: Nona the Ninth
+    uri: kca://book/amzn1.gr.book.v3.wCkcAvoo0L6Twi6D
+    work:
+      id: '92285474'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528119589l/39873472._SY75_.jpg
+started_at: '2021-02-28T00:00:00-08:00'
+text_reviews_count:
+  '#text': '866'
+  '@type': integer
+title: 'A Memory Called Empire (Teixcalaan, #1)'
+title_without_series: A Memory Called Empire
+uri: kca://book/amzn1.gr.book.v1.yT0ccJ8czbmj46aCv637gg
+url: https://www.goodreads.com/book/show/39873472-a-memory-called-empire
+work:
+  id: '59457173'
+  uri: kca://work/amzn1.gr.work.v1.jMxV-C6KIF_yYZwG1a2lMA

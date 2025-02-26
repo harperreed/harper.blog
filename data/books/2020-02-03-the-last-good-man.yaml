@@ -1,0 +1,754 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.85'
+    id: '578581'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1545180307p5/578581.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/578581.Linda_Nagata
+    name: Linda Nagata
+    ratings_count: '20287'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1545180307p2/578581.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '2148'
+average_rating: '3.99'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2020-02-03T00:00:00-08:00'
+description: "<i>Scarred by war. In pursuit of truth.</i><br /><br />Army veteran\
+  \ True Brighton left the service when the development of robotic helicopters made\
+  \ her training as a pilot obsolete. Now she works at Requisite Operations, a private\
+  \ military company established by friend and former Special Ops soldier Lincoln\
+  \ Han. ReqOp has embraced the new technologies. Robotics, big data, and artificial\
+  \ intelligence are all tools used to augment the skills of veteran warfighters-for-hire.\
+  \ But the tragedy of war is still measured in human casualties, and when True makes\
+  \ a chance discovery during a rescue mission, old wounds are ripped open. She\u2019\
+  s left questioning what she knows of the past, and resolves to pursue the truth,\
+  \ whatever the cost.<br /><br /><i>The Last Good Man</i> is a powerful, complex,\
+  \ and very human tale."
+edition_information: null
+format: Kindle Edition
+id: '35048762'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493687426l/35048762._SX98_.jpg
+is_ebook: 'true'
+isbn: '1937197239'
+isbn13: '9781937197230'
+json: '{"id": "35048762", "isbn": "1937197239", "isbn13": "9781937197230", "text_reviews_count":
+  {"@type": "integer", "#text": "38"}, "uri": "kca://book/amzn1.gr.book.v1.U8GDh0YQfsvGYPKTASznSA",
+  "title": "The Last Good Man", "title_without_series": "The Last Good Man", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493687426l/35048762._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493687426l/35048762._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/35048762-the-last-good-man",
+  "num_pages": null, "format": "Kindle Edition", "edition_information": null, "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "3.99", "ratings_count": "1097", "description": "<i>Scarred by
+  war. In pursuit of truth.</i><br /><br />Army veteran True Brighton left the service
+  when the development of robotic helicopters made her training as a pilot obsolete.
+  Now she works at Requisite Operations, a private military company established by
+  friend and former Special Ops soldier Lincoln Han. ReqOp has embraced the new technologies.
+  Robotics, big data, and artificial intelligence are all tools used to augment the
+  skills of veteran warfighters-for-hire. But the tragedy of war is still measured
+  in human casualties, and when True makes a chance discovery during a rescue mission,
+  old wounds are ripped open. She\u2019s left questioning what she knows of the past,
+  and resolves to pursue the truth, whatever the cost.<br /><br /><i>The Last Good
+  Man</i> is a powerful, complex, and very human tale.", "authors": {"author": {"id":
+  "578581", "name": "Linda Nagata", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1545180307p5/578581.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1545180307p2/578581.jpg"},
+  "link": "https://www.goodreads.com/author/show/578581.Linda_Nagata", "average_rating":
+  "3.85", "ratings_count": "20287", "text_reviews_count": "2148"}}, "published": null,
+  "work": {"id": "56026785", "uri": "kca://work/amzn1.gr.work.v1.oWKbYNAKx_q25vXH2XdpYw"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/3171898533",
+  "read_at": "Mon Feb 03 00:00:00 -0800 2020", "started_at": "Sat Feb 01 00:00:00
+  -0800 2020", "date": "Mon Feb 03 00:00:00 -0800 2020"}'
+kindle_asin: B0722LWS24
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/35048762-the-last-good-man
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '2112'
+    '@name': to-read
+  - '@count': '283'
+    '@name': currently-reading
+  - '@count': '69'
+    '@name': science-fiction
+  - '@count': '43'
+    '@name': sci-fi
+  - '@count': '24'
+    '@name': fiction
+  - '@count': '18'
+    '@name': thriller
+  - '@count': '11'
+    '@name': military
+  - '@count': '11'
+    '@name': scifi
+  - '@count': '9'
+    '@name': sf
+  - '@count': '8'
+    '@name': kindle
+  - '@count': '7'
+    '@name': owned
+  - '@count': '7'
+    '@name': ebook
+  - '@count': '6'
+    '@name': dnf
+  - '@count': '5'
+    '@name': suspense
+  - '@count': '4'
+    '@name': audiobook
+  - '@count': '4'
+    '@name': near-future
+  - '@count': '4'
+    '@name': to-buy
+  - '@count': '4'
+    '@name': war
+  - '@count': '4'
+    '@name': military-sf
+  - '@count': '3'
+    '@name': military-sci-fi
+  - '@count': '3'
+    '@name': stand-alone
+  - '@count': '3'
+    '@name': speculative-fiction
+  - '@count': '3'
+    '@name': audible
+  - '@count': '3'
+    '@name': read-in-2018
+  - '@count': '3'
+    '@name': f-sf
+  - '@count': '3'
+    '@name': military-scifi
+  - '@count': '3'
+    '@name': abandoned
+  - '@count': '3'
+    '@name': maybe
+  - '@count': '3'
+    '@name': thrillers
+  - '@count': '3'
+    '@name': arc
+  - '@count': '2'
+    '@name': favorites
+  - '@count': '2'
+    '@name': english
+  - '@count': '2'
+    '@name': thriller-suspense
+  - '@count': '2'
+    '@name': read-sci-fi
+  - '@count': '2'
+    '@name': e-book
+  - '@count': '2'
+    '@name': tbr-sci-fi
+  - '@count': '2'
+    '@name': i-own
+  - '@count': '2'
+    '@name': adventure
+  - '@count': '2'
+    '@name': library
+  - '@count': '2'
+    '@name': kobo
+  - '@count': '2'
+    '@name': military-fiction
+  - '@count': '2'
+    '@name': linda-nagata
+  - '@count': '2'
+    '@name': fantasy-science-fiction
+  - '@count': '2'
+    '@name': ereader
+  - '@count': '2'
+    '@name': techno-thriller
+  - '@count': '2'
+    '@name': read-in-2017
+  - '@count': '2'
+    '@name': novel
+  - '@count': '2'
+    '@name': netgalley
+  - '@count': '2'
+    '@name': artificial-intelligence
+  - '@count': '2'
+    '@name': 2017-books
+  - '@count': '2'
+    '@name': war-stories
+  - '@count': '2'
+    '@name': to-read-fiction
+  - '@count': '2'
+    '@name': female-author
+  - '@count': '2'
+    '@name': 2017-novels
+  - '@count': '2'
+    '@name': futuristic
+  - '@count': '2'
+    '@name': fantasy-sci-fi
+  - '@count': '2'
+    '@name': sff
+  - '@count': '1'
+    '@name': military-technology
+  - '@count': '1'
+    '@name': military-science
+  - '@count': '1'
+    '@name': mercenaries
+  - '@count': '1'
+    '@name': action
+  - '@count': '1'
+    '@name': increased-interest
+  - '@count': '1'
+    '@name': sci-fi-sf
+  - '@count': '1'
+    '@name': want-to-buy
+  - '@count': '1'
+    '@name': 2-read-ebook-kindle-amazon
+  - '@count': '1'
+    '@name': read-yr-pub-2010-2019
+  - '@count': '1'
+    '@name': on-the-shelf
+  - '@count': '1'
+    '@name': derring-do
+  - '@count': '1'
+    '@name': american-literature
+  - '@count': '1'
+    '@name': adventure-novels
+  - '@count': '1'
+    '@name': r-military-mercs-war
+  - '@count': '1'
+    '@name': read-yr-2018
+  - '@count': '1'
+    '@name': have-it
+  - '@count': '1'
+    '@name': new-books-in-fantasy-pod
+  - '@count': '1'
+    '@name': sci-fy
+  - '@count': '1'
+    '@name': new-author
+  - '@count': '1'
+    '@name': sifi-strategy
+  - '@count': '1'
+    '@name': paperback
+  - '@count': '1'
+    '@name': ebooks
+  - '@count': '1'
+    '@name': buzzwordathon-2023
+  - '@count': '1'
+    '@name': wish-list
+  - '@count': '1'
+    '@name': zz-tier-2
+  - '@count': '1'
+    '@name': sci-fi-en
+  - '@count': '1'
+    '@name': c-longlist
+  - '@count': '1'
+    '@name': deleted
+  - '@count': '1'
+    '@name': eb
+  - '@count': '1'
+    '@name': dropped-at-first-taste
+  - '@count': '1'
+    '@name': action_scifi
+  - '@count': '1'
+    '@name': action_mil
+  - '@count': '1'
+    '@name': locus-recommended-reading
+  - '@count': '1'
+    '@name': best-books-2017
+  - '@count': '1'
+    '@name': own-kindle-unread
+  - '@count': '1'
+    '@name': own-kindle
+  - '@count': '1'
+    '@name': recs
+  - '@count': '1'
+    '@name': collection
+  - '@count': '1'
+    '@name': four-star-science-fiction
+  - '@count': '1'
+    '@name': want-to-get
+  - '@count': '1'
+    '@name': independent-study-novels
+  - '@count': '1'
+    '@name': the-forge
+  - '@count': '1'
+    '@name': sn-mi
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '1097'
+read_at: '2020-02-03T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/3171898533
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/35048762-the-last-good-man\"\
+  >The Last Good Man Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1937197239&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/35048762-the-last-good-man?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '215710'
+        link: https://www.goodreads.com/author/show/215710.Joel_Shepherd
+        name: Joel Shepherd
+    average_rating: '3.99'
+    id: '26031851'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442080789l/26031851._SX98_.jpg
+    isbn: '1310986789'
+    isbn13: '9781310986789'
+    link: https://www.goodreads.com/book/show/26031851-renegade
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1097'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442080789l/26031851._SY75_.jpg
+    title: 'Renegade (The Spiral Wars, #1)'
+    title_without_series: Renegade
+    uri: kca://book/amzn1.gr.book.v1.hncpHR_deIIHHoU7R54gyg
+    work:
+      id: '45958262'
+  - authors:
+      author:
+        id: '589'
+        link: https://www.goodreads.com/author/show/589.Orson_Scott_Card
+        name: Orson Scott Card
+    average_rating: '3.99'
+    id: '18490707'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396829768l/18490707._SX98_.jpg
+    isbn: 0765329069
+    isbn13: '9780765329066'
+    link: https://www.goodreads.com/book/show/18490707-earth-awakens
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1097'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396829768l/18490707._SY75_.jpg
+    title: 'Earth Awakens (The First Formic War, #3)'
+    title_without_series: Earth Awakens
+    uri: kca://book/amzn1.gr.book.v1.1o0U2ZZFWrxHu3WVoUiOQw
+    work:
+      id: '24582100'
+  - authors:
+      author:
+        id: '3234099'
+        link: https://www.goodreads.com/author/show/3234099.Project_Itoh
+        name: Project Itoh
+    average_rating: '3.99'
+    id: '13163514'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344400256l/13163514._SX98_.jpg
+    isbn: '1421542722'
+    isbn13: '9781421542720'
+    link: https://www.goodreads.com/book/show/13163514-genocidal-organ
+    num_pages: '297'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1097'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344400256l/13163514._SY75_.jpg
+    title: Genocidal Organ
+    title_without_series: Genocidal Organ
+    uri: kca://book/amzn1.gr.book.v1.RjykyPDjzjWE1xRLlC3jWQ
+    work:
+      id: '18342508'
+  - authors:
+      author:
+        id: '8596769'
+        link: https://www.goodreads.com/author/show/8596769.Lauren_James
+        name: Lauren   James
+    average_rating: '3.99'
+    id: '32601841'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481825805l/32601841._SX98_.jpg
+    isbn: '1406375470'
+    isbn13: '9781406375473'
+    link: https://www.goodreads.com/book/show/32601841-the-loneliest-girl-in-the-universe
+    num_pages: '290'
+    publication_day: '3'
+    publication_month: '7'
+    publication_year: '2018'
+    ratings_count: '1097'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481825805l/32601841._SY75_.jpg
+    title: The Loneliest Girl in the Universe
+    title_without_series: The Loneliest Girl in the Universe
+    uri: kca://book/amzn1.gr.book.v1.e0VMDvRLzPWns2tvc1ykQQ
+    work:
+      id: '53182746'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '3.99'
+    id: '195443798'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SX98_.jpg
+    isbn: '1035013770'
+    isbn13: '9781035013777'
+    link: https://www.goodreads.com/book/show/195443798-alien-clay
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1097'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SY75_.jpg
+    title: Alien Clay
+    title_without_series: Alien Clay
+    uri: kca://book/amzn1.gr.book.v3.U07jHOWpgU_-RRTg
+    work:
+      id: '197089092'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '3.99'
+    id: '13573419'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344371600l/13573419._SX98_.jpg
+    isbn: 034552666X
+    isbn13: '9780345526663'
+    link: https://www.goodreads.com/book/show/13573419-great-north-road
+    num_pages: '948'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1097'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344371600l/13573419._SY75_.jpg
+    title: Great North Road
+    title_without_series: Great North Road
+    uri: kca://book/amzn1.gr.book.v1.64r5XkXGJZUUmefD5m2q8g
+    work:
+      id: '19154394'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '3.99'
+    id: '76811'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327916933l/76811._SX98_.jpg
+    isbn: 0671578294
+    isbn13: '9780671578299'
+    link: https://www.goodreads.com/book/show/76811.Borders_of_Infinity
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1097'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327916933l/76811._SY75_.jpg
+    title: 'Borders of Infinity (Vorkosigan Saga [Publication] #5.1-5.3)'
+    title_without_series: Borders of Infinity
+    uri: kca://book/amzn1.gr.book.v1.TlReLubOwMypEoV6DlOxAw
+    work:
+      id: '1129260'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '3.99'
+    id: '215760525'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724079438l/215760525._SX98_.jpg
+    isbn: 0316575348
+    isbn13: '9780316575348'
+    link: https://www.goodreads.com/book/show/215760525-livesuit
+    num_pages: '90'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1097'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724079438l/215760525._SY75_.jpg
+    title: "Livesuit (The Captive\u2019s War #1.5)"
+    title_without_series: Livesuit
+    uri: kca://book/amzn1.gr.book.v3.Rr7d-BxEjSsqm-t3
+    work:
+      id: '222176366'
+  - authors:
+      author:
+        id: '16917839'
+        link: https://www.goodreads.com/author/show/16917839.Christopher_Ruocchio
+        name: Christopher Ruocchio
+    average_rating: '3.99'
+    id: '41564599'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554659319l/41564599._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/41564599-howling-dark
+    num_pages: '688'
+    publication_day: '16'
+    publication_month: '7'
+    publication_year: '2019'
+    ratings_count: '1097'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554659319l/41564599._SY75_.jpg
+    title: 'Howling Dark (Sun Eater, #2)'
+    title_without_series: Howling Dark
+    uri: kca://book/amzn1.gr.book.v1.TBofjMcHYXIGlDG9jEYWIA
+    work:
+      id: '64859822'
+  - authors:
+      author:
+        id: '27167'
+        link: https://www.goodreads.com/author/show/27167.Peter_Watts
+        name: Peter Watts
+    average_rating: '3.99'
+    id: '48484'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0765312182
+    isbn13: '9780765312181'
+    link: https://www.goodreads.com/book/show/48484.Blindsight
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1097'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Blindsight (Firefall, #1)'
+    title_without_series: Blindsight
+    uri: kca://book/amzn1.gr.book.v1.A4CNk2qG0qxshK4OKH9lJQ
+    work:
+      id: '223813791'
+  - authors:
+      author:
+        id: '47155824'
+        link: https://www.goodreads.com/author/show/47155824.Paul_Dixon
+        name: Paul   Dixon
+    average_rating: '3.99'
+    id: '199222725'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/199222725-carpathians
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1097'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Carpathians
+    title_without_series: Carpathians
+    uri: kca://book/amzn1.gr.book.v3.c6m9SFC2miFKxh3e
+    work:
+      id: '203155472'
+  - authors:
+      author:
+        id: '4763'
+        link: https://www.goodreads.com/author/show/4763.John_Scalzi
+        name: John Scalzi
+    average_rating: '3.99'
+    id: '13055592'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0765316994
+    isbn13: '9780765316998'
+    link: https://www.goodreads.com/book/show/13055592-redshirts
+    num_pages: '320'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1097'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Redshirts
+    title_without_series: Redshirts
+    uri: kca://book/amzn1.gr.book.v1.JJcTWRb36olmdV0fM4pDtg
+    work:
+      id: '18130445'
+  - authors:
+      author:
+        id: '51204'
+        link: https://www.goodreads.com/author/show/51204.Alastair_Reynolds
+        name: Alastair Reynolds
+    average_rating: '3.99'
+    id: '35601772'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504724986l/35601772._SX98_.jpg
+    isbn: '0316555665'
+    isbn13: '9780316555661'
+    link: https://www.goodreads.com/book/show/35601772-elysium-fire
+    num_pages: '415'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1097'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504724986l/35601772._SY75_.jpg
+    title: 'Elysium Fire (Prefect Dreyfus Emergency #2)'
+    title_without_series: Elysium Fire
+    uri: kca://book/amzn1.gr.book.v1.xZuYQSv8zGeqwOOFarEfjw
+    work:
+      id: '57037659'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '3.99'
+    id: '210384894'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711449617l/210384894._SX98_.jpg
+    isbn: '1035901528'
+    isbn13: '9781035901524'
+    link: https://www.goodreads.com/book/show/210384894-days-of-shattered-faith
+    num_pages: '512'
+    publication_day: '5'
+    publication_month: '12'
+    publication_year: '2024'
+    ratings_count: '1097'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711449617l/210384894._SY75_.jpg
+    title: 'Days of Shattered Faith (The Tyrant Philosophers, #3)'
+    title_without_series: Days of Shattered Faith
+    uri: kca://book/amzn1.gr.book.v3.NsxlUQ-dBw9Vq_Ea
+    work:
+      id: '216604339'
+  - authors:
+      author:
+        id: '16916205'
+        link: https://www.goodreads.com/author/show/16916205.Andrew_Moriarty
+        name: Andrew Moriarty
+    average_rating: '3.99'
+    id: '210347682'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/210347682-imperial-privateer
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1097'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Imperial Privateer (Decline and Fall of the Galactic Empire, #5)'
+    title_without_series: Imperial Privateer
+    uri: kca://book/amzn1.gr.book.v3.pBwvcnktVa9UeI2n
+    work:
+      id: '216566061'
+  - authors:
+      author:
+        id: '51204'
+        link: https://www.goodreads.com/author/show/51204.Alastair_Reynolds
+        name: Alastair Reynolds
+    average_rating: '3.99'
+    id: '35077169'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538755982l/35077169._SX98_.jpg
+    isbn: 0575090634
+    isbn13: '9780575090637'
+    link: https://www.goodreads.com/book/show/35077169-shadow-captain
+    num_pages: '426'
+    publication_day: '10'
+    publication_month: '1'
+    publication_year: '2019'
+    ratings_count: '1097'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538755982l/35077169._SY75_.jpg
+    title: Shadow Captain
+    title_without_series: Shadow Captain
+    uri: kca://book/amzn1.gr.book.v1.bw0iWr_jOgF2GzgTLYFdew
+    work:
+      id: '56375289'
+  - authors:
+      author:
+        id: '7177350'
+        link: https://www.goodreads.com/author/show/7177350.M_R_Carey
+        name: M.R. Carey
+    average_rating: '3.99'
+    id: '61237044'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665587330l/61237044._SX98_.jpg
+    isbn: 0316504386
+    isbn13: '9780316504386'
+    link: https://www.goodreads.com/book/show/61237044-infinity-gate
+    num_pages: '499'
+    publication_day: '28'
+    publication_month: '3'
+    publication_year: '2023'
+    ratings_count: '1097'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665587330l/61237044._SX50_.jpg
+    title: 'Infinity Gate (Pandominion, #1)'
+    title_without_series: Infinity Gate
+    uri: kca://book/amzn1.gr.book.v3.nLtBR3fqk57sGif8
+    work:
+      id: '96545712'
+  - authors:
+      author:
+        id: '51204'
+        link: https://www.goodreads.com/author/show/51204.Alastair_Reynolds
+        name: Alastair Reynolds
+    average_rating: '3.99'
+    id: '44811849'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568188677l/44811849._SX98_.jpg
+    isbn: 0575090677
+    isbn13: '9780575090675'
+    link: https://www.goodreads.com/book/show/44811849-bone-silence
+    num_pages: '603'
+    publication_day: '30'
+    publication_month: '1'
+    publication_year: '2020'
+    ratings_count: '1097'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568188677l/44811849._SY75_.jpg
+    title: Bone Silence
+    title_without_series: Bone Silence
+    uri: kca://book/amzn1.gr.book.v1.IYfvqRRotV_B10RwxR0klw
+    work:
+      id: '69495971'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493687426l/35048762._SY75_.jpg
+started_at: '2020-02-01T00:00:00-08:00'
+text_reviews_count:
+  '#text': '38'
+  '@type': integer
+title: The Last Good Man
+title_without_series: The Last Good Man
+uri: kca://book/amzn1.gr.book.v1.U8GDh0YQfsvGYPKTASznSA
+url: https://www.goodreads.com/book/show/35048762-the-last-good-man
+work:
+  id: '56026785'
+  uri: kca://work/amzn1.gr.work.v1.oWKbYNAKx_q25vXH2XdpYw

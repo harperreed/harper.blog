@@ -1,0 +1,760 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.40'
+    id: '38550'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1721927489p5/38550.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/38550.Brandon_Sanderson
+    name: Brandon Sanderson
+    ratings_count: '7709623'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1721927489p2/38550.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '600551'
+average_rating: '4.47'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2019-02-04T00:00:00-08:00'
+description: "Defeated, crushed, and driven almost to extinction, the remnants of\
+  \ the human race are trapped on a planet that is constantly attacked by mysterious\
+  \ alien starfighters. Spensa, a teenage girl living among them, longs to be a pilot.\
+  \ When she discovers the wreckage of an ancient ship, she realizes this dream might\
+  \ be possible\u2014assuming she can repair the ship, navigate flight school, and\
+  \ (perhaps most importantly) persuade the strange machine to help her. Because this\
+  \ ship, uniquely, appears to have a soul."
+edition_information: null
+format: Kindle Edition
+id: '39353738'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531845328l/39353738._SX98_.jpg
+is_ebook: 'true'
+isbn: 039955579X
+isbn13: '9780399555794'
+json: '{"id": "39353738", "isbn": "039955579X", "isbn13": "9780399555794", "text_reviews_count":
+  {"@type": "integer", "#text": "1229"}, "uri": "kca://book/amzn1.gr.book.v1.yrse3BZFrr5M8xIhie5a_w",
+  "title": "Skyward (Skyward, #1)", "title_without_series": "Skyward", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531845328l/39353738._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531845328l/39353738._SX50_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/39353738-skyward",
+  "num_pages": "546", "format": "Kindle Edition", "edition_information": null, "publisher":
+  "Random House Children''s Books", "publication_day": null, "publication_year": null,
+  "publication_month": null, "average_rating": "4.47", "ratings_count": "154767",
+  "description": "Defeated, crushed, and driven almost to extinction, the remnants
+  of the human race are trapped on a planet that is constantly attacked by mysterious
+  alien starfighters. Spensa, a teenage girl living among them, longs to be a pilot.
+  When she discovers the wreckage of an ancient ship, she realizes this dream might
+  be possible\u2014assuming she can repair the ship, navigate flight school, and (perhaps
+  most importantly) persuade the strange machine to help her. Because this ship, uniquely,
+  appears to have a soul.", "authors": {"author": {"id": "38550", "name": "Brandon
+  Sanderson", "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1721927489p5/38550.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1721927489p2/38550.jpg"},
+  "link": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson", "average_rating":
+  "4.40", "ratings_count": "7709623", "text_reviews_count": "600551"}}, "published":
+  null, "work": {"id": "58411143", "uri": "kca://work/amzn1.gr.work.v1.0pUyw1c4h6rpcjxjucK8sw"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/2701876089",
+  "read_at": "Mon Feb 04 00:00:00 -0800 2019", "started_at": "Sun Feb 03 00:00:00
+  -0800 2019", "date": "Mon Feb 04 00:00:00 -0800 2019"}'
+kindle_asin: B07BJLB5LY
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/39353738-skyward
+marketplace_id: ATVPDKIKX0DER
+num_pages: '546'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '184412'
+    '@name': to-read
+  - '@count': '8904'
+    '@name': currently-reading
+  - '@count': '4470'
+    '@name': sci-fi
+  - '@count': '3369'
+    '@name': science-fiction
+  - '@count': '2681'
+    '@name': fantasy
+  - '@count': '2326'
+    '@name': young-adult
+  - '@count': '1371'
+    '@name': owned
+  - '@count': '1234'
+    '@name': ya
+  - '@count': '1128'
+    '@name': physical-tbr
+  - '@count': '1016'
+    '@name': fiction
+  - '@count': '763'
+    '@name': scifi
+  - '@count': '719'
+    '@name': books-i-own
+  - '@count': '702'
+    '@name': audiobook
+  - '@count': '570'
+    '@name': tbr
+  - '@count': '491'
+    '@name': brandon-sanderson
+  - '@count': '466'
+    '@name': audible
+  - '@count': '455'
+    '@name': audiobooks
+  - '@count': '380'
+    '@name': favourites
+  - '@count': '318'
+    '@name': kindle
+  - '@count': '310'
+    '@name': dnf
+  - '@count': '300'
+    '@name': space
+  - '@count': '274'
+    '@name': owned-books
+  - '@count': '270'
+    '@name': owned-tbr
+  - '@count': '234'
+    '@name': adventure
+  - '@count': '233'
+    '@name': library
+  - '@count': '225'
+    '@name': sanderson
+  - '@count': '222'
+    '@name': 5-stars
+  - '@count': '221'
+    '@name': dystopia
+  - '@count': '212'
+    '@name': aliens
+  - '@count': '209'
+    '@name': ebook
+  - '@count': '208'
+    '@name': read-in-2019
+  - '@count': '198'
+    '@name': to-buy
+  - '@count': '194'
+    '@name': audio
+  - '@count': '175'
+    '@name': fantasy-sci-fi
+  - '@count': '169'
+    '@name': sci-fi-fantasy
+  - '@count': '152'
+    '@name': read-in-2020
+  - '@count': '148'
+    '@name': book-club
+  - '@count': '141'
+    '@name': ya-fantasy
+  - '@count': '138'
+    '@name': my-library
+  - '@count': '130'
+    '@name': sf
+  - '@count': '127'
+    '@name': bookshelf
+  - '@count': '125'
+    '@name': 2019-reads
+  - '@count': '120'
+    '@name': read-2019
+  - '@count': '120'
+    '@name': skyward
+  - '@count': '119'
+    '@name': 2018-releases
+  - '@count': '113'
+    '@name': "ciencia-ficci\xF3n"
+  - '@count': '111'
+    '@name': want-to-buy
+  - '@count': '105'
+    '@name': on-my-shelf
+  - '@count': '104'
+    '@name': all-time-favorites
+  - '@count': '104'
+    '@name': did-not-finish
+  - '@count': '103'
+    '@name': fairyloot
+  - '@count': '102'
+    '@name': read-2020
+  - '@count': '101'
+    '@name': read-in-2021
+  - '@count': '100'
+    '@name': my-books
+  - '@count': '98'
+    '@name': audio-books
+  - '@count': '96'
+    '@name': kindle-tbr
+  - '@count': '96'
+    '@name': ya-sci-fi
+  - '@count': '95'
+    '@name': audio-book
+  - '@count': '91'
+    '@name': favoritos
+  - '@count': '89'
+    '@name': english
+  - '@count': '88'
+    '@name': 5-star
+  - '@count': '87'
+    '@name': physical
+  - '@count': '87'
+    '@name': 2020-reads
+  - '@count': '86'
+    '@name': action
+  - '@count': '78'
+    '@name': favs
+  - '@count': '78'
+    '@name': ebooks
+  - '@count': '78'
+    '@name': maybe
+  - '@count': '76'
+    '@name': 4-stars
+  - '@count': '76'
+    '@name': wish-list
+  - '@count': '75'
+    '@name': 2021-reads
+  - '@count': '75'
+    '@name': my-bookshelf
+  - '@count': '75'
+    '@name': i-own
+  - '@count': '73'
+    '@name': war
+  - '@count': '72'
+    '@name': read-in-2022
+  - '@count': '70'
+    '@name': favorite
+  - '@count': '69'
+    '@name': books
+  - '@count': '69'
+    '@name': fantasy-tbr
+  - '@count': '67'
+    '@name': read-in-2024
+  - '@count': '67'
+    '@name': read-in-2023
+  - '@count': '67'
+    '@name': 5-star-reads
+  - '@count': '66'
+    '@name': fantasy-scifi
+  - '@count': '65'
+    '@name': series-to-start
+  - '@count': '65'
+    '@name': ya-fiction
+  - '@count': '63'
+    '@name': abandoned
+  - '@count': '61'
+    '@name': teen
+  - '@count': '60'
+    '@name': tbr-owned
+  - '@count': '60'
+    '@name': read-in-2018
+  - '@count': '60'
+    '@name': scifi-fantasy
+  - '@count': '59'
+    '@name': sub
+  - '@count': '58'
+    '@name': to-be-read
+  - '@count': '58'
+    '@name': on-my-bookshelf
+  - '@count': '58'
+    '@name': owned-physical
+  - '@count': '58'
+    '@name': re-read
+  - '@count': '58'
+    '@name': recommended
+  - '@count': '57'
+    '@name': 2024-reads
+  - '@count': '57'
+    '@name': owned-unread
+  - '@count': '57'
+    '@name': sci-fi-tbr
+  - '@count': '56'
+    '@name': 2023-reads
+  - '@count': '54'
+    '@name': favorite-books
+  - '@count': '54'
+    '@name': read-in-english
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: Random House Children's Books
+ratings_count: '154767'
+read_at: '2019-02-04T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/2701876089
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/39353738-skyward\"\
+  >Skyward Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=039955579X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/39353738-skyward?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '1340599'
+    series:
+      description: "Also known as:\n    \n    <i>Escuadr\xF3n</i> (Spanish)\n    <i>Claim\
+        \ the Stars</i> (German)\n    <i>Medzi hviezdami</i> (Slovak)\n    <i>Vzh\u016F\
+        ru k obloze</i> (Czech)\n    <i>\u041A\u044A\u043C \u043D\u0435\u0431\u0435\
+        \u0442\u043E</i> (Bulgarian)\n    <i>\u5929\u536B\u8005</i> (Chinese)\n  \
+        \  <i>Do gwiazd</i> (Polish)"
+      id: '247635'
+      note: null
+      numbered: 'true'
+      primary_work_count: '4'
+      series_works_count: '13'
+      title: Skyward
+    user_position: '1'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '8427407'
+        link: https://www.goodreads.com/author/show/8427407.James_Islington
+        name: James  Islington
+    average_rating: '4.47'
+    id: '58416952'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1670363463l/58416952._SX98_.jpg
+    isbn: '1982141190'
+    isbn13: '9781982141196'
+    link: https://www.goodreads.com/book/show/58416952-the-will-of-the-many
+    num_pages: '639'
+    publication_day: '23'
+    publication_month: '5'
+    publication_year: '2023'
+    ratings_count: '154769'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1670363463l/58416952._SX50_.jpg
+    title: 'The Will of the Many (Hierarchy, #1)'
+    title_without_series: The Will of the Many
+    uri: kca://book/amzn1.gr.book.v3.8DrPxwqkpCOiV9vL
+    work:
+      id: '91649761'
+  - authors:
+      author:
+        id: '6474348'
+        link: https://www.goodreads.com/author/show/6474348.Pierce_Brown
+        name: Pierce Brown
+    average_rating: '4.47'
+    id: '15839976'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461354651l/15839976._SX98_.jpg
+    isbn: 0345539788
+    isbn13: '9780345539786'
+    link: https://www.goodreads.com/book/show/15839976-red-rising
+    num_pages: '382'
+    publication_day: '28'
+    publication_month: '1'
+    publication_year: '2014'
+    ratings_count: '154769'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461354651l/15839976._SY75_.jpg
+    title: 'Red Rising (Red Rising Saga, #1)'
+    title_without_series: Red Rising
+    uri: kca://book/amzn1.gr.book.v1.Yb-YrAzMdnlhXDSTWxd8pQ
+    work:
+      id: '21580644'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.47'
+    id: '32758901'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631585309l/32758901._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/32758901-all-systems-red
+    num_pages: '144'
+    publication_day: '2'
+    publication_month: '5'
+    publication_year: '2017'
+    ratings_count: '154769'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631585309l/32758901._SY75_.jpg
+    title: 'All Systems Red (The Murderbot Diaries, #1)'
+    title_without_series: All Systems Red
+    uri: kca://book/amzn1.gr.book.v1._wBOegAytcJ1t9Dl75w6FA
+    work:
+      id: '53349516'
+  - authors:
+      author:
+        id: '6474348'
+        link: https://www.goodreads.com/author/show/6474348.Pierce_Brown
+        name: Pierce Brown
+    average_rating: '4.47'
+    id: '18966819'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394684475l/18966819._SX98_.jpg
+    isbn: 0345539826
+    isbn13: '9780345539823'
+    link: https://www.goodreads.com/book/show/18966819-golden-son
+    num_pages: '466'
+    publication_day: '6'
+    publication_month: '1'
+    publication_year: '2015'
+    ratings_count: '154769'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394684475l/18966819._SY75_.jpg
+    title: 'Golden Son (Red Rising Saga, #2)'
+    title_without_series: Golden Son
+    uri: kca://book/amzn1.gr.book.v1.g8zci2SMZuR6SH3IcUR8QQ
+    work:
+      id: '26984955'
+  - authors:
+      author:
+        id: '8427407'
+        link: https://www.goodreads.com/author/show/8427407.James_Islington
+        name: James  Islington
+    average_rating: '4.47'
+    id: '22878967'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680459592l/22878967._SX98_.jpg
+    isbn: 099258020X
+    isbn13: '9780992580209'
+    link: https://www.goodreads.com/book/show/22878967-the-shadow-of-what-was-lost
+    num_pages: '602'
+    publication_day: '4'
+    publication_month: '8'
+    publication_year: '2014'
+    ratings_count: '154769'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680459592l/22878967._SY75_.jpg
+    title: 'The Shadow of What Was Lost (The Licanius Trilogy, #1)'
+    title_without_series: The Shadow of What Was Lost
+    uri: kca://book/amzn1.gr.book.v1.gmE2X358J6vyNf4O8VUt0A
+    work:
+      id: '42428433'
+  - authors:
+      author:
+        id: '6474348'
+        link: https://www.goodreads.com/author/show/6474348.Pierce_Brown
+        name: Pierce Brown
+    average_rating: '4.47'
+    id: '18966806'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461354277l/18966806._SX98_.jpg
+    isbn: 0345539842
+    isbn13: '9780345539847'
+    link: https://www.goodreads.com/book/show/18966806-morning-star
+    num_pages: '525'
+    publication_day: '9'
+    publication_month: '2'
+    publication_year: '2016'
+    ratings_count: '154769'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461354277l/18966806._SY75_.jpg
+    title: 'Morning Star (Red Rising Saga, #3)'
+    title_without_series: Morning Star
+    uri: kca://book/amzn1.gr.book.v1.BFHx20VfBthOetS1i0U_9g
+    work:
+      id: '26984941'
+  - authors:
+      author:
+        id: '16917839'
+        link: https://www.goodreads.com/author/show/16917839.Christopher_Ruocchio
+        name: Christopher Ruocchio
+    average_rating: '4.47'
+    id: '36454667'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523897945l/36454667._SX98_.jpg
+    isbn: 0756413028
+    isbn13: '9780756413026'
+    link: https://www.goodreads.com/book/show/36454667-empire-of-silence
+    num_pages: '753'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '154769'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523897945l/36454667._SY75_.jpg
+    title: 'Empire of Silence (The Sun Eater, #1)'
+    title_without_series: Empire of Silence
+    uri: kca://book/amzn1.gr.book.v1.33Cb_3jYlzhb8EsawYQuFw
+    work:
+      id: '58159105'
+  - authors:
+      author:
+        id: '15735471'
+        link: https://www.goodreads.com/author/show/15735471.M_L_Wang
+        name: M.L. Wang
+    average_rating: '4.47'
+    id: '41886271'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1702907961l/41886271._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/41886271-the-sword-of-kaigen
+    num_pages: '651'
+    publication_day: '19'
+    publication_month: '2'
+    publication_year: '2019'
+    ratings_count: '154769'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1702907961l/41886271._SX50_.jpg
+    title: The Sword of Kaigen
+    title_without_series: The Sword of Kaigen
+    uri: kca://book/amzn1.gr.book.v1.B6QvsEC21yYT3Ae8tQqnnw
+    work:
+      id: '65383313'
+  - authors:
+      author:
+        id: '15735471'
+        link: https://www.goodreads.com/author/show/15735471.M_L_Wang
+        name: M.L. Wang
+    average_rating: '4.47'
+    id: '208430658'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717354584l/208430658._SX98_.jpg
+    isbn: 0593873351
+    isbn13: '9780593873359'
+    link: https://www.goodreads.com/book/show/208430658-blood-over-bright-haven
+    num_pages: '430'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '154769'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717354584l/208430658._SY75_.jpg
+    title: Blood Over Bright Haven
+    title_without_series: Blood Over Bright Haven
+    uri: kca://book/amzn1.gr.book.v3.a-G1qBCHxerdd1QH
+    work:
+      id: '90736001'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.47'
+    id: '36223860'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505590203l/36223860._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/36223860-artificial-condition
+    num_pages: '158'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '154769'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505590203l/36223860._SY75_.jpg
+    title: 'Artificial Condition (The Murderbot Diaries, #2)'
+    title_without_series: Artificial Condition
+    uri: kca://book/amzn1.gr.book.v1._2dnzunLlYMNdIZepzk6ZQ
+    work:
+      id: '56357518'
+  - authors:
+      author:
+        id: '8427407'
+        link: https://www.goodreads.com/author/show/8427407.James_Islington
+        name: James  Islington
+    average_rating: '4.47'
+    id: '32498052'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487139774l/32498052._SX98_.jpg
+    isbn: 0316274119
+    isbn13: '9780316274111'
+    link: https://www.goodreads.com/book/show/32498052-an-echo-of-things-to-come
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '154769'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487139774l/32498052._SY75_.jpg
+    title: 'An Echo of Things to Come (The Licanius Trilogy, #2)'
+    title_without_series: An Echo of Things to Come
+    uri: kca://book/amzn1.gr.book.v1._v6_ayfanBQSJeNkZP38bQ
+    work:
+      id: '42746818'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.47'
+    id: '35519101'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506001607l/35519101._SX98_.jpg
+    isbn: '1250191785'
+    isbn13: '9781250191786'
+    link: https://www.goodreads.com/book/show/35519101-rogue-protocol
+    num_pages: '158'
+    publication_day: '7'
+    publication_month: '8'
+    publication_year: '2018'
+    ratings_count: '154769'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506001607l/35519101._SY75_.jpg
+    title: 'Rogue Protocol (The Murderbot Diaries, #3)'
+    title_without_series: Rogue Protocol
+    uri: kca://book/amzn1.gr.book.v1.HJjFhXbGbaVmhpOWpBIKCg
+    work:
+      id: '56934596'
+  - authors:
+      author:
+        id: '999015'
+        link: https://www.goodreads.com/author/show/999015.Matt_Dinniman
+        name: Matt Dinniman
+    average_rating: '4.47'
+    id: '56791389'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734203042l/56791389._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/56791389-dungeon-crawler-carl
+    num_pages: '446'
+    publication_day: '2'
+    publication_month: '10'
+    publication_year: '2020'
+    ratings_count: '154769'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734203042l/56791389._SY75_.jpg
+    title: 'Dungeon Crawler Carl (Dungeon Crawler Carl, #1)'
+    title_without_series: Dungeon Crawler Carl
+    uri: kca://book/amzn1.gr.book.v3.IIiPR40dYAdYP4vI
+    work:
+      id: '76027608'
+  - authors:
+      author:
+        id: '25307'
+        link: https://www.goodreads.com/author/show/25307.Robin_Hobb
+        name: Robin Hobb
+    average_rating: '4.47'
+    id: '77197'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673728072l/77197._SY160_.jpg
+    isbn: 055357339X
+    isbn13: '9780553573398'
+    link: https://www.goodreads.com/book/show/77197.Assassin_s_Apprentice
+    num_pages: '435'
+    publication_day: '1'
+    publication_month: '3'
+    publication_year: '1996'
+    ratings_count: '154769'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673728072l/77197._SY75_.jpg
+    title: 'Assassin''s Apprentice (Farseer Trilogy, #1)'
+    title_without_series: Assassin's Apprentice
+    uri: kca://book/amzn1.gr.book.v1.4LJbCBw7mPzIut1Fa7lZQQ
+    work:
+      id: '171715'
+  - authors:
+      author:
+        id: '8427407'
+        link: https://www.goodreads.com/author/show/8427407.James_Islington
+        name: James  Islington
+    average_rating: '4.47'
+    id: '36111098'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506350738l/36111098._SX98_.jpg
+    isbn: null
+    isbn13: '9780356507835'
+    link: https://www.goodreads.com/book/show/36111098-the-light-of-all-that-falls
+    num_pages: '864'
+    publication_day: '12'
+    publication_month: '12'
+    publication_year: '2019'
+    ratings_count: '154769'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506350738l/36111098._SY75_.jpg
+    title: 'The Light of All That Falls (The Licanius Trilogy, #3)'
+    title_without_series: The Light of All That Falls
+    uri: kca://book/amzn1.gr.book.v1.-iYI4JGTZeHBQj5It3pkwg
+    work:
+      id: '57699584'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.47'
+    id: '35519109'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518642623l/35519109._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/35519109-exit-strategy
+    num_pages: '163'
+    publication_day: '2'
+    publication_month: '10'
+    publication_year: '2018'
+    ratings_count: '154769'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518642623l/35519109._SY75_.jpg
+    title: 'Exit Strategy (The Murderbot Diaries, #4)'
+    title_without_series: Exit Strategy
+    uri: kca://book/amzn1.gr.book.v1.NOCVAbifLCpCdeBrEUUVgA
+    work:
+      id: '56934601'
+  - authors:
+      author:
+        id: '7705004'
+        link: https://www.goodreads.com/author/show/7705004.Fonda_Lee
+        name: Fonda Lee
+    average_rating: '4.47'
+    id: '43587154'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547625704l/43587154._SX98_.jpg
+    isbn: 0316440884
+    isbn13: '9780316440882'
+    link: https://www.goodreads.com/book/show/43587154-jade-city
+    num_pages: '540'
+    publication_day: '26'
+    publication_month: '6'
+    publication_year: '2018'
+    ratings_count: '154769'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547625704l/43587154._SY75_.jpg
+    title: 'Jade City (The Green Bone Saga, #1)'
+    title_without_series: Jade City
+    uri: kca://book/amzn1.gr.book.v1.MKpCwDqqnXGw0_8fWLDoyg
+    work:
+      id: '55755047'
+  - authors:
+      author:
+        id: '5898355'
+        link: https://www.goodreads.com/author/show/5898355.John_Gwynne
+        name: John Gwynne
+    average_rating: '4.47'
+    id: '52694527'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610375894l/52694527._SX98_.jpg
+    isbn: 0356514188
+    isbn13: '9780356514185'
+    link: https://www.goodreads.com/book/show/52694527-the-shadow-of-the-gods
+    num_pages: '480'
+    publication_day: '6'
+    publication_month: '5'
+    publication_year: '2021'
+    ratings_count: '154769'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610375894l/52694527._SY75_.jpg
+    title: 'The Shadow of the Gods (The Bloodsworn Saga, #1)'
+    title_without_series: The Shadow of the Gods
+    uri: kca://book/amzn1.gr.book.v3.nEcpAQyXpMPmnwOl
+    work:
+      id: '73710031'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531845328l/39353738._SX50_.jpg
+started_at: '2019-02-03T00:00:00-08:00'
+text_reviews_count:
+  '#text': '1229'
+  '@type': integer
+title: 'Skyward (Skyward, #1)'
+title_without_series: Skyward
+uri: kca://book/amzn1.gr.book.v1.yrse3BZFrr5M8xIhie5a_w
+url: https://www.goodreads.com/book/show/39353738-skyward
+work:
+  id: '58411143'
+  uri: kca://work/amzn1.gr.work.v1.0pUyw1c4h6rpcjxjucK8sw

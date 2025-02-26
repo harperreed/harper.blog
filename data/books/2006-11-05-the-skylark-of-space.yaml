@@ -1,0 +1,770 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.61'
+    id: '17121722'
+    image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+      '@nophoto': 'true'
+    link: https://www.goodreads.com/author/show/17121722.E_E_
+    name: E.E.
+    ratings_count: '77'
+    role: null
+    small_image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png
+      '@nophoto': 'true'
+    text_reviews_count: '5'
+average_rating: '3.74'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: Finding that his government laboratory coworkers do not believe his discovery
+  of a revolutionary power source that will enable interstellar flight, Dr. Richard
+  Seaton acquires rights to his discovery from the government and commercializes it
+  with the aid of his friend, millionaire inventor Martin Crane. When a former colleague
+  tries to steal the invention, not only the future of Dr. Seaton and his allies,
+  but ultimately the entire world hangs in the balance!<br /><br />The first of the
+  great "space opera" science fiction novels, The Skylark of Space remains a thrilling
+  tale more than 80 years after its creation.<br /><br />"With the exception of the
+  works of H. G. Wells, possibly those of Jules Verne -- and almost no other writer
+  -- it has inspired more imitators and done more to change the nature of all the
+  science fiction written after it than almost any other single work." -- Frederik
+  Pohl
+edition_information: Commemorative
+format: null
+id: '576877'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314093063l/576877._SX98_.jpg
+is_ebook: 'false'
+isbn: 0803292864
+isbn13: '9780803292864'
+json: '{"id": "576877", "isbn": "0803292864", "isbn13": "9780803292864", "text_reviews_count":
+  {"@type": "integer", "#text": "5"}, "uri": "kca://book/amzn1.gr.book.v1.exF9f5ulHTxAUEnVp3_fHg",
+  "title": "The Skylark of Space", "title_without_series": "The Skylark of Space",
+  "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314093063l/576877._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314093063l/576877._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/576877.The_Skylark_of_Space",
+  "num_pages": null, "format": null, "edition_information": "Commemorative", "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "3.74", "ratings_count": "2776", "description": "Finding that
+  his government laboratory coworkers do not believe his discovery of a revolutionary
+  power source that will enable interstellar flight, Dr. Richard Seaton acquires rights
+  to his discovery from the government and commercializes it with the aid of his friend,
+  millionaire inventor Martin Crane. When a former colleague tries to steal the invention,
+  not only the future of Dr. Seaton and his allies, but ultimately the entire world
+  hangs in the balance!<br /><br />The first of the great \"space opera\" science
+  fiction novels, The Skylark of Space remains a thrilling tale more than 80 years
+  after its creation.<br /><br />\"With the exception of the works of H. G. Wells,
+  possibly those of Jules Verne -- and almost no other writer -- it has inspired more
+  imitators and done more to change the nature of all the science fiction written
+  after it than almost any other single work.\" -- Frederik Pohl", "authors": {"author":
+  {"id": "17121722", "name": "E.E.", "role": null, "image_url": {"@nophoto": "true",
+  "#text": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"},
+  "small_image_url": {"@nophoto": "true", "#text": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"},
+  "link": "https://www.goodreads.com/author/show/17121722.E_E_", "average_rating":
+  "3.61", "ratings_count": "77", "text_reviews_count": "5"}}, "published": null, "work":
+  {"id": "1379469", "uri": "kca://work/amzn1.gr.work.v1.05uJQSIkaEQgz403cbPgWQ"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417547",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B0CGVCFRF5
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/576877.The_Skylark_of_Space
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '1769'
+    '@name': to-read
+  - '@count': '242'
+    '@name': science-fiction
+  - '@count': '168'
+    '@name': currently-reading
+  - '@count': '99'
+    '@name': sci-fi
+  - '@count': '43'
+    '@name': space-opera
+  - '@count': '39'
+    '@name': owned
+  - '@count': '36'
+    '@name': scifi
+  - '@count': '35'
+    '@name': fiction
+  - '@count': '28'
+    '@name': sf
+  - '@count': '17'
+    '@name': default
+  - '@count': '17'
+    '@name': classics
+  - '@count': '17'
+    '@name': kindle
+  - '@count': '10'
+    '@name': fantasy
+  - '@count': '9'
+    '@name': series
+  - '@count': '9'
+    '@name': sci-fi-fantasy
+  - '@count': '8'
+    '@name': pulp
+  - '@count': '8'
+    '@name': ebook
+  - '@count': '7'
+    '@name': speculative-fiction
+  - '@count': '7'
+    '@name': audiobook
+  - '@count': '7'
+    '@name': sf-fantasy
+  - '@count': '7'
+    '@name': science-fiction-fantasy
+  - '@count': '6'
+    '@name': classic
+  - '@count': '6'
+    '@name': adventure
+  - '@count': '6'
+    '@name': space
+  - '@count': '6'
+    '@name': e-e-doc-smith
+  - '@count': '5'
+    '@name': books-i-own
+  - '@count': '5'
+    '@name': sff
+  - '@count': '5'
+    '@name': ee-doc-smith
+  - '@count': '5'
+    '@name': paperback
+  - '@count': '4'
+    '@name': 1920s
+  - '@count': '4'
+    '@name': scifi-fantasy
+  - '@count': '4'
+    '@name': audio
+  - '@count': '4'
+    '@name': unread
+  - '@count': '4'
+    '@name': audiobooks
+  - '@count': '4'
+    '@name': collection
+  - '@count': '4'
+    '@name': e-books
+  - '@count': '4'
+    '@name': owned-books
+  - '@count': '4'
+    '@name': doc-smith
+  - '@count': '4'
+    '@name': science-fiction-and-fantasy
+  - '@count': '4'
+    '@name': novel
+  - '@count': '4'
+    '@name': literature
+  - '@count': '4'
+    '@name': ebooks
+  - '@count': '4'
+    '@name': e-book
+  - '@count': '4'
+    '@name': novels
+  - '@count': '3'
+    '@name': skylark-series
+  - '@count': '3'
+    '@name': classic-sci-fi
+  - '@count': '3'
+    '@name': paperbacks
+  - '@count': '3'
+    '@name': my-books
+  - '@count': '3'
+    '@name': physical-books
+  - '@count': '3'
+    '@name': library
+  - '@count': '3'
+    '@name': favorites
+  - '@count': '3'
+    '@name': public-domain
+  - '@count': '2'
+    '@name': pulp-sci-fi
+  - '@count': '2'
+    '@name': sff-classics
+  - '@count': '2'
+    '@name': gutenberg
+  - '@count': '2'
+    '@name': hoopla
+  - '@count': '2'
+    '@name': book-club
+  - '@count': '2'
+    '@name': vintage-sci-fi
+  - '@count': '2'
+    '@name': ee-smith
+  - '@count': '2'
+    '@name': not-owned
+  - '@count': '2'
+    '@name': joe
+  - '@count': '2'
+    '@name': sf-space-opera
+  - '@count': '2'
+    '@name': maybe
+  - '@count': '2'
+    '@name': male-author
+  - '@count': '2'
+    '@name': project-gutenberg
+  - '@count': '2'
+    '@name': easton-press
+  - '@count': '2'
+    '@name': sciencefiction
+  - '@count': '2'
+    '@name': abandoned
+  - '@count': '2'
+    '@name': interested
+  - '@count': '2'
+    '@name': wish-list
+  - '@count': '2'
+    '@name': mine
+  - '@count': '2'
+    '@name': didn-t-finish
+  - '@count': '2'
+    '@name': physical
+  - '@count': '2'
+    '@name': owned-to-read
+  - '@count': '2'
+    '@name': my-collection
+  - '@count': '2'
+    '@name': librivox
+  - '@count': '2'
+    '@name': science-fiction-space-opera
+  - '@count': '2'
+    '@name': classic-sf
+  - '@count': '2'
+    '@name': s-f
+  - '@count': '2'
+    '@name': sold
+  - '@count': '2'
+    '@name': golden-age
+  - '@count': '2'
+    '@name': vintage
+  - '@count': '2'
+    '@name': shelved
+  - '@count': '2'
+    '@name': fiction-sf
+  - '@count': '2'
+    '@name': audible
+  - '@count': '2'
+    '@name': fmt-ebook
+  - '@count': '2'
+    '@name': science
+  - '@count': '2'
+    '@name': opera
+  - '@count': '2'
+    '@name': american
+  - '@count': '2'
+    '@name': to-get
+  - '@count': '2'
+    '@name': sci-fi-read
+  - '@count': '2'
+    '@name': public-domain-science-fiction
+  - '@count': '2'
+    '@name': sf-classics
+  - '@count': '2'
+    '@name': mmpb
+  - '@count': '2'
+    '@name': not-read
+  - '@count': '2'
+    '@name': skylark
+  - '@count': '1'
+    '@name': mp3
+  - '@count': '1'
+    '@name': apple-books
+  - '@count': '1'
+    '@name': 3-p-4a-s-b-geek-optimize-geekiness
+  - '@count': '1'
+    '@name': tbr-first-in-series
+public_document:
+  document_url: http://feedbooks.com/book/830.epub
+  id: '1552'
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '2776'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417547
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/576877.The_Skylark_of_Space\"\
+  >The Skylark of Space Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0803292864&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/576877.The_Skylark_of_Space?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '217230'
+    series:
+      description: null
+      id: '54701'
+      note: null
+      numbered: 'true'
+      primary_work_count: '4'
+      series_works_count: '6'
+      title: Skylark
+    user_position: '1'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '205'
+        link: https://www.goodreads.com/author/show/205.Robert_A_Heinlein
+        name: Robert A. Heinlein
+    average_rating: '3.74'
+    id: '342062'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 067157826X
+    isbn13: '9780671578268'
+    link: https://www.goodreads.com/book/show/342062.Sixth_Column
+    num_pages: null
+    publication_day: '1'
+    publication_month: '8'
+    publication_year: '1999'
+    ratings_count: '2776'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Sixth Column
+    title_without_series: Sixth Column
+    uri: kca://book/amzn1.gr.book.v1.QXE8wEIKRhkVS4gO6HgImw
+    work:
+      id: '49648'
+  - authors:
+      author:
+        id: '10885'
+        link: https://www.goodreads.com/author/show/10885.Edgar_Rice_Burroughs
+        name: Edgar Rice Burroughs
+    average_rating: '3.74'
+    id: '17377791'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361016682l/17377791._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/17377791-the-land-that-time-forgot
+    num_pages: '148'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2776'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361016682l/17377791._SY75_.jpg
+    title: 'The Land That Time Forgot (Caspak, #1)'
+    title_without_series: The Land That Time Forgot
+    uri: kca://book/amzn1.gr.book.v1.S6cpyoBZMAJwiFzQLMwuyg
+    work:
+      id: '68131350'
+  - authors:
+      author:
+        id: '205'
+        link: https://www.goodreads.com/author/show/205.Robert_A_Heinlein
+        name: Robert A. Heinlein
+    average_rating: '3.74'
+    id: '7171856'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 143913376X
+    isbn13: '9781439133767'
+    link: https://www.goodreads.com/book/show/7171856-the-puppet-masters
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2776'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Puppet Masters
+    title_without_series: The Puppet Masters
+    uri: kca://book/amzn1.gr.book.v1.dBTGgLxIyz9Hr1MKqAnBzQ
+    work:
+      id: '2534984'
+  - authors:
+      author:
+        id: '1293688'
+        link: https://www.goodreads.com/author/show/1293688.A_E_van_Vogt
+        name: A.E. van Vogt
+    average_rating: '3.74'
+    id: '643792'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0312852363
+    isbn13: '9780312852368'
+    link: https://www.goodreads.com/book/show/643792.Slan
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2776'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Slan (Slan, #1)'
+    title_without_series: Slan
+    uri: kca://book/amzn1.gr.book.v1.cj_qiwb-N6sfJoQjYTQl6Q
+    work:
+      id: '2742092'
+  - authors:
+      author:
+        id: '13828892'
+        link: https://www.goodreads.com/author/show/13828892.J_N_Chaney
+        name: J.N. Chaney
+    average_rating: '3.74'
+    id: '199535546'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1727087631l/199535546._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/199535546-ghost-in-the-deep
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2776'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1727087631l/199535546._SY75_.jpg
+    title: 'Ghost in the Deep (Backyard Starship #17)'
+    title_without_series: Ghost in the Deep
+    uri: kca://book/amzn1.gr.book.v3.ieMLnpQXsjIrZyxq
+    work:
+      id: '204004917'
+  - authors:
+      author:
+        id: '10885'
+        link: https://www.goodreads.com/author/show/10885.Edgar_Rice_Burroughs
+        name: Edgar Rice Burroughs
+    average_rating: '3.74'
+    id: '40395'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332272118l/40395._SX98_.jpg
+    isbn: 0143104888
+    isbn13: '9780143104889'
+    link: https://www.goodreads.com/book/show/40395.A_Princess_of_Mars
+    num_pages: '186'
+    publication_day: '30'
+    publication_month: '1'
+    publication_year: '2007'
+    ratings_count: '2776'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332272118l/40395._SY75_.jpg
+    title: 'A Princess of Mars (Barsoom, #1)'
+    title_without_series: A Princess of Mars
+    uri: kca://book/amzn1.gr.book.v1.VT_0IqPV7Ea6bxc8C7hVyQ
+    work:
+      id: '1129624'
+  - authors:
+      author:
+        id: '23113'
+        link: https://www.goodreads.com/author/show/23113.John_Brunner
+        name: John Brunner
+    average_rating: '3.74'
+    id: '41069'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360613921l/41069._SX98_.jpg
+    isbn: '1857988361'
+    isbn13: '9781857988369'
+    link: https://www.goodreads.com/book/show/41069.Stand_on_Zanzibar
+    num_pages: '672'
+    publication_day: '12'
+    publication_month: '8'
+    publication_year: '1999'
+    ratings_count: '2776'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360613921l/41069._SY75_.jpg
+    title: Stand on Zanzibar
+    title_without_series: Stand on Zanzibar
+    uri: kca://book/amzn1.gr.book.v1.mgQayaokn8LDiZ1--4Islg
+    work:
+      id: '2184253'
+  - authors:
+      author:
+        id: '48885'
+        link: https://www.goodreads.com/author/show/48885.Kate_Wilhelm
+        name: Kate Wilhelm
+    average_rating: '3.74'
+    id: '968827'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460999710l/968827._SX98_.jpg
+    isbn: '0060146540'
+    isbn13: '9780060146542'
+    link: https://www.goodreads.com/book/show/968827.Where_Late_the_Sweet_Birds_Sang
+    num_pages: '251'
+    publication_day: '1'
+    publication_month: '12'
+    publication_year: '1977'
+    ratings_count: '2776'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460999710l/968827._SY75_.jpg
+    title: Where Late the Sweet Birds Sang
+    title_without_series: Where Late the Sweet Birds Sang
+    uri: kca://book/amzn1.gr.book.v1.Bgb2APkNYtH5BnEeOgM3mg
+    work:
+      id: '953721'
+  - authors:
+      author:
+        id: '7010931'
+        link: https://www.goodreads.com/author/show/7010931.J_G_Ballard
+        name: J.G. Ballard
+    average_rating: '3.74'
+    id: '70255'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434120524l/70255._SX98_.jpg
+    isbn: 0374520968
+    isbn13: '9780374520960'
+    link: https://www.goodreads.com/book/show/70255.The_Crystal_World
+    num_pages: '210'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2776'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434120524l/70255._SY75_.jpg
+    title: The Crystal World
+    title_without_series: The Crystal World
+    uri: kca://book/amzn1.gr.book.v1.qFytJiPmkNfe8qEN3yVejw
+    work:
+      id: '937339'
+  - authors:
+      author:
+        id: '23503'
+        link: https://www.goodreads.com/author/show/23503.Vonda_N_McIntyre
+        name: Vonda N. McIntyre
+    average_rating: '3.74'
+    id: '263021'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440756641l/263021._SY160_.jpg
+    isbn: 0553296590
+    isbn13: '9780553296594'
+    link: https://www.goodreads.com/book/show/263021.Dreamsnake
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2776'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440756641l/263021._SY75_.jpg
+    title: Dreamsnake
+    title_without_series: Dreamsnake
+    uri: kca://book/amzn1.gr.book.v1.g8J4Uam0DBdqEs_HGFA1hg
+    work:
+      id: '254960'
+  - authors:
+      author:
+        id: '6944'
+        link: https://www.goodreads.com/author/show/6944.Jack_Finney
+        name: Jack Finney
+    average_rating: '3.74'
+    id: '127515'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344394499l/127515._SX98_.jpg
+    isbn: 0684852586
+    isbn13: '9780684852584'
+    link: https://www.goodreads.com/book/show/127515.Invasion_of_the_Body_Snatchers
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2776'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344394499l/127515._SY75_.jpg
+    title: Invasion of the Body Snatchers
+    title_without_series: Invasion of the Body Snatchers
+    uri: kca://book/amzn1.gr.book.v1.eQAJZMXG1o9z1MkmDulDxQ
+    work:
+      id: '864848'
+  - authors:
+      author:
+        id: '6606349'
+        link: https://www.goodreads.com/author/show/6606349.Marko_Kloos
+        name: Marko Kloos
+    average_rating: '3.74'
+    id: '30243858'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480850507l/30243858._SX98_.jpg
+    isbn: '1503995712'
+    isbn13: '9781503995710'
+    link: https://www.goodreads.com/book/show/30243858-fields-of-fire
+    num_pages: '280'
+    publication_day: '28'
+    publication_month: '2'
+    publication_year: '2017'
+    ratings_count: '2776'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480850507l/30243858._SY75_.jpg
+    title: 'Fields of Fire (Frontlines, #5)'
+    title_without_series: Fields of Fire
+    uri: kca://book/amzn1.gr.book.v1.CXIITjXEr6bLNe9xSoIyEg
+    work:
+      id: '50708771'
+  - authors:
+      author:
+        id: '10885'
+        link: https://www.goodreads.com/author/show/10885.Edgar_Rice_Burroughs
+        name: Edgar Rice Burroughs
+    average_rating: '3.74'
+    id: '215950'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0809599783
+    isbn13: '9780809599783'
+    link: https://www.goodreads.com/book/show/215950.At_the_Earth_s_Core
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2776'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'At the Earth''s Core (Pellucidar #1)'
+    title_without_series: At the Earth's Core
+    uri: kca://book/amzn1.gr.book.v1.fFxyaB_hjQAmB1uNpINEBw
+    work:
+      id: '1418'
+  - authors:
+      author:
+        id: '10517'
+        link: https://www.goodreads.com/author/show/10517.David_Weber
+        name: David Weber
+    average_rating: '3.74'
+    id: '504369'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321561655l/504369._SY160_.jpg
+    isbn: '0743435745'
+    isbn13: '9780743435741'
+    link: https://www.goodreads.com/book/show/504369.Field_of_Dishonor
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2776'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321561655l/504369._SY75_.jpg
+    title: 'Field of Dishonor (Honor Harrington, #4)'
+    title_without_series: Field of Dishonor
+    uri: kca://book/amzn1.gr.book.v1.LF9bMiSwYQyOC4eOfNc7Dg
+    work:
+      id: '1695604'
+  - authors:
+      author:
+        id: '6606349'
+        link: https://www.goodreads.com/author/show/6606349.Marko_Kloos
+        name: Marko Kloos
+    average_rating: '3.74'
+    id: '41211815'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548541838l/41211815._SX98_.jpg
+    isbn: '1542043549'
+    isbn13: '9781542043540'
+    link: https://www.goodreads.com/book/show/41211815-aftershocks
+    num_pages: '286'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2776'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548541838l/41211815._SX50_.jpg
+    title: 'Aftershocks (The Palladium Wars #1)'
+    title_without_series: Aftershocks
+    uri: kca://book/amzn1.gr.book.v1.5YH2MB235bVTyCxT4pXV-g
+    work:
+      id: '64403735'
+  - authors:
+      author:
+        id: '6606349'
+        link: https://www.goodreads.com/author/show/6606349.Marko_Kloos
+        name: Marko Kloos
+    average_rating: '3.74'
+    id: '35391324'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508839054l/35391324._SX98_.jpg
+    isbn: '1542098467'
+    isbn13: '9781542098465'
+    link: https://www.goodreads.com/book/show/35391324-points-of-impact
+    num_pages: '297'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2776'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508839054l/35391324._SX50_.jpg
+    title: 'Points of Impact (Frontlines, #6)'
+    title_without_series: Points of Impact
+    uri: kca://book/amzn1.gr.book.v1.-IVAwyGpeiv38CFHTagtIw
+    work:
+      id: '56756478'
+  - authors:
+      author:
+        id: '6535367'
+        link: https://www.goodreads.com/author/show/6535367.James_Maxwell
+        name: James   Maxwell
+    average_rating: '3.74'
+    id: '49987821'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1542005302'
+    isbn13: '9781542005302'
+    link: https://www.goodreads.com/book/show/49987821-a-girl-from-nowhere
+    num_pages: '445'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2776'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'A Girl from Nowhere (The Firewall Trilogy, #1)'
+    title_without_series: A Girl from Nowhere
+    uri: kca://book/amzn1.gr.book.v3.wgE7cxlQZS01FIbG
+    work:
+      id: '73991411'
+  - authors:
+      author:
+        id: '33918'
+        link: https://www.goodreads.com/author/show/33918.China_Mi_ville
+        name: "China Mi\xE9ville"
+    average_rating: '3.74'
+    id: '9265453'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320470326l/9265453._SX98_.jpg
+    isbn: 0345524497
+    isbn13: '9780345524492'
+    link: https://www.goodreads.com/book/show/9265453-embassytown
+    num_pages: '345'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2776'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320470326l/9265453._SY75_.jpg
+    title: Embassytown
+    title_without_series: Embassytown
+    uri: kca://book/amzn1.gr.book.v1.leH4sgMK6UUuEhmKx4AMBg
+    work:
+      id: '14146240'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314093063l/576877._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '5'
+  '@type': integer
+title: The Skylark of Space
+title_without_series: The Skylark of Space
+uri: kca://book/amzn1.gr.book.v1.exF9f5ulHTxAUEnVp3_fHg
+url: https://www.goodreads.com/book/show/576877.The_Skylark_of_Space
+work:
+  id: '1379469'
+  uri: kca://work/amzn1.gr.work.v1.05uJQSIkaEQgz403cbPgWQ

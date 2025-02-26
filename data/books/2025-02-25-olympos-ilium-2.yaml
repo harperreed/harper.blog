@@ -1,0 +1,763 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.11'
+    id: '2687'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1427999015p5/2687.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/2687.Dan_Simmons
+    name: Dan Simmons
+    ratings_count: '844025'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1427999015p2/2687.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '51470'
+average_rating: '3.95'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: 'Librarian''s Note: Alternate Edition with same isbn &amp; isbn 13: January
+  2011<br /><br />THE EXTRAORDINARY AND MAGNIFICENT EPIC CONCLUSION TO THE HUGO AWARD-NOMINATED
+  ILIUM<br /><br />Beneath the gaze of the gods, the mighty armies of Greece and Troy
+  met in fierce and glorious combat, scrupulously following the text set forth in
+  Homer''s timeless narrative, but that was before twenty-first century scholar Thomas
+  Hockenberry stirred the bloody brew, causing an enraged Achilles to join forces
+  with his archenemy Hector and turn his murderous wrath on Zeus and the entire pantheon
+  of divine manipulators; before the swift and terrible mechanical creatures that
+  catered for centuries to the pitiful idle remnants of Earth''s human race began
+  massing in the millions, to exterminate rather than serve.<br /><br />And now all
+  bets are off.'
+edition_information: Reprint
+format: Mass Market Paperback
+id: '3972'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: 0380817934
+isbn13: '9780380817931'
+json: '{"id": "3972", "isbn": "0380817934", "isbn13": "9780380817931", "text_reviews_count":
+  {"@type": "integer", "#text": "630"}, "uri": "kca://book/amzn1.gr.book.v1.effmaHf_x6RlOSaxqsMCZA",
+  "title": "Olympos (Ilium, #2)", "title_without_series": "Olympos", "image_url":
+  "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/3972.Olympos",
+  "num_pages": "891", "format": "Mass Market Paperback", "edition_information": "Reprint",
+  "publisher": null, "publication_day": null, "publication_year": null, "publication_month":
+  null, "average_rating": "3.95", "ratings_count": "19972", "description": "Librarian''s
+  Note: Alternate Edition with same isbn &amp; isbn 13: January 2011<br /><br />THE
+  EXTRAORDINARY AND MAGNIFICENT EPIC CONCLUSION TO THE HUGO AWARD-NOMINATED ILIUM<br
+  /><br />Beneath the gaze of the gods, the mighty armies of Greece and Troy met in
+  fierce and glorious combat, scrupulously following the text set forth in Homer''s
+  timeless narrative, but that was before twenty-first century scholar Thomas Hockenberry
+  stirred the bloody brew, causing an enraged Achilles to join forces with his archenemy
+  Hector and turn his murderous wrath on Zeus and the entire pantheon of divine manipulators;
+  before the swift and terrible mechanical creatures that catered for centuries to
+  the pitiful idle remnants of Earth''s human race began massing in the millions,
+  to exterminate rather than serve.<br /><br />And now all bets are off.", "authors":
+  {"author": {"id": "2687", "name": "Dan Simmons", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1427999015p5/2687.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1427999015p2/2687.jpg"},
+  "link": "https://www.goodreads.com/author/show/2687.Dan_Simmons", "average_rating":
+  "4.11", "ratings_count": "844025", "text_reviews_count": "51470"}}, "published":
+  null, "work": {"id": "1537178", "uri": "kca://work/amzn1.gr.work.v1.5hmboIETwDEE9PWFa-c16A"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/42404797",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B000FCK97C
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/3972.Olympos
+marketplace_id: ATVPDKIKX0DER
+num_pages: '891'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '9114'
+    '@name': to-read
+  - '@count': '777'
+    '@name': science-fiction
+  - '@count': '531'
+    '@name': sci-fi
+  - '@count': '480'
+    '@name': currently-reading
+  - '@count': '205'
+    '@name': fiction
+  - '@count': '201'
+    '@name': fantasy
+  - '@count': '180'
+    '@name': owned
+  - '@count': '151'
+    '@name': scifi
+  - '@count': '113'
+    '@name': sf
+  - '@count': '105'
+    '@name': favorites
+  - '@count': '62'
+    '@name': default
+  - '@count': '58'
+    '@name': mythology
+  - '@count': '46'
+    '@name': dan-simmons
+  - '@count': '43'
+    '@name': space-opera
+  - '@count': '42'
+    '@name': sci-fi-fantasy
+  - '@count': '33'
+    '@name': series
+  - '@count': '32'
+    '@name': ebook
+  - '@count': '31'
+    '@name': library
+  - '@count': '30'
+    '@name': books-i-own
+  - '@count': '28'
+    '@name': scifi-fantasy
+  - '@count': '27'
+    '@name': owned-books
+  - '@count': '27'
+    '@name': audiobook
+  - '@count': '26'
+    '@name': science
+  - '@count': '25'
+    '@name': speculative-fiction
+  - '@count': '23'
+    '@name': kindle
+  - '@count': '22'
+    '@name': my-library
+  - '@count': '22'
+    '@name': historical-fiction
+  - '@count': '22'
+    '@name': novels
+  - '@count': '19'
+    '@name': adventure
+  - '@count': '19'
+    '@name': space
+  - '@count': '19'
+    '@name': science-fiction-fantasy
+  - '@count': '18'
+    '@name': novel
+  - '@count': '17'
+    '@name': audible
+  - '@count': '17'
+    '@name': fantasy-sci-fi
+  - '@count': '16'
+    '@name': ebooks
+  - '@count': '15'
+    '@name': calibre
+  - '@count': '15'
+    '@name': mars
+  - '@count': '15'
+    '@name': sf-fantasy
+  - '@count': '14'
+    '@name': epic
+  - '@count': '13'
+    '@name': favourites
+  - '@count': '12'
+    '@name': my-books
+  - '@count': '12'
+    '@name': historical
+  - '@count': '12'
+    '@name': sff
+  - '@count': '12'
+    '@name': gods
+  - '@count': '11'
+    '@name': dnf
+  - '@count': '11'
+    '@name': simmons
+  - '@count': '11'
+    '@name': thriller
+  - '@count': '11'
+    '@name': english
+  - '@count': '10'
+    '@name': audio
+  - '@count': '10'
+    '@name': greek
+  - '@count': '10'
+    '@name': war
+  - '@count': '9'
+    '@name': fantasy-scifi
+  - '@count': '9'
+    '@name': audiobooks
+  - '@count': '9'
+    '@name': own-it
+  - '@count': '9'
+    '@name': e-books
+  - '@count': '8'
+    '@name': physical-tbr
+  - '@count': '8'
+    '@name': tbr
+  - '@count': '8'
+    '@name': to-read-sci-fi
+  - '@count': '8'
+    '@name': books
+  - '@count': '8'
+    '@name': speculative
+  - '@count': '8'
+    '@name': abandoned
+  - '@count': '8'
+    '@name': all-time-favorites
+  - '@count': '8'
+    '@name': fantasy-sf
+  - '@count': '8'
+    '@name': to-buy
+  - '@count': '8'
+    '@name': bookshelf
+  - '@count': '8'
+    '@name': home-library
+  - '@count': '8'
+    '@name': history
+  - '@count': '7'
+    '@name': ciencia-ficcion
+  - '@count': '7'
+    '@name': faves
+  - '@count': '7'
+    '@name': did-not-finish
+  - '@count': '7'
+    '@name': re-read
+  - '@count': '7'
+    '@name': time-travel
+  - '@count': '7'
+    '@name': i-own
+  - '@count': '7'
+    '@name': imaginary
+  - '@count': '7'
+    '@name': general
+  - '@count': '7'
+    '@name': maybe
+  - '@count': '6'
+    '@name': ya
+  - '@count': '6'
+    '@name': recommended
+  - '@count': '6'
+    '@name': "ciencia-ficci\xF3n"
+  - '@count': '6'
+    '@name': own-not-read
+  - '@count': '6'
+    '@name': physical-copy
+  - '@count': '6'
+    '@name': my-favorites
+  - '@count': '6'
+    '@name': paper
+  - '@count': '6'
+    '@name': physical
+  - '@count': '6'
+    '@name': e-book
+  - '@count': '6'
+    '@name': dystopian
+  - '@count': '6'
+    '@name': read-sci-fi
+  - '@count': '6'
+    '@name': to-read-fiction
+  - '@count': '6'
+    '@name': shakespeare
+  - '@count': '6'
+    '@name': ilium
+  - '@count': '6'
+    '@name': to-read-owned
+  - '@count': '6'
+    '@name': '2006'
+  - '@count': '6'
+    '@name': planet
+  - '@count': '6'
+    '@name': battles
+  - '@count': '6'
+    '@name': horror
+  - '@count': '6'
+    '@name': hardcover
+  - '@count': '6'
+    '@name': wars
+  - '@count': '6'
+    '@name': sciencefiction
+  - '@count': '6'
+    '@name': have
+  - '@count': '5'
+    '@name': owned-unread
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '19972'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/42404797
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/3972.Olympos\"\
+  >Olympos Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0380817934&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/3972.Olympos?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '210216'
+    series:
+      description: null
+      id: '53689'
+      note: null
+      numbered: 'true'
+      primary_work_count: '2'
+      series_works_count: '7'
+      title: Ilium
+    user_position: '2'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '14887946'
+        link: https://www.goodreads.com/author/show/14887946.Max_Nowaz
+        name: Max Nowaz
+    average_rating: '3.95'
+    id: '101265124'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SX98_.jpg
+    isbn: '1803133961'
+    isbn13: '9781803133966'
+    link: https://www.goodreads.com/book/show/101265124-the-polymorph
+    num_pages: '0'
+    publication_day: '4'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '19972'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SY75_.jpg
+    title: The Polymorph
+    title_without_series: The Polymorph
+    uri: kca://book/amzn1.gr.book.v3.2WI1HTFNfz3UC2Zb
+    work:
+      id: '124767981'
+  - authors:
+      author:
+        id: '14407836'
+        link: https://www.goodreads.com/author/show/14407836.A_R_Merrydew
+        name: A.R. Merrydew
+    average_rating: '3.95'
+    id: '215186841'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/215186841-inara
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '19972'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Inara (Godfrey Davis, #3)'
+    title_without_series: Inara
+    uri: kca://book/amzn1.gr.book.v3.wCOHuKhf0nZUkB2e
+    work:
+      id: '221595685'
+  - authors:
+      author:
+        id: '44037'
+        link: https://www.goodreads.com/author/show/44037.Vernor_Vinge
+        name: Vernor Vinge
+    average_rating: '3.95'
+    id: '102439'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316729149l/102439._SX98_.jpg
+    isbn: 0812536363
+    isbn13: '9780812536362'
+    link: https://www.goodreads.com/book/show/102439.Rainbows_End
+    num_pages: '381'
+    publication_day: '3'
+    publication_month: '4'
+    publication_year: '2007'
+    ratings_count: '19972'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316729149l/102439._SY75_.jpg
+    title: Rainbows End
+    title_without_series: Rainbows End
+    uri: kca://book/amzn1.gr.book.v1.9-MC1C0kbnbNVZTQPJcK6w
+    work:
+      id: '3101132'
+  - authors:
+      author:
+        id: '12581'
+        link: https://www.goodreads.com/author/show/12581.Cory_Doctorow
+        name: Cory Doctorow
+    average_rating: '3.95'
+    id: '954674'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349673129l/954674._SX98_.jpg
+    isbn: 0765319853
+    isbn13: '9780765319852'
+    link: https://www.goodreads.com/book/show/954674.Little_Brother
+    num_pages: '382'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '19972'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349673129l/954674._SY75_.jpg
+    title: 'Little Brother (Little Brother, #1)'
+    title_without_series: Little Brother
+    uri: kca://book/amzn1.gr.book.v1.cy9SAuu6A3pgVWQlscsLRA
+    work:
+      id: '939584'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '3.95'
+    id: '45244'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316501189l/45244._SX98_.jpg
+    isbn: '0345461665'
+    isbn13: '9780345461667'
+    link: https://www.goodreads.com/book/show/45244.Judas_Unchained
+    num_pages: '827'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '19972'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316501189l/45244._SY75_.jpg
+    title: 'Judas Unchained (Commonwealth Saga #2)'
+    title_without_series: Judas Unchained
+    uri: kca://book/amzn1.gr.book.v1.4cur2X9Awz8U2izr0T7c7A
+    work:
+      id: '44507'
+  - authors:
+      author:
+        id: '27167'
+        link: https://www.goodreads.com/author/show/27167.Peter_Watts
+        name: Peter Watts
+    average_rating: '3.95'
+    id: '66479'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0812575857
+    isbn13: '9780812575859'
+    link: https://www.goodreads.com/book/show/66479.Starfish
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '19972'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Starfish (Rifters, #1)'
+    title_without_series: Starfish
+    uri: kca://book/amzn1.gr.book.v1.QtiSKEs6oz5ODYh6G10E-w
+    work:
+      id: '2489444'
+  - authors:
+      author:
+        id: '22565447'
+        link: https://www.goodreads.com/author/show/22565447.Therisa_Peimer
+        name: Therisa Peimer
+    average_rating: '3.95'
+    id: '61608233'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658244114l/61608233._SX98_.jpg
+    isbn: '1039125611'
+    isbn13: '9781039125612'
+    link: https://www.goodreads.com/book/show/61608233-taming-flame
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '19972'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658244114l/61608233._SX50_.jpg
+    title: Taming Flame
+    title_without_series: Taming Flame
+    uri: kca://book/amzn1.gr.book.v3.clKIDY7JJdvmz7KB
+    work:
+      id: '97169008'
+  - authors:
+      author:
+        id: '545'
+        link: https://www.goodreads.com/author/show/545.Neal_Stephenson
+        name: Neal Stephenson
+    average_rating: '3.95'
+    id: '2845024'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488349209l/2845024._SX98_.jpg
+    isbn: 0061474096
+    isbn13: '9780061474095'
+    link: https://www.goodreads.com/book/show/2845024-anathem
+    num_pages: '937'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '19972'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488349209l/2845024._SX50_.jpg
+    title: Anathem
+    title_without_series: Anathem
+    uri: kca://book/amzn1.gr.book.v1.YMVX1w25GfnrV40pB060yA
+    work:
+      id: '6163095'
+  - authors:
+      author:
+        id: '27276'
+        link: https://www.goodreads.com/author/show/27276.Robert_Charles_Wilson
+        name: Robert Charles Wilson
+    average_rating: '3.95'
+    id: '9359796'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312034516l/9359796._SX98_.jpg
+    isbn: '0765323427'
+    isbn13: '9780765323422'
+    link: https://www.goodreads.com/book/show/9359796-vortex
+    num_pages: '331'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '19972'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312034516l/9359796._SY75_.jpg
+    title: 'Vortex (Spin, #3)'
+    title_without_series: Vortex
+    uri: kca://book/amzn1.gr.book.v1.KPn1wsJ9szFTW_yPTsthoQ
+    work:
+      id: '13438392'
+  - authors:
+      author:
+        id: '711866'
+        link: https://www.goodreads.com/author/show/711866.Barry_Kirwan
+        name: Barry Kirwan
+    average_rating: '3.95'
+    id: '43722869'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/43722869-the-eden-paradox
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '19972'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Eden Paradox (Eden Paradox, #1)'
+    title_without_series: The Eden Paradox
+    uri: kca://book/amzn1.gr.book.v1.UDhLqYMwKq5dAVfSIYALGw
+    work:
+      id: '17313897'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '3.95'
+    id: '866136'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0345496531
+    isbn13: '9780345496539'
+    link: https://www.goodreads.com/book/show/866136.The_Dreaming_Void
+    num_pages: '630'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '19972'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Dreaming Void (Void #1)'
+    title_without_series: The Dreaming Void
+    uri: kca://book/amzn1.gr.book.v1._folUzblKZlgF3VBRdKOIQ
+    work:
+      id: '851537'
+  - authors:
+      author:
+        id: '8794'
+        link: https://www.goodreads.com/author/show/8794.Charles_Stross
+        name: Charles Stross
+    average_rating: '3.95'
+    id: '17863'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0441014151'
+    isbn13: '9780441014156'
+    link: https://www.goodreads.com/book/show/17863.Accelerando
+    num_pages: '415'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '19972'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Accelerando
+    title_without_series: Accelerando
+    uri: kca://book/amzn1.gr.book.v1.lXZQYqWfLsVvcSO1ikbqGg
+    work:
+      id: '930555'
+  - authors:
+      author:
+        id: '7779'
+        link: https://www.goodreads.com/author/show/7779.Arthur_C_Clarke
+        name: Arthur C. Clarke
+    average_rating: '3.95'
+    id: '63432'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0345438205
+    isbn13: '9780345438201'
+    link: https://www.goodreads.com/book/show/63432.3001
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '19972'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: '3001: The Final Odyssey'
+    title_without_series: '3001: The Final Odyssey'
+    uri: kca://book/amzn1.gr.book.v1.Q2QU044z7FcF-4QPSIB4IQ
+    work:
+      id: '2118902'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '3.95'
+    id: '3437328'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357349093l/3437328._SX98_.jpg
+    isbn: '1405088834'
+    isbn13: '9781405088831'
+    link: https://www.goodreads.com/book/show/3437328-the-temporal-void
+    num_pages: '746'
+    publication_day: '3'
+    publication_month: '10'
+    publication_year: '2008'
+    ratings_count: '19972'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357349093l/3437328._SY75_.jpg
+    title: 'The Temporal Void (Void #2)'
+    title_without_series: The Temporal Void
+    uri: kca://book/amzn1.gr.book.v1.nZxYkGU0Fx1QsWbWPY42cg
+    work:
+      id: '3478338'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '3.95'
+    id: '45252'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440699949l/45252._SX98_.jpg
+    isbn: '0345461622'
+    isbn13: '9780345461629'
+    link: https://www.goodreads.com/book/show/45252.Pandora_s_Star
+    num_pages: '768'
+    publication_day: '2'
+    publication_month: '3'
+    publication_year: '2005'
+    ratings_count: '19972'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440699949l/45252._SX50_.jpg
+    title: 'Pandora''s Star (Commonwealth Saga #1)'
+    title_without_series: Pandora's Star
+    uri: kca://book/amzn1.gr.book.v1.ZrVSLOqFs-Hg_W5jyky1KQ
+    work:
+      id: '987015'
+  - authors:
+      author:
+        id: '51204'
+        link: https://www.goodreads.com/author/show/51204.Alastair_Reynolds
+        name: Alastair Reynolds
+    average_rating: '3.95'
+    id: '89185'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309203334l/89185._SX98_.jpg
+    isbn: '0441010644'
+    isbn13: '9780441010646'
+    link: https://www.goodreads.com/book/show/89185.Chasm_City
+    num_pages: '694'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '19972'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309203334l/89185._SY75_.jpg
+    title: Chasm City
+    title_without_series: Chasm City
+    uri: kca://book/amzn1.gr.book.v1.53zghcQgmo9Arq4NF_kKkA
+    work:
+      id: '2926628'
+  - authors:
+      author:
+        id: '27167'
+        link: https://www.goodreads.com/author/show/27167.Peter_Watts
+        name: Peter Watts
+    average_rating: '3.95'
+    id: '48484'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0765312182
+    isbn13: '9780765312181'
+    link: https://www.goodreads.com/book/show/48484.Blindsight
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '19972'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Blindsight (Firefall, #1)'
+    title_without_series: Blindsight
+    uri: kca://book/amzn1.gr.book.v1.A4CNk2qG0qxshK4OKH9lJQ
+    work:
+      id: '223813791'
+  - authors:
+      author:
+        id: '51204'
+        link: https://www.goodreads.com/author/show/51204.Alastair_Reynolds
+        name: Alastair Reynolds
+    average_rating: '3.95'
+    id: '1126719'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447892903l/1126719._SX98_.jpg
+    isbn: 0575099127
+    isbn13: '9780575099128'
+    link: https://www.goodreads.com/book/show/1126719.House_of_Suns
+    num_pages: '512'
+    publication_day: null
+    publication_month: null
+    publication_year: '2010'
+    ratings_count: '19972'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447892903l/1126719._SY75_.jpg
+    title: House of Suns
+    title_without_series: House of Suns
+    uri: kca://book/amzn1.gr.book.v1.XZ4LCNHN8Aug7lcRpBSaww
+    work:
+      id: '2020929'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '630'
+  '@type': integer
+title: 'Olympos (Ilium, #2)'
+title_without_series: Olympos
+uri: kca://book/amzn1.gr.book.v1.effmaHf_x6RlOSaxqsMCZA
+url: https://www.goodreads.com/book/show/3972.Olympos
+work:
+  id: '1537178'
+  uri: kca://work/amzn1.gr.work.v1.5hmboIETwDEE9PWFa-c16A

@@ -1,0 +1,790 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.95'
+    id: '6538289'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1409248688p5/6538289.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/6538289.David_Mitchell
+    name: David Mitchell
+    ratings_count: '679511'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1409248688p2/6538289.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '69461'
+average_rating: '3.81'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2015-11-03T00:00:00-08:00'
+description: "<i>Keep your eyes peeled for a small black iron door.</i><br /><br />Down\
+  \ the road from a working-class British pub, along the brick wall of a narrow alley,\
+  \ if the conditions are exactly right, you\u2019ll find the entrance to <i>Slade\
+  \ House</i>. A stranger will greet you by name and invite you inside. At first,\
+  \ you won\u2019t want to leave. Later, you\u2019ll find that you can\u2019t. Every\
+  \ nine years, the house\u2019s residents\u2014an odd brother and sister\u2014extend\
+  \ a unique invitation to someone who\u2019s different or lonely: a precocious teenager,\
+  \ a recently divorced policeman, a shy college student. But what really goes on\
+  \ inside <i>Slade House</i>? For those who find out, it\u2019s already too late.\
+  \ . . .<br /><br />Spanning five decades, from the last days of the 1970s to the\
+  \ present, leaping genres, and barreling toward an astonishing conclusion, this\
+  \ intricately woven novel will pull you into a reality-warping new vision of the\
+  \ haunted house story\u2014as only David Mitchell could imagine it."
+edition_information: 1st Edition
+format: Hardcover
+id: '24499258'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1626721882l/24499258._SX98_.jpg
+is_ebook: 'false'
+isbn: 0812998685
+isbn13: '9780812998689'
+json: '{"id": "24499258", "isbn": "0812998685", "isbn13": "9780812998689", "text_reviews_count":
+  {"@type": "integer", "#text": "4452"}, "uri": "kca://book/amzn1.gr.book.v1.3uB-Dnb2ywa_n5-lxSh32g",
+  "title": "Slade House", "title_without_series": "Slade House", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1626721882l/24499258._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1626721882l/24499258._SX50_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/24499258-slade-house",
+  "num_pages": "238", "format": "Hardcover", "edition_information": "1st Edition",
+  "publisher": "Random House", "publication_day": "27", "publication_year": "2015",
+  "publication_month": "10", "average_rating": "3.81", "ratings_count": "67284", "description":
+  "<i>Keep your eyes peeled for a small black iron door.</i><br /><br />Down the road
+  from a working-class British pub, along the brick wall of a narrow alley, if the
+  conditions are exactly right, you\u2019ll find the entrance to <i>Slade House</i>.
+  A stranger will greet you by name and invite you inside. At first, you won\u2019t
+  want to leave. Later, you\u2019ll find that you can\u2019t. Every nine years, the
+  house\u2019s residents\u2014an odd brother and sister\u2014extend a unique invitation
+  to someone who\u2019s different or lonely: a precocious teenager, a recently divorced
+  policeman, a shy college student. But what really goes on inside <i>Slade House</i>?
+  For those who find out, it\u2019s already too late. . . .<br /><br />Spanning five
+  decades, from the last days of the 1970s to the present, leaping genres, and barreling
+  toward an astonishing conclusion, this intricately woven novel will pull you into
+  a reality-warping new vision of the haunted house story\u2014as only David Mitchell
+  could imagine it.", "authors": {"author": {"id": "6538289", "name": "David Mitchell",
+  "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1409248688p5/6538289.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1409248688p2/6538289.jpg"},
+  "link": "https://www.goodreads.com/author/show/6538289.David_Mitchell", "average_rating":
+  "3.95", "ratings_count": "679511", "text_reviews_count": "69461"}}, "published":
+  "2015", "work": {"id": "44094715", "uri": "kca://work/amzn1.gr.work.v1.72mic8V0wa4tKOwG2yLztQ"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1431173312",
+  "read_at": "Tue Nov 03 00:00:00 -0800 2015", "started_at": "Sun Nov 01 00:00:00
+  -0700 2015", "date": "Tue Nov 03 00:00:00 -0800 2015"}'
+kindle_asin: B00S3RILQW
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/24499258-slade-house
+marketplace_id: ATVPDKIKX0DER
+num_pages: '238'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '60330'
+    '@name': to-read
+  - '@count': '2457'
+    '@name': currently-reading
+  - '@count': '2187'
+    '@name': horror
+  - '@count': '1456'
+    '@name': fiction
+  - '@count': '1238'
+    '@name': fantasy
+  - '@count': '453'
+    '@name': mystery
+  - '@count': '412'
+    '@name': favorites
+  - '@count': '345'
+    '@name': owned
+  - '@count': '223'
+    '@name': books-i-own
+  - '@count': '220'
+    '@name': paranormal
+  - '@count': '209'
+    '@name': library
+  - '@count': '181'
+    '@name': kindle
+  - '@count': '169'
+    '@name': thriller
+  - '@count': '163'
+    '@name': audiobook
+  - '@count': '159'
+    '@name': book-club
+  - '@count': '146'
+    '@name': supernatural
+  - '@count': '138'
+    '@name': audiobooks
+  - '@count': '125'
+    '@name': literary-fiction
+  - '@count': '123'
+    '@name': science-fiction
+  - '@count': '112'
+    '@name': read-in-2016
+  - '@count': '110'
+    '@name': sci-fi
+  - '@count': '107'
+    '@name': audio
+  - '@count': '104'
+    '@name': dnf
+  - '@count': '103'
+    '@name': adult
+  - '@count': '102'
+    '@name': magical-realism
+  - '@count': '96'
+    '@name': gothic
+  - '@count': '95'
+    '@name': novels
+  - '@count': '88'
+    '@name': ebook
+  - '@count': '83'
+    '@name': contemporary
+  - '@count': '82'
+    '@name': owned-books
+  - '@count': '80'
+    '@name': ghosts
+  - '@count': '75'
+    '@name': british
+  - '@count': '73'
+    '@name': mystery-thriller
+  - '@count': '71'
+    '@name': tbr
+  - '@count': '69'
+    '@name': read-2016
+  - '@count': '68'
+    '@name': read-in-2015
+  - '@count': '66'
+    '@name': england
+  - '@count': '65'
+    '@name': to-buy
+  - '@count': '64'
+    '@name': adult-fiction
+  - '@count': '62'
+    '@name': david-mitchell
+  - '@count': '60'
+    '@name': my-library
+  - '@count': '57'
+    '@name': read-in-2017
+  - '@count': '56'
+    '@name': literature
+  - '@count': '56'
+    '@name': physical-tbr
+  - '@count': '56'
+    '@name': spooky
+  - '@count': '55'
+    '@name': english
+  - '@count': '51'
+    '@name': favourites
+  - '@count': '49'
+    '@name': literary
+  - '@count': '48'
+    '@name': speculative-fiction
+  - '@count': '48'
+    '@name': contemporary-fiction
+  - '@count': '46'
+    '@name': haunted-house
+  - '@count': '46'
+    '@name': horror-thriller
+  - '@count': '46'
+    '@name': netgalley
+  - '@count': '46'
+    '@name': sci-fi-fantasy
+  - '@count': '45'
+    '@name': ebooks
+  - '@count': '44'
+    '@name': abandoned
+  - '@count': '44'
+    '@name': halloween
+  - '@count': '43'
+    '@name': novel
+  - '@count': '41'
+    '@name': 2016-reads
+  - '@count': '40'
+    '@name': maybe
+  - '@count': '39'
+    '@name': suspense
+  - '@count': '39'
+    '@name': wish-list
+  - '@count': '37'
+    '@name': audio-books
+  - '@count': '37'
+    '@name': owned-tbr
+  - '@count': '35'
+    '@name': general-fiction
+  - '@count': '35'
+    '@name': did-not-finish
+  - '@count': '34'
+    '@name': ghost-stories
+  - '@count': '34'
+    '@name': audio-book
+  - '@count': '34'
+    '@name': 21st-century
+  - '@count': '34'
+    '@name': read-2017
+  - '@count': '33'
+    '@name': library-books
+  - '@count': '32'
+    '@name': read-in-2019
+  - '@count': '32'
+    '@name': fantasy-sci-fi
+  - '@count': '32'
+    '@name': library-book
+  - '@count': '32'
+    '@name': short-stories
+  - '@count': '31'
+    '@name': read-2015
+  - '@count': '31'
+    '@name': historical-fiction
+  - '@count': '31'
+    '@name': read-in-2018
+  - '@count': '30'
+    '@name': default
+  - '@count': '30'
+    '@name': weird
+  - '@count': '30'
+    '@name': 2010s
+  - '@count': '29'
+    '@name': creepy
+  - '@count': '29'
+    '@name': uk
+  - '@count': '29'
+    '@name': audible
+  - '@count': '28'
+    '@name': bookclub
+  - '@count': '27'
+    '@name': dark
+  - '@count': '27'
+    '@name': reviewed
+  - '@count': '27'
+    '@name': bookshelf
+  - '@count': '26'
+    '@name': my-books
+  - '@count': '26'
+    '@name': terror
+  - '@count': '25'
+    '@name': own-it
+  - '@count': '25'
+    '@name': borrowed
+  - '@count': '25'
+    '@name': magic
+  - '@count': '25'
+    '@name': on-my-shelf
+  - '@count': '24'
+    '@name': to-read-fiction
+  - '@count': '23'
+    '@name': 5-stars
+  - '@count': '23'
+    '@name': arc
+  - '@count': '23'
+    '@name': haunted-houses
+  - '@count': '23'
+    '@name': recommended
+  - '@count': '22'
+    '@name': fiction-horror
+publication_day: '27'
+publication_month: '10'
+publication_year: '2015'
+published: '2015'
+publisher: Random House
+ratings_count: '67284'
+read_at: '2015-11-03T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/1431173312
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/24499258-slade-house\"\
+  >Slade House Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0812998685&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/24499258-slade-house?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '7471'
+        link: https://www.goodreads.com/author/show/7471.D_B_C_Pierre
+        name: D.B.C. Pierre
+    average_rating: '3.81'
+    id: '18586491'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0099586231
+    isbn13: '9780099586234'
+    link: https://www.goodreads.com/book/show/18586491-breakfast-with-the-borgias
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '67284'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Breakfast with the Borgias
+    title_without_series: Breakfast with the Borgias
+    uri: kca://book/amzn1.gr.book.v1.g0gwajU_7HR2FKnfzk9b7Q
+    work:
+      id: '26325675'
+  - authors:
+      author:
+        id: '22039963'
+        link: https://www.goodreads.com/author/show/22039963._
+        name: "\u0412\u0456\u0442\u0430\u043B\u0456\u0439 \u0414\u0443\u043B\u0435\
+          \u043D\u043A\u043E"
+    average_rating: '3.81'
+    id: '214137372'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717310105l/214137372._SX98_.jpg
+    isbn: 617150792X
+    isbn13: '9786171507920'
+    link: https://www.goodreads.com/book/show/214137372
+    num_pages: '288'
+    publication_day: null
+    publication_month: '5'
+    publication_year: '2024'
+    ratings_count: '67284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717310105l/214137372._SY75_.jpg
+    title: "\u041C\u0430\u044F\u043A"
+    title_without_series: "\u041C\u0430\u044F\u043A"
+    uri: kca://book/amzn1.gr.book.v3.mAB3cglj2xrMuV5M
+    work:
+      id: '220402600'
+  - authors:
+      author:
+        id: '1918920'
+        link: https://www.goodreads.com/author/show/1918920.Samantha_Harvey
+        name: Samantha Harvey
+    average_rating: '3.81'
+    id: '123136728'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1682375874l/123136728._SX98_.jpg
+    isbn: 0802161545
+    isbn13: '9780802161543'
+    link: https://www.goodreads.com/book/show/123136728-orbital
+    num_pages: '207'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '67284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1682375874l/123136728._SY75_.jpg
+    title: Orbital
+    title_without_series: Orbital
+    uri: kca://book/amzn1.gr.book.v3.n9pJU1tfOcRyTjHT
+    work:
+      id: '120178902'
+  - authors:
+      author:
+        id: '8489'
+        link: https://www.goodreads.com/author/show/8489.Robert_Sheckley
+        name: Robert Sheckley
+    average_rating: '3.81'
+    id: '668644'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0586067116
+    isbn13: '9780586067116'
+    link: https://www.goodreads.com/book/show/668644.Options
+    num_pages: '155'
+    publication_day: null
+    publication_month: null
+    publication_year: '1977'
+    ratings_count: '67284'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Options
+    title_without_series: Options
+    uri: kca://book/amzn1.gr.book.v1.Uz6Trk8MJVtkyGqWcEriCQ
+    work:
+      id: '1081368'
+  - authors:
+      author:
+        id: '21807885'
+        link: https://www.goodreads.com/author/show/21807885._
+        name: "\u041A\u0430\u0442\u044F \u0411\u043B\u044C\u043E\u0441\u0442\u043A\
+          \u0430"
+    average_rating: '3.81'
+    id: '219527390'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734178743l/219527390._SX98_.jpg
+    isbn: '6178178735'
+    isbn13: '9786178178734'
+    link: https://www.goodreads.com/book/show/219527390
+    num_pages: '400'
+    publication_day: null
+    publication_month: null
+    publication_year: '2024'
+    ratings_count: '67284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734178743l/219527390._SX50_.jpg
+    title: "\u0422\u0430\u043A \u0442\u043E\u0431\u0456 \u0439 \u0442\u0440\u0435\u0431\
+      \u0430, \u0430\u0431\u043E \u0427\u043E\u043C\u0443 \u0432 \u0441\u0442\u043E\
+      \u0441\u0443\u043D\u043A\u0430\u0445 \u0432\u0430\u0440\u0442\u043E \u043E\u0431\
+      \u0438\u0440\u0430\u0442\u0438 \u0441\u0435\u0431\u0435"
+    title_without_series: "\u0422\u0430\u043A \u0442\u043E\u0431\u0456 \u0439 \u0442\
+      \u0440\u0435\u0431\u0430, \u0430\u0431\u043E \u0427\u043E\u043C\u0443 \u0432\
+      \ \u0441\u0442\u043E\u0441\u0443\u043D\u043A\u0430\u0445 \u0432\u0430\u0440\u0442\
+      \u043E \u043E\u0431\u0438\u0440\u0430\u0442\u0438 \u0441\u0435\u0431\u0435"
+    uri: kca://book/amzn1.gr.book.v3.bRIn3hW7K442U9pH
+    work:
+      id: '226462844'
+  - authors:
+      author:
+        id: '21260867'
+        link: https://www.goodreads.com/author/show/21260867.Robert_Popper
+        name: Robert Popper
+    average_rating: '3.81'
+    id: '213624038'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1399817892'
+    isbn13: '9781399817899'
+    link: https://www.goodreads.com/book/show/213624038-the-elsie-drake-letters
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '67284'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Elsie Drake Letters (aged 104)
+    title_without_series: The Elsie Drake Letters
+    uri: kca://book/amzn1.gr.book.v3.PNOLm1gzsASKtulI
+    work:
+      id: '219876085'
+  - authors:
+      author:
+        id: '48908569'
+        link: https://www.goodreads.com/author/show/48908569._
+        name: "\u0420\u043E\u043C\u0430\u043D \u0413\u043E\u043B\u0443\u0431\u043E\
+          \u0432\u0441\u044C\u043A\u0438\u0439"
+    average_rating: '3.81'
+    id: '210709971'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712145497l/210709971._SX98_.jpg
+    isbn: '6178362986'
+    isbn13: '9786178362980'
+    link: https://www.goodreads.com/book/show/210709971
+    num_pages: '208'
+    publication_day: null
+    publication_month: '5'
+    publication_year: '2024'
+    ratings_count: '67284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712145497l/210709971._SX50_.jpg
+    title: "\u0417 \u043D\u0430\u043C\u0438 \u0436\u0438\u0442\u0438\u043C\u0435 \u0435\
+      \u043B\u0430\u0441\u043C\u043E\u0442\u0435\u0440\u0456\u0439. \u041E\u043F\u043E\
+      \u0432\u0456\u0434\u0430\u043D\u043D\u044F"
+    title_without_series: "\u0417 \u043D\u0430\u043C\u0438 \u0436\u0438\u0442\u0438\
+      \u043C\u0435 \u0435\u043B\u0430\u0441\u043C\u043E\u0442\u0435\u0440\u0456\u0439\
+      . \u041E\u043F\u043E\u0432\u0456\u0434\u0430\u043D\u043D\u044F"
+    uri: kca://book/amzn1.gr.book.v3.Y-65N8Wio7srdY6s
+    work:
+      id: '216930874'
+  - authors:
+      author:
+        id: '14021574'
+        link: https://www.goodreads.com/author/show/14021574._
+        name: "\u041D\u0430\u0442\u0430\u043B\u0435\u043D\u0430 \u041A\u043E\u0440\
+          \u043E\u043B\u0435\u0432\u0430"
+    average_rating: '3.81'
+    id: '218127901'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724753484l/218127901._SX98_.jpg
+    isbn: 617170489X
+    isbn13: '9786171704893'
+    link: https://www.goodreads.com/book/show/218127901
+    num_pages: '368'
+    publication_day: '4'
+    publication_month: '11'
+    publication_year: '2024'
+    ratings_count: '67284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724753484l/218127901._SY75_.jpg
+    title: "\u0428\u043E\u0432\u043A\u043E\u0432\u0430 \u043F\u0430\u043D\u0456"
+    title_without_series: "\u0428\u043E\u0432\u043A\u043E\u0432\u0430 \u043F\u0430\
+      \u043D\u0456"
+    uri: kca://book/amzn1.gr.book.v3.fhaSfjoZHStUgYLd
+    work:
+      id: '224672734'
+  - authors:
+      author:
+        id: '18358171'
+        link: https://www.goodreads.com/author/show/18358171._
+        name: "\u041D\u0430\u0442\u0430\u043B\u0456\u044F \u0414\u043E\u0432\u0433\
+          \u043E\u043F\u043E\u043B"
+    average_rating: '3.81'
+    id: '195683636'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691137403l/195683636._SX98_.jpg
+    isbn: '6178023405'
+    isbn13: '9786178023409'
+    link: https://www.goodreads.com/book/show/195683636
+    num_pages: '324'
+    publication_day: null
+    publication_month: '9'
+    publication_year: '2023'
+    ratings_count: '67284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691137403l/195683636._SX50_.jpg
+    title: "\u0412\u0438\u0442\u044F\u0437\u044C \u0456 \u0412\u0456\u0440\u043B\u0438\
+      \u0446\u044F"
+    title_without_series: "\u0412\u0438\u0442\u044F\u0437\u044C \u0456 \u0412\u0456\
+      \u0440\u043B\u0438\u0446\u044F"
+    uri: kca://book/amzn1.gr.book.v3.0H70QmfK7tEPRE3R
+    work:
+      id: '197525179'
+  - authors:
+      author:
+        id: '843712'
+        link: https://www.goodreads.com/author/show/843712.Evie_Wyld
+        name: Evie Wyld
+    average_rating: '3.81'
+    id: '18142324'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374000570l/18142324._SX98_.jpg
+    isbn: 0307907767
+    isbn13: '9780307907769'
+    link: https://www.goodreads.com/book/show/18142324-all-the-birds-singing
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '67284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374000570l/18142324._SY75_.jpg
+    title: All the Birds, Singing
+    title_without_series: All the Birds, Singing
+    uri: kca://book/amzn1.gr.book.v1.cPJYoMuW4EFar2mDQDQpUQ
+    work:
+      id: '23901637'
+  - authors:
+      author:
+        id: '15140755'
+        link: https://www.goodreads.com/author/show/15140755._
+        name: "\u042F\u0440\u0438\u043D\u0430 \u041A\u0430\u0442\u043E\u0440\u043E\
+          \u0436"
+    average_rating: '3.81'
+    id: '29748756'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459434016l/29748756._SX98_.jpg
+    isbn: '6175172175'
+    isbn13: '9786175172179'
+    link: https://www.goodreads.com/book/show/29748756
+    num_pages: '328'
+    publication_day: null
+    publication_month: null
+    publication_year: '2015'
+    ratings_count: '67284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459434016l/29748756._SX50_.jpg
+    title: "\u0410\u043B\u0445\u0456\u043C\u0456\u044F \u0441\u0432\u043E\u0431\u043E\
+      \u0434\u0438"
+    title_without_series: "\u0410\u043B\u0445\u0456\u043C\u0456\u044F \u0441\u0432\
+      \u043E\u0431\u043E\u0434\u0438"
+    uri: kca://book/amzn1.gr.book.v1.lXZOvbY3zH32oTcaXGyY0g
+    work:
+      id: '50104913'
+  - authors:
+      author:
+        id: '38266'
+        link: https://www.goodreads.com/author/show/38266.Selma_Lagerl_f
+        name: "Selma Lagerl\xF6f"
+    average_rating: '3.81'
+    id: '202966231'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701343424l/202966231._SX98_.jpg
+    isbn: '9664481378'
+    isbn13: '9789664481370'
+    link: https://www.goodreads.com/book/show/202966231
+    num_pages: '232'
+    publication_day: '8'
+    publication_month: '12'
+    publication_year: '2023'
+    ratings_count: '67284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701343424l/202966231._SX50_.jpg
+    title: "\u041C\u043E\u0440\u0431\u0430\u043A\u043A\u0430"
+    title_without_series: "\u041C\u043E\u0440\u0431\u0430\u043A\u043A\u0430"
+    uri: kca://book/amzn1.gr.book.v3.HwFN7j40xTeIoM4G
+    work:
+      id: '1042711'
+  - authors:
+      author:
+        id: '5763589'
+        link: https://www.goodreads.com/author/show/5763589._
+        name: "\u0413\u0430\u043B\u0438\u043D\u0430 \u041F\u0430\u0433\u0443\u0442\
+          \u044F\u043A"
+    average_rating: '3.81'
+    id: '16075579'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410469239l/16075579._SX98_.jpg
+    isbn: '9664411590'
+    isbn13: '9789664411599'
+    link: https://www.goodreads.com/book/show/16075579
+    num_pages: '200'
+    publication_day: null
+    publication_month: null
+    publication_year: '2012'
+    ratings_count: '67284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410469239l/16075579._SY75_.jpg
+    title: "\u0421\u043B\u0443\u0433\u0430 \u0437 \u0414\u043E\u0431\u0440\u043E\u043C\
+      \u0438\u043B\u044F"
+    title_without_series: "\u0421\u043B\u0443\u0433\u0430 \u0437 \u0414\u043E\u0431\
+      \u0440\u043E\u043C\u0438\u043B\u044F"
+    uri: kca://book/amzn1.gr.book.v1.bg71PdCO9kmUPXrPjVjnxA
+    work:
+      id: '21870856'
+  - authors:
+      author:
+        id: '51841135'
+        link: https://www.goodreads.com/author/show/51841135.Myroslav_Kapii
+        name: Myroslav Kapii
+    average_rating: '3.81'
+    id: '56792263'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611410838l/56792263._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/56792263
+    num_pages: '160'
+    publication_day: null
+    publication_month: null
+    publication_year: '2006'
+    ratings_count: '67284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611410838l/56792263._SX50_.jpg
+    title: "\u041A\u0440\u0430\u0457\u043D\u0430 \u0431\u043B\u0430\u043A\u0438\u0442\
+      \u043D\u0438\u0445 \u043E\u0440\u0445\u0456\u0434\u0435\u0439"
+    title_without_series: "\u041A\u0440\u0430\u0457\u043D\u0430 \u0431\u043B\u0430\
+      \u043A\u0438\u0442\u043D\u0438\u0445 \u043E\u0440\u0445\u0456\u0434\u0435\u0439"
+    uri: kca://book/amzn1.gr.book.v3.tY1OmeV99OnZ1-j7
+    work:
+      id: '88777786'
+  - authors:
+      author:
+        id: '14159666'
+        link: https://www.goodreads.com/author/show/14159666.Lyubko_Deresh
+        name: Lyubko Deresh
+    average_rating: '3.81'
+    id: '217224397'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722944570l/217224397._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/217224397
+    num_pages: '196'
+    publication_day: null
+    publication_month: '9'
+    publication_year: '2024'
+    ratings_count: '67284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722944570l/217224397._SY75_.jpg
+    title: "\u041F\u043E\u0433\u043B\u044F\u0434 \u041C\u0435\u0434\u0443\u0437\u0438\
+      . \u041C\u0430\u043B\u0435\u043D\u044C\u043A\u0430 \u043A\u043D\u0438\u0433\u0430\
+      \ \u043F\u0456\u0442\u044C\u043C\u0438"
+    title_without_series: "\u041F\u043E\u0433\u043B\u044F\u0434 \u041C\u0435\u0434\
+      \u0443\u0437\u0438. \u041C\u0430\u043B\u0435\u043D\u044C\u043A\u0430 \u043A\u043D\
+      \u0438\u0433\u0430 \u043F\u0456\u0442\u044C\u043C\u0438"
+    uri: kca://book/amzn1.gr.book.v3.8DPj8zonYdDFk_3e
+    work:
+      id: '223716552'
+  - authors:
+      author:
+        id: '44790028'
+        link: https://www.goodreads.com/author/show/44790028._
+        name: "\u042E\u043B\u0456\u044F \u041D\u0430\u0433\u043E\u0440\u043D\u044E\
+          \u043A"
+    average_rating: '3.81'
+    id: '213435937'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724066668l/213435937._SX98_.jpg
+    isbn: '6175222210'
+    isbn13: '9786175222218'
+    link: https://www.goodreads.com/book/show/213435937
+    num_pages: '416'
+    publication_day: '1'
+    publication_month: '7'
+    publication_year: '2024'
+    ratings_count: '67284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724066668l/213435937._SX50_.jpg
+    title: "\u0414\u0456\u0432\u0430, \u043C\u0430\u0442\u0456\u0440 \u0456 \u0442\
+      \u0440\u0435\u0442\u044F"
+    title_without_series: "\u0414\u0456\u0432\u0430, \u043C\u0430\u0442\u0456\u0440\
+      \ \u0456 \u0442\u0440\u0435\u0442\u044F"
+    uri: kca://book/amzn1.gr.book.v3.T4r-Xc-4cTy9dk1S
+    work:
+      id: '219678169'
+  - authors:
+      author:
+        id: '9805044'
+        link: https://www.goodreads.com/author/show/9805044.Serhiy_Zhadan
+        name: Serhiy Zhadan
+    average_rating: '3.81'
+    id: '218186682'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724869306l/218186682._SY160_.jpg
+    isbn: '6178138334'
+    isbn13: '9786178138332'
+    link: https://www.goodreads.com/book/show/218186682
+    num_pages: '136'
+    publication_day: null
+    publication_month: '8'
+    publication_year: '2024'
+    ratings_count: '67284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724869306l/218186682._SY75_.jpg
+    title: "\u0410\u0440\u0430\u0431\u0435\u0441\u043A\u0438"
+    title_without_series: "\u0410\u0440\u0430\u0431\u0435\u0441\u043A\u0438"
+    uri: kca://book/amzn1.gr.book.v3.6DNwP47ywOki9Vi0
+    work:
+      id: '224735680'
+  - authors:
+      author:
+        id: '20975983'
+        link: https://www.goodreads.com/author/show/20975983.Guy_Morpuss
+        name: Guy Morpuss
+    average_rating: '3.81'
+    id: '56301205'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614158946l/56301205._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/56301205-five-minds
+    num_pages: '320'
+    publication_day: '2'
+    publication_month: '9'
+    publication_year: '2021'
+    ratings_count: '67284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614158946l/56301205._SY75_.jpg
+    title: Five Minds
+    title_without_series: Five Minds
+    uri: kca://book/amzn1.gr.book.v3.7FzLt-wFZd_ovDh4
+    work:
+      id: '87710078'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1626721882l/24499258._SX50_.jpg
+started_at: '2015-11-01T00:00:00-07:00'
+text_reviews_count:
+  '#text': '4452'
+  '@type': integer
+title: Slade House
+title_without_series: Slade House
+uri: kca://book/amzn1.gr.book.v1.3uB-Dnb2ywa_n5-lxSh32g
+url: https://www.goodreads.com/book/show/24499258-slade-house
+work:
+  id: '44094715'
+  uri: kca://work/amzn1.gr.work.v1.72mic8V0wa4tKOwG2yLztQ

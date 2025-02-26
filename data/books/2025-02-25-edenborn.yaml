@@ -1,0 +1,770 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.77'
+    id: '126810'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1272456410p5/126810.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/126810.Nick_Sagan
+    name: Nick Sagan
+    ratings_count: '5520'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1272456410p2/126810.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '483'
+average_rating: '3.74'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: 'It is 18 years after IDLEWILD and the survivors are now adults. A bitter
+  and disillusioned Halloween has chosen to exile himself but his peers seek to repopulate
+  the Earth and rebuild civilization. They are mankind''s last, best and perhaps only
+  hope. However an ideological split has divided them into two very different societies:
+  one looks to resurrect the human race, the other to improve humanity via genetic
+  manipulation. So a new generation of children is born, but as they mature it becomes
+  clear that all is not well. Someone - or something - is moving against them, even
+  as Black Ep, the plague that claimed billions of lives, returns in search of new
+  victims. The survivors must work together, but to save the future Halloween must
+  first let go of the past...<br /><br /><br />Thrilling, post-apocalyptic yet written
+  with an arcing sense of wonder, EDENBORN is the next visionary chapter in the Idlewild
+  story by one of speculative fiction''s most exciting new voices.'
+edition_information: null
+format: null
+id: '1637251'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: '0451462130'
+isbn13: '9780451462138'
+json: '{"id": "1637251", "isbn": "0451462130", "isbn13": "9780451462138", "text_reviews_count":
+  {"@type": "integer", "#text": "15"}, "uri": "kca://book/amzn1.gr.book.v1.qAt0NygB925609u9HNsudw",
+  "title": "Edenborn", "title_without_series": "Edenborn", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/1637251.Edenborn",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.74", "ratings_count": "1457", "description": "It is 18 years after IDLEWILD and
+  the survivors are now adults. A bitter and disillusioned Halloween has chosen to
+  exile himself but his peers seek to repopulate the Earth and rebuild civilization.
+  They are mankind''s last, best and perhaps only hope. However an ideological split
+  has divided them into two very different societies: one looks to resurrect the human
+  race, the other to improve humanity via genetic manipulation. So a new generation
+  of children is born, but as they mature it becomes clear that all is not well. Someone
+  - or something - is moving against them, even as Black Ep, the plague that claimed
+  billions of lives, returns in search of new victims. The survivors must work together,
+  but to save the future Halloween must first let go of the past...<br /><br /><br
+  />Thrilling, post-apocalyptic yet written with an arcing sense of wonder, EDENBORN
+  is the next visionary chapter in the Idlewild story by one of speculative fiction''s
+  most exciting new voices.", "authors": {"author": {"id": "126810", "name": "Nick
+  Sagan", "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1272456410p5/126810.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1272456410p2/126810.jpg"},
+  "link": "https://www.goodreads.com/author/show/126810.Nick_Sagan", "average_rating":
+  "3.77", "ratings_count": "5520", "text_reviews_count": "483"}}, "published": null,
+  "work": {"id": "1904783", "uri": "kca://work/amzn1.gr.work.v1.HXlf_19-mtgWF5JxgxTOGA"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/42404757",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B0017QNL66
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/1637251.Edenborn
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '669'
+    '@name': to-read
+  - '@count': '70'
+    '@name': science-fiction
+  - '@count': '58'
+    '@name': sci-fi
+  - '@count': '44'
+    '@name': fiction
+  - '@count': '25'
+    '@name': owned
+  - '@count': '15'
+    '@name': currently-reading
+  - '@count': '13'
+    '@name': favorites
+  - '@count': '12'
+    '@name': series
+  - '@count': '12'
+    '@name': post-apocalyptic
+  - '@count': '10'
+    '@name': books-i-own
+  - '@count': '8'
+    '@name': fantasy
+  - '@count': '7'
+    '@name': sf
+  - '@count': '7'
+    '@name': scifi
+  - '@count': '6'
+    '@name': default
+  - '@count': '6'
+    '@name': apocalyptic
+  - '@count': '6'
+    '@name': dystopia
+  - '@count': '5'
+    '@name': speculative-fiction
+  - '@count': '4'
+    '@name': audiobooks
+  - '@count': '4'
+    '@name': audiobook
+  - '@count': '4'
+    '@name': fantasy-sci-fi
+  - '@count': '4'
+    '@name': young-adult
+  - '@count': '4'
+    '@name': post-apocalypse
+  - '@count': '4'
+    '@name': to-buy
+  - '@count': '4'
+    '@name': ya
+  - '@count': '4'
+    '@name': dystopian
+  - '@count': '4'
+    '@name': scifi-fantasy
+  - '@count': '3'
+    '@name': bookshelf
+  - '@count': '3'
+    '@name': sf-f
+  - '@count': '3'
+    '@name': novels
+  - '@count': '3'
+    '@name': kindle
+  - '@count': '2'
+    '@name': white-bookscase-top
+  - '@count': '2'
+    '@name': own-to-read
+  - '@count': '2'
+    '@name': sci-fi-and-fantasy
+  - '@count': '2'
+    '@name': spec-fic
+  - '@count': '2'
+    '@name': distopia
+  - '@count': '2'
+    '@name': 1-owned
+  - '@count': '2'
+    '@name': sff
+  - '@count': '2'
+    '@name': dnf
+  - '@count': '2'
+    '@name': sold
+  - '@count': '2'
+    '@name': cyberpunk
+  - '@count': '2'
+    '@name': eb
+  - '@count': '2'
+    '@name': ya-dystopian
+  - '@count': '2'
+    '@name': audible
+  - '@count': '2'
+    '@name': books
+  - '@count': '2'
+    '@name': owned-books
+  - '@count': '2'
+    '@name': dystopian-future
+  - '@count': '2'
+    '@name': novel
+  - '@count': '2'
+    '@name': library
+  - '@count': '2'
+    '@name': gave-up
+  - '@count': '2'
+    '@name': tech
+  - '@count': '2'
+    '@name': high
+  - '@count': '2'
+    '@name': dystopic
+  - '@count': '2'
+    '@name': science-fiction-fantasy
+  - '@count': '2'
+    '@name': apocalypse
+  - '@count': '2'
+    '@name': science
+  - '@count': '2'
+    '@name': sci-fi-fantasy
+  - '@count': '2'
+    '@name': already-read
+  - '@count': '1'
+    '@name': own-barra
+  - '@count': '1'
+    '@name': 25-own
+  - '@count': '1'
+    '@name': 3-p-4a-s-b-geek-optimize-geekiness
+  - '@count': '1'
+    '@name': do-not-own
+  - '@count': '1'
+    '@name': read-in-2023
+  - '@count': '1'
+    '@name': top-shelf
+  - '@count': '1'
+    '@name': s-books
+  - '@count': '1'
+    '@name': physical
+  - '@count': '1'
+    '@name': poc-primary
+  - '@count': '1'
+    '@name': adult-fic
+  - '@count': '1'
+    '@name': fantasy-science-fiction
+  - '@count': '1'
+    '@name': awful-people-being-awful
+  - '@count': '1'
+    '@name': chris-s-fiction
+  - '@count': '1'
+    '@name': inline
+  - '@count': '1'
+    '@name': cba
+  - '@count': '1'
+    '@name': basement
+  - '@count': '1'
+    '@name': kept-me-up-too-late
+  - '@count': '1'
+    '@name': print-collection
+  - '@count': '1'
+    '@name': get-at-library
+  - '@count': '1'
+    '@name': booksreadin2008
+  - '@count': '1'
+    '@name': enjoyed
+  - '@count': '1'
+    '@name': inmycollection-fiction
+  - '@count': '1'
+    '@name': fiction-science-fiction
+  - '@count': '1'
+    '@name': inmycollection
+  - '@count': '1'
+    '@name': read-in-2007
+  - '@count': '1'
+    '@name': caja-pl-2
+  - '@count': '1'
+    '@name': private-collection
+  - '@count': '1'
+    '@name': not-interested
+  - '@count': '1'
+    '@name': '6'
+  - '@count': '1'
+    '@name': cifi-fant-miedo
+  - '@count': '1'
+    '@name': greats
+  - '@count': '1'
+    '@name': y-own-read
+  - '@count': '1'
+    '@name': 2up-rest-of-series-old
+  - '@count': '1'
+    '@name': caro-library
+  - '@count': '1'
+    '@name': guilty-pleasure-pure-fun
+  - '@count': '1'
+    '@name': apocalyptic-dystopia
+  - '@count': '1'
+    '@name': format-ebook-fiction
+  - '@count': '1'
+    '@name': no-thanks
+  - '@count': '1'
+    '@name': z-four-star
+  - '@count': '1'
+    '@name': appeal-intellect
+  - '@count': '1'
+    '@name': 2016fall
+  - '@count': '1'
+    '@name': level-young-adult
+  - '@count': '1'
+    '@name': want-in-the-future
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '1457'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/42404757
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/1637251.Edenborn\"\
+  >Edenborn Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0451462130&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/1637251.Edenborn?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '159635'
+    series:
+      description: null
+      id: '41583'
+      note: null
+      numbered: 'true'
+      primary_work_count: '3'
+      series_works_count: '3'
+      title: Idlewild
+    user_position: '2'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '5329'
+        link: https://www.goodreads.com/author/show/5329.Brian_Jacques
+        name: Brian Jacques
+    average_rating: '3.74'
+    id: '201342'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0441006108
+    isbn13: '9780441006106'
+    link: https://www.goodreads.com/book/show/201342.Mattimeo
+    num_pages: null
+    publication_day: '1'
+    publication_month: '2'
+    publication_year: '1999'
+    ratings_count: '1457'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Mattimeo (Redwall, #3)'
+    title_without_series: Mattimeo
+    uri: kca://book/amzn1.gr.book.v1.LANO0C9y8VxjdPZwdtNETg
+    work:
+      id: '1178215'
+  - authors:
+      author:
+        id: '20611100'
+        link: https://www.goodreads.com/author/show/20611100.Kanehito_Yamada
+        name: Kanehito Yamada
+    average_rating: '3.74'
+    id: '62796306'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676919902l/62796306._SX98_.jpg
+    isbn: 409851771X
+    isbn13: '9784098517718'
+    link: https://www.goodreads.com/book/show/62796306-10-s-s-no-frieren-10
+    num_pages: '200'
+    publication_day: '16'
+    publication_month: '3'
+    publication_year: '2023'
+    ratings_count: '1457'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676919902l/62796306._SY75_.jpg
+    title: "\u846C\u9001\u306E\u30D5\u30EA\u30FC\u30EC\u30F3 10 [S\u014Ds\u014D no\
+      \ Frieren 10]"
+    title_without_series: "\u846C\u9001\u306E\u30D5\u30EA\u30FC\u30EC\u30F3 10 [S\u014D\
+      s\u014D no Frieren 10]"
+    uri: kca://book/amzn1.gr.book.v3.hUCYAMmE0jmQqYnL
+    work:
+      id: '98555158'
+  - authors:
+      author:
+        id: '20611100'
+        link: https://www.goodreads.com/author/show/20611100.Kanehito_Yamada
+        name: Kanehito Yamada
+    average_rating: '3.74'
+    id: '61211108'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660926227l/61211108._SX98_.jpg
+    isbn: '4098512602'
+    isbn13: '9784098512607'
+    link: https://www.goodreads.com/book/show/61211108-9-s-s-no-frieren-9
+    num_pages: '192'
+    publication_day: '15'
+    publication_month: '9'
+    publication_year: '2022'
+    ratings_count: '1457'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660926227l/61211108._SY75_.jpg
+    title: "\u846C\u9001\u306E\u30D5\u30EA\u30FC\u30EC\u30F3 9 [S\u014Ds\u014D no\
+      \ Frieren 9]"
+    title_without_series: "\u846C\u9001\u306E\u30D5\u30EA\u30FC\u30EC\u30F3 9 [S\u014D\
+      s\u014D no Frieren 9]"
+    uri: kca://book/amzn1.gr.book.v3.tYUO9zVolJS8BYo3
+    work:
+      id: '96500530'
+  - authors:
+      author:
+        id: '20611100'
+        link: https://www.goodreads.com/author/show/20611100.Kanehito_Yamada
+        name: Kanehito Yamada
+    average_rating: '3.74'
+    id: '125426314'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693257091l/125426314._SX98_.jpg
+    isbn: '4098527693'
+    isbn13: '9784098527694'
+    link: https://www.goodreads.com/book/show/125426314-11-s-s-no-frieren-11
+    num_pages: '192'
+    publication_day: '15'
+    publication_month: '9'
+    publication_year: '2023'
+    ratings_count: '1457'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693257091l/125426314._SY75_.jpg
+    title: "\u846C\u9001\u306E\u30D5\u30EA\u30FC\u30EC\u30F3 11 [S\u014Ds\u014D no\
+      \ Frieren 11]"
+    title_without_series: "\u846C\u9001\u306E\u30D5\u30EA\u30FC\u30EC\u30F3 11 [S\u014D\
+      s\u014D no Frieren 11]"
+    uri: kca://book/amzn1.gr.book.v3.g6J1qQnZLmj0ApIS
+    work:
+      id: '146876021'
+  - authors:
+      author:
+        id: '2764419'
+        link: https://www.goodreads.com/author/show/2764419.Christian_Ward
+        name: Christian Ward
+    average_rating: '3.74'
+    id: '203059415'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/203059415-batman
+    num_pages: '176'
+    publication_day: null
+    publication_month: '9'
+    publication_year: '2024'
+    ratings_count: '1457'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Batman: City of Madness (2023-)'
+    title_without_series: 'Batman: City of Madness'
+    uri: kca://book/amzn1.gr.book.v3.Kl75GnQnCfzMHfZx
+    work:
+      id: '208632058'
+  - authors:
+      author:
+        id: '580315'
+        link: https://www.goodreads.com/author/show/580315.Jennifer_Estep
+        name: Jennifer Estep
+    average_rating: '3.74'
+    id: '36137560'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524701799l/36137560._SX98_.jpg
+    isbn: 006279762X
+    isbn13: '9780062797629'
+    link: https://www.goodreads.com/book/show/36137560-kill-the-queen
+    num_pages: '480'
+    publication_day: '2'
+    publication_month: '10'
+    publication_year: '2018'
+    ratings_count: '1457'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524701799l/36137560._SY75_.jpg
+    title: 'Kill the Queen (Crown of Shards, #1)'
+    title_without_series: Kill the Queen
+    uri: kca://book/amzn1.gr.book.v1.T3MDOBk1hz2MAhwT9N9xpw
+    work:
+      id: '57738393'
+  - authors:
+      author:
+        id: '19734894'
+        link: https://www.goodreads.com/author/show/19734894.Jennifer_Saint
+        name: Jennifer Saint
+    average_rating: '3.74'
+    id: '195790663'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697152523l/195790663._SX98_.jpg
+    isbn: '1250855608'
+    isbn13: '9781250855602'
+    link: https://www.goodreads.com/book/show/195790663-hera
+    num_pages: '389'
+    publication_day: '13'
+    publication_month: '8'
+    publication_year: '2024'
+    ratings_count: '1457'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697152523l/195790663._SY75_.jpg
+    title: Hera
+    title_without_series: Hera
+    uri: kca://book/amzn1.gr.book.v3.TDeGEo7gVxF24su5
+    work:
+      id: '96204742'
+  - authors:
+      author:
+        id: '580315'
+        link: https://www.goodreads.com/author/show/580315.Jennifer_Estep
+        name: Jennifer Estep
+    average_rating: '3.74'
+    id: '40042024'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545956718l/40042024._SX98_.jpg
+    isbn: 0062797654
+    isbn13: '9780062797650'
+    link: https://www.goodreads.com/book/show/40042024-protect-the-prince
+    num_pages: '448'
+    publication_day: '2'
+    publication_month: '7'
+    publication_year: '2019'
+    ratings_count: '1457'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545956718l/40042024._SY75_.jpg
+    title: 'Protect the Prince (Crown of Shards, #2)'
+    title_without_series: Protect the Prince
+    uri: kca://book/amzn1.gr.book.v1.ApmB14KFja7CqwYKeAz9qA
+    work:
+      id: '62042106'
+  - authors:
+      author:
+        id: '17729'
+        link: https://www.goodreads.com/author/show/17729.Graham_McNeill
+        name: Graham McNeill
+    average_rating: '3.74'
+    id: '6465063'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1280757140l/6465063._SX98_.jpg
+    isbn: '1844168085'
+    isbn13: '9781844168088'
+    link: https://www.goodreads.com/book/show/6465063-a-thousand-sons
+    num_pages: '558'
+    publication_day: null
+    publication_month: '3'
+    publication_year: '2010'
+    ratings_count: '1457'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1280757140l/6465063._SY75_.jpg
+    title: 'A Thousand Sons (The Horus Heresy, #12)'
+    title_without_series: A Thousand Sons
+    uri: kca://book/amzn1.gr.book.v1.3PddM_ZNpBEjky7NJrmplQ
+    work:
+      id: '6655533'
+  - authors:
+      author:
+        id: '38550'
+        link: https://www.goodreads.com/author/show/38550.Brandon_Sanderson
+        name: Brandon Sanderson
+    average_rating: '3.74'
+    id: '26114421'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443207060l/26114421._SX98_.jpg
+    isbn: 0765381400
+    isbn13: '9780765381408'
+    link: https://www.goodreads.com/book/show/26114421-the-dark-talent
+    num_pages: '281'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1457'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443207060l/26114421._SY75_.jpg
+    title: 'The Dark Talent (Alcatraz, #5)'
+    title_without_series: The Dark Talent
+    uri: kca://book/amzn1.gr.book.v1.QZk04IKgIKh8GWBmg-1RFw
+    work:
+      id: '26576862'
+  - authors:
+      author:
+        id: '32643'
+        link: https://www.goodreads.com/author/show/32643.James_Swallow
+        name: James Swallow
+    average_rating: '3.74'
+    id: '7113690'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1280757258l/7113690._SX98_.jpg
+    isbn: '1844168689'
+    isbn13: '9781844168682'
+    link: https://www.goodreads.com/book/show/7113690-nemesis
+    num_pages: '507'
+    publication_day: null
+    publication_month: null
+    publication_year: '2010'
+    ratings_count: '1457'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1280757258l/7113690._SY75_.jpg
+    title: 'Nemesis (The Horus Heresy, #13)'
+    title_without_series: Nemesis
+    uri: kca://book/amzn1.gr.book.v1.okRIiQEoYjDKlMRXmNxR4g
+    work:
+      id: '7373535'
+  - authors:
+      author:
+        id: '18715817'
+        link: https://www.goodreads.com/author/show/18715817.Micaiah_Johnson
+        name: Micaiah Johnson
+    average_rating: '3.74'
+    id: '177186086'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691225473l/177186086._SX98_.jpg
+    isbn: 0593497503
+    isbn13: '9780593497500'
+    link: https://www.goodreads.com/book/show/177186086-those-beyond-the-wall
+    num_pages: '373'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1457'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691225473l/177186086._SY75_.jpg
+    title: 'Those Beyond the Wall (The Space Between Worlds, #2)'
+    title_without_series: Those Beyond the Wall
+    uri: kca://book/amzn1.gr.book.v3.4_iUlkYgu8iK5ZCB
+    work:
+      id: '91316591'
+  - authors:
+      author:
+        id: '172152'
+        link: https://www.goodreads.com/author/show/172152.Aaron_Dembski_Bowden
+        name: Aaron Dembski-Bowden
+    average_rating: '3.74'
+    id: '7922982'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1280760489l/7922982._SX98_.jpg
+    isbn: '1844168840'
+    isbn13: '9781844168842'
+    link: https://www.goodreads.com/book/show/7922982-the-first-heretic
+    num_pages: '503'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1457'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1280760489l/7922982._SY75_.jpg
+    title: 'The First Heretic (The Horus Heresy, #14)'
+    title_without_series: The First Heretic
+    uri: kca://book/amzn1.gr.book.v1.EzFFpnX5mtTW7GkEEprwuA
+    work:
+      id: '11228723'
+  - authors:
+      author:
+        id: '545'
+        link: https://www.goodreads.com/author/show/545.Neal_Stephenson
+        name: Neal Stephenson
+    average_rating: '3.74'
+    id: '61240297'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1656932283l/61240297._SX98_.jpg
+    isbn: 059359973X
+    isbn13: '9780593599730'
+    link: https://www.goodreads.com/book/show/61240297-snow-crash
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1457'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1656932283l/61240297._SY75_.jpg
+    title: Snow Crash
+    title_without_series: Snow Crash
+    uri: kca://book/amzn1.gr.book.v3.hgj087Bmokbxdumw
+    work:
+      id: '493634'
+  - authors:
+      author:
+        id: '19466165'
+        link: https://www.goodreads.com/author/show/19466165.Everina_Maxwell
+        name: Everina Maxwell
+    average_rating: '3.74'
+    id: '59808117'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1651252377l/59808117._SX98_.jpg
+    isbn: '1250758866'
+    isbn13: '9781250758866'
+    link: https://www.goodreads.com/book/show/59808117-ocean-s-echo
+    num_pages: '464'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1457'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1651252377l/59808117._SY75_.jpg
+    title: 'Ocean''s Echo (Winter''s Orbit, #2)'
+    title_without_series: Ocean's Echo
+    uri: kca://book/amzn1.gr.book.v3.zLHFKnRg5xwAYgw2
+    work:
+      id: '94199661'
+  - authors:
+      author:
+        id: '186652'
+        link: https://www.goodreads.com/author/show/186652.James_Sturm
+        name: James Sturm
+    average_rating: '3.74'
+    id: '60263191'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684802625l/60263191._SX98_.jpg
+    isbn: '1984857193'
+    isbn13: '9781984857194'
+    link: https://www.goodreads.com/book/show/60263191-watership-down
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1457'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684802625l/60263191._SX50_.jpg
+    title: 'Watership Down: The Graphic Novel'
+    title_without_series: 'Watership Down: The Graphic Novel'
+    uri: kca://book/amzn1.gr.book.v3.1nVJBpAWDBjAmo0u
+    work:
+      id: '95018531'
+  - authors:
+      author:
+        id: '442240'
+        link: https://www.goodreads.com/author/show/442240.Blake_Crouch
+        name: Blake Crouch
+    average_rating: '3.74'
+    id: '49676965'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1542043638'
+    isbn13: '9781542043632'
+    link: https://www.goodreads.com/book/show/49676965-summer-frost
+    num_pages: '85'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1457'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Summer Frost
+    title_without_series: Summer Frost
+    uri: kca://book/amzn1.gr.book.v3.ckv-PhTCyHRIjw6U
+    work:
+      id: '72182785'
+  - authors:
+      author:
+        id: '20611100'
+        link: https://www.goodreads.com/author/show/20611100.Kanehito_Yamada
+        name: Kanehito Yamada
+    average_rating: '3.74'
+    id: '57147096'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625673662l/57147096._SX98_.jpg
+    isbn: '1974725766'
+    isbn13: '9781974725762'
+    link: https://www.goodreads.com/book/show/57147096-frieren
+    num_pages: '188'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1457'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625673662l/57147096._SX50_.jpg
+    title: 'Frieren: Beyond Journey''s End, Vol. 1'
+    title_without_series: 'Frieren: Beyond Journey''s End, Vol. 1'
+    uri: kca://book/amzn1.gr.book.v3.GdAFEzo3dCiGeFCc
+    work:
+      id: '85841893'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '15'
+  '@type': integer
+title: Edenborn
+title_without_series: Edenborn
+uri: kca://book/amzn1.gr.book.v1.qAt0NygB925609u9HNsudw
+url: https://www.goodreads.com/book/show/1637251.Edenborn
+work:
+  id: '1904783'
+  uri: kca://work/amzn1.gr.work.v1.HXlf_19-mtgWF5JxgxTOGA

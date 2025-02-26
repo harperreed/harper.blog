@@ -1,0 +1,754 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.14'
+    id: '18993769'
+    image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+      '@nophoto': 'true'
+    link: https://www.goodreads.com/author/show/18993769.Mike_Isaac
+    name: Mike Isaac
+    ratings_count: '13592'
+    role: null
+    small_image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png
+      '@nophoto': 'true'
+    text_reviews_count: '1037'
+average_rating: '4.14'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2019-11-15T00:00:00-08:00'
+description: null
+edition_information: Reprint
+format: null
+id: '44599442'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553628582l/44599442._SX98_.jpg
+is_ebook: 'true'
+isbn: 0393652254
+isbn13: '9780393652253'
+json: '{"id": "44599442", "isbn": "0393652254", "isbn13": "9780393652253", "text_reviews_count":
+  {"@type": "integer", "#text": "151"}, "uri": "kca://book/amzn1.gr.book.v1.SG5PlpQ4pibAMBtldooZDw",
+  "title": "Super Pumped: The Battle for Uber", "title_without_series": "Super Pumped:
+  The Battle for Uber", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553628582l/44599442._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553628582l/44599442._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/44599442-super-pumped",
+  "num_pages": "410", "format": null, "edition_information": "Reprint", "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "4.14", "ratings_count": "13588", "description": null, "authors":
+  {"author": {"id": "18993769", "name": "Mike Isaac", "role": null, "image_url": {"@nophoto":
+  "true", "#text": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"},
+  "small_image_url": {"@nophoto": "true", "#text": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"},
+  "link": "https://www.goodreads.com/author/show/18993769.Mike_Isaac", "average_rating":
+  "4.14", "ratings_count": "13592", "text_reviews_count": "1037"}}, "published": null,
+  "work": {"id": "69182405", "uri": "kca://work/amzn1.gr.work.v1.bJ8ODPdPJDzWGJHCHdbk0Q"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/3038519345",
+  "read_at": "Fri Nov 15 00:00:00 -0800 2019", "started_at": "Tue Nov 05 00:00:00
+  -0800 2019", "date": "Fri Nov 15 00:00:00 -0800 2019"}'
+kindle_asin: B07PZ2B85Y
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/44599442-super-pumped
+marketplace_id: ATVPDKIKX0DER
+num_pages: '410'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '2335'
+    '@name': to-read
+  - '@count': '1933'
+    '@name': currently-reading
+  - '@count': '406'
+    '@name': business
+  - '@count': '288'
+    '@name': non-fiction
+  - '@count': '155'
+    '@name': nonfiction
+  - '@count': '93'
+    '@name': tech
+  - '@count': '72'
+    '@name': technology
+  - '@count': '41'
+    '@name': audiobook
+  - '@count': '41'
+    '@name': audible
+  - '@count': '38'
+    '@name': biography
+  - '@count': '36'
+    '@name': history
+  - '@count': '22'
+    '@name': favorites
+  - '@count': '22'
+    '@name': silicon-valley
+  - '@count': '21'
+    '@name': kindle
+  - '@count': '21'
+    '@name': economics
+  - '@count': '19'
+    '@name': startups
+  - '@count': '17'
+    '@name': audio
+  - '@count': '17'
+    '@name': to-buy
+  - '@count': '16'
+    '@name': library
+  - '@count': '16'
+    '@name': entrepreneurship
+  - '@count': '16'
+    '@name': audiobooks
+  - '@count': '14'
+    '@name': owned
+  - '@count': '14'
+    '@name': startup
+  - '@count': '14'
+    '@name': journalism
+  - '@count': '13'
+    '@name': read-in-2020
+  - '@count': '13'
+    '@name': finance
+  - '@count': '13'
+    '@name': ebook
+  - '@count': '13'
+    '@name': biographies
+  - '@count': '12'
+    '@name': 2019-books
+  - '@count': '12'
+    '@name': business-economics
+  - '@count': '11'
+    '@name': read-2020
+  - '@count': '11'
+    '@name': business-books
+  - '@count': '11'
+    '@name': leadership
+  - '@count': '10'
+    '@name': business-stories
+  - '@count': '8'
+    '@name': dnf
+  - '@count': '8'
+    '@name': management
+  - '@count': '7'
+    '@name': unfinished
+  - '@count': '7'
+    '@name': listened
+  - '@count': '7'
+    '@name': nonfic
+  - '@count': '7'
+    '@name': abandoned
+  - '@count': '7'
+    '@name': business-finance
+  - '@count': '7'
+    '@name': science
+  - '@count': '6'
+    '@name': 2020-read
+  - '@count': '6'
+    '@name': 2020-books
+  - '@count': '6'
+    '@name': english
+  - '@count': '6'
+    '@name': book-club
+  - '@count': '6'
+    '@name': work
+  - '@count': '6'
+    '@name': politics
+  - '@count': '6'
+    '@name': crime
+  - '@count': '6'
+    '@name': 2019-reads
+  - '@count': '6'
+    '@name': read-in-2019
+  - '@count': '6'
+    '@name': science-technology
+  - '@count': '6'
+    '@name': to-read-non-fiction
+  - '@count': '6'
+    '@name': current-events
+  - '@count': '6'
+    '@name': business-history
+  - '@count': '5'
+    '@name': workplace-and-organizational-behavi
+  - '@count': '5'
+    '@name': business-and-careers
+  - '@count': '5'
+    '@name': memoir
+  - '@count': '5'
+    '@name': 2020-reads
+  - '@count': '5'
+    '@name': on-hold
+  - '@count': '5'
+    '@name': did-not-finish
+  - '@count': '5'
+    '@name': tbr-nonfiction
+  - '@count': '5'
+    '@name': california
+  - '@count': '5'
+    '@name': biz
+  - '@count': '5'
+    '@name': owned-books
+  - '@count': '5'
+    '@name': professional
+  - '@count': '5'
+    '@name': read-2019
+  - '@count': '5'
+    '@name': bio
+  - '@count': '4'
+    '@name': my-library
+  - '@count': '4'
+    '@name': read-in-2022
+  - '@count': '4'
+    '@name': physical-tbr
+  - '@count': '4'
+    '@name': 2021-books
+  - '@count': '4'
+    '@name': vc
+  - '@count': '4'
+    '@name': companies
+  - '@count': '4'
+    '@name': business-entrepreneurship
+  - '@count': '4'
+    '@name': on-my-shelf
+  - '@count': '4'
+    '@name': start-up
+  - '@count': '4'
+    '@name': books-i-own
+  - '@count': '4'
+    '@name': mba
+  - '@count': '4'
+    '@name': investing
+  - '@count': '4'
+    '@name': not-owned
+  - '@count': '4'
+    '@name': tech-history
+  - '@count': '4'
+    '@name': next
+  - '@count': '4'
+    '@name': downloaded
+  - '@count': '4'
+    '@name': non-fiction-to-read
+  - '@count': '4'
+    '@name': audio-book
+  - '@count': '4'
+    '@name': recommendations
+  - '@count': '4'
+    '@name': not-interested
+  - '@count': '4'
+    '@name': san-francisco
+  - '@count': '4'
+    '@name': wish-list
+  - '@count': '4'
+    '@name': to-read-nonfiction
+  - '@count': '4'
+    '@name': contemporary
+  - '@count': '4'
+    '@name': books
+  - '@count': '3'
+    '@name': read-2022
+  - '@count': '3'
+    '@name': calibre
+  - '@count': '3'
+    '@name': 2022-reads
+  - '@count': '3'
+    '@name': wtr-non-fiction
+  - '@count': '3'
+    '@name': investigative
+  - '@count': '3'
+    '@name': read-in-2021
+  - '@count': '3'
+    '@name': 2021-to-read
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '13588'
+read_at: '2019-11-15T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/3038519345
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/44599442-super-pumped\"\
+  >Super Pumped Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0393652254&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/44599442-super-pumped?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '20820231'
+        link: https://www.goodreads.com/author/show/20820231.Reeves_Wiedeman
+        name: Reeves  Wiedeman
+    average_rating: '4.14'
+    id: '54502643'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595814305l/54502643._SX98_.jpg
+    isbn: 0316461369
+    isbn13: '9780316461368'
+    link: https://www.goodreads.com/book/show/54502643-billion-dollar-loser
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13588'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595814305l/54502643._SY75_.jpg
+    title: 'Billion Dollar Loser: The Epic Rise and Spectacular Fall of Adam Neumann
+      and WeWork'
+    title_without_series: 'Billion Dollar Loser: The Epic Rise and Spectacular Fall
+      of Adam Neumann and WeWork'
+    uri: kca://book/amzn1.gr.book.v3.maB4WGULPN3oWhnM
+    work:
+      id: '85067076'
+  - authors:
+      author:
+        id: '3164188'
+        link: https://www.goodreads.com/author/show/3164188.Nick_Bilton
+        name: Nick Bilton
+    average_rating: '4.14'
+    id: '18656827'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381332539l/18656827._SX98_.jpg
+    isbn: '1591846013'
+    isbn13: '9781591846017'
+    link: https://www.goodreads.com/book/show/18656827-hatching-twitter
+    num_pages: '299'
+    publication_day: '5'
+    publication_month: '11'
+    publication_year: '2013'
+    ratings_count: '13588'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381332539l/18656827._SX50_.jpg
+    title: 'Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal'
+    title_without_series: 'Hatching Twitter: A True Story of Money, Power, Friendship,
+      and Betrayal'
+    uri: kca://book/amzn1.gr.book.v1.h0bLinjJd2SWqnREivWXPw
+    work:
+      id: '25670400'
+  - authors:
+      author:
+        id: '20604629'
+        link: https://www.goodreads.com/author/show/20604629.Eliot_Brown
+        name: Eliot Brown
+    average_rating: '4.14'
+    id: '54998264'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620708897l/54998264._SX98_.jpg
+    isbn: 0593237110
+    isbn13: '9780593237113'
+    link: https://www.goodreads.com/book/show/54998264-the-cult-of-we
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13588'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620708897l/54998264._SY75_.jpg
+    title: 'The Cult of We: WeWork, Adam Neumann, and the Great Startup Delusion'
+    title_without_series: 'The Cult of We: WeWork, Adam Neumann, and the Great Startup
+      Delusion'
+    uri: kca://book/amzn1.gr.book.v3.9_ytFrLm8byx7Kjv
+    work:
+      id: '86248795'
+  - authors:
+      author:
+        id: '3012680'
+        link: https://www.goodreads.com/author/show/3012680.Leigh_Gallagher
+        name: Leigh Gallagher
+    average_rating: '4.14'
+    id: '32198220'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474820240l/32198220._SX98_.jpg
+    isbn: 0544952669
+    isbn13: '9780544952669'
+    link: https://www.goodreads.com/book/show/32198220-the-airbnb-story
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13588'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474820240l/32198220._SY75_.jpg
+    title: 'The Airbnb Story: How Three Ordinary Guys Disrupted an Industry, Made
+      Billions . . . and Created Plenty of Controversy'
+    title_without_series: 'The Airbnb Story: How Three Ordinary Guys Disrupted an
+      Industry, Made Billions . . . and Created Plenty of Controversy'
+    uri: kca://book/amzn1.gr.book.v1.PMlKT11UjGz8XkY8cjHiGA
+    work:
+      id: '52841427'
+  - authors:
+      author:
+        id: '19284946'
+        link: https://www.goodreads.com/author/show/19284946.Sarah_Frier
+        name: Sarah Frier
+    average_rating: '4.14'
+    id: '50772888'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1982126809'
+    isbn13: '9781982126803'
+    link: https://www.goodreads.com/book/show/50772888-no-filter
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13588'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'No Filter: The Inside Story of Instagram'
+    title_without_series: 'No Filter: The Inside Story of Instagram'
+    uri: kca://book/amzn1.gr.book.v3.laD2sLIECaaufIRn
+    work:
+      id: '71431858'
+  - authors:
+      author:
+        id: '20447573'
+        link: https://www.goodreads.com/author/show/20447573.Tom_Wright
+        name: Tom         Wright
+    average_rating: '4.14'
+    id: '38743564'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534271010l/38743564._SX98_.jpg
+    isbn: 031643650X
+    isbn13: '9780316436502'
+    link: https://www.goodreads.com/book/show/38743564-billion-dollar-whale
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13588'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534271010l/38743564._SY75_.jpg
+    title: 'Billion Dollar Whale: The Man Who Fooled Wall Street, Hollywood, and the
+      World'
+    title_without_series: 'Billion Dollar Whale: The Man Who Fooled Wall Street, Hollywood,
+      and the World'
+    uri: kca://book/amzn1.gr.book.v1.M_CZuriT3_p_iJf_HurxiQ
+    work:
+      id: '60319844'
+  - authors:
+      author:
+        id: '17575761'
+        link: https://www.goodreads.com/author/show/17575761.John_Carreyrou
+        name: John Carreyrou
+    average_rating: '4.14'
+    id: '37976541'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523311515l/37976541._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/37976541-bad-blood
+    num_pages: '339'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13588'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523311515l/37976541._SX50_.jpg
+    title: 'Bad Blood: Secrets and Lies in a Silicon Valley Startup'
+    title_without_series: 'Bad Blood: Secrets and Lies in a Silicon Valley Startup'
+    uri: kca://book/amzn1.gr.book.v1.E8hHn_Xf1KbF5SyEp2vB9Q
+    work:
+      id: '59699437'
+  - authors:
+      author:
+        id: '20540138'
+        link: https://www.goodreads.com/author/show/20540138.Sujeet_Indap
+        name: Sujeet Indap
+    average_rating: '4.14'
+    id: '54696215'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603743495l/54696215._SX98_.jpg
+    isbn: 163576677X
+    isbn13: '9781635766776'
+    link: https://www.goodreads.com/book/show/54696215-the-caesars-palace-coup
+    num_pages: '352'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13588'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603743495l/54696215._SX50_.jpg
+    title: 'The Caesars Palace Coup: How a Billionaire Brawl Over the Famous Casino
+      Exposed the Power and Greed of Wall Street'
+    title_without_series: 'The Caesars Palace Coup: How a Billionaire Brawl Over the
+      Famous Casino Exposed the Power and Greed of Wall Street'
+    uri: kca://book/amzn1.gr.book.v3.DKV4avngANBxcm2K
+    work:
+      id: '85334242'
+  - authors:
+      author:
+        id: '776'
+        link: https://www.goodreads.com/author/show/776.Michael_Lewis
+        name: Michael   Lewis
+    average_rating: '4.14'
+    id: '149105520'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684247487l/149105520._SX98_.jpg
+    isbn: '1324074337'
+    isbn13: '9781324074335'
+    link: https://www.goodreads.com/book/show/149105520-going-infinite
+    num_pages: '272'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13588'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684247487l/149105520._SY75_.jpg
+    title: 'Going Infinite: The Rise and Fall of a New Tycoon'
+    title_without_series: 'Going Infinite: The Rise and Fall of a New Tycoon'
+    uri: kca://book/amzn1.gr.book.v3.6fHildHRhYtltkJC
+    work:
+      id: '164040243'
+  - authors:
+      author:
+        id: '65798'
+        link: https://www.goodreads.com/author/show/65798.Bethany_McLean
+        name: Bethany McLean
+    average_rating: '4.14'
+    id: '113576'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309204701l/113576._SX98_.jpg
+    isbn: '1591840538'
+    isbn13: '9781591840534'
+    link: https://www.goodreads.com/book/show/113576.The_Smartest_Guys_in_the_Room
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13588'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309204701l/113576._SY75_.jpg
+    title: 'The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of
+      Enron'
+    title_without_series: 'The Smartest Guys in the Room: The Amazing Rise and Scandalous
+      Fall of Enron'
+    uri: kca://book/amzn1.gr.book.v1.jDlc1S5NxRtImeieMh7okg
+    work:
+      id: '1604'
+  - authors:
+      author:
+        id: '48864155'
+        link: https://www.goodreads.com/author/show/48864155.Kate_Conger
+        name: Kate Conger
+    average_rating: '4.14'
+    id: '209543060'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1709757863l/209543060._SX98_.jpg
+    isbn: 059365613X
+    isbn13: '9780593656136'
+    link: https://www.goodreads.com/book/show/209543060-character-limit
+    num_pages: '480'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13588'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1709757863l/209543060._SY75_.jpg
+    title: 'Character Limit: How Elon Musk Destroyed Twitter'
+    title_without_series: 'Character Limit: How Elon Musk Destroyed Twitter'
+    uri: kca://book/amzn1.gr.book.v3.nAycz7ZhELGTzEdr
+    work:
+      id: '215740212'
+  - authors:
+      author:
+        id: '6508046'
+        link: https://www.goodreads.com/author/show/6508046.Bradley_Hope
+        name: Bradley Hope
+    average_rating: '4.14'
+    id: '52038578'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598831558l/52038578._SX98_.jpg
+    isbn: 0306846667
+    isbn13: '9780306846663'
+    link: https://www.goodreads.com/book/show/52038578-blood-and-oil
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13588'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598831558l/52038578._SY75_.jpg
+    title: 'Blood and Oil: Mohammed bin Salman''s Ruthless Quest for Global Power'
+    title_without_series: 'Blood and Oil: Mohammed bin Salman''s Ruthless Quest for
+      Global Power'
+    uri: kca://book/amzn1.gr.book.v3.K7kZvgGPktN3Yu0I
+    work:
+      id: '76763462'
+  - authors:
+      author:
+        id: '5773552'
+        link: https://www.goodreads.com/author/show/5773552.Jimmy_Soni
+        name: Jimmy Soni
+    average_rating: '4.14'
+    id: '54304287'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643707855l/54304287._SX98_.jpg
+    isbn: '1501197266'
+    isbn13: '9781501197260'
+    link: https://www.goodreads.com/book/show/54304287-the-founders
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13588'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643707855l/54304287._SY75_.jpg
+    title: 'The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon
+      Valley'
+    title_without_series: 'The Founders: The Story of Paypal and the Entrepreneurs
+      Who Shaped Silicon Valley'
+    uri: kca://book/amzn1.gr.book.v3.mIOMx4E72d4dsxHv
+    work:
+      id: '84737525'
+  - authors:
+      author:
+        id: '3164188'
+        link: https://www.goodreads.com/author/show/3164188.Nick_Bilton
+        name: Nick Bilton
+    average_rating: '4.14'
+    id: '31920777'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578216397l/31920777._SX98_.jpg
+    isbn: '1591848148'
+    isbn13: '9781591848141'
+    link: https://www.goodreads.com/book/show/31920777-american-kingpin
+    num_pages: '328'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13588'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578216397l/31920777._SY75_.jpg
+    title: 'American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the
+      Silk Road'
+    title_without_series: 'American Kingpin: The Epic Hunt for the Criminal Mastermind
+      Behind the Silk Road'
+    uri: kca://book/amzn1.gr.book.v1.YKPn0V5gje6HN-Yv-rORag
+    work:
+      id: '52573415'
+  - authors:
+      author:
+        id: '15890821'
+        link: https://www.goodreads.com/author/show/15890821.Sheelah_Kolhatkar
+        name: Sheelah Kolhatkar
+    average_rating: '4.14'
+    id: '32284263'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484051685l/32284263._SX98_.jpg
+    isbn: 0812995805
+    isbn13: '9780812995800'
+    link: https://www.goodreads.com/book/show/32284263-black-edge
+    num_pages: '295'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13588'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484051685l/32284263._SY75_.jpg
+    title: 'Black Edge: Inside Information, Dirty Money, and the Quest to Bring Down
+      the Most Wanted Man on Wall Street'
+    title_without_series: 'Black Edge: Inside Information, Dirty Money, and the Quest
+      to Bring Down the Most Wanted Man on Wall Street'
+    uri: kca://book/amzn1.gr.book.v1.O_XkKdy7YtB4to06bt18ow
+    work:
+      id: '52911867'
+  - authors:
+      author:
+        id: '219908'
+        link: https://www.goodreads.com/author/show/219908.Brad_Stone
+        name: Brad Stone
+    average_rating: '4.14'
+    id: '17660462'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631792766l/17660462._SX98_.jpg
+    isbn: 0316219266
+    isbn13: '9780316219266'
+    link: https://www.goodreads.com/book/show/17660462-the-everything-store
+    num_pages: '384'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13588'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631792766l/17660462._SX50_.jpg
+    title: 'The Everything Store: Jeff Bezos and the Age of Amazon'
+    title_without_series: 'The Everything Store: Jeff Bezos and the Age of Amazon'
+    uri: kca://book/amzn1.gr.book.v1.IpJ0d4BmEysPnPn0J5AsYA
+    work:
+      id: '24650037'
+  - authors:
+      author:
+        id: '22001142'
+        link: https://www.goodreads.com/author/show/22001142.Zeke_Faux
+        name: Zeke Faux
+    average_rating: '4.14'
+    id: '123276708'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687140968l/123276708._SX98_.jpg
+    isbn: 0593443810
+    isbn13: '9780593443811'
+    link: https://www.goodreads.com/book/show/123276708-number-go-up
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13588'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687140968l/123276708._SY75_.jpg
+    title: 'Number Go Up: Inside Crypto''s Wild Rise and Staggering Fall'
+    title_without_series: 'Number Go Up: Inside Crypto''s Wild Rise and Staggering
+      Fall'
+    uri: kca://book/amzn1.gr.book.v3.L3cikZNJsKjTsNVg
+    work:
+      id: '145311112'
+  - authors:
+      author:
+        id: '47076911'
+        link: https://www.goodreads.com/author/show/47076911.Zo_Schiffer
+        name: "Zo\xEB Schiffer"
+    average_rating: '4.14'
+    id: '200795772'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703571285l/200795772._SX98_.jpg
+    isbn: 0593716604
+    isbn13: '9780593716601'
+    link: https://www.goodreads.com/book/show/200795772-extremely-hardcore
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13588'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703571285l/200795772._SY75_.jpg
+    title: 'Extremely Hardcore: Inside Elon Musk''s Twitter'
+    title_without_series: 'Extremely Hardcore: Inside Elon Musk''s Twitter'
+    uri: kca://book/amzn1.gr.book.v3.nVBPt1nMA_ID5kCn
+    work:
+      id: '205632817'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553628582l/44599442._SY75_.jpg
+started_at: '2019-11-05T00:00:00-08:00'
+text_reviews_count:
+  '#text': '151'
+  '@type': integer
+title: 'Super Pumped: The Battle for Uber'
+title_without_series: 'Super Pumped: The Battle for Uber'
+uri: kca://book/amzn1.gr.book.v1.SG5PlpQ4pibAMBtldooZDw
+url: https://www.goodreads.com/book/show/44599442-super-pumped
+work:
+  id: '69182405'
+  uri: kca://work/amzn1.gr.work.v1.bJ8ODPdPJDzWGJHCHdbk0Q

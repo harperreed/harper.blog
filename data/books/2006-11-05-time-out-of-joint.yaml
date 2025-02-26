@@ -1,0 +1,747 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.93'
+    id: '4764'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1633698608p5/4764.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/4764.Philip_K_Dick
+    name: Philip K. Dick
+    ratings_count: '1414390'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1633698608p2/4764.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '84233'
+average_rating: '3.86'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: Ragle Gumm is an ordinary man leading an ordinary life, except that he
+  makes his living by entering a newspaper contest every day - and winning, every
+  day.<br /><br />But he gradually begins to suspect that his life - indeed his whole
+  world - is an illusion, constructed around him for the express purpose of keeping
+  him docile and happy. But if that is the case, what is his real world like, and
+  what is he actually doing every day when he thinks he is guessing 'Where Will The
+  Little Green Man Be Next?'
+edition_information: Reprint
+format: null
+id: '698034'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320479470l/698034._SX98_.jpg
+is_ebook: 'false'
+isbn: 037571927X
+isbn13: '9780375719271'
+json: '{"id": "698034", "isbn": "037571927X", "isbn13": "9780375719271", "text_reviews_count":
+  {"@type": "integer", "#text": "570"}, "uri": "kca://book/amzn1.gr.book.v1.LJxJMrYcfJpZfvy4JkH_Gg",
+  "title": "Time Out of Joint", "title_without_series": "Time Out of Joint", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320479470l/698034._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320479470l/698034._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/698034.Time_Out_of_Joint",
+  "num_pages": "255", "format": null, "edition_information": "Reprint", "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "3.86", "ratings_count": "15731", "description": "Ragle Gumm is
+  an ordinary man leading an ordinary life, except that he makes his living by entering
+  a newspaper contest every day - and winning, every day.<br /><br />But he gradually
+  begins to suspect that his life - indeed his whole world - is an illusion, constructed
+  around him for the express purpose of keeping him docile and happy. But if that
+  is the case, what is his real world like, and what is he actually doing every day
+  when he thinks he is guessing ''Where Will The Little Green Man Be Next?''", "authors":
+  {"author": {"id": "4764", "name": "Philip K. Dick", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1633698608p5/4764.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1633698608p2/4764.jpg"},
+  "link": "https://www.goodreads.com/author/show/4764.Philip_K_Dick", "average_rating":
+  "3.93", "ratings_count": "1414390", "text_reviews_count": "84233"}}, "published":
+  null, "work": {"id": "87770", "uri": "kca://work/amzn1.gr.work.v1.2Pa05Rh5cTv-2CTtEMfHxw"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417624",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B006R8PLE4
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/698034.Time_Out_of_Joint
+marketplace_id: ATVPDKIKX0DER
+num_pages: '255'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '12434'
+    '@name': to-read
+  - '@count': '705'
+    '@name': science-fiction
+  - '@count': '542'
+    '@name': sci-fi
+  - '@count': '353'
+    '@name': currently-reading
+  - '@count': '298'
+    '@name': fiction
+  - '@count': '142'
+    '@name': owned
+  - '@count': '131'
+    '@name': philip-k-dick
+  - '@count': '106'
+    '@name': scifi
+  - '@count': '100'
+    '@name': sf
+  - '@count': '87'
+    '@name': sf-masterworks
+  - '@count': '80'
+    '@name': pkd
+  - '@count': '78'
+    '@name': favorites
+  - '@count': '52'
+    '@name': fantascienza
+  - '@count': '50'
+    '@name': dystopia
+  - '@count': '47'
+    '@name': novels
+  - '@count': '39'
+    '@name': sci-fi-fantasy
+  - '@count': '37'
+    '@name': dystopian
+  - '@count': '36'
+    '@name': default
+  - '@count': '36'
+    '@name': classics
+  - '@count': '35'
+    '@name': speculative-fiction
+  - '@count': '30'
+    '@name': kindle
+  - '@count': '30'
+    '@name': books-i-own
+  - '@count': '28'
+    '@name': american
+  - '@count': '27'
+    '@name': 20th-century
+  - '@count': '26'
+    '@name': time-travel
+  - '@count': '25'
+    '@name': "ciencia-ficci\xF3n"
+  - '@count': '25'
+    '@name': fantasy
+  - '@count': '25'
+    '@name': dick
+  - '@count': '24'
+    '@name': library
+  - '@count': '21'
+    '@name': my-library
+  - '@count': '20'
+    '@name': literature
+  - '@count': '20'
+    '@name': novel
+  - '@count': '19'
+    '@name': sff
+  - '@count': '18'
+    '@name': my-books
+  - '@count': '18'
+    '@name': ebook
+  - '@count': '18'
+    '@name': 1950s
+  - '@count': '16'
+    '@name': american-literature
+  - '@count': '16'
+    '@name': audiobook
+  - '@count': '16'
+    '@name': usa
+  - '@count': '16'
+    '@name': owned-books
+  - '@count': '16'
+    '@name': e-book
+  - '@count': '16'
+    '@name': science
+  - '@count': '15'
+    '@name': calibre
+  - '@count': '15'
+    '@name': fantasy-sci-fi
+  - '@count': '15'
+    '@name': to-buy
+  - '@count': '15'
+    '@name': scifi-fantasy
+  - '@count': '14'
+    '@name': ciencia-ficcion
+  - '@count': '14'
+    '@name': science-fiction-fantasy
+  - '@count': '13'
+    '@name': books
+  - '@count': '13'
+    '@name': narrativa
+  - '@count': '11'
+    '@name': "fic\xE7\xE3o-cient\xEDfica"
+  - '@count': '11'
+    '@name': audible
+  - '@count': '11'
+    '@name': favourites
+  - '@count': '10'
+    '@name': classic
+  - '@count': '10'
+    '@name': phillip-k-dick
+  - '@count': '10'
+    '@name': to-read-sci-fi
+  - '@count': '10'
+    '@name': ebooks
+  - '@count': '10'
+    '@name': p-k-dick
+  - '@count': '10'
+    '@name': sci-fi-and-fantasy
+  - '@count': '9'
+    '@name': mystery
+  - '@count': '9'
+    '@name': thriller
+  - '@count': '9'
+    '@name': english
+  - '@count': '9'
+    '@name': sf-fantasy
+  - '@count': '8'
+    '@name': tbr
+  - '@count': '8'
+    '@name': wish-list
+  - '@count': '8'
+    '@name': tenho
+  - '@count': '8'
+    '@name': sci-fi-to-read
+  - '@count': '8'
+    '@name': audiobooks
+  - '@count': '8'
+    '@name': unread
+  - '@count': '8'
+    '@name': dick-philip-k
+  - '@count': '7'
+    '@name': read-in-2021
+  - '@count': '7'
+    '@name': sci-fi-masterworks
+  - '@count': '7'
+    '@name': have
+  - '@count': '6'
+    '@name': audio_owned
+  - '@count': '6'
+    '@name': want-to-buy
+  - '@count': '6'
+    '@name': novela
+  - '@count': '6'
+    '@name': bilim-kurgu
+  - '@count': '6'
+    '@name': collection
+  - '@count': '6'
+    '@name': war
+  - '@count': '6'
+    '@name': americana
+  - '@count': '6'
+    '@name': '1959'
+  - '@count': '6'
+    '@name': e-books
+  - '@count': '6'
+    '@name': adult
+  - '@count': '6'
+    '@name': science-fiction-and-fantasy
+  - '@count': '6'
+    '@name': united-states
+  - '@count': '5'
+    '@name': owned-tbr
+  - '@count': '5'
+    '@name': audio
+  - '@count': '5'
+    '@name': favoritos
+  - '@count': '5'
+    '@name': physical
+  - '@count': '5'
+    '@name': need-to-get
+  - '@count': '5'
+    '@name': paranoia
+  - '@count': '5'
+    '@name': bilimkurgu
+  - '@count': '5'
+    '@name': science_fiction
+  - '@count': '5'
+    '@name': speculative
+  - '@count': '5'
+    '@name': america
+  - '@count': '5'
+    '@name': own-it
+  - '@count': '5'
+    '@name': psychology
+  - '@count': '5'
+    '@name': literary-fiction
+  - '@count': '5'
+    '@name': weird
+  - '@count': '5'
+    '@name': personal-library
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '15731'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417624
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/698034.Time_Out_of_Joint\"\
+  >Time Out of Joint Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=037571927X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/698034.Time_Out_of_Joint?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '33297'
+        link: https://www.goodreads.com/author/show/33297.Brian_W_Aldiss
+        name: Brian W. Aldiss
+    average_rating: '3.86'
+    id: '384579'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321611598l/384579._SX98_.jpg
+    isbn: '1585676837'
+    isbn13: '9781585676835'
+    link: https://www.goodreads.com/book/show/384579.Non_Stop
+    num_pages: '241'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15731'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321611598l/384579._SX50_.jpg
+    title: Non-Stop
+    title_without_series: Non-Stop
+    uri: kca://book/amzn1.gr.book.v1.MIMDQ4UI7ZqQun6zt5oJqw
+    work:
+      id: '2268003'
+  - authors:
+      author:
+        id: '16939'
+        link: https://www.goodreads.com/author/show/16939.Michael_Moorcock
+        name: Michael Moorcock
+    average_rating: '3.86'
+    id: '60146'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1585677647'
+    isbn13: '9781585677641'
+    link: https://www.goodreads.com/book/show/60146.Behold_the_Man
+    num_pages: '144'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15731'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Behold the Man
+    title_without_series: Behold the Man
+    uri: kca://book/amzn1.gr.book.v1.y7M43AWAxd39MnDkM0_QKA
+    work:
+      id: '3253860'
+  - authors:
+      author:
+        id: '23419'
+        link: https://www.goodreads.com/author/show/23419.Christopher_Priest
+        name: Christopher Priest
+    average_rating: '3.86'
+    id: '142181'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0060134216'
+    isbn13: '9780060134211'
+    link: https://www.goodreads.com/book/show/142181.The_Inverted_World
+    num_pages: '239'
+    publication_day: '28'
+    publication_month: '5'
+    publication_year: '1974'
+    ratings_count: '15731'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Inverted World
+    title_without_series: The Inverted World
+    uri: kca://book/amzn1.gr.book.v1.RVKj5O2vRWTBnq624bCtog
+    work:
+      id: '2226603'
+  - authors:
+      author:
+        id: '184425'
+        link: https://www.goodreads.com/author/show/184425.Emmanuel_Carr_re
+        name: "Emmanuel Carr\xE8re"
+    average_rating: '3.86'
+    id: '22593'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312053865l/22593._SX98_.jpg
+    isbn: 0805054642
+    isbn13: '9780805054644'
+    link: https://www.goodreads.com/book/show/22593.I_Am_Alive_and_You_Are_Dead
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15731'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312053865l/22593._SY75_.jpg
+    title: 'I Am Alive and You Are Dead: A Journey into the Mind of Philip K. Dick'
+    title_without_series: 'I Am Alive and You Are Dead: A Journey into the Mind of
+      Philip K. Dick'
+    uri: kca://book/amzn1.gr.book.v1.Zi5jglYe4dNvWEw0erO0IQ
+    work:
+      id: '330633'
+  - authors:
+      author:
+        id: '14407836'
+        link: https://www.goodreads.com/author/show/14407836.A_R_Merrydew
+        name: A.R. Merrydew
+    average_rating: '3.86'
+    id: '215186841'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/215186841-inara
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15731'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Inara (Godfrey Davis, #3)'
+    title_without_series: Inara
+    uri: kca://book/amzn1.gr.book.v3.wCOHuKhf0nZUkB2e
+    work:
+      id: '221595685'
+  - authors:
+      author:
+        id: '70180'
+        link: https://www.goodreads.com/author/show/70180.Hal_Clement
+        name: Hal Clement
+    average_rating: '3.86'
+    id: '525285'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328628795l/525285._SY160_.jpg
+    isbn: 0515034797
+    isbn13: '9780515034790'
+    link: https://www.goodreads.com/book/show/525285.Mission_of_Gravity
+    num_pages: '174'
+    publication_day: null
+    publication_month: '10'
+    publication_year: '1974'
+    ratings_count: '15731'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328628795l/525285._SY75_.jpg
+    title: 'Mission of Gravity (Mesklin #1)'
+    title_without_series: Mission of Gravity
+    uri: kca://book/amzn1.gr.book.v1.RbwHEg6Xf65waLrd1BBxJQ
+    work:
+      id: '894625'
+  - authors:
+      author:
+        id: '10991'
+        link: https://www.goodreads.com/author/show/10991.Stanis_aw_Lem
+        name: "Stanis\u0142aw Lem"
+    average_rating: '3.86'
+    id: '95558'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498631519l/95558._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/95558.Solaris
+    num_pages: '204'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15731'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498631519l/95558._SX50_.jpg
+    title: Solaris
+    title_without_series: Solaris
+    uri: kca://book/amzn1.gr.book.v1.2QOFfnwJcCGPgpzd2dOo1w
+    work:
+      id: '3333881'
+  - authors:
+      author:
+        id: '10992'
+        link: https://www.goodreads.com/author/show/10992.Alfred_Bester
+        name: Alfred Bester
+    average_rating: '3.86'
+    id: '76740'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360171879l/76740._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/76740.The_Demolished_Man
+    num_pages: '250'
+    publication_day: '8'
+    publication_month: '7'
+    publication_year: '1999'
+    ratings_count: '15731'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360171879l/76740._SY75_.jpg
+    title: The Demolished Man
+    title_without_series: The Demolished Man
+    uri: kca://book/amzn1.gr.book.v1.kTBJSSCHk57Ewdqk1rJL0g
+    work:
+      id: '1247570'
+  - authors:
+      author:
+        id: '7779'
+        link: https://www.goodreads.com/author/show/7779.Arthur_C_Clarke
+        name: Arthur C. Clarke
+    average_rating: '3.86'
+    id: '149059'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1302382681l/149059._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/149059.A_Fall_of_Moondust
+    num_pages: '224'
+    publication_day: '14'
+    publication_month: '3'
+    publication_year: '2002'
+    ratings_count: '15731'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1302382681l/149059._SY75_.jpg
+    title: A Fall of Moondust
+    title_without_series: A Fall of Moondust
+    uri: kca://book/amzn1.gr.book.v1.RsotZiGM3CtfOduLcWVjFA
+    work:
+      id: '1397287'
+  - authors:
+      author:
+        id: '22996'
+        link: https://www.goodreads.com/author/show/22996.Frederik_Pohl
+        name: Frederik Pohl
+    average_rating: '3.86'
+    id: '218427'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441698400l/218427._SX98_.jpg
+    isbn: 0345475836
+    isbn13: '9780345475831'
+    link: https://www.goodreads.com/book/show/218427.Gateway
+    num_pages: '278'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15731'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441698400l/218427._SY75_.jpg
+    title: 'Gateway (Heechee Saga, #1)'
+    title_without_series: Gateway
+    uri: kca://book/amzn1.gr.book.v1.n1Tv-lX4_x6OV_jZ77vLhA
+    work:
+      id: '1668837'
+  - authors:
+      author:
+        id: '10991'
+        link: https://www.goodreads.com/author/show/10991.Stanis_aw_Lem
+        name: "Stanis\u0142aw Lem"
+    average_rating: '3.86'
+    id: '889418'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0156849054
+    isbn13: '9780156849050'
+    link: https://www.goodreads.com/book/show/889418.The_Star_Diaries
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15731'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Star Diaries
+    title_without_series: The Star Diaries
+    uri: kca://book/amzn1.gr.book.v1.qFj1JUd7ZMcKvzCIC76WvA
+    work:
+      id: '1107396'
+  - authors:
+      author:
+        id: '9226'
+        link: https://www.goodreads.com/author/show/9226.William_Gibson
+        name: William Gibson
+    average_rating: '3.86'
+    id: '6088007'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554437249l/6088007._SX98_.jpg
+    isbn: 110114646X
+    isbn13: '9781101146460'
+    link: https://www.goodreads.com/book/show/6088007-neuromancer
+    num_pages: '288'
+    publication_day: '3'
+    publication_month: '3'
+    publication_year: '2007'
+    ratings_count: '15731'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554437249l/6088007._SY75_.jpg
+    title: 'Neuromancer (Sprawl, #1)'
+    title_without_series: Neuromancer
+    uri: kca://book/amzn1.gr.book.v1._7m4DTRn8iapMvlxW1amew
+    work:
+      id: '909457'
+  - authors:
+      author:
+        id: '10991'
+        link: https://www.goodreads.com/author/show/10991.Stanis_aw_Lem
+        name: "Stanis\u0142aw Lem"
+    average_rating: '3.86'
+    id: '251633'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441700738l/251633._SY160_.jpg
+    isbn: 0283979623
+    isbn13: '9780283979620'
+    link: https://www.goodreads.com/book/show/251633.The_Invincible
+    num_pages: null
+    publication_day: '23'
+    publication_month: '8'
+    publication_year: '1973'
+    ratings_count: '15731'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441700738l/251633._SY75_.jpg
+    title: The Invincible
+    title_without_series: The Invincible
+    uri: kca://book/amzn1.gr.book.v1.NOKtoPU5f3BemZ2BQ6fZfw
+    work:
+      id: '983629'
+  - authors:
+      author:
+        id: '7779'
+        link: https://www.goodreads.com/author/show/7779.Arthur_C_Clarke
+        name: Arthur C. Clarke
+    average_rating: '3.86'
+    id: '35813'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504043806l/35813._SY160_.jpg
+    isbn: '1857231945'
+    isbn13: '9781857231946'
+    link: https://www.goodreads.com/book/show/35813.The_Hammer_of_God
+    num_pages: '264'
+    publication_day: null
+    publication_month: null
+    publication_year: '1995'
+    ratings_count: '15731'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504043806l/35813._SY75_.jpg
+    title: The Hammer of God
+    title_without_series: The Hammer of God
+    uri: kca://book/amzn1.gr.book.v1.BBl9c6-zZjDYqAA18sy8SA
+    work:
+      id: '1878679'
+  - authors:
+      author:
+        id: '205'
+        link: https://www.goodreads.com/author/show/205.Robert_A_Heinlein
+        name: Robert A. Heinlein
+    average_rating: '3.86'
+    id: '348'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342241886l/348._SX98_.jpg
+    isbn: 0345413997
+    isbn13: '9780345413994'
+    link: https://www.goodreads.com/book/show/348.The_Door_Into_Summer
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15731'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342241886l/348._SX50_.jpg
+    title: The Door Into Summer
+    title_without_series: The Door Into Summer
+    uri: kca://book/amzn1.gr.book.v1.foDZRk-60l_2vN8oMzGpNQ
+    work:
+      id: '2055615'
+  - authors:
+      author:
+        id: '7010931'
+        link: https://www.goodreads.com/author/show/7010931.J_G_Ballard
+        name: J.G. Ballard
+    average_rating: '3.86'
+    id: '70255'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434120524l/70255._SX98_.jpg
+    isbn: 0374520968
+    isbn13: '9780374520960'
+    link: https://www.goodreads.com/book/show/70255.The_Crystal_World
+    num_pages: '210'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15731'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434120524l/70255._SY75_.jpg
+    title: The Crystal World
+    title_without_series: The Crystal World
+    uri: kca://book/amzn1.gr.book.v1.qFytJiPmkNfe8qEN3yVejw
+    work:
+      id: '937339'
+  - authors:
+      author:
+        id: '119148'
+        link: https://www.goodreads.com/author/show/119148.Anna_Kavan
+        name: Anna Kavan
+    average_rating: '3.86'
+    id: '636223'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328830578l/636223._SX98_.jpg
+    isbn: 0720612683
+    isbn13: '9780720612684'
+    link: https://www.goodreads.com/book/show/636223.Ice
+    num_pages: '158'
+    publication_day: '1'
+    publication_month: '7'
+    publication_year: '2016'
+    ratings_count: '15731'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328830578l/636223._SX50_.jpg
+    title: Ice
+    title_without_series: Ice
+    uri: kca://book/amzn1.gr.book.v1.2PFJZIeaGfGWG8zZDDUfwA
+    work:
+      id: '622507'
+  - authors:
+      author:
+        id: '7010931'
+        link: https://www.goodreads.com/author/show/7010931.J_G_Ballard
+        name: J.G. Ballard
+    average_rating: '3.86'
+    id: '12331767'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358752559l/12331767._SX98_.jpg
+    isbn: 0871404028
+    isbn13: '9780871404022'
+    link: https://www.goodreads.com/book/show/12331767-high-rise
+    num_pages: '208'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15731'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358752559l/12331767._SY75_.jpg
+    title: High-Rise
+    title_without_series: High-Rise
+    uri: kca://book/amzn1.gr.book.v1.DYlTFaSJfZ-Qse9YsKepuA
+    work:
+      id: '2270643'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320479470l/698034._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '570'
+  '@type': integer
+title: Time Out of Joint
+title_without_series: Time Out of Joint
+uri: kca://book/amzn1.gr.book.v1.LJxJMrYcfJpZfvy4JkH_Gg
+url: https://www.goodreads.com/book/show/698034.Time_Out_of_Joint
+work:
+  id: '87770'
+  uri: kca://work/amzn1.gr.work.v1.2Pa05Rh5cTv-2CTtEMfHxw

@@ -1,0 +1,746 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.07'
+    id: '6356'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1602177326p5/6356.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/6356.Barack_Obama
+    name: Barack Obama
+    ratings_count: '679834'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1602177326p2/6356.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '38675'
+average_rating: '3.83'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: The Audacity of Hope is Barack Obama's call for a new kind of politics
+  -- a politics that builds upon those shared understandings that pull us together
+  as Americans. Lucid in his vision of American's place in the world, refreshingly
+  candid about his family life and his time in the Senate, Obama here sets out his
+  political convictions and inspires us to trust in the dogged optimism that has long
+  defined us and that is our best hope going forward.
+edition_information: Reprint
+format: Mass Market Paperback
+id: '3312550'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320508242l/3312550._SY160_.jpg
+is_ebook: 'false'
+isbn: 0307455874
+isbn13: '9780307455871'
+json: '{"id": "3312550", "isbn": "0307455874", "isbn13": "9780307455871", "text_reviews_count":
+  {"@type": "integer", "#text": "81"}, "uri": "kca://book/amzn1.gr.book.v1.W_oaWsoyoF3wGqqLSUXihw",
+  "title": "The Audacity of Hope: Thoughts on Reclaiming the American Dream", "title_without_series":
+  "The Audacity of Hope: Thoughts on Reclaiming the American Dream", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320508242l/3312550._SY160_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320508242l/3312550._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/3312550-the-audacity-of-hope",
+  "num_pages": "448", "format": "Mass Market Paperback", "edition_information": "Reprint",
+  "publisher": null, "publication_day": null, "publication_year": null, "publication_month":
+  null, "average_rating": "3.83", "ratings_count": "167439", "description": "The Audacity
+  of Hope is Barack Obama''s call for a new kind of politics -- a politics that builds
+  upon those shared understandings that pull us together as Americans. Lucid in his
+  vision of American''s place in the world, refreshingly candid about his family life
+  and his time in the Senate, Obama here sets out his political convictions and inspires
+  us to trust in the dogged optimism that has long defined us and that is our best
+  hope going forward.", "authors": {"author": {"id": "6356", "name": "Barack Obama",
+  "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1602177326p5/6356.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1602177326p2/6356.jpg"},
+  "link": "https://www.goodreads.com/author/show/6356.Barack_Obama", "average_rating":
+  "4.07", "ratings_count": "679834", "text_reviews_count": "38675"}}, "published":
+  null, "work": {"id": "1716451", "uri": "kca://work/amzn1.gr.work.v1.DGGnX_FvwDoh1NyIVxki-Q"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/42404712",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B000MAH5O2
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/3312550-the-audacity-of-hope
+marketplace_id: ATVPDKIKX0DER
+num_pages: '448'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '185156'
+    '@name': to-read
+  - '@count': '5272'
+    '@name': currently-reading
+  - '@count': '2057'
+    '@name': non-fiction
+  - '@count': '1450'
+    '@name': politics
+  - '@count': '935'
+    '@name': biography
+  - '@count': '930'
+    '@name': nonfiction
+  - '@count': '595'
+    '@name': memoir
+  - '@count': '350'
+    '@name': owned
+  - '@count': '278'
+    '@name': audiobook
+  - '@count': '269'
+    '@name': political
+  - '@count': '263'
+    '@name': books-i-own
+  - '@count': '262'
+    '@name': audiobooks
+  - '@count': '255'
+    '@name': autobiography
+  - '@count': '238'
+    '@name': history
+  - '@count': '227'
+    '@name': memoirs
+  - '@count': '218'
+    '@name': biographies
+  - '@count': '180'
+    '@name': favorites
+  - '@count': '154'
+    '@name': biography-memoir
+  - '@count': '132'
+    '@name': audio
+  - '@count': '130'
+    '@name': library
+  - '@count': '124'
+    '@name': presidents
+  - '@count': '93'
+    '@name': owned-books
+  - '@count': '88'
+    '@name': philosophy
+  - '@count': '80'
+    '@name': audible
+  - '@count': '74'
+    '@name': my-library
+  - '@count': '74'
+    '@name': african-american
+  - '@count': '61'
+    '@name': book-club
+  - '@count': '60'
+    '@name': audio-books
+  - '@count': '58'
+    '@name': obama
+  - '@count': '56'
+    '@name': barack-obama
+  - '@count': '55'
+    '@name': american
+  - '@count': '54'
+    '@name': memoir-biography
+  - '@count': '53'
+    '@name': abandoned
+  - '@count': '51'
+    '@name': default
+  - '@count': '51'
+    '@name': audio-book
+  - '@count': '49'
+    '@name': home-library
+  - '@count': '48'
+    '@name': biographical
+  - '@count': '47'
+    '@name': my-books
+  - '@count': '46'
+    '@name': leadership
+  - '@count': '46'
+    '@name': american-history
+  - '@count': '45'
+    '@name': biography-autobiography
+  - '@count': '45'
+    '@name': kindle
+  - '@count': '45'
+    '@name': did-not-finish
+  - '@count': '44'
+    '@name': political-science
+  - '@count': '43'
+    '@name': essays
+  - '@count': '43'
+    '@name': bio
+  - '@count': '43'
+    '@name': dnf
+  - '@count': '42'
+    '@name': auto-biography
+  - '@count': '40'
+    '@name': government
+  - '@count': '40'
+    '@name': unfinished
+  - '@count': '39'
+    '@name': bookshelf
+  - '@count': '38'
+    '@name': usa
+  - '@count': '38'
+    '@name': race
+  - '@count': '38'
+    '@name': current-events
+  - '@count': '36'
+    '@name': adult
+  - '@count': '36'
+    '@name': current-affairs
+  - '@count': '35'
+    '@name': bios
+  - '@count': '34'
+    '@name': black-authors
+  - '@count': '34'
+    '@name': i-own
+  - '@count': '33'
+    '@name': personal-library
+  - '@count': '32'
+    '@name': biographies-memoirs
+  - '@count': '31'
+    '@name': english
+  - '@count': '31'
+    '@name': history-politics
+  - '@count': '30'
+    '@name': ebooks
+  - '@count': '30'
+    '@name': autobiographies
+  - '@count': '30'
+    '@name': america
+  - '@count': '29'
+    '@name': us-presidents
+  - '@count': '29'
+    '@name': inspirational
+  - '@count': '29'
+    '@name': autobiography-memoir
+  - '@count': '29'
+    '@name': american-politics
+  - '@count': '29'
+    '@name': listened-to
+  - '@count': '28'
+    '@name': on-my-shelf
+  - '@count': '28'
+    '@name': to-read-non-fiction
+  - '@count': '27'
+    '@name': biography-memoirs
+  - '@count': '26'
+    '@name': ebook
+  - '@count': '26'
+    '@name': have
+  - '@count': '26'
+    '@name': borrowed
+  - '@count': '26'
+    '@name': to-buy
+  - '@count': '25'
+    '@name': physical-tbr
+  - '@count': '25'
+    '@name': unread
+  - '@count': '24'
+    '@name': current
+  - '@count': '24'
+    '@name': science
+  - '@count': '23'
+    '@name': my-bookshelf
+  - '@count': '23'
+    '@name': to-read-nonfiction
+  - '@count': '23'
+    '@name': african
+  - '@count': '23'
+    '@name': adult-nonfiction
+  - '@count': '22'
+    '@name': general
+  - '@count': '22'
+    '@name': biographies-and-memoirs
+  - '@count': '22'
+    '@name': social-justice
+  - '@count': '22'
+    '@name': non-fic
+  - '@count': '22'
+    '@name': social
+  - '@count': '22'
+    '@name': memoir-bio
+  - '@count': '22'
+    '@name': bio-memoir
+  - '@count': '21'
+    '@name': in-my-library
+  - '@count': '21'
+    '@name': listened
+  - '@count': '21'
+    '@name': people
+  - '@count': '21'
+    '@name': contemporary
+  - '@count': '21'
+    '@name': biography-and-memoir
+  - '@count': '21'
+    '@name': didn-t-finish
+  - '@count': '20'
+    '@name': gave-up
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '167439'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/42404712
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/3312550-the-audacity-of-hope\"\
+  >The Audacity of Hope Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0307455874&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/3312550-the-audacity-of-hope?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '367338'
+        link: https://www.goodreads.com/author/show/367338.Nelson_Mandela
+        name: Nelson Mandela
+    average_rating: '3.83'
+    id: '9021'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0349116024
+    isbn13: '9780349116020'
+    link: https://www.goodreads.com/book/show/9021.Long_Walk_to_Freedom
+    num_pages: '497'
+    publication_day: null
+    publication_month: null
+    publication_year: '2002'
+    ratings_count: '167439'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Long Walk to Freedom (Volume 1: 1918-1962)'
+    title_without_series: Long Walk to Freedom
+    uri: kca://book/amzn1.gr.book.v1.aNN-v66iF-KAwmW1sMb3GQ
+    work:
+      id: '69490836'
+  - authors:
+      author:
+        id: '5944'
+        link: https://www.goodreads.com/author/show/5944.Bill_Clinton
+        name: Bill Clinton
+    average_rating: '3.83'
+    id: '49195'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 140003003X
+    isbn13: '9781400030033'
+    link: https://www.goodreads.com/book/show/49195.My_Life
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '167439'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: My Life
+    title_without_series: My Life
+    uri: kca://book/amzn1.gr.book.v1.u0T5nQZzQvU-dka4VYhJRQ
+    work:
+      id: '775862'
+  - authors:
+      author:
+        id: '5810891'
+        link: https://www.goodreads.com/author/show/5810891.Mahatma_Gandhi
+        name: Mahatma Gandhi
+    average_rating: '3.83'
+    id: '112803'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320560971l/112803._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/112803.Gandhi
+    num_pages: '528'
+    publication_day: '1'
+    publication_month: '11'
+    publication_year: '1993'
+    ratings_count: '167439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320560971l/112803._SX50_.jpg
+    title: 'Gandhi: An Autobiography'
+    title_without_series: 'Gandhi: An Autobiography'
+    uri: kca://book/amzn1.gr.book.v1.cSw4C7OWsgM6xBiRHXafXA
+    work:
+      id: '1744912'
+  - authors:
+      author:
+        id: '7111'
+        link: https://www.goodreads.com/author/show/7111.Walter_Isaacson
+        name: Walter Isaacson
+    average_rating: '3.83'
+    id: '10884'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328011405l/10884._SX98_.jpg
+    isbn: 0743264738
+    isbn13: '9780743264730'
+    link: https://www.goodreads.com/book/show/10884.Einstein
+    num_pages: '675'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '167439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328011405l/10884._SY75_.jpg
+    title: 'Einstein: His Life and Universe'
+    title_without_series: 'Einstein: His Life and Universe'
+    uri: kca://book/amzn1.gr.book.v1.Y3VmJwL-CVA91L_qML0kkg
+    work:
+      id: '985244'
+  - authors:
+      author:
+        id: '23924'
+        link: https://www.goodreads.com/author/show/23924.Martin_Luther_King_Jr_
+        name: Martin Luther King Jr.
+    average_rating: '3.83'
+    id: '42547'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0446676500'
+    isbn13: '9780446676502'
+    link: https://www.goodreads.com/book/show/42547.The_Autobiography_of_Martin_Luther_King_Jr_
+    num_pages: '400'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '167439'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Autobiography of Martin Luther King, Jr.
+    title_without_series: The Autobiography of Martin Luther King, Jr.
+    uri: kca://book/amzn1.gr.book.v1.eobkjXIW43mvhtsFpIK_8w
+    work:
+      id: '42030'
+  - authors:
+      author:
+        id: '367338'
+        link: https://www.goodreads.com/author/show/367338.Nelson_Mandela
+        name: Nelson Mandela
+    average_rating: '3.83'
+    id: '318431'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327997342l/318431._SX98_.jpg
+    isbn: 0316548189
+    isbn13: '9780316548182'
+    link: https://www.goodreads.com/book/show/318431.Long_Walk_to_Freedom
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '167439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327997342l/318431._SY75_.jpg
+    title: Long Walk to Freedom
+    title_without_series: Long Walk to Freedom
+    uri: kca://book/amzn1.gr.book.v1.BgVM3mSPOIq0iIurEtrMPA
+    work:
+      id: '2501119'
+  - authors:
+      author:
+        id: '7922'
+        link: https://www.goodreads.com/author/show/7922.David_Herbert_Donald
+        name: David Herbert Donald
+    average_rating: '3.83'
+    id: '106590'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543429790l/106590._SX98_.jpg
+    isbn: 068482535X
+    isbn13: '9780684825359'
+    link: https://www.goodreads.com/book/show/106590.Lincoln
+    num_pages: '714'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '167439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543429790l/106590._SY75_.jpg
+    title: Lincoln
+    title_without_series: Lincoln
+    uri: kca://book/amzn1.gr.book.v1.C_P_MRx0uS1jPZmVQerAYw
+    work:
+      id: '1733479'
+  - authors:
+      author:
+        id: '37982'
+        link: https://www.goodreads.com/author/show/37982.Ronald_William_Clark
+        name: Ronald William Clark
+    average_rating: '3.83'
+    id: '1182114'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 038001159X
+    isbn13: '9780380011599'
+    link: https://www.goodreads.com/book/show/1182114.Einstein
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '167439'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Einstein: The Life and Times'
+    title_without_series: 'Einstein: The Life and Times'
+    uri: kca://book/amzn1.gr.book.v1.UHpTiIKlCN3YwEiJLxl-gQ
+    work:
+      id: '1170024'
+  - authors:
+      author:
+        id: '17435'
+        link: https://www.goodreads.com/author/show/17435.Malcolm_X
+        name: Malcolm X
+    average_rating: '3.83'
+    id: '92057'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434682864l/92057._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/92057.The_Autobiography_of_Malcolm_X
+    num_pages: '466'
+    publication_day: null
+    publication_month: null
+    publication_year: '2015'
+    ratings_count: '167439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434682864l/92057._SY75_.jpg
+    title: The Autobiography of Malcolm X
+    title_without_series: The Autobiography of Malcolm X
+    uri: kca://book/amzn1.gr.book.v1.o14_RgkVm9ntdpNAMHL2Jg
+    work:
+      id: '47400'
+  - authors:
+      author:
+        id: '27721'
+        link: https://www.goodreads.com/author/show/27721.Jeffrey_S_Young
+        name: Jeffrey S. Young
+    average_rating: '3.83'
+    id: '49312'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1284942395l/49312._SX98_.jpg
+    isbn: 0471787841
+    isbn13: '9780471787846'
+    link: https://www.goodreads.com/book/show/49312.iCon
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '167439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1284942395l/49312._SY75_.jpg
+    title: 'iCon: Steve Jobs, the Greatest Second Act in the History of Business'
+    title_without_series: 'iCon: Steve Jobs, the Greatest Second Act in the History
+      of Business'
+    uri: kca://book/amzn1.gr.book.v1.lLd_1KGXzrco7aRVzKQeOA
+    work:
+      id: '48234'
+  - authors:
+      author:
+        id: '636139'
+        link: https://www.goodreads.com/author/show/636139.David_Mendell
+        name: David Mendell
+    average_rating: '3.83'
+    id: '1333713'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0060858206
+    isbn13: '9780060858209'
+    link: https://www.goodreads.com/book/show/1333713.Obama
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '167439'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Obama: From Promise to Power'
+    title_without_series: 'Obama: From Promise to Power'
+    uri: kca://book/amzn1.gr.book.v1.az2-NmaKoPe8wZurHo7mWg
+    work:
+      id: '1323236'
+  - authors:
+      author:
+        id: '8644'
+        link: https://www.goodreads.com/author/show/8644.Sylvia_Nasar
+        name: Sylvia Nasar
+    average_rating: '3.83'
+    id: '13912'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640526972l/13912._SX98_.jpg
+    isbn: 0571212921
+    isbn13: '9780571212927'
+    link: https://www.goodreads.com/book/show/13912.A_Beautiful_Mind
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '167439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640526972l/13912._SY75_.jpg
+    title: A Beautiful Mind
+    title_without_series: A Beautiful Mind
+    uri: kca://book/amzn1.gr.book.v1.YQkhYkc0nUGgE6OJcqMOTQ
+    work:
+      id: '2561274'
+  - authors:
+      author:
+        id: '72809'
+        link: https://www.goodreads.com/author/show/72809.Ronald_C_White_Jr_
+        name: Ronald C. White Jr.
+    average_rating: '3.83'
+    id: '4059448'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1400064996'
+    isbn13: '9781400064991'
+    link: https://www.goodreads.com/book/show/4059448-a-lincoln
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '167439'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: A. Lincoln
+    title_without_series: A. Lincoln
+    uri: kca://book/amzn1.gr.book.v1.3n1OzAltSPG0aiMU9EkDVA
+    work:
+      id: '4106471'
+  - authors:
+      author:
+        id: '2338628'
+        link: https://www.goodreads.com/author/show/2338628.Michelle_Obama
+        name: Michelle Obama
+    average_rating: '3.83'
+    id: '38746485'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528206996l/38746485._SX98_.jpg
+    isbn: '1524763136'
+    isbn13: '9781524763138'
+    link: https://www.goodreads.com/book/show/38746485-becoming
+    num_pages: '426'
+    publication_day: '13'
+    publication_month: '11'
+    publication_year: '2018'
+    ratings_count: '167439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528206996l/38746485._SY75_.jpg
+    title: Becoming
+    title_without_series: Becoming
+    uri: kca://book/amzn1.gr.book.v1.hs8vpaofETuRH157kGaB-w
+    work:
+      id: '60334006'
+  - authors:
+      author:
+        id: '2778471'
+        link: https://www.goodreads.com/author/show/2778471.Hillary_Rodham_Clinton
+        name: Hillary Rodham Clinton
+    average_rating: '3.83'
+    id: '56073'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0743222253'
+    isbn13: '9780743222259'
+    link: https://www.goodreads.com/book/show/56073.Living_History
+    num_pages: '567'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '167439'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Living History
+    title_without_series: Living History
+    uri: kca://book/amzn1.gr.book.v1.1r6Y26rwjSODDmOjjHZe6A
+    work:
+      id: '480368'
+  - authors:
+      author:
+        id: '7077'
+        link: https://www.goodreads.com/author/show/7077.Jon_Lee_Anderson
+        name: Jon Lee Anderson
+    average_rating: '3.83'
+    id: '10836'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0802135587
+    isbn13: '9780802135582'
+    link: https://www.goodreads.com/book/show/10836.Che_Guevara
+    num_pages: '814'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '167439'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Che Guevara: A Revolutionary Life'
+    title_without_series: 'Che Guevara: A Revolutionary Life'
+    uri: kca://book/amzn1.gr.book.v1.ZFnB26WRb0BWwEcJkSObiQ
+    work:
+      id: '3455'
+  - authors:
+      author:
+        id: '24994581'
+        link: https://www.goodreads.com/author/show/24994581.Obama_for_Change
+        name: Obama for Change
+    average_rating: '3.83'
+    id: '4066507'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320476811l/4066507._SX98_.jpg
+    isbn: '0307460452'
+    isbn13: '9780307460455'
+    link: https://www.goodreads.com/book/show/4066507-change-we-can-believe-in
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '167439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320476811l/4066507._SY75_.jpg
+    title: 'Change We Can Believe In: Barack Obama''s Plan to Renew America''s Promise'
+    title_without_series: 'Change We Can Believe In: Barack Obama''s Plan to Renew
+      America''s Promise'
+    uri: kca://book/amzn1.gr.book.v1.NEK9YuXdxLYKDHqEyfP9pg
+    work:
+      id: '4113605'
+  - authors:
+      author:
+        id: '107079'
+        link: https://www.goodreads.com/author/show/107079.Manning_Marable
+        name: Manning Marable
+    average_rating: '3.83'
+    id: '7940589'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0670022209
+    isbn13: '9780670022205'
+    link: https://www.goodreads.com/book/show/7940589-malcolm-x
+    num_pages: null
+    publication_day: '5'
+    publication_month: '4'
+    publication_year: '2011'
+    ratings_count: '167439'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Malcolm X: A Life of Reinvention'
+    title_without_series: 'Malcolm X: A Life of Reinvention'
+    uri: kca://book/amzn1.gr.book.v1.At_oEnOlF5xSr2x6_5L3xg
+    work:
+      id: '11366179'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320508242l/3312550._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '81'
+  '@type': integer
+title: 'The Audacity of Hope: Thoughts on Reclaiming the American Dream'
+title_without_series: 'The Audacity of Hope: Thoughts on Reclaiming the American Dream'
+uri: kca://book/amzn1.gr.book.v1.W_oaWsoyoF3wGqqLSUXihw
+url: https://www.goodreads.com/book/show/3312550-the-audacity-of-hope
+work:
+  id: '1716451'
+  uri: kca://work/amzn1.gr.work.v1.DGGnX_FvwDoh1NyIVxki-Q

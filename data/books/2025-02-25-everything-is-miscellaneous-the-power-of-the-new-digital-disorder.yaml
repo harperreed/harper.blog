@@ -1,0 +1,450 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.79'
+    id: '46222'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1362176096p5/46222.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/46222.David_Weinberger
+    name: David Weinberger
+    ratings_count: '9018'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1362176096p2/46222.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '600'
+average_rating: '3.74'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: null
+edition_information: First Edition
+format: null
+id: '726004'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316738882l/726004._SX98_.jpg
+is_ebook: 'false'
+isbn: 0805080430
+isbn13: '9780805080438'
+json: '{"id": "726004", "isbn": "0805080430", "isbn13": "9780805080438", "text_reviews_count":
+  {"@type": "integer", "#text": "203"}, "uri": "kca://book/amzn1.gr.book.v1.0egA203Brv2c_a3b79pkXg",
+  "title": "Everything Is Miscellaneous: The Power of the New Digital Disorder", "title_without_series":
+  "Everything Is Miscellaneous: The Power of the New Digital Disorder", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316738882l/726004._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316738882l/726004._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/726004.Everything_Is_Miscellaneous",
+  "num_pages": null, "format": null, "edition_information": "First Edition", "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "3.74", "ratings_count": "2480", "description": null, "authors":
+  {"author": {"id": "46222", "name": "David Weinberger", "role": null, "image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1362176096p5/46222.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1362176096p2/46222.jpg"},
+  "link": "https://www.goodreads.com/author/show/46222.David_Weinberger", "average_rating":
+  "3.79", "ratings_count": "9018", "text_reviews_count": "600"}}, "published": null,
+  "work": {"id": "712220", "uri": "kca://work/amzn1.gr.work.v1.itSCIJltF3MIx7G6W9K5Ug"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/12429066",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B000R7PUW4
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/726004.Everything_Is_Miscellaneous
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '1853'
+    '@name': to-read
+  - '@count': '125'
+    '@name': non-fiction
+  - '@count': '96'
+    '@name': currently-reading
+  - '@count': '87'
+    '@name': nonfiction
+  - '@count': '49'
+    '@name': technology
+  - '@count': '22'
+    '@name': library-science
+  - '@count': '22'
+    '@name': library
+  - '@count': '20'
+    '@name': information
+  - '@count': '17'
+    '@name': information-science
+  - '@count': '14'
+    '@name': science
+  - '@count': '13'
+    '@name': internet
+  - '@count': '13'
+    '@name': business
+  - '@count': '12'
+    '@name': tech
+  - '@count': '11'
+    '@name': owned
+  - '@count': '11'
+    '@name': philosophy
+  - '@count': '11'
+    '@name': web
+  - '@count': '11'
+    '@name': libraries
+  - '@count': '11'
+    '@name': work
+  - '@count': '10'
+    '@name': mlis
+  - '@count': '9'
+    '@name': favorites
+  - '@count': '9'
+    '@name': librarianship
+  - '@count': '9'
+    '@name': information-architecture
+  - '@count': '9'
+    '@name': lis
+  - '@count': '8'
+    '@name': library-school
+  - '@count': '7'
+    '@name': knowledge
+  - '@count': '7'
+    '@name': sociology
+  - '@count': '6'
+    '@name': library-and-information-science
+  - '@count': '6'
+    '@name': professional
+  - '@count': '5'
+    '@name': school
+  - '@count': '5'
+    '@name': slis
+  - '@count': '5'
+    '@name': adult
+  - '@count': '5'
+    '@name': management
+  - '@count': '5'
+    '@name': adult-non-fiction
+  - '@count': '4'
+    '@name': default
+  - '@count': '4'
+    '@name': school-reading
+  - '@count': '4'
+    '@name': ux
+  - '@count': '4'
+    '@name': books-i-own
+  - '@count': '4'
+    '@name': grad-school
+  - '@count': '4'
+    '@name': nf
+  - '@count': '4'
+    '@name': kindle
+  - '@count': '4'
+    '@name': education
+  - '@count': '4'
+    '@name': social-science
+  - '@count': '4'
+    '@name': order
+  - '@count': '4'
+    '@name': work-related
+  - '@count': '4'
+    '@name': digital
+  - '@count': '4'
+    '@name': classification
+  - '@count': '3'
+    '@name': social-media
+  - '@count': '3'
+    '@name': hard-copy
+  - '@count': '3'
+    '@name': metadata
+  - '@count': '3'
+    '@name': computers
+  - '@count': '3'
+    '@name': media-studies
+  - '@count': '3'
+    '@name': essays
+  - '@count': '3'
+    '@name': textbooks
+  - '@count': '3'
+    '@name': paused
+  - '@count': '3'
+    '@name': partially-read
+  - '@count': '3'
+    '@name': tagging
+  - '@count': '3'
+    '@name': cataloging
+  - '@count': '3'
+    '@name': information-management
+  - '@count': '3'
+    '@name': 21st-century
+  - '@count': '3'
+    '@name': misc
+  - '@count': '3'
+    '@name': shelved
+  - '@count': '3'
+    '@name': for-school
+  - '@count': '3'
+    '@name': nonfic
+  - '@count': '3'
+    '@name': own-it
+  - '@count': '3'
+    '@name': my-shelf
+  - '@count': '3'
+    '@name': design
+  - '@count': '3'
+    '@name': media
+  - '@count': '3'
+    '@name': recommended
+  - '@count': '3'
+    '@name': read-in-2008
+  - '@count': '2'
+    '@name': psychology
+  - '@count': '2'
+    '@name': english
+  - '@count': '2'
+    '@name': audio_wanted
+  - '@count': '2'
+    '@name': sachbuch
+  - '@count': '2'
+    '@name': saved
+  - '@count': '2'
+    '@name': ebooks
+  - '@count': '2'
+    '@name': author-male
+  - '@count': '2'
+    '@name': digital-media
+  - '@count': '2'
+    '@name': information-technology
+  - '@count': '2'
+    '@name': innovation
+  - '@count': '2'
+    '@name': info-sci
+  - '@count': '2'
+    '@name': data
+  - '@count': '2'
+    '@name': physical-book
+  - '@count': '2'
+    '@name': shortlist
+  - '@count': '2'
+    '@name': usa
+  - '@count': '2'
+    '@name': united-states
+  - '@count': '2'
+    '@name': thinking
+  - '@count': '2'
+    '@name': other
+  - '@count': '2'
+    '@name': office
+  - '@count': '2'
+    '@name': required-reading
+  - '@count': '2'
+    '@name': info-science
+  - '@count': '2'
+    '@name': social
+  - '@count': '2'
+    '@name': non-fic
+  - '@count': '2'
+    '@name': digital-culture
+  - '@count': '2'
+    '@name': networks
+  - '@count': '2'
+    '@name': personal-library
+  - '@count': '2'
+    '@name': textbook
+  - '@count': '2'
+    '@name': read-nonfiction
+  - '@count': '2'
+    '@name': library-reference
+  - '@count': '2'
+    '@name': web-design
+  - '@count': '2'
+    '@name': usability
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '2480'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/12429066
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/726004.Everything_Is_Miscellaneous\"\
+  >Everything Is Miscellaneous Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0805080430&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/726004.Everything_Is_Miscellaneous?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '8788'
+        link: https://www.goodreads.com/author/show/8788.Erich_Fromm
+        name: Erich Fromm
+    average_rating: '3.74'
+    id: '14142'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0061129739
+    isbn13: '9780061129735'
+    link: https://www.goodreads.com/book/show/14142.The_Art_of_Loving
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2480'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Art of Loving
+    title_without_series: The Art of Loving
+    uri: kca://book/amzn1.gr.book.v1.fU4cf275pS2pQavZvXF1_Q
+    work:
+      id: '1561022'
+  - authors:
+      author:
+        id: '64761'
+        link: https://www.goodreads.com/author/show/64761.Anne_Applebaum
+        name: Anne Applebaum
+    average_rating: '3.74'
+    id: '183932735'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711994646l/183932735._SX98_.jpg
+    isbn: 0241627893
+    isbn13: '9780241627891'
+    link: https://www.goodreads.com/book/show/183932735-autocracy-inc
+    num_pages: '224'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2480'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711994646l/183932735._SY75_.jpg
+    title: Autocracy, Inc.
+    title_without_series: Autocracy, Inc.
+    uri: kca://book/amzn1.gr.book.v3.5wRktRNTW3XvPePl
+    work:
+      id: '188002890'
+  - authors:
+      author:
+        id: '17177938'
+        link: https://www.goodreads.com/author/show/17177938.Tiago_Forte
+        name: Tiago Forte
+    average_rating: '3.74'
+    id: '59616977'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652891488l/59616977._SX98_.jpg
+    isbn: '1982167386'
+    isbn13: '9781982167387'
+    link: https://www.goodreads.com/book/show/59616977-building-a-second-brain
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2480'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652891488l/59616977._SY75_.jpg
+    title: 'Building a Second Brain: A Proven Method to Organize Your Digital Life
+      and Unlock Your Creative Potential'
+    title_without_series: 'Building a Second Brain: A Proven Method to Organize Your
+      Digital Life and Unlock Your Creative Potential'
+    uri: kca://book/amzn1.gr.book.v3.reITA95TvUGp8j3_
+    work:
+      id: '93886807'
+  - authors:
+      author:
+        id: '307638'
+        link: https://www.goodreads.com/author/show/307638.Donella_H_Meadows
+        name: Donella H. Meadows
+    average_rating: '3.74'
+    id: '3828902'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390169859l/3828902._SX98_.jpg
+    isbn: '1603580557'
+    isbn13: '9781603580557'
+    link: https://www.goodreads.com/book/show/3828902-thinking-in-systems
+    num_pages: '218'
+    publication_day: '3'
+    publication_month: '12'
+    publication_year: '2008'
+    ratings_count: '2480'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390169859l/3828902._SY75_.jpg
+    title: 'Thinking In Systems: A Primer'
+    title_without_series: 'Thinking In Systems: A Primer'
+    uri: kca://book/amzn1.gr.book.v1.OaBB5mlgq5xYPSmhQu9N5g
+    work:
+      id: '3873538'
+  - authors:
+      author:
+        id: '4764'
+        link: https://www.goodreads.com/author/show/4764.Philip_K_Dick
+        name: Philip K. Dick
+    average_rating: '3.74'
+    id: '22584'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398026028l/22584._SX98_.jpg
+    isbn: '1857983416'
+    isbn13: '9781857983418'
+    link: https://www.goodreads.com/book/show/22584.Flow_My_Tears_the_Policeman_Said
+    num_pages: '204'
+    publication_day: '8'
+    publication_month: '11'
+    publication_year: '2001'
+    ratings_count: '2480'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398026028l/22584._SY75_.jpg
+    title: Flow My Tears, the Policeman Said
+    title_without_series: Flow My Tears, the Policeman Said
+    uri: kca://book/amzn1.gr.book.v1.LvkRfBsnXt81z3Na5Ne1pA
+    work:
+      id: '949696'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316738882l/726004._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '203'
+  '@type': integer
+title: 'Everything Is Miscellaneous: The Power of the New Digital Disorder'
+title_without_series: 'Everything Is Miscellaneous: The Power of the New Digital Disorder'
+uri: kca://book/amzn1.gr.book.v1.0egA203Brv2c_a3b79pkXg
+url: https://www.goodreads.com/book/show/726004.Everything_Is_Miscellaneous
+work:
+  id: '712220'
+  uri: kca://work/amzn1.gr.work.v1.itSCIJltF3MIx7G6W9K5Ug

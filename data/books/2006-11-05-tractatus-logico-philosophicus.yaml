@@ -1,0 +1,753 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.15'
+    id: '7672'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1615573835p5/7672.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/7672.Ludwig_Wittgenstein
+    name: Ludwig Wittgenstein
+    ratings_count: '49860'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1615573835p2/7672.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '2400'
+average_rating: '4.09'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: 'Perhaps the most important work of philosophy written in the twentieth
+  century, <em>Tractatus Logico-Philosophicus</em> was the only philosophical work
+  that Ludwig Wittgenstein published during his lifetime. Written in short, carefully
+  numbered paragraphs of extreme brilliance, it captured the imagination of a generation
+  of philosophers. For Wittgenstein, logic was something we use to conquer a reality
+  which is in itself both elusive and unobtainable. He famously summarized the book
+  in the following words: ''What can be said at all can be said clearly; and what
+  we cannot talk about we must pass over in silence.'' David Pears and Brian McGuinness
+  received the highest praise for their meticulous translation. The work is prefaced
+  by Bertrand Russell''s original introduction to the first English edition.'
+edition_information: '1'
+format: null
+id: '988506'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: 0415028256
+isbn13: '9780415028257'
+json: '{"id": "988506", "isbn": "0415028256", "isbn13": "9780415028257", "text_reviews_count":
+  {"@type": "integer", "#text": "8"}, "uri": "kca://book/amzn1.gr.book.v1.bNkYuh9R9yRatVBi4EyXnQ",
+  "title": "Tractatus Logico-Philosophicus", "title_without_series": "Tractatus Logico-Philosophicus",
+  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/988506.Tractatus_Logico_Philosophicus",
+  "num_pages": "89", "format": null, "edition_information": "1", "publisher": null,
+  "publication_day": null, "publication_year": "1974", "publication_month": null,
+  "average_rating": "4.09", "ratings_count": "21168", "description": "Perhaps the
+  most important work of philosophy written in the twentieth century, <em>Tractatus
+  Logico-Philosophicus</em> was the only philosophical work that Ludwig Wittgenstein
+  published during his lifetime. Written in short, carefully numbered paragraphs of
+  extreme brilliance, it captured the imagination of a generation of philosophers.
+  For Wittgenstein, logic was something we use to conquer a reality which is in itself
+  both elusive and unobtainable. He famously summarized the book in the following
+  words: ''What can be said at all can be said clearly; and what we cannot talk about
+  we must pass over in silence.'' David Pears and Brian McGuinness received the highest
+  praise for their meticulous translation. The work is prefaced by Bertrand Russell''s
+  original introduction to the first English edition.", "authors": {"author": {"id":
+  "7672", "name": "Ludwig Wittgenstein", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1615573835p5/7672.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1615573835p2/7672.jpg"},
+  "link": "https://www.goodreads.com/author/show/7672.Ludwig_Wittgenstein", "average_rating":
+  "4.15", "ratings_count": "49860", "text_reviews_count": "2400"}}, "published": "1974",
+  "work": {"id": "3157863", "uri": "kca://work/amzn1.gr.work.v1.04O4fypF0nMADPdnuA1heA"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417599",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: '0203010345'
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/988506.Tractatus_Logico_Philosophicus
+marketplace_id: ATVPDKIKX0DER
+num_pages: '89'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '39545'
+    '@name': to-read
+  - '@count': '2960'
+    '@name': philosophy
+  - '@count': '2140'
+    '@name': currently-reading
+  - '@count': '361'
+    '@name': non-fiction
+  - '@count': '189'
+    '@name': favorites
+  - '@count': '138'
+    '@name': nonfiction
+  - '@count': '112'
+    '@name': owned
+  - '@count': '102'
+    '@name': logic
+  - '@count': '96'
+    '@name': classics
+  - '@count': '84'
+    '@name': filosofia
+  - '@count': '68'
+    '@name': linguistics
+  - '@count': '67'
+    '@name': "filosof\xEDa"
+  - '@count': '66'
+    '@name': language
+  - '@count': '59'
+    '@name': german
+  - '@count': '57'
+    '@name': wittgenstein
+  - '@count': '46'
+    '@name': philosophie
+  - '@count': '45'
+    '@name': to-buy
+  - '@count': '41'
+    '@name': science
+  - '@count': '39'
+    '@name': library
+  - '@count': '38'
+    '@name': theory
+  - '@count': '35'
+    '@name': analytic-philosophy
+  - '@count': '34'
+    '@name': phil
+  - '@count': '34'
+    '@name': philo
+  - '@count': '30'
+    '@name': books-i-own
+  - '@count': '29'
+    '@name': 20th-century
+  - '@count': '25'
+    '@name': filosofie
+  - '@count': '24'
+    '@name': philosophy-to-read
+  - '@count': '23'
+    '@name': kindle
+  - '@count': '22'
+    '@name': default
+  - '@count': '21'
+    '@name': philosophy-of-language
+  - '@count': '21'
+    '@name': epistemology
+  - '@count': '21'
+    '@name': mathematics
+  - '@count': '20'
+    '@name': austrian
+  - '@count': '20'
+    '@name': austria
+  - '@count': '19'
+    '@name': metaphysics
+  - '@count': '18'
+    '@name': filosofi
+  - '@count': '18'
+    '@name': felsefe
+  - '@count': '18'
+    '@name': owned-books
+  - '@count': '18'
+    '@name': western-philosophy
+  - '@count': '18'
+    '@name': philosophy-religion
+  - '@count': '17'
+    '@name': unfinished
+  - '@count': '16'
+    '@name': priority
+  - '@count': '16'
+    '@name': reference
+  - '@count': '16'
+    '@name': academic
+  - '@count': '15'
+    '@name': philosophical
+  - '@count': '15'
+    '@name': analytic
+  - '@count': '15'
+    '@name': philosophy-theory
+  - '@count': '14'
+    '@name': abandoned
+  - '@count': '14'
+    '@name': german-literature
+  - '@count': '14'
+    '@name': analytical-philosophy
+  - '@count': '14'
+    '@name': on-hold
+  - '@count': '13'
+    '@name': my-library
+  - '@count': '13'
+    '@name': next
+  - '@count': '13'
+    '@name': math
+  - '@count': '13'
+    '@name': 1920s
+  - '@count': '13'
+    '@name': essays
+  - '@count': '12'
+    '@name': must-read
+  - '@count': '12'
+    '@name': classic
+  - '@count': '11'
+    '@name': collection
+  - '@count': '11'
+    '@name': philosophy-psychology
+  - '@count': '11'
+    '@name': germany
+  - '@count': '11'
+    '@name': deutsch
+  - '@count': '11'
+    '@name': modern-philosophy
+  - '@count': '10'
+    '@name': "\u03C6\u03B9\u03BB\u03BF\u03C3\u03BF\u03C6\u03AF\u03B1"
+  - '@count': '10'
+    '@name': english
+  - '@count': '10'
+    '@name': unread
+  - '@count': '10'
+    '@name': psychology
+  - '@count': '10'
+    '@name': ensayo
+  - '@count': '10'
+    '@name': school
+  - '@count': '10'
+    '@name': philosphy
+  - '@count': '9'
+    '@name': want-to-read-philosophy
+  - '@count': '9'
+    '@name': bookshelf
+  - '@count': '9'
+    '@name': to-read-non-fiction
+  - '@count': '9'
+    '@name': to-read-philosophy
+  - '@count': '9'
+    '@name': '1'
+  - '@count': '9'
+    '@name': audiobook
+  - '@count': '9'
+    '@name': wish-list
+  - '@count': '9'
+    '@name': translated
+  - '@count': '8'
+    '@name': favourites
+  - '@count': '8'
+    '@name': dnf
+  - '@count': '8'
+    '@name': shelved
+  - '@count': '8'
+    '@name': critical-thinking
+  - '@count': '8'
+    '@name': buy
+  - '@count': '8'
+    '@name': read-in-english
+  - '@count': '8'
+    '@name': my-books
+  - '@count': '8'
+    '@name': paused
+  - '@count': '8'
+    '@name': e-book
+  - '@count': '8'
+    '@name': home-library
+  - '@count': '7'
+    '@name': wtr-philosophy
+  - '@count': '7'
+    '@name': want-to-buy
+  - '@count': '7'
+    '@name': literature
+  - '@count': '7'
+    '@name': next-up
+  - '@count': '7'
+    '@name': german-lit
+  - '@count': '7'
+    '@name': on-my-shelf
+  - '@count': '7'
+    '@name': "\u0641\u0644\u0633\u0641\u0647"
+  - '@count': '7'
+    '@name': saggi
+  - '@count': '7'
+    '@name': ludwig-wittgenstein
+  - '@count': '7'
+    '@name': thinking
+  - '@count': '7'
+    '@name': philosophy-logic
+  - '@count': '7'
+    '@name': phi
+publication_day: null
+publication_month: null
+publication_year: '1974'
+published: '1974'
+publisher: null
+ratings_count: '21168'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417599
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/988506.Tractatus_Logico_Philosophicus\"\
+  >Tractatus Logico-Philosophicus Reviews</a></h1></div>\n  <iframe sandbox id=\"\
+  the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0415028256&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/988506.Tractatus_Logico_Philosophicus?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '6191'
+        link: https://www.goodreads.com/author/show/6191.Martin_Heidegger
+        name: Martin Heidegger
+    average_rating: '4.09'
+    id: '92307'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0060638508
+    isbn13: '9780060638504'
+    link: https://www.goodreads.com/book/show/92307.Being_and_Time
+    num_pages: '589'
+    publication_day: '1'
+    publication_month: '8'
+    publication_year: '1962'
+    ratings_count: '21168'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Being and Time
+    title_without_series: Being and Time
+    uri: kca://book/amzn1.gr.book.v1.Ga6jKPMpxI1PFIvuMG4rEA
+    work:
+      id: '1309352'
+  - authors:
+      author:
+        id: '11038'
+        link: https://www.goodreads.com/author/show/11038.Immanuel_Kant
+        name: Immanuel Kant
+    average_rating: '4.09'
+    id: '18288'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0521657296
+    isbn13: '9780521657297'
+    link: https://www.goodreads.com/book/show/18288.Critique_of_Pure_Reason
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21168'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Critique of Pure Reason
+    title_without_series: Critique of Pure Reason
+    uri: kca://book/amzn1.gr.book.v1.jJib2ul0u5Uz8CfCZBaQLQ
+    work:
+      id: '1072226'
+  - authors:
+      author:
+        id: '6188'
+        link: https://www.goodreads.com/author/show/6188.Georg_Wilhelm_Friedrich_Hegel
+        name: Georg Wilhelm Friedrich Hegel
+    average_rating: '4.09'
+    id: '9454'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425522818l/9454._SX98_.jpg
+    isbn: 0198245971
+    isbn13: '9780198245971'
+    link: https://www.goodreads.com/book/show/9454.Phenomenology_of_Spirit
+    num_pages: null
+    publication_day: '30'
+    publication_month: '11'
+    publication_year: '1976'
+    ratings_count: '21168'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425522818l/9454._SY75_.jpg
+    title: Phenomenology of Spirit
+    title_without_series: Phenomenology of Spirit
+    uri: kca://book/amzn1.gr.book.v1.KVqi7qwdberck1XFdKdWeg
+    work:
+      id: '995802'
+  - authors:
+      author:
+        id: '7675'
+        link: https://www.goodreads.com/author/show/7675.Saul_A_Kripke
+        name: Saul A. Kripke
+    average_rating: '4.09'
+    id: '276249'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0674598466
+    isbn13: '9780674598461'
+    link: https://www.goodreads.com/book/show/276249.Naming_and_Necessity
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21168'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Naming and Necessity
+    title_without_series: Naming and Necessity
+    uri: kca://book/amzn1.gr.book.v1.vlr2iq_aUmPFlE0ymyHJFQ
+    work:
+      id: '267895'
+  - authors:
+      author:
+        id: '7676'
+        link: https://www.goodreads.com/author/show/7676.Ray_Monk
+        name: Ray Monk
+    average_rating: '4.09'
+    id: '12079'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0140159959
+    isbn13: '9780140159950'
+    link: https://www.goodreads.com/book/show/12079.Ludwig_Wittgenstein
+    num_pages: '704'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21168'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Ludwig Wittgenstein: The Duty of Genius'
+    title_without_series: 'Ludwig Wittgenstein: The Duty of Genius'
+    uri: kca://book/amzn1.gr.book.v1.EyFJK-0f5TcD4ehAxXOb0A
+    work:
+      id: '561357'
+  - authors:
+      author:
+        id: '36556'
+        link: https://www.goodreads.com/author/show/36556.Ren_Descartes
+        name: "Ren\xE9 Descartes"
+    average_rating: '4.09'
+    id: '31862'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405624402l/31862._SX98_.jpg
+    isbn: 0872204200
+    isbn13: '9780872204201'
+    link: https://www.goodreads.com/book/show/31862.Discourse_on_Method_and_Meditations_on_First_Philosophy
+    num_pages: '103'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21168'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405624402l/31862._SY75_.jpg
+    title: Discourse on Method and Meditations on First Philosophy
+    title_without_series: Discourse on Method and Meditations on First Philosophy
+    uri: kca://book/amzn1.gr.book.v1.SRQ1dd8_5cvIH-s1yYNYcw
+    work:
+      id: '2342366'
+  - authors:
+      author:
+        id: '122092'
+        link: https://www.goodreads.com/author/show/122092.Baruch_Spinoza
+        name: Baruch Spinoza
+    average_rating: '4.09'
+    id: '205218'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704216887l/205218._SX98_.jpg
+    isbn: 0140435719
+    isbn13: '9780140435719'
+    link: https://www.goodreads.com/book/show/205218.Ethics
+    num_pages: '186'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21168'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704216887l/205218._SY75_.jpg
+    title: Ethics
+    title_without_series: Ethics
+    uri: kca://book/amzn1.gr.book.v1.PHdQ2Qh4Spm-ZNry2_rK7A
+    work:
+      id: '1218789'
+  - authors:
+      author:
+        id: '11038'
+        link: https://www.goodreads.com/author/show/11038.Immanuel_Kant
+        name: Immanuel Kant
+    average_rating: '4.09'
+    id: '60080'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398209445l/60080._SX98_.jpg
+    isbn: 0521626951
+    isbn13: '9780521626958'
+    link: https://www.goodreads.com/book/show/60080.Groundwork_of_the_Metaphysics_of_Morals
+    num_pages: '120'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21168'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398209445l/60080._SY75_.jpg
+    title: Groundwork of the Metaphysics of Morals
+    title_without_series: Groundwork of the Metaphysics of Morals
+    uri: kca://book/amzn1.gr.book.v1.JIRYUFV3gGOrI-wDH8oX5Q
+    work:
+      id: '375997'
+  - authors:
+      author:
+        id: '11682'
+        link: https://www.goodreads.com/author/show/11682.Arthur_Schopenhauer
+        name: Arthur Schopenhauer
+    average_rating: '4.09'
+    id: '19506'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0486217612
+    isbn13: '9780486217611'
+    link: https://www.goodreads.com/book/show/19506.The_World_as_Will_and_Representation_Volume_I
+    num_pages: '534'
+    publication_day: '2'
+    publication_month: '1'
+    publication_year: '2000'
+    ratings_count: '21168'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The World as Will and Representation, Volume I
+    title_without_series: The World as Will and Representation, Volume I
+    uri: kca://book/amzn1.gr.book.v1.-LfJqflQhyzgBiaVmeZtGw
+    work:
+      id: '3212390'
+  - authors:
+      author:
+        id: '6172'
+        link: https://www.goodreads.com/author/show/6172.S_ren_Kierkegaard
+        name: "S\xF8ren Kierkegaard"
+    average_rating: '4.09'
+    id: '24965'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309286516l/24965._SX98_.jpg
+    isbn: 0143037579
+    isbn13: '9780143037576'
+    link: https://www.goodreads.com/book/show/24965.Fear_and_Trembling
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21168'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309286516l/24965._SY75_.jpg
+    title: Fear and Trembling
+    title_without_series: Fear and Trembling
+    uri: kca://book/amzn1.gr.book.v1.b-f9nRQ7XgW5_fomHw7Bdg
+    work:
+      id: '813445'
+  - authors:
+      author:
+        id: '1466'
+        link: https://www.goodreads.com/author/show/1466.Jean_Paul_Sartre
+        name: Jean-Paul Sartre
+    average_rating: '4.09'
+    id: '10033'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738688105l/10033._SX98_.jpg
+    isbn: 0415278481
+    isbn13: '9780415278485'
+    link: https://www.goodreads.com/book/show/10033.Being_and_Nothingness
+    num_pages: '688'
+    publication_day: '28'
+    publication_month: '8'
+    publication_year: '2003'
+    ratings_count: '21168'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738688105l/10033._SX50_.jpg
+    title: Being and Nothingness
+    title_without_series: Being and Nothingness
+    uri: kca://book/amzn1.gr.book.v1.m42M4aj_2uN0DXlBlfrh1A
+    work:
+      id: '973089'
+  - authors:
+      author:
+        id: '1938'
+        link: https://www.goodreads.com/author/show/1938.Friedrich_Nietzsche
+        name: Friedrich Nietzsche
+    average_rating: '4.09'
+    id: '2823'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429743385l/2823._SX98_.jpg
+    isbn: 0140433392
+    isbn13: '9780140433395'
+    link: https://www.goodreads.com/book/show/2823.The_Birth_of_Tragedy
+    num_pages: '121'
+    publication_day: '27'
+    publication_month: '11'
+    publication_year: '2003'
+    ratings_count: '21168'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429743385l/2823._SY75_.jpg
+    title: The Birth of Tragedy
+    title_without_series: The Birth of Tragedy
+    uri: kca://book/amzn1.gr.book.v1.lqjAOxodpEi02RBjYAXqYw
+    work:
+      id: '3036434'
+  - authors:
+      author:
+        id: '36556'
+        link: https://www.goodreads.com/author/show/36556.Ren_Descartes
+        name: "Ren\xE9 Descartes"
+    average_rating: '4.09'
+    id: '30658'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405624521l/30658._SX98_.jpg
+    isbn: 0872201929
+    isbn13: '9780872201927'
+    link: https://www.goodreads.com/book/show/30658.Meditations_on_First_Philosophy
+    num_pages: '59'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21168'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405624521l/30658._SY75_.jpg
+    title: Meditations on First Philosophy
+    title_without_series: Meditations on First Philosophy
+    uri: kca://book/amzn1.gr.book.v1._30tLwYLCFpyRzoaGNUJbg
+    work:
+      id: '6299110'
+  - authors:
+      author:
+        id: '1938'
+        link: https://www.goodreads.com/author/show/1938.Friedrich_Nietzsche
+        name: Friedrich Nietzsche
+    average_rating: '4.09'
+    id: '51893'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650680683l/51893._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/51893.Thus_Spoke_Zarathustra
+    num_pages: '327'
+    publication_day: '30'
+    publication_month: '3'
+    publication_year: '1978'
+    ratings_count: '21168'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650680683l/51893._SY75_.jpg
+    title: Thus Spoke Zarathustra
+    title_without_series: Thus Spoke Zarathustra
+    uri: kca://book/amzn1.gr.book.v1.ytTexeuscsF7K9Z410vNkA
+    work:
+      id: '196327'
+  - authors:
+      author:
+        id: '1938'
+        link: https://www.goodreads.com/author/show/1938.Friedrich_Nietzsche
+        name: Friedrich Nietzsche
+    average_rating: '4.09'
+    id: '80449'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 019283617X
+    isbn13: '9780192836175'
+    link: https://www.goodreads.com/book/show/80449.On_the_Genealogy_of_Morals
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21168'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: On the Genealogy of Morals
+    title_without_series: On the Genealogy of Morals
+    uri: kca://book/amzn1.gr.book.v1.aTf-DdKhGfq4Fo86N26otg
+    work:
+      id: '13751223'
+  - authors:
+      author:
+        id: '51746'
+        link: https://www.goodreads.com/author/show/51746.John_Locke
+        name: John Locke
+    average_rating: '4.09'
+    id: '90078'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416179522l/90078._SX98_.jpg
+    isbn: '1406790273'
+    isbn13: '9781406790276'
+    link: https://www.goodreads.com/book/show/90078.An_Essay_Concerning_Human_Understanding
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21168'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416179522l/90078._SY75_.jpg
+    title: An Essay Concerning Human Understanding
+    title_without_series: An Essay Concerning Human Understanding
+    uri: kca://book/amzn1.gr.book.v1.rfyB6PDXk-b_GeRlkg-Z8A
+    work:
+      id: '1689887'
+  - authors:
+      author:
+        id: '2192'
+        link: https://www.goodreads.com/author/show/2192.Aristotle
+        name: Aristotle
+    average_rating: '4.09'
+    id: '208036'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355049704l/208036._SX98_.jpg
+    isbn: '1888009039'
+    isbn13: '9781888009033'
+    link: https://www.goodreads.com/book/show/208036.Metaphysics
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21168'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355049704l/208036._SX50_.jpg
+    title: Metaphysics
+    title_without_series: Metaphysics
+    uri: kca://book/amzn1.gr.book.v1.CNuEWOAAls4xLTBiMAe-WA
+    work:
+      id: '2479557'
+  - authors:
+      author:
+        id: '11038'
+        link: https://www.goodreads.com/author/show/11038.Immanuel_Kant
+        name: Immanuel Kant
+    average_rating: '4.09'
+    id: '80324'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405624515l/80324._SX98_.jpg
+    isbn: 0872205932
+    isbn13: '9780872205932'
+    link: https://www.goodreads.com/book/show/80324.Prolegomena_to_Any_Future_Metaphysics
+    num_pages: null
+    publication_day: '1'
+    publication_month: '2'
+    publication_year: '2002'
+    ratings_count: '21168'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405624515l/80324._SY75_.jpg
+    title: Prolegomena to Any Future Metaphysics
+    title_without_series: Prolegomena to Any Future Metaphysics
+    uri: kca://book/amzn1.gr.book.v1.rNauMqYLZJBoSVn2yO4U9w
+    work:
+      id: '2648679'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '8'
+  '@type': integer
+title: Tractatus Logico-Philosophicus
+title_without_series: Tractatus Logico-Philosophicus
+uri: kca://book/amzn1.gr.book.v1.bNkYuh9R9yRatVBi4EyXnQ
+url: https://www.goodreads.com/book/show/988506.Tractatus_Logico_Philosophicus
+work:
+  id: '3157863'
+  uri: kca://work/amzn1.gr.work.v1.04O4fypF0nMADPdnuA1heA
