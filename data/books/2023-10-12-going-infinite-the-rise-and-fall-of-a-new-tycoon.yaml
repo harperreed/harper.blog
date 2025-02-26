@@ -1,0 +1,774 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.15'
+    id: '776'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1317447168p5/776.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/776.Michael_Lewis
+    name: Michael   Lewis
+    ratings_count: '862222'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1317447168p2/776.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '48656'
+average_rating: '3.82'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2023-10-12T00:00:00-07:00'
+description: "From the #1 best-selling author of The Big Short and Flash Boys , the\
+  \ story of FTX\u2019s spectacular collapse and the enigmatic founder at its center.<br\
+  \ />When Michael Lewis first met him, Sam Bankman-Fried was the world\u2019s youngest\
+  \ billionaire and crypto\u2019s Gatsby. CEOs, celebrities, and leaders of small\
+  \ countries all vied for his time and cash after he catapulted, practically overnight,\
+  \ onto the Forbes billionaire list. Who was this rumpled guy in cargo shorts and\
+  \ limp white socks, whose eyes twitched across Zoom meetings as he played video\
+  \ games on the side?<br />In Going Infinite Lewis sets out to answer this question,\
+  \ taking readers into the mind of Bankman-Fried, whose rise and fall offers an education\
+  \ in high-frequency trading, cryptocurrencies, philanthropy, bankruptcy, and the\
+  \ justice system. Both psychological portrait and financial roller-coaster ride,\
+  \ Going Infinite is Michael Lewis at the top of his game, tracing the mind-bending\
+  \ trajectory of a character who never liked the rules and was allowed to live by\
+  \ his own\u2014until it all came undone."
+edition_information: null
+format: null
+id: '156552773'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn: '1324074345'
+isbn13: '9781324074342'
+json: '{"id": "156552773", "isbn": "1324074345", "isbn13": "9781324074342", "text_reviews_count":
+  {"@type": "integer", "#text": "285"}, "uri": "kca://book/amzn1.gr.book.v3.o1nhxTEi50ekmJmJ",
+  "title": "Going Infinite: The Rise and Fall of a New Tycoon", "title_without_series":
+  "Going Infinite: The Rise and Fall of a New Tycoon", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/156552773-going-infinite",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.82", "ratings_count": "31416", "description": "From the #1 best-selling author
+  of The Big Short and Flash Boys , the story of FTX\u2019s spectacular collapse and
+  the enigmatic founder at its center.<br />When Michael Lewis first met him, Sam
+  Bankman-Fried was the world\u2019s youngest billionaire and crypto\u2019s Gatsby.
+  CEOs, celebrities, and leaders of small countries all vied for his time and cash
+  after he catapulted, practically overnight, onto the Forbes billionaire list. Who
+  was this rumpled guy in cargo shorts and limp white socks, whose eyes twitched across
+  Zoom meetings as he played video games on the side?<br />In Going Infinite Lewis
+  sets out to answer this question, taking readers into the mind of Bankman-Fried,
+  whose rise and fall offers an education in high-frequency trading, cryptocurrencies,
+  philanthropy, bankruptcy, and the justice system. Both psychological portrait and
+  financial roller-coaster ride, Going Infinite is Michael Lewis at the top of his
+  game, tracing the mind-bending trajectory of a character who never liked the rules
+  and was allowed to live by his own\u2014until it all came undone.", "authors": {"author":
+  {"id": "776", "name": "Michael   Lewis", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1317447168p5/776.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1317447168p2/776.jpg"},
+  "link": "https://www.goodreads.com/author/show/776.Michael_Lewis", "average_rating":
+  "4.15", "ratings_count": "862222", "text_reviews_count": "48656"}}, "published":
+  null, "work": {"id": "164040243", "uri": "kca://work/amzn1.gr.work.v3.RtzuOEvfU1wGHHhT"},
+  "review_rating": "4", "owned": "0", "review_url": "https://www.goodreads.com/review/show/5894214192",
+  "read_at": "Thu Oct 12 00:00:00 -0700 2023", "started_at": "Sat Oct 07 00:00:00
+  -0700 2023", "date": "Thu Oct 12 00:00:00 -0700 2023"}'
+kindle_asin: B0C5DNW987
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/156552773-going-infinite
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '29890'
+    '@name': to-read
+  - '@count': '3749'
+    '@name': currently-reading
+  - '@count': '448'
+    '@name': non-fiction
+  - '@count': '260'
+    '@name': business
+  - '@count': '224'
+    '@name': nonfiction
+  - '@count': '214'
+    '@name': biography
+  - '@count': '116'
+    '@name': finance
+  - '@count': '89'
+    '@name': audiobook
+  - '@count': '84'
+    '@name': economics
+  - '@count': '66'
+    '@name': history
+  - '@count': '55'
+    '@name': crime
+  - '@count': '50'
+    '@name': technology
+  - '@count': '44'
+    '@name': audible
+  - '@count': '40'
+    '@name': audiobooks
+  - '@count': '40'
+    '@name': owned
+  - '@count': '40'
+    '@name': true-crime
+  - '@count': '37'
+    '@name': library
+  - '@count': '34'
+    '@name': 2023-books
+  - '@count': '33'
+    '@name': biographies
+  - '@count': '32'
+    '@name': read-in-2024
+  - '@count': '28'
+    '@name': dnf
+  - '@count': '28'
+    '@name': kindle
+  - '@count': '27'
+    '@name': read-2024
+  - '@count': '27'
+    '@name': 2024-books
+  - '@count': '27'
+    '@name': read-in-2023
+  - '@count': '27'
+    '@name': crypto
+  - '@count': '26'
+    '@name': 2024-reads
+  - '@count': '26'
+    '@name': tech
+  - '@count': '21'
+    '@name': 2024-read
+  - '@count': '20'
+    '@name': book-club
+  - '@count': '20'
+    '@name': read-2023
+  - '@count': '19'
+    '@name': audio
+  - '@count': '17'
+    '@name': money
+  - '@count': '16'
+    '@name': ebook
+  - '@count': '16'
+    '@name': biography-memoir
+  - '@count': '15'
+    '@name': did-not-finish
+  - '@count': '15'
+    '@name': 2023-reads
+  - '@count': '15'
+    '@name': current-events
+  - '@count': '14'
+    '@name': 2023-read
+  - '@count': '13'
+    '@name': politics
+  - '@count': '12'
+    '@name': books-i-own
+  - '@count': '12'
+    '@name': to-buy
+  - '@count': '11'
+    '@name': abandoned
+  - '@count': '11'
+    '@name': investing
+  - '@count': '11'
+    '@name': wish-list
+  - '@count': '11'
+    '@name': memoir-biography
+  - '@count': '10'
+    '@name': business-economics
+  - '@count': '10'
+    '@name': memoir
+  - '@count': '9'
+    '@name': economics-finance
+  - '@count': '9'
+    '@name': biographical
+  - '@count': '9'
+    '@name': favorites
+  - '@count': '9'
+    '@name': journalism
+  - '@count': '9'
+    '@name': business-finance
+  - '@count': '9'
+    '@name': bio
+  - '@count': '8'
+    '@name': cryptocurrency
+  - '@count': '8'
+    '@name': non-fic
+  - '@count': '8'
+    '@name': business-history
+  - '@count': '8'
+    '@name': biographies-and-memoirs
+  - '@count': '8'
+    '@name': psychology
+  - '@count': '8'
+    '@name': tbr-nonfiction
+  - '@count': '8'
+    '@name': want-to-read-nonfiction
+  - '@count': '7'
+    '@name': bitcoin
+  - '@count': '7'
+    '@name': finished
+  - '@count': '7'
+    '@name': effective-altruism
+  - '@count': '7'
+    '@name': fraud
+  - '@count': '7'
+    '@name': adult
+  - '@count': '7'
+    '@name': audio-book
+  - '@count': '7'
+    '@name': entrepreneurship
+  - '@count': '7'
+    '@name': audio-books
+  - '@count': '7'
+    '@name': michael-lewis
+  - '@count': '7'
+    '@name': nonfic
+  - '@count': '7'
+    '@name': economy
+  - '@count': '6'
+    '@name': listened-to
+  - '@count': '6'
+    '@name': library-book
+  - '@count': '6'
+    '@name': 2023-books-read
+  - '@count': '6'
+    '@name': ebooks
+  - '@count': '6'
+    '@name': e-books
+  - '@count': '6'
+    '@name': society
+  - '@count': '6'
+    '@name': tbr-non-fiction
+  - '@count': '6'
+    '@name': business-books
+  - '@count': '6'
+    '@name': not-interested
+  - '@count': '5'
+    '@name': bookclub
+  - '@count': '5'
+    '@name': blockchain
+  - '@count': '5'
+    '@name': historical
+  - '@count': '5'
+    '@name': financial
+  - '@count': '5'
+    '@name': my-books
+  - '@count': '5'
+    '@name': listened
+  - '@count': '5'
+    '@name': maybe
+  - '@count': '5'
+    '@name': culture
+  - '@count': '5'
+    '@name': books-read-2023
+  - '@count': '5'
+    '@name': other-non-fiction
+  - '@count': '5'
+    '@name': my-library
+  - '@count': '5'
+    '@name': next
+  - '@count': '5'
+    '@name': 2024-reading-challenge
+  - '@count': '5'
+    '@name': kindle-books
+  - '@count': '5'
+    '@name': 2023-reading
+  - '@count': '5'
+    '@name': non-fiction-to-read
+  - '@count': '5'
+    '@name': 2023-releases
+  - '@count': '5'
+    '@name': current-affairs
+  - '@count': '4'
+    '@name': purchased
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '31416'
+read_at: '2023-10-12T00:00:00-07:00'
+review_rating: '4'
+review_url: https://www.goodreads.com/review/show/5894214192
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/156552773-going-infinite\"\
+  >Going Infinite Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1324074345&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/156552773-going-infinite?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '22001142'
+        link: https://www.goodreads.com/author/show/22001142.Zeke_Faux
+        name: Zeke Faux
+    average_rating: '3.82'
+    id: '123276708'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687140968l/123276708._SX98_.jpg
+    isbn: 0593443810
+    isbn13: '9780593443811'
+    link: https://www.goodreads.com/book/show/123276708-number-go-up
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687140968l/123276708._SY75_.jpg
+    title: 'Number Go Up: Inside Crypto''s Wild Rise and Staggering Fall'
+    title_without_series: 'Number Go Up: Inside Crypto''s Wild Rise and Staggering
+      Fall'
+    uri: kca://book/amzn1.gr.book.v3.L3cikZNJsKjTsNVg
+    work:
+      id: '145311112'
+  - authors:
+      author:
+        id: '7111'
+        link: https://www.goodreads.com/author/show/7111.Walter_Isaacson
+        name: Walter Isaacson
+    average_rating: '3.82'
+    id: '122765395'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692288251l/122765395._SX98_.jpg
+    isbn: '1982181281'
+    isbn13: '9781982181284'
+    link: https://www.goodreads.com/book/show/122765395-elon-musk
+    num_pages: '688'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692288251l/122765395._SY75_.jpg
+    title: Elon Musk
+    title_without_series: Elon Musk
+    uri: kca://book/amzn1.gr.book.v3.RQgSQ9kOmwXM-ILv
+    work:
+      id: '144038357'
+  - authors:
+      author:
+        id: '23794500'
+        link: https://www.goodreads.com/author/show/23794500.Rob_Copeland
+        name: Rob Copeland
+    average_rating: '3.82'
+    id: '77920694'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676846337l/77920694._SX98_.jpg
+    isbn: '1250276934'
+    isbn13: '9781250276933'
+    link: https://www.goodreads.com/book/show/77920694-the-fund
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676846337l/77920694._SY75_.jpg
+    title: 'The Fund: Ray Dalio, Bridgewater Associates, and the Unraveling of a Wall
+      Street Legend'
+    title_without_series: 'The Fund: Ray Dalio, Bridgewater Associates, and the Unraveling
+      of a Wall Street Legend'
+    uri: kca://book/amzn1.gr.book.v3.aV8NPZgJBkqjCsjh
+    work:
+      id: '103136985'
+  - authors:
+      author:
+        id: '3387859'
+        link: https://www.goodreads.com/author/show/3387859.Nate_Silver
+        name: Nate Silver
+    average_rating: '3.82'
+    id: '204236707'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1594204128'
+    isbn13: '9781594204128'
+    link: https://www.goodreads.com/book/show/204236707-on-the-edge
+    num_pages: '576'
+    publication_day: '13'
+    publication_month: '8'
+    publication_year: '2024'
+    ratings_count: '31416'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'On the Edge: The Art of Risking Everything'
+    title_without_series: 'On the Edge: The Art of Risking Everything'
+    uri: kca://book/amzn1.gr.book.v3.I0RAr5-ga1fMRaw8
+    work:
+      id: '210106024'
+  - authors:
+      author:
+        id: '2850'
+        link: https://www.goodreads.com/author/show/2850.Ben_Mezrich
+        name: Ben Mezrich
+    average_rating: '3.82'
+    id: '103487441'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1688422649l/103487441._SX98_.jpg
+    isbn: '1538707594'
+    isbn13: '9781538707593'
+    link: https://www.goodreads.com/book/show/103487441-breaking-twitter
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1688422649l/103487441._SX50_.jpg
+    title: 'Breaking Twitter: Elon Musk and the Most Controversial Corporate Takeover
+      in History'
+    title_without_series: 'Breaking Twitter: Elon Musk and the Most Controversial
+      Corporate Takeover in History'
+    uri: kca://book/amzn1.gr.book.v3.m-EjL47KY_dp5hDU
+    work:
+      id: '126812811'
+  - authors:
+      author:
+        id: '10070'
+        link: https://www.goodreads.com/author/show/10070.Chris_Miller
+        name: Chris   Miller
+    average_rating: '3.82'
+    id: '60321447'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662566820l/60321447._SX98_.jpg
+    isbn: '1982172002'
+    isbn13: '9781982172008'
+    link: https://www.goodreads.com/book/show/60321447-chip-war
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662566820l/60321447._SY75_.jpg
+    title: 'Chip War: The Fight for the World''s Most Critical Technology'
+    title_without_series: 'Chip War: The Fight for the World''s Most Critical Technology'
+    uri: kca://book/amzn1.gr.book.v3.-TtOVtI5RYKeyjzZ
+    work:
+      id: '95096793'
+  - authors:
+      author:
+        id: '1439'
+        link: https://www.goodreads.com/author/show/1439.Malcolm_Gladwell
+        name: Malcolm Gladwell
+    average_rating: '3.82'
+    id: '216857785'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1721984170l/216857785._SX98_.jpg
+    isbn: 0316575801
+    isbn13: '9780316575805'
+    link: https://www.goodreads.com/book/show/216857785-revenge-of-the-tipping-point
+    num_pages: null
+    publication_day: '1'
+    publication_month: '10'
+    publication_year: '2024'
+    ratings_count: '31416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1721984170l/216857785._SY75_.jpg
+    title: 'Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise
+      of Social Engineering'
+    title_without_series: 'Revenge of the Tipping Point: Overstories, Superspreaders,
+      and the Rise of Social Engineering'
+    uri: kca://book/amzn1.gr.book.v3.3auiPN01BSAcL8DD
+    work:
+      id: '220150700'
+  - authors:
+      author:
+        id: '118784'
+        link: https://www.goodreads.com/author/show/118784.Kara_Swisher
+        name: Kara Swisher
+    average_rating: '3.82'
+    id: '195791688'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691562956l/195791688._SX98_.jpg
+    isbn: '1982163895'
+    isbn13: '9781982163891'
+    link: https://www.goodreads.com/book/show/195791688-burn-book
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691562956l/195791688._SY75_.jpg
+    title: 'Burn Book: A Tech Love Story'
+    title_without_series: 'Burn Book: A Tech Love Story'
+    uri: kca://book/amzn1.gr.book.v3.AfepiEqJV1W_hSB7
+    work:
+      id: '197725600'
+  - authors:
+      author:
+        id: '21505727'
+        link: https://www.goodreads.com/author/show/21505727.Gary_Stevenson
+        name: Gary  Stevenson
+    average_rating: '3.82'
+    id: '188543465'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701893408l/188543465._SX98_.jpg
+    isbn: 0593727215
+    isbn13: '9780593727218'
+    link: https://www.goodreads.com/book/show/188543465-the-trading-game
+    num_pages: '352'
+    publication_day: '5'
+    publication_month: '3'
+    publication_year: '2024'
+    ratings_count: '31416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701893408l/188543465._SX50_.jpg
+    title: 'The Trading Game: A Confession'
+    title_without_series: 'The Trading Game: A Confession'
+    uri: kca://book/amzn1.gr.book.v3.lh38HFz8TNqqXIyN
+    work:
+      id: '191384004'
+  - authors:
+      author:
+        id: '7499284'
+        link: https://www.goodreads.com/author/show/7499284.Morgan_Housel
+        name: Morgan Housel
+    average_rating: '3.82'
+    id: '125116554'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: '9780593332702'
+    link: https://www.goodreads.com/book/show/125116554-same-as-ever
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31416'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Same as Ever: A Guide to What Never Changes'
+    title_without_series: 'Same as Ever: A Guide to What Never Changes'
+    uri: kca://book/amzn1.gr.book.v3.WVVWxkLw421nZpjo
+    work:
+      id: '146373396'
+  - authors:
+      author:
+        id: '1431785'
+        link: https://www.goodreads.com/author/show/1431785.David_Grann
+        name: David Grann
+    average_rating: '3.82'
+    id: '61714633'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659407155l/61714633._SX98_.jpg
+    isbn: 0385534264
+    isbn13: '9780385534260'
+    link: https://www.goodreads.com/book/show/61714633-the-wager
+    num_pages: '331'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659407155l/61714633._SY75_.jpg
+    title: 'The Wager: A Tale of Shipwreck, Mutiny and Murder'
+    title_without_series: 'The Wager: A Tale of Shipwreck, Mutiny and Murder'
+    uri: kca://book/amzn1.gr.book.v3.aiCWrhJSDZVKpFZN
+    work:
+      id: '97290386'
+  - authors:
+      author:
+        id: '5869'
+        link: https://www.goodreads.com/author/show/5869.Erik_Larson
+        name: Erik Larson
+    average_rating: '3.82'
+    id: '195608683'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697649165l/195608683._SX98_.jpg
+    isbn: 0385348746
+    isbn13: '9780385348744'
+    link: https://www.goodreads.com/book/show/195608683-the-demon-of-unrest
+    num_pages: '565'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697649165l/195608683._SY75_.jpg
+    title: 'The Demon of Unrest: A Saga of Hubris, Heartbreak, and Heroism at the
+      Dawn of the Civil War'
+    title_without_series: 'The Demon of Unrest: A Saga of Hubris, Heartbreak, and
+      Heroism at the Dawn of the Civil War'
+    uri: kca://book/amzn1.gr.book.v3.vEybJiayEfjhfcCA
+    work:
+      id: '197500960'
+  - authors:
+      author:
+        id: '6583155'
+        link: https://www.goodreads.com/author/show/6583155.Adam_M_Grant
+        name: Adam M. Grant
+    average_rating: '3.82'
+    id: '157095669'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689111352l/157095669._SX98_.jpg
+    isbn: 0593653149
+    isbn13: '9780593653142'
+    link: https://www.goodreads.com/book/show/157095669-hidden-potential
+    num_pages: '304'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689111352l/157095669._SY75_.jpg
+    title: 'Hidden Potential: The Science of Achieving Greater Things'
+    title_without_series: 'Hidden Potential: The Science of Achieving Greater Things'
+    uri: kca://book/amzn1.gr.book.v3.EZmcfdkd6ls4a3uV
+    work:
+      id: '170223349'
+  - authors:
+      author:
+        id: '14931560'
+        link: https://www.goodreads.com/author/show/14931560.Billy_Walters
+        name: Billy Walters
+    average_rating: '3.82'
+    id: '91239763'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686091929l/91239763._SX98_.jpg
+    isbn: '1668032856'
+    isbn13: '9781668032855'
+    link: https://www.goodreads.com/book/show/91239763-gambler
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686091929l/91239763._SY75_.jpg
+    title: 'Gambler: Secrets from a Life at Risk'
+    title_without_series: 'Gambler: Secrets from a Life at Risk'
+    uri: kca://book/amzn1.gr.book.v3.42ZS_F8XQ29_Y4K7
+    work:
+      id: '114289816'
+  - authors:
+      author:
+        id: '16663417'
+        link: https://www.goodreads.com/author/show/16663417.Mustafa_Suleyman
+        name: Mustafa Suleyman
+    average_rating: '3.82'
+    id: '90590134'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685351813l/90590134._SX98_.jpg
+    isbn: 0593593952
+    isbn13: '9780593593950'
+    link: https://www.goodreads.com/book/show/90590134-the-coming-wave
+    num_pages: '332'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685351813l/90590134._SY75_.jpg
+    title: 'The Coming Wave: Technology, Power, and the Twenty-first Century''s Greatest
+      Dilemma'
+    title_without_series: 'The Coming Wave: Technology, Power, and the Twenty-first
+      Century''s Greatest Dilemma'
+    uri: kca://book/amzn1.gr.book.v3.ejBRJdKAnjUBJIlE
+    work:
+      id: '114865406'
+  - authors:
+      author:
+        id: '6441949'
+        link: https://www.goodreads.com/author/show/6441949.Ben_McKenzie
+        name: Ben McKenzie
+    average_rating: '3.82'
+    id: '61783837'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686090161l/61783837._SX98_.jpg
+    isbn: '1419766392'
+    isbn13: '9781419766398'
+    link: https://www.goodreads.com/book/show/61783837-easy-money
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686090161l/61783837._SY75_.jpg
+    title: 'Easy Money: Cryptocurrency, Casino Capitalism, and the Golden Age of Fraud'
+    title_without_series: 'Easy Money: Cryptocurrency, Casino Capitalism, and the
+      Golden Age of Fraud'
+    uri: kca://book/amzn1.gr.book.v3.n0T0ZagXVKwn4VAk
+    work:
+      id: '97415641'
+  - authors:
+      author:
+        id: '22441808'
+        link: https://www.goodreads.com/author/show/22441808.Peter_Attia
+        name: Peter Attia
+    average_rating: '3.82'
+    id: '61153739'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700067079l/61153739._SX98_.jpg
+    isbn: 0593236599
+    isbn13: '9780593236598'
+    link: https://www.goodreads.com/book/show/61153739-outlive
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700067079l/61153739._SX50_.jpg
+    title: 'Outlive: The Science & Art of Longevity'
+    title_without_series: 'Outlive: The Science & Art of Longevity'
+    uri: kca://book/amzn1.gr.book.v3.WHwnb5o0foDKvnbm
+    work:
+      id: '96395290'
+  - authors:
+      author:
+        id: '188051'
+        link: https://www.goodreads.com/author/show/188051.Alan_Shipnuck
+        name: Alan Shipnuck
+    average_rating: '3.82'
+    id: '125363222'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680730742l/125363222._SX98_.jpg
+    isbn: '1668020033'
+    isbn13: '9781668020036'
+    link: https://www.goodreads.com/book/show/125363222-liv-and-let-die
+    num_pages: '336'
+    publication_day: '17'
+    publication_month: '10'
+    publication_year: '2023'
+    ratings_count: '31416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680730742l/125363222._SY75_.jpg
+    title: 'LIV and Let Die: The Inside Story of the War Between the PGA Tour and
+      LIV Golf'
+    title_without_series: 'LIV and Let Die: The Inside Story of the War Between the
+      PGA Tour and LIV Golf'
+    uri: kca://book/amzn1.gr.book.v3.QCatAONsDAWDCpBj
+    work:
+      id: '146813795'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: '2023-10-07T00:00:00-07:00'
+text_reviews_count:
+  '#text': '285'
+  '@type': integer
+title: 'Going Infinite: The Rise and Fall of a New Tycoon'
+title_without_series: 'Going Infinite: The Rise and Fall of a New Tycoon'
+uri: kca://book/amzn1.gr.book.v3.o1nhxTEi50ekmJmJ
+url: https://www.goodreads.com/book/show/156552773-going-infinite
+work:
+  id: '164040243'
+  uri: kca://work/amzn1.gr.work.v3.RtzuOEvfU1wGHHhT

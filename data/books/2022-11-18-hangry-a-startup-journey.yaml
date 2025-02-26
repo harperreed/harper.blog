@@ -1,0 +1,749 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.32'
+    id: '22434368'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1652976634p5/22434368.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/22434368.Mike_Evans
+    name: Mike           Evans
+    ratings_count: '486'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1652976634p2/22434368.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '54'
+average_rating: '4.32'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2022-11-18T00:00:00-08:00'
+description: null
+edition_information: null
+format: null
+id: '63184265'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn: 0306925559
+isbn13: '9780306925559'
+json: '{"id": "63184265", "isbn": "0306925559", "isbn13": "9780306925559", "text_reviews_count":
+  {"@type": "integer", "#text": "3"}, "uri": "kca://book/amzn1.gr.book.v3.7uG_RfO4pssEWn5s",
+  "title": "Hangry: A Startup Journey", "title_without_series": "Hangry: A Startup
+  Journey", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/63184265-hangry",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "4.32", "ratings_count": "489", "description": null, "authors": {"author": {"id":
+  "22434368", "name": "Mike           Evans", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1652976634p5/22434368.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1652976634p2/22434368.jpg"},
+  "link": "https://www.goodreads.com/author/show/22434368.Mike_Evans", "average_rating":
+  "4.32", "ratings_count": "486", "text_reviews_count": "54"}}, "published": null,
+  "work": {"id": "94762987", "uri": "kca://work/amzn1.gr.work.v3.JXiFGrD-f1R_IsUM"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/5112768097",
+  "read_at": "Fri Nov 18 00:00:00 -0800 2022", "started_at": "Fri Nov 18 00:00:00
+  -0800 2022", "date": "Fri Nov 18 00:00:00 -0800 2022"}'
+kindle_asin: B09Y5GDMMR
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/63184265-hangry
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '1148'
+    '@name': to-read
+  - '@count': '60'
+    '@name': currently-reading
+  - '@count': '20'
+    '@name': business
+  - '@count': '12'
+    '@name': non-fiction
+  - '@count': '9'
+    '@name': startup
+  - '@count': '6'
+    '@name': memoir
+  - '@count': '5'
+    '@name': nonfiction
+  - '@count': '4'
+    '@name': biography
+  - '@count': '3'
+    '@name': start-up
+  - '@count': '3'
+    '@name': entrepreneur
+  - '@count': '3'
+    '@name': audiobook
+  - '@count': '3'
+    '@name': audio
+  - '@count': '3'
+    '@name': audiobooks
+  - '@count': '2'
+    '@name': technology
+  - '@count': '2'
+    '@name': entrepreneurship
+  - '@count': '2'
+    '@name': startups
+  - '@count': '2'
+    '@name': memoirs
+  - '@count': '2'
+    '@name': to-buy
+  - '@count': '2'
+    '@name': want-to-read-business
+  - '@count': '2'
+    '@name': tech
+  - '@count': '2'
+    '@name': investing
+  - '@count': '2'
+    '@name': management
+  - '@count': '2'
+    '@name': history
+  - '@count': '2'
+    '@name': business-books
+  - '@count': '2'
+    '@name': business-biographies
+  - '@count': '1'
+    '@name': business-history
+  - '@count': '1'
+    '@name': venture-capital-ii-startups
+  - '@count': '1'
+    '@name': professional-development
+  - '@count': '1'
+    '@name': didn-t-finish
+  - '@count': '1'
+    '@name': bought-not-read
+  - '@count': '1'
+    '@name': self-mba-digital-temp-2
+  - '@count': '1'
+    '@name': info
+  - '@count': '1'
+    '@name': read-in-2024
+  - '@count': '1'
+    '@name': choice-selection
+  - '@count': '1'
+    '@name': non-fiction-food
+  - '@count': '1'
+    '@name': library-audiobooks-accelerated
+  - '@count': '1'
+    '@name': business-management
+  - '@count': '1'
+    '@name': bios
+  - '@count': '1'
+    '@name': got-audiobook
+  - '@count': '1'
+    '@name': libby
+  - '@count': '1'
+    '@name': 2024-books
+  - '@count': '1'
+    '@name': currently-reading-ebook
+  - '@count': '1'
+    '@name': 2nd-to-read-shelf
+  - '@count': '1'
+    '@name': 2024-audio
+  - '@count': '1'
+    '@name': 2024-reads
+  - '@count': '1'
+    '@name': 2023-reads
+  - '@count': '1'
+    '@name': chaotic-good-background
+  - '@count': '1'
+    '@name': kindle-shelf
+  - '@count': '1'
+    '@name': bought-yet-to-read
+  - '@count': '1'
+    '@name': negocio
+  - '@count': '1'
+    '@name': memoir-inspiration
+  - '@count': '1'
+    '@name': listened
+  - '@count': '1'
+    '@name': paperback
+  - '@count': '1'
+    '@name': owned
+  - '@count': '1'
+    '@name': physical-tbr
+  - '@count': '1'
+    '@name': start
+  - '@count': '1'
+    '@name': 2023-nonfiction
+  - '@count': '1'
+    '@name': autobiographies-memoirs
+  - '@count': '1'
+    '@name': society-is-trash
+  - '@count': '1'
+    '@name': online
+  - '@count': '1'
+    '@name': money-money-money
+  - '@count': '1'
+    '@name': want-to-read-can-t-find-audio-book
+  - '@count': '1'
+    '@name': read-2023
+  - '@count': '1'
+    '@name': 2023-h2-reading-list
+  - '@count': '1'
+    '@name': read-someday-maybe
+  - '@count': '1'
+    '@name': practical_business
+  - '@count': '1'
+    '@name': road-trip
+  - '@count': '1'
+    '@name': experience
+  - '@count': '1'
+    '@name': advice
+  - '@count': '1'
+    '@name': business-related
+  - '@count': '1'
+    '@name': adultnf
+  - '@count': '1'
+    '@name': 1-memoir
+  - '@count': '1'
+    '@name': memoir-entrepreneur
+  - '@count': '1'
+    '@name': venture-capital
+  - '@count': '1'
+    '@name': business-case-study
+  - '@count': '1'
+    '@name': nf-technology
+  - '@count': '1'
+    '@name': reading-next
+  - '@count': '1'
+    '@name': biographies
+  - '@count': '1'
+    '@name': novels
+  - '@count': '1'
+    '@name': kth-innovation
+  - '@count': '1'
+    '@name': science-and-technology
+  - '@count': '1'
+    '@name': business-and-economics
+  - '@count': '1'
+    '@name': author-male
+  - '@count': '1'
+    '@name': read-in-2023
+  - '@count': '1'
+    '@name': wish-list
+  - '@count': '1'
+    '@name': the-design-shelf
+  - '@count': '1'
+    '@name': nonfiction-date-recent-since-2018
+  - '@count': '1'
+    '@name': nonf-self-help-business
+  - '@count': '1'
+    '@name': books-with-less-than-300-reviews
+  - '@count': '1'
+    '@name': books-to-come-2021-2023
+  - '@count': '1'
+    '@name': books-tangible
+  - '@count': '1'
+    '@name': bios-contemporary
+  - '@count': '1'
+    '@name': authors-white-cishet-dude
+  - '@count': '1'
+    '@name': lapl
+  - '@count': '1'
+    '@name': econ-business
+  - '@count': '1'
+    '@name': dnf
+  - '@count': '1'
+    '@name': business-finance-investing
+  - '@count': '1'
+    '@name': biography-memoir
+  - '@count': '1'
+    '@name': inspo_biz-life
+  - '@count': '1'
+    '@name': consider
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '489'
+read_at: '2022-11-18T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/5112768097
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/63184265-hangry\"\
+  >Hangry Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0306925559&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/63184265-hangry?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '19308393'
+        link: https://www.goodreads.com/author/show/19308393.Joe_Coulombe
+        name: Joe Coulombe
+    average_rating: '4.32'
+    id: '55918690'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619543879l/55918690._SX98_.jpg
+    isbn: '1400225434'
+    isbn13: '9781400225439'
+    link: https://www.goodreads.com/book/show/55918690-becoming-trader-joe
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '489'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619543879l/55918690._SY75_.jpg
+    title: 'Becoming Trader Joe: How I Did Business My Way and Still Beat the Big
+      Guys'
+    title_without_series: 'Becoming Trader Joe: How I Did Business My Way and Still
+      Beat the Big Guys'
+    uri: kca://book/amzn1.gr.book.v3.DdEjP0axgLSi0yBH
+    work:
+      id: '87129918'
+  - authors:
+      author:
+        id: '18965880'
+        link: https://www.goodreads.com/author/show/18965880.Marc_Randolph
+        name: Marc Randolph
+    average_rating: '4.32'
+    id: '44428950'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565067558l/44428950._SX98_.jpg
+    isbn: '0316530204'
+    isbn13: '9780316530200'
+    link: https://www.goodreads.com/book/show/44428950-that-will-never-work
+    num_pages: '336'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '489'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565067558l/44428950._SY75_.jpg
+    title: 'That Will Never Work: The Birth of Netflix and the Amazing Life of an
+      Idea'
+    title_without_series: 'That Will Never Work: The Birth of Netflix and the Amazing
+      Life of an Idea'
+    uri: kca://book/amzn1.gr.book.v1.NnPKs4LKaY7GrEUQ_ZS9rQ
+    work:
+      id: '68990501'
+  - authors:
+      author:
+        id: '50851266'
+        link: https://www.goodreads.com/author/show/50851266.Andrew_Wilkinson
+        name: Andrew  Wilkinson
+    average_rating: '4.32'
+    id: '199348906'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699912269l/199348906._SX98_.jpg
+    isbn: '1637744765'
+    isbn13: '9781637744765'
+    link: https://www.goodreads.com/book/show/199348906-never-enough
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '489'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699912269l/199348906._SY75_.jpg
+    title: 'Never Enough: From Barista to Billionaire'
+    title_without_series: 'Never Enough: From Barista to Billionaire'
+    uri: kca://book/amzn1.gr.book.v3.4I2TgE7ba7_qGlC3
+    work:
+      id: '203776411'
+  - authors:
+      author:
+        id: '3012680'
+        link: https://www.goodreads.com/author/show/3012680.Leigh_Gallagher
+        name: Leigh Gallagher
+    average_rating: '4.32'
+    id: '32198220'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474820240l/32198220._SX98_.jpg
+    isbn: 0544952669
+    isbn13: '9780544952669'
+    link: https://www.goodreads.com/book/show/32198220-the-airbnb-story
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '489'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474820240l/32198220._SY75_.jpg
+    title: 'The Airbnb Story: How Three Ordinary Guys Disrupted an Industry, Made
+      Billions . . . and Created Plenty of Controversy'
+    title_without_series: 'The Airbnb Story: How Three Ordinary Guys Disrupted an
+      Industry, Made Billions . . . and Created Plenty of Controversy'
+    uri: kca://book/amzn1.gr.book.v1.PMlKT11UjGz8XkY8cjHiGA
+    work:
+      id: '52841427'
+  - authors:
+      author:
+        id: '19830513'
+        link: https://www.goodreads.com/author/show/19830513.Nathan_Vardi
+        name: Nathan Vardi
+    average_rating: '4.32'
+    id: '61089442'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668324920l/61089442._SX98_.jpg
+    isbn: 0393540952
+    isbn13: '9780393540956'
+    link: https://www.goodreads.com/book/show/61089442-for-blood-and-money
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '489'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668324920l/61089442._SY75_.jpg
+    title: 'For Blood and Money: Billionaires, Biotech, and the Quest for a Blockbuster
+      Drug'
+    title_without_series: 'For Blood and Money: Billionaires, Biotech, and the Quest
+      for a Blockbuster Drug'
+    uri: kca://book/amzn1.gr.book.v3.oaP9sCbst_ikMAJo
+    work:
+      id: '96285423'
+  - authors:
+      author:
+        id: '52595687'
+        link: https://www.goodreads.com/author/show/52595687.Tae_Kim
+        name: Tae   Kim
+    average_rating: '4.32'
+    id: '218319936'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1324086726'
+    isbn13: '9781324086727'
+    link: https://www.goodreads.com/book/show/218319936-the-nvidia-way
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '489'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Nvidia Way: Jensen Huang and the Making of a Tech Giant'
+    title_without_series: 'The Nvidia Way: Jensen Huang and the Making of a Tech Giant'
+    uri: kca://book/amzn1.gr.book.v3.j8j3bAvkXJH8nGtc
+    work:
+      id: '224878108'
+  - authors:
+      author:
+        id: '22368981'
+        link: https://www.goodreads.com/author/show/22368981.Andy_Dunn
+        name: Andy     Dunn
+    average_rating: '4.32'
+    id: '58784468'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648412578l/58784468._SX98_.jpg
+    isbn: 0593238265
+    isbn13: '9780593238264'
+    link: https://www.goodreads.com/book/show/58784468-burn-rate
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '489'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648412578l/58784468._SY75_.jpg
+    title: 'Burn Rate: Launching a Startup and Losing My Mind'
+    title_without_series: 'Burn Rate: Launching a Startup and Losing My Mind'
+    uri: kca://book/amzn1.gr.book.v3.tHcY2blxbX2AMvgv
+    work:
+      id: '92562015'
+  - authors:
+      author:
+        id: '50019'
+        link: https://www.goodreads.com/author/show/50019.Sebastian_Mallaby
+        name: Sebastian Mallaby
+    average_rating: '4.32'
+    id: '58009109'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624825190l/58009109._SX98_.jpg
+    isbn: 052555999X
+    isbn13: '9780525559993'
+    link: https://www.goodreads.com/book/show/58009109-the-power-law
+    num_pages: '496'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '489'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624825190l/58009109._SY75_.jpg
+    title: 'The Power Law: Venture Capital and the Making of the New Future'
+    title_without_series: 'The Power Law: Venture Capital and the Making of the New
+      Future'
+    uri: kca://book/amzn1.gr.book.v3.cWJ81jBpyLfNoAZ2
+    work:
+      id: '90903302'
+  - authors:
+      author:
+        id: '7074667'
+        link: https://www.goodreads.com/author/show/7074667.Andrew_Chen
+        name: Andrew Chen
+    average_rating: '4.32'
+    id: '55338968'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627895516l/55338968._SX98_.jpg
+    isbn: 0062969749
+    isbn13: '9780062969743'
+    link: https://www.goodreads.com/book/show/55338968-the-cold-start-problem
+    num_pages: '386'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '489'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627895516l/55338968._SY75_.jpg
+    title: 'The Cold Start Problem: How to Start and Scale Network Effects'
+    title_without_series: 'The Cold Start Problem: How to Start and Scale Network
+      Effects'
+    uri: kca://book/amzn1.gr.book.v3.cqhAASGSoNXDg6ZU
+    work:
+      id: '86301069'
+  - authors:
+      author:
+        id: '278000'
+        link: https://www.goodreads.com/author/show/278000.Ray_Kroc
+        name: Ray Kroc
+    average_rating: '4.32'
+    id: '498886'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379150499l/498886._SY160_.jpg
+    isbn: 0312929870
+    isbn13: '9780312929879'
+    link: https://www.goodreads.com/book/show/498886.Grinding_It_Out
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '489'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379150499l/498886._SY75_.jpg
+    title: 'Grinding It Out: The Making of McDonald''s'
+    title_without_series: 'Grinding It Out: The Making of McDonald''s'
+    uri: kca://book/amzn1.gr.book.v1.OZy5-CxllCVwQ4xyjWFwKQ
+    work:
+      id: '487021'
+  - authors:
+      author:
+        id: '776'
+        link: https://www.goodreads.com/author/show/776.Michael_Lewis
+        name: Michael   Lewis
+    average_rating: '4.32'
+    id: '149105520'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684247487l/149105520._SX98_.jpg
+    isbn: '1324074337'
+    isbn13: '9781324074335'
+    link: https://www.goodreads.com/book/show/149105520-going-infinite
+    num_pages: '272'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '489'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684247487l/149105520._SY75_.jpg
+    title: 'Going Infinite: The Rise and Fall of a New Tycoon'
+    title_without_series: 'Going Infinite: The Rise and Fall of a New Tycoon'
+    uri: kca://book/amzn1.gr.book.v3.6fHildHRhYtltkJC
+    work:
+      id: '164040243'
+  - authors:
+      author:
+        id: '19284946'
+        link: https://www.goodreads.com/author/show/19284946.Sarah_Frier
+        name: Sarah Frier
+    average_rating: '4.32'
+    id: '50772888'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1982126809'
+    isbn13: '9781982126803'
+    link: https://www.goodreads.com/book/show/50772888-no-filter
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '489'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'No Filter: The Inside Story of Instagram'
+    title_without_series: 'No Filter: The Inside Story of Instagram'
+    uri: kca://book/amzn1.gr.book.v3.laD2sLIECaaufIRn
+    work:
+      id: '71431858'
+  - authors:
+      author:
+        id: '118784'
+        link: https://www.goodreads.com/author/show/118784.Kara_Swisher
+        name: Kara Swisher
+    average_rating: '4.32'
+    id: '195791688'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691562956l/195791688._SX98_.jpg
+    isbn: '1982163895'
+    isbn13: '9781982163891'
+    link: https://www.goodreads.com/book/show/195791688-burn-book
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '489'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691562956l/195791688._SY75_.jpg
+    title: 'Burn Book: A Tech Love Story'
+    title_without_series: 'Burn Book: A Tech Love Story'
+    uri: kca://book/amzn1.gr.book.v3.AfepiEqJV1W_hSB7
+    work:
+      id: '197725600'
+  - authors:
+      author:
+        id: '6759438'
+        link: https://www.goodreads.com/author/show/6759438.Fei_Fei_Li
+        name: Fei-Fei Li
+    average_rating: '4.32'
+    id: '144405196'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/144405196-the-worlds-i-see
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '489'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of
+      AI'
+    title_without_series: 'The Worlds I See: Curiosity, Exploration, and Discovery
+      at the Dawn of AI'
+    uri: kca://book/amzn1.gr.book.v3.wKX9Oe3zYmLQ4vA4
+    work:
+      id: '100096847'
+  - authors:
+      author:
+        id: '1791'
+        link: https://www.goodreads.com/author/show/1791.Seth_Godin
+        name: Seth Godin
+    average_rating: '4.32'
+    id: '213458886'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731088404l/213458886._SX98_.jpg
+    isbn: null
+    isbn13: '9798893310160'
+    link: https://www.goodreads.com/book/show/213458886-this-is-strategy
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '489'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731088404l/213458886._SX50_.jpg
+    title: 'This Is Strategy: Make Better Plans (Create a Strategy to Elevate Your
+      Career, Community & Life)'
+    title_without_series: 'This Is Strategy: Make Better Plans'
+    uri: kca://book/amzn1.gr.book.v3.1eWaDvaKMQ2Q9WOn
+    work:
+      id: '219702421'
+  - authors:
+      author:
+        id: '5770119'
+        link: https://www.goodreads.com/author/show/5770119.Parmy_Olson
+        name: Parmy Olson
+    average_rating: '4.32'
+    id: '199809440'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711570682l/199809440._SX98_.jpg
+    isbn: '1250337747'
+    isbn13: '9781250337740'
+    link: https://www.goodreads.com/book/show/199809440-supremacy
+    num_pages: '336'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '489'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711570682l/199809440._SY75_.jpg
+    title: 'Supremacy: AI, ChatGPT, and the Race that Will Change the World'
+    title_without_series: 'Supremacy: AI, ChatGPT, and the Race that Will Change the
+      World'
+    uri: kca://book/amzn1.gr.book.v3.lKNpRtb0B7Golxwm
+    work:
+      id: '204384595'
+  - authors:
+      author:
+        id: '3387859'
+        link: https://www.goodreads.com/author/show/3387859.Nate_Silver
+        name: Nate Silver
+    average_rating: '4.32'
+    id: '204236707'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1594204128'
+    isbn13: '9781594204128'
+    link: https://www.goodreads.com/book/show/204236707-on-the-edge
+    num_pages: '576'
+    publication_day: '13'
+    publication_month: '8'
+    publication_year: '2024'
+    ratings_count: '489'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'On the Edge: The Art of Risking Everything'
+    title_without_series: 'On the Edge: The Art of Risking Everything'
+    uri: kca://book/amzn1.gr.book.v3.I0RAr5-ga1fMRaw8
+    work:
+      id: '210106024'
+  - authors:
+      author:
+        id: '23055869'
+        link: https://www.goodreads.com/author/show/23055869.Elizabeth_Joy_Zalman
+        name: Elizabeth Joy Zalman
+    average_rating: '4.32'
+    id: '63354476'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684689474l/63354476._SX98_.jpg
+    isbn: '1400242762'
+    isbn13: '9781400242764'
+    link: https://www.goodreads.com/book/show/63354476-founder-vs-investor
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '489'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684689474l/63354476._SY75_.jpg
+    title: 'Founder vs Investor: The Honest Truth About Venture Capital from Startup
+      to IPO'
+    title_without_series: 'Founder vs Investor: The Honest Truth About Venture Capital
+      from Startup to IPO'
+    uri: kca://book/amzn1.gr.book.v3._3NPDVEcqvzN1OzB
+    work:
+      id: '99297322'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: '2022-11-18T00:00:00-08:00'
+text_reviews_count:
+  '#text': '3'
+  '@type': integer
+title: 'Hangry: A Startup Journey'
+title_without_series: 'Hangry: A Startup Journey'
+uri: kca://book/amzn1.gr.book.v3.7uG_RfO4pssEWn5s
+url: https://www.goodreads.com/book/show/63184265-hangry
+work:
+  id: '94762987'
+  uri: kca://work/amzn1.gr.work.v3.JXiFGrD-f1R_IsUM

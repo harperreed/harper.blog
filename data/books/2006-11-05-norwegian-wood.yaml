@@ -1,0 +1,753 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.94'
+    id: '3354'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1615497402p5/3354.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/3354.Haruki_Murakami
+    name: Haruki Murakami
+    ratings_count: '3943151'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1615497402p2/3354.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '330337'
+average_rating: '4.00'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: "Toru, a quiet and preternaturally serious young college student in Tokyo,\
+  \ is devoted to Naoko, a beautiful and introspective young woman, but their mutual\
+  \ passion is marked by the tragic death of their best friend years before.\_Toru\
+  \ begins to adapt to campus life and the loneliness and isolation he faces there,\
+  \ but Naoko finds the pressures and responsibilities of life unbearable. As she\
+  \ retreats further into her own world, Toru finds himself reaching out to others\
+  \ and drawn to a fiercely independent and sexually liberated young woman. <br /><br\
+  \ />A magnificent blending of the music, the mood, and the ethos that was the sixties\
+  \ with the story of one college student's romantic coming of age, <i>Norwegian Wood</i>\
+  \ brilliantly recaptures a young man's first, hopeless, and heroic love."
+edition_information: First Edition
+format: null
+id: '11297'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1713542603l/11297._SX98_.jpg
+is_ebook: 'false'
+isbn: '0375704027'
+isbn13: '9780375704024'
+json: '{"id": "11297", "isbn": "0375704027", "isbn13": "9780375704024", "text_reviews_count":
+  {"@type": "integer", "#text": "34197"}, "uri": "kca://book/amzn1.gr.book.v1.AlP6ID8bNidEco9FBwNaNA",
+  "title": "Norwegian Wood", "title_without_series": "Norwegian Wood", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1713542603l/11297._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1713542603l/11297._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/11297.Norwegian_Wood",
+  "num_pages": "296", "format": null, "edition_information": "First Edition", "publisher":
+  "Vintage Books", "publication_day": "12", "publication_year": "2000", "publication_month":
+  "9", "average_rating": "4.00", "ratings_count": "669134", "description": "Toru,
+  a quiet and preternaturally serious young college student in Tokyo, is devoted to
+  Naoko, a beautiful and introspective young woman, but their mutual passion is marked
+  by the tragic death of their best friend years before.\u00a0Toru begins to adapt
+  to campus life and the loneliness and isolation he faces there, but Naoko finds
+  the pressures and responsibilities of life unbearable. As she retreats further into
+  her own world, Toru finds himself reaching out to others and drawn to a fiercely
+  independent and sexually liberated young woman. <br /><br />A magnificent blending
+  of the music, the mood, and the ethos that was the sixties with the story of one
+  college student''s romantic coming of age, <i>Norwegian Wood</i> brilliantly recaptures
+  a young man''s first, hopeless, and heroic love.", "authors": {"author": {"id":
+  "3354", "name": "Haruki Murakami", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1615497402p5/3354.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1615497402p2/3354.jpg"},
+  "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami", "average_rating":
+  "3.94", "ratings_count": "3943151", "text_reviews_count": "330337"}}, "published":
+  "2000", "work": {"id": "2956680", "uri": "kca://work/amzn1.gr.work.v1.3EVbzGfvXUWo3YZcXtQLMw"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417554",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B003XT603Q
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/11297.Norwegian_Wood
+marketplace_id: ATVPDKIKX0DER
+num_pages: '296'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '557756'
+    '@name': to-read
+  - '@count': '35257'
+    '@name': currently-reading
+  - '@count': '8669'
+    '@name': fiction
+  - '@count': '2610'
+    '@name': owned
+  - '@count': '2407'
+    '@name': romance
+  - '@count': '2324'
+    '@name': japan
+  - '@count': '1859'
+    '@name': japanese
+  - '@count': '1525'
+    '@name': japanese-literature
+  - '@count': '1505'
+    '@name': books-i-own
+  - '@count': '1380'
+    '@name': favourites
+  - '@count': '1298'
+    '@name': murakami
+  - '@count': '1289'
+    '@name': physical-tbr
+  - '@count': '1084'
+    '@name': classics
+  - '@count': '939'
+    '@name': novels
+  - '@count': '867'
+    '@name': literary-fiction
+  - '@count': '854'
+    '@name': japanese-lit
+  - '@count': '849'
+    '@name': dnf
+  - '@count': '816'
+    '@name': haruki-murakami
+  - '@count': '781'
+    '@name': tbr
+  - '@count': '765'
+    '@name': literature
+  - '@count': '614'
+    '@name': magical-realism
+  - '@count': '612'
+    '@name': novel
+  - '@count': '608'
+    '@name': translated
+  - '@count': '552'
+    '@name': to-buy
+  - '@count': '484'
+    '@name': owned-books
+  - '@count': '482'
+    '@name': asia
+  - '@count': '465'
+    '@name': library
+  - '@count': '464'
+    '@name': book-club
+  - '@count': '449'
+    '@name': kindle
+  - '@count': '418'
+    '@name': asian-literature
+  - '@count': '395'
+    '@name': contemporary-fiction
+  - '@count': '385'
+    '@name': coming-of-age
+  - '@count': '374'
+    '@name': asian
+  - '@count': '366'
+    '@name': bookshelf
+  - '@count': '344'
+    '@name': my-library
+  - '@count': '343'
+    '@name': audiobook
+  - '@count': '338'
+    '@name': adult
+  - '@count': '313'
+    '@name': favs
+  - '@count': '311'
+    '@name': asian-lit
+  - '@count': '283'
+    '@name': favorites
+  - '@count': '280'
+    '@name': on-my-shelf
+  - '@count': '261'
+    '@name': my-books
+  - '@count': '245'
+    '@name': abandoned
+  - '@count': '245'
+    '@name': ebook
+  - '@count': '234'
+    '@name': did-not-finish
+  - '@count': '232'
+    '@name': drama
+  - '@count': '231'
+    '@name': 20th-century
+  - '@count': '229'
+    '@name': english
+  - '@count': '226'
+    '@name': want-to-buy
+  - '@count': '221'
+    '@name': literary
+  - '@count': '220'
+    '@name': favoritos
+  - '@count': '219'
+    '@name': audiobooks
+  - '@count': '219'
+    '@name': japanese-fiction
+  - '@count': '217'
+    '@name': my-bookshelf
+  - '@count': '216'
+    '@name': narrativa
+  - '@count': '215'
+    '@name': adult-fiction
+  - '@count': '214'
+    '@name': books
+  - '@count': '208'
+    '@name': japanese-authors
+  - '@count': '199'
+    '@name': general-fiction
+  - '@count': '195'
+    '@name': faves
+  - '@count': '193'
+    '@name': mental-health
+  - '@count': '186'
+    '@name': 5-stars
+  - '@count': '178'
+    '@name': favorite
+  - '@count': '176'
+    '@name': love
+  - '@count': '172'
+    '@name': translation
+  - '@count': '171'
+    '@name': owned-tbr
+  - '@count': '171'
+    '@name': on-hold
+  - '@count': '169'
+    '@name': classic
+  - '@count': '162'
+    '@name': novela
+  - '@count': '161'
+    '@name': letteratura-giapponese
+  - '@count': '159'
+    '@name': bought
+  - '@count': '158'
+    '@name': asian-authors
+  - '@count': '155'
+    '@name': home-library
+  - '@count': '155'
+    '@name': i-own
+  - '@count': '148'
+    '@name': wish-list
+  - '@count': '144'
+    '@name': giappone
+  - '@count': '143'
+    '@name': all-time-favorites
+  - '@count': '141'
+    '@name': favorite-books
+  - '@count': '139'
+    '@name': in-translation
+  - '@count': '138'
+    '@name': on-my-bookshelf
+  - '@count': '136'
+    '@name': re-read
+  - '@count': '133'
+    '@name': 100-books-bucket-list
+  - '@count': '133'
+    '@name': favourite
+  - '@count': '133'
+    '@name': bookclub
+  - '@count': '132'
+    '@name': young-adult
+  - '@count': '131'
+    '@name': read-in-2022
+  - '@count': '131'
+    '@name': ebooks
+  - '@count': '130'
+    '@name': read-in-2021
+  - '@count': '130'
+    '@name': read-in-english
+  - '@count': '129'
+    '@name': to-be-read
+  - '@count': '129'
+    '@name': historical-fiction
+  - '@count': '126'
+    '@name': mental-illness
+  - '@count': '126'
+    '@name': literatura-japonesa
+  - '@count': '122'
+    '@name': dropped
+  - '@count': '118'
+    '@name': bildungsroman
+  - '@count': '116'
+    '@name': fantasy
+  - '@count': '115'
+    '@name': fav
+  - '@count': '115'
+    '@name': on-the-shelf
+  - '@count': '115'
+    '@name': lit-fic
+  - '@count': '114'
+    '@name': default
+publication_day: '12'
+publication_month: '9'
+publication_year: '2000'
+published: '2000'
+publisher: Vintage Books
+ratings_count: '669134'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417554
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/11297.Norwegian_Wood\"\
+  >Norwegian Wood Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0375704027&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/11297.Norwegian_Wood?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '957894'
+        link: https://www.goodreads.com/author/show/957894.Albert_Camus
+        name: Albert Camus
+    average_rating: '4.00'
+    id: '49552'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738704267l/49552._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/49552.The_Stranger
+    num_pages: '123'
+    publication_day: '28'
+    publication_month: '3'
+    publication_year: '1989'
+    ratings_count: '669134'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738704267l/49552._SY75_.jpg
+    title: The Stranger
+    title_without_series: The Stranger
+    uri: kca://book/amzn1.gr.book.v1.94v49W85BFTL2FSJUqUomA
+    work:
+      id: '3324344'
+  - authors:
+      author:
+        id: '3137322'
+        link: https://www.goodreads.com/author/show/3137322.Fyodor_Dostoevsky
+        name: Fyodor Dostoevsky
+    average_rating: '4.00'
+    id: '1772910'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450699039l/1772910._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/1772910.White_Nights
+    num_pages: '82'
+    publication_day: null
+    publication_month: null
+    publication_year: '1848'
+    ratings_count: '669134'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450699039l/1772910._SX50_.jpg
+    title: White Nights
+    title_without_series: White Nights
+    uri: kca://book/amzn1.gr.book.v1.og7aev_DT0MOI1ONaisZhQ
+    work:
+      id: '4111509'
+  - authors:
+      author:
+        id: '113561'
+        link: https://www.goodreads.com/author/show/113561.Osamu_Dazai
+        name: Osamu Dazai
+    average_rating: '4.00'
+    id: '194746'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422638843l/194746._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/194746.No_Longer_Human
+    num_pages: '176'
+    publication_day: '17'
+    publication_month: '1'
+    publication_year: '1958'
+    ratings_count: '669134'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422638843l/194746._SY75_.jpg
+    title: No Longer Human
+    title_without_series: No Longer Human
+    uri: kca://book/amzn1.gr.book.v1.i4PoYbOwx_oUlT0yKc54FA
+    work:
+      id: '188338'
+  - authors:
+      author:
+        id: '6343'
+        link: https://www.goodreads.com/author/show/6343.Milan_Kundera
+        name: Milan Kundera
+    average_rating: '4.00'
+    id: '9717'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1265401884l/9717._SX98_.jpg
+    isbn: 0571224385
+    isbn13: '9780571224388'
+    link: https://www.goodreads.com/book/show/9717.The_Unbearable_Lightness_of_Being
+    num_pages: '314'
+    publication_day: '27'
+    publication_month: '10'
+    publication_year: '2009'
+    ratings_count: '669134'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1265401884l/9717._SY75_.jpg
+    title: The Unbearable Lightness of Being
+    title_without_series: The Unbearable Lightness of Being
+    uri: kca://book/amzn1.gr.book.v1.NA5H5m_MVpvz0FhBYo1xVg
+    work:
+      id: '4489585'
+  - authors:
+      author:
+        id: '5223'
+        link: https://www.goodreads.com/author/show/5223.Franz_Kafka
+        name: Franz Kafka
+    average_rating: '4.00'
+    id: '485894'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646444605l/485894._SY160_.jpg
+    isbn: 0553213695
+    isbn13: '9780553213690'
+    link: https://www.goodreads.com/book/show/485894.The_Metamorphosis
+    num_pages: '201'
+    publication_day: '1'
+    publication_month: '3'
+    publication_year: '1972'
+    ratings_count: '669134'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646444605l/485894._SY75_.jpg
+    title: The Metamorphosis
+    title_without_series: The Metamorphosis
+    uri: kca://book/amzn1.gr.book.v1.0r9VHL78l1OW5uQQyenS-g
+    work:
+      id: '2373750'
+  - authors:
+      author:
+        id: '4280'
+        link: https://www.goodreads.com/author/show/4280.Kazuo_Ishiguro
+        name: Kazuo Ishiguro
+    average_rating: '4.00'
+    id: '6334'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353048590l/6334._SX98_.jpg
+    isbn: '1400078776'
+    isbn13: '9781400078776'
+    link: https://www.goodreads.com/book/show/6334.Never_Let_Me_Go
+    num_pages: '288'
+    publication_day: '31'
+    publication_month: '8'
+    publication_year: '2010'
+    ratings_count: '669134'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353048590l/6334._SY75_.jpg
+    title: Never Let Me Go
+    title_without_series: Never Let Me Go
+    uri: kca://book/amzn1.gr.book.v1.t3ESMobC-9O2YByR0RqA6g
+    work:
+      id: '1499998'
+  - authors:
+      author:
+        id: '4379'
+        link: https://www.goodreads.com/author/show/4379.Sylvia_Plath
+        name: Sylvia Plath
+    average_rating: '4.00'
+    id: '56616095'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668645154l/56616095._SX98_.jpg
+    isbn: 0060837020
+    isbn13: '9780060837020'
+    link: https://www.goodreads.com/book/show/56616095-the-bell-jar
+    num_pages: '288'
+    publication_day: null
+    publication_month: null
+    publication_year: '2006'
+    ratings_count: '669134'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668645154l/56616095._SX50_.jpg
+    title: The Bell Jar
+    title_without_series: The Bell Jar
+    uri: kca://book/amzn1.gr.book.v3.cKGBgExqB_-TO1jd
+    work:
+      id: '1385044'
+  - authors:
+      author:
+        id: '4119155'
+        link: https://www.goodreads.com/author/show/4119155.Han_Kang
+        name: Han Kang
+    average_rating: '4.00'
+    id: '25489025'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728661771l/25489025._SX98_.jpg
+    isbn: 0553448188
+    isbn13: '9780553448184'
+    link: https://www.goodreads.com/book/show/25489025-the-vegetarian
+    num_pages: '188'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '669134'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728661771l/25489025._SY75_.jpg
+    title: The Vegetarian
+    title_without_series: The Vegetarian
+    uri: kca://book/amzn1.gr.book.v1.i9drUaX1sIwjy4vP2rb1Gw
+    work:
+      id: '18449744'
+  - authors:
+      author:
+        id: '3565'
+        link: https://www.goodreads.com/author/show/3565.Oscar_Wilde
+        name: Oscar Wilde
+    average_rating: '4.00'
+    id: '489732'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454087681l/489732._SX98_.jpg
+    isbn: 0141439572
+    isbn13: '9780141439570'
+    link: https://www.goodreads.com/book/show/489732.The_Picture_of_Dorian_Gray
+    num_pages: '253'
+    publication_day: '4'
+    publication_month: '2'
+    publication_year: '2003'
+    ratings_count: '669134'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454087681l/489732._SY75_.jpg
+    title: The Picture of Dorian Gray
+    title_without_series: The Picture of Dorian Gray
+    uri: kca://book/amzn1.gr.book.v1.gA-HiNbBMdJFd3y5EnlyCw
+    work:
+      id: '1858012'
+  - authors:
+      author:
+        id: '13450'
+        link: https://www.goodreads.com/author/show/13450.Gabriel_Garc_a_M_rquez
+        name: "Gabriel Garc\xEDa M\xE1rquez"
+    average_rating: '4.00'
+    id: '320'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327881361l/320._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude
+    num_pages: '417'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '669134'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327881361l/320._SX50_.jpg
+    title: One Hundred Years of Solitude
+    title_without_series: One Hundred Years of Solitude
+    uri: kca://book/amzn1.gr.book.v1.r6swEyDhH8LVQCr1Vbwwzg
+    work:
+      id: '3295655'
+  - authors:
+      author:
+        id: '5559451'
+        link: https://www.goodreads.com/author/show/5559451.Mieko_Kawakami
+        name: Mieko Kawakami
+    average_rating: '4.00'
+    id: '53223710'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615916179l/53223710._SX98_.jpg
+    isbn: '1609456211'
+    isbn13: '9781609456214'
+    link: https://www.goodreads.com/book/show/53223710-heaven
+    num_pages: '192'
+    publication_day: '25'
+    publication_month: '5'
+    publication_year: '2021'
+    ratings_count: '669134'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615916179l/53223710._SY75_.jpg
+    title: Heaven
+    title_without_series: Heaven
+    uri: kca://book/amzn1.gr.book.v3.tcw2oPCJcsqfoQ4v
+    work:
+      id: '7124935'
+  - authors:
+      author:
+        id: '5152'
+        link: https://www.goodreads.com/author/show/5152.Vladimir_Nabokov
+        name: Vladimir Nabokov
+    average_rating: '4.00'
+    id: '9216051'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590093359l/9216051._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/9216051-lolita
+    num_pages: '376'
+    publication_day: '24'
+    publication_month: '8'
+    publication_year: '2010'
+    ratings_count: '669134'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590093359l/9216051._SY75_.jpg
+    title: Lolita
+    title_without_series: Lolita
+    uri: kca://book/amzn1.gr.book.v1.jSA8GU-Ns50QOBP2t_55dA
+    work:
+      id: '1268631'
+  - authors:
+      author:
+        id: '819789'
+        link: https://www.goodreads.com/author/show/819789.J_D_Salinger
+        name: J.D. Salinger
+    average_rating: '4.00'
+    id: '5107'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107._SX98_.jpg
+    isbn: 0316769177
+    isbn13: '9780316769174'
+    link: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
+    num_pages: '277'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '669134'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107._SY75_.jpg
+    title: The Catcher in the Rye
+    title_without_series: The Catcher in the Rye
+    uri: kca://book/amzn1.gr.book.v1.IqM3-G-EAL6pSFPVNq63FQ
+    work:
+      id: '3036731'
+  - authors:
+      author:
+        id: '28229'
+        link: https://www.goodreads.com/author/show/28229.Banana_Yoshimoto
+        name: Banana Yoshimoto
+    average_rating: '4.00'
+    id: '50144'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327904393l/50144._SX98_.jpg
+    isbn: 0802142443
+    isbn13: '9780802142443'
+    link: https://www.goodreads.com/book/show/50144.Kitchen
+    num_pages: '160'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '669134'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327904393l/50144._SX50_.jpg
+    title: Kitchen
+    title_without_series: Kitchen
+    uri: kca://book/amzn1.gr.book.v1.jg5-FL_34mp56G1xSnqZKQ
+    work:
+      id: '1543818'
+  - authors:
+      author:
+        id: '6571447'
+        link: https://www.goodreads.com/author/show/6571447.Hanya_Yanagihara
+        name: Hanya Yanagihara
+    average_rating: '4.00'
+    id: '22822858'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446469353l/22822858._SX98_.jpg
+    isbn: 0385539258
+    isbn13: '9780385539258'
+    link: https://www.goodreads.com/book/show/22822858-a-little-life
+    num_pages: '720'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '669134'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446469353l/22822858._SY75_.jpg
+    title: A Little Life
+    title_without_series: A Little Life
+    uri: kca://book/amzn1.gr.book.v1.7gXfDK-iLYEoVVZmnZigrg
+    work:
+      id: '42375710'
+  - authors:
+      author:
+        id: '3137322'
+        link: https://www.goodreads.com/author/show/3137322.Fyodor_Dostoevsky
+        name: Fyodor Dostoevsky
+    average_rating: '4.00'
+    id: '7144'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382846449l/7144._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/7144.Crime_and_Punishment
+    num_pages: '671'
+    publication_day: '31'
+    publication_month: '12'
+    publication_year: '2002'
+    ratings_count: '669134'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382846449l/7144._SY75_.jpg
+    title: Crime and Punishment
+    title_without_series: Crime and Punishment
+    uri: kca://book/amzn1.gr.book.v1.PduOaUyKDt1zhmvGomhhhQ
+    work:
+      id: '3393917'
+  - authors:
+      author:
+        id: '8719'
+        link: https://www.goodreads.com/author/show/8719.Donna_Tartt
+        name: Donna Tartt
+    average_rating: '4.00'
+    id: '29044'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451554846l/29044._SX98_.jpg
+    isbn: '1400031702'
+    isbn13: '9781400031702'
+    link: https://www.goodreads.com/book/show/29044.The_Secret_History
+    num_pages: '559'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '669134'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451554846l/29044._SY75_.jpg
+    title: The Secret History
+    title_without_series: The Secret History
+    uri: kca://book/amzn1.gr.book.v1.4nI9LMi_gKWo4kNDfNk4Qg
+    work:
+      id: '221359'
+  - authors:
+      author:
+        id: '15860970'
+        link: https://www.goodreads.com/author/show/15860970.Sally_Rooney
+        name: Sally Rooney
+    average_rating: '4.00'
+    id: '41057294'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571423190l/41057294._SX98_.jpg
+    isbn: '1984822179'
+    isbn13: '9781984822178'
+    link: https://www.goodreads.com/book/show/41057294-normal-people
+    num_pages: '273'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '669134'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571423190l/41057294._SY75_.jpg
+    title: Normal People
+    title_without_series: Normal People
+    uri: kca://book/amzn1.gr.book.v1.m8-f1po4Ky_Psux4GuhWHw
+    work:
+      id: '59141209'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1713542603l/11297._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '34197'
+  '@type': integer
+title: Norwegian Wood
+title_without_series: Norwegian Wood
+uri: kca://book/amzn1.gr.book.v1.AlP6ID8bNidEco9FBwNaNA
+url: https://www.goodreads.com/book/show/11297.Norwegian_Wood
+work:
+  id: '2956680'
+  uri: kca://work/amzn1.gr.work.v1.3EVbzGfvXUWo3YZcXtQLMw

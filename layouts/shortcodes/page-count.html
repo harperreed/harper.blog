@@ -1,0 +1,40 @@
+{{/* Access the year parameter or default to current year */}}
+{{ $year := default (now.Format "2006") (.Get 0) }}
+
+{{/* Initialize counter */}}
+{{ $page_count := 0 }}
+{{ $book_count := 0 }}
+{{ $average_pages := 0 }}
+{{ $pages_per_day := 0 }}
+
+{{/* Loop through books and sum pages */}}
+{{ range where .Site.RegularPages "Section" "books" }}
+  {{ if eq (.Date.Format "2006") (string $year) }}
+  {{ $book_count = add $book_count 1 }}
+    {{ with .Params.num_pages }}
+        {{ $page_count = add $page_count (int .) }}
+        
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+
+{{/* Calculate the average */}}
+{{ if gt $book_count 0 }}
+    {{ $average_pages = div $page_count $book_count }}
+{{ end }}
+
+{{/* Calculate pages per day */}}
+{{ $days := 365 }}
+{{ if eq (now.Format "2006") (string $year) }}
+    {{ $days = div (time.Now.YearDay) 1 }}
+{{ end }}
+{{ if gt $page_count 0 }}
+    {{ $pages_per_day = div $page_count $days }}
+{{ end }}
+
+{{/* Output the total */}}
+{{ if gt $page_count 0 }}
+
+{{ printf "%d | %d *pages* | ~%d pages read per day" $book_count $page_count $pages_per_day }}
+{{ end }}

@@ -1,0 +1,766 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.06'
+    id: '55547'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1302415236p5/55547.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/55547.Jack_Campbell
+    name: Jack Campbell
+    ratings_count: '243528'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1302415236p2/55547.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '9937'
+average_rating: '4.00'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: Captain John "Black Jack" Geary tries a desperate gamble to lead the
+  Alliance Fleet home-through enemy-occupied space-only to lose half the Fleet to
+  an unexpected mutiny. <br />
+edition_information: paperback / softback, Reprint
+format: Mass Market Paperback
+id: '96594'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: '0441014763'
+isbn13: '9780441014767'
+json: '{"id": "96594", "isbn": "0441014763", "isbn13": "9780441014767", "text_reviews_count":
+  {"@type": "integer", "#text": "572"}, "uri": "kca://book/amzn1.gr.book.v1.hx4-emT5jIBUr010zJhDUg",
+  "title": "Fearless (The Lost Fleet, #2)", "title_without_series": "Fearless", "image_url":
+  "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/96594.Fearless",
+  "num_pages": "295", "format": "Mass Market Paperback", "edition_information": "paperback
+  / softback, Reprint", "publisher": null, "publication_day": null, "publication_year":
+  null, "publication_month": null, "average_rating": "4.00", "ratings_count": "22813",
+  "description": "Captain John \"Black Jack\" Geary tries a desperate gamble to lead
+  the Alliance Fleet home-through enemy-occupied space-only to lose half the Fleet
+  to an unexpected mutiny. <br />", "authors": {"author": {"id": "55547", "name":
+  "Jack Campbell", "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1302415236p5/55547.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1302415236p2/55547.jpg"},
+  "link": "https://www.goodreads.com/author/show/55547.Jack_Campbell", "average_rating":
+  "4.06", "ratings_count": "243528", "text_reviews_count": "9937"}}, "published":
+  null, "work": {"id": "93102", "uri": "kca://work/amzn1.gr.work.v1._G0ZmiaNVftLAEHeO3Pmng"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/12429121",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B000SEGULG
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/96594.Fearless
+marketplace_id: ATVPDKIKX0DER
+num_pages: '295'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '2597'
+    '@name': to-read
+  - '@count': '733'
+    '@name': science-fiction
+  - '@count': '640'
+    '@name': sci-fi
+  - '@count': '501'
+    '@name': currently-reading
+  - '@count': '195'
+    '@name': scifi
+  - '@count': '145'
+    '@name': space-opera
+  - '@count': '125'
+    '@name': military
+  - '@count': '121'
+    '@name': fiction
+  - '@count': '98'
+    '@name': military-sci-fi
+  - '@count': '82'
+    '@name': audiobook
+  - '@count': '81'
+    '@name': owned
+  - '@count': '72'
+    '@name': military-science-fiction
+  - '@count': '71'
+    '@name': sf
+  - '@count': '58'
+    '@name': favorites
+  - '@count': '55'
+    '@name': audible
+  - '@count': '47'
+    '@name': the-lost-fleet
+  - '@count': '45'
+    '@name': space
+  - '@count': '43'
+    '@name': default
+  - '@count': '39'
+    '@name': audiobooks
+  - '@count': '34'
+    '@name': lost-fleet
+  - '@count': '34'
+    '@name': series
+  - '@count': '34'
+    '@name': military-sf
+  - '@count': '33'
+    '@name': audio
+  - '@count': '33'
+    '@name': ebook
+  - '@count': '33'
+    '@name': kindle
+  - '@count': '31'
+    '@name': military-scifi
+  - '@count': '30'
+    '@name': sci-fi-fantasy
+  - '@count': '29'
+    '@name': war
+  - '@count': '27'
+    '@name': jack-campbell
+  - '@count': '26'
+    '@name': military-fiction
+  - '@count': '25'
+    '@name': library
+  - '@count': '23'
+    '@name': adventure
+  - '@count': '20'
+    '@name': ebooks
+  - '@count': '18'
+    '@name': fantasy
+  - '@count': '14'
+    '@name': sci-fi-military
+  - '@count': '14'
+    '@name': books-i-own
+  - '@count': '14'
+    '@name': action
+  - '@count': '11'
+    '@name': novels
+  - '@count': '11'
+    '@name': owned-books
+  - '@count': '11'
+    '@name': science
+  - '@count': '11'
+    '@name': sciencefiction
+  - '@count': '11'
+    '@name': audio-books
+  - '@count': '10'
+    '@name': my-library
+  - '@count': '10'
+    '@name': fantasy-sci-fi
+  - '@count': '10'
+    '@name': speculative-fiction
+  - '@count': '9'
+    '@name': "space-op\xE9ra"
+  - '@count': '9'
+    '@name': dnf
+  - '@count': '9'
+    '@name': books
+  - '@count': '9'
+    '@name': paperback
+  - '@count': '9'
+    '@name': science-fiction-fantasy
+  - '@count': '8'
+    '@name': to-buy
+  - '@count': '8'
+    '@name': audio-book
+  - '@count': '8'
+    '@name': e-book
+  - '@count': '8'
+    '@name': sci-fi-and-fantasy
+  - '@count': '8'
+    '@name': scifi-fantasy
+  - '@count': '7'
+    '@name': 5-stars
+  - '@count': '7'
+    '@name': space-sci-fi
+  - '@count': '7'
+    '@name': my-books
+  - '@count': '7'
+    '@name': "ciencia-ficci\xF3n"
+  - '@count': '7'
+    '@name': action-adventure
+  - '@count': '7'
+    '@name': space-travel
+  - '@count': '7'
+    '@name': lost-fleet-series
+  - '@count': '6'
+    '@name': sci-fi-space
+  - '@count': '6'
+    '@name': i-own
+  - '@count': '6'
+    '@name': re-read
+  - '@count': '6'
+    '@name': aliens
+  - '@count': '6'
+    '@name': campbell-jack
+  - '@count': '6'
+    '@name': have
+  - '@count': '6'
+    '@name': own-it
+  - '@count': '6'
+    '@name': sf-f
+  - '@count': '6'
+    '@name': scifi-military
+  - '@count': '6'
+    '@name': book-club
+  - '@count': '5'
+    '@name': literature-and-fiction
+  - '@count': '5'
+    '@name': genre-fiction
+  - '@count': '5'
+    '@name': read-in-2015
+  - '@count': '5'
+    '@name': mil-sf
+  - '@count': '5'
+    '@name': adult
+  - '@count': '5'
+    '@name': favourites
+  - '@count': '5'
+    '@name': home-library
+  - '@count': '5'
+    '@name': sf-military
+  - '@count': '5'
+    '@name': reread
+  - '@count': '5'
+    '@name': listened
+  - '@count': '5'
+    '@name': 5-star
+  - '@count': '5'
+    '@name': kobo
+  - '@count': '5'
+    '@name': future
+  - '@count': '5'
+    '@name': sff
+  - '@count': '5'
+    '@name': futuristic
+  - '@count': '4'
+    '@name': favourite-books
+  - '@count': '4'
+    '@name': my-favorites
+  - '@count': '4'
+    '@name': urania
+  - '@count': '4'
+    '@name': favorite
+  - '@count': '4'
+    '@name': calibre
+  - '@count': '4'
+    '@name': sf-fantasy
+  - '@count': '4'
+    '@name': read-2017
+  - '@count': '4'
+    '@name': fantasy-scifi
+  - '@count': '4'
+    '@name': downloaded
+  - '@count': '4'
+    '@name': the-lost-fleet-series
+  - '@count': '4'
+    '@name': english
+  - '@count': '4'
+    '@name': recommended
+  - '@count': '4'
+    '@name': author-male
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '22813'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/12429121
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/96594.Fearless\"\
+  >Fearless Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0441014763&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/96594.Fearless?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+  - id: '145741'
+    series:
+      description: "<a href=\"https://www.goodreads.com/series/88284-lost-stars\"\
+        >The Lost Star Series</a> formerly known as The Phoenix Stars is also part\
+        \ of <a href=\"https://www.goodreads.com/series/262794-the-lost-fleet-universe\"\
+        >The Lost Fleet Universe</a>.\n    \n    <Series Type: </b> Each book has\
+        \ a start and an ending, so you can stop after any of the books with a sense\
+        \ of closure.  But each book but makes strong references to prior books and\
+        \ characters in the series, so reading them order is highly recommended."
+      id: '41101'
+      note: Added series info.
+      numbered: 'true'
+      primary_work_count: '14'
+      series_works_count: '14'
+      title: The Lost Fleet
+    user_position: '2'
+  - id: '1445656'
+    series:
+      description: Each book has a start and an ending, so you can stop after any
+        of the books with a sense of closure. But each book but makes strong references
+        to prior books and characters in the series, so reading them order is highly
+        recommended.
+      id: '262794'
+      note: null
+      numbered: 'false'
+      primary_work_count: '21'
+      series_works_count: '31'
+      title: The Lost Fleet Universe
+    user_position: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '14887946'
+        link: https://www.goodreads.com/author/show/14887946.Max_Nowaz
+        name: Max Nowaz
+    average_rating: '4.00'
+    id: '101265124'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SX98_.jpg
+    isbn: '1803133961'
+    isbn13: '9781803133966'
+    link: https://www.goodreads.com/book/show/101265124-the-polymorph
+    num_pages: '0'
+    publication_day: '4'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '22813'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SY75_.jpg
+    title: The Polymorph
+    title_without_series: The Polymorph
+    uri: kca://book/amzn1.gr.book.v3.2WI1HTFNfz3UC2Zb
+    work:
+      id: '124767981'
+  - authors:
+      author:
+        id: '10517'
+        link: https://www.goodreads.com/author/show/10517.David_Weber
+        name: David Weber
+    average_rating: '4.00'
+    id: '77738'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321561696l/77738._SX98_.jpg
+    isbn: 0671876813
+    isbn13: '9780671876814'
+    link: https://www.goodreads.com/book/show/77738.Flag_in_Exile
+    num_pages: '443'
+    publication_day: '27'
+    publication_month: '9'
+    publication_year: '1995'
+    ratings_count: '22813'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321561696l/77738._SY75_.jpg
+    title: 'Flag in Exile (Honor Harrington, #5)'
+    title_without_series: Flag in Exile
+    uri: kca://book/amzn1.gr.book.v1.Owpatq1t3_1uUzbEduutxw
+    work:
+      id: '4360'
+  - authors:
+      author:
+        id: '10517'
+        link: https://www.goodreads.com/author/show/10517.David_Weber
+        name: David Weber
+    average_rating: '4.00'
+    id: '77736'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321561719l/77736._SY160_.jpg
+    isbn: 0671875965
+    isbn13: '9780671875961'
+    link: https://www.goodreads.com/book/show/77736.The_Short_Victorious_War
+    num_pages: null
+    publication_day: '1'
+    publication_month: '4'
+    publication_year: '1994'
+    ratings_count: '22813'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321561719l/77736._SY75_.jpg
+    title: 'The Short Victorious War (Honor Harrington, #3)'
+    title_without_series: The Short Victorious War
+    uri: kca://book/amzn1.gr.book.v1.W4qt_GYfrgjh8yZXDtxJeA
+    work:
+      id: '1913024'
+  - authors:
+      author:
+        id: '10517'
+        link: https://www.goodreads.com/author/show/10517.David_Weber
+        name: David Weber
+    average_rating: '4.00'
+    id: '35921'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1416509372'
+    isbn13: '9781416509370'
+    link: https://www.goodreads.com/book/show/35921.On_Basilisk_Station
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '22813'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'On Basilisk Station (Honor Harrington, #1)'
+    title_without_series: On Basilisk Station
+    uri: kca://book/amzn1.gr.book.v1.C-cQo-A36xqbjRbqYSENEA
+    work:
+      id: '965345'
+  - authors:
+      author:
+        id: '10517'
+        link: https://www.goodreads.com/author/show/10517.David_Weber
+        name: David Weber
+    average_rating: '4.00'
+    id: '77735'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304286399l/77735._SX98_.jpg
+    isbn: '0671721720'
+    isbn13: '9780671721725'
+    link: https://www.goodreads.com/book/show/77735.The_Honor_of_the_Queen
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '22813'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304286399l/77735._SY75_.jpg
+    title: 'The Honor of the Queen (Honor Harrington, #2)'
+    title_without_series: The Honor of the Queen
+    uri: kca://book/amzn1.gr.book.v1.jT-wCcamT7Fr7b57ZD2sBQ
+    work:
+      id: '1755248'
+  - authors:
+      author:
+        id: '6461132'
+        link: https://www.goodreads.com/author/show/6461132.John_G_Hemry
+        name: John G. Hemry
+    average_rating: '4.00'
+    id: '1673452'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0441007155'
+    isbn13: '9780441007158'
+    link: https://www.goodreads.com/book/show/1673452.Stark_s_War
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '22813'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Stark''s War (Stark''s War, #1)'
+    title_without_series: Stark's War
+    uri: kca://book/amzn1.gr.book.v1.Y8ZTOFepyAiyTySyVNCCqQ
+    work:
+      id: '1668465'
+  - authors:
+      author:
+        id: '1077166'
+        link: https://www.goodreads.com/author/show/1077166.Taylor_Anderson
+        name: Taylor Anderson
+    average_rating: '4.00'
+    id: '7145719'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0451463331'
+    isbn13: '9780451463333'
+    link: https://www.goodreads.com/book/show/7145719-distant-thunders
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '22813'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Distant Thunders (Destroyermen, #4)'
+    title_without_series: Distant Thunders
+    uri: kca://book/amzn1.gr.book.v1.JpuWA_B4mA62U74pB0hfig
+    work:
+      id: '7410287'
+  - authors:
+      author:
+        id: '10517'
+        link: https://www.goodreads.com/author/show/10517.David_Weber
+        name: David Weber
+    average_rating: '4.00'
+    id: '15802917'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345678394l/15802917._SX98_.jpg
+    isbn: '1451638698'
+    isbn13: '9781451638691'
+    link: https://www.goodreads.com/book/show/15802917-shadow-of-freedom
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '22813'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345678394l/15802917._SY75_.jpg
+    title: 'Shadow of Freedom (Honorverse: Saganami Island, #3)'
+    title_without_series: Shadow of Freedom
+    uri: kca://book/amzn1.gr.book.v1.9XCeCJpI6zKThcbTaG8CTw
+    work:
+      id: '17245402'
+  - authors:
+      author:
+        id: '1077166'
+        link: https://www.goodreads.com/author/show/1077166.Taylor_Anderson
+        name: Taylor Anderson
+    average_rating: '4.00'
+    id: '3946101'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 045146253X
+    isbn13: '9780451462534'
+    link: https://www.goodreads.com/book/show/3946101-maelstrom
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '22813'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Maelstrom (Destroyermen, #3)'
+    title_without_series: Maelstrom
+    uri: kca://book/amzn1.gr.book.v1.vc6z7CJxea-WxKzS_s0Itg
+    work:
+      id: '3991736'
+  - authors:
+      author:
+        id: '10517'
+        link: https://www.goodreads.com/author/show/10517.David_Weber
+        name: David Weber
+    average_rating: '4.00'
+    id: '77746'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321607712l/77746._SX98_.jpg
+    isbn: 0743498992
+    isbn13: '9780743498999'
+    link: https://www.goodreads.com/book/show/77746.Crown_of_Slaves
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '22813'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321607712l/77746._SY75_.jpg
+    title: 'Crown of Slaves (Honorverse: Wages of Sin, #1)'
+    title_without_series: Crown of Slaves
+    uri: kca://book/amzn1.gr.book.v1.qoz1ZTFBbuIlupUE9OzAbw
+    work:
+      id: '1755221'
+  - authors:
+      author:
+        id: '6461132'
+        link: https://www.goodreads.com/author/show/6461132.John_G_Hemry
+        name: John G. Hemry
+    average_rating: '4.00'
+    id: '1673450'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0441008224
+    isbn13: '9780441008223'
+    link: https://www.goodreads.com/book/show/1673450.Stark_s_Command
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '22813'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Stark''s Command (Stark''s War, #2)'
+    title_without_series: Stark's Command
+    uri: kca://book/amzn1.gr.book.v1.K9U9MYCVwaxl3-FepvQghw
+    work:
+      id: '1668463'
+  - authors:
+      author:
+        id: '10517'
+        link: https://www.goodreads.com/author/show/10517.David_Weber
+        name: David Weber
+    average_rating: '4.00'
+    id: '77739'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0671877836
+    isbn13: '9780671877835'
+    link: https://www.goodreads.com/book/show/77739.Honor_Among_Enemies
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '22813'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Honor Among Enemies (Honor Harrington, #6)'
+    title_without_series: Honor Among Enemies
+    uri: kca://book/amzn1.gr.book.v1.MxaxLdbH3_FgY9g9mIa9bw
+    work:
+      id: '4363'
+  - authors:
+      author:
+        id: '6606349'
+        link: https://www.goodreads.com/author/show/6606349.Marko_Kloos
+        name: Marko Kloos
+    average_rating: '4.00'
+    id: '25648897'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457383836l/25648897._SX98_.jpg
+    isbn: 150395305X
+    isbn13: '9781503953055'
+    link: https://www.goodreads.com/book/show/25648897-chains-of-command
+    num_pages: '386'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '22813'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457383836l/25648897._SY75_.jpg
+    title: 'Chains of Command (Frontlines, #4)'
+    title_without_series: Chains of Command
+    uri: kca://book/amzn1.gr.book.v1.e4HixQ_F0XmPUsafSgmnQg
+    work:
+      id: '45468301'
+  - authors:
+      author:
+        id: '10517'
+        link: https://www.goodreads.com/author/show/10517.David_Weber
+        name: David Weber
+    average_rating: '4.00'
+    id: '504397'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321576724l/504397._SX98_.jpg
+    isbn: 0743488369
+    isbn13: '9780743488365'
+    link: https://www.goodreads.com/book/show/504397.The_Service_of_the_Sword
+    num_pages: '665'
+    publication_day: '29'
+    publication_month: '6'
+    publication_year: '2004'
+    ratings_count: '22813'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321576724l/504397._SY75_.jpg
+    title: 'The Service of the Sword (Worlds of Honor, #4)'
+    title_without_series: The Service of the Sword
+    uri: kca://book/amzn1.gr.book.v1.NN-PttwId_LIZ0xwzRNmPQ
+    work:
+      id: '1755446'
+  - authors:
+      author:
+        id: '6606349'
+        link: https://www.goodreads.com/author/show/6606349.Marko_Kloos
+        name: Marko Kloos
+    average_rating: '4.00'
+    id: '18800655'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391472650l/18800655._SX98_.jpg
+    isbn: '1477859780'
+    isbn13: '9781477859780'
+    link: https://www.goodreads.com/book/show/18800655-terms-of-enlistment
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '22813'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391472650l/18800655._SX50_.jpg
+    title: 'Terms of Enlistment (Frontlines, #1)'
+    title_without_series: Terms of Enlistment
+    uri: kca://book/amzn1.gr.book.v1.E6qJH7quqqmQnta9ZXRAPg
+    work:
+      id: '24585130'
+  - authors:
+      author:
+        id: '6461132'
+        link: https://www.goodreads.com/author/show/6461132.John_G_Hemry
+        name: John G. Hemry
+    average_rating: '4.00'
+    id: '1673449'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1323362457l/1673449._SX98_.jpg
+    isbn: 0441009158
+    isbn13: '9780441009152'
+    link: https://www.goodreads.com/book/show/1673449.Stark_s_Crusade
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '22813'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1323362457l/1673449._SY75_.jpg
+    title: 'Stark''s Crusade (Stark''s War, #3)'
+    title_without_series: Stark's Crusade
+    uri: kca://book/amzn1.gr.book.v1.BnOc5RttOvEM1yg7SIMtzw
+    work:
+      id: '1668462'
+  - authors:
+      author:
+        id: '10517'
+        link: https://www.goodreads.com/author/show/10517.David_Weber
+        name: David Weber
+    average_rating: '4.00'
+    id: '77743'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406525587l/77743._SX98_.jpg
+    isbn: '0743435451'
+    isbn13: '9780743435451'
+    link: https://www.goodreads.com/book/show/77743.War_of_Honor
+    num_pages: '869'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '22813'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406525587l/77743._SX50_.jpg
+    title: 'War of Honor (Honor Harrington, #10)'
+    title_without_series: War of Honor
+    uri: kca://book/amzn1.gr.book.v1.CIa_JP6143A0gr2w3Kwtbg
+    work:
+      id: '4362'
+  - authors:
+      author:
+        id: '10517'
+        link: https://www.goodreads.com/author/show/10517.David_Weber
+        name: David Weber
+    average_rating: '4.00'
+    id: '1107296'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334080031l/1107296._SY160_.jpg
+    isbn: 0671720856
+    isbn13: '9780671720858'
+    link: https://www.goodreads.com/book/show/1107296.Mutineers_Moon
+    num_pages: '315'
+    publication_day: null
+    publication_month: '10'
+    publication_year: '1991'
+    ratings_count: '22813'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334080031l/1107296._SY75_.jpg
+    title: 'Mutineers'' Moon (Dahak, #1)'
+    title_without_series: Mutineers' Moon
+    uri: kca://book/amzn1.gr.book.v1.kwUdt6aAgN7qVx5hUAGr0w
+    work:
+      id: '1094239'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '572'
+  '@type': integer
+title: 'Fearless (The Lost Fleet, #2)'
+title_without_series: Fearless
+uri: kca://book/amzn1.gr.book.v1.hx4-emT5jIBUr010zJhDUg
+url: https://www.goodreads.com/book/show/96594.Fearless
+work:
+  id: '93102'
+  uri: kca://work/amzn1.gr.work.v1._G0ZmiaNVftLAEHeO3Pmng

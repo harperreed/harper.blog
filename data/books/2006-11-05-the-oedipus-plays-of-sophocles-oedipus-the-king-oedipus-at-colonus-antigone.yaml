@@ -1,0 +1,776 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.78'
+    id: '1002'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1195014481p5/1002.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/1002.Sophocles
+    name: Sophocles
+    ratings_count: '561021'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1195014481p2/1002.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '22464'
+average_rating: '3.99'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: "Revising and updating his classic 1958 translation, Paul Roche captures\
+  \ the dramatic power and intensity, the subtleties of meaning, and the explosive\
+  \ emotions of Sophocles' great Theban trilogy. In vivid, poetic language, he presents\
+  \ the timeless story of a noble family moving toward catastrophe, dragged down from\
+  \ wealth and power by pride, cursed with incest, suicide, and murder.<br /><br />William\
+  \ Carlos Williams called the Roche translation of Antigone\_\u201Cbrilliantly successful...as\
+  \ spirited and powerful as the original must have been.\u201D Roche's versions of\
+  \ the Oedipus plays are both stunning and sympathetic, awe-inspiring and intimate,\
+  \ and bring the elemental myths of ancient Greece to life for modern readers.<br\
+  \ /><br />Included in this edition are a glossary of classical names, notes on pronunciation\
+  \ and meter, suggestions for production and acting, and historical material, which\
+  \ offer the reader a greater appreciation of Sophocles' dramatic genius."
+edition_information: Revised ed.
+format: null
+id: '1537'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: '0452011671'
+isbn13: '9780452011670'
+json: '{"id": "1537", "isbn": "0452011671", "isbn13": "9780452011670", "text_reviews_count":
+  {"@type": "integer", "#text": "75"}, "uri": "kca://book/amzn1.gr.book.v1.SUca-syuNbu7eomJOMydjA",
+  "title": "The Oedipus Plays of Sophocles: Oedipus the King - Oedipus at Colonus
+  - Antigone", "title_without_series": "The Oedipus Plays of Sophocles: Oedipus the
+  King - Oedipus at Colonus - Antigone", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/1537.The_Oedipus_Plays_of_Sophocles",
+  "num_pages": null, "format": null, "edition_information": "Revised ed.", "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "3.99", "ratings_count": "68899", "description": "Revising and
+  updating his classic 1958 translation, Paul Roche captures the dramatic power and
+  intensity, the subtleties of meaning, and the explosive emotions of Sophocles''
+  great Theban trilogy. In vivid, poetic language, he presents the timeless story
+  of a noble family moving toward catastrophe, dragged down from wealth and power
+  by pride, cursed with incest, suicide, and murder.<br /><br />William Carlos Williams
+  called the Roche translation of Antigone\u00a0\u201cbrilliantly successful...as
+  spirited and powerful as the original must have been.\u201d Roche''s versions of
+  the Oedipus plays are both stunning and sympathetic, awe-inspiring and intimate,
+  and bring the elemental myths of ancient Greece to life for modern readers.<br /><br
+  />Included in this edition are a glossary of classical names, notes on pronunciation
+  and meter, suggestions for production and acting, and historical material, which
+  offer the reader a greater appreciation of Sophocles'' dramatic genius.", "authors":
+  {"author": {"id": "1002", "name": "Sophocles", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1195014481p5/1002.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1195014481p2/1002.jpg"},
+  "link": "https://www.goodreads.com/author/show/1002.Sophocles", "average_rating":
+  "3.78", "ratings_count": "561021", "text_reviews_count": "22464"}}, "published":
+  null, "work": {"id": "5672", "uri": "kca://work/amzn1.gr.work.v1.6pLLU57qZ5GpT2Kjj_CN7w"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417640",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B000FCK9OK
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/1537.The_Oedipus_Plays_of_Sophocles
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '28609'
+    '@name': to-read
+  - '@count': '2087'
+    '@name': currently-reading
+  - '@count': '1560'
+    '@name': plays
+  - '@count': '697'
+    '@name': fiction
+  - '@count': '603'
+    '@name': owned
+  - '@count': '400'
+    '@name': mythology
+  - '@count': '383'
+    '@name': books-i-own
+  - '@count': '374'
+    '@name': favorites
+  - '@count': '304'
+    '@name': school
+  - '@count': '280'
+    '@name': literature
+  - '@count': '276'
+    '@name': classic
+  - '@count': '257'
+    '@name': play
+  - '@count': '237'
+    '@name': greek
+  - '@count': '173'
+    '@name': poetry
+  - '@count': '129'
+    '@name': read-for-school
+  - '@count': '129'
+    '@name': physical-tbr
+  - '@count': '126'
+    '@name': my-library
+  - '@count': '119'
+    '@name': library
+  - '@count': '115'
+    '@name': ancient-greece
+  - '@count': '114'
+    '@name': owned-books
+  - '@count': '107'
+    '@name': greece
+  - '@count': '105'
+    '@name': ancient
+  - '@count': '102'
+    '@name': teatro
+  - '@count': '99'
+    '@name': tragedy
+  - '@count': '99'
+    '@name': default
+  - '@count': '98'
+    '@name': school-books
+  - '@count': '95'
+    '@name': for-school
+  - '@count': '87'
+    '@name': classical
+  - '@count': '82'
+    '@name': philosophy
+  - '@count': '79'
+    '@name': high-school
+  - '@count': '78'
+    '@name': theater
+  - '@count': '76'
+    '@name': greek-mythology
+  - '@count': '72'
+    '@name': home-library
+  - '@count': '70'
+    '@name': translated
+  - '@count': '63'
+    '@name': bookshelf
+  - '@count': '60'
+    '@name': kindle
+  - '@count': '60'
+    '@name': classical-literature
+  - '@count': '59'
+    '@name': history
+  - '@count': '59'
+    '@name': antiquity
+  - '@count': '58'
+    '@name': my-books
+  - '@count': '58'
+    '@name': classic-literature
+  - '@count': '55'
+    '@name': college
+  - '@count': '55'
+    '@name': tbr
+  - '@count': '53'
+    '@name': greek-literature
+  - '@count': '49'
+    '@name': penguin-classics
+  - '@count': '48'
+    '@name': personal-library
+  - '@count': '48'
+    '@name': historical-fiction
+  - '@count': '46'
+    '@name': ancient-classics
+  - '@count': '44'
+    '@name': my-bookshelf
+  - '@count': '44'
+    '@name': fantasy
+  - '@count': '42'
+    '@name': classics
+  - '@count': '42'
+    '@name': historical
+  - '@count': '40'
+    '@name': ancient-greek
+  - '@count': '40'
+    '@name': favourites
+  - '@count': '39'
+    '@name': great-books
+  - '@count': '39'
+    '@name': ancient-literature
+  - '@count': '37'
+    '@name': classic-lit
+  - '@count': '37'
+    '@name': classical-studies
+  - '@count': '35'
+    '@name': owned-tbr
+  - '@count': '34'
+    '@name': greeks
+  - '@count': '34'
+    '@name': adult
+  - '@count': '34'
+    '@name': in-translation
+  - '@count': '34'
+    '@name': classici
+  - '@count': '33'
+    '@name': greco-roman
+  - '@count': '33'
+    '@name': i-own
+  - '@count': '32'
+    '@name': audiobook
+  - '@count': '32'
+    '@name': school-reads
+  - '@count': '32'
+    '@name': translation
+  - '@count': '32'
+    '@name': have
+  - '@count': '31'
+    '@name': ancient-history
+  - '@count': '30'
+    '@name': school-reading
+  - '@count': '28'
+    '@name': classical-antiquity
+  - '@count': '28'
+    '@name': ancient-world
+  - '@count': '28'
+    '@name': audible
+  - '@count': '27'
+    '@name': sophocles
+  - '@count': '27'
+    '@name': books
+  - '@count': '27'
+    '@name': physical
+  - '@count': '26'
+    '@name': "\u0646\u0645\u0627\u06CC\u0634\u0646\u0627\u0645\u0647"
+  - '@count': '26'
+    '@name': myth
+  - '@count': '26'
+    '@name': university
+  - '@count': '26'
+    '@name': greek-roman
+  - '@count': '25'
+    '@name': collection
+  - '@count': '24'
+    '@name': western-canon
+  - '@count': '24'
+    '@name': classical-lit
+  - '@count': '24'
+    '@name': required-reading
+  - '@count': '23'
+    '@name': uni
+  - '@count': '23'
+    '@name': academic
+  - '@count': '22'
+    '@name': europe
+  - '@count': '22'
+    '@name': lit
+  - '@count': '22'
+    '@name': greek-tragedy
+  - '@count': '21'
+    '@name': on-my-shelf
+  - '@count': '21'
+    '@name': unread
+  - '@count': '21'
+    '@name': ancient-lit
+  - '@count': '21'
+    '@name': re-read
+  - '@count': '21'
+    '@name': paperback
+  - '@count': '20'
+    '@name': on-shelf
+  - '@count': '20'
+    '@name': translations
+  - '@count': '20'
+    '@name': own-it
+  - '@count': '19'
+    '@name': ebook
+  - '@count': '19'
+    '@name': greek-classics
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '68899'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417640
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/1537.The_Oedipus_Plays_of_Sophocles\"\
+  >The Oedipus Plays of Sophocles Reviews</a></h1></div>\n  <iframe sandbox id=\"\
+  the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0452011671&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/1537.The_Oedipus_Plays_of_Sophocles?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '305930'
+    series:
+      description: 'The Theban plays comprise three plays: <i>Oedipus Rex</i> (also
+        called Oedipus Tyrannus or Oedipus the King), <i>Oedipus at Colonus</i>, and
+        <i>Antigone</i>. All three concern the fate of Thebes during and after the
+        reign of King Oedipus. They have often been published under a single cover,
+        but Sophocles wrote them for separate festival competitions, many years apart.
+        The Theban plays are not a proper trilogy, nor an intentional series; they
+        contain inconsistencies.'
+      id: '41338'
+      note: null
+      numbered: 'true'
+      primary_work_count: '3'
+      series_works_count: '4'
+      title: The Theban Plays
+    user_position: "1\u20133"
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '990'
+        link: https://www.goodreads.com/author/show/990.Aeschylus
+        name: Aeschylus
+    average_rating: '3.99'
+    id: '1519'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628464384l/1519._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/1519.The_Oresteia
+    num_pages: '336'
+    publication_day: '7'
+    publication_month: '2'
+    publication_year: '1984'
+    ratings_count: '68899'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628464384l/1519._SY75_.jpg
+    title: 'The Oresteia: Agamemnon, The Libation Bearers, The Eumenides'
+    title_without_series: 'The Oresteia: Agamemnon, The Libation Bearers, The Eumenides'
+    uri: kca://book/amzn1.gr.book.v1.mGPczNEX5i1A6gzC5yRkxw
+    work:
+      id: '2378'
+  - authors:
+      author:
+        id: '1011'
+        link: https://www.goodreads.com/author/show/1011.Aristophanes
+        name: Aristophanes
+    average_rating: '3.99'
+    id: '1591'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335892524l/1591._SX98_.jpg
+    isbn: 0872206033
+    isbn13: '9780872206038'
+    link: https://www.goodreads.com/book/show/1591.Lysistrata
+    num_pages: '132'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68899'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335892524l/1591._SX50_.jpg
+    title: Lysistrata
+    title_without_series: Lysistrata
+    uri: kca://book/amzn1.gr.book.v1.R_6kint9ZuMt9jT5_7o40A
+    work:
+      id: '2482177'
+  - authors:
+      author:
+        id: '990'
+        link: https://www.goodreads.com/author/show/990.Aeschylus
+        name: Aeschylus
+    average_rating: '3.99'
+    id: '1524'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0521010756'
+    isbn13: '9780521010757'
+    link: https://www.goodreads.com/book/show/1524.Agamemnon
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68899'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Agamemnon (Oresteia, #1)'
+    title_without_series: Agamemnon
+    uri: kca://book/amzn1.gr.book.v1.E1jUOqqCOKvss19fpByuow
+    work:
+      id: '1881648'
+  - authors:
+      author:
+        id: '973'
+        link: https://www.goodreads.com/author/show/973.Euripides
+        name: Euripides
+    average_rating: '3.99'
+    id: '2099275'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420507675l/2099275._SX98_.jpg
+    isbn: 0195020499
+    isbn13: '9780195020496'
+    link: https://www.goodreads.com/book/show/2099275.Rhesos
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68899'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420507675l/2099275._SY75_.jpg
+    title: Rhesos (Greek Tragedy in New Translations)
+    title_without_series: Rhesos
+    uri: kca://book/amzn1.gr.book.v1.8LbivlmyRf1hPldcs8c0kg
+    work:
+      id: '1364859'
+  - authors:
+      author:
+        id: '973'
+        link: https://www.goodreads.com/author/show/973.Euripides
+        name: Euripides
+    average_rating: '3.99'
+    id: '380609'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328704140l/380609._SX98_.jpg
+    isbn: '1854594117'
+    isbn13: '9781854594112'
+    link: https://www.goodreads.com/book/show/380609.The_Bacchae
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68899'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328704140l/380609._SY75_.jpg
+    title: The Bacchae
+    title_without_series: The Bacchae
+    uri: kca://book/amzn1.gr.book.v1.WvEhCZp2r_QKkqnaW2KsmA
+    work:
+      id: '1842204'
+  - authors:
+      author:
+        id: '973'
+        link: https://www.goodreads.com/author/show/973.Euripides
+        name: Euripides
+    average_rating: '3.99'
+    id: '1473'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1736807577l/1473._SX98_.jpg
+    isbn: 0140449299
+    isbn13: '9780140449297'
+    link: https://www.goodreads.com/book/show/1473.Medea_and_Other_Plays
+    num_pages: '256'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68899'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1736807577l/1473._SY75_.jpg
+    title: Medea and Other Plays
+    title_without_series: Medea and Other Plays
+    uri: kca://book/amzn1.gr.book.v1.DlxwERRoumttV4YEKV-a4Q
+    work:
+      id: '1000259'
+  - authors:
+      author:
+        id: '990'
+        link: https://www.goodreads.com/author/show/990.Aeschylus
+        name: Aeschylus
+    average_rating: '3.99'
+    id: '475080'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1419184431'
+    isbn13: '9781419184437'
+    link: https://www.goodreads.com/book/show/475080.The_Suppliants
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68899'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Suppliants
+    title_without_series: The Suppliants
+    uri: kca://book/amzn1.gr.book.v1.St3ndyDxA3448wru2PW-Yg
+    work:
+      id: '2456260'
+  - authors:
+      author:
+        id: '919'
+        link: https://www.goodreads.com/author/show/919.Virgil
+        name: Virgil
+    average_rating: '3.99'
+    id: '220450463'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1324096446'
+    isbn13: '9781324096443'
+    link: https://www.goodreads.com/book/show/220450463-the-aeneid
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68899'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Aeneid
+    title_without_series: The Aeneid
+    uri: kca://book/amzn1.gr.book.v3.6Dv2g1d8oURz0JS6
+    work:
+      id: '288738'
+  - authors:
+      author:
+        id: '973'
+        link: https://www.goodreads.com/author/show/973.Euripides
+        name: Euripides
+    average_rating: '3.99'
+    id: '205173'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 019504553X
+    isbn13: '9780195045536'
+    link: https://www.goodreads.com/book/show/205173.Suppliant_Women
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68899'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Suppliant Women
+    title_without_series: Suppliant Women
+    uri: kca://book/amzn1.gr.book.v1.WKuYv-8S31EBrEs4vq1oZw
+    work:
+      id: '2320558'
+  - authors:
+      author:
+        id: '990'
+        link: https://www.goodreads.com/author/show/990.Aeschylus
+        name: Aeschylus
+    average_rating: '3.99'
+    id: '1523'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628464568l/1523._SX98_.jpg
+    isbn: '0140441123'
+    isbn13: '9780140441123'
+    link: https://www.goodreads.com/book/show/1523.Prometheus_Bound_and_Other_Plays
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68899'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628464568l/1523._SY75_.jpg
+    title: Prometheus Bound and Other Plays
+    title_without_series: Prometheus Bound and Other Plays
+    uri: kca://book/amzn1.gr.book.v1.cD2kwjgiWJV_F0y7FSUA6A
+    work:
+      id: '25229334'
+  - authors:
+      author:
+        id: '901'
+        link: https://www.goodreads.com/author/show/901.Herodotus
+        name: Herodotus
+    average_rating: '3.99'
+    id: '1362'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399225547l/1362._SX98_.jpg
+    isbn: 0140449086
+    isbn13: '9780140449082'
+    link: https://www.goodreads.com/book/show/1362.The_Histories
+    num_pages: '784'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68899'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399225547l/1362._SY75_.jpg
+    title: The Histories
+    title_without_series: The Histories
+    uri: kca://book/amzn1.gr.book.v1.MibmGvKJnymCST3hzgbhOA
+    work:
+      id: '488198'
+  - authors:
+      author:
+        id: '285217'
+        link: https://www.goodreads.com/author/show/285217.Johann_Wolfgang_von_Goethe
+        name: Johann Wolfgang von Goethe
+    average_rating: '3.99'
+    id: '14706'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0553213482
+    isbn13: '9780553213485'
+    link: https://www.goodreads.com/book/show/14706.Faust_First_Part
+    num_pages: '327'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68899'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Faust, First Part
+    title_without_series: Faust, First Part
+    uri: kca://book/amzn1.gr.book.v1.8_s2CdrTvoX432WwjCfkYQ
+    work:
+      id: '16721'
+  - authors:
+      author:
+        id: '16535395'
+        link: https://www.goodreads.com/author/show/16535395.Gaius_Julius_Caesar
+        name: Gaius Julius Caesar
+    average_rating: '3.99'
+    id: '56781'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0140441875
+    isbn13: '9780140441871'
+    link: https://www.goodreads.com/book/show/56781.The_Civil_War
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68899'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Civil War
+    title_without_series: The Civil War
+    uri: kca://book/amzn1.gr.book.v1.v5mjqbmMQCJMR52VWteHgQ
+    work:
+      id: '162131'
+  - authors:
+      author:
+        id: '973'
+        link: https://www.goodreads.com/author/show/973.Euripides
+        name: Euripides
+    average_rating: '3.99'
+    id: '1152977'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369665493l/1152977._SX98_.jpg
+    isbn: 0195096592
+    isbn13: '9780195096590'
+    link: https://www.goodreads.com/book/show/1152977.Orestes
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68899'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369665493l/1152977._SY75_.jpg
+    title: Orestes
+    title_without_series: Orestes
+    uri: kca://book/amzn1.gr.book.v1.EgDEk6uzeXaVLPQAAb5aMw
+    work:
+      id: '976590'
+  - authors:
+      author:
+        id: '973'
+        link: https://www.goodreads.com/author/show/973.Euripides
+        name: Euripides
+    average_rating: '3.99'
+    id: '752900'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328868366l/752900._SX98_.jpg
+    isbn: 0486275485
+    isbn13: '9780486275482'
+    link: https://www.goodreads.com/book/show/752900.Medea
+    num_pages: '59'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68899'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328868366l/752900._SY75_.jpg
+    title: Medea
+    title_without_series: Medea
+    uri: kca://book/amzn1.gr.book.v1.Y8HThYDJqtnvsWi0COUPOw
+    work:
+      id: '2936587'
+  - authors:
+      author:
+        id: '973'
+        link: https://www.goodreads.com/author/show/973.Euripides
+        name: Euripides
+    average_rating: '3.99'
+    id: '664965'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328704233l/664965._SX98_.jpg
+    isbn: '1854596381'
+    isbn13: '9781854596383'
+    link: https://www.goodreads.com/book/show/664965.Andromache
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68899'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328704233l/664965._SY75_.jpg
+    title: Andromache (Drama Classics)
+    title_without_series: Andromache
+    uri: kca://book/amzn1.gr.book.v1.f7ZleyKOvdCswPUw6C_WaQ
+    work:
+      id: '651024'
+  - authors:
+      author:
+        id: '973'
+        link: https://www.goodreads.com/author/show/973.Euripides
+        name: Euripides
+    average_rating: '3.99'
+    id: '862952'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1682605293l/862952._SX98_.jpg
+    isbn: '0140440445'
+    isbn13: '9780140440447'
+    link: https://www.goodreads.com/book/show/862952.The_Bacchae_and_Other_Plays
+    num_pages: '249'
+    publication_day: null
+    publication_month: null
+    publication_year: '1972'
+    ratings_count: '68899'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1682605293l/862952._SY75_.jpg
+    title: The Bacchae and Other Plays
+    title_without_series: The Bacchae and Other Plays
+    uri: kca://book/amzn1.gr.book.v1.ap33paDGggoHPUBSLJHlzQ
+    work:
+      id: '27562156'
+  - authors:
+      author:
+        id: '990'
+        link: https://www.goodreads.com/author/show/990.Aeschylus
+        name: Aeschylus
+    average_rating: '3.99'
+    id: '297593'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407894339l/297593._SY160_.jpg
+    isbn: 0195061659
+    isbn13: '9780195061659'
+    link: https://www.goodreads.com/book/show/297593.Prometheus_Bound
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68899'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407894339l/297593._SY75_.jpg
+    title: Prometheus Bound
+    title_without_series: Prometheus Bound
+    uri: kca://book/amzn1.gr.book.v1.U2HkzTXxZNueRGtZRNd8UQ
+    work:
+      id: '1156090'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '75'
+  '@type': integer
+title: 'The Oedipus Plays of Sophocles: Oedipus the King - Oedipus at Colonus - Antigone'
+title_without_series: 'The Oedipus Plays of Sophocles: Oedipus the King - Oedipus
+  at Colonus - Antigone'
+uri: kca://book/amzn1.gr.book.v1.SUca-syuNbu7eomJOMydjA
+url: https://www.goodreads.com/book/show/1537.The_Oedipus_Plays_of_Sophocles
+work:
+  id: '5672'
+  uri: kca://work/amzn1.gr.work.v1.6pLLU57qZ5GpT2Kjj_CN7w

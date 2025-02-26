@@ -1,0 +1,757 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.08'
+    id: '44037'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1215099239p5/44037.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/44037.Vernor_Vinge
+    name: Vernor Vinge
+    ratings_count: '149454'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1215099239p2/44037.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '7753'
+average_rating: '4.08'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: 'This remarkable anthology reprints Hugo winner Vinge''s "True Names"
+  (1981), the story that began SF''s cyberpunk revolution, with 11 essays showing
+  its effect on science as well as fiction. <br /><br />Here is a feast of articles
+  by computer scientists and journalists on the cutting edge of the field, writing
+  about innovations and developments of the Internet.<br /><br />____Including, among
+  others:__<br />* Danny Hillis: Founder of thinking machines and the first Disney
+  Fellow.<br /><br />* Timothy C. May: former chief scientist at Intel--a major insider
+  in the field of computers and technology.<br /><br />* Marvin Minsky: Cofounder
+  of the MIT Artificial Intelligence Lab.<br /><br />* Chip Morningstar and F. Randall
+  Farmer: Codevelopers of habitat, the first real computer interactive environment.<br
+  /><br />* Mark Pesce: Cocreator of VRML and the author of the <i>Playful World:
+  How Technology Transforms Our Imagination</i>.<br /><br />* Richard M. Stallman:
+  Research affiliate with MIT; the founder of the Free Software Movement.'
+edition_information: First, First Edition
+format: null
+id: '167846'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: 0312862075
+isbn13: '9780312862077'
+json: '{"id": "167846", "isbn": "0312862075", "isbn13": "9780312862077", "text_reviews_count":
+  {"@type": "integer", "#text": "54"}, "uri": "kca://book/amzn1.gr.book.v1.30GOuH2lO9bva8XpaYqUfQ",
+  "title": "True Names: and the Opening of the Cyberspace Frontier", "title_without_series":
+  "True Names: and the Opening of the Cyberspace Frontier", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/167846.True_Names",
+  "num_pages": "352", "format": null, "edition_information": "First, First Edition",
+  "publisher": null, "publication_day": null, "publication_year": null, "publication_month":
+  null, "average_rating": "4.08", "ratings_count": "1198", "description": "This remarkable
+  anthology reprints Hugo winner Vinge''s \"True Names\" (1981), the story that began
+  SF''s cyberpunk revolution, with 11 essays showing its effect on science as well
+  as fiction. <br /><br />Here is a feast of articles by computer scientists and journalists
+  on the cutting edge of the field, writing about innovations and developments of
+  the Internet.<br /><br />____Including, among others:__<br />* Danny Hillis: Founder
+  of thinking machines and the first Disney Fellow.<br /><br />* Timothy C. May: former
+  chief scientist at Intel--a major insider in the field of computers and technology.<br
+  /><br />* Marvin Minsky: Cofounder of the MIT Artificial Intelligence Lab.<br /><br
+  />* Chip Morningstar and F. Randall Farmer: Codevelopers of habitat, the first real
+  computer interactive environment.<br /><br />* Mark Pesce: Cocreator of VRML and
+  the author of the <i>Playful World: How Technology Transforms Our Imagination</i>.<br
+  /><br />* Richard M. Stallman: Research affiliate with MIT; the founder of the Free
+  Software Movement.", "authors": {"author": {"id": "44037", "name": "Vernor Vinge",
+  "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"},
+  "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge", "average_rating":
+  "4.08", "ratings_count": "149454", "text_reviews_count": "7753"}}, "published":
+  null, "work": {"id": "2605977", "uri": "kca://work/amzn1.gr.work.v1.VN4YBbwPe0KSgmclducmPA"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417651",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B00VPX20KE
+language_code: en-US
+large_image_url: null
+link: https://www.goodreads.com/book/show/167846.True_Names
+marketplace_id: ATVPDKIKX0DER
+num_pages: '352'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '1580'
+    '@name': to-read
+  - '@count': '117'
+    '@name': currently-reading
+  - '@count': '60'
+    '@name': science-fiction
+  - '@count': '41'
+    '@name': sci-fi
+  - '@count': '37'
+    '@name': fiction
+  - '@count': '27'
+    '@name': cyberpunk
+  - '@count': '20'
+    '@name': scifi
+  - '@count': '17'
+    '@name': non-fiction
+  - '@count': '15'
+    '@name': science
+  - '@count': '14'
+    '@name': sf
+  - '@count': '14'
+    '@name': owned
+  - '@count': '12'
+    '@name': short-stories
+  - '@count': '9'
+    '@name': nonfiction
+  - '@count': '7'
+    '@name': technology
+  - '@count': '6'
+    '@name': essays
+  - '@count': '5'
+    '@name': favorites
+  - '@count': '4'
+    '@name': fantasy
+  - '@count': '4'
+    '@name': kindle
+  - '@count': '4'
+    '@name': speculative-fiction
+  - '@count': '4'
+    '@name': computers
+  - '@count': '3'
+    '@name': classics
+  - '@count': '3'
+    '@name': digital
+  - '@count': '3'
+    '@name': computing
+  - '@count': '2'
+    '@name': ebooks
+  - '@count': '2'
+    '@name': 2000s
+  - '@count': '2'
+    '@name': scifi-fantasy
+  - '@count': '2'
+    '@name': calibre
+  - '@count': '2'
+    '@name': futurism
+  - '@count': '2'
+    '@name': fiction-scifi
+  - '@count': '2'
+    '@name': books-i-own
+  - '@count': '2'
+    '@name': future
+  - '@count': '2'
+    '@name': collection
+  - '@count': '2'
+    '@name': science-fiction-fantasy
+  - '@count': '2'
+    '@name': ebook
+  - '@count': '2'
+    '@name': books
+  - '@count': '2'
+    '@name': fiction-speculative
+  - '@count': '2'
+    '@name': singularity
+  - '@count': '2'
+    '@name': infosec
+  - '@count': '2'
+    '@name': sci-fi-fantasy
+  - '@count': '2'
+    '@name': default
+  - '@count': '2'
+    '@name': sff
+  - '@count': '2'
+    '@name': hard-sci-fi
+  - '@count': '2'
+    '@name': tech
+  - '@count': '2'
+    '@name': philosophy
+  - '@count': '2'
+    '@name': literature
+  - '@count': '1'
+    '@name': ai-cs-data-stats
+  - '@count': '1'
+    '@name': systems-and-science
+  - '@count': '1'
+    '@name': fun
+  - '@count': '1'
+    '@name': "1000-b\xFCcher"
+  - '@count': '1'
+    '@name': read-2001-2005
+  - '@count': '1'
+    '@name': calibre-home-library
+  - '@count': '1'
+    '@name': _fiction
+  - '@count': '1'
+    '@name': cyberpunk-post-cyberpunk
+  - '@count': '1'
+    '@name': libby-overdrive
+  - '@count': '1'
+    '@name': us-own
+  - '@count': '1'
+    '@name': belles-lettres
+  - '@count': '1'
+    '@name': wishlist-books
+  - '@count': '1'
+    '@name': house-books
+  - '@count': '1'
+    '@name': have
+  - '@count': '1'
+    '@name': prometheus-awards
+  - '@count': '1'
+    '@name': downloaded
+  - '@count': '1'
+    '@name': "\u5DF2\u4E0B"
+  - '@count': '1'
+    '@name': sfdg
+  - '@count': '1'
+    '@name': paper
+  - '@count': '1'
+    '@name': priority-highest
+  - '@count': '1'
+    '@name': scifi-cyberpunk
+  - '@count': '1'
+    '@name': social-science
+  - '@count': '1'
+    '@name': "ficci\xF3n"
+  - '@count': '1'
+    '@name': looking-for
+  - '@count': '1'
+    '@name': hugo-award-winners
+  - '@count': '1'
+    '@name': recommendations
+  - '@count': '1'
+    '@name': for-plex
+  - '@count': '1'
+    '@name': unread
+  - '@count': '1'
+    '@name': tbr-nonfiction
+  - '@count': '1'
+    '@name': short-stories-to-read
+  - '@count': '1'
+    '@name': short-fiction
+  - '@count': '1'
+    '@name': science-fun-to-read
+  - '@count': '1'
+    '@name': imaginative-fiction
+  - '@count': '1'
+    '@name': fiction-misc
+  - '@count': '1'
+    '@name': creamdelacream
+  - '@count': '1'
+    '@name': "att-l\xE4sa-\xF6vriga"
+  - '@count': '1'
+    '@name': asap
+  - '@count': '1'
+    '@name': anthology
+  - '@count': '1'
+    '@name': _to-buy
+  - '@count': '1'
+    '@name': _ebookshelf
+  - '@count': '1'
+    '@name': '7'
+  - '@count': '1'
+    '@name': x-2022-2023
+  - '@count': '1'
+    '@name': true-falsehoods
+  - '@count': '1'
+    '@name': to-read-scifi
+  - '@count': '1'
+    '@name': soft_sci-fi
+  - '@count': '1'
+    '@name': sf-fantasy
+  - '@count': '1'
+    '@name': sci-fi-to-buy
+  - '@count': '1'
+    '@name': owned-physical
+  - '@count': '1'
+    '@name': owned-books
+  - '@count': '1'
+    '@name': novellas
+  - '@count': '1'
+    '@name': my-favs
+  - '@count': '1'
+    '@name': media-history
+  - '@count': '1'
+    '@name': hard-scifi
+  - '@count': '1'
+    '@name': future-on-earth
+  - '@count': '1'
+    '@name': from-library
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '1198'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417651
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/167846.True_Names\"\
+  >True Names Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0312862075&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/167846.True_Names?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.08'
+    id: '201930181'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SX98_.jpg
+    isbn: 031652557X
+    isbn13: '9780316525572'
+    link: https://www.goodreads.com/book/show/201930181-the-mercy-of-gods
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1198'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SY75_.jpg
+    title: "The Mercy of Gods (The Captive\u2019s War, #1)"
+    title_without_series: The Mercy of Gods
+    uri: kca://book/amzn1.gr.book.v3.nndIiP3mF2vHLfgz
+    work:
+      id: '95320019'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.08'
+    id: '195443798'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SX98_.jpg
+    isbn: '1035013770'
+    isbn13: '9781035013777'
+    link: https://www.goodreads.com/book/show/195443798-alien-clay
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1198'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SY75_.jpg
+    title: Alien Clay
+    title_without_series: Alien Clay
+    uri: kca://book/amzn1.gr.book.v3.U07jHOWpgU_-RRTg
+    work:
+      id: '197089092'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.08'
+    id: '195790861'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698554344l/195790861._SX98_.jpg
+    isbn: '1250290287'
+    isbn13: '9781250290281'
+    link: https://www.goodreads.com/book/show/195790861-service-model
+    num_pages: '376'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1198'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698554344l/195790861._SY75_.jpg
+    title: Service Model
+    title_without_series: Service Model
+    uri: kca://book/amzn1.gr.book.v3.BUtNnpSh6EMDHugG
+    work:
+      id: '197724648'
+  - authors:
+      author:
+        id: '23113'
+        link: https://www.goodreads.com/author/show/23113.John_Brunner
+        name: John Brunner
+    average_rating: '4.08'
+    id: '41070'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0345467175'
+    isbn13: '9780345467171'
+    link: https://www.goodreads.com/book/show/41070.The_Shockwave_Rider
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1198'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Shockwave Rider
+    title_without_series: The Shockwave Rider
+    uri: kca://book/amzn1.gr.book.v1.XxcfA-QeLNaKbXBeOKKHog
+    work:
+      id: '868164'
+  - authors:
+      author:
+        id: '12581'
+        link: https://www.goodreads.com/author/show/12581.Cory_Doctorow
+        name: Cory Doctorow
+    average_rating: '4.08'
+    id: '65213928'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683246232l/65213928._SX98_.jpg
+    isbn: 125086593X
+    isbn13: '9781250865939'
+    link: https://www.goodreads.com/book/show/65213928-the-lost-cause
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1198'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683246232l/65213928._SX50_.jpg
+    title: The Lost Cause
+    title_without_series: The Lost Cause
+    uri: kca://book/amzn1.gr.book.v3.8M8hx2L1seo-ewWc
+    work:
+      id: '100097093'
+  - authors:
+      author:
+        id: '8726'
+        link: https://www.goodreads.com/author/show/8726.Richard_Matheson
+        name: Richard Matheson
+    average_rating: '4.08'
+    id: '34342010'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491272216l/34342010._SX98_.jpg
+    isbn: 014313017X
+    isbn13: '9780143130178'
+    link: https://www.goodreads.com/book/show/34342010-the-best-of-richard-matheson
+    num_pages: '407'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1198'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491272216l/34342010._SY75_.jpg
+    title: The Best of Richard Matheson
+    title_without_series: The Best of Richard Matheson
+    uri: kca://book/amzn1.gr.book.v1.fDOZYM51-0E0s8uHMz3UIA
+    work:
+      id: '55415623'
+  - authors:
+      author:
+        id: '12581'
+        link: https://www.goodreads.com/author/show/12581.Cory_Doctorow
+        name: Cory Doctorow
+    average_rating: '4.08'
+    id: '954674'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349673129l/954674._SX98_.jpg
+    isbn: 0765319853
+    isbn13: '9780765319852'
+    link: https://www.goodreads.com/book/show/954674.Little_Brother
+    num_pages: '382'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1198'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349673129l/954674._SY75_.jpg
+    title: 'Little Brother (Little Brother, #1)'
+    title_without_series: Little Brother
+    uri: kca://book/amzn1.gr.book.v1.cy9SAuu6A3pgVWQlscsLRA
+    work:
+      id: '939584'
+  - authors:
+      author:
+        id: '27167'
+        link: https://www.goodreads.com/author/show/27167.Peter_Watts
+        name: Peter Watts
+    average_rating: '4.08'
+    id: '48484'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0765312182
+    isbn13: '9780765312181'
+    link: https://www.goodreads.com/book/show/48484.Blindsight
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1198'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Blindsight (Firefall, #1)'
+    title_without_series: Blindsight
+    uri: kca://book/amzn1.gr.book.v1.A4CNk2qG0qxshK4OKH9lJQ
+    work:
+      id: '223813791'
+  - authors:
+      author:
+        id: '33919'
+        link: https://www.goodreads.com/author/show/33919.Jeff_VanderMeer
+        name: Jeff VanderMeer
+    average_rating: '4.08'
+    id: '35654201'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499802638l/35654201._SX98_.jpg
+    isbn: 0374714932
+    isbn13: '9780374714932'
+    link: https://www.goodreads.com/book/show/35654201-the-strange-bird
+    num_pages: '96'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1198'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499802638l/35654201._SY75_.jpg
+    title: 'The Strange Bird: A Borne Story (Borne, #1.5)'
+    title_without_series: 'The Strange Bird: A Borne Story'
+    uri: kca://book/amzn1.gr.book.v1.qWEZBa-wqmeC0rd5KVj57A
+    work:
+      id: '57106746'
+  - authors:
+      author:
+        id: '8794'
+        link: https://www.goodreads.com/author/show/8794.Charles_Stross
+        name: Charles Stross
+    average_rating: '4.08'
+    id: '81992'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446324638l/81992._SY160_.jpg
+    isbn: '1841493341'
+    isbn13: '9781841493343'
+    link: https://www.goodreads.com/book/show/81992.Singularity_Sky
+    num_pages: '389'
+    publication_day: '3'
+    publication_month: '2'
+    publication_year: '2005'
+    ratings_count: '1198'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446324638l/81992._SY75_.jpg
+    title: 'Singularity Sky (Eschaton, #1)'
+    title_without_series: Singularity Sky
+    uri: kca://book/amzn1.gr.book.v1.b-HTmxepsO4fuoPbkPszgg
+    work:
+      id: '1192005'
+  - authors:
+      author:
+        id: '130698'
+        link: https://www.goodreads.com/author/show/130698.Ted_Chiang
+        name: Ted Chiang
+    average_rating: '4.08'
+    id: '223380'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356138316l/223380._SX98_.jpg
+    isbn: 0330426648
+    isbn13: '9780330426640'
+    link: https://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others
+    num_pages: '281'
+    publication_day: '26'
+    publication_month: '10'
+    publication_year: '2010'
+    ratings_count: '1198'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356138316l/223380._SY75_.jpg
+    title: Stories of Your Life and Others
+    title_without_series: Stories of Your Life and Others
+    uri: kca://book/amzn1.gr.book.v1.6ROctfOV67ctZ-15jWtTcA
+    work:
+      id: '216334'
+  - authors:
+      author:
+        id: '542704'
+        link: https://www.goodreads.com/author/show/542704.Elyn_R_Saks
+        name: Elyn R. Saks
+    average_rating: '4.08'
+    id: '1098486'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 140130138X
+    isbn13: '9781401301385'
+    link: https://www.goodreads.com/book/show/1098486.The_Center_Cannot_Hold
+    num_pages: '340'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1198'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Center Cannot Hold: My Journey Through Madness'
+    title_without_series: 'The Center Cannot Hold: My Journey Through Madness'
+    uri: kca://book/amzn1.gr.book.v1.iNEl8SuLBqhv9jxEwK3EnA
+    work:
+      id: '1085345'
+  - authors:
+      author:
+        id: '16667'
+        link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+        name: Isaac Asimov
+    average_rating: '4.08'
+    id: '509784'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405527675l/509784._SY160_.jpg
+    isbn: 0449016196
+    isbn13: '9780449016190'
+    link: https://www.goodreads.com/book/show/509784.The_End_of_Eternity
+    num_pages: '192'
+    publication_day: '1'
+    publication_month: '10'
+    publication_year: '1971'
+    ratings_count: '1198'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405527675l/509784._SY75_.jpg
+    title: The End of Eternity
+    title_without_series: The End of Eternity
+    uri: kca://book/amzn1.gr.book.v1.QLnS_j2ciDUtSh2nrZjPSg
+    work:
+      id: '1407851'
+  - authors:
+      author:
+        id: '32699'
+        link: https://www.goodreads.com/author/show/32699.Greg_Egan
+        name: Greg Egan
+    average_rating: '4.08'
+    id: '156784'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287341300l/156784._SX98_.jpg
+    isbn: 006105481X
+    isbn13: '9780061054815'
+    link: https://www.goodreads.com/book/show/156784.Permutation_City
+    num_pages: null
+    publication_day: '1'
+    publication_month: '10'
+    publication_year: '1995'
+    ratings_count: '1198'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287341300l/156784._SY75_.jpg
+    title: Permutation City
+    title_without_series: Permutation City
+    uri: kca://book/amzn1.gr.book.v1.A3IoZPRSxagXXL_SaevHJw
+    work:
+      id: '1270567'
+  - authors:
+      author:
+        id: '9226'
+        link: https://www.goodreads.com/author/show/9226.William_Gibson
+        name: William Gibson
+    average_rating: '4.08'
+    id: '22323'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0060539828
+    isbn13: '9780060539825'
+    link: https://www.goodreads.com/book/show/22323.Burning_Chrome
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1198'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Burning Chrome (Sprawl, #0)'
+    title_without_series: Burning Chrome
+    uri: kca://book/amzn1.gr.book.v1.3j9hbcDQL0F12GZ3bbn_yA
+    work:
+      id: '2457086'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.08'
+    id: '12591698'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407572377l/12591698._SX98_.jpg
+    isbn: '1841499900'
+    isbn13: '9781841499901'
+    link: https://www.goodreads.com/book/show/12591698-caliban-s-war
+    num_pages: '624'
+    publication_day: '26'
+    publication_month: '6'
+    publication_year: '2012'
+    ratings_count: '1198'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407572377l/12591698._SY75_.jpg
+    title: "Caliban\u2019s War (The Expanse, #2)"
+    title_without_series: "Caliban\u2019s War"
+    uri: kca://book/amzn1.gr.book.v1.0XisucKtvM8-4g28MVMe8A
+    work:
+      id: '17606541'
+  - authors:
+      author:
+        id: '874602'
+        link: https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin
+        name: Ursula K. Le Guin
+    average_rating: '4.08'
+    id: '13651'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353467455l/13651._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/13651.The_Dispossessed
+    num_pages: '387'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1198'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353467455l/13651._SY75_.jpg
+    title: 'The Dispossessed: An Ambiguous Utopia'
+    title_without_series: 'The Dispossessed: An Ambiguous Utopia'
+    uri: kca://book/amzn1.gr.book.v1.fs3o1C0_BUylFGBWOdXMFw
+    work:
+      id: '2684122'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.08'
+    id: '150254281'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1694565383l/150254281._SX98_.jpg
+    isbn: '1035901382'
+    isbn13: '9781035901388'
+    link: https://www.goodreads.com/book/show/150254281-house-of-open-wounds
+    num_pages: '608'
+    publication_day: '7'
+    publication_month: '12'
+    publication_year: '2023'
+    ratings_count: '1198'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1694565383l/150254281._SY75_.jpg
+    title: 'House of Open Wounds (The Tyrant Philosophers, #2)'
+    title_without_series: House of Open Wounds
+    uri: kca://book/amzn1.gr.book.v3.t2uQDvZlJ_07HUYj
+    work:
+      id: '165136388'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '54'
+  '@type': integer
+title: 'True Names: and the Opening of the Cyberspace Frontier'
+title_without_series: 'True Names: and the Opening of the Cyberspace Frontier'
+uri: kca://book/amzn1.gr.book.v1.30GOuH2lO9bva8XpaYqUfQ
+url: https://www.goodreads.com/book/show/167846.True_Names
+work:
+  id: '2605977'
+  uri: kca://work/amzn1.gr.work.v1.VN4YBbwPe0KSgmclducmPA

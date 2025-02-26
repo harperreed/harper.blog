@@ -1,0 +1,757 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.14'
+    id: '9097'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1705118688p5/9097.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/9097.Legs_McNeil
+    name: Legs McNeil
+    ratings_count: '43759'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1705118688p2/9097.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '2468'
+average_rating: '4.20'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2018-05-10T00:00:00-07:00'
+description: "<div>A <i>Time Out</i> and <i>Daily News</i> Top Ten Book of the Year\
+  \ upon its initial release, <i>Please Kill Me</i> is the first oral history of the\
+  \ most nihilist of all pop movements. Iggy Pop, Danny Fields, Dee Dee and Joey Ramone,\
+  \ Malcom McLaren, Jim Carroll, and scores of other famous and infamous punk figures\
+  \ lend their voices to this definitive account of that outrageous, explosive era.\
+  \ From its origins in the twilight years of Andy Warhol\xE2\u20AC\u2122s New York\
+  \ reign to its last gasps as eighties corporate rock, the phenomenon known as punk\
+  \ is scrutinized, eulogized, and idealized by the people who were there and who\
+  \ made it happen.<br /></div>"
+edition_information: 20th Anniversary
+format: null
+id: '19426528'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn: 0802192769
+isbn13: '9780802192769'
+json: '{"id": "19426528", "isbn": "0802192769", "isbn13": "9780802192769", "text_reviews_count":
+  {"@type": "integer", "#text": "46"}, "uri": "kca://book/amzn1.gr.book.v1.1AwvniYJ2vwpI6A6UajoGQ",
+  "title": "Please Kill Me: The Uncensored Oral History of Punk", "title_without_series":
+  "Please Kill Me: The Uncensored Oral History of Punk", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/19426528-please-kill-me",
+  "num_pages": null, "format": null, "edition_information": "20th Anniversary", "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "4.20", "ratings_count": "35315", "description": "<div>A <i>Time
+  Out</i> and <i>Daily News</i> Top Ten Book of the Year upon its initial release,
+  <i>Please Kill Me</i> is the first oral history of the most nihilist of all pop
+  movements. Iggy Pop, Danny Fields, Dee Dee and Joey Ramone, Malcom McLaren, Jim
+  Carroll, and scores of other famous and infamous punk figures lend their voices
+  to this definitive account of that outrageous, explosive era. From its origins in
+  the twilight years of Andy Warhol\u00e2\u20ac\u2122s New York reign to its last
+  gasps as eighties corporate rock, the phenomenon known as punk is scrutinized, eulogized,
+  and idealized by the people who were there and who made it happen.<br /></div>",
+  "authors": {"author": {"id": "9097", "name": "Legs McNeil", "role": null, "image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1705118688p5/9097.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1705118688p2/9097.jpg"},
+  "link": "https://www.goodreads.com/author/show/9097.Legs_McNeil", "average_rating":
+  "4.14", "ratings_count": "43759", "text_reviews_count": "2468"}}, "published": null,
+  "work": {"id": "1820137", "uri": "kca://work/amzn1.gr.work.v1.RZtlvomAclyHmbpELJ57HA"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/2325841406",
+  "read_at": "Thu May 10 00:00:00 -0700 2018", "started_at": "Mon Mar 12 00:00:00
+  -0700 2018", "date": "Thu May 10 00:00:00 -0700 2018"}'
+kindle_asin: B00F21WW6W
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/19426528-please-kill-me
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '77420'
+    '@name': to-read
+  - '@count': '1825'
+    '@name': currently-reading
+  - '@count': '1504'
+    '@name': music
+  - '@count': '846'
+    '@name': non-fiction
+  - '@count': '429'
+    '@name': nonfiction
+  - '@count': '419'
+    '@name': favorites
+  - '@count': '354'
+    '@name': history
+  - '@count': '168'
+    '@name': rory-gilmore-reading-challenge
+  - '@count': '122'
+    '@name': owned
+  - '@count': '108'
+    '@name': punk
+  - '@count': '107'
+    '@name': gilmore-girls
+  - '@count': '99'
+    '@name': rory-gilmore-reading-list
+  - '@count': '98'
+    '@name': biography
+  - '@count': '96'
+    '@name': rory-gilmore
+  - '@count': '90'
+    '@name': rory-gilmore-challenge
+  - '@count': '73'
+    '@name': books-i-own
+  - '@count': '60'
+    '@name': to-buy
+  - '@count': '41'
+    '@name': "m\xFAsica"
+  - '@count': '41'
+    '@name': musica
+  - '@count': '40'
+    '@name': art
+  - '@count': '40'
+    '@name': pop-culture
+  - '@count': '39'
+    '@name': oral-history
+  - '@count': '35'
+    '@name': gilmore-girls-reading-list
+  - '@count': '34'
+    '@name': gilmore
+  - '@count': '34'
+    '@name': library
+  - '@count': '34'
+    '@name': memoir
+  - '@count': '32'
+    '@name': jess-mariano
+  - '@count': '32'
+    '@name': music-books
+  - '@count': '31'
+    '@name': new-york
+  - '@count': '30'
+    '@name': dnf
+  - '@count': '29'
+    '@name': kindle
+  - '@count': '29'
+    '@name': music-history
+  - '@count': '28'
+    '@name': favourites
+  - '@count': '27'
+    '@name': jess-mariano-reading-list
+  - '@count': '27'
+    '@name': culture
+  - '@count': '26'
+    '@name': physical-tbr
+  - '@count': '26'
+    '@name': historical
+  - '@count': '25'
+    '@name': punk-rock
+  - '@count': '24'
+    '@name': rory
+  - '@count': '24'
+    '@name': rock-n-roll
+  - '@count': '23'
+    '@name': non-fic
+  - '@count': '23'
+    '@name': biographies
+  - '@count': '23'
+    '@name': music-related
+  - '@count': '22'
+    '@name': gilmore-girls-reading-challenge
+  - '@count': '22'
+    '@name': owned-books
+  - '@count': '21'
+    '@name': jess
+  - '@count': '20'
+    '@name': gilmore-girls-challenge
+  - '@count': '20'
+    '@name': rory-gilmore-list
+  - '@count': '19'
+    '@name': bookshelf
+  - '@count': '19'
+    '@name': the-rory-gilmore-reading-challenge
+  - '@count': '19'
+    '@name': biography-memoir
+  - '@count': '19'
+    '@name': nonfic
+  - '@count': '18'
+    '@name': tbr
+  - '@count': '18'
+    '@name': memoirs
+  - '@count': '17'
+    '@name': non-fiction-tbr
+  - '@count': '17'
+    '@name': wish-list
+  - '@count': '16'
+    '@name': want-to-buy
+  - '@count': '16'
+    '@name': abandoned
+  - '@count': '15'
+    '@name': gilmore-challenge
+  - '@count': '15'
+    '@name': gg
+  - '@count': '15'
+    '@name': musik
+  - '@count': '15'
+    '@name': rock
+  - '@count': '15'
+    '@name': nyc
+  - '@count': '14'
+    '@name': rory-gilmore-book-list
+  - '@count': '14'
+    '@name': to-read-non-fiction
+  - '@count': '13'
+    '@name': journalism
+  - '@count': '12'
+    '@name': nonfiction-tbr
+  - '@count': '12'
+    '@name': rory-gilmore-books
+  - '@count': '12'
+    '@name': ebook
+  - '@count': '12'
+    '@name': my-library
+  - '@count': '12'
+    '@name': 20th-century
+  - '@count': '11'
+    '@name': really-want-to-read
+  - '@count': '11'
+    '@name': usa
+  - '@count': '11'
+    '@name': memoir-biography
+  - '@count': '11'
+    '@name': music-bios
+  - '@count': '11'
+    '@name': drugs
+  - '@count': '10'
+    '@name': gilmore-girls-book-list
+  - '@count': '10'
+    '@name': rory-gilmore-book-challenge
+  - '@count': '10'
+    '@name': books
+  - '@count': '10'
+    '@name': my-books
+  - '@count': '10'
+    '@name': bio
+  - '@count': '10'
+    '@name': music-non-fiction
+  - '@count': '9'
+    '@name': rg
+  - '@count': '9'
+    '@name': my-bookshelf
+  - '@count': '9'
+    '@name': rory-gilmore-booklist
+  - '@count': '9'
+    '@name': books-about-music
+  - '@count': '9'
+    '@name': priority
+  - '@count': '9'
+    '@name': gilmore-girls-books
+  - '@count': '9'
+    '@name': jess-reading-list
+  - '@count': '9'
+    '@name': reading-challenge
+  - '@count': '9'
+    '@name': on-hold
+  - '@count': '9'
+    '@name': contemporary
+  - '@count': '9'
+    '@name': recommended
+  - '@count': '9'
+    '@name': essays
+  - '@count': '9'
+    '@name': to-read-nonfiction
+  - '@count': '8'
+    '@name': on-my-shelf
+  - '@count': '8'
+    '@name': oral-histories
+  - '@count': '8'
+    '@name': didn-t-finish
+  - '@count': '8'
+    '@name': non-fiction-to-read
+  - '@count': '8'
+    '@name': music-to-read
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '35315'
+read_at: '2018-05-10T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/2325841406
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/19426528-please-kill-me\"\
+  >Please Kill Me Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0802192769&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/19426528-please-kill-me?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '16495'
+        link: https://www.goodreads.com/author/show/16495.Michael_Azerrad
+        name: Michael Azerrad
+    average_rating: '4.20'
+    id: '29393'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543095533l/29393._SX98_.jpg
+    isbn: 0316787531
+    isbn13: '9780316787536'
+    link: https://www.goodreads.com/book/show/29393.Our_Band_Could_Be_Your_Life
+    num_pages: '522'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543095533l/29393._SY75_.jpg
+    title: 'Our Band Could Be Your Life: Scenes from the American Indie Underground
+      1981-1991'
+    title_without_series: 'Our Band Could Be Your Life: Scenes from the American Indie
+      Underground 1981-1991'
+    uri: kca://book/amzn1.gr.book.v1.V272zeAL_kIutt0hGHqvTw
+    work:
+      id: '522136'
+  - authors:
+      author:
+        id: '2870641'
+        link: https://www.goodreads.com/author/show/2870641.Alex_Ross
+        name: Alex  Ross
+    average_rating: '4.20'
+    id: '21198651'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0007519591
+    isbn13: '9780007519590'
+    link: https://www.goodreads.com/book/show/21198651-the-rest-is-noise-series
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35315'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Rest Is Noise Series: Apparition from the Woods: The Loneliness of
+      Jean Sibelius (Time for a Rhyme)'
+    title_without_series: 'The Rest Is Noise Series: Apparition from the Woods: The
+      Loneliness of Jean Sibelius'
+    uri: kca://book/amzn1.gr.book.v1.ivf84La1wZkYtvYbfIHtlw
+    work:
+      id: '40535878'
+  - authors:
+      author:
+        id: '51552'
+        link: https://www.goodreads.com/author/show/51552.Simon_Reynolds
+        name: Simon Reynolds
+    average_rating: '4.20'
+    id: '272642'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738701527l/272642._SX98_.jpg
+    isbn: 0571215696
+    isbn13: '9780571215690'
+    link: https://www.goodreads.com/book/show/272642.Rip_it_Up_and_Start_Again_Post_punk_1978_1984
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738701527l/272642._SY75_.jpg
+    title: Rip it Up and Start Again. Post-punk 1978-1984
+    title_without_series: Rip it Up and Start Again. Post-punk 1978-1984
+    uri: kca://book/amzn1.gr.book.v1.zjXVIC0qo-0xvD0O3Q0KVA
+    work:
+      id: '218313'
+  - authors:
+      author:
+        id: '3378991'
+        link: https://www.goodreads.com/author/show/3378991.Sara_Marcus
+        name: Sara Marcus
+    average_rating: '4.20'
+    id: '7742036'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1273785498l/7742036._SX98_.jpg
+    isbn: 0061806366
+    isbn13: '9780061806360'
+    link: https://www.goodreads.com/book/show/7742036-girls-to-the-front
+    num_pages: '367'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1273785498l/7742036._SY75_.jpg
+    title: 'Girls to the Front: The True Story of the Riot Grrrl Revolution'
+    title_without_series: 'Girls to the Front: The True Story of the Riot Grrrl Revolution'
+    uri: kca://book/amzn1.gr.book.v1.3y3EhybN-MsQVNfNkDkCLQ
+    work:
+      id: '10553943'
+  - authors:
+      author:
+        id: '362852'
+        link: https://www.goodreads.com/author/show/362852.Kim_Gordon
+        name: Kim Gordon
+    average_rating: '4.20'
+    id: '22693211'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412840109l/22693211._SX98_.jpg
+    isbn: 0062295896
+    isbn13: '9780062295897'
+    link: https://www.goodreads.com/book/show/22693211-girl-in-a-band
+    num_pages: '273'
+    publication_day: '24'
+    publication_month: '2'
+    publication_year: '2015'
+    ratings_count: '35315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412840109l/22693211._SY75_.jpg
+    title: Girl in a Band
+    title_without_series: Girl in a Band
+    uri: kca://book/amzn1.gr.book.v1.YyzBHC7IxAcRxaA7Iwo4Tg
+    work:
+      id: '42205774'
+  - authors:
+      author:
+        id: '27078'
+        link: https://www.goodreads.com/author/show/27078.David_Byrne
+        name: David Byrne
+    average_rating: '4.20'
+    id: '13235689'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340792878l/13235689._SX98_.jpg
+    isbn: '1936365537'
+    isbn13: '9781936365531'
+    link: https://www.goodreads.com/book/show/13235689-how-music-works
+    num_pages: '345'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340792878l/13235689._SX50_.jpg
+    title: How Music Works
+    title_without_series: How Music Works
+    uri: kca://book/amzn1.gr.book.v1.UHZOCtt2PpzCQ_r5iTnYKQ
+    work:
+      id: '18433052'
+  - authors:
+      author:
+        id: '71665'
+        link: https://www.goodreads.com/author/show/71665.Richard_Hell
+        name: Richard Hell
+    average_rating: '4.20'
+    id: '15819523'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353159963l/15819523._SX98_.jpg
+    isbn: 0062190857
+    isbn13: '9780062190857'
+    link: https://www.goodreads.com/book/show/15819523-i-dreamed-i-was-a-very-clean-tramp
+    num_pages: '248'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353159963l/15819523._SX50_.jpg
+    title: I Dreamed I Was a Very Clean Tramp
+    title_without_series: I Dreamed I Was a Very Clean Tramp
+    uri: kca://book/amzn1.gr.book.v1.77aswNXlAjN_JPVbTtlQUA
+    work:
+      id: '21548539'
+  - authors:
+      author:
+        id: '25847'
+        link: https://www.goodreads.com/author/show/25847.Lester_Bangs
+        name: Lester Bangs
+    average_rating: '4.20'
+    id: '239404'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328126537l/239404._SX98_.jpg
+    isbn: 0679720456
+    isbn13: '9780679720454'
+    link: https://www.goodreads.com/book/show/239404.Psychotic_Reactions_and_Carburetor_Dung
+    num_pages: '391'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328126537l/239404._SY75_.jpg
+    title: Psychotic Reactions and Carburetor Dung
+    title_without_series: Psychotic Reactions and Carburetor Dung
+    uri: kca://book/amzn1.gr.book.v1.8txiQdaiY5lyFx9hUe5vvw
+    work:
+      id: '62767'
+  - authors:
+      author:
+        id: '45539'
+        link: https://www.goodreads.com/author/show/45539.Keith_Richards
+        name: Keith Richards
+    average_rating: '4.20'
+    id: '9439303'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327960451l/9439303._SX98_.jpg
+    isbn: 0297854399
+    isbn13: '9780297854395'
+    link: https://www.goodreads.com/book/show/9439303-life
+    num_pages: '576'
+    publication_day: '2'
+    publication_month: '10'
+    publication_year: '2010'
+    ratings_count: '35315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327960451l/9439303._SY75_.jpg
+    title: Life
+    title_without_series: Life
+    uri: kca://book/amzn1.gr.book.v1.1qjPk41_QTvbteXb6iS1qA
+    work:
+      id: '14323907'
+  - authors:
+      author:
+        id: '4371789'
+        link: https://www.goodreads.com/author/show/4371789.Lizzy_Goodman
+        name: Lizzy Goodman
+    average_rating: '4.20'
+    id: '25816741'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492870833l/25816741._SX98_.jpg
+    isbn: 0062233092
+    isbn13: '9780062233097'
+    link: https://www.goodreads.com/book/show/25816741-meet-me-in-the-bathroom
+    num_pages: '622'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492870833l/25816741._SY75_.jpg
+    title: 'Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City 2001-2011'
+    title_without_series: 'Meet Me in the Bathroom: Rebirth and Rock and Roll in New
+      York City 2001-2011'
+    uri: kca://book/amzn1.gr.book.v1.UXvA9WymUESypCG9lzISqg
+    work:
+      id: '45673821'
+  - authors:
+      author:
+        id: '18777224'
+        link: https://www.goodreads.com/author/show/18777224.John_Doe
+        name: John  Doe
+    average_rating: '4.20'
+    id: '25898106'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456379376l/25898106._SX98_.jpg
+    isbn: 0306824086
+    isbn13: '9780306824081'
+    link: https://www.goodreads.com/book/show/25898106-under-the-big-black-sun
+    num_pages: '277'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456379376l/25898106._SY75_.jpg
+    title: 'Under the Big Black Sun: A Personal History of L.A. Punk'
+    title_without_series: 'Under the Big Black Sun: A Personal History of L.A. Punk'
+    uri: kca://book/amzn1.gr.book.v1.FrsKfc81IpqQSiP0Vezxfg
+    work:
+      id: '45780999'
+  - authors:
+      author:
+        id: '64277'
+        link: https://www.goodreads.com/author/show/64277.Jerry_Hopkins
+        name: Jerry Hopkins
+    average_rating: '4.20'
+    id: '691520'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344270704l/691520._SX98_.jpg
+    isbn: 0446697338
+    isbn13: '9780446697330'
+    link: https://www.goodreads.com/book/show/691520.No_One_Here_Gets_Out_Alive
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344270704l/691520._SY75_.jpg
+    title: No One Here Gets Out Alive
+    title_without_series: No One Here Gets Out Alive
+    uri: kca://book/amzn1.gr.book.v1.acE2Vf-YsIyp0t40UzmgZw
+    work:
+      id: '1422202'
+  - authors:
+      author:
+        id: '7504032'
+        link: https://www.goodreads.com/author/show/7504032.Viv_Albertine
+        name: Viv Albertine
+    average_rating: '4.20'
+    id: '19246471'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403832377l/19246471._SX98_.jpg
+    isbn: 0571297757
+    isbn13: '9780571297757'
+    link: https://www.goodreads.com/book/show/19246471-clothes-clothes-clothes-music-music-music-boys-boys-boys
+    num_pages: '421'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403832377l/19246471._SY75_.jpg
+    title: Clothes, Clothes, Clothes. Music, Music, Music. Boys, Boys, Boys
+    title_without_series: Clothes, Clothes, Clothes. Music, Music, Music. Boys, Boys,
+      Boys
+    uri: kca://book/amzn1.gr.book.v1.Y8qABGyZ610nyAy9yH5Zrg
+    work:
+      id: '27292340'
+  - authors:
+      author:
+        id: '8898'
+        link: https://www.goodreads.com/author/show/8898.Bob_Dylan
+        name: Bob Dylan
+    average_rating: '4.20'
+    id: '14318'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0743244583
+    isbn13: '9780743244589'
+    link: https://www.goodreads.com/book/show/14318.Chronicles_Volume_One
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35315'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Chronicles, Volume One
+    title_without_series: Chronicles, Volume One
+    uri: kca://book/amzn1.gr.book.v1.VoPgniSrwZVV-AAMTbPwHA
+    work:
+      id: '20014'
+  - authors:
+      author:
+        id: '50588'
+        link: https://www.goodreads.com/author/show/50588.Marc_Spitz
+        name: Marc Spitz
+    average_rating: '4.20'
+    id: '89326'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320452826l/89326._SX98_.jpg
+    isbn: 0609807749
+    isbn13: '9780609807743'
+    link: https://www.goodreads.com/book/show/89326.We_Got_the_Neutron_Bomb_
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320452826l/89326._SY75_.jpg
+    title: 'We Got the Neutron Bomb : The Untold Story of L.A. Punk'
+    title_without_series: 'We Got the Neutron Bomb : The Untold Story of L.A. Punk'
+    uri: kca://book/amzn1.gr.book.v1.YvExoabEQa5iUcCfTafOMw
+    work:
+      id: '1233005'
+  - authors:
+      author:
+        id: '104566'
+        link: https://www.goodreads.com/author/show/104566.Jon_Savage
+        name: Jon Savage
+    average_rating: '4.20'
+    id: '330729'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316727306l/330729._SX98_.jpg
+    isbn: 0312288220
+    isbn13: '9780312288228'
+    link: https://www.goodreads.com/book/show/330729.England_s_Dreaming
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316727306l/330729._SY75_.jpg
+    title: 'England''s Dreaming: Anarchy, Sex Pistols, Punk Rock, and Beyond'
+    title_without_series: 'England''s Dreaming: Anarchy, Sex Pistols, Punk Rock, and
+      Beyond'
+    uri: kca://book/amzn1.gr.book.v1.WBaLkRbVSt8__qiVts2Z1g
+    work:
+      id: '1802142'
+  - authors:
+      author:
+        id: '196092'
+        link: https://www.goodreads.com/author/show/196092.Patti_Smith
+        name: Patti Smith
+    average_rating: '4.20'
+    id: '206318521'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1706691407l/206318521._SX98_.jpg
+    isbn: 006621131X
+    isbn13: '9780066211312'
+    link: https://www.goodreads.com/book/show/206318521-just-kids
+    num_pages: '262'
+    publication_day: '26'
+    publication_month: '3'
+    publication_year: '2010'
+    ratings_count: '35315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1706691407l/206318521._SY75_.jpg
+    title: Just Kids
+    title_without_series: Just Kids
+    uri: kca://book/amzn1.gr.book.v3.X8BSMqGr7HHgBmnA
+    work:
+      id: '332242'
+  - authors:
+      author:
+        id: '52472'
+        link: https://www.goodreads.com/author/show/52472.Steven_Blush
+        name: Steven Blush
+    average_rating: '4.20'
+    id: '98542'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328768803l/98542._SX98_.jpg
+    isbn: 0922915717
+    isbn13: '9780922915712'
+    link: https://www.goodreads.com/book/show/98542.American_Hardcore
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328768803l/98542._SX50_.jpg
+    title: 'American Hardcore: A Tribal History'
+    title_without_series: 'American Hardcore: A Tribal History'
+    uri: kca://book/amzn1.gr.book.v1.l9jxkRxlngE5icgV_vOsNw
+    work:
+      id: '94995'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: '2018-03-12T00:00:00-07:00'
+text_reviews_count:
+  '#text': '46'
+  '@type': integer
+title: 'Please Kill Me: The Uncensored Oral History of Punk'
+title_without_series: 'Please Kill Me: The Uncensored Oral History of Punk'
+uri: kca://book/amzn1.gr.book.v1.1AwvniYJ2vwpI6A6UajoGQ
+url: https://www.goodreads.com/book/show/19426528-please-kill-me
+work:
+  id: '1820137'
+  uri: kca://work/amzn1.gr.work.v1.RZtlvomAclyHmbpELJ57HA

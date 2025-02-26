@@ -1,0 +1,756 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.85'
+    id: '578581'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1545180307p5/578581.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/578581.Linda_Nagata
+    name: Linda Nagata
+    ratings_count: '20287'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1545180307p2/578581.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '2148'
+average_rating: '4.03'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2021-06-01T00:00:00-07:00'
+description: "Ava Arnett is a Honolulu cop, captain of the night shift in the autonomous\
+  \ Waikiki District. Nine years ago a massive hurricane hit the island. Ava remains\
+  \ haunted by the mistakes she made and the lives she failed to save during that\
+  \ disaster. Since then, she relies on HADAFA, an AI designed to observe, analyze,\
+  \ and predict human behavior. HADAFA monitors her actions, and its assessments guide\
+  \ her decisions.<br /><br />Now, another Category 5 hurricane is approaching Honolulu\u2026\
+  \ In the hectic hours before landfall, Ava stumbles into a terrorist conspiracy\
+  \ \u2013 and HADAFA begins to glitch. She can no longer rely on the AI. She must\
+  \ decide on her own whether or not to trust a mysterious federal agent named Lyric\
+  \ Jones \u2013 knowing the wrong choice could lead to greater devastation... and\
+  \ a war no one will win."
+edition_information: null
+format: null
+id: '55525169'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn: '1937197328'
+isbn13: '9781937197322'
+json: '{"id": "55525169", "isbn": "1937197328", "isbn13": "9781937197322", "text_reviews_count":
+  {"@type": "integer", "#text": "38"}, "uri": "kca://book/amzn1.gr.book.v3.mSD-Yq_ZSTjBByNj",
+  "title": "Pacific Storm", "title_without_series": "Pacific Storm", "image_url":
+  "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/55525169-pacific-storm",
+  "num_pages": "270", "format": null, "edition_information": null, "publisher": "Mythic
+  Island Press", "publication_day": null, "publication_year": null, "publication_month":
+  null, "average_rating": "4.03", "ratings_count": "188", "description": "Ava Arnett
+  is a Honolulu cop, captain of the night shift in the autonomous Waikiki District.
+  Nine years ago a massive hurricane hit the island. Ava remains haunted by the mistakes
+  she made and the lives she failed to save during that disaster. Since then, she
+  relies on HADAFA, an AI designed to observe, analyze, and predict human behavior.
+  HADAFA monitors her actions, and its assessments guide her decisions.<br /><br />Now,
+  another Category 5 hurricane is approaching Honolulu\u2026 In the hectic hours before
+  landfall, Ava stumbles into a terrorist conspiracy \u2013 and HADAFA begins to glitch.
+  She can no longer rely on the AI. She must decide on her own whether or not to trust
+  a mysterious federal agent named Lyric Jones \u2013 knowing the wrong choice could
+  lead to greater devastation... and a war no one will win.", "authors": {"author":
+  {"id": "578581", "name": "Linda Nagata", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1545180307p5/578581.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1545180307p2/578581.jpg"},
+  "link": "https://www.goodreads.com/author/show/578581.Linda_Nagata", "average_rating":
+  "3.85", "ratings_count": "20287", "text_reviews_count": "2148"}}, "published": null,
+  "work": {"id": "86587890", "uri": "kca://work/amzn1.gr.work.v3.IOBG64w-qrVcDll-"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/4033887327",
+  "read_at": "Tue Jun 01 00:00:00 -0700 2021", "started_at": "Mon May 31 00:00:00
+  -0700 2021", "date": "Tue Jun 01 00:00:00 -0700 2021"}'
+kindle_asin: B08KC4HN9F
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/55525169-pacific-storm
+marketplace_id: ATVPDKIKX0DER
+num_pages: '270'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '231'
+    '@name': to-read
+  - '@count': '44'
+    '@name': currently-reading
+  - '@count': '13'
+    '@name': science-fiction
+  - '@count': '5'
+    '@name': sci-fi
+  - '@count': '5'
+    '@name': thriller
+  - '@count': '3'
+    '@name': kindle
+  - '@count': '3'
+    '@name': sf
+  - '@count': '2'
+    '@name': fiction
+  - '@count': '2'
+    '@name': owned
+  - '@count': '2'
+    '@name': dnf
+  - '@count': '1'
+    '@name': climate-fiction
+  - '@count': '1'
+    '@name': favorites
+  - '@count': '1'
+    '@name': challenge
+  - '@count': '1'
+    '@name': r3
+  - '@count': '1'
+    '@name': candyland
+  - '@count': '1'
+    '@name': giveaways-to-read
+  - '@count': '1'
+    '@name': to-read-sooner
+  - '@count': '1'
+    '@name': friend-recommended
+  - '@count': '1'
+    '@name': buy-if-i-want-to-read
+  - '@count': '1'
+    '@name': libby-audiobook
+  - '@count': '1'
+    '@name': tropical
+  - '@count': '1'
+    '@name': hold-sfpl-link-plus
+  - '@count': '1'
+    '@name': female-author
+  - '@count': '1'
+    '@name': bought-2022
+  - '@count': '1'
+    '@name': wish-list
+  - '@count': '1'
+    '@name': fantasy-science-fiction
+  - '@count': '1'
+    '@name': in-dropbox
+  - '@count': '1'
+    '@name': considering
+  - '@count': '1'
+    '@name': 0-0n-kindle-oasis-2
+  - '@count': '1'
+    '@name': readme
+  - '@count': '1'
+    '@name': hawaii
+  - '@count': '1'
+    '@name': tbr-on-hand
+  - '@count': '1'
+    '@name': a-1e-ur-tbd-1-3-year-s
+  - '@count': '1'
+    '@name': women-slay-genre-fiction
+  - '@count': '1'
+    '@name': scifi
+  - '@count': '1'
+    '@name': mystery
+  - '@count': '1'
+    '@name': speculative
+  - '@count': '1'
+    '@name': reviewed
+  - '@count': '1'
+    '@name': suspense-thriller
+  - '@count': '1'
+    '@name': speculative-fiction
+  - '@count': '1'
+    '@name': published-2020
+  - '@count': '1'
+    '@name': a-recognizable-future
+  - '@count': '1'
+    '@name': dropped
+  - '@count': '1'
+    '@name': in-my-library
+  - '@count': '1'
+    '@name': hard-sf
+  - '@count': '1'
+    '@name': dystopian-future
+  - '@count': '1'
+    '@name': k-r
+  - '@count': '1'
+    '@name': scifi-read
+  - '@count': '1'
+    '@name': kindle-owned
+  - '@count': '1'
+    '@name': helmet
+  - '@count': '1'
+    '@name': mystery-thriller
+  - '@count': '1'
+    '@name': netgalley
+  - '@count': '1'
+    '@name': net-galley
+  - '@count': '1'
+    '@name': kindled-no-lend
+  - '@count': '1'
+    '@name': egalley
+  - '@count': '1'
+    '@name': 2021-bingo
+  - '@count': '1'
+    '@name': tbr-sff
+  - '@count': '1'
+    '@name': tbr-21st-century
+  - '@count': '1'
+    '@name': own-ebook
+  - '@count': '1'
+    '@name': thrillers
+  - '@count': '1'
+    '@name': politics
+  - '@count': '1'
+    '@name': to-read-fiction-on-dropbox
+  - '@count': '1'
+    '@name': 0-genre-sff-speculative-fic
+  - '@count': '1'
+    '@name': f-sf
+  - '@count': '1'
+    '@name': on-my-kindle
+  - '@count': '1'
+    '@name': entertaining-but-limited
+  - '@count': '1'
+    '@name': pub-20
+  - '@count': '1'
+    '@name': a-ur-tbd
+  - '@count': '1'
+    '@name': kobo
+  - '@count': '1'
+    '@name': top-reads
+  - '@count': '1'
+    '@name': read-next
+  - '@count': '1'
+    '@name': fantasy-sci-fi
+  - '@count': '1'
+    '@name': locus
+  - '@count': '1'
+    '@name': locus-recommended-reading
+  - '@count': '1'
+    '@name': best-books-2020
+  - '@count': '1'
+    '@name': 2021-locus-rec-sf
+  - '@count': '1'
+    '@name': __locus-2020
+  - '@count': '1'
+    '@name': 2021-hugo-eligible
+  - '@count': '1'
+    '@name': libgen
+  - '@count': '1'
+    '@name': to-buy
+  - '@count': '1'
+    '@name': to-research
+  - '@count': '1'
+    '@name': stand-alone
+  - '@count': '1'
+    '@name': ereader
+  - '@count': '1'
+    '@name': fiction-sf-fantasy
+  - '@count': '1'
+    '@name': book-digital
+  - '@count': '1'
+    '@name': ai
+  - '@count': '1'
+    '@name': on-watch
+  - '@count': '1'
+    '@name': to-read-thriller
+  - '@count': '1'
+    '@name': maybe
+  - '@count': '1'
+    '@name': novel
+  - '@count': '1'
+    '@name': techno-thriller
+  - '@count': '1'
+    '@name': action
+  - '@count': '1'
+    '@name': read2020
+  - '@count': '1'
+    '@name': ebook
+  - '@count': '1'
+    '@name': challenge-laser
+  - '@count': '1'
+    '@name': 2020-books
+  - '@count': '1'
+    '@name': must-read-now
+  - '@count': '0'
+    '@name': allthethings_2021
+  - '@count': '0'
+    '@name': find-it
+  - '@count': '-1'
+    '@name': recc_locus
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: Mythic Island Press
+ratings_count: '188'
+read_at: '2021-06-01T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/4033887327
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/55525169-pacific-storm\"\
+  >Pacific Storm Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1937197328&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/55525169-pacific-storm?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.03'
+    id: '215760525'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724079438l/215760525._SX98_.jpg
+    isbn: 0316575348
+    isbn13: '9780316575348'
+    link: https://www.goodreads.com/book/show/215760525-livesuit
+    num_pages: '90'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '188'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724079438l/215760525._SY75_.jpg
+    title: "Livesuit (The Captive\u2019s War #1.5)"
+    title_without_series: Livesuit
+    uri: kca://book/amzn1.gr.book.v3.Rr7d-BxEjSsqm-t3
+    work:
+      id: '222176366'
+  - authors:
+      author:
+        id: '20295'
+        link: https://www.goodreads.com/author/show/20295.Stephen_Baxter
+        name: Stephen Baxter
+    average_rating: '4.03'
+    id: '45276063'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1473223202'
+    isbn13: '9781473223202'
+    link: https://www.goodreads.com/book/show/45276063-world-engines
+    num_pages: '447'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '188'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'World Engines: Destroyer: A post climate change high concept science fiction
+      odyssey'
+    title_without_series: 'World Engines: Destroyer: A post climate change high concept
+      science fiction odyssey'
+    uri: kca://book/amzn1.gr.book.v1.Tf3DEKx3D2so4BR10t-LsQ
+    work:
+      id: '69985019'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.03'
+    id: '195443798'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SX98_.jpg
+    isbn: '1035013770'
+    isbn13: '9781035013777'
+    link: https://www.goodreads.com/book/show/195443798-alien-clay
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '188'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SY75_.jpg
+    title: Alien Clay
+    title_without_series: Alien Clay
+    uri: kca://book/amzn1.gr.book.v3.U07jHOWpgU_-RRTg
+    work:
+      id: '197089092'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.03'
+    id: '201930181'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SX98_.jpg
+    isbn: 031652557X
+    isbn13: '9780316525572'
+    link: https://www.goodreads.com/book/show/201930181-the-mercy-of-gods
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '188'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SY75_.jpg
+    title: "The Mercy of Gods (The Captive\u2019s War, #1)"
+    title_without_series: The Mercy of Gods
+    uri: kca://book/amzn1.gr.book.v3.nndIiP3mF2vHLfgz
+    work:
+      id: '95320019'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.03'
+    id: '61885085'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663769801l/61885085._SX98_.jpg
+    isbn: '1250826799'
+    isbn13: '9781250826794'
+    link: https://www.goodreads.com/book/show/61885085-witch-king
+    num_pages: '415'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '188'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663769801l/61885085._SY75_.jpg
+    title: 'Witch King (The Rising World, #1)'
+    title_without_series: Witch King
+    uri: kca://book/amzn1.gr.book.v3.3Eo6FxHiOaF36dzU
+    work:
+      id: '90646578'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.03'
+    id: '58950674'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1641881897l/58950674._SX98_.jpg
+    isbn: '1668604906'
+    isbn13: '9781668604908'
+    link: https://www.goodreads.com/book/show/58950674-eyes-of-the-void
+    num_pages: '596'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '188'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1641881897l/58950674._SY75_.jpg
+    title: 'Eyes of the Void (The Final Architecture, #2)'
+    title_without_series: Eyes of the Void
+    uri: kca://book/amzn1.gr.book.v3.KHZ5S7SZsGl0dUNs
+    work:
+      id: '92907302'
+  - authors:
+      author:
+        id: '27167'
+        link: https://www.goodreads.com/author/show/27167.Peter_Watts
+        name: Peter Watts
+    average_rating: '4.03'
+    id: '48484'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0765312182
+    isbn13: '9780765312181'
+    link: https://www.goodreads.com/book/show/48484.Blindsight
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '188'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Blindsight (Firefall, #1)'
+    title_without_series: Blindsight
+    uri: kca://book/amzn1.gr.book.v1.A4CNk2qG0qxshK4OKH9lJQ
+    work:
+      id: '223813791'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.03'
+    id: '62315578'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671150806l/62315578._SX98_.jpg
+    isbn: '1668628104'
+    isbn13: '9781668628102'
+    link: https://www.goodreads.com/book/show/62315578-lords-of-uncreation
+    num_pages: '608'
+    publication_day: '2'
+    publication_month: '5'
+    publication_year: '2023'
+    ratings_count: '188'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671150806l/62315578._SY75_.jpg
+    title: 'Lords of Uncreation (The Final Architecture, #3)'
+    title_without_series: Lords of Uncreation
+    uri: kca://book/amzn1.gr.book.v3.b6Lkk7CCldRK1y9X
+    work:
+      id: '98118051'
+  - authors:
+      author:
+        id: '22006803'
+        link: https://www.goodreads.com/author/show/22006803.Victor_Manibo
+        name: Victor Manibo
+    average_rating: '4.03'
+    id: '194477918'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1690509328l/194477918._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/194477918-escape-velocity
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '188'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1690509328l/194477918._SY75_.jpg
+    title: Escape Velocity
+    title_without_series: Escape Velocity
+    uri: kca://book/amzn1.gr.book.v3.b4zJM6x7eIVxDeYq
+    work:
+      id: '195889796'
+  - authors:
+      author:
+        id: '1858'
+        link: https://www.goodreads.com/author/show/1858.Kim_Stanley_Robinson
+        name: Kim Stanley Robinson
+    average_rating: '4.03'
+    id: '50998056'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668935201l/50998056._SX98_.jpg
+    isbn: '0316300136'
+    isbn13: '9780316300131'
+    link: https://www.goodreads.com/book/show/50998056-the-ministry-for-the-future
+    num_pages: '563'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '188'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668935201l/50998056._SY75_.jpg
+    title: The Ministry for the Future
+    title_without_series: The Ministry for the Future
+    uri: kca://book/amzn1.gr.book.v3.SVhBHSB3OJn2dzzi
+    work:
+      id: '75844661'
+  - authors:
+      author:
+        id: '545'
+        link: https://www.goodreads.com/author/show/545.Neal_Stephenson
+        name: Neal Stephenson
+    average_rating: '4.03'
+    id: '57094295'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621245328l/57094295._SX98_.jpg
+    isbn: 0063028050
+    isbn13: '9780063028050'
+    link: https://www.goodreads.com/book/show/57094295-termination-shock
+    num_pages: '708'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '188'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621245328l/57094295._SY75_.jpg
+    title: Termination Shock
+    title_without_series: Termination Shock
+    uri: kca://book/amzn1.gr.book.v3.kImJ40dKkh4qVV4P
+    work:
+      id: '86058479'
+  - authors:
+      author:
+        id: '47155824'
+        link: https://www.goodreads.com/author/show/47155824.Paul_Dixon
+        name: Paul   Dixon
+    average_rating: '4.03'
+    id: '199222725'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/199222725-carpathians
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '188'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Carpathians
+    title_without_series: Carpathians
+    uri: kca://book/amzn1.gr.book.v3.c6m9SFC2miFKxh3e
+    work:
+      id: '203155472'
+  - authors:
+      author:
+        id: '16917839'
+        link: https://www.goodreads.com/author/show/16917839.Christopher_Ruocchio
+        name: Christopher Ruocchio
+    average_rating: '4.03'
+    id: '60427253'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1644986472l/60427253._SX98_.jpg
+    isbn: '0756416604'
+    isbn13: '9780756416607'
+    link: https://www.goodreads.com/book/show/60427253-ashes-of-man
+    num_pages: '544'
+    publication_day: '6'
+    publication_month: '12'
+    publication_year: '2022'
+    ratings_count: '188'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1644986472l/60427253._SY75_.jpg
+    title: 'Ashes of Man (Sun Eater, #5)'
+    title_without_series: Ashes of Man
+    uri: kca://book/amzn1.gr.book.v3.9K0xZ0okCaOcDwq-
+    work:
+      id: '95223708'
+  - authors:
+      author:
+        id: '3064305'
+        link: https://www.goodreads.com/author/show/3064305.Hugh_Howey
+        name: Hugh Howey
+    average_rating: '4.03'
+    id: '60012508'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649649783l/60012508._SX98_.jpg
+    isbn: 0358670454
+    isbn13: '9780358670452'
+    link: https://www.goodreads.com/book/show/60012508-across-the-sand
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '188'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649649783l/60012508._SX50_.jpg
+    title: 'Across the Sand (The Sand Chronicles, #2)'
+    title_without_series: Across the Sand
+    uri: kca://book/amzn1.gr.book.v3.J2rjThxV49z5TVN8
+    work:
+      id: '94603204'
+  - authors:
+      author:
+        id: '56353'
+        link: https://www.goodreads.com/author/show/56353.Neal_Asher
+        name: Neal Asher
+    average_rating: '4.03'
+    id: '198952482'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712600786l/198952482._SX98_.jpg
+    isbn: '1035038013'
+    isbn13: '9781035038015'
+    link: https://www.goodreads.com/book/show/198952482-world-walkers
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '188'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712600786l/198952482._SY75_.jpg
+    title: World Walkers
+    title_without_series: World Walkers
+    uri: kca://book/amzn1.gr.book.v3.QDTW_H2H1wmDXyI4
+    work:
+      id: '202270434'
+  - authors:
+      author:
+        id: '17152'
+        link: https://www.goodreads.com/author/show/17152.Chuck_Wendig
+        name: Chuck Wendig
+    average_rating: '4.03'
+    id: '59575941'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662441132l/59575941._SX98_.jpg
+    isbn: 0593158776
+    isbn13: '9780593158777'
+    link: https://www.goodreads.com/book/show/59575941-wayward
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '188'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662441132l/59575941._SY75_.jpg
+    title: 'Wayward (Wanderers, #2)'
+    title_without_series: Wayward
+    uri: kca://book/amzn1.gr.book.v3.a-E0YEJTKgvfhfxY
+    work:
+      id: '86680073'
+  - authors:
+      author:
+        id: '16917839'
+        link: https://www.goodreads.com/author/show/16917839.Christopher_Ruocchio
+        name: Christopher Ruocchio
+    average_rating: '4.03'
+    id: '176443792'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1690034659l/176443792._SX98_.jpg
+    isbn: '1982193328'
+    isbn13: '9781982193324'
+    link: https://www.goodreads.com/book/show/176443792-disquiet-gods
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '188'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1690034659l/176443792._SY75_.jpg
+    title: 'Disquiet Gods (Sun Eater, #6)'
+    title_without_series: Disquiet Gods
+    uri: kca://book/amzn1.gr.book.v3.5AigCb6-v0v3h7sI
+    work:
+      id: '183066112'
+  - authors:
+      author:
+        id: '16917839'
+        link: https://www.goodreads.com/author/show/16917839.Christopher_Ruocchio
+        name: Christopher Ruocchio
+    average_rating: '4.03'
+    id: '53536557'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/53536557-the-lesser-devil
+    num_pages: '185'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '188'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Lesser Devil (The Sun Eater, #1.5)'
+    title_without_series: The Lesser Devil
+    uri: kca://book/amzn1.gr.book.v3.6W4bmXfhrJzK1as1
+    work:
+      id: '67673025'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: '2021-05-31T00:00:00-07:00'
+text_reviews_count:
+  '#text': '38'
+  '@type': integer
+title: Pacific Storm
+title_without_series: Pacific Storm
+uri: kca://book/amzn1.gr.book.v3.mSD-Yq_ZSTjBByNj
+url: https://www.goodreads.com/book/show/55525169-pacific-storm
+work:
+  id: '86587890'
+  uri: kca://work/amzn1.gr.work.v3.IOBG64w-qrVcDll-

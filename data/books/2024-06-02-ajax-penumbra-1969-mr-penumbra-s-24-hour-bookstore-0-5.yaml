@@ -1,0 +1,754 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.74'
+    id: '2960227'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1714275599p5/2960227.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/2960227.Robin_Sloan
+    name: Robin Sloan
+    ratings_count: '292063'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1714275599p2/2960227.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '41821'
+average_rating: '3.77'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2024-06-02T00:00:00-07:00'
+description: August 1969 San Francisco. Ajax Penumbra seeks a book--the single surviving
+  copy of the <i>Techne Tycheon</i>, a mysterious volume that has brought and lost
+  great fortune for anyone who has owned it. Late one night, after another day of
+  dispiriting dead ends, he stumbles across a 24-hour bookstore, and the possibilities
+  before him expand exponentially.
+edition_information: null
+format: null
+id: '18715978'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385310693l/18715978._SX98_.jpg
+is_ebook: 'true'
+isbn: 0374711844
+isbn13: '9780374711849'
+json: '{"id": "18715978", "isbn": "0374711844", "isbn13": "9780374711849", "text_reviews_count":
+  {"@type": "integer", "#text": "165"}, "uri": "kca://book/amzn1.gr.book.v1.rwifPlOw2RyhLYZHAvFfKg",
+  "title": "Ajax Penumbra 1969 (Mr. Penumbra''s 24-Hour Bookstore, #0.5)", "title_without_series":
+  "Ajax Penumbra 1969", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385310693l/18715978._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385310693l/18715978._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/18715978-ajax-penumbra-1969",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.77", "ratings_count": "13369", "description": "August 1969 San Francisco. Ajax
+  Penumbra seeks a book--the single surviving copy of the <i>Techne Tycheon</i>, a
+  mysterious volume that has brought and lost great fortune for anyone who has owned
+  it. Late one night, after another day of dispiriting dead ends, he stumbles across
+  a 24-hour bookstore, and the possibilities before him expand exponentially.", "authors":
+  {"author": {"id": "2960227", "name": "Robin Sloan", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1714275599p5/2960227.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1714275599p2/2960227.jpg"},
+  "link": "https://www.goodreads.com/author/show/2960227.Robin_Sloan", "average_rating":
+  "3.74", "ratings_count": "292063", "text_reviews_count": "41821"}}, "published":
+  null, "work": {"id": "26036155", "uri": "kca://work/amzn1.gr.work.v1.1NW5qI9R6Q1CjULFEX06OQ"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/6554928217",
+  "read_at": "Sun Jun 02 00:00:00 -0700 2024", "started_at": "", "date": "Sun Jun
+  02 00:00:00 -0700 2024"}'
+kindle_asin: B00EWZC8QI
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/18715978-ajax-penumbra-1969
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '13991'
+    '@name': to-read
+  - '@count': '397'
+    '@name': fiction
+  - '@count': '255'
+    '@name': currently-reading
+  - '@count': '154'
+    '@name': fantasy
+  - '@count': '125'
+    '@name': books-about-books
+  - '@count': '111'
+    '@name': audiobook
+  - '@count': '97'
+    '@name': short-stories
+  - '@count': '89'
+    '@name': audiobooks
+  - '@count': '74'
+    '@name': kindle
+  - '@count': '66'
+    '@name': mystery
+  - '@count': '59'
+    '@name': audio
+  - '@count': '53'
+    '@name': ebook
+  - '@count': '52'
+    '@name': series
+  - '@count': '43'
+    '@name': historical-fiction
+  - '@count': '42'
+    '@name': owned
+  - '@count': '40'
+    '@name': favorites
+  - '@count': '37'
+    '@name': novella
+  - '@count': '36'
+    '@name': contemporary
+  - '@count': '33'
+    '@name': ebooks
+  - '@count': '31'
+    '@name': library
+  - '@count': '29'
+    '@name': audible
+  - '@count': '27'
+    '@name': short-story
+  - '@count': '27'
+    '@name': adult
+  - '@count': '26'
+    '@name': adult-fiction
+  - '@count': '23'
+    '@name': read-in-2014
+  - '@count': '22'
+    '@name': books-i-own
+  - '@count': '21'
+    '@name': e-book
+  - '@count': '20'
+    '@name': read-in-2015
+  - '@count': '20'
+    '@name': audio-books
+  - '@count': '20'
+    '@name': general-fiction
+  - '@count': '19'
+    '@name': audio-book
+  - '@count': '18'
+    '@name': to-buy
+  - '@count': '16'
+    '@name': science-fiction
+  - '@count': '16'
+    '@name': magical-realism
+  - '@count': '16'
+    '@name': e-books
+  - '@count': '14'
+    '@name': read-in-2017
+  - '@count': '14'
+    '@name': books
+  - '@count': '12'
+    '@name': wish-list
+  - '@count': '12'
+    '@name': book-club
+  - '@count': '12'
+    '@name': contemporary-fiction
+  - '@count': '11'
+    '@name': tbr
+  - '@count': '11'
+    '@name': read-in-2018
+  - '@count': '11'
+    '@name': read-in-2016
+  - '@count': '11'
+    '@name': sci-fi
+  - '@count': '11'
+    '@name': novellas
+  - '@count': '11'
+    '@name': adventure
+  - '@count': '10'
+    '@name': read-2014
+  - '@count': '10'
+    '@name': urban-fantasy
+  - '@count': '10'
+    '@name': shorts
+  - '@count': '9'
+    '@name': owned-books
+  - '@count': '9'
+    '@name': read-2018
+  - '@count': '9'
+    '@name': read-2015
+  - '@count': '9'
+    '@name': listened-to
+  - '@count': '9'
+    '@name': literature
+  - '@count': '9'
+    '@name': first-reads
+  - '@count': '9'
+    '@name': scifi-fantasy
+  - '@count': '9'
+    '@name': english
+  - '@count': '8'
+    '@name': read-in-2020
+  - '@count': '8'
+    '@name': speculative-fiction
+  - '@count': '8'
+    '@name': borrowed
+  - '@count': '8'
+    '@name': nook
+  - '@count': '7'
+    '@name': read-2017
+  - '@count': '7'
+    '@name': historical
+  - '@count': '7'
+    '@name': short
+  - '@count': '7'
+    '@name': short-fiction
+  - '@count': '7'
+    '@name': need-to-buy
+  - '@count': '7'
+    '@name': books-on-books
+  - '@count': '7'
+    '@name': usa
+  - '@count': '7'
+    '@name': american
+  - '@count': '7'
+    '@name': literary
+  - '@count': '7'
+    '@name': read-2013
+  - '@count': '7'
+    '@name': maybe
+  - '@count': '6'
+    '@name': read-in-2024
+  - '@count': '6'
+    '@name': libby
+  - '@count': '6'
+    '@name': sci-fi-fantasy
+  - '@count': '6'
+    '@name': short-story-novella
+  - '@count': '6'
+    '@name': novel
+  - '@count': '6'
+    '@name': short-stories-novellas
+  - '@count': '6'
+    '@name': san-francisco
+  - '@count': '6'
+    '@name': read-in-2013
+  - '@count': '5'
+    '@name': read-2021
+  - '@count': '5'
+    '@name': 2020-reads
+  - '@count': '5'
+    '@name': i-own
+  - '@count': '5'
+    '@name': scribd
+  - '@count': '5'
+    '@name': already-own
+  - '@count': '5'
+    '@name': hoopla
+  - '@count': '5'
+    '@name': mystery-thriller
+  - '@count': '5'
+    '@name': fiction-literature
+  - '@count': '5'
+    '@name': humor
+  - '@count': '5'
+    '@name': listened
+  - '@count': '5'
+    '@name': mysteries
+  - '@count': '5'
+    '@name': recommended
+  - '@count': '5'
+    '@name': novels
+  - '@count': '5'
+    '@name': history
+  - '@count': '5'
+    '@name': kobo
+  - '@count': '4'
+    '@name': read-2022
+  - '@count': '4'
+    '@name': 2023-tbr
+  - '@count': '4'
+    '@name': books-read-in-2020
+  - '@count': '4'
+    '@name': fantasy-sci-fi
+  - '@count': '4'
+    '@name': quirky
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '13369'
+read_at: '2024-06-02T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/6554928217
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/18715978-ajax-penumbra-1969\"\
+  >Ajax Penumbra 1969 Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0374711844&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/18715978-ajax-penumbra-1969?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '553582'
+    series:
+      description: null
+      id: '114425'
+      note: null
+      numbered: 'true'
+      primary_work_count: '1'
+      series_works_count: '2'
+      title: Mr. Penumbra's 24-Hour Bookstore
+    user_position: '0.5'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '48885'
+        link: https://www.goodreads.com/author/show/48885.Kate_Wilhelm
+        name: Kate Wilhelm
+    average_rating: '3.77'
+    id: '17332877'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360020003l/17332877._SX98_.jpg
+    isbn: 147084592X
+    isbn13: '9781470845926'
+    link: https://www.goodreads.com/book/show/17332877-the-fullness-of-time
+    num_pages: null
+    publication_day: '5'
+    publication_month: '9'
+    publication_year: '2012'
+    ratings_count: '13369'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360020003l/17332877._SX50_.jpg
+    title: The Fullness of Time
+    title_without_series: The Fullness of Time
+    uri: kca://book/amzn1.gr.book.v1.XdhnxQngTd1ojoyi9gic7g
+    work:
+      id: '21635495'
+  - authors:
+      author:
+        id: '14394040'
+        link: https://www.goodreads.com/author/show/14394040.Landis_Wade
+        name: Landis Wade
+    average_rating: '3.77'
+    id: '199283957'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696461218l/199283957._SX98_.jpg
+    isbn: null
+    isbn13: '9798987757062'
+    link: https://www.goodreads.com/book/show/199283957-death-by-podcasting
+    num_pages: '139'
+    publication_day: '14'
+    publication_month: '11'
+    publication_year: '2023'
+    ratings_count: '13369'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696461218l/199283957._SY75_.jpg
+    title: Death by Podcasting
+    title_without_series: Death by Podcasting
+    uri: kca://book/amzn1.gr.book.v3.N4JdSz5QSrYCjMhv
+    work:
+      id: '203428637'
+  - authors:
+      author:
+        id: '172490'
+        link: https://www.goodreads.com/author/show/172490.Jim_C_Hines
+        name: Jim C. Hines
+    average_rating: '3.77'
+    id: '18139127'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403774033l/18139127._SX98_.jpg
+    isbn: 0756409683
+    isbn13: '9780756409685'
+    link: https://www.goodreads.com/book/show/18139127-unbound
+    num_pages: '390'
+    publication_day: '6'
+    publication_month: '1'
+    publication_year: '2015'
+    ratings_count: '13369'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403774033l/18139127._SY75_.jpg
+    title: 'Unbound (Magic Ex Libris, #3)'
+    title_without_series: Unbound
+    uri: kca://book/amzn1.gr.book.v1.8biiLC0SGB-QZr6CZYD8AQ
+    work:
+      id: '25482920'
+  - authors:
+      author:
+        id: '97284'
+        link: https://www.goodreads.com/author/show/97284.Mur_Lafferty
+        name: Mur Lafferty
+    average_rating: '3.77'
+    id: '18170139'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480106887l/18170139._SX98_.jpg
+    isbn: '0316221147'
+    isbn13: '9780316221146'
+    link: https://www.goodreads.com/book/show/18170139-the-ghost-train-to-new-orleans
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13369'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480106887l/18170139._SX50_.jpg
+    title: 'The Ghost Train to New Orleans (The Shambling Guides, #2)'
+    title_without_series: The Ghost Train to New Orleans
+    uri: kca://book/amzn1.gr.book.v1.BjLpQjEfFEW05J00NcdiLg
+    work:
+      id: '24566430'
+  - authors:
+      author:
+        id: '21911'
+        link: https://www.goodreads.com/author/show/21911.Melissa_de_la_Cruz
+        name: Melissa de la Cruz
+    average_rating: '3.77'
+    id: '13630032'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339527398l/13630032._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/13630032-diary-of-the-white-witch
+    num_pages: null
+    publication_day: '12'
+    publication_month: '6'
+    publication_year: '2012'
+    ratings_count: '13369'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339527398l/13630032._SY75_.jpg
+    title: 'Diary of the White Witch (The Beauchamp Family, #0.5)'
+    title_without_series: Diary of the White Witch
+    uri: kca://book/amzn1.gr.book.v1.lS9PX3pi77fp7VFmh84RLQ
+    work:
+      id: '19237541'
+  - authors:
+      author:
+        id: '2868678'
+        link: https://www.goodreads.com/author/show/2868678.Mary_Robinette_Kowal
+        name: Mary Robinette Kowal
+    average_rating: '3.77'
+    id: '43782466'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548962694l/43782466._SX98_.jpg
+    isbn: '1250241308'
+    isbn13: '9781250241306'
+    link: https://www.goodreads.com/book/show/43782466-articulated-restraint
+    num_pages: '26'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13369'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548962694l/43782466._SY75_.jpg
+    title: Articulated Restraint
+    title_without_series: Articulated Restraint
+    uri: kca://book/amzn1.gr.book.v1.n1cM4rgysanzfeG4cnvEyw
+    work:
+      id: '68114126'
+  - authors:
+      author:
+        id: '54989'
+        link: https://www.goodreads.com/author/show/54989.George_Mann
+        name: George Mann
+    average_rating: '3.77'
+    id: '6058062'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332245517l/6058062._SX98_.jpg
+    isbn: '1906727163'
+    isbn13: '9781906727161'
+    link: https://www.goodreads.com/book/show/6058062-ghosts-of-manhattan
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13369'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332245517l/6058062._SY75_.jpg
+    title: 'Ghosts of Manhattan (The Ghost, #1)'
+    title_without_series: Ghosts of Manhattan
+    uri: kca://book/amzn1.gr.book.v1.a4S_75mTKiYe0iBHoQ4dBA
+    work:
+      id: '6234174'
+  - authors:
+      author:
+        id: '224004'
+        link: https://www.goodreads.com/author/show/224004.Rosemary_Clement_Moore
+        name: Rosemary Clement-Moore
+    average_rating: '3.77'
+    id: '9535352'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320547459l/9535352._SX98_.jpg
+    isbn: 0385736932
+    isbn13: '9780385736930'
+    link: https://www.goodreads.com/book/show/9535352-texas-gothic
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13369'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320547459l/9535352._SY75_.jpg
+    title: 'Texas Gothic (Goodnight Family, #1)'
+    title_without_series: Texas Gothic
+    uri: kca://book/amzn1.gr.book.v1.yZ3pMF3hS4Xmh-HmXCrk2w
+    work:
+      id: '13155646'
+  - authors:
+      author:
+        id: '2924930'
+        link: https://www.goodreads.com/author/show/2924930.Juliet_Blackwell
+        name: Juliet Blackwell
+    average_rating: '3.77'
+    id: '22056827'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407718457l/22056827._SX98_.jpg
+    isbn: 0698181921
+    isbn13: '9780698181922'
+    link: https://www.goodreads.com/book/show/22056827-a-haunting-is-brewing
+    num_pages: '113'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13369'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407718457l/22056827._SY75_.jpg
+    title: 'A Haunting is Brewing (Witchcraft Mystery, #6.5; Haunted Home Renovation
+      Mystery, #4.5)'
+    title_without_series: A Haunting is Brewing
+    uri: kca://book/amzn1.gr.book.v1.3EgnXDzPPnX9snZhBgtYSQ
+    work:
+      id: '41385283'
+  - authors:
+      author:
+        id: '2772365'
+        link: https://www.goodreads.com/author/show/2772365.Robert_Kroese
+        name: Robert Kroese
+    average_rating: '3.77'
+    id: '26114341'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444692339l/26114341._SX98_.jpg
+    isbn: '1250088445'
+    isbn13: '9781250088444'
+    link: https://www.goodreads.com/book/show/26114341-the-big-sheep
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13369'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444692339l/26114341._SY75_.jpg
+    title: 'The Big Sheep (The Big Sheep, #1)'
+    title_without_series: The Big Sheep
+    uri: kca://book/amzn1.gr.book.v1.gm4yTI1-e2kyBG3PJzHmpA
+    work:
+      id: '46061233'
+  - authors:
+      author:
+        id: '6447944'
+        link: https://www.goodreads.com/author/show/6447944.David_S_Goyer
+        name: David S. Goyer
+    average_rating: '3.77'
+    id: '9435667'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1300923937l/9435667._SX98_.jpg
+    isbn: 044102033X
+    isbn13: '9780441020331'
+    link: https://www.goodreads.com/book/show/9435667-heaven-s-shadow
+    num_pages: '398'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13369'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1300923937l/9435667._SY75_.jpg
+    title: 'Heaven''s Shadow (Heaven''s Shadow, #1)'
+    title_without_series: Heaven's Shadow
+    uri: kca://book/amzn1.gr.book.v1.IMTusemcXitozIBE32JnhA
+    work:
+      id: '14320247'
+  - authors:
+      author:
+        id: '363130'
+        link: https://www.goodreads.com/author/show/363130.Ben_Aaronovitch
+        name: Ben Aaronovitch
+    average_rating: '3.77'
+    id: '202969855'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711497418l/202969855._SX98_.jpg
+    isbn: 147322442X
+    isbn13: '9781473224421'
+    link: https://www.goodreads.com/book/show/202969855-the-masquerades-of-spring
+    num_pages: '165'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13369'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711497418l/202969855._SY75_.jpg
+    title: 'The Masquerades of Spring (Rivers of London #9.2)'
+    title_without_series: The Masquerades of Spring
+    uri: kca://book/amzn1.gr.book.v3.1UNSjljz29MrzmkX
+    work:
+      id: '208526757'
+  - authors:
+      author:
+        id: '8842'
+        link: https://www.goodreads.com/author/show/8842.Susanna_Clarke
+        name: Susanna Clarke
+    average_rating: '3.77'
+    id: '206101583'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717212311l/206101583._SY160_.jpg
+    isbn: '1639734481'
+    isbn13: '9781639734481'
+    link: https://www.goodreads.com/book/show/206101583-the-wood-at-midwinter
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13369'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717212311l/206101583._SY75_.jpg
+    title: The Wood at Midwinter
+    title_without_series: The Wood at Midwinter
+    uri: kca://book/amzn1.gr.book.v3.0POZeT8Jm_rWSH6R
+    work:
+      id: '212153054'
+  - authors:
+      author:
+        id: '4601475'
+        link: https://www.goodreads.com/author/show/4601475.Anna_North
+        name: Anna North
+    average_rating: '3.77'
+    id: '3278246'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/3278246-america-pacifica
+    num_pages: '294'
+    publication_day: '1'
+    publication_month: '5'
+    publication_year: '2011'
+    ratings_count: '13369'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: America Pacifica
+    title_without_series: America Pacifica
+    uri: kca://book/amzn1.gr.book.v1.b8ucgTBZZiEBnv9ph1pTOw
+    work:
+      id: '3314544'
+  - authors:
+      author:
+        id: '58918'
+        link: https://www.goodreads.com/author/show/58918.Helene_Hanff
+        name: Helene Hanff
+    average_rating: '3.77'
+    id: '231256'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346292959l/231256._SX98_.jpg
+    isbn: '1854102214'
+    isbn13: '9781854102218'
+    link: https://www.goodreads.com/book/show/231256.Letter_from_New_York
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13369'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346292959l/231256._SY75_.jpg
+    title: 'Letter from New York: BBC Woman''s Hour Broadcasts'
+    title_without_series: 'Letter from New York: BBC Woman''s Hour Broadcasts'
+    uri: kca://book/amzn1.gr.book.v1.q1qLXPKMzllJ3XSQcFx07A
+    work:
+      id: '120425'
+  - authors:
+      author:
+        id: '59521'
+        link: https://www.goodreads.com/author/show/59521.Jeff_Biggers
+        name: Jeff Biggers
+    average_rating: '3.77'
+    id: '205438910'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711752978l/205438910._SX98_.jpg
+    isbn: '1685891454'
+    isbn13: '9781685891459'
+    link: https://www.goodreads.com/book/show/205438910-disturbing-the-bones
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13369'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711752978l/205438910._SX50_.jpg
+    title: Disturbing the Bones
+    title_without_series: Disturbing the Bones
+    uri: kca://book/amzn1.gr.book.v3.vUa0uPCOri__x-Dn
+    work:
+      id: '211460362'
+  - authors:
+      author:
+        id: '4750529'
+        link: https://www.goodreads.com/author/show/4750529.Gigi_Pandian
+        name: Gigi Pandian
+    average_rating: '3.77'
+    id: '126918057'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1694043157l/126918057._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/126918057-a-midnight-puzzle
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13369'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1694043157l/126918057._SY75_.jpg
+    title: 'A Midnight Puzzle (Secret Staircase Mystery, #3)'
+    title_without_series: A Midnight Puzzle
+    uri: kca://book/amzn1.gr.book.v3.e-yYFaSnTKyVZQBV
+    work:
+      id: '148188253'
+  - authors:
+      author:
+        id: '142270'
+        link: https://www.goodreads.com/author/show/142270.Lev_Grossman
+        name: Lev Grossman
+    average_rating: '3.77'
+    id: '201750794'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0735224048
+    isbn13: '9780735224049'
+    link: https://www.goodreads.com/book/show/201750794-the-bright-sword
+    num_pages: '673'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '13369'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Bright Sword
+    title_without_series: The Bright Sword
+    uri: kca://book/amzn1.gr.book.v3.YgkYy1TvtxpRZAGW
+    work:
+      id: '52934816'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385310693l/18715978._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '165'
+  '@type': integer
+title: 'Ajax Penumbra 1969 (Mr. Penumbra''s 24-Hour Bookstore, #0.5)'
+title_without_series: Ajax Penumbra 1969
+uri: kca://book/amzn1.gr.book.v1.rwifPlOw2RyhLYZHAvFfKg
+url: https://www.goodreads.com/book/show/18715978-ajax-penumbra-1969
+work:
+  id: '26036155'
+  uri: kca://work/amzn1.gr.work.v1.1NW5qI9R6Q1CjULFEX06OQ

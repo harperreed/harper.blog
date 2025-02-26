@@ -1,0 +1,757 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.11'
+    id: '2687'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1427999015p5/2687.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/2687.Dan_Simmons
+    name: Dan Simmons
+    ratings_count: '844025'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1427999015p2/2687.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '51470'
+average_rating: '3.61'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: '"O terrible wife of Siva / Your tongue is drinking the blood, / O dark
+  Mother! O unclad Mother." It is remarkable that prior to writing this first novel,
+  Dan Simmons had spent only two and a half days in Calcutta, a city "too wicked to
+  be suffered," his narrator says. Fortunately back in print after several years during
+  which it was hard to obtain, this rich, bizarre novel practically reeks with atmosphere.
+  The story concerns an American poet who travels with his Indian wife and their baby
+  to Calcutta to pick up an epic poem cycle about the goddess Kali. The Bengali poet
+  who wrote the poem cycle has disappeared under mysterious circumstances.<p>Horror
+  critic Edward Bryant calls <i>Song of Kali</i> "an exactingly constructed, brutal,
+  and uncompromising study of the degree to which an evil place may permeate and steep
+  all that makes us human" and writes that it embodies "the stance of a psychologically
+  violent novel about a violent society as a defensible and indisputably moral work
+  of art." <i>Song of Kali</i> won a World Fantasy Award. <i>--Fiona Webster</i></p>'
+edition_information: 1st, First Edition
+format: null
+id: '11280'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: 031286583X
+isbn13: '9780312865832'
+json: '{"id": "11280", "isbn": "031286583X", "isbn13": "9780312865832", "text_reviews_count":
+  {"@type": "integer", "#text": "111"}, "uri": "kca://book/amzn1.gr.book.v1.qgmG9NlHrnWkf7T9Gm_Stw",
+  "title": "Song of Kali", "title_without_series": "Song of Kali", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/11280.Song_of_Kali",
+  "num_pages": "311", "format": null, "edition_information": "1st, First Edition",
+  "publisher": null, "publication_day": null, "publication_year": null, "publication_month":
+  null, "average_rating": "3.61", "ratings_count": "14883", "description": "\"O terrible
+  wife of Siva / Your tongue is drinking the blood, / O dark Mother! O unclad Mother.\"
+  It is remarkable that prior to writing this first novel, Dan Simmons had spent only
+  two and a half days in Calcutta, a city \"too wicked to be suffered,\" his narrator
+  says. Fortunately back in print after several years during which it was hard to
+  obtain, this rich, bizarre novel practically reeks with atmosphere. The story concerns
+  an American poet who travels with his Indian wife and their baby to Calcutta to
+  pick up an epic poem cycle about the goddess Kali. The Bengali poet who wrote the
+  poem cycle has disappeared under mysterious circumstances.<p>Horror critic Edward
+  Bryant calls <i>Song of Kali</i> \"an exactingly constructed, brutal, and uncompromising
+  study of the degree to which an evil place may permeate and steep all that makes
+  us human\" and writes that it embodies \"the stance of a psychologically violent
+  novel about a violent society as a defensible and indisputably moral work of art.\"
+  <i>Song of Kali</i> won a World Fantasy Award. <i>--Fiona Webster</i></p>", "authors":
+  {"author": {"id": "2687", "name": "Dan Simmons", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1427999015p5/2687.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1427999015p2/2687.jpg"},
+  "link": "https://www.goodreads.com/author/show/2687.Dan_Simmons", "average_rating":
+  "4.11", "ratings_count": "844025", "text_reviews_count": "51470"}}, "published":
+  null, "work": {"id": "1623747", "uri": "kca://work/amzn1.gr.work.v1.9SdLBilMGcmQMK07c6lEGw"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/42404785",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B00J90EMK6
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/11280.Song_of_Kali
+marketplace_id: ATVPDKIKX0DER
+num_pages: '311'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '11314'
+    '@name': to-read
+  - '@count': '1096'
+    '@name': horror
+  - '@count': '749'
+    '@name': currently-reading
+  - '@count': '271'
+    '@name': fantasy
+  - '@count': '265'
+    '@name': fiction
+  - '@count': '108'
+    '@name': owned
+  - '@count': '80'
+    '@name': thriller
+  - '@count': '67'
+    '@name': favorites
+  - '@count': '56'
+    '@name': kindle
+  - '@count': '51'
+    '@name': mystery
+  - '@count': '50'
+    '@name': india
+  - '@count': '43'
+    '@name': ebook
+  - '@count': '40'
+    '@name': dan-simmons
+  - '@count': '36'
+    '@name': books-i-own
+  - '@count': '35'
+    '@name': fantasy-masterworks
+  - '@count': '29'
+    '@name': science-fiction
+  - '@count': '28'
+    '@name': default
+  - '@count': '26'
+    '@name': mythology
+  - '@count': '21'
+    '@name': supernatural
+  - '@count': '21'
+    '@name': owned-books
+  - '@count': '21'
+    '@name': library
+  - '@count': '21'
+    '@name': novels
+  - '@count': '20'
+    '@name': humble-bundle
+  - '@count': '19'
+    '@name': ebooks
+  - '@count': '19'
+    '@name': sci-fi
+  - '@count': '17'
+    '@name': dnf
+  - '@count': '17'
+    '@name': terror
+  - '@count': '17'
+    '@name': to-buy
+  - '@count': '16'
+    '@name': audiobook
+  - '@count': '16'
+    '@name': dark
+  - '@count': '14'
+    '@name': physical-tbr
+  - '@count': '13'
+    '@name': audible
+  - '@count': '13'
+    '@name': e-book
+  - '@count': '13'
+    '@name': books
+  - '@count': '12'
+    '@name': adult
+  - '@count': '12'
+    '@name': english
+  - '@count': '12'
+    '@name': asia
+  - '@count': '11'
+    '@name': did-not-finish
+  - '@count': '11'
+    '@name': scifi
+  - '@count': '11'
+    '@name': suspense
+  - '@count': '11'
+    '@name': horror-thriller
+  - '@count': '11'
+    '@name': genre-horror
+  - '@count': '11'
+    '@name': world-fantasy-award
+  - '@count': '11'
+    '@name': fiction-horror
+  - '@count': '10'
+    '@name': maybe
+  - '@count': '10'
+    '@name': audio
+  - '@count': '10'
+    '@name': novel
+  - '@count': '10'
+    '@name': horror-fiction
+  - '@count': '10'
+    '@name': sci-fi-fantasy
+  - '@count': '9'
+    '@name': audiobooks
+  - '@count': '9'
+    '@name': religion
+  - '@count': '9'
+    '@name': wish-list
+  - '@count': '9'
+    '@name': contemporary
+  - '@count': '9'
+    '@name': horror-to-read
+  - '@count': '9'
+    '@name': e-books
+  - '@count': '8'
+    '@name': tbr
+  - '@count': '8'
+    '@name': american
+  - '@count': '8'
+    '@name': unread
+  - '@count': '8'
+    '@name': urban-fantasy
+  - '@count': '8'
+    '@name': abandoned
+  - '@count': '8'
+    '@name': crime
+  - '@count': '8'
+    '@name': adventure
+  - '@count': '7'
+    '@name': usa
+  - '@count': '7'
+    '@name': cults
+  - '@count': '7'
+    '@name': to-read-horror
+  - '@count': '7'
+    '@name': 1980s
+  - '@count': '7'
+    '@name': sff
+  - '@count': '7'
+    '@name': have
+  - '@count': '7'
+    '@name': thrillers
+  - '@count': '7'
+    '@name': 20th-century
+  - '@count': '7'
+    '@name': mystery-thriller
+  - '@count': '7'
+    '@name': speculative-fiction
+  - '@count': '6'
+    '@name': folk-horror
+  - '@count': '6'
+    '@name': my-library
+  - '@count': '6'
+    '@name': creepy
+  - '@count': '6'
+    '@name': humblebundle
+  - '@count': '6'
+    '@name': kindle-books
+  - '@count': '6'
+    '@name': other
+  - '@count': '6'
+    '@name': urania
+  - '@count': '6'
+    '@name': dark-fantasy
+  - '@count': '5'
+    '@name': read-in-2022
+  - '@count': '5'
+    '@name': calibre
+  - '@count': '5'
+    '@name': horror-tbr
+  - '@count': '5'
+    '@name': i-own
+  - '@count': '5'
+    '@name': read-in-2018
+  - '@count': '5'
+    '@name': disturbing
+  - '@count': '5'
+    '@name': scribd
+  - '@count': '5'
+    '@name': weird
+  - '@count': '5'
+    '@name': want-to-buy
+  - '@count': '5'
+    '@name': science-fiction-fantasy
+  - '@count': '5'
+    '@name': horror-read
+  - '@count': '5'
+    '@name': simmons
+  - '@count': '5'
+    '@name': my-bookshelf
+  - '@count': '5'
+    '@name': suspense-thriller
+  - '@count': '5'
+    '@name': my-books
+  - '@count': '5'
+    '@name': indian
+  - '@count': '5'
+    '@name': scary
+  - '@count': '5'
+    '@name': adult-fiction
+  - '@count': '5'
+    '@name': sf
+  - '@count': '5'
+    '@name': stand-alone
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '14883'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/42404785
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/11280.Song_of_Kali\"\
+  >Song of Kali Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=031286583X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/11280.Song_of_Kali?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '7083555'
+        link: https://www.goodreads.com/author/show/7083555.John_Langan
+        name: John  Langan
+    average_rating: '3.61'
+    id: '29901930'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461603054l/29901930._SX98_.jpg
+    isbn: '1939905214'
+    isbn13: '9781939905215'
+    link: https://www.goodreads.com/book/show/29901930-the-fisherman
+    num_pages: '266'
+    publication_day: '30'
+    publication_month: '6'
+    publication_year: '2016'
+    ratings_count: '14883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461603054l/29901930._SX50_.jpg
+    title: The Fisherman
+    title_without_series: The Fisherman
+    uri: kca://book/amzn1.gr.book.v1.tgDLMTz-eIaS5n79E4MOMw
+    work:
+      id: '50275540'
+  - authors:
+      author:
+        id: '9494'
+        link: https://www.goodreads.com/author/show/9494.H_P_Lovecraft
+        name: H.P. Lovecraft
+    average_rating: '3.61'
+    id: '6468203'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1262379419l/6468203._SX98_.jpg
+    isbn: '1409961230'
+    isbn13: '9781409961239'
+    link: https://www.goodreads.com/book/show/6468203-through-the-gates-of-the-silver-key
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1262379419l/6468203._SY75_.jpg
+    title: Through the Gates of the Silver Key
+    title_without_series: Through the Gates of the Silver Key
+    uri: kca://book/amzn1.gr.book.v1.ObQUOVu0nFDNkL9xp0pPfw
+    work:
+      id: '26651005'
+  - authors:
+      author:
+        id: '10366'
+        link: https://www.goodreads.com/author/show/10366.Clive_Barker
+        name: Clive Barker
+    average_rating: '3.61'
+    id: '34605'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0425188930
+    isbn13: '9780425188934'
+    link: https://www.goodreads.com/book/show/34605.The_Damnation_Game
+    num_pages: '433'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14883'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Damnation Game
+    title_without_series: The Damnation Game
+    uri: kca://book/amzn1.gr.book.v1.R5X3JEu62rsdjyV_VP8Ccw
+    work:
+      id: '3059336'
+  - authors:
+      author:
+        id: '49076553'
+        link: https://www.goodreads.com/author/show/49076553.Michael_Harbron
+        name: Michael Harbron
+    average_rating: '3.61'
+    id: '213312130'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: '9798990402829'
+    link: https://www.goodreads.com/book/show/213312130-interview-with-the-devil
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14883'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Interview with the Devil: Resurrection'
+    title_without_series: 'Interview with the Devil: Resurrection'
+    uri: kca://book/amzn1.gr.book.v3.wM8IxNe33dfg_2GK
+    work:
+      id: '219541614'
+  - authors:
+      author:
+        id: '7309096'
+        link: https://www.goodreads.com/author/show/7309096.Mark_Lukens
+        name: Mark Lukens
+    average_rating: '3.61'
+    id: '34385069'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/34385069-devil-s-island
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14883'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Devil's Island
+    title_without_series: Devil's Island
+    uri: kca://book/amzn1.gr.book.v1.TDMCR_YE4Os3y7Faxw5tQQ
+    work:
+      id: '55475331'
+  - authors:
+      author:
+        id: '5244478'
+        link: https://www.goodreads.com/author/show/5244478.Robert_McCammon
+        name: Robert McCammon
+    average_rating: '3.61'
+    id: '36687393'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511998168l/36687393._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/36687393-stinger
+    num_pages: '542'
+    publication_day: '18'
+    publication_month: '10'
+    publication_year: '2011'
+    ratings_count: '14883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511998168l/36687393._SY75_.jpg
+    title: Stinger
+    title_without_series: Stinger
+    uri: kca://book/amzn1.gr.book.v1.d1sxAxe5gWBZqsbhOoObsA
+    work:
+      id: '16692450'
+  - authors:
+      author:
+        id: '4712375'
+        link: https://www.goodreads.com/author/show/4712375.Christopher_Buehlman
+        name: Christopher Buehlman
+    average_rating: '3.61'
+    id: '13543121'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710293039l/13543121._SX98_.jpg
+    isbn: '1937007863'
+    isbn13: '9781937007867'
+    link: https://www.goodreads.com/book/show/13543121-between-two-fires
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710293039l/13543121._SY75_.jpg
+    title: Between Two Fires
+    title_without_series: Between Two Fires
+    uri: kca://book/amzn1.gr.book.v1.1s3j5ztiL0Q8CmO6101ibQ
+    work:
+      id: '19107416'
+  - authors:
+      author:
+        id: '5244478'
+        link: https://www.goodreads.com/author/show/5244478.Robert_McCammon
+        name: Robert McCammon
+    average_rating: '3.61'
+    id: '11557'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445981000l/11557._SX98_.jpg
+    isbn: 0671741039
+    isbn13: '9780671741037'
+    link: https://www.goodreads.com/book/show/11557.Swan_Song
+    num_pages: '956'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445981000l/11557._SY75_.jpg
+    title: Swan Song
+    title_without_series: Swan Song
+    uri: kca://book/amzn1.gr.book.v1.dhl_T6fOmHqiUN3_-X5Bpw
+    work:
+      id: '2947187'
+  - authors:
+      author:
+        id: '12505'
+        link: https://www.goodreads.com/author/show/12505.Scott_Smith
+        name: Scott        Smith
+    average_rating: '3.61'
+    id: '21726'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1400043875'
+    isbn13: '9781400043873'
+    link: https://www.goodreads.com/book/show/21726.The_Ruins
+    num_pages: '336'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14883'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Ruins
+    title_without_series: The Ruins
+    uri: kca://book/amzn1.gr.book.v1.wl6IO0PS0s3ukG-H75X2lw
+    work:
+      id: '2453000'
+  - authors:
+      author:
+        id: '466494'
+        link: https://www.goodreads.com/author/show/466494.Laird_Barron
+        name: Laird Barron
+    average_rating: '3.61'
+    id: '13279700'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341221733l/13279700._SX98_.jpg
+    isbn: '1597802301'
+    isbn13: '9781597802307'
+    link: https://www.goodreads.com/book/show/13279700-the-croning
+    num_pages: '245'
+    publication_day: '1'
+    publication_month: '5'
+    publication_year: '2012'
+    ratings_count: '14883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341221733l/13279700._SY75_.jpg
+    title: The Croning
+    title_without_series: The Croning
+    uri: kca://book/amzn1.gr.book.v1.g9mato-IEPV8SjfkAYLybw
+    work:
+      id: '18483999'
+  - authors:
+      author:
+        id: '167606'
+        link: https://www.goodreads.com/author/show/167606.Brian_Hodge
+        name: Brian Hodge
+    average_rating: '3.61'
+    id: '34381059'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513845485l/34381059._SX98_.jpg
+    isbn: '1771484373'
+    isbn13: '9781771484374'
+    link: https://www.goodreads.com/book/show/34381059-the-immaculate-void
+    num_pages: '232'
+    publication_day: '22'
+    publication_month: '5'
+    publication_year: '2018'
+    ratings_count: '14883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513845485l/34381059._SX50_.jpg
+    title: The Immaculate Void
+    title_without_series: The Immaculate Void
+    uri: kca://book/amzn1.gr.book.v1.HHBdfPhw_MNYCEuVvFGohg
+    work:
+      id: '55469456'
+  - authors:
+      author:
+        id: '10366'
+        link: https://www.goodreads.com/author/show/10366.Clive_Barker
+        name: Clive Barker
+    average_rating: '3.61'
+    id: '52635'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327312426l/52635._SY160_.jpg
+    isbn: 0061002828
+    isbn13: '9780061002823'
+    link: https://www.goodreads.com/book/show/52635.The_Hellbound_Heart
+    num_pages: '164'
+    publication_day: '1'
+    publication_month: '11'
+    publication_year: '1991'
+    ratings_count: '14883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327312426l/52635._SY75_.jpg
+    title: The Hellbound Heart
+    title_without_series: The Hellbound Heart
+    uri: kca://book/amzn1.gr.book.v1.3CYtDLScNCZzQR690XvOww
+    work:
+      id: '1093522'
+  - authors:
+      author:
+        id: '701084'
+        link: https://www.goodreads.com/author/show/701084.Philip_Fracassi
+        name: Philip Fracassi
+    average_rating: '3.61'
+    id: '34014925'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485463515l/34014925._SX98_.jpg
+    isbn: '1945373490'
+    isbn13: '9781945373497'
+    link: https://www.goodreads.com/book/show/34014925-behold-the-void
+    num_pages: '292'
+    publication_day: '10'
+    publication_month: '3'
+    publication_year: '2017'
+    ratings_count: '14883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485463515l/34014925._SY75_.jpg
+    title: Behold the Void
+    title_without_series: Behold the Void
+    uri: kca://book/amzn1.gr.book.v1.Nidn4_Fk7mt_tdcI633eWQ
+    work:
+      id: '55011875'
+  - authors:
+      author:
+        id: '52655'
+        link: https://www.goodreads.com/author/show/52655.Michael_Slade
+        name: Michael Slade
+    average_rating: '3.61'
+    id: '219633'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353084538l/219633._SY160_.jpg
+    isbn: '0451401727'
+    isbn13: '9780451401724'
+    link: https://www.goodreads.com/book/show/219633.Headhunter
+    num_pages: null
+    publication_day: null
+    publication_month: '8'
+    publication_year: '1998'
+    ratings_count: '14883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353084538l/219633._SY75_.jpg
+    title: 'Headhunter  (Special X, #1)'
+    title_without_series: Headhunter
+    uri: kca://book/amzn1.gr.book.v1.HMsVGrLco06jStbs07C6Mw
+    work:
+      id: '1543582'
+  - authors:
+      author:
+        id: '6984661'
+        link: https://www.goodreads.com/author/show/6984661.Nick_Cutter
+        name: Nick Cutter
+    average_rating: '3.61'
+    id: '29430791'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460304718l/29430791._SX98_.jpg
+    isbn: '1501104217'
+    isbn13: '9781501104213'
+    link: https://www.goodreads.com/book/show/29430791-little-heaven
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460304718l/29430791._SY75_.jpg
+    title: Little Heaven
+    title_without_series: Little Heaven
+    uri: kca://book/amzn1.gr.book.v1.kTZyOhVTpGcn17Ro97o6QA
+    work:
+      id: '49695347'
+  - authors:
+      author:
+        id: '5244478'
+        link: https://www.goodreads.com/author/show/5244478.Robert_McCammon
+        name: Robert McCammon
+    average_rating: '3.61'
+    id: '462658'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0913165603
+    isbn13: '9780913165607'
+    link: https://www.goodreads.com/book/show/462658.They_Thirst
+    num_pages: '412'
+    publication_day: null
+    publication_month: '6'
+    publication_year: '1991'
+    ratings_count: '14883'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: They Thirst
+    title_without_series: They Thirst
+    uri: kca://book/amzn1.gr.book.v1.cJ1olTdj4cctJSTMw8SRHA
+    work:
+      id: '16695823'
+  - authors:
+      author:
+        id: '5244478'
+        link: https://www.goodreads.com/author/show/5244478.Robert_McCammon
+        name: Robert McCammon
+    average_rating: '3.61'
+    id: '11548'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340796884l/11548._SY160_.jpg
+    isbn: 0671739441
+    isbn13: '9780671739447'
+    link: https://www.goodreads.com/book/show/11548.Mine
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340796884l/11548._SY75_.jpg
+    title: Mine
+    title_without_series: Mine
+    uri: kca://book/amzn1.gr.book.v1.zbSvRSNFo_uhakgxhCAZXw
+    work:
+      id: '16692628'
+  - authors:
+      author:
+        id: '3381686'
+        link: https://www.goodreads.com/author/show/3381686.Adam_L_G_Nevill
+        name: Adam L.G. Nevill
+    average_rating: '3.61'
+    id: '15793201'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344319467l/15793201._SX98_.jpg
+    isbn: '1250018188'
+    isbn13: '9781250018182'
+    link: https://www.goodreads.com/book/show/15793201-last-days
+    num_pages: '531'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344319467l/15793201._SX50_.jpg
+    title: Last Days
+    title_without_series: Last Days
+    uri: kca://book/amzn1.gr.book.v1.2qeDOZbZ5wyjw0VYviPpYw
+    work:
+      id: '19267664'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '111'
+  '@type': integer
+title: Song of Kali
+title_without_series: Song of Kali
+uri: kca://book/amzn1.gr.book.v1.qgmG9NlHrnWkf7T9Gm_Stw
+url: https://www.goodreads.com/book/show/11280.Song_of_Kali
+work:
+  id: '1623747'
+  uri: kca://work/amzn1.gr.work.v1.9SdLBilMGcmQMK07c6lEGw

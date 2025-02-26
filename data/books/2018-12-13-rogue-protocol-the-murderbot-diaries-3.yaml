@@ -1,0 +1,789 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.23'
+    id: '87305'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1397566224p5/87305.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/87305.Martha_Wells
+    name: Martha Wells
+    ratings_count: '1107070'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1397566224p2/87305.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '111510'
+average_rating: '4.25'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2018-12-13T00:00:00-08:00'
+description: "<i>Who knew being a heartless killing machine would present so many\
+  \ moral dilemmas?</i><br /><br />Sci-fi\u2019s favorite antisocial A.I. is back\
+  \ on a mission. The case against the too-big-to-fail GrayCris Corporation is floundering,\
+  \ and more importantly, authorities are beginning to ask more questions about where\
+  \ Dr. Mensah's SecUnit is.<br /><br />And Murderbot would rather those questions\
+  \ went away. For good."
+edition_information: null
+format: Kindle Edition
+id: '36153880'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506001602l/36153880._SX98_.jpg
+is_ebook: 'true'
+isbn: '1250185432'
+isbn13: '9781250185433'
+json: '{"id": "36153880", "isbn": "1250185432", "isbn13": "9781250185433", "text_reviews_count":
+  {"@type": "integer", "#text": "1336"}, "uri": "kca://book/amzn1.gr.book.v1.vifxI1KBcDzeWBgbshrlvg",
+  "title": "Rogue Protocol (The Murderbot Diaries, #3)", "title_without_series": "Rogue
+  Protocol", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506001602l/36153880._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506001602l/36153880._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/36153880-rogue-protocol",
+  "num_pages": "150", "format": "Kindle Edition", "edition_information": null, "publisher":
+  "Tordotcom", "publication_day": null, "publication_year": null, "publication_month":
+  null, "average_rating": "4.25", "ratings_count": "137661", "description": "<i>Who
+  knew being a heartless killing machine would present so many moral dilemmas?</i><br
+  /><br />Sci-fi\u2019s favorite antisocial A.I. is back on a mission. The case against
+  the too-big-to-fail GrayCris Corporation is floundering, and more importantly, authorities
+  are beginning to ask more questions about where Dr. Mensah''s SecUnit is.<br /><br
+  />And Murderbot would rather those questions went away. For good.", "authors": {"author":
+  {"id": "87305", "name": "Martha Wells", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1397566224p5/87305.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1397566224p2/87305.jpg"},
+  "link": "https://www.goodreads.com/author/show/87305.Martha_Wells", "average_rating":
+  "4.23", "ratings_count": "1107070", "text_reviews_count": "111510"}}, "published":
+  null, "work": {"id": "56934596", "uri": "kca://work/amzn1.gr.work.v1.FXhrLOdmSTQmwKG8-g843g"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/2625692653",
+  "read_at": "Thu Dec 13 00:00:00 -0800 2018", "started_at": "Thu Dec 13 00:00:00
+  -0800 2018", "date": "Thu Dec 13 00:00:00 -0800 2018"}'
+kindle_asin: B0756JSWGL
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/36153880-rogue-protocol
+marketplace_id: ATVPDKIKX0DER
+num_pages: '150'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '27660'
+    '@name': to-read
+  - '@count': '5661'
+    '@name': currently-reading
+  - '@count': '4705'
+    '@name': sci-fi
+  - '@count': '4401'
+    '@name': science-fiction
+  - '@count': '1593'
+    '@name': fiction
+  - '@count': '1414'
+    '@name': audiobook
+  - '@count': '1083'
+    '@name': scifi
+  - '@count': '1039'
+    '@name': novella
+  - '@count': '858'
+    '@name': favorites
+  - '@count': '821'
+    '@name': audiobooks
+  - '@count': '563'
+    '@name': audio
+  - '@count': '557'
+    '@name': series
+  - '@count': '428'
+    '@name': owned
+  - '@count': '385'
+    '@name': adult
+  - '@count': '381'
+    '@name': library
+  - '@count': '333'
+    '@name': space
+  - '@count': '320'
+    '@name': ebook
+  - '@count': '305'
+    '@name': kindle
+  - '@count': '289'
+    '@name': sf
+  - '@count': '288'
+    '@name': sci-fi-fantasy
+  - '@count': '285'
+    '@name': novellas
+  - '@count': '245'
+    '@name': space-opera
+  - '@count': '231'
+    '@name': audible
+  - '@count': '212'
+    '@name': robots
+  - '@count': '204'
+    '@name': fantasy
+  - '@count': '203'
+    '@name': adventure
+  - '@count': '192'
+    '@name': read-in-2023
+  - '@count': '167'
+    '@name': read-in-2024
+  - '@count': '167'
+    '@name': sff
+  - '@count': '165'
+    '@name': read-in-2021
+  - '@count': '161'
+    '@name': humor
+  - '@count': '159'
+    '@name': audio-book
+  - '@count': '140'
+    '@name': short-stories
+  - '@count': '136'
+    '@name': fantasy-sci-fi
+  - '@count': '131'
+    '@name': books-i-own
+  - '@count': '131'
+    '@name': audio-books
+  - '@count': '128'
+    '@name': read-2021
+  - '@count': '123'
+    '@name': read-2024
+  - '@count': '123'
+    '@name': artificial-intelligence
+  - '@count': '123'
+    '@name': speculative-fiction
+  - '@count': '118'
+    '@name': favourites
+  - '@count': '114'
+    '@name': read-in-2020
+  - '@count': '114'
+    '@name': ebooks
+  - '@count': '113'
+    '@name': read-in-2022
+  - '@count': '112'
+    '@name': 2024-reads
+  - '@count': '111'
+    '@name': scifi-fantasy
+  - '@count': '108'
+    '@name': female-author
+  - '@count': '104'
+    '@name': read-2023
+  - '@count': '104'
+    '@name': action
+  - '@count': '100'
+    '@name': queer
+  - '@count': '98'
+    '@name': e-book
+  - '@count': '97'
+    '@name': mystery
+  - '@count': '96'
+    '@name': 2023-reads
+  - '@count': '96'
+    '@name': ai
+  - '@count': '95'
+    '@name': read-2020
+  - '@count': '92'
+    '@name': re-read
+  - '@count': '91'
+    '@name': murderbot
+  - '@count': '91'
+    '@name': adult-fiction
+  - '@count': '90'
+    '@name': borrowed
+  - '@count': '87'
+    '@name': read-2022
+  - '@count': '87'
+    '@name': library-book
+  - '@count': '85'
+    '@name': kindle-unlimited
+  - '@count': '85'
+    '@name': thriller
+  - '@count': '82'
+    '@name': 2021-reads
+  - '@count': '80'
+    '@name': read-in-2018
+  - '@count': '76'
+    '@name': murderbot-diaries
+  - '@count': '74'
+    '@name': 5-stars
+  - '@count': '73'
+    '@name': reread
+  - '@count': '72'
+    '@name': english
+  - '@count': '71'
+    '@name': read-in-2019
+  - '@count': '69'
+    '@name': 2022-reads
+  - '@count': '69'
+    '@name': science-fiction-fantasy
+  - '@count': '68'
+    '@name': funny
+  - '@count': '66'
+    '@name': library-books
+  - '@count': '64'
+    '@name': fantasy-scifi
+  - '@count': '64'
+    '@name': short
+  - '@count': '63'
+    '@name': read-2019
+  - '@count': '62'
+    '@name': sf-fantasy
+  - '@count': '61'
+    '@name': 4-stars
+  - '@count': '59'
+    '@name': novels
+  - '@count': '57'
+    '@name': to-buy
+  - '@count': '56'
+    '@name': 2020-reads
+  - '@count': '55'
+    '@name': physical-tbr
+  - '@count': '55'
+    '@name': libby
+  - '@count': '55'
+    '@name': read-in-english
+  - '@count': '54'
+    '@name': owned-books
+  - '@count': '53'
+    '@name': dnf
+  - '@count': '53'
+    '@name': short-fiction
+  - '@count': '52'
+    '@name': lgbtq
+  - '@count': '52'
+    '@name': cyberpunk
+  - '@count': '50'
+    '@name': short-stories-novellas
+  - '@count': '49'
+    '@name': 2024-books
+  - '@count': '49'
+    '@name': martha-wells
+  - '@count': '49'
+    '@name': genre-sci-fi
+  - '@count': '48'
+    '@name': dystopian
+  - '@count': '48'
+    '@name': genre-science-fiction
+  - '@count': '47'
+    '@name': listened
+  - '@count': '47'
+    '@name': humour
+  - '@count': '47'
+    '@name': sci-fi-and-fantasy
+  - '@count': '47'
+    '@name': read-2018
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: Tordotcom
+ratings_count: '137661'
+read_at: '2018-12-13T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/2625692653
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/36153880-rogue-protocol\"\
+  >Rogue Protocol Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1250185432&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/36153880-rogue-protocol?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+  - id: '1079446'
+    series:
+      description: "The Murderbot Diaries, by Martha Wells, is a series concerning\
+        \ a violent, self-hacking cyborg searching for the meaning of life. <i>All\
+        \ Systems Red</i>, the first book in the series, received the Hugo, Nebula,\
+        \ and Locus Awards. It was a <i>New York Times</i> and <i>USA Today</i> bestseller.\n\
+        \    \n    Note the stories are novellas, except for a standalone Murderbot\
+        \ novel (Network Effect) and two short stories:\n    \n    #0.5 \"The Future\
+        \ of Work: Compulsory\" <a href=\"https://www.wired.com/story/future-of-work-compulsory-martha-wells/\"\
+        \ target=\"_blank\">published in Wired Magazine</a>. \n    #0.1 \"Obsolescence\"\
+        \ published in <a href=\"https://www.goodreads.com/book/show/50538328\" target=\"\
+        _blank\"<i>Take Us to a Better Place</i></a>\n    \n    The publication order\
+        \ is slightly different from the chronological order. #6, Fugitive Telemetry,\
+        \ occurs chronologically before #5, Network Effect, and the short story Compulsory\
+        \ (published after #4 Exit Strategy, is the earliest story chronologically).\n\
+        \    \n    Series also known as:\n    Journal d'un Assasynth\n    Killerbot\n\
+        \    Los diarios de Matabot\n    Jurnal de Asasint\n    Katilbot G\xFCnl\xFC\
+        kleri\n    \u0414\u043D\u0435\u0432\u043D\u0438\u043A\u0438 \u041A\u0438\u043B\
+        \u043B\u0435\u0440\u0431\u043E\u0442\u0430\n    Slepkabota dienasgr\u0101\
+        matasx\n    \u0429\u043E\u0434\u0435\u043D\u043D\u0438\u043A\u0438 \u0412\u0431\
+        \u0438\u0432\u0446\u0435\u0431\u043E\u0442\u0430\n    \xD6ld\xF6kl\u0151-napl\xF3\
+        k ciklusnak\n    Z den\xEDk\u016F robokata\n    \u53AD\u4E16\u6A5F\u5668\u4EBA\
+        \n    \uBA38\uB354\uBD07 \uB2E4\uC774\uC5B4\uB9AC\n    \u0E1A\u0E31\u0E19\u0E17\
+        \u0E36\u0E01\u0E1A\u0E2D\u0E15\u0E2A\u0E31\u0E07\u0E2B\u0E32\u0E23\n    \u05D9\
+        \u05D5\u05DE\u05E0\u05D9 \u05E8\u05D5\u05D1\u05D5\u05E8\u05E6\u05D7\n    \u0631\
+        \u0628\u0627\u062A \u0622\u062F\u0645\u200C\u06A9\u0634\n    \n    http://us.macmillan.com/series/themurderbotdiaries"
+      id: '191900'
+      note: null
+      numbered: 'true'
+      primary_work_count: '7'
+      series_works_count: '15'
+      title: The Murderbot Diaries
+    user_position: '3'
+  - id: '2220749'
+    series:
+      description: "Adaption of The Murderbot Diaries, with a full cast, cinematic\
+        \ music and sound effects.\n    Recorded by arrangement with the author."
+      id: '385011'
+      note: Don't merge with the original books, these are adaptations
+      numbered: 'true'
+      primary_work_count: '7'
+      series_works_count: '7'
+      title: The Murderbot Diaries - Dramatized Adaptation
+    user_position: '3'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '4763'
+        link: https://www.goodreads.com/author/show/4763.John_Scalzi
+        name: John Scalzi
+    average_rating: '4.25'
+    id: '61885029'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683564155l/61885029._SX98_.jpg
+    isbn: 0765389223
+    isbn13: '9780765389220'
+    link: https://www.goodreads.com/book/show/61885029-starter-villain
+    num_pages: '264'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '137666'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683564155l/61885029._SY75_.jpg
+    title: Starter Villain
+    title_without_series: Starter Villain
+    uri: kca://book/amzn1.gr.book.v3.lw5OQ1LT9jh6bQd-
+    work:
+      id: '97563902'
+  - authors:
+      author:
+        id: '17650479'
+        link: https://www.goodreads.com/author/show/17650479.Becky_Chambers
+        name: Becky  Chambers
+    average_rating: '4.25'
+    id: '40864002'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600789291l/40864002._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/40864002-a-psalm-for-the-wild-built
+    num_pages: '151'
+    publication_day: '13'
+    publication_month: '7'
+    publication_year: '2021'
+    ratings_count: '137666'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600789291l/40864002._SY75_.jpg
+    title: 'A Psalm for the Wild-Built (Monk & Robot, #1)'
+    title_without_series: A Psalm for the Wild-Built
+    uri: kca://book/amzn1.gr.book.v1.KLqQv5HUG5OyCS0wjTOE7g
+    work:
+      id: '63655961'
+  - authors:
+      author:
+        id: '17650479'
+        link: https://www.goodreads.com/author/show/17650479.Becky_Chambers
+        name: Becky  Chambers
+    average_rating: '4.25'
+    id: '22733729'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405532474l/22733729._SX98_.jpg
+    isbn: '1500453307'
+    isbn13: '9781500453305'
+    link: https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet
+    num_pages: '518'
+    publication_day: '29'
+    publication_month: '7'
+    publication_year: '2014'
+    ratings_count: '137666'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405532474l/22733729._SY75_.jpg
+    title: 'The Long Way to a Small, Angry Planet (Wayfarers, #1)'
+    title_without_series: The Long Way to a Small, Angry Planet
+    uri: kca://book/amzn1.gr.book.v1.7jMMysy4IZiuY37Y1E_EyA
+    work:
+      id: '42270825'
+  - authors:
+      author:
+        id: '17650479'
+        link: https://www.goodreads.com/author/show/17650479.Becky_Chambers
+        name: Becky  Chambers
+    average_rating: '4.25'
+    id: '40864030'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733422002l/40864030._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/40864030-a-prayer-for-the-crown-shy
+    num_pages: '152'
+    publication_day: '12'
+    publication_month: '7'
+    publication_year: '2022'
+    ratings_count: '137666'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733422002l/40864030._SY75_.jpg
+    title: 'A Prayer for the Crown-Shy (Monk & Robot, #2)'
+    title_without_series: A Prayer for the Crown-Shy
+    uri: kca://book/amzn1.gr.book.v1.IO59fUm6oxMn1CL9-RkdLw
+    work:
+      id: '65807876'
+  - authors:
+      author:
+        id: '17650479'
+        link: https://www.goodreads.com/author/show/17650479.Becky_Chambers
+        name: Becky  Chambers
+    average_rating: '4.25'
+    id: '29475447'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457598923l/29475447._SX98_.jpg
+    isbn: '1473621445'
+    isbn13: '9781473621442'
+    link: https://www.goodreads.com/book/show/29475447-a-closed-and-common-orbit
+    num_pages: '365'
+    publication_day: '20'
+    publication_month: '10'
+    publication_year: '2016'
+    ratings_count: '137666'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457598923l/29475447._SY75_.jpg
+    title: 'A Closed and Common Orbit (Wayfarers, #2)'
+    title_without_series: A Closed and Common Orbit
+    uri: kca://book/amzn1.gr.book.v1.G9aQpSKnh0heqZeoJJXnJQ
+    work:
+      id: '48620653'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.25'
+    id: '201930181'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SX98_.jpg
+    isbn: 031652557X
+    isbn13: '9780316525572'
+    link: https://www.goodreads.com/book/show/201930181-the-mercy-of-gods
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '137666'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SY75_.jpg
+    title: "The Mercy of Gods (The Captive\u2019s War, #1)"
+    title_without_series: The Mercy of Gods
+    uri: kca://book/amzn1.gr.book.v3.nndIiP3mF2vHLfgz
+    work:
+      id: '95320019'
+  - authors:
+      author:
+        id: '999015'
+        link: https://www.goodreads.com/author/show/999015.Matt_Dinniman
+        name: Matt Dinniman
+    average_rating: '4.25'
+    id: '56791389'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734203042l/56791389._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/56791389-dungeon-crawler-carl
+    num_pages: '446'
+    publication_day: '2'
+    publication_month: '10'
+    publication_year: '2020'
+    ratings_count: '137666'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734203042l/56791389._SY75_.jpg
+    title: 'Dungeon Crawler Carl (Dungeon Crawler Carl, #1)'
+    title_without_series: Dungeon Crawler Carl
+    uri: kca://book/amzn1.gr.book.v3.IIiPR40dYAdYP4vI
+    work:
+      id: '76027608'
+  - authors:
+      author:
+        id: '22182916'
+        link: https://www.goodreads.com/author/show/22182916.Travis_Baldree
+        name: Travis Baldree
+    average_rating: '4.25'
+    id: '65213543'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678122626l/65213543._SX98_.jpg
+    isbn: '1250886104'
+    isbn13: '9781250886101'
+    link: https://www.goodreads.com/book/show/65213543-bookshops-bonedust
+    num_pages: '336'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '137666'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678122626l/65213543._SY75_.jpg
+    title: 'Bookshops & Bonedust (Legends & Lattes, #0)'
+    title_without_series: Bookshops & Bonedust
+    uri: kca://book/amzn1.gr.book.v3.XjJZUtECVMG5NTPQ
+    work:
+      id: '100097047'
+  - authors:
+      author:
+        id: '38550'
+        link: https://www.goodreads.com/author/show/38550.Brandon_Sanderson
+        name: Brandon Sanderson
+    average_rating: '4.25'
+    id: '203578847'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724944713l/203578847._SX98_.jpg
+    isbn: '1250319188'
+    isbn13: '9781250319180'
+    link: https://www.goodreads.com/book/show/203578847-wind-and-truth
+    num_pages: '1330'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '137666'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724944713l/203578847._SY75_.jpg
+    title: 'Wind and Truth (The Stormlight Archive, #5)'
+    title_without_series: Wind and Truth
+    uri: kca://book/amzn1.gr.book.v3._5ntawlCyGh_jC3f
+    work:
+      id: '23840276'
+  - authors:
+      author:
+        id: '3365457'
+        link: https://www.goodreads.com/author/show/3365457.Ann_Leckie
+        name: Ann Leckie
+    average_rating: '4.25'
+    id: '17333324'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397215917l/17333324._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/17333324-ancillary-justice
+    num_pages: '386'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '137666'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397215917l/17333324._SY75_.jpg
+    title: 'Ancillary Justice (Imperial Radch, #1)'
+    title_without_series: Ancillary Justice
+    uri: kca://book/amzn1.gr.book.v1.oPEWFxWYEA4CV6IIhbU8rw
+    work:
+      id: '24064628'
+  - authors:
+      author:
+        id: '12130438'
+        link: https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor
+        name: Dennis E. Taylor
+    average_rating: '4.25'
+    id: '32109569'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/32109569-we-are-legion-we-are-bob
+    num_pages: '383'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '137666'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'We Are Legion (We Are Bob) (Bobiverse, #1)'
+    title_without_series: We Are Legion (We Are Bob)
+    uri: kca://book/amzn1.gr.book.v1.0DjS0I2cmi2OxnN9MelPZQ
+    work:
+      id: '52752877'
+  - authors:
+      author:
+        id: '999015'
+        link: https://www.goodreads.com/author/show/999015.Matt_Dinniman
+        name: Matt Dinniman
+    average_rating: '4.25'
+    id: '56377548'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/56377548-carl-s-doomsday-scenario
+    num_pages: '364'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '137666'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Carl''s Doomsday Scenario (Dungeon Crawler Carl, #2)'
+    title_without_series: Carl's Doomsday Scenario
+    uri: kca://book/amzn1.gr.book.v3.RlZyrC7tew-snH00
+    work:
+      id: '87846872'
+  - authors:
+      author:
+        id: '7367300'
+        link: https://www.goodreads.com/author/show/7367300.T_Kingfisher
+        name: T. Kingfisher
+    average_rating: '4.25'
+    id: '195790847'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697733485l/195790847._SX98_.jpg
+    isbn: '1250244072'
+    isbn13: '9781250244079'
+    link: https://www.goodreads.com/book/show/195790847-a-sorceress-comes-to-call
+    num_pages: '327'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '137666'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697733485l/195790847._SY75_.jpg
+    title: A Sorceress Comes to Call
+    title_without_series: A Sorceress Comes to Call
+    uri: kca://book/amzn1.gr.book.v3.K_CZ8UrxXXVcnrfw
+    work:
+      id: '197724636'
+  - authors:
+      author:
+        id: '6876324'
+        link: https://www.goodreads.com/author/show/6876324.Tamsyn_Muir
+        name: Tamsyn Muir
+    average_rating: '4.25'
+    id: '42036538'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546870952l/42036538._SX98_.jpg
+    isbn: '1250313198'
+    isbn13: '9781250313195'
+    link: https://www.goodreads.com/book/show/42036538-gideon-the-ninth
+    num_pages: '448'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '137666'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546870952l/42036538._SY75_.jpg
+    title: 'Gideon the Ninth (The Locked Tomb, #1)'
+    title_without_series: Gideon the Ninth
+    uri: kca://book/amzn1.gr.book.v1.Z5TDooB5CEcvi3VeJN7rUA
+    work:
+      id: '60943229'
+  - authors:
+      author:
+        id: '2916869'
+        link: https://www.goodreads.com/author/show/2916869.Robert_Jackson_Bennett
+        name: Robert Jackson Bennett
+    average_rating: '4.25'
+    id: '150247395'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1735662086l/150247395._SX98_.jpg
+    isbn: '1984820702'
+    isbn13: '9781984820709'
+    link: https://www.goodreads.com/book/show/150247395-the-tainted-cup
+    num_pages: '410'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '137666'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1735662086l/150247395._SY75_.jpg
+    title: 'The Tainted Cup (Shadow of the Leviathan, #1)'
+    title_without_series: The Tainted Cup
+    uri: kca://book/amzn1.gr.book.v3.AHMTdTBFDCiQ2N6a
+    work:
+      id: '125992890'
+  - authors:
+      author:
+        id: '17650479'
+        link: https://www.goodreads.com/author/show/17650479.Becky_Chambers
+        name: Becky  Chambers
+    average_rating: '4.25'
+    id: '32802595'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516965190l/32802595._SX98_.jpg
+    isbn: '1473647606'
+    isbn13: '9781473647602'
+    link: https://www.goodreads.com/book/show/32802595-record-of-a-spaceborn-few
+    num_pages: '359'
+    publication_day: '24'
+    publication_month: '7'
+    publication_year: '2018'
+    ratings_count: '137666'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516965190l/32802595._SY75_.jpg
+    title: 'Record of a Spaceborn Few (Wayfarers, #3)'
+    title_without_series: Record of a Spaceborn Few
+    uri: kca://book/amzn1.gr.book.v1.jnqgmBcT29KY_QnKNBly7A
+    work:
+      id: '53399142'
+  - authors:
+      author:
+        id: '13803582'
+        link: https://www.goodreads.com/author/show/13803582.Arkady_Martine
+        name: Arkady Martine
+    average_rating: '4.25'
+    id: '37794149'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526486698l/37794149._SX98_.jpg
+    isbn: '1529001587'
+    isbn13: '9781529001587'
+    link: https://www.goodreads.com/book/show/37794149-a-memory-called-empire
+    num_pages: '448'
+    publication_day: '26'
+    publication_month: '3'
+    publication_year: '2019'
+    ratings_count: '137666'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526486698l/37794149._SY75_.jpg
+    title: 'A Memory Called Empire (Teixcalaan, #1)'
+    title_without_series: A Memory Called Empire
+    uri: kca://book/amzn1.gr.book.v1.MmWDcFtB4rT4eDrGbSXsuQ
+    work:
+      id: '59457173'
+  - authors:
+      author:
+        id: '12130438'
+        link: https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor
+        name: Dennis E. Taylor
+    average_rating: '4.25'
+    id: '159116833'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712930306l/159116833._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/159116833-not-till-we-are-lost
+    num_pages: '413'
+    publication_day: '5'
+    publication_month: '9'
+    publication_year: '2024'
+    ratings_count: '137666'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712930306l/159116833._SX50_.jpg
+    title: 'Not Till We Are Lost (Bobiverse #5)'
+    title_without_series: Not Till We Are Lost
+    uri: kca://book/amzn1.gr.book.v3.AzkbsrEAp5F3hB8P
+    work:
+      id: '171689305'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506001602l/36153880._SY75_.jpg
+started_at: '2018-12-13T00:00:00-08:00'
+text_reviews_count:
+  '#text': '1336'
+  '@type': integer
+title: 'Rogue Protocol (The Murderbot Diaries, #3)'
+title_without_series: Rogue Protocol
+uri: kca://book/amzn1.gr.book.v1.vifxI1KBcDzeWBgbshrlvg
+url: https://www.goodreads.com/book/show/36153880-rogue-protocol
+work:
+  id: '56934596'
+  uri: kca://work/amzn1.gr.work.v1.FXhrLOdmSTQmwKG8-g843g

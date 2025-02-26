@@ -1,0 +1,761 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.52'
+    id: '1840202'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1224390661p5/1840202.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/1840202.Jeff_Carlson
+    name: Jeff  Carlson
+    ratings_count: '9306'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1224390661p2/1840202.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '745'
+average_rating: '3.40'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: "The nanotechnology was designed to fight cancer. Instead, it evolved\
+  \ into the Machine Plague, killing nearly five billion people and changing life\
+  \ on Earth forever.<br /><br />The nanotech has one weakness: it self-destructs\
+  \ at altitudes above ten thousand feet. Those few who've managed to escape the plague\
+  \ struggle to stay alive on the highest mountains, but time is running out\u2014\
+  there is famine and war, and the environment is crashing worldwide. Humanity's last\
+  \ hope lies with a top nanotech researcher aboard the International Space Station\u2014\
+  and with a small group of survivors in California who risk a daring journey below\
+  \ the death line..."
+edition_information: null
+format: null
+id: '294460'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: 044101514X
+isbn13: '9780441015146'
+json: '{"id": "294460", "isbn": "044101514X", "isbn13": "9780441015146", "text_reviews_count":
+  {"@type": "integer", "#text": "166"}, "uri": "kca://book/amzn1.gr.book.v1.CWqWeFUT3dgn0sZ2AyaV-g",
+  "title": "Plague Year (Plague, #1)", "title_without_series": "Plague Year", "image_url":
+  "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/294460.Plague_Year",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": "Ace",
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.40", "ratings_count": "2673", "description": "The nanotechnology was designed
+  to fight cancer. Instead, it evolved into the Machine Plague, killing nearly five
+  billion people and changing life on Earth forever.<br /><br />The nanotech has one
+  weakness: it self-destructs at altitudes above ten thousand feet. Those few who''ve
+  managed to escape the plague struggle to stay alive on the highest mountains, but
+  time is running out\u2014there is famine and war, and the environment is crashing
+  worldwide. Humanity''s last hope lies with a top nanotech researcher aboard the
+  International Space Station\u2014and with a small group of survivors in California
+  who risk a daring journey below the death line...", "authors": {"author": {"id":
+  "1840202", "name": "Jeff  Carlson", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1224390661p5/1840202.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1224390661p2/1840202.jpg"},
+  "link": "https://www.goodreads.com/author/show/1840202.Jeff_Carlson", "average_rating":
+  "3.52", "ratings_count": "9306", "text_reviews_count": "745"}}, "published": null,
+  "work": {"id": "4087763", "uri": "kca://work/amzn1.gr.work.v1.9OurMgZIRuLq82LnJbADMQ"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/42404702",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B00AHJTUBE
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/294460.Plague_Year
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '1068'
+    '@name': to-read
+  - '@count': '363'
+    '@name': currently-reading
+  - '@count': '85'
+    '@name': science-fiction
+  - '@count': '64'
+    '@name': fiction
+  - '@count': '48'
+    '@name': sci-fi
+  - '@count': '40'
+    '@name': post-apocalyptic
+  - '@count': '32'
+    '@name': apocalyptic
+  - '@count': '29'
+    '@name': kindle
+  - '@count': '26'
+    '@name': owned
+  - '@count': '26'
+    '@name': apocalypse
+  - '@count': '24'
+    '@name': horror
+  - '@count': '19'
+    '@name': ebook
+  - '@count': '19'
+    '@name': scifi
+  - '@count': '18'
+    '@name': dystopian
+  - '@count': '17'
+    '@name': thriller
+  - '@count': '14'
+    '@name': sf
+  - '@count': '13'
+    '@name': post-apocalypse
+  - '@count': '11'
+    '@name': default
+  - '@count': '9'
+    '@name': series
+  - '@count': '9'
+    '@name': dystopia
+  - '@count': '7'
+    '@name': zombies
+  - '@count': '7'
+    '@name': audio
+  - '@count': '6'
+    '@name': amazon
+  - '@count': '5'
+    '@name': e-book
+  - '@count': '5'
+    '@name': abandoned
+  - '@count': '5'
+    '@name': audiobooks
+  - '@count': '5'
+    '@name': nanotechnology
+  - '@count': '5'
+    '@name': wish-list
+  - '@count': '5'
+    '@name': science
+  - '@count': '5'
+    '@name': plague
+  - '@count': '5'
+    '@name': end-of-the-world
+  - '@count': '4'
+    '@name': books-i-own
+  - '@count': '4'
+    '@name': sci-fi-fantasy
+  - '@count': '4'
+    '@name': audiobook
+  - '@count': '4'
+    '@name': survival
+  - '@count': '4'
+    '@name': tech
+  - '@count': '4'
+    '@name': fantasy
+  - '@count': '4'
+    '@name': science-fiction-fantasy
+  - '@count': '4'
+    '@name': could-not-finish
+  - '@count': '4'
+    '@name': teotwawki
+  - '@count': '3'
+    '@name': kindle-books
+  - '@count': '3'
+    '@name': own-but-not-read-yet
+  - '@count': '3'
+    '@name': library
+  - '@count': '3'
+    '@name': kindle-unlimited
+  - '@count': '3'
+    '@name': ebooks
+  - '@count': '3'
+    '@name': have
+  - '@count': '3'
+    '@name': books
+  - '@count': '3'
+    '@name': adventure
+  - '@count': '3'
+    '@name': first-in-series
+  - '@count': '3'
+    '@name': pandemic
+  - '@count': '3'
+    '@name': audible
+  - '@count': '3'
+    '@name': did-not-finish
+  - '@count': '3'
+    '@name': apocalyptic-post-apocalyptic
+  - '@count': '3'
+    '@name': to-read-fiction
+  - '@count': '3'
+    '@name': speculative-fiction
+  - '@count': '3'
+    '@name': couldn-t-finish
+  - '@count': '3'
+    '@name': own-it
+  - '@count': '3'
+    '@name': high
+  - '@count': '3'
+    '@name': general
+  - '@count': '3'
+    '@name': epidemics
+  - '@count': '3'
+    '@name': zombie
+  - '@count': '2'
+    '@name': 1-cataloged
+  - '@count': '2'
+    '@name': audible-plus
+  - '@count': '2'
+    '@name': own-tbr
+  - '@count': '2'
+    '@name': wanted
+  - '@count': '2'
+    '@name': sci-fi-post-apocalyptic
+  - '@count': '2'
+    '@name': ebooks-i-own
+  - '@count': '2'
+    '@name': queued
+  - '@count': '2'
+    '@name': available
+  - '@count': '2'
+    '@name': free-kindle
+  - '@count': '2'
+    '@name': free-ebooks
+  - '@count': '2'
+    '@name': new-series
+  - '@count': '2'
+    '@name': spanish
+  - '@count': '2'
+    '@name': drama
+  - '@count': '2'
+    '@name': unsorted
+  - '@count': '2'
+    '@name': shelfari-wishlist
+  - '@count': '2'
+    '@name': bought
+  - '@count': '2'
+    '@name': pages-301-500
+  - '@count': '2'
+    '@name': gave-up
+  - '@count': '2'
+    '@name': free
+  - '@count': '2'
+    '@name': novels
+  - '@count': '2'
+    '@name': unread
+  - '@count': '2'
+    '@name': ebook-owned
+  - '@count': '2'
+    '@name': kindle-owned
+  - '@count': '2'
+    '@name': apocolypse
+  - '@count': '2'
+    '@name': unlimited
+  - '@count': '2'
+    '@name': owned-books
+  - '@count': '2'
+    '@name': part-of-a-series
+  - '@count': '2'
+    '@name': author-c
+  - '@count': '2'
+    '@name': eb
+  - '@count': '2'
+    '@name': apocalyptic-fiction
+  - '@count': '2'
+    '@name': home-library
+  - '@count': '2'
+    '@name': postapocalypse
+  - '@count': '2'
+    '@name': dnf
+  - '@count': '2'
+    '@name': carlson
+  - '@count': '2'
+    '@name': e-books
+  - '@count': '2'
+    '@name': post-apocolyptic
+  - '@count': '2'
+    '@name': fiction-series
+  - '@count': '2'
+    '@name': mystery
+  - '@count': '2'
+    '@name': dystopian-post-apocalyptic
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: Ace
+ratings_count: '2673'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/42404702
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/294460.Plague_Year\"\
+  >Plague Year Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=044101514X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/294460.Plague_Year?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '193270'
+    series:
+      description: null
+      id: '51102'
+      note: null
+      numbered: 'true'
+      primary_work_count: '3'
+      series_works_count: '3'
+      title: Plague
+    user_position: '1'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '4764'
+        link: https://www.goodreads.com/author/show/4764.Philip_K_Dick
+        name: Philip K. Dick
+    average_rating: '3.40'
+    id: '6561374'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1435510143'
+    isbn13: '9781435510142'
+    link: https://www.goodreads.com/book/show/6561374-we-can-remember-it-for-you-wholesale
+    num_pages: '29'
+    publication_day: '14'
+    publication_month: '6'
+    publication_year: '2007'
+    ratings_count: '2673'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: We Can Remember It for You Wholesale
+    title_without_series: We Can Remember It for You Wholesale
+    uri: kca://book/amzn1.gr.book.v1.jCpla_yk0asmMpaC4InNdQ
+    work:
+      id: '857342'
+  - authors:
+      author:
+        id: '10518'
+        link: https://www.goodreads.com/author/show/10518.Elizabeth_Moon
+        name: Elizabeth Moon
+    average_rating: '3.40'
+    id: '96284'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320407954l/96284._SX98_.jpg
+    isbn: 034546219X
+    isbn13: '9780345462190'
+    link: https://www.goodreads.com/book/show/96284.Remnant_Population
+    num_pages: '326'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2673'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320407954l/96284._SY75_.jpg
+    title: Remnant Population
+    title_without_series: Remnant Population
+    uri: kca://book/amzn1.gr.book.v1.MWY09GsLc4s4SRBpbaj8sQ
+    work:
+      id: '92804'
+  - authors:
+      author:
+        id: '12505'
+        link: https://www.goodreads.com/author/show/12505.Scott_Smith
+        name: Scott        Smith
+    average_rating: '3.40'
+    id: '21727'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0307279952
+    isbn13: '9780307279958'
+    link: https://www.goodreads.com/book/show/21727.A_Simple_Plan
+    num_pages: '417'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2673'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: A Simple Plan
+    title_without_series: A Simple Plan
+    uri: kca://book/amzn1.gr.book.v1.-9MosNxt53m0u8vQ6LVw8A
+    work:
+      id: '593515'
+  - authors:
+      author:
+        id: '27167'
+        link: https://www.goodreads.com/author/show/27167.Peter_Watts
+        name: Peter Watts
+    average_rating: '3.40'
+    id: '48484'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0765312182
+    isbn13: '9780765312181'
+    link: https://www.goodreads.com/book/show/48484.Blindsight
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2673'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Blindsight (Firefall, #1)'
+    title_without_series: Blindsight
+    uri: kca://book/amzn1.gr.book.v1.A4CNk2qG0qxshK4OKH9lJQ
+    work:
+      id: '223813791'
+  - authors:
+      author:
+        id: '11091'
+        link: https://www.goodreads.com/author/show/11091.Lincoln_Child
+        name: Lincoln Child
+    average_rating: '3.40'
+    id: '23211078'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421465926l/23211078._SX98_.jpg
+    isbn: 0385531419
+    isbn13: '9780385531412'
+    link: https://www.goodreads.com/book/show/23211078-the-forgotten-room
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2673'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421465926l/23211078._SY75_.jpg
+    title: 'The Forgotten Room (Jeremy Logan, #4)'
+    title_without_series: The Forgotten Room
+    uri: kca://book/amzn1.gr.book.v1.Z5m-8idbmWIgFJ-cVGyFKA
+    work:
+      id: '42459928'
+  - authors:
+      author:
+        id: '9355'
+        link: https://www.goodreads.com/author/show/9355.Dean_Koontz
+        name: Dean Koontz
+    average_rating: '3.40'
+    id: '23507088'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415240286l/23507088._SX98_.jpg
+    isbn: 0804180938
+    isbn13: '9780804180931'
+    link: https://www.goodreads.com/book/show/23507088-odd-thomas
+    num_pages: null
+    publication_day: '9'
+    publication_month: '12'
+    publication_year: '2014'
+    ratings_count: '2673'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415240286l/23507088._SX50_.jpg
+    title: 'Odd Thomas: You Are Destined To Be Together Forever (Odd Thomas, #0)'
+    title_without_series: 'Odd Thomas: You Are Destined To Be Together Forever'
+    uri: kca://book/amzn1.gr.book.v1.jMJlqeRwA2nvsMKeCXVxRQ
+    work:
+      id: '43111196'
+  - authors:
+      author:
+        id: '1654'
+        link: https://www.goodreads.com/author/show/1654.Terry_Pratchett
+        name: Terry Pratchett
+    average_rating: '3.40'
+    id: '8785374'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1302694636l/8785374._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/8785374-snuff
+    num_pages: '378'
+    publication_day: '13'
+    publication_month: '10'
+    publication_year: '2011'
+    ratings_count: '2673'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1302694636l/8785374._SX50_.jpg
+    title: 'Snuff (Discworld, #39; City Watch, #8)'
+    title_without_series: Snuff
+    uri: kca://book/amzn1.gr.book.v1.iSzlBYBgb0-JPamIIbA5-w
+    work:
+      id: '13659124'
+  - authors:
+      author:
+        id: '5791'
+        link: https://www.goodreads.com/author/show/5791.Max_Brooks
+        name: Max Brooks
+    average_rating: '3.40'
+    id: '535441'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614064115l/535441._SX98_.jpg
+    isbn: '1400049628'
+    isbn13: '9781400049622'
+    link: https://www.goodreads.com/book/show/535441.The_Zombie_Survival_Guide
+    num_pages: '272'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2673'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614064115l/535441._SX50_.jpg
+    title: 'The Zombie Survival Guide: Complete Protection from the Living Dead'
+    title_without_series: 'The Zombie Survival Guide: Complete Protection from the
+      Living Dead'
+    uri: kca://book/amzn1.gr.book.v1.HNBfswKeA8syJBHV9gqXOw
+    work:
+      id: '818'
+  - authors:
+      author:
+        id: '8794'
+        link: https://www.goodreads.com/author/show/8794.Charles_Stross
+        name: Charles Stross
+    average_rating: '3.40'
+    id: '12393566'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318285337l/12393566._SX98_.jpg
+    isbn: '1101581131'
+    isbn13: '9781101581131'
+    link: https://www.goodreads.com/book/show/12393566-the-apocalypse-codex
+    num_pages: '336'
+    publication_day: '3'
+    publication_month: '7'
+    publication_year: '2012'
+    ratings_count: '2673'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318285337l/12393566._SY75_.jpg
+    title: 'The Apocalypse Codex (Laundry Files, #4)'
+    title_without_series: The Apocalypse Codex
+    uri: kca://book/amzn1.gr.book.v1.gzdfeI8Tt02s3p92FxiqGw
+    work:
+      id: '17374689'
+  - authors:
+      author:
+        id: '50248237'
+        link: https://www.goodreads.com/author/show/50248237.Anthony_Dean
+        name: Anthony  Dean
+    average_rating: '3.40'
+    id: '213953553'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: '9798990570115'
+    link: https://www.goodreads.com/book/show/213953553-the-voided-man
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2673'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Voided Man
+    title_without_series: The Voided Man
+    uri: kca://book/amzn1.gr.book.v3.Psz9gJ1gcvjpGCPn
+    work:
+      id: '220028192'
+  - authors:
+      author:
+        id: '50248237'
+        link: https://www.goodreads.com/author/show/50248237.Anthony_Dean
+        name: Anthony  Dean
+    average_rating: '3.40'
+    id: '214007490'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/214007490-ascending-the-hourglass
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2673'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Ascending the Hourglass (The Voided Man, #2)'
+    title_without_series: Ascending the Hourglass
+    uri: kca://book/amzn1.gr.book.v3.6yDp9wxrIYVBPXfD
+    work:
+      id: '220275404'
+  - authors:
+      author:
+        id: '10746'
+        link: https://www.goodreads.com/author/show/10746.Jim_Butcher
+        name: Jim  Butcher
+    average_rating: '3.40'
+    id: '12216302'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661017900l/12216302._SX98_.jpg
+    isbn: '0451464400'
+    isbn13: '9780451464408'
+    link: https://www.goodreads.com/book/show/12216302-cold-days
+    num_pages: '515'
+    publication_day: '27'
+    publication_month: '11'
+    publication_year: '2012'
+    ratings_count: '2673'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661017900l/12216302._SY75_.jpg
+    title: 'Cold Days (The Dresden Files, #14)'
+    title_without_series: Cold Days
+    uri: kca://book/amzn1.gr.book.v1.9no4qB4KwWQ8MsfexfCv-A
+    work:
+      id: '17189468'
+  - authors:
+      author:
+        id: '5194'
+        link: https://www.goodreads.com/author/show/5194.Michael_Crichton
+        name: Michael Crichton
+    average_rating: '3.40'
+    id: '7670'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587497243l/7670._SX98_.jpg
+    isbn: 0060541814
+    isbn13: '9780060541811'
+    link: https://www.goodreads.com/book/show/7670.The_Andromeda_Strain
+    num_pages: '327'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2673'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587497243l/7670._SY75_.jpg
+    title: 'The Andromeda Strain (Andromeda, #1)'
+    title_without_series: The Andromeda Strain
+    uri: kca://book/amzn1.gr.book.v1.nVQV1kEHXcqmyo7sw7a1RA
+    work:
+      id: '997271'
+  - authors:
+      author:
+        id: '12130438'
+        link: https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor
+        name: Dennis E. Taylor
+    average_rating: '3.40'
+    id: '61856981'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659630843l/61856981._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/61856981-roadkill
+    num_pages: '9'
+    publication_day: '4'
+    publication_month: '8'
+    publication_year: '2022'
+    ratings_count: '2673'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659630843l/61856981._SX50_.jpg
+    title: Roadkill
+    title_without_series: Roadkill
+    uri: kca://book/amzn1.gr.book.v3.GXRNxPbf36oXjCLO
+    work:
+      id: '97518000'
+  - authors:
+      author:
+        id: '252338'
+        link: https://www.goodreads.com/author/show/252338.Keith_Rosson
+        name: Keith Rosson
+    average_rating: '3.40'
+    id: '202102065'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708026659l/202102065._SX98_.jpg
+    isbn: 0593595785
+    isbn13: '9780593595787'
+    link: https://www.goodreads.com/book/show/202102065-the-devil-by-name
+    num_pages: '400'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2673'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708026659l/202102065._SY75_.jpg
+    title: 'The Devil By Name (Fever House, #2)'
+    title_without_series: The Devil By Name
+    uri: kca://book/amzn1.gr.book.v3.tUZvBI2tFJc5dkfT
+    work:
+      id: '202388849'
+  - authors:
+      author:
+        id: '25883'
+        link: https://www.goodreads.com/author/show/25883.Robert_J_Sawyer
+        name: Robert J. Sawyer
+    average_rating: '3.40'
+    id: '200356486'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699255918l/200356486._SX98_.jpg
+    isbn: '1989398995'
+    isbn13: '9781989398999'
+    link: https://www.goodreads.com/book/show/200356486-the-downloaded
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2673'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699255918l/200356486._SY75_.jpg
+    title: The Downloaded
+    title_without_series: The Downloaded
+    uri: kca://book/amzn1.gr.book.v3.ypc8Wms-U1tLMX9Q
+    work:
+      id: '205064222'
+  - authors:
+      author:
+        id: '10127642'
+        link: https://www.goodreads.com/author/show/10127642.Terry_Miles
+        name: Terry Miles
+    average_rating: '3.40'
+    id: '55481226'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608054817l/55481226._SX98_.jpg
+    isbn: '1984819658'
+    isbn13: '9781984819659'
+    link: https://www.goodreads.com/book/show/55481226-rabbits
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2673'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608054817l/55481226._SY75_.jpg
+    title: 'Rabbits (Rabbits, #1)'
+    title_without_series: Rabbits
+    uri: kca://book/amzn1.gr.book.v3.OMDK0f6XiKMd8jwZ
+    work:
+      id: '86524394'
+  - authors:
+      author:
+        id: '3076677'
+        link: https://www.goodreads.com/author/show/3076677.Caroline_Mitchell
+        name: Caroline Mitchell
+    average_rating: '3.40'
+    id: '40678553'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548372802l/40678553._SX98_.jpg
+    isbn: '1503960021'
+    isbn13: '9781503960022'
+    link: https://www.goodreads.com/book/show/40678553-the-secret-child
+    num_pages: '337'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2673'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548372802l/40678553._SX50_.jpg
+    title: 'The Secret Child (DI Amy Winter, #2)'
+    title_without_series: The Secret Child
+    uri: kca://book/amzn1.gr.book.v1.CA92x8RBdrMFiCFttsKOGQ
+    work:
+      id: '63251923'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '166'
+  '@type': integer
+title: 'Plague Year (Plague, #1)'
+title_without_series: Plague Year
+uri: kca://book/amzn1.gr.book.v1.CWqWeFUT3dgn0sZ2AyaV-g
+url: https://www.goodreads.com/book/show/294460.Plague_Year
+work:
+  id: '4087763'
+  uri: kca://work/amzn1.gr.work.v1.9OurMgZIRuLq82LnJbADMQ

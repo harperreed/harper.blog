@@ -1,0 +1,748 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.36'
+    id: '569'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1359753468p5/569.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/569.Khaled_Hosseini
+    name: Khaled Hosseini
+    ratings_count: '5477082'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1359753468p2/569.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '233271'
+average_rating: '4.35'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: '1970s Afghanistan: Twelve-year-old Amir is desperate to win the local
+  kite-fighting tournament and his loyal friend Hassan promises to help him. But neither
+  of the boys can foresee what would happen to Hassan that afternoon, an event that
+  is to shatter their lives. After the Russians invade and the family is forced to
+  flee to America, Amir realises that one day he must return to an Afghanistan under
+  Taliban rule to find the one thing that his new world cannot grant him: redemption.'
+edition_information: 'First Riverhead trade paperback edition: May 2004'
+format: Paperback
+id: '77203'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579036753l/77203._SY160_.jpg
+is_ebook: 'false'
+isbn: 159463193X
+isbn13: '9781594631931'
+json: '{"id": "77203", "isbn": "159463193X", "isbn13": "9781594631931", "text_reviews_count":
+  {"@type": "integer", "#text": "84909"}, "uri": "kca://book/amzn1.gr.book.v1.MWUnRrF53g-EZGOr9DVo5w",
+  "title": "The Kite Runner", "title_without_series": "The Kite Runner", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579036753l/77203._SY160_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579036753l/77203._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/77203.The_Kite_Runner",
+  "num_pages": "371", "format": "Paperback", "edition_information": "First Riverhead
+  trade paperback edition: May 2004", "publisher": "Riverhead Books", "publication_day":
+  null, "publication_year": "2004", "publication_month": "5", "average_rating": "4.35",
+  "ratings_count": "3325883", "description": "1970s Afghanistan: Twelve-year-old Amir
+  is desperate to win the local kite-fighting tournament and his loyal friend Hassan
+  promises to help him. But neither of the boys can foresee what would happen to Hassan
+  that afternoon, an event that is to shatter their lives. After the Russians invade
+  and the family is forced to flee to America, Amir realises that one day he must
+  return to an Afghanistan under Taliban rule to find the one thing that his new world
+  cannot grant him: redemption.", "authors": {"author": {"id": "569", "name": "Khaled
+  Hosseini", "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1359753468p5/569.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1359753468p2/569.jpg"},
+  "link": "https://www.goodreads.com/author/show/569.Khaled_Hosseini", "average_rating":
+  "4.36", "ratings_count": "5477082", "text_reviews_count": "233271"}}, "published":
+  "2004", "work": {"id": "3295919", "uri": "kca://work/amzn1.gr.work.v1.wTV5JWg60ACxu3rB_OQEdQ"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417584",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B009C04KPA
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/77203.The_Kite_Runner
+marketplace_id: ATVPDKIKX0DER
+num_pages: '371'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '1327628'
+    '@name': to-read
+  - '@count': '48733'
+    '@name': currently-reading
+  - '@count': '21636'
+    '@name': favorites
+  - '@count': '19963'
+    '@name': fiction
+  - '@count': '9178'
+    '@name': historical-fiction
+  - '@count': '4227'
+    '@name': owned
+  - '@count': '3795'
+    '@name': books-i-own
+  - '@count': '2569'
+    '@name': favourites
+  - '@count': '2388'
+    '@name': contemporary
+  - '@count': '2207'
+    '@name': book-club
+  - '@count': '2172'
+    '@name': physical-tbr
+  - '@count': '1606'
+    '@name': novels
+  - '@count': '1532'
+    '@name': historical
+  - '@count': '1155'
+    '@name': school
+  - '@count': '1133'
+    '@name': literature
+  - '@count': '1119'
+    '@name': owned-books
+  - '@count': '1103'
+    '@name': novel
+  - '@count': '1085'
+    '@name': adult
+  - '@count': '1056'
+    '@name': literary-fiction
+  - '@count': '1039'
+    '@name': tbr
+  - '@count': '1023'
+    '@name': middle-east
+  - '@count': '888'
+    '@name': contemporary-fiction
+  - '@count': '877'
+    '@name': my-library
+  - '@count': '876'
+    '@name': library
+  - '@count': '865'
+    '@name': adult-fiction
+  - '@count': '765'
+    '@name': war
+  - '@count': '760'
+    '@name': all-time-favorites
+  - '@count': '719'
+    '@name': banned-books
+  - '@count': '715'
+    '@name': my-books
+  - '@count': '682'
+    '@name': 5-stars
+  - '@count': '674'
+    '@name': audiobook
+  - '@count': '665'
+    '@name': to-buy
+  - '@count': '663'
+    '@name': general-fiction
+  - '@count': '657'
+    '@name': dnf
+  - '@count': '622'
+    '@name': history
+  - '@count': '594'
+    '@name': favorite-books
+  - '@count': '591'
+    '@name': audiobooks
+  - '@count': '567'
+    '@name': coming-of-age
+  - '@count': '536'
+    '@name': favorite
+  - '@count': '524'
+    '@name': bookshelf
+  - '@count': '515'
+    '@name': kindle
+  - '@count': '501'
+    '@name': bookclub
+  - '@count': '493'
+    '@name': classic
+  - '@count': '482'
+    '@name': realistic-fiction
+  - '@count': '475'
+    '@name': friendship
+  - '@count': '467'
+    '@name': khaled-hosseini
+  - '@count': '461'
+    '@name': on-my-shelf
+  - '@count': '457'
+    '@name': favs
+  - '@count': '443'
+    '@name': english
+  - '@count': '433'
+    '@name': read-for-school
+  - '@count': '431'
+    '@name': asia
+  - '@count': '428'
+    '@name': default
+  - '@count': '413'
+    '@name': i-own
+  - '@count': '397'
+    '@name': faves
+  - '@count': '382'
+    '@name': my-bookshelf
+  - '@count': '381'
+    '@name': young-adult
+  - '@count': '364'
+    '@name': audio
+  - '@count': '357'
+    '@name': high-school
+  - '@count': '342'
+    '@name': for-school
+  - '@count': '340'
+    '@name': my-favorites
+  - '@count': '340'
+    '@name': made-me-cry
+  - '@count': '324'
+    '@name': school-books
+  - '@count': '320'
+    '@name': cultural
+  - '@count': '317'
+    '@name': rory-gilmore-reading-challenge
+  - '@count': '315'
+    '@name': sad
+  - '@count': '309'
+    '@name': want-to-buy
+  - '@count': '299'
+    '@name': books-i-have
+  - '@count': '297'
+    '@name': books
+  - '@count': '297'
+    '@name': must-read
+  - '@count': '294'
+    '@name': have
+  - '@count': '293'
+    '@name': non-fiction
+  - '@count': '288'
+    '@name': owned-tbr
+  - '@count': '284'
+    '@name': literary
+  - '@count': '281'
+    '@name': finished
+  - '@count': '269'
+    '@name': recommended
+  - '@count': '266'
+    '@name': abandoned
+  - '@count': '265'
+    '@name': on-my-bookshelf
+  - '@count': '257'
+    '@name': did-not-finish
+  - '@count': '254'
+    '@name': ebook
+  - '@count': '254'
+    '@name': family
+  - '@count': '252'
+    '@name': around-the-world
+  - '@count': '251'
+    '@name': favourite
+  - '@count': '250'
+    '@name': shelfari-favorites
+  - '@count': '249'
+    '@name': modern-fiction
+  - '@count': '249'
+    '@name': re-read
+  - '@count': '240'
+    '@name': personal-library
+  - '@count': '238'
+    '@name': book-club-books
+  - '@count': '233'
+    '@name': borrowed
+  - '@count': '231'
+    '@name': modern-classics
+  - '@count': '227'
+    '@name': all-time-favourites
+  - '@count': '224'
+    '@name': other
+  - '@count': '215'
+    '@name': wish-list
+  - '@count': '215'
+    '@name': 5-star-reads
+  - '@count': '212'
+    '@name': 5-star
+  - '@count': '212'
+    '@name': 4-stars
+  - '@count': '210'
+    '@name': roman
+  - '@count': '210'
+    '@name': own-it
+  - '@count': '208'
+    '@name': recommendations
+  - '@count': '203'
+    '@name': favourite-books
+  - '@count': '202'
+    '@name': "\u0631\u0648\u0627\u064A\u0627\u062A"
+public_document:
+  document_url: https://images.gr-assets.com/documents/1360693678books/77203.epub
+  id: '33803'
+publication_day: null
+publication_month: '5'
+publication_year: '2004'
+published: '2004'
+publisher: Riverhead Books
+ratings_count: '3325883'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417584
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/77203.The_Kite_Runner\"\
+  >The Kite Runner Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=159463193X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/77203.The_Kite_Runner?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '1825'
+        link: https://www.goodreads.com/author/show/1825.Harper_Lee
+        name: Harper Lee
+    average_rating: '4.35'
+    id: '56916837'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/56916837-to-kill-a-mockingbird
+    num_pages: '323'
+    publication_day: null
+    publication_month: '2'
+    publication_year: '2021'
+    ratings_count: '3325883'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: To Kill a Mockingbird
+    title_without_series: To Kill a Mockingbird
+    uri: kca://book/amzn1.gr.book.v3.GFHxI00ZE3jgq7Pr
+    work:
+      id: '3275794'
+  - authors:
+      author:
+        id: '1943477'
+        link: https://www.goodreads.com/author/show/1943477.Kathryn_Stockett
+        name: Kathryn Stockett
+    average_rating: '4.35'
+    id: '4667024'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622355533l/4667024._SX98_.jpg
+    isbn: 0399155341
+    isbn13: '9780399155345'
+    link: https://www.goodreads.com/book/show/4667024-the-help
+    num_pages: '464'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3325883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622355533l/4667024._SY75_.jpg
+    title: The Help
+    title_without_series: The Help
+    uri: kca://book/amzn1.gr.book.v1.KZ1nw4UTXluzx07ZxqL_3g
+    work:
+      id: '4717423'
+  - authors:
+      author:
+        id: '706255'
+        link: https://www.goodreads.com/author/show/706255.Stieg_Larsson
+        name: Stieg Larsson
+    average_rating: '4.35'
+    id: '2429135'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684638853l/2429135._SX98_.jpg
+    isbn: 0670069019
+    isbn13: '9780670069019'
+    link: https://www.goodreads.com/book/show/2429135.The_Girl_With_the_Dragon_Tattoo
+    num_pages: '480'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3325883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684638853l/2429135._SX50_.jpg
+    title: 'The Girl With the Dragon Tattoo (Millennium #1)'
+    title_without_series: The Girl With the Dragon Tattoo
+    uri: kca://book/amzn1.gr.book.v1.0R0cZNlMB9R-o9BECflUaA
+    work:
+      id: '1708725'
+  - authors:
+      author:
+        id: '11466'
+        link: https://www.goodreads.com/author/show/11466.Markus_Zusak
+        name: Markus Zusak
+    average_rating: '4.35'
+    id: '19063'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426l/19063._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/19063.The_Book_Thief
+    num_pages: '592'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3325883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426l/19063._SY75_.jpg
+    title: The Book Thief
+    title_without_series: The Book Thief
+    uri: kca://book/amzn1.gr.book.v1.A1zfLKejdNPkLkjfE8LN8Q
+    work:
+      id: '878368'
+  - authors:
+      author:
+        id: '3190'
+        link: https://www.goodreads.com/author/show/3190.F_Scott_Fitzgerald
+        name: F. Scott Fitzgerald
+    average_rating: '4.35'
+    id: '41733839'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650033243l/41733839._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/41733839-the-great-gatsby
+    num_pages: '180'
+    publication_day: null
+    publication_month: '4'
+    publication_year: '2018'
+    ratings_count: '3325883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650033243l/41733839._SY75_.jpg
+    title: The Great Gatsby
+    title_without_series: The Great Gatsby
+    uri: kca://book/amzn1.gr.book.v1.YCNbsjuBLxFNi_s8mSZxNQ
+    work:
+      id: '245494'
+  - authors:
+      author:
+        id: '811'
+        link: https://www.goodreads.com/author/show/811.Yann_Martel
+        name: Yann Martel
+    average_rating: '4.35'
+    id: '4214'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631251689l/4214._SX98_.jpg
+    isbn: '0770430074'
+    isbn13: '9780770430078'
+    link: https://www.goodreads.com/book/show/4214.Life_of_Pi
+    num_pages: '460'
+    publication_day: '29'
+    publication_month: '8'
+    publication_year: '2006'
+    ratings_count: '3325883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631251689l/4214._SY75_.jpg
+    title: Life of Pi
+    title_without_series: Life of Pi
+    uri: kca://book/amzn1.gr.book.v1.xDVbF6l_LTfMdTx3ajT_qQ
+    work:
+      id: '1392700'
+  - authors:
+      author:
+        id: '566'
+        link: https://www.goodreads.com/author/show/566.Paulo_Coelho
+        name: Paulo Coelho
+    average_rating: '4.35'
+    id: '18144590'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654371463l/18144590._SX98_.jpg
+    isbn: '0062315005'
+    isbn13: '9780062315007'
+    link: https://www.goodreads.com/book/show/18144590-the-alchemist
+    num_pages: '182'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3325883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654371463l/18144590._SY75_.jpg
+    title: The Alchemist
+    title_without_series: The Alchemist
+    uri: kca://book/amzn1.gr.book.v1.cZHK6DCmoee6OoV7KL1VpA
+    work:
+      id: '4835472'
+  - authors:
+      author:
+        id: '819789'
+        link: https://www.goodreads.com/author/show/819789.J_D_Salinger
+        name: J.D. Salinger
+    average_rating: '4.35'
+    id: '5107'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107._SX98_.jpg
+    isbn: 0316769177
+    isbn13: '9780316769174'
+    link: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
+    num_pages: '277'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3325883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107._SY75_.jpg
+    title: The Catcher in the Rye
+    title_without_series: The Catcher in the Rye
+    uri: kca://book/amzn1.gr.book.v1.IqM3-G-EAL6pSFPVNq63FQ
+    work:
+      id: '3036731'
+  - authors:
+      author:
+        id: '614'
+        link: https://www.goodreads.com/author/show/614.Arthur_Golden
+        name: Arthur Golden
+    average_rating: '4.35'
+    id: '929'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1400096898'
+    isbn13: '9781400096893'
+    link: https://www.goodreads.com/book/show/929.Memoirs_of_a_Geisha
+    num_pages: '503'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3325883'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Memoirs of a Geisha
+    title_without_series: Memoirs of a Geisha
+    uri: kca://book/amzn1.gr.book.v1.kGcjXdjUsytarwFhaJNNaQ
+    work:
+      id: '1558965'
+  - authors:
+      author:
+        id: '3706'
+        link: https://www.goodreads.com/author/show/3706.George_Orwell
+        name: George Orwell
+    average_rating: '4.35'
+    id: '61439040'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657781256l/61439040._SX98_.jpg
+    isbn: 0452284236
+    isbn13: '9780452284234'
+    link: https://www.goodreads.com/book/show/61439040-1984
+    num_pages: '368'
+    publication_day: null
+    publication_month: '7'
+    publication_year: '2022'
+    ratings_count: '3325883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657781256l/61439040._SX50_.jpg
+    title: '1984'
+    title_without_series: '1984'
+    uri: kca://book/amzn1.gr.book.v3.Emy23xgDnXpqF2NP
+    work:
+      id: '153313'
+  - authors:
+      author:
+        id: '28186'
+        link: https://www.goodreads.com/author/show/28186.Anthony_Doerr
+        name: Anthony Doerr
+    average_rating: '4.35'
+    id: '18143977'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451445646l/18143977._SX98_.jpg
+    isbn: '1476746583'
+    isbn13: '9781476746586'
+    link: https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see
+    num_pages: '544'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3325883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451445646l/18143977._SY75_.jpg
+    title: All the Light We Cannot See
+    title_without_series: All the Light We Cannot See
+    uri: kca://book/amzn1.gr.book.v1.0IooOCfVIQPcIMOpfSRpYA
+    work:
+      id: '25491300'
+  - authors:
+      author:
+        id: '2383'
+        link: https://www.goodreads.com/author/show/2383.Gillian_Flynn
+        name: Gillian Flynn
+    average_rating: '4.35'
+    id: '19288043'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554086139l/19288043._SX98_.jpg
+    isbn: 0307588378
+    isbn13: '9780307588371'
+    link: https://www.goodreads.com/book/show/19288043-gone-girl
+    num_pages: '415'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3325883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554086139l/19288043._SY75_.jpg
+    title: Gone Girl
+    title_without_series: Gone Girl
+    uri: kca://book/amzn1.gr.book.v1.hMn5n6jrUjkoQowRb4-yqw
+    work:
+      id: '13306276'
+  - authors:
+      author:
+        id: '1063732'
+        link: https://www.goodreads.com/author/show/1063732.Paula_Hawkins
+        name: Paula Hawkins
+    average_rating: '4.35'
+    id: '22557272'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574805682l/22557272._SX98_.jpg
+    isbn: '1594633665'
+    isbn13: '9781594633669'
+    link: https://www.goodreads.com/book/show/22557272-the-girl-on-the-train
+    num_pages: '336'
+    publication_day: '13'
+    publication_month: '1'
+    publication_year: '2015'
+    ratings_count: '3325883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574805682l/22557272._SX50_.jpg
+    title: The Girl on the Train
+    title_without_series: The Girl on the Train
+    uri: kca://book/amzn1.gr.book.v1.8xbEiScVn9d9UANlz0UZhA
+    work:
+      id: '41107568'
+  - authors:
+      author:
+        id: '7043934'
+        link: https://www.goodreads.com/author/show/7043934.Delia_Owens
+        name: Delia Owens
+    average_rating: '4.35'
+    id: '36809135'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582135294l/36809135._SX98_.jpg
+    isbn: 0735219117
+    isbn13: '9780735219113'
+    link: https://www.goodreads.com/book/show/36809135-where-the-crawdads-sing
+    num_pages: '384'
+    publication_day: '14'
+    publication_month: '8'
+    publication_year: '2018'
+    ratings_count: '3325883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582135294l/36809135._SY75_.jpg
+    title: Where the Crawdads Sing
+    title_without_series: Where the Crawdads Sing
+    uri: kca://book/amzn1.gr.book.v1.XegwBbc75MlndG3r2PFrQA
+    work:
+      id: '58589364'
+  - authors:
+      author:
+        id: '306'
+        link: https://www.goodreads.com/author/show/306.William_Golding
+        name: William Golding
+    average_rating: '4.35'
+    id: '7624'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327869409l/7624._SX98_.jpg
+    isbn: 0140283331
+    isbn13: '9780140283334'
+    link: https://www.goodreads.com/book/show/7624.Lord_of_the_Flies
+    num_pages: '182'
+    publication_day: '1'
+    publication_month: '10'
+    publication_year: '1999'
+    ratings_count: '3325883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327869409l/7624._SY75_.jpg
+    title: Lord of the Flies
+    title_without_series: Lord of the Flies
+    uri: kca://book/amzn1.gr.book.v1.kSnNl4MoBUSPb-pSSfaVZQ
+    work:
+      id: '2766512'
+  - authors:
+      author:
+        id: '3706'
+        link: https://www.goodreads.com/author/show/3706.George_Orwell
+        name: George Orwell
+    average_rating: '4.35'
+    id: '170448'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1740048031l/170448._SY160_.jpg
+    isbn: '0451526341'
+    isbn13: '9780451526342'
+    link: https://www.goodreads.com/book/show/170448.Animal_Farm
+    num_pages: '152'
+    publication_day: null
+    publication_month: '1'
+    publication_year: '2020'
+    ratings_count: '3325883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1740048031l/170448._SY75_.jpg
+    title: Animal Farm
+    title_without_series: Animal Farm
+    uri: kca://book/amzn1.gr.book.v1.OPL1L19jvyFEvtyxeIp2CQ
+    work:
+      id: '2207778'
+  - authors:
+      author:
+        id: '24556'
+        link: https://www.goodreads.com/author/show/24556.Sara_Gruen
+        name: Sara Gruen
+    average_rating: '4.35'
+    id: '43641'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667708346l/43641._SX98_.jpg
+    isbn: '1565125606'
+    isbn13: '9781565125605'
+    link: https://www.goodreads.com/book/show/43641.Water_for_Elephants
+    num_pages: '368'
+    publication_day: '1'
+    publication_month: '5'
+    publication_year: '2007'
+    ratings_count: '3325883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667708346l/43641._SY75_.jpg
+    title: Water for Elephants
+    title_without_series: Water for Elephants
+    uri: kca://book/amzn1.gr.book.v1.wqZDKONgsCoGKZTN6CvYwA
+    work:
+      id: '3441236'
+  - authors:
+      author:
+        id: '630'
+        link: https://www.goodreads.com/author/show/630.Dan_Brown
+        name: Dan    Brown
+    average_rating: '4.35'
+    id: '960'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696691404l/960._SY160_.jpg
+    isbn: '1416524797'
+    isbn13: '9781416524793'
+    link: https://www.goodreads.com/book/show/960.Angels_Demons
+    num_pages: '736'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3325883'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696691404l/960._SY75_.jpg
+    title: 'Angels & Demons (Robert Langdon, #1)'
+    title_without_series: Angels & Demons
+    uri: kca://book/amzn1.gr.book.v1.aj0GB9Rl93tP-2U9xrEdTw
+    work:
+      id: '3338963'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579036753l/77203._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '84909'
+  '@type': integer
+title: The Kite Runner
+title_without_series: The Kite Runner
+uri: kca://book/amzn1.gr.book.v1.MWUnRrF53g-EZGOr9DVo5w
+url: https://www.goodreads.com/book/show/77203.The_Kite_Runner
+work:
+  id: '3295919'
+  uri: kca://work/amzn1.gr.work.v1.wTV5JWg60ACxu3rB_OQEdQ

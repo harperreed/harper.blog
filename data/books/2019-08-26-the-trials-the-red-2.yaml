@@ -1,0 +1,768 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.85'
+    id: '578581'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1545180307p5/578581.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/578581.Linda_Nagata
+    name: Linda Nagata
+    ratings_count: '20287'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1545180307p2/578581.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '2148'
+average_rating: '3.80'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2019-08-26T00:00:00-07:00'
+description: "In the wake of nuclear terrorism, a squad of elite soldiers must combat\
+  \ artificial intelligence and seek justice in this military political thriller,\
+  \ a sequel to <i>The Red</i>.<br /><br />Lieutenant James Shelley and his squad\
+  \ of US Army soldiers were on a quest for justice when they carried out the unauthorized\
+  \ mission known as First Light. They returned home to America to face a court-martial,\
+  \ determined to expose the corruption in the chain of command that compelled their\
+  \ actions. But in a country still reeling from the nuclear terrorism of Coma Day,\
+  \ the courtroom is just one battlefield of many.<br /><br />A new cycle of violence\
+  \ ignites when rumors of the elusive, rogue AI known as the Red go public\u2014\
+  and Shelley is, once again, pulled into the fray. Challenged by his enemies, driven\
+  \ by ideals, Shelley feels compelled to act. But are the harrowing choices he makes\
+  \ really his own, or are they made for him, by the Red? And with millions of lives\
+  \ at stake in a game of nuclear cat-and-mouse, does the answer even matter?"
+edition_information: epub
+format: null
+id: '24782538'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442207164l/24782538._SY160_.jpg
+is_ebook: 'true'
+isbn: '1481440969'
+isbn13: '9781481440967'
+json: '{"id": "24782538", "isbn": "1481440969", "isbn13": "9781481440967", "text_reviews_count":
+  {"@type": "integer", "#text": "27"}, "uri": "kca://book/amzn1.gr.book.v1.9AafqAMhYPgfe7uireCqPQ",
+  "title": "The Trials (The Red, #2)", "title_without_series": "The Trials", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442207164l/24782538._SY160_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442207164l/24782538._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/24782538-the-trials",
+  "num_pages": null, "format": null, "edition_information": "epub", "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.80", "ratings_count": "1720", "description": "In the wake of nuclear terrorism,
+  a squad of elite soldiers must combat artificial intelligence and seek justice in
+  this military political thriller, a sequel to <i>The Red</i>.<br /><br />Lieutenant
+  James Shelley and his squad of US Army soldiers were on a quest for justice when
+  they carried out the unauthorized mission known as First Light. They returned home
+  to America to face a court-martial, determined to expose the corruption in the chain
+  of command that compelled their actions. But in a country still reeling from the
+  nuclear terrorism of Coma Day, the courtroom is just one battlefield of many.<br
+  /><br />A new cycle of violence ignites when rumors of the elusive, rogue AI known
+  as the Red go public\u2014and Shelley is, once again, pulled into the fray. Challenged
+  by his enemies, driven by ideals, Shelley feels compelled to act. But are the harrowing
+  choices he makes really his own, or are they made for him, by the Red? And with
+  millions of lives at stake in a game of nuclear cat-and-mouse, does the answer even
+  matter?", "authors": {"author": {"id": "578581", "name": "Linda Nagata", "role":
+  null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1545180307p5/578581.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1545180307p2/578581.jpg"},
+  "link": "https://www.goodreads.com/author/show/578581.Linda_Nagata", "average_rating":
+  "3.85", "ratings_count": "20287", "text_reviews_count": "2148"}}, "published": null,
+  "work": {"id": "41355909", "uri": "kca://work/amzn1.gr.work.v1.DV1QGtPsAn3Q2WEHEPhThA"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/2952760727",
+  "read_at": "Mon Aug 26 00:00:00 -0700 2019", "started_at": "Mon Aug 26 00:00:00
+  -0700 2019", "date": "Mon Aug 26 00:00:00 -0700 2019"}'
+kindle_asin: B00O65X7ZA
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/24782538-the-trials
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '695'
+    '@name': to-read
+  - '@count': '149'
+    '@name': currently-reading
+  - '@count': '93'
+    '@name': science-fiction
+  - '@count': '56'
+    '@name': sci-fi
+  - '@count': '27'
+    '@name': scifi
+  - '@count': '23'
+    '@name': owned
+  - '@count': '19'
+    '@name': military
+  - '@count': '18'
+    '@name': fiction
+  - '@count': '16'
+    '@name': ebook
+  - '@count': '12'
+    '@name': series
+  - '@count': '10'
+    '@name': kindle
+  - '@count': '10'
+    '@name': sf
+  - '@count': '9'
+    '@name': audiobook
+  - '@count': '8'
+    '@name': cyberpunk
+  - '@count': '8'
+    '@name': thriller
+  - '@count': '8'
+    '@name': military-science-fiction
+  - '@count': '7'
+    '@name': war
+  - '@count': '6'
+    '@name': artificial-intelligence
+  - '@count': '5'
+    '@name': military-scifi
+  - '@count': '5'
+    '@name': the-red
+  - '@count': '5'
+    '@name': audible
+  - '@count': '5'
+    '@name': near-future
+  - '@count': '5'
+    '@name': military-sf
+  - '@count': '4'
+    '@name': fantascienza
+  - '@count': '4'
+    '@name': military-fiction
+  - '@count': '4'
+    '@name': calibre
+  - '@count': '4'
+    '@name': sff
+  - '@count': '4'
+    '@name': audiobooks
+  - '@count': '4'
+    '@name': adventure
+  - '@count': '4'
+    '@name': military-sci-fi
+  - '@count': '4'
+    '@name': library
+  - '@count': '4'
+    '@name': read-in-2015
+  - '@count': '3'
+    '@name': dnf
+  - '@count': '3'
+    '@name': dystopian
+  - '@count': '3'
+    '@name': default
+  - '@count': '3'
+    '@name': sci-fi-fantasy
+  - '@count': '3'
+    '@name': fantasy-sci-fi
+  - '@count': '3'
+    '@name': dystopia
+  - '@count': '3'
+    '@name': my-library
+  - '@count': '3'
+    '@name': female-author
+  - '@count': '3'
+    '@name': read-2016
+  - '@count': '3'
+    '@name': favorites
+  - '@count': '3'
+    '@name': action
+  - '@count': '3'
+    '@name': to-buy
+  - '@count': '2'
+    '@name': format-ebook
+  - '@count': '2'
+    '@name': sci-fi-to-read
+  - '@count': '2'
+    '@name': read-in-2020
+  - '@count': '2'
+    '@name': have
+  - '@count': '2'
+    '@name': thrillers
+  - '@count': '2'
+    '@name': didn-t-finish
+  - '@count': '2'
+    '@name': f-sf
+  - '@count': '2'
+    '@name': technology
+  - '@count': '2'
+    '@name': cyber-punk
+  - '@count': '2'
+    '@name': women-authors
+  - '@count': '2'
+    '@name': sequels
+  - '@count': '2'
+    '@name': modern-sf
+  - '@count': '2'
+    '@name': owned-ebooks
+  - '@count': '2'
+    '@name': '1'
+  - '@count': '2'
+    '@name': read-in-2016
+  - '@count': '2'
+    '@name': not-owned
+  - '@count': '2'
+    '@name': read-next
+  - '@count': '2'
+    '@name': owned-books
+  - '@count': '2'
+    '@name': linda-nagata
+  - '@count': '2'
+    '@name': speculative-fiction
+  - '@count': '2'
+    '@name': ebooks
+  - '@count': '2'
+    '@name': e-books
+  - '@count': '2'
+    '@name': milsf
+  - '@count': '2'
+    '@name': novels
+  - '@count': '2'
+    '@name': infantry
+  - '@count': '2'
+    '@name': contemporary
+  - '@count': '2'
+    '@name': books
+  - '@count': '2'
+    '@name': war-military
+  - '@count': '2'
+    '@name': published-2014
+  - '@count': '2'
+    '@name': techno-thriller
+  - '@count': '2'
+    '@name': to-get
+  - '@count': '1'
+    '@name': zz-dnf
+  - '@count': '1'
+    '@name': sci-fi-sf
+  - '@count': '1'
+    '@name': audiob_library
+  - '@count': '1'
+    '@name': length-novel
+  - '@count': '1'
+    '@name': pc-epub
+  - '@count': '1'
+    '@name': notmm
+  - '@count': '1'
+    '@name': library-fl
+  - '@count': '1'
+    '@name': neu-zuhause
+  - '@count': '1'
+    '@name': my-physical-home-library
+  - '@count': '1'
+    '@name': source-tb-bwb-other-second-hand
+  - '@count': '1'
+    '@name': top-tbr-sff
+  - '@count': '1'
+    '@name': ebook-tbr
+  - '@count': '1'
+    '@name': tbr-sci-fi
+  - '@count': '1'
+    '@name': tbr-physical
+  - '@count': '1'
+    '@name': scif-fi
+  - '@count': '1'
+    '@name': red-trilogy
+  - '@count': '1'
+    '@name': ai
+  - '@count': '1'
+    '@name': o-sci-fi-primarily-military
+  - '@count': '1'
+    '@name': o-science-fiction
+  - '@count': '1'
+    '@name': a-ebook-kindle
+  - '@count': '1'
+    '@name': 2010s-sff-by-women
+  - '@count': '1'
+    '@name': source-bwb-tb
+  - '@count': '1'
+    '@name': format-physical-used
+  - '@count': '1'
+    '@name': format-paperback
+  - '@count': '1'
+    '@name': tr-sci-fi
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '1720'
+read_at: '2019-08-26T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/2952760727
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/24782538-the-trials\"\
+  >The Trials Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1481440969&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/24782538-the-trials?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '634008'
+    series:
+      description: null
+      id: '128805'
+      note: null
+      numbered: 'true'
+      primary_work_count: '3'
+      series_works_count: '3'
+      title: The Red
+    user_position: '2'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '6535608'
+        link: https://www.goodreads.com/author/show/6535608.Miles_Cameron
+        name: Miles  Cameron
+    average_rating: '3.80'
+    id: '198267816'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1399615068'
+    isbn13: '9781399615068'
+    link: https://www.goodreads.com/book/show/198267816-deep-black
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1720'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Deep Black (Arcana Imperii, #2)'
+    title_without_series: Deep Black
+    uri: kca://book/amzn1.gr.book.v3.w1SPNLZKQhVNkRLR
+    work:
+      id: '201118458'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '3.80'
+    id: '205670068'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729967825l/205670068._SX98_.jpg
+    isbn: 0593357663
+    isbn13: '9780593357668'
+    link: https://www.goodreads.com/book/show/205670068-exodus
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1720'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729967825l/205670068._SY75_.jpg
+    title: 'Exodus: The Archimedes Engine (Archimedes Engine, #1)'
+    title_without_series: 'Exodus: The Archimedes Engine'
+    uri: kca://book/amzn1.gr.book.v3.oKI1MhJVI6jcpH-k
+    work:
+      id: '211692605'
+  - authors:
+      author:
+        id: '17022421'
+        link: https://www.goodreads.com/author/show/17022421.Michael_Mammay
+        name: Michael Mammay
+    average_rating: '3.80'
+    id: '49085596'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594384925l/49085596._SX98_.jpg
+    isbn: 006298098X
+    isbn13: '9780062980984'
+    link: https://www.goodreads.com/book/show/49085596-colonyside
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1720'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594384925l/49085596._SY75_.jpg
+    title: 'Colonyside (Planetside, #3)'
+    title_without_series: Colonyside
+    uri: kca://book/amzn1.gr.book.v3.WScsBzhOk8PFOVJ7
+    work:
+      id: '74518589'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '3.80'
+    id: '201930181'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SX98_.jpg
+    isbn: 031652557X
+    isbn13: '9780316525572'
+    link: https://www.goodreads.com/book/show/201930181-the-mercy-of-gods
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1720'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SY75_.jpg
+    title: "The Mercy of Gods (The Captive\u2019s War, #1)"
+    title_without_series: The Mercy of Gods
+    uri: kca://book/amzn1.gr.book.v3.nndIiP3mF2vHLfgz
+    work:
+      id: '95320019'
+  - authors:
+      author:
+        id: '56353'
+        link: https://www.goodreads.com/author/show/56353.Neal_Asher
+        name: Neal Asher
+    average_rating: '3.80'
+    id: '198952482'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712600786l/198952482._SX98_.jpg
+    isbn: '1035038013'
+    isbn13: '9781035038015'
+    link: https://www.goodreads.com/book/show/198952482-world-walkers
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1720'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712600786l/198952482._SY75_.jpg
+    title: World Walkers
+    title_without_series: World Walkers
+    uri: kca://book/amzn1.gr.book.v3.QDTW_H2H1wmDXyI4
+    work:
+      id: '202270434'
+  - authors:
+      author:
+        id: '6606349'
+        link: https://www.goodreads.com/author/show/6606349.Marko_Kloos
+        name: Marko Kloos
+    average_rating: '3.80'
+    id: '201155269'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712005842l/201155269._SX98_.jpg
+    isbn: 154203616X
+    isbn13: '9781542036160'
+    link: https://www.goodreads.com/book/show/201155269-descent
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1720'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712005842l/201155269._SY75_.jpg
+    title: 'Descent (The Palladium Wars, #4)'
+    title_without_series: Descent
+    uri: kca://book/amzn1.gr.book.v3.0T-jahxqLBj9fiMN
+    work:
+      id: '206045498'
+  - authors:
+      author:
+        id: '6862026'
+        link: https://www.goodreads.com/author/show/6862026.Jay_Posey
+        name: Jay Posey
+    average_rating: '3.80'
+    id: '25355562'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457530794l/25355562._SX98_.jpg
+    isbn: 0857664522
+    isbn13: '9780857664525'
+    link: https://www.goodreads.com/book/show/25355562-outriders
+    num_pages: '448'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1720'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457530794l/25355562._SY75_.jpg
+    title: 'Outriders (Outriders, #1)'
+    title_without_series: Outriders
+    uri: kca://book/amzn1.gr.book.v1.cyDfrlmAZ7kJleX3tzvLfw
+    work:
+      id: '45097564'
+  - authors:
+      author:
+        id: '47826412'
+        link: https://www.goodreads.com/author/show/47826412.Sean_Fenian
+        name: Sean Fenian
+    average_rating: '3.80'
+    id: '208503716'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/208503716-bearing-gifts
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1720'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Bearing Gifts (The Stardock Trilogy Book 1)
+    title_without_series: Bearing Gifts
+    uri: kca://book/amzn1.gr.book.v3.FKL2Twu_2a7jR-at
+    work:
+      id: '214628456'
+  - authors:
+      author:
+        id: '47826412'
+        link: https://www.goodreads.com/author/show/47826412.Sean_Fenian
+        name: Sean Fenian
+    average_rating: '3.80'
+    id: '212288300'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/212288300-united-fleet
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1720'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: United Fleet (The Stardock Trilogy Book 2)
+    title_without_series: United Fleet
+    uri: kca://book/amzn1.gr.book.v3.ymPXyT03DpcFj3Ym
+    work:
+      id: '218525249'
+  - authors:
+      author:
+        id: '6535608'
+        link: https://www.goodreads.com/author/show/6535608.Miles_Cameron
+        name: Miles  Cameron
+    average_rating: '3.80'
+    id: '56097208'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/56097208-artifact-space
+    num_pages: '578'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1720'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Artifact Space (Arcana Imperii, #1)'
+    title_without_series: Artifact Space
+    uri: kca://book/amzn1.gr.book.v3.1LWcEhO7mV-xiZpk
+    work:
+      id: '87376352'
+  - authors:
+      author:
+        id: '7177350'
+        link: https://www.goodreads.com/author/show/7177350.M_R_Carey
+        name: M.R. Carey
+    average_rating: '3.80'
+    id: '181031840'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695835425l/181031840._SX98_.jpg
+    isbn: 035651806X
+    isbn13: '9780356518060'
+    link: https://www.goodreads.com/book/show/181031840-echo-of-worlds
+    num_pages: '496'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1720'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695835425l/181031840._SY75_.jpg
+    title: 'Echo of Worlds (Pandominion, #2)'
+    title_without_series: Echo of Worlds
+    uri: kca://book/amzn1.gr.book.v3.l1GbWqQButI61lSM
+    work:
+      id: '185992364'
+  - authors:
+      author:
+        id: '48960'
+        link: https://www.goodreads.com/author/show/48960.Walter_Jon_Williams
+        name: Walter Jon Williams
+    average_rating: '3.80'
+    id: '30199443'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464078002l/30199443._SX98_.jpg
+    isbn: 0765387816
+    isbn13: '9780765387813'
+    link: https://www.goodreads.com/book/show/30199443-impersonations
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1720'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464078002l/30199443._SY75_.jpg
+    title: 'Impersonations (Dread Empire''s Fall, #3.75)'
+    title_without_series: Impersonations
+    uri: kca://book/amzn1.gr.book.v1.40QdG7XeVSjZYc2o3z1efg
+    work:
+      id: '50650415'
+  - authors:
+      author:
+        id: '8177132'
+        link: https://www.goodreads.com/author/show/8177132.Megan_E_O_Keefe
+        name: Megan E. O'Keefe
+    average_rating: '3.80'
+    id: '198493882'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711463247l/198493882._SX98_.jpg
+    isbn: 0316291579
+    isbn13: '9780316291576'
+    link: https://www.goodreads.com/book/show/198493882-the-bound-worlds
+    num_pages: '457'
+    publication_day: '25'
+    publication_month: '6'
+    publication_year: '2024'
+    ratings_count: '1720'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711463247l/198493882._SY75_.jpg
+    title: 'The Bound Worlds (The Devoured Worlds, #3)'
+    title_without_series: The Bound Worlds
+    uri: kca://book/amzn1.gr.book.v3.NfHwubSknCLH_L1O
+    work:
+      id: '201488883'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '3.80'
+    id: '215760525'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724079438l/215760525._SX98_.jpg
+    isbn: 0316575348
+    isbn13: '9780316575348'
+    link: https://www.goodreads.com/book/show/215760525-livesuit
+    num_pages: '90'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1720'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724079438l/215760525._SY75_.jpg
+    title: "Livesuit (The Captive\u2019s War #1.5)"
+    title_without_series: Livesuit
+    uri: kca://book/amzn1.gr.book.v3.Rr7d-BxEjSsqm-t3
+    work:
+      id: '222176366'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '3.80'
+    id: '195443798'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SX98_.jpg
+    isbn: '1035013770'
+    isbn13: '9781035013777'
+    link: https://www.goodreads.com/book/show/195443798-alien-clay
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1720'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SY75_.jpg
+    title: Alien Clay
+    title_without_series: Alien Clay
+    uri: kca://book/amzn1.gr.book.v3.U07jHOWpgU_-RRTg
+    work:
+      id: '197089092'
+  - authors:
+      author:
+        id: '225033'
+        link: https://www.goodreads.com/author/show/225033.David_Wong
+        name: David  Wong
+    average_rating: '3.80'
+    id: '20501606'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429313468l/20501606._SX98_.jpg
+    isbn: '1250040191'
+    isbn13: '9781250040190'
+    link: https://www.goodreads.com/book/show/20501606-futuristic-violence-and-fancy-suits
+    num_pages: '384'
+    publication_day: '6'
+    publication_month: '10'
+    publication_year: '2015'
+    ratings_count: '1720'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429313468l/20501606._SX50_.jpg
+    title: 'Futuristic Violence and Fancy Suits (Zoey Ashe, #1)'
+    title_without_series: Futuristic Violence and Fancy Suits
+    uri: kca://book/amzn1.gr.book.v1.nbmBMybK1L-vyr0I-hTCHA
+    work:
+      id: '34393786'
+  - authors:
+      author:
+        id: '8794'
+        link: https://www.goodreads.com/author/show/8794.Charles_Stross
+        name: Charles Stross
+    average_rating: '3.80'
+    id: '208291908'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1739682056l/208291908._SY160_.jpg
+    isbn: '0356524647'
+    isbn13: '9780356524641'
+    link: https://www.goodreads.com/book/show/208291908-a-conventional-boy
+    num_pages: '384'
+    publication_day: '7'
+    publication_month: '1'
+    publication_year: '2025'
+    ratings_count: '1720'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1739682056l/208291908._SY75_.jpg
+    title: 'A Conventional Boy (Laundry Files, #13; New Management, #4)'
+    title_without_series: A Conventional Boy
+    uri: kca://book/amzn1.gr.book.v3.KYnraDM-8kAIVhIy
+    work:
+      id: '214427549'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '3.80'
+    id: '199798188'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704681929l/199798188._SX98_.jpg
+    isbn: '1837861749'
+    isbn13: '9781837861743'
+    link: https://www.goodreads.com/book/show/199798188-saturation-point
+    num_pages: '165'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1720'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704681929l/199798188._SY75_.jpg
+    title: Saturation Point
+    title_without_series: Saturation Point
+    uri: kca://book/amzn1.gr.book.v3.iJQejMRi5apPwOKj
+    work:
+      id: '204370575'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442207164l/24782538._SY75_.jpg
+started_at: '2019-08-26T00:00:00-07:00'
+text_reviews_count:
+  '#text': '27'
+  '@type': integer
+title: 'The Trials (The Red, #2)'
+title_without_series: The Trials
+uri: kca://book/amzn1.gr.book.v1.9AafqAMhYPgfe7uireCqPQ
+url: https://www.goodreads.com/book/show/24782538-the-trials
+work:
+  id: '41355909'
+  uri: kca://work/amzn1.gr.work.v1.DV1QGtPsAn3Q2WEHEPhThA

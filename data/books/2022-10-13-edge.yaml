@@ -1,0 +1,744 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.71'
+    id: '14465'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1450215956p5/14465.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/14465.K_ji_Suzuki
+    name: "K\u014Dji Suzuki"
+    ratings_count: '49467'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1450215956p2/14465.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '5574'
+average_rating: '3.26'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2022-10-13T00:00:00-07:00'
+description: "When a team of American scientists tests new computer hardware by calculating\
+  \ the value of pi into the deep decimals, the figures begin to repeat a pattern\
+  \ where there ought to be none. It\u2019smathematically untenable\u2014unless the\
+  \ physical constants that undergird our universe have altered, ever so slightly\u2026\
+  <br /><br />A cascade of missing persons reports, far from being supernatural, threatens\
+  \ to be perfectly natural\u2014a profound disturbance in being itself\u2014and explodes\
+  \ into a mind trip of a crescendo in this tale of quantum horror."
+edition_information: null
+format: null
+id: '19049688'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385758310l/19049688._SX98_.jpg
+is_ebook: 'true'
+isbn: '1935654950'
+isbn13: '9781935654957'
+json: '{"id": "19049688", "isbn": "1935654950", "isbn13": "9781935654957", "text_reviews_count":
+  {"@type": "integer", "#text": "9"}, "uri": "kca://book/amzn1.gr.book.v1.SvzizZGLwrAGuUyX2p3Zqw",
+  "title": "Edge", "title_without_series": "Edge", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385758310l/19049688._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385758310l/19049688._SX50_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/19049688-edge",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.26", "ratings_count": "685", "description": "When a team of American scientists
+  tests new computer hardware by calculating the value of pi into the deep decimals,
+  the figures begin to repeat a pattern where there ought to be none. It\u2019smathematically
+  untenable\u2014unless the physical constants that undergird our universe have altered,
+  ever so slightly\u2026<br /><br />A cascade of missing persons reports, far from
+  being supernatural, threatens to be perfectly natural\u2014a profound disturbance
+  in being itself\u2014and explodes into a mind trip of a crescendo in this tale of
+  quantum horror.", "authors": {"author": {"id": "14465", "name": "K\u014dji Suzuki",
+  "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1450215956p5/14465.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1450215956p2/14465.jpg"},
+  "link": "https://www.goodreads.com/author/show/14465.K_ji_Suzuki", "average_rating":
+  "3.71", "ratings_count": "49467", "text_reviews_count": "5574"}}, "published": null,
+  "work": {"id": "15748041", "uri": "kca://work/amzn1.gr.work.v1.TAADNJRyqrhUgDV0s6gROA"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/5032353668",
+  "read_at": "Thu Oct 13 00:00:00 -0700 2022", "started_at": "Fri Oct 07 00:00:00
+  -0700 2022", "date": "Thu Oct 13 00:00:00 -0700 2022"}'
+kindle_asin: B009QJMFFE
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/19049688-edge
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '1842'
+    '@name': to-read
+  - '@count': '114'
+    '@name': currently-reading
+  - '@count': '67'
+    '@name': horror
+  - '@count': '31'
+    '@name': fiction
+  - '@count': '24'
+    '@name': science-fiction
+  - '@count': '13'
+    '@name': sci-fi
+  - '@count': '13'
+    '@name': japanese-literature
+  - '@count': '12'
+    '@name': japan
+  - '@count': '10'
+    '@name': japanese
+  - '@count': '9'
+    '@name': mystery
+  - '@count': '7'
+    '@name': owned
+  - '@count': '5'
+    '@name': scifi
+  - '@count': '5'
+    '@name': translated
+  - '@count': '4'
+    '@name': sci-fi-fantasy
+  - '@count': '4'
+    '@name': kindle
+  - '@count': '4'
+    '@name': library
+  - '@count': '3'
+    '@name': tbr
+  - '@count': '3'
+    '@name': shirley-jackson
+  - '@count': '3'
+    '@name': shirley-jackson-awards
+  - '@count': '3'
+    '@name': asia
+  - '@count': '3'
+    '@name': sff
+  - '@count': '3'
+    '@name': dystopian
+  - '@count': '3'
+    '@name': my-library
+  - '@count': '3'
+    '@name': books
+  - '@count': '3'
+    '@name': sub
+  - '@count': '3'
+    '@name': translation
+  - '@count': '3'
+    '@name': favorites
+  - '@count': '2'
+    '@name': dnf
+  - '@count': '2'
+    '@name': halloween-reads
+  - '@count': '2'
+    '@name': novels
+  - '@count': '2'
+    '@name': books-i-own
+  - '@count': '2'
+    '@name': translated-lit
+  - '@count': '2'
+    '@name': owned-tbr
+  - '@count': '2'
+    '@name': thriller
+  - '@count': '2'
+    '@name': to-get
+  - '@count': '2'
+    '@name': asian-lit
+  - '@count': '2'
+    '@name': speculative-fiction
+  - '@count': '2'
+    '@name': fantasy
+  - '@count': '2'
+    '@name': ebook
+  - '@count': '2'
+    '@name': drama
+  - '@count': '2'
+    '@name': library-to-read
+  - '@count': '2'
+    '@name': shirley-jackson-award-winners
+  - '@count': '2'
+    '@name': did-not-finish
+  - '@count': '2'
+    '@name': suzuki-koji
+  - '@count': '2'
+    '@name': dropped
+  - '@count': '2'
+    '@name': unread
+  - '@count': '2'
+    '@name': japanese-fiction
+  - '@count': '2'
+    '@name': science
+  - '@count': '2'
+    '@name': abandoned
+  - '@count': '2'
+    '@name': read-in-2014
+  - '@count': '2'
+    '@name': shirley-jackson-winners
+  - '@count': '2'
+    '@name': wish-list
+  - '@count': '2'
+    '@name': reviewed
+  - '@count': '2'
+    '@name': to-buy
+  - '@count': '2'
+    '@name': apocalyptic
+  - '@count': '2'
+    '@name': japanese-lit
+  - '@count': '1'
+    '@name': physical-bookshelf
+  - '@count': '1'
+    '@name': hawaii-library
+  - '@count': '1'
+    '@name': 2025-reads
+  - '@count': '1'
+    '@name': meinbuchjahr2025
+  - '@count': '1'
+    '@name': bookshelf-purgatory
+  - '@count': '1'
+    '@name': book-queue
+  - '@count': '1'
+    '@name': jpn-to-read
+  - '@count': '1'
+    '@name': irl-book
+  - '@count': '1'
+    '@name': the-tbr-pile
+  - '@count': '1'
+    '@name': tbr-2025
+  - '@count': '1'
+    '@name': physical-books
+  - '@count': '1'
+    '@name': fiction-scifi
+  - '@count': '1'
+    '@name': bought-or-library
+  - '@count': '1'
+    '@name': shelved-for-now
+  - '@count': '1'
+    '@name': on-my-shelf
+  - '@count': '1'
+    '@name': japanese-author
+  - '@count': '1'
+    '@name': 2024-books
+  - '@count': '1'
+    '@name': horror-novels
+  - '@count': '1'
+    '@name': bookstore-browsing
+  - '@count': '1'
+    '@name': '6'
+  - '@count': '1'
+    '@name': fables
+  - '@count': '1'
+    '@name': read-in-2024
+  - '@count': '1'
+    '@name': books-i-have
+  - '@count': '1'
+    '@name': horror-mystery-thriller-i-own
+  - '@count': '1'
+    '@name': sci-fi-horror
+  - '@count': '1'
+    '@name': tbr-spooky-fall
+  - '@count': '1'
+    '@name': own-tbr
+  - '@count': '1'
+    '@name': colour-horror-black-white
+  - '@count': '1'
+    '@name': horror-disturbing
+  - '@count': '1'
+    '@name': on-my-shelves
+  - '@count': '1'
+    '@name': unfinished
+  - '@count': '1'
+    '@name': 24-read-2024
+  - '@count': '1'
+    '@name': science-ficton
+  - '@count': '1'
+    '@name': posman
+  - '@count': '1'
+    '@name': to-buy-for-shelf
+  - '@count': '1'
+    '@name': sci-fi-and-dystopian-tbr
+  - '@count': '1'
+    '@name': literary-plus-literature
+  - '@count': '1'
+    '@name': horror-and-thrillers
+  - '@count': '1'
+    '@name': bookshelf-virtual
+  - '@count': '1'
+    '@name': 2022-tbr
+  - '@count': '1'
+    '@name': owned-but-not-read
+  - '@count': '1'
+    '@name': 0-own
+  - '@count': '1'
+    '@name': physically-own
+  - '@count': '1'
+    '@name': a-wish-list
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '685'
+read_at: '2022-10-13T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/5032353668
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/19049688-edge\"\
+  >Edge Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1935654950&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/19049688-edge?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '5622845'
+        link: https://www.goodreads.com/author/show/5622845.K_tar_Isaka
+        name: "K\u014Dtar\u014D Isaka"
+    average_rating: '3.26'
+    id: '98653987'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675522984l/98653987._SX98_.jpg
+    isbn: '1419769472'
+    isbn13: '9781419769474'
+    link: https://www.goodreads.com/book/show/98653987-the-mantis
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '685'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675522984l/98653987._SX50_.jpg
+    title: 'The Mantis (Assassins, #3)'
+    title_without_series: The Mantis
+    uri: kca://book/amzn1.gr.book.v3.YW3ppZftRNhc1n6O
+    work:
+      id: '60898275'
+  - authors:
+      author:
+        id: '42502417'
+        link: https://www.goodreads.com/author/show/42502417.Lau_Yee_Wa
+        name: Lau Yee-Wa
+    average_rating: '3.26'
+    id: '201477373'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/201477373-tongueless
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '685'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Tongueless
+    title_without_series: Tongueless
+    uri: kca://book/amzn1.gr.book.v3.RXDZ3KCYXXQctI2N
+    work:
+      id: '206365049'
+  - authors:
+      author:
+        id: '22929893'
+        link: https://www.goodreads.com/author/show/22929893.Uketsu
+        name: Uketsu
+    average_rating: '3.26'
+    id: '216670080'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728787087l/216670080._SX98_.jpg
+    isbn: 0063433087
+    isbn13: '9780063433083'
+    link: https://www.goodreads.com/book/show/216670080-strange-pictures
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '685'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728787087l/216670080._SY75_.jpg
+    title: Strange Pictures
+    title_without_series: Strange Pictures
+    uri: kca://book/amzn1.gr.book.v3.VSUug9GRvU_J47C_
+    work:
+      id: '176553883'
+  - authors:
+      author:
+        id: '8241432'
+        link: https://www.goodreads.com/author/show/8241432.Ha_Seong_nan
+        name: Ha Seong-nan
+    average_rating: '3.26'
+    id: '43064674'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554438940l/43064674._SX98_.jpg
+    isbn: '1940953960'
+    isbn13: '9781940953960'
+    link: https://www.goodreads.com/book/show/43064674-flowers-of-mold
+    num_pages: '212'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '685'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554438940l/43064674._SY75_.jpg
+    title: Flowers of Mold
+    title_without_series: Flowers of Mold
+    uri: kca://book/amzn1.gr.book.v1.cwvo2tnFb0Ez45_EvwdsKg
+    work:
+      id: '66855476'
+  - authors:
+      author:
+        id: '8534434'
+        link: https://www.goodreads.com/author/show/8534434.Sylvain_Neuvel
+        name: Sylvain Neuvel
+    average_rating: '3.26'
+    id: '44552037'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588701701l/44552037._SX98_.jpg
+    isbn: '1250262062'
+    isbn13: '9781250262066'
+    link: https://www.goodreads.com/book/show/44552037-a-history-of-what-comes-next
+    num_pages: '304'
+    publication_day: '2'
+    publication_month: '2'
+    publication_year: '2021'
+    ratings_count: '685'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588701701l/44552037._SY75_.jpg
+    title: 'A History of What Comes Next (Take Them to the Stars, #1)'
+    title_without_series: A History of What Comes Next
+    uri: kca://book/amzn1.gr.book.v1.n4O4_KLg_3etMbQRNinDKA
+    work:
+      id: '69142684'
+  - authors:
+      author:
+        id: '20503057'
+        link: https://www.goodreads.com/author/show/20503057.S_A_Barnes
+        name: S.A. Barnes
+    average_rating: '3.26'
+    id: '127280445'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684351144l/127280445._SX98_.jpg
+    isbn: '1250884926'
+    isbn13: '9781250884923'
+    link: https://www.goodreads.com/book/show/127280445-ghost-station
+    num_pages: '377'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '685'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684351144l/127280445._SY75_.jpg
+    title: Ghost Station
+    title_without_series: Ghost Station
+    uri: kca://book/amzn1.gr.book.v3.PLf5mfC8dx5qVBd8
+    work:
+      id: '148388472'
+  - authors:
+      author:
+        id: '42919375'
+        link: https://www.goodreads.com/author/show/42919375.Yeji_Y_Ham
+        name: Yeji Y. Ham
+    average_rating: '3.26'
+    id: '192793483'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701793954l/192793483._SX98_.jpg
+    isbn: '1638931372'
+    isbn13: '9781638931379'
+    link: https://www.goodreads.com/book/show/192793483-the-invisible-hotel
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '685'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701793954l/192793483._SY75_.jpg
+    title: The Invisible Hotel
+    title_without_series: The Invisible Hotel
+    uri: kca://book/amzn1.gr.book.v3.RHTq1CBRIcEcksXg
+    work:
+      id: '194682367'
+  - authors:
+      author:
+        id: '20827927'
+        link: https://www.goodreads.com/author/show/20827927.Erika_Kobayashi
+        name: Erika Kobayashi
+    average_rating: '3.26'
+    id: '59387725'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639128503l/59387725._SX98_.jpg
+    isbn: '1662601158'
+    isbn13: '9781662601156'
+    link: https://www.goodreads.com/book/show/59387725-trinity-trinity-trinity
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '685'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639128503l/59387725._SY75_.jpg
+    title: Trinity, Trinity, Trinity
+    title_without_series: Trinity, Trinity, Trinity
+    uri: kca://book/amzn1.gr.book.v3.TvSbQkNjlm7qtMsk
+    work:
+      id: '90465809'
+  - authors:
+      author:
+        id: '648612'
+        link: https://www.goodreads.com/author/show/648612.Paul_Tremblay
+        name: Paul Tremblay
+    average_rating: '3.26'
+    id: '200101541'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700239629l/200101541._SX98_.jpg
+    isbn: '0063070014'
+    isbn13: '9780063070011'
+    link: https://www.goodreads.com/book/show/200101541-horror-movie
+    num_pages: '277'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '685'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700239629l/200101541._SY75_.jpg
+    title: Horror Movie
+    title_without_series: Horror Movie
+    uri: kca://book/amzn1.gr.book.v3.PO7XANQxK-QFaikd
+    work:
+      id: '203154630'
+  - authors:
+      author:
+        id: '4448825'
+        link: https://www.goodreads.com/author/show/4448825.Will_Dean
+        name: Will Dean
+    average_rating: '3.26'
+    id: '199798109'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1702855107l/199798109._SX98_.jpg
+    isbn: 166802117X
+    isbn13: '9781668021170'
+    link: https://www.goodreads.com/book/show/199798109-the-chamber
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '685'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1702855107l/199798109._SY75_.jpg
+    title: The Chamber
+    title_without_series: The Chamber
+    uri: kca://book/amzn1.gr.book.v3.0vyhExEONOivGJAe
+    work:
+      id: '204370505'
+  - authors:
+      author:
+        id: '14014102'
+        link: https://www.goodreads.com/author/show/14014102.Lindsay_King_Miller
+        name: Lindsay King-Miller
+    average_rating: '3.26'
+    id: '195830830'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698681262l/195830830._SX98_.jpg
+    isbn: '1683694074'
+    isbn13: '9781683694076'
+    link: https://www.goodreads.com/book/show/195830830-the-z-word
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '685'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698681262l/195830830._SY75_.jpg
+    title: The Z Word
+    title_without_series: The Z Word
+    uri: kca://book/amzn1.gr.book.v3.3r9_gK3Qk_Vgzql1
+    work:
+      id: '197789477'
+  - authors:
+      author:
+        id: '7434788'
+        link: https://www.goodreads.com/author/show/7434788.Vajra_Chandrasekera
+        name: Vajra Chandrasekera
+    average_rating: '3.26'
+    id: '61884985'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707333565l/61884985._SX98_.jpg
+    isbn: '1250847389'
+    isbn13: '9781250847386'
+    link: https://www.goodreads.com/book/show/61884985-the-saint-of-bright-doors
+    num_pages: '356'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '685'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707333565l/61884985._SY75_.jpg
+    title: The Saint of Bright Doors
+    title_without_series: The Saint of Bright Doors
+    uri: kca://book/amzn1.gr.book.v3.RpbeFzr0mZrpd4ZQ
+    work:
+      id: '93503571'
+  - authors:
+      author:
+        id: '3396842'
+        link: https://www.goodreads.com/author/show/3396842.Peter_Clines
+        name: Peter Clines
+    average_rating: '3.26'
+    id: '23164927'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416182070l/23164927._SX98_.jpg
+    isbn: 0553418297
+    isbn13: '9780553418293'
+    link: https://www.goodreads.com/book/show/23164927-the-fold
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '685'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416182070l/23164927._SY75_.jpg
+    title: 'The Fold (Threshold, #2)'
+    title_without_series: The Fold
+    uri: kca://book/amzn1.gr.book.v1.THzu00YEiVGtlL-L6S6jBw
+    work:
+      id: '42710963'
+  - authors:
+      author:
+        id: '43924518'
+        link: https://www.goodreads.com/author/show/43924518.Kim_Ryeo_ryeong
+        name: Kim Ryeo-ryeong
+    average_rating: '3.26'
+    id: '211287653'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724122140l/211287653._SX98_.jpg
+    isbn: '1335015019'
+    isbn13: '9781335015013'
+    link: https://www.goodreads.com/book/show/211287653-the-trunk
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '685'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724122140l/211287653._SY75_.jpg
+    title: The Trunk
+    title_without_series: The Trunk
+    uri: kca://book/amzn1.gr.book.v3.dDk7W8Hn0k2_FTLI
+    work:
+      id: '45553270'
+  - authors:
+      author:
+        id: '1864374'
+        link: https://www.goodreads.com/author/show/1864374.Thomas_Olde_Heuvelt
+        name: Thomas Olde Heuvelt
+    average_rating: '3.26'
+    id: '54972418'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '9022591107'
+    isbn13: '9789022591109'
+    link: https://www.goodreads.com/book/show/54972418-orakel
+    num_pages: '459'
+    publication_day: '23'
+    publication_month: '3'
+    publication_year: '2021'
+    ratings_count: '685'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Orakel (Robert Grim #2)'
+    title_without_series: Orakel
+    uri: kca://book/amzn1.gr.book.v3._PM1MFhB2qbSuLeA
+    work:
+      id: '85743753'
+  - authors:
+      author:
+        id: '2735135'
+        link: https://www.goodreads.com/author/show/2735135.Mariko_Koike
+        name: Mariko Koike
+    average_rating: '3.26'
+    id: '28220806'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451860410l/28220806._SX98_.jpg
+    isbn: '1250060540'
+    isbn13: '9781250060549'
+    link: https://www.goodreads.com/book/show/28220806-the-graveyard-apartment
+    num_pages: '325'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '685'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451860410l/28220806._SY75_.jpg
+    title: The Graveyard Apartment
+    title_without_series: The Graveyard Apartment
+    uri: kca://book/amzn1.gr.book.v1.e94u2t3iB-rmxSUKpP6WxA
+    work:
+      id: '48249465'
+  - authors:
+      author:
+        id: '2380397'
+        link: https://www.goodreads.com/author/show/2380397.NHK_TV_Crew
+        name: NHK TV Crew
+    average_rating: '3.26'
+    id: '5496513'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333581483l/5496513._SX98_.jpg
+    isbn: '1934287407'
+    isbn13: '9781934287408'
+    link: https://www.goodreads.com/book/show/5496513-a-slow-death
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '685'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333581483l/5496513._SY75_.jpg
+    title: 'A Slow Death: 83 Days of Radiation Sickness'
+    title_without_series: 'A Slow Death: 83 Days of Radiation Sickness'
+    uri: kca://book/amzn1.gr.book.v1.K0F8Q8TM58Bn5GAvjmDR2Q
+    work:
+      id: '5564406'
+  - authors:
+      author:
+        id: '160196'
+        link: https://www.goodreads.com/author/show/160196.Akimitsu_Takagi
+        name: Akimitsu Takagi
+    average_rating: '3.26'
+    id: '184157891'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1688549642l/184157891._SX98_.jpg
+    isbn: '1782279652'
+    isbn13: '9781782279655'
+    link: https://www.goodreads.com/book/show/184157891-the-noh-mask-murder
+    num_pages: '224'
+    publication_day: '4'
+    publication_month: '4'
+    publication_year: '2024'
+    ratings_count: '685'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1688549642l/184157891._SY75_.jpg
+    title: The Noh Mask Murder
+    title_without_series: The Noh Mask Murder
+    uri: kca://book/amzn1.gr.book.v3.sGd3xoD0qrEcveHU
+    work:
+      id: '2121507'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385758310l/19049688._SX50_.jpg
+started_at: '2022-10-07T00:00:00-07:00'
+text_reviews_count:
+  '#text': '9'
+  '@type': integer
+title: Edge
+title_without_series: Edge
+uri: kca://book/amzn1.gr.book.v1.SvzizZGLwrAGuUyX2p3Zqw
+url: https://www.goodreads.com/book/show/19049688-edge
+work:
+  id: '15748041'
+  uri: kca://work/amzn1.gr.work.v1.TAADNJRyqrhUgDV0s6gROA

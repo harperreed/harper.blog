@@ -1,0 +1,753 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.85'
+    id: '26930'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1410336850p5/26930.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/26930.J_Sheridan_Le_Fanu
+    name: J. Sheridan Le Fanu
+    ratings_count: '196777'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1410336850p2/26930.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '25639'
+average_rating: '3.84'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: 'This remarkable collection of stories, first published in 1872, includes
+  <i>Green Tea, The Familiar, Mr. Justice Harbottle, The Room in the Dragon Volant</i>,
+  and <i>Carmilla</i>. The five stories are purported to be cases by Dr. Hesselius,
+  a ''metaphysical'' doctor, who is willing to consider the ghosts both as real and
+  as hallucinatory obsessions. The reader''s doubtful anxiety mimics that of the protagonist,
+  and each story thus creates that atmosphere of mystery which is the supernatural
+  experience. This new annotated edition includes an introduction, notes on the text,
+  and explanatory notes.<br /><br />NB: <i>The Familiar</i> is a revision of <i>The
+  Watcher</i>; <i>Mr. Justice Harbottle</i> is a revision of <i>An Account of Some
+  Strange Disturbances in Aungier Street</i>.'
+edition_information: Oxford World's Classics
+format: null
+id: '837422'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: 0192839470
+isbn13: '9780192839473'
+json: '{"id": "837422", "isbn": "0192839470", "isbn13": "9780192839473", "text_reviews_count":
+  {"@type": "integer", "#text": "264"}, "uri": "kca://book/amzn1.gr.book.v1.7n1LvGxhRoYKHldpEbkLGw",
+  "title": "In a Glass Darkly", "title_without_series": "In a Glass Darkly", "image_url":
+  "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/837422.In_a_Glass_Darkly",
+  "num_pages": "384", "format": null, "edition_information": "Oxford World''s Classics",
+  "publisher": "Oxford University Press", "publication_day": null, "publication_year":
+  null, "publication_month": null, "average_rating": "3.84", "ratings_count": "5743",
+  "description": "This remarkable collection of stories, first published in 1872,
+  includes <i>Green Tea, The Familiar, Mr. Justice Harbottle, The Room in the Dragon
+  Volant</i>, and <i>Carmilla</i>. The five stories are purported to be cases by Dr.
+  Hesselius, a ''metaphysical'' doctor, who is willing to consider the ghosts both
+  as real and as hallucinatory obsessions. The reader''s doubtful anxiety mimics that
+  of the protagonist, and each story thus creates that atmosphere of mystery which
+  is the supernatural experience. This new annotated edition includes an introduction,
+  notes on the text, and explanatory notes.<br /><br />NB: <i>The Familiar</i> is
+  a revision of <i>The Watcher</i>; <i>Mr. Justice Harbottle</i> is a revision of
+  <i>An Account of Some Strange Disturbances in Aungier Street</i>.", "authors": {"author":
+  {"id": "26930", "name": "J. Sheridan Le Fanu", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1410336850p5/26930.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1410336850p2/26930.jpg"},
+  "link": "https://www.goodreads.com/author/show/26930.J_Sheridan_Le_Fanu", "average_rating":
+  "3.85", "ratings_count": "196777", "text_reviews_count": "25639"}}, "published":
+  null, "work": {"id": "1142157", "uri": "kca://work/amzn1.gr.work.v1.yhlWPI-l1ToxuBCqcRYAnQ"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417639",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B076B1C5WV
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/837422.In_a_Glass_Darkly
+marketplace_id: ATVPDKIKX0DER
+num_pages: '384'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '17171'
+    '@name': to-read
+  - '@count': '452'
+    '@name': horror
+  - '@count': '406'
+    '@name': classics
+  - '@count': '374'
+    '@name': currently-reading
+  - '@count': '326'
+    '@name': gothic
+  - '@count': '269'
+    '@name': short-stories
+  - '@count': '228'
+    '@name': fiction
+  - '@count': '135'
+    '@name': 1001-books
+  - '@count': '83'
+    '@name': '1001'
+  - '@count': '72'
+    '@name': owned
+  - '@count': '63'
+    '@name': 19th-century
+  - '@count': '62'
+    '@name': classic
+  - '@count': '54'
+    '@name': fantasy
+  - '@count': '53'
+    '@name': vampires
+  - '@count': '49'
+    '@name': ireland
+  - '@count': '44'
+    '@name': favorites
+  - '@count': '44'
+    '@name': 1001-books-to-read-before-you-die
+  - '@count': '40'
+    '@name': victorian
+  - '@count': '38'
+    '@name': books-i-own
+  - '@count': '35'
+    '@name': irish
+  - '@count': '30'
+    '@name': mystery
+  - '@count': '27'
+    '@name': gothic-horror
+  - '@count': '26'
+    '@name': 1001-books-to-read
+  - '@count': '25'
+    '@name': kindle
+  - '@count': '25'
+    '@name': paranormal
+  - '@count': '25'
+    '@name': gothic-fiction
+  - '@count': '24'
+    '@name': literature
+  - '@count': '22'
+    '@name': supernatural
+  - '@count': '22'
+    '@name': gothic-literature
+  - '@count': '21'
+    '@name': irish-literature
+  - '@count': '20'
+    '@name': to-buy
+  - '@count': '19'
+    '@name': psycho-pass
+  - '@count': '19'
+    '@name': 1001-to-read
+  - '@count': '18'
+    '@name': short-fiction
+  - '@count': '18'
+    '@name': ghost-stories
+  - '@count': '17'
+    '@name': anthology
+  - '@count': '17'
+    '@name': library
+  - '@count': '17'
+    '@name': irish-lit
+  - '@count': '17'
+    '@name': ghosts
+  - '@count': '16'
+    '@name': physical-tbr
+  - '@count': '16'
+    '@name': 1001-import
+  - '@count': '15'
+    '@name': short-story-collections
+  - '@count': '15'
+    '@name': 1800s
+  - '@count': '14'
+    '@name': to-read-classics
+  - '@count': '13'
+    '@name': short-story
+  - '@count': '13'
+    '@name': spooky
+  - '@count': '13'
+    '@name': ebook
+  - '@count': '12'
+    '@name': halloween
+  - '@count': '12'
+    '@name': my-library
+  - '@count': '12'
+    '@name': ebooks
+  - '@count': '12'
+    '@name': english
+  - '@count': '11'
+    '@name': tbr
+  - '@count': '11'
+    '@name': classics-to-read
+  - '@count': '10'
+    '@name': tbr-classics
+  - '@count': '10'
+    '@name': classic-literature
+  - '@count': '10'
+    '@name': historical-fiction
+  - '@count': '10'
+    '@name': 1001-books-you-must-read-before-you
+  - '@count': '9'
+    '@name': audiobook
+  - '@count': '9'
+    '@name': vampire
+  - '@count': '9'
+    '@name': horror-gothic
+  - '@count': '9'
+    '@name': favourites
+  - '@count': '9'
+    '@name': collections
+  - '@count': '8'
+    '@name': classic-horror
+  - '@count': '8'
+    '@name': gothic-lit
+  - '@count': '8'
+    '@name': owned-books
+  - '@count': '8'
+    '@name': to-read-horror
+  - '@count': '8'
+    '@name': home-library
+  - '@count': '8'
+    '@name': e-book
+  - '@count': '8'
+    '@name': folio-society
+  - '@count': '8'
+    '@name': to-read-fiction
+  - '@count': '8'
+    '@name': 19th-century-fiction
+  - '@count': '8'
+    '@name': anthologies
+  - '@count': '8'
+    '@name': wish-list
+  - '@count': '8'
+    '@name': novels
+  - '@count': '7'
+    '@name': gothic-and-horror
+  - '@count': '7'
+    '@name': owned-tbr
+  - '@count': '7'
+    '@name': my-books
+  - '@count': '7'
+    '@name': horror-fiction
+  - '@count': '7'
+    '@name': creepy
+  - '@count': '7'
+    '@name': university
+  - '@count': '7'
+    '@name': british
+  - '@count': '7'
+    '@name': e-books
+  - '@count': '7'
+    '@name': victoriana
+  - '@count': '7'
+    '@name': did-not-finish
+  - '@count': '7'
+    '@name': victorian-literature
+  - '@count': '7'
+    '@name': bookshelf
+  - '@count': '6'
+    '@name': audio
+  - '@count': '6'
+    '@name': classics-tbr
+  - '@count': '6'
+    '@name': 1001-tbr
+  - '@count': '6'
+    '@name': abandoned
+  - '@count': '6'
+    '@name': my-bookshelf
+  - '@count': '6'
+    '@name': genre-horror
+  - '@count': '6'
+    '@name': dnf
+  - '@count': '6'
+    '@name': 1001-before-you-die
+  - '@count': '6'
+    '@name': 19th-century-literature
+  - '@count': '6'
+    '@name': weird-fiction
+  - '@count': '6'
+    '@name': default
+  - '@count': '6'
+    '@name': college
+  - '@count': '6'
+    '@name': 1001-books-to-read-before-i-die
+  - '@count': '6'
+    '@name': literary-fiction
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: Oxford University Press
+ratings_count: '5743'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417639
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/837422.In_a_Glass_Darkly\"\
+  >In a Glass Darkly Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0192839470&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/837422.In_a_Glass_Darkly?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '2995925'
+        link: https://www.goodreads.com/author/show/2995925.M_R_James
+        name: M.R. James
+    average_rating: '3.84'
+    id: '1556093'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344670655l/1556093._SX98_.jpg
+    isbn: 0486227588
+    isbn13: '9780486227580'
+    link: https://www.goodreads.com/book/show/1556093.Ghost_Stories_of_an_Antiquary
+    num_pages: '157'
+    publication_day: '24'
+    publication_month: '11'
+    publication_year: '2011'
+    ratings_count: '5743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344670655l/1556093._SY75_.jpg
+    title: Ghost Stories of an Antiquary
+    title_without_series: Ghost Stories of an Antiquary
+    uri: kca://book/amzn1.gr.book.v1.ZHrnwsX9l1aK5S205w70lg
+    work:
+      id: '823071'
+  - authors:
+      author:
+        id: '3348'
+        link: https://www.goodreads.com/author/show/3348.Richard_Marsh
+        name: Richard Marsh
+    average_rating: '3.84'
+    id: '816740'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1551114437'
+    isbn13: '9781551114439'
+    link: https://www.goodreads.com/book/show/816740.The_Beetle
+    num_pages: null
+    publication_day: '28'
+    publication_month: '4'
+    publication_year: '2004'
+    ratings_count: '5743'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Beetle
+    title_without_series: The Beetle
+    uri: kca://book/amzn1.gr.book.v1.xWFqJbnkMxwsLW06Vg3K_Q
+    work:
+      id: '802628'
+  - authors:
+      author:
+        id: '21895516'
+        link: https://www.goodreads.com/author/show/21895516.Aoife_Mary_Dempsey
+        name: Aoife Mary  Dempsey
+    average_rating: '3.84'
+    id: '59249493'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636250361l/59249493._SX98_.jpg
+    isbn: '1786838273'
+    isbn13: '9781786838278'
+    link: https://www.goodreads.com/book/show/59249493-joseph-sheridan-le-fanu
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636250361l/59249493._SY75_.jpg
+    title: 'Joseph Sheridan Le Fanu (Gothic Authors: Critical Revisions)'
+    title_without_series: Joseph Sheridan Le Fanu
+    uri: kca://book/amzn1.gr.book.v3.H0TCkgrGxFusqovc
+    work:
+      id: '93411923'
+  - authors:
+      author:
+        id: '8131'
+        link: https://www.goodreads.com/author/show/8131.Horace_Walpole
+        name: Horace Walpole
+    average_rating: '3.84'
+    id: '12923'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0192834401
+    isbn13: '9780192834409'
+    link: https://www.goodreads.com/book/show/12923.The_Castle_of_Otranto
+    num_pages: '125'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5743'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Castle of Otranto
+    title_without_series: The Castle of Otranto
+    uri: kca://book/amzn1.gr.book.v1.F_VjHJt-xqbKQhgT8eqdgg
+    work:
+      id: '46432'
+  - authors:
+      author:
+        id: '68429'
+        link: https://www.goodreads.com/author/show/68429.Justin_Evans
+        name: Justin Evans
+    average_rating: '3.84'
+    id: '117995'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 030735122X
+    isbn13: '9780307351227'
+    link: https://www.goodreads.com/book/show/117995.A_Good_and_Happy_Child
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5743'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: A Good and Happy Child
+    title_without_series: A Good and Happy Child
+    uri: kca://book/amzn1.gr.book.v1._hl-DdluwLddZvgoQAK_XQ
+    work:
+      id: '113587'
+  - authors:
+      author:
+        id: '6523516'
+        link: https://www.goodreads.com/author/show/6523516.Charles_Robert_Maturin
+        name: Charles Robert Maturin
+    average_rating: '3.84'
+    id: '207313'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373051517l/207313._SX98_.jpg
+    isbn: 014044761X
+    isbn13: '9780140447613'
+    link: https://www.goodreads.com/book/show/207313.Melmoth_the_Wanderer
+    num_pages: '659'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373051517l/207313._SY75_.jpg
+    title: Melmoth the Wanderer
+    title_without_series: Melmoth the Wanderer
+    uri: kca://book/amzn1.gr.book.v1.9QFhzVFWGyRGiI-XCRlIFA
+    work:
+      id: '200656'
+  - authors:
+      author:
+        id: '11582'
+        link: https://www.goodreads.com/author/show/11582.Se_n_O_Casey
+        name: "Se\xE1n O'Casey"
+    average_rating: '3.84'
+    id: '686651'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0571212328
+    isbn13: '9780571212323'
+    link: https://www.goodreads.com/book/show/686651.The_Plough_and_the_Stars
+    num_pages: '105'
+    publication_day: null
+    publication_month: null
+    publication_year: '2001'
+    ratings_count: '5743'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Plough and the Stars
+    title_without_series: The Plough and the Stars
+    uri: kca://book/amzn1.gr.book.v1.1rzMZ9qB1TlT0ijgHikrRg
+    work:
+      id: '673012'
+  - authors:
+      author:
+        id: '2995925'
+        link: https://www.goodreads.com/author/show/2995925.M_R_James
+        name: M.R. James
+    average_rating: '3.84'
+    id: '650775'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548628133l/650775._SX98_.jpg
+    isbn: '1853268399'
+    isbn13: '9781853268397'
+    link: https://www.goodreads.com/book/show/650775.Collected_Ghost_Stories
+    num_pages: '568'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548628133l/650775._SY75_.jpg
+    title: Collected Ghost Stories
+    title_without_series: Collected Ghost Stories
+    uri: kca://book/amzn1.gr.book.v1.uUGLPwjj8vHgRTWgLq9QwA
+    work:
+      id: '2083711'
+  - authors:
+      author:
+        id: '7798465'
+        link: https://www.goodreads.com/author/show/7798465.Matthew_Gregory_Lewis
+        name: Matthew Gregory Lewis
+    average_rating: '3.84'
+    id: '93157'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365712491l/93157._SX98_.jpg
+    isbn: '0140436030'
+    isbn13: '9780140436037'
+    link: https://www.goodreads.com/book/show/93157.The_Monk
+    num_pages: '431'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365712491l/93157._SY75_.jpg
+    title: The Monk
+    title_without_series: The Monk
+    uri: kca://book/amzn1.gr.book.v1.qULdxx2urhDjE8N9s_Gopw
+    work:
+      id: '3095060'
+  - authors:
+      author:
+        id: '80083'
+        link: https://www.goodreads.com/author/show/80083.Curzio_Malaparte
+        name: Curzio Malaparte
+    average_rating: '3.84'
+    id: '138456'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396671674l/138456._SX98_.jpg
+    isbn: 0910395373
+    isbn13: '9780910395373'
+    link: https://www.goodreads.com/book/show/138456.The_Skin
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396671674l/138456._SX50_.jpg
+    title: The Skin
+    title_without_series: The Skin
+    uri: kca://book/amzn1.gr.book.v1.timQ1oX-ZSdD4onntDJrKw
+    work:
+      id: '133461'
+  - authors:
+      author:
+        id: '159'
+        link: https://www.goodreads.com/author/show/159.Henry_James
+        name: Henry James
+    average_rating: '3.84'
+    id: '224618'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356157947l/224618._SX98_.jpg
+    isbn: '1840224223'
+    isbn13: '9781840224221'
+    link: https://www.goodreads.com/book/show/224618.Ghost_Stories
+    num_pages: '344'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356157947l/224618._SY75_.jpg
+    title: Ghost Stories
+    title_without_series: Ghost Stories
+    uri: kca://book/amzn1.gr.book.v1.OHYHrXUSnbXWjMdUthNZ8w
+    work:
+      id: '18963159'
+  - authors:
+      author:
+        id: '854076'
+        link: https://www.goodreads.com/author/show/854076.Robert_Louis_Stevenson
+        name: Robert Louis Stevenson
+    average_rating: '3.84'
+    id: '223175'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0543896722
+    isbn13: '9780543896728'
+    link: https://www.goodreads.com/book/show/223175.The_Master_of_Ballantrae
+    num_pages: '388'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5743'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Master of Ballantrae
+    title_without_series: The Master of Ballantrae
+    uri: kca://book/amzn1.gr.book.v1.RJU28wKVYpvsC_pygUzqbg
+    work:
+      id: '2366193'
+  - authors:
+      author:
+        id: '15568'
+        link: https://www.goodreads.com/author/show/15568.Charles_Kingsley
+        name: Charles Kingsley
+    average_rating: '3.84'
+    id: '42573'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400956374l/42573._SX98_.jpg
+    isbn: '1853261483'
+    isbn13: '9781853261480'
+    link: https://www.goodreads.com/book/show/42573.The_Water_Babies
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400956374l/42573._SY75_.jpg
+    title: The Water Babies
+    title_without_series: The Water Babies
+    uri: kca://book/amzn1.gr.book.v1.OgR0buzlVvCDmH9hzCT6OA
+    work:
+      id: '2918668'
+  - authors:
+      author:
+        id: '35238'
+        link: https://www.goodreads.com/author/show/35238.Lafcadio_Hearn
+        name: Lafcadio Hearn
+    average_rating: '3.84'
+    id: '41728466'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540828155l/41728466._SX98_.jpg
+    isbn: 0241381274
+    isbn13: '9780241381274'
+    link: https://www.goodreads.com/book/show/41728466-japanese-ghost-stories
+    num_pages: '272'
+    publication_day: '24'
+    publication_month: '9'
+    publication_year: '2019'
+    ratings_count: '5743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540828155l/41728466._SY75_.jpg
+    title: Japanese Ghost Stories
+    title_without_series: Japanese Ghost Stories
+    uri: kca://book/amzn1.gr.book.v1.6_WBM9HHkhAXAk01Wckg2g
+    work:
+      id: '65101556'
+  - authors:
+      author:
+        id: '2995925'
+        link: https://www.goodreads.com/author/show/2995925.M_R_James
+        name: M.R. James
+    average_rating: '3.84'
+    id: '321581'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0140621032'
+    isbn13: '9780140621037'
+    link: https://www.goodreads.com/book/show/321581.Ghost_Stories
+    num_pages: '362'
+    publication_day: '28'
+    publication_month: '7'
+    publication_year: '1994'
+    ratings_count: '5743'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Ghost Stories
+    title_without_series: Ghost Stories
+    uri: kca://book/amzn1.gr.book.v1.L4TGQALvqnoaXCJ1__F3mw
+    work:
+      id: '67259464'
+  - authors:
+      author:
+        id: '43220'
+        link: https://www.goodreads.com/author/show/43220.Ann_Radcliffe
+        name: Ann Radcliffe
+    average_rating: '3.84'
+    id: '93134'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624940760l/93134._SX98_.jpg
+    isbn: 0140437592
+    isbn13: '9780140437591'
+    link: https://www.goodreads.com/book/show/93134.The_Mysteries_of_Udolpho
+    num_pages: '654'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5743'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624940760l/93134._SY75_.jpg
+    title: The Mysteries of Udolpho
+    title_without_series: The Mysteries of Udolpho
+    uri: kca://book/amzn1.gr.book.v1.HvhTWBAx1-SaA6MLXs5X3Q
+    work:
+      id: '3253891'
+  - authors:
+      author:
+        id: '296925'
+        link: https://www.goodreads.com/author/show/296925.Deirdre_Madden
+        name: Deirdre Madden
+    average_rating: '3.84'
+    id: '538621'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0571169465
+    isbn13: '9780571169467'
+    link: https://www.goodreads.com/book/show/538621.Remembering_Light_and_Stone
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5743'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Remembering Light and Stone
+    title_without_series: Remembering Light and Stone
+    uri: kca://book/amzn1.gr.book.v1.GXoCuIHALHOdD7nmXPTnfQ
+    work:
+      id: '526019'
+  - authors:
+      author:
+        id: '43220'
+        link: https://www.goodreads.com/author/show/43220.Ann_Radcliffe
+        name: Ann Radcliffe
+    average_rating: '3.84'
+    id: '780730'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0192836668
+    isbn13: '9780192836663'
+    link: https://www.goodreads.com/book/show/780730.A_Sicilian_Romance
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5743'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: A Sicilian Romance
+    title_without_series: A Sicilian Romance
+    uri: kca://book/amzn1.gr.book.v1.vylZfY_QKec7bF75crmgRg
+    work:
+      id: '350777'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '264'
+  '@type': integer
+title: In a Glass Darkly
+title_without_series: In a Glass Darkly
+uri: kca://book/amzn1.gr.book.v1.7n1LvGxhRoYKHldpEbkLGw
+url: https://www.goodreads.com/book/show/837422.In_a_Glass_Darkly
+work:
+  id: '1142157'
+  uri: kca://work/amzn1.gr.work.v1.yhlWPI-l1ToxuBCqcRYAnQ

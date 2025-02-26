@@ -1,0 +1,752 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.11'
+    id: '2687'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1427999015p5/2687.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/2687.Dan_Simmons
+    name: Dan Simmons
+    ratings_count: '844025'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1427999015p2/2687.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '51470'
+average_rating: '4.24'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: In the stunning continuation of the epic adventure begun in Hyperion,
+  Simmons returns us to a far future resplendent with drama and invention. On the
+  world of Hyperion, the mysterious Time Tombs are opening. And the secrets they contain
+  mean that nothing--nothing anywhere in the universe--will ever be the same.
+edition_information: Bantam Reissue
+format: Mass Market Paperback
+id: '77565'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541174620l/77565._SY160_.jpg
+is_ebook: 'false'
+isbn: 0553288202
+isbn13: '9780553288209'
+json: '{"id": "77565", "isbn": "0553288202", "isbn13": "9780553288209", "text_reviews_count":
+  {"@type": "integer", "#text": "4756"}, "uri": "kca://book/amzn1.gr.book.v1.JHZwufQuwEjgrScrRAJskA",
+  "title": "The Fall of Hyperion (Hyperion Cantos, #2)", "title_without_series": "The
+  Fall of Hyperion", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541174620l/77565._SY160_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541174620l/77565._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/77565.The_Fall_of_Hyperion",
+  "num_pages": "517", "format": "Mass Market Paperback", "edition_information": "Bantam
+  Reissue", "publisher": null, "publication_day": null, "publication_year": "1995",
+  "publication_month": "12", "average_rating": "4.24", "ratings_count": "137133",
+  "description": "In the stunning continuation of the epic adventure begun in Hyperion,
+  Simmons returns us to a far future resplendent with drama and invention. On the
+  world of Hyperion, the mysterious Time Tombs are opening. And the secrets they contain
+  mean that nothing--nothing anywhere in the universe--will ever be the same.", "authors":
+  {"author": {"id": "2687", "name": "Dan Simmons", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1427999015p5/2687.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1427999015p2/2687.jpg"},
+  "link": "https://www.goodreads.com/author/show/2687.Dan_Simmons", "average_rating":
+  "4.11", "ratings_count": "844025", "text_reviews_count": "51470"}}, "published":
+  "1995", "work": {"id": "1882596", "uri": "kca://work/amzn1.gr.work.v1.FuXhIAuZdB8vjVqJlXmKJA"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417543",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B004G60FWM
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/77565.The_Fall_of_Hyperion
+marketplace_id: ATVPDKIKX0DER
+num_pages: '517'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '41299'
+    '@name': to-read
+  - '@count': '5199'
+    '@name': currently-reading
+  - '@count': '3458'
+    '@name': science-fiction
+  - '@count': '3101'
+    '@name': sci-fi
+  - '@count': '1106'
+    '@name': fiction
+  - '@count': '1006'
+    '@name': favorites
+  - '@count': '771'
+    '@name': scifi
+  - '@count': '596'
+    '@name': owned
+  - '@count': '499'
+    '@name': fantasy
+  - '@count': '359'
+    '@name': sf
+  - '@count': '320'
+    '@name': space-opera
+  - '@count': '253'
+    '@name': audiobook
+  - '@count': '206'
+    '@name': sci-fi-fantasy
+  - '@count': '145'
+    '@name': kindle
+  - '@count': '143'
+    '@name': audible
+  - '@count': '131'
+    '@name': audiobooks
+  - '@count': '124'
+    '@name': time-travel
+  - '@count': '108'
+    '@name': books-i-own
+  - '@count': '107'
+    '@name': dan-simmons
+  - '@count': '105'
+    '@name': default
+  - '@count': '103'
+    '@name': hyperion-cantos
+  - '@count': '102'
+    '@name': ebook
+  - '@count': '102'
+    '@name': scifi-fantasy
+  - '@count': '95'
+    '@name': space
+  - '@count': '92'
+    '@name': library
+  - '@count': '91'
+    '@name': speculative-fiction
+  - '@count': '90'
+    '@name': audio
+  - '@count': '88'
+    '@name': horror
+  - '@count': '83'
+    '@name': favourites
+  - '@count': '82'
+    '@name': novels
+  - '@count': '76'
+    '@name': sf-masterworks
+  - '@count': '73'
+    '@name': "ciencia-ficci\xF3n"
+  - '@count': '69'
+    '@name': fantascienza
+  - '@count': '68'
+    '@name': hyperion
+  - '@count': '62'
+    '@name': dnf
+  - '@count': '62'
+    '@name': science-fiction-fantasy
+  - '@count': '61'
+    '@name': owned-books
+  - '@count': '60'
+    '@name': fantasy-sci-fi
+  - '@count': '58'
+    '@name': classics
+  - '@count': '53'
+    '@name': sff
+  - '@count': '53'
+    '@name': sf-fantasy
+  - '@count': '51'
+    '@name': e-book
+  - '@count': '51'
+    '@name': adventure
+  - '@count': '50'
+    '@name': english
+  - '@count': '50'
+    '@name': science-fiction-and-fantasy
+  - '@count': '50'
+    '@name': abandoned
+  - '@count': '49'
+    '@name': novel
+  - '@count': '48'
+    '@name': books
+  - '@count': '48'
+    '@name': epic
+  - '@count': '48'
+    '@name': science
+  - '@count': '44'
+    '@name': my-library
+  - '@count': '43'
+    '@name': to-buy
+  - '@count': '40'
+    '@name': tbr
+  - '@count': '39'
+    '@name': ebooks
+  - '@count': '39'
+    '@name': religion
+  - '@count': '38'
+    '@name': sci-fi-and-fantasy
+  - '@count': '37'
+    '@name': my-books
+  - '@count': '36'
+    '@name': american
+  - '@count': '33'
+    '@name': aliens
+  - '@count': '32'
+    '@name': mystery
+  - '@count': '31'
+    '@name': ciencia-ficcion
+  - '@count': '31'
+    '@name': war
+  - '@count': '30'
+    '@name': artificial-intelligence
+  - '@count': '30'
+    '@name': all-time-favorites
+  - '@count': '30'
+    '@name': sciencefiction
+  - '@count': '29'
+    '@name': bookshelf
+  - '@count': '28'
+    '@name': favorite
+  - '@count': '28'
+    '@name': audio-book
+  - '@count': '28'
+    '@name': re-read
+  - '@count': '27'
+    '@name': physical-tbr
+  - '@count': '27'
+    '@name': adult
+  - '@count': '26'
+    '@name': 5-stars
+  - '@count': '26'
+    '@name': calibre
+  - '@count': '26'
+    '@name': book-club
+  - '@count': '26'
+    '@name': audio-books
+  - '@count': '25'
+    '@name': 20th-century
+  - '@count': '25'
+    '@name': home-library
+  - '@count': '25'
+    '@name': unfinished
+  - '@count': '24'
+    '@name': classic
+  - '@count': '24'
+    '@name': did-not-finish
+  - '@count': '23'
+    '@name': have
+  - '@count': '23'
+    '@name': physical
+  - '@count': '23'
+    '@name': fantasy-scifi
+  - '@count': '23'
+    '@name': simmons
+  - '@count': '22'
+    '@name': own-it
+  - '@count': '22'
+    '@name': literature
+  - '@count': '22'
+    '@name': i-own
+  - '@count': '22'
+    '@name': hugo
+  - '@count': '22'
+    '@name': hugo-nominee
+  - '@count': '21'
+    '@name': speculative
+  - '@count': '20'
+    '@name': hard-sci-fi
+  - '@count': '20'
+    '@name': dystopian
+  - '@count': '20'
+    '@name': 1990s
+  - '@count': '19'
+    '@name': dropped
+  - '@count': '19'
+    '@name': e-books
+  - '@count': '19'
+    '@name': reread
+  - '@count': '18'
+    '@name': paperback
+  - '@count': '18'
+    '@name': dystopia
+  - '@count': '18'
+    '@name': usa
+  - '@count': '18'
+    '@name': locus
+publication_day: null
+publication_month: '12'
+publication_year: '1995'
+published: '1995'
+publisher: null
+ratings_count: '137133'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/1417543
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/77565.The_Fall_of_Hyperion\"\
+  >The Fall of Hyperion Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0553288202&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/77565.The_Fall_of_Hyperion?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '159510'
+    series:
+      description: Also known as Canti di Hyperion
+      id: '40461'
+      note: null
+      numbered: 'true'
+      primary_work_count: '4'
+      series_works_count: '26'
+      title: Hyperion Cantos
+    user_position: '2'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '5780686'
+        link: https://www.goodreads.com/author/show/5780686.Liu_Cixin
+        name: Liu Cixin
+    average_rating: '4.24'
+    id: '23168817'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412064931l/23168817._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/23168817-the-dark-forest
+    num_pages: '512'
+    publication_day: '11'
+    publication_month: '8'
+    publication_year: '2015'
+    ratings_count: '137133'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412064931l/23168817._SY75_.jpg
+    title: "The Dark Forest (Remembrance of Earth\u2019s Past, #2)"
+    title_without_series: The Dark Forest
+    uri: kca://book/amzn1.gr.book.v1.vTopmk9oajebqvm2DNDWNg
+    work:
+      id: '42713958'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.24'
+    id: '25499718'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431014197l/25499718._SX98_.jpg
+    isbn: '1447273281'
+    isbn13: '9781447273288'
+    link: https://www.goodreads.com/book/show/25499718-children-of-time
+    num_pages: '608'
+    publication_day: '4'
+    publication_month: '6'
+    publication_year: '2015'
+    ratings_count: '137133'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431014197l/25499718._SY75_.jpg
+    title: 'Children of Time (Children of Time, #1)'
+    title_without_series: Children of Time
+    uri: kca://book/amzn1.gr.book.v1.JYzNnVpVL-Ry_RX9QJeEwA
+    work:
+      id: '45276208'
+  - authors:
+      author:
+        id: '5780686'
+        link: https://www.goodreads.com/author/show/5780686.Liu_Cixin
+        name: Liu Cixin
+    average_rating: '4.24'
+    id: '25451264'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430330507l/25451264._SX98_.jpg
+    isbn: '0765377101'
+    isbn13: '9780765377104'
+    link: https://www.goodreads.com/book/show/25451264-death-s-end
+    num_pages: '604'
+    publication_day: '20'
+    publication_month: '9'
+    publication_year: '2016'
+    ratings_count: '137133'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430330507l/25451264._SY75_.jpg
+    title: "Death's End (Remembrance of Earth\u2019s Past, #3)"
+    title_without_series: Death's End
+    uri: kca://book/amzn1.gr.book.v1.S11pumuenGa1z0XCFh7ZGA
+    work:
+      id: '18520265'
+  - authors:
+      author:
+        id: '5780686'
+        link: https://www.goodreads.com/author/show/5780686.Liu_Cixin
+        name: Liu Cixin
+    average_rating: '4.24'
+    id: '20518872'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/20518872-the-three-body-problem
+    num_pages: '472'
+    publication_day: '11'
+    publication_month: '11'
+    publication_year: '2014'
+    ratings_count: '137133'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872._SY75_.jpg
+    title: "The Three-Body Problem (Remembrance of Earth\u2019s Past, #1)"
+    title_without_series: The Three-Body Problem
+    uri: kca://book/amzn1.gr.book.v1.oUcAcIZioskWIAd_9N2ijQ
+    work:
+      id: '25696480'
+  - authors:
+      author:
+        id: '9226'
+        link: https://www.goodreads.com/author/show/9226.William_Gibson
+        name: William Gibson
+    average_rating: '4.24'
+    id: '6088007'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554437249l/6088007._SX98_.jpg
+    isbn: 110114646X
+    isbn13: '9781101146460'
+    link: https://www.goodreads.com/book/show/6088007-neuromancer
+    num_pages: '288'
+    publication_day: '3'
+    publication_month: '3'
+    publication_year: '2007'
+    ratings_count: '137133'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554437249l/6088007._SY75_.jpg
+    title: 'Neuromancer (Sprawl, #1)'
+    title_without_series: Neuromancer
+    uri: kca://book/amzn1.gr.book.v1._7m4DTRn8iapMvlxW1amew
+    work:
+      id: '909457'
+  - authors:
+      author:
+        id: '7779'
+        link: https://www.goodreads.com/author/show/7779.Arthur_C_Clarke
+        name: Arthur C. Clarke
+    average_rating: '4.24'
+    id: '112537'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405456427l/112537._SY160_.jpg
+    isbn: '1857231589'
+    isbn13: '9781857231588'
+    link: https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama
+    num_pages: '243'
+    publication_day: null
+    publication_month: null
+    publication_year: '2000'
+    ratings_count: '137133'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405456427l/112537._SY75_.jpg
+    title: 'Rendezvous with Rama (Rama, #1)'
+    title_without_series: Rendezvous with Rama
+    uri: kca://book/amzn1.gr.book.v1.Vu-wksNB4dVDuhWGrfcb1A
+    work:
+      id: '1882772'
+  - authors:
+      author:
+        id: '38550'
+        link: https://www.goodreads.com/author/show/38550.Brandon_Sanderson
+        name: Brandon Sanderson
+    average_rating: '4.24'
+    id: '203578847'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724944713l/203578847._SX98_.jpg
+    isbn: '1250319188'
+    isbn13: '9781250319180'
+    link: https://www.goodreads.com/book/show/203578847-wind-and-truth
+    num_pages: '1330'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '137133'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724944713l/203578847._SY75_.jpg
+    title: 'Wind and Truth (The Stormlight Archive, #5)'
+    title_without_series: Wind and Truth
+    uri: kca://book/amzn1.gr.book.v3._5ntawlCyGh_jC3f
+    work:
+      id: '23840276'
+  - authors:
+      author:
+        id: '16667'
+        link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+        name: Isaac Asimov
+    average_rating: '4.24'
+    id: '29579'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846l/29579._SX98_.jpg
+    isbn: 0553803719
+    isbn13: '9780553803716'
+    link: https://www.goodreads.com/book/show/29579.Foundation
+    num_pages: '244'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '137133'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846l/29579._SX50_.jpg
+    title: 'Foundation (Foundation, #1)'
+    title_without_series: Foundation
+    uri: kca://book/amzn1.gr.book.v1.tpjXJjtCkXTyh6kZuu57VQ
+    work:
+      id: '1783981'
+  - authors:
+      author:
+        id: '12476'
+        link: https://www.goodreads.com/author/show/12476.Joe_Haldeman
+        name: Joe Haldeman
+    average_rating: '4.24'
+    id: '21611'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386852511l/21611._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/21611.The_Forever_War
+    num_pages: '278'
+    publication_day: '2'
+    publication_month: '9'
+    publication_year: '2003'
+    ratings_count: '137133'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386852511l/21611._SY75_.jpg
+    title: 'The Forever War (The Forever War, #1)'
+    title_without_series: The Forever War
+    uri: kca://book/amzn1.gr.book.v1.QJnY72VlwmqvjPOEzRCdxQ
+    work:
+      id: '423'
+  - authors:
+      author:
+        id: '7779'
+        link: https://www.goodreads.com/author/show/7779.Arthur_C_Clarke
+        name: Arthur C. Clarke
+    average_rating: '4.24'
+    id: '414999'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320552628l/414999._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/414999.Childhood_s_End
+    num_pages: '224'
+    publication_day: '12'
+    publication_month: '5'
+    publication_year: '1987'
+    ratings_count: '137133'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320552628l/414999._SY75_.jpg
+    title: "Childhood\u2019s End"
+    title_without_series: "Childhood\u2019s End"
+    uri: kca://book/amzn1.gr.book.v1.NkBnzKp3gs-V7RVPx1-LiA
+    work:
+      id: '209414'
+  - authors:
+      author:
+        id: '58'
+        link: https://www.goodreads.com/author/show/58.Frank_Herbert
+        name: Frank Herbert
+    average_rating: '4.24'
+    id: '44492285'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577043824l/44492285._SY160_.jpg
+    isbn: 0593098234
+    isbn13: '9780593098233'
+    link: https://www.goodreads.com/book/show/44492285-dune-messiah
+    num_pages: '336'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '137133'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577043824l/44492285._SY75_.jpg
+    title: 'Dune Messiah (Dune #2)'
+    title_without_series: Dune Messiah
+    uri: kca://book/amzn1.gr.book.v1.kgK1-TU1Xcjix8LRcJ7mwg
+    work:
+      id: '3634570'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.24'
+    id: '40376072'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693752895l/40376072._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/40376072-children-of-ruin
+    num_pages: '597'
+    publication_day: '16'
+    publication_month: '5'
+    publication_year: '2019'
+    ratings_count: '137133'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693752895l/40376072._SY75_.jpg
+    title: 'Children of Ruin (Children of Time, #2)'
+    title_without_series: Children of Ruin
+    uri: kca://book/amzn1.gr.book.v1.82oK-YdISmkWDphw5x4iug
+    work:
+      id: '62663185'
+  - authors:
+      author:
+        id: '58'
+        link: https://www.goodreads.com/author/show/58.Frank_Herbert
+        name: Frank Herbert
+    average_rating: '4.24'
+    id: '44492286'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564783201l/44492286._SY160_.jpg
+    isbn: 0593098242
+    isbn13: '9780593098240'
+    link: https://www.goodreads.com/book/show/44492286-children-of-dune
+    num_pages: '609'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '137133'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564783201l/44492286._SY75_.jpg
+    title: 'Children of Dune (Dune #3)'
+    title_without_series: Children of Dune
+    uri: kca://book/amzn1.gr.book.v1.DnovUkk5LBaPzgeyr0gXZw
+    work:
+      id: '3634573'
+  - authors:
+      author:
+        id: '16667'
+        link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+        name: Isaac Asimov
+    average_rating: '4.24'
+    id: '29581'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0553803727
+    isbn13: '9780553803723'
+    link: https://www.goodreads.com/book/show/29581.Foundation_and_Empire
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '137133'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Foundation and Empire (Foundation, #2)'
+    title_without_series: Foundation and Empire
+    uri: kca://book/amzn1.gr.book.v1.5KqKyoaCAnSzeYaXhE1XCQ
+    work:
+      id: '1703483'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.24'
+    id: '8855321'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411013134l/8855321._SX98_.jpg
+    isbn: '1841499889'
+    isbn13: '9781841499888'
+    link: https://www.goodreads.com/book/show/8855321-leviathan-wakes
+    num_pages: '592'
+    publication_day: '2'
+    publication_month: '6'
+    publication_year: '2011'
+    ratings_count: '137133'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411013134l/8855321._SY75_.jpg
+    title: 'Leviathan Wakes (The Expanse, #1)'
+    title_without_series: Leviathan Wakes
+    uri: kca://book/amzn1.gr.book.v1.5j4xED4lXoZAbxsPmZrz1w
+    work:
+      id: '13730452'
+  - authors:
+      author:
+        id: '874602'
+        link: https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin
+        name: Ursula K. Le Guin
+    average_rating: '4.24'
+    id: '18423'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488213612l/18423._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness
+    num_pages: '304'
+    publication_day: '1'
+    publication_month: '7'
+    publication_year: '2000'
+    ratings_count: '137133'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488213612l/18423._SY75_.jpg
+    title: The Left Hand of Darkness
+    title_without_series: The Left Hand of Darkness
+    uri: kca://book/amzn1.gr.book.v1.rN6TzC6agHQRuPR-ZIDiGA
+    work:
+      id: '817527'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.24'
+    id: '201930181'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SX98_.jpg
+    isbn: 031652557X
+    isbn13: '9780316525572'
+    link: https://www.goodreads.com/book/show/201930181-the-mercy-of-gods
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '137133'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SY75_.jpg
+    title: "The Mercy of Gods (The Captive\u2019s War, #1)"
+    title_without_series: The Mercy of Gods
+    uri: kca://book/amzn1.gr.book.v3.nndIiP3mF2vHLfgz
+    work:
+      id: '95320019'
+  - authors:
+      author:
+        id: '58'
+        link: https://www.goodreads.com/author/show/58.Frank_Herbert
+        name: Frank Herbert
+    average_rating: '4.24'
+    id: '44439415'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564025916l/44439415._SY160_.jpg
+    isbn: 0593098250
+    isbn13: '9780593098257'
+    link: https://www.goodreads.com/book/show/44439415-god-emperor-of-dune
+    num_pages: '587'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '137133'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564025916l/44439415._SY75_.jpg
+    title: 'God Emperor of Dune (Dune #4)'
+    title_without_series: God Emperor of Dune
+    uri: kca://book/amzn1.gr.book.v1.M2Yzp_kgxi9JVoXuoXXYQQ
+    work:
+      id: '3634588'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541174620l/77565._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '4756'
+  '@type': integer
+title: 'The Fall of Hyperion (Hyperion Cantos, #2)'
+title_without_series: The Fall of Hyperion
+uri: kca://book/amzn1.gr.book.v1.JHZwufQuwEjgrScrRAJskA
+url: https://www.goodreads.com/book/show/77565.The_Fall_of_Hyperion
+work:
+  id: '1882596'
+  uri: kca://work/amzn1.gr.work.v1.FuXhIAuZdB8vjVqJlXmKJA
