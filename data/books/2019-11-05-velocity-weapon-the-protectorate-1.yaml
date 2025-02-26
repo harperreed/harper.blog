@@ -1,0 +1,757 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.04'
+    id: '8177132'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1398722805p5/8177132.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/8177132.Megan_E_O_Keefe
+    name: Megan E. O'Keefe
+    ratings_count: '24859'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1398722805p2/8177132.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '3765'
+average_rating: '3.87'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2019-11-05T00:00:00-08:00'
+description: "The last thing Sanda remembers is her gunship breaking up around her\
+  \ as her preserving pod expanded, sealing herself away for salvage-medics to pick\
+  \ up. She expected to awaken in friendly hands, patched up and patched back into\
+  \ a new gunship. Instead, she awakens 230 years later upon an empty enemy smartship,\
+  \ The Light of Berossus or, as he prefers to be called, \u201CBero\u201D. The war\
+  \ is lost. The star system is dead.<br /><br />However, Bero may not exactly be\
+  \ telling the whole truth."
+edition_information: null
+format: Kindle Edition
+id: '41085049'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551122969l/41085049._SX98_.jpg
+is_ebook: 'true'
+isbn: 0316419605
+isbn13: '9780316419604'
+json: '{"id": "41085049", "isbn": "0316419605", "isbn13": "9780316419604", "text_reviews_count":
+  {"@type": "integer", "#text": "800"}, "uri": "kca://book/amzn1.gr.book.v1.d0vqNqgVGApH5k01ER-hlw",
+  "title": "Velocity Weapon (The Protectorate, #1)", "title_without_series": "Velocity
+  Weapon", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551122969l/41085049._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551122969l/41085049._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/41085049-velocity-weapon",
+  "num_pages": "544", "format": "Kindle Edition", "edition_information": null, "publisher":
+  null, "publication_day": "11", "publication_year": "2019", "publication_month":
+  "6", "average_rating": "3.87", "ratings_count": "7077", "description": "The last
+  thing Sanda remembers is her gunship breaking up around her as her preserving pod
+  expanded, sealing herself away for salvage-medics to pick up. She expected to awaken
+  in friendly hands, patched up and patched back into a new gunship. Instead, she
+  awakens 230 years later upon an empty enemy smartship, The Light of Berossus or,
+  as he prefers to be called, \u201cBero\u201d. The war is lost. The star system is
+  dead.<br /><br />However, Bero may not exactly be telling the whole truth.", "authors":
+  {"author": {"id": "8177132", "name": "Megan E. O''Keefe", "role": null, "image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1398722805p5/8177132.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1398722805p2/8177132.jpg"},
+  "link": "https://www.goodreads.com/author/show/8177132.Megan_E_O_Keefe", "average_rating":
+  "4.04", "ratings_count": "24859", "text_reviews_count": "3765"}}, "published": "2019",
+  "work": {"id": "64190668", "uri": "kca://work/amzn1.gr.work.v1.yrk2yzUEi43kE732w9xtZw"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/3031247316",
+  "read_at": "Tue Nov 05 00:00:00 -0800 2019", "started_at": "Wed Oct 30 00:00:00
+  -0700 2019", "date": "Tue Nov 05 00:00:00 -0800 2019"}'
+kindle_asin: B07G73ZJTB
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/41085049-velocity-weapon
+marketplace_id: ATVPDKIKX0DER
+num_pages: '544'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '15338'
+    '@name': to-read
+  - '@count': '1527'
+    '@name': currently-reading
+  - '@count': '519'
+    '@name': sci-fi
+  - '@count': '492'
+    '@name': science-fiction
+  - '@count': '148'
+    '@name': space-opera
+  - '@count': '144'
+    '@name': scifi
+  - '@count': '108'
+    '@name': fiction
+  - '@count': '81'
+    '@name': dnf
+  - '@count': '78'
+    '@name': owned
+  - '@count': '52'
+    '@name': kindle
+  - '@count': '44'
+    '@name': series
+  - '@count': '41'
+    '@name': physical-tbr
+  - '@count': '40'
+    '@name': audiobook
+  - '@count': '39'
+    '@name': library
+  - '@count': '39'
+    '@name': space
+  - '@count': '39'
+    '@name': favorites
+  - '@count': '37'
+    '@name': ebook
+  - '@count': '36'
+    '@name': adult
+  - '@count': '34'
+    '@name': sf
+  - '@count': '31'
+    '@name': audiobooks
+  - '@count': '30'
+    '@name': did-not-finish
+  - '@count': '24'
+    '@name': tbr
+  - '@count': '24'
+    '@name': sci-fi-fantasy
+  - '@count': '23'
+    '@name': fantasy
+  - '@count': '23'
+    '@name': books-i-own
+  - '@count': '22'
+    '@name': owned-tbr
+  - '@count': '22'
+    '@name': audio
+  - '@count': '21'
+    '@name': mystery
+  - '@count': '20'
+    '@name': maybe
+  - '@count': '18'
+    '@name': abandoned
+  - '@count': '16'
+    '@name': sci-fi-tbr
+  - '@count': '16'
+    '@name': female-author
+  - '@count': '15'
+    '@name': owned-books
+  - '@count': '15'
+    '@name': artificial-intelligence
+  - '@count': '15'
+    '@name': 2019-releases
+  - '@count': '14'
+    '@name': sci-fi-to-read
+  - '@count': '14'
+    '@name': sff
+  - '@count': '14'
+    '@name': to-buy
+  - '@count': '13'
+    '@name': ai
+  - '@count': '13'
+    '@name': fantasy-sci-fi
+  - '@count': '12'
+    '@name': ebooks
+  - '@count': '12'
+    '@name': tbr-sci-fi
+  - '@count': '12'
+    '@name': series-to-start
+  - '@count': '11'
+    '@name': lgbtq
+  - '@count': '11'
+    '@name': speculative-fiction
+  - '@count': '11'
+    '@name': read-in-2019
+  - '@count': '10'
+    '@name': book-club
+  - '@count': '10'
+    '@name': military
+  - '@count': '10'
+    '@name': tbr-scifi
+  - '@count': '10'
+    '@name': adult-sci-fi
+  - '@count': '9'
+    '@name': read-in-2023
+  - '@count': '9'
+    '@name': read-in-2021
+  - '@count': '9'
+    '@name': want-to-buy
+  - '@count': '9'
+    '@name': kindle-tbr
+  - '@count': '9'
+    '@name': lgbt
+  - '@count': '9'
+    '@name': sciencefiction
+  - '@count': '9'
+    '@name': adult-fiction
+  - '@count': '8'
+    '@name': 2024-reads
+  - '@count': '8'
+    '@name': queer
+  - '@count': '8'
+    '@name': read-in-2020
+  - '@count': '8'
+    '@name': adventure
+  - '@count': '8'
+    '@name': scifi-fantasy
+  - '@count': '8'
+    '@name': sci-fi-and-fantasy
+  - '@count': '8'
+    '@name': to-read-sci-fi
+  - '@count': '8'
+    '@name': read-2019
+  - '@count': '8'
+    '@name': giveaways
+  - '@count': '7'
+    '@name': priority
+  - '@count': '7'
+    '@name': didn-t-finish
+  - '@count': '7'
+    '@name': first-in-series
+  - '@count': '7'
+    '@name': unread
+  - '@count': '7'
+    '@name': audible
+  - '@count': '7'
+    '@name': interested
+  - '@count': '7'
+    '@name': kobo
+  - '@count': '7'
+    '@name': owned-to-read
+  - '@count': '7'
+    '@name': my-library
+  - '@count': '7'
+    '@name': interesting
+  - '@count': '7'
+    '@name': to-read-fiction
+  - '@count': '6'
+    '@name': 2021-reads
+  - '@count': '6'
+    '@name': interested-in
+  - '@count': '6'
+    '@name': personal-library
+  - '@count': '6'
+    '@name': 2020-reads
+  - '@count': '6'
+    '@name': sci-fi-want-to-read
+  - '@count': '6'
+    '@name': audio-book
+  - '@count': '6'
+    '@name': bookclub
+  - '@count': '6'
+    '@name': novel
+  - '@count': '6'
+    '@name': home-library
+  - '@count': '6'
+    '@name': favourites
+  - '@count': '6'
+    '@name': 2019-read
+  - '@count': '6'
+    '@name': science-fiction-and-fantasy
+  - '@count': '6'
+    '@name': e-books
+  - '@count': '6'
+    '@name': next
+  - '@count': '6'
+    '@name': wish-list
+  - '@count': '5'
+    '@name': kindle-unlimited
+  - '@count': '5'
+    '@name': 2024-books
+  - '@count': '5'
+    '@name': 2023-reads
+  - '@count': '5'
+    '@name': tbr-pile
+  - '@count': '5'
+    '@name': books-mine-asap
+  - '@count': '5'
+    '@name': read-2021
+  - '@count': '5'
+    '@name': gave-up-on
+  - '@count': '5'
+    '@name': disability
+publication_day: '11'
+publication_month: '6'
+publication_year: '2019'
+published: '2019'
+publisher: null
+ratings_count: '7077'
+read_at: '2019-11-05T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/3031247316
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/41085049-velocity-weapon\"\
+  >Velocity Weapon Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0316419605&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/41085049-velocity-weapon?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '1404213'
+    series:
+      description: null
+      id: '256781'
+      note: null
+      numbered: 'true'
+      primary_work_count: '3'
+      series_works_count: '3'
+      title: The Protectorate
+    user_position: '1'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '20220570'
+        link: https://www.goodreads.com/author/show/20220570.J_S_Dewes
+        name: J.S. Dewes
+    average_rating: '3.87'
+    id: '203579245'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719338993l/203579245._SX98_.jpg
+    isbn: '1250851254'
+    isbn13: '9781250851253'
+    link: https://www.goodreads.com/book/show/203579245-the-relentless-legion
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7077'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719338993l/203579245._SY75_.jpg
+    title: 'The Relentless Legion (The Divide #3)'
+    title_without_series: The Relentless Legion
+    uri: kca://book/amzn1.gr.book.v3.L13P0BSN8pQuj6dL
+    work:
+      id: '206487324'
+  - authors:
+      author:
+        id: '20220570'
+        link: https://www.goodreads.com/author/show/20220570.J_S_Dewes
+        name: J.S. Dewes
+    average_rating: '3.87'
+    id: '53205794'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610925839l/53205794._SX98_.jpg
+    isbn: '1250236347'
+    isbn13: '9781250236340'
+    link: https://www.goodreads.com/book/show/53205794-the-last-watch
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7077'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610925839l/53205794._SY75_.jpg
+    title: 'The Last Watch (The Divide, #1)'
+    title_without_series: The Last Watch
+    uri: kca://book/amzn1.gr.book.v3.C4hQMR_t9oUs9ifx
+    work:
+      id: '80438337'
+  - authors:
+      author:
+        id: '20220570'
+        link: https://www.goodreads.com/author/show/20220570.J_S_Dewes
+        name: J.S. Dewes
+    average_rating: '3.87'
+    id: '55077639'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1613416660l/55077639._SX98_.jpg
+    isbn: '1250236363'
+    isbn13: '9781250236364'
+    link: https://www.goodreads.com/book/show/55077639-the-exiled-fleet
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7077'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1613416660l/55077639._SY75_.jpg
+    title: 'The Exiled Fleet (The Divide, #2)'
+    title_without_series: The Exiled Fleet
+    uri: kca://book/amzn1.gr.book.v3.BDpOrwJFEY_geSDV
+    work:
+      id: '85876187'
+  - authors:
+      author:
+        id: '11246763'
+        link: https://www.goodreads.com/author/show/11246763.Bethany_Jacobs
+        name: Bethany Jacobs
+    average_rating: '3.87'
+    id: '75593500'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686947278l/75593500._SX98_.jpg
+    isbn: 0316463329
+    isbn13: '9780316463324'
+    link: https://www.goodreads.com/book/show/75593500-these-burning-stars
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7077'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686947278l/75593500._SY75_.jpg
+    title: 'These Burning Stars (The Kindom Trilogy, #1)'
+    title_without_series: These Burning Stars
+    uri: kca://book/amzn1.gr.book.v3.MIIkVoI-cPrLL8Oz
+    work:
+      id: '96708613'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '3.87'
+    id: '195790861'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698554344l/195790861._SX98_.jpg
+    isbn: '1250290287'
+    isbn13: '9781250290281'
+    link: https://www.goodreads.com/book/show/195790861-service-model
+    num_pages: '376'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7077'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698554344l/195790861._SY75_.jpg
+    title: Service Model
+    title_without_series: Service Model
+    uri: kca://book/amzn1.gr.book.v3.BUtNnpSh6EMDHugG
+    work:
+      id: '197724648'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '3.87'
+    id: '201930181'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SX98_.jpg
+    isbn: 031652557X
+    isbn13: '9780316525572'
+    link: https://www.goodreads.com/book/show/201930181-the-mercy-of-gods
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7077'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SY75_.jpg
+    title: "The Mercy of Gods (The Captive\u2019s War, #1)"
+    title_without_series: The Mercy of Gods
+    uri: kca://book/amzn1.gr.book.v3.nndIiP3mF2vHLfgz
+    work:
+      id: '95320019'
+  - authors:
+      author:
+        id: '7177350'
+        link: https://www.goodreads.com/author/show/7177350.M_R_Carey
+        name: M.R. Carey
+    average_rating: '3.87'
+    id: '181031840'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695835425l/181031840._SX98_.jpg
+    isbn: 035651806X
+    isbn13: '9780356518060'
+    link: https://www.goodreads.com/book/show/181031840-echo-of-worlds
+    num_pages: '496'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7077'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695835425l/181031840._SY75_.jpg
+    title: 'Echo of Worlds (Pandominion, #2)'
+    title_without_series: Echo of Worlds
+    uri: kca://book/amzn1.gr.book.v3.l1GbWqQButI61lSM
+    work:
+      id: '185992364'
+  - authors:
+      author:
+        id: '19533114'
+        link: https://www.goodreads.com/author/show/19533114.Yume_Kitasei
+        name: Yume Kitasei
+    average_rating: '3.87'
+    id: '195791479'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698507161l/195791479._SX98_.jpg
+    isbn: '1250875374'
+    isbn13: '9781250875372'
+    link: https://www.goodreads.com/book/show/195791479-the-stardust-grail
+    num_pages: '312'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7077'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698507161l/195791479._SY75_.jpg
+    title: The Stardust Grail
+    title_without_series: The Stardust Grail
+    uri: kca://book/amzn1.gr.book.v3.l1TTM5woQHEYdQLO
+    work:
+      id: '197725364'
+  - authors:
+      author:
+        id: '7177350'
+        link: https://www.goodreads.com/author/show/7177350.M_R_Carey
+        name: M.R. Carey
+    average_rating: '3.87'
+    id: '61237044'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665587330l/61237044._SX98_.jpg
+    isbn: 0316504386
+    isbn13: '9780316504386'
+    link: https://www.goodreads.com/book/show/61237044-infinity-gate
+    num_pages: '499'
+    publication_day: '28'
+    publication_month: '3'
+    publication_year: '2023'
+    ratings_count: '7077'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665587330l/61237044._SX50_.jpg
+    title: 'Infinity Gate (Pandominion, #1)'
+    title_without_series: Infinity Gate
+    uri: kca://book/amzn1.gr.book.v3.nLtBR3fqk57sGif8
+    work:
+      id: '96545712'
+  - authors:
+      author:
+        id: '20220570'
+        link: https://www.goodreads.com/author/show/20220570.J_S_Dewes
+        name: J.S. Dewes
+    average_rating: '3.87'
+    id: '60784443'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667336628l/60784443._SX98_.jpg
+    isbn: '1250851238'
+    isbn13: '9781250851239'
+    link: https://www.goodreads.com/book/show/60784443-rubicon
+    num_pages: '469'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7077'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667336628l/60784443._SY75_.jpg
+    title: Rubicon
+    title_without_series: Rubicon
+    uri: kca://book/amzn1.gr.book.v3.7YLl4p5WU6K9dHQE
+    work:
+      id: '95849260'
+  - authors:
+      author:
+        id: '22470613'
+        link: https://www.goodreads.com/author/show/22470613.L_M_Sagas
+        name: L.M. Sagas
+    average_rating: '3.87'
+    id: '127280776'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685353521l/127280776._SX98_.jpg
+    isbn: '1250871255'
+    isbn13: '9781250871251'
+    link: https://www.goodreads.com/book/show/127280776-cascade-failure
+    num_pages: '407'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7077'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685353521l/127280776._SY75_.jpg
+    title: 'Cascade Failure (Ambit''s Run, #1)'
+    title_without_series: Cascade Failure
+    uri: kca://book/amzn1.gr.book.v3.VrS5pXS-I4PF0I0q
+    work:
+      id: '96572122'
+  - authors:
+      author:
+        id: '11246763'
+        link: https://www.goodreads.com/author/show/11246763.Bethany_Jacobs
+        name: Bethany Jacobs
+    average_rating: '3.87'
+    id: '207567884'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1721567087l/207567884._SX98_.jpg
+    isbn: '0316463523'
+    isbn13: '9780316463522'
+    link: https://www.goodreads.com/book/show/207567884-on-vicious-worlds
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7077'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1721567087l/207567884._SY75_.jpg
+    title: 'On Vicious Worlds (The Kindom Trilogy, #2)'
+    title_without_series: On Vicious Worlds
+    uri: kca://book/amzn1.gr.book.v3.oR2CNTgbO7zLKvLr
+    work:
+      id: '213630531'
+  - authors:
+      author:
+        id: '6535608'
+        link: https://www.goodreads.com/author/show/6535608.Miles_Cameron
+        name: Miles  Cameron
+    average_rating: '3.87'
+    id: '56097208'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/56097208-artifact-space
+    num_pages: '578'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7077'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Artifact Space (Arcana Imperii, #1)'
+    title_without_series: Artifact Space
+    uri: kca://book/amzn1.gr.book.v3.1LWcEhO7mV-xiZpk
+    work:
+      id: '87376352'
+  - authors:
+      author:
+        id: '3365457'
+        link: https://www.goodreads.com/author/show/3365457.Ann_Leckie
+        name: Ann Leckie
+    average_rating: '3.87'
+    id: '62873999'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673303646l/62873999._SX98_.jpg
+    isbn: 031628971X
+    isbn13: '9780316289719'
+    link: https://www.goodreads.com/book/show/62873999-translation-state
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7077'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673303646l/62873999._SY75_.jpg
+    title: Translation State
+    title_without_series: Translation State
+    uri: kca://book/amzn1.gr.book.v3.IPz5gT7elXgSEOUd
+    work:
+      id: '98667857'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '3.87'
+    id: '195443798'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SX98_.jpg
+    isbn: '1035013770'
+    isbn13: '9781035013777'
+    link: https://www.goodreads.com/book/show/195443798-alien-clay
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7077'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SY75_.jpg
+    title: Alien Clay
+    title_without_series: Alien Clay
+    uri: kca://book/amzn1.gr.book.v3.U07jHOWpgU_-RRTg
+    work:
+      id: '197089092'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '3.87'
+    id: '65211701'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674575978l/65211701._SX98_.jpg
+    isbn: '1250826977'
+    isbn13: '9781250826978'
+    link: https://www.goodreads.com/book/show/65211701-system-collapse
+    num_pages: '245'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7077'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674575978l/65211701._SY75_.jpg
+    title: 'System Collapse (The Murderbot Diaries, #7)'
+    title_without_series: System Collapse
+    uri: kca://book/amzn1.gr.book.v3.BlgXZE2jb-Pp_eWq
+    work:
+      id: '90712113'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '3.87'
+    id: '205670068'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729967825l/205670068._SX98_.jpg
+    isbn: 0593357663
+    isbn13: '9780593357668'
+    link: https://www.goodreads.com/book/show/205670068-exodus
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7077'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729967825l/205670068._SY75_.jpg
+    title: 'Exodus: The Archimedes Engine (Archimedes Engine, #1)'
+    title_without_series: 'Exodus: The Archimedes Engine'
+    uri: kca://book/amzn1.gr.book.v3.oKI1MhJVI6jcpH-k
+    work:
+      id: '211692605'
+  - authors:
+      author:
+        id: '5105382'
+        link: https://www.goodreads.com/author/show/5105382.Suzanne_Palmer
+        name: Suzanne Palmer
+    average_rating: '3.87'
+    id: '40796392'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543385033l/40796392._SX98_.jpg
+    isbn: 075641511X
+    isbn13: '9780756415112'
+    link: https://www.goodreads.com/book/show/40796392-finder
+    num_pages: '400'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '7077'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543385033l/40796392._SY75_.jpg
+    title: 'Finder (Finder Chronicles, #1)'
+    title_without_series: Finder
+    uri: kca://book/amzn1.gr.book.v1.sXmVoFSajn25It3B0rfYQw
+    work:
+      id: '63522653'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551122969l/41085049._SY75_.jpg
+started_at: '2019-10-30T00:00:00-07:00'
+text_reviews_count:
+  '#text': '800'
+  '@type': integer
+title: 'Velocity Weapon (The Protectorate, #1)'
+title_without_series: Velocity Weapon
+uri: kca://book/amzn1.gr.book.v1.d0vqNqgVGApH5k01ER-hlw
+url: https://www.goodreads.com/book/show/41085049-velocity-weapon
+work:
+  id: '64190668'
+  uri: kca://work/amzn1.gr.work.v1.yrk2yzUEi43kE732w9xtZw

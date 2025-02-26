@@ -1,0 +1,763 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.99'
+    id: '7779'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1357191481p5/7779.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/7779.Arthur_C_Clarke
+    name: Arthur C. Clarke
+    ratings_count: '1396474'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1357191481p2/7779.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '53473'
+average_rating: '4.17'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: On the Moon, an enigma is uncovered.<br /><br />So great are the implications
+  of this discovery that for the first time men are sent out deep into our solar system.<br
+  /><br />But long before their destination is reached, things begin to go horribly,
+  inexplicably wrong...<br /><br />One of the greatest-selling science fiction novels
+  of our time, this classic book will grip you to the very end.
+edition_information: null
+format: Paperback
+id: '70535'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn:
+  '@nil': 'true'
+isbn13:
+  '@nil': 'true'
+json: '{"id": "70535", "isbn": {"@nil": "true"}, "isbn13": {"@nil": "true"}, "text_reviews_count":
+  {"@type": "integer", "#text": "6725"}, "uri": "kca://book/amzn1.gr.book.v1.VRJUp88y7rA1NIF5WcD2vg",
+  "title": "2001: A Space Odyssey (Space Odyssey, #1)", "title_without_series": "2001:
+  A Space Odyssey", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/70535.2001",
+  "num_pages": "297", "format": "Paperback", "edition_information": null, "publisher":
+  "Roc", "publication_day": "1", "publication_year": "2000", "publication_month":
+  "9", "average_rating": "4.17", "ratings_count": "325654", "description": "On the
+  Moon, an enigma is uncovered.<br /><br />So great are the implications of this discovery
+  that for the first time men are sent out deep into our solar system.<br /><br />But
+  long before their destination is reached, things begin to go horribly, inexplicably
+  wrong...<br /><br />One of the greatest-selling science fiction novels of our time,
+  this classic book will grip you to the very end.", "authors": {"author": {"id":
+  "7779", "name": "Arthur C. Clarke", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1357191481p5/7779.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1357191481p2/7779.jpg"},
+  "link": "https://www.goodreads.com/author/show/7779.Arthur_C_Clarke", "average_rating":
+  "3.99", "ratings_count": "1396474", "text_reviews_count": "53473"}}, "published":
+  "2000", "work": {"id": "208362", "uri": "kca://work/amzn1.gr.work.v1.AZuLk6FsSzbckZV3cEk7Xw"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417532",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: null
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/70535.2001
+marketplace_id: null
+num_pages: '297'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '279892'
+    '@name': to-read
+  - '@count': '7098'
+    '@name': science-fiction
+  - '@count': '6353'
+    '@name': sci-fi
+  - '@count': '4250'
+    '@name': currently-reading
+  - '@count': '3126'
+    '@name': fiction
+  - '@count': '2082'
+    '@name': classics
+  - '@count': '2040'
+    '@name': favorites
+  - '@count': '1240'
+    '@name': scifi
+  - '@count': '1120'
+    '@name': owned
+  - '@count': '541'
+    '@name': sf
+  - '@count': '425'
+    '@name': classic
+  - '@count': '395'
+    '@name': audiobook
+  - '@count': '395'
+    '@name': sci-fi-fantasy
+  - '@count': '390'
+    '@name': space
+  - '@count': '345'
+    '@name': books-i-own
+  - '@count': '317'
+    '@name': fantasy
+  - '@count': '281'
+    '@name': novels
+  - '@count': '253'
+    '@name': audiobooks
+  - '@count': '243'
+    '@name': library
+  - '@count': '239'
+    '@name': kindle
+  - '@count': '225'
+    '@name': 1001-books
+  - '@count': '224'
+    '@name': series
+  - '@count': '216'
+    '@name': to-buy
+  - '@count': '204'
+    '@name': arthur-c-clarke
+  - '@count': '200'
+    '@name': audible
+  - '@count': '200'
+    '@name': science
+  - '@count': '191'
+    '@name': scifi-fantasy
+  - '@count': '186'
+    '@name': default
+  - '@count': '184'
+    '@name': favourites
+  - '@count': '174'
+    '@name': ebook
+  - '@count': '173'
+    '@name': '1001'
+  - '@count': '160'
+    '@name': owned-books
+  - '@count': '159'
+    '@name': novel
+  - '@count': '151'
+    '@name': literature
+  - '@count': '149'
+    '@name': "ciencia-ficci\xF3n"
+  - '@count': '146'
+    '@name': my-library
+  - '@count': '142'
+    '@name': science-fiction-fantasy
+  - '@count': '140'
+    '@name': speculative-fiction
+  - '@count': '127'
+    '@name': fantasy-sci-fi
+  - '@count': '124'
+    '@name': space-opera
+  - '@count': '122'
+    '@name': english
+  - '@count': '120'
+    '@name': audio
+  - '@count': '111'
+    '@name': fantascienza
+  - '@count': '108'
+    '@name': 20th-century
+  - '@count': '103'
+    '@name': books
+  - '@count': '101'
+    '@name': adventure
+  - '@count': '94'
+    '@name': my-books
+  - '@count': '90'
+    '@name': ciencia-ficcion
+  - '@count': '90'
+    '@name': 1001-books-to-read-before-you-die
+  - '@count': '87'
+    '@name': ebooks
+  - '@count': '87'
+    '@name': physical-tbr
+  - '@count': '85'
+    '@name': british
+  - '@count': '77'
+    '@name': tbr
+  - '@count': '77'
+    '@name': sff
+  - '@count': '77'
+    '@name': aliens
+  - '@count': '75'
+    '@name': adult
+  - '@count': '74'
+    '@name': classic-sci-fi
+  - '@count': '72'
+    '@name': bookshelf
+  - '@count': '72'
+    '@name': sci-fi-and-fantasy
+  - '@count': '70'
+    '@name': sf-fantasy
+  - '@count': '69'
+    '@name': e-book
+  - '@count': '68'
+    '@name': 1960s
+  - '@count': '65'
+    '@name': fantasy-scifi
+  - '@count': '65'
+    '@name': movies
+  - '@count': '63'
+    '@name': want-to-buy
+  - '@count': '62'
+    '@name': wish-list
+  - '@count': '61'
+    '@name': have
+  - '@count': '61'
+    '@name': artificial-intelligence
+  - '@count': '58'
+    '@name': dnf
+  - '@count': '58'
+    '@name': home-library
+  - '@count': '55'
+    '@name': book-club
+  - '@count': '55'
+    '@name': to-read-fiction
+  - '@count': '54'
+    '@name': clarke
+  - '@count': '53'
+    '@name': sci-fi-to-read
+  - '@count': '53'
+    '@name': movie
+  - '@count': '51'
+    '@name': re-read
+  - '@count': '50'
+    '@name': audio-books
+  - '@count': '50'
+    '@name': hard-sci-fi
+  - '@count': '48'
+    '@name': classics-to-read
+  - '@count': '48'
+    '@name': physical
+  - '@count': '48'
+    '@name': modern-classics
+  - '@count': '47'
+    '@name': sciencefiction
+  - '@count': '46'
+    '@name': collection
+  - '@count': '46'
+    '@name': 1001-books-to-read
+  - '@count': '46'
+    '@name': audio-book
+  - '@count': '46'
+    '@name': must-read
+  - '@count': '44'
+    '@name': "fic\xE7\xE3o-cient\xEDfica"
+  - '@count': '44'
+    '@name': all-time-favorites
+  - '@count': '43'
+    '@name': favorite
+  - '@count': '42'
+    '@name': on-my-shelf
+  - '@count': '42'
+    '@name': paperback
+  - '@count': '41'
+    '@name': favorite-books
+  - '@count': '41'
+    '@name': to-read-sci-fi
+  - '@count': '41'
+    '@name': calibre
+  - '@count': '41'
+    '@name': i-own
+  - '@count': '40'
+    '@name': british-literature
+  - '@count': '39'
+    '@name': hard-science-fiction
+  - '@count': '39'
+    '@name': first-contact
+  - '@count': '39'
+    '@name': film
+  - '@count': '38'
+    '@name': ai
+publication_day: '1'
+publication_month: '9'
+publication_year: '2000'
+published: '2000'
+publisher: Roc
+ratings_count: '325654'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417532
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/70535.2001\"\
+  >2001 Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/70535.2001?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '178930'
+    series:
+      description: "Each book uses <i>2001</i> as its starting point. Otherwise, the\
+        \ novels each occur in separate continuities. \n    \n    Series also known\
+        \ as:\n    <i>* Odissea nello spazio [Italian]</i>\n    <i>* \u039F\u03B4\u03CD\
+        \u03C3\u03C3\u03B5\u03B9\u03B1 \u03C4\u03BF\u03C5 \u03B4\u03B9\u03B1\u03C3\
+        \u03C4\u03AE\u03BC\u03B1\u03C4\u03BF\u03C2 [Greek]</i>\n    <i>* Odyseja kosmiczna\
+        \ [Polish]</i>\n    <i>* Odissea spa\u021Bial\u0103 [Romanian]</i>\n    <i>*\
+        \ \u0D85\u0DB7\u0DCA\u200D\u0DBA\u0DCF\u0DC0\u0D9A\u0DCF\u0DC1 \u0DC0\u0DD3\
+        \u0DBB \u0DA0\u0DCF\u0DBB\u0DD2\u0D9A\u0DCF\u0DC0 [Sinhala]</i>"
+      id: '49122'
+      note: null
+      numbered: 'true'
+      primary_work_count: '4'
+      series_works_count: '8'
+      title: Space Odyssey
+    user_position: '1'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '16667'
+        link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+        name: Isaac Asimov
+    average_rating: '4.17'
+    id: '29579'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846l/29579._SX98_.jpg
+    isbn: 0553803719
+    isbn13: '9780553803716'
+    link: https://www.goodreads.com/book/show/29579.Foundation
+    num_pages: '244'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '325654'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846l/29579._SX50_.jpg
+    title: 'Foundation (Foundation, #1)'
+    title_without_series: Foundation
+    uri: kca://book/amzn1.gr.book.v1.tpjXJjtCkXTyh6kZuu57VQ
+    work:
+      id: '1783981'
+  - authors:
+      author:
+        id: '4764'
+        link: https://www.goodreads.com/author/show/4764.Philip_K_Dick
+        name: Philip K. Dick
+    average_rating: '4.17'
+    id: '36402034'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507838927l/36402034._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/36402034-do-androids-dream-of-electric-sheep
+    num_pages: '258'
+    publication_day: '26'
+    publication_month: '2'
+    publication_year: '2008'
+    ratings_count: '325654'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507838927l/36402034._SY75_.jpg
+    title: Do Androids Dream of Electric Sheep?
+    title_without_series: Do Androids Dream of Electric Sheep?
+    uri: kca://book/amzn1.gr.book.v1.lENz7wsiugnkZNIWJ-zhOg
+    work:
+      id: '830939'
+  - authors:
+      author:
+        id: '16667'
+        link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+        name: Isaac Asimov
+    average_rating: '4.17'
+    id: '41804'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609035271l/41804._SX98_.jpg
+    isbn: 0553803700
+    isbn13: '9780553803709'
+    link: https://www.goodreads.com/book/show/41804.I_Robot
+    num_pages: '224'
+    publication_day: null
+    publication_month: '6'
+    publication_year: '2004'
+    ratings_count: '325654'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609035271l/41804._SY75_.jpg
+    title: 'I, Robot (Robot, #0.1)'
+    title_without_series: I, Robot
+    uri: kca://book/amzn1.gr.book.v1.TjnB6ZeRoy0zcgaPoV4SiA
+    work:
+      id: '1796026'
+  - authors:
+      author:
+        id: '880695'
+        link: https://www.goodreads.com/author/show/880695.H_G_Wells
+        name: H.G. Wells
+    average_rating: '4.17'
+    id: '2493'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327942880l/2493._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/2493.The_Time_Machine
+    num_pages: '118'
+    publication_day: '1'
+    publication_month: '10'
+    publication_year: '2002'
+    ratings_count: '325654'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327942880l/2493._SY75_.jpg
+    title: The Time Machine
+    title_without_series: The Time Machine
+    uri: kca://book/amzn1.gr.book.v1.Eu_4b59fezjXbHai_zIuYg
+    work:
+      id: '3234863'
+  - authors:
+      author:
+        id: '58'
+        link: https://www.goodreads.com/author/show/58.Frank_Herbert
+        name: Frank Herbert
+    average_rating: '4.17'
+    id: '44767458'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555447414l/44767458._SX98_.jpg
+    isbn: 059309932X
+    isbn13: '9780593099322'
+    link: https://www.goodreads.com/book/show/44767458-dune
+    num_pages: '658'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '325654'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555447414l/44767458._SY75_.jpg
+    title: 'Dune (Dune, #1)'
+    title_without_series: Dune
+    uri: kca://book/amzn1.gr.book.v1.hAfjpcV1EtlPe7qvdmKeDA
+    work:
+      id: '3634639'
+  - authors:
+      author:
+        id: '880695'
+        link: https://www.goodreads.com/author/show/880695.H_G_Wells
+        name: H.G. Wells
+    average_rating: '4.17'
+    id: '8909'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320391644l/8909._SX98_.jpg
+    isbn: 0375759239
+    isbn13: '9780375759239'
+    link: https://www.goodreads.com/book/show/8909.The_War_of_the_Worlds
+    num_pages: '192'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '325654'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320391644l/8909._SY75_.jpg
+    title: The War of the Worlds
+    title_without_series: The War of the Worlds
+    uri: kca://book/amzn1.gr.book.v1.9fEZ6zm_Vj0WNoyp1re-5A
+    work:
+      id: '3194841'
+  - authors:
+      author:
+        id: '9226'
+        link: https://www.goodreads.com/author/show/9226.William_Gibson
+        name: William Gibson
+    average_rating: '4.17'
+    id: '6088007'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554437249l/6088007._SX98_.jpg
+    isbn: 110114646X
+    isbn13: '9781101146460'
+    link: https://www.goodreads.com/book/show/6088007-neuromancer
+    num_pages: '288'
+    publication_day: '3'
+    publication_month: '3'
+    publication_year: '2007'
+    ratings_count: '325654'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554437249l/6088007._SY75_.jpg
+    title: 'Neuromancer (Sprawl, #1)'
+    title_without_series: Neuromancer
+    uri: kca://book/amzn1.gr.book.v1._7m4DTRn8iapMvlxW1amew
+    work:
+      id: '909457'
+  - authors:
+      author:
+        id: '2687'
+        link: https://www.goodreads.com/author/show/2687.Dan_Simmons
+        name: Dan Simmons
+    average_rating: '4.17'
+    id: '77566'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405546838l/77566._SY160_.jpg
+    isbn: 0553283685
+    isbn13: '9780553283686'
+    link: https://www.goodreads.com/book/show/77566.Hyperion
+    num_pages: '500'
+    publication_day: null
+    publication_month: '3'
+    publication_year: '1990'
+    ratings_count: '325654'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405546838l/77566._SY75_.jpg
+    title: 'Hyperion (Hyperion Cantos, #1)'
+    title_without_series: Hyperion
+    uri: kca://book/amzn1.gr.book.v1.2xaw98fU9vu-PP2TJ7Wgyw
+    work:
+      id: '1383900'
+  - authors:
+      author:
+        id: '4'
+        link: https://www.goodreads.com/author/show/4.Douglas_Adams
+        name: Douglas Adams
+    average_rating: '4.17'
+    id: '11'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531891848l/11._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy
+    num_pages: '216'
+    publication_day: null
+    publication_month: null
+    publication_year: '2005'
+    ratings_count: '325654'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531891848l/11._SY75_.jpg
+    title: "The Hitchhiker\u2019s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy,\
+      \ #1)"
+    title_without_series: "The Hitchhiker\u2019s Guide to the Galaxy"
+    uri: kca://book/amzn1.gr.book.v1.xMbdhkltzeXMl_shq7vdhw
+    work:
+      id: '3078186'
+  - authors:
+      author:
+        id: '205'
+        link: https://www.goodreads.com/author/show/205.Robert_A_Heinlein
+        name: Robert A. Heinlein
+    average_rating: '4.17'
+    id: '350'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1156897088l/350._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land
+    num_pages: '525'
+    publication_day: '1'
+    publication_month: '10'
+    publication_year: '1991'
+    ratings_count: '325654'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1156897088l/350._SY75_.jpg
+    title: Stranger in a Strange Land
+    title_without_series: Stranger in a Strange Land
+    uri: kca://book/amzn1.gr.book.v1.8zej_WuuLGB01sVAycpjxg
+    work:
+      id: '908211'
+  - authors:
+      author:
+        id: '6540057'
+        link: https://www.goodreads.com/author/show/6540057.Andy_Weir
+        name: Andy Weir
+    average_rating: '4.17'
+    id: '18007564'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413706054l/18007564._SX98_.jpg
+    isbn: 0804139024
+    isbn13: '9780804139021'
+    link: https://www.goodreads.com/book/show/18007564-the-martian
+    num_pages: '384'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '325654'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413706054l/18007564._SY75_.jpg
+    title: The Martian
+    title_without_series: The Martian
+    uri: kca://book/amzn1.gr.book.v1.O5h1YAnBEe0cYP_KkaVAcA
+    work:
+      id: '21825181'
+  - authors:
+      author:
+        id: '10991'
+        link: https://www.goodreads.com/author/show/10991.Stanis_aw_Lem
+        name: "Stanis\u0142aw Lem"
+    average_rating: '4.17'
+    id: '95558'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498631519l/95558._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/95558.Solaris
+    num_pages: '204'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '325654'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498631519l/95558._SX50_.jpg
+    title: Solaris
+    title_without_series: Solaris
+    uri: kca://book/amzn1.gr.book.v1.2QOFfnwJcCGPgpzd2dOo1w
+    work:
+      id: '3333881'
+  - authors:
+      author:
+        id: '589'
+        link: https://www.goodreads.com/author/show/589.Orson_Scott_Card
+        name: Orson Scott Card
+    average_rating: '4.17'
+    id: '375802'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130l/375802._SY160_.jpg
+    isbn: 0812550706
+    isbn13: '9780812550702'
+    link: https://www.goodreads.com/book/show/375802.Ender_s_Game
+    num_pages: '324'
+    publication_day: '30'
+    publication_month: '9'
+    publication_year: '2004'
+    ratings_count: '325654'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130l/375802._SY75_.jpg
+    title: "Ender\u2019s Game (Ender's Saga, #1)"
+    title_without_series: "Ender\u2019s Game"
+    uri: kca://book/amzn1.gr.book.v1.9norahS09TVbhrKu-VRkig
+    work:
+      id: '2422333'
+  - authors:
+      author:
+        id: '5780686'
+        link: https://www.goodreads.com/author/show/5780686.Liu_Cixin
+        name: Liu Cixin
+    average_rating: '4.17'
+    id: '20518872'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/20518872-the-three-body-problem
+    num_pages: '472'
+    publication_day: '11'
+    publication_month: '11'
+    publication_year: '2014'
+    ratings_count: '325654'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872._SY75_.jpg
+    title: "The Three-Body Problem (Remembrance of Earth\u2019s Past, #1)"
+    title_without_series: The Three-Body Problem
+    uri: kca://book/amzn1.gr.book.v1.oUcAcIZioskWIAd_9N2ijQ
+    work:
+      id: '25696480'
+  - authors:
+      author:
+        id: '205'
+        link: https://www.goodreads.com/author/show/205.Robert_A_Heinlein
+        name: Robert A. Heinlein
+    average_rating: '4.17'
+    id: '17214'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614054412l/17214._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/17214.Starship_Troopers
+    num_pages: '264'
+    publication_day: null
+    publication_month: '5'
+    publication_year: '1987'
+    ratings_count: '325654'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614054412l/17214._SY75_.jpg
+    title: Starship Troopers
+    title_without_series: Starship Troopers
+    uri: kca://book/amzn1.gr.book.v1.WlcZG9NeWw7A-2d1-4B8sw
+    work:
+      id: '2534973'
+  - authors:
+      author:
+        id: '5194'
+        link: https://www.goodreads.com/author/show/5194.Michael_Crichton
+        name: Michael Crichton
+    average_rating: '4.17'
+    id: '40604658'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529604411l/40604658._SY160_.jpg
+    isbn: '0307763056'
+    isbn13: '9780307763051'
+    link: https://www.goodreads.com/book/show/40604658-jurassic-park
+    num_pages: '450'
+    publication_day: '14'
+    publication_month: '5'
+    publication_year: '2012'
+    ratings_count: '325654'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529604411l/40604658._SY75_.jpg
+    title: 'Jurassic Park (Jurassic Park, #1)'
+    title_without_series: Jurassic Park
+    uri: kca://book/amzn1.gr.book.v1.n8FYmFYqGVSZsX1_dHhH3g
+    work:
+      id: '3376836'
+  - authors:
+      author:
+        id: '10538'
+        link: https://www.goodreads.com/author/show/10538.Carl_Sagan
+        name: Carl Sagan
+    average_rating: '4.17'
+    id: '53000876'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1596579536l/53000876._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/53000876-contact
+    num_pages: '375'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '325654'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1596579536l/53000876._SY75_.jpg
+    title: Contact
+    title_without_series: Contact
+    uri: kca://book/amzn1.gr.book.v3.RTMN4nnAXDpaYBDo
+    work:
+      id: '2416056'
+  - authors:
+      author:
+        id: '16667'
+        link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+        name: Isaac Asimov
+    average_rating: '4.17'
+    id: '29580'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661015922l/29580._SX98_.jpg
+    isbn: 0553803735
+    isbn13: '9780553803730'
+    link: https://www.goodreads.com/book/show/29580.Second_Foundation
+    num_pages: '256'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '325654'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661015922l/29580._SY75_.jpg
+    title: 'Second Foundation (Foundation, #3)'
+    title_without_series: Second Foundation
+    uri: kca://book/amzn1.gr.book.v1.IQczg_zmHqBiKTdb4elJqw
+    work:
+      id: '64823'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '6725'
+  '@type': integer
+title: '2001: A Space Odyssey (Space Odyssey, #1)'
+title_without_series: '2001: A Space Odyssey'
+uri: kca://book/amzn1.gr.book.v1.VRJUp88y7rA1NIF5WcD2vg
+url: https://www.goodreads.com/book/show/70535.2001
+work:
+  id: '208362'
+  uri: kca://work/amzn1.gr.work.v1.AZuLk6FsSzbckZV3cEk7Xw

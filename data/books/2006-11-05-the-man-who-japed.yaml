@@ -1,0 +1,746 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.93'
+    id: '4764'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1633698608p5/4764.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/4764.Philip_K_Dick
+    name: Philip K. Dick
+    ratings_count: '1414390'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1633698608p2/4764.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '84233'
+average_rating: '3.58'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: In <i>The Man Who Japed</i>, a world that has survived a nuclear holocaust
+  has given way to a rigid system of oppressive morality. Highly mobile and miniature
+  robots monitor the behavior of every citizen, and the slightest transgression can
+  spell personal doom. Allen Purcell is one of the few people who has the capacity
+  to literally change the way of the world, and once he's offered a high-profile job
+  that acts as guardian of public ethics, he sets out to do precisely that, but first
+  he has to deal with the head in his closet.<br /><br />
+edition_information: null
+format: null
+id: '226482'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355321559l/226482._SX98_.jpg
+is_ebook: 'false'
+isbn: 0375719350
+isbn13: '9780375719356'
+json: '{"id": "226482", "isbn": "0375719350", "isbn13": "9780375719356", "text_reviews_count":
+  {"@type": "integer", "#text": "136"}, "uri": "kca://book/amzn1.gr.book.v1.anjJ10zlN9Izc1kkZ_t4Lg",
+  "title": "The Man Who Japed", "title_without_series": "The Man Who Japed", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355321559l/226482._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355321559l/226482._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/226482.The_Man_Who_Japed",
+  "num_pages": "168", "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.58", "ratings_count": "3127", "description": "In <i>The Man Who Japed</i>, a
+  world that has survived a nuclear holocaust has given way to a rigid system of oppressive
+  morality. Highly mobile and miniature robots monitor the behavior of every citizen,
+  and the slightest transgression can spell personal doom. Allen Purcell is one of
+  the few people who has the capacity to literally change the way of the world, and
+  once he''s offered a high-profile job that acts as guardian of public ethics, he
+  sets out to do precisely that, but first he has to deal with the head in his closet.<br
+  /><br />", "authors": {"author": {"id": "4764", "name": "Philip K. Dick", "role":
+  null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1633698608p5/4764.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1633698608p2/4764.jpg"},
+  "link": "https://www.goodreads.com/author/show/4764.Philip_K_Dick", "average_rating":
+  "3.93", "ratings_count": "1414390", "text_reviews_count": "84233"}}, "published":
+  null, "work": {"id": "1915737", "uri": "kca://work/amzn1.gr.work.v1.42mQoeu4l_EETJlSFuydYw"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417621",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B005LVQZN4
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/226482.The_Man_Who_Japed
+marketplace_id: ATVPDKIKX0DER
+num_pages: '168'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '1903'
+    '@name': to-read
+  - '@count': '189'
+    '@name': science-fiction
+  - '@count': '117'
+    '@name': sci-fi
+  - '@count': '70'
+    '@name': fiction
+  - '@count': '55'
+    '@name': currently-reading
+  - '@count': '55'
+    '@name': philip-k-dick
+  - '@count': '44'
+    '@name': pkd
+  - '@count': '37'
+    '@name': owned
+  - '@count': '29'
+    '@name': sf
+  - '@count': '26'
+    '@name': scifi
+  - '@count': '16'
+    '@name': dystopia
+  - '@count': '13'
+    '@name': default
+  - '@count': '13'
+    '@name': fantascienza
+  - '@count': '13'
+    '@name': sci-fi-fantasy
+  - '@count': '12'
+    '@name': ebook
+  - '@count': '11'
+    '@name': novels
+  - '@count': '10'
+    '@name': 1950s
+  - '@count': '10'
+    '@name': dystopian
+  - '@count': '10'
+    '@name': library
+  - '@count': '9'
+    '@name': american
+  - '@count': '9'
+    '@name': science
+  - '@count': '8'
+    '@name': kindle
+  - '@count': '8'
+    '@name': dick
+  - '@count': '7'
+    '@name': books
+  - '@count': '7'
+    '@name': fantasy
+  - '@count': '7'
+    '@name': speculative-fiction
+  - '@count': '6'
+    '@name': ebooks
+  - '@count': '5'
+    '@name': favorites
+  - '@count': '5'
+    '@name': 20th-century
+  - '@count': '5'
+    '@name': owned-books
+  - '@count': '5'
+    '@name': classics
+  - '@count': '5'
+    '@name': audiobook
+  - '@count': '5'
+    '@name': to-read-sci-fi
+  - '@count': '4'
+    '@name': calibre
+  - '@count': '4'
+    '@name': audio_owned
+  - '@count': '4'
+    '@name': unread
+  - '@count': '4'
+    '@name': p-k-dick
+  - '@count': '4'
+    '@name': audio
+  - '@count': '4'
+    '@name': libreria
+  - '@count': '4'
+    '@name': politics
+  - '@count': '4'
+    '@name': e-book
+  - '@count': '4'
+    '@name': fc
+  - '@count': '4'
+    '@name': urania
+  - '@count': '4'
+    '@name': books-i-own
+  - '@count': '4'
+    '@name': not-read
+  - '@count': '3'
+    '@name': my-library
+  - '@count': '3'
+    '@name': american-literature
+  - '@count': '3'
+    '@name': novel
+  - '@count': '3'
+    '@name': on-my-shelf
+  - '@count': '3'
+    '@name': kobo
+  - '@count': '3'
+    '@name': utopia
+  - '@count': '3'
+    '@name': home-library
+  - '@count': '3'
+    '@name': reviewed
+  - '@count': '3'
+    '@name': phillip-k-dick
+  - '@count': '3'
+    '@name': owned-not-read
+  - '@count': '3'
+    '@name': author-philip-k-dick
+  - '@count': '3'
+    '@name': e-books
+  - '@count': '3'
+    '@name': fantasy-sci-fi
+  - '@count': '3'
+    '@name': science-fiction-fantasy
+  - '@count': '3'
+    '@name': scifi-fantasy
+  - '@count': '3'
+    '@name': adventure
+  - '@count': '3'
+    '@name': literature
+  - '@count': '3'
+    '@name': all-books
+  - '@count': '3'
+    '@name': sf-fantasy
+  - '@count': '3'
+    '@name': classic
+  - '@count': '3'
+    '@name': to-get
+  - '@count': '2'
+    '@name': in-libreria-pkd
+  - '@count': '2'
+    '@name': post-apocalyptic
+  - '@count': '2'
+    '@name': social
+  - '@count': '2'
+    '@name': study_author-series2
+  - '@count': '2'
+    '@name': '3'
+  - '@count': '2'
+    '@name': audible
+  - '@count': '2'
+    '@name': usa
+  - '@count': '2'
+    '@name': ficcao-cientifica
+  - '@count': '2'
+    '@name': physical-copy
+  - '@count': '2'
+    '@name': 50s
+  - '@count': '2'
+    '@name': author-pkd
+  - '@count': '2'
+    '@name': audio_wanted
+  - '@count': '2'
+    '@name': science-fiction-and-fantasy
+  - '@count': '2'
+    '@name': wish-list
+  - '@count': '2'
+    '@name': read-in-2018
+  - '@count': '2'
+    '@name': tbr
+  - '@count': '2'
+    '@name': audio-books
+  - '@count': '2'
+    '@name': american-lit
+  - '@count': '2'
+    '@name': dick-philip
+  - '@count': '2'
+    '@name': '2'
+  - '@count': '2'
+    '@name': my-books
+  - '@count': '2'
+    '@name': audiobooks
+  - '@count': '2'
+    '@name': americana
+  - '@count': '2'
+    '@name': collection
+  - '@count': '2'
+    '@name': "fic\xE7\xE3o-cient\xEDfica"
+  - '@count': '2'
+    '@name': read-in-2014
+  - '@count': '2'
+    '@name': narrativa
+  - '@count': '2'
+    '@name': psychology
+  - '@count': '2'
+    '@name': have
+  - '@count': '2'
+    '@name': distopia
+  - '@count': '2'
+    '@name': 20th-century-fiction
+  - '@count': '2'
+    '@name': pulp
+  - '@count': '2'
+    '@name': mystery
+  - '@count': '2'
+    '@name': crime
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '3127'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417621
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/226482.The_Man_Who_Japed\"\
+  >The Man Who Japed Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0375719350&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/226482.The_Man_Who_Japed?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '514397'
+        link: https://www.goodreads.com/author/show/514397.Takashi_Nagai
+        name: Takashi Nagai
+    average_rating: '3.58'
+    id: '1030303'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '4770018452'
+    isbn13: '9784770018458'
+    link: https://www.goodreads.com/book/show/1030303.The_Bells_of_Nagasaki
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3127'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Bells of Nagasaki
+    title_without_series: The Bells of Nagasaki
+    uri: kca://book/amzn1.gr.book.v1.tJmW1XVJ17ThrGbrCuAXHg
+    work:
+      id: '1016560'
+  - authors:
+      author:
+        id: '6025722'
+        link: https://www.goodreads.com/author/show/6025722.Walter_M_Miller_Jr_
+        name: Walter M. Miller Jr.
+    average_rating: '3.58'
+    id: '164154'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450516880l/164154._SX98_.jpg
+    isbn: 0060892994
+    isbn13: '9780060892999'
+    link: https://www.goodreads.com/book/show/164154.A_Canticle_for_Leibowitz
+    num_pages: '334'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3127'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450516880l/164154._SY75_.jpg
+    title: 'A Canticle for Leibowitz (St. Leibowitz, #1)'
+    title_without_series: A Canticle for Leibowitz
+    uri: kca://book/amzn1.gr.book.v1.h0-nSPIoU0qM_4HQwEkf2A
+    work:
+      id: '250975'
+  - authors:
+      author:
+        id: '23419'
+        link: https://www.goodreads.com/author/show/23419.Christopher_Priest
+        name: Christopher Priest
+    average_rating: '3.58'
+    id: '142181'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0060134216'
+    isbn13: '9780060134211'
+    link: https://www.goodreads.com/book/show/142181.The_Inverted_World
+    num_pages: '239'
+    publication_day: '28'
+    publication_month: '5'
+    publication_year: '1974'
+    ratings_count: '3127'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Inverted World
+    title_without_series: The Inverted World
+    uri: kca://book/amzn1.gr.book.v1.RVKj5O2vRWTBnq624bCtog
+    work:
+      id: '2226603'
+  - authors:
+      author:
+        id: '18454'
+        link: https://www.goodreads.com/author/show/18454.Whitley_Strieber
+        name: Whitley Strieber
+    average_rating: '3.58'
+    id: '201547'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0743431022'
+    isbn13: '9780743431026'
+    link: https://www.goodreads.com/book/show/201547.The_Hunger
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3127'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Hunger (Hunger, #1)'
+    title_without_series: The Hunger
+    uri: kca://book/amzn1.gr.book.v1.peDFppJYg6zfocaANmIq9w
+    work:
+      id: '2276583'
+  - authors:
+      author:
+        id: '431149'
+        link: https://www.goodreads.com/author/show/431149.Truman_Capote
+        name: Truman Capote
+    average_rating: '3.58'
+    id: '60483'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493205238l/60483._SX98_.jpg
+    isbn: 0141184612
+    isbn13: '9780141184616'
+    link: https://www.goodreads.com/book/show/60483.Music_for_Chameleons
+    num_pages: '262'
+    publication_day: null
+    publication_month: null
+    publication_year: '2001'
+    ratings_count: '3127'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493205238l/60483._SY75_.jpg
+    title: Music for Chameleons
+    title_without_series: Music for Chameleons
+    uri: kca://book/amzn1.gr.book.v1.5HQiTf4hPY7_QYfYpC4d6w
+    work:
+      id: '515581'
+  - authors:
+      author:
+        id: '3619'
+        link: https://www.goodreads.com/author/show/3619.Roger_Zelazny
+        name: Roger Zelazny
+    average_rating: '3.58'
+    id: '13827'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304429213l/13827._SY160_.jpg
+    isbn: 0671698486
+    isbn13: '9780671698485'
+    link: https://www.goodreads.com/book/show/13827.This_Immortal
+    num_pages: '216'
+    publication_day: null
+    publication_month: null
+    publication_year: '1989'
+    ratings_count: '3127'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304429213l/13827._SY75_.jpg
+    title: This Immortal
+    title_without_series: This Immortal
+    uri: kca://book/amzn1.gr.book.v1.f0HarlLIJMWEuPAgJeF9kg
+    work:
+      id: '1174485'
+  - authors:
+      author:
+        id: '9860453'
+        link: https://www.goodreads.com/author/show/9860453.James_Tiptree_Jr_
+        name: James Tiptree Jr.
+    average_rating: '3.58'
+    id: '318011'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325070167l/318011._SX98_.jpg
+    isbn: '1568652518'
+    isbn13: '9781568652511'
+    link: https://www.goodreads.com/book/show/318011.Houston_Houston_Do_You_Read_
+    num_pages: '150'
+    publication_day: null
+    publication_month: '12'
+    publication_year: '1996'
+    ratings_count: '3127'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325070167l/318011._SX50_.jpg
+    title: Houston, Houston, Do You Read?
+    title_without_series: Houston, Houston, Do You Read?
+    uri: kca://book/amzn1.gr.book.v1.HwBMrSWKPiavnldjZe5jOg
+    work:
+      id: '308801'
+  - authors:
+      author:
+        id: '3242'
+        link: https://www.goodreads.com/author/show/3242.L_Frank_Baum
+        name: L. Frank Baum
+    average_rating: '3.58'
+    id: '116597'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1277946475l/116597._SX98_.jpg
+    isbn: '1421976951'
+    isbn13: '9781421976952'
+    link: https://www.goodreads.com/book/show/116597.Dorothy_and_the_Wizard_in_Oz
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3127'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1277946475l/116597._SX50_.jpg
+    title: 'Dorothy and the Wizard in Oz (Oz, #4)'
+    title_without_series: Dorothy and the Wizard in Oz
+    uri: kca://book/amzn1.gr.book.v1.JixBLOIHq8oFYidOgHT3_w
+    work:
+      id: '173513'
+  - authors:
+      author:
+        id: '285976'
+        link: https://www.goodreads.com/author/show/285976.Jesse_Ball
+        name: Jesse Ball
+    average_rating: '3.58'
+    id: '40139205'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566269279l/40139205._SX98_.jpg
+    isbn: '0062676113'
+    isbn13: '9780062676115'
+    link: https://www.goodreads.com/book/show/40139205-the-divers-game
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3127'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566269279l/40139205._SY75_.jpg
+    title: The Divers' Game
+    title_without_series: The Divers' Game
+    uri: kca://book/amzn1.gr.book.v1.mzK-b82MZjATtm_zRMWslg
+    work:
+      id: '62274423'
+  - authors:
+      author:
+        id: '16667'
+        link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+        name: Isaac Asimov
+    average_rating: '3.58'
+    id: '41822'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325310236l/41822._SY160_.jpg
+    isbn: 0553293435
+    isbn13: '9780553293432'
+    link: https://www.goodreads.com/book/show/41822.The_Stars_Like_Dust
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3127'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325310236l/41822._SY75_.jpg
+    title: 'The Stars, Like Dust (Galactic Empire, #1)'
+    title_without_series: The Stars, Like Dust
+    uri: kca://book/amzn1.gr.book.v1.snBe1FOrajpMxz7JvD_aWg
+    work:
+      id: '1032075'
+  - authors:
+      author:
+        id: '3706'
+        link: https://www.goodreads.com/author/show/3706.George_Orwell
+        name: George Orwell
+    average_rating: '3.58'
+    id: '319238'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685980114l/319238._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/319238.A_Clergyman_s_Daughter
+    num_pages: '305'
+    publication_day: '3'
+    publication_month: '10'
+    publication_year: '2000'
+    ratings_count: '3127'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685980114l/319238._SY75_.jpg
+    title: A Clergyman's Daughter
+    title_without_series: A Clergyman's Daughter
+    uri: kca://book/amzn1.gr.book.v1.HRF5t8b3bBSTQkYo_3iMAw
+    work:
+      id: '1469726'
+  - authors:
+      author:
+        id: '6944'
+        link: https://www.goodreads.com/author/show/6944.Jack_Finney
+        name: Jack Finney
+    average_rating: '3.58'
+    id: '127515'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344394499l/127515._SX98_.jpg
+    isbn: 0684852586
+    isbn13: '9780684852584'
+    link: https://www.goodreads.com/book/show/127515.Invasion_of_the_Body_Snatchers
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3127'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344394499l/127515._SY75_.jpg
+    title: Invasion of the Body Snatchers
+    title_without_series: Invasion of the Body Snatchers
+    uri: kca://book/amzn1.gr.book.v1.eQAJZMXG1o9z1MkmDulDxQ
+    work:
+      id: '864848'
+  - authors:
+      author:
+        id: '3619'
+        link: https://www.goodreads.com/author/show/3619.Roger_Zelazny
+        name: Roger Zelazny
+    average_rating: '3.58'
+    id: '13821'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330127327l/13821._SX98_.jpg
+    isbn: '0060567236'
+    isbn13: '9780060567231'
+    link: https://www.goodreads.com/book/show/13821.Lord_of_Light
+    num_pages: '296'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3127'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330127327l/13821._SY75_.jpg
+    title: Lord of Light
+    title_without_series: Lord of Light
+    uri: kca://book/amzn1.gr.book.v1.KNw7xhhOdJxvPhsfeQVO-g
+    work:
+      id: '1011388'
+  - authors:
+      author:
+        id: '56'
+        link: https://www.goodreads.com/author/show/56.Brian_Herbert
+        name: Brian Herbert
+    average_rating: '3.58'
+    id: '197053066'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1419749471'
+    isbn13: '9781419749476'
+    link: https://www.goodreads.com/book/show/197053066-frank-herbert-s-dune
+    num_pages: '193'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3127'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Frank Herbert''s Dune: The Graphic Novel, Book 3: The Prophet'
+    title_without_series: 'Frank Herbert''s Dune: The Graphic Novel, Book 3: The Prophet'
+    uri: kca://book/amzn1.gr.book.v3.PYunbHnEqzLsn38P
+    work:
+      id: '98740907'
+  - authors:
+      author:
+        id: '431149'
+        link: https://www.goodreads.com/author/show/431149.Truman_Capote
+        name: Truman Capote
+    average_rating: '3.58'
+    id: '2287'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329028916l/2287._SX98_.jpg
+    isbn: 0679745645
+    isbn13: '9780679745648'
+    link: https://www.goodreads.com/book/show/2287.Other_Voices_Other_Rooms
+    num_pages: '232'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3127'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329028916l/2287._SY75_.jpg
+    title: Other Voices, Other Rooms
+    title_without_series: Other Voices, Other Rooms
+    uri: kca://book/amzn1.gr.book.v1.YCgLqyDkOmXruWs3Kugnfg
+    work:
+      id: '2222705'
+  - authors:
+      author:
+        id: '38285'
+        link: https://www.goodreads.com/author/show/38285.C_G_Jung
+        name: C.G. Jung
+    average_rating: '3.58'
+    id: '836937'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0691017948
+    isbn13: '9780691017945'
+    link: https://www.goodreads.com/book/show/836937.Synchronicity
+    num_pages: '115'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3127'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Synchronicity: An Acausal Connecting Principle'
+    title_without_series: 'Synchronicity: An Acausal Connecting Principle'
+    uri: kca://book/amzn1.gr.book.v1.73unZ4oC4SGw8O0bjpUXUg
+    work:
+      id: '822546'
+  - authors:
+      author:
+        id: '7010931'
+        link: https://www.goodreads.com/author/show/7010931.J_G_Ballard
+        name: J.G. Ballard
+    average_rating: '3.58'
+    id: '262359'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330051830l/262359._SY160_.jpg
+    isbn: 014002591X
+    isbn13: '9780140025910'
+    link: https://www.goodreads.com/book/show/262359.The_Wind_from_Nowhere
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3127'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330051830l/262359._SY75_.jpg
+    title: The Wind from Nowhere
+    title_without_series: The Wind from Nowhere
+    uri: kca://book/amzn1.gr.book.v1.ixvySHgbAF2EkS0z8SRHew
+    work:
+      id: '254310'
+  - authors:
+      author:
+        id: '874602'
+        link: https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin
+        name: Ursula K. Le Guin
+    average_rating: '3.58'
+    id: '13552'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0152052089
+    isbn13: '9780152052089'
+    link: https://www.goodreads.com/book/show/13552.Very_Far_Away_from_Anywhere_Else
+    num_pages: '133'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3127'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Very Far Away from Anywhere Else
+    title_without_series: Very Far Away from Anywhere Else
+    uri: kca://book/amzn1.gr.book.v1.L0lONK0wtV542PwN_4T5Qg
+    work:
+      id: '847810'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355321559l/226482._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '136'
+  '@type': integer
+title: The Man Who Japed
+title_without_series: The Man Who Japed
+uri: kca://book/amzn1.gr.book.v1.anjJ10zlN9Izc1kkZ_t4Lg
+url: https://www.goodreads.com/book/show/226482.The_Man_Who_Japed
+work:
+  id: '1915737'
+  uri: kca://work/amzn1.gr.work.v1.42mQoeu4l_EETJlSFuydYw

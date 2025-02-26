@@ -1,0 +1,25 @@
+---
+asin: B003JMF9DY
+average_rating: '3.44'
+book_author: James  Church
+date: ''
+draft: false
+goodreads_link: https://www.goodreads.com/book/show/9283615-a-corpse-in-the-koryo
+image:
+- B003JMF9DY.jpg
+image_url: https://images-na.ssl-images-amazon.com/images/P/B003JMF9DY.01._SCLZZZZZZZ.jpg
+layout: book
+num_pages: null
+review_rating: '5'
+started_at: ''
+summary: 'A Corpse in the Koryo (Inspector O, #1) by James  Church - rated 3.44/5
+  on Goodreads'
+tagline: A None-page book by James  Church
+tags:
+- James  Church
+title: 'A Corpse in the Koryo (Inspector O, #1)'
+title_without_series: A Corpse in the Koryo
+yaml: a-corpse-in-the-koryo-inspector-o-1
+---
+
+<i>Against the backdrop of a totalitarian </i><i>North Korea</i><i>, one man unwillingly uncovers the truth behind series of murders, and wagers his life in the process.</i><i></i><br /><i>Sit on a quiet hillside at dawn among the wildflowers; take a picture of a car coming up a deserted highway from the south</i>. Simple orders for Inspector O, until he realizes they have led him far, far off his department's turf and into a maelstrom of betrayal and death. North Korea's leaders are desperate to hunt down and eliminate anyone who knows too much about a series of decades-old kidnappings and murders--and Inspector O discovers too late he has been sent into the chaos.<br />This is a world where nothing works as it should, where the crimes of the past haunt the present, and where even the shadows are real. A corpse in Pyongyang's main hotel---the Koryo---pulls Inspector O into a confrontation of bad choices between the devils he knows and those he doesn't want to meet. A blue button on the floor of a hotel closet, an ice blue Finnish lake, and desperate efforts by the North Korean leadership set Inspector O on a journey to the edge of a reality he almost can't survive. <br />Like Philip Kerr's Berlin Noir trilogy and the Inspector Arkady Renko novels, <i>A Corpse in the Koryo</i> introduces another unfamiliar world, a perplexing universe seemingly so alien that the rules are an enigma to the reader and even, sometimes, to Inspector O. Author James Church weaves a story with beautifully spare prose and layered descriptions of a country and a people he knows by heart after decades as an intelligence officer. This is a chilling portrayal that, in the end, leaves us wondering if what at first seemed unknowable may simply be too familiar for comfort. Critical Acclaim for <i>The Corpse in the Koryo</i><br /> <br />"This is a fine, intelligent, and exciting story that takes us into the netherworld of contemporary North Korean communism. It evokes the gray milieu without ever overstepping its mark, allowing us to see it from the inside rather than the outside, wherein the humanity of all the characters, both good and evil, is apparent. Inspector O is a particularly wonderful creation, a true mensch attempting to hold on to his humanity in a world where humanism is under constant attack. Subtlety is the method, and the result is fantastic work that should mark the beginning of a brilliant career for James Church." <br />---Olen Steinhauer, author of <i>Liberation Movements</i><br /> <br />"For over fifty years Americans have tried to understand the world of North Korea. James Church does a better job of describing the isolated, impoverished, corrupt, and out- of-touch life in the North than anything I have seen. This novel is a must-read for anyone who would understand how precarious the dictatorship is."<br />---Newt Gingrich, author of <i>Winning Back the Future</i> and <i>Never Call Retreat</i><br /> <br />"A gripping story of mystery and intrigue. The laconic Inspector O follows in the traditions of Inspector Arkady Renko, operating in a world of complexity and danger we're meeting here for the first time." <br />---Don Oberdorfer, author of <i>Tet!</i> <br /><br />"Church's debut thriller breaks new ground. O is an original. This is an expert take on a complex, brutal, and mystifying society. Immerse yourself in it." <br />---Marshall Browne, author of <i>Eye of the Abyss</i> and the Inspector Anders series <br /> <br />"<i>The Corpse in the Koryo</i> is a spellbinder. Bloody and chilling, yet subtle in its psychological detail, with an amazing understanding of North Korea." <br />---Ezra F. Vogel, Henry Ford II Professor of the Social Sciences, Harvard University Asia Center<br /> <br />"The (pseudonymous) author, a veteran intelligence officer, has intimate knowledge of Asian life and politics, and it shows: He gives the North Korea setting a feeling of palpable reality, depicting the nature of daily life under a totalitarian government not just with broad sociopolitical descriptions but also with specific everyday details. . . . There is also a little of Martin Cruz Smith's early Arkady Renko novels here. The writing is superb, too, well above the level usually associated with a first novel, richly layered and visually evocative." <br /><i>---Booklist</i> (starred review)

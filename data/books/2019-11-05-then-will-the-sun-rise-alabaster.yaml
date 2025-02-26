@@ -1,0 +1,751 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.85'
+    id: '6569623'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1395154938p5/6569623.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/6569623.Benjanun_Sriduangkaew
+    name: Benjanun Sriduangkaew
+    ratings_count: '9306'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1395154938p2/6569623.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '1477'
+average_rating: '4.21'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2019-11-05T00:00:00-08:00'
+description: On a remote planet, a convent harbors a deadly secret buried beneath
+  quiet violence--a secret that the woman known only as the Alabaster Admiral will
+  obtain at any cost. Set in the same universe as <i>And Shall Machines Surrender</i>.
+  <br />
+edition_information: null
+format: null
+id: '48690716'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn: '1607015374'
+isbn13: '9781607015376'
+json: '{"id": "48690716", "isbn": "1607015374", "isbn13": "9781607015376", "text_reviews_count":
+  {"@type": "integer", "#text": "18"}, "uri": "kca://book/amzn1.gr.book.v3.d6uLkjt6ZlHIfmL1",
+  "title": "Then Will the Sun Rise Alabaster", "title_without_series": "Then Will
+  the Sun Rise Alabaster", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/48690716-then-will-the-sun-rise-alabaster",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "4.21", "ratings_count": "296", "description": "On a remote planet, a convent harbors
+  a deadly secret buried beneath quiet violence--a secret that the woman known only
+  as the Alabaster Admiral will obtain at any cost. Set in the same universe as <i>And
+  Shall Machines Surrender</i>. <br />", "authors": {"author": {"id": "6569623", "name":
+  "Benjanun Sriduangkaew", "role": null, "image_url": {"@nophoto": "false", "#text":
+  "https://images.gr-assets.com/authors/1395154938p5/6569623.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1395154938p2/6569623.jpg"},
+  "link": "https://www.goodreads.com/author/show/6569623.Benjanun_Sriduangkaew", "average_rating":
+  "3.85", "ratings_count": "9306", "text_reviews_count": "1477"}}, "published": null,
+  "work": {"id": "74036280", "uri": "kca://work/amzn1.gr.work.v2.eea0d0fa-cb5e-4549-8424-b64b7c183549"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/3038155053",
+  "read_at": "Tue Nov 05 00:00:00 -0800 2019", "started_at": "Tue Nov 05 00:00:00
+  -0800 2019", "date": "Tue Nov 05 00:00:00 -0800 2019"}'
+kindle_asin: B07ZN3Q2WM
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/48690716-then-will-the-sun-rise-alabaster
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '297'
+    '@name': to-read
+  - '@count': '55'
+    '@name': currently-reading
+  - '@count': '13'
+    '@name': science-fiction
+  - '@count': '11'
+    '@name': sci-fi
+  - '@count': '8'
+    '@name': lgbt
+  - '@count': '4'
+    '@name': queer
+  - '@count': '4'
+    '@name': scifi
+  - '@count': '3'
+    '@name': short-story
+  - '@count': '3'
+    '@name': short-stories
+  - '@count': '3'
+    '@name': favorites
+  - '@count': '3'
+    '@name': kindle
+  - '@count': '3'
+    '@name': fiction
+  - '@count': '2'
+    '@name': series
+  - '@count': '2'
+    '@name': fantasy
+  - '@count': '2'
+    '@name': novella
+  - '@count': '2'
+    '@name': standalone
+  - '@count': '2'
+    '@name': sci-fi-fantasy
+  - '@count': '2'
+    '@name': lgbtq
+  - '@count': '1'
+    '@name': nop-xp
+  - '@count': '1'
+    '@name': gender
+  - '@count': '1'
+    '@name': 2-ebook-kindle-amazon
+  - '@count': '1'
+    '@name': lgbtqia
+  - '@count': '1'
+    '@name': avoid
+  - '@count': '1'
+    '@name': g-sciencefiction
+  - '@count': '1'
+    '@name': f-shortstories
+  - '@count': '1'
+    '@name': sff-adult
+  - '@count': '1'
+    '@name': novelettes-and-shorts
+  - '@count': '1'
+    '@name': favorite-author
+  - '@count': '1'
+    '@name': new-suns
+  - '@count': '1'
+    '@name': books-i-own
+  - '@count': '1'
+    '@name': adult
+  - '@count': '1'
+    '@name': woman-protagonist
+  - '@count': '1'
+    '@name': shelved
+  - '@count': '1'
+    '@name': sf
+  - '@count': '1'
+    '@name': no-no-series
+  - '@count': '1'
+    '@name': queer-want-to-read
+  - '@count': '1'
+    '@name': 0-0n-kindle-oasis-2
+  - '@count': '1'
+    '@name': book-to-read
+  - '@count': '1'
+    '@name': fiction_science-fiction
+  - '@count': '1'
+    '@name': lesbian-queer-sci-fi
+  - '@count': '1'
+    '@name': x-adult
+  - '@count': '1'
+    '@name': highkey-wlw
+  - '@count': '1'
+    '@name': adult-genre
+  - '@count': '1'
+    '@name': third-person-pov
+  - '@count': '1'
+    '@name': short-stories-collections-novellas
+  - '@count': '1'
+    '@name': poc-secondary-characters
+  - '@count': '1'
+    '@name': poc-protagonists
+  - '@count': '1'
+    '@name': lgbtqai-protagonists
+  - '@count': '1'
+    '@name': issues-without-preaching
+  - '@count': '1'
+    '@name': girls-owning-their-sexuality
+  - '@count': '1'
+    '@name': girls-kicking-ass-and-taking-names
+  - '@count': '1'
+    '@name': fucked-up-in-so-many-ways
+  - '@count': '1'
+    '@name': decadent
+  - '@count': '1'
+    '@name': body-image
+  - '@count': '1'
+    '@name': automatic-buy-authors
+  - '@count': '1'
+    '@name': to-read-fiction-on-dropbox
+  - '@count': '1'
+    '@name': 0-genre-mystery
+  - '@count': '1'
+    '@name': 0-genre-lgbtq
+  - '@count': '1'
+    '@name': 0-genre-fantasy
+  - '@count': '1'
+    '@name': asian-sff
+  - '@count': '1'
+    '@name': sci-fi-and-fantasy
+  - '@count': '1'
+    '@name': sapphic
+  - '@count': '1'
+    '@name': kindle-e-books
+  - '@count': '1'
+    '@name': as
+  - '@count': '1'
+    '@name': kindle-tbr
+  - '@count': '1'
+    '@name': next-gen-der
+  - '@count': '1'
+    '@name': to-go-through
+  - '@count': '1'
+    '@name': artificial-intelligence
+  - '@count': '1'
+    '@name': space-opera
+  - '@count': '1'
+    '@name': scribd-book
+  - '@count': '1'
+    '@name': science-fantasy
+  - '@count': '1'
+    '@name': part-of-series
+  - '@count': '1'
+    '@name': nuns-convent
+  - '@count': '1'
+    '@name': 2021-reads
+  - '@count': '1'
+    '@name': lts
+  - '@count': '1'
+    '@name': authors-female-sf-my-challenge
+  - '@count': '1'
+    '@name': all-science
+  - '@count': '1'
+    '@name': all-sci-fi-my-challenge
+  - '@count': '1'
+    '@name': a1-i-own-books
+  - '@count': '1'
+    '@name': h
+  - '@count': '1'
+    '@name': sapphic-reading-challenge-2021
+  - '@count': '1'
+    '@name': female-lead
+  - '@count': '1'
+    '@name': f-f
+  - '@count': '1'
+    '@name': interesting
+  - '@count': '1'
+    '@name': status-reviewed
+  - '@count': '1'
+    '@name': erotica-romance
+  - '@count': '1'
+    '@name': s-s
+  - '@count': '1'
+    '@name': type-short-fiction
+  - '@count': '1'
+    '@name': amazing-eights
+  - '@count': '1'
+    '@name': religion
+  - '@count': '1'
+    '@name': gay
+  - '@count': '1'
+    '@name': future-war
+  - '@count': '1'
+    '@name': ai
+  - '@count': '1'
+    '@name': 2021-challenge
+  - '@count': '1'
+    '@name': rep-poc
+  - '@count': '1'
+    '@name': rep-nonbinary
+  - '@count': '1'
+    '@name': rep-queer
+  - '@count': '1'
+    '@name': nsfw
+  - '@count': '1'
+    '@name': genre-scifi-sf
+  - '@count': '1'
+    '@name': maybe-finish-sometime
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '296'
+read_at: '2019-11-05T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/3038155053
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/48690716-then-will-the-sun-rise-alabaster\"\
+  >Then Will the Sun Rise Alabaster Reviews</a></h1></div>\n  <iframe sandbox id=\"\
+  the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1607015374&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/48690716-then-will-the-sun-rise-alabaster?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '1818860'
+    series:
+      description: null
+      id: '320639'
+      note: null
+      numbered: 'true'
+      primary_work_count: '6'
+      series_works_count: '9'
+      title: Machine Mandate
+    user_position: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '7705004'
+        link: https://www.goodreads.com/author/show/7705004.Fonda_Lee
+        name: Fonda Lee
+    average_rating: '4.21'
+    id: '60784305'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658089352l/60784305._SX98_.jpg
+    isbn: '1250842468'
+    isbn13: '9781250842466'
+    link: https://www.goodreads.com/book/show/60784305-untethered-sky
+    num_pages: '150'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '296'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658089352l/60784305._SY75_.jpg
+    title: Untethered Sky
+    title_without_series: Untethered Sky
+    uri: kca://book/amzn1.gr.book.v3.K-n7tKze_JjhBY9n
+    work:
+      id: '95316426'
+  - authors:
+      author:
+        id: '21942543'
+        link: https://www.goodreads.com/author/show/21942543.Maria_Ying
+        name: Maria Ying
+    average_rating: '4.21'
+    id: '60665292'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647875508l/60665292._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/60665292-the-grace-of-sorcerers
+    num_pages: '218'
+    publication_day: '16'
+    publication_month: '6'
+    publication_year: '2022'
+    ratings_count: '296'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647875508l/60665292._SY75_.jpg
+    title: 'The Grace of Sorcerers (Those Who Break Chains, #1)'
+    title_without_series: The Grace of Sorcerers
+    uri: kca://book/amzn1.gr.book.v3.Azj47UpwlqMdGiSz
+    work:
+      id: '95631187'
+  - authors:
+      author:
+        id: '21942543'
+        link: https://www.goodreads.com/author/show/21942543.Maria_Ying
+        name: Maria Ying
+    average_rating: '4.21'
+    id: '59425689'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/59425689-the-gunrunner-and-her-hound
+    num_pages: '148'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '296'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Gunrunner and Her Hound (Those Who Bear Arms, #1)'
+    title_without_series: The Gunrunner and Her Hound
+    uri: kca://book/amzn1.gr.book.v3.mj66qpLFNEvnQS0n
+    work:
+      id: '93602687'
+  - authors:
+      author:
+        id: '21942543'
+        link: https://www.goodreads.com/author/show/21942543.Maria_Ying
+        name: Maria Ying
+    average_rating: '4.21'
+    id: '184447530'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703879742l/184447530._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/184447530-the-hades-calculus
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '296'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703879742l/184447530._SY75_.jpg
+    title: 'The Hades Calculus (Gunmetal Olympus, #1)'
+    title_without_series: The Hades Calculus
+    uri: kca://book/amzn1.gr.book.v3.kI98neZadm88vtqL
+    work:
+      id: '188268360'
+  - authors:
+      author:
+        id: '21942543'
+        link: https://www.goodreads.com/author/show/21942543.Maria_Ying
+        name: Maria Ying
+    average_rating: '4.21'
+    id: '61436175'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662053125l/61436175._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/61436175-the-might-of-monsters
+    num_pages: '322'
+    publication_day: '16'
+    publication_month: '11'
+    publication_year: '2022'
+    ratings_count: '296'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662053125l/61436175._SY75_.jpg
+    title: 'The Might of Monsters (Those Who Break Chains, #2)'
+    title_without_series: The Might of Monsters
+    uri: kca://book/amzn1.gr.book.v3.1G5TGm7zpi8a4RkH
+    work:
+      id: '96958675'
+  - authors:
+      author:
+        id: '25119414'
+        link: https://www.goodreads.com/author/show/25119414.M_Zakharuk
+        name: M Zakharuk
+    average_rating: '4.21'
+    id: '213233746'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715459830l/213233746._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/213233746-all-orbits-decay-homeward
+    num_pages: null
+    publication_day: null
+    publication_month: '5'
+    publication_year: '2024'
+    ratings_count: '296'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715459830l/213233746._SX50_.jpg
+    title: All Orbits Decay Homeward
+    title_without_series: All Orbits Decay Homeward
+    uri: kca://book/amzn1.gr.book.v3.MQqTpIuGF-Izl-90
+    work:
+      id: '112017331'
+  - authors:
+      author:
+        id: '22425832'
+        link: https://www.goodreads.com/author/show/22425832.Alyson_Greaves
+        name: Alyson Greaves
+    average_rating: '4.21'
+    id: '61098513'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652618882l/61098513._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/61098513-welcome-to-dorley-hall
+    num_pages: '511'
+    publication_day: '30'
+    publication_month: '5'
+    publication_year: '2022'
+    ratings_count: '296'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652618882l/61098513._SY75_.jpg
+    title: 'Welcome to Dorley Hall (The Sisters of Dorley, #1)'
+    title_without_series: Welcome to Dorley Hall
+    uri: kca://book/amzn1.gr.book.v3.QkaOPRzm8JSt1mcE
+    work:
+      id: '96301201'
+  - authors:
+      author:
+        id: '48802523'
+        link: https://www.goodreads.com/author/show/48802523.Kay_F_Atkinson
+        name: Kay F. Atkinson
+    average_rating: '4.21'
+    id: '221184440'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1730707101l/221184440._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/221184440-a-quiet-universe
+    num_pages: '369'
+    publication_day: '12'
+    publication_month: '6'
+    publication_year: '2024'
+    ratings_count: '296'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1730707101l/221184440._SY75_.jpg
+    title: A Quiet Universe (Fleet and Fabricant Book 1)
+    title_without_series: A Quiet Universe
+    uri: kca://book/amzn1.gr.book.v3.XrgtfVq5Fc_lnrhF
+    work:
+      id: '215524734'
+  - authors:
+      author:
+        id: '21942543'
+        link: https://www.goodreads.com/author/show/21942543.Maria_Ying
+        name: Maria Ying
+    average_rating: '4.21'
+    id: '61250143'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662052852l/61250143._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/61250143-the-demon-of-the-house-of-hua
+    num_pages: '57'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '296'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662052852l/61250143._SY75_.jpg
+    title: The Demon of the House of Hua (Those Who Break Chains)
+    title_without_series: The Demon of the House of Hua
+    uri: kca://book/amzn1.gr.book.v3.EJsRN7c9IxVRW4M8
+    work:
+      id: '96569109'
+  - authors:
+      author:
+        id: '17547308'
+        link: https://www.goodreads.com/author/show/17547308.Hadeer_Elsbai
+        name: Hadeer Elsbai
+    average_rating: '4.21'
+    id: '181110065'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1690379450l/181110065._SX98_.jpg
+    isbn: 0063114801
+    isbn13: '9780063114807'
+    link: https://www.goodreads.com/book/show/181110065-the-weavers-of-alamaxa
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '296'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1690379450l/181110065._SY75_.jpg
+    title: 'The Weavers of Alamaxa (The Alamaxa Duology, #2)'
+    title_without_series: The Weavers of Alamaxa
+    uri: kca://book/amzn1.gr.book.v3.2sidH-sovjNbboak
+    work:
+      id: '145255083'
+  - authors:
+      author:
+        id: '15862877'
+        link: https://www.goodreads.com/author/show/15862877.Rebecca_Roanhorse
+        name: Rebecca Roanhorse
+    average_rating: '4.21'
+    id: '60656015'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695054550l/60656015._SX98_.jpg
+    isbn: '1534437703'
+    isbn13: '9781534437708'
+    link: https://www.goodreads.com/book/show/60656015-mirrored-heavens
+    num_pages: '597'
+    publication_day: '4'
+    publication_month: '6'
+    publication_year: '2024'
+    ratings_count: '296'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695054550l/60656015._SY75_.jpg
+    title: 'Mirrored Heavens (Between Earth and Sky, #3)'
+    title_without_series: Mirrored Heavens
+    uri: kca://book/amzn1.gr.book.v3.qx7vHKfwssuESD60
+    work:
+      id: '95619015'
+  - authors:
+      author:
+        id: '22330219'
+        link: https://www.goodreads.com/author/show/22330219.Ness_Brown
+        name: Ness Brown
+    average_rating: '4.21'
+    id: '60784410'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659452625l/60784410._SX98_.jpg
+    isbn: '1250834686'
+    isbn13: '9781250834683'
+    link: https://www.goodreads.com/book/show/60784410-the-scourge-between-stars
+    num_pages: '165'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '296'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659452625l/60784410._SY75_.jpg
+    title: The Scourge Between Stars
+    title_without_series: The Scourge Between Stars
+    uri: kca://book/amzn1.gr.book.v3.T8LPHY1d9ez4C6fD
+    work:
+      id: '95740090'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.21'
+    id: '42201505'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539510199l/42201505._SX98_.jpg
+    isbn: '1781087067'
+    isbn13: '9781781087060'
+    link: https://www.goodreads.com/book/show/42201505-walking-to-aldebaran
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '296'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539510199l/42201505._SX50_.jpg
+    title: Walking to Aldebaran
+    title_without_series: Walking to Aldebaran
+    uri: kca://book/amzn1.gr.book.v1.ghgQEK5bpV7cZaVbGfvrWQ
+    work:
+      id: '65814044'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.21'
+    id: '61273440'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657045409l/61273440._SX98_.jpg
+    isbn: '1786188791'
+    isbn13: '9781786188793'
+    link: https://www.goodreads.com/book/show/61273440-and-put-away-childish-things
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '296'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657045409l/61273440._SY75_.jpg
+    title: And Put Away Childish Things
+    title_without_series: And Put Away Childish Things
+    uri: kca://book/amzn1.gr.book.v3.0UVCFc_AmxoDUiSQ
+    work:
+      id: '96612116'
+  - authors:
+      author:
+        id: '639491'
+        link: https://www.goodreads.com/author/show/639491.Django_Wexler
+        name: Django Wexler
+    average_rating: '4.21'
+    id: '198493860'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0316392200
+    isbn13: '9780316392204'
+    link: https://www.goodreads.com/book/show/198493860-how-to-become-the-dark-lord-and-die-trying
+    num_pages: '392'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '296'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'How to Become the Dark Lord and Die Trying (Dark Lord Davi #1)'
+    title_without_series: How to Become the Dark Lord and Die Trying
+    uri: kca://book/amzn1.gr.book.v3.teR0iuhP7p_dT80g
+    work:
+      id: '185127152'
+  - authors:
+      author:
+        id: '15735471'
+        link: https://www.goodreads.com/author/show/15735471.M_L_Wang
+        name: M.L. Wang
+    average_rating: '4.21'
+    id: '208430658'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717354584l/208430658._SX98_.jpg
+    isbn: 0593873351
+    isbn13: '9780593873359'
+    link: https://www.goodreads.com/book/show/208430658-blood-over-bright-haven
+    num_pages: '430'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '296'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717354584l/208430658._SY75_.jpg
+    title: Blood Over Bright Haven
+    title_without_series: Blood Over Bright Haven
+    uri: kca://book/amzn1.gr.book.v3.a-G1qBCHxerdd1QH
+    work:
+      id: '90736001'
+  - authors:
+      author:
+        id: '15117586'
+        link: https://www.goodreads.com/author/show/15117586.P_Dj_l_Clark
+        name: "P. Dj\xE8l\xED Clark"
+    average_rating: '4.21'
+    id: '127305606'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684868626l/127305606._SX98_.jpg
+    isbn: '1250767040'
+    isbn13: '9781250767042'
+    link: https://www.goodreads.com/book/show/127305606-the-dead-cat-tail-assassins
+    num_pages: '213'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '296'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684868626l/127305606._SY75_.jpg
+    title: The Dead Cat Tail Assassins
+    title_without_series: The Dead Cat Tail Assassins
+    uri: kca://book/amzn1.gr.book.v3.HBekZCt23OnVaoSt
+    work:
+      id: '148401797'
+  - authors:
+      author:
+        id: '22470613'
+        link: https://www.goodreads.com/author/show/22470613.L_M_Sagas
+        name: L.M. Sagas
+    average_rating: '4.21'
+    id: '127280776'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685353521l/127280776._SX98_.jpg
+    isbn: '1250871255'
+    isbn13: '9781250871251'
+    link: https://www.goodreads.com/book/show/127280776-cascade-failure
+    num_pages: '407'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '296'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685353521l/127280776._SY75_.jpg
+    title: 'Cascade Failure (Ambit''s Run, #1)'
+    title_without_series: Cascade Failure
+    uri: kca://book/amzn1.gr.book.v3.VrS5pXS-I4PF0I0q
+    work:
+      id: '96572122'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: '2019-11-05T00:00:00-08:00'
+text_reviews_count:
+  '#text': '18'
+  '@type': integer
+title: Then Will the Sun Rise Alabaster
+title_without_series: Then Will the Sun Rise Alabaster
+uri: kca://book/amzn1.gr.book.v3.d6uLkjt6ZlHIfmL1
+url: https://www.goodreads.com/book/show/48690716-then-will-the-sun-rise-alabaster
+work:
+  id: '74036280'
+  uri: kca://work/amzn1.gr.work.v2.eea0d0fa-cb5e-4549-8424-b64b7c183549

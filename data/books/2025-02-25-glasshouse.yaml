@@ -1,0 +1,737 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.91'
+    id: '8794'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1355510574p5/8794.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/8794.Charles_Stross
+    name: Charles Stross
+    ratings_count: '274483'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1355510574p2/8794.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '18236'
+average_rating: '3.88'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: In the twenty-seventh century, accelerated technology dictates the memories
+  and personalities of people. With most of his own memories deleted, Robin enters
+  The Glasshouse-an experimental polity where he finds himself at the mercy of his
+  own unbalanced psyche.
+edition_information: Reprint
+format: Mass Market Paperback
+id: '656872'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: 0441015085
+isbn13: '9780441015085'
+json: '{"id": "656872", "isbn": "0441015085", "isbn13": "9780441015085", "text_reviews_count":
+  {"@type": "integer", "#text": "62"}, "uri": "kca://book/amzn1.gr.book.v1.5PiGS4HTj1P8coo0kp0ETQ",
+  "title": "Glasshouse", "title_without_series": "Glasshouse", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/656872.Glasshouse",
+  "num_pages": "333", "format": "Mass Market Paperback", "edition_information": "Reprint",
+  "publisher": null, "publication_day": null, "publication_year": null, "publication_month":
+  null, "average_rating": "3.88", "ratings_count": "11525", "description": "In the
+  twenty-seventh century, accelerated technology dictates the memories and personalities
+  of people. With most of his own memories deleted, Robin enters The Glasshouse-an
+  experimental polity where he finds himself at the mercy of his own unbalanced psyche.",
+  "authors": {"author": {"id": "8794", "name": "Charles Stross", "role": null, "image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1355510574p5/8794.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1355510574p2/8794.jpg"},
+  "link": "https://www.goodreads.com/author/show/8794.Charles_Stross", "average_rating":
+  "3.91", "ratings_count": "274483", "text_reviews_count": "18236"}}, "published":
+  null, "work": {"id": "930588", "uri": "kca://work/amzn1.gr.work.v1.LQU0WXSc9h2Wbo6i6iy16g"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/12429086",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B001161L6O
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/656872.Glasshouse
+marketplace_id: ATVPDKIKX0DER
+num_pages: '333'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '8495'
+    '@name': to-read
+  - '@count': '568'
+    '@name': science-fiction
+  - '@count': '389'
+    '@name': sci-fi
+  - '@count': '191'
+    '@name': fiction
+  - '@count': '181'
+    '@name': currently-reading
+  - '@count': '118'
+    '@name': scifi
+  - '@count': '95'
+    '@name': sf
+  - '@count': '80'
+    '@name': owned
+  - '@count': '67'
+    '@name': favorites
+  - '@count': '57'
+    '@name': cyberpunk
+  - '@count': '30'
+    '@name': default
+  - '@count': '25'
+    '@name': library
+  - '@count': '24'
+    '@name': sci-fi-fantasy
+  - '@count': '20'
+    '@name': audiobook
+  - '@count': '20'
+    '@name': dystopia
+  - '@count': '17'
+    '@name': speculative-fiction
+  - '@count': '17'
+    '@name': science
+  - '@count': '16'
+    '@name': thriller
+  - '@count': '16'
+    '@name': fantasy
+  - '@count': '15'
+    '@name': scifi-fantasy
+  - '@count': '15'
+    '@name': dystopian
+  - '@count': '14'
+    '@name': audiobooks
+  - '@count': '14'
+    '@name': singularity
+  - '@count': '14'
+    '@name': ebook
+  - '@count': '13'
+    '@name': unread
+  - '@count': '13'
+    '@name': hard-sci-fi
+  - '@count': '13'
+    '@name': kindle
+  - '@count': '12'
+    '@name': to-buy
+  - '@count': '12'
+    '@name': transhumanism
+  - '@count': '12'
+    '@name': sciencefiction
+  - '@count': '11'
+    '@name': audio
+  - '@count': '11'
+    '@name': mystery
+  - '@count': '11'
+    '@name': wish-list
+  - '@count': '11'
+    '@name': sff
+  - '@count': '10'
+    '@name': dnf
+  - '@count': '10'
+    '@name': book-club
+  - '@count': '10'
+    '@name': science-fiction-fantasy
+  - '@count': '10'
+    '@name': sf-fantasy
+  - '@count': '10'
+    '@name': abandoned
+  - '@count': '9'
+    '@name': space-opera
+  - '@count': '9'
+    '@name': sci-fi-to-read
+  - '@count': '9'
+    '@name': charles-stross
+  - '@count': '9'
+    '@name': hugo-nominee
+  - '@count': '8'
+    '@name': physical
+  - '@count': '8'
+    '@name': hard-sf
+  - '@count': '8'
+    '@name': did-not-finish
+  - '@count': '8'
+    '@name': owned-books
+  - '@count': '8'
+    '@name': audible
+  - '@count': '8'
+    '@name': hugo-nominees
+  - '@count': '8'
+    '@name': space
+  - '@count': '8'
+    '@name': books-i-own
+  - '@count': '8'
+    '@name': sf-f
+  - '@count': '8'
+    '@name': novel
+  - '@count': '7'
+    '@name': future
+  - '@count': '7'
+    '@name': want-to-read
+  - '@count': '7'
+    '@name': recommended
+  - '@count': '6'
+    '@name': genre-science-fiction
+  - '@count': '6'
+    '@name': transhuman
+  - '@count': '6'
+    '@name': paperback
+  - '@count': '6'
+    '@name': my-library
+  - '@count': '6'
+    '@name': hugo
+  - '@count': '6'
+    '@name': 21st-century
+  - '@count': '6'
+    '@name': english
+  - '@count': '6'
+    '@name': gender
+  - '@count': '6'
+    '@name': 2000s
+  - '@count': '5'
+    '@name': audio_owned
+  - '@count': '5'
+    '@name': to-read-sci-fi
+  - '@count': '5'
+    '@name': sociology
+  - '@count': '5'
+    '@name': bookclub
+  - '@count': '5'
+    '@name': novels
+  - '@count': '5'
+    '@name': books
+  - '@count': '5'
+    '@name': borrowed
+  - '@count': '5'
+    '@name': stand-alone
+  - '@count': '5'
+    '@name': ebooks
+  - '@count': '4'
+    '@name': not-interested
+  - '@count': '4'
+    '@name': my-books
+  - '@count': '4'
+    '@name': favourites
+  - '@count': '4'
+    '@name': 4-stars
+  - '@count': '4'
+    '@name': hugo-nominated
+  - '@count': '4'
+    '@name': psychology
+  - '@count': '4'
+    '@name': read-in-2013
+  - '@count': '4'
+    '@name': read-next
+  - '@count': '4'
+    '@name': maybe
+  - '@count': '4'
+    '@name': e-book
+  - '@count': '4'
+    '@name': queer
+  - '@count': '4'
+    '@name': calibre
+  - '@count': '4'
+    '@name': to-read-scifi
+  - '@count': '4'
+    '@name': unfinished
+  - '@count': '4'
+    '@name': to-read-fiction
+  - '@count': '4'
+    '@name': paper
+  - '@count': '4'
+    '@name': spec-fic
+  - '@count': '4'
+    '@name': speculative
+  - '@count': '4'
+    '@name': hugo-award-nominee
+  - '@count': '4'
+    '@name': fun
+  - '@count': '4'
+    '@name': adult
+  - '@count': '4'
+    '@name': cyber-punk
+  - '@count': '4'
+    '@name': series
+  - '@count': '3'
+    '@name': hugo-finalist
+  - '@count': '3'
+    '@name': interested
+  - '@count': '3'
+    '@name': lgbt
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '11525'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/12429086
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/656872.Glasshouse\"\
+  >Glasshouse Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0441015085&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/656872.Glasshouse?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '14407836'
+        link: https://www.goodreads.com/author/show/14407836.A_R_Merrydew
+        name: A.R. Merrydew
+    average_rating: '3.88'
+    id: '215186841'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/215186841-inara
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11525'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Inara (Godfrey Davis, #3)'
+    title_without_series: Inara
+    uri: kca://book/amzn1.gr.book.v3.wCOHuKhf0nZUkB2e
+    work:
+      id: '221595685'
+  - authors:
+      author:
+        id: '22565447'
+        link: https://www.goodreads.com/author/show/22565447.Therisa_Peimer
+        name: Therisa Peimer
+    average_rating: '3.88'
+    id: '61608233'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658244114l/61608233._SX98_.jpg
+    isbn: '1039125611'
+    isbn13: '9781039125612'
+    link: https://www.goodreads.com/book/show/61608233-taming-flame
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11525'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658244114l/61608233._SX50_.jpg
+    title: Taming Flame
+    title_without_series: Taming Flame
+    uri: kca://book/amzn1.gr.book.v3.clKIDY7JJdvmz7KB
+    work:
+      id: '97169008'
+  - authors:
+      author:
+        id: '9226'
+        link: https://www.goodreads.com/author/show/9226.William_Gibson
+        name: William Gibson
+    average_rating: '3.88'
+    id: '22321'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0425190447
+    isbn13: '9780425190449'
+    link: https://www.goodreads.com/book/show/22321.All_Tomorrow_s_Parties
+    num_pages: '341'
+    publication_day: null
+    publication_month: '1'
+    publication_year: '2003'
+    ratings_count: '11525'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'All Tomorrow''s Parties (Bridge, #3)'
+    title_without_series: All Tomorrow's Parties
+    uri: kca://book/amzn1.gr.book.v1.9-_yJhQ4iA8EvaADpYCfOQ
+    work:
+      id: '513838'
+  - authors:
+      author:
+        id: '7246594'
+        link: https://www.goodreads.com/author/show/7246594.Jennifer_Foehner_Wells
+        name: Jennifer Foehner Wells
+    average_rating: '3.88'
+    id: '22566044'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403451883l/22566044._SX98_.jpg
+    isbn: 0990479803
+    isbn13: '9780990479802'
+    link: https://www.goodreads.com/book/show/22566044-fluency
+    num_pages: '250'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11525'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403451883l/22566044._SX50_.jpg
+    title: 'Fluency (Confluence, #1)'
+    title_without_series: Fluency
+    uri: kca://book/amzn1.gr.book.v1.Kf8K3utwWxygIVALYlyAxg
+    work:
+      id: '42028608'
+  - authors:
+      author:
+        id: '6899673'
+        link: https://www.goodreads.com/author/show/6899673.Todor_Bombov
+        name: Todor Bombov
+    average_rating: '3.88'
+    id: '61085357'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652446489l/61085357._SX98_.jpg
+    isbn: '1682353761'
+    isbn13: '9781682353769'
+    link: https://www.goodreads.com/book/show/61085357-homo-cosmicus-2
+    num_pages: '152'
+    publication_day: '5'
+    publication_month: '4'
+    publication_year: '2022'
+    ratings_count: '11525'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652446489l/61085357._SY75_.jpg
+    title: 'Homo Cosmicus 2: Titan: A Science Fiction Novel'
+    title_without_series: 'Homo Cosmicus 2: Titan: A Science Fiction Novel'
+    uri: kca://book/amzn1.gr.book.v3.nhyNJvDXiLJZFgQk
+    work:
+      id: '96278683'
+  - authors:
+      author:
+        id: '7448339'
+        link: https://www.goodreads.com/author/show/7448339.Steven_Decker
+        name: Steven Decker
+    average_rating: '3.88'
+    id: '200923963'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698512599l/200923963._SX98_.jpg
+    isbn: null
+    isbn13: '9798987394014'
+    link: https://www.goodreads.com/book/show/200923963-child-of-another-kind
+    num_pages: '392'
+    publication_day: '18'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '11525'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698512599l/200923963._SY75_.jpg
+    title: 'Child of Another Kind (Another Kind #1)'
+    title_without_series: Child of Another Kind
+    uri: kca://book/amzn1.gr.book.v3.cpxUKP4J15at4iaw
+    work:
+      id: '144050375'
+  - authors:
+      author:
+        id: '32699'
+        link: https://www.goodreads.com/author/show/32699.Greg_Egan
+        name: Greg Egan
+    average_rating: '3.88'
+    id: '156775'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0061054232'
+    isbn13: '9780061054235'
+    link: https://www.goodreads.com/book/show/156775.Quarantine
+    num_pages: '280'
+    publication_day: '1'
+    publication_month: '1'
+    publication_year: '1995'
+    ratings_count: '11525'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Quarantine
+    title_without_series: Quarantine
+    uri: kca://book/amzn1.gr.book.v1.ZIhdUysjLzGS9M71ANUG8Q
+    work:
+      id: '1270545'
+  - authors:
+      author:
+        id: '14407836'
+        link: https://www.goodreads.com/author/show/14407836.A_R_Merrydew
+        name: A.R. Merrydew
+    average_rating: '3.88'
+    id: '29629427'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/29629427-our-blue-orange
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11525'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Our Blue Orange (Godfrey Davis, #1)'
+    title_without_series: Our Blue Orange
+    uri: kca://book/amzn1.gr.book.v1.qAfANj-ilH25rMdV-G7urQ
+    work:
+      id: '46793738'
+  - authors:
+      author:
+        id: '14220734'
+        link: https://www.goodreads.com/author/show/14220734.Malka_Ann_Older
+        name: Malka Ann Older
+    average_rating: '3.88'
+    id: '26114433'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444883445l/26114433._SX98_.jpg
+    isbn: 0765385155
+    isbn13: '9780765385154'
+    link: https://www.goodreads.com/book/show/26114433-infomocracy
+    num_pages: '380'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11525'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444883445l/26114433._SY75_.jpg
+    title: 'Infomocracy (The Centenal Cycle, #1)'
+    title_without_series: Infomocracy
+    uri: kca://book/amzn1.gr.book.v1.y5BoaKnYgKKEOedEKkskiw
+    work:
+      id: '46061300'
+  - authors:
+      author:
+        id: '1226977'
+        link: https://www.goodreads.com/author/show/1226977.Paolo_Bacigalupi
+        name: Paolo Bacigalupi
+    average_rating: '3.88'
+    id: '2819368'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391343246l/2819368._SX98_.jpg
+    isbn: 159780133X
+    isbn13: '9781597801331'
+    link: https://www.goodreads.com/book/show/2819368-pump-six-and-other-stories
+    num_pages: '239'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11525'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391343246l/2819368._SY75_.jpg
+    title: Pump Six and Other Stories
+    title_without_series: Pump Six and Other Stories
+    uri: kca://book/amzn1.gr.book.v1.4xg8HS3Z1Rjd1NZnYT_Ciw
+    work:
+      id: '2845301'
+  - authors:
+      author:
+        id: '21158'
+        link: https://www.goodreads.com/author/show/21158.Nancy_Kress
+        name: Nancy Kress
+    average_rating: '3.88'
+    id: '68333'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0060733489
+    isbn13: '9780060733483'
+    link: https://www.goodreads.com/book/show/68333.Beggars_in_Spain
+    num_pages: '400'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11525'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Beggars in Spain (Sleepless, #1)'
+    title_without_series: Beggars in Spain
+    uri: kca://book/amzn1.gr.book.v1.SQPB7UzIsCQSWFR5saCLzw
+    work:
+      id: '1813234'
+  - authors:
+      author:
+        id: '27276'
+        link: https://www.goodreads.com/author/show/27276.Robert_Charles_Wilson
+        name: Robert Charles Wilson
+    average_rating: '3.88'
+    id: '9359796'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312034516l/9359796._SX98_.jpg
+    isbn: '0765323427'
+    isbn13: '9780765323422'
+    link: https://www.goodreads.com/book/show/9359796-vortex
+    num_pages: '331'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11525'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312034516l/9359796._SY75_.jpg
+    title: 'Vortex (Spin, #3)'
+    title_without_series: Vortex
+    uri: kca://book/amzn1.gr.book.v1.KPn1wsJ9szFTW_yPTsthoQ
+    work:
+      id: '13438392'
+  - authors:
+      author:
+        id: '49111'
+        link: https://www.goodreads.com/author/show/49111.Samuel_R_Delany
+        name: Samuel R. Delany
+    average_rating: '3.88'
+    id: '85863'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320491578l/85863._SX98_.jpg
+    isbn: '0375706704'
+    isbn13: '9780375706707'
+    link: https://www.goodreads.com/book/show/85863.Nova
+    num_pages: '241'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11525'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320491578l/85863._SY75_.jpg
+    title: Nova
+    title_without_series: Nova
+    uri: kca://book/amzn1.gr.book.v1.8X_f_e4sv31JdYAZ4GaQkQ
+    work:
+      id: '953787'
+  - authors:
+      author:
+        id: '8835'
+        link: https://www.goodreads.com/author/show/8835.Tim_Powers
+        name: Tim Powers
+    average_rating: '3.88'
+    id: '142296'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344409006l/142296._SX98_.jpg
+    isbn: '0441004016'
+    isbn13: '9780441004010'
+    link: https://www.goodreads.com/book/show/142296.The_Anubis_Gates
+    num_pages: '387'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11525'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344409006l/142296._SY75_.jpg
+    title: The Anubis Gates
+    title_without_series: The Anubis Gates
+    uri: kca://book/amzn1.gr.book.v1.RYDEriAo1kTtdSKyJmgVyg
+    work:
+      id: '2193115'
+  - authors:
+      author:
+        id: '7779'
+        link: https://www.goodreads.com/author/show/7779.Arthur_C_Clarke
+        name: Arthur C. Clarke
+    average_rating: '3.88'
+    id: '823062'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315596650l/823062._SX98_.jpg
+    isbn: 0812576403
+    isbn13: '9780812576405'
+    link: https://www.goodreads.com/book/show/823062.The_Light_of_Other_Days
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11525'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315596650l/823062._SY75_.jpg
+    title: The Light of Other Days
+    title_without_series: The Light of Other Days
+    uri: kca://book/amzn1.gr.book.v1.Ngd9DSshojgNGFsZoRVarw
+    work:
+      id: '924161'
+  - authors:
+      author:
+        id: '27276'
+        link: https://www.goodreads.com/author/show/27276.Robert_Charles_Wilson
+        name: Robert Charles Wilson
+    average_rating: '3.88'
+    id: '116410'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312044997l/116410._SX98_.jpg
+    isbn: 0765309394
+    isbn13: '9780765309396'
+    link: https://www.goodreads.com/book/show/116410.Axis
+    num_pages: '303'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11525'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312044997l/116410._SY75_.jpg
+    title: 'Axis (Spin, #2)'
+    title_without_series: Axis
+    uri: kca://book/amzn1.gr.book.v1.K5ISt5RQ4mUFv8j-N7F0Rw
+    work:
+      id: '3364117'
+  - authors:
+      author:
+        id: '27167'
+        link: https://www.goodreads.com/author/show/27167.Peter_Watts
+        name: Peter Watts
+    average_rating: '3.88'
+    id: '18490708'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380224957l/18490708._SX98_.jpg
+    isbn: 076532802X
+    isbn13: '9780765328021'
+    link: https://www.goodreads.com/book/show/18490708-echopraxia
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '11525'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380224957l/18490708._SX50_.jpg
+    title: 'Echopraxia (Firefall, #2)'
+    title_without_series: Echopraxia
+    uri: kca://book/amzn1.gr.book.v1.eGVfURdhlrI02un7zjZ1Vg
+    work:
+      id: '26174428'
+  - authors:
+      author:
+        id: '51204'
+        link: https://www.goodreads.com/author/show/51204.Alastair_Reynolds
+        name: Alastair Reynolds
+    average_rating: '3.88'
+    id: '9424053'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318599915l/9424053._SX98_.jpg
+    isbn: 0575088273
+    isbn13: '9780575088276'
+    link: https://www.goodreads.com/book/show/9424053-blue-remembered-earth
+    num_pages: '512'
+    publication_day: null
+    publication_month: '1'
+    publication_year: '2012'
+    ratings_count: '11525'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318599915l/9424053._SY75_.jpg
+    title: 'Blue Remembered Earth (Poseidon''s Children, #1)'
+    title_without_series: Blue Remembered Earth
+    uri: kca://book/amzn1.gr.book.v1.RYPKQYNmCuMfITJ9eZjIQg
+    work:
+      id: '14308470'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '62'
+  '@type': integer
+title: Glasshouse
+title_without_series: Glasshouse
+uri: kca://book/amzn1.gr.book.v1.5PiGS4HTj1P8coo0kp0ETQ
+url: https://www.goodreads.com/book/show/656872.Glasshouse
+work:
+  id: '930588'
+  uri: kca://work/amzn1.gr.work.v1.LQU0WXSc9h2Wbo6i6iy16g

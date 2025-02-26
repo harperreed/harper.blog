@@ -1,0 +1,758 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.91'
+    id: '12534'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1596428206p5/12534.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/12534.Larry_Niven
+    name: Larry Niven
+    ratings_count: '517023'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1596428206p2/12534.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '19756'
+average_rating: '3.75'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: The first interstellar ship, John Glenn, fled a solar system populated
+  by rogue AIs and machine/human hybrids, threatened by too much nanotechnology, and
+  rife with political dangers. The John Glenn's crew intended to terraform the nearly
+  pristine planet Ymir in hopes of creating a utopian society that will limit intelligent
+  technology, but by some miscalculation they have landed in the wrong system. Short
+  on the antimatter needed to continue to Ymir, they must shape nearby planet Harlequin's
+  moon, Selene, into a new, temporary home and rebuild their store of antimatter through
+  decades of terraforming. Gabriel, the head terraformer, now leads this nearly impossible
+  task; his primary tools the uneducated and nearly illiterate children of the original
+  colonists, born and bred to build Harlequin's moon into a virtual antimatter factory.
+  With no concept of the future and with life defined as duty, one girl, Rachel Vanowen,
+  begins to ask herself, what will become of the children of Selene once the terraforming
+  is complete?
+edition_information: 1st Printing, First Edition
+format: null
+id: '49789'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316638678l/49789._SX98_.jpg
+is_ebook: 'false'
+isbn: 0765351293
+isbn13: '9780765351296'
+json: '{"id": "49789", "isbn": "0765351293", "isbn13": "9780765351296", "text_reviews_count":
+  {"@type": "integer", "#text": "75"}, "uri": "kca://book/amzn1.gr.book.v1.3KflY1rhs3Y8HvtiZRiiug",
+  "title": "Building Harlequin''s Moon", "title_without_series": "Building Harlequin''s
+  Moon", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316638678l/49789._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316638678l/49789._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/49789.Building_Harlequin_s_Moon",
+  "num_pages": "501", "format": null, "edition_information": "1st Printing, First
+  Edition", "publisher": null, "publication_day": null, "publication_year": null,
+  "publication_month": null, "average_rating": "3.75", "ratings_count": "1396", "description":
+  "The first interstellar ship, John Glenn, fled a solar system populated by rogue
+  AIs and machine/human hybrids, threatened by too much nanotechnology, and rife with
+  political dangers. The John Glenn''s crew intended to terraform the nearly pristine
+  planet Ymir in hopes of creating a utopian society that will limit intelligent technology,
+  but by some miscalculation they have landed in the wrong system. Short on the antimatter
+  needed to continue to Ymir, they must shape nearby planet Harlequin''s moon, Selene,
+  into a new, temporary home and rebuild their store of antimatter through decades
+  of terraforming. Gabriel, the head terraformer, now leads this nearly impossible
+  task; his primary tools the uneducated and nearly illiterate children of the original
+  colonists, born and bred to build Harlequin''s moon into a virtual antimatter factory.
+  With no concept of the future and with life defined as duty, one girl, Rachel Vanowen,
+  begins to ask herself, what will become of the children of Selene once the terraforming
+  is complete?", "authors": {"author": {"id": "12534", "name": "Larry Niven", "role":
+  null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1596428206p5/12534.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1596428206p2/12534.jpg"},
+  "link": "https://www.goodreads.com/author/show/12534.Larry_Niven", "average_rating":
+  "3.91", "ratings_count": "517023", "text_reviews_count": "19756"}}, "published":
+  null, "work": {"id": "906153", "uri": "kca://work/amzn1.gr.work.v1.5U_lnsxvSNiWcI6ouVdetw"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417596",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B003GY0KNY
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/49789.Building_Harlequin_s_Moon
+marketplace_id: ATVPDKIKX0DER
+num_pages: '501'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '820'
+    '@name': to-read
+  - '@count': '121'
+    '@name': science-fiction
+  - '@count': '72'
+    '@name': currently-reading
+  - '@count': '55'
+    '@name': sci-fi
+  - '@count': '48'
+    '@name': owned
+  - '@count': '26'
+    '@name': fiction
+  - '@count': '22'
+    '@name': default
+  - '@count': '18'
+    '@name': scifi
+  - '@count': '17'
+    '@name': sf
+  - '@count': '11'
+    '@name': space-opera
+  - '@count': '7'
+    '@name': favorites
+  - '@count': '6'
+    '@name': books-i-own
+  - '@count': '6'
+    '@name': sci-fi-fantasy
+  - '@count': '6'
+    '@name': ebooks
+  - '@count': '6'
+    '@name': science
+  - '@count': '6'
+    '@name': larry-niven
+  - '@count': '5'
+    '@name': niven
+  - '@count': '4'
+    '@name': have
+  - '@count': '4'
+    '@name': kindle
+  - '@count': '4'
+    '@name': audiobook
+  - '@count': '4'
+    '@name': adventure
+  - '@count': '3'
+    '@name': audio_wanted
+  - '@count': '3'
+    '@name': audiobooks
+  - '@count': '3'
+    '@name': books
+  - '@count': '3'
+    '@name': paperback
+  - '@count': '3'
+    '@name': physical
+  - '@count': '3'
+    '@name': to-read-sci-fi
+  - '@count': '3'
+    '@name': '1'
+  - '@count': '3'
+    '@name': library
+  - '@count': '3'
+    '@name': niven-larry
+  - '@count': '3'
+    '@name': abandoned
+  - '@count': '3'
+    '@name': ebook
+  - '@count': '3'
+    '@name': space
+  - '@count': '2'
+    '@name': libby
+  - '@count': '2'
+    '@name': dnf
+  - '@count': '2'
+    '@name': basement
+  - '@count': '2'
+    '@name': tbr
+  - '@count': '2'
+    '@name': artificial-intelligence
+  - '@count': '2'
+    '@name': 2000s
+  - '@count': '2'
+    '@name': listened
+  - '@count': '2'
+    '@name': wish-list
+  - '@count': '2'
+    '@name': terraforming
+  - '@count': '2'
+    '@name': owned-unread
+  - '@count': '2'
+    '@name': gave-away
+  - '@count': '2'
+    '@name': unread
+  - '@count': '2'
+    '@name': my-books
+  - '@count': '2'
+    '@name': sff
+  - '@count': '2'
+    '@name': bookshelf
+  - '@count': '2'
+    '@name': maybe
+  - '@count': '2'
+    '@name': hard-sf
+  - '@count': '2'
+    '@name': physical-book
+  - '@count': '2'
+    '@name': digital
+  - '@count': '2'
+    '@name': box-6
+  - '@count': '2'
+    '@name': sciencefiction
+  - '@count': '2'
+    '@name': tech
+  - '@count': '2'
+    '@name': high
+  - '@count': '2'
+    '@name': general
+  - '@count': '2'
+    '@name': scifi-fantasy
+  - '@count': '2'
+    '@name': not-read
+  - '@count': '2'
+    '@name': fantasy
+  - '@count': '1'
+    '@name': library-d
+  - '@count': '1'
+    '@name': 2025-reading-challenge
+  - '@count': '1'
+    '@name': to-read-in-2025
+  - '@count': '1'
+    '@name': owned-ebook-kindle
+  - '@count': '1'
+    '@name': digitle-kindle-own
+  - '@count': '1'
+    '@name': digital-kindle
+  - '@count': '1'
+    '@name': to-read-audio-loan
+  - '@count': '1'
+    '@name': stand-alone
+  - '@count': '1'
+    '@name': 0-loan-audio-libby
+  - '@count': '1'
+    '@name': pam
+  - '@count': '1'
+    '@name': 2023-read
+  - '@count': '1'
+    '@name': speculative-fiction
+  - '@count': '1'
+    '@name': 2025-goals
+  - '@count': '1'
+    '@name': my-sci-fi-library
+  - '@count': '1'
+    '@name': digitally-own
+  - '@count': '1'
+    '@name': put-down
+  - '@count': '1'
+    '@name': rainy-day-books
+  - '@count': '1'
+    '@name': maybe-want-to-read
+  - '@count': '1'
+    '@name': want-to-buy
+  - '@count': '1'
+    '@name': western
+  - '@count': '1'
+    '@name': sf-want-to-read
+  - '@count': '1'
+    '@name': might-maybe-possibly-read
+  - '@count': '1'
+    '@name': borrow-audio
+  - '@count': '1'
+    '@name': science-fiction-and-fantasy
+  - '@count': '1'
+    '@name': audible
+  - '@count': '1'
+    '@name': terraform-and-colonize
+  - '@count': '1'
+    '@name': pulp-sci-fi
+  - '@count': '1'
+    '@name': living-in-my-mind-rent-free
+  - '@count': '1'
+    '@name': office
+  - '@count': '1'
+    '@name': novels
+  - '@count': '1'
+    '@name': audio
+  - '@count': '1'
+    '@name': on-the-shelf
+  - '@count': '1'
+    '@name': 03-status-next-to-read
+  - '@count': '1'
+    '@name': own-in-hardcover
+  - '@count': '1'
+    '@name': dystopian-fiction
+  - '@count': '1'
+    '@name': astronomy
+  - '@count': '1'
+    '@name': owned-physical-tbr
+  - '@count': '1'
+    '@name': mark
+  - '@count': '1'
+    '@name': 0-0n-kindle-oasis-2
+  - '@count': '1'
+    '@name': to-read-fiction-on-dropbox
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '1396'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417596
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/49789.Building_Harlequin_s_Moon\"\
+  >Building Harlequin&#39;s Moon Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0765351293&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/49789.Building_Harlequin_s_Moon?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '12479'
+        link: https://www.goodreads.com/author/show/12479.Timothy_Zahn
+        name: Timothy Zahn
+    average_rating: '3.75'
+    id: '31702817'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493781228l/31702817._SX98_.jpg
+    isbn: 0765329662
+    isbn13: '9780765329660'
+    link: https://www.goodreads.com/book/show/31702817-pawn
+    num_pages: '347'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1396'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493781228l/31702817._SY75_.jpg
+    title: 'Pawn (Sibyl''s War, #1)'
+    title_without_series: Pawn
+    uri: kca://book/amzn1.gr.book.v1.9yy1d_u11Qpms7J9d8f8zQ
+    work:
+      id: '52384513'
+  - authors:
+      author:
+        id: '22971796'
+        link: https://www.goodreads.com/author/show/22971796.Michael_Gnizak
+        name: Michael Gnizak
+    average_rating: '3.75'
+    id: '216935701'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/216935701-scavengers-of-the-void
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1396'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Scavengers of the Void (Annis Del Pounce, #1)'
+    title_without_series: Scavengers of the Void
+    uri: kca://book/amzn1.gr.book.v3.qHXoi8IcnARFoZ8E
+    work:
+      id: '223395586'
+  - authors:
+      author:
+        id: '46357865'
+        link: https://www.goodreads.com/author/show/46357865.Ethan_Rhodes
+        name: Ethan Rhodes
+    average_rating: '3.75'
+    id: '201719041'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/201719041-the-forever-world
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1396'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Forever World
+    title_without_series: The Forever World
+    uri: kca://book/amzn1.gr.book.v3.Cqgu2v6qQjsEkXxQ
+    work:
+      id: '206680565'
+  - authors:
+      author:
+        id: '4432'
+        link: https://www.goodreads.com/author/show/4432.Jasper_Fforde
+        name: Jasper Fforde
+    average_rating: '3.75'
+    id: '199353348'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1706908057l/199353348._SX98_.jpg
+    isbn: '1641296283'
+    isbn13: '9781641296281'
+    link: https://www.goodreads.com/book/show/199353348-red-side-story
+    num_pages: '459'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1396'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1706908057l/199353348._SY75_.jpg
+    title: 'Red Side Story (Shades of Grey, #2)'
+    title_without_series: Red Side Story
+    uri: kca://book/amzn1.gr.book.v3.5yfOnvE0-gJS9L3u
+    work:
+      id: '15320249'
+  - authors:
+      author:
+        id: '7141003'
+        link: https://www.goodreads.com/author/show/7141003.Michael_C_Grumley
+        name: Michael C. Grumley
+    average_rating: '3.75'
+    id: '58120260'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/58120260-the-desert-of-glass
+    num_pages: '376'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1396'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Desert of Glass (Monument #2)'
+    title_without_series: The Desert of Glass
+    uri: kca://book/amzn1.gr.book.v3.prGrtSRZFs2MRjBi
+    work:
+      id: '91094647'
+  - authors:
+      author:
+        id: '3365457'
+        link: https://www.goodreads.com/author/show/3365457.Ann_Leckie
+        name: Ann Leckie
+    average_rating: '3.75'
+    id: '23533039'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493642929l/23533039._SX98_.jpg
+    isbn: '0356502422'
+    isbn13: '9780356502427'
+    link: https://www.goodreads.com/book/show/23533039-ancillary-mercy
+    num_pages: '328'
+    publication_day: '6'
+    publication_month: '10'
+    publication_year: '2015'
+    ratings_count: '1396'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493642929l/23533039._SX50_.jpg
+    title: 'Ancillary Mercy (Imperial Radch, #3)'
+    title_without_series: Ancillary Mercy
+    uri: kca://book/amzn1.gr.book.v1.u4KJY-Y8KGOYQtaNLeJfSw
+    work:
+      id: '43134689'
+  - authors:
+      author:
+        id: '7141003'
+        link: https://www.goodreads.com/author/show/7141003.Michael_C_Grumley
+        name: Michael C. Grumley
+    average_rating: '3.75'
+    id: '53004469'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586207304l/53004469._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/53004469-the-last-monument
+    num_pages: '329'
+    publication_day: '30'
+    publication_month: '3'
+    publication_year: '2020'
+    ratings_count: '1396'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586207304l/53004469._SX50_.jpg
+    title: 'The Last Monument (Monument #1)'
+    title_without_series: The Last Monument
+    uri: kca://book/amzn1.gr.book.v3.LYZd5LmGOSBrucek
+    work:
+      id: '79394777'
+  - authors:
+      author:
+        id: '57814'
+        link: https://www.goodreads.com/author/show/57814.Robert_Reed
+        name: Robert Reed
+    average_rating: '3.75'
+    id: '100208'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0812566572
+    isbn13: '9780812566574'
+    link: https://www.goodreads.com/book/show/100208.Marrow
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1396'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Marrow (Great Ship, #1)'
+    title_without_series: Marrow
+    uri: kca://book/amzn1.gr.book.v1.BDq5P6v8PiXvPcwtdYvHKQ
+    work:
+      id: '1012993'
+  - authors:
+      author:
+        id: '22380687'
+        link: https://www.goodreads.com/author/show/22380687.Luis_Elizondo
+        name: Luis Elizondo
+    average_rating: '3.75'
+    id: '210963085'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716304848l/210963085._SX98_.jpg
+    isbn: '0063235560'
+    isbn13: '9780063235564'
+    link: https://www.goodreads.com/book/show/210963085-imminent
+    num_pages: '275'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1396'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716304848l/210963085._SY75_.jpg
+    title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    title_without_series: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    uri: kca://book/amzn1.gr.book.v3.63bmC6ssItLMqTqh
+    work:
+      id: '217189449'
+  - authors:
+      author:
+        id: '3365457'
+        link: https://www.goodreads.com/author/show/3365457.Ann_Leckie
+        name: Ann Leckie
+    average_rating: '3.75'
+    id: '62873999'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673303646l/62873999._SX98_.jpg
+    isbn: 031628971X
+    isbn13: '9780316289719'
+    link: https://www.goodreads.com/book/show/62873999-translation-state
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1396'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673303646l/62873999._SY75_.jpg
+    title: Translation State
+    title_without_series: Translation State
+    uri: kca://book/amzn1.gr.book.v3.IPz5gT7elXgSEOUd
+    work:
+      id: '98667857'
+  - authors:
+      author:
+        id: '8034886'
+        link: https://www.goodreads.com/author/show/8034886.Jerry_Boyd
+        name: Jerry Boyd
+    average_rating: '3.75'
+    id: '220473153'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/220473153-mei-s-quest
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1396'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Mei's Quest (Fat Man's Gift Book 3)
+    title_without_series: Mei's Quest
+    uri: kca://book/amzn1.gr.book.v3.BUMziIAEzDr5tqTD
+    work:
+      id: '227413518'
+  - authors:
+      author:
+        id: '12479'
+        link: https://www.goodreads.com/author/show/12479.Timothy_Zahn
+        name: Timothy Zahn
+    average_rating: '3.75'
+    id: '39863301'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531751876l/39863301._SX98_.jpg
+    isbn: 0765329670
+    isbn13: '9780765329677'
+    link: https://www.goodreads.com/book/show/39863301-knight
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1396'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531751876l/39863301._SY75_.jpg
+    title: 'Knight (Sibyl''s War, #2)'
+    title_without_series: Knight
+    uri: kca://book/amzn1.gr.book.v1.vMzRKzrDfjqHkRRuwRbOXQ
+    work:
+      id: '61659535'
+  - authors:
+      author:
+        id: '3365457'
+        link: https://www.goodreads.com/author/show/3365457.Ann_Leckie
+        name: Ann Leckie
+    average_rating: '3.75'
+    id: '20706284'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597476183l/20706284._SX98_.jpg
+    isbn: '0316246654'
+    isbn13: '9780316246651'
+    link: https://www.goodreads.com/book/show/20706284-ancillary-sword
+    num_pages: '359'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1396'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597476183l/20706284._SY75_.jpg
+    title: 'Ancillary Sword (Imperial Radch, #2)'
+    title_without_series: Ancillary Sword
+    uri: kca://book/amzn1.gr.book.v1.fGIToZ6ji4Qh2U0x8YUCgg
+    work:
+      id: '40026175'
+  - authors:
+      author:
+        id: '6981174'
+        link: https://www.goodreads.com/author/show/6981174.Tom_Sweterlitsch
+        name: Tom Sweterlitsch
+    average_rating: '3.75'
+    id: '33413556'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500302928l/33413556._SX98_.jpg
+    isbn: 0399167501
+    isbn13: '9780399167508'
+    link: https://www.goodreads.com/book/show/33413556-the-gone-world
+    num_pages: '400'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1396'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500302928l/33413556._SY75_.jpg
+    title: The Gone World
+    title_without_series: The Gone World
+    uri: kca://book/amzn1.gr.book.v1.V4YDvhiarwcgaNEK8W7-dg
+    work:
+      id: '54172153'
+  - authors:
+      author:
+        id: '12479'
+        link: https://www.goodreads.com/author/show/12479.Timothy_Zahn
+        name: Timothy Zahn
+    average_rating: '3.75'
+    id: '45046553'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560820718l/45046553._SX98_.jpg
+    isbn: 0765329689
+    isbn13: '9780765329684'
+    link: https://www.goodreads.com/book/show/45046553-queen
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1396'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560820718l/45046553._SY75_.jpg
+    title: Queen (Sibyl's War, 3)
+    title_without_series: Queen
+    uri: kca://book/amzn1.gr.book.v1.augX5PpThKP6mHHJ0doVyg
+    work:
+      id: '69749499'
+  - authors:
+      author:
+        id: '2933334'
+        link: https://www.goodreads.com/author/show/2933334.Sue_Burke
+        name: Sue Burke
+    average_rating: '3.75'
+    id: '35018907'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494613337l/35018907._SX98_.jpg
+    isbn: 076539135X
+    isbn13: '9780765391353'
+    link: https://www.goodreads.com/book/show/35018907-semiosis
+    num_pages: '333'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1396'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494613337l/35018907._SY75_.jpg
+    title: 'Semiosis (Semiosis, #1)'
+    title_without_series: Semiosis
+    uri: kca://book/amzn1.gr.book.v1.v8ipzzKp5Wl_b4JXM6heqg
+    work:
+      id: '56303145'
+  - authors:
+      author:
+        id: '14078'
+        link: https://www.goodreads.com/author/show/14078.David_Brin
+        name: David Brin
+    average_rating: '3.75'
+    id: '96471'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 055329024X
+    isbn13: '9780553290240'
+    link: https://www.goodreads.com/book/show/96471.Earth
+    num_pages: null
+    publication_day: '1'
+    publication_month: '6'
+    publication_year: '1991'
+    ratings_count: '1396'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Earth
+    title_without_series: Earth
+    uri: kca://book/amzn1.gr.book.v1.yzr5PQ26mb8SmiFsFt9_dQ
+    work:
+      id: '1218966'
+  - authors:
+      author:
+        id: '545'
+        link: https://www.goodreads.com/author/show/545.Neal_Stephenson
+        name: Neal Stephenson
+    average_rating: '3.75'
+    id: '22816087'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449142000l/22816087._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/22816087-seveneves
+    num_pages: '872'
+    publication_day: '19'
+    publication_month: '5'
+    publication_year: '2015'
+    ratings_count: '1396'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449142000l/22816087._SY75_.jpg
+    title: Seveneves
+    title_without_series: Seveneves
+    uri: kca://book/amzn1.gr.book.v1.rikByqSFXcdAwSv73el4eQ
+    work:
+      id: '42299347'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316638678l/49789._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '75'
+  '@type': integer
+title: Building Harlequin's Moon
+title_without_series: Building Harlequin's Moon
+uri: kca://book/amzn1.gr.book.v1.3KflY1rhs3Y8HvtiZRiiug
+url: https://www.goodreads.com/book/show/49789.Building_Harlequin_s_Moon
+work:
+  id: '906153'
+  uri: kca://work/amzn1.gr.work.v1.5U_lnsxvSNiWcI6ouVdetw

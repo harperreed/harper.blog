@@ -1,0 +1,734 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.88'
+    id: '8489'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1653508778p5/8489.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/8489.Robert_Sheckley
+    name: Robert Sheckley
+    ratings_count: '57260'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1653508778p2/8489.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '4600'
+average_rating: '4.21'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2015-02-23T00:00:00-08:00'
+description: null
+edition_information: null
+format: Kindle Edition
+id: '12349664'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394316331l/12349664._SX98_.jpg
+is_ebook: 'true'
+isbn: '1590175085'
+isbn13: '9781590175088'
+json: '{"id": "12349664", "isbn": "1590175085", "isbn13": "9781590175088", "text_reviews_count":
+  {"@type": "integer", "#text": "5"}, "uri": "kca://book/amzn1.gr.book.v1.-bp5KkcxGxMudaPG5VG9-g",
+  "title": "Store of the Worlds: The Stories of Robert Sheckley", "title_without_series":
+  "Store of the Worlds: The Stories of Robert Sheckley", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394316331l/12349664._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394316331l/12349664._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/12349664-store-of-the-worlds",
+  "num_pages": null, "format": "Kindle Edition", "edition_information": null, "publisher":
+  "NYRB Classics", "publication_day": "1", "publication_year": "2012", "publication_month":
+  "5", "average_rating": "4.21", "ratings_count": "993", "description": null, "authors":
+  {"author": {"id": "8489", "name": "Robert Sheckley", "role": null, "image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1653508778p5/8489.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1653508778p2/8489.jpg"},
+  "link": "https://www.goodreads.com/author/show/8489.Robert_Sheckley", "average_rating":
+  "3.88", "ratings_count": "57260", "text_reviews_count": "4600"}}, "published": "2012",
+  "work": {"id": "17439363", "uri": "kca://work/amzn1.gr.work.v1.--UYhkD-p4tD9dy9tDaU1g"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1209003013",
+  "read_at": "Mon Feb 23 00:00:00 -0800 2015", "started_at": "", "date": "Mon Feb
+  23 00:00:00 -0800 2015"}'
+kindle_asin: B005FG0ZEK
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/12349664-store-of-the-worlds
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '2088'
+    '@name': to-read
+  - '@count': '96'
+    '@name': short-stories
+  - '@count': '83'
+    '@name': currently-reading
+  - '@count': '80'
+    '@name': science-fiction
+  - '@count': '63'
+    '@name': sci-fi
+  - '@count': '46'
+    '@name': fiction
+  - '@count': '45'
+    '@name': nyrb
+  - '@count': '21'
+    '@name': nyrb-classics
+  - '@count': '15'
+    '@name': scifi
+  - '@count': '15'
+    '@name': favorites
+  - '@count': '15'
+    '@name': sf
+  - '@count': '13'
+    '@name': fantasy
+  - '@count': '9'
+    '@name': sci-fi-fantasy
+  - '@count': '8'
+    '@name': owned
+  - '@count': '7'
+    '@name': american
+  - '@count': '6'
+    '@name': short-story
+  - '@count': '6'
+    '@name': literature
+  - '@count': '5'
+    '@name': kindle
+  - '@count': '5'
+    '@name': 20th-century
+  - '@count': '5'
+    '@name': collection
+  - '@count': '5'
+    '@name': short-fiction
+  - '@count': '4'
+    '@name': priority
+  - '@count': '4'
+    '@name': usa
+  - '@count': '4'
+    '@name': books-i-own
+  - '@count': '4'
+    '@name': science-fiction-fantasy
+  - '@count': '4'
+    '@name': ebook
+  - '@count': '4'
+    '@name': library
+  - '@count': '4'
+    '@name': short-story-collections
+  - '@count': '3'
+    '@name': dystopia
+  - '@count': '3'
+    '@name': short-story-collection
+  - '@count': '3'
+    '@name': classics
+  - '@count': '3'
+    '@name': my-library
+  - '@count': '3'
+    '@name': tbr
+  - '@count': '3'
+    '@name': anthology
+  - '@count': '3'
+    '@name': abandoned
+  - '@count': '3'
+    '@name': stories
+  - '@count': '3'
+    '@name': literary-fiction
+  - '@count': '3'
+    '@name': anthologies
+  - '@count': '3'
+    '@name': humor
+  - '@count': '3'
+    '@name': short-stories-and-anthologies
+  - '@count': '3'
+    '@name': to-buy
+  - '@count': '3'
+    '@name': english
+  - '@count': '2'
+    '@name': dystopian
+  - '@count': '2'
+    '@name': unread-owned
+  - '@count': '2'
+    '@name': bookshelf
+  - '@count': '2'
+    '@name': to-acquire
+  - '@count': '2'
+    '@name': to-read-fiction
+  - '@count': '2'
+    '@name': short-stories-essays
+  - '@count': '2'
+    '@name': own-to-read
+  - '@count': '2'
+    '@name': own-unread
+  - '@count': '2'
+    '@name': available
+  - '@count': '2'
+    '@name': recommended-to-me
+  - '@count': '2'
+    '@name': 1950s
+  - '@count': '2'
+    '@name': speculative
+  - '@count': '2'
+    '@name': science
+  - '@count': '2'
+    '@name': satire
+  - '@count': '2'
+    '@name': e-books
+  - '@count': '2'
+    '@name': america
+  - '@count': '2'
+    '@name': fiction-science-fiction
+  - '@count': '2'
+    '@name': read-in-2015
+  - '@count': '2'
+    '@name': my-books
+  - '@count': '2'
+    '@name': on-my-shelves
+  - '@count': '2'
+    '@name': story-collections
+  - '@count': '2'
+    '@name': science-fiction-and-fantasy
+  - '@count': '2'
+    '@name': sci-fi-and-fantasy
+  - '@count': '2'
+    '@name': speculative-fiction
+  - '@count': '2'
+    '@name': s
+  - '@count': '2'
+    '@name': collections
+  - '@count': '2'
+    '@name': library-books
+  - '@count': '2'
+    '@name': american-literature
+  - '@count': '1'
+    '@name': sci-fi-hugo-award
+  - '@count': '1'
+    '@name': sci-fi-collection
+  - '@count': '1'
+    '@name': collections-anthologies
+  - '@count': '1'
+    '@name': books-would-like2have-translated
+  - '@count': '1'
+    '@name': books-2buy-borrow
+  - '@count': '1'
+    '@name': fic-authnat-american
+  - '@count': '1'
+    '@name': sci-fi-short-stories
+  - '@count': '1'
+    '@name': subgenre-fantasy-low
+  - '@count': '1'
+    '@name': classics-others
+  - '@count': '1'
+    '@name': genre-speculative
+  - '@count': '1'
+    '@name': future
+  - '@count': '1'
+    '@name': horror-reading-list
+  - '@count': '1'
+    '@name': surrealist
+  - '@count': '1'
+    '@name': fantasy-and-supernatural
+  - '@count': '1'
+    '@name': owned-physical
+  - '@count': '1'
+    '@name': in-possession
+  - '@count': '1'
+    '@name': priority-reads
+  - '@count': '1'
+    '@name': a-novel-epic-more-than-401-pages
+  - '@count': '1'
+    '@name': 1-sooner
+  - '@count': '1'
+    '@name': give-life
+  - '@count': '1'
+    '@name': humour-and-satire
+  - '@count': '1'
+    '@name': inspo
+  - '@count': '1'
+    '@name': sold
+  - '@count': '1'
+    '@name': favourite
+  - '@count': '1'
+    '@name': bc-with-r-a
+  - '@count': '1'
+    '@name': scfic
+  - '@count': '1'
+    '@name': novel-u-s-of-a-place
+  - '@count': '1'
+    '@name': a-straight-books-2000s
+  - '@count': '1'
+    '@name': halloween-books
+  - '@count': '1'
+    '@name': nyrb-read
+publication_day: '1'
+publication_month: '5'
+publication_year: '2012'
+published: '2012'
+publisher: NYRB Classics
+ratings_count: '993'
+read_at: '2015-02-23T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/1209003013
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/12349664-store-of-the-worlds\"\
+  >Store of the Worlds Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1590175085&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/12349664-store-of-the-worlds?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '38313'
+        link: https://www.goodreads.com/author/show/38313.Lisa_Tuttle
+        name: Lisa Tuttle
+    average_rating: '4.21'
+    id: '6218239'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327599263l/6218239._SX98_.jpg
+    isbn: '1902880900'
+    isbn13: '9781902880907'
+    link: https://www.goodreads.com/book/show/6218239-my-death
+    num_pages: '93'
+    publication_day: null
+    publication_month: '9'
+    publication_year: '2004'
+    ratings_count: '993'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327599263l/6218239._SY75_.jpg
+    title: My Death
+    title_without_series: My Death
+    uri: kca://book/amzn1.gr.book.v1._4u2e_lUUXZcG_mZ475cgQ
+    work:
+      id: '6398900'
+  - authors:
+      author:
+        id: '484376'
+        link: https://www.goodreads.com/author/show/484376.Jos_Eduardo_Agualusa
+        name: "Jos\xE9 Eduardo Agualusa"
+    average_rating: '4.21'
+    id: '23346410'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436368385l/23346410._SX98_.jpg
+    isbn: '1846558476'
+    isbn13: '9781846558474'
+    link: https://www.goodreads.com/book/show/23346410-a-general-theory-of-oblivion
+    num_pages: '245'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '993'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436368385l/23346410._SY75_.jpg
+    title: A General Theory of Oblivion
+    title_without_series: A General Theory of Oblivion
+    uri: kca://book/amzn1.gr.book.v1.w1CIbHAOtYGKEzWAi1qPmA
+    work:
+      id: '21371148'
+  - authors:
+      author:
+        id: '34065'
+        link: https://www.goodreads.com/author/show/34065.Etgar_Keret
+        name: Etgar Keret
+    average_rating: '4.21'
+    id: '43212798'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556360289l/43212798._SX98_.jpg
+    isbn: '1594633274'
+    isbn13: '9781594633270'
+    link: https://www.goodreads.com/book/show/43212798-fly-already
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '993'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556360289l/43212798._SY75_.jpg
+    title: Fly Already
+    title_without_series: Fly Already
+    uri: kca://book/amzn1.gr.book.v1.wGn1GEuBqibQneXkZEOWtw
+    work:
+      id: '62138246'
+  - authors:
+      author:
+        id: '72841'
+        link: https://www.goodreads.com/author/show/72841.Frans_G_Bengtsson
+        name: Frans G. Bengtsson
+    average_rating: '4.21'
+    id: '438452'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348457477l/438452._SY160_.jpg
+    isbn: 000612609X
+    isbn13: '9780006126096'
+    link: https://www.goodreads.com/book/show/438452.The_Long_Ships
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: '1994'
+    ratings_count: '993'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348457477l/438452._SY75_.jpg
+    title: The Long Ships
+    title_without_series: The Long Ships
+    uri: kca://book/amzn1.gr.book.v1.ZKLgVO3Bpc5oJOGGB6_ufw
+    work:
+      id: '427306'
+  - authors:
+      author:
+        id: '10991'
+        link: https://www.goodreads.com/author/show/10991.Stanis_aw_Lem
+        name: "Stanis\u0142aw Lem"
+    average_rating: '4.21'
+    id: '889418'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0156849054
+    isbn13: '9780156849050'
+    link: https://www.goodreads.com/book/show/889418.The_Star_Diaries
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '993'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Star Diaries
+    title_without_series: The Star Diaries
+    uri: kca://book/amzn1.gr.book.v1.qFj1JUd7ZMcKvzCIC76WvA
+    work:
+      id: '1107396'
+  - authors:
+      author:
+        id: '26359'
+        link: https://www.goodreads.com/author/show/26359.Leonora_Carrington
+        name: Leonora Carrington
+    average_rating: '4.21'
+    id: '46987'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336273089l/46987._SX98_.jpg
+    isbn: '1878972197'
+    isbn13: '9781878972194'
+    link: https://www.goodreads.com/book/show/46987.The_Hearing_Trumpet
+    num_pages: '199'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '993'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336273089l/46987._SX50_.jpg
+    title: The Hearing Trumpet
+    title_without_series: The Hearing Trumpet
+    uri: kca://book/amzn1.gr.book.v1.dk7zVMYYgy_qWASlK3Rx3Q
+    work:
+      id: '2246210'
+  - authors:
+      author:
+        id: '26917'
+        link: https://www.goodreads.com/author/show/26917.Tony_Hillerman
+        name: Tony Hillerman
+    average_rating: '4.21'
+    id: '425099'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403713599l/425099._SX98_.jpg
+    isbn: 0061000299
+    isbn13: '9780061000294'
+    link: https://www.goodreads.com/book/show/425099.Listening_Woman
+    num_pages: '316'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '993'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403713599l/425099._SY75_.jpg
+    title: 'Listening Woman (Leaphorn & Chee, #3)'
+    title_without_series: Listening Woman
+    uri: kca://book/amzn1.gr.book.v1.EAz71wXKNI9OSQOaf3n8xQ
+    work:
+      id: '1956307'
+  - authors:
+      author:
+        id: '50071'
+        link: https://www.goodreads.com/author/show/50071.Bohumil_Hrabal
+        name: Bohumil Hrabal
+    average_rating: '4.21'
+    id: '43811348'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574870832l/43811348._SX98_.jpg
+    isbn: 0811228959
+    isbn13: '9780811228954'
+    link: https://www.goodreads.com/book/show/43811348-all-my-cats
+    num_pages: '96'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '993'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574870832l/43811348._SY75_.jpg
+    title: All My Cats
+    title_without_series: All My Cats
+    uri: kca://book/amzn1.gr.book.v1.jGmrEhInUxxSpTYi6I4I2A
+    work:
+      id: '68173087'
+  - authors:
+      author:
+        id: '27167'
+        link: https://www.goodreads.com/author/show/27167.Peter_Watts
+        name: Peter Watts
+    average_rating: '4.21'
+    id: '48484'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0765312182
+    isbn13: '9780765312181'
+    link: https://www.goodreads.com/book/show/48484.Blindsight
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '993'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Blindsight (Firefall, #1)'
+    title_without_series: Blindsight
+    uri: kca://book/amzn1.gr.book.v1.A4CNk2qG0qxshK4OKH9lJQ
+    work:
+      id: '223813791'
+  - authors:
+      author:
+        id: '89573'
+        link: https://www.goodreads.com/author/show/89573.Leonard_Gardner
+        name: Leonard Gardner
+    average_rating: '4.21'
+    id: '154869'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0520206576'
+    isbn13: '9780520206571'
+    link: https://www.goodreads.com/book/show/154869.Fat_City
+    num_pages: '183'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '993'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Fat City
+    title_without_series: Fat City
+    uri: kca://book/amzn1.gr.book.v1.5f7aOQQn3SN127TF9szzDg
+    work:
+      id: '149484'
+  - authors:
+      author:
+        id: '13794'
+        link: https://www.goodreads.com/author/show/13794.Will_Self
+        name: Will Self
+    average_rating: '4.21'
+    id: '119115'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0802138489
+    isbn13: '9780802138484'
+    link: https://www.goodreads.com/book/show/119115.How_the_Dead_Live
+    num_pages: '404'
+    publication_day: '31'
+    publication_month: '8'
+    publication_year: '2000'
+    ratings_count: '993'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: How the Dead Live
+    title_without_series: How the Dead Live
+    uri: kca://book/amzn1.gr.book.v1.K_WK06Q_kMR6i5BBvHk4fw
+    work:
+      id: '1207243'
+  - authors:
+      author:
+        id: '26917'
+        link: https://www.goodreads.com/author/show/26917.Tony_Hillerman
+        name: Tony Hillerman
+    average_rating: '4.21'
+    id: '48162'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622041639l/48162._SX98_.jpg
+    isbn: '0061000175'
+    isbn13: '9780061000171'
+    link: https://www.goodreads.com/book/show/48162.Skinwalkers
+    num_pages: '282'
+    publication_day: null
+    publication_month: '4'
+    publication_year: '1990'
+    ratings_count: '993'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622041639l/48162._SY75_.jpg
+    title: 'Skinwalkers (Leaphorn & Chee, #7)'
+    title_without_series: Skinwalkers
+    uri: kca://book/amzn1.gr.book.v1.drT8XXMj5p0ay0CYjgVzQQ
+    work:
+      id: '270132'
+  - authors:
+      author:
+        id: '64625'
+        link: https://www.goodreads.com/author/show/64625.Tatyana_Tolstaya
+        name: Tatyana Tolstaya
+    average_rating: '4.21'
+    id: '310722'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632586628l/310722._SX98_.jpg
+    isbn: '1590171969'
+    isbn13: '9781590171967'
+    link: https://www.goodreads.com/book/show/310722.The_Slynx
+    num_pages: '299'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '993'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632586628l/310722._SY75_.jpg
+    title: The Slynx
+    title_without_series: The Slynx
+    uri: kca://book/amzn1.gr.book.v1.3pknRpYskgeCroNE1ismXA
+    work:
+      id: '3535'
+  - authors:
+      author:
+        id: '79899'
+        link: https://www.goodreads.com/author/show/79899.Milton_Rokeach
+        name: Milton Rokeach
+    average_rating: '4.21'
+    id: '1401403'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338411366l/1401403._SX98_.jpg
+    isbn: '0231052715'
+    isbn13: '9780231052719'
+    link: https://www.goodreads.com/book/show/1401403.The_Three_Christs_of_Ypsilanti
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '993'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338411366l/1401403._SY75_.jpg
+    title: 'The Three Christs of Ypsilanti: A Psychological Study'
+    title_without_series: 'The Three Christs of Ypsilanti: A Psychological Study'
+    uri: kca://book/amzn1.gr.book.v1._P3sY2HKQkwjwycpAc2Xaw
+    work:
+      id: '1391596'
+  - authors:
+      author:
+        id: '32278'
+        link: https://www.goodreads.com/author/show/32278.Poul_Anderson
+        name: Poul Anderson
+    average_rating: '4.21'
+    id: '240617'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389216838l/240617._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/240617.Tau_Zero
+    num_pages: '190'
+    publication_day: '1'
+    publication_month: '2'
+    publication_year: '2006'
+    ratings_count: '993'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389216838l/240617._SY75_.jpg
+    title: Tau Zero
+    title_without_series: Tau Zero
+    uri: kca://book/amzn1.gr.book.v1.hI9xX7qXgjZO7NHA9ePpRg
+    work:
+      id: '598009'
+  - authors:
+      author:
+        id: '4'
+        link: https://www.goodreads.com/author/show/4.Douglas_Adams
+        name: Douglas Adams
+    average_rating: '4.21'
+    id: '365'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554401296l/365._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/365.Dirk_Gently_s_Holistic_Detective_Agency
+    num_pages: '306'
+    publication_day: '1'
+    publication_month: '1'
+    publication_year: '2002'
+    ratings_count: '993'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554401296l/365._SY75_.jpg
+    title: 'Dirk Gently''s Holistic Detective Agency (Dirk Gently, #1)'
+    title_without_series: Dirk Gently's Holistic Detective Agency
+    uri: kca://book/amzn1.gr.book.v1.Rvo1YUkGAwKCClgMQJKtYw
+    work:
+      id: '1042123'
+  - authors:
+      author:
+        id: '145324'
+        link: https://www.goodreads.com/author/show/145324.Jean_Patrick_Manchette
+        name: Jean-Patrick Manchette
+    average_rating: '4.21'
+    id: '8848595'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320495875l/8848595._SX98_.jpg
+    isbn: '1590173813'
+    isbn13: '9781590173817'
+    link: https://www.goodreads.com/book/show/8848595-fatale
+    num_pages: '98'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '993'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320495875l/8848595._SY75_.jpg
+    title: Fatale
+    title_without_series: Fatale
+    uri: kca://book/amzn1.gr.book.v1.NXNte0PSy5dNZ3x6Wwk9yg
+    work:
+      id: '861217'
+  - authors:
+      author:
+        id: '109116'
+        link: https://www.goodreads.com/author/show/109116.Algis_Budrys
+        name: Algis Budrys
+    average_rating: '4.21'
+    id: '425151'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375670342l/425151._SX98_.jpg
+    isbn: 158776010X
+    isbn13: '9781587760105'
+    link: https://www.goodreads.com/book/show/425151.Who_
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '993'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375670342l/425151._SY75_.jpg
+    title: Who?
+    title_without_series: Who?
+    uri: kca://book/amzn1.gr.book.v1.GI7sLEroYiKsH9Fp203G9Q
+    work:
+      id: '414217'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394316331l/12349664._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '5'
+  '@type': integer
+title: 'Store of the Worlds: The Stories of Robert Sheckley'
+title_without_series: 'Store of the Worlds: The Stories of Robert Sheckley'
+uri: kca://book/amzn1.gr.book.v1.-bp5KkcxGxMudaPG5VG9-g
+url: https://www.goodreads.com/book/show/12349664-store-of-the-worlds
+work:
+  id: '17439363'
+  uri: kca://work/amzn1.gr.work.v1.--UYhkD-p4tD9dy9tDaU1g

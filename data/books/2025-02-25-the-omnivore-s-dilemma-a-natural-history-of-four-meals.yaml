@@ -1,0 +1,759 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.14'
+    id: '2121'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1366396171p5/2121.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/2121.Michael_Pollan
+    name: Michael Pollan
+    ratings_count: '700708'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1366396171p2/2121.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '52864'
+average_rating: '4.19'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: Today, buffeted by one food fad after another, America is suffering from
+  what can only be described as a national eating disorder. Will it be fast food tonight,
+  or something organic? Or perhaps something we grew ourselves? The question of what
+  to have for dinner has confronted us since man first discovered fire. But, as Michael
+  Pollan explains in this revolutionary book, how we answer it now, at the dawn of
+  the twenty-first century, may determine our survival as a species. Packed with profound
+  surprises, The Omnivore' s Dilemma is changing the way Americans think about the
+  politics, perils, and pleasures of eating.
+edition_information: null
+format: Paperback
+id: '93504'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn:
+  '@nil': 'true'
+isbn13:
+  '@nil': 'true'
+json: '{"id": "93504", "isbn": {"@nil": "true"}, "isbn13": {"@nil": "true"}, "text_reviews_count":
+  {"@type": "integer", "#text": "1582"}, "uri": "kca://book/amzn1.gr.book.v1.n9j5F5WUeSLlV4DfBaRn0Q",
+  "title": "The Omnivore''s Dilemma: A Natural History of Four Meals", "title_without_series":
+  "The Omnivore''s Dilemma: A Natural History of Four Meals", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/93504.The_Omnivore_s_Dilemma",
+  "num_pages": "450", "format": "Paperback", "edition_information": null, "publisher":
+  "Penguin Books", "publication_day": "28", "publication_year": "2007", "publication_month":
+  "8", "average_rating": "4.19", "ratings_count": "207708", "description": "Today,
+  buffeted by one food fad after another, America is suffering from what can only
+  be described as a national eating disorder. Will it be fast food tonight, or something
+  organic? Or perhaps something we grew ourselves? The question of what to have for
+  dinner has confronted us since man first discovered fire. But, as Michael Pollan
+  explains in this revolutionary book, how we answer it now, at the dawn of the twenty-first
+  century, may determine our survival as a species. Packed with profound surprises,
+  The Omnivore'' s Dilemma is changing the way Americans think about the politics,
+  perils, and pleasures of eating.", "authors": {"author": {"id": "2121", "name":
+  "Michael Pollan", "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1366396171p5/2121.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1366396171p2/2121.jpg"},
+  "link": "https://www.goodreads.com/author/show/2121.Michael_Pollan", "average_rating":
+  "4.14", "ratings_count": "700708", "text_reviews_count": "52864"}}, "published":
+  "2007", "work": {"id": "3287769", "uri": "kca://work/amzn1.gr.work.v1.kbKv6m4iyFNtvg065gVD3Q"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/42404821",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B000SEIDR0
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/93504.The_Omnivore_s_Dilemma
+marketplace_id: ATVPDKIKX0DER
+num_pages: '450'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '225198'
+    '@name': to-read
+  - '@count': '11475'
+    '@name': currently-reading
+  - '@count': '6117'
+    '@name': non-fiction
+  - '@count': '3539'
+    '@name': food
+  - '@count': '3008'
+    '@name': nonfiction
+  - '@count': '1355'
+    '@name': favorites
+  - '@count': '1302'
+    '@name': science
+  - '@count': '1239'
+    '@name': health
+  - '@count': '678'
+    '@name': history
+  - '@count': '499'
+    '@name': owned
+  - '@count': '443'
+    '@name': nutrition
+  - '@count': '370'
+    '@name': environment
+  - '@count': '312'
+    '@name': book-club
+  - '@count': '295'
+    '@name': books-i-own
+  - '@count': '279'
+    '@name': audiobook
+  - '@count': '251'
+    '@name': cooking
+  - '@count': '230'
+    '@name': audiobooks
+  - '@count': '196'
+    '@name': library
+  - '@count': '189'
+    '@name': nature
+  - '@count': '181'
+    '@name': kindle
+  - '@count': '177'
+    '@name': politics
+  - '@count': '161'
+    '@name': audio
+  - '@count': '158'
+    '@name': abandoned
+  - '@count': '143'
+    '@name': agriculture
+  - '@count': '139'
+    '@name': sustainability
+  - '@count': '138'
+    '@name': sociology
+  - '@count': '130'
+    '@name': dnf
+  - '@count': '128'
+    '@name': did-not-finish
+  - '@count': '127'
+    '@name': philosophy
+  - '@count': '120'
+    '@name': foodie
+  - '@count': '117'
+    '@name': food-and-drink
+  - '@count': '110'
+    '@name': anthropology
+  - '@count': '106'
+    '@name': to-buy
+  - '@count': '106'
+    '@name': food-writing
+  - '@count': '105'
+    '@name': audible
+  - '@count': '103'
+    '@name': unfinished
+  - '@count': '101'
+    '@name': to-read-nonfiction
+  - '@count': '97'
+    '@name': adult
+  - '@count': '95'
+    '@name': non-fic
+  - '@count': '92'
+    '@name': school
+  - '@count': '92'
+    '@name': bookclub
+  - '@count': '91'
+    '@name': environmental
+  - '@count': '91'
+    '@name': ebook
+  - '@count': '90'
+    '@name': ecology
+  - '@count': '89'
+    '@name': to-read-non-fiction
+  - '@count': '89'
+    '@name': food-cooking
+  - '@count': '87'
+    '@name': culture
+  - '@count': '86'
+    '@name': owned-books
+  - '@count': '81'
+    '@name': my-library
+  - '@count': '81'
+    '@name': cookbooks
+  - '@count': '77'
+    '@name': economics
+  - '@count': '74'
+    '@name': food-books
+  - '@count': '72'
+    '@name': food-and-cooking
+  - '@count': '70'
+    '@name': farming
+  - '@count': '69'
+    '@name': biology
+  - '@count': '68'
+    '@name': food-politics
+  - '@count': '68'
+    '@name': nonfic
+  - '@count': '67'
+    '@name': non-fiction-to-read
+  - '@count': '67'
+    '@name': food-drink
+  - '@count': '65'
+    '@name': culinary
+  - '@count': '61'
+    '@name': self-help
+  - '@count': '60'
+    '@name': didn-t-finish
+  - '@count': '59'
+    '@name': default
+  - '@count': '57'
+    '@name': educational
+  - '@count': '56'
+    '@name': health-fitness
+  - '@count': '55'
+    '@name': home-library
+  - '@count': '55'
+    '@name': health-nutrition
+  - '@count': '55'
+    '@name': never-finished
+  - '@count': '55'
+    '@name': food-related
+  - '@count': '55'
+    '@name': food-nutrition
+  - '@count': '55'
+    '@name': audio-books
+  - '@count': '54'
+    '@name': ebooks
+  - '@count': '54'
+    '@name': society
+  - '@count': '54'
+    '@name': social-science
+  - '@count': '54'
+    '@name': diet
+  - '@count': '54'
+    '@name': my-books
+  - '@count': '52'
+    '@name': environmentalism
+  - '@count': '50'
+    '@name': journalism
+  - '@count': '49'
+    '@name': memoir
+  - '@count': '47'
+    '@name': want-to-read-non-fiction
+  - '@count': '47'
+    '@name': food-health
+  - '@count': '47'
+    '@name': own-it
+  - '@count': '47'
+    '@name': social-issues
+  - '@count': '46'
+    '@name': self-improvement
+  - '@count': '45'
+    '@name': health-wellness
+  - '@count': '44'
+    '@name': on-hold
+  - '@count': '44'
+    '@name': reference
+  - '@count': '44'
+    '@name': recommended
+  - '@count': '44'
+    '@name': wish-list
+  - '@count': '41'
+    '@name': fitness
+  - '@count': '41'
+    '@name': life
+  - '@count': '41'
+    '@name': political
+  - '@count': '41'
+    '@name': all-time-favorites
+  - '@count': '40'
+    '@name': health-and-wellness
+  - '@count': '40'
+    '@name': cooking-food
+  - '@count': '39'
+    '@name': tbr
+  - '@count': '39'
+    '@name': social-commentary
+  - '@count': '39'
+    '@name': animals
+  - '@count': '38'
+    '@name': wellness
+  - '@count': '38'
+    '@name': nonfiction-to-read
+publication_day: '28'
+publication_month: '8'
+publication_year: '2007'
+published: '2007'
+publisher: Penguin Books
+ratings_count: '207708'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/42404821
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/93504.The_Omnivore_s_Dilemma\"\
+  >The Omnivore&#39;s Dilemma Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/93504.The_Omnivore_s_Dilemma?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '54021168'
+        link: https://www.goodreads.com/author/show/54021168.Vandana_Shivas
+        name: Vandana Shivas
+    average_rating: '4.19'
+    id: '44671239'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554067798l/44671239._SX98_.jpg
+    isbn: '8416689865'
+    isbn13: '9788416689866'
+    link: https://www.goodreads.com/book/show/44671239-por-qu-las-mujeres-salvar-n-el-planeta
+    num_pages: '288'
+    publication_day: null
+    publication_month: '3'
+    publication_year: '2019'
+    ratings_count: '207708'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554067798l/44671239._SY75_.jpg
+    title: "Por qu\xE9 las mujeres salvar\xE1n el planeta"
+    title_without_series: "Por qu\xE9 las mujeres salvar\xE1n el planeta"
+    uri: kca://book/amzn1.gr.book.v1.oDE5x0IrLk3PInQE_m-1IQ
+    work:
+      id: '69327392'
+  - authors:
+      author:
+        id: '380'
+        link: https://www.goodreads.com/author/show/380.Eric_Schlosser
+        name: Eric Schlosser
+    average_rating: '4.19'
+    id: '1097'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554229727l/1097._SX98_.jpg
+    isbn: 0060838582
+    isbn13: '9780060838584'
+    link: https://www.goodreads.com/book/show/1097.Fast_Food_Nation
+    num_pages: '383'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '207708'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554229727l/1097._SY75_.jpg
+    title: 'Fast Food Nation: The Dark Side of the All-American Meal'
+    title_without_series: 'Fast Food Nation: The Dark Side of the All-American Meal'
+    uri: kca://book/amzn1.gr.book.v1.EukO9DkXwZcu6WExBe7a1g
+    work:
+      id: '2207547'
+  - authors:
+      author:
+        id: '3541'
+        link: https://www.goodreads.com/author/show/3541.Barbara_Kingsolver
+        name: Barbara Kingsolver
+    average_rating: '4.19'
+    id: '40725379'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530799548l/40725379._SX98_.jpg
+    isbn: '0062653075'
+    isbn13: '9780062653079'
+    link: https://www.goodreads.com/book/show/40725379-animal-vegetable-miracle
+    num_pages: '383'
+    publication_day: '2'
+    publication_month: '5'
+    publication_year: '2017'
+    ratings_count: '207708'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530799548l/40725379._SY75_.jpg
+    title: 'Animal, Vegetable, Miracle: A Year of Food Life'
+    title_without_series: 'Animal, Vegetable, Miracle: A Year of Food Life'
+    uri: kca://book/amzn1.gr.book.v1.h_YsMEKLWgfM3QL44uO69Q
+    work:
+      id: '1582285'
+  - authors:
+      author:
+        id: '7029454'
+        link: https://www.goodreads.com/author/show/7029454.Eduardo_Kohn
+        name: Eduardo Kohn
+    average_rating: '4.19'
+    id: '17718835'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368070979l/17718835._SX98_.jpg
+    isbn: '0520276116'
+    isbn13: '9780520276116'
+    link: https://www.goodreads.com/book/show/17718835-how-forests-think
+    num_pages: '267'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '207708'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368070979l/17718835._SY75_.jpg
+    title: 'How Forests Think: Toward an Anthropology Beyond the Human'
+    title_without_series: 'How Forests Think: Toward an Anthropology Beyond the Human'
+    uri: kca://book/amzn1.gr.book.v1.XZ-OP0e2H_mY7s-TQYsvTA
+    work:
+      id: '25501765'
+  - authors:
+      author:
+        id: '8084806'
+        link: https://www.goodreads.com/author/show/8084806.Marilee_Peters
+        name: Marilee Peters
+    average_rating: '4.19'
+    id: '21561032'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397430616l/21561032._SX98_.jpg
+    isbn: '1554516714'
+    isbn13: '9781554516711'
+    link: https://www.goodreads.com/book/show/21561032-patient-zero
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '207708'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397430616l/21561032._SX50_.jpg
+    title: 'Patient Zero: Solving the Mysteries of Deadly Epidemics'
+    title_without_series: 'Patient Zero: Solving the Mysteries of Deadly Epidemics'
+    uri: kca://book/amzn1.gr.book.v1.p5joebIVIKn8J_vR20UfJA
+    work:
+      id: '40893160'
+  - authors:
+      author:
+        id: '2924895'
+        link: https://www.goodreads.com/author/show/2924895.Guadalupe_Garcia_McCall
+        name: Guadalupe Garcia McCall
+    average_rating: '4.19'
+    id: '14342632'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337982323l/14342632._SX98_.jpg
+    isbn: '1600609007'
+    isbn13: '9781600609008'
+    link: https://www.goodreads.com/book/show/14342632-summer-of-the-mariposas
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '207708'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337982323l/14342632._SY75_.jpg
+    title: Summer of the Mariposas
+    title_without_series: Summer of the Mariposas
+    uri: kca://book/amzn1.gr.book.v1.tTylfacdzuvIiA61M8jlUA
+    work:
+      id: '19984544'
+  - authors:
+      author:
+        id: '491170'
+        link: https://www.goodreads.com/author/show/491170.Dan_Barber
+        name: Dan Barber
+    average_rating: '4.19'
+    id: '18667790'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394997914l/18667790._SX98_.jpg
+    isbn: '1594204071'
+    isbn13: '9781594204074'
+    link: https://www.goodreads.com/book/show/18667790-the-third-plate
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '207708'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394997914l/18667790._SY75_.jpg
+    title: 'The Third Plate: Field Notes on the Future of Food'
+    title_without_series: 'The Third Plate: Field Notes on the Future of Food'
+    uri: kca://book/amzn1.gr.book.v1.qtQSSKfFulQ-bTrk5-wwDg
+    work:
+      id: '26493453'
+  - authors:
+      author:
+        id: '1124'
+        link: https://www.goodreads.com/author/show/1124.Anthony_Bourdain
+        name: Anthony Bourdain
+    average_rating: '4.19'
+    id: '33313'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0060899220
+    isbn13: '9780060899226'
+    link: https://www.goodreads.com/book/show/33313.Kitchen_Confidential
+    num_pages: '312'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '207708'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Kitchen Confidential: Adventures in the Culinary Underbelly'
+    title_without_series: 'Kitchen Confidential: Adventures in the Culinary Underbelly'
+    uri: kca://book/amzn1.gr.book.v1.RmaXYl-eb1ooyKhIgW-8Qw
+    work:
+      id: '4219'
+  - authors:
+      author:
+        id: '915989'
+        link: https://www.goodreads.com/author/show/915989.Raj_Patel
+        name: Raj Patel
+    average_rating: '4.19'
+    id: '2015924'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358743145l/2015924._SX98_.jpg
+    isbn: '1846270103'
+    isbn13: '9781846270109'
+    link: https://www.goodreads.com/book/show/2015924.Stuffed_and_Starved
+    num_pages: '448'
+    publication_day: '13'
+    publication_month: '1'
+    publication_year: '2007'
+    ratings_count: '207708'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358743145l/2015924._SY75_.jpg
+    title: 'Stuffed and Starved: Markets, Power and the Hidden Battle for the World
+      Food System'
+    title_without_series: 'Stuffed and Starved: Markets, Power and the Hidden Battle
+      for the World Food System'
+    uri: kca://book/amzn1.gr.book.v1.jitgpC94rYpCKHrgOhhfHA
+    work:
+      id: '2251220'
+  - authors:
+      author:
+        id: '49921'
+        link: https://www.goodreads.com/author/show/49921.Robin_Wall_Kimmerer
+        name: Robin Wall Kimmerer
+    average_rating: '4.19'
+    id: '17465709'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366775928l/17465709._SX98_.jpg
+    isbn: '1571313354'
+    isbn13: '9781571313355'
+    link: https://www.goodreads.com/book/show/17465709-braiding-sweetgrass
+    num_pages: '408'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '207708'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366775928l/17465709._SY75_.jpg
+    title: 'Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the
+      Teachings of Plants'
+    title_without_series: 'Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge,
+      and the Teachings of Plants'
+    uri: kca://book/amzn1.gr.book.v1.lg_y6kFkw20RdUy2xrgsCA
+    work:
+      id: '24362458'
+  - authors:
+      author:
+        id: '15332'
+        link: https://www.goodreads.com/author/show/15332.Rachel_Carson
+        name: Rachel Carson
+    average_rating: '4.19'
+    id: '27333'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0618249060
+    isbn13: '9780618249060'
+    link: https://www.goodreads.com/book/show/27333.Silent_Spring
+    num_pages: '378'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '207708'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Silent Spring
+    title_without_series: Silent Spring
+    uri: kca://book/amzn1.gr.book.v1.jh_TGH-zRXFSZcT5O-P7Kw
+    work:
+      id: '880193'
+  - authors:
+      author:
+        id: '213951'
+        link: https://www.goodreads.com/author/show/213951.Karl_Weber
+        name: Karl Weber
+    average_rating: '4.19'
+    id: '6506085'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1605386394l/6506085._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/6506085-food-inc
+    num_pages: '338'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '207708'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1605386394l/6506085._SX50_.jpg
+    title: 'Food, Inc.: A Participant Guide: How Industrial Food is Making Us Sicker,
+      Fatter, and Poorer-And What You Can Do About It'
+    title_without_series: 'Food, Inc.: A Participant Guide: How Industrial Food is
+      Making Us Sicker, Fatter, and Poorer-And What You Can Do About It'
+    uri: kca://book/amzn1.gr.book.v1.7ptDqu2c-IITQCGJbAytAA
+    work:
+      id: '6697677'
+  - authors:
+      author:
+        id: '45840'
+        link: https://www.goodreads.com/author/show/45840.Elizabeth_Kolbert
+        name: Elizabeth Kolbert
+    average_rating: '4.19'
+    id: '17910054'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372677697l/17910054._SX98_.jpg
+    isbn: 0805092994
+    isbn13: '9780805092998'
+    link: https://www.goodreads.com/book/show/17910054-the-sixth-extinction
+    num_pages: '336'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '207708'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372677697l/17910054._SY75_.jpg
+    title: 'The Sixth Extinction: An Unnatural History'
+    title_without_series: 'The Sixth Extinction: An Unnatural History'
+    uri: kca://book/amzn1.gr.book.v1.pv7rpN_bTqQMnGsfeaIy9g
+    work:
+      id: '25095506'
+  - authors:
+      author:
+        id: '35345'
+        link: https://www.goodreads.com/author/show/35345.Michael_Moss
+        name: Michael  Moss
+    average_rating: '4.19'
+    id: '15797397'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609621984l/15797397._SX98_.jpg
+    isbn: '1400069807'
+    isbn13: '9781400069804'
+    link: https://www.goodreads.com/book/show/15797397-salt-sugar-fat
+    num_pages: '480'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '207708'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609621984l/15797397._SY75_.jpg
+    title: 'Salt Sugar Fat: How the Food Giants Hooked Us'
+    title_without_series: 'Salt Sugar Fat: How the Food Giants Hooked Us'
+    uri: kca://book/amzn1.gr.book.v1.jZlQn2EG58LWedMBSySKtg
+    work:
+      id: '21520265'
+  - authors:
+      author:
+        id: '2623'
+        link: https://www.goodreads.com/author/show/2623.Joel_Salatin
+        name: Joel Salatin
+    average_rating: '4.19'
+    id: '11521956'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311272277l/11521956._SX98_.jpg
+    isbn: 0892968192
+    isbn13: '9780892968190'
+    link: https://www.goodreads.com/book/show/11521956-folks-this-ain-t-normal
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '207708'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311272277l/11521956._SY75_.jpg
+    title: 'Folks, This Ain''t Normal: A Farmer''s Advice for Happier Hens, Healthier
+      People, and a Better World'
+    title_without_series: 'Folks, This Ain''t Normal: A Farmer''s Advice for Happier
+      Hens, Healthier People, and a Better World'
+    uri: kca://book/amzn1.gr.book.v1.ES4BF5_BUQM_Ui2GpWO9dw
+    work:
+      id: '16459074'
+  - authors:
+      author:
+        id: '2617'
+        link: https://www.goodreads.com/author/show/2617.Jonathan_Safran_Foer
+        name: Jonathan Safran Foer
+    average_rating: '4.19'
+    id: '6604712'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707697497l/6604712._SX98_.jpg
+    isbn: 0316069906
+    isbn13: '9780316069908'
+    link: https://www.goodreads.com/book/show/6604712-eating-animals
+    num_pages: '341'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '207708'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707697497l/6604712._SY75_.jpg
+    title: Eating Animals
+    title_without_series: Eating Animals
+    uri: kca://book/amzn1.gr.book.v1.DY_gdeA0hVZvLUZ7s2Q8lA
+    work:
+      id: '3149322'
+  - authors:
+      author:
+        id: '352513'
+        link: https://www.goodreads.com/author/show/352513.Michael_Greger
+        name: Michael Greger
+    average_rating: '4.19'
+    id: '25663961'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436292289l/25663961._SX98_.jpg
+    isbn: '1250066115'
+    isbn13: '9781250066114'
+    link: https://www.goodreads.com/book/show/25663961-how-not-to-die
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '207708'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436292289l/25663961._SY75_.jpg
+    title: 'How Not to Die: Discover the Foods Scientifically Proven to Prevent and
+      Reverse Disease'
+    title_without_series: 'How Not to Die: Discover the Foods Scientifically Proven
+      to Prevent and Reverse Disease'
+    uri: kca://book/amzn1.gr.book.v1.UK4_mnaCVsg8niguyFNHTg
+    work:
+      id: '45486853'
+  - authors:
+      author:
+        id: '45519'
+        link: https://www.goodreads.com/author/show/45519.Jeffrey_Pilcher
+        name: Jeffrey Pilcher
+    average_rating: '4.19'
+    id: '79963'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0415311462'
+    isbn13: '9780415311465'
+    link: https://www.goodreads.com/book/show/79963.Food_in_World_History
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '207708'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Food in World History (Themes in World History)
+    title_without_series: Food in World History
+    uri: kca://book/amzn1.gr.book.v1.iTFHAq-WqJVryjMJHQUF3g
+    work:
+      id: '77216'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '1582'
+  '@type': integer
+title: 'The Omnivore''s Dilemma: A Natural History of Four Meals'
+title_without_series: 'The Omnivore''s Dilemma: A Natural History of Four Meals'
+uri: kca://book/amzn1.gr.book.v1.n9j5F5WUeSLlV4DfBaRn0Q
+url: https://www.goodreads.com/book/show/93504.The_Omnivore_s_Dilemma
+work:
+  id: '3287769'
+  uri: kca://work/amzn1.gr.work.v1.kbKv6m4iyFNtvg065gVD3Q

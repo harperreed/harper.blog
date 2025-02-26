@@ -1,0 +1,755 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.15'
+    id: '776'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1317447168p5/776.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/776.Michael_Lewis
+    name: Michael   Lewis
+    ratings_count: '862222'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1317447168p2/776.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '48656'
+average_rating: '4.14'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: null
+edition_information: Reprint
+format: null
+id: '20639917'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395778133l/20639917._SX98_.jpg
+is_ebook: 'true'
+isbn: 0393244679
+isbn13: '9780393244670'
+json: '{"id": "20639917", "isbn": "0393244679", "isbn13": "9780393244670", "text_reviews_count":
+  {"@type": "integer", "#text": "234"}, "uri": "kca://book/amzn1.gr.book.v1.AGpGbLDbuLdfAQPqWpXUhg",
+  "title": "Flash Boys: A Wall Street Revolt", "title_without_series": "Flash Boys:
+  A Wall Street Revolt", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395778133l/20639917._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395778133l/20639917._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/20639917-flash-boys",
+  "num_pages": null, "format": null, "edition_information": "Reprint", "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "4.14", "ratings_count": "87429", "description": null, "authors":
+  {"author": {"id": "776", "name": "Michael   Lewis", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1317447168p5/776.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1317447168p2/776.jpg"},
+  "link": "https://www.goodreads.com/author/show/776.Michael_Lewis", "average_rating":
+  "4.15", "ratings_count": "862222", "text_reviews_count": "48656"}}, "published":
+  null, "work": {"id": "38053447", "uri": "kca://work/amzn1.gr.work.v1.WyU85x9hXCgEBCWUIDFkzQ"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/907996735",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B00HVJB4VM
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/20639917-flash-boys
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '65079'
+    '@name': to-read
+  - '@count': '4511'
+    '@name': currently-reading
+  - '@count': '1552'
+    '@name': non-fiction
+  - '@count': '1014'
+    '@name': business
+  - '@count': '930'
+    '@name': finance
+  - '@count': '620'
+    '@name': economics
+  - '@count': '588'
+    '@name': nonfiction
+  - '@count': '243'
+    '@name': history
+  - '@count': '197'
+    '@name': favorites
+  - '@count': '184'
+    '@name': audiobook
+  - '@count': '182'
+    '@name': owned
+  - '@count': '152'
+    '@name': investing
+  - '@count': '103'
+    '@name': audiobooks
+  - '@count': '100'
+    '@name': kindle
+  - '@count': '95'
+    '@name': trading
+  - '@count': '89'
+    '@name': library
+  - '@count': '81'
+    '@name': audio
+  - '@count': '70'
+    '@name': technology
+  - '@count': '70'
+    '@name': audible
+  - '@count': '60'
+    '@name': book-club
+  - '@count': '57'
+    '@name': wall-street
+  - '@count': '57'
+    '@name': politics
+  - '@count': '56'
+    '@name': financial
+  - '@count': '54'
+    '@name': money
+  - '@count': '53'
+    '@name': business-finance
+  - '@count': '53'
+    '@name': fiction
+  - '@count': '51'
+    '@name': business-economics
+  - '@count': '51'
+    '@name': to-buy
+  - '@count': '49'
+    '@name': economics-finance
+  - '@count': '48'
+    '@name': biography
+  - '@count': '45'
+    '@name': ebook
+  - '@count': '42'
+    '@name': books-i-own
+  - '@count': '41'
+    '@name': journalism
+  - '@count': '40'
+    '@name': finance-economics
+  - '@count': '40'
+    '@name': economy
+  - '@count': '39'
+    '@name': read-in-2014
+  - '@count': '39'
+    '@name': michael-lewis
+  - '@count': '36'
+    '@name': audio-book
+  - '@count': '32'
+    '@name': current-events
+  - '@count': '31'
+    '@name': owned-books
+  - '@count': '31'
+    '@name': investment
+  - '@count': '30'
+    '@name': business-books
+  - '@count': '29'
+    '@name': abandoned
+  - '@count': '29'
+    '@name': read-2014
+  - '@count': '29'
+    '@name': business-and-economics
+  - '@count': '28'
+    '@name': ebooks
+  - '@count': '26'
+    '@name': audio-books
+  - '@count': '26'
+    '@name': econ
+  - '@count': '25'
+    '@name': my-books
+  - '@count': '25'
+    '@name': to-read-non-fiction
+  - '@count': '25'
+    '@name': wish-list
+  - '@count': '23'
+    '@name': my-library
+  - '@count': '23'
+    '@name': finance-and-economics
+  - '@count': '21'
+    '@name': high-frequency-trading
+  - '@count': '21'
+    '@name': tech
+  - '@count': '21'
+    '@name': markets
+  - '@count': '21'
+    '@name': to-read-nonfiction
+  - '@count': '20'
+    '@name': crime
+  - '@count': '20'
+    '@name': finance-business
+  - '@count': '20'
+    '@name': bookshelf
+  - '@count': '19'
+    '@name': dnf
+  - '@count': '19'
+    '@name': did-not-finish
+  - '@count': '19'
+    '@name': listened-to
+  - '@count': '19'
+    '@name': didn-t-finish
+  - '@count': '18'
+    '@name': home-library
+  - '@count': '18'
+    '@name': default
+  - '@count': '18'
+    '@name': finance-investing
+  - '@count': '18'
+    '@name': non-fic
+  - '@count': '18'
+    '@name': general-non-fiction
+  - '@count': '18'
+    '@name': non-fiction-to-read
+  - '@count': '18'
+    '@name': e-book
+  - '@count': '17'
+    '@name': read-in-2015
+  - '@count': '17'
+    '@name': economics-and-finance
+  - '@count': '17'
+    '@name': recommended
+  - '@count': '17'
+    '@name': 2014-books
+  - '@count': '17'
+    '@name': have
+  - '@count': '16'
+    '@name': stock-market
+  - '@count': '16'
+    '@name': science
+  - '@count': '16'
+    '@name': purchased
+  - '@count': '16'
+    '@name': listened
+  - '@count': '16'
+    '@name': biz
+  - '@count': '16'
+    '@name': work
+  - '@count': '16'
+    '@name': true-crime
+  - '@count': '16'
+    '@name': finance-econ
+  - '@count': '15'
+    '@name': contemporary
+  - '@count': '15'
+    '@name': read-2015
+  - '@count': '15'
+    '@name': unfinished
+  - '@count': '15'
+    '@name': business-and-finance
+  - '@count': '15'
+    '@name': usa
+  - '@count': '15'
+    '@name': other
+  - '@count': '15'
+    '@name': bought
+  - '@count': '15'
+    '@name': english
+  - '@count': '15'
+    '@name': interesting
+  - '@count': '14'
+    '@name': read-2016
+  - '@count': '14'
+    '@name': investments
+  - '@count': '14'
+    '@name': society
+  - '@count': '14'
+    '@name': 2014-read
+  - '@count': '14'
+    '@name': america
+  - '@count': '13'
+    '@name': econ-finance
+  - '@count': '13'
+    '@name': economics-business
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '87429'
+read_at: ''
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/907996735
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/20639917-flash-boys\"\
+  >Flash Boys Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0393244679&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/20639917-flash-boys?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '762'
+        link: https://www.goodreads.com/author/show/762.Roger_Lowenstein
+        name: Roger Lowenstein
+    average_rating: '4.14'
+    id: '10669'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0375758259
+    isbn13: '9780375758256'
+    link: https://www.goodreads.com/book/show/10669.When_Genius_Failed
+    num_pages: '264'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '87429'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'When Genius Failed: The Rise and Fall of Long-Term Capital Management'
+    title_without_series: 'When Genius Failed: The Rise and Fall of Long-Term Capital
+      Management'
+    uri: kca://book/amzn1.gr.book.v1.UuwbFDAySHerjAMh8NfXfA
+    work:
+      id: '13308'
+  - authors:
+      author:
+        id: '3118998'
+        link: https://www.goodreads.com/author/show/3118998.Gregory_Zuckerman
+        name: Gregory Zuckerman
+    average_rating: '4.14'
+    id: '43889703'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567623099l/43889703._SX98_.jpg
+    isbn: 0241309727
+    isbn13: '9780241309728'
+    link: https://www.goodreads.com/book/show/43889703-the-man-who-solved-the-market
+    num_pages: '359'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '87429'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567623099l/43889703._SY75_.jpg
+    title: 'The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution'
+    title_without_series: 'The Man Who Solved the Market: How Jim Simons Launched
+      the Quant Revolution'
+    uri: kca://book/amzn1.gr.book.v1.XzHfEmaYjX-koLdQNTJCQw
+    work:
+      id: '68288870'
+  - authors:
+      author:
+        id: '32587'
+        link: https://www.goodreads.com/author/show/32587.Bryan_Burrough
+        name: Bryan Burrough
+    average_rating: '4.14'
+    id: '781182'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0060536357'
+    isbn13: '9780060536350'
+    link: https://www.goodreads.com/book/show/781182.Barbarians_at_the_Gate
+    num_pages: '592'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '87429'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Barbarians at the Gate: The Fall of RJR Nabisco'
+    title_without_series: 'Barbarians at the Gate: The Fall of RJR Nabisco'
+    uri: kca://book/amzn1.gr.book.v1.SoZuV191pha28PugBEwZeA
+    work:
+      id: '1011004'
+  - authors:
+      author:
+        id: '310329'
+        link: https://www.goodreads.com/author/show/310329.Scott_Patterson
+        name: Scott Patterson
+    average_rating: '4.14'
+    id: '12917124'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340911840l/12917124._SX98_.jpg
+    isbn: 0307887170
+    isbn13: '9780307887177'
+    link: https://www.goodreads.com/book/show/12917124-dark-pools
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '87429'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340911840l/12917124._SY75_.jpg
+    title: 'Dark Pools: The Rise of the Machine Traders and the Rigging of the U.S.
+      Stock Market'
+    title_without_series: 'Dark Pools: The Rise of the Machine Traders and the Rigging
+      of the U.S. Stock Market'
+    uri: kca://book/amzn1.gr.book.v1.Zm2U9tVG4AAnkdLMRkKJTA
+    work:
+      id: '18072188'
+  - authors:
+      author:
+        id: '3012335'
+        link: https://www.goodreads.com/author/show/3012335.Andrew_Ross_Sorkin
+        name: Andrew Ross Sorkin
+    average_rating: '4.14'
+    id: '6687247'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0670021253'
+    isbn13: '9780670021253'
+    link: https://www.goodreads.com/book/show/6687247-too-big-to-fail
+    num_pages: '600'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '87429'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: "Too Big to Fail: The Inside Story of How Wall Street and Washington Fought\
+      \ to Save the Financial System from Crisis \u2014 and Themselves"
+    title_without_series: "Too Big to Fail: The Inside Story of How Wall Street and\
+      \ Washington Fought to Save the Financial System from Crisis \u2014 and Themselves"
+    uri: kca://book/amzn1.gr.book.v1.5cnsYplRMHY394e1BPacTQ
+    work:
+      id: '6882582'
+  - authors:
+      author:
+        id: '65798'
+        link: https://www.goodreads.com/author/show/65798.Bethany_McLean
+        name: Bethany McLean
+    average_rating: '4.14'
+    id: '113576'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309204701l/113576._SX98_.jpg
+    isbn: '1591840538'
+    isbn13: '9781591840534'
+    link: https://www.goodreads.com/book/show/113576.The_Smartest_Guys_in_the_Room
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '87429'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309204701l/113576._SY75_.jpg
+    title: 'The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of
+      Enron'
+    title_without_series: 'The Smartest Guys in the Room: The Amazing Rise and Scandalous
+      Fall of Enron'
+    uri: kca://book/amzn1.gr.book.v1.jDlc1S5NxRtImeieMh7okg
+    work:
+      id: '1604'
+  - authors:
+      author:
+        id: '310329'
+        link: https://www.goodreads.com/author/show/310329.Scott_Patterson
+        name: Scott Patterson
+    average_rating: '4.14'
+    id: '7495395'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320432894l/7495395._SX98_.jpg
+    isbn: '0307453375'
+    isbn13: '9780307453372'
+    link: https://www.goodreads.com/book/show/7495395-the-quants
+    num_pages: '337'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '87429'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320432894l/7495395._SY75_.jpg
+    title: 'The Quants: How a New Breed of Math Whizzes Conquered Wall Street and
+      Nearly Destroyed It'
+    title_without_series: 'The Quants: How a New Breed of Math Whizzes Conquered Wall
+      Street and Nearly Destroyed It'
+    uri: kca://book/amzn1.gr.book.v1.VfAag7ia7XSFFJ2A8tUTiQ
+    work:
+      id: '9648524'
+  - authors:
+      author:
+        id: '15890821'
+        link: https://www.goodreads.com/author/show/15890821.Sheelah_Kolhatkar
+        name: Sheelah Kolhatkar
+    average_rating: '4.14'
+    id: '32284263'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484051685l/32284263._SX98_.jpg
+    isbn: 0812995805
+    isbn13: '9780812995800'
+    link: https://www.goodreads.com/book/show/32284263-black-edge
+    num_pages: '295'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '87429'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484051685l/32284263._SY75_.jpg
+    title: 'Black Edge: Inside Information, Dirty Money, and the Quest to Bring Down
+      the Most Wanted Man on Wall Street'
+    title_without_series: 'Black Edge: Inside Information, Dirty Money, and the Quest
+      to Bring Down the Most Wanted Man on Wall Street'
+    uri: kca://book/amzn1.gr.book.v1.O_XkKdy7YtB4to06bt18ow
+    work:
+      id: '52911867'
+  - authors:
+      author:
+        id: '13809869'
+        link: https://www.goodreads.com/author/show/13809869.aBookaDay
+        name: aBookaDay
+    average_rating: '4.14'
+    id: '29363577'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/29363577-the-big-short
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '87429'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Big Short: by Michael Lewis'
+    title_without_series: 'The Big Short: by Michael Lewis'
+    uri: kca://book/amzn1.gr.book.v1.F0Fo-1tHpmO72hhEDPd7fw
+    work:
+      id: '49609084'
+  - authors:
+      author:
+        id: '20447573'
+        link: https://www.goodreads.com/author/show/20447573.Tom_Wright
+        name: Tom         Wright
+    average_rating: '4.14'
+    id: '38743564'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534271010l/38743564._SX98_.jpg
+    isbn: 031643650X
+    isbn13: '9780316436502'
+    link: https://www.goodreads.com/book/show/38743564-billion-dollar-whale
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '87429'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534271010l/38743564._SY75_.jpg
+    title: 'Billion Dollar Whale: The Man Who Fooled Wall Street, Hollywood, and the
+      World'
+    title_without_series: 'Billion Dollar Whale: The Man Who Fooled Wall Street, Hollywood,
+      and the World'
+    uri: kca://book/amzn1.gr.book.v1.M_CZuriT3_p_iJf_HurxiQ
+    work:
+      id: '60319844'
+  - authors:
+      author:
+        id: '1328'
+        link: https://www.goodreads.com/author/show/1328.James_B_Stewart
+        name: James B. Stewart
+    average_rating: '4.14'
+    id: '1972'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 067179227X
+    isbn13: '9780671792275'
+    link: https://www.goodreads.com/book/show/1972.Den_of_Thieves
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '87429'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Den of Thieves
+    title_without_series: Den of Thieves
+    uri: kca://book/amzn1.gr.book.v1.Q9lAX16-ZdUnVDtDEjxJ-Q
+    work:
+      id: '37852'
+  - authors:
+      author:
+        id: '13379943'
+        link: https://www.goodreads.com/author/show/13379943.Liam_Vaughan
+        name: Liam Vaughan
+    average_rating: '4.14'
+    id: '52661266'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0385543654
+    isbn13: '9780385543651'
+    link: https://www.goodreads.com/book/show/52661266-flash-crash
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '87429'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Flash Crash: A Trading Savant, a Global Manhunt, and the Most Mysterious
+      Market Crash in History'
+    title_without_series: 'Flash Crash: A Trading Savant, a Global Manhunt, and the
+      Most Mysterious Market Crash in History'
+    uri: kca://book/amzn1.gr.book.v3.R1I2hq8igAj2QGnw
+    work:
+      id: '73098494'
+  - authors:
+      author:
+        id: '58156'
+        link: https://www.goodreads.com/author/show/58156.Connie_Bruck
+        name: Connie Bruck
+    average_rating: '4.14'
+    id: '100788'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382356059l/100788._SX98_.jpg
+    isbn: 0140120904
+    isbn13: '9780140120905'
+    link: https://www.goodreads.com/book/show/100788.The_Predators_Ball
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '87429'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382356059l/100788._SY75_.jpg
+    title: 'The Predators'' Ball: The Inside Story of Drexel Burnham and the Rise
+      of the Junk Bond Raiders'
+    title_without_series: 'The Predators'' Ball: The Inside Story of Drexel Burnham
+      and the Rise of the Junk Bond Raiders'
+    uri: kca://book/amzn1.gr.book.v1.OuAFS0B0iE15NfgpvuEBcg
+    work:
+      id: '97184'
+  - authors:
+      author:
+        id: '95329'
+        link: https://www.goodreads.com/author/show/95329.Jack_D_Schwager
+        name: Jack D. Schwager
+    average_rating: '4.14'
+    id: '966769'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0887306101
+    isbn13: '9780887306105'
+    link: https://www.goodreads.com/book/show/966769.Market_Wizards
+    num_pages: null
+    publication_day: '27'
+    publication_month: '2'
+    publication_year: '1993'
+    ratings_count: '87429'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Market Wizards: Interviews with Top Traders (Market Wizards, #1)'
+    title_without_series: 'Market Wizards: Interviews with Top Traders'
+    uri: kca://book/amzn1.gr.book.v1.nrKXhol2KS3abiiHPRfAow
+    work:
+      id: '951666'
+  - authors:
+      author:
+        id: '50019'
+        link: https://www.goodreads.com/author/show/50019.Sebastian_Mallaby
+        name: Sebastian Mallaby
+    average_rating: '4.14'
+    id: '7936425'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1594202559'
+    isbn13: '9781594202551'
+    link: https://www.goodreads.com/book/show/7936425-more-money-than-god
+    num_pages: '496'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '87429'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'More Money Than God: Hedge Funds and the Making of a New Elite'
+    title_without_series: 'More Money Than God: Hedge Funds and the Making of a New
+      Elite'
+    uri: kca://book/amzn1.gr.book.v1.P4EYVskzh55crk83BJIBEA
+    work:
+      id: '11340346'
+  - authors:
+      author:
+        id: '8344235'
+        link: https://www.goodreads.com/author/show/8344235.Bill_Browder
+        name: Bill Browder
+    average_rating: '4.14'
+    id: '22609522'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422848658l/22609522._SX98_.jpg
+    isbn: 147675571X
+    isbn13: '9781476755717'
+    link: https://www.goodreads.com/book/show/22609522-red-notice
+    num_pages: '380'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '87429'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422848658l/22609522._SY75_.jpg
+    title: 'Red Notice: A True Story of High Finance, Murder, and One Man''s Fight
+      for Justice'
+    title_without_series: 'Red Notice: A True Story of High Finance, Murder, and One
+      Man''s Fight for Justice'
+    uri: kca://book/amzn1.gr.book.v1.LL5qk5FVzK228GPDb7ro8w
+    work:
+      id: '42099492'
+  - authors:
+      author:
+        id: '10070'
+        link: https://www.goodreads.com/author/show/10070.Chris_Miller
+        name: Chris   Miller
+    average_rating: '4.14'
+    id: '60321447'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662566820l/60321447._SX98_.jpg
+    isbn: '1982172002'
+    isbn13: '9781982172008'
+    link: https://www.goodreads.com/book/show/60321447-chip-war
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '87429'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662566820l/60321447._SY75_.jpg
+    title: 'Chip War: The Fight for the World''s Most Critical Technology'
+    title_without_series: 'Chip War: The Fight for the World''s Most Critical Technology'
+    uri: kca://book/amzn1.gr.book.v3.-TtOVtI5RYKeyjzZ
+    work:
+      id: '95096793'
+  - authors:
+      author:
+        id: '3118998'
+        link: https://www.goodreads.com/author/show/3118998.Gregory_Zuckerman
+        name: Gregory Zuckerman
+    average_rating: '4.14'
+    id: '6986632'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320488806l/6986632._SX98_.jpg
+    isbn: 0385529910
+    isbn13: '9780385529914'
+    link: https://www.goodreads.com/book/show/6986632-the-greatest-trade-ever
+    num_pages: '304'
+    publication_day: '3'
+    publication_month: '11'
+    publication_year: '2009'
+    ratings_count: '87429'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320488806l/6986632._SY75_.jpg
+    title: 'The Greatest Trade Ever: The Behind-the-Scenes Story of How John Paulson
+      Defied Wall Street and Made Financial History'
+    title_without_series: 'The Greatest Trade Ever: The Behind-the-Scenes Story of
+      How John Paulson Defied Wall Street and Made Financial History'
+    uri: kca://book/amzn1.gr.book.v1.javj07pg9-zEwNrY54q0aw
+    work:
+      id: '7228708'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395778133l/20639917._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '234'
+  '@type': integer
+title: 'Flash Boys: A Wall Street Revolt'
+title_without_series: 'Flash Boys: A Wall Street Revolt'
+uri: kca://book/amzn1.gr.book.v1.AGpGbLDbuLdfAQPqWpXUhg
+url: https://www.goodreads.com/book/show/20639917-flash-boys
+work:
+  id: '38053447'
+  uri: kca://work/amzn1.gr.work.v1.WyU85x9hXCgEBCWUIDFkzQ

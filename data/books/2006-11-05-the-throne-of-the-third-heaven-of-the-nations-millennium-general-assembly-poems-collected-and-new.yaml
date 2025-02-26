@@ -1,0 +1,742 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.87'
+    id: '6468'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1438716672p5/6468.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/6468.Denis_Johnson
+    name: Denis Johnson
+    ratings_count: '123471'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1438716672p2/6468.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '13124'
+average_rating: '4.13'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: "From the award-winning poet and novelist\u2014a must-have collection\
+  \ of his four previous books of poetry plus a selection of new, unpublished work."
+edition_information: Reprint
+format: null
+id: '9904'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507648102l/9904._SX98_.jpg
+is_ebook: 'false'
+isbn: 0060926961
+isbn13: '9780060926960'
+json: '{"id": "9904", "isbn": "0060926961", "isbn13": "9780060926960", "text_reviews_count":
+  {"@type": "integer", "#text": "46"}, "uri": "kca://book/amzn1.gr.book.v1.R7RyxWreF1qdHhxElXFr_g",
+  "title": "The Throne of the Third Heaven of the Nations Millennium General Assembly:
+  Poems Collected and New", "title_without_series": "The Throne of the Third Heaven
+  of the Nations Millennium General Assembly: Poems Collected and New", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507648102l/9904._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507648102l/9904._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/9904.The_Throne_of_the_Third_Heaven_of_the_Nations_Millennium_General_Assembly",
+  "num_pages": "225", "format": null, "edition_information": "Reprint", "publisher":
+  null, "publication_day": "1", "publication_year": "1996", "publication_month": "1",
+  "average_rating": "4.13", "ratings_count": "665", "description": "From the award-winning
+  poet and novelist\u2014a must-have collection of his four previous books of poetry
+  plus a selection of new, unpublished work.", "authors": {"author": {"id": "6468",
+  "name": "Denis Johnson", "role": null, "image_url": {"@nophoto": "false", "#text":
+  "https://images.gr-assets.com/authors/1438716672p5/6468.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1438716672p2/6468.jpg"},
+  "link": "https://www.goodreads.com/author/show/6468.Denis_Johnson", "average_rating":
+  "3.87", "ratings_count": "123471", "text_reviews_count": "13124"}}, "published":
+  "1996", "work": {"id": "12660", "uri": "kca://work/amzn1.gr.work.v1.Zin_0D0FyF_rYJQrMeYLRg"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417546",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B001TKD4ZS
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/9904.The_Throne_of_the_Third_Heaven_of_the_Nations_Millennium_General_Assembly
+marketplace_id: ATVPDKIKX0DER
+num_pages: '225'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '529'
+    '@name': to-read
+  - '@count': '106'
+    '@name': poetry
+  - '@count': '27'
+    '@name': currently-reading
+  - '@count': '5'
+    '@name': favorites
+  - '@count': '4'
+    '@name': poems
+  - '@count': '3'
+    '@name': kindle
+  - '@count': '3'
+    '@name': denis-johnson
+  - '@count': '2'
+    '@name': my-library
+  - '@count': '2'
+    '@name': poetry-collections
+  - '@count': '2'
+    '@name': poetry-own
+  - '@count': '2'
+    '@name': owned
+  - '@count': '2'
+    '@name': poetry-to-read
+  - '@count': '2'
+    '@name': poetry-read
+  - '@count': '1'
+    '@name': this-year-poetry
+  - '@count': '1'
+    '@name': to-purchase
+  - '@count': '1'
+    '@name': books-to-re-read
+  - '@count': '1'
+    '@name': poesy
+  - '@count': '1'
+    '@name': not-at-library-suggest-purchases
+  - '@count': '1'
+    '@name': tier-2
+  - '@count': '1'
+    '@name': poetry-originally-in-english
+  - '@count': '1'
+    '@name': sleeze-lit
+  - '@count': '1'
+    '@name': author-m
+  - '@count': '1'
+    '@name': looking-for-tr
+  - '@count': '1'
+    '@name': favorite-books
+  - '@count': '1'
+    '@name': to-donate
+  - '@count': '1'
+    '@name': closet-1
+  - '@count': '1'
+    '@name': x
+  - '@count': '1'
+    '@name': read2023
+  - '@count': '1'
+    '@name': import
+  - '@count': '1'
+    '@name': owned-books
+  - '@count': '1'
+    '@name': my-poetry-collection
+  - '@count': '1'
+    '@name': surrealism
+  - '@count': '1'
+    '@name': postmodern
+  - '@count': '1'
+    '@name': experimental
+  - '@count': '1'
+    '@name': contemporary
+  - '@count': '1'
+    '@name': ghazal
+  - '@count': '1'
+    '@name': nicr
+  - '@count': '1'
+    '@name': wlfdebra
+  - '@count': '1'
+    '@name': 2022-read
+  - '@count': '1'
+    '@name': mfa
+  - '@count': '1'
+    '@name': exams
+  - '@count': '1'
+    '@name': have
+  - '@count': '1'
+    '@name': queued-downloaded
+  - '@count': '1'
+    '@name': queued
+  - '@count': '1'
+    '@name': default
+  - '@count': '1'
+    '@name': america-canada
+  - '@count': '1'
+    '@name': own-hardcover
+  - '@count': '1'
+    '@name': james-williams-library
+  - '@count': '1'
+    '@name': dnf
+  - '@count': '1'
+    '@name': my_collection
+  - '@count': '1'
+    '@name': faves
+  - '@count': '1'
+    '@name': unshelved
+  - '@count': '1'
+    '@name': 0-a-own-to-read
+  - '@count': '1'
+    '@name': 2020-books
+  - '@count': '1'
+    '@name': a-poetry-poetics
+  - '@count': '1'
+    '@name': classic-list
+  - '@count': '1'
+    '@name': physical-text
+  - '@count': '1'
+    '@name': e-library-read
+  - '@count': '1'
+    '@name': shelf-1
+  - '@count': '1'
+    '@name': they-stay-with-you
+  - '@count': '1'
+    '@name': zp-1990s-e
+  - '@count': '1'
+    '@name': zformat-ebook
+  - '@count': '1'
+    '@name': current_test
+  - '@count': '1'
+    '@name': house-library
+  - '@count': '1'
+    '@name': poetry-read-in-2018
+  - '@count': '1'
+    '@name': other-poetry-cookbooks-etc
+  - '@count': '1'
+    '@name': literature
+  - '@count': '1'
+    '@name': prose-poetry-philosophy-and-some-ru
+  - '@count': '1'
+    '@name': multi-genre-writer-project-2018-19
+  - '@count': '1'
+    '@name': to-read-poetry
+  - '@count': '1'
+    '@name': paris-sept-14
+  - '@count': '1'
+    '@name': paris-july-14
+  - '@count': '1'
+    '@name': johnson-denis
+  - '@count': '1'
+    '@name': in-my-library
+  - '@count': '1'
+    '@name': athens-17
+  - '@count': '1'
+    '@name': 1-poetry
+  - '@count': '1'
+    '@name': poesia
+  - '@count': '1'
+    '@name': filosofia
+  - '@count': '1'
+    '@name': eua
+  - '@count': '1'
+    '@name': ebooks
+  - '@count': '1'
+    '@name': it-rhymes-sometimes
+  - '@count': '1'
+    '@name': to-buy
+  - '@count': '1'
+    '@name': read-2017
+  - '@count': '1'
+    '@name': read-in-2011
+  - '@count': '1'
+    '@name': pub-1990s
+  - '@count': '1'
+    '@name': replace-with-hardcover
+  - '@count': '1'
+    '@name': used4work
+  - '@count': '1'
+    '@name': paris-sept-16
+  - '@count': '1'
+    '@name': to-read-3
+  - '@count': '1'
+    '@name': paris-may-16
+  - '@count': '1'
+    '@name': shelfari-favorites
+  - '@count': '1'
+    '@name': male-author
+  - '@count': '1'
+    '@name': library
+  - '@count': '1'
+    '@name': misc-rereads
+  - '@count': '1'
+    '@name': lis-jul-15
+  - '@count': '1'
+    '@name': fict
+  - '@count': '1'
+    '@name': owned-and-unread
+  - '@count': '1'
+    '@name': format-poetry
+  - '@count': '1'
+    '@name': read-in-2014
+  - '@count': '1'
+    '@name': on-deck
+publication_day: '1'
+publication_month: '1'
+publication_year: '1996'
+published: '1996'
+publisher: null
+ratings_count: '665'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417546
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/9904.The_Throne_of_the_Third_Heaven_of_the_Nations_Millennium_General_Assembly\"\
+  >The Throne of the Third Heaven of the Nations Millennium General Assembly Reviews</a></h1></div>\n\
+  \  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0060926961&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/9904.The_Throne_of_the_Third_Heaven_of_the_Nations_Millennium_General_Assembly?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '49237'
+        link: https://www.goodreads.com/author/show/49237.Joy_Williams
+        name: Joy Williams
+    average_rating: '4.13'
+    id: '201446034'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1959030590'
+    isbn13: '9781959030591'
+    link: https://www.goodreads.com/book/show/201446034-concerning-the-future-of-souls
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '665'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Concerning the Future of Souls
+    title_without_series: Concerning the Future of Souls
+    uri: kca://book/amzn1.gr.book.v3.j9LEpVMxxHRtM3jI
+    work:
+      id: '205735436'
+  - authors:
+      author:
+        id: '10427'
+        link: https://www.goodreads.com/author/show/10427.James_Baldwin
+        name: James Baldwin
+    average_rating: '4.13'
+    id: '18166999'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377628926l/18166999._SX98_.jpg
+    isbn: 0807084867
+    isbn13: '9780807084861'
+    link: https://www.goodreads.com/book/show/18166999-jimmy-s-blues-and-other-poems
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '665'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377628926l/18166999._SY75_.jpg
+    title: Jimmy's Blues and Other Poems
+    title_without_series: Jimmy's Blues and Other Poems
+    uri: kca://book/amzn1.gr.book.v1.CUvUpUT_gkot_dAPysogFg
+    work:
+      id: '25533205'
+  - authors:
+      author:
+        id: '5144'
+        link: https://www.goodreads.com/author/show/5144.James_Joyce
+        name: James Joyce
+    average_rating: '4.13'
+    id: '338798'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428891345l/338798._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/338798.Ulysses
+    num_pages: '783'
+    publication_day: null
+    publication_month: null
+    publication_year: '1990'
+    ratings_count: '665'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428891345l/338798._SY75_.jpg
+    title: Ulysses
+    title_without_series: Ulysses
+    uri: kca://book/amzn1.gr.book.v1.9Be2R7GOvfOa8G2VI9kuUw
+    work:
+      id: '2368224'
+  - authors:
+      author:
+        id: '25415'
+        link: https://www.goodreads.com/author/show/25415.Charles_Simic
+        name: Charles Simic
+    average_rating: '4.13'
+    id: '539143'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382943712l/539143._SX98_.jpg
+    isbn: 0156983508
+    isbn13: '9780156983501'
+    link: https://www.goodreads.com/book/show/539143.The_World_Doesn_t_End
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '665'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382943712l/539143._SX50_.jpg
+    title: The World Doesn't End
+    title_without_series: The World Doesn't End
+    uri: kca://book/amzn1.gr.book.v1.6NZbWfTEV_oSQ1ZbyVlnzw
+    work:
+      id: '526530'
+  - authors:
+      author:
+        id: '252532'
+        link: https://www.goodreads.com/author/show/252532.Dwight_Macdonald
+        name: Dwight Macdonald
+    average_rating: '4.13'
+    id: '10584172'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333580708l/10584172._SX98_.jpg
+    isbn: 159017447X
+    isbn13: '9781590174470'
+    link: https://www.goodreads.com/book/show/10584172-masscult-and-midcult
+    num_pages: '289'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '665'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333580708l/10584172._SY75_.jpg
+    title: 'Masscult and Midcult: Essays Against the American Grain (New York Review
+      Books Classics)'
+    title_without_series: 'Masscult and Midcult: Essays Against the American Grain'
+    uri: kca://book/amzn1.gr.book.v1.YPVp9h18mGnYC__QVlBOYw
+    work:
+      id: '15491408'
+  - authors:
+      author:
+        id: '4178'
+        link: https://www.goodreads.com/author/show/4178.Cormac_McCarthy
+        name: Cormac McCarthy
+    average_rating: '4.13'
+    id: '40471'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356452527l/40471._SX98_.jpg
+    isbn: 0330314920
+    isbn13: '9780330314923'
+    link: https://www.goodreads.com/book/show/40471.Outer_Dark
+    num_pages: '256'
+    publication_day: '3'
+    publication_month: '8'
+    publication_year: '2007'
+    ratings_count: '665'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356452527l/40471._SY75_.jpg
+    title: Outer Dark
+    title_without_series: Outer Dark
+    uri: kca://book/amzn1.gr.book.v1.G-fkQ8bGXiu67gzwswgO-w
+    work:
+      id: '791775'
+  - authors:
+      author:
+        id: '446692'
+        link: https://www.goodreads.com/author/show/446692.Tomas_Transtr_mer
+        name: "Tomas Transtr\xF6mer"
+    average_rating: '4.13'
+    id: '387812'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1555973515'
+    isbn13: '9781555973513'
+    link: https://www.goodreads.com/book/show/387812.The_Half_Finished_Heaven
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '665'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Half-Finished Heaven
+    title_without_series: The Half-Finished Heaven
+    uri: kca://book/amzn1.gr.book.v1.AoxpLppToPqZ44HtMVhVGA
+    work:
+      id: '377441'
+  - authors:
+      author:
+        id: '54133'
+        link: https://www.goodreads.com/author/show/54133.Andr_Breton
+        name: "Andr\xE9 Breton"
+    average_rating: '4.13'
+    id: '784977'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356496437l/784977._SX98_.jpg
+    isbn: 0947757031
+    isbn13: '9780947757038'
+    link: https://www.goodreads.com/book/show/784977.The_Magnetic_Fields
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '665'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356496437l/784977._SY75_.jpg
+    title: The Magnetic Fields
+    title_without_series: The Magnetic Fields
+    uri: kca://book/amzn1.gr.book.v1.iBtHP4nZYl7ZVsUxpkuvrw
+    work:
+      id: '770977'
+  - authors:
+      author:
+        id: '10547'
+        link: https://www.goodreads.com/author/show/10547.E_E_Cummings
+        name: E.E. Cummings
+    average_rating: '4.13'
+    id: '76889'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0802130720
+    isbn13: '9780802130723'
+    link: https://www.goodreads.com/book/show/76889.100_Selected_Poems
+    num_pages: '121'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '665'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 100 Selected Poems
+    title_without_series: 100 Selected Poems
+    uri: kca://book/amzn1.gr.book.v1.6QO9wn_ikSRHmT2jGXh-fQ
+    work:
+      id: '1140'
+  - authors:
+      author:
+        id: '73733'
+        link: https://www.goodreads.com/author/show/73733.Ben_Lerner
+        name: Ben Lerner
+    average_rating: '4.13'
+    id: '26114416'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450039589l/26114416._SX98_.jpg
+    isbn: 0865478201
+    isbn13: '9780865478206'
+    link: https://www.goodreads.com/book/show/26114416-the-hatred-of-poetry
+    num_pages: '86'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '665'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450039589l/26114416._SX50_.jpg
+    title: The Hatred of Poetry
+    title_without_series: The Hatred of Poetry
+    uri: kca://book/amzn1.gr.book.v1.PKoWLqQbaPMYcy0JjNK4Kg
+    work:
+      id: '46061288'
+  - authors:
+      author:
+        id: '1433597'
+        link: https://www.goodreads.com/author/show/1433597.Samuel_Beckett
+        name: Samuel Beckett
+    average_rating: '4.13'
+    id: '789824'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418105598l/789824._SX98_.jpg
+    isbn: 0802150667
+    isbn13: '9780802150660'
+    link: https://www.goodreads.com/book/show/789824.How_It_Is
+    num_pages: '111'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '665'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418105598l/789824._SY75_.jpg
+    title: How It Is
+    title_without_series: How It Is
+    uri: kca://book/amzn1.gr.book.v1.GBMBIqtywy1tlTxd_9GLuQ
+    work:
+      id: '2291579'
+  - authors:
+      author:
+        id: '4456871'
+        link: https://www.goodreads.com/author/show/4456871.Ocean_Vuong
+        name: Ocean Vuong
+    average_rating: '4.13'
+    id: '23841432'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450971013l/23841432._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/23841432-night-sky-with-exit-wounds
+    num_pages: '89'
+    publication_day: '5'
+    publication_month: '4'
+    publication_year: '2016'
+    ratings_count: '665'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450971013l/23841432._SX50_.jpg
+    title: Night Sky with Exit Wounds
+    title_without_series: Night Sky with Exit Wounds
+    uri: kca://book/amzn1.gr.book.v1.Oh2c-k7ApvsRK5shYxgk_w
+    work:
+      id: '43452251'
+  - authors:
+      author:
+        id: '1264'
+        link: https://www.goodreads.com/author/show/1264.Jean_Baudrillard
+        name: Jean Baudrillard
+    average_rating: '4.13'
+    id: '22613'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1727280700l/22613._SY160_.jpg
+    isbn: '0472065211'
+    isbn13: '9780472065219'
+    link: https://www.goodreads.com/book/show/22613.Simulacra_and_Simulation
+    num_pages: '164'
+    publication_day: null
+    publication_month: null
+    publication_year: '1994'
+    ratings_count: '665'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1727280700l/22613._SY75_.jpg
+    title: Simulacra and Simulation
+    title_without_series: Simulacra and Simulation
+    uri: kca://book/amzn1.gr.book.v1.nYHYZzzF9Lv3qn-pKqyN5A
+    work:
+      id: '850798'
+  - authors:
+      author:
+        id: '7745'
+        link: https://www.goodreads.com/author/show/7745.Thomas_Bernhard
+        name: Thomas Bernhard
+    average_rating: '4.13'
+    id: '805446'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328050474l/805446._SX98_.jpg
+    isbn: '0704302063'
+    isbn13: '9780704302068'
+    link: https://www.goodreads.com/book/show/805446.On_the_Mountain
+    num_pages: '143'
+    publication_day: null
+    publication_month: null
+    publication_year: '1991'
+    ratings_count: '665'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328050474l/805446._SY75_.jpg
+    title: On the Mountain
+    title_without_series: On the Mountain
+    uri: kca://book/amzn1.gr.book.v1.e_mfn81QAmKozeTHvq0l4g
+    work:
+      id: '791398'
+  - authors:
+      author:
+        id: '6765'
+        link: https://www.goodreads.com/author/show/6765.Virginia_Woolf
+        name: Virginia Woolf
+    average_rating: '4.13'
+    id: '46114'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645526068l/46114._SX98_.jpg
+    isbn: 0156949601
+    isbn13: '9780156949606'
+    link: https://www.goodreads.com/book/show/46114.The_Waves
+    num_pages: '297'
+    publication_day: '1'
+    publication_month: '6'
+    publication_year: '1978'
+    ratings_count: '665'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645526068l/46114._SY75_.jpg
+    title: The Waves
+    title_without_series: The Waves
+    uri: kca://book/amzn1.gr.book.v1.2vF4y66N-HWoovSO-V_UFw
+    work:
+      id: '6057263'
+  - authors:
+      author:
+        id: '4261'
+        link: https://www.goodreads.com/author/show/4261.Allen_Ginsberg
+        name: Allen Ginsberg
+    average_rating: '4.13'
+    id: '6295'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668784961l/6295._SX98_.jpg
+    isbn: 0872863107
+    isbn13: '9780872863101'
+    link: https://www.goodreads.com/book/show/6295.Howl_and_Other_Poems
+    num_pages: null
+    publication_day: '1'
+    publication_month: '1'
+    publication_year: '2001'
+    ratings_count: '665'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668784961l/6295._SX50_.jpg
+    title: Howl and Other Poems
+    title_without_series: Howl and Other Poems
+    uri: kca://book/amzn1.gr.book.v1.TvbiyfTuxk-qcl5TBxVT4g
+    work:
+      id: '2290688'
+  - authors:
+      author:
+        id: '86801'
+        link: https://www.goodreads.com/author/show/86801.John_Ashbery
+        name: John Ashbery
+    average_rating: '4.13'
+    id: '150225'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311993900l/150225._SX98_.jpg
+    isbn: 0374525900
+    isbn13: '9780374525903'
+    link: https://www.goodreads.com/book/show/150225.Houseboat_Days
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: '1999'
+    ratings_count: '665'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311993900l/150225._SY75_.jpg
+    title: Houseboat Days
+    title_without_series: Houseboat Days
+    uri: kca://book/amzn1.gr.book.v1.rCe9MjjIqBKuPATg-Yz4ew
+    work:
+      id: '1617639'
+  - authors:
+      author:
+        id: '8881'
+        link: https://www.goodreads.com/author/show/8881.Ry_Murakami
+        name: "Ry\u016B Murakami"
+    average_rating: '4.13'
+    id: '14288'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 014303863X
+    isbn13: '9780143038634'
+    link: https://www.goodreads.com/book/show/14288.Piercing
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '665'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Piercing
+    title_without_series: Piercing
+    uri: kca://book/amzn1.gr.book.v1.3oyDSG4a-h7a7iy9MSJemg
+    work:
+      id: '816636'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507648102l/9904._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '46'
+  '@type': integer
+title: 'The Throne of the Third Heaven of the Nations Millennium General Assembly:
+  Poems Collected and New'
+title_without_series: 'The Throne of the Third Heaven of the Nations Millennium General
+  Assembly: Poems Collected and New'
+uri: kca://book/amzn1.gr.book.v1.R7RyxWreF1qdHhxElXFr_g
+url: https://www.goodreads.com/book/show/9904.The_Throne_of_the_Third_Heaven_of_the_Nations_Millennium_General_Assembly
+work:
+  id: '12660'
+  uri: kca://work/amzn1.gr.work.v1.Zin_0D0FyF_rYJQrMeYLRg
