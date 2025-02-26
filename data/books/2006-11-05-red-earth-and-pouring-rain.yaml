@@ -1,0 +1,741 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.85'
+    id: '22496'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1356276914p5/22496.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/22496.Vikram_Chandra
+    name: Vikram Chandra
+    ratings_count: '24780'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1356276914p2/22496.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '2706'
+average_rating: '3.80'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: Combining Indian myths, epic history, and the story of three college
+  kids in search of America, a narrative includes the monkey's story of an Indian
+  poet and warrior and an American road novel of college students driving cross-country.
+edition_information: 1st, First Edition
+format: null
+id: '129678'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344267710l/129678._SX98_.jpg
+is_ebook: 'false'
+isbn: 0316132934
+isbn13: '9780316132930'
+json: '{"id": "129678", "isbn": "0316132934", "isbn13": "9780316132930", "text_reviews_count":
+  {"@type": "integer", "#text": "223"}, "uri": "kca://book/amzn1.gr.book.v1.2ARizIO4eWvWIjBacpQ59g",
+  "title": "Red Earth and Pouring Rain", "title_without_series": "Red Earth and Pouring
+  Rain", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344267710l/129678._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344267710l/129678._SX50_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/129678.Red_Earth_and_Pouring_Rain",
+  "num_pages": "542", "format": null, "edition_information": "1st, First Edition",
+  "publisher": "Back Bay Books", "publication_day": null, "publication_year": null,
+  "publication_month": null, "average_rating": "3.80", "ratings_count": "2730", "description":
+  "Combining Indian myths, epic history, and the story of three college kids in search
+  of America, a narrative includes the monkey''s story of an Indian poet and warrior
+  and an American road novel of college students driving cross-country.", "authors":
+  {"author": {"id": "22496", "name": "Vikram Chandra", "role": null, "image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1356276914p5/22496.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1356276914p2/22496.jpg"},
+  "link": "https://www.goodreads.com/author/show/22496.Vikram_Chandra", "average_rating":
+  "3.85", "ratings_count": "24780", "text_reviews_count": "2706"}}, "published": null,
+  "work": {"id": "159892", "uri": "kca://work/amzn1.gr.work.v1.94JxYIu5QWXNClMmvgrbCw"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417657",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B004ZGZDCU
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/129678.Red_Earth_and_Pouring_Rain
+marketplace_id: ATVPDKIKX0DER
+num_pages: '542'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '5096'
+    '@name': to-read
+  - '@count': '232'
+    '@name': currently-reading
+  - '@count': '134'
+    '@name': fiction
+  - '@count': '81'
+    '@name': india
+  - '@count': '35'
+    '@name': fantasy
+  - '@count': '29'
+    '@name': favorites
+  - '@count': '28'
+    '@name': owned
+  - '@count': '28'
+    '@name': magical-realism
+  - '@count': '26'
+    '@name': indian
+  - '@count': '18'
+    '@name': literature
+  - '@count': '15'
+    '@name': asia
+  - '@count': '12'
+    '@name': my-library
+  - '@count': '12'
+    '@name': magic-realism
+  - '@count': '12'
+    '@name': literary-fiction
+  - '@count': '12'
+    '@name': indian-authors
+  - '@count': '10'
+    '@name': historical-fiction
+  - '@count': '9'
+    '@name': south-asia
+  - '@count': '9'
+    '@name': indian-fiction
+  - '@count': '9'
+    '@name': abandoned
+  - '@count': '8'
+    '@name': indian-literature
+  - '@count': '8'
+    '@name': novels
+  - '@count': '7'
+    '@name': default
+  - '@count': '7'
+    '@name': south-asian
+  - '@count': '6'
+    '@name': on-hold
+  - '@count': '6'
+    '@name': cultural
+  - '@count': '6'
+    '@name': owned-books
+  - '@count': '6'
+    '@name': general-fiction
+  - '@count': '6'
+    '@name': favourites
+  - '@count': '6'
+    '@name': narrativa
+  - '@count': '6'
+    '@name': books-i-own
+  - '@count': '6'
+    '@name': contemporary
+  - '@count': '6'
+    '@name': indian-lit
+  - '@count': '6'
+    '@name': did-not-finish
+  - '@count': '5'
+    '@name': physical-tbr
+  - '@count': '5'
+    '@name': dnf
+  - '@count': '5'
+    '@name': indian-writing
+  - '@count': '5'
+    '@name': tbr
+  - '@count': '5'
+    '@name': ebook
+  - '@count': '5'
+    '@name': my-books
+  - '@count': '5'
+    '@name': south-asian-fiction
+  - '@count': '5'
+    '@name': contemporary-fiction
+  - '@count': '4'
+    '@name': bookshelf
+  - '@count': '4'
+    '@name': wish-list
+  - '@count': '4'
+    '@name': gave-up-on
+  - '@count': '4'
+    '@name': book-club
+  - '@count': '4'
+    '@name': unfinished
+  - '@count': '4'
+    '@name': indian-author
+  - '@count': '3'
+    '@name': maybe
+  - '@count': '3'
+    '@name': novel
+  - '@count': '3'
+    '@name': shelfari-favorites
+  - '@count': '3'
+    '@name': biblioteca
+  - '@count': '3'
+    '@name': indian-writers
+  - '@count': '3'
+    '@name': i-own
+  - '@count': '3'
+    '@name': home-library
+  - '@count': '3'
+    '@name': mythology
+  - '@count': '3'
+    '@name': books
+  - '@count': '3'
+    '@name': must-read
+  - '@count': '3'
+    '@name': to-buy
+  - '@count': '3'
+    '@name': reviewed
+  - '@count': '3'
+    '@name': read-in-2013
+  - '@count': '3'
+    '@name': kindle
+  - '@count': '3'
+    '@name': cultural-india
+  - '@count': '3'
+    '@name': usa
+  - '@count': '3'
+    '@name': adventure
+  - '@count': '3'
+    '@name': purchased
+  - '@count': '3'
+    '@name': contemporary-lit
+  - '@count': '3'
+    '@name': modern
+  - '@count': '3'
+    '@name': couldn-t-finish
+  - '@count': '3'
+    '@name': library
+  - '@count': '3'
+    '@name': india-fiction
+  - '@count': '3'
+    '@name': own-it
+  - '@count': '3'
+    '@name': modern-fiction
+  - '@count': '2'
+    '@name': unread
+  - '@count': '2'
+    '@name': literary
+  - '@count': '2'
+    '@name': look-into
+  - '@count': '2'
+    '@name': classics
+  - '@count': '2'
+    '@name': non-fiction
+  - '@count': '2'
+    '@name': colonialism
+  - '@count': '2'
+    '@name': calibre
+  - '@count': '2'
+    '@name': the-l-library
+  - '@count': '2'
+    '@name': my-bookshelf
+  - '@count': '2'
+    '@name': maybe-someday
+  - '@count': '2'
+    '@name': on-my-shelf
+  - '@count': '2'
+    '@name': fiction-shelf
+  - '@count': '2'
+    '@name': history
+  - '@count': '2'
+    '@name': favs
+  - '@count': '2'
+    '@name': fantasy-sci-fi
+  - '@count': '2'
+    '@name': world-lit
+  - '@count': '2'
+    '@name': personal-collection
+  - '@count': '2'
+    '@name': south-asian-literature
+  - '@count': '2'
+    '@name': to-read-fiction
+  - '@count': '2'
+    '@name': read-in-2018
+  - '@count': '2'
+    '@name': wfa
+  - '@count': '2'
+    '@name': tbr-fiction
+  - '@count': '2'
+    '@name': tsundoku
+  - '@count': '2'
+    '@name': re-read
+  - '@count': '2'
+    '@name': my-book-collection
+  - '@count': '2'
+    '@name': z-fisico
+  - '@count': '2'
+    '@name': p-india
+  - '@count': '2'
+    '@name': e-books
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: Back Bay Books
+ratings_count: '2730'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417657
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/129678.Red_Earth_and_Pouring_Rain\"\
+  >Red Earth and Pouring Rain Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0316132934&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/129678.Red_Earth_and_Pouring_Rain?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '3299'
+        link: https://www.goodreads.com/author/show/3299.Salman_Rushdie
+        name: Salman Rushdie
+    average_rating: '3.80'
+    id: '4835'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419913148l/4835._SX98_.jpg
+    isbn: 0670886580
+    isbn13: '9780670886586'
+    link: https://www.goodreads.com/book/show/4835.Haroun_and_the_Sea_of_Stories
+    num_pages: '224'
+    publication_day: '27'
+    publication_month: '8'
+    publication_year: '1999'
+    ratings_count: '2730'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419913148l/4835._SX50_.jpg
+    title: 'Haroun and the Sea of Stories (Khalifa Brothers, #1)'
+    title_without_series: Haroun and the Sea of Stories
+    uri: kca://book/amzn1.gr.book.v1.veHDQekE2iaGHJs-FdVmDw
+    work:
+      id: '1934157'
+  - authors:
+      author:
+        id: '3299'
+        link: https://www.goodreads.com/author/show/3299.Salman_Rushdie
+        name: Salman Rushdie
+    average_rating: '3.80'
+    id: '4831'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363581804l/4831._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/4831.Shame
+    num_pages: '287'
+    publication_day: '18'
+    publication_month: '5'
+    publication_year: '1995'
+    ratings_count: '2730'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363581804l/4831._SY75_.jpg
+    title: Shame
+    title_without_series: Shame
+    uri: kca://book/amzn1.gr.book.v1.7VySLsbzcBJBFLL3gy1KTA
+    work:
+      id: '855015'
+  - authors:
+      author:
+        id: '37715'
+        link: https://www.goodreads.com/author/show/37715.Carlo_Fruttero
+        name: Carlo Fruttero
+    average_rating: '3.80'
+    id: '4216251'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349122606l/4216251.jpg
+    isbn: '8804325771'
+    isbn13: '9788804325772'
+    link: https://www.goodreads.com/book/show/4216251-l-amante-senza-fissa-dimora
+    num_pages: '270'
+    publication_day: null
+    publication_month: null
+    publication_year: '1989'
+    ratings_count: '2730'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349122606l/4216251._SY75_.jpg
+    title: L'amante senza fissa dimora
+    title_without_series: L'amante senza fissa dimora
+    uri: kca://book/amzn1.gr.book.v1.MGWuju6q1T50kmJanUKVEA
+    work:
+      id: '1356240'
+  - authors:
+      author:
+        id: '643126'
+        link: https://www.goodreads.com/author/show/643126.Muriel_Barbery
+        name: Muriel Barbery
+    average_rating: '3.80'
+    id: '6366085'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1933372958'
+    isbn13: '9781933372952'
+    link: https://www.goodreads.com/book/show/6366085-gourmet-rhapsody
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2730'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Gourmet Rhapsody
+    title_without_series: Gourmet Rhapsody
+    uri: kca://book/amzn1.gr.book.v1.T4A8wFsiLQ5EYzX6GT9mqw
+    work:
+      id: '17405273'
+  - authors:
+      author:
+        id: '3534'
+        link: https://www.goodreads.com/author/show/3534.Toni_Morrison
+        name: Toni Morrison
+    average_rating: '3.80'
+    id: '3009435'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0307264238
+    isbn13: '9780307264237'
+    link: https://www.goodreads.com/book/show/3009435-a-mercy
+    num_pages: '167'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2730'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: A Mercy
+    title_without_series: A Mercy
+    uri: kca://book/amzn1.gr.book.v1.69bjKk01JSSH_82_5EThQQ
+    work:
+      id: '3039966'
+  - authors:
+      author:
+        id: '6134'
+        link: https://www.goodreads.com/author/show/6134.Arundhati_Roy
+        name: Arundhati Roy
+    average_rating: '3.80'
+    id: '32388712'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520327592l/32388712._SX98_.jpg
+    isbn: 067008963X
+    isbn13: '9780670089635'
+    link: https://www.goodreads.com/book/show/32388712-the-ministry-of-utmost-happiness
+    num_pages: '445'
+    publication_day: '6'
+    publication_month: '6'
+    publication_year: '2017'
+    ratings_count: '2730'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520327592l/32388712._SY75_.jpg
+    title: The Ministry of Utmost Happiness
+    title_without_series: The Ministry of Utmost Happiness
+    uri: kca://book/amzn1.gr.book.v1._UTQE0QxyMhlzZAOBD_Oxg
+    work:
+      id: '53001637'
+  - authors:
+      author:
+        id: '55217'
+        link: https://www.goodreads.com/author/show/55217.Shani_Mootoo
+        name: Shani Mootoo
+    average_rating: '3.80'
+    id: '111653'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0380731991
+    isbn13: '9780380731992'
+    link: https://www.goodreads.com/book/show/111653.Cereus_Blooms_at_Night
+    num_pages: '249'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2730'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Cereus Blooms at Night
+    title_without_series: Cereus Blooms at Night
+    uri: kca://book/amzn1.gr.book.v1.zDCBryU09k6s6sqSwdXPAw
+    work:
+      id: '819885'
+  - authors:
+      author:
+        id: '18671090'
+        link: https://www.goodreads.com/author/show/18671090.Layla_F_Saad
+        name: Layla F. Saad
+    average_rating: '3.80'
+    id: '46002342'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576000059l/46002342._SX98_.jpg
+    isbn: '1728209803'
+    isbn13: '9781728209807'
+    link: https://www.goodreads.com/book/show/46002342-me-and-white-supremacy
+    num_pages: '238'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2730'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576000059l/46002342._SY75_.jpg
+    title: 'Me and White Supremacy: Combat Racism, Change the World, and Become a
+      Good Ancestor'
+    title_without_series: 'Me and White Supremacy: Combat Racism, Change the World,
+      and Become a Good Ancestor'
+    uri: kca://book/amzn1.gr.book.v1.dsjDejB3XxwOsjMdyJXK_w
+    work:
+      id: '70866064'
+  - authors:
+      author:
+        id: '395842'
+        link: https://www.goodreads.com/author/show/395842.Margaret_Meyer
+        name: Margaret Meyer
+    average_rating: '3.80'
+    id: '101144882'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686761011l/101144882._SX98_.jpg
+    isbn: '1668011360'
+    isbn13: '9781668011362'
+    link: https://www.goodreads.com/book/show/101144882-the-witching-tide
+    num_pages: '336'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2730'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686761011l/101144882._SX50_.jpg
+    title: The Witching Tide
+    title_without_series: The Witching Tide
+    uri: kca://book/amzn1.gr.book.v3.54SoRbMbXWQx-1bZ
+    work:
+      id: '96206636'
+  - authors:
+      author:
+        id: '34119774'
+        link: https://www.goodreads.com/author/show/34119774.Devika_Rege
+        name: Devika Rege
+    average_rating: '3.80'
+    id: '205478780'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1324095490'
+    isbn13: '9781324095491'
+    link: https://www.goodreads.com/book/show/205478780-quarterlife
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2730'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Quarterlife
+    title_without_series: Quarterlife
+    uri: kca://book/amzn1.gr.book.v3.iU_PrvvwZ90hqA7u
+    work:
+      id: '157760355'
+  - authors:
+      author:
+        id: '51051'
+        link: https://www.goodreads.com/author/show/51051.Bernardine_Evaristo
+        name: Bernardine Evaristo
+    average_rating: '3.80'
+    id: '17879710'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367575479l/17879710._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/17879710-mr-loverman
+    num_pages: '307'
+    publication_day: '29'
+    publication_month: '8'
+    publication_year: '2013'
+    ratings_count: '2730'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367575479l/17879710._SY75_.jpg
+    title: Mr Loverman
+    title_without_series: Mr Loverman
+    uri: kca://book/amzn1.gr.book.v1.NYJeIZe62SkJDi1AOPJvEw
+    work:
+      id: '25038853'
+  - authors:
+      author:
+        id: '2934'
+        link: https://www.goodreads.com/author/show/2934.Noah_Gordon
+        name: Noah Gordon
+    average_rating: '3.80'
+    id: '4696'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0312300530'
+    isbn13: '9780312300531'
+    link: https://www.goodreads.com/book/show/4696.The_Last_Jew
+    num_pages: null
+    publication_day: '15'
+    publication_month: '8'
+    publication_year: '2000'
+    ratings_count: '2730'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Last Jew
+    title_without_series: The Last Jew
+    uri: kca://book/amzn1.gr.book.v1.pyQ3B2P2TAe_vX1vNzShHA
+    work:
+      id: '2087456'
+  - authors:
+      author:
+        id: '7277'
+        link: https://www.goodreads.com/author/show/7277.Julia_Alvarez
+        name: Julia Alvarez
+    average_rating: '3.80'
+    id: '11210'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0452282438
+    isbn13: '9780452282438'
+    link: https://www.goodreads.com/book/show/11210.In_the_Name_of_Salome
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2730'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: In the Name of Salome
+    title_without_series: In the Name of Salome
+    uri: kca://book/amzn1.gr.book.v1.naloRnHPFwV320GQX0Oyrg
+    work:
+      id: '203939'
+  - authors:
+      author:
+        id: '17287'
+        link: https://www.goodreads.com/author/show/17287.Shashi_Tharoor
+        name: Shashi Tharoor
+    average_rating: '3.80'
+    id: '30843'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1599943210l/30843._SX98_.jpg
+    isbn: '1559701943'
+    isbn13: '9781559701945'
+    link: https://www.goodreads.com/book/show/30843.The_Great_Indian_Novel
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2730'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1599943210l/30843._SY75_.jpg
+    title: The Great Indian Novel
+    title_without_series: The Great Indian Novel
+    uri: kca://book/amzn1.gr.book.v1.q_bgfLvLcHUD-lwwHLpGpQ
+    work:
+      id: '2777439'
+  - authors:
+      author:
+        id: '1728'
+        link: https://www.goodreads.com/author/show/1728.Orhan_Pamuk
+        name: Orhan Pamuk
+    average_rating: '3.80'
+    id: '2517'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547450869l/2517._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/2517.My_Name_Is_Red
+    num_pages: '417'
+    publication_day: '27'
+    publication_month: '8'
+    publication_year: '2002'
+    ratings_count: '2730'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547450869l/2517._SY75_.jpg
+    title: My Name Is Red
+    title_without_series: My Name Is Red
+    uri: kca://book/amzn1.gr.book.v1.Dys5TvcvLQwbKDeGuUWnKg
+    work:
+      id: '2150886'
+  - authors:
+      author:
+        id: '1118095'
+        link: https://www.goodreads.com/author/show/1118095.V_V_Ganeshananthan
+        name: V.V. Ganeshananthan
+    average_rating: '3.80'
+    id: '60324341'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650238941l/60324341._SX98_.jpg
+    isbn: 0812997158
+    isbn13: '9780812997156'
+    link: https://www.goodreads.com/book/show/60324341-brotherless-night
+    num_pages: '348'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2730'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650238941l/60324341._SX50_.jpg
+    title: Brotherless Night
+    title_without_series: Brotherless Night
+    uri: kca://book/amzn1.gr.book.v3.yUlG1hAmXmWFKL1S
+    work:
+      id: '96169537'
+  - authors:
+      author:
+        id: '24732'
+        link: https://www.goodreads.com/author/show/24732.Andrea_Levy
+        name: Andrea Levy
+    average_rating: '3.80'
+    id: '44001'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0312424671'
+    isbn13: '9780312424671'
+    link: https://www.goodreads.com/book/show/44001.Small_Island
+    num_pages: '441'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2730'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Small Island
+    title_without_series: Small Island
+    uri: kca://book/amzn1.gr.book.v1.90MfPhe2ulAxF_W5EaDkRg
+    work:
+      id: '573909'
+  - authors:
+      author:
+        id: '12584'
+        link: https://www.goodreads.com/author/show/12584.E_L_Doctorow
+        name: E.L. Doctorow
+    average_rating: '3.80'
+    id: '24910'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0452275725'
+    isbn13: '9780452275720'
+    link: https://www.goodreads.com/book/show/24910.World_s_Fair
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2730'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: World's Fair
+    title_without_series: World's Fair
+    uri: kca://book/amzn1.gr.book.v1.c3ET_C07bZSX6DMbUZbybQ
+    work:
+      id: '1393558'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344267710l/129678._SX50_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '223'
+  '@type': integer
+title: Red Earth and Pouring Rain
+title_without_series: Red Earth and Pouring Rain
+uri: kca://book/amzn1.gr.book.v1.2ARizIO4eWvWIjBacpQ59g
+url: https://www.goodreads.com/book/show/129678.Red_Earth_and_Pouring_Rain
+work:
+  id: '159892'
+  uri: kca://work/amzn1.gr.work.v1.94JxYIu5QWXNClMmvgrbCw

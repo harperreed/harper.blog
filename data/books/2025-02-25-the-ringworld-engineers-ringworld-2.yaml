@@ -1,0 +1,801 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.91'
+    id: '12534'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1596428206p5/12534.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/12534.Larry_Niven
+    name: Larry Niven
+    ratings_count: '517023'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1596428206p2/12534.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '19756'
+average_rating: '3.88'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: '"This rousing sequel to the classic Ringworld continues the adventures
+  of Louis Wu and Speaker-to-Animals on that fantastic planet."--School Library Journal'
+edition_information: null
+format: Paperback
+id: '760547'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403186174l/760547._SY160_.jpg
+is_ebook: 'false'
+isbn: '0345334302'
+isbn13: '9780345334305'
+json: '{"id": "760547", "isbn": "0345334302", "isbn13": "9780345334305", "text_reviews_count":
+  {"@type": "integer", "#text": "68"}, "uri": "kca://book/amzn1.gr.book.v1.YZwN7ou2P1w2Y65DAjm88Q",
+  "title": "The Ringworld Engineers (Ringworld, #2)", "title_without_series": "The
+  Ringworld Engineers", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403186174l/760547._SY160_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403186174l/760547._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/760547.The_Ringworld_Engineers",
+  "num_pages": null, "format": "Paperback", "edition_information": null, "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "3.88", "ratings_count": "33239", "description": "\"This rousing
+  sequel to the classic Ringworld continues the adventures of Louis Wu and Speaker-to-Animals
+  on that fantastic planet.\"--School Library Journal", "authors": {"author": {"id":
+  "12534", "name": "Larry Niven", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1596428206p5/12534.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1596428206p2/12534.jpg"},
+  "link": "https://www.goodreads.com/author/show/12534.Larry_Niven", "average_rating":
+  "3.91", "ratings_count": "517023", "text_reviews_count": "19756"}}, "published":
+  null, "work": {"id": "900675", "uri": "kca://work/amzn1.gr.work.v1.9yqSedQQDcES69PL-WFdqg"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/12429109",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B00WZVQB78
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/760547.The_Ringworld_Engineers
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '7909'
+    '@name': to-read
+  - '@count': '1123'
+    '@name': science-fiction
+  - '@count': '705'
+    '@name': sci-fi
+  - '@count': '577'
+    '@name': currently-reading
+  - '@count': '294'
+    '@name': fiction
+  - '@count': '231'
+    '@name': scifi
+  - '@count': '217'
+    '@name': owned
+  - '@count': '125'
+    '@name': default
+  - '@count': '116'
+    '@name': sf
+  - '@count': '59'
+    '@name': sci-fi-fantasy
+  - '@count': '59'
+    '@name': space-opera
+  - '@count': '43'
+    '@name': larry-niven
+  - '@count': '42'
+    '@name': audiobook
+  - '@count': '40'
+    '@name': fantasy
+  - '@count': '36'
+    '@name': favorites
+  - '@count': '35'
+    '@name': science
+  - '@count': '33'
+    '@name': audiobooks
+  - '@count': '33'
+    '@name': books-i-own
+  - '@count': '32'
+    '@name': ebook
+  - '@count': '32'
+    '@name': ringworld
+  - '@count': '30'
+    '@name': series
+  - '@count': '29'
+    '@name': library
+  - '@count': '29'
+    '@name': scifi-fantasy
+  - '@count': '28'
+    '@name': adventure
+  - '@count': '26'
+    '@name': novels
+  - '@count': '25'
+    '@name': ebooks
+  - '@count': '24'
+    '@name': known-space
+  - '@count': '23'
+    '@name': audio
+  - '@count': '23'
+    '@name': science-fiction-fantasy
+  - '@count': '22'
+    '@name': space
+  - '@count': '21'
+    '@name': my-library
+  - '@count': '21'
+    '@name': paperback
+  - '@count': '21'
+    '@name': speculative-fiction
+  - '@count': '19'
+    '@name': aliens
+  - '@count': '18'
+    '@name': calibre
+  - '@count': '18'
+    '@name': audible
+  - '@count': '18'
+    '@name': kindle
+  - '@count': '18'
+    '@name': hard-sf
+  - '@count': '18'
+    '@name': "ciencia-ficci\xF3n"
+  - '@count': '18'
+    '@name': sf-fantasy
+  - '@count': '17'
+    '@name': my-books
+  - '@count': '17'
+    '@name': niven
+  - '@count': '15'
+    '@name': owned-books
+  - '@count': '15'
+    '@name': novel
+  - '@count': '15'
+    '@name': to-buy
+  - '@count': '14'
+    '@name': fantasy-sci-fi
+  - '@count': '12'
+    '@name': ciencia-ficcion
+  - '@count': '11'
+    '@name': books
+  - '@count': '11'
+    '@name': have
+  - '@count': '11'
+    '@name': general
+  - '@count': '11'
+    '@name': sciencefiction
+  - '@count': '10'
+    '@name': physical
+  - '@count': '10'
+    '@name': hugo
+  - '@count': '10'
+    '@name': own-it
+  - '@count': '9'
+    '@name': did-not-finish
+  - '@count': '9'
+    '@name': hard-sci-fi
+  - '@count': '9'
+    '@name': hard-science-fiction
+  - '@count': '9'
+    '@name': audio-book
+  - '@count': '9'
+    '@name': hugo-nominee
+  - '@count': '9'
+    '@name': niven-larry
+  - '@count': '9'
+    '@name': sci-fi-and-fantasy
+  - '@count': '9'
+    '@name': unread
+  - '@count': '8'
+    '@name': tech
+  - '@count': '8'
+    '@name': other
+  - '@count': '8'
+    '@name': 'on'
+  - '@count': '8'
+    '@name': high
+  - '@count': '8'
+    '@name': fiction-sci-fi
+  - '@count': '8'
+    '@name': science-fiction-and-fantasy
+  - '@count': '8'
+    '@name': i-own
+  - '@count': '8'
+    '@name': classics
+  - '@count': '7'
+    '@name': dnf
+  - '@count': '7'
+    '@name': tbr
+  - '@count': '7'
+    '@name': sff
+  - '@count': '7'
+    '@name': wu
+  - '@count': '7'
+    '@name': planets
+  - '@count': '7'
+    '@name': louis
+  - '@count': '7'
+    '@name': life
+  - '@count': '7'
+    '@name': audio-books
+  - '@count': '7'
+    '@name': abandoned
+  - '@count': '7'
+    '@name': book
+  - '@count': '7'
+    '@name': f-sf
+  - '@count': '6'
+    '@name': fantascienza
+  - '@count': '6'
+    '@name': owned-physical
+  - '@count': '6'
+    '@name': owned-unread
+  - '@count': '6'
+    '@name': physical-books
+  - '@count': '6'
+    '@name': e-book
+  - '@count': '6'
+    '@name': home
+  - '@count': '6'
+    '@name': sci-fi-to-read
+  - '@count': '6'
+    '@name': 1970s
+  - '@count': '6'
+    '@name': fictitious
+  - '@count': '6'
+    '@name': character
+  - '@count': '6'
+    '@name': digital
+  - '@count': '6'
+    '@name': literature
+  - '@count': '6'
+    '@name': series-ringworld
+  - '@count': '6'
+    '@name': english
+  - '@count': '5'
+    '@name': reread
+  - '@count': '5'
+    '@name': e-books
+  - '@count': '5'
+    '@name': '1'
+  - '@count': '5'
+    '@name': paper
+  - '@count': '5'
+    '@name': hardcover
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '33239'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/12429109
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/760547.The_Ringworld_Engineers\"\
+  >The Ringworld Engineers Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0345334302&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/760547.The_Ringworld_Engineers?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+  - id: '187313'
+    series:
+      description: "This is a sub-series of Larry Niven's Known Space universe and\
+        \ eventually merges with the Fleet of Worlds series.\n    \n    <i><b>Fate\
+        \ of Worlds</b></i> is the fifth and final book in both the <b>Ringworld</b>\
+        \ series <b>AND</b> the fifth and final book in the <a href=\"https://www.goodreads.com/series/58169-fleet-of-worlds\"\
+        ><b>Fleet of Worlds</b></a> series.  It must therefore be read <b>AFTER</b>\
+        \ the four Ringworld titles and <b>AFTER</b> the four Fleet of Worlds titles.\n\
+        \    \n    Each book in the series is a whole story with a beginning and an\
+        \ ending, however the plot of each book relies <b>very</b> heavily on the\
+        \ prior books in the series.\n    \n    <a href=\"https://www.goodreads.com/series/132305-ringworld-the-graphic-novel\"\
+        >Ringworld: The Graphic series </a>"
+      id: '50225'
+      note: null
+      numbered: 'true'
+      primary_work_count: '5'
+      series_works_count: '6'
+      title: Ringworld
+    user_position: '2'
+  - id: '187282'
+    series:
+      description: "A series of short stories and novels charting the expansion of\
+        \ mankind through space over millenia.\n    \n    Although the Known Space\
+        \ universe has a well defined chronology, most of the stories can be read\
+        \ independently. The major exception being the <i>Ringworld</i> and <i>Fleet\
+        \ of Worlds</i> sub-series, which are best read in order.\n    \n    Also,\
+        \ <i><b>Fate of Worlds</b></i> is the fifth and final book in both the <b>Ringword</b>\
+        \ series <b>AND</b> in the <b>Fleet of Worlds</b> series.  It <b>must</b>\
+        \ therefore be read <b>AFTER</b> the four Ringword titles and the four Fleet\
+        \ of Worlds titles.\n    \n    See also:\n    <a href=\"https://www.goodreads.com/series/50225-ringworld\"\
+        >Ringworld Series</a>\n    <a href=\"https://www.goodreads.com/series/58169-fleet-of-worlds\"\
+        >Fleet of Worlds series</a>"
+      id: '50222'
+      note: "Added Fate of Worlds: Return from the Ringworld.  Updated description.\n\
+        \    \n    Removed Man Kzin books from primary.  They are not by Niven and\
+        \ there is much argument about how much is canon.  This Wikipedia page http://en.wikipedia.org/wiki/Man-Kzin_Wars#Canonicity\
+        \ offers a good summary."
+      numbered: 'false'
+      primary_work_count: '18'
+      series_works_count: '34'
+      title: Known Space
+    user_position: null
+  - id: '1916364'
+    series:
+      description: "Notes:\n    [book:The Borderlands of Sol|6037551] is included\
+        \ in [book:Tales of Knowns Space|100359], but is <i>not</i> included in [book:Three\
+        \ Books of Known Space|100346]."
+      id: '336221'
+      note: null
+      numbered: 'true'
+      primary_work_count: '39'
+      series_works_count: '51'
+      title: Known Space (Publication Order)
+    user_position: null
+  - id: '1916427'
+    series:
+      description: null
+      id: '336229'
+      note: null
+      numbered: 'true'
+      primary_work_count: '9'
+      series_works_count: '9'
+      title: Ringworld and Before the Discovery of Ringworld
+    user_position: '2'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '14887946'
+        link: https://www.goodreads.com/author/show/14887946.Max_Nowaz
+        name: Max Nowaz
+    average_rating: '3.88'
+    id: '101265124'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SX98_.jpg
+    isbn: '1803133961'
+    isbn13: '9781803133966'
+    link: https://www.goodreads.com/book/show/101265124-the-polymorph
+    num_pages: '0'
+    publication_day: '4'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '33239'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SY75_.jpg
+    title: The Polymorph
+    title_without_series: The Polymorph
+    uri: kca://book/amzn1.gr.book.v3.2WI1HTFNfz3UC2Zb
+    work:
+      id: '124767981'
+  - authors:
+      author:
+        id: '14407836'
+        link: https://www.goodreads.com/author/show/14407836.A_R_Merrydew
+        name: A.R. Merrydew
+    average_rating: '3.88'
+    id: '215186841'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/215186841-inara
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '33239'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Inara (Godfrey Davis, #3)'
+    title_without_series: Inara
+    uri: kca://book/amzn1.gr.book.v3.wCOHuKhf0nZUkB2e
+    work:
+      id: '221595685'
+  - authors:
+      author:
+        id: '205'
+        link: https://www.goodreads.com/author/show/205.Robert_A_Heinlein
+        name: Robert A. Heinlein
+    average_rating: '3.88'
+    id: '17208'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315410828l/17208._SX98_.jpg
+    isbn: '0345414004'
+    isbn13: '9780345414007'
+    link: https://www.goodreads.com/book/show/17208.Friday
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '33239'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315410828l/17208._SY75_.jpg
+    title: Friday
+    title_without_series: Friday
+    uri: kca://book/amzn1.gr.book.v1.-X3YuLALDnv7haizwG-ooA
+    work:
+      id: '1415529'
+  - authors:
+      author:
+        id: '22996'
+        link: https://www.goodreads.com/author/show/22996.Frederik_Pohl
+        name: Frederik Pohl
+    average_rating: '3.88'
+    id: '218427'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441698400l/218427._SX98_.jpg
+    isbn: 0345475836
+    isbn13: '9780345475831'
+    link: https://www.goodreads.com/book/show/218427.Gateway
+    num_pages: '278'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '33239'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441698400l/218427._SY75_.jpg
+    title: 'Gateway (Heechee Saga, #1)'
+    title_without_series: Gateway
+    uri: kca://book/amzn1.gr.book.v1.n1Tv-lX4_x6OV_jZ77vLhA
+    work:
+      id: '1668837'
+  - authors:
+      author:
+        id: '205'
+        link: https://www.goodreads.com/author/show/205.Robert_A_Heinlein
+        name: Robert A. Heinlein
+    average_rating: '3.88'
+    id: '20417'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1416505490'
+    isbn13: '9781416505495'
+    link: https://www.goodreads.com/book/show/20417.Have_Space_Suit_Will_Travel
+    num_pages: '276'
+    publication_day: '8'
+    publication_month: '2'
+    publication_year: '2005'
+    ratings_count: '33239'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: "Have Space Suit\u2014Will Travel"
+    title_without_series: "Have Space Suit\u2014Will Travel"
+    uri: kca://book/amzn1.gr.book.v1.qbB_CAC5aBCLo8_qMhw7tw
+    work:
+      id: '1984753'
+  - authors:
+      author:
+        id: '7779'
+        link: https://www.goodreads.com/author/show/7779.Arthur_C_Clarke
+        name: Arthur C. Clarke
+    average_rating: '3.88'
+    id: '112520'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375814981l/112520._SX98_.jpg
+    isbn: '2290032042'
+    isbn13: '9782290032046'
+    link: https://www.goodreads.com/book/show/112520.Rama_II
+    num_pages: '512'
+    publication_day: '6'
+    publication_month: '11'
+    publication_year: '1996'
+    ratings_count: '33239'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375814981l/112520._SY75_.jpg
+    title: 'Rama II (Rama #2)'
+    title_without_series: Rama II
+    uri: kca://book/amzn1.gr.book.v1.a6M5_JPITFnKdQeU4WvunA
+    work:
+      id: '1907786'
+  - authors:
+      author:
+        id: '205'
+        link: https://www.goodreads.com/author/show/205.Robert_A_Heinlein
+        name: Robert A. Heinlein
+    average_rating: '3.88'
+    id: '58306840'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623301130l/58306840._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/58306840-time-enough-for-love
+    num_pages: '612'
+    publication_day: null
+    publication_month: '6'
+    publication_year: '2021'
+    ratings_count: '33239'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623301130l/58306840._SY75_.jpg
+    title: Time Enough for Love
+    title_without_series: Time Enough for Love
+    uri: kca://book/amzn1.gr.book.v3.A3dWRTZnEf169q9v
+    work:
+      id: '75443'
+  - authors:
+      author:
+        id: '7779'
+        link: https://www.goodreads.com/author/show/7779.Arthur_C_Clarke
+        name: Arthur C. Clarke
+    average_rating: '3.88'
+    id: '112518'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375814957l/112518._SY160_.jpg
+    isbn: '1857230213'
+    isbn13: '9781857230215'
+    link: https://www.goodreads.com/book/show/112518.The_Garden_of_Rama
+    num_pages: '593'
+    publication_day: null
+    publication_month: '12'
+    publication_year: '1993'
+    ratings_count: '33239'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375814957l/112518._SY75_.jpg
+    title: 'The Garden of Rama (Rama, #3)'
+    title_without_series: The Garden of Rama
+    uri: kca://book/amzn1.gr.book.v1.cfAktAHAdt8CbiVvkh0nJA
+    work:
+      id: '876293'
+  - authors:
+      author:
+        id: '5807106'
+        link: https://www.goodreads.com/author/show/5807106.Iain_M_Banks
+        name: Iain M. Banks
+    average_rating: '3.88'
+    id: '886066'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327954631l/886066._SX98_.jpg
+    isbn: '1841494186'
+    isbn13: '9781841494180'
+    link: https://www.goodreads.com/book/show/886066.Matter
+    num_pages: '593'
+    publication_day: '31'
+    publication_month: '1'
+    publication_year: '2008'
+    ratings_count: '33239'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327954631l/886066._SY75_.jpg
+    title: 'Matter (Culture, #8)'
+    title_without_series: Matter
+    uri: kca://book/amzn1.gr.book.v1.0M1RCR3u4xvkUAElHrKoWQ
+    work:
+      id: '871329'
+  - authors:
+      author:
+        id: '6899673'
+        link: https://www.goodreads.com/author/show/6899673.Todor_Bombov
+        name: Todor Bombov
+    average_rating: '3.88'
+    id: '61085357'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652446489l/61085357._SX98_.jpg
+    isbn: '1682353761'
+    isbn13: '9781682353769'
+    link: https://www.goodreads.com/book/show/61085357-homo-cosmicus-2
+    num_pages: '152'
+    publication_day: '5'
+    publication_month: '4'
+    publication_year: '2022'
+    ratings_count: '33239'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652446489l/61085357._SY75_.jpg
+    title: 'Homo Cosmicus 2: Titan: A Science Fiction Novel'
+    title_without_series: 'Homo Cosmicus 2: Titan: A Science Fiction Novel'
+    uri: kca://book/amzn1.gr.book.v3.nhyNJvDXiLJZFgQk
+    work:
+      id: '96278683'
+  - authors:
+      author:
+        id: '32278'
+        link: https://www.goodreads.com/author/show/32278.Poul_Anderson
+        name: Poul Anderson
+    average_rating: '3.88'
+    id: '240617'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389216838l/240617._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/240617.Tau_Zero
+    num_pages: '190'
+    publication_day: '1'
+    publication_month: '2'
+    publication_year: '2006'
+    ratings_count: '33239'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389216838l/240617._SY75_.jpg
+    title: Tau Zero
+    title_without_series: Tau Zero
+    uri: kca://book/amzn1.gr.book.v1.hI9xX7qXgjZO7NHA9ePpRg
+    work:
+      id: '598009'
+  - authors:
+      author:
+        id: '22996'
+        link: https://www.goodreads.com/author/show/22996.Frederik_Pohl
+        name: Frederik Pohl
+    average_rating: '3.88'
+    id: '77463'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366637983l/77463._SX98_.jpg
+    isbn: '0345325664'
+    isbn13: '9780345325662'
+    link: https://www.goodreads.com/book/show/77463.The_Annals_of_the_Heechee
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '33239'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366637983l/77463._SY75_.jpg
+    title: 'The Annals of the Heechee (Heechee Saga, #4)'
+    title_without_series: The Annals of the Heechee
+    uri: kca://book/amzn1.gr.book.v1.zP0Q48nhB-m9FLRgK80oZg
+    work:
+      id: '832311'
+  - authors:
+      author:
+        id: '16667'
+        link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+        name: Isaac Asimov
+    average_rating: '3.88'
+    id: '302625'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336582027l/302625._SY160_.jpg
+    isbn: 0553286285
+    isbn13: '9780553286281'
+    link: https://www.goodreads.com/book/show/302625.Nemesis
+    num_pages: '386'
+    publication_day: '1'
+    publication_month: '9'
+    publication_year: '1990'
+    ratings_count: '33239'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336582027l/302625._SY75_.jpg
+    title: Nemesis
+    title_without_series: Nemesis
+    uri: kca://book/amzn1.gr.book.v1.kiZsIVW1SF7Pwylltv3Ajw
+    work:
+      id: '293683'
+  - authors:
+      author:
+        id: '25883'
+        link: https://www.goodreads.com/author/show/25883.Robert_J_Sawyer
+        name: Robert J. Sawyer
+    average_rating: '3.88'
+    id: '264946'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0765345005'
+    isbn13: '9780765345004'
+    link: https://www.goodreads.com/book/show/264946.Hominids
+    num_pages: '444'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '33239'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Hominids (Neanderthal Parallax, #1)'
+    title_without_series: Hominids
+    uri: kca://book/amzn1.gr.book.v1.8bDq3cl6Qd_khHAgoX44eQ
+    work:
+      id: '1500323'
+  - authors:
+      author:
+        id: '711866'
+        link: https://www.goodreads.com/author/show/711866.Barry_Kirwan
+        name: Barry Kirwan
+    average_rating: '3.88'
+    id: '43722869'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/43722869-the-eden-paradox
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '33239'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Eden Paradox (Eden Paradox, #1)'
+    title_without_series: The Eden Paradox
+    uri: kca://book/amzn1.gr.book.v1.UDhLqYMwKq5dAVfSIYALGw
+    work:
+      id: '17313897'
+  - authors:
+      author:
+        id: '2687'
+        link: https://www.goodreads.com/author/show/2687.Dan_Simmons
+        name: Dan Simmons
+    average_rating: '3.88'
+    id: '3973'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390894862l/3973._SX98_.jpg
+    isbn: 0380817926
+    isbn13: '9780380817924'
+    link: https://www.goodreads.com/book/show/3973.Ilium
+    num_pages: '731'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '33239'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390894862l/3973._SY75_.jpg
+    title: 'Ilium (Ilium, #1)'
+    title_without_series: Ilium
+    uri: kca://book/amzn1.gr.book.v1.0wL8eyxH1dEnuXV0e2V1MQ
+    work:
+      id: '3185401'
+  - authors:
+      author:
+        id: '7779'
+        link: https://www.goodreads.com/author/show/7779.Arthur_C_Clarke
+        name: Arthur C. Clarke
+    average_rating: '3.88'
+    id: '149049'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344265959l/149049._SX98_.jpg
+    isbn: 0446677949
+    isbn13: '9780446677943'
+    link: https://www.goodreads.com/book/show/149049.The_Fountains_of_Paradise
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '33239'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344265959l/149049._SY75_.jpg
+    title: The Fountains of Paradise
+    title_without_series: The Fountains of Paradise
+    uri: kca://book/amzn1.gr.book.v1.7CL_QltVzJTaFRIXATb6zQ
+    work:
+      id: '734510'
+  - authors:
+      author:
+        id: '25883'
+        link: https://www.goodreads.com/author/show/25883.Robert_J_Sawyer
+        name: Robert J. Sawyer
+    average_rating: '3.88'
+    id: '337132'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0812580346
+    isbn13: '9780812580341'
+    link: https://www.goodreads.com/book/show/337132.Flashforward
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '33239'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Flashforward
+    title_without_series: Flashforward
+    uri: kca://book/amzn1.gr.book.v1.h2rQuqg23_6YXy01XI4gBw
+    work:
+      id: '327550'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403186174l/760547._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '68'
+  '@type': integer
+title: 'The Ringworld Engineers (Ringworld, #2)'
+title_without_series: The Ringworld Engineers
+uri: kca://book/amzn1.gr.book.v1.YZwN7ou2P1w2Y65DAjm88Q
+url: https://www.goodreads.com/book/show/760547.The_Ringworld_Engineers
+work:
+  id: '900675'
+  uri: kca://work/amzn1.gr.work.v1.9yqSedQQDcES69PL-WFdqg

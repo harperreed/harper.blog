@@ -1,0 +1,794 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.14'
+    id: '58'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1591018335p5/58.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/58.Frank_Herbert
+    name: Frank Herbert
+    ratings_count: '2563802'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1591018335p2/58.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '129434'
+average_rating: '4.28'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: '<i>Librarian''s note: There are Alternate Cover Editions for this edition
+  of this book <a href="https://www.goodreads.com/book/show/10249685.here" title="here"
+  rel="nofollow noopener">here</a>, <a href="https://www.goodreads.com/book/show/11273438.here"
+  title="here" rel="nofollow noopener">here</a>, <a href="https://www.goodreads.com/book/show/18519346.here"
+  title="here" rel="nofollow noopener">here</a> and <a href="https://www.goodreads.com/book/show/40198193.here"
+  title="here" rel="nofollow noopener">here</a>.</i><br /><br />Here is the novel
+  that will be forever considered a triumph of the imagination. Set on the desert
+  planet Arrakis, <b>Dune</b> is the story of the boy Paul Atreides, who would become
+  the mysterious man known as Muad''Dib. He would avenge the traitorous plot against
+  his noble family--and would bring to fruition humankind''s most ancient and unattainable
+  dream.<br />A stunning blend of adventure and mysticism, environmentalism and politics,
+  Dune won the first Nebula Award, shared the Hugo Award, and formed the basis of
+  what it undoubtedly the grandest epic in science fiction.'
+edition_information: Special 25th Anniversary Edition
+format: Paperback
+id: '53732'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426192671l/53732._SY160_.jpg
+is_ebook: 'false'
+isbn:
+  '@nil': 'true'
+isbn13:
+  '@nil': 'true'
+json: '{"id": "53732", "isbn": {"@nil": "true"}, "isbn13": {"@nil": "true"}, "text_reviews_count":
+  {"@type": "integer", "#text": "820"}, "uri": "kca://book/amzn1.gr.book.v1.adaO7HNMAW9VZs9lIy041Q",
+  "title": "Dune", "title_without_series": "Dune", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426192671l/53732._SY160_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426192671l/53732._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/53732.Dune",
+  "num_pages": "535", "format": "Paperback", "edition_information": "Special 25th
+  Anniversary Edition", "publisher": "Ace/Berkley Books", "publication_day": "1",
+  "publication_year": "1990", "publication_month": "9", "average_rating": "4.28",
+  "ratings_count": "1519879", "description": "<i>Librarian''s note: There are Alternate
+  Cover Editions for this edition of this book <a href=\"https://www.goodreads.com/book/show/10249685.here\"
+  title=\"here\" rel=\"nofollow noopener\">here</a>, <a href=\"https://www.goodreads.com/book/show/11273438.here\"
+  title=\"here\" rel=\"nofollow noopener\">here</a>, <a href=\"https://www.goodreads.com/book/show/18519346.here\"
+  title=\"here\" rel=\"nofollow noopener\">here</a> and <a href=\"https://www.goodreads.com/book/show/40198193.here\"
+  title=\"here\" rel=\"nofollow noopener\">here</a>.</i><br /><br />Here is the novel
+  that will be forever considered a triumph of the imagination. Set on the desert
+  planet Arrakis, <b>Dune</b> is the story of the boy Paul Atreides, who would become
+  the mysterious man known as Muad''Dib. He would avenge the traitorous plot against
+  his noble family--and would bring to fruition humankind''s most ancient and unattainable
+  dream.<br />A stunning blend of adventure and mysticism, environmentalism and politics,
+  Dune won the first Nebula Award, shared the Hugo Award, and formed the basis of
+  what it undoubtedly the grandest epic in science fiction.", "authors": {"author":
+  {"id": "58", "name": "Frank Herbert", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1591018335p5/58.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1591018335p2/58.jpg"},
+  "link": "https://www.goodreads.com/author/show/58.Frank_Herbert", "average_rating":
+  "4.14", "ratings_count": "2563802", "text_reviews_count": "129434"}}, "published":
+  "1990", "work": {"id": "3634639", "uri": "kca://work/amzn1.gr.work.v1.dzn2KcfMTbv4_Y7J--YkzQ"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417549",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B003SWZ7TG
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/53732.Dune
+marketplace_id: ATVPDKIKX0DER
+num_pages: '535'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '1267886'
+    '@name': to-read
+  - '@count': '151060'
+    '@name': currently-reading
+  - '@count': '21835'
+    '@name': sci-fi
+  - '@count': '20624'
+    '@name': science-fiction
+  - '@count': '16204'
+    '@name': favorites
+  - '@count': '13105'
+    '@name': fiction
+  - '@count': '9196'
+    '@name': fantasy
+  - '@count': '6873'
+    '@name': owned
+  - '@count': '4753'
+    '@name': scifi
+  - '@count': '3307'
+    '@name': physical-tbr
+  - '@count': '3230'
+    '@name': dnf
+  - '@count': '2871'
+    '@name': books-i-own
+  - '@count': '2189'
+    '@name': audiobook
+  - '@count': '1744'
+    '@name': tbr
+  - '@count': '1722'
+    '@name': sci-fi-fantasy
+  - '@count': '1486'
+    '@name': audiobooks
+  - '@count': '1457'
+    '@name': classic
+  - '@count': '1352'
+    '@name': sf
+  - '@count': '1276'
+    '@name': favourites
+  - '@count': '1172'
+    '@name': library
+  - '@count': '1075'
+    '@name': did-not-finish
+  - '@count': '1027'
+    '@name': owned-books
+  - '@count': '1019'
+    '@name': kindle
+  - '@count': '890'
+    '@name': novels
+  - '@count': '880'
+    '@name': abandoned
+  - '@count': '863'
+    '@name': my-library
+  - '@count': '854'
+    '@name': audible
+  - '@count': '844'
+    '@name': fantasy-sci-fi
+  - '@count': '814'
+    '@name': adventure
+  - '@count': '795'
+    '@name': book-club
+  - '@count': '770'
+    '@name': bookshelf
+  - '@count': '718'
+    '@name': adult
+  - '@count': '714'
+    '@name': audio
+  - '@count': '672'
+    '@name': scifi-fantasy
+  - '@count': '643'
+    '@name': on-hold
+  - '@count': '622'
+    '@name': my-books
+  - '@count': '619'
+    '@name': to-buy
+  - '@count': '587'
+    '@name': space
+  - '@count': '573'
+    '@name': on-my-shelf
+  - '@count': '523'
+    '@name': ebook
+  - '@count': '515'
+    '@name': dystopian
+  - '@count': '513'
+    '@name': re-read
+  - '@count': '500'
+    '@name': novel
+  - '@count': '490'
+    '@name': owned-tbr
+  - '@count': '484'
+    '@name': science-fiction-fantasy
+  - '@count': '474'
+    '@name': default
+  - '@count': '464'
+    '@name': books
+  - '@count': '458'
+    '@name': read-in-2021
+  - '@count': '433'
+    '@name': my-bookshelf
+  - '@count': '431'
+    '@name': all-time-favorites
+  - '@count': '406'
+    '@name': literature
+  - '@count': '405'
+    '@name': speculative-fiction
+  - '@count': '396'
+    '@name': unfinished
+  - '@count': '395'
+    '@name': english
+  - '@count': '382'
+    '@name': home-library
+  - '@count': '355'
+    '@name': frank-herbert
+  - '@count': '354'
+    '@name': epic
+  - '@count': '344'
+    '@name': fantasy-scifi
+  - '@count': '340'
+    '@name': paused
+  - '@count': '331'
+    '@name': physical
+  - '@count': '329'
+    '@name': reread
+  - '@count': '325'
+    '@name': dropped
+  - '@count': '310'
+    '@name': favorite
+  - '@count': '310'
+    '@name': audio-books
+  - '@count': '304'
+    '@name': 2024-reads
+  - '@count': '304'
+    '@name': favorite-books
+  - '@count': '303'
+    '@name': 2021-reads
+  - '@count': '303'
+    '@name': american
+  - '@count': '302'
+    '@name': have
+  - '@count': '299'
+    '@name': read-2021
+  - '@count': '298'
+    '@name': to-be-read
+  - '@count': '298'
+    '@name': 5-stars
+  - '@count': '296'
+    '@name': want-to-buy
+  - '@count': '295'
+    '@name': i-own
+  - '@count': '295'
+    '@name': audio-book
+  - '@count': '295'
+    '@name': dystopia
+  - '@count': '293'
+    '@name': favs
+  - '@count': '290'
+    '@name': fantascienza
+  - '@count': '289'
+    '@name': on-my-bookshelf
+  - '@count': '289'
+    '@name': sff
+  - '@count': '289'
+    '@name': sci-fi-and-fantasy
+  - '@count': '278'
+    '@name': books-i-have
+  - '@count': '275'
+    '@name': bought
+  - '@count': '271'
+    '@name': ebooks
+  - '@count': '266'
+    '@name': read-in-2024
+  - '@count': '265'
+    '@name': read-in-2022
+  - '@count': '264'
+    '@name': science
+  - '@count': '260'
+    '@name': 20th-century
+  - '@count': '256'
+    '@name': read-2024
+  - '@count': '252'
+    '@name': adult-fiction
+  - '@count': '240'
+    '@name': personal-library
+  - '@count': '229'
+    '@name': politics
+  - '@count': '228'
+    '@name': on-the-shelf
+  - '@count': '225'
+    '@name': science-fiction-and-fantasy
+  - '@count': '222'
+    '@name': read-in-2020
+  - '@count': '217'
+    '@name': read-2022
+  - '@count': '215'
+    '@name': wish-list
+  - '@count': '207'
+    '@name': recommended
+  - '@count': '207'
+    '@name': great-american-read
+  - '@count': '207'
+    '@name': war
+publication_day: '1'
+publication_month: '9'
+publication_year: '1990'
+published: '1990'
+publisher: Ace/Berkley Books
+ratings_count: '1519879'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/1417549
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/53732.Dune\"\
+  >Dune Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/53732.Dune?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+  - id: '166801'
+    series:
+      description: "<i>Also known as Dune Saga.</i>\n    <a href=\"https://www.goodreads.com/series/106170-dune-universe\"\
+        >Dune Universe</a> includes following series:\n    \u2022 <a href=\"/series/45567-legends-of-dune\"\
+        >Legends of Dune</a>\n    \u2022 <a href=\"/series/104537-schools-of-dune\"\
+        >Schools of Dune</a>\n    \u2022 <a href=\"/series/49401-prelude-to-dune\"\
+        >Prelude to Dune</a>\n    \u2022 <a href=\"/series/295980-the-caladan-trilogy\"\
+        >The Caladan Trilogy</a>\n    \u2022  Dune\n    \u2022 <a href=\"/series/49402-heroes-of-dune\"\
+        >Heroes of Dune</a>"
+      id: '45935'
+      note: PLEASE DO NOT DELETE TRANSLATED VERSIONS RELEASED IN MULTIPLE PARTS. They
+        are valid series works (listed as non-primary).
+      numbered: 'true'
+      primary_work_count: '8'
+      series_works_count: '34'
+      title: Dune
+    user_position: '1'
+  - id: '514666'
+    series:
+      description: "Dune Universe includes following series:\n    \u2022 <a href=\"\
+        /series/45567-legends-of-dune\">Legends of Dune</a>\n    \u2022 <a href=\"\
+        /series/104537-schools-of-dune\">Schools of Dune</a>\n    \u2022 <a href=\"\
+        /series/49401-prelude-to-dune\">Prelude to Dune</a>\n    \u2022 <a href=\"\
+        /series/295980-the-caladan-trilogy\">The Caladan Trilogy</a>\n    \u2022 \
+        \ <a href=\"/series/45935-dune\">Dune</a>\n    \u2022 <a href=\"/series/49402-heroes-of-dune\"\
+        >Heroes of Dune</a>"
+      id: '106170'
+      note: null
+      numbered: 'true'
+      primary_work_count: '23'
+      series_works_count: '30'
+      title: Dune Universe
+    user_position: '14'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '589'
+        link: https://www.goodreads.com/author/show/589.Orson_Scott_Card
+        name: Orson Scott Card
+    average_rating: '4.28'
+    id: '375802'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130l/375802._SY160_.jpg
+    isbn: 0812550706
+    isbn13: '9780812550702'
+    link: https://www.goodreads.com/book/show/375802.Ender_s_Game
+    num_pages: '324'
+    publication_day: '30'
+    publication_month: '9'
+    publication_year: '2004'
+    ratings_count: '1519879'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130l/375802._SY75_.jpg
+    title: "Ender\u2019s Game (Ender's Saga, #1)"
+    title_without_series: "Ender\u2019s Game"
+    uri: kca://book/amzn1.gr.book.v1.9norahS09TVbhrKu-VRkig
+    work:
+      id: '2422333'
+  - authors:
+      author:
+        id: '16667'
+        link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+        name: Isaac Asimov
+    average_rating: '4.28'
+    id: '29579'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846l/29579._SX98_.jpg
+    isbn: 0553803719
+    isbn13: '9780553803716'
+    link: https://www.goodreads.com/book/show/29579.Foundation
+    num_pages: '244'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1519879'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846l/29579._SX50_.jpg
+    title: 'Foundation (Foundation, #1)'
+    title_without_series: Foundation
+    uri: kca://book/amzn1.gr.book.v1.tpjXJjtCkXTyh6kZuu57VQ
+    work:
+      id: '1783981'
+  - authors:
+      author:
+        id: '656983'
+        link: https://www.goodreads.com/author/show/656983.J_R_R_Tolkien
+        name: J.R.R. Tolkien
+    average_rating: '4.28'
+    id: '5907'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216l/5907._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/5907.The_Hobbit_or_There_and_Back_Again
+    num_pages: '366'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1519879'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216l/5907._SY75_.jpg
+    title: 'The Hobbit, or There and Back Again (The Lord of the Rings, #0)'
+    title_without_series: The Hobbit, or There and Back Again
+    uri: kca://book/amzn1.gr.book.v1.7HhPxEJT1NiirAiej27XwA
+    work:
+      id: '1540236'
+  - authors:
+      author:
+        id: '346732'
+        link: https://www.goodreads.com/author/show/346732.George_R_R_Martin
+        name: George R.R. Martin
+    average_rating: '4.28'
+    id: '13496'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496._SY160_.jpg
+    isbn: 0553588486
+    isbn13: '9780553588484'
+    link: https://www.goodreads.com/book/show/13496.A_Game_of_Thrones
+    num_pages: '835'
+    publication_day: null
+    publication_month: '8'
+    publication_year: '2005'
+    ratings_count: '1519879'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496._SY75_.jpg
+    title: 'A Game of Thrones (A Song of Ice and Fire, #1)'
+    title_without_series: A Game of Thrones
+    uri: kca://book/amzn1.gr.book.v1.2TDKEBAExkzaok9ELm7icw
+    work:
+      id: '1466917'
+  - authors:
+      author:
+        id: '656983'
+        link: https://www.goodreads.com/author/show/656983.J_R_R_Tolkien
+        name: J.R.R. Tolkien
+    average_rating: '4.28'
+    id: '61215351'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654215925l/61215351._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/61215351-the-fellowship-of-the-ring
+    num_pages: '432'
+    publication_day: null
+    publication_month: '6'
+    publication_year: '2022'
+    ratings_count: '1519879'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654215925l/61215351._SY75_.jpg
+    title: 'The Fellowship of the Ring (The Lord of the Rings, #1)'
+    title_without_series: The Fellowship of the Ring
+    uri: kca://book/amzn1.gr.book.v3.GarWHKanmW8wcNYq
+    work:
+      id: '3204327'
+  - authors:
+      author:
+        id: '4'
+        link: https://www.goodreads.com/author/show/4.Douglas_Adams
+        name: Douglas Adams
+    average_rating: '4.28'
+    id: '11'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531891848l/11._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy
+    num_pages: '216'
+    publication_day: null
+    publication_month: null
+    publication_year: '2005'
+    ratings_count: '1519879'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531891848l/11._SY75_.jpg
+    title: "The Hitchhiker\u2019s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy,\
+      \ #1)"
+    title_without_series: "The Hitchhiker\u2019s Guide to the Galaxy"
+    uri: kca://book/amzn1.gr.book.v1.xMbdhkltzeXMl_shq7vdhw
+    work:
+      id: '3078186'
+  - authors:
+      author:
+        id: '5780686'
+        link: https://www.goodreads.com/author/show/5780686.Liu_Cixin
+        name: Liu Cixin
+    average_rating: '4.28'
+    id: '20518872'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/20518872-the-three-body-problem
+    num_pages: '472'
+    publication_day: '11'
+    publication_month: '11'
+    publication_year: '2014'
+    ratings_count: '1519879'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872._SY75_.jpg
+    title: "The Three-Body Problem (Remembrance of Earth\u2019s Past, #1)"
+    title_without_series: The Three-Body Problem
+    uri: kca://book/amzn1.gr.book.v1.oUcAcIZioskWIAd_9N2ijQ
+    work:
+      id: '25696480'
+  - authors:
+      author:
+        id: '6540057'
+        link: https://www.goodreads.com/author/show/6540057.Andy_Weir
+        name: Andy Weir
+    average_rating: '4.28'
+    id: '18007564'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413706054l/18007564._SX98_.jpg
+    isbn: 0804139024
+    isbn13: '9780804139021'
+    link: https://www.goodreads.com/book/show/18007564-the-martian
+    num_pages: '384'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1519879'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413706054l/18007564._SY75_.jpg
+    title: The Martian
+    title_without_series: The Martian
+    uri: kca://book/amzn1.gr.book.v1.O5h1YAnBEe0cYP_KkaVAcA
+    work:
+      id: '21825181'
+  - authors:
+      author:
+        id: '656983'
+        link: https://www.goodreads.com/author/show/656983.J_R_R_Tolkien
+        name: J.R.R. Tolkien
+    average_rating: '4.28'
+    id: '61215372'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654216149l/61215372._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/61215372-the-two-towers
+    num_pages: '448'
+    publication_day: null
+    publication_month: '6'
+    publication_year: '2022'
+    ratings_count: '1519879'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654216149l/61215372._SY75_.jpg
+    title: 'The Two Towers (The Lord of the Rings, #2)'
+    title_without_series: The Two Towers
+    uri: kca://book/amzn1.gr.book.v3.QgCbyy3e3ugGcnVR
+    work:
+      id: '2963845'
+  - authors:
+      author:
+        id: '31712'
+        link: https://www.goodreads.com/author/show/31712.Ernest_Cline
+        name: Ernest Cline
+    average_rating: '4.28'
+    id: '9969571'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500930947l/9969571._SX98_.jpg
+    isbn: 030788743X
+    isbn13: '9780307887436'
+    link: https://www.goodreads.com/book/show/9969571-ready-player-one
+    num_pages: '480'
+    publication_day: '16'
+    publication_month: '8'
+    publication_year: '2011'
+    ratings_count: '1519879'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500930947l/9969571._SY75_.jpg
+    title: 'Ready Player One (Ready Player One, #1)'
+    title_without_series: Ready Player One
+    uri: kca://book/amzn1.gr.book.v1.O7Z7pbcZBweK_cRvReWvwQ
+    work:
+      id: '14863741'
+  - authors:
+      author:
+        id: '3706'
+        link: https://www.goodreads.com/author/show/3706.George_Orwell
+        name: George Orwell
+    average_rating: '4.28'
+    id: '61439040'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657781256l/61439040._SX98_.jpg
+    isbn: 0452284236
+    isbn13: '9780452284234'
+    link: https://www.goodreads.com/book/show/61439040-1984
+    num_pages: '368'
+    publication_day: null
+    publication_month: '7'
+    publication_year: '2022'
+    ratings_count: '1519879'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657781256l/61439040._SX50_.jpg
+    title: '1984'
+    title_without_series: '1984'
+    uri: kca://book/amzn1.gr.book.v3.Emy23xgDnXpqF2NP
+    work:
+      id: '153313'
+  - authors:
+      author:
+        id: '4764'
+        link: https://www.goodreads.com/author/show/4764.Philip_K_Dick
+        name: Philip K. Dick
+    average_rating: '4.28'
+    id: '36402034'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507838927l/36402034._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/36402034-do-androids-dream-of-electric-sheep
+    num_pages: '258'
+    publication_day: '26'
+    publication_month: '2'
+    publication_year: '2008'
+    ratings_count: '1519879'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507838927l/36402034._SY75_.jpg
+    title: Do Androids Dream of Electric Sheep?
+    title_without_series: Do Androids Dream of Electric Sheep?
+    uri: kca://book/amzn1.gr.book.v1.lENz7wsiugnkZNIWJ-zhOg
+    work:
+      id: '830939'
+  - authors:
+      author:
+        id: '38550'
+        link: https://www.goodreads.com/author/show/38550.Brandon_Sanderson
+        name: Brandon Sanderson
+    average_rating: '4.28'
+    id: '68428'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617768316l/68428._SX98_.jpg
+    isbn: null
+    isbn13: '9780765311788'
+    link: https://www.goodreads.com/book/show/68428.Mistborn
+    num_pages: '541'
+    publication_day: '17'
+    publication_month: '7'
+    publication_year: '2006'
+    ratings_count: '1519879'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617768316l/68428._SY75_.jpg
+    title: 'Mistborn: The Final Empire (Mistborn, #1)'
+    title_without_series: 'Mistborn: The Final Empire'
+    uri: kca://book/amzn1.gr.book.v1.G6t8QUNMsyeBlYeeevmisA
+    work:
+      id: '66322'
+  - authors:
+      author:
+        id: '38550'
+        link: https://www.goodreads.com/author/show/38550.Brandon_Sanderson
+        name: Brandon Sanderson
+    average_rating: '4.28'
+    id: '7235533'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659905828l/7235533._SX98_.jpg
+    isbn: '0765326353'
+    isbn13: '9780765326355'
+    link: https://www.goodreads.com/book/show/7235533-the-way-of-kings
+    num_pages: '1007'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1519879'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659905828l/7235533._SY75_.jpg
+    title: 'The Way of Kings (The Stormlight Archive, #1)'
+    title_without_series: The Way of Kings
+    uri: kca://book/amzn1.gr.book.v1.0mHZnKgAN8csmmIVxyhjLg
+    work:
+      id: '8134945'
+  - authors:
+      author:
+        id: '2687'
+        link: https://www.goodreads.com/author/show/2687.Dan_Simmons
+        name: Dan Simmons
+    average_rating: '4.28'
+    id: '77566'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405546838l/77566._SY160_.jpg
+    isbn: 0553283685
+    isbn13: '9780553283686'
+    link: https://www.goodreads.com/book/show/77566.Hyperion
+    num_pages: '500'
+    publication_day: null
+    publication_month: '3'
+    publication_year: '1990'
+    ratings_count: '1519879'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405546838l/77566._SY75_.jpg
+    title: 'Hyperion (Hyperion Cantos, #1)'
+    title_without_series: Hyperion
+    uri: kca://book/amzn1.gr.book.v1.2xaw98fU9vu-PP2TJ7Wgyw
+    work:
+      id: '1383900'
+  - authors:
+      author:
+        id: '656983'
+        link: https://www.goodreads.com/author/show/656983.J_R_R_Tolkien
+        name: J.R.R. Tolkien
+    average_rating: '4.28'
+    id: '61215384'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654216226l/61215384._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/61215384-the-return-of-the-king
+    num_pages: '432'
+    publication_day: null
+    publication_month: '6'
+    publication_year: '2022'
+    ratings_count: '1519879'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654216226l/61215384._SY75_.jpg
+    title: 'The Return of the King (The Lord of the Rings, #3)'
+    title_without_series: The Return of the King
+    uri: kca://book/amzn1.gr.book.v3.38Q4i_SfK2Wu5jFD
+    work:
+      id: '2964424'
+  - authors:
+      author:
+        id: '6474348'
+        link: https://www.goodreads.com/author/show/6474348.Pierce_Brown
+        name: Pierce Brown
+    average_rating: '4.28'
+    id: '15839976'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461354651l/15839976._SX98_.jpg
+    isbn: 0345539788
+    isbn13: '9780345539786'
+    link: https://www.goodreads.com/book/show/15839976-red-rising
+    num_pages: '382'
+    publication_day: '28'
+    publication_month: '1'
+    publication_year: '2014'
+    ratings_count: '1519879'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461354651l/15839976._SY75_.jpg
+    title: 'Red Rising (Red Rising Saga, #1)'
+    title_without_series: Red Rising
+    uri: kca://book/amzn1.gr.book.v1.Yb-YrAzMdnlhXDSTWxd8pQ
+    work:
+      id: '21580644'
+  - authors:
+      author:
+        id: '60'
+        link: https://www.goodreads.com/author/show/60.Gary_Russell
+        name: Gary Russell
+    average_rating: '4.28'
+    id: '119'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0618212906
+    isbn13: '9780618212903'
+    link: https://www.goodreads.com/book/show/119.The_Art_of_The_Fellowship_of_the_Ring
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1519879'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Art of The Fellowship of the Ring (The Lord of the Rings)
+    title_without_series: The Art of The Fellowship of the Ring
+    uri: kca://book/amzn1.gr.book.v1.jx7ATVahQXcHIqlmR6NM4g
+    work:
+      id: '4479'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426192671l/53732._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '820'
+  '@type': integer
+title: Dune
+title_without_series: Dune
+uri: kca://book/amzn1.gr.book.v1.adaO7HNMAW9VZs9lIy041Q
+url: https://www.goodreads.com/book/show/53732.Dune
+work:
+  id: '3634639'
+  uri: kca://work/amzn1.gr.work.v1.dzn2KcfMTbv4_Y7J--YkzQ

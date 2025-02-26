@@ -1,0 +1,759 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.99'
+    id: '7779'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1357191481p5/7779.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/7779.Arthur_C_Clarke
+    name: Arthur C. Clarke
+    ratings_count: '1396474'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1357191481p2/7779.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '53473'
+average_rating: '4.12'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: In the near future, enormous silver spaceships appear without warning
+  over mankind's largest cities. They belong to the Overlords, an alien race far superior
+  to humanity in technological development-and their purpose is to dominate the Earth.
+  Their demands, however, are surprisingly beneficial-end war, poverty, and cruelty.
+  Their presence, rather than signaling the end of humanity, ushers in a golden age-or
+  so it seems.<br /><br />But it comes at a price. Without conflict, humanity ceases
+  to work toward creative achievement, and culture stagnates. And as the years pass,
+  it becomes more and more clear that the Overlords have a hidden agenda for the evolution
+  of the human race-that may not be as beneficial as it seems.<br /> <br />Originally
+  published in 1953, Childhood's End is Clarke's first successful novel-and is considered
+  a classic of science fiction literature. Its dominating theme of transcendent evolution
+  appears in many of Clarke's later works, including the Space Odyssey series. In
+  2004, the book was nominated for the Retro Hugo Award for Best Novel.
+edition_information: null
+format: null
+id: '28178752'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn: '1503989569'
+isbn13: '9781503989566'
+json: '{"id": "28178752", "isbn": "1503989569", "isbn13": "9781503989566", "text_reviews_count":
+  {"@type": "integer", "#text": "1"}, "uri": "kca://book/amzn1.gr.book.v1.uemuze54fUBFXnptOHLaQw",
+  "title": "Childhood\u2019s End", "title_without_series": "Childhood\u2019s End",
+  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/28178752-childhood-s-end",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "4.12", "ratings_count": "167084", "description": "In the near future, enormous
+  silver spaceships appear without warning over mankind''s largest cities. They belong
+  to the Overlords, an alien race far superior to humanity in technological development-and
+  their purpose is to dominate the Earth. Their demands, however, are surprisingly
+  beneficial-end war, poverty, and cruelty. Their presence, rather than signaling
+  the end of humanity, ushers in a golden age-or so it seems.<br /><br />But it comes
+  at a price. Without conflict, humanity ceases to work toward creative achievement,
+  and culture stagnates. And as the years pass, it becomes more and more clear that
+  the Overlords have a hidden agenda for the evolution of the human race-that may
+  not be as beneficial as it seems.<br /> <br />Originally published in 1953, Childhood''s
+  End is Clarke''s first successful novel-and is considered a classic of science fiction
+  literature. Its dominating theme of transcendent evolution appears in many of Clarke''s
+  later works, including the Space Odyssey series. In 2004, the book was nominated
+  for the Retro Hugo Award for Best Novel.", "authors": {"author": {"id": "7779",
+  "name": "Arthur C. Clarke", "role": null, "image_url": {"@nophoto": "false", "#text":
+  "https://images.gr-assets.com/authors/1357191481p5/7779.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1357191481p2/7779.jpg"},
+  "link": "https://www.goodreads.com/author/show/7779.Arthur_C_Clarke", "average_rating":
+  "3.99", "ratings_count": "1396474", "text_reviews_count": "53473"}}, "published":
+  null, "work": {"id": "209414", "uri": "kca://work/amzn1.gr.work.v1.e7wehIQP2mlHxdzq9eWg8w"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417527",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B07XG6MG3Y
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/28178752-childhood-s-end
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '116027'
+    '@name': to-read
+  - '@count': '5259'
+    '@name': science-fiction
+  - '@count': '4332'
+    '@name': sci-fi
+  - '@count': '4318'
+    '@name': currently-reading
+  - '@count': '2041'
+    '@name': fiction
+  - '@count': '1274'
+    '@name': favorites
+  - '@count': '981'
+    '@name': scifi
+  - '@count': '784'
+    '@name': classics
+  - '@count': '683'
+    '@name': owned
+  - '@count': '470'
+    '@name': sf
+  - '@count': '297'
+    '@name': sci-fi-fantasy
+  - '@count': '249'
+    '@name': audiobook
+  - '@count': '232'
+    '@name': dystopia
+  - '@count': '228'
+    '@name': kindle
+  - '@count': '211'
+    '@name': aliens
+  - '@count': '210'
+    '@name': classic
+  - '@count': '205'
+    '@name': fantasy
+  - '@count': '185'
+    '@name': books-i-own
+  - '@count': '167'
+    '@name': ebook
+  - '@count': '160'
+    '@name': novels
+  - '@count': '146'
+    '@name': library
+  - '@count': '142'
+    '@name': speculative-fiction
+  - '@count': '138'
+    '@name': scifi-fantasy
+  - '@count': '137'
+    '@name': audible
+  - '@count': '133'
+    '@name': audiobooks
+  - '@count': '131'
+    '@name': default
+  - '@count': '127'
+    '@name': dystopian
+  - '@count': '123'
+    '@name': arthur-c-clarke
+  - '@count': '116'
+    '@name': to-buy
+  - '@count': '116'
+    '@name': science-fiction-fantasy
+  - '@count': '113'
+    '@name': novel
+  - '@count': '104'
+    '@name': book-club
+  - '@count': '99'
+    '@name': owned-books
+  - '@count': '97'
+    '@name': ebooks
+  - '@count': '96'
+    '@name': favourites
+  - '@count': '91'
+    '@name': sf-masterworks
+  - '@count': '89'
+    '@name': audio
+  - '@count': '84'
+    '@name': science
+  - '@count': '84'
+    '@name': fantasy-sci-fi
+  - '@count': '81'
+    '@name': space
+  - '@count': '81'
+    '@name': books
+  - '@count': '81'
+    '@name': english
+  - '@count': '74'
+    '@name': 20th-century
+  - '@count': '74'
+    '@name': sff
+  - '@count': '72'
+    '@name': first-contact
+  - '@count': '68'
+    '@name': my-library
+  - '@count': '65'
+    '@name': sci-fi-and-fantasy
+  - '@count': '62'
+    '@name': sword-and-laser
+  - '@count': '62'
+    '@name': literature
+  - '@count': '61'
+    '@name': classic-sci-fi
+  - '@count': '60'
+    '@name': sf-fantasy
+  - '@count': '55'
+    '@name': "fic\xE7\xE3o-cient\xEDfica"
+  - '@count': '52'
+    '@name': tbr
+  - '@count': '52'
+    '@name': british
+  - '@count': '51'
+    '@name': my-books
+  - '@count': '51'
+    '@name': 1950s
+  - '@count': '50'
+    '@name': e-book
+  - '@count': '47'
+    '@name': dnf
+  - '@count': '46'
+    '@name': sci-fi-to-read
+  - '@count': '46'
+    '@name': to-read-fiction
+  - '@count': '45'
+    '@name': "ciencia-ficci\xF3n"
+  - '@count': '43'
+    '@name': adult
+  - '@count': '43'
+    '@name': fantasy-scifi
+  - '@count': '42'
+    '@name': to-read-sci-fi
+  - '@count': '40'
+    '@name': audio-book
+  - '@count': '40'
+    '@name': apocalyptic
+  - '@count': '38'
+    '@name': clarke
+  - '@count': '37'
+    '@name': fantascienza
+  - '@count': '37'
+    '@name': maybe
+  - '@count': '36'
+    '@name': kindle-books
+  - '@count': '36'
+    '@name': calibre
+  - '@count': '35'
+    '@name': favoritos
+  - '@count': '35'
+    '@name': standalone
+  - '@count': '35'
+    '@name': have
+  - '@count': '35'
+    '@name': favorite
+  - '@count': '35'
+    '@name': audio-books
+  - '@count': '35'
+    '@name': sciencefiction
+  - '@count': '34'
+    '@name': did-not-finish
+  - '@count': '34'
+    '@name': adult-fiction
+  - '@count': '33'
+    '@name': kindle-unlimited
+  - '@count': '33'
+    '@name': fiction-sci-fi
+  - '@count': '33'
+    '@name': wish-list
+  - '@count': '32'
+    '@name': reread
+  - '@count': '30'
+    '@name': bilim-kurgu
+  - '@count': '30'
+    '@name': paperback
+  - '@count': '29'
+    '@name': want-to-buy
+  - '@count': '29'
+    '@name': physical
+  - '@count': '29'
+    '@name': philosophy
+  - '@count': '28'
+    '@name': re-read
+  - '@count': '28'
+    '@name': digital
+  - '@count': '28'
+    '@name': e-books
+  - '@count': '28'
+    '@name': recommended
+  - '@count': '28'
+    '@name': science-fiction-and-fantasy
+  - '@count': '27'
+    '@name': stand-alone
+  - '@count': '27'
+    '@name': bookshelf
+  - '@count': '27'
+    '@name': reviewed
+  - '@count': '27'
+    '@name': abandoned
+  - '@count': '27'
+    '@name': apocalypse
+  - '@count': '26'
+    '@name': sci-fi-tbr
+  - '@count': '26'
+    '@name': next
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '167084'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417527
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/28178752-childhood-s-end\"\
+  >Childhood\u2019s End Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1503989569&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/28178752-childhood-s-end?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '12476'
+        link: https://www.goodreads.com/author/show/12476.Joe_Haldeman
+        name: Joe Haldeman
+    average_rating: '4.12'
+    id: '21611'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386852511l/21611._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/21611.The_Forever_War
+    num_pages: '278'
+    publication_day: '2'
+    publication_month: '9'
+    publication_year: '2003'
+    ratings_count: '167084'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386852511l/21611._SY75_.jpg
+    title: 'The Forever War (The Forever War, #1)'
+    title_without_series: The Forever War
+    uri: kca://book/amzn1.gr.book.v1.QJnY72VlwmqvjPOEzRCdxQ
+    work:
+      id: '423'
+  - authors:
+      author:
+        id: '2687'
+        link: https://www.goodreads.com/author/show/2687.Dan_Simmons
+        name: Dan Simmons
+    average_rating: '4.12'
+    id: '77566'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405546838l/77566._SY160_.jpg
+    isbn: 0553283685
+    isbn13: '9780553283686'
+    link: https://www.goodreads.com/book/show/77566.Hyperion
+    num_pages: '500'
+    publication_day: null
+    publication_month: '3'
+    publication_year: '1990'
+    ratings_count: '167084'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405546838l/77566._SY75_.jpg
+    title: 'Hyperion (Hyperion Cantos, #1)'
+    title_without_series: Hyperion
+    uri: kca://book/amzn1.gr.book.v1.2xaw98fU9vu-PP2TJ7Wgyw
+    work:
+      id: '1383900'
+  - authors:
+      author:
+        id: '16667'
+        link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+        name: Isaac Asimov
+    average_rating: '4.12'
+    id: '41804'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609035271l/41804._SX98_.jpg
+    isbn: 0553803700
+    isbn13: '9780553803709'
+    link: https://www.goodreads.com/book/show/41804.I_Robot
+    num_pages: '224'
+    publication_day: null
+    publication_month: '6'
+    publication_year: '2004'
+    ratings_count: '167084'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609035271l/41804._SY75_.jpg
+    title: 'I, Robot (Robot, #0.1)'
+    title_without_series: I, Robot
+    uri: kca://book/amzn1.gr.book.v1.TjnB6ZeRoy0zcgaPoV4SiA
+    work:
+      id: '1796026'
+  - authors:
+      author:
+        id: '4764'
+        link: https://www.goodreads.com/author/show/4764.Philip_K_Dick
+        name: Philip K. Dick
+    average_rating: '4.12'
+    id: '36402034'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507838927l/36402034._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/36402034-do-androids-dream-of-electric-sheep
+    num_pages: '258'
+    publication_day: '26'
+    publication_month: '2'
+    publication_year: '2008'
+    ratings_count: '167084'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507838927l/36402034._SY75_.jpg
+    title: Do Androids Dream of Electric Sheep?
+    title_without_series: Do Androids Dream of Electric Sheep?
+    uri: kca://book/amzn1.gr.book.v1.lENz7wsiugnkZNIWJ-zhOg
+    work:
+      id: '830939'
+  - authors:
+      author:
+        id: '16667'
+        link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+        name: Isaac Asimov
+    average_rating: '4.12'
+    id: '29579'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846l/29579._SX98_.jpg
+    isbn: 0553803719
+    isbn13: '9780553803716'
+    link: https://www.goodreads.com/book/show/29579.Foundation
+    num_pages: '244'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '167084'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846l/29579._SX50_.jpg
+    title: 'Foundation (Foundation, #1)'
+    title_without_series: Foundation
+    uri: kca://book/amzn1.gr.book.v1.tpjXJjtCkXTyh6kZuu57VQ
+    work:
+      id: '1783981'
+  - authors:
+      author:
+        id: '10991'
+        link: https://www.goodreads.com/author/show/10991.Stanis_aw_Lem
+        name: "Stanis\u0142aw Lem"
+    average_rating: '4.12'
+    id: '95558'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498631519l/95558._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/95558.Solaris
+    num_pages: '204'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '167084'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498631519l/95558._SX50_.jpg
+    title: Solaris
+    title_without_series: Solaris
+    uri: kca://book/amzn1.gr.book.v1.2QOFfnwJcCGPgpzd2dOo1w
+    work:
+      id: '3333881'
+  - authors:
+      author:
+        id: '12534'
+        link: https://www.goodreads.com/author/show/12534.Larry_Niven
+        name: Larry Niven
+    average_rating: '4.12'
+    id: '61179'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408793358l/61179._SX98_.jpg
+    isbn: '0575077026'
+    isbn13: '9780575077027'
+    link: https://www.goodreads.com/book/show/61179.Ringworld
+    num_pages: '288'
+    publication_day: '9'
+    publication_month: '6'
+    publication_year: '2005'
+    ratings_count: '167084'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408793358l/61179._SY75_.jpg
+    title: 'Ringworld (Ringworld, #1)'
+    title_without_series: Ringworld
+    uri: kca://book/amzn1.gr.book.v1.G0bCjcuqzJnhojepH--hhg
+    work:
+      id: '924711'
+  - authors:
+      author:
+        id: '205'
+        link: https://www.goodreads.com/author/show/205.Robert_A_Heinlein
+        name: Robert A. Heinlein
+    average_rating: '4.12'
+    id: '16690'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0340837942
+    isbn13: '9780340837948'
+    link: https://www.goodreads.com/book/show/16690.The_Moon_Is_a_Harsh_Mistress
+    num_pages: '288'
+    publication_day: '14'
+    publication_month: '3'
+    publication_year: '2005'
+    ratings_count: '167084'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Moon Is a Harsh Mistress
+    title_without_series: The Moon Is a Harsh Mistress
+    uri: kca://book/amzn1.gr.book.v1.VUvbEFZyNN18oMv_T4imsQ
+    work:
+      id: '1048525'
+  - authors:
+      author:
+        id: '205'
+        link: https://www.goodreads.com/author/show/205.Robert_A_Heinlein
+        name: Robert A. Heinlein
+    average_rating: '4.12'
+    id: '17214'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614054412l/17214._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/17214.Starship_Troopers
+    num_pages: '264'
+    publication_day: null
+    publication_month: '5'
+    publication_year: '1987'
+    ratings_count: '167084'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614054412l/17214._SY75_.jpg
+    title: Starship Troopers
+    title_without_series: Starship Troopers
+    uri: kca://book/amzn1.gr.book.v1.WlcZG9NeWw7A-2d1-4B8sw
+    work:
+      id: '2534973'
+  - authors:
+      author:
+        id: '874602'
+        link: https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin
+        name: Ursula K. Le Guin
+    average_rating: '4.12'
+    id: '18423'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488213612l/18423._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness
+    num_pages: '304'
+    publication_day: '1'
+    publication_month: '7'
+    publication_year: '2000'
+    ratings_count: '167084'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488213612l/18423._SY75_.jpg
+    title: The Left Hand of Darkness
+    title_without_series: The Left Hand of Darkness
+    uri: kca://book/amzn1.gr.book.v1.rN6TzC6agHQRuPR-ZIDiGA
+    work:
+      id: '817527'
+  - authors:
+      author:
+        id: '4764'
+        link: https://www.goodreads.com/author/show/4764.Philip_K_Dick
+        name: Philip K. Dick
+    average_rating: '4.12'
+    id: '22590'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '8498000831'
+    isbn13: '9788498000832'
+    link: https://www.goodreads.com/book/show/22590.Ubik
+    num_pages: '288'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '167084'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Ubik
+    title_without_series: Ubik
+    uri: kca://book/amzn1.gr.book.v1.9pFsU3pQhmNOKDut79rbCg
+    work:
+      id: '62929'
+  - authors:
+      author:
+        id: '10992'
+        link: https://www.goodreads.com/author/show/10992.Alfred_Bester
+        name: Alfred Bester
+    average_rating: '4.12'
+    id: '333867'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433671750l/333867._SX98_.jpg
+    isbn: 0679767800
+    isbn13: '9780679767800'
+    link: https://www.goodreads.com/book/show/333867.The_Stars_My_Destination
+    num_pages: '258'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '167084'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433671750l/333867._SY75_.jpg
+    title: The Stars My Destination
+    title_without_series: The Stars My Destination
+    uri: kca://book/amzn1.gr.book.v1.SbWt-vvM14TybncDOadNTg
+    work:
+      id: '1398442'
+  - authors:
+      author:
+        id: '16667'
+        link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+        name: Isaac Asimov
+    average_rating: '4.12'
+    id: '509784'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405527675l/509784._SY160_.jpg
+    isbn: 0449016196
+    isbn13: '9780449016190'
+    link: https://www.goodreads.com/book/show/509784.The_End_of_Eternity
+    num_pages: '192'
+    publication_day: '1'
+    publication_month: '10'
+    publication_year: '1971'
+    ratings_count: '167084'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405527675l/509784._SY75_.jpg
+    title: The End of Eternity
+    title_without_series: The End of Eternity
+    uri: kca://book/amzn1.gr.book.v1.QLnS_j2ciDUtSh2nrZjPSg
+    work:
+      id: '1407851'
+  - authors:
+      author:
+        id: '1159886'
+        link: https://www.goodreads.com/author/show/1159886.Arkady_Strugatsky
+        name: Arkady Strugatsky
+    average_rating: '4.12'
+    id: '331256'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0575070536'
+    isbn13: '9780575070530'
+    link: https://www.goodreads.com/book/show/331256.Roadside_Picnic
+    num_pages: '145'
+    publication_day: '24'
+    publication_month: '8'
+    publication_year: '2000'
+    ratings_count: '167084'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Roadside Picnic
+    title_without_series: Roadside Picnic
+    uri: kca://book/amzn1.gr.book.v1.idahH6cZYkLCEl9ZhwCQ3Q
+    work:
+      id: '1243896'
+  - authors:
+      author:
+        id: '9226'
+        link: https://www.goodreads.com/author/show/9226.William_Gibson
+        name: William Gibson
+    average_rating: '4.12'
+    id: '6088007'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554437249l/6088007._SX98_.jpg
+    isbn: 110114646X
+    isbn13: '9781101146460'
+    link: https://www.goodreads.com/book/show/6088007-neuromancer
+    num_pages: '288'
+    publication_day: '3'
+    publication_month: '3'
+    publication_year: '2007'
+    ratings_count: '167084'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554437249l/6088007._SY75_.jpg
+    title: 'Neuromancer (Sprawl, #1)'
+    title_without_series: Neuromancer
+    uri: kca://book/amzn1.gr.book.v1._7m4DTRn8iapMvlxW1amew
+    work:
+      id: '909457'
+  - authors:
+      author:
+        id: '16667'
+        link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+        name: Isaac Asimov
+    average_rating: '4.12'
+    id: '41821'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351076141l/41821._SX98_.jpg
+    isbn: '1857989341'
+    isbn13: '9781857989342'
+    link: https://www.goodreads.com/book/show/41821.The_Gods_Themselves
+    num_pages: '288'
+    publication_day: '10'
+    publication_month: '2'
+    publication_year: '2000'
+    ratings_count: '167084'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351076141l/41821._SY75_.jpg
+    title: The Gods Themselves
+    title_without_series: The Gods Themselves
+    uri: kca://book/amzn1.gr.book.v1.2hID45qAfWwRC8m9KB6iKw
+    work:
+      id: '1253407'
+  - authors:
+      author:
+        id: '2687'
+        link: https://www.goodreads.com/author/show/2687.Dan_Simmons
+        name: Dan Simmons
+    average_rating: '4.12'
+    id: '77565'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541174620l/77565._SY160_.jpg
+    isbn: 0553288202
+    isbn13: '9780553288209'
+    link: https://www.goodreads.com/book/show/77565.The_Fall_of_Hyperion
+    num_pages: '517'
+    publication_day: null
+    publication_month: '12'
+    publication_year: '1995'
+    ratings_count: '167084'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541174620l/77565._SY75_.jpg
+    title: 'The Fall of Hyperion (Hyperion Cantos, #2)'
+    title_without_series: The Fall of Hyperion
+    uri: kca://book/amzn1.gr.book.v1.JHZwufQuwEjgrScrRAJskA
+    work:
+      id: '1882596'
+  - authors:
+      author:
+        id: '16667'
+        link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+        name: Isaac Asimov
+    average_rating: '4.12'
+    id: '41811'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335782224l/41811._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/41811.The_Caves_of_Steel
+    num_pages: '206'
+    publication_day: null
+    publication_month: null
+    publication_year: '1997'
+    ratings_count: '167084'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335782224l/41811._SY75_.jpg
+    title: 'The Caves of Steel (Robot, #1)'
+    title_without_series: The Caves of Steel
+    uri: kca://book/amzn1.gr.book.v1.gIg7GOhzZLzWSNPXqE33gQ
+    work:
+      id: '140376'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '1'
+  '@type': integer
+title: "Childhood\u2019s End"
+title_without_series: "Childhood\u2019s End"
+uri: kca://book/amzn1.gr.book.v1.uemuze54fUBFXnptOHLaQw
+url: https://www.goodreads.com/book/show/28178752-childhood-s-end
+work:
+  id: '209414'
+  uri: kca://work/amzn1.gr.work.v1.e7wehIQP2mlHxdzq9eWg8w

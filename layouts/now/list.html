@@ -18,31 +18,36 @@
 
     <hr />
 
-    <h2>{{ i18n "previousNows" | default "Previous Nows" }}</h2>
+    <details>
+        <summary>{{ i18n "previousNows" | default "Previous Nows" }}</summary>
 
-    {{ if .Data.Singular }}
-    <h3 class="now-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
-    {{ end }}
-    <ul class="now-posts">
-        {{ range after 1 .Data.Pages }}
-        <li>
-            <span>
-                <i>
-                    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
-                        {{ .Date.Format (default "2006-01-02"
-                        .Site.Params.dateFormat) }}
-                    </time>
-                </i>
-            </span>
-            {{ if .Params.link }}
-            <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
-            {{ else }}
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            {{ end }}
-        </li>
-        {{ else }}
-        <li>{{ i18n "no-posts" }}</li>
+        {{ if .Data.Singular }}
+        <h3 class="now-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
         {{ end }}
-    </ul>
+        <ul class="now-posts">
+            {{ range after 1 .Data.Pages }}
+            <li>
+                <span>
+                    <i>
+                        <time
+                            datetime='{{ .Date.Format "2006-01-02" }}'
+                            pubdate
+                        >
+                            {{ .Date.Format (default "2006-01-02"
+                            .Site.Params.dateFormat) }}
+                        </time>
+                    </i>
+                </span>
+                {{ if .Params.link }}
+                <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
+                {{ else }}
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                {{ end }}
+            </li>
+            {{ else }}
+            <li>{{ i18n "no-posts" }}</li>
+            {{ end }}
+        </ul>
+    </details>
 </content>
 {{ end }}

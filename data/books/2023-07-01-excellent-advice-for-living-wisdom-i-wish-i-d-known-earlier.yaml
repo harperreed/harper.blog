@@ -1,0 +1,745 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.97'
+    id: '27388'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1282952717p5/27388.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/27388.Kevin_Kelly
+    name: Kevin Kelly
+    ratings_count: '31142'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1282952717p2/27388.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '2396'
+average_rating: '4.22'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2023-07-01T00:00:00-07:00'
+description: null
+edition_information: null
+format: null
+id: '63101004'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725859277l/63101004._SX98_.jpg
+is_ebook: 'true'
+isbn: 0593654536
+isbn13: '9780593654538'
+json: '{"id": "63101004", "isbn": "0593654536", "isbn13": "9780593654538", "text_reviews_count":
+  {"@type": "integer", "#text": "65"}, "uri": "kca://book/amzn1.gr.book.v3.5df6Lm6kXunTzERS",
+  "title": "Excellent Advice for Living: Wisdom I Wish I''d Known Earlier", "title_without_series":
+  "Excellent Advice for Living: Wisdom I Wish I''d Known Earlier", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725859277l/63101004._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725859277l/63101004._SX50_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/63101004-excellent-advice-for-living",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "4.22", "ratings_count": "4315", "description": null, "authors": {"author": {"id":
+  "27388", "name": "Kevin Kelly", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1282952717p5/27388.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1282952717p2/27388.jpg"},
+  "link": "https://www.goodreads.com/author/show/27388.Kevin_Kelly", "average_rating":
+  "3.97", "ratings_count": "31142", "text_reviews_count": "2396"}}, "published": null,
+  "work": {"id": "98113859", "uri": "kca://work/amzn1.gr.work.v3.Z05pCHHBFNy6mr60"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/5658107574",
+  "read_at": "Sat Jul 01 00:00:00 -0700 2023", "started_at": "Fri Jun 30 00:00:00
+  -0700 2023", "date": "Sat Jul 01 00:00:00 -0700 2023"}'
+kindle_asin: B0BCF78T14
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/63101004-excellent-advice-for-living
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '9145'
+    '@name': to-read
+  - '@count': '924'
+    '@name': currently-reading
+  - '@count': '132'
+    '@name': non-fiction
+  - '@count': '102'
+    '@name': self-help
+  - '@count': '72'
+    '@name': nonfiction
+  - '@count': '67'
+    '@name': philosophy
+  - '@count': '43'
+    '@name': self-improvement
+  - '@count': '42'
+    '@name': personal-development
+  - '@count': '27'
+    '@name': psychology
+  - '@count': '25'
+    '@name': productivity
+  - '@count': '23'
+    '@name': life
+  - '@count': '21'
+    '@name': favorites
+  - '@count': '17'
+    '@name': self-development
+  - '@count': '16'
+    '@name': kindle
+  - '@count': '13'
+    '@name': wisdom
+  - '@count': '12'
+    '@name': audio
+  - '@count': '12'
+    '@name': audiobook
+  - '@count': '11'
+    '@name': audiobooks
+  - '@count': '11'
+    '@name': business
+  - '@count': '9'
+    '@name': self
+  - '@count': '9'
+    '@name': personal-growth
+  - '@count': '8'
+    '@name': leadership
+  - '@count': '7'
+    '@name': library
+  - '@count': '7'
+    '@name': advice
+  - '@count': '7'
+    '@name': essays
+  - '@count': '6'
+    '@name': 2023-reads
+  - '@count': '6'
+    '@name': happiness
+  - '@count': '5'
+    '@name': 2024-reads
+  - '@count': '5'
+    '@name': biography
+  - '@count': '5'
+    '@name': abandoned
+  - '@count': '5'
+    '@name': read-in-2023
+  - '@count': '5'
+    '@name': 2023-books
+  - '@count': '5'
+    '@name': creativity
+  - '@count': '5'
+    '@name': health
+  - '@count': '4'
+    '@name': ebook
+  - '@count': '4'
+    '@name': read-2024
+  - '@count': '4'
+    '@name': 2024-read
+  - '@count': '4'
+    '@name': blinkist
+  - '@count': '4'
+    '@name': relationships
+  - '@count': '4'
+    '@name': parenting
+  - '@count': '4'
+    '@name': audible
+  - '@count': '4'
+    '@name': improvement
+  - '@count': '4'
+    '@name': to-read-nonfiction
+  - '@count': '4'
+    '@name': ryan-holiday
+  - '@count': '4'
+    '@name': to-buy
+  - '@count': '4'
+    '@name': inspiration
+  - '@count': '4'
+    '@name': recommendations
+  - '@count': '4'
+    '@name': must-read
+  - '@count': '4'
+    '@name': psychology-self-help
+  - '@count': '4'
+    '@name': 2023-read
+  - '@count': '4'
+    '@name': next-up
+  - '@count': '3'
+    '@name': read-in-2024
+  - '@count': '3'
+    '@name': 2024-reading-list
+  - '@count': '3'
+    '@name': marginalian
+  - '@count': '3'
+    '@name': motivational
+  - '@count': '3'
+    '@name': work
+  - '@count': '3'
+    '@name': read-2023
+  - '@count': '3'
+    '@name': favourites
+  - '@count': '3'
+    '@name': how-to
+  - '@count': '3'
+    '@name': mindset
+  - '@count': '3'
+    '@name': library-book
+  - '@count': '3'
+    '@name': did-not-finish
+  - '@count': '3'
+    '@name': up-next
+  - '@count': '3'
+    '@name': spirituality
+  - '@count': '3'
+    '@name': summaries
+  - '@count': '3'
+    '@name': shortlist
+  - '@count': '3'
+    '@name': recommended
+  - '@count': '3'
+    '@name': buy
+  - '@count': '3'
+    '@name': next
+  - '@count': '3'
+    '@name': want-to-read-non-fiction
+  - '@count': '2'
+    '@name': informational
+  - '@count': '2'
+    '@name': essay
+  - '@count': '2'
+    '@name': ensayo
+  - '@count': '2'
+    '@name': audiblepurchased
+  - '@count': '2'
+    '@name': life-advice
+  - '@count': '2'
+    '@name': relationship
+  - '@count': '2'
+    '@name': education
+  - '@count': '2'
+    '@name': desarrollo
+  - '@count': '2'
+    '@name': 2024-tbr
+  - '@count': '2'
+    '@name': tim-ferriss
+  - '@count': '2'
+    '@name': il-saggiatore
+  - '@count': '2'
+    '@name': bookshelf
+  - '@count': '2'
+    '@name': children
+  - '@count': '2'
+    '@name': e-books
+  - '@count': '2'
+    '@name': in-libreria
+  - '@count': '2'
+    '@name': owned
+  - '@count': '2'
+    '@name': inspirational
+  - '@count': '2'
+    '@name': kindle-library
+  - '@count': '2'
+    '@name': borrowed-from-library
+  - '@count': '2'
+    '@name': ali
+  - '@count': '2'
+    '@name': do-not-own
+  - '@count': '2'
+    '@name': priority-to-read
+  - '@count': '2'
+    '@name': nonfiction-tbr
+  - '@count': '2'
+    '@name': recs
+  - '@count': '2'
+    '@name': unfinished
+  - '@count': '2'
+    '@name': memoir
+  - '@count': '2'
+    '@name': mental-models
+  - '@count': '2'
+    '@name': reference
+  - '@count': '2'
+    '@name': principles
+  - '@count': '2'
+    '@name': backlog
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '4315'
+read_at: '2023-07-01T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/5658107574
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/63101004-excellent-advice-for-living\"\
+  >Excellent Advice for Living Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0593654536&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/63101004-excellent-advice-for-living?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '7499284'
+        link: https://www.goodreads.com/author/show/7499284.Morgan_Housel
+        name: Morgan Housel
+    average_rating: '4.22'
+    id: '125116554'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: '9780593332702'
+    link: https://www.goodreads.com/book/show/125116554-same-as-ever
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4315'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Same as Ever: A Guide to What Never Changes'
+    title_without_series: 'Same as Ever: A Guide to What Never Changes'
+    uri: kca://book/amzn1.gr.book.v3.WVVWxkLw421nZpjo
+    work:
+      id: '146373396'
+  - authors:
+      author:
+        id: '7871969'
+        link: https://www.goodreads.com/author/show/7871969.Shane_Parrish
+        name: Shane Parrish
+    average_rating: '4.22'
+    id: '75665850'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685350454l/75665850._SX98_.jpg
+    isbn: 0593086112
+    isbn13: '9780593086124'
+    link: https://www.goodreads.com/book/show/75665850-clear-thinking
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685350454l/75665850._SY75_.jpg
+    title: 'Clear Thinking: Turning Ordinary Moments into Extraordinary Results'
+    title_without_series: 'Clear Thinking: Turning Ordinary Moments into Extraordinary
+      Results'
+    uri: kca://book/amzn1.gr.book.v3.X19EQVuidO2DSdJy
+    work:
+      id: '101033125'
+  - authors:
+      author:
+        id: '2766361'
+        link: https://www.goodreads.com/author/show/2766361.Derek_Sivers
+        name: Derek Sivers
+    average_rating: '4.22'
+    id: '58188742'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622315303l/58188742._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/58188742-how-to-live
+    num_pages: '115'
+    publication_day: '28'
+    publication_month: '5'
+    publication_year: '2021'
+    ratings_count: '4315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622315303l/58188742._SY75_.jpg
+    title: 'How to Live: 27 conflicting answers and one weird conclusion'
+    title_without_series: 'How to Live: 27 conflicting answers and one weird conclusion'
+    uri: kca://book/amzn1.gr.book.v3.pU-5wSEFdVQLpYEX
+    work:
+      id: '91208388'
+  - authors:
+      author:
+        id: '4384050'
+        link: https://www.goodreads.com/author/show/4384050.Oliver_Burkeman
+        name: Oliver Burkeman
+    average_rating: '4.22'
+    id: '205363955'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0374611998
+    isbn13: '9780374611996'
+    link: https://www.goodreads.com/book/show/205363955-meditations-for-mortals
+    num_pages: '208'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4315'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make
+      Time for What Counts'
+    title_without_series: 'Meditations for Mortals: Four Weeks to Embrace Your Limitations
+      and Make Time for What Counts'
+    uri: kca://book/amzn1.gr.book.v3.eOWnP-JBXnWNs-oo
+    work:
+      id: '211382681'
+  - authors:
+      author:
+        id: '147891'
+        link: https://www.goodreads.com/author/show/147891.Cal_Newport
+        name: Cal Newport
+    average_rating: '4.22'
+    id: '197773418'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0593544854
+    isbn13: '9780593544853'
+    link: https://www.goodreads.com/book/show/197773418-slow-productivity
+    num_pages: '244'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4315'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Slow Productivity: The Lost Art of Accomplishment Without Burnout'
+    title_without_series: 'Slow Productivity: The Lost Art of Accomplishment Without
+      Burnout'
+    uri: kca://book/amzn1.gr.book.v3.MvIEJJBXBdgTewOr
+    work:
+      id: '181601901'
+  - authors:
+      author:
+        id: '2766361'
+        link: https://www.goodreads.com/author/show/2766361.Derek_Sivers
+        name: Derek Sivers
+    average_rating: '4.22'
+    id: '209933737'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710408598l/209933737._SX98_.jpg
+    isbn: '0473453037'
+    isbn13: '9780473453039'
+    link: https://www.goodreads.com/book/show/209933737-useful-not-true
+    num_pages: '90'
+    publication_day: '21'
+    publication_month: '6'
+    publication_year: '2024'
+    ratings_count: '4315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710408598l/209933737._SY75_.jpg
+    title: 'Useful Not True: whatever works for you'
+    title_without_series: 'Useful Not True: whatever works for you'
+    uri: kca://book/amzn1.gr.book.v3.XO_gTtpyWsLnTj4d
+    work:
+      id: '216145107'
+  - authors:
+      author:
+        id: '5775580'
+        link: https://www.goodreads.com/author/show/5775580.Ryan_Holiday
+        name: Ryan Holiday
+    average_rating: '4.22'
+    id: '199334305'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698093217l/199334305._SX98_.jpg
+    isbn: 0593191722
+    isbn13: '9780593191729'
+    link: https://www.goodreads.com/book/show/199334305-right-thing-right-now
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698093217l/199334305._SX50_.jpg
+    title: 'Right Thing, Right Now: Justice in an Unjust World'
+    title_without_series: 'Right Thing, Right Now: Justice in an Unjust World'
+    uri: kca://book/amzn1.gr.book.v3.JhiKRo1c2Qil68MV
+    work:
+      id: '203716414'
+  - authors:
+      author:
+        id: '2988903'
+        link: https://www.goodreads.com/author/show/2988903.Brad_Jacobs
+        name: Brad Jacobs
+    average_rating: '4.22'
+    id: '199249408'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: '9798886451740'
+    link: https://www.goodreads.com/book/show/199249408-how-to-make-a-few-billion-dollars
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4315'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: How to Make a Few Billion Dollars
+    title_without_series: How to Make a Few Billion Dollars
+    uri: kca://book/amzn1.gr.book.v3.jH8jGJXOokif1HG7
+    work:
+      id: '203259524'
+  - authors:
+      author:
+        id: '4029970'
+        link: https://www.goodreads.com/author/show/4029970.Eric_Jorgenson
+        name: Eric Jorgenson
+    average_rating: '4.22'
+    id: '200179688'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1544542909'
+    isbn13: '9781544542904'
+    link: https://www.goodreads.com/book/show/200179688-the-anthology-of-balaji
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4315'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Anthology of Balaji: A Guide to Technology, Truth, and Building the
+      Future'
+    title_without_series: 'The Anthology of Balaji: A Guide to Technology, Truth,
+      and Building the Future'
+    uri: kca://book/amzn1.gr.book.v3.l_LUq-E7B16peCAH
+    work:
+      id: '203780989'
+  - authors:
+      author:
+        id: '22441808'
+        link: https://www.goodreads.com/author/show/22441808.Peter_Attia
+        name: Peter Attia
+    average_rating: '4.22'
+    id: '61153739'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700067079l/61153739._SX98_.jpg
+    isbn: 0593236599
+    isbn13: '9780593236598'
+    link: https://www.goodreads.com/book/show/61153739-outlive
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700067079l/61153739._SX50_.jpg
+    title: 'Outlive: The Science & Art of Longevity'
+    title_without_series: 'Outlive: The Science & Art of Longevity'
+    uri: kca://book/amzn1.gr.book.v3.WHwnb5o0foDKvnbm
+    work:
+      id: '96395290'
+  - authors:
+      author:
+        id: '50851266'
+        link: https://www.goodreads.com/author/show/50851266.Andrew_Wilkinson
+        name: Andrew  Wilkinson
+    average_rating: '4.22'
+    id: '199348906'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699912269l/199348906._SX98_.jpg
+    isbn: '1637744765'
+    isbn13: '9781637744765'
+    link: https://www.goodreads.com/book/show/199348906-never-enough
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699912269l/199348906._SY75_.jpg
+    title: 'Never Enough: From Barista to Billionaire'
+    title_without_series: 'Never Enough: From Barista to Billionaire'
+    uri: kca://book/amzn1.gr.book.v3.4I2TgE7ba7_qGlC3
+    work:
+      id: '203776411'
+  - authors:
+      author:
+        id: '45722099'
+        link: https://www.goodreads.com/author/show/45722099.Noah_Kagan
+        name: Noah Kagan
+    average_rating: '4.22'
+    id: '145624504'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711048506l/145624504._SX98_.jpg
+    isbn: 059353977X
+    isbn13: '9780593539774'
+    link: https://www.goodreads.com/book/show/145624504-million-dollar-weekend
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711048506l/145624504._SY75_.jpg
+    title: 'Million Dollar Weekend: The Surprisingly Simple Way to Launch a 7-Figure
+      Business in 48 Hours'
+    title_without_series: 'Million Dollar Weekend: The Surprisingly Simple Way to
+      Launch a 7-Figure Business in 48 Hours'
+    uri: kca://book/amzn1.gr.book.v3.Eh0eVhS66LtNvDN4
+    work:
+      id: '160939843'
+  - authors:
+      author:
+        id: '236437'
+        link: https://www.goodreads.com/author/show/236437.Charles_T_Munger
+        name: Charles T. Munger
+    average_rating: '4.22'
+    id: '944652'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 157864366X
+    isbn13: '9781578643660'
+    link: https://www.goodreads.com/book/show/944652.Poor_Charlie_s_Almanack
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4315'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Poor Charlie''s Almanack: The Wit and Wisdom of Charles T. Munger'
+    title_without_series: 'Poor Charlie''s Almanack: The Wit and Wisdom of Charles
+      T. Munger'
+    uri: kca://book/amzn1.gr.book.v1.xtbEclMPnU3qBOLR471H5Q
+    work:
+      id: '3406894'
+  - authors:
+      author:
+        id: '1791'
+        link: https://www.goodreads.com/author/show/1791.Seth_Godin
+        name: Seth Godin
+    average_rating: '4.22'
+    id: '83817473'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685353194l/83817473._SX98_.jpg
+    isbn: 0593715543
+    isbn13: '9780593715543'
+    link: https://www.goodreads.com/book/show/83817473-the-song-of-significance
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685353194l/83817473._SX50_.jpg
+    title: 'The Song of Significance: A New Manifesto for Teams'
+    title_without_series: 'The Song of Significance: A New Manifesto for Teams'
+    uri: kca://book/amzn1.gr.book.v3.APRqJIGtuL6NB1X7
+    work:
+      id: '108373510'
+  - authors:
+      author:
+        id: '2766361'
+        link: https://www.goodreads.com/author/show/2766361.Derek_Sivers
+        name: Derek Sivers
+    average_rating: '4.22'
+    id: '52523856'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594784873l/52523856._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/52523856-hell-yeah-or-no
+    num_pages: '122'
+    publication_day: '31'
+    publication_month: '7'
+    publication_year: '2020'
+    ratings_count: '4315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594784873l/52523856._SX50_.jpg
+    title: 'Hell Yeah or No: What''s Worth Doing'
+    title_without_series: 'Hell Yeah or No: What''s Worth Doing'
+    uri: kca://book/amzn1.gr.book.v3.Bzg3FpB1IyWMM1M1
+    work:
+      id: '72681816'
+  - authors:
+      author:
+        id: '1791'
+        link: https://www.goodreads.com/author/show/1791.Seth_Godin
+        name: Seth Godin
+    average_rating: '4.22'
+    id: '213458886'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731088404l/213458886._SX98_.jpg
+    isbn: null
+    isbn13: '9798893310160'
+    link: https://www.goodreads.com/book/show/213458886-this-is-strategy
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731088404l/213458886._SX50_.jpg
+    title: 'This Is Strategy: Make Better Plans (Create a Strategy to Elevate Your
+      Career, Community & Life)'
+    title_without_series: 'This Is Strategy: Make Better Plans'
+    uri: kca://book/amzn1.gr.book.v3.1eWaDvaKMQ2Q9WOn
+    work:
+      id: '219702421'
+  - authors:
+      author:
+        id: '14343275'
+        link: https://www.goodreads.com/author/show/14343275.Scott_Galloway
+        name: Scott Galloway
+    average_rating: '4.22'
+    id: '150246211'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707248981l/150246211._SX98_.jpg
+    isbn: 0593714024
+    isbn13: '9780593714027'
+    link: https://www.goodreads.com/book/show/150246211-the-algebra-of-wealth
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707248981l/150246211._SX50_.jpg
+    title: 'The Algebra of Wealth: A Simple Formula for Financial Security'
+    title_without_series: 'The Algebra of Wealth: A Simple Formula for Financial Security'
+    uri: kca://book/amzn1.gr.book.v3.xU7KJ3OIBRT-TnWS
+    work:
+      id: '165126805'
+  - authors:
+      author:
+        id: '5201530'
+        link: https://www.goodreads.com/author/show/5201530.Charles_Duhigg
+        name: Charles Duhigg
+    average_rating: '4.22'
+    id: '157981748'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1702893819l/157981748._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/157981748-supercommunicators
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4315'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1702893819l/157981748._SY75_.jpg
+    title: 'Supercommunicators: How to Unlock the Secret Language of Connection'
+    title_without_series: 'Supercommunicators: How to Unlock the Secret Language of
+      Connection'
+    uri: kca://book/amzn1.gr.book.v3.eNLiws6OBguWEYsZ
+    work:
+      id: '171002463'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725859277l/63101004._SX50_.jpg
+started_at: '2023-06-30T00:00:00-07:00'
+text_reviews_count:
+  '#text': '65'
+  '@type': integer
+title: 'Excellent Advice for Living: Wisdom I Wish I''d Known Earlier'
+title_without_series: 'Excellent Advice for Living: Wisdom I Wish I''d Known Earlier'
+uri: kca://book/amzn1.gr.book.v3.5df6Lm6kXunTzERS
+url: https://www.goodreads.com/book/show/63101004-excellent-advice-for-living
+work:
+  id: '98113859'
+  uri: kca://work/amzn1.gr.work.v3.Z05pCHHBFNy6mr60

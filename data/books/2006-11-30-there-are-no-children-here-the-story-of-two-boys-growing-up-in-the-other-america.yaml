@@ -1,0 +1,751 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.24'
+    id: '23607'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1307477323p5/23607.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/23607.Alex_Kotlowitz
+    name: Alex Kotlowitz
+    ratings_count: '23942'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1307477323p2/23607.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '2133'
+average_rating: '4.30'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-30T00:00:00-08:00'
+description: This is the moving and powerful account of two remarkable boys struggling
+  to survive in Chicago's Henry Horner Homes, a public housing complex disfigured
+  by crime and neglect.
+edition_information: Underlining and Notation
+format: null
+id: '41918'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320394274l/41918._SX98_.jpg
+is_ebook: 'false'
+isbn: 0385265565
+isbn13: '9780385265560'
+json: '{"id": "41918", "isbn": "0385265565", "isbn13": "9780385265560", "text_reviews_count":
+  {"@type": "integer", "#text": "1060"}, "uri": "kca://book/amzn1.gr.book.v1.UsqTGRA02j7GvBB-PU3BCw",
+  "title": "There are No Children Here: The Story of Two Boys Growing Up in the Other
+  America", "title_without_series": "There are No Children Here: The Story of Two
+  Boys Growing Up in the Other America", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320394274l/41918._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320394274l/41918._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/41918.There_are_No_Children_Here",
+  "num_pages": "323", "format": null, "edition_information": "Underlining and Notation",
+  "publisher": "Anchor Books", "publication_day": null, "publication_year": null,
+  "publication_month": null, "average_rating": "4.30", "ratings_count": "15761", "description":
+  "This is the moving and powerful account of two remarkable boys struggling to survive
+  in Chicago''s Henry Horner Homes, a public housing complex disfigured by crime and
+  neglect.", "authors": {"author": {"id": "23607", "name": "Alex Kotlowitz", "role":
+  null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1307477323p5/23607.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1307477323p2/23607.jpg"},
+  "link": "https://www.goodreads.com/author/show/23607.Alex_Kotlowitz", "average_rating":
+  "4.24", "ratings_count": "23942", "text_reviews_count": "2133"}}, "published": null,
+  "work": {"id": "729410", "uri": "kca://work/amzn1.gr.work.v1.yTSROJxoFtaoqlR2Tk3Dzg"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417522",
+  "read_at": "Thu Nov 30 00:00:00 -0800 2006", "started_at": "", "date": "Thu Nov
+  30 00:00:00 -0800 2006"}'
+kindle_asin: B0056QYSKG
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/41918.There_are_No_Children_Here
+marketplace_id: ATVPDKIKX0DER
+num_pages: '323'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '17496'
+    '@name': to-read
+  - '@count': '615'
+    '@name': currently-reading
+  - '@count': '549'
+    '@name': non-fiction
+  - '@count': '349'
+    '@name': nonfiction
+  - '@count': '130'
+    '@name': favorites
+  - '@count': '119'
+    '@name': chicago
+  - '@count': '115'
+    '@name': sociology
+  - '@count': '79'
+    '@name': history
+  - '@count': '63'
+    '@name': education
+  - '@count': '60'
+    '@name': race
+  - '@count': '54'
+    '@name': biography
+  - '@count': '52'
+    '@name': poverty
+  - '@count': '50'
+    '@name': books-i-own
+  - '@count': '49'
+    '@name': owned
+  - '@count': '43'
+    '@name': social-justice
+  - '@count': '36'
+    '@name': politics
+  - '@count': '32'
+    '@name': audible
+  - '@count': '32'
+    '@name': school
+  - '@count': '28'
+    '@name': african-american
+  - '@count': '26'
+    '@name': audiobook
+  - '@count': '26'
+    '@name': book-club
+  - '@count': '22'
+    '@name': memoir
+  - '@count': '22'
+    '@name': social-issues
+  - '@count': '18'
+    '@name': audio
+  - '@count': '18'
+    '@name': library
+  - '@count': '15'
+    '@name': audiobooks
+  - '@count': '15'
+    '@name': journalism
+  - '@count': '14'
+    '@name': adult
+  - '@count': '13'
+    '@name': urban-studies
+  - '@count': '13'
+    '@name': for-school
+  - '@count': '13'
+    '@name': social-science
+  - '@count': '12'
+    '@name': biographies
+  - '@count': '12'
+    '@name': to-read-non-fiction
+  - '@count': '12'
+    '@name': crime
+  - '@count': '11'
+    '@name': owned-books
+  - '@count': '11'
+    '@name': social-sciences
+  - '@count': '11'
+    '@name': read-for-school
+  - '@count': '11'
+    '@name': my-library
+  - '@count': '11'
+    '@name': biography-memoir
+  - '@count': '10'
+    '@name': social-work
+  - '@count': '10'
+    '@name': economics
+  - '@count': '10'
+    '@name': to-buy
+  - '@count': '10'
+    '@name': cities
+  - '@count': '10'
+    '@name': memoirs
+  - '@count': '9'
+    '@name': america
+  - '@count': '9'
+    '@name': my-books
+  - '@count': '9'
+    '@name': family
+  - '@count': '9'
+    '@name': society
+  - '@count': '9'
+    '@name': default
+  - '@count': '9'
+    '@name': american
+  - '@count': '9'
+    '@name': memoir-biography
+  - '@count': '9'
+    '@name': american-history
+  - '@count': '9'
+    '@name': adult-nonfiction
+  - '@count': '9'
+    '@name': recommended
+  - '@count': '8'
+    '@name': audio-books
+  - '@count': '8'
+    '@name': racism
+  - '@count': '8'
+    '@name': current-events
+  - '@count': '8'
+    '@name': culture
+  - '@count': '8'
+    '@name': urban
+  - '@count': '8'
+    '@name': fiction
+  - '@count': '8'
+    '@name': historical
+  - '@count': '7'
+    '@name': physical-tbr
+  - '@count': '7'
+    '@name': dnf
+  - '@count': '7'
+    '@name': housing
+  - '@count': '7'
+    '@name': 20th-century
+  - '@count': '7'
+    '@name': psychology
+  - '@count': '7'
+    '@name': school-reads
+  - '@count': '7'
+    '@name': social-commentary
+  - '@count': '7'
+    '@name': own-it
+  - '@count': '7'
+    '@name': to-read-nonfiction
+  - '@count': '7'
+    '@name': non-fic
+  - '@count': '6'
+    '@name': hoopla
+  - '@count': '6'
+    '@name': on-my-shelf
+  - '@count': '6'
+    '@name': nonfic
+  - '@count': '6'
+    '@name': home-library
+  - '@count': '6'
+    '@name': nonfiction-to-read
+  - '@count': '6'
+    '@name': class
+  - '@count': '6'
+    '@name': bookshelf
+  - '@count': '6'
+    '@name': book-group
+  - '@count': '6'
+    '@name': academic
+  - '@count': '5'
+    '@name': classroom-library
+  - '@count': '5'
+    '@name': tbr
+  - '@count': '5'
+    '@name': black-lives-matter
+  - '@count': '5'
+    '@name': did-not-finish
+  - '@count': '5'
+    '@name': adult-non-fiction
+  - '@count': '5'
+    '@name': historical-fiction
+  - '@count': '5'
+    '@name': audio-book
+  - '@count': '5'
+    '@name': books-to-buy
+  - '@count': '5'
+    '@name': owned-unread
+  - '@count': '5'
+    '@name': didn-t-finish
+  - '@count': '5'
+    '@name': social
+  - '@count': '5'
+    '@name': all-time-favorites
+  - '@count': '5'
+    '@name': cultural-studies
+  - '@count': '5'
+    '@name': united-states
+  - '@count': '5'
+    '@name': high-school
+  - '@count': '5'
+    '@name': re-read
+  - '@count': '4'
+    '@name': read-2022
+  - '@count': '4'
+    '@name': physical-books
+  - '@count': '4'
+    '@name': 5-stars
+  - '@count': '4'
+    '@name': non-fiction-tbr
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: Anchor Books
+ratings_count: '15761'
+read_at: '2006-11-30T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417522
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/41918.There_are_No_Children_Here\"\
+  >There are No Children Here Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0385265565&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/41918.There_are_No_Children_Here?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '6313954'
+        link: https://www.goodreads.com/author/show/6313954.Ben_Austen
+        name: Ben Austen
+    average_rating: '4.30'
+    id: '35068382'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509464174l/35068382._SX98_.jpg
+    isbn: 0062235087
+    isbn13: '9780062235084'
+    link: https://www.goodreads.com/book/show/35068382-high-risers
+    num_pages: '393'
+    publication_day: '13'
+    publication_month: '2'
+    publication_year: '2018'
+    ratings_count: '15761'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509464174l/35068382._SY75_.jpg
+    title: 'High-Risers: Cabrini-Green and the Fate of American Public Housing'
+    title_without_series: 'High-Risers: Cabrini-Green and the Fate of American Public
+      Housing'
+    uri: kca://book/amzn1.gr.book.v1.tEPAj2JX5n05nsnvbGHJ_A
+    work:
+      id: '56363830'
+  - authors:
+      author:
+        id: '13929'
+        link: https://www.goodreads.com/author/show/13929.Adrian_Nicole_LeBlanc
+        name: Adrian Nicole LeBlanc
+    average_rating: '4.30'
+    id: '385255'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0743254430'
+    isbn13: '9780743254434'
+    link: https://www.goodreads.com/book/show/385255.Random_Family
+    num_pages: '409'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15761'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Random Family: Love, Drugs, Trouble, and Coming of Age in the Bronx'
+    title_without_series: 'Random Family: Love, Drugs, Trouble, and Coming of Age
+      in the Bronx'
+    uri: kca://book/amzn1.gr.book.v1.F5FSwtToe-XIhvcqFBo8hA
+    work:
+      id: '909535'
+  - authors:
+      author:
+        id: '14084'
+        link: https://www.goodreads.com/author/show/14084.Jonathan_Kozol
+        name: Jonathan Kozol
+    average_rating: '4.30'
+    id: '25078'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0060974990
+    isbn13: '9780060974992'
+    link: https://www.goodreads.com/book/show/25078.Savage_Inequalities
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15761'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Savage Inequalities: Children in America''s Schools'
+    title_without_series: 'Savage Inequalities: Children in America''s Schools'
+    uri: kca://book/amzn1.gr.book.v1.4WXXRE8WBU8YzCk-N_bH9A
+    work:
+      id: '25833'
+  - authors:
+      author:
+        id: '4315245'
+        link: https://www.goodreads.com/author/show/4315245.Sudhir_Venkatesh
+        name: Sudhir Venkatesh
+    average_rating: '4.30'
+    id: '1491906'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1594201501'
+    isbn13: '9781594201509'
+    link: https://www.goodreads.com/book/show/1491906.Gang_Leader_for_a_Day
+    num_pages: '302'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15761'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Gang Leader for a Day: A Rogue Sociologist Takes to the Streets'
+    title_without_series: 'Gang Leader for a Day: A Rogue Sociologist Takes to the
+      Streets'
+    uri: kca://book/amzn1.gr.book.v1.zdns9VRuwwKTJLC9EzWV8A
+    work:
+      id: '1483174'
+  - authors:
+      author:
+        id: '178234'
+        link: https://www.goodreads.com/author/show/178234.Ron_Franscell
+        name: Ron Franscell
+    average_rating: '4.30'
+    id: '43546273'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547310021l/43546273._SX98_.jpg
+    isbn: '1633885127'
+    isbn13: '9781633885127'
+    link: https://www.goodreads.com/book/show/43546273-alice-gerald
+    num_pages: '336'
+    publication_day: '9'
+    publication_month: '4'
+    publication_year: '2019'
+    ratings_count: '15761'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547310021l/43546273._SY75_.jpg
+    title: 'Alice & Gerald: A Homicidal Love Story'
+    title_without_series: 'Alice & Gerald: A Homicidal Love Story'
+    uri: kca://book/amzn1.gr.book.v1.4QDsi9w3YxEr1NFzRbf2rA
+    work:
+      id: '65498876'
+  - authors:
+      author:
+        id: '7925258'
+        link: https://www.goodreads.com/author/show/7925258.Andrea_Elliott
+        name: Andrea Elliott
+    average_rating: '4.30'
+    id: '57359691'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629820319l/57359691._SX98_.jpg
+    isbn: 0812986946
+    isbn13: '9780812986945'
+    link: https://www.goodreads.com/book/show/57359691-invisible-child
+    num_pages: '602'
+    publication_day: '5'
+    publication_month: '10'
+    publication_year: '2021'
+    ratings_count: '15761'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629820319l/57359691._SY75_.jpg
+    title: 'Invisible Child: Poverty, Survival & Hope in an American City'
+    title_without_series: 'Invisible Child: Poverty, Survival & Hope in an American
+      City'
+    uri: kca://book/amzn1.gr.book.v3.HCuiTEPsvhcdIY0F
+    work:
+      id: '89773713'
+  - authors:
+      author:
+        id: '149706'
+        link: https://www.goodreads.com/author/show/149706.Natalie_Y_Moore
+        name: Natalie Y. Moore
+    average_rating: '4.30'
+    id: '25663734'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457289566l/25663734._SX98_.jpg
+    isbn: '1137280158'
+    isbn13: '9781137280152'
+    link: https://www.goodreads.com/book/show/25663734-the-south-side
+    num_pages: '258'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15761'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457289566l/25663734._SY75_.jpg
+    title: 'The South Side: A Portrait of Chicago and American Segregation'
+    title_without_series: 'The South Side: A Portrait of Chicago and American Segregation'
+    uri: kca://book/amzn1.gr.book.v1.UZ6DeJZ7P8audtqRETGhjw
+    work:
+      id: '45486687'
+  - authors:
+      author:
+        id: '146982'
+        link: https://www.goodreads.com/author/show/146982.Clifford_R_Shaw
+        name: Clifford R. Shaw
+    average_rating: '4.30'
+    id: '251533'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0226751260'
+    isbn13: '9780226751269'
+    link: https://www.goodreads.com/book/show/251533.The_Jack_Roller
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15761'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Jack-Roller: A Delinquent Boy''s Own Story (Phoenix Books)'
+    title_without_series: 'The Jack-Roller: A Delinquent Boy''s Own Story'
+    uri: kca://book/amzn1.gr.book.v1.uQ4qn9MZnCyurSRbrHqFuQ
+    work:
+      id: '243742'
+  - authors:
+      author:
+        id: '20392505'
+        link: https://www.goodreads.com/author/show/20392505.Reuben_Jonathan_Miller
+        name: Reuben Jonathan Miller
+    average_rating: '4.30'
+    id: '53915329'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608625330l/53915329._SX98_.jpg
+    isbn: '0316451517'
+    isbn13: '9780316451512'
+    link: https://www.goodreads.com/book/show/53915329-halfway-home
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15761'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608625330l/53915329._SY75_.jpg
+    title: 'Halfway Home: Race, Punishment, and the Afterlife of Mass Incarceration'
+    title_without_series: 'Halfway Home: Race, Punishment, and the Afterlife of Mass
+      Incarceration'
+    uri: kca://book/amzn1.gr.book.v3.BmHFhBpPPmObRqji
+    work:
+      id: '84271396'
+  - authors:
+      author:
+        id: '40269221'
+        link: https://www.goodreads.com/author/show/40269221.Gregory_Royal_Pratt
+        name: Gregory Royal Pratt
+    average_rating: '4.30'
+    id: '178811023'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687015496l/178811023._SX98_.jpg
+    isbn: '1641605995'
+    isbn13: '9781641605991'
+    link: https://www.goodreads.com/book/show/178811023-the-city-is-up-for-grabs
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15761'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687015496l/178811023._SX50_.jpg
+    title: 'The City Is Up for Grabs: How Chicago Mayor Lori Lightfoot Led and Lost
+      a City in Crisis'
+    title_without_series: 'The City Is Up for Grabs: How Chicago Mayor Lori Lightfoot
+      Led and Lost a City in Crisis'
+    uri: kca://book/amzn1.gr.book.v3.T7ztZfPtsiZR-lFi
+    work:
+      id: '184263374'
+  - authors:
+      author:
+        id: '22081097'
+        link: https://www.goodreads.com/author/show/22081097.Kailee_Coleman
+        name: Kailee Coleman
+    average_rating: '4.30'
+    id: '214358367'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717738186l/214358367._SX98_.jpg
+    isbn: null
+    isbn13: '9798988271109'
+    link: https://www.goodreads.com/book/show/214358367-our-bodies
+    num_pages: '32'
+    publication_day: '21'
+    publication_month: '6'
+    publication_year: '2023'
+    ratings_count: '15761'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717738186l/214358367._SX50_.jpg
+    title: Our Bodies
+    title_without_series: Our Bodies
+    uri: kca://book/amzn1.gr.book.v3.7GNl8OGARodgKesD
+    work:
+      id: '220628835'
+  - authors:
+      author:
+        id: '6753670'
+        link: https://www.goodreads.com/author/show/6753670.Keeanga_Yamahtta_Taylor
+        name: Keeanga-Yamahtta Taylor
+    average_rating: '4.30'
+    id: '44601366'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569898632l/44601366._SX98_.jpg
+    isbn: '1469653664'
+    isbn13: '9781469653662'
+    link: https://www.goodreads.com/book/show/44601366-race-for-profit
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15761'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569898632l/44601366._SY75_.jpg
+    title: 'Race for Profit: How Banks and the Real Estate Industry Undermined Black
+      Homeownership (Justice, Power, and Politics)'
+    title_without_series: 'Race for Profit: How Banks and the Real Estate Industry
+      Undermined Black Homeownership'
+    uri: kca://book/amzn1.gr.book.v1.DDl0yoN7930G83GlZM9OSw
+    work:
+      id: '69235916'
+  - authors:
+      author:
+        id: '915500'
+        link: https://www.goodreads.com/author/show/915500.Matthew_Desmond
+        name: Matthew Desmond
+    average_rating: '4.30'
+    id: '61358638'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665696294l/61358638._SX98_.jpg
+    isbn: 0593239911
+    isbn13: '9780593239919'
+    link: https://www.goodreads.com/book/show/61358638-poverty-by-america
+    num_pages: '304'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15761'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665696294l/61358638._SY75_.jpg
+    title: Poverty, by America
+    title_without_series: Poverty, by America
+    uri: kca://book/amzn1.gr.book.v3.urHgDMTdZI5O-krk
+    work:
+      id: '96720702'
+  - authors:
+      author:
+        id: '2611'
+        link: https://www.goodreads.com/author/show/2611.Eric_Klinenberg
+        name: Eric Klinenberg
+    average_rating: '4.30'
+    id: '3850'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0226443221'
+    isbn13: '9780226443225'
+    link: https://www.goodreads.com/book/show/3850.Heat_Wave
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15761'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Heat Wave: A Social Autopsy of Disaster in Chicago'
+    title_without_series: 'Heat Wave: A Social Autopsy of Disaster in Chicago'
+    uri: kca://book/amzn1.gr.book.v1.CeyNCtnMhT8blrEMZTKCcg
+    work:
+      id: '7582'
+  - authors:
+      author:
+        id: '14084'
+        link: https://www.goodreads.com/author/show/14084.Jonathan_Kozol
+        name: Jonathan Kozol
+    average_rating: '4.30'
+    id: '51537'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0060976977
+    isbn13: '9780060976972'
+    link: https://www.goodreads.com/book/show/51537.Amazing_Grace
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15761'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Amazing Grace: The Lives of Children and the Conscience of a Nation'
+    title_without_series: 'Amazing Grace: The Lives of Children and the Conscience
+      of a Nation'
+    uri: kca://book/amzn1.gr.book.v1.GTb9ZmrO8JYr91WwpWI_Zw
+    work:
+      id: '1862708'
+  - authors:
+      author:
+        id: '19298369'
+        link: https://www.goodreads.com/author/show/19298369.Graham_Rayman
+        name: Graham Rayman
+    average_rating: '4.30'
+    id: '60880788'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663714083l/60880788._SX98_.jpg
+    isbn: 0593134214
+    isbn13: '9780593134214'
+    link: https://www.goodreads.com/book/show/60880788-rikers
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15761'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663714083l/60880788._SY75_.jpg
+    title: 'Rikers: An Oral History'
+    title_without_series: 'Rikers: An Oral History'
+    uri: kca://book/amzn1.gr.book.v3.aL7E2W4chciJJj06
+    work:
+      id: '96019347'
+  - authors:
+      author:
+        id: '170297'
+        link: https://www.goodreads.com/author/show/170297.Robert_Wuthnow
+        name: Robert Wuthnow
+    average_rating: '4.30'
+    id: '36854825'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513756575l/36854825._SX98_.jpg
+    isbn: 069117766X
+    isbn13: '9780691177663'
+    link: https://www.goodreads.com/book/show/36854825-the-left-behind
+    num_pages: '200'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15761'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513756575l/36854825._SY75_.jpg
+    title: 'The Left Behind: Decline and Rage in Rural America'
+    title_without_series: 'The Left Behind: Decline and Rage in Rural America'
+    uri: kca://book/amzn1.gr.book.v1.EX0sNT-AOwBuNMUeIP1xJA
+    work:
+      id: '58623360'
+  - authors:
+      author:
+        id: '14084'
+        link: https://www.goodreads.com/author/show/14084.Jonathan_Kozol
+        name: Jonathan Kozol
+    average_rating: '4.30'
+    id: '51536'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1400052459'
+    isbn13: '9781400052455'
+    link: https://www.goodreads.com/book/show/51536.The_Shame_of_the_Nation
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '15761'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Shame of the Nation
+    title_without_series: The Shame of the Nation
+    uri: kca://book/amzn1.gr.book.v1.z14u9Gv2EFpc6mbagxBcaQ
+    work:
+      id: '1500228'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320394274l/41918._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '1060'
+  '@type': integer
+title: 'There are No Children Here: The Story of Two Boys Growing Up in the Other
+  America'
+title_without_series: 'There are No Children Here: The Story of Two Boys Growing Up
+  in the Other America'
+uri: kca://book/amzn1.gr.book.v1.UsqTGRA02j7GvBB-PU3BCw
+url: https://www.goodreads.com/book/show/41918.There_are_No_Children_Here
+work:
+  id: '729410'
+  uri: kca://work/amzn1.gr.work.v1.yTSROJxoFtaoqlR2Tk3Dzg

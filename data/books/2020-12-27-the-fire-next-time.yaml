@@ -1,0 +1,758 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.34'
+    id: '10427'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1343346341p5/10427.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/10427.James_Baldwin
+    name: James Baldwin
+    ratings_count: '580661'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1343346341p2/10427.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '62482'
+average_rating: '4.55'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2020-12-27T00:00:00-08:00'
+description: <i>An alternate cover edition can be found <a href="" rel="nofollow noopener">here</a>.</i><br
+  /><br />A national bestseller when it first appeared in 1963, <b>The Fire Next Time</b>
+  galvanized the nation and gave passionate voice to the emerging civil rights movement.
+  At once a powerful evocation of James Baldwin's early life in Harlem and a disturbing
+  examination of the consequences of racial injustice, the book is an intensely personal
+  and provocative document. It consists of two "letters," written on the occasion
+  of the centennial of the Emancipation Proclamation, that exhort Americans, both
+  black and white, to attack the terrible legacy of racism. Described by The New York
+  Times Book Review as "sermon, ultimatum, confession, deposition, testament, and
+  chronicle...all presented in searing, brilliant prose," The Fire Next Time stands
+  as a classic of our literature.
+edition_information: Reissue
+format: null
+id: '19073499'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562890156l/19073499._SX98_.jpg
+is_ebook: 'true'
+isbn: 0804149720
+isbn13: '9780804149723'
+json: '{"id": "19073499", "isbn": "0804149720", "isbn13": "9780804149723", "text_reviews_count":
+  {"@type": "integer", "#text": "482"}, "uri": "kca://book/amzn1.gr.book.v1.53rFlPrQ-yF34WcLGXeW1Q",
+  "title": "The Fire Next Time", "title_without_series": "The Fire Next Time", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562890156l/19073499._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562890156l/19073499._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/19073499-the-fire-next-time",
+  "num_pages": null, "format": null, "edition_information": "Reissue", "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "4.55", "ratings_count": "110264", "description": "<i>An alternate
+  cover edition can be found <a href=\"\" rel=\"nofollow noopener\">here</a>.</i><br
+  /><br />A national bestseller when it first appeared in 1963, <b>The Fire Next Time</b>
+  galvanized the nation and gave passionate voice to the emerging civil rights movement.
+  At once a powerful evocation of James Baldwin''s early life in Harlem and a disturbing
+  examination of the consequences of racial injustice, the book is an intensely personal
+  and provocative document. It consists of two \"letters,\" written on the occasion
+  of the centennial of the Emancipation Proclamation, that exhort Americans, both
+  black and white, to attack the terrible legacy of racism. Described by The New York
+  Times Book Review as \"sermon, ultimatum, confession, deposition, testament, and
+  chronicle...all presented in searing, brilliant prose,\" The Fire Next Time stands
+  as a classic of our literature.", "authors": {"author": {"id": "10427", "name":
+  "James Baldwin", "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1343346341p5/10427.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1343346341p2/10427.jpg"},
+  "link": "https://www.goodreads.com/author/show/10427.James_Baldwin", "average_rating":
+  "4.34", "ratings_count": "580661", "text_reviews_count": "62482"}}, "published":
+  null, "work": {"id": "1129041", "uri": "kca://work/amzn1.gr.work.v1.jO8KT538yx8ipmRCDHmhKQ"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/3503684319",
+  "read_at": "Sun Dec 27 00:00:00 -0800 2020", "started_at": "Tue Aug 18 00:00:00
+  -0700 2020", "date": "Sun Dec 27 00:00:00 -0800 2020"}'
+kindle_asin: B00EGMV00W
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/19073499-the-fire-next-time
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '162726'
+    '@name': to-read
+  - '@count': '6626'
+    '@name': currently-reading
+  - '@count': '3618'
+    '@name': non-fiction
+  - '@count': '2228'
+    '@name': nonfiction
+  - '@count': '1516'
+    '@name': favorites
+  - '@count': '1459'
+    '@name': classics
+  - '@count': '1367'
+    '@name': essays
+  - '@count': '1147'
+    '@name': race
+  - '@count': '878'
+    '@name': history
+  - '@count': '686'
+    '@name': politics
+  - '@count': '514'
+    '@name': memoir
+  - '@count': '490'
+    '@name': social-justice
+  - '@count': '409'
+    '@name': audiobook
+  - '@count': '403'
+    '@name': owned
+  - '@count': '391'
+    '@name': audiobooks
+  - '@count': '352'
+    '@name': african-american
+  - '@count': '309'
+    '@name': anti-racism
+  - '@count': '252'
+    '@name': fiction
+  - '@count': '242'
+    '@name': books-i-own
+  - '@count': '222'
+    '@name': black-authors
+  - '@count': '217'
+    '@name': biography
+  - '@count': '214'
+    '@name': library
+  - '@count': '206'
+    '@name': blm
+  - '@count': '204'
+    '@name': racism
+  - '@count': '189'
+    '@name': audio
+  - '@count': '163'
+    '@name': philosophy
+  - '@count': '156'
+    '@name': book-club
+  - '@count': '147'
+    '@name': to-buy
+  - '@count': '143'
+    '@name': essay
+  - '@count': '143'
+    '@name': american
+  - '@count': '126'
+    '@name': sociology
+  - '@count': '126'
+    '@name': memoirs
+  - '@count': '121'
+    '@name': 20th-century
+  - '@count': '117'
+    '@name': black-lives-matter
+  - '@count': '116'
+    '@name': political
+  - '@count': '116'
+    '@name': religion
+  - '@count': '111'
+    '@name': literature
+  - '@count': '110'
+    '@name': read-in-2020
+  - '@count': '110'
+    '@name': favourites
+  - '@count': '110'
+    '@name': civil-rights
+  - '@count': '104'
+    '@name': antiracism
+  - '@count': '104'
+    '@name': historical
+  - '@count': '101'
+    '@name': anti-racist
+  - '@count': '101'
+    '@name': american-history
+  - '@count': '100'
+    '@name': black-history
+  - '@count': '100'
+    '@name': usa
+  - '@count': '97'
+    '@name': kindle
+  - '@count': '96'
+    '@name': racial-justice
+  - '@count': '94'
+    '@name': black
+  - '@count': '94'
+    '@name': american-literature
+  - '@count': '85'
+    '@name': school
+  - '@count': '84'
+    '@name': nonfic
+  - '@count': '82'
+    '@name': bipoc
+  - '@count': '82'
+    '@name': ebook
+  - '@count': '82'
+    '@name': poc
+  - '@count': '80'
+    '@name': non-fic
+  - '@count': '78'
+    '@name': adult
+  - '@count': '77'
+    '@name': 5-stars
+  - '@count': '77'
+    '@name': james-baldwin
+  - '@count': '75'
+    '@name': queer
+  - '@count': '75'
+    '@name': biography-memoir
+  - '@count': '75'
+    '@name': audible
+  - '@count': '74'
+    '@name': physical-tbr
+  - '@count': '74'
+    '@name': social-issues
+  - '@count': '73'
+    '@name': audio-books
+  - '@count': '71'
+    '@name': read-2020
+  - '@count': '71'
+    '@name': my-library
+  - '@count': '70'
+    '@name': authors-of-color
+  - '@count': '67'
+    '@name': tbr
+  - '@count': '66'
+    '@name': read-in-2021
+  - '@count': '66'
+    '@name': lgbtq
+  - '@count': '66'
+    '@name': owned-books
+  - '@count': '65'
+    '@name': race-relations
+  - '@count': '62'
+    '@name': 2020-reads
+  - '@count': '62'
+    '@name': autobiography
+  - '@count': '61'
+    '@name': bipoc-authors
+  - '@count': '59'
+    '@name': black-lit
+  - '@count': '59'
+    '@name': african-american-literature
+  - '@count': '58'
+    '@name': 2021-reads
+  - '@count': '58'
+    '@name': 1960s
+  - '@count': '57'
+    '@name': bookshelf
+  - '@count': '57'
+    '@name': wish-list
+  - '@count': '57'
+    '@name': memoir-biography
+  - '@count': '56'
+    '@name': education
+  - '@count': '55'
+    '@name': want-to-buy
+  - '@count': '55'
+    '@name': audio-book
+  - '@count': '55'
+    '@name': activism
+  - '@count': '55'
+    '@name': short
+  - '@count': '55'
+    '@name': culture
+  - '@count': '54'
+    '@name': african-american-lit
+  - '@count': '53'
+    '@name': libby
+  - '@count': '51'
+    '@name': american-lit
+  - '@count': '50'
+    '@name': 2020-books
+  - '@count': '50'
+    '@name': black-literature
+  - '@count': '50'
+    '@name': to-read-non-fiction
+  - '@count': '49'
+    '@name': english
+  - '@count': '49'
+    '@name': modern-classics
+  - '@count': '49'
+    '@name': society
+  - '@count': '48'
+    '@name': ebooks
+  - '@count': '47'
+    '@name': read-in-2024
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '110264'
+read_at: '2020-12-27T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/3503684319
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/19073499-the-fire-next-time\"\
+  >The Fire Next Time Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0804149720&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/19073499-the-fire-next-time?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '1214964'
+        link: https://www.goodreads.com/author/show/1214964.Ta_Nehisi_Coates
+        name: Ta-Nehisi Coates
+    average_rating: '4.55'
+    id: '25489625'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451435027l/25489625._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/25489625-between-the-world-and-me
+    num_pages: '152'
+    publication_day: '14'
+    publication_month: '7'
+    publication_year: '2015'
+    ratings_count: '110264'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451435027l/25489625._SY75_.jpg
+    title: Between the World and Me
+    title_without_series: Between the World and Me
+    uri: kca://book/amzn1.gr.book.v1.pJoOfvwjyVRklvxPcmHPjA
+    work:
+      id: '44848425'
+  - authors:
+      author:
+        id: '1214964'
+        link: https://www.goodreads.com/author/show/1214964.Ta_Nehisi_Coates
+        name: Ta-Nehisi Coates
+    average_rating: '4.55'
+    id: '210943364'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717094243l/210943364._SX98_.jpg
+    isbn: 0593230388
+    isbn13: '9780593230381'
+    link: https://www.goodreads.com/book/show/210943364-the-message
+    num_pages: '232'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '110264'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717094243l/210943364._SY75_.jpg
+    title: The Message
+    title_without_series: The Message
+    uri: kca://book/amzn1.gr.book.v3.VLNFu27zbzM9F90K
+    work:
+      id: '217169629'
+  - authors:
+      author:
+        id: '5863103'
+        link: https://www.goodreads.com/author/show/5863103.Angela_Y_Davis
+        name: Angela Y. Davis
+    average_rating: '4.55'
+    id: '25330108'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447140494l/25330108._SX98_.jpg
+    isbn: '1608465640'
+    isbn13: '9781608465644'
+    link: https://www.goodreads.com/book/show/25330108-freedom-is-a-constant-struggle
+    num_pages: '158'
+    publication_day: '25'
+    publication_month: '1'
+    publication_year: '2016'
+    ratings_count: '110264'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447140494l/25330108._SY75_.jpg
+    title: 'Freedom is a Constant Struggle: Ferguson, Palestine and the Foundations
+      of a Movement'
+    title_without_series: 'Freedom is a Constant Struggle: Ferguson, Palestine and
+      the Foundations of a Movement'
+    uri: kca://book/amzn1.gr.book.v1.pyXJ4_FrIIuiKdlx1z-B5w
+    work:
+      id: '45065373'
+  - authors:
+      author:
+        id: '17435'
+        link: https://www.goodreads.com/author/show/17435.Malcolm_X
+        name: Malcolm X
+    average_rating: '4.55'
+    id: '92057'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434682864l/92057._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/92057.The_Autobiography_of_Malcolm_X
+    num_pages: '466'
+    publication_day: null
+    publication_month: null
+    publication_year: '2015'
+    ratings_count: '110264'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434682864l/92057._SY75_.jpg
+    title: The Autobiography of Malcolm X
+    title_without_series: The Autobiography of Malcolm X
+    uri: kca://book/amzn1.gr.book.v1.o14_RgkVm9ntdpNAMHL2Jg
+    work:
+      id: '47400'
+  - authors:
+      author:
+        id: '3051490'
+        link: https://www.goodreads.com/author/show/3051490.Michelle_Alexander
+        name: Michelle Alexander
+    average_rating: '4.55'
+    id: '6792458'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328751532l/6792458._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/6792458-the-new-jim-crow
+    num_pages: '290'
+    publication_day: '5'
+    publication_month: '1'
+    publication_year: '2010'
+    ratings_count: '110264'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328751532l/6792458._SX50_.jpg
+    title: 'The New Jim Crow: Mass Incarceration in the Age of Colorblindness'
+    title_without_series: 'The New Jim Crow: Mass Incarceration in the Age of Colorblindness'
+    uri: kca://book/amzn1.gr.book.v1.NXGnWD9jeW7GZ3O7JD29-w
+    work:
+      id: '6996712'
+  - authors:
+      author:
+        id: '10710'
+        link: https://www.goodreads.com/author/show/10710.W_E_B_Du_Bois
+        name: W.E.B. Du Bois
+    average_rating: '4.55'
+    id: '318742'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309202855l/318742._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/318742.The_Souls_of_Black_Folk
+    num_pages: '288'
+    publication_day: '26'
+    publication_month: '9'
+    publication_year: '1996'
+    ratings_count: '110264'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309202855l/318742._SY75_.jpg
+    title: The Souls of Black Folk
+    title_without_series: The Souls of Black Folk
+    uri: kca://book/amzn1.gr.book.v1.sZEcHw0XPt-y_q0RnR-caw
+    work:
+      id: '1137159'
+  - authors:
+      author:
+        id: '18486'
+        link: https://www.goodreads.com/author/show/18486.Audre_Lorde
+        name: Audre Lorde
+    average_rating: '4.55'
+    id: '32951'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0895941414
+    isbn13: '9780895941411'
+    link: https://www.goodreads.com/book/show/32951.Sister_Outsider
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '110264'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Sister Outsider: Essays and Speeches'
+    title_without_series: 'Sister Outsider: Essays and Speeches'
+    uri: kca://book/amzn1.gr.book.v1.qyL7hHs0w5CtQQ0odvSzsA
+    work:
+      id: '716939'
+  - authors:
+      author:
+        id: '1676417'
+        link: https://www.goodreads.com/author/show/1676417.Jesmyn_Ward
+        name: Jesmyn Ward
+    average_rating: '4.55'
+    id: '28505023'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469969005l/28505023._SX98_.jpg
+    isbn: '1501126342'
+    isbn13: '9781501126345'
+    link: https://www.goodreads.com/book/show/28505023-the-fire-this-time
+    num_pages: '226'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '110264'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469969005l/28505023._SY75_.jpg
+    title: 'The Fire This Time: A New Generation Speaks About Race'
+    title_without_series: 'The Fire This Time: A New Generation Speaks About Race'
+    uri: kca://book/amzn1.gr.book.v1.hrLvCw0TM8THUwTtJeGOSQ
+    work:
+      id: '48658541'
+  - authors:
+      author:
+        id: '5863103'
+        link: https://www.goodreads.com/author/show/5863103.Angela_Y_Davis
+        name: Angela Y. Davis
+    average_rating: '4.55'
+    id: '108428'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320521835l/108428._SX98_.jpg
+    isbn: '1583225811'
+    isbn13: '9781583225813'
+    link: https://www.goodreads.com/book/show/108428.Are_Prisons_Obsolete_
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '110264'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320521835l/108428._SX50_.jpg
+    title: Are Prisons Obsolete?
+    title_without_series: Are Prisons Obsolete?
+    uri: kca://book/amzn1.gr.book.v1.sjoaHol5W3BaiwobL4cDKA
+    work:
+      id: '104488'
+  - authors:
+      author:
+        id: '3534'
+        link: https://www.goodreads.com/author/show/3534.Toni_Morrison
+        name: Toni Morrison
+    average_rating: '4.55'
+    id: '11337'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/11337.The_Bluest_Eye
+    num_pages: '216'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '110264'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Bluest Eye
+    title_without_series: The Bluest Eye
+    uri: kca://book/amzn1.gr.book.v1.9pRje-51oJqvn-76td5T5Q
+    work:
+      id: '1987778'
+  - authors:
+      author:
+        id: '1214964'
+        link: https://www.goodreads.com/author/show/1214964.Ta_Nehisi_Coates
+        name: Ta-Nehisi Coates
+    average_rating: '4.55'
+    id: '33916061'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507903203l/33916061._SX98_.jpg
+    isbn: 0399590560
+    isbn13: '9780399590566'
+    link: https://www.goodreads.com/book/show/33916061-we-were-eight-years-in-power
+    num_pages: '367'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '110264'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507903203l/33916061._SY75_.jpg
+    title: 'We Were Eight Years in Power: An American Tragedy'
+    title_without_series: 'We Were Eight Years in Power: An American Tragedy'
+    uri: kca://book/amzn1.gr.book.v1.4uHUru4ohV0XD-DV-mreUg
+    work:
+      id: '54881780'
+  - authors:
+      author:
+        id: '3534'
+        link: https://www.goodreads.com/author/show/3534.Toni_Morrison
+        name: Toni Morrison
+    average_rating: '4.55'
+    id: '11346'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0452283868
+    isbn13: '9780452283862'
+    link: https://www.goodreads.com/book/show/11346.Sula
+    num_pages: '174'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '110264'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Sula
+    title_without_series: Sula
+    uri: kca://book/amzn1.gr.book.v1.T0t-PJl83V9WpTG4OsGztA
+    work:
+      id: '3207953'
+  - authors:
+      author:
+        id: '10697'
+        link: https://www.goodreads.com/author/show/10697.bell_hooks
+        name: bell hooks
+    average_rating: '4.55'
+    id: '17607'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0688168442
+    isbn13: '9780688168445'
+    link: https://www.goodreads.com/book/show/17607.All_About_Love
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '110264'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'All About Love: New Visions'
+    title_without_series: 'All About Love: New Visions'
+    uri: kca://book/amzn1.gr.book.v1.NbWbcDcjtpZbIhyYibnpiQ
+    work:
+      id: '270045'
+  - authors:
+      author:
+        id: '57925'
+        link: https://www.goodreads.com/author/show/57925.Assata_Shakur
+        name: Assata Shakur
+    average_rating: '4.55'
+    id: '100322'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328857268l/100322._SX98_.jpg
+    isbn: '1556520743'
+    isbn13: '9781556520747'
+    link: https://www.goodreads.com/book/show/100322.Assata
+    num_pages: '274'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '110264'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328857268l/100322._SX50_.jpg
+    title: 'Assata: An Autobiography'
+    title_without_series: 'Assata: An Autobiography'
+    uri: kca://book/amzn1.gr.book.v1.0249EmGdVRH61z7eTJ2SWg
+    work:
+      id: '943760'
+  - authors:
+      author:
+        id: '3339285'
+        link: https://www.goodreads.com/author/show/3339285.Adania_Shibli
+        name: Adania Shibli
+    average_rating: '4.55'
+    id: '52045757'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 191309717X
+    isbn13: '9781913097172'
+    link: https://www.goodreads.com/book/show/52045757-minor-detail
+    num_pages: '144'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '110264'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Minor Detail
+    title_without_series: Minor Detail
+    uri: kca://book/amzn1.gr.book.v3.eMq7H0YbgVM6UAWw
+    work:
+      id: '72313584'
+  - authors:
+      author:
+        id: '40811'
+        link: https://www.goodreads.com/author/show/40811.Rashid_Khalidi
+        name: Rashid Khalidi
+    average_rating: '4.55'
+    id: '41812831'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556345491l/41812831._SX98_.jpg
+    isbn: '1627798552'
+    isbn13: '9781627798556'
+    link: https://www.goodreads.com/book/show/41812831-the-hundred-years-war-on-palestine
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '110264'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556345491l/41812831._SY75_.jpg
+    title: "The Hundred Years\u2019 War on Palestine: A History of Settler-Colonial\
+      \ Conquest and Resistance, 1917\u20132017"
+    title_without_series: "The Hundred Years\u2019 War on Palestine: A History of\
+      \ Settler-Colonial Conquest and Resistance, 1917\u20132017"
+    uri: kca://book/amzn1.gr.book.v1.pq_fTKxYaRWcB97B1dXYHw
+    work:
+      id: '65247140'
+  - authors:
+      author:
+        id: '16218218'
+        link: https://www.goodreads.com/author/show/16218218.Isabella_Hammad
+        name: Isabella Hammad
+    average_rating: '4.55'
+    id: '208580653'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715896547l/208580653._SX98_.jpg
+    isbn: 0802163920
+    isbn13: '9780802163929'
+    link: https://www.goodreads.com/book/show/208580653-recognizing-the-stranger
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '110264'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715896547l/208580653._SX50_.jpg
+    title: 'Recognizing the Stranger: On Palestine and Narrative'
+    title_without_series: 'Recognizing the Stranger: On Palestine and Narrative'
+    uri: kca://book/amzn1.gr.book.v3.rXRUzqR3gz3kP-GZ
+    work:
+      id: '214704168'
+  - authors:
+      author:
+        id: '3534'
+        link: https://www.goodreads.com/author/show/3534.Toni_Morrison
+        name: Toni Morrison
+    average_rating: '4.55'
+    id: '6149'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722944318l/6149._SX98_.jpg
+    isbn: null
+    isbn13: '9781400033416'
+    link: https://www.goodreads.com/book/show/6149.Beloved
+    num_pages: '325'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '110264'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722944318l/6149._SY75_.jpg
+    title: 'Beloved (Beloved Trilogy, #1)'
+    title_without_series: Beloved
+    uri: kca://book/amzn1.gr.book.v1.M99JF4nXdknWCuw9AO0mQA
+    work:
+      id: '736076'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562890156l/19073499._SY75_.jpg
+started_at: '2020-08-18T00:00:00-07:00'
+text_reviews_count:
+  '#text': '482'
+  '@type': integer
+title: The Fire Next Time
+title_without_series: The Fire Next Time
+uri: kca://book/amzn1.gr.book.v1.53rFlPrQ-yF34WcLGXeW1Q
+url: https://www.goodreads.com/book/show/19073499-the-fire-next-time
+work:
+  id: '1129041'
+  uri: kca://work/amzn1.gr.work.v1.jO8KT538yx8ipmRCDHmhKQ

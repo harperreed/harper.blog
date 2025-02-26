@@ -1,0 +1,758 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.24'
+    id: '3407'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1338559644p5/3407.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/3407.Antony_Beevor
+    name: Antony Beevor
+    ratings_count: '103515'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1338559644p2/3407.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '5787'
+average_rating: '3.39'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2015-09-06T00:00:00-07:00'
+description: Antony Beevor's <i>The Mystery of Olga Chekhova </i>is the true story
+  of a family torn apart by revolution and war.<br /><br />Olga Chekhova was a stunning
+  Russian beauty and a famous Nazi-era film actress who Hitler counted among his friends;
+  she was also the niece of Anton Chekhov. After fleeing Bolshevik Moscow for Berlin
+  in 1920, she was recruited by her composer brother Lev, to work for Soviet intelligence.
+  In return, her family were allowed to join her. The extraordinary story of how the
+  whole family survived the Russian Revolution, the civil war, the rise of Hitler,
+  the Stalinist Terror, and the Nazi invasion of the Soviet Union becomes, in Antony
+  Beevor's hands, a breathtaking tale of compromise and survival in a merciless age.
+edition_information: null
+format: null
+id: '19679722'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn: '1101175052'
+isbn13: '9781101175057'
+json: '{"id": "19679722", "isbn": "1101175052", "isbn13": "9781101175057", "text_reviews_count":
+  {"@type": "integer", "#text": "1"}, "uri": "kca://book/amzn1.gr.book.v1.KwZ6MXdRxI10R1f58z2edA",
+  "title": "The Mystery of Olga Chekhova", "title_without_series": "The Mystery of
+  Olga Chekhova", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/19679722-the-mystery-of-olga-chekhova",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.39", "ratings_count": "514", "description": "Antony Beevor''s <i>The Mystery
+  of Olga Chekhova </i>is the true story of a family torn apart by revolution and
+  war.<br /><br />Olga Chekhova was a stunning Russian beauty and a famous Nazi-era
+  film actress who Hitler counted among his friends; she was also the niece of Anton
+  Chekhov. After fleeing Bolshevik Moscow for Berlin in 1920, she was recruited by
+  her composer brother Lev, to work for Soviet intelligence. In return, her family
+  were allowed to join her. The extraordinary story of how the whole family survived
+  the Russian Revolution, the civil war, the rise of Hitler, the Stalinist Terror,
+  and the Nazi invasion of the Soviet Union becomes, in Antony Beevor''s hands, a
+  breathtaking tale of compromise and survival in a merciless age.", "authors": {"author":
+  {"id": "3407", "name": "Antony Beevor", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1338559644p5/3407.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1338559644p2/3407.jpg"},
+  "link": "https://www.goodreads.com/author/show/3407.Antony_Beevor", "average_rating":
+  "4.24", "ratings_count": "103515", "text_reviews_count": "5787"}}, "published":
+  null, "work": {"id": "3370957", "uri": "kca://work/amzn1.gr.work.v1.mWmCWdJvnOGQEPzaTfZeAw"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1385253938",
+  "read_at": "Sun Sep 06 00:00:00 -0700 2015", "started_at": "", "date": "Sun Sep
+  06 00:00:00 -0700 2015"}'
+kindle_asin: B0031TZ98A
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/19679722-the-mystery-of-olga-chekhova
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '791'
+    '@name': to-read
+  - '@count': '47'
+    '@name': history
+  - '@count': '30'
+    '@name': currently-reading
+  - '@count': '23'
+    '@name': non-fiction
+  - '@count': '19'
+    '@name': biography
+  - '@count': '10'
+    '@name': ww2
+  - '@count': '8'
+    '@name': war
+  - '@count': '8'
+    '@name': books-i-own
+  - '@count': '6'
+    '@name': wwii
+  - '@count': '5'
+    '@name': world-war-2
+  - '@count': '5'
+    '@name': owned
+  - '@count': '5'
+    '@name': espionage
+  - '@count': '5'
+    '@name': russia
+  - '@count': '4'
+    '@name': military-history
+  - '@count': '4'
+    '@name': biographies
+  - '@count': '4'
+    '@name': default
+  - '@count': '4'
+    '@name': nonfiction
+  - '@count': '3'
+    '@name': kindle
+  - '@count': '3'
+    '@name': owned-books
+  - '@count': '3'
+    '@name': library
+  - '@count': '3'
+    '@name': my-books
+  - '@count': '3'
+    '@name': world-war-ii
+  - '@count': '3'
+    '@name': antony-beevor
+  - '@count': '3'
+    '@name': third-reich
+  - '@count': '3'
+    '@name': germany
+  - '@count': '2'
+    '@name': kirjahylly
+  - '@count': '2'
+    '@name': wish-list
+  - '@count': '2'
+    '@name': history-wwii
+  - '@count': '2'
+    '@name': contemporary
+  - '@count': '2'
+    '@name': didn-t-finish
+  - '@count': '2'
+    '@name': biography-memoir
+  - '@count': '2'
+    '@name': literary-nonfiction
+  - '@count': '2'
+    '@name': european-literature
+  - '@count': '2'
+    '@name': european-history
+  - '@count': '2'
+    '@name': autobiography
+  - '@count': '2'
+    '@name': 20th-century
+  - '@count': '2'
+    '@name': russian-history
+  - '@count': '2'
+    '@name': ensayo
+  - '@count': '2'
+    '@name': ussr
+  - '@count': '1'
+    '@name': dnf-2
+  - '@count': '1'
+    '@name': real-books
+  - '@count': '1'
+    '@name': world-war-ll
+  - '@count': '1'
+    '@name': series
+  - '@count': '1'
+    '@name': shelved-2024
+  - '@count': '1'
+    '@name': shitler
+  - '@count': '1'
+    '@name': russian-soviet-cinema
+  - '@count': '1'
+    '@name': film-actors
+  - '@count': '1'
+    '@name': in-stock-digital
+  - '@count': '1'
+    '@name': history-spies-espionage
+  - '@count': '1'
+    '@name': grace-library
+  - '@count': '1'
+    '@name': latviski
+  - '@count': '1'
+    '@name': be-a-historian
+  - '@count': '1'
+    '@name': soviet-union
+  - '@count': '1'
+    '@name': socialism
+  - '@count': '1'
+    '@name': partism
+  - '@count': '1'
+    '@name': history-want-to-read
+  - '@count': '1'
+    '@name': history-germany-nazi-era
+  - '@count': '1'
+    '@name': history-biography
+  - '@count': '1'
+    '@name': "cole\xE7\xE3o-f\xEDsica"
+  - '@count': '1'
+    '@name': uk
+  - '@count': '1'
+    '@name': spying-intelligence
+  - '@count': '1'
+    '@name': "\u0440\u0438\u0432\u0430"
+  - '@count': '1'
+    '@name': ww2-books
+  - '@count': '1'
+    '@name': waiting-in-real-bookcase
+  - '@count': '1'
+    '@name': history-mythology
+  - '@count': '1'
+    '@name': historians
+  - '@count': '1'
+    '@name': 0-library-bio-nonf
+  - '@count': '1'
+    '@name': src-su-20-03-03-consecutive
+  - '@count': '1'
+    '@name': nederlandstalig-in-mijn-bezit
+  - '@count': '1'
+    '@name': 2011-before-unknown
+  - '@count': '1'
+    '@name': unread
+  - '@count': '1'
+    '@name': "ant\xF3n-ch\xE9jov"
+  - '@count': '1'
+    '@name': "t\xE9-\xEDntimo-con-ch\xE9jov-2024"
+  - '@count': '1'
+    '@name': "t\xE9-con-libros"
+  - '@count': '1'
+    '@name': scanned-1
+  - '@count': '1'
+    '@name': totalitarism
+  - '@count': '1'
+    '@name': read-in-english
+  - '@count': '1'
+    '@name': read-2023
+  - '@count': '1'
+    '@name': nazi
+  - '@count': '1'
+    '@name': identity
+  - '@count': '1'
+    '@name': abandonado
+  - '@count': '1'
+    '@name': "pro\u010Ditane"
+  - '@count': '1'
+    '@name': "sagnfr\xE6\xF0i"
+  - '@count': '1'
+    '@name': excellent
+  - '@count': '1'
+    '@name': "kirjahylly-el\xE4m\xE4kerrat"
+  - '@count': '1'
+    '@name': 2024-tbr
+  - '@count': '1'
+    '@name': purchased
+  - '@count': '1'
+    '@name': narrative-nonfiction
+  - '@count': '1'
+    '@name': icloud-bookshelf
+  - '@count': '1'
+    '@name': ebook
+  - '@count': '1'
+    '@name': calibre-onedrive-library
+  - '@count': '1'
+    '@name': tarih
+  - '@count': '1'
+    '@name': nf9-historia-2gm
+  - '@count': '1'
+    '@name': nf9-biografia-memorias
+  - '@count': '1'
+    '@name': xa-beevor-antony
+  - '@count': '1'
+    '@name': h-anthony-beevor
+  - '@count': '1'
+    '@name': biographies-and-memoirs
+  - '@count': '1'
+    '@name': world-war-ii-history
+  - '@count': '1'
+    '@name': ultra-wishlist
+  - '@count': '1'
+    '@name': own-a-copy
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '514'
+read_at: '2015-09-06T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/1385253938
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/19679722-the-mystery-of-olga-chekhova\"\
+  >The Mystery of Olga Chekhova Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1101175052&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/19679722-the-mystery-of-olga-chekhova?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '15726523'
+        link: https://www.goodreads.com/author/show/15726523.Owen_Matthews
+        name: Owen Matthews
+    average_rating: '3.39'
+    id: '41067507'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544713942l/41067507._SX98_.jpg
+    isbn: '1408857782'
+    isbn13: '9781408857786'
+    link: https://www.goodreads.com/book/show/41067507-an-impeccable-spy
+    num_pages: '448'
+    publication_day: '10'
+    publication_month: '12'
+    publication_year: '2019'
+    ratings_count: '514'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544713942l/41067507._SX50_.jpg
+    title: "An Impeccable Spy: Richard Sorge, Stalin\u2019s Master Agent"
+    title_without_series: "An Impeccable Spy: Richard Sorge, Stalin\u2019s Master\
+      \ Agent"
+    uri: kca://book/amzn1.gr.book.v1.3q0T2_QID0Vgj6bAQCdLMQ
+    work:
+      id: '64144945'
+  - authors:
+      author:
+        id: '8125679'
+        link: https://www.goodreads.com/author/show/8125679.Serhii_Plokhy
+        name: Serhii Plokhy
+    average_rating: '3.39'
+    id: '21857933'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/21857933-the-last-empire
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '514'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Last Empire: The Final Days of the Soviet Union'
+    title_without_series: 'The Last Empire: The Final Days of the Soviet Union'
+    uri: kca://book/amzn1.gr.book.v1.0JGB0dGEyZbW6NqVXJUFXg
+    work:
+      id: '41131688'
+  - authors:
+      author:
+        id: '371093'
+        link: https://www.goodreads.com/author/show/371093.Simon_Sebag_Montefiore
+        name: Simon Sebag Montefiore
+    average_rating: '3.39'
+    id: '9477628'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650184310l/9477628._SX98_.jpg
+    isbn: 0297852655
+    isbn13: '9780297852650'
+    link: https://www.goodreads.com/book/show/9477628-jerusalem
+    num_pages: '752'
+    publication_day: '27'
+    publication_month: '1'
+    publication_year: '2011'
+    ratings_count: '514'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650184310l/9477628._SY75_.jpg
+    title: 'Jerusalem: The Biography'
+    title_without_series: 'Jerusalem: The Biography'
+    uri: kca://book/amzn1.gr.book.v1.h9PJvNYNuzXv0Ri2roSRhA
+    work:
+      id: '14362911'
+  - authors:
+      author:
+        id: '8864'
+        link: https://www.goodreads.com/author/show/8864.Richard_Flanagan
+        name: Richard Flanagan
+    average_rating: '3.39'
+    id: '17905709'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374734363l/17905709._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/17905709-the-narrow-road-to-the-deep-north
+    num_pages: '467'
+    publication_day: '23'
+    publication_month: '9'
+    publication_year: '2013'
+    ratings_count: '514'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374734363l/17905709._SY75_.jpg
+    title: The Narrow Road to the Deep North
+    title_without_series: The Narrow Road to the Deep North
+    uri: kca://book/amzn1.gr.book.v1.27NcKKrLd-zW9k5tfPDwlg
+    work:
+      id: '25086415'
+  - authors:
+      author:
+        id: '52292'
+        link: https://www.goodreads.com/author/show/52292.Tom_Holland
+        name: Tom Holland
+    average_rating: '3.39'
+    id: '154008491'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1526667703'
+    isbn13: '9781526667700'
+    link: https://www.goodreads.com/book/show/154008491-the-rest-is-history
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '514'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Rest is History: The Official Book from the Makers of the Hit Podcast'
+    title_without_series: 'The Rest is History: The Official Book from the Makers
+      of the Hit Podcast'
+    uri: kca://book/amzn1.gr.book.v3.Q6IOwET6GGBuDGLU
+    work:
+      id: '168307894'
+  - authors:
+      author:
+        id: '309106'
+        link: https://www.goodreads.com/author/show/309106.Jennet_Conant
+        name: Jennet Conant
+    average_rating: '3.39'
+    id: '2321457'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0743294580
+    isbn13: '9780743294584'
+    link: https://www.goodreads.com/book/show/2321457.The_Irregulars
+    num_pages: '393'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '514'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Irregulars: Roald Dahl and the British Spy Ring in Wartime Washington'
+    title_without_series: 'The Irregulars: Roald Dahl and the British Spy Ring in
+      Wartime Washington'
+    uri: kca://book/amzn1.gr.book.v1._b97VnNmJlFnMJtpufPXdw
+    work:
+      id: '2327981'
+  - authors:
+      author:
+        id: '22330722'
+        link: https://www.goodreads.com/author/show/22330722.Kira_Yarmysh
+        name: Kira Yarmysh
+    average_rating: '3.39'
+    id: '60726092'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668462693l/60726092._SX98_.jpg
+    isbn: 0802160735
+    isbn13: '9780802160737'
+    link: https://www.goodreads.com/book/show/60726092-the-incredible-events-in-women-s-cell-number-three
+    num_pages: '368'
+    publication_day: '7'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '514'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668462693l/60726092._SY75_.jpg
+    title: The Incredible Events in Women's Cell Number Three
+    title_without_series: The Incredible Events in Women's Cell Number Three
+    uri: kca://book/amzn1.gr.book.v3.UX0RapW_ylq38c2q
+    work:
+      id: '95742072'
+  - authors:
+      author:
+        id: '88420'
+        link: https://www.goodreads.com/author/show/88420.Andrey_Kurkov
+        name: Andrey Kurkov
+    average_rating: '3.39'
+    id: '173956327'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699458677l/173956327._SX98_.jpg
+    isbn: 0063352281
+    isbn13: '9780063352285'
+    link: https://www.goodreads.com/book/show/173956327-the-silver-bone
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '514'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699458677l/173956327._SY75_.jpg
+    title: 'The Silver Bone (The Kyiv Mysteries, #1)'
+    title_without_series: The Silver Bone
+    uri: kca://book/amzn1.gr.book.v3.miGCn1RliCBjl-I8
+    work:
+      id: '169917771'
+  - authors:
+      author:
+        id: '86404'
+        link: https://www.goodreads.com/author/show/86404.E_M_Forster
+        name: E.M. Forster
+    average_rating: '3.39'
+    id: '216032393'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1720078869l/216032393._SX98_.jpg
+    isbn: '1957240369'
+    isbn13: '9781957240367'
+    link: https://www.goodreads.com/book/show/216032393-where-angels-fear-to-tread
+    num_pages: '130'
+    publication_day: null
+    publication_month: '7'
+    publication_year: '2024'
+    ratings_count: '514'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1720078869l/216032393._SY75_.jpg
+    title: Where Angels Fear to Tread
+    title_without_series: Where Angels Fear to Tread
+    uri: kca://book/amzn1.gr.book.v3.UQADh7Ns_ni9qBrv
+    work:
+      id: '2153548'
+  - authors:
+      author:
+        id: '80212'
+        link: https://www.goodreads.com/author/show/80212.C_J_Sansom
+        name: C.J. Sansom
+    average_rating: '3.39'
+    id: '891671'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0330411985
+    isbn13: '9780330411981'
+    link: https://www.goodreads.com/book/show/891671.Winter_in_Madrid
+    num_pages: '549'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '514'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Winter in Madrid
+    title_without_series: Winter in Madrid
+    uri: kca://book/amzn1.gr.book.v1.mnP0Ild1Kvk8brHvEJ04FQ
+    work:
+      id: '2114967'
+  - authors:
+      author:
+        id: '24695'
+        link: https://www.goodreads.com/author/show/24695.Masha_Gessen
+        name: Masha Gessen
+    average_rating: '3.39'
+    id: '12382651'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333597582l/12382651._SX98_.jpg
+    isbn: '1594488428'
+    isbn13: '9781594488429'
+    link: https://www.goodreads.com/book/show/12382651-the-man-without-a-face
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '514'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333597582l/12382651._SX50_.jpg
+    title: 'The Man Without a Face: The Unlikely Rise of Vladimir Putin'
+    title_without_series: 'The Man Without a Face: The Unlikely Rise of Vladimir Putin'
+    uri: kca://book/amzn1.gr.book.v1.2Gn_ZryGzonCsK3V3UwiGg
+    work:
+      id: '17363356'
+  - authors:
+      author:
+        id: '16667'
+        link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+        name: Isaac Asimov
+    average_rating: '3.39'
+    id: '46654'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316412178l/46654._SX98_.jpg
+    isbn: 0380508567
+    isbn13: '9780380508563'
+    link: https://www.goodreads.com/book/show/46654.The_Foundation_Trilogy
+    num_pages: '679'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '514'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316412178l/46654._SY75_.jpg
+    title: 'The Foundation Trilogy (Foundation, #1-3)'
+    title_without_series: The Foundation Trilogy
+    uri: kca://book/amzn1.gr.book.v1.I1ZDToqk3t_LqUT8y6NSjA
+    work:
+      id: '41350'
+  - authors:
+      author:
+        id: '3001096'
+        link: https://www.goodreads.com/author/show/3001096.Jake_Adelstein
+        name: Jake Adelstein
+    average_rating: '3.39'
+    id: '6658129'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320453731l/6658129._SX98_.jpg
+    isbn: 0307378799
+    isbn13: '9780307378798'
+    link: https://www.goodreads.com/book/show/6658129-tokyo-vice
+    num_pages: '335'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '514'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320453731l/6658129._SY75_.jpg
+    title: 'Tokyo Vice: An American Reporter on the Police Beat in Japan'
+    title_without_series: 'Tokyo Vice: An American Reporter on the Police Beat in
+      Japan'
+    uri: kca://book/amzn1.gr.book.v1.Y99dPdnbQo-rw-rGQnt-wA
+    work:
+      id: '6852777'
+  - authors:
+      author:
+        id: '43295'
+        link: https://www.goodreads.com/author/show/43295.Daniel_Stashower
+        name: Daniel Stashower
+    average_rating: '3.39'
+    id: '59808343'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654482927l/59808343._SX98_.jpg
+    isbn: '1250041163'
+    isbn13: '9781250041166'
+    link: https://www.goodreads.com/book/show/59808343-american-demon
+    num_pages: '342'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '514'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654482927l/59808343._SY75_.jpg
+    title: 'American Demon: Eliot Ness and the Hunt for America''s Jack the Ripper'
+    title_without_series: 'American Demon: Eliot Ness and the Hunt for America''s
+      Jack the Ripper'
+    uri: kca://book/amzn1.gr.book.v3.I2UxL4gw4MEktKLG
+    work:
+      id: '94199837'
+  - authors:
+      author:
+        id: '713466'
+        link: https://www.goodreads.com/author/show/713466.Tim_Marshall
+        name: Tim  Marshall
+    average_rating: '3.39'
+    id: '62675564'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1666195524l/62675564._SX98_.jpg
+    isbn: '1783966874'
+    isbn13: '9781783966875'
+    link: https://www.goodreads.com/book/show/62675564-the-future-of-geography
+    num_pages: '256'
+    publication_day: '27'
+    publication_month: '4'
+    publication_year: '2023'
+    ratings_count: '514'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1666195524l/62675564._SY75_.jpg
+    title: 'The Future of Geography: How Power and Politics in Space Will Change Our
+      World'
+    title_without_series: 'The Future of Geography: How Power and Politics in Space
+      Will Change Our World'
+    uri: kca://book/amzn1.gr.book.v3.nCdrc4p9wD4nsP88
+    work:
+      id: '98439862'
+  - authors:
+      author:
+        id: '22827'
+        link: https://www.goodreads.com/author/show/22827.Norman_Davies
+        name: Norman Davies
+    average_rating: '3.39'
+    id: '8675283'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327472243l/8675283._SX98_.jpg
+    isbn: '1846143381'
+    isbn13: '9781846143380'
+    link: https://www.goodreads.com/book/show/8675283-vanished-kingdoms
+    num_pages: '789'
+    publication_day: '1'
+    publication_month: '9'
+    publication_year: '2011'
+    ratings_count: '514'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327472243l/8675283._SY75_.jpg
+    title: 'Vanished Kingdoms: The History of Half-Forgotten Europe'
+    title_without_series: 'Vanished Kingdoms: The History of Half-Forgotten Europe'
+    uri: kca://book/amzn1.gr.book.v1.2bTOF5KM8qOd5-RVIEKUZA
+    work:
+      id: '13547159'
+  - authors:
+      author:
+        id: '13844539'
+        link: https://www.goodreads.com/author/show/13844539.Dan_Jones
+        name: Dan Jones
+    average_rating: '3.39'
+    id: '61111302'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661861652l/61111302._SX98_.jpg
+    isbn: 0593653785
+    isbn13: '9780593653784'
+    link: https://www.goodreads.com/book/show/61111302-essex-dogs
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '514'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661861652l/61111302._SY75_.jpg
+    title: 'Essex Dogs (Essex Dogs, #1)'
+    title_without_series: Essex Dogs
+    uri: kca://book/amzn1.gr.book.v3.ujxF7DJo5veJu0Ek
+    work:
+      id: '95947529'
+  - authors:
+      author:
+        id: '16184'
+        link: https://www.goodreads.com/author/show/16184.Will_Durant
+        name: Will Durant
+    average_rating: '3.39'
+    id: '174713'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1567310249'
+    isbn13: '9781567310245'
+    link: https://www.goodreads.com/book/show/174713.The_Lessons_of_History
+    num_pages: '119'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '514'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Lessons of History
+    title_without_series: The Lessons of History
+    uri: kca://book/amzn1.gr.book.v1.VvyX2b0GgQDF5qb9u6nXKw
+    work:
+      id: '2674733'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '1'
+  '@type': integer
+title: The Mystery of Olga Chekhova
+title_without_series: The Mystery of Olga Chekhova
+uri: kca://book/amzn1.gr.book.v1.KwZ6MXdRxI10R1f58z2edA
+url: https://www.goodreads.com/book/show/19679722-the-mystery-of-olga-chekhova
+work:
+  id: '3370957'
+  uri: kca://work/amzn1.gr.work.v1.mWmCWdJvnOGQEPzaTfZeAw

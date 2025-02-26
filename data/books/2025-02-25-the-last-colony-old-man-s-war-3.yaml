@@ -1,0 +1,775 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.05'
+    id: '4763'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1724435824p5/4763.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/4763.John_Scalzi
+    name: John Scalzi
+    ratings_count: '1200689'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1724435824p2/4763.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '102358'
+average_rating: '4.10'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: Retired from his fighting days, John Perry is now village ombudsman for
+  a human colony on distant Huckleberry. With his wife, former Special Forces warrior
+  Jane Sagan, he farms several acres, adjudicates local disputes, and enjoys watching
+  his adopted daughter grow up.<br /><br />That is, until his and Jane's past reaches
+  out to bring them back into the game--as leaders of a new human colony, to be peopled
+  by settlers from all the major human worlds, for a deep political purpose that will
+  put Perry and Sagan back in the thick of interstellar politics, betrayal, and war.
+edition_information: First Ed
+format: null
+id: '88071'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: 0765316978
+isbn13: '9780765316974'
+json: '{"id": "88071", "isbn": "0765316978", "isbn13": "9780765316974", "text_reviews_count":
+  {"@type": "integer", "#text": "2328"}, "uri": "kca://book/amzn1.gr.book.v1.4JzszrQ4MSuHOp81OmydLQ",
+  "title": "The Last Colony (Old Man''s War, #3)", "title_without_series": "The Last
+  Colony", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/88071.The_Last_Colony",
+  "num_pages": null, "format": null, "edition_information": "First Ed", "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "4.10", "ratings_count": "68643", "description": "Retired from
+  his fighting days, John Perry is now village ombudsman for a human colony on distant
+  Huckleberry. With his wife, former Special Forces warrior Jane Sagan, he farms several
+  acres, adjudicates local disputes, and enjoys watching his adopted daughter grow
+  up.<br /><br />That is, until his and Jane''s past reaches out to bring them back
+  into the game--as leaders of a new human colony, to be peopled by settlers from
+  all the major human worlds, for a deep political purpose that will put Perry and
+  Sagan back in the thick of interstellar politics, betrayal, and war.", "authors":
+  {"author": {"id": "4763", "name": "John Scalzi", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1724435824p5/4763.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1724435824p2/4763.jpg"},
+  "link": "https://www.goodreads.com/author/show/4763.John_Scalzi", "average_rating":
+  "4.05", "ratings_count": "1200689", "text_reviews_count": "102358"}}, "published":
+  null, "work": {"id": "18279847", "uri": "kca://work/amzn1.gr.work.v1.axmNRQZRwmprBmHfyPJyRw"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/12429033",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B000YJ85BI
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/88071.The_Last_Colony
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '13639'
+    '@name': to-read
+  - '@count': '2151'
+    '@name': science-fiction
+  - '@count': '1723'
+    '@name': sci-fi
+  - '@count': '1549'
+    '@name': currently-reading
+  - '@count': '565'
+    '@name': fiction
+  - '@count': '498'
+    '@name': scifi
+  - '@count': '308'
+    '@name': owned
+  - '@count': '210'
+    '@name': sf
+  - '@count': '172'
+    '@name': audiobook
+  - '@count': '170'
+    '@name': kindle
+  - '@count': '154'
+    '@name': favorites
+  - '@count': '132'
+    '@name': series
+  - '@count': '120'
+    '@name': sci-fi-fantasy
+  - '@count': '111'
+    '@name': ebook
+  - '@count': '110'
+    '@name': audible
+  - '@count': '109'
+    '@name': military
+  - '@count': '104'
+    '@name': audiobooks
+  - '@count': '98'
+    '@name': space
+  - '@count': '86'
+    '@name': war
+  - '@count': '86'
+    '@name': john-scalzi
+  - '@count': '84'
+    '@name': library
+  - '@count': '80'
+    '@name': audio
+  - '@count': '73'
+    '@name': fantasy
+  - '@count': '70'
+    '@name': military-sci-fi
+  - '@count': '64'
+    '@name': aliens
+  - '@count': '64'
+    '@name': default
+  - '@count': '54'
+    '@name': scifi-fantasy
+  - '@count': '48'
+    '@name': ebooks
+  - '@count': '44'
+    '@name': scalzi
+  - '@count': '43'
+    '@name': military-science-fiction
+  - '@count': '42'
+    '@name': science-fiction-fantasy
+  - '@count': '41'
+    '@name': speculative-fiction
+  - '@count': '39'
+    '@name': old-man-s-war
+  - '@count': '39'
+    '@name': adventure
+  - '@count': '35'
+    '@name': e-book
+  - '@count': '35'
+    '@name': books-i-own
+  - '@count': '33'
+    '@name': novels
+  - '@count': '33'
+    '@name': military-sf
+  - '@count': '33'
+    '@name': audio-books
+  - '@count': '31'
+    '@name': old-mans-war
+  - '@count': '31'
+    '@name': sff
+  - '@count': '30'
+    '@name': owned-books
+  - '@count': '29'
+    '@name': books
+  - '@count': '29'
+    '@name': science-fiction-and-fantasy
+  - '@count': '29'
+    '@name': novel
+  - '@count': '28'
+    '@name': military-scifi
+  - '@count': '28'
+    '@name': fantasy-sci-fi
+  - '@count': '28'
+    '@name': "ciencia-ficci\xF3n"
+  - '@count': '28'
+    '@name': science
+  - '@count': '26'
+    '@name': audio-book
+  - '@count': '24'
+    '@name': sci-fi-and-fantasy
+  - '@count': '23'
+    '@name': military-fiction
+  - '@count': '21'
+    '@name': e-books
+  - '@count': '21'
+    '@name': sciencefiction
+  - '@count': '21'
+    '@name': adult
+  - '@count': '20'
+    '@name': read-in-2015
+  - '@count': '20'
+    '@name': calibre
+  - '@count': '20'
+    '@name': sf-fantasy
+  - '@count': '20'
+    '@name': my-library
+  - '@count': '20'
+    '@name': have
+  - '@count': '19'
+    '@name': to-buy
+  - '@count': '19'
+    '@name': future
+  - '@count': '18'
+    '@name': read-2015
+  - '@count': '18'
+    '@name': my-books
+  - '@count': '18'
+    '@name': hugo-nominee
+  - '@count': '17'
+    '@name': fantasy-scifi
+  - '@count': '16'
+    '@name': "fic\xE7\xE3o-cient\xEDfica"
+  - '@count': '16'
+    '@name': english
+  - '@count': '15'
+    '@name': borrowed
+  - '@count': '15'
+    '@name': re-read
+  - '@count': '15'
+    '@name': humor
+  - '@count': '15'
+    '@name': action
+  - '@count': '15'
+    '@name': sci-fi-military
+  - '@count': '14'
+    '@name': read-in-2017
+  - '@count': '14'
+    '@name': read-in-2016
+  - '@count': '14'
+    '@name': read-in-2013
+  - '@count': '13'
+    '@name': read-in-2024
+  - '@count': '13'
+    '@name': read-2014
+  - '@count': '13'
+    '@name': kindle-books
+  - '@count': '13'
+    '@name': physical
+  - '@count': '13'
+    '@name': politics
+  - '@count': '12'
+    '@name': read-2017
+  - '@count': '12'
+    '@name': scalzi-john
+  - '@count': '12'
+    '@name': abandoned
+  - '@count': '12'
+    '@name': wish-list
+  - '@count': '11'
+    '@name': read-in-2022
+  - '@count': '11'
+    '@name': read-in-2020
+  - '@count': '11'
+    '@name': read-in-2019
+  - '@count': '11'
+    '@name': read-2019
+  - '@count': '11'
+    '@name': library-book
+  - '@count': '11'
+    '@name': read-in-2018
+  - '@count': '11'
+    '@name': read-2018
+  - '@count': '11'
+    '@name': kobo
+  - '@count': '11'
+    '@name': unread
+  - '@count': '11'
+    '@name': paperback
+  - '@count': '11'
+    '@name': i-own
+  - '@count': '11'
+    '@name': hugo-nominees
+  - '@count': '10'
+    '@name': own-ebook
+  - '@count': '10'
+    '@name': read-in-2014
+  - '@count': '10'
+    '@name': fiction-sci-fi
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '68643'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/12429033
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/88071.The_Last_Colony\"\
+  >The Last Colony Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0765316978&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/88071.The_Last_Colony?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '313402'
+    series:
+      description: "<i>New York Times</i> bestselling author John Scalzi takes you\
+        \ on an epic romp of galactic conquest and exploration in the Old Man's War\
+        \ series. Humanity has reached the stars, but have been engaged in wars with\
+        \ alien races for decades over habitable planets. The Colonial Defense Force\
+        \ fights for Earth. To join the CDF, a recruit must have reached retirement\
+        \ age. They don't want young people; they want people who carry the knowledge\
+        \ and skills of decades of living. Soldiers are taken off Earth and never\
+        \ allowed to return. They'll serve time at the front. And if they survive,\
+        \ they'll be given a generous homestead on one of Earth's hard-won colony\
+        \ planets.\n    \n    \n    Old Man\u2019s War, The Last Colony and Zoe\u2019\
+        s Tale were each nominated for the Hugo Award for Best Novel in their respective\
+        \ years. Zoe\u2019s Tale was additionally nominated for the Andre Norton Award\
+        \ for Best Young Adult Science Fiction/Fantasy. The Ghost Brigades was nominated\
+        \ for the Prometheus Award. Old Man\u2019s War was the winner of the Geffen\
+        \ Award in Israel; The Last Colony the recipient of the Seiun Award in Japan.\n\
+        \    \n    Old Man\u2019s War was ranked #1 on the Tor.com reader poll of\
+        \ the best science fiction and fantasy novels of 2000 \u2013 2010. It is listed\
+        \ on the NPR.com reader poll of the Top 100 Science Fiction and Fantasy Books/Series."
+      id: '40789'
+      note: 3a - The Secret History of the Last Colony short story only published
+        in a magazine not separately thus no separate record for the story allowed
+      numbered: 'true'
+      primary_work_count: '7'
+      series_works_count: '31'
+      title: Old Man's War
+    user_position: '3'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.10'
+    id: '201930181'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SX98_.jpg
+    isbn: 031652557X
+    isbn13: '9780316525572'
+    link: https://www.goodreads.com/book/show/201930181-the-mercy-of-gods
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68643'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SY75_.jpg
+    title: "The Mercy of Gods (The Captive\u2019s War, #1)"
+    title_without_series: The Mercy of Gods
+    uri: kca://book/amzn1.gr.book.v3.nndIiP3mF2vHLfgz
+    work:
+      id: '95320019'
+  - authors:
+      author:
+        id: '12130438'
+        link: https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor
+        name: Dennis E. Taylor
+    average_rating: '4.10'
+    id: '159116833'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712930306l/159116833._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/159116833-not-till-we-are-lost
+    num_pages: '413'
+    publication_day: '5'
+    publication_month: '9'
+    publication_year: '2024'
+    ratings_count: '68643'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712930306l/159116833._SX50_.jpg
+    title: 'Not Till We Are Lost (Bobiverse #5)'
+    title_without_series: Not Till We Are Lost
+    uri: kca://book/amzn1.gr.book.v3.AzkbsrEAp5F3hB8P
+    work:
+      id: '171689305'
+  - authors:
+      author:
+        id: '12476'
+        link: https://www.goodreads.com/author/show/12476.Joe_Haldeman
+        name: Joe Haldeman
+    average_rating: '4.10'
+    id: '21611'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386852511l/21611._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/21611.The_Forever_War
+    num_pages: '278'
+    publication_day: '2'
+    publication_month: '9'
+    publication_year: '2003'
+    ratings_count: '68643'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386852511l/21611._SY75_.jpg
+    title: 'The Forever War (The Forever War, #1)'
+    title_without_series: The Forever War
+    uri: kca://book/amzn1.gr.book.v1.QJnY72VlwmqvjPOEzRCdxQ
+    work:
+      id: '423'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.10'
+    id: '65211701'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674575978l/65211701._SX98_.jpg
+    isbn: '1250826977'
+    isbn13: '9781250826978'
+    link: https://www.goodreads.com/book/show/65211701-system-collapse
+    num_pages: '245'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68643'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674575978l/65211701._SY75_.jpg
+    title: 'System Collapse (The Murderbot Diaries, #7)'
+    title_without_series: System Collapse
+    uri: kca://book/amzn1.gr.book.v3.BlgXZE2jb-Pp_eWq
+    work:
+      id: '90712113'
+  - authors:
+      author:
+        id: '12130438'
+        link: https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor
+        name: Dennis E. Taylor
+    average_rating: '4.10'
+    id: '35506021'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654566914l/35506021._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/35506021-all-these-worlds
+    num_pages: '336'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68643'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654566914l/35506021._SX50_.jpg
+    title: 'All These Worlds (Bobiverse, #3)'
+    title_without_series: All These Worlds
+    uri: kca://book/amzn1.gr.book.v1.hVOObdqCSy5GyABswsXk7g
+    work:
+      id: '54144690'
+  - authors:
+      author:
+        id: '12130438'
+        link: https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor
+        name: Dennis E. Taylor
+    average_rating: '4.10'
+    id: '33395557'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501817361l/33395557._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/33395557-for-we-are-many
+    num_pages: '311'
+    publication_day: '18'
+    publication_month: '4'
+    publication_year: '2017'
+    ratings_count: '68643'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501817361l/33395557._SX50_.jpg
+    title: 'For We Are Many (Bobiverse, #2)'
+    title_without_series: For We Are Many
+    uri: kca://book/amzn1.gr.book.v1.EDxjHNx70kSGzRyYfd2T_g
+    work:
+      id: '54144664'
+  - authors:
+      author:
+        id: '12130438'
+        link: https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor
+        name: Dennis E. Taylor
+    average_rating: '4.10'
+    id: '42950440'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593705196l/42950440._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/42950440-heaven-s-river
+    num_pages: '17'
+    publication_day: '24'
+    publication_month: '9'
+    publication_year: '2020'
+    ratings_count: '68643'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593705196l/42950440._SX50_.jpg
+    title: 'Heaven''s River (Bobiverse, #4)'
+    title_without_series: Heaven's River
+    uri: kca://book/amzn1.gr.book.v1.6jAWzosUJIY1AeUmEz0R_g
+    work:
+      id: '66753562'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.10'
+    id: '195790861'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698554344l/195790861._SX98_.jpg
+    isbn: '1250290287'
+    isbn13: '9781250290281'
+    link: https://www.goodreads.com/book/show/195790861-service-model
+    num_pages: '376'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68643'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698554344l/195790861._SY75_.jpg
+    title: Service Model
+    title_without_series: Service Model
+    uri: kca://book/amzn1.gr.book.v3.BUtNnpSh6EMDHugG
+    work:
+      id: '197724648'
+  - authors:
+      author:
+        id: '12130438'
+        link: https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor
+        name: Dennis E. Taylor
+    average_rating: '4.10'
+    id: '32109569'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/32109569-we-are-legion-we-are-bob
+    num_pages: '383'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68643'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'We Are Legion (We Are Bob) (Bobiverse, #1)'
+    title_without_series: We Are Legion (We Are Bob)
+    uri: kca://book/amzn1.gr.book.v1.0DjS0I2cmi2OxnN9MelPZQ
+    work:
+      id: '52752877'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.10'
+    id: '195443798'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SX98_.jpg
+    isbn: '1035013770'
+    isbn13: '9781035013777'
+    link: https://www.goodreads.com/book/show/195443798-alien-clay
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68643'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SY75_.jpg
+    title: Alien Clay
+    title_without_series: Alien Clay
+    uri: kca://book/amzn1.gr.book.v3.U07jHOWpgU_-RRTg
+    work:
+      id: '197089092'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.10'
+    id: '35519101'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506001607l/35519101._SX98_.jpg
+    isbn: '1250191785'
+    isbn13: '9781250191786'
+    link: https://www.goodreads.com/book/show/35519101-rogue-protocol
+    num_pages: '158'
+    publication_day: '7'
+    publication_month: '8'
+    publication_year: '2018'
+    ratings_count: '68643'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506001607l/35519101._SY75_.jpg
+    title: 'Rogue Protocol (The Murderbot Diaries, #3)'
+    title_without_series: Rogue Protocol
+    uri: kca://book/amzn1.gr.book.v1.HJjFhXbGbaVmhpOWpBIKCg
+    work:
+      id: '56934596'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.10'
+    id: '215760525'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724079438l/215760525._SX98_.jpg
+    isbn: 0316575348
+    isbn13: '9780316575348'
+    link: https://www.goodreads.com/book/show/215760525-livesuit
+    num_pages: '90'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68643'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724079438l/215760525._SY75_.jpg
+    title: "Livesuit (The Captive\u2019s War #1.5)"
+    title_without_series: Livesuit
+    uri: kca://book/amzn1.gr.book.v3.Rr7d-BxEjSsqm-t3
+    work:
+      id: '222176366'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.10'
+    id: '52381770'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640597293l/52381770._SX98_.jpg
+    isbn: '1250229863'
+    isbn13: '9781250229861'
+    link: https://www.goodreads.com/book/show/52381770-network-effect
+    num_pages: '350'
+    publication_day: '5'
+    publication_month: '5'
+    publication_year: '2020'
+    ratings_count: '68643'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640597293l/52381770._SY75_.jpg
+    title: 'Network Effect (The Murderbot Diaries, #5)'
+    title_without_series: Network Effect
+    uri: kca://book/amzn1.gr.book.v3.jq0mBydDYRHnJKGr
+    work:
+      id: '63614271'
+  - authors:
+      author:
+        id: '14887946'
+        link: https://www.goodreads.com/author/show/14887946.Max_Nowaz
+        name: Max Nowaz
+    average_rating: '4.10'
+    id: '101265124'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SX98_.jpg
+    isbn: '1803133961'
+    isbn13: '9781803133966'
+    link: https://www.goodreads.com/book/show/101265124-the-polymorph
+    num_pages: '0'
+    publication_day: '4'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '68643'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SY75_.jpg
+    title: The Polymorph
+    title_without_series: The Polymorph
+    uri: kca://book/amzn1.gr.book.v3.2WI1HTFNfz3UC2Zb
+    work:
+      id: '124767981'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.10'
+    id: '36223860'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505590203l/36223860._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/36223860-artificial-condition
+    num_pages: '158'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68643'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505590203l/36223860._SY75_.jpg
+    title: 'Artificial Condition (The Murderbot Diaries, #2)'
+    title_without_series: Artificial Condition
+    uri: kca://book/amzn1.gr.book.v1._2dnzunLlYMNdIZepzk6ZQ
+    work:
+      id: '56357518'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.10'
+    id: '35519109'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518642623l/35519109._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/35519109-exit-strategy
+    num_pages: '163'
+    publication_day: '2'
+    publication_month: '10'
+    publication_year: '2018'
+    ratings_count: '68643'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518642623l/35519109._SY75_.jpg
+    title: 'Exit Strategy (The Murderbot Diaries, #4)'
+    title_without_series: Exit Strategy
+    uri: kca://book/amzn1.gr.book.v1.NOCVAbifLCpCdeBrEUUVgA
+    work:
+      id: '56934601'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.10'
+    id: '53205854'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731700666l/53205854._SX98_.jpg
+    isbn: '1250765374'
+    isbn13: '9781250765376'
+    link: https://www.goodreads.com/book/show/53205854-fugitive-telemetry
+    num_pages: '168'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68643'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731700666l/53205854._SY75_.jpg
+    title: 'Fugitive Telemetry (The Murderbot Diaries, #6)'
+    title_without_series: Fugitive Telemetry
+    uri: kca://book/amzn1.gr.book.v3.zA5G7sk4BKdPYlNo
+    work:
+      id: '80438420'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.10'
+    id: '32758901'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631585309l/32758901._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/32758901-all-systems-red
+    num_pages: '144'
+    publication_day: '2'
+    publication_month: '5'
+    publication_year: '2017'
+    ratings_count: '68643'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631585309l/32758901._SY75_.jpg
+    title: 'All Systems Red (The Murderbot Diaries, #1)'
+    title_without_series: All Systems Red
+    uri: kca://book/amzn1.gr.book.v1._wBOegAytcJ1t9Dl75w6FA
+    work:
+      id: '53349516'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '2328'
+  '@type': integer
+title: 'The Last Colony (Old Man''s War, #3)'
+title_without_series: The Last Colony
+uri: kca://book/amzn1.gr.book.v1.4JzszrQ4MSuHOp81OmydLQ
+url: https://www.goodreads.com/book/show/88071.The_Last_Colony
+work:
+  id: '18279847'
+  uri: kca://work/amzn1.gr.work.v1.axmNRQZRwmprBmHfyPJyRw

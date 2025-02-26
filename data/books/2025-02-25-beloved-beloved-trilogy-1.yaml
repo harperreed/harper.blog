@@ -1,0 +1,760 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.02'
+    id: '3534'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1494211316p5/3534.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/3534.Toni_Morrison
+    name: Toni Morrison
+    ratings_count: '1220215'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1494211316p2/3534.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '87425'
+average_rating: '3.97'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: '<b>Staring unflinchingly into the abyss of slavery, this spellbinding
+  novel transforms history into a story as powerful as Exodus and as intimate as a
+  lullaby.</b> <br /><br />Sethe, its protagonist, was born a slave and escaped to
+  Ohio, but eighteen years later she is still not free. She has too many memories
+  of Sweet Home, the beautiful farm where so many hideous things happened. And Sethe''s
+  new home is haunted by the ghost of her baby, who died nameless and whose tombstone
+  is engraved with a single word: Beloved. Filled with bitter poetry and suspense
+  as taut as a rope, <i>Beloved</i> is a towering achievement by Nobel Prize laureate
+  Toni Morrison.'
+edition_information: null
+format: Paperback
+id: '6149'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722944318l/6149._SX98_.jpg
+is_ebook: 'false'
+isbn:
+  '@nil': 'true'
+isbn13: '9781400033416'
+json: '{"id": "6149", "isbn": {"@nil": "true"}, "isbn13": "9781400033416", "text_reviews_count":
+  {"@type": "integer", "#text": "19693"}, "uri": "kca://book/amzn1.gr.book.v1.M99JF4nXdknWCuw9AO0mQA",
+  "title": "Beloved (Beloved Trilogy, #1)", "title_without_series": "Beloved", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722944318l/6149._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722944318l/6149._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/6149.Beloved",
+  "num_pages": "325", "format": "Paperback", "edition_information": null, "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "3.97", "ratings_count": "463144", "description": "<b>Staring
+  unflinchingly into the abyss of slavery, this spellbinding novel transforms history
+  into a story as powerful as Exodus and as intimate as a lullaby.</b> <br /><br />Sethe,
+  its protagonist, was born a slave and escaped to Ohio, but eighteen years later
+  she is still not free. She has too many memories of Sweet Home, the beautiful farm
+  where so many hideous things happened. And Sethe''s new home is haunted by the ghost
+  of her baby, who died nameless and whose tombstone is engraved with a single word:
+  Beloved. Filled with bitter poetry and suspense as taut as a rope, <i>Beloved</i>
+  is a towering achievement by Nobel Prize laureate Toni Morrison.", "authors": {"author":
+  {"id": "3534", "name": "Toni Morrison", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1494211316p5/3534.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1494211316p2/3534.jpg"},
+  "link": "https://www.goodreads.com/author/show/3534.Toni_Morrison", "average_rating":
+  "4.02", "ratings_count": "1220215", "text_reviews_count": "87425"}}, "published":
+  null, "work": {"id": "736076", "uri": "kca://work/amzn1.gr.work.v1.FlEnWChbRmLfXODlaKjAXQ"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/42404717",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B000TWUTYG
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/6149.Beloved
+marketplace_id: ATVPDKIKX0DER
+num_pages: '325'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '507732'
+    '@name': to-read
+  - '@count': '22510'
+    '@name': currently-reading
+  - '@count': '8356'
+    '@name': fiction
+  - '@count': '7783'
+    '@name': classics
+  - '@count': '5385'
+    '@name': favorites
+  - '@count': '4077'
+    '@name': historical-fiction
+  - '@count': '1845'
+    '@name': owned
+  - '@count': '1575'
+    '@name': magical-realism
+  - '@count': '1361'
+    '@name': books-i-own
+  - '@count': '980'
+    '@name': physical-tbr
+  - '@count': '931'
+    '@name': historical
+  - '@count': '899'
+    '@name': literature
+  - '@count': '837'
+    '@name': school
+  - '@count': '794'
+    '@name': literary-fiction
+  - '@count': '783'
+    '@name': pulitzer
+  - '@count': '765'
+    '@name': book-club
+  - '@count': '746'
+    '@name': banned-books
+  - '@count': '720'
+    '@name': african-american
+  - '@count': '706'
+    '@name': novels
+  - '@count': '643'
+    '@name': horror
+  - '@count': '639'
+    '@name': dnf
+  - '@count': '573'
+    '@name': library
+  - '@count': '510'
+    '@name': race
+  - '@count': '476'
+    '@name': favourites
+  - '@count': '470'
+    '@name': tbr
+  - '@count': '466'
+    '@name': pulitzer-prize
+  - '@count': '443'
+    '@name': american
+  - '@count': '410'
+    '@name': adult
+  - '@count': '399'
+    '@name': to-buy
+  - '@count': '398'
+    '@name': rory-gilmore-reading-challenge
+  - '@count': '394'
+    '@name': american-literature
+  - '@count': '387'
+    '@name': audiobook
+  - '@count': '370'
+    '@name': 1001-books
+  - '@count': '364'
+    '@name': owned-books
+  - '@count': '353'
+    '@name': my-library
+  - '@count': '345'
+    '@name': read-for-school
+  - '@count': '337'
+    '@name': audiobooks
+  - '@count': '336'
+    '@name': black-authors
+  - '@count': '329'
+    '@name': for-school
+  - '@count': '325'
+    '@name': novel
+  - '@count': '322'
+    '@name': slavery
+  - '@count': '316'
+    '@name': feminism
+  - '@count': '315'
+    '@name': adult-fiction
+  - '@count': '314'
+    '@name': did-not-finish
+  - '@count': '284'
+    '@name': 20th-century
+  - '@count': '281'
+    '@name': literary
+  - '@count': '280'
+    '@name': abandoned
+  - '@count': '275'
+    '@name': usa
+  - '@count': '275'
+    '@name': fantasy
+  - '@count': '273'
+    '@name': history
+  - '@count': '272'
+    '@name': modern-classics
+  - '@count': '269'
+    '@name': gothic
+  - '@count': '263'
+    '@name': high-school
+  - '@count': '263'
+    '@name': american-lit
+  - '@count': '255'
+    '@name': kindle
+  - '@count': '254'
+    '@name': rory-gilmore
+  - '@count': '252'
+    '@name': contemporary
+  - '@count': '236'
+    '@name': women
+  - '@count': '231'
+    '@name': on-my-shelf
+  - '@count': '225'
+    '@name': pulitzer-prize-winners
+  - '@count': '222'
+    '@name': great-american-read
+  - '@count': '218'
+    '@name': rory-gilmore-challenge
+  - '@count': '216'
+    '@name': rory-gilmore-reading-list
+  - '@count': '216'
+    '@name': audio
+  - '@count': '216'
+    '@name': bookshelf
+  - '@count': '215'
+    '@name': '1001'
+  - '@count': '206'
+    '@name': school-books
+  - '@count': '205'
+    '@name': classics-to-read
+  - '@count': '201'
+    '@name': toni-morrison
+  - '@count': '199'
+    '@name': banned
+  - '@count': '191'
+    '@name': female-authors
+  - '@count': '191'
+    '@name': contemporary-fiction
+  - '@count': '186'
+    '@name': owned-tbr
+  - '@count': '186'
+    '@name': my-books
+  - '@count': '183'
+    '@name': nobel-prize
+  - '@count': '180'
+    '@name': ghosts
+  - '@count': '178'
+    '@name': english
+  - '@count': '177'
+    '@name': all-time-favorites
+  - '@count': '175'
+    '@name': college
+  - '@count': '173'
+    '@name': home-library
+  - '@count': '170'
+    '@name': gilmore-girls
+  - '@count': '170'
+    '@name': african-american-literature
+  - '@count': '167'
+    '@name': bookclub
+  - '@count': '165'
+    '@name': uni
+  - '@count': '165'
+    '@name': general-fiction
+  - '@count': '163'
+    '@name': pulitzer-winners
+  - '@count': '154'
+    '@name': re-read
+  - '@count': '152'
+    '@name': classics-tbr
+  - '@count': '149'
+    '@name': classic-literature
+  - '@count': '148'
+    '@name': african-american-lit
+  - '@count': '147'
+    '@name': 1001-books-to-read-before-you-die
+  - '@count': '146'
+    '@name': female-author
+  - '@count': '144'
+    '@name': poc
+  - '@count': '143'
+    '@name': magic-realism
+  - '@count': '141'
+    '@name': series
+  - '@count': '140'
+    '@name': the-great-american-read
+  - '@count': '138'
+    '@name': america
+  - '@count': '137'
+    '@name': 5-stars
+  - '@count': '137'
+    '@name': 1980s
+  - '@count': '137'
+    '@name': personal-library
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '463144'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/42404717
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/6149.Beloved\"\
+  >Beloved Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=9781400033416&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/6149.Beloved?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '1710584'
+    series:
+      description: null
+      id: '304306'
+      note: null
+      numbered: 'true'
+      primary_work_count: '3'
+      series_works_count: '3'
+      title: Beloved Trilogy
+    user_position: '1'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '15151'
+        link: https://www.goodreads.com/author/show/15151.Zora_Neale_Hurston
+        name: Zora Neale Hurston
+    average_rating: '3.97'
+    id: '37415'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368072803l/37415._SX98_.jpg
+    isbn: '0061120065'
+    isbn13: '9780061120060'
+    link: https://www.goodreads.com/book/show/37415.Their_Eyes_Were_Watching_God
+    num_pages: '238'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '463147'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368072803l/37415._SY75_.jpg
+    title: Their Eyes Were Watching God
+    title_without_series: Their Eyes Were Watching God
+    uri: kca://book/amzn1.gr.book.v1.VQ2sPS30J-wtJsxYbdcCXg
+    work:
+      id: '1643555'
+  - authors:
+      author:
+        id: '7380'
+        link: https://www.goodreads.com/author/show/7380.Alice_Walker
+        name: Alice Walker
+    average_rating: '3.97'
+    id: '52892857'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703084419l/52892857._SX98_.jpg
+    isbn: 0143135694
+    isbn13: '9780143135692'
+    link: https://www.goodreads.com/book/show/52892857-the-color-purple
+    num_pages: '304'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '463147'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703084419l/52892857._SY75_.jpg
+    title: The Color Purple
+    title_without_series: The Color Purple
+    uri: kca://book/amzn1.gr.book.v3.lkwQe2dai0I7Mgzf
+    work:
+      id: '3300573'
+  - authors:
+      author:
+        id: '10427'
+        link: https://www.goodreads.com/author/show/10427.James_Baldwin
+        name: James Baldwin
+    average_rating: '3.97'
+    id: '406235'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/406235.Giovanni_s_Room
+    num_pages: '178'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '463147'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: "Giovanni\u2019s Room"
+    title_without_series: "Giovanni\u2019s Room"
+    uri: kca://book/amzn1.gr.book.v1.Fol3Fde8o6ZqXVUfQ5J-rQ
+    work:
+      id: '814207'
+  - authors:
+      author:
+        id: '8051'
+        link: https://www.goodreads.com/author/show/8051.Chinua_Achebe
+        name: Chinua Achebe
+    average_rating: '3.97'
+    id: '37781'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708114013l/37781._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/37781.Things_Fall_Apart
+    num_pages: '215'
+    publication_day: null
+    publication_month: '10'
+    publication_year: '1994'
+    ratings_count: '463147'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708114013l/37781._SY75_.jpg
+    title: 'Things Fall Apart (The African Trilogy, #1)'
+    title_without_series: Things Fall Apart
+    uri: kca://book/amzn1.gr.book.v1.T3b06-IOoenYlb-51z19Ew
+    work:
+      id: '825843'
+  - authors:
+      author:
+        id: '7508'
+        link: https://www.goodreads.com/author/show/7508.Ralph_Ellison
+        name: Ralph Ellison
+    average_rating: '3.97'
+    id: '16981'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556482805l/16981._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/16981.Invisible_Man
+    num_pages: '581'
+    publication_day: '1'
+    publication_month: '2'
+    publication_year: '1995'
+    ratings_count: '463147'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556482805l/16981._SY75_.jpg
+    title: Invisible Man
+    title_without_series: Invisible Man
+    uri: kca://book/amzn1.gr.book.v1.C-i_xP0_d2JzUKLpmSlU7w
+    work:
+      id: '170957'
+  - authors:
+      author:
+        id: '3503'
+        link: https://www.goodreads.com/author/show/3503.Maya_Angelou
+        name: Maya Angelou
+    average_rating: '3.97'
+    id: '13214'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327957927l/13214._SY160_.jpg
+    isbn: 0553279378
+    isbn13: '9780553279375'
+    link: https://www.goodreads.com/book/show/13214.I_Know_Why_the_Caged_Bird_Sings
+    num_pages: '289'
+    publication_day: null
+    publication_month: '11'
+    publication_year: '1993'
+    ratings_count: '463147'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327957927l/13214._SY75_.jpg
+    title: 'I Know Why the Caged Bird Sings (Maya Angelou''s Autobiography, #1)'
+    title_without_series: I Know Why the Caged Bird Sings
+    uri: kca://book/amzn1.gr.book.v1.h26sSiMVH3aa6LCbU_MwhQ
+    work:
+      id: '1413589'
+  - authors:
+      author:
+        id: '3535'
+        link: https://www.goodreads.com/author/show/3535.William_Faulkner
+        name: William Faulkner
+    average_rating: '3.97'
+    id: '77013'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451810782l/77013._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/77013.As_I_Lay_Dying
+    num_pages: '288'
+    publication_day: '30'
+    publication_month: '1'
+    publication_year: '1991'
+    ratings_count: '463147'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451810782l/77013._SY75_.jpg
+    title: As I Lay Dying
+    title_without_series: As I Lay Dying
+    uri: kca://book/amzn1.gr.book.v1.b0WrRZuUizV6MEwXX00U-w
+    work:
+      id: '481854'
+  - authors:
+      author:
+        id: '6765'
+        link: https://www.goodreads.com/author/show/6765.Virginia_Woolf
+        name: Virginia Woolf
+    average_rating: '3.97'
+    id: '14942'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646148221l/14942._SX98_.jpg
+    isbn: 0151009988
+    isbn13: '9780151009985'
+    link: https://www.goodreads.com/book/show/14942.Mrs_Dalloway
+    num_pages: '194'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '463147'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646148221l/14942._SY75_.jpg
+    title: Mrs. Dalloway
+    title_without_series: Mrs. Dalloway
+    uri: kca://book/amzn1.gr.book.v1.bssBHqiBMY_8VI7m2Rdh-Q
+    work:
+      id: '841320'
+  - authors:
+      author:
+        id: '6765'
+        link: https://www.goodreads.com/author/show/6765.Virginia_Woolf
+        name: Virginia Woolf
+    average_rating: '3.97'
+    id: '59716'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639106809l/59716._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/59716.To_the_Lighthouse
+    num_pages: '209'
+    publication_day: '27'
+    publication_month: '12'
+    publication_year: '1989'
+    ratings_count: '463147'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639106809l/59716._SY75_.jpg
+    title: To the Lighthouse
+    title_without_series: To the Lighthouse
+    uri: kca://book/amzn1.gr.book.v1.fxA00lavC3qvsj8CY34h3w
+    work:
+      id: '1323448'
+  - authors:
+      author:
+        id: '10427'
+        link: https://www.goodreads.com/author/show/10427.James_Baldwin
+        name: James Baldwin
+    average_rating: '3.97'
+    id: '17143'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701361318l/17143._SX98_.jpg
+    isbn: 0141185910
+    isbn13: '9780141185910'
+    link: https://www.goodreads.com/book/show/17143.Go_Tell_It_on_the_Mountain
+    num_pages: '256'
+    publication_day: null
+    publication_month: null
+    publication_year: '2001'
+    ratings_count: '463147'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701361318l/17143._SX50_.jpg
+    title: Go Tell It on the Mountain
+    title_without_series: Go Tell It on the Mountain
+    uri: kca://book/amzn1.gr.book.v1.zLzPyQPy6r-8zJSEWSBwsg
+    work:
+      id: '1027995'
+  - authors:
+      author:
+        id: '5132'
+        link: https://www.goodreads.com/author/show/5132.Kate_Chopin
+        name: Kate Chopin
+    average_rating: '3.97'
+    id: '58345'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0543898083
+    isbn13: '9780543898081'
+    link: https://www.goodreads.com/book/show/58345.The_Awakening
+    num_pages: '195'
+    publication_day: null
+    publication_month: null
+    publication_year: '2006'
+    ratings_count: '463147'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Awakening
+    title_without_series: The Awakening
+    uri: kca://book/amzn1.gr.book.v1.cZuUUoV2R6K6mLQkjO2I0g
+    work:
+      id: '1970518'
+  - authors:
+      author:
+        id: '4379'
+        link: https://www.goodreads.com/author/show/4379.Sylvia_Plath
+        name: Sylvia Plath
+    average_rating: '3.97'
+    id: '56616095'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668645154l/56616095._SX98_.jpg
+    isbn: 0060837020
+    isbn13: '9780060837020'
+    link: https://www.goodreads.com/book/show/56616095-the-bell-jar
+    num_pages: '288'
+    publication_day: null
+    publication_month: null
+    publication_year: '2006'
+    ratings_count: '463147'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668645154l/56616095._SX50_.jpg
+    title: The Bell Jar
+    title_without_series: The Bell Jar
+    uri: kca://book/amzn1.gr.book.v3.cKGBgExqB_-TO1jd
+    work:
+      id: '1385044'
+  - authors:
+      author:
+        id: '11139'
+        link: https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley
+        name: Mary Wollstonecraft Shelley
+    average_rating: '3.97'
+    id: '35031085'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631088473l/35031085._SX98_.jpg
+    isbn: 0143131842
+    isbn13: '9780143131847'
+    link: https://www.goodreads.com/book/show/35031085-frankenstein
+    num_pages: '260'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '463147'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631088473l/35031085._SY75_.jpg
+    title: 'Frankenstein: The 1818 Text'
+    title_without_series: 'Frankenstein: The 1818 Text'
+    uri: kca://book/amzn1.gr.book.v1.21GvfWvotjWsRqb6TzH_Vw
+    work:
+      id: '4836639'
+  - authors:
+      author:
+        id: '3535'
+        link: https://www.goodreads.com/author/show/3535.William_Faulkner
+        name: William Faulkner
+    average_rating: '3.97'
+    id: '10975'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433089995l/10975._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/10975.The_Sound_and_the_Fury
+    num_pages: '366'
+    publication_day: null
+    publication_month: '10'
+    publication_year: '1990'
+    ratings_count: '463147'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433089995l/10975._SY75_.jpg
+    title: The Sound and the Fury
+    title_without_series: The Sound and the Fury
+    uri: kca://book/amzn1.gr.book.v1.CD6UR5AfXIPwMU3FO2_Tyw
+    work:
+      id: '1168289'
+  - authors:
+      author:
+        id: '10427'
+        link: https://www.goodreads.com/author/show/10427.James_Baldwin
+        name: James Baldwin
+    average_rating: '3.97'
+    id: '38463'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632433694l/38463._SX98_.jpg
+    isbn: 0307275930
+    isbn13: '9780307275936'
+    link: https://www.goodreads.com/book/show/38463.If_Beale_Street_Could_Talk
+    num_pages: '197'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '463147'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632433694l/38463._SY75_.jpg
+    title: If Beale Street Could Talk
+    title_without_series: If Beale Street Could Talk
+    uri: kca://book/amzn1.gr.book.v1.Sr4QNYapfnXZWourSBMVMg
+    work:
+      id: '1413005'
+  - authors:
+      author:
+        id: '10427'
+        link: https://www.goodreads.com/author/show/10427.James_Baldwin
+        name: James Baldwin
+    average_rating: '3.97'
+    id: '464260'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657560861l/464260._SX98_.jpg
+    isbn: 067974472X
+    isbn13: '9780679744726'
+    link: https://www.goodreads.com/book/show/464260.The_Fire_Next_Time
+    num_pages: '106'
+    publication_day: '1'
+    publication_month: '12'
+    publication_year: '1992'
+    ratings_count: '463147'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657560861l/464260._SY75_.jpg
+    title: The Fire Next Time
+    title_without_series: The Fire Next Time
+    uri: kca://book/amzn1.gr.book.v1.zv3K4IKiYhCu9hpyEYG-vg
+    work:
+      id: '1129041'
+  - authors:
+      author:
+        id: '15860970'
+        link: https://www.goodreads.com/author/show/15860970.Sally_Rooney
+        name: Sally Rooney
+    average_rating: '3.97'
+    id: '208931300'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716387455l/208931300._SX98_.jpg
+    isbn: 0374602638
+    isbn13: '9780374602635'
+    link: https://www.goodreads.com/book/show/208931300-intermezzo
+    num_pages: '454'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '463147'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716387455l/208931300._SY75_.jpg
+    title: Intermezzo
+    title_without_series: Intermezzo
+    uri: kca://book/amzn1.gr.book.v3.76uAiVKL5834lcUs
+    work:
+      id: '215458376'
+  - authors:
+      author:
+        id: '13450'
+        link: https://www.goodreads.com/author/show/13450.Gabriel_Garc_a_M_rquez
+        name: "Gabriel Garc\xEDa M\xE1rquez"
+    average_rating: '3.97'
+    id: '320'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327881361l/320._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude
+    num_pages: '417'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '463147'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327881361l/320._SX50_.jpg
+    title: One Hundred Years of Solitude
+    title_without_series: One Hundred Years of Solitude
+    uri: kca://book/amzn1.gr.book.v1.r6swEyDhH8LVQCr1Vbwwzg
+    work:
+      id: '3295655'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722944318l/6149._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '19693'
+  '@type': integer
+title: 'Beloved (Beloved Trilogy, #1)'
+title_without_series: Beloved
+uri: kca://book/amzn1.gr.book.v1.M99JF4nXdknWCuw9AO0mQA
+url: https://www.goodreads.com/book/show/6149.Beloved
+work:
+  id: '736076'
+  uri: kca://work/amzn1.gr.work.v1.FlEnWChbRmLfXODlaKjAXQ

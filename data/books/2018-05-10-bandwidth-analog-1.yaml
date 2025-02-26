@@ -1,0 +1,771 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.81'
+    id: '7932280'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1393984265p5/7932280.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/7932280.Eliot_Peper
+    name: Eliot Peper
+    ratings_count: '9319'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1393984265p2/7932280.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '994'
+average_rating: '3.61'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2018-05-10T00:00:00-07:00'
+description: "A rising star at a preeminent political lobbying firm, Dag Calhoun represents\
+  \ the world\u2019s most powerful technology and energy executives. But when a close\
+  \ brush with death reveals that the influence he wields makes him a target, impossible\
+  \ cracks appear in his perfect, richly appointed life.<br /><br />Like everyone\
+  \ else, Dag relies on his digital feed for everything\u2014a feed that is as personal\
+  \ as it is pervasive, and may not be as private as it seems. As he struggles to\
+  \ make sense of the dark forces closing in on him, he discovers that activists are\
+  \ hijacking the feed to manipulate markets and governments. Going public would destroy\
+  \ everything he\u2019s worked so hard to build, but it\u2019s not just Dag\u2019\
+  s life on the line\u2014a shadow war is coming, one that will secure humanity\u2019\
+  s future or doom the planet to climate catastrophe. Ultimately, Dag must decide\
+  \ the price he\u2019s willing to pay to change the world."
+edition_information: null
+format: null
+id: '36458711'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517333892l/36458711._SX98_.jpg
+is_ebook: 'true'
+isbn: '1612184529'
+isbn13: '9781612184524'
+json: '{"id": "36458711", "isbn": "1612184529", "isbn13": "9781612184524", "text_reviews_count":
+  {"@type": "integer", "#text": "294"}, "uri": "kca://book/amzn1.gr.book.v1.SCmXP9u3YcekdaIgM0Dong",
+  "title": "Bandwidth (Analog #1)", "title_without_series": "Bandwidth", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517333892l/36458711._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517333892l/36458711._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/36458711-bandwidth",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.61", "ratings_count": "4418", "description": "A rising star at a preeminent political
+  lobbying firm, Dag Calhoun represents the world\u2019s most powerful technology
+  and energy executives. But when a close brush with death reveals that the influence
+  he wields makes him a target, impossible cracks appear in his perfect, richly appointed
+  life.<br /><br />Like everyone else, Dag relies on his digital feed for everything\u2014a
+  feed that is as personal as it is pervasive, and may not be as private as it seems.
+  As he struggles to make sense of the dark forces closing in on him, he discovers
+  that activists are hijacking the feed to manipulate markets and governments. Going
+  public would destroy everything he\u2019s worked so hard to build, but it\u2019s
+  not just Dag\u2019s life on the line\u2014a shadow war is coming, one that will
+  secure humanity\u2019s future or doom the planet to climate catastrophe. Ultimately,
+  Dag must decide the price he\u2019s willing to pay to change the world.", "authors":
+  {"author": {"id": "7932280", "name": "Eliot Peper", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1393984265p5/7932280.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1393984265p2/7932280.jpg"},
+  "link": "https://www.goodreads.com/author/show/7932280.Eliot_Peper", "average_rating":
+  "3.81", "ratings_count": "9319", "text_reviews_count": "994"}}, "published": null,
+  "work": {"id": "57914174", "uri": "kca://work/amzn1.gr.work.v1.2g2zHolDtdRuTYz4q8l-mw"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/2379390883",
+  "read_at": "Thu May 10 00:00:00 -0700 2018", "started_at": "Tue May 01 00:00:00
+  -0700 2018", "date": "Thu May 10 00:00:00 -0700 2018"}'
+kindle_asin: B075CLV95J
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/36458711-bandwidth
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '4997'
+    '@name': to-read
+  - '@count': '4032'
+    '@name': currently-reading
+  - '@count': '106'
+    '@name': kindle
+  - '@count': '92'
+    '@name': fiction
+  - '@count': '89'
+    '@name': sci-fi
+  - '@count': '86'
+    '@name': science-fiction
+  - '@count': '49'
+    '@name': owned
+  - '@count': '31'
+    '@name': abandoned
+  - '@count': '25'
+    '@name': scifi
+  - '@count': '23'
+    '@name': thriller
+  - '@count': '18'
+    '@name': ebook
+  - '@count': '15'
+    '@name': did-not-finish
+  - '@count': '13'
+    '@name': amazon
+  - '@count': '13'
+    '@name': kindle-first
+  - '@count': '12'
+    '@name': dystopia
+  - '@count': '11'
+    '@name': dnf
+  - '@count': '11'
+    '@name': books-i-own
+  - '@count': '10'
+    '@name': kindle-unlimited
+  - '@count': '9'
+    '@name': audiobook
+  - '@count': '9'
+    '@name': cyberpunk
+  - '@count': '9'
+    '@name': e-book
+  - '@count': '9'
+    '@name': amazon-first-reads
+  - '@count': '9'
+    '@name': on-kindle
+  - '@count': '8'
+    '@name': series
+  - '@count': '8'
+    '@name': dystopian
+  - '@count': '8'
+    '@name': sci-fi-fantasy
+  - '@count': '7'
+    '@name': library
+  - '@count': '7'
+    '@name': audible
+  - '@count': '7'
+    '@name': unread
+  - '@count': '7'
+    '@name': sf
+  - '@count': '7'
+    '@name': kindle-books
+  - '@count': '7'
+    '@name': maybe
+  - '@count': '7'
+    '@name': own-kindle
+  - '@count': '6'
+    '@name': owned-books
+  - '@count': '6'
+    '@name': unfinished
+  - '@count': '6'
+    '@name': stopped-reading
+  - '@count': '6'
+    '@name': ebooks
+  - '@count': '6'
+    '@name': mystery
+  - '@count': '5'
+    '@name': owned-but-unread
+  - '@count': '5'
+    '@name': kindle-first-reads
+  - '@count': '5'
+    '@name': giveaways
+  - '@count': '5'
+    '@name': tbr
+  - '@count': '4'
+    '@name': dropped
+  - '@count': '4'
+    '@name': suspense
+  - '@count': '4'
+    '@name': digital
+  - '@count': '4'
+    '@name': first-reads
+  - '@count': '4'
+    '@name': on-hold
+  - '@count': '4'
+    '@name': gave-up
+  - '@count': '4'
+    '@name': read-in-2018
+  - '@count': '4'
+    '@name': audio
+  - '@count': '4'
+    '@name': thrillers
+  - '@count': '4'
+    '@name': read-2018
+  - '@count': '4'
+    '@name': e-books
+  - '@count': '4'
+    '@name': owned-kindle
+  - '@count': '4'
+    '@name': own-ebook
+  - '@count': '4'
+    '@name': amazon-first
+  - '@count': '3'
+    '@name': techno-thriller
+  - '@count': '3'
+    '@name': futuristic
+  - '@count': '3'
+    '@name': fantasy
+  - '@count': '3'
+    '@name': owned-unread
+  - '@count': '3'
+    '@name': novel
+  - '@count': '3'
+    '@name': next-up
+  - '@count': '3'
+    '@name': backlog
+  - '@count': '3'
+    '@name': mystery-thriller
+  - '@count': '3'
+    '@name': started
+  - '@count': '3'
+    '@name': science-fiction-fantasy
+  - '@count': '3'
+    '@name': hmm
+  - '@count': '3'
+    '@name': new-series
+  - '@count': '3'
+    '@name': 2018-reads
+  - '@count': '3'
+    '@name': didn-t-finish
+  - '@count': '3'
+    '@name': 2018-books
+  - '@count': '3'
+    '@name': owned-digital
+  - '@count': '3'
+    '@name': eliot-peper
+  - '@count': '3'
+    '@name': amazon-kindle
+  - '@count': '3'
+    '@name': to-read-own
+  - '@count': '3'
+    '@name': have
+  - '@count': '3'
+    '@name': scifi-fantasy
+  - '@count': '3'
+    '@name': books-i-own-kindle
+  - '@count': '3'
+    '@name': to-read-owned
+  - '@count': '3'
+    '@name': own-to-read
+  - '@count': '3'
+    '@name': kindle-tbr
+  - '@count': '3'
+    '@name': bought
+  - '@count': '3'
+    '@name': sff
+  - '@count': '2'
+    '@name': physical-tbr
+  - '@count': '2'
+    '@name': electronic
+  - '@count': '2'
+    '@name': speculative-fiction
+  - '@count': '2'
+    '@name': owned-ebook
+  - '@count': '2'
+    '@name': 2019-books
+  - '@count': '2'
+    '@name': adult
+  - '@count': '2'
+    '@name': no-thanks
+  - '@count': '2'
+    '@name': recommended
+  - '@count': '2'
+    '@name': seth-godin
+  - '@count': '2'
+    '@name': own-it
+  - '@count': '2'
+    '@name': technology
+  - '@count': '2'
+    '@name': shelved
+  - '@count': '2'
+    '@name': interested
+  - '@count': '2'
+    '@name': up-next
+  - '@count': '2'
+    '@name': near-future
+  - '@count': '2'
+    '@name': my-kindle-library
+  - '@count': '2'
+    '@name': owned-and-unread
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '4418'
+read_at: '2018-05-10T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/2379390883
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/36458711-bandwidth\"\
+  >Bandwidth Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1612184529&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/36458711-bandwidth?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '1221367'
+    series:
+      description: null
+      id: '232457'
+      note: null
+      numbered: 'true'
+      primary_work_count: '3'
+      series_works_count: '3'
+      title: Analog
+    user_position: '1'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '17248612'
+        link: https://www.goodreads.com/author/show/17248612.Eric_Bernt
+        name: Eric Bernt
+    average_rating: '3.61'
+    id: '38668459'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556721760l/38668459._SX98_.jpg
+    isbn: '1503959562'
+    isbn13: '9781503959569'
+    link: https://www.goodreads.com/book/show/38668459-the-sound-of-echoes
+    num_pages: '412'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4418'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556721760l/38668459._SY75_.jpg
+    title: 'The Sound of Echoes (Speed of Sound Thriller, #2)'
+    title_without_series: The Sound of Echoes
+    uri: kca://book/amzn1.gr.book.v1.m8vmKhgCIwY28tR9SkVV8A
+    work:
+      id: '60275457'
+  - authors:
+      author:
+        id: '2960227'
+        link: https://www.goodreads.com/author/show/2960227.Robin_Sloan
+        name: Robin Sloan
+    average_rating: '3.61'
+    id: '195790867'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1705515749l/195790867._SX98_.jpg
+    isbn: '0374610606'
+    isbn13: '9780374610609'
+    link: https://www.goodreads.com/book/show/195790867-moonbound
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4418'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1705515749l/195790867._SY75_.jpg
+    title: Moonbound
+    title_without_series: Moonbound
+    uri: kca://book/amzn1.gr.book.v3.gV6e1kcCqKVOajDM
+    work:
+      id: '197724652'
+  - authors:
+      author:
+        id: '23037086'
+        link: https://www.goodreads.com/author/show/23037086.Dwain_Worrell
+        name: Dwain Worrell
+    average_rating: '3.61'
+    id: '187959711'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714500086l/187959711._SX98_.jpg
+    isbn: 166251199X
+    isbn13: '9781662511998'
+    link: https://www.goodreads.com/book/show/187959711-alliance
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4418'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714500086l/187959711._SY75_.jpg
+    title: 'Alliance (Androne, #2)'
+    title_without_series: Alliance
+    uri: kca://book/amzn1.gr.book.v3.AoFPwG-cOghqRPYf
+    work:
+      id: '190958217'
+  - authors:
+      author:
+        id: '2941328'
+        link: https://www.goodreads.com/author/show/2941328.Brad_Parks
+        name: Brad Parks
+    average_rating: '3.61'
+    id: '50245253'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1542020360'
+    isbn13: '9781542020367'
+    link: https://www.goodreads.com/book/show/50245253-interference
+    num_pages: '397'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4418'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Interference
+    title_without_series: Interference
+    uri: kca://book/amzn1.gr.book.v3.XnkJKlANTHua5WB_
+    work:
+      id: '73898811'
+  - authors:
+      author:
+        id: '6606349'
+        link: https://www.goodreads.com/author/show/6606349.Marko_Kloos
+        name: Marko Kloos
+    average_rating: '3.61'
+    id: '125162502'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686036102l/125162502._SX98_.jpg
+    isbn: '1542035503'
+    isbn13: '9781542035507'
+    link: https://www.goodreads.com/book/show/125162502-scorpio
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4418'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686036102l/125162502._SY75_.jpg
+    title: 'Scorpio (Frontlines: Evolution, #1)'
+    title_without_series: Scorpio
+    uri: kca://book/amzn1.gr.book.v3.NkL7URm1R9JJgzR5
+    work:
+      id: '146603933'
+  - authors:
+      author:
+        id: '14122859'
+        link: https://www.goodreads.com/author/show/14122859.Michael_Arntfield
+        name: Michael Arntfield
+    average_rating: '3.61'
+    id: '34044062'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503334312l/34044062._SX98_.jpg
+    isbn: '1503997642'
+    isbn13: '9781503997646'
+    link: https://www.goodreads.com/book/show/34044062-mad-city
+    num_pages: '355'
+    publication_day: '1'
+    publication_month: '10'
+    publication_year: '2017'
+    ratings_count: '4418'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503334312l/34044062._SY75_.jpg
+    title: 'Mad City: The True Story of the Campus Murders That America Forgot'
+    title_without_series: 'Mad City: The True Story of the Campus Murders That America
+      Forgot'
+    uri: kca://book/amzn1.gr.book.v1.nRd0CUdrf0N7A_0kvQIOXQ
+    work:
+      id: '55050545'
+  - authors:
+      author:
+        id: '6584659'
+        link: https://www.goodreads.com/author/show/6584659.Scott_J_Holliday
+        name: Scott J. Holliday
+    average_rating: '3.61'
+    id: '35601835'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532012311l/35601835._SX98_.jpg
+    isbn: '1542097444'
+    isbn13: '9781542097444'
+    link: https://www.goodreads.com/book/show/35601835-punishment
+    num_pages: '235'
+    publication_day: '1'
+    publication_month: '2'
+    publication_year: '2018'
+    ratings_count: '4418'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532012311l/35601835._SY75_.jpg
+    title: 'Punishment (Detective Barnes, #1)'
+    title_without_series: Punishment
+    uri: kca://book/amzn1.gr.book.v1.1qat75IjodNWTv309qdgeA
+    work:
+      id: '56953455'
+  - authors:
+      author:
+        id: '38652'
+        link: https://www.goodreads.com/author/show/38652.Marcus_Sakey
+        name: Marcus Sakey
+    average_rating: '3.61'
+    id: '33816696'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492464167l/33816696._SX98_.jpg
+    isbn: 147782071X
+    isbn13: '9781477820711'
+    link: https://www.goodreads.com/book/show/33816696-afterlife
+    num_pages: null
+    publication_day: '18'
+    publication_month: '7'
+    publication_year: '2017'
+    ratings_count: '4418'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492464167l/33816696._SY75_.jpg
+    title: Afterlife
+    title_without_series: Afterlife
+    uri: kca://book/amzn1.gr.book.v1.OxbyWAKKlgXPyYK8vvveog
+    work:
+      id: '54731467'
+  - authors:
+      author:
+        id: '14220734'
+        link: https://www.goodreads.com/author/show/14220734.Malka_Ann_Older
+        name: Malka Ann Older
+    average_rating: '3.61'
+    id: '26114433'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444883445l/26114433._SX98_.jpg
+    isbn: 0765385155
+    isbn13: '9780765385154'
+    link: https://www.goodreads.com/book/show/26114433-infomocracy
+    num_pages: '380'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4418'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444883445l/26114433._SY75_.jpg
+    title: 'Infomocracy (The Centenal Cycle, #1)'
+    title_without_series: Infomocracy
+    uri: kca://book/amzn1.gr.book.v1.y5BoaKnYgKKEOedEKkskiw
+    work:
+      id: '46061300'
+  - authors:
+      author:
+        id: '4763'
+        link: https://www.goodreads.com/author/show/4763.John_Scalzi
+        name: John Scalzi
+    average_rating: '3.61'
+    id: '9647532'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316132345l/9647532._SX98_.jpg
+    isbn: 0765328542
+    isbn13: '9780765328540'
+    link: https://www.goodreads.com/book/show/9647532-fuzzy-nation
+    num_pages: '303'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4418'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316132345l/9647532._SX50_.jpg
+    title: 'Fuzzy Nation (Fuzzy Sapiens, #7)'
+    title_without_series: Fuzzy Nation
+    uri: kca://book/amzn1.gr.book.v1.W95cbVBdSto0vmHBZ9yMmg
+    work:
+      id: '18280046'
+  - authors:
+      author:
+        id: '67202'
+        link: https://www.goodreads.com/author/show/67202.Lee_Goldberg
+        name: Lee Goldberg
+    average_rating: '3.61'
+    id: '35920726'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509758816l/35920726._SX98_.jpg
+    isbn: '1503952347'
+    isbn13: '9781503952348'
+    link: https://www.goodreads.com/book/show/35920726-true-fiction
+    num_pages: '248'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4418'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509758816l/35920726._SY75_.jpg
+    title: 'True Fiction (Ian Ludlow Thrillers #1)'
+    title_without_series: True Fiction
+    uri: kca://book/amzn1.gr.book.v1.9dkSAn-WSgQoORTx9M0_0A
+    work:
+      id: '57452700'
+  - authors:
+      author:
+        id: '107130'
+        link: https://www.goodreads.com/author/show/107130.William_Strauss
+        name: William Strauss
+    average_rating: '3.61'
+    id: '670089'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685651696l/670089._SX98_.jpg
+    isbn: 0767900464
+    isbn13: '9780767900461'
+    link: https://www.goodreads.com/book/show/670089.The_Fourth_Turning
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4418'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685651696l/670089._SY75_.jpg
+    title: "The Fourth Turning: An American Prophecy\u2014What the Cycles of History\
+      \ Tell Us About America's Next Rendezvous with Destiny"
+    title_without_series: "The Fourth Turning: An American Prophecy\u2014What the\
+      \ Cycles of History Tell Us About America's Next Rendezvous with Destiny"
+    uri: kca://book/amzn1.gr.book.v1.DG1dVy4OqTkesSpHdk0KfA
+    work:
+      id: '1046906'
+  - authors:
+      author:
+        id: '9824948'
+        link: https://www.goodreads.com/author/show/9824948.Andy_Abramowitz
+        name: Andy Abramowitz
+    average_rating: '3.61'
+    id: '45724169'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1542014670'
+    isbn13: '9781542014670'
+    link: https://www.goodreads.com/book/show/45724169-a-beginner-s-guide-to-free-fall
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4418'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: A Beginner's Guide to Free Fall
+    title_without_series: A Beginner's Guide to Free Fall
+    uri: kca://book/amzn1.gr.book.v1.zkp90X-q5icEY42eUQVvTw
+    work:
+      id: '69279546'
+  - authors:
+      author:
+        id: '7801879'
+        link: https://www.goodreads.com/author/show/7801879.Charlie_N_Holmberg
+        name: Charlie N. Holmberg
+    average_rating: '3.61'
+    id: '49338237'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585592693l/49338237._SX98_.jpg
+    isbn: '1542020107'
+    isbn13: '9781542020107'
+    link: https://www.goodreads.com/book/show/49338237-spellbreaker
+    num_pages: '305'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4418'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585592693l/49338237._SY75_.jpg
+    title: 'Spellbreaker (Spellbreaker Duology, #1)'
+    title_without_series: Spellbreaker
+    uri: kca://book/amzn1.gr.book.v3.ZZ_4L0Chl-FwhyC7
+    work:
+      id: '72395101'
+  - authors:
+      author:
+        id: '545'
+        link: https://www.goodreads.com/author/show/545.Neal_Stephenson
+        name: Neal Stephenson
+    average_rating: '3.61'
+    id: '199793426'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714031079l/199793426._SX98_.jpg
+    isbn: 0062334492
+    isbn13: '9780062334497'
+    link: https://www.goodreads.com/book/show/199793426-polostan
+    num_pages: '303'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4418'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714031079l/199793426._SY75_.jpg
+    title: 'Polostan (Bomb Light, #1)'
+    title_without_series: Polostan
+    uri: kca://book/amzn1.gr.book.v3.8CLQbGH4z-T5lvaG
+    work:
+      id: '73605495'
+  - authors:
+      author:
+        id: '3365457'
+        link: https://www.goodreads.com/author/show/3365457.Ann_Leckie
+        name: Ann Leckie
+    average_rating: '3.61'
+    id: '151908306'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687901166l/151908306._SX98_.jpg
+    isbn: '1662515677'
+    isbn13: '9781662515675'
+    link: https://www.goodreads.com/book/show/151908306-the-long-game
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4418'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687901166l/151908306._SY75_.jpg
+    title: 'The Long Game (The Far Reaches, #4)'
+    title_without_series: The Long Game
+    uri: kca://book/amzn1.gr.book.v3.VNHYXEBPrLtA_302
+    work:
+      id: '166693246'
+  - authors:
+      author:
+        id: '5827494'
+        link: https://www.goodreads.com/author/show/5827494.David_K_Randall
+        name: David K. Randall
+    average_rating: '3.61'
+    id: '58085265'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648263089l/58085265._SX98_.jpg
+    isbn: '1324006536'
+    isbn13: '9781324006534'
+    link: https://www.goodreads.com/book/show/58085265-the-monster-s-bones
+    num_pages: null
+    publication_day: '7'
+    publication_month: '6'
+    publication_year: '2022'
+    ratings_count: '4418'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648263089l/58085265._SY75_.jpg
+    title: 'The Monster''s Bones: The Discovery of T. Rex and How It Shook Our World'
+    title_without_series: 'The Monster''s Bones: The Discovery of T. Rex and How It
+      Shook Our World'
+    uri: kca://book/amzn1.gr.book.v3.brOLq7cCo-O5gXMn
+    work:
+      id: '71638267'
+  - authors:
+      author:
+        id: '8347'
+        link: https://www.goodreads.com/author/show/8347.Garth_Nix
+        name: Garth Nix
+    average_rating: '3.61'
+    id: '61484969'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658336090l/61484969._SX98_.jpg
+    isbn: '1250867533'
+    isbn13: '9781250867537'
+    link: https://www.goodreads.com/book/show/61484969-the-sisters-of-saint-nicola-of-the-almost-perpetual-motion-vs-the-lurch
+    num_pages: '34'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '4418'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658336090l/61484969._SY75_.jpg
+    title: The Sisters of Saint Nicola of The Almost Perpetual Motion vs the Lurch
+    title_without_series: The Sisters of Saint Nicola of The Almost Perpetual Motion
+      vs the Lurch
+    uri: kca://book/amzn1.gr.book.v3.oxBcSk2UErPPZOtp
+    work:
+      id: '97070422'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517333892l/36458711._SY75_.jpg
+started_at: '2018-05-01T00:00:00-07:00'
+text_reviews_count:
+  '#text': '294'
+  '@type': integer
+title: 'Bandwidth (Analog #1)'
+title_without_series: Bandwidth
+uri: kca://book/amzn1.gr.book.v1.SCmXP9u3YcekdaIgM0Dong
+url: https://www.goodreads.com/book/show/36458711-bandwidth
+work:
+  id: '57914174'
+  uri: kca://work/amzn1.gr.work.v1.2g2zHolDtdRuTYz4q8l-mw

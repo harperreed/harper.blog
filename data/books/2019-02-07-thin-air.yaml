@@ -1,0 +1,745 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.97'
+    id: '16496'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1175224722p5/16496.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/16496.Richard_K_Morgan
+    name: Richard K. Morgan
+    ratings_count: '243705'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1175224722p2/16496.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '15099'
+average_rating: '4.04'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2019-02-07T00:00:00-08:00'
+description: An atmospheric tale of corruption and abduction set on Mars, from the
+  author of the award-winning science fiction novel Altered Carbon, now an exciting
+  new series from Netflix.<br /><br />An ex-corporate enforcer, Hakan Veil, is forced
+  to bodyguard Madison Jegede, part of a colonial audit team investigating a disappeared
+  lottery winner on Mars. But when Jegede is abducted, and Hakan nearly killed, the
+  investigation takes him farther and deeper than he had ever expected. And soon Hakan
+  discovers the heavy price he may have to pay to learn the truth.
+edition_information: null
+format: Kindle Edition
+id: '35603348'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533085751l/35603348._SX98_.jpg
+is_ebook: 'true'
+isbn: 110188536X
+isbn13: '9781101885369'
+json: '{"id": "35603348", "isbn": "110188536X", "isbn13": "9781101885369", "text_reviews_count":
+  {"@type": "integer", "#text": "79"}, "uri": "kca://book/amzn1.gr.book.v1.8CfIwUlC0Fr8G5P1-cRKrw",
+  "title": "Thin Air", "title_without_series": "Thin Air", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533085751l/35603348._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533085751l/35603348._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/35603348-thin-air",
+  "num_pages": "400", "format": "Kindle Edition", "edition_information": null, "publisher":
+  null, "publication_day": "23", "publication_year": "2018", "publication_month":
+  "10", "average_rating": "4.04", "ratings_count": "6181", "description": "An atmospheric
+  tale of corruption and abduction set on Mars, from the author of the award-winning
+  science fiction novel Altered Carbon, now an exciting new series from Netflix.<br
+  /><br />An ex-corporate enforcer, Hakan Veil, is forced to bodyguard Madison Jegede,
+  part of a colonial audit team investigating a disappeared lottery winner on Mars.
+  But when Jegede is abducted, and Hakan nearly killed, the investigation takes him
+  farther and deeper than he had ever expected. And soon Hakan discovers the heavy
+  price he may have to pay to learn the truth.", "authors": {"author": {"id": "16496",
+  "name": "Richard K. Morgan", "role": null, "image_url": {"@nophoto": "false", "#text":
+  "https://images.gr-assets.com/authors/1175224722p5/16496.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1175224722p2/16496.jpg"},
+  "link": "https://www.goodreads.com/author/show/16496.Richard_K_Morgan", "average_rating":
+  "3.97", "ratings_count": "243705", "text_reviews_count": "15099"}}, "published":
+  "2018", "work": {"id": "45698076", "uri": "kca://work/amzn1.gr.work.v1.yOyIXy187Kg-U-70bXZH4A"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/2685687595",
+  "read_at": "Thu Feb 07 00:00:00 -0800 2019", "started_at": "Tue Jan 22 00:00:00
+  -0800 2019", "date": "Thu Feb 07 00:00:00 -0800 2019"}'
+kindle_asin: B0738K33YC
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/35603348-thin-air
+marketplace_id: ATVPDKIKX0DER
+num_pages: '400'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '6967'
+    '@name': to-read
+  - '@count': '934'
+    '@name': currently-reading
+  - '@count': '257'
+    '@name': science-fiction
+  - '@count': '191'
+    '@name': sci-fi
+  - '@count': '71'
+    '@name': cyberpunk
+  - '@count': '66'
+    '@name': scifi
+  - '@count': '65'
+    '@name': fiction
+  - '@count': '43'
+    '@name': owned
+  - '@count': '35'
+    '@name': audiobook
+  - '@count': '34'
+    '@name': sf
+  - '@count': '21'
+    '@name': mystery
+  - '@count': '21'
+    '@name': thriller
+  - '@count': '17'
+    '@name': favorites
+  - '@count': '17'
+    '@name': kindle
+  - '@count': '16'
+    '@name': audible
+  - '@count': '15'
+    '@name': noir
+  - '@count': '14'
+    '@name': abandoned
+  - '@count': '13'
+    '@name': ebook
+  - '@count': '12'
+    '@name': library
+  - '@count': '10'
+    '@name': audiobooks
+  - '@count': '9'
+    '@name': dnf
+  - '@count': '9'
+    '@name': dystopian
+  - '@count': '9'
+    '@name': adventure
+  - '@count': '8'
+    '@name': audio
+  - '@count': '8'
+    '@name': dystopia
+  - '@count': '8'
+    '@name': crime
+  - '@count': '8'
+    '@name': sci-fi-fantasy
+  - '@count': '8'
+    '@name': to-buy
+  - '@count': '7'
+    '@name': mars
+  - '@count': '7'
+    '@name': netgalley
+  - '@count': '6'
+    '@name': books-i-own
+  - '@count': '6'
+    '@name': detective
+  - '@count': '6'
+    '@name': mystery-thriller
+  - '@count': '6'
+    '@name': scribd
+  - '@count': '6'
+    '@name': wish-list
+  - '@count': '6'
+    '@name': sff
+  - '@count': '5'
+    '@name': did-not-finish
+  - '@count': '5'
+    '@name': read-2018
+  - '@count': '5'
+    '@name': e-book
+  - '@count': '5'
+    '@name': tbr
+  - '@count': '5'
+    '@name': speculative-fiction
+  - '@count': '5'
+    '@name': giveaways
+  - '@count': '4'
+    '@name': owned-books
+  - '@count': '4'
+    '@name': owned-but-not-read
+  - '@count': '4'
+    '@name': action
+  - '@count': '4'
+    '@name': read-2019
+  - '@count': '4'
+    '@name': 2019-reads
+  - '@count': '4'
+    '@name': military
+  - '@count': '4'
+    '@name': sf-fantasy
+  - '@count': '4'
+    '@name': not-interested
+  - '@count': '4'
+    '@name': novels
+  - '@count': '4'
+    '@name': scifi-fantasy
+  - '@count': '4'
+    '@name': ebooks
+  - '@count': '3'
+    '@name': future
+  - '@count': '3'
+    '@name': my-books
+  - '@count': '3'
+    '@name': fantasy
+  - '@count': '3'
+    '@name': genre-scifi
+  - '@count': '3'
+    '@name': my-library
+  - '@count': '3'
+    '@name': want-to-buy
+  - '@count': '3'
+    '@name': want-to-read-scifi
+  - '@count': '3'
+    '@name': sci-fi-read
+  - '@count': '3'
+    '@name': on-the-shelf
+  - '@count': '3'
+    '@name': on-kindle
+  - '@count': '3'
+    '@name': read-in-2020
+  - '@count': '3'
+    '@name': e-books
+  - '@count': '3'
+    '@name': richard-morgan
+  - '@count': '3'
+    '@name': ai
+  - '@count': '3'
+    '@name': fiction-to-read
+  - '@count': '3'
+    '@name': physical-tbr
+  - '@count': '3'
+    '@name': review-copies
+  - '@count': '3'
+    '@name': tbr-sci-fi
+  - '@count': '3'
+    '@name': novel
+  - '@count': '3'
+    '@name': richard-k-morgan
+  - '@count': '3'
+    '@name': available
+  - '@count': '3'
+    '@name': digital
+  - '@count': '3'
+    '@name': next
+  - '@count': '3'
+    '@name': audio-book
+  - '@count': '3'
+    '@name': have
+  - '@count': '3'
+    '@name': hardcover
+  - '@count': '3'
+    '@name': morgan-richard-k
+  - '@count': '3'
+    '@name': space-opera
+  - '@count': '3'
+    '@name': to-listen
+  - '@count': '3'
+    '@name': read-in-2018
+  - '@count': '3'
+    '@name': signed
+  - '@count': '3'
+    '@name': bought
+  - '@count': '3'
+    '@name': fantasy-sci-fi
+  - '@count': '3'
+    '@name': sci-fi-cyberpunk
+  - '@count': '3'
+    '@name': want
+  - '@count': '3'
+    '@name': maybe
+  - '@count': '2'
+    '@name': 2025-tbr
+  - '@count': '2'
+    '@name': owned-want-to-read
+  - '@count': '2'
+    '@name': science-fiction-fantasy
+  - '@count': '2'
+    '@name': libby
+  - '@count': '2'
+    '@name': mystery-thriller-and-suspense
+  - '@count': '2'
+    '@name': crime-fiction
+  - '@count': '2'
+    '@name': my-bookshelf
+  - '@count': '2'
+    '@name': standalones
+  - '@count': '2'
+    '@name': own-to-read
+  - '@count': '2'
+    '@name': science-fiction-and-fantasy
+  - '@count': '2'
+    '@name': grimdark
+publication_day: '23'
+publication_month: '10'
+publication_year: '2018'
+published: '2018'
+publisher: null
+ratings_count: '6181'
+read_at: '2019-02-07T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/2685687595
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/35603348-thin-air\"\
+  >Thin Air Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=110188536X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/35603348-thin-air?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '1100593'
+        link: https://www.goodreads.com/author/show/1100593.Nick_Harkaway
+        name: Nick Harkaway
+    average_rating: '4.04'
+    id: '62052321'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675644837l/62052321._SX98_.jpg
+    isbn: 0593535367
+    isbn13: '9780593535363'
+    link: https://www.goodreads.com/book/show/62052321-titanium-noir
+    num_pages: '236'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6181'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675644837l/62052321._SX50_.jpg
+    title: 'Titanium Noir (Titanium Noir #1)'
+    title_without_series: Titanium Noir
+    uri: kca://book/amzn1.gr.book.v3.n0G_y-aDKP9uxu5e
+    work:
+      id: '92787113'
+  - authors:
+      author:
+        id: '51204'
+        link: https://www.goodreads.com/author/show/51204.Alastair_Reynolds
+        name: Alastair Reynolds
+    average_rating: '4.04'
+    id: '75593499'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675082567l/75593499._SX98_.jpg
+    isbn: 0316462845
+    isbn13: '9780316462846'
+    link: https://www.goodreads.com/book/show/75593499-machine-vendetta
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6181'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675082567l/75593499._SY75_.jpg
+    title: 'Machine Vendetta (Prefect Dreyfus Emergency #3)'
+    title_without_series: Machine Vendetta
+    uri: kca://book/amzn1.gr.book.v3.YVE16ro2h-cBRWsy
+    work:
+      id: '99755612'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.04'
+    id: '210384894'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711449617l/210384894._SX98_.jpg
+    isbn: '1035901528'
+    isbn13: '9781035901524'
+    link: https://www.goodreads.com/book/show/210384894-days-of-shattered-faith
+    num_pages: '512'
+    publication_day: '5'
+    publication_month: '12'
+    publication_year: '2024'
+    ratings_count: '6181'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711449617l/210384894._SY75_.jpg
+    title: 'Days of Shattered Faith (The Tyrant Philosophers, #3)'
+    title_without_series: Days of Shattered Faith
+    uri: kca://book/amzn1.gr.book.v3.NsxlUQ-dBw9Vq_Ea
+    work:
+      id: '216604339'
+  - authors:
+      author:
+        id: '7826255'
+        link: https://www.goodreads.com/author/show/7826255.T_R_Napper
+        name: T.R. Napper
+    average_rating: '4.04'
+    id: '60493708'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/60493708-36-streets
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6181'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 36 Streets
+    title_without_series: 36 Streets
+    uri: kca://book/amzn1.gr.book.v3.pqMYfVzyJooQNGyc
+    work:
+      id: '93628568'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.04'
+    id: '52758714'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1781088489'
+    isbn13: '9781781088487'
+    link: https://www.goodreads.com/book/show/52758714-firewalkers
+    num_pages: '184'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6181'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Firewalkers
+    title_without_series: Firewalkers
+    uri: kca://book/amzn1.gr.book.v3.IGtpDPNtqnZY3dsJ
+    work:
+      id: '73727308'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.04'
+    id: '201930181'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SX98_.jpg
+    isbn: 031652557X
+    isbn13: '9780316525572'
+    link: https://www.goodreads.com/book/show/201930181-the-mercy-of-gods
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6181'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SY75_.jpg
+    title: "The Mercy of Gods (The Captive\u2019s War, #1)"
+    title_without_series: The Mercy of Gods
+    uri: kca://book/amzn1.gr.book.v3.nndIiP3mF2vHLfgz
+    work:
+      id: '95320019'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.04'
+    id: '195443798'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SX98_.jpg
+    isbn: '1035013770'
+    isbn13: '9781035013777'
+    link: https://www.goodreads.com/book/show/195443798-alien-clay
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6181'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SY75_.jpg
+    title: Alien Clay
+    title_without_series: Alien Clay
+    uri: kca://book/amzn1.gr.book.v3.U07jHOWpgU_-RRTg
+    work:
+      id: '197089092'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.04'
+    id: '34466691'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499862212l/34466691._SX98_.jpg
+    isbn: '1781085684'
+    isbn13: '9781781085684'
+    link: https://www.goodreads.com/book/show/34466691-ironclads
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6181'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499862212l/34466691._SY75_.jpg
+    title: Ironclads
+    title_without_series: Ironclads
+    uri: kca://book/amzn1.gr.book.v1.0gExKLhL6zWz7HL4XT0Taw
+    work:
+      id: '55586798'
+  - authors:
+      author:
+        id: '48960'
+        link: https://www.goodreads.com/author/show/48960.Walter_Jon_Williams
+        name: Walter Jon Williams
+    average_rating: '4.04'
+    id: '304761'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317581332l/304761._SX98_.jpg
+    isbn: '1597800627'
+    isbn13: '9781597800624'
+    link: https://www.goodreads.com/book/show/304761.Hardwired
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6181'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317581332l/304761._SY75_.jpg
+    title: 'Hardwired (Hardwired, #1)'
+    title_without_series: Hardwired
+    uri: kca://book/amzn1.gr.book.v1.o7t70bvlowQ3EUtoqn8Bhg
+    work:
+      id: '2253019'
+  - authors:
+      author:
+        id: '545'
+        link: https://www.goodreads.com/author/show/545.Neal_Stephenson
+        name: Neal Stephenson
+    average_rating: '4.04'
+    id: '199793426'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714031079l/199793426._SX98_.jpg
+    isbn: 0062334492
+    isbn13: '9780062334497'
+    link: https://www.goodreads.com/book/show/199793426-polostan
+    num_pages: '303'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6181'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714031079l/199793426._SY75_.jpg
+    title: 'Polostan (Bomb Light, #1)'
+    title_without_series: Polostan
+    uri: kca://book/amzn1.gr.book.v3.8CLQbGH4z-T5lvaG
+    work:
+      id: '73605495'
+  - authors:
+      author:
+        id: '27167'
+        link: https://www.goodreads.com/author/show/27167.Peter_Watts
+        name: Peter Watts
+    average_rating: '4.04'
+    id: '48484'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0765312182
+    isbn13: '9780765312181'
+    link: https://www.goodreads.com/book/show/48484.Blindsight
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6181'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Blindsight (Firefall, #1)'
+    title_without_series: Blindsight
+    uri: kca://book/amzn1.gr.book.v1.A4CNk2qG0qxshK4OKH9lJQ
+    work:
+      id: '223813791'
+  - authors:
+      author:
+        id: '56353'
+        link: https://www.goodreads.com/author/show/56353.Neal_Asher
+        name: Neal Asher
+    average_rating: '4.04'
+    id: '98046'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0765349051
+    isbn13: '9780765349057'
+    link: https://www.goodreads.com/book/show/98046.Gridlinked
+    num_pages: '423'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6181'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Gridlinked (Agent Cormac #1, Polity Universe #3)'
+    title_without_series: Gridlinked
+    uri: kca://book/amzn1.gr.book.v1.kyJeEg3zhKmQBDBXYY-x-Q
+    work:
+      id: '1487886'
+  - authors:
+      author:
+        id: '5807106'
+        link: https://www.goodreads.com/author/show/5807106.Iain_M_Banks
+        name: Iain M. Banks
+    average_rating: '4.04'
+    id: '12009'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1597800449'
+    isbn13: '9781597800440'
+    link: https://www.goodreads.com/book/show/12009.The_Algebraist
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6181'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Algebraist
+    title_without_series: The Algebraist
+    uri: kca://book/amzn1.gr.book.v1.ttxl_zPQCRycpNOsr4Fd6A
+    work:
+      id: '2465248'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.04'
+    id: '215760525'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724079438l/215760525._SX98_.jpg
+    isbn: 0316575348
+    isbn13: '9780316575348'
+    link: https://www.goodreads.com/book/show/215760525-livesuit
+    num_pages: '90'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6181'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724079438l/215760525._SY75_.jpg
+    title: "Livesuit (The Captive\u2019s War #1.5)"
+    title_without_series: Livesuit
+    uri: kca://book/amzn1.gr.book.v3.Rr7d-BxEjSsqm-t3
+    work:
+      id: '222176366'
+  - authors:
+      author:
+        id: '56353'
+        link: https://www.goodreads.com/author/show/56353.Neal_Asher
+        name: Neal Asher
+    average_rating: '4.04'
+    id: '25898503'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443292226l/25898503._SX98_.jpg
+    isbn: '1597808342'
+    isbn13: '9781597808347'
+    link: https://www.goodreads.com/book/show/25898503-war-factory
+    num_pages: '454'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6181'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443292226l/25898503._SY75_.jpg
+    title: 'War Factory (Transformation #2)'
+    title_without_series: War Factory
+    uri: kca://book/amzn1.gr.book.v1.bp5RCnbW4ftbT_VcOXK0TQ
+    work:
+      id: '45781361'
+  - authors:
+      author:
+        id: '76471'
+        link: https://www.goodreads.com/author/show/76471.George_Alec_Effinger
+        name: George Alec Effinger
+    average_rating: '4.04'
+    id: '132694'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316729685l/132694._SX98_.jpg
+    isbn: 0765313588
+    isbn13: '9780765313584'
+    link: https://www.goodreads.com/book/show/132694.When_Gravity_Fails
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6181'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316729685l/132694._SX50_.jpg
+    title: "When Gravity Fails (Mar\xEEd Audran, #1)"
+    title_without_series: When Gravity Fails
+    uri: kca://book/amzn1.gr.book.v1.Pgv-Vzivg4poSQOOs3d4iA
+    work:
+      id: '127822'
+  - authors:
+      author:
+        id: '5807106'
+        link: https://www.goodreads.com/author/show/5807106.Iain_M_Banks
+        name: Iain M. Banks
+    average_rating: '4.04'
+    id: '7937744'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287893375l/7937744._SX98_.jpg
+    isbn: '0316123404'
+    isbn13: '9780316123402'
+    link: https://www.goodreads.com/book/show/7937744-surface-detail
+    num_pages: '627'
+    publication_day: '28'
+    publication_month: '10'
+    publication_year: '2010'
+    ratings_count: '6181'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287893375l/7937744._SY75_.jpg
+    title: 'Surface Detail (Culture, #9)'
+    title_without_series: Surface Detail
+    uri: kca://book/amzn1.gr.book.v1.N1WHHPLxF_ViL0wpNmiXlg
+    work:
+      id: '11345814'
+  - authors:
+      author:
+        id: '27167'
+        link: https://www.goodreads.com/author/show/27167.Peter_Watts
+        name: Peter Watts
+    average_rating: '4.04'
+    id: '18490708'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380224957l/18490708._SX98_.jpg
+    isbn: 076532802X
+    isbn13: '9780765328021'
+    link: https://www.goodreads.com/book/show/18490708-echopraxia
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6181'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380224957l/18490708._SX50_.jpg
+    title: 'Echopraxia (Firefall, #2)'
+    title_without_series: Echopraxia
+    uri: kca://book/amzn1.gr.book.v1.eGVfURdhlrI02un7zjZ1Vg
+    work:
+      id: '26174428'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533085751l/35603348._SY75_.jpg
+started_at: '2019-01-22T00:00:00-08:00'
+text_reviews_count:
+  '#text': '79'
+  '@type': integer
+title: Thin Air
+title_without_series: Thin Air
+uri: kca://book/amzn1.gr.book.v1.8CfIwUlC0Fr8G5P1-cRKrw
+url: https://www.goodreads.com/book/show/35603348-thin-air
+work:
+  id: '45698076'
+  uri: kca://work/amzn1.gr.work.v1.yOyIXy187Kg-U-70bXZH4A

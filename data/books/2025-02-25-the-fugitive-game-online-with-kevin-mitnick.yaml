@@ -1,0 +1,538 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.95'
+    id: '10955'
+    image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+      '@nophoto': 'true'
+    link: https://www.goodreads.com/author/show/10955.Jonathan_Littman
+    name: Jonathan Littman
+    ratings_count: '13407'
+    role: null
+    small_image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png
+      '@nophoto': 'true'
+    text_reviews_count: '423'
+average_rating: '3.83'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: null
+edition_information: '1'
+format: null
+id: '1121524'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: 0316528587
+isbn13: '9780316528580'
+json: '{"id": "1121524", "isbn": "0316528587", "isbn13": "9780316528580", "text_reviews_count":
+  {"@type": "integer", "#text": "4"}, "uri": "kca://book/amzn1.gr.book.v1.0te6bfB-bgm6NZ9YK8uG_A",
+  "title": "The Fugitive Game: Online With Kevin Mitnick", "title_without_series":
+  "The Fugitive Game: Online With Kevin Mitnick", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/1121524.The_Fugitive_Game",
+  "num_pages": "383", "format": null, "edition_information": "1", "publisher": "Little,
+  Brown & Co (T)", "publication_day": null, "publication_year": null, "publication_month":
+  null, "average_rating": "3.83", "ratings_count": "439", "description": null, "authors":
+  {"author": {"id": "10955", "name": "Jonathan Littman", "role": null, "image_url":
+  {"@nophoto": "true", "#text": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"},
+  "small_image_url": {"@nophoto": "true", "#text": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"},
+  "link": "https://www.goodreads.com/author/show/10955.Jonathan_Littman", "average_rating":
+  "3.95", "ratings_count": "13407", "text_reviews_count": "423"}}, "published": null,
+  "work": {"id": "19619", "uri": "kca://work/amzn1.gr.work.v1._9S9lTcXsDCzAsn2w2kqSg"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417582",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B0BJ7W8CW7
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/1121524.The_Fugitive_Game
+marketplace_id: ATVPDKIKX0DER
+num_pages: '383'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '619'
+    '@name': to-read
+  - '@count': '22'
+    '@name': non-fiction
+  - '@count': '13'
+    '@name': nonfiction
+  - '@count': '11'
+    '@name': technology
+  - '@count': '9'
+    '@name': biography
+  - '@count': '6'
+    '@name': infosec
+  - '@count': '6'
+    '@name': default
+  - '@count': '6'
+    '@name': computers
+  - '@count': '6'
+    '@name': currently-reading
+  - '@count': '5'
+    '@name': history
+  - '@count': '4'
+    '@name': crime
+  - '@count': '4'
+    '@name': hacking
+  - '@count': '4'
+    '@name': tech
+  - '@count': '3'
+    '@name': cybersecurity
+  - '@count': '3'
+    '@name': true-crime
+  - '@count': '3'
+    '@name': owned
+  - '@count': '3'
+    '@name': programming
+  - '@count': '3'
+    '@name': computer
+  - '@count': '3'
+    '@name': books-i-own
+  - '@count': '2'
+    '@name': biography-autobiography
+  - '@count': '2'
+    '@name': cybercrime
+  - '@count': '2'
+    '@name': social-engineering
+  - '@count': '2'
+    '@name': computer-security
+  - '@count': '2'
+    '@name': it
+  - '@count': '2'
+    '@name': to-buy
+  - '@count': '2'
+    '@name': culture
+  - '@count': '2'
+    '@name': memoir
+  - '@count': '1'
+    '@name': paper-copy
+  - '@count': '1'
+    '@name': tbr
+  - '@count': '1'
+    '@name': "ac\xE9phyle"
+  - '@count': '1'
+    '@name': could-not-finish
+  - '@count': '1'
+    '@name': social-dynamics
+  - '@count': '1'
+    '@name': psychology
+  - '@count': '1'
+    '@name': en
+  - '@count': '1'
+    '@name': business
+  - '@count': '1'
+    '@name': 033-en-bsn
+  - '@count': '1'
+    '@name': audobook
+  - '@count': '1'
+    '@name': potential
+  - '@count': '1'
+    '@name': bedroom-headboard
+  - '@count': '1'
+    '@name': non-fiction-to-read
+  - '@count': '1'
+    '@name': cybersec
+  - '@count': '1'
+    '@name': prio2a_culture
+  - '@count': '1'
+    '@name': storage-box
+  - '@count': '1'
+    '@name': pre-2000
+  - '@count': '1'
+    '@name': wish-list
+  - '@count': '1'
+    '@name': no-ebook
+  - '@count': '1'
+    '@name': biographies
+  - '@count': '1'
+    '@name': read-n2018
+  - '@count': '1'
+    '@name': home-library
+  - '@count': '1'
+    '@name': hartwellupstairslibrary
+  - '@count': '1'
+    '@name': b3
+  - '@count': '1'
+    '@name': physical-books
+  - '@count': '1'
+    '@name': reddit-finds-non-fiction
+  - '@count': '1'
+    '@name': reddit-finds
+  - '@count': '1'
+    '@name': capitol-hill-books
+  - '@count': '1'
+    '@name': unshelved
+  - '@count': '1'
+    '@name': unread
+  - '@count': '1'
+    '@name': tempo-libero
+  - '@count': '1'
+    '@name': lavoro
+  - '@count': '1'
+    '@name': nonf
+  - '@count': '1'
+    '@name': lek
+  - '@count': '1'
+    '@name': rd
+  - '@count': '1'
+    '@name': m
+  - '@count': '1'
+    '@name': finished
+  - '@count': '1'
+    '@name': tech-history
+  - '@count': '1'
+    '@name': true-story
+  - '@count': '1'
+    '@name': home-shelf
+  - '@count': '1'
+    '@name': digital-age
+  - '@count': '1'
+    '@name': own-and-like
+  - '@count': '1'
+    '@name': to-get
+  - '@count': '1'
+    '@name': 2019-books
+  - '@count': '1'
+    '@name': upcoming-shipment
+  - '@count': '1'
+    '@name': for-sale
+  - '@count': '1'
+    '@name': box3
+  - '@count': '1'
+    '@name': box-1
+  - '@count': '1'
+    '@name': books-own
+  - '@count': '1'
+    '@name': plain-english
+  - '@count': '1'
+    '@name': books-i-want
+  - '@count': '1'
+    '@name': tbr-cryptanalyst
+  - '@count': '1'
+    '@name': 6-18
+  - '@count': '1'
+    '@name': sci-tech-eng-math
+  - '@count': '1'
+    '@name': read-in-2000-2006
+  - '@count': '1'
+    '@name': non-fiction-true-crime
+  - '@count': '1'
+    '@name': it-security
+  - '@count': '1'
+    '@name': history_biography
+  - '@count': '1'
+    '@name': geek
+  - '@count': '1'
+    '@name': csc-to-read
+  - '@count': '1'
+    '@name': biography_memoir
+  - '@count': '1'
+    '@name': adult-non-fiction
+  - '@count': '1'
+    '@name': 3-star
+  - '@count': '1'
+    '@name': 1-my-shelves
+  - '@count': '1'
+    '@name': 00-to-buy
+  - '@count': '1'
+    '@name': whish-list
+  - '@count': '1'
+    '@name': infosec-it
+  - '@count': '1'
+    '@name': pop-sci-pop-tech
+  - '@count': '1'
+    '@name': the-internet
+  - '@count': '1'
+    '@name': carlos
+  - '@count': '1'
+    '@name': sigint
+  - '@count': '1'
+    '@name': owned-books
+  - '@count': '1'
+    '@name': kevin-mitnick-related-books
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: Little, Brown & Co (T)
+ratings_count: '439'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417582
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/1121524.The_Fugitive_Game\"\
+  >The Fugitive Game Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0316528587&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/1121524.The_Fugitive_Game?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '374050'
+        link: https://www.goodreads.com/author/show/374050.Joseph_Menn
+        name: Joseph Menn
+    average_rating: '3.83'
+    id: '7638558'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1586487485'
+    isbn13: '9781586487485'
+    link: https://www.goodreads.com/book/show/7638558-fatal-system-error
+    num_pages: '249'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '439'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Fatal System Error: The Hunt for the New Crime Lords Who are Bringing
+      Down the Internet'
+    title_without_series: 'Fatal System Error: The Hunt for the New Crime Lords Who
+      are Bringing Down the Internet'
+    uri: kca://book/amzn1.gr.book.v1.BWWASUj56dpPv5NQueDg2Q
+    work:
+      id: '10163114'
+  - authors:
+      author:
+        id: '17650479'
+        link: https://www.goodreads.com/author/show/17650479.Becky_Chambers
+        name: Becky  Chambers
+    average_rating: '3.83'
+    id: '40864030'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733422002l/40864030._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/40864030-a-prayer-for-the-crown-shy
+    num_pages: '152'
+    publication_day: '12'
+    publication_month: '7'
+    publication_year: '2022'
+    ratings_count: '439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733422002l/40864030._SY75_.jpg
+    title: 'A Prayer for the Crown-Shy (Monk & Robot, #2)'
+    title_without_series: A Prayer for the Crown-Shy
+    uri: kca://book/amzn1.gr.book.v1.IO59fUm6oxMn1CL9-RkdLw
+    work:
+      id: '65807876'
+  - authors:
+      author:
+        id: '19311852'
+        link: https://www.goodreads.com/author/show/19311852.John_E_Douglas
+        name: John E. Douglas
+    average_rating: '3.83'
+    id: '57094287'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618279670l/57094287._SX98_.jpg
+    isbn: 0062979795
+    isbn13: '9780062979797'
+    link: https://www.goodreads.com/book/show/57094287-when-a-killer-calls
+    num_pages: '336'
+    publication_day: '1'
+    publication_month: '2'
+    publication_year: '2022'
+    ratings_count: '439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618279670l/57094287._SY75_.jpg
+    title: 'When a Killer Calls (Cases of the FBI''s Original Mindhunter, #2)'
+    title_without_series: When a Killer Calls
+    uri: kca://book/amzn1.gr.book.v3.obZLYCIOo_ZuvSe_
+    work:
+      id: '89345565'
+  - authors:
+      author:
+        id: '881203'
+        link: https://www.goodreads.com/author/show/881203.Willa_Cather
+        name: Willa Cather
+    average_rating: '3.83'
+    id: '140963'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0679743626
+    isbn13: '9780679743620'
+    link: https://www.goodreads.com/book/show/140963.O_Pioneers_
+    num_pages: '159'
+    publication_day: null
+    publication_month: null
+    publication_year: '1992'
+    ratings_count: '439'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: O Pioneers!
+    title_without_series: O Pioneers!
+    uri: kca://book/amzn1.gr.book.v1.pk4Dy4lKu0p3uNRCmKckNA
+    work:
+      id: '467254'
+  - authors:
+      author:
+        id: '7140597'
+        link: https://www.goodreads.com/author/show/7140597.Edward_Snowden
+        name: Edward Snowden
+    average_rating: '3.83'
+    id: '46223297'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564666396l/46223297._SX98_.jpg
+    isbn: '1250237238'
+    isbn13: '9781250237231'
+    link: https://www.goodreads.com/book/show/46223297-permanent-record
+    num_pages: '339'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564666396l/46223297._SY75_.jpg
+    title: Permanent Record
+    title_without_series: Permanent Record
+    uri: kca://book/amzn1.gr.book.v1.yvimwq0Pp6vAnCVyLidhFQ
+    work:
+      id: '71198843'
+  - authors:
+      author:
+        id: '17650479'
+        link: https://www.goodreads.com/author/show/17650479.Becky_Chambers
+        name: Becky  Chambers
+    average_rating: '3.83'
+    id: '22733729'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405532474l/22733729._SX98_.jpg
+    isbn: '1500453307'
+    isbn13: '9781500453305'
+    link: https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet
+    num_pages: '518'
+    publication_day: '29'
+    publication_month: '7'
+    publication_year: '2014'
+    ratings_count: '439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405532474l/22733729._SY75_.jpg
+    title: 'The Long Way to a Small, Angry Planet (Wayfarers, #1)'
+    title_without_series: The Long Way to a Small, Angry Planet
+    uri: kca://book/amzn1.gr.book.v1.7jMMysy4IZiuY37Y1E_EyA
+    work:
+      id: '42270825'
+  - authors:
+      author:
+        id: '10953'
+        link: https://www.goodreads.com/author/show/10953.Kevin_D_Mitnick
+        name: Kevin D. Mitnick
+    average_rating: '3.83'
+    id: '18160'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 076454280X
+    isbn13: '9780764542800'
+    link: https://www.goodreads.com/book/show/18160.The_Art_of_Deception
+    num_pages: '352'
+    publication_day: '17'
+    publication_month: '10'
+    publication_year: '2003'
+    ratings_count: '439'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Art of Deception: Controlling the Human Element of Security'
+    title_without_series: 'The Art of Deception: Controlling the Human Element of
+      Security'
+    uri: kca://book/amzn1.gr.book.v1.x7iaXUJ9zG4g_bSoA0SUnQ
+    work:
+      id: '19617'
+  - authors:
+      author:
+        id: '7938829'
+        link: https://www.goodreads.com/author/show/7938829.Alex_North
+        name: Alex North
+    average_rating: '3.83'
+    id: '51540935'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1250318009'
+    isbn13: '9781250318008'
+    link: https://www.goodreads.com/book/show/51540935-the-whisper-man
+    num_pages: '384'
+    publication_day: '9'
+    publication_month: '6'
+    publication_year: '2020'
+    ratings_count: '439'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Whisper Man
+    title_without_series: The Whisper Man
+    uri: kca://book/amzn1.gr.book.v3.C2xWAsG9CYT4I_eP
+    work:
+      id: '63202631'
+  - authors:
+      author:
+        id: '375'
+        link: https://www.goodreads.com/author/show/375.Chuck_Klosterman
+        name: Chuck Klosterman
+    average_rating: '3.83'
+    id: '58082714'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695136161l/58082714._SX98_.jpg
+    isbn: 0735217955
+    isbn13: '9780735217959'
+    link: https://www.goodreads.com/book/show/58082714-the-nineties
+    num_pages: '370'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695136161l/58082714._SY75_.jpg
+    title: The Nineties
+    title_without_series: The Nineties
+    uri: kca://book/amzn1.gr.book.v3.UD94XsZDfOrlz5hU
+    work:
+      id: '91007874'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '4'
+  '@type': integer
+title: 'The Fugitive Game: Online With Kevin Mitnick'
+title_without_series: 'The Fugitive Game: Online With Kevin Mitnick'
+uri: kca://book/amzn1.gr.book.v1.0te6bfB-bgm6NZ9YK8uG_A
+url: https://www.goodreads.com/book/show/1121524.The_Fugitive_Game
+work:
+  id: '19619'
+  uri: kca://work/amzn1.gr.work.v1._9S9lTcXsDCzAsn2w2kqSg

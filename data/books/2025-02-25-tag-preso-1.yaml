@@ -1,0 +1,196 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.82'
+    id: '32598'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1249308668p5/32598.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/32598.Keith_Giffen
+    name: Keith Giffen
+    ratings_count: '108443'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1249308668p2/32598.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '8652'
+average_rating: '2.91'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: null
+edition_information: First Edition
+format: Paperback
+id: '21761683'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395927178l/21761683._SX98_.jpg
+is_ebook: 'false'
+isbn: '8863310483'
+isbn13: '9788863310481'
+json: '{"id": "21761683", "isbn": "8863310483", "isbn13": "9788863310481", "text_reviews_count":
+  {"@type": "integer", "#text": "0"}, "uri": "kca://book/amzn1.gr.book.v1.IwXPjxdsMjWiiBvy_aq2OQ",
+  "title": "Tag - Preso! #1", "title_without_series": "Tag - Preso! #1", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395927178l/21761683._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395927178l/21761683._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/21761683-tag---preso-1",
+  "num_pages": "128", "format": "Paperback", "edition_information": "First Edition",
+  "publisher": null, "publication_day": null, "publication_year": "2010", "publication_month":
+  null, "average_rating": "2.91", "ratings_count": "44", "description": null, "authors":
+  {"author": {"id": "32598", "name": "Keith Giffen", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1249308668p5/32598.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1249308668p2/32598.jpg"},
+  "link": "https://www.goodreads.com/author/show/32598.Keith_Giffen", "average_rating":
+  "3.82", "ratings_count": "108443", "text_reviews_count": "8652"}}, "published":
+  "2010", "work": {"id": "539647", "uri": "kca://work/amzn1.gr.work.v1.Veeea32QqO3WMcY4lRJwNQ"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/12429063",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: null
+language_code: ita
+large_image_url: null
+link: https://www.goodreads.com/book/show/21761683-tag---preso-1
+marketplace_id: null
+num_pages: '128'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '22'
+    '@name': to-read
+  - '@count': '6'
+    '@name': comics
+  - '@count': '6'
+    '@name': graphic-novels
+  - '@count': '3'
+    '@name': horror
+  - '@count': '2'
+    '@name': boom
+  - '@count': '2'
+    '@name': graphic-novels-comics
+  - '@count': '1'
+    '@name': owned-tbr
+  - '@count': '1'
+    '@name': signed
+  - '@count': '1'
+    '@name': comixology
+  - '@count': '1'
+    '@name': want
+  - '@count': '1'
+    '@name': audio_wanted
+  - '@count': '1'
+    '@name': owned-books
+  - '@count': '1'
+    '@name': audio-wanted
+  - '@count': '1'
+    '@name': read-comic-books
+  - '@count': '1'
+    '@name': graphic-novels-and-comics
+  - '@count': '1'
+    '@name': boom-studios
+  - '@count': '1'
+    '@name': ___scanned
+  - '@count': '1'
+    '@name': not-to-read
+  - '@count': '1'
+    '@name': series
+  - '@count': '1'
+    '@name': graphic_novels-comics
+publication_day: null
+publication_month: null
+publication_year: '2010'
+published: '2010'
+publisher: null
+ratings_count: '44'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/12429063
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/21761683-tag---preso-1\"\
+  >Tag - Preso! #1 Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=8863310483&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/21761683-tag---preso-1?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+  - id: '389443'
+    series:
+      description: null
+      id: '81818'
+      note: null
+      numbered: 'true'
+      primary_work_count: '3'
+      series_works_count: '4'
+      title: Tag
+    user_position: 1+
+  - id: '1846387'
+    series:
+      description: null
+      id: '325007'
+      note: null
+      numbered: 'true'
+      primary_work_count: '1'
+      series_works_count: '3'
+      title: Tag
+    user_position: 1-3
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395927178l/21761683._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '0'
+  '@type': integer
+title: 'Tag - Preso! #1'
+title_without_series: 'Tag - Preso! #1'
+uri: kca://book/amzn1.gr.book.v1.IwXPjxdsMjWiiBvy_aq2OQ
+url: https://www.goodreads.com/book/show/21761683-tag---preso-1
+work:
+  id: '539647'
+  uri: kca://work/amzn1.gr.work.v1.Veeea32QqO3WMcY4lRJwNQ

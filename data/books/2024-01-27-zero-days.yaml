@@ -1,0 +1,754 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.75'
+    id: '9013543'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1562697198p5/9013543.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/9013543.Ruth_Ware
+    name: Ruth Ware
+    ratings_count: '2496858'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1562697198p2/9013543.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '215776'
+average_rating: '3.64'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2024-01-27T00:00:00-08:00'
+description: "The New York Times bestselling \u201Cnew Agatha Christie\u201D (Air\
+  \ Mail) Ruth Ware returns with this adrenaline-fueled thriller that combines Mr.\
+  \ and Mrs. Smith with The Fugitive about a woman in a race against time to clear\
+  \ her name and find her husband\u2019s murderer.<br /><br />Hired by companies to\
+  \ break into buildings and hack security systems, Jack and her husband, Gabe, are\
+  \ the best penetration specialists in the business. But after a routine assignment\
+  \ goes horribly wrong, Jack arrives home to find her husband dead. To add to her\
+  \ horror, the police are closing in on their suspect\u2014her.<br /><br />Suddenly\
+  \ on the run and quickly running out of options, Jack must decide who she can trust\
+  \ as she circles closer to the real killer in this unputdownable and heart-pounding\
+  \ mystery from an author whose \u201Cpropulsive prose keeps readers on the hook\
+  \ and refuses to let anyone off until all has been revealed\u201D (Shelf Awareness)."
+edition_information: null
+format: Kindle Edition
+id: '62970022'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671279899l/62970022._SX98_.jpg
+is_ebook: 'true'
+isbn: '1982155310'
+isbn13: '9781982155315'
+json: '{"id": "62970022", "isbn": "1982155310", "isbn13": "9781982155315", "text_reviews_count":
+  {"@type": "integer", "#text": "821"}, "uri": "kca://book/amzn1.gr.book.v3.Lr7AjtNhGaSlhx1J",
+  "title": "Zero Days", "title_without_series": "Zero Days", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671279899l/62970022._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671279899l/62970022._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/62970022-zero-days",
+  "num_pages": "352", "format": "Kindle Edition", "edition_information": null, "publisher":
+  "Gallery/Scout Press", "publication_day": "11", "publication_year": "2023", "publication_month":
+  "7", "average_rating": "3.64", "ratings_count": "111597", "description": "The New
+  York Times bestselling \u201cnew Agatha Christie\u201d (Air Mail) Ruth Ware returns
+  with this adrenaline-fueled thriller that combines Mr. and Mrs. Smith with The Fugitive
+  about a woman in a race against time to clear her name and find her husband\u2019s
+  murderer.<br /><br />Hired by companies to break into buildings and hack security
+  systems, Jack and her husband, Gabe, are the best penetration specialists in the
+  business. But after a routine assignment goes horribly wrong, Jack arrives home
+  to find her husband dead. To add to her horror, the police are closing in on their
+  suspect\u2014her.<br /><br />Suddenly on the run and quickly running out of options,
+  Jack must decide who she can trust as she circles closer to the real killer in this
+  unputdownable and heart-pounding mystery from an author whose \u201cpropulsive prose
+  keeps readers on the hook and refuses to let anyone off until all has been revealed\u201d
+  (Shelf Awareness).", "authors": {"author": {"id": "9013543", "name": "Ruth Ware",
+  "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1562697198p5/9013543.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1562697198p2/9013543.jpg"},
+  "link": "https://www.goodreads.com/author/show/9013543.Ruth_Ware", "average_rating":
+  "3.75", "ratings_count": "2496858", "text_reviews_count": "215776"}}, "published":
+  "2023", "work": {"id": "98736142", "uri": "kca://work/amzn1.gr.work.v3.RNIqauQtae9R-uMY"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/6211773809",
+  "read_at": "Sat Jan 27 00:00:00 -0800 2024", "started_at": "", "date": "Sat Jan
+  27 00:00:00 -0800 2024"}'
+kindle_asin: B0BHTN6TL6
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/62970022-zero-days
+marketplace_id: ATVPDKIKX0DER
+num_pages: '352'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '101431'
+    '@name': to-read
+  - '@count': '6602'
+    '@name': currently-reading
+  - '@count': '834'
+    '@name': thriller
+  - '@count': '695'
+    '@name': mystery
+  - '@count': '472'
+    '@name': fiction
+  - '@count': '435'
+    '@name': audiobook
+  - '@count': '392'
+    '@name': audiobooks
+  - '@count': '381'
+    '@name': mystery-thriller
+  - '@count': '256'
+    '@name': dnf
+  - '@count': '228'
+    '@name': read-in-2023
+  - '@count': '214'
+    '@name': 2023-books
+  - '@count': '212'
+    '@name': audio
+  - '@count': '199'
+    '@name': suspense
+  - '@count': '196'
+    '@name': 2024-books
+  - '@count': '195'
+    '@name': 2023-reads
+  - '@count': '194'
+    '@name': books-i-own
+  - '@count': '189'
+    '@name': library
+  - '@count': '177'
+    '@name': physical-tbr
+  - '@count': '163'
+    '@name': read-2023
+  - '@count': '146'
+    '@name': owned
+  - '@count': '146'
+    '@name': thrillers
+  - '@count': '132'
+    '@name': ruth-ware
+  - '@count': '131'
+    '@name': 2024-reads
+  - '@count': '128'
+    '@name': 2023-releases
+  - '@count': '128'
+    '@name': read-in-2024
+  - '@count': '113'
+    '@name': tbr
+  - '@count': '107'
+    '@name': audio-books
+  - '@count': '106'
+    '@name': adult
+  - '@count': '105'
+    '@name': crime
+  - '@count': '104'
+    '@name': did-not-finish
+  - '@count': '102'
+    '@name': read-2024
+  - '@count': '99'
+    '@name': kindle
+  - '@count': '96'
+    '@name': audio-book
+  - '@count': '84'
+    '@name': 2023-read
+  - '@count': '74'
+    '@name': thriller-mystery
+  - '@count': '71'
+    '@name': netgalley
+  - '@count': '69'
+    '@name': contemporary
+  - '@count': '68'
+    '@name': libby
+  - '@count': '62'
+    '@name': 2023-books-read
+  - '@count': '62'
+    '@name': book-club
+  - '@count': '59'
+    '@name': 2024-read
+  - '@count': '59'
+    '@name': adult-fiction
+  - '@count': '57'
+    '@name': 2024-books-read
+  - '@count': '55'
+    '@name': favorites
+  - '@count': '54'
+    '@name': giveaways
+  - '@count': '52'
+    '@name': my-library
+  - '@count': '52'
+    '@name': audible
+  - '@count': '51'
+    '@name': abandoned
+  - '@count': '50'
+    '@name': books-read-in-2023
+  - '@count': '48'
+    '@name': arc
+  - '@count': '48'
+    '@name': to-buy
+  - '@count': '45'
+    '@name': books-i-have
+  - '@count': '45'
+    '@name': mystery-suspense
+  - '@count': '44'
+    '@name': owned-books
+  - '@count': '44'
+    '@name': suspense-thriller
+  - '@count': '43'
+    '@name': mysteries
+  - '@count': '43'
+    '@name': ebook
+  - '@count': '41'
+    '@name': library-book
+  - '@count': '39'
+    '@name': want-to-buy
+  - '@count': '39'
+    '@name': owned-tbr
+  - '@count': '38'
+    '@name': thriller-suspense
+  - '@count': '37'
+    '@name': library-books
+  - '@count': '35'
+    '@name': psychological-thriller
+  - '@count': '35'
+    '@name': listened-to
+  - '@count': '31'
+    '@name': on-my-shelf
+  - '@count': '30'
+    '@name': mystery-thriller-suspense
+  - '@count': '30'
+    '@name': british
+  - '@count': '29'
+    '@name': listened
+  - '@count': '29'
+    '@name': borrowed
+  - '@count': '29'
+    '@name': have
+  - '@count': '29'
+    '@name': 2023-reading-challenge
+  - '@count': '28'
+    '@name': my-bookshelf
+  - '@count': '28'
+    '@name': england
+  - '@count': '28'
+    '@name': bookshelf
+  - '@count': '26'
+    '@name': books-read-in-2024
+  - '@count': '25'
+    '@name': purchased
+  - '@count': '25'
+    '@name': murder-mystery
+  - '@count': '25'
+    '@name': crime-thriller
+  - '@count': '24'
+    '@name': 2023-release
+  - '@count': '24'
+    '@name': home-library
+  - '@count': '23'
+    '@name': murder
+  - '@count': '23'
+    '@name': didn-t-finish
+  - '@count': '22'
+    '@name': on-my-bookshelf
+  - '@count': '21'
+    '@name': favorite-authors
+  - '@count': '21'
+    '@name': 2024-reading-challenge
+  - '@count': '21'
+    '@name': ebooks
+  - '@count': '19'
+    '@name': tbr-owned
+  - '@count': '19'
+    '@name': arcs
+  - '@count': '19'
+    '@name': ware-ruth
+  - '@count': '18'
+    '@name': mystery-thrillers
+  - '@count': '18'
+    '@name': my-books
+  - '@count': '18'
+    '@name': mystery-suspense-thriller
+  - '@count': '18'
+    '@name': crime-fiction
+  - '@count': '18'
+    '@name': 2025-reads
+  - '@count': '17'
+    '@name': to-be-read
+  - '@count': '17'
+    '@name': 2023-challenge
+  - '@count': '17'
+    '@name': 2025-books
+  - '@count': '16'
+    '@name': a-to-z-challenge
+  - '@count': '16'
+    '@name': i-own
+  - '@count': '16'
+    '@name': 2023-tbr
+publication_day: '11'
+publication_month: '7'
+publication_year: '2023'
+published: '2023'
+publisher: Gallery/Scout Press
+ratings_count: '111597'
+read_at: '2024-01-27T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/6211773809
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/62970022-zero-days\"\
+  >Zero Days Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1982155310&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/62970022-zero-days?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '15904689'
+        link: https://www.goodreads.com/author/show/15904689.Alice_Feeney
+        name: Alice Feeney
+    average_rating: '3.64'
+    id: '83668030'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679068112l/83668030._SX98_.jpg
+    isbn: '1250843960'
+    isbn13: '9781250843968'
+    link: https://www.goodreads.com/book/show/83668030-good-bad-girl
+    num_pages: '306'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '111597'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679068112l/83668030._SY75_.jpg
+    title: Good Bad Girl
+    title_without_series: Good Bad Girl
+    uri: kca://book/amzn1.gr.book.v3.RuwHrvGrCm3cJfCA
+    work:
+      id: '100074156'
+  - authors:
+      author:
+        id: '7770523'
+        link: https://www.goodreads.com/author/show/7770523.Lucy_Foley
+        name: Lucy Foley
+    average_rating: '3.64'
+    id: '199743738'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1713470201l/199743738._SX98_.jpg
+    isbn: '0063003104'
+    isbn13: '9780063003101'
+    link: https://www.goodreads.com/book/show/199743738-the-midnight-feast
+    num_pages: '354'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '111597'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1713470201l/199743738._SY75_.jpg
+    title: The Midnight Feast
+    title_without_series: The Midnight Feast
+    uri: kca://book/amzn1.gr.book.v3.pNOPcVcVolgnCjK7
+    work:
+      id: '165178640'
+  - authors:
+      author:
+        id: '1278320'
+        link: https://www.goodreads.com/author/show/1278320.Shari_Lapena
+        name: Shari Lapena
+    average_rating: '3.64'
+    id: '63139946'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685353061l/63139946._SX98_.jpg
+    isbn: 0593489934
+    isbn13: '9780593489932'
+    link: https://www.goodreads.com/book/show/63139946-everyone-here-is-lying
+    num_pages: '336'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '111597'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685353061l/63139946._SY75_.jpg
+    title: Everyone Here Is Lying
+    title_without_series: Everyone Here Is Lying
+    uri: kca://book/amzn1.gr.book.v3.YPuI901sIqqW8kip
+    work:
+      id: '96792918'
+  - authors:
+      author:
+        id: '15967497'
+        link: https://www.goodreads.com/author/show/15967497.Gillian_McAllister
+        name: Gillian McAllister
+    average_rating: '3.64'
+    id: '62292411'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683574174l/62292411._SX98_.jpg
+    isbn: 0063252392
+    isbn13: '9780063252394'
+    link: https://www.goodreads.com/book/show/62292411-just-another-missing-person
+    num_pages: '377'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '111597'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683574174l/62292411._SY75_.jpg
+    title: Just Another Missing Person
+    title_without_series: Just Another Missing Person
+    uri: kca://book/amzn1.gr.book.v3.qaHbWx4NiiM5imgu
+    work:
+      id: '96025337'
+  - authors:
+      author:
+        id: '93504'
+        link: https://www.goodreads.com/author/show/93504.Lisa_Jewell
+        name: Lisa Jewell
+    average_rating: '3.64'
+    id: '62334530'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686092508l/62334530._SX98_.jpg
+    isbn: '1982179007'
+    isbn13: '9781982179007'
+    link: https://www.goodreads.com/book/show/62334530-none-of-this-is-true
+    num_pages: '390'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '111597'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686092508l/62334530._SY75_.jpg
+    title: None of This Is True
+    title_without_series: None of This Is True
+    uri: kca://book/amzn1.gr.book.v3.LNDb8hj-0P5jywXD
+    work:
+      id: '98147299'
+  - authors:
+      author:
+        id: '7392948'
+        link: https://www.goodreads.com/author/show/7392948.Mary_Kubica
+        name: Mary Kubica
+    average_rating: '3.64'
+    id: '140111148'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689781177l/140111148._SX98_.jpg
+    isbn: 0778308065
+    isbn13: '9780778308065'
+    link: https://www.goodreads.com/book/show/140111148-she-s-not-sorry
+    num_pages: '330'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '111597'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689781177l/140111148._SY75_.jpg
+    title: She's Not Sorry
+    title_without_series: She's Not Sorry
+    uri: kca://book/amzn1.gr.book.v3.Vkqr-RPs187_zZnR
+    work:
+      id: '152848641'
+  - authors:
+      author:
+        id: '15263414'
+        link: https://www.goodreads.com/author/show/15263414.Riley_Sager
+        name: Riley Sager
+    average_rating: '3.64'
+    id: '199026522'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1735391063l/199026522._SX98_.jpg
+    isbn: 0593472373
+    isbn13: '9780593472378'
+    link: https://www.goodreads.com/book/show/199026522-middle-of-the-night
+    num_pages: '367'
+    publication_day: '18'
+    publication_month: '6'
+    publication_year: '2024'
+    ratings_count: '111597'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1735391063l/199026522._SY75_.jpg
+    title: Middle of the Night
+    title_without_series: Middle of the Night
+    uri: kca://book/amzn1.gr.book.v3.SyhQvJ5JsJfLutbG
+    work:
+      id: '202603351'
+  - authors:
+      author:
+        id: '2261547'
+        link: https://www.goodreads.com/author/show/2261547.Rachel_Hawkins
+        name: Rachel Hawkins
+    average_rating: '3.64'
+    id: '126919284'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684155150l/126919284._SX98_.jpg
+    isbn: '1250280036'
+    isbn13: '9781250280039'
+    link: https://www.goodreads.com/book/show/126919284-the-heiress
+    num_pages: '294'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '111597'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684155150l/126919284._SY75_.jpg
+    title: The Heiress
+    title_without_series: The Heiress
+    uri: kca://book/amzn1.gr.book.v3.6FTaZ__jd4yOdvnI
+    work:
+      id: '148189470'
+  - authors:
+      author:
+        id: '5317545'
+        link: https://www.goodreads.com/author/show/5317545.Ashley_Elston
+        name: Ashley Elston
+    average_rating: '3.64'
+    id: '164444179'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704216161l/164444179._SX98_.jpg
+    isbn: 0593492919
+    isbn13: '9780593492918'
+    link: https://www.goodreads.com/book/show/164444179-first-lie-wins
+    num_pages: '352'
+    publication_day: '2'
+    publication_month: '1'
+    publication_year: '2024'
+    ratings_count: '111597'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704216161l/164444179._SY75_.jpg
+    title: First Lie Wins
+    title_without_series: First Lie Wins
+    uri: kca://book/amzn1.gr.book.v3.LgI2tXP0S4NocWDJ
+    work:
+      id: '93554364'
+  - authors:
+      author:
+        id: '18445'
+        link: https://www.goodreads.com/author/show/18445.Lisa_Unger
+        name: Lisa Unger
+    average_rating: '3.64'
+    id: '128007059'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696449152l/128007059._SX98_.jpg
+    isbn: 0778333345
+    isbn13: '9780778333340'
+    link: https://www.goodreads.com/book/show/128007059-the-new-couple-in-5b
+    num_pages: '384'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '111597'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696449152l/128007059._SX50_.jpg
+    title: The New Couple in 5B
+    title_without_series: The New Couple in 5B
+    uri: kca://book/amzn1.gr.book.v3.Gc04WO5uic99Ppgh
+    work:
+      id: '147679691'
+  - authors:
+      author:
+        id: '15263414'
+        link: https://www.goodreads.com/author/show/15263414.Riley_Sager
+        name: Riley Sager
+    average_rating: '3.64'
+    id: '62703226'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668181003l/62703226._SX98_.jpg
+    isbn: 0593183223
+    isbn13: '9780593183229'
+    link: https://www.goodreads.com/book/show/62703226-the-only-one-left
+    num_pages: '383'
+    publication_day: '20'
+    publication_month: '6'
+    publication_year: '2023'
+    ratings_count: '111597'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668181003l/62703226._SY75_.jpg
+    title: The Only One Left
+    title_without_series: The Only One Left
+    uri: kca://book/amzn1.gr.book.v3.IS_i24mKIpDX8aWc
+    work:
+      id: '98452723'
+  - authors:
+      author:
+        id: '1278320'
+        link: https://www.goodreads.com/author/show/1278320.Shari_Lapena
+        name: Shari Lapena
+    average_rating: '3.64'
+    id: '201102399'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704728229l/201102399._SX98_.jpg
+    isbn: 0593489969
+    isbn13: '9780593489963'
+    link: https://www.goodreads.com/book/show/201102399-what-have-you-done
+    num_pages: '307'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '111597'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704728229l/201102399._SY75_.jpg
+    title: What Have You Done?
+    title_without_series: What Have You Done?
+    uri: kca://book/amzn1.gr.book.v3.ySlNiqnQCFyNZvHF
+    work:
+      id: '205221354'
+  - authors:
+      author:
+        id: '4417749'
+        link: https://www.goodreads.com/author/show/4417749.Megan_Miranda
+        name: Megan Miranda
+    average_rating: '3.64'
+    id: '176443330'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693932662l/176443330._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/176443330-daughter-of-mine
+    num_pages: '368'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '111597'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693932662l/176443330._SY75_.jpg
+    title: Daughter of Mine
+    title_without_series: Daughter of Mine
+    uri: kca://book/amzn1.gr.book.v3.jYIIKCCnpdpMcuDs
+    work:
+      id: '183065774'
+  - authors:
+      author:
+        id: '17621440'
+        link: https://www.goodreads.com/author/show/17621440.Alex_Michaelides
+        name: Alex Michaelides
+    average_rating: '3.64'
+    id: '123206645'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684763144l/123206645._SX98_.jpg
+    isbn: 125075898X
+    isbn13: '9781250758989'
+    link: https://www.goodreads.com/book/show/123206645-the-fury
+    num_pages: '298'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '111597'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684763144l/123206645._SX50_.jpg
+    title: The Fury
+    title_without_series: The Fury
+    uri: kca://book/amzn1.gr.book.v3.Wc9EkVugBefM-I_Z
+    work:
+      id: '144528265'
+  - authors:
+      author:
+        id: '21408101'
+        link: https://www.goodreads.com/author/show/21408101.Stacy_Willingham
+        name: Stacy Willingham
+    average_rating: '3.64'
+    id: '60891867'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687783124l/60891867._SX98_.jpg
+    isbn: '1250887933'
+    isbn13: '9781250887931'
+    link: https://www.goodreads.com/book/show/60891867-only-if-you-re-lucky
+    num_pages: '371'
+    publication_day: '16'
+    publication_month: '1'
+    publication_year: '2024'
+    ratings_count: '111597'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687783124l/60891867._SY75_.jpg
+    title: Only If You're Lucky
+    title_without_series: Only If You're Lucky
+    uri: kca://book/amzn1.gr.book.v3.4JzDdqR9nFj9xLk2
+    work:
+      id: '96040338'
+  - authors:
+      author:
+        id: '5768611'
+        link: https://www.goodreads.com/author/show/5768611.Amy_Tintera
+        name: Amy Tintera
+    average_rating: '3.64'
+    id: '127279000'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711398419l/127279000._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/127279000-listen-for-the-lie
+    num_pages: '352'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '111597'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711398419l/127279000._SY75_.jpg
+    title: Listen for the Lie
+    title_without_series: Listen for the Lie
+    uri: kca://book/amzn1.gr.book.v3._gy5GbrWXGvo0AaD
+    work:
+      id: '98856472'
+  - authors:
+      author:
+        id: '20650250'
+        link: https://www.goodreads.com/author/show/20650250.Nita_Prose
+        name: Nita Prose
+    average_rating: '3.64'
+    id: '157062582'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686577262l/157062582._SX98_.jpg
+    isbn: 0593356187
+    isbn13: '9780593356180'
+    link: https://www.goodreads.com/book/show/157062582-the-mystery-guest
+    num_pages: '293'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '111597'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686577262l/157062582._SY75_.jpg
+    title: 'The Mystery Guest (Molly the Maid, #2)'
+    title_without_series: The Mystery Guest
+    uri: kca://book/amzn1.gr.book.v3.u7FD-6aDc2-Gzcdz
+    work:
+      id: '144579941'
+  - authors:
+      author:
+        id: '3408558'
+        link: https://www.goodreads.com/author/show/3408558.Nina_Simon
+        name: Nina Simon
+    average_rating: '3.64'
+    id: '65646968'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696722227l/65646968._SX98_.jpg
+    isbn: '0063315041'
+    isbn13: '9780063315044'
+    link: https://www.goodreads.com/book/show/65646968-mother-daughter-murder-night
+    num_pages: '357'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '111597'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696722227l/65646968._SY75_.jpg
+    title: Mother-Daughter Murder Night
+    title_without_series: Mother-Daughter Murder Night
+    uri: kca://book/amzn1.gr.book.v3.Je-1imVxzS6s2lrM
+    work:
+      id: '98386548'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671279899l/62970022._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '821'
+  '@type': integer
+title: Zero Days
+title_without_series: Zero Days
+uri: kca://book/amzn1.gr.book.v3.Lr7AjtNhGaSlhx1J
+url: https://www.goodreads.com/book/show/62970022-zero-days
+work:
+  id: '98736142'
+  uri: kca://work/amzn1.gr.work.v3.RNIqauQtae9R-uMY

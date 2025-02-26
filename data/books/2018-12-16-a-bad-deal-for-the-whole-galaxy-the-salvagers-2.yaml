@@ -1,0 +1,765 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.92'
+    id: '69059'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1548365603p5/69059.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/69059.Alex_White
+    name: Alex White
+    ratings_count: '19427'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1548365603p2/69059.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '2832'
+average_rating: '4.10'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2018-12-16T00:00:00-08:00'
+description: "<b>The greatest dangers hide the brightest treasures in this bold, planet-hopping\
+  \ science fiction adventure series.</b><b>\n  <br />\n</b>The crew of the legendary\
+  \ Capricious are rich enough to retire in comfort for the rest of their days, but\
+  \ none of it matters if the galaxy is still in danger. <br />Nilah and Boots, the\
+  \ ship's newest crew-members hear the word of a mysterious cult that may have links\
+  \ back to an ancient and all-powerful magic. To find it, hot-headed Nilah will have\
+  \ to go undercover and find the source of their power without revealing her true\
+  \ identity. Meanwhile, Boots is forced to confront the one person she'd hoped never\
+  \ to see again: her old, turn-coat treasure-hunting partner.<b>\n  <br />\n</b><b>The\
+  \ Salvagers</b><i>A Big Ship at the Edge of the Universe</i><i>A Bad Deal for the\
+  \ Whole Galaxy</i><i>The Worst of All Possible Worlds</i>"
+edition_information: null
+format: null
+id: '39723966'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529909766l/39723966._SX98_.jpg
+is_ebook: 'true'
+isbn: 0316412090
+isbn13: '9780316412094'
+json: '{"id": "39723966", "isbn": "0316412090", "isbn13": "9780316412094", "text_reviews_count":
+  {"@type": "integer", "#text": "261"}, "uri": "kca://book/amzn1.gr.book.v1.OYI9DM0j6Ely_XDGyeN1Cw",
+  "title": "A Bad Deal for the Whole Galaxy (The Salvagers, #2)", "title_without_series":
+  "A Bad Deal for the Whole Galaxy", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529909766l/39723966._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529909766l/39723966._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/39723966-a-bad-deal-for-the-whole-galaxy",
+  "num_pages": "544", "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "4.10", "ratings_count": "2963", "description": "<b>The greatest dangers hide the
+  brightest treasures in this bold, planet-hopping science fiction adventure series.</b><b>\n  <br
+  />\n</b>The crew of the legendary Capricious are rich enough to retire in comfort
+  for the rest of their days, but none of it matters if the galaxy is still in danger.
+  <br />Nilah and Boots, the ship''s newest crew-members hear the word of a mysterious
+  cult that may have links back to an ancient and all-powerful magic. To find it,
+  hot-headed Nilah will have to go undercover and find the source of their power without
+  revealing her true identity. Meanwhile, Boots is forced to confront the one person
+  she''d hoped never to see again: her old, turn-coat treasure-hunting partner.<b>\n  <br
+  />\n</b><b>The Salvagers</b><i>A Big Ship at the Edge of the Universe</i><i>A Bad
+  Deal for the Whole Galaxy</i><i>The Worst of All Possible Worlds</i>", "authors":
+  {"author": {"id": "69059", "name": "Alex White", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1548365603p5/69059.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1548365603p2/69059.jpg"},
+  "link": "https://www.goodreads.com/author/show/69059.Alex_White", "average_rating":
+  "3.92", "ratings_count": "19427", "text_reviews_count": "2832"}}, "published": null,
+  "work": {"id": "61404622", "uri": "kca://work/amzn1.gr.work.v1.2u5ZKuHd5wy6WzGzD9E1dA"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/2628895255",
+  "read_at": "Sun Dec 16 00:00:00 -0800 2018", "started_at": "Sun Dec 16 00:00:00
+  -0800 2018", "date": "Sun Dec 16 00:00:00 -0800 2018"}'
+kindle_asin: B07BVPB56K
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/39723966-a-bad-deal-for-the-whole-galaxy
+marketplace_id: ATVPDKIKX0DER
+num_pages: '544'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '3017'
+    '@name': to-read
+  - '@count': '506'
+    '@name': currently-reading
+  - '@count': '142'
+    '@name': science-fiction
+  - '@count': '114'
+    '@name': sci-fi
+  - '@count': '49'
+    '@name': fantasy
+  - '@count': '42'
+    '@name': scifi
+  - '@count': '36'
+    '@name': space-opera
+  - '@count': '32'
+    '@name': fiction
+  - '@count': '23'
+    '@name': owned
+  - '@count': '23'
+    '@name': queer
+  - '@count': '20'
+    '@name': favorites
+  - '@count': '19'
+    '@name': series
+  - '@count': '18'
+    '@name': audiobook
+  - '@count': '18'
+    '@name': lgbtq
+  - '@count': '17'
+    '@name': library
+  - '@count': '16'
+    '@name': lgbt
+  - '@count': '15'
+    '@name': magic
+  - '@count': '14'
+    '@name': ebook
+  - '@count': '13'
+    '@name': dnf
+  - '@count': '12'
+    '@name': audiobooks
+  - '@count': '12'
+    '@name': sci-fi-fantasy
+  - '@count': '11'
+    '@name': space
+  - '@count': '10'
+    '@name': adult
+  - '@count': '9'
+    '@name': audio
+  - '@count': '9'
+    '@name': adventure
+  - '@count': '8'
+    '@name': audible
+  - '@count': '8'
+    '@name': read-2019
+  - '@count': '8'
+    '@name': kindle
+  - '@count': '8'
+    '@name': read-in-2019
+  - '@count': '7'
+    '@name': sapphic
+  - '@count': '7'
+    '@name': fantasy-sci-fi
+  - '@count': '6'
+    '@name': read-in-2020
+  - '@count': '6'
+    '@name': did-not-finish
+  - '@count': '6'
+    '@name': sf
+  - '@count': '5'
+    '@name': lgbtqia
+  - '@count': '5'
+    '@name': 2010s
+  - '@count': '5'
+    '@name': sequels
+  - '@count': '5'
+    '@name': action
+  - '@count': '5'
+    '@name': tbr
+  - '@count': '5'
+    '@name': e-book
+  - '@count': '5'
+    '@name': 2019-read
+  - '@count': '5'
+    '@name': science-fiction-fantasy
+  - '@count': '5'
+    '@name': sci-fi-to-read
+  - '@count': '5'
+    '@name': speculative-fiction
+  - '@count': '5'
+    '@name': owned-tbr
+  - '@count': '5'
+    '@name': next-in-series
+  - '@count': '4'
+    '@name': read-in-2023
+  - '@count': '4'
+    '@name': 2021-reads
+  - '@count': '4'
+    '@name': 2020-read
+  - '@count': '4'
+    '@name': physical-tbr
+  - '@count': '4'
+    '@name': science-fantasy
+  - '@count': '4'
+    '@name': scifi-fantasy
+  - '@count': '4'
+    '@name': books-i-own
+  - '@count': '3'
+    '@name': libby
+  - '@count': '3'
+    '@name': didn-t-finish
+  - '@count': '3'
+    '@name': wlw
+  - '@count': '3'
+    '@name': queer-sff
+  - '@count': '3'
+    '@name': found-family
+  - '@count': '3'
+    '@name': books
+  - '@count': '3'
+    '@name': gave-up
+  - '@count': '3'
+    '@name': read-2020
+  - '@count': '3'
+    '@name': ebooks
+  - '@count': '3'
+    '@name': digital
+  - '@count': '3'
+    '@name': paperback
+  - '@count': '3'
+    '@name': abandoned
+  - '@count': '3'
+    '@name': e-books
+  - '@count': '3'
+    '@name': lgbtqa
+  - '@count': '3'
+    '@name': adult-fiction
+  - '@count': '3'
+    '@name': novel
+  - '@count': '3'
+    '@name': 2019-reads
+  - '@count': '3'
+    '@name': default
+  - '@count': '3'
+    '@name': my-library
+  - '@count': '3'
+    '@name': urban-fantasy
+  - '@count': '3'
+    '@name': read-in-2018
+  - '@count': '3'
+    '@name': sf-fantasy
+  - '@count': '3'
+    '@name': maybe
+  - '@count': '3'
+    '@name': sff
+  - '@count': '3'
+    '@name': to-buy
+  - '@count': '3'
+    '@name': romance
+  - '@count': '3'
+    '@name': 2018-releases
+  - '@count': '3'
+    '@name': rep-lgbtqia
+  - '@count': '3'
+    '@name': to-read-scifi
+  - '@count': '2'
+    '@name': 2024-reads
+  - '@count': '2'
+    '@name': read-2024
+  - '@count': '2'
+    '@name': 0-0-0-0-0-0-previous-authors
+  - '@count': '2'
+    '@name': shelf-5
+  - '@count': '2'
+    '@name': have-at-home
+  - '@count': '2'
+    '@name': calibre
+  - '@count': '2'
+    '@name': own-but-not-read
+  - '@count': '2'
+    '@name': 21st-century
+  - '@count': '2'
+    '@name': on-kobo
+  - '@count': '2'
+    '@name': not-in-library
+  - '@count': '2'
+    '@name': books-i-have
+  - '@count': '2'
+    '@name': own-paper
+  - '@count': '2'
+    '@name': physical-own
+  - '@count': '2'
+    '@name': adult-sff
+  - '@count': '2'
+    '@name': series-next
+  - '@count': '2'
+    '@name': reread
+  - '@count': '2'
+    '@name': read-in-2021
+  - '@count': '2'
+    '@name': not-owned
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '2963'
+read_at: '2018-12-16T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/2628895255
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/39723966-a-bad-deal-for-the-whole-galaxy\"\
+  >A Bad Deal for the Whole Galaxy Reviews</a></h1></div>\n  <iframe sandbox id=\"\
+  the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0316412090&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/39723966-a-bad-deal-for-the-whole-galaxy?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '1249074'
+    series:
+      description: null
+      id: '213975'
+      note: null
+      numbered: 'true'
+      primary_work_count: '3'
+      series_works_count: '4'
+      title: The Salvagers
+    user_position: '2'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '20220570'
+        link: https://www.goodreads.com/author/show/20220570.J_S_Dewes
+        name: J.S. Dewes
+    average_rating: '4.10'
+    id: '203579245'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719338993l/203579245._SX98_.jpg
+    isbn: '1250851254'
+    isbn13: '9781250851253'
+    link: https://www.goodreads.com/book/show/203579245-the-relentless-legion
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2963'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719338993l/203579245._SY75_.jpg
+    title: 'The Relentless Legion (The Divide #3)'
+    title_without_series: The Relentless Legion
+    uri: kca://book/amzn1.gr.book.v3.L13P0BSN8pQuj6dL
+    work:
+      id: '206487324'
+  - authors:
+      author:
+        id: '22470613'
+        link: https://www.goodreads.com/author/show/22470613.L_M_Sagas
+        name: L.M. Sagas
+    average_rating: '4.10'
+    id: '195790796'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 125087128X
+    isbn13: '9781250871282'
+    link: https://www.goodreads.com/book/show/195790796-gravity-lost
+    num_pages: '387'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2963'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Gravity Lost (Ambit''s Run, #2)'
+    title_without_series: Gravity Lost
+    uri: kca://book/amzn1.gr.book.v3.yPvIHvCJC91ETeLW
+    work:
+      id: '200895199'
+  - authors:
+      author:
+        id: '22470613'
+        link: https://www.goodreads.com/author/show/22470613.L_M_Sagas
+        name: L.M. Sagas
+    average_rating: '4.10'
+    id: '127280776'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685353521l/127280776._SX98_.jpg
+    isbn: '1250871255'
+    isbn13: '9781250871251'
+    link: https://www.goodreads.com/book/show/127280776-cascade-failure
+    num_pages: '407'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2963'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685353521l/127280776._SY75_.jpg
+    title: 'Cascade Failure (Ambit''s Run, #1)'
+    title_without_series: Cascade Failure
+    uri: kca://book/amzn1.gr.book.v3.VrS5pXS-I4PF0I0q
+    work:
+      id: '96572122'
+  - authors:
+      author:
+        id: '22900910'
+        link: https://www.goodreads.com/author/show/22900910.Grace_Curtis
+        name: Grace  Curtis
+    average_rating: '4.10'
+    id: '195177497'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693750539l/195177497._SX98_.jpg
+    isbn: 075641931X
+    isbn13: '9780756419318'
+    link: https://www.goodreads.com/book/show/195177497-floating-hotel
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2963'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693750539l/195177497._SY75_.jpg
+    title: Floating Hotel
+    title_without_series: Floating Hotel
+    uri: kca://book/amzn1.gr.book.v3.bLCchCr_A2u5RBR0
+    work:
+      id: '196718809'
+  - authors:
+      author:
+        id: '17022421'
+        link: https://www.goodreads.com/author/show/17022421.Michael_Mammay
+        name: Michael Mammay
+    average_rating: '4.10'
+    id: '35657891'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517430558l/35657891._SX98_.jpg
+    isbn: 0062694677
+    isbn13: '9780062694676'
+    link: https://www.goodreads.com/book/show/35657891-planetside
+    num_pages: '384'
+    publication_day: '31'
+    publication_month: '7'
+    publication_year: '2018'
+    ratings_count: '2963'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517430558l/35657891._SY75_.jpg
+    title: 'Planetside (Planetside, #1)'
+    title_without_series: Planetside
+    uri: kca://book/amzn1.gr.book.v1.7m7KUxt7OWcCU0m_kC7iqA
+    work:
+      id: '57112738'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.10'
+    id: '195443798'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SX98_.jpg
+    isbn: '1035013770'
+    isbn13: '9781035013777'
+    link: https://www.goodreads.com/book/show/195443798-alien-clay
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2963'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SY75_.jpg
+    title: Alien Clay
+    title_without_series: Alien Clay
+    uri: kca://book/amzn1.gr.book.v3.U07jHOWpgU_-RRTg
+    work:
+      id: '197089092'
+  - authors:
+      author:
+        id: '5105382'
+        link: https://www.goodreads.com/author/show/5105382.Suzanne_Palmer
+        name: Suzanne Palmer
+    average_rating: '4.10'
+    id: '53005399'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0756415063'
+    isbn13: '9780756415068'
+    link: https://www.goodreads.com/book/show/53005399-driving-the-deep
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2963'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Driving the Deep (Finder Chronicles, #2)'
+    title_without_series: Driving the Deep
+    uri: kca://book/amzn1.gr.book.v3.pRIWFtZLQa9X4Ve7
+    work:
+      id: '71397598'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.10'
+    id: '65211701'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674575978l/65211701._SX98_.jpg
+    isbn: '1250826977'
+    isbn13: '9781250826978'
+    link: https://www.goodreads.com/book/show/65211701-system-collapse
+    num_pages: '245'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2963'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674575978l/65211701._SY75_.jpg
+    title: 'System Collapse (The Murderbot Diaries, #7)'
+    title_without_series: System Collapse
+    uri: kca://book/amzn1.gr.book.v3.BlgXZE2jb-Pp_eWq
+    work:
+      id: '90712113'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.10'
+    id: '201930181'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SX98_.jpg
+    isbn: 031652557X
+    isbn13: '9780316525572'
+    link: https://www.goodreads.com/book/show/201930181-the-mercy-of-gods
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2963'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SY75_.jpg
+    title: "The Mercy of Gods (The Captive\u2019s War, #1)"
+    title_without_series: The Mercy of Gods
+    uri: kca://book/amzn1.gr.book.v3.nndIiP3mF2vHLfgz
+    work:
+      id: '95320019'
+  - authors:
+      author:
+        id: '1014253'
+        link: https://www.goodreads.com/author/show/1014253.Cat_Rambo
+        name: Cat Rambo
+    average_rating: '4.10'
+    id: '53205880'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1616096132l/53205880._SX98_.jpg
+    isbn: 125026930X
+    isbn13: '9781250269300'
+    link: https://www.goodreads.com/book/show/53205880-you-sexy-thing
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2963'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1616096132l/53205880._SY75_.jpg
+    title: 'You Sexy Thing (Disco Space Opera #1)'
+    title_without_series: You Sexy Thing
+    uri: kca://book/amzn1.gr.book.v3.0759JrLH-cRC3L5i
+    work:
+      id: '80438452'
+  - authors:
+      author:
+        id: '8177132'
+        link: https://www.goodreads.com/author/show/8177132.Megan_E_O_Keefe
+        name: Megan E. O'Keefe
+    average_rating: '4.10'
+    id: '49088636'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582303535l/49088636._SX98_.jpg
+    isbn: 031641963X
+    isbn13: '9780316419635'
+    link: https://www.goodreads.com/book/show/49088636-chaos-vector
+    num_pages: '546'
+    publication_day: '28'
+    publication_month: '7'
+    publication_year: '2020'
+    ratings_count: '2963'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582303535l/49088636._SY75_.jpg
+    title: 'Chaos Vector (The Protectorate, #2)'
+    title_without_series: Chaos Vector
+    uri: kca://book/amzn1.gr.book.v3.Kc45zEfNMh43jw5X
+    work:
+      id: '74523693'
+  - authors:
+      author:
+        id: '14742557'
+        link: https://www.goodreads.com/author/show/14742557.K_B_Wagers
+        name: K.B. Wagers
+    average_rating: '4.10'
+    id: '46206720'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580195608l/46206720._SX98_.jpg
+    isbn: 0062887785
+    isbn13: '9780062887788'
+    link: https://www.goodreads.com/book/show/46206720-a-pale-light-in-the-black
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2963'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580195608l/46206720._SY75_.jpg
+    title: 'A Pale Light in the Black (NeoG, #1)'
+    title_without_series: A Pale Light in the Black
+    uri: kca://book/amzn1.gr.book.v1.wa2ruM7TdQ5PXS9KQBVBtg
+    work:
+      id: '67992954'
+  - authors:
+      author:
+        id: '20220570'
+        link: https://www.goodreads.com/author/show/20220570.J_S_Dewes
+        name: J.S. Dewes
+    average_rating: '4.10'
+    id: '55077639'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1613416660l/55077639._SX98_.jpg
+    isbn: '1250236363'
+    isbn13: '9781250236364'
+    link: https://www.goodreads.com/book/show/55077639-the-exiled-fleet
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2963'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1613416660l/55077639._SY75_.jpg
+    title: 'The Exiled Fleet (The Divide, #2)'
+    title_without_series: The Exiled Fleet
+    uri: kca://book/amzn1.gr.book.v3.BDpOrwJFEY_geSDV
+    work:
+      id: '85876187'
+  - authors:
+      author:
+        id: '121364'
+        link: https://www.goodreads.com/author/show/121364.Tim_Pratt
+        name: Tim Pratt
+    average_rating: '4.10'
+    id: '34409335'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504975752l/34409335._SX98_.jpg
+    isbn: 0857667092
+    isbn13: '9780857667090'
+    link: https://www.goodreads.com/book/show/34409335-the-wrong-stars
+    num_pages: '396'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2963'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504975752l/34409335._SY75_.jpg
+    title: 'The Wrong Stars (Axiom, #1)'
+    title_without_series: The Wrong Stars
+    uri: kca://book/amzn1.gr.book.v1.A7VkKgZxhmnXXlwP-MfEyw
+    work:
+      id: '55512778'
+  - authors:
+      author:
+        id: '20220570'
+        link: https://www.goodreads.com/author/show/20220570.J_S_Dewes
+        name: J.S. Dewes
+    average_rating: '4.10'
+    id: '60784443'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667336628l/60784443._SX98_.jpg
+    isbn: '1250851238'
+    isbn13: '9781250851239'
+    link: https://www.goodreads.com/book/show/60784443-rubicon
+    num_pages: '469'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2963'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667336628l/60784443._SY75_.jpg
+    title: Rubicon
+    title_without_series: Rubicon
+    uri: kca://book/amzn1.gr.book.v3.7YLl4p5WU6K9dHQE
+    work:
+      id: '95849260'
+  - authors:
+      author:
+        id: '19533114'
+        link: https://www.goodreads.com/author/show/19533114.Yume_Kitasei
+        name: Yume Kitasei
+    average_rating: '4.10'
+    id: '195791479'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698507161l/195791479._SX98_.jpg
+    isbn: '1250875374'
+    isbn13: '9781250875372'
+    link: https://www.goodreads.com/book/show/195791479-the-stardust-grail
+    num_pages: '312'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2963'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698507161l/195791479._SY75_.jpg
+    title: The Stardust Grail
+    title_without_series: The Stardust Grail
+    uri: kca://book/amzn1.gr.book.v3.l1TTM5woQHEYdQLO
+    work:
+      id: '197725364'
+  - authors:
+      author:
+        id: '18715817'
+        link: https://www.goodreads.com/author/show/18715817.Micaiah_Johnson
+        name: Micaiah Johnson
+    average_rating: '4.10'
+    id: '177186086'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691225473l/177186086._SX98_.jpg
+    isbn: 0593497503
+    isbn13: '9780593497500'
+    link: https://www.goodreads.com/book/show/177186086-those-beyond-the-wall
+    num_pages: '373'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2963'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691225473l/177186086._SY75_.jpg
+    title: 'Those Beyond the Wall (The Space Between Worlds, #2)'
+    title_without_series: Those Beyond the Wall
+    uri: kca://book/amzn1.gr.book.v3.4_iUlkYgu8iK5ZCB
+    work:
+      id: '91316591'
+  - authors:
+      author:
+        id: '20220570'
+        link: https://www.goodreads.com/author/show/20220570.J_S_Dewes
+        name: J.S. Dewes
+    average_rating: '4.10'
+    id: '53205794'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610925839l/53205794._SX98_.jpg
+    isbn: '1250236347'
+    isbn13: '9781250236340'
+    link: https://www.goodreads.com/book/show/53205794-the-last-watch
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2963'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610925839l/53205794._SY75_.jpg
+    title: 'The Last Watch (The Divide, #1)'
+    title_without_series: The Last Watch
+    uri: kca://book/amzn1.gr.book.v3.C4hQMR_t9oUs9ifx
+    work:
+      id: '80438337'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529909766l/39723966._SY75_.jpg
+started_at: '2018-12-16T00:00:00-08:00'
+text_reviews_count:
+  '#text': '261'
+  '@type': integer
+title: 'A Bad Deal for the Whole Galaxy (The Salvagers, #2)'
+title_without_series: A Bad Deal for the Whole Galaxy
+uri: kca://book/amzn1.gr.book.v1.OYI9DM0j6Ely_XDGyeN1Cw
+url: https://www.goodreads.com/book/show/39723966-a-bad-deal-for-the-whole-galaxy
+work:
+  id: '61404622'
+  uri: kca://work/amzn1.gr.work.v1.2u5ZKuHd5wy6WzGzD9E1dA

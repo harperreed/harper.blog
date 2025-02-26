@@ -1,0 +1,767 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.18'
+    id: '16094'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1623465132p5/16094.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+    name: Lois McMaster Bujold
+    ratings_count: '630028'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1623465132p2/16094.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '38507'
+average_rating: '4.18'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: In a land threatened by treacherous war and beset by demons, royal dowager
+  Ista, released from the curse of madness and manipulated by an untrustworthy god,
+  is plunged into a desperate struggle to preserve the endangered souls of a realm.
+edition_information: null
+format: Paperback
+id: '61904'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: 0380818612
+isbn13: '9780380818617'
+json: '{"id": "61904", "isbn": "0380818612", "isbn13": "9780380818617", "text_reviews_count":
+  {"@type": "integer", "#text": "1330"}, "uri": "kca://book/amzn1.gr.book.v1.nL-qruSsD0aXWByqIfnyew",
+  "title": "Paladin of Souls (World of the Five Gods, #2)", "title_without_series":
+  "Paladin of Souls", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/61904.Paladin_of_Souls",
+  "num_pages": "470", "format": "Paperback", "edition_information": null, "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "4.18", "ratings_count": "26179", "description": "In a land threatened
+  by treacherous war and beset by demons, royal dowager Ista, released from the curse
+  of madness and manipulated by an untrustworthy god, is plunged into a desperate
+  struggle to preserve the endangered souls of a realm.", "authors": {"author": {"id":
+  "16094", "name": "Lois McMaster Bujold", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1623465132p5/16094.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1623465132p2/16094.jpg"},
+  "link": "https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold", "average_rating":
+  "4.18", "ratings_count": "630028", "text_reviews_count": "38507"}}, "published":
+  null, "work": {"id": "819610", "uri": "kca://work/amzn1.gr.work.v1.Zd8tVMse39IMSiacQxcxug"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/42404728",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B000FC138Q
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/61904.Paladin_of_Souls
+marketplace_id: ATVPDKIKX0DER
+num_pages: '470'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '11788'
+    '@name': to-read
+  - '@count': '2651'
+    '@name': fantasy
+  - '@count': '855'
+    '@name': currently-reading
+  - '@count': '322'
+    '@name': favorites
+  - '@count': '314'
+    '@name': fiction
+  - '@count': '152'
+    '@name': owned
+  - '@count': '130'
+    '@name': audiobook
+  - '@count': '109'
+    '@name': hugo
+  - '@count': '102'
+    '@name': hugo-winners
+  - '@count': '101'
+    '@name': romance
+  - '@count': '90'
+    '@name': sci-fi-fantasy
+  - '@count': '89'
+    '@name': high-fantasy
+  - '@count': '85'
+    '@name': epic-fantasy
+  - '@count': '79'
+    '@name': series
+  - '@count': '75'
+    '@name': nebula
+  - '@count': '74'
+    '@name': hugo-award
+  - '@count': '61'
+    '@name': audiobooks
+  - '@count': '59'
+    '@name': hugo-award-winners
+  - '@count': '56'
+    '@name': science-fiction
+  - '@count': '54'
+    '@name': ebook
+  - '@count': '54'
+    '@name': kindle
+  - '@count': '52'
+    '@name': audio
+  - '@count': '50'
+    '@name': hugo-nebula
+  - '@count': '49'
+    '@name': default
+  - '@count': '48'
+    '@name': nebula-winners
+  - '@count': '46'
+    '@name': library
+  - '@count': '46'
+    '@name': sff
+  - '@count': '45'
+    '@name': nebula-award
+  - '@count': '43'
+    '@name': magic
+  - '@count': '41'
+    '@name': sci-fi
+  - '@count': '40'
+    '@name': fantasy-sci-fi
+  - '@count': '37'
+    '@name': scifi-fantasy
+  - '@count': '36'
+    '@name': books-i-own
+  - '@count': '33'
+    '@name': adventure
+  - '@count': '32'
+    '@name': sf-fantasy
+  - '@count': '32'
+    '@name': hugo-awards
+  - '@count': '31'
+    '@name': audible
+  - '@count': '31'
+    '@name': hugo-winner
+  - '@count': '31'
+    '@name': speculative-fiction
+  - '@count': '29'
+    '@name': favourites
+  - '@count': '27'
+    '@name': adult
+  - '@count': '27'
+    '@name': female-author
+  - '@count': '27'
+    '@name': scifi
+  - '@count': '26'
+    '@name': fantasy-romance
+  - '@count': '26'
+    '@name': science-fiction-fantasy
+  - '@count': '25'
+    '@name': nebula-award-winners
+  - '@count': '25'
+    '@name': re-read
+  - '@count': '24'
+    '@name': audio-book
+  - '@count': '21'
+    '@name': sf-f
+  - '@count': '20'
+    '@name': dnf
+  - '@count': '20'
+    '@name': e-book
+  - '@count': '19'
+    '@name': gods
+  - '@count': '19'
+    '@name': sci-fi-and-fantasy
+  - '@count': '19'
+    '@name': lois-mcmaster-bujold
+  - '@count': '19'
+    '@name': to-buy
+  - '@count': '19'
+    '@name': sf
+  - '@count': '19'
+    '@name': nebula-winner
+  - '@count': '19'
+    '@name': bujold
+  - '@count': '18'
+    '@name': genre-fantasy
+  - '@count': '18'
+    '@name': fantasy-scifi
+  - '@count': '18'
+    '@name': ebooks
+  - '@count': '17'
+    '@name': reviewed
+  - '@count': '17'
+    '@name': audio-books
+  - '@count': '17'
+    '@name': hugos
+  - '@count': '17'
+    '@name': female-protagonist
+  - '@count': '17'
+    '@name': chalion
+  - '@count': '16'
+    '@name': owned-books
+  - '@count': '16'
+    '@name': reread
+  - '@count': '16'
+    '@name': fantasy-sf
+  - '@count': '15'
+    '@name': my-library
+  - '@count': '15'
+    '@name': novels
+  - '@count': '15'
+    '@name': religion
+  - '@count': '14'
+    '@name': 2000s
+  - '@count': '14'
+    '@name': fantasy-epic
+  - '@count': '14'
+    '@name': locus-award
+  - '@count': '14'
+    '@name': did-not-finish
+  - '@count': '13'
+    '@name': calibre
+  - '@count': '13'
+    '@name': nebula-awards
+  - '@count': '13'
+    '@name': science-fiction-and-fantasy
+  - '@count': '13'
+    '@name': epic
+  - '@count': '12'
+    '@name': next-in-series
+  - '@count': '12'
+    '@name': demons
+  - '@count': '12'
+    '@name': hugo-nebula-winners
+  - '@count': '12'
+    '@name': e-books
+  - '@count': '11'
+    '@name': unread
+  - '@count': '11'
+    '@name': read-in-2016
+  - '@count': '11'
+    '@name': novel
+  - '@count': '11'
+    '@name': historical
+  - '@count': '11'
+    '@name': mystery
+  - '@count': '11'
+    '@name': speculative
+  - '@count': '11'
+    '@name': medieval
+  - '@count': '11'
+    '@name': own-it
+  - '@count': '11'
+    '@name': award-winner
+  - '@count': '10'
+    '@name': world-of-the-five-gods
+  - '@count': '10'
+    '@name': tbr
+  - '@count': '10'
+    '@name': award-nebula
+  - '@count': '10'
+    '@name': fantasy-to-read
+  - '@count': '10'
+    '@name': fantasy-series
+  - '@count': '10'
+    '@name': favorite-fantasy
+  - '@count': '10'
+    '@name': i-own
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '26179'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/42404728
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/61904.Paladin_of_Souls\"\
+  >Paladin of Souls Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0380818612&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/61904.Paladin_of_Souls?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+  - id: '152840'
+    series:
+      description: "For the internal chronology of the World of the Five Gods according\
+        \ to Bujold's website, <a href=\"https://www.goodreads.com/series/198961-world-of-the-five-gods-chronological\"\
+        >see here</a>.\n    \n    AKA: Chalion"
+      id: '43463'
+      note: null
+      numbered: 'true'
+      primary_work_count: '5'
+      series_works_count: '25'
+      title: World of the Five Gods (Publication)
+    user_position: '2'
+  - id: '1018128'
+    series:
+      description: "According to Bujold's website, the internal chronology of the\
+        \ World of the Five Gods is:\n    -The Hallowed Hunt\n    -Penric's Demon\n\
+        \    -Penric and the Shaman\n    -Penric's Fox\n    -Penric\u2019s Mission\n\
+        \    -Mira's Last Dance \n    -The Prisoner of Limnos\n    -The Orphans of\
+        \ Raspay\n    -The Curse of Chalion\n    -Paladin of Souls\n    \n    For\
+        \ the series ordered by publication date, <a href=\"https://www.goodreads.com/series/43463-world-of-the-five-gods-publication\"\
+        >see here</a>."
+      id: '198961'
+      note: null
+      numbered: 'true'
+      primary_work_count: '4'
+      series_works_count: '16'
+      title: World of the Five Gods (Chronological)
+    user_position: '4'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '14887946'
+        link: https://www.goodreads.com/author/show/14887946.Max_Nowaz
+        name: Max Nowaz
+    average_rating: '4.18'
+    id: '208051245'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707837803l/208051245._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/208051245-the-three-witches-and-the-master
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26179'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707837803l/208051245._SY75_.jpg
+    title: The Three Witches and The Master
+    title_without_series: The Three Witches and The Master
+    uri: kca://book/amzn1.gr.book.v3.JA26Sj6khQKXQeBk
+    work:
+      id: '169441757'
+  - authors:
+      author:
+        id: '8218462'
+        link: https://www.goodreads.com/author/show/8218462.Victoria_Goddard
+        name: Victoria   Goddard
+    average_rating: '4.18'
+    id: '211315708'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/211315708-terec-and-the-wall
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26179'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Terec and the Wall (Terec of Lund, #2)'
+    title_without_series: Terec and the Wall
+    uri: kca://book/amzn1.gr.book.v3.Ay-QLVzbjtvwov0Q
+    work:
+      id: '217563180'
+  - authors:
+      author:
+        id: '7367300'
+        link: https://www.goodreads.com/author/show/7367300.T_Kingfisher
+        name: T. Kingfisher
+    average_rating: '4.18'
+    id: '201967303'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700335369l/201967303._SX98_.jpg
+    isbn: null
+    isbn13: '9798223925859'
+    link: https://www.goodreads.com/book/show/201967303-paladin-s-faith
+    num_pages: '446'
+    publication_day: '5'
+    publication_month: '12'
+    publication_year: '2023'
+    ratings_count: '26179'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700335369l/201967303._SY75_.jpg
+    title: 'Paladin''s Faith (The Saint of Steel, #4)'
+    title_without_series: Paladin's Faith
+    uri: kca://book/amzn1.gr.book.v3.36ZsHjDGRDZWGcx5
+    work:
+      id: '207122024'
+  - authors:
+      author:
+        id: '8218462'
+        link: https://www.goodreads.com/author/show/8218462.Victoria_Goddard
+        name: Victoria   Goddard
+    average_rating: '4.18'
+    id: '43525897'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547081914l/43525897._SX98_.jpg
+    isbn: '1988908159'
+    isbn13: '9781988908151'
+    link: https://www.goodreads.com/book/show/43525897-the-hands-of-the-emperor
+    num_pages: '969'
+    publication_day: '8'
+    publication_month: '1'
+    publication_year: '2019'
+    ratings_count: '26179'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547081914l/43525897._SY75_.jpg
+    title: 'The Hands of the Emperor (Lays of the Hearth-Fire, #1)'
+    title_without_series: The Hands of the Emperor
+    uri: kca://book/amzn1.gr.book.v1.9kAbnm1TZxedLH44H4m6oQ
+    work:
+      id: '67696698'
+  - authors:
+      author:
+        id: '8218462'
+        link: https://www.goodreads.com/author/show/8218462.Victoria_Goddard
+        name: Victoria   Goddard
+    average_rating: '4.18'
+    id: '38111779'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516501689l/38111779._SX98_.jpg
+    isbn: '1988908124'
+    isbn13: '9781988908120'
+    link: https://www.goodreads.com/book/show/38111779-whiskeyjack
+    num_pages: '403'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26179'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516501689l/38111779._SX50_.jpg
+    title: 'Whiskeyjack (Greenwing & Dart, #3)'
+    title_without_series: Whiskeyjack
+    uri: kca://book/amzn1.gr.book.v1.gzx7o6yaZrVVZFaDuOdlvw
+    work:
+      id: '59793307'
+  - authors:
+      author:
+        id: '8218462'
+        link: https://www.goodreads.com/author/show/8218462.Victoria_Goddard
+        name: Victoria   Goddard
+    average_rating: '4.18'
+    id: '48839176'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573928899l/48839176._SX98_.jpg
+    isbn: '1988908183'
+    isbn13: '9781988908182'
+    link: https://www.goodreads.com/book/show/48839176-blackcurrant-fool
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26179'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573928899l/48839176._SX50_.jpg
+    title: 'Blackcurrant Fool (Greenwing & Dart, #4)'
+    title_without_series: Blackcurrant Fool
+    uri: kca://book/amzn1.gr.book.v3.RQluCXjbIMjEiqpI
+    work:
+      id: '74219339'
+  - authors:
+      author:
+        id: '8218462'
+        link: https://www.goodreads.com/author/show/8218462.Victoria_Goddard
+        name: Victoria   Goddard
+    average_rating: '4.18'
+    id: '61127243'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652952480l/61127243._SX98_.jpg
+    isbn: '1988908558'
+    isbn13: '9781988908557'
+    link: https://www.goodreads.com/book/show/61127243-the-redoubtable-pali-avramapul
+    num_pages: '403'
+    publication_day: '20'
+    publication_month: '5'
+    publication_year: '2022'
+    ratings_count: '26179'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652952480l/61127243._SY75_.jpg
+    title: 'The Redoubtable Pali Avramapul (The Red Company Reformed, #2)'
+    title_without_series: The Redoubtable Pali Avramapul
+    uri: kca://book/amzn1.gr.book.v3.aJq_Rh-B6RwJNvUB
+    work:
+      id: '95985399'
+  - authors:
+      author:
+        id: '8218462'
+        link: https://www.goodreads.com/author/show/8218462.Victoria_Goddard
+        name: Victoria   Goddard
+    average_rating: '4.18'
+    id: '36271613'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505880235l/36271613._SX98_.jpg
+    isbn: '1988908000'
+    isbn13: '9781988908007'
+    link: https://www.goodreads.com/book/show/36271613-bee-sting-cake
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26179'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505880235l/36271613._SY75_.jpg
+    title: 'Bee Sting Cake (Greenwing & Dart, #2)'
+    title_without_series: Bee Sting Cake
+    uri: kca://book/amzn1.gr.book.v1.hgvujC5S8KHgHmVvBfsU4g
+    work:
+      id: '57929033'
+  - authors:
+      author:
+        id: '8218462'
+        link: https://www.goodreads.com/author/show/8218462.Victoria_Goddard
+        name: Victoria   Goddard
+    average_rating: '4.18'
+    id: '223031072'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1998133435'
+    isbn13: '9781998133437'
+    link: https://www.goodreads.com/book/show/223031072-balancing-stone
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26179'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Balancing Stone (Greenwing & Dart)
+    title_without_series: Balancing Stone
+    uri: kca://book/amzn1.gr.book.v3.35vVlJyNnThWAHx8
+    work:
+      id: '230085064'
+  - authors:
+      author:
+        id: '6949698'
+        link: https://www.goodreads.com/author/show/6949698.Katherine_Addison
+        name: Katherine Addison
+    average_rating: '4.18'
+    id: '17910048'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373039517l/17910048._SX98_.jpg
+    isbn: 076532699X
+    isbn13: '9780765326997'
+    link: https://www.goodreads.com/book/show/17910048-the-goblin-emperor
+    num_pages: '446'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26179'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373039517l/17910048._SX50_.jpg
+    title: 'The Goblin Emperor (The Chronicles of Osreth, #1)'
+    title_without_series: The Goblin Emperor
+    uri: kca://book/amzn1.gr.book.v1.R-PaHSv-gOD_ksv3tMCtUQ
+    work:
+      id: '24241248'
+  - authors:
+      author:
+        id: '8218462'
+        link: https://www.goodreads.com/author/show/8218462.Victoria_Goddard
+        name: Victoria   Goddard
+    average_rating: '4.18'
+    id: '199662808'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697252498l/199662808._SX98_.jpg
+    isbn: '1998133079'
+    isbn13: '9781998133079'
+    link: https://www.goodreads.com/book/show/199662808-the-game-of-courts
+    num_pages: '67'
+    publication_day: '13'
+    publication_month: '10'
+    publication_year: '2023'
+    ratings_count: '26179'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697252498l/199662808._SY75_.jpg
+    title: 'The Game of Courts (Lays of the Hearth-Fire #0.6)'
+    title_without_series: The Game of Courts
+    uri: kca://book/amzn1.gr.book.v3.pMGLNT2Ik9cv_1Nc
+    work:
+      id: '204210071'
+  - authors:
+      author:
+        id: '8218462'
+        link: https://www.goodreads.com/author/show/8218462.Victoria_Goddard
+        name: Victoria   Goddard
+    average_rating: '4.18'
+    id: '28870544'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456684096l/28870544._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/28870544-stargazy-pie
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26179'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456684096l/28870544._SX50_.jpg
+    title: 'Stargazy Pie (Greenwing & Dart, #1)'
+    title_without_series: Stargazy Pie
+    uri: kca://book/amzn1.gr.book.v1.aYQ18pqNDfBmsgclSX4B2g
+    work:
+      id: '48980313'
+  - authors:
+      author:
+        id: '8218462'
+        link: https://www.goodreads.com/author/show/8218462.Victoria_Goddard
+        name: Victoria   Goddard
+    average_rating: '4.18'
+    id: '34668566'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490278422l/34668566._SX98_.jpg
+    isbn: 0995027048
+    isbn13: '9780995027046'
+    link: https://www.goodreads.com/book/show/34668566-the-bride-of-the-blue-wind
+    num_pages: '56'
+    publication_day: '22'
+    publication_month: '3'
+    publication_year: '2017'
+    ratings_count: '26179'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490278422l/34668566._SX50_.jpg
+    title: 'The Bride of the Blue Wind (The Sisters Avramapul, #1)'
+    title_without_series: The Bride of the Blue Wind
+    uri: kca://book/amzn1.gr.book.v1.6CBWZWPeh2hu1syKTjA4sw
+    work:
+      id: '55837504'
+  - authors:
+      author:
+        id: '7367300'
+        link: https://www.goodreads.com/author/show/7367300.T_Kingfisher
+        name: T. Kingfisher
+    average_rating: '4.18'
+    id: '50702014'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580209503l/50702014._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/50702014-paladin-s-grace
+    num_pages: '366'
+    publication_day: '11'
+    publication_month: '2'
+    publication_year: '2020'
+    ratings_count: '26179'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580209503l/50702014._SY75_.jpg
+    title: 'Paladin''s Grace (The Saint of Steel, #1)'
+    title_without_series: Paladin's Grace
+    uri: kca://book/amzn1.gr.book.v3.PG__5wBur98bTpGb
+    work:
+      id: '75730699'
+  - authors:
+      author:
+        id: '8218462'
+        link: https://www.goodreads.com/author/show/8218462.Victoria_Goddard
+        name: Victoria   Goddard
+    average_rating: '4.18'
+    id: '61918023'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710759229l/61918023._SX98_.jpg
+    isbn: '1988908388'
+    isbn13: '9781988908380'
+    link: https://www.goodreads.com/book/show/61918023-at-the-feet-of-the-sun
+    num_pages: '1330'
+    publication_day: '1'
+    publication_month: '12'
+    publication_year: '2022'
+    ratings_count: '26179'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710759229l/61918023._SY75_.jpg
+    title: 'At the Feet of the Sun (Lays of the Hearth-Fire, #2)'
+    title_without_series: At the Feet of the Sun
+    uri: kca://book/amzn1.gr.book.v3.06NBZgqHWqf_cz_L
+    work:
+      id: '97608505'
+  - authors:
+      author:
+        id: '8218462'
+        link: https://www.goodreads.com/author/show/8218462.Victoria_Goddard
+        name: Victoria   Goddard
+    average_rating: '4.18'
+    id: '55584334'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1988908272'
+    isbn13: '9781988908274'
+    link: https://www.goodreads.com/book/show/55584334-love-in-a-mist
+    num_pages: '283'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26179'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Love-in-a-Mist (Greenwing & Dart, #5)'
+    title_without_series: Love-in-a-Mist
+    uri: kca://book/amzn1.gr.book.v3.8ObVnzY0plT2_wZo
+    work:
+      id: '86681260'
+  - authors:
+      author:
+        id: '8218462'
+        link: https://www.goodreads.com/author/show/8218462.Victoria_Goddard
+        name: Victoria   Goddard
+    average_rating: '4.18'
+    id: '59776217'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1988908477'
+    isbn13: '9781988908472'
+    link: https://www.goodreads.com/book/show/59776217-plum-duff
+    num_pages: '288'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26179'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Plum Duff (Greenwing & Dart, #6)'
+    title_without_series: Plum Duff
+    uri: kca://book/amzn1.gr.book.v3.4bsu4ij1eOz0kg4G
+    work:
+      id: '93814980'
+  - authors:
+      author:
+        id: '989968'
+        link: https://www.goodreads.com/author/show/989968.C_J_Cherryh
+        name: C.J. Cherryh
+    average_rating: '4.18'
+    id: '57065'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316468743l/57065._SX98_.jpg
+    isbn: 0886779103
+    isbn13: '9780886779108'
+    link: https://www.goodreads.com/book/show/57065.Precursor
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26179'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316468743l/57065._SY75_.jpg
+    title: 'Precursor (Foreigner, #4)'
+    title_without_series: Precursor
+    uri: kca://book/amzn1.gr.book.v1.CTWFX99Q5A3FEF-FjFeqFQ
+    work:
+      id: '55593'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '1330'
+  '@type': integer
+title: 'Paladin of Souls (World of the Five Gods, #2)'
+title_without_series: Paladin of Souls
+uri: kca://book/amzn1.gr.book.v1.nL-qruSsD0aXWByqIfnyew
+url: https://www.goodreads.com/book/show/61904.Paladin_of_Souls
+work:
+  id: '819610'
+  uri: kca://work/amzn1.gr.work.v1.Zd8tVMse39IMSiacQxcxug

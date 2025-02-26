@@ -1,0 +1,757 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.23'
+    id: '87305'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1397566224p5/87305.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/87305.Martha_Wells
+    name: Martha Wells
+    ratings_count: '1107070'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1397566224p2/87305.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '111510'
+average_rating: '3.96'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2022-05-08T00:00:00-07:00'
+description: null
+edition_information: null
+format: null
+id: '6528064'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365072242l/6528064._SX98_.jpg
+is_ebook: 'true'
+isbn: 0061827517
+isbn13: '9780061827518'
+json: '{"id": "6528064", "isbn": "0061827517", "isbn13": "9780061827518", "text_reviews_count":
+  {"@type": "integer", "#text": "31"}, "uri": "kca://book/amzn1.gr.book.v1.Xww-WFSv1QWAn5BsGH3qAQ",
+  "title": "The Wizard Hunters (The Fall of Ile-Rien, #1)", "title_without_series":
+  "The Wizard Hunters", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365072242l/6528064._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365072242l/6528064._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/6528064-the-wizard-hunters",
+  "num_pages": "464", "format": null, "edition_information": null, "publisher": "HarperCollins",
+  "publication_day": "13", "publication_year": "2009", "publication_month": "10",
+  "average_rating": "3.96", "ratings_count": "3323", "description": null, "authors":
+  {"author": {"id": "87305", "name": "Martha Wells", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1397566224p5/87305.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1397566224p2/87305.jpg"},
+  "link": "https://www.goodreads.com/author/show/87305.Martha_Wells", "average_rating":
+  "4.23", "ratings_count": "1107070", "text_reviews_count": "111510"}}, "published":
+  "2009", "work": {"id": "3259620", "uri": "kca://work/amzn1.gr.work.v1.ZS8e-fE6Ezj-8vBCDC37WQ"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/4710118130",
+  "read_at": "Sun May 08 00:00:00 -0700 2022", "started_at": "Fri May 06 00:00:00
+  -0700 2022", "date": "Sun May 08 00:00:00 -0700 2022"}'
+kindle_asin: B000FCKI9Q
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/6528064-the-wizard-hunters
+marketplace_id: ATVPDKIKX0DER
+num_pages: '464'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '4229'
+    '@name': to-read
+  - '@count': '532'
+    '@name': currently-reading
+  - '@count': '495'
+    '@name': fantasy
+  - '@count': '48'
+    '@name': steampunk
+  - '@count': '45'
+    '@name': fiction
+  - '@count': '34'
+    '@name': favorites
+  - '@count': '28'
+    '@name': owned
+  - '@count': '26'
+    '@name': library
+  - '@count': '21'
+    '@name': dnf
+  - '@count': '21'
+    '@name': ebook
+  - '@count': '20'
+    '@name': audiobook
+  - '@count': '19'
+    '@name': series
+  - '@count': '19'
+    '@name': science-fiction
+  - '@count': '17'
+    '@name': sci-fi-fantasy
+  - '@count': '16'
+    '@name': audio
+  - '@count': '16'
+    '@name': magic
+  - '@count': '15'
+    '@name': sci-fi
+  - '@count': '14'
+    '@name': kindle
+  - '@count': '12'
+    '@name': to-read-fantasy
+  - '@count': '12'
+    '@name': epic-fantasy
+  - '@count': '12'
+    '@name': books-i-own
+  - '@count': '11'
+    '@name': adventure
+  - '@count': '10'
+    '@name': did-not-finish
+  - '@count': '10'
+    '@name': abandoned
+  - '@count': '10'
+    '@name': martha-wells
+  - '@count': '10'
+    '@name': high-fantasy
+  - '@count': '9'
+    '@name': audible
+  - '@count': '9'
+    '@name': maybe
+  - '@count': '9'
+    '@name': steam-punk
+  - '@count': '9'
+    '@name': fantasy-sci-fi
+  - '@count': '8'
+    '@name': audiobooks
+  - '@count': '8'
+    '@name': ebooks
+  - '@count': '8'
+    '@name': scifi-fantasy
+  - '@count': '8'
+    '@name': romance
+  - '@count': '7'
+    '@name': calibre
+  - '@count': '7'
+    '@name': tbr
+  - '@count': '7'
+    '@name': adult
+  - '@count': '7'
+    '@name': science-fiction-fantasy
+  - '@count': '7'
+    '@name': to-buy
+  - '@count': '6'
+    '@name': default
+  - '@count': '6'
+    '@name': sff
+  - '@count': '5'
+    '@name': hoopla
+  - '@count': '5'
+    '@name': owned-tbr
+  - '@count': '5'
+    '@name': sf-fantasy
+  - '@count': '5'
+    '@name': audio-book
+  - '@count': '5'
+    '@name': borrowed
+  - '@count': '5'
+    '@name': paperback
+  - '@count': '4'
+    '@name': portal-fantasy
+  - '@count': '4'
+    '@name': 2000s
+  - '@count': '4'
+    '@name': g-fantasy
+  - '@count': '4'
+    '@name': 21st-century
+  - '@count': '4'
+    '@name': fantasy-scifi
+  - '@count': '4'
+    '@name': war
+  - '@count': '4'
+    '@name': fantasy-series
+  - '@count': '4'
+    '@name': mannerpunk
+  - '@count': '4'
+    '@name': unfinished
+  - '@count': '3'
+    '@name': read-2024
+  - '@count': '3'
+    '@name': science-fiction-and-fantasy
+  - '@count': '3'
+    '@name': have-but-not-read
+  - '@count': '3'
+    '@name': sword
+  - '@count': '3'
+    '@name': female-authors
+  - '@count': '3'
+    '@name': own-it
+  - '@count': '3'
+    '@name': female-author
+  - '@count': '3'
+    '@name': read-in-2018
+  - '@count': '3'
+    '@name': f-sf
+  - '@count': '3'
+    '@name': parallel
+  - '@count': '3'
+    '@name': read-in-2016
+  - '@count': '3'
+    '@name': steam
+  - '@count': '3'
+    '@name': e-books
+  - '@count': '3'
+    '@name': ya
+  - '@count': '3'
+    '@name': from-library
+  - '@count': '3'
+    '@name': first-in-series
+  - '@count': '3'
+    '@name': paranormal
+  - '@count': '3'
+    '@name': wish-list
+  - '@count': '3'
+    '@name': not-interested
+  - '@count': '3'
+    '@name': reread
+  - '@count': '3'
+    '@name': english
+  - '@count': '3'
+    '@name': public-library
+  - '@count': '3'
+    '@name': e-book
+  - '@count': '3'
+    '@name': fantasy-high
+  - '@count': '3'
+    '@name': epic
+  - '@count': '3'
+    '@name': novel
+  - '@count': '3'
+    '@name': re-read
+  - '@count': '3'
+    '@name': on-hold
+  - '@count': '3'
+    '@name': ile-rien
+  - '@count': '3'
+    '@name': favorite
+  - '@count': '3'
+    '@name': action-adventure
+  - '@count': '2'
+    '@name': digital
+  - '@count': '2'
+    '@name': unread-owned
+  - '@count': '2'
+    '@name': maybe-to-read
+  - '@count': '2'
+    '@name': on-my-shelf
+  - '@count': '2'
+    '@name': want-to-buy
+  - '@count': '2'
+    '@name': own-tbr
+  - '@count': '2'
+    '@name': 2023-priority
+  - '@count': '2'
+    '@name': buddy-reads
+  - '@count': '2'
+    '@name': buy
+  - '@count': '2'
+    '@name': library-book
+  - '@count': '2'
+    '@name': gave-up
+  - '@count': '2'
+    '@name': fantasy-tbr
+  - '@count': '2'
+    '@name': service-presse
+publication_day: '13'
+publication_month: '10'
+publication_year: '2009'
+published: '2009'
+publisher: HarperCollins
+ratings_count: '3323'
+read_at: '2022-05-08T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/4710118130
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/6528064-the-wizard-hunters\"\
+  >The Wizard Hunters Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0061827517&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/6528064-the-wizard-hunters?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+  - id: '223043'
+    series:
+      description: See also <a href="http://www.goodreads.com/series/106490-ile-rien">Ile-Rien</a>.
+      id: '55591'
+      note: null
+      numbered: 'true'
+      primary_work_count: '3'
+      series_works_count: '3'
+      title: The Fall of Ile-Rien
+    user_position: '1'
+  - id: '516046'
+    series:
+      description: <a href="http://www.marthawells.com/ilerien.htm">Ile-Rien</a> is
+        a fictional country which is the setting for five fantasy novels by Martha
+        Wells.
+      id: '106490'
+      note: null
+      numbered: 'true'
+      primary_work_count: '5'
+      series_works_count: '8'
+      title: Ile-Rien
+    user_position: '3'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '3.96'
+    id: '205048105'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/205048105-demon-daughter
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3323'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Demon Daughter (Penric and Desdemona, #12)'
+    title_without_series: Demon Daughter
+    uri: kca://book/amzn1.gr.book.v3.bT0jTdFCWxHHhQaz
+    work:
+      id: '210951415'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '3.96'
+    id: '57768578'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620609235l/57768578._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/57768578-the-assassins-of-thasalon
+    num_pages: '308'
+    publication_day: '10'
+    publication_month: '5'
+    publication_year: '2021'
+    ratings_count: '3323'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620609235l/57768578._SY75_.jpg
+    title: 'The Assassins of Thasalon (Penric and Desdemona, #10)'
+    title_without_series: The Assassins of Thasalon
+    uri: kca://book/amzn1.gr.book.v3.cAkUZM-MR9_Rh7Hq
+    work:
+      id: '90493023'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '3.96'
+    id: '55681881'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/55681881-masquerade-in-lodi
+    num_pages: '102'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3323'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Masquerade in Lodi (Penric and Desdemona, #9)'
+    title_without_series: Masquerade in Lodi
+    uri: kca://book/amzn1.gr.book.v3.FwaXJUzCuJlnlPyU
+    work:
+      id: '86616559'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '3.96'
+    id: '53341301'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588791952l/53341301._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/53341301-the-physicians-of-vilnoc
+    num_pages: '126'
+    publication_day: '7'
+    publication_month: '5'
+    publication_year: '2020'
+    ratings_count: '3323'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588791952l/53341301._SY75_.jpg
+    title: 'The Physicians of Vilnoc (Penric and Desdemona, #8)'
+    title_without_series: The Physicians of Vilnoc
+    uri: kca://book/amzn1.gr.book.v3.54G8LD5YzReJyUi-
+    work:
+      id: '82004699'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '3.96'
+    id: '36440420'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508638041l/36440420._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/36440420-the-prisoner-of-limnos
+    num_pages: '138'
+    publication_day: '26'
+    publication_month: '10'
+    publication_year: '2017'
+    ratings_count: '3323'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508638041l/36440420._SY75_.jpg
+    title: 'The Prisoner of Limnos (Penric and Desdemona, #6)'
+    title_without_series: The Prisoner of Limnos
+    uri: kca://book/amzn1.gr.book.v1.Go_3XxiOWqAo9Ctm8bkZzg
+    work:
+      id: '58141963'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '3.96'
+    id: '34348998'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487582553l/34348998._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/34348998-mira-s-last-dance
+    num_pages: '90'
+    publication_day: '28'
+    publication_month: '2'
+    publication_year: '2017'
+    ratings_count: '3323'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487582553l/34348998._SY75_.jpg
+    title: "Mira\u2019s Last Dance (Penric and Desdemona, #4)"
+    title_without_series: "Mira\u2019s Last Dance"
+    uri: kca://book/amzn1.gr.book.v1.ZNf3Abz1CP4k-gPUgf0Mxg
+    work:
+      id: '55425075'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '3.96'
+    id: '59428934'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659847290l/59428934._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/59428934-knot-of-shadows
+    num_pages: '111'
+    publication_day: '21'
+    publication_month: '10'
+    publication_year: '2021'
+    ratings_count: '3323'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659847290l/59428934._SX50_.jpg
+    title: 'Knot of Shadows (Penric and Desdemona, #11)'
+    title_without_series: Knot of Shadows
+    uri: kca://book/amzn1.gr.book.v3.z6-8_PtOSGJ7zOEI
+    work:
+      id: '93608492'
+  - authors:
+      author:
+        id: '3365457'
+        link: https://www.goodreads.com/author/show/3365457.Ann_Leckie
+        name: Ann Leckie
+    average_rating: '3.96'
+    id: '195820708'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695086912l/195820708._SX98_.jpg
+    isbn: '0316553573'
+    isbn13: '9780316553575'
+    link: https://www.goodreads.com/book/show/195820708-lake-of-souls
+    num_pages: '403'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3323'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695086912l/195820708._SY75_.jpg
+    title: 'Lake of Souls: The Collected Short Fiction'
+    title_without_series: 'Lake of Souls: The Collected Short Fiction'
+    uri: kca://book/amzn1.gr.book.v3.UKhEU1EnnpDAjS44
+    work:
+      id: '187576600'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '3.96'
+    id: '32858701'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478098172l/32858701._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/32858701-penric-s-mission
+    num_pages: '139'
+    publication_day: '2'
+    publication_month: '11'
+    publication_year: '2016'
+    ratings_count: '3323'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478098172l/32858701._SX50_.jpg
+    title: "Penric\u2019s Mission (Penric and Desdemona, #3)"
+    title_without_series: "Penric\u2019s Mission"
+    uri: kca://book/amzn1.gr.book.v1.apmzoyAG6vRTmD3LtaYFeQ
+    work:
+      id: '53462520'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '3.96'
+    id: '35895883'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501618535l/35895883._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/35895883-penric-s-fox
+    num_pages: '113'
+    publication_day: '7'
+    publication_month: '8'
+    publication_year: '2017'
+    ratings_count: '3323'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501618535l/35895883._SX50_.jpg
+    title: "Penric\u2019s Fox (Penric and Desdemona, #5)"
+    title_without_series: "Penric\u2019s Fox"
+    uri: kca://book/amzn1.gr.book.v1.JfG3zb_VgCkrshmmvK_4yQ
+    work:
+      id: '57415059'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '3.96'
+    id: '30365013'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466762873l/30365013._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/30365013-penric-and-the-shaman
+    num_pages: '160'
+    publication_day: '24'
+    publication_month: '6'
+    publication_year: '2016'
+    ratings_count: '3323'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466762873l/30365013._SX50_.jpg
+    title: 'Penric and the Shaman (Penric and Desdemona, #2)'
+    title_without_series: Penric and the Shaman
+    uri: kca://book/amzn1.gr.book.v1.NP5mH_fBHv0eVkUMGqUSJw
+    work:
+      id: '50875790'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '3.96'
+    id: '215793538'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/215793538-penric-and-the-bandit
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3323'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Penric and the Bandit (Penric and Desdemona, #13)'
+    title_without_series: Penric and the Bandit
+    uri: kca://book/amzn1.gr.book.v3.ZgSQDX1uOvjrJ0D7
+    work:
+      id: '220688482'
+  - authors:
+      author:
+        id: '7367300'
+        link: https://www.goodreads.com/author/show/7367300.T_Kingfisher
+        name: T. Kingfisher
+    average_rating: '3.96'
+    id: '201967303'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700335369l/201967303._SX98_.jpg
+    isbn: null
+    isbn13: '9798223925859'
+    link: https://www.goodreads.com/book/show/201967303-paladin-s-faith
+    num_pages: '446'
+    publication_day: '5'
+    publication_month: '12'
+    publication_year: '2023'
+    ratings_count: '3323'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700335369l/201967303._SY75_.jpg
+    title: 'Paladin''s Faith (The Saint of Steel, #4)'
+    title_without_series: Paladin's Faith
+    uri: kca://book/amzn1.gr.book.v3.36ZsHjDGRDZWGcx5
+    work:
+      id: '207122024'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '3.96'
+    id: '25791216'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436108514l/25791216._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/25791216-penric-s-demon
+    num_pages: '103'
+    publication_day: '6'
+    publication_month: '7'
+    publication_year: '2015'
+    ratings_count: '3323'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436108514l/25791216._SX50_.jpg
+    title: "Penric\u2019s Demon (Penric and Desdemona, #1)"
+    title_without_series: "Penric\u2019s Demon"
+    uri: kca://book/amzn1.gr.book.v1.VqMV5N-1y0zYwTW4ZbPyow
+    work:
+      id: '45642232'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '3.96'
+    id: '51193044'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/51193044-the-orphans-of-raspay
+    num_pages: '127'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3323'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Orphans of Raspay (Penric and Desdemona, #7)'
+    title_without_series: The Orphans of Raspay
+    uri: kca://book/amzn1.gr.book.v3.ApSerlpHoOKHetUK
+    work:
+      id: '71836769'
+  - authors:
+      author:
+        id: '3365457'
+        link: https://www.goodreads.com/author/show/3365457.Ann_Leckie
+        name: Ann Leckie
+    average_rating: '3.96'
+    id: '62873999'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673303646l/62873999._SX98_.jpg
+    isbn: 031628971X
+    isbn13: '9780316289719'
+    link: https://www.goodreads.com/book/show/62873999-translation-state
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3323'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673303646l/62873999._SY75_.jpg
+    title: Translation State
+    title_without_series: Translation State
+    uri: kca://book/amzn1.gr.book.v3.IPz5gT7elXgSEOUd
+    work:
+      id: '98667857'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '3.96'
+    id: '61887'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0060574747'
+    isbn13: '9780060574741'
+    link: https://www.goodreads.com/book/show/61887.The_Hallowed_Hunt
+    num_pages: '423'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3323'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Hallowed Hunt (World of the Five Gods, #3)'
+    title_without_series: The Hallowed Hunt
+    uri: kca://book/amzn1.gr.book.v1.CeXPby-XFiT-3iUtImBTnw
+    work:
+      id: '3036421'
+  - authors:
+      author:
+        id: '363130'
+        link: https://www.goodreads.com/author/show/363130.Ben_Aaronovitch
+        name: Ben Aaronovitch
+    average_rating: '3.96'
+    id: '202969855'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711497418l/202969855._SX98_.jpg
+    isbn: 147322442X
+    isbn13: '9781473224421'
+    link: https://www.goodreads.com/book/show/202969855-the-masquerades-of-spring
+    num_pages: '165'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3323'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711497418l/202969855._SY75_.jpg
+    title: 'The Masquerades of Spring (Rivers of London #9.2)'
+    title_without_series: The Masquerades of Spring
+    uri: kca://book/amzn1.gr.book.v3.1UNSjljz29MrzmkX
+    work:
+      id: '208526757'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365072242l/6528064._SY75_.jpg
+started_at: '2022-05-06T00:00:00-07:00'
+text_reviews_count:
+  '#text': '31'
+  '@type': integer
+title: 'The Wizard Hunters (The Fall of Ile-Rien, #1)'
+title_without_series: The Wizard Hunters
+uri: kca://book/amzn1.gr.book.v1.Xww-WFSv1QWAn5BsGH3qAQ
+url: https://www.goodreads.com/book/show/6528064-the-wizard-hunters
+work:
+  id: '3259620'
+  uri: kca://work/amzn1.gr.work.v1.ZS8e-fE6Ezj-8vBCDC37WQ

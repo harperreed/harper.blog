@@ -1,0 +1,169 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.19'
+    id: '2364669'
+    image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+      '@nophoto': 'true'
+    link: https://www.goodreads.com/author/show/2364669.Russell_Lutz
+    name: Russell Lutz
+    ratings_count: '37'
+    role: null
+    small_image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png
+      '@nophoto': 'true'
+    text_reviews_count: '5'
+average_rating: '4.18'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: null
+edition_information: null
+format: null
+id: '6082240'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: 0981519172
+isbn13: '9780981519173'
+json: '{"id": "6082240", "isbn": "0981519172", "isbn13": "9780981519173", "text_reviews_count":
+  {"@type": "integer", "#text": "2"}, "uri": "kca://book/amzn1.gr.book.v1.Fhn8doYXVCPjhYwGbgVt6g",
+  "title": "The Department of Off World Affairs", "title_without_series": "The Department
+  of Off World Affairs", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/6082240-the-department-of-off-world-affairs",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "4.18", "ratings_count": "22", "description": null, "authors": {"author": {"id":
+  "2364669", "name": "Russell Lutz", "role": null, "image_url": {"@nophoto": "true",
+  "#text": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"},
+  "small_image_url": {"@nophoto": "true", "#text": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"},
+  "link": "https://www.goodreads.com/author/show/2364669.Russell_Lutz", "average_rating":
+  "4.19", "ratings_count": "37", "text_reviews_count": "5"}}, "published": null, "work":
+  {"id": "6258955", "uri": "kca://work/amzn1.gr.work.v1.VZoNyUg4SHCxARsDRvfqUw"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/42404690",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B001H31OU4
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/6082240-the-department-of-off-world-affairs
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '23'
+    '@name': to-read
+  - '@count': '2'
+    '@name': science-fiction
+  - '@count': '1'
+    '@name': to-acquire
+  - '@count': '1'
+    '@name': need
+  - '@count': '-1'
+    '@name': currently-reading
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '22'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/42404690
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/6082240-the-department-of-off-world-affairs\"\
+  >The Department of Off World Affairs Reviews</a></h1></div>\n  <iframe sandbox id=\"\
+  the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0981519172&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/6082240-the-department-of-off-world-affairs?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+    authors:
+      author:
+        id: '73149'
+        link: https://www.goodreads.com/author/show/73149.Scott_Lynch
+        name: Scott Lynch
+    average_rating: '4.18'
+    id: '29588376'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458646334l/29588376._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/29588376-the-lies-of-locke-lamora
+    num_pages: '752'
+    publication_day: null
+    publication_month: '3'
+    publication_year: '2016'
+    ratings_count: '22'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458646334l/29588376._SY75_.jpg
+    title: 'The Lies of Locke Lamora (Gentleman Bastard, #1)'
+    title_without_series: The Lies of Locke Lamora
+    uri: kca://book/amzn1.gr.book.v1.3fSYnmUx1yezkML7Fr3CFQ
+    work:
+      id: '2116675'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '2'
+  '@type': integer
+title: The Department of Off World Affairs
+title_without_series: The Department of Off World Affairs
+uri: kca://book/amzn1.gr.book.v1.Fhn8doYXVCPjhYwGbgVt6g
+url: https://www.goodreads.com/book/show/6082240-the-department-of-off-world-affairs
+work:
+  id: '6258955'
+  uri: kca://work/amzn1.gr.work.v1.VZoNyUg4SHCxARsDRvfqUw

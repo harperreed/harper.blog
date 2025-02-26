@@ -1,0 +1,765 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.91'
+    id: '8794'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1355510574p5/8794.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/8794.Charles_Stross
+    name: Charles Stross
+    ratings_count: '274483'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1355510574p2/8794.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '18236'
+average_rating: '3.80'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: In the year 2018, Sergeant Sue Smith of the Edinburgh constabulary is
+  called in on a special case. A daring bank robbery has taken place at Hayek Associates
+  -- a dot-com start-up company that's just floated onto the London stock exchange.
+  But this crime may be a bit beyond Smith's expertise.<br /><br />The prime suspects
+  are a band of marauding orcs with a dragon in tow for fire support. The bank is
+  located within the virtual land of Avalon Four, and the robbery was supposed to
+  be impossible. When word gets out, Hayek Associates and all its virtual "economies"
+  are going to crash hard.<br /><br />For Smith, the investigation seems pointless.
+  But the deeper she digs, the bigger the case gets. There are powerful players --
+  both real and pixilated -- who are watching her every move. Because there is far
+  more at stake than just some game-head's fantasy financial security . . .
+edition_information: Reprint
+format: Mass Market Paperback
+id: '2564523'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: '0441016073'
+isbn13: '9780441016075'
+json: '{"id": "2564523", "isbn": "0441016073", "isbn13": "9780441016075", "text_reviews_count":
+  {"@type": "integer", "#text": "66"}, "uri": "kca://book/amzn1.gr.book.v1.LOSATjyKiRGmI94m2X_uqQ",
+  "title": "Halting State (Halting State, #1)", "title_without_series": "Halting State",
+  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/2564523-halting-state",
+  "num_pages": "324", "format": "Mass Market Paperback", "edition_information": "Reprint",
+  "publisher": null, "publication_day": null, "publication_year": null, "publication_month":
+  null, "average_rating": "3.80", "ratings_count": "12328", "description": "In the
+  year 2018, Sergeant Sue Smith of the Edinburgh constabulary is called in on a special
+  case. A daring bank robbery has taken place at Hayek Associates -- a dot-com start-up
+  company that''s just floated onto the London stock exchange. But this crime may
+  be a bit beyond Smith''s expertise.<br /><br />The prime suspects are a band of
+  marauding orcs with a dragon in tow for fire support. The bank is located within
+  the virtual land of Avalon Four, and the robbery was supposed to be impossible.
+  When word gets out, Hayek Associates and all its virtual \"economies\" are going
+  to crash hard.<br /><br />For Smith, the investigation seems pointless. But the
+  deeper she digs, the bigger the case gets. There are powerful players -- both real
+  and pixilated -- who are watching her every move. Because there is far more at stake
+  than just some game-head''s fantasy financial security . . .", "authors": {"author":
+  {"id": "8794", "name": "Charles Stross", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1355510574p5/8794.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1355510574p2/8794.jpg"},
+  "link": "https://www.goodreads.com/author/show/8794.Charles_Stross", "average_rating":
+  "3.91", "ratings_count": "274483", "text_reviews_count": "18236"}}, "published":
+  null, "work": {"id": "930563", "uri": "kca://work/amzn1.gr.work.v1.Jo_GzKWr9EzCFCQsiZKw-w"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/42404802",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B000W9180A
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/2564523-halting-state
+marketplace_id: ATVPDKIKX0DER
+num_pages: '324'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '7642'
+    '@name': to-read
+  - '@count': '575'
+    '@name': science-fiction
+  - '@count': '343'
+    '@name': sci-fi
+  - '@count': '276'
+    '@name': currently-reading
+  - '@count': '214'
+    '@name': fiction
+  - '@count': '134'
+    '@name': cyberpunk
+  - '@count': '128'
+    '@name': scifi
+  - '@count': '100'
+    '@name': sf
+  - '@count': '93'
+    '@name': owned
+  - '@count': '62'
+    '@name': mystery
+  - '@count': '50'
+    '@name': crime
+  - '@count': '36'
+    '@name': default
+  - '@count': '34'
+    '@name': near-future
+  - '@count': '33'
+    '@name': fantasy
+  - '@count': '30'
+    '@name': speculative-fiction
+  - '@count': '29'
+    '@name': favorites
+  - '@count': '25'
+    '@name': abandoned
+  - '@count': '25'
+    '@name': library
+  - '@count': '24'
+    '@name': kindle
+  - '@count': '23'
+    '@name': series
+  - '@count': '20'
+    '@name': audiobook
+  - '@count': '20'
+    '@name': ebook
+  - '@count': '19'
+    '@name': sci-fi-fantasy
+  - '@count': '19'
+    '@name': thriller
+  - '@count': '17'
+    '@name': sff
+  - '@count': '17'
+    '@name': scotland
+  - '@count': '16'
+    '@name': science
+  - '@count': '16'
+    '@name': to-buy
+  - '@count': '15'
+    '@name': did-not-finish
+  - '@count': '15'
+    '@name': charles-stross
+  - '@count': '13'
+    '@name': scifi-fantasy
+  - '@count': '13'
+    '@name': sciencefiction
+  - '@count': '12'
+    '@name': gaming
+  - '@count': '11'
+    '@name': audiobooks
+  - '@count': '11'
+    '@name': maybe
+  - '@count': '11'
+    '@name': hugo-nominees
+  - '@count': '10'
+    '@name': my-library
+  - '@count': '9'
+    '@name': mystery-thriller
+  - '@count': '9'
+    '@name': ebooks
+  - '@count': '9'
+    '@name': unread
+  - '@count': '9'
+    '@name': games
+  - '@count': '9'
+    '@name': hard-sci-fi
+  - '@count': '9'
+    '@name': sf-fantasy
+  - '@count': '9'
+    '@name': hugo-nominee
+  - '@count': '8'
+    '@name': audio
+  - '@count': '8'
+    '@name': unfinished
+  - '@count': '8'
+    '@name': detective
+  - '@count': '8'
+    '@name': novel
+  - '@count': '8'
+    '@name': books-i-own
+  - '@count': '8'
+    '@name': technology
+  - '@count': '8'
+    '@name': wish-list
+  - '@count': '7'
+    '@name': read-2013
+  - '@count': '7'
+    '@name': dnf
+  - '@count': '7'
+    '@name': audible
+  - '@count': '7'
+    '@name': calibre
+  - '@count': '7'
+    '@name': adventure
+  - '@count': '7'
+    '@name': computer
+  - '@count': '7'
+    '@name': hugo
+  - '@count': '7'
+    '@name': science-fiction-fantasy
+  - '@count': '7'
+    '@name': english
+  - '@count': '7'
+    '@name': novels
+  - '@count': '6'
+    '@name': audio-books
+  - '@count': '6'
+    '@name': edinburgh
+  - '@count': '6'
+    '@name': reality
+  - '@count': '6'
+    '@name': espionage
+  - '@count': '6'
+    '@name': tech
+  - '@count': '6'
+    '@name': conspiracy
+  - '@count': '6'
+    '@name': sci-fi-and-fantasy
+  - '@count': '6'
+    '@name': augmented-reality
+  - '@count': '6'
+    '@name': hugo-award-nominee
+  - '@count': '6'
+    '@name': cyber-punk
+  - '@count': '6'
+    '@name': sf-f
+  - '@count': '5'
+    '@name': fantascienza
+  - '@count': '5'
+    '@name': not-interested
+  - '@count': '5'
+    '@name': tbr
+  - '@count': '5'
+    '@name': physical
+  - '@count': '5'
+    '@name': to-read-fiction
+  - '@count': '5'
+    '@name': read-in-2013
+  - '@count': '5'
+    '@name': digital
+  - '@count': '5'
+    '@name': owned-books
+  - '@count': '5'
+    '@name': not-owned
+  - '@count': '5'
+    '@name': halting-state
+  - '@count': '5'
+    '@name': cyber
+  - '@count': '5'
+    '@name': not-read
+  - '@count': '5'
+    '@name': have
+  - '@count': '5'
+    '@name': male-author
+  - '@count': '5'
+    '@name': spec-fic
+  - '@count': '5'
+    '@name': british
+  - '@count': '5'
+    '@name': fun
+  - '@count': '5'
+    '@name': fantasy-sci-fi
+  - '@count': '5'
+    '@name': gave-up
+  - '@count': '4'
+    '@name': science_fiction
+  - '@count': '4'
+    '@name': science-fiction-and-fantasy
+  - '@count': '4'
+    '@name': genre-science-fiction
+  - '@count': '4'
+    '@name': paper
+  - '@count': '4'
+    '@name': in-library
+  - '@count': '4'
+    '@name': book-club
+  - '@count': '4'
+    '@name': sci-fi-to-read
+  - '@count': '4'
+    '@name': urban-fantasy
+  - '@count': '4'
+    '@name': dead-tree
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '12328'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/42404802
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/2564523-halting-state\"\
+  >Halting State Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0441016073&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/2564523-halting-state?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '202533'
+    series:
+      description: null
+      id: '52276'
+      note: null
+      numbered: 'true'
+      primary_work_count: '2'
+      series_works_count: '2'
+      title: Halting State
+    user_position: '1'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '14407836'
+        link: https://www.goodreads.com/author/show/14407836.A_R_Merrydew
+        name: A.R. Merrydew
+    average_rating: '3.80'
+    id: '215186841'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/215186841-inara
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12328'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Inara (Godfrey Davis, #3)'
+    title_without_series: Inara
+    uri: kca://book/amzn1.gr.book.v3.wCOHuKhf0nZUkB2e
+    work:
+      id: '221595685'
+  - authors:
+      author:
+        id: '7448339'
+        link: https://www.goodreads.com/author/show/7448339.Steven_Decker
+        name: Steven Decker
+    average_rating: '3.80'
+    id: '200923963'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698512599l/200923963._SX98_.jpg
+    isbn: null
+    isbn13: '9798987394014'
+    link: https://www.goodreads.com/book/show/200923963-child-of-another-kind
+    num_pages: '392'
+    publication_day: '18'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '12328'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698512599l/200923963._SY75_.jpg
+    title: 'Child of Another Kind (Another Kind #1)'
+    title_without_series: Child of Another Kind
+    uri: kca://book/amzn1.gr.book.v3.cpxUKP4J15at4iaw
+    work:
+      id: '144050375'
+  - authors:
+      author:
+        id: '14407836'
+        link: https://www.goodreads.com/author/show/14407836.A_R_Merrydew
+        name: A.R. Merrydew
+    average_rating: '3.80'
+    id: '29629427'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/29629427-our-blue-orange
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12328'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Our Blue Orange (Godfrey Davis, #1)'
+    title_without_series: Our Blue Orange
+    uri: kca://book/amzn1.gr.book.v1.qAfANj-ilH25rMdV-G7urQ
+    work:
+      id: '46793738'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '3.80'
+    id: '29739795'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459310074l/29739795._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/29739795-the-mountains-of-mourning
+    num_pages: '83'
+    publication_day: null
+    publication_month: '3'
+    publication_year: '2016'
+    ratings_count: '12328'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459310074l/29739795._SX50_.jpg
+    title: 'The Mountains of Mourning (Vorkosigan Saga, #5.1)'
+    title_without_series: The Mountains of Mourning
+    uri: kca://book/amzn1.gr.book.v1.Z954lHCnN91mKVJpjkD5Ew
+    work:
+      id: '2709863'
+  - authors:
+      author:
+        id: '25883'
+        link: https://www.goodreads.com/author/show/25883.Robert_J_Sawyer
+        name: Robert J. Sawyer
+    average_rating: '3.80'
+    id: '264946'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0765345005'
+    isbn13: '9780765345004'
+    link: https://www.goodreads.com/book/show/264946.Hominids
+    num_pages: '444'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12328'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Hominids (Neanderthal Parallax, #1)'
+    title_without_series: Hominids
+    uri: kca://book/amzn1.gr.book.v1.8bDq3cl6Qd_khHAgoX44eQ
+    work:
+      id: '1500323'
+  - authors:
+      author:
+        id: '5807106'
+        link: https://www.goodreads.com/author/show/5807106.Iain_M_Banks
+        name: Iain M. Banks
+    average_rating: '3.80'
+    id: '422452'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1857230310'
+    isbn13: '9781857230314'
+    link: https://www.goodreads.com/book/show/422452.Against_a_Dark_Background
+    num_pages: '480'
+    publication_day: null
+    publication_month: null
+    publication_year: '1993'
+    ratings_count: '12328'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Against a Dark Background
+    title_without_series: Against a Dark Background
+    uri: kca://book/amzn1.gr.book.v1.sdgTZrSyhPiWZvjBXdHJKw
+    work:
+      id: '809748'
+  - authors:
+      author:
+        id: '12534'
+        link: https://www.goodreads.com/author/show/12534.Larry_Niven
+        name: Larry Niven
+    average_rating: '3.80'
+    id: '64725'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0345336968
+    isbn13: '9780345336965'
+    link: https://www.goodreads.com/book/show/64725.A_World_Out_of_Time
+    num_pages: '246'
+    publication_day: '28'
+    publication_month: '3'
+    publication_year: '1986'
+    ratings_count: '12328'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'A World Out of Time (The State, #1)'
+    title_without_series: A World Out of Time
+    uri: kca://book/amzn1.gr.book.v1.NU6tdxPOhGvtFH8fHDgfEg
+    work:
+      id: '1634535'
+  - authors:
+      author:
+        id: '10517'
+        link: https://www.goodreads.com/author/show/10517.David_Weber
+        name: David Weber
+    average_rating: '3.80'
+    id: '77743'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406525587l/77743._SX98_.jpg
+    isbn: '0743435451'
+    isbn13: '9780743435451'
+    link: https://www.goodreads.com/book/show/77743.War_of_Honor
+    num_pages: '869'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12328'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406525587l/77743._SX50_.jpg
+    title: 'War of Honor (Honor Harrington, #10)'
+    title_without_series: War of Honor
+    uri: kca://book/amzn1.gr.book.v1.CIa_JP6143A0gr2w3Kwtbg
+    work:
+      id: '4362'
+  - authors:
+      author:
+        id: '32699'
+        link: https://www.goodreads.com/author/show/32699.Greg_Egan
+        name: Greg Egan
+    average_rating: '3.80'
+    id: '156775'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0061054232'
+    isbn13: '9780061054235'
+    link: https://www.goodreads.com/book/show/156775.Quarantine
+    num_pages: '280'
+    publication_day: '1'
+    publication_month: '1'
+    publication_year: '1995'
+    ratings_count: '12328'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Quarantine
+    title_without_series: Quarantine
+    uri: kca://book/amzn1.gr.book.v1.ZIhdUysjLzGS9M71ANUG8Q
+    work:
+      id: '1270545'
+  - authors:
+      author:
+        id: '44037'
+        link: https://www.goodreads.com/author/show/44037.Vernor_Vinge
+        name: Vernor Vinge
+    average_rating: '3.80'
+    id: '102439'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316729149l/102439._SX98_.jpg
+    isbn: 0812536363
+    isbn13: '9780812536362'
+    link: https://www.goodreads.com/book/show/102439.Rainbows_End
+    num_pages: '381'
+    publication_day: '3'
+    publication_month: '4'
+    publication_year: '2007'
+    ratings_count: '12328'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316729149l/102439._SY75_.jpg
+    title: Rainbows End
+    title_without_series: Rainbows End
+    uri: kca://book/amzn1.gr.book.v1.9-MC1C0kbnbNVZTQPJcK6w
+    work:
+      id: '3101132'
+  - authors:
+      author:
+        id: '5752454'
+        link: https://www.goodreads.com/author/show/5752454.Robert_Shea
+        name: Robert Shea
+    average_rating: '3.80'
+    id: '57913'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0440539811
+    isbn13: '9780440539810'
+    link: https://www.goodreads.com/book/show/57913.The_Illuminatus_Trilogy
+    num_pages: '805'
+    publication_day: null
+    publication_month: '12'
+    publication_year: '1983'
+    ratings_count: '12328'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Illuminatus! Trilogy
+    title_without_series: The Illuminatus! Trilogy
+    uri: kca://book/amzn1.gr.book.v1.GbZtd0B4o0SolfiNz4nNig
+    work:
+      id: '813'
+  - authors:
+      author:
+        id: '20295'
+        link: https://www.goodreads.com/author/show/20295.Stephen_Baxter
+        name: Stephen Baxter
+    average_rating: '3.80'
+    id: '62992'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1300997637l/62992._SY160_.jpg
+    isbn: 0061056480
+    isbn13: '9780061056482'
+    link: https://www.goodreads.com/book/show/62992.The_Time_Ships
+    num_pages: '520'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12328'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1300997637l/62992._SY75_.jpg
+    title: The Time Ships
+    title_without_series: The Time Ships
+    uri: kca://book/amzn1.gr.book.v1.7zfUwejzMaaUmIeWO0x5-A
+    work:
+      id: '61184'
+  - authors:
+      author:
+        id: '23001'
+        link: https://www.goodreads.com/author/show/23001.Fritz_Leiber
+        name: Fritz Leiber
+    average_rating: '3.80'
+    id: '102281'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312007868l/102281._SX98_.jpg
+    isbn: 0312890788
+    isbn13: '9780312890780'
+    link: https://www.goodreads.com/book/show/102281.The_Big_Time
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12328'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312007868l/102281._SY75_.jpg
+    title: The Big Time
+    title_without_series: The Big Time
+    uri: kca://book/amzn1.gr.book.v1.CJl0WEqZ4vu8H_0PX3bt2Q
+    work:
+      id: '937317'
+  - authors:
+      author:
+        id: '18015'
+        link: https://www.goodreads.com/author/show/18015.Joss_Whedon
+        name: Joss Whedon
+    average_rating: '3.80'
+    id: '133765'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403203994l/133765._SX98_.jpg
+    isbn: '1593074492'
+    isbn13: '9781593074494'
+    link: https://www.goodreads.com/book/show/133765.Those_Left_Behind
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12328'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403203994l/133765._SX50_.jpg
+    title: 'Those Left Behind (Serenity #1)'
+    title_without_series: Those Left Behind
+    uri: kca://book/amzn1.gr.book.v1.nNRO39ynsXYwcg7Zrdokog
+    work:
+      id: '128860'
+  - authors:
+      author:
+        id: '7246594'
+        link: https://www.goodreads.com/author/show/7246594.Jennifer_Foehner_Wells
+        name: Jennifer Foehner Wells
+    average_rating: '3.80'
+    id: '22566044'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403451883l/22566044._SX98_.jpg
+    isbn: 0990479803
+    isbn13: '9780990479802'
+    link: https://www.goodreads.com/book/show/22566044-fluency
+    num_pages: '250'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12328'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403451883l/22566044._SX50_.jpg
+    title: 'Fluency (Confluence, #1)'
+    title_without_series: Fluency
+    uri: kca://book/amzn1.gr.book.v1.Kf8K3utwWxygIVALYlyAxg
+    work:
+      id: '42028608'
+  - authors:
+      author:
+        id: '22565447'
+        link: https://www.goodreads.com/author/show/22565447.Therisa_Peimer
+        name: Therisa Peimer
+    average_rating: '3.80'
+    id: '61608233'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658244114l/61608233._SX98_.jpg
+    isbn: '1039125611'
+    isbn13: '9781039125612'
+    link: https://www.goodreads.com/book/show/61608233-taming-flame
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12328'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658244114l/61608233._SX50_.jpg
+    title: Taming Flame
+    title_without_series: Taming Flame
+    uri: kca://book/amzn1.gr.book.v3.clKIDY7JJdvmz7KB
+    work:
+      id: '97169008'
+  - authors:
+      author:
+        id: '14078'
+        link: https://www.goodreads.com/author/show/14078.David_Brin
+        name: David Brin
+    average_rating: '3.80'
+    id: '25059'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333338016l/25059._SX98_.jpg
+    isbn: '0553573306'
+    isbn13: '9780553573305'
+    link: https://www.goodreads.com/book/show/25059.Brightness_Reef
+    num_pages: '661'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12328'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333338016l/25059._SX50_.jpg
+    title: 'Brightness Reef (Uplift Storm Trilogy, #1)'
+    title_without_series: Brightness Reef
+    uri: kca://book/amzn1.gr.book.v1.EupDNgdrH8iK3iTEG1fghQ
+    work:
+      id: '2644377'
+  - authors:
+      author:
+        id: '43625'
+        link: https://www.goodreads.com/author/show/43625.James_Blish
+        name: James Blish
+    average_rating: '3.80'
+    id: '141805'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1585676020'
+    isbn13: '9781585676026'
+    link: https://www.goodreads.com/book/show/141805.Cities_in_Flight
+    num_pages: null
+    publication_day: '4'
+    publication_month: '1'
+    publication_year: '2005'
+    ratings_count: '12328'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Cities in Flight (Cities in Flight, #1-4)'
+    title_without_series: Cities in Flight
+    uri: kca://book/amzn1.gr.book.v1.89PisrBYbxLL4018X1QA6w
+    work:
+      id: '136770'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '66'
+  '@type': integer
+title: 'Halting State (Halting State, #1)'
+title_without_series: Halting State
+uri: kca://book/amzn1.gr.book.v1.LOSATjyKiRGmI94m2X_uqQ
+url: https://www.goodreads.com/book/show/2564523-halting-state
+work:
+  id: '930563'
+  uri: kca://work/amzn1.gr.work.v1.Jo_GzKWr9EzCFCQsiZKw-w

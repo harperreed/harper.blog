@@ -1,0 +1,738 @@
+asin: B01F7IQEHC
+authors:
+  author:
+    average_rating: '4.34'
+    id: '15241440'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1583115406p5/15241440.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/15241440.Exurb1a
+    name: Exurb1a
+    ratings_count: '13544'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1583115406p2/15241440.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '1338'
+average_rating: '4.28'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2016-12-03T00:00:00-08:00'
+description: null
+edition_information: null
+format: null
+id: '30137549'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn:
+  '@nil': 'true'
+isbn13:
+  '@nil': 'true'
+json: '{"id": "30137549", "isbn": {"@nil": "true"}, "isbn13": {"@nil": "true"}, "text_reviews_count":
+  {"@type": "integer", "#text": "108"}, "uri": "kca://book/amzn1.gr.book.v1.L3R5P0lTkM_-F-44Ln9Hfw",
+  "title": "The Bridge to Lucy Dunne", "title_without_series": "The Bridge to Lucy
+  Dunne", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/30137549-the-bridge-to-lucy-dunne",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "4.28", "ratings_count": "1303", "description": null, "authors": {"author": {"id":
+  "15241440", "name": "Exurb1a", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1583115406p5/15241440.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1583115406p2/15241440.jpg"},
+  "link": "https://www.goodreads.com/author/show/15241440.Exurb1a", "average_rating":
+  "4.34", "ratings_count": "13544", "text_reviews_count": "1338"}}, "published": null,
+  "work": {"id": "50571190", "uri": "kca://work/amzn1.gr.work.v1.mLbGi3GDfVlP1vM_tMZrVA"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1829229465",
+  "read_at": "Sat Dec 03 00:00:00 -0800 2016", "started_at": "", "date": "Sat Dec
+  03 00:00:00 -0800 2016"}'
+kindle_asin: B01F7IQEHC
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/30137549-the-bridge-to-lucy-dunne
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '2391'
+    '@name': to-read
+  - '@count': '276'
+    '@name': currently-reading
+  - '@count': '44'
+    '@name': fiction
+  - '@count': '20'
+    '@name': science-fiction
+  - '@count': '19'
+    '@name': sci-fi
+  - '@count': '15'
+    '@name': short-stories
+  - '@count': '10'
+    '@name': fantasy
+  - '@count': '8'
+    '@name': scifi
+  - '@count': '6'
+    '@name': philosophy
+  - '@count': '6'
+    '@name': owned
+  - '@count': '6'
+    '@name': ebook
+  - '@count': '6'
+    '@name': favorites
+  - '@count': '5'
+    '@name': kindle
+  - '@count': '4'
+    '@name': to-buy
+  - '@count': '3'
+    '@name': science
+  - '@count': '3'
+    '@name': short-story-collection
+  - '@count': '3'
+    '@name': literature
+  - '@count': '2'
+    '@name': want-to-buy
+  - '@count': '2'
+    '@name': speculative-fiction
+  - '@count': '2'
+    '@name': kindle-books
+  - '@count': '2'
+    '@name': kindle-owned
+  - '@count': '2'
+    '@name': dont-own
+  - '@count': '2'
+    '@name': digital
+  - '@count': '2'
+    '@name': tbr
+  - '@count': '2'
+    '@name': soon
+  - '@count': '2'
+    '@name': read-2018
+  - '@count': '2'
+    '@name': narrative
+  - '@count': '2'
+    '@name': english
+  - '@count': '2'
+    '@name': abandoned
+  - '@count': '2'
+    '@name': to-read-fiction
+  - '@count': '2'
+    '@name': short
+  - '@count': '2'
+    '@name': humour
+  - '@count': '1'
+    '@name': short-fiction
+  - '@count': '1'
+    '@name': speculative
+  - '@count': '1'
+    '@name': high-priority-fiction
+  - '@count': '1'
+    '@name': 2025-reading-plans
+  - '@count': '1'
+    '@name': other-fiction
+  - '@count': '1'
+    '@name': dystopian-fantasy-suspense
+  - '@count': '1'
+    '@name': i-really-want-these
+  - '@count': '1'
+    '@name': unowned-enrichment-books
+  - '@count': '1'
+    '@name': read-2024
+  - '@count': '1'
+    '@name': "fic\xE7\xE3o"
+  - '@count': '1'
+    '@name': no-longer-want-to-read
+  - '@count': '1'
+    '@name': sci-fi-single
+  - '@count': '1'
+    '@name': short-n-sweet
+  - '@count': '1'
+    '@name': psy-fy
+  - '@count': '1'
+    '@name': "\u5DF2\u4E0B-4-\u6587\u5B78\u4E4B\u5C0F\u8AAA\u7BC7"
+  - '@count': '1'
+    '@name': own-digital
+  - '@count': '1'
+    '@name': sff-and-speculative
+  - '@count': '1'
+    '@name': meow
+  - '@count': '1'
+    '@name': downloaded
+  - '@count': '1'
+    '@name': not-in-system
+  - '@count': '1'
+    '@name': ebook-index
+  - '@count': '1'
+    '@name': in-hand-tbr
+  - '@count': '1'
+    '@name': archive
+  - '@count': '1'
+    '@name': to-edit
+  - '@count': '1'
+    '@name': give-it-a-chance
+  - '@count': '1'
+    '@name': read1
+  - '@count': '1'
+    '@name': lil-bro-s-recommendations
+  - '@count': '1'
+    '@name': sci-fi-to-read
+  - '@count': '1'
+    '@name': 2024-reading-plans
+  - '@count': '1'
+    '@name': fantasy-sci-fi
+  - '@count': '1'
+    '@name': anthologies
+  - '@count': '1'
+    '@name': 1-priority
+  - '@count': '1'
+    '@name': want-to-own
+  - '@count': '1'
+    '@name': kindle-only-no-biggie
+  - '@count': '1'
+    '@name': lost-interest
+  - '@count': '1'
+    '@name': scifi-shorts
+  - '@count': '1'
+    '@name': before-2022
+  - '@count': '1'
+    '@name': plan-on-reading
+  - '@count': '1'
+    '@name': horror-cosmos
+  - '@count': '1'
+    '@name': to-read-have-copy
+  - '@count': '1'
+    '@name': up-next
+  - '@count': '1'
+    '@name': spaceship-alien
+  - '@count': '1'
+    '@name': tbs
+  - '@count': '1'
+    '@name': kobo-tbr
+  - '@count': '1'
+    '@name': funny
+  - '@count': '1'
+    '@name': phantom
+  - '@count': '1'
+    '@name': short-standalone-reads
+  - '@count': '1'
+    '@name': hidden-gem-science-fiction
+  - '@count': '1'
+    '@name': novels
+  - '@count': '1'
+    '@name': weird
+  - '@count': '1'
+    '@name': impeccable-reads
+  - '@count': '1'
+    '@name': 2023-to-read
+  - '@count': '1'
+    '@name': dystopian
+  - '@count': '1'
+    '@name': books-i-will-finish-one-day
+  - '@count': '1'
+    '@name': exported
+  - '@count': '1'
+    '@name': temp
+  - '@count': '1'
+    '@name': random
+  - '@count': '1'
+    '@name': novel-sci-fi
+  - '@count': '1'
+    '@name': favs
+  - '@count': '1'
+    '@name': good
+  - '@count': '1'
+    '@name': owned-but-unread
+  - '@count': '1'
+    '@name': on-kindle
+  - '@count': '1'
+    '@name': downloaded-books
+  - '@count': '1'
+    '@name': found-but-not-other
+  - '@count': '1'
+    '@name': 21st-century
+  - '@count': '1'
+    '@name': shelved
+  - '@count': '1'
+    '@name': collections
+  - '@count': '1'
+    '@name': priority-reads
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '1303'
+read_at: '2016-12-03T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/1829229465
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/30137549-the-bridge-to-lucy-dunne\"\
+  >The Bridge to Lucy Dunne Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B01F7IQEHC&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/30137549-the-bridge-to-lucy-dunne?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '8352974'
+        link: https://www.goodreads.com/author/show/8352974.qntm
+        name: qntm
+    average_rating: '4.28'
+    id: '63198504'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/63198504-valuable-humans-in-transit-and-other-stories
+    num_pages: '101'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1303'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Valuable Humans in Transit and Other Stories
+    title_without_series: Valuable Humans in Transit and Other Stories
+    uri: kca://book/amzn1.gr.book.v3.sNxXy6_mlKAz7_9E
+    work:
+      id: '99070965'
+  - authors:
+      author:
+        id: '8352974'
+        link: https://www.goodreads.com/author/show/8352974.qntm
+        name: qntm
+    average_rating: '4.28'
+    id: '54870256'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/54870256-there-is-no-antimemetics-division
+    num_pages: '220'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1303'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: There Is No Antimemetics Division
+    title_without_series: There Is No Antimemetics Division
+    uri: kca://book/amzn1.gr.book.v3.BgcuVdp6_roAAOLm
+    work:
+      id: '84995086'
+  - authors:
+      author:
+        id: '8352974'
+        link: https://www.goodreads.com/author/show/8352974.qntm
+        name: qntm
+    average_rating: '4.28'
+    id: '57891574'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619700827l/57891574._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/57891574-ed
+    num_pages: '146'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1303'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619700827l/57891574._SY75_.jpg
+    title: Ed
+    title_without_series: Ed
+    uri: kca://book/amzn1.gr.book.v3.x4KjdJtV2IbPhjHT
+    work:
+      id: '27477203'
+  - authors:
+      author:
+        id: '14958993'
+        link: https://www.goodreads.com/author/show/14958993.Roger_Williams
+        name: Roger    Williams
+    average_rating: '4.28'
+    id: '64341'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1411602196'
+    isbn13: '9781411602199'
+    link: https://www.goodreads.com/book/show/64341.The_Metamorphosis_of_Prime_Intellect
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1303'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Metamorphosis of Prime Intellect
+    title_without_series: The Metamorphosis of Prime Intellect
+    uri: kca://book/amzn1.gr.book.v1.Mg8V2YZ1pXNjm1NCcQZqNA
+    work:
+      id: '62459'
+  - authors:
+      author:
+        id: '8352974'
+        link: https://www.goodreads.com/author/show/8352974.qntm
+        name: qntm
+    average_rating: '4.28'
+    id: '57891620'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619701225l/57891620._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/57891620-fine-structure
+    num_pages: '357'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1303'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619701225l/57891620._SY75_.jpg
+    title: Fine Structure
+    title_without_series: Fine Structure
+    uri: kca://book/amzn1.gr.book.v3.WQx5mBK7S8lTfET2
+    work:
+      id: '21857445'
+  - authors:
+      author:
+        id: '8352974'
+        link: https://www.goodreads.com/author/show/8352974.qntm
+        name: qntm
+    average_rating: '4.28'
+    id: '57891607'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619701086l/57891607._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/57891607-ra
+    num_pages: '543'
+    publication_day: '11'
+    publication_month: '12'
+    publication_year: '2018'
+    ratings_count: '1303'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619701086l/57891607._SY75_.jpg
+    title: Ra
+    title_without_series: Ra
+    uri: kca://book/amzn1.gr.book.v3.vlFePHbIuRe5DcVT
+    work:
+      id: '42136386'
+  - authors:
+      author:
+        id: '3093075'
+        link: https://www.goodreads.com/author/show/3093075.Edwin_A_Abbott
+        name: Edwin A. Abbott
+    average_rating: '4.28'
+    id: '433567'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435435775l/433567._SX98_.jpg
+    isbn: 048627263X
+    isbn13: '9780486272634'
+    link: https://www.goodreads.com/book/show/433567.Flatland
+    num_pages: '96'
+    publication_day: '21'
+    publication_month: '9'
+    publication_year: '1992'
+    ratings_count: '1303'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435435775l/433567._SY75_.jpg
+    title: 'Flatland: A Romance of Many Dimensions'
+    title_without_series: 'Flatland: A Romance of Many Dimensions'
+    uri: kca://book/amzn1.gr.book.v1.VK5xtxMv6QdTtmPgxxy6NA
+    work:
+      id: '4243538'
+  - authors:
+      author:
+        id: '32699'
+        link: https://www.goodreads.com/author/show/32699.Greg_Egan
+        name: Greg Egan
+    average_rating: '4.28'
+    id: '156785'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '3453161815'
+    isbn13: '9783453161818'
+    link: https://www.goodreads.com/book/show/156785.Diaspora
+    num_pages: '443'
+    publication_day: null
+    publication_month: '2'
+    publication_year: '2000'
+    ratings_count: '1303'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Diaspora
+    title_without_series: Diaspora
+    uri: kca://book/amzn1.gr.book.v1.wxe1aCBeSp9am5kzCVH9XQ
+    work:
+      id: '1007609'
+  - authors:
+      author:
+        id: '32699'
+        link: https://www.goodreads.com/author/show/32699.Greg_Egan
+        name: Greg Egan
+    average_rating: '4.28'
+    id: '156784'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287341300l/156784._SX98_.jpg
+    isbn: 006105481X
+    isbn13: '9780061054815'
+    link: https://www.goodreads.com/book/show/156784.Permutation_City
+    num_pages: null
+    publication_day: '1'
+    publication_month: '10'
+    publication_year: '1995'
+    ratings_count: '1303'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287341300l/156784._SY75_.jpg
+    title: Permutation City
+    title_without_series: Permutation City
+    uri: kca://book/amzn1.gr.book.v1.A3IoZPRSxagXXL_SaevHJw
+    work:
+      id: '1270567'
+  - authors:
+      author:
+        id: '12130438'
+        link: https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor
+        name: Dennis E. Taylor
+    average_rating: '4.28'
+    id: '159116833'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712930306l/159116833._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/159116833-not-till-we-are-lost
+    num_pages: '413'
+    publication_day: '5'
+    publication_month: '9'
+    publication_year: '2024'
+    ratings_count: '1303'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712930306l/159116833._SX50_.jpg
+    title: 'Not Till We Are Lost (Bobiverse #5)'
+    title_without_series: Not Till We Are Lost
+    uri: kca://book/amzn1.gr.book.v3.AzkbsrEAp5F3hB8P
+    work:
+      id: '171689305'
+  - authors:
+      author:
+        id: '32699'
+        link: https://www.goodreads.com/author/show/32699.Greg_Egan
+        name: Greg Egan
+    average_rating: '4.28'
+    id: '100184137'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1922240451'
+    isbn13: '9781922240453'
+    link: https://www.goodreads.com/book/show/100184137-sleep-and-the-soul
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1303'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Sleep and the Soul
+    title_without_series: Sleep and the Soul
+    uri: kca://book/amzn1.gr.book.v3.8Q-R_Z6hyW__qP4u
+    work:
+      id: '123783491'
+  - authors:
+      author:
+        id: '42414'
+        link: https://www.goodreads.com/author/show/42414.Steven_L_Peck
+        name: Steven L. Peck
+    average_rating: '4.28'
+    id: '13456414'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328629682l/13456414._SX98_.jpg
+    isbn: 098374842X
+    isbn13: '9780983748427'
+    link: https://www.goodreads.com/book/show/13456414-a-short-stay-in-hell
+    num_pages: '110'
+    publication_day: '23'
+    publication_month: '3'
+    publication_year: '2012'
+    ratings_count: '1303'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328629682l/13456414._SY75_.jpg
+    title: A Short Stay in Hell
+    title_without_series: A Short Stay in Hell
+    uri: kca://book/amzn1.gr.book.v1.3PwBFXCHGcFMt8c0LL7mlA
+    work:
+      id: '18985342'
+  - authors:
+      author:
+        id: '15862877'
+        link: https://www.goodreads.com/author/show/15862877.Rebecca_Roanhorse
+        name: Rebecca Roanhorse
+    average_rating: '4.28'
+    id: '151908270'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686330044l/151908270._SX98_.jpg
+    isbn: '1662515030'
+    isbn13: '9781662515033'
+    link: https://www.goodreads.com/book/show/151908270-falling-bodies
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1303'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686330044l/151908270._SY75_.jpg
+    title: 'Falling Bodies (The Far Reaches, #3)'
+    title_without_series: Falling Bodies
+    uri: kca://book/amzn1.gr.book.v3.aVBkequgXUWa6F8b
+    work:
+      id: '166693213'
+  - authors:
+      author:
+        id: '17628342'
+        link: https://www.goodreads.com/author/show/17628342.Simone_Davies
+        name: Simone Davies
+    average_rating: '4.28'
+    id: '54110546'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608663570l/54110546._SX98_.jpg
+    isbn: '1523512407'
+    isbn13: '9781523512409'
+    link: https://www.goodreads.com/book/show/54110546-the-montessori-baby
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1303'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608663570l/54110546._SX50_.jpg
+    title: 'The Montessori Baby: A Parent''s Guide to Nurturing Your Baby with Love,
+      Respect, and Understanding (The Parents'' Guide to Montessori, 2)'
+    title_without_series: 'The Montessori Baby: A Parent''s Guide to Nurturing Your
+      Baby with Love, Respect, and Understanding'
+    uri: kca://book/amzn1.gr.book.v3.HZlwHY1Da5STAMXZ
+    work:
+      id: '84458606'
+  - authors:
+      author:
+        id: '108281'
+        link: https://www.goodreads.com/author/show/108281.Ken_MacLeod
+        name: Ken MacLeod
+    average_rating: '4.28'
+    id: '58605538'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630066459l/58605538._SX98_.jpg
+    isbn: 035651479X
+    isbn13: null
+    link: https://www.goodreads.com/book/show/58605538-beyond-the-hallowed-sky
+    num_pages: '320'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1303'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630066459l/58605538._SY75_.jpg
+    title: 'Beyond the Hallowed Sky (Lightspeed Trilogy, #1)'
+    title_without_series: Beyond the Hallowed Sky
+    uri: kca://book/amzn1.gr.book.v3.qV6OQkMpqD5tw471
+    work:
+      id: '92154272'
+  - authors:
+      author:
+        id: '4555107'
+        link: https://www.goodreads.com/author/show/4555107.Yan_Ge
+        name: Yan Ge
+    average_rating: '4.28'
+    id: '57099452'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648984958l/57099452._SX98_.jpg
+    isbn: '1612199097'
+    isbn13: '9781612199092'
+    link: https://www.goodreads.com/book/show/57099452-strange-beasts-of-china
+    num_pages: '232'
+    publication_day: '13'
+    publication_month: '7'
+    publication_year: '2021'
+    ratings_count: '1303'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648984958l/57099452._SY75_.jpg
+    title: Strange Beasts of China
+    title_without_series: Strange Beasts of China
+    uri: kca://book/amzn1.gr.book.v3.J2iL99xu17oQDVQi
+    work:
+      id: '73120844'
+  - authors:
+      author:
+        id: '10538'
+        link: https://www.goodreads.com/author/show/10538.Carl_Sagan
+        name: Carl Sagan
+    average_rating: '4.28'
+    id: '17349'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553691804l/17349._SX98_.jpg
+    isbn: 0345409469
+    isbn13: '9780345409461'
+    link: https://www.goodreads.com/book/show/17349.The_Demon_Haunted_World
+    num_pages: '459'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1303'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553691804l/17349._SX50_.jpg
+    title: 'The Demon-Haunted World: Science as a Candle in the Dark'
+    title_without_series: 'The Demon-Haunted World: Science as a Candle in the Dark'
+    uri: kca://book/amzn1.gr.book.v1.yNA9gyC5Ww_iwXJEg12oGg
+    work:
+      id: '252618'
+  - authors:
+      author:
+        id: '5780686'
+        link: https://www.goodreads.com/author/show/5780686.Liu_Cixin
+        name: Liu Cixin
+    average_rating: '4.28'
+    id: '23168817'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412064931l/23168817._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/23168817-the-dark-forest
+    num_pages: '512'
+    publication_day: '11'
+    publication_month: '8'
+    publication_year: '2015'
+    ratings_count: '1303'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412064931l/23168817._SY75_.jpg
+    title: "The Dark Forest (Remembrance of Earth\u2019s Past, #2)"
+    title_without_series: The Dark Forest
+    uri: kca://book/amzn1.gr.book.v1.vTopmk9oajebqvm2DNDWNg
+    work:
+      id: '42713958'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '108'
+  '@type': integer
+title: The Bridge to Lucy Dunne
+title_without_series: The Bridge to Lucy Dunne
+uri: kca://book/amzn1.gr.book.v1.L3R5P0lTkM_-F-44Ln9Hfw
+url: https://www.goodreads.com/book/show/30137549-the-bridge-to-lucy-dunne
+work:
+  id: '50571190'
+  uri: kca://work/amzn1.gr.work.v1.mLbGi3GDfVlP1vM_tMZrVA

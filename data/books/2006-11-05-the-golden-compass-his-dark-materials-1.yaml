@@ -1,0 +1,783 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.06'
+    id: '3618'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1614625372p5/3618.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/3618.Philip_Pullman
+    name: Philip Pullman
+    ratings_count: '2943640'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1614625372p2/3618.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '93801'
+average_rating: '4.03'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: 'Lyra is rushing to the cold, far North, where witch clans and armored
+  bears rule. North, where the Gobblers take the children they steal--including her
+  friend Roger. North, where her fearsome uncle Asriel is trying to build a bridge
+  to a parallel world.<br /><br />Can one small girl make a difference in such great
+  and terrible endeavors? This is Lyra: a savage, a schemer, a liar, and as fierce
+  and true a champion as Roger or Asriel could want--but what Lyra doesn''t know is
+  that to help one of them will be to betray the other.'
+edition_information: Deluxe 10th Anniversary Edition
+format: null
+id: '18115'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366242592l/18115._SX98_.jpg
+is_ebook: 'false'
+isbn: 0375838309
+isbn13: '9780375838309'
+json: '{"id": "18115", "isbn": "0375838309", "isbn13": "9780375838309", "text_reviews_count":
+  {"@type": "integer", "#text": "218"}, "uri": "kca://book/amzn1.gr.book.v1.xr-0jesVcSGVwF94_znbDA",
+  "title": "The Golden Compass (His Dark Materials, #1)", "title_without_series":
+  "The Golden Compass", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366242592l/18115._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366242592l/18115._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/18115.The_Golden_Compass",
+  "num_pages": null, "format": null, "edition_information": "Deluxe 10th Anniversary
+  Edition", "publisher": null, "publication_day": null, "publication_year": null,
+  "publication_month": null, "average_rating": "4.03", "ratings_count": "1576465",
+  "description": "Lyra is rushing to the cold, far North, where witch clans and armored
+  bears rule. North, where the Gobblers take the children they steal--including her
+  friend Roger. North, where her fearsome uncle Asriel is trying to build a bridge
+  to a parallel world.<br /><br />Can one small girl make a difference in such great
+  and terrible endeavors? This is Lyra: a savage, a schemer, a liar, and as fierce
+  and true a champion as Roger or Asriel could want--but what Lyra doesn''t know is
+  that to help one of them will be to betray the other.", "authors": {"author": {"id":
+  "3618", "name": "Philip Pullman", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1614625372p5/3618.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1614625372p2/3618.jpg"},
+  "link": "https://www.goodreads.com/author/show/3618.Philip_Pullman", "average_rating":
+  "4.06", "ratings_count": "2943640", "text_reviews_count": "93801"}}, "published":
+  null, "work": {"id": "1536771", "uri": "kca://work/amzn1.gr.work.v1.AlR_HRV99vYxLu4zftM-ZQ"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417628",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B000FC1ICM
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/18115.The_Golden_Compass
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '597904'
+    '@name': to-read
+  - '@count': '597903'
+    '@name': to-read
+  - '@count': '30081'
+    '@name': fantasy
+  - '@count': '18978'
+    '@name': currently-reading
+  - '@count': '10256'
+    '@name': favorites
+  - '@count': '8389'
+    '@name': young-adult
+  - '@count': '6937'
+    '@name': fiction
+  - '@count': '4030'
+    '@name': ya
+  - '@count': '3573'
+    '@name': owned
+  - '@count': '2378'
+    '@name': books-i-own
+  - '@count': '2029'
+    '@name': series
+  - '@count': '1633'
+    '@name': childrens
+  - '@count': '1586'
+    '@name': favourites
+  - '@count': '1498'
+    '@name': adventure
+  - '@count': '1283'
+    '@name': middle-grade
+  - '@count': '1255'
+    '@name': audiobook
+  - '@count': '1229'
+    '@name': science-fiction
+  - '@count': '1103'
+    '@name': children
+  - '@count': '1023'
+    '@name': audiobooks
+  - '@count': '1011'
+    '@name': sci-fi
+  - '@count': '986'
+    '@name': steampunk
+  - '@count': '956'
+    '@name': sci-fi-fantasy
+  - '@count': '893'
+    '@name': physical-tbr
+  - '@count': '878'
+    '@name': childhood
+  - '@count': '801'
+    '@name': children-s
+  - '@count': '758'
+    '@name': dnf
+  - '@count': '698'
+    '@name': owned-books
+  - '@count': '695'
+    '@name': ya-fantasy
+  - '@count': '676'
+    '@name': magic
+  - '@count': '667'
+    '@name': kids
+  - '@count': '642'
+    '@name': library
+  - '@count': '607'
+    '@name': fantasy-sci-fi
+  - '@count': '605'
+    '@name': re-read
+  - '@count': '530'
+    '@name': children-s-books
+  - '@count': '517'
+    '@name': audio
+  - '@count': '482'
+    '@name': novels
+  - '@count': '464'
+    '@name': his-dark-materials
+  - '@count': '459'
+    '@name': my-library
+  - '@count': '436'
+    '@name': my-books
+  - '@count': '420'
+    '@name': kindle
+  - '@count': '393'
+    '@name': scifi-fantasy
+  - '@count': '392'
+    '@name': default
+  - '@count': '387'
+    '@name': teen
+  - '@count': '384'
+    '@name': book-club
+  - '@count': '372'
+    '@name': reread
+  - '@count': '365'
+    '@name': high-fantasy
+  - '@count': '364'
+    '@name': ya-fiction
+  - '@count': '330'
+    '@name': to-buy
+  - '@count': '326'
+    '@name': all-time-favorites
+  - '@count': '324'
+    '@name': bookshelf
+  - '@count': '323'
+    '@name': religion
+  - '@count': '323'
+    '@name': childrens-books
+  - '@count': '315'
+    '@name': ebook
+  - '@count': '310'
+    '@name': philip-pullman
+  - '@count': '278'
+    '@name': audible
+  - '@count': '274'
+    '@name': fantasia
+  - '@count': '273'
+    '@name': i-own
+  - '@count': '273'
+    '@name': english
+  - '@count': '267'
+    '@name': did-not-finish
+  - '@count': '265'
+    '@name': childhood-favorites
+  - '@count': '258'
+    '@name': books
+  - '@count': '258'
+    '@name': fantasy-scifi
+  - '@count': '255'
+    '@name': novel
+  - '@count': '252'
+    '@name': abandoned
+  - '@count': '250'
+    '@name': science-fiction-fantasy
+  - '@count': '249'
+    '@name': on-my-shelf
+  - '@count': '246'
+    '@name': audio-books
+  - '@count': '244'
+    '@name': british
+  - '@count': '243'
+    '@name': 5-stars
+  - '@count': '239'
+    '@name': childhood-books
+  - '@count': '232'
+    '@name': young-adult-fiction
+  - '@count': '227'
+    '@name': genre-fantasy
+  - '@count': '226'
+    '@name': kids-books
+  - '@count': '224'
+    '@name': classic
+  - '@count': '219'
+    '@name': read-in-2019
+  - '@count': '218'
+    '@name': speculative-fiction
+  - '@count': '212'
+    '@name': audio-book
+  - '@count': '209'
+    '@name': faves
+  - '@count': '209'
+    '@name': banned-books
+  - '@count': '206'
+    '@name': youth
+  - '@count': '206'
+    '@name': my-bookshelf
+  - '@count': '205'
+    '@name': coming-of-age
+  - '@count': '199'
+    '@name': favorite
+  - '@count': '198'
+    '@name': home-library
+  - '@count': '197'
+    '@name': to-reread
+  - '@count': '197'
+    '@name': sff
+  - '@count': '197'
+    '@name': animals
+  - '@count': '194'
+    '@name': favorite-books
+  - '@count': '192'
+    '@name': mystery
+  - '@count': '188'
+    '@name': 4-stars
+  - '@count': '187'
+    '@name': "fantas\xEDa"
+  - '@count': '186'
+    '@name': juvenile
+  - '@count': '182'
+    '@name': have
+  - '@count': '182'
+    '@name': to-re-read
+  - '@count': '180'
+    '@name': winter
+  - '@count': '180'
+    '@name': children-s-literature
+  - '@count': '178'
+    '@name': fantasy-fiction
+  - '@count': '178'
+    '@name': sci-fi-and-fantasy
+  - '@count': '178'
+    '@name': children-s-lit
+  - '@count': '177'
+    '@name': epic-fantasy
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '1576465'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417628
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/18115.The_Golden_Compass\"\
+  >The Golden Compass Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0375838309&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/18115.The_Golden_Compass?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '157745'
+    series:
+      description: "His Dark Materials is an epic trilogy of fantasy novels by Philip\
+        \ Pullman consisting of <i>Northern Lights</i> (published as The Golden Compass\
+        \ in North America), <i>The Subtle Knife</i>, and <i>The Amber Spyglass</i>.\
+        \ It follows the coming of age of two children, Lyra Belacqua and Will Parry,\
+        \ as they wander through a series of parallel universes.\n    \n    In addition\
+        \ to His Dark Materials, another series, <a href=\"https://www.goodreads.com/series/199547-the-book-of-dust\"\
+        >The Book of Dust</a>, which is neither sequel nor prequel, but an \u201C\
+        equel\u201D and doesn\u2019t stand before or after His Dark Materials, but\
+        \ beside it, includes settings that readers of His Dark Materials will recognise\
+        \ and characters they\u2019ve met before.\n    \n    Also known as:\n    *\
+        \ Njegova temna tvar [Slovenian]\n    * Het Gouden Kompas\n    * A la crois\xE9\
+        e des mondes\n    * Queste oscure materie\n    * Universumin tomu\n    * Karanl\u0131\
+        k Cevher\n    * Jeho \u0161er\xE1 hmota\n    * Jeho temn\xE9 esence\n    *\
+        \ \u0422\u0451\u043C\u043D\u044B\u0435 \u043D\u0430\u0447\u0430\u043B\u0430\
+        \n    * La Materia Oscura\n    * Fronteiras Do Universo\n    * Mundos Paralelos\n\
+        \    * \u0397 \u03C4\u03C1\u03B9\u03BB\u03BF\u03B3\u03AF\u03B1 \u03C4\u03BF\
+        \u03C5 \u03BA\u03CC\u03C3\u03BC\u03BF\u03C5\n    * Det gyldne kompas\n   \
+        \ * Den m\xF6rka materian\n    * Mroczne materie\n    * \u0422\u0435\u043C\
+        \u043D\u044B\u0435 \u043D\u0430\u0447\u0430\u043B\u0430\n    * Busola de aur\n\
+        \    * Njegova mra\u010Dna tkanja\n    * \u0422\u044A\u043C\u043D\u0438\u0442\
+        \u0435 \u043C\u0443 \u043C\u0430\u0442\u0435\u0440\u0438\u0438\n    * Tema\
+        \ tumedad ained\n    * Den m\xF8rke materien\n    * \u30E9\u30A4\u30E9\u306E\
+        \u5192\u967A\u30B7\u30EA\u30FC\u30BA\n    * \u9ED1\u6697\u5143\u7D20\n   \
+        \ * \u05D7\u05D5\u05DE\u05E8\u05D9\u05D5 \u05D4\u05D0\u05E4\u05DC\u05D9\u05DD"
+      id: '44427'
+      note: null
+      numbered: 'true'
+      primary_work_count: '3'
+      series_works_count: '11'
+      title: His Dark Materials
+    user_position: '1'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '8349'
+        link: https://www.goodreads.com/author/show/8349.Christopher_Paolini
+        name: Christopher Paolini
+    average_rating: '4.03'
+    id: '113436'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366212852l/113436._SX98_.jpg
+    isbn: 0375826696
+    isbn13: '9780375826696'
+    link: https://www.goodreads.com/book/show/113436.Eragon
+    num_pages: '503'
+    publication_day: '1'
+    publication_month: '6'
+    publication_year: '2005'
+    ratings_count: '1576465'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366212852l/113436._SX50_.jpg
+    title: 'Eragon (The Inheritance Cycle #1)'
+    title_without_series: Eragon
+    uri: kca://book/amzn1.gr.book.v1.sENfnM5bhDL2KDptf_RjUA
+    work:
+      id: '3178011'
+  - authors:
+      author:
+        id: '13703'
+        link: https://www.goodreads.com/author/show/13703.Mary_Gribbin
+        name: Mary Gribbin
+    average_rating: '4.03'
+    id: '1230752'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0340945346
+    isbn13: '9780340945346'
+    link: https://www.goodreads.com/book/show/1230752.The_Science_of_Philip_Pullman_s_His_Dark_Materials
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1576465'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Science of Philip Pullman's His Dark Materials
+    title_without_series: The Science of Philip Pullman's His Dark Materials
+    uri: kca://book/amzn1.gr.book.v1.rfZSfmcMS0IhNgoFcZKFVQ
+    work:
+      id: '2327126'
+  - authors:
+      author:
+        id: '1069006'
+        link: https://www.goodreads.com/author/show/1069006.C_S_Lewis
+        name: C.S. Lewis
+    average_rating: '4.03'
+    id: '132080146'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/132080146-the-lion-the-witch-and-the-wardrobe
+    num_pages: '180'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1576465'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Lion, the Witch and the Wardrobe (Chronicles of Narnia)
+    title_without_series: The Lion, the Witch and the Wardrobe
+    uri: kca://book/amzn1.gr.book.v3.Uwz9Aq37hbu2h7T5
+    work:
+      id: '4790821'
+  - authors:
+      author:
+        id: '656983'
+        link: https://www.goodreads.com/author/show/656983.J_R_R_Tolkien
+        name: J.R.R. Tolkien
+    average_rating: '4.03'
+    id: '5907'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216l/5907._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/5907.The_Hobbit_or_There_and_Back_Again
+    num_pages: '366'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1576465'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216l/5907._SY75_.jpg
+    title: 'The Hobbit, or There and Back Again (The Lord of the Rings, #0)'
+    title_without_series: The Hobbit, or There and Back Again
+    uri: kca://book/amzn1.gr.book.v1.7HhPxEJT1NiirAiej27XwA
+    work:
+      id: '1540236'
+  - authors:
+      author:
+        id: '1077326'
+        link: https://www.goodreads.com/author/show/1077326.J_K_Rowling
+        name: J.K. Rowling
+    average_rating: '4.03'
+    id: '42844155'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598823299l/42844155._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/42844155-harry-potter-and-the-sorcerer-s-stone
+    num_pages: '333'
+    publication_day: '8'
+    publication_month: '12'
+    publication_year: '2015'
+    ratings_count: '1576465'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598823299l/42844155._SX50_.jpg
+    title: "Harry Potter and the Sorcerer\u2019s Stone (Harry Potter, #1)"
+    title_without_series: "Harry Potter and the Sorcerer\u2019s Stone"
+    uri: kca://book/amzn1.gr.book.v1.W9sTbi1u3mpuwB7AHz8Xbw
+    work:
+      id: '4640799'
+  - authors:
+      author:
+        id: '346732'
+        link: https://www.goodreads.com/author/show/346732.George_R_R_Martin
+        name: George R.R. Martin
+    average_rating: '4.03'
+    id: '13496'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496._SY160_.jpg
+    isbn: 0553588486
+    isbn13: '9780553588484'
+    link: https://www.goodreads.com/book/show/13496.A_Game_of_Thrones
+    num_pages: '835'
+    publication_day: null
+    publication_month: '8'
+    publication_year: '2005'
+    ratings_count: '1576465'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496._SY75_.jpg
+    title: 'A Game of Thrones (A Song of Ice and Fire, #1)'
+    title_without_series: A Game of Thrones
+    uri: kca://book/amzn1.gr.book.v1.2TDKEBAExkzaok9ELm7icw
+    work:
+      id: '1466917'
+  - authors:
+      author:
+        id: '153394'
+        link: https://www.goodreads.com/author/show/153394.Suzanne_Collins
+        name: Suzanne Collins
+    average_rating: '4.03'
+    id: '2767052'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722975l/2767052._SX98_.jpg
+    isbn: 0439023483
+    isbn13: '9780439023481'
+    link: https://www.goodreads.com/book/show/2767052-the-hunger-games
+    num_pages: '374'
+    publication_day: '14'
+    publication_month: '10'
+    publication_year: '2008'
+    ratings_count: '1576465'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722975l/2767052._SX50_.jpg
+    title: 'The Hunger Games (The Hunger Games, #1)'
+    title_without_series: The Hunger Games
+    uri: kca://book/amzn1.gr.book.v1.YaoKZD8xVx72w5T1ZgR1YQ
+    work:
+      id: '2792775'
+  - authors:
+      author:
+        id: '656983'
+        link: https://www.goodreads.com/author/show/656983.J_R_R_Tolkien
+        name: J.R.R. Tolkien
+    average_rating: '4.03'
+    id: '61215351'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654215925l/61215351._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/61215351-the-fellowship-of-the-ring
+    num_pages: '432'
+    publication_day: null
+    publication_month: '6'
+    publication_year: '2022'
+    ratings_count: '1576465'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654215925l/61215351._SY75_.jpg
+    title: 'The Fellowship of the Ring (The Lord of the Rings, #1)'
+    title_without_series: The Fellowship of the Ring
+    uri: kca://book/amzn1.gr.book.v3.GarWHKanmW8wcNYq
+    work:
+      id: '3204327'
+  - authors:
+      author:
+        id: '278186'
+        link: https://www.goodreads.com/author/show/278186.Kay_Woodward
+        name: Kay Woodward
+    average_rating: '4.03'
+    id: '17157490'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355962928l/17157490._SX98_.jpg
+    isbn: '1407103253'
+    isbn13: '9781407103259'
+    link: https://www.goodreads.com/book/show/17157490-pan-and-the-prisoners-of-bolvangar
+    num_pages: '61'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1576465'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355962928l/17157490._SY75_.jpg
+    title: Pan and the Prisoners of Bolvangar
+    title_without_series: Pan and the Prisoners of Bolvangar
+    uri: kca://book/amzn1.gr.book.v1.cJmh45G_DKIemnqO0OZtsQ
+    work:
+      id: '23580189'
+  - authors:
+      author:
+        id: '15872'
+        link: https://www.goodreads.com/author/show/15872.Rick_Riordan
+        name: Rick Riordan
+    average_rating: '4.03'
+    id: '123675190'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684776677l/123675190._SX98_.jpg
+    isbn: '1368098169'
+    isbn13: '9781368098168'
+    link: https://www.goodreads.com/book/show/123675190-the-lightning-thief
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1576465'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684776677l/123675190._SX50_.jpg
+    title: 'The Lightning Thief (Percy Jackson and the Olympians, #1)'
+    title_without_series: The Lightning Thief
+    uri: kca://book/amzn1.gr.book.v3.GipIBoVLIunOmZx4
+    work:
+      id: '3346751'
+  - authors:
+      author:
+        id: '1077326'
+        link: https://www.goodreads.com/author/show/1077326.J_K_Rowling
+        name: J.K. Rowling
+    average_rating: '4.03'
+    id: '5'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630547330l/5._SX98_.jpg
+    isbn: 043965548X
+    isbn13: '9780439655484'
+    link: https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban
+    num_pages: '435'
+    publication_day: '1'
+    publication_month: '5'
+    publication_year: '2004'
+    ratings_count: '1576465'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630547330l/5._SY75_.jpg
+    title: 'Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)'
+    title_without_series: Harry Potter and the Prisoner of Azkaban
+    uri: kca://book/amzn1.gr.book.v1.om7j-Dd6wInrhO7TVy51Ow
+    work:
+      id: '2402163'
+  - authors:
+      author:
+        id: '941441'
+        link: https://www.goodreads.com/author/show/941441.Stephenie_Meyer
+        name: Stephenie Meyer
+    average_rating: '4.03'
+    id: '41865'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700522826l/41865._SX98_.jpg
+    isbn: 0316015849
+    isbn13: '9780316015844'
+    link: https://www.goodreads.com/book/show/41865.Twilight
+    num_pages: '498'
+    publication_day: '6'
+    publication_month: '9'
+    publication_year: '2006'
+    ratings_count: '1576465'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700522826l/41865._SY75_.jpg
+    title: 'Twilight (The Twilight Saga, #1)'
+    title_without_series: Twilight
+    uri: kca://book/amzn1.gr.book.v1.v0ZqZFRkizei9mByA-3BpA
+    work:
+      id: '3212258'
+  - authors:
+      author:
+        id: '28709'
+        link: https://www.goodreads.com/author/show/28709.Chuck_Dixon
+        name: Chuck Dixon
+    average_rating: '4.03'
+    id: '659469'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374681632l/659469._SX98_.jpg
+    isbn: 0345368584
+    isbn13: '9780345368584'
+    link: https://www.goodreads.com/book/show/659469.The_Hobbit
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1576465'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374681632l/659469._SY75_.jpg
+    title: The Hobbit
+    title_without_series: The Hobbit
+    uri: kca://book/amzn1.gr.book.v1.x0fgn8xMTZ9HqJeSf0uyiA
+    work:
+      id: '16998382'
+  - authors:
+      author:
+        id: '1221698'
+        link: https://www.goodreads.com/author/show/1221698.Neil_Gaiman
+        name: Neil Gaiman
+    average_rating: '4.03'
+    id: '24520334'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/24520334-neil-gaiman-and-charles-vess-stardust-1
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1576465'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Neil Gaiman and Charles Vess'' Stardust #1'
+    title_without_series: 'Neil Gaiman and Charles Vess'' Stardust #1'
+    uri: kca://book/amzn1.gr.book.v1.uYxNbt2-_IX5wH2oxCmDWg
+    work:
+      id: '44119936'
+  - authors:
+      author:
+        id: '1077326'
+        link: https://www.goodreads.com/author/show/1077326.J_K_Rowling
+        name: J.K. Rowling
+    average_rating: '4.03'
+    id: '1317181'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 185549664X
+    isbn13: '9781855496644'
+    link: https://www.goodreads.com/book/show/1317181.Harry_Potter_and_the_Order_of_the_Phoenix
+    num_pages: '412'
+    publication_day: null
+    publication_month: null
+    publication_year: '2003'
+    ratings_count: '1576465'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Harry Potter and the Order of the Phoenix (Harry Potter, #5, Part 1)'
+    title_without_series: Harry Potter and the Order of the Phoenix
+    uri: kca://book/amzn1.gr.book.v1.BllNU-UWKYHcZ1mHUUmm4A
+    work:
+      id: '19079807'
+  - authors:
+      author:
+        id: '6487153'
+        link: https://www.goodreads.com/author/show/6487153.Hal_Leonard_Corporation
+        name: Hal Leonard Corporation
+    average_rating: '4.03'
+    id: '20560303'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1458451151'
+    isbn13: '9781458451156'
+    link: https://www.goodreads.com/book/show/20560303-the-chronicles-of-narnia-songbook
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1576465'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Chronicles of Narnia Songbook: The Lion, the Witch and The Wardrobe
+      (PIANO, VOIX, GU)'
+    title_without_series: 'The Chronicles of Narnia Songbook: The Lion, the Witch
+      and The Wardrobe'
+    uri: kca://book/amzn1.gr.book.v1.2cLcqVWdZXEUQA0NPaioPg
+    work:
+      id: '39130373'
+  - authors:
+      author:
+        id: '150038'
+        link: https://www.goodreads.com/author/show/150038.Cassandra_Clare
+        name: Cassandra Clare
+    average_rating: '4.03'
+    id: '256683'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432730315l/256683._SX98_.jpg
+    isbn: '1416914285'
+    isbn13: '9781416914280'
+    link: https://www.goodreads.com/book/show/256683.City_of_Bones
+    num_pages: '485'
+    publication_day: '27'
+    publication_month: '3'
+    publication_year: '2007'
+    ratings_count: '1576465'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432730315l/256683._SY75_.jpg
+    title: 'City of Bones (The Mortal Instruments, #1)'
+    title_without_series: City of Bones
+    uri: kca://book/amzn1.gr.book.v1.JuGuBT4zHCkHppMdgwcxkg
+    work:
+      id: '2267189'
+  - authors:
+      author:
+        id: '1077326'
+        link: https://www.goodreads.com/author/show/1077326.J_K_Rowling
+        name: J.K. Rowling
+    average_rating: '4.03'
+    id: '58613424'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627044952l/58613424._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/58613424-harry-potter-and-the-goblet-of-fire
+    num_pages: '752'
+    publication_day: '8'
+    publication_month: '7'
+    publication_year: '2000'
+    ratings_count: '1576465'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627044952l/58613424._SY75_.jpg
+    title: 'Harry Potter and the Goblet of Fire (Harry Potter, #4)'
+    title_without_series: Harry Potter and the Goblet of Fire
+    uri: kca://book/amzn1.gr.book.v3.aMMXdjhgEp8dkNEQ
+    work:
+      id: '3046572'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366242592l/18115._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '218'
+  '@type': integer
+title: 'The Golden Compass (His Dark Materials, #1)'
+title_without_series: The Golden Compass
+uri: kca://book/amzn1.gr.book.v1.xr-0jesVcSGVwF94_znbDA
+url: https://www.goodreads.com/book/show/18115.The_Golden_Compass
+work:
+  id: '1536771'
+  uri: kca://work/amzn1.gr.work.v1.AlR_HRV99vYxLu4zftM-ZQ
