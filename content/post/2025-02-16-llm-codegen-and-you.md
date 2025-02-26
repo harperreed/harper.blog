@@ -261,7 +261,7 @@ These prompts are pretty _old and busted_ ("boomer prompts" if I may). They need
 
 When I describe this process to people I say “you have to aggressively keep track of what’s going on because you can easily get ahead of yourself.”
 
-For some reason I say "over my skies" a lot when talking about LLMs. I don't know why. It resonates with me. Maybe it's because it is beautiful smooth powder skiing, and then all of a sudden you are like "WHAT THE FUCK IS GOING ON!," and are completely lost and suddenly fall off a cliff.
+For some reason I say "over my skis" a lot when talking about LLMs. I don't know why. It resonates with me. Maybe it's because it is beautiful smooth powder skiing, and then all of a sudden you are like "WHAT THE FUCK IS GOING ON!," and are completely lost and suddenly fall off a cliff.
 
 I find that using a **planning step** (ala the Greenfield process above) can help keep things under control. At least you will have a doc you can double-check against. I also do believe that testing is helpful - especially if you are doing wild style aider coding. Helps keep things good, and tight.
 
