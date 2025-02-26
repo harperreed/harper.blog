@@ -1,0 +1,742 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.87'
+    id: '16024'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1223822211p5/16024.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/16024.Greg_Bear
+    name: Greg Bear
+    ratings_count: '707134'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1223822211p2/16024.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '23365'
+average_rating: '3.85'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: 'Vergil Ulam has created cellular material that can outperform rats in
+  laboratory tests. When the authorities rule that he has exceeded his authorization,
+  Vergil loses his job, but is determined to take his discovery with him.<br /><br
+  />This is a novel Greg Bear wrote in 1985. For novelette by the same name written
+  in 1983 and published in Analog magazine see here: <a href="https://www.goodreads.com/book/show/58356854-blood-music"
+  rel="nofollow noopener">Blood Music</a>.'
+edition_information: null
+format: null
+id: '340819'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: '1596871067'
+isbn13: '9781596871069'
+json: '{"id": "340819", "isbn": "1596871067", "isbn13": "9781596871069", "text_reviews_count":
+  {"@type": "integer", "#text": "702"}, "uri": "kca://book/amzn1.gr.book.v1.kEwLrqcgm_egV889oMw7Ww",
+  "title": "Blood Music", "title_without_series": "Blood Music", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/340819.Blood_Music",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.85", "ratings_count": "16151", "description": "Vergil Ulam has created cellular
+  material that can outperform rats in laboratory tests. When the authorities rule
+  that he has exceeded his authorization, Vergil loses his job, but is determined
+  to take his discovery with him.<br /><br />This is a novel Greg Bear wrote in 1985.
+  For novelette by the same name written in 1983 and published in Analog magazine
+  see here: <a href=\"https://www.goodreads.com/book/show/58356854-blood-music\" rel=\"nofollow
+  noopener\">Blood Music</a>.", "authors": {"author": {"id": "16024", "name": "Greg
+  Bear", "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1223822211p5/16024.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1223822211p2/16024.jpg"},
+  "link": "https://www.goodreads.com/author/show/16024.Greg_Bear", "average_rating":
+  "3.87", "ratings_count": "707134", "text_reviews_count": "23365"}}, "published":
+  null, "work": {"id": "2563510", "uri": "kca://work/amzn1.gr.work.v1.gTPYVWu0uBxW1T_VyPelKw"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/12429047",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B00J48FHRA
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/340819.Blood_Music
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '14064'
+    '@name': to-read
+  - '@count': '948'
+    '@name': science-fiction
+  - '@count': '795'
+    '@name': currently-reading
+  - '@count': '616'
+    '@name': sci-fi
+  - '@count': '288'
+    '@name': fiction
+  - '@count': '183'
+    '@name': scifi
+  - '@count': '145'
+    '@name': horror
+  - '@count': '138'
+    '@name': owned
+  - '@count': '129'
+    '@name': sf
+  - '@count': '93'
+    '@name': favorites
+  - '@count': '81'
+    '@name': sf-masterworks
+  - '@count': '47'
+    '@name': cyberpunk
+  - '@count': '40'
+    '@name': kindle
+  - '@count': '38'
+    '@name': default
+  - '@count': '37'
+    '@name': speculative-fiction
+  - '@count': '36'
+    '@name': sci-fi-fantasy
+  - '@count': '34'
+    '@name': library
+  - '@count': '33'
+    '@name': science
+  - '@count': '30'
+    '@name': audiobook
+  - '@count': '30'
+    '@name': ebook
+  - '@count': '28'
+    '@name': fantasy
+  - '@count': '26'
+    '@name': novels
+  - '@count': '25'
+    '@name': apocalyptic
+  - '@count': '24'
+    '@name': ebooks
+  - '@count': '23'
+    '@name': post-apocalyptic
+  - '@count': '22'
+    '@name': scifi-fantasy
+  - '@count': '21'
+    '@name': biopunk
+  - '@count': '19'
+    '@name': books-i-own
+  - '@count': '19'
+    '@name': science-fiction-fantasy
+  - '@count': '17'
+    '@name': thriller
+  - '@count': '17'
+    '@name': to-buy
+  - '@count': '16'
+    '@name': sci-fi-to-read
+  - '@count': '16'
+    '@name': sff
+  - '@count': '15'
+    '@name': sf-fantasy
+  - '@count': '14'
+    '@name': 1980s
+  - '@count': '14'
+    '@name': audiobooks
+  - '@count': '14'
+    '@name': owned-books
+  - '@count': '14'
+    '@name': calibre
+  - '@count': '14'
+    '@name': apocalypse
+  - '@count': '14'
+    '@name': fantasy-sci-fi
+  - '@count': '13'
+    '@name': dnf
+  - '@count': '13'
+    '@name': hard-sci-fi
+  - '@count': '13'
+    '@name': greg-bear
+  - '@count': '12'
+    '@name': "ciencia-ficci\xF3n"
+  - '@count': '12'
+    '@name': book-club
+  - '@count': '12'
+    '@name': hugo
+  - '@count': '12'
+    '@name': my-library
+  - '@count': '12'
+    '@name': novel
+  - '@count': '12'
+    '@name': hard-sf
+  - '@count': '12'
+    '@name': american
+  - '@count': '11'
+    '@name': tbr
+  - '@count': '11'
+    '@name': 20th-century
+  - '@count': '10'
+    '@name': e-book
+  - '@count': '9'
+    '@name': bookclub
+  - '@count': '9'
+    '@name': maybe
+  - '@count': '9'
+    '@name': hugo-nominee
+  - '@count': '9'
+    '@name': my-books
+  - '@count': '9'
+    '@name': wish-list
+  - '@count': '9'
+    '@name': sci-fi-and-fantasy
+  - '@count': '8'
+    '@name': short-stories
+  - '@count': '8'
+    '@name': audio
+  - '@count': '8'
+    '@name': body-horror
+  - '@count': '8'
+    '@name': in-english
+  - '@count': '8'
+    '@name': classics
+  - '@count': '8'
+    '@name': audible
+  - '@count': '8'
+    '@name': bookshelf
+  - '@count': '8'
+    '@name': nebula
+  - '@count': '8'
+    '@name': sf-f
+  - '@count': '8'
+    '@name': hugo-award
+  - '@count': '8'
+    '@name': biology
+  - '@count': '7'
+    '@name': sci-fi-horror
+  - '@count': '7'
+    '@name': favourites
+  - '@count': '7'
+    '@name': physical
+  - '@count': '7'
+    '@name': nebula-nominees
+  - '@count': '7'
+    '@name': dystopia
+  - '@count': '7'
+    '@name': have
+  - '@count': '7'
+    '@name': fantasy-scifi
+  - '@count': '7'
+    '@name': transhumanism
+  - '@count': '7'
+    '@name': hardcover
+  - '@count': '7'
+    '@name': books
+  - '@count': '7'
+    '@name': to-read-fiction
+  - '@count': '6'
+    '@name': scifi-horror
+  - '@count': '6'
+    '@name': tbr-sci-fi
+  - '@count': '6'
+    '@name': genre-fiction
+  - '@count': '6'
+    '@name': to-read-sci-fi
+  - '@count': '6'
+    '@name': literature
+  - '@count': '6'
+    '@name': hugo-nominees
+  - '@count': '6'
+    '@name': english
+  - '@count': '6'
+    '@name': nanotechnology
+  - '@count': '6'
+    '@name': dystopian
+  - '@count': '6'
+    '@name': hard-science-fiction
+  - '@count': '6'
+    '@name': speculative
+  - '@count': '6'
+    '@name': singularity
+  - '@count': '6'
+    '@name': sciencefiction
+  - '@count': '5'
+    '@name': sci-fi-tbr
+  - '@count': '5'
+    '@name': collection
+  - '@count': '5'
+    '@name': want-to-read-sci-fi
+  - '@count': '5'
+    '@name': backlog
+  - '@count': '5'
+    '@name': horror-thriller
+  - '@count': '5'
+    '@name': my-bookshelf
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '16151'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/12429047
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/340819.Blood_Music\"\
+  >Blood Music Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1596871067&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/340819.Blood_Music?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '33297'
+        link: https://www.goodreads.com/author/show/33297.Brian_W_Aldiss
+        name: Brian W. Aldiss
+    average_rating: '3.85'
+    id: '845078'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368077135l/845078._SY160_.jpg
+    isbn: 0671559303
+    isbn13: '9780671559304'
+    link: https://www.goodreads.com/book/show/845078.Hothouse
+    num_pages: '309'
+    publication_day: '1'
+    publication_month: '12'
+    publication_year: '1984'
+    ratings_count: '16151'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368077135l/845078._SY75_.jpg
+    title: Hothouse
+    title_without_series: Hothouse
+    uri: kca://book/amzn1.gr.book.v1.buNs6Es5aOb_D4ywrRz8Fw
+    work:
+      id: '2268002'
+  - authors:
+      author:
+        id: '8694'
+        link: https://www.goodreads.com/author/show/8694.Tanith_Lee
+        name: Tanith Lee
+    average_rating: '3.85'
+    id: '1290245'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1305996578l/1290245._SY160_.jpg
+    isbn: 0879974826
+    isbn13: '9780879974824'
+    link: https://www.goodreads.com/book/show/1290245.Electric_Forest
+    num_pages: '160'
+    publication_day: '7'
+    publication_month: '8'
+    publication_year: '1979'
+    ratings_count: '16151'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1305996578l/1290245._SY75_.jpg
+    title: Electric Forest
+    title_without_series: Electric Forest
+    uri: kca://book/amzn1.gr.book.v1.Zy_XhYrJu56m53HTOv5qGw
+    work:
+      id: '854564'
+  - authors:
+      author:
+        id: '130541'
+        link: https://www.goodreads.com/author/show/130541.Bob_Shaw
+        name: Bob Shaw
+    average_rating: '3.85'
+    id: '845467'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369106347l/845467._SX98_.jpg
+    isbn: 0330029622
+    isbn13: '9780330029629'
+    link: https://www.goodreads.com/book/show/845467.The_Palace_of_Eternity
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '16151'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369106347l/845467._SY75_.jpg
+    title: The Palace of Eternity
+    title_without_series: The Palace of Eternity
+    uri: kca://book/amzn1.gr.book.v1.r6UQoUk0kQl1I9Fs6c_BKg
+    work:
+      id: '830994'
+  - authors:
+      author:
+        id: '10992'
+        link: https://www.goodreads.com/author/show/10992.Alfred_Bester
+        name: Alfred Bester
+    average_rating: '3.85'
+    id: '333867'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433671750l/333867._SX98_.jpg
+    isbn: 0679767800
+    isbn13: '9780679767800'
+    link: https://www.goodreads.com/book/show/333867.The_Stars_My_Destination
+    num_pages: '258'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '16151'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433671750l/333867._SY75_.jpg
+    title: The Stars My Destination
+    title_without_series: The Stars My Destination
+    uri: kca://book/amzn1.gr.book.v1.SbWt-vvM14TybncDOadNTg
+    work:
+      id: '1398442'
+  - authors:
+      author:
+        id: '44037'
+        link: https://www.goodreads.com/author/show/44037.Vernor_Vinge
+        name: Vernor Vinge
+    average_rating: '3.85'
+    id: '77711'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728332458l/77711._SY160_.jpg
+    isbn: 0812515285
+    isbn13: '9780812515282'
+    link: https://www.goodreads.com/book/show/77711.A_Fire_Upon_the_Deep
+    num_pages: '613'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '16151'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728332458l/77711._SY75_.jpg
+    title: 'A Fire Upon the Deep (Zones of Thought, #1)'
+    title_without_series: A Fire Upon the Deep
+    uri: kca://book/amzn1.gr.book.v1.P2pv-bd3HGUPBOYQNaPGJw
+    work:
+      id: '1253374'
+  - authors:
+      author:
+        id: '27167'
+        link: https://www.goodreads.com/author/show/27167.Peter_Watts
+        name: Peter Watts
+    average_rating: '3.85'
+    id: '48484'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0765312182
+    isbn13: '9780765312181'
+    link: https://www.goodreads.com/book/show/48484.Blindsight
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '16151'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Blindsight (Firefall, #1)'
+    title_without_series: Blindsight
+    uri: kca://book/amzn1.gr.book.v1.A4CNk2qG0qxshK4OKH9lJQ
+    work:
+      id: '223813791'
+  - authors:
+      author:
+        id: '5376'
+        link: https://www.goodreads.com/author/show/5376.Jack_Vance
+        name: Jack Vance
+    average_rating: '3.85'
+    id: '951749'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558264964l/951749._SY160_.jpg
+    isbn: 0671831526
+    isbn13: '9780671831523'
+    link: https://www.goodreads.com/book/show/951749.The_Dying_Earth
+    num_pages: '156'
+    publication_day: null
+    publication_month: '3'
+    publication_year: '1977'
+    ratings_count: '16151'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558264964l/951749._SY75_.jpg
+    title: 'The Dying Earth (The Dying Earth, #1)'
+    title_without_series: The Dying Earth
+    uri: kca://book/amzn1.gr.book.v1.i5dkR3xNJAX7qjqaJ0rWjA
+    work:
+      id: '936672'
+  - authors:
+      author:
+        id: '14887946'
+        link: https://www.goodreads.com/author/show/14887946.Max_Nowaz
+        name: Max Nowaz
+    average_rating: '3.85'
+    id: '101265124'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SX98_.jpg
+    isbn: '1803133961'
+    isbn13: '9781803133966'
+    link: https://www.goodreads.com/book/show/101265124-the-polymorph
+    num_pages: '0'
+    publication_day: '4'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '16151'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SY75_.jpg
+    title: The Polymorph
+    title_without_series: The Polymorph
+    uri: kca://book/amzn1.gr.book.v3.2WI1HTFNfz3UC2Zb
+    work:
+      id: '124767981'
+  - authors:
+      author:
+        id: '4338'
+        link: https://www.goodreads.com/author/show/4338.Robert_Silverberg
+        name: Robert Silverberg
+    average_rating: '3.85'
+    id: '845485'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397138478l/845485._SY160_.jpg
+    isbn: 0451044975
+    isbn13: '9780451044976'
+    link: https://www.goodreads.com/book/show/845485.Downward_to_the_Earth
+    num_pages: '176'
+    publication_day: null
+    publication_month: '1'
+    publication_year: '1971'
+    ratings_count: '16151'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397138478l/845485._SY75_.jpg
+    title: Downward to the Earth
+    title_without_series: Downward to the Earth
+    uri: kca://book/amzn1.gr.book.v1.Sgs_Uw7gjvCetAeYikU4jw
+    work:
+      id: '953818'
+  - authors:
+      author:
+        id: '23012'
+        link: https://www.goodreads.com/author/show/23012.Clifford_D_Simak
+        name: Clifford D. Simak
+    average_rating: '3.85'
+    id: '222093'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 188296828X
+    isbn13: '9781882968282'
+    link: https://www.goodreads.com/book/show/222093.City
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '16151'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: City
+    title_without_series: City
+    uri: kca://book/amzn1.gr.book.v1.-Slqkn4ejHTgl0I3zeP5uw
+    work:
+      id: '2774993'
+  - authors:
+      author:
+        id: '32278'
+        link: https://www.goodreads.com/author/show/32278.Poul_Anderson
+        name: Poul Anderson
+    average_rating: '3.85'
+    id: '240617'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389216838l/240617._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/240617.Tau_Zero
+    num_pages: '190'
+    publication_day: '1'
+    publication_month: '2'
+    publication_year: '2006'
+    ratings_count: '16151'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389216838l/240617._SY75_.jpg
+    title: Tau Zero
+    title_without_series: Tau Zero
+    uri: kca://book/amzn1.gr.book.v1.hI9xX7qXgjZO7NHA9ePpRg
+    work:
+      id: '598009'
+  - authors:
+      author:
+        id: '23419'
+        link: https://www.goodreads.com/author/show/23419.Christopher_Priest
+        name: Christopher Priest
+    average_rating: '3.85'
+    id: '142181'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0060134216'
+    isbn13: '9780060134211'
+    link: https://www.goodreads.com/book/show/142181.The_Inverted_World
+    num_pages: '239'
+    publication_day: '28'
+    publication_month: '5'
+    publication_year: '1974'
+    ratings_count: '16151'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Inverted World
+    title_without_series: The Inverted World
+    uri: kca://book/amzn1.gr.book.v1.RVKj5O2vRWTBnq624bCtog
+    work:
+      id: '2226603'
+  - authors:
+      author:
+        id: '11390'
+        link: https://www.goodreads.com/author/show/11390.Cordwainer_Smith
+        name: Cordwainer Smith
+    average_rating: '3.85'
+    id: '1003311'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0345323009
+    isbn13: '9780345323002'
+    link: https://www.goodreads.com/book/show/1003311.Norstrilia
+    num_pages: null
+    publication_day: null
+    publication_month: '7'
+    publication_year: '1985'
+    ratings_count: '16151'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Norstrilia
+    title_without_series: Norstrilia
+    uri: kca://book/amzn1.gr.book.v1.wFuxhx245jja4CLyGfAgxA
+    work:
+      id: '161178'
+  - authors:
+      author:
+        id: '51204'
+        link: https://www.goodreads.com/author/show/51204.Alastair_Reynolds
+        name: Alastair Reynolds
+    average_rating: '3.85'
+    id: '1126719'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447892903l/1126719._SX98_.jpg
+    isbn: 0575099127
+    isbn13: '9780575099128'
+    link: https://www.goodreads.com/book/show/1126719.House_of_Suns
+    num_pages: '512'
+    publication_day: null
+    publication_month: null
+    publication_year: '2010'
+    ratings_count: '16151'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447892903l/1126719._SY75_.jpg
+    title: House of Suns
+    title_without_series: House of Suns
+    uri: kca://book/amzn1.gr.book.v1.XZ4LCNHN8Aug7lcRpBSaww
+    work:
+      id: '2020929'
+  - authors:
+      author:
+        id: '1159886'
+        link: https://www.goodreads.com/author/show/1159886.Arkady_Strugatsky
+        name: Arkady Strugatsky
+    average_rating: '3.85'
+    id: '331256'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0575070536'
+    isbn13: '9780575070530'
+    link: https://www.goodreads.com/book/show/331256.Roadside_Picnic
+    num_pages: '145'
+    publication_day: '24'
+    publication_month: '8'
+    publication_year: '2000'
+    ratings_count: '16151'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Roadside Picnic
+    title_without_series: Roadside Picnic
+    uri: kca://book/amzn1.gr.book.v1.idahH6cZYkLCEl9ZhwCQ3Q
+    work:
+      id: '1243896'
+  - authors:
+      author:
+        id: '32699'
+        link: https://www.goodreads.com/author/show/32699.Greg_Egan
+        name: Greg Egan
+    average_rating: '3.85'
+    id: '156781'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0061057274'
+    isbn13: null
+    link: https://www.goodreads.com/book/show/156781.Distress
+    num_pages: '456'
+    publication_day: null
+    publication_month: '2'
+    publication_year: '1998'
+    ratings_count: '16151'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Distress
+    title_without_series: Distress
+    uri: kca://book/amzn1.gr.book.v1.KsdqGJPvLqcuSXUTroMYFA
+    work:
+      id: '151293'
+  - authors:
+      author:
+        id: '12534'
+        link: https://www.goodreads.com/author/show/12534.Larry_Niven
+        name: Larry Niven
+    average_rating: '3.85'
+    id: '100365'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399490037l/100365._SX98_.jpg
+    isbn: 156865054X
+    isbn13: '9781568650548'
+    link: https://www.goodreads.com/book/show/100365.The_Mote_in_God_s_Eye
+    num_pages: '596'
+    publication_day: '26'
+    publication_month: '4'
+    publication_year: '2011'
+    ratings_count: '16151'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399490037l/100365._SY75_.jpg
+    title: 'The Mote in God''s Eye (Moties, #1)'
+    title_without_series: The Mote in God's Eye
+    uri: kca://book/amzn1.gr.book.v1.9qxORspmPWxh4_X5EMJ6qg
+    work:
+      id: '2190500'
+  - authors:
+      author:
+        id: '43625'
+        link: https://www.goodreads.com/author/show/43625.James_Blish
+        name: James Blish
+    average_rating: '3.85'
+    id: '123673'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0345438353
+    isbn13: '9780345438355'
+    link: https://www.goodreads.com/book/show/123673.A_Case_of_Conscience
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '16151'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'A Case of Conscience (After Such Knowledge, #4)'
+    title_without_series: A Case of Conscience
+    uri: kca://book/amzn1.gr.book.v1.BU32q0JRAvCZC-yVkACmng
+    work:
+      id: '743090'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '702'
+  '@type': integer
+title: Blood Music
+title_without_series: Blood Music
+uri: kca://book/amzn1.gr.book.v1.kEwLrqcgm_egV889oMw7Ww
+url: https://www.goodreads.com/book/show/340819.Blood_Music
+work:
+  id: '2563510'
+  uri: kca://work/amzn1.gr.work.v1.gTPYVWu0uBxW1T_VyPelKw

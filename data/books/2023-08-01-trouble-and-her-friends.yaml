@@ -1,0 +1,755 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.93'
+    id: '75822'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1223868413p5/75822.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/75822.Melissa_Scott
+    name: Melissa Scott
+    ratings_count: '19387'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1223868413p2/75822.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '2371'
+average_rating: '3.79'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2023-08-01T00:00:00-07:00'
+description: "One of the quintessential and award-winning novels of the cyberpunk\
+  \ genre returns in a striking new edition.<br /><br />India Carless, alias Trouble,\
+  \ managed to stay one step ahead of the feds until she retired from life as a hacker\
+  \ and settled down to run a small network for an artist\u2019s co-op. Now someone\
+  \ has stolen her pseudonym and begun to use it for criminal hacking. So Trouble\
+  \ returns. Once the fastest gun on the electronic frontier, she has been called\
+  \ out of retirement for one last fight. And it\u2019s a killer.<br /><br />Less\
+  \ than a hundred years from now, the forces of law and order crack down on the world\
+  \ of the Internet. It is the closing of the frontier. The hip, noir adventurers\
+  \ who got by on wit, bravado, and drugs, who haunt the virtual worlds of the shadows\
+  \ of cyberspace are up against the edges of civilization. It\u2019s time to adapt\
+  \ or die."
+edition_information: null
+format: null
+id: '24435665'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn: '1590215613'
+isbn13: '9781590215616'
+json: '{"id": "24435665", "isbn": "1590215613", "isbn13": "9781590215616", "text_reviews_count":
+  {"@type": "integer", "#text": "9"}, "uri": "kca://book/amzn1.gr.book.v1.8Fsks90skhTnzad4Fm5w6g",
+  "title": "Trouble and Her Friends", "title_without_series": "Trouble and Her Friends",
+  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/24435665-trouble-and-her-friends",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.79", "ratings_count": "1547", "description": "One of the quintessential and award-winning
+  novels of the cyberpunk genre returns in a striking new edition.<br /><br />India
+  Carless, alias Trouble, managed to stay one step ahead of the feds until she retired
+  from life as a hacker and settled down to run a small network for an artist\u2019s
+  co-op. Now someone has stolen her pseudonym and begun to use it for criminal hacking.
+  So Trouble returns. Once the fastest gun on the electronic frontier, she has been
+  called out of retirement for one last fight. And it\u2019s a killer.<br /><br />Less
+  than a hundred years from now, the forces of law and order crack down on the world
+  of the Internet. It is the closing of the frontier. The hip, noir adventurers who
+  got by on wit, bravado, and drugs, who haunt the virtual worlds of the shadows of
+  cyberspace are up against the edges of civilization. It\u2019s time to adapt or
+  die.", "authors": {"author": {"id": "75822", "name": "Melissa Scott", "role": null,
+  "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1223868413p5/75822.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1223868413p2/75822.jpg"},
+  "link": "https://www.goodreads.com/author/show/75822.Melissa_Scott", "average_rating":
+  "3.93", "ratings_count": "19387", "text_reviews_count": "2371"}}, "published": null,
+  "work": {"id": "2149473", "uri": "kca://work/amzn1.gr.work.v1.Q_r9XOv-1TPILTH3QN-vKQ"},
+  "review_rating": "4", "owned": "0", "review_url": "https://www.goodreads.com/review/show/5735067215",
+  "read_at": "Tue Aug 01 00:00:00 -0700 2023", "started_at": "Tue Aug 01 00:00:00
+  -0700 2023", "date": "Tue Aug 01 00:00:00 -0700 2023"}'
+kindle_asin: B00MZIU2IA
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/24435665-trouble-and-her-friends
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '3684'
+    '@name': to-read
+  - '@count': '196'
+    '@name': cyberpunk
+  - '@count': '163'
+    '@name': science-fiction
+  - '@count': '93'
+    '@name': currently-reading
+  - '@count': '87'
+    '@name': sci-fi
+  - '@count': '65'
+    '@name': fiction
+  - '@count': '44'
+    '@name': queer
+  - '@count': '40'
+    '@name': scifi
+  - '@count': '31'
+    '@name': lgbt
+  - '@count': '24'
+    '@name': sf
+  - '@count': '19'
+    '@name': lgbtq
+  - '@count': '19'
+    '@name': owned
+  - '@count': '16'
+    '@name': favorites
+  - '@count': '16'
+    '@name': fantasy
+  - '@count': '15'
+    '@name': sff
+  - '@count': '15'
+    '@name': lesbian
+  - '@count': '12'
+    '@name': speculative-fiction
+  - '@count': '11'
+    '@name': sapphic
+  - '@count': '11'
+    '@name': sci-fi-fantasy
+  - '@count': '10'
+    '@name': cyber-punk
+  - '@count': '7'
+    '@name': dnf
+  - '@count': '6'
+    '@name': novel
+  - '@count': '6'
+    '@name': to-read-sci-fi
+  - '@count': '5'
+    '@name': to-buy
+  - '@count': '5'
+    '@name': lgbtqia
+  - '@count': '5'
+    '@name': did-not-finish
+  - '@count': '5'
+    '@name': fantasy-scifi
+  - '@count': '5'
+    '@name': library
+  - '@count': '5'
+    '@name': default
+  - '@count': '5'
+    '@name': feminist
+  - '@count': '5'
+    '@name': wish-list
+  - '@count': '5'
+    '@name': science
+  - '@count': '5'
+    '@name': novels
+  - '@count': '4'
+    '@name': wlw
+  - '@count': '4'
+    '@name': storybundle
+  - '@count': '4'
+    '@name': women-authors
+  - '@count': '4'
+    '@name': ebooks
+  - '@count': '4'
+    '@name': 20th-century
+  - '@count': '4'
+    '@name': ff
+  - '@count': '4'
+    '@name': owned-books
+  - '@count': '4'
+    '@name': feminism
+  - '@count': '4'
+    '@name': lgbtqi
+  - '@count': '4'
+    '@name': f-f
+  - '@count': '4'
+    '@name': abandoned
+  - '@count': '4'
+    '@name': ebook
+  - '@count': '4'
+    '@name': fantasy-sci-fi
+  - '@count': '3'
+    '@name': tbr
+  - '@count': '3'
+    '@name': cyberpunk-tbr
+  - '@count': '3'
+    '@name': literature
+  - '@count': '3'
+    '@name': owned-tbr
+  - '@count': '3'
+    '@name': lesbians
+  - '@count': '3'
+    '@name': bibliophile
+  - '@count': '3'
+    '@name': maybe
+  - '@count': '3'
+    '@name': kindle
+  - '@count': '3'
+    '@name': to-read-scifi
+  - '@count': '3'
+    '@name': speculative
+  - '@count': '3'
+    '@name': 1990s
+  - '@count': '3'
+    '@name': queer-fiction
+  - '@count': '3'
+    '@name': dystopian
+  - '@count': '3'
+    '@name': bookclub
+  - '@count': '3'
+    '@name': female-author
+  - '@count': '3'
+    '@name': gay
+  - '@count': '3'
+    '@name': q
+  - '@count': '3'
+    '@name': books-i-own
+  - '@count': '3'
+    '@name': tech
+  - '@count': '3'
+    '@name': american
+  - '@count': '3'
+    '@name': recommended
+  - '@count': '3'
+    '@name': sf-fantasy
+  - '@count': '3'
+    '@name': scifi-fantasy
+  - '@count': '2'
+    '@name': sapphic-sci-fi
+  - '@count': '2'
+    '@name': on-kindle
+  - '@count': '2'
+    '@name': scifi-tbr
+  - '@count': '2'
+    '@name': tbr-fiction
+  - '@count': '2'
+    '@name': tbr-sff
+  - '@count': '2'
+    '@name': lgbt-tbr
+  - '@count': '2'
+    '@name': book-club
+  - '@count': '2'
+    '@name': to-read-science-fiction
+  - '@count': '2'
+    '@name': a
+  - '@count': '2'
+    '@name': my-library
+  - '@count': '2'
+    '@name': maybe-to-read
+  - '@count': '2'
+    '@name': award-winner
+  - '@count': '2'
+    '@name': genre-sci-fi
+  - '@count': '2'
+    '@name': queer-science-fiction
+  - '@count': '2'
+    '@name': '1994'
+  - '@count': '2'
+    '@name': paused
+  - '@count': '2'
+    '@name': want-to-read-owned
+  - '@count': '2'
+    '@name': owned-but-not-read
+  - '@count': '2'
+    '@name': adult
+  - '@count': '2'
+    '@name': dystopia
+  - '@count': '2'
+    '@name': genre-science-fiction
+  - '@count': '2'
+    '@name': cyberpunk-to-read
+  - '@count': '2'
+    '@name': 2017-challenge
+  - '@count': '2'
+    '@name': mystery
+  - '@count': '2'
+    '@name': digital
+  - '@count': '2'
+    '@name': look-into
+  - '@count': '2'
+    '@name': next
+  - '@count': '2'
+    '@name': to-read-lgbt
+  - '@count': '2'
+    '@name': queer-lit
+  - '@count': '2'
+    '@name': physical
+  - '@count': '2'
+    '@name': google-books
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '1547'
+read_at: '2023-08-01T00:00:00-07:00'
+review_rating: '4'
+review_url: https://www.goodreads.com/review/show/5735067215
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/24435665-trouble-and-her-friends\"\
+  >Trouble and Her Friends Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1590215613&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/24435665-trouble-and-her-friends?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '5097746'
+        link: https://www.goodreads.com/author/show/5097746.Rebecca_Fraimow
+        name: Rebecca Fraimow
+    average_rating: '3.79'
+    id: '199797972'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708014418l/199797972._SX98_.jpg
+    isbn: '1837861595'
+    isbn13: '9781837861590'
+    link: https://www.goodreads.com/book/show/199797972-lady-eve-s-last-con
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1547'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708014418l/199797972._SY75_.jpg
+    title: Lady Eve's Last Con
+    title_without_series: Lady Eve's Last Con
+    uri: kca://book/amzn1.gr.book.v3.-rr51Ytf5r7rNxAJ
+    work:
+      id: '188101505'
+  - authors:
+      author:
+        id: '2986080'
+        link: https://www.goodreads.com/author/show/2986080.Rafa_Kosik
+        name: "Rafa\u0142 Kosik"
+    average_rating: '3.79'
+    id: '62966999'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1666573607l/62966999._SX98_.jpg
+    isbn: 0759555958
+    isbn13: '9780759555952'
+    link: https://www.goodreads.com/book/show/62966999-cyberpunk-2077
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1547'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1666573607l/62966999._SY75_.jpg
+    title: 'Cyberpunk 2077: No Coincidence'
+    title_without_series: 'Cyberpunk 2077: No Coincidence'
+    uri: kca://book/amzn1.gr.book.v3.cqVTeGhdywQniqit
+    work:
+      id: '98785517'
+  - authors:
+      author:
+        id: '27841'
+        link: https://www.goodreads.com/author/show/27841.Pat_Cadigan
+        name: Pat Cadigan
+    average_rating: '3.79'
+    id: '49443'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0812541979
+    isbn13: '9780812541977'
+    link: https://www.goodreads.com/book/show/49443.Tea_from_an_Empty_Cup
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1547'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Tea from an Empty Cup (Artificial Reality Division, #1)'
+    title_without_series: Tea from an Empty Cup
+    uri: kca://book/amzn1.gr.book.v1.HkX9TElbZconMxTScqMRQQ
+    work:
+      id: '1827389'
+  - authors:
+      author:
+        id: '66280'
+        link: https://www.goodreads.com/author/show/66280.Samit_Basu
+        name: Samit Basu
+    average_rating: '3.79'
+    id: '65211707'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678974245l/65211707._SX98_.jpg
+    isbn: '1250827515'
+    isbn13: '9781250827517'
+    link: https://www.goodreads.com/book/show/65211707-the-jinn-bot-of-shantiport
+    num_pages: '404'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1547'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678974245l/65211707._SY75_.jpg
+    title: The Jinn-Bot of Shantiport
+    title_without_series: The Jinn-Bot of Shantiport
+    uri: kca://book/amzn1.gr.book.v3.fgCBe-mFgxjo3joL
+    work:
+      id: '100096832'
+  - authors:
+      author:
+        id: '97284'
+        link: https://www.goodreads.com/author/show/97284.Mur_Lafferty
+        name: Mur Lafferty
+    average_rating: '3.79'
+    id: '28962996'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483175828l/28962996._SX98_.jpg
+    isbn: 0316389684
+    isbn13: '9780316389686'
+    link: https://www.goodreads.com/book/show/28962996-six-wakes
+    num_pages: '361'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1547'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483175828l/28962996._SY75_.jpg
+    title: Six Wakes
+    title_without_series: Six Wakes
+    uri: kca://book/amzn1.gr.book.v1.j0gHDwDyCP2PEiLfMlUIQA
+    work:
+      id: '46869174'
+  - authors:
+      author:
+        id: '8177132'
+        link: https://www.goodreads.com/author/show/8177132.Megan_E_O_Keefe
+        name: Megan E. O'Keefe
+    average_rating: '3.79'
+    id: '41085049'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551122969l/41085049._SX98_.jpg
+    isbn: 0316419605
+    isbn13: '9780316419604'
+    link: https://www.goodreads.com/book/show/41085049-velocity-weapon
+    num_pages: '544'
+    publication_day: '11'
+    publication_month: '6'
+    publication_year: '2019'
+    ratings_count: '1547'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551122969l/41085049._SY75_.jpg
+    title: 'Velocity Weapon (The Protectorate, #1)'
+    title_without_series: Velocity Weapon
+    uri: kca://book/amzn1.gr.book.v1.d0vqNqgVGApH5k01ER-hlw
+    work:
+      id: '64190668'
+  - authors:
+      author:
+        id: '14663118'
+        link: https://www.goodreads.com/author/show/14663118.Aimee_Ogden
+        name: Aimee Ogden
+    average_rating: '3.79'
+    id: '61884954'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1666186378l/61884954._SX98_.jpg
+    isbn: '1250866812'
+    isbn13: '9781250866813'
+    link: https://www.goodreads.com/book/show/61884954-emergent-properties
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1547'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1666186378l/61884954._SY75_.jpg
+    title: Emergent Properties
+    title_without_series: Emergent Properties
+    uri: kca://book/amzn1.gr.book.v3.94HQuajE40Oi-LIS
+    work:
+      id: '96428626'
+  - authors:
+      author:
+        id: '8794'
+        link: https://www.goodreads.com/author/show/8794.Charles_Stross
+        name: Charles Stross
+    average_rating: '3.79'
+    id: '17863'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0441014151'
+    isbn13: '9780441014156'
+    link: https://www.goodreads.com/book/show/17863.Accelerando
+    num_pages: '415'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1547'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Accelerando
+    title_without_series: Accelerando
+    uri: kca://book/amzn1.gr.book.v1.lXZQYqWfLsVvcSO1ikbqGg
+    work:
+      id: '930555'
+  - authors:
+      author:
+        id: '9226'
+        link: https://www.goodreads.com/author/show/9226.William_Gibson
+        name: William Gibson
+    average_rating: '3.79'
+    id: '22325'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0425190455
+    isbn13: '9780425190456'
+    link: https://www.goodreads.com/book/show/22325.Idoru
+    num_pages: '308'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1547'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Idoru (Bridge, #2)'
+    title_without_series: Idoru
+    uri: kca://book/amzn1.gr.book.v1.hEB4UdDSr5HIIkDpCh69BA
+    work:
+      id: '879765'
+  - authors:
+      author:
+        id: '18654974'
+        link: https://www.goodreads.com/author/show/18654974.Lex_Croucher
+        name: Lex Croucher
+    average_rating: '3.79'
+    id: '203578791'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710616814l/203578791._SX98_.jpg
+    isbn: '1250847230'
+    isbn13: '9781250847232'
+    link: https://www.goodreads.com/book/show/203578791-not-for-the-faint-of-heart
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1547'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710616814l/203578791._SY75_.jpg
+    title: Not for the Faint of Heart
+    title_without_series: Not for the Faint of Heart
+    uri: kca://book/amzn1.gr.book.v3.eDEyeqeLs9fN24Fo
+    work:
+      id: '205428030'
+  - authors:
+      author:
+        id: '9226'
+        link: https://www.goodreads.com/author/show/9226.William_Gibson
+        name: William Gibson
+    average_rating: '3.79'
+    id: '22320'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288326931l/22320._SX98_.jpg
+    isbn: 0425198685
+    isbn13: '9780425198681'
+    link: https://www.goodreads.com/book/show/22320.Pattern_Recognition
+    num_pages: '367'
+    publication_day: null
+    publication_month: '2'
+    publication_year: '2005'
+    ratings_count: '1547'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288326931l/22320._SY75_.jpg
+    title: 'Pattern Recognition (Blue Ant, #1)'
+    title_without_series: Pattern Recognition
+    uri: kca://book/amzn1.gr.book.v1.-S2LPp7RbOFohmJEOs12WQ
+    work:
+      id: '2455062'
+  - authors:
+      author:
+        id: '4369922'
+        link: https://www.goodreads.com/author/show/4369922.Kameron_Hurley
+        name: Kameron Hurley
+    average_rating: '3.79'
+    id: '61024794'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1651571196l/61024794._SX98_.jpg
+    isbn: '1955765006'
+    isbn13: '9781955765008'
+    link: https://www.goodreads.com/book/show/61024794-future-artifacts
+    num_pages: '286'
+    publication_day: '17'
+    publication_month: '5'
+    publication_year: '2022'
+    ratings_count: '1547'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1651571196l/61024794._SY75_.jpg
+    title: Future Artifacts
+    title_without_series: Future Artifacts
+    uri: kca://book/amzn1.gr.book.v3.a80hOPL9FiVQ30c5
+    work:
+      id: '96164503'
+  - authors:
+      author:
+        id: '12940'
+        link: https://www.goodreads.com/author/show/12940.Elmore_Leonard
+        name: Elmore Leonard
+    average_rating: '3.79'
+    id: '16395913'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366475416l/16395913._SX98_.jpg
+    isbn: '5551096602'
+    isbn13: null
+    link: https://www.goodreads.com/book/show/16395913-fire-in-the-hole
+    num_pages: '240'
+    publication_day: '1'
+    publication_month: '1'
+    publication_year: '2001'
+    ratings_count: '1547'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366475416l/16395913._SY75_.jpg
+    title: 'Fire in the Hole (Raylan Givens, #2.5)'
+    title_without_series: Fire in the Hole
+    uri: kca://book/amzn1.gr.book.v1.zwpjyHaMXLPgC-vP5RkgDQ
+    work:
+      id: '1899309'
+  - authors:
+      author:
+        id: '14014102'
+        link: https://www.goodreads.com/author/show/14014102.Lindsay_King_Miller
+        name: Lindsay King-Miller
+    average_rating: '3.79'
+    id: '195830830'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698681262l/195830830._SX98_.jpg
+    isbn: '1683694074'
+    isbn13: '9781683694076'
+    link: https://www.goodreads.com/book/show/195830830-the-z-word
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1547'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698681262l/195830830._SY75_.jpg
+    title: The Z Word
+    title_without_series: The Z Word
+    uri: kca://book/amzn1.gr.book.v3.3r9_gK3Qk_Vgzql1
+    work:
+      id: '197789477'
+  - authors:
+      author:
+        id: '6760'
+        link: https://www.goodreads.com/author/show/6760.Laurie_R_King
+        name: Laurie R. King
+    average_rating: '3.79'
+    id: '170226'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0553574558
+    isbn13: '9780553574555'
+    link: https://www.goodreads.com/book/show/170226.To_Play_the_Fool
+    num_pages: '286'
+    publication_day: '1'
+    publication_month: '6'
+    publication_year: '1996'
+    ratings_count: '1547'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'To Play the Fool (Kate Martinelli, #2)'
+    title_without_series: To Play the Fool
+    uri: kca://book/amzn1.gr.book.v1.CxbVAqYiKqnor4fE9LX1jw
+    work:
+      id: '2632701'
+  - authors:
+      author:
+        id: '6760'
+        link: https://www.goodreads.com/author/show/6760.Laurie_R_King
+        name: Laurie R. King
+    average_rating: '3.79'
+    id: '104739'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362407229l/104739._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/104739.A_Grave_Talent
+    num_pages: '342'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1547'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362407229l/104739._SY75_.jpg
+    title: 'A Grave Talent  (Kate Martinelli, #1)'
+    title_without_series: A Grave Talent
+    uri: kca://book/amzn1.gr.book.v1.4eIbPaIBytVB744W4lVqcg
+    work:
+      id: '2998264'
+  - authors:
+      author:
+        id: '9226'
+        link: https://www.goodreads.com/author/show/9226.William_Gibson
+        name: William Gibson
+    average_rating: '3.79'
+    id: '22321'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0425190447
+    isbn13: '9780425190449'
+    link: https://www.goodreads.com/book/show/22321.All_Tomorrow_s_Parties
+    num_pages: '341'
+    publication_day: null
+    publication_month: '1'
+    publication_year: '2003'
+    ratings_count: '1547'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'All Tomorrow''s Parties (Bridge, #3)'
+    title_without_series: All Tomorrow's Parties
+    uri: kca://book/amzn1.gr.book.v1.9-_yJhQ4iA8EvaADpYCfOQ
+    work:
+      id: '513838'
+  - authors:
+      author:
+        id: '9226'
+        link: https://www.goodreads.com/author/show/9226.William_Gibson
+        name: William Gibson
+    average_rating: '3.79'
+    id: '22322'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0399154302
+    isbn13: '9780399154300'
+    link: https://www.goodreads.com/book/show/22322.Spook_Country
+    num_pages: '371'
+    publication_day: '7'
+    publication_month: '8'
+    publication_year: '2007'
+    ratings_count: '1547'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Spook Country (Blue Ant, #2)'
+    title_without_series: Spook Country
+    uri: kca://book/amzn1.gr.book.v1.ZGJnKGv1MRhXCEFNqsx6vQ
+    work:
+      id: '1715356'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: '2023-08-01T00:00:00-07:00'
+text_reviews_count:
+  '#text': '9'
+  '@type': integer
+title: Trouble and Her Friends
+title_without_series: Trouble and Her Friends
+uri: kca://book/amzn1.gr.book.v1.8Fsks90skhTnzad4Fm5w6g
+url: https://www.goodreads.com/book/show/24435665-trouble-and-her-friends
+work:
+  id: '2149473'
+  uri: kca://work/amzn1.gr.work.v1.Q_r9XOv-1TPILTH3QN-vKQ

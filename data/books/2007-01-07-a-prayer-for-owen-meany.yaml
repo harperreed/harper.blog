@@ -1,0 +1,747 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.01'
+    id: '3075'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1257375547p5/3075.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/3075.John_Irving
+    name: John Irving
+    ratings_count: '1093903'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1257375547p2/3075.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '51438'
+average_rating: '4.24'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2007-01-07T00:00:00-08:00'
+description: "In the summer of 1953, two eleven-year-old boys\u2014best friends\u2014\
+  are playing in a Little League baseball game in Gravesend, New Hampshire. One of\
+  \ the boys hits a foul ball that kills the other boy\u2019s mother. The boy who\
+  \ hits the ball doesn\u2019t believe in accidents; Owen Meany believes he is God\u2019\
+  s instrument. What happens to Owen, after that 1953 foul ball, is extraordinary\
+  \ and terrifying.<br /><br />A Prayer for Owen Meany was first published in 1989.\
+  \ This Modern Library edition includes a new Introduction by the author."
+edition_information: 1st Printing, First Edition
+format: null
+id: '4472'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: 0679642595
+isbn13: '9780679642596'
+json: '{"id": "4472", "isbn": "0679642595", "isbn13": "9780679642596", "text_reviews_count":
+  {"@type": "integer", "#text": "99"}, "uri": "kca://book/amzn1.gr.book.v1.YsNjYTnm6gHz5Hi0g2HfyQ",
+  "title": "A Prayer for Owen Meany", "title_without_series": "A Prayer for Owen Meany",
+  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/4472.A_Prayer_for_Owen_Meany",
+  "num_pages": "641", "format": null, "edition_information": "1st Printing, First
+  Edition", "publisher": null, "publication_day": null, "publication_year": null,
+  "publication_month": null, "average_rating": "4.24", "ratings_count": "328926",
+  "description": "In the summer of 1953, two eleven-year-old boys\u2014best friends\u2014are
+  playing in a Little League baseball game in Gravesend, New Hampshire. One of the
+  boys hits a foul ball that kills the other boy\u2019s mother. The boy who hits the
+  ball doesn\u2019t believe in accidents; Owen Meany believes he is God\u2019s instrument.
+  What happens to Owen, after that 1953 foul ball, is extraordinary and terrifying.<br
+  /><br />A Prayer for Owen Meany was first published in 1989. This Modern Library
+  edition includes a new Introduction by the author.", "authors": {"author": {"id":
+  "3075", "name": "John Irving", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"},
+  "link": "https://www.goodreads.com/author/show/3075.John_Irving", "average_rating":
+  "4.01", "ratings_count": "1093903", "text_reviews_count": "51438"}}, "published":
+  null, "work": {"id": "1734019", "uri": "kca://work/amzn1.gr.work.v1.Br-kWGeESY4PLghr9FsfqA"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417573",
+  "read_at": "Sun Jan 07 00:00:00 -0800 2007", "started_at": "", "date": "Sun Jan
+  07 00:00:00 -0800 2007"}'
+kindle_asin: B006VE6TCW
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/4472.A_Prayer_for_Owen_Meany
+marketplace_id: ATVPDKIKX0DER
+num_pages: '641'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '195682'
+    '@name': to-read
+  - '@count': '15352'
+    '@name': currently-reading
+  - '@count': '5239'
+    '@name': fiction
+  - '@count': '4159'
+    '@name': favorites
+  - '@count': '1483'
+    '@name': classics
+  - '@count': '696'
+    '@name': owned
+  - '@count': '684'
+    '@name': book-club
+  - '@count': '511'
+    '@name': books-i-own
+  - '@count': '434'
+    '@name': contemporary
+  - '@count': '420'
+    '@name': literature
+  - '@count': '396'
+    '@name': literary-fiction
+  - '@count': '352'
+    '@name': historical-fiction
+  - '@count': '339'
+    '@name': novels
+  - '@count': '304'
+    '@name': dnf
+  - '@count': '301'
+    '@name': favourites
+  - '@count': '298'
+    '@name': kindle
+  - '@count': '282'
+    '@name': did-not-finish
+  - '@count': '280'
+    '@name': 1001-books
+  - '@count': '269'
+    '@name': abandoned
+  - '@count': '269'
+    '@name': classic
+  - '@count': '265'
+    '@name': all-time-favorites
+  - '@count': '250'
+    '@name': coming-of-age
+  - '@count': '246'
+    '@name': great-american-read
+  - '@count': '243'
+    '@name': contemporary-fiction
+  - '@count': '231'
+    '@name': general-fiction
+  - '@count': '202'
+    '@name': adult-fiction
+  - '@count': '198'
+    '@name': library
+  - '@count': '192'
+    '@name': audiobook
+  - '@count': '191'
+    '@name': american
+  - '@count': '181'
+    '@name': audible
+  - '@count': '176'
+    '@name': '1001'
+  - '@count': '174'
+    '@name': john-irving
+  - '@count': '167'
+    '@name': adult
+  - '@count': '166'
+    '@name': owned-books
+  - '@count': '165'
+    '@name': novel
+  - '@count': '152'
+    '@name': the-great-american-read
+  - '@count': '146'
+    '@name': audiobooks
+  - '@count': '141'
+    '@name': favorite-books
+  - '@count': '139'
+    '@name': audio
+  - '@count': '139'
+    '@name': bookclub
+  - '@count': '127'
+    '@name': literary
+  - '@count': '126'
+    '@name': to-buy
+  - '@count': '125'
+    '@name': my-library
+  - '@count': '119'
+    '@name': 1001-books-to-read-before-you-die
+  - '@count': '114'
+    '@name': school
+  - '@count': '112'
+    '@name': default
+  - '@count': '112'
+    '@name': didn-t-finish
+  - '@count': '110'
+    '@name': tbr
+  - '@count': '109'
+    '@name': religion
+  - '@count': '106'
+    '@name': physical-tbr
+  - '@count': '105'
+    '@name': friendship
+  - '@count': '104'
+    '@name': american-literature
+  - '@count': '99'
+    '@name': unfinished
+  - '@count': '95'
+    '@name': re-read
+  - '@count': '93'
+    '@name': drama
+  - '@count': '93'
+    '@name': 20th-century
+  - '@count': '92'
+    '@name': ebook
+  - '@count': '90'
+    '@name': favorite
+  - '@count': '85'
+    '@name': high-school
+  - '@count': '83'
+    '@name': war
+  - '@count': '79'
+    '@name': recommended
+  - '@count': '79'
+    '@name': bbc-big-read
+  - '@count': '77'
+    '@name': historical
+  - '@count': '76'
+    '@name': usa
+  - '@count': '76'
+    '@name': wish-list
+  - '@count': '75'
+    '@name': pbs-great-american-read
+  - '@count': '75'
+    '@name': 5-stars
+  - '@count': '73'
+    '@name': book-club-books
+  - '@count': '73'
+    '@name': humor
+  - '@count': '71'
+    '@name': couldn-t-finish
+  - '@count': '71'
+    '@name': modern-fiction
+  - '@count': '70'
+    '@name': my-books
+  - '@count': '70'
+    '@name': 100-books
+  - '@count': '70'
+    '@name': my-favorites
+  - '@count': '69'
+    '@name': to-read-fiction
+  - '@count': '69'
+    '@name': book-group
+  - '@count': '68'
+    '@name': own-it
+  - '@count': '67'
+    '@name': shelfari-favorites
+  - '@count': '66'
+    '@name': 100-books-to-read-before-you-die
+  - '@count': '64'
+    '@name': faves
+  - '@count': '63'
+    '@name': on-my-shelf
+  - '@count': '62'
+    '@name': irving
+  - '@count': '61'
+    '@name': american-lit
+  - '@count': '60'
+    '@name': 1001-books-you-must-read-before-you
+  - '@count': '60'
+    '@name': 1001-books-to-read
+  - '@count': '57'
+    '@name': maybe
+  - '@count': '57'
+    '@name': new-england
+  - '@count': '56'
+    '@name': top-100
+  - '@count': '56'
+    '@name': all-time-faves
+  - '@count': '56'
+    '@name': lit
+  - '@count': '55'
+    '@name': audio-book
+  - '@count': '55'
+    '@name': realistic-fiction
+  - '@count': '54'
+    '@name': classics-to-read
+  - '@count': '54'
+    '@name': english
+  - '@count': '54'
+    '@name': modern-classics
+  - '@count': '54'
+    '@name': i-own
+  - '@count': '53'
+    '@name': home-library
+  - '@count': '53'
+    '@name': bbc-top-100
+  - '@count': '52'
+    '@name': modern
+  - '@count': '52'
+    '@name': top-100-books
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '328926'
+read_at: '2007-01-07T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417573
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/4472.A_Prayer_for_Owen_Meany\"\
+  >A Prayer for Owen Meany Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0679642595&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/4472.A_Prayer_for_Owen_Meany?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '3541'
+        link: https://www.goodreads.com/author/show/3541.Barbara_Kingsolver
+        name: Barbara Kingsolver
+    average_rating: '4.24'
+    id: '7244'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1644073807l/7244._SX98_.jpg
+    isbn: 0060786507
+    isbn13: '9780060786502'
+    link: https://www.goodreads.com/book/show/7244.The_Poisonwood_Bible
+    num_pages: '546'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '328926'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1644073807l/7244._SY75_.jpg
+    title: The Poisonwood Bible
+    title_without_series: The Poisonwood Bible
+    uri: kca://book/amzn1.gr.book.v1.ahkbeUyO_3Np1VEqV8gCUw
+    work:
+      id: '810663'
+  - authors:
+      author:
+        id: '31723'
+        link: https://www.goodreads.com/author/show/31723.Percival_Everett
+        name: Percival Everett
+    average_rating: '4.24'
+    id: '173754979'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704107491l/173754979._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/173754979-james
+    num_pages: '303'
+    publication_day: '19'
+    publication_month: '3'
+    publication_year: '2024'
+    ratings_count: '328926'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704107491l/173754979._SX50_.jpg
+    title: James
+    title_without_series: James
+    uri: kca://book/amzn1.gr.book.v3.w1rdXN6bI8ReZ494
+    work:
+      id: '181379063'
+  - authors:
+      author:
+        id: '3505'
+        link: https://www.goodreads.com/author/show/3505.Wally_Lamb
+        name: Wally Lamb
+    average_rating: '4.24'
+    id: '227711'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373532198l/227711._SX98_.jpg
+    isbn: 0060987561
+    isbn13: '9780060987565'
+    link: https://www.goodreads.com/book/show/227711.I_Know_This_Much_Is_True
+    num_pages: '897'
+    publication_day: null
+    publication_month: '5'
+    publication_year: '1999'
+    ratings_count: '328926'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373532198l/227711._SY75_.jpg
+    title: I Know This Much Is True
+    title_without_series: I Know This Much Is True
+    uri: kca://book/amzn1.gr.book.v1.KKWi-yyNsFNnU2Q3FQjXMA
+    work:
+      id: '1191096'
+  - authors:
+      author:
+        id: '6942'
+        link: https://www.goodreads.com/author/show/6942.Pat_Conroy
+        name: Pat Conroy
+    average_rating: '4.24'
+    id: '16735'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512744907l/16735._SX98_.jpg
+    isbn: 0553381547
+    isbn13: '9780553381542'
+    link: https://www.goodreads.com/book/show/16735.The_Prince_of_Tides
+    num_pages: '679'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '328926'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512744907l/16735._SY75_.jpg
+    title: The Prince of Tides
+    title_without_series: The Prince of Tides
+    uri: kca://book/amzn1.gr.book.v1.Qh6pgMXXH6xkBN67wYtGZQ
+    work:
+      id: '1312477'
+  - authors:
+      author:
+        id: '3505'
+        link: https://www.goodreads.com/author/show/3505.Wally_Lamb
+        name: Wally Lamb
+    average_rating: '4.24'
+    id: '5203'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543505339l/5203._SX98_.jpg
+    isbn: '0671021001'
+    isbn13: '9780671021009'
+    link: https://www.goodreads.com/book/show/5203.She_s_Come_Undone
+    num_pages: '465'
+    publication_day: '28'
+    publication_month: '6'
+    publication_year: '1998'
+    ratings_count: '328926'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543505339l/5203._SX50_.jpg
+    title: "She\u2019s Come Undone"
+    title_without_series: "She\u2019s Come Undone"
+    uri: kca://book/amzn1.gr.book.v1.L-7IruZWRa-FnmbwmVkZ8A
+    work:
+      id: '1003370'
+  - authors:
+      author:
+        id: '3541'
+        link: https://www.goodreads.com/author/show/3541.Barbara_Kingsolver
+        name: Barbara Kingsolver
+    average_rating: '4.24'
+    id: '60194162'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660050779l/60194162._SX98_.jpg
+    isbn: 0063251922
+    isbn13: '9780063251922'
+    link: https://www.goodreads.com/book/show/60194162-demon-copperhead
+    num_pages: '560'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '328926'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660050779l/60194162._SY75_.jpg
+    title: Demon Copperhead
+    title_without_series: Demon Copperhead
+    uri: kca://book/amzn1.gr.book.v3.HHBJ7oCA_zFPGOx9
+    work:
+      id: '94935539'
+  - authors:
+      author:
+        id: '93353'
+        link: https://www.goodreads.com/author/show/93353.Abraham_Verghese
+        name: Abraham   Verghese
+    average_rating: '4.24'
+    id: '3591262'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553715166l/3591262._SX98_.jpg
+    isbn: 0375414495
+    isbn13: '9780375414497'
+    link: https://www.goodreads.com/book/show/3591262-cutting-for-stone
+    num_pages: '560'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '328926'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553715166l/3591262._SX50_.jpg
+    title: Cutting for Stone
+    title_without_series: Cutting for Stone
+    uri: kca://book/amzn1.gr.book.v1.zryIIxtxQiX7ZVAwRFBlWg
+    work:
+      id: '3633533'
+  - authors:
+      author:
+        id: '485025'
+        link: https://www.goodreads.com/author/show/485025.Ariel_Lawhon
+        name: Ariel Lawhon
+    average_rating: '4.24'
+    id: '112975658'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1730395034l/112975658._SX98_.jpg
+    isbn: 0385546874
+    isbn13: '9780385546874'
+    link: https://www.goodreads.com/book/show/112975658-the-frozen-river
+    num_pages: '432'
+    publication_day: '5'
+    publication_month: '12'
+    publication_year: '2023'
+    ratings_count: '328926'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1730395034l/112975658._SY75_.jpg
+    title: The Frozen River
+    title_without_series: The Frozen River
+    uri: kca://book/amzn1.gr.book.v3.JPGnmDhoAQ06CU72
+    work:
+      id: '88637313'
+  - authors:
+      author:
+        id: '1055'
+        link: https://www.goodreads.com/author/show/1055.Larry_McMurtry
+        name: Larry McMurtry
+    average_rating: '4.24'
+    id: '256008'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559668037l/256008._SX98_.jpg
+    isbn: 067168390X
+    isbn13: '9780671683900'
+    link: https://www.goodreads.com/book/show/256008.Lonesome_Dove
+    num_pages: '960'
+    publication_day: '1'
+    publication_month: '10'
+    publication_year: '1999'
+    ratings_count: '328926'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559668037l/256008._SY75_.jpg
+    title: 'Lonesome Dove (Lonesome Dove, #1)'
+    title_without_series: Lonesome Dove
+    uri: kca://book/amzn1.gr.book.v1.dwVK5FIlpbRzsG9qRCtzYQ
+    work:
+      id: '3281465'
+  - authors:
+      author:
+        id: '14950866'
+        link: https://www.goodreads.com/author/show/14950866.Chris_Whitaker
+        name: Chris  Whitaker
+    average_rating: '4.24'
+    id: '203019740'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718910617l/203019740._SX98_.jpg
+    isbn: 0593798872
+    isbn13: '9780593798874'
+    link: https://www.goodreads.com/book/show/203019740-all-the-colors-of-the-dark
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '328926'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718910617l/203019740._SY75_.jpg
+    title: All the Colors of the Dark
+    title_without_series: All the Colors of the Dark
+    uri: kca://book/amzn1.gr.book.v3.DbdX0u_qZA-dHrT_
+    work:
+      id: '178254142'
+  - authors:
+      author:
+        id: '93353'
+        link: https://www.goodreads.com/author/show/93353.Abraham_Verghese
+        name: Abraham   Verghese
+    average_rating: '4.24'
+    id: '180357146'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687600746l/180357146._SX98_.jpg
+    isbn: 0802162177
+    isbn13: '9780802162175'
+    link: https://www.goodreads.com/book/show/180357146-the-covenant-of-water
+    num_pages: '724'
+    publication_day: null
+    publication_month: '6'
+    publication_year: '2023'
+    ratings_count: '328926'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687600746l/180357146._SX50_.jpg
+    title: The Covenant of Water
+    title_without_series: The Covenant of Water
+    uri: kca://book/amzn1.gr.book.v3.xPHxvFudMWrQ4NAo
+    work:
+      id: '24501146'
+  - authors:
+      author:
+        id: '2327917'
+        link: https://www.goodreads.com/author/show/2327917.Betty_Smith
+        name: Betty  Smith
+    average_rating: '4.24'
+    id: '14891'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327883484l/14891._SX98_.jpg
+    isbn: '0061120073'
+    isbn13: '9780061120077'
+    link: https://www.goodreads.com/book/show/14891.A_Tree_Grows_in_Brooklyn
+    num_pages: '496'
+    publication_day: '30'
+    publication_month: '5'
+    publication_year: '2006'
+    ratings_count: '328926'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327883484l/14891._SY75_.jpg
+    title: A Tree Grows in Brooklyn
+    title_without_series: A Tree Grows in Brooklyn
+    uri: kca://book/amzn1.gr.book.v1.2eew_MwU-jlgNU4zRYOnvQ
+    work:
+      id: '833257'
+  - authors:
+      author:
+        id: '585'
+        link: https://www.goodreads.com/author/show/585.John_Steinbeck
+        name: John Steinbeck
+    average_rating: '4.24'
+    id: '4406'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639969375l/4406._SX98_.jpg
+    isbn: '0142000655'
+    isbn13: '9780142000656'
+    link: https://www.goodreads.com/book/show/4406.East_of_Eden
+    num_pages: '601'
+    publication_day: null
+    publication_month: null
+    publication_year: '2002'
+    ratings_count: '328926'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639969375l/4406._SY75_.jpg
+    title: East of Eden
+    title_without_series: East of Eden
+    uri: kca://book/amzn1.gr.book.v1.MpV2Z6qT_WeCo5WxoUygJw
+    work:
+      id: '2574991'
+  - authors:
+      author:
+        id: '1467'
+        link: https://www.goodreads.com/author/show/1467.Jeffrey_Eugenides
+        name: Jeffrey Eugenides
+    average_rating: '4.24'
+    id: '2187'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437029776l/2187._SX98_.jpg
+    isbn: '0312422156'
+    isbn13: '9780312422158'
+    link: https://www.goodreads.com/book/show/2187.Middlesex
+    num_pages: '529'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '328926'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437029776l/2187._SY75_.jpg
+    title: Middlesex
+    title_without_series: Middlesex
+    uri: kca://book/amzn1.gr.book.v1.CyFXajMlZRidfX4PLakX2g
+    work:
+      id: '1352495'
+  - authors:
+      author:
+        id: '11728'
+        link: https://www.goodreads.com/author/show/11728.James_McBride
+        name: James   McBride
+    average_rating: '4.24'
+    id: '65678550'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685350945l/65678550._SX98_.jpg
+    isbn: 0593422945
+    isbn13: '9780593422946'
+    link: https://www.goodreads.com/book/show/65678550-the-heaven-earth-grocery-store
+    num_pages: '385'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '328926'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685350945l/65678550._SY75_.jpg
+    title: The Heaven & Earth Grocery Store
+    title_without_series: The Heaven & Earth Grocery Store
+    uri: kca://book/amzn1.gr.book.v3.Owx2VWdS1Kn9zhIR
+    work:
+      id: '100130221'
+  - authors:
+      author:
+        id: '3347'
+        link: https://www.goodreads.com/author/show/3347.Frank_McCourt
+        name: Frank McCourt
+    average_rating: '4.24'
+    id: '252577'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0007205236'
+    isbn13: '9780007205233'
+    link: https://www.goodreads.com/book/show/252577.Angela_s_Ashes
+    num_pages: '452'
+    publication_day: '3'
+    publication_month: '10'
+    publication_year: '2005'
+    ratings_count: '328926'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: "Angela\u2019s Ashes (Frank McCourt, #1)"
+    title_without_series: "Angela\u2019s Ashes"
+    uri: kca://book/amzn1.gr.book.v1.eBeMtJE6KsbxeglRd6t1HA
+    work:
+      id: '2883783'
+  - authors:
+      author:
+        id: '7136914'
+        link: https://www.goodreads.com/author/show/7136914.Ann_Patchett
+        name: Ann Patchett
+    average_rating: '4.24'
+    id: '63241104'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691084837l/63241104._SX98_.jpg
+    isbn: 006332752X
+    isbn13: '9780063327528'
+    link: https://www.goodreads.com/book/show/63241104-tom-lake
+    num_pages: '309'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '328926'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691084837l/63241104._SY75_.jpg
+    title: Tom Lake
+    title_without_series: Tom Lake
+    uri: kca://book/amzn1.gr.book.v3.iVgf3q4VogBst7AU
+    work:
+      id: '99138080'
+  - authors:
+      author:
+        id: '5435162'
+        link: https://www.goodreads.com/author/show/5435162.Liz_Moore
+        name: Liz    Moore
+    average_rating: '4.24'
+    id: '199698485'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717970538l/199698485._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/199698485-the-god-of-the-woods
+    num_pages: '490'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '328926'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717970538l/199698485._SY75_.jpg
+    title: The God of the Woods
+    title_without_series: The God of the Woods
+    uri: kca://book/amzn1.gr.book.v3.MBFJR-LDX4stJ3hL
+    work:
+      id: '204225210'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '99'
+  '@type': integer
+title: A Prayer for Owen Meany
+title_without_series: A Prayer for Owen Meany
+uri: kca://book/amzn1.gr.book.v1.YsNjYTnm6gHz5Hi0g2HfyQ
+url: https://www.goodreads.com/book/show/4472.A_Prayer_for_Owen_Meany
+work:
+  id: '1734019'
+  uri: kca://work/amzn1.gr.work.v1.Br-kWGeESY4PLghr9FsfqA

@@ -1,0 +1,776 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.89'
+    id: '9226'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1373826214p5/9226.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/9226.William_Gibson
+    name: William Gibson
+    ratings_count: '766924'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1373826214p2/9226.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '37601'
+average_rating: '3.84'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: The author of the ground-breaking science-fiction novels <i>Neuromancer</i>
+  and <i>Virtual Light</i> returns with a fast-paced, high-density, cyber-punk thriller.
+  As prophetic as it is exciting, <i>Idoru</i> takes us to 21st century Tokyo where
+  both the promises of technology and the disasters of cyber-industrialism stand in
+  stark contrast, where the haves and the have-nots find themselves walled apart,
+  and where information and fame are the most valuable and dangerous currencies.<br
+  /><br />When Rez, the lead singer for the rock band Lo/Rez is rumored to be engaged
+  to an "idoru" or "idol singer" - an artificial celebrity creation of information
+  software agents - 14-year-old Chia Pet McKenzie is sent by the band's fan club to
+  Tokyo to uncover the facts. At the same time, Colin Laney, a data specialist for
+  Slitscan television, uncovers and publicizes a network scandal. He flees to Tokyo
+  to escape the network's wrath. As Chia struggles to find the truth, Colin struggles
+  to preserve it, in a futuristic society so media-saturated that only computers hold
+  the hope for imagination, hope and spirituality.
+edition_information: null
+format: null
+id: '682768'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn:
+  '@nil': 'true'
+isbn13:
+  '@nil': 'true'
+json: '{"id": "682768", "isbn": {"@nil": "true"}, "isbn13": {"@nil": "true"}, "text_reviews_count":
+  {"@type": "integer", "#text": "49"}, "uri": "kca://book/amzn1.gr.book.v1.p9hFb0UceUM4cetLt9oWQg",
+  "title": "Idoru (Bridge, #2)", "title_without_series": "Idoru", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/682768.Idoru",
+  "num_pages": "383", "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.84", "ratings_count": "24565", "description": "The author of the ground-breaking
+  science-fiction novels <i>Neuromancer</i> and <i>Virtual Light</i> returns with
+  a fast-paced, high-density, cyber-punk thriller. As prophetic as it is exciting,
+  <i>Idoru</i> takes us to 21st century Tokyo where both the promises of technology
+  and the disasters of cyber-industrialism stand in stark contrast, where the haves
+  and the have-nots find themselves walled apart, and where information and fame are
+  the most valuable and dangerous currencies.<br /><br />When Rez, the lead singer
+  for the rock band Lo/Rez is rumored to be engaged to an \"idoru\" or \"idol singer\"
+  - an artificial celebrity creation of information software agents - 14-year-old
+  Chia Pet McKenzie is sent by the band''s fan club to Tokyo to uncover the facts.
+  At the same time, Colin Laney, a data specialist for Slitscan television, uncovers
+  and publicizes a network scandal. He flees to Tokyo to escape the network''s wrath.
+  As Chia struggles to find the truth, Colin struggles to preserve it, in a futuristic
+  society so media-saturated that only computers hold the hope for imagination, hope
+  and spirituality.", "authors": {"author": {"id": "9226", "name": "William Gibson",
+  "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1373826214p5/9226.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1373826214p2/9226.jpg"},
+  "link": "https://www.goodreads.com/author/show/9226.William_Gibson", "average_rating":
+  "3.89", "ratings_count": "766924", "text_reviews_count": "37601"}}, "published":
+  null, "work": {"id": "879765", "uri": "kca://work/amzn1.gr.work.v1.SX45g-iVIaSAQabhJNHa_A"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417660",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B000O76ONQ
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/682768.Idoru
+marketplace_id: ATVPDKIKX0DER
+num_pages: '383'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '8182'
+    '@name': to-read
+  - '@count': '849'
+    '@name': science-fiction
+  - '@count': '591'
+    '@name': sci-fi
+  - '@count': '554'
+    '@name': cyberpunk
+  - '@count': '438'
+    '@name': fiction
+  - '@count': '378'
+    '@name': currently-reading
+  - '@count': '179'
+    '@name': owned
+  - '@count': '177'
+    '@name': scifi
+  - '@count': '136'
+    '@name': sf
+  - '@count': '90'
+    '@name': default
+  - '@count': '83'
+    '@name': favorites
+  - '@count': '56'
+    '@name': sci-fi-fantasy
+  - '@count': '48'
+    '@name': william-gibson
+  - '@count': '47'
+    '@name': books-i-own
+  - '@count': '37'
+    '@name': speculative-fiction
+  - '@count': '37'
+    '@name': library
+  - '@count': '36'
+    '@name': novels
+  - '@count': '32'
+    '@name': gibson
+  - '@count': '31'
+    '@name': science
+  - '@count': '30'
+    '@name': owned-books
+  - '@count': '27'
+    '@name': dystopia
+  - '@count': '27'
+    '@name': cyber-punk
+  - '@count': '25'
+    '@name': scifi-fantasy
+  - '@count': '23'
+    '@name': sff
+  - '@count': '21'
+    '@name': ebook
+  - '@count': '20'
+    '@name': fantascienza
+  - '@count': '20'
+    '@name': series
+  - '@count': '20'
+    '@name': sf-fantasy
+  - '@count': '19'
+    '@name': my-library
+  - '@count': '18'
+    '@name': novel
+  - '@count': '16'
+    '@name': audiobook
+  - '@count': '16'
+    '@name': 1990s
+  - '@count': '16'
+    '@name': canadian
+  - '@count': '16'
+    '@name': science-fiction-fantasy
+  - '@count': '15'
+    '@name': kindle
+  - '@count': '15'
+    '@name': books
+  - '@count': '15'
+    '@name': ebooks
+  - '@count': '15'
+    '@name': japan
+  - '@count': '14'
+    '@name': re-read
+  - '@count': '14'
+    '@name': literature
+  - '@count': '14'
+    '@name': dystopian
+  - '@count': '13'
+    '@name': my-books
+  - '@count': '12'
+    '@name': have
+  - '@count': '12'
+    '@name': near-future
+  - '@count': '11'
+    '@name': paperback
+  - '@count': '11'
+    '@name': unread
+  - '@count': '11'
+    '@name': owned-unread
+  - '@count': '11'
+    '@name': audio
+  - '@count': '10'
+    '@name': american
+  - '@count': '10'
+    '@name': fantasy
+  - '@count': '10'
+    '@name': favourites
+  - '@count': '10'
+    '@name': speculative
+  - '@count': '9'
+    '@name': bookshelf
+  - '@count': '9'
+    '@name': physical
+  - '@count': '9'
+    '@name': home-library
+  - '@count': '9'
+    '@name': to-buy
+  - '@count': '9'
+    '@name': sci-fi-and-fantasy
+  - '@count': '9'
+    '@name': fantasy-sci-fi
+  - '@count': '8'
+    '@name': calibre
+  - '@count': '8'
+    '@name': artificial-intelligence
+  - '@count': '8'
+    '@name': paper
+  - '@count': '8'
+    '@name': ciencia-ficcion
+  - '@count': '8'
+    '@name': not-read
+  - '@count': '8'
+    '@name': "ciencia-ficci\xF3n"
+  - '@count': '8'
+    '@name': own-it
+  - '@count': '8'
+    '@name': audiobooks
+  - '@count': '7'
+    '@name': narrativa
+  - '@count': '7'
+    '@name': fantasy-scifi
+  - '@count': '7'
+    '@name': 20th-century
+  - '@count': '7'
+    '@name': thriller
+  - '@count': '7'
+    '@name': gibson-william
+  - '@count': '7'
+    '@name': genre
+  - '@count': '7'
+    '@name': i-own
+  - '@count': '7'
+    '@name': recommended
+  - '@count': '7'
+    '@name': e-books
+  - '@count': '6'
+    '@name': did-not-finish
+  - '@count': '6'
+    '@name': crime
+  - '@count': '6'
+    '@name': scanned
+  - '@count': '6'
+    '@name': english
+  - '@count': '6'
+    '@name': sf-f
+  - '@count': '6'
+    '@name': '1997'
+  - '@count': '6'
+    '@name': adventure
+  - '@count': '6'
+    '@name': general
+  - '@count': '6'
+    '@name': contemporary
+  - '@count': '6'
+    '@name': usa
+  - '@count': '6'
+    '@name': on-the-shelf
+  - '@count': '6'
+    '@name': wish-list
+  - '@count': '6'
+    '@name': fiction-sci-fi
+  - '@count': '6'
+    '@name': young-adult
+  - '@count': '5'
+    '@name': not-owned
+  - '@count': '5'
+    '@name': dnf
+  - '@count': '5'
+    '@name': audio_wanted
+  - '@count': '5'
+    '@name': physical-copy
+  - '@count': '5'
+    '@name': digital
+  - '@count': '5'
+    '@name': dead-tree
+  - '@count': '5'
+    '@name': owned-not-read
+  - '@count': '5'
+    '@name': finished
+  - '@count': '5'
+    '@name': tokyo
+  - '@count': '5'
+    '@name': american-literature
+  - '@count': '5'
+    '@name': tech
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '24565'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417660
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/682768.Idoru\"\
+  >Idoru Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/682768.Idoru?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '153310'
+    series:
+      description: "DE: Idoru-Trilogie\n    \n    The Bridge trilogy is a series of\
+        \ novels by William Gibson, his second after the successful Sprawl trilogy.\
+        \ The trilogy comprises the novels <i>Virtual Light</i> (1993), <i>Idoru</i>,\
+        \ (1996) and <i>All Tomorrow's Parties</i> (1999). A short story, \"Skinner's\
+        \ Room\", was originally composed for Visionary San Francisco, a 1990 museum\
+        \ exhibition exploring the future of San Francisco."
+      id: '42753'
+      note: null
+      numbered: 'true'
+      primary_work_count: '3'
+      series_works_count: '4'
+      title: Bridge
+    user_position: '2'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '14887946'
+        link: https://www.goodreads.com/author/show/14887946.Max_Nowaz
+        name: Max Nowaz
+    average_rating: '3.84'
+    id: '101265124'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SX98_.jpg
+    isbn: '1803133961'
+    isbn13: '9781803133966'
+    link: https://www.goodreads.com/book/show/101265124-the-polymorph
+    num_pages: '0'
+    publication_day: '4'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '24565'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SY75_.jpg
+    title: The Polymorph
+    title_without_series: The Polymorph
+    uri: kca://book/amzn1.gr.book.v3.2WI1HTFNfz3UC2Zb
+    work:
+      id: '124767981'
+  - authors:
+      author:
+        id: '14078'
+        link: https://www.goodreads.com/author/show/14078.David_Brin
+        name: David Brin
+    average_rating: '3.84'
+    id: '234501'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476445711l/234501._SY160_.jpg
+    isbn: 055327418X
+    isbn13: '9780553274189'
+    link: https://www.goodreads.com/book/show/234501.Startide_Rising
+    num_pages: '458'
+    publication_day: '1'
+    publication_month: '9'
+    publication_year: '1983'
+    ratings_count: '24565'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476445711l/234501._SY75_.jpg
+    title: 'Startide Rising (The Uplift Saga, #2)'
+    title_without_series: Startide Rising
+    uri: kca://book/amzn1.gr.book.v1.-udcgKUX5bzo1fbGJaj1lQ
+    work:
+      id: '251634'
+  - authors:
+      author:
+        id: '545'
+        link: https://www.goodreads.com/author/show/545.Neal_Stephenson
+        name: Neal Stephenson
+    average_rating: '3.84'
+    id: '816'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327931476l/816._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/816.Cryptonomicon
+    num_pages: '1152'
+    publication_day: '5'
+    publication_month: '11'
+    publication_year: '2002'
+    ratings_count: '24565'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327931476l/816._SY75_.jpg
+    title: Cryptonomicon
+    title_without_series: Cryptonomicon
+    uri: kca://book/amzn1.gr.book.v1.QSkrlJtJiDTXEp2FYdr65Q
+    work:
+      id: '1166797'
+  - authors:
+      author:
+        id: '14407836'
+        link: https://www.goodreads.com/author/show/14407836.A_R_Merrydew
+        name: A.R. Merrydew
+    average_rating: '3.84'
+    id: '215186841'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/215186841-inara
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '24565'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Inara (Godfrey Davis, #3)'
+    title_without_series: Inara
+    uri: kca://book/amzn1.gr.book.v3.wCOHuKhf0nZUkB2e
+    work:
+      id: '221595685'
+  - authors:
+      author:
+        id: '545'
+        link: https://www.goodreads.com/author/show/545.Neal_Stephenson
+        name: Neal Stephenson
+    average_rating: '3.84'
+    id: '61240297'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1656932283l/61240297._SX98_.jpg
+    isbn: 059359973X
+    isbn13: '9780593599730'
+    link: https://www.goodreads.com/book/show/61240297-snow-crash
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '24565'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1656932283l/61240297._SY75_.jpg
+    title: Snow Crash
+    title_without_series: Snow Crash
+    uri: kca://book/amzn1.gr.book.v3.hgj087Bmokbxdumw
+    work:
+      id: '493634'
+  - authors:
+      author:
+        id: '545'
+        link: https://www.goodreads.com/author/show/545.Neal_Stephenson
+        name: Neal Stephenson
+    average_rating: '3.84'
+    id: '827'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0553380966
+    isbn13: '9780553380965'
+    link: https://www.goodreads.com/book/show/827.The_Diamond_Age
+    num_pages: '499'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '24565'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Diamond Age: Or, a Young Lady''s Illustrated Primer'
+    title_without_series: 'The Diamond Age: Or, a Young Lady''s Illustrated Primer'
+    uri: kca://book/amzn1.gr.book.v1.DY0zJ1f5vMb4XU5Ivsa_eQ
+    work:
+      id: '2181158'
+  - authors:
+      author:
+        id: '5807106'
+        link: https://www.goodreads.com/author/show/5807106.Iain_M_Banks
+        name: Iain M. Banks
+    average_rating: '3.84'
+    id: '13497991'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340894566l/13497991._SX98_.jpg
+    isbn: '0356501507'
+    isbn13: '9780356501505'
+    link: https://www.goodreads.com/book/show/13497991-the-hydrogen-sonata
+    num_pages: '517'
+    publication_day: '4'
+    publication_month: '10'
+    publication_year: '2012'
+    ratings_count: '24565'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340894566l/13497991._SY75_.jpg
+    title: 'The Hydrogen Sonata (Culture, #10)'
+    title_without_series: The Hydrogen Sonata
+    uri: kca://book/amzn1.gr.book.v1.lJneUo5V0e143BlkSXP6oA
+    work:
+      id: '19042585'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '3.84'
+    id: '13573419'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344371600l/13573419._SX98_.jpg
+    isbn: 034552666X
+    isbn13: '9780345526663'
+    link: https://www.goodreads.com/book/show/13573419-great-north-road
+    num_pages: '948'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '24565'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344371600l/13573419._SY75_.jpg
+    title: Great North Road
+    title_without_series: Great North Road
+    uri: kca://book/amzn1.gr.book.v1.64r5XkXGJZUUmefD5m2q8g
+    work:
+      id: '19154394'
+  - authors:
+      author:
+        id: '8794'
+        link: https://www.goodreads.com/author/show/8794.Charles_Stross
+        name: Charles Stross
+    average_rating: '3.84'
+    id: '81992'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446324638l/81992._SY160_.jpg
+    isbn: '1841493341'
+    isbn13: '9781841493343'
+    link: https://www.goodreads.com/book/show/81992.Singularity_Sky
+    num_pages: '389'
+    publication_day: '3'
+    publication_month: '2'
+    publication_year: '2005'
+    ratings_count: '24565'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446324638l/81992._SY75_.jpg
+    title: 'Singularity Sky (Eschaton, #1)'
+    title_without_series: Singularity Sky
+    uri: kca://book/amzn1.gr.book.v1.b-HTmxepsO4fuoPbkPszgg
+    work:
+      id: '1192005'
+  - authors:
+      author:
+        id: '711866'
+        link: https://www.goodreads.com/author/show/711866.Barry_Kirwan
+        name: Barry Kirwan
+    average_rating: '3.84'
+    id: '43722869'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/43722869-the-eden-paradox
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '24565'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Eden Paradox (Eden Paradox, #1)'
+    title_without_series: The Eden Paradox
+    uri: kca://book/amzn1.gr.book.v1.UDhLqYMwKq5dAVfSIYALGw
+    work:
+      id: '17313897'
+  - authors:
+      author:
+        id: '76471'
+        link: https://www.goodreads.com/author/show/76471.George_Alec_Effinger
+        name: George Alec Effinger
+    average_rating: '3.84'
+    id: '132694'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316729685l/132694._SX98_.jpg
+    isbn: 0765313588
+    isbn13: '9780765313584'
+    link: https://www.goodreads.com/book/show/132694.When_Gravity_Fails
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '24565'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316729685l/132694._SX50_.jpg
+    title: "When Gravity Fails (Mar\xEEd Audran, #1)"
+    title_without_series: When Gravity Fails
+    uri: kca://book/amzn1.gr.book.v1.Pgv-Vzivg4poSQOOs3d4iA
+    work:
+      id: '127822'
+  - authors:
+      author:
+        id: '10885'
+        link: https://www.goodreads.com/author/show/10885.Edgar_Rice_Burroughs
+        name: Edgar Rice Burroughs
+    average_rating: '3.84'
+    id: '841973'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0345324390
+    isbn13: '9780345324399'
+    link: https://www.goodreads.com/book/show/841973.The_Gods_of_Mars
+    num_pages: '190'
+    publication_day: null
+    publication_month: '1'
+    publication_year: '1963'
+    ratings_count: '24565'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Gods of Mars (Barsoom #2)'
+    title_without_series: The Gods of Mars
+    uri: kca://book/amzn1.gr.book.v1.KpSCiTT1CJP709rXw-x5rw
+    work:
+      id: '2816507'
+  - authors:
+      author:
+        id: '4764'
+        link: https://www.goodreads.com/author/show/4764.Philip_K_Dick
+        name: Philip K. Dick
+    average_rating: '3.84'
+    id: '22584'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398026028l/22584._SX98_.jpg
+    isbn: '1857983416'
+    isbn13: '9781857983418'
+    link: https://www.goodreads.com/book/show/22584.Flow_My_Tears_the_Policeman_Said
+    num_pages: '204'
+    publication_day: '8'
+    publication_month: '11'
+    publication_year: '2001'
+    ratings_count: '24565'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398026028l/22584._SY75_.jpg
+    title: Flow My Tears, the Policeman Said
+    title_without_series: Flow My Tears, the Policeman Said
+    uri: kca://book/amzn1.gr.book.v1.LvkRfBsnXt81z3Na5Ne1pA
+    work:
+      id: '949696'
+  - authors:
+      author:
+        id: '22565447'
+        link: https://www.goodreads.com/author/show/22565447.Therisa_Peimer
+        name: Therisa Peimer
+    average_rating: '3.84'
+    id: '61608233'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658244114l/61608233._SX98_.jpg
+    isbn: '1039125611'
+    isbn13: '9781039125612'
+    link: https://www.goodreads.com/book/show/61608233-taming-flame
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '24565'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658244114l/61608233._SX50_.jpg
+    title: Taming Flame
+    title_without_series: Taming Flame
+    uri: kca://book/amzn1.gr.book.v3.clKIDY7JJdvmz7KB
+    work:
+      id: '97169008'
+  - authors:
+      author:
+        id: '14407836'
+        link: https://www.goodreads.com/author/show/14407836.A_R_Merrydew
+        name: A.R. Merrydew
+    average_rating: '3.84'
+    id: '29629427'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/29629427-our-blue-orange
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '24565'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Our Blue Orange (Godfrey Davis, #1)'
+    title_without_series: Our Blue Orange
+    uri: kca://book/amzn1.gr.book.v1.qAfANj-ilH25rMdV-G7urQ
+    work:
+      id: '46793738'
+  - authors:
+      author:
+        id: '10992'
+        link: https://www.goodreads.com/author/show/10992.Alfred_Bester
+        name: Alfred Bester
+    average_rating: '3.84'
+    id: '76740'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360171879l/76740._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/76740.The_Demolished_Man
+    num_pages: '250'
+    publication_day: '8'
+    publication_month: '7'
+    publication_year: '1999'
+    ratings_count: '24565'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360171879l/76740._SY75_.jpg
+    title: The Demolished Man
+    title_without_series: The Demolished Man
+    uri: kca://book/amzn1.gr.book.v1.kTBJSSCHk57Ewdqk1rJL0g
+    work:
+      id: '1247570'
+  - authors:
+      author:
+        id: '545'
+        link: https://www.goodreads.com/author/show/545.Neal_Stephenson
+        name: Neal Stephenson
+    average_rating: '3.84'
+    id: '199793426'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714031079l/199793426._SX98_.jpg
+    isbn: 0062334492
+    isbn13: '9780062334497'
+    link: https://www.goodreads.com/book/show/199793426-polostan
+    num_pages: '303'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '24565'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714031079l/199793426._SY75_.jpg
+    title: 'Polostan (Bomb Light, #1)'
+    title_without_series: Polostan
+    uri: kca://book/amzn1.gr.book.v3.8CLQbGH4z-T5lvaG
+    work:
+      id: '73605495'
+  - authors:
+      author:
+        id: '49111'
+        link: https://www.goodreads.com/author/show/49111.Samuel_R_Delany
+        name: Samuel R. Delany
+    average_rating: '3.84'
+    id: '1199688'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1257546421l/1199688._SX98_.jpg
+    isbn: 0839823282
+    isbn13: '9780839823285'
+    link: https://www.goodreads.com/book/show/1199688.Babel_17
+    num_pages: '192'
+    publication_day: '1'
+    publication_month: '6'
+    publication_year: '1978'
+    ratings_count: '24565'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1257546421l/1199688._SY75_.jpg
+    title: Babel-17
+    title_without_series: Babel-17
+    uri: kca://book/amzn1.gr.book.v1.XwjucIHXX33ggjngMMIw7Q
+    work:
+      id: '13612561'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '49'
+  '@type': integer
+title: 'Idoru (Bridge, #2)'
+title_without_series: Idoru
+uri: kca://book/amzn1.gr.book.v1.p9hFb0UceUM4cetLt9oWQg
+url: https://www.goodreads.com/book/show/682768.Idoru
+work:
+  id: '879765'
+  uri: kca://work/amzn1.gr.work.v1.SX45g-iVIaSAQabhJNHa_A

@@ -1,0 +1,768 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.74'
+    id: '33919'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1522640540p5/33919.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/33919.Jeff_VanderMeer
+    name: Jeff VanderMeer
+    ratings_count: '587371'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1522640540p2/33919.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '67380'
+average_rating: '3.66'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2015-05-17T00:00:00-07:00'
+description: "<b>It is winter in Area X. A new team embarks across the border on a\
+  \ mission to find a member of a previous expedition who may have been left behind.</b><br\
+  \ /><br />As they press deeper into the unknown \u2014 navigating new terrain and\
+  \ new challenges \u2014 the threat to the outside world becomes more daunting. <br\
+  \ /><br />In <i>Acceptance</i>, the last installment of Jeff VanderMeer\u2019s Southern\
+  \ Reach Trilogy, the mysteries of Area X may have been solved, but their consequences\
+  \ and implications are no less profound \u2014 or terrifying."
+edition_information: null
+format: null
+id: '21504315'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410065800l/21504315._SX98_.jpg
+is_ebook: 'true'
+isbn: 0374710791
+isbn13: '9780374710798'
+json: '{"id": "21504315", "isbn": "0374710791", "isbn13": "9780374710798", "text_reviews_count":
+  {"@type": "integer", "#text": "370"}, "uri": "kca://book/amzn1.gr.book.v1.LwlzvWDxpI4T4-uUnws0wA",
+  "title": "Acceptance (Southern Reach, #3)", "title_without_series": "Acceptance",
+  "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410065800l/21504315._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410065800l/21504315._SX50_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/21504315-acceptance",
+  "num_pages": "354", "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.66", "ratings_count": "72610", "description": "<b>It is winter in Area X. A new
+  team embarks across the border on a mission to find a member of a previous expedition
+  who may have been left behind.</b><br /><br />As they press deeper into the unknown
+  \u2014 navigating new terrain and new challenges \u2014 the threat to the outside
+  world becomes more daunting. <br /><br />In <i>Acceptance</i>, the last installment
+  of Jeff VanderMeer\u2019s Southern Reach Trilogy, the mysteries of Area X may have
+  been solved, but their consequences and implications are no less profound \u2014
+  or terrifying.", "authors": {"author": {"id": "33919", "name": "Jeff VanderMeer",
+  "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1522640540p5/33919.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1522640540p2/33919.jpg"},
+  "link": "https://www.goodreads.com/author/show/33919.Jeff_VanderMeer", "average_rating":
+  "3.74", "ratings_count": "587371", "text_reviews_count": "67380"}}, "published":
+  null, "work": {"id": "25384096", "uri": "kca://work/amzn1.gr.work.v1.bV9Ux8rzA_0t8L5Yd7uiOA"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1282347405",
+  "read_at": "Sun May 17 00:00:00 -0700 2015", "started_at": "", "date": "Sun May
+  17 00:00:00 -0700 2015"}'
+kindle_asin: B00ILWNU2E
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/21504315-acceptance
+marketplace_id: ATVPDKIKX0DER
+num_pages: '354'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '43353'
+    '@name': to-read
+  - '@count': '3348'
+    '@name': currently-reading
+  - '@count': '1799'
+    '@name': science-fiction
+  - '@count': '1667'
+    '@name': sci-fi
+  - '@count': '1225'
+    '@name': fiction
+  - '@count': '995'
+    '@name': horror
+  - '@count': '486'
+    '@name': owned
+  - '@count': '435'
+    '@name': favorites
+  - '@count': '405'
+    '@name': fantasy
+  - '@count': '377'
+    '@name': scifi
+  - '@count': '242'
+    '@name': audiobook
+  - '@count': '209'
+    '@name': books-i-own
+  - '@count': '193'
+    '@name': mystery
+  - '@count': '192'
+    '@name': audiobooks
+  - '@count': '171'
+    '@name': weird
+  - '@count': '163'
+    '@name': sci-fi-fantasy
+  - '@count': '147'
+    '@name': weird-fiction
+  - '@count': '139'
+    '@name': dystopian
+  - '@count': '137'
+    '@name': library
+  - '@count': '136'
+    '@name': kindle
+  - '@count': '126'
+    '@name': physical-tbr
+  - '@count': '122'
+    '@name': speculative-fiction
+  - '@count': '120'
+    '@name': sf
+  - '@count': '115'
+    '@name': dystopia
+  - '@count': '112'
+    '@name': ebook
+  - '@count': '112'
+    '@name': audio
+  - '@count': '103'
+    '@name': novels
+  - '@count': '100'
+    '@name': new-weird
+  - '@count': '94'
+    '@name': dnf
+  - '@count': '88'
+    '@name': adult
+  - '@count': '83'
+    '@name': scifi-fantasy
+  - '@count': '82'
+    '@name': read-in-2018
+  - '@count': '75'
+    '@name': owned-books
+  - '@count': '68'
+    '@name': abandoned
+  - '@count': '67'
+    '@name': thriller
+  - '@count': '66'
+    '@name': fantasy-sci-fi
+  - '@count': '65'
+    '@name': tbr
+  - '@count': '62'
+    '@name': sff
+  - '@count': '62'
+    '@name': to-buy
+  - '@count': '55'
+    '@name': read-in-2015
+  - '@count': '54'
+    '@name': science-fiction-fantasy
+  - '@count': '53'
+    '@name': my-library
+  - '@count': '51'
+    '@name': did-not-finish
+  - '@count': '50'
+    '@name': favourites
+  - '@count': '50'
+    '@name': novel
+  - '@count': '49'
+    '@name': adult-fiction
+  - '@count': '46'
+    '@name': read-2015
+  - '@count': '45'
+    '@name': ebooks
+  - '@count': '44'
+    '@name': read-in-2019
+  - '@count': '43'
+    '@name': audio-book
+  - '@count': '42'
+    '@name': owned-tbr
+  - '@count': '42'
+    '@name': cosmic-horror
+  - '@count': '41'
+    '@name': contemporary
+  - '@count': '40'
+    '@name': read-in-2024
+  - '@count': '40'
+    '@name': post-apocalyptic
+  - '@count': '40'
+    '@name': southern-reach
+  - '@count': '39'
+    '@name': read-2018
+  - '@count': '39'
+    '@name': bookshelf
+  - '@count': '38'
+    '@name': fantascienza
+  - '@count': '38'
+    '@name': jeff-vandermeer
+  - '@count': '38'
+    '@name': sci-fi-and-fantasy
+  - '@count': '38'
+    '@name': apocalyptic
+  - '@count': '38'
+    '@name': american
+  - '@count': '37'
+    '@name': 21st-century
+  - '@count': '35'
+    '@name': books
+  - '@count': '35'
+    '@name': audio-books
+  - '@count': '34'
+    '@name': my-books
+  - '@count': '34'
+    '@name': aliens
+  - '@count': '33'
+    '@name': on-my-shelf
+  - '@count': '32'
+    '@name': read-in-2017
+  - '@count': '32'
+    '@name': audible
+  - '@count': '32'
+    '@name': read-in-2014
+  - '@count': '31'
+    '@name': borrowed
+  - '@count': '31'
+    '@name': speculative
+  - '@count': '31'
+    '@name': adventure
+  - '@count': '30'
+    '@name': my-bookshelf
+  - '@count': '29'
+    '@name': suspense
+  - '@count': '27'
+    '@name': series
+  - '@count': '27'
+    '@name': 2010s
+  - '@count': '26'
+    '@name': 2018-reads
+  - '@count': '26'
+    '@name': literature
+  - '@count': '26'
+    '@name': nature
+  - '@count': '26'
+    '@name': supernatural
+  - '@count': '25'
+    '@name': read-2019
+  - '@count': '25'
+    '@name': sf-fantasy
+  - '@count': '25'
+    '@name': paranormal
+  - '@count': '24'
+    '@name': 2024-reads
+  - '@count': '24'
+    '@name': read-in-2023
+  - '@count': '24'
+    '@name': library-books
+  - '@count': '24'
+    '@name': usa
+  - '@count': '24'
+    '@name': i-own
+  - '@count': '24'
+    '@name': e-book
+  - '@count': '24'
+    '@name': fantasy-scifi
+  - '@count': '23'
+    '@name': read-in-2016
+  - '@count': '23'
+    '@name': library-book
+  - '@count': '22'
+    '@name': read-in-2022
+  - '@count': '22'
+    '@name': read-in-2021
+  - '@count': '22'
+    '@name': book-club
+  - '@count': '22'
+    '@name': science
+  - '@count': '21'
+    '@name': read-2023
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '72610'
+read_at: '2015-05-17T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/1282347405
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/21504315-acceptance\"\
+  >Acceptance Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0374710791&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/21504315-acceptance?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '583205'
+    series:
+      description: "Area X has been cut off from the rest of the world for decades,\
+        \ explored only in a series of expeditions dispatched by a secret government\
+        \ agency called the Southern Reach. So far these expeditions have returned\
+        \ -- when they have returned -- with more questions than answers.\n    \n\
+        \    At the beginning of the Southern Reach series, we join the twelfth expedition.\
+        \ What unfolds in <i>Annihilation</i>, <i>Authority</i>, and <i>Acceptance</i>\
+        \ is an exhilarating, disturbing, and all but unbearably suspenseful story\
+        \ of humanity engaged in what might be an existential confrontation with nature.\
+        \ The series is destined to become a classic of its kind.\n    \n    <i>Annihilation</i>\
+        \ was the basis for the Paramount Pictures film of the same name starring\
+        \ Natalie Portman.\n    \n    http://us.macmillan.com/series/TheSouthernReachSeries\n\
+        \    \n    Also known as:\n    <i>Trilogia dell'Area X</i>\n    <i>Trilogia\
+        \ \xC1rea X (Portugal)</i>"
+      id: '112239'
+      note: null
+      numbered: 'true'
+      primary_work_count: '4'
+      series_works_count: '6'
+      title: Southern Reach
+    user_position: '3'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '1159886'
+        link: https://www.goodreads.com/author/show/1159886.Arkady_Strugatsky
+        name: Arkady Strugatsky
+    average_rating: '3.66'
+    id: '331256'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0575070536'
+    isbn13: '9780575070530'
+    link: https://www.goodreads.com/book/show/331256.Roadside_Picnic
+    num_pages: '145'
+    publication_day: '24'
+    publication_month: '8'
+    publication_year: '2000'
+    ratings_count: '72610'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Roadside Picnic
+    title_without_series: Roadside Picnic
+    uri: kca://book/amzn1.gr.book.v1.idahH6cZYkLCEl9ZhwCQ3Q
+    work:
+      id: '1243896'
+  - authors:
+      author:
+        id: '7083555'
+        link: https://www.goodreads.com/author/show/7083555.John_Langan
+        name: John  Langan
+    average_rating: '3.66'
+    id: '29901930'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461603054l/29901930._SX98_.jpg
+    isbn: '1939905214'
+    isbn13: '9781939905215'
+    link: https://www.goodreads.com/book/show/29901930-the-fisherman
+    num_pages: '266'
+    publication_day: '30'
+    publication_month: '6'
+    publication_year: '2016'
+    ratings_count: '72610'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461603054l/29901930._SX50_.jpg
+    title: The Fisherman
+    title_without_series: The Fisherman
+    uri: kca://book/amzn1.gr.book.v1.tgDLMTz-eIaS5n79E4MOMw
+    work:
+      id: '50275540'
+  - authors:
+      author:
+        id: '7367300'
+        link: https://www.goodreads.com/author/show/7367300.T_Kingfisher
+        name: T. Kingfisher
+    average_rating: '3.66'
+    id: '58724626'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632936332l/58724626._SX98_.jpg
+    isbn: '1250830753'
+    isbn13: '9781250830753'
+    link: https://www.goodreads.com/book/show/58724626-what-moves-the-dead
+    num_pages: '165'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '72610'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632936332l/58724626._SY75_.jpg
+    title: 'What Moves the Dead (Sworn Soldier, #1)'
+    title_without_series: What Moves the Dead
+    uri: kca://book/amzn1.gr.book.v3.0g0NXJOLH1jRRNkY
+    work:
+      id: '91735925'
+  - authors:
+      author:
+        id: '5780686'
+        link: https://www.goodreads.com/author/show/5780686.Liu_Cixin
+        name: Liu Cixin
+    average_rating: '3.66'
+    id: '20518872'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/20518872-the-three-body-problem
+    num_pages: '472'
+    publication_day: '11'
+    publication_month: '11'
+    publication_year: '2014'
+    ratings_count: '72610'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872._SY75_.jpg
+    title: "The Three-Body Problem (Remembrance of Earth\u2019s Past, #1)"
+    title_without_series: The Three-Body Problem
+    uri: kca://book/amzn1.gr.book.v1.oUcAcIZioskWIAd_9N2ijQ
+    work:
+      id: '25696480'
+  - authors:
+      author:
+        id: '7367300'
+        link: https://www.goodreads.com/author/show/7367300.T_Kingfisher
+        name: T. Kingfisher
+    average_rating: '3.66'
+    id: '127306440'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683668946l/127306440._SX98_.jpg
+    isbn: '1250830850'
+    isbn13: '9781250830852'
+    link: https://www.goodreads.com/book/show/127306440-what-feasts-at-night
+    num_pages: '151'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '72610'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683668946l/127306440._SY75_.jpg
+    title: 'What Feasts at Night (Sworn Soldier, #2)'
+    title_without_series: What Feasts at Night
+    uri: kca://book/amzn1.gr.book.v3.6A7OvtiM7E366zMd
+    work:
+      id: '148402276'
+  - authors:
+      author:
+        id: '5780686'
+        link: https://www.goodreads.com/author/show/5780686.Liu_Cixin
+        name: Liu Cixin
+    average_rating: '3.66'
+    id: '25451264'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430330507l/25451264._SX98_.jpg
+    isbn: '0765377101'
+    isbn13: '9780765377104'
+    link: https://www.goodreads.com/book/show/25451264-death-s-end
+    num_pages: '604'
+    publication_day: '20'
+    publication_month: '9'
+    publication_year: '2016'
+    ratings_count: '72610'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430330507l/25451264._SY75_.jpg
+    title: "Death's End (Remembrance of Earth\u2019s Past, #3)"
+    title_without_series: Death's End
+    uri: kca://book/amzn1.gr.book.v1.S11pumuenGa1z0XCFh7ZGA
+    work:
+      id: '18520265'
+  - authors:
+      author:
+        id: '5780686'
+        link: https://www.goodreads.com/author/show/5780686.Liu_Cixin
+        name: Liu Cixin
+    average_rating: '3.66'
+    id: '23168817'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412064931l/23168817._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/23168817-the-dark-forest
+    num_pages: '512'
+    publication_day: '11'
+    publication_month: '8'
+    publication_year: '2015'
+    ratings_count: '72610'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412064931l/23168817._SY75_.jpg
+    title: "The Dark Forest (Remembrance of Earth\u2019s Past, #2)"
+    title_without_series: The Dark Forest
+    uri: kca://book/amzn1.gr.book.v1.vTopmk9oajebqvm2DNDWNg
+    work:
+      id: '42713958'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '3.66'
+    id: '195443798'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SX98_.jpg
+    isbn: '1035013770'
+    isbn13: '9781035013777'
+    link: https://www.goodreads.com/book/show/195443798-alien-clay
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '72610'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SY75_.jpg
+    title: Alien Clay
+    title_without_series: Alien Clay
+    uri: kca://book/amzn1.gr.book.v3.U07jHOWpgU_-RRTg
+    work:
+      id: '197089092'
+  - authors:
+      author:
+        id: '6447152'
+        link: https://www.goodreads.com/author/show/6447152.Ray_Nayler
+        name: Ray Nayler
+    average_rating: '3.66'
+    id: '59808603'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648691567l/59808603._SX98_.jpg
+    isbn: 0374605955
+    isbn13: '9780374605957'
+    link: https://www.goodreads.com/book/show/59808603-the-mountain-in-the-sea
+    num_pages: '456'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '72610'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648691567l/59808603._SY75_.jpg
+    title: The Mountain in the Sea
+    title_without_series: The Mountain in the Sea
+    uri: kca://book/amzn1.gr.book.v3.Hb1byVpc0xLeBvFL
+    work:
+      id: '94200044'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '3.66'
+    id: '32758901'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631585309l/32758901._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/32758901-all-systems-red
+    num_pages: '144'
+    publication_day: '2'
+    publication_month: '5'
+    publication_year: '2017'
+    ratings_count: '72610'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631585309l/32758901._SY75_.jpg
+    title: 'All Systems Red (The Murderbot Diaries, #1)'
+    title_without_series: All Systems Red
+    uri: kca://book/amzn1.gr.book.v1._wBOegAytcJ1t9Dl75w6FA
+    work:
+      id: '53349516'
+  - authors:
+      author:
+        id: '8446300'
+        link: https://www.goodreads.com/author/show/8446300.Scott_Hawkins
+        name: Scott  Hawkins
+    average_rating: '3.66'
+    id: '26892110'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453225113l/26892110._SX98_.jpg
+    isbn: 0553418629
+    isbn13: '9780553418620'
+    link: https://www.goodreads.com/book/show/26892110-the-library-at-mount-char
+    num_pages: '390'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '72610'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453225113l/26892110._SY75_.jpg
+    title: The Library at Mount Char
+    title_without_series: The Library at Mount Char
+    uri: kca://book/amzn1.gr.book.v1.YLFHPs5KnXOsZh4KfPBwNw
+    work:
+      id: '42797715'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '3.66'
+    id: '35519101'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506001607l/35519101._SX98_.jpg
+    isbn: '1250191785'
+    isbn13: '9781250191786'
+    link: https://www.goodreads.com/book/show/35519101-rogue-protocol
+    num_pages: '158'
+    publication_day: '7'
+    publication_month: '8'
+    publication_year: '2018'
+    ratings_count: '72610'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506001607l/35519101._SY75_.jpg
+    title: 'Rogue Protocol (The Murderbot Diaries, #3)'
+    title_without_series: Rogue Protocol
+    uri: kca://book/amzn1.gr.book.v1.HJjFhXbGbaVmhpOWpBIKCg
+    work:
+      id: '56934596'
+  - authors:
+      author:
+        id: '13974'
+        link: https://www.goodreads.com/author/show/13974.Mark_Z_Danielewski
+        name: Mark Z. Danielewski
+    average_rating: '3.66'
+    id: '24800'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403889034l/24800._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/24800.House_of_Leaves
+    num_pages: '710'
+    publication_day: '7'
+    publication_month: '3'
+    publication_year: '2000'
+    ratings_count: '72610'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403889034l/24800._SX50_.jpg
+    title: House of Leaves
+    title_without_series: House of Leaves
+    uri: kca://book/amzn1.gr.book.v1.bu0H_yqYefblt1zZW7Yiog
+    work:
+      id: '856555'
+  - authors:
+      author:
+        id: '4712375'
+        link: https://www.goodreads.com/author/show/4712375.Christopher_Buehlman
+        name: Christopher Buehlman
+    average_rating: '3.66'
+    id: '13543121'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710293039l/13543121._SX98_.jpg
+    isbn: '1937007863'
+    isbn13: '9781937007867'
+    link: https://www.goodreads.com/book/show/13543121-between-two-fires
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '72610'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710293039l/13543121._SY75_.jpg
+    title: Between Two Fires
+    title_without_series: Between Two Fires
+    uri: kca://book/amzn1.gr.book.v1.1s3j5ztiL0Q8CmO6101ibQ
+    work:
+      id: '19107416'
+  - authors:
+      author:
+        id: '3460897'
+        link: https://www.goodreads.com/author/show/3460897.Keanu_Reeves
+        name: Keanu Reeves
+    average_rating: '3.66'
+    id: '202950650'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1705250763l/202950650._SX98_.jpg
+    isbn: 0593446593
+    isbn13: '9780593446591'
+    link: https://www.goodreads.com/book/show/202950650-the-book-of-elsewhere
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '72610'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1705250763l/202950650._SX50_.jpg
+    title: The Book of Elsewhere
+    title_without_series: The Book of Elsewhere
+    uri: kca://book/amzn1.gr.book.v3.ESa0X-pascaruCvt
+    work:
+      id: '208879156'
+  - authors:
+      author:
+        id: '22926208'
+        link: https://www.goodreads.com/author/show/22926208.Gerardo_S_mano_C_rdova
+        name: "Gerardo S\xE1mano C\xF3rdova"
+    average_rating: '3.66'
+    id: '62888191'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664985853l/62888191._SX98_.jpg
+    isbn: '1638930368'
+    isbn13: '9781638930365'
+    link: https://www.goodreads.com/book/show/62888191-monstrilio
+    num_pages: '336'
+    publication_day: '7'
+    publication_month: '3'
+    publication_year: '2023'
+    ratings_count: '72610'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664985853l/62888191._SY75_.jpg
+    title: Monstrilio
+    title_without_series: Monstrilio
+    uri: kca://book/amzn1.gr.book.v3.Xj839cqEh89qqUnh
+    work:
+      id: '98689789'
+  - authors:
+      author:
+        id: '874602'
+        link: https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin
+        name: Ursula K. Le Guin
+    average_rating: '3.66'
+    id: '18423'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488213612l/18423._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness
+    num_pages: '304'
+    publication_day: '1'
+    publication_month: '7'
+    publication_year: '2000'
+    ratings_count: '72610'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488213612l/18423._SY75_.jpg
+    title: The Left Hand of Darkness
+    title_without_series: The Left Hand of Darkness
+    uri: kca://book/amzn1.gr.book.v1.rN6TzC6agHQRuPR-ZIDiGA
+    work:
+      id: '817527'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '3.66'
+    id: '201930181'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SX98_.jpg
+    isbn: 031652557X
+    isbn13: '9780316525572'
+    link: https://www.goodreads.com/book/show/201930181-the-mercy-of-gods
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '72610'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SY75_.jpg
+    title: "The Mercy of Gods (The Captive\u2019s War, #1)"
+    title_without_series: The Mercy of Gods
+    uri: kca://book/amzn1.gr.book.v3.nndIiP3mF2vHLfgz
+    work:
+      id: '95320019'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410065800l/21504315._SX50_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '370'
+  '@type': integer
+title: 'Acceptance (Southern Reach, #3)'
+title_without_series: Acceptance
+uri: kca://book/amzn1.gr.book.v1.LwlzvWDxpI4T4-uUnws0wA
+url: https://www.goodreads.com/book/show/21504315-acceptance
+work:
+  id: '25384096'
+  uri: kca://work/amzn1.gr.work.v1.bV9Ux8rzA_0t8L5Yd7uiOA

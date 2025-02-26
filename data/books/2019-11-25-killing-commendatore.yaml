@@ -1,0 +1,755 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.94'
+    id: '3354'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1615497402p5/3354.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/3354.Haruki_Murakami
+    name: Haruki Murakami
+    ratings_count: '3943151'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1615497402p2/3354.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '330337'
+average_rating: '3.91'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2019-11-25T00:00:00-08:00'
+description: "The much-anticipated new novel from the internationally acclaimed, best-selling\
+  \ author of <i>1Q84</i> and <i>Colorless Tsukuru Tazaki and His Years of Pilgrimage</i>,\
+  \ <i>Killing Commendatore</i> is an epic tour de force of love and loneliness, war\
+  \ and art\u2014as well as a loving homage to <i>The Great Gatsby</i>\u2014and a\
+  \ stunning work of imagination from one of our greatest writers."
+edition_information: null
+format: ebook
+id: '38717867'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530347198l/38717867._SX98_.jpg
+is_ebook: 'true'
+isbn:
+  '@nil': 'true'
+isbn13:
+  '@nil': 'true'
+json: '{"id": "38717867", "isbn": {"@nil": "true"}, "isbn13": {"@nil": "true"}, "text_reviews_count":
+  {"@type": "integer", "#text": "203"}, "uri": "kca://book/amzn1.gr.book.v1.8y-Gp5NwV2AH2tOTRl--Dw",
+  "title": "Killing Commendatore", "title_without_series": "Killing Commendatore",
+  "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530347198l/38717867._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530347198l/38717867._SX50_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/38717867-killing-commendatore",
+  "num_pages": "705", "format": "ebook", "edition_information": null, "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "3.91", "ratings_count": "64554", "description": "The much-anticipated
+  new novel from the internationally acclaimed, best-selling author of <i>1Q84</i>
+  and <i>Colorless Tsukuru Tazaki and His Years of Pilgrimage</i>, <i>Killing Commendatore</i>
+  is an epic tour de force of love and loneliness, war and art\u2014as well as a loving
+  homage to <i>The Great Gatsby</i>\u2014and a stunning work of imagination from one
+  of our greatest writers.", "authors": {"author": {"id": "3354", "name": "Haruki
+  Murakami", "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1615497402p5/3354.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1615497402p2/3354.jpg"},
+  "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami", "average_rating":
+  "3.94", "ratings_count": "3943151", "text_reviews_count": "330337"}}, "published":
+  null, "work": {"id": "61377544", "uri": "kca://work/amzn1.gr.work.v1.2yuoZfRcS1q_W6I96myoxg"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/3053002754",
+  "read_at": "Mon Nov 25 00:00:00 -0800 2019", "started_at": "Sun Nov 17 00:00:00
+  -0800 2019", "date": "Mon Nov 25 00:00:00 -0800 2019"}'
+kindle_asin: null
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/38717867-killing-commendatore
+marketplace_id: null
+num_pages: '705'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '85686'
+    '@name': to-read
+  - '@count': '7702'
+    '@name': currently-reading
+  - '@count': '1280'
+    '@name': fiction
+  - '@count': '435'
+    '@name': magical-realism
+  - '@count': '409'
+    '@name': favorites
+  - '@count': '363'
+    '@name': murakami
+  - '@count': '347'
+    '@name': japan
+  - '@count': '346'
+    '@name': owned
+  - '@count': '284'
+    '@name': japanese
+  - '@count': '225'
+    '@name': japanese-literature
+  - '@count': '208'
+    '@name': fantasy
+  - '@count': '202'
+    '@name': books-i-own
+  - '@count': '176'
+    '@name': haruki-murakami
+  - '@count': '143'
+    '@name': contemporary
+  - '@count': '127'
+    '@name': physical-tbr
+  - '@count': '122'
+    '@name': dnf
+  - '@count': '121'
+    '@name': japanese-lit
+  - '@count': '113'
+    '@name': novels
+  - '@count': '113'
+    '@name': literary-fiction
+  - '@count': '104'
+    '@name': library
+  - '@count': '101'
+    '@name': tbr
+  - '@count': '92'
+    '@name': audiobook
+  - '@count': '88'
+    '@name': kindle
+  - '@count': '87'
+    '@name': literature
+  - '@count': '86'
+    '@name': translated
+  - '@count': '70'
+    '@name': asia
+  - '@count': '67'
+    '@name': abandoned
+  - '@count': '61'
+    '@name': favourites
+  - '@count': '61'
+    '@name': did-not-finish
+  - '@count': '61'
+    '@name': my-library
+  - '@count': '60'
+    '@name': magic-realism
+  - '@count': '56'
+    '@name': audiobooks
+  - '@count': '55'
+    '@name': to-buy
+  - '@count': '54'
+    '@name': novel
+  - '@count': '53'
+    '@name': owned-books
+  - '@count': '53'
+    '@name': contemporary-fiction
+  - '@count': '50'
+    '@name': japanese-fiction
+  - '@count': '49'
+    '@name': read-2019
+  - '@count': '48'
+    '@name': audio
+  - '@count': '47'
+    '@name': asian
+  - '@count': '46'
+    '@name': english
+  - '@count': '43'
+    '@name': bookshelf
+  - '@count': '43'
+    '@name': asian-literature
+  - '@count': '42'
+    '@name': on-hold
+  - '@count': '42'
+    '@name': translation
+  - '@count': '40'
+    '@name': read-in-2019
+  - '@count': '37'
+    '@name': on-my-shelf
+  - '@count': '37'
+    '@name': read-in-2018
+  - '@count': '36'
+    '@name': art
+  - '@count': '34'
+    '@name': asian-lit
+  - '@count': '33'
+    '@name': unfinished
+  - '@count': '33'
+    '@name': japanese-authors
+  - '@count': '33'
+    '@name': book-club
+  - '@count': '32'
+    '@name': read-2020
+  - '@count': '32'
+    '@name': mystery
+  - '@count': '31'
+    '@name': ebook
+  - '@count': '30'
+    '@name': audible
+  - '@count': '29'
+    '@name': literary
+  - '@count': '29'
+    '@name': adult
+  - '@count': '28'
+    '@name': read-in-2020
+  - '@count': '28'
+    '@name': my-books
+  - '@count': '27'
+    '@name': wish-list
+  - '@count': '26'
+    '@name': 21st-century
+  - '@count': '25'
+    '@name': general-fiction
+  - '@count': '25'
+    '@name': owned-tbr
+  - '@count': '23'
+    '@name': adult-fiction
+  - '@count': '22'
+    '@name': my-bookshelf
+  - '@count': '22'
+    '@name': have
+  - '@count': '21'
+    '@name': want-to-buy
+  - '@count': '21'
+    '@name': maybe
+  - '@count': '20'
+    '@name': 2020-reads
+  - '@count': '20'
+    '@name': 2020-books
+  - '@count': '20'
+    '@name': to-be-read
+  - '@count': '20'
+    '@name': translations
+  - '@count': '20'
+    '@name': rm
+  - '@count': '20'
+    '@name': on-the-shelf
+  - '@count': '19'
+    '@name': unread
+  - '@count': '19'
+    '@name': dropped
+  - '@count': '19'
+    '@name': home-library
+  - '@count': '19'
+    '@name': translated-fiction
+  - '@count': '19'
+    '@name': owned-unread
+  - '@count': '19'
+    '@name': historical-fiction
+  - '@count': '19'
+    '@name': in-translation
+  - '@count': '18'
+    '@name': paused
+  - '@count': '18'
+    '@name': to-read-fiction
+  - '@count': '17'
+    '@name': bts
+  - '@count': '17'
+    '@name': read-2018
+  - '@count': '17'
+    '@name': 2010s
+  - '@count': '17'
+    '@name': tbr-owned
+  - '@count': '17'
+    '@name': audio-books
+  - '@count': '16'
+    '@name': read-in-2022
+  - '@count': '16'
+    '@name': physical
+  - '@count': '16'
+    '@name': purchased
+  - '@count': '16'
+    '@name': 2019-books
+  - '@count': '16'
+    '@name': giappone
+  - '@count': '16'
+    '@name': surreal
+  - '@count': '16'
+    '@name': surrealism
+  - '@count': '16'
+    '@name': murakami-haruki
+  - '@count': '16'
+    '@name': favorite-authors
+  - '@count': '15'
+    '@name': letteratura-giapponese
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '64554'
+read_at: '2019-11-25T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/3053002754
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/38717867-killing-commendatore\"\
+  >Killing Commendatore Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/38717867-killing-commendatore?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '1209506'
+    series:
+      description: null
+      id: '228848'
+      note: null
+      numbered: 'true'
+      primary_work_count: '2'
+      series_works_count: '3'
+      title: "\u9A0E\u58EB\u56E3\u9577\u6BBA\u3057 [Kishidancho Goroshi]"
+    user_position: 1-2
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '5559451'
+        link: https://www.goodreads.com/author/show/5559451.Mieko_Kawakami
+        name: Mieko Kawakami
+    average_rating: '3.91'
+    id: '50736031'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1609455878'
+    isbn13: '9781609455873'
+    link: https://www.goodreads.com/book/show/50736031-breasts-and-eggs
+    num_pages: '430'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '64554'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Breasts and Eggs
+    title_without_series: Breasts and Eggs
+    uri: kca://book/amzn1.gr.book.v3.fW6k1p_UToppCphj
+    work:
+      id: '74401064'
+  - authors:
+      author:
+        id: '4280'
+        link: https://www.goodreads.com/author/show/4280.Kazuo_Ishiguro
+        name: Kazuo Ishiguro
+    average_rating: '3.91'
+    id: '54120408'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603206535l/54120408._SX98_.jpg
+    isbn: 059331817X
+    isbn13: '9780593318171'
+    link: https://www.goodreads.com/book/show/54120408-klara-and-the-sun
+    num_pages: '340'
+    publication_day: '2'
+    publication_month: '3'
+    publication_year: '2021'
+    ratings_count: '64554'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603206535l/54120408._SY75_.jpg
+    title: Klara and the Sun
+    title_without_series: Klara and the Sun
+    uri: kca://book/amzn1.gr.book.v3.qmXeM06SHeTTncRw
+    work:
+      id: '84460796'
+  - authors:
+      author:
+        id: '4280'
+        link: https://www.goodreads.com/author/show/4280.Kazuo_Ishiguro
+        name: Kazuo Ishiguro
+    average_rating: '3.91'
+    id: '6334'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353048590l/6334._SX98_.jpg
+    isbn: '1400078776'
+    isbn13: '9781400078776'
+    link: https://www.goodreads.com/book/show/6334.Never_Let_Me_Go
+    num_pages: '288'
+    publication_day: '31'
+    publication_month: '8'
+    publication_year: '2010'
+    ratings_count: '64554'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353048590l/6334._SY75_.jpg
+    title: Never Let Me Go
+    title_without_series: Never Let Me Go
+    uri: kca://book/amzn1.gr.book.v1.t3ESMobC-9O2YByR0RqA6g
+    work:
+      id: '1499998'
+  - authors:
+      author:
+        id: '4119155'
+        link: https://www.goodreads.com/author/show/4119155.Han_Kang
+        name: Han Kang
+    average_rating: '3.91'
+    id: '25489025'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728661771l/25489025._SX98_.jpg
+    isbn: 0553448188
+    isbn13: '9780553448184'
+    link: https://www.goodreads.com/book/show/25489025-the-vegetarian
+    num_pages: '188'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '64554'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728661771l/25489025._SY75_.jpg
+    title: The Vegetarian
+    title_without_series: The Vegetarian
+    uri: kca://book/amzn1.gr.book.v1.i9drUaX1sIwjy4vP2rb1Gw
+    work:
+      id: '18449744'
+  - authors:
+      author:
+        id: '5559451'
+        link: https://www.goodreads.com/author/show/5559451.Mieko_Kawakami
+        name: Mieko Kawakami
+    average_rating: '3.91'
+    id: '59336625'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637059389l/59336625._SX98_.jpg
+    isbn: '1609456998'
+    isbn13: '9781609456993'
+    link: https://www.goodreads.com/book/show/59336625-all-the-lovers-in-the-night
+    num_pages: '224'
+    publication_day: '3'
+    publication_month: '5'
+    publication_year: '2022'
+    ratings_count: '64554'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637059389l/59336625._SY75_.jpg
+    title: All the Lovers in the Night
+    title_without_series: All the Lovers in the Night
+    uri: kca://book/amzn1.gr.book.v3.aNrtQhW6-uNqviv3
+    work:
+      id: '40898049'
+  - authors:
+      author:
+        id: '35258'
+        link: https://www.goodreads.com/author/show/35258.Yukio_Mishima
+        name: Yukio Mishima
+    average_rating: '3.91'
+    id: '162332'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327629352l/162332._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/162332.The_Sailor_Who_Fell_from_Grace_with_the_Sea
+    num_pages: '181'
+    publication_day: '31'
+    publication_month: '5'
+    publication_year: '1994'
+    ratings_count: '64554'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327629352l/162332._SY75_.jpg
+    title: The Sailor Who Fell from Grace with the Sea
+    title_without_series: The Sailor Who Fell from Grace with the Sea
+    uri: kca://book/amzn1.gr.book.v1.GbZ075qykwiJ1i6Kg79Nkw
+    work:
+      id: '880874'
+  - authors:
+      author:
+        id: '42775'
+        link: https://www.goodreads.com/author/show/42775.Y_ko_Ogawa
+        name: "Y\u014Dko Ogawa"
+    average_rating: '3.91'
+    id: '37004370'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544335119l/37004370._SX98_.jpg
+    isbn: '1101870605'
+    isbn13: '9781101870600'
+    link: https://www.goodreads.com/book/show/37004370-the-memory-police
+    num_pages: '274'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '64554'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544335119l/37004370._SY75_.jpg
+    title: The Memory Police
+    title_without_series: The Memory Police
+    uri: kca://book/amzn1.gr.book.v1.nev83272WHl2Rpwv6IgzqQ
+    work:
+      id: '7310932'
+  - authors:
+      author:
+        id: '113561'
+        link: https://www.goodreads.com/author/show/113561.Osamu_Dazai
+        name: Osamu Dazai
+    average_rating: '3.91'
+    id: '194746'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422638843l/194746._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/194746.No_Longer_Human
+    num_pages: '176'
+    publication_day: '17'
+    publication_month: '1'
+    publication_year: '1958'
+    ratings_count: '64554'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422638843l/194746._SY75_.jpg
+    title: No Longer Human
+    title_without_series: No Longer Human
+    uri: kca://book/amzn1.gr.book.v1.i4PoYbOwx_oUlT0yKc54FA
+    work:
+      id: '188338'
+  - authors:
+      author:
+        id: '4280'
+        link: https://www.goodreads.com/author/show/4280.Kazuo_Ishiguro
+        name: Kazuo Ishiguro
+    average_rating: '3.91'
+    id: '28921'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327128714l/28921._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/28921.The_Remains_of_the_Day
+    num_pages: '258'
+    publication_day: null
+    publication_month: null
+    publication_year: '2005'
+    ratings_count: '64554'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327128714l/28921._SY75_.jpg
+    title: The Remains of the Day
+    title_without_series: The Remains of the Day
+    uri: kca://book/amzn1.gr.book.v1.ooNR-4ubTPiLEj02dfwItw
+    work:
+      id: '3333111'
+  - authors:
+      author:
+        id: '5559451'
+        link: https://www.goodreads.com/author/show/5559451.Mieko_Kawakami
+        name: Mieko Kawakami
+    average_rating: '3.91'
+    id: '53223710'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615916179l/53223710._SX98_.jpg
+    isbn: '1609456211'
+    isbn13: '9781609456214'
+    link: https://www.goodreads.com/book/show/53223710-heaven
+    num_pages: '192'
+    publication_day: '25'
+    publication_month: '5'
+    publication_year: '2021'
+    ratings_count: '64554'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615916179l/53223710._SY75_.jpg
+    title: Heaven
+    title_without_series: Heaven
+    uri: kca://book/amzn1.gr.book.v3.tcw2oPCJcsqfoQ4v
+    work:
+      id: '7124935'
+  - authors:
+      author:
+        id: '15860970'
+        link: https://www.goodreads.com/author/show/15860970.Sally_Rooney
+        name: Sally Rooney
+    average_rating: '3.91'
+    id: '208931300'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716387455l/208931300._SX98_.jpg
+    isbn: 0374602638
+    isbn13: '9780374602635'
+    link: https://www.goodreads.com/book/show/208931300-intermezzo
+    num_pages: '454'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '64554'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716387455l/208931300._SY75_.jpg
+    title: Intermezzo
+    title_without_series: Intermezzo
+    uri: kca://book/amzn1.gr.book.v3.76uAiVKL5834lcUs
+    work:
+      id: '215458376'
+  - authors:
+      author:
+        id: '16061597'
+        link: https://www.goodreads.com/author/show/16061597.Natsume_S_seki
+        name: "Natsume S\u014Dseki"
+    average_rating: '3.91'
+    id: '762476'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327991553l/762476._SX98_.jpg
+    isbn: 0809260956
+    isbn13: '9780895267153'
+    link: https://www.goodreads.com/book/show/762476.Kokoro
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '64554'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327991553l/762476._SY75_.jpg
+    title: Kokoro
+    title_without_series: Kokoro
+    uri: kca://book/amzn1.gr.book.v1.MowZXCPxtP62Zrf6SzvlpA
+    work:
+      id: '1977713'
+  - authors:
+      author:
+        id: '6526'
+        link: https://www.goodreads.com/author/show/6526.K_b_Abe
+        name: "K\u014Db\u014D Abe"
+    average_rating: '3.91'
+    id: '9998'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361254930l/9998._SX98_.jpg
+    isbn: 0679733787
+    isbn13: '9780679733782'
+    link: https://www.goodreads.com/book/show/9998.The_Woman_in_the_Dunes
+    num_pages: '241'
+    publication_day: '16'
+    publication_month: '4'
+    publication_year: '1991'
+    ratings_count: '64554'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361254930l/9998._SY75_.jpg
+    title: The Woman in the Dunes
+    title_without_series: The Woman in the Dunes
+    uri: kca://book/amzn1.gr.book.v1.a0257o2rA4_Ffrm6L0VE7A
+    work:
+      id: '58336'
+  - authors:
+      author:
+        id: '28229'
+        link: https://www.goodreads.com/author/show/28229.Banana_Yoshimoto
+        name: Banana Yoshimoto
+    average_rating: '3.91'
+    id: '50144'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327904393l/50144._SX98_.jpg
+    isbn: 0802142443
+    isbn13: '9780802142443'
+    link: https://www.goodreads.com/book/show/50144.Kitchen
+    num_pages: '160'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '64554'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327904393l/50144._SX50_.jpg
+    title: Kitchen
+    title_without_series: Kitchen
+    uri: kca://book/amzn1.gr.book.v1.jg5-FL_34mp56G1xSnqZKQ
+    work:
+      id: '1543818'
+  - authors:
+      author:
+        id: '637929'
+        link: https://www.goodreads.com/author/show/637929.Hiromi_Kawakami
+        name: Hiromi Kawakami
+    average_rating: '3.91'
+    id: '18283207'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375634096l/18283207._SY160_.jpg
+    isbn: '1846275083'
+    isbn13: '9781846275081'
+    link: https://www.goodreads.com/book/show/18283207-strange-weather-in-tokyo
+    num_pages: '176'
+    publication_day: '1'
+    publication_month: '8'
+    publication_year: '2013'
+    ratings_count: '64554'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375634096l/18283207._SY75_.jpg
+    title: Strange Weather in Tokyo
+    title_without_series: Strange Weather in Tokyo
+    uri: kca://book/amzn1.gr.book.v1.jQ2VTFGxd1pWR3jNbNl_jw
+    work:
+      id: '2974590'
+  - authors:
+      author:
+        id: '13450'
+        link: https://www.goodreads.com/author/show/13450.Gabriel_Garc_a_M_rquez
+        name: "Gabriel Garc\xEDa M\xE1rquez"
+    average_rating: '3.91'
+    id: '320'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327881361l/320._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude
+    num_pages: '417'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '64554'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327881361l/320._SX50_.jpg
+    title: One Hundred Years of Solitude
+    title_without_series: One Hundred Years of Solitude
+    uri: kca://book/amzn1.gr.book.v1.r6swEyDhH8LVQCr1Vbwwzg
+    work:
+      id: '3295655'
+  - authors:
+      author:
+        id: '14071697'
+        link: https://www.goodreads.com/author/show/14071697.Asako_Yuzuki
+        name: Asako Yuzuki
+    average_rating: '3.91'
+    id: '200776812'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698348373l/200776812._SX98_.jpg
+    isbn: '0063236400'
+    isbn13: '9780063236400'
+    link: https://www.goodreads.com/book/show/200776812-butter
+    num_pages: '464'
+    publication_day: '16'
+    publication_month: '4'
+    publication_year: '2024'
+    ratings_count: '64554'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698348373l/200776812._SY75_.jpg
+    title: Butter
+    title_without_series: Butter
+    uri: kca://book/amzn1.gr.book.v3._xUsRZzsh8yYBIR7
+    work:
+      id: '63331482'
+  - authors:
+      author:
+        id: '35258'
+        link: https://www.goodreads.com/author/show/35258.Yukio_Mishima
+        name: Yukio Mishima
+    average_rating: '3.91'
+    id: '62793'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360239609l/62793._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/62793.Spring_Snow
+    num_pages: '389'
+    publication_day: null
+    publication_month: '11'
+    publication_year: '2000'
+    ratings_count: '64554'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360239609l/62793._SX50_.jpg
+    title: 'Spring Snow (The Sea of Fertility, #1)'
+    title_without_series: Spring Snow
+    uri: kca://book/amzn1.gr.book.v1.VVC4reoD5turr74F_Hh-aw
+    work:
+      id: '2295485'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530347198l/38717867._SX50_.jpg
+started_at: '2019-11-17T00:00:00-08:00'
+text_reviews_count:
+  '#text': '203'
+  '@type': integer
+title: Killing Commendatore
+title_without_series: Killing Commendatore
+uri: kca://book/amzn1.gr.book.v1.8y-Gp5NwV2AH2tOTRl--Dw
+url: https://www.goodreads.com/book/show/38717867-killing-commendatore
+work:
+  id: '61377544'
+  uri: kca://work/amzn1.gr.work.v1.2yuoZfRcS1q_W6I96myoxg

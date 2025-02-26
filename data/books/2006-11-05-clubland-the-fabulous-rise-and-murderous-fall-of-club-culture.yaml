@@ -1,0 +1,746 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.75'
+    id: '21370352'
+    image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+      '@nophoto': 'true'
+    link: https://www.goodreads.com/author/show/21370352.Frank_Owen
+    name: Frank   Owen
+    ratings_count: '1047'
+    role: null
+    small_image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png
+      '@nophoto': 'true'
+    text_reviews_count: '94'
+average_rating: '3.76'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: null
+edition_information: First Edition
+format: null
+id: '307193'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320397703l/307193._SX98_.jpg
+is_ebook: 'false'
+isbn: 0767917359
+isbn13: '9780767917353'
+json: '{"id": "307193", "isbn": "0767917359", "isbn13": "9780767917353", "text_reviews_count":
+  {"@type": "integer", "#text": "31"}, "uri": "kca://book/amzn1.gr.book.v1.NRQ1y_WsoQCAC_n9YYYTNw",
+  "title": "Clubland: The Fabulous Rise and Murderous Fall of Club Culture", "title_without_series":
+  "Clubland: The Fabulous Rise and Murderous Fall of Club Culture", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320397703l/307193._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320397703l/307193._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/307193.Clubland",
+  "num_pages": null, "format": null, "edition_information": "First Edition", "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "3.76", "ratings_count": "667", "description": null, "authors":
+  {"author": {"id": "21370352", "name": "Frank   Owen", "role": null, "image_url":
+  {"@nophoto": "true", "#text": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"},
+  "small_image_url": {"@nophoto": "true", "#text": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"},
+  "link": "https://www.goodreads.com/author/show/21370352.Frank_Owen", "average_rating":
+  "3.75", "ratings_count": "1047", "text_reviews_count": "94"}}, "published": null,
+  "work": {"id": "298164", "uri": "kca://work/amzn1.gr.work.v1.tbB-8T5WpOhDHztJKnoJ6Q"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417550",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B004E9UB4S
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/307193.Clubland
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '1199'
+    '@name': to-read
+  - '@count': '55'
+    '@name': currently-reading
+  - '@count': '34'
+    '@name': non-fiction
+  - '@count': '20'
+    '@name': true-crime
+  - '@count': '13'
+    '@name': nonfiction
+  - '@count': '11'
+    '@name': music
+  - '@count': '9'
+    '@name': crime
+  - '@count': '8'
+    '@name': drugs
+  - '@count': '7'
+    '@name': history
+  - '@count': '5'
+    '@name': new-york
+  - '@count': '5'
+    '@name': biography
+  - '@count': '4'
+    '@name': culture
+  - '@count': '4'
+    '@name': pop-culture
+  - '@count': '3'
+    '@name': audiobook
+  - '@count': '3'
+    '@name': 1980s
+  - '@count': '2'
+    '@name': scribd
+  - '@count': '2'
+    '@name': american
+  - '@count': '2'
+    '@name': to-buy
+  - '@count': '2'
+    '@name': 1990s
+  - '@count': '2'
+    '@name': dance
+  - '@count': '2'
+    '@name': club-kids
+  - '@count': '2'
+    '@name': wish-list
+  - '@count': '2'
+    '@name': books-i-own
+  - '@count': '2'
+    '@name': kindle
+  - '@count': '2'
+    '@name': lgbt
+  - '@count': '2'
+    '@name': nightclubs
+  - '@count': '1'
+    '@name': botdf-books-to-buy
+  - '@count': '1'
+    '@name': drinks
+  - '@count': '1'
+    '@name': taboo
+  - '@count': '1'
+    '@name': memoirs
+  - '@count': '1'
+    '@name': lgbtq-losjeebeeties
+  - '@count': '1'
+    '@name': gay-gay-homosexual-gay
+  - '@count': '1'
+    '@name': crooks-and-cons
+  - '@count': '1'
+    '@name': brittney-spears-toxic-mp3
+  - '@count': '1'
+    '@name': cultural
+  - '@count': '1'
+    '@name': we-have-books-at-home
+  - '@count': '1'
+    '@name': radar
+  - '@count': '1'
+    '@name': brat-books
+  - '@count': '1'
+    '@name': tbr-owned
+  - '@count': '1'
+    '@name': available-now
+  - '@count': '1'
+    '@name': books-i-own-but-haven-t-read-yet
+  - '@count': '1'
+    '@name': check-out
+  - '@count': '1'
+    '@name': 2000s
+  - '@count': '1'
+    '@name': rave-culture-history
+  - '@count': '1'
+    '@name': tbr-8
+  - '@count': '1'
+    '@name': owned-audiobooks
+  - '@count': '1'
+    '@name': club-book
+  - '@count': '1'
+    '@name': misc
+  - '@count': '1'
+    '@name': to-get-from-library
+  - '@count': '1'
+    '@name': amazon-purchase
+  - '@count': '1'
+    '@name': desperately-want-to-read
+  - '@count': '1'
+    '@name': covid-19-holds
+  - '@count': '1'
+    '@name': interesting
+  - '@count': '1'
+    '@name': adult-reads
+  - '@count': '1'
+    '@name': dnf
+  - '@count': '1'
+    '@name': queer-nonfiction
+  - '@count': '1'
+    '@name': phd
+  - '@count': '1'
+    '@name': did-not-finish
+  - '@count': '1'
+    '@name': misc-non-fiction
+  - '@count': '1'
+    '@name': crime-criminology
+  - '@count': '1'
+    '@name': da-leggere-2022
+  - '@count': '1'
+    '@name': 1-queer-and-lgbtia
+  - '@count': '1'
+    '@name': 1-other-nonfiction
+  - '@count': '1'
+    '@name': on-my-shelf
+  - '@count': '1'
+    '@name': im-getting
+  - '@count': '1'
+    '@name': recovery
+  - '@count': '1'
+    '@name': bedroom
+  - '@count': '1'
+    '@name': e-owned
+  - '@count': '1'
+    '@name': audiobook-owned
+  - '@count': '1'
+    '@name': 18-true-crime
+  - '@count': '1'
+    '@name': 16-lgbtq-non-fic
+  - '@count': '1'
+    '@name': 14-history
+  - '@count': '1'
+    '@name': mp3-64k
+  - '@count': '1'
+    '@name': 2021-reading-list
+  - '@count': '1'
+    '@name': owned-books
+  - '@count': '1'
+    '@name': 2000s-release
+  - '@count': '1'
+    '@name': music-biographys
+  - '@count': '1'
+    '@name': 111-checked
+  - '@count': '1'
+    '@name': to-read-eventually
+  - '@count': '1'
+    '@name': reading-challenge
+  - '@count': '1'
+    '@name': history-cultural
+  - '@count': '1'
+    '@name': a
+  - '@count': '1'
+    '@name': to-read-nonfiction
+  - '@count': '1'
+    '@name': pennsylvania
+  - '@count': '1'
+    '@name': gay-trans-history
+  - '@count': '1'
+    '@name': seem-fascinating
+  - '@count': '1'
+    '@name': actualshelves
+  - '@count': '1'
+    '@name': truecrime
+  - '@count': '1'
+    '@name': psych
+  - '@count': '1'
+    '@name': type_true-crime
+  - '@count': '1'
+    '@name': books-i-have
+  - '@count': '1'
+    '@name': random-non-fiction
+  - '@count': '1'
+    '@name': lgbtqia
+  - '@count': '1'
+    '@name': owned
+  - '@count': '1'
+    '@name': drag
+  - '@count': '1'
+    '@name': audiobooks
+  - '@count': '1'
+    '@name': psychology-sociology
+  - '@count': '1'
+    '@name': psycho-neurology-crime
+  - '@count': '1'
+    '@name': popculture-anthropology
+  - '@count': '1'
+    '@name': non-fiction-memoir
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '667'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417550
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/307193.Clubland\"\
+  >Clubland Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0767917359&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/307193.Clubland?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '44927'
+        link: https://www.goodreads.com/author/show/44927.James_St_James
+        name: James St. James
+    average_rating: '3.76'
+    id: '79090'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0743259823
+    isbn13: '9780743259828'
+    link: https://www.goodreads.com/book/show/79090.Party_Monster
+    num_pages: '287'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '667'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Party Monster: A Fabulous But True Tale of Murder in Clubland'
+    title_without_series: 'Party Monster: A Fabulous But True Tale of Murder in Clubland'
+    uri: kca://book/amzn1.gr.book.v1.pbQwDYBZUoq0cL040wcb1Q
+    work:
+      id: '262036'
+  - authors:
+      author:
+        id: '22485'
+        link: https://www.goodreads.com/author/show/22485.Jacqueline_Susann
+        name: Jacqueline Susann
+    average_rating: '3.76'
+    id: '581811'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429239923l/581811._SX98_.jpg
+    isbn: 0802135196
+    isbn13: '9780802135193'
+    link: https://www.goodreads.com/book/show/581811.Valley_of_the_Dolls
+    num_pages: '448'
+    publication_day: '22'
+    publication_month: '9'
+    publication_year: '1997'
+    ratings_count: '667'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429239923l/581811._SX50_.jpg
+    title: Valley of the Dolls
+    title_without_series: Valley of the Dolls
+    uri: kca://book/amzn1.gr.book.v1.TNjNwHT_XWWS-x-JkwXiJQ
+    work:
+      id: '1203845'
+  - authors:
+      author:
+        id: '180188'
+        link: https://www.goodreads.com/author/show/180188.RuPaul
+        name: RuPaul
+    average_rating: '3.76'
+    id: '181109983'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696430249l/181109983._SX98_.jpg
+    isbn: 0063263904
+    isbn13: '9780063263901'
+    link: https://www.goodreads.com/book/show/181109983-the-house-of-hidden-meanings
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '667'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696430249l/181109983._SY75_.jpg
+    title: The House of Hidden Meanings
+    title_without_series: The House of Hidden Meanings
+    uri: kca://book/amzn1.gr.book.v3.nkop92C1czY4Ds_p
+    work:
+      id: '186043814'
+  - authors:
+      author:
+        id: '23363563'
+        link: https://www.goodreads.com/author/show/23363563.Rowan_Beaird
+        name: Rowan Beaird
+    average_rating: '3.76'
+    id: '127306119'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692046949l/127306119._SX98_.jpg
+    isbn: null
+    isbn13: '9781250896582'
+    link: https://www.goodreads.com/book/show/127306119-the-divorc-es
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '667'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692046949l/127306119._SY75_.jpg
+    title: "The Divorc\xE9es"
+    title_without_series: "The Divorc\xE9es"
+    uri: kca://book/amzn1.gr.book.v3.ZnONDgKcmqXgiNlb
+    work:
+      id: '144451531'
+  - authors:
+      author:
+        id: '2751'
+        link: https://www.goodreads.com/author/show/2751.Bret_Easton_Ellis
+        name: Bret Easton Ellis
+    average_rating: '3.76'
+    id: '60880820'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658241203l/60880820._SX98_.jpg
+    isbn: 059353560X
+    isbn13: '9780593535608'
+    link: https://www.goodreads.com/book/show/60880820-the-shards
+    num_pages: '595'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '667'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658241203l/60880820._SX50_.jpg
+    title: The Shards
+    title_without_series: The Shards
+    uri: kca://book/amzn1.gr.book.v3.Ox7cnrUxpKhW3Epx
+    work:
+      id: '90439420'
+  - authors:
+      author:
+        id: '8726'
+        link: https://www.goodreads.com/author/show/8726.Richard_Matheson
+        name: Richard Matheson
+    average_rating: '3.76'
+    id: '33547'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384259876l/33547._SX98_.jpg
+    isbn: 0727860992
+    isbn13: '9780727860996'
+    link: https://www.goodreads.com/book/show/33547.Hell_House
+    num_pages: '301'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '667'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384259876l/33547._SX50_.jpg
+    title: Hell House
+    title_without_series: Hell House
+    uri: kca://book/amzn1.gr.book.v1.fMuwcOh7Qc3xrhKxf-7FfA
+    work:
+      id: '804298'
+  - authors:
+      author:
+        id: '43819807'
+        link: https://www.goodreads.com/author/show/43819807.Chelsea_Devantez
+        name: Chelsea Devantez
+    average_rating: '3.76'
+    id: '198385436'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696962462l/198385436._SX98_.jpg
+    isbn: '1335455078'
+    isbn13: '9781335455079'
+    link: https://www.goodreads.com/book/show/198385436-i-shouldn-t-be-telling-you-this-but-i-m-going-to-anyway
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '667'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696962462l/198385436._SY75_.jpg
+    title: "I Shouldn\u2019t Be Telling You This [But I'm Going to Anyway]"
+    title_without_series: "I Shouldn\u2019t Be Telling You This [But I'm Going to\
+      \ Anyway]"
+    uri: kca://book/amzn1.gr.book.v3.StQn-Ase6nF-7Y7y
+    work:
+      id: '201284750'
+  - authors:
+      author:
+        id: '4353011'
+        link: https://www.goodreads.com/author/show/4353011.J_W_Ocker
+        name: J.W. Ocker
+    average_rating: '3.76'
+    id: '59978434'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649034922l/59978434._SX98_.jpg
+    isbn: '1683693221'
+    isbn13: '9781683693222'
+    link: https://www.goodreads.com/book/show/59978434-the-united-states-of-cryptids
+    num_pages: '288'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '667'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649034922l/59978434._SX50_.jpg
+    title: 'The United States of Cryptids: A Tour of American Myths and Monsters'
+    title_without_series: 'The United States of Cryptids: A Tour of American Myths
+      and Monsters'
+    uri: kca://book/amzn1.gr.book.v3.732MLolQbjDA53HK
+    work:
+      id: '94520143'
+  - authors:
+      author:
+        id: '23160522'
+        link: https://www.goodreads.com/author/show/23160522.Gary_Gulman
+        name: Gary Gulman
+    average_rating: '3.76'
+    id: '65211790'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684820892l/65211790._SX98_.jpg
+    isbn: '1250777062'
+    isbn13: '9781250777065'
+    link: https://www.goodreads.com/book/show/65211790-misfit
+    num_pages: '289'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '667'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684820892l/65211790._SY75_.jpg
+    title: 'Misfit: Growing Up Awkward in the ''80s'
+    title_without_series: 'Misfit: Growing Up Awkward in the ''80s'
+    uri: kca://book/amzn1.gr.book.v3.3syHWLNGUFZKS7ZW
+    work:
+      id: '100096840'
+  - authors:
+      author:
+        id: '22209703'
+        link: https://www.goodreads.com/author/show/22209703.Deborah_Holt_Larkin
+        name: Deborah Holt Larkin
+    average_rating: '3.76'
+    id: '60320704'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646585955l/60320704._SX98_.jpg
+    isbn: '1639362444'
+    isbn13: '9781639362448'
+    link: https://www.goodreads.com/book/show/60320704-a-lovely-girl
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '667'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646585955l/60320704._SY75_.jpg
+    title: 'A Lovely Girl: The Tragedy of Olga Duncan and the Trial of One of California''s
+      Most Notorious Killers'
+    title_without_series: 'A Lovely Girl: The Tragedy of Olga Duncan and the Trial
+      of One of California''s Most Notorious Killers'
+    uri: kca://book/amzn1.gr.book.v3.CohjyGx-CO6PwbKG
+    work:
+      id: '95096162'
+  - authors:
+      author:
+        id: '150577'
+        link: https://www.goodreads.com/author/show/150577.Cher
+        name: Cher
+    average_rating: '3.76'
+    id: '214363953'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0008355371
+    isbn13: '9780008355371'
+    link: https://www.goodreads.com/book/show/214363953-cher
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '667'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Cher: The Memoir, Part 1'
+    title_without_series: 'Cher: The Memoir, Part 1'
+    uri: kca://book/amzn1.gr.book.v3._kpoJ0I7PwelAro7
+    work:
+      id: '161791226'
+  - authors:
+      author:
+        id: '38341648'
+        link: https://www.goodreads.com/author/show/38341648.Shawn_Cohen
+        name: Shawn Cohen
+    average_rating: '3.76'
+    id: '197036037'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1728272998'
+    isbn13: '9781728272993'
+    link: https://www.goodreads.com/book/show/197036037-college-girl-missing
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '667'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'College Girl, Missing: The True Story of How a Young Woman Disappeared
+      in Plain Sight'
+    title_without_series: 'College Girl, Missing: The True Story of How a Young Woman
+      Disappeared in Plain Sight'
+    uri: kca://book/amzn1.gr.book.v3.ORcAV0kcdvq45i3R
+    work:
+      id: '199473391'
+  - authors:
+      author:
+        id: '45431040'
+        link: https://www.goodreads.com/author/show/45431040.Owen_Elliot_Kugell
+        name: Owen Elliot-Kugell
+    average_rating: '3.76'
+    id: '199844092'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704249131l/199844092._SX98_.jpg
+    isbn: 0306830647
+    isbn13: '9780306830648'
+    link: https://www.goodreads.com/book/show/199844092-my-mama-cass
+    num_pages: '262'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '667'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704249131l/199844092._SY75_.jpg
+    title: 'My Mama, Cass: A Memoir'
+    title_without_series: 'My Mama, Cass: A Memoir'
+    uri: kca://book/amzn1.gr.book.v3.ZKUEa_ychD6XM5tQ
+    work:
+      id: '204440859'
+  - authors:
+      author:
+        id: '80893'
+        link: https://www.goodreads.com/author/show/80893.Brad_Gooch
+        name: Brad Gooch
+    average_rating: '3.76'
+    id: '141222604'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0062698265
+    isbn13: '9780062698261'
+    link: https://www.goodreads.com/book/show/141222604-radiant
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '667'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Radiant: The Life and Line of Keith Haring'
+    title_without_series: 'Radiant: The Life and Line of Keith Haring'
+    uri: kca://book/amzn1.gr.book.v3.f4HOwfdg59duAAti
+    work:
+      id: '157032442'
+  - authors:
+      author:
+        id: '251659'
+        link: https://www.goodreads.com/author/show/251659.Laurence_Leamer
+        name: Laurence Leamer
+    average_rating: '3.76'
+    id: '57005206'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625583375l/57005206._SX98_.jpg
+    isbn: 0593328086
+    isbn13: '9780593328088'
+    link: https://www.goodreads.com/book/show/57005206-capote-s-women
+    num_pages: '356'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '667'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625583375l/57005206._SY75_.jpg
+    title: 'Capote''s Women: A True Story of Love, Betrayal, and a Swan Song for an
+      Era'
+    title_without_series: 'Capote''s Women: A True Story of Love, Betrayal, and a
+      Swan Song for an Era'
+    uri: kca://book/amzn1.gr.book.v3.7WdBNhUQBoDMCX8g
+    work:
+      id: '89192466'
+  - authors:
+      author:
+        id: '5855995'
+        link: https://www.goodreads.com/author/show/5855995.Patti_McCracken
+        name: Patti McCracken
+    average_rating: '3.76'
+    id: '61281783'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675642440l/61281783._SX98_.jpg
+    isbn: '0063275031'
+    isbn13: '9780063275034'
+    link: https://www.goodreads.com/book/show/61281783-the-angel-makers
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '667'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675642440l/61281783._SY75_.jpg
+    title: 'The Angel Makers: Arsenic, a Midwife, and Modern History''s Most Astonishing
+      Murder Ring'
+    title_without_series: 'The Angel Makers: Arsenic, a Midwife, and Modern History''s
+      Most Astonishing Murder Ring'
+    uri: kca://book/amzn1.gr.book.v3.N8wG_-FsXOui1Iio
+    work:
+      id: '96625889'
+  - authors:
+      author:
+        id: '19342767'
+        link: https://www.goodreads.com/author/show/19342767.Peter_Gatien
+        name: Peter Gatien
+    average_rating: '3.76'
+    id: '51060018'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1542041910'
+    isbn13: '9781542041911'
+    link: https://www.goodreads.com/book/show/51060018-the-club-king
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '667'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Club King: My Rise, Reign, and Fall in New York Nightlife'
+    title_without_series: 'The Club King: My Rise, Reign, and Fall in New York Nightlife'
+    uri: kca://book/amzn1.gr.book.v3.UMngLxIUs8jxFaHn
+    work:
+      id: '71874577'
+  - authors:
+      author:
+        id: '197865'
+        link: https://www.goodreads.com/author/show/197865.Richard_Lloyd_Parry
+        name: Richard Lloyd Parry
+    average_rating: '3.76'
+    id: '18877989'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385049880l/18877989._SX98_.jpg
+    isbn: '1466820020'
+    isbn13: '9781466820029'
+    link: https://www.goodreads.com/book/show/18877989-people-who-eat-darkness
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '667'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385049880l/18877989._SX50_.jpg
+    title: "People Who Eat Darkness: The True Story of a Young Woman Who Vanished\
+      \ from the Streets of Tokyo\u2014and the Evil That Swallowed Her Up"
+    title_without_series: "People Who Eat Darkness: The True Story of a Young Woman\
+      \ Who Vanished from the Streets of Tokyo\u2014and the Evil That Swallowed Her\
+      \ Up"
+    uri: kca://book/amzn1.gr.book.v1.kzz6m85MquNXg91qlAX2gw
+    work:
+      id: '13357472'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320397703l/307193._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '31'
+  '@type': integer
+title: 'Clubland: The Fabulous Rise and Murderous Fall of Club Culture'
+title_without_series: 'Clubland: The Fabulous Rise and Murderous Fall of Club Culture'
+uri: kca://book/amzn1.gr.book.v1.NRQ1y_WsoQCAC_n9YYYTNw
+url: https://www.goodreads.com/book/show/307193.Clubland
+work:
+  id: '298164'
+  uri: kca://work/amzn1.gr.work.v1.tbB-8T5WpOhDHztJKnoJ6Q

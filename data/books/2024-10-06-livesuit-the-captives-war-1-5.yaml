@@ -1,0 +1,755 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.30'
+    id: '4192148'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1573162332p5/4192148.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+    name: James S.A. Corey
+    ratings_count: '1341663'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1573162332p2/4192148.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '81355'
+average_rating: '4.35'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2024-10-06T00:00:00-07:00'
+description: Humanity's war is eternal, spread across the galaxy and the ages. Humanity's
+  best hope to end the endless slaughter is the Livesuit forces. Soldiers meld their
+  bodies to the bleeding edge technology, becoming something more than human for the
+  duration of a war that might never end.<br /><br /><i>The first novella set in the
+  universe of James S. A. Corey's epic Captive's War series.</i>
+edition_information: null
+format: Kindle Edition
+id: '215760525'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724079438l/215760525._SX98_.jpg
+is_ebook: 'true'
+isbn: 0316575348
+isbn13: '9780316575348'
+json: '{"id": "215760525", "isbn": "0316575348", "isbn13": "9780316575348", "text_reviews_count":
+  {"@type": "integer", "#text": "376"}, "uri": "kca://book/amzn1.gr.book.v3.Rr7d-BxEjSsqm-t3",
+  "title": "Livesuit (The Captive\u2019s War #1.5)", "title_without_series": "Livesuit",
+  "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724079438l/215760525._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724079438l/215760525._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/215760525-livesuit",
+  "num_pages": "90", "format": "Kindle Edition", "edition_information": null, "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "4.35", "ratings_count": "5817", "description": "Humanity''s war
+  is eternal, spread across the galaxy and the ages. Humanity''s best hope to end
+  the endless slaughter is the Livesuit forces. Soldiers meld their bodies to the
+  bleeding edge technology, becoming something more than human for the duration of
+  a war that might never end.<br /><br /><i>The first novella set in the universe
+  of James S. A. Corey''s epic Captive''s War series.</i>", "authors": {"author":
+  {"id": "4192148", "name": "James S.A. Corey", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1573162332p5/4192148.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1573162332p2/4192148.jpg"},
+  "link": "https://www.goodreads.com/author/show/4192148.James_S_A_Corey", "average_rating":
+  "4.30", "ratings_count": "1341663", "text_reviews_count": "81355"}}, "published":
+  null, "work": {"id": "222176366", "uri": "kca://work/amzn1.gr.work.v3.dSSNRoHi_FmH5coN"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/6900237014",
+  "read_at": "Sun Oct 06 00:00:00 -0700 2024", "started_at": "Thu Oct 03 00:00:00
+  -0700 2024", "date": "Sun Oct 06 00:00:00 -0700 2024"}'
+kindle_asin: B0D8HPDKYB
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/215760525-livesuit
+marketplace_id: ATVPDKIKX0DER
+num_pages: '90'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '3166'
+    '@name': to-read
+  - '@count': '550'
+    '@name': currently-reading
+  - '@count': '177'
+    '@name': science-fiction
+  - '@count': '111'
+    '@name': sci-fi
+  - '@count': '60'
+    '@name': fiction
+  - '@count': '54'
+    '@name': audiobook
+  - '@count': '45'
+    '@name': scifi
+  - '@count': '39'
+    '@name': ebook
+  - '@count': '37'
+    '@name': space-opera
+  - '@count': '36'
+    '@name': sf
+  - '@count': '32'
+    '@name': novella
+  - '@count': '28'
+    '@name': fantasy-sci-fi
+  - '@count': '28'
+    '@name': favorites
+  - '@count': '27'
+    '@name': book-club
+  - '@count': '26'
+    '@name': scifi-fantasy
+  - '@count': '26'
+    '@name': owned
+  - '@count': '26'
+    '@name': ebooks
+  - '@count': '24'
+    '@name': novel
+  - '@count': '24'
+    '@name': speculative-fiction
+  - '@count': '23'
+    '@name': my-library
+  - '@count': '23'
+    '@name': adventure
+  - '@count': '23'
+    '@name': sci-fi-fantasy
+  - '@count': '23'
+    '@name': favorite
+  - '@count': '22'
+    '@name': books-i-own
+  - '@count': '22'
+    '@name': my-favorites
+  - '@count': '22'
+    '@name': novels
+  - '@count': '22'
+    '@name': space
+  - '@count': '20'
+    '@name': owned-books
+  - '@count': '20'
+    '@name': science
+  - '@count': '20'
+    '@name': favourites
+  - '@count': '19'
+    '@name': science-fiction-fantasy
+  - '@count': '19'
+    '@name': reread
+  - '@count': '19'
+    '@name': sf-fantasy
+  - '@count': '19'
+    '@name': ya-fiction
+  - '@count': '19'
+    '@name': 5-stars
+  - '@count': '18'
+    '@name': ya
+  - '@count': '18'
+    '@name': books
+  - '@count': '18'
+    '@name': sci-fi-and-fantasy
+  - '@count': '18'
+    '@name': fantasy-scifi
+  - '@count': '18'
+    '@name': favourite-books
+  - '@count': '18'
+    '@name': teen
+  - '@count': '18'
+    '@name': recommended
+  - '@count': '17'
+    '@name': short-stories
+  - '@count': '17'
+    '@name': young-adult
+  - '@count': '17'
+    '@name': own-it
+  - '@count': '16'
+    '@name': all-time-favorites
+  - '@count': '15'
+    '@name': my-books
+  - '@count': '15'
+    '@name': faves
+  - '@count': '15'
+    '@name': re-read
+  - '@count': '15'
+    '@name': audiobooks
+  - '@count': '15'
+    '@name': audible
+  - '@count': '14'
+    '@name': series
+  - '@count': '12'
+    '@name': aliens
+  - '@count': '11'
+    '@name': i-own
+  - '@count': '10'
+    '@name': read-in-2024
+  - '@count': '10'
+    '@name': audio
+  - '@count': '9'
+    '@name': 32829-journey-to-the-center-of-the
+  - '@count': '7'
+    '@name': kindle
+  - '@count': '7'
+    '@name': 13-the-ultimate-hitchhiker-s-guide
+  - '@count': '7'
+    '@name': 20417-have-space-suit-will-travel
+  - '@count': '7'
+    '@name': 6091075-so-long-and-thanks-for-all
+  - '@count': '7'
+    '@name': war
+  - '@count': '7'
+    '@name': novellas
+  - '@count': '6'
+    '@name': 50209317-the-galaxy-and-the-ground
+  - '@count': '6'
+    '@name': 14185-the-three-stigmata-of-palmer
+  - '@count': '6'
+    '@name': 37534907-the-city-in-the-middle-of
+  - '@count': '6'
+    '@name': military
+  - '@count': '5'
+    '@name': 2025-reads
+  - '@count': '5'
+    '@name': read-2025
+  - '@count': '5'
+    '@name': read-in-2025
+  - '@count': '5'
+    '@name': 22200-count-zero
+  - '@count': '5'
+    '@name': 769658-battlefield-earth-a-saga-of
+  - '@count': '5'
+    '@name': 2024-books
+  - '@count': '5'
+    '@name': military-sci-fi
+  - '@count': '5'
+    '@name': 2024-releases
+  - '@count': '4'
+    '@name': 2024-read
+  - '@count': '4'
+    '@name': 8659601-the-power-of-six
+  - '@count': '4'
+    '@name': 61915-falling-free
+  - '@count': '4'
+    '@name': 18619684-the-time-traveler-s-wife
+  - '@count': '4'
+    '@name': 13414446-prodigy
+  - '@count': '4'
+    '@name': 13125947-reached
+  - '@count': '4'
+    '@name': 4703581-the-city-the-city
+  - '@count': '4'
+    '@name': 7669-timeline
+  - '@count': '4'
+    '@name': 581125-the-minority-report
+  - '@count': '4'
+    '@name': 43615-the-gunslinger
+  - '@count': '4'
+    '@name': 337116-the-difference-engine
+  - '@count': '4'
+    '@name': 2024-reads
+  - '@count': '4'
+    '@name': short-story
+  - '@count': '4'
+    '@name': laser
+  - '@count': '4'
+    '@name': audio-books
+  - '@count': '4'
+    '@name': read-2024
+  - '@count': '4'
+    '@name': wish-list
+  - '@count': '3'
+    '@name': listened
+  - '@count': '3'
+    '@name': adult
+  - '@count': '3'
+    '@name': 92610-rocannon-s-world
+  - '@count': '3'
+    '@name': 4808763-the-last-question
+  - '@count': '3'
+    '@name': 24765-specials
+  - '@count': '3'
+    '@name': 43190272-to-be-taught-if-fortunate
+  - '@count': '3'
+    '@name': 331256-roadside-picnic
+  - '@count': '3'
+    '@name': 17262203-maddaddam
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '5817'
+read_at: '2024-10-06T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/6900237014
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/215760525-livesuit\"\
+  >Livesuit Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0316575348&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/215760525-livesuit?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '2318120'
+    series:
+      description: A planned trilogy by James S.A. Corey that follows a group of researchers
+        from the planet Anjiin after their encounter with a powerful alien race calling
+        itself the Carryx
+      id: '337839'
+      note: null
+      numbered: 'true'
+      primary_work_count: '1'
+      series_works_count: '2'
+      title: "The Captive\u2019s War"
+    user_position: '1.5'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '3428941'
+        link: https://www.goodreads.com/author/show/3428941.Karen_Osborne
+        name: Karen Osborne
+    average_rating: '4.35'
+    id: '53205988'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598529532l/53205988._SX98_.jpg
+    isbn: '1250215498'
+    isbn13: '9781250215499'
+    link: https://www.goodreads.com/book/show/53205988-engines-of-oblivion
+    num_pages: '408'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5817'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598529532l/53205988._SY75_.jpg
+    title: 'Engines of Oblivion (The Memory War, #2)'
+    title_without_series: Engines of Oblivion
+    uri: kca://book/amzn1.gr.book.v3.9JPOcMLiENUk4IYx
+    work:
+      id: '80438580'
+  - authors:
+      author:
+        id: '7190350'
+        link: https://www.goodreads.com/author/show/7190350.Aileen_Erin
+        name: Aileen Erin
+    average_rating: '4.35'
+    id: '58355261'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629311978l/58355261._SX98_.jpg
+    isbn: '1943858578'
+    isbn13: '9781943858576'
+    link: https://www.goodreads.com/book/show/58355261-on-destiny
+    num_pages: '432'
+    publication_day: '19'
+    publication_month: '7'
+    publication_year: '2022'
+    ratings_count: '5817'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629311978l/58355261._SY75_.jpg
+    title: On Destiny
+    title_without_series: On Destiny
+    uri: kca://book/amzn1.gr.book.v3.iBXONyS8wS4fKoZo
+    work:
+      id: '91509116'
+  - authors:
+      author:
+        id: '12130438'
+        link: https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor
+        name: Dennis E. Taylor
+    average_rating: '4.35'
+    id: '159116833'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712930306l/159116833._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/159116833-not-till-we-are-lost
+    num_pages: '413'
+    publication_day: '5'
+    publication_month: '9'
+    publication_year: '2024'
+    ratings_count: '5817'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712930306l/159116833._SX50_.jpg
+    title: 'Not Till We Are Lost (Bobiverse #5)'
+    title_without_series: Not Till We Are Lost
+    uri: kca://book/amzn1.gr.book.v3.AzkbsrEAp5F3hB8P
+    work:
+      id: '171689305'
+  - authors:
+      author:
+        id: '6442084'
+        link: https://www.goodreads.com/author/show/6442084.Scott_Moon
+        name: Scott Moon
+    average_rating: '4.35'
+    id: '218224452'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/218224452-salvager
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5817'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Salvager: A Military Science Fiction Adventure (Tall Boys)'
+    title_without_series: 'Salvager: A Military Science Fiction Adventure'
+    uri: kca://book/amzn1.gr.book.v3.MDCpCxKxZCMkOCPI
+    work:
+      id: '224779502'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.35'
+    id: '195790861'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698554344l/195790861._SX98_.jpg
+    isbn: '1250290287'
+    isbn13: '9781250290281'
+    link: https://www.goodreads.com/book/show/195790861-service-model
+    num_pages: '376'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5817'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698554344l/195790861._SY75_.jpg
+    title: Service Model
+    title_without_series: Service Model
+    uri: kca://book/amzn1.gr.book.v3.BUtNnpSh6EMDHugG
+    work:
+      id: '197724648'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '4.35'
+    id: '205670068'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729967825l/205670068._SX98_.jpg
+    isbn: 0593357663
+    isbn13: '9780593357668'
+    link: https://www.goodreads.com/book/show/205670068-exodus
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5817'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729967825l/205670068._SY75_.jpg
+    title: 'Exodus: The Archimedes Engine (Archimedes Engine, #1)'
+    title_without_series: 'Exodus: The Archimedes Engine'
+    uri: kca://book/amzn1.gr.book.v3.oKI1MhJVI6jcpH-k
+    work:
+      id: '211692605'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.35'
+    id: '195443798'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SX98_.jpg
+    isbn: '1035013770'
+    isbn13: '9781035013777'
+    link: https://www.goodreads.com/book/show/195443798-alien-clay
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5817'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SY75_.jpg
+    title: Alien Clay
+    title_without_series: Alien Clay
+    uri: kca://book/amzn1.gr.book.v3.U07jHOWpgU_-RRTg
+    work:
+      id: '197089092'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.35'
+    id: '199798188'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704681929l/199798188._SX98_.jpg
+    isbn: '1837861749'
+    isbn13: '9781837861743'
+    link: https://www.goodreads.com/book/show/199798188-saturation-point
+    num_pages: '165'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5817'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704681929l/199798188._SY75_.jpg
+    title: Saturation Point
+    title_without_series: Saturation Point
+    uri: kca://book/amzn1.gr.book.v3.iJQejMRi5apPwOKj
+    work:
+      id: '204370575'
+  - authors:
+      author:
+        id: '167605'
+        link: https://www.goodreads.com/author/show/167605.Guillermo_del_Toro
+        name: Guillermo del Toro
+    average_rating: '4.35'
+    id: '212509663'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 154202370X
+    isbn13: '9781542023702'
+    link: https://www.goodreads.com/book/show/212509663-risen
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5817'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Risen (The Boy in the Iron Box, #4)'
+    title_without_series: Risen
+    uri: kca://book/amzn1.gr.book.v3.WXA7qS9gPQ1-uQ4O
+    work:
+      id: '218738745'
+  - authors:
+      author:
+        id: '545'
+        link: https://www.goodreads.com/author/show/545.Neal_Stephenson
+        name: Neal Stephenson
+    average_rating: '4.35'
+    id: '199793426'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714031079l/199793426._SX98_.jpg
+    isbn: 0062334492
+    isbn13: '9780062334497'
+    link: https://www.goodreads.com/book/show/199793426-polostan
+    num_pages: '303'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5817'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714031079l/199793426._SY75_.jpg
+    title: 'Polostan (Bomb Light, #1)'
+    title_without_series: Polostan
+    uri: kca://book/amzn1.gr.book.v3.8CLQbGH4z-T5lvaG
+    work:
+      id: '73605495'
+  - authors:
+      author:
+        id: '20220570'
+        link: https://www.goodreads.com/author/show/20220570.J_S_Dewes
+        name: J.S. Dewes
+    average_rating: '4.35'
+    id: '203579245'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719338993l/203579245._SX98_.jpg
+    isbn: '1250851254'
+    isbn13: '9781250851253'
+    link: https://www.goodreads.com/book/show/203579245-the-relentless-legion
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5817'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719338993l/203579245._SY75_.jpg
+    title: 'The Relentless Legion (The Divide #3)'
+    title_without_series: The Relentless Legion
+    uri: kca://book/amzn1.gr.book.v3.L13P0BSN8pQuj6dL
+    work:
+      id: '206487324'
+  - authors:
+      author:
+        id: '17022421'
+        link: https://www.goodreads.com/author/show/17022421.Michael_Mammay
+        name: Michael Mammay
+    average_rating: '4.35'
+    id: '199793689'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712005539l/199793689._SX98_.jpg
+    isbn: '0063320134'
+    isbn13: '9780063320130'
+    link: https://www.goodreads.com/book/show/199793689-darkside
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5817'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712005539l/199793689._SY75_.jpg
+    title: 'Darkside (Planetside, #4)'
+    title_without_series: Darkside
+    uri: kca://book/amzn1.gr.book.v3.mF1_5eq2IDZGC2HB
+    work:
+      id: '204365378'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.35'
+    id: '210384894'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711449617l/210384894._SX98_.jpg
+    isbn: '1035901528'
+    isbn13: '9781035901524'
+    link: https://www.goodreads.com/book/show/210384894-days-of-shattered-faith
+    num_pages: '512'
+    publication_day: '5'
+    publication_month: '12'
+    publication_year: '2024'
+    ratings_count: '5817'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711449617l/210384894._SY75_.jpg
+    title: 'Days of Shattered Faith (The Tyrant Philosophers, #3)'
+    title_without_series: Days of Shattered Faith
+    uri: kca://book/amzn1.gr.book.v3.NsxlUQ-dBw9Vq_Ea
+    work:
+      id: '216604339'
+  - authors:
+      author:
+        id: '14887946'
+        link: https://www.goodreads.com/author/show/14887946.Max_Nowaz
+        name: Max Nowaz
+    average_rating: '4.35'
+    id: '101265124'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SX98_.jpg
+    isbn: '1803133961'
+    isbn13: '9781803133966'
+    link: https://www.goodreads.com/book/show/101265124-the-polymorph
+    num_pages: '0'
+    publication_day: '4'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '5817'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SY75_.jpg
+    title: The Polymorph
+    title_without_series: The Polymorph
+    uri: kca://book/amzn1.gr.book.v3.2WI1HTFNfz3UC2Zb
+    work:
+      id: '124767981'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.35'
+    id: '195264190'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1690602081l/195264190._SX98_.jpg
+    isbn: '1645241726'
+    isbn13: '9781645241720'
+    link: https://www.goodreads.com/book/show/195264190-compulsory
+    num_pages: null
+    publication_day: '20'
+    publication_month: '7'
+    publication_year: '2023'
+    ratings_count: '5817'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1690602081l/195264190._SY75_.jpg
+    title: 'Compulsory (The Murderbot Diaries, #0.5)'
+    title_without_series: Compulsory
+    uri: kca://book/amzn1.gr.book.v3.499rZtdz9VjWh3S_
+    work:
+      id: '196838465'
+  - authors:
+      author:
+        id: '348878'
+        link: https://www.goodreads.com/author/show/348878.James_Dashner
+        name: James Dashner
+    average_rating: '4.35'
+    id: '53381768'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597701243l/53381768._SX98_.jpg
+    isbn: '1705238785'
+    isbn13: '9781705238783'
+    link: https://www.goodreads.com/book/show/53381768-crank-palace
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5817'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597701243l/53381768._SX50_.jpg
+    title: 'Crank Palace (The Maze Runner, #3.5)'
+    title_without_series: Crank Palace
+    uri: kca://book/amzn1.gr.book.v3.WvdTBlnOzdYf-Ibx
+    work:
+      id: '82466513'
+  - authors:
+      author:
+        id: '11631604'
+        link: https://www.goodreads.com/author/show/11631604.Dan_Moren
+        name: Dan Moren
+    average_rating: '4.35'
+    id: '196834215'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715867260l/196834215._SX98_.jpg
+    isbn: '1915998018'
+    isbn13: '9781915998019'
+    link: https://www.goodreads.com/book/show/196834215-the-armageddon-protocol
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5817'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715867260l/196834215._SY75_.jpg
+    title: 'The Armageddon Protocol (The Galactic Cold War, #4)'
+    title_without_series: The Armageddon Protocol
+    uri: kca://book/amzn1.gr.book.v3.h_oHN3xEAsT89mAE
+    work:
+      id: '199164364'
+  - authors:
+      author:
+        id: '14851776'
+        link: https://www.goodreads.com/author/show/14851776.Craig_Alanson
+        name: Craig Alanson
+    average_rating: '4.35'
+    id: '36449535'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1520126247'
+    isbn13: '9781520126241'
+    link: https://www.goodreads.com/book/show/36449535-columbus-day
+    num_pages: '299'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '5817'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Columbus Day (Expeditionary Force, #1)'
+    title_without_series: Columbus Day
+    uri: kca://book/amzn1.gr.book.v1.kMxXTpJI0u_SQD2UF1z4vw
+    work:
+      id: '48683561'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724079438l/215760525._SY75_.jpg
+started_at: '2024-10-03T00:00:00-07:00'
+text_reviews_count:
+  '#text': '376'
+  '@type': integer
+title: "Livesuit (The Captive\u2019s War #1.5)"
+title_without_series: Livesuit
+uri: kca://book/amzn1.gr.book.v3.Rr7d-BxEjSsqm-t3
+url: https://www.goodreads.com/book/show/215760525-livesuit
+work:
+  id: '222176366'
+  uri: kca://work/amzn1.gr.work.v3.dSSNRoHi_FmH5coN

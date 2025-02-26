@@ -1,0 +1,750 @@
+asin: B004BDOJA4
+authors:
+  author:
+    average_rating: '4.08'
+    id: '10518'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1199059504p5/10518.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/10518.Elizabeth_Moon
+    name: Elizabeth Moon
+    ratings_count: '208228'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1199059504p2/10518.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '10919'
+average_rating: '4.11'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: null
+edition_information: null
+format: Kindle Edition
+id: '13378984'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn:
+  '@nil': 'true'
+isbn13:
+  '@nil': 'true'
+json: '{"id": "13378984", "isbn": {"@nil": "true"}, "isbn13": {"@nil": "true"}, "text_reviews_count":
+  {"@type": "integer", "#text": "1"}, "uri": "kca://book/amzn1.gr.book.v1.mI4tRGVRI3VogX0cghHoCg",
+  "title": "Command Desicion", "title_without_series": "Command Desicion", "image_url":
+  "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/13378984-command-desicion",
+  "num_pages": null, "format": "Kindle Edition", "edition_information": null, "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "4.11", "ratings_count": "10243", "description": null, "authors":
+  {"author": {"id": "10518", "name": "Elizabeth Moon", "role": null, "image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1199059504p5/10518.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1199059504p2/10518.jpg"},
+  "link": "https://www.goodreads.com/author/show/10518.Elizabeth_Moon", "average_rating":
+  "4.08", "ratings_count": "208228", "text_reviews_count": "10919"}}, "published":
+  null, "work": {"id": "230213", "uri": "kca://work/amzn1.gr.work.v1.PZaNVxGCvJzbhJSEDDd7NA"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/42404738",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B000OI0G2U
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/13378984-command-desicion
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '1340'
+    '@name': to-read
+  - '@count': '448'
+    '@name': science-fiction
+  - '@count': '308'
+    '@name': sci-fi
+  - '@count': '178'
+    '@name': currently-reading
+  - '@count': '135'
+    '@name': space-opera
+  - '@count': '107'
+    '@name': scifi
+  - '@count': '78'
+    '@name': fiction
+  - '@count': '54'
+    '@name': military
+  - '@count': '39'
+    '@name': owned
+  - '@count': '37'
+    '@name': default
+  - '@count': '37'
+    '@name': sf
+  - '@count': '36'
+    '@name': favorites
+  - '@count': '34'
+    '@name': space
+  - '@count': '31'
+    '@name': military-science-fiction
+  - '@count': '29'
+    '@name': audiobook
+  - '@count': '27'
+    '@name': series
+  - '@count': '25'
+    '@name': military-sci-fi
+  - '@count': '24'
+    '@name': sci-fi-fantasy
+  - '@count': '22'
+    '@name': military-sf
+  - '@count': '20'
+    '@name': library
+  - '@count': '19'
+    '@name': fantasy
+  - '@count': '18'
+    '@name': elizabeth-moon
+  - '@count': '17'
+    '@name': ebook
+  - '@count': '17'
+    '@name': kindle
+  - '@count': '16'
+    '@name': audio
+  - '@count': '15'
+    '@name': military-scifi
+  - '@count': '13'
+    '@name': war
+  - '@count': '13'
+    '@name': audiobooks
+  - '@count': '13'
+    '@name': adventure
+  - '@count': '11'
+    '@name': vatta-s-war
+  - '@count': '11'
+    '@name': military-fiction
+  - '@count': '10'
+    '@name': books-i-own
+  - '@count': '9'
+    '@name': speculative-fiction
+  - '@count': '9'
+    '@name': audible
+  - '@count': '9'
+    '@name': scifi-fantasy
+  - '@count': '9'
+    '@name': sf-fantasy
+  - '@count': '8'
+    '@name': sci-fi-military
+  - '@count': '8'
+    '@name': ebooks
+  - '@count': '8'
+    '@name': sff
+  - '@count': '8'
+    '@name': action
+  - '@count': '7'
+    '@name': science-fiction-fantasy
+  - '@count': '7'
+    '@name': novels
+  - '@count': '7'
+    '@name': audio-books
+  - '@count': '7'
+    '@name': science
+  - '@count': '7'
+    '@name': moon-elizabeth
+  - '@count': '6'
+    '@name': read-2018
+  - '@count': '6'
+    '@name': audio-book
+  - '@count': '6'
+    '@name': action-adventure
+  - '@count': '6'
+    '@name': vattas-war
+  - '@count': '5'
+    '@name': read-in-2018
+  - '@count': '5'
+    '@name': adult
+  - '@count': '5'
+    '@name': paperback
+  - '@count': '5'
+    '@name': have
+  - '@count': '5'
+    '@name': re-read
+  - '@count': '5'
+    '@name': tbr
+  - '@count': '5'
+    '@name': female-protagonist
+  - '@count': '5'
+    '@name': strong-women
+  - '@count': '5'
+    '@name': own-it
+  - '@count': '5'
+    '@name': calibre
+  - '@count': '5'
+    '@name': female-author
+  - '@count': '5'
+    '@name': science-fiction-and-fantasy
+  - '@count': '4'
+    '@name': author-female
+  - '@count': '4'
+    '@name': from-library
+  - '@count': '4'
+    '@name': owned-books
+  - '@count': '4'
+    '@name': science-fiction-military
+  - '@count': '4'
+    '@name': fantasy-sf
+  - '@count': '4'
+    '@name': futuristic
+  - '@count': '4'
+    '@name': romance
+  - '@count': '4'
+    '@name': my-library
+  - '@count': '4'
+    '@name': sf-f
+  - '@count': '4'
+    '@name': unread
+  - '@count': '4'
+    '@name': future
+  - '@count': '4'
+    '@name': e-books
+  - '@count': '4'
+    '@name': e-book
+  - '@count': '4'
+    '@name': sci-fi-and-fantasy
+  - '@count': '4'
+    '@name': vatta
+  - '@count': '4'
+    '@name': sciencefiction
+  - '@count': '4'
+    '@name': moon
+  - '@count': '3'
+    '@name': thriller
+  - '@count': '3'
+    '@name': my-books
+  - '@count': '3'
+    '@name': owned-unread
+  - '@count': '3'
+    '@name': hoopla
+  - '@count': '3'
+    '@name': read-in-2017
+  - '@count': '3'
+    '@name': good
+  - '@count': '3'
+    '@name': space-sci-fi
+  - '@count': '3'
+    '@name': re-reads
+  - '@count': '3'
+    '@name': read-2014
+  - '@count': '3'
+    '@name': reread
+  - '@count': '3'
+    '@name': spaceopera
+  - '@count': '3'
+    '@name': read-2013
+  - '@count': '3'
+    '@name': all-time-faves
+  - '@count': '3'
+    '@name': english
+  - '@count': '3'
+    '@name': fantasy-scifi
+  - '@count': '3'
+    '@name': mil-sf
+  - '@count': '3'
+    '@name': space-ships
+  - '@count': '3'
+    '@name': hardcover
+  - '@count': '3'
+    '@name': physical
+  - '@count': '3'
+    '@name': fantasy-sci-fi
+  - '@count': '2'
+    '@name': read2024
+  - '@count': '2'
+    '@name': read_2024
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '10243'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/42404738
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/13378984-command-desicion\"\
+  >Command Desicion Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B004BDOJA4&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/13378984-command-desicion?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '183305'
+    series:
+      description: "This series should definitely be read in order from the beginning.\
+        \  Necessary information from previous books is recapped as a refresher in\
+        \ each, but is insufficient for full appreciation.\n    \n    The sequel series\
+        \ is <a href=\"https://www.goodreads.com/series/193220-vatta-s-peace\">Vatta's\
+        \ Peace. </a>"
+      id: '41099'
+      note: null
+      numbered: 'true'
+      primary_work_count: '5'
+      series_works_count: '16'
+      title: Vatta's War
+    user_position: '4'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '14407836'
+        link: https://www.goodreads.com/author/show/14407836.A_R_Merrydew
+        name: A.R. Merrydew
+    average_rating: '4.11'
+    id: '215186841'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/215186841-inara
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10243'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Inara (Godfrey Davis, #3)'
+    title_without_series: Inara
+    uri: kca://book/amzn1.gr.book.v3.wCOHuKhf0nZUkB2e
+    work:
+      id: '221595685'
+  - authors:
+      author:
+        id: '10517'
+        link: https://www.goodreads.com/author/show/10517.David_Weber
+        name: David Weber
+    average_rating: '4.11'
+    id: '77735'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304286399l/77735._SX98_.jpg
+    isbn: '0671721720'
+    isbn13: '9780671721725'
+    link: https://www.goodreads.com/book/show/77735.The_Honor_of_the_Queen
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10243'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304286399l/77735._SY75_.jpg
+    title: 'The Honor of the Queen (Honor Harrington, #2)'
+    title_without_series: The Honor of the Queen
+    uri: kca://book/amzn1.gr.book.v1.jT-wCcamT7Fr7b57ZD2sBQ
+    work:
+      id: '1755248'
+  - authors:
+      author:
+        id: '10517'
+        link: https://www.goodreads.com/author/show/10517.David_Weber
+        name: David Weber
+    average_rating: '4.11'
+    id: '77739'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0671877836
+    isbn13: '9780671877835'
+    link: https://www.goodreads.com/book/show/77739.Honor_Among_Enemies
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10243'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Honor Among Enemies (Honor Harrington, #6)'
+    title_without_series: Honor Among Enemies
+    uri: kca://book/amzn1.gr.book.v1.MxaxLdbH3_FgY9g9mIa9bw
+    work:
+      id: '4363'
+  - authors:
+      author:
+        id: '1967'
+        link: https://www.goodreads.com/author/show/1967.Tanya_Huff
+        name: Tanya Huff
+    average_rating: '4.11'
+    id: '772606'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0886778964
+    isbn13: '9780886778965'
+    link: https://www.goodreads.com/book/show/772606.Valor_s_Choice
+    num_pages: '409'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10243'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Valor''s Choice (Confederation, #1)'
+    title_without_series: Valor's Choice
+    uri: kca://book/amzn1.gr.book.v1.MV9l8iX7PHX6vpzQg-Saxw
+    work:
+      id: '328540'
+  - authors:
+      author:
+        id: '10517'
+        link: https://www.goodreads.com/author/show/10517.David_Weber
+        name: David Weber
+    average_rating: '4.11'
+    id: '77736'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321561719l/77736._SY160_.jpg
+    isbn: 0671875965
+    isbn13: '9780671875961'
+    link: https://www.goodreads.com/book/show/77736.The_Short_Victorious_War
+    num_pages: null
+    publication_day: '1'
+    publication_month: '4'
+    publication_year: '1994'
+    ratings_count: '10243'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321561719l/77736._SY75_.jpg
+    title: 'The Short Victorious War (Honor Harrington, #3)'
+    title_without_series: The Short Victorious War
+    uri: kca://book/amzn1.gr.book.v1.W4qt_GYfrgjh8yZXDtxJeA
+    work:
+      id: '1913024'
+  - authors:
+      author:
+        id: '48960'
+        link: https://www.goodreads.com/author/show/48960.Walter_Jon_Williams
+        name: Walter Jon Williams
+    average_rating: '4.11'
+    id: '36977919'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536719104l/36977919._SX98_.jpg
+    isbn: '0062467034'
+    isbn13: '9780062467034'
+    link: https://www.goodreads.com/book/show/36977919-the-accidental-war
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10243'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536719104l/36977919._SY75_.jpg
+    title: 'The Accidental War (Dread Empire''s Fall #4)'
+    title_without_series: The Accidental War
+    uri: kca://book/amzn1.gr.book.v1.fp-qRseta7Uy679v3IW46Q
+    work:
+      id: '56993451'
+  - authors:
+      author:
+        id: '10517'
+        link: https://www.goodreads.com/author/show/10517.David_Weber
+        name: David Weber
+    average_rating: '4.11'
+    id: '35921'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1416509372'
+    isbn13: '9781416509370'
+    link: https://www.goodreads.com/book/show/35921.On_Basilisk_Station
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10243'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'On Basilisk Station (Honor Harrington, #1)'
+    title_without_series: On Basilisk Station
+    uri: kca://book/amzn1.gr.book.v1.C-cQo-A36xqbjRbqYSENEA
+    work:
+      id: '965345'
+  - authors:
+      author:
+        id: '26'
+        link: https://www.goodreads.com/author/show/26.Anne_McCaffrey
+        name: Anne McCaffrey
+    average_rating: '4.11'
+    id: '574676'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528916184l/574676._SX98_.jpg
+    isbn: 067169863X
+    isbn13: '9780671698638'
+    link: https://www.goodreads.com/book/show/574676.Sassinak
+    num_pages: '346'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10243'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528916184l/574676._SY75_.jpg
+    title: 'Sassinak (Planet Pirates, #1)'
+    title_without_series: Sassinak
+    uri: kca://book/amzn1.gr.book.v1.1xDmM7eEwh1DQu6SGrKxig
+    work:
+      id: '633221'
+  - authors:
+      author:
+        id: '6572837'
+        link: https://www.goodreads.com/author/show/6572837.Rachel_Bach
+        name: Rachel Bach
+    average_rating: '4.11'
+    id: '18295835'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399076617l/18295835._SX98_.jpg
+    isbn: '0316221120'
+    isbn13: '9780316221122'
+    link: https://www.goodreads.com/book/show/18295835-heaven-s-queen
+    num_pages: '373'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10243'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399076617l/18295835._SY75_.jpg
+    title: 'Heaven''s Queen  (Paradox, #3)'
+    title_without_series: Heaven's Queen
+    uri: kca://book/amzn1.gr.book.v1._GMRsLQIwAv0C8ZSdPhi8Q
+    work:
+      id: '25778609'
+  - authors:
+      author:
+        id: '6572837'
+        link: https://www.goodreads.com/author/show/6572837.Rachel_Bach
+        name: Rachel Bach
+    average_rating: '4.11'
+    id: '16131473'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378928941l/16131473._SX98_.jpg
+    isbn: null
+    isbn13: '9780316221078'
+    link: https://www.goodreads.com/book/show/16131473-honor-s-knight
+    num_pages: '294'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10243'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378928941l/16131473._SX50_.jpg
+    title: 'Honor''s Knight (Paradox, #2)'
+    title_without_series: Honor's Knight
+    uri: kca://book/amzn1.gr.book.v1.-qkeJ0b3gYYMPputr9FOUw
+    work:
+      id: '21957043'
+  - authors:
+      author:
+        id: '26'
+        link: https://www.goodreads.com/author/show/26.Anne_McCaffrey
+        name: Anne McCaffrey
+    average_rating: '4.11'
+    id: '61928'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0441003389
+    isbn13: '9780441003389'
+    link: https://www.goodreads.com/book/show/61928.Freedom_s_Landing
+    num_pages: '324'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10243'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Freedom''s Landing (Catteni, #1)'
+    title_without_series: Freedom's Landing
+    uri: kca://book/amzn1.gr.book.v1.DuMCLvykC2UEFw4ZyPJnGQ
+    work:
+      id: '678069'
+  - authors:
+      author:
+        id: '6572837'
+        link: https://www.goodreads.com/author/show/6572837.Rachel_Bach
+        name: Rachel Bach
+    average_rating: '4.11'
+    id: '15790894'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375610325l/15790894._SX98_.jpg
+    isbn: '0316221112'
+    isbn13: '9780316221115'
+    link: https://www.goodreads.com/book/show/15790894-fortune-s-pawn
+    num_pages: '320'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10243'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375610325l/15790894._SX50_.jpg
+    title: 'Fortune''s Pawn (Paradox, #1)'
+    title_without_series: Fortune's Pawn
+    uri: kca://book/amzn1.gr.book.v1.PGaLp_APjdVbW0MYaIHVkg
+    work:
+      id: '21512449'
+  - authors:
+      author:
+        id: '205'
+        link: https://www.goodreads.com/author/show/205.Robert_A_Heinlein
+        name: Robert A. Heinlein
+    average_rating: '4.11'
+    id: '16688'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406525754l/16688._SX98_.jpg
+    isbn: 0671578634
+    isbn13: '9780671578633'
+    link: https://www.goodreads.com/book/show/16688.The_Man_Who_Sold_the_Moon
+    num_pages: '295'
+    publication_day: null
+    publication_month: '2'
+    publication_year: '2007'
+    ratings_count: '10243'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406525754l/16688._SY75_.jpg
+    title: The Man Who Sold the Moon
+    title_without_series: The Man Who Sold the Moon
+    uri: kca://book/amzn1.gr.book.v1.j0HoDVO9dlqY_NfYqPNkDg
+    work:
+      id: '527886'
+  - authors:
+      author:
+        id: '1967'
+        link: https://www.goodreads.com/author/show/1967.Tanya_Huff
+        name: Tanya Huff
+    average_rating: '4.11'
+    id: '338128'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0756400627'
+    isbn13: '9780756400620'
+    link: https://www.goodreads.com/book/show/338128.The_Better_Part_of_Valor
+    num_pages: '413'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10243'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Better Part of Valor (Confederation, #2)'
+    title_without_series: The Better Part of Valor
+    uri: kca://book/amzn1.gr.book.v1.-HkqXk45q_GduZEmIRjvGQ
+    work:
+      id: '328535'
+  - authors:
+      author:
+        id: '7448339'
+        link: https://www.goodreads.com/author/show/7448339.Steven_Decker
+        name: Steven Decker
+    average_rating: '4.11'
+    id: '200923963'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698512599l/200923963._SX98_.jpg
+    isbn: null
+    isbn13: '9798987394014'
+    link: https://www.goodreads.com/book/show/200923963-child-of-another-kind
+    num_pages: '392'
+    publication_day: '18'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '10243'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698512599l/200923963._SY75_.jpg
+    title: 'Child of Another Kind (Another Kind #1)'
+    title_without_series: Child of Another Kind
+    uri: kca://book/amzn1.gr.book.v3.cpxUKP4J15at4iaw
+    work:
+      id: '144050375'
+  - authors:
+      author:
+        id: '73812'
+        link: https://www.goodreads.com/author/show/73812.Jack_McDevitt
+        name: Jack McDevitt
+    average_rating: '4.11'
+    id: '352774'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0441012175'
+    isbn13: '9780441012176'
+    link: https://www.goodreads.com/book/show/352774.A_Talent_for_War
+    num_pages: '310'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10243'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'A Talent for War (Alex Benedict, #1)'
+    title_without_series: A Talent for War
+    uri: kca://book/amzn1.gr.book.v1.tJ4gTeTJHnZgESptQ_NPdQ
+    work:
+      id: '2944265'
+  - authors:
+      author:
+        id: '5105382'
+        link: https://www.goodreads.com/author/show/5105382.Suzanne_Palmer
+        name: Suzanne Palmer
+    average_rating: '4.11'
+    id: '198136840'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1705446432l/198136840._SX98_.jpg
+    isbn: 0756418887
+    isbn13: '9780756418885'
+    link: https://www.goodreads.com/book/show/198136840-ghostdrift
+    num_pages: '384'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10243'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1705446432l/198136840._SY75_.jpg
+    title: 'Ghostdrift (Finder Chronicles, #4)'
+    title_without_series: Ghostdrift
+    uri: kca://book/amzn1.gr.book.v3.oPFLapNlqwP2q2Jb
+    work:
+      id: '200934092'
+  - authors:
+      author:
+        id: '10517'
+        link: https://www.goodreads.com/author/show/10517.David_Weber
+        name: David Weber
+    average_rating: '4.11'
+    id: '77741'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0671578332
+    isbn13: '9780671578336'
+    link: https://www.goodreads.com/book/show/77741.Echoes_of_Honor
+    num_pages: '718'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10243'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Echoes of Honor (Honor Harrington, #8)'
+    title_without_series: Echoes of Honor
+    uri: kca://book/amzn1.gr.book.v1.zwqjDr22lHU-cNvfn_WR0Q
+    work:
+      id: '75079'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '1'
+  '@type': integer
+title: Command Desicion
+title_without_series: Command Desicion
+uri: kca://book/amzn1.gr.book.v1.mI4tRGVRI3VogX0cghHoCg
+url: https://www.goodreads.com/book/show/13378984-command-desicion
+work:
+  id: '230213'
+  uri: kca://work/amzn1.gr.work.v1.PZaNVxGCvJzbhJSEDDd7NA

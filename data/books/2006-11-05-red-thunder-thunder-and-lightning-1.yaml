@@ -1,0 +1,745 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.90'
+    id: '27341'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1346593830p5/27341.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/27341.John_Varley
+    name: John Varley
+    ratings_count: '56853'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1346593830p2/27341.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '4314'
+average_rating: '3.86'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: null
+edition_information: null
+format: null
+id: '48682'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: '0441011624'
+isbn13: '9780441011629'
+json: '{"id": "48682", "isbn": "0441011624", "isbn13": "9780441011629", "text_reviews_count":
+  {"@type": "integer", "#text": "194"}, "uri": "kca://book/amzn1.gr.book.v1.fPGQ6rFVjMI7rQUTr8H4MQ",
+  "title": "Red Thunder (Thunder and Lightning, #1)", "title_without_series": "Red
+  Thunder", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/48682.Red_Thunder",
+  "num_pages": "411", "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.86", "ratings_count": "2426", "description": null, "authors": {"author": {"id":
+  "27341", "name": "John Varley", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1346593830p5/27341.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1346593830p2/27341.jpg"},
+  "link": "https://www.goodreads.com/author/show/27341.John_Varley", "average_rating":
+  "3.90", "ratings_count": "56853", "text_reviews_count": "4314"}}, "published": null,
+  "work": {"id": "47625", "uri": "kca://work/amzn1.gr.work.v1.ilzti1MDzjeKFapyUgvmsw"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417579",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B08CZJFQ81
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/48682.Red_Thunder
+marketplace_id: ATVPDKIKX0DER
+num_pages: '411'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '1205'
+    '@name': to-read
+  - '@count': '258'
+    '@name': currently-reading
+  - '@count': '143'
+    '@name': science-fiction
+  - '@count': '66'
+    '@name': sci-fi
+  - '@count': '39'
+    '@name': fiction
+  - '@count': '27'
+    '@name': owned
+  - '@count': '26'
+    '@name': scifi
+  - '@count': '23'
+    '@name': sf
+  - '@count': '19'
+    '@name': default
+  - '@count': '11'
+    '@name': ebook
+  - '@count': '9'
+    '@name': kindle
+  - '@count': '9'
+    '@name': favorites
+  - '@count': '9'
+    '@name': library
+  - '@count': '8'
+    '@name': space-opera
+  - '@count': '8'
+    '@name': series
+  - '@count': '7'
+    '@name': fantasy
+  - '@count': '7'
+    '@name': speculative-fiction
+  - '@count': '6'
+    '@name': john-varley
+  - '@count': '6'
+    '@name': mars
+  - '@count': '6'
+    '@name': scifi-fantasy
+  - '@count': '6'
+    '@name': sci-fi-fantasy
+  - '@count': '5'
+    '@name': my-library
+  - '@count': '5'
+    '@name': science-fiction-fantasy
+  - '@count': '5'
+    '@name': science
+  - '@count': '5'
+    '@name': adventure
+  - '@count': '4'
+    '@name': audio
+  - '@count': '4'
+    '@name': dnf
+  - '@count': '4'
+    '@name': audiobook
+  - '@count': '4'
+    '@name': space
+  - '@count': '4'
+    '@name': young-adult
+  - '@count': '4'
+    '@name': paperback
+  - '@count': '3'
+    '@name': to-buy
+  - '@count': '3'
+    '@name': have
+  - '@count': '3'
+    '@name': maybe
+  - '@count': '3'
+    '@name': ebooks
+  - '@count': '3'
+    '@name': genre-sci-fi
+  - '@count': '3'
+    '@name': books-i-own
+  - '@count': '3'
+    '@name': library-book
+  - '@count': '3'
+    '@name': sf-fantasy
+  - '@count': '3'
+    '@name': sciencefiction
+  - '@count': '3'
+    '@name': sff
+  - '@count': '3'
+    '@name': '2006'
+  - '@count': '2'
+    '@name': audible
+  - '@count': '2'
+    '@name': to-get
+  - '@count': '2'
+    '@name': audio-books
+  - '@count': '2'
+    '@name': f-sf
+  - '@count': '2'
+    '@name': coming-of-age
+  - '@count': '2'
+    '@name': want-to-buy
+  - '@count': '2'
+    '@name': favorite
+  - '@count': '2'
+    '@name': home
+  - '@count': '2'
+    '@name': calibre
+  - '@count': '2'
+    '@name': the-library
+  - '@count': '2'
+    '@name': ya
+  - '@count': '2'
+    '@name': books
+  - '@count': '2'
+    '@name': read-more-than-once
+  - '@count': '2'
+    '@name': gave-away
+  - '@count': '2'
+    '@name': novels
+  - '@count': '2'
+    '@name': english
+  - '@count': '2'
+    '@name': space-travel
+  - '@count': '2'
+    '@name': unread
+  - '@count': '2'
+    '@name': space-exploration
+  - '@count': '2'
+    '@name': florida
+  - '@count': '2'
+    '@name': shelved
+  - '@count': '2'
+    '@name': keep
+  - '@count': '2'
+    '@name': home-library
+  - '@count': '2'
+    '@name': want-to-read
+  - '@count': '2'
+    '@name': sold
+  - '@count': '2'
+    '@name': fiction-science-fiction
+  - '@count': '2'
+    '@name': my-books
+  - '@count': '2'
+    '@name': five-stars
+  - '@count': '2'
+    '@name': hardcopy
+  - '@count': '2'
+    '@name': e-books
+  - '@count': '2'
+    '@name': fiction-sci-fi
+  - '@count': '2'
+    '@name': "ciencia-ficci\xF3n"
+  - '@count': '2'
+    '@name': near-future
+  - '@count': '1'
+    '@name': read_in_2024
+  - '@count': '1'
+    '@name': series-abandoned
+  - '@count': '1'
+    '@name': a-novel-epic-more-than-401-pages
+  - '@count': '1'
+    '@name': f-and-sf-to-check-out
+  - '@count': '1'
+    '@name': aa-same-author
+  - '@count': '1'
+    '@name': gave-up-on
+  - '@count': '1'
+    '@name': sci-fi-or-fantasy
+  - '@count': '1'
+    '@name': '2004'
+  - '@count': '1'
+    '@name': bookbub
+  - '@count': '1'
+    '@name': a-straight-books-2000s
+  - '@count': '1'
+    '@name': audio-stop
+  - '@count': '1'
+    '@name': incomparable-book-club
+  - '@count': '1'
+    '@name': american-21st-c
+  - '@count': '1'
+    '@name': started_finish_later
+  - '@count': '1'
+    '@name': books-note-3-8
+  - '@count': '1'
+    '@name': kindled
+  - '@count': '1'
+    '@name': 0-lo-tengo
+  - '@count': '1'
+    '@name': cover-2n-fantasy
+  - '@count': '1'
+    '@name': sci-fi-space-opera
+  - '@count': '1'
+    '@name': collected
+  - '@count': '1'
+    '@name': library-loan
+  - '@count': '1'
+    '@name': august_2021_reads
+  - '@count': '1'
+    '@name': june_2024_reads
+  - '@count': '1'
+    '@name': all-science
+  - '@count': '1'
+    '@name': all-sci-fi-my-challenge
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '2426'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417579
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/48682.Red_Thunder\"\
+  >Red Thunder Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0441011624&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/48682.Red_Thunder?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '145077'
+    series:
+      description: null
+      id: '40764'
+      note: null
+      numbered: 'true'
+      primary_work_count: '4'
+      series_works_count: '4'
+      title: Thunder and Lightning
+    user_position: '1'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '16344144'
+        link: https://www.goodreads.com/author/show/16344144.Brandon_Q_Morris
+        name: Brandon Q. Morris
+    average_rating: '3.86'
+    id: '218491002'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/218491002-tachyon
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2426'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Tachyon: The Weapon: Hard Science Fiction'
+    title_without_series: 'Tachyon: The Weapon: Hard Science Fiction'
+    uri: kca://book/amzn1.gr.book.v3.K2IZy3eFhry5x8VK
+    work:
+      id: '225068542'
+  - authors:
+      author:
+        id: '47826412'
+        link: https://www.goodreads.com/author/show/47826412.Sean_Fenian
+        name: Sean Fenian
+    average_rating: '3.86'
+    id: '208503716'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/208503716-bearing-gifts
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2426'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Bearing Gifts (The Stardock Trilogy Book 1)
+    title_without_series: Bearing Gifts
+    uri: kca://book/amzn1.gr.book.v3.FKL2Twu_2a7jR-at
+    work:
+      id: '214628456'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '3.86'
+    id: '61905'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397151220l/61905._SY160_.jpg
+    isbn: 0743468414
+    isbn13: '9780743468411'
+    link: https://www.goodreads.com/book/show/61905.Barrayar
+    num_pages: '336'
+    publication_day: '1'
+    publication_month: '12'
+    publication_year: '2003'
+    ratings_count: '2426'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397151220l/61905._SY75_.jpg
+    title: 'Barrayar (Vorkosigan Saga, #7)'
+    title_without_series: Barrayar
+    uri: kca://book/amzn1.gr.book.v1.ek-K4f9lSc6EKdiVpDnMLw
+    work:
+      id: '3036422'
+  - authors:
+      author:
+        id: '37002286'
+        link: https://www.goodreads.com/author/show/37002286.B_V_Larson
+        name: B. V. Larson
+    average_rating: '3.86'
+    id: '220451830'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/220451830-rebel-world
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2426'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Rebel World (Undying Mercenaries Book 22)
+    title_without_series: Rebel World
+    uri: kca://book/amzn1.gr.book.v3.0QIIv0JL4ENpuex8
+    work:
+      id: '227393344'
+  - authors:
+      author:
+        id: '4763'
+        link: https://www.goodreads.com/author/show/4763.John_Scalzi
+        name: John Scalzi
+    average_rating: '3.86'
+    id: '88072'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1303914309l/88072._SX98_.jpg
+    isbn: '1596060204'
+    isbn13: '9781596060203'
+    link: https://www.goodreads.com/book/show/88072.Agent_to_the_Stars
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2426'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1303914309l/88072._SY75_.jpg
+    title: Agent to the Stars
+    title_without_series: Agent to the Stars
+    uri: kca://book/amzn1.gr.book.v1.QmYBW3IObzsiIcmCbKKCLw
+    work:
+      id: '18280048'
+  - authors:
+      author:
+        id: '6912725'
+        link: https://www.goodreads.com/author/show/6912725.M_R_Forbes
+        name: M.R. Forbes
+    average_rating: '3.86'
+    id: '218109942'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/218109942-wraith
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2426'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Wraith (The Convergence War Book 1)
+    title_without_series: Wraith
+    uri: kca://book/amzn1.gr.book.v3.Rx4k6kP3ST0rIJGq
+    work:
+      id: '224651975'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '3.86'
+    id: '61903'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392767899l/61903._SY160_.jpg
+    isbn: 0743468422
+    isbn13: '9780743468428'
+    link: https://www.goodreads.com/book/show/61903.Shards_of_Honour
+    num_pages: '253'
+    publication_day: '1'
+    publication_month: '12'
+    publication_year: '2003'
+    ratings_count: '2426'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392767899l/61903._SY75_.jpg
+    title: 'Shards of Honour  (Vorkosigan Saga, #1)'
+    title_without_series: Shards of Honour
+    uri: kca://book/amzn1.gr.book.v1.REVk-wIA4DJ_w9_sXfPCOw
+    work:
+      id: '9673658'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '3.86'
+    id: '61906'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0743468406
+    isbn13: '9780743468404'
+    link: https://www.goodreads.com/book/show/61906.The_Warrior_s_Apprentice
+    num_pages: '372'
+    publication_day: null
+    publication_month: null
+    publication_year: '2003'
+    ratings_count: '2426'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Warrior''s Apprentice (Vorkosigan Saga, #2)'
+    title_without_series: The Warrior's Apprentice
+    uri: kca://book/amzn1.gr.book.v1.gn2GgIHPUJcoVl9UA6azkw
+    work:
+      id: '2792'
+  - authors:
+      author:
+        id: '108173'
+        link: https://www.goodreads.com/author/show/108173.Elizabeth_Bear
+        name: Elizabeth Bear
+    average_rating: '3.86'
+    id: '26159745'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549453849l/26159745._SX98_.jpg
+    isbn: '1473208742'
+    isbn13: '9781473208742'
+    link: https://www.goodreads.com/book/show/26159745-ancestral-night
+    num_pages: '512'
+    publication_day: null
+    publication_month: '3'
+    publication_year: '2019'
+    ratings_count: '2426'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549453849l/26159745._SY75_.jpg
+    title: 'Ancestral Night (White Space, #1)'
+    title_without_series: Ancestral Night
+    uri: kca://book/amzn1.gr.book.v1.0e2HWsMfKZtE-2dX8YURbw
+    work:
+      id: '41186071'
+  - authors:
+      author:
+        id: '13828892'
+        link: https://www.goodreads.com/author/show/13828892.J_N_Chaney
+        name: J.N. Chaney
+    average_rating: '3.86'
+    id: '204225678'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/204225678-cosmic-horizon
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2426'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Cosmic Horizon (Slip Runner #9)'
+    title_without_series: Cosmic Horizon
+    uri: kca://book/amzn1.gr.book.v3.a58we0eUuCTQNywt
+    work:
+      id: '210091855'
+  - authors:
+      author:
+        id: '5786'
+        link: https://www.goodreads.com/author/show/5786.David_Gerrold
+        name: David Gerrold
+    average_rating: '3.86'
+    id: '1534501'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636591771l/1534501._SY160_.jpg
+    isbn: 0380706628
+    isbn13: '9780380706624'
+    link: https://www.goodreads.com/book/show/1534501.Chess_with_a_Dragon
+    num_pages: '167'
+    publication_day: null
+    publication_month: '11'
+    publication_year: '1988'
+    ratings_count: '2426'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636591771l/1534501._SY75_.jpg
+    title: Chess with a Dragon
+    title_without_series: Chess with a Dragon
+    uri: kca://book/amzn1.gr.book.v1.ruIHYDzZ1BENY6cjVGEX-Q
+    work:
+      id: '1991978'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '3.86'
+    id: '7841670'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1269879970l/7841670._SX98_.jpg
+    isbn: '1439133948'
+    isbn13: '9781439133941'
+    link: https://www.goodreads.com/book/show/7841670-cryoburn
+    num_pages: '345'
+    publication_day: '19'
+    publication_month: '10'
+    publication_year: '2010'
+    ratings_count: '2426'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1269879970l/7841670._SY75_.jpg
+    title: 'CryoBurn (Vorkosigan Saga, #14)'
+    title_without_series: CryoBurn
+    uri: kca://book/amzn1.gr.book.v1.FCGu5jVpaFuEdwaPNnrW3w
+    work:
+      id: '10621859'
+  - authors:
+      author:
+        id: '73812'
+        link: https://www.goodreads.com/author/show/73812.Jack_McDevitt
+        name: Jack McDevitt
+    average_rating: '3.86'
+    id: '535318'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560478981l/535318._SX98_.jpg
+    isbn: '0441015255'
+    isbn13: '9780441015252'
+    link: https://www.goodreads.com/book/show/535318.Cauldron
+    num_pages: '373'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2426'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560478981l/535318._SX50_.jpg
+    title: 'Cauldron (The Academy, #6)'
+    title_without_series: Cauldron
+    uri: kca://book/amzn1.gr.book.v1.fDH1dC09XNQWl4PSFXeQUw
+    work:
+      id: '522793'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '3.86'
+    id: '205670068'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729967825l/205670068._SX98_.jpg
+    isbn: 0593357663
+    isbn13: '9780593357668'
+    link: https://www.goodreads.com/book/show/205670068-exodus
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2426'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729967825l/205670068._SY75_.jpg
+    title: 'Exodus: The Archimedes Engine (Archimedes Engine, #1)'
+    title_without_series: 'Exodus: The Archimedes Engine'
+    uri: kca://book/amzn1.gr.book.v3.oKI1MhJVI6jcpH-k
+    work:
+      id: '211692605'
+  - authors:
+      author:
+        id: '10089'
+        link: https://www.goodreads.com/author/show/10089.Philip_Jos_Farmer
+        name: "Philip Jos\xE9 Farmer"
+    average_rating: '3.86'
+    id: '189147'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327657439l/189147._SX98_.jpg
+    isbn: 0345419677
+    isbn13: '9780345419675'
+    link: https://www.goodreads.com/book/show/189147.To_Your_Scattered_Bodies_Go
+    num_pages: '220'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2426'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327657439l/189147._SY75_.jpg
+    title: 'To Your Scattered Bodies Go (Riverworld, #1)'
+    title_without_series: To Your Scattered Bodies Go
+    uri: kca://book/amzn1.gr.book.v1.wIw5GtZ5OUjNitXyrbWlKA
+    work:
+      id: '3171254'
+  - authors:
+      author:
+        id: '12407'
+        link: https://www.goodreads.com/author/show/12407.Ben_Bova
+        name: Ben Bova
+    average_rating: '3.86'
+    id: '267282'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '2265071226'
+    isbn13: '9782265071223'
+    link: https://www.goodreads.com/book/show/267282.Mars
+    num_pages: '607'
+    publication_day: '16'
+    publication_month: '5'
+    publication_year: '2001'
+    ratings_count: '2426'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Mars (The Grand Tour, #4)'
+    title_without_series: Mars
+    uri: kca://book/amzn1.gr.book.v1.KNqnOvheXf738UnMy43u0A
+    work:
+      id: '1932635'
+  - authors:
+      author:
+        id: '16344144'
+        link: https://www.goodreads.com/author/show/16344144.Brandon_Q_Morris
+        name: Brandon Q. Morris
+    average_rating: '3.86'
+    id: '124930384'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/124930384-the-factory-of-god
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2426'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Factory of God (The Dark Cloud #1)'
+    title_without_series: The Factory of God
+    uri: kca://book/amzn1.gr.book.v3.ApmdDc8NyajNWEKB
+    work:
+      id: '146346399'
+  - authors:
+      author:
+        id: '1048167'
+        link: https://www.goodreads.com/author/show/1048167.Nathan_Lowell
+        name: Nathan Lowell
+    average_rating: '3.86'
+    id: '6963764'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: '9781937475673'
+    link: https://www.goodreads.com/book/show/6963764-captain-s-share
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2426'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Captain''s Share (Golden Age of the Solar Clipper, #5)'
+    title_without_series: Captain's Share
+    uri: kca://book/amzn1.gr.book.v1.yh4PxRNNPKwyXMZOJhlthQ
+    work:
+      id: '7201733'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '194'
+  '@type': integer
+title: 'Red Thunder (Thunder and Lightning, #1)'
+title_without_series: Red Thunder
+uri: kca://book/amzn1.gr.book.v1.fPGQ6rFVjMI7rQUTr8H4MQ
+url: https://www.goodreads.com/book/show/48682.Red_Thunder
+work:
+  id: '47625'
+  uri: kca://work/amzn1.gr.work.v1.ilzti1MDzjeKFapyUgvmsw

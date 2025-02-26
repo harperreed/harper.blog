@@ -1,0 +1,746 @@
+asin: B000FBFNNI
+authors:
+  author:
+    average_rating: '3.83'
+    id: '1858'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1376955089p5/1858.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/1858.Kim_Stanley_Robinson
+    name: Kim Stanley Robinson
+    ratings_count: '477716'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1376955089p2/1858.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '34074'
+average_rating: '4.10'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: null
+edition_information: Reprint
+format: null
+id: '5222300'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn:
+  '@nil': 'true'
+isbn13:
+  '@nil': 'true'
+json: '{"id": "5222300", "isbn": {"@nil": "true"}, "isbn13": {"@nil": "true"}, "text_reviews_count":
+  {"@type": "integer", "#text": "25"}, "uri": "kca://book/amzn1.gr.book.v1.ICs1DqVT0SLw6vJ5_FHuBg",
+  "title": "Red Mars / Green Mars (Mars Trilogy, #1-2)", "title_without_series": "Red
+  Mars / Green Mars", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/5222300-red-mars-green-mars",
+  "num_pages": null, "format": null, "edition_information": "Reprint", "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "4.10", "ratings_count": "964", "description": null, "authors":
+  {"author": {"id": "1858", "name": "Kim Stanley Robinson", "role": null, "image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1376955089p5/1858.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1376955089p2/1858.jpg"},
+  "link": "https://www.goodreads.com/author/show/1858.Kim_Stanley_Robinson", "average_rating":
+  "3.83", "ratings_count": "477716", "text_reviews_count": "34074"}}, "published":
+  null, "work": {"id": "5289562", "uri": "kca://work/amzn1.gr.work.v1.fFh4dairDwCL_1G3M_uo5A"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/42404705",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B000QCS914
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/5222300-red-mars-green-mars
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '748'
+    '@name': to-read
+  - '@count': '37'
+    '@name': currently-reading
+  - '@count': '30'
+    '@name': science-fiction
+  - '@count': '16'
+    '@name': sci-fi
+  - '@count': '12'
+    '@name': fiction
+  - '@count': '5'
+    '@name': owned
+  - '@count': '5'
+    '@name': kindle
+  - '@count': '4'
+    '@name': favorites
+  - '@count': '4'
+    '@name': sf
+  - '@count': '3'
+    '@name': novels
+  - '@count': '3'
+    '@name': hugo-winners
+  - '@count': '2'
+    '@name': audio_wanted
+  - '@count': '2'
+    '@name': science
+  - '@count': '2'
+    '@name': mars
+  - '@count': '1'
+    '@name': dnf
+  - '@count': '1'
+    '@name': tim
+  - '@count': '1'
+    '@name': quit-reading
+  - '@count': '1'
+    '@name': scifi-fantasy
+  - '@count': '1'
+    '@name': from-epilogue
+  - '@count': '1'
+    '@name': great-my-kind-of-books
+  - '@count': '1'
+    '@name': books-i-own
+  - '@count': '1'
+    '@name': 1z-do-not-read
+  - '@count': '1'
+    '@name': books-i-have
+  - '@count': '1'
+    '@name': pub-2007-and-older
+  - '@count': '1'
+    '@name': science-psychology
+  - '@count': '1'
+    '@name': birds-nature-ecology
+  - '@count': '1'
+    '@name': books-i-own-not-read
+  - '@count': '1'
+    '@name': my-books
+  - '@count': '1'
+    '@name': bailed
+  - '@count': '1'
+    '@name': hard-scifi
+  - '@count': '1'
+    '@name': 2000s
+  - '@count': '1'
+    '@name': books-i-have-downloaded
+  - '@count': '1'
+    '@name': sci-fi-classics
+  - '@count': '1'
+    '@name': sci-fi-and-fantasy
+  - '@count': '1'
+    '@name': sci-fi-homework
+  - '@count': '1'
+    '@name': nebula-winner
+  - '@count': '1'
+    '@name': nebula-nominee
+  - '@count': '1'
+    '@name': hugo-winner
+  - '@count': '1'
+    '@name': hugo-nominee
+  - '@count': '1'
+    '@name': ksr
+  - '@count': '1'
+    '@name': started-but-haven-t-finished
+  - '@count': '1'
+    '@name': terraforming
+  - '@count': '1'
+    '@name': already-bought
+  - '@count': '1'
+    '@name': ownedebook
+  - '@count': '1'
+    '@name': wantedaudio
+  - '@count': '1'
+    '@name': to-listen
+  - '@count': '1'
+    '@name': scifi-marathon
+  - '@count': '1'
+    '@name': fiction-to-read
+  - '@count': '1'
+    '@name': hard
+  - '@count': '1'
+    '@name': the-past
+  - '@count': '1'
+    '@name': zz-ignore
+  - '@count': '1'
+    '@name': ws-mars-trilogy
+  - '@count': '1'
+    '@name': kim-stanley
+  - '@count': '1'
+    '@name': fantasy
+  - '@count': '1'
+    '@name': my-library-read
+  - '@count': '1'
+    '@name': uninterested
+  - '@count': '1'
+    '@name': sci-fi-nebula
+  - '@count': '1'
+    '@name': sci-fi-or-fantasy
+  - '@count': '1'
+    '@name': read-fiction
+  - '@count': '1'
+    '@name': sci-fi-fantasy
+  - '@count': '1'
+    '@name': challenge
+  - '@count': '1'
+    '@name': 22nd-c
+  - '@count': '1'
+    '@name': read-2008
+  - '@count': '1'
+    '@name': science-fiction-fantasy
+  - '@count': '1'
+    '@name': fiction-speculative-science-fiction
+  - '@count': '1'
+    '@name': graphic-novels
+  - '@count': '1'
+    '@name': calibre
+  - '@count': '1'
+    '@name': sf_space
+  - '@count': '1'
+    '@name': nook-library
+  - '@count': '1'
+    '@name': to-read-fiction
+  - '@count': '1'
+    '@name': smac-recommended-reading
+  - '@count': '1'
+    '@name': reddit-top-200
+  - '@count': '1'
+    '@name': ebook-no
+  - '@count': '1'
+    '@name': nook
+  - '@count': '1'
+    '@name': ignore
+  - '@count': '1'
+    '@name': ei-suom
+  - '@count': '1'
+    '@name': english
+  - '@count': '1'
+    '@name': b3
+  - '@count': '1'
+    '@name': '0'
+  - '@count': '1'
+    '@name': crime
+  - '@count': '1'
+    '@name': fakeomnibus
+  - '@count': '1'
+    '@name': fantasy-sf
+  - '@count': '1'
+    '@name': reading-for-pleasure
+  - '@count': '1'
+    '@name': challenge-5-eligible
+  - '@count': '1'
+    '@name': fictionwise
+  - '@count': '1'
+    '@name': audio
+  - '@count': '1'
+    '@name': on-kindle
+  - '@count': '1'
+    '@name': omnibus
+  - '@count': '1'
+    '@name': spec
+  - '@count': '1'
+    '@name': aahr-
+  - '@count': '1'
+    '@name': ebook
+  - '@count': '1'
+    '@name': book
+  - '@count': '1'
+    '@name': pb
+  - '@count': '1'
+    '@name': hard_sf
+  - '@count': '1'
+    '@name': scifi
+  - '@count': '1'
+    '@name': kindle-samples
+  - '@count': '-1'
+    '@name': awards-nebula-winner
+  - '@count': '-1'
+    '@name': awards-nebula-nominee
+  - '@count': '-1'
+    '@name': awards-hugo-winner
+  - '@count': '-1'
+    '@name': awards-hugo-nominee
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '964'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/42404705
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/5222300-red-mars-green-mars\"\
+  >Red Mars / Green Mars Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B000FBFNNI&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/5222300-red-mars-green-mars?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '364234'
+    series:
+      description: null
+      id: '40710'
+      note: null
+      numbered: 'true'
+      primary_work_count: '7'
+      series_works_count: '11'
+      title: Mars Trilogy
+    user_position: 1-2
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '12130438'
+        link: https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor
+        name: Dennis E. Taylor
+    average_rating: '4.10'
+    id: '33395557'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501817361l/33395557._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/33395557-for-we-are-many
+    num_pages: '311'
+    publication_day: '18'
+    publication_month: '4'
+    publication_year: '2017'
+    ratings_count: '964'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501817361l/33395557._SX50_.jpg
+    title: 'For We Are Many (Bobiverse, #2)'
+    title_without_series: For We Are Many
+    uri: kca://book/amzn1.gr.book.v1.EDxjHNx70kSGzRyYfd2T_g
+    work:
+      id: '54144664'
+  - authors:
+      author:
+        id: '12130438'
+        link: https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor
+        name: Dennis E. Taylor
+    average_rating: '4.10'
+    id: '35506021'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654566914l/35506021._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/35506021-all-these-worlds
+    num_pages: '336'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '964'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654566914l/35506021._SX50_.jpg
+    title: 'All These Worlds (Bobiverse, #3)'
+    title_without_series: All These Worlds
+    uri: kca://book/amzn1.gr.book.v1.hVOObdqCSy5GyABswsXk7g
+    work:
+      id: '54144690'
+  - authors:
+      author:
+        id: '12130438'
+        link: https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor
+        name: Dennis E. Taylor
+    average_rating: '4.10'
+    id: '42950440'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593705196l/42950440._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/42950440-heaven-s-river
+    num_pages: '17'
+    publication_day: '24'
+    publication_month: '9'
+    publication_year: '2020'
+    ratings_count: '964'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593705196l/42950440._SX50_.jpg
+    title: 'Heaven''s River (Bobiverse, #4)'
+    title_without_series: Heaven's River
+    uri: kca://book/amzn1.gr.book.v1.6jAWzosUJIY1AeUmEz0R_g
+    work:
+      id: '66753562'
+  - authors:
+      author:
+        id: '1956402'
+        link: https://www.goodreads.com/author/show/1956402.Daniel_Suarez
+        name: Daniel Suarez
+    average_rating: '4.10'
+    id: '8488830'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311704142l/8488830._SY160_.jpg
+    isbn: 0451231899
+    isbn13: '9780451231895'
+    link: https://www.goodreads.com/book/show/8488830-freedom
+    num_pages: '486'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '964'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311704142l/8488830._SY75_.jpg
+    title: "Freedom\u2122 (Daemon, #2)"
+    title_without_series: "Freedom\u2122"
+    uri: kca://book/amzn1.gr.book.v1.MvKAahxoJHW2MARwViONmQ
+    work:
+      id: '7394861'
+  - authors:
+      author:
+        id: '16667'
+        link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+        name: Isaac Asimov
+    average_rating: '4.10'
+    id: '30016'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655932374l/30016._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/30016.The_Naked_Sun
+    num_pages: '204'
+    publication_day: null
+    publication_month: null
+    publication_year: '1993'
+    ratings_count: '964'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655932374l/30016._SY75_.jpg
+    title: 'The Naked Sun (Robot, #2)'
+    title_without_series: The Naked Sun
+    uri: kca://book/amzn1.gr.book.v1.nHGyXOC1_Jk02RUyv_acOA
+    work:
+      id: '1583154'
+  - authors:
+      author:
+        id: '1624'
+        link: https://www.goodreads.com/author/show/1624.Herman_Melville
+        name: Herman Melville
+    average_rating: '4.10'
+    id: '153747'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327940656l/153747._SX98_.jpg
+    isbn: '0142437247'
+    isbn13: '9780142437247'
+    link: https://www.goodreads.com/book/show/153747.Moby_Dick_or_The_Whale
+    num_pages: '720'
+    publication_day: '21'
+    publication_month: '2'
+    publication_year: '2003'
+    ratings_count: '964'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327940656l/153747._SY75_.jpg
+    title: Moby-Dick or, The Whale
+    title_without_series: Moby-Dick or, The Whale
+    uri: kca://book/amzn1.gr.book.v1.B4yvnDpMzh7V5bGjLNgysg
+    work:
+      id: '2409320'
+  - authors:
+      author:
+        id: '874602'
+        link: https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin
+        name: Ursula K. Le Guin
+    average_rating: '4.10'
+    id: '13651'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353467455l/13651._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/13651.The_Dispossessed
+    num_pages: '387'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '964'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353467455l/13651._SY75_.jpg
+    title: 'The Dispossessed: An Ambiguous Utopia'
+    title_without_series: 'The Dispossessed: An Ambiguous Utopia'
+    uri: kca://book/amzn1.gr.book.v1.fs3o1C0_BUylFGBWOdXMFw
+    work:
+      id: '2684122'
+  - authors:
+      author:
+        id: '130698'
+        link: https://www.goodreads.com/author/show/130698.Ted_Chiang
+        name: Ted Chiang
+    average_rating: '4.10'
+    id: '223380'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356138316l/223380._SX98_.jpg
+    isbn: 0330426648
+    isbn13: '9780330426640'
+    link: https://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others
+    num_pages: '281'
+    publication_day: '26'
+    publication_month: '10'
+    publication_year: '2010'
+    ratings_count: '964'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356138316l/223380._SY75_.jpg
+    title: Stories of Your Life and Others
+    title_without_series: Stories of Your Life and Others
+    uri: kca://book/amzn1.gr.book.v1.6ROctfOV67ctZ-15jWtTcA
+    work:
+      id: '216334'
+  - authors:
+      author:
+        id: '1159886'
+        link: https://www.goodreads.com/author/show/1159886.Arkady_Strugatsky
+        name: Arkady Strugatsky
+    average_rating: '4.10'
+    id: '331256'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0575070536'
+    isbn13: '9780575070530'
+    link: https://www.goodreads.com/book/show/331256.Roadside_Picnic
+    num_pages: '145'
+    publication_day: '24'
+    publication_month: '8'
+    publication_year: '2000'
+    ratings_count: '964'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Roadside Picnic
+    title_without_series: Roadside Picnic
+    uri: kca://book/amzn1.gr.book.v1.idahH6cZYkLCEl9ZhwCQ3Q
+    work:
+      id: '1243896'
+  - authors:
+      author:
+        id: '874602'
+        link: https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin
+        name: Ursula K. Le Guin
+    average_rating: '4.10'
+    id: '18423'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488213612l/18423._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness
+    num_pages: '304'
+    publication_day: '1'
+    publication_month: '7'
+    publication_year: '2000'
+    ratings_count: '964'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488213612l/18423._SY75_.jpg
+    title: The Left Hand of Darkness
+    title_without_series: The Left Hand of Darkness
+    uri: kca://book/amzn1.gr.book.v1.rN6TzC6agHQRuPR-ZIDiGA
+    work:
+      id: '817527'
+  - authors:
+      author:
+        id: '4560048'
+        link: https://www.goodreads.com/author/show/4560048.Robert_Evans
+        name: Robert   Evans
+    average_rating: '4.10'
+    id: '59645604'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637185471l/59645604._SX98_.jpg
+    isbn: '1849354626'
+    isbn13: '9781849354622'
+    link: https://www.goodreads.com/book/show/59645604-after-the-revolution
+    num_pages: '380'
+    publication_day: '10'
+    publication_month: '5'
+    publication_year: '2022'
+    ratings_count: '964'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637185471l/59645604._SX50_.jpg
+    title: After The Revolution
+    title_without_series: After The Revolution
+    uri: kca://book/amzn1.gr.book.v3.E8Pq945g3fHQ9hee
+    work:
+      id: '91389881'
+  - authors:
+      author:
+        id: '9226'
+        link: https://www.goodreads.com/author/show/9226.William_Gibson
+        name: William Gibson
+    average_rating: '4.10'
+    id: '6088007'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554437249l/6088007._SX98_.jpg
+    isbn: 110114646X
+    isbn13: '9781101146460'
+    link: https://www.goodreads.com/book/show/6088007-neuromancer
+    num_pages: '288'
+    publication_day: '3'
+    publication_month: '3'
+    publication_year: '2007'
+    ratings_count: '964'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554437249l/6088007._SY75_.jpg
+    title: 'Neuromancer (Sprawl, #1)'
+    title_without_series: Neuromancer
+    uri: kca://book/amzn1.gr.book.v1._7m4DTRn8iapMvlxW1amew
+    work:
+      id: '909457'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.10'
+    id: '28335696'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481562381l/28335696._SX98_.jpg
+    isbn: 0316332828
+    isbn13: '9780316332828'
+    link: https://www.goodreads.com/book/show/28335696-persepolis-rising
+    num_pages: '608'
+    publication_day: '5'
+    publication_month: '12'
+    publication_year: '2017'
+    ratings_count: '964'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481562381l/28335696._SY75_.jpg
+    title: 'Persepolis Rising (The Expanse, #7)'
+    title_without_series: Persepolis Rising
+    uri: kca://book/amzn1.gr.book.v1.2iHL4GNS5f2eonTkkhVDkw
+    work:
+      id: '48382887'
+  - authors:
+      author:
+        id: '3354'
+        link: https://www.goodreads.com/author/show/3354.Haruki_Murakami
+        name: Haruki Murakami
+    average_rating: '4.10'
+    id: '41022133'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533141634l/41022133._SX98_.jpg
+    isbn: 0385352115
+    isbn13: '9780385352116'
+    link: https://www.goodreads.com/book/show/41022133-colorless-tsukuru-tazaki-and-his-years-of-pilgrimage
+    num_pages: '308'
+    publication_day: '12'
+    publication_month: '8'
+    publication_year: '2014'
+    ratings_count: '964'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533141634l/41022133._SY75_.jpg
+    title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
+    title_without_series: Colorless Tsukuru Tazaki and His Years of Pilgrimage
+    uri: kca://book/amzn1.gr.book.v1.r70JNZJzwerx07NK4VwEuQ
+    work:
+      id: '24593525'
+  - authors:
+      author:
+        id: '43298'
+        link: https://www.goodreads.com/author/show/43298.Yevgeny_Zamyatin
+        name: Yevgeny Zamyatin
+    average_rating: '4.10'
+    id: '76171'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627438181l/76171._SX98_.jpg
+    isbn: 0140185852
+    isbn13: '9780140185850'
+    link: https://www.goodreads.com/book/show/76171.We
+    num_pages: '256'
+    publication_day: '25'
+    publication_month: '11'
+    publication_year: '1993'
+    ratings_count: '964'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627438181l/76171._SY75_.jpg
+    title: We
+    title_without_series: We
+    uri: kca://book/amzn1.gr.book.v1.R7NIXj8g1QNbIvvhTiyy4g
+    work:
+      id: '2144026'
+  - authors:
+      author:
+        id: '2970944'
+        link: https://www.goodreads.com/author/show/2970944.Margaret_Killjoy
+        name: Margaret Killjoy
+    average_rating: '4.10'
+    id: '32606889'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485200177l/32606889._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/32606889-the-lamb-will-slaughter-the-lion
+    num_pages: '130'
+    publication_day: '15'
+    publication_month: '8'
+    publication_year: '2017'
+    ratings_count: '964'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485200177l/32606889._SY75_.jpg
+    title: 'The Lamb Will Slaughter the Lion (Danielle Cain, #1)'
+    title_without_series: The Lamb Will Slaughter the Lion
+    uri: kca://book/amzn1.gr.book.v1.x64QwmFYrvuL5iZG5AfZig
+    work:
+      id: '53189199'
+  - authors:
+      author:
+        id: '58'
+        link: https://www.goodreads.com/author/show/58.Frank_Herbert
+        name: Frank Herbert
+    average_rating: '4.10'
+    id: '44767458'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555447414l/44767458._SX98_.jpg
+    isbn: 059309932X
+    isbn13: '9780593099322'
+    link: https://www.goodreads.com/book/show/44767458-dune
+    num_pages: '658'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '964'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555447414l/44767458._SY75_.jpg
+    title: 'Dune (Dune, #1)'
+    title_without_series: Dune
+    uri: kca://book/amzn1.gr.book.v1.hAfjpcV1EtlPe7qvdmKeDA
+    work:
+      id: '3634639'
+  - authors:
+      author:
+        id: '25307'
+        link: https://www.goodreads.com/author/show/25307.Robin_Hobb
+        name: Robin Hobb
+    average_rating: '4.10'
+    id: '77197'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673728072l/77197._SY160_.jpg
+    isbn: 055357339X
+    isbn13: '9780553573398'
+    link: https://www.goodreads.com/book/show/77197.Assassin_s_Apprentice
+    num_pages: '435'
+    publication_day: '1'
+    publication_month: '3'
+    publication_year: '1996'
+    ratings_count: '964'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673728072l/77197._SY75_.jpg
+    title: 'Assassin''s Apprentice (Farseer Trilogy, #1)'
+    title_without_series: Assassin's Apprentice
+    uri: kca://book/amzn1.gr.book.v1.4LJbCBw7mPzIut1Fa7lZQQ
+    work:
+      id: '171715'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '25'
+  '@type': integer
+title: 'Red Mars / Green Mars (Mars Trilogy, #1-2)'
+title_without_series: Red Mars / Green Mars
+uri: kca://book/amzn1.gr.book.v1.ICs1DqVT0SLw6vJ5_FHuBg
+url: https://www.goodreads.com/book/show/5222300-red-mars-green-mars
+work:
+  id: '5289562'
+  uri: kca://work/amzn1.gr.work.v1.fFh4dairDwCL_1G3M_uo5A

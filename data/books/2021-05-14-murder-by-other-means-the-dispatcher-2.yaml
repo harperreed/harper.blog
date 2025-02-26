@@ -1,0 +1,767 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.05'
+    id: '4763'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1724435824p5/4763.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/4763.John_Scalzi
+    name: John Scalzi
+    ratings_count: '1200689'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1724435824p2/4763.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '102358'
+average_rating: '4.03'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2021-05-14T00:00:00-07:00'
+description: "Welcome to the new world, in which murder is all but a thing of the\
+  \ past. Because when someone kills you, 999 times out of 1,000, you instantly come\
+  \ back to life. In this world, there are dispatchers\u2014licensed killers who step\
+  \ in when you\u2019re at risk of a natural or unintentional death. They kill you\u2014\
+  so you can live.<br /><br />Tony Valdez is used to working his job as a dispatcher\
+  \ within the rules of the law and the state. But times are tough, and more and more\
+  \ Tony finds himself riding the line between what\u2019s legal and what will pay\
+  \ his bills. After one of these shady gigs and after being a witness to a crime\
+  \ gone horribly wrong, Tony discovers that people around him are dying, for reasons\
+  \ that make no sense...and which just may implicate him.<br /><br />Tony is out\
+  \ of time: to solve the mystery of these deaths, to keep others from dying, and\
+  \ to keep himself from being a victim of what looks like murder, by other means."
+edition_information: null
+format: Kindle Edition
+id: '57382954'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615524944l/57382954._SX98_.jpg
+is_ebook: 'true'
+isbn: '1645240185'
+isbn13: '9781645240181'
+json: '{"id": "57382954", "isbn": "1645240185", "isbn13": "9781645240181", "text_reviews_count":
+  {"@type": "integer", "#text": "62"}, "uri": "kca://book/amzn1.gr.book.v3.-7FhTziUdSrfwUjf",
+  "title": "Murder by Other Means (The Dispatcher, #2)", "title_without_series": "Murder
+  by Other Means", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615524944l/57382954._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615524944l/57382954._SX50_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/57382954-murder-by-other-means",
+  "num_pages": "105", "format": "Kindle Edition", "edition_information": null, "publisher":
+  "Subterranean Press", "publication_day": "30", "publication_year": "2021", "publication_month":
+  "4", "average_rating": "4.03", "ratings_count": "12591", "description": "Welcome
+  to the new world, in which murder is all but a thing of the past. Because when someone
+  kills you, 999 times out of 1,000, you instantly come back to life. In this world,
+  there are dispatchers\u2014licensed killers who step in when you\u2019re at risk
+  of a natural or unintentional death. They kill you\u2014so you can live.<br /><br
+  />Tony Valdez is used to working his job as a dispatcher within the rules of the
+  law and the state. But times are tough, and more and more Tony finds himself riding
+  the line between what\u2019s legal and what will pay his bills. After one of these
+  shady gigs and after being a witness to a crime gone horribly wrong, Tony discovers
+  that people around him are dying, for reasons that make no sense...and which just
+  may implicate him.<br /><br />Tony is out of time: to solve the mystery of these
+  deaths, to keep others from dying, and to keep himself from being a victim of what
+  looks like murder, by other means.", "authors": {"author": {"id": "4763", "name":
+  "John Scalzi", "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1724435824p5/4763.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1724435824p2/4763.jpg"},
+  "link": "https://www.goodreads.com/author/show/4763.John_Scalzi", "average_rating":
+  "4.05", "ratings_count": "1200689", "text_reviews_count": "102358"}}, "published":
+  "2021", "work": {"id": "86224223", "uri": "kca://work/amzn1.gr.work.v3.yIDw0M5IV4Gu2p_9"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/4001873995",
+  "read_at": "Fri May 14 00:00:00 -0700 2021", "started_at": "Fri May 14 00:00:00
+  -0700 2021", "date": "Fri May 14 00:00:00 -0700 2021"}'
+kindle_asin: B091DMSK36
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/57382954-murder-by-other-means
+marketplace_id: ATVPDKIKX0DER
+num_pages: '105'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '1793'
+    '@name': to-read
+  - '@count': '403'
+    '@name': audiobook
+  - '@count': '325'
+    '@name': science-fiction
+  - '@count': '289'
+    '@name': sci-fi
+  - '@count': '282'
+    '@name': audible
+  - '@count': '270'
+    '@name': mystery
+  - '@count': '221'
+    '@name': currently-reading
+  - '@count': '216'
+    '@name': audiobooks
+  - '@count': '178'
+    '@name': fiction
+  - '@count': '172'
+    '@name': audio
+  - '@count': '122'
+    '@name': fantasy
+  - '@count': '95'
+    '@name': crime
+  - '@count': '88'
+    '@name': novella
+  - '@count': '77'
+    '@name': scifi
+  - '@count': '69'
+    '@name': thriller
+  - '@count': '69'
+    '@name': series
+  - '@count': '60'
+    '@name': audio-books
+  - '@count': '55'
+    '@name': audio-book
+  - '@count': '46'
+    '@name': audible-plus
+  - '@count': '41'
+    '@name': short-stories
+  - '@count': '36'
+    '@name': owned
+  - '@count': '33'
+    '@name': urban-fantasy
+  - '@count': '28'
+    '@name': science-fiction-and-fantasy
+  - '@count': '27'
+    '@name': mystery-thriller
+  - '@count': '25'
+    '@name': listened
+  - '@count': '25'
+    '@name': audible-original
+  - '@count': '23'
+    '@name': detective
+  - '@count': '23'
+    '@name': sf
+  - '@count': '22'
+    '@name': read-in-2020
+  - '@count': '21'
+    '@name': favorites
+  - '@count': '21'
+    '@name': read-2020
+  - '@count': '18'
+    '@name': read-2023
+  - '@count': '18'
+    '@name': suspense
+  - '@count': '16'
+    '@name': john-scalzi
+  - '@count': '16'
+    '@name': scifi-fantasy
+  - '@count': '16'
+    '@name': speculative-fiction
+  - '@count': '15'
+    '@name': read-in-2023
+  - '@count': '15'
+    '@name': short-story
+  - '@count': '14'
+    '@name': sci-fi-fantasy
+  - '@count': '13'
+    '@name': ebook
+  - '@count': '13'
+    '@name': read-2021
+  - '@count': '12'
+    '@name': 2024-reads
+  - '@count': '11'
+    '@name': 2023-reads
+  - '@count': '11'
+    '@name': novellas
+  - '@count': '11'
+    '@name': adult
+  - '@count': '11'
+    '@name': science-fiction-fantasy
+  - '@count': '11'
+    '@name': murder-mystery
+  - '@count': '10'
+    '@name': read-in-2021
+  - '@count': '10'
+    '@name': dystopian
+  - '@count': '10'
+    '@name': listened-to
+  - '@count': '10'
+    '@name': shorts
+  - '@count': '10'
+    '@name': paranormal
+  - '@count': '10'
+    '@name': audible-originals
+  - '@count': '10'
+    '@name': 2020-read
+  - '@count': '9'
+    '@name': read-in-2022
+  - '@count': '9'
+    '@name': audible-books
+  - '@count': '9'
+    '@name': borrowed
+  - '@count': '8'
+    '@name': read-in-2024
+  - '@count': '8'
+    '@name': 2023-books
+  - '@count': '8'
+    '@name': 2022-reads
+  - '@count': '8'
+    '@name': read-2022
+  - '@count': '8'
+    '@name': adult-fiction
+  - '@count': '8'
+    '@name': library
+  - '@count': '8'
+    '@name': speculative
+  - '@count': '8'
+    '@name': mysteries
+  - '@count': '8'
+    '@name': supernatural
+  - '@count': '8'
+    '@name': 2020-reading-challenge
+  - '@count': '8'
+    '@name': sff
+  - '@count': '8'
+    '@name': contemporary
+  - '@count': '8'
+    '@name': mystery-crime
+  - '@count': '8'
+    '@name': crime-fiction
+  - '@count': '8'
+    '@name': short-fiction
+  - '@count': '8'
+    '@name': chicago
+  - '@count': '7'
+    '@name': 2022-read
+  - '@count': '7'
+    '@name': action
+  - '@count': '7'
+    '@name': own-audible
+  - '@count': '7'
+    '@name': 2021-reads
+  - '@count': '7'
+    '@name': mystery-suspense
+  - '@count': '7'
+    '@name': books-i-own
+  - '@count': '7'
+    '@name': short
+  - '@count': '7'
+    '@name': free
+  - '@count': '6'
+    '@name': short-stories-novellas
+  - '@count': '6'
+    '@name': laser
+  - '@count': '6'
+    '@name': noir
+  - '@count': '6'
+    '@name': fantasy-sci-fi
+  - '@count': '6'
+    '@name': dystopia
+  - '@count': '6'
+    '@name': action-adventure
+  - '@count': '6'
+    '@name': 2020-reads
+  - '@count': '6'
+    '@name': the-dispatcher
+  - '@count': '6'
+    '@name': 2020-books
+  - '@count': '5'
+    '@name': read-2024
+  - '@count': '5'
+    '@name': 2024-books
+  - '@count': '5'
+    '@name': kindle
+  - '@count': '5'
+    '@name': part-of-a-series
+  - '@count': '5'
+    '@name': suspense-thriller
+  - '@count': '5'
+    '@name': sci-fi-and-fantasy
+  - '@count': '5'
+    '@name': next-in-series
+  - '@count': '5'
+    '@name': reviewed
+  - '@count': '5'
+    '@name': death
+  - '@count': '5'
+    '@name': audible-read
+publication_day: '30'
+publication_month: '4'
+publication_year: '2021'
+published: '2021'
+publisher: Subterranean Press
+ratings_count: '12591'
+read_at: '2021-05-14T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/4001873995
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/57382954-murder-by-other-means\"\
+  >Murder by Other Means Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1645240185&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/57382954-murder-by-other-means?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '1676771'
+    series:
+      description: null
+      id: '298915'
+      note: null
+      numbered: 'true'
+      primary_work_count: '3'
+      series_works_count: '3'
+      title: The Dispatcher
+    user_position: '2'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '7737321'
+        link: https://www.goodreads.com/author/show/7737321.Eric_Buchman
+        name: Eric Buchman
+    average_rating: '4.03'
+    id: '222282908'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733428584l/222282908._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/222282908-the-signal
+    num_pages: null
+    publication_day: '5'
+    publication_month: '12'
+    publication_year: '2024'
+    ratings_count: '12591'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733428584l/222282908._SX50_.jpg
+    title: The Signal
+    title_without_series: The Signal
+    uri: kca://book/amzn1.gr.book.v3.E_VtLpYRzJfM22fN
+    work:
+      id: '229270903'
+  - authors:
+      author:
+        id: '18880306'
+        link: https://www.goodreads.com/author/show/18880306.Daniel_Rigby
+        name: Daniel Rigby
+    average_rating: '4.03'
+    id: '58991259'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631570222l/58991259._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/58991259-isaac-steele-and-the-forever-man
+    num_pages: '8'
+    publication_day: '9'
+    publication_month: '9'
+    publication_year: '2021'
+    ratings_count: '12591'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631570222l/58991259._SX50_.jpg
+    title: 'Isaac Steele and the Forever Man (Isaac Steele, #1)'
+    title_without_series: Isaac Steele and the Forever Man
+    uri: kca://book/amzn1.gr.book.v3.zwlWrsUItlFwPRsz
+    work:
+      id: '92999834'
+  - authors:
+      author:
+        id: '18880306'
+        link: https://www.goodreads.com/author/show/18880306.Daniel_Rigby
+        name: Daniel Rigby
+    average_rating: '4.03'
+    id: '221368729'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731272346l/221368729._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/221368729-isaac-steele-and-the-best-idea-in-the-universe
+    num_pages: '7'
+    publication_day: '31'
+    publication_month: '10'
+    publication_year: '2024'
+    ratings_count: '12591'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731272346l/221368729._SX50_.jpg
+    title: 'Isaac Steele and the Best Idea in the Universe (Isaac Steele, #2)'
+    title_without_series: Isaac Steele and the Best Idea in the Universe
+    uri: kca://book/amzn1.gr.book.v3.PAu1UjsdZz7w93WZ
+    work:
+      id: '228341559'
+  - authors:
+      author:
+        id: '6540057'
+        link: https://www.goodreads.com/author/show/6540057.Andy_Weir
+        name: Andy Weir
+    average_rating: '4.03'
+    id: '35521471'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518988887l/35521471._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/35521471-james-moriarty-consulting-criminal
+    num_pages: '1'
+    publication_day: '6'
+    publication_month: '6'
+    publication_year: '2017'
+    ratings_count: '12591'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518988887l/35521471._SX50_.jpg
+    title: James Moriarty, Consulting Criminal
+    title_without_series: James Moriarty, Consulting Criminal
+    uri: kca://book/amzn1.gr.book.v1.NTHuvTgmWzGtGdAeygWcLg
+    work:
+      id: '56937686'
+  - authors:
+      author:
+        id: '25883'
+        link: https://www.goodreads.com/author/show/25883.Robert_J_Sawyer
+        name: Robert J. Sawyer
+    average_rating: '4.03'
+    id: '200356486'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699255918l/200356486._SX98_.jpg
+    isbn: '1989398995'
+    isbn13: '9781989398999'
+    link: https://www.goodreads.com/book/show/200356486-the-downloaded
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12591'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699255918l/200356486._SY75_.jpg
+    title: The Downloaded
+    title_without_series: The Downloaded
+    uri: kca://book/amzn1.gr.book.v3.ypc8Wms-U1tLMX9Q
+    work:
+      id: '205064222'
+  - authors:
+      author:
+        id: '539178'
+        link: https://www.goodreads.com/author/show/539178.Julian_Simpson
+        name: Julian Simpson
+    average_rating: '4.03'
+    id: '217445723'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1723574811l/217445723._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/217445723-temporal
+    num_pages: '5'
+    publication_day: '1'
+    publication_month: '8'
+    publication_year: '2024'
+    ratings_count: '12591'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1723574811l/217445723._SX50_.jpg
+    title: Temporal
+    title_without_series: Temporal
+    uri: kca://book/amzn1.gr.book.v3.fogzTZNA3s_-AUzH
+    work:
+      id: '223950679'
+  - authors:
+      author:
+        id: '6540057'
+        link: https://www.goodreads.com/author/show/6540057.Andy_Weir
+        name: Andy Weir
+    average_rating: '4.03'
+    id: '35502775'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498226282l/35502775._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/35502775-the-egg-and-other-stories
+    num_pages: '1'
+    publication_day: '6'
+    publication_month: '6'
+    publication_year: '2017'
+    ratings_count: '12591'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498226282l/35502775._SX50_.jpg
+    title: The Egg and Other Stories
+    title_without_series: The Egg and Other Stories
+    uri: kca://book/amzn1.gr.book.v1.Kc6UrpUcS_WT3ENjWn1oAg
+    work:
+      id: '56908606'
+  - authors:
+      author:
+        id: '1136158'
+        link: https://www.goodreads.com/author/show/1136158.Larry_Correia
+        name: Larry Correia
+    average_rating: '4.03'
+    id: '77687719'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676632059l/77687719._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/77687719-ghosts-of-zenith
+    num_pages: null
+    publication_day: '12'
+    publication_month: '1'
+    publication_year: '2023'
+    ratings_count: '12591'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676632059l/77687719._SX50_.jpg
+    title: Ghosts of Zenith
+    title_without_series: Ghosts of Zenith
+    uri: kca://book/amzn1.gr.book.v3.p4aZR9gD2NY9QFm8
+    work:
+      id: '102901793'
+  - authors:
+      author:
+        id: '12130438'
+        link: https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor
+        name: Dennis E. Taylor
+    average_rating: '4.03'
+    id: '48564643'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659761208l/48564643._SX98_.jpg
+    isbn: '1680681532'
+    isbn13: '9781680681536'
+    link: https://www.goodreads.com/book/show/48564643-a-change-of-plans
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12591'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659761208l/48564643._SY75_.jpg
+    title: A Change of Plans
+    title_without_series: A Change of Plans
+    uri: kca://book/amzn1.gr.book.v3._AQ2Rhg7s7NnUkTe
+    work:
+      id: '73892022'
+  - authors:
+      author:
+        id: '1136158'
+        link: https://www.goodreads.com/author/show/1136158.Larry_Correia
+        name: Larry Correia
+    average_rating: '4.03'
+    id: '59428733'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634869346l/59428733._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/59428733-lost-planet-homicide
+    num_pages: null
+    publication_day: '21'
+    publication_month: '10'
+    publication_year: '2021'
+    ratings_count: '12591'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634869346l/59428733._SX50_.jpg
+    title: Lost Planet Homicide
+    title_without_series: Lost Planet Homicide
+    uri: kca://book/amzn1.gr.book.v3.-xWu-TtoH8Ee_8dP
+    work:
+      id: '93607861'
+  - authors:
+      author:
+        id: '12130438'
+        link: https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor
+        name: Dennis E. Taylor
+    average_rating: '4.03'
+    id: '55957410'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1605844792l/55957410._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/55957410-feedback
+    num_pages: '1'
+    publication_day: '19'
+    publication_month: '11'
+    publication_year: '2020'
+    ratings_count: '12591'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1605844792l/55957410._SX50_.jpg
+    title: Feedback
+    title_without_series: Feedback
+    uri: kca://book/amzn1.gr.book.v3.Kkq5uB8ivQWNd3qV
+    work:
+      id: '87173674'
+  - authors:
+      author:
+        id: '3780'
+        link: https://www.goodreads.com/author/show/3780.James_Patterson
+        name: James  Patterson
+    average_rating: '4.03'
+    id: '62984568'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665682558l/62984568._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/62984568-the-method
+    num_pages: '4'
+    publication_day: '13'
+    publication_month: '10'
+    publication_year: '2022'
+    ratings_count: '12591'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665682558l/62984568._SX50_.jpg
+    title: The Method
+    title_without_series: The Method
+    uri: kca://book/amzn1.gr.book.v3.q3vUHLkGNgnE2r6G
+    work:
+      id: '98814397'
+  - authors:
+      author:
+        id: '12130438'
+        link: https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor
+        name: Dennis E. Taylor
+    average_rating: '4.03'
+    id: '159116833'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712930306l/159116833._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/159116833-not-till-we-are-lost
+    num_pages: '413'
+    publication_day: '5'
+    publication_month: '9'
+    publication_year: '2024'
+    ratings_count: '12591'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712930306l/159116833._SX50_.jpg
+    title: 'Not Till We Are Lost (Bobiverse #5)'
+    title_without_series: Not Till We Are Lost
+    uri: kca://book/amzn1.gr.book.v3.AzkbsrEAp5F3hB8P
+    work:
+      id: '171689305'
+  - authors:
+      author:
+        id: '6902827'
+        link: https://www.goodreads.com/author/show/6902827.Travis_Beacham
+        name: Travis Beacham
+    average_rating: '4.03'
+    id: '216655823'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1721419507l/216655823._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/216655823-impact-winter-season-3
+    num_pages: '8'
+    publication_day: '18'
+    publication_month: '7'
+    publication_year: '2024'
+    ratings_count: '12591'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1721419507l/216655823._SX50_.jpg
+    title: 'Impact Winter Season 3 (Impact Winter #3)'
+    title_without_series: Impact Winter Season 3
+    uri: kca://book/amzn1.gr.book.v3.Mi2JVVwiAO-2WsRf
+    work:
+      id: '223086066'
+  - authors:
+      author:
+        id: '6902827'
+        link: https://www.goodreads.com/author/show/6902827.Travis_Beacham
+        name: Travis Beacham
+    average_rating: '4.03'
+    id: '188963408'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689279044l/188963408._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/188963408-impact-winter-season-2
+    num_pages: '6'
+    publication_day: '13'
+    publication_month: '7'
+    publication_year: '2023'
+    ratings_count: '12591'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689279044l/188963408._SX50_.jpg
+    title: 'Impact Winter Season 2 (Impact Winter #2)'
+    title_without_series: Impact Winter Season 2
+    uri: kca://book/amzn1.gr.book.v3.yCHMrW8VNiA69kIn
+    work:
+      id: '191628760'
+  - authors:
+      author:
+        id: '1136158'
+        link: https://www.goodreads.com/author/show/1136158.Larry_Correia
+        name: Larry Correia
+    average_rating: '4.03'
+    id: '219351004'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726749854l/219351004._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/219351004-the-five-points-ripper
+    num_pages: '3'
+    publication_day: '19'
+    publication_month: '9'
+    publication_year: '2024'
+    ratings_count: '12591'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726749854l/219351004._SX50_.jpg
+    title: The Five Points Ripper
+    title_without_series: The Five Points Ripper
+    uri: kca://book/amzn1.gr.book.v3.ujl2ek1jzXwjUkGN
+    work:
+      id: '226275127'
+  - authors:
+      author:
+        id: '6902827'
+        link: https://www.goodreads.com/author/show/6902827.Travis_Beacham
+        name: Travis Beacham
+    average_rating: '4.03'
+    id: '60299393'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1644083262l/60299393._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/60299393-impact-winter
+    num_pages: '5'
+    publication_day: '17'
+    publication_month: '2'
+    publication_year: '2022'
+    ratings_count: '12591'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1644083262l/60299393._SX50_.jpg
+    title: 'Impact Winter (Impact Winter #1)'
+    title_without_series: Impact Winter
+    uri: kca://book/amzn1.gr.book.v3.8mece7k069HyutZa
+    work:
+      id: '95063195'
+  - authors:
+      author:
+        id: '735413'
+        link: https://www.goodreads.com/author/show/735413.Ben_H_Winters
+        name: Ben H. Winters
+    average_rating: '4.03'
+    id: '61184540'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1653805385l/61184540._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/61184540-self-help
+    num_pages: null
+    publication_day: '26'
+    publication_month: '5'
+    publication_year: '2022'
+    ratings_count: '12591'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1653805385l/61184540._SX50_.jpg
+    title: Self Help
+    title_without_series: Self Help
+    uri: kca://book/amzn1.gr.book.v3.E8jLutp5ZPHulmkV
+    work:
+      id: '96452792'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615524944l/57382954._SX50_.jpg
+started_at: '2021-05-14T00:00:00-07:00'
+text_reviews_count:
+  '#text': '62'
+  '@type': integer
+title: 'Murder by Other Means (The Dispatcher, #2)'
+title_without_series: Murder by Other Means
+uri: kca://book/amzn1.gr.book.v3.-7FhTziUdSrfwUjf
+url: https://www.goodreads.com/book/show/57382954-murder-by-other-means
+work:
+  id: '86224223'
+  uri: kca://work/amzn1.gr.work.v3.yIDw0M5IV4Gu2p_9

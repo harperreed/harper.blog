@@ -1,0 +1,769 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.88'
+    id: '3329042'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1425124402p5/3329042.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/3329042.Emma_Newman
+    name: Emma Newman
+    ratings_count: '33334'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1425124402p2/3329042.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '5158'
+average_rating: '4.09'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2019-05-15T00:00:00-07:00'
+description: After months of travel, Anna Kubrin finally arrives on Mars for her new
+  job as a geologist and de facto artist-in-residence. Already she feels like she
+  is losing the connection with her husband and baby at home on Earth--and she'll
+  be on Mars for over a year. Throwing herself into her work, she tries her best to
+  fit in with the team.<br /><br />But in her new room on the base, Anna finds a mysterious
+  note written in her own handwriting, warning her not to trust the colony psychologist.
+  A note she can't remember writing. She unpacks her wedding ring, only to find it
+  has been replaced by a fake. <br /><br />Finding a footprint in a place the colony
+  AI claims has never been visited by humans, Anna begins to suspect that her assignment
+  isn't as simple as she was led to believe. Is she caught up in an elaborate corporate
+  conspiracy, or is she actually losing her mind? Regardless of what horrors she might
+  discover, or what they might do to her sanity, Anna has find the truth before her
+  own mind destroys her.
+edition_information: null
+format: Kindle Edition
+id: '34457942'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499883053l/34457942._SX98_.jpg
+is_ebook: 'true'
+isbn: 0399587330
+isbn13: '9780399587337'
+json: '{"id": "34457942", "isbn": "0399587330", "isbn13": "9780399587337", "text_reviews_count":
+  {"@type": "integer", "#text": "390"}, "uri": "kca://book/amzn1.gr.book.v1.OSgeIlWjkenoTBMHEFJZBw",
+  "title": "Before Mars (Planetfall, #3)", "title_without_series": "Before Mars",
+  "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499883053l/34457942._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499883053l/34457942._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/34457942-before-mars",
+  "num_pages": "352", "format": "Kindle Edition", "edition_information": null, "publisher":
+  "Ace", "publication_day": "17", "publication_year": "2018", "publication_month":
+  "4", "average_rating": "4.09", "ratings_count": "3439", "description": "After months
+  of travel, Anna Kubrin finally arrives on Mars for her new job as a geologist and
+  de facto artist-in-residence. Already she feels like she is losing the connection
+  with her husband and baby at home on Earth--and she''ll be on Mars for over a year.
+  Throwing herself into her work, she tries her best to fit in with the team.<br /><br
+  />But in her new room on the base, Anna finds a mysterious note written in her own
+  handwriting, warning her not to trust the colony psychologist. A note she can''t
+  remember writing. She unpacks her wedding ring, only to find it has been replaced
+  by a fake. <br /><br />Finding a footprint in a place the colony AI claims has never
+  been visited by humans, Anna begins to suspect that her assignment isn''t as simple
+  as she was led to believe. Is she caught up in an elaborate corporate conspiracy,
+  or is she actually losing her mind? Regardless of what horrors she might discover,
+  or what they might do to her sanity, Anna has find the truth before her own mind
+  destroys her.", "authors": {"author": {"id": "3329042", "name": "Emma Newman", "role":
+  null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1425124402p5/3329042.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1425124402p2/3329042.jpg"},
+  "link": "https://www.goodreads.com/author/show/3329042.Emma_Newman", "average_rating":
+  "3.88", "ratings_count": "33334", "text_reviews_count": "5158"}}, "published": "2018",
+  "work": {"id": "55572812", "uri": "kca://work/amzn1.gr.work.v1.iooMOORZm2YPHn6VQdJ-nQ"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/2821547139",
+  "read_at": "Wed May 15 00:00:00 -0700 2019", "started_at": "Tue May 14 00:00:00
+  -0700 2019", "date": "Wed May 15 00:00:00 -0700 2019"}'
+kindle_asin: B07466HF8D
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/34457942-before-mars
+marketplace_id: ATVPDKIKX0DER
+num_pages: '352'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '3325'
+    '@name': to-read
+  - '@count': '228'
+    '@name': science-fiction
+  - '@count': '164'
+    '@name': sci-fi
+  - '@count': '132'
+    '@name': currently-reading
+  - '@count': '47'
+    '@name': scifi
+  - '@count': '40'
+    '@name': mystery
+  - '@count': '39'
+    '@name': fiction
+  - '@count': '29'
+    '@name': audiobook
+  - '@count': '27'
+    '@name': owned
+  - '@count': '23'
+    '@name': favorites
+  - '@count': '17'
+    '@name': dystopia
+  - '@count': '16'
+    '@name': sci-fi-fantasy
+  - '@count': '15'
+    '@name': audiobooks
+  - '@count': '15'
+    '@name': audio
+  - '@count': '14'
+    '@name': sff
+  - '@count': '14'
+    '@name': ebook
+  - '@count': '14'
+    '@name': series
+  - '@count': '14'
+    '@name': space
+  - '@count': '13'
+    '@name': sf
+  - '@count': '13'
+    '@name': kindle
+  - '@count': '12'
+    '@name': read-in-2019
+  - '@count': '12'
+    '@name': mars
+  - '@count': '12'
+    '@name': speculative-fiction
+  - '@count': '11'
+    '@name': thriller
+  - '@count': '10'
+    '@name': library
+  - '@count': '9'
+    '@name': planetfall
+  - '@count': '8'
+    '@name': 2019-reads
+  - '@count': '8'
+    '@name': read-in-2018
+  - '@count': '8'
+    '@name': adult
+  - '@count': '7'
+    '@name': female-author
+  - '@count': '7'
+    '@name': books-i-own
+  - '@count': '7'
+    '@name': scifi-fantasy
+  - '@count': '6'
+    '@name': laser
+  - '@count': '6'
+    '@name': read-2019
+  - '@count': '6'
+    '@name': female-protagonist
+  - '@count': '6'
+    '@name': dystopian
+  - '@count': '6'
+    '@name': audible
+  - '@count': '6'
+    '@name': netgalley
+  - '@count': '5'
+    '@name': read-2023
+  - '@count': '5'
+    '@name': read-in-2022
+  - '@count': '5'
+    '@name': read-2020
+  - '@count': '5'
+    '@name': audio-book
+  - '@count': '5'
+    '@name': book-club
+  - '@count': '5'
+    '@name': suspense
+  - '@count': '5'
+    '@name': science-fiction-fantasy
+  - '@count': '5'
+    '@name': ebooks
+  - '@count': '5'
+    '@name': fantasy
+  - '@count': '5'
+    '@name': 2018-release
+  - '@count': '5'
+    '@name': 2018-releases
+  - '@count': '4'
+    '@name': tbr
+  - '@count': '4'
+    '@name': default
+  - '@count': '4'
+    '@name': fantasy-sci-fi
+  - '@count': '4'
+    '@name': abandoned
+  - '@count': '4'
+    '@name': e-book
+  - '@count': '4'
+    '@name': mystery-thriller
+  - '@count': '4'
+    '@name': 2018-read
+  - '@count': '4'
+    '@name': queer
+  - '@count': '4'
+    '@name': did-not-finish
+  - '@count': '4'
+    '@name': read-2018
+  - '@count': '3'
+    '@name': 2023-read
+  - '@count': '3'
+    '@name': 2020-reads
+  - '@count': '3'
+    '@name': read-in-2020
+  - '@count': '3'
+    '@name': hard-sci-fi
+  - '@count': '3'
+    '@name': space-opera
+  - '@count': '3'
+    '@name': series-to-finish
+  - '@count': '3'
+    '@name': 2019-fiction
+  - '@count': '3'
+    '@name': 2010s
+  - '@count': '3'
+    '@name': post-apocalyptic
+  - '@count': '3'
+    '@name': mental-health
+  - '@count': '3'
+    '@name': space-travel
+  - '@count': '3'
+    '@name': audio-books
+  - '@count': '3'
+    '@name': to-buy
+  - '@count': '3'
+    '@name': sciencefiction
+  - '@count': '3'
+    '@name': hoopla
+  - '@count': '3'
+    '@name': library-book
+  - '@count': '3'
+    '@name': ai
+  - '@count': '3'
+    '@name': dnf
+  - '@count': '3'
+    '@name': artificial-intelligence
+  - '@count': '3'
+    '@name': sci-fi-and-fantasy
+  - '@count': '3'
+    '@name': futuristic
+  - '@count': '3'
+    '@name': giveaways
+  - '@count': '2'
+    '@name': read-in-2024
+  - '@count': '2'
+    '@name': to_read
+  - '@count': '2'
+    '@name': need
+  - '@count': '2'
+    '@name': sci-fi-thriller
+  - '@count': '2'
+    '@name': sequels
+  - '@count': '2'
+    '@name': on-kindle
+  - '@count': '2'
+    '@name': up-next
+  - '@count': '2'
+    '@name': fiction-scifi
+  - '@count': '2'
+    '@name': library-books
+  - '@count': '2'
+    '@name': lgbt
+  - '@count': '2'
+    '@name': read-2021
+  - '@count': '2'
+    '@name': read-in-2021
+  - '@count': '2'
+    '@name': fantasy-scifi
+  - '@count': '2'
+    '@name': genre-sci-fi
+  - '@count': '2'
+    '@name': new-book-releases
+  - '@count': '2'
+    '@name': five-star-reads
+  - '@count': '2'
+    '@name': owned-tbr
+  - '@count': '2'
+    '@name': sf-f
+  - '@count': '2'
+    '@name': hugos
+publication_day: '17'
+publication_month: '4'
+publication_year: '2018'
+published: '2018'
+publisher: Ace
+ratings_count: '3439'
+read_at: '2019-05-15T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/2821547139
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/34457942-before-mars\"\
+  >Before Mars Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0399587330&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/34457942-before-mars?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '1030178'
+    series:
+      description: null
+      id: '182847'
+      note: null
+      numbered: 'true'
+      primary_work_count: '4'
+      series_works_count: '5'
+      title: Planetfall
+    user_position: '3'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '541994'
+        link: https://www.goodreads.com/author/show/541994.Chris_Beckett
+        name: Chris Beckett
+    average_rating: '4.09'
+    id: '18166988'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379954042l/18166988._SX98_.jpg
+    isbn: 0804138680
+    isbn13: '9780804138680'
+    link: https://www.goodreads.com/book/show/18166988-dark-eden
+    num_pages: '441'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379954042l/18166988._SX50_.jpg
+    title: 'Dark Eden (Dark Eden, #1)'
+    title_without_series: Dark Eden
+    uri: kca://book/amzn1.gr.book.v1.U2IlizfifqmaLNyBP4T7Ng
+    work:
+      id: '18027968'
+  - authors:
+      author:
+        id: '51204'
+        link: https://www.goodreads.com/author/show/51204.Alastair_Reynolds
+        name: Alastair Reynolds
+    average_rating: '4.09'
+    id: '40048442'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537475196l/40048442._SX98_.jpg
+    isbn: '1250303559'
+    isbn13: '9781250303554'
+    link: https://www.goodreads.com/book/show/40048442-permafrost
+    num_pages: '133'
+    publication_day: '19'
+    publication_month: '3'
+    publication_year: '2019'
+    ratings_count: '3439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537475196l/40048442._SY75_.jpg
+    title: Permafrost
+    title_without_series: Permafrost
+    uri: kca://book/amzn1.gr.book.v1.HXKMR83hmF9wHXSyiJPgFQ
+    work:
+      id: '62058421'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.09'
+    id: '195443798'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SX98_.jpg
+    isbn: '1035013770'
+    isbn13: '9781035013777'
+    link: https://www.goodreads.com/book/show/195443798-alien-clay
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SY75_.jpg
+    title: Alien Clay
+    title_without_series: Alien Clay
+    uri: kca://book/amzn1.gr.book.v3.U07jHOWpgU_-RRTg
+    work:
+      id: '197089092'
+  - authors:
+      author:
+        id: '18758567'
+        link: https://www.goodreads.com/author/show/18758567.Emily_Tesh
+        name: Emily Tesh
+    average_rating: '4.09'
+    id: '58388343'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668621616l/58388343._SX98_.jpg
+    isbn: '1250834988'
+    isbn13: '9781250834980'
+    link: https://www.goodreads.com/book/show/58388343-some-desperate-glory
+    num_pages: '438'
+    publication_day: '11'
+    publication_month: '4'
+    publication_year: '2023'
+    ratings_count: '3439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668621616l/58388343._SY75_.jpg
+    title: Some Desperate Glory
+    title_without_series: Some Desperate Glory
+    uri: kca://book/amzn1.gr.book.v3.-IfyWJ7UlVOZIFdC
+    work:
+      id: '91580340'
+  - authors:
+      author:
+        id: '15016044'
+        link: https://www.goodreads.com/author/show/15016044.Richard_Swan
+        name: Richard  Swan
+    average_rating: '4.09'
+    id: '214229274'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729793386l/214229274._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/214229274-grave-empire
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729793386l/214229274._SX50_.jpg
+    title: 'Grave Empire (The Great Silence, #1)'
+    title_without_series: Grave Empire
+    uri: kca://book/amzn1.gr.book.v3.nYRlhTQxeseLMNlT
+    work:
+      id: '219934431'
+  - authors:
+      author:
+        id: '97284'
+        link: https://www.goodreads.com/author/show/97284.Mur_Lafferty
+        name: Mur Lafferty
+    average_rating: '4.09'
+    id: '112974852'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685350629l/112974852._SX98_.jpg
+    isbn: 0593098137
+    isbn13: '9780593098134'
+    link: https://www.goodreads.com/book/show/112974852-chaos-terminal
+    num_pages: '369'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685350629l/112974852._SY75_.jpg
+    title: 'Chaos Terminal (The Midsolar Murders, #2)'
+    title_without_series: Chaos Terminal
+    uri: kca://book/amzn1.gr.book.v3.SQevsc_OvvqpwC_E
+    work:
+      id: '97957323'
+  - authors:
+      author:
+        id: '498091'
+        link: https://www.goodreads.com/author/show/498091.Dave_Hutchinson
+        name: Dave Hutchinson
+    average_rating: '4.09'
+    id: '39666185'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1781086095'
+    isbn13: '9781781086094'
+    link: https://www.goodreads.com/book/show/39666185-europe-at-dawn
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3439'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Europe at Dawn (The Fractured Europe Sequence #4)'
+    title_without_series: Europe at Dawn
+    uri: kca://book/amzn1.gr.book.v1.x6dSfir1iEftXf87-KIiOg
+    work:
+      id: '61243731'
+  - authors:
+      author:
+        id: '17078016'
+        link: https://www.goodreads.com/author/show/17078016.Lina_Rather
+        name: Lina Rather
+    average_rating: '4.09'
+    id: '56179337'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628601117l/56179337._SX98_.jpg
+    isbn: '1250782147'
+    isbn13: '9781250782144'
+    link: https://www.goodreads.com/book/show/56179337-sisters-of-the-forsaken-stars
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628601117l/56179337._SY75_.jpg
+    title: 'Sisters of the Forsaken Stars (Our Lady of Endless Worlds, #2)'
+    title_without_series: Sisters of the Forsaken Stars
+    uri: kca://book/amzn1.gr.book.v3.H6qhvF3iQss3L91J
+    work:
+      id: '87513133'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.09'
+    id: '199798188'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704681929l/199798188._SX98_.jpg
+    isbn: '1837861749'
+    isbn13: '9781837861743'
+    link: https://www.goodreads.com/book/show/199798188-saturation-point
+    num_pages: '165'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704681929l/199798188._SY75_.jpg
+    title: Saturation Point
+    title_without_series: Saturation Point
+    uri: kca://book/amzn1.gr.book.v3.iJQejMRi5apPwOKj
+    work:
+      id: '204370575'
+  - authors:
+      author:
+        id: '3365457'
+        link: https://www.goodreads.com/author/show/3365457.Ann_Leckie
+        name: Ann Leckie
+    average_rating: '4.09'
+    id: '62873999'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673303646l/62873999._SX98_.jpg
+    isbn: 031628971X
+    isbn13: '9780316289719'
+    link: https://www.goodreads.com/book/show/62873999-translation-state
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673303646l/62873999._SY75_.jpg
+    title: Translation State
+    title_without_series: Translation State
+    uri: kca://book/amzn1.gr.book.v3.IPz5gT7elXgSEOUd
+    work:
+      id: '98667857'
+  - authors:
+      author:
+        id: '97284'
+        link: https://www.goodreads.com/author/show/97284.Mur_Lafferty
+        name: Mur Lafferty
+    average_rating: '4.09'
+    id: '28962996'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483175828l/28962996._SX98_.jpg
+    isbn: 0316389684
+    isbn13: '9780316389686'
+    link: https://www.goodreads.com/book/show/28962996-six-wakes
+    num_pages: '361'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483175828l/28962996._SY75_.jpg
+    title: Six Wakes
+    title_without_series: Six Wakes
+    uri: kca://book/amzn1.gr.book.v1.j0gHDwDyCP2PEiLfMlUIQA
+    work:
+      id: '46869174'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.09'
+    id: '195790861'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698554344l/195790861._SX98_.jpg
+    isbn: '1250290287'
+    isbn13: '9781250290281'
+    link: https://www.goodreads.com/book/show/195790861-service-model
+    num_pages: '376'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698554344l/195790861._SY75_.jpg
+    title: Service Model
+    title_without_series: Service Model
+    uri: kca://book/amzn1.gr.book.v3.BUtNnpSh6EMDHugG
+    work:
+      id: '197724648'
+  - authors:
+      author:
+        id: '27167'
+        link: https://www.goodreads.com/author/show/27167.Peter_Watts
+        name: Peter Watts
+    average_rating: '4.09'
+    id: '18490708'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380224957l/18490708._SX98_.jpg
+    isbn: 076532802X
+    isbn13: '9780765328021'
+    link: https://www.goodreads.com/book/show/18490708-echopraxia
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380224957l/18490708._SX50_.jpg
+    title: 'Echopraxia (Firefall, #2)'
+    title_without_series: Echopraxia
+    uri: kca://book/amzn1.gr.book.v1.eGVfURdhlrI02un7zjZ1Vg
+    work:
+      id: '26174428'
+  - authors:
+      author:
+        id: '6535608'
+        link: https://www.goodreads.com/author/show/6535608.Miles_Cameron
+        name: Miles  Cameron
+    average_rating: '4.09'
+    id: '56097208'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/56097208-artifact-space
+    num_pages: '578'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3439'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Artifact Space (Arcana Imperii, #1)'
+    title_without_series: Artifact Space
+    uri: kca://book/amzn1.gr.book.v3.1LWcEhO7mV-xiZpk
+    work:
+      id: '87376352'
+  - authors:
+      author:
+        id: '21158'
+        link: https://www.goodreads.com/author/show/21158.Nancy_Kress
+        name: Nancy Kress
+    average_rating: '4.09'
+    id: '31702736'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482256477l/31702736._SX98_.jpg
+    isbn: 0765390299
+    isbn13: '9780765390295'
+    link: https://www.goodreads.com/book/show/31702736-tomorrow-s-kin
+    num_pages: null
+    publication_day: '11'
+    publication_month: '7'
+    publication_year: '2017'
+    ratings_count: '3439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482256477l/31702736._SY75_.jpg
+    title: 'Tomorrow''s Kin (Yesterday''s Kin Trilogy, #1)'
+    title_without_series: Tomorrow's Kin
+    uri: kca://book/amzn1.gr.book.v1.9uTDtCOsEmfxmdb5DIjfxA
+    work:
+      id: '52384449'
+  - authors:
+      author:
+        id: '6469903'
+        link: https://www.goodreads.com/author/show/6469903.Marina_J_Lostetter
+        name: Marina J. Lostetter
+    average_rating: '4.09'
+    id: '32600718'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490802159l/32600718._SX98_.jpg
+    isbn: 0062497847
+    isbn13: '9780062497840'
+    link: https://www.goodreads.com/book/show/32600718-noumenon
+    num_pages: '420'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490802159l/32600718._SY75_.jpg
+    title: 'Noumenon (Noumenon, #1)'
+    title_without_series: Noumenon
+    uri: kca://book/amzn1.gr.book.v1.fxcLja0g128pUa15ngPq-A
+    work:
+      id: '53181429'
+  - authors:
+      author:
+        id: '10518'
+        link: https://www.goodreads.com/author/show/10518.Elizabeth_Moon
+        name: Elizabeth Moon
+    average_rating: '4.09'
+    id: '96284'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320407954l/96284._SX98_.jpg
+    isbn: 034546219X
+    isbn13: '9780345462190'
+    link: https://www.goodreads.com/book/show/96284.Remnant_Population
+    num_pages: '326'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320407954l/96284._SY75_.jpg
+    title: Remnant Population
+    title_without_series: Remnant Population
+    uri: kca://book/amzn1.gr.book.v1.MWY09GsLc4s4SRBpbaj8sQ
+    work:
+      id: '92804'
+  - authors:
+      author:
+        id: '7177350'
+        link: https://www.goodreads.com/author/show/7177350.M_R_Carey
+        name: M.R. Carey
+    average_rating: '4.09'
+    id: '61237044'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665587330l/61237044._SX98_.jpg
+    isbn: 0316504386
+    isbn13: '9780316504386'
+    link: https://www.goodreads.com/book/show/61237044-infinity-gate
+    num_pages: '499'
+    publication_day: '28'
+    publication_month: '3'
+    publication_year: '2023'
+    ratings_count: '3439'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665587330l/61237044._SX50_.jpg
+    title: 'Infinity Gate (Pandominion, #1)'
+    title_without_series: Infinity Gate
+    uri: kca://book/amzn1.gr.book.v3.nLtBR3fqk57sGif8
+    work:
+      id: '96545712'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499883053l/34457942._SY75_.jpg
+started_at: '2019-05-14T00:00:00-07:00'
+text_reviews_count:
+  '#text': '390'
+  '@type': integer
+title: 'Before Mars (Planetfall, #3)'
+title_without_series: Before Mars
+uri: kca://book/amzn1.gr.book.v1.OSgeIlWjkenoTBMHEFJZBw
+url: https://www.goodreads.com/book/show/34457942-before-mars
+work:
+  id: '55572812'
+  uri: kca://work/amzn1.gr.work.v1.iooMOORZm2YPHn6VQdJ-nQ

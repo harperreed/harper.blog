@@ -1,0 +1,749 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.77'
+    id: '432'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1168729178p5/432.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/432.Ayn_Rand
+    name: Ayn Rand
+    ratings_count: '987625'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1168729178p2/432.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '53274'
+average_rating: '3.55'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: <b>Ayn Rand</b> here sets forth the moral principles of Objectivism,
+  the philosophy that holds human life--the life proper to a rational being--as the
+  standard of moral values and regards altruism as incompatible with man's nature,
+  with the creative requirements of his survival, and with a free society.
+edition_information: Mass Paperback Edition
+format: null
+id: '665'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425001997l/665._SX98_.jpg
+is_ebook: 'false'
+isbn: 0451163931
+isbn13: '9780451163936'
+json: '{"id": "665", "isbn": "0451163931", "isbn13": "9780451163936", "text_reviews_count":
+  {"@type": "integer", "#text": "649"}, "uri": "kca://book/amzn1.gr.book.v1.FB5uhQ_dmQLqH7eHJI9m6A",
+  "title": "The Virtue of Selfishness: A New Concept of Egoism", "title_without_series":
+  "The Virtue of Selfishness: A New Concept of Egoism", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425001997l/665._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425001997l/665._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/665.The_Virtue_of_Selfishness",
+  "num_pages": null, "format": null, "edition_information": "Mass Paperback Edition",
+  "publisher": "Signet", "publication_day": null, "publication_year": null, "publication_month":
+  null, "average_rating": "3.55", "ratings_count": "14707", "description": "<b>Ayn
+  Rand</b> here sets forth the moral principles of Objectivism, the philosophy that
+  holds human life--the life proper to a rational being--as the standard of moral
+  values and regards altruism as incompatible with man''s nature, with the creative
+  requirements of his survival, and with a free society.", "authors": {"author": {"id":
+  "432", "name": "Ayn Rand", "role": null, "image_url": {"@nophoto": "false", "#text":
+  "https://images.gr-assets.com/authors/1168729178p5/432.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1168729178p2/432.jpg"},
+  "link": "https://www.goodreads.com/author/show/432.Ayn_Rand", "average_rating":
+  "3.77", "ratings_count": "987625", "text_reviews_count": "53274"}}, "published":
+  null, "work": {"id": "443285", "uri": "kca://work/amzn1.gr.work.v1.GrwlV6lZpm3QpfLHF3oqrA"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417535",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B002OSXD64
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/665.The_Virtue_of_Selfishness
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '16882'
+    '@name': to-read
+  - '@count': '1225'
+    '@name': currently-reading
+  - '@count': '842'
+    '@name': philosophy
+  - '@count': '323'
+    '@name': non-fiction
+  - '@count': '119'
+    '@name': politics
+  - '@count': '117'
+    '@name': nonfiction
+  - '@count': '105'
+    '@name': owned
+  - '@count': '74'
+    '@name': psychology
+  - '@count': '71'
+    '@name': favorites
+  - '@count': '65'
+    '@name': ayn-rand
+  - '@count': '47'
+    '@name': objectivism
+  - '@count': '45'
+    '@name': classics
+  - '@count': '43'
+    '@name': fiction
+  - '@count': '40'
+    '@name': ethics
+  - '@count': '39'
+    '@name': books-i-own
+  - '@count': '30'
+    '@name': essays
+  - '@count': '28'
+    '@name': library
+  - '@count': '26'
+    '@name': economics
+  - '@count': '25'
+    '@name': default
+  - '@count': '25'
+    '@name': my-library
+  - '@count': '23'
+    '@name': history
+  - '@count': '19'
+    '@name': egoism
+  - '@count': '19'
+    '@name': to-buy
+  - '@count': '17'
+    '@name': epistemology
+  - '@count': '16'
+    '@name': selfishness
+  - '@count': '16'
+    '@name': modern
+  - '@count': '15'
+    '@name': ebook
+  - '@count': '14'
+    '@name': owned-books
+  - '@count': '14'
+    '@name': literary
+  - '@count': '14'
+    '@name': contemporary
+  - '@count': '14'
+    '@name': general
+  - '@count': '13'
+    '@name': political-philosophy
+  - '@count': '13'
+    '@name': moral
+  - '@count': '13'
+    '@name': life
+  - '@count': '13'
+    '@name': of
+  - '@count': '13'
+    '@name': conduct
+  - '@count': '13'
+    '@name': c
+  - '@count': '13'
+    '@name': political
+  - '@count': '13'
+    '@name': libertarianism
+  - '@count': '13'
+    '@name': self-help
+  - '@count': '12'
+    '@name': home-library
+  - '@count': '12'
+    '@name': ebooks
+  - '@count': '12'
+    '@name': post
+  - '@count': '12'
+    '@name': calibre
+  - '@count': '12'
+    '@name': abandoned
+  - '@count': '11'
+    '@name': specific
+  - '@count': '11'
+    '@name': aspects
+  - '@count': '11'
+    '@name': '1945'
+  - '@count': '11'
+    '@name': capitalism
+  - '@count': '11'
+    '@name': rand
+  - '@count': '11'
+    '@name': audiobook
+  - '@count': '10'
+    '@name': "filosof\xEDa"
+  - '@count': '10'
+    '@name': filosofia
+  - '@count': '10'
+    '@name': personality
+  - '@count': '10'
+    '@name': surveys
+  - '@count': '10'
+    '@name': philosophical
+  - '@count': '9'
+    '@name': "filosof\xECa"
+  - '@count': '9'
+    '@name': audible
+  - '@count': '9'
+    '@name': business
+  - '@count': '9'
+    '@name': literature
+  - '@count': '8'
+    '@name': bookshelf
+  - '@count': '8'
+    '@name': books
+  - '@count': '8'
+    '@name': my-books
+  - '@count': '8'
+    '@name': kindle
+  - '@count': '8'
+    '@name': e-books
+  - '@count': '7'
+    '@name': dnf
+  - '@count': '7'
+    '@name': on-hold
+  - '@count': '7'
+    '@name': audiobooks
+  - '@count': '7'
+    '@name': liberty
+  - '@count': '7'
+    '@name': personal-library
+  - '@count': '7'
+    '@name': philosophy-religion
+  - '@count': '6'
+    '@name': self-development
+  - '@count': '6'
+    '@name': unread
+  - '@count': '6'
+    '@name': philo
+  - '@count': '6'
+    '@name': audio
+  - '@count': '6'
+    '@name': e-book
+  - '@count': '6'
+    '@name': libertarian
+  - '@count': '6'
+    '@name': american
+  - '@count': '6'
+    '@name': russian
+  - '@count': '5'
+    '@name': "\u0641\u0644\u0633\u0641\u0629"
+  - '@count': '5'
+    '@name': physical-library
+  - '@count': '5'
+    '@name': my-shelf
+  - '@count': '5'
+    '@name': 20th-century
+  - '@count': '5'
+    '@name': have
+  - '@count': '5'
+    '@name': garbage
+  - '@count': '5'
+    '@name': collection
+  - '@count': '5'
+    '@name': partially-read
+  - '@count': '5'
+    '@name': i-own-it
+  - '@count': '5'
+    '@name': political-science
+  - '@count': '5'
+    '@name': re-read
+  - '@count': '5'
+    '@name': thought-provoking
+  - '@count': '5'
+    '@name': physical
+  - '@count': '5'
+    '@name': trash
+  - '@count': '5'
+    '@name': political-theory
+  - '@count': '5'
+    '@name': must-read
+  - '@count': '5'
+    '@name': other
+  - '@count': '5'
+    '@name': i-own
+  - '@count': '5'
+    '@name': sociology
+  - '@count': '5'
+    '@name': ayn
+  - '@count': '5'
+    '@name': favourites
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: Signet
+ratings_count: '14707'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417535
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/665.The_Virtue_of_Selfishness\"\
+  >The Virtue of Selfishness Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0451163931&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/665.The_Virtue_of_Selfishness?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '89275'
+        link: https://www.goodreads.com/author/show/89275.Fr_d_ric_Bastiat
+        name: "Fr\xE9d\xE9ric Bastiat"
+    average_rating: '3.55'
+    id: '1609224'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1933550147'
+    isbn13: '9781933550145'
+    link: https://www.goodreads.com/book/show/1609224.The_Law
+    num_pages: '61'
+    publication_day: '30'
+    publication_month: '6'
+    publication_year: '2011'
+    ratings_count: '14707'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Law
+    title_without_series: The Law
+    uri: kca://book/amzn1.gr.book.v1.I7G3sLMF-z3D0N0Koik9gA
+    work:
+      id: '2548001'
+  - authors:
+      author:
+        id: '2062'
+        link: https://www.goodreads.com/author/show/2062.Henry_Hazlitt
+        name: Henry Hazlitt
+    average_rating: '3.55'
+    id: '3028'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565397589l/3028._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/3028.Economics_in_One_Lesson
+    num_pages: '218'
+    publication_day: null
+    publication_month: null
+    publication_year: '1979'
+    ratings_count: '14707'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565397589l/3028._SX50_.jpg
+    title: Economics in One Lesson
+    title_without_series: Economics in One Lesson
+    uri: kca://book/amzn1.gr.book.v1.Z3Z_wYLn5VGxl4WoxZa8_Q
+    work:
+      id: '6894'
+  - authors:
+      author:
+        id: '28637'
+        link: https://www.goodreads.com/author/show/28637.Leonard_Edward_Read
+        name: Leonard Edward Read
+    average_rating: '3.55'
+    id: '2153998'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346788984l/2153998._SX98_.jpg
+    isbn: '1572462094'
+    isbn13: '9781572462090'
+    link: https://www.goodreads.com/book/show/2153998.I_Pencil
+    num_pages: '11'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14707'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346788984l/2153998._SY75_.jpg
+    title: 'I, Pencil: My Family Tree As Told to Leonard E. Read'
+    title_without_series: 'I, Pencil: My Family Tree As Told to Leonard E. Read'
+    uri: kca://book/amzn1.gr.book.v1.qQWEGxspXhE8Pi7zBf3AIQ
+    work:
+      id: '2159500'
+  - authors:
+      author:
+        id: '1421'
+        link: https://www.goodreads.com/author/show/1421.Leonard_Peikoff
+        name: Leonard Peikoff
+    average_rating: '3.55'
+    id: '99951'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0452011019
+    isbn13: '9780452011014'
+    link: https://www.goodreads.com/book/show/99951.Objectivism
+    num_pages: '493'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14707'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Objectivism: The Philosophy of Ayn Rand'
+    title_without_series: 'Objectivism: The Philosophy of Ayn Rand'
+    uri: kca://book/amzn1.gr.book.v1.KmJYAfhJwahykdHY_CgPlw
+    work:
+      id: '114427'
+  - authors:
+      author:
+        id: '670307'
+        link: https://www.goodreads.com/author/show/670307.Friedrich_A_Hayek
+        name: Friedrich A. Hayek
+    average_rating: '3.55'
+    id: '299215'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327787673l/299215._SX98_.jpg
+    isbn: 0226320618
+    isbn13: '9780226320618'
+    link: https://www.goodreads.com/book/show/299215.The_Road_to_Serfdom
+    num_pages: '274'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14707'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327787673l/299215._SY75_.jpg
+    title: The Road to Serfdom
+    title_without_series: The Road to Serfdom
+    uri: kca://book/amzn1.gr.book.v1.MDhr4LNwwCHfhhtMH5LVew
+    work:
+      id: '217623'
+  - authors:
+      author:
+        id: '35272'
+        link: https://www.goodreads.com/author/show/35272.Nicholas_Wapshott
+        name: Nicholas Wapshott
+    average_rating: '3.55'
+    id: '13707751'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0393343634
+    isbn13: '9780393343632'
+    link: https://www.goodreads.com/book/show/13707751-keynes-hayek
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14707'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Keynes Hayek: The Clash that Defined Modern Economics'
+    title_without_series: 'Keynes Hayek: The Clash that Defined Modern Economics'
+    uri: kca://book/amzn1.gr.book.v1.7k_ZHeOnRmXvoZEZYYmFWA
+    work:
+      id: '15872659'
+  - authors:
+      author:
+        id: '9843'
+        link: https://www.goodreads.com/author/show/9843.Eric_Hoffer
+        name: Eric Hoffer
+    average_rating: '3.55'
+    id: '15916'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410129044l/15916._SX98_.jpg
+    isbn: 0060505915
+    isbn13: '9780060505912'
+    link: https://www.goodreads.com/book/show/15916.The_True_Believer
+    num_pages: '177'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14707'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410129044l/15916._SY75_.jpg
+    title: 'The True Believer: Thoughts on the Nature of Mass Movements'
+    title_without_series: 'The True Believer: Thoughts on the Nature of Mass Movements'
+    uri: kca://book/amzn1.gr.book.v1.ZRw3W9sXzbwT1ejhOx82NQ
+    work:
+      id: '17715'
+  - authors:
+      author:
+        id: '98317'
+        link: https://www.goodreads.com/author/show/98317.Hans_Hermann_Hoppe
+        name: Hans-Hermann Hoppe
+    average_rating: '3.55'
+    id: '980031'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379379301l/980031._SX98_.jpg
+    isbn: 0765808684
+    isbn13: '9780765808684'
+    link: https://www.goodreads.com/book/show/980031.Democracy
+    num_pages: '304'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14707'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379379301l/980031._SX50_.jpg
+    title: 'Democracy: The God That Failed'
+    title_without_series: 'Democracy: The God That Failed'
+    uri: kca://book/amzn1.gr.book.v1.deIsQ7UrOFOhUi95drtW7Q
+    work:
+      id: '964920'
+  - authors:
+      author:
+        id: '18092422'
+        link: https://www.goodreads.com/author/show/18092422.Bronze_Age_Pervert
+        name: Bronze Age Pervert
+    average_rating: '3.55'
+    id: '40388177'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/40388177-bronze-age-mindset
+    num_pages: '198'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14707'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Bronze Age Mindset
+    title_without_series: Bronze Age Mindset
+    uri: kca://book/amzn1.gr.book.v1.qgR5H7mJJM8JyLJTawQOmg
+    work:
+      id: '62697748'
+  - authors:
+      author:
+        id: '46810'
+        link: https://www.goodreads.com/author/show/46810.Murray_N_Rothbard
+        name: Murray N. Rothbard
+    average_rating: '3.55'
+    id: '81980'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568753869l/81980._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/81980.America_s_Great_Depression
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14707'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568753869l/81980._SX50_.jpg
+    title: America's Great Depression
+    title_without_series: America's Great Depression
+    uri: kca://book/amzn1.gr.book.v1.ZrmqHsV5hFpVq0vl7fCx5Q
+    work:
+      id: '79154'
+  - authors:
+      author:
+        id: '2476'
+        link: https://www.goodreads.com/author/show/2476.Noam_Chomsky
+        name: Noam Chomsky
+    average_rating: '3.55'
+    id: '12615'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1583225366'
+    isbn13: '9781583225363'
+    link: https://www.goodreads.com/book/show/12615.Media_Control
+    num_pages: '103'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14707'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Media Control: The Spectacular Achievements of Propaganda'
+    title_without_series: 'Media Control: The Spectacular Achievements of Propaganda'
+    uri: kca://book/amzn1.gr.book.v1.55K7_ioFrfPk10BTc2wBRg
+    work:
+      id: '2935858'
+  - authors:
+      author:
+        id: '46810'
+        link: https://www.goodreads.com/author/show/46810.Murray_N_Rothbard
+        name: Murray N. Rothbard
+    average_rating: '3.55'
+    id: '1268994'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564204356l/1268994._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/1268994.For_a_New_Liberty
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14707'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564204356l/1268994._SY75_.jpg
+    title: 'For a New Liberty: The Libertarian Manifesto'
+    title_without_series: 'For a New Liberty: The Libertarian Manifesto'
+    uri: kca://book/amzn1.gr.book.v1.rkSCQrKuOj2NwBMcWbeWlA
+    work:
+      id: '1696120'
+  - authors:
+      author:
+        id: '150737'
+        link: https://www.goodreads.com/author/show/150737.Max_Stirner
+        name: Max Stirner
+    average_rating: '3.55'
+    id: '416318'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1294696844l/416318._SX98_.jpg
+    isbn: '0521450160'
+    isbn13: '9780521450164'
+    link: https://www.goodreads.com/book/show/416318.The_Ego_and_Its_Own
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14707'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1294696844l/416318._SY75_.jpg
+    title: The Ego and Its Own
+    title_without_series: The Ego and Its Own
+    uri: kca://book/amzn1.gr.book.v1.8iaSMNoa9cJgsVVMKfnIqw
+    work:
+      id: '1324141'
+  - authors:
+      author:
+        id: '1264'
+        link: https://www.goodreads.com/author/show/1264.Jean_Baudrillard
+        name: Jean Baudrillard
+    average_rating: '3.55'
+    id: '22613'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1727280700l/22613._SY160_.jpg
+    isbn: '0472065211'
+    isbn13: '9780472065219'
+    link: https://www.goodreads.com/book/show/22613.Simulacra_and_Simulation
+    num_pages: '164'
+    publication_day: null
+    publication_month: null
+    publication_year: '1994'
+    ratings_count: '14707'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1727280700l/22613._SY75_.jpg
+    title: Simulacra and Simulation
+    title_without_series: Simulacra and Simulation
+    uri: kca://book/amzn1.gr.book.v1.nYHYZzzF9Lv3qn-pKqyN5A
+    work:
+      id: '850798'
+  - authors:
+      author:
+        id: '970747'
+        link: https://www.goodreads.com/author/show/970747.Byung_Chul_Han
+        name: Byung-Chul Han
+    average_rating: '3.55'
+    id: '36646716'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/36646716-shanzhai
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14707'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Shanzhai: Deconstruction in Chinese (Untimely Meditations Book 8)'
+    title_without_series: 'Shanzhai: Deconstruction in Chinese'
+    uri: kca://book/amzn1.gr.book.v1.14KFpJCXMEfJv2j2GwGf3w
+    work:
+      id: '15351061'
+  - authors:
+      author:
+        id: '46810'
+        link: https://www.goodreads.com/author/show/46810.Murray_N_Rothbard
+        name: Murray N. Rothbard
+    average_rating: '3.55'
+    id: '81977'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1285008975l/81977._SX98_.jpg
+    isbn: 0945466447
+    isbn13: '9780945466444'
+    link: https://www.goodreads.com/book/show/81977.What_Has_Government_Done_to_Our_Money_and_The_Case_for_a_100_Percent_Gold_Dollar
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '14707'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1285008975l/81977._SY75_.jpg
+    title: What Has Government Done to Our Money? and The Case for a 100 Percent Gold
+      Dollar
+    title_without_series: What Has Government Done to Our Money? and The Case for
+      a 100 Percent Gold Dollar
+    uri: kca://book/amzn1.gr.book.v1.muxk0SzrD4Xxd1P02TFKXw
+    work:
+      id: '487365'
+  - authors:
+      author:
+        id: '3073528'
+        link: https://www.goodreads.com/author/show/3073528._
+        name: "\u0645\u0635\u0637\u0641\u0649 \u062D\u062C\u0627\u0632\u064A"
+    average_rating: '3.55'
+    id: '6856703'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580658341l/6856703._SX98_.jpg
+    isbn: '9953680752'
+    isbn13: '9789953680750'
+    link: https://www.goodreads.com/book/show/6856703
+    num_pages: '256'
+    publication_day: null
+    publication_month: null
+    publication_year: '2005'
+    ratings_count: '14707'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580658341l/6856703._SX50_.jpg
+    title: "\u0627\u0644\u062A\u062E\u0644\u0641 \u0627\u0644\u0627\u062C\u062A\u0645\
+      \u0627\u0639\u064A: \u0645\u062F\u062E\u0644 \u0625\u0644\u0649 \u0633\u064A\
+      \u0643\u0648\u0644\u0648\u062C\u064A\u0629 \u0627\u0644\u0625\u0646\u0633\u0627\
+      \u0646 \u0627\u0644\u0645\u0642\u0647\u0648\u0631"
+    title_without_series: "\u0627\u0644\u062A\u062E\u0644\u0641 \u0627\u0644\u0627\
+      \u062C\u062A\u0645\u0627\u0639\u064A: \u0645\u062F\u062E\u0644 \u0625\u0644\u0649\
+      \ \u0633\u064A\u0643\u0648\u0644\u0648\u062C\u064A\u0629 \u0627\u0644\u0625\u0646\
+      \u0633\u0627\u0646 \u0627\u0644\u0645\u0642\u0647\u0648\u0631"
+    uri: kca://book/amzn1.gr.book.v1.6_knnhwWDMKRXTaGlW4sdA
+    work:
+      id: '7070880'
+  - authors:
+      author:
+        id: '15415'
+        link: https://www.goodreads.com/author/show/15415.Zecharia_Sitchin
+        name: Zecharia Sitchin
+    average_rating: '3.55'
+    id: '508957'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 038039362X
+    isbn13: '9780380393626'
+    link: https://www.goodreads.com/book/show/508957.The_12th_Planet
+    num_pages: '438'
+    publication_day: null
+    publication_month: null
+    publication_year: '2007'
+    ratings_count: '14707'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The 12th Planet (Earth Chronicles, #1)'
+    title_without_series: The 12th Planet
+    uri: kca://book/amzn1.gr.book.v1.VOLFOOrtu0VUfdALmU30zg
+    work:
+      id: '496978'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425001997l/665._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '649'
+  '@type': integer
+title: 'The Virtue of Selfishness: A New Concept of Egoism'
+title_without_series: 'The Virtue of Selfishness: A New Concept of Egoism'
+uri: kca://book/amzn1.gr.book.v1.FB5uhQ_dmQLqH7eHJI9m6A
+url: https://www.goodreads.com/book/show/665.The_Virtue_of_Selfishness
+work:
+  id: '443285'
+  uri: kca://work/amzn1.gr.work.v1.GrwlV6lZpm3QpfLHF3oqrA

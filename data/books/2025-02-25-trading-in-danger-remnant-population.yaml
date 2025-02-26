@@ -1,0 +1,538 @@
+asin: B000FBJDGQ
+authors:
+  author:
+    average_rating: '4.08'
+    id: '10518'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1199059504p5/10518.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/10518.Elizabeth_Moon
+    name: Elizabeth Moon
+    ratings_count: '208228'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1199059504p2/10518.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '10919'
+average_rating: '4.30'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: null
+edition_information: null
+format: null
+id: '4988897'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn:
+  '@nil': 'true'
+isbn13:
+  '@nil': 'true'
+json: '{"id": "4988897", "isbn": {"@nil": "true"}, "isbn13": {"@nil": "true"}, "text_reviews_count":
+  {"@type": "integer", "#text": "5"}, "uri": "kca://book/amzn1.gr.book.v1.2nkpLfFnOD6h7yOQV9tSNA",
+  "title": "Trading in Danger / Remnant Population", "title_without_series": "Trading
+  in Danger / Remnant Population", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/4988897-trading-in-danger-remnant-population",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "4.30", "ratings_count": "303", "description": null, "authors": {"author": {"id":
+  "10518", "name": "Elizabeth Moon", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1199059504p5/10518.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1199059504p2/10518.jpg"},
+  "link": "https://www.goodreads.com/author/show/10518.Elizabeth_Moon", "average_rating":
+  "4.08", "ratings_count": "208228", "text_reviews_count": "10919"}}, "published":
+  null, "work": {"id": "21693830", "uri": "kca://work/amzn1.gr.work.v1.qzkTMS1CvMuI2il8ubLc4w"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/42404733",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B000FBJDGQ
+language_code: en-US
+large_image_url: null
+link: https://www.goodreads.com/book/show/4988897-trading-in-danger-remnant-population
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '132'
+    '@name': to-read
+  - '@count': '9'
+    '@name': sci-fi
+  - '@count': '7'
+    '@name': science-fiction
+  - '@count': '5'
+    '@name': currently-reading
+  - '@count': '4'
+    '@name': fantasy
+  - '@count': '4'
+    '@name': space-opera
+  - '@count': '2'
+    '@name': audio_wanted
+  - '@count': '2'
+    '@name': fiction
+  - '@count': '2'
+    '@name': owned
+  - '@count': '1'
+    '@name': m_moon-elizabeth_r
+  - '@count': '1'
+    '@name': science
+  - '@count': '1'
+    '@name': sf-military-sf
+  - '@count': '1'
+    '@name': recommended-scifi
+  - '@count': '1'
+    '@name': scifi-read
+  - '@count': '1'
+    '@name': view
+  - '@count': '1'
+    '@name': own-a-copy-physical
+  - '@count': '1'
+    '@name': set-lingo-music-fake
+  - '@count': '1'
+    '@name': moonelizabeth
+  - '@count': '1'
+    '@name': re-reads
+  - '@count': '1'
+    '@name': politics-fictional
+  - '@count': '1'
+    '@name': fictionwise-ebook
+  - '@count': '1'
+    '@name': coming-of-age
+  - '@count': '1'
+    '@name': anthology
+  - '@count': '1'
+    '@name': audiowanted
+  - '@count': '1'
+    '@name': toread
+  - '@count': '1'
+    '@name': elizabeth-moon
+  - '@count': '1'
+    '@name': ll-want_audio
+  - '@count': '1'
+    '@name': ll-read
+  - '@count': '1'
+    '@name': vatta-war-peace
+  - '@count': '1'
+    '@name': speculative-fiction
+  - '@count': '1'
+    '@name': ni
+  - '@count': '1'
+    '@name': ptntl-srs-seqs2
+  - '@count': '1'
+    '@name': 10-series-being-read
+  - '@count': '1'
+    '@name': to-read-long-list
+  - '@count': '1'
+    '@name': reviewed
+  - '@count': '1'
+    '@name': to-read-jd
+  - '@count': '1'
+    '@name': favorites
+  - '@count': '1'
+    '@name': keeper
+  - '@count': '1'
+    '@name': girlpower
+  - '@count': '1'
+    '@name': no-longer-own
+  - '@count': '1'
+    '@name': military-space-opera
+  - '@count': '1'
+    '@name': kindle
+  - '@count': '1'
+    '@name': space
+  - '@count': '1'
+    '@name': setting-future
+  - '@count': '1'
+    '@name': ebook
+  - '@count': '1'
+    '@name': fun-reading
+  - '@count': '1'
+    '@name': series-vattas-war
+  - '@count': '1'
+    '@name': scifi
+  - '@count': '-1'
+    '@name': ptntl-srs-seqs
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '303'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/42404733
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/4988897-trading-in-danger-remnant-population\"\
+  >Trading in Danger / Remnant Population Reviews</a></h1></div>\n  <iframe sandbox\
+  \ id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B000FBJDGQ&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/4988897-trading-in-danger-remnant-population?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '507838'
+    series:
+      description: "This series should definitely be read in order from the beginning.\
+        \  Necessary information from previous books is recapped as a refresher in\
+        \ each, but is insufficient for full appreciation.\n    \n    The sequel series\
+        \ is <a href=\"https://www.goodreads.com/series/193220-vatta-s-peace\">Vatta's\
+        \ Peace. </a>"
+      id: '41099'
+      note: null
+      numbered: 'true'
+      primary_work_count: '5'
+      series_works_count: '16'
+      title: Vatta's War
+    user_position: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '26'
+        link: https://www.goodreads.com/author/show/26.Anne_McCaffrey
+        name: Anne McCaffrey
+    average_rating: '4.30'
+    id: '61975'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0345484266
+    isbn13: '9780345484260'
+    link: https://www.goodreads.com/book/show/61975.Dragonflight
+    num_pages: '299'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '303'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Dragonflight (Dragonriders of Pern, #1)'
+    title_without_series: Dragonflight
+    uri: kca://book/amzn1.gr.book.v1.LPtkAMAtZAlXUoxJBjmJDg
+    work:
+      id: '2467422'
+  - authors:
+      author:
+        id: '7737246'
+        link: https://www.goodreads.com/author/show/7737246.Glynn_Stewart
+        name: Glynn Stewart
+    average_rating: '4.30'
+    id: '204952812'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1709093066l/204952812._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/204952812-the-exodus-gambit
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '303'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1709093066l/204952812._SY75_.jpg
+    title: 'The Exodus Gambit (House Adamant, #1)'
+    title_without_series: The Exodus Gambit
+    uri: kca://book/amzn1.gr.book.v3.xr5_wUax4q3XDRgu
+    work:
+      id: '210912629'
+  - authors:
+      author:
+        id: '47826412'
+        link: https://www.goodreads.com/author/show/47826412.Sean_Fenian
+        name: Sean Fenian
+    average_rating: '4.30'
+    id: '212288300'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/212288300-united-fleet
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '303'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: United Fleet (The Stardock Trilogy Book 2)
+    title_without_series: United Fleet
+    uri: kca://book/amzn1.gr.book.v3.ymPXyT03DpcFj3Ym
+    work:
+      id: '218525249'
+  - authors:
+      author:
+        id: '47826412'
+        link: https://www.goodreads.com/author/show/47826412.Sean_Fenian
+        name: Sean Fenian
+    average_rating: '4.30'
+    id: '208503716'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/208503716-bearing-gifts
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '303'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Bearing Gifts (The Stardock Trilogy Book 1)
+    title_without_series: Bearing Gifts
+    uri: kca://book/amzn1.gr.book.v3.FKL2Twu_2a7jR-at
+    work:
+      id: '214628456'
+  - authors:
+      author:
+        id: '5270144'
+        link: https://www.goodreads.com/author/show/5270144.Irina_Shapiro
+        name: Irina Shapiro
+    average_rating: '4.30'
+    id: '24824065'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/24824065-the-passage
+    num_pages: '383'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '303'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Passage (Wonderland #1)'
+    title_without_series: The Passage
+    uri: kca://book/amzn1.gr.book.v1.iw4BNdqs80B_U44eBgVzMg
+    work:
+      id: '44465855'
+  - authors:
+      author:
+        id: '5270144'
+        link: https://www.goodreads.com/author/show/5270144.Irina_Shapiro
+        name: Irina Shapiro
+    average_rating: '4.30'
+    id: '25608041'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/25608041-wonderland
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '303'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Wonderland (Wonderland #2)'
+    title_without_series: Wonderland
+    uri: kca://book/amzn1.gr.book.v1.fenFV131q02kTE2iwBUpaQ
+    work:
+      id: '45418312'
+  - authors:
+      author:
+        id: '4763'
+        link: https://www.goodreads.com/author/show/4763.John_Scalzi
+        name: John Scalzi
+    average_rating: '4.30'
+    id: '61885029'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683564155l/61885029._SX98_.jpg
+    isbn: 0765389223
+    isbn13: '9780765389220'
+    link: https://www.goodreads.com/book/show/61885029-starter-villain
+    num_pages: '264'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '303'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683564155l/61885029._SY75_.jpg
+    title: Starter Villain
+    title_without_series: Starter Villain
+    uri: kca://book/amzn1.gr.book.v3.lw5OQ1LT9jh6bQd-
+    work:
+      id: '97563902'
+  - authors:
+      author:
+        id: '3267859'
+        link: https://www.goodreads.com/author/show/3267859.Jennifer_A_Nielsen
+        name: Jennifer A. Nielsen
+    average_rating: '4.30'
+    id: '12432220'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585683740l/12432220._SX98_.jpg
+    isbn: 0545284139
+    isbn13: '9780545284134'
+    link: https://www.goodreads.com/book/show/12432220-the-false-prince
+    num_pages: '342'
+    publication_day: '1'
+    publication_month: '4'
+    publication_year: '2012'
+    ratings_count: '303'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585683740l/12432220._SX50_.jpg
+    title: 'The False Prince (Ascendance, #1)'
+    title_without_series: The False Prince
+    uri: kca://book/amzn1.gr.book.v1.j9SbVw0ML0eF91L9nTkbQg
+    work:
+      id: '16221764'
+  - authors:
+      author:
+        id: '1598076'
+        link: https://www.goodreads.com/author/show/1598076.Sarah_MacLean
+        name: Sarah MacLean
+    average_rating: '4.30'
+    id: '6584134'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1286649993l/6584134._SX98_.jpg
+    isbn: 0061852058
+    isbn13: '9780061852053'
+    link: https://www.goodreads.com/book/show/6584134-nine-rules-to-break-when-romancing-a-rake
+    num_pages: '397'
+    publication_day: '30'
+    publication_month: '3'
+    publication_year: '2010'
+    ratings_count: '303'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1286649993l/6584134._SY75_.jpg
+    title: 'Nine Rules to Break When Romancing a Rake (Love By Numbers, #1)'
+    title_without_series: Nine Rules to Break When Romancing a Rake
+    uri: kca://book/amzn1.gr.book.v1.tmcY39BQeRiFOdxWmP1CnQ
+    work:
+      id: '6777627'
+  - authors:
+      author:
+        id: '1598076'
+        link: https://www.goodreads.com/author/show/1598076.Sarah_MacLean
+        name: Sarah MacLean
+    average_rating: '4.30'
+    id: '63874598'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686575270l/63874598._SX98_.jpg
+    isbn: 0063056798
+    isbn13: '9780063056794'
+    link: https://www.goodreads.com/book/show/63874598-knockout
+    num_pages: '404'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '303'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686575270l/63874598._SY75_.jpg
+    title: 'Knockout (Hell''s Belles, #3)'
+    title_without_series: Knockout
+    uri: kca://book/amzn1.gr.book.v3.kQ6ZrVHIk7ytb6hG
+    work:
+      id: '83182580'
+  - authors:
+      author:
+        id: '1330145'
+        link: https://www.goodreads.com/author/show/1330145.Jenny_Schwartz
+        name: Jenny Schwartz
+    average_rating: '4.30'
+    id: '105733475'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675802876l/105733475._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/105733475-doctor-galaxy
+    num_pages: '231'
+    publication_day: null
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '303'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675802876l/105733475._SY75_.jpg
+    title: 'Doctor Galaxy (Pax Galactica #1)'
+    title_without_series: Doctor Galaxy
+    uri: kca://book/amzn1.gr.book.v3.HkaWi-ZFZMJUPnXS
+    work:
+      id: '96639023'
+  - authors:
+      author:
+        id: '4704592'
+        link: https://www.goodreads.com/author/show/4704592.Chloe_Garner
+        name: Chloe Garner
+    average_rating: '4.30'
+    id: '56258463'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/56258463-the-flight-of-the-kingfisher
+    num_pages: '405'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '303'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Flight of the Kingfisher (Carbon Chronicles #1)'
+    title_without_series: The Flight of the Kingfisher
+    uri: kca://book/amzn1.gr.book.v3.W8bVu2NEqbvcPePn
+    work:
+      id: '87639227'
+  - authors:
+      author:
+        id: '19912078'
+        link: https://www.goodreads.com/author/show/19912078.FortySixtyfour
+        name: FortySixtyfour
+    average_rating: '4.30'
+    id: '61236765'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/61236765-re
+    num_pages: '818'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '303'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'RE: Trailer Trash: A Do-Over Story'
+    title_without_series: 'RE: Trailer Trash: A Do-Over Story'
+    uri: kca://book/amzn1.gr.book.v3.5O6DXyTpHYCPWhyR
+    work:
+      id: '75353300'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '5'
+  '@type': integer
+title: Trading in Danger / Remnant Population
+title_without_series: Trading in Danger / Remnant Population
+uri: kca://book/amzn1.gr.book.v1.2nkpLfFnOD6h7yOQV9tSNA
+url: https://www.goodreads.com/book/show/4988897-trading-in-danger-remnant-population
+work:
+  id: '21693830'
+  uri: kca://work/amzn1.gr.work.v1.qzkTMS1CvMuI2il8ubLc4w

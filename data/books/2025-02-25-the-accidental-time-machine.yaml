@@ -1,0 +1,747 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.98'
+    id: '12476'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1630694226p5/12476.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/12476.Joe_Haldeman
+    name: Joe Haldeman
+    ratings_count: '271469'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1630694226p2/12476.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '15043'
+average_rating: '3.73'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: Joe Haldeman "has quietly become one of the most important science fiction
+  writers of our time" (<i>Rocky Mountain News</i>). Now he delivers a provocative
+  novel of a man who stumbles upon the discovery of a lifetime-or many lifetimes.
+  <br /><br /> Grad-school dropout Matt Fuller is toiling as a lowly research assistant
+  at MIT when, while measuring subtle quantum forces that relate to time changes in
+  gravity and electromagnetic force, his calibrator turns into a time machine. With
+  a dead-end job and a girlfriend who has left him for another man, Matt has nothing
+  to lose taking a time machine trip himself-or so he thinks.
+edition_information: null
+format: null
+id: '21608'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: 0441014992
+isbn13: '9780441014996'
+json: '{"id": "21608", "isbn": "0441014992", "isbn13": "9780441014996", "text_reviews_count":
+  {"@type": "integer", "#text": "848"}, "uri": "kca://book/amzn1.gr.book.v1.9wohphBiGsW8bkQeCTF8oA",
+  "title": "The Accidental Time Machine", "title_without_series": "The Accidental
+  Time Machine", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/21608.The_Accidental_Time_Machine",
+  "num_pages": "278", "format": null, "edition_information": null, "publisher": "Ace",
+  "publication_day": "7", "publication_year": "2007", "publication_month": "8", "average_rating":
+  "3.73", "ratings_count": "10416", "description": "Joe Haldeman \"has quietly become
+  one of the most important science fiction writers of our time\" (<i>Rocky Mountain
+  News</i>). Now he delivers a provocative novel of a man who stumbles upon the discovery
+  of a lifetime-or many lifetimes. <br /><br /> Grad-school dropout Matt Fuller is
+  toiling as a lowly research assistant at MIT when, while measuring subtle quantum
+  forces that relate to time changes in gravity and electromagnetic force, his calibrator
+  turns into a time machine. With a dead-end job and a girlfriend who has left him
+  for another man, Matt has nothing to lose taking a time machine trip himself-or
+  so he thinks.", "authors": {"author": {"id": "12476", "name": "Joe Haldeman", "role":
+  null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1630694226p5/12476.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1630694226p2/12476.jpg"},
+  "link": "https://www.goodreads.com/author/show/12476.Joe_Haldeman", "average_rating":
+  "3.98", "ratings_count": "271469", "text_reviews_count": "15043"}}, "published":
+  "2007", "work": {"id": "22743", "uri": "kca://work/amzn1.gr.work.v1.iou0KRM5sjgRV-XpCbF8cQ"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/12429120",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B0015DWMRA
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/21608.The_Accidental_Time_Machine
+marketplace_id: ATVPDKIKX0DER
+num_pages: '278'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '6944'
+    '@name': to-read
+  - '@count': '521'
+    '@name': science-fiction
+  - '@count': '384'
+    '@name': time-travel
+  - '@count': '332'
+    '@name': currently-reading
+  - '@count': '304'
+    '@name': sci-fi
+  - '@count': '167'
+    '@name': fiction
+  - '@count': '98'
+    '@name': scifi
+  - '@count': '68'
+    '@name': owned
+  - '@count': '49'
+    '@name': sf
+  - '@count': '39'
+    '@name': favorites
+  - '@count': '35'
+    '@name': audiobook
+  - '@count': '30'
+    '@name': kindle
+  - '@count': '27'
+    '@name': sci-fi-fantasy
+  - '@count': '23'
+    '@name': default
+  - '@count': '22'
+    '@name': fantasy
+  - '@count': '21'
+    '@name': audio
+  - '@count': '21'
+    '@name': adventure
+  - '@count': '20'
+    '@name': library
+  - '@count': '19'
+    '@name': audiobooks
+  - '@count': '17'
+    '@name': speculative-fiction
+  - '@count': '16'
+    '@name': ebook
+  - '@count': '15'
+    '@name': science
+  - '@count': '14'
+    '@name': joe-haldeman
+  - '@count': '13'
+    '@name': audible
+  - '@count': '13'
+    '@name': time
+  - '@count': '12'
+    '@name': books-i-own
+  - '@count': '12'
+    '@name': science-fiction-fantasy
+  - '@count': '10'
+    '@name': dystopia
+  - '@count': '10'
+    '@name': novels
+  - '@count': '9'
+    '@name': book-club
+  - '@count': '8'
+    '@name': standalone
+  - '@count': '8'
+    '@name': to-buy
+  - '@count': '7'
+    '@name': male-author
+  - '@count': '7'
+    '@name': timetravel
+  - '@count': '7'
+    '@name': future
+  - '@count': '7'
+    '@name': reviewed
+  - '@count': '7'
+    '@name': my-library
+  - '@count': '6'
+    '@name': dnf
+  - '@count': '6'
+    '@name': wish-list
+  - '@count': '6'
+    '@name': sci-fi-time-travel
+  - '@count': '6'
+    '@name': borrowed
+  - '@count': '6'
+    '@name': maybe
+  - '@count': '6'
+    '@name': sff
+  - '@count': '6'
+    '@name': read-in-2009
+  - '@count': '6'
+    '@name': audio-book
+  - '@count': '6'
+    '@name': travel
+  - '@count': '6'
+    '@name': scifi-fantasy
+  - '@count': '6'
+    '@name': sf-fantasy
+  - '@count': '6'
+    '@name': humor
+  - '@count': '5'
+    '@name': novel
+  - '@count': '5'
+    '@name': did-not-finish
+  - '@count': '5'
+    '@name': my-books
+  - '@count': '5'
+    '@name': genre-sci-fi
+  - '@count': '5'
+    '@name': english
+  - '@count': '5'
+    '@name': books
+  - '@count': '5'
+    '@name': mystery
+  - '@count': '5'
+    '@name': to-get
+  - '@count': '5'
+    '@name': calibre
+  - '@count': '5'
+    '@name': adult-fiction
+  - '@count': '5'
+    '@name': scifi-time-travel
+  - '@count': '5'
+    '@name': fantasy-sci-fi
+  - '@count': '5'
+    '@name': read-2009
+  - '@count': '4'
+    '@name': owned-unread
+  - '@count': '4'
+    '@name': tbr
+  - '@count': '4'
+    '@name': digital
+  - '@count': '4'
+    '@name': finished
+  - '@count': '4'
+    '@name': abandoned
+  - '@count': '4'
+    '@name': literature
+  - '@count': '4'
+    '@name': need-to-buy
+  - '@count': '4'
+    '@name': haldeman-joe
+  - '@count': '4'
+    '@name': haldeman
+  - '@count': '4'
+    '@name': sciencefiction
+  - '@count': '4'
+    '@name': owned-books
+  - '@count': '4'
+    '@name': to-read-sci-fi
+  - '@count': '4'
+    '@name': fantasy-scifi
+  - '@count': '4'
+    '@name': ebooks
+  - '@count': '3'
+    '@name': downloaded
+  - '@count': '3'
+    '@name': donated
+  - '@count': '3'
+    '@name': wanted
+  - '@count': '3'
+    '@name': nebula-award-nominees
+  - '@count': '3'
+    '@name': sf-time-travel
+  - '@count': '3'
+    '@name': own-not-read
+  - '@count': '3'
+    '@name': scify-geniuses
+  - '@count': '3'
+    '@name': nebula-nominees
+  - '@count': '3'
+    '@name': sci-fi-read
+  - '@count': '3'
+    '@name': 2014-reads
+  - '@count': '3'
+    '@name': bookclub
+  - '@count': '3'
+    '@name': to-read-scifi
+  - '@count': '3'
+    '@name': fantascienza
+  - '@count': '3'
+    '@name': 2000s
+  - '@count': '3'
+    '@name': language-english
+  - '@count': '3'
+    '@name': futuristic
+  - '@count': '3'
+    '@name': intrigue
+  - '@count': '3'
+    '@name': hard-scifi
+  - '@count': '3'
+    '@name': signed
+  - '@count': '3'
+    '@name': e-books
+  - '@count': '3'
+    '@name': time-travelling
+  - '@count': '3'
+    '@name': fiction-science-fiction
+  - '@count': '3'
+    '@name': want-to-buy
+  - '@count': '3'
+    '@name': 4-stars
+publication_day: '7'
+publication_month: '8'
+publication_year: '2007'
+published: '2007'
+publisher: Ace
+ratings_count: '10416'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/12429120
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/21608.The_Accidental_Time_Machine\"\
+  >The Accidental Time Machine Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0441014992&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/21608.The_Accidental_Time_Machine?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '5786'
+        link: https://www.goodreads.com/author/show/5786.David_Gerrold
+        name: David Gerrold
+    average_rating: '3.73'
+    id: '624122'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344701884l/624122._SX98_.jpg
+    isbn: '1932100040'
+    isbn13: '9781932100044'
+    link: https://www.goodreads.com/book/show/624122.The_Man_Who_Folded_Himself
+    num_pages: '127'
+    publication_day: '1'
+    publication_month: '7'
+    publication_year: '2003'
+    ratings_count: '10416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344701884l/624122._SX50_.jpg
+    title: The Man Who Folded Himself
+    title_without_series: The Man Who Folded Himself
+    uri: kca://book/amzn1.gr.book.v1.6C0BNNysJvDVD6aAaBdLNg
+    work:
+      id: '610483'
+  - authors:
+      author:
+        id: '14407836'
+        link: https://www.goodreads.com/author/show/14407836.A_R_Merrydew
+        name: A.R. Merrydew
+    average_rating: '3.73'
+    id: '215186841'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/215186841-inara
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10416'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Inara (Godfrey Davis, #3)'
+    title_without_series: Inara
+    uri: kca://book/amzn1.gr.book.v3.wCOHuKhf0nZUkB2e
+    work:
+      id: '221595685'
+  - authors:
+      author:
+        id: '7448339'
+        link: https://www.goodreads.com/author/show/7448339.Steven_Decker
+        name: Steven Decker
+    average_rating: '3.73'
+    id: '215515923'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: '9798988926245'
+    link: https://www.goodreads.com/book/show/215515923-one-more-life-to-live
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10416'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: One More Life to Live (Edward and the Bricklayer Book 1)
+    title_without_series: One More Life to Live
+    uri: kca://book/amzn1.gr.book.v3.w9Z8_uIuGqF6nDxb
+    work:
+      id: '221943269'
+  - authors:
+      author:
+        id: '7448339'
+        link: https://www.goodreads.com/author/show/7448339.Steven_Decker
+        name: Steven Decker
+    average_rating: '3.73'
+    id: '200923963'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698512599l/200923963._SX98_.jpg
+    isbn: null
+    isbn13: '9798987394014'
+    link: https://www.goodreads.com/book/show/200923963-child-of-another-kind
+    num_pages: '392'
+    publication_day: '18'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '10416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698512599l/200923963._SY75_.jpg
+    title: 'Child of Another Kind (Another Kind #1)'
+    title_without_series: Child of Another Kind
+    uri: kca://book/amzn1.gr.book.v3.cpxUKP4J15at4iaw
+    work:
+      id: '144050375'
+  - authors:
+      author:
+        id: '22645'
+        link: https://www.goodreads.com/author/show/22645.Gregory_Benford
+        name: Gregory Benford
+    average_rating: '3.73'
+    id: '778990'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392985886l/778990._SY160_.jpg
+    isbn: 0553297090
+    isbn13: '9780553297096'
+    link: https://www.goodreads.com/book/show/778990.Timescape
+    num_pages: '499'
+    publication_day: '13'
+    publication_month: '1'
+    publication_year: '1992'
+    ratings_count: '10416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392985886l/778990._SY75_.jpg
+    title: Timescape
+    title_without_series: Timescape
+    uri: kca://book/amzn1.gr.book.v1.17NmHOuK8-XpUiRtrgpdcg
+    work:
+      id: '2611291'
+  - authors:
+      author:
+        id: '19651'
+        link: https://www.goodreads.com/author/show/19651.Ken_Grimwood
+        name: Ken Grimwood
+    average_rating: '3.73'
+    id: '341735'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 068816112X
+    isbn13: '9780688161125'
+    link: https://www.goodreads.com/book/show/341735.Replay
+    num_pages: '311'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10416'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Replay
+    title_without_series: Replay
+    uri: kca://book/amzn1.gr.book.v1.82x7M_6QMOFnvvdyfA5RuA
+    work:
+      id: '1804797'
+  - authors:
+      author:
+        id: '6524567'
+        link: https://www.goodreads.com/author/show/6524567.Shawn_Inmon
+        name: Shawn Inmon
+    average_rating: '3.73'
+    id: '51211227'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/51211227-a-door-into-time
+    num_pages: '334'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10416'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'A Door Into Time (An Alex Hawk Time Travel Adventure, #1)'
+    title_without_series: A Door Into Time
+    uri: kca://book/amzn1.gr.book.v3.XjepCPtPREDJtrqo
+    work:
+      id: '75965092'
+  - authors:
+      author:
+        id: '73812'
+        link: https://www.goodreads.com/author/show/73812.Jack_McDevitt
+        name: Jack McDevitt
+    average_rating: '3.73'
+    id: '352774'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0441012175'
+    isbn13: '9780441012176'
+    link: https://www.goodreads.com/book/show/352774.A_Talent_for_War
+    num_pages: '310'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10416'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'A Talent for War (Alex Benedict, #1)'
+    title_without_series: A Talent for War
+    uri: kca://book/amzn1.gr.book.v1.tJ4gTeTJHnZgESptQ_NPdQ
+    work:
+      id: '2944265'
+  - authors:
+      author:
+        id: '8794'
+        link: https://www.goodreads.com/author/show/8794.Charles_Stross
+        name: Charles Stross
+    average_rating: '3.73'
+    id: '208291908'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1739682056l/208291908._SY160_.jpg
+    isbn: '0356524647'
+    isbn13: '9780356524641'
+    link: https://www.goodreads.com/book/show/208291908-a-conventional-boy
+    num_pages: '384'
+    publication_day: '7'
+    publication_month: '1'
+    publication_year: '2025'
+    ratings_count: '10416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1739682056l/208291908._SY75_.jpg
+    title: 'A Conventional Boy (Laundry Files, #13; New Management, #4)'
+    title_without_series: A Conventional Boy
+    uri: kca://book/amzn1.gr.book.v3.KYnraDM-8kAIVhIy
+    work:
+      id: '214427549'
+  - authors:
+      author:
+        id: '22645'
+        link: https://www.goodreads.com/author/show/22645.Gregory_Benford
+        name: Gregory Benford
+    average_rating: '3.73'
+    id: '453960'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 044661159X
+    isbn13: '9780446611596'
+    link: https://www.goodreads.com/book/show/453960.In_the_Ocean_of_Night
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10416'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'In the Ocean of Night (Galactic Center, #1)'
+    title_without_series: In the Ocean of Night
+    uri: kca://book/amzn1.gr.book.v1.GaIFefaOUbC7pjoTJP0BqQ
+    work:
+      id: '2226612'
+  - authors:
+      author:
+        id: '27341'
+        link: https://www.goodreads.com/author/show/27341.John_Varley
+        name: John Varley
+    average_rating: '3.73'
+    id: '49848'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0441006779
+    isbn13: '9780441006779'
+    link: https://www.goodreads.com/book/show/49848.Millennium
+    num_pages: null
+    publication_day: '1'
+    publication_month: '10'
+    publication_year: '1999'
+    ratings_count: '10416'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Millennium
+    title_without_series: Millennium
+    uri: kca://book/amzn1.gr.book.v1.eELu7dajffzpUUOxeQjzmg
+    work:
+      id: '1873232'
+  - authors:
+      author:
+        id: '7415'
+        link: https://www.goodreads.com/author/show/7415.Harlan_Ellison
+        name: Harlan Ellison
+    average_rating: '3.73'
+    id: '600349'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617921084l/600349._SX98_.jpg
+    isbn: '0743452615'
+    isbn13: '9780743452618'
+    link: https://www.goodreads.com/book/show/600349.Dangerous_Visions
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617921084l/600349._SX50_.jpg
+    title: Dangerous Visions
+    title_without_series: Dangerous Visions
+    uri: kca://book/amzn1.gr.book.v1.k5HMDOlNcJDQnOi40P3jjw
+    work:
+      id: '2758790'
+  - authors:
+      author:
+        id: '26'
+        link: https://www.goodreads.com/author/show/26.Anne_McCaffrey
+        name: Anne McCaffrey
+    average_rating: '3.73'
+    id: '61959'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408926315l/61959._SY160_.jpg
+    isbn: '0552137642'
+    isbn13: '9780552137645'
+    link: https://www.goodreads.com/book/show/61959.Damia
+    num_pages: '380'
+    publication_day: null
+    publication_month: null
+    publication_year: '1993'
+    ratings_count: '10416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408926315l/61959._SY75_.jpg
+    title: 'Damia (The Tower and the Hive, #2)'
+    title_without_series: Damia
+    uri: kca://book/amzn1.gr.book.v1.YNkcoF8_003XI2yxVfem8g
+    work:
+      id: '1779679'
+  - authors:
+      author:
+        id: '73812'
+        link: https://www.goodreads.com/author/show/73812.Jack_McDevitt
+        name: Jack McDevitt
+    average_rating: '3.73'
+    id: '6352501'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0441017630'
+    isbn13: '9780441017638'
+    link: https://www.goodreads.com/book/show/6352501-time-travelers-never-die
+    num_pages: '371'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10416'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Time Travelers Never Die
+    title_without_series: Time Travelers Never Die
+    uri: kca://book/amzn1.gr.book.v1.Ks7J9IzpbqBo_2Pf7Ah-EQ
+    work:
+      id: '6539089'
+  - authors:
+      author:
+        id: '43625'
+        link: https://www.goodreads.com/author/show/43625.James_Blish
+        name: James Blish
+    average_rating: '3.73'
+    id: '141805'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1585676020'
+    isbn13: '9781585676026'
+    link: https://www.goodreads.com/book/show/141805.Cities_in_Flight
+    num_pages: null
+    publication_day: '4'
+    publication_month: '1'
+    publication_year: '2005'
+    ratings_count: '10416'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Cities in Flight (Cities in Flight, #1-4)'
+    title_without_series: Cities in Flight
+    uri: kca://book/amzn1.gr.book.v1.89PisrBYbxLL4018X1QA6w
+    work:
+      id: '136770'
+  - authors:
+      author:
+        id: '22565447'
+        link: https://www.goodreads.com/author/show/22565447.Therisa_Peimer
+        name: Therisa Peimer
+    average_rating: '3.73'
+    id: '61608233'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658244114l/61608233._SX98_.jpg
+    isbn: '1039125611'
+    isbn13: '9781039125612'
+    link: https://www.goodreads.com/book/show/61608233-taming-flame
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658244114l/61608233._SX50_.jpg
+    title: Taming Flame
+    title_without_series: Taming Flame
+    uri: kca://book/amzn1.gr.book.v3.clKIDY7JJdvmz7KB
+    work:
+      id: '97169008'
+  - authors:
+      author:
+        id: '1226977'
+        link: https://www.goodreads.com/author/show/1226977.Paolo_Bacigalupi
+        name: Paolo Bacigalupi
+    average_rating: '3.73'
+    id: '2819368'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391343246l/2819368._SX98_.jpg
+    isbn: 159780133X
+    isbn13: '9781597801331'
+    link: https://www.goodreads.com/book/show/2819368-pump-six-and-other-stories
+    num_pages: '239'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391343246l/2819368._SY75_.jpg
+    title: Pump Six and Other Stories
+    title_without_series: Pump Six and Other Stories
+    uri: kca://book/amzn1.gr.book.v1.4xg8HS3Z1Rjd1NZnYT_Ciw
+    work:
+      id: '2845301'
+  - authors:
+      author:
+        id: '989968'
+        link: https://www.goodreads.com/author/show/989968.C_J_Cherryh
+        name: C.J. Cherryh
+    average_rating: '3.73'
+    id: '126487'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1302620982l/126487._SX98_.jpg
+    isbn: '0756403332'
+    isbn13: '9780756403331'
+    link: https://www.goodreads.com/book/show/126487.Destroyer
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '10416'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1302620982l/126487._SY75_.jpg
+    title: 'Destroyer (Foreigner, #7)'
+    title_without_series: Destroyer
+    uri: kca://book/amzn1.gr.book.v1.DvG68KCeZ9eEXZJx8_K47Q
+    work:
+      id: '121808'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '848'
+  '@type': integer
+title: The Accidental Time Machine
+title_without_series: The Accidental Time Machine
+uri: kca://book/amzn1.gr.book.v1.9wohphBiGsW8bkQeCTF8oA
+url: https://www.goodreads.com/book/show/21608.The_Accidental_Time_Machine
+work:
+  id: '22743'
+  uri: kca://work/amzn1.gr.work.v1.iou0KRM5sjgRV-XpCbF8cQ

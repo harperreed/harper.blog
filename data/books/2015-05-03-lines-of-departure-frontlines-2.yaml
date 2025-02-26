@@ -1,0 +1,768 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.20'
+    id: '6606349'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1565448645p5/6606349.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/6606349.Marko_Kloos
+    name: Marko Kloos
+    ratings_count: '164322'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1565448645p2/6606349.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '8393'
+average_rating: '4.16'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2015-05-03T00:00:00-07:00'
+description: Vicious interstellar conflict with an indestructible alien species. Bloody
+  civil war over the last habitable zones of the cosmos. Political unrest, militaristic
+  police forces, dire threats to the solar system<br /><br />Humanity is on the ropes,
+  and after years of fighting a two-front war with losing odds, so is Commonwealth
+  Defense Corps officer Andrew Grayson. He dreams of dropping out of the service one
+  day, alongside his pilot girlfriend, but as warfare consumes entire planets and
+  conditions on Earth deteriorate, he wonders if there will be anywhere left for them
+  to go.<br /><br />After surviving a disastrous spaceborne assault, Grayson is reassigned
+  to a ship bound for a distant colony and packed with malcontents and troublemakers.
+  His most dangerous battle has just begun.<br /><br />In this sequel to the bestselling
+  "Terms of Enlistment," a weary soldier must fight to prevent the downfall of his
+  species or bear witness to humanity s last, fleeting breaths.<br /><br />"
+edition_information: null
+format: null
+id: '20329634'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn: '1477867406'
+isbn13: '9781477867402'
+json: '{"id": "20329634", "isbn": "1477867406", "isbn13": "9781477867402", "text_reviews_count":
+  {"@type": "integer", "#text": "489"}, "uri": "kca://book/amzn1.gr.book.v1.cKYsVAIKyp1mKVQh-8b6QA",
+  "title": "Lines of Departure (Frontlines, #2)", "title_without_series": "Lines of
+  Departure", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/20329634-lines-of-departure",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "4.16", "ratings_count": "21839", "description": "Vicious interstellar conflict
+  with an indestructible alien species. Bloody civil war over the last habitable zones
+  of the cosmos. Political unrest, militaristic police forces, dire threats to the
+  solar system<br /><br />Humanity is on the ropes, and after years of fighting a
+  two-front war with losing odds, so is Commonwealth Defense Corps officer Andrew
+  Grayson. He dreams of dropping out of the service one day, alongside his pilot girlfriend,
+  but as warfare consumes entire planets and conditions on Earth deteriorate, he wonders
+  if there will be anywhere left for them to go.<br /><br />After surviving a disastrous
+  spaceborne assault, Grayson is reassigned to a ship bound for a distant colony and
+  packed with malcontents and troublemakers. His most dangerous battle has just begun.<br
+  /><br />In this sequel to the bestselling \"Terms of Enlistment,\" a weary soldier
+  must fight to prevent the downfall of his species or bear witness to humanity s
+  last, fleeting breaths.<br /><br />\"", "authors": {"author": {"id": "6606349",
+  "name": "Marko Kloos", "role": null, "image_url": {"@nophoto": "false", "#text":
+  "https://images.gr-assets.com/authors/1565448645p5/6606349.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1565448645p2/6606349.jpg"},
+  "link": "https://www.goodreads.com/author/show/6606349.Marko_Kloos", "average_rating":
+  "4.20", "ratings_count": "164322", "text_reviews_count": "8393"}}, "published":
+  null, "work": {"id": "26144200", "uri": "kca://work/amzn1.gr.work.v1.nXd9EWurZKlIMS4wN2mVRg"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1253487206",
+  "read_at": "Sun May 03 00:00:00 -0700 2015", "started_at": "Sun Apr 12 00:00:00
+  -0700 2015", "date": "Sun May 03 00:00:00 -0700 2015"}'
+kindle_asin: B00ELN0KB6
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/20329634-lines-of-departure
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '1987'
+    '@name': currently-reading
+  - '@count': '1737'
+    '@name': to-read
+  - '@count': '446'
+    '@name': science-fiction
+  - '@count': '408'
+    '@name': sci-fi
+  - '@count': '123'
+    '@name': scifi
+  - '@count': '102'
+    '@name': military
+  - '@count': '94'
+    '@name': fiction
+  - '@count': '81'
+    '@name': space-opera
+  - '@count': '69'
+    '@name': kindle
+  - '@count': '63'
+    '@name': audiobook
+  - '@count': '58'
+    '@name': audible
+  - '@count': '58'
+    '@name': military-sci-fi
+  - '@count': '45'
+    '@name': military-science-fiction
+  - '@count': '41'
+    '@name': sf
+  - '@count': '40'
+    '@name': owned
+  - '@count': '38'
+    '@name': favorites
+  - '@count': '35'
+    '@name': ebook
+  - '@count': '33'
+    '@name': kindle-unlimited
+  - '@count': '30'
+    '@name': frontlines
+  - '@count': '30'
+    '@name': series
+  - '@count': '28'
+    '@name': audiobooks
+  - '@count': '28'
+    '@name': space
+  - '@count': '28'
+    '@name': military-sf
+  - '@count': '27'
+    '@name': audio
+  - '@count': '25'
+    '@name': military-scifi
+  - '@count': '24'
+    '@name': aliens
+  - '@count': '20'
+    '@name': war
+  - '@count': '18'
+    '@name': military-fiction
+  - '@count': '18'
+    '@name': action
+  - '@count': '17'
+    '@name': dystopian
+  - '@count': '16'
+    '@name': audio-books
+  - '@count': '14'
+    '@name': marko-kloos
+  - '@count': '14'
+    '@name': adventure
+  - '@count': '14'
+    '@name': dystopia
+  - '@count': '14'
+    '@name': e-book
+  - '@count': '12'
+    '@name': fantasy
+  - '@count': '12'
+    '@name': ebooks
+  - '@count': '11'
+    '@name': library
+  - '@count': '10'
+    '@name': science-fiction-and-fantasy
+  - '@count': '10'
+    '@name': sci-fi-fantasy
+  - '@count': '9'
+    '@name': audio-book
+  - '@count': '8'
+    '@name': sci-fi-military
+  - '@count': '8'
+    '@name': kindle-books
+  - '@count': '8'
+    '@name': scifi-fantasy
+  - '@count': '8'
+    '@name': science-fiction-fantasy
+  - '@count': '8'
+    '@name': read-in-2014
+  - '@count': '7'
+    '@name': read-2016
+  - '@count': '7'
+    '@name': dnf
+  - '@count': '7'
+    '@name': action-adventure
+  - '@count': '7'
+    '@name': calibre
+  - '@count': '6'
+    '@name': have
+  - '@count': '6'
+    '@name': books
+  - '@count': '6'
+    '@name': sci-fi-and-fantasy
+  - '@count': '6'
+    '@name': space-sci-fi
+  - '@count': '6'
+    '@name': finished
+  - '@count': '6'
+    '@name': amazon
+  - '@count': '6'
+    '@name': owned-books
+  - '@count': '5'
+    '@name': books-i-own
+  - '@count': '5'
+    '@name': sf-military
+  - '@count': '5'
+    '@name': sf-f
+  - '@count': '5'
+    '@name': e-books
+  - '@count': '4'
+    '@name': read-in-2021
+  - '@count': '4'
+    '@name': read-2019
+  - '@count': '4'
+    '@name': read-2018
+  - '@count': '4'
+    '@name': science
+  - '@count': '4'
+    '@name': space-travel
+  - '@count': '4'
+    '@name': not-read
+  - '@count': '4'
+    '@name': 5-stars
+  - '@count': '4'
+    '@name': alien-invasion
+  - '@count': '4'
+    '@name': fantasy-sci-fi
+  - '@count': '4'
+    '@name': purchased
+  - '@count': '4'
+    '@name': electronic
+  - '@count': '4'
+    '@name': syfy
+  - '@count': '4'
+    '@name': sci-fi-read
+  - '@count': '4'
+    '@name': choice-awards
+  - '@count': '4'
+    '@name': scif-fi
+  - '@count': '4'
+    '@name': to-read-fiction
+  - '@count': '4'
+    '@name': listened-to
+  - '@count': '4'
+    '@name': read-2014
+  - '@count': '4'
+    '@name': mil-scifi
+  - '@count': '3'
+    '@name': read-2024
+  - '@count': '3'
+    '@name': read-in-2023
+  - '@count': '3'
+    '@name': fantastyka
+  - '@count': '3'
+    '@name': 2020-reads
+  - '@count': '3'
+    '@name': read-2020
+  - '@count': '3'
+    '@name': listened
+  - '@count': '3'
+    '@name': read-in-2019
+  - '@count': '3'
+    '@name': alien
+  - '@count': '3'
+    '@name': novel
+  - '@count': '3'
+    '@name': mil-sf
+  - '@count': '3'
+    '@name': sequels
+  - '@count': '3'
+    '@name': own-kindle
+  - '@count': '3'
+    '@name': read-2017
+  - '@count': '3'
+    '@name': downloaded
+  - '@count': '3'
+    '@name': male-author
+  - '@count': '3'
+    '@name': mil-sci-fi
+  - '@count': '3'
+    '@name': books-read
+  - '@count': '3'
+    '@name': wish-list
+  - '@count': '3'
+    '@name': frontlines-series
+  - '@count': '3'
+    '@name': read-in-2016
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '21839'
+read_at: '2015-05-03T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/1253487206
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/20329634-lines-of-departure\"\
+  >Lines of Departure Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1477867406&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/20329634-lines-of-departure?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '615360'
+    series:
+      description: "Also known as:\n    Alien Wars"
+      id: '125903'
+      note: null
+      numbered: 'true'
+      primary_work_count: '8'
+      series_works_count: '10'
+      title: Frontlines
+    user_position: '2'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '5179360'
+        link: https://www.goodreads.com/author/show/5179360.Rick_Partlow
+        name: Rick Partlow
+    average_rating: '4.16'
+    id: '53292742'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/53292742-contact-front
+    num_pages: '294'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21839'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Contact Front (Drop Trooper, #1)'
+    title_without_series: Contact Front
+    uri: kca://book/amzn1.gr.book.v3.302UKkMarO6ACQU3
+    work:
+      id: '81236770'
+  - authors:
+      author:
+        id: '5179360'
+        link: https://www.goodreads.com/author/show/5179360.Rick_Partlow
+        name: Rick Partlow
+    average_rating: '4.16'
+    id: '53493658'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/53493658-kinetic-strike
+    num_pages: '316'
+    publication_day: '26'
+    publication_month: '5'
+    publication_year: '2020'
+    ratings_count: '21839'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Kinetic Strike (Drop Trooper, #2)'
+    title_without_series: Kinetic Strike
+    uri: kca://book/amzn1.gr.book.v3.0-UBB9098Ikl_FrX
+    work:
+      id: '83801809'
+  - authors:
+      author:
+        id: '5179360'
+        link: https://www.goodreads.com/author/show/5179360.Rick_Partlow
+        name: Rick Partlow
+    average_rating: '4.16'
+    id: '53636179'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/53636179-danger-close
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21839'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Danger Close (Drop Trooper, #3)'
+    title_without_series: Danger Close
+    uri: kca://book/amzn1.gr.book.v3.P_MvAurdZc3Vo3uR
+    work:
+      id: '83958418'
+  - authors:
+      author:
+        id: '5179360'
+        link: https://www.goodreads.com/author/show/5179360.Rick_Partlow
+        name: Rick Partlow
+    average_rating: '4.16'
+    id: '53710844'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/53710844-direct-fire
+    num_pages: '324'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21839'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Direct Fire (Drop Trooper, #4)'
+    title_without_series: Direct Fire
+    uri: kca://book/amzn1.gr.book.v3.9cMmHCjOG2QfNcNI
+    work:
+      id: '84028552'
+  - authors:
+      author:
+        id: '5179360'
+        link: https://www.goodreads.com/author/show/5179360.Rick_Partlow
+        name: Rick Partlow
+    average_rating: '4.16'
+    id: '58304368'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/58304368-release-point
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21839'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Release Point (Drop Trooper, #8)'
+    title_without_series: Release Point
+    uri: kca://book/amzn1.gr.book.v3.yZr5hchUJvw6NuRO
+    work:
+      id: '91407879'
+  - authors:
+      author:
+        id: '5179360'
+        link: https://www.goodreads.com/author/show/5179360.Rick_Partlow
+        name: Rick Partlow
+    average_rating: '4.16'
+    id: '56095919'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/56095919-fire-base
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21839'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Fire Base (Drop Trooper, #6)'
+    title_without_series: Fire Base
+    uri: kca://book/amzn1.gr.book.v3.PrW-zOTiEbWQ71qd
+    work:
+      id: '87372923'
+  - authors:
+      author:
+        id: '5179360'
+        link: https://www.goodreads.com/author/show/5179360.Rick_Partlow
+        name: Rick Partlow
+    average_rating: '4.16'
+    id: '54505324'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/54505324-home-front
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21839'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Home Front (Drop Trooper, #5)'
+    title_without_series: Home Front
+    uri: kca://book/amzn1.gr.book.v3.Va8DTLCOzJ1-JpDC
+    work:
+      id: '85073220'
+  - authors:
+      author:
+        id: '5179360'
+        link: https://www.goodreads.com/author/show/5179360.Rick_Partlow
+        name: Rick Partlow
+    average_rating: '4.16'
+    id: '57113383'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/57113383-shock-action
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21839'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Shock Action (Drop Trooper, #7)'
+    title_without_series: Shock Action
+    uri: kca://book/amzn1.gr.book.v3.70UNYRy8t7c5osV7
+    work:
+      id: '89380463'
+  - authors:
+      author:
+        id: '6912725'
+        link: https://www.goodreads.com/author/show/6912725.M_R_Forbes
+        name: M.R. Forbes
+    average_rating: '4.16'
+    id: '218109942'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/218109942-wraith
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21839'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Wraith (The Convergence War Book 1)
+    title_without_series: Wraith
+    uri: kca://book/amzn1.gr.book.v3.Rx4k6kP3ST0rIJGq
+    work:
+      id: '224651975'
+  - authors:
+      author:
+        id: '5179360'
+        link: https://www.goodreads.com/author/show/5179360.Rick_Partlow
+        name: Rick Partlow
+    average_rating: '4.16'
+    id: '59013954'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/59013954-kill-box
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21839'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Kill Box (Drop Trooper, #9)'
+    title_without_series: Kill Box
+    uri: kca://book/amzn1.gr.book.v3.njWa7lN2KGCHkWli
+    work:
+      id: '93042861'
+  - authors:
+      author:
+        id: '5179360'
+        link: https://www.goodreads.com/author/show/5179360.Rick_Partlow
+        name: Rick Partlow
+    average_rating: '4.16'
+    id: '185429385'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697129119l/185429385._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/185429385-collateral-effects
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21839'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697129119l/185429385._SX50_.jpg
+    title: 'Collateral Effects (Drop Trooper #14)'
+    title_without_series: Collateral Effects
+    uri: kca://book/amzn1.gr.book.v3.gmmLpZHjuHNgDO5D
+    work:
+      id: '189000891'
+  - authors:
+      author:
+        id: '5179360'
+        link: https://www.goodreads.com/author/show/5179360.Rick_Partlow
+        name: Rick Partlow
+    average_rating: '4.16'
+    id: '60302219'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/60302219-drop-zone
+    num_pages: '270'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21839'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Drop Zone (Drop Trooper, #10)'
+    title_without_series: Drop Zone
+    uri: kca://book/amzn1.gr.book.v3.8tJkFRxg80CRt1N3
+    work:
+      id: '95068024'
+  - authors:
+      author:
+        id: '5179360'
+        link: https://www.goodreads.com/author/show/5179360.Rick_Partlow
+        name: Rick Partlow
+    average_rating: '4.16'
+    id: '77602165'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673721496l/77602165._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/77602165-blue-force
+    num_pages: null
+    publication_day: '18'
+    publication_month: '4'
+    publication_year: '2023'
+    ratings_count: '21839'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673721496l/77602165._SX50_.jpg
+    title: 'Blue Force (Drop Trooper, #12)'
+    title_without_series: Blue Force
+    uri: kca://book/amzn1.gr.book.v3.1hetDOZKYxXixMpO
+    work:
+      id: '102816505'
+  - authors:
+      author:
+        id: '14407836'
+        link: https://www.goodreads.com/author/show/14407836.A_R_Merrydew
+        name: A.R. Merrydew
+    average_rating: '4.16'
+    id: '215186841'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/215186841-inara
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21839'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Inara (Godfrey Davis, #3)'
+    title_without_series: Inara
+    uri: kca://book/amzn1.gr.book.v3.wCOHuKhf0nZUkB2e
+    work:
+      id: '221595685'
+  - authors:
+      author:
+        id: '5179360'
+        link: https://www.goodreads.com/author/show/5179360.Rick_Partlow
+        name: Rick Partlow
+    average_rating: '4.16'
+    id: '61422681'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/61422681-tango-down
+    num_pages: '268'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21839'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Tango Down (Drop Trooper, #11)'
+    title_without_series: Tango Down
+    uri: kca://book/amzn1.gr.book.v3.SDQJlvSnpl5jqSKJ
+    work:
+      id: '96923414'
+  - authors:
+      author:
+        id: '5179360'
+        link: https://www.goodreads.com/author/show/5179360.Rick_Partlow
+        name: Rick Partlow
+    average_rating: '4.16'
+    id: '131802119'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/131802119-weapons-free
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21839'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Weapons Free (Drop Trooper Book 13)
+    title_without_series: Weapons Free
+    uri: kca://book/amzn1.gr.book.v3.0b0Fis2ig_q0mTB1
+    work:
+      id: '150522786'
+  - authors:
+      author:
+        id: '6953444'
+        link: https://www.goodreads.com/author/show/6953444.Joshua_Dalzelle
+        name: Joshua Dalzelle
+    average_rating: '4.16'
+    id: '24292492'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/24292492-warship
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21839'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Warship (Black Fleet Trilogy, #1)'
+    title_without_series: Warship
+    uri: kca://book/amzn1.gr.book.v1.v63XV98HM6sQC3gsa9BaoA
+    work:
+      id: '43872999'
+  - authors:
+      author:
+        id: '5370827'
+        link: https://www.goodreads.com/author/show/5370827.H_Paul_Honsinger
+        name: H. Paul Honsinger
+    average_rating: '4.16'
+    id: '18476108'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388375267l/18476108._SX98_.jpg
+    isbn: '1477849483'
+    isbn13: '9781477849484'
+    link: https://www.goodreads.com/book/show/18476108-for-honor-we-stand
+    num_pages: '492'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '21839'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388375267l/18476108._SX50_.jpg
+    title: 'For Honor We Stand (Man of War, #2)'
+    title_without_series: For Honor We Stand
+    uri: kca://book/amzn1.gr.book.v1.2vEc2mgmJ6BRSpGEF2yVyg
+    work:
+      id: '24247059'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: '2015-04-12T00:00:00-07:00'
+text_reviews_count:
+  '#text': '489'
+  '@type': integer
+title: 'Lines of Departure (Frontlines, #2)'
+title_without_series: Lines of Departure
+uri: kca://book/amzn1.gr.book.v1.cKYsVAIKyp1mKVQh-8b6QA
+url: https://www.goodreads.com/book/show/20329634-lines-of-departure
+work:
+  id: '26144200'
+  uri: kca://work/amzn1.gr.work.v1.nXd9EWurZKlIMS4wN2mVRg

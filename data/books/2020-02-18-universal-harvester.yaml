@@ -1,0 +1,754 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.44'
+    id: '1029937'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1337946622p5/1029937.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/1029937.John_Darnielle
+    name: John Darnielle
+    ratings_count: '61519'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1337946622p2/1029937.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '9906'
+average_rating: '3.19'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2020-02-18T00:00:00-08:00'
+description: 'Jeremy works at the counter of Video Hut in Nevada, Iowa. It''s the
+  1990s, pre-DVD, and the work is predictable and familiar; he likes his boss, and
+  it gets him out of the house. But when a local schoolteacher comes in to return
+  her copy of Targets, she has an odd complaint: ''There''s something on it,'' she
+  says. Two days later, another customer brings back She''s All That and complains
+  that something is wrong: ''There''s another movie on this tape.'' Curious, Jeremy
+  takes a look. And what he sees on the videos is so strange and disturbing that it
+  propels him out of his comfortable routine and into a search for the tapes'' creator.
+  As the once-peaceful fields and barns of the Iowa landscape begin to seem sinister
+  and threatening, Jeremy must come to terms with a truth that is as devastatingly
+  sad as it is shocking.'
+edition_information: null
+format: null
+id: '31327539'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470142781l/31327539._SX98_.jpg
+is_ebook: 'true'
+isbn: 0374714029
+isbn13: '9780374714024'
+json: '{"id": "31327539", "isbn": "0374714029", "isbn13": "9780374714024", "text_reviews_count":
+  {"@type": "integer", "#text": "143"}, "uri": "kca://book/amzn1.gr.book.v1.X9z8488zNoOZ2nAuE0Bbfg",
+  "title": "Universal Harvester", "title_without_series": "Universal Harvester", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470142781l/31327539._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470142781l/31327539._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/31327539-universal-harvester",
+  "num_pages": "226", "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.19", "ratings_count": "18842", "description": "Jeremy works at the counter of
+  Video Hut in Nevada, Iowa. It''s the 1990s, pre-DVD, and the work is predictable
+  and familiar; he likes his boss, and it gets him out of the house. But when a local
+  schoolteacher comes in to return her copy of Targets, she has an odd complaint:
+  ''There''s something on it,'' she says. Two days later, another customer brings
+  back She''s All That and complains that something is wrong: ''There''s another movie
+  on this tape.'' Curious, Jeremy takes a look. And what he sees on the videos is
+  so strange and disturbing that it propels him out of his comfortable routine and
+  into a search for the tapes'' creator. As the once-peaceful fields and barns of
+  the Iowa landscape begin to seem sinister and threatening, Jeremy must come to terms
+  with a truth that is as devastatingly sad as it is shocking.", "authors": {"author":
+  {"id": "1029937", "name": "John Darnielle", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1337946622p5/1029937.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1337946622p2/1029937.jpg"},
+  "link": "https://www.goodreads.com/author/show/1029937.John_Darnielle", "average_rating":
+  "3.44", "ratings_count": "61519", "text_reviews_count": "9906"}}, "published": null,
+  "work": {"id": "50329879", "uri": "kca://work/amzn1.gr.work.v1.D_rHWqJfz74WWI_Ua15JaA"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/3195616602",
+  "read_at": "Tue Feb 18 00:00:00 -0800 2020", "started_at": "Mon Feb 17 00:00:00
+  -0800 2020", "date": "Tue Feb 18 00:00:00 -0800 2020"}'
+kindle_asin: B01IA6NW9Q
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/31327539-universal-harvester
+marketplace_id: ATVPDKIKX0DER
+num_pages: '226'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '19183'
+    '@name': to-read
+  - '@count': '681'
+    '@name': currently-reading
+  - '@count': '617'
+    '@name': horror
+  - '@count': '609'
+    '@name': fiction
+  - '@count': '197'
+    '@name': mystery
+  - '@count': '119'
+    '@name': owned
+  - '@count': '111'
+    '@name': dnf
+  - '@count': '106'
+    '@name': audiobook
+  - '@count': '82'
+    '@name': favorites
+  - '@count': '81'
+    '@name': thriller
+  - '@count': '80'
+    '@name': audiobooks
+  - '@count': '72'
+    '@name': books-i-own
+  - '@count': '71'
+    '@name': read-in-2017
+  - '@count': '68'
+    '@name': literary-fiction
+  - '@count': '66'
+    '@name': library
+  - '@count': '56'
+    '@name': novels
+  - '@count': '53'
+    '@name': did-not-finish
+  - '@count': '48'
+    '@name': audio
+  - '@count': '47'
+    '@name': adult
+  - '@count': '36'
+    '@name': read-in-2018
+  - '@count': '36'
+    '@name': contemporary
+  - '@count': '31'
+    '@name': abandoned
+  - '@count': '30'
+    '@name': adult-fiction
+  - '@count': '29'
+    '@name': kindle
+  - '@count': '29'
+    '@name': mystery-thriller
+  - '@count': '28'
+    '@name': book-club
+  - '@count': '28'
+    '@name': literary
+  - '@count': '27'
+    '@name': horror-thriller
+  - '@count': '25'
+    '@name': read-2017
+  - '@count': '23'
+    '@name': physical-tbr
+  - '@count': '23'
+    '@name': novel
+  - '@count': '23'
+    '@name': suspense
+  - '@count': '23'
+    '@name': to-buy
+  - '@count': '21'
+    '@name': tbr
+  - '@count': '21'
+    '@name': ebook
+  - '@count': '21'
+    '@name': literature
+  - '@count': '20'
+    '@name': contemporary-fiction
+  - '@count': '19'
+    '@name': general-fiction
+  - '@count': '18'
+    '@name': weird
+  - '@count': '18'
+    '@name': audio-book
+  - '@count': '18'
+    '@name': library-books
+  - '@count': '17'
+    '@name': spooky
+  - '@count': '17'
+    '@name': midwest
+  - '@count': '17'
+    '@name': maybe
+  - '@count': '17'
+    '@name': 2010s
+  - '@count': '17'
+    '@name': iowa
+  - '@count': '17'
+    '@name': wish-list
+  - '@count': '17'
+    '@name': owned-books
+  - '@count': '16'
+    '@name': read-2018
+  - '@count': '15'
+    '@name': read-in-2022
+  - '@count': '15'
+    '@name': 2017-reads
+  - '@count': '15'
+    '@name': 2017-books
+  - '@count': '15'
+    '@name': 2017-releases
+  - '@count': '14'
+    '@name': sci-fi
+  - '@count': '13'
+    '@name': thriller-mystery
+  - '@count': '13'
+    '@name': to-read-fiction
+  - '@count': '13'
+    '@name': creepy
+  - '@count': '12'
+    '@name': bookshelf
+  - '@count': '12'
+    '@name': usa
+  - '@count': '12'
+    '@name': my-library
+  - '@count': '12'
+    '@name': ebooks
+  - '@count': '12'
+    '@name': grief
+  - '@count': '11'
+    '@name': weird-fiction
+  - '@count': '11'
+    '@name': my-books
+  - '@count': '11'
+    '@name': family
+  - '@count': '11'
+    '@name': historical-fiction
+  - '@count': '11'
+    '@name': audio-books
+  - '@count': '11'
+    '@name': indiespensable
+  - '@count': '10'
+    '@name': read-in-2024
+  - '@count': '10'
+    '@name': read-in-2019
+  - '@count': '10'
+    '@name': library-book
+  - '@count': '9'
+    '@name': 2018-books
+  - '@count': '9'
+    '@name': fantasy
+  - '@count': '9'
+    '@name': dark
+  - '@count': '9'
+    '@name': gothic
+  - '@count': '9'
+    '@name': favourites
+  - '@count': '9'
+    '@name': realistic-fiction
+  - '@count': '9'
+    '@name': american
+  - '@count': '9'
+    '@name': cults
+  - '@count': '9'
+    '@name': historical
+  - '@count': '8'
+    '@name': read-in-2023
+  - '@count': '8'
+    '@name': libby
+  - '@count': '8'
+    '@name': horror-tbr
+  - '@count': '8'
+    '@name': read-2020
+  - '@count': '8'
+    '@name': 2018-reads
+  - '@count': '8'
+    '@name': borrowed
+  - '@count': '8'
+    '@name': lit
+  - '@count': '8'
+    '@name': horror-to-read
+  - '@count': '8'
+    '@name': 2017-release
+  - '@count': '8'
+    '@name': arc
+  - '@count': '7'
+    '@name': 2021-reads
+  - '@count': '7'
+    '@name': read-2021
+  - '@count': '7'
+    '@name': home-library
+  - '@count': '7'
+    '@name': tbr-horror
+  - '@count': '7'
+    '@name': owned-tbr
+  - '@count': '7'
+    '@name': thrillers
+  - '@count': '7'
+    '@name': didn-t-finish
+  - '@count': '7'
+    '@name': reviewed
+  - '@count': '7'
+    '@name': e-book
+  - '@count': '7'
+    '@name': contemporary-lit
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '18842'
+read_at: '2020-02-18T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/3195616602
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/31327539-universal-harvester\"\
+  >Universal Harvester Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0374714029&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/31327539-universal-harvester?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '648612'
+        link: https://www.goodreads.com/author/show/648612.Paul_Tremblay
+        name: Paul Tremblay
+    average_rating: '3.19'
+    id: '200101541'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700239629l/200101541._SX98_.jpg
+    isbn: '0063070014'
+    isbn13: '9780063070011'
+    link: https://www.goodreads.com/book/show/200101541-horror-movie
+    num_pages: '277'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '18842'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700239629l/200101541._SY75_.jpg
+    title: Horror Movie
+    title_without_series: Horror Movie
+    uri: kca://book/amzn1.gr.book.v3.PO7XANQxK-QFaikd
+    work:
+      id: '203154630'
+  - authors:
+      author:
+        id: '6683690'
+        link: https://www.goodreads.com/author/show/6683690.Sarah_Pinsker
+        name: Sarah Pinsker
+    average_rating: '3.19'
+    id: '203579272'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710009733l/203579272._SX98_.jpg
+    isbn: '1250330262'
+    isbn13: '9781250330260'
+    link: https://www.goodreads.com/book/show/203579272-haunt-sweet-home
+    num_pages: '165'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '18842'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710009733l/203579272._SY75_.jpg
+    title: Haunt Sweet Home
+    title_without_series: Haunt Sweet Home
+    uri: kca://book/amzn1.gr.book.v3.7yI9xaXiv6pQHbru
+    work:
+      id: '209357679'
+  - authors:
+      author:
+        id: '3027554'
+        link: https://www.goodreads.com/author/show/3027554.Kiersten_White
+        name: Kiersten White
+    average_rating: '3.19'
+    id: '63331415'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668565101l/63331415._SX98_.jpg
+    isbn: 0593359267
+    isbn13: '9780593359266'
+    link: https://www.goodreads.com/book/show/63331415-mister-magic
+    num_pages: '295'
+    publication_day: '8'
+    publication_month: '8'
+    publication_year: '2023'
+    ratings_count: '18842'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668565101l/63331415._SY75_.jpg
+    title: Mister Magic
+    title_without_series: Mister Magic
+    uri: kca://book/amzn1.gr.book.v3.VA5myxSmycyHjWqJ
+    work:
+      id: '97759996'
+  - authors:
+      author:
+        id: '8285417'
+        link: https://www.goodreads.com/author/show/8285417.Gus_Moreno
+        name: Gus Moreno
+    average_rating: '3.19'
+    id: '56269269'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618452978l/56269269._SX98_.jpg
+    isbn: 0374539235
+    isbn13: '9780374539238'
+    link: https://www.goodreads.com/book/show/56269269-this-thing-between-us
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '18842'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618452978l/56269269._SY75_.jpg
+    title: This Thing Between Us
+    title_without_series: This Thing Between Us
+    uri: kca://book/amzn1.gr.book.v3._b5pAv7OicNr1Fao
+    work:
+      id: '87659806'
+  - authors:
+      author:
+        id: '22022459'
+        link: https://www.goodreads.com/author/show/22022459.Jenny_Kiefer
+        name: Jenny Kiefer
+    average_rating: '3.19'
+    id: '133206521'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 168369368X
+    isbn13: '9781683693680'
+    link: https://www.goodreads.com/book/show/133206521-this-wretched-valley
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '18842'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: This Wretched Valley
+    title_without_series: This Wretched Valley
+    uri: kca://book/amzn1.gr.book.v3.hOeXj70_TtabMZq9
+    work:
+      id: '96405378'
+  - authors:
+      author:
+        id: '16488815'
+        link: https://www.goodreads.com/author/show/16488815.Rivers_Solomon
+        name: Rivers Solomon
+    average_rating: '3.19'
+    id: '205363963'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710270238l/205363963._SX98_.jpg
+    isbn: '0374607133'
+    isbn13: '9780374607135'
+    link: https://www.goodreads.com/book/show/205363963-model-home
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '18842'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710270238l/205363963._SY75_.jpg
+    title: Model Home
+    title_without_series: Model Home
+    uri: kca://book/amzn1.gr.book.v3.v8ISg5oiRro1geet
+    work:
+      id: '96584081'
+  - authors:
+      author:
+        id: '19321826'
+        link: https://www.goodreads.com/author/show/19321826.Ananda_Lima
+        name: Ananda Lima
+    average_rating: '3.19'
+    id: '195790835'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695241043l/195790835._SX98_.jpg
+    isbn: '1250292972'
+    isbn13: '9781250292971'
+    link: https://www.goodreads.com/book/show/195790835-craft
+    num_pages: '181'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '18842'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695241043l/195790835._SY75_.jpg
+    title: 'Craft: Stories I Wrote for the Devil'
+    title_without_series: 'Craft: Stories I Wrote for the Devil'
+    uri: kca://book/amzn1.gr.book.v3.WBzedRsbXFLnb316
+    work:
+      id: '197724627'
+  - authors:
+      author:
+        id: '682045'
+        link: https://www.goodreads.com/author/show/682045.Craig_DiLouie
+        name: Craig DiLouie
+    average_rating: '3.19'
+    id: '61030527'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668464476l/61030527._SX98_.jpg
+    isbn: '0316443107'
+    isbn13: '9780316443104'
+    link: https://www.goodreads.com/book/show/61030527-episode-thirteen
+    num_pages: '433'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '18842'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668464476l/61030527._SX50_.jpg
+    title: Episode Thirteen
+    title_without_series: Episode Thirteen
+    uri: kca://book/amzn1.gr.book.v3.3BNWx8lEytjv94-j
+    work:
+      id: '96174836'
+  - authors:
+      author:
+        id: '96300'
+        link: https://www.goodreads.com/author/show/96300.Stephen_Graham_Jones
+        name: Stephen Graham Jones
+    average_rating: '3.19'
+    id: '199798522'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1720470227l/199798522._SX98_.jpg
+    isbn: '1668022249'
+    isbn13: '9781668022245'
+    link: https://www.goodreads.com/book/show/199798522-i-was-a-teenage-slasher
+    num_pages: '373'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '18842'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1720470227l/199798522._SY75_.jpg
+    title: I Was a Teenage Slasher
+    title_without_series: I Was a Teenage Slasher
+    uri: kca://book/amzn1.gr.book.v3.mCJgiS9tAsjjI3I0
+    work:
+      id: '99188493'
+  - authors:
+      author:
+        id: '7271073'
+        link: https://www.goodreads.com/author/show/7271073.Josh_Malerman
+        name: Josh Malerman
+    average_rating: '3.19'
+    id: '199757490'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704742096l/199757490._SX98_.jpg
+    isbn: 0593723120
+    isbn13: '9780593723128'
+    link: https://www.goodreads.com/book/show/199757490-incidents-around-the-house
+    num_pages: '367'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '18842'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704742096l/199757490._SY75_.jpg
+    title: Incidents Around the House
+    title_without_series: Incidents Around the House
+    uri: kca://book/amzn1.gr.book.v3.aExI9ERUE6LFv8s1
+    work:
+      id: '204309461'
+  - authors:
+      author:
+        id: '21833637'
+        link: https://www.goodreads.com/author/show/21833637.C_J_Leede
+        name: C.J. Leede
+    average_rating: '3.19'
+    id: '61884781'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662040413l/61884781._SX98_.jpg
+    isbn: '1250857856'
+    isbn13: '9781250857859'
+    link: https://www.goodreads.com/book/show/61884781-maeve-fly
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '18842'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662040413l/61884781._SY75_.jpg
+    title: Maeve Fly
+    title_without_series: Maeve Fly
+    uri: kca://book/amzn1.gr.book.v3.7_4gD2-NDI7B_z6t
+    work:
+      id: '93030763'
+  - authors:
+      author:
+        id: '3503908'
+        link: https://www.goodreads.com/author/show/3503908.Nat_Cassidy
+        name: Nat Cassidy
+    average_rating: '3.19'
+    id: '65212029'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679957936l/65212029._SX98_.jpg
+    isbn: '1250265258'
+    isbn13: '9781250265258'
+    link: https://www.goodreads.com/book/show/65212029-nestlings
+    num_pages: '293'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '18842'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679957936l/65212029._SY75_.jpg
+    title: Nestlings
+    title_without_series: Nestlings
+    uri: kca://book/amzn1.gr.book.v3.q31WArsuk3uluHhB
+    work:
+      id: '100096868'
+  - authors:
+      author:
+        id: '50690'
+        link: https://www.goodreads.com/author/show/50690.Sara_Gran
+        name: Sara Gran
+    average_rating: '3.19'
+    id: '220772'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309198030l/220772._SX98_.jpg
+    isbn: '0425210316'
+    isbn13: '9780425210314'
+    link: https://www.goodreads.com/book/show/220772.Come_Closer
+    num_pages: '194'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '18842'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309198030l/220772._SX50_.jpg
+    title: Come Closer
+    title_without_series: Come Closer
+    uri: kca://book/amzn1.gr.book.v1.WI6E_lFZ8sUp11ohfAXR7Q
+    work:
+      id: '718199'
+  - authors:
+      author:
+        id: '21833637'
+        link: https://www.goodreads.com/author/show/21833637.C_J_Leede
+        name: C.J. Leede
+    average_rating: '3.19'
+    id: '203579244'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712784134l/203579244._SX98_.jpg
+    isbn: '1250857929'
+    isbn13: '9781250857927'
+    link: https://www.goodreads.com/book/show/203579244-american-rapture
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '18842'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712784134l/203579244._SY75_.jpg
+    title: American Rapture
+    title_without_series: American Rapture
+    uri: kca://book/amzn1.gr.book.v3.JtOUrxJqgMD4jLMb
+    work:
+      id: '209357663'
+  - authors:
+      author:
+        id: '18377192'
+        link: https://www.goodreads.com/author/show/18377192.David_Sodergren
+        name: David Sodergren
+    average_rating: '3.19'
+    id: '60840449'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650323005l/60840449._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/60840449-the-haar
+    num_pages: '206'
+    publication_day: '20'
+    publication_month: '5'
+    publication_year: '2022'
+    ratings_count: '18842'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650323005l/60840449._SY75_.jpg
+    title: The Haar
+    title_without_series: The Haar
+    uri: kca://book/amzn1.gr.book.v3.jnn_Qsiu5G1cB9Zg
+    work:
+      id: '95946395'
+  - authors:
+      author:
+        id: '96300'
+        link: https://www.goodreads.com/author/show/96300.Stephen_Graham_Jones
+        name: Stephen Graham Jones
+    average_rating: '3.19'
+    id: '178019710'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687711744l/178019710._SX98_.jpg
+    isbn: '1668011662'
+    isbn13: '9781668011669'
+    link: https://www.goodreads.com/book/show/178019710-the-angel-of-indian-lake
+    num_pages: '455'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '18842'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687711744l/178019710._SY75_.jpg
+    title: 'The Angel of Indian Lake (The Indian Lake Trilogy, #3)'
+    title_without_series: The Angel of Indian Lake
+    uri: kca://book/amzn1.gr.book.v3.AP2LqFTW3xD3fAUr
+    work:
+      id: '183775422'
+  - authors:
+      author:
+        id: '10788353'
+        link: https://www.goodreads.com/author/show/10788353.Chuck_Tingle
+        name: Chuck Tingle
+    average_rating: '3.19'
+    id: '61884782'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664285565l/61884782._SX98_.jpg
+    isbn: '1250874629'
+    isbn13: '9781250874627'
+    link: https://www.goodreads.com/book/show/61884782-camp-damascus
+    num_pages: '246'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '18842'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664285565l/61884782._SY75_.jpg
+    title: Camp Damascus
+    title_without_series: Camp Damascus
+    uri: kca://book/amzn1.gr.book.v3.jNp7zRoV7zRbb9Sn
+    work:
+      id: '97258162'
+  - authors:
+      author:
+        id: '10788353'
+        link: https://www.goodreads.com/author/show/10788353.Chuck_Tingle
+        name: Chuck Tingle
+    average_rating: '3.19'
+    id: '195790870'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697739086l/195790870._SX98_.jpg
+    isbn: '1250874653'
+    isbn13: '9781250874658'
+    link: https://www.goodreads.com/book/show/195790870-bury-your-gays
+    num_pages: '295'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '18842'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697739086l/195790870._SY75_.jpg
+    title: Bury Your Gays
+    title_without_series: Bury Your Gays
+    uri: kca://book/amzn1.gr.book.v3.Pq5wTd9pOIYnMeDh
+    work:
+      id: '197724654'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470142781l/31327539._SY75_.jpg
+started_at: '2020-02-17T00:00:00-08:00'
+text_reviews_count:
+  '#text': '143'
+  '@type': integer
+title: Universal Harvester
+title_without_series: Universal Harvester
+uri: kca://book/amzn1.gr.book.v1.X9z8488zNoOZ2nAuE0Bbfg
+url: https://www.goodreads.com/book/show/31327539-universal-harvester
+work:
+  id: '50329879'
+  uri: kca://work/amzn1.gr.work.v1.D_rHWqJfz74WWI_Ua15JaA

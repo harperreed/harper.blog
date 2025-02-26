@@ -1,0 +1,736 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.00'
+    id: '895069'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1469344605p5/895069.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/895069.Slash
+    name: Slash
+    ratings_count: '29966'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1469344605p2/895069.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '1369'
+average_rating: '4.00'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: null
+edition_information: Reprint
+format: null
+id: '3755846'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: '0061351431'
+isbn13: '9780061351433'
+json: '{"id": "3755846", "isbn": "0061351431", "isbn13": "9780061351433", "text_reviews_count":
+  {"@type": "integer", "#text": "45"}, "uri": "kca://book/amzn1.gr.book.v1.PH_E5X5dMCFUOZ5IKpSD8g",
+  "title": "Slash", "title_without_series": "Slash", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/3755846-slash",
+  "num_pages": "458", "format": null, "edition_information": "Reprint", "publisher":
+  "Harper Entertainment", "publication_day": "21", "publication_year": "2007", "publication_month":
+  "10", "average_rating": "4.00", "ratings_count": "29600", "description": null, "authors":
+  {"author": {"id": "895069", "name": "Slash", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1469344605p5/895069.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1469344605p2/895069.jpg"},
+  "link": "https://www.goodreads.com/author/show/895069.Slash", "average_rating":
+  "4.00", "ratings_count": "29966", "text_reviews_count": "1369"}}, "published": "2007",
+  "work": {"id": "2338187", "uri": "kca://work/amzn1.gr.work.v1.jPvop0u5U52FeCRpmNZSWw"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/42404793",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B000WJOW3K
+language_code: en-CA
+large_image_url: null
+link: https://www.goodreads.com/book/show/3755846-slash
+marketplace_id: ATVPDKIKX0DER
+num_pages: '458'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '19138'
+    '@name': to-read
+  - '@count': '1185'
+    '@name': currently-reading
+  - '@count': '504'
+    '@name': music
+  - '@count': '315'
+    '@name': biography
+  - '@count': '277'
+    '@name': non-fiction
+  - '@count': '109'
+    '@name': biographies
+  - '@count': '100'
+    '@name': favorites
+  - '@count': '81'
+    '@name': autobiography
+  - '@count': '73'
+    '@name': nonfiction
+  - '@count': '72'
+    '@name': books-i-own
+  - '@count': '71'
+    '@name': owned
+  - '@count': '70'
+    '@name': memoir
+  - '@count': '44'
+    '@name': memoirs
+  - '@count': '34'
+    '@name': bio
+  - '@count': '30'
+    '@name': biography-memoir
+  - '@count': '24'
+    '@name': bios
+  - '@count': '23'
+    '@name': owned-books
+  - '@count': '23'
+    '@name': library
+  - '@count': '21'
+    '@name': rock-n-roll
+  - '@count': '20'
+    '@name': physical-tbr
+  - '@count': '20'
+    '@name': kindle
+  - '@count': '19'
+    '@name': my-books
+  - '@count': '17'
+    '@name': rock
+  - '@count': '16'
+    '@name': autobiographies
+  - '@count': '15'
+    '@name': my-library
+  - '@count': '15'
+    '@name': memoir-biography
+  - '@count': '14'
+    '@name': to-buy
+  - '@count': '13'
+    '@name': slash
+  - '@count': '12'
+    '@name': dnf
+  - '@count': '12'
+    '@name': "m\xFAsica"
+  - '@count': '12'
+    '@name': default
+  - '@count': '12'
+    '@name': i-own
+  - '@count': '11'
+    '@name': auto-biography
+  - '@count': '11'
+    '@name': drugs
+  - '@count': '11'
+    '@name': biographies-and-memoirs
+  - '@count': '11'
+    '@name': music-related
+  - '@count': '10'
+    '@name': bookshelf
+  - '@count': '10'
+    '@name': music-biographies
+  - '@count': '10'
+    '@name': guns-n-roses
+  - '@count': '10'
+    '@name': music-biography
+  - '@count': '10'
+    '@name': addiction
+  - '@count': '9'
+    '@name': rock-biographies
+  - '@count': '9'
+    '@name': music-bios
+  - '@count': '9'
+    '@name': wish-list
+  - '@count': '9'
+    '@name': favourites
+  - '@count': '8'
+    '@name': books-i-have
+  - '@count': '8'
+    '@name': biografias
+  - '@count': '8'
+    '@name': books
+  - '@count': '8'
+    '@name': physical
+  - '@count': '8'
+    '@name': home-library
+  - '@count': '8'
+    '@name': musicians
+  - '@count': '8'
+    '@name': biography-autobiography
+  - '@count': '8'
+    '@name': biographies-memoirs
+  - '@count': '8'
+    '@name': entertainment
+  - '@count': '7'
+    '@name': purchased
+  - '@count': '7'
+    '@name': on-my-shelf
+  - '@count': '7'
+    '@name': english
+  - '@count': '7'
+    '@name': my-bookshelf
+  - '@count': '7'
+    '@name': musik
+  - '@count': '7'
+    '@name': music-books
+  - '@count': '7'
+    '@name': music-bio
+  - '@count': '7'
+    '@name': non-fic
+  - '@count': '7'
+    '@name': ebook
+  - '@count': '7'
+    '@name': auto-biographies
+  - '@count': '6'
+    '@name': on-my-bookshelf
+  - '@count': '6'
+    '@name': have
+  - '@count': '6'
+    '@name': biografie
+  - '@count': '6'
+    '@name': biografia
+  - '@count': '6'
+    '@name': on-hold
+  - '@count': '6'
+    '@name': own-unread
+  - '@count': '6'
+    '@name': rock-bios
+  - '@count': '6'
+    '@name': autobiography-biography
+  - '@count': '5'
+    '@name': collection
+  - '@count': '5'
+    '@name': tbr
+  - '@count': '5'
+    '@name': abandoned
+  - '@count': '5'
+    '@name': want-to-buy
+  - '@count': '5'
+    '@name': finished
+  - '@count': '5'
+    '@name': autobiography-memoir
+  - '@count': '5'
+    '@name': library-books
+  - '@count': '5'
+    '@name': other
+  - '@count': '5'
+    '@name': 4-stars
+  - '@count': '5'
+    '@name': metal
+  - '@count': '5'
+    '@name': own-it
+  - '@count': '5'
+    '@name': biography-autobiography-memoir
+  - '@count': '5'
+    '@name': want
+  - '@count': '5'
+    '@name': biographical
+  - '@count': '5'
+    '@name': rock-and-roll
+  - '@count': '4'
+    '@name': autobiography-music
+  - '@count': '4'
+    '@name': memoir-autobiography
+  - '@count': '4'
+    '@name': read-in-2016
+  - '@count': '4'
+    '@name': bought
+  - '@count': '4'
+    '@name': owned-tbr
+  - '@count': '4'
+    '@name': pop-culture
+  - '@count': '4'
+    '@name': biography-music
+  - '@count': '4'
+    '@name': american
+  - '@count': '4'
+    '@name': not-interested
+  - '@count': '4'
+    '@name': favorite-books
+  - '@count': '4'
+    '@name': rock-books
+  - '@count': '4'
+    '@name': own-to-read
+  - '@count': '4'
+    '@name': ebooks
+publication_day: '21'
+publication_month: '10'
+publication_year: '2007'
+published: '2007'
+publisher: Harper Entertainment
+ratings_count: '29600'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/42404793
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/3755846-slash\"\
+  >Slash Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0061351431&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/3755846-slash?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '5694283'
+        link: https://www.goodreads.com/author/show/5694283.Duff_McKagan
+        name: Duff McKagan
+    average_rating: '4.00'
+    id: '11156963'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711457660l/11156963._SX98_.jpg
+    isbn: 145160663X
+    isbn13: '9781451606638'
+    link: https://www.goodreads.com/book/show/11156963-it-s-so-easy
+    num_pages: '366'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '29600'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711457660l/11156963._SX50_.jpg
+    title: 'It''s So Easy: And Other Lies'
+    title_without_series: 'It''s So Easy: And Other Lies'
+    uri: kca://book/amzn1.gr.book.v1.9Eaq8zip9j41_tLP4s2ZWQ
+    work:
+      id: '16080834'
+  - authors:
+      author:
+        id: '588'
+        link: https://www.goodreads.com/author/show/588.Neil_Strauss
+        name: Neil Strauss
+    average_rating: '4.00'
+    id: '25378'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0060989157
+    isbn13: '9780060989156'
+    link: https://www.goodreads.com/book/show/25378.The_Dirt
+    num_pages: '431'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '29600'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Dirt: Confessions of the World''s Most Notorious Rock Band'
+    title_without_series: 'The Dirt: Confessions of the World''s Most Notorious Rock
+      Band'
+    uri: kca://book/amzn1.gr.book.v1.cESTtge1ifBNeiVo3syowg
+    work:
+      id: '26119'
+  - authors:
+      author:
+        id: '10758'
+        link: https://www.goodreads.com/author/show/10758.Nikki_Sixx
+        name: Nikki Sixx
+    average_rating: '4.00'
+    id: '1883838'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408936840l/1883838._SX98_.jpg
+    isbn: '1847371663'
+    isbn13: '9781847371669'
+    link: https://www.goodreads.com/book/show/1883838.The_Heroin_Diaries
+    num_pages: '413'
+    publication_day: '18'
+    publication_month: '9'
+    publication_year: '2007'
+    ratings_count: '29600'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408936840l/1883838._SX50_.jpg
+    title: 'The Heroin Diaries: A Year in the Life of a Shattered Rock Star'
+    title_without_series: 'The Heroin Diaries: A Year in the Life of a Shattered Rock
+      Star'
+    uri: kca://book/amzn1.gr.book.v1.J1NMSNEWkh_fJlN0jO9aQA
+    work:
+      id: '421308'
+  - authors:
+      author:
+        id: '296395'
+        link: https://www.goodreads.com/author/show/296395.Steven_Adler
+        name: Steven Adler
+    average_rating: '4.00'
+    id: '8034497'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0061917117
+    isbn13: '9780061917110'
+    link: https://www.goodreads.com/book/show/8034497-my-appetite-for-destruction
+    num_pages: '286'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '29600'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'My Appetite for Destruction: Sex, and Drugs, and Guns N'' Roses'
+    title_without_series: 'My Appetite for Destruction: Sex, and Drugs, and Guns N''
+      Roses'
+    uri: kca://book/amzn1.gr.book.v1.P1JoFHCHkGeGI6kEYukc-g
+    work:
+      id: '12646786'
+  - authors:
+      author:
+        id: '73029'
+        link: https://www.goodreads.com/author/show/73029.Ozzy_Osbourne
+        name: Ozzy Osbourne
+    average_rating: '4.00'
+    id: '6952423'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0446569895
+    isbn13: '9780446569897'
+    link: https://www.goodreads.com/book/show/6952423-i-am-ozzy
+    num_pages: '391'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '29600'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: I Am Ozzy
+    title_without_series: I Am Ozzy
+    uri: kca://book/amzn1.gr.book.v1.wWzVKwrDp-LWF2IA-AW9vQ
+    work:
+      id: '7187129'
+  - authors:
+      author:
+        id: '3234254'
+        link: https://www.goodreads.com/author/show/3234254.Dave_Mustaine
+        name: Dave Mustaine
+    average_rating: '4.00'
+    id: '7327341'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0061714372'
+    isbn13: '9780061714375'
+    link: https://www.goodreads.com/book/show/7327341-mustaine
+    num_pages: '346'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '29600'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Mustaine: A Heavy Metal Memoir'
+    title_without_series: 'Mustaine: A Heavy Metal Memoir'
+    uri: kca://book/amzn1.gr.book.v1.IaanHpk9EX6GSsYXcwqV_w
+    work:
+      id: '8944945'
+  - authors:
+      author:
+        id: '10760'
+        link: https://www.goodreads.com/author/show/10760.Tommy_Lee
+        name: Tommy Lee
+    average_rating: '4.00'
+    id: '314584'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0743483448
+    isbn13: '9780743483445'
+    link: https://www.goodreads.com/book/show/314584.Tommyland
+    num_pages: '269'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '29600'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Tommyland
+    title_without_series: Tommyland
+    uri: kca://book/amzn1.gr.book.v1.nNtVohawNrZR2LM66Ipp4A
+    work:
+      id: '3185066'
+  - authors:
+      author:
+        id: '183566'
+        link: https://www.goodreads.com/author/show/183566.Lemmy_Kilmister
+        name: Lemmy Kilmister
+    average_rating: '4.00'
+    id: '319464'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0806525908
+    isbn13: '9780806525907'
+    link: https://www.goodreads.com/book/show/319464.White_Line_Fever
+    num_pages: '306'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '29600'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'White Line Fever: The Autobiography'
+    title_without_series: 'White Line Fever: The Autobiography'
+    uri: kca://book/amzn1.gr.book.v1.mb4o4n0eQknbt5e2QRRTDQ
+    work:
+      id: '310228'
+  - authors:
+      author:
+        id: '2955'
+        link: https://www.goodreads.com/author/show/2955.Anthony_Kiedis
+        name: Anthony Kiedis
+    average_rating: '4.00'
+    id: '96647'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1401307450'
+    isbn13: '9781401307455'
+    link: https://www.goodreads.com/book/show/96647.Scar_Tissue
+    num_pages: '465'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '29600'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Scar Tissue
+    title_without_series: Scar Tissue
+    uri: kca://book/amzn1.gr.book.v1.M-MkN1_vVckLL6_jHRBDKw
+    work:
+      id: '908343'
+  - authors:
+      author:
+        id: '45539'
+        link: https://www.goodreads.com/author/show/45539.Keith_Richards
+        name: Keith Richards
+    average_rating: '4.00'
+    id: '9439303'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327960451l/9439303._SX98_.jpg
+    isbn: 0297854399
+    isbn13: '9780297854395'
+    link: https://www.goodreads.com/book/show/9439303-life
+    num_pages: '576'
+    publication_day: '2'
+    publication_month: '10'
+    publication_year: '2010'
+    ratings_count: '29600'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327960451l/9439303._SY75_.jpg
+    title: Life
+    title_without_series: Life
+    uri: kca://book/amzn1.gr.book.v1.1qjPk41_QTvbteXb6iS1qA
+    work:
+      id: '14323907'
+  - authors:
+      author:
+        id: '35790'
+        link: https://www.goodreads.com/author/show/35790.Stephen_Davis
+        name: Stephen Davis
+    average_rating: '4.00'
+    id: '3185413'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1592403778'
+    isbn13: '9781592403776'
+    link: https://www.goodreads.com/book/show/3185413-watch-you-bleed
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '29600'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Watch You Bleed: The Saga of Guns N'' Roses'
+    title_without_series: 'Watch You Bleed: The Saga of Guns N'' Roses'
+    uri: kca://book/amzn1.gr.book.v1.cwGTW5k9fjhd7HLT2cIgYw
+    work:
+      id: '3218275'
+  - authors:
+      author:
+        id: '14280'
+        link: https://www.goodreads.com/author/show/14280.Marilyn_Manson
+        name: Marilyn Manson
+    average_rating: '4.00'
+    id: '37847'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0060987464
+    isbn13: '9780060987466'
+    link: https://www.goodreads.com/book/show/37847.The_Long_Hard_Road_Out_of_Hell
+    num_pages: '275'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '29600'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Long Hard Road Out of Hell
+    title_without_series: The Long Hard Road Out of Hell
+    uri: kca://book/amzn1.gr.book.v1.Ww-KJ9J4hw4zcPLQQcUqJA
+    work:
+      id: '37641'
+  - authors:
+      author:
+        id: '2863842'
+        link: https://www.goodreads.com/author/show/2863842.Steven_Tyler
+        name: Steven Tyler
+    average_rating: '4.00'
+    id: '6303704'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400065793l/6303704._SX98_.jpg
+    isbn: 0061767891
+    isbn13: '9780061767890'
+    link: https://www.goodreads.com/book/show/6303704-does-the-noise-in-my-head-bother-you
+    num_pages: '390'
+    publication_day: '3'
+    publication_month: '5'
+    publication_year: '2011'
+    ratings_count: '29600'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400065793l/6303704._SY75_.jpg
+    title: Does the Noise in My Head Bother You?
+    title_without_series: Does the Noise in My Head Bother You?
+    uri: kca://book/amzn1.gr.book.v1.7qgaLySFUKN6uLR9OMZtrQ
+    work:
+      id: '6488314'
+  - authors:
+      author:
+        id: '5694283'
+        link: https://www.goodreads.com/author/show/5694283.Duff_McKagan
+        name: Duff McKagan
+    average_rating: '4.00'
+    id: '22715960'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426721370l/22715960._SX98_.jpg
+    isbn: 030682387X
+    isbn13: '9780306823879'
+    link: https://www.goodreads.com/book/show/22715960-how-to-be-a-man
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '29600'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426721370l/22715960._SX50_.jpg
+    title: 'How to Be a Man: (and other illusions)'
+    title_without_series: 'How to Be a Man:'
+    uri: kca://book/amzn1.gr.book.v1.8sAl0mJSoH0N_zWF27WpMg
+    work:
+      id: '42243197'
+  - authors:
+      author:
+        id: '24507'
+        link: https://www.goodreads.com/author/show/24507.Charles_R_Cross
+        name: Charles R. Cross
+    average_rating: '4.00'
+    id: '1149440'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0786865059
+    isbn13: '9780786865055'
+    link: https://www.goodreads.com/book/show/1149440.Heavier_Than_Heaven
+    num_pages: '381'
+    publication_day: null
+    publication_month: null
+    publication_year: '2001'
+    ratings_count: '29600'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Heavier Than Heaven: A Biography of Kurt Cobain'
+    title_without_series: 'Heavier Than Heaven: A Biography of Kurt Cobain'
+    uri: kca://book/amzn1.gr.book.v1.f5J3PX97UcQBs7r-AUljOQ
+    work:
+      id: '1136908'
+  - authors:
+      author:
+        id: '8193763'
+        link: https://www.goodreads.com/author/show/8193763.Joe_Perry
+        name: Joe  Perry
+    average_rating: '4.00'
+    id: '21535769'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399652342l/21535769._SX98_.jpg
+    isbn: '1476714541'
+    isbn13: '9781476714547'
+    link: https://www.goodreads.com/book/show/21535769-rocks
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '29600'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399652342l/21535769._SY75_.jpg
+    title: 'Rocks: My Life In and Out of Aerosmith'
+    title_without_series: 'Rocks: My Life In and Out of Aerosmith'
+    uri: kca://book/amzn1.gr.book.v1.Z4phLF0HYzEGQ9hpfhzxSw
+    work:
+      id: '26869384'
+  - authors:
+      author:
+        id: '10758'
+        link: https://www.goodreads.com/author/show/10758.Nikki_Sixx
+        name: Nikki Sixx
+    average_rating: '4.00'
+    id: '9202591'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327925577l/9202591._SX98_.jpg
+    isbn: 0062061879
+    isbn13: '9780062061874'
+    link: https://www.goodreads.com/book/show/9202591-this-is-gonna-hurt
+    num_pages: '224'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '29600'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327925577l/9202591._SX50_.jpg
+    title: 'This Is Gonna Hurt: Music, Photography, And Life Through The Distorted
+      Lens Of Nikki Sixx'
+    title_without_series: 'This Is Gonna Hurt: Music, Photography, And Life Through
+      The Distorted Lens Of Nikki Sixx'
+    uri: kca://book/amzn1.gr.book.v1.4gXLyd8xvwPnQavQVWjv9g
+    work:
+      id: '14082170'
+  - authors:
+      author:
+        id: '64277'
+        link: https://www.goodreads.com/author/show/64277.Jerry_Hopkins
+        name: Jerry Hopkins
+    average_rating: '4.00'
+    id: '691520'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344270704l/691520._SX98_.jpg
+    isbn: 0446697338
+    isbn13: '9780446697330'
+    link: https://www.goodreads.com/book/show/691520.No_One_Here_Gets_Out_Alive
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '29600'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344270704l/691520._SY75_.jpg
+    title: No One Here Gets Out Alive
+    title_without_series: No One Here Gets Out Alive
+    uri: kca://book/amzn1.gr.book.v1.acE2Vf-YsIyp0t40UzmgZw
+    work:
+      id: '1422202'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '45'
+  '@type': integer
+title: Slash
+title_without_series: Slash
+uri: kca://book/amzn1.gr.book.v1.PH_E5X5dMCFUOZ5IKpSD8g
+url: https://www.goodreads.com/book/show/3755846-slash
+work:
+  id: '2338187'
+  uri: kca://work/amzn1.gr.work.v1.jPvop0u5U52FeCRpmNZSWw

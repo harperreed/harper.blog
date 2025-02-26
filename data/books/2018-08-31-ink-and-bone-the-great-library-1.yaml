@@ -1,0 +1,767 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.10'
+    id: '15292'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1373144795p5/15292.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/15292.Rachel_Caine
+    name: Rachel Caine
+    ratings_count: '1295547'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1373144795p2/15292.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '74792'
+average_rating: '3.97'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2018-08-31T00:00:00-07:00'
+description: "Ruthless and supremely powerful, the Great Library is now a presence\
+  \ in every major city, governing the flow of knowledge to the masses. Alchemy allows\
+  \ the Library to deliver the content of the greatest works of history instantly\u2014\
+  but the personal ownership of books is expressly forbidden.<br /> <br />Jess Brightwell\
+  \ believes in the value of the Library, but the majority of his knowledge comes\
+  \ from illegal books obtained by his family. Jess has been sent to be his family\u2019\
+  s spy, but his loyalties are tested in the final months of his training to enter\
+  \ the Library\u2019s service.<br /> <br />When his friend inadvertently commits\
+  \ heresy by creating a device that could change the world, Jess discovers that those\
+  \ who control the Great Library believe knowledge is more valuable than any human\
+  \ life\u2014and soon both heretics and books will burn...."
+edition_information: null
+format: Kindle Edition
+id: '20643052'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418350512l/20643052._SX98_.jpg
+is_ebook: 'true'
+isbn: 069818081X
+isbn13: '9780698180819'
+json: '{"id": "20643052", "isbn": "069818081X", "isbn13": "9780698180819", "text_reviews_count":
+  {"@type": "integer", "#text": "3836"}, "uri": "kca://book/amzn1.gr.book.v1.JW9ZBK_PKUIOwHAbSsaPOw",
+  "title": "Ink and Bone (The Great Library, #1)", "title_without_series": "Ink and
+  Bone", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418350512l/20643052._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418350512l/20643052._SX50_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/20643052-ink-and-bone",
+  "num_pages": "362", "format": "Kindle Edition", "edition_information": null, "publisher":
+  "Berkley", "publication_day": "7", "publication_year": "2015", "publication_month":
+  "7", "average_rating": "3.97", "ratings_count": "31047", "description": "Ruthless
+  and supremely powerful, the Great Library is now a presence in every major city,
+  governing the flow of knowledge to the masses. Alchemy allows the Library to deliver
+  the content of the greatest works of history instantly\u2014but the personal ownership
+  of books is expressly forbidden.<br /> <br />Jess Brightwell believes in the value
+  of the Library, but the majority of his knowledge comes from illegal books obtained
+  by his family. Jess has been sent to be his family\u2019s spy, but his loyalties
+  are tested in the final months of his training to enter the Library\u2019s service.<br
+  /> <br />When his friend inadvertently commits heresy by creating a device that
+  could change the world, Jess discovers that those who control the Great Library
+  believe knowledge is more valuable than any human life\u2014and soon both heretics
+  and books will burn....", "authors": {"author": {"id": "15292", "name": "Rachel
+  Caine", "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1373144795p5/15292.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1373144795p2/15292.jpg"},
+  "link": "https://www.goodreads.com/author/show/15292.Rachel_Caine", "average_rating":
+  "4.10", "ratings_count": "1295547", "text_reviews_count": "74792"}}, "published":
+  "2015", "work": {"id": "39934787", "uri": "kca://work/amzn1.gr.work.v1.oaWPUpkmJ_SB0yTDBVh3-w"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/2513678767",
+  "read_at": "Fri Aug 31 00:00:00 -0700 2018", "started_at": "Thu Aug 30 00:00:00
+  -0700 2018", "date": "Fri Aug 31 00:00:00 -0700 2018"}'
+kindle_asin: B00OQS4BQQ
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/20643052-ink-and-bone
+marketplace_id: ATVPDKIKX0DER
+num_pages: '362'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '67654'
+    '@name': to-read
+  - '@count': '2945'
+    '@name': fantasy
+  - '@count': '2590'
+    '@name': currently-reading
+  - '@count': '1478'
+    '@name': young-adult
+  - '@count': '901'
+    '@name': ya
+  - '@count': '505'
+    '@name': fiction
+  - '@count': '415'
+    '@name': dystopian
+  - '@count': '408'
+    '@name': series
+  - '@count': '368'
+    '@name': dystopia
+  - '@count': '340'
+    '@name': books-about-books
+  - '@count': '329'
+    '@name': favorites
+  - '@count': '325'
+    '@name': owned
+  - '@count': '321'
+    '@name': historical-fiction
+  - '@count': '272'
+    '@name': steampunk
+  - '@count': '260'
+    '@name': books-i-own
+  - '@count': '243'
+    '@name': science-fiction
+  - '@count': '232'
+    '@name': library
+  - '@count': '225'
+    '@name': ya-fantasy
+  - '@count': '198'
+    '@name': dnf
+  - '@count': '189'
+    '@name': sci-fi
+  - '@count': '171'
+    '@name': alternate-history
+  - '@count': '161'
+    '@name': audiobook
+  - '@count': '147'
+    '@name': kindle
+  - '@count': '135'
+    '@name': ebook
+  - '@count': '131'
+    '@name': tbr
+  - '@count': '128'
+    '@name': magic
+  - '@count': '112'
+    '@name': adventure
+  - '@count': '112'
+    '@name': historical
+  - '@count': '97'
+    '@name': to-buy
+  - '@count': '93'
+    '@name': audiobooks
+  - '@count': '93'
+    '@name': physical-tbr
+  - '@count': '92'
+    '@name': did-not-finish
+  - '@count': '90'
+    '@name': audio
+  - '@count': '86'
+    '@name': read-in-2016
+  - '@count': '85'
+    '@name': sci-fi-fantasy
+  - '@count': '77'
+    '@name': urban-fantasy
+  - '@count': '77'
+    '@name': maybe
+  - '@count': '76'
+    '@name': book-club
+  - '@count': '76'
+    '@name': romance
+  - '@count': '74'
+    '@name': teen
+  - '@count': '71'
+    '@name': owned-books
+  - '@count': '69'
+    '@name': ebooks
+  - '@count': '66'
+    '@name': audible
+  - '@count': '65'
+    '@name': fantasy-sci-fi
+  - '@count': '65'
+    '@name': 2015-releases
+  - '@count': '65'
+    '@name': read-in-2015
+  - '@count': '64'
+    '@name': wish-list
+  - '@count': '61'
+    '@name': favourites
+  - '@count': '57'
+    '@name': owned-tbr
+  - '@count': '56'
+    '@name': ya-fiction
+  - '@count': '52'
+    '@name': mystery
+  - '@count': '51'
+    '@name': first-in-series
+  - '@count': '49'
+    '@name': my-library
+  - '@count': '48'
+    '@name': rachel-caine
+  - '@count': '46'
+    '@name': my-books
+  - '@count': '46'
+    '@name': read-in-2017
+  - '@count': '45'
+    '@name': books
+  - '@count': '43'
+    '@name': library-books
+  - '@count': '42'
+    '@name': libraries
+  - '@count': '41'
+    '@name': read-2016
+  - '@count': '40'
+    '@name': young-adult-fiction
+  - '@count': '39'
+    '@name': 2015-release
+  - '@count': '39'
+    '@name': historical-fantasy
+  - '@count': '39'
+    '@name': 4-stars
+  - '@count': '38'
+    '@name': i-own
+  - '@count': '38'
+    '@name': speculative-fiction
+  - '@count': '37'
+    '@name': scifi-fantasy
+  - '@count': '37'
+    '@name': 2015-reads
+  - '@count': '36'
+    '@name': read-2017
+  - '@count': '36'
+    '@name': paranormal
+  - '@count': '36'
+    '@name': read-in-2018
+  - '@count': '36'
+    '@name': e-book
+  - '@count': '36'
+    '@name': tbr-fantasy
+  - '@count': '35'
+    '@name': reviewed
+  - '@count': '35'
+    '@name': fantasy-scifi
+  - '@count': '35'
+    '@name': genre-fantasy
+  - '@count': '34'
+    '@name': audio-books
+  - '@count': '34'
+    '@name': abandoned
+  - '@count': '32'
+    '@name': young-adult-fantasy
+  - '@count': '32'
+    '@name': alt-history
+  - '@count': '32'
+    '@name': series-to-start
+  - '@count': '32'
+    '@name': alternative-history
+  - '@count': '32'
+    '@name': egypt
+  - '@count': '31'
+    '@name': sub
+  - '@count': '31'
+    '@name': scifi
+  - '@count': '30'
+    '@name': read-2015
+  - '@count': '30'
+    '@name': to-read-fantasy
+  - '@count': '28'
+    '@name': own-it
+  - '@count': '27'
+    '@name': lost-interest
+  - '@count': '27'
+    '@name': read-in-2019
+  - '@count': '27'
+    '@name': high-fantasy
+  - '@count': '27'
+    '@name': first-in-a-series
+  - '@count': '27'
+    '@name': read-2019
+  - '@count': '26'
+    '@name': 2016-reads
+  - '@count': '26'
+    '@name': borrowed
+  - '@count': '26'
+    '@name': action
+  - '@count': '25'
+    '@name': lgbtq
+  - '@count': '25'
+    '@name': action-adventure
+  - '@count': '25'
+    '@name': bookshelf
+  - '@count': '24'
+    '@name': female-author
+publication_day: '7'
+publication_month: '7'
+publication_year: '2015'
+published: '2015'
+publisher: Berkley
+ratings_count: '31047'
+read_at: '2018-08-31T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/2513678767
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/20643052-ink-and-bone\"\
+  >Ink and Bone Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=069818081X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/20643052-ink-and-bone?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '587821'
+    series:
+      description: "Official website:\n    www.enterthelibrary.com"
+      id: '121043'
+      note: null
+      numbered: 'true'
+      primary_work_count: '5'
+      series_works_count: '8'
+      title: The Great Library
+    user_position: '1'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '6066772'
+        link: https://www.goodreads.com/author/show/6066772.Sara_Pascoe
+        name: Sara Pascoe
+    average_rating: '3.97'
+    id: '34186576'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486484628l/34186576._SX98_.jpg
+    isbn: 0993574734
+    isbn13: '9780993574733'
+    link: https://www.goodreads.com/book/show/34186576-being-a-witch-and-other-things-i-didn-t-ask-for
+    num_pages: '380'
+    publication_day: '6'
+    publication_month: '2'
+    publication_year: '2017'
+    ratings_count: '31047'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486484628l/34186576._SX50_.jpg
+    title: Being a Witch, and Other Things I Didn't Ask For
+    title_without_series: Being a Witch, and Other Things I Didn't Ask For
+    uri: kca://book/amzn1.gr.book.v1.irhy5pCUk8edpJf3gOroQg
+    work:
+      id: '55449539'
+  - authors:
+      author:
+        id: '14887946'
+        link: https://www.goodreads.com/author/show/14887946.Max_Nowaz
+        name: Max Nowaz
+    average_rating: '3.97'
+    id: '208051245'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707837803l/208051245._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/208051245-the-three-witches-and-the-master
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31047'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707837803l/208051245._SY75_.jpg
+    title: The Three Witches and The Master
+    title_without_series: The Three Witches and The Master
+    uri: kca://book/amzn1.gr.book.v3.JA26Sj6khQKXQeBk
+    work:
+      id: '169441757'
+  - authors:
+      author:
+        id: '84803'
+        link: https://www.goodreads.com/author/show/84803.Gillian_Bradshaw
+        name: Gillian Bradshaw
+    average_rating: '3.97'
+    id: '146692'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542891215l/146692._SX98_.jpg
+    isbn: 0312875819
+    isbn13: '9780312875817'
+    link: https://www.goodreads.com/book/show/146692.The_Sand_Reckoner
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31047'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542891215l/146692._SY75_.jpg
+    title: The Sand-Reckoner
+    title_without_series: The Sand-Reckoner
+    uri: kca://book/amzn1.gr.book.v1.fl9lgWW54PjHE2NKHxpwCw
+    work:
+      id: '1881701'
+  - authors:
+      author:
+        id: '22565447'
+        link: https://www.goodreads.com/author/show/22565447.Therisa_Peimer
+        name: Therisa Peimer
+    average_rating: '3.97'
+    id: '61608233'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658244114l/61608233._SX98_.jpg
+    isbn: '1039125611'
+    isbn13: '9781039125612'
+    link: https://www.goodreads.com/book/show/61608233-taming-flame
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31047'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658244114l/61608233._SX50_.jpg
+    title: Taming Flame
+    title_without_series: Taming Flame
+    uri: kca://book/amzn1.gr.book.v3.clKIDY7JJdvmz7KB
+    work:
+      id: '97169008'
+  - authors:
+      author:
+        id: '7326946'
+        link: https://www.goodreads.com/author/show/7326946.Yeong_Do_Lee
+        name: Yeong-Do Lee
+    average_rating: '3.97'
+    id: '201466627'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700229017l/201466627._SX98_.jpg
+    isbn: '3641315174'
+    isbn13: '9783641315177'
+    link: https://www.goodreads.com/book/show/201466627-der-tr-umende-krieger
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31047'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700229017l/201466627._SY75_.jpg
+    title: "Der tr\xE4umende Krieger (Die Legende vom Tr\xE4nenvogel, #2)"
+    title_without_series: "Der tr\xE4umende Krieger"
+    uri: kca://book/amzn1.gr.book.v3.B5mtwOk4NDkg49Ol
+    work:
+      id: '57375105'
+  - authors:
+      author:
+        id: '357601'
+        link: https://www.goodreads.com/author/show/357601.Rachel_Hartman
+        name: Rachel Hartman
+    average_rating: '3.97'
+    id: '16085457'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405355942l/16085457._SX98_.jpg
+    isbn: 0375866574
+    isbn13: '9780375866579'
+    link: https://www.goodreads.com/book/show/16085457-shadow-scale
+    num_pages: '608'
+    publication_day: '10'
+    publication_month: '3'
+    publication_year: '2015'
+    ratings_count: '31047'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405355942l/16085457._SY75_.jpg
+    title: 'Shadow Scale (Seraphina, #2)'
+    title_without_series: Shadow Scale
+    uri: kca://book/amzn1.gr.book.v1.yaSnJgW-b4yN3cxLMovwHw
+    work:
+      id: '21451371'
+  - authors:
+      author:
+        id: '18002726'
+        link: https://www.goodreads.com/author/show/18002726.J_B_Lion
+        name: J.B. Lion
+    average_rating: '3.97'
+    id: '221478322'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: '9798346178835'
+    link: https://www.goodreads.com/book/show/221478322-the-seventh-spark---knights-of-the-trinity
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31047'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Seventh Spark - Knights of the Trinity: Book One of Volume One (The
+      Seventh Spark - Volume One)'
+    title_without_series: 'The Seventh Spark - Knights of the Trinity: Book One of
+      Volume One'
+    uri: kca://book/amzn1.gr.book.v3.FzQCta-pivIZFOIb
+    work:
+      id: '86996139'
+  - authors:
+      author:
+        id: '119888'
+        link: https://www.goodreads.com/author/show/119888.Genevieve_Cogman
+        name: Genevieve Cogman
+    average_rating: '3.97'
+    id: '57593991'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631274967l/57593991._SX98_.jpg
+    isbn: '1984804812'
+    isbn13: '9781984804815'
+    link: https://www.goodreads.com/book/show/57593991-the-untold-story
+    num_pages: '352'
+    publication_day: '28'
+    publication_month: '12'
+    publication_year: '2021'
+    ratings_count: '31047'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631274967l/57593991._SY75_.jpg
+    title: 'The Untold Story (The Invisible Library, #8)'
+    title_without_series: The Untold Story
+    uri: kca://book/amzn1.gr.book.v3.C_JxHkkUlN_43sZu
+    work:
+      id: '90197391'
+  - authors:
+      author:
+        id: '119888'
+        link: https://www.goodreads.com/author/show/119888.Genevieve_Cogman
+        name: Genevieve Cogman
+    average_rating: '3.97'
+    id: '21416690'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416823893l/21416690._SX98_.jpg
+    isbn: '1447256239'
+    isbn13: '9781447256236'
+    link: https://www.goodreads.com/book/show/21416690-the-invisible-library
+    num_pages: '329'
+    publication_day: '15'
+    publication_month: '1'
+    publication_year: '2015'
+    ratings_count: '31047'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416823893l/21416690._SY75_.jpg
+    title: 'The Invisible Library (The Invisible Library, #1)'
+    title_without_series: The Invisible Library
+    uri: kca://book/amzn1.gr.book.v1.5DVBv2ahr4hD3wuDsozHGQ
+    work:
+      id: '40717845'
+  - authors:
+      author:
+        id: '8596'
+        link: https://www.goodreads.com/author/show/8596.Tamora_Pierce
+        name: Tamora Pierce
+    average_rating: '3.97'
+    id: '58893'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481568171l/58893._SX98_.jpg
+    isbn: 0590554115
+    isbn13: '9780590554114'
+    link: https://www.goodreads.com/book/show/58893.Briar_s_Book
+    num_pages: '258'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31047'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481568171l/58893._SY75_.jpg
+    title: 'Briar''s Book (Circle of Magic, #4)'
+    title_without_series: Briar's Book
+    uri: kca://book/amzn1.gr.book.v1.2ft1dNRwvsfnPuiJ6TJlng
+    work:
+      id: '3353659'
+  - authors:
+      author:
+        id: '119888'
+        link: https://www.goodreads.com/author/show/119888.Genevieve_Cogman
+        name: Genevieve Cogman
+    average_rating: '3.97'
+    id: '44572032'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584034446l/44572032._SX98_.jpg
+    isbn: '1984804790'
+    isbn13: '9781984804792'
+    link: https://www.goodreads.com/book/show/44572032-the-dark-archive
+    num_pages: '336'
+    publication_day: '29'
+    publication_month: '12'
+    publication_year: '2020'
+    ratings_count: '31047'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584034446l/44572032._SX50_.jpg
+    title: 'The Dark Archive (The Invisible Library, #7)'
+    title_without_series: The Dark Archive
+    uri: kca://book/amzn1.gr.book.v1.aSHoe8LoZ4dRWwpjEe2NQw
+    work:
+      id: '69178048'
+  - authors:
+      author:
+        id: '119888'
+        link: https://www.goodreads.com/author/show/119888.Genevieve_Cogman
+        name: Genevieve Cogman
+    average_rating: '3.97'
+    id: '31690144'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480780374l/31690144._SX98_.jpg
+    isbn: '1509830715'
+    isbn13: '9781509830718'
+    link: https://www.goodreads.com/book/show/31690144-the-lost-plot
+    num_pages: '376'
+    publication_day: '14'
+    publication_month: '12'
+    publication_year: '2017'
+    ratings_count: '31047'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480780374l/31690144._SY75_.jpg
+    title: 'The Lost Plot (The Invisible Library, #4)'
+    title_without_series: The Lost Plot
+    uri: kca://book/amzn1.gr.book.v1.dbNB8byntGeMH9Xo8k8WHA
+    work:
+      id: '52365352'
+  - authors:
+      author:
+        id: '3849415'
+        link: https://www.goodreads.com/author/show/3849415.Deborah_Harkness
+        name: Deborah Harkness
+    average_rating: '3.97'
+    id: '18892998'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391546498l/18892998._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/18892998-the-book-of-life
+    num_pages: '564'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31047'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391546498l/18892998._SY75_.jpg
+    title: 'The Book of Life (All Souls, #3)'
+    title_without_series: The Book of Life
+    uri: kca://book/amzn1.gr.book.v1.FnOly-LHMLGhEEOVfj2VTA
+    work:
+      id: '223467719'
+  - authors:
+      author:
+        id: '38066'
+        link: https://www.goodreads.com/author/show/38066.Karen_Chance
+        name: Karen Chance
+    average_rating: '3.97'
+    id: '7894524'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392858948l/7894524._SX98_.jpg
+    isbn: 0698182936
+    isbn13: '9780698182936'
+    link: https://www.goodreads.com/book/show/7894524-masks
+    num_pages: '406'
+    publication_day: '18'
+    publication_month: '3'
+    publication_year: '2014'
+    ratings_count: '31047'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392858948l/7894524._SY75_.jpg
+    title: 'Masks (Cassandra Palmer World, #9.5)'
+    title_without_series: Masks
+    uri: kca://book/amzn1.gr.book.v1.fpL9PGX-HvIwaID9Ev83NA
+    work:
+      id: '11130846'
+  - authors:
+      author:
+        id: '119888'
+        link: https://www.goodreads.com/author/show/119888.Genevieve_Cogman
+        name: Genevieve Cogman
+    average_rating: '3.97'
+    id: '45043662'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555259812l/45043662._SX98_.jpg
+    isbn: '1984804766'
+    isbn13: '9781984804761'
+    link: https://www.goodreads.com/book/show/45043662-the-secret-chapter
+    num_pages: '336'
+    publication_day: '7'
+    publication_month: '1'
+    publication_year: '2020'
+    ratings_count: '31047'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555259812l/45043662._SY75_.jpg
+    title: 'The Secret Chapter (The Invisible Library, #6)'
+    title_without_series: The Secret Chapter
+    uri: kca://book/amzn1.gr.book.v1.6i83Sm4x_hqnzqLoqpD0-A
+    work:
+      id: '69745594'
+  - authors:
+      author:
+        id: '43705766'
+        link: https://www.goodreads.com/author/show/43705766.Cade_Mengler
+        name: Cade Mengler
+    average_rating: '3.97'
+    id: '197980720'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1916787665'
+    isbn13: '9781916787667'
+    link: https://www.goodreads.com/book/show/197980720-the-companions
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31047'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Companions
+    title_without_series: The Companions
+    uri: kca://book/amzn1.gr.book.v3.Pb6DMkJU66bdLfxR
+    work:
+      id: '200713180'
+  - authors:
+      author:
+        id: '119888'
+        link: https://www.goodreads.com/author/show/119888.Genevieve_Cogman
+        name: Genevieve Cogman
+    average_rating: '3.97'
+    id: '25761086'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1447256255'
+    isbn13: '9781447256250'
+    link: https://www.goodreads.com/book/show/25761086-the-masked-city
+    num_pages: '357'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31047'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Masked City (The Invisible Library, #2)'
+    title_without_series: The Masked City
+    uri: kca://book/amzn1.gr.book.v1.seU6TwJO3cwv9Fs06ZPBkA
+    work:
+      id: '45605935'
+  - authors:
+      author:
+        id: '8685'
+        link: https://www.goodreads.com/author/show/8685.Mercedes_Lackey
+        name: Mercedes Lackey
+    average_rating: '3.97'
+    id: '28734'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478489331l/28734._SX98_.jpg
+    isbn: 0886774268
+    isbn13: '9780886774264'
+    link: https://www.goodreads.com/book/show/28734.Magic_s_Price
+    num_pages: '351'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '31047'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478489331l/28734._SY75_.jpg
+    title: 'Magic''s Price (The Last Herald-Mage #3)'
+    title_without_series: Magic's Price
+    uri: kca://book/amzn1.gr.book.v1.29QGb3ibSYp7XqkF3awS-A
+    work:
+      id: '170912'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418350512l/20643052._SX50_.jpg
+started_at: '2018-08-30T00:00:00-07:00'
+text_reviews_count:
+  '#text': '3836'
+  '@type': integer
+title: 'Ink and Bone (The Great Library, #1)'
+title_without_series: Ink and Bone
+uri: kca://book/amzn1.gr.book.v1.JW9ZBK_PKUIOwHAbSsaPOw
+url: https://www.goodreads.com/book/show/20643052-ink-and-bone
+work:
+  id: '39934787'
+  uri: kca://work/amzn1.gr.work.v1.oaWPUpkmJ_SB0yTDBVh3-w

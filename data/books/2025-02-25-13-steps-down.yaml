@@ -1,0 +1,763 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.71'
+    id: '10890'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1196257541p5/10890.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/10890.Ruth_Rendell
+    name: Ruth Rendell
+    ratings_count: '219777'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1196257541p2/10890.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '18225'
+average_rating: '3.57'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: "From the multi-award-winning author of <i>The Babes in the Wood</i>\
+  \ and <i>The Rottweiler</i>, a chilling new novel about obsession, superstition,\
+  \ and violence, set in Rendell\u2019s darkly atmospheric London.<br /><br />Mix\
+  \ Cellini (which he pronounces with an \u2018S\u2019 rather than a \u2018C\u2019\
+  ) is superstitious about the number 13. In musty old St. Blaise House, where he\
+  \ is the lodger, there are thirteen steps down to the landing below his rooms, which\
+  \ he keeps spick and span. His elderly landlady, Gwendolen Chawcer, was born in\
+  \ St. Blaise House, and lives her life almost exclusively through her library of\
+  \ books, so cannot see the decay and neglect around her.<br /><br />The Notting\
+  \ Hill neighbourhood has changed radically over the last fifty years, and 10 Rillington\
+  \ Place, where the notorious John Christie committed a series of foul murders, has\
+  \ been torn down.<br /><br />Mix is obsessed with the life of Christie and his small\
+  \ library is composed entirely of books on the subject. He has also developed a\
+  \ passion for a beautiful model who lives nearby \u2014 a woman who would not look\
+  \ at him twice.<br /><br />Both landlady and lodger inhabit weird worlds of their\
+  \ own. But when reality intrudes into Mix\u2019s life, a long pent-up violence explodes."
+edition_information: null
+format: null
+id: '83413'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320435129l/83413._SX98_.jpg
+is_ebook: 'false'
+isbn: '1400095905'
+isbn13: '9781400095902'
+json: '{"id": "83413", "isbn": "1400095905", "isbn13": "9781400095902", "text_reviews_count":
+  {"@type": "integer", "#text": "22"}, "uri": "kca://book/amzn1.gr.book.v1.Wc_R-eeEhQnYydvjvgOTOw",
+  "title": "13 Steps Down", "title_without_series": "13 Steps Down", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320435129l/83413._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320435129l/83413._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/83413.13_Steps_Down",
+  "num_pages": "340", "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.57", "ratings_count": "3735", "description": "From the multi-award-winning author
+  of <i>The Babes in the Wood</i> and <i>The Rottweiler</i>, a chilling new novel
+  about obsession, superstition, and violence, set in Rendell\u2019s darkly atmospheric
+  London.<br /><br />Mix Cellini (which he pronounces with an \u2018S\u2019 rather
+  than a \u2018C\u2019) is superstitious about the number 13. In musty old St. Blaise
+  House, where he is the lodger, there are thirteen steps down to the landing below
+  his rooms, which he keeps spick and span. His elderly landlady, Gwendolen Chawcer,
+  was born in St. Blaise House, and lives her life almost exclusively through her
+  library of books, so cannot see the decay and neglect around her.<br /><br />The
+  Notting Hill neighbourhood has changed radically over the last fifty years, and
+  10 Rillington Place, where the notorious John Christie committed a series of foul
+  murders, has been torn down.<br /><br />Mix is obsessed with the life of Christie
+  and his small library is composed entirely of books on the subject. He has also
+  developed a passion for a beautiful model who lives nearby \u2014 a woman who would
+  not look at him twice.<br /><br />Both landlady and lodger inhabit weird worlds
+  of their own. But when reality intrudes into Mix\u2019s life, a long pent-up violence
+  explodes.", "authors": {"author": {"id": "10890", "name": "Ruth Rendell", "role":
+  null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1196257541p5/10890.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1196257541p2/10890.jpg"},
+  "link": "https://www.goodreads.com/author/show/10890.Ruth_Rendell", "average_rating":
+  "3.71", "ratings_count": "219777", "text_reviews_count": "18225"}}, "published":
+  null, "work": {"id": "1448195", "uri": "kca://work/amzn1.gr.work.v1.sNjNv40j2yAjP9IT90eZzQ"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/12429040",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B001UID8F0
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/83413.13_Steps_Down
+marketplace_id: ATVPDKIKX0DER
+num_pages: '340'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '1582'
+    '@name': to-read
+  - '@count': '225'
+    '@name': currently-reading
+  - '@count': '121'
+    '@name': mystery
+  - '@count': '64'
+    '@name': fiction
+  - '@count': '49'
+    '@name': crime
+  - '@count': '30'
+    '@name': thriller
+  - '@count': '24'
+    '@name': ruth-rendell
+  - '@count': '22'
+    '@name': suspense
+  - '@count': '22'
+    '@name': mystery-thriller
+  - '@count': '20'
+    '@name': owned
+  - '@count': '17'
+    '@name': mysteries
+  - '@count': '16'
+    '@name': default
+  - '@count': '15'
+    '@name': british
+  - '@count': '14'
+    '@name': crime-fiction
+  - '@count': '12'
+    '@name': mystery-suspense
+  - '@count': '11'
+    '@name': library
+  - '@count': '11'
+    '@name': books-i-own
+  - '@count': '8'
+    '@name': audio
+  - '@count': '8'
+    '@name': '2006'
+  - '@count': '6'
+    '@name': novel
+  - '@count': '6'
+    '@name': british-mystery
+  - '@count': '6'
+    '@name': '2005'
+  - '@count': '5'
+    '@name': owned-books
+  - '@count': '5'
+    '@name': suspense-thriller
+  - '@count': '5'
+    '@name': rendell-ruth
+  - '@count': '5'
+    '@name': favorites
+  - '@count': '5'
+    '@name': psychological-suspense
+  - '@count': '5'
+    '@name': audiobooks
+  - '@count': '5'
+    '@name': murder-mystery
+  - '@count': '5'
+    '@name': england
+  - '@count': '5'
+    '@name': thrillers
+  - '@count': '5'
+    '@name': audiobook
+  - '@count': '4'
+    '@name': audible
+  - '@count': '4'
+    '@name': physical-tbr
+  - '@count': '4'
+    '@name': tbr
+  - '@count': '4'
+    '@name': kindle
+  - '@count': '4'
+    '@name': detective
+  - '@count': '4'
+    '@name': wish-list
+  - '@count': '4'
+    '@name': crime-mystery
+  - '@count': '4'
+    '@name': psychological-thriller
+  - '@count': '4'
+    '@name': rendell
+  - '@count': '4'
+    '@name': psychological
+  - '@count': '4'
+    '@name': murder
+  - '@count': '4'
+    '@name': ebooks
+  - '@count': '4'
+    '@name': crime-thriller
+  - '@count': '4'
+    '@name': london
+  - '@count': '4'
+    '@name': contemporary
+  - '@count': '4'
+    '@name': horror
+  - '@count': '3'
+    '@name': dnf
+  - '@count': '3'
+    '@name': did-not-finish
+  - '@count': '3'
+    '@name': bookshelf
+  - '@count': '3'
+    '@name': mystery-crime
+  - '@count': '3'
+    '@name': currently-own
+  - '@count': '3'
+    '@name': not-read
+  - '@count': '3'
+    '@name': britain
+  - '@count': '3'
+    '@name': crime-and-mystery
+  - '@count': '3'
+    '@name': own-a-copy
+  - '@count': '3'
+    '@name': didnt-finish
+  - '@count': '3'
+    '@name': stand-alone
+  - '@count': '3'
+    '@name': e-books
+  - '@count': '3'
+    '@name': public-library
+  - '@count': '3'
+    '@name': audio-book
+  - '@count': '3'
+    '@name': mysteries-thrillers
+  - '@count': '3'
+    '@name': thriller-suspense
+  - '@count': '2'
+    '@name': other-books
+  - '@count': '2'
+    '@name': my-bookcase
+  - '@count': '2'
+    '@name': home-bookshelf
+  - '@count': '2'
+    '@name': british-isles
+  - '@count': '2'
+    '@name': 1-owned
+  - '@count': '2'
+    '@name': own-tbr
+  - '@count': '2'
+    '@name': in-my-library
+  - '@count': '2'
+    '@name': books-owned
+  - '@count': '2'
+    '@name': 2017-read
+  - '@count': '2'
+    '@name': mysteries-suspense
+  - '@count': '2'
+    '@name': my-library
+  - '@count': '2'
+    '@name': my-books
+  - '@count': '2'
+    '@name': rendell-vine
+  - '@count': '2'
+    '@name': collection
+  - '@count': '2'
+    '@name': read-2000-2009
+  - '@count': '2'
+    '@name': books
+  - '@count': '2'
+    '@name': who-dunnit
+  - '@count': '2'
+    '@name': british-literature
+  - '@count': '2'
+    '@name': library-book
+  - '@count': '2'
+    '@name': krimi
+  - '@count': '2'
+    '@name': to-read-mystery
+  - '@count': '2'
+    '@name': ruth-rendell-books
+  - '@count': '2'
+    '@name': crime-mystery-thriller
+  - '@count': '2'
+    '@name': crime-detective
+  - '@count': '2'
+    '@name': ebook
+  - '@count': '2'
+    '@name': female-authors
+  - '@count': '2'
+    '@name': ruth-rendell-barbara-vine
+  - '@count': '2'
+    '@name': mystery-thrillers
+  - '@count': '2'
+    '@name': mystery-psychological
+  - '@count': '2'
+    '@name': crime-thriller-mystery
+  - '@count': '2'
+    '@name': crime-suspense
+  - '@count': '2'
+    '@name': books-i-have
+  - '@count': '2'
+    '@name': abandoned
+  - '@count': '2'
+    '@name': read-2006
+  - '@count': '2'
+    '@name': adult
+  - '@count': '2'
+    '@name': have
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '3735'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/12429040
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/83413.13_Steps_Down\"\
+  >13 Steps Down Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1400095905&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/83413.13_Steps_Down?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '47687'
+        link: https://www.goodreads.com/author/show/47687.Barbara_Vine
+        name: Barbara Vine
+    average_rating: '3.57'
+    id: '104507'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1416531939'
+    isbn13: '9781416531937'
+    link: https://www.goodreads.com/book/show/104507.The_Chimney_Sweeper_s_Boy
+    num_pages: '344'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3735'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Chimney Sweeper's Boy
+    title_without_series: The Chimney Sweeper's Boy
+    uri: kca://book/amzn1.gr.book.v1.YrWsTkOqpVKJBazwiLqFvg
+    work:
+      id: '2831053'
+  - authors:
+      author:
+        id: '47687'
+        link: https://www.goodreads.com/author/show/47687.Barbara_Vine
+        name: Barbara Vine
+    average_rating: '3.57'
+    id: '454539'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356139180l/454539._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/454539.The_Brimstone_Wedding
+    num_pages: '312'
+    publication_day: '30'
+    publication_month: '1'
+    publication_year: '1997'
+    ratings_count: '3735'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356139180l/454539._SY75_.jpg
+    title: The Brimstone Wedding
+    title_without_series: The Brimstone Wedding
+    uri: kca://book/amzn1.gr.book.v1.aoXDttta-wc5idH2C-ThLg
+    work:
+      id: '2768858'
+  - authors:
+      author:
+        id: '36125'
+        link: https://www.goodreads.com/author/show/36125.Wenceslao_Fern_ndez_Fl_rez
+        name: "Wenceslao Fern\xE1ndez Fl\xF3rez"
+    average_rating: '3.57'
+    id: '1244768'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507153327l/1244768._SX98_.jpg
+    isbn: '8475253423'
+    isbn13: '9788475253428'
+    link: https://www.goodreads.com/book/show/1244768.El_bosque_animado
+    num_pages: '223'
+    publication_day: '1'
+    publication_month: '3'
+    publication_year: '1986'
+    ratings_count: '3735'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507153327l/1244768._SX50_.jpg
+    title: El bosque animado
+    title_without_series: El bosque animado
+    uri: kca://book/amzn1.gr.book.v1.gkkB-5h4d039fgGbwpe_6Q
+    work:
+      id: '3311201'
+  - authors:
+      author:
+        id: '47687'
+        link: https://www.goodreads.com/author/show/47687.Barbara_Vine
+        name: Barbara Vine
+    average_rating: '3.57'
+    id: '83422'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0452270642'
+    isbn13: '9780452270640'
+    link: https://www.goodreads.com/book/show/83422.A_Dark_Adapted_Eye
+    num_pages: '278'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3735'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: A Dark-Adapted Eye
+    title_without_series: A Dark-Adapted Eye
+    uri: kca://book/amzn1.gr.book.v1.jK87ZiZCsR1DjocYSeUuhQ
+    work:
+      id: '1898119'
+  - authors:
+      author:
+        id: '47687'
+        link: https://www.goodreads.com/author/show/47687.Barbara_Vine
+        name: Barbara Vine
+    average_rating: '3.57'
+    id: '13547105'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347975137l/13547105._SX98_.jpg
+    isbn: 145169489X
+    isbn13: '9781451694895'
+    link: https://www.goodreads.com/book/show/13547105-the-child-s-child
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3735'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347975137l/13547105._SY75_.jpg
+    title: The Child's Child
+    title_without_series: The Child's Child
+    uri: kca://book/amzn1.gr.book.v1.CBCHXfQGRQ9miIxVQakqMw
+    work:
+      id: '19112239'
+  - authors:
+      author:
+        id: '3780'
+        link: https://www.goodreads.com/author/show/3780.James_Patterson
+        name: James  Patterson
+    average_rating: '3.57'
+    id: '24705195'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433303591l/24705195._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/24705195-the-murder-of-an-angel
+    num_pages: '304'
+    publication_day: '26'
+    publication_month: '10'
+    publication_year: '2015'
+    ratings_count: '3735'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433303591l/24705195._SX50_.jpg
+    title: 'The Murder of an Angel (Confessions, #4)'
+    title_without_series: The Murder of an Angel
+    uri: kca://book/amzn1.gr.book.v1.XAEa8J9IJ1_iY6Lnk6-vMA
+    work:
+      id: '44324996'
+  - authors:
+      author:
+        id: '47687'
+        link: https://www.goodreads.com/author/show/47687.Barbara_Vine
+        name: Barbara Vine
+    average_rating: '3.57'
+    id: '459421'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344356682l/459421._SX98_.jpg
+    isbn: 0140156917
+    isbn13: '9780140156911'
+    link: https://www.goodreads.com/book/show/459421.King_Solomon_s_Carpet
+    num_pages: '355'
+    publication_day: null
+    publication_month: null
+    publication_year: '1992'
+    ratings_count: '3735'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344356682l/459421._SY75_.jpg
+    title: King Solomon's Carpet
+    title_without_series: King Solomon's Carpet
+    uri: kca://book/amzn1.gr.book.v1.8_EieADJb1xFbw9wskdrSw
+    work:
+      id: '1351156'
+  - authors:
+      author:
+        id: '3780'
+        link: https://www.goodreads.com/author/show/3780.James_Patterson
+        name: James  Patterson
+    average_rating: '3.57'
+    id: '18719296'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399995313l/18719296._SX98_.jpg
+    isbn: 0316405868
+    isbn13: '9780316405867'
+    link: https://www.goodreads.com/book/show/18719296-the-paris-mysteries
+    num_pages: '320'
+    publication_day: '6'
+    publication_month: '10'
+    publication_year: '2014'
+    ratings_count: '3735'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399995313l/18719296._SX50_.jpg
+    title: 'The Paris Mysteries (Confessions, #3)'
+    title_without_series: The Paris Mysteries
+    uri: kca://book/amzn1.gr.book.v1.PNU2Bz_hVoBmHNBjEKuVyg
+    work:
+      id: '26585246'
+  - authors:
+      author:
+        id: '5412415'
+        link: https://www.goodreads.com/author/show/5412415.Susie_Steiner
+        name: Susie Steiner
+    average_rating: '3.57'
+    id: '51791063'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0525509976
+    isbn13: '9780525509974'
+    link: https://www.goodreads.com/book/show/51791063-remain-silent
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3735'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Remain Silent (DS Manon Bradshaw, #3)'
+    title_without_series: Remain Silent
+    uri: kca://book/amzn1.gr.book.v3.lECYEQ0Y-oPzifEZ
+    work:
+      id: '71134275'
+  - authors:
+      author:
+        id: '16067736'
+        link: https://www.goodreads.com/author/show/16067736.Inma_Aguilera
+        name: Inma Aguilera
+    average_rating: '3.57'
+    id: '210391410'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715068353l/210391410._SX98_.jpg
+    isbn: '8466678670'
+    isbn13: '9788466678674'
+    link: https://www.goodreads.com/book/show/210391410-la-dama-de-la-cartuja
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3735'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715068353l/210391410._SY75_.jpg
+    title: La dama de la Cartuja
+    title_without_series: La dama de la Cartuja
+    uri: kca://book/amzn1.gr.book.v3.ukPEwlR--TpJZaa-
+    work:
+      id: '216610260'
+  - authors:
+      author:
+        id: '3780'
+        link: https://www.goodreads.com/author/show/3780.James_Patterson
+        name: James  Patterson
+    average_rating: '3.57'
+    id: '17333276'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373406704l/17333276._SX98_.jpg
+    isbn: 0316207659
+    isbn13: '9780316207652'
+    link: https://www.goodreads.com/book/show/17333276-the-private-school-murders
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3735'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373406704l/17333276._SY75_.jpg
+    title: 'The Private School Murders (Confessions, #2)'
+    title_without_series: The Private School Murders
+    uri: kca://book/amzn1.gr.book.v1.j5Z1hhiXqNVMVhSWbyo05g
+    work:
+      id: '24064830'
+  - authors:
+      author:
+        id: '1533165'
+        link: https://www.goodreads.com/author/show/1533165.W_J_Burley
+        name: W.J. Burley
+    average_rating: '3.57'
+    id: '1283301'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328859780l/1283301._SX98_.jpg
+    isbn: 0752880837
+    isbn13: '9780752880839'
+    link: https://www.goodreads.com/book/show/1283301.Wycliffe_and_the_Guilt_Edged_Alibi
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3735'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328859780l/1283301._SY75_.jpg
+    title: 'Wycliffe and the Guilt Edged Alibi (Wycliffe, #3)'
+    title_without_series: Wycliffe and the Guilt Edged Alibi
+    uri: kca://book/amzn1.gr.book.v1.HQaoSg2P0xFkE4fRNkKEJA
+    work:
+      id: '1272348'
+  - authors:
+      author:
+        id: '56067'
+        link: https://www.goodreads.com/author/show/56067.Ann_Cleeves
+        name: Ann Cleeves
+    average_rating: '3.57'
+    id: '52546109'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/52546109-a-day-in-the-death-of-dorothea-cassidy
+    num_pages: '224'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3735'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'A Day in the Death of Dorothea Cassidy (Inspector Ramsey, #3)'
+    title_without_series: A Day in the Death of Dorothea Cassidy
+    uri: kca://book/amzn1.gr.book.v3.NYRnJoZZdh4_xvL-
+    work:
+      id: '1611936'
+  - authors:
+      author:
+        id: '1411964'
+        link: https://www.goodreads.com/author/show/1411964.John_Le_Carr_
+        name: "John Le Carr\xE9"
+    average_rating: '3.57'
+    id: '3281277'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1416594884'
+    isbn13: '9781416594888'
+    link: https://www.goodreads.com/book/show/3281277-a-most-wanted-man
+    num_pages: '323'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3735'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: A Most Wanted Man
+    title_without_series: A Most Wanted Man
+    uri: kca://book/amzn1.gr.book.v1.knEsS451yK4zP-S8JcPXvA
+    work:
+      id: '3317593'
+  - authors:
+      author:
+        id: '47687'
+        link: https://www.goodreads.com/author/show/47687.Barbara_Vine
+        name: Barbara Vine
+    average_rating: '3.57'
+    id: '308621'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0307237605'
+    isbn13: '9780307237606'
+    link: https://www.goodreads.com/book/show/308621.The_Minotaur
+    num_pages: '341'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3735'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Minotaur
+    title_without_series: The Minotaur
+    uri: kca://book/amzn1.gr.book.v1.-we9EsfAmkMb88pcTkuAFA
+    work:
+      id: '2728453'
+  - authors:
+      author:
+        id: '8323980'
+        link: https://www.goodreads.com/author/show/8323980.Lili_Anolik
+        name: Lili Anolik
+    average_rating: '3.57'
+    id: '22535506'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411574031l/22535506._SX98_.jpg
+    isbn: 0062345869
+    isbn13: '9780062345868'
+    link: https://www.goodreads.com/book/show/22535506-dark-rooms
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3735'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411574031l/22535506._SY75_.jpg
+    title: Dark Rooms
+    title_without_series: Dark Rooms
+    uri: kca://book/amzn1.gr.book.v1.BPQkFWz1sQpz4B-5EsWnXQ
+    work:
+      id: '41987038'
+  - authors:
+      author:
+        id: '47687'
+        link: https://www.goodreads.com/author/show/47687.Barbara_Vine
+        name: Barbara Vine
+    average_rating: '3.57'
+    id: '4762404'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320416170l/4762404._SX98_.jpg
+    isbn: 0307451984
+    isbn13: '9780307451989'
+    link: https://www.goodreads.com/book/show/4762404-the-birthday-present
+    num_pages: '323'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3735'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320416170l/4762404._SY75_.jpg
+    title: The Birthday Present
+    title_without_series: The Birthday Present
+    uri: kca://book/amzn1.gr.book.v1.wHErD95TyZgOhH6yyRNHAA
+    work:
+      id: '4827203'
+  - authors:
+      author:
+        id: '43626'
+        link: https://www.goodreads.com/author/show/43626.Jonathan_Kellerman
+        name: Jonathan Kellerman
+    average_rating: '3.57'
+    id: '63249468'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684815549l/63249468._SX98_SY160_.jpg
+    isbn: '0525620141'
+    isbn13: '9780525620143'
+    link: https://www.goodreads.com/book/show/63249468-the-lost-coast
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3735'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684815549l/63249468._SX50_SY75_.jpg
+    title: 'The Lost Coast (Clay Edison, #5)'
+    title_without_series: The Lost Coast
+    uri: kca://book/amzn1.gr.book.v3.yZrQrkYgcLbk6c9R
+    work:
+      id: '99406689'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320435129l/83413._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '22'
+  '@type': integer
+title: 13 Steps Down
+title_without_series: 13 Steps Down
+uri: kca://book/amzn1.gr.book.v1.Wc_R-eeEhQnYydvjvgOTOw
+url: https://www.goodreads.com/book/show/83413.13_Steps_Down
+work:
+  id: '1448195'
+  uri: kca://work/amzn1.gr.work.v1.sNjNv40j2yAjP9IT90eZzQ
