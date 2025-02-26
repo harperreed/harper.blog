@@ -1,0 +1,778 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.90'
+    id: '74610'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1225753229p5/74610.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/74610.Brian_Wansink
+    name: Brian Wansink
+    ratings_count: '13278'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1225753229p2/74610.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '1680'
+average_rating: '3.93'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: "This book will literally change the way you think about your next meal.\
+  \ Food psychologist Brian Wansink revolutionizes our awareness of how much, what,\
+  \ and why we\u2019re eating\u2014often without realizing it. His findings will astound\
+  \ you.<br />\_<br />\u2022 Can the size of your plate really influence your appetite?<br\
+  \ />\u2022 Why do you eat more when you dine with friends?<br />\u2022 What \u201C\
+  hidden persuaders\u201D are used by restaurants and supermarkets to get us to overeat?<br\
+  \ />\u2022 How does music or the color of the room influence how much\u2014and how\
+  \ fast\u2014we eat?<br />\u2022 How can we \u201Cmindlessly\u201D lose\u2014instead\
+  \ of gain\u2014up to twenty pounds in the coming year?<br />\_<br />Starting today,\
+  \ you can make more mindful, enjoyable, and healthy choices at the dinner table,\
+  \ in the supermarket, at the office\u2014wherever you satisfy your appetite."
+edition_information: '1'
+format: null
+id: '129731'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320482034l/129731._SX98_.jpg
+is_ebook: 'false'
+isbn: 0553804340
+isbn13: '9780553804348'
+json: '{"id": "129731", "isbn": "0553804340", "isbn13": "9780553804348", "text_reviews_count":
+  {"@type": "integer", "#text": "1291"}, "uri": "kca://book/amzn1.gr.book.v1.jw5oK8mIHdMcncDe3YADSw",
+  "title": "Mindless Eating: Why We Eat More Than We Think", "title_without_series":
+  "Mindless Eating: Why We Eat More Than We Think", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320482034l/129731._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320482034l/129731._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/129731.Mindless_Eating",
+  "num_pages": "276", "format": null, "edition_information": "1", "publisher": "Bantam",
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.93", "ratings_count": "12138", "description": "This book will literally change
+  the way you think about your next meal. Food psychologist Brian Wansink revolutionizes
+  our awareness of how much, what, and why we\u2019re eating\u2014often without realizing
+  it. His findings will astound you.<br />\u00a0<br />\u2022 Can the size of your
+  plate really influence your appetite?<br />\u2022 Why do you eat more when you dine
+  with friends?<br />\u2022 What \u201chidden persuaders\u201d are used by restaurants
+  and supermarkets to get us to overeat?<br />\u2022 How does music or the color of
+  the room influence how much\u2014and how fast\u2014we eat?<br />\u2022 How can we
+  \u201cmindlessly\u201d lose\u2014instead of gain\u2014up to twenty pounds in the
+  coming year?<br />\u00a0<br />Starting today, you can make more mindful, enjoyable,
+  and healthy choices at the dinner table, in the supermarket, at the office\u2014wherever
+  you satisfy your appetite.", "authors": {"author": {"id": "74610", "name": "Brian
+  Wansink", "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1225753229p5/74610.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1225753229p2/74610.jpg"},
+  "link": "https://www.goodreads.com/author/show/74610.Brian_Wansink", "average_rating":
+  "3.90", "ratings_count": "13278", "text_reviews_count": "1680"}}, "published": null,
+  "work": {"id": "124953", "uri": "kca://work/amzn1.gr.work.v1.ZqfpQlYqgvcX8FmDJvXR6w"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/42404781",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B000MAHC0E
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/129731.Mindless_Eating
+marketplace_id: ATVPDKIKX0DER
+num_pages: '276'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '17861'
+    '@name': to-read
+  - '@count': '746'
+    '@name': currently-reading
+  - '@count': '550'
+    '@name': non-fiction
+  - '@count': '320'
+    '@name': health
+  - '@count': '295'
+    '@name': food
+  - '@count': '217'
+    '@name': nonfiction
+  - '@count': '210'
+    '@name': psychology
+  - '@count': '106'
+    '@name': self-help
+  - '@count': '101'
+    '@name': science
+  - '@count': '71'
+    '@name': nutrition
+  - '@count': '46'
+    '@name': audiobook
+  - '@count': '40'
+    '@name': self-improvement
+  - '@count': '38'
+    '@name': audiobooks
+  - '@count': '34'
+    '@name': audio
+  - '@count': '30'
+    '@name': favorites
+  - '@count': '29'
+    '@name': library
+  - '@count': '27'
+    '@name': personal-development
+  - '@count': '26'
+    '@name': health-fitness
+  - '@count': '24'
+    '@name': owned
+  - '@count': '20'
+    '@name': kindle
+  - '@count': '19'
+    '@name': fitness
+  - '@count': '19'
+    '@name': diet
+  - '@count': '18'
+    '@name': health-and-wellness
+  - '@count': '17'
+    '@name': books-i-own
+  - '@count': '15'
+    '@name': audible
+  - '@count': '14'
+    '@name': to-buy
+  - '@count': '14'
+    '@name': business
+  - '@count': '14'
+    '@name': health-and-fitness
+  - '@count': '12'
+    '@name': foodie
+  - '@count': '12'
+    '@name': audio-book
+  - '@count': '11'
+    '@name': food-health
+  - '@count': '11'
+    '@name': to-read-nonfiction
+  - '@count': '11'
+    '@name': food-nutrition
+  - '@count': '11'
+    '@name': audio-books
+  - '@count': '11'
+    '@name': sociology
+  - '@count': '11'
+    '@name': food-and-drink
+  - '@count': '10'
+    '@name': research
+  - '@count': '10'
+    '@name': wellness
+  - '@count': '9'
+    '@name': book-club
+  - '@count': '9'
+    '@name': health-wellness
+  - '@count': '9'
+    '@name': cooking
+  - '@count': '9'
+    '@name': next
+  - '@count': '9'
+    '@name': food-books
+  - '@count': '9'
+    '@name': to-read-non-fiction
+  - '@count': '9'
+    '@name': food-related
+  - '@count': '8'
+    '@name': healthy-eating
+  - '@count': '8'
+    '@name': psych
+  - '@count': '8'
+    '@name': recommended
+  - '@count': '8'
+    '@name': default
+  - '@count': '8'
+    '@name': self-development
+  - '@count': '8'
+    '@name': ebook
+  - '@count': '8'
+    '@name': non-fic
+  - '@count': '8'
+    '@name': eating
+  - '@count': '8'
+    '@name': social-science
+  - '@count': '7'
+    '@name': blinkist
+  - '@count': '7'
+    '@name': economics
+  - '@count': '7'
+    '@name': mindfulness
+  - '@count': '7'
+    '@name': health-nutrition
+  - '@count': '7'
+    '@name': health-food
+  - '@count': '7'
+    '@name': adult
+  - '@count': '7'
+    '@name': social-sciences
+  - '@count': '7'
+    '@name': weight-loss
+  - '@count': '7'
+    '@name': other
+  - '@count': '7'
+    '@name': library-book
+  - '@count': '7'
+    '@name': borrowed
+  - '@count': '6'
+    '@name': food-and-health
+  - '@count': '6'
+    '@name': read-in-2014
+  - '@count': '6'
+    '@name': fitness-and-health
+  - '@count': '6'
+    '@name': food-writing
+  - '@count': '6'
+    '@name': body
+  - '@count': '6'
+    '@name': education
+  - '@count': '6'
+    '@name': abandoned
+  - '@count': '6'
+    '@name': wish-list
+  - '@count': '6'
+    '@name': did-not-finish
+  - '@count': '5'
+    '@name': behavioral-economics
+  - '@count': '5'
+    '@name': lifestyle
+  - '@count': '5'
+    '@name': tim-ferriss
+  - '@count': '5'
+    '@name': ramit-sethi
+  - '@count': '5'
+    '@name': behavioral-science
+  - '@count': '5'
+    '@name': maybe
+  - '@count': '5'
+    '@name': home-library
+  - '@count': '5'
+    '@name': to-read-food
+  - '@count': '5'
+    '@name': ebooks
+  - '@count': '5'
+    '@name': popular-science
+  - '@count': '5'
+    '@name': didn-t-finish
+  - '@count': '5'
+    '@name': food-and-nutrition
+  - '@count': '5'
+    '@name': must-read
+  - '@count': '5'
+    '@name': own-it
+  - '@count': '5'
+    '@name': adult-non-fiction
+  - '@count': '5'
+    '@name': behavioural-economics
+  - '@count': '5'
+    '@name': health-and-nutrition
+  - '@count': '5'
+    '@name': food-issues
+  - '@count': '5'
+    '@name': adult-nonfiction
+  - '@count': '5'
+    '@name': food-cooking
+  - '@count': '5'
+    '@name': medicine
+  - '@count': '5'
+    '@name': read-again
+  - '@count': '4'
+    '@name': read-in-2018
+  - '@count': '4'
+    '@name': my-books
+  - '@count': '4'
+    '@name': dnf
+  - '@count': '4'
+    '@name': mind
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: Bantam
+ratings_count: '12138'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/42404781
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/129731.Mindless_Eating\"\
+  >Mindless Eating Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0553804340&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/129731.Mindless_Eating?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '50992159'
+        link: https://www.goodreads.com/author/show/50992159.Raz_Mihal
+        name: Raz Mihal
+    average_rating: '3.93'
+    id: '216474926'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1068630019'
+    isbn13: '9781068630019'
+    link: https://www.goodreads.com/book/show/216474926-just-love-her
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12138'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Just Love Her
+    title_without_series: Just Love Her
+    uri: kca://book/amzn1.gr.book.v3.U4zgkKgesSoRzx1f
+    work:
+      id: '222889589'
+  - authors:
+      author:
+        id: '47730430'
+        link: https://www.goodreads.com/author/show/47730430.Ronald_M_Razmi
+        name: Ronald M. Razmi
+    average_rating: '3.93'
+    id: '204866266'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1394240171'
+    isbn13: '9781394240173'
+    link: https://www.goodreads.com/book/show/204866266-ai-doctor
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12138'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'AI Doctor: The Rise of Artificial Intelligence in Healthcare - A Guide
+      for Users, Buyers, Builders, and Investors'
+    title_without_series: 'AI Doctor: The Rise of Artificial Intelligence in Healthcare
+      - A Guide for Users, Buyers, Builders, and Investors'
+    uri: kca://book/amzn1.gr.book.v3.UMlrtq1Ha7euFcdm
+    work:
+      id: '210806377'
+  - authors:
+      author:
+        id: '31022426'
+        link: https://www.goodreads.com/author/show/31022426.Gregory_S_Works
+        name: Gregory S. Works
+    average_rating: '3.93'
+    id: '80348200'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679466872l/80348200._SX98_.jpg
+    isbn: '1636980627'
+    isbn13: '9781636980621'
+    link: https://www.goodreads.com/book/show/80348200-triumph
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12138'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679466872l/80348200._SY75_.jpg
+    title: 'Triumph: Life on the Other Side of Trials, Transplants, Transition and
+      Transformation'
+    title_without_series: 'Triumph: Life on the Other Side of Trials, Transplants,
+      Transition and Transformation'
+    uri: kca://book/amzn1.gr.book.v3.2HRyqYEnmn_PP7DN
+    work:
+      id: '105301753'
+  - authors:
+      author:
+        id: '16235784'
+        link: https://www.goodreads.com/author/show/16235784.Rachel_Wilkerson_Miller
+        name: Rachel Wilkerson Miller
+    average_rating: '3.93'
+    id: '33590204'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499342954l/33590204._SX98_.jpg
+    isbn: 161519407X
+    isbn13: '9781615194070'
+    link: https://www.goodreads.com/book/show/33590204-dot-journaling
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12138'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499342954l/33590204._SX50_.jpg
+    title: "Dot Journaling: A Practical Guide: How to Start and Keep the Planner,\
+      \ To-Do List, and Diary That\u2019ll Actually Help You Get Your Life Together"
+    title_without_series: "Dot Journaling: A Practical Guide: How to Start and Keep\
+      \ the Planner, To-Do List, and Diary That\u2019ll Actually Help You Get Your\
+      \ Life Together"
+    uri: kca://book/amzn1.gr.book.v1.vJYakmBTaHKYWknMP6m7rw
+    work:
+      id: '54403181'
+  - authors:
+      author:
+        id: '4445509'
+        link: https://www.goodreads.com/author/show/4445509.Kate_Kelly
+        name: Kate   Kelly
+    average_rating: '3.93'
+    id: '1277029'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0684815311
+    isbn13: '9780684815312'
+    link: https://www.goodreads.com/book/show/1277029.You_Mean_I_m_Not_Lazy_Stupid_or_Crazy_
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12138'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'You Mean I''m Not Lazy, Stupid or Crazy?!: A Self-help Book for Adults
+      with Attention Deficit Disorder'
+    title_without_series: 'You Mean I''m Not Lazy, Stupid or Crazy?!: A Self-help
+      Book for Adults with Attention Deficit Disorder'
+    uri: kca://book/amzn1.gr.book.v1.AMdYMDdYLlaQi1_5VG4hKQ
+    work:
+      id: '1266005'
+  - authors:
+      author:
+        id: '5289593'
+        link: https://www.goodreads.com/author/show/5289593.Ray_Dalio
+        name: Ray Dalio
+    average_rating: '3.93'
+    id: '12935037'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531044427l/12935037._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/12935037-principles
+    num_pages: '106'
+    publication_day: null
+    publication_month: null
+    publication_year: '2011'
+    ratings_count: '12138'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531044427l/12935037._SX50_.jpg
+    title: 'Principles: Summary'
+    title_without_series: 'Principles: Summary'
+    uri: kca://book/amzn1.gr.book.v1.DmHb3wTvbDIlIvGZ9o7ORw
+    work:
+      id: '18091113'
+  - authors:
+      author:
+        id: '1038213'
+        link: https://www.goodreads.com/author/show/1038213.Danielle_LaPorte
+        name: Danielle LaPorte
+    average_rating: '3.93'
+    id: '12977680'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333577250l/12977680._SX98_.jpg
+    isbn: 030795210X
+    isbn13: '9780307952103'
+    link: https://www.goodreads.com/book/show/12977680-the-fire-starter-sessions
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12138'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333577250l/12977680._SX50_.jpg
+    title: 'The Fire Starter Sessions: A Soulful + Practical Guide to Creating Success
+      on Your Own Terms'
+    title_without_series: 'The Fire Starter Sessions: A Soulful + Practical Guide
+      to Creating Success on Your Own Terms'
+    uri: kca://book/amzn1.gr.book.v1.npx1Q9J1MZTmtKNo0SNMYQ
+    work:
+      id: '18136546'
+  - authors:
+      author:
+        id: '229337'
+        link: https://www.goodreads.com/author/show/229337.Gail_Blanke
+        name: Gail Blanke
+    average_rating: '3.93'
+    id: '5892636'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344265839l/5892636._SX98_.jpg
+    isbn: 044650579X
+    isbn13: '9780446505796'
+    link: https://www.goodreads.com/book/show/5892636-throw-out-fifty-things
+    num_pages: '270'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12138'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344265839l/5892636._SY75_.jpg
+    title: 'Throw Out Fifty Things: Clear the Clutter, Find Your Life'
+    title_without_series: 'Throw Out Fifty Things: Clear the Clutter, Find Your Life'
+    uri: kca://book/amzn1.gr.book.v1.PXHgfFjNN4c7vl6tLKJHyQ
+    work:
+      id: '6064912'
+  - authors:
+      author:
+        id: '9373'
+        link: https://www.goodreads.com/author/show/9373.Kerry_Patterson
+        name: Kerry Patterson
+    average_rating: '3.93'
+    id: '9745641'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344269966l/9745641._SX98_.jpg
+    isbn: 0446573914
+    isbn13: '9780446573917'
+    link: https://www.goodreads.com/book/show/9745641-change-anything
+    num_pages: '262'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12138'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344269966l/9745641._SY75_.jpg
+    title: 'Change Anything: The New Science of Personal Success'
+    title_without_series: 'Change Anything: The New Science of Personal Success'
+    uri: kca://book/amzn1.gr.book.v1.7IdTq9InYN4hUug8MdFRmg
+    work:
+      id: '14436057'
+  - authors:
+      author:
+        id: '8341100'
+        link: https://www.goodreads.com/author/show/8341100.Glenn_Livingston
+        name: Glenn Livingston
+    average_rating: '3.93'
+    id: '27067402'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/27067402-never-binge-again
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12138'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Never Binge Again: Reprogram Yourself to Think Like a Permanently Thin
+      Person'
+    title_without_series: 'Never Binge Again: Reprogram Yourself to Think Like a Permanently
+      Thin Person'
+    uri: kca://book/amzn1.gr.book.v1.qtU1JekvX8V-ihzbOoLuDQ
+    work:
+      id: '47108232'
+  - authors:
+      author:
+        id: '6279463'
+        link: https://www.goodreads.com/author/show/6279463.Bernard_Roth
+        name: Bernard Roth
+    average_rating: '3.93'
+    id: '23462640'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438631544l/23462640._SX98_.jpg
+    isbn: '0062356100'
+    isbn13: '9780062356109'
+    link: https://www.goodreads.com/book/show/23462640-the-achievement-habit
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12138'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438631544l/23462640._SX50_.jpg
+    title: 'The Achievement Habit: Stop Wishing, Start Doing, and Take Command of
+      Your Life'
+    title_without_series: 'The Achievement Habit: Stop Wishing, Start Doing, and Take
+      Command of Your Life'
+    uri: kca://book/amzn1.gr.book.v1.To8rGNpFMGItJseosi1q9g
+    work:
+      id: '42916922'
+  - authors:
+      author:
+        id: '49551406'
+        link: https://www.goodreads.com/author/show/49551406.Hanna_Hasl_Kelchner
+        name: Hanna  Hasl-Kelchner
+    average_rating: '3.93'
+    id: '211423616'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: '9798990029910'
+    link: https://www.goodreads.com/book/show/211423616-seeking-fairness-at-work
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12138'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Seeking Fairness at Work: Cracking the New Code of Greater Employee Engagement,
+      Retention & Satisfaction'
+    title_without_series: 'Seeking Fairness at Work: Cracking the New Code of Greater
+      Employee Engagement, Retention & Satisfaction'
+    uri: kca://book/amzn1.gr.book.v3.d4FPkiJ_XGCjkeJK
+    work:
+      id: '217668162'
+  - authors:
+      author:
+        id: '19413'
+        link: https://www.goodreads.com/author/show/19413.Joel_Fuhrman
+        name: Joel Fuhrman
+    average_rating: '3.93'
+    id: '34451'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0316735507'
+    isbn13: '9780316735506'
+    link: https://www.goodreads.com/book/show/34451.Eat_to_Live
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12138'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Eat to Live: The Revolutionary Formula for Fast and Sustained Weight Loss'
+    title_without_series: 'Eat to Live: The Revolutionary Formula for Fast and Sustained
+      Weight Loss'
+    uri: kca://book/amzn1.gr.book.v1.S_3ZoOgupoS2LWN-w7vv-A
+    work:
+      id: '389572'
+  - authors:
+      author:
+        id: '27082'
+        link: https://www.goodreads.com/author/show/27082.Arianna_Huffington
+        name: Arianna Huffington
+    average_rating: '3.93'
+    id: '25893700'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453058792l/25893700._SX98_.jpg
+    isbn: '1101904003'
+    isbn13: '9781101904008'
+    link: https://www.goodreads.com/book/show/25893700-the-sleep-revolution
+    num_pages: '392'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12138'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453058792l/25893700._SY75_.jpg
+    title: 'The Sleep Revolution: Transforming Your Life, One Night at a Time'
+    title_without_series: 'The Sleep Revolution: Transforming Your Life, One Night
+      at a Time'
+    uri: kca://book/amzn1.gr.book.v1.8B-Un0GrrBHOjxdDcDwqDw
+    work:
+      id: '45775601'
+  - authors:
+      author:
+        id: '218167'
+        link: https://www.goodreads.com/author/show/218167.Henriette_Anne_Klauser
+        name: Henriette Anne Klauser
+    average_rating: '3.93'
+    id: '383301'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0684850028
+    isbn13: '9780684850023'
+    link: https://www.goodreads.com/book/show/383301.Write_It_Down_Make_It_Happen
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12138'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Write It Down, Make It Happen: Knowing What You Want And Getting It'
+    title_without_series: 'Write It Down, Make It Happen: Knowing What You Want And
+      Getting It'
+    uri: kca://book/amzn1.gr.book.v1.BmCalhsotJtAhCk2RBw31w
+    work:
+      id: '373066'
+  - authors:
+      author:
+        id: '3252390'
+        link: https://www.goodreads.com/author/show/3252390.Gabrielle_Bernstein
+        name: Gabrielle Bernstein
+    average_rating: '3.93'
+    id: '35297340'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627921352l/35297340._SX98_.jpg
+    isbn: '1501168967'
+    isbn13: '9781501168963'
+    link: https://www.goodreads.com/book/show/35297340-judgment-detox
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12138'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627921352l/35297340._SY75_.jpg
+    title: 'Judgment Detox: Release the Beliefs That Hold You Back from Living A Better
+      Life'
+    title_without_series: 'Judgment Detox: Release the Beliefs That Hold You Back
+      from Living A Better Life'
+    uri: kca://book/amzn1.gr.book.v1.IL23JTVbMySRF8PGXLpcZg
+    work:
+      id: '56664185'
+  - authors:
+      author:
+        id: '14131833'
+        link: https://www.goodreads.com/author/show/14131833.Melissa_Ambrosini
+        name: Melissa Ambrosini
+    average_rating: '3.93'
+    id: '25810365'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449609063l/25810365._SX98_.jpg
+    isbn: 0399176713
+    isbn13: '9780399176715'
+    link: https://www.goodreads.com/book/show/25810365-mastering-your-mean-girl
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12138'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449609063l/25810365._SX50_.jpg
+    title: 'Mastering Your Mean Girl: The No-BS Guide to Silencing Your Inner Critic
+      and Becoming Wildly Wealthy, Fabulously Healthy, and Bursting with Love'
+    title_without_series: 'Mastering Your Mean Girl: The No-BS Guide to Silencing
+      Your Inner Critic and Becoming Wildly Wealthy, Fabulously Healthy, and Bursting
+      with Love'
+    uri: kca://book/amzn1.gr.book.v1.4iS3iZHYsiqRhzljATim1w
+    work:
+      id: '45666356'
+  - authors:
+      author:
+        id: '2121'
+        link: https://www.goodreads.com/author/show/2121.Michael_Pollan
+        name: Michael Pollan
+    average_rating: '3.93'
+    id: '315425'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1594201455'
+    isbn13: '9781594201455'
+    link: https://www.goodreads.com/book/show/315425.In_Defense_of_Food
+    num_pages: '205'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12138'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'In Defense of Food: An Eater''s Manifesto'
+    title_without_series: 'In Defense of Food: An Eater''s Manifesto'
+    uri: kca://book/amzn1.gr.book.v1.Zo8U7Gx8o9vMY7im7wtujw
+    work:
+      id: '3100234'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320482034l/129731._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '1291'
+  '@type': integer
+title: 'Mindless Eating: Why We Eat More Than We Think'
+title_without_series: 'Mindless Eating: Why We Eat More Than We Think'
+uri: kca://book/amzn1.gr.book.v1.jw5oK8mIHdMcncDe3YADSw
+url: https://www.goodreads.com/book/show/129731.Mindless_Eating
+work:
+  id: '124953'
+  uri: kca://work/amzn1.gr.work.v1.ZqfpQlYqgvcX8FmDJvXR6w

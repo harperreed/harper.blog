@@ -1,0 +1,747 @@
+asin: B0043M4YYE
+authors:
+  author:
+    average_rating: '3.94'
+    id: '18524'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1415168808p5/18524.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/18524.Robert_Whiting
+    name: Robert Whiting
+    ratings_count: '3040'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1415168808p2/18524.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '314'
+average_rating: '3.84'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2021-06-14T00:00:00-07:00'
+description: null
+edition_information: Reprint
+format: null
+id: '11885873'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn:
+  '@nil': 'true'
+isbn13:
+  '@nil': 'true'
+json: '{"id": "11885873", "isbn": {"@nil": "true"}, "isbn13": {"@nil": "true"}, "text_reviews_count":
+  {"@type": "integer", "#text": "2"}, "uri": "kca://book/amzn1.gr.book.v1.B3h6AQm256nwLW0OJirRqA",
+  "title": "Tokyo Underworld: The Fast Times and Hard Life of an American Gangster
+  in Japan (Vintage Departures)", "title_without_series": "Tokyo Underworld: The Fast
+  Times and Hard Life of an American Gangster in Japan", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/11885873-tokyo-underworld",
+  "num_pages": "400", "format": null, "edition_information": "Reprint", "publisher":
+  "Vintage", "publication_day": "29", "publication_year": "2010", "publication_month":
+  "9", "average_rating": "3.84", "ratings_count": "945", "description": null, "authors":
+  {"author": {"id": "18524", "name": "Robert Whiting", "role": null, "image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1415168808p5/18524.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1415168808p2/18524.jpg"},
+  "link": "https://www.goodreads.com/author/show/18524.Robert_Whiting", "average_rating":
+  "3.94", "ratings_count": "3040", "text_reviews_count": "314"}}, "published": "2010",
+  "work": {"id": "33138", "uri": "kca://work/amzn1.gr.work.v1.FMbq7qG0CoWcLK5jkFY25w"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/2965424144",
+  "read_at": "Mon Jun 14 00:00:00 -0700 2021", "started_at": "Wed Sep 04 00:00:00
+  -0700 2019", "date": "Mon Jun 14 00:00:00 -0700 2021"}'
+kindle_asin: B0043M4YYE
+language_code: en-US
+large_image_url: null
+link: https://www.goodreads.com/book/show/11885873-tokyo-underworld
+marketplace_id: ATVPDKIKX0DER
+num_pages: '400'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '2063'
+    '@name': to-read
+  - '@count': '74'
+    '@name': japan
+  - '@count': '71'
+    '@name': currently-reading
+  - '@count': '57'
+    '@name': non-fiction
+  - '@count': '33'
+    '@name': crime
+  - '@count': '26'
+    '@name': history
+  - '@count': '20'
+    '@name': true-crime
+  - '@count': '17'
+    '@name': nonfiction
+  - '@count': '9'
+    '@name': biography
+  - '@count': '8'
+    '@name': asia
+  - '@count': '5'
+    '@name': memoir
+  - '@count': '5'
+    '@name': favorites
+  - '@count': '4'
+    '@name': audiobook
+  - '@count': '4'
+    '@name': owned
+  - '@count': '4'
+    '@name': yakuza
+  - '@count': '3'
+    '@name': travel
+  - '@count': '3'
+    '@name': my-library
+  - '@count': '3'
+    '@name': mafia
+  - '@count': '3'
+    '@name': to-buy
+  - '@count': '2'
+    '@name': japanese-history
+  - '@count': '2'
+    '@name': asian-history
+  - '@count': '2'
+    '@name': japanese-literature
+  - '@count': '2'
+    '@name': culture
+  - '@count': '2'
+    '@name': history-of-japan
+  - '@count': '2'
+    '@name': japanese-lit
+  - '@count': '2'
+    '@name': politics
+  - '@count': '2'
+    '@name': journalism
+  - '@count': '2'
+    '@name': books-i-own
+  - '@count': '2'
+    '@name': crime-detective
+  - '@count': '2'
+    '@name': wish-list
+  - '@count': '2'
+    '@name': research
+  - '@count': '2'
+    '@name': non-fiction-to-read
+  - '@count': '2'
+    '@name': in-english
+  - '@count': '2'
+    '@name': crime-nonfiction
+  - '@count': '2'
+    '@name': default
+  - '@count': '2'
+    '@name': crime-non-fiction
+  - '@count': '2'
+    '@name': crime-fiction
+  - '@count': '2'
+    '@name': historical
+  - '@count': '2'
+    '@name': organized-crime
+  - '@count': '2'
+    '@name': reference
+  - '@count': '2'
+    '@name': japanese-culture
+  - '@count': '1'
+    '@name': informative
+  - '@count': '1'
+    '@name': read-in-25
+  - '@count': '1'
+    '@name': 2025-books
+  - '@count': '1'
+    '@name': japanese-read
+  - '@count': '1'
+    '@name': patryk-books
+  - '@count': '1'
+    '@name': interest-japan
+  - '@count': '1'
+    '@name': histoy
+  - '@count': '1'
+    '@name': under-the-sea
+  - '@count': '1'
+    '@name': tbr-kindle
+  - '@count': '1'
+    '@name': boekenkast-gelezen
+  - '@count': '1'
+    '@name': for-use
+  - '@count': '1'
+    '@name': japo
+  - '@count': '1'
+    '@name': baixat
+  - '@count': '1'
+    '@name': assaig
+  - '@count': '1'
+    '@name': "\xE0-acheter"
+  - '@count': '1'
+    '@name': only-english
+  - '@count': '1'
+    '@name': 2024-want-to-read
+  - '@count': '1'
+    '@name': memoirs
+  - '@count': '1'
+    '@name': autobiography-biography
+  - '@count': '1'
+    '@name': 2024-reading
+  - '@count': '1'
+    '@name': food-for-thought
+  - '@count': '1'
+    '@name': japanology
+  - '@count': '1'
+    '@name': my-books-bangkok
+  - '@count': '1'
+    '@name': history-nonfiction
+  - '@count': '1'
+    '@name': gave-up
+  - '@count': '1'
+    '@name': list-3
+  - '@count': '1'
+    '@name': audio
+  - '@count': '1'
+    '@name': on-shelf-but-have-not-read
+  - '@count': '1'
+    '@name': asian-stories
+  - '@count': '1'
+    '@name': thriller-crime
+  - '@count': '1'
+    '@name': owned-audiobook
+  - '@count': '1'
+    '@name': own-audible
+  - '@count': '1'
+    '@name': genre-non-fiction
+  - '@count': '1'
+    '@name': f-bok
+  - '@count': '1'
+    '@name': age-adult
+  - '@count': '1'
+    '@name': 2-lyd
+  - '@count': '1'
+    '@name': owned-audiobooks
+  - '@count': '1'
+    '@name': audiobooks
+  - '@count': '1'
+    '@name': audible
+  - '@count': '1'
+    '@name': how-many-books
+  - '@count': '1'
+    '@name': great-nonfiction
+  - '@count': '1'
+    '@name': read_in_2023
+  - '@count': '1'
+    '@name': deciphering_pakistan
+  - '@count': '1'
+    '@name': novelas
+  - '@count': '1'
+    '@name': notcomics
+  - '@count': '1'
+    '@name': owned-but-not-read
+  - '@count': '1'
+    '@name': nonfic-to-read
+  - '@count': '1'
+    '@name': crime-thriller
+  - '@count': '1'
+    '@name': history-japan
+  - '@count': '1'
+    '@name': crime-mafia
+  - '@count': '1'
+    '@name': life-in-japan
+  - '@count': '1'
+    '@name': chinese-and-japanese-non-fiction
+  - '@count': '1'
+    '@name': 2023-around-the-world
+  - '@count': '1'
+    '@name': places-japan
+  - '@count': '1'
+    '@name': next-up-to-read
+  - '@count': '1'
+    '@name': cce-apac
+  - '@count': '1'
+    '@name': asian-lite
+  - '@count': '1'
+    '@name': 11_meh
+  - '@count': '1'
+    '@name': 11_dnf
+publication_day: '29'
+publication_month: '9'
+publication_year: '2010'
+published: '2010'
+publisher: Vintage
+ratings_count: '945'
+read_at: '2021-06-14T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/2965424144
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/11885873-tokyo-underworld\"\
+  >Tokyo Underworld Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B0043M4YYE&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/11885873-tokyo-underworld?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '3001096'
+        link: https://www.goodreads.com/author/show/3001096.Jake_Adelstein
+        name: Jake Adelstein
+    average_rating: '3.84'
+    id: '6658129'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320453731l/6658129._SX98_.jpg
+    isbn: 0307378799
+    isbn13: '9780307378798'
+    link: https://www.goodreads.com/book/show/6658129-tokyo-vice
+    num_pages: '335'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320453731l/6658129._SY75_.jpg
+    title: 'Tokyo Vice: An American Reporter on the Police Beat in Japan'
+    title_without_series: 'Tokyo Vice: An American Reporter on the Police Beat in
+      Japan'
+    uri: kca://book/amzn1.gr.book.v1.Y99dPdnbQo-rw-rGQnt-wA
+    work:
+      id: '6852777'
+  - authors:
+      author:
+        id: '3001096'
+        link: https://www.goodreads.com/author/show/3001096.Jake_Adelstein
+        name: Jake Adelstein
+    average_rating: '3.84'
+    id: '75660873'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687153561l/75660873._SX98_.jpg
+    isbn: '1957363576'
+    isbn13: '9781957363578'
+    link: https://www.goodreads.com/book/show/75660873-the-last-yakuza
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687153561l/75660873._SY75_.jpg
+    title: 'The Last Yakuza: Life and Death in the Japanese Underworld'
+    title_without_series: 'The Last Yakuza: Life and Death in the Japanese Underworld'
+    uri: kca://book/amzn1.gr.book.v3.Vf6oSYBH_z29X8jv
+    work:
+      id: '45191168'
+  - authors:
+      author:
+        id: '3001096'
+        link: https://www.goodreads.com/author/show/3001096.Jake_Adelstein
+        name: Jake Adelstein
+    average_rating: '3.84'
+    id: '204016500'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1706660440l/204016500._SX98_.jpg
+    isbn: '1957363916'
+    isbn13: '9781957363912'
+    link: https://www.goodreads.com/book/show/204016500-tokyo-noir
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1706660440l/204016500._SY75_.jpg
+    title: 'Tokyo Noir: In and Out of Japan''s Underworld'
+    title_without_series: 'Tokyo Noir: In and Out of Japan''s Underworld'
+    uri: kca://book/amzn1.gr.book.v3.OoUdSE4m-Zrk1vGA
+    work:
+      id: '209883376'
+  - authors:
+      author:
+        id: '35258'
+        link: https://www.goodreads.com/author/show/35258.Yukio_Mishima
+        name: Yukio Mishima
+    average_rating: '3.84'
+    id: '62795'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0811213129
+    isbn13: '9780811213127'
+    link: https://www.goodreads.com/book/show/62795.Patriotism
+    num_pages: '64'
+    publication_day: null
+    publication_month: null
+    publication_year: '1995'
+    ratings_count: '945'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Patriotism
+    title_without_series: Patriotism
+    uri: kca://book/amzn1.gr.book.v1.R7vA2oIRDAZhXFZnddg00w
+    work:
+      id: '2940229'
+  - authors:
+      author:
+        id: '106142'
+        link: https://www.goodreads.com/author/show/106142.Eric_H_Cline
+        name: Eric H. Cline
+    average_rating: '3.84'
+    id: '18730589'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397424814l/18730589._SX98_.jpg
+    isbn: 0691140898
+    isbn13: '9780691140896'
+    link: https://www.goodreads.com/book/show/18730589-1177-b-c
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397424814l/18730589._SY75_.jpg
+    title: '1177 B.C.: The Year Civilization Collapsed'
+    title_without_series: '1177 B.C.: The Year Civilization Collapsed'
+    uri: kca://book/amzn1.gr.book.v1.BRFXgFmPBYUqknz7Xt2Yhw
+    work:
+      id: '26604863'
+  - authors:
+      author:
+        id: '19455856'
+        link: https://www.goodreads.com/author/show/19455856.Brad_Balukjian
+        name: Brad Balukjian
+    average_rating: '3.84'
+    id: '195820766'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0306831554
+    isbn13: '9780306831553'
+    link: https://www.goodreads.com/book/show/195820766-the-six-pack
+    num_pages: '302'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '945'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Six Pack: On the Open Road in Search of Wrestlemania'
+    title_without_series: 'The Six Pack: On the Open Road in Search of Wrestlemania'
+    uri: kca://book/amzn1.gr.book.v3.QRYdD6cwd91P6ZXf
+    work:
+      id: '197775163'
+  - authors:
+      author:
+        id: '988846'
+        link: https://www.goodreads.com/author/show/988846.Jo_lle_Jones
+        name: "Jo\xEBlle Jones"
+    average_rating: '3.84'
+    id: '23995491'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659530138l/23995491._SX98_.jpg
+    isbn: '1616557575'
+    isbn13: '9781616557577'
+    link: https://www.goodreads.com/book/show/23995491-lady-killer-volume-1
+    num_pages: '136'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659530138l/23995491._SY75_.jpg
+    title: Lady Killer, Volume 1
+    title_without_series: Lady Killer, Volume 1
+    uri: kca://book/amzn1.gr.book.v1.cPkSF2Md9X7Knbwd1dq3EA
+    work:
+      id: '43596156'
+  - authors:
+      author:
+        id: '63266'
+        link: https://www.goodreads.com/author/show/63266.Peter_Golenbock
+        name: Peter Golenbock
+    average_rating: '3.84'
+    id: '58401000'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647443369l/58401000._SX98_.jpg
+    isbn: '1538154870'
+    isbn13: '9781538154878'
+    link: https://www.goodreads.com/book/show/58401000-whispers-of-the-gods
+    num_pages: '197'
+    publication_day: '15'
+    publication_month: '3'
+    publication_year: '2022'
+    ratings_count: '945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647443369l/58401000._SX50_.jpg
+    title: "Whispers of the Gods: Tales from Baseball\u2019s Golden Age, Told by the\
+      \ Men Who Played It"
+    title_without_series: "Whispers of the Gods: Tales from Baseball\u2019s Golden\
+      \ Age, Told by the Men Who Played It"
+    uri: kca://book/amzn1.gr.book.v3.QLbzW3hTDpZMJMlY
+    work:
+      id: '91602722'
+  - authors:
+      author:
+        id: '3354'
+        link: https://www.goodreads.com/author/show/3354.Haruki_Murakami
+        name: Haruki Murakami
+    average_rating: '3.84'
+    id: '17801'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443692668l/17801._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/17801.Underground
+    num_pages: '309'
+    publication_day: null
+    publication_month: null
+    publication_year: '2003'
+    ratings_count: '945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443692668l/17801._SY75_.jpg
+    title: 'Underground: The Tokyo Gas Attack and the Japanese Psyche'
+    title_without_series: 'Underground: The Tokyo Gas Attack and the Japanese Psyche'
+    uri: kca://book/amzn1.gr.book.v1.pbLQjdXh3PlBVy5F69WXrA
+    work:
+      id: '6179816'
+  - authors:
+      author:
+        id: '47314445'
+        link: https://www.goodreads.com/author/show/47314445.Alok_Sama
+        name: Alok Sama
+    average_rating: '3.84'
+    id: '203578944'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714682535l/203578944._SX98_.jpg
+    isbn: '1250332842'
+    isbn13: '9781250332844'
+    link: https://www.goodreads.com/book/show/203578944-the-money-trap
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714682535l/203578944._SY75_.jpg
+    title: 'The Money Trap: Lost Illusions Inside the Tech Bubble'
+    title_without_series: 'The Money Trap: Lost Illusions Inside the Tech Bubble'
+    uri: kca://book/amzn1.gr.book.v3.g5dMS7kMDkmV9L-z
+    work:
+      id: '209357443'
+  - authors:
+      author:
+        id: '99728'
+        link: https://www.goodreads.com/author/show/99728.Junichi_Saga
+        name: Junichi Saga
+    average_rating: '3.84'
+    id: '171126'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '4770019483'
+    isbn13: '9784770019486'
+    link: https://www.goodreads.com/book/show/171126.Confessions_of_a_Yakuza
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '945'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Confessions of a Yakuza: A Life in Japan''s Underworld'
+    title_without_series: 'Confessions of a Yakuza: A Life in Japan''s Underworld'
+    uri: kca://book/amzn1.gr.book.v1.-aQvgb-zGNC88gqvlFyvvg
+    work:
+      id: '165245'
+  - authors:
+      author:
+        id: '14202336'
+        link: https://www.goodreads.com/author/show/14202336.Clinton_Romesha
+        name: Clinton Romesha
+    average_rating: '3.84'
+    id: '26109393'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457890793l/26109393._SX98_.jpg
+    isbn: 0525955054
+    isbn13: '9780525955054'
+    link: https://www.goodreads.com/book/show/26109393-red-platoon
+    num_pages: '378'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457890793l/26109393._SY75_.jpg
+    title: 'Red Platoon: A True Story of American Valor'
+    title_without_series: 'Red Platoon: A True Story of American Valor'
+    uri: kca://book/amzn1.gr.book.v1.JwOnjXhIxAa_C66KZh3XVA
+    work:
+      id: '46054782'
+  - authors:
+      author:
+        id: '637929'
+        link: https://www.goodreads.com/author/show/637929.Hiromi_Kawakami
+        name: Hiromi Kawakami
+    average_rating: '3.84'
+    id: '32919876'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488395848l/32919876._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/32919876-the-nakano-thrift-shop
+    num_pages: '224'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488395848l/32919876._SY75_.jpg
+    title: The Nakano Thrift Shop
+    title_without_series: The Nakano Thrift Shop
+    uri: kca://book/amzn1.gr.book.v1.jaZQenD_Vf8Fog-dKFRd6g
+    work:
+      id: '6686283'
+  - authors:
+      author:
+        id: '1124'
+        link: https://www.goodreads.com/author/show/1124.Anthony_Bourdain
+        name: Anthony Bourdain
+    average_rating: '3.84'
+    id: '40409969'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528321636l/40409969._SX98_.jpg
+    isbn: 0061998060
+    isbn13: '9780061998065'
+    link: https://www.goodreads.com/book/show/40409969-medium-raw
+    num_pages: '288'
+    publication_day: '8'
+    publication_month: '6'
+    publication_year: '2010'
+    ratings_count: '945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528321636l/40409969._SY75_.jpg
+    title: 'Medium Raw: A Bloody Valentine to the World of Food and the People Who
+      Cook'
+    title_without_series: 'Medium Raw: A Bloody Valentine to the World of Food and
+      the People Who Cook'
+    uri: kca://book/amzn1.gr.book.v1.l82YQNE0PHc8dB32v_OM8w
+    work:
+      id: '8914542'
+  - authors:
+      author:
+        id: '17613'
+        link: https://www.goodreads.com/author/show/17613.Lawrence_Block
+        name: Lawrence Block
+    average_rating: '3.84'
+    id: '76758'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366669683l/76758._SX98_.jpg
+    isbn: 0380715732
+    isbn13: '9780380715732'
+    link: https://www.goodreads.com/book/show/76758.Eight_Million_Ways_to_Die
+    num_pages: '352'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366669683l/76758._SY75_.jpg
+    title: 'Eight Million Ways to Die (Matthew Scudder, #5)'
+    title_without_series: Eight Million Ways to Die
+    uri: kca://book/amzn1.gr.book.v1.fb9uwZbQE1YLwY0fGljHwg
+    work:
+      id: '2905875'
+  - authors:
+      author:
+        id: '42875466'
+        link: https://www.goodreads.com/author/show/42875466.Chris_Broad
+        name: Chris  Broad
+    average_rating: '3.84'
+    id: '64645770'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689819152l/64645770._SX98_.jpg
+    isbn: '1787637077'
+    isbn13: '9781787637078'
+    link: https://www.goodreads.com/book/show/64645770-abroad-in-japan
+    num_pages: '320'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689819152l/64645770._SY75_.jpg
+    title: 'Abroad in Japan: Ten Years In The Land Of The Rising Sun'
+    title_without_series: 'Abroad in Japan: Ten Years In The Land Of The Rising Sun'
+    uri: kca://book/amzn1.gr.book.v3.GxdQjERUUZ6_QRqq
+    work:
+      id: '100015692'
+  - authors:
+      author:
+        id: '545'
+        link: https://www.goodreads.com/author/show/545.Neal_Stephenson
+        name: Neal Stephenson
+    average_rating: '3.84'
+    id: '827'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0553380966
+    isbn13: '9780553380965'
+    link: https://www.goodreads.com/book/show/827.The_Diamond_Age
+    num_pages: '499'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '945'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Diamond Age: Or, a Young Lady''s Illustrated Primer'
+    title_without_series: 'The Diamond Age: Or, a Young Lady''s Illustrated Primer'
+    uri: kca://book/amzn1.gr.book.v1.DY0zJ1f5vMb4XU5Ivsa_eQ
+    work:
+      id: '2181158'
+  - authors:
+      author:
+        id: '197865'
+        link: https://www.goodreads.com/author/show/197865.Richard_Lloyd_Parry
+        name: Richard Lloyd Parry
+    average_rating: '3.84'
+    id: '18877989'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385049880l/18877989._SX98_.jpg
+    isbn: '1466820020'
+    isbn13: '9781466820029'
+    link: https://www.goodreads.com/book/show/18877989-people-who-eat-darkness
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '945'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385049880l/18877989._SX50_.jpg
+    title: "People Who Eat Darkness: The True Story of a Young Woman Who Vanished\
+      \ from the Streets of Tokyo\u2014and the Evil That Swallowed Her Up"
+    title_without_series: "People Who Eat Darkness: The True Story of a Young Woman\
+      \ Who Vanished from the Streets of Tokyo\u2014and the Evil That Swallowed Her\
+      \ Up"
+    uri: kca://book/amzn1.gr.book.v1.kzz6m85MquNXg91qlAX2gw
+    work:
+      id: '13357472'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: '2019-09-04T00:00:00-07:00'
+text_reviews_count:
+  '#text': '2'
+  '@type': integer
+title: 'Tokyo Underworld: The Fast Times and Hard Life of an American Gangster in
+  Japan (Vintage Departures)'
+title_without_series: 'Tokyo Underworld: The Fast Times and Hard Life of an American
+  Gangster in Japan'
+uri: kca://book/amzn1.gr.book.v1.B3h6AQm256nwLW0OJirRqA
+url: https://www.goodreads.com/book/show/11885873-tokyo-underworld
+work:
+  id: '33138'
+  uri: kca://work/amzn1.gr.work.v1.FMbq7qG0CoWcLK5jkFY25w

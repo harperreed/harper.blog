@@ -1,0 +1,767 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.04'
+    id: '4069977'
+    image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+      '@nophoto': 'true'
+    link: https://www.goodreads.com/author/show/4069977.Scott_J_Shapiro
+    name: Scott J. Shapiro
+    ratings_count: '2315'
+    role: null
+    small_image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png
+      '@nophoto': 'true'
+    text_reviews_count: '325'
+average_rating: '3.95'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2024-08-04T00:00:00-07:00'
+description: null
+edition_information: null
+format: null
+id: '63904237'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684463648l/63904237._SX98_.jpg
+is_ebook: 'true'
+isbn: 0374601186
+isbn13: '9780374601188'
+json: '{"id": "63904237", "isbn": "0374601186", "isbn13": "9780374601188", "text_reviews_count":
+  {"@type": "integer", "#text": "18"}, "uri": "kca://book/amzn1.gr.book.v3.cCNg5MBzitdh8dwJ",
+  "title": "Fancy Bear Goes Phishing: The Dark History of the Information Age, in
+  Five Extraordinary Hacks", "title_without_series": "Fancy Bear Goes Phishing: The
+  Dark History of the Information Age, in Five Extraordinary Hacks", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684463648l/63904237._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684463648l/63904237._SX50_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/63904237-fancy-bear-goes-phishing",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.95", "ratings_count": "1645", "description": null, "authors": {"author": {"id":
+  "4069977", "name": "Scott J. Shapiro", "role": null, "image_url": {"@nophoto": "true",
+  "#text": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"},
+  "small_image_url": {"@nophoto": "true", "#text": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"},
+  "link": "https://www.goodreads.com/author/show/4069977.Scott_J_Shapiro", "average_rating":
+  "4.04", "ratings_count": "2315", "text_reviews_count": "325"}}, "published": null,
+  "work": {"id": "97797743", "uri": "kca://work/amzn1.gr.work.v3.pUS5sgoG_MQ3ytSf"},
+  "review_rating": "4", "owned": "0", "review_url": "https://www.goodreads.com/review/show/6730553775",
+  "read_at": "Sun Aug 04 00:00:00 -0700 2024", "started_at": "", "date": "Sun Aug
+  04 00:00:00 -0700 2024"}'
+kindle_asin: B0BBC8LG9P
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/63904237-fancy-bear-goes-phishing
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '5743'
+    '@name': to-read
+  - '@count': '413'
+    '@name': currently-reading
+  - '@count': '125'
+    '@name': non-fiction
+  - '@count': '64'
+    '@name': nonfiction
+  - '@count': '53'
+    '@name': technology
+  - '@count': '46'
+    '@name': history
+  - '@count': '26'
+    '@name': tech
+  - '@count': '21'
+    '@name': science
+  - '@count': '21'
+    '@name': true-crime
+  - '@count': '18'
+    '@name': politics
+  - '@count': '16'
+    '@name': cyber
+  - '@count': '15'
+    '@name': cybersecurity
+  - '@count': '15'
+    '@name': audiobook
+  - '@count': '14'
+    '@name': library
+  - '@count': '12'
+    '@name': dnf
+  - '@count': '10'
+    '@name': audiobooks
+  - '@count': '9'
+    '@name': crime
+  - '@count': '9'
+    '@name': computer-science
+  - '@count': '8'
+    '@name': audio
+  - '@count': '8'
+    '@name': hacking
+  - '@count': '8'
+    '@name': computers
+  - '@count': '8'
+    '@name': security
+  - '@count': '7'
+    '@name': did-not-finish
+  - '@count': '7'
+    '@name': psychology
+  - '@count': '6'
+    '@name': owned
+  - '@count': '6'
+    '@name': cyber-security
+  - '@count': '6'
+    '@name': audible
+  - '@count': '6'
+    '@name': favorites
+  - '@count': '5'
+    '@name': business
+  - '@count': '5'
+    '@name': stem
+  - '@count': '5'
+    '@name': philosophy
+  - '@count': '5'
+    '@name': nonfic
+  - '@count': '4'
+    '@name': read-in-2024
+  - '@count': '4'
+    '@name': books-i-own
+  - '@count': '4'
+    '@name': infosec
+  - '@count': '4'
+    '@name': unfinished
+  - '@count': '4'
+    '@name': physical-tbr
+  - '@count': '4'
+    '@name': 2023-reads
+  - '@count': '4'
+    '@name': economics
+  - '@count': '4'
+    '@name': computer
+  - '@count': '4'
+    '@name': science-tech
+  - '@count': '4'
+    '@name': non-fiction-to-read
+  - '@count': '4'
+    '@name': espionage
+  - '@count': '4'
+    '@name': 2023-releases
+  - '@count': '4'
+    '@name': read-2023
+  - '@count': '3'
+    '@name': owned-unread
+  - '@count': '3'
+    '@name': internet
+  - '@count': '3'
+    '@name': want-to-read-non-fiction
+  - '@count': '3'
+    '@name': tbr-nonfiction
+  - '@count': '3'
+    '@name': technical
+  - '@count': '3'
+    '@name': software
+  - '@count': '3'
+    '@name': hackers
+  - '@count': '3'
+    '@name': programming
+  - '@count': '3'
+    '@name': read-in-2023
+  - '@count': '3'
+    '@name': it
+  - '@count': '3'
+    '@name': wish-list
+  - '@count': '3'
+    '@name': maybe
+  - '@count': '2'
+    '@name': 2024-to-read
+  - '@count': '2'
+    '@name': tech-reads
+  - '@count': '2'
+    '@name': cs
+  - '@count': '2'
+    '@name': 2024-reads
+  - '@count': '2'
+    '@name': purchased
+  - '@count': '2'
+    '@name': listened-to
+  - '@count': '2'
+    '@name': owned-ebook
+  - '@count': '2'
+    '@name': journalism
+  - '@count': '2'
+    '@name': 2024-read
+  - '@count': '2'
+    '@name': geopolitics
+  - '@count': '2'
+    '@name': work
+  - '@count': '2'
+    '@name': sociology
+  - '@count': '2'
+    '@name': kindle
+  - '@count': '2'
+    '@name': to-read-nonfiction
+  - '@count': '2'
+    '@name': ebook
+  - '@count': '2'
+    '@name': abandoned
+  - '@count': '2'
+    '@name': physical-library
+  - '@count': '2'
+    '@name': audio-books
+  - '@count': '2'
+    '@name': product
+  - '@count': '2'
+    '@name': book-club-picks
+  - '@count': '2'
+    '@name': tbr
+  - '@count': '2'
+    '@name': library-book
+  - '@count': '2'
+    '@name': reviewed
+  - '@count': '2'
+    '@name': responsible-tech
+  - '@count': '2'
+    '@name': novels
+  - '@count': '2'
+    '@name': digital-library
+  - '@count': '2'
+    '@name': finished
+  - '@count': '2'
+    '@name': information-technology
+  - '@count': '2'
+    '@name': biography
+  - '@count': '2'
+    '@name': non-fiction-read
+  - '@count': '2'
+    '@name': research
+  - '@count': '2'
+    '@name': law
+  - '@count': '2'
+    '@name': male-authors
+  - '@count': '2'
+    '@name': science-and-technology
+  - '@count': '2'
+    '@name': current-affairs
+  - '@count': '2'
+    '@name': next-purchase
+  - '@count': '2'
+    '@name': malware
+  - '@count': '2'
+    '@name': engineering
+  - '@count': '2'
+    '@name': computing
+  - '@count': '2'
+    '@name': historical
+  - '@count': '2'
+    '@name': giveaways
+  - '@count': '2'
+    '@name': non-fic
+  - '@count': '2'
+    '@name': a
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '1645'
+read_at: '2024-08-04T00:00:00-07:00'
+review_rating: '4'
+review_url: https://www.goodreads.com/review/show/6730553775
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/63904237-fancy-bear-goes-phishing\"\
+  >Fancy Bear Goes Phishing Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0374601186&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/63904237-fancy-bear-goes-phishing?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '22057852'
+        link: https://www.goodreads.com/author/show/22057852.Renee_Dudley
+        name: Renee Dudley
+    average_rating: '3.95'
+    id: '59808597'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647258914l/59808597._SX98_.jpg
+    isbn: 0374603308
+    isbn13: '9780374603304'
+    link: https://www.goodreads.com/book/show/59808597-the-ransomware-hunting-team
+    num_pages: '357'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1645'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647258914l/59808597._SX50_.jpg
+    title: 'The Ransomware Hunting Team: A Band of Misfits'' Improbable Crusade to
+      Save the World from Cybercrime'
+    title_without_series: 'The Ransomware Hunting Team: A Band of Misfits'' Improbable
+      Crusade to Save the World from Cybercrime'
+    uri: kca://book/amzn1.gr.book.v3.8yNqOHR0XeeqUG3P
+    work:
+      id: '94200038'
+  - authors:
+      author:
+        id: '2381395'
+        link: https://www.goodreads.com/author/show/2381395.Joseph_Cox
+        name: Joseph Cox
+    average_rating: '3.95'
+    id: '59644256'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716542877l/59644256._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/59644256-dark-wire
+    num_pages: null
+    publication_day: '4'
+    publication_month: '6'
+    publication_year: '2024'
+    ratings_count: '1645'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716542877l/59644256._SY75_.jpg
+    title: 'Dark Wire: The Incredible True Story of the Largest Sting Operation Ever'
+    title_without_series: 'Dark Wire: The Incredible True Story of the Largest Sting
+      Operation Ever'
+    uri: kca://book/amzn1.gr.book.v3.xNSd6Z7oaJ8bLxCw
+    work:
+      id: '93924239'
+  - authors:
+      author:
+        id: '5810161'
+        link: https://www.goodreads.com/author/show/5810161.Andy_Greenberg
+        name: Andy Greenberg
+    average_rating: '3.95'
+    id: '60462182'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1669130065l/60462182._SX98_.jpg
+    isbn: 0385548109
+    isbn13: '9780385548106'
+    link: https://www.goodreads.com/book/show/60462182-tracers-in-the-dark
+    num_pages: '367'
+    publication_day: '1'
+    publication_month: '11'
+    publication_year: '2022'
+    ratings_count: '1645'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1669130065l/60462182._SY75_.jpg
+    title: 'Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency'
+    title_without_series: 'Tracers in the Dark: The Global Hunt for the Crime Lords
+      of Cryptocurrency'
+    uri: kca://book/amzn1.gr.book.v3._ZLSW-RjS4xjxbxo
+    work:
+      id: '95283884'
+  - authors:
+      author:
+        id: '22262045'
+        link: https://www.goodreads.com/author/show/22262045.Geoff_White
+        name: Geoff White
+    average_rating: '3.95'
+    id: '211199433'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0241624835
+    isbn13: '9780241624838'
+    link: https://www.goodreads.com/book/show/211199433-rinsed
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1645'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Rinsed: From Cartels to Crypto How the Tech Industry Washes Money for
+      the World''s Deadliest Crooks'
+    title_without_series: 'Rinsed: From Cartels to Crypto How the Tech Industry Washes
+      Money for the World''s Deadliest Crooks'
+    uri: kca://book/amzn1.gr.book.v3.ZWnk62nJKynRutcc
+    work:
+      id: '217440674'
+  - authors:
+      author:
+        id: '7785439'
+        link: https://www.goodreads.com/author/show/7785439.Kashmir_Hill
+        name: Kashmir  Hill
+    average_rating: '3.95'
+    id: '75293505'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687140956l/75293505._SX98_.jpg
+    isbn: 0593448561
+    isbn13: '9780593448564'
+    link: https://www.goodreads.com/book/show/75293505-your-face-belongs-to-us
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1645'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687140956l/75293505._SY75_.jpg
+    title: 'Your Face Belongs to Us: A Secretive Startup''s Quest to End Privacy as
+      We Know It'
+    title_without_series: 'Your Face Belongs to Us: A Secretive Startup''s Quest to
+      End Privacy as We Know It'
+    uri: kca://book/amzn1.gr.book.v3.bkLb4Re25pZHPqhf
+    work:
+      id: '100481458'
+  - authors:
+      author:
+        id: '22339754'
+        link: https://www.goodreads.com/author/show/22339754.Laurent_Richard
+        name: Laurent  Richard
+    average_rating: '3.95'
+    id: '59808055'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667852851l/59808055._SX98_.jpg
+    isbn: '1250858690'
+    isbn13: '9781250858696'
+    link: https://www.goodreads.com/book/show/59808055-pegasus
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1645'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667852851l/59808055._SY75_.jpg
+    title: 'Pegasus: How a Spy in Your Pocket Threatens the End of Privacy, Dignity,
+      and Democracy'
+    title_without_series: 'Pegasus: How a Spy in Your Pocket Threatens the End of
+      Privacy, Dignity, and Democracy'
+    uri: kca://book/amzn1.gr.book.v3.gToNbnsoV8lc0d2Q
+    work:
+      id: '94199614'
+  - authors:
+      author:
+        id: '5810161'
+        link: https://www.goodreads.com/author/show/5810161.Andy_Greenberg
+        name: Andy Greenberg
+    average_rating: '3.95'
+    id: '41436213'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567555830l/41436213._SX98_.jpg
+    isbn: 0385544413
+    isbn13: '9780385544412'
+    link: https://www.goodreads.com/book/show/41436213-sandworm
+    num_pages: '368'
+    publication_day: '7'
+    publication_month: '5'
+    publication_year: '2019'
+    ratings_count: '1645'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567555830l/41436213._SY75_.jpg
+    title: 'Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin''s Most Dangerous
+      Hackers'
+    title_without_series: 'Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin''s
+      Most Dangerous Hackers'
+    uri: kca://book/amzn1.gr.book.v1.1rQcS1AfNRuTyrS0cV6xWg
+    work:
+      id: '64664488'
+  - authors:
+      author:
+        id: '50734973'
+        link: https://www.goodreads.com/author/show/50734973.Raj_M_Shah
+        name: Raj M. Shah
+    average_rating: '3.95'
+    id: '199798270'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716430803l/199798270._SX98_.jpg
+    isbn: '1668031388'
+    isbn13: '9781668031384'
+    link: https://www.goodreads.com/book/show/199798270-unit-x
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1645'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716430803l/199798270._SX50_.jpg
+    title: 'Unit X: How the Pentagon and Silicon Valley Are Transforming the Future
+      of War'
+    title_without_series: 'Unit X: How the Pentagon and Silicon Valley Are Transforming
+      the Future of War'
+    uri: kca://book/amzn1.gr.book.v3.Pa5_NrD5exqWIirn
+    work:
+      id: '204370641'
+  - authors:
+      author:
+        id: '193204'
+        link: https://www.goodreads.com/author/show/193204.Kim_Zetter
+        name: Kim Zetter
+    average_rating: '3.95'
+    id: '18465875'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404960332l/18465875._SX98_.jpg
+    isbn: 077043617X
+    isbn13: '9780770436179'
+    link: https://www.goodreads.com/book/show/18465875-countdown-to-zero-day
+    num_pages: '406'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1645'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404960332l/18465875._SX50_.jpg
+    title: 'Countdown to Zero Day: Stuxnet and the Launch of the World''s First Digital
+      Weapon'
+    title_without_series: 'Countdown to Zero Day: Stuxnet and the Launch of the World''s
+      First Digital Weapon'
+    uri: kca://book/amzn1.gr.book.v1.uqKGevErjf9-n_wctXxl8Q
+    work:
+      id: '26123986'
+  - authors:
+      author:
+        id: '42861502'
+        link: https://www.goodreads.com/author/show/42861502.Dmitri_Alperovitch
+        name: Dmitri Alperovitch
+    average_rating: '3.95'
+    id: '195820877'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1541704096'
+    isbn13: '9781541704091'
+    link: https://www.goodreads.com/book/show/195820877-world-on-the-brink
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1645'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'World on the Brink: How America Can Beat China in the Race for the Twenty-First
+      Century'
+    title_without_series: 'World on the Brink: How America Can Beat China in the Race
+      for the Twenty-First Century'
+    uri: kca://book/amzn1.gr.book.v3.LnYUf9fGFHpygkaT
+    work:
+      id: '197775251'
+  - authors:
+      author:
+        id: '22001142'
+        link: https://www.goodreads.com/author/show/22001142.Zeke_Faux
+        name: Zeke Faux
+    average_rating: '3.95'
+    id: '123276708'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687140968l/123276708._SX98_.jpg
+    isbn: 0593443810
+    isbn13: '9780593443811'
+    link: https://www.goodreads.com/book/show/123276708-number-go-up
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1645'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687140968l/123276708._SY75_.jpg
+    title: 'Number Go Up: Inside Crypto''s Wild Rise and Staggering Fall'
+    title_without_series: 'Number Go Up: Inside Crypto''s Wild Rise and Staggering
+      Fall'
+    uri: kca://book/amzn1.gr.book.v3.L3cikZNJsKjTsNVg
+    work:
+      id: '145311112'
+  - authors:
+      author:
+        id: '19729089'
+        link: https://www.goodreads.com/author/show/19729089.Nicole_Perlroth
+        name: Nicole Perlroth
+    average_rating: '3.95'
+    id: '49247043'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610927353l/49247043._SX98_.jpg
+    isbn: '1635576059'
+    isbn13: '9781635576054'
+    link: https://www.goodreads.com/book/show/49247043-this-is-how-they-tell-me-the-world-ends
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1645'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610927353l/49247043._SY75_.jpg
+    title: 'This Is How They Tell Me the World Ends: The Cyberweapons Arms Race'
+    title_without_series: 'This Is How They Tell Me the World Ends: The Cyberweapons
+      Arms Race'
+    uri: kca://book/amzn1.gr.book.v3.pWWuoltYnBguZAEx
+    work:
+      id: '74693396'
+  - authors:
+      author:
+        id: '18876312'
+        link: https://www.goodreads.com/author/show/18876312.Craig_Whitlock
+        name: Craig Whitlock
+    average_rating: '3.95'
+    id: '199798167'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714314895l/199798167._SX98_.jpg
+    isbn: '1982131632'
+    isbn13: '9781982131630'
+    link: https://www.goodreads.com/book/show/199798167-fat-leonard
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1645'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714314895l/199798167._SY75_.jpg
+    title: 'Fat Leonard: How One Man Bribed, Bilked, and Seduced the U.S. Navy'
+    title_without_series: 'Fat Leonard: How One Man Bribed, Bilked, and Seduced the
+      U.S. Navy'
+    uri: kca://book/amzn1.gr.book.v3.pj91hLorXrhwUaZQ
+    work:
+      id: '68376947'
+  - authors:
+      author:
+        id: '5770119'
+        link: https://www.goodreads.com/author/show/5770119.Parmy_Olson
+        name: Parmy Olson
+    average_rating: '3.95'
+    id: '199809440'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711570682l/199809440._SX98_.jpg
+    isbn: '1250337747'
+    isbn13: '9781250337740'
+    link: https://www.goodreads.com/book/show/199809440-supremacy
+    num_pages: '336'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1645'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711570682l/199809440._SY75_.jpg
+    title: 'Supremacy: AI, ChatGPT, and the Race that Will Change the World'
+    title_without_series: 'Supremacy: AI, ChatGPT, and the Race that Will Change the
+      World'
+    uri: kca://book/amzn1.gr.book.v3.lKNpRtb0B7Golxwm
+    work:
+      id: '204384595'
+  - authors:
+      author:
+        id: '1054441'
+        link: https://www.goodreads.com/author/show/1054441.Geoff_White
+        name: Geoff    White
+    average_rating: '3.95'
+    id: '58959520'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693350534l/58959520._SX98_.jpg
+    isbn: 0241554268
+    isbn13: '9780241554265'
+    link: https://www.goodreads.com/book/show/58959520-the-lazarus-heist
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1645'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693350534l/58959520._SY75_.jpg
+    title: 'The Lazarus Heist: From Hollywood to High Finance: Inside North Korea''s
+      Global Cyber War'
+    title_without_series: 'The Lazarus Heist: From Hollywood to High Finance: Inside
+      North Korea''s Global Cyber War'
+    uri: kca://book/amzn1.gr.book.v3.3MWAr28nGGd-J7ft
+    work:
+      id: '92923963'
+  - authors:
+      author:
+        id: '10953'
+        link: https://www.goodreads.com/author/show/10953.Kevin_D_Mitnick
+        name: Kevin D. Mitnick
+    average_rating: '3.95'
+    id: '10256723'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344265017l/10256723._SX98_.jpg
+    isbn: '0316037702'
+    isbn13: '9780316037709'
+    link: https://www.goodreads.com/book/show/10256723-ghost-in-the-wires
+    num_pages: '413'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1645'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344265017l/10256723._SY75_.jpg
+    title: 'Ghost in the Wires: My Adventures as the World''s Most Wanted Hacker'
+    title_without_series: 'Ghost in the Wires: My Adventures as the World''s Most
+      Wanted Hacker'
+    uri: kca://book/amzn1.gr.book.v1.09HYbxs-N8J4Fv8fRljeQw
+    work:
+      id: '15156997'
+  - authors:
+      author:
+        id: '15066583'
+        link: https://www.goodreads.com/author/show/15066583.Arvind_Narayanan
+        name: Arvind Narayanan
+    average_rating: '3.95'
+    id: '210319458'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714310418l/210319458._SX98_.jpg
+    isbn: 069124913X
+    isbn13: '9780691249131'
+    link: https://www.goodreads.com/book/show/210319458-ai-snake-oil
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1645'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714310418l/210319458._SY75_.jpg
+    title: "AI Snake Oil: What Artificial Intelligence Can Do, What It Can\u2019t,\
+      \ and How to Tell the Difference"
+    title_without_series: "AI Snake Oil: What Artificial Intelligence Can Do, What\
+      \ It Can\u2019t, and How to Tell the Difference"
+    uri: kca://book/amzn1.gr.book.v3.WEaguGQUuNz8ZWrU
+    work:
+      id: '216538881'
+  - authors:
+      author:
+        id: '761595'
+        link: https://www.goodreads.com/author/show/761595.Ashlee_Vance
+        name: Ashlee Vance
+    average_rating: '3.95'
+    id: '62050244'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675644477l/62050244._SX98_.jpg
+    isbn: 0062998870
+    isbn13: '9780062998873'
+    link: https://www.goodreads.com/book/show/62050244-when-the-heavens-went-on-sale
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1645'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675644477l/62050244._SY75_.jpg
+    title: 'When the Heavens Went on Sale: The Misfits and Geniuses Racing to Put
+      Space Within Reach'
+    title_without_series: 'When the Heavens Went on Sale: The Misfits and Geniuses
+      Racing to Put Space Within Reach'
+    uri: kca://book/amzn1.gr.book.v3.EWDTnaXBBg0AG_0R
+    work:
+      id: '97810426'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684463648l/63904237._SX50_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '18'
+  '@type': integer
+title: 'Fancy Bear Goes Phishing: The Dark History of the Information Age, in Five
+  Extraordinary Hacks'
+title_without_series: 'Fancy Bear Goes Phishing: The Dark History of the Information
+  Age, in Five Extraordinary Hacks'
+uri: kca://book/amzn1.gr.book.v3.cCNg5MBzitdh8dwJ
+url: https://www.goodreads.com/book/show/63904237-fancy-bear-goes-phishing
+work:
+  id: '97797743'
+  uri: kca://work/amzn1.gr.work.v3.pUS5sgoG_MQ3ytSf

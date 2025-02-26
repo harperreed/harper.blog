@@ -1,0 +1,752 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.64'
+    id: '13461530'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1506454969p5/13461530.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/13461530.Kelly_Robson
+    name: Kelly Robson
+    ratings_count: '11267'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1506454969p2/13461530.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '2725'
+average_rating: '3.60'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2019-04-14T00:00:00-07:00'
+description: Discover a shifting history of adventure as humanity clashes over whether
+  to repair their ruined planet or luxuriate in a less tainted past.<br /><br />In
+  2267, Earth has just begun to recover from worldwide ecological disasters. Minh
+  is part of the generation that first moved back up to the surface of the Earth from
+  the underground hells, to reclaim humanity's ancestral habitat. She's spent her
+  entire life restoring river ecosystems, but lately the kind of long-term restoration
+  projects Minh works on have been stalled due to the invention of time travel. When
+  she gets the opportunity take a team to 2000 BC to survey the Tigris and Euphrates
+  rivers, she jumps at the chance to uncover the secrets of the shadowy think tank
+  that controls time travel technology.
+edition_information: null
+format: Kindle Edition
+id: '36187158'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506531524l/36187158._SX98_.jpg
+is_ebook: 'true'
+isbn: '1250163846'
+isbn13: '9781250163844'
+json: '{"id": "36187158", "isbn": "1250163846", "isbn13": "9781250163844", "text_reviews_count":
+  {"@type": "integer", "#text": "490"}, "uri": "kca://book/amzn1.gr.book.v1.cMZi944GOU1-Exri0vMjhA",
+  "title": "Gods, Monsters, and the Lucky Peach", "title_without_series": "Gods, Monsters,
+  and the Lucky Peach", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506531524l/36187158._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506531524l/36187158._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/36187158-gods-monsters-and-the-lucky-peach",
+  "num_pages": "233", "format": "Kindle Edition", "edition_information": null, "publisher":
+  "Tor.com", "publication_day": "13", "publication_year": "2018", "publication_month":
+  "3", "average_rating": "3.60", "ratings_count": "2788", "description": "Discover
+  a shifting history of adventure as humanity clashes over whether to repair their
+  ruined planet or luxuriate in a less tainted past.<br /><br />In 2267, Earth has
+  just begun to recover from worldwide ecological disasters. Minh is part of the generation
+  that first moved back up to the surface of the Earth from the underground hells,
+  to reclaim humanity''s ancestral habitat. She''s spent her entire life restoring
+  river ecosystems, but lately the kind of long-term restoration projects Minh works
+  on have been stalled due to the invention of time travel. When she gets the opportunity
+  take a team to 2000 BC to survey the Tigris and Euphrates rivers, she jumps at the
+  chance to uncover the secrets of the shadowy think tank that controls time travel
+  technology.", "authors": {"author": {"id": "13461530", "name": "Kelly Robson", "role":
+  null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1506454969p5/13461530.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1506454969p2/13461530.jpg"},
+  "link": "https://www.goodreads.com/author/show/13461530.Kelly_Robson", "average_rating":
+  "3.64", "ratings_count": "11267", "text_reviews_count": "2725"}}, "published": "2018",
+  "work": {"id": "57810004", "uri": "kca://work/amzn1.gr.work.v1.VkAs8dzTkcDbzCjQCkQBGg"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/2777730195",
+  "read_at": "Sun Apr 14 00:00:00 -0700 2019", "started_at": "Sat Apr 06 00:00:00
+  -0700 2019", "date": "Sun Apr 14 00:00:00 -0700 2019"}'
+kindle_asin: B0756JDSZM
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/36187158-gods-monsters-and-the-lucky-peach
+marketplace_id: ATVPDKIKX0DER
+num_pages: '233'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '5368'
+    '@name': to-read
+  - '@count': '291'
+    '@name': science-fiction
+  - '@count': '269'
+    '@name': currently-reading
+  - '@count': '191'
+    '@name': sci-fi
+  - '@count': '126'
+    '@name': time-travel
+  - '@count': '112'
+    '@name': novella
+  - '@count': '77'
+    '@name': fiction
+  - '@count': '64'
+    '@name': scifi
+  - '@count': '45'
+    '@name': fantasy
+  - '@count': '38'
+    '@name': kindle
+  - '@count': '30'
+    '@name': novellas
+  - '@count': '25'
+    '@name': sff
+  - '@count': '25'
+    '@name': sf
+  - '@count': '23'
+    '@name': post-apocalyptic
+  - '@count': '23'
+    '@name': dnf
+  - '@count': '21'
+    '@name': ebook
+  - '@count': '19'
+    '@name': adult
+  - '@count': '18'
+    '@name': read-in-2018
+  - '@count': '18'
+    '@name': owned
+  - '@count': '18'
+    '@name': speculative-fiction
+  - '@count': '16'
+    '@name': audiobook
+  - '@count': '16'
+    '@name': 2018-releases
+  - '@count': '15'
+    '@name': scifi-fantasy
+  - '@count': '13'
+    '@name': short-stories
+  - '@count': '13'
+    '@name': ebooks
+  - '@count': '12'
+    '@name': hugo-2019
+  - '@count': '12'
+    '@name': read-in-2019
+  - '@count': '12'
+    '@name': read-2019
+  - '@count': '12'
+    '@name': favorites
+  - '@count': '12'
+    '@name': short-fiction
+  - '@count': '11'
+    '@name': hugos-2019
+  - '@count': '11'
+    '@name': sci-fi-fantasy
+  - '@count': '11'
+    '@name': dystopia
+  - '@count': '10'
+    '@name': lgbtq
+  - '@count': '10'
+    '@name': e-book
+  - '@count': '10'
+    '@name': library
+  - '@count': '9'
+    '@name': fantasy-sci-fi
+  - '@count': '9'
+    '@name': book-club
+  - '@count': '9'
+    '@name': dystopian
+  - '@count': '9'
+    '@name': did-not-finish
+  - '@count': '9'
+    '@name': books-i-own
+  - '@count': '8'
+    '@name': audiobooks
+  - '@count': '8'
+    '@name': female-author
+  - '@count': '8'
+    '@name': genre-science-fiction
+  - '@count': '7'
+    '@name': female-protagonist
+  - '@count': '7'
+    '@name': abandoned
+  - '@count': '7'
+    '@name': canadian
+  - '@count': '7'
+    '@name': sf-fantasy
+  - '@count': '7'
+    '@name': read-2018
+  - '@count': '7'
+    '@name': women-authors
+  - '@count': '7'
+    '@name': own-ebook
+  - '@count': '7'
+    '@name': maybe
+  - '@count': '6'
+    '@name': post-apocalypse
+  - '@count': '6'
+    '@name': tbr
+  - '@count': '6'
+    '@name': adult-fiction
+  - '@count': '6'
+    '@name': science-fiction-fantasy
+  - '@count': '6'
+    '@name': short-stories-novellas
+  - '@count': '6'
+    '@name': historical
+  - '@count': '5'
+    '@name': queer
+  - '@count': '5'
+    '@name': lgbt
+  - '@count': '5'
+    '@name': hugo-nominee
+  - '@count': '5'
+    '@name': audio
+  - '@count': '5'
+    '@name': hugo
+  - '@count': '5'
+    '@name': ciencia-ficcion
+  - '@count': '5'
+    '@name': reviewed
+  - '@count': '5'
+    '@name': history
+  - '@count': '5'
+    '@name': library-book
+  - '@count': '5'
+    '@name': owned-books
+  - '@count': '5'
+    '@name': standalone
+  - '@count': '5'
+    '@name': science
+  - '@count': '5'
+    '@name': owned-ebook
+  - '@count': '5'
+    '@name': sf-f
+  - '@count': '5'
+    '@name': tbr-sci-fi
+  - '@count': '5'
+    '@name': historical-fiction
+  - '@count': '5'
+    '@name': 2018-release
+  - '@count': '4'
+    '@name': read-in-2021
+  - '@count': '4'
+    '@name': climate-fiction
+  - '@count': '4'
+    '@name': 2019-reads
+  - '@count': '4'
+    '@name': cli-fi
+  - '@count': '4'
+    '@name': nebula-nominee
+  - '@count': '4'
+    '@name': scribd
+  - '@count': '4'
+    '@name': lost-interest
+  - '@count': '4'
+    '@name': adventure
+  - '@count': '4'
+    '@name': novels
+  - '@count': '4'
+    '@name': poc
+  - '@count': '4'
+    '@name': sci-fi-and-fantasy
+  - '@count': '4'
+    '@name': 2018-reads
+  - '@count': '4'
+    '@name': 2018-read
+  - '@count': '4'
+    '@name': e-books
+  - '@count': '4'
+    '@name': speculative
+  - '@count': '3'
+    '@name': '1'
+  - '@count': '3'
+    '@name': unfinished
+  - '@count': '3'
+    '@name': owned-unread
+  - '@count': '3'
+    '@name': hugo-awards
+  - '@count': '3'
+    '@name': lgbtqia
+  - '@count': '3'
+    '@name': hugo-awards-2019
+  - '@count': '3'
+    '@name': futuristic
+  - '@count': '3'
+    '@name': 2019-read
+  - '@count': '3'
+    '@name': 2019-hugos
+  - '@count': '3'
+    '@name': canadian-literature
+publication_day: '13'
+publication_month: '3'
+publication_year: '2018'
+published: '2018'
+publisher: Tor.com
+ratings_count: '2788'
+read_at: '2019-04-14T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/2777730195
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/36187158-gods-monsters-and-the-lucky-peach\"\
+  >Gods, Monsters, and the Lucky Peach Reviews</a></h1></div>\n  <iframe sandbox id=\"\
+  the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1250163846&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/36187158-gods-monsters-and-the-lucky-peach?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '4632661'
+        link: https://www.goodreads.com/author/show/4632661.Zen_Cho
+        name: Zen Cho
+    average_rating: '3.60'
+    id: '22544926'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403138896l/22544926._SX98_.jpg
+    isbn: '9670374987'
+    isbn13: '9789670374987'
+    link: https://www.goodreads.com/book/show/22544926-spirits-abroad
+    num_pages: '284'
+    publication_day: '21'
+    publication_month: '6'
+    publication_year: '2014'
+    ratings_count: '2788'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403138896l/22544926._SX50_.jpg
+    title: Spirits Abroad
+    title_without_series: Spirits Abroad
+    uri: kca://book/amzn1.gr.book.v1.w9QKn-UCnzNFw-dGrma4Gg
+    work:
+      id: '41906689'
+  - authors:
+      author:
+        id: '6447152'
+        link: https://www.goodreads.com/author/show/6447152.Ray_Nayler
+        name: Ray Nayler
+    average_rating: '3.60'
+    id: '127284214'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683036761l/127284214._SX98_.jpg
+    isbn: '1250855535'
+    isbn13: '9781250855534'
+    link: https://www.goodreads.com/book/show/127284214-the-tusks-of-extinction
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2788'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683036761l/127284214._SY75_.jpg
+    title: The Tusks of Extinction
+    title_without_series: The Tusks of Extinction
+    uri: kca://book/amzn1.gr.book.v3.n8Gvhgk88yUbKKgR
+    work:
+      id: '148189190'
+  - authors:
+      author:
+        id: '7448339'
+        link: https://www.goodreads.com/author/show/7448339.Steven_Decker
+        name: Steven Decker
+    average_rating: '3.60'
+    id: '215515923'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: '9798988926245'
+    link: https://www.goodreads.com/book/show/215515923-one-more-life-to-live
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2788'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: One More Life to Live (Edward and the Bricklayer Book 1)
+    title_without_series: One More Life to Live
+    uri: kca://book/amzn1.gr.book.v3.w9Z8_uIuGqF6nDxb
+    work:
+      id: '221943269'
+  - authors:
+      author:
+        id: '9831075'
+        link: https://www.goodreads.com/author/show/9831075.Nino_Cipri
+        name: Nino Cipri
+    average_rating: '3.60'
+    id: '44081573'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563304090l/44081573._SX98_.jpg
+    isbn: '1250245729'
+    isbn13: '9781250245724'
+    link: https://www.goodreads.com/book/show/44081573-finna
+    num_pages: '103'
+    publication_day: '25'
+    publication_month: '2'
+    publication_year: '2020'
+    ratings_count: '2788'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563304090l/44081573._SY75_.jpg
+    title: 'Finna (LitenVerse, #1)'
+    title_without_series: Finna
+    uri: kca://book/amzn1.gr.book.v1.3509Z6Xn0L-TS4HJWuY8Zw
+    work:
+      id: '68548236'
+  - authors:
+      author:
+        id: '2918731'
+        link: https://www.goodreads.com/author/show/2918731.Aliette_de_Bodard
+        name: Aliette de Bodard
+    average_rating: '3.60'
+    id: '36686547'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511987651l/36686547._SX98_.jpg
+    isbn: '1596068647'
+    isbn13: '9781596068643'
+    link: https://www.goodreads.com/book/show/36686547-the-tea-master-and-the-detective
+    num_pages: '93'
+    publication_day: '31'
+    publication_month: '3'
+    publication_year: '2018'
+    ratings_count: '2788'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511987651l/36686547._SX50_.jpg
+    title: The Tea Master and the Detective (The Universe of Xuya)
+    title_without_series: The Tea Master and the Detective
+    uri: kca://book/amzn1.gr.book.v1.EM69Wxptxx7sJY2DLtPTOg
+    work:
+      id: '58480498'
+  - authors:
+      author:
+        id: '2868678'
+        link: https://www.goodreads.com/author/show/2868678.Mary_Robinette_Kowal
+        name: Mary Robinette Kowal
+    average_rating: '3.60'
+    id: '52381417'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1250236967'
+    isbn13: '9781250236968'
+    link: https://www.goodreads.com/book/show/52381417-the-relentless-moon
+    num_pages: '544'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2788'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Relentless Moon (Lady Astronaut Universe, #3)'
+    title_without_series: The Relentless Moon
+    uri: kca://book/amzn1.gr.book.v3.ZHkrvZCxoHUOkIt0
+    work:
+      id: '65396089'
+  - authors:
+      author:
+        id: '5782077'
+        link: https://www.goodreads.com/author/show/5782077.Tade_Thompson
+        name: Tade Thompson
+    average_rating: '3.60'
+    id: '34417038'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1495129861l/34417038._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/34417038-the-murders-of-molly-southbourne
+    num_pages: '122'
+    publication_day: '3'
+    publication_month: '10'
+    publication_year: '2017'
+    ratings_count: '2788'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1495129861l/34417038._SY75_.jpg
+    title: 'The Murders of Molly Southbourne (Molly Southbourne, #1)'
+    title_without_series: The Murders of Molly Southbourne
+    uri: kca://book/amzn1.gr.book.v1.87IkybHYVkVFWyv0Z4N-Jg
+    work:
+      id: '55520132'
+  - authors:
+      author:
+        id: '7324271'
+        link: https://www.goodreads.com/author/show/7324271.Tochi_Onyebuchi
+        name: Tochi Onyebuchi
+    average_rating: '3.60'
+    id: '43719523'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556633991l/43719523._SX98_.jpg
+    isbn: '1250214769'
+    isbn13: '9781250214768'
+    link: https://www.goodreads.com/book/show/43719523-riot-baby
+    num_pages: '167'
+    publication_day: '21'
+    publication_month: '1'
+    publication_year: '2020'
+    ratings_count: '2788'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556633991l/43719523._SY75_.jpg
+    title: Riot Baby
+    title_without_series: Riot Baby
+    uri: kca://book/amzn1.gr.book.v1.4-SOZuuRj_vEqu5L2ZFCbA
+    work:
+      id: '68038597'
+  - authors:
+      author:
+        id: '4369922'
+        link: https://www.goodreads.com/author/show/4369922.Kameron_Hurley
+        name: Kameron Hurley
+    average_rating: '3.60'
+    id: '40523931'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537977912l/40523931._SX98_.jpg
+    isbn: '1481447963'
+    isbn13: '9781481447966'
+    link: https://www.goodreads.com/book/show/40523931-the-light-brigade
+    num_pages: '356'
+    publication_day: '19'
+    publication_month: '3'
+    publication_year: '2019'
+    ratings_count: '2788'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537977912l/40523931._SY75_.jpg
+    title: The Light Brigade
+    title_without_series: The Light Brigade
+    uri: kca://book/amzn1.gr.book.v1.sk1As_eOam11Ozm4z3r1nA
+    work:
+      id: '62896440'
+  - authors:
+      author:
+        id: '14220734'
+        link: https://www.goodreads.com/author/show/14220734.Malka_Ann_Older
+        name: Malka Ann Older
+    average_rating: '3.60'
+    id: '26114433'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444883445l/26114433._SX98_.jpg
+    isbn: 0765385155
+    isbn13: '9780765385154'
+    link: https://www.goodreads.com/book/show/26114433-infomocracy
+    num_pages: '380'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2788'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444883445l/26114433._SY75_.jpg
+    title: 'Infomocracy (The Centenal Cycle, #1)'
+    title_without_series: Infomocracy
+    uri: kca://book/amzn1.gr.book.v1.y5BoaKnYgKKEOedEKkskiw
+    work:
+      id: '46061300'
+  - authors:
+      author:
+        id: '15117586'
+        link: https://www.goodreads.com/author/show/15117586.P_Dj_l_Clark
+        name: "P. Dj\xE8l\xED Clark"
+    average_rating: '3.60'
+    id: '38118138'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521211814l/38118138._SX98_.jpg
+    isbn: '1250294703'
+    isbn13: '9781250294708'
+    link: https://www.goodreads.com/book/show/38118138-the-black-god-s-drums
+    num_pages: '112'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2788'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521211814l/38118138._SY75_.jpg
+    title: The Black God's Drums
+    title_without_series: The Black God's Drums
+    uri: kca://book/amzn1.gr.book.v1.qsbEF8i9w-G4_FGW9MhvNw
+    work:
+      id: '58277606'
+  - authors:
+      author:
+        id: '66280'
+        link: https://www.goodreads.com/author/show/66280.Samit_Basu
+        name: Samit Basu
+    average_rating: '3.60'
+    id: '65211707'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678974245l/65211707._SX98_.jpg
+    isbn: '1250827515'
+    isbn13: '9781250827517'
+    link: https://www.goodreads.com/book/show/65211707-the-jinn-bot-of-shantiport
+    num_pages: '404'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2788'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678974245l/65211707._SY75_.jpg
+    title: The Jinn-Bot of Shantiport
+    title_without_series: The Jinn-Bot of Shantiport
+    uri: kca://book/amzn1.gr.book.v3.fgCBe-mFgxjo3joL
+    work:
+      id: '100096832'
+  - authors:
+      author:
+        id: '338705'
+        link: https://www.goodreads.com/author/show/338705.Catherynne_M_Valente
+        name: Catherynne M. Valente
+    average_rating: '3.60'
+    id: '24100285'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518017807l/24100285._SX98_.jpg
+    isbn: '1472115074'
+    isbn13: '9781472115072'
+    link: https://www.goodreads.com/book/show/24100285-space-opera
+    num_pages: '294'
+    publication_day: '4'
+    publication_month: '10'
+    publication_year: '2018'
+    ratings_count: '2788'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518017807l/24100285._SY75_.jpg
+    title: 'Space Opera (Space Opera, #1)'
+    title_without_series: Space Opera
+    uri: kca://book/amzn1.gr.book.v1.WZNIDha6gVyJmsAsUGs2VA
+    work:
+      id: '59979691'
+  - authors:
+      author:
+        id: '4369922'
+        link: https://www.goodreads.com/author/show/4369922.Kameron_Hurley
+        name: Kameron Hurley
+    average_rating: '3.60'
+    id: '29090844'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455431216l/29090844._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/29090844-the-stars-are-legion
+    num_pages: '512'
+    publication_day: '7'
+    publication_month: '2'
+    publication_year: '2017'
+    ratings_count: '2788'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455431216l/29090844._SY75_.jpg
+    title: The Stars Are Legion
+    title_without_series: The Stars Are Legion
+    uri: kca://book/amzn1.gr.book.v1.GHnz5Qv1yxB5kdryallyJQ
+    work:
+      id: '21836212'
+  - authors:
+      author:
+        id: '5127680'
+        link: https://www.goodreads.com/author/show/5127680.Samantha_Mills
+        name: Samantha Mills
+    average_rating: '3.60'
+    id: '198821102'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697566335l/198821102._SX98_.jpg
+    isbn: '1616964146'
+    isbn13: '9781616964146'
+    link: https://www.goodreads.com/book/show/198821102-the-wings-upon-her-back
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2788'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697566335l/198821102._SY75_.jpg
+    title: The Wings Upon Her Back
+    title_without_series: The Wings Upon Her Back
+    uri: kca://book/amzn1.gr.book.v3.rNvMKrmo9VPQGnd4
+    work:
+      id: '146447603'
+  - authors:
+      author:
+        id: '7434788'
+        link: https://www.goodreads.com/author/show/7434788.Vajra_Chandrasekera
+        name: Vajra Chandrasekera
+    average_rating: '3.60'
+    id: '61884985'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707333565l/61884985._SX98_.jpg
+    isbn: '1250847389'
+    isbn13: '9781250847386'
+    link: https://www.goodreads.com/book/show/61884985-the-saint-of-bright-doors
+    num_pages: '356'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2788'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707333565l/61884985._SY75_.jpg
+    title: The Saint of Bright Doors
+    title_without_series: The Saint of Bright Doors
+    uri: kca://book/amzn1.gr.book.v3.RpbeFzr0mZrpd4ZQ
+    work:
+      id: '93503571'
+  - authors:
+      author:
+        id: '7058667'
+        link: https://www.goodreads.com/author/show/7058667.Nghi_Vo
+        name: Nghi Vo
+    average_rating: '3.60'
+    id: '58008003'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701021886l/58008003._SX98_.jpg
+    isbn: '1250838037'
+    isbn13: '9781250838032'
+    link: https://www.goodreads.com/book/show/58008003-the-brides-of-high-hill
+    num_pages: '116'
+    publication_day: '7'
+    publication_month: '5'
+    publication_year: '2024'
+    ratings_count: '2788'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701021886l/58008003._SY75_.jpg
+    title: 'The Brides of High Hill (The Singing Hills Cycle, #5)'
+    title_without_series: The Brides of High Hill
+    uri: kca://book/amzn1.gr.book.v3._JGEvGpNbV356dDb
+    work:
+      id: '90899519'
+  - authors:
+      author:
+        id: '2868678'
+        link: https://www.goodreads.com/author/show/2868678.Mary_Robinette_Kowal
+        name: Mary Robinette Kowal
+    average_rating: '3.60'
+    id: '33081262'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539850563l/33081262._SX98_.jpg
+    isbn: 076539894X
+    isbn13: '9780765398949'
+    link: https://www.goodreads.com/book/show/33081262-the-fated-sky
+    num_pages: '384'
+    publication_day: '21'
+    publication_month: '8'
+    publication_year: '2018'
+    ratings_count: '2788'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539850563l/33081262._SY75_.jpg
+    title: 'The Fated Sky (Lady Astronaut Universe, #2)'
+    title_without_series: The Fated Sky
+    uri: kca://book/amzn1.gr.book.v1.gfs7Gr-8RSS8Z7Mt3iSUHg
+    work:
+      id: '53736197'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506531524l/36187158._SY75_.jpg
+started_at: '2019-04-06T00:00:00-07:00'
+text_reviews_count:
+  '#text': '490'
+  '@type': integer
+title: Gods, Monsters, and the Lucky Peach
+title_without_series: Gods, Monsters, and the Lucky Peach
+uri: kca://book/amzn1.gr.book.v1.cMZi944GOU1-Exri0vMjhA
+url: https://www.goodreads.com/book/show/36187158-gods-monsters-and-the-lucky-peach
+work:
+  id: '57810004'
+  uri: kca://work/amzn1.gr.work.v1.VkAs8dzTkcDbzCjQCkQBGg

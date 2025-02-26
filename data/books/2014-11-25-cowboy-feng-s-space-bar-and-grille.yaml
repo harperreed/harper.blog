@@ -1,0 +1,737 @@
+asin: B003L1ZZFK
+authors:
+  author:
+    average_rating: '4.08'
+    id: '27704'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1361579656p5/27704.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/27704.Steven_Brust
+    name: Steven Brust
+    ratings_count: '151011'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1361579656p2/27704.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '6674'
+average_rating: '3.67'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2014-11-25T00:00:00-08:00'
+description: null
+edition_information: 1st
+format: null
+id: '10132201'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn:
+  '@nil': 'true'
+isbn13:
+  '@nil': 'true'
+json: '{"id": "10132201", "isbn": {"@nil": "true"}, "isbn13": {"@nil": "true"}, "text_reviews_count":
+  {"@type": "integer", "#text": "2"}, "uri": "kca://book/amzn1.gr.book.v1.Y1S0gYbRAKCBxibX0C0zyg",
+  "title": "Cowboy Feng''s Space Bar and Grille", "title_without_series": "Cowboy
+  Feng''s Space Bar and Grille", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/10132201-cowboy-feng-s-space-bar-and-grille",
+  "num_pages": null, "format": null, "edition_information": "1st", "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.67", "ratings_count": "1881", "description": null, "authors": {"author": {"id":
+  "27704", "name": "Steven Brust", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1361579656p5/27704.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1361579656p2/27704.jpg"},
+  "link": "https://www.goodreads.com/author/show/27704.Steven_Brust", "average_rating":
+  "4.08", "ratings_count": "151011", "text_reviews_count": "6674"}}, "published":
+  null, "work": {"id": "135107", "uri": "kca://work/amzn1.gr.work.v1.xfB-qaqL3l8YceQ84iXxVg"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1115042290",
+  "read_at": "Tue Nov 25 00:00:00 -0800 2014", "started_at": "", "date": "Tue Nov
+  25 00:00:00 -0800 2014"}'
+kindle_asin: B003L1ZZFK
+language_code: en-GB
+large_image_url: null
+link: https://www.goodreads.com/book/show/10132201-cowboy-feng-s-space-bar-and-grille
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '786'
+    '@name': to-read
+  - '@count': '88'
+    '@name': science-fiction
+  - '@count': '56'
+    '@name': sci-fi
+  - '@count': '40'
+    '@name': owned
+  - '@count': '33'
+    '@name': currently-reading
+  - '@count': '32'
+    '@name': fantasy
+  - '@count': '27'
+    '@name': fiction
+  - '@count': '24'
+    '@name': scifi
+  - '@count': '21'
+    '@name': default
+  - '@count': '14'
+    '@name': sf
+  - '@count': '13'
+    '@name': humor
+  - '@count': '12'
+    '@name': sci-fi-fantasy
+  - '@count': '10'
+    '@name': time-travel
+  - '@count': '8'
+    '@name': scifi-fantasy
+  - '@count': '7'
+    '@name': fantasy-sci-fi
+  - '@count': '6'
+    '@name': science-fiction-fantasy
+  - '@count': '6'
+    '@name': favorites
+  - '@count': '5'
+    '@name': steven-brust
+  - '@count': '4'
+    '@name': sff
+  - '@count': '4'
+    '@name': library
+  - '@count': '4'
+    '@name': paperback
+  - '@count': '4'
+    '@name': sf-fantasy
+  - '@count': '3'
+    '@name': my-library
+  - '@count': '3'
+    '@name': own-it
+  - '@count': '3'
+    '@name': books-i-own
+  - '@count': '3'
+    '@name': borrowed
+  - '@count': '3'
+    '@name': speculative-fiction
+  - '@count': '3'
+    '@name': book-club
+  - '@count': '2'
+    '@name': calibre
+  - '@count': '2'
+    '@name': goodreads-box-23
+  - '@count': '2'
+    '@name': dnf
+  - '@count': '2'
+    '@name': re-read
+  - '@count': '2'
+    '@name': brust
+  - '@count': '2'
+    '@name': fic
+  - '@count': '2'
+    '@name': books
+  - '@count': '2'
+    '@name': stand-alone
+  - '@count': '2'
+    '@name': to-re-read
+  - '@count': '2'
+    '@name': music
+  - '@count': '2'
+    '@name': spec-fic
+  - '@count': '2'
+    '@name': fantasy-scifi
+  - '@count': '2'
+    '@name': space-opera
+  - '@count': '2'
+    '@name': tbr
+  - '@count': '2'
+    '@name': check
+  - '@count': '2'
+    '@name': read-more-than-once
+  - '@count': '2'
+    '@name': ebook
+  - '@count': '2'
+    '@name': sf-f
+  - '@count': '2'
+    '@name': did-not-finish
+  - '@count': '2'
+    '@name': sciencefiction
+  - '@count': '2'
+    '@name': science-fiction-and-fantasy
+  - '@count': '2'
+    '@name': novel
+  - '@count': '2'
+    '@name': on-the-shelf
+  - '@count': '2'
+    '@name': fantasy-science-fiction
+  - '@count': '1'
+    '@name': reviewed
+  - '@count': '1'
+    '@name': 2025-rev
+  - '@count': '1'
+    '@name': 2018-sweep
+  - '@count': '1'
+    '@name': radar-fiction-not-library
+  - '@count': '1'
+    '@name': from-dad
+  - '@count': '1'
+    '@name': shelf-shopping
+  - '@count': '1'
+    '@name': 2024-books-read
+  - '@count': '1'
+    '@name': on-my-bookshelf
+  - '@count': '1'
+    '@name': monsters-sci-fi
+  - '@count': '1'
+    '@name': own-unread
+  - '@count': '1'
+    '@name': short-stories
+  - '@count': '1'
+    '@name': unread-own
+  - '@count': '1'
+    '@name': want-to-purchase
+  - '@count': '1'
+    '@name': have-on-shelf
+  - '@count': '1'
+    '@name': unread-physical-books
+  - '@count': '1'
+    '@name': home-shelf
+  - '@count': '1'
+    '@name': lent-out
+  - '@count': '1'
+    '@name': trade-paper
+  - '@count': '1'
+    '@name': wonderful-nonsense-bookclub
+  - '@count': '1'
+    '@name': for-izzy
+  - '@count': '1'
+    '@name': suspense
+  - '@count': '1'
+    '@name': priority
+  - '@count': '1'
+    '@name': on-my-radar
+  - '@count': '1'
+    '@name': sci-fi-tbr
+  - '@count': '1'
+    '@name': read-in-2023
+  - '@count': '1'
+    '@name': sff-speculative
+  - '@count': '1'
+    '@name': don-t-own
+  - '@count': '1'
+    '@name': recommended-by-friends
+  - '@count': '1'
+    '@name': 4sci-fi
+  - '@count': '1'
+    '@name': physical-books
+  - '@count': '1'
+    '@name': to-edit
+  - '@count': '1'
+    '@name': kindle-amz
+  - '@count': '1'
+    '@name': 1980-2000
+  - '@count': '1'
+    '@name': 2022-reread
+  - '@count': '1'
+    '@name': paper-back
+  - '@count': '1'
+    '@name': mystery
+  - '@count': '1'
+    '@name': physical-tbr
+  - '@count': '1'
+    '@name': maison
+  - '@count': '1'
+    '@name': 2022-reads
+  - '@count': '1'
+    '@name': s
+  - '@count': '1'
+    '@name': speculative-to-read
+  - '@count': '1'
+    '@name': more-like-these
+  - '@count': '1'
+    '@name': '1'
+  - '@count': '1'
+    '@name': to-read-scifi
+  - '@count': '1'
+    '@name': to-read-with-jake
+  - '@count': '1'
+    '@name': inventory
+  - '@count': '1'
+    '@name': this-year
+  - '@count': '1'
+    '@name': 2-book-authors
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '1881'
+read_at: '2014-11-25T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/1115042290
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/10132201-cowboy-feng-s-space-bar-and-grille\"\
+  >Cowboy Feng&#39;s Space Bar and Grille Reviews</a></h1></div>\n  <iframe sandbox\
+  \ id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B003L1ZZFK&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/10132201-cowboy-feng-s-space-bar-and-grille?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '18758567'
+        link: https://www.goodreads.com/author/show/18758567.Emily_Tesh
+        name: Emily Tesh
+    average_rating: '3.67'
+    id: '49928905'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578456994l/49928905._SX98_.jpg
+    isbn: 125075660X
+    isbn13: '9781250756602'
+    link: https://www.goodreads.com/book/show/49928905-drowned-country
+    num_pages: null
+    publication_day: '18'
+    publication_month: '8'
+    publication_year: '2020'
+    ratings_count: '1881'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578456994l/49928905._SY75_.jpg
+    title: 'Drowned Country (The Greenhollow Duology, #2)'
+    title_without_series: Drowned Country
+    uri: kca://book/amzn1.gr.book.v3.Zym5OhL_QpO-Uk9b
+    work:
+      id: '73552629'
+  - authors:
+      author:
+        id: '23069'
+        link: https://www.goodreads.com/author/show/23069.Gene_Wolfe
+        name: Gene Wolfe
+    average_rating: '3.67'
+    id: '40992'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0312890176
+    isbn13: '9780312890179'
+    link: https://www.goodreads.com/book/show/40992.Shadow_Claw
+    num_pages: '413'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1881'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Shadow & Claw (The Book of the New Sun, #1-2)'
+    title_without_series: Shadow & Claw
+    uri: kca://book/amzn1.gr.book.v1.DH9l_8y3KijFANTbfcyslA
+    work:
+      id: '40575'
+  - authors:
+      author:
+        id: '107170'
+        link: https://www.goodreads.com/author/show/107170.Jo_Walton
+        name: Jo Walton
+    average_rating: '3.67'
+    id: '344623'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312040851l/344623._SX98_.jpg
+    isbn: 0765349094
+    isbn13: '9780765349095'
+    link: https://www.goodreads.com/book/show/344623.Tooth_and_Claw
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1881'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312040851l/344623._SY75_.jpg
+    title: Tooth and Claw
+    title_without_series: Tooth and Claw
+    uri: kca://book/amzn1.gr.book.v1.ALZWDhwFCdZm0vCoWnZXAg
+    work:
+      id: '422657'
+  - authors:
+      author:
+        id: '7058667'
+        link: https://www.goodreads.com/author/show/7058667.Nghi_Vo
+        name: Nghi Vo
+    average_rating: '3.67'
+    id: '58007996'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715640435l/58007996._SX98_.jpg
+    isbn: '1250838002'
+    isbn13: '9781250838001'
+    link: https://www.goodreads.com/book/show/58007996-mammoths-at-the-gates
+    num_pages: '123'
+    publication_day: '12'
+    publication_month: '9'
+    publication_year: '2023'
+    ratings_count: '1881'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715640435l/58007996._SY75_.jpg
+    title: 'Mammoths at the Gates (The Singing Hills Cycle, #4)'
+    title_without_series: Mammoths at the Gates
+    uri: kca://book/amzn1.gr.book.v3.WUVX-4QExyQLgA4p
+    work:
+      id: '90899514'
+  - authors:
+      author:
+        id: '18758567'
+        link: https://www.goodreads.com/author/show/18758567.Emily_Tesh
+        name: Emily Tesh
+    average_rating: '3.67'
+    id: '43459657'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547478093l/43459657._SX98_.jpg
+    isbn: '1250229790'
+    isbn13: '9781250229793'
+    link: https://www.goodreads.com/book/show/43459657-silver-in-the-wood
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1881'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547478093l/43459657._SY75_.jpg
+    title: 'Silver in the Wood (The Greenhollow Duology, #1)'
+    title_without_series: Silver in the Wood
+    uri: kca://book/amzn1.gr.book.v1.9eLtxgebBruh3zq1wp3Tvw
+    work:
+      id: '67575798'
+  - authors:
+      author:
+        id: '57739'
+        link: https://www.goodreads.com/author/show/57739.Robert_W_Chambers
+        name: Robert W. Chambers
+    average_rating: '3.67'
+    id: '32277642'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475221812l/32277642._SX98_.jpg
+    isbn: 153905344X
+    isbn13: '9781539053446'
+    link: https://www.goodreads.com/book/show/32277642-the-king-in-yellow
+    num_pages: '224'
+    publication_day: '24'
+    publication_month: '9'
+    publication_year: '2016'
+    ratings_count: '1881'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475221812l/32277642._SX50_.jpg
+    title: The King in Yellow
+    title_without_series: The King in Yellow
+    uri: kca://book/amzn1.gr.book.v1.rCDWNlhbYLgDoiyZRWKyRA
+    work:
+      id: '52901661'
+  - authors:
+      author:
+        id: '9226'
+        link: https://www.goodreads.com/author/show/9226.William_Gibson
+        name: William Gibson
+    average_rating: '3.67'
+    id: '154091'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374778887l/154091._SY160_.jpg
+    isbn: 0553281747
+    isbn13: '9780553281743'
+    link: https://www.goodreads.com/book/show/154091.Mona_Lisa_Overdrive
+    num_pages: '312'
+    publication_day: null
+    publication_month: '12'
+    publication_year: '1989'
+    ratings_count: '1881'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374778887l/154091._SY75_.jpg
+    title: 'Mona Lisa Overdrive (Sprawl, #3)'
+    title_without_series: Mona Lisa Overdrive
+    uri: kca://book/amzn1.gr.book.v1._R7QHbmA8aOKY6n0enWgtg
+    work:
+      id: '1263322'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '3.67'
+    id: '866136'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0345496531
+    isbn13: '9780345496539'
+    link: https://www.goodreads.com/book/show/866136.The_Dreaming_Void
+    num_pages: '630'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1881'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Dreaming Void (Void #1)'
+    title_without_series: The Dreaming Void
+    uri: kca://book/amzn1.gr.book.v1._folUzblKZlgF3VBRdKOIQ
+    work:
+      id: '851537'
+  - authors:
+      author:
+        id: '29527'
+        link: https://www.goodreads.com/author/show/29527.Charlotte_Perkins_Gilman
+        name: Charlotte Perkins Gilman
+    average_rating: '3.67'
+    id: '531509'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403189138l/531509._SX98_.jpg
+    isbn: 0394736656
+    isbn13: '9780394736655'
+    link: https://www.goodreads.com/book/show/531509.Herland
+    num_pages: '147'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1881'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403189138l/531509._SY75_.jpg
+    title: 'Herland (The Herland Trilogy, #2)'
+    title_without_series: Herland
+    uri: kca://book/amzn1.gr.book.v1.qgJE34Nqs-jqBX0WxtUSCg
+    work:
+      id: '83484'
+  - authors:
+      author:
+        id: '849723'
+        link: https://www.goodreads.com/author/show/849723.Benedict_Jacka
+        name: Benedict Jacka
+    average_rating: '3.67'
+    id: '43670629'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554395647l/43670629._SX98_.jpg
+    isbn: 0440000580
+    isbn13: '9780440000587'
+    link: https://www.goodreads.com/book/show/43670629-fallen
+    num_pages: '296'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1881'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554395647l/43670629._SY75_.jpg
+    title: 'Fallen (Alex Verus, #10)'
+    title_without_series: Fallen
+    uri: kca://book/amzn1.gr.book.v1.hzLEvnj2I5Bc3bozHlhg9g
+    work:
+      id: '63342276'
+  - authors:
+      author:
+        id: '22143379'
+        link: https://www.goodreads.com/author/show/22143379.James_J_Butcher
+        name: James J. Butcher
+    average_rating: '3.67'
+    id: '60097440'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648218624l/60097440._SX98_.jpg
+    isbn: 0593440412
+    isbn13: '9780593440414'
+    link: https://www.goodreads.com/book/show/60097440-dead-man-s-hand
+    num_pages: '373'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1881'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648218624l/60097440._SY75_.jpg
+    title: 'Dead Man''s Hand (The Unorthodox Chronicles, #1)'
+    title_without_series: Dead Man's Hand
+    uri: kca://book/amzn1.gr.book.v3._SluPWl-2oNfzGmH
+    work:
+      id: '94759456'
+  - authors:
+      author:
+        id: '8794'
+        link: https://www.goodreads.com/author/show/8794.Charles_Stross
+        name: Charles Stross
+    average_rating: '3.67'
+    id: '62595513'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679496484l/62595513._SX98_.jpg
+    isbn: '1250839408'
+    isbn13: '9781250839404'
+    link: https://www.goodreads.com/book/show/62595513-season-of-skulls
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1881'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679496484l/62595513._SY75_.jpg
+    title: 'Season of Skulls (Laundry Files, #12; New Management, #3)'
+    title_without_series: Season of Skulls
+    uri: kca://book/amzn1.gr.book.v3.P6nXHl8gj_JDpOJz
+    work:
+      id: '94448174'
+  - authors:
+      author:
+        id: '48136108'
+        link: https://www.goodreads.com/author/show/48136108.Robert_P_Jones
+        name: Robert P. Jones
+    average_rating: '3.67'
+    id: '207298437'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1668009528'
+    isbn13: '9781668009529'
+    link: https://www.goodreads.com/book/show/207298437-the-hidden-roots-of-white-supremacy-and-the-path-to-a-shared-american-fu
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1881'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Hidden Roots of White Supremacy and the Path to a Shared American Future
+    title_without_series: The Hidden Roots of White Supremacy and the Path to a Shared
+      American Future
+    uri: kca://book/amzn1.gr.book.v3.N-Sa3g3gr5N-ytJl
+    work:
+      id: '124657836'
+  - authors:
+      author:
+        id: '22470613'
+        link: https://www.goodreads.com/author/show/22470613.L_M_Sagas
+        name: L.M. Sagas
+    average_rating: '3.67'
+    id: '127280776'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685353521l/127280776._SX98_.jpg
+    isbn: '1250871255'
+    isbn13: '9781250871251'
+    link: https://www.goodreads.com/book/show/127280776-cascade-failure
+    num_pages: '407'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1881'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685353521l/127280776._SY75_.jpg
+    title: 'Cascade Failure (Ambit''s Run, #1)'
+    title_without_series: Cascade Failure
+    uri: kca://book/amzn1.gr.book.v3.VrS5pXS-I4PF0I0q
+    work:
+      id: '96572122'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '3.67'
+    id: '61903'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392767899l/61903._SY160_.jpg
+    isbn: 0743468422
+    isbn13: '9780743468428'
+    link: https://www.goodreads.com/book/show/61903.Shards_of_Honour
+    num_pages: '253'
+    publication_day: '1'
+    publication_month: '12'
+    publication_year: '2003'
+    ratings_count: '1881'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392767899l/61903._SY75_.jpg
+    title: 'Shards of Honour  (Vorkosigan Saga, #1)'
+    title_without_series: Shards of Honour
+    uri: kca://book/amzn1.gr.book.v1.REVk-wIA4DJ_w9_sXfPCOw
+    work:
+      id: '9673658'
+  - authors:
+      author:
+        id: '1405152'
+        link: https://www.goodreads.com/author/show/1405152.Peter_V_Brett
+        name: Peter V. Brett
+    average_rating: '3.67'
+    id: '13630171'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408637760l/13630171._SX98_.jpg
+    isbn: 0345531485
+    isbn13: '9780345531483'
+    link: https://www.goodreads.com/book/show/13630171-the-skull-throne
+    num_pages: '681'
+    publication_day: '31'
+    publication_month: '3'
+    publication_year: '2015'
+    ratings_count: '1881'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408637760l/13630171._SY75_.jpg
+    title: 'The Skull Throne (Demon Cycle, #4)'
+    title_without_series: The Skull Throne
+    uri: kca://book/amzn1.gr.book.v1.dqVlqXWRe0yOnyr_vGjUXw
+    work:
+      id: '19237752'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '3.67'
+    id: '61905'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397151220l/61905._SY160_.jpg
+    isbn: 0743468414
+    isbn13: '9780743468411'
+    link: https://www.goodreads.com/book/show/61905.Barrayar
+    num_pages: '336'
+    publication_day: '1'
+    publication_month: '12'
+    publication_year: '2003'
+    ratings_count: '1881'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397151220l/61905._SY75_.jpg
+    title: 'Barrayar (Vorkosigan Saga, #7)'
+    title_without_series: Barrayar
+    uri: kca://book/amzn1.gr.book.v1.ek-K4f9lSc6EKdiVpDnMLw
+    work:
+      id: '3036422'
+  - authors:
+      author:
+        id: '10885'
+        link: https://www.goodreads.com/author/show/10885.Edgar_Rice_Burroughs
+        name: Edgar Rice Burroughs
+    average_rating: '3.67'
+    id: '330110'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0809599848
+    isbn13: '9780809599844'
+    link: https://www.goodreads.com/book/show/330110.The_Beasts_of_Tarzan
+    num_pages: '240'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1881'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Beasts of Tarzan (Tarzan, #3)'
+    title_without_series: The Beasts of Tarzan
+    uri: kca://book/amzn1.gr.book.v1.sXxb2lF6B8-bIAsEFqHkXQ
+    work:
+      id: '223935925'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '2'
+  '@type': integer
+title: Cowboy Feng's Space Bar and Grille
+title_without_series: Cowboy Feng's Space Bar and Grille
+uri: kca://book/amzn1.gr.book.v1.Y1S0gYbRAKCBxibX0C0zyg
+url: https://www.goodreads.com/book/show/10132201-cowboy-feng-s-space-bar-and-grille
+work:
+  id: '135107'
+  uri: kca://work/amzn1.gr.work.v1.xfB-qaqL3l8YceQ84iXxVg

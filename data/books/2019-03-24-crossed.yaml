@@ -1,0 +1,200 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.62'
+    id: '14131211'
+    image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+      '@nophoto': 'true'
+    link: https://www.goodreads.com/author/show/14131211.Evelyn_Blackwell
+    name: Evelyn Blackwell
+    ratings_count: '21'
+    role: null
+    small_image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png
+      '@nophoto': 'true'
+    text_reviews_count: '6'
+average_rating: '4.62'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2019-03-24T00:00:00-07:00'
+description: "Shortlisted for Best Science Fiction Novel in the 2015 Aurealis Awards.\
+  \ \u201CA new and fresh look at humanity's future\u201D \u201Cthe ambitious premise\
+  \ is anchored by some really solid and suspenseful storytelling\u201D \u201Cfast-paced,\
+  \ fascinating, and at times heart-wrenching\u201D \u201Cdefinitely a page turner\u201D\
+  \ \u201Cbeautiful, controversial and powerful\u201D -Amazon.com Reviews In the 2040s,\
+  \ a dangerous new ideology has captured the imagination of young people around the\
+  \ world. Su lit a fire. Rayen showed her friends how to kill. Julia's ex unleashed\
+  \ an epidemic. But the Crosses are greater than the sum of their parts. Told through\
+  \ the writings of several first-hand witnesses, Crossed offers a chilling glimpse\
+  \ into a fervently brutal future."
+edition_information: null
+format: Kindle Edition
+id: '25807816'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435455662l/25807816._SX98_.jpg
+is_ebook: 'true'
+isbn: '0473327244'
+isbn13: '9780473327248'
+json: '{"id": "25807816", "isbn": "0473327244", "isbn13": "9780473327248", "text_reviews_count":
+  {"@type": "integer", "#text": "6"}, "uri": "kca://book/amzn1.gr.book.v1.LmTtPzHYrAmvBXHnY84M4w",
+  "title": "Crossed", "title_without_series": "Crossed", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435455662l/25807816._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435455662l/25807816._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/25807816-crossed",
+  "num_pages": "120", "format": "Kindle Edition", "edition_information": null, "publisher":
+  null, "publication_day": "25", "publication_year": "2015", "publication_month":
+  "6", "average_rating": "4.62", "ratings_count": "21", "description": "Shortlisted
+  for Best Science Fiction Novel in the 2015 Aurealis Awards. \u201cA new and fresh
+  look at humanity''s future\u201d \u201cthe ambitious premise is anchored by some
+  really solid and suspenseful storytelling\u201d \u201cfast-paced, fascinating, and
+  at times heart-wrenching\u201d \u201cdefinitely a page turner\u201d \u201cbeautiful,
+  controversial and powerful\u201d -Amazon.com Reviews In the 2040s, a dangerous new
+  ideology has captured the imagination of young people around the world. Su lit a
+  fire. Rayen showed her friends how to kill. Julia''s ex unleashed an epidemic. But
+  the Crosses are greater than the sum of their parts. Told through the writings of
+  several first-hand witnesses, Crossed offers a chilling glimpse into a fervently
+  brutal future.", "authors": {"author": {"id": "14131211", "name": "Evelyn Blackwell",
+  "role": null, "image_url": {"@nophoto": "true", "#text": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"},
+  "small_image_url": {"@nophoto": "true", "#text": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"},
+  "link": "https://www.goodreads.com/author/show/14131211.Evelyn_Blackwell", "average_rating":
+  "4.62", "ratings_count": "21", "text_reviews_count": "6"}}, "published": "2015",
+  "work": {"id": "45663192", "uri": "kca://work/amzn1.gr.work.v1.wp8a-u1I-ofC5Z2J3Y4-kQ"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/6874058930",
+  "read_at": "Sun Mar 24 00:00:00 -0700 2019", "started_at": "", "date": "Sun Mar
+  24 00:00:00 -0700 2019"}'
+kindle_asin: B010EO3A3K
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/25807816-crossed
+marketplace_id: ATVPDKIKX0DER
+num_pages: '120'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '37'
+    '@name': to-read
+  - '@count': '2'
+    '@name': sci-fi
+  - '@count': '2'
+    '@name': australian
+  - '@count': '2'
+    '@name': kindle
+  - '@count': '1'
+    '@name': _aurealis-sf
+  - '@count': '1'
+    '@name': aus-sff-to-read-b
+  - '@count': '1'
+    '@name': modern-fiction
+  - '@count': '1'
+    '@name': currently-reading
+  - '@count': '1'
+    '@name': interesting
+  - '@count': '1'
+    '@name': ebook
+  - '@count': '1'
+    '@name': australian-author
+  - '@count': '1'
+    '@name': aus-sff-novel
+  - '@count': '1'
+    '@name': specfic
+  - '@count': '1'
+    '@name': female
+  - '@count': '1'
+    '@name': bought-major-online
+  - '@count': '1'
+    '@name': aurealis-sci-fi
+  - '@count': '1'
+    '@name': xnypl
+  - '@count': '1'
+    '@name': xenypl
+  - '@count': '1'
+    '@name': young-adult
+  - '@count': '1'
+    '@name': aurealis
+  - '@count': '1'
+    '@name': 2010s
+  - '@count': '1'
+    '@name': read-2015
+  - '@count': '1'
+    '@name': aww-2015
+  - '@count': '1'
+    '@name': aurealis-awards-2015
+publication_day: '25'
+publication_month: '6'
+publication_year: '2015'
+published: '2015'
+publisher: null
+ratings_count: '21'
+read_at: '2019-03-24T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/6874058930
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/25807816-crossed\"\
+  >Crossed Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0473327244&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/25807816-crossed?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435455662l/25807816._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '6'
+  '@type': integer
+title: Crossed
+title_without_series: Crossed
+uri: kca://book/amzn1.gr.book.v1.LmTtPzHYrAmvBXHnY84M4w
+url: https://www.goodreads.com/book/show/25807816-crossed
+work:
+  id: '45663192'
+  uri: kca://work/amzn1.gr.work.v1.wp8a-u1I-ofC5Z2J3Y4-kQ

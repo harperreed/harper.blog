@@ -1,0 +1,762 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.92'
+    id: '2868678'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1647270290p5/2868678.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/2868678.Mary_Robinette_Kowal
+    name: Mary Robinette Kowal
+    ratings_count: '181421'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1647270290p2/2868678.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '25992'
+average_rating: '4.35'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2020-07-23T00:00:00-07:00'
+description: "The Relentless Moon takes place while the First Mars Expedition is underway,\
+  \ so it\u2019s a parallel novel to The Fated Sky and focuses on Nicole Wargin and\
+  \ Myrtle Lindholm in the Lunar colony. You can expect everything from church services\
+  \ to bridge parties, which all become more complicated in low gravity. And then\
+  \ a saboteur strikes..."
+edition_information: null
+format: null
+id: '50881172'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574326370l/50881172._SX98_SY160_.jpg
+is_ebook: 'true'
+isbn: '1250236487'
+isbn13: '9781250236487'
+json: '{"id": "50881172", "isbn": "1250236487", "isbn13": "9781250236487", "text_reviews_count":
+  {"@type": "integer", "#text": "188"}, "uri": "kca://book/amzn1.gr.book.v3._M0-eAM5hYmab8Xh",
+  "title": "The Relentless Moon (Lady Astronaut Universe #3)", "title_without_series":
+  "The Relentless Moon", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574326370l/50881172._SX98_SY160_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574326370l/50881172._SX50_SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/50881172-the-relentless-moon",
+  "num_pages": "538", "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "4.35", "ratings_count": "9038", "description": "The Relentless Moon takes place
+  while the First Mars Expedition is underway, so it\u2019s a parallel novel to The
+  Fated Sky and focuses on Nicole Wargin and Myrtle Lindholm in the Lunar colony.
+  You can expect everything from church services to bridge parties, which all become
+  more complicated in low gravity. And then a saboteur strikes...", "authors": {"author":
+  {"id": "2868678", "name": "Mary Robinette Kowal", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1647270290p5/2868678.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1647270290p2/2868678.jpg"},
+  "link": "https://www.goodreads.com/author/show/2868678.Mary_Robinette_Kowal", "average_rating":
+  "3.92", "ratings_count": "181421", "text_reviews_count": "25992"}}, "published":
+  null, "work": {"id": "65396089", "uri": "kca://work/amzn1.gr.work.v1.tRoecDRaXFB8fTZrgfTHog"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/3453783857",
+  "read_at": "Thu Jul 23 00:00:00 -0700 2020", "started_at": "Mon Jul 20 00:00:00
+  -0700 2020", "date": "Thu Jul 23 00:00:00 -0700 2020"}'
+kindle_asin: B07X17XSPS
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/50881172-the-relentless-moon
+marketplace_id: ATVPDKIKX0DER
+num_pages: '538'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '9886'
+    '@name': to-read
+  - '@count': '588'
+    '@name': currently-reading
+  - '@count': '496'
+    '@name': science-fiction
+  - '@count': '369'
+    '@name': sci-fi
+  - '@count': '147'
+    '@name': fiction
+  - '@count': '136'
+    '@name': alternate-history
+  - '@count': '110'
+    '@name': historical-fiction
+  - '@count': '107'
+    '@name': scifi
+  - '@count': '73'
+    '@name': favorites
+  - '@count': '69'
+    '@name': series
+  - '@count': '63'
+    '@name': space
+  - '@count': '57'
+    '@name': owned
+  - '@count': '55'
+    '@name': ebook
+  - '@count': '52'
+    '@name': audiobook
+  - '@count': '49'
+    '@name': kindle
+  - '@count': '45'
+    '@name': historical
+  - '@count': '41'
+    '@name': audible
+  - '@count': '34'
+    '@name': sf
+  - '@count': '33'
+    '@name': mystery
+  - '@count': '32'
+    '@name': library
+  - '@count': '32'
+    '@name': sci-fi-fantasy
+  - '@count': '30'
+    '@name': read-in-2021
+  - '@count': '30'
+    '@name': books-i-own
+  - '@count': '30'
+    '@name': alternative-history
+  - '@count': '30'
+    '@name': adult
+  - '@count': '29'
+    '@name': audiobooks
+  - '@count': '27'
+    '@name': alt-history
+  - '@count': '26'
+    '@name': audio
+  - '@count': '26'
+    '@name': read-in-2020
+  - '@count': '25'
+    '@name': read-2020
+  - '@count': '22'
+    '@name': sff
+  - '@count': '21'
+    '@name': ebooks
+  - '@count': '21'
+    '@name': fantasy-sci-fi
+  - '@count': '20'
+    '@name': hugo-2021
+  - '@count': '20'
+    '@name': feminism
+  - '@count': '19'
+    '@name': speculative-fiction
+  - '@count': '17'
+    '@name': read-2021
+  - '@count': '17'
+    '@name': fantasy
+  - '@count': '16'
+    '@name': e-book
+  - '@count': '15'
+    '@name': female-author
+  - '@count': '15'
+    '@name': 2020-releases
+  - '@count': '14'
+    '@name': dnf
+  - '@count': '14'
+    '@name': feminist
+  - '@count': '14'
+    '@name': arc
+  - '@count': '13'
+    '@name': favourites
+  - '@count': '13'
+    '@name': scifi-fantasy
+  - '@count': '12'
+    '@name': science-fiction-fantasy
+  - '@count': '11'
+    '@name': hugo
+  - '@count': '11'
+    '@name': owned-tbr
+  - '@count': '11'
+    '@name': audio-books
+  - '@count': '11'
+    '@name': space-opera
+  - '@count': '11'
+    '@name': science
+  - '@count': '11'
+    '@name': 2020-books
+  - '@count': '11'
+    '@name': lady-astronaut
+  - '@count': '10'
+    '@name': did-not-finish
+  - '@count': '10'
+    '@name': adult-fiction
+  - '@count': '9'
+    '@name': read-in-2022
+  - '@count': '9'
+    '@name': hugo-nominee
+  - '@count': '9'
+    '@name': hugo-nominees
+  - '@count': '9'
+    '@name': 2021-read
+  - '@count': '9'
+    '@name': laser
+  - '@count': '9'
+    '@name': reviewed
+  - '@count': '9'
+    '@name': sciencefiction
+  - '@count': '8'
+    '@name': hugos-2021
+  - '@count': '8'
+    '@name': 2020-read
+  - '@count': '8'
+    '@name': thriller
+  - '@count': '8'
+    '@name': laser-challenge
+  - '@count': '8'
+    '@name': 2020-reads
+  - '@count': '7'
+    '@name': owned-books
+  - '@count': '7'
+    '@name': to-buy
+  - '@count': '7'
+    '@name': library-books
+  - '@count': '7'
+    '@name': post-apocalyptic
+  - '@count': '7'
+    '@name': novels
+  - '@count': '7'
+    '@name': dystopian
+  - '@count': '7'
+    '@name': adventure
+  - '@count': '7'
+    '@name': netgalley
+  - '@count': '7'
+    '@name': fantasy-scifi
+  - '@count': '7'
+    '@name': sci-fi-to-read
+  - '@count': '7'
+    '@name': next-in-series
+  - '@count': '6'
+    '@name': read-in-2024
+  - '@count': '6'
+    '@name': 2021-reads
+  - '@count': '6'
+    '@name': sci-fi-and-fantasy
+  - '@count': '6'
+    '@name': tbr
+  - '@count': '6'
+    '@name': own-it
+  - '@count': '6'
+    '@name': history
+  - '@count': '6'
+    '@name': historical-fantasy
+  - '@count': '6'
+    '@name': disability
+  - '@count': '6'
+    '@name': arcs
+  - '@count': '6'
+    '@name': 2020-reading-challenge
+  - '@count': '6'
+    '@name': novel
+  - '@count': '6'
+    '@name': 2020-release
+  - '@count': '5'
+    '@name': library-book
+  - '@count': '5'
+    '@name': post-apocalypse
+  - '@count': '5'
+    '@name': romance
+  - '@count': '5'
+    '@name': mystery-thriller
+  - '@count': '5'
+    '@name': female-protagonist
+  - '@count': '5'
+    '@name': english
+  - '@count': '5'
+    '@name': physical-tbr
+  - '@count': '5'
+    '@name': sf-f
+  - '@count': '5'
+    '@name': unread
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '9038'
+read_at: '2020-07-23T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/3453783857
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/50881172-the-relentless-moon\"\
+  >The Relentless Moon Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1250236487&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/50881172-the-relentless-moon?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '1307599'
+    series:
+      description: "Mary Robinette Kowal's Hugo and Nebula Award-winning alternate\
+        \ history series expands on the premise behind her award-winning novelette,\
+        \ <i>The Lady Astronaut of Mars</i>.\n    \n    On a cold spring night in\
+        \ 1952, a meteorite falls to earth and destroys much of the eastern seaboard\
+        \ of the United States, including Washington D.C. The Meteor, as it is popularly\
+        \ known, decimates the U.S. government and paves the way for a climate cataclysm\
+        \ that will eventually render the earth inhospitable to humanity. This looming\
+        \ threat calls for a radically accelerated timeline in the earth's efforts\
+        \ to colonize space, and allows a much larger share of humanity to take part\
+        \ in the process."
+      id: '193730'
+      note: null
+      numbered: 'true'
+      primary_work_count: '4'
+      series_works_count: '14'
+      title: Lady Astronaut Universe
+    user_position: '3'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.35'
+    id: '65211701'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674575978l/65211701._SX98_.jpg
+    isbn: '1250826977'
+    isbn13: '9781250826978'
+    link: https://www.goodreads.com/book/show/65211701-system-collapse
+    num_pages: '245'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '9038'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674575978l/65211701._SY75_.jpg
+    title: 'System Collapse (The Murderbot Diaries, #7)'
+    title_without_series: System Collapse
+    uri: kca://book/amzn1.gr.book.v3.BlgXZE2jb-Pp_eWq
+    work:
+      id: '90712113'
+  - authors:
+      author:
+        id: '13461530'
+        link: https://www.goodreads.com/author/show/13461530.Kelly_Robson
+        name: Kelly Robson
+    average_rating: '4.35'
+    id: '36187158'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506531524l/36187158._SX98_.jpg
+    isbn: '1250163846'
+    isbn13: '9781250163844'
+    link: https://www.goodreads.com/book/show/36187158-gods-monsters-and-the-lucky-peach
+    num_pages: '233'
+    publication_day: '13'
+    publication_month: '3'
+    publication_year: '2018'
+    ratings_count: '9038'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506531524l/36187158._SY75_.jpg
+    title: Gods, Monsters, and the Lucky Peach
+    title_without_series: Gods, Monsters, and the Lucky Peach
+    uri: kca://book/amzn1.gr.book.v1.cMZi944GOU1-Exri0vMjhA
+    work:
+      id: '57810004'
+  - authors:
+      author:
+        id: '4763'
+        link: https://www.goodreads.com/author/show/4763.John_Scalzi
+        name: John Scalzi
+    average_rating: '4.35'
+    id: '61885029'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683564155l/61885029._SX98_.jpg
+    isbn: 0765389223
+    isbn13: '9780765389220'
+    link: https://www.goodreads.com/book/show/61885029-starter-villain
+    num_pages: '264'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '9038'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683564155l/61885029._SY75_.jpg
+    title: Starter Villain
+    title_without_series: Starter Villain
+    uri: kca://book/amzn1.gr.book.v3.lw5OQ1LT9jh6bQd-
+    work:
+      id: '97563902'
+  - authors:
+      author:
+        id: '18758567'
+        link: https://www.goodreads.com/author/show/18758567.Emily_Tesh
+        name: Emily Tesh
+    average_rating: '4.35'
+    id: '58388343'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668621616l/58388343._SX98_.jpg
+    isbn: '1250834988'
+    isbn13: '9781250834980'
+    link: https://www.goodreads.com/book/show/58388343-some-desperate-glory
+    num_pages: '438'
+    publication_day: '11'
+    publication_month: '4'
+    publication_year: '2023'
+    ratings_count: '9038'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668621616l/58388343._SY75_.jpg
+    title: Some Desperate Glory
+    title_without_series: Some Desperate Glory
+    uri: kca://book/amzn1.gr.book.v3.-IfyWJ7UlVOZIFdC
+    work:
+      id: '91580340'
+  - authors:
+      author:
+        id: '7434788'
+        link: https://www.goodreads.com/author/show/7434788.Vajra_Chandrasekera
+        name: Vajra Chandrasekera
+    average_rating: '4.35'
+    id: '61884985'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707333565l/61884985._SX98_.jpg
+    isbn: '1250847389'
+    isbn13: '9781250847386'
+    link: https://www.goodreads.com/book/show/61884985-the-saint-of-bright-doors
+    num_pages: '356'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '9038'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707333565l/61884985._SY75_.jpg
+    title: The Saint of Bright Doors
+    title_without_series: The Saint of Bright Doors
+    uri: kca://book/amzn1.gr.book.v3.RpbeFzr0mZrpd4ZQ
+    work:
+      id: '93503571'
+  - authors:
+      author:
+        id: '14407836'
+        link: https://www.goodreads.com/author/show/14407836.A_R_Merrydew
+        name: A.R. Merrydew
+    average_rating: '4.35'
+    id: '215186841'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/215186841-inara
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '9038'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Inara (Godfrey Davis, #3)'
+    title_without_series: Inara
+    uri: kca://book/amzn1.gr.book.v3.wCOHuKhf0nZUkB2e
+    work:
+      id: '221595685'
+  - authors:
+      author:
+        id: '3365457'
+        link: https://www.goodreads.com/author/show/3365457.Ann_Leckie
+        name: Ann Leckie
+    average_rating: '4.35'
+    id: '62873999'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673303646l/62873999._SX98_.jpg
+    isbn: 031628971X
+    isbn13: '9780316289719'
+    link: https://www.goodreads.com/book/show/62873999-translation-state
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '9038'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673303646l/62873999._SY75_.jpg
+    title: Translation State
+    title_without_series: Translation State
+    uri: kca://book/amzn1.gr.book.v3.IPz5gT7elXgSEOUd
+    work:
+      id: '98667857'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.35'
+    id: '201930181'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SX98_.jpg
+    isbn: 031652557X
+    isbn13: '9780316525572'
+    link: https://www.goodreads.com/book/show/201930181-the-mercy-of-gods
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '9038'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SY75_.jpg
+    title: "The Mercy of Gods (The Captive\u2019s War, #1)"
+    title_without_series: The Mercy of Gods
+    uri: kca://book/amzn1.gr.book.v3.nndIiP3mF2vHLfgz
+    work:
+      id: '95320019'
+  - authors:
+      author:
+        id: '14220734'
+        link: https://www.goodreads.com/author/show/14220734.Malka_Ann_Older
+        name: Malka Ann Older
+    average_rating: '4.35'
+    id: '26114433'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444883445l/26114433._SX98_.jpg
+    isbn: 0765385155
+    isbn13: '9780765385154'
+    link: https://www.goodreads.com/book/show/26114433-infomocracy
+    num_pages: '380'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '9038'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444883445l/26114433._SY75_.jpg
+    title: 'Infomocracy (The Centenal Cycle, #1)'
+    title_without_series: Infomocracy
+    uri: kca://book/amzn1.gr.book.v1.y5BoaKnYgKKEOedEKkskiw
+    work:
+      id: '46061300'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.35'
+    id: '53205854'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731700666l/53205854._SX98_.jpg
+    isbn: '1250765374'
+    isbn13: '9781250765376'
+    link: https://www.goodreads.com/book/show/53205854-fugitive-telemetry
+    num_pages: '168'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '9038'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731700666l/53205854._SY75_.jpg
+    title: 'Fugitive Telemetry (The Murderbot Diaries, #6)'
+    title_without_series: Fugitive Telemetry
+    uri: kca://book/amzn1.gr.book.v3.zA5G7sk4BKdPYlNo
+    work:
+      id: '80438420'
+  - authors:
+      author:
+        id: '22006906'
+        link: https://www.goodreads.com/author/show/22006906.Davinia_Evans
+        name: Davinia Evans
+    average_rating: '4.35'
+    id: '202325471'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711152906l/202325471._SX98_.jpg
+    isbn: 035651871X
+    isbn13: '9780356518718'
+    link: https://www.goodreads.com/book/show/202325471-rebel-blade
+    num_pages: '424'
+    publication_day: '3'
+    publication_month: '12'
+    publication_year: '2024'
+    ratings_count: '9038'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711152906l/202325471._SY75_.jpg
+    title: 'Rebel Blade (The Burnished City, #3)'
+    title_without_series: Rebel Blade
+    uri: kca://book/amzn1.gr.book.v3.2YjapbK5OKibTrzD
+    work:
+      id: '207688807'
+  - authors:
+      author:
+        id: '7448339'
+        link: https://www.goodreads.com/author/show/7448339.Steven_Decker
+        name: Steven Decker
+    average_rating: '4.35'
+    id: '200923963'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698512599l/200923963._SX98_.jpg
+    isbn: null
+    isbn13: '9798987394014'
+    link: https://www.goodreads.com/book/show/200923963-child-of-another-kind
+    num_pages: '392'
+    publication_day: '18'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '9038'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698512599l/200923963._SY75_.jpg
+    title: 'Child of Another Kind (Another Kind #1)'
+    title_without_series: Child of Another Kind
+    uri: kca://book/amzn1.gr.book.v3.cpxUKP4J15at4iaw
+    work:
+      id: '144050375'
+  - authors:
+      author:
+        id: '13803582'
+        link: https://www.goodreads.com/author/show/13803582.Arkady_Martine
+        name: Arkady Martine
+    average_rating: '4.35'
+    id: '45154547'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654565596l/45154547._SX98_.jpg
+    isbn: 125018648X
+    isbn13: '9781250186485'
+    link: https://www.goodreads.com/book/show/45154547-a-desolation-called-peace
+    num_pages: '496'
+    publication_day: '2'
+    publication_month: '3'
+    publication_year: '2021'
+    ratings_count: '9038'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654565596l/45154547._SY75_.jpg
+    title: 'A Desolation Called Peace (Teixcalaan, #2)'
+    title_without_series: A Desolation Called Peace
+    uri: kca://book/amzn1.gr.book.v1.q6ya981Kl6DvTRTTA17FwA
+    work:
+      id: '61309907'
+  - authors:
+      author:
+        id: '4763'
+        link: https://www.goodreads.com/author/show/4763.John_Scalzi
+        name: John Scalzi
+    average_rating: '4.35'
+    id: '38322550'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696204573l/38322550._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/38322550-the-last-emperox
+    num_pages: '320'
+    publication_day: '14'
+    publication_month: '4'
+    publication_year: '2020'
+    ratings_count: '9038'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696204573l/38322550._SY75_.jpg
+    title: 'The Last Emperox (The Interdependency, #3)'
+    title_without_series: The Last Emperox
+    uri: kca://book/amzn1.gr.book.v1.JwzWY65RLojK1TplO106wA
+    work:
+      id: '59976877'
+  - authors:
+      author:
+        id: '97284'
+        link: https://www.goodreads.com/author/show/97284.Mur_Lafferty
+        name: Mur Lafferty
+    average_rating: '4.35'
+    id: '112974852'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685350629l/112974852._SX98_.jpg
+    isbn: 0593098137
+    isbn13: '9780593098134'
+    link: https://www.goodreads.com/book/show/112974852-chaos-terminal
+    num_pages: '369'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '9038'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685350629l/112974852._SY75_.jpg
+    title: 'Chaos Terminal (The Midsolar Murders, #2)'
+    title_without_series: Chaos Terminal
+    uri: kca://book/amzn1.gr.book.v3.SQevsc_OvvqpwC_E
+    work:
+      id: '97957323'
+  - authors:
+      author:
+        id: '3405346'
+        link: https://www.goodreads.com/author/show/3405346.Max_Gladstone
+        name: Max Gladstone
+    average_rating: '4.35'
+    id: '40380954'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539114269l/40380954._SX98_.jpg
+    isbn: 0765395819
+    isbn13: '9780765395818'
+    link: https://www.goodreads.com/book/show/40380954-empress-of-forever
+    num_pages: '480'
+    publication_day: '18'
+    publication_month: '6'
+    publication_year: '2019'
+    ratings_count: '9038'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539114269l/40380954._SY75_.jpg
+    title: Empress of Forever
+    title_without_series: Empress of Forever
+    uri: kca://book/amzn1.gr.book.v1.AhG8tu6FPoEKCngPsR3OPw
+    work:
+      id: '62679049'
+  - authors:
+      author:
+        id: '8177132'
+        link: https://www.goodreads.com/author/show/8177132.Megan_E_O_Keefe
+        name: Megan E. O'Keefe
+    average_rating: '4.35'
+    id: '24727881'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443293991l/24727881._SX98_.jpg
+    isbn: 0857664905
+    isbn13: '9780857664907'
+    link: https://www.goodreads.com/book/show/24727881-steal-the-sky
+    num_pages: null
+    publication_day: '5'
+    publication_month: '1'
+    publication_year: '2016'
+    ratings_count: '9038'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443293991l/24727881._SY75_.jpg
+    title: 'Steal the Sky (Scorched Continent, #1)'
+    title_without_series: Steal the Sky
+    uri: kca://book/amzn1.gr.book.v1.s8ErqB7BnGJ0jlhFinXFcQ
+    work:
+      id: '44354325'
+  - authors:
+      author:
+        id: '4763'
+        link: https://www.goodreads.com/author/show/4763.John_Scalzi
+        name: John Scalzi
+    average_rating: '4.35'
+    id: '219359162'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726769155l/219359162._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/219359162-constituent-service
+    num_pages: '3'
+    publication_day: '3'
+    publication_month: '10'
+    publication_year: '2024'
+    ratings_count: '9038'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726769155l/219359162._SX50_.jpg
+    title: 'Constituent Service: A Third District Story'
+    title_without_series: 'Constituent Service: A Third District Story'
+    uri: kca://book/amzn1.gr.book.v3._cKAEzHpiqFFEEjK
+    work:
+      id: '226283719'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574326370l/50881172._SX50_SY75_.jpg
+started_at: '2020-07-20T00:00:00-07:00'
+text_reviews_count:
+  '#text': '188'
+  '@type': integer
+title: 'The Relentless Moon (Lady Astronaut Universe #3)'
+title_without_series: The Relentless Moon
+uri: kca://book/amzn1.gr.book.v3._M0-eAM5hYmab8Xh
+url: https://www.goodreads.com/book/show/50881172-the-relentless-moon
+work:
+  id: '65396089'
+  uri: kca://work/amzn1.gr.work.v1.tRoecDRaXFB8fTZrgfTHog

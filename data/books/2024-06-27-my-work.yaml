@@ -1,0 +1,756 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.70'
+    id: '5815451'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1457600633p5/5815451.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/5815451.Olga_Ravn
+    name: Olga Ravn
+    ratings_count: '28583'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1457600633p2/5815451.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '4438'
+average_rating: '4.00'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2024-06-27T00:00:00-07:00'
+description: "From the acclaimed author of The Employees , a radical, funny, and mercilessly\
+  \ honest novel about motherhood.\_<br />After giving birth, Anna is utterly lost.\
+  \ She and her family move to the unfamiliar, snowy city of Stockholm. Anxiety threatens\
+  \ to completely engulf Anna, who obsessively devours online news and compulsively\
+  \ orders clothes she can\u2019t afford. To avoid sinking deeper into her depression,\
+  \ she forces herself to read and write.<br />My Work is a novel about the unique\
+  \ and fundamental experience of giving birth, mixing different literary forms\u2014\
+  fiction, essay, poetry, memoir, and letters\u2014to explore the relationship between\
+  \ motherhood, work, individuality, and literature.\u201COlga Ravn writes dazzlingly\
+  \ about the work of motherhood and the work of writing. Reading Ravn\u2019s book,\
+  \ you run through the whole gamut of human emotion, as though you too were a new\
+  \ tears, laughter, anger, fear, pain, frustration. This is powerful writing that\u2019\
+  s hard to put down.\u201D\u2014 Politiken"
+edition_information: null
+format: null
+id: '193767162'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695159477l/193767162._SX98_.jpg
+is_ebook: 'true'
+isbn: 081123472X
+isbn13: '9780811234726'
+json: '{"id": "193767162", "isbn": "081123472X", "isbn13": "9780811234726", "text_reviews_count":
+  {"@type": "integer", "#text": "3"}, "uri": "kca://book/amzn1.gr.book.v3.Mef4oPvJCPHY7oEW",
+  "title": "My Work", "title_without_series": "My Work", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695159477l/193767162._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695159477l/193767162._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/193767162-my-work",
+  "num_pages": "416", "format": null, "edition_information": null, "publisher": null,
+  "publication_day": "5", "publication_year": "2023", "publication_month": "9", "average_rating":
+  "4.00", "ratings_count": "2801", "description": "From the acclaimed author of The
+  Employees , a radical, funny, and mercilessly honest novel about motherhood.\u00a0<br
+  />After giving birth, Anna is utterly lost. She and her family move to the unfamiliar,
+  snowy city of Stockholm. Anxiety threatens to completely engulf Anna, who obsessively
+  devours online news and compulsively orders clothes she can\u2019t afford. To avoid
+  sinking deeper into her depression, she forces herself to read and write.<br />My
+  Work is a novel about the unique and fundamental experience of giving birth, mixing
+  different literary forms\u2014fiction, essay, poetry, memoir, and letters\u2014to
+  explore the relationship between motherhood, work, individuality, and literature.\u201cOlga
+  Ravn writes dazzlingly about the work of motherhood and the work of writing. Reading
+  Ravn\u2019s book, you run through the whole gamut of human emotion, as though you
+  too were a new tears, laughter, anger, fear, pain, frustration. This is powerful
+  writing that\u2019s hard to put down.\u201d\u2014 Politiken", "authors": {"author":
+  {"id": "5815451", "name": "Olga Ravn", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1457600633p5/5815451.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1457600633p2/5815451.jpg"},
+  "link": "https://www.goodreads.com/author/show/5815451.Olga_Ravn", "average_rating":
+  "3.70", "ratings_count": "28583", "text_reviews_count": "4438"}}, "published": "2023",
+  "work": {"id": "85617823", "uri": "kca://work/amzn1.gr.work.v3.r30PLM-tEcEHaYnL"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/6620226380",
+  "read_at": "Thu Jun 27 00:00:00 -0700 2024", "started_at": "", "date": "Thu Jun
+  27 00:00:00 -0700 2024"}'
+kindle_asin: B0CCFXV15F
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/193767162-my-work
+marketplace_id: ATVPDKIKX0DER
+num_pages: '416'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '7771'
+    '@name': to-read
+  - '@count': '284'
+    '@name': currently-reading
+  - '@count': '86'
+    '@name': fiction
+  - '@count': '39'
+    '@name': motherhood
+  - '@count': '36'
+    '@name': translated
+  - '@count': '32'
+    '@name': feminism
+  - '@count': '29'
+    '@name': poetry
+  - '@count': '27'
+    '@name': favorites
+  - '@count': '21'
+    '@name': owned
+  - '@count': '19'
+    '@name': literary-fiction
+  - '@count': '18'
+    '@name': contemporary
+  - '@count': '18'
+    '@name': danish
+  - '@count': '16'
+    '@name': dansk
+  - '@count': '14'
+    '@name': in-translation
+  - '@count': '14'
+    '@name': denmark
+  - '@count': '12'
+    '@name': books-i-own
+  - '@count': '11'
+    '@name': read-in-2024
+  - '@count': '11'
+    '@name': to-buy
+  - '@count': '10'
+    '@name': library
+  - '@count': '10'
+    '@name': novels
+  - '@count': '9'
+    '@name': women
+  - '@count': '9'
+    '@name': scandinavia
+  - '@count': '8'
+    '@name': women-in-translation
+  - '@count': '8'
+    '@name': literary
+  - '@count': '8'
+    '@name': female-author
+  - '@count': '7'
+    '@name': memoir
+  - '@count': '7'
+    '@name': physical-tbr
+  - '@count': '7'
+    '@name': "sk\xF8nlitteratur"
+  - '@count': '6'
+    '@name': did-not-finish
+  - '@count': '6'
+    '@name': tbr-fiction
+  - '@count': '6'
+    '@name': europe
+  - '@count': '6'
+    '@name': translated-lit
+  - '@count': '6'
+    '@name': contemporary-fiction
+  - '@count': '5'
+    '@name': nordic
+  - '@count': '5'
+    '@name': kindle
+  - '@count': '5'
+    '@name': owned-tbr
+  - '@count': '5'
+    '@name': translation
+  - '@count': '5'
+    '@name': translations
+  - '@count': '5'
+    '@name': 2023-releases
+  - '@count': '5'
+    '@name': feminisme
+  - '@count': '5'
+    '@name': bogklubben
+  - '@count': '5'
+    '@name': scandinavian
+  - '@count': '5'
+    '@name': want-to-buy
+  - '@count': '5'
+    '@name': non-fiction
+  - '@count': '5'
+    '@name': novel
+  - '@count': '4'
+    '@name': audio
+  - '@count': '4'
+    '@name': 2024-reading-challenge
+  - '@count': '4'
+    '@name': mental-health
+  - '@count': '4'
+    '@name': parenting
+  - '@count': '4'
+    '@name': wish-list
+  - '@count': '4'
+    '@name': to-read-fiction
+  - '@count': '4'
+    '@name': 2023-reads
+  - '@count': '4'
+    '@name': translated-fiction
+  - '@count': '4'
+    '@name': sweden
+  - '@count': '4'
+    '@name': dansk-litteratur
+  - '@count': '4'
+    '@name': parenthood
+  - '@count': '4'
+    '@name': danish-literature
+  - '@count': '4'
+    '@name': my-bookshelf
+  - '@count': '4'
+    '@name': read-2021
+  - '@count': '4'
+    '@name': favoritter
+  - '@count': '4'
+    '@name': min-bogreol
+  - '@count': '3'
+    '@name': read-in-2025
+  - '@count': '3'
+    '@name': read-2024
+  - '@count': '3'
+    '@name': family
+  - '@count': '3'
+    '@name': scandinavian-lit
+  - '@count': '3'
+    '@name': dnf
+  - '@count': '3'
+    '@name': physical-bookshelf
+  - '@count': '3'
+    '@name': top-priority
+  - '@count': '3'
+    '@name': tbr
+  - '@count': '3'
+    '@name': have
+  - '@count': '3'
+    '@name': 2024-tbr
+  - '@count': '3'
+    '@name': next
+  - '@count': '3'
+    '@name': ebooks
+  - '@count': '3'
+    '@name': general-fiction
+  - '@count': '3'
+    '@name': ebook
+  - '@count': '3'
+    '@name': works-in-translation
+  - '@count': '3'
+    '@name': autofiction
+  - '@count': '3'
+    '@name': gender
+  - '@count': '3'
+    '@name': read-in-2023
+  - '@count': '3'
+    '@name': literature
+  - '@count': '3'
+    '@name': bookclub
+  - '@count': '3'
+    '@name': audiobook
+  - '@count': '3'
+    '@name': moderskab
+  - '@count': '3'
+    '@name': owned-books
+  - '@count': '3'
+    '@name': "lydb\xF8ger"
+  - '@count': '3'
+    '@name': danske-forfattere
+  - '@count': '2'
+    '@name': read-2025
+  - '@count': '2'
+    '@name': summer
+  - '@count': '2'
+    '@name': 2025-tbr
+  - '@count': '2'
+    '@name': english
+  - '@count': '2'
+    '@name': lesser-favorites
+  - '@count': '2'
+    '@name': home-library
+  - '@count': '2'
+    '@name': bookshelf
+  - '@count': '2'
+    '@name': london
+  - '@count': '2'
+    '@name': need-to-buy
+  - '@count': '2'
+    '@name': lit-fic
+  - '@count': '2'
+    '@name': on-shelf
+  - '@count': '2'
+    '@name': physical
+  - '@count': '2'
+    '@name': borrowed
+  - '@count': '2'
+    '@name': contemporary-literature
+publication_day: '5'
+publication_month: '9'
+publication_year: '2023'
+published: '2023'
+publisher: null
+ratings_count: '2801'
+read_at: '2024-06-27T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/6620226380
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/193767162-my-work\"\
+  >My Work Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=081123472X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/193767162-my-work?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '14106408'
+        link: https://www.goodreads.com/author/show/14106408.Linea_Maja_Ernst
+        name: Linea Maja Ernst
+    average_rating: '4.00'
+    id: '210199929'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710948584l/210199929._SX98_.jpg
+    isbn: '8727048535'
+    isbn13: '9788727048536'
+    link: https://www.goodreads.com/book/show/210199929-kun-til-navlen
+    num_pages: '287'
+    publication_day: '3'
+    publication_month: '5'
+    publication_year: '2024'
+    ratings_count: '2801'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710948584l/210199929._SX50_.jpg
+    title: Kun til navlen
+    title_without_series: Kun til navlen
+    uri: kca://book/amzn1.gr.book.v3.n6adEKEgezYTkXtG
+    work:
+      id: '216414746'
+  - authors:
+      author:
+        id: '6548380'
+        link: https://www.goodreads.com/author/show/6548380.Tine_H_eg
+        name: "Tine H\xF8eg"
+    average_rating: '4.00'
+    id: '52851637'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636388170l/52851637._SX98_.jpg
+    isbn: '8743400000'
+    isbn13: '9788743400004'
+    link: https://www.goodreads.com/book/show/52851637-tour-de-chambre
+    num_pages: '324'
+    publication_day: '27'
+    publication_month: '5'
+    publication_year: '2020'
+    ratings_count: '2801'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636388170l/52851637._SY75_.jpg
+    title: Tour de chambre
+    title_without_series: Tour de chambre
+    uri: kca://book/amzn1.gr.book.v3.zSg8r_P8QAbBHlMW
+    work:
+      id: '79033309'
+  - authors:
+      author:
+        id: '6548380'
+        link: https://www.goodreads.com/author/show/6548380.Tine_H_eg
+        name: "Tine H\xF8eg"
+    average_rating: '4.00'
+    id: '61174700'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1653641585l/61174700._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/61174700-sult
+    num_pages: '430'
+    publication_day: null
+    publication_month: null
+    publication_year: '2022'
+    ratings_count: '2801'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1653641585l/61174700._SY75_.jpg
+    title: SULT
+    title_without_series: SULT
+    uri: kca://book/amzn1.gr.book.v3.wI6ArTd2oRO-1Ci7
+    work:
+      id: '96434445'
+  - authors:
+      author:
+        id: '18423931'
+        link: https://www.goodreads.com/author/show/18423931.Emma_Holten
+        name: Emma Holten
+    average_rating: '4.00'
+    id: '212179308'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714139925l/212179308._SX98_.jpg
+    isbn: '8740074137'
+    isbn13: '9788740074130'
+    link: https://www.goodreads.com/book/show/212179308-underskud
+    num_pages: '288'
+    publication_day: null
+    publication_month: null
+    publication_year: '2024'
+    ratings_count: '2801'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714139925l/212179308._SY75_.jpg
+    title: Underskud
+    title_without_series: Underskud
+    uri: kca://book/amzn1.gr.book.v3.7jAaeYEnoZKuxsVj
+    work:
+      id: '218414152'
+  - authors:
+      author:
+        id: '6556890'
+        link: https://www.goodreads.com/author/show/6556890.Cecilie_Lind
+        name: Cecilie Lind
+    average_rating: '4.00'
+    id: '60585226'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658253006l/60585226._SX98_.jpg
+    isbn: '8702315602'
+    isbn13: '9788702315608'
+    link: https://www.goodreads.com/book/show/60585226-pigedyr
+    num_pages: '184'
+    publication_day: '28'
+    publication_month: '4'
+    publication_year: '2022'
+    ratings_count: '2801'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658253006l/60585226._SY75_.jpg
+    title: Pigedyr
+    title_without_series: Pigedyr
+    uri: kca://book/amzn1.gr.book.v3.bEkL_uIvhyjBc4Q5
+    work:
+      id: '95496578'
+  - authors:
+      author:
+        id: '16458801'
+        link: https://www.goodreads.com/author/show/16458801.Laura_Ringo
+        name: Laura Ringo
+    average_rating: '4.00'
+    id: '58654793'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628770006l/58654793._SX98_.jpg
+    isbn: '8702315629'
+    isbn13: '9788702315622'
+    link: https://www.goodreads.com/book/show/58654793-grundtvig-er-d-d
+    num_pages: '268'
+    publication_day: '2'
+    publication_month: '9'
+    publication_year: '2021'
+    ratings_count: '2801'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628770006l/58654793._SY75_.jpg
+    title: "Grundtvig er d\xF8d"
+    title_without_series: "Grundtvig er d\xF8d"
+    uri: kca://book/amzn1.gr.book.v3.6lKEk_1GUwb9iqun
+    work:
+      id: '92268089'
+  - authors:
+      author:
+        id: '183760'
+        link: https://www.goodreads.com/author/show/183760.Sheila_Heti
+        name: Sheila Heti
+    average_rating: '4.00'
+    id: '127282792'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0374610789
+    isbn13: '9780374610784'
+    link: https://www.goodreads.com/book/show/127282792-alphabetical-diaries
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2801'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Alphabetical Diaries
+    title_without_series: Alphabetical Diaries
+    uri: kca://book/amzn1.gr.book.v3.XvLs2mYr7x8nz6NU
+    work:
+      id: '148389824'
+  - authors:
+      author:
+        id: '16883456'
+        link: https://www.goodreads.com/author/show/16883456.Fine_Gr_b_l
+        name: "Fine Gr\xE5b\xF8l"
+    average_rating: '4.00'
+    id: '190855045'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710347617l/190855045._SX98_.jpg
+    isbn: '1953861849'
+    isbn13: '9781953861849'
+    link: https://www.goodreads.com/book/show/190855045-what-kingdom
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2801'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710347617l/190855045._SX50_.jpg
+    title: What Kingdom
+    title_without_series: What Kingdom
+    uri: kca://book/amzn1.gr.book.v3.DsmilP04TuvbYWBN
+    work:
+      id: '90620773'
+  - authors:
+      author:
+        id: '20907065'
+        link: https://www.goodreads.com/author/show/20907065.Glenn_Bech
+        name: Glenn Bech
+    average_rating: '4.00'
+    id: '62198706'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661895419l/62198706._SX98_.jpg
+    isbn: '8702382067'
+    isbn13: '9788702382068'
+    link: https://www.goodreads.com/book/show/62198706-jeg-anerkender-ikke-l-ngere-jeres-autoritet
+    num_pages: '329'
+    publication_day: '30'
+    publication_month: '9'
+    publication_year: '2022'
+    ratings_count: '2801'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661895419l/62198706._SX50_.jpg
+    title: "Jeg anerkender ikke l\xE6ngere jeres autoritet"
+    title_without_series: "Jeg anerkender ikke l\xE6ngere jeres autoritet"
+    uri: kca://book/amzn1.gr.book.v3.4B8vl_R21ghrlL3M
+    work:
+      id: '97987575'
+  - authors:
+      author:
+        id: '46051'
+        link: https://www.goodreads.com/author/show/46051.Rachel_Cusk
+        name: Rachel Cusk
+    average_rating: '4.00'
+    id: '195790675'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1702209032l/195790675._SX98_.jpg
+    isbn: '0374610045'
+    isbn13: '9780374610043'
+    link: https://www.goodreads.com/book/show/195790675-parade
+    num_pages: '198'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2801'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1702209032l/195790675._SY75_.jpg
+    title: Parade
+    title_without_series: Parade
+    uri: kca://book/amzn1.gr.book.v3.3NtCuuSZJNTD-T_O
+    work:
+      id: '197724509'
+  - authors:
+      author:
+        id: '52275334'
+        link: https://www.goodreads.com/author/show/52275334.Katherine_Diez
+        name: Katherine Diez
+    average_rating: '4.00'
+    id: '219861440'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1727867956l/219861440._SX98_.jpg
+    isbn: '8775939894'
+    isbn13: '9788775939893'
+    link: https://www.goodreads.com/book/show/219861440-i-egen-barm
+    num_pages: '182'
+    publication_day: '1'
+    publication_month: '10'
+    publication_year: '2024'
+    ratings_count: '2801'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1727867956l/219861440._SY75_.jpg
+    title: I egen barm
+    title_without_series: I egen barm
+    uri: kca://book/amzn1.gr.book.v3._rzzfgJqjHCcrwRK
+    work:
+      id: '226793378'
+  - authors:
+      author:
+        id: '14106410'
+        link: https://www.goodreads.com/author/show/14106410.Lucia_Odoom
+        name: Lucia Odoom
+    average_rating: '4.00'
+    id: '217501610'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1723738206l/217501610._SX98_.jpg
+    isbn: '8712066575'
+    isbn13: '9788712066576'
+    link: https://www.goodreads.com/book/show/217501610-cosmos
+    num_pages: '153'
+    publication_day: '4'
+    publication_month: '10'
+    publication_year: '2024'
+    ratings_count: '2801'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1723738206l/217501610._SY75_.jpg
+    title: Cosmos
+    title_without_series: Cosmos
+    uri: kca://book/amzn1.gr.book.v3.B9-A2ukhMmMj_wNh
+    work:
+      id: '224009056'
+  - authors:
+      author:
+        id: '49774667'
+        link: https://www.goodreads.com/author/show/49774667.Emma_Rosenzweig
+        name: Emma Rosenzweig
+    average_rating: '4.00'
+    id: '218464128'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725430653l/218464128._SX98_.jpg
+    isbn: '8702402890'
+    isbn13: '9788702402896'
+    link: https://www.goodreads.com/book/show/218464128-jeg-giver-alt-v-k
+    num_pages: '284'
+    publication_day: '21'
+    publication_month: '8'
+    publication_year: '2024'
+    ratings_count: '2801'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725430653l/218464128._SY75_.jpg
+    title: "Jeg giver alt v\xE6k"
+    title_without_series: "Jeg giver alt v\xE6k"
+    uri: kca://book/amzn1.gr.book.v3.06lFLk-m_XLMhPQA
+    work:
+      id: '225031356'
+  - authors:
+      author:
+        id: '47176023'
+        link: https://www.goodreads.com/author/show/47176023.Sine_Plambech
+        name: Sine Plambech
+    average_rating: '4.00'
+    id: '203105347'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701516066l/203105347._SX98_.jpg
+    isbn: '8741274334'
+    isbn13: '9788741274331'
+    link: https://www.goodreads.com/book/show/203105347-global-sex---hvad-sexarbejdere-ved-om-k-rlighed-og-kapitalisme
+    num_pages: '250'
+    publication_day: '17'
+    publication_month: '11'
+    publication_year: '2023'
+    ratings_count: '2801'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701516066l/203105347._SX50_.jpg
+    title: "Global Sex - Hvad sexarbejdere ved om k\xE6rlighed og kapitalisme"
+    title_without_series: "Global Sex - Hvad sexarbejdere ved om k\xE6rlighed og kapitalisme"
+    uri: kca://book/amzn1.gr.book.v3.rxEL9q6DOms2C3F9
+    work:
+      id: '208695486'
+  - authors:
+      author:
+        id: '197111'
+        link: https://www.goodreads.com/author/show/197111.Dea_Trier_M_rch
+        name: "Dea Trier M\xF8rch"
+    average_rating: '4.00'
+    id: '42134744'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538575752l/42134744._SX98_.jpg
+    isbn: '8702210746'
+    isbn13: '9788702210743'
+    link: https://www.goodreads.com/book/show/42134744-vinterb-rn
+    num_pages: '296'
+    publication_day: '7'
+    publication_month: '10'
+    publication_year: '2016'
+    ratings_count: '2801'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538575752l/42134744._SY75_.jpg
+    title: "Vinterb\xF8rn"
+    title_without_series: "Vinterb\xF8rn"
+    uri: kca://book/amzn1.gr.book.v1.SfWKuInd-RyCaYQtlOmUGQ
+    work:
+      id: '333858'
+  - authors:
+      author:
+        id: '17167573'
+        link: https://www.goodreads.com/author/show/17167573.Katinka_Bjerregaard
+        name: Katinka Bjerregaard
+    average_rating: '4.00'
+    id: '84204115'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674498874l/84204115._SX98_.jpg
+    isbn: '8702395053'
+    isbn13: '9788702395051'
+    link: https://www.goodreads.com/book/show/84204115-klump
+    num_pages: '152'
+    publication_day: '10'
+    publication_month: '3'
+    publication_year: '2023'
+    ratings_count: '2801'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674498874l/84204115._SY75_.jpg
+    title: "Klump: En k\xE6rlighedshistorie"
+    title_without_series: "Klump: En k\xE6rlighedshistorie"
+    uri: kca://book/amzn1.gr.book.v3.ZzLx3mEdyiEAGp3Z
+    work:
+      id: '108746227'
+  - authors:
+      author:
+        id: '49973416'
+        link: https://www.goodreads.com/author/show/49973416.Jenny_Rossander
+        name: Jenny Rossander
+    average_rating: '4.00'
+    id: '213879090'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716733064l/213879090._SX98_.jpg
+    isbn: '8740086291'
+    isbn13: '9788740086294'
+    link: https://www.goodreads.com/book/show/213879090-jeg-har-t-nkt-mig-at-skrige-hele-vejen
+    num_pages: '320'
+    publication_day: '24'
+    publication_month: '5'
+    publication_year: '2024'
+    ratings_count: '2801'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716733064l/213879090._SY75_.jpg
+    title: "Jeg har t\xE6nkt mig at skrige hele vejen"
+    title_without_series: "Jeg har t\xE6nkt mig at skrige hele vejen"
+    uri: kca://book/amzn1.gr.book.v3.xBsw_A7FR_vpyeJl
+    work:
+      id: '220138110'
+  - authors:
+      author:
+        id: '4027397'
+        link: https://www.goodreads.com/author/show/4027397.Mathilde_Walter_Clark
+        name: Mathilde Walter Clark
+    average_rating: '4.00'
+    id: '201202616'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698832384l/201202616._SX98_.jpg
+    isbn: '8740090337'
+    isbn13: '9788740090338'
+    link: https://www.goodreads.com/book/show/201202616-hvordan-man-laver-dyr
+    num_pages: '64'
+    publication_day: '26'
+    publication_month: '10'
+    publication_year: '2023'
+    ratings_count: '2801'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698832384l/201202616._SY75_.jpg
+    title: Hvordan man laver dyr
+    title_without_series: Hvordan man laver dyr
+    uri: kca://book/amzn1.gr.book.v3.E_wxdjbuQvdEmASs
+    work:
+      id: '206096923'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695159477l/193767162._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '3'
+  '@type': integer
+title: My Work
+title_without_series: My Work
+uri: kca://book/amzn1.gr.book.v3.Mef4oPvJCPHY7oEW
+url: https://www.goodreads.com/book/show/193767162-my-work
+work:
+  id: '85617823'
+  uri: kca://work/amzn1.gr.work.v3.r30PLM-tEcEHaYnL

@@ -1,0 +1,735 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.80'
+    id: '31111'
+    image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+      '@nophoto': 'true'
+    link: https://www.goodreads.com/author/show/31111.Danny_Danziger
+    name: Danny Danziger
+    ratings_count: '3725'
+    role: null
+    small_image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png
+      '@nophoto': 'true'
+    text_reviews_count: '409'
+average_rating: '3.83'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: null
+edition_information: null
+format: null
+id: '5967444'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677798144l/5967444._SX98_.jpg
+is_ebook: 'true'
+isbn: '1101202610'
+isbn13: '9781101202616'
+json: '{"id": "5967444", "isbn": "1101202610", "isbn13": "9781101202616", "text_reviews_count":
+  {"@type": "integer", "#text": "0"}, "uri": "kca://book/amzn1.gr.book.v1.gDM5NcJO9dYBNYfQnTqtBg",
+  "title": "Museum: Behind the Scenes at the Metropolitan Museum of Art", "title_without_series":
+  "Museum: Behind the Scenes at the Metropolitan Museum of Art", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677798144l/5967444._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677798144l/5967444._SX50_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/5967444-museum",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": "Penguin
+  Group", "publication_day": "1", "publication_year": "2007", "publication_month":
+  "6", "average_rating": "3.83", "ratings_count": "679", "description": null, "authors":
+  {"author": {"id": "31111", "name": "Danny Danziger", "role": null, "image_url":
+  {"@nophoto": "true", "#text": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"},
+  "small_image_url": {"@nophoto": "true", "#text": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"},
+  "link": "https://www.goodreads.com/author/show/31111.Danny_Danziger", "average_rating":
+  "3.80", "ratings_count": "3725", "text_reviews_count": "409"}}, "published": "2007",
+  "work": {"id": "169150", "uri": "kca://work/amzn1.gr.work.v1.A-OTV9Nmv5_B7c-o5SreiQ"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/800062758",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B000TO0TAI
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/5967444-museum
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '932'
+    '@name': to-read
+  - '@count': '47'
+    '@name': non-fiction
+  - '@count': '42'
+    '@name': art
+  - '@count': '33'
+    '@name': currently-reading
+  - '@count': '31'
+    '@name': nonfiction
+  - '@count': '18'
+    '@name': history
+  - '@count': '9'
+    '@name': museums
+  - '@count': '8'
+    '@name': art-history
+  - '@count': '6'
+    '@name': biography
+  - '@count': '4'
+    '@name': museum
+  - '@count': '3'
+    '@name': owned
+  - '@count': '3'
+    '@name': nyc
+  - '@count': '3'
+    '@name': united-states
+  - '@count': '3'
+    '@name': museum-studies
+  - '@count': '3'
+    '@name': favorites
+  - '@count': '3'
+    '@name': adult
+  - '@count': '3'
+    '@name': 2000s
+  - '@count': '3'
+    '@name': new-york
+  - '@count': '2'
+    '@name': hamptons
+  - '@count': '2'
+    '@name': wish-list
+  - '@count': '2'
+    '@name': art-and-art-history
+  - '@count': '2'
+    '@name': my-library
+  - '@count': '2'
+    '@name': non-fic
+  - '@count': '2'
+    '@name': genre-nonfiction
+  - '@count': '2'
+    '@name': art-museums
+  - '@count': '2'
+    '@name': default
+  - '@count': '2'
+    '@name': travel
+  - '@count': '2'
+    '@name': biography-memoir
+  - '@count': '2'
+    '@name': nf
+  - '@count': '2'
+    '@name': art-books
+  - '@count': '1'
+    '@name': nonfic-to-read
+  - '@count': '1'
+    '@name': art-music-architecture
+  - '@count': '1'
+    '@name': 9-owned
+  - '@count': '1'
+    '@name': 4-art-and-provenance
+  - '@count': '1'
+    '@name': physical-collection
+  - '@count': '1'
+    '@name': arts
+  - '@count': '1'
+    '@name': "\u05DE\u05D5\u05D6\u05D9\u05D0\u05D5\u05E0\u05D9\u05DD-\u05D5\u05D0\u05E1\
+      \u05E4\u05E0\u05D5\u05EA"
+  - '@count': '1'
+    '@name': books-read-2023
+  - '@count': '1'
+    '@name': dekalb-library
+  - '@count': '1'
+    '@name': on-hold
+  - '@count': '1'
+    '@name': book-club
+  - '@count': '1'
+    '@name': new-releases-2007
+  - '@count': '1'
+    '@name': kindle
+  - '@count': '1'
+    '@name': 50-years-of-reading
+  - '@count': '1'
+    '@name': new-books-2023
+  - '@count': '1'
+    '@name': library
+  - '@count': '1'
+    '@name': guide-books-buildings-travel
+  - '@count': '1'
+    '@name': 2023-books
+  - '@count': '1'
+    '@name': zz-00-donated
+  - '@count': '1'
+    '@name': art-photography
+  - '@count': '1'
+    '@name': art-fashion-and-museums
+  - '@count': '1'
+    '@name': reading-challenge
+  - '@count': '1'
+    '@name': '1'
+  - '@count': '1'
+    '@name': have2buy
+  - '@count': '1'
+    '@name': own-and-need-to-read
+  - '@count': '1'
+    '@name': education
+  - '@count': '1'
+    '@name': favorite-reads
+  - '@count': '1'
+    '@name': interesting-topics
+  - '@count': '1'
+    '@name': history-and-biography
+  - '@count': '1'
+    '@name': art-and-beauty
+  - '@count': '1'
+    '@name': personal-library
+  - '@count': '1'
+    '@name': much-later
+  - '@count': '1'
+    '@name': science
+  - '@count': '1'
+    '@name': hardcover
+  - '@count': '1'
+    '@name': english
+  - '@count': '1'
+    '@name': 21st-century
+  - '@count': '1'
+    '@name': nonfic-art-museums
+  - '@count': '1'
+    '@name': owned-books
+  - '@count': '1'
+    '@name': physical-tbr
+  - '@count': '1'
+    '@name': dnf
+  - '@count': '1'
+    '@name': owned-ebook
+  - '@count': '1'
+    '@name': nook
+  - '@count': '1'
+    '@name': tylercowen
+  - '@count': '1'
+    '@name': 2021-read-what-you-own
+  - '@count': '1'
+    '@name': white-cishet-dude-authors
+  - '@count': '1'
+    '@name': western-history
+  - '@count': '1'
+    '@name': math-tech-other-sciences
+  - '@count': '1'
+    '@name': contemporary-biographies
+  - '@count': '1'
+    '@name': arts-music-writing-advices
+  - '@count': '1'
+    '@name': zz00-goodwill-101120-2
+  - '@count': '1'
+    '@name': single-topic-nonfiction
+  - '@count': '1'
+    '@name': "\u062A\u0627\u0631\u064A\u062E"
+  - '@count': '1'
+    '@name': interest-sounds-neat
+  - '@count': '1'
+    '@name': non-fic-to-read
+  - '@count': '1'
+    '@name': usa
+  - '@count': '1'
+    '@name': multicultural
+  - '@count': '1'
+    '@name': inspiration
+  - '@count': '1'
+    '@name': information
+  - '@count': '1'
+    '@name': nonfic
+  - '@count': '1'
+    '@name': read-in-february
+  - '@count': '1'
+    '@name': read-in-2020
+  - '@count': '1'
+    '@name': library-book
+  - '@count': '1'
+    '@name': try-again-later
+  - '@count': '1'
+    '@name': overdrive
+  - '@count': '1'
+    '@name': read-museum
+  - '@count': '1'
+    '@name': ebooks
+  - '@count': '1'
+    '@name': history-culture
+  - '@count': '1'
+    '@name': recommended
+  - '@count': '1'
+    '@name': emma
+  - '@count': '1'
+    '@name': non-fiction-books
+publication_day: '1'
+publication_month: '6'
+publication_year: '2007'
+published: '2007'
+publisher: Penguin Group
+ratings_count: '679'
+read_at: ''
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/800062758
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/5967444-museum\"\
+  >Museum Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1101202610&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/5967444-museum?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '202867'
+        link: https://www.goodreads.com/author/show/202867.Rhys_Bowen
+        name: Rhys Bowen
+    average_rating: '3.83'
+    id: '207611575'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715452627l/207611575._SX98_.jpg
+    isbn: 0593641361
+    isbn13: '9780593641361'
+    link: https://www.goodreads.com/book/show/207611575-we-three-queens
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '679'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715452627l/207611575._SY75_.jpg
+    title: 'We Three Queens (A Royal Spyness Mystery, #18)'
+    title_without_series: We Three Queens
+    uri: kca://book/amzn1.gr.book.v3.gv0OgYR8-9TcTFb7
+    work:
+      id: '213681030'
+  - authors:
+      author:
+        id: '21927328'
+        link: https://www.goodreads.com/author/show/21927328.Patrick_Bringley
+        name: Patrick Bringley
+    average_rating: '3.83'
+    id: '59364113'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675897622l/59364113._SX98_.jpg
+    isbn: '1982163321'
+    isbn13: '9781982163327'
+    link: https://www.goodreads.com/book/show/59364113-all-the-beauty-in-the-world
+    num_pages: '240'
+    publication_day: '14'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '679'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675897622l/59364113._SX50_.jpg
+    title: 'All the Beauty in the World: The Metropolitan Museum of Art and Me'
+    title_without_series: 'All the Beauty in the World: The Metropolitan Museum of
+      Art and Me'
+    uri: kca://book/amzn1.gr.book.v3.Ugyi2WiudhBIieNf
+    work:
+      id: '93537065'
+  - authors:
+      author:
+        id: '4028069'
+        link: https://www.goodreads.com/author/show/4028069.Jennifer_Homans
+        name: Jennifer Homans
+    average_rating: '3.83'
+    id: '60373437'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649028290l/60373437._SX98_.jpg
+    isbn: 0812994302
+    isbn13: '9780812994308'
+    link: https://www.goodreads.com/book/show/60373437-mr-b
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '679'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649028290l/60373437._SY75_.jpg
+    title: 'Mr. B: George Balanchine''s 20th Century'
+    title_without_series: 'Mr. B: George Balanchine''s 20th Century'
+    uri: kca://book/amzn1.gr.book.v3.3VkeiUx2Jcoo8vVD
+    work:
+      id: '95101814'
+  - authors:
+      author:
+        id: '14903705'
+        link: https://www.goodreads.com/author/show/14903705.Fiona_Davis
+        name: Fiona  Davis
+    average_rating: '3.83'
+    id: '211025454'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1713891819l/211025454._SX98_.jpg
+    isbn: 0593474279
+    isbn13: '9780593474273'
+    link: https://www.goodreads.com/book/show/211025454-the-stolen-queen
+    num_pages: '339'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '679'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1713891819l/211025454._SY75_.jpg
+    title: The Stolen Queen
+    title_without_series: The Stolen Queen
+    uri: kca://book/amzn1.gr.book.v3.P4Opd58eRYEVK9d_
+    work:
+      id: '217256977'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '3.83'
+    id: '215760525'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724079438l/215760525._SX98_.jpg
+    isbn: 0316575348
+    isbn13: '9780316575348'
+    link: https://www.goodreads.com/book/show/215760525-livesuit
+    num_pages: '90'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '679'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724079438l/215760525._SY75_.jpg
+    title: "Livesuit (The Captive\u2019s War #1.5)"
+    title_without_series: Livesuit
+    uri: kca://book/amzn1.gr.book.v3.Rr7d-BxEjSsqm-t3
+    work:
+      id: '222176366'
+  - authors:
+      author:
+        id: '4763'
+        link: https://www.goodreads.com/author/show/4763.John_Scalzi
+        name: John Scalzi
+    average_rating: '3.83'
+    id: '88071'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0765316978
+    isbn13: '9780765316974'
+    link: https://www.goodreads.com/book/show/88071.The_Last_Colony
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '679'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Last Colony (Old Man''s War, #3)'
+    title_without_series: The Last Colony
+    uri: kca://book/amzn1.gr.book.v1.4JzszrQ4MSuHOp81OmydLQ
+    work:
+      id: '18279847'
+  - authors:
+      author:
+        id: '43626568'
+        link: https://www.goodreads.com/author/show/43626568.Catherine_Mack
+        name: Catherine  Mack
+    average_rating: '3.83'
+    id: '195790849'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696626995l/195790849._SX98_.jpg
+    isbn: '1250325854'
+    isbn13: '9781250325853'
+    link: https://www.goodreads.com/book/show/195790849-every-time-i-go-on-vacation-someone-dies
+    num_pages: '342'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '679'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696626995l/195790849._SY75_.jpg
+    title: 'Every Time I Go on Vacation, Someone Dies (The Vacation Mysteries, #1)'
+    title_without_series: Every Time I Go on Vacation, Someone Dies
+    uri: kca://book/amzn1.gr.book.v3.94G5HngbQodfWYcS
+    work:
+      id: '197724637'
+  - authors:
+      author:
+        id: '25307'
+        link: https://www.goodreads.com/author/show/25307.Robin_Hobb
+        name: Robin Hobb
+    average_rating: '3.83'
+    id: '30688013'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492869860l/30688013._SX98_.jpg
+    isbn: 0553392956
+    isbn13: '9780553392951'
+    link: https://www.goodreads.com/book/show/30688013-assassin-s-fate
+    num_pages: '847'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '679'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492869860l/30688013._SY75_.jpg
+    title: 'Assassin''s Fate (The Fitz and the Fool, #3)'
+    title_without_series: Assassin's Fate
+    uri: kca://book/amzn1.gr.book.v1.tMErAmbHUc2Ju2THZd9o9Q
+    work:
+      id: '44600531'
+  - authors:
+      author:
+        id: '25307'
+        link: https://www.goodreads.com/author/show/25307.Robin_Hobb
+        name: Robin Hobb
+    average_rating: '3.83'
+    id: '40610956'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529677338l/40610956._SY160_.jpg
+    isbn: 055339293X
+    isbn13: '9780553392937'
+    link: https://www.goodreads.com/book/show/40610956-fool-s-quest
+    num_pages: '757'
+    publication_day: '11'
+    publication_month: '8'
+    publication_year: '2015'
+    ratings_count: '679'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529677338l/40610956._SY75_.jpg
+    title: 'Fool''s Quest  (The Fitz and the Fool, #2)'
+    title_without_series: Fool's Quest
+    uri: kca://book/amzn1.gr.book.v1.LgNcXyj5AGaiLJiAYgUpxw
+    work:
+      id: '42704733'
+  - authors:
+      author:
+        id: '25307'
+        link: https://www.goodreads.com/author/show/25307.Robin_Hobb
+        name: Robin Hobb
+    average_rating: '3.83'
+    id: '41021196'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533132942l/41021196._SY160_.jpg
+    isbn: 0553392433
+    isbn13: '9780553392432'
+    link: https://www.goodreads.com/book/show/41021196-fool-s-assassin
+    num_pages: '706'
+    publication_day: '12'
+    publication_month: '8'
+    publication_year: '2014'
+    ratings_count: '679'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533132942l/41021196._SY75_.jpg
+    title: 'Fool''s Assassin (The Fitz and the Fool, #1)'
+    title_without_series: Fool's Assassin
+    uri: kca://book/amzn1.gr.book.v1.ZUa8CTsi4TLnEoZbPZahsQ
+    work:
+      id: '26474462'
+  - authors:
+      author:
+        id: '25307'
+        link: https://www.goodreads.com/author/show/25307.Robin_Hobb
+        name: Robin Hobb
+    average_rating: '3.83'
+    id: '13109291'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341265576l/13109291._SX98_.jpg
+    isbn: 0062116851
+    isbn13: '9780062116857'
+    link: https://www.goodreads.com/book/show/13109291-blood-of-dragons
+    num_pages: null
+    publication_day: '8'
+    publication_month: '4'
+    publication_year: '2013'
+    ratings_count: '679'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341265576l/13109291._SY75_.jpg
+    title: 'Blood of Dragons (Rain Wild Chronicles, #4)'
+    title_without_series: Blood of Dragons
+    uri: kca://book/amzn1.gr.book.v1.nD_XTFoNRUXnE7FmE1l8xw
+    work:
+      id: '18282611'
+  - authors:
+      author:
+        id: '25307'
+        link: https://www.goodreads.com/author/show/25307.Robin_Hobb
+        name: Robin Hobb
+    average_rating: '3.83'
+    id: '11801463'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322613975l/11801463._SX98_.jpg
+    isbn: '0061561630'
+    isbn13: '9780061561634'
+    link: https://www.goodreads.com/book/show/11801463-city-of-dragons
+    num_pages: '334'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '679'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322613975l/11801463._SY75_.jpg
+    title: 'City of Dragons (Rain Wild Chronicles, #3)'
+    title_without_series: City of Dragons
+    uri: kca://book/amzn1.gr.book.v1.l2CnPmnlMXvM_ZE5CJXV1Q
+    work:
+      id: '16754534'
+  - authors:
+      author:
+        id: '25307'
+        link: https://www.goodreads.com/author/show/25307.Robin_Hobb
+        name: Robin Hobb
+    average_rating: '3.83'
+    id: '7011403'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1263769185l/7011403._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/7011403-dragon-haven
+    num_pages: '508'
+    publication_day: '11'
+    publication_month: '5'
+    publication_year: '2010'
+    ratings_count: '679'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1263769185l/7011403._SY75_.jpg
+    title: 'Dragon Haven (Rain Wild Chronicles, #2)'
+    title_without_series: Dragon Haven
+    uri: kca://book/amzn1.gr.book.v1.opdo3onnmXuZgnnfX6H3Yg
+    work:
+      id: '21457174'
+  - authors:
+      author:
+        id: '25307'
+        link: https://www.goodreads.com/author/show/25307.Robin_Hobb
+        name: Robin Hobb
+    average_rating: '3.83'
+    id: '4703450'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330079386l/4703450._SX98_.jpg
+    isbn: '0007273746'
+    isbn13: '9780007273744'
+    link: https://www.goodreads.com/book/show/4703450-the-dragon-keeper
+    num_pages: '553'
+    publication_day: '25'
+    publication_month: '6'
+    publication_year: '2009'
+    ratings_count: '679'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330079386l/4703450._SX50_.jpg
+    title: 'The Dragon Keeper (Rain Wild Chronicles, #1)'
+    title_without_series: The Dragon Keeper
+    uri: kca://book/amzn1.gr.book.v1.wNY57tID6Tpybw1g31oPLA
+    work:
+      id: '4767778'
+  - authors:
+      author:
+        id: '16535395'
+        link: https://www.goodreads.com/author/show/16535395.Gaius_Julius_Caesar
+        name: Gaius Julius Caesar
+    average_rating: '3.83'
+    id: '592167'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683453362l/592167._SX98_.jpg
+    isbn: '0140444335'
+    isbn13: '9780140444339'
+    link: https://www.goodreads.com/book/show/592167.The_Conquest_of_Gaul
+    num_pages: '269'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '679'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683453362l/592167._SY75_.jpg
+    title: The Conquest of Gaul
+    title_without_series: The Conquest of Gaul
+    uri: kca://book/amzn1.gr.book.v1.CyVPB6nFvzZriUxR7pWj8A
+    work:
+      id: '1978328'
+  - authors:
+      author:
+        id: '206768'
+        link: https://www.goodreads.com/author/show/206768.Michael_Finkel
+        name: Michael Finkel
+    average_rating: '3.83'
+    id: '62873378'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701688707l/62873378._SX98_.jpg
+    isbn: '0525657320'
+    isbn13: '9780525657323'
+    link: https://www.goodreads.com/book/show/62873378-the-art-thief
+    num_pages: '224'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '679'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701688707l/62873378._SX50_.jpg
+    title: 'The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession'
+    title_without_series: 'The Art Thief: A True Story of Love, Crime, and a Dangerous
+      Obsession'
+    uri: kca://book/amzn1.gr.book.v3.ni-W5fHbKtkNIuFv
+    work:
+      id: '68763456'
+  - authors:
+      author:
+        id: '1861403'
+        link: https://www.goodreads.com/author/show/1861403.Jane_Beaton
+        name: Jane Beaton
+    average_rating: '3.83'
+    id: '58490592'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1641161386l/58490592._SX98_.jpg
+    isbn: 006314171X
+    isbn13: '9780063141711'
+    link: https://www.goodreads.com/book/show/58490592-welcome-to-the-school-by-the-sea
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '679'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1641161386l/58490592._SY75_.jpg
+    title: 'Welcome to the School by the Sea (School by the Sea #1)'
+    title_without_series: Welcome to the School by the Sea
+    uri: kca://book/amzn1.gr.book.v3.MaftRX22yKS2k719
+    work:
+      id: '4505794'
+  - authors:
+      author:
+        id: '25307'
+        link: https://www.goodreads.com/author/show/25307.Robin_Hobb
+        name: Robin Hobb
+    average_rating: '3.83'
+    id: '45109'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0553582453
+    isbn13: '9780553582451'
+    link: https://www.goodreads.com/book/show/45109.Golden_Fool
+    num_pages: '709'
+    publication_day: null
+    publication_month: '12'
+    publication_year: '2003'
+    ratings_count: '679'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Golden Fool (Tawny Man, #2)'
+    title_without_series: Golden Fool
+    uri: kca://book/amzn1.gr.book.v1.aY9MO_JCCVXV5-TBaOkq_w
+    work:
+      id: '2960727'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677798144l/5967444._SX50_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '0'
+  '@type': integer
+title: 'Museum: Behind the Scenes at the Metropolitan Museum of Art'
+title_without_series: 'Museum: Behind the Scenes at the Metropolitan Museum of Art'
+uri: kca://book/amzn1.gr.book.v1.gDM5NcJO9dYBNYfQnTqtBg
+url: https://www.goodreads.com/book/show/5967444-museum
+work:
+  id: '169150'
+  uri: kca://work/amzn1.gr.work.v1.A-OTV9Nmv5_B7c-o5SreiQ

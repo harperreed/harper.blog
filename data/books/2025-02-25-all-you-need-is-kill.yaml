@@ -1,0 +1,743 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.02'
+    id: '2845502'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1372532951p5/2845502.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/2845502.Hiroshi_Sakurazaka
+    name: Hiroshi Sakurazaka
+    ratings_count: '36986'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1372532951p2/2845502.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '3699'
+average_rating: '4.02'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: "Tras morir en el campo de batalla, Keiji Kiriya se encuentra con que\
+  \ ha vuelto al d\xEDa anterior al combate. Atrapado en un bucle temporal, se ve\
+  \ obligado a revivir una cruenta batalla que siempre se salda con la aplastante\
+  \ derrota de su divisi\xF3n. La muerte se convierte en su rutina durante m\xE1s\
+  \ de cien d\xEDas, hasta que un reencuentro en ese mismo campo de batalla le dar\xE1\
+  \ una nueva esperanza."
+edition_information: null
+format: null
+id: '12868204'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn: '1421542447'
+isbn13: '9781421542447'
+json: '{"id": "12868204", "isbn": "1421542447", "isbn13": "9781421542447", "text_reviews_count":
+  {"@type": "integer", "#text": "177"}, "uri": "kca://book/amzn1.gr.book.v1.1LEZBsiqHWcAfEWKfyKB8g",
+  "title": "All You Need Is Kill", "title_without_series": "All You Need Is Kill",
+  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/12868204-all-you-need-is-kill",
+  "num_pages": "230", "format": null, "edition_information": null, "publisher": "Haikasoru/VIZ
+  Media", "publication_day": "5", "publication_year": "2011", "publication_month":
+  "9", "average_rating": "4.02", "ratings_count": "23313", "description": "Tras morir
+  en el campo de batalla, Keiji Kiriya se encuentra con que ha vuelto al d\u00eda
+  anterior al combate. Atrapado en un bucle temporal, se ve obligado a revivir una
+  cruenta batalla que siempre se salda con la aplastante derrota de su divisi\u00f3n.
+  La muerte se convierte en su rutina durante m\u00e1s de cien d\u00edas, hasta que
+  un reencuentro en ese mismo campo de batalla le dar\u00e1 una nueva esperanza.",
+  "authors": {"author": {"id": "2845502", "name": "Hiroshi Sakurazaka", "role": null,
+  "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1372532951p5/2845502.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1372532951p2/2845502.jpg"},
+  "link": "https://www.goodreads.com/author/show/2845502.Hiroshi_Sakurazaka", "average_rating":
+  "4.02", "ratings_count": "36986", "text_reviews_count": "3699"}}, "published": "2011",
+  "work": {"id": "6439033", "uri": "kca://work/amzn1.gr.work.v1.7XMGYNmmBaQpM6WTXL9YpQ"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/897991189",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B005LJETYI
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/12868204-all-you-need-is-kill
+marketplace_id: ATVPDKIKX0DER
+num_pages: '230'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '16860'
+    '@name': to-read
+  - '@count': '832'
+    '@name': science-fiction
+  - '@count': '718'
+    '@name': sci-fi
+  - '@count': '649'
+    '@name': currently-reading
+  - '@count': '334'
+    '@name': fiction
+  - '@count': '188'
+    '@name': favorites
+  - '@count': '160'
+    '@name': manga
+  - '@count': '155'
+    '@name': scifi
+  - '@count': '141'
+    '@name': time-travel
+  - '@count': '119'
+    '@name': war
+  - '@count': '113'
+    '@name': owned
+  - '@count': '91'
+    '@name': japan
+  - '@count': '88'
+    '@name': light-novel
+  - '@count': '84'
+    '@name': graphic-novels
+  - '@count': '82'
+    '@name': japanese
+  - '@count': '74'
+    '@name': fantasy
+  - '@count': '65'
+    '@name': military
+  - '@count': '61'
+    '@name': comics
+  - '@count': '61'
+    '@name': ebook
+  - '@count': '59'
+    '@name': sf
+  - '@count': '57'
+    '@name': aliens
+  - '@count': '54'
+    '@name': light-novels
+  - '@count': '51'
+    '@name': kindle
+  - '@count': '46'
+    '@name': graphic-novel
+  - '@count': '44'
+    '@name': action
+  - '@count': '42'
+    '@name': translated
+  - '@count': '41'
+    '@name': books-i-own
+  - '@count': '39'
+    '@name': japanese-literature
+  - '@count': '38'
+    '@name': sci-fi-fantasy
+  - '@count': '35'
+    '@name': novels
+  - '@count': '34'
+    '@name': dystopian
+  - '@count': '33'
+    '@name': audiobook
+  - '@count': '31'
+    '@name': library
+  - '@count': '30'
+    '@name': owned-books
+  - '@count': '26'
+    '@name': read-in-2014
+  - '@count': '26'
+    '@name': novel
+  - '@count': '26'
+    '@name': dystopia
+  - '@count': '25'
+    '@name': default
+  - '@count': '25'
+    '@name': military-sci-fi
+  - '@count': '22'
+    '@name': adult
+  - '@count': '22'
+    '@name': books
+  - '@count': '21'
+    '@name': audiobooks
+  - '@count': '20'
+    '@name': read-2014
+  - '@count': '20'
+    '@name': fantasy-sci-fi
+  - '@count': '20'
+    '@name': speculative-fiction
+  - '@count': '20'
+    '@name': translation
+  - '@count': '19'
+    '@name': ebooks
+  - '@count': '19'
+    '@name': time-loop
+  - '@count': '19'
+    '@name': thriller
+  - '@count': '18'
+    '@name': scifi-fantasy
+  - '@count': '17'
+    '@name': adventure
+  - '@count': '17'
+    '@name': audio
+  - '@count': '16'
+    '@name': favourites
+  - '@count': '16'
+    '@name': e-book
+  - '@count': '16'
+    '@name': military-science-fiction
+  - '@count': '16'
+    '@name': to-buy
+  - '@count': '15'
+    '@name': military-sf
+  - '@count': '15'
+    '@name': sff
+  - '@count': '15'
+    '@name': military-fiction
+  - '@count': '15'
+    '@name': young-adult
+  - '@count': '14'
+    '@name': book-club
+  - '@count': '14'
+    '@name': horror
+  - '@count': '14'
+    '@name': japanese-lit
+  - '@count': '13'
+    '@name': wish-list
+  - '@count': '13'
+    '@name': in-translation
+  - '@count': '12'
+    '@name': asian
+  - '@count': '12'
+    '@name': english
+  - '@count': '12'
+    '@name': alien-invasion
+  - '@count': '11'
+    '@name': my-library
+  - '@count': '11'
+    '@name': cyberpunk
+  - '@count': '11'
+    '@name': asia
+  - '@count': '11'
+    '@name': e-books
+  - '@count': '11'
+    '@name': action-adventure
+  - '@count': '11'
+    '@name': science-fiction-fantasy
+  - '@count': '11'
+    '@name': sci-fi-and-fantasy
+  - '@count': '10'
+    '@name': want-to-buy
+  - '@count': '10'
+    '@name': movie
+  - '@count': '10'
+    '@name': adult-fiction
+  - '@count': '10'
+    '@name': japanese-fiction
+  - '@count': '9'
+    '@name': comic
+  - '@count': '9'
+    '@name': read-2015
+  - '@count': '9'
+    '@name': movies
+  - '@count': '9'
+    '@name': my-books
+  - '@count': '9'
+    '@name': not-owned
+  - '@count': '9'
+    '@name': sf-fantasy
+  - '@count': '9'
+    '@name': mystery
+  - '@count': '9'
+    '@name': post-apocalyptic
+  - '@count': '8'
+    '@name': all-you-need-is-kill
+  - '@count': '8'
+    '@name': graphic-novels-comics
+  - '@count': '8'
+    '@name': comics-graphic-novels
+  - '@count': '8'
+    '@name': reviewed
+  - '@count': '8'
+    '@name': own-it
+  - '@count': '8'
+    '@name': dnf
+  - '@count': '8'
+    '@name': maybe
+  - '@count': '8'
+    '@name': 5-stars
+  - '@count': '8'
+    '@name': romance
+  - '@count': '8'
+    '@name': favorite
+  - '@count': '8'
+    '@name': read-in-english
+  - '@count': '8'
+    '@name': digital
+  - '@count': '8'
+    '@name': male-author
+publication_day: '5'
+publication_month: '9'
+publication_year: '2011'
+published: '2011'
+publisher: Haikasoru/VIZ Media
+ratings_count: '23313'
+read_at: ''
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/897991189
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/12868204-all-you-need-is-kill\"\
+  >All You Need Is Kill Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1421542447&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/12868204-all-you-need-is-kill?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '14887946'
+        link: https://www.goodreads.com/author/show/14887946.Max_Nowaz
+        name: Max Nowaz
+    average_rating: '4.02'
+    id: '101265124'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SX98_.jpg
+    isbn: '1803133961'
+    isbn13: '9781803133966'
+    link: https://www.goodreads.com/book/show/101265124-the-polymorph
+    num_pages: '0'
+    publication_day: '4'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '23313'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SY75_.jpg
+    title: The Polymorph
+    title_without_series: The Polymorph
+    uri: kca://book/amzn1.gr.book.v3.2WI1HTFNfz3UC2Zb
+    work:
+      id: '124767981'
+  - authors:
+      author:
+        id: '8314309'
+        link: https://www.goodreads.com/author/show/8314309.Ry_suke_Takeuchi
+        name: "Ry\u014Dsuke Takeuchi"
+    average_rating: '4.02'
+    id: '22545976'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513540437l/22545976._SX98_.jpg
+    isbn: '1421576015'
+    isbn13: '9781421576015'
+    link: https://www.goodreads.com/book/show/22545976-all-you-need-is-kill
+    num_pages: '425'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '23313'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513540437l/22545976._SX50_.jpg
+    title: 'All You Need Is Kill (All You Need Is Kill Manga, #1-2)'
+    title_without_series: All You Need Is Kill
+    uri: kca://book/amzn1.gr.book.v1.xmfYf4_kWsiCqbI6xypJFg
+    work:
+      id: '50714146'
+  - authors:
+      author:
+        id: '8314309'
+        link: https://www.goodreads.com/author/show/8314309.Ry_suke_Takeuchi
+        name: "Ry\u014Dsuke Takeuchi"
+    average_rating: '4.02'
+    id: '22500160'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402984162l/22500160._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/22500160-all-you-need-is-kill-1
+    num_pages: '216'
+    publication_day: '19'
+    publication_month: '6'
+    publication_year: '2014'
+    ratings_count: '23313'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402984162l/22500160._SX50_.jpg
+    title: All You Need Is Kill 1
+    title_without_series: All You Need Is Kill 1
+    uri: kca://book/amzn1.gr.book.v1.Do4LlidhoZ5iuH5uRjWaWw
+    work:
+      id: '41946605'
+  - authors:
+      author:
+        id: '8314309'
+        link: https://www.goodreads.com/author/show/8314309.Ry_suke_Takeuchi
+        name: "Ry\u014Dsuke Takeuchi"
+    average_rating: '4.02'
+    id: '22500161'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402984165l/22500161._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/22500161-all-you-need-is-kill-2
+    num_pages: '216'
+    publication_day: '19'
+    publication_month: '6'
+    publication_year: '2014'
+    ratings_count: '23313'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402984165l/22500161._SX50_.jpg
+    title: All You Need Is Kill 2
+    title_without_series: All You Need Is Kill 2
+    uri: kca://book/amzn1.gr.book.v1._otusrXu43GLTxXPaMRfMA
+    work:
+      id: '41946606'
+  - authors:
+      author:
+        id: '14079179'
+        link: https://www.goodreads.com/author/show/14079179.Dan_Watters
+        name: Dan Watters
+    average_rating: '4.02'
+    id: '209812422'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1534357688'
+    isbn13: '9781534357686'
+    link: https://www.goodreads.com/book/show/209812422-destro-vol-1
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '23313'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Destro, Vol. 1: The Enemy'
+    title_without_series: 'Destro, Vol. 1: The Enemy'
+    uri: kca://book/amzn1.gr.book.v3.jSmFLxaY5LFhj7XN
+    work:
+      id: '216027182'
+  - authors:
+      author:
+        id: '14407836'
+        link: https://www.goodreads.com/author/show/14407836.A_R_Merrydew
+        name: A.R. Merrydew
+    average_rating: '4.02'
+    id: '215186841'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/215186841-inara
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '23313'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Inara (Godfrey Davis, #3)'
+    title_without_series: Inara
+    uri: kca://book/amzn1.gr.book.v3.wCOHuKhf0nZUkB2e
+    work:
+      id: '221595685'
+  - authors:
+      author:
+        id: '15015247'
+        link: https://www.goodreads.com/author/show/15015247.Michael_G_Kramer
+        name: Michael G. Kramer
+    average_rating: '4.02'
+    id: '60657747'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647831441l/60657747._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/60657747-a-gracious-enemy-after-the-war-volume-one
+    num_pages: '470'
+    publication_day: null
+    publication_month: '3'
+    publication_year: '2022'
+    ratings_count: '23313'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647831441l/60657747._SY75_.jpg
+    title: A Gracious Enemy & After the War Volume One
+    title_without_series: A Gracious Enemy & After the War Volume One
+    uri: kca://book/amzn1.gr.book.v3.Q7x9FGiRUqnbfArG
+    work:
+      id: '95622526'
+  - authors:
+      author:
+        id: '6852949'
+        link: https://www.goodreads.com/author/show/6852949.James_Tynion_IV
+        name: James Tynion IV
+    average_rating: '4.02'
+    id: '207297428'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1637969813'
+    isbn13: '9781637969816'
+    link: https://www.goodreads.com/book/show/207297428-house-of-slaughter-vol-5
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '23313'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'House of Slaughter, Vol. 5: The Butcher''s War'
+    title_without_series: 'House of Slaughter, Vol. 5: The Butcher''s War'
+    uri: kca://book/amzn1.gr.book.v3.b-gkUOY0lcVXhHUN
+    work:
+      id: '213367750'
+  - authors:
+      author:
+        id: '4369922'
+        link: https://www.goodreads.com/author/show/4369922.Kameron_Hurley
+        name: Kameron Hurley
+    average_rating: '4.02'
+    id: '29090844'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455431216l/29090844._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/29090844-the-stars-are-legion
+    num_pages: '512'
+    publication_day: '7'
+    publication_month: '2'
+    publication_year: '2017'
+    ratings_count: '23313'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455431216l/29090844._SY75_.jpg
+    title: The Stars Are Legion
+    title_without_series: The Stars Are Legion
+    uri: kca://book/amzn1.gr.book.v1.GHnz5Qv1yxB5kdryallyJQ
+    work:
+      id: '21836212'
+  - authors:
+      author:
+        id: '7448339'
+        link: https://www.goodreads.com/author/show/7448339.Steven_Decker
+        name: Steven Decker
+    average_rating: '4.02'
+    id: '215515923'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: '9798988926245'
+    link: https://www.goodreads.com/book/show/215515923-one-more-life-to-live
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '23313'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: One More Life to Live (Edward and the Bricklayer Book 1)
+    title_without_series: One More Life to Live
+    uri: kca://book/amzn1.gr.book.v3.w9Z8_uIuGqF6nDxb
+    work:
+      id: '221943269'
+  - authors:
+      author:
+        id: '3234099'
+        link: https://www.goodreads.com/author/show/3234099.Project_Itoh
+        name: Project Itoh
+    average_rating: '4.02'
+    id: '13163514'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344400256l/13163514._SX98_.jpg
+    isbn: '1421542722'
+    isbn13: '9781421542720'
+    link: https://www.goodreads.com/book/show/13163514-genocidal-organ
+    num_pages: '297'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '23313'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344400256l/13163514._SY75_.jpg
+    title: Genocidal Organ
+    title_without_series: Genocidal Organ
+    uri: kca://book/amzn1.gr.book.v1.RjykyPDjzjWE1xRLlC3jWQ
+    work:
+      id: '18342508'
+  - authors:
+      author:
+        id: '35022'
+        link: https://www.goodreads.com/author/show/35022.Marjorie_M_Liu
+        name: Marjorie M. Liu
+    average_rating: '4.02'
+    id: '207296816'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1730283575l/207296816._SX98_.jpg
+    isbn: '1534392610'
+    isbn13: '9781534392618'
+    link: https://www.goodreads.com/book/show/207296816-monstress-volume-9
+    num_pages: '192'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '23313'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1730283575l/207296816._SY75_.jpg
+    title: 'Monstress, Volume 9: The Possessed'
+    title_without_series: 'Monstress, Volume 9: The Possessed'
+    uri: kca://book/amzn1.gr.book.v3.IkTUItv8CYnO0g2v
+    work:
+      id: '213367161'
+  - authors:
+      author:
+        id: '12425'
+        link: https://www.goodreads.com/author/show/12425.Robert_Kirkman
+        name: Robert Kirkman
+    average_rating: '4.02'
+    id: '213877815'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1534328378'
+    isbn13: '9781534328372'
+    link: https://www.goodreads.com/book/show/213877815-void-rivals-vol-2
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '23313'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Void Rivals, Vol. 2: Hunted Across the Wasteland'
+    title_without_series: 'Void Rivals, Vol. 2: Hunted Across the Wasteland'
+    uri: kca://book/amzn1.gr.book.v3.nh7bdq_Q_y_Pwvu3
+    work:
+      id: '220136872'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.02'
+    id: '201930181'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SX98_.jpg
+    isbn: 031652557X
+    isbn13: '9780316525572'
+    link: https://www.goodreads.com/book/show/201930181-the-mercy-of-gods
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '23313'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SY75_.jpg
+    title: "The Mercy of Gods (The Captive\u2019s War, #1)"
+    title_without_series: The Mercy of Gods
+    uri: kca://book/amzn1.gr.book.v3.nndIiP3mF2vHLfgz
+    work:
+      id: '95320019'
+  - authors:
+      author:
+        id: '1641284'
+        link: https://www.goodreads.com/author/show/1641284.Charles_Soule
+        name: Charles Soule
+    average_rating: '4.02'
+    id: '210499044'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722844595l/210499044._SX98_.jpg
+    isbn: '1302954784'
+    isbn13: '9781302954789'
+    link: https://www.goodreads.com/book/show/210499044-star-wars-vol-8
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '23313'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722844595l/210499044._SY75_.jpg
+    title: 'Star Wars, Vol. 8: The Sith and the Skywalker'
+    title_without_series: 'Star Wars, Vol. 8: The Sith and the Skywalker'
+    uri: kca://book/amzn1.gr.book.v3.S7NheC6oGEizKtRE
+    work:
+      id: '216714791'
+  - authors:
+      author:
+        id: '1641284'
+        link: https://www.goodreads.com/author/show/1641284.Charles_Soule
+        name: Charles Soule
+    average_rating: '4.02'
+    id: '210499010'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738020037l/210499010._SX98_.jpg
+    isbn: '1302954792'
+    isbn13: '9781302954796'
+    link: https://www.goodreads.com/book/show/210499010-star-wars-vol-9
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '23313'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738020037l/210499010._SY75_.jpg
+    title: 'Star Wars, Vol. 9: The Path of Light'
+    title_without_series: 'Star Wars, Vol. 9: The Path of Light'
+    uri: kca://book/amzn1.gr.book.v3.GZ0lgWH11mjJTYTl
+    work:
+      id: '216714757'
+  - authors:
+      author:
+        id: '89393'
+        link: https://www.goodreads.com/author/show/89393.Greg_Pak
+        name: Greg Pak
+    average_rating: '4.02'
+    id: '210595442'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738020057l/210595442._SX98_.jpg
+    isbn: '1302956183'
+    isbn13: '9781302956189'
+    link: https://www.goodreads.com/book/show/210595442-star-wars
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '23313'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738020057l/210595442._SY75_.jpg
+    title: 'Star Wars: Darth Vader, Vol. 10: Phantoms'
+    title_without_series: 'Star Wars: Darth Vader, Vol. 10: Phantoms'
+    uri: kca://book/amzn1.gr.book.v3.89A-IO6UHVkP4z-p
+    work:
+      id: '216814865'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.02'
+    id: '215760525'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724079438l/215760525._SX98_.jpg
+    isbn: 0316575348
+    isbn13: '9780316575348'
+    link: https://www.goodreads.com/book/show/215760525-livesuit
+    num_pages: '90'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '23313'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724079438l/215760525._SY75_.jpg
+    title: "Livesuit (The Captive\u2019s War #1.5)"
+    title_without_series: Livesuit
+    uri: kca://book/amzn1.gr.book.v3.Rr7d-BxEjSsqm-t3
+    work:
+      id: '222176366'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '177'
+  '@type': integer
+title: All You Need Is Kill
+title_without_series: All You Need Is Kill
+uri: kca://book/amzn1.gr.book.v1.1LEZBsiqHWcAfEWKfyKB8g
+url: https://www.goodreads.com/book/show/12868204-all-you-need-is-kill
+work:
+  id: '6439033'
+  uri: kca://work/amzn1.gr.work.v1.7XMGYNmmBaQpM6WTXL9YpQ

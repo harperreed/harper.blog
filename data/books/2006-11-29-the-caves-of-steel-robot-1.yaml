@@ -1,0 +1,810 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.17'
+    id: '16667'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1341965730p5/16667.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+    name: Isaac Asimov
+    ratings_count: '2651317'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1341965730p2/16667.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '96429'
+average_rating: '4.19'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-29T00:00:00-08:00'
+description: 'A millennium into the future two advancements have altered the course
+  of human history: the colonization of the galaxy and the creation of the positronic
+  brain. Isaac Asimov''s "Robot" novels chronicle the unlikely partnership between
+  a New York City detective and a humanoid robot who must learn to work together.
+  <br /><br />Like most people left behind on an over-populated Earth, New York City
+  police detective Elijah Baley had little love for either the arrogant Spacers or
+  their robotic companions. But when a prominent Spacer is murdered under mysterious
+  circumstances, Baley is ordered to the Outer Worlds to help track down the killer.
+  <br /><br />The relationship between Lije and his Spacer superiors, who distrusted
+  all Earthmen, was strained from the start. Then he learned that they had assigned
+  him a partner: R. Daneel Olivaw. Worst of all was that the "R" stood for robot--and
+  his positronic partner was made in the image and likeness of the murder victim!'
+edition_information: Reprint
+format: Mass Market Paperback
+id: '76677'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439756390l/76677._SX98_.jpg
+is_ebook: 'false'
+isbn: 0553293400
+isbn13: '9780553293401'
+json: '{"id": "76677", "isbn": "0553293400", "isbn13": "9780553293401", "text_reviews_count":
+  {"@type": "integer", "#text": "321"}, "uri": "kca://book/amzn1.gr.book.v1.1cJXK3dfuAyRU580QP2edA",
+  "title": "The Caves of Steel (Robot, #1)", "title_without_series": "The Caves of
+  Steel", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439756390l/76677._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439756390l/76677._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/76677.The_Caves_of_Steel",
+  "num_pages": "272", "format": "Mass Market Paperback", "edition_information": "Reprint",
+  "publisher": "Spectra/Bantam Books", "publication_day": null, "publication_year":
+  "1991", "publication_month": "12", "average_rating": "4.19", "ratings_count": "106680",
+  "description": "A millennium into the future two advancements have altered the course
+  of human history: the colonization of the galaxy and the creation of the positronic
+  brain. Isaac Asimov''s \"Robot\" novels chronicle the unlikely partnership between
+  a New York City detective and a humanoid robot who must learn to work together.
+  <br /><br />Like most people left behind on an over-populated Earth, New York City
+  police detective Elijah Baley had little love for either the arrogant Spacers or
+  their robotic companions. But when a prominent Spacer is murdered under mysterious
+  circumstances, Baley is ordered to the Outer Worlds to help track down the killer.
+  <br /><br />The relationship between Lije and his Spacer superiors, who distrusted
+  all Earthmen, was strained from the start. Then he learned that they had assigned
+  him a partner: R. Daneel Olivaw. Worst of all was that the \"R\" stood for robot--and
+  his positronic partner was made in the image and likeness of the murder victim!",
+  "authors": {"author": {"id": "16667", "name": "Isaac Asimov", "role": null, "image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1341965730p5/16667.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1341965730p2/16667.jpg"},
+  "link": "https://www.goodreads.com/author/show/16667.Isaac_Asimov", "average_rating":
+  "4.17", "ratings_count": "2651317", "text_reviews_count": "96429"}}, "published":
+  "1991", "work": {"id": "140376", "uri": "kca://work/amzn1.gr.work.v1.Gk6tFVFTSspQTPCftZCEGQ"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417566",
+  "read_at": "Wed Nov 29 00:00:00 -0800 2006", "started_at": "", "date": "Wed Nov
+  29 00:00:00 -0800 2006"}'
+kindle_asin: null
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/76677.The_Caves_of_Steel
+marketplace_id: null
+num_pages: '272'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '59737'
+    '@name': to-read
+  - '@count': '3802'
+    '@name': science-fiction
+  - '@count': '2929'
+    '@name': sci-fi
+  - '@count': '2678'
+    '@name': currently-reading
+  - '@count': '1159'
+    '@name': fiction
+  - '@count': '631'
+    '@name': scifi
+  - '@count': '593'
+    '@name': mystery
+  - '@count': '522'
+    '@name': favorites
+  - '@count': '498'
+    '@name': owned
+  - '@count': '378'
+    '@name': sf
+  - '@count': '371'
+    '@name': asimov
+  - '@count': '357'
+    '@name': classics
+  - '@count': '247'
+    '@name': isaac-asimov
+  - '@count': '194'
+    '@name': robots
+  - '@count': '184'
+    '@name': sci-fi-fantasy
+  - '@count': '167'
+    '@name': audiobook
+  - '@count': '166'
+    '@name': default
+  - '@count': '163'
+    '@name': series
+  - '@count': '148'
+    '@name': kindle
+  - '@count': '122'
+    '@name': ebook
+  - '@count': '121'
+    '@name': crime
+  - '@count': '117'
+    '@name': fantascienza
+  - '@count': '115'
+    '@name': library
+  - '@count': '115'
+    '@name': books-i-own
+  - '@count': '114'
+    '@name': "ciencia-ficci\xF3n"
+  - '@count': '103'
+    '@name': classic
+  - '@count': '95'
+    '@name': detective
+  - '@count': '95'
+    '@name': audiobooks
+  - '@count': '88'
+    '@name': novels
+  - '@count': '86'
+    '@name': fantasy
+  - '@count': '82'
+    '@name': scifi-fantasy
+  - '@count': '77'
+    '@name': robot
+  - '@count': '69'
+    '@name': science-fiction-fantasy
+  - '@count': '68'
+    '@name': ebooks
+  - '@count': '67'
+    '@name': owned-books
+  - '@count': '67'
+    '@name': novel
+  - '@count': '66'
+    '@name': science
+  - '@count': '63'
+    '@name': to-buy
+  - '@count': '62'
+    '@name': audio
+  - '@count': '60'
+    '@name': speculative-fiction
+  - '@count': '58'
+    '@name': english
+  - '@count': '54'
+    '@name': books
+  - '@count': '51'
+    '@name': my-library
+  - '@count': '48'
+    '@name': 1950s
+  - '@count': '48'
+    '@name': sf-fantasy
+  - '@count': '47'
+    '@name': ciencia-ficcion
+  - '@count': '45'
+    '@name': sff
+  - '@count': '43'
+    '@name': american
+  - '@count': '42'
+    '@name': book-club
+  - '@count': '42'
+    '@name': audible
+  - '@count': '41'
+    '@name': "fic\xE7\xE3o-cient\xEDfica"
+  - '@count': '40'
+    '@name': paperback
+  - '@count': '39'
+    '@name': my-books
+  - '@count': '39'
+    '@name': favourites
+  - '@count': '38'
+    '@name': e-book
+  - '@count': '38'
+    '@name': fantasy-sci-fi
+  - '@count': '37'
+    '@name': foundation
+  - '@count': '36'
+    '@name': re-read
+  - '@count': '36'
+    '@name': 20th-century
+  - '@count': '36'
+    '@name': classic-sci-fi
+  - '@count': '35'
+    '@name': have
+  - '@count': '34'
+    '@name': dystopia
+  - '@count': '34'
+    '@name': usa
+  - '@count': '34'
+    '@name': adult
+  - '@count': '33'
+    '@name': dystopian
+  - '@count': '33'
+    '@name': audio-book
+  - '@count': '31'
+    '@name': robot-series
+  - '@count': '30'
+    '@name': audio-books
+  - '@count': '30'
+    '@name': unread
+  - '@count': '30'
+    '@name': artificial-intelligence
+  - '@count': '30'
+    '@name': sci-fi-and-fantasy
+  - '@count': '30'
+    '@name': mystery-thriller
+  - '@count': '29'
+    '@name': reread
+  - '@count': '28'
+    '@name': fantasy-scifi
+  - '@count': '27'
+    '@name': calibre
+  - '@count': '26'
+    '@name': tbr
+  - '@count': '26'
+    '@name': physical
+  - '@count': '26'
+    '@name': foundation-universe
+  - '@count': '26'
+    '@name': thriller
+  - '@count': '26'
+    '@name': sciencefiction
+  - '@count': '25'
+    '@name': asimov-isaac
+  - '@count': '24'
+    '@name': space
+  - '@count': '23'
+    '@name': sf-f
+  - '@count': '23'
+    '@name': i-own
+  - '@count': '22'
+    '@name': literature
+  - '@count': '22'
+    '@name': wish-list
+  - '@count': '22'
+    '@name': own-it
+  - '@count': '21'
+    '@name': tenho
+  - '@count': '21'
+    '@name': novela
+  - '@count': '21'
+    '@name': science-fiction-and-fantasy
+  - '@count': '21'
+    '@name': space-opera
+  - '@count': '21'
+    '@name': mysteries
+  - '@count': '20'
+    '@name': physical-tbr
+  - '@count': '20'
+    '@name': fiction-sci-fi
+  - '@count': '20'
+    '@name': classic-scifi
+  - '@count': '19'
+    '@name': bookshelf
+  - '@count': '19'
+    '@name': collection
+  - '@count': '19'
+    '@name': finished
+  - '@count': '18'
+    '@name': favoritos
+  - '@count': '18'
+    '@name': e-books
+publication_day: null
+publication_month: '12'
+publication_year: '1991'
+published: '1991'
+publisher: Spectra/Bantam Books
+ratings_count: '106680'
+read_at: '2006-11-29T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417566
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/76677.The_Caves_of_Steel\"\
+  >The Caves of Steel Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0553293400&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/76677.The_Caves_of_Steel?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+  - id: '534521'
+    series:
+      description: "Part of the <a href=\"http://www.goodreads.com/series/49421-foundation-universe\"\
+        >Foundation Universe</a>\n    \n    This series of short stories and novels\
+        \ featuring positronic robots are set in the first age of positronic robotics\
+        \ and space exploration.\n    \n    The unique feature of Asimov's robots\
+        \ are the Three Laws of Robotics, hardwired in a robot's positronic brain,\
+        \ which all robots in his fiction must obey, and which ensure that the robot\
+        \ does not turn against its creators."
+      id: '49175'
+      note: "According to Asimov, The Complete Robot was the first book in the series,\
+        \ although it did include all the stories in the earlier I, Robot and The\
+        \ Rest of the Robots. \n    Therefore the earlier collections might be considered\
+        \ precursors for the entire series.\n    \n    The remaining short story collections\
+        \ and The Positronic Man chronologically fall between The Complete Robot and\
+        \ the The Caves of Steel.\n    One could also argue that the Tiedemann/Irvine\
+        \ Robot Mystery series as well as Allen's Caliban series belong in the series."
+      numbered: 'true'
+      primary_work_count: '4'
+      series_works_count: '18'
+      title: Robot
+    user_position: '1'
+  - id: '1754726'
+    series:
+      description: Robot series in chronological-story order.
+      id: '311238'
+      note: null
+      numbered: 'true'
+      primary_work_count: '4'
+      series_works_count: '6'
+      title: Robot, chronological order
+    user_position: '1'
+  - id: '534540'
+    series:
+      description: "Asimov's <i>Greater Foundation Universe</i> consists of the <a\
+        \ href=\"http://www.goodreads.com/series/43817-galactic-empire\">Empire</a>\
+        \ series, <a href=\"http://www.goodreads.com/series/43939-foundation\">Foundation</a>\
+        \ series, and <a href=\"http://www.goodreads.com/series/49175-robot\">Robot</a>\
+        \ series. Originally published as separate series, Asimov later combined them\
+        \ into one universe.\n    \n    This gave the series a total of 15 novels\
+        \ and a time-span of approximately 20,000 years across the whole series.\n\
+        \    \n    The following books are listed in Asimov's suggested reading order\
+        \ from the published work <i>Prelude to Foundation</i>.\n    \n    See also\
+        \ the Persian series: <a href=\"https://www.goodreads.com/series/177739\"\
+        >\u0633\u0631\u06CC \u0628\u0646\u06CC\u0627\u062F</a>"
+      id: '49421'
+      note: http://en.wikipedia.org/wiki/Foundation_Trilogy#List_of_books_within_the_Foundation_Universe
+      numbered: 'false'
+      primary_work_count: '14'
+      series_works_count: '17'
+      title: Greater Foundation Universe
+    user_position: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '7779'
+        link: https://www.goodreads.com/author/show/7779.Arthur_C_Clarke
+        name: Arthur C. Clarke
+    average_rating: '4.19'
+    id: '112537'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405456427l/112537._SY160_.jpg
+    isbn: '1857231589'
+    isbn13: '9781857231588'
+    link: https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama
+    num_pages: '243'
+    publication_day: null
+    publication_month: null
+    publication_year: '2000'
+    ratings_count: '106680'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405456427l/112537._SY75_.jpg
+    title: 'Rendezvous with Rama (Rama, #1)'
+    title_without_series: Rendezvous with Rama
+    uri: kca://book/amzn1.gr.book.v1.Vu-wksNB4dVDuhWGrfcb1A
+    work:
+      id: '1882772'
+  - authors:
+      author:
+        id: '7779'
+        link: https://www.goodreads.com/author/show/7779.Arthur_C_Clarke
+        name: Arthur C. Clarke
+    average_rating: '4.19'
+    id: '414999'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320552628l/414999._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/414999.Childhood_s_End
+    num_pages: '224'
+    publication_day: '12'
+    publication_month: '5'
+    publication_year: '1987'
+    ratings_count: '106680'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320552628l/414999._SY75_.jpg
+    title: "Childhood\u2019s End"
+    title_without_series: "Childhood\u2019s End"
+    uri: kca://book/amzn1.gr.book.v1.NkBnzKp3gs-V7RVPx1-LiA
+    work:
+      id: '209414'
+  - authors:
+      author:
+        id: '7779'
+        link: https://www.goodreads.com/author/show/7779.Arthur_C_Clarke
+        name: Arthur C. Clarke
+    average_rating: '4.19'
+    id: '70535'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/70535.2001
+    num_pages: '297'
+    publication_day: '1'
+    publication_month: '9'
+    publication_year: '2000'
+    ratings_count: '106680'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: '2001: A Space Odyssey (Space Odyssey, #1)'
+    title_without_series: '2001: A Space Odyssey'
+    uri: kca://book/amzn1.gr.book.v1.VRJUp88y7rA1NIF5WcD2vg
+    work:
+      id: '208362'
+  - authors:
+      author:
+        id: '16377870'
+        link: https://www.goodreads.com/author/show/16377870.Paul_French
+        name: Paul  French
+    average_rating: '4.19'
+    id: '588497'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0450019993
+    isbn13: '9780450019999'
+    link: https://www.goodreads.com/book/show/588497.The_Rings_of_Saturn
+    num_pages: '144'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '106680'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Rings of Saturn (Lucky Starr, #6)'
+    title_without_series: The Rings of Saturn
+    uri: kca://book/amzn1.gr.book.v1.tRtcy16v3PUJKABjGsE8Cg
+    work:
+      id: '575295'
+  - authors:
+      author:
+        id: '4764'
+        link: https://www.goodreads.com/author/show/4764.Philip_K_Dick
+        name: Philip K. Dick
+    average_rating: '4.19'
+    id: '36402034'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507838927l/36402034._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/36402034-do-androids-dream-of-electric-sheep
+    num_pages: '258'
+    publication_day: '26'
+    publication_month: '2'
+    publication_year: '2008'
+    ratings_count: '106680'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507838927l/36402034._SY75_.jpg
+    title: Do Androids Dream of Electric Sheep?
+    title_without_series: Do Androids Dream of Electric Sheep?
+    uri: kca://book/amzn1.gr.book.v1.lENz7wsiugnkZNIWJ-zhOg
+    work:
+      id: '830939'
+  - authors:
+      author:
+        id: '205'
+        link: https://www.goodreads.com/author/show/205.Robert_A_Heinlein
+        name: Robert A. Heinlein
+    average_rating: '4.19'
+    id: '16690'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0340837942
+    isbn13: '9780340837948'
+    link: https://www.goodreads.com/book/show/16690.The_Moon_Is_a_Harsh_Mistress
+    num_pages: '288'
+    publication_day: '14'
+    publication_month: '3'
+    publication_year: '2005'
+    ratings_count: '106680'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Moon Is a Harsh Mistress
+    title_without_series: The Moon Is a Harsh Mistress
+    uri: kca://book/amzn1.gr.book.v1.VUvbEFZyNN18oMv_T4imsQ
+    work:
+      id: '1048525'
+  - authors:
+      author:
+        id: '2687'
+        link: https://www.goodreads.com/author/show/2687.Dan_Simmons
+        name: Dan Simmons
+    average_rating: '4.19'
+    id: '77566'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405546838l/77566._SY160_.jpg
+    isbn: 0553283685
+    isbn13: '9780553283686'
+    link: https://www.goodreads.com/book/show/77566.Hyperion
+    num_pages: '500'
+    publication_day: null
+    publication_month: '3'
+    publication_year: '1990'
+    ratings_count: '106680'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405546838l/77566._SY75_.jpg
+    title: 'Hyperion (Hyperion Cantos, #1)'
+    title_without_series: Hyperion
+    uri: kca://book/amzn1.gr.book.v1.2xaw98fU9vu-PP2TJ7Wgyw
+    work:
+      id: '1383900'
+  - authors:
+      author:
+        id: '14887946'
+        link: https://www.goodreads.com/author/show/14887946.Max_Nowaz
+        name: Max Nowaz
+    average_rating: '4.19'
+    id: '101265124'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SX98_.jpg
+    isbn: '1803133961'
+    isbn13: '9781803133966'
+    link: https://www.goodreads.com/book/show/101265124-the-polymorph
+    num_pages: '0'
+    publication_day: '4'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '106680'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SY75_.jpg
+    title: The Polymorph
+    title_without_series: The Polymorph
+    uri: kca://book/amzn1.gr.book.v3.2WI1HTFNfz3UC2Zb
+    work:
+      id: '124767981'
+  - authors:
+      author:
+        id: '9226'
+        link: https://www.goodreads.com/author/show/9226.William_Gibson
+        name: William Gibson
+    average_rating: '4.19'
+    id: '6088007'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554437249l/6088007._SX98_.jpg
+    isbn: 110114646X
+    isbn13: '9781101146460'
+    link: https://www.goodreads.com/book/show/6088007-neuromancer
+    num_pages: '288'
+    publication_day: '3'
+    publication_month: '3'
+    publication_year: '2007'
+    ratings_count: '106680'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554437249l/6088007._SY75_.jpg
+    title: 'Neuromancer (Sprawl, #1)'
+    title_without_series: Neuromancer
+    uri: kca://book/amzn1.gr.book.v1._7m4DTRn8iapMvlxW1amew
+    work:
+      id: '909457'
+  - authors:
+      author:
+        id: '5780686'
+        link: https://www.goodreads.com/author/show/5780686.Liu_Cixin
+        name: Liu Cixin
+    average_rating: '4.19'
+    id: '20518872'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/20518872-the-three-body-problem
+    num_pages: '472'
+    publication_day: '11'
+    publication_month: '11'
+    publication_year: '2014'
+    ratings_count: '106680'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872._SY75_.jpg
+    title: "The Three-Body Problem (Remembrance of Earth\u2019s Past, #1)"
+    title_without_series: The Three-Body Problem
+    uri: kca://book/amzn1.gr.book.v1.oUcAcIZioskWIAd_9N2ijQ
+    work:
+      id: '25696480'
+  - authors:
+      author:
+        id: '1630'
+        link: https://www.goodreads.com/author/show/1630.Ray_Bradbury
+        name: Ray Bradbury
+    average_rating: '4.19'
+    id: '76778'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661016554l/76778._SY160_.jpg
+    isbn: 0553278223
+    isbn13: '9780553278224'
+    link: https://www.goodreads.com/book/show/76778.The_Martian_Chronicles
+    num_pages: '182'
+    publication_day: '1'
+    publication_month: '6'
+    publication_year: '1984'
+    ratings_count: '106680'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661016554l/76778._SY75_.jpg
+    title: The Martian Chronicles
+    title_without_series: The Martian Chronicles
+    uri: kca://book/amzn1.gr.book.v1.Z4-nLpaObLOLtclM_vKfPA
+    work:
+      id: '4636013'
+  - authors:
+      author:
+        id: '12534'
+        link: https://www.goodreads.com/author/show/12534.Larry_Niven
+        name: Larry Niven
+    average_rating: '4.19'
+    id: '61179'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408793358l/61179._SX98_.jpg
+    isbn: '0575077026'
+    isbn13: '9780575077027'
+    link: https://www.goodreads.com/book/show/61179.Ringworld
+    num_pages: '288'
+    publication_day: '9'
+    publication_month: '6'
+    publication_year: '2005'
+    ratings_count: '106680'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408793358l/61179._SY75_.jpg
+    title: 'Ringworld (Ringworld, #1)'
+    title_without_series: Ringworld
+    uri: kca://book/amzn1.gr.book.v1.G0bCjcuqzJnhojepH--hhg
+    work:
+      id: '924711'
+  - authors:
+      author:
+        id: '205'
+        link: https://www.goodreads.com/author/show/205.Robert_A_Heinlein
+        name: Robert A. Heinlein
+    average_rating: '4.19'
+    id: '17214'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614054412l/17214._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/17214.Starship_Troopers
+    num_pages: '264'
+    publication_day: null
+    publication_month: '5'
+    publication_year: '1987'
+    ratings_count: '106680'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614054412l/17214._SY75_.jpg
+    title: Starship Troopers
+    title_without_series: Starship Troopers
+    uri: kca://book/amzn1.gr.book.v1.WlcZG9NeWw7A-2d1-4B8sw
+    work:
+      id: '2534973'
+  - authors:
+      author:
+        id: '205'
+        link: https://www.goodreads.com/author/show/205.Robert_A_Heinlein
+        name: Robert A. Heinlein
+    average_rating: '4.19'
+    id: '350'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1156897088l/350._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land
+    num_pages: '525'
+    publication_day: '1'
+    publication_month: '10'
+    publication_year: '1991'
+    ratings_count: '106680'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1156897088l/350._SY75_.jpg
+    title: Stranger in a Strange Land
+    title_without_series: Stranger in a Strange Land
+    uri: kca://book/amzn1.gr.book.v1.8zej_WuuLGB01sVAycpjxg
+    work:
+      id: '908211'
+  - authors:
+      author:
+        id: '23561'
+        link: https://www.goodreads.com/author/show/23561.Michael_P_Kube_McDowell
+        name: Michael P. Kube-McDowell
+    average_rating: '4.19'
+    id: '41843'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0743479246
+    isbn13: '9780743479240'
+    link: https://www.goodreads.com/book/show/41843.Odyssey
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '106680'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Odyssey (Isaac Asimov''s Robot City, #1)'
+    title_without_series: Odyssey
+    uri: kca://book/amzn1.gr.book.v1.s7RAL2z8MaYGRqvpnHYIGw
+    work:
+      id: '436309'
+  - authors:
+      author:
+        id: '12476'
+        link: https://www.goodreads.com/author/show/12476.Joe_Haldeman
+        name: Joe Haldeman
+    average_rating: '4.19'
+    id: '21611'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386852511l/21611._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/21611.The_Forever_War
+    num_pages: '278'
+    publication_day: '2'
+    publication_month: '9'
+    publication_year: '2003'
+    ratings_count: '106680'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386852511l/21611._SY75_.jpg
+    title: 'The Forever War (The Forever War, #1)'
+    title_without_series: The Forever War
+    uri: kca://book/amzn1.gr.book.v1.QJnY72VlwmqvjPOEzRCdxQ
+    work:
+      id: '423'
+  - authors:
+      author:
+        id: '4764'
+        link: https://www.goodreads.com/author/show/4764.Philip_K_Dick
+        name: Philip K. Dick
+    average_rating: '4.19'
+    id: '22590'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '8498000831'
+    isbn13: '9788498000832'
+    link: https://www.goodreads.com/book/show/22590.Ubik
+    num_pages: '288'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '106680'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Ubik
+    title_without_series: Ubik
+    uri: kca://book/amzn1.gr.book.v1.9pFsU3pQhmNOKDut79rbCg
+    work:
+      id: '62929'
+  - authors:
+      author:
+        id: '5780686'
+        link: https://www.goodreads.com/author/show/5780686.Liu_Cixin
+        name: Liu Cixin
+    average_rating: '4.19'
+    id: '23168817'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412064931l/23168817._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/23168817-the-dark-forest
+    num_pages: '512'
+    publication_day: '11'
+    publication_month: '8'
+    publication_year: '2015'
+    ratings_count: '106680'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412064931l/23168817._SY75_.jpg
+    title: "The Dark Forest (Remembrance of Earth\u2019s Past, #2)"
+    title_without_series: The Dark Forest
+    uri: kca://book/amzn1.gr.book.v1.vTopmk9oajebqvm2DNDWNg
+    work:
+      id: '42713958'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439756390l/76677._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '321'
+  '@type': integer
+title: 'The Caves of Steel (Robot, #1)'
+title_without_series: The Caves of Steel
+uri: kca://book/amzn1.gr.book.v1.1cJXK3dfuAyRU580QP2edA
+url: https://www.goodreads.com/book/show/76677.The_Caves_of_Steel
+work:
+  id: '140376'
+  uri: kca://work/amzn1.gr.work.v1.Gk6tFVFTSspQTPCftZCEGQ

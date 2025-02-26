@@ -1,0 +1,350 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.76'
+    id: '7610'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1219592167p5/7610.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/7610.Jack_Williamson
+    name: Jack Williamson
+    ratings_count: '18227'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1219592167p2/7610.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '1978'
+average_rating: '3.32'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: null
+edition_information: null
+format: null
+id: '23927794'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn: '0575112050'
+isbn13: '9780575112056'
+json: '{"id": "23927794", "isbn": "0575112050", "isbn13": "9780575112056", "text_reviews_count":
+  {"@type": "integer", "#text": "0"}, "uri": "kca://book/amzn1.gr.book.v1.ujHUUbYuthguEyk8EFCroA",
+  "title": "Beachhead", "title_without_series": "Beachhead", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/23927794-beachhead",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.32", "ratings_count": "68", "description": null, "authors": {"author": {"id":
+  "7610", "name": "Jack Williamson", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1219592167p5/7610.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1219592167p2/7610.jpg"},
+  "link": "https://www.goodreads.com/author/show/7610.Jack_Williamson", "average_rating":
+  "3.76", "ratings_count": "18227", "text_reviews_count": "1978"}}, "published": null,
+  "work": {"id": "883317", "uri": "kca://work/amzn1.gr.work.v1.hDSyAvYmKJT_Oqe2WaGMMg"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417569",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B00EEBKPME
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/23927794-beachhead
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '51'
+    '@name': to-read
+  - '@count': '10'
+    '@name': science-fiction
+  - '@count': '5'
+    '@name': currently-reading
+  - '@count': '4'
+    '@name': mars
+  - '@count': '4'
+    '@name': fiction
+  - '@count': '4'
+    '@name': sci-fi
+  - '@count': '3'
+    '@name': owned
+  - '@count': '3'
+    '@name': sf
+  - '@count': '2'
+    '@name': default
+  - '@count': '2'
+    '@name': my-library
+  - '@count': '2'
+    '@name': sf-fantasy
+  - '@count': '2'
+    '@name': fantascienza
+  - '@count': '2'
+    '@name': to-read-own
+  - '@count': '2'
+    '@name': paperback
+  - '@count': '1'
+    '@name': engleski-jezik
+  - '@count': '1'
+    '@name': ain-t-got-but-want-has
+  - '@count': '1'
+    '@name': 1-on-my-bookshelf
+  - '@count': '1'
+    '@name': martian-sci-fi
+  - '@count': '1'
+    '@name': author-completion
+  - '@count': '1'
+    '@name': e-book
+  - '@count': '1'
+    '@name': non-letto
+  - '@count': '1'
+    '@name': mars-fiction
+  - '@count': '1'
+    '@name': westons-books
+  - '@count': '1'
+    '@name': wes-books
+  - '@count': '1'
+    '@name': library
+  - '@count': '1'
+    '@name': taggare
+  - '@count': '1'
+    '@name': autographed
+  - '@count': '1'
+    '@name': slaapkamer
+  - '@count': '1'
+    '@name': arsrc20
+  - '@count': '1'
+    '@name': martian
+  - '@count': '1'
+    '@name': my-sf
+  - '@count': '1'
+    '@name': soggiorno
+  - '@count': '1'
+    '@name': unowned-to-buy
+  - '@count': '1'
+    '@name': jack-williamson
+  - '@count': '1'
+    '@name': fiction-science-fiction
+  - '@count': '1'
+    '@name': _reviewed
+  - '@count': '1'
+    '@name': 1999-read
+  - '@count': '1'
+    '@name': 1997-read
+  - '@count': '1'
+    '@name': 1993-read
+  - '@count': '1'
+    '@name': physical-library
+  - '@count': '1'
+    '@name': the-library
+  - '@count': '1'
+    '@name': star-trek
+  - '@count': '1'
+    '@name': thriller
+  - '@count': '1'
+    '@name': hardcover
+  - '@count': '1'
+    '@name': ya
+  - '@count': '1'
+    '@name': science-fiction-fantasy
+  - '@count': '1'
+    '@name': '1993'
+  - '@count': '1'
+    '@name': fiction-a-z
+  - '@count': '1'
+    '@name': common-house
+  - '@count': '1'
+    '@name': fiction-mars
+  - '@count': '1'
+    '@name': read-yes
+  - '@count': '1'
+    '@name': own-yes
+  - '@count': '1'
+    '@name': hardcopy
+  - '@count': '1'
+    '@name': box-w2
+  - '@count': '1'
+    '@name': survival
+  - '@count': '1'
+    '@name': exploring-the-universe
+  - '@count': '1'
+    '@name': 1990-1999
+  - '@count': '1'
+    '@name': market
+  - '@count': '1'
+    '@name': mass
+  - '@count': '1'
+    '@name': softcover
+  - '@count': '1'
+    '@name': easton-press
+  - '@count': '1'
+    '@name': signed-first-or-limited-edition
+  - '@count': '1'
+    '@name': from-the-public-library
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '68'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417569
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/23927794-beachhead\"\
+  >Beachhead Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0575112050&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/23927794-beachhead?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '48885'
+        link: https://www.goodreads.com/author/show/48885.Kate_Wilhelm
+        name: Kate Wilhelm
+    average_rating: '3.32'
+    id: '968827'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460999710l/968827._SX98_.jpg
+    isbn: '0060146540'
+    isbn13: '9780060146542'
+    link: https://www.goodreads.com/book/show/968827.Where_Late_the_Sweet_Birds_Sang
+    num_pages: '251'
+    publication_day: '1'
+    publication_month: '12'
+    publication_year: '1977'
+    ratings_count: '68'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460999710l/968827._SY75_.jpg
+    title: Where Late the Sweet Birds Sang
+    title_without_series: Where Late the Sweet Birds Sang
+    uri: kca://book/amzn1.gr.book.v1.Bgb2APkNYtH5BnEeOgM3mg
+    work:
+      id: '953721'
+  - authors:
+      author:
+        id: '16667'
+        link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+        name: Isaac Asimov
+    average_rating: '3.32'
+    id: '41822'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325310236l/41822._SY160_.jpg
+    isbn: 0553293435
+    isbn13: '9780553293432'
+    link: https://www.goodreads.com/book/show/41822.The_Stars_Like_Dust
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325310236l/41822._SY75_.jpg
+    title: 'The Stars, Like Dust (Galactic Empire, #1)'
+    title_without_series: The Stars, Like Dust
+    uri: kca://book/amzn1.gr.book.v1.snBe1FOrajpMxz7JvD_aWg
+    work:
+      id: '1032075'
+  - authors:
+      author:
+        id: '27841'
+        link: https://www.goodreads.com/author/show/27841.Pat_Cadigan
+        name: Pat Cadigan
+    average_rating: '3.32'
+    id: '304809'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1264726398l/304809._SY160_.jpg
+    isbn: 0553295128
+    isbn13: '9780553295122'
+    link: https://www.goodreads.com/book/show/304809.Fools
+    num_pages: '299'
+    publication_day: '1'
+    publication_month: '10'
+    publication_year: '1992'
+    ratings_count: '68'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1264726398l/304809._SY75_.jpg
+    title: Fools
+    title_without_series: Fools
+    uri: kca://book/amzn1.gr.book.v1.b20JUyFkFG12SJ95acjC4g
+    work:
+      id: '2377750'
+  - authors:
+      author:
+        id: '3619'
+        link: https://www.goodreads.com/author/show/3619.Roger_Zelazny
+        name: Roger Zelazny
+    average_rating: '3.32'
+    id: '13821'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330127327l/13821._SX98_.jpg
+    isbn: '0060567236'
+    isbn13: '9780060567231'
+    link: https://www.goodreads.com/book/show/13821.Lord_of_Light
+    num_pages: '296'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '68'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330127327l/13821._SY75_.jpg
+    title: Lord of Light
+    title_without_series: Lord of Light
+    uri: kca://book/amzn1.gr.book.v1.KNw7xhhOdJxvPhsfeQVO-g
+    work:
+      id: '1011388'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '0'
+  '@type': integer
+title: Beachhead
+title_without_series: Beachhead
+uri: kca://book/amzn1.gr.book.v1.ujHUUbYuthguEyk8EFCroA
+url: https://www.goodreads.com/book/show/23927794-beachhead
+work:
+  id: '883317'
+  uri: kca://work/amzn1.gr.work.v1.hDSyAvYmKJT_Oqe2WaGMMg

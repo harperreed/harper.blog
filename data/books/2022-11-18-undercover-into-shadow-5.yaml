@@ -1,0 +1,761 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.25'
+    id: '6876324'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1543423040p5/6876324.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/6876324.Tamsyn_Muir
+    name: Tamsyn Muir
+    ratings_count: '314831'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1543423040p2/6876324.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '54597'
+average_rating: '3.99'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2022-11-18T00:00:00-08:00'
+description: "When a stranger comes to town, secrets are sure to come out. New York\
+  \ Times bestselling author Tamsyn Muir spins a twisty\u2014and twisted\u2014short\
+  \ story of revenge and survival.<br /><br />A fresh-faced newcomer arrives in an\
+  \ isolated, gang-run town and soon finds herself taking a job nobody else wants:\
+  \ bodyguard to a ghoul. Not just your average mindless, half-rotted shuffler, though.\
+  \ Lucille is a dancer who can still put on her own lipstick and whose shows are\
+  \ half burlesque, half gladiator match. But the stranger is no stranger to this\
+  \ particular ghoul. Both women are undercover in their own way. And both have something\
+  \ to lose if their connection comes to light."
+edition_information: null
+format: Kindle Edition
+id: '62991424'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665768074l/62991424._SX98_.jpg
+is_ebook: 'true'
+isbn: '1662509456'
+isbn13: '9781662509452'
+json: '{"id": "62991424", "isbn": "1662509456", "isbn13": "9781662509452", "text_reviews_count":
+  {"@type": "integer", "#text": "1071"}, "uri": "kca://book/amzn1.gr.book.v3.7FAxm2igY6JaWTFJ",
+  "title": "Undercover (Into Shadow, #5)", "title_without_series": "Undercover", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665768074l/62991424._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665768074l/62991424._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/62991424-undercover",
+  "num_pages": "59", "format": "Kindle Edition", "edition_information": null, "publisher":
+  "Amazon Original Stories", "publication_day": "15", "publication_year": "2022",
+  "publication_month": "11", "average_rating": "3.99", "ratings_count": "6139", "description":
+  "When a stranger comes to town, secrets are sure to come out. New York Times bestselling
+  author Tamsyn Muir spins a twisty\u2014and twisted\u2014short story of revenge and
+  survival.<br /><br />A fresh-faced newcomer arrives in an isolated, gang-run town
+  and soon finds herself taking a job nobody else wants: bodyguard to a ghoul. Not
+  just your average mindless, half-rotted shuffler, though. Lucille is a dancer who
+  can still put on her own lipstick and whose shows are half burlesque, half gladiator
+  match. But the stranger is no stranger to this particular ghoul. Both women are
+  undercover in their own way. And both have something to lose if their connection
+  comes to light.", "authors": {"author": {"id": "6876324", "name": "Tamsyn Muir",
+  "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1543423040p5/6876324.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1543423040p2/6876324.jpg"},
+  "link": "https://www.goodreads.com/author/show/6876324.Tamsyn_Muir", "average_rating":
+  "4.25", "ratings_count": "314831", "text_reviews_count": "54597"}}, "published":
+  "2022", "work": {"id": "98826696", "uri": "kca://work/amzn1.gr.work.v3.DeiTsM573302ZKLl"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/5112768095",
+  "read_at": "Fri Nov 18 00:00:00 -0800 2022", "started_at": "Fri Nov 18 00:00:00
+  -0800 2022", "date": "Fri Nov 18 00:00:00 -0800 2022"}'
+kindle_asin: B0BGQ5ZCMD
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/62991424-undercover
+marketplace_id: ATVPDKIKX0DER
+num_pages: '59'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '6562'
+    '@name': to-read
+  - '@count': '531'
+    '@name': currently-reading
+  - '@count': '279'
+    '@name': fantasy
+  - '@count': '247'
+    '@name': horror
+  - '@count': '230'
+    '@name': short-stories
+  - '@count': '67'
+    '@name': fiction
+  - '@count': '60'
+    '@name': kindle
+  - '@count': '60'
+    '@name': lgbt
+  - '@count': '57'
+    '@name': lgbtq
+  - '@count': '56'
+    '@name': kindle-unlimited
+  - '@count': '54'
+    '@name': short-story
+  - '@count': '51'
+    '@name': audiobook
+  - '@count': '50'
+    '@name': queer
+  - '@count': '47'
+    '@name': sapphic
+  - '@count': '47'
+    '@name': novella
+  - '@count': '40'
+    '@name': favorites
+  - '@count': '40'
+    '@name': ebook
+  - '@count': '39'
+    '@name': read-in-2023
+  - '@count': '39'
+    '@name': lgbtqia
+  - '@count': '37'
+    '@name': audiobooks
+  - '@count': '36'
+    '@name': adult
+  - '@count': '32'
+    '@name': 2023-reads
+  - '@count': '22'
+    '@name': novellas
+  - '@count': '22'
+    '@name': audible
+  - '@count': '21'
+    '@name': 2022-releases
+  - '@count': '19'
+    '@name': series
+  - '@count': '19'
+    '@name': audio
+  - '@count': '19'
+    '@name': science-fiction
+  - '@count': '18'
+    '@name': ebooks
+  - '@count': '17'
+    '@name': dnf
+  - '@count': '17'
+    '@name': ku
+  - '@count': '17'
+    '@name': dark
+  - '@count': '15'
+    '@name': paranormal
+  - '@count': '15'
+    '@name': mystery
+  - '@count': '15'
+    '@name': wlw
+  - '@count': '15'
+    '@name': short-stories-novellas
+  - '@count': '14'
+    '@name': sci-fi
+  - '@count': '14'
+    '@name': owned
+  - '@count': '13'
+    '@name': tbr
+  - '@count': '13'
+    '@name': zombies
+  - '@count': '12'
+    '@name': read-in-english
+  - '@count': '11'
+    '@name': read-2024
+  - '@count': '11'
+    '@name': 4-stars
+  - '@count': '11'
+    '@name': audio-books
+  - '@count': '11'
+    '@name': short-stories-and-novellas
+  - '@count': '11'
+    '@name': read-2022
+  - '@count': '11'
+    '@name': shorts
+  - '@count': '10'
+    '@name': 2023-read
+  - '@count': '10'
+    '@name': urban-fantasy
+  - '@count': '10'
+    '@name': short
+  - '@count': '10'
+    '@name': read-in-2022
+  - '@count': '10'
+    '@name': short-fiction
+  - '@count': '9'
+    '@name': read-in-2024
+  - '@count': '9'
+    '@name': read-2023
+  - '@count': '9'
+    '@name': e-book
+  - '@count': '9'
+    '@name': dystopian
+  - '@count': '9'
+    '@name': borrowed
+  - '@count': '8'
+    '@name': supernatural
+  - '@count': '8'
+    '@name': audio-book
+  - '@count': '8'
+    '@name': f-f
+  - '@count': '8'
+    '@name': prime-reading
+  - '@count': '8'
+    '@name': sci-fi-fantasy
+  - '@count': '8'
+    '@name': novellas-and-short-stories
+  - '@count': '7'
+    '@name': 2024-reads
+  - '@count': '7'
+    '@name': short-story-novella
+  - '@count': '7'
+    '@name': lgbtqa
+  - '@count': '7'
+    '@name': kindle-tbr
+  - '@count': '7'
+    '@name': sff
+  - '@count': '7'
+    '@name': 2022-release
+  - '@count': '7'
+    '@name': prime
+  - '@count': '7'
+    '@name': scifi
+  - '@count': '7'
+    '@name': dark-fantasy
+  - '@count': '7'
+    '@name': dystopia
+  - '@count': '7'
+    '@name': e-books
+  - '@count': '7'
+    '@name': 2022-read
+  - '@count': '7'
+    '@name': speculative-fiction
+  - '@count': '6'
+    '@name': short-books
+  - '@count': '6'
+    '@name': english
+  - '@count': '6'
+    '@name': fantasy-sci-fi
+  - '@count': '6'
+    '@name': lesbian
+  - '@count': '6'
+    '@name': adult-fantasy
+  - '@count': '5'
+    '@name': crime
+  - '@count': '5'
+    '@name': library
+  - '@count': '5'
+    '@name': favourites
+  - '@count': '5'
+    '@name': thriller
+  - '@count': '5'
+    '@name': sapphic-rep
+  - '@count': '5'
+    '@name': lgbtq-rep
+  - '@count': '5'
+    '@name': 5-stars
+  - '@count': '5'
+    '@name': want-to-buy
+  - '@count': '5'
+    '@name': standalone
+  - '@count': '5'
+    '@name': horror-thriller
+  - '@count': '5'
+    '@name': 2022-reads
+  - '@count': '4'
+    '@name': to-buy
+  - '@count': '4'
+    '@name': mystery-thriller-horror
+  - '@count': '4'
+    '@name': women-authors
+  - '@count': '4'
+    '@name': mafia
+  - '@count': '4'
+    '@name': best-of-2023
+  - '@count': '4'
+    '@name': tbr-fantasy
+  - '@count': '4'
+    '@name': noir
+  - '@count': '4'
+    '@name': interested
+publication_day: '15'
+publication_month: '11'
+publication_year: '2022'
+published: '2022'
+publisher: Amazon Original Stories
+ratings_count: '6139'
+read_at: '2022-11-18T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/5112768095
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/62991424-undercover\"\
+  >Undercover Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1662509456&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/62991424-undercover?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '2029878'
+    series:
+      description: null
+      id: '354269'
+      note: null
+      numbered: 'true'
+      primary_work_count: '7'
+      series_works_count: '7'
+      title: Into Shadow
+    user_position: '5'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '6860265'
+        link: https://www.goodreads.com/author/show/6860265.Carmen_Maria_Machado
+        name: Carmen Maria Machado
+    average_rating: '3.99'
+    id: '60486693'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1542035244'
+    isbn13: '9781542035248'
+    link: https://www.goodreads.com/book/show/60486693-bloody-summer
+    num_pages: '28'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6139'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Bloody Summer
+    title_without_series: Bloody Summer
+    uri: kca://book/amzn1.gr.book.v3.5nBhEfgDj0w7fyfH
+    work:
+      id: '95140902'
+  - authors:
+      author:
+        id: '96300'
+        link: https://www.goodreads.com/author/show/96300.Stephen_Graham_Jones
+        name: Stephen Graham Jones
+    average_rating: '3.99'
+    id: '60312248'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1644083136l/60312248._SX98_.jpg
+    isbn: '1542034442'
+    isbn13: null
+    link: https://www.goodreads.com/book/show/60312248-the-backbone-of-the-world
+    num_pages: '54'
+    publication_day: '24'
+    publication_month: '2'
+    publication_year: '2022'
+    ratings_count: '6139'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1644083136l/60312248._SY75_.jpg
+    title: The Backbone of the World
+    title_without_series: The Backbone of the World
+    uri: kca://book/amzn1.gr.book.v3.4yE3cF5uj3-cgaHH
+    work:
+      id: '95083067'
+  - authors:
+      author:
+        id: '7324271'
+        link: https://www.goodreads.com/author/show/7324271.Tochi_Onyebuchi
+        name: Tochi Onyebuchi
+    average_rating: '3.99'
+    id: '60445417'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645213014l/60445417._SX98_.jpg
+    isbn: '1542034418'
+    isbn13: '9781542034418'
+    link: https://www.goodreads.com/book/show/60445417-a-righteous-man
+    num_pages: '30'
+    publication_day: '24'
+    publication_month: '2'
+    publication_year: '2022'
+    ratings_count: '6139'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645213014l/60445417._SY75_.jpg
+    title: A Righteous Man
+    title_without_series: A Righteous Man
+    uri: kca://book/amzn1.gr.book.v3.nO_TP_r9asLJ9TbD
+    work:
+      id: '95253488'
+  - authors:
+      author:
+        id: '33919'
+        link: https://www.goodreads.com/author/show/33919.Jeff_VanderMeer
+        name: Jeff VanderMeer
+    average_rating: '3.99'
+    id: '60436372'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645114041l/60436372._SX98_.jpg
+    isbn: 154203745X
+    isbn13: '9781542037457'
+    link: https://www.goodreads.com/book/show/60436372-wildlife
+    num_pages: '57'
+    publication_day: '24'
+    publication_month: '2'
+    publication_year: '2022'
+    ratings_count: '6139'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645114041l/60436372._SY75_.jpg
+    title: Wildlife
+    title_without_series: Wildlife
+    uri: kca://book/amzn1.gr.book.v3.MCoiHAZvGXv72Cd3
+    work:
+      id: '95239439'
+  - authors:
+      author:
+        id: '26417'
+        link: https://www.goodreads.com/author/show/26417.Karen_Russell
+        name: Karen Russell
+    average_rating: '3.99'
+    id: '60445399'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645212683l/60445399._SX98_.jpg
+    isbn: '1542037727'
+    isbn13: '9781542037723'
+    link: https://www.goodreads.com/book/show/60445399-stag
+    num_pages: '40'
+    publication_day: '24'
+    publication_month: '2'
+    publication_year: '2022'
+    ratings_count: '6139'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645212683l/60445399._SY75_.jpg
+    title: Stag
+    title_without_series: Stag
+    uri: kca://book/amzn1.gr.book.v3.pW-lUOrPBki6KWZT
+    work:
+      id: '95253446'
+  - authors:
+      author:
+        id: '4088550'
+        link: https://www.goodreads.com/author/show/4088550.Silvia_Moreno_Garcia
+        name: Silvia Moreno-Garcia
+    average_rating: '3.99'
+    id: '60312270'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1644083430l/60312270._SX98_.jpg
+    isbn: '1542037468'
+    isbn13: null
+    link: https://www.goodreads.com/book/show/60312270-the-tiger-came-to-the-mountains
+    num_pages: '28'
+    publication_day: '24'
+    publication_month: '2'
+    publication_year: '2022'
+    ratings_count: '6139'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1644083430l/60312270._SY75_.jpg
+    title: The Tiger Came to the Mountains
+    title_without_series: The Tiger Came to the Mountains
+    uri: kca://book/amzn1.gr.book.v3.an89hh9AMV1IXU-v
+    work:
+      id: '95083101'
+  - authors:
+      author:
+        id: '2917920'
+        link: https://www.goodreads.com/author/show/2917920.Ken_Liu
+        name: Ken Liu
+    average_rating: '3.99'
+    id: '55817043'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604005747l/55817043._SX98_.jpg
+    isbn: 154202515X
+    isbn13: '9781542025157'
+    link: https://www.goodreads.com/book/show/55817043-the-cleaners
+    num_pages: '33'
+    publication_day: '15'
+    publication_month: '12'
+    publication_year: '2020'
+    ratings_count: '6139'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604005747l/55817043._SX50_.jpg
+    title: The Cleaners (Faraway Collection)
+    title_without_series: The Cleaners
+    uri: kca://book/amzn1.gr.book.v3.tg8zuw2A8_H9Phbd
+    work:
+      id: '87027583'
+  - authors:
+      author:
+        id: '13525503'
+        link: https://www.goodreads.com/author/show/13525503.Nic_Stone
+        name: Nic Stone
+    average_rating: '3.99'
+    id: '55817030'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604005427l/55817030._SX98_.jpg
+    isbn: 154200943X
+    isbn13: '9781542009430'
+    link: https://www.goodreads.com/book/show/55817030-hazel-and-gray
+    num_pages: '34'
+    publication_day: '15'
+    publication_month: '12'
+    publication_year: '2020'
+    ratings_count: '6139'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604005427l/55817030._SY75_.jpg
+    title: Hazel and Gray (Faraway Collection)
+    title_without_series: Hazel and Gray
+    uri: kca://book/amzn1.gr.book.v3.Xss_Q03Kf8JWgcSi
+    work:
+      id: '87027574'
+  - authors:
+      author:
+        id: '780120'
+        link: https://www.goodreads.com/author/show/780120.Soman_Chainani
+        name: Soman Chainani
+    average_rating: '3.99'
+    id: '55817039'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604005605l/55817039._SX98_.jpg
+    isbn: '1542020964'
+    isbn13: '9781542020961'
+    link: https://www.goodreads.com/book/show/55817039-the-princess-game
+    num_pages: '60'
+    publication_day: '15'
+    publication_month: '12'
+    publication_year: '2020'
+    ratings_count: '6139'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604005605l/55817039._SX50_.jpg
+    title: The Princess Game (Faraway Collection)
+    title_without_series: The Princess Game
+    uri: kca://book/amzn1.gr.book.v3.2lezQrmM1UkPL3R1
+    work:
+      id: '87027579'
+  - authors:
+      author:
+        id: '295178'
+        link: https://www.goodreads.com/author/show/295178.Gayle_Forman
+        name: Gayle Forman
+    average_rating: '3.99'
+    id: '55817049'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604005901l/55817049._SX98_.jpg
+    isbn: '1542023505'
+    isbn13: '9781542023504'
+    link: https://www.goodreads.com/book/show/55817049-the-wickeds
+    num_pages: '35'
+    publication_day: '15'
+    publication_month: '12'
+    publication_year: '2020'
+    ratings_count: '6139'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604005901l/55817049._SX50_.jpg
+    title: The Wickeds (Faraway Collection)
+    title_without_series: The Wickeds
+    uri: kca://book/amzn1.gr.book.v3.sjANHQu5RgXifsv3
+    work:
+      id: '87027587'
+  - authors:
+      author:
+        id: '3524'
+        link: https://www.goodreads.com/author/show/3524.Joyce_Carol_Oates
+        name: Joyce Carol Oates
+    average_rating: '3.99'
+    id: '41139986'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1542040280'
+    isbn13: '9781542040280'
+    link: https://www.goodreads.com/book/show/41139986-miao-dao
+    num_pages: '81'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6139'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Miao Dao (Dark Corners Collection, #4)'
+    title_without_series: Miao Dao
+    uri: kca://book/amzn1.gr.book.v1.GR8XIGN5KpT26TTX1cXUig
+    work:
+      id: '64294674'
+  - authors:
+      author:
+        id: '2876313'
+        link: https://www.goodreads.com/author/show/2876313.Edgar_Cantero
+        name: Edgar Cantero
+    average_rating: '3.99'
+    id: '41561433'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1542090423'
+    isbn13: '9781542090421'
+    link: https://www.goodreads.com/book/show/41561433-there-s-a-giant-trapdoor-spider-under-your-bed
+    num_pages: '24'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6139'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'There''s a Giant Trapdoor Spider Under Your Bed (Dark Corners Collection,
+      #3)'
+    title_without_series: There's a Giant Trapdoor Spider Under Your Bed
+    uri: kca://book/amzn1.gr.book.v1.KgdUaszajZZul9F-ntYPQw
+    work:
+      id: '64852533'
+  - authors:
+      author:
+        id: '4208569'
+        link: https://www.goodreads.com/author/show/4208569.Rainbow_Rowell
+        name: Rainbow Rowell
+    average_rating: '3.99'
+    id: '55817016'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604005084l/55817016._SX98_.jpg
+    isbn: '1542025044'
+    isbn13: '9781542025041'
+    link: https://www.goodreads.com/book/show/55817016-the-prince-and-the-troll
+    num_pages: '29'
+    publication_day: '15'
+    publication_month: '12'
+    publication_year: '2020'
+    ratings_count: '6139'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604005084l/55817016._SX50_.jpg
+    title: The Prince and the Troll (Faraway Collection)
+    title_without_series: The Prince and the Troll
+    uri: kca://book/amzn1.gr.book.v3.UVayZ82I0vBWJIs8
+    work:
+      id: '87027563'
+  - authors:
+      author:
+        id: '648612'
+        link: https://www.goodreads.com/author/show/648612.Paul_Tremblay
+        name: Paul Tremblay
+    average_rating: '3.99'
+    id: '195945770'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1662516908'
+    isbn13: '9781662516900'
+    link: https://www.goodreads.com/book/show/195945770-in-bloom
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6139'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: In Bloom
+    title_without_series: In Bloom
+    uri: kca://book/amzn1.gr.book.v3.PRXLd3iQisHjC8tD
+    work:
+      id: '197955556'
+  - authors:
+      author:
+        id: '6534485'
+        link: https://www.goodreads.com/author/show/6534485.Emily_Raboteau
+        name: Emily  Raboteau
+    average_rating: '3.99'
+    id: '41132332'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1542041295'
+    isbn13: '9781542041294'
+    link: https://www.goodreads.com/book/show/41132332-the-tangled-woods
+    num_pages: '37'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6139'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Tangled Woods (Dark Corners Collection, #5)'
+    title_without_series: The Tangled Woods
+    uri: kca://book/amzn1.gr.book.v1.MwRY52Uz72ASA1wjyYhXPQ
+    work:
+      id: '64273357'
+  - authors:
+      author:
+        id: '6219675'
+        link: https://www.goodreads.com/author/show/6219675.Jason_Mott
+        name: Jason Mott
+    average_rating: '3.99'
+    id: '195945937'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1662516711'
+    isbn13: '9781662516719'
+    link: https://www.goodreads.com/book/show/195945937-best-of-luck
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6139'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Best of Luck
+    title_without_series: Best of Luck
+    uri: kca://book/amzn1.gr.book.v3.vN-E0LzaueLs3lcL
+    work:
+      id: '197956003'
+  - authors:
+      author:
+        id: '29471'
+        link: https://www.goodreads.com/author/show/29471.Jennifer_McMahon
+        name: Jennifer  McMahon
+    average_rating: '3.99'
+    id: '41080498'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1542090415'
+    isbn13: '9781542090414'
+    link: https://www.goodreads.com/book/show/41080498-hannah-beast
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6139'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Hannah-Beast (Dark Corners Collection, #1)'
+    title_without_series: Hannah-Beast
+    uri: kca://book/amzn1.gr.book.v1.TOi62IA_rrjD6U2Cxz1bpA
+    work:
+      id: '64183336'
+  - authors:
+      author:
+        id: '104756'
+        link: https://www.goodreads.com/author/show/104756.Adam_Haslett
+        name: Adam Haslett
+    average_rating: '3.99'
+    id: '41455792'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1542040167'
+    isbn13: '9781542040167'
+    link: https://www.goodreads.com/book/show/41455792-the-remedy
+    num_pages: '30'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '6139'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Remedy (Dark Corners Collection, #6)'
+    title_without_series: The Remedy
+    uri: kca://book/amzn1.gr.book.v1.wylgqJGgGC386-UvHkGsGA
+    work:
+      id: '64716691'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665768074l/62991424._SY75_.jpg
+started_at: '2022-11-18T00:00:00-08:00'
+text_reviews_count:
+  '#text': '1071'
+  '@type': integer
+title: 'Undercover (Into Shadow, #5)'
+title_without_series: Undercover
+uri: kca://book/amzn1.gr.book.v3.7FAxm2igY6JaWTFJ
+url: https://www.goodreads.com/book/show/62991424-undercover
+work:
+  id: '98826696'
+  uri: kca://work/amzn1.gr.work.v3.DeiTsM573302ZKLl

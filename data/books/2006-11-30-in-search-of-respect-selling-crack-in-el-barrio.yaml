@@ -1,0 +1,764 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.27'
+    id: '55952'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1335895626p5/55952.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/55952.Philippe_Bourgois
+    name: Philippe Bourgois
+    ratings_count: '5583'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1335895626p2/55952.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '304'
+average_rating: '4.20'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-30T00:00:00-08:00'
+description: null
+edition_information: '2'
+format: null
+id: '205582'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: '0521017114'
+isbn13: '9780521017114'
+json: '{"id": "205582", "isbn": "0521017114", "isbn13": "9780521017114", "text_reviews_count":
+  {"@type": "integer", "#text": "158"}, "uri": "kca://book/amzn1.gr.book.v1.q76phiVNSNaio77wzBqNLw",
+  "title": "In Search of Respect: Selling Crack in El Barrio", "title_without_series":
+  "In Search of Respect: Selling Crack in El Barrio", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/205582.In_Search_of_Respect",
+  "num_pages": null, "format": null, "edition_information": "2", "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "4.20", "ratings_count": "3502", "description": null, "authors": {"author": {"id":
+  "55952", "name": "Philippe Bourgois", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1335895626p5/55952.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1335895626p2/55952.jpg"},
+  "link": "https://www.goodreads.com/author/show/55952.Philippe_Bourgois", "average_rating":
+  "4.27", "ratings_count": "5583", "text_reviews_count": "304"}}, "published": null,
+  "work": {"id": "1003292", "uri": "kca://work/amzn1.gr.work.v1.aBwzvirn_aPkyVo1JduJ1g"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417633",
+  "read_at": "Thu Nov 30 00:00:00 -0800 2006", "started_at": "", "date": "Thu Nov
+  30 00:00:00 -0800 2006"}'
+kindle_asin: B00D2WPUR6
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/205582.In_Search_of_Respect
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '3621'
+    '@name': to-read
+  - '@count': '185'
+    '@name': anthropology
+  - '@count': '182'
+    '@name': currently-reading
+  - '@count': '128'
+    '@name': non-fiction
+  - '@count': '67'
+    '@name': nonfiction
+  - '@count': '53'
+    '@name': sociology
+  - '@count': '39'
+    '@name': ethnography
+  - '@count': '38'
+    '@name': favorites
+  - '@count': '27'
+    '@name': school
+  - '@count': '18'
+    '@name': books-i-own
+  - '@count': '16'
+    '@name': drugs
+  - '@count': '14'
+    '@name': ethnographies
+  - '@count': '14'
+    '@name': social-science
+  - '@count': '14'
+    '@name': anthro
+  - '@count': '13'
+    '@name': academic
+  - '@count': '13'
+    '@name': read-for-school
+  - '@count': '11'
+    '@name': college
+  - '@count': '11'
+    '@name': owned
+  - '@count': '11'
+    '@name': politics
+  - '@count': '9'
+    '@name': for-school
+  - '@count': '9'
+    '@name': school-books
+  - '@count': '8'
+    '@name': university
+  - '@count': '7'
+    '@name': antropologia
+  - '@count': '6'
+    '@name': "antropolog\xEDa"
+  - '@count': '6'
+    '@name': dnf
+  - '@count': '6'
+    '@name': crime
+  - '@count': '6'
+    '@name': social-sciences
+  - '@count': '6'
+    '@name': anthropology-sociology
+  - '@count': '6'
+    '@name': academia
+  - '@count': '6'
+    '@name': race
+  - '@count': '6'
+    '@name': cultural-anthropology
+  - '@count': '5'
+    '@name': america
+  - '@count': '5'
+    '@name': uni
+  - '@count': '5'
+    '@name': favourites
+  - '@count': '5'
+    '@name': urban-studies
+  - '@count': '5'
+    '@name': usa
+  - '@count': '5'
+    '@name': poverty
+  - '@count': '5'
+    '@name': economics
+  - '@count': '4'
+    '@name': sociologia
+  - '@count': '4'
+    '@name': criminology
+  - '@count': '4'
+    '@name': antro
+  - '@count': '4'
+    '@name': history
+  - '@count': '4'
+    '@name': soc
+  - '@count': '4'
+    '@name': college-books
+  - '@count': '4'
+    '@name': cities
+  - '@count': '4'
+    '@name': my-books
+  - '@count': '4'
+    '@name': partially-read
+  - '@count': '4'
+    '@name': memoir
+  - '@count': '4'
+    '@name': culture
+  - '@count': '3'
+    '@name': antropologi
+  - '@count': '3'
+    '@name': journalism
+  - '@count': '3'
+    '@name': school-read
+  - '@count': '3'
+    '@name': geography
+  - '@count': '3'
+    '@name': education
+  - '@count': '3'
+    '@name': research
+  - '@count': '3'
+    '@name': psychology
+  - '@count': '3'
+    '@name': sociology-anthropology
+  - '@count': '3'
+    '@name': united-states
+  - '@count': '3'
+    '@name': adult
+  - '@count': '3'
+    '@name': educational
+  - '@count': '3'
+    '@name': theory
+  - '@count': '3'
+    '@name': social-anthropology
+  - '@count': '3'
+    '@name': new-york
+  - '@count': '3'
+    '@name': social
+  - '@count': '3'
+    '@name': textbooks
+  - '@count': '2'
+    '@name': etnografia
+  - '@count': '2'
+    '@name': misc-nonfiction
+  - '@count': '2'
+    '@name': biblioteca
+  - '@count': '2'
+    '@name': social-political-non-fiction
+  - '@count': '2'
+    '@name': non-fiction-tbr
+  - '@count': '2'
+    '@name': learning
+  - '@count': '2'
+    '@name': want-to-re-read
+  - '@count': '2'
+    '@name': "etnograf\xEDas"
+  - '@count': '2'
+    '@name': learn
+  - '@count': '2'
+    '@name': kindle
+  - '@count': '2'
+    '@name': society-and-culture
+  - '@count': '2'
+    '@name': american-history
+  - '@count': '2'
+    '@name': stopped-reading
+  - '@count': '2'
+    '@name': ethno
+  - '@count': '2'
+    '@name': nyc
+  - '@count': '2'
+    '@name': "etnograf\xEDa"
+  - '@count': '2'
+    '@name': non-fictie
+  - '@count': '2'
+    '@name': library
+  - '@count': '2'
+    '@name': antropologie
+  - '@count': '2'
+    '@name': uni-reads
+  - '@count': '2'
+    '@name': addiction
+  - '@count': '2'
+    '@name': re-read
+  - '@count': '2'
+    '@name': on-my-bookshelf
+  - '@count': '2'
+    '@name': poc
+  - '@count': '2'
+    '@name': latinx
+  - '@count': '2'
+    '@name': 4-stars
+  - '@count': '2'
+    '@name': college-required-reading
+  - '@count': '2'
+    '@name': biography
+  - '@count': '2'
+    '@name': human-rights
+  - '@count': '2'
+    '@name': to-read-nonfiction
+  - '@count': '2'
+    '@name': school-reads
+  - '@count': '2'
+    '@name': read-in-college
+  - '@count': '2'
+    '@name': wish-list
+  - '@count': '2'
+    '@name': americana
+  - '@count': '2'
+    '@name': memoirs
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '3502'
+read_at: '2006-11-30T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417633
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/205582.In_Search_of_Respect\"\
+  >In Search of Respect Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0521017114&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/205582.In_Search_of_Respect?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '1611052'
+    series:
+      description: This series is designed to bring together under a single rubric
+        social scientific research undertaken from a structural perspective. Each
+        volume in the series demonstrates the value of a structural approach in a
+        particular subject area, while the series as a whole brings the achievements
+        of structurally-oriented scholars to the attention of a wider public, and
+        thereby encourages others to approach their theory and research in this very
+        fruitful way.
+      id: '289446'
+      note: null
+      numbered: 'false'
+      primary_work_count: '43'
+      series_works_count: '43'
+      title: Structural Analysis in the Social Sciences
+    user_position: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '46279'
+        link: https://www.goodreads.com/author/show/46279.Shahram_Khosravi
+        name: Shahram Khosravi
+    average_rating: '4.20'
+    id: '8447415'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316740629l/8447415._SX98_.jpg
+    isbn: 0230230792
+    isbn13: '9780230230798'
+    link: https://www.goodreads.com/book/show/8447415-illegal-traveller
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3502'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316740629l/8447415._SY75_.jpg
+    title: '''Illegal'' Traveller: An Auto-Ethnography of Borders (Global Ethics)'
+    title_without_series: '''Illegal'' Traveller: An Auto-Ethnography of Borders'
+    uri: kca://book/amzn1.gr.book.v1.8QrNrIS1rU0GINtYfYA-IA
+    work:
+      id: '13311318'
+  - authors:
+      author:
+        id: '89546'
+        link: https://www.goodreads.com/author/show/89546.Lila_Abu_Lughod
+        name: Lila Abu-Lughod
+    average_rating: '4.20'
+    id: '154828'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0520224736'
+    isbn13: '9780520224735'
+    link: https://www.goodreads.com/book/show/154828.Veiled_Sentiments
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3502'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Veiled Sentiments: Honor and Poetry in a Bedouin Society (updated with
+      a new preface)'
+    title_without_series: 'Veiled Sentiments: Honor and Poetry in a Bedouin Society'
+    uri: kca://book/amzn1.gr.book.v1.H8mHsgXXXzZp4k2Z5QWLTA
+    work:
+      id: '2174098'
+  - authors:
+      author:
+        id: '6577922'
+        link: https://www.goodreads.com/author/show/6577922.Seth_Holmes
+        name: Seth Holmes
+    average_rating: '4.20'
+    id: '16145154'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372174089l/16145154._SX98_.jpg
+    isbn: '0520275144'
+    isbn13: '9780520275140'
+    link: https://www.goodreads.com/book/show/16145154-fresh-fruit-broken-bodies
+    num_pages: '234'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3502'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372174089l/16145154._SX50_.jpg
+    title: 'Fresh Fruit, Broken Bodies: Migrant Farmworkers in the United States'
+    title_without_series: 'Fresh Fruit, Broken Bodies: Migrant Farmworkers in the
+      United States'
+    uri: kca://book/amzn1.gr.book.v1.rCqaRt4I-BiJRImyApo6mQ
+    work:
+      id: '23421166'
+  - authors:
+      author:
+        id: '14612'
+        link: https://www.goodreads.com/author/show/14612.Kwame_Anthony_Appiah
+        name: Kwame Anthony Appiah
+    average_rating: '4.20'
+    id: '38321385'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537820143l/38321385._SX98_.jpg
+    isbn: '1631493841'
+    isbn13: '9781631493843'
+    link: https://www.goodreads.com/book/show/38321385-the-lies-that-bind
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3502'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537820143l/38321385._SY75_.jpg
+    title: 'The Lies That Bind: Rethinking Identity'
+    title_without_series: 'The Lies That Bind: Rethinking Identity'
+    uri: kca://book/amzn1.gr.book.v1.7GLDwgh5-ZUbBHmJYlsz6A
+    work:
+      id: '59975776'
+  - authors:
+      author:
+        id: '121271'
+        link: https://www.goodreads.com/author/show/121271.Thomas_Hylland_Eriksen
+        name: Thomas Hylland Eriksen
+    average_rating: '4.20'
+    id: '207294'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0745317723'
+    isbn13: '9780745317724'
+    link: https://www.goodreads.com/book/show/207294.Small_Places_Large_Issues
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3502'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Small Places, Large Issues: An Introduction to Social and Cultural Anthropology
+      (Anthropology, Culture and Society)'
+    title_without_series: 'Small Places, Large Issues: An Introduction to Social and
+      Cultural Anthropology'
+    uri: kca://book/amzn1.gr.book.v1.bDlZSdsh5C-E9oqXRJxJ1w
+    work:
+      id: '200631'
+  - authors:
+      author:
+        id: '969912'
+        link: https://www.goodreads.com/author/show/969912.Reena_Patel
+        name: Reena Patel
+    average_rating: '4.20'
+    id: '8196701'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328817546l/8196701._SX98_.jpg
+    isbn: 0804769133
+    isbn13: '9780804769136'
+    link: https://www.goodreads.com/book/show/8196701-working-the-night-shift
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3502'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328817546l/8196701._SX50_.jpg
+    title: "Working the Night Shift: Women in India\u2019s Call Center Industry"
+    title_without_series: "Working the Night Shift: Women in India\u2019s Call Center\
+      \ Industry"
+    uri: kca://book/amzn1.gr.book.v1.K8uhv8vduYsO-DQSzypHJQ
+    work:
+      id: '13043580'
+  - authors:
+      author:
+        id: '3369'
+        link: https://www.goodreads.com/author/show/3369.Amitav_Ghosh
+        name: Amitav Ghosh
+    average_rating: '4.20'
+    id: '57331880'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623551679l/57331880._SX98_.jpg
+    isbn: 0226815455
+    isbn13: '9780226815459'
+    link: https://www.goodreads.com/book/show/57331880-the-nutmeg-s-curse
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3502'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623551679l/57331880._SX50_.jpg
+    title: 'The Nutmeg''s Curse: Parables for a Planet in Crisis'
+    title_without_series: 'The Nutmeg''s Curse: Parables for a Planet in Crisis'
+    uri: kca://book/amzn1.gr.book.v3.pCVFrRljILGj-px4
+    work:
+      id: '89724924'
+  - authors:
+      author:
+        id: '25141'
+        link: https://www.goodreads.com/author/show/25141.Elijah_Anderson
+        name: Elijah Anderson
+    average_rating: '4.20'
+    id: '44845'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0393320782
+    isbn13: '9780393320787'
+    link: https://www.goodreads.com/book/show/44845.Code_of_the_Street
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3502'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Code of the Street: Decency, Violence, and the Moral Life of the Inner
+      City'
+    title_without_series: 'Code of the Street: Decency, Violence, and the Moral Life
+      of the Inner City'
+    uri: kca://book/amzn1.gr.book.v1.fYLV4wrOMzaxueMq0DRXug
+    work:
+      id: '44167'
+  - authors:
+      author:
+        id: '5847920'
+        link: https://www.goodreads.com/author/show/5847920.Benedict_Anderson
+        name: Benedict Anderson
+    average_rating: '4.20'
+    id: '399136'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1727281128l/399136._SX98_.jpg
+    isbn: 0860915468
+    isbn13: '9780860915461'
+    link: https://www.goodreads.com/book/show/399136.Imagined_Communities
+    num_pages: '224'
+    publication_day: '17'
+    publication_month: '7'
+    publication_year: '1991'
+    ratings_count: '3502'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1727281128l/399136._SY75_.jpg
+    title: 'Imagined Communities: Reflections on the Origin and Spread of Nationalism'
+    title_without_series: 'Imagined Communities: Reflections on the Origin and Spread
+      of Nationalism'
+    uri: kca://book/amzn1.gr.book.v1.npPs7PinzaUokLoDAOGYjg
+    work:
+      id: '388581'
+  - authors:
+      author:
+        id: '7182565'
+        link: https://www.goodreads.com/author/show/7182565.Dayo_Olopade
+        name: Dayo Olopade
+    average_rating: '4.20'
+    id: '18222677'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377648704l/18222677._SX98_.jpg
+    isbn: 0547678312
+    isbn13: '9780547678313'
+    link: https://www.goodreads.com/book/show/18222677-the-bright-continent
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3502'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377648704l/18222677._SY75_.jpg
+    title: 'The Bright Continent: Breaking Rules and Making Change in Modern Africa'
+    title_without_series: 'The Bright Continent: Breaking Rules and Making Change
+      in Modern Africa'
+    uri: kca://book/amzn1.gr.book.v1.nKlRdV701UC459JmkjP28g
+    work:
+      id: '25723407'
+  - authors:
+      author:
+        id: '8120'
+        link: https://www.goodreads.com/author/show/8120.Arthur_Miller
+        name: Arthur Miller
+    average_rating: '4.20'
+    id: '847168'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0140481354
+    isbn13: '9780140481358'
+    link: https://www.goodreads.com/book/show/847168.A_View_from_the_Bridge
+    num_pages: '96'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3502'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'A View from the Bridge: A Play in Two Acts'
+    title_without_series: 'A View from the Bridge: A Play in Two Acts'
+    uri: kca://book/amzn1.gr.book.v1.kYQw33JqKdXdnplU8Ax3TQ
+    work:
+      id: '314563'
+  - authors:
+      author:
+        id: '365568'
+        link: https://www.goodreads.com/author/show/365568.Fanny_Ambj_rnsson
+        name: "Fanny Ambj\xF6rnsson"
+    average_rating: '4.20'
+    id: '41577952'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535718324l/41577952._SX98_.jpg
+    isbn: '9177750020'
+    isbn13: '9789177750024'
+    link: https://www.goodreads.com/book/show/41577952-tid-att-st-da
+    num_pages: '249'
+    publication_day: '18'
+    publication_month: '9'
+    publication_year: '2018'
+    ratings_count: '3502'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535718324l/41577952._SX50_.jpg
+    title: "Tid att st\xE4da: Om vardagsst\xE4dningens praktik och politik"
+    title_without_series: "Tid att st\xE4da: Om vardagsst\xE4dningens praktik och\
+      \ politik"
+    uri: kca://book/amzn1.gr.book.v1.NM4G_gcKPt0sjiWFbac05A
+    work:
+      id: '64893251'
+  - authors:
+      author:
+        id: '32811'
+        link: https://www.goodreads.com/author/show/32811.Pierre_Bayard
+        name: Pierre Bayard
+    average_rating: '4.20'
+    id: '1143788'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1306039227l/1143788._SX98_.jpg
+    isbn: '1596914696'
+    isbn13: '9781596914698'
+    link: https://www.goodreads.com/book/show/1143788.How_to_Talk_About_Books_You_Haven_t_Read
+    num_pages: '185'
+    publication_day: '30'
+    publication_month: '10'
+    publication_year: '2007'
+    ratings_count: '3502'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1306039227l/1143788._SY75_.jpg
+    title: How to Talk About Books You Haven't Read
+    title_without_series: How to Talk About Books You Haven't Read
+    uri: kca://book/amzn1.gr.book.v1.uO_g2dQbbsTYvBtgULTaTw
+    work:
+      id: '1609642'
+  - authors:
+      author:
+        id: '89546'
+        link: https://www.goodreads.com/author/show/89546.Lila_Abu_Lughod
+        name: Lila Abu-Lughod
+    average_rating: '4.20'
+    id: '17574515'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367221687l/17574515._SX98_.jpg
+    isbn: '0674725166'
+    isbn13: '9780674725164'
+    link: https://www.goodreads.com/book/show/17574515-do-muslim-women-need-saving
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3502'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367221687l/17574515._SY75_.jpg
+    title: Do Muslim Women Need Saving?
+    title_without_series: Do Muslim Women Need Saving?
+    uri: kca://book/amzn1.gr.book.v1.naKsTvBd5y6ZzciCtPKqYA
+    work:
+      id: '24514616'
+  - authors:
+      author:
+        id: '119987'
+        link: https://www.goodreads.com/author/show/119987.Anna_Lowenhaupt_Tsing
+        name: Anna Lowenhaupt Tsing
+    average_rating: '4.20'
+    id: '25510906'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0691162751
+    isbn13: '9780691162751'
+    link: https://www.goodreads.com/book/show/25510906-the-mushroom-at-the-end-of-the-world
+    num_pages: '331'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3502'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Mushroom at the End of the World: On the Possibility of Life in Capitalist
+      Ruins'
+    title_without_series: 'The Mushroom at the End of the World: On the Possibility
+      of Life in Capitalist Ruins'
+    uri: kca://book/amzn1.gr.book.v1.SeyLzS_8NN_Nym573K9clw
+    work:
+      id: '45290631'
+  - authors:
+      author:
+        id: '331544'
+        link: https://www.goodreads.com/author/show/331544.Garry_Potter
+        name: Garry Potter
+    average_rating: '4.20'
+    id: '38718901'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/38718901-the-philosophy-of-social-science
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3502'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Philosophy of Social Science: New Perspectives, 2nd edition'
+    title_without_series: 'The Philosophy of Social Science: New Perspectives, 2nd
+      edition'
+    uri: kca://book/amzn1.gr.book.v1.-m1mXs1lLji3E394wz4Pcg
+    work:
+      id: '60299211'
+  - authors:
+      author:
+        id: '3525'
+        link: https://www.goodreads.com/author/show/3525.Edwidge_Danticat
+        name: Edwidge Danticat
+    average_rating: '4.20'
+    id: '16280051'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367256761l/16280051._SX98_.jpg
+    isbn: 030727179X
+    isbn13: '9780307271792'
+    link: https://www.goodreads.com/book/show/16280051-claire-of-the-sea-light
+    num_pages: '238'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3502'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367256761l/16280051._SX50_.jpg
+    title: Claire of the Sea Light
+    title_without_series: Claire of the Sea Light
+    uri: kca://book/amzn1.gr.book.v1.BHf8hl1VpeRqtZE5fVerwA
+    work:
+      id: '22381420'
+  - authors:
+      author:
+        id: '36766'
+        link: https://www.goodreads.com/author/show/36766.Marcel_Mauss
+        name: Marcel Mauss
+    average_rating: '4.20'
+    id: '349990'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 039332043X
+    isbn13: '9780393320435'
+    link: https://www.goodreads.com/book/show/349990.The_Gift
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3502'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Gift: The Form and Reason for Exchange in Archaic Societies'
+    title_without_series: 'The Gift: The Form and Reason for Exchange in Archaic Societies'
+    uri: kca://book/amzn1.gr.book.v1.hY7v4nXguJ3wdl_ih6srOQ
+    work:
+      id: '1242113'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '158'
+  '@type': integer
+title: 'In Search of Respect: Selling Crack in El Barrio'
+title_without_series: 'In Search of Respect: Selling Crack in El Barrio'
+uri: kca://book/amzn1.gr.book.v1.q76phiVNSNaio77wzBqNLw
+url: https://www.goodreads.com/book/show/205582.In_Search_of_Respect
+work:
+  id: '1003292'
+  uri: kca://work/amzn1.gr.work.v1.aBwzvirn_aPkyVo1JduJ1g

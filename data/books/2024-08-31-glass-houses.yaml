@@ -1,0 +1,743 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.59'
+    id: '5216935'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1447519189p5/5216935.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/5216935.Madeline_Ashby
+    name: Madeline Ashby
+    ratings_count: '16289'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1447519189p2/5216935.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '3001'
+average_rating: '3.31'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2024-08-31T00:00:00-07:00'
+description: A group of employees and their CEO, celebrating the sale of their remarkable
+  emotion-mapping-AI-alogorithm, crash onto a not-quite-deserted tropical island.
+  Luckily, those who survived have found a beautiful, fully stocked private palace,
+  with all the latest technological updates (though one without connection to the
+  outside world). The house, however, has more secrets than anyone might have guessed,
+  and a much darker reason for having been built and left behind.
+edition_information: null
+format: null
+id: '200117170'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699723770l/200117170._SX98_.jpg
+is_ebook: 'true'
+isbn: '1466889861'
+isbn13: '9781466889866'
+json: '{"id": "200117170", "isbn": "1466889861", "isbn13": "9781466889866", "text_reviews_count":
+  {"@type": "integer", "#text": "31"}, "uri": "kca://book/amzn1.gr.book.v3.RzyV5kScxH1ji_Us",
+  "title": "Glass Houses", "title_without_series": "Glass Houses", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699723770l/200117170._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699723770l/200117170._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/200117170-glass-houses",
+  "num_pages": "288", "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.31", "ratings_count": "1207", "description": "A group of employees and their
+  CEO, celebrating the sale of their remarkable emotion-mapping-AI-alogorithm, crash
+  onto a not-quite-deserted tropical island. Luckily, those who survived have found
+  a beautiful, fully stocked private palace, with all the latest technological updates
+  (though one without connection to the outside world). The house, however, has more
+  secrets than anyone might have guessed, and a much darker reason for having been
+  built and left behind.", "authors": {"author": {"id": "5216935", "name": "Madeline
+  Ashby", "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1447519189p5/5216935.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1447519189p2/5216935.jpg"},
+  "link": "https://www.goodreads.com/author/show/5216935.Madeline_Ashby", "average_rating":
+  "3.59", "ratings_count": "16289", "text_reviews_count": "3001"}}, "published": null,
+  "work": {"id": "197724518", "uri": "kca://work/amzn1.gr.work.v3.Iz1CmT8nW1QJNxGc"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/6800116353",
+  "read_at": "Sat Aug 31 00:00:00 -0700 2024", "started_at": "Wed Aug 28 00:00:00
+  -0700 2024", "date": "Sat Aug 31 00:00:00 -0700 2024"}'
+kindle_asin: B0CJBKR6CJ
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/200117170-glass-houses
+marketplace_id: ATVPDKIKX0DER
+num_pages: '288'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '15714'
+    '@name': to-read
+  - '@count': '123'
+    '@name': currently-reading
+  - '@count': '67'
+    '@name': thriller
+  - '@count': '64'
+    '@name': science-fiction
+  - '@count': '61'
+    '@name': sci-fi
+  - '@count': '60'
+    '@name': 2024-releases
+  - '@count': '50'
+    '@name': mystery
+  - '@count': '31'
+    '@name': mystery-thriller
+  - '@count': '28'
+    '@name': fiction
+  - '@count': '23'
+    '@name': netgalley
+  - '@count': '22'
+    '@name': adult
+  - '@count': '18'
+    '@name': dnf
+  - '@count': '18'
+    '@name': horror
+  - '@count': '15'
+    '@name': giveaways
+  - '@count': '14'
+    '@name': dystopia
+  - '@count': '12'
+    '@name': dystopian
+  - '@count': '12'
+    '@name': arc
+  - '@count': '11'
+    '@name': on-my-radar
+  - '@count': '10'
+    '@name': read-in-2024
+  - '@count': '10'
+    '@name': library
+  - '@count': '10'
+    '@name': arcs
+  - '@count': '10'
+    '@name': 2024-release
+  - '@count': '9'
+    '@name': scifi
+  - '@count': '8'
+    '@name': book-club
+  - '@count': '8'
+    '@name': thrillers
+  - '@count': '7'
+    '@name': ebook
+  - '@count': '7'
+    '@name': maybe
+  - '@count': '7'
+    '@name': tbr
+  - '@count': '6'
+    '@name': suspense
+  - '@count': '6'
+    '@name': 2024-reads
+  - '@count': '6'
+    '@name': kindle
+  - '@count': '5'
+    '@name': owned
+  - '@count': '5'
+    '@name': books-i-own
+  - '@count': '5'
+    '@name': giveaway
+  - '@count': '5'
+    '@name': murder-mystery
+  - '@count': '4'
+    '@name': npr
+  - '@count': '4'
+    '@name': did-not-finish
+  - '@count': '4'
+    '@name': near-future
+  - '@count': '4'
+    '@name': read-2024
+  - '@count': '4'
+    '@name': sf
+  - '@count': '4'
+    '@name': thriller-mystery-horror
+  - '@count': '4'
+    '@name': libby
+  - '@count': '4'
+    '@name': not-interested
+  - '@count': '4'
+    '@name': physical-tbr
+  - '@count': '4'
+    '@name': speculative
+  - '@count': '4'
+    '@name': suspense-thriller
+  - '@count': '4'
+    '@name': goodreads-giveaways
+  - '@count': '4'
+    '@name': mysteries
+  - '@count': '4'
+    '@name': sci-fi-fantasy
+  - '@count': '4'
+    '@name': 2024-anticipated
+  - '@count': '3'
+    '@name': npr-2024
+  - '@count': '3'
+    '@name': abandoned
+  - '@count': '3'
+    '@name': survival
+  - '@count': '3'
+    '@name': artificial-intelligence
+  - '@count': '3'
+    '@name': adult-thriller
+  - '@count': '3'
+    '@name': science-fiction-fantasy
+  - '@count': '3'
+    '@name': 2024-read
+  - '@count': '3'
+    '@name': mystery-thriller-horror
+  - '@count': '3'
+    '@name': interested
+  - '@count': '3'
+    '@name': interested-in
+  - '@count': '3'
+    '@name': thriller-mystery
+  - '@count': '3'
+    '@name': mystery-thriller-suspense
+  - '@count': '3'
+    '@name': have
+  - '@count': '3'
+    '@name': genre-sci-fi
+  - '@count': '3'
+    '@name': wish-list
+  - '@count': '3'
+    '@name': mystery-suspense
+  - '@count': '3'
+    '@name': not-yet-released
+  - '@count': '2'
+    '@name': 2020s
+  - '@count': '2'
+    '@name': to-read-2025
+  - '@count': '2'
+    '@name': 2025-tbr
+  - '@count': '2'
+    '@name': at-library
+  - '@count': '2'
+    '@name': to-read-npr
+  - '@count': '2'
+    '@name': not-on-libby
+  - '@count': '2'
+    '@name': women
+  - '@count': '2'
+    '@name': canada
+  - '@count': '2'
+    '@name': tbr-2024
+  - '@count': '2'
+    '@name': mystery-thrillers
+  - '@count': '2'
+    '@name': mystery-thriller-tbr
+  - '@count': '2'
+    '@name': giveaway-entries
+  - '@count': '2'
+    '@name': favorites
+  - '@count': '2'
+    '@name': scifi-fantasy
+  - '@count': '2'
+    '@name': islands
+  - '@count': '2'
+    '@name': calibre
+  - '@count': '2'
+    '@name': read-next
+  - '@count': '2'
+    '@name': on-deck
+  - '@count': '2'
+    '@name': g-science-fiction
+  - '@count': '2'
+    '@name': non-series
+  - '@count': '2'
+    '@name': adult-fic
+  - '@count': '2'
+    '@name': on-kindle
+  - '@count': '2'
+    '@name': arcs-read
+  - '@count': '2'
+    '@name': speculative-fiction
+  - '@count': '2'
+    '@name': want-to-read
+  - '@count': '2'
+    '@name': want-to-read-maybe
+  - '@count': '2'
+    '@name': owned-books
+  - '@count': '2'
+    '@name': technology
+  - '@count': '2'
+    '@name': crime-fiction
+  - '@count': '2'
+    '@name': tbr-thriller
+  - '@count': '2'
+    '@name': maybe-read
+  - '@count': '2'
+    '@name': 2024-to-read
+  - '@count': '2'
+    '@name': recommendations
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '1207'
+read_at: '2024-08-31T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/6800116353
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/200117170-glass-houses\"\
+  >Glass Houses Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1466889861&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/200117170-glass-houses?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '6683690'
+        link: https://www.goodreads.com/author/show/6683690.Sarah_Pinsker
+        name: Sarah Pinsker
+    average_rating: '3.31'
+    id: '203579272'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710009733l/203579272._SX98_.jpg
+    isbn: '1250330262'
+    isbn13: '9781250330260'
+    link: https://www.goodreads.com/book/show/203579272-haunt-sweet-home
+    num_pages: '165'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1207'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710009733l/203579272._SY75_.jpg
+    title: Haunt Sweet Home
+    title_without_series: Haunt Sweet Home
+    uri: kca://book/amzn1.gr.book.v3.7yI9xaXiv6pQHbru
+    work:
+      id: '209357679'
+  - authors:
+      author:
+        id: '45939126'
+        link: https://www.goodreads.com/author/show/45939126.Mason_Coile
+        name: Mason Coile
+    average_rating: '3.31'
+    id: '203164421'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719419053l/203164421._SX98_.jpg
+    isbn: 0593719603
+    isbn13: '9780593719602'
+    link: https://www.goodreads.com/book/show/203164421-william
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1207'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719419053l/203164421._SX50_.jpg
+    title: William
+    title_without_series: William
+    uri: kca://book/amzn1.gr.book.v3.vMzd_ah6OJmMJIHe
+    work:
+      id: '206001205'
+  - authors:
+      author:
+        id: '8381222'
+        link: https://www.goodreads.com/author/show/8381222.Brenda_Peynado
+        name: Brenda Peynado
+    average_rating: '3.31'
+    id: '195791305'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1706930171l/195791305._SX98_.jpg
+    isbn: '1250854318'
+    isbn13: '9781250854315'
+    link: https://www.goodreads.com/book/show/195791305-time-s-agent
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1207'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1706930171l/195791305._SY75_.jpg
+    title: Time's Agent
+    title_without_series: Time's Agent
+    uri: kca://book/amzn1.gr.book.v3.y2Sec_Vn2Z5805a9
+    work:
+      id: '144550624'
+  - authors:
+      author:
+        id: '18965988'
+        link: https://www.goodreads.com/author/show/18965988.Stephanie_Wrobel
+        name: Stephanie Wrobel
+    average_rating: '3.31'
+    id: '204316865'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707490075l/204316865._SX98_.jpg
+    isbn: 059354711X
+    isbn13: '9780593547113'
+    link: https://www.goodreads.com/book/show/204316865-the-hitchcock-hotel
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1207'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707490075l/204316865._SY75_.jpg
+    title: The Hitchcock Hotel
+    title_without_series: The Hitchcock Hotel
+    uri: kca://book/amzn1.gr.book.v3.8Ri7V_teOO071q_6
+    work:
+      id: '96200758'
+  - authors:
+      author:
+        id: '4857800'
+        link: https://www.goodreads.com/author/show/4857800.Hildur_Kn_tsd_ttir
+        name: "Hildur Kn\xFAtsd\xF3ttir"
+    average_rating: '3.31'
+    id: '127306444'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1705511514l/127306444._SX98_.jpg
+    isbn: '1250322049'
+    isbn13: '9781250322043'
+    link: https://www.goodreads.com/book/show/127306444-the-night-guest
+    num_pages: '197'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1207'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1705511514l/127306444._SY75_.jpg
+    title: The Night Guest
+    title_without_series: The Night Guest
+    uri: kca://book/amzn1.gr.book.v3.5ERXO8y5GNYrropc
+    work:
+      id: '148402278'
+  - authors:
+      author:
+        id: '20512067'
+        link: https://www.goodreads.com/author/show/20512067.Vincent_Tirado
+        name: Vincent Tirado
+    average_rating: '3.31'
+    id: '199533606'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712707302l/199533606._SX98_.jpg
+    isbn: 0063383187
+    isbn13: '9780063383180'
+    link: https://www.goodreads.com/book/show/199533606-we-came-to-welcome-you
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1207'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712707302l/199533606._SY75_.jpg
+    title: We Came to Welcome You
+    title_without_series: We Came to Welcome You
+    uri: kca://book/amzn1.gr.book.v3.-PlDuQKTnK12HOTX
+    work:
+      id: '209572426'
+  - authors:
+      author:
+        id: '22134986'
+        link: https://www.goodreads.com/author/show/22134986.Kemi_Ashing_Giwa
+        name: Kemi Ashing-Giwa
+    average_rating: '3.31'
+    id: '203579241'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716256166l/203579241._SX98_.jpg
+    isbn: '1250901863'
+    isbn13: '9781250901866'
+    link: https://www.goodreads.com/book/show/203579241-this-world-is-not-yours
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1207'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716256166l/203579241._SY75_.jpg
+    title: This World Is Not Yours
+    title_without_series: This World Is Not Yours
+    uri: kca://book/amzn1.gr.book.v3.dxxM1di_8mRxggG8
+    work:
+      id: '98135817'
+  - authors:
+      author:
+        id: '8364296'
+        link: https://www.goodreads.com/author/show/8364296.Eden_Robins
+        name: Eden  Robins
+    average_rating: '3.31'
+    id: '203751806'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1705645794l/203751806._SX98_.jpg
+    isbn: '1728256038'
+    isbn13: '9781728256030'
+    link: https://www.goodreads.com/book/show/203751806-remember-you-will-die
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1207'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1705645794l/203751806._SY75_.jpg
+    title: Remember You Will Die
+    title_without_series: Remember You Will Die
+    uri: kca://book/amzn1.gr.book.v3.XCKfFJFeQWP-AqMh
+    work:
+      id: '209589183'
+  - authors:
+      author:
+        id: '15144570'
+        link: https://www.goodreads.com/author/show/15144570.Hannah_Mary_McKinnon
+        name: Hannah Mary McKinnon
+    average_rating: '3.31'
+    id: '198663066'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701468346l/198663066._SX98_.jpg
+    isbn: 0778305473
+    isbn13: '9780778305477'
+    link: https://www.goodreads.com/book/show/198663066-only-one-survives
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1207'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701468346l/198663066._SY75_.jpg
+    title: Only One Survives
+    title_without_series: Only One Survives
+    uri: kca://book/amzn1.gr.book.v3.JCSQFdV5rEcbUFy6
+    work:
+      id: '201737894'
+  - authors:
+      author:
+        id: '93757'
+        link: https://www.goodreads.com/author/show/93757.Helen_Phillips
+        name: Helen          Phillips
+    average_rating: '3.31'
+    id: '195791689'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699132200l/195791689._SX98_.jpg
+    isbn: '1668008831'
+    isbn13: '9781668008836'
+    link: https://www.goodreads.com/book/show/195791689-hum
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1207'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699132200l/195791689._SY75_.jpg
+    title: Hum
+    title_without_series: Hum
+    uri: kca://book/amzn1.gr.book.v3.1iTqyAc8L5lUGpl-
+    work:
+      id: '197832224'
+  - authors:
+      author:
+        id: '7211707'
+        link: https://www.goodreads.com/author/show/7211707.Jonathan_Strahan
+        name: Jonathan Strahan
+    average_rating: '3.31'
+    id: '198821064'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701961448l/198821064._SX98_.jpg
+    isbn: '1616964200'
+    isbn13: '9781616964207'
+    link: https://www.goodreads.com/book/show/198821064-new-adventures-in-space-opera
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1207'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701961448l/198821064._SY75_.jpg
+    title: New Adventures in Space Opera
+    title_without_series: New Adventures in Space Opera
+    uri: kca://book/amzn1.gr.book.v3.08AsHohwa7v5vD0c
+    work:
+      id: '202060161'
+  - authors:
+      author:
+        id: '19278992'
+        link: https://www.goodreads.com/author/show/19278992.Jesse_Q_Sutanto
+        name: Jesse Q. Sutanto
+    average_rating: '3.31'
+    id: '202468441'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1705344517l/202468441._SX98_.jpg
+    isbn: 0593546946
+    isbn13: '9780593546949'
+    link: https://www.goodreads.com/book/show/202468441-you-will-never-be-me
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1207'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1705344517l/202468441._SY75_.jpg
+    title: You Will Never Be Me
+    title_without_series: You Will Never Be Me
+    uri: kca://book/amzn1.gr.book.v3.Ves3GXXo2mlRjGLS
+    work:
+      id: '207903905'
+  - authors:
+      author:
+        id: '5135449'
+        link: https://www.goodreads.com/author/show/5135449.Delilah_S_Dawson
+        name: Delilah S. Dawson
+    average_rating: '3.31'
+    id: '202490408'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712783563l/202490408._SX98_.jpg
+    isbn: '1803368349'
+    isbn13: '9781803368344'
+    link: https://www.goodreads.com/book/show/202490408-guillotine
+    num_pages: '208'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1207'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712783563l/202490408._SY75_.jpg
+    title: Guillotine
+    title_without_series: Guillotine
+    uri: kca://book/amzn1.gr.book.v3.eo1IcrCiYPwe2Tke
+    work:
+      id: '207938302'
+  - authors:
+      author:
+        id: '22476444'
+        link: https://www.goodreads.com/author/show/22476444.Jessa_Maxwell
+        name: Jessa Maxwell
+    average_rating: '3.31'
+    id: '199798497'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707509221l/199798497._SX98_.jpg
+    isbn: '1668008033'
+    isbn13: '9781668008034'
+    link: https://www.goodreads.com/book/show/199798497-i-need-you-to-read-this
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1207'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707509221l/199798497._SY75_.jpg
+    title: I Need You to Read This
+    title_without_series: I Need You to Read This
+    uri: kca://book/amzn1.gr.book.v3.ST9TMssxjoxB8aJl
+    work:
+      id: '204370907'
+  - authors:
+      author:
+        id: '19495278'
+        link: https://www.goodreads.com/author/show/19495278.John_Fram
+        name: John Fram
+    average_rating: '3.31'
+    id: '199798083'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1702267182l/199798083._SX98_.jpg
+    isbn: '1668031442'
+    isbn13: '9781668031445'
+    link: https://www.goodreads.com/book/show/199798083-no-road-home
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1207'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1702267182l/199798083._SY75_.jpg
+    title: No Road Home
+    title_without_series: No Road Home
+    uri: kca://book/amzn1.gr.book.v3.tgZm5Sh6Ov1wmosU
+    work:
+      id: '100191522'
+  - authors:
+      author:
+        id: '173181'
+        link: https://www.goodreads.com/author/show/173181.Jason_Rekulak
+        name: Jason Rekulak
+    average_rating: '3.31'
+    id: '203579177'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728476850l/203579177._SX98_.jpg
+    isbn: '1250895782'
+    isbn13: '9781250895783'
+    link: https://www.goodreads.com/book/show/203579177-the-last-one-at-the-wedding
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1207'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728476850l/203579177._SY75_.jpg
+    title: The Last One at the Wedding
+    title_without_series: The Last One at the Wedding
+    uri: kca://book/amzn1.gr.book.v3.As2tp15MTsjRhsUt
+    work:
+      id: '209357617'
+  - authors:
+      author:
+        id: '27528'
+        link: https://www.goodreads.com/author/show/27528.Nalo_Hopkinson
+        name: Nalo Hopkinson
+    average_rating: '3.31'
+    id: '199798012'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724926065l/199798012._SX98_.jpg
+    isbn: '1668005107'
+    isbn13: '9781668005101'
+    link: https://www.goodreads.com/book/show/199798012-blackheart-man
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1207'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724926065l/199798012._SY75_.jpg
+    title: Blackheart Man
+    title_without_series: Blackheart Man
+    uri: kca://book/amzn1.gr.book.v3.QE0KnRhqH8TkMxLH
+    work:
+      id: '11562505'
+  - authors:
+      author:
+        id: '45713624'
+        link: https://www.goodreads.com/author/show/45713624.Leon_Kemp
+        name: Leon  Kemp
+    average_rating: '3.31'
+    id: '199531773'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697642609l/199531773._SX98_.jpg
+    isbn: 0063324857
+    isbn13: '9780063324855'
+    link: https://www.goodreads.com/book/show/199531773-trespass-against-us
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1207'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697642609l/199531773._SY75_.jpg
+    title: Trespass Against Us
+    title_without_series: Trespass Against Us
+    uri: kca://book/amzn1.gr.book.v3.VaDSWHVUA-0g5ybH
+    work:
+      id: '204000734'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699723770l/200117170._SY75_.jpg
+started_at: '2024-08-28T00:00:00-07:00'
+text_reviews_count:
+  '#text': '31'
+  '@type': integer
+title: Glass Houses
+title_without_series: Glass Houses
+uri: kca://book/amzn1.gr.book.v3.RzyV5kScxH1ji_Us
+url: https://www.goodreads.com/book/show/200117170-glass-houses
+work:
+  id: '197724518'
+  uri: kca://work/amzn1.gr.work.v3.Iz1CmT8nW1QJNxGc

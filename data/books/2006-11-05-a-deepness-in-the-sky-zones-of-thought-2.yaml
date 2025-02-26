@@ -1,0 +1,776 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.08'
+    id: '44037'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1215099239p5/44037.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/44037.Vernor_Vinge
+    name: Vernor Vinge
+    ratings_count: '149454'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1215099239p2/44037.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '7753'
+average_rating: '4.32'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: The prequel to <i>A Fire Upon The Deep</i>, this is the story of Pham
+  Nuwen, a small cog in the interstellar trading fleet of the Queng Ho. The Queng
+  Ho and the Emergents are orbiting the dormant planet Arachna, which is about to
+  wake up to technology, but the Emergents' plans are sinister.
+edition_information: First, First Edition
+format: Mass Market Paperback
+id: '226004'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1217218691l/226004._SY160_.jpg
+is_ebook: 'false'
+isbn: 0812536355
+isbn13: '9780812536355'
+json: '{"id": "226004", "isbn": "0812536355", "isbn13": "9780812536355", "text_reviews_count":
+  {"@type": "integer", "#text": "1096"}, "uri": "kca://book/amzn1.gr.book.v1.QAo0n279_XA2-6OaX7OUSQ",
+  "title": "A Deepness in the Sky (Zones of Thought, #2)", "title_without_series":
+  "A Deepness in the Sky", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1217218691l/226004._SY160_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1217218691l/226004._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/226004.A_Deepness_in_the_Sky",
+  "num_pages": "775", "format": "Mass Market Paperback", "edition_information": "First,
+  First Edition", "publisher": "Tor Science Fiction", "publication_day": "15", "publication_year":
+  "2000", "publication_month": "1", "average_rating": "4.32", "ratings_count": "34278",
+  "description": "The prequel to <i>A Fire Upon The Deep</i>, this is the story of
+  Pham Nuwen, a small cog in the interstellar trading fleet of the Queng Ho. The Queng
+  Ho and the Emergents are orbiting the dormant planet Arachna, which is about to
+  wake up to technology, but the Emergents'' plans are sinister.", "authors": {"author":
+  {"id": "44037", "name": "Vernor Vinge", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"},
+  "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge", "average_rating":
+  "4.08", "ratings_count": "149454", "text_reviews_count": "7753"}}, "published":
+  "2000", "work": {"id": "1270006", "uri": "kca://work/amzn1.gr.work.v1.-gSR03di3ImGro4HPw9hMA"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417647",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B002H8ORKM
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/226004.A_Deepness_in_the_Sky
+marketplace_id: ATVPDKIKX0DER
+num_pages: '775'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '19997'
+    '@name': to-read
+  - '@count': '1218'
+    '@name': science-fiction
+  - '@count': '1042'
+    '@name': currently-reading
+  - '@count': '894'
+    '@name': sci-fi
+  - '@count': '435'
+    '@name': fiction
+  - '@count': '309'
+    '@name': scifi
+  - '@count': '264'
+    '@name': favorites
+  - '@count': '184'
+    '@name': owned
+  - '@count': '182'
+    '@name': space-opera
+  - '@count': '167'
+    '@name': sf
+  - '@count': '100'
+    '@name': hugo
+  - '@count': '99'
+    '@name': hugo-winners
+  - '@count': '64'
+    '@name': audiobook
+  - '@count': '62'
+    '@name': hugo-award
+  - '@count': '58'
+    '@name': sci-fi-fantasy
+  - '@count': '57'
+    '@name': hugo-award-winners
+  - '@count': '54'
+    '@name': default
+  - '@count': '50'
+    '@name': aliens
+  - '@count': '47'
+    '@name': ebook
+  - '@count': '40'
+    '@name': speculative-fiction
+  - '@count': '39'
+    '@name': space
+  - '@count': '36'
+    '@name': series
+  - '@count': '36'
+    '@name': library
+  - '@count': '35'
+    '@name': fantasy
+  - '@count': '34'
+    '@name': sf-masterworks
+  - '@count': '34'
+    '@name': science
+  - '@count': '32'
+    '@name': kindle
+  - '@count': '32'
+    '@name': hugo-winner
+  - '@count': '31'
+    '@name': scifi-fantasy
+  - '@count': '30'
+    '@name': audible
+  - '@count': '30'
+    '@name': hugo-awards
+  - '@count': '29'
+    '@name': hard-sci-fi
+  - '@count': '28'
+    '@name': science-fiction-fantasy
+  - '@count': '26'
+    '@name': first-contact
+  - '@count': '25'
+    '@name': dnf
+  - '@count': '24'
+    '@name': owned-books
+  - '@count': '22'
+    '@name': sf-fantasy
+  - '@count': '21'
+    '@name': audiobooks
+  - '@count': '21'
+    '@name': books-i-own
+  - '@count': '20'
+    '@name': abandoned
+  - '@count': '19'
+    '@name': to-buy
+  - '@count': '18'
+    '@name': did-not-finish
+  - '@count': '18'
+    '@name': sff
+  - '@count': '18'
+    '@name': sci-fi-and-fantasy
+  - '@count': '16'
+    '@name': hard-sf
+  - '@count': '16'
+    '@name': novel
+  - '@count': '15'
+    '@name': my-library
+  - '@count': '15'
+    '@name': novels
+  - '@count': '15'
+    '@name': hugos
+  - '@count': '15'
+    '@name': sf-f
+  - '@count': '15'
+    '@name': hugo-nebula
+  - '@count': '14'
+    '@name': sci-fi-to-read
+  - '@count': '14'
+    '@name': hard-science-fiction
+  - '@count': '14'
+    '@name': sciencefiction
+  - '@count': '13'
+    '@name': have
+  - '@count': '13'
+    '@name': vernor-vinge
+  - '@count': '13'
+    '@name': hugo-award-winner
+  - '@count': '13'
+    '@name': "ciencia-ficci\xF3n"
+  - '@count': '13'
+    '@name': 1990s
+  - '@count': '12'
+    '@name': zones-of-thought
+  - '@count': '12'
+    '@name': calibre
+  - '@count': '12'
+    '@name': audio
+  - '@count': '12'
+    '@name': to-read-sci-fi
+  - '@count': '12'
+    '@name': all-time-favorites
+  - '@count': '12'
+    '@name': wish-list
+  - '@count': '12'
+    '@name': fantasy-sci-fi
+  - '@count': '11'
+    '@name': unfinished
+  - '@count': '11'
+    '@name': english
+  - '@count': '11'
+    '@name': ebooks
+  - '@count': '10'
+    '@name': science-fiction-and-fantasy
+  - '@count': '10'
+    '@name': literature
+  - '@count': '10'
+    '@name': reviewed
+  - '@count': '9'
+    '@name': my-books
+  - '@count': '9'
+    '@name': tbr
+  - '@count': '9'
+    '@name': physical
+  - '@count': '9'
+    '@name': maybe
+  - '@count': '9'
+    '@name': read-next
+  - '@count': '9'
+    '@name': recommended
+  - '@count': '9'
+    '@name': audio-book
+  - '@count': '9'
+    '@name': genre-sci-fi
+  - '@count': '9'
+    '@name': favourites
+  - '@count': '9'
+    '@name': paperback
+  - '@count': '9'
+    '@name': favorite
+  - '@count': '9'
+    '@name': e-books
+  - '@count': '9'
+    '@name': award-winner
+  - '@count': '8'
+    '@name': 5-star
+  - '@count': '8'
+    '@name': nebula-nominee
+  - '@count': '8'
+    '@name': ciencia-ficcion
+  - '@count': '8'
+    '@name': award-hugo
+  - '@count': '8'
+    '@name': 20th-century
+  - '@count': '8'
+    '@name': owned-unread
+  - '@count': '8'
+    '@name': reread
+  - '@count': '8'
+    '@name': future
+  - '@count': '8'
+    '@name': to-get
+  - '@count': '8'
+    '@name': transhumanism
+  - '@count': '7'
+    '@name': next-in-series
+  - '@count': '7'
+    '@name': classics
+  - '@count': '7'
+    '@name': books
+  - '@count': '7'
+    '@name': nebula
+  - '@count': '7'
+    '@name': hugo-nebula-winners
+publication_day: '15'
+publication_month: '1'
+publication_year: '2000'
+published: '2000'
+publisher: Tor Science Fiction
+ratings_count: '34278'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417647
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/226004.A_Deepness_in_the_Sky\"\
+  >A Deepness in the Sky Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0812536355&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/226004.A_Deepness_in_the_Sky?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '2160574'
+    series:
+      description: "Thousands of years from now, a mind's potential is determined\
+        \ by its location in space\u2014from superintelligent entities in the Transcend,\
+        \ to the limited minds of the Unthinking Depths, where only simple creatures\
+        \ and technology can function. Nobody knows what strange force partitioned\
+        \ space into these \"regions of thought,\" but when the warring Straumli realm\
+        \ use an ancient Transcendent artifact as a weapon, they unwittingly unleash\
+        \ an awesome power that destroys thousands of worlds and enslaves all natural\
+        \ and artificial intelligence.\n    \n    Vernor Vinge first used the concepts\
+        \ of <i>\"Zones of Thought\"</i> in a 1988 novella, <i>\"The Blabber\"</i>,\
+        \ which occurs after Fire. Vinge's novel, <i>A Deepness in the Sky</i>, is\
+        \ a prequel to <i>A Fire Upon the Deep</i> set 20,000 years earlier and featuring\
+        \ Pham Nuwen. Vinge's <i>Children of the Sky</i> is \"a near-term sequel to\
+        \ A Fire Upon the Deep\", set ten years later.\n    \n    Vinge's former wife,\
+        \ Joan D. Vinge, has also written stories in the Zones of Thought universe,\
+        \ based on his notes. These include <i>\"The Outcasts of Heaven Belt\"</i>\
+        \ and <i>\"Legacy\"</i>.\n    \n    Vernor Vinge won a Hugo Award for <i>A\
+        \ Fire Upon the Deep</i>. He also won a Hugo, a John W. Campbell and a Prometheus\
+        \ Award for <i>A Deepness in the Sky</i>.\n    \n    \n    Publication order\
+        \ is as follows:\n    \n    A Fire Upon the Deep\n    A Deepness in the Sky\n\
+        \    The Children of the Sky\n    \n    \n    Chronological order is:\n  \
+        \  \n    A Deepness in the Sky\n    A Fire Upon the Deep\n    The Children\
+        \ of the Sky\n    \n    Some say \"The first book can be read as a stand-alone.\
+        \ Book 3 is the continuation of book 1, and has less of the space opera element.\
+        \ Book 2 can be skipped from the story, or can be read as itts own book. In\
+        \ the timeline it is a prequel but it is loosely related to book 1.\""
+      id: '52585'
+      note: null
+      numbered: 'true'
+      primary_work_count: '3'
+      series_works_count: '9'
+      title: Zones of Thought
+    user_position: '2'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '27167'
+        link: https://www.goodreads.com/author/show/27167.Peter_Watts
+        name: Peter Watts
+    average_rating: '4.32'
+    id: '48484'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0765312182
+    isbn13: '9780765312181'
+    link: https://www.goodreads.com/book/show/48484.Blindsight
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '34278'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Blindsight (Firefall, #1)'
+    title_without_series: Blindsight
+    uri: kca://book/amzn1.gr.book.v1.A4CNk2qG0qxshK4OKH9lJQ
+    work:
+      id: '223813791'
+  - authors:
+      author:
+        id: '1293688'
+        link: https://www.goodreads.com/author/show/1293688.A_E_van_Vogt
+        name: A.E. van Vogt
+    average_rating: '4.32'
+    id: '358902'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0671431293
+    isbn13: '9780671431297'
+    link: https://www.goodreads.com/book/show/358902.The_Weapon_Shops_of_Isher
+    num_pages: '191'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '34278'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Weapon Shops of Isher
+    title_without_series: The Weapon Shops of Isher
+    uri: kca://book/amzn1.gr.book.v1.6AhNTEs7bHHsn2Nm2l6foA
+    work:
+      id: '81815150'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.32'
+    id: '62315578'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671150806l/62315578._SX98_.jpg
+    isbn: '1668628104'
+    isbn13: '9781668628102'
+    link: https://www.goodreads.com/book/show/62315578-lords-of-uncreation
+    num_pages: '608'
+    publication_day: '2'
+    publication_month: '5'
+    publication_year: '2023'
+    ratings_count: '34278'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671150806l/62315578._SY75_.jpg
+    title: 'Lords of Uncreation (The Final Architecture, #3)'
+    title_without_series: Lords of Uncreation
+    uri: kca://book/amzn1.gr.book.v3.b6Lkk7CCldRK1y9X
+    work:
+      id: '98118051'
+  - authors:
+      author:
+        id: '34429'
+        link: https://www.goodreads.com/author/show/34429.Bruce_Sterling
+        name: Bruce Sterling
+    average_rating: '4.32'
+    id: '359386'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403180973l/359386._SY160_.jpg
+    isbn: 055357292X
+    isbn13: '9780553572926'
+    link: https://www.goodreads.com/book/show/359386.Heavy_Weather
+    num_pages: '310'
+    publication_day: null
+    publication_month: '1'
+    publication_year: '1996'
+    ratings_count: '34278'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403180973l/359386._SY75_.jpg
+    title: Heavy Weather
+    title_without_series: Heavy Weather
+    uri: kca://book/amzn1.gr.book.v1.tZFnea9tRlr3X7zPLhn4qg
+    work:
+      id: '215064896'
+  - authors:
+      author:
+        id: '31232'
+        link: https://www.goodreads.com/author/show/31232.Steven_Erikson
+        name: Steven Erikson
+    average_rating: '4.32'
+    id: '55401'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0765310023'
+    isbn13: '9780765310026'
+    link: https://www.goodreads.com/book/show/55401.Deadhouse_Gates
+    num_pages: '604'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '34278'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Deadhouse Gates (Malazan Book of the Fallen, #2)'
+    title_without_series: Deadhouse Gates
+    uri: kca://book/amzn1.gr.book.v1.bvWLdPLh8QAinLFO-RjGZQ
+    work:
+      id: '195934919'
+  - authors:
+      author:
+        id: '3365457'
+        link: https://www.goodreads.com/author/show/3365457.Ann_Leckie
+        name: Ann Leckie
+    average_rating: '4.32'
+    id: '62873999'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673303646l/62873999._SX98_.jpg
+    isbn: 031628971X
+    isbn13: '9780316289719'
+    link: https://www.goodreads.com/book/show/62873999-translation-state
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '34278'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673303646l/62873999._SY75_.jpg
+    title: Translation State
+    title_without_series: Translation State
+    uri: kca://book/amzn1.gr.book.v3.IPz5gT7elXgSEOUd
+    work:
+      id: '98667857'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '4.32'
+    id: '65211701'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674575978l/65211701._SX98_.jpg
+    isbn: '1250826977'
+    isbn13: '9781250826978'
+    link: https://www.goodreads.com/book/show/65211701-system-collapse
+    num_pages: '245'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '34278'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674575978l/65211701._SY75_.jpg
+    title: 'System Collapse (The Murderbot Diaries, #7)'
+    title_without_series: System Collapse
+    uri: kca://book/amzn1.gr.book.v3.BlgXZE2jb-Pp_eWq
+    work:
+      id: '90712113'
+  - authors:
+      author:
+        id: '51204'
+        link: https://www.goodreads.com/author/show/51204.Alastair_Reynolds
+        name: Alastair Reynolds
+    average_rating: '4.32'
+    id: '75593499'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675082567l/75593499._SX98_.jpg
+    isbn: 0316462845
+    isbn13: '9780316462846'
+    link: https://www.goodreads.com/book/show/75593499-machine-vendetta
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '34278'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675082567l/75593499._SY75_.jpg
+    title: 'Machine Vendetta (Prefect Dreyfus Emergency #3)'
+    title_without_series: Machine Vendetta
+    uri: kca://book/amzn1.gr.book.v3.YVE16ro2h-cBRWsy
+    work:
+      id: '99755612'
+  - authors:
+      author:
+        id: '51204'
+        link: https://www.goodreads.com/author/show/51204.Alastair_Reynolds
+        name: Alastair Reynolds
+    average_rating: '4.32'
+    id: '893590'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0575075163'
+    isbn13: '9780575075160'
+    link: https://www.goodreads.com/book/show/893590.Diamond_Dogs_Turquoise_Days
+    num_pages: '231'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '34278'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Diamond Dogs, Turquoise Days
+    title_without_series: Diamond Dogs, Turquoise Days
+    uri: kca://book/amzn1.gr.book.v1.VPayF85OHapdQQCKYSimMQ
+    work:
+      id: '878818'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.32'
+    id: '60850767'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655929460l/60850767._SX98_.jpg
+    isbn: '1529087201'
+    isbn13: '9781529087208'
+    link: https://www.goodreads.com/book/show/60850767-children-of-memory
+    num_pages: '486'
+    publication_day: '24'
+    publication_month: '11'
+    publication_year: '2022'
+    ratings_count: '34278'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655929460l/60850767._SY75_.jpg
+    title: 'Children of Memory (Children of Time, #3)'
+    title_without_series: Children of Memory
+    uri: kca://book/amzn1.gr.book.v3.xEoaLme9tUe6Ppqa
+    work:
+      id: '95966083'
+  - authors:
+      author:
+        id: '1858'
+        link: https://www.goodreads.com/author/show/1858.Kim_Stanley_Robinson
+        name: Kim Stanley Robinson
+    average_rating: '4.32'
+    id: '41121'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0553585819
+    isbn13: '9780553585810'
+    link: https://www.goodreads.com/book/show/41121.Fifty_Degrees_Below
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '34278'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Fifty Degrees Below (Science in the Capital, #2)'
+    title_without_series: Fifty Degrees Below
+    uri: kca://book/amzn1.gr.book.v1.6ZTNoazMqv_S9WcyR_sNQw
+    work:
+      id: '197004851'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.32'
+    id: '55278507'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724827773l/55278507._SX98_.jpg
+    isbn: '1549106392'
+    isbn13: '9781549106392'
+    link: https://www.goodreads.com/book/show/55278507-shards-of-earth
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '34278'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724827773l/55278507._SY75_.jpg
+    title: 'Shards of Earth (The Final Architecture, #1)'
+    title_without_series: Shards of Earth
+    uri: kca://book/amzn1.gr.book.v3.iXJ8HRwu2xYH7ClI
+    work:
+      id: '86200930'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.32'
+    id: '195443798'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SX98_.jpg
+    isbn: '1035013770'
+    isbn13: '9781035013777'
+    link: https://www.goodreads.com/book/show/195443798-alien-clay
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '34278'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SY75_.jpg
+    title: Alien Clay
+    title_without_series: Alien Clay
+    uri: kca://book/amzn1.gr.book.v3.U07jHOWpgU_-RRTg
+    work:
+      id: '197089092'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.32'
+    id: '201930181'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SX98_.jpg
+    isbn: 031652557X
+    isbn13: '9780316525572'
+    link: https://www.goodreads.com/book/show/201930181-the-mercy-of-gods
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '34278'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SY75_.jpg
+    title: "The Mercy of Gods (The Captive\u2019s War, #1)"
+    title_without_series: The Mercy of Gods
+    uri: kca://book/amzn1.gr.book.v3.nndIiP3mF2vHLfgz
+    work:
+      id: '95320019'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.32'
+    id: '58950674'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1641881897l/58950674._SX98_.jpg
+    isbn: '1668604906'
+    isbn13: '9781668604908'
+    link: https://www.goodreads.com/book/show/58950674-eyes-of-the-void
+    num_pages: '596'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '34278'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1641881897l/58950674._SY75_.jpg
+    title: 'Eyes of the Void (The Final Architecture, #2)'
+    title_without_series: Eyes of the Void
+    uri: kca://book/amzn1.gr.book.v3.KHZ5S7SZsGl0dUNs
+    work:
+      id: '92907302'
+  - authors:
+      author:
+        id: '989968'
+        link: https://www.goodreads.com/author/show/989968.C_J_Cherryh
+        name: C.J. Cherryh
+    average_rating: '4.32'
+    id: '57127'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1295778104l/57127._SX98_.jpg
+    isbn: 0445209798
+    isbn13: '9780445209794'
+    link: https://www.goodreads.com/book/show/57127.Rimrunners
+    num_pages: '280'
+    publication_day: null
+    publication_month: '2'
+    publication_year: '1990'
+    ratings_count: '34278'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1295778104l/57127._SY75_.jpg
+    title: 'Rimrunners (The Company Wars, #3)'
+    title_without_series: Rimrunners
+    uri: kca://book/amzn1.gr.book.v1.bopQAqv3x3bf8JptzDoYiw
+    work:
+      id: '196855899'
+  - authors:
+      author:
+        id: '16094'
+        link: https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold
+        name: Lois McMaster Bujold
+    average_rating: '4.32'
+    id: '76811'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327916933l/76811._SX98_.jpg
+    isbn: 0671578294
+    isbn13: '9780671578299'
+    link: https://www.goodreads.com/book/show/76811.Borders_of_Infinity
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '34278'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327916933l/76811._SY75_.jpg
+    title: 'Borders of Infinity (Vorkosigan Saga [Publication] #5.1-5.3)'
+    title_without_series: Borders of Infinity
+    uri: kca://book/amzn1.gr.book.v1.TlReLubOwMypEoV6DlOxAw
+    work:
+      id: '1129260'
+  - authors:
+      author:
+        id: '3064305'
+        link: https://www.goodreads.com/author/show/3064305.Hugh_Howey
+        name: Hugh Howey
+    average_rating: '4.32'
+    id: '13453029'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349614200l/13453029._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/13453029-wool-omnibus
+    num_pages: '509'
+    publication_day: '25'
+    publication_month: '1'
+    publication_year: '2012'
+    ratings_count: '34278'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349614200l/13453029._SY75_.jpg
+    title: 'Wool Omnibus (Silo, #1)'
+    title_without_series: Wool Omnibus
+    uri: kca://book/amzn1.gr.book.v1.nd-CMn5seotcSCK6NAiLrQ
+    work:
+      id: '18979356'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1217218691l/226004._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '1096'
+  '@type': integer
+title: 'A Deepness in the Sky (Zones of Thought, #2)'
+title_without_series: A Deepness in the Sky
+uri: kca://book/amzn1.gr.book.v1.QAo0n279_XA2-6OaX7OUSQ
+url: https://www.goodreads.com/book/show/226004.A_Deepness_in_the_Sky
+work:
+  id: '1270006'
+  uri: kca://work/amzn1.gr.work.v1.-gSR03di3ImGro4HPw9hMA

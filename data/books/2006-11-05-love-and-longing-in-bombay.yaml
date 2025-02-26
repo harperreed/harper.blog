@@ -1,0 +1,734 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.85'
+    id: '22496'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1356276914p5/22496.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/22496.Vikram_Chandra
+    name: Vikram Chandra
+    ratings_count: '24780'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1356276914p2/22496.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '2706'
+average_rating: '3.58'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: null
+edition_information: null
+format: null
+id: '129677'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: '0140265724'
+isbn13: '9780140265729'
+json: '{"id": "129677", "isbn": "0140265724", "isbn13": "9780140265729", "text_reviews_count":
+  {"@type": "integer", "#text": "6"}, "uri": "kca://book/amzn1.gr.book.v1.Y1h_LkjNhekgRiP1kLv3VQ",
+  "title": "Love and Longing in Bombay", "title_without_series": "Love and Longing
+  in Bombay", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/129677.Love_and_Longing_in_Bombay",
+  "num_pages": "268", "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.58", "ratings_count": "2571", "description": null, "authors": {"author": {"id":
+  "22496", "name": "Vikram Chandra", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1356276914p5/22496.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1356276914p2/22496.jpg"},
+  "link": "https://www.goodreads.com/author/show/22496.Vikram_Chandra", "average_rating":
+  "3.85", "ratings_count": "24780", "text_reviews_count": "2706"}}, "published": null,
+  "work": {"id": "939142", "uri": "kca://work/amzn1.gr.work.v1.DwpmesSPqBL8Y1r7HRnrsA"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417658",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B004ZWNQP0
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/129677.Love_and_Longing_in_Bombay
+marketplace_id: ATVPDKIKX0DER
+num_pages: '268'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '4509'
+    '@name': to-read
+  - '@count': '101'
+    '@name': fiction
+  - '@count': '92'
+    '@name': currently-reading
+  - '@count': '76'
+    '@name': india
+  - '@count': '64'
+    '@name': short-stories
+  - '@count': '16'
+    '@name': indian
+  - '@count': '15'
+    '@name': indian-authors
+  - '@count': '15'
+    '@name': indian-fiction
+  - '@count': '11'
+    '@name': south-asian
+  - '@count': '11'
+    '@name': favorites
+  - '@count': '7'
+    '@name': indian-literature
+  - '@count': '7'
+    '@name': owned
+  - '@count': '6'
+    '@name': default
+  - '@count': '6'
+    '@name': literary-fiction
+  - '@count': '6'
+    '@name': books-i-own
+  - '@count': '5'
+    '@name': south-asian-fiction
+  - '@count': '5'
+    '@name': south-asia
+  - '@count': '5'
+    '@name': contemporary
+  - '@count': '5'
+    '@name': shortstories
+  - '@count': '4'
+    '@name': my-books
+  - '@count': '4'
+    '@name': indian-writing
+  - '@count': '4'
+    '@name': indian-writers
+  - '@count': '4'
+    '@name': owned-books
+  - '@count': '4'
+    '@name': library
+  - '@count': '4'
+    '@name': my-library
+  - '@count': '4'
+    '@name': mumbai
+  - '@count': '4'
+    '@name': wish-list
+  - '@count': '4'
+    '@name': india-fiction
+  - '@count': '3'
+    '@name': south-asian-literature
+  - '@count': '3'
+    '@name': short-story-collections
+  - '@count': '3'
+    '@name': i-own
+  - '@count': '3'
+    '@name': cultural-india
+  - '@count': '3'
+    '@name': indian-author
+  - '@count': '3'
+    '@name': to-read-fiction
+  - '@count': '3'
+    '@name': book-club
+  - '@count': '3'
+    '@name': bombay
+  - '@count': '3'
+    '@name': narrativa
+  - '@count': '3'
+    '@name': stories
+  - '@count': '3'
+    '@name': asia
+  - '@count': '3'
+    '@name': indian-lit
+  - '@count': '3'
+    '@name': literature
+  - '@count': '2'
+    '@name': places
+  - '@count': '2'
+    '@name': my-shelf
+  - '@count': '2'
+    '@name': indien
+  - '@count': '2'
+    '@name': foreign-literature
+  - '@count': '2'
+    '@name': award-winning
+  - '@count': '2'
+    '@name': collection
+  - '@count': '2'
+    '@name': abandoned
+  - '@count': '2'
+    '@name': south-east-asia
+  - '@count': '2'
+    '@name': male-author
+  - '@count': '2'
+    '@name': lit-ma
+  - '@count': '2'
+    '@name': reviewed
+  - '@count': '2'
+    '@name': e-books
+  - '@count': '2'
+    '@name': maybe
+  - '@count': '2'
+    '@name': read-in-2015
+  - '@count': '2'
+    '@name': signed
+  - '@count': '2'
+    '@name': drama
+  - '@count': '2'
+    '@name': books
+  - '@count': '2'
+    '@name': read-2013
+  - '@count': '2'
+    '@name': own-it
+  - '@count': '2'
+    '@name': novels
+  - '@count': '2'
+    '@name': fiction-short
+  - '@count': '2'
+    '@name': commonwealth-writers-prize
+  - '@count': '2'
+    '@name': mystery
+  - '@count': '2'
+    '@name': indian-subcontinent
+  - '@count': '2'
+    '@name': finished
+  - '@count': '2'
+    '@name': short-story-collection
+  - '@count': '2'
+    '@name': india-books
+  - '@count': '2'
+    '@name': shelved
+  - '@count': '2'
+    '@name': travel
+  - '@count': '2'
+    '@name': desi
+  - '@count': '1'
+    '@name': modern
+  - '@count': '1'
+    '@name': raccolta-di-racconti
+  - '@count': '1'
+    '@name': abandoned-for-now
+  - '@count': '1'
+    '@name': bombay-books
+  - '@count': '1'
+    '@name': in-my-library
+  - '@count': '1'
+    '@name': 2025-tbr
+  - '@count': '1'
+    '@name': geshelved
+  - '@count': '1'
+    '@name': books-read-in-2024
+  - '@count': '1'
+    '@name': books-i-didn-t-like
+  - '@count': '1'
+    '@name': recommended
+  - '@count': '1'
+    '@name': just-can-t-finish
+  - '@count': '1'
+    '@name': shelved-not-to-read
+  - '@count': '1'
+    '@name': alpine-ascents
+  - '@count': '1'
+    '@name': do-not-own
+  - '@count': '1'
+    '@name': books-that-i-own
+  - '@count': '1'
+    '@name': pause
+  - '@count': '1'
+    '@name': asian-delights
+  - '@count': '1'
+    '@name': on-colonialism
+  - '@count': '1'
+    '@name': tsundoku
+  - '@count': '1'
+    '@name': linked-stories
+  - '@count': '1'
+    '@name': indian-authors-books
+  - '@count': '1'
+    '@name': unsure-but-in-a-good-way
+  - '@count': '1'
+    '@name': '48'
+  - '@count': '1'
+    '@name': wadias-home-library
+  - '@count': '1'
+    '@name': wadia-s-collection
+  - '@count': '1'
+    '@name': 2024read
+  - '@count': '1'
+    '@name': amazon
+  - '@count': '1'
+    '@name': wtr
+  - '@count': '1'
+    '@name': complete-collection
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '2571'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417658
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/129677.Love_and_Longing_in_Bombay\"\
+  >Love and Longing in Bombay Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0140265724&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/129677.Love_and_Longing_in_Bombay?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '3369'
+        link: https://www.goodreads.com/author/show/3369.Amitav_Ghosh
+        name: Amitav Ghosh
+    average_rating: '3.58'
+    id: '77103'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520866736l/77103._SX98_.jpg
+    isbn: 0375758771
+    isbn13: '9780375758775'
+    link: https://www.goodreads.com/book/show/77103.The_Glass_Palace
+    num_pages: '486'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2571'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520866736l/77103._SY75_.jpg
+    title: The Glass Palace
+    title_without_series: The Glass Palace
+    uri: kca://book/amzn1.gr.book.v1.K-BdAq96gxlwDmCCGOma1A
+    work:
+      id: '74541'
+  - authors:
+      author:
+        id: '58501'
+        link: https://www.goodreads.com/author/show/58501.Anita_Nair
+        name: Anita Nair
+    average_rating: '3.58'
+    id: '16090131'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350378362l/16090131._SX98_.jpg
+    isbn: '9350293805'
+    isbn13: '9789350293805'
+    link: https://www.goodreads.com/book/show/16090131-cut-like-wound
+    num_pages: '368'
+    publication_day: null
+    publication_month: '10'
+    publication_year: '2012'
+    ratings_count: '2571'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350378362l/16090131._SX50_.jpg
+    title: Cut Like Wound
+    title_without_series: Cut Like Wound
+    uri: kca://book/amzn1.gr.book.v1.8m6vADUESRfmRjaYxNQtag
+    work:
+      id: '21894059'
+  - authors:
+      author:
+        id: '61124'
+        link: https://www.goodreads.com/author/show/61124.Chetan_Bhagat
+        name: Chetan Bhagat
+    average_rating: '3.58'
+    id: '55024736'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1542094143'
+    isbn13: '9781542094146'
+    link: https://www.goodreads.com/book/show/55024736-one-arranged-murder
+    num_pages: '303'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2571'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: One Arranged Murder
+    title_without_series: One Arranged Murder
+    uri: kca://book/amzn1.gr.book.v3.H7FPWomFDyDqpsHL
+    work:
+      id: '85808468'
+  - authors:
+      author:
+        id: '4895913'
+        link: https://www.goodreads.com/author/show/4895913.Volga
+        name: Volga
+    average_rating: '3.58'
+    id: '31680189'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472147380l/31680189._SX98_.jpg
+    isbn: '9351772489'
+    isbn13: '9789351772484'
+    link: https://www.goodreads.com/book/show/31680189-the-liberation-of-sita
+    num_pages: '132'
+    publication_day: '22'
+    publication_month: '8'
+    publication_year: '2016'
+    ratings_count: '2571'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472147380l/31680189._SY75_.jpg
+    title: The Liberation of Sita
+    title_without_series: The Liberation of Sita
+    uri: kca://book/amzn1.gr.book.v1.xhrtYReOHISEB8a7ffGcXQ
+    work:
+      id: '52351134'
+  - authors:
+      author:
+        id: '123715'
+        link: https://www.goodreads.com/author/show/123715.Agatha_Christie
+        name: Agatha Christie
+    average_rating: '3.58'
+    id: '310224'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308808994l/310224._SX98_.jpg
+    isbn: 0007154925
+    isbn13: '9780007154920'
+    link: https://www.goodreads.com/book/show/310224.Passenger_to_Frankfurt
+    num_pages: '363'
+    publication_day: null
+    publication_month: null
+    publication_year: '2003'
+    ratings_count: '2571'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308808994l/310224._SY75_.jpg
+    title: Passenger to Frankfurt
+    title_without_series: Passenger to Frankfurt
+    uri: kca://book/amzn1.gr.book.v1.TY7O38M3zhXSYlLyX3-H6A
+    work:
+      id: '2277716'
+  - authors:
+      author:
+        id: '68668'
+        link: https://www.goodreads.com/author/show/68668.Jon_Fosse
+        name: Jon Fosse
+    average_rating: '3.58'
+    id: '8238557'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699390551l/8238557._SX98_.jpg
+    isbn: '1564785734'
+    isbn13: '9781564785732'
+    link: https://www.goodreads.com/book/show/8238557-aliss-at-the-fire
+    num_pages: '107'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2571'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699390551l/8238557._SX50_.jpg
+    title: Aliss at the Fire
+    title_without_series: Aliss at the Fire
+    uri: kca://book/amzn1.gr.book.v1.79fFUx06PMQqvtzlHmS0EA
+    work:
+      id: '13085981'
+  - authors:
+      author:
+        id: '32468'
+        link: https://www.goodreads.com/author/show/32468.Joe_Sacco
+        name: Joe Sacco
+    average_rating: '3.58'
+    id: '220337076'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734534722l/220337076._SX98_.jpg
+    isbn: null
+    isbn13: '9798875000904'
+    link: https://www.goodreads.com/book/show/220337076-war-on-gaza
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2571'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734534722l/220337076._SX50_.jpg
+    title: War on Gaza
+    title_without_series: War on Gaza
+    uri: kca://book/amzn1.gr.book.v3.05rDSGfyanwUv7kI
+    work:
+      id: '216183721'
+  - authors:
+      author:
+        id: '1455'
+        link: https://www.goodreads.com/author/show/1455.Ernest_Hemingway
+        name: Ernest Hemingway
+    average_rating: '3.58'
+    id: '108218'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/108218.Men_Without_Women
+    num_pages: '153'
+    publication_day: null
+    publication_month: null
+    publication_year: '2004'
+    ratings_count: '2571'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Men Without Women
+    title_without_series: Men Without Women
+    uri: kca://book/amzn1.gr.book.v1.rCbRmQYMOYCS1dpBqTc7YA
+    work:
+      id: '764891'
+  - authors:
+      author:
+        id: '20624515'
+        link: https://www.goodreads.com/author/show/20624515.Perumal_Murugan
+        name: Perumal Murugan
+    average_rating: '3.58'
+    id: '43116400'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '9353053587'
+    isbn13: '9789353053581'
+    link: https://www.goodreads.com/book/show/43116400-a-lonely-harvest
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2571'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: A Lonely Harvest (One Part Woman Book 2)
+    title_without_series: A Lonely Harvest
+    uri: kca://book/amzn1.gr.book.v1.xy1mmBq8wJL4DoR85_xLkQ
+    work:
+      id: '66917243'
+  - authors:
+      author:
+        id: '51589'
+        link: https://www.goodreads.com/author/show/51589.Chitra_Banerjee_Divakaruni
+        name: Chitra Banerjee Divakaruni
+    average_rating: '3.58'
+    id: '16235'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403188554l/16235._SX98_.jpg
+    isbn: 038548951X
+    isbn13: '9780385489515'
+    link: https://www.goodreads.com/book/show/16235.Sister_of_My_Heart
+    num_pages: '322'
+    publication_day: '18'
+    publication_month: '1'
+    publication_year: '2000'
+    ratings_count: '2571'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403188554l/16235._SY75_.jpg
+    title: 'Sister of My Heart (Anju and Sudha #1)'
+    title_without_series: Sister of My Heart
+    uri: kca://book/amzn1.gr.book.v1.g0nE6c-BlXTNtphxAKA-PQ
+    work:
+      id: '2483404'
+  - authors:
+      author:
+        id: '431149'
+        link: https://www.goodreads.com/author/show/431149.Truman_Capote
+        name: Truman Capote
+    average_rating: '3.58'
+    id: '1833952'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320462175l/1833952._SX98_.jpg
+    isbn: '1400066611'
+    isbn13: '9781400066612'
+    link: https://www.goodreads.com/book/show/1833952.Portraits_and_Observations
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2571'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320462175l/1833952._SX50_.jpg
+    title: 'Portraits and Observations: The Essays of Truman Capote'
+    title_without_series: 'Portraits and Observations: The Essays of Truman Capote'
+    uri: kca://book/amzn1.gr.book.v1.XsMkXLoDackNu5Y2SjHhMg
+    work:
+      id: '1833897'
+  - authors:
+      author:
+        id: '1417512'
+        link: https://www.goodreads.com/author/show/1417512.J_G_Farrell
+        name: J.G. Farrell
+    average_rating: '3.58'
+    id: '256280'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708115802l/256280._SX98_.jpg
+    isbn: 159017092X
+    isbn13: '9781590170922'
+    link: https://www.goodreads.com/book/show/256280.The_Siege_of_Krishnapur
+    num_pages: '344'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2571'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708115802l/256280._SY75_.jpg
+    title: 'The Siege of Krishnapur (Empire Trilogy, #2)'
+    title_without_series: The Siege of Krishnapur
+    uri: kca://book/amzn1.gr.book.v1.NHTswpQeIkNBlP_39SrOFg
+    work:
+      id: '1046167'
+  - authors:
+      author:
+        id: '810254'
+        link: https://www.goodreads.com/author/show/810254.Aravind_Adiga
+        name: Aravind Adiga
+    average_rating: '3.58'
+    id: '1768603'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710937569l/1768603._SX98_.jpg
+    isbn: '1416562591'
+    isbn13: '9781416562597'
+    link: https://www.goodreads.com/book/show/1768603.The_White_Tiger
+    num_pages: '276'
+    publication_day: null
+    publication_month: null
+    publication_year: '2008'
+    ratings_count: '2571'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710937569l/1768603._SY75_.jpg
+    title: The White Tiger
+    title_without_series: The White Tiger
+    uri: kca://book/amzn1.gr.book.v1.u2MprLaBiN3doEYXe3cUgg
+    work:
+      id: '1766737'
+  - authors:
+      author:
+        id: '15543'
+        link: https://www.goodreads.com/author/show/15543.Alan_Hollinghurst
+        name: Alan Hollinghurst
+    average_rating: '3.58'
+    id: '30106'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0679722564
+    isbn13: '9780679722564'
+    link: https://www.goodreads.com/book/show/30106.The_Swimming_Pool_Library
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2571'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Swimming-Pool Library
+    title_without_series: The Swimming-Pool Library
+    uri: kca://book/amzn1.gr.book.v1.N3XaM_gSOgX7g8cTi5Neog
+    work:
+      id: '2776591'
+  - authors:
+      author:
+        id: '490256'
+        link: https://www.goodreads.com/author/show/490256.Kevin_Barry
+        name: Kevin Barry
+    average_rating: '3.58'
+    id: '43256597'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555566030l/43256597._SX98_.jpg
+    isbn: 0385540310
+    isbn13: '9780385540315'
+    link: https://www.goodreads.com/book/show/43256597-night-boat-to-tangier
+    num_pages: '255'
+    publication_day: '17'
+    publication_month: '9'
+    publication_year: '2019'
+    ratings_count: '2571'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555566030l/43256597._SY75_.jpg
+    title: Night Boat to Tangier
+    title_without_series: Night Boat to Tangier
+    uri: kca://book/amzn1.gr.book.v1.JJa7aQmug3LrQjlF4dvYFQ
+    work:
+      id: '67129483'
+  - authors:
+      author:
+        id: '18567002'
+        link: https://www.goodreads.com/author/show/18567002.Shruti_Swamy
+        name: Shruti Swamy
+    average_rating: '3.58'
+    id: '52435018'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1616209895'
+    isbn13: '9781616209896'
+    link: https://www.goodreads.com/book/show/52435018-a-house-is-a-body
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2571'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: A House Is a Body
+    title_without_series: A House Is a Body
+    uri: kca://book/amzn1.gr.book.v3.feftiLCiGVCaWCYv
+    work:
+      id: '71323064'
+  - authors:
+      author:
+        id: '18486'
+        link: https://www.goodreads.com/author/show/18486.Audre_Lorde
+        name: Audre Lorde
+    average_rating: '3.58'
+    id: '32951'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0895941414
+    isbn13: '9780895941411'
+    link: https://www.goodreads.com/book/show/32951.Sister_Outsider
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2571'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Sister Outsider: Essays and Speeches'
+    title_without_series: 'Sister Outsider: Essays and Speeches'
+    uri: kca://book/amzn1.gr.book.v1.qyL7hHs0w5CtQQ0odvSzsA
+    work:
+      id: '716939'
+  - authors:
+      author:
+        id: '3525'
+        link: https://www.goodreads.com/author/show/3525.Edwidge_Danticat
+        name: Edwidge Danticat
+    average_rating: '3.58'
+    id: '43064139'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544534801l/43064139._SX98_.jpg
+    isbn: '0525521275'
+    isbn13: '9780525521273'
+    link: https://www.goodreads.com/book/show/43064139-everything-inside
+    num_pages: '224'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '2571'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544534801l/43064139._SX50_.jpg
+    title: Everything Inside
+    title_without_series: Everything Inside
+    uri: kca://book/amzn1.gr.book.v1.8DF0yajk0KnxWiXDISLeHQ
+    work:
+      id: '66854160'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '6'
+  '@type': integer
+title: Love and Longing in Bombay
+title_without_series: Love and Longing in Bombay
+uri: kca://book/amzn1.gr.book.v1.Y1h_LkjNhekgRiP1kLv3VQ
+url: https://www.goodreads.com/book/show/129677.Love_and_Longing_in_Bombay
+work:
+  id: '939142'
+  uri: kca://work/amzn1.gr.work.v1.DwpmesSPqBL8Y1r7HRnrsA

@@ -1,0 +1,765 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.91'
+    id: '8794'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1355510574p5/8794.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/8794.Charles_Stross
+    name: Charles Stross
+    ratings_count: '274483'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1355510574p2/8794.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '18236'
+average_rating: '3.90'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: ''
+description: 'NEVER VOLUNTEER FOR ACTIVE DUTY ...<br />Bob Howard is a low-level techie
+  working for a super-secret government agency. While his colleagues are out saving
+  the world, Bob''s under a desk restoring lost data. His world was dull and safe
+  - but then he went and got Noticed. <br /><br />Now, Bob is up to his neck in spycraft,
+  parallel universes, dimension-hopping terrorists, monstrous elder gods and the end
+  of the world. Only one thing is certain: it will take more than a full system reboot
+  to sort this mess out ...'
+edition_information: null
+format: null
+id: '101869'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'false'
+isbn: '0441013651'
+isbn13: '9780441013654'
+json: '{"id": "101869", "isbn": "0441013651", "isbn13": "9780441013654", "text_reviews_count":
+  {"@type": "integer", "#text": "1606"}, "uri": "kca://book/amzn1.gr.book.v1.S39QFnM7kqdNov5ZcykQJg",
+  "title": "The Atrocity Archives (Laundry Files, #1)", "title_without_series": "The
+  Atrocity Archives", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/101869.The_Atrocity_Archives",
+  "num_pages": "345", "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": "2006", "publication_month": "1", "average_rating":
+  "3.90", "ratings_count": "26580", "description": "NEVER VOLUNTEER FOR ACTIVE DUTY
+  ...<br />Bob Howard is a low-level techie working for a super-secret government
+  agency. While his colleagues are out saving the world, Bob''s under a desk restoring
+  lost data. His world was dull and safe - but then he went and got Noticed. <br /><br
+  />Now, Bob is up to his neck in spycraft, parallel universes, dimension-hopping
+  terrorists, monstrous elder gods and the end of the world. Only one thing is certain:
+  it will take more than a full system reboot to sort this mess out ...", "authors":
+  {"author": {"id": "8794", "name": "Charles Stross", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1355510574p5/8794.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1355510574p2/8794.jpg"},
+  "link": "https://www.goodreads.com/author/show/8794.Charles_Stross", "average_rating":
+  "3.91", "ratings_count": "274483", "text_reviews_count": "18236"}}, "published":
+  "2006", "work": {"id": "322252", "uri": "kca://work/amzn1.gr.work.v1.BUCEwjwaOAXXJwmJ-z6faQ"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/12429096",
+  "read_at": "", "started_at": "", "date": ""}'
+kindle_asin: B000OIZUIA
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/101869.The_Atrocity_Archives
+marketplace_id: ATVPDKIKX0DER
+num_pages: '345'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '20773'
+    '@name': to-read
+  - '@count': '1784'
+    '@name': currently-reading
+  - '@count': '816'
+    '@name': science-fiction
+  - '@count': '703'
+    '@name': fantasy
+  - '@count': '622'
+    '@name': horror
+  - '@count': '595'
+    '@name': sci-fi
+  - '@count': '476'
+    '@name': fiction
+  - '@count': '434'
+    '@name': urban-fantasy
+  - '@count': '210'
+    '@name': scifi
+  - '@count': '178'
+    '@name': owned
+  - '@count': '134'
+    '@name': favorites
+  - '@count': '121'
+    '@name': humor
+  - '@count': '116'
+    '@name': kindle
+  - '@count': '116'
+    '@name': sf
+  - '@count': '115'
+    '@name': audiobook
+  - '@count': '104'
+    '@name': series
+  - '@count': '87'
+    '@name': ebook
+  - '@count': '83'
+    '@name': lovecraftian
+  - '@count': '82'
+    '@name': dnf
+  - '@count': '67'
+    '@name': audiobooks
+  - '@count': '67'
+    '@name': thriller
+  - '@count': '66'
+    '@name': audible
+  - '@count': '65'
+    '@name': sci-fi-fantasy
+  - '@count': '62'
+    '@name': audio
+  - '@count': '62'
+    '@name': paranormal
+  - '@count': '54'
+    '@name': library
+  - '@count': '52'
+    '@name': humour
+  - '@count': '47'
+    '@name': did-not-finish
+  - '@count': '44'
+    '@name': mystery
+  - '@count': '43'
+    '@name': abandoned
+  - '@count': '42'
+    '@name': alternate-history
+  - '@count': '41'
+    '@name': espionage
+  - '@count': '40'
+    '@name': default
+  - '@count': '40'
+    '@name': scifi-fantasy
+  - '@count': '38'
+    '@name': to-buy
+  - '@count': '37'
+    '@name': speculative-fiction
+  - '@count': '37'
+    '@name': spy
+  - '@count': '34'
+    '@name': sff
+  - '@count': '32'
+    '@name': supernatural
+  - '@count': '30'
+    '@name': magic
+  - '@count': '28'
+    '@name': weird-fiction
+  - '@count': '28'
+    '@name': ebooks
+  - '@count': '28'
+    '@name': comedy
+  - '@count': '26'
+    '@name': science-fiction-fantasy
+  - '@count': '25'
+    '@name': laundry-files
+  - '@count': '25'
+    '@name': cthulhu-mythos
+  - '@count': '25'
+    '@name': novels
+  - '@count': '24'
+    '@name': weird
+  - '@count': '24'
+    '@name': novel
+  - '@count': '23'
+    '@name': adventure
+  - '@count': '22'
+    '@name': book-club
+  - '@count': '21'
+    '@name': fantasy-urban
+  - '@count': '21'
+    '@name': recommended
+  - '@count': '21'
+    '@name': science
+  - '@count': '21'
+    '@name': sf-fantasy
+  - '@count': '20'
+    '@name': owned-books
+  - '@count': '20'
+    '@name': books
+  - '@count': '20'
+    '@name': sf-f
+  - '@count': '20'
+    '@name': sci-fi-and-fantasy
+  - '@count': '20'
+    '@name': crime
+  - '@count': '19'
+    '@name': first-in-series
+  - '@count': '19'
+    '@name': cyberpunk
+  - '@count': '18'
+    '@name': dropped
+  - '@count': '18'
+    '@name': fantasy-sci-fi
+  - '@count': '18'
+    '@name': recommendations
+  - '@count': '18'
+    '@name': my-library
+  - '@count': '18'
+    '@name': lovecraft
+  - '@count': '18'
+    '@name': charles-stross
+  - '@count': '18'
+    '@name': cthulhu
+  - '@count': '17'
+    '@name': urban
+  - '@count': '17'
+    '@name': calibre
+  - '@count': '17'
+    '@name': british
+  - '@count': '17'
+    '@name': spies
+  - '@count': '16'
+    '@name': cosmic-horror
+  - '@count': '16'
+    '@name': books-i-own
+  - '@count': '16'
+    '@name': e-books
+  - '@count': '15'
+    '@name': to-read-fiction
+  - '@count': '15'
+    '@name': didn-t-finish
+  - '@count': '14'
+    '@name': maybe
+  - '@count': '14'
+    '@name': laundry
+  - '@count': '14'
+    '@name': modern-fantasy
+  - '@count': '14'
+    '@name': unfinished
+  - '@count': '13'
+    '@name': science-fantasy
+  - '@count': '13'
+    '@name': fantasy-scifi
+  - '@count': '13'
+    '@name': re-read
+  - '@count': '12'
+    '@name': spy-thriller
+  - '@count': '12'
+    '@name': fun
+  - '@count': '12'
+    '@name': wish-list
+  - '@count': '11'
+    '@name': couldn-t-finish
+  - '@count': '11'
+    '@name': reread
+  - '@count': '11'
+    '@name': audio-books
+  - '@count': '11'
+    '@name': funny
+  - '@count': '11'
+    '@name': england
+  - '@count': '11'
+    '@name': have
+  - '@count': '11'
+    '@name': zombies
+  - '@count': '11'
+    '@name': demons
+  - '@count': '11'
+    '@name': contemporary
+  - '@count': '10'
+    '@name': ciencia-ficcion
+  - '@count': '10'
+    '@name': audio-book
+  - '@count': '10'
+    '@name': read-in-2016
+publication_day: null
+publication_month: '1'
+publication_year: '2006'
+published: '2006'
+publisher: null
+ratings_count: '26580'
+read_at: ''
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/12429096
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/101869.The_Atrocity_Archives\"\
+  >The Atrocity Archives Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0441013651&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/101869.The_Atrocity_Archives?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '191332'
+    series:
+      description: "The multiple Hugo Award-winning Laundry Files series follows the\
+        \ exploits of a former tech support worker now-turned field agent, Bob Howard,\
+        \ at the Laundry, a top secret British intelligence agency dedicated to protecting\
+        \ the cosmos and the human race from nefarious supernatural phenomenon beyond\
+        \ spacetime. Starting off with <i>The Atrocity Archives</i>, witness Charles\
+        \ Stross infuse each genre-bending novel with a blend of dark fantasy, bureaucratic\
+        \ humor, and the pacing of a hardcore thriller. An innovative spin on H.P.\
+        \ Lovedcraft's \"Cthulu Mythos,\" the Laundry Files is perfect for fans of\
+        \ weird fiction and bureaucratic humor with a technological twist.\n    \n\
+        \    https://www.antipope.org/charlie/blog-static/2020/10/the-laundry-files-an-updated-c.html"
+      id: '50764'
+      note: null
+      numbered: 'true'
+      primary_work_count: '14'
+      series_works_count: '21'
+      title: Laundry Files
+    user_position: '1'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '14887946'
+        link: https://www.goodreads.com/author/show/14887946.Max_Nowaz
+        name: Max Nowaz
+    average_rating: '3.90'
+    id: '101265124'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SX98_.jpg
+    isbn: '1803133961'
+    isbn13: '9781803133966'
+    link: https://www.goodreads.com/book/show/101265124-the-polymorph
+    num_pages: '0'
+    publication_day: '4'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '26580'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SY75_.jpg
+    title: The Polymorph
+    title_without_series: The Polymorph
+    uri: kca://book/amzn1.gr.book.v3.2WI1HTFNfz3UC2Zb
+    work:
+      id: '124767981'
+  - authors:
+      author:
+        id: '4798562'
+        link: https://www.goodreads.com/author/show/4798562.Caitl_n_R_Kiernan
+        name: "Caitl\xEDn R. Kiernan"
+    average_rating: '3.90'
+    id: '37941807'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516386515l/37941807._SX98_.jpg
+    isbn: '1250191130'
+    isbn13: '9781250191137'
+    link: https://www.goodreads.com/book/show/37941807-black-helicopters
+    num_pages: '202'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26580'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516386515l/37941807._SY75_.jpg
+    title: 'Black Helicopters (Tinfoil Dossier, #2)'
+    title_without_series: Black Helicopters
+    uri: kca://book/amzn1.gr.book.v1.IiQIozk8daOvk3yzUK71WQ
+    work:
+      id: '62410123'
+  - authors:
+      author:
+        id: '363130'
+        link: https://www.goodreads.com/author/show/363130.Ben_Aaronovitch
+        name: Ben Aaronovitch
+    average_rating: '3.90'
+    id: '202969855'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711497418l/202969855._SX98_.jpg
+    isbn: 147322442X
+    isbn13: '9781473224421'
+    link: https://www.goodreads.com/book/show/202969855-the-masquerades-of-spring
+    num_pages: '165'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26580'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711497418l/202969855._SY75_.jpg
+    title: 'The Masquerades of Spring (Rivers of London #9.2)'
+    title_without_series: The Masquerades of Spring
+    uri: kca://book/amzn1.gr.book.v3.1UNSjljz29MrzmkX
+    work:
+      id: '208526757'
+  - authors:
+      author:
+        id: '27167'
+        link: https://www.goodreads.com/author/show/27167.Peter_Watts
+        name: Peter Watts
+    average_rating: '3.90'
+    id: '48484'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0765312182
+    isbn13: '9780765312181'
+    link: https://www.goodreads.com/book/show/48484.Blindsight
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26580'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Blindsight (Firefall, #1)'
+    title_without_series: Blindsight
+    uri: kca://book/amzn1.gr.book.v1.A4CNk2qG0qxshK4OKH9lJQ
+    work:
+      id: '223813791'
+  - authors:
+      author:
+        id: '4798562'
+        link: https://www.goodreads.com/author/show/4798562.Caitl_n_R_Kiernan
+        name: "Caitl\xEDn R. Kiernan"
+    average_rating: '3.90'
+    id: '49247277'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580311453l/49247277._SX98_.jpg
+    isbn: '1250191157'
+    isbn13: '9781250191151'
+    link: https://www.goodreads.com/book/show/49247277-the-tindalos-asset
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26580'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580311453l/49247277._SY75_.jpg
+    title: 'The Tindalos Asset (Tinfoil Dossier, #3)'
+    title_without_series: The Tindalos Asset
+    uri: kca://book/amzn1.gr.book.v3.RPLCGCAohnbjJdYv
+    work:
+      id: '74693582'
+  - authors:
+      author:
+        id: '6433390'
+        link: https://www.goodreads.com/author/show/6433390.Heide_Goody
+        name: Heide Goody
+    average_rating: '3.90'
+    id: '30519186'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465623937l/30519186._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/30519186-oddjobs
+    num_pages: '296'
+    publication_day: '11'
+    publication_month: '8'
+    publication_year: '2016'
+    ratings_count: '26580'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465623937l/30519186._SX50_.jpg
+    title: 'Oddjobs (Oddjobs #1)'
+    title_without_series: Oddjobs
+    uri: kca://book/amzn1.gr.book.v1.b8N7wl27FMuOvTfca1hICA
+    work:
+      id: '51039498'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '3.90'
+    id: '201930181'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SX98_.jpg
+    isbn: 031652557X
+    isbn13: '9780316525572'
+    link: https://www.goodreads.com/book/show/201930181-the-mercy-of-gods
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26580'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SY75_.jpg
+    title: "The Mercy of Gods (The Captive\u2019s War, #1)"
+    title_without_series: The Mercy of Gods
+    uri: kca://book/amzn1.gr.book.v3.nndIiP3mF2vHLfgz
+    work:
+      id: '95320019'
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '3.90'
+    id: '65211701'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674575978l/65211701._SX98_.jpg
+    isbn: '1250826977'
+    isbn13: '9781250826978'
+    link: https://www.goodreads.com/book/show/65211701-system-collapse
+    num_pages: '245'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26580'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674575978l/65211701._SY75_.jpg
+    title: 'System Collapse (The Murderbot Diaries, #7)'
+    title_without_series: System Collapse
+    uri: kca://book/amzn1.gr.book.v3.BlgXZE2jb-Pp_eWq
+    work:
+      id: '90712113'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '3.90'
+    id: '195443798'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SX98_.jpg
+    isbn: '1035013770'
+    isbn13: '9781035013777'
+    link: https://www.goodreads.com/book/show/195443798-alien-clay
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26580'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SY75_.jpg
+    title: Alien Clay
+    title_without_series: Alien Clay
+    uri: kca://book/amzn1.gr.book.v3.U07jHOWpgU_-RRTg
+    work:
+      id: '197089092'
+  - authors:
+      author:
+        id: '4763'
+        link: https://www.goodreads.com/author/show/4763.John_Scalzi
+        name: John Scalzi
+    average_rating: '3.90'
+    id: '61885029'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683564155l/61885029._SX98_.jpg
+    isbn: 0765389223
+    isbn13: '9780765389220'
+    link: https://www.goodreads.com/book/show/61885029-starter-villain
+    num_pages: '264'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26580'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683564155l/61885029._SY75_.jpg
+    title: Starter Villain
+    title_without_series: Starter Villain
+    uri: kca://book/amzn1.gr.book.v3.lw5OQ1LT9jh6bQd-
+    work:
+      id: '97563902'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '3.90'
+    id: '195790861'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698554344l/195790861._SX98_.jpg
+    isbn: '1250290287'
+    isbn13: '9781250290281'
+    link: https://www.goodreads.com/book/show/195790861-service-model
+    num_pages: '376'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26580'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698554344l/195790861._SY75_.jpg
+    title: Service Model
+    title_without_series: Service Model
+    uri: kca://book/amzn1.gr.book.v3.BUtNnpSh6EMDHugG
+    work:
+      id: '197724648'
+  - authors:
+      author:
+        id: '4763'
+        link: https://www.goodreads.com/author/show/4763.John_Scalzi
+        name: John Scalzi
+    average_rating: '3.90'
+    id: '13055592'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0765316994
+    isbn13: '9780765316998'
+    link: https://www.goodreads.com/book/show/13055592-redshirts
+    num_pages: '320'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26580'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Redshirts
+    title_without_series: Redshirts
+    uri: kca://book/amzn1.gr.book.v1.JJcTWRb36olmdV0fM4pDtg
+    work:
+      id: '18130445'
+  - authors:
+      author:
+        id: '5826603'
+        link: https://www.goodreads.com/author/show/5826603.John_Scott_Tynes
+        name: John Scott Tynes
+    average_rating: '3.90'
+    id: '13627606'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335752009l/13627606._SX98_.jpg
+    isbn: 0985317523
+    isbn13: '9780985317522'
+    link: https://www.goodreads.com/book/show/13627606-delta-green
+    num_pages: '398'
+    publication_day: '25'
+    publication_month: '4'
+    publication_year: '2012'
+    ratings_count: '26580'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335752009l/13627606._SY75_.jpg
+    title: 'Delta Green: Strange Authorities'
+    title_without_series: 'Delta Green: Strange Authorities'
+    uri: kca://book/amzn1.gr.book.v1.YziRVEdbMUCnDE4_vUkAgw
+    work:
+      id: '19233514'
+  - authors:
+      author:
+        id: '41942'
+        link: https://www.goodreads.com/author/show/41942.Simon_R_Green
+        name: Simon R. Green
+    average_rating: '3.90'
+    id: '155421'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354812342l/155421._SY160_.jpg
+    isbn: '0441010652'
+    isbn13: '9780441010653'
+    link: https://www.goodreads.com/book/show/155421.Something_from_the_Nightside
+    num_pages: '230'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26580'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354812342l/155421._SY75_.jpg
+    title: 'Something from the Nightside (Nightside, #1)'
+    title_without_series: Something from the Nightside
+    uri: kca://book/amzn1.gr.book.v1.EWJsYydL36583sQlc0sp_w
+    work:
+      id: '150023'
+  - authors:
+      author:
+        id: '8112646'
+        link: https://www.goodreads.com/author/show/8112646.Blaze_Ward
+        name: Blaze Ward
+    average_rating: '3.90'
+    id: '24055575'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/24055575-the-science-officer
+    num_pages: '114'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26580'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Science Officer (The Science Officer #1)'
+    title_without_series: The Science Officer
+    uri: kca://book/amzn1.gr.book.v1.7MEMPT4XQprU2cO0Cemb-A
+    work:
+      id: '43653648'
+  - authors:
+      author:
+        id: '8352974'
+        link: https://www.goodreads.com/author/show/8352974.qntm
+        name: qntm
+    average_rating: '3.90'
+    id: '54870256'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/54870256-there-is-no-antimemetics-division
+    num_pages: '220'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26580'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: There Is No Antimemetics Division
+    title_without_series: There Is No Antimemetics Division
+    uri: kca://book/amzn1.gr.book.v3.BgcuVdp6_roAAOLm
+    work:
+      id: '84995086'
+  - authors:
+      author:
+        id: '4763'
+        link: https://www.goodreads.com/author/show/4763.John_Scalzi
+        name: John Scalzi
+    average_rating: '3.90'
+    id: '219359162'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726769155l/219359162._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/219359162-constituent-service
+    num_pages: '3'
+    publication_day: '3'
+    publication_month: '10'
+    publication_year: '2024'
+    ratings_count: '26580'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726769155l/219359162._SX50_.jpg
+    title: 'Constituent Service: A Third District Story'
+    title_without_series: 'Constituent Service: A Third District Story'
+    uri: kca://book/amzn1.gr.book.v3._cKAEzHpiqFFEEjK
+    work:
+      id: '226283719'
+  - authors:
+      author:
+        id: '12581'
+        link: https://www.goodreads.com/author/show/12581.Cory_Doctorow
+        name: Cory Doctorow
+    average_rating: '3.90'
+    id: '13538762'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335124441l/13538762._SX98_.jpg
+    isbn: 0765329107
+    isbn13: '9780765329103'
+    link: https://www.goodreads.com/book/show/13538762-the-rapture-of-the-nerds
+    num_pages: '351'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '26580'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335124441l/13538762._SY75_.jpg
+    title: The Rapture of the Nerds
+    title_without_series: The Rapture of the Nerds
+    uri: kca://book/amzn1.gr.book.v1.j6S7PvwFKArXDFGlx8Kc0w
+    work:
+      id: '19101112'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: ''
+text_reviews_count:
+  '#text': '1606'
+  '@type': integer
+title: 'The Atrocity Archives (Laundry Files, #1)'
+title_without_series: The Atrocity Archives
+uri: kca://book/amzn1.gr.book.v1.S39QFnM7kqdNov5ZcykQJg
+url: https://www.goodreads.com/book/show/101869.The_Atrocity_Archives
+work:
+  id: '322252'
+  uri: kca://work/amzn1.gr.work.v1.BUCEwjwaOAXXJwmJ-z6faQ

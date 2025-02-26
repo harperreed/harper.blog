@@ -1,0 +1,800 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.03'
+    id: '51204'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1521740247p5/51204.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/51204.Alastair_Reynolds
+    name: Alastair Reynolds
+    ratings_count: '373894'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1521740247p2/51204.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '23414'
+average_rating: '4.02'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2014-06-27T00:00:00-07:00'
+description: null
+edition_information: null
+format: null
+id: '6085382'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455731023l/6085382._SY160_.jpg
+is_ebook: 'true'
+isbn: '1440678162'
+isbn13: '9781440678165'
+json: '{"id": "6085382", "isbn": "1440678162", "isbn13": "9781440678165", "text_reviews_count":
+  {"@type": "integer", "#text": "33"}, "uri": "kca://book/amzn1.gr.book.v1.igXvj0LhoZB4ldoCMSL-WA",
+  "title": "Absolution Gap (Revelation Space, #3)", "title_without_series": "Absolution
+  Gap", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455731023l/6085382._SY160_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455731023l/6085382._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/6085382-absolution-gap",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": "Ace",
+  "publication_day": "31", "publication_year": "2005", "publication_month": "5", "average_rating":
+  "4.02", "ratings_count": "24170", "description": null, "authors": {"author": {"id":
+  "51204", "name": "Alastair Reynolds", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1521740247p5/51204.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1521740247p2/51204.jpg"},
+  "link": "https://www.goodreads.com/author/show/51204.Alastair_Reynolds", "average_rating":
+  "4.03", "ratings_count": "373894", "text_reviews_count": "23414"}}, "published":
+  "2005", "work": {"id": "86076", "uri": "kca://work/amzn1.gr.work.v1.0CW7k6TOmact9uf9AbWG5w"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/979684157",
+  "read_at": "Fri Jun 27 00:00:00 -0700 2014", "started_at": "", "date": "Fri Jun
+  27 00:00:00 -0700 2014"}'
+kindle_asin: B0819WBT95
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/6085382-absolution-gap
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '8094'
+    '@name': to-read
+  - '@count': '969'
+    '@name': science-fiction
+  - '@count': '696'
+    '@name': sci-fi
+  - '@count': '677'
+    '@name': currently-reading
+  - '@count': '224'
+    '@name': fiction
+  - '@count': '208'
+    '@name': scifi
+  - '@count': '206'
+    '@name': space-opera
+  - '@count': '164'
+    '@name': owned
+  - '@count': '127'
+    '@name': sf
+  - '@count': '75'
+    '@name': favorites
+  - '@count': '67'
+    '@name': audiobook
+  - '@count': '66'
+    '@name': default
+  - '@count': '53'
+    '@name': alastair-reynolds
+  - '@count': '47'
+    '@name': revelation-space
+  - '@count': '39'
+    '@name': space
+  - '@count': '36'
+    '@name': audible
+  - '@count': '35'
+    '@name': kindle
+  - '@count': '35'
+    '@name': hard-sci-fi
+  - '@count': '31'
+    '@name': audiobooks
+  - '@count': '31'
+    '@name': series
+  - '@count': '28'
+    '@name': audio
+  - '@count': '27'
+    '@name': sci-fi-fantasy
+  - '@count': '25'
+    '@name': owned-books
+  - '@count': '25'
+    '@name': ebook
+  - '@count': '22'
+    '@name': library
+  - '@count': '21'
+    '@name': speculative-fiction
+  - '@count': '21'
+    '@name': hard-science-fiction
+  - '@count': '19'
+    '@name': fantasy
+  - '@count': '18'
+    '@name': science-fiction-fantasy
+  - '@count': '18'
+    '@name': books-i-own
+  - '@count': '17'
+    '@name': science-fiction-and-fantasy
+  - '@count': '14'
+    '@name': aliens
+  - '@count': '14'
+    '@name': hard-sf
+  - '@count': '14'
+    '@name': science
+  - '@count': '13'
+    '@name': scifi-fantasy
+  - '@count': '12'
+    '@name': english
+  - '@count': '12'
+    '@name': calibre
+  - '@count': '12'
+    '@name': reynolds
+  - '@count': '11'
+    '@name': hard-scifi
+  - '@count': '11'
+    '@name': novel
+  - '@count': '11'
+    '@name': sff
+  - '@count': '10'
+    '@name': fantascienza
+  - '@count': '10'
+    '@name': have
+  - '@count': '10'
+    '@name': adventure
+  - '@count': '10'
+    '@name': my-books
+  - '@count': '10'
+    '@name': audio-book
+  - '@count': '10'
+    '@name': sciencefiction
+  - '@count': '9'
+    '@name': sci-fi-and-fantasy
+  - '@count': '9'
+    '@name': books
+  - '@count': '9'
+    '@name': my-library
+  - '@count': '9'
+    '@name': novels
+  - '@count': '8'
+    '@name': dnf
+  - '@count': '8'
+    '@name': ebooks
+  - '@count': '7'
+    '@name': read-2023
+  - '@count': '7'
+    '@name': favourites
+  - '@count': '7'
+    '@name': tbr
+  - '@count': '7'
+    '@name': paperback
+  - '@count': '7'
+    '@name': digital
+  - '@count': '7'
+    '@name': genre-science-fiction
+  - '@count': '7'
+    '@name': e-books
+  - '@count': '7'
+    '@name': to-buy
+  - '@count': '7'
+    '@name': i-own
+  - '@count': '7'
+    '@name': "ciencia-ficci\xF3n"
+  - '@count': '7'
+    '@name': sf-fantasy
+  - '@count': '6'
+    '@name': physical-tbr
+  - '@count': '6'
+    '@name': unread
+  - '@count': '6'
+    '@name': transhuman
+  - '@count': '6'
+    '@name': abandoned
+  - '@count': '6'
+    '@name': sci-fi-to-read
+  - '@count': '6'
+    '@name': british
+  - '@count': '6'
+    '@name': epic
+  - '@count': '5'
+    '@name': re-read
+  - '@count': '5'
+    '@name': read-in-2021
+  - '@count': '5'
+    '@name': owned-tbr
+  - '@count': '5'
+    '@name': to-read-owned
+  - '@count': '5'
+    '@name': owned-to-read
+  - '@count': '5'
+    '@name': sf-space-opera
+  - '@count': '5'
+    '@name': fiction-scifi
+  - '@count': '5'
+    '@name': 5-stars
+  - '@count': '5'
+    '@name': owned-unread
+  - '@count': '5'
+    '@name': syfy
+  - '@count': '5'
+    '@name': reread
+  - '@count': '5'
+    '@name': e-book
+  - '@count': '5'
+    '@name': opera
+  - '@count': '5'
+    '@name': sf-f
+  - '@count': '5'
+    '@name': own-it
+  - '@count': '4'
+    '@name': downloaded
+  - '@count': '4'
+    '@name': faves
+  - '@count': '4'
+    '@name': read-2022
+  - '@count': '4'
+    '@name': owned-not-read
+  - '@count': '4'
+    '@name': audio_wanted
+  - '@count': '4'
+    '@name': ciencia-ficcion
+  - '@count': '4'
+    '@name': fiction-science
+  - '@count': '4'
+    '@name': bought
+  - '@count': '4'
+    '@name': read-2016
+  - '@count': '4'
+    '@name': wish-list
+  - '@count': '4'
+    '@name': shelved
+  - '@count': '4'
+    '@name': sci-fi-books
+  - '@count': '4'
+    '@name': speculative
+  - '@count': '4'
+    '@name': purchased
+publication_day: '31'
+publication_month: '5'
+publication_year: '2005'
+published: '2005'
+publisher: Ace
+ratings_count: '24170'
+read_at: '2014-06-27T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/979684157
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/6085382-absolution-gap\"\
+  >Absolution Gap Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1440678162&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/6085382-absolution-gap?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '228776'
+    series:
+      description: "The Revelation Space universe is a fictional universe which was\
+        \ created by Alastair Reynolds and used as the setting for a number of his\
+        \ novels and stories. Its fictional history follows the human species through\
+        \ various conflicts from the relatively near future (roughly 2200) to approximately\
+        \ AD 40000 (all the novels to date are set between 2427 and 2727, although\
+        \ certain stories extend beyond this period). It takes its name from Revelation\
+        \ Space, which was the first published novel set in the universe.\n    \n\
+        \    The main trilogy (also known as the Inhibitor trilogy) consists of 1)\
+        \ Revelation Space, 2) Redemption Ark, 3) Absolution Gap, with the new addition\
+        \ of 4) Inhibitor Phase, and deals with humanity coming to the attention of\
+        \ the inhibitors and the resultant war between them.\n    \n    Reynolds says\
+        \ of the reading order: \"Of my books to date, five are set in the same universe.\
+        \ <b>The reading order isn\u2019t that critical</b>, in my view, but it probably\
+        \ improves things to read REVELATION SPACE, REDEMPTION ARK and ABSOLUTION\
+        \ GAP in that sequence. The other related books, CHASM CITY and THE PREFECT,\
+        \ as well as the collections DIAMOND DOGS, TURQUOISE DAYS and GALACTIC NORTH,\
+        \ can be read at any point (or in fact, not read at all).\"\n    \n    This\
+        \ is the approximate chronological order for the short stories, novels and\
+        \ novellas:\n    \n    Great Wall of Mars* - <i>(2205, published February\
+        \ 2000)</i>\n    Glacial* - <i>(2217, published March 2001)</i>\n    A Spy\
+        \ in Europa* - <i>(ca. 2330 - 2340, published 1997)</i>\n    Weather* - <i>(2358,\
+        \ published 2006)</i>\n    The Prefect (aka Aurora Rising) (Novel, Prefect\
+        \ Dreyfus #1) - <i>(2427, published 2007)</i>\n    Open and Shut (Prefect\
+        \ Dreyfus story) - <i> (2427, published 2018)</i>\n    Elysium Fire (Novel,\
+        \ Prefect Dreyfus #2) - <i> (2429, published 2018)</i>\n    The Last Log of\
+        \ the Lachrimosa**** - <i>(ca. 2500 - 2550, published 2014)</i>\n    Diamond\
+        \ Dogs** - <i>(ca. 2500 - 2550, published 2001)</i>\n    Monkey Suit*** -\
+        \ <i>(ca. 2511, published 2009)</i>\n    Dilation Sleep* - <i>(ca. 2513 -\
+        \ 2540, published 1990)</i>\n    Chasm City (Novel, Standalone) - <i>(ca.\
+        \ 2517 - 2524, published 2001)</i>\n    Grafenwalder's Bestiary* - <i>(ca.\
+        \ 2540, published 2006)</i>\n    Turquoise Days** - <i>(2541, published 2002)</i>\n\
+        \    Revelation Space (Novel, #1 of The Inhibitor Trilogy) - <i>(2524 - 2567,\
+        \ published 2000)</i>\n    Nightingale* - <i>(ca. 2600, published 2006)</i>\n\
+        \    Redemption Ark (Novel, #2 of The Inhibitor Trilogy) - <i>(2605 - 2651,\
+        \ published 2002)</i>\n    Absolution Gap (Novel, #3 of The Inhibitor Trilogy)\
+        \ - <i>(ca. 2615 - 3125, published 2003)</i>\n    Galactic North* - <i>(ca.\
+        \ 2303 - 40000, published 1999)</i>\n    \n    *Story or Novella in Galactic\
+        \ North\n    **Novella in Diamond Dogs, Turquoise Days\n    ***Story originally\
+        \ published in Death Ray #20 (July 2009); reprinted in Deep Navigation\n \
+        \   ****Story originally published in Subterranean (Summer 2014); also on\
+        \ their website\n    \n    The reading order for Alastair Reynolds' Revelation\
+        \ Space universe stories is complex, with the novels overlapping with the\
+        \ short stories (collected in Galactic North) and the two novellas (collected\
+        \ in Diamond Dogs, Turquoise Days). Whether the chronological order is the\
+        \ best reading order for the books or not is debatable. It mostly works, although\
+        \  'Weather' contains the answer to a major mystery from the main trilogy\
+        \ about the Conjoiner lighthugger drives and may benefit from being read later\
+        \ on. \n    \n    'Great Wall of Mars' and 'Glacial' introduce characters\
+        \ who otherwise show up out of nowhere in Redemption Ark, and 'Galactic North'\
+        \ (the story)  explains the ending to Absolution Gap and puts something of\
+        \ a full stop on the whole series and story."
+      id: '56392'
+      note: "Source of this description is Alastair Reynold's timeline for the Revelation\
+        \ Space universe http://www.alastairreynolds.com/id18.html + this post at\
+        \ The Wertzone http://thewertzone.blogspot.nl/2009/06/revelation-space-books-by-chronology.html\
+        \ + the Anonymous comment from 3 October 2011 below the orignal post at The\
+        \ Wertzone.\n    \n    Later: Edited out a lot of pure opinion about order,\
+        \ retaining official information from the authors website."
+      numbered: 'true'
+      primary_work_count: '4'
+      series_works_count: '24'
+      title: Revelation Space
+    user_position: '3'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '4.02'
+    id: '866136'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0345496531
+    isbn13: '9780345496539'
+    link: https://www.goodreads.com/book/show/866136.The_Dreaming_Void
+    num_pages: '630'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '24170'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Dreaming Void (Void #1)'
+    title_without_series: The Dreaming Void
+    uri: kca://book/amzn1.gr.book.v1._folUzblKZlgF3VBRdKOIQ
+    work:
+      id: '851537'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.02'
+    id: '195443798'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SX98_.jpg
+    isbn: '1035013770'
+    isbn13: '9781035013777'
+    link: https://www.goodreads.com/book/show/195443798-alien-clay
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '24170'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693389349l/195443798._SY75_.jpg
+    title: Alien Clay
+    title_without_series: Alien Clay
+    uri: kca://book/amzn1.gr.book.v3.U07jHOWpgU_-RRTg
+    work:
+      id: '197089092'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '4.02'
+    id: '44020966'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573579704l/44020966._SX98_.jpg
+    isbn: 0399178864
+    isbn13: '9780399178863'
+    link: https://www.goodreads.com/book/show/44020966-salvation-lost
+    num_pages: '494'
+    publication_day: '1'
+    publication_month: '10'
+    publication_year: '2019'
+    ratings_count: '24170'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573579704l/44020966._SY75_.jpg
+    title: 'Salvation Lost (Salvation Sequence, #2)'
+    title_without_series: Salvation Lost
+    uri: kca://book/amzn1.gr.book.v1.4LZdKE3akWeW031PAwC3kg
+    work:
+      id: '65397826'
+  - authors:
+      author:
+        id: '14887946'
+        link: https://www.goodreads.com/author/show/14887946.Max_Nowaz
+        name: Max Nowaz
+    average_rating: '4.02'
+    id: '101265124'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SX98_.jpg
+    isbn: '1803133961'
+    isbn13: '9781803133966'
+    link: https://www.goodreads.com/book/show/101265124-the-polymorph
+    num_pages: '0'
+    publication_day: '4'
+    publication_month: '2'
+    publication_year: '2023'
+    ratings_count: '24170'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392l/101265124._SY75_.jpg
+    title: The Polymorph
+    title_without_series: The Polymorph
+    uri: kca://book/amzn1.gr.book.v3.2WI1HTFNfz3UC2Zb
+    work:
+      id: '124767981'
+  - authors:
+      author:
+        id: '4192148'
+        link: https://www.goodreads.com/author/show/4192148.James_S_A_Corey
+        name: James S.A. Corey
+    average_rating: '4.02'
+    id: '201930181'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SX98_.jpg
+    isbn: 031652557X
+    isbn13: '9780316525572'
+    link: https://www.goodreads.com/book/show/201930181-the-mercy-of-gods
+    num_pages: '422'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '24170'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722l/201930181._SY75_.jpg
+    title: "The Mercy of Gods (The Captive\u2019s War, #1)"
+    title_without_series: The Mercy of Gods
+    uri: kca://book/amzn1.gr.book.v3.nndIiP3mF2vHLfgz
+    work:
+      id: '95320019'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '4.02'
+    id: '205670068'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729967825l/205670068._SX98_.jpg
+    isbn: 0593357663
+    isbn13: '9780593357668'
+    link: https://www.goodreads.com/book/show/205670068-exodus
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '24170'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729967825l/205670068._SY75_.jpg
+    title: 'Exodus: The Archimedes Engine (Archimedes Engine, #1)'
+    title_without_series: 'Exodus: The Archimedes Engine'
+    uri: kca://book/amzn1.gr.book.v3.oKI1MhJVI6jcpH-k
+    work:
+      id: '211692605'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '4.02'
+    id: '45252'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440699949l/45252._SX98_.jpg
+    isbn: '0345461622'
+    isbn13: '9780345461629'
+    link: https://www.goodreads.com/book/show/45252.Pandora_s_Star
+    num_pages: '768'
+    publication_day: '2'
+    publication_month: '3'
+    publication_year: '2005'
+    ratings_count: '24170'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440699949l/45252._SX50_.jpg
+    title: 'Pandora''s Star (Commonwealth Saga #1)'
+    title_without_series: Pandora's Star
+    uri: kca://book/amzn1.gr.book.v1.ZrVSLOqFs-Hg_W5jyky1KQ
+    work:
+      id: '987015'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '4.02'
+    id: '34068552'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518190008l/34068552._SX98_.jpg
+    isbn: 0399178848
+    isbn13: '9780399178849'
+    link: https://www.goodreads.com/book/show/34068552-salvation
+    num_pages: '576'
+    publication_day: '4'
+    publication_month: '9'
+    publication_year: '2018'
+    ratings_count: '24170'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518190008l/34068552._SY75_.jpg
+    title: 'Salvation (Salvation Sequence, #1)'
+    title_without_series: Salvation
+    uri: kca://book/amzn1.gr.book.v1.TgRveKxt_nuUxHf_OLoEOQ
+    work:
+      id: '55079132'
+  - authors:
+      author:
+        id: '1445909'
+        link: https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky
+        name: Adrian Tchaikovsky
+    average_rating: '4.02'
+    id: '62315578'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671150806l/62315578._SX98_.jpg
+    isbn: '1668628104'
+    isbn13: '9781668628102'
+    link: https://www.goodreads.com/book/show/62315578-lords-of-uncreation
+    num_pages: '608'
+    publication_day: '2'
+    publication_month: '5'
+    publication_year: '2023'
+    ratings_count: '24170'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671150806l/62315578._SY75_.jpg
+    title: 'Lords of Uncreation (The Final Architecture, #3)'
+    title_without_series: Lords of Uncreation
+    uri: kca://book/amzn1.gr.book.v3.b6Lkk7CCldRK1y9X
+    work:
+      id: '98118051'
+  - authors:
+      author:
+        id: '5807106'
+        link: https://www.goodreads.com/author/show/5807106.Iain_M_Banks
+        name: Iain M. Banks
+    average_rating: '4.02'
+    id: '12007'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587400756l/12007._SX98_.jpg
+    isbn: 185723135X
+    isbn13: '9781857231359'
+    link: https://www.goodreads.com/book/show/12007.Use_of_Weapons
+    num_pages: '411'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '24170'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587400756l/12007._SX50_.jpg
+    title: 'Use of Weapons (Culture, #3)'
+    title_without_series: Use of Weapons
+    uri: kca://book/amzn1.gr.book.v1.sfzSa_uDsuW-ATesaCT3GQ
+    work:
+      id: '1494156'
+  - authors:
+      author:
+        id: '27167'
+        link: https://www.goodreads.com/author/show/27167.Peter_Watts
+        name: Peter Watts
+    average_rating: '4.02'
+    id: '48484'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0765312182
+    isbn13: '9780765312181'
+    link: https://www.goodreads.com/book/show/48484.Blindsight
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '24170'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Blindsight (Firefall, #1)'
+    title_without_series: Blindsight
+    uri: kca://book/amzn1.gr.book.v1.A4CNk2qG0qxshK4OKH9lJQ
+    work:
+      id: '223813791'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '4.02'
+    id: '50154683'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1583256501l/50154683._SX98_.jpg
+    isbn: 0399178899
+    isbn13: '9780399178894'
+    link: https://www.goodreads.com/book/show/50154683-the-saints-of-salvation
+    num_pages: '576'
+    publication_day: '27'
+    publication_month: '10'
+    publication_year: '2020'
+    ratings_count: '24170'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1583256501l/50154683._SY75_.jpg
+    title: 'The Saints of Salvation (Salvation Sequence, #3)'
+    title_without_series: The Saints of Salvation
+    uri: kca://book/amzn1.gr.book.v3.0CGycD0WAMOd0kHw
+    work:
+      id: '74287761'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '4.02'
+    id: '45260'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316548289l/45260._SX98_.jpg
+    isbn: '0333725034'
+    isbn13: '9780333725030'
+    link: https://www.goodreads.com/book/show/45260.The_Naked_God
+    num_pages: '1174'
+    publication_day: '8'
+    publication_month: '10'
+    publication_year: '1999'
+    ratings_count: '24170'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316548289l/45260._SY75_.jpg
+    title: 'The Naked God (Night''s Dawn, #3)'
+    title_without_series: The Naked God
+    uri: kca://book/amzn1.gr.book.v1.LUg0MuI3bK359SIyJ2tK4A
+    work:
+      id: '1396625'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '4.02'
+    id: '45244'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316501189l/45244._SX98_.jpg
+    isbn: '0345461665'
+    isbn13: '9780345461667'
+    link: https://www.goodreads.com/book/show/45244.Judas_Unchained
+    num_pages: '827'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '24170'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316501189l/45244._SY75_.jpg
+    title: 'Judas Unchained (Commonwealth Saga #2)'
+    title_without_series: Judas Unchained
+    uri: kca://book/amzn1.gr.book.v1.4cur2X9Awz8U2izr0T7c7A
+    work:
+      id: '44507'
+  - authors:
+      author:
+        id: '5807106'
+        link: https://www.goodreads.com/author/show/5807106.Iain_M_Banks
+        name: Iain M. Banks
+    average_rating: '4.02'
+    id: '8935689'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327951890l/8935689._SX98_.jpg
+    isbn: '1857231384'
+    isbn13: '9781857231380'
+    link: https://www.goodreads.com/book/show/8935689-consider-phlebas
+    num_pages: '467'
+    publication_day: '14'
+    publication_month: '4'
+    publication_year: '1988'
+    ratings_count: '24170'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327951890l/8935689._SY75_.jpg
+    title: 'Consider Phlebas (Culture, #1)'
+    title_without_series: Consider Phlebas
+    uri: kca://book/amzn1.gr.book.v1.oI_Q3rF2s7JStmEN28k5sw
+    work:
+      id: '14366'
+  - authors:
+      author:
+        id: '5807106'
+        link: https://www.goodreads.com/author/show/5807106.Iain_M_Banks
+        name: Iain M. Banks
+    average_rating: '4.02'
+    id: '12016'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288930978l/12016._SY160_.jpg
+    isbn: 0743421922
+    isbn13: '9780743421928'
+    link: https://www.goodreads.com/book/show/12016.Look_to_Windward
+    num_pages: null
+    publication_day: '1'
+    publication_month: '11'
+    publication_year: '2002'
+    ratings_count: '24170'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288930978l/12016._SY75_.jpg
+    title: 'Look to Windward (Culture, #7)'
+    title_without_series: Look to Windward
+    uri: kca://book/amzn1.gr.book.v1.JfqkRss7qxmtFCK3RBtZ8g
+    work:
+      id: '124371'
+  - authors:
+      author:
+        id: '25375'
+        link: https://www.goodreads.com/author/show/25375.Peter_F_Hamilton
+        name: Peter F. Hamilton
+    average_rating: '4.02'
+    id: '3437328'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357349093l/3437328._SX98_.jpg
+    isbn: '1405088834'
+    isbn13: '9781405088831'
+    link: https://www.goodreads.com/book/show/3437328-the-temporal-void
+    num_pages: '746'
+    publication_day: '3'
+    publication_month: '10'
+    publication_year: '2008'
+    ratings_count: '24170'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357349093l/3437328._SY75_.jpg
+    title: 'The Temporal Void (Void #2)'
+    title_without_series: The Temporal Void
+    uri: kca://book/amzn1.gr.book.v1.nZxYkGU0Fx1QsWbWPY42cg
+    work:
+      id: '3478338'
+  - authors:
+      author:
+        id: '5807106'
+        link: https://www.goodreads.com/author/show/5807106.Iain_M_Banks
+        name: Iain M. Banks
+    average_rating: '4.02'
+    id: '18630'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0061053562'
+    isbn13: '9780061053566'
+    link: https://www.goodreads.com/book/show/18630.The_Player_of_Games
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '24170'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Player of Games (Culture, #2)'
+    title_without_series: The Player of Games
+    uri: kca://book/amzn1.gr.book.v1.g0y5yzOo3TqOXqySHJ7JCA
+    work:
+      id: '1494157'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455731023l/6085382._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '33'
+  '@type': integer
+title: 'Absolution Gap (Revelation Space, #3)'
+title_without_series: Absolution Gap
+uri: kca://book/amzn1.gr.book.v1.igXvj0LhoZB4ldoCMSL-WA
+url: https://www.goodreads.com/book/show/6085382-absolution-gap
+work:
+  id: '86076'
+  uri: kca://work/amzn1.gr.work.v1.0CW7k6TOmact9uf9AbWG5w

@@ -1,0 +1,751 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.78'
+    id: '6526'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1652258871p5/6526.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/6526.K_b_Abe
+    name: "K\u014Db\u014D Abe"
+    ratings_count: '62712'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1652258871p2/6526.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '6187'
+average_rating: '3.89'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: <em>The Woman in the Dunes</em>, by celebrated writer and thinker Kobo
+  Abe, combines the essence of myth, suspense and the existential novel.<br /> <br
+  />After missing the last bus home following a day trip to the seashore, an amateur
+  entomologist is offered lodging for the night at the bottom of a vast sand pit.
+  But when he attempts to leave the next morning, he quickly discovers that the locals
+  have other plans. Held captive with seemingly no chance of escape, he is tasked
+  with shoveling back the ever-advancing sand dunes that threaten to destroy the village.
+  His only companion is an odd young woman, and together their fates become intertwined
+  as they work side by side through this Sisyphean of tasks.
+edition_information: Reissue
+format: null
+id: '9998'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361254930l/9998._SX98_.jpg
+is_ebook: 'false'
+isbn: 0679733787
+isbn13: '9780679733782'
+json: '{"id": "9998", "isbn": "0679733787", "isbn13": "9780679733782", "text_reviews_count":
+  {"@type": "integer", "#text": "2000"}, "uri": "kca://book/amzn1.gr.book.v1.a0257o2rA4_Ffrm6L0VE7A",
+  "title": "The Woman in the Dunes", "title_without_series": "The Woman in the Dunes",
+  "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361254930l/9998._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361254930l/9998._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/9998.The_Woman_in_the_Dunes",
+  "num_pages": "241", "format": null, "edition_information": "Reissue", "publisher":
+  null, "publication_day": "16", "publication_year": "1991", "publication_month":
+  "4", "average_rating": "3.89", "ratings_count": "36018", "description": "<em>The
+  Woman in the Dunes</em>, by celebrated writer and thinker Kobo Abe, combines the
+  essence of myth, suspense and the existential novel.<br /> <br />After missing the
+  last bus home following a day trip to the seashore, an amateur entomologist is offered
+  lodging for the night at the bottom of a vast sand pit. But when he attempts to
+  leave the next morning, he quickly discovers that the locals have other plans. Held
+  captive with seemingly no chance of escape, he is tasked with shoveling back the
+  ever-advancing sand dunes that threaten to destroy the village. His only companion
+  is an odd young woman, and together their fates become intertwined as they work
+  side by side through this Sisyphean of tasks.", "authors": {"author": {"id": "6526",
+  "name": "K\u014db\u014d Abe", "role": null, "image_url": {"@nophoto": "false", "#text":
+  "https://images.gr-assets.com/authors/1652258871p5/6526.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1652258871p2/6526.jpg"},
+  "link": "https://www.goodreads.com/author/show/6526.K_b_Abe", "average_rating":
+  "3.78", "ratings_count": "62712", "text_reviews_count": "6187"}}, "published": "1991",
+  "work": {"id": "58336", "uri": "kca://work/amzn1.gr.work.v1.QDIJ1pBBSM12BNyF3sV8LQ"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417586",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B006ATJXIA
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/9998.The_Woman_in_the_Dunes
+marketplace_id: ATVPDKIKX0DER
+num_pages: '241'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '58370'
+    '@name': to-read
+  - '@count': '1311'
+    '@name': currently-reading
+  - '@count': '1300'
+    '@name': fiction
+  - '@count': '786'
+    '@name': japan
+  - '@count': '663'
+    '@name': japanese
+  - '@count': '583'
+    '@name': favorites
+  - '@count': '477'
+    '@name': japanese-literature
+  - '@count': '423'
+    '@name': classics
+  - '@count': '242'
+    '@name': japanese-lit
+  - '@count': '215'
+    '@name': owned
+  - '@count': '182'
+    '@name': magical-realism
+  - '@count': '168'
+    '@name': literature
+  - '@count': '156'
+    '@name': novels
+  - '@count': '134'
+    '@name': asia
+  - '@count': '126'
+    '@name': translated
+  - '@count': '118'
+    '@name': novel
+  - '@count': '99'
+    '@name': literary-fiction
+  - '@count': '93'
+    '@name': 20th-century
+  - '@count': '93'
+    '@name': to-buy
+  - '@count': '88'
+    '@name': books-i-own
+  - '@count': '83'
+    '@name': asian
+  - '@count': '70'
+    '@name': classic
+  - '@count': '68'
+    '@name': asian-literature
+  - '@count': '62'
+    '@name': in-translation
+  - '@count': '62'
+    '@name': japanese-fiction
+  - '@count': '58'
+    '@name': asian-lit
+  - '@count': '58'
+    '@name': 1960s
+  - '@count': '57'
+    '@name': library
+  - '@count': '56'
+    '@name': favourites
+  - '@count': '55'
+    '@name': horror
+  - '@count': '55'
+    '@name': translation
+  - '@count': '52'
+    '@name': kindle
+  - '@count': '51'
+    '@name': existentialism
+  - '@count': '49'
+    '@name': audiobook
+  - '@count': '48'
+    '@name': book-club
+  - '@count': '46'
+    '@name': japanese-authors
+  - '@count': '45'
+    '@name': philosophy
+  - '@count': '41'
+    '@name': fantasy
+  - '@count': '38'
+    '@name': dnf
+  - '@count': '37'
+    '@name': owned-books
+  - '@count': '37'
+    '@name': wish-list
+  - '@count': '37'
+    '@name': modern-classics
+  - '@count': '35'
+    '@name': ebook
+  - '@count': '33'
+    '@name': books
+  - '@count': '31'
+    '@name': literary
+  - '@count': '30'
+    '@name': tbr
+  - '@count': '29'
+    '@name': to-read-fiction
+  - '@count': '29'
+    '@name': surrealism
+  - '@count': '28'
+    '@name': contemporary
+  - '@count': '26'
+    '@name': magic-realism
+  - '@count': '26'
+    '@name': surreal
+  - '@count': '25'
+    '@name': physical-tbr
+  - '@count': '25'
+    '@name': my-library
+  - '@count': '25'
+    '@name': abandoned
+  - '@count': '25'
+    '@name': adult
+  - '@count': '23'
+    '@name': want-to-buy
+  - '@count': '23'
+    '@name': general-fiction
+  - '@count': '22'
+    '@name': lit
+  - '@count': '21'
+    '@name': existential
+  - '@count': '21'
+    '@name': favorite
+  - '@count': '21'
+    '@name': bookclub
+  - '@count': '20'
+    '@name': "\u65E5\u672C"
+  - '@count': '20'
+    '@name': cultural
+  - '@count': '19'
+    '@name': did-not-finish
+  - '@count': '19'
+    '@name': giappone
+  - '@count': '19'
+    '@name': translations
+  - '@count': '18'
+    '@name': my-books
+  - '@count': '18'
+    '@name': weird
+  - '@count': '18'
+    '@name': japanese-books
+  - '@count': '18'
+    '@name': japanese-author
+  - '@count': '17'
+    '@name': audiobooks
+  - '@count': '17'
+    '@name': asian-authors
+  - '@count': '17'
+    '@name': "jap\xF3n"
+  - '@count': '17'
+    '@name': school
+  - '@count': '17'
+    '@name': international
+  - '@count': '17'
+    '@name': penguin-modern-classics
+  - '@count': '17'
+    '@name': lit-japanese
+  - '@count': '16'
+    '@name': dropped
+  - '@count': '16'
+    '@name': maybe
+  - '@count': '16'
+    '@name': recommended
+  - '@count': '16'
+    '@name': literatura-japonesa
+  - '@count': '16'
+    '@name': east-asia
+  - '@count': '15'
+    '@name': bookshelf
+  - '@count': '15'
+    '@name': fiction-to-read
+  - '@count': '15'
+    '@name': thriller
+  - '@count': '15'
+    '@name': english
+  - '@count': '15'
+    '@name': mystery
+  - '@count': '15'
+    '@name': buy
+  - '@count': '15'
+    '@name': drama
+  - '@count': '14'
+    '@name': letteratura-giapponese
+  - '@count': '14'
+    '@name': roman
+  - '@count': '14'
+    '@name': japanese-novels
+  - '@count': '14'
+    '@name': priority
+  - '@count': '14'
+    '@name': faves
+  - '@count': '14'
+    '@name': favorite-books
+  - '@count': '14'
+    '@name': default
+  - '@count': '14'
+    '@name': must-read
+  - '@count': '14'
+    '@name': unfinished
+  - '@count': '14'
+    '@name': japon
+  - '@count': '13'
+    '@name': read-2024
+publication_day: '16'
+publication_month: '4'
+publication_year: '1991'
+published: '1991'
+publisher: null
+ratings_count: '36018'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417586
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/9998.The_Woman_in_the_Dunes\"\
+  >The Woman in the Dunes Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0679733787&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/9998.The_Woman_in_the_Dunes?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '35258'
+        link: https://www.goodreads.com/author/show/35258.Yukio_Mishima
+        name: Yukio Mishima
+    average_rating: '3.89'
+    id: '62798'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342696904l/62798._SX98_.jpg
+    isbn: 0679433155
+    isbn13: '9780679433156'
+    link: https://www.goodreads.com/book/show/62798.The_Temple_of_the_Golden_Pavilion
+    num_pages: '247'
+    publication_day: null
+    publication_month: null
+    publication_year: '1995'
+    ratings_count: '36018'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342696904l/62798._SY75_.jpg
+    title: The Temple of the Golden Pavilion
+    title_without_series: The Temple of the Golden Pavilion
+    uri: kca://book/amzn1.gr.book.v1.WjCpnr_cXmbCGRyNVdRjrg
+    work:
+      id: '880875'
+  - authors:
+      author:
+        id: '35258'
+        link: https://www.goodreads.com/author/show/35258.Yukio_Mishima
+        name: Yukio Mishima
+    average_rating: '3.89'
+    id: '62794'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441790556l/62794._SX98_.jpg
+    isbn: '0720610311'
+    isbn13: '9780720610314'
+    link: https://www.goodreads.com/book/show/62794.Confessions_of_a_Mask
+    num_pages: '224'
+    publication_day: '27'
+    publication_month: '10'
+    publication_year: '1998'
+    ratings_count: '36018'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441790556l/62794._SY75_.jpg
+    title: Confessions of a Mask
+    title_without_series: Confessions of a Mask
+    uri: kca://book/amzn1.gr.book.v1.oDWG9ssUVM6osmvJAW8g8Q
+    work:
+      id: '1788601'
+  - authors:
+      author:
+        id: '8550'
+        link: https://www.goodreads.com/author/show/8550.Yasunari_Kawabata
+        name: Yasunari Kawabata
+    average_rating: '3.89'
+    id: '14028'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579982486l/14028._SX98_.jpg
+    isbn: 0679761047
+    isbn13: '9780679761044'
+    link: https://www.goodreads.com/book/show/14028.Snow_Country
+    num_pages: '175'
+    publication_day: null
+    publication_month: null
+    publication_year: '1996'
+    ratings_count: '36018'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579982486l/14028._SY75_.jpg
+    title: Snow Country
+    title_without_series: Snow Country
+    uri: kca://book/amzn1.gr.book.v1.xVE0K0pBT5PZ_ICCZHSW-A
+    work:
+      id: '1855151'
+  - authors:
+      author:
+        id: '16061597'
+        link: https://www.goodreads.com/author/show/16061597.Natsume_S_seki
+        name: "Natsume S\u014Dseki"
+    average_rating: '3.89'
+    id: '762476'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327991553l/762476._SX98_.jpg
+    isbn: 0809260956
+    isbn13: '9780895267153'
+    link: https://www.goodreads.com/book/show/762476.Kokoro
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '36018'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327991553l/762476._SY75_.jpg
+    title: Kokoro
+    title_without_series: Kokoro
+    uri: kca://book/amzn1.gr.book.v1.MowZXCPxtP62Zrf6SzvlpA
+    work:
+      id: '1977713'
+  - authors:
+      author:
+        id: '35258'
+        link: https://www.goodreads.com/author/show/35258.Yukio_Mishima
+        name: Yukio Mishima
+    average_rating: '3.89'
+    id: '162332'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327629352l/162332._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/162332.The_Sailor_Who_Fell_from_Grace_with_the_Sea
+    num_pages: '181'
+    publication_day: '31'
+    publication_month: '5'
+    publication_year: '1994'
+    ratings_count: '36018'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327629352l/162332._SY75_.jpg
+    title: The Sailor Who Fell from Grace with the Sea
+    title_without_series: The Sailor Who Fell from Grace with the Sea
+    uri: kca://book/amzn1.gr.book.v1.GbZ075qykwiJ1i6Kg79Nkw
+    work:
+      id: '880874'
+  - authors:
+      author:
+        id: '3439713'
+        link: https://www.goodreads.com/author/show/3439713.Kenzabur_e
+        name: "Kenzabur\u014D \u014Ce"
+    average_rating: '3.89'
+    id: '25191'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328822587l/25191._SX98_.jpg
+    isbn: 0802150616
+    isbn13: '9780802150615'
+    link: https://www.goodreads.com/book/show/25191.A_Personal_Matter
+    num_pages: '165'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '36018'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328822587l/25191._SY75_.jpg
+    title: A Personal Matter
+    title_without_series: A Personal Matter
+    uri: kca://book/amzn1.gr.book.v1.vj5Zg7rHm0Lwmn-zx5CY6g
+    work:
+      id: '1559717'
+  - authors:
+      author:
+        id: '35258'
+        link: https://www.goodreads.com/author/show/35258.Yukio_Mishima
+        name: Yukio Mishima
+    average_rating: '3.89'
+    id: '62793'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360239609l/62793._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/62793.Spring_Snow
+    num_pages: '389'
+    publication_day: null
+    publication_month: '11'
+    publication_year: '2000'
+    ratings_count: '36018'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360239609l/62793._SX50_.jpg
+    title: 'Spring Snow (The Sea of Fertility, #1)'
+    title_without_series: Spring Snow
+    uri: kca://book/amzn1.gr.book.v1.VVC4reoD5turr74F_Hh-aw
+    work:
+      id: '2295485'
+  - authors:
+      author:
+        id: '8550'
+        link: https://www.goodreads.com/author/show/8550.Yasunari_Kawabata
+        name: Yasunari Kawabata
+    average_rating: '3.89'
+    id: '59950'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652456149l/59950._SX98_.jpg
+    isbn: 0679762647
+    isbn13: '9780679762645'
+    link: https://www.goodreads.com/book/show/59950.The_Sound_of_the_Mountain
+    num_pages: '276'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '36018'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652456149l/59950._SY75_.jpg
+    title: The Sound of the Mountain
+    title_without_series: The Sound of the Mountain
+    uri: kca://book/amzn1.gr.book.v1.WFpUxDbAV9k7MWGkIcm8jg
+    work:
+      id: '58337'
+  - authors:
+      author:
+        id: '113561'
+        link: https://www.goodreads.com/author/show/113561.Osamu_Dazai
+        name: Osamu Dazai
+    average_rating: '3.89'
+    id: '194746'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422638843l/194746._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/194746.No_Longer_Human
+    num_pages: '176'
+    publication_day: '17'
+    publication_month: '1'
+    publication_year: '1958'
+    ratings_count: '36018'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422638843l/194746._SY75_.jpg
+    title: No Longer Human
+    title_without_series: No Longer Human
+    uri: kca://book/amzn1.gr.book.v1.i4PoYbOwx_oUlT0yKc54FA
+    work:
+      id: '188338'
+  - authors:
+      author:
+        id: '35258'
+        link: https://www.goodreads.com/author/show/35258.Yukio_Mishima
+        name: Yukio Mishima
+    average_rating: '3.89'
+    id: '574927'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442620265l/574927._SX98_.jpg
+    isbn: null
+    isbn13: '9780811201179'
+    link: https://www.goodreads.com/book/show/574927.Death_in_Midsummer_and_Other_Stories
+    num_pages: null
+    publication_day: '15'
+    publication_month: '9'
+    publication_year: '2015'
+    ratings_count: '36018'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442620265l/574927._SX50_.jpg
+    title: Death in Midsummer and Other Stories
+    title_without_series: Death in Midsummer and Other Stories
+    uri: kca://book/amzn1.gr.book.v1.r9vejwKnAdYzs5r1-0wjEw
+    work:
+      id: '1343495'
+  - authors:
+      author:
+        id: '35258'
+        link: https://www.goodreads.com/author/show/35258.Yukio_Mishima
+        name: Yukio Mishima
+    average_rating: '3.89'
+    id: '62805'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441602562l/62805._SX98_.jpg
+    isbn: 0099289989
+    isbn13: '9780099289982'
+    link: https://www.goodreads.com/book/show/62805.The_Sound_of_Waves
+    num_pages: '183'
+    publication_day: null
+    publication_month: null
+    publication_year: '2000'
+    ratings_count: '36018'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441602562l/62805._SY75_.jpg
+    title: The Sound of Waves
+    title_without_series: The Sound of Waves
+    uri: kca://book/amzn1.gr.book.v1.Y1S7ABwWrXTGT0sSZygrLA
+    work:
+      id: '132842'
+  - authors:
+      author:
+        id: '35258'
+        link: https://www.goodreads.com/author/show/35258.Yukio_Mishima
+        name: Yukio Mishima
+    average_rating: '3.89'
+    id: '62812'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0099282895
+    isbn13: '9780099282891'
+    link: https://www.goodreads.com/book/show/62812.Runaway_Horses
+    num_pages: '432'
+    publication_day: '11'
+    publication_month: '3'
+    publication_year: '1999'
+    ratings_count: '36018'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Runaway Horses (The Sea of Fertility, #2)'
+    title_without_series: Runaway Horses
+    uri: kca://book/amzn1.gr.book.v1.64pH-YnrRhXyH3kmVoEB3Q
+    work:
+      id: '1642235'
+  - authors:
+      author:
+        id: '113561'
+        link: https://www.goodreads.com/author/show/113561.Osamu_Dazai
+        name: Osamu Dazai
+    average_rating: '3.89'
+    id: '194740'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0811200329
+    isbn13: '9780811200325'
+    link: https://www.goodreads.com/book/show/194740.The_Setting_Sun
+    num_pages: '175'
+    publication_day: null
+    publication_month: null
+    publication_year: '1968'
+    ratings_count: '36018'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Setting Sun
+    title_without_series: The Setting Sun
+    uri: kca://book/amzn1.gr.book.v1.30qrV6-nw6zjXK-QLw7Z9A
+    work:
+      id: '2383902'
+  - authors:
+      author:
+        id: '3354'
+        link: https://www.goodreads.com/author/show/3354.Haruki_Murakami
+        name: Haruki Murakami
+    average_rating: '3.89'
+    id: '11275'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327872639l/11275._SX98_.jpg
+    isbn: 0965341984
+    isbn13: '9780965341981'
+    link: https://www.goodreads.com/book/show/11275.The_Wind_Up_Bird_Chronicle
+    num_pages: '607'
+    publication_day: null
+    publication_month: null
+    publication_year: '1997'
+    ratings_count: '36018'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327872639l/11275._SY75_.jpg
+    title: The Wind-Up Bird Chronicle
+    title_without_series: The Wind-Up Bird Chronicle
+    uri: kca://book/amzn1.gr.book.v1.XW4PJtN0YvDji_O4RkioVg
+    work:
+      id: '2531376'
+  - authors:
+      author:
+        id: '5223'
+        link: https://www.goodreads.com/author/show/5223.Franz_Kafka
+        name: Franz Kafka
+    average_rating: '3.89'
+    id: '17690'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399438l/17690._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/17690.The_Trial
+    num_pages: '255'
+    publication_day: '9'
+    publication_month: '4'
+    publication_year: '2001'
+    ratings_count: '36018'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399438l/17690._SY75_.jpg
+    title: The Trial
+    title_without_series: The Trial
+    uri: kca://book/amzn1.gr.book.v1.4XT3uMAFY2OUcyvcyayhhw
+    work:
+      id: '2965832'
+  - authors:
+      author:
+        id: '3354'
+        link: https://www.goodreads.com/author/show/3354.Haruki_Murakami
+        name: Haruki Murakami
+    average_rating: '3.89'
+    id: '4929'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429638085l/4929._SX98_.jpg
+    isbn: '1400079276'
+    isbn13: '9781400079278'
+    link: https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore
+    num_pages: '467'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '36018'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429638085l/4929._SY75_.jpg
+    title: Kafka on the Shore
+    title_without_series: Kafka on the Shore
+    uri: kca://book/amzn1.gr.book.v1.gDH1_-18MG4EmXmSl6pqIw
+    work:
+      id: '6191072'
+  - authors:
+      author:
+        id: '3354'
+        link: https://www.goodreads.com/author/show/3354.Haruki_Murakami
+        name: Haruki Murakami
+    average_rating: '3.89'
+    id: '10374'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399844477l/10374._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/10374.Hard_Boiled_Wonderland_and_the_End_of_the_World
+    num_pages: '400'
+    publication_day: null
+    publication_month: null
+    publication_year: '2003'
+    ratings_count: '36018'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399844477l/10374._SY75_.jpg
+    title: Hard-Boiled Wonderland and the End of the World
+    title_without_series: Hard-Boiled Wonderland and the End of the World
+    uri: kca://book/amzn1.gr.book.v1.KRdFPII3KKF2-A3D92Gt0w
+    work:
+      id: '2531870'
+  - authors:
+      author:
+        id: '3354'
+        link: https://www.goodreads.com/author/show/3354.Haruki_Murakami
+        name: Haruki Murakami
+    average_rating: '3.89'
+    id: '11298'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630485146l/11298._SX98_.jpg
+    isbn: 037571894X
+    isbn13: '9780375718946'
+    link: https://www.goodreads.com/book/show/11298.A_Wild_Sheep_Chase
+    num_pages: '353'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '36018'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630485146l/11298._SY75_.jpg
+    title: 'A Wild Sheep Chase (The Rat, #3)'
+    title_without_series: A Wild Sheep Chase
+    uri: kca://book/amzn1.gr.book.v1.3a9iqYvBPitMU4vNShr01Q
+    work:
+      id: '2057170'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361254930l/9998._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '2000'
+  '@type': integer
+title: The Woman in the Dunes
+title_without_series: The Woman in the Dunes
+uri: kca://book/amzn1.gr.book.v1.a0257o2rA4_Ffrm6L0VE7A
+url: https://www.goodreads.com/book/show/9998.The_Woman_in_the_Dunes
+work:
+  id: '58336'
+  uri: kca://work/amzn1.gr.work.v1.QDIJ1pBBSM12BNyF3sV8LQ

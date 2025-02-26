@@ -1,0 +1,802 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.17'
+    id: '16667'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1341965730p5/16667.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/16667.Isaac_Asimov
+    name: Isaac Asimov
+    ratings_count: '2651317'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1341965730p2/16667.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '96429'
+average_rating: '4.27'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2006-11-05T00:00:00-08:00'
+description: "After years of struggle, the Foundation lies in ruins \u2014 destroyed\
+  \ by the mutant mind power of the Mule. But it is rumored that there is a Second\
+  \ Foundation hidden somewhere at the end of the Galaxy, established to preserve\
+  \ the knowledge of mankind through the long centuries of barbarism. The Mule failed\
+  \ to find it the first time \u2014 but now he is certain he knows where it lies.<br\
+  \ /><br />The fate of the Foundation rests on young Arkady Darell, only fourteen\
+  \ years old and burdened with a terrible secret. As its scientists gird for a final\
+  \ showdown with the Mule, the survivors of the First Foundation begin their desperate\
+  \ search. They too want the Second Foundation destroyed... before it destroys them."
+edition_information: null
+format: Paperback
+id: '626781'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693978102l/626781._SX98_.jpg
+is_ebook: 'false'
+isbn: 0553293362
+isbn13: '9780553293364'
+json: '{"id": "626781", "isbn": "0553293362", "isbn13": "9780553293364", "text_reviews_count":
+  {"@type": "integer", "#text": "136"}, "uri": "kca://book/amzn1.gr.book.v1.joDFtFx3ENh_f6__3MvDaw",
+  "title": "Second Foundation (Foundation, #3)", "title_without_series": "Second Foundation",
+  "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693978102l/626781._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693978102l/626781._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/626781.Second_Foundation",
+  "num_pages": "280", "format": "Paperback", "edition_information": null, "publisher":
+  "Bantam Spectra", "publication_day": null, "publication_year": "2004", "publication_month":
+  "6", "average_rating": "4.27", "ratings_count": "193985", "description": "After
+  years of struggle, the Foundation lies in ruins \u2014 destroyed by the mutant mind
+  power of the Mule. But it is rumored that there is a Second Foundation hidden somewhere
+  at the end of the Galaxy, established to preserve the knowledge of mankind through
+  the long centuries of barbarism. The Mule failed to find it the first time \u2014
+  but now he is certain he knows where it lies.<br /><br />The fate of the Foundation
+  rests on young Arkady Darell, only fourteen years old and burdened with a terrible
+  secret. As its scientists gird for a final showdown with the Mule, the survivors
+  of the First Foundation begin their desperate search. They too want the Second Foundation
+  destroyed... before it destroys them.", "authors": {"author": {"id": "16667", "name":
+  "Isaac Asimov", "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1341965730p5/16667.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1341965730p2/16667.jpg"},
+  "link": "https://www.goodreads.com/author/show/16667.Isaac_Asimov", "average_rating":
+  "4.17", "ratings_count": "2651317", "text_reviews_count": "96429"}}, "published":
+  "2004", "work": {"id": "64823", "uri": "kca://work/amzn1.gr.work.v1.oNnF1mhHmUf6weS8ZxQWTw"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/1417565",
+  "read_at": "Sun Nov 05 00:00:00 -0800 2006", "started_at": "", "date": "Sun Nov
+  05 00:00:00 -0800 2006"}'
+kindle_asin: B009I7OBT2
+language_code: eng
+large_image_url: null
+link: https://www.goodreads.com/book/show/626781.Second_Foundation
+marketplace_id: ATVPDKIKX0DER
+num_pages: '280'
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '64480'
+    '@name': to-read
+  - '@count': '5510'
+    '@name': science-fiction
+  - '@count': '4428'
+    '@name': sci-fi
+  - '@count': '4207'
+    '@name': currently-reading
+  - '@count': '1975'
+    '@name': fiction
+  - '@count': '1005'
+    '@name': scifi
+  - '@count': '911'
+    '@name': owned
+  - '@count': '712'
+    '@name': favorites
+  - '@count': '522'
+    '@name': sf
+  - '@count': '407'
+    '@name': asimov
+  - '@count': '311'
+    '@name': sci-fi-fantasy
+  - '@count': '279'
+    '@name': isaac-asimov
+  - '@count': '239'
+    '@name': space-opera
+  - '@count': '232'
+    '@name': default
+  - '@count': '226'
+    '@name': foundation
+  - '@count': '200'
+    '@name': books-i-own
+  - '@count': '181'
+    '@name': audiobook
+  - '@count': '179'
+    '@name': fantasy
+  - '@count': '177'
+    '@name': library
+  - '@count': '173'
+    '@name': kindle
+  - '@count': '171'
+    '@name': "ciencia-ficci\xF3n"
+  - '@count': '148'
+    '@name': ebook
+  - '@count': '147'
+    '@name': classic
+  - '@count': '145'
+    '@name': novels
+  - '@count': '133'
+    '@name': owned-books
+  - '@count': '133'
+    '@name': scifi-fantasy
+  - '@count': '124'
+    '@name': space
+  - '@count': '114'
+    '@name': science-fiction-fantasy
+  - '@count': '113'
+    '@name': novel
+  - '@count': '105'
+    '@name': science
+  - '@count': '105'
+    '@name': audiobooks
+  - '@count': '97'
+    '@name': my-library
+  - '@count': '91'
+    '@name': books
+  - '@count': '88'
+    '@name': audible
+  - '@count': '87'
+    '@name': speculative-fiction
+  - '@count': '86'
+    '@name': fantasy-sci-fi
+  - '@count': '78'
+    '@name': ebooks
+  - '@count': '75'
+    '@name': ciencia-ficcion
+  - '@count': '75'
+    '@name': to-buy
+  - '@count': '75'
+    '@name': foundation-series
+  - '@count': '71'
+    '@name': my-books
+  - '@count': '70'
+    '@name': fantascienza
+  - '@count': '68'
+    '@name': audio
+  - '@count': '67'
+    '@name': sff
+  - '@count': '63'
+    '@name': english
+  - '@count': '62'
+    '@name': sf-fantasy
+  - '@count': '59'
+    '@name': classic-sci-fi
+  - '@count': '57'
+    '@name': american
+  - '@count': '57'
+    '@name': favourites
+  - '@count': '54'
+    '@name': re-read
+  - '@count': '54'
+    '@name': literature
+  - '@count': '53'
+    '@name': tbr
+  - '@count': '49'
+    '@name': home-library
+  - '@count': '49'
+    '@name': sci-fi-and-fantasy
+  - '@count': '47'
+    '@name': "fic\xE7\xE3o-cient\xEDfica"
+  - '@count': '47'
+    '@name': have
+  - '@count': '40'
+    '@name': 1950s
+  - '@count': '39'
+    '@name': physical
+  - '@count': '39'
+    '@name': calibre
+  - '@count': '39'
+    '@name': paperback
+  - '@count': '39'
+    '@name': sciencefiction
+  - '@count': '38'
+    '@name': e-book
+  - '@count': '38'
+    '@name': 20th-century
+  - '@count': '38'
+    '@name': bookshelf
+  - '@count': '36'
+    '@name': physical-tbr
+  - '@count': '36'
+    '@name': own-it
+  - '@count': '35'
+    '@name': i-own
+  - '@count': '34'
+    '@name': favoritos
+  - '@count': '33'
+    '@name': collection
+  - '@count': '33'
+    '@name': reread
+  - '@count': '33'
+    '@name': want-to-buy
+  - '@count': '32'
+    '@name': fiction-sci-fi
+  - '@count': '32'
+    '@name': adventure
+  - '@count': '32'
+    '@name': adult
+  - '@count': '31'
+    '@name': fantasy-scifi
+  - '@count': '31'
+    '@name': asimov-isaac
+  - '@count': '30'
+    '@name': american-literature
+  - '@count': '29'
+    '@name': novela
+  - '@count': '29'
+    '@name': audio-books
+  - '@count': '29'
+    '@name': science-fiction-and-fantasy
+  - '@count': '29'
+    '@name': sf-f
+  - '@count': '28'
+    '@name': read-in-2021
+  - '@count': '28'
+    '@name': unread
+  - '@count': '27'
+    '@name': foundation-universe
+  - '@count': '26'
+    '@name': e-books
+  - '@count': '26'
+    '@name': my-bookshelf
+  - '@count': '25'
+    '@name': literature-and-fiction
+  - '@count': '25'
+    '@name': owned-tbr
+  - '@count': '24'
+    '@name': usa
+  - '@count': '24'
+    '@name': bilim-kurgu
+  - '@count': '24'
+    '@name': on-the-shelf
+  - '@count': '24'
+    '@name': audio-book
+  - '@count': '23'
+    '@name': read-in-2022
+  - '@count': '23'
+    '@name': read-sci-fi
+  - '@count': '23'
+    '@name': dystopian
+  - '@count': '22'
+    '@name': hard-sci-fi
+  - '@count': '22'
+    '@name': finished
+  - '@count': '22'
+    '@name': classic-sf
+  - '@count': '22'
+    '@name': read-fiction
+  - '@count': '22'
+    '@name': future
+publication_day: null
+publication_month: '6'
+publication_year: '2004'
+published: '2004'
+publisher: Bantam Spectra
+ratings_count: '193985'
+read_at: '2006-11-05T00:00:00-08:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/1417565
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/626781.Second_Foundation\"\
+  >Second Foundation Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0553293362&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/626781.Second_Foundation?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+  - id: '250809'
+    series:
+      description: "Part of the <a href=\"http://www.goodreads.com/series/49421-foundation-universe\"\
+        >Foundation Universe</a>.\n    \n    Listed in publication order. For chronological\
+        \ order see <a href=\"http://www.goodreads.com/series/43939-foundation\">here</a>.\n\
+        \    \n    The Foundation series is a science fiction series by Isaac Asimov\
+        \ which covers a span of about 550 years. It consists of seven volumes that\
+        \ are closely linked to each other, although they can be read separately."
+      id: '59386'
+      note: null
+      numbered: 'true'
+      primary_work_count: '8'
+      series_works_count: '11'
+      title: Foundation (Publication Order)
+    user_position: '3'
+  - id: '415705'
+    series:
+      description: "Part of the <a href=\"http://www.goodreads.com/series/49421-foundation-universe\"\
+        >Foundation Universe</a>.\n    \n    Listed in chronological order. For publication\
+        \ order see <a href=\"http://www.goodreads.com/series/59386-foundation\">here</a>\n\
+        \    \n    The Foundation series is a science fiction series by Isaac Asimov\
+        \ which covers a span of about 550 years. It consists of seven volumes that\
+        \ are closely linked to each other, although they can be read separately."
+      id: '43939'
+      note: null
+      numbered: 'true'
+      primary_work_count: '7'
+      series_works_count: '15'
+      title: Foundation (Chronological Order)
+    user_position: '5'
+  - id: '181885'
+    series:
+      description: "Asimov's <i>Greater Foundation Universe</i> consists of the <a\
+        \ href=\"http://www.goodreads.com/series/43817-galactic-empire\">Empire</a>\
+        \ series, <a href=\"http://www.goodreads.com/series/43939-foundation\">Foundation</a>\
+        \ series, and <a href=\"http://www.goodreads.com/series/49175-robot\">Robot</a>\
+        \ series. Originally published as separate series, Asimov later combined them\
+        \ into one universe.\n    \n    This gave the series a total of 15 novels\
+        \ and a time-span of approximately 20,000 years across the whole series.\n\
+        \    \n    The following books are listed in Asimov's suggested reading order\
+        \ from the published work <i>Prelude to Foundation</i>.\n    \n    See also\
+        \ the Persian series: <a href=\"https://www.goodreads.com/series/177739\"\
+        >\u0633\u0631\u06CC \u0628\u0646\u06CC\u0627\u062F</a>"
+      id: '49421'
+      note: http://en.wikipedia.org/wiki/Foundation_Trilogy#List_of_books_within_the_Foundation_Universe
+      numbered: 'false'
+      primary_work_count: '14'
+      series_works_count: '17'
+      title: Greater Foundation Universe
+    user_position: '13'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '7779'
+        link: https://www.goodreads.com/author/show/7779.Arthur_C_Clarke
+        name: Arthur C. Clarke
+    average_rating: '4.27'
+    id: '112537'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405456427l/112537._SY160_.jpg
+    isbn: '1857231589'
+    isbn13: '9781857231588'
+    link: https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama
+    num_pages: '243'
+    publication_day: null
+    publication_month: null
+    publication_year: '2000'
+    ratings_count: '193986'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405456427l/112537._SY75_.jpg
+    title: 'Rendezvous with Rama (Rama, #1)'
+    title_without_series: Rendezvous with Rama
+    uri: kca://book/amzn1.gr.book.v1.Vu-wksNB4dVDuhWGrfcb1A
+    work:
+      id: '1882772'
+  - authors:
+      author:
+        id: '5780686'
+        link: https://www.goodreads.com/author/show/5780686.Liu_Cixin
+        name: Liu Cixin
+    average_rating: '4.27'
+    id: '20518872'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/20518872-the-three-body-problem
+    num_pages: '472'
+    publication_day: '11'
+    publication_month: '11'
+    publication_year: '2014'
+    ratings_count: '193986'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872._SY75_.jpg
+    title: "The Three-Body Problem (Remembrance of Earth\u2019s Past, #1)"
+    title_without_series: The Three-Body Problem
+    uri: kca://book/amzn1.gr.book.v1.oUcAcIZioskWIAd_9N2ijQ
+    work:
+      id: '25696480'
+  - authors:
+      author:
+        id: '5780686'
+        link: https://www.goodreads.com/author/show/5780686.Liu_Cixin
+        name: Liu Cixin
+    average_rating: '4.27'
+    id: '23168817'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412064931l/23168817._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/23168817-the-dark-forest
+    num_pages: '512'
+    publication_day: '11'
+    publication_month: '8'
+    publication_year: '2015'
+    ratings_count: '193986'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412064931l/23168817._SY75_.jpg
+    title: "The Dark Forest (Remembrance of Earth\u2019s Past, #2)"
+    title_without_series: The Dark Forest
+    uri: kca://book/amzn1.gr.book.v1.vTopmk9oajebqvm2DNDWNg
+    work:
+      id: '42713958'
+  - authors:
+      author:
+        id: '5780686'
+        link: https://www.goodreads.com/author/show/5780686.Liu_Cixin
+        name: Liu Cixin
+    average_rating: '4.27'
+    id: '25451264'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430330507l/25451264._SX98_.jpg
+    isbn: '0765377101'
+    isbn13: '9780765377104'
+    link: https://www.goodreads.com/book/show/25451264-death-s-end
+    num_pages: '604'
+    publication_day: '20'
+    publication_month: '9'
+    publication_year: '2016'
+    ratings_count: '193986'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430330507l/25451264._SY75_.jpg
+    title: "Death's End (Remembrance of Earth\u2019s Past, #3)"
+    title_without_series: Death's End
+    uri: kca://book/amzn1.gr.book.v1.S11pumuenGa1z0XCFh7ZGA
+    work:
+      id: '18520265'
+  - authors:
+      author:
+        id: '58'
+        link: https://www.goodreads.com/author/show/58.Frank_Herbert
+        name: Frank Herbert
+    average_rating: '4.27'
+    id: '44492285'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577043824l/44492285._SY160_.jpg
+    isbn: 0593098234
+    isbn13: '9780593098233'
+    link: https://www.goodreads.com/book/show/44492285-dune-messiah
+    num_pages: '336'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '193986'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577043824l/44492285._SY75_.jpg
+    title: 'Dune Messiah (Dune #2)'
+    title_without_series: Dune Messiah
+    uri: kca://book/amzn1.gr.book.v1.kgK1-TU1Xcjix8LRcJ7mwg
+    work:
+      id: '3634570'
+  - authors:
+      author:
+        id: '58'
+        link: https://www.goodreads.com/author/show/58.Frank_Herbert
+        name: Frank Herbert
+    average_rating: '4.27'
+    id: '44492286'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564783201l/44492286._SY160_.jpg
+    isbn: 0593098242
+    isbn13: '9780593098240'
+    link: https://www.goodreads.com/book/show/44492286-children-of-dune
+    num_pages: '609'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '193986'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564783201l/44492286._SY75_.jpg
+    title: 'Children of Dune (Dune #3)'
+    title_without_series: Children of Dune
+    uri: kca://book/amzn1.gr.book.v1.DnovUkk5LBaPzgeyr0gXZw
+    work:
+      id: '3634573'
+  - authors:
+      author:
+        id: '2687'
+        link: https://www.goodreads.com/author/show/2687.Dan_Simmons
+        name: Dan Simmons
+    average_rating: '4.27'
+    id: '77566'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405546838l/77566._SY160_.jpg
+    isbn: 0553283685
+    isbn13: '9780553283686'
+    link: https://www.goodreads.com/book/show/77566.Hyperion
+    num_pages: '500'
+    publication_day: null
+    publication_month: '3'
+    publication_year: '1990'
+    ratings_count: '193986'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405546838l/77566._SY75_.jpg
+    title: 'Hyperion (Hyperion Cantos, #1)'
+    title_without_series: Hyperion
+    uri: kca://book/amzn1.gr.book.v1.2xaw98fU9vu-PP2TJ7Wgyw
+    work:
+      id: '1383900'
+  - authors:
+      author:
+        id: '7779'
+        link: https://www.goodreads.com/author/show/7779.Arthur_C_Clarke
+        name: Arthur C. Clarke
+    average_rating: '4.27'
+    id: '70535'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/70535.2001
+    num_pages: '297'
+    publication_day: '1'
+    publication_month: '9'
+    publication_year: '2000'
+    ratings_count: '193986'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: '2001: A Space Odyssey (Space Odyssey, #1)'
+    title_without_series: '2001: A Space Odyssey'
+    uri: kca://book/amzn1.gr.book.v1.VRJUp88y7rA1NIF5WcD2vg
+    work:
+      id: '208362'
+  - authors:
+      author:
+        id: '2687'
+        link: https://www.goodreads.com/author/show/2687.Dan_Simmons
+        name: Dan Simmons
+    average_rating: '4.27'
+    id: '77565'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541174620l/77565._SY160_.jpg
+    isbn: 0553288202
+    isbn13: '9780553288209'
+    link: https://www.goodreads.com/book/show/77565.The_Fall_of_Hyperion
+    num_pages: '517'
+    publication_day: null
+    publication_month: '12'
+    publication_year: '1995'
+    ratings_count: '193986'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541174620l/77565._SY75_.jpg
+    title: 'The Fall of Hyperion (Hyperion Cantos, #2)'
+    title_without_series: The Fall of Hyperion
+    uri: kca://book/amzn1.gr.book.v1.JHZwufQuwEjgrScrRAJskA
+    work:
+      id: '1882596'
+  - authors:
+      author:
+        id: '58'
+        link: https://www.goodreads.com/author/show/58.Frank_Herbert
+        name: Frank Herbert
+    average_rating: '4.27'
+    id: '44767458'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555447414l/44767458._SX98_.jpg
+    isbn: 059309932X
+    isbn13: '9780593099322'
+    link: https://www.goodreads.com/book/show/44767458-dune
+    num_pages: '658'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '193986'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555447414l/44767458._SY75_.jpg
+    title: 'Dune (Dune, #1)'
+    title_without_series: Dune
+    uri: kca://book/amzn1.gr.book.v1.hAfjpcV1EtlPe7qvdmKeDA
+    work:
+      id: '3634639'
+  - authors:
+      author:
+        id: '58'
+        link: https://www.goodreads.com/author/show/58.Frank_Herbert
+        name: Frank Herbert
+    average_rating: '4.27'
+    id: '44439415'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564025916l/44439415._SY160_.jpg
+    isbn: 0593098250
+    isbn13: '9780593098257'
+    link: https://www.goodreads.com/book/show/44439415-god-emperor-of-dune
+    num_pages: '587'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '193986'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564025916l/44439415._SY75_.jpg
+    title: 'God Emperor of Dune (Dune #4)'
+    title_without_series: God Emperor of Dune
+    uri: kca://book/amzn1.gr.book.v1.M2Yzp_kgxi9JVoXuoXXYQQ
+    work:
+      id: '3634588'
+  - authors:
+      author:
+        id: '9226'
+        link: https://www.goodreads.com/author/show/9226.William_Gibson
+        name: William Gibson
+    average_rating: '4.27'
+    id: '6088007'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554437249l/6088007._SX98_.jpg
+    isbn: 110114646X
+    isbn13: '9781101146460'
+    link: https://www.goodreads.com/book/show/6088007-neuromancer
+    num_pages: '288'
+    publication_day: '3'
+    publication_month: '3'
+    publication_year: '2007'
+    ratings_count: '193986'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554437249l/6088007._SY75_.jpg
+    title: 'Neuromancer (Sprawl, #1)'
+    title_without_series: Neuromancer
+    uri: kca://book/amzn1.gr.book.v1._7m4DTRn8iapMvlxW1amew
+    work:
+      id: '909457'
+  - authors:
+      author:
+        id: '58'
+        link: https://www.goodreads.com/author/show/58.Frank_Herbert
+        name: Frank Herbert
+    average_rating: '4.27'
+    id: '44492287'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564027750l/44492287._SY160_.jpg
+    isbn: 0593098269
+    isbn13: '9780593098264'
+    link: https://www.goodreads.com/book/show/44492287-heretics-of-dune
+    num_pages: '669'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '193986'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564027750l/44492287._SY75_.jpg
+    title: 'Heretics of Dune (Dune #5)'
+    title_without_series: Heretics of Dune
+    uri: kca://book/amzn1.gr.book.v1.vWsmNWO4vUbDbyExYjE9pQ
+    work:
+      id: '3634575'
+  - authors:
+      author:
+        id: '4764'
+        link: https://www.goodreads.com/author/show/4764.Philip_K_Dick
+        name: Philip K. Dick
+    average_rating: '4.27'
+    id: '36402034'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507838927l/36402034._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/36402034-do-androids-dream-of-electric-sheep
+    num_pages: '258'
+    publication_day: '26'
+    publication_month: '2'
+    publication_year: '2008'
+    ratings_count: '193986'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507838927l/36402034._SY75_.jpg
+    title: Do Androids Dream of Electric Sheep?
+    title_without_series: Do Androids Dream of Electric Sheep?
+    uri: kca://book/amzn1.gr.book.v1.lENz7wsiugnkZNIWJ-zhOg
+    work:
+      id: '830939'
+  - authors:
+      author:
+        id: '7779'
+        link: https://www.goodreads.com/author/show/7779.Arthur_C_Clarke
+        name: Arthur C. Clarke
+    average_rating: '4.27'
+    id: '414999'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320552628l/414999._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/414999.Childhood_s_End
+    num_pages: '224'
+    publication_day: '12'
+    publication_month: '5'
+    publication_year: '1987'
+    ratings_count: '193986'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320552628l/414999._SY75_.jpg
+    title: "Childhood\u2019s End"
+    title_without_series: "Childhood\u2019s End"
+    uri: kca://book/amzn1.gr.book.v1.NkBnzKp3gs-V7RVPx1-LiA
+    work:
+      id: '209414'
+  - authors:
+      author:
+        id: '58'
+        link: https://www.goodreads.com/author/show/58.Frank_Herbert
+        name: Frank Herbert
+    average_rating: '4.27'
+    id: '44439416'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564029233l/44439416._SY160_.jpg
+    isbn: 0593098277
+    isbn13: '9780593098271'
+    link: https://www.goodreads.com/book/show/44439416-chapterhouse
+    num_pages: '609'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '193986'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564029233l/44439416._SY75_.jpg
+    title: 'Chapterhouse: Dune (Dune #6)'
+    title_without_series: 'Chapterhouse: Dune'
+    uri: kca://book/amzn1.gr.book.v1.h5QEylCGraSkSpRGSm1WFg
+    work:
+      id: '3634569'
+  - authors:
+      author:
+        id: '4'
+        link: https://www.goodreads.com/author/show/4.Douglas_Adams
+        name: Douglas Adams
+    average_rating: '4.27'
+    id: '8694'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333577589l/8694._SX98_.jpg
+    isbn: 0345418905
+    isbn13: '9780345418906'
+    link: https://www.goodreads.com/book/show/8694.Life_the_Universe_and_Everything
+    num_pages: '224'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '193986'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333577589l/8694._SX50_.jpg
+    title: 'Life, the Universe and Everything (The Hitchhiker''s Guide to the Galaxy,
+      #3)'
+    title_without_series: Life, the Universe and Everything
+    uri: kca://book/amzn1.gr.book.v1.SvAGENpXG8KR4hfCuuNS5w
+    work:
+      id: '74123'
+  - authors:
+      author:
+        id: '205'
+        link: https://www.goodreads.com/author/show/205.Robert_A_Heinlein
+        name: Robert A. Heinlein
+    average_rating: '4.27'
+    id: '17214'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614054412l/17214._SY160_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/17214.Starship_Troopers
+    num_pages: '264'
+    publication_day: null
+    publication_month: '5'
+    publication_year: '1987'
+    ratings_count: '193986'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614054412l/17214._SY75_.jpg
+    title: Starship Troopers
+    title_without_series: Starship Troopers
+    uri: kca://book/amzn1.gr.book.v1.WlcZG9NeWw7A-2d1-4B8sw
+    work:
+      id: '2534973'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693978102l/626781._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '136'
+  '@type': integer
+title: 'Second Foundation (Foundation, #3)'
+title_without_series: Second Foundation
+uri: kca://book/amzn1.gr.book.v1.joDFtFx3ENh_f6__3MvDaw
+url: https://www.goodreads.com/book/show/626781.Second_Foundation
+work:
+  id: '64823'
+  uri: kca://work/amzn1.gr.work.v1.oNnF1mhHmUf6weS8ZxQWTw
