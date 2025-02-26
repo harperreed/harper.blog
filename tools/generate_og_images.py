@@ -45,7 +45,7 @@ def generate_og_image(content_type, output_dir):
     image.save(output_path)
     print(f"OG image saved to {output_path}")
 
-def main():
+def main() -> None:
     parser = argparse.ArgumentParser(description="Generate OG images for different content types.")
     parser.add_argument("content_type", choices=["posts", "notes", "music", "links", "books"], help="The content type for the OG image.")
     parser.add_argument("output_dir", help="The directory to save the generated OG image.")
