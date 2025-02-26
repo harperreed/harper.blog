@@ -6,7 +6,13 @@ def generate_og_image(content_type: str, output_dir: str) -> None:
     width, height = 1200, 630
     background_color = (255, 255, 255)
     text_color = (0, 0, 0)
-    font_path = "arial.ttf"
+    font_path = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"  # Common on Linux
+    if not os.path.exists(font_path):
+        font_path = "/System/Library/Fonts/Helvetica.ttc"  # Common on macOS
+    if not os.path.exists(font_path):
+        font_path = "C:\\Windows\\Fonts\\arial.ttf"  # Common on Windows
+    if not os.path.exists(font_path):
+        raise FileNotFoundError("No suitable system font found")
     font_size = 100
 
     if content_type == "posts":
