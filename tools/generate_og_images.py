@@ -2,7 +2,7 @@ import os
 import argparse
 from PIL import Image, ImageDraw, ImageFont
 
-def generate_og_image(content_type, output_dir):
+def generate_og_image(content_type: str, output_dir: str) -> None:
     width, height = 1200, 630
     background_color = (255, 255, 255)
     text_color = (0, 0, 0)
