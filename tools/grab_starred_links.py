@@ -74,13 +74,19 @@ def create_hugo_post(entry):
             return False
         
         slug = generate_unique_slug(title, date, url)
-        file_path = os.path.join(HUGO_CONTENT_DIR, f"{slug}.md")
         
-        if os.path.exists(file_path):
+        # Create a page bundle directory instead of a single file
+        bundle_dir = os.path.join(HUGO_CONTENT_DIR, slug)
+        index_file_path = os.path.join(bundle_dir, "index.md")
+        
+        if os.path.exists(index_file_path):
             logging.info(f"Skipping existing entry: {title}")
             return False
         else:
-            logging.info(f"Creating post for: {title}, {url}")
+            logging.info(f"Creating page bundle for: {title}, {url}")
+            
+            # Make sure the bundle directory exists
+            os.makedirs(bundle_dir, exist_ok=True)
 
         scraped_content = scrape_url(url)
      
@@ -105,12 +111,12 @@ def create_hugo_post(entry):
         post.metadata['original_url'] = url
         
         try:
-            with open(file_path, 'w', encoding='utf-8') as f:
+            with open(index_file_path, 'w', encoding='utf-8') as f:
                 f.write(frontmatter.dumps(post))
-            logging.info(f"Created post: {file_path}")
+            logging.info(f"Created page bundle: {bundle_dir}")
             return True
         except Exception as e:
-            logging.error(f"Error writing post to file '{file_path}': {e}")
+            logging.error(f"Error writing post to file '{index_file_path}': {e}")
             return False
  
     except Exception as e:
