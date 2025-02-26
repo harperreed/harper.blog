@@ -21,11 +21,7 @@ def generate_og_image(content_type: str, output_dir: str) -> None:
         background_color = (0, 0, 0)
         text_color = (255, 255, 255)
         font_size = 100
-    elif content_type == "links":
-        background_color = (255, 255, 255)
-        text_color = (0, 0, 0)
-        font_size = 100
-    elif content_type == "books":
+    elif content_type in ["links", "books"]:
         background_color = (255, 255, 255)
         text_color = (0, 0, 0)
         font_size = 100
