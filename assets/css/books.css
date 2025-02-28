@@ -137,14 +137,57 @@
     font-weight: bold;
 }
 
-/* Simple responsive adjustments */
-@media (max-width: 768px) {
+/* Medium screens - horizontal scroll */
+@media (max-width: 768px) and (min-width: 481px) {
     .reading-stats-table {
         font-size: 0.8rem;
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
     }
-
+    
     .reading-stats-table th,
     .reading-stats-table td {
         padding: 6px 8px;
+    }
+}
+
+/* Small screens - stack cells */
+@media (max-width: 480px) {
+    .reading-stats-table {
+        border: 0;
+    }
+    
+    .reading-stats-table thead {
+        display: none;
+    }
+    
+    .reading-stats-table tr {
+        margin-bottom: 1rem;
+        display: block;
+        border-bottom: 1px solid var(--color-tertiary);
+    }
+    
+    .reading-stats-table td {
+        display: flex;
+        justify-content: space-between;
+        font-size: 0.8rem;
+        text-align: right;
+        border: none;
+        padding: 6px 8px;
+    }
+    
+    .reading-stats-table td::before {
+        content: attr(data-label);
+        font-weight: bold;
+        text-align: left;
+        padding-right: 0.5rem;
+    }
+    
+    /* First cell (year) styling */
+    .reading-stats-table td:first-child {
+        font-weight: bold;
+        background-color: var(--color-tertiary);
+        border-radius: 3px 3px 0 0;
     }
 }
