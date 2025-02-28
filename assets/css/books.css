@@ -44,7 +44,11 @@
     /* Set aspect ratio to match standard book cover (2:3) */
     aspect-ratio: 2/3.155;
     background: var(--color-dark);
-    background: radial-gradient(circle, var(--color-secondary) 0%, var(--color-dark) 90%);
+    background: radial-gradient(
+        circle,
+        var(--color-secondary) 0%,
+        var(--color-dark) 90%
+    );
 }
 
 .book-bg {

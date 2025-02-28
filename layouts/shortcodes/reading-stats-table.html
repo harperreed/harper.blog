@@ -1,0 +1,69 @@
+{{/* Reading Statistics Table */}}
+<table class="reading-stats-table">
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Books Read</th>
+      <th>Average Pages</th>
+      <th>Books/Week</th>
+      <th>Pages/Day</th>
+      <th>Total Pages</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{/* Define the years to display */}}
+    {{ $years := slice "2025" "2024" "2023" "2022" "2021" "2020" "2019" "2018" "2017" "2016" "2015" "2014" }}
+    
+    {{/* Loop through each year */}}
+    {{ range $years }}
+      {{ $year := . }}
+      
+      {{/* Initialize counters for this year */}}
+      {{ $book_count := 0 }}
+      {{ $page_count := 0 }}
+      {{ $average_pages := 0 }}
+      {{ $pages_per_day := 0 }}
+      {{ $books_per_week := 0 }}
+      
+      {{/* Calculate book count and page count */}}
+      {{ range where $.Site.RegularPages "Section" "books" }}
+        {{ if eq (.Date.Format "2006") (string $year) }}
+          {{ $book_count = add $book_count 1 }}
+          {{ with .Params.num_pages }}
+            {{ $page_count = add $page_count (int .) }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+      
+      {{/* Calculate averages */}}
+      {{ if gt $book_count 0 }}
+        {{ $average_pages = div $page_count $book_count }}
+      {{ end }}
+      
+      {{/* Calculate pages per day */}}
+      {{ $days := 365 }}
+      {{ if eq (now.Format "2006") (string $year) }}
+        {{ $days = div (time.Now.YearDay) 1 }}
+      {{ end }}
+      {{ if gt $page_count 0 }}
+        {{ $pages_per_day = div $page_count $days }}
+      {{ end }}
+      
+      {{/* Calculate books per week */}}
+      {{ $weeks := div $days 7.0 }}
+      {{ if gt $book_count 0 }}
+        {{ $books_per_week = div (mul $book_count 10) (mul $weeks 10) }}
+      {{ end }}
+      
+      {{/* Output row for this year */}}
+      <tr>
+        <td data-label="Year">{{ $year }}</td>
+        <td data-label="Books Read">{{ $book_count }}</td>
+        <td data-label="Average Pages">{{ if gt $average_pages 0 }}{{ lang.FormatNumber 0 $average_pages }}{{ else }}-{{ end }}</td>
+        <td data-label="Books/Week">{{ if gt $books_per_week 0 }}{{ lang.FormatNumber 1 $books_per_week }}{{ else }}-{{ end }}</td>
+        <td data-label="Pages/Day">{{ if gt $pages_per_day 0 }}{{ lang.FormatNumber 0 $pages_per_day }}{{ else }}-{{ end }}</td>
+        <td data-label="Total Pages">{{ if gt $page_count 0 }}{{ lang.FormatNumber 0 $page_count }}{{ else }}-{{ end }}</td>
+      </tr>
+    {{ end }}
+  </tbody>
+</table>

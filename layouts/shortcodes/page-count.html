@@ -14,11 +14,9 @@
   {{ $book_count = add $book_count 1 }}
     {{ with .Params.num_pages }}
         {{ $page_count = add $page_count (int .) }}
-        
     {{ end }}
   {{ end }}
 {{ end }}
-
 
 {{/* Calculate the average */}}
 {{ if gt $book_count 0 }}
@@ -40,8 +38,32 @@
     {{ $books_per_week = div (mul $book_count 10) (mul $weeks 10) }}
 {{ end }}
 
-{{/* Output the total */}}
+{{/* Output the stats as a table */}}
 {{ if gt $page_count 0 }}
-
-{{ printf " ~%.1f books per week, ~%d daily pages read, %s yearly pages read" $books_per_week $pages_per_day (lang.FormatNumber 0 $page_count) }}
+<table class="page-count-table">
+  <tr>
+    <th>Metric</th>
+    <th>Value</th>
+  </tr>
+  <tr>
+    <td>Books read</td>
+    <td>{{ $book_count }}</td>
+  </tr>
+  <tr>
+    <td>Average pages per book</td>
+    <td>{{ lang.FormatNumber 0 $average_pages }}</td>
+  </tr>
+  <tr>
+    <td>Books per week</td>
+    <td>~{{ lang.FormatNumber 1 $books_per_week }}</td>
+  </tr>
+  <tr>
+    <td>Pages per day</td>
+    <td>~{{ lang.FormatNumber 0 $pages_per_day }}</td>
+  </tr>
+  <tr>
+    <td>Total pages read</td>
+    <td>{{ lang.FormatNumber 0 $page_count }}</td>
+  </tr>
+</table>
 {{ end }}
