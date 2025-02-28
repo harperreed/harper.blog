@@ -6,6 +6,7 @@
 {{ $book_count := 0 }}
 {{ $average_pages := 0 }}
 {{ $pages_per_day := 0 }}
+{{ $books_per_week := 0 }}
 
 {{/* Loop through books and sum pages */}}
 {{ range where .Site.RegularPages "Section" "books" }}
@@ -33,8 +34,14 @@
     {{ $pages_per_day = div $page_count $days }}
 {{ end }}
 
+{{/* Calculate books per week */}}
+{{ $weeks := div $days 7.0 }}
+{{ if gt $book_count 0 }}
+    {{ $books_per_week = div (mul $book_count 10) (mul $weeks 10) }}
+{{ end }}
+
 {{/* Output the total */}}
 {{ if gt $page_count 0 }}
 
-{{ printf " %d yearly pages read,  ~%d daily pages read" $page_count $pages_per_day }}
+{{ printf " ~%.1f books per week, ~%d daily pages read, %s yearly pages read" $books_per_week $pages_per_day (lang.FormatNumber 0 $page_count) }}
 {{ end }}
