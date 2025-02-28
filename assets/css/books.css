@@ -96,3 +96,55 @@
     position: relative;
     z-index: 1;
 }
+
+/* Reading Stats Table - Minimal Design */
+.reading-stats-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+    font-size: 0.9rem;
+}
+
+.reading-stats-table th {
+    padding: 8px 12px;
+    text-align: left;
+    background: var(--color-tertiary);
+    border: 1px solid var(--color-tertiary);
+    font-weight: bold;
+}
+
+.reading-stats-table td {
+    padding: 8px 12px;
+    border: 1px solid var(--color-tertiary);
+}
+
+/* Right-align numeric columns */
+.reading-stats-table td:nth-child(2),
+.reading-stats-table td:nth-child(3),
+.reading-stats-table td:nth-child(4),
+.reading-stats-table td:nth-child(5),
+.reading-stats-table td:nth-child(6),
+.reading-stats-table th:nth-child(2),
+.reading-stats-table th:nth-child(3),
+.reading-stats-table th:nth-child(4),
+.reading-stats-table th:nth-child(5),
+.reading-stats-table th:nth-child(6) {
+    text-align: right;
+}
+
+/* Highlight current year */
+.reading-stats-table tbody tr:first-child {
+    font-weight: bold;
+}
+
+/* Simple responsive adjustments */
+@media (max-width: 768px) {
+    .reading-stats-table {
+        font-size: 0.8rem;
+    }
+
+    .reading-stats-table th,
+    .reading-stats-table td {
+        padding: 6px 8px;
+    }
+}
