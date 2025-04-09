@@ -36,9 +36,9 @@ It does help to to assume that these type of workflows can work and be additive.
 
 ### Start with AI assisted autocomplete
 
-This is the real step one! You need to spend enough time in the IDE context to know how well you would work with intellisense, zed autocomplete, Copilot, etc. It gives you an idea of how the LLM is working - and prepares you for the stupid shit it will often recommend.
+This is the real step one! You need to spend enough time in the IDE context to know how well you would work with [intellisense](https://en.wikipedia.org/wiki/Code_completion), [zed autocomplete](https://zed.dev/blog/out-of-your-face-ai), [Copilot](https://copilot.github.com/), etc. It gives you an idea of how the LLM is working - and prepares you for the stupid shit it will often recommend.
 
-A lot of folks skip this step and just jump to the end. Then they are like “this LLM is a piece of shit and can’t do anything right!” Which is not true, but also can be true. The magic is in the nuance. Or as I like to remember: life is confusing.
+A lot of folks skip this step and just jump to the end. Then they are like “this LLM is a piece of shit and can’t do anything right!” Which is not accurate, but also can be true. The magic is in the nuance. Or as I like to remember: _life is confusing_.
 
 ### Start using Copilot as more than autocomplete
 
@@ -76,13 +76,13 @@ You have to pay for them to get the good stuff. So many friends are like “This
 
 After copying and pasting code into Claude for a few weeks you are going to realize that this is annoying. You are going to start working through context packing, and trying to fit more of your code into the LLM context window.
 
-You will experiment with repopack, repo2txt, and other code context tools. Just so that you can slam your entire codebase into the Claude context window. There is a chance that you will even start writing shell scripts (well Claude will write them) to help make this process easier.
+You will experiment with [repomix](https://repomix.com/), [repo2txt](https://github.com/donoceidon/repo2txt), and other code context tools. Just so that you can slam your entire codebase into the Claude context window. There is a chance that you will even start writing shell scripts (well Claude will write them) to help make this process easier.
 
 This is a turning point.
 
 ### Use an AI enabled IDE (Cursor, Windsurf? )
 
-Then a friend will say “why don’t you just use Cursor?”
+Then a friend will say “why don’t you just use [Cursor](https://cursor.sh/)?”
 
 It will completely blow your mind. All the magic you just experienced by copying and pasting is now available in your IDE. It is faster, it is fun, and it is close to magic.
 
@@ -98,9 +98,9 @@ Suddenly you find yourself building out very robust specs, PRDs, and todo docs t
 
 You have never “written” so much documentation. You start to use other LLMs to write more robust documentation. You are transposing docs from one context to another (“Can you make this into prompts”). You start to use the LLM to design your codegen prompts.
 
-You are saying the word “waterfall” with a lot less disdain. If you are old, you may be fondly remembering the late 90s and early 2000s and wonder “is this what Martin Fowler felt like before 2001?”
+You are saying the word “[waterfall](https://en.wikipedia.org/wiki/Waterfall_model)” with a lot less disdain. If you are old, you may be fondly remembering the late 90s and early 2000s and wonder “is this what Martin Fowler felt like before [2001](https://en.wikipedia.org/wiki/Agile_software_development)?”
 
-In the world of codegen: The spec is the godhead.
+In the world of codegen: The spec is the [godhead](https://en.wikipedia.org/wiki/Godhead).
 
 ### You start playing with aider to enable quicker loops
 
@@ -110,7 +110,7 @@ At this point you are ready to start getting into the **good stuff**. The codege
 
 Trying out aider is a wild experience. You start it up, it instantiates itself into your project. You put your query directly into aider, and it just kind of does it. It asks for permission, and gives you a framework to get things done. It completes the task. You no longer are so worried about one shotting tasks. You just have aider do it.
 
-You start building out rulesets for the LLM to follow. You learn about the “Big Daddy” rule, or the “no deceptions” addition. You start be really good at prompting the robot.
+You start building out rulesets for the LLM to follow. You learn about the “[Big Daddy](https://www.reddit.com/r/cursor/comments/1joapwk/comment/mkqg8aw/)” rule, or the “no deceptions” addition to your prompts. You start be really good at prompting the robot.
 
 It works.
 
@@ -122,16 +122,16 @@ You spend your time watching the robot do your job.
 
 You are now using an agent to code for you. The results are pretty good. There are a few times when you have no idea what’s going on. But then you remember you can just ask it.
 
-You start to experiment with Claude Code, Cline, Agentis-cli, etc. You are super happy to be able to use a reasoning model (deepseek!) and a coding model (Claude sonnet 3.7) together to start removing planning steps.
+You start to experiment with [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview), [Cline](https://cline.bot/), etc. You are super happy to be able to use a reasoning model ([deepseek](https://aws.amazon.com/bedrock/deepseek/)!) and a coding model ([Claude sonnet 3.7](https://www.anthropic.com/claude/sonnet)) together to start removing planning steps.
 
 You are doing wild stuff like running 3-5 concurrent sessions. Just tabbing through terminals watching robots code.
 
 You will start coding defensively:
 
 - really hardcore test coverage
-- thinking about formal verification
+- thinking about [formal verification](https://github.com/formal-land/coq-of-rust)
 - using memory safe languages
-- etc
+- choosing languages based on compiler verboisity to help pack the context window
 
 You will think long and hard about how to make sure that the thing you are building just gets built, safely without intervention.
 
@@ -141,32 +141,32 @@ It feels good. You are not mad about not coding.
 
 ### You let the agent code, and you play video games
 
-Suddenly you are there. You are at the destination. Well, kind of - but you see where we are going. You start to worry about software jobs. Your friends are being laid off, and they can’t get new jobs.
+Suddenly, you are there. You are at the destination. Well, kind of - but you see where we are going. You start to worry about software jobs. Your friends are being laid off, and they can’t get new jobs. It feels different this time around.
 
-When you talk to your peers they think of you as a religious zealot cuz you are working within a different context than they are. You tell them “omg you have to try out agentic coding!” Maybe you add “I hate the word agentic” just to not show that you have drank 200 gallons of kool-aid. But you have. The world seems brighter cuz you are so productive with your code.
+When you talk to your peers they think of you as a religious zealot cuz you are working within a different context than they are. You tell them “omg you have to try out agentic coding!” Maybe you add “I hate the word agentic” just to show that you have not drank 200 gallons of kool-aid. But you have. The world seems brighter cuz you are so productive with your code.
 
-It doesn’t matter.
+It doesn’t matter. The paradigm has shifted. Kuhn could write a book about the language confusion.
 
-Nobody can see because they didn’t go through the journey to get here. But those who have are agreeing and sharing their own tips around the journey, and debating the destination.
+Nobody can see this because they didn’t go through the journey to get here. But those who have are agreeing and sharing their own tips around the journey, and debating the destination.
 
-Now that you are knee deep in letting robots do the work, you can really focus on all those gameboy games you have been wanting to play. There is a lot of downtime. And when the robot is done, it will be like “should I continue” and you type yes and go back to Tetris.
+Now that you are knee deep in letting robots do the work, you can really focus on all those gameboy games you have been wanting to play. There is a lot of downtime. And when the robot is done with a task, it will ask “should I continue” and you type **yes** and go back to Tetris.
 
 Very strange. Unsettling, even.
 
 ## The acceleration
 
-I don’t know what will happen in the future. I am worried that people who are not working through this journey are not going to be attractive to employers. Which is kind of near sighted, because ultimately we are talking about tooling, and automation.
+I don’t know what will happen in the [future](https://ai-2027.com/). I am worried that people who are not working through this journey are not going to be attractive to [employers](https://x.com/tobi/status/1909231499448401946). Which is kind of near sighted, because ultimately we are talking about tooling, and automation.
 
-When we were ramping up hiring in the past, we would often spread our queries well past our network, and past our tech stack. We would do python and be interviewing people who didn’t know python, and have never used python. Our thought was with a great engineer, we could work together to get them comfortable with python. They would be additive even if they were not super comfortable with our stack. This worked out well for us. We hired incredible people who had never worked with our stack. Many times they brought such a different perspective that it elevated the entire team.
+When we were ramping up hiring in the past, we would often spread our queries well past our network, and past our tech stack. We would be a python shop and interview people who didn’t know python, and have never used python. Our thought was that with a great engineer, we could work together to get them comfortable with python. They would be additive even if they were not super comfortable with our stack. This worked out well for us. We hired incredible people who had never worked with our stack. Many times they brought such a different perspective that it elevated the entire team.
 
-This seems no different. If you hire a person that is talented, and fits in your team, and they are stoked to join up - then I wouldn’t worry about whether they have been on this journey or not. They don’t have to have drank all the kool-aid. Put them in the passenger seat and bring them along on the journey.
+The same principles apply to AI-assisted development. When hiring talented developers who match your team's culture and show enthusiasm, their experience level with AI tools shouldn't be a deal-breaker. Not everyone needs to be an AI development expert from day one. Instead, guide them through the learning process at their own pace while they work alongside more experienced team members.
 
 Eventually they will be the driver and will be successfully using these tools.
 
-One other aspect I have been considering: Writing is even more important. We have always over indexed on good communicators. It helps with team dynamics, documentation, and general problem solving. It is even more important today. In prompt land, we need people who can communicate via writing to robots.
+One other aspect I keep thinking about: Writing skills have become critical. While we've always valued strong communicators on tech teams for documentation and collaboration, it's doubly important now. Not only do you need to communicate with humans, you need to write clear, precise instructions for AI. Being able to craft effective prompts is becoming as vital as writing good code.
 
 ## The leadership
 
-I think it is really important for those of you who are leaders and engineering managers to dig all the way into this. Not because you agree - but you are going to be hiring people whose only experience coding is this path. That is the future software engineers. We gotta be ready for that.
+I think all leaders and engineering managers need to dive deep into AI-assisted development, whether you're a believer or not. Here's why: The next generation of developers you'll be hiring will have learned to code primarily through AI tools and agents. That's what software engineering is becoming. We need to understand and adapt to this reality.
 
 Us boomers are not long for this world.
