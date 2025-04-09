@@ -1,6 +1,6 @@
 ---
 date: 2025-04-09 18:00:00-05:00
-title: An LLM codegen Hero's Journey
+title: An LLM Codegen Hero's Journey
 description: A comprehensive guide detailing the evolution of using AI-assisted software development, from basic code completion to fully autonomous coding agents, with practical steps and insights for maximizing productivity through LLM integration.
 draft: false
 tags:
@@ -14,7 +14,7 @@ tags:
 
 I have spent a lot of time since my [last blog post](/2025/02/16/my-llm-codegen-workflow-atm/) talking to folks about codegen and how to get started, get better, and why it is interesting.
 
-There have been an incredible amount of interest in this topic. I have received a lot of emails from people who are working to figure all of this out. I started to notice that many people are struggling to figure out how to start, and how it all fits together. Then I realized that I have been hacking on this process since 2023 and I have seen some shit. Lol.
+There has been an incredible amount of interest in this topic. I have received a lot of emails from people who are working to figure all of this out. I started to notice that many people are struggling to figure out how to start, and how it all fits together. Then I realized that I have been hacking on this process since 2023 and I have seen some shit. Lol.
 
 I was talking about this with friends and I sent this message in response to a thread about AI assisted agents, and editors:
 
@@ -170,3 +170,9 @@ One other aspect I keep thinking about: Writing skills have become critical. Whi
 I think all leaders and engineering managers need to dive deep into AI-assisted development, whether you're a believer or not. Here's why: The next generation of developers you'll be hiring will have learned to code primarily through AI tools and agents. That's what software engineering is becoming. We need to understand and adapt to this reality.
 
 Us boomers are not long for this world.
+
+\*interesting note: i don't really use LLMs to help me write things. I imagine they would be good at it, but i find that i want my voice to be heard, and not normalized. Whereas my code needs to be normalized. interesting.
+
+---
+
+Thanks to Jesse, Sophie, the Vibez crew (Erik, Kanno, Braydon, and others), team 2389, and everyone else who gave me feedback on this post.
