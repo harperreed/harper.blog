@@ -1,6 +1,6 @@
 ---
 date: 2025-04-09 18:00:00-05:00
-title: The LLM codegen heroes journey
+title: An LLM codegen Hero's Journey
 description: A comprehensive guide detailing the evolution of using AI-assisted software development, from basic code completion to fully autonomous coding agents, with practical steps and insights for maximizing productivity through LLM integration.
 draft: false
 tags:
