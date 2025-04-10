@@ -1,28 +1,32 @@
 ---
 date: 2025-04-10
-title: My LLM codegen workflow
-description: A detailed walkthrough of my current workflow for using LLms to build software, from brainstorming through planning and execution.
+title: Waterfall in 15 Minutes or Your Money Back
+description: An exploration of how AI is accelerating traditional development methods into rapid, 15-minute waterfall cycles, transforming software engineering workflows and team dynamics.
 draft: false
 tags:
-    - LLM
-    - coding
+    - llm
+    - large-language-models
+    - code-generation
     - ai
+    - artificial-intelligence
+    - coding
+    - programming
     - workflow
     - software-development
+    - development-practices
     - productivity
+    - automation
 ---
 
 I recently had a conversation with a friend that started out as a casual catch-up and spiraled into a deep exploration of AI-assisted coding and what it's doing to our workflows, teams, and sense of "craft." It spanned everything from rewriting old codebases to how automated test coverage changes the nature of programming.
 
 I took the transcript from granola, popped it into o1-pro, and asked it to write this blog post. Not terrible. Representative of my beliefs.
 
-I sent it to a few friends, and they all were interested in sending it to a few more friends. I find the topic super
+I sent it to a few friends, and they all were interested in sending it to a few more friends. That means I gotta publish it. So here goes!
 
 > this is a good reminder that if you get an email from someone and the writing is perfect and has no affectation - an AI probably wrote it. lol.
 
 ---
-
-Here is the post
 
 ## Waterfall in 15 Minutes or Your Money Back
 
