@@ -1,24 +1,28 @@
 ---
-date: 2025-04-10 18:00:00-05:00
-title: "Waterfall in 15 Minutes or Your Money Back : How AI is Making Tech Jobs Weird"
-description: A practical guide exploring how AI is transforming software development workflows, from basic prompts to automated agents, with tips for maximizing team productivity and code quality.
+date: 2025-04-10
+title: My LLM codegen workflow
+description: A detailed walkthrough of my current workflow for using LLms to build software, from brainstorming through planning and execution.
 draft: false
 tags:
     - LLM
-    - Coding
-    - Artificial Intelligence
-    - Development Workflow
-    - Software Engineering
-    - Developer Productivity
+    - coding
+    - ai
+    - workflow
+    - software-development
+    - productivity
 ---
 
 I recently had a conversation with a friend that started out as a casual catch-up and spiraled into a deep exploration of AI-assisted coding and what it's doing to our workflows, teams, and sense of "craft." It spanned everything from rewriting old codebases to how automated test coverage changes the nature of programming.
 
 I took the transcript from granola, popped it into o1-pro, and asked it to write this blog post. Not terrible. Representative of my beliefs.
 
+I sent it to a few friends, and they all were interested in sending it to a few more friends. I find the topic super
+
 > this is a good reminder that if you get an email from someone and the writing is perfect and has no affectation - an AI probably wrote it. lol.
 
-Here is the post:
+---
+
+Here is the post
 
 ## Waterfall in 15 Minutes or Your Money Back
 
@@ -110,6 +114,6 @@ In the end, we might see that what makes your product win isn't brute-forcing co
 
 So welcome to the new waterfall—done in 15-minute cycles, with AI as your infinite junior engineer and your code pipeline on hyperdrive. It's weird and wonderful and occasionally terrifying. And odds are, we're all going to have to learn this dance one way or another.
 
-—
+---
 
-_Hope this condensed conversation offers a little insight into how AI-assisted coding is changing the game, and how you might adapt. While there's definitely uncertainty in the air, there's also an opportunity to let humans focus on what humans are really good at—defining, designing, and delivering products that matter._
+_What a funny world we live in. I think things are going to continue to get weird. Let's dig in_
