@@ -1,6 +1,6 @@
 ---
 date: 2025-04-10 18:00:00-05:00
-title: "Waterfall in 15 Minutes: My Take on AI-Assisted Coding with teams"
+title: "Waterfall in 15 Minutes or Your Money Back : How AI is Making Tech Jobs Weird"
 description: A practical guide exploring how AI is transforming software development workflows, from basic prompts to automated agents, with tips for maximizing team productivity and code quality.
 draft: false
 tags:
@@ -12,11 +12,15 @@ tags:
     - Developer Productivity
 ---
 
-I recently had a conversation that started out as a casual catch-up and spiraled into a deep exploration of AI-assisted coding and what it's doing to our workflows, teams, and sense of "craft." It spanned everything from rewriting old codebases to how automated test coverage changes the nature of programming.
+I recently had a conversation with a friend that started out as a casual catch-up and spiraled into a deep exploration of AI-assisted coding and what it's doing to our workflows, teams, and sense of "craft." It spanned everything from rewriting old codebases to how automated test coverage changes the nature of programming.
 
-I took the transcript and popped it into o1-pro and asked it to write this blog post. Not terrible. Representative of my beliefs.
+I took the transcript from granola, popped it into o1-pro, and asked it to write this blog post. Not terrible. Representative of my beliefs.
 
-## Here it is:
+> this is a good reminder that if you get an email from someone and the writing is perfect and has no affectation - an AI probably wrote it. lol.
+
+Here is the post:
+
+## Waterfall in 15 Minutes or Your Money Back
 
 ### The New Normal: "Why Does Code Quality Even Matter?"
 
