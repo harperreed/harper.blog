@@ -42,6 +42,8 @@ Will code quality nosedive? Possibly. On the other hand, we're also seeing a pus
 
 ### Waterfall in 15 Minutes
 
+{{< image src="/images/posts/waterfall.webp" alt="Waterfall" caption="Iceland has a lot of waterfalls. Leica Q, 9/30/2016" >}}
+
 We used to talk about "Waterfall vs. Agile" as if they were moral opposites, with Agile the only correct path. But ironically, code generation is nudging us toward micro waterfall cycles: we carefully define a spec (because the AI needs clarity), press "go," wait for the code to be generated, and review. It might still feel iterative, but in practice, we do a chunk of planning, then a chunk of execution, then a chunk of review. "Waterfall in 15 minutes."
 
 The real magic? You can spin up multiple "agents" simultaneously. While one AI is building a feature, another is handling your docs, and a third is chewing on your test coverage. That's not exactly the old idea of a single, linear Waterfall—this is concurrency on steroids.
@@ -111,6 +113,8 @@ A few things I've personally learned the hard way:
 ---
 
 ### Final Thoughts
+
+{{< image src="/images/posts/waterfall-road.webp" alt="Road to the future" caption="Road to the future. Colorado is flat. Leica Q, 5/14/2016" >}}
 
 Our industry is shifting faster than it ever has. Some of our well-worn assumptions—like the centrality of the flow state, or big celebrations around meticulously hand-coded features—are about to look quaint. But that doesn't mean we lose our creativity. Instead, it becomes about strategic orchestration—knowing what to build, how to describe it, and how to keep it from turning into a dumpster fire.
 
