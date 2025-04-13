@@ -21,6 +21,8 @@
   {{ .Content }}
 </content>
 
+{{ partial "generated.html" . }}
+
 {{ partialCached "tags.html" . .Title}}
 
 {{ partialCached "comments.html" . .Title}}
