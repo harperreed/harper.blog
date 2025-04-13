@@ -1,12 +1,28 @@
-{{ if ne .Params.generated true }}
-<div class="outofdate-warning">This post was written 98% by a human.</div>
-{{ else }}
-<div class="outofdate-warning">
-    <p>
-        <b>Please note:</b> This post was generated largely by AI. The post most
-        likely disclosed this fact. Although it is LLM generated, I do think
-        that it is representative of my beliefs - otherwise I would not have
-        published it.
-    </p>
+{{/* ai-disclosure.html partial 
+    Displays appropriate notice about AI content generation
+    Usage: {{ partial "ai-disclosure.html" . }}
+*/}}
+
+{{ $postDate := .Date.Format "2006" }}
+{{ $preAiCutoff := "2024" }}
+
+<div class="ai-disclosure">
+    {{ if lt $postDate $preAiCutoff }}
+        <!-- Posts before 2024 are 100% human written, no notice needed -->
+    {{ else }}
+        {{ if ne .Params.generated true }}
+            <div class="human-notice">
+                <p>This post was written 98% by a human.</p>
+            </div>
+        {{ else }}
+            <div class="ai-notice">
+                <p>
+                    <b>Please note:</b> This post was generated largely by AI. The post most
+                    likely disclosed this fact. Although it is LLM generated, I do think
+                    that it is representative of my beliefs - otherwise I would not have
+                    published it.
+                </p>
+            </div>
+        {{ end }}
+    {{ end }}
 </div>
-{{ end }}
