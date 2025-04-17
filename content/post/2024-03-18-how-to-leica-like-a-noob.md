@@ -3,6 +3,7 @@ date: 2024-03-18 09:00:11-05:00
 description: Some really bad advice on owning and using a Leica camera. Also, some
   general photography advice.
 draft: false
+generateSocialImage: true
 tags:
 - photography
 - leica

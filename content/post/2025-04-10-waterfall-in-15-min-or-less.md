@@ -3,6 +3,7 @@ date: 2025-04-10
 title: Waterfall in 15 Minutes or Your Money Back
 description: An exploration of how AI is accelerating traditional development methods into rapid, 15-minute waterfall cycles, transforming software engineering workflows and team dynamics.
 generated: true
+generateSocialImage: true
 draft: false
 tags:
     - llm

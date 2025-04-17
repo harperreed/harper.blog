@@ -14,7 +14,9 @@
             {{- end }}
         </title>
 
-        {{- partialCached "seo_tags.html" . .Title -}}
+        <!-- {{- partialCached "seo_tags.html" . .Title -}} -->
+        
+        {{- partial "social_card.html" . -}}
 
         {{- partialCached "head/css.html" . -}}
         

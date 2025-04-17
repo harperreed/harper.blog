@@ -1,18 +1,17 @@
 ---
 date: 2024-07-31 09:00:00-05:00
-description: Too many contacts, apps crashing. Ditched fancy solutions for old-school
-  vCards and vdir. Wrote scripts, used khard for CLI management, vdirsyncer for syncing.
-  Deduped, sorted, version-controlled my digital Rolodex. Google's still a pain with
-  UIDs. It's messy, it's overkill, but it's mine. Command-line junkies, this one's
-  for you!
+description:
+    Too many contacts, apps crashing. Ditched fancy solutions for old-school
+    vCards and vdir. Wrote scripts, used khard for CLI management, vdirsyncer for syncing. Deduped, sorted, version-controlled my digital Rolodex. Google's still a pain with UIDs. It's messy, it's overkill, but it's mine. Command-line junkies, this one's for you!
 draft: false
+generateSocialImage: true
 tags:
-- contact-management
-- privacy
-- technology
-- apps
-- self-sovereignty
-title: 'Contact management in 2024: Stupid vcard tricks for hackers'
+    - contact-management
+    - privacy
+    - technology
+    - apps
+    - self-sovereignty
+title: "Contact management in 2024: Stupid vcard tricks for hackers"
 ---
 
 ## How to really fuck up your contacts and also get control back
@@ -58,6 +57,7 @@ One of the main tools to manipulate, search and manage your contacts vdir is cal
 This unlocked one magical thing that I have been wanting for ages: separate contacts.
 
 I wanted to be able to have separate address books:
+
 - Primary: all of the people I normally contact
 - Secondary: people who I know but aren’t in normal contact
 - Other: all the people who I have interacted with over time
@@ -84,7 +84,7 @@ I found a great script that I had Claude rewrite that split your vcard file into
 
 I now have one dir in my `~/.contacts` directory that has 100% of my contacts. I am almost in a good spot!
 
-I then exported my *other* contacts from google, split them, and then put them in the **other** directory.
+I then exported my _other_ contacts from google, split them, and then put them in the **other** directory.
 
 My favorite part was checking the contacts into git. One of the problems I was trying to solve, was to understand what is changing in my contacts. Now I have version control!
 
@@ -94,13 +94,13 @@ I was basically ready for the next step!
 
 Now that I had my contacts as individual vcards, I had suddenly introduced a bunch of new problems:
 
- - How do I dedupe my contacts?
- - How do I sort my contacts into priority groups?
- - How do I get the contacts to my phone?
- - How do I sync to multiple address books?
- - How do I get beef rendang in Chicago?
- - How do I stop climate change?
- - Is cardio really the answer?
+- How do I dedupe my contacts?
+- How do I sort my contacts into priority groups?
+- How do I get the contacts to my phone?
+- How do I sync to multiple address books?
+- How do I get beef rendang in Chicago?
+- How do I stop climate change?
+- Is cardio really the answer?
 
 Whew. This is a lot. Let’s start at the top
 
@@ -120,9 +120,9 @@ You can find the dedupe script [here](https://github.com/harperreed/vcard-tools/
 
 This is a hilarious problem, and once again Claude is here to save us. I explained the issue to Claude - and Claude whipped up a good solution.
 
-We built *hot or not* for your contacts. You just run [this script](https://github.com/harperreed/vcard-tools/blob/main/vcf-curator.py) and it will help you curate your contacts.
+We built _hot or not_ for your contacts. You just run [this script](https://github.com/harperreed/vcard-tools/blob/main/vcf-curator.py) and it will help you curate your contacts.
 
-I am using [openai](https://openai.com/index/openai-api/), [serper](https://serper.dev/), my email interactions,  and some silliness to try and figure out if the contact is relevant to me.
+I am using [openai](https://openai.com/index/openai-api/), [serper](https://serper.dev/), my email interactions, and some silliness to try and figure out if the contact is relevant to me.
 
 It then allows me to keep, move, or skip. This way I can quickly jump through a bunch of contacts and sort them into **primary** or **secondary**.
 
@@ -142,17 +142,17 @@ You do a lot of dancing to configure it, and then once it is configured you run 
 
 It works natively with carddav (apple, fruux, etc) a few other providers (mainly google using their various contact apis). Vdirsyncer is in the middle of a much needed rewrite/migration to rust - but is working.
 
-I am using it to sync my *main* contacts directory to my main google contacts addressbook.
+I am using it to sync my _main_ contacts directory to my main google contacts addressbook.
 
 My google contacts addressbook is my phone's address book of record.
 
 This works OK. I tried a handful of carddav providers (apple, fruux) and google was the most reliable strangely. It also had the benefit of having a rational and easy to use interface available on the web.
 
-###  How do I sync to multiple address books?
+### How do I sync to multiple address books?
 
 Vdirsyncer is very good at this. However, the providers are all stupid. And by providers I mean google.
 
-I don’t know who made google contacts api, or why,  but they have made one of the dumbest decisions I have seen in awhile.
+I don’t know who made google contacts api, or why, but they have made one of the dumbest decisions I have seen in awhile.
 
 The vcard spec is pretty flexible, annoyingly so. You can kind of do anything you want. And many providers do. This is also why it is awesome.
 
@@ -213,10 +213,8 @@ Instead of:
 
 #### Annoying. Google is bad. Never go full google.
 
-
-
 ### **A quick aside.**
->
+
 > While debugging this I had to reset my address books dozens of times. It is never an easy task.
 >
 > **How to delete Google contacts**
@@ -244,6 +242,7 @@ Instead of:
 ### Codifying reality
 
 I now have three main interfaces that sync with my database of record:
+
 - Google Contacts on the web - remote
 - my iPhone contacts app - remote
 - `khard` - local

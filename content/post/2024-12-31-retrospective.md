@@ -3,6 +3,7 @@ date: 2024-12-31 23:59:59-05:00
 title: 2024 in the rear view
 description: A personal retrospective on 2024, covering major life changes, health improvements, shifts in travel patterns, music discoveries, and technological adaptations, culminating in a forward-looking view of 2025.
 draft: false
+generateSocialImage: true
 tags:
     - life
     - retrospective
@@ -73,53 +74,53 @@ Here is my list of things and stuff and media that I really enjoyed in 2024
 
 I loved these books in 2024. You can find my entire list of books I read in 2024 at [reading.lol](https://reading.lol)
 
--   [My Work by Olga Ravn](https://amzn.to/4023AxA)
--   [Moonbound by Robin Sloan](https://amzn.to/401G8QW)
--   [Some Desperate Glory by Emily Tesh](https://amzn.to/405vbya)
--   [The Supremes at Earl's All-You-Can-Eat by Edward Kelsey Moore](https://amzn.to/3ZXwSxp)
--   [Nuclear War: A Scenario by Annie Jacobsen](https://amzn.to/3Pgpfxh)
--   [There There by Tommy Orange](https://amzn.to/3PjxTLl)
+- [My Work by Olga Ravn](https://amzn.to/4023AxA)
+- [Moonbound by Robin Sloan](https://amzn.to/401G8QW)
+- [Some Desperate Glory by Emily Tesh](https://amzn.to/405vbya)
+- [The Supremes at Earl's All-You-Can-Eat by Edward Kelsey Moore](https://amzn.to/3ZXwSxp)
+- [Nuclear War: A Scenario by Annie Jacobsen](https://amzn.to/3Pgpfxh)
+- [There There by Tommy Orange](https://amzn.to/3PjxTLl)
 
 ## My favorite TV shows
 
 We don’t watch a lot of TV, but these were notable this year
 
--   [Pantheon](<https://en.wikipedia.org/wiki/Pantheon_(TV_series)>)
--   [Shrinking](<https://en.wikipedia.org/wiki/Shrinking_(TV_series)>)
--   [Kaos](<https://en.wikipedia.org/wiki/Kaos_(TV_series)>)
--   [Slow Horses](https://en.wikipedia.org/wiki/Slow_Horses)
+- [Pantheon](<https://en.wikipedia.org/wiki/Pantheon_(TV_series)>)
+- [Shrinking](<https://en.wikipedia.org/wiki/Shrinking_(TV_series)>)
+- [Kaos](<https://en.wikipedia.org/wiki/Kaos_(TV_series)>)
+- [Slow Horses](https://en.wikipedia.org/wiki/Slow_Horses)
 
 ## Favorite Tracks (in no particular order )
 
 These are tracks that have stuck out over the last year.
 
--   [Two Shell - Ghost2](https://open.spotify.com/track/0DgyAyvFmYA232P4jWheGP?si=a33ebf18e0ac4b0d)
--   [John Glacier - Regal](https://open.spotify.com/track/2Nhv8QFVAAfn3I4UjWVvJD?si=d430f6642a5d4101)
--   [Geordie Greep - Blues](https://open.spotify.com/track/7nGhBjDpYtI7jJ5Tel9jDt?si=e494bd21d3b940b6)
--   [Jacob Collier - World O World](https://open.spotify.com/track/32uchtKD304d7YYOAlN9DM?si=297983cbc712432d)
--   [2hollis - Crush](https://open.spotify.com/track/0ttpRUqY7S9LfMPnbZjrXq?si=a0eba01434f847bd)
--   [Dilla - Führerschein](https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV?si=13a76773a97f404f)
--   [Ennio Morricone - Nei luoghi](https://open.spotify.com/track/0JVbRJCpAf1hS24EJcJu75?si=d790e3bcc0304a6a)
--   [Doechii - Nissan Altima](https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD?si=a71a44f029694b47)
--   [prodbycpkshawn - Vilent Crime x jerseyclub](https://open.spotify.com/track/4Smwjevj6kLCEntc890pmC?si=5c4ec00b851d4750)
--   [Phoebe Bridgers - Kyoto (Glitch Gum Remix)](https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl?si=16d95769434b4962)
--   [Issey Cross / Spyda - Energy in my Town](https://open.spotify.com/track/5yq647KdPpcKJ6F1BWvLqY?si=e318190c18124935)
--   [TsuShiMaMiRe - Punk san](https://open.spotify.com/track/7Aaf9Hj4V79pHyf0WrkWPt?si=61d1d45b00cd4163)
+- [Two Shell - Ghost2](https://open.spotify.com/track/0DgyAyvFmYA232P4jWheGP?si=a33ebf18e0ac4b0d)
+- [John Glacier - Regal](https://open.spotify.com/track/2Nhv8QFVAAfn3I4UjWVvJD?si=d430f6642a5d4101)
+- [Geordie Greep - Blues](https://open.spotify.com/track/7nGhBjDpYtI7jJ5Tel9jDt?si=e494bd21d3b940b6)
+- [Jacob Collier - World O World](https://open.spotify.com/track/32uchtKD304d7YYOAlN9DM?si=297983cbc712432d)
+- [2hollis - Crush](https://open.spotify.com/track/0ttpRUqY7S9LfMPnbZjrXq?si=a0eba01434f847bd)
+- [Dilla - Führerschein](https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV?si=13a76773a97f404f)
+- [Ennio Morricone - Nei luoghi](https://open.spotify.com/track/0JVbRJCpAf1hS24EJcJu75?si=d790e3bcc0304a6a)
+- [Doechii - Nissan Altima](https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD?si=a71a44f029694b47)
+- [prodbycpkshawn - Vilent Crime x jerseyclub](https://open.spotify.com/track/4Smwjevj6kLCEntc890pmC?si=5c4ec00b851d4750)
+- [Phoebe Bridgers - Kyoto (Glitch Gum Remix)](https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl?si=16d95769434b4962)
+- [Issey Cross / Spyda - Energy in my Town](https://open.spotify.com/track/5yq647KdPpcKJ6F1BWvLqY?si=e318190c18124935)
+- [TsuShiMaMiRe - Punk san](https://open.spotify.com/track/7Aaf9Hj4V79pHyf0WrkWPt?si=61d1d45b00cd4163)
 
 ## Backpacks I used
 
 I love bags, and used the same filson tote for 10 years. I replaced it with a backpack(s) recently and used these exclusively
 
--   [Veilance Nomin](https://www.google.com/search?q=Veilance+Nomin&sourceid=chrome&ie=UTF-8)
--   [Goruck GR1 USA Dyneema](https://www.goruck.com/products/gr1-usa-dyneema)
+- [Veilance Nomin](https://www.google.com/search?q=Veilance+Nomin&sourceid=chrome&ie=UTF-8)
+- [Goruck GR1 USA Dyneema](https://www.goruck.com/products/gr1-usa-dyneema)
 
 ## The cameras I shot with
 
 These were my everyday carry
 
--   [Ricoh GRIIx](https://www.ricoh-imaging.co.jp/english/products/gr-3/)
--   [Leica M11](https://leica-camera.com/en-US/photography/cameras/m/m11-black)
--   [Olympus MU ii](https://www.google.com/search?q=Olympus+MU+ii&sourceid=chrome&ie=UTF-8)
+- [Ricoh GRIIx](https://www.ricoh-imaging.co.jp/english/products/gr-3/)
+- [Leica M11](https://leica-camera.com/en-US/photography/cameras/m/m11-black)
+- [Olympus MU ii](https://www.google.com/search?q=Olympus+MU+ii&sourceid=chrome&ie=UTF-8)
 
 # 2025
 
