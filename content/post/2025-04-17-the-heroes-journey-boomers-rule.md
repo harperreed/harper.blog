@@ -176,7 +176,7 @@ I think all leaders and engineering managers need to dive deep into AI-assisted 
 
 Us boomers are not long for this world.
 
-\*interesting note: i don't really use LLMs to help me write things. I imagine they would be good at it, but i find that i want my voice to be heard, and not normalized. Whereas my code needs to be normalized. interesting.
+**interesting note:** i don't really use LLMs to help me write things. I imagine they would be good at it, but i find that i want my voice to be heard, and not normalized. Whereas my code needs to be normalized. interesting.
 
 ---
 
