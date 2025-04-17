@@ -3,6 +3,7 @@ date: 2025-02-16 18:00:00-05:00
 title: My LLM codegen workflow atm
 description: A detailed walkthrough of my current workflow for using LLms to build software, from brainstorming through planning and execution.
 draft: false
+generateSocialImage: true
 tags:
     - LLM
     - coding

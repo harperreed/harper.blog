@@ -1,19 +1,21 @@
 ---
 date: 2024-03-26 09:00:00-05:00
-description: I used sensors and an LLM to make my office talk. We used this to generate
-  a humorous LLM-generated commentary - creating an interactive, profanity and personality-infused
-  office space.
+description:
+    I used sensors and an LLM to make my office talk. We used this to generate
+    a humorous LLM-generated commentary - creating an interactive, profanity and personality-infused
+    office space.
 draft: false
+generateSocialImage: true
 tags:
-- office-automation
-- sensors
-- llm
-- home-assistant
-- technology
-title: 'Our Office Avatar pt 1: The office is talking shit again'
+    - office-automation
+    - sensors
+    - llm
+    - home-assistant
+    - technology
+title: "Our Office Avatar pt 1: The office is talking shit again"
 ---
 
-**tl;dr:** *I use a bunch of sensors, and an LLM to make my office talk to us about what’s going on in the office. This is a long post, but should be pretty straight forward. Generally, this is a good demonstration of how I have been using LLMs in my real life.*
+**tl;dr:** _I use a bunch of sensors, and an LLM to make my office talk to us about what’s going on in the office. This is a long post, but should be pretty straight forward. Generally, this is a good demonstration of how I have been using LLMs in my real life._
 
 In 2019 my buddy Ivan and I started working in this [amazing studio](https://company.lol) here in Chicago. Mostly we just fuck off and build lots of fun stuff.
 
@@ -24,6 +26,7 @@ Early on, one of the main things I spent my time building was adding some sensor
 We used [home assistant](https://en.wikipedia.org/wiki/Home_Assistant) to collect all the sensors into one platform. I built some really boring automations that would announce various states.
 
 The notifications were pretty straight forward:
+
 - Announcing when a person arrived
 - Announcing when the temperature is too hot, too cold
 - Announcing when the CO2 level is too high
@@ -54,10 +57,11 @@ My favorite "emergent" trick is to take structured `JSON` data and convert it to
 {{< image src="/images/posts/api-llm-lol.png" caption="my new favorite graph">}}
 
 Specifically I take json:
+
 ```json
 {
-	"current_temperature_f": 32,
-	"conditions": "snowing"
+    "current_temperature_f": 32,
+    "conditions": "snowing"
 }
 ```
 
@@ -65,18 +69,17 @@ Then add a fun prompt:
 
 > What should i wear. Be concise, have some personality. Think of this as a tweet telling people what to wear
 
-
-
 Pass it to `GPT-4-turbo` and get this:
 
 > Brrr, it's 32°F and snowing! 🌨️ Bundle up in your coziest layers, don't forget a warm coat, gloves, and a hat. Snow boots are a must. Stay toasty, friends! #WinterWonderland #DressWarm
 
 Pretty straight forward. What is really great, is that you don’t have to pre-define the json object. The llm is able to be **very** flexible. For instance, let’s just randomly add another entity to the json:
+
 ```json
 {
-	"current_temperature_f": 32,
-	"conditions": "snowing",
-	"air_quality": "really really bad"
+    "current_temperature_f": 32,
+    "conditions": "snowing",
+    "air_quality": "really really bad"
 }
 ```
 
@@ -92,14 +95,14 @@ Hilariously, when building this type of app - if there is an error, the LLM will
 
 > Facing a 401 server error? Channel that frustration into fashion! Rock a bold, error-proof outfit today: a statement tee, comfy jeans, and sneakers that say 'I'm too fabulous for server issues.' 💻👖👟 #FashionFix #ServerChic
 
-
 I use this pattern constantly. I mostly build lil bots that hang out and tell me things:
+
 - Sleep performance analysis
 - Weather bot
 - [Chicago Alerts twitter account](https://twitter.com/chicagoalerts)
 - Sensor decisions for my e-ink ambient displays
 
-(*Never fear, I will document all of these later.*)
+(_Never fear, I will document all of these later._)
 
 ## Back to the office
 
@@ -110,6 +113,7 @@ Armed with this new paradigm, and a sudden influx of time, I decided to redo the
 First, I prototyped the system by catching the sensor data and manually sending it to ChatGPT and seeing how it would react. It was pretty straight forward, and obviously very prompt dependent.
 
 Here is the first prompt we used
+
 ```text
 You are HouseGPT.
 
@@ -148,6 +152,7 @@ The default state is:
 I would pass in the default state so the Llm would know what status quo was, then I would pass in the current state, and as a wild card I passed in the last state.
 
 For instance if this was a door:
+
 - default_state: `{ “front_door”: “closed” }`
 - current_state: `{ “front_door”: “open” } `
 - last_state: `{ “front_door”: “open” }`
@@ -171,6 +176,7 @@ The main problem with this approach is that you don’t want an announcement eve
 I decided to make a really simple flask app that ultimately just collected json data from sensors over MQTT and then after a certain set of parameters (time, velocity and count) it would push bunch of the json states into one payload.
 
 The objects look like:
+
 ```json
 {
     "entity_id": "binary_sensor.front_door",
@@ -181,23 +187,23 @@ The objects look like:
 ```
 
 Which would translate into:
+
 ```json
 {
-	"messages": [
-		{
-			"entity_id": "binary_sensor.front_door",
-			"from_state": "on",
-			"to_state": "off",
-			"timestamp": "2024-03-25T13:50:01.289165-05:00"
-		}
-	]
+    "messages": [
+        {
+            "entity_id": "binary_sensor.front_door",
+            "from_state": "on",
+            "to_state": "off",
+            "timestamp": "2024-03-25T13:50:01.289165-05:00"
+        }
+    ]
 }
 ```
 
 From here it is passed to Openai to turn this json into prose:
 
 > Congratulations, the front door is now closed. One less way for the inevitable to find its way in. Keep up the vigilance; it might just prolong your survival.
-
 
 This all happens via my friend, and yours: `mqtt`.
 
@@ -209,70 +215,71 @@ Fast change Automation:
 alias: "AI: State Router (5 seconds)"
 description: ""
 trigger:
-  - platform: state
-    entity_id:
-      - input_boolean.occupied
-      - lock.front_door
-      - binary_sensor.front_door
-      - switch.ac
-    for:
-      hours: 0
-      minutes: 0
-      seconds: 5
+    - platform: state
+      entity_id:
+          - input_boolean.occupied
+          - lock.front_door
+          - binary_sensor.front_door
+          - switch.ac
+      for:
+          hours: 0
+          minutes: 0
+          seconds: 5
 condition:
-  - condition: state
-    entity_id: input_boolean.occupied
-    state: "on"
+    - condition: state
+      entity_id: input_boolean.occupied
+      state: "on"
 action:
-  - service: mqtt.publish
-    data:
-      qos: 0
-      retain: false
-      topic: hassevents/notifications
-      payload_template: |
-        {
-          "entity_id": "{{ trigger.entity_id }}",
-          "from_state": "{{ trigger.from_state.state }}",
-          "to_state": "{{ trigger.to_state.state }}",
-          "timestamp": "{{ now().isoformat() }}"
-        }
+    - service: mqtt.publish
+      data:
+          qos: 0
+          retain: false
+          topic: hassevents/notifications
+          payload_template: |
+              {
+                "entity_id": "{{ trigger.entity_id }}",
+                "from_state": "{{ trigger.from_state.state }}",
+                "to_state": "{{ trigger.to_state.state }}",
+                "timestamp": "{{ now().isoformat() }}"
+              }
 mode: single
 ```
 
 Slow change automation:
+
 ```yaml
 alias: "AI: State Router (5 minutes)"
 description: ""
 trigger:
-  - platform: state
-    entity_id:
-      - sensor.airthings_wave_183519_co2
-      - binary_sensor.sitting_area_presence_sensor
-      - binary_sensor.ivan_desk_presence_sensor
-      - binary_sensor.harper_desk_presence_sensor
-      - binary_sensor.stereo_presence_sensor
-      - binary_sensor.tool_area_presence_sensor
-    for:
-      hours: 0
-      minutes: 5
-      seconds: 0
+    - platform: state
+      entity_id:
+          - sensor.airthings_wave_183519_co2
+          - binary_sensor.sitting_area_presence_sensor
+          - binary_sensor.ivan_desk_presence_sensor
+          - binary_sensor.harper_desk_presence_sensor
+          - binary_sensor.stereo_presence_sensor
+          - binary_sensor.tool_area_presence_sensor
+      for:
+          hours: 0
+          minutes: 5
+          seconds: 0
 condition:
-  - condition: state
-    entity_id: input_boolean.occupied
-    state: "on"
+    - condition: state
+      entity_id: input_boolean.occupied
+      state: "on"
 action:
-  - service: mqtt.publish
-    data:
-      qos: 0
-      retain: false
-      topic: hassevents/notifications
-      payload_template: |
-        {
-          "entity_id": "{{ trigger.entity_id }}",
-          "from_state": "{{ trigger.from_state.state }}",
-          "to_state": "{{ trigger.to_state.state }}",
-          "timestamp": "{{ now().isoformat() }}"
-        }
+    - service: mqtt.publish
+      data:
+          qos: 0
+          retain: false
+          topic: hassevents/notifications
+          payload_template: |
+              {
+                "entity_id": "{{ trigger.entity_id }}",
+                "from_state": "{{ trigger.from_state.state }}",
+                "to_state": "{{ trigger.to_state.state }}",
+                "timestamp": "{{ now().isoformat() }}"
+              }
 mode: single
 ```
 
