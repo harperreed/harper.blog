@@ -2,13 +2,12 @@
 {{ $featured := $images.GetMatch "*feature*" }}
 {{ $textColor := "#FFF" }}
 {{ $textSubColor := "#808080" }}
-
 {{ $name := .Site.Params.author.name }}
 {{ $email := .Site.Params.author.email }}
 
-
 {{ if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end }}
-{{ if not $featured }}
+
+{{ if and (not $featured) (.Params.generateSocialImage | default false) }}
     {{ $featured = resources.Get "images/social_card_bg_harper.png" }}
     {{ $size := 80 }}
     {{ $title := $.LinkTitle }}
@@ -89,5 +88,7 @@
         {{ $featured = $featured | images.Filter (images.Text $name $footerOptions) }}
         {{ $featured = $featured | images.Filter (images.Text $email $emailOptions) }}
     {{ end }}
+{{ else if not $featured }}
+    {{ $featured = resources.GetRemote "https://harper.blog/images/og.png" }}
 {{ end }}
 {{ return $featured }}
