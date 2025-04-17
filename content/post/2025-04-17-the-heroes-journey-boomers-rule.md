@@ -10,13 +10,14 @@ tags:
     - development-workflow
     - software-engineering
     - developer-productivity
+    - boomers
 ---
 
 I have spent a lot of time since my [blog post](/2025/02/16/my-llm-codegen-workflow-atm/) about my LLM workflow talking to folks about codegen and how to get started, get better, and why it is interesting.
 
 There has been an incredible amount of energy and interest in this topic. I have received a ton of emails from people who are working to figure all of this out. I started to notice that many people are struggling to figure out how to start, and how it all fits together. Then I realized that I have been hacking on this process since 2023 and I have seen some shit. Lol.
 
-I was talking about this with friends and I sent this message in response to a thread about AI assisted agents, and editors:
+I was talking about this with friends (Fisaconites's represent) and I sent this message in response to a thread about AI assisted agents, and editors:
 
 > if i were starting out, i don't know if it is helpful to jump right into the "agent" coders. It is annoying and weird. having walked a few people through this (successfully, and not successfully) I find that the "hero's journey" of starting with the Copilot, moving to the copy and paste from Claude web, to the Cursor/continue, to the fully automated "agents" seems to be a successful way to adopt these things.
 
@@ -174,7 +175,7 @@ One other aspect I keep thinking about: Writing skills have become critical. Whi
 
 I think all leaders and engineering managers need to dive deep into AI-assisted development, whether you're a believer or not. Here's why: The next generation of developers you'll be hiring will have learned to code primarily through AI tools and agents. This is what software engineering is becoming. We need to understand and adapt to this reality.
 
-Us boomers are not long for this world.
+Us code boomers are not long for this world.
 
 **interesting note:** i don't really use LLMs to help me write things. I imagine they would be good at it, but i find that i want my voice to be heard, and not normalized. Whereas my code needs to be normalized. interesting.
 
