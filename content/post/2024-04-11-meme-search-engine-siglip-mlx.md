@@ -1,22 +1,22 @@
 ---
 date: 2024-04-12 09:00:00-05:00
-description: I built a magical meme search engine using siglip/CLIP and vector encoding
-  images. It was a fun way to learn about this powerful technology. I'm sharing the
-  code so you can build your own and discover forgotten gems in your photo library.
-  Let's unleash the power of AI on our images!
+description:
+    I built a magical meme search engine using siglip/CLIP and vector encoding
+    images. It was a fun way to learn about this powerful technology. I'm sharing the code so you can build your own and discover forgotten gems in your photo library. Let's unleash the power of AI on our images!
 draft: false
+generateSocialImage: true
 tags:
-- meme-search-engine
-- vector-embeddings
-- applied-ai
-- siglip
-- image-search
+    - meme-search-engine
+    - vector-embeddings
+    - applied-ai
+    - siglip
+    - image-search
 title: I accidentally built a meme search engine
 ---
 
 ## Or: how to learn about clip/siglip and vector encoding images
 
-*tl;dr*: I built a meme search engine using siglip/CLIP and vector encoding images. It was fun and I learned a lot.
+_tl;dr_: I built a meme search engine using siglip/CLIP and vector encoding images. It was fun and I learned a lot.
 
 I have been building a lot of applied AI tools for a while. One of the components that always seemed the most magical has always been vector embeddings. [Word2Vec](https://en.wikipedia.org/wiki/Word2vec) and the like have straight blown my mind. It is like magic.
 
@@ -28,7 +28,7 @@ I decided to use my sudden motivation as an opportunity to learn how "all this w
 
 If you have never ran into vector embeddings, clip/siglip, vector databases, and the like - never fear.
 
-Before I saw the hack on hn I really didn’t think much about vector embeddings, multi modal embeddings or vector datastores. I had used faiss (facebooks simple vector store), and Pinecone ($$)  for some hacks, but didn’t really dig in. Just got it to work and then was like “yep. Tests pass.”
+Before I saw the hack on hn I really didn’t think much about vector embeddings, multi modal embeddings or vector datastores. I had used faiss (facebooks simple vector store), and Pinecone ($$) for some hacks, but didn’t really dig in. Just got it to work and then was like “yep. Tests pass.”
 
 I still barely know what vectors are. Lol. Before I dug in and built this, I really didn’t understand how I would use it outside of RAG or another LLM process.
 
@@ -52,7 +52,7 @@ This is a pretty straight forward hack. I am just fucking around so I wasn't sup
 
 One of my goals was to make sure everything runs locally to my laptop. We have these fancy Mac GPUs - let's heat them up.
 
-The first step was building out a simple crawler that would crawl a directory of images. I use Apple Photos, so I didn't have a directory full of my photos laying around. I did, however, have a giant bucket of memes from my precious and very secret meme chat group (don't tell anyone). I exported the chat,  moved the images to a directory and BAM - I had my test image set.
+The first step was building out a simple crawler that would crawl a directory of images. I use Apple Photos, so I didn't have a directory full of my photos laying around. I did, however, have a giant bucket of memes from my precious and very secret meme chat group (don't tell anyone). I exported the chat, moved the images to a directory and BAM - I had my test image set.
 
 ### The Crawler
 
@@ -66,7 +66,7 @@ It is a bit complicated but here are the steps:
     - hash
     - filesize
     - location
-4. I iterate through that sqlite db and then use CLIP to get the  vector encoding of every image.
+4. I iterate through that sqlite db and then use CLIP to get the vector encoding of every image.
 5. Then I store those vectors back in the sqlite db
 6. Then I iterate through the sqlite db and insert the vectors and image path into chroma vector db
 7. Then we are done
@@ -74,6 +74,7 @@ It is a bit complicated but here are the steps:
 This is a lot of wasted work. You could iterate through the images, grab the embeddings and slam it into chroma (I chose chroma cuz it is easy, free, and no infra).
 
 I have built it this way because:
+
 - After the memes, I crawled 140k images and wanted it to be resilient to crashing.
 - I needed it to be able to resume building out the databases in case it crashed, power went out, etc
 - I really like loops
@@ -145,7 +146,6 @@ Encode it, pass it to chroma to return similar results.
 And then similar images that return are like this:
 {{< image src="images/posts/vector-memes-bowie-results.png" >}}
 
-
 Another example:
 {{< image src="images/posts/vector-memes-star-trek.png" >}}
 
@@ -176,7 +176,6 @@ Searching for **red** (a dozy! Is it a color? Is a lifestyle? Is it Russia?)
 So on and so forth. Forever. It is magical. You can find all sorts of gems you forgot about. Oh shit I need a meme about writing a blog post:
 {{< image src="images/posts/vector-memes-writing-meme.jpg" >}}
 
-
 (I am self aware, I just don't care - lol)
 
 ### How does it work with a photo library?
@@ -201,10 +200,8 @@ You can search for landmarks. I had no idea I had taken a photo of fuji-san from
 And then find similar images of Mt Fuji.
 {{< image src="images/posts/vector-memes-fuji-similar.png" >}}
 
-
 It is pretty easy to search for places.
 {{< image src="images/posts/vector-memes-chicago.png" >}}
-
 
 Or emotions. I am apparently surprising so I have a lot of surprised photos.
 {{< image src="images/posts/vector-memes-surprised.png" >}}
@@ -214,7 +211,6 @@ Also niche things like low riders. (These are from Shibuya!)
 
 And you can use it to find things that are not easy to find or search for. Like bokeh.
 {{< image src="images/posts/vector-memes-bokeh.png" >}}
-
 
 It's wonderful, because I can click through and find great images I had forgotten about. Like this great photo of Baratunde that I took in 2017:
 
@@ -239,6 +235,7 @@ I would use conda or something similar to keep things clean. The interface is si
 ## My challenge for you!
 
 Please build an app that I can use to catalog my photo library in a nice way. I don't want to upload to another destination. I want to have a simple Mac app that I can point to my photo library and say "crawl this." I imagine a lot of neat stuff could be added:
+
 - Llava/Moondream auto captioning
 - Keywords / Tags
 - Vector similarity
@@ -247,7 +244,6 @@ Please build an app that I can use to catalog my photo library in a nice way. I 
 It should run locally. Be a native app. Be simple, and effective. Maybe plug into Lightroom, capture one, or apple photos.
 
 I want this. Build it. Let's discover all the amazing photos we have taken through the magic of AI.
-
 
 ## Extra Credit: Light Room Preview JPEG Recovery
 
@@ -264,7 +260,6 @@ Ivan's simple script to extract the images from the preview file is really aweso
 A super handy script to keep around.
 
 You can check it out here: [LR Preview JPEG Extractor](https://github.com/ibips/lrprev-extract).
-
 
 ## Thanks for reading.
 
