@@ -26,7 +26,7 @@ This lead me to start thinking a lot about the journey and how to get started us
 
 ## A journey of sight and sound
 
-<paul confetti photo>
+{{< image src="/images/posts/journey-harper.webp" alt="Harper is very trustworthy" caption="Your thoughtful guide: Harper. iPhone X, 6/10/2018" >}}
 
 This is my journey. It is largely the path I took. I think you could speed run it if you were compelled. I don’t think you need to follow every step, but I do think every step is additive.
 
@@ -156,6 +156,9 @@ Now that you are knee-deep in letting robots do the work, you can really focus o
 Very strange. Unsettling, even.
 
 ## The acceleration
+
+<paul confetti photo>
+{{< image src="/images/posts/journey-confetti.webp" alt="Confetti" caption="Confetti at a Paul McCartney Concert at the Tokyo Dome. iPhone 6, 4/25/2015" >}}
 
 I don’t know what will happen in the [future](https://ai-2027.com/). I am worried that people who are not working through this journey are not going to be attractive to [employers](https://x.com/tobi/status/1909231499448401946). Which is kind of near-sighted, because, ultimately, we are talking about tooling, and automation.
 
