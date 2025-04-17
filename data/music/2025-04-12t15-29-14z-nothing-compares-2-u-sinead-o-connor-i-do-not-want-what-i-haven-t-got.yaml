@@ -1,0 +1,68 @@
+added_at: '2025-04-12T15:29:14Z'
+album: I Do Not Want What I Haven't Got
+album_image: https://i.scdn.co/image/ab67616d0000b2736f6536c2e326fb2b42db90f8
+artist: "Sin\xE9ad O'Connor"
+duration_ms: 280040
+id: 3nvuPQTw2zuFAVuLsC9IYQ
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1
+      href: https://api.spotify.com/v1/artists/4sD9znwiVFx9cgRPZ42aQ1
+      id: 4sD9znwiVFx9cgRPZ42aQ1
+      name: "Sin\xE9ad O'Connor"
+      type: artist
+      uri: spotify:artist:4sD9znwiVFx9cgRPZ42aQ1
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/34hQFIwGTLf03BZQmGL0iy
+    href: https://api.spotify.com/v1/albums/34hQFIwGTLf03BZQmGL0iy
+    id: 34hQFIwGTLf03BZQmGL0iy
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2736f6536c2e326fb2b42db90f8
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e026f6536c2e326fb2b42db90f8
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048516f6536c2e326fb2b42db90f8
+      width: 64
+    is_playable: true
+    name: I Do Not Want What I Haven't Got
+    release_date: '1990-07-01'
+    release_date_precision: day
+    total_tracks: 10
+    type: album
+    uri: spotify:album:34hQFIwGTLf03BZQmGL0iy
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1
+    href: https://api.spotify.com/v1/artists/4sD9znwiVFx9cgRPZ42aQ1
+    id: 4sD9znwiVFx9cgRPZ42aQ1
+    name: "Sin\xE9ad O'Connor"
+    type: artist
+    uri: spotify:artist:4sD9znwiVFx9cgRPZ42aQ1
+  available_markets: []
+  disc_number: 1
+  duration_ms: 280040
+  explicit: false
+  external_ids:
+    isrc: GBAYK9000017
+  external_urls:
+    spotify: https://open.spotify.com/track/3nvuPQTw2zuFAVuLsC9IYQ
+  href: https://api.spotify.com/v1/tracks/3nvuPQTw2zuFAVuLsC9IYQ
+  id: 3nvuPQTw2zuFAVuLsC9IYQ
+  is_local: false
+  is_playable: true
+  name: Nothing Compares 2 U
+  popularity: 2
+  preview_url: null
+  track_number: 6
+  type: track
+  uri: spotify:track:3nvuPQTw2zuFAVuLsC9IYQ
+spotify_url: https://open.spotify.com/track/3nvuPQTw2zuFAVuLsC9IYQ
+title: Nothing Compares 2 U

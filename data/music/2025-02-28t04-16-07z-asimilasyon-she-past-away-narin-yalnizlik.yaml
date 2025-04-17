@@ -1,0 +1,114 @@
+added_at: '2025-02-28T04:16:07Z'
+album: Narin Yalnizlik
+album_image: https://i.scdn.co/image/ab67616d0000b273c86b38e6244623e3c4095c94
+artist: She Past Away
+duration_ms: 254093
+id: 513Btbko3502Gth1g7Seyj
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR
+      href: https://api.spotify.com/v1/artists/6paE8ghTau4qwwNzVRSgjR
+      id: 6paE8ghTau4qwwNzVRSgjR
+      name: She Past Away
+      type: artist
+      uri: spotify:artist:6paE8ghTau4qwwNzVRSgjR
+    available_markets:
+    - AG
+    - BB
+    - BS
+    - BZ
+    - CA
+    - CR
+    - DM
+    - DO
+    - GD
+    - GT
+    - HN
+    - HT
+    - JM
+    - KN
+    - LC
+    - MX
+    - NI
+    - PA
+    - PR
+    - SV
+    - TT
+    - US
+    - VC
+    external_urls:
+      spotify: https://open.spotify.com/album/5X9YAncsCpzA5XaHCjads4
+    href: https://api.spotify.com/v1/albums/5X9YAncsCpzA5XaHCjads4
+    id: 5X9YAncsCpzA5XaHCjads4
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273c86b38e6244623e3c4095c94
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02c86b38e6244623e3c4095c94
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851c86b38e6244623e3c4095c94
+      width: 64
+    is_playable: true
+    name: Narin Yalnizlik
+    release_date: '2019-01-18'
+    release_date_precision: day
+    total_tracks: 11
+    type: album
+    uri: spotify:album:5X9YAncsCpzA5XaHCjads4
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR
+    href: https://api.spotify.com/v1/artists/6paE8ghTau4qwwNzVRSgjR
+    id: 6paE8ghTau4qwwNzVRSgjR
+    name: She Past Away
+    type: artist
+    uri: spotify:artist:6paE8ghTau4qwwNzVRSgjR
+  available_markets:
+  - AG
+  - BB
+  - BS
+  - BZ
+  - CA
+  - CR
+  - DM
+  - DO
+  - GD
+  - GT
+  - HN
+  - HT
+  - JM
+  - KN
+  - LC
+  - MX
+  - NI
+  - PA
+  - PR
+  - SV
+  - TT
+  - US
+  - VC
+  disc_number: 1
+  duration_ms: 254093
+  explicit: false
+  external_ids:
+    isrc: US57M1816502
+  external_urls:
+    spotify: https://open.spotify.com/track/513Btbko3502Gth1g7Seyj
+  href: https://api.spotify.com/v1/tracks/513Btbko3502Gth1g7Seyj
+  id: 513Btbko3502Gth1g7Seyj
+  is_local: false
+  is_playable: true
+  name: Asimilasyon
+  popularity: 36
+  preview_url: null
+  track_number: 2
+  type: track
+  uri: spotify:track:513Btbko3502Gth1g7Seyj
+spotify_url: https://open.spotify.com/track/513Btbko3502Gth1g7Seyj
+title: Asimilasyon

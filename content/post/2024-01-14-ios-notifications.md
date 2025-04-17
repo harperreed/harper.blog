@@ -1,21 +1,23 @@
 ---
 date: 2024-01-14
-description: Manage your iOS device notifications effectively with Focus modes and
-  Scheduled Summaries. Customize Focus modes for different scenarios like work, personal
-  time, or sleep, allowing only important notifications. Use Scheduled Summaries to
-  bundle less critical notifications for convenient review at set times. This approach
-  streamlines your notification experience, reducing distractions and enhancing productivity.
+description:
+    Manage your iOS device notifications effectively with Focus modes and
+    Scheduled Summaries. Customize Focus modes for different scenarios like work, personal
+    time, or sleep, allowing only important notifications. Use Scheduled Summaries to
+    bundle less critical notifications for convenient review at set times. This approach
+    streamlines your notification experience, reducing distractions and enhancing productivity.
 draft: false
+generateSocialImage: true
 tags:
-- ios
-- notifications
-- productivity
-- focus-modes
-- digital-wellbeing
+    - ios
+    - notifications
+    - productivity
+    - focus-modes
+    - digital-wellbeing
 title: How to easily handle the deluge of iOS notifications
 ---
 
-*TL;DR: Manage your iOS device notifications effectively with Focus modes and Scheduled Summaries. Customize Focus modes for different scenarios like work, personal time, or sleep, allowing only important notifications. Use Scheduled Summaries to bundle less critical notifications for convenient review at set times. This approach streamlines your notification experience, reducing distractions and enhancing productivity*
+_TL;DR: Manage your iOS device notifications effectively with Focus modes and Scheduled Summaries. Customize Focus modes for different scenarios like work, personal time, or sleep, allowing only important notifications. Use Scheduled Summaries to bundle less critical notifications for convenient review at set times. This approach streamlines your notification experience, reducing distractions and enhancing productivity_
 
 Two features I rely on:
 
@@ -48,7 +50,7 @@ I use focus states to set my phone (and computer) to various focus states. I hav
 
 For each mode, I will have a specific background, and home screen config. This way my “work” mode will look and feel different than my “personal” or home mode. It allows me to be triggered back into a state on a glance. I use midjourney or their built in photo backgrounds as my mode backgrounds.
 
-I also have a workout mode, driving mode,  and a few others. But I primarily use Work, Personal, and DND.
+I also have a workout mode, driving mode, and a few others. But I primarily use Work, Personal, and DND.
 
 In the configuration of the focus modes, you can specify what people you want to hear from, and what apps you want notifications from. I make this pretty tight. I always allow calls from Favorites (due to emergencies, and what not). I do the same for apps.
 
@@ -58,7 +60,7 @@ You can also add focus filters to a focus mode. This means that you can specify 
 
 I have my focus modes trigger based on time (9-6 -> work, 6-9am and 6-10apm -> personal, 10pm-6am -> DND).
 
-You can also set up different home screens, and hide certain screens. For my travel mode i only show my travel homescreen. For sleep mode I only show my sleep screen with some widgets about what is happening (temp, time, and calendar for tomorrow). For work mode I only show my work screen with work apps.  and so on.
+You can also set up different home screens, and hide certain screens. For my travel mode i only show my travel homescreen. For sleep mode I only show my sleep screen with some widgets about what is happening (temp, time, and calendar for tomorrow). For work mode I only show my work screen with work apps. and so on.
 
 It may take some configuration and hacking, and some apps don’t support filtering - but once you get it locked down it is really awesome.
 
@@ -71,28 +73,28 @@ It rules.
 Here is how to get it going:
 
 1. Open Settings
-Start by opening the Settings app on your iPhone or iPad.
+   Start by opening the Settings app on your iPhone or iPad.
 
 2. Navigate to Notifications
-Scroll down and tap on "Notifications" to access the notification settings.
+   Scroll down and tap on "Notifications" to access the notification settings.
 
 3. Access Scheduled Summary
-Within the Notifications settings, tap on "Scheduled Summary" to configure your summaries
+   Within the Notifications settings, tap on "Scheduled Summary" to configure your summaries
 
 4. Enable Scheduled Summary
-Toggle the switch next to "Scheduled Summary" to turn it on. This will reveal additional settings for scheduling
+   Toggle the switch next to "Scheduled Summary" to turn it on. This will reveal additional settings for scheduling
 
 5. Select Apps for Summary
-Under "Apps in Summary," select the apps that you want to include in your notification summary. You can choose apps based on the average number of notifications you receive from them or alphabetically
+   Under "Apps in Summary," select the apps that you want to include in your notification summary. You can choose apps based on the average number of notifications you receive from them or alphabetically
 
 6. Schedule Your Summaries
-Under "Schedule," you can set the times you want to receive your summaries. Tap "Add" to create a new schedule or "Remove" to delete an existing one. Adjust the time for each scheduled summary according to your preference
+   Under "Schedule," you can set the times you want to receive your summaries. Tap "Add" to create a new schedule or "Remove" to delete an existing one. Adjust the time for each scheduled summary according to your preference
 
 7. Review and Adjust
-You can review your settings and make adjustments at any time by going back to Settings > Notifications > Scheduled Summary. Here, you can add or remove apps from the summary or change the scheduled times
+   You can review your settings and make adjustments at any time by going back to Settings > Notifications > Scheduled Summary. Here, you can add or remove apps from the summary or change the scheduled times
 
 8. Receive Your Summaries
-Once set up, you will receive your Scheduled Summaries at the times you've specified. These summaries will appear on your Lock Screen and in the Notification Center, allowing you to catch up on notifications at convenient times
+   Once set up, you will receive your Scheduled Summaries at the times you've specified. These summaries will appear on your Lock Screen and in the Notification Center, allowing you to catch up on notifications at convenient times
 
 Once it is set up, it just kind of works. I have a morning summary, and an afternoon summary. I also put nearly all of my apps in the summaries.
 
@@ -100,7 +102,7 @@ This is especially awesome of installing new apps. So many apps are sending shit
 
 If I find I am missing some alerts, I can pop it out of the summary. And vice versus. It works super well.
 
-----
+---
 
 Both of these really make my life better. It takes a minute to make sure it's tweaked how you want, but it's worth it.
 

@@ -1,0 +1,7 @@
+.ai-disclosure {
+    margin-top: var(--margin);
+    border: 1px dashed var(--color-secondary);
+    background: var(--color-tertiary);
+    padding-left: var(--margin);
+    padding-right: var(--margin);
+}

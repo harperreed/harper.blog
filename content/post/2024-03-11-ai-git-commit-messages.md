@@ -1,21 +1,22 @@
 ---
 date: 2024-03-11 11:04:11-05:00
-description: I've transformed my git commit process by using an AI to automatically
-  generate meaningful messages. This setup involves a nifty integration of the llm
-  CLI and git hooks, saving me time. Now I can fuck off while the robots document
-  my commits
+description:
+    I've transformed my git commit process by using an AI to automatically
+    generate meaningful messages. This setup involves a nifty integration of the llm
+    CLI and git hooks, saving me time. Now I can fuck off while the robots document
+    my commits
 draft: false
+generateSocialImage: true
 tags:
-- git
-- llm
-- commit-messages
-- programming
-- automation
+    - git
+    - llm
+    - commit-messages
+    - programming
+    - automation
 title: Use an llm to automagically generate meaningful git commit messages
 ---
 
-*TL;DR: You can set a pre-commit-msg git hook to call the `llm` cli and get a summary of your recent code changes as your commit message.*
-
+_TL;DR: You can set a pre-commit-msg git hook to call the `llm` cli and get a summary of your recent code changes as your commit message._
 
 I love hacking on projects, but often I am super bad at making commits that make sense.
 
@@ -23,7 +24,6 @@ For instance:
 {{< image src="/images/posts/commits.png" caption="My terrible commit messages" >}}
 
 Trash commit messages. I am lazy!
-
 
 ## Never fear, LLMs are here.
 
@@ -236,11 +236,13 @@ pipx install llm
 Remember to set your key and default model.
 
 Set your Openai key:
+
 ```bash
 llm keys set openai
 ```
 
 Set which model is default:
+
 ```bash
 llm models default gpt-4-turbo
 ```
@@ -377,7 +379,6 @@ echo "$commit_msg" > "$1"
 
 You can see [mine in my dotfiles](https://github.com/harperreed/dotfiles/blob/master/.git_hooks/prepare-commit-msg).
 
-
 ### 7. Make the `prepare-commit-msg` file executable
 
 Run the following command in your terminal:
@@ -396,8 +397,8 @@ git config --global core.hooksPath ~/.git_hooks
 
 ### 9. Code, build things and then commit something
 
-
 ## Explanation on how it works
+
 This command sets the `core.hooksPath` configuration option to your global hooks directory (`~/.git_hooks`).
 
 Now, whenever you run `git commit` in any of your repositories, Git will execute the global `prepare-commit-msg` hook located in `~/.git_hooks/prepare-commit-msg`. The hook will generate the commit message based on the staged changes using the `llm` command and the system prompt from `~/.config/prompts/commit-system-prompt.txt`.

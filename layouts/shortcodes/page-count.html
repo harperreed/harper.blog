@@ -36,5 +36,5 @@
 {{/* Output the total */}}
 {{ if gt $page_count 0 }}
 
-{{ printf "%d | %d *pages* | ~%d pages read per day" $book_count $page_count $pages_per_day }}
+{{ printf " %d yearly pages read,  ~%d daily pages read" $page_count $pages_per_day }}
 {{ end }}
