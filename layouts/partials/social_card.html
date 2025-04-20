@@ -1,4 +1,5 @@
-{{- $card := partial "get-featured-image.html" . }}
+
+{{- $card := partialCached "get-featured-image.html" . .Title}}
 
 <!-- Open Graph / Facebook -->
 <!-- Source: https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/opengraph.html -->
