@@ -1,4 +1,6 @@
-{{ $images := $.Resources.ByType "image" }}
+
+{{ $images := .Page.Resources.ByType "image" }}
+
 {{ $featured := $images.GetMatch "*feature*" }}
 {{ $textColor := "#FFF" }}
 {{ $textSubColor := "#808080" }}

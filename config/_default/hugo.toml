@@ -5,7 +5,7 @@ title = "Harper Reed's Blog"
 canonifyURLs = true
 enableRobotsTXT = true
 enableGitInfo = true
-
+timeout = "60s"                  # Default is 30s
 defaultContentLanguage = "en"
 author = "Harper Reed"
 disableKinds = []

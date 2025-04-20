@@ -13,10 +13,8 @@
                 {{ with .Title }}{{ . }} | {{ end }} {{.Site.Title }}
             {{- end }}
         </title>
-
-        <!-- {{- partialCached "seo_tags.html" . .Title -}} -->
         
-        {{- partial "social_card.html" . -}}
+        {{- partialCached "social_card.html" . .Title -}}
 
         {{- partialCached "head/css.html" . -}}
         
