@@ -1,96 +1,68 @@
+{{/* 
+   This partial picks or generates a featured image for social sharing.
+   1. Attempt to find a feature/cover/thumbnail image in the page resources.
+   2. If none is found and .Params.generateSocialImage is true, generate a custom image.
+   3. Otherwise, fall back to a remote image.
+   4. Return the final featured image.
+*/}}
 
+{{ $generate := .Params.generateSocialImage | default false }}
 {{ $images := .Page.Resources.ByType "image" }}
+{{ $featured := or ($images.GetMatch "*feature*") ($images.GetMatch "{*cover*,*thumbnail*}") }}
 
-{{ $featured := $images.GetMatch "*feature*" }}
-{{ $textColor := "#FFF" }}
-{{ $textSubColor := "#808080" }}
-{{ $name := .Site.Params.author.name }}
-{{ $email := .Site.Params.author.email }}
-
-{{ if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end }}
-
-{{ if and (not $featured) (.Params.generateSocialImage | default false) }}
+{{ if not $featured }}
+  {{ if $generate }}
+    {{/* Use a local base image for custom generation */}}
     {{ $featured = resources.Get "images/social_card_bg_harper.png" }}
-    {{ $size := 80 }}
-    {{ $title := $.LinkTitle }}
-    
-    {{ $maxWidth := 1000 }}
-    {{ $charPerLine := div $maxWidth (div $size 1.5) }}
-    {{ $words := split $title " " }}
-    {{ $lines := slice }}
-    {{ $currentLine := slice }}
-    {{ $currentLength := 0 }}
-    
+
+    {{/* Prepare fonts and text content */}}
+    {{ $font        := or (resources.Get "fonts/mulish-black.ttf") (resources.Get "fonts/Mulish-Black.ttf") }}
+    {{ $regularFont := or (resources.Get "fonts/mulish-regular.ttf") (resources.Get "fonts/Mulish-Regular.ttf") }}
+    {{ $title       := .LinkTitle }}
+    {{ $textColor   := "#FFF" }}
+    {{ $textSubColor:= "#808080" }}
+    {{ $maxWidth    := 1000 }}
+    {{ $fontSize    := 80 }}
+
+    {{/* Simple word wrap for the title */}}
+    {{ $words   := split $title " " }}
+    {{ $lines   := slice }}
+    {{ $line    := slice }}
+    {{ $length  := 0 }}
+    {{ $limit   := div $maxWidth (div $fontSize 1.5) }}
     {{ range $words }}
-        {{ $wordLen := len . }}
-        {{ if gt (add $currentLength $wordLen) $charPerLine }}
-            {{ $lines = $lines | append (delimit $currentLine " ") }}
-            {{ $currentLine = slice . }}
-            {{ $currentLength = $wordLen }}
-        {{ else }}
-            {{ $currentLine = $currentLine | append . }}
-            {{ $currentLength = add $currentLength (add $wordLen 1) }}
-        {{ end }}
+      {{ if gt (add $length (len .)) $limit }}
+        {{ $lines = $lines | append (delimit $line " ") }}
+        {{ $line = slice . }}
+        {{ $length = len . }}
+      {{ else }}
+        {{ $line = $line | append . }}
+        {{ $length = add $length (add (len .) 1) }}
+      {{ end }}
     {{ end }}
-    {{ if len $currentLine }}
-        {{ $lines = $lines | append (delimit $currentLine " ") }}
+    {{ if len $line }} {{ $lines = $lines | append (delimit $line " ") }} {{ end }}
+
+    {{/* Place wrapped text lines onto the image */}}
+    {{ $baseY := 80 }}
+    {{ range $i, $txt := $lines }}
+      {{ $yPos := add $baseY (mul $i (add $fontSize 10)) }}
+      {{ $featured = $featured | images.Filter (images.Text $txt (dict "color" $textColor "size" $fontSize "x" 65 "y" $yPos "font" $font)) }}
     {{ end }}
-    
-    {{ $font := resources.Get "fonts/mulish-black.ttf" }}
-    {{ if not $font }}
-        {{ $font = resources.Get "fonts/Mulish-Black.ttf" }}
-    {{ end }}
-    
-    {{ $regularFont := resources.Get "fonts/mulish-regular.ttf" }}
-    {{ if not $regularFont }}
-        {{ $regularFont = resources.Get "fonts/Mulish-Regular.ttf" }}
-    {{ end }}
-    
-    {{ $lastYPos := 80 }}
-    {{ range $index, $line := $lines }}
-        {{ $yPos := add 80 (mul $index (add $size 10)) }}
-        {{ $lastYPos = $yPos }}
-        {{ $textOptions := dict 
-            "color" $textColor
-            "size" $size
-            "x" 65 
-            "y" $yPos
-            "font" $font
-        }}
-        {{ $featured = $featured | images.Filter (images.Text $line $textOptions) }}
-    {{ end }}
-    
+
+    {{/* Optionally add date, author, email, etc. */}}
     {{ if $regularFont }}
-        {{ $dateYPos := add $lastYPos (add $size 20) }}
-        {{ $dateOptions := dict
-            "color" $textSubColor
-            "size" 32
-            "x" 65 
-            "y" $dateYPos
-            "font" $regularFont
-        }}
-        
-        {{ $footerOptions := dict
-            "color" "#FFF"
-            "size" 48
-            "x" 65 
-            "y" 500
-            "font" $font
-        }}
-        
-        {{ $emailOptions := dict
-            "color" "#808080"
-            "size" 36
-            "x" 65 
-            "y" 560
-            "font" $regularFont
-        }}
-        
-        {{ $featured = $featured | images.Filter (images.Text ($.Date.Format "January 2, 2006") $dateOptions) }}
-        {{ $featured = $featured | images.Filter (images.Text $name $footerOptions) }}
-        {{ $featured = $featured | images.Filter (images.Text $email $emailOptions) }}
+      {{ $lastLineY := add $baseY (mul (sub (add (len $lines) 1) 0) (add $fontSize 10)) }}
+      {{ $dateYPos   := add $lastLineY (add $fontSize 20) }}
+      {{ $featured   = $featured | images.Filter (images.Text ($.Date.Format "January 2, 2006") (dict "color" $textSubColor "size" 32 "x" 65 "y" $dateYPos "font" $regularFont)) }}
+      {{ $featured   = $featured | images.Filter (images.Text .Site.Params.author.name (dict "color" $textColor "size" 48 "x" 65 "y" 500 "font" $font)) }}
+      {{ $featured   = $featured | images.Filter (images.Text .Site.Params.author.email (dict "color" $textSubColor "size" 36 "x" 65 "y" 560 "font" $regularFont)) }}
     {{ end }}
-{{ else if not $featured }}
-    {{ $featured = resources.GetRemote "https://harper.blog/images/og.png?2" }}
+
+  {{ else }}
+    {{/* No local images and not generating, use a remote fallback */}}
+
+    {{ $featured = resources.Get "/images/og.png" | resources.Fingerprint "sha512" }}
+  {{ end }}
 {{ end }}
+
 {{ return $featured }}
