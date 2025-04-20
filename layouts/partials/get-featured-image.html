@@ -91,6 +91,6 @@
         {{ $featured = $featured | images.Filter (images.Text $email $emailOptions) }}
     {{ end }}
 {{ else if not $featured }}
-    {{ $featured = resources.GetRemote "https://harper.blog/images/og.png" }}
+    {{ $featured = resources.GetRemote "https://harper.blog/images/og.png?2" }}
 {{ end }}
 {{ return $featured }}
