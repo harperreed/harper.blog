@@ -21,7 +21,7 @@ The media section has a log of all my books [read](/media/books) (tracked from G
 
 I started posting my links a month or so ago. I wanted to see how the workflow felt. I think it is important for these types of things to just work, without a lot of BS or additional interactions from me. After a month or so, it was fun to see the links that I was saving show up on the site. Like magic.
 
-{{< image src="new-media-sufjan.jpeg" alt="New Media" caption="Sufjan Stevens, Leica Q, 7/17/2016" >}}
+{{< image src="L1060869.jpeg" width="1024" alt="New Media" caption="Sufjan Stevens, Leica Q, 7/17/2016" >}}
 
 ## Why Track?
 
@@ -60,6 +60,6 @@ If you want to do something like this yourself, I would recommend checking out [
 
 ## New Media
 
-{{< image src="harper-politics.jpeg" alt="New Media" caption="My very serious office, unknown camera, 11/8/2012" >}}
+{{< image src="2012-11-08-3.jpeg" width="1024" alt="New Media" caption="My very serious office, unknown camera, 11/8/2012" >}}
 
 Unrelated to anything: When I worked in politics years and years ago, the generalized term for tech folks, etc., was "new media." I always found it funny because from my perspective it wasn't new, it was media.
