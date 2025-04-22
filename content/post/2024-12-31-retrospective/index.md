@@ -3,7 +3,7 @@ date: 2024-12-31 23:59:59-05:00
 title: 2024 in the rear view
 description: A personal retrospective on 2024, covering major life changes, health improvements, shifts in travel patterns, music discoveries, and technological adaptations, culminating in a forward-looking view of 2025.
 draft: false
-generateSocialImage: true
+generateSocialImage: false
 tags:
     - life
     - retrospective
