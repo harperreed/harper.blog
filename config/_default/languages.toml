@@ -1,5 +1,27 @@
 [en]
 title = "Harper Reed's Blog"
-languageName = "en-US 🇺🇸"
+languageName = "English 🇺🇸"
 languageCode = "en-US"
 contentDir = "content"
+weight = 1
+
+[es]
+title = "Blog de Harper Reed"
+languageName = "Español 🇪🇸"
+languageCode = "es"
+contentDir = "content.es"
+weight = 3
+
+[ja]
+title = "ハーパーリードのブログ"
+languageName = "日本語 🇯🇵"
+languageCode = "ja"
+contentDir = "content.ja"
+weight = 2
+
+[ko]
+title = "하퍼 리드의 블로그"
+languageName = "한국어 🇰🇷"
+languageCode = "ko"
+contentDir = "content.ko"
+weight = 4

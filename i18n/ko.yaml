@@ -1,0 +1,87 @@
+# i18n/ko.yaml
+- id: prevpage
+  translation: "이전 페이지"
+
+- id: nextpage
+  translation: "다음 페이지"
+
+- id: page
+  translation: "페이지"
+
+- id: of
+  translation: "/"
+
+- id: nojscomments
+  translation: "댓글을 보려면 JavaScript가 필요합니다. 브라우저 설정에서 JavaScript를 활성화하거나 JavaScript가 지원되는 브라우저를 사용하세요."
+
+- id: 404title
+  translation: "404"
+
+- id: 404text
+  translation: "찾으시는 페이지를 찾을 수 없습니다. URL을 확인하거나 홈페이지로 돌아가세요."
+
+- id: minutes
+  translation: "분"
+
+- id: words
+  translation: "단어"
+
+- id: readmore
+  translation: "더 읽기"
+
+- id: previousNows
+  translation: "이전 Now"
+
+- id: generated
+  translation: "생성됨"
+
+- id: sendMeAn
+  translation: "이메일 보내기"
+
+- id: email
+  translation: "이메일"
+
+- id: "on"
+  translation: "에"
+  
+- id: copyright
+  translation: "저작권"
+
+- id: morePosts
+  translation: "더 많은 글"
+
+- id: moreNotes
+  translation: "더 많은 노트"
+
+- id: recentPosts
+  translation: "최근 글"
+
+- id: recentNotes
+  translation: "최근 노트"
+
+- id: posts
+  translation: "글"
+
+- id: notes
+  translation: "노트"
+
+- id: morePostsAria
+  translation: "더 많은 글"
+
+- id: moreNotesAria
+  translation: "더 많은 노트"
+
+- id: skipLinkAria
+  translation: "본문으로 건너뛰기"
+
+- id: titleAria
+  translation: "홈"
+
+- id: backToNowAria
+  translation: "현재 Now로 돌아가기"
+
+- id: backToNotesAria
+  translation: "현재 노트로 돌아가기"
+
+- id: backToLinksAria
+  translation: "현재 링크로 돌아가기"
