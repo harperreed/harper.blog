@@ -12,6 +12,20 @@
 - Run link fetcher: `python tools/grab_starred_links.py`
 - Run micro posts: `python tools/grab_micro_posts.py`
 
+## Multilingual Support
+- Supported languages: English (en), Spanish (es), Japanese (ja), and Korean (ko)
+- Content directories:
+  - English: `content/`
+  - Spanish: `content.es/`
+  - Japanese: `content.ja/`
+  - Korean: `content.ko/`
+- Each language has its own translation file in the `i18n/` directory
+- To add a new language:
+  1. Add language configuration to `config/_default/languages.toml`
+  2. Create content directory: `content.<lang_code>/`
+  3. Add translation file: `i18n/<lang_code>.yaml`
+  4. Create translated content starting with `_index.md`
+
 ## Code Style Guidelines
 - Use standard Go templates for Hugo layouts
 - Python: Follow PEP 8 style guide
