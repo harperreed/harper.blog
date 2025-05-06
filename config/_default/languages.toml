@@ -5,19 +5,19 @@ languageCode = "en-US"
 contentDir = "content"
 weight = 1
 
-[es]
-title = "Blog de Harper Reed"
-languageName = "Español 🇪🇸"
-languageCode = "es"
-contentDir = "content.es"
-weight = 3
+# [es]
+# title = "Blog de Harper Reed"
+# languageName = "Español 🇪🇸"
+# languageCode = "es"
+# contentDir = "content.es"
+# weight = 3
 
-[ja]
-title = "ハーパーリードのブログ"
-languageName = "日本語 🇯🇵"
-languageCode = "ja"
-contentDir = "content.ja"
-weight = 2
+# [ja]
+# title = "ハーパーリードのブログ"
+# languageName = "日本語 🇯🇵"
+# languageCode = "ja"
+# contentDir = "content.ja"
+# weight = 2
 
 [ko]
 title = "하퍼 리드의 블로그"
@@ -25,3 +25,10 @@ languageName = "한국어 🇰🇷"
 languageCode = "ko"
 contentDir = "content.ko"
 weight = 4
+
+# [zh]
+# title = "哈珀·雷德的博客"
+# languageName = "中文 🇨🇳"
+# languageCode = "zh-CN"
+# contentDir = "content.zh"
+# weight = 5
