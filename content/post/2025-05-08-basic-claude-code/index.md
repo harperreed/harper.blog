@@ -28,6 +28,8 @@ Since I wrote [that original blog post](/2025/02/16/my-llm-codegen-workflow-atm/
 
 I have received hundreds (wat) of emails from people talking about their workflows and how they have used my workflow to get ahead. I have spoken at a few conferences, and taught a few classes about codegen. I have learned that computers really want to spellcheck codegen to codeine, who knew!
 
+{{< image src="codegen.png"  >}}
+
 I was talking to a friend the other day about how we are **all totally fucked** and **AI will take our jobs** (more on that in a later post), and she was like "you should write a post about claude code."
 
 Here we are.
@@ -102,7 +104,9 @@ This is nice cuz it doesn't clog your GitHub actions with a bunch of linting, fo
 
 These are both really simple additions that can squeeze a lot out.
 
-I stole a [CLAUDE.md](https://github.com/harperreed/dotfiles/blob/master/.claude/CLAUDE.md) from my friend Jesse Vincent who did an awful lot of work on making it very robust. It is quite nice. Some things that are built into it:
+{{< image src="_SDI8149.jpg" caption="Jesse at the studio, Sept 15, 2023, Ricoh GRiii" >}}
+
+I stole a [CLAUDE.md](https://github.com/harperreed/dotfiles/blob/master/.claude/CLAUDE.md) from my friend [Jesse Vincent](https://fsck.com/) who did an [awful lot of work on making it very robust](https://github.com/obra/dotfiles/blob/main/.claude/CLAUDE.md). It is quite nice. Some things that are built into it:
 
 - a light version of the big daddy rule.
 - instructions on how to do TDD
@@ -130,7 +134,7 @@ Most of the time the plans are about 8-12 steps. I can usually get through a Gre
 
 I was talking through with my friend Bob and he did not believe it. I asked him "name a thing to build, a language to build it in - and let's see!"
 
-{{< image src="R0000693.jpeg" caption="Bob Swartz" >}}
+{{< image src="R0000693.jpeg" caption="Bob Swartz, Sept 24th, 2023, Ricoh GRiiix" >}}
 
 He was like "ok. A basic interpreter in C."
 
