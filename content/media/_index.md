@@ -1,6 +1,7 @@
 ---
 title: "Media"
 description: "A collection of books, music, and interesting links I've enjoyed"
+translationKey: "media"
 menu:
     main:
         weight: 5

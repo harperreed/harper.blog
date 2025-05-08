@@ -61,6 +61,6 @@ If you want to do something like this yourself, I would recommend checking out [
 
 ## New Media
 
-{{< image src="2012-11-08-3.jpeg" width="1024" alt="New Media" caption="My very serious office, unknown camera, 11/8/2012" >}}
+{{< image src="harper-politics.jpeg" width="1024" alt="New Media" caption="My very serious office, unknown camera, 11/8/2012" >}}
 
 Unrelated to anything: When I worked in politics years and years ago, the generalized term for tech folks, etc., was "new media." I always found it funny because from my perspective it wasn't new, it was media.

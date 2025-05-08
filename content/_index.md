@@ -3,6 +3,7 @@ date: 2024-05-02 20:54:26-05:00
 draft: false
 nodate: true
 nofeed: true
+translationKey: "index"
 ---
 
 ### My name is Harper Reed, and this is my blog. If you want to know more about me, visit my website: [harper.lol](https://harper.lol).
