@@ -109,7 +109,7 @@ I stole a [CLAUDE.md](https://github.com/harperreed/dotfiles/blob/master/.claude
 - instructions on how to do TDD
 - stylistic instructions on how I like to code.
 
-> [@clint](https://instagram.com/clintecker) made his call him big daddy and it is currently embedding info about big daddy in our all documentation. While typing this out, I decided to make my CLAUDE.md file call me "Harp Dog." This is a feature, not a bug.
+> [@clint](https://instagram.com/clintecker) configured his CLAUDE.md to call him MR BEEF and it is currently embedding info about MR BEEF in our all documentation: "If you're stuck, stop and ask for help—MR BEEF may know best.". While typing this out, I decided to make my CLAUDE.md file call me "Harp Dog." This is a feature, not a bug.
 
 The commands are also really nice. You can see some of mine in my dotfiles [here](https://github.com/harperreed/dotfiles/tree/master/.claude/commands).
 
