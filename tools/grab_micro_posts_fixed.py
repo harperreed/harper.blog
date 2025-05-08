@@ -25,8 +25,9 @@ logging.basicConfig(
     ]
 )
 
-# URL registry file will be stored in the data directory
+# Registry files will be stored in the data directory
 URL_REGISTRY_FILENAME = "processed_urls.json"
+CONTENT_REGISTRY_FILENAME = "processed_content_hashes.json"
 
 
 def normalize_url(url):
@@ -207,30 +208,136 @@ def save_url_registry(registry, data_dir):
         logging.error(f"Error saving URL registry: {e}")
 
 
-def is_duplicate_content(content, hugo_content_dir):
+def load_content_registry(data_dir):
     """
-    Check if identical content already exists.
+    Load the content hash registry from data directory.
+    
+    Args:
+        data_dir (str): Data directory path
+        
+    Returns:
+        dict: Dictionary with content hashes and their metadata
+    """
+    registry_path = os.path.join(data_dir, CONTENT_REGISTRY_FILENAME)
+    if os.path.exists(registry_path):
+        try:
+            with open(registry_path, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except (json.JSONDecodeError, IOError) as e:
+            logging.error(f"Error loading content registry: {e}")
+            return {}
+    return {}
+
+
+def save_content_registry(registry, data_dir):
+    """
+    Save content hash registry to data directory.
+    
+    Args:
+        registry (dict): Content hash registry
+        data_dir (str): Data directory path
+    """
+    registry_path = os.path.join(data_dir, CONTENT_REGISTRY_FILENAME)
+    try:
+        with open(registry_path, 'w', encoding='utf-8') as f:
+            json.dump(registry, f, indent=2)
+    except IOError as e:
+        logging.error(f"Error saving content registry: {e}")
+
+
+def normalize_content(content):
+    """
+    Normalize content for comparison by removing whitespace variations, etc.
+    
+    Args:
+        content (str): Content to normalize
+        
+    Returns:
+        str: Normalized content
+    """
+    # Strip whitespace and convert to lowercase for more robust comparison
+    normalized = re.sub(r'\s+', ' ', content.strip()).lower()
+    # Remove URLs as they might vary slightly but point to the same resource
+    normalized = re.sub(r'https?://\S+', '', normalized)
+    # Remove special characters that might vary between systems
+    normalized = re.sub(r'[^\w\s]', '', normalized)
+    return normalized
+
+
+def generate_content_hash(content):
+    """
+    Generate a more robust hash from content for comparison.
+    
+    Args:
+        content (str): Content to hash
+        
+    Returns:
+        str: Hash representing the content
+    """
+    # Generate a hash from the normalized content
+    normalized = normalize_content(content)
+    return generate_hash(normalized)
+
+
+def is_duplicate_content(content, hugo_content_dir, content_registry=None):
+    """
+    Check if identical or very similar content already exists.
     
     Args:
         content (str): Content to check
         hugo_content_dir (str): Directory to check against
+        content_registry (dict, optional): Registry of content hashes
         
     Returns:
-        bool: True if duplicate content found, False otherwise
+        tuple: (is_duplicate, existing_path) - Boolean indicating if duplicate, and path if found
     """
-    content_hash = generate_hash(content[:500])  # Use first 500 chars for efficiency
+    # Generate a hash of the full normalized content
+    content_hash = generate_content_hash(content)
+    
+    # First check the registry if provided
+    if content_registry and content_hash in content_registry:
+        path = content_registry[content_hash].get('path')
+        logging.info(f"Found duplicate in registry: {path}")
+        return True, path
+    
+    # Check disk for dupes - now using normalized content hashing
+    normalized_content = normalize_content(content)
+    # Also check for fuzzy matches by computing similarity
     for root, dirs, files in os.walk(hugo_content_dir):
         for file in files:
             if file == "index.md":
                 try:
-                    with open(os.path.join(root, file), 'r', encoding='utf-8') as f:
+                    file_path = os.path.join(root, file)
+                    with open(file_path, 'r', encoding='utf-8') as f:
                         post = frontmatter.load(f)
-                        if generate_hash(post.content[:500]) == content_hash:
-                            return True
+                        
+                        # Try exact hash match first
+                        post_hash = generate_content_hash(post.content)
+                        if post_hash == content_hash:
+                            return True, file_path
+                        
+                        # Try content similarity check using normalized content
+                        post_normalized = normalize_content(post.content)
+                        # Calculate rough similarity
+                        if len(normalized_content) > 0 and len(post_normalized) > 0:
+                            # Simple similarity check - if one is completely contained in the other
+                            if normalized_content in post_normalized or post_normalized in normalized_content:
+                                return True, file_path
+                            
+                            # Check beginning/end similarity (for truncated content)
+                            min_length = min(len(normalized_content), len(post_normalized))
+                            if min_length > 30:  # Only if we have enough content to compare
+                                # Check first 50 chars (or available content)
+                                start_size = min(50, min_length)
+                                if normalized_content[:start_size] == post_normalized[:start_size]:
+                                    # Beginning matches, likely same content
+                                    return True, file_path
+                                
                 except Exception as e:
                     logging.warning(f"Error checking duplicate content in {os.path.join(root, file)}: {e}")
                     continue
-    return False
+                    
+    return False, None
 
 
 ARCHIVAL_FEED_URL = "https://raw.githubusercontent.com/harperreed/harper.micro.blog/refs/heads/main/feed.json"
@@ -283,6 +390,54 @@ def find_post_info(url, content):
     return None, None
 
 
+def scan_existing_notes(hugo_content_dir):
+    """
+    Scan the content directory for existing notes and build indexes.
+    
+    Args:
+        hugo_content_dir (str): Content directory
+        
+    Returns:
+        tuple: (highest_note_id, note_id_map, existing_note_ids)
+            - highest_note_id: Highest note ID found
+            - note_id_map: Dictionary mapping note IDs to file paths
+            - existing_note_ids: Set of all note IDs found
+    """
+    highest_note_id = 0
+    note_id_map = {}
+    existing_note_ids = set()
+    
+    for root, dirs, files in os.walk(hugo_content_dir):
+        for file in files:
+            if file == "index.md":
+                try:
+                    file_path = os.path.join(root, file)
+                    with open(file_path, 'r', encoding='utf-8') as f:
+                        post = frontmatter.load(f)
+                        title = post.get('title', '')
+                        if title.startswith('Note #'):
+                            try:
+                                current_id = int(title.split('#')[1])
+                                highest_note_id = max(highest_note_id, current_id)
+                                note_id_map[current_id] = file_path
+                                existing_note_ids.add(current_id)
+                                
+                                # Also check for translationKey which might have the note ID
+                                translation_key = post.get('translationKey', '')
+                                if translation_key and translation_key.startswith('note-'):
+                                    try:
+                                        trans_id = int(translation_key.split('-')[1])
+                                        existing_note_ids.add(trans_id)
+                                    except (IndexError, ValueError):
+                                        pass
+                            except (IndexError, ValueError):
+                                continue
+                except Exception as e:
+                    logging.error(f"Error reading file {os.path.join(root, file)}: {str(e)}")
+    
+    return highest_note_id, note_id_map, existing_note_ids
+
+
 def get_highest_note_id(hugo_content_dir):
     """
     Find the highest note ID from existing posts.
@@ -293,24 +448,8 @@ def get_highest_note_id(hugo_content_dir):
     Returns:
         int: Highest note ID
     """
-    highest_note_id = 0
-    for root, dirs, files in os.walk(hugo_content_dir):
-        for file in files:
-            if file == "index.md":
-                try:
-                    with open(os.path.join(root, file), 'r', encoding='utf-8') as f:
-                        post = frontmatter.load(f)
-                        title = post.get('title', '')
-                        if title.startswith('Note #'):
-                            try:
-                                current_id = int(title.split('#')[1])
-                                highest_note_id = max(highest_note_id, current_id)
-                            except (IndexError, ValueError):
-                                continue
-                except Exception as e:
-                    logging.error(f"Error reading file {os.path.join(root, file)}: {str(e)}")
-    
-    return highest_note_id
+    highest_id, _, _ = scan_existing_notes(hugo_content_dir)
+    return highest_id
 
 
 def create_description(content, max_length=160):
@@ -334,7 +473,7 @@ def create_description(content, max_length=160):
     return clean_content
 
 
-def create_hugo_content(entry, output_dir, url_registry, data_dir):
+def create_hugo_content(entry, output_dir, url_registry, content_registry, data_dir):
     """
     Create a Hugo content post from a feed entry.
     
@@ -342,6 +481,7 @@ def create_hugo_content(entry, output_dir, url_registry, data_dir):
         entry (dict): Feed entry
         output_dir (str): Output directory
         url_registry (dict): Registry of processed URLs
+        content_registry (dict): Registry of processed content hashes
         data_dir (str): Data directory path
         
     Returns:
@@ -351,6 +491,7 @@ def create_hugo_content(entry, output_dir, url_registry, data_dir):
     content = entry.get('content_text') or entry.get('content_html', '')
     date_str = entry.get('date_published', datetime.now().isoformat())
     post_url = entry.get('url', '')
+    post_id = None
     
     if not post_url:
         logging.warning("Entry has no URL, skipping")
@@ -369,33 +510,56 @@ def create_hugo_content(entry, output_dir, url_registry, data_dir):
     except ValueError:
         date = datetime.now()
         logging.warning(f"Failed to parse date '{date_str}', using current date")
-
-    # Generate a more robust hash that includes URL, date, and content preview
-    hash_input = f"{normalized_url}|{date.isoformat()}|{content[:100]}"
-    content_hash = generate_hash(hash_input)
+    
+    # Generate a robust content hash for duplicate detection
+    pure_content_hash = generate_content_hash(content)
+    
+    # Generate a unique file hash that includes URL, date, and content
+    hash_input = f"{normalized_url}|{date.isoformat()}|{pure_content_hash}"
+    file_hash = generate_hash(hash_input)
     
     content_text = strip_html(content)
     slug = slugify(content_text[:50])  # Limit slug length
     
-    base_filename = f"{date.strftime('%Y-%m-%d')}_{content_hash}_{slug[:30]}"
+    base_filename = f"{date.strftime('%Y-%m-%d')}_{file_hash}_{slug[:30]}"
     post_dir = os.path.join(output_dir, base_filename)
     
-    # Check if directory already exists
+    # Check if directory already exists (exact same file)
     if os.path.exists(post_dir):
         logging.info(f"Post directory already exists: {post_dir}")
-        # Add to registry if not already there
+        # Add to registries if not already there
         if normalized_url not in url_registry:
             url_registry[normalized_url] = datetime.now().isoformat()
             save_url_registry(url_registry, data_dir)
+        if pure_content_hash not in content_registry:
+            content_registry[pure_content_hash] = {
+                'path': os.path.join(post_dir, "index.md"),
+                'url': post_url,
+                'date': date.isoformat()
+            }
+            save_content_registry(content_registry, data_dir)
         return False
     
-    # Check for duplicate content
-    if is_duplicate_content(content, output_dir):
-        logging.info(f"Duplicate content detected for {post_url}, skipping")
-        # Add to registry to avoid processing again
+    # Check for duplicate content using improved algorithm
+    is_duplicate, existing_path = is_duplicate_content(content, output_dir, content_registry)
+    if is_duplicate:
+        logging.info(f"Duplicate content detected for {post_url}, matches: {existing_path}")
+        # Add to registries to avoid processing again
         url_registry[normalized_url] = datetime.now().isoformat()
         save_url_registry(url_registry, data_dir)
+        
+        if pure_content_hash not in content_registry:
+            content_registry[pure_content_hash] = {
+                'path': existing_path,
+                'url': post_url,
+                'date': date.isoformat()
+            }
+            save_content_registry(content_registry, data_dir)
         return False
+        
+    # If we got this far, we need to check for existing post ID
+    # Try to find post info from archive
+    post_id, archive_title = find_post_info(post_url, content)
 
     # Create the directory
     try:
@@ -417,8 +581,7 @@ def create_hugo_content(entry, output_dir, url_registry, data_dir):
     else:
         post = frontmatter.Post(content)
     
-    # Find post info from archive
-    post_id, archive_title = find_post_info(post_url, content)
+    # If we didn't find the post ID earlier, assign a new one
     if post_id is None:
         post_id = get_highest_note_id(os.path.dirname(post_dir)) + 1
         post['title'] = f"Note #{post_id}"
@@ -432,6 +595,8 @@ def create_hugo_content(entry, output_dir, url_registry, data_dir):
     post['draft'] = False
     post['original_url'] = post_url
     post['translationKey'] = f"note-{post_id}"  # Use a consistent format for translation keys
+    # Add content hash to help with deduplication
+    post['content_hash'] = pure_content_hash
 
     # Write the post
     try:
@@ -439,9 +604,17 @@ def create_hugo_content(entry, output_dir, url_registry, data_dir):
             f.write(frontmatter.dumps(post))
         logging.info(f"Created new post: {file_path} with Note ID: {post_id}")
         
-        # Add to registry after successful creation
+        # Add to registries after successful creation
         url_registry[normalized_url] = datetime.now().isoformat()
         save_url_registry(url_registry, data_dir)
+        
+        content_registry[pure_content_hash] = {
+            'path': file_path,
+            'url': post_url,
+            'date': date.isoformat(),
+            'note_id': post_id
+        }
+        save_content_registry(content_registry, data_dir)
         
         return True
     except Exception as e:
@@ -458,6 +631,21 @@ def create_hugo_content(entry, output_dir, url_registry, data_dir):
 
 def main():
     """Main function to process microblog entries."""
+    import argparse
+    
+    # Set up command line arguments
+    parser = argparse.ArgumentParser(description='Process microblog entries and create Hugo content')
+    parser.add_argument('--check-archive', action='store_true', 
+                        help='Check the archive for missing posts and import them')
+    parser.add_argument('--verbose', '-v', action='store_true',
+                        help='Enable verbose logging')
+    args = parser.parse_args()
+    
+    # Set logging level based on verbosity
+    if args.verbose:
+        logging.getLogger().setLevel(logging.DEBUG)
+        logging.info("Verbose logging enabled")
+    
     json_feed_url = os.getenv('NOTES_JSON_FEED_URL')
     hugo_content_dir = os.getenv('NOTES_HUGO_CONTENT_DIR')
     hugo_data_dir = os.getenv('NOTES_HUGO_DATA_DIR', os.path.join(os.path.dirname(hugo_content_dir), 'data', 'notes'))
@@ -470,9 +658,15 @@ def main():
     os.makedirs(hugo_content_dir, exist_ok=True)
     os.makedirs(hugo_data_dir, exist_ok=True)
 
-    # Load URL registry
+    # Load registries
     url_registry = load_url_registry(hugo_data_dir)
+    content_registry = load_content_registry(hugo_data_dir)
     logging.info(f"Loaded {len(url_registry)} entries from URL registry")
+    logging.info(f"Loaded {len(content_registry)} entries from content registry")
+    
+    # Scan existing notes to build indexes
+    highest_note_id, note_id_map, existing_note_ids = scan_existing_notes(hugo_content_dir)
+    logging.info(f"Found {len(existing_note_ids)} existing notes with IDs, highest ID: {highest_note_id}")
 
     try:
         # Download feed
@@ -480,16 +674,131 @@ def main():
         if not feed_data or not feed_data.get('items'):
             logging.error("Feed contains no items or invalid format")
             return
+        
+        # If --check-archive flag is used, also fetch the archival feed
+        archival_items = []
+        if args.check_archive:
+            logging.info("Checking archive for missing posts...")
+            archive_feed = get_archival_feed()
+            if archive_feed and archive_feed.get('items'):
+                archival_items = archive_feed.get('items', [])
+                logging.info(f"Found {len(archival_items)} posts in the archive")
+                
+                # Analyze archive for missing post IDs
+                archive_ids = {}
+                for item in archival_items:
+                    item_id_str = item.get('id', '').split('/')[-1]
+                    if item_id_str and item_id_str.isdigit():
+                        archive_ids[int(item_id_str)] = item
+                
+                # Check which IDs from the archive are missing in our content
+                missing_ids = set(archive_ids.keys()) - existing_note_ids
+                if missing_ids:
+                    logging.info(f"Found {len(missing_ids)} missing post IDs: {sorted(missing_ids)}")
+                else:
+                    logging.info("No missing posts by ID detected")
+            else:
+                logging.error("Failed to fetch archive or archive contains no items")
+        
+        # Combine items if necessary
+        all_items = list(feed_data.get('items', []))
+        if args.check_archive and archival_items:
+            # Track IDs we've already seen to avoid duplicates
+            seen_ids = set()
+            for item in all_items:
+                item_id = item.get('id', '').split('/')[-1]
+                if item_id:
+                    seen_ids.add(item_id)
             
-        # Deduplicate feed entries by URL
+            # Add archive items that aren't in the main feed
+            archive_additions = 0
+            for item in archival_items:
+                item_id = item.get('id', '').split('/')[-1]
+                # Add to feed if either:
+                # 1. The ID isn't already in the feed
+                # 2. The ID is missing from our existing content
+                if item_id and (item_id not in seen_ids or 
+                               (item_id.isdigit() and int(item_id) not in existing_note_ids)):
+                    all_items.append(item)
+                    archive_additions += 1
+                    if item_id.isdigit() and int(item_id) not in existing_note_ids:
+                        logging.info(f"Adding missing post with ID: {item_id}")
+            
+            logging.info(f"Added {archive_additions} missing posts from the archive")
+            feed_data['items'] = all_items
+            
+        # First pass: index content by URL and by content hash to identify duplicates within the feed
+        normalized_url_map = {}
+        content_hash_map = {}
+        duplicates_within_feed = set()
+        
+        for entry in feed_data.get('items', []):
+            url = entry.get('url', '')
+            content = entry.get('content_text') or entry.get('content_html', '')
+            
+            if not url:
+                continue
+                
+            # Normalize URL and generate content hash
+            normalized_url = normalize_url(url)
+            content_hash = generate_content_hash(content)
+            
+            # Check for duplicate URLs in the feed
+            if normalized_url in normalized_url_map:
+                duplicates_within_feed.add(normalized_url)
+            normalized_url_map[normalized_url] = entry
+            
+            # Check for duplicate content in the feed
+            if content_hash in content_hash_map and normalized_url != normalize_url(content_hash_map[content_hash].get('url', '')):
+                # Different URL but same content - note it for debugging
+                logging.debug(f"Found content duplicate with different URLs: {url} and {content_hash_map[content_hash].get('url', '')}")
+            content_hash_map[content_hash] = entry
+            
+        # For duplicate URLs, keep the newest one
+        for dupe_url in duplicates_within_feed:
+            logging.debug(f"Found duplicate URL in feed: {dupe_url}")
+            
+        # Create a deduplicated list of entries for processing
         unique_entries = {}
         for entry in feed_data.get('items', []):
-            url = entry.get('url')
-            if url:
-                normalized_url = normalize_url(url)
-                # Keep the latest version of each entry
-                if normalized_url not in unique_entries:
+            url = entry.get('url', '')
+            if not url:
+                continue
+                
+            normalized_url = normalize_url(url)
+            content = entry.get('content_text') or entry.get('content_html', '')
+            content_hash = generate_content_hash(content)
+            date_str = entry.get('date_published', datetime.now().isoformat())
+            
+            try:
+                date = datetime.fromisoformat(date_str)
+            except ValueError:
+                date = datetime.now()
+            
+            # Skip if URL is already in registry
+            if normalized_url in url_registry:
+                continue
+                
+            # Skip if content hash is already in registry (exact duplicate)
+            if content_hash in content_registry:
+                # But add the URL to the URL registry to prevent future processing
+                url_registry[normalized_url] = datetime.now().isoformat()
+                save_url_registry(url_registry, data_dir)
+                continue
+                
+            # If we get here, it's a new entry to process
+            # For duplicate URLs in the feed, keep the latest one
+            if normalized_url in unique_entries:
+                existing_date_str = unique_entries[normalized_url].get('date_published', '')
+                try:
+                    existing_date = datetime.fromisoformat(existing_date_str)
+                    if date > existing_date:
+                        unique_entries[normalized_url] = entry
+                except ValueError:
+                    # If date parsing fails, prefer the current entry
                     unique_entries[normalized_url] = entry
+            else:
+                unique_entries[normalized_url] = entry
                 
         # Sort entries chronologically
         sorted_entries = sorted(
@@ -498,17 +807,18 @@ def main():
             reverse=False  # Oldest first
         )
 
-        logging.info(f"Found {len(feed_data.get('items', []))} entries, {len(sorted_entries)} unique")
+        logging.info(f"Found {len(feed_data.get('items', []))} entries, {len(sorted_entries)} unique after deduplication")
 
         # Process entries
         new_posts_created = 0
         for entry in sorted_entries:
-            if create_hugo_content(entry, hugo_content_dir, url_registry, hugo_data_dir):
+            if create_hugo_content(entry, hugo_content_dir, url_registry, content_registry, hugo_data_dir):
                 new_posts_created += 1
 
         logging.info(f"Processed {len(sorted_entries)} entries.")
         logging.info(f"Created {new_posts_created} new posts.")
         logging.info(f"URL registry now contains {len(url_registry)} entries.")
+        logging.info(f"Content registry now contains {len(content_registry)} entries.")
 
     except Exception as e:
         logging.error(f"Unexpected error: {e}")
