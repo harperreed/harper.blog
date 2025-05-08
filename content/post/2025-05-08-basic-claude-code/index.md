@@ -33,7 +33,7 @@ Here we are.
 
 Claude Code was released eight days after I wrote my original workflow blog post, and as I predicted, it made a lot of my post irrelevant. I have since migrated from Aider to Claude Code and not looked back. I still like Aider, and it has a distinct use, but Claude Code is a bit more useful atm.
 
-Claude Code is awesome, and a hell of a lot more expensive.
+Claude Code is powerful, and a hell of a lot more expensive.
 
 My workflow is very similar to what it was before.
 
@@ -61,13 +61,13 @@ My workflow is very similar to what it was before.
 - I then kick back and tell claude `yes` while it does the work. It will pop up for feedback, and magic happens.
 - Lots more cookie clicker.
 
-This works super well. There are a few super powers you can embed in your process that will really help.
+This works super well. There are a few superpowers you can embed in your process that will really help.
 
 ## Defensive coding!
 
 ### Testing
 
-Testing and test driven development is a must. I highly recommend really engaging in building out a robust TDD practice.
+Testing and test-driven development is a must. I highly recommend really engaging in building out a robust TDD practice.
 
 I was a TDD hater. I was bad at it and I felt like I was wasting time. I was not correct. Lol. I recognize that, and we built in a lot of testing into our companies and projects over the past few decades. Most of the testing was added AFTER the core work was done. This is fine for humans.
 
@@ -127,7 +127,7 @@ You can also put these commands in a project directory, and make a custom CLAUDE
 
 Sometimes I feel like that bird that home got to hit "y". I am just writing "continue" or pressing up and pasting in the same prompt.
 
-Most of the time the plans are about 8-12 steps. I can usually get through a Greenfield development plan in about 30-45 minutes regardless of apparent complexity or language.
+Most of the time the plans are about 8–12 steps. I can usually get through a Greenfield development plan in about 30–45 minutes regardless of apparent complexity or language.
 
 I was talking through with my friend Bob and he did not believe it. I asked him "name a thing to build, a language to build it in - and let's see!"
 
@@ -143,7 +143,7 @@ I followed the above steps and Claude Code did great. We have [a working basic i
 
 Our entire team is using Claude Code currently. We are all approximately following the above process with a lot of person tweaks.
 
-We are doing way way higher test coverage than we ever have done. We have better code, and it seems to be just as effective as the horrible code we wrote in the past. It is fun to glance at people working and see claude code running in ghostty, in vscode terminal, in zed terminal, and messing with python notebooks.
+We are doing way way higher test coverage than we have ever done. We have better code, and it seems to be just as effective as the horrible code we wrote in the past. It is fun to glance at people working and see claude code running in ghostty, in vscode terminal, in zed terminal, and messing with python notebooks.
 
 {{< image src="dril.jpg" >}}
 
