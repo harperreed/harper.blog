@@ -19,6 +19,7 @@ tags:
 - William Gibson
 title: 'All Tomorrow''s Parties (Bridge Trilogy, #3)'
 title_without_series: All Tomorrow's Parties
+translationKey: 'All Tomorrow''s Parties (Bridge Trilogy, #3)'
 yaml: all-tomorrow-s-parties-bridge-trilogy-3
 ---
 

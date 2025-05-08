@@ -19,6 +19,7 @@ tags:
 - Patrick Rothfuss
 title: 'The Narrow Road Between Desires (The Kingkiller Chronicle, #2.6)'
 title_without_series: The Narrow Road Between Desires
+translationKey: 'The Narrow Road Between Desires (The Kingkiller Chronicle, #2.6)'
 yaml: the-narrow-road-between-desires-the-kingkiller-chronicle-2-6
 ---
 

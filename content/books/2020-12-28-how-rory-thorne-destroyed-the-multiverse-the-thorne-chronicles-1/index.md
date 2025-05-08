@@ -19,6 +19,8 @@ tags:
 - K. Eason
 title: 'How Rory Thorne Destroyed the Multiverse (The Thorne Chronicles, #1)'
 title_without_series: How Rory Thorne Destroyed the Multiverse
+translationKey: 'How Rory Thorne Destroyed the Multiverse (The Thorne Chronicles,
+  #1)'
 yaml: how-rory-thorne-destroyed-the-multiverse-the-thorne-chronicles-1
 ---
 

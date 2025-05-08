@@ -18,6 +18,7 @@ tags:
 - Max Gladstone
 title: Empress of Forever
 title_without_series: Empress of Forever
+translationKey: Empress of Forever
 yaml: empress-of-forever
 ---
 

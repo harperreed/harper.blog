@@ -18,6 +18,7 @@ tags:
 - Hiroshi Sakurazaka
 title: All You Need Is Kill
 title_without_series: All You Need Is Kill
+translationKey: All You Need Is Kill
 yaml: all-you-need-is-kill
 ---
 

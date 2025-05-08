@@ -18,6 +18,7 @@ tags:
 - Banana Yoshimoto
 title: Kitchen
 title_without_series: Kitchen
+translationKey: Kitchen
 yaml: kitchen
 ---
 

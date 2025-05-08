@@ -18,6 +18,7 @@ tags:
 - Daniel Keys Moran
 title: 'The A.I. War: The Big Boost'
 title_without_series: 'The A.I. War: The Big Boost'
+translationKey: 'The A.I. War: The Big Boost'
 yaml: the-a-i-war-the-big-boost
 ---
 

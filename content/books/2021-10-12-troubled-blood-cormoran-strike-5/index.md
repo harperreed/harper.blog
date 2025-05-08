@@ -19,6 +19,7 @@ tags:
 - Robert Galbraith
 title: 'Troubled Blood (Cormoran Strike, #5)'
 title_without_series: Troubled Blood
+translationKey: 'Troubled Blood (Cormoran Strike, #5)'
 yaml: troubled-blood-cormoran-strike-5
 ---
 

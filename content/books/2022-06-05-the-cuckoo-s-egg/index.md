@@ -18,6 +18,7 @@ tags:
 - Clifford Stoll
 title: The Cuckoo's Egg
 title_without_series: The Cuckoo's Egg
+translationKey: The Cuckoo's Egg
 yaml: the-cuckoo-s-egg
 ---
 

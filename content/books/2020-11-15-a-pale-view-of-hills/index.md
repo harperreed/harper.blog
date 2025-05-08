@@ -18,6 +18,7 @@ tags:
 - Kazuo Ishiguro
 title: A Pale View of Hills
 title_without_series: A Pale View of Hills
+translationKey: A Pale View of Hills
 yaml: a-pale-view-of-hills
 ---
 

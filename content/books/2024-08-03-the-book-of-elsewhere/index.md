@@ -18,6 +18,7 @@ tags:
 - Keanu Reeves
 title: The Book of Elsewhere
 title_without_series: The Book of Elsewhere
+translationKey: The Book of Elsewhere
 yaml: the-book-of-elsewhere
 ---
 

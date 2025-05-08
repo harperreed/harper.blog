@@ -20,6 +20,8 @@ tags:
 title: 'Nothing Is True and Everything Is Possible: The Surreal Heart of the New Russia'
 title_without_series: 'Nothing Is True and Everything Is Possible: The Surreal Heart
   of the New Russia'
+translationKey: 'Nothing Is True and Everything Is Possible: The Surreal Heart of
+  the New Russia'
 yaml: nothing-is-true-and-everything-is-possible-the-surreal-heart-of-the-new-russia
 ---
 

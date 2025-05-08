@@ -18,6 +18,7 @@ tags:
 - Marko Kloos
 title: 'Lines of Departure (Frontlines, #2)'
 title_without_series: Lines of Departure
+translationKey: 'Lines of Departure (Frontlines, #2)'
 yaml: lines-of-departure-frontlines-2
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Tana French
 title: 'Faithful Place (Dublin Murder Squad, #3)'
 title_without_series: Faithful Place
+translationKey: 'Faithful Place (Dublin Murder Squad, #3)'
 yaml: faithful-place-dublin-murder-squad-3
 ---
 

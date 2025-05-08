@@ -18,6 +18,7 @@ tags:
 - Isaac Asimov
 title: Foundation and Empire
 title_without_series: Foundation and Empire
+translationKey: Foundation and Empire
 yaml: foundation-and-empire
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Arthur C. Clarke
 title: '3001: The Final Odyssey'
 title_without_series: '3001: The Final Odyssey'
+translationKey: '3001: The Final Odyssey'
 yaml: 3001-the-final-odyssey
 ---
 

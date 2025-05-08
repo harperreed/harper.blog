@@ -19,6 +19,7 @@ tags:
 - Benjanun Sriduangkaew
 title: 'And Shall Machines Surrender (Machine Mandate, #1)'
 title_without_series: And Shall Machines Surrender
+translationKey: 'And Shall Machines Surrender (Machine Mandate, #1)'
 yaml: and-shall-machines-surrender-machine-mandate-1
 ---
 

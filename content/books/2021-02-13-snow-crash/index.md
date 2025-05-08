@@ -18,6 +18,7 @@ tags:
 - Neal Stephenson
 title: Snow Crash
 title_without_series: Snow Crash
+translationKey: Snow Crash
 yaml: snow-crash
 ---
 

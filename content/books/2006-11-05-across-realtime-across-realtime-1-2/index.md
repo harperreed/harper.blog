@@ -19,6 +19,7 @@ tags:
 - Vernor Vinge
 title: 'Across Realtime (Across Realtime #1-2)'
 title_without_series: Across Realtime
+translationKey: 'Across Realtime (Across Realtime #1-2)'
 yaml: across-realtime-across-realtime-1-2
 ---
 

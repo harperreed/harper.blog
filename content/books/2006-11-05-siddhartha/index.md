@@ -18,6 +18,7 @@ tags:
 - Hermann Hesse
 title: Siddhartha
 title_without_series: Siddhartha
+translationKey: Siddhartha
 yaml: siddhartha
 ---
 

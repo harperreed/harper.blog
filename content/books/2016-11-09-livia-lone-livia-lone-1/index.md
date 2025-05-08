@@ -18,6 +18,7 @@ tags:
 - Barry Eisler
 title: 'Livia Lone (Livia Lone, #1)'
 title_without_series: Livia Lone
+translationKey: 'Livia Lone (Livia Lone, #1)'
 yaml: livia-lone-livia-lone-1
 ---
 

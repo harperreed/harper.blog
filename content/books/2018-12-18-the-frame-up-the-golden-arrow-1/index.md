@@ -19,6 +19,7 @@ tags:
 - Meghan Scott Molin
 title: 'The Frame-Up (The Golden Arrow #1)'
 title_without_series: The Frame-Up
+translationKey: 'The Frame-Up (The Golden Arrow #1)'
 yaml: the-frame-up-the-golden-arrow-1
 ---
 

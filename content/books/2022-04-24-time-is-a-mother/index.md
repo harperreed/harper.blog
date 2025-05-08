@@ -18,6 +18,7 @@ tags:
 - Ocean Vuong
 title: Time is a Mother
 title_without_series: Time is a Mother
+translationKey: Time is a Mother
 yaml: time-is-a-mother
 ---
 

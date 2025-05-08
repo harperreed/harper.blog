@@ -18,6 +18,7 @@ tags:
 - Haruki Murakami
 title: The Wind-Up Bird Chronicle
 title_without_series: The Wind-Up Bird Chronicle
+translationKey: The Wind-Up Bird Chronicle
 yaml: the-wind-up-bird-chronicle
 ---
 

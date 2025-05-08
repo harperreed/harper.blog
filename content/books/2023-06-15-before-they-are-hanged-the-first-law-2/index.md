@@ -19,6 +19,7 @@ tags:
 - Joe Abercrombie
 title: 'Before They Are Hanged (The First Law, #2)'
 title_without_series: Before They Are Hanged
+translationKey: 'Before They Are Hanged (The First Law, #2)'
 yaml: before-they-are-hanged-the-first-law-2
 ---
 

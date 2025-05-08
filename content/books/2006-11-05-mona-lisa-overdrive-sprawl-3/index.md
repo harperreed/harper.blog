@@ -18,6 +18,7 @@ tags:
 - William Gibson
 title: 'Mona Lisa Overdrive (Sprawl, #3)'
 title_without_series: Mona Lisa Overdrive
+translationKey: 'Mona Lisa Overdrive (Sprawl, #3)'
 yaml: mona-lisa-overdrive-sprawl-3
 ---
 

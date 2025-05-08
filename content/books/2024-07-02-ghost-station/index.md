@@ -18,6 +18,7 @@ tags:
 - S.A. Barnes
 title: Ghost Station
 title_without_series: Ghost Station
+translationKey: Ghost Station
 yaml: ghost-station
 ---
 

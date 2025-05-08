@@ -18,6 +18,7 @@ tags:
 - Neil Gaiman
 title: Anansi Boys
 title_without_series: Anansi Boys
+translationKey: Anansi Boys
 yaml: anansi-boys
 ---
 

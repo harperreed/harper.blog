@@ -18,6 +18,7 @@ tags:
 - Charles Stross
 title: Accelerando
 title_without_series: Accelerando
+translationKey: Accelerando
 yaml: accelerando
 ---
 

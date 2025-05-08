@@ -19,6 +19,7 @@ tags:
 - Peter F. Hamilton
 title: 'Pandora''s Star (Commonwealth Saga #1)'
 title_without_series: Pandora's Star
+translationKey: 'Pandora''s Star (Commonwealth Saga #1)'
 yaml: pandora-s-star-commonwealth-saga-1
 ---
 

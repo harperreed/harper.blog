@@ -19,6 +19,7 @@ tags:
 - James S.A. Corey
 title: 'Tiamat''s Wrath (The Expanse, #8)'
 title_without_series: Tiamat's Wrath
+translationKey: 'Tiamat''s Wrath (The Expanse, #8)'
 yaml: tiamat-s-wrath-the-expanse-8
 ---
 

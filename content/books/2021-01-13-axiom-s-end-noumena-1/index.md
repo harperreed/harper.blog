@@ -18,6 +18,7 @@ tags:
 - Lindsay  Ellis
 title: 'Axiom''s End (Noumena, #1)'
 title_without_series: Axiom's End
+translationKey: 'Axiom''s End (Noumena, #1)'
 yaml: axiom-s-end-noumena-1
 ---
 

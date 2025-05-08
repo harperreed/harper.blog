@@ -18,6 +18,7 @@ tags:
 - Emily Devenport
 title: Medusa in the Graveyard
 title_without_series: Medusa in the Graveyard
+translationKey: Medusa in the Graveyard
 yaml: medusa-in-the-graveyard
 ---
 

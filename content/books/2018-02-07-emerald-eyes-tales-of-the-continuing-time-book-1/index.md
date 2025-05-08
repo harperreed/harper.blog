@@ -19,6 +19,7 @@ tags:
 - Daniel Keys Moran
 title: Emerald Eyes (Tales of the Continuing Time Book 1)
 title_without_series: Emerald Eyes
+translationKey: Emerald Eyes (Tales of the Continuing Time Book 1)
 yaml: emerald-eyes-tales-of-the-continuing-time-book-1
 ---
 

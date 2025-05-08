@@ -19,6 +19,7 @@ tags:
 - Alan Greenspan
 title: 'The Age of Turbulence: Adventures in a New World'
 title_without_series: 'The Age of Turbulence: Adventures in a New World'
+translationKey: 'The Age of Turbulence: Adventures in a New World'
 yaml: the-age-of-turbulence-adventures-in-a-new-world
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Philippe Bourgois
 title: 'In Search of Respect: Selling Crack in El Barrio'
 title_without_series: 'In Search of Respect: Selling Crack in El Barrio'
+translationKey: 'In Search of Respect: Selling Crack in El Barrio'
 yaml: in-search-of-respect-selling-crack-in-el-barrio
 ---
 

@@ -20,6 +20,7 @@ tags:
 title: 'The Power Worshippers: Inside the Dangerous Rise of Religious Nationalism'
 title_without_series: 'The Power Worshippers: Inside the Dangerous Rise of Religious
   Nationalism'
+translationKey: 'The Power Worshippers: Inside the Dangerous Rise of Religious Nationalism'
 yaml: the-power-worshippers-inside-the-dangerous-rise-of-religious-nationalism
 ---
 

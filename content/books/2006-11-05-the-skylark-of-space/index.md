@@ -18,6 +18,7 @@ tags:
 - E.E.
 title: The Skylark of Space
 title_without_series: The Skylark of Space
+translationKey: The Skylark of Space
 yaml: the-skylark-of-space
 ---
 

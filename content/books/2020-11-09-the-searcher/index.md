@@ -18,6 +18,7 @@ tags:
 - Tana French
 title: The Searcher
 title_without_series: The Searcher
+translationKey: The Searcher
 yaml: the-searcher
 ---
 

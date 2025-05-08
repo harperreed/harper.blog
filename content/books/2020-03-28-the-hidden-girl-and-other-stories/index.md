@@ -18,6 +18,7 @@ tags:
 - Ken Liu
 title: The Hidden Girl and Other Stories
 title_without_series: The Hidden Girl and Other Stories
+translationKey: The Hidden Girl and Other Stories
 yaml: the-hidden-girl-and-other-stories
 ---
 

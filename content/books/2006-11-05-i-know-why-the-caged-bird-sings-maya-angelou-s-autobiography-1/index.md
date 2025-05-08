@@ -19,6 +19,7 @@ tags:
 - Maya Angelou
 title: 'I Know Why the Caged Bird Sings (Maya Angelou''s Autobiography, #1)'
 title_without_series: I Know Why the Caged Bird Sings
+translationKey: 'I Know Why the Caged Bird Sings (Maya Angelou''s Autobiography, #1)'
 yaml: i-know-why-the-caged-bird-sings-maya-angelou-s-autobiography-1
 ---
 

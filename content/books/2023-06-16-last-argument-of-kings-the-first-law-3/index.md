@@ -19,6 +19,7 @@ tags:
 - Joe Abercrombie
 title: 'Last Argument of Kings (The First Law, #3)'
 title_without_series: Last Argument of Kings
+translationKey: 'Last Argument of Kings (The First Law, #3)'
 yaml: last-argument-of-kings-the-first-law-3
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Sayaka Murata
 title: Life Ceremony
 title_without_series: Life Ceremony
+translationKey: Life Ceremony
 yaml: life-ceremony
 ---
 

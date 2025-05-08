@@ -18,6 +18,7 @@ tags:
 - Vernor Vinge
 title: The Collected Stories of Vernor Vinge
 title_without_series: The Collected Stories of Vernor Vinge
+translationKey: The Collected Stories of Vernor Vinge
 yaml: the-collected-stories-of-vernor-vinge
 ---
 

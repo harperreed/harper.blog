@@ -20,6 +20,8 @@ tags:
 title: 'Bringing Up Bébé: One American Mother Discovers the Wisdom of French Parenting'
 title_without_series: 'Bringing Up Bébé: One American Mother Discovers the Wisdom
   of French Parenting'
+translationKey: 'Bringing Up Bébé: One American Mother Discovers the Wisdom of French
+  Parenting'
 yaml: bringing-up-bebe-one-american-mother-discovers-the-wisdom-of-french-parenting
 ---
 

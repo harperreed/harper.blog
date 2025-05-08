@@ -19,6 +19,7 @@ tags:
 - Seth Dickinson
 title: 'The Tyrant Baru Cormorant (The Masquerade, #3)'
 title_without_series: The Tyrant Baru Cormorant
+translationKey: 'The Tyrant Baru Cormorant (The Masquerade, #3)'
 yaml: the-tyrant-baru-cormorant-the-masquerade-3
 ---
 

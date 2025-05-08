@@ -18,6 +18,7 @@ tags:
 - S.A. Barnes
 title: Dead Silence
 title_without_series: Dead Silence
+translationKey: Dead Silence
 yaml: dead-silence
 ---
 

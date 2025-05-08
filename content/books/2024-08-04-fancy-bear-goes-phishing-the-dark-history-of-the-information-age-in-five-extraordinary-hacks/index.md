@@ -21,6 +21,8 @@ title: 'Fancy Bear Goes Phishing: The Dark History of the Information Age, in Fi
   Extraordinary Hacks'
 title_without_series: 'Fancy Bear Goes Phishing: The Dark History of the Information
   Age, in Five Extraordinary Hacks'
+translationKey: 'Fancy Bear Goes Phishing: The Dark History of the Information Age,
+  in Five Extraordinary Hacks'
 yaml: fancy-bear-goes-phishing-the-dark-history-of-the-information-age-in-five-extraordinary-hacks
 ---
 

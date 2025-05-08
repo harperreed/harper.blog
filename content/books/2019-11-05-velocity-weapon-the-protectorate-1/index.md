@@ -19,6 +19,7 @@ tags:
 - Megan E. O'Keefe
 title: 'Velocity Weapon (The Protectorate, #1)'
 title_without_series: Velocity Weapon
+translationKey: 'Velocity Weapon (The Protectorate, #1)'
 yaml: velocity-weapon-the-protectorate-1
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Peter F. Hamilton
 title: 'The Evolutionary Void (Void, #3)'
 title_without_series: The Evolutionary Void
+translationKey: 'The Evolutionary Void (Void, #3)'
 yaml: the-evolutionary-void-void-3
 ---
 

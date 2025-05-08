@@ -18,6 +18,7 @@ tags:
 - Omar El Akkad
 title: American War
 title_without_series: American War
+translationKey: American War
 yaml: american-war
 ---
 

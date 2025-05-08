@@ -18,6 +18,7 @@ tags:
 - P. Djèlí Clark
 title: The Black God's Drums
 title_without_series: The Black God's Drums
+translationKey: The Black God's Drums
 yaml: the-black-god-s-drums
 ---
 

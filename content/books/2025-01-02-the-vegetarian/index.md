@@ -20,6 +20,7 @@ tags:
 - Han Kang
 title: The Vegetarian
 title_without_series: The Vegetarian
+translationKey: The Vegetarian
 yaml: the-vegetarian
 ---
 

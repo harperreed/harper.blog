@@ -18,6 +18,7 @@ tags:
 - Jeff VanderMeer
 title: 'Acceptance (Southern Reach, #3)'
 title_without_series: Acceptance
+translationKey: 'Acceptance (Southern Reach, #3)'
 yaml: acceptance-southern-reach-3
 ---
 

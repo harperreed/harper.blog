@@ -18,6 +18,7 @@ tags:
 - Neal Stephenson
 title: Termination Shock
 title_without_series: Termination Shock
+translationKey: Termination Shock
 yaml: termination-shock
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Philip K. Dick
 title: The Three Stigmata of Palmer Eldritch
 title_without_series: The Three Stigmata of Palmer Eldritch
+translationKey: The Three Stigmata of Palmer Eldritch
 yaml: the-three-stigmata-of-palmer-eldritch
 ---
 

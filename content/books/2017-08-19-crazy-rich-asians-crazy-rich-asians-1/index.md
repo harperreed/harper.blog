@@ -19,6 +19,7 @@ tags:
 - Kevin Kwan
 title: 'Crazy Rich Asians (Crazy Rich Asians, #1)'
 title_without_series: Crazy Rich Asians
+translationKey: 'Crazy Rich Asians (Crazy Rich Asians, #1)'
 yaml: crazy-rich-asians-crazy-rich-asians-1
 ---
 

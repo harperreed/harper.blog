@@ -19,6 +19,7 @@ tags:
 - Dan Simmons
 title: 'The Fall of Hyperion (Hyperion Cantos, #2)'
 title_without_series: The Fall of Hyperion
+translationKey: 'The Fall of Hyperion (Hyperion Cantos, #2)'
 yaml: the-fall-of-hyperion-hyperion-cantos-2
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Rachel Caine
 title: 'Ash and Quill (The Great Library #3)'
 title_without_series: Ash and Quill
+translationKey: 'Ash and Quill (The Great Library #3)'
 yaml: ash-and-quill-the-great-library-3
 ---
 

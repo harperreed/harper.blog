@@ -18,6 +18,7 @@ tags:
 - Philip K. Dick
 title: Time Out of Joint
 title_without_series: Time Out of Joint
+translationKey: Time Out of Joint
 yaml: time-out-of-joint
 ---
 

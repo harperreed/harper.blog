@@ -18,6 +18,7 @@ tags:
 - Jeff VanderMeer
 title: 'Absolution (Southern Reach, #4)'
 title_without_series: Absolution
+translationKey: 'Absolution (Southern Reach, #4)'
 yaml: absolution-southern-reach-4
 ---
 

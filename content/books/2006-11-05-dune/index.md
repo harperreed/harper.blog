@@ -18,6 +18,7 @@ tags:
 - Frank Herbert
 title: Dune
 title_without_series: Dune
+translationKey: Dune
 yaml: dune
 ---
 

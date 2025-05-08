@@ -19,6 +19,7 @@ tags:
 - Rachel Caine
 title: 'Paper and Fire (The Great Library, #2)'
 title_without_series: Paper and Fire
+translationKey: 'Paper and Fire (The Great Library, #2)'
 yaml: paper-and-fire-the-great-library-2
 ---
 

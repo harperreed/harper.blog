@@ -18,6 +18,7 @@ tags:
 - Terry Miles
 title: 'Rabbits (Rabbits, #1)'
 title_without_series: Rabbits
+translationKey: 'Rabbits (Rabbits, #1)'
 yaml: rabbits-rabbits-1
 ---
 

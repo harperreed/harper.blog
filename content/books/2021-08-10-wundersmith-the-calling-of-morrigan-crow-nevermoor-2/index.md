@@ -19,6 +19,7 @@ tags:
 - Jessica Townsend
 title: 'Wundersmith: The Calling of Morrigan Crow (Nevermoor, #2)'
 title_without_series: 'Wundersmith: The Calling of Morrigan Crow'
+translationKey: 'Wundersmith: The Calling of Morrigan Crow (Nevermoor, #2)'
 yaml: wundersmith-the-calling-of-morrigan-crow-nevermoor-2
 ---
 

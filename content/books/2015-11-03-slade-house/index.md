@@ -18,6 +18,7 @@ tags:
 - David Mitchell
 title: Slade House
 title_without_series: Slade House
+translationKey: Slade House
 yaml: slade-house
 ---
 

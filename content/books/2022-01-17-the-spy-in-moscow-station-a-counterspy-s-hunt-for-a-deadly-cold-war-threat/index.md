@@ -20,6 +20,8 @@ tags:
 title: 'The Spy in Moscow Station: A Counterspy''s Hunt for a Deadly Cold War Threat'
 title_without_series: 'The Spy in Moscow Station: A Counterspy''s Hunt for a Deadly
   Cold War Threat'
+translationKey: 'The Spy in Moscow Station: A Counterspy''s Hunt for a Deadly Cold
+  War Threat'
 yaml: the-spy-in-moscow-station-a-counterspy-s-hunt-for-a-deadly-cold-war-threat
 ---
 

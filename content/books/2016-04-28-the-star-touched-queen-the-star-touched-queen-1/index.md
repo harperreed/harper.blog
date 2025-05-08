@@ -19,6 +19,7 @@ tags:
 - Roshani Chokshi
 title: 'The Star-Touched Queen (The Star-Touched Queen, #1)'
 title_without_series: The Star-Touched Queen
+translationKey: 'The Star-Touched Queen (The Star-Touched Queen, #1)'
 yaml: the-star-touched-queen-the-star-touched-queen-1
 ---
 

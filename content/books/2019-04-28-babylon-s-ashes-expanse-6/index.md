@@ -18,6 +18,7 @@ tags:
 - James S.A. Corey
 title: 'Babylon''s Ashes (Expanse, #6)'
 title_without_series: Babylon's Ashes
+translationKey: 'Babylon''s Ashes (Expanse, #6)'
 yaml: babylon-s-ashes-expanse-6
 ---
 

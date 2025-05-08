@@ -19,6 +19,7 @@ tags:
 - Ken Liu
 title: 'Broken Stars: Contemporary Chinese Science Fiction in Translation'
 title_without_series: 'Broken Stars: Contemporary Chinese Science Fiction in Translation'
+translationKey: 'Broken Stars: Contemporary Chinese Science Fiction in Translation'
 yaml: broken-stars-contemporary-chinese-science-fiction-in-translation
 ---
 

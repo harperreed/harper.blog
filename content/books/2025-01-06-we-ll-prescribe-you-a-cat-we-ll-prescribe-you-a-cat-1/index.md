@@ -20,6 +20,7 @@ tags:
 - Syou Ishida
 title: 'We''ll Prescribe You a Cat (We''ll Prescribe You a Cat, #1)'
 title_without_series: We'll Prescribe You a Cat
+translationKey: 'We''ll Prescribe You a Cat (We''ll Prescribe You a Cat, #1)'
 yaml: we-ll-prescribe-you-a-cat-we-ll-prescribe-you-a-cat-1
 ---
 

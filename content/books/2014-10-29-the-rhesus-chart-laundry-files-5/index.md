@@ -19,6 +19,7 @@ tags:
 - Charles Stross
 title: 'The Rhesus Chart (Laundry Files, #5)'
 title_without_series: The Rhesus Chart
+translationKey: 'The Rhesus Chart (Laundry Files, #5)'
 yaml: the-rhesus-chart-laundry-files-5
 ---
 

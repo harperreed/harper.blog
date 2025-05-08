@@ -18,6 +18,7 @@ tags:
 - N.K. Jemisin
 title: 'The Stone Sky (The Broken Earth, #3)'
 title_without_series: The Stone Sky
+translationKey: 'The Stone Sky (The Broken Earth, #3)'
 yaml: the-stone-sky-the-broken-earth-3
 ---
 

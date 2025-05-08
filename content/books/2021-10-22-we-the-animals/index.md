@@ -18,6 +18,7 @@ tags:
 - Justin Torres
 title: We the Animals
 title_without_series: We the Animals
+translationKey: We the Animals
 yaml: we-the-animals
 ---
 

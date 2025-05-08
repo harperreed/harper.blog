@@ -19,6 +19,7 @@ tags:
 - Alastair Reynolds
 title: 'Poseidon''s Wake (Poseidon''s Children, #3)'
 title_without_series: Poseidon's Wake
+translationKey: 'Poseidon''s Wake (Poseidon''s Children, #3)'
 yaml: poseidon-s-wake-poseidon-s-children-3
 ---
 

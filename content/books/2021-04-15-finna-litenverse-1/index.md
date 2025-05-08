@@ -18,6 +18,7 @@ tags:
 - Nino Cipri
 title: 'Finna (LitenVerse, #1)'
 title_without_series: Finna
+translationKey: 'Finna (LitenVerse, #1)'
 yaml: finna-litenverse-1
 ---
 

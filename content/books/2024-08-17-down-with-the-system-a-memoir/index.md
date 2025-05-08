@@ -18,6 +18,7 @@ tags:
 - Serj Tankian
 title: 'Down with the System: A Memoir'
 title_without_series: 'Down with the System: A Memoir'
+translationKey: 'Down with the System: A Memoir'
 yaml: down-with-the-system-a-memoir
 ---
 

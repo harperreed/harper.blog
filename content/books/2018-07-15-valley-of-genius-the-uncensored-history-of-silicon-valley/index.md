@@ -19,6 +19,7 @@ tags:
 - Adam Fisher
 title: 'Valley of Genius: The Uncensored History of Silicon Valley'
 title_without_series: 'Valley of Genius: The Uncensored History of Silicon Valley'
+translationKey: 'Valley of Genius: The Uncensored History of Silicon Valley'
 yaml: valley-of-genius-the-uncensored-history-of-silicon-valley
 ---
 

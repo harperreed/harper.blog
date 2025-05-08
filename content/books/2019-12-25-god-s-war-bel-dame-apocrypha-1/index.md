@@ -19,6 +19,7 @@ tags:
 - Kameron Hurley
 title: 'God''s War (Bel Dame Apocrypha, #1)'
 title_without_series: God's War
+translationKey: 'God''s War (Bel Dame Apocrypha, #1)'
 yaml: god-s-war-bel-dame-apocrypha-1
 ---
 

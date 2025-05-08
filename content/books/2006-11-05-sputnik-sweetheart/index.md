@@ -18,6 +18,7 @@ tags:
 - Haruki Murakami
 title: Sputnik Sweetheart
 title_without_series: Sputnik Sweetheart
+translationKey: Sputnik Sweetheart
 yaml: sputnik-sweetheart
 ---
 

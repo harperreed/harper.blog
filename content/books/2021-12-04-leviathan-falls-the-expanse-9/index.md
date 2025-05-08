@@ -18,6 +18,7 @@ tags:
 - James S.A. Corey
 title: 'Leviathan Falls (The Expanse #9)'
 title_without_series: Leviathan Falls
+translationKey: 'Leviathan Falls (The Expanse #9)'
 yaml: leviathan-falls-the-expanse-9
 ---
 

@@ -18,6 +18,7 @@ tags:
 - M.R. Carey
 title: The Girl With All the Gifts
 title_without_series: The Girl With All the Gifts
+translationKey: The Girl With All the Gifts
 yaml: the-girl-with-all-the-gifts
 ---
 

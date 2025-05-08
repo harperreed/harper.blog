@@ -18,6 +18,7 @@ tags:
 - John Scalzi
 title: 'Head On (Lock In, #2)'
 title_without_series: Head On
+translationKey: 'Head On (Lock In, #2)'
 yaml: head-on-lock-in-2
 ---
 

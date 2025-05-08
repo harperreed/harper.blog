@@ -20,6 +20,7 @@ tags:
 title: 'The Billion Dollar Spy: A True Story of Cold War Espionage and Betrayal'
 title_without_series: 'The Billion Dollar Spy: A True Story of Cold War Espionage
   and Betrayal'
+translationKey: 'The Billion Dollar Spy: A True Story of Cold War Espionage and Betrayal'
 yaml: the-billion-dollar-spy-a-true-story-of-cold-war-espionage-and-betrayal
 ---
 

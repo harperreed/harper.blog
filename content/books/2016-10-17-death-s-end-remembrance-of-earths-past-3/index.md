@@ -19,6 +19,7 @@ tags:
 - Liu Cixin
 title: 'Death''s End (Remembrance of Earth’s Past, #3)'
 title_without_series: Death's End
+translationKey: 'Death''s End (Remembrance of Earth’s Past, #3)'
 yaml: death-s-end-remembrance-of-earths-past-3
 ---
 

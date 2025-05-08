@@ -18,6 +18,7 @@ tags:
 - Adam Oyebanji
 title: Braking Day
 title_without_series: Braking Day
+translationKey: Braking Day
 yaml: braking-day
 ---
 

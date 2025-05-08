@@ -19,6 +19,7 @@ tags:
 - Philip Fracassi
 title: The Third Rule of Time Travel
 title_without_series: The Third Rule of Time Travel
+translationKey: The Third Rule of Time Travel
 yaml: the-third-rule-of-time-travel
 ---
 

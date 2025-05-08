@@ -18,6 +18,7 @@ tags:
 - Michael   Lewis
 title: 'Flash Boys: A Wall Street Revolt'
 title_without_series: 'Flash Boys: A Wall Street Revolt'
+translationKey: 'Flash Boys: A Wall Street Revolt'
 yaml: flash-boys-a-wall-street-revolt
 ---
 

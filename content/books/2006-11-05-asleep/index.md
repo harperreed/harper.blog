@@ -18,6 +18,7 @@ tags:
 - Banana Yoshimoto
 title: Asleep
 title_without_series: Asleep
+translationKey: Asleep
 yaml: asleep
 ---
 

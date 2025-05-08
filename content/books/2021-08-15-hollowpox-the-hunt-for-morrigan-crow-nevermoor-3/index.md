@@ -19,6 +19,7 @@ tags:
 - Jessica Townsend
 title: 'Hollowpox: The Hunt for Morrigan Crow (Nevermoor, #3)'
 title_without_series: 'Hollowpox: The Hunt for Morrigan Crow'
+translationKey: 'Hollowpox: The Hunt for Morrigan Crow (Nevermoor, #3)'
 yaml: hollowpox-the-hunt-for-morrigan-crow-nevermoor-3
 ---
 

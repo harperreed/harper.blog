@@ -18,6 +18,7 @@ tags:
 - Rebecca Yarros
 title: 'Fourth Wing (The Empyrean, #1)'
 title_without_series: Fourth Wing
+translationKey: 'Fourth Wing (The Empyrean, #1)'
 yaml: fourth-wing-the-empyrean-1
 ---
 

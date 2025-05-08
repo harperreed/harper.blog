@@ -18,6 +18,7 @@ tags:
 - Daniel Suarez
 title: Influx
 title_without_series: Influx
+translationKey: Influx
 yaml: influx
 ---
 

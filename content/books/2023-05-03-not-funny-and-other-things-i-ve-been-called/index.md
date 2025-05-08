@@ -19,6 +19,7 @@ tags:
 - Jena Friedman
 title: 'Not Funny: … And Other Things I''ve Been Called'
 title_without_series: 'Not Funny: … And Other Things I''ve Been Called'
+translationKey: 'Not Funny: … And Other Things I''ve Been Called'
 yaml: not-funny-and-other-things-i-ve-been-called
 ---
 

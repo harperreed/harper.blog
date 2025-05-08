@@ -18,6 +18,7 @@ tags:
 - Dan Simmons
 title: Song of Kali
 title_without_series: Song of Kali
+translationKey: Song of Kali
 yaml: song-of-kali
 ---
 

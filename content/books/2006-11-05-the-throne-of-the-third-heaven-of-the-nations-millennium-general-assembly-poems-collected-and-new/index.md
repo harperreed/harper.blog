@@ -21,6 +21,8 @@ title: 'The Throne of the Third Heaven of the Nations Millennium General Assembl
   Poems Collected and New'
 title_without_series: 'The Throne of the Third Heaven of the Nations Millennium General
   Assembly: Poems Collected and New'
+translationKey: 'The Throne of the Third Heaven of the Nations Millennium General
+  Assembly: Poems Collected and New'
 yaml: the-throne-of-the-third-heaven-of-the-nations-millennium-general-assembly-poems-collected-and-new
 ---
 

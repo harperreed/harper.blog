@@ -18,6 +18,7 @@ tags:
 - Donna Tartt
 title: The Goldfinch
 title_without_series: The Goldfinch
+translationKey: The Goldfinch
 yaml: the-goldfinch
 ---
 

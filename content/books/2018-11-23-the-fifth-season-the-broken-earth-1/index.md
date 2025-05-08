@@ -19,6 +19,7 @@ tags:
 - N.K. Jemisin
 title: 'The Fifth Season (The Broken Earth, #1)'
 title_without_series: The Fifth Season
+translationKey: 'The Fifth Season (The Broken Earth, #1)'
 yaml: the-fifth-season-the-broken-earth-1
 ---
 

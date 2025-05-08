@@ -18,6 +18,7 @@ tags:
 - Cormac McCarthy
 title: The Road
 title_without_series: The Road
+translationKey: The Road
 yaml: the-road
 ---
 

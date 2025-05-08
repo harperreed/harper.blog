@@ -18,6 +18,7 @@ tags:
 - Daniel Suarez
 title: 'Critical Mass (Delta-v, #2)'
 title_without_series: Critical Mass
+translationKey: 'Critical Mass (Delta-v, #2)'
 yaml: critical-mass-delta-v-2
 ---
 

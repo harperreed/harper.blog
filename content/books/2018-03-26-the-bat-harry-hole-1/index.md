@@ -18,6 +18,7 @@ tags:
 - Jo Nesbø
 title: 'The Bat (Harry Hole,  #1)'
 title_without_series: The Bat
+translationKey: 'The Bat (Harry Hole,  #1)'
 yaml: the-bat-harry-hole-1
 ---
 

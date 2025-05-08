@@ -19,6 +19,7 @@ tags:
 - Robin Sloan
 title: 'Ajax Penumbra 1969 (Mr. Penumbra''s 24-Hour Bookstore, #0.5)'
 title_without_series: Ajax Penumbra 1969
+translationKey: 'Ajax Penumbra 1969 (Mr. Penumbra''s 24-Hour Bookstore, #0.5)'
 yaml: ajax-penumbra-1969-mr-penumbra-s-24-hour-bookstore-0-5
 ---
 

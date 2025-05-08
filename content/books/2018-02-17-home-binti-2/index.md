@@ -18,6 +18,7 @@ tags:
 - Nnedi Okorafor
 title: 'Home (Binti, #2)'
 title_without_series: Home
+translationKey: 'Home (Binti, #2)'
 yaml: home-binti-2
 ---
 

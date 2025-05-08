@@ -18,6 +18,7 @@ tags:
 - C.A. Higgins
 title: 'Lightless (Lightless, #1)'
 title_without_series: Lightless
+translationKey: 'Lightless (Lightless, #1)'
 yaml: lightless-lightless-1
 ---
 

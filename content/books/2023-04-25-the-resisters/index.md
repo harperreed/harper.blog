@@ -18,6 +18,7 @@ tags:
 - Gish Jen
 title: The Resisters
 title_without_series: The Resisters
+translationKey: The Resisters
 yaml: the-resisters
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Paolo Bacigalupi
 title: The Doubt Factory
 title_without_series: The Doubt Factory
+translationKey: The Doubt Factory
 yaml: the-doubt-factory
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Elizabeth Moon
 title: 'Engaging the Enemy (Vatta''s War, #3)'
 title_without_series: Engaging the Enemy
+translationKey: 'Engaging the Enemy (Vatta''s War, #3)'
 yaml: engaging-the-enemy-vatta-s-war-3
 ---
 

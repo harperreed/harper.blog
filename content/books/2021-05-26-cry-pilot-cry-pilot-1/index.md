@@ -18,6 +18,7 @@ tags:
 - Joel Dane
 title: 'Cry Pilot (Cry Pilot, #1)'
 title_without_series: Cry Pilot
+translationKey: 'Cry Pilot (Cry Pilot, #1)'
 yaml: cry-pilot-cry-pilot-1
 ---
 

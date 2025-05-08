@@ -19,6 +19,7 @@ tags:
 - Lloyd Alexander
 title: 'The Book of Three (The Chronicles of Prydain, #1)'
 title_without_series: The Book of Three
+translationKey: 'The Book of Three (The Chronicles of Prydain, #1)'
 yaml: the-book-of-three-the-chronicles-of-prydain-1
 ---
 

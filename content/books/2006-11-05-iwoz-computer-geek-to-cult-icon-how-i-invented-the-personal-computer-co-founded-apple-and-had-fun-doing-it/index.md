@@ -21,6 +21,8 @@ title: 'iWoz - Computer Geek to Cult Icon: How I Invented the Personal Computer,
   Apple, and Had Fun Doing It'
 title_without_series: 'iWoz - Computer Geek to Cult Icon: How I Invented the Personal
   Computer, Co-Founded Apple, and Had Fun Doing It'
+translationKey: 'iWoz - Computer Geek to Cult Icon: How I Invented the Personal Computer,
+  Co-Founded Apple, and Had Fun Doing It'
 yaml: iwoz-computer-geek-to-cult-icon-how-i-invented-the-personal-computer-co-founded-apple-and-had-fun-doing-it
 ---
 

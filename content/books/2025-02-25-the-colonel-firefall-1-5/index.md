@@ -18,6 +18,7 @@ tags:
 - Peter Watts
 title: 'The Colonel (Firefall, #1.5)'
 title_without_series: The Colonel
+translationKey: 'The Colonel (Firefall, #1.5)'
 yaml: the-colonel-firefall-1-5
 ---
 

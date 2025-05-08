@@ -18,6 +18,7 @@ tags:
 - James S.A. Corey
 title: 'Cibola Burn (Expanse, #4)'
 title_without_series: Cibola Burn
+translationKey: 'Cibola Burn (Expanse, #4)'
 yaml: cibola-burn-expanse-4
 ---
 

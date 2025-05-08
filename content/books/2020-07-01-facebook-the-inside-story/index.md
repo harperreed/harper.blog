@@ -18,6 +18,7 @@ tags:
 - Steven Levy
 title: 'Facebook: The Inside Story'
 title_without_series: 'Facebook: The Inside Story'
+translationKey: 'Facebook: The Inside Story'
 yaml: facebook-the-inside-story
 ---
 

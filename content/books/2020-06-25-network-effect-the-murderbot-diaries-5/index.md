@@ -19,6 +19,7 @@ tags:
 - Martha Wells
 title: 'Network Effect (The Murderbot Diaries, #5)'
 title_without_series: Network Effect
+translationKey: 'Network Effect (The Murderbot Diaries, #5)'
 yaml: network-effect-the-murderbot-diaries-5
 ---
 

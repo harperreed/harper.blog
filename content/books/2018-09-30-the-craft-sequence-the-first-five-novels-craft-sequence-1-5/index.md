@@ -19,6 +19,7 @@ tags:
 - Max Gladstone
 title: 'The Craft Sequence: The First Five Novels (Craft Sequence #1-5)'
 title_without_series: 'The Craft Sequence: The First Five Novels'
+translationKey: 'The Craft Sequence: The First Five Novels (Craft Sequence #1-5)'
 yaml: the-craft-sequence-the-first-five-novels-craft-sequence-1-5
 ---
 

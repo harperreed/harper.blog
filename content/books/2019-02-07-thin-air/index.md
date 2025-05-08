@@ -18,6 +18,7 @@ tags:
 - Richard K. Morgan
 title: Thin Air
 title_without_series: Thin Air
+translationKey: Thin Air
 yaml: thin-air
 ---
 

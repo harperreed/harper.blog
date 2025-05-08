@@ -18,6 +18,7 @@ tags:
 - Christopher Ruocchio
 title: Kingdoms of Death
 title_without_series: Kingdoms of Death
+translationKey: Kingdoms of Death
 yaml: kingdoms-of-death
 ---
 

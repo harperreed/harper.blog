@@ -19,6 +19,7 @@ tags:
 - Vernor Vinge
 title: 'True Names: and the Opening of the Cyberspace Frontier'
 title_without_series: 'True Names: and the Opening of the Cyberspace Frontier'
+translationKey: 'True Names: and the Opening of the Cyberspace Frontier'
 yaml: true-names-and-the-opening-of-the-cyberspace-frontier
 ---
 

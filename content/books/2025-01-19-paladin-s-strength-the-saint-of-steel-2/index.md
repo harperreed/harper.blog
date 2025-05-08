@@ -20,6 +20,7 @@ tags:
 - T. Kingfisher
 title: 'Paladin''s Strength (The Saint of Steel, #2)'
 title_without_series: Paladin's Strength
+translationKey: 'Paladin''s Strength (The Saint of Steel, #2)'
 yaml: paladin-s-strength-the-saint-of-steel-2
 ---
 

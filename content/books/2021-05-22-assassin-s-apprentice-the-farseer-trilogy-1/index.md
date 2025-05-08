@@ -19,6 +19,7 @@ tags:
 - Robin Hobb
 title: 'Assassin''s Apprentice (The Farseer Trilogy, #1)'
 title_without_series: Assassin's Apprentice
+translationKey: 'Assassin''s Apprentice (The Farseer Trilogy, #1)'
 yaml: assassin-s-apprentice-the-farseer-trilogy-1
 ---
 

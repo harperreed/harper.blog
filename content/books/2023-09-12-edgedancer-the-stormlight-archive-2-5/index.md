@@ -19,6 +19,7 @@ tags:
 - Brandon Sanderson
 title: 'Edgedancer (The Stormlight Archive, #2.5)'
 title_without_series: Edgedancer
+translationKey: 'Edgedancer (The Stormlight Archive, #2.5)'
 yaml: edgedancer-the-stormlight-archive-2-5
 ---
 

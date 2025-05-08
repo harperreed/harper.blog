@@ -18,6 +18,7 @@ tags:
 - Mick Herron
 title: 'Slow Horses (Slough House, #1)'
 title_without_series: Slow Horses
+translationKey: 'Slow Horses (Slough House, #1)'
 yaml: slow-horses-slough-house-1
 ---
 

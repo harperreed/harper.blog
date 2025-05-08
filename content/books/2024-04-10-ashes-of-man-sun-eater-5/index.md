@@ -18,6 +18,7 @@ tags:
 - Christopher Ruocchio
 title: 'Ashes of Man (Sun Eater, #5)'
 title_without_series: Ashes of Man
+translationKey: 'Ashes of Man (Sun Eater, #5)'
 yaml: ashes-of-man-sun-eater-5
 ---
 

@@ -20,6 +20,8 @@ tags:
 title: 'Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City 2001-2011'
 title_without_series: 'Meet Me in the Bathroom: Rebirth and Rock and Roll in New York
   City 2001-2011'
+translationKey: 'Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City
+  2001-2011'
 yaml: meet-me-in-the-bathroom-rebirth-and-rock-and-roll-in-new-york-city-2001-2011
 ---
 

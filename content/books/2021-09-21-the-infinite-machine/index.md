@@ -18,6 +18,7 @@ tags:
 - Camila Russo
 title: The Infinite Machine
 title_without_series: The Infinite Machine
+translationKey: The Infinite Machine
 yaml: the-infinite-machine
 ---
 

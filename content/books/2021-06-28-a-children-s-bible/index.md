@@ -18,6 +18,7 @@ tags:
 - Lydia Millet
 title: A Children's Bible
 title_without_series: A Children's Bible
+translationKey: A Children's Bible
 yaml: a-children-s-bible
 ---
 

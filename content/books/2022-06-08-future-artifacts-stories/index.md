@@ -18,6 +18,7 @@ tags:
 - Kameron Hurley
 title: 'Future Artifacts: Stories'
 title_without_series: 'Future Artifacts: Stories'
+translationKey: 'Future Artifacts: Stories'
 yaml: future-artifacts-stories
 ---
 

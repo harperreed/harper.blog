@@ -19,6 +19,7 @@ tags:
 - Becky  Chambers
 title: 'The Galaxy, and the Ground Within (Wayfarers, #4)'
 title_without_series: The Galaxy, and the Ground Within
+translationKey: 'The Galaxy, and the Ground Within (Wayfarers, #4)'
 yaml: the-galaxy-and-the-ground-within-wayfarers-4
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Isaac Asimov
 title: 'The Caves of Steel (Robot, #1)'
 title_without_series: The Caves of Steel
+translationKey: 'The Caves of Steel (Robot, #1)'
 yaml: the-caves-of-steel-robot-1
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Frederik Pohl
 title: Homegoing
 title_without_series: Homegoing
+translationKey: Homegoing
 yaml: homegoing
 ---
 

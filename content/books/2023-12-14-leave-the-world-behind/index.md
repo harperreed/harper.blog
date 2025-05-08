@@ -18,6 +18,7 @@ tags:
 - Rumaan Alam
 title: Leave the World Behind
 title_without_series: Leave the World Behind
+translationKey: Leave the World Behind
 yaml: leave-the-world-behind
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Kameron Hurley
 title: Meet Me in the Future
 title_without_series: Meet Me in the Future
+translationKey: Meet Me in the Future
 yaml: meet-me-in-the-future
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Kameron Hurley
 title: The Stars Are Legion
 title_without_series: The Stars Are Legion
+translationKey: The Stars Are Legion
 yaml: the-stars-are-legion
 ---
 

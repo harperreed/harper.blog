@@ -19,6 +19,7 @@ tags:
 - Michael   Lewis
 title: 'Going Infinite: The Rise and Fall of a New Tycoon'
 title_without_series: 'Going Infinite: The Rise and Fall of a New Tycoon'
+translationKey: 'Going Infinite: The Rise and Fall of a New Tycoon'
 yaml: going-infinite-the-rise-and-fall-of-a-new-tycoon
 ---
 

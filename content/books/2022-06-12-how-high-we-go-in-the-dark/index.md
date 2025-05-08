@@ -18,6 +18,7 @@ tags:
 - Sequoia Nagamatsu
 title: How High We Go in the Dark
 title_without_series: How High We Go in the Dark
+translationKey: How High We Go in the Dark
 yaml: how-high-we-go-in-the-dark
 ---
 

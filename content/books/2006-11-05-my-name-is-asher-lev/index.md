@@ -18,6 +18,7 @@ tags:
 - Chaim Potok
 title: My Name Is Asher Lev
 title_without_series: My Name Is Asher Lev
+translationKey: My Name Is Asher Lev
 yaml: my-name-is-asher-lev
 ---
 

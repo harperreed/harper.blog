@@ -20,6 +20,8 @@ tags:
 title: 'The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI'
 title_without_series: 'The Worlds I See: Curiosity, Exploration, and Discovery at
   the Dawn of AI'
+translationKey: 'The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn
+  of AI'
 yaml: the-worlds-i-see-curiosity-exploration-and-discovery-at-the-dawn-of-ai
 ---
 

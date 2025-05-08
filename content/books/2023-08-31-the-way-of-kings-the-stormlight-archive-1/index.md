@@ -19,6 +19,7 @@ tags:
 - Brandon Sanderson
 title: 'The Way of Kings (The Stormlight Archive, #1)'
 title_without_series: The Way of Kings
+translationKey: 'The Way of Kings (The Stormlight Archive, #1)'
 yaml: the-way-of-kings-the-stormlight-archive-1
 ---
 

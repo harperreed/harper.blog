@@ -18,6 +18,7 @@ tags:
 - Albert Camus
 title: The Plague
 title_without_series: The Plague
+translationKey: The Plague
 yaml: the-plague
 ---
 

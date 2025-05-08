@@ -18,6 +18,7 @@ tags:
 - Jennifer Foehner Wells
 title: 'Fluency (Confluence, #1)'
 title_without_series: Fluency
+translationKey: 'Fluency (Confluence, #1)'
 yaml: fluency-confluence-1
 ---
 

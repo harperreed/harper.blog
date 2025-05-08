@@ -18,6 +18,7 @@ tags:
 - Philip K. Dick
 title: The Cosmic Puppets
 title_without_series: The Cosmic Puppets
+translationKey: The Cosmic Puppets
 yaml: the-cosmic-puppets
 ---
 

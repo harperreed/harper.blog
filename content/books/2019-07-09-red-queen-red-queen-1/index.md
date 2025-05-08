@@ -18,6 +18,7 @@ tags:
 - Victoria Aveyard
 title: 'Red Queen (Red Queen, #1)'
 title_without_series: Red Queen
+translationKey: 'Red Queen (Red Queen, #1)'
 yaml: red-queen-red-queen-1
 ---
 

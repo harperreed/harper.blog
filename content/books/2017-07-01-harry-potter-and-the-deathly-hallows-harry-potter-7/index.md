@@ -19,6 +19,7 @@ tags:
 - J.K. Rowling
 title: 'Harry Potter and the Deathly Hallows (Harry Potter, #7)'
 title_without_series: Harry Potter and the Deathly Hallows
+translationKey: 'Harry Potter and the Deathly Hallows (Harry Potter, #7)'
 yaml: harry-potter-and-the-deathly-hallows-harry-potter-7
 ---
 

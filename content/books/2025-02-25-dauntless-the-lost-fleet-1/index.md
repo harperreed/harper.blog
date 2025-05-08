@@ -18,6 +18,7 @@ tags:
 - Jack Campbell
 title: 'Dauntless (The Lost Fleet, #1)'
 title_without_series: Dauntless
+translationKey: 'Dauntless (The Lost Fleet, #1)'
 yaml: dauntless-the-lost-fleet-1
 ---
 

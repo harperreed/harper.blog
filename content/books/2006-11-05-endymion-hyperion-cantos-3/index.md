@@ -18,6 +18,7 @@ tags:
 - Dan Simmons
 title: 'Endymion (Hyperion Cantos, #3)'
 title_without_series: Endymion
+translationKey: 'Endymion (Hyperion Cantos, #3)'
 yaml: endymion-hyperion-cantos-3
 ---
 

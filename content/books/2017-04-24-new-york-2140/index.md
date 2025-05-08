@@ -18,6 +18,7 @@ tags:
 - Kim Stanley Robinson
 title: New York 2140
 title_without_series: New York 2140
+translationKey: New York 2140
 yaml: new-york-2140
 ---
 

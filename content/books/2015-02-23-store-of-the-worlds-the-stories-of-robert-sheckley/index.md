@@ -19,6 +19,7 @@ tags:
 - Robert Sheckley
 title: 'Store of the Worlds: The Stories of Robert Sheckley'
 title_without_series: 'Store of the Worlds: The Stories of Robert Sheckley'
+translationKey: 'Store of the Worlds: The Stories of Robert Sheckley'
 yaml: store-of-the-worlds-the-stories-of-robert-sheckley
 ---
 

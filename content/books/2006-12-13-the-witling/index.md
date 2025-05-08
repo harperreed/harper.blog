@@ -18,6 +18,7 @@ tags:
 - Vernor Vinge
 title: The Witling
 title_without_series: The Witling
+translationKey: The Witling
 yaml: the-witling
 ---
 

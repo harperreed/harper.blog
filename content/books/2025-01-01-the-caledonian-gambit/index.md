@@ -21,6 +21,7 @@ tags:
 - Dan Moren
 title: The Caledonian Gambit
 title_without_series: The Caledonian Gambit
+translationKey: The Caledonian Gambit
 yaml: the-caledonian-gambit
 ---
 

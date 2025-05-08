@@ -18,6 +18,7 @@ tags:
 - Ayn Rand
 title: The Fountainhead
 title_without_series: The Fountainhead
+translationKey: The Fountainhead
 yaml: the-fountainhead
 ---
 

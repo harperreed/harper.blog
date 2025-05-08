@@ -19,6 +19,7 @@ tags:
 - Christopher Ruocchio
 title: 'Empire of Silence (The Sun Eater, #1)'
 title_without_series: Empire of Silence
+translationKey: 'Empire of Silence (The Sun Eater, #1)'
 yaml: empire-of-silence-the-sun-eater-1
 ---
 

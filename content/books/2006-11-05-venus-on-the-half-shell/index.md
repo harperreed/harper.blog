@@ -18,6 +18,7 @@ tags:
 - Philip José Farmer
 title: Venus on the Half-Shell
 title_without_series: Venus on the Half-Shell
+translationKey: Venus on the Half-Shell
 yaml: venus-on-the-half-shell
 ---
 

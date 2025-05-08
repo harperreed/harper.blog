@@ -20,6 +20,7 @@ tags:
 title: 'Blood, Sweat & Chrome: The Wild and True Story of Mad Max: Fury Road'
 title_without_series: 'Blood, Sweat & Chrome: The Wild and True Story of Mad Max:
   Fury Road'
+translationKey: 'Blood, Sweat & Chrome: The Wild and True Story of Mad Max: Fury Road'
 yaml: blood-sweat-chrome-the-wild-and-true-story-of-mad-max-fury-road
 ---
 

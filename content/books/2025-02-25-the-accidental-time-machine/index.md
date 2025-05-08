@@ -18,6 +18,7 @@ tags:
 - Joe Haldeman
 title: The Accidental Time Machine
 title_without_series: The Accidental Time Machine
+translationKey: The Accidental Time Machine
 yaml: the-accidental-time-machine
 ---
 

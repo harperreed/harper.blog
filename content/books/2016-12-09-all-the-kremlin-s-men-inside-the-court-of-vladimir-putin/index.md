@@ -19,6 +19,7 @@ tags:
 - Mikhail Zygar
 title: 'All the Kremlin''s Men: Inside the Court of Vladimir Putin'
 title_without_series: 'All the Kremlin''s Men: Inside the Court of Vladimir Putin'
+translationKey: 'All the Kremlin''s Men: Inside the Court of Vladimir Putin'
 yaml: all-the-kremlin-s-men-inside-the-court-of-vladimir-putin
 ---
 

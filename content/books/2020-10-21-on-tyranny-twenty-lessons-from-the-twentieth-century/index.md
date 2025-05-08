@@ -19,6 +19,7 @@ tags:
 - Timothy Snyder
 title: 'On Tyranny: Twenty Lessons from the Twentieth Century'
 title_without_series: 'On Tyranny: Twenty Lessons from the Twentieth Century'
+translationKey: 'On Tyranny: Twenty Lessons from the Twentieth Century'
 yaml: on-tyranny-twenty-lessons-from-the-twentieth-century
 ---
 

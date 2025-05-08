@@ -18,6 +18,7 @@ tags:
 - Michael Mammay
 title: 'Colonyside (Planetside, #3)'
 title_without_series: Colonyside
+translationKey: 'Colonyside (Planetside, #3)'
 yaml: colonyside-planetside-3
 ---
 

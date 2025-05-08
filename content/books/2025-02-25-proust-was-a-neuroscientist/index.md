@@ -18,6 +18,7 @@ tags:
 - Jonah Lehrer
 title: Proust Was a Neuroscientist
 title_without_series: Proust Was a Neuroscientist
+translationKey: Proust Was a Neuroscientist
 yaml: proust-was-a-neuroscientist
 ---
 

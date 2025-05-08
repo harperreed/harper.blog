@@ -19,6 +19,7 @@ tags:
 - Baoshu
 title: The Redemption of Time (The Three-Body Problem Series Book 4)
 title_without_series: The Redemption of Time
+translationKey: The Redemption of Time (The Three-Body Problem Series Book 4)
 yaml: the-redemption-of-time-the-three-body-problem-series-book-4
 ---
 

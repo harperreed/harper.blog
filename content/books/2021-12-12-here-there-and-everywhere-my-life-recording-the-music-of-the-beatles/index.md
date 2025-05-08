@@ -20,6 +20,7 @@ tags:
 title: 'Here, There and Everywhere: My Life Recording the Music of the Beatles'
 title_without_series: 'Here, There and Everywhere: My Life Recording the Music of
   the Beatles'
+translationKey: 'Here, There and Everywhere: My Life Recording the Music of the Beatles'
 yaml: here-there-and-everywhere-my-life-recording-the-music-of-the-beatles
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Naomi Novik
 title: 'A Deadly Education (The Scholomance, #1)'
 title_without_series: A Deadly Education
+translationKey: 'A Deadly Education (The Scholomance, #1)'
 yaml: a-deadly-education-the-scholomance-1
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Haruki Murakami
 title: After Dark
 title_without_series: After Dark
+translationKey: After Dark
 yaml: after-dark
 ---
 

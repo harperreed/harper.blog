@@ -19,6 +19,7 @@ tags:
 - Patrick Rothfuss
 title: 'The Wise Man''s Fear (The Kingkiller Chronicle, #2)'
 title_without_series: The Wise Man's Fear
+translationKey: 'The Wise Man''s Fear (The Kingkiller Chronicle, #2)'
 yaml: the-wise-man-s-fear-the-kingkiller-chronicle-2
 ---
 

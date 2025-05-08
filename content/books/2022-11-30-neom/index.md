@@ -18,6 +18,7 @@ tags:
 - Lavie Tidhar
 title: Neom
 title_without_series: Neom
+translationKey: Neom
 yaml: neom
 ---
 

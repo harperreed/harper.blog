@@ -18,6 +18,7 @@ tags:
 - David Weber
 title: 'Off Armageddon Reef (Safehold, #1)'
 title_without_series: Off Armageddon Reef
+translationKey: 'Off Armageddon Reef (Safehold, #1)'
 yaml: off-armageddon-reef-safehold-1
 ---
 

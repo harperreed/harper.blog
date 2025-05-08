@@ -20,6 +20,7 @@ tags:
 - Lis Smith
 title: 'Any Given Tuesday: A Political Love Story'
 title_without_series: 'Any Given Tuesday: A Political Love Story'
+translationKey: 'Any Given Tuesday: A Political Love Story'
 yaml: any-given-tuesday-a-political-love-story
 ---
 

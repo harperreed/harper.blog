@@ -18,6 +18,7 @@ tags:
 - Daniel Suarez
 title: 'Delta-V (Delta-v, #1)'
 title_without_series: Delta-V
+translationKey: 'Delta-V (Delta-v, #1)'
 yaml: delta-v-delta-v-1
 ---
 

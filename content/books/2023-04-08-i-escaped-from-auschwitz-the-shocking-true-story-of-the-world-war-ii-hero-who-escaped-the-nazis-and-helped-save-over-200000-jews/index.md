@@ -22,6 +22,8 @@ title: 'I Escaped from Auschwitz: The Shocking True Story of the World War II He
   Who Escaped the Nazis and Helped Save Over 200,000 Jews'
 title_without_series: 'I Escaped from Auschwitz: The Shocking True Story of the World
   War II Hero Who Escaped the Nazis and Helped Save Over 200,000 Jews'
+translationKey: 'I Escaped from Auschwitz: The Shocking True Story of the World War
+  II Hero Who Escaped the Nazis and Helped Save Over 200,000 Jews'
 yaml: i-escaped-from-auschwitz-the-shocking-true-story-of-the-world-war-ii-hero-who-escaped-the-nazis-and-helped-save-over-200000-jews
 ---
 

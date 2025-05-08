@@ -19,6 +19,7 @@ tags:
 - Dennis E. Taylor
 title: 'We Are Legion (We Are Bob) (Bobiverse, #1)'
 title_without_series: We Are Legion (We Are Bob)
+translationKey: 'We Are Legion (We Are Bob) (Bobiverse, #1)'
 yaml: we-are-legion-we-are-bob-bobiverse-1
 ---
 

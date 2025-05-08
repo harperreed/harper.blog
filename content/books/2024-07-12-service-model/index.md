@@ -18,6 +18,7 @@ tags:
 - Adrian Tchaikovsky
 title: Service Model
 title_without_series: Service Model
+translationKey: Service Model
 yaml: service-model
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Ling  Ma
 title: Severance
 title_without_series: Severance
+translationKey: Severance
 yaml: severance
 ---
 

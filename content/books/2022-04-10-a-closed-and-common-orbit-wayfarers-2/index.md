@@ -19,6 +19,7 @@ tags:
 - Becky  Chambers
 title: 'A Closed and Common Orbit (Wayfarers, #2)'
 title_without_series: A Closed and Common Orbit
+translationKey: 'A Closed and Common Orbit (Wayfarers, #2)'
 yaml: a-closed-and-common-orbit-wayfarers-2
 ---
 

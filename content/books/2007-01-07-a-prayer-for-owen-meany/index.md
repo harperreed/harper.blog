@@ -18,6 +18,7 @@ tags:
 - John Irving
 title: A Prayer for Owen Meany
 title_without_series: A Prayer for Owen Meany
+translationKey: A Prayer for Owen Meany
 yaml: a-prayer-for-owen-meany
 ---
 

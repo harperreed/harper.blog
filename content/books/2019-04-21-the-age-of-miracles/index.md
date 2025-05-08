@@ -18,6 +18,7 @@ tags:
 - Karen Thompson Walker
 title: The Age of Miracles
 title_without_series: The Age of Miracles
+translationKey: The Age of Miracles
 yaml: the-age-of-miracles
 ---
 

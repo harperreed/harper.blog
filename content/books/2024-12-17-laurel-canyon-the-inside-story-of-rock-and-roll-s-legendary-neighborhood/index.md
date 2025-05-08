@@ -21,6 +21,7 @@ tags:
 title: 'Laurel Canyon: The Inside Story of Rock-and-Roll''s Legendary Neighborhood'
 title_without_series: 'Laurel Canyon: The Inside Story of Rock-and-Roll''s Legendary
   Neighborhood'
+translationKey: 'Laurel Canyon: The Inside Story of Rock-and-Roll''s Legendary Neighborhood'
 yaml: laurel-canyon-the-inside-story-of-rock-and-roll-s-legendary-neighborhood
 ---
 

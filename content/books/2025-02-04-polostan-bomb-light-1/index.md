@@ -19,6 +19,7 @@ tags:
 - Neal Stephenson
 title: 'Polostan (Bomb Light, #1)'
 title_without_series: Polostan
+translationKey: 'Polostan (Bomb Light, #1)'
 yaml: polostan-bomb-light-1
 ---
 

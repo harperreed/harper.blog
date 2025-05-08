@@ -19,6 +19,7 @@ tags:
 - Gardner Dozois
 title: 'The Year''s Best Science Fiction: Twenty-Third Annual Collection'
 title_without_series: 'The Year''s Best Science Fiction: Twenty-Third Annual Collection'
+translationKey: 'The Year''s Best Science Fiction: Twenty-Third Annual Collection'
 yaml: the-year-s-best-science-fiction-twenty-third-annual-collection
 ---
 

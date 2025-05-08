@@ -20,6 +20,7 @@ tags:
 - Zachary Mason
 title: Void Star
 title_without_series: Void Star
+translationKey: Void Star
 yaml: void-star
 ---
 

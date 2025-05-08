@@ -18,6 +18,7 @@ tags:
 - Eliot Peper
 title: 'Bandwidth (Analog #1)'
 title_without_series: Bandwidth
+translationKey: 'Bandwidth (Analog #1)'
 yaml: bandwidth-analog-1
 ---
 

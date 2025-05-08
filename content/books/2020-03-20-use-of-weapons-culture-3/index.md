@@ -18,6 +18,7 @@ tags:
 - Iain M. Banks
 title: 'Use of Weapons (Culture, #3)'
 title_without_series: Use of Weapons
+translationKey: 'Use of Weapons (Culture, #3)'
 yaml: use-of-weapons-culture-3
 ---
 

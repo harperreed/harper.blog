@@ -19,6 +19,7 @@ tags:
 - Naomi Novik
 title: 'The Golden Enclaves (The Scholomance #3)'
 title_without_series: The Golden Enclaves
+translationKey: 'The Golden Enclaves (The Scholomance #3)'
 yaml: the-golden-enclaves-the-scholomance-3
 ---
 

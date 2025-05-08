@@ -18,6 +18,7 @@ tags:
 - Greg Bear
 title: Darwin's Radio/Darwin's Children
 title_without_series: Darwin's Radio/Darwin's Children
+translationKey: Darwin's Radio/Darwin's Children
 yaml: darwin-s-radio-darwin-s-children
 ---
 

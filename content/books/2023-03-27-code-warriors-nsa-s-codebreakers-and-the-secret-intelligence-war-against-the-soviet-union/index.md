@@ -21,6 +21,8 @@ title: 'Code Warriors: NSA''s Codebreakers and the Secret Intelligence War Again
   the Soviet Union'
 title_without_series: 'Code Warriors: NSA''s Codebreakers and the Secret Intelligence
   War Against the Soviet Union'
+translationKey: 'Code Warriors: NSA''s Codebreakers and the Secret Intelligence War
+  Against the Soviet Union'
 yaml: code-warriors-nsa-s-codebreakers-and-the-secret-intelligence-war-against-the-soviet-union
 ---
 

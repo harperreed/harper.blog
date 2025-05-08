@@ -18,6 +18,7 @@ tags:
 - Kazuo Ishiguro
 title: Klara and the Sun
 title_without_series: Klara and the Sun
+translationKey: Klara and the Sun
 yaml: klara-and-the-sun
 ---
 

@@ -21,6 +21,8 @@ title: 'The Fund: Ray Dalio, Bridgewater Associates, and the Unraveling of a Wal
   Street Legend'
 title_without_series: 'The Fund: Ray Dalio, Bridgewater Associates, and the Unraveling
   of a Wall Street Legend'
+translationKey: 'The Fund: Ray Dalio, Bridgewater Associates, and the Unraveling of
+  a Wall Street Legend'
 yaml: the-fund-ray-dalio-bridgewater-associates-and-the-unraveling-of-a-wall-street-legend
 ---
 

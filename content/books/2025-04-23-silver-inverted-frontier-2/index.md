@@ -21,6 +21,7 @@ tags:
 - Linda Nagata
 title: 'Silver (Inverted Frontier, #2)'
 title_without_series: Silver
+translationKey: 'Silver (Inverted Frontier, #2)'
 yaml: silver-inverted-frontier-2
 ---
 

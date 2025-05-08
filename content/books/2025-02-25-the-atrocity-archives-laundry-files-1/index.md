@@ -19,6 +19,7 @@ tags:
 - Charles Stross
 title: 'The Atrocity Archives (Laundry Files, #1)'
 title_without_series: The Atrocity Archives
+translationKey: 'The Atrocity Archives (Laundry Files, #1)'
 yaml: the-atrocity-archives-laundry-files-1
 ---
 

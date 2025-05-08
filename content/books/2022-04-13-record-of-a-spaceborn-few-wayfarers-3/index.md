@@ -19,6 +19,7 @@ tags:
 - Becky  Chambers
 title: 'Record of a Spaceborn Few (Wayfarers, #3)'
 title_without_series: Record of a Spaceborn Few
+translationKey: 'Record of a Spaceborn Few (Wayfarers, #3)'
 yaml: record-of-a-spaceborn-few-wayfarers-3
 ---
 

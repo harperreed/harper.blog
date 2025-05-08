@@ -18,6 +18,7 @@ tags:
 - Victoria Aveyard
 title: 'Glass Sword (Red Queen, #2)'
 title_without_series: Glass Sword
+translationKey: 'Glass Sword (Red Queen, #2)'
 yaml: glass-sword-red-queen-2
 ---
 

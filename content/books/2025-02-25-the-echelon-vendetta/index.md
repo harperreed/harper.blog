@@ -18,6 +18,7 @@ tags:
 - David    Stone
 title: The Echelon Vendetta
 title_without_series: The Echelon Vendetta
+translationKey: The Echelon Vendetta
 yaml: the-echelon-vendetta
 ---
 

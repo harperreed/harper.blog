@@ -18,6 +18,7 @@ tags:
 - Jonathan Eig
 title: 'King: A Life'
 title_without_series: 'King: A Life'
+translationKey: 'King: A Life'
 yaml: king-a-life
 ---
 

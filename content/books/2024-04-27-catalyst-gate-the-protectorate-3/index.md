@@ -19,6 +19,7 @@ tags:
 - Megan E. O'Keefe
 title: 'Catalyst Gate (The Protectorate, #3)'
 title_without_series: Catalyst Gate
+translationKey: 'Catalyst Gate (The Protectorate, #3)'
 yaml: catalyst-gate-the-protectorate-3
 ---
 

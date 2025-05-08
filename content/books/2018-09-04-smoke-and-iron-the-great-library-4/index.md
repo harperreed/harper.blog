@@ -19,6 +19,7 @@ tags:
 - Rachel Caine
 title: 'Smoke and Iron (The Great Library, #4)'
 title_without_series: Smoke and Iron
+translationKey: 'Smoke and Iron (The Great Library, #4)'
 yaml: smoke-and-iron-the-great-library-4
 ---
 

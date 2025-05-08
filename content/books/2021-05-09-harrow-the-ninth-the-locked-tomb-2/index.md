@@ -19,6 +19,7 @@ tags:
 - Tamsyn Muir
 title: 'Harrow the Ninth (The Locked Tomb, #2)'
 title_without_series: Harrow the Ninth
+translationKey: 'Harrow the Ninth (The Locked Tomb, #2)'
 yaml: harrow-the-ninth-the-locked-tomb-2
 ---
 

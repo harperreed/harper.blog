@@ -18,6 +18,7 @@ tags:
 - Ann Leckie
 title: Translation State
 title_without_series: Translation State
+translationKey: Translation State
 yaml: translation-state
 ---
 

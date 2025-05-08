@@ -19,6 +19,7 @@ tags:
 - Barack Obama
 title: 'The Audacity of Hope: Thoughts on Reclaiming the American Dream'
 title_without_series: 'The Audacity of Hope: Thoughts on Reclaiming the American Dream'
+translationKey: 'The Audacity of Hope: Thoughts on Reclaiming the American Dream'
 yaml: the-audacity-of-hope-thoughts-on-reclaiming-the-american-dream
 ---
 

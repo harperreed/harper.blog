@@ -21,6 +21,8 @@ title: 'Thanks, Obama: A Humorous Memoir of the Obama Years, Speechwriting, and 
   Politics in the Age of Trump'
 title_without_series: 'Thanks, Obama: A Humorous Memoir of the Obama Years, Speechwriting,
   and Navigating Politics in the Age of Trump'
+translationKey: 'Thanks, Obama: A Humorous Memoir of the Obama Years, Speechwriting,
+  and Navigating Politics in the Age of Trump'
 yaml: thanks-obama-a-humorous-memoir-of-the-obama-years-speechwriting-and-navigating-politics-in-the-age-of-trump
 ---
 

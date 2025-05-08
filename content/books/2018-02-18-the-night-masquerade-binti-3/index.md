@@ -18,6 +18,7 @@ tags:
 - Nnedi Okorafor
 title: 'The Night Masquerade (Binti, #3)'
 title_without_series: The Night Masquerade
+translationKey: 'The Night Masquerade (Binti, #3)'
 yaml: the-night-masquerade-binti-3
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Nick Sagan
 title: Edenborn
 title_without_series: Edenborn
+translationKey: Edenborn
 yaml: edenborn
 ---
 

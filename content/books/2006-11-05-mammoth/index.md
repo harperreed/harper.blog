@@ -18,6 +18,7 @@ tags:
 - John Varley
 title: Mammoth
 title_without_series: Mammoth
+translationKey: Mammoth
 yaml: mammoth
 ---
 

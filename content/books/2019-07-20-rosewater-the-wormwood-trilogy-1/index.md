@@ -19,6 +19,7 @@ tags:
 - Tade Thompson
 title: 'Rosewater (The Wormwood Trilogy, #1)'
 title_without_series: Rosewater
+translationKey: 'Rosewater (The Wormwood Trilogy, #1)'
 yaml: rosewater-the-wormwood-trilogy-1
 ---
 

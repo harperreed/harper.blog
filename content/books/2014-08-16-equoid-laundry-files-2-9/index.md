@@ -18,6 +18,7 @@ tags:
 - Charles Stross
 title: 'Equoid (Laundry Files, #2.9)'
 title_without_series: Equoid
+translationKey: 'Equoid (Laundry Files, #2.9)'
 yaml: equoid-laundry-files-2-9
 ---
 

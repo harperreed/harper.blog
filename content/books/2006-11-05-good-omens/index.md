@@ -18,6 +18,7 @@ tags:
 - Terry Pratchett
 title: Good Omens
 title_without_series: Good Omens
+translationKey: Good Omens
 yaml: good-omens
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Neal Asher
 title: Jack Four
 title_without_series: Jack Four
+translationKey: Jack Four
 yaml: jack-four
 ---
 

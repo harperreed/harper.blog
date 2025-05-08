@@ -18,6 +18,7 @@ tags:
 - Elizabeth Moon
 title: Command Desicion
 title_without_series: Command Desicion
+translationKey: Command Desicion
 yaml: command-desicion
 ---
 

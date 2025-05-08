@@ -18,6 +18,7 @@ tags:
 - John Scalzi
 title: The Kaiju Preservation Society
 title_without_series: The Kaiju Preservation Society
+translationKey: The Kaiju Preservation Society
 yaml: the-kaiju-preservation-society
 ---
 

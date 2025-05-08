@@ -19,6 +19,7 @@ tags:
 - Haruki Murakami
 title: Hard-Boiled Wonderland and the End of the World
 title_without_series: Hard-Boiled Wonderland and the End of the World
+translationKey: Hard-Boiled Wonderland and the End of the World
 yaml: hard-boiled-wonderland-and-the-end-of-the-world
 ---
 

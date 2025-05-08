@@ -19,6 +19,7 @@ tags:
 - Michael Zielenziger
 title: 'Shutting Out the Sun: How Japan Created Its Own Lost Generation'
 title_without_series: 'Shutting Out the Sun: How Japan Created Its Own Lost Generation'
+translationKey: 'Shutting Out the Sun: How Japan Created Its Own Lost Generation'
 yaml: shutting-out-the-sun-how-japan-created-its-own-lost-generation
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Suzanne Palmer
 title: 'Finder (Finder Chronicles, #1)'
 title_without_series: Finder
+translationKey: 'Finder (Finder Chronicles, #1)'
 yaml: finder-finder-chronicles-1
 ---
 

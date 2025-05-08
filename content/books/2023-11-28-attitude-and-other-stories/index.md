@@ -18,6 +18,7 @@ tags:
 - Linda Nagata
 title: Attitude and Other Stories
 title_without_series: Attitude and Other Stories
+translationKey: Attitude and Other Stories
 yaml: attitude-and-other-stories
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Annalee Newitz
 title: The Terraformers
 title_without_series: The Terraformers
+translationKey: The Terraformers
 yaml: the-terraformers
 ---
 

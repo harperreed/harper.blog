@@ -18,6 +18,7 @@ tags:
 - John Irving
 title: A Widow for One Year
 title_without_series: A Widow for One Year
+translationKey: A Widow for One Year
 yaml: a-widow-for-one-year
 ---
 

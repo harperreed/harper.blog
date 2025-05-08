@@ -18,6 +18,7 @@ tags:
 - Neal Stephenson
 title: Seveneves
 title_without_series: Seveneves
+translationKey: Seveneves
 yaml: seveneves
 ---
 

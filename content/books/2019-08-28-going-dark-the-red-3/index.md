@@ -18,6 +18,7 @@ tags:
 - Linda Nagata
 title: 'Going Dark (The Red #3)'
 title_without_series: Going Dark
+translationKey: 'Going Dark (The Red #3)'
 yaml: going-dark-the-red-3
 ---
 

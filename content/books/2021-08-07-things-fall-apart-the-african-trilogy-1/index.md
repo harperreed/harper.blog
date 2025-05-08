@@ -19,6 +19,7 @@ tags:
 - Chinua Achebe
 title: 'Things Fall Apart (The African Trilogy, #1)'
 title_without_series: Things Fall Apart
+translationKey: 'Things Fall Apart (The African Trilogy, #1)'
 yaml: things-fall-apart-the-african-trilogy-1
 ---
 

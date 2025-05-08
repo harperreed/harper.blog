@@ -18,6 +18,7 @@ tags:
 - J.M. Berger
 title: Optimal
 title_without_series: Optimal
+translationKey: Optimal
 yaml: optimal
 ---
 

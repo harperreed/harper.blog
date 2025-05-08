@@ -18,6 +18,7 @@ tags:
 - Viet Thanh Nguyen
 title: The Sympathizer
 title_without_series: The Sympathizer
+translationKey: The Sympathizer
 yaml: the-sympathizer
 ---
 

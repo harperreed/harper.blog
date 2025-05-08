@@ -19,6 +19,7 @@ tags:
 - Martha Wells
 title: 'The Wizard Hunters (The Fall of Ile-Rien, #1)'
 title_without_series: The Wizard Hunters
+translationKey: 'The Wizard Hunters (The Fall of Ile-Rien, #1)'
 yaml: the-wizard-hunters-the-fall-of-ile-rien-1
 ---
 

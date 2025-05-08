@@ -19,6 +19,7 @@ tags:
 - Liu Cixin
 title: 'The Dark Forest (Remembrance of Earth’s Past, #2)'
 title_without_series: The Dark Forest
+translationKey: 'The Dark Forest (Remembrance of Earth’s Past, #2)'
 yaml: the-dark-forest-remembrance-of-earths-past-2
 ---
 

@@ -21,6 +21,8 @@ title: 'Red Notice: A True Story of High Finance, Murder, and One Man’s Fight 
   Justice'
 title_without_series: 'Red Notice: A True Story of High Finance, Murder, and One Man’s
   Fight for Justice'
+translationKey: 'Red Notice: A True Story of High Finance, Murder, and One Man’s Fight
+  for Justice'
 yaml: red-notice-a-true-story-of-high-finance-murder-and-one-mans-fight-for-justice
 ---
 

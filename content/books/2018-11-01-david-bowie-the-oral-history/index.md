@@ -18,6 +18,7 @@ tags:
 - Dylan  Jones
 title: 'David Bowie: The Oral History'
 title_without_series: 'David Bowie: The Oral History'
+translationKey: 'David Bowie: The Oral History'
 yaml: david-bowie-the-oral-history
 ---
 

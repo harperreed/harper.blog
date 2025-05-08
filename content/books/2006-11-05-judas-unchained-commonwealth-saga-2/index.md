@@ -19,6 +19,7 @@ tags:
 - Peter F. Hamilton
 title: 'Judas Unchained (Commonwealth Saga #2)'
 title_without_series: Judas Unchained
+translationKey: 'Judas Unchained (Commonwealth Saga #2)'
 yaml: judas-unchained-commonwealth-saga-2
 ---
 

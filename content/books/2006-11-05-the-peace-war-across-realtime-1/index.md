@@ -18,6 +18,7 @@ tags:
 - Vernor Vinge
 title: 'The Peace War (Across Realtime, #1)'
 title_without_series: The Peace War
+translationKey: 'The Peace War (Across Realtime, #1)'
 yaml: the-peace-war-across-realtime-1
 ---
 

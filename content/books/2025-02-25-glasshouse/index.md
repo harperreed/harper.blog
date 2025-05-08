@@ -18,6 +18,7 @@ tags:
 - Charles Stross
 title: Glasshouse
 title_without_series: Glasshouse
+translationKey: Glasshouse
 yaml: glasshouse
 ---
 

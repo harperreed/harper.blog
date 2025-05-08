@@ -19,6 +19,7 @@ tags:
 - Mick Wall
 title: 'When Giants Walked the Earth: A Biography of Led Zeppelin'
 title_without_series: 'When Giants Walked the Earth: A Biography of Led Zeppelin'
+translationKey: 'When Giants Walked the Earth: A Biography of Led Zeppelin'
 yaml: when-giants-walked-the-earth-a-biography-of-led-zeppelin
 ---
 

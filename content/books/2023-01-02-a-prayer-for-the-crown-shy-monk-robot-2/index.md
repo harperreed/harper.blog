@@ -19,6 +19,7 @@ tags:
 - Becky  Chambers
 title: 'A Prayer for the Crown-Shy (Monk & Robot, #2)'
 title_without_series: A Prayer for the Crown-Shy
+translationKey: 'A Prayer for the Crown-Shy (Monk & Robot, #2)'
 yaml: a-prayer-for-the-crown-shy-monk-robot-2
 ---
 

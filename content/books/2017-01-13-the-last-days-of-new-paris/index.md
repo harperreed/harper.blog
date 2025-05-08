@@ -18,6 +18,7 @@ tags:
 - China Miéville
 title: The Last Days of New Paris
 title_without_series: The Last Days of New Paris
+translationKey: The Last Days of New Paris
 yaml: the-last-days-of-new-paris
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Tamsyn Muir
 title: 'Nona the Ninth (The Locked Tomb, #3)'
 title_without_series: Nona the Ninth
+translationKey: 'Nona the Ninth (The Locked Tomb, #3)'
 yaml: nona-the-ninth-the-locked-tomb-3
 ---
 

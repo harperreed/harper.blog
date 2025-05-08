@@ -18,6 +18,7 @@ tags:
 - Matt Ruff
 title: Lovecraft Country
 title_without_series: Lovecraft Country
+translationKey: Lovecraft Country
 yaml: lovecraft-country
 ---
 

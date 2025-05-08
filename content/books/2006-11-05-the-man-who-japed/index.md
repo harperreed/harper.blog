@@ -18,6 +18,7 @@ tags:
 - Philip K. Dick
 title: The Man Who Japed
 title_without_series: The Man Who Japed
+translationKey: The Man Who Japed
 yaml: the-man-who-japed
 ---
 

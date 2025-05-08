@@ -19,6 +19,7 @@ tags:
 - Alastair Reynolds
 title: 'On the Steel Breeze (Poseidon''s Children, #2)'
 title_without_series: On the Steel Breeze
+translationKey: 'On the Steel Breeze (Poseidon''s Children, #2)'
 yaml: on-the-steel-breeze-poseidon-s-children-2
 ---
 

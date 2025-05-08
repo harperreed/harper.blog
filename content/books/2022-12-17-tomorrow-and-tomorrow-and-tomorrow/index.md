@@ -19,6 +19,7 @@ tags:
 - Gabrielle Zevin
 title: Tomorrow, and Tomorrow, and Tomorrow
 title_without_series: Tomorrow, and Tomorrow, and Tomorrow
+translationKey: Tomorrow, and Tomorrow, and Tomorrow
 yaml: tomorrow-and-tomorrow-and-tomorrow
 ---
 

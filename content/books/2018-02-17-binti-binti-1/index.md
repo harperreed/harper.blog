@@ -18,6 +18,7 @@ tags:
 - Nnedi Okorafor
 title: 'Binti (Binti, #1)'
 title_without_series: Binti
+translationKey: 'Binti (Binti, #1)'
 yaml: binti-binti-1
 ---
 

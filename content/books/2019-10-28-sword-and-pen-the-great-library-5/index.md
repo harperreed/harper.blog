@@ -19,6 +19,7 @@ tags:
 - Rachel Caine
 title: 'Sword and Pen (The Great Library, #5)'
 title_without_series: Sword and Pen
+translationKey: 'Sword and Pen (The Great Library, #5)'
 yaml: sword-and-pen-the-great-library-5
 ---
 

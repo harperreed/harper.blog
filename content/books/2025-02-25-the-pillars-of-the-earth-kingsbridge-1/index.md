@@ -19,6 +19,7 @@ tags:
 - Ken Follett
 title: 'The Pillars of the Earth (Kingsbridge, #1)'
 title_without_series: The Pillars of the Earth
+translationKey: 'The Pillars of the Earth (Kingsbridge, #1)'
 yaml: the-pillars-of-the-earth-kingsbridge-1
 ---
 

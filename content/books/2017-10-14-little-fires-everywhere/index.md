@@ -18,6 +18,7 @@ tags:
 - Celeste Ng
 title: Little Fires Everywhere
 title_without_series: Little Fires Everywhere
+translationKey: Little Fires Everywhere
 yaml: little-fires-everywhere
 ---
 

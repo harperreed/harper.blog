@@ -19,6 +19,7 @@ tags:
 - Frank   Owen
 title: 'Clubland: The Fabulous Rise and Murderous Fall of Club Culture'
 title_without_series: 'Clubland: The Fabulous Rise and Murderous Fall of Club Culture'
+translationKey: 'Clubland: The Fabulous Rise and Murderous Fall of Club Culture'
 yaml: clubland-the-fabulous-rise-and-murderous-fall-of-club-culture
 ---
 

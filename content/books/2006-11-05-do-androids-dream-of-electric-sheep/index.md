@@ -19,6 +19,7 @@ tags:
 - Philip K. Dick
 title: Do Androids Dream of Electric Sheep?
 title_without_series: Do Androids Dream of Electric Sheep?
+translationKey: Do Androids Dream of Electric Sheep?
 yaml: do-androids-dream-of-electric-sheep
 ---
 

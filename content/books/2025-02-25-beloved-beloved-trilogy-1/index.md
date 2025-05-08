@@ -18,6 +18,7 @@ tags:
 - Toni Morrison
 title: 'Beloved (Beloved Trilogy, #1)'
 title_without_series: Beloved
+translationKey: 'Beloved (Beloved Trilogy, #1)'
 yaml: beloved-beloved-trilogy-1
 ---
 

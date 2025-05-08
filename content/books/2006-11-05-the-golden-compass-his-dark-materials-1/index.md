@@ -19,6 +19,7 @@ tags:
 - Philip Pullman
 title: 'The Golden Compass (His Dark Materials, #1)'
 title_without_series: The Golden Compass
+translationKey: 'The Golden Compass (His Dark Materials, #1)'
 yaml: the-golden-compass-his-dark-materials-1
 ---
 

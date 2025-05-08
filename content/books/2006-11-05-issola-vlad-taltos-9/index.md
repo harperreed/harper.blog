@@ -18,6 +18,7 @@ tags:
 - Steven Brust
 title: 'Issola (Vlad Taltos, #9)'
 title_without_series: Issola
+translationKey: 'Issola (Vlad Taltos, #9)'
 yaml: issola-vlad-taltos-9
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Alastair Reynolds
 title: Chasm City
 title_without_series: Chasm City
+translationKey: Chasm City
 yaml: chasm-city
 ---
 

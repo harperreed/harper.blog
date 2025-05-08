@@ -18,6 +18,7 @@ tags:
 - Philip Roth
 title: Patrimony
 title_without_series: Patrimony
+translationKey: Patrimony
 yaml: patrimony
 ---
 

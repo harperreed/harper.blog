@@ -19,6 +19,7 @@ tags:
 - Marc Spitz
 title: 'We Got the Neutron Bomb: The Untold Story of L.A. Punk'
 title_without_series: 'We Got the Neutron Bomb: The Untold Story of L.A. Punk'
+translationKey: 'We Got the Neutron Bomb: The Untold Story of L.A. Punk'
 yaml: we-got-the-neutron-bomb-the-untold-story-of-l-a-punk
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Isaac Asimov
 title: 'Second Foundation (Foundation, #3)'
 title_without_series: Second Foundation
+translationKey: 'Second Foundation (Foundation, #3)'
 yaml: second-foundation-foundation-3
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Becky  Chambers
 title: 'The Long Way to a Small, Angry Planet (Wayfarers, #1)'
 title_without_series: The Long Way to a Small, Angry Planet
+translationKey: 'The Long Way to a Small, Angry Planet (Wayfarers, #1)'
 yaml: the-long-way-to-a-small-angry-planet-wayfarers-1
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Emma Newman
 title: 'After Atlas (Planetfall, #2)'
 title_without_series: After Atlas
+translationKey: 'After Atlas (Planetfall, #2)'
 yaml: after-atlas-planetfall-2
 ---
 

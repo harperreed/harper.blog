@@ -18,6 +18,7 @@ tags:
 - Edward Snowden
 title: Permanent Record
 title_without_series: Permanent Record
+translationKey: Permanent Record
 yaml: permanent-record
 ---
 

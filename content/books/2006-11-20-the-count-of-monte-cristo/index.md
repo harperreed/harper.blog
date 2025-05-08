@@ -18,6 +18,7 @@ tags:
 - Alexandre Dumas
 title: The Count of Monte Cristo
 title_without_series: The Count of Monte Cristo
+translationKey: The Count of Monte Cristo
 yaml: the-count-of-monte-cristo
 ---
 

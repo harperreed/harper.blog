@@ -19,6 +19,7 @@ tags:
 - Charlie N. Holmberg
 title: 'The Glass Magician (The Paper Magician, #2)'
 title_without_series: The Glass Magician
+translationKey: 'The Glass Magician (The Paper Magician, #2)'
 yaml: the-glass-magician-the-paper-magician-2
 ---
 

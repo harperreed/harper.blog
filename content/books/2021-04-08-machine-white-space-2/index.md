@@ -18,6 +18,7 @@ tags:
 - Elizabeth Bear
 title: 'Machine (White Space, #2)'
 title_without_series: Machine
+translationKey: 'Machine (White Space, #2)'
 yaml: machine-white-space-2
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Suzanne Palmer
 title: 'Driving the Deep (Finder Chronicles, #2)'
 title_without_series: Driving the Deep
+translationKey: 'Driving the Deep (Finder Chronicles, #2)'
 yaml: driving-the-deep-finder-chronicles-2
 ---
 

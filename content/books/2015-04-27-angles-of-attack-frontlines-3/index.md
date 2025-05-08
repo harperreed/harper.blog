@@ -18,6 +18,7 @@ tags:
 - Marko Kloos
 title: 'Angles of Attack (Frontlines, #3)'
 title_without_series: Angles of Attack
+translationKey: 'Angles of Attack (Frontlines, #3)'
 yaml: angles-of-attack-frontlines-3
 ---
 

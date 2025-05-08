@@ -18,6 +18,7 @@ tags:
 - J. Sheridan Le Fanu
 title: In a Glass Darkly
 title_without_series: In a Glass Darkly
+translationKey: In a Glass Darkly
 yaml: in-a-glass-darkly
 ---
 

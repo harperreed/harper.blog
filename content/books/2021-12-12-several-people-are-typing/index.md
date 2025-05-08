@@ -18,6 +18,7 @@ tags:
 - Calvin Kasulke
 title: Several People Are Typing
 title_without_series: Several People Are Typing
+translationKey: Several People Are Typing
 yaml: several-people-are-typing
 ---
 

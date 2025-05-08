@@ -18,6 +18,7 @@ tags:
 - Kameron Hurley
 title: The Light Brigade
 title_without_series: The Light Brigade
+translationKey: The Light Brigade
 yaml: the-light-brigade
 ---
 

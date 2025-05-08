@@ -20,6 +20,8 @@ tags:
 title: 'Without You, There Is No Us: My Time with the Sons of North Korea''s Elite'
 title_without_series: 'Without You, There Is No Us: My Time with the Sons of North
   Korea''s Elite'
+translationKey: 'Without You, There Is No Us: My Time with the Sons of North Korea''s
+  Elite'
 yaml: without-you-there-is-no-us-my-time-with-the-sons-of-north-korea-s-elite
 ---
 

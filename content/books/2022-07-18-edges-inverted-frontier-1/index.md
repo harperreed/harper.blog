@@ -18,6 +18,7 @@ tags:
 - Linda Nagata
 title: 'Edges (Inverted Frontier, #1)'
 title_without_series: Edges
+translationKey: 'Edges (Inverted Frontier, #1)'
 yaml: edges-inverted-frontier-1
 ---
 

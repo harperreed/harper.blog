@@ -19,6 +19,7 @@ tags:
 - Mur Lafferty
 title: 'Chaos Terminal (The Midsolar Murders #2)'
 title_without_series: Chaos Terminal
+translationKey: 'Chaos Terminal (The Midsolar Murders #2)'
 yaml: chaos-terminal-the-midsolar-murders-2
 ---
 

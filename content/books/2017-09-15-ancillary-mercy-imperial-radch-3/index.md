@@ -18,6 +18,7 @@ tags:
 - Ann Leckie
 title: 'Ancillary Mercy (Imperial Radch, #3)'
 title_without_series: Ancillary Mercy
+translationKey: 'Ancillary Mercy (Imperial Radch, #3)'
 yaml: ancillary-mercy-imperial-radch-3
 ---
 

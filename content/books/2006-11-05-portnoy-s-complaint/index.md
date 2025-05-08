@@ -18,6 +18,7 @@ tags:
 - Philip Roth
 title: Portnoy's Complaint
 title_without_series: Portnoy's Complaint
+translationKey: Portnoy's Complaint
 yaml: portnoy-s-complaint
 ---
 

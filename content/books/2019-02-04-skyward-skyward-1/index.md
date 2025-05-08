@@ -18,6 +18,7 @@ tags:
 - Brandon Sanderson
 title: 'Skyward (Skyward, #1)'
 title_without_series: Skyward
+translationKey: 'Skyward (Skyward, #1)'
 yaml: skyward-skyward-1
 ---
 

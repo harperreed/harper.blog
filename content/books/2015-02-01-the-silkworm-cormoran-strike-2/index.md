@@ -19,6 +19,7 @@ tags:
 - Robert Galbraith
 title: 'The Silkworm (Cormoran Strike, #2)'
 title_without_series: The Silkworm
+translationKey: 'The Silkworm (Cormoran Strike, #2)'
 yaml: the-silkworm-cormoran-strike-2
 ---
 

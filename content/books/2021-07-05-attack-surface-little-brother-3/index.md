@@ -18,6 +18,7 @@ tags:
 - Cory Doctorow
 title: 'Attack Surface (Little Brother, #3)'
 title_without_series: Attack Surface
+translationKey: 'Attack Surface (Little Brother, #3)'
 yaml: attack-surface-little-brother-3
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Robin Sloan
 title: Sourdough
 title_without_series: Sourdough
+translationKey: Sourdough
 yaml: sourdough
 ---
 

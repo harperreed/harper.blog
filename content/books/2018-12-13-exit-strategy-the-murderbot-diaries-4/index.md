@@ -19,6 +19,7 @@ tags:
 - Martha Wells
 title: 'Exit Strategy (The Murderbot Diaries, #4)'
 title_without_series: Exit Strategy
+translationKey: 'Exit Strategy (The Murderbot Diaries, #4)'
 yaml: exit-strategy-the-murderbot-diaries-4
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Christopher Ruocchio
 title: 'Howling Dark (Sun Eater #2)'
 title_without_series: Howling Dark
+translationKey: 'Howling Dark (Sun Eater #2)'
 yaml: howling-dark-sun-eater-2
 ---
 

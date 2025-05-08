@@ -18,6 +18,7 @@ tags:
 - Paolo Bacigalupi
 title: The Windup Girl
 title_without_series: The Windup Girl
+translationKey: The Windup Girl
 yaml: the-windup-girl
 ---
 

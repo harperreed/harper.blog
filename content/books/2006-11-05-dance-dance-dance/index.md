@@ -18,6 +18,7 @@ tags:
 - Haruki Murakami
 title: Dance Dance Dance
 title_without_series: Dance Dance Dance
+translationKey: Dance Dance Dance
 yaml: dance-dance-dance
 ---
 

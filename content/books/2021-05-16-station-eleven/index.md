@@ -18,6 +18,7 @@ tags:
 - Emily St. John Mandel
 title: Station Eleven
 title_without_series: Station Eleven
+translationKey: Station Eleven
 yaml: station-eleven
 ---
 

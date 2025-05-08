@@ -19,6 +19,7 @@ tags:
 - James S.A. Corey
 title: 'Leviathan Wakes (The Expanse, #1)'
 title_without_series: Leviathan Wakes
+translationKey: 'Leviathan Wakes (The Expanse, #1)'
 yaml: leviathan-wakes-the-expanse-1
 ---
 

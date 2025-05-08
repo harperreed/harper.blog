@@ -19,6 +19,7 @@ tags:
 - Jason  Matthews
 title: 'Red Sparrow (Red Sparrow Trilogy #1)'
 title_without_series: Red Sparrow
+translationKey: 'Red Sparrow (Red Sparrow Trilogy #1)'
 yaml: red-sparrow-red-sparrow-trilogy-1
 ---
 

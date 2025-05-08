@@ -18,6 +18,7 @@ tags:
 - Blake Crouch
 title: 'Pines (Wayward Pines, #1)'
 title_without_series: Pines
+translationKey: 'Pines (Wayward Pines, #1)'
 yaml: pines-wayward-pines-1
 ---
 

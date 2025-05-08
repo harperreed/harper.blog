@@ -19,6 +19,7 @@ tags:
 - Khalida Brohi
 title: 'I Should Have Honor: A Memoir of Hope and Pride in Pakistan'
 title_without_series: 'I Should Have Honor: A Memoir of Hope and Pride in Pakistan'
+translationKey: 'I Should Have Honor: A Memoir of Hope and Pride in Pakistan'
 yaml: i-should-have-honor-a-memoir-of-hope-and-pride-in-pakistan
 ---
 

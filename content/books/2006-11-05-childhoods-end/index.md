@@ -18,6 +18,7 @@ tags:
 - Arthur C. Clarke
 title: Childhood’s End
 title_without_series: Childhood’s End
+translationKey: Childhood’s End
 yaml: childhoods-end
 ---
 

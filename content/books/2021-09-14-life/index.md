@@ -18,6 +18,7 @@ tags:
 - Keith Richards
 title: Life
 title_without_series: Life
+translationKey: Life
 yaml: life
 ---
 

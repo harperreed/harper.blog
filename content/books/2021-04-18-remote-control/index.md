@@ -18,6 +18,7 @@ tags:
 - Nnedi Okorafor
 title: Remote Control
 title_without_series: Remote Control
+translationKey: Remote Control
 yaml: remote-control
 ---
 

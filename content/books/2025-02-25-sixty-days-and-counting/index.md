@@ -18,6 +18,7 @@ tags:
 - Kim Stanley Robinson
 title: Sixty Days and Counting
 title_without_series: Sixty Days and Counting
+translationKey: Sixty Days and Counting
 yaml: sixty-days-and-counting
 ---
 

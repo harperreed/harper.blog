@@ -19,6 +19,7 @@ tags:
 - Tana French
 title: 'The Secret Place (Dublin Murder Squad, #5)'
 title_without_series: The Secret Place
+translationKey: 'The Secret Place (Dublin Murder Squad, #5)'
 yaml: the-secret-place-dublin-murder-squad-5
 ---
 

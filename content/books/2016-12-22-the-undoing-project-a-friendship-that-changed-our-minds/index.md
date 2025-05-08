@@ -19,6 +19,7 @@ tags:
 - Michael   Lewis
 title: 'The Undoing Project: A Friendship That Changed Our Minds'
 title_without_series: 'The Undoing Project: A Friendship That Changed Our Minds'
+translationKey: 'The Undoing Project: A Friendship That Changed Our Minds'
 yaml: the-undoing-project-a-friendship-that-changed-our-minds
 ---
 

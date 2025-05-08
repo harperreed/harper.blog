@@ -18,6 +18,7 @@ tags:
 - Alastair Reynolds
 title: Century Rain
 title_without_series: Century Rain
+translationKey: Century Rain
 yaml: century-rain
 ---
 

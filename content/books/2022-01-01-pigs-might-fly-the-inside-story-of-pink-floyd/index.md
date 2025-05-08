@@ -19,6 +19,7 @@ tags:
 - Mark Blake
 title: 'Pigs Might Fly: The Inside Story of Pink Floyd'
 title_without_series: 'Pigs Might Fly: The Inside Story of Pink Floyd'
+translationKey: 'Pigs Might Fly: The Inside Story of Pink Floyd'
 yaml: pigs-might-fly-the-inside-story-of-pink-floyd
 ---
 

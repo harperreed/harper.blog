@@ -18,6 +18,7 @@ tags:
 - Vernor Vinge
 title: Tatja Grimm's World
 title_without_series: Tatja Grimm's World
+translationKey: Tatja Grimm's World
 yaml: tatja-grimm-s-world
 ---
 

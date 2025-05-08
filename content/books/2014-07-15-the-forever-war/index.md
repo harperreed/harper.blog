@@ -18,6 +18,7 @@ tags:
 - Joe Haldeman
 title: The Forever War
 title_without_series: The Forever War
+translationKey: The Forever War
 yaml: the-forever-war
 ---
 

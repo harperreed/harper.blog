@@ -18,6 +18,7 @@ tags:
 - Karl Schroeder
 title: Lockstep
 title_without_series: Lockstep
+translationKey: Lockstep
 yaml: lockstep
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Alastair Reynolds
 title: Permafrost
 title_without_series: Permafrost
+translationKey: Permafrost
 yaml: permafrost
 ---
 

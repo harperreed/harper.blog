@@ -19,6 +19,7 @@ tags:
 - Garrett M. Graff
 title: 'The Only Plane in the Sky: An Oral History of 9/11'
 title_without_series: 'The Only Plane in the Sky: An Oral History of 9/11'
+translationKey: 'The Only Plane in the Sky: An Oral History of 9/11'
 yaml: the-only-plane-in-the-sky-an-oral-history-of-9-11
 ---
 

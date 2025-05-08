@@ -18,6 +18,7 @@ tags:
 - Jack Williamson
 title: Beachhead
 title_without_series: Beachhead
+translationKey: Beachhead
 yaml: beachhead
 ---
 

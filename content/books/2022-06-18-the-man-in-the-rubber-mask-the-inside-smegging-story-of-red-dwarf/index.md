@@ -20,6 +20,7 @@ tags:
 title: 'The Man In The Rubber Mask: The Inside Smegging Story of Red Dwarf'
 title_without_series: 'The Man In The Rubber Mask: The Inside Smegging Story of Red
   Dwarf'
+translationKey: 'The Man In The Rubber Mask: The Inside Smegging Story of Red Dwarf'
 yaml: the-man-in-the-rubber-mask-the-inside-smegging-story-of-red-dwarf
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Dan Simmons
 title: Darwin's Blade
 title_without_series: Darwin's Blade
+translationKey: Darwin's Blade
 yaml: darwin-s-blade
 ---
 

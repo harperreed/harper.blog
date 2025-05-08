@@ -18,6 +18,7 @@ tags:
 - Mary Robinette Kowal
 title: The Spare Man
 title_without_series: The Spare Man
+translationKey: The Spare Man
 yaml: the-spare-man
 ---
 

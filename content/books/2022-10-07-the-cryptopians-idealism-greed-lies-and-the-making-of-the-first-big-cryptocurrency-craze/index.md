@@ -21,6 +21,8 @@ title: 'The Cryptopians: Idealism, Greed, Lies, and the Making of the First Big 
   Craze'
 title_without_series: 'The Cryptopians: Idealism, Greed, Lies, and the Making of the
   First Big Cryptocurrency Craze'
+translationKey: 'The Cryptopians: Idealism, Greed, Lies, and the Making of the First
+  Big Cryptocurrency Craze'
 yaml: the-cryptopians-idealism-greed-lies-and-the-making-of-the-first-big-cryptocurrency-craze
 ---
 

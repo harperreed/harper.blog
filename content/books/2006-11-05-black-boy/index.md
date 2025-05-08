@@ -18,6 +18,7 @@ tags:
 - Richard Wright
 title: Black Boy
 title_without_series: Black Boy
+translationKey: Black Boy
 yaml: black-boy
 ---
 

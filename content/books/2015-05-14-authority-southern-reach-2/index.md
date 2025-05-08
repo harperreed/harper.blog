@@ -18,6 +18,7 @@ tags:
 - Jeff VanderMeer
 title: 'Authority (Southern Reach #2)'
 title_without_series: Authority
+translationKey: 'Authority (Southern Reach #2)'
 yaml: authority-southern-reach-2
 ---
 

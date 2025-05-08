@@ -19,6 +19,7 @@ tags:
 - Liu Cixin
 title: 'The Three-Body Problem (Remembrance of Earth’s Past, #1)'
 title_without_series: The Three-Body Problem
+translationKey: 'The Three-Body Problem (Remembrance of Earth’s Past, #1)'
 yaml: the-three-body-problem-remembrance-of-earths-past-1
 ---
 

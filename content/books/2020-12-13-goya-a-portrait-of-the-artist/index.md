@@ -18,6 +18,7 @@ tags:
 - Janis A. Tomlinson
 title: 'Goya: A Portrait of the Artist'
 title_without_series: 'Goya: A Portrait of the Artist'
+translationKey: 'Goya: A Portrait of the Artist'
 yaml: goya-a-portrait-of-the-artist
 ---
 

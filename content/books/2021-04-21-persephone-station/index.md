@@ -18,6 +18,7 @@ tags:
 - Stina Leicht
 title: Persephone Station
 title_without_series: Persephone Station
+translationKey: Persephone Station
 yaml: persephone-station
 ---
 

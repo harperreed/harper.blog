@@ -18,6 +18,7 @@ tags:
 - Khaled Hosseini
 title: A Thousand Splendid Suns
 title_without_series: A Thousand Splendid Suns
+translationKey: A Thousand Splendid Suns
 yaml: a-thousand-splendid-suns
 ---
 

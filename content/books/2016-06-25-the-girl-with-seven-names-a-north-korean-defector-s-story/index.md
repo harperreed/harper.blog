@@ -19,6 +19,7 @@ tags:
 - Hyeonseo Lee
 title: 'The Girl with Seven Names: A North Korean Defector''s Story'
 title_without_series: 'The Girl with Seven Names: A North Korean Defector''s Story'
+translationKey: 'The Girl with Seven Names: A North Korean Defector''s Story'
 yaml: the-girl-with-seven-names-a-north-korean-defector-s-story
 ---
 

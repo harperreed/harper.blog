@@ -18,6 +18,7 @@ tags:
 - Michael Mammay
 title: 'Planetside (Planetside #1)'
 title_without_series: Planetside
+translationKey: 'Planetside (Planetside #1)'
 yaml: planetside-planetside-1
 ---
 

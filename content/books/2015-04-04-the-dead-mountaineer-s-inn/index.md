@@ -18,6 +18,7 @@ tags:
 - Arkady Strugatsky
 title: The Dead Mountaineer's Inn
 title_without_series: The Dead Mountaineer's Inn
+translationKey: The Dead Mountaineer's Inn
 yaml: the-dead-mountaineer-s-inn
 ---
 

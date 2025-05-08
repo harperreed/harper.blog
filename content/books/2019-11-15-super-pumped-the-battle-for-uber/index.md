@@ -18,6 +18,7 @@ tags:
 - Mike Isaac
 title: 'Super Pumped: The Battle for Uber'
 title_without_series: 'Super Pumped: The Battle for Uber'
+translationKey: 'Super Pumped: The Battle for Uber'
 yaml: super-pumped-the-battle-for-uber
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Elizabeth Moon
 title: 'Marque and Reprisal (Vatta''s War, #2)'
 title_without_series: Marque and Reprisal
+translationKey: 'Marque and Reprisal (Vatta''s War, #2)'
 yaml: marque-and-reprisal-vatta-s-war-2
 ---
 

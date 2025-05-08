@@ -19,6 +19,7 @@ tags:
 - Arkady Martine
 title: 'A Desolation Called Peace (Teixcalaan, #2)'
 title_without_series: A Desolation Called Peace
+translationKey: 'A Desolation Called Peace (Teixcalaan, #2)'
 yaml: a-desolation-called-peace-teixcalaan-2
 ---
 

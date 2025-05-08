@@ -19,6 +19,7 @@ tags:
 - Legs McNeil
 title: 'Please Kill Me: The Uncensored Oral History of Punk'
 title_without_series: 'Please Kill Me: The Uncensored Oral History of Punk'
+translationKey: 'Please Kill Me: The Uncensored Oral History of Punk'
 yaml: please-kill-me-the-uncensored-oral-history-of-punk
 ---
 

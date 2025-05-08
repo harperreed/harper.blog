@@ -18,6 +18,7 @@ tags:
 - Mohsin Hamid
 title: The Reluctant Fundamentalist
 title_without_series: The Reluctant Fundamentalist
+translationKey: The Reluctant Fundamentalist
 yaml: the-reluctant-fundamentalist
 ---
 

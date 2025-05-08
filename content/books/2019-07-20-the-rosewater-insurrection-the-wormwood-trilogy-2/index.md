@@ -19,6 +19,7 @@ tags:
 - Tade Thompson
 title: 'The Rosewater Insurrection (The Wormwood Trilogy #2)'
 title_without_series: The Rosewater Insurrection
+translationKey: 'The Rosewater Insurrection (The Wormwood Trilogy #2)'
 yaml: the-rosewater-insurrection-the-wormwood-trilogy-2
 ---
 

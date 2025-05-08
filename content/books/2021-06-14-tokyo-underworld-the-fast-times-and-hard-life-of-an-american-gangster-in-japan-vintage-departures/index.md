@@ -21,6 +21,8 @@ title: 'Tokyo Underworld: The Fast Times and Hard Life of an American Gangster i
   Japan (Vintage Departures)'
 title_without_series: 'Tokyo Underworld: The Fast Times and Hard Life of an American
   Gangster in Japan'
+translationKey: 'Tokyo Underworld: The Fast Times and Hard Life of an American Gangster
+  in Japan (Vintage Departures)'
 yaml: tokyo-underworld-the-fast-times-and-hard-life-of-an-american-gangster-in-japan-vintage-departures
 ---
 

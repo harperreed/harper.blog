@@ -20,6 +20,7 @@ tags:
 - Daniel Suarez
 title: 'Heir Apparent: A Short Story'
 title_without_series: 'Heir Apparent: A Short Story'
+translationKey: 'Heir Apparent: A Short Story'
 yaml: heir-apparent-a-short-story
 ---
 

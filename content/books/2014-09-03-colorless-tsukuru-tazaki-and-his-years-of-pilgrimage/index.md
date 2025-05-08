@@ -19,6 +19,7 @@ tags:
 - Haruki Murakami
 title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
 title_without_series: Colorless Tsukuru Tazaki and His Years of Pilgrimage
+translationKey: Colorless Tsukuru Tazaki and His Years of Pilgrimage
 yaml: colorless-tsukuru-tazaki-and-his-years-of-pilgrimage
 ---
 

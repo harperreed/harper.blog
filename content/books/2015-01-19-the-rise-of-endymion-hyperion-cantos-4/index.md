@@ -19,6 +19,7 @@ tags:
 - Dan Simmons
 title: 'The Rise of Endymion (Hyperion Cantos, #4)'
 title_without_series: The Rise of Endymion
+translationKey: 'The Rise of Endymion (Hyperion Cantos, #4)'
 yaml: the-rise-of-endymion-hyperion-cantos-4
 ---
 

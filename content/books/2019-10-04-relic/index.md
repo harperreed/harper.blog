@@ -18,6 +18,7 @@ tags:
 - Alan Dean Foster
 title: Relic
 title_without_series: Relic
+translationKey: Relic
 yaml: relic
 ---
 

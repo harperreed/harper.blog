@@ -18,6 +18,7 @@ tags:
 - Mur Lafferty
 title: Six Wakes
 title_without_series: Six Wakes
+translationKey: Six Wakes
 yaml: six-wakes
 ---
 

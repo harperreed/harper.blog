@@ -21,6 +21,7 @@ tags:
 - T. Kingfisher
 title: 'Paladin''s Grace (The Saint of Steel, #1)'
 title_without_series: Paladin's Grace
+translationKey: 'Paladin''s Grace (The Saint of Steel, #1)'
 yaml: paladin-s-grace-the-saint-of-steel-1
 ---
 

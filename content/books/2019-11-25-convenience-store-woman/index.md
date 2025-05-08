@@ -18,6 +18,7 @@ tags:
 - Sayaka Murata
 title: Convenience Store Woman
 title_without_series: Convenience Store Woman
+translationKey: Convenience Store Woman
 yaml: convenience-store-woman
 ---
 

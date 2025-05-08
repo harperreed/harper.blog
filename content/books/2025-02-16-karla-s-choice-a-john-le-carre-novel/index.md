@@ -20,6 +20,7 @@ tags:
 - Nick Harkaway
 title: 'Karla''s Choice: A John le Carré Novel'
 title_without_series: 'Karla''s Choice: A John le Carré Novel'
+translationKey: 'Karla''s Choice: A John le Carré Novel'
 yaml: karla-s-choice-a-john-le-carre-novel
 ---
 

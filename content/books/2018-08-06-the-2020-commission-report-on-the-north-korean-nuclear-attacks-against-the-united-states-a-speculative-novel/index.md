@@ -21,6 +21,8 @@ title: 'The 2020 Commission Report on the North Korean Nuclear Attacks Against t
   United States: A Speculative Novel'
 title_without_series: 'The 2020 Commission Report on the North Korean Nuclear Attacks
   Against the United States: A Speculative Novel'
+translationKey: 'The 2020 Commission Report on the North Korean Nuclear Attacks Against
+  the United States: A Speculative Novel'
 yaml: the-2020-commission-report-on-the-north-korean-nuclear-attacks-against-the-united-states-a-speculative-novel
 ---
 

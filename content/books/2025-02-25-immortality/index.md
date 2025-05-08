@@ -18,6 +18,7 @@ tags:
 - Kevin Bohacz
 title: Immortality
 title_without_series: Immortality
+translationKey: Immortality
 yaml: immortality
 ---
 

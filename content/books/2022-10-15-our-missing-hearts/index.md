@@ -18,6 +18,7 @@ tags:
 - Celeste Ng
 title: Our Missing Hearts
 title_without_series: Our Missing Hearts
+translationKey: Our Missing Hearts
 yaml: our-missing-hearts
 ---
 

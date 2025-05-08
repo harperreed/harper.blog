@@ -18,6 +18,7 @@ tags:
 - Natsume Sōseki
 title: Kokoro
 title_without_series: Kokoro
+translationKey: Kokoro
 yaml: kokoro
 ---
 

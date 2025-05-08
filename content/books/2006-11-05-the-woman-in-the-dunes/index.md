@@ -18,6 +18,7 @@ tags:
 - Kōbō Abe
 title: The Woman in the Dunes
 title_without_series: The Woman in the Dunes
+translationKey: The Woman in the Dunes
 yaml: the-woman-in-the-dunes
 ---
 

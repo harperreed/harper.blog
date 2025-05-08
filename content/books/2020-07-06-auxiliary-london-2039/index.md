@@ -18,6 +18,7 @@ tags:
 - Jon Richter
 title: 'Auxiliary: London 2039'
 title_without_series: 'Auxiliary: London 2039'
+translationKey: 'Auxiliary: London 2039'
 yaml: auxiliary-london-2039
 ---
 

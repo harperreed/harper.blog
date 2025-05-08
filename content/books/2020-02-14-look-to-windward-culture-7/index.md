@@ -18,6 +18,7 @@ tags:
 - Iain M. Banks
 title: 'Look to Windward (Culture, #7)'
 title_without_series: Look to Windward
+translationKey: 'Look to Windward (Culture, #7)'
 yaml: look-to-windward-culture-7
 ---
 

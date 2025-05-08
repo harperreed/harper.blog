@@ -18,6 +18,7 @@ tags:
 - Linda Nagata
 title: 'The Trials (The Red, #2)'
 title_without_series: The Trials
+translationKey: 'The Trials (The Red, #2)'
 yaml: the-trials-the-red-2
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Iain M. Banks
 title: 'The Player of Games (Culture, #2)'
 title_without_series: The Player of Games
+translationKey: 'The Player of Games (Culture, #2)'
 yaml: the-player-of-games-culture-2
 ---
 

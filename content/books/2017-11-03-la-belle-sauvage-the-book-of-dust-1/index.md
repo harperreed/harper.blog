@@ -19,6 +19,7 @@ tags:
 - Philip Pullman
 title: 'La Belle Sauvage (The Book of Dust, #1)'
 title_without_series: La Belle Sauvage
+translationKey: 'La Belle Sauvage (The Book of Dust, #1)'
 yaml: la-belle-sauvage-the-book-of-dust-1
 ---
 

@@ -18,6 +18,7 @@ tags:
 - John Scalzi
 title: Starter Villain
 title_without_series: Starter Villain
+translationKey: Starter Villain
 yaml: starter-villain
 ---
 

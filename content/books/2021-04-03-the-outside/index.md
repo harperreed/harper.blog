@@ -18,6 +18,7 @@ tags:
 - Ada Hoffmann
 title: The Outside
 title_without_series: The Outside
+translationKey: The Outside
 yaml: the-outside
 ---
 

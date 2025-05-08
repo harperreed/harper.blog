@@ -19,6 +19,7 @@ tags:
 - Mary Robinette Kowal
 title: 'The Relentless Moon (Lady Astronaut Universe #3)'
 title_without_series: The Relentless Moon
+translationKey: 'The Relentless Moon (Lady Astronaut Universe #3)'
 yaml: the-relentless-moon-lady-astronaut-universe-3
 ---
 

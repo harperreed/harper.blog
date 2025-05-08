@@ -18,6 +18,7 @@ tags:
 - Naomi Novik
 title: Uprooted
 title_without_series: Uprooted
+translationKey: Uprooted
 yaml: uprooted
 ---
 

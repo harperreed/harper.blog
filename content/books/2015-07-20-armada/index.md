@@ -18,6 +18,7 @@ tags:
 - Ernest Cline
 title: Armada
 title_without_series: Armada
+translationKey: Armada
 yaml: armada
 ---
 

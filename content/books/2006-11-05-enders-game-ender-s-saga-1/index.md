@@ -18,6 +18,7 @@ tags:
 - Orson Scott Card
 title: 'Ender’s Game (Ender''s Saga, #1)'
 title_without_series: Ender’s Game
+translationKey: 'Ender’s Game (Ender''s Saga, #1)'
 yaml: enders-game-ender-s-saga-1
 ---
 

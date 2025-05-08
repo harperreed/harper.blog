@@ -19,6 +19,7 @@ tags:
 - John Scalzi
 title: 'Murder by Other Means (The Dispatcher, #2)'
 title_without_series: Murder by Other Means
+translationKey: 'Murder by Other Means (The Dispatcher, #2)'
 yaml: murder-by-other-means-the-dispatcher-2
 ---
 

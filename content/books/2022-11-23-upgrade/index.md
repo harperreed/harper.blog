@@ -18,6 +18,7 @@ tags:
 - Blake Crouch
 title: Upgrade
 title_without_series: Upgrade
+translationKey: Upgrade
 yaml: upgrade
 ---
 

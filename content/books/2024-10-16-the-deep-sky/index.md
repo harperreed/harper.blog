@@ -18,6 +18,7 @@ tags:
 - Yume Kitasei
 title: The Deep Sky
 title_without_series: The Deep Sky
+translationKey: The Deep Sky
 yaml: the-deep-sky
 ---
 

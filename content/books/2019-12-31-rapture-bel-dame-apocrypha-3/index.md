@@ -18,6 +18,7 @@ tags:
 - Kameron Hurley
 title: 'Rapture (Bel Dame Apocrypha, #3)'
 title_without_series: Rapture
+translationKey: 'Rapture (Bel Dame Apocrypha, #3)'
 yaml: rapture-bel-dame-apocrypha-3
 ---
 

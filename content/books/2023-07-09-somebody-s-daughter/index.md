@@ -18,6 +18,7 @@ tags:
 - Ashley C. Ford
 title: Somebody's Daughter
 title_without_series: Somebody's Daughter
+translationKey: Somebody's Daughter
 yaml: somebody-s-daughter
 ---
 

@@ -18,6 +18,7 @@ tags:
 - William Gibson
 title: 'Pattern Recognition (Blue Ant, #1)'
 title_without_series: Pattern Recognition
+translationKey: 'Pattern Recognition (Blue Ant, #1)'
 yaml: pattern-recognition-blue-ant-1
 ---
 

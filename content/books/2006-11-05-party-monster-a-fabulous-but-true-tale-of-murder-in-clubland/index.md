@@ -19,6 +19,7 @@ tags:
 - James St. James
 title: 'Party Monster: A Fabulous But True Tale of Murder in Clubland'
 title_without_series: 'Party Monster: A Fabulous But True Tale of Murder in Clubland'
+translationKey: 'Party Monster: A Fabulous But True Tale of Murder in Clubland'
 yaml: party-monster-a-fabulous-but-true-tale-of-murder-in-clubland
 ---
 

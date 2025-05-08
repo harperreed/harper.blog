@@ -18,6 +18,7 @@ tags:
 - Albert Camus
 title: The Fall
 title_without_series: The Fall
+translationKey: The Fall
 yaml: the-fall
 ---
 

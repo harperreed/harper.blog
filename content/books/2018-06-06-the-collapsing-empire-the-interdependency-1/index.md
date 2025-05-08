@@ -19,6 +19,7 @@ tags:
 - John Scalzi
 title: 'The Collapsing Empire (The Interdependency, #1)'
 title_without_series: The Collapsing Empire
+translationKey: 'The Collapsing Empire (The Interdependency, #1)'
 yaml: the-collapsing-empire-the-interdependency-1
 ---
 

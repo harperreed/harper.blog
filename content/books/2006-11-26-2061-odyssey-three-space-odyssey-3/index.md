@@ -19,6 +19,7 @@ tags:
 - Arthur C. Clarke
 title: '2061: Odyssey Three (Space Odyssey, #3)'
 title_without_series: '2061: Odyssey Three'
+translationKey: '2061: Odyssey Three (Space Odyssey, #3)'
 yaml: 2061-odyssey-three-space-odyssey-3
 ---
 

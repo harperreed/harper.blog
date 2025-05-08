@@ -20,6 +20,8 @@ tags:
 title: 'Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger'
 title_without_series: 'Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles
   T. Munger'
+translationKey: 'Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles
+  T. Munger'
 yaml: poor-charlies-almanack-the-essential-wit-and-wisdom-of-charles-t-munger
 ---
 

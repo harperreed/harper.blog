@@ -18,6 +18,7 @@ tags:
 - Sarah Gailey
 title: The Echo Wife
 title_without_series: The Echo Wife
+translationKey: The Echo Wife
 yaml: the-echo-wife
 ---
 

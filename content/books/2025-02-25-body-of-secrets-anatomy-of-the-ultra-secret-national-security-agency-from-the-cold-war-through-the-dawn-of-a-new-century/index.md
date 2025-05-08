@@ -22,6 +22,8 @@ title: 'Body of Secrets: Anatomy of the Ultra-Secret National Security Agency fr
   the Cold War Through the Dawn of a New Century'
 title_without_series: 'Body of Secrets: Anatomy of the Ultra-Secret National Security
   Agency from the Cold War Through the Dawn of a New Century'
+translationKey: 'Body of Secrets: Anatomy of the Ultra-Secret National Security Agency
+  from the Cold War Through the Dawn of a New Century'
 yaml: body-of-secrets-anatomy-of-the-ultra-secret-national-security-agency-from-the-cold-war-through-the-dawn-of-a-new-century
 ---
 

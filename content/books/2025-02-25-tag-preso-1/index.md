@@ -18,6 +18,7 @@ tags:
 - Keith Giffen
 title: 'Tag - Preso! #1'
 title_without_series: 'Tag - Preso! #1'
+translationKey: 'Tag - Preso! #1'
 yaml: tag-preso-1
 ---
 

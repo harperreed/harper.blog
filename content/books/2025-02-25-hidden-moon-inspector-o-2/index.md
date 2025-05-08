@@ -18,6 +18,7 @@ tags:
 - James  Church
 title: 'Hidden Moon (Inspector O, #2)'
 title_without_series: Hidden Moon
+translationKey: 'Hidden Moon (Inspector O, #2)'
 yaml: hidden-moon-inspector-o-2
 ---
 

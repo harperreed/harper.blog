@@ -19,6 +19,7 @@ tags:
 - Anthony Bourdain
 title: 'Kitchen Confidential: Adventures in the Culinary Underbelly'
 title_without_series: 'Kitchen Confidential: Adventures in the Culinary Underbelly'
+translationKey: 'Kitchen Confidential: Adventures in the Culinary Underbelly'
 yaml: kitchen-confidential-adventures-in-the-culinary-underbelly
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Vernor Vinge
 title: 'A Deepness in the Sky (Zones of Thought, #2)'
 title_without_series: A Deepness in the Sky
+translationKey: 'A Deepness in the Sky (Zones of Thought, #2)'
 yaml: a-deepness-in-the-sky-zones-of-thought-2
 ---
 

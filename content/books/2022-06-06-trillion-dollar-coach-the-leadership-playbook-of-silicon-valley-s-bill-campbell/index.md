@@ -20,6 +20,8 @@ tags:
 title: 'Trillion Dollar Coach: The Leadership Playbook of Silicon Valley''s Bill Campbell'
 title_without_series: 'Trillion Dollar Coach: The Leadership Playbook of Silicon Valley''s
   Bill Campbell'
+translationKey: 'Trillion Dollar Coach: The Leadership Playbook of Silicon Valley''s
+  Bill Campbell'
 yaml: trillion-dollar-coach-the-leadership-playbook-of-silicon-valley-s-bill-campbell
 ---
 

@@ -20,6 +20,7 @@ tags:
 title: 'Ghosts of the Tsunami: Death and Life in Japan''s Disaster Zone'
 title_without_series: 'Ghosts of the Tsunami: Death and Life in Japan''s Disaster
   Zone'
+translationKey: 'Ghosts of the Tsunami: Death and Life in Japan''s Disaster Zone'
 yaml: ghosts-of-the-tsunami-death-and-life-in-japan-s-disaster-zone
 ---
 

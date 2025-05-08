@@ -20,6 +20,7 @@ tags:
 title: 'Blackwater: The Rise of the World''s Most Powerful Mercenary Army'
 title_without_series: 'Blackwater: The Rise of the World''s Most Powerful Mercenary
   Army'
+translationKey: 'Blackwater: The Rise of the World''s Most Powerful Mercenary Army'
 yaml: blackwater-the-rise-of-the-world-s-most-powerful-mercenary-army
 ---
 

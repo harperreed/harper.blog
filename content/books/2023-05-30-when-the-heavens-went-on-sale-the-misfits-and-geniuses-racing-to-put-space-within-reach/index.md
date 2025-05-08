@@ -21,6 +21,8 @@ title: 'When the Heavens Went on Sale: The Misfits and Geniuses Racing to Put Sp
   Within Reach'
 title_without_series: 'When the Heavens Went on Sale: The Misfits and Geniuses Racing
   to Put Space Within Reach'
+translationKey: 'When the Heavens Went on Sale: The Misfits and Geniuses Racing to
+  Put Space Within Reach'
 yaml: when-the-heavens-went-on-sale-the-misfits-and-geniuses-racing-to-put-space-within-reach
 ---
 

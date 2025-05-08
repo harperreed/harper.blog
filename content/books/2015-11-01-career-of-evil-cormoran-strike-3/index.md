@@ -19,6 +19,7 @@ tags:
 - Robert Galbraith
 title: 'Career of Evil (Cormoran Strike, #3)'
 title_without_series: Career of Evil
+translationKey: 'Career of Evil (Cormoran Strike, #3)'
 yaml: career-of-evil-cormoran-strike-3
 ---
 

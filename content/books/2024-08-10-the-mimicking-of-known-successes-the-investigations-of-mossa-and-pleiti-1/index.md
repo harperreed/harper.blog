@@ -20,6 +20,8 @@ tags:
 title: 'The Mimicking of Known Successes (The Investigations of Mossa and Pleiti,
   #1)'
 title_without_series: The Mimicking of Known Successes
+translationKey: 'The Mimicking of Known Successes (The Investigations of Mossa and
+  Pleiti, #1)'
 yaml: the-mimicking-of-known-successes-the-investigations-of-mossa-and-pleiti-1
 ---
 

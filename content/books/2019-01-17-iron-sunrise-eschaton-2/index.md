@@ -18,6 +18,7 @@ tags:
 - Charles Stross
 title: 'Iron Sunrise (Eschaton, #2)'
 title_without_series: Iron Sunrise
+translationKey: 'Iron Sunrise (Eschaton, #2)'
 yaml: iron-sunrise-eschaton-2
 ---
 

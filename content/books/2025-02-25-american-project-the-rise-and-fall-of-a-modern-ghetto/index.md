@@ -19,6 +19,7 @@ tags:
 - Sudhir Venkatesh
 title: 'American Project: The Rise and Fall of a Modern Ghetto'
 title_without_series: 'American Project: The Rise and Fall of a Modern Ghetto'
+translationKey: 'American Project: The Rise and Fall of a Modern Ghetto'
 yaml: american-project-the-rise-and-fall-of-a-modern-ghetto
 ---
 

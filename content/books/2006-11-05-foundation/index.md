@@ -18,6 +18,7 @@ tags:
 - Isaac Asimov
 title: Foundation
 title_without_series: Foundation
+translationKey: Foundation
 yaml: foundation
 ---
 

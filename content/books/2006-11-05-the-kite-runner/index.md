@@ -18,6 +18,7 @@ tags:
 - Khaled Hosseini
 title: The Kite Runner
 title_without_series: The Kite Runner
+translationKey: The Kite Runner
 yaml: the-kite-runner
 ---
 

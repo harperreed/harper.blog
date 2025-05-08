@@ -18,6 +18,7 @@ tags:
 - Monica Byrne
 title: The Actual Star
 title_without_series: The Actual Star
+translationKey: The Actual Star
 yaml: the-actual-star
 ---
 

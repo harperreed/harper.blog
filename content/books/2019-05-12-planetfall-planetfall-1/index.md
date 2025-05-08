@@ -18,6 +18,7 @@ tags:
 - Emma Newman
 title: 'Planetfall (Planetfall, #1)'
 title_without_series: Planetfall
+translationKey: 'Planetfall (Planetfall, #1)'
 yaml: planetfall-planetfall-1
 ---
 

@@ -22,6 +22,8 @@ title: 'The Greatest Trade Ever: The Behind-the-Scenes Story of How John Paulson
   Wall Street and Made Financial History'
 title_without_series: 'The Greatest Trade Ever: The Behind-the-Scenes Story of How
   John Paulson Defied Wall Street and Made Financial History'
+translationKey: 'The Greatest Trade Ever: The Behind-the-Scenes Story of How John
+  Paulson Defied Wall Street and Made Financial History'
 yaml: the-greatest-trade-ever-the-behind-the-scenes-story-of-how-john-paulson-defied-wall-street-and-made-financial-history
 ---
 

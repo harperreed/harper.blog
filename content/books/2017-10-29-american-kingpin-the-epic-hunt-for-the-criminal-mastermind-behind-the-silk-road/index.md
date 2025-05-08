@@ -21,6 +21,8 @@ title: 'American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the S
   Road'
 title_without_series: 'American Kingpin: The Epic Hunt for the Criminal Mastermind
   Behind the Silk Road'
+translationKey: 'American Kingpin: The Epic Hunt for the Criminal Mastermind Behind
+  the Silk Road'
 yaml: american-kingpin-the-epic-hunt-for-the-criminal-mastermind-behind-the-silk-road
 ---
 

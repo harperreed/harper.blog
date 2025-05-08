@@ -18,6 +18,7 @@ tags:
 - Vikram Chandra
 title: Red Earth and Pouring Rain
 title_without_series: Red Earth and Pouring Rain
+translationKey: Red Earth and Pouring Rain
 yaml: red-earth-and-pouring-rain
 ---
 

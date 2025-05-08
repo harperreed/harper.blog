@@ -18,6 +18,7 @@ tags:
 - Neal Stephenson
 title: Cryptonomicon
 title_without_series: Cryptonomicon
+translationKey: Cryptonomicon
 yaml: cryptonomicon
 ---
 

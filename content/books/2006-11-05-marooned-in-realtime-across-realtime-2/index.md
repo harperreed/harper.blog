@@ -19,6 +19,7 @@ tags:
 - Vernor Vinge
 title: 'Marooned in Realtime (Across Realtime, #2)'
 title_without_series: Marooned in Realtime
+translationKey: 'Marooned in Realtime (Across Realtime, #2)'
 yaml: marooned-in-realtime-across-realtime-2
 ---
 

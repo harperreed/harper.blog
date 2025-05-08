@@ -18,6 +18,7 @@ tags:
 - Kameron Hurley
 title: 'Infidel (Bel Dame Apocrypha, #2)'
 title_without_series: Infidel
+translationKey: 'Infidel (Bel Dame Apocrypha, #2)'
 yaml: infidel-bel-dame-apocrypha-2
 ---
 

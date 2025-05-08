@@ -18,6 +18,7 @@ tags:
 - John Steakley
 title: Armor
 title_without_series: Armor
+translationKey: Armor
 yaml: armor
 ---
 

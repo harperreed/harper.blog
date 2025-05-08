@@ -18,6 +18,7 @@ tags:
 - Susanna Clarke
 title: Piranesi
 title_without_series: Piranesi
+translationKey: Piranesi
 yaml: piranesi
 ---
 

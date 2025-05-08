@@ -18,6 +18,7 @@ tags:
 - Kurt Vonnegut Jr.
 title: Galápagos
 title_without_series: Galápagos
+translationKey: Galápagos
 yaml: galapagos
 ---
 

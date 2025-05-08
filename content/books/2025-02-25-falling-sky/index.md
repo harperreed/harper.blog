@@ -18,6 +18,7 @@ tags:
 - Rajan Khanna
 title: Falling Sky
 title_without_series: Falling Sky
+translationKey: Falling Sky
 yaml: falling-sky
 ---
 

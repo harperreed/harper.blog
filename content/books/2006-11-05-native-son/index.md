@@ -18,6 +18,7 @@ tags:
 - Richard Wright
 title: Native Son
 title_without_series: Native Son
+translationKey: Native Son
 yaml: native-son
 ---
 

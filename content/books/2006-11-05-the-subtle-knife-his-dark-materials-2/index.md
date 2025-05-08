@@ -19,6 +19,7 @@ tags:
 - Philip Pullman
 title: 'The Subtle Knife (His Dark Materials, #2)'
 title_without_series: The Subtle Knife
+translationKey: 'The Subtle Knife (His Dark Materials, #2)'
 yaml: the-subtle-knife-his-dark-materials-2
 ---
 

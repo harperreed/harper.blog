@@ -19,6 +19,7 @@ tags:
 - Dylan  Reed
 title: 'The 3 Fs: Using fun to overcome fear and failure'
 title_without_series: 'The 3 Fs: Using fun to overcome fear and failure'
+translationKey: 'The 3 Fs: Using fun to overcome fear and failure'
 yaml: the-3-fs-using-fun-to-overcome-fear-and-failure
 ---
 

@@ -18,6 +18,7 @@ tags:
 - John Scalzi
 title: 'The Dispatcher (The Dispatcher, #1)'
 title_without_series: The Dispatcher
+translationKey: 'The Dispatcher (The Dispatcher, #1)'
 yaml: the-dispatcher-the-dispatcher-1
 ---
 

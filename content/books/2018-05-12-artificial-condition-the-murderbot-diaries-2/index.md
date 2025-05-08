@@ -19,6 +19,7 @@ tags:
 - Martha Wells
 title: 'Artificial Condition (The Murderbot Diaries, #2)'
 title_without_series: Artificial Condition
+translationKey: 'Artificial Condition (The Murderbot Diaries, #2)'
 yaml: artificial-condition-the-murderbot-diaries-2
 ---
 

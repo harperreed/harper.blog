@@ -18,6 +18,7 @@ tags:
 - Greg Egan
 title: Permutation City
 title_without_series: Permutation City
+translationKey: Permutation City
 yaml: permutation-city
 ---
 

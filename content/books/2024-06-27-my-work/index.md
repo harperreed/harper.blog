@@ -18,6 +18,7 @@ tags:
 - Olga Ravn
 title: My Work
 title_without_series: My Work
+translationKey: My Work
 yaml: my-work
 ---
 

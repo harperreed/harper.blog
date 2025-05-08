@@ -18,6 +18,7 @@ tags:
 - Armistead Maupin
 title: The Night Listener
 title_without_series: The Night Listener
+translationKey: The Night Listener
 yaml: the-night-listener
 ---
 

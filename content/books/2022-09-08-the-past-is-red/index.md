@@ -18,6 +18,7 @@ tags:
 - Catherynne M. Valente
 title: The Past Is Red
 title_without_series: The Past Is Red
+translationKey: The Past Is Red
 yaml: the-past-is-red
 ---
 

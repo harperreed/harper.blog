@@ -20,6 +20,7 @@ tags:
 title: 'This Is How They Tell Me the World Ends: The Cyberweapons Arms Race'
 title_without_series: 'This Is How They Tell Me the World Ends: The Cyberweapons Arms
   Race'
+translationKey: 'This Is How They Tell Me the World Ends: The Cyberweapons Arms Race'
 yaml: this-is-how-they-tell-me-the-world-ends-the-cyberweapons-arms-race
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Peter Watts
 title: 'Echopraxia (Firefall, #2)'
 title_without_series: Echopraxia
+translationKey: 'Echopraxia (Firefall, #2)'
 yaml: echopraxia-firefall-2
 ---
 

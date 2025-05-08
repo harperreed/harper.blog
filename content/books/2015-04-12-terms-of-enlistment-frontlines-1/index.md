@@ -18,6 +18,7 @@ tags:
 - Marko Kloos
 title: 'Terms of Enlistment (Frontlines, #1)'
 title_without_series: Terms of Enlistment
+translationKey: 'Terms of Enlistment (Frontlines, #1)'
 yaml: terms-of-enlistment-frontlines-1
 ---
 

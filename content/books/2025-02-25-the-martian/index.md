@@ -18,6 +18,7 @@ tags:
 - Andy Weir
 title: The Martian
 title_without_series: The Martian
+translationKey: The Martian
 yaml: the-martian
 ---
 

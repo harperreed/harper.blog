@@ -19,6 +19,7 @@ tags:
 - Peter F. Hamilton
 title: 'The Neutronium Alchemist 1: Consolidation (Night''s Dawn 2)'
 title_without_series: 'The Neutronium Alchemist 1: Consolidation'
+translationKey: 'The Neutronium Alchemist 1: Consolidation (Night''s Dawn 2)'
 yaml: the-neutronium-alchemist-1-consolidation-night-s-dawn-2
 ---
 

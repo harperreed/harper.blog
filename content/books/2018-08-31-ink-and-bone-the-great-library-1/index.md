@@ -18,6 +18,7 @@ tags:
 - Rachel Caine
 title: 'Ink and Bone (The Great Library, #1)'
 title_without_series: Ink and Bone
+translationKey: 'Ink and Bone (The Great Library, #1)'
 yaml: ink-and-bone-the-great-library-1
 ---
 

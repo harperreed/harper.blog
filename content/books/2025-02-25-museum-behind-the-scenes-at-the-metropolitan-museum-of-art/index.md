@@ -19,6 +19,7 @@ tags:
 - Danny Danziger
 title: 'Museum: Behind the Scenes at the Metropolitan Museum of Art'
 title_without_series: 'Museum: Behind the Scenes at the Metropolitan Museum of Art'
+translationKey: 'Museum: Behind the Scenes at the Metropolitan Museum of Art'
 yaml: museum-behind-the-scenes-at-the-metropolitan-museum-of-art
 ---
 

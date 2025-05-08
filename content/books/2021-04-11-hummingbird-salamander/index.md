@@ -18,6 +18,7 @@ tags:
 - Jeff VanderMeer
 title: Hummingbird Salamander
 title_without_series: Hummingbird Salamander
+translationKey: Hummingbird Salamander
 yaml: hummingbird-salamander
 ---
 

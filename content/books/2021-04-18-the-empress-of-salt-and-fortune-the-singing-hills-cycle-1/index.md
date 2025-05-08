@@ -19,6 +19,7 @@ tags:
 - Nghi Vo
 title: 'The Empress of Salt and Fortune (The Singing Hills Cycle, #1)'
 title_without_series: The Empress of Salt and Fortune
+translationKey: 'The Empress of Salt and Fortune (The Singing Hills Cycle, #1)'
 yaml: the-empress-of-salt-and-fortune-the-singing-hills-cycle-1
 ---
 

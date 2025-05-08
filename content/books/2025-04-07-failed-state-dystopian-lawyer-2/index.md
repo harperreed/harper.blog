@@ -21,6 +21,7 @@ tags:
 - Christopher    Brown
 title: 'Failed State (Dystopian Lawyer #2)'
 title_without_series: Failed State
+translationKey: 'Failed State (Dystopian Lawyer #2)'
 yaml: failed-state-dystopian-lawyer-2
 ---
 

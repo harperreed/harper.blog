@@ -19,6 +19,7 @@ tags:
 - John Seabrook
 title: 'The Song Machine: Inside the Hit Factory'
 title_without_series: 'The Song Machine: Inside the Hit Factory'
+translationKey: 'The Song Machine: Inside the Hit Factory'
 yaml: the-song-machine-inside-the-hit-factory
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Mary Robinette Kowal
 title: 'The Calculating Stars (Lady Astronaut Universe, #1)'
 title_without_series: The Calculating Stars
+translationKey: 'The Calculating Stars (Lady Astronaut Universe, #1)'
 yaml: the-calculating-stars-lady-astronaut-universe-1
 ---
 

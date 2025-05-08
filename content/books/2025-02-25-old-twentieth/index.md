@@ -18,6 +18,7 @@ tags:
 - Joe Haldeman
 title: Old Twentieth
 title_without_series: Old Twentieth
+translationKey: Old Twentieth
 yaml: old-twentieth
 ---
 

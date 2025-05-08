@@ -18,6 +18,7 @@ tags:
 - Monica Byrne
 title: The Girl in the Road
 title_without_series: The Girl in the Road
+translationKey: The Girl in the Road
 yaml: the-girl-in-the-road
 ---
 

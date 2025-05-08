@@ -18,6 +18,7 @@ tags:
 - Haruki Murakami
 title: Norwegian Wood
 title_without_series: Norwegian Wood
+translationKey: Norwegian Wood
 yaml: norwegian-wood
 ---
 

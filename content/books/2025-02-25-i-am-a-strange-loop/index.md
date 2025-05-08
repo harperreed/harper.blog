@@ -18,6 +18,7 @@ tags:
 - Douglas R. Hofstadter
 title: I Am a Strange Loop
 title_without_series: I Am a Strange Loop
+translationKey: I Am a Strange Loop
 yaml: i-am-a-strange-loop
 ---
 

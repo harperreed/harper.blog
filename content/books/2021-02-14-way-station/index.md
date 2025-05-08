@@ -18,6 +18,7 @@ tags:
 - Clifford D. Simak
 title: Way Station
 title_without_series: Way Station
+translationKey: Way Station
 yaml: way-station
 ---
 

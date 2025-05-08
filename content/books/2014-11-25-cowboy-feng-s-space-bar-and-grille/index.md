@@ -18,6 +18,7 @@ tags:
 - Steven Brust
 title: Cowboy Feng's Space Bar and Grille
 title_without_series: Cowboy Feng's Space Bar and Grille
+translationKey: Cowboy Feng's Space Bar and Grille
 yaml: cowboy-feng-s-space-bar-and-grille
 ---
 

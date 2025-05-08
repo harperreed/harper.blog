@@ -18,6 +18,7 @@ tags:
 - Emily Tesh
 title: Some Desperate Glory
 title_without_series: Some Desperate Glory
+translationKey: Some Desperate Glory
 yaml: some-desperate-glory
 ---
 

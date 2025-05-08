@@ -18,6 +18,7 @@ tags:
 - Dan Simmons
 title: 'Hyperion (Hyperion Cantos, #1)'
 title_without_series: Hyperion
+translationKey: 'Hyperion (Hyperion Cantos, #1)'
 yaml: hyperion-hyperion-cantos-1
 ---
 

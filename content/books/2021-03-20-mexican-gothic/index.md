@@ -18,6 +18,7 @@ tags:
 - Silvia Moreno-Garcia
 title: Mexican Gothic
 title_without_series: Mexican Gothic
+translationKey: Mexican Gothic
 yaml: mexican-gothic
 ---
 
