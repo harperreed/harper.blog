@@ -17,10 +17,9 @@ translationKey: Basic Claude Code
 
 I really like this agentic coding thing. It is quite compelling in so many ways.
 
-Since I wrote [that original blog post](/2025/02/16/my-llm-codegen-workflow-atm/) a lot has happened:
+Since I wrote [that original blog post](/2025/02/16/my-llm-codegen-workflow-atm/) a lot has happened in Claude land:
 
 - Claude Code
-- Codex
 - MCP
 - etc
 
