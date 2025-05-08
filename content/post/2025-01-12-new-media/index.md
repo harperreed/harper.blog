@@ -1,18 +1,20 @@
 ---
 date: 2025-01-12 20:59:59-05:00
-description: Adding a media section to my website to track and display what I'm reading,
-  listening to, and bookmarking online through automated data collection.
+description:
+    Adding a media section to my website to track and display what I'm reading,
+    listening to, and bookmarking online through automated data collection.
 draft: false
 generateSocialImage: true
 tags:
-- personal-data
-- hugo
-- rss
-- media-tracking
-- automation
-- web-development
+    - personal-data
+    - hugo
+    - rss
+    - media-tracking
+    - automation
+    - web-development
 title: New Media
 translationKey: new-media
+bsky: https://bsky.app/profile/harper.lol/post/3lflrbeqy4s2u
 ---
 
 _tl;dr: I added a media section to my website to track and display what I'm reading, listening to, and bookmarking online through automated data collection. visit it [here](/media)_
