@@ -122,6 +122,7 @@ def create_hugo_content(entry, output_dir):
     post['date'] = date
     post['draft'] = False
     post['original_url'] = post_url
+    post['translationKey'] = post_url
 
     try:
         with open(file_path, 'w', encoding='utf-8') as f:
