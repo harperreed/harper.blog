@@ -101,7 +101,7 @@ This is nice cuz it doesn't clog your GitHub actions with a bunch of linting, fo
 
 These are both really simple additions that can squeeze a lot out.
 
-{{< image src="_SDI8149.jpg" alt="Jesse at the studio, Sept 15, 2023, Ricoh GRiii" caption="Jesse at the studio, Sept 15, 2023, Ricoh GRiii" >}}
+{{< image src="_SDI8149.jpg" alt="Jesse at the studio, Sept 15, 2023, Ricoh GRiii" caption="Jesse at the studio, Ricoh GRiii, 11/15/2023" >}}
 
 I stole a [CLAUDE.md](https://github.com/harperreed/dotfiles/blob/master/.claude/CLAUDE.md) from my friend [Jesse Vincent](https://fsck.com/) who did an [awful lot of work on making it very robust](https://github.com/obra/dotfiles/blob/main/.claude/CLAUDE.md). It is quite nice. Some things that are built into it:
 
@@ -131,7 +131,7 @@ Most of the time the plans are about 8–12 steps. I can usually get through a G
 
 I was talking through with my friend Bob and he did not believe it. I asked him "name a thing to build, a language to build it in - and let's see!"
 
-{{< image src="R0000693.jpeg" caption="Bob Swartz, Sept 24th, 2023, Ricoh GRiiix" >}}
+{{< image src="R0000693.jpeg" caption="Bob Swartz, Ricoh GRiiix, 11/17/2024" >}}
 
 He was like "ok. A basic interpreter in C."
 
