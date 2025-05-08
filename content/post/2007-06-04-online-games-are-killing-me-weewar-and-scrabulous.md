@@ -7,6 +7,7 @@ tags:
 - fun
 - casual-games
 title: 'Online games are killing me: weewar and scrabulous'
+translationKey: 'Online games are killing me: weewar and scrabulous'
 wordpress_id: 1449
 wordpress_url: http://www.nata2.org/2007/06/04/online-games-are-killing-me-weewar-and-scrabulous/
 ---

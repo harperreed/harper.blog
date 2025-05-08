@@ -12,6 +12,7 @@ tags:
 - friends
 - celebration
 title: happy fourth of july
+translationKey: happy fourth of july
 wordpress_id: 897
 wordpress_url: http://new.nata2.org/?p=897
 ---

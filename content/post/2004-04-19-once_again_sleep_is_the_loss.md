@@ -11,6 +11,7 @@ tags:
 - alcohol
 - music
 title: once again sleep is the loss
+translationKey: once again sleep is the loss
 wordpress_id: 823
 wordpress_url: http://new.nata2.org/?p=823
 ---

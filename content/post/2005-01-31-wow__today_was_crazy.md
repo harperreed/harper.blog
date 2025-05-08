@@ -12,6 +12,7 @@ tags:
 - productivity
 - blogging
 title: wow. today was crazy
+translationKey: wow. today was crazy
 wordpress_id: 986
 wordpress_url: http://new.nata2.org/?p=986
 ---

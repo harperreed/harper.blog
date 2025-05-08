@@ -7,6 +7,7 @@ tags:
 - telephony
 - php
 title: Caller id spoofing with PHP and asterisk
+translationKey: Caller id spoofing with PHP and asterisk
 wordpress_id: 1211
 wordpress_url: http://www.nata2.org/2006/02/14/caller-id-spoofing-with-php-and-asterisk/
 ---

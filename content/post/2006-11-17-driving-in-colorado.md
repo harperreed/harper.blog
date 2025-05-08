@@ -7,6 +7,7 @@ tags:
 - airports
 - colorado
 title: Driving in Colorado
+translationKey: Driving in Colorado
 wordpress_id: 1386
 wordpress_url: http://www.nata2.org/2006/11/21/driving-in-colorado/
 ---

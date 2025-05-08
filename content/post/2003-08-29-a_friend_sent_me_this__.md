@@ -8,6 +8,7 @@ tags:
 - media
 - technology
 title: a friend sent me this..
+translationKey: a friend sent me this..
 wordpress_id: 609
 wordpress_url: http://new.nata2.org/?p=609
 ---

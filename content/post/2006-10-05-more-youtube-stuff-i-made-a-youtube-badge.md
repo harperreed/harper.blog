@@ -6,6 +6,7 @@ tags:
 - badges
 - hacks
 title: 'More youTube stuff: I made a youTube badge. '
+translationKey: 'More youTube stuff: I made a youTube badge. '
 wordpress_id: 1358
 wordpress_url: http://www.nata2.org/2006/10/05/more-youtube-stuff-i-made-a-youtube-badge/
 ---

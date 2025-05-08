@@ -7,6 +7,7 @@ tags:
 - history
 - nokia
 title: The free new N95 vs the old iPhone
+translationKey: The free new N95 vs the old iPhone
 wordpress_id: 1531
 wordpress_url: http://www.nata2.org/?p=1531
 ---

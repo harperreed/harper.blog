@@ -7,6 +7,7 @@ tags:
 - international-travel
 - us-politics
 title: Obama is winning Iowa!
+translationKey: Obama is winning Iowa!
 wordpress_id: 1502
 wordpress_url: http://www.nata2.org/2008/01/03/obama-is-winning-iowa/
 ---

@@ -12,6 +12,7 @@ tags:
 - hacking
 - celebrity
 title: Paris hilton.
+translationKey: Paris hilton.
 wordpress_id: 997
 wordpress_url: http://new.nata2.org/?p=997
 ---

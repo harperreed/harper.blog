@@ -13,6 +13,7 @@ tags:
 - parties
 - friendship
 title: This weekend
+translationKey: This weekend
 wordpress_id: 479
 wordpress_url: http://new.nata2.org/?p=479
 ---

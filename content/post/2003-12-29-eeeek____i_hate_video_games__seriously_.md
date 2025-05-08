@@ -10,6 +10,7 @@ tags:
 - entertainment
 - humor
 title: eeeek .. i hate video games. seriously.
+translationKey: eeeek .. i hate video games. seriously.
 wordpress_id: 706
 wordpress_url: http://new.nata2.org/?p=706
 ---

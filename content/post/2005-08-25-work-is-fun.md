@@ -7,6 +7,7 @@ tags:
 - productivity
 - remote-work
 title: work is fun
+translationKey: work is fun
 wordpress_id: 1117
 wordpress_url: http://www.nata2.org/2005/08/25/work-is-fun/
 ---

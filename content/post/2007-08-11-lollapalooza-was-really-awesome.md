@@ -7,6 +7,7 @@ tags:
 - music-fans
 - nightlife
 title: Lollapalooza was really awesome.
+translationKey: Lollapalooza was really awesome.
 wordpress_id: 1470
 wordpress_url: http://www.nata2.org/2007/08/11/lollapalooza-was-really-awesome/
 ---

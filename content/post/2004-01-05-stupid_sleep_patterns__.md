@@ -12,6 +12,7 @@ tags:
 - night-owl
 - insomnia
 title: stupid sleep patterns..
+translationKey: stupid sleep patterns..
 wordpress_id: 714
 wordpress_url: http://new.nata2.org/?p=714
 ---

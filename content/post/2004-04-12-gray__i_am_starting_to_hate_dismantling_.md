@@ -12,6 +12,7 @@ tags:
 - weather
 - personal-reflection
 title: gray. i am starting to hate dismantling.
+translationKey: gray. i am starting to hate dismantling.
 wordpress_id: 815
 wordpress_url: http://new.nata2.org/?p=815
 ---

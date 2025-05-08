@@ -13,6 +13,7 @@ tags:
 - fun
 - work
 title: i enjoy the strange and bizarre
+translationKey: i enjoy the strange and bizarre
 wordpress_id: 960
 wordpress_url: http://new.nata2.org/?p=960
 ---

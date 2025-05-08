@@ -7,6 +7,7 @@ tags:
 - confusion
 - personal-experience
 title: 'sorta car sick. '
+translationKey: 'sorta car sick. '
 wordpress_id: 1109
 wordpress_url: http://www.nata2.org/2005/08/11/sorta-car-sick/
 ---

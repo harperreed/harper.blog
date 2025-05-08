@@ -12,6 +12,7 @@ tags:
 - politics
 - life-update
 title: i suppose, i really do.
+translationKey: i suppose, i really do.
 wordpress_id: 956
 wordpress_url: http://new.nata2.org/?p=956
 ---

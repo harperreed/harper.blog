@@ -12,6 +12,7 @@ tags:
 - information
 - blog
 title: 'I need to remember to get my news from:'
+translationKey: 'I need to remember to get my news from:'
 wordpress_id: 350
 wordpress_url: http://new.nata2.org/?p=350
 ---

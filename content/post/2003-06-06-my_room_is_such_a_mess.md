@@ -8,6 +8,7 @@ tags:
 - home
 - lifestyle
 title: my room is such a mess
+translationKey: my room is such a mess
 wordpress_id: 534
 wordpress_url: http://new.nata2.org/?p=534
 ---

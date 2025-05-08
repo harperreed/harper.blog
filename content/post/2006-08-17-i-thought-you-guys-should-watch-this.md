@@ -7,6 +7,7 @@ tags:
 - talib-kweli
 - chappelles-show
 title: I thought you guys should watch this.
+translationKey: I thought you guys should watch this.
 wordpress_id: 1325
 wordpress_url: http://www.nata2.org/2006/08/17/i-thought-you-guys-should-watch-this/
 ---

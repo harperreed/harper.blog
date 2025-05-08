@@ -7,6 +7,7 @@ tags:
 - online-marketing
 - tips
 title: Adsense results and website performance
+translationKey: Adsense results and website performance
 wordpress_id: 1410
 wordpress_url: http://www.nata2.org/2007/02/16/adsense-results-and-website-performance/
 ---

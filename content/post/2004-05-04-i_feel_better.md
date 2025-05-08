@@ -12,6 +12,7 @@ tags:
 - public-privacy
 - sleep
 title: i feel better
+translationKey: i feel better
 wordpress_id: 843
 wordpress_url: http://new.nata2.org/?p=843
 ---

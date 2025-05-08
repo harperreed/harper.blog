@@ -1,18 +1,18 @@
 ---
 date: 2024-11-06 18:00:00-05:00
-description:
-    Reflecting on the unsettling state of the world and feeling a deep sense
-    of uncertainty, I find some solace in reading — here’s a list of books that have
-    helped me process where we’ve been and where we might be headed.
+description: Reflecting on the unsettling state of the world and feeling a deep sense
+  of uncertainty, I find some solace in reading — here’s a list of books that have
+  helped me process where we’ve been and where we might be headed.
 draft: false
 generateSocialImage: true
 tags:
-    - politics
-    - disappointment
-    - reading-list
-    - society
-    - current-events
+- politics
+- disappointment
+- reading-list
+- society
+- current-events
 title: Again
+translationKey: Again
 ---
 
 We find ourselves here again.

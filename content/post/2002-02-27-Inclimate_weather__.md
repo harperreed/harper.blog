@@ -12,6 +12,7 @@ tags:
 - friendship
 - weather
 title: Inclimate weather..
+translationKey: Inclimate weather..
 wordpress_id: 218
 wordpress_url: http://new.nata2.org/?p=218
 ---

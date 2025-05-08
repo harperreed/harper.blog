@@ -11,6 +11,7 @@ tags:
 - war
 - bush
 title: good news/bad news.
+translationKey: good news/bad news.
 wordpress_id: 342
 wordpress_url: http://new.nata2.org/?p=342
 ---

@@ -9,6 +9,7 @@ tags:
 - online-communication
 - tech-critique
 title: i can't see any longer..
+translationKey: i can't see any longer..
 wordpress_id: 293
 wordpress_url: http://new.nata2.org/?p=293
 ---

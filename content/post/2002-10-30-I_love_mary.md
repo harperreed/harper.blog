@@ -9,6 +9,7 @@ tags:
 - php
 - pop-culture
 title: I love mary
+translationKey: I love mary
 wordpress_id: 387
 wordpress_url: http://new.nata2.org/?p=387
 ---

@@ -7,6 +7,7 @@ tags:
 - friendship
 - hosting
 title: Watership.org blogs
+translationKey: Watership.org blogs
 wordpress_id: 1384
 wordpress_url: http://www.nata2.org/2006/11/15/watershiporg-blogs/
 ---

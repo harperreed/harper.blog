@@ -12,6 +12,7 @@ tags:
 - spirits
 - projects
 title: tuo siht kcehc
+translationKey: tuo siht kcehc
 wordpress_id: 283
 wordpress_url: http://new.nata2.org/?p=283
 ---

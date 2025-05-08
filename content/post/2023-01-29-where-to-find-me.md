@@ -16,6 +16,7 @@ tags:
 - online-communities
 - internet-culture
 title: Where to find me now
+translationKey: Where to find me now
 ---
 
 Ever since twitter kind of died I have been a bit lost as to where to post random thoughts. 

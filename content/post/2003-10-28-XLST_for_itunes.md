@@ -11,6 +11,7 @@ tags:
 - xml
 - programming
 title: XLST for itunes
+translationKey: XLST for itunes
 wordpress_id: 660
 wordpress_url: http://new.nata2.org/?p=660
 ---

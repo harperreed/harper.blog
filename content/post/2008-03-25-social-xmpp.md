@@ -7,6 +7,7 @@ tags:
 - technology
 - community
 title: Social XMPP
+translationKey: Social XMPP
 wordpress_id: 1514
 wordpress_url: http://www.nata2.org/2008/03/25/social-xmpp/
 ---

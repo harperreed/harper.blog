@@ -14,6 +14,7 @@ tags:
 - chicago
 - cornell
 title: 'linuxKILLa: i feel like a trophy wife'
+translationKey: 'linuxKILLa: i feel like a trophy wife'
 wordpress_id: 473
 wordpress_url: http://new.nata2.org/?p=473
 ---

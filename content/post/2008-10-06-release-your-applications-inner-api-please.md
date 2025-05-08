@@ -6,6 +6,7 @@ tags:
 - data-extraction
 - chicago
 title: Release your applications inner API. Please.
+translationKey: Release your applications inner API. Please.
 wordpress_id: 1567
 wordpress_url: http://www.nata2.org/?p=1567
 ---

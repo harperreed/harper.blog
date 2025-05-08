@@ -7,6 +7,7 @@ tags:
 - digital-divide
 - non-profit
 title: My thoughts on the OLPC.
+translationKey: My thoughts on the OLPC.
 wordpress_id: 1447
 wordpress_url: http://www.nata2.org/2007/05/27/the-olpc-and-the-fascination-it-creates/
 ---

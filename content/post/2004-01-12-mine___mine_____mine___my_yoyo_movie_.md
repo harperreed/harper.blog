@@ -9,6 +9,7 @@ tags:
 - experimentation
 - digital-media
 title: mine.. mine ... mine.. my yoyo movie.
+translationKey: mine.. mine ... mine.. my yoyo movie.
 wordpress_id: 724
 wordpress_url: http://new.nata2.org/?p=724
 ---

@@ -7,6 +7,7 @@ tags:
 - internet-culture
 - friends
 title: 'goddamn i rule. '
+translationKey: 'goddamn i rule. '
 wordpress_id: 1121
 wordpress_url: http://www.nata2.org/2005/08/27/goddamn-i-rule/
 ---

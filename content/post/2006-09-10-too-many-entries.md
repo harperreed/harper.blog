@@ -7,6 +7,7 @@ tags:
 - personal
 - productivity
 title: 'too many entries... '
+translationKey: 'too many entries... '
 wordpress_id: 1339
 wordpress_url: http://www.nata2.org/2006/09/10/too-many-entries/
 ---

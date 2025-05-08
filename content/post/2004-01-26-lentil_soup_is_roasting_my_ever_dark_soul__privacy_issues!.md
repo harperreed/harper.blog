@@ -14,6 +14,7 @@ tags:
 - security
 - mental-health
 title: 'lentil soup is roasting my ever dark soul: privacy issues!'
+translationKey: 'lentil soup is roasting my ever dark soul: privacy issues!'
 wordpress_id: 735
 wordpress_url: http://new.nata2.org/?p=735
 ---

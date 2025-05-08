@@ -12,6 +12,7 @@ tags:
 - family
 - games
 title: Long Beach..
+translationKey: Long Beach..
 wordpress_id: 419
 wordpress_url: http://new.nata2.org/?p=419
 ---

@@ -7,6 +7,7 @@ tags:
 - entertainment
 - humor
 title: hahaha. hiromi rules
+translationKey: hahaha. hiromi rules
 wordpress_id: 1128
 wordpress_url: http://www.nata2.org/2005/09/11/hahaha-hiromi-rules/
 ---

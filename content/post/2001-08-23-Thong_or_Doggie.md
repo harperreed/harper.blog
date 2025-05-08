@@ -9,6 +9,7 @@ tags:
 - php
 - web-content
 title: Thong or Doggie
+translationKey: Thong or Doggie
 wordpress_id: 93
 wordpress_url: http://new.nata2.org/?p=93
 ---

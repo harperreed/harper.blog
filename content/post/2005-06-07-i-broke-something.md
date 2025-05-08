@@ -7,6 +7,7 @@ tags:
 - doctor-visit
 - self-care
 title: i broke something
+translationKey: i broke something
 wordpress_id: 1077
 wordpress_url: http://www.nata2.org/2005/06/07/i-broke-something/
 ---

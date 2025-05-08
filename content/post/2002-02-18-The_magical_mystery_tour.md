@@ -12,6 +12,7 @@ tags:
 - personal-experience
 - entertainment
 title: The magical mystery tour
+translationKey: The magical mystery tour
 wordpress_id: 213
 wordpress_url: http://new.nata2.org/?p=213
 ---

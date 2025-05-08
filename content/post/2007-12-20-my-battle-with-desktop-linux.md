@@ -7,6 +7,7 @@ tags:
 - workplace
 - user-experience
 title: My battle with desktop Linux
+translationKey: My battle with desktop Linux
 wordpress_id: 1500
 wordpress_url: http://www.nata2.org/2007/12/20/my-battle-with-desktop-linux/
 ---

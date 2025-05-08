@@ -8,6 +8,7 @@ tags:
 - lifestyle
 - dylan-reed
 title: 'when i am awesome i look like:'
+translationKey: 'when i am awesome i look like:'
 wordpress_id: 549
 wordpress_url: http://new.nata2.org/?p=549
 ---

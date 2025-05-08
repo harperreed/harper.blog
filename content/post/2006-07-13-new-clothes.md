@@ -7,6 +7,7 @@ tags:
 - fashion-trends
 - bape
 title: New clothes
+translationKey: New clothes
 wordpress_id: 1303
 wordpress_url: http://www.nata2.org/2006/07/13/new-clothes/
 ---

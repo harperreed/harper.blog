@@ -7,6 +7,7 @@ tags:
 - technology
 - frustration
 title: Fixing my internet.
+translationKey: Fixing my internet.
 wordpress_id: 1456
 wordpress_url: http://www.nata2.org/2007/06/10/fixing-my-internet/
 ---

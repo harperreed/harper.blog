@@ -12,6 +12,7 @@ tags:
 - diversity
 - us-history
 title: allegiance pledge
+translationKey: allegiance pledge
 wordpress_id: 304
 wordpress_url: http://new.nata2.org/?p=304
 ---

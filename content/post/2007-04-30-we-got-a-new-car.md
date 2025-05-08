@@ -7,6 +7,7 @@ tags:
 - commuting
 - safety
 title: We got a new car
+translationKey: We got a new car
 wordpress_id: 1439
 wordpress_url: http://www.nata2.org/2007/04/30/we-got-a-new-car/
 ---

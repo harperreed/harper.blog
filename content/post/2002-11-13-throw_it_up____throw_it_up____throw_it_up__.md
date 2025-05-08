@@ -12,6 +12,7 @@ tags:
 - cd-review
 - soundtrack
 title: throw it up..  throw it up..  throw it up..
+translationKey: throw it up..  throw it up..  throw it up..
 wordpress_id: 399
 wordpress_url: http://new.nata2.org/?p=399
 ---

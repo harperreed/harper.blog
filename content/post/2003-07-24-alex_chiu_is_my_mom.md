@@ -17,6 +17,7 @@ tags:
 - personal-experience
 - friendship
 title: alex chiu is my mom
+translationKey: alex chiu is my mom
 wordpress_id: 577
 wordpress_url: http://new.nata2.org/?p=577
 ---

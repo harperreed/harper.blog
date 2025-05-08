@@ -10,6 +10,7 @@ tags:
 - cms
 - php
 title: so busy. but almost done.
+translationKey: so busy. but almost done.
 wordpress_id: 984
 wordpress_url: http://new.nata2.org/?p=984
 ---

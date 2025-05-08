@@ -10,6 +10,7 @@ tags:
 - photolog
 - personal-experience
 title: Game Cube Killas
+translationKey: Game Cube Killas
 wordpress_id: 685
 wordpress_url: http://new.nata2.org/?p=685
 ---

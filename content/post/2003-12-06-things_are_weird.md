@@ -12,6 +12,7 @@ tags:
 - health
 - support
 title: things are weird
+translationKey: things are weird
 wordpress_id: 691
 wordpress_url: http://new.nata2.org/?p=691
 ---

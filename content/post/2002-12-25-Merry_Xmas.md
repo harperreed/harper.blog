@@ -8,6 +8,7 @@ tags:
 - festivities
 - family
 title: Merry Xmas
+translationKey: Merry Xmas
 wordpress_id: 421
 wordpress_url: http://new.nata2.org/?p=421
 ---

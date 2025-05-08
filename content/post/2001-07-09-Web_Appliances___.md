@@ -12,6 +12,7 @@ tags:
 - digital-frames
 - technology
 title: Web Appliances...
+translationKey: Web Appliances...
 wordpress_id: 10
 wordpress_url: http://new.nata2.org/?p=10
 ---

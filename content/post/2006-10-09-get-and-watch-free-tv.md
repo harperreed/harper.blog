@@ -7,6 +7,7 @@ tags:
 - download
 - technology
 title: How to get and watch free TV
+translationKey: How to get and watch free TV
 wordpress_id: 1360
 wordpress_url: http://www.nata2.org/2006/10/09/get-and-watch-free-tv/
 ---

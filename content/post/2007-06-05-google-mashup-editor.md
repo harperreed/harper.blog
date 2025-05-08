@@ -6,6 +6,7 @@ tags:
 - technology
 - data-api
 title: Google Mashup Editor
+translationKey: Google Mashup Editor
 wordpress_id: 1452
 wordpress_url: http://www.nata2.org/2007/06/05/google-mashup-editor/
 ---

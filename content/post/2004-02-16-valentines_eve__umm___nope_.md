@@ -12,6 +12,7 @@ tags:
 - friendship
 - weekend-fun
 title: valentines eve. umm.. nope.
+translationKey: valentines eve. umm.. nope.
 wordpress_id: 754
 wordpress_url: http://new.nata2.org/?p=754
 ---

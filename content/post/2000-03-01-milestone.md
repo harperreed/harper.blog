@@ -12,6 +12,7 @@ tags:
 - outdoor-activities
 - free-events
 title: milestone
+translationKey: milestone
 wordpress_id: 41
 wordpress_url: http://new.nata2.org/?p=41
 ---

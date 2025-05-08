@@ -7,6 +7,7 @@ tags:
 - punk-rock
 - pop-culture
 title: Watch this Frank Zappa interview
+translationKey: Watch this Frank Zappa interview
 wordpress_id: 1422
 wordpress_url: http://www.nata2.org/2007/03/22/watch-this-frank-zappa-interview/
 ---

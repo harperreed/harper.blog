@@ -12,6 +12,7 @@ tags:
 - personal-reflection
 - social-situations
 title: jumpin jumpin
+translationKey: jumpin jumpin
 wordpress_id: 836
 wordpress_url: http://new.nata2.org/?p=836
 ---

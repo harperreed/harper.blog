@@ -11,6 +11,7 @@ tags:
 - servers
 - migration
 title: i get the most awesome email ever
+translationKey: i get the most awesome email ever
 wordpress_id: 936
 wordpress_url: http://new.nata2.org/?p=936
 ---

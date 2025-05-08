@@ -12,6 +12,7 @@ tags:
 - movies
 - gaming
 title: trout. i mean lobster.
+translationKey: trout. i mean lobster.
 wordpress_id: 932
 wordpress_url: http://new.nata2.org/?p=932
 ---

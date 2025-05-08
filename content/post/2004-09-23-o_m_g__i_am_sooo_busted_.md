@@ -12,6 +12,7 @@ tags:
 - personal-reflection
 - online-privacy
 title: o m g. i am sooo busted.
+translationKey: o m g. i am sooo busted.
 wordpress_id: 942
 wordpress_url: http://new.nata2.org/?p=942
 ---

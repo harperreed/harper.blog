@@ -10,6 +10,7 @@ tags:
 - personal-experience
 - websites
 title: Cut off his feet
+translationKey: Cut off his feet
 wordpress_id: 149
 wordpress_url: http://new.nata2.org/?p=149
 ---

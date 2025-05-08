@@ -9,6 +9,7 @@ tags:
 - culture
 - history
 title: chicago info
+translationKey: chicago info
 wordpress_id: 321
 wordpress_url: http://new.nata2.org/?p=321
 ---

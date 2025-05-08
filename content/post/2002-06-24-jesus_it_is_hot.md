@@ -12,6 +12,7 @@ tags:
 - chicago
 - computers
 title: jesus it is hot
+translationKey: jesus it is hot
 wordpress_id: 301
 wordpress_url: http://new.nata2.org/?p=301
 ---

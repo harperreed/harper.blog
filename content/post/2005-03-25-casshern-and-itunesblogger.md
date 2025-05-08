@@ -7,6 +7,7 @@ tags:
 - cinema
 - reviews
 title: casshern and itunesblogger
+translationKey: casshern and itunesblogger
 wordpress_id: 1029
 wordpress_url: http://www.nata2.org/2005/03/25/casshern-and-itunesblogger/
 ---

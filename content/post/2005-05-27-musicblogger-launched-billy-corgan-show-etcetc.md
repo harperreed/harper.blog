@@ -7,6 +7,7 @@ tags:
 - musicblogger
 - ruby-on-rails
 title: Musicblogger launched. Billy Corgan show. etcetc
+translationKey: Musicblogger launched. Billy Corgan show. etcetc
 wordpress_id: 1071
 wordpress_url: http://www.nata2.org/2005/05/27/musicblogger-launched-billy-corgan-show-etcetc/
 ---

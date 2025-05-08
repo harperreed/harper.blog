@@ -12,6 +12,7 @@ tags:
 - food
 - friendship
 title: goddamnit. hehe
+translationKey: goddamnit. hehe
 wordpress_id: 616
 wordpress_url: http://new.nata2.org/?p=616
 ---

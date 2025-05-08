@@ -12,6 +12,7 @@ tags:
 - movies
 - technology
 title: i am a fan of the community networks
+translationKey: i am a fan of the community networks
 wordpress_id: 746
 wordpress_url: http://new.nata2.org/?p=746
 ---

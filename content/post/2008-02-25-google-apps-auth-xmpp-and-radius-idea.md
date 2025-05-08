@@ -7,6 +7,7 @@ tags:
 - data-storage
 - user-management
 title: 'Google Apps Auth: XMPP and Radius idea'
+translationKey: 'Google Apps Auth: XMPP and Radius idea'
 wordpress_id: 1508
 wordpress_url: http://www.nata2.org/2008/02/25/google-apps-auth-xmpp-and-radius-idea/
 ---

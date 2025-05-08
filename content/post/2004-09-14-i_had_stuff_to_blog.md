@@ -8,6 +8,7 @@ tags:
 - writing
 - creativity
 title: i had stuff to blog
+translationKey: i had stuff to blog
 wordpress_id: 935
 wordpress_url: http://new.nata2.org/?p=935
 ---

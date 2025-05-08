@@ -7,6 +7,7 @@ tags:
 - classical
 - reading
 title: gravity's rainbow
+translationKey: gravity's rainbow
 wordpress_id: 1135
 wordpress_url: http://www.nata2.org/2005/10/05/gravitys-rainbow/
 ---

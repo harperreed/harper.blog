@@ -11,6 +11,7 @@ tags:
 - events
 - friends
 title: crobar.. weekend at marks.. yoyos.. etc..
+translationKey: crobar.. weekend at marks.. yoyos.. etc..
 wordpress_id: 679
 wordpress_url: http://new.nata2.org/?p=679
 ---

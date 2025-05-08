@@ -10,6 +10,7 @@ tags:
 - productivity
 - general
 title: today was hell.
+translationKey: today was hell.
 wordpress_id: 1007
 wordpress_url: http://new.nata2.org/?p=1007
 ---

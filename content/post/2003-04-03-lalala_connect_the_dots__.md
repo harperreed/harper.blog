@@ -12,6 +12,7 @@ tags:
 - technology
 - screensaver
 title: lalala connect the dots..
+translationKey: lalala connect the dots..
 wordpress_id: 476
 wordpress_url: http://new.nata2.org/?p=476
 ---

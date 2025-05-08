@@ -12,6 +12,7 @@ tags:
 - coffee-shop
 - work
 title: wifi in you eye
+translationKey: wifi in you eye
 wordpress_id: 378
 wordpress_url: http://new.nata2.org/?p=378
 ---

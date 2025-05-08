@@ -11,6 +11,7 @@ tags:
 - friends
 - events
 title: The disaster it could have been...
+translationKey: The disaster it could have been...
 wordpress_id: 758
 wordpress_url: http://new.nata2.org/?p=758
 ---

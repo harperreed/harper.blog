@@ -10,6 +10,7 @@ tags:
 - weather
 - entertainment
 title: This world is a wierd place..   no really it is..
+translationKey: This world is a wierd place..   no really it is..
 wordpress_id: 240
 wordpress_url: http://new.nata2.org/?p=240
 ---

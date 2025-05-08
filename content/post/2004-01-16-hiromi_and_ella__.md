@@ -10,6 +10,7 @@ tags:
 - work-life-balance
 - gaming
 title: hiromi and ella..
+translationKey: hiromi and ella..
 wordpress_id: 729
 wordpress_url: http://new.nata2.org/?p=729
 ---

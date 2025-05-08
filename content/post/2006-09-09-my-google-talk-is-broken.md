@@ -7,6 +7,7 @@ tags:
 - account-issues
 - communication
 title: My Google Talk is broken.
+translationKey: My Google Talk is broken.
 wordpress_id: 1336
 wordpress_url: http://www.nata2.org/2006/09/09/my-google-talk-is-broken/
 ---

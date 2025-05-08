@@ -12,6 +12,7 @@ tags:
 - immortality
 - technology
 title: Cyborg Heart
+translationKey: Cyborg Heart
 wordpress_id: 694
 wordpress_url: http://new.nata2.org/?p=694
 ---

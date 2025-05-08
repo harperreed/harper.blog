@@ -12,6 +12,7 @@ tags:
 - it-management
 - work-life-balance
 title: i begin the resurrection of my servers
+translationKey: i begin the resurrection of my servers
 wordpress_id: 799
 wordpress_url: http://new.nata2.org/?p=799
 ---

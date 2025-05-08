@@ -12,6 +12,7 @@ tags:
 - pop-and-lock
 - events
 title: Breakdancing...
+translationKey: Breakdancing...
 wordpress_id: 196
 wordpress_url: http://new.nata2.org/?p=196
 ---

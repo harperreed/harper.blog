@@ -12,6 +12,7 @@ tags:
 - emotions
 - friendship
 title: i just got up
+translationKey: i just got up
 wordpress_id: 822
 wordpress_url: http://new.nata2.org/?p=822
 ---

@@ -7,6 +7,7 @@ tags:
 - online-services
 - tech-reviews
 title: Awesome hosting options
+translationKey: Awesome hosting options
 wordpress_id: 1510
 wordpress_url: http://www.nata2.org/2008/03/02/awesome-hosting-options/
 ---

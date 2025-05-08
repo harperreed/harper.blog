@@ -10,6 +10,7 @@ tags:
 - theology
 - intelligent-life
 title: life ON mars
+translationKey: life ON mars
 wordpress_id: 994
 wordpress_url: http://new.nata2.org/?p=994
 ---

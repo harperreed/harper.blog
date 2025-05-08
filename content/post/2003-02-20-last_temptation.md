@@ -12,6 +12,7 @@ tags:
 - divine-intervention
 - humor
 title: last temptation
+translationKey: last temptation
 wordpress_id: 451
 wordpress_url: http://new.nata2.org/?p=451
 ---

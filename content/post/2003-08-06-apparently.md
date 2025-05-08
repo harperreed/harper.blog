@@ -8,6 +8,7 @@ tags:
 - habbo-hotel
 - gaming-community
 title: apparently
+translationKey: apparently
 wordpress_id: 590
 wordpress_url: http://new.nata2.org/?p=590
 ---

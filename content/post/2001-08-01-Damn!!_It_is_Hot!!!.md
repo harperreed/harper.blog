@@ -12,6 +12,7 @@ tags:
 - coding
 - friends
 title: Damn!! It is Hot!!!
+translationKey: Damn!! It is Hot!!!
 wordpress_id: 21
 wordpress_url: http://new.nata2.org/?p=21
 ---

@@ -7,6 +7,7 @@ tags:
 - entertainment
 - lifestyle
 title: goddamn. haha. development and TV
+translationKey: goddamn. haha. development and TV
 wordpress_id: 1157
 wordpress_url: http://www.nata2.org/2006/01/06/goddamn-haha-development-and-tv/
 ---

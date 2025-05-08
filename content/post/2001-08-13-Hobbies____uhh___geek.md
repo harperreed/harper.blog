@@ -11,6 +11,7 @@ tags:
 - tinkering
 - computers
 title: Hobbies... uhh.. geek
+translationKey: Hobbies... uhh.. geek
 wordpress_id: 25
 wordpress_url: http://new.nata2.org/?p=25
 ---

@@ -10,6 +10,7 @@ tags:
 - ipod
 - technology
 title: stupid electronics...
+translationKey: stupid electronics...
 wordpress_id: 676
 wordpress_url: http://new.nata2.org/?p=676
 ---

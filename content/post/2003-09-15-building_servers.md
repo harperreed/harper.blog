@@ -16,6 +16,7 @@ tags:
 - technology
 - events
 title: building servers
+translationKey: building servers
 wordpress_id: 618
 wordpress_url: http://new.nata2.org/?p=618
 ---

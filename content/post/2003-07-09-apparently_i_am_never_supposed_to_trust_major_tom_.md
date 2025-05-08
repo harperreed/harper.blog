@@ -11,6 +11,7 @@ tags:
 - social-life
 - stress-relief
 title: apparently i am never supposed to trust major tom.
+translationKey: apparently i am never supposed to trust major tom.
 wordpress_id: 561
 wordpress_url: http://new.nata2.org/?p=561
 ---

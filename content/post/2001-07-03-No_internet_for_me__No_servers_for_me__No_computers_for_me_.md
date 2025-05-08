@@ -12,6 +12,7 @@ tags:
 - friends
 - economy
 title: No internet for me. No servers for me. No computers for me.
+translationKey: No internet for me. No servers for me. No computers for me.
 wordpress_id: 5
 wordpress_url: http://new.nata2.org/?p=5
 ---

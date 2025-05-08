@@ -11,6 +11,7 @@ tags:
 - work-culture
 - computers
 title: WEstCoast
+translationKey: WEstCoast
 wordpress_id: 230
 wordpress_url: http://new.nata2.org/?p=230
 ---

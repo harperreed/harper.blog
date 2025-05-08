@@ -7,6 +7,7 @@ tags:
 - sickness
 - family-visits
 title: 'neti pots are rough. well not as rough.. but still a bit rough.. '
+translationKey: 'neti pots are rough. well not as rough.. but still a bit rough.. '
 wordpress_id: 1324
 wordpress_url: http://www.nata2.org/2006/08/17/neti-pots-are-rough-well-not-as-rough-but-still-a-bit-rough/
 ---

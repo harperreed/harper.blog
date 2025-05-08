@@ -12,6 +12,7 @@ tags:
 - relationships
 - metal
 title: blogger die
+translationKey: blogger die
 wordpress_id: 501
 wordpress_url: http://new.nata2.org/?p=501
 ---

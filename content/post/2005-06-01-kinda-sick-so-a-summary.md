@@ -7,6 +7,7 @@ tags:
 - personal
 - weekend
 title: kinda sick. so a summary
+translationKey: kinda sick. so a summary
 wordpress_id: 1072
 wordpress_url: http://www.nata2.org/2005/06/01/kinda-sick-so-a-summary/
 ---

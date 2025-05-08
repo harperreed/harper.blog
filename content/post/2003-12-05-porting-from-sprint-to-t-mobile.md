@@ -7,6 +7,7 @@ tags:
 - data-plans
 - sprint-to-tmobile
 title: Porting from sprint to t-mobile
+translationKey: Porting from sprint to t-mobile
 wordpress_id: 1167
 wordpress_url: http://www.nata2.org/2003/12/05/porting-from-sprint-to-t-mobile/
 ---

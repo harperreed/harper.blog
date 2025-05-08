@@ -10,6 +10,7 @@ tags:
 - pets
 - celebration
 title: happy xmas and such
+translationKey: happy xmas and such
 wordpress_id: 705
 wordpress_url: http://new.nata2.org/?p=705
 ---

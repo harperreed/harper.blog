@@ -12,6 +12,7 @@ tags:
 - wellness
 - work-life-balance
 title: Sick Sick Sick Sick
+translationKey: Sick Sick Sick Sick
 wordpress_id: 622
 wordpress_url: http://new.nata2.org/?p=622
 ---

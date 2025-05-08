@@ -7,6 +7,7 @@ tags:
 - pets
 - personal
 title: 'harry potter rules. '
+translationKey: 'harry potter rules. '
 wordpress_id: 1102
 wordpress_url: http://www.nata2.org/2005/07/31/harry-potter-rules/
 ---

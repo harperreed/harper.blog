@@ -8,6 +8,7 @@ tags:
 - spirituality
 - cultural-practices
 title: theophagy
+translationKey: theophagy
 wordpress_id: 277
 wordpress_url: http://new.nata2.org/?p=277
 ---

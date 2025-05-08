@@ -7,6 +7,7 @@ tags:
 - technology
 - swag
 title: TechCocktail Boulder and SXSW! Come see me!
+translationKey: TechCocktail Boulder and SXSW! Come see me!
 wordpress_id: 1512
 wordpress_url: http://www.nata2.org/2008/03/05/traveling-to-parties/
 ---

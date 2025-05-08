@@ -7,6 +7,7 @@ tags:
 - humor
 - chicago
 title: i live in a russian novel.
+translationKey: i live in a russian novel.
 wordpress_id: 1078
 wordpress_url: http://www.nata2.org/2005/06/08/i-live-in-a-russian-novel/
 ---

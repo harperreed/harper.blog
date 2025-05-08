@@ -13,6 +13,7 @@ tags:
 - humor
 - merchandise
 title: Today is a good day for random stuff.
+translationKey: Today is a good day for random stuff.
 wordpress_id: 269
 wordpress_url: http://new.nata2.org/?p=269
 ---

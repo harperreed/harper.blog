@@ -12,6 +12,7 @@ tags:
 - business
 - video
 title: oh yea. says the octagon
+translationKey: oh yea. says the octagon
 wordpress_id: 979
 wordpress_url: http://new.nata2.org/?p=979
 ---

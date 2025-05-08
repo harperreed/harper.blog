@@ -7,6 +7,7 @@ tags:
 - innovation
 - wiki
 title: My ambient agent project
+translationKey: My ambient agent project
 wordpress_id: 1226
 wordpress_url: http://www.nata2.org/2006/03/01/my-ambient-agent-project/
 ---

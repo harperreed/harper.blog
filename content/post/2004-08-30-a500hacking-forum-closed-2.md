@@ -7,6 +7,7 @@ tags:
 - hacking
 - website
 title: a500hacking forum closed
+translationKey: a500hacking forum closed
 wordpress_id: 1194
 wordpress_url: http://www.nata2.org/2004/08/30/a500hacking-forum-closed-2/
 ---

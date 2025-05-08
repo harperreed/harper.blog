@@ -7,6 +7,7 @@ tags:
 - outdoor-activities
 - humor
 title: Work gocarts. yea know. the usual.
+translationKey: Work gocarts. yea know. the usual.
 wordpress_id: 1414
 wordpress_url: http://www.nata2.org/2007/03/02/work-gocarts-yea-know-the-usual/
 ---

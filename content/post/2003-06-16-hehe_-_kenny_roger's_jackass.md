@@ -10,6 +10,7 @@ tags:
 - kenny-rogers
 - yoyos
 title: hehe - kenny roger's jackass
+translationKey: hehe - kenny roger's jackass
 wordpress_id: 542
 wordpress_url: http://new.nata2.org/?p=542
 ---

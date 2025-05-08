@@ -11,6 +11,7 @@ tags:
 - politics
 - health
 title: weekend rocks
+translationKey: weekend rocks
 wordpress_id: 348
 wordpress_url: http://new.nata2.org/?p=348
 ---

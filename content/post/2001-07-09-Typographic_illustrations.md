@@ -8,6 +8,7 @@ tags:
 - art
 - creativity
 title: Typographic illustrations
+translationKey: Typographic illustrations
 wordpress_id: 12
 wordpress_url: http://new.nata2.org/?p=12
 ---

@@ -11,6 +11,7 @@ tags:
 - live-performance
 - entertainment
 title: Public Enemy
+translationKey: Public Enemy
 wordpress_id: 368
 wordpress_url: http://new.nata2.org/?p=368
 ---

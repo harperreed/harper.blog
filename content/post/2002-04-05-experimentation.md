@@ -10,6 +10,7 @@ tags:
 - innovation
 - learning
 title: experimentation
+translationKey: experimentation
 wordpress_id: 252
 wordpress_url: http://new.nata2.org/?p=252
 ---

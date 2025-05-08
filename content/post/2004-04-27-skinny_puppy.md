@@ -12,6 +12,7 @@ tags:
 - chicago
 - bands
 title: skinny puppy
+translationKey: skinny puppy
 wordpress_id: 831
 wordpress_url: http://new.nata2.org/?p=831
 ---

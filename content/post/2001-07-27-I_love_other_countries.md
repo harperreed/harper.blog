@@ -9,6 +9,7 @@ tags:
 - freedom
 - expression
 title: I love other countries
+translationKey: I love other countries
 wordpress_id: 20
 wordpress_url: http://new.nata2.org/?p=20
 ---

@@ -11,6 +11,7 @@ tags:
 - education
 - current-events
 title: icon = religious graphics
+translationKey: icon = religious graphics
 wordpress_id: 446
 wordpress_url: http://new.nata2.org/?p=446
 ---

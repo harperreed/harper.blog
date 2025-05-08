@@ -7,6 +7,7 @@ tags:
 - movies
 - weird
 title: a couple quick things
+translationKey: a couple quick things
 wordpress_id: 1027
 wordpress_url: http://www.nata2.org/2005/03/24/a-couple-quick-things/
 ---

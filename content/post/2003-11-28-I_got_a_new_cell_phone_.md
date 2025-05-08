@@ -12,6 +12,7 @@ tags:
 - smartphone
 - hacks
 title: I got a new cell phone.
+translationKey: I got a new cell phone.
 wordpress_id: 684
 wordpress_url: http://new.nata2.org/?p=684
 ---

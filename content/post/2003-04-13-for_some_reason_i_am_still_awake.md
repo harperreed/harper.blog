@@ -12,6 +12,7 @@ tags:
 - sleep
 - weekend-fun
 title: for some reason i am still awake
+translationKey: for some reason i am still awake
 wordpress_id: 486
 wordpress_url: http://new.nata2.org/?p=486
 ---

@@ -11,6 +11,7 @@ tags:
 - music
 - wedding
 title: figured it out
+translationKey: figured it out
 wordpress_id: 908
 wordpress_url: http://new.nata2.org/?p=908
 ---

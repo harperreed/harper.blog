@@ -7,6 +7,7 @@ tags:
 - leadership
 - community
 title: Exciting News!
+translationKey: Exciting News!
 wordpress_id: 1490
 wordpress_url: http://www.nata2.org/2007/11/05/exciting-news/
 ---

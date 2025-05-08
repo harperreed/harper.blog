@@ -11,6 +11,7 @@ tags:
 - domestic-security
 - chicago-crime
 title: Well... we may be in trouble
+translationKey: Well... we may be in trouble
 wordpress_id: 150
 wordpress_url: http://new.nata2.org/?p=150
 ---

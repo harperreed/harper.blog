@@ -7,6 +7,7 @@ tags:
 - recipe
 - baking
 title: Chocolate Vegan Cake
+translationKey: Chocolate Vegan Cake
 wordpress_id: 1407
 wordpress_url: http://www.nata2.org/2007/01/19/chocolate-vegan-cake/
 ---

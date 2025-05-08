@@ -12,6 +12,7 @@ tags:
 - friendship
 - search-engine-optimization
 title: Boston i will arrive in..
+translationKey: Boston i will arrive in..
 wordpress_id: 437
 wordpress_url: http://new.nata2.org/?p=437
 ---

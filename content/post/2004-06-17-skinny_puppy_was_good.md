@@ -11,6 +11,7 @@ tags:
 - hunger
 - goth-culture
 title: skinny puppy was good
+translationKey: skinny puppy was good
 wordpress_id: 886
 wordpress_url: http://new.nata2.org/?p=886
 ---

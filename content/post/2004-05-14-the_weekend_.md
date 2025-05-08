@@ -12,6 +12,7 @@ tags:
 - talent-show
 - messages
 title: the weekend.
+translationKey: the weekend.
 wordpress_id: 863
 wordpress_url: http://new.nata2.org/?p=863
 ---

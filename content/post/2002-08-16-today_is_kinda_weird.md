@@ -12,6 +12,7 @@ tags:
 - bush-administration
 - military
 title: today is kinda weird
+translationKey: today is kinda weird
 wordpress_id: 343
 wordpress_url: http://new.nata2.org/?p=343
 ---

@@ -8,6 +8,7 @@ tags:
 - entertainment
 - internet-culture
 title: Bush is whack
+translationKey: Bush is whack
 wordpress_id: 123
 wordpress_url: http://new.nata2.org/?p=123
 ---

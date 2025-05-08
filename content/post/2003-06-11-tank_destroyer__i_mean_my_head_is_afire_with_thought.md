@@ -12,6 +12,7 @@ tags:
 - relationships
 - personal-growth
 title: tank destroyer. i mean my head is afire with thought
+translationKey: tank destroyer. i mean my head is afire with thought
 wordpress_id: 537
 wordpress_url: http://new.nata2.org/?p=537
 ---

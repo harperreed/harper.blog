@@ -6,6 +6,7 @@ tags:
 - load-balancing
 - technology
 title: 'The Mosso Cloud: Requests are not a good metric'
+translationKey: 'The Mosso Cloud: Requests are not a good metric'
 wordpress_id: 1509
 wordpress_url: http://www.nata2.org/?p=1509
 ---

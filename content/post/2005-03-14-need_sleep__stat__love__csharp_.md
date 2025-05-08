@@ -18,6 +18,7 @@ tags:
 - innovation
 - coding
 title: need sleep. stat. love. csharp.
+translationKey: need sleep. stat. love. csharp.
 wordpress_id: 1006
 wordpress_url: http://new.nata2.org/?p=1006
 ---

@@ -7,6 +7,7 @@ tags:
 - books
 - travel
 title: 'wow. flickr. work. umm... holidays. etc. '
+translationKey: 'wow. flickr. work. umm... holidays. etc. '
 wordpress_id: 1152
 wordpress_url: http://www.nata2.org/2005/12/03/wow-flickr-work-umm-holidays-etc/
 ---

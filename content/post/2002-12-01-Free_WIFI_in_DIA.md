@@ -12,6 +12,7 @@ tags:
 - laptop
 - city-life
 title: Free WIFI in DIA
+translationKey: Free WIFI in DIA
 wordpress_id: 409
 wordpress_url: http://new.nata2.org/?p=409
 ---

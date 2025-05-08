@@ -10,6 +10,7 @@ tags:
 - celebrity-culture
 - security
 title: Just the normal stuff
+translationKey: Just the normal stuff
 wordpress_id: 388
 wordpress_url: http://new.nata2.org/?p=388
 ---

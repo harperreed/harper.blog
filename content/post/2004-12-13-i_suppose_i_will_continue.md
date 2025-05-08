@@ -11,6 +11,7 @@ tags:
 - family
 - weather
 title: i suppose i will continue
+translationKey: i suppose i will continue
 wordpress_id: 971
 wordpress_url: http://new.nata2.org/?p=971
 ---

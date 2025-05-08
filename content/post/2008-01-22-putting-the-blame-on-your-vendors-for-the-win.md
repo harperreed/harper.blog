@@ -7,6 +7,7 @@ tags:
 - cloud-services
 - technology
 title: 'Putting the blame on your vendors for the win. '
+translationKey: 'Putting the blame on your vendors for the win. '
 wordpress_id: 1505
 wordpress_url: http://www.nata2.org/?p=1505
 ---

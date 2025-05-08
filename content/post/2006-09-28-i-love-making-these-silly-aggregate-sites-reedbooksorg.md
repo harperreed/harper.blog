@@ -6,6 +6,7 @@ tags:
 - rss-feeds
 - mashups
 title: I love making these silly aggregate sites - reedbooks.org
+translationKey: I love making these silly aggregate sites - reedbooks.org
 wordpress_id: 1354
 wordpress_url: http://www.nata2.org/2006/09/28/i-love-making-these-silly-aggregate-sites-reedbooksorg/
 ---

@@ -7,6 +7,7 @@ tags:
 - work-life-balance
 - personal-experience
 title: Wow. this weekend was frantic and full of sleep.
+translationKey: Wow. this weekend was frantic and full of sleep.
 wordpress_id: 1231
 wordpress_url: http://www.nata2.org/2006/03/13/wow-this-weekend-was-frantic-and-full-of-sleep/
 ---

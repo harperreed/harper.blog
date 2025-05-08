@@ -12,6 +12,7 @@ tags:
 - personal-experience
 - naps
 title: i just woke up and i have bad breath.
+translationKey: i just woke up and i have bad breath.
 wordpress_id: 963
 wordpress_url: http://new.nata2.org/?p=963
 ---

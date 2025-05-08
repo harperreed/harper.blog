@@ -7,6 +7,7 @@ tags:
 - social-life
 - events
 title: new skinnyCorp site... check it
+translationKey: new skinnyCorp site... check it
 wordpress_id: 1122
 wordpress_url: http://www.nata2.org/2005/08/31/new-skinnycorp-site-check-it/
 ---

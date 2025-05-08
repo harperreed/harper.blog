@@ -21,6 +21,7 @@ tags:
 - reading
 - lifestyle
 title: yea yea yea. i will update my blog..
+translationKey: yea yea yea. i will update my blog..
 wordpress_id: 952
 wordpress_url: http://new.nata2.org/?p=952
 ---

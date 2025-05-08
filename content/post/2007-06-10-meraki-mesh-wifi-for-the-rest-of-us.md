@@ -7,6 +7,7 @@ tags:
 - access-points
 - wireless-technology
 title: 'Meraki: mesh wifi for the rest of us'
+translationKey: 'Meraki: mesh wifi for the rest of us'
 wordpress_id: 1455
 wordpress_url: http://www.nata2.org/2007/06/10/meraki-mesh-wifi-for-the-rest-of-us/
 ---

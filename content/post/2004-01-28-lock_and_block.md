@@ -12,6 +12,7 @@ tags:
 - bandwidth
 - server
 title: lock and block
+translationKey: lock and block
 wordpress_id: 738
 wordpress_url: http://new.nata2.org/?p=738
 ---

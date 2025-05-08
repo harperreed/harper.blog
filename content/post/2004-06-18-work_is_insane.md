@@ -11,6 +11,7 @@ tags:
 - technology
 - stress
 title: work is insane
+translationKey: work is insane
 wordpress_id: 888
 wordpress_url: http://new.nata2.org/?p=888
 ---

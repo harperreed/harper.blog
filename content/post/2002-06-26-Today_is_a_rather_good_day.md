@@ -11,6 +11,7 @@ tags:
 - computers
 - laptops
 title: Today is a rather good day
+translationKey: Today is a rather good day
 wordpress_id: 302
 wordpress_url: http://new.nata2.org/?p=302
 ---

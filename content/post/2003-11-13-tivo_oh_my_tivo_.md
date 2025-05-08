@@ -12,6 +12,7 @@ tags:
 - streaming
 - gadgets
 title: tivo oh my tivo.
+translationKey: tivo oh my tivo.
 wordpress_id: 677
 wordpress_url: http://new.nata2.org/?p=677
 ---

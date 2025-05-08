@@ -8,6 +8,7 @@ tags:
 - strategy
 - international-relations
 title: a lot of troops
+translationKey: a lot of troops
 wordpress_id: 393
 wordpress_url: http://new.nata2.org/?p=393
 ---

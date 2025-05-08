@@ -7,6 +7,7 @@ tags:
 - personal-reflection
 - creativity
 title: oh yea. i have a blog
+translationKey: oh yea. i have a blog
 wordpress_id: 1537
 wordpress_url: http://www.nata2.org/?p=1537
 ---

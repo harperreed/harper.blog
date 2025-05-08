@@ -7,6 +7,7 @@ tags:
 - electronics
 - stereo
 title: t-amp hacking
+translationKey: t-amp hacking
 wordpress_id: 1139
 wordpress_url: http://www.nata2.org/2005/10/17/t-amp-hacking/
 ---

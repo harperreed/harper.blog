@@ -7,6 +7,7 @@ tags:
 - community-guidelines
 - personal-accountability
 title: The whole blogging code of conduct thing.
+translationKey: The whole blogging code of conduct thing.
 wordpress_id: 1429
 wordpress_url: http://www.nata2.org/2007/04/10/the-whole-blogging-code-of-conduct-thing/
 ---

@@ -12,6 +12,7 @@ tags:
 - style
 - weekend-activities
 title: fashion victim
+translationKey: fashion victim
 wordpress_id: 201
 wordpress_url: http://new.nata2.org/?p=201
 ---

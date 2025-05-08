@@ -12,6 +12,7 @@ tags:
 - certification
 - design
 title: very tired
+translationKey: very tired
 wordpress_id: 206
 wordpress_url: http://new.nata2.org/?p=206
 ---

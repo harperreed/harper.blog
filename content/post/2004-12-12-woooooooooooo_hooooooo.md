@@ -12,6 +12,7 @@ tags:
 - music
 - video-games
 title: woooooooooooo hooooooo
+translationKey: woooooooooooo hooooooo
 wordpress_id: 970
 wordpress_url: http://new.nata2.org/?p=970
 ---

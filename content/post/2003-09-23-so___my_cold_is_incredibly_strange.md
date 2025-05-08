@@ -13,6 +13,7 @@ tags:
 - sick
 - emotional-pain
 title: so.. my cold is incredibly strange
+translationKey: so.. my cold is incredibly strange
 wordpress_id: 623
 wordpress_url: http://new.nata2.org/?p=623
 ---

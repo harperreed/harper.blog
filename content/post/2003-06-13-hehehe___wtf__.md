@@ -12,6 +12,7 @@ tags:
 - fun
 - insanity
 title: hehehe.. wtf..
+translationKey: hehehe.. wtf..
 wordpress_id: 540
 wordpress_url: http://new.nata2.org/?p=540
 ---

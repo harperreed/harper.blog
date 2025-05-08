@@ -12,6 +12,7 @@ tags:
 - technology
 - juggling
 title: stupid howard stern
+translationKey: stupid howard stern
 wordpress_id: 661
 wordpress_url: http://new.nata2.org/?p=661
 ---

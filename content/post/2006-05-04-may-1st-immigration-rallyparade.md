@@ -7,6 +7,7 @@ tags:
 - chicago-events
 - protest-movement
 title: May 1st Immigration Rally/Parade
+translationKey: May 1st Immigration Rally/Parade
 wordpress_id: 1258
 wordpress_url: http://www.nata2.org/2006/05/04/may-1st-immigration-rallyparade/
 ---

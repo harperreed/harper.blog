@@ -11,6 +11,7 @@ tags:
 - social-life
 - food
 title: i am so tired
+translationKey: i am so tired
 wordpress_id: 260
 wordpress_url: http://new.nata2.org/?p=260
 ---

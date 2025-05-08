@@ -7,6 +7,7 @@ tags:
 - life
 - japan
 title: Marriage. TOKYO.
+translationKey: Marriage. TOKYO.
 wordpress_id: 1334
 wordpress_url: http://www.nata2.org/2006/09/13/marriage-tokyo/
 ---

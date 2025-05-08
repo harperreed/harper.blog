@@ -7,6 +7,7 @@ tags:
 - lifestyle
 - work
 title: 'jesus h christ. it is hot up in here. '
+translationKey: 'jesus h christ. it is hot up in here. '
 wordpress_id: 1307
 wordpress_url: http://www.nata2.org/2006/07/18/jesus-h-christ-it-is-hot-up-in-here/
 ---

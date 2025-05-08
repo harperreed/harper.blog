@@ -7,6 +7,7 @@ tags:
 - chicago
 - dining
 title: Matiss' birthday, Aaron visits and Hiromi gets a job
+translationKey: Matiss' birthday, Aaron visits and Hiromi gets a job
 wordpress_id: 1438
 wordpress_url: http://www.nata2.org/2007/04/22/matiss-birthday-aaron-visits-and-hiromi-gets-a-job/
 ---

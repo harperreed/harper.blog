@@ -7,6 +7,7 @@ tags:
 - friendship
 - post-traumatic-stress
 title: A email response from a friend
+translationKey: A email response from a friend
 wordpress_id: 1486
 wordpress_url: http://www.nata2.org/2007/10/17/a-email-response-from-a-friend/
 ---

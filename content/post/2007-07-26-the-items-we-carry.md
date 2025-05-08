@@ -7,6 +7,7 @@ tags:
 - personal-items
 - meme
 title: The items we carry
+translationKey: The items we carry
 wordpress_id: 1469
 wordpress_url: http://www.nata2.org/2007/07/26/the-items-we-carry/
 ---

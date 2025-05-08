@@ -9,6 +9,7 @@ tags:
 - clothing
 - gifts
 title: member's only
+translationKey: member's only
 wordpress_id: 514
 wordpress_url: http://new.nata2.org/?p=514
 ---

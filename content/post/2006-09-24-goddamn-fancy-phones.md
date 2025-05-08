@@ -7,6 +7,7 @@ tags:
 - sim-cards
 - frustration
 title: Goddamn fancy phones
+translationKey: Goddamn fancy phones
 wordpress_id: 1350
 wordpress_url: http://www.nata2.org/2006/09/24/goddamn-fancy-phones/
 ---

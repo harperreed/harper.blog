@@ -12,6 +12,7 @@ tags:
 - propaganda
 - birthdays
 title: our world rules
+translationKey: our world rules
 wordpress_id: 447
 wordpress_url: http://new.nata2.org/?p=447
 ---

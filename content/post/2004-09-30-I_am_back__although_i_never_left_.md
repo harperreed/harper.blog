@@ -12,6 +12,7 @@ tags:
 - moblog
 - photolog
 title: I am back. although i never left.
+translationKey: I am back. although i never left.
 wordpress_id: 944
 wordpress_url: http://new.nata2.org/?p=944
 ---

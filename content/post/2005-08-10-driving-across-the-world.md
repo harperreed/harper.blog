@@ -7,6 +7,7 @@ tags:
 - adventure
 - fun
 title: 'driving across the world. '
+translationKey: 'driving across the world. '
 wordpress_id: 1108
 wordpress_url: http://www.nata2.org/2005/08/10/driving-across-the-world/
 ---

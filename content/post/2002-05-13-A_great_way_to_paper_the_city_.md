@@ -12,6 +12,7 @@ tags:
 - war
 - media
 title: A great way to paper the city.
+translationKey: A great way to paper the city.
 wordpress_id: 281
 wordpress_url: http://new.nata2.org/?p=281
 ---

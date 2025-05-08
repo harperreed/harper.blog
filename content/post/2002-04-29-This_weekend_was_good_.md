@@ -11,6 +11,7 @@ tags:
 - competitions
 - hair-styling
 title: This weekend was good.
+translationKey: This weekend was good.
 wordpress_id: 270
 wordpress_url: http://new.nata2.org/?p=270
 ---

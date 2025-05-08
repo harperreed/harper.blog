@@ -12,6 +12,7 @@ tags:
 - disease
 - action
 title: Another wierd dream
+translationKey: Another wierd dream
 wordpress_id: 129
 wordpress_url: http://new.nata2.org/?p=129
 ---

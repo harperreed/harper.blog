@@ -12,6 +12,7 @@ tags:
 - headphones
 - weekend
 title: whatever... i do what i want..
+translationKey: whatever... i do what i want..
 wordpress_id: 289
 wordpress_url: http://new.nata2.org/?p=289
 ---

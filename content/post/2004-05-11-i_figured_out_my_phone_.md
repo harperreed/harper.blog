@@ -12,6 +12,7 @@ tags:
 - rock-music
 - chicago
 title: i figured out my phone.
+translationKey: i figured out my phone.
 wordpress_id: 851
 wordpress_url: http://new.nata2.org/?p=851
 ---

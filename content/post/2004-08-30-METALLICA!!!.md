@@ -12,6 +12,7 @@ tags:
 - friends
 - weekend-fun
 title: METALLICA!!!
+translationKey: METALLICA!!!
 wordpress_id: 925
 wordpress_url: http://new.nata2.org/?p=925
 ---

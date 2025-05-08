@@ -7,6 +7,7 @@ tags:
 - metal
 - fun
 title: 'I just saw torche. '
+translationKey: 'I just saw torche. '
 wordpress_id: 1270
 wordpress_url: http://www.nata2.org/2006/05/20/i-just-saw-torche/
 ---

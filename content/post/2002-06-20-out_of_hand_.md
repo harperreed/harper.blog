@@ -10,6 +10,7 @@ tags:
 - entertainment
 - humor
 title: out of hand.
+translationKey: out of hand.
 wordpress_id: 300
 wordpress_url: http://new.nata2.org/?p=300
 ---

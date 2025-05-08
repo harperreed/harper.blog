@@ -7,6 +7,7 @@ tags:
 - hardware
 - technology
 title: Playstation 2 hacking
+translationKey: Playstation 2 hacking
 wordpress_id: 1193
 wordpress_url: http://www.nata2.org/2004/09/15/playstation-2-hacking-2/
 ---

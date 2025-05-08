@@ -7,6 +7,7 @@ tags:
 - nightlife
 - friends
 title: weekend oh yea
+translationKey: weekend oh yea
 wordpress_id: 1030
 wordpress_url: http://www.nata2.org/2005/03/28/weekend-oh-yea/
 ---

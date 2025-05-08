@@ -10,6 +10,7 @@ tags:
 - activism
 - juggling
 title: Paul Wellstone
+translationKey: Paul Wellstone
 wordpress_id: 382
 wordpress_url: http://new.nata2.org/?p=382
 ---

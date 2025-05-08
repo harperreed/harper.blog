@@ -7,6 +7,7 @@ tags:
 - networking
 - chicago-events
 title: Speaking at TechCocktail conference on thursday
+translationKey: Speaking at TechCocktail conference on thursday
 wordpress_id: 1520
 wordpress_url: http://www.nata2.org/?p=1520
 ---

@@ -13,6 +13,7 @@ tags:
 - gadgets
 - computers
 title: fifteen inch imac
+translationKey: fifteen inch imac
 wordpress_id: 882
 wordpress_url: http://new.nata2.org/?p=882
 ---

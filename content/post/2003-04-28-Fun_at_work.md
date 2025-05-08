@@ -11,6 +11,7 @@ tags:
 - rock
 - space
 title: Fun at work
+translationKey: Fun at work
 wordpress_id: 499
 wordpress_url: http://new.nata2.org/?p=499
 ---

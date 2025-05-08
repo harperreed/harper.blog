@@ -11,6 +11,7 @@ tags:
 - repair
 - computing
 title: long long ago
+translationKey: long long ago
 wordpress_id: 313
 wordpress_url: http://new.nata2.org/?p=313
 ---

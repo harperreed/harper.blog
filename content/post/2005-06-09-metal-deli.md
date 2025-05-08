@@ -7,6 +7,7 @@ tags:
 - music
 - sandwiches
 title: Metal Deli
+translationKey: Metal Deli
 wordpress_id: 1080
 wordpress_url: http://www.nata2.org/2005/06/09/metal-deli/
 ---

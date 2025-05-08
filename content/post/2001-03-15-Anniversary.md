@@ -12,6 +12,7 @@ tags:
 - software
 - celebration
 title: Anniversary
+translationKey: Anniversary
 wordpress_id: 85
 wordpress_url: http://new.nata2.org/?p=85
 ---

@@ -11,6 +11,7 @@ tags:
 - ipod
 - lifestyle
 title: Heart i choke
+translationKey: Heart i choke
 wordpress_id: 523
 wordpress_url: http://new.nata2.org/?p=523
 ---

@@ -7,6 +7,8 @@ tags:
 - self-care
 - creativity
 title: blog blog blog... i am so kinda sleepy and tired of blogging for a minute
+translationKey: blog blog blog... i am so kinda sleepy and tired of blogging for a
+  minute
 wordpress_id: 1154
 wordpress_url: http://www.nata2.org/2005/12/15/blog-blog-blog-i-am-so-kinda-sleepy-and-tired-of-blogging-for-a-minute/
 ---

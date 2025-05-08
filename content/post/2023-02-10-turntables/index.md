@@ -16,6 +16,7 @@ tags:
 - music
 - home-audio
 title: Some thoughts about turntables
+translationKey: Some thoughts about turntables
 ---
 
 I wrote this for a few friends awhile ago and thought maybe it would be helpful for some more folks.

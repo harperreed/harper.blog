@@ -10,6 +10,7 @@ tags:
 - celebration
 - humor
 title: small pants
+translationKey: small pants
 wordpress_id: 38
 wordpress_url: http://new.nata2.org/?p=38
 ---

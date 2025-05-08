@@ -12,6 +12,7 @@ tags:
 - humor
 - crobar
 title: i have no idea what i was about to say
+translationKey: i have no idea what i was about to say
 wordpress_id: 887
 wordpress_url: http://new.nata2.org/?p=887
 ---

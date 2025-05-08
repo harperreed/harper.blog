@@ -12,6 +12,7 @@ tags:
 - politics
 - entertainment
 title: welcome back.
+translationKey: welcome back.
 wordpress_id: 333
 wordpress_url: http://new.nata2.org/?p=333
 ---

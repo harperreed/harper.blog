@@ -12,6 +12,7 @@ tags:
 - digital-transformation
 - organizational-behavior
 title: Corporate Culture
+translationKey: Corporate Culture
 wordpress_id: 147
 wordpress_url: http://new.nata2.org/?p=147
 ---

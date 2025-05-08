@@ -12,6 +12,7 @@ tags:
 - humor
 - death-metal
 title: this weekend.. -- -- -- -- this entry is out of control.
+translationKey: this weekend.. -- -- -- -- this entry is out of control.
 wordpress_id: 319
 wordpress_url: http://new.nata2.org/?p=319
 ---

@@ -15,6 +15,7 @@ tags:
 - violence
 - emotions
 title: Bone, Thugs and harmony
+translationKey: Bone, Thugs and harmony
 wordpress_id: 367
 wordpress_url: http://new.nata2.org/?p=367
 ---

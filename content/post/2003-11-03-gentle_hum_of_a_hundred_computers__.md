@@ -12,6 +12,7 @@ tags:
 - sleep
 - convention
 title: gentle hum of a hundred computers..
+translationKey: gentle hum of a hundred computers..
 wordpress_id: 665
 wordpress_url: http://new.nata2.org/?p=665
 ---

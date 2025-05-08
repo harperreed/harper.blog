@@ -12,6 +12,7 @@ tags:
 - crazy-experience
 - law-enforcement
 title: omg. insanity. chicago cops
+translationKey: omg. insanity. chicago cops
 wordpress_id: 1011
 wordpress_url: http://new.nata2.org/?p=1011
 ---

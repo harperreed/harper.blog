@@ -12,6 +12,7 @@ tags:
 - personal-growth
 - self-reflection
 title: Hip Hop and you too
+translationKey: Hip Hop and you too
 wordpress_id: 78
 wordpress_url: http://new.nata2.org/?p=78
 ---

@@ -12,6 +12,7 @@ tags:
 - work-life-balance
 - personal-reflection
 title: so the cubs lost
+translationKey: so the cubs lost
 wordpress_id: 645
 wordpress_url: http://new.nata2.org/?p=645
 ---

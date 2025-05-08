@@ -7,6 +7,7 @@ tags:
 - personal-experience
 - memories
 title: 'one thousandth post. '
+translationKey: 'one thousandth post. '
 wordpress_id: 1046
 wordpress_url: http://www.nata2.org/2005/04/13/one-thousandth-post/
 ---

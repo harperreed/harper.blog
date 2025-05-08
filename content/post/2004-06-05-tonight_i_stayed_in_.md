@@ -12,6 +12,7 @@ tags:
 - personal-experience
 - entertainment
 title: tonight i stayed in.
+translationKey: tonight i stayed in.
 wordpress_id: 877
 wordpress_url: http://new.nata2.org/?p=877
 ---

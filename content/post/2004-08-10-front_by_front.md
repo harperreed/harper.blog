@@ -12,6 +12,7 @@ tags:
 - personal-reflection
 - drinking
 title: front by front
+translationKey: front by front
 wordpress_id: 913
 wordpress_url: http://new.nata2.org/?p=913
 ---

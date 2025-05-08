@@ -12,6 +12,7 @@ tags:
 - art
 - modern
 title: I like buildings
+translationKey: I like buildings
 wordpress_id: 166
 wordpress_url: http://new.nata2.org/?p=166
 ---

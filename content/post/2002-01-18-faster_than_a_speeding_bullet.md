@@ -12,6 +12,7 @@ tags:
 - friends
 - wine
 title: faster than a speeding bullet
+translationKey: faster than a speeding bullet
 wordpress_id: 183
 wordpress_url: http://new.nata2.org/?p=183
 ---

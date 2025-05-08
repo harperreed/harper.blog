@@ -11,6 +11,7 @@ tags:
 - colorado
 - humor
 title: everything is coming together
+translationKey: everything is coming together
 wordpress_id: 848
 wordpress_url: http://new.nata2.org/?p=848
 ---

@@ -12,6 +12,7 @@ tags:
 - relationships
 - anxiety
 title: my world is weird
+translationKey: my world is weird
 wordpress_id: 846
 wordpress_url: http://new.nata2.org/?p=846
 ---

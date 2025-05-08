@@ -11,6 +11,7 @@ tags:
 - smartphone
 - communication
 title: Airport waiting
+translationKey: Airport waiting
 wordpress_id: 902
 wordpress_url: http://new.nata2.org/?p=902
 ---

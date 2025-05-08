@@ -7,6 +7,7 @@ tags:
 - aggregation
 - muse
 title: a couple things
+translationKey: a couple things
 wordpress_id: 1343
 wordpress_url: http://www.nata2.org/2006/09/13/a-couple-things/
 ---

@@ -10,6 +10,7 @@ tags:
 - freedom
 - lifestyle
 title: cook your way to freedom
+translationKey: cook your way to freedom
 wordpress_id: 299
 wordpress_url: http://new.nata2.org/?p=299
 ---

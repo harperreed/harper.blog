@@ -6,6 +6,7 @@ tags:
 - software-engineering
 - tech-communication
 title: Rails and Wired magazine
+translationKey: Rails and Wired magazine
 wordpress_id: 1507
 wordpress_url: http://www.nata2.org/2008/02/23/rails-and-wired-magazine/
 ---

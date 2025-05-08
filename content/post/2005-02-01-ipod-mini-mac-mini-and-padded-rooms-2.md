@@ -7,6 +7,7 @@ tags:
 - computers
 - consumer-products
 title: Ipod Mini, Mac Mini and padded rooms.
+translationKey: Ipod Mini, Mac Mini and padded rooms.
 wordpress_id: 1190
 wordpress_url: http://www.nata2.org/2005/02/01/ipod-mini-mac-mini-and-padded-rooms-2/
 ---

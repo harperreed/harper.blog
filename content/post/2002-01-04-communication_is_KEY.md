@@ -12,6 +12,7 @@ tags:
 - hobbies
 - self-improvement
 title: communication is KEY
+translationKey: communication is KEY
 wordpress_id: 165
 wordpress_url: http://new.nata2.org/?p=165
 ---

@@ -7,6 +7,7 @@ tags:
 - gadgets
 - consumer-electronics
 title: 'Smitten by the iPad: thoughts and complaints. '
+translationKey: 'Smitten by the iPad: thoughts and complaints. '
 wordpress_id: 1673
 wordpress_url: http://www.nata2.org/?p=1673
 ---

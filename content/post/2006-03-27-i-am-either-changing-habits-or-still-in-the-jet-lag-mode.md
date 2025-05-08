@@ -7,6 +7,7 @@ tags:
 - habits
 - creativity
 title: I am either changing habits or still in jet-lag mode.
+translationKey: I am either changing habits or still in jet-lag mode.
 wordpress_id: 1235
 wordpress_url: http://www.nata2.org/2006/03/27/i-am-either-changing-habits-or-still-in-the-jet-lag-mode/
 ---

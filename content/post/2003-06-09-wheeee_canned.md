@@ -12,6 +12,7 @@ tags:
 - weekend-fun
 - outdoor-activities
 title: wheeee canned
+translationKey: wheeee canned
 wordpress_id: 535
 wordpress_url: http://new.nata2.org/?p=535
 ---

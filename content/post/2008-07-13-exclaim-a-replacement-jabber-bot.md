@@ -7,6 +7,7 @@ tags:
 - bot
 - google-app-engine
 title: Excla.im - a replacement jabber bot
+translationKey: Excla.im - a replacement jabber bot
 wordpress_id: 1543
 wordpress_url: http://www.nata2.org/?p=1543
 ---

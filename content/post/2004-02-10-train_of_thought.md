@@ -13,6 +13,7 @@ tags:
 - childhood
 - community
 title: train of thought
+translationKey: train of thought
 wordpress_id: 749
 wordpress_url: http://new.nata2.org/?p=749
 ---

@@ -7,6 +7,7 @@ tags:
 - firmware
 - codes
 title: Nokia hash Codes
+translationKey: Nokia hash Codes
 wordpress_id: 1243
 wordpress_url: http://www.nata2.org/phone-stuff/nokia-codes/
 ---

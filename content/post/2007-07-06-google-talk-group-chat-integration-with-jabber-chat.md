@@ -7,6 +7,7 @@ tags:
 - instant-messaging
 - technology
 title: Google Talk group chat integration with Jabber Chat
+translationKey: Google Talk group chat integration with Jabber Chat
 wordpress_id: 1463
 wordpress_url: http://www.nata2.org/2007/07/06/google-talk-group-chat-integration-with-jabber-chat/
 ---

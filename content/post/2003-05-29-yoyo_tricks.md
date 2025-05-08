@@ -8,6 +8,7 @@ tags:
 - toys
 - videos
 title: yoyo tricks
+translationKey: yoyo tricks
 wordpress_id: 525
 wordpress_url: http://new.nata2.org/?p=525
 ---

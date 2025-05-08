@@ -7,6 +7,7 @@ tags:
 - video-editing
 - travel
 title: this is a long awaited post
+translationKey: this is a long awaited post
 wordpress_id: 1155
 wordpress_url: http://www.nata2.org/?p=1155
 ---

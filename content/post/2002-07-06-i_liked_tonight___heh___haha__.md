@@ -12,6 +12,7 @@ tags:
 - music
 - entertainment
 title: i liked tonight.. heh.. haha..
+translationKey: i liked tonight.. heh.. haha..
 wordpress_id: 310
 wordpress_url: http://new.nata2.org/?p=310
 ---

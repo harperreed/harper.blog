@@ -7,6 +7,7 @@ tags:
 - online-communities
 - friendship
 title: How I setup blogs for my friends
+translationKey: How I setup blogs for my friends
 wordpress_id: 1405
 wordpress_url: http://www.nata2.org/2007/01/15/how-i-setup-blogs-for-my-friends/
 ---

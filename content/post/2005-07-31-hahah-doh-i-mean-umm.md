@@ -7,6 +7,7 @@ tags:
 - humor
 - apology
 title: 'hahah.  doh. i mean.. umm.. '
+translationKey: 'hahah.  doh. i mean.. umm.. '
 wordpress_id: 1103
 wordpress_url: http://www.nata2.org/2005/07/31/hahah-doh-i-mean-umm/
 ---

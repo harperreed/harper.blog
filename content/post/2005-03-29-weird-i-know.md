@@ -7,6 +7,7 @@ tags:
 - work-life-balance
 - fitness
 title: weird i know
+translationKey: weird i know
 wordpress_id: 1033
 wordpress_url: http://www.nata2.org/2005/03/29/weird-i-know/
 ---

@@ -12,6 +12,7 @@ tags:
 - underground-scene
 - entertainment
 title: Laptronica
+translationKey: Laptronica
 wordpress_id: 186
 wordpress_url: http://new.nata2.org/?p=186
 ---

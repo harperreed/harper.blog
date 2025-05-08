@@ -9,6 +9,7 @@ tags:
 - firewall
 - data-center
 title: new new new
+translationKey: new new new
 wordpress_id: 477
 wordpress_url: http://new.nata2.org/?p=477
 ---

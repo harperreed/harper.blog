@@ -11,6 +11,7 @@ tags:
 - design
 - programming
 title: i need something to do.. or something
+translationKey: i need something to do.. or something
 wordpress_id: 1005
 wordpress_url: http://new.nata2.org/?p=1005
 ---

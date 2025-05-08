@@ -12,6 +12,7 @@ tags:
 - frustration
 - personal
 title: today i lost it
+translationKey: today i lost it
 wordpress_id: 890
 wordpress_url: http://new.nata2.org/?p=890
 ---

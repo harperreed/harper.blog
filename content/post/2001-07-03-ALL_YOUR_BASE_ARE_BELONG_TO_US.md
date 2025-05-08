@@ -9,6 +9,7 @@ tags:
 - humor
 - viral-content
 title: ALL YOUR BASE ARE BELONG TO US
+translationKey: ALL YOUR BASE ARE BELONG TO US
 wordpress_id: 2
 wordpress_url: http://new.nata2.org/?p=2
 ---

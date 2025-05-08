@@ -12,6 +12,7 @@ tags:
 - emotions
 - personal-growth
 title: sometimes things happen and you understand but they aren't easy
+translationKey: sometimes things happen and you understand but they aren't easy
 wordpress_id: 813
 wordpress_url: http://new.nata2.org/?p=813
 ---

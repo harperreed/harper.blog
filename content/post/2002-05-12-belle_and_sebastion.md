@@ -12,6 +12,7 @@ tags:
 - live-performance
 - personal-reflection
 title: belle and sebastion
+translationKey: belle and sebastion
 wordpress_id: 280
 wordpress_url: http://new.nata2.org/?p=280
 ---

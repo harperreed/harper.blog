@@ -11,6 +11,7 @@ tags:
 - frustration
 - repairs
 title: Sad, sad i am
+translationKey: Sad, sad i am
 wordpress_id: 19
 wordpress_url: http://new.nata2.org/?p=19
 ---

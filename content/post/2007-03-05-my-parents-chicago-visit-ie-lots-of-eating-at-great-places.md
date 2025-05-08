@@ -7,6 +7,7 @@ tags:
 - restaurant-reviews
 - weekend-getaway
 title: My parents Chicago visit. Lots of amazing dining...
+translationKey: My parents Chicago visit. Lots of amazing dining...
 wordpress_id: 1415
 wordpress_url: http://www.nata2.org/2007/03/05/my-parents-chicago-visit-ie-lots-of-eating-at-great-places/
 ---

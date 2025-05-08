@@ -10,6 +10,7 @@ tags:
 - self-reflection
 - personal-experience
 title: i droppped like a ton of bricks
+translationKey: i droppped like a ton of bricks
 wordpress_id: 553
 wordpress_url: http://new.nata2.org/?p=553
 ---

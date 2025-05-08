@@ -11,6 +11,7 @@ tags:
 - technology
 - culture
 title: I love the internet
+translationKey: I love the internet
 wordpress_id: 220
 wordpress_url: http://new.nata2.org/?p=220
 ---

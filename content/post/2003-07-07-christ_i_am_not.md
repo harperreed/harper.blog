@@ -12,6 +12,7 @@ tags:
 - family
 - personal-experience
 title: christ i am not
+translationKey: christ i am not
 wordpress_id: 560
 wordpress_url: http://new.nata2.org/?p=560
 ---

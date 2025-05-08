@@ -7,6 +7,7 @@ tags:
 - streaming
 - software
 title: p2ptv client for osx
+translationKey: p2ptv client for osx
 wordpress_id: 1330
 wordpress_url: http://www.nata2.org/2006/08/31/p2ptv-client-for-osx/
 ---

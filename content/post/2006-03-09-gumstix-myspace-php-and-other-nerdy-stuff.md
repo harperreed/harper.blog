@@ -7,6 +7,7 @@ tags:
 - programming
 - hobbyist
 title: Gumstix, myspace, php and other nerdy stuff.
+translationKey: Gumstix, myspace, php and other nerdy stuff.
 wordpress_id: 1229
 wordpress_url: http://www.nata2.org/2006/03/09/gumstix-myspace-php-and-other-nerdy-stuff/
 ---

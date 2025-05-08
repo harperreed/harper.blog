@@ -10,6 +10,7 @@ tags:
 - personal-experience
 - mental-health
 title: sick and tired
+translationKey: sick and tired
 wordpress_id: 865
 wordpress_url: http://new.nata2.org/?p=865
 ---

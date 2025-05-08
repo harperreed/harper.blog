@@ -7,6 +7,7 @@ tags:
 - rails-development
 - personal
 title: tonight / this weekend
+translationKey: tonight / this weekend
 wordpress_id: 1095
 wordpress_url: http://www.nata2.org/?p=1095
 ---

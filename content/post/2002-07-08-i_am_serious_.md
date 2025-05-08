@@ -8,6 +8,7 @@ tags:
 - lifestyle
 - entertainment
 title: i am serious.
+translationKey: i am serious.
 wordpress_id: 312
 wordpress_url: http://new.nata2.org/?p=312
 ---

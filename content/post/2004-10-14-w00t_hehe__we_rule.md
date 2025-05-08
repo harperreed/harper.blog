@@ -11,6 +11,7 @@ tags:
 - youth-activism
 - online-communities
 title: w00t hehe. we rule
+translationKey: w00t hehe. we rule
 wordpress_id: 951
 wordpress_url: http://new.nata2.org/?p=951
 ---

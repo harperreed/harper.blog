@@ -11,6 +11,7 @@ tags:
 - rss
 - personal-projects
 title: xmlhttp. tiddlywiki. new design. other stuff
+translationKey: xmlhttp. tiddlywiki. new design. other stuff
 wordpress_id: 991
 wordpress_url: http://new.nata2.org/?p=991
 ---

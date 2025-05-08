@@ -7,6 +7,7 @@ tags:
 - literature
 - books
 title: Sad violent books about society
+translationKey: Sad violent books about society
 wordpress_id: 1134
 wordpress_url: http://www.nata2.org/2005/10/05/sad-violent-books-about-society/
 ---

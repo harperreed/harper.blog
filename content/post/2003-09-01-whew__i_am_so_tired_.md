@@ -12,6 +12,7 @@ tags:
 - friendship
 - membership
 title: whew. i am so tired.
+translationKey: whew. i am so tired.
 wordpress_id: 610
 wordpress_url: http://new.nata2.org/?p=610
 ---

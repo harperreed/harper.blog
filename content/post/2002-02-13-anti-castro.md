@@ -12,6 +12,7 @@ tags:
 - cuban-revolution
 - humor
 title: anti-castro
+translationKey: anti-castro
 wordpress_id: 208
 wordpress_url: http://new.nata2.org/?p=208
 ---

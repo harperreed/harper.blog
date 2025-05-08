@@ -12,6 +12,7 @@ tags:
 - parties
 - friends
 title: Weekend Schmeekend
+translationKey: Weekend Schmeekend
 wordpress_id: 351
 wordpress_url: http://new.nata2.org/?p=351
 ---

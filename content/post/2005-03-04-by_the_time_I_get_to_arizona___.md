@@ -8,6 +8,7 @@ tags:
 - travel
 - technology
 title: by the time I get to arizona...
+translationKey: by the time I get to arizona...
 wordpress_id: 1001
 wordpress_url: http://new.nata2.org/?p=1001
 ---

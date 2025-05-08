@@ -10,6 +10,7 @@ tags:
 - personal-growth
 - sadness
 title: i hate endings
+translationKey: i hate endings
 wordpress_id: 818
 wordpress_url: http://new.nata2.org/?p=818
 ---

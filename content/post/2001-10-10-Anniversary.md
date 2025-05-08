@@ -12,6 +12,7 @@ tags:
 - bands
 - anniversaries
 title: Anniversary
+translationKey: Anniversary
 wordpress_id: 114
 wordpress_url: http://new.nata2.org/?p=114
 ---

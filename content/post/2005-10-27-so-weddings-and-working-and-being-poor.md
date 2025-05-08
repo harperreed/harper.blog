@@ -7,6 +7,7 @@ tags:
 - chicago
 - music
 title: 'So weddings. and working. and being poor. '
+translationKey: 'So weddings. and working. and being poor. '
 wordpress_id: 1144
 wordpress_url: http://www.nata2.org/2005/10/27/so-weddings-and-working-and-being-poor/
 ---

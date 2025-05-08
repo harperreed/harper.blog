@@ -7,6 +7,7 @@ tags:
 - social-media
 - im-clients
 title: The twitter plugin that I wish existed
+translationKey: The twitter plugin that I wish existed
 wordpress_id: 1436
 wordpress_url: http://www.nata2.org/2007/04/18/the-twitter-plugin-that-i-wish-existed/
 ---

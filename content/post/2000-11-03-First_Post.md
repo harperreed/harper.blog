@@ -9,6 +9,7 @@ tags:
 - diary
 - friends
 title: First Post
+translationKey: First Post
 wordpress_id: 1
 wordpress_url: http://new.nata2.org/?p=1
 ---

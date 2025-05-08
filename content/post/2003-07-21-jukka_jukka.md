@@ -11,6 +11,7 @@ tags:
 - chaos
 - sludge-metal
 title: jukka jukka
+translationKey: jukka jukka
 wordpress_id: 571
 wordpress_url: http://new.nata2.org/?p=571
 ---

@@ -9,6 +9,7 @@ tags:
 - technology
 - pictures
 title: done again
+translationKey: done again
 wordpress_id: 858
 wordpress_url: http://new.nata2.org/?p=858
 ---

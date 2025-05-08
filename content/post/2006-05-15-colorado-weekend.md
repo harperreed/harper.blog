@@ -7,6 +7,7 @@ tags:
 - travel-diary
 - mothers-day
 title: Colorado weekend
+translationKey: Colorado weekend
 wordpress_id: 1268
 wordpress_url: http://www.nata2.org/2006/05/15/colorado-weekend/
 ---

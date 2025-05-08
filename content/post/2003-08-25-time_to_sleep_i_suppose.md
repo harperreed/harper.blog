@@ -12,6 +12,7 @@ tags:
 - life-updates
 - beverages
 title: time to sleep i suppose
+translationKey: time to sleep i suppose
 wordpress_id: 605
 wordpress_url: http://new.nata2.org/?p=605
 ---

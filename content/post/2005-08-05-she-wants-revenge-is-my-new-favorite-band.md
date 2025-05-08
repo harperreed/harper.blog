@@ -7,6 +7,7 @@ tags:
 - reviews
 - songs
 title: she wants revenge is my new favorite band.
+translationKey: she wants revenge is my new favorite band.
 wordpress_id: 1107
 wordpress_url: http://www.nata2.org/2005/08/05/she-wants-revenge-is-my-new-favorite-band/
 ---

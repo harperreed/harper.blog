@@ -9,6 +9,7 @@ tags:
 - celebrations
 - family-time
 title: Thanksgiving pictures
+translationKey: Thanksgiving pictures
 wordpress_id: 411
 wordpress_url: http://new.nata2.org/?p=411
 ---

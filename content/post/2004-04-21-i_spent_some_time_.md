@@ -10,6 +10,7 @@ tags:
 - music
 - nokia
 title: i spent some time.
+translationKey: i spent some time.
 wordpress_id: 827
 wordpress_url: http://new.nata2.org/?p=827
 ---

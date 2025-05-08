@@ -7,6 +7,7 @@ tags:
 - sociology
 - gangs
 title: Freakonomics
+translationKey: Freakonomics
 wordpress_id: 1472
 wordpress_url: http://www.nata2.org/2007/08/31/freakonomics/
 ---

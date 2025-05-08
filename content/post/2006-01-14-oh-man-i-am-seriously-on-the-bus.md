@@ -7,6 +7,7 @@ tags:
 - public-transportation
 - adventure
 title: 'oh man. i am seriously on the bus. '
+translationKey: 'oh man. i am seriously on the bus. '
 wordpress_id: 1159
 wordpress_url: http://www.nata2.org/2006/01/14/oh-man-i-am-seriously-on-the-bus/
 ---

@@ -1,17 +1,18 @@
 ---
 date: 2025-01-12 20:59:59-05:00
-title: New Media
-description: Adding a media section to my website to track and display what I'm reading, listening to, and bookmarking online through automated data collection.
+description: Adding a media section to my website to track and display what I'm reading,
+  listening to, and bookmarking online through automated data collection.
 draft: false
 generateSocialImage: true
 tags:
-    - personal-data
-    - hugo
-    - rss
-    - media-tracking
-    - automation
-    - web-development
-translationKey: "new-media"
+- personal-data
+- hugo
+- rss
+- media-tracking
+- automation
+- web-development
+title: New Media
+translationKey: new-media
 ---
 
 _tl;dr: I added a media section to my website to track and display what I'm reading, listening to, and bookmarking online through automated data collection. visit it [here](/media)_

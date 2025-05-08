@@ -9,6 +9,7 @@ tags:
 - gadgets
 - personal-space
 title: my room is a mess
+translationKey: my room is a mess
 wordpress_id: 968
 wordpress_url: http://new.nata2.org/?p=968
 ---

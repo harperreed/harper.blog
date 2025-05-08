@@ -12,6 +12,7 @@ tags:
 - friends
 - fun
 title: carnival cruise lines
+translationKey: carnival cruise lines
 wordpress_id: 314
 wordpress_url: http://new.nata2.org/?p=314
 ---

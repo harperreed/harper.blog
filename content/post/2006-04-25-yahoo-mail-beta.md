@@ -7,6 +7,7 @@ tags:
 - beta-testing
 - interface-design
 title: Yahoo mail beta
+translationKey: Yahoo mail beta
 wordpress_id: 1253
 wordpress_url: http://www.nata2.org/2006/04/25/yahoo-mail-beta/
 ---

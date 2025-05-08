@@ -11,6 +11,7 @@ tags:
 - pdf-generation
 - irc
 title: yep. i am kinda sleepy
+translationKey: yep. i am kinda sleepy
 wordpress_id: 993
 wordpress_url: http://new.nata2.org/?p=993
 ---

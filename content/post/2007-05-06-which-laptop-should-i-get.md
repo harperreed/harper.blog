@@ -7,6 +7,7 @@ tags:
 - travel
 - development
 title: Which laptop should I get
+translationKey: Which laptop should I get
 wordpress_id: 1441
 wordpress_url: http://www.nata2.org/2007/05/06/which-laptop-should-i-get/
 ---

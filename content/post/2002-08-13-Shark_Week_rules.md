@@ -12,6 +12,7 @@ tags:
 - ocean-ecosystem
 - animal-behavior
 title: Shark Week rules
+translationKey: Shark Week rules
 wordpress_id: 340
 wordpress_url: http://new.nata2.org/?p=340
 ---

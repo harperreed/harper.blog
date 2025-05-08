@@ -12,6 +12,7 @@ tags:
 - literature
 - fashion
 title: Thoughts about the past/future and distance
+translationKey: Thoughts about the past/future and distance
 wordpress_id: 410
 wordpress_url: http://new.nata2.org/?p=410
 ---

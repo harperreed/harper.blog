@@ -7,6 +7,7 @@ tags:
 - entertainment
 - funny
 title: best blond joke ever
+translationKey: best blond joke ever
 wordpress_id: 1158
 wordpress_url: http://www.nata2.org/2006/01/13/best-blond-joke-ever/
 ---

@@ -12,6 +12,7 @@ tags:
 - social-event
 - team-building
 title: i know i know
+translationKey: i know i know
 wordpress_id: 856
 wordpress_url: http://new.nata2.org/?p=856
 ---

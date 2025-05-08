@@ -13,6 +13,7 @@ tags:
 - privacy-concerns
 - epidemiology
 title: Digital Contact Tracing and Alerting vs Exposure Alerting
+translationKey: Digital Contact Tracing and Alerting vs Exposure Alerting
 ---
 
 **UPDATE:** Luckily for all of us, WHO, Apple/Google and others have agreed that we are not doing contact tracing. They have decided that the term should be "**Exposure Notification**."

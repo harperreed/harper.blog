@@ -7,6 +7,7 @@ tags:
 - servers
 - thanksgiving
 title: Airport internet. Free. W00t. Blocked.
+translationKey: Airport internet. Free. W00t. Blocked.
 wordpress_id: 1151
 wordpress_url: http://www.nata2.org/2005/11/23/airport-internet-free-w00t-blocked/
 ---

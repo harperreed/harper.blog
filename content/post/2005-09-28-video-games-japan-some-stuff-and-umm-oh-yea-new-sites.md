@@ -7,6 +7,7 @@ tags:
 - emulation
 - nostalgia
 title: video games, japan some stuff.. and umm.. oh yea. new sites
+translationKey: video games, japan some stuff.. and umm.. oh yea. new sites
 wordpress_id: 1132
 wordpress_url: http://www.nata2.org/?p=1132
 ---

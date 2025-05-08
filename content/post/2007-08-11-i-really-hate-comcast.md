@@ -7,6 +7,7 @@ tags:
 - cable-service
 - service-outage
 title: I really hate Comcast
+translationKey: I really hate Comcast
 wordpress_id: 1471
 wordpress_url: http://www.nata2.org/2007/08/11/i-really-hate-comcast/
 ---

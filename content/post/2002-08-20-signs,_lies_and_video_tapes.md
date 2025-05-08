@@ -10,6 +10,7 @@ tags:
 - afghanistan
 - current-events
 title: signs, lies and video tapes
+translationKey: signs, lies and video tapes
 wordpress_id: 346
 wordpress_url: http://new.nata2.org/?p=346
 ---

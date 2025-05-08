@@ -7,6 +7,7 @@ tags:
 - asterisk
 - telecommunications
 title: Hacking mobile voicemail with Asterisk and caller ID spoofing
+translationKey: Hacking mobile voicemail with Asterisk and caller ID spoofing
 wordpress_id: 1352
 wordpress_url: http://www.nata2.org/2006/09/24/hacking-voicemail-with-asterisk-and-caller-id-spoofing/
 ---

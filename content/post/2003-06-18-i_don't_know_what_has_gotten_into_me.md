@@ -11,6 +11,7 @@ tags:
 - headphones
 - lifestyle
 title: i don't know what has gotten into me
+translationKey: i don't know what has gotten into me
 wordpress_id: 544
 wordpress_url: http://new.nata2.org/?p=544
 ---

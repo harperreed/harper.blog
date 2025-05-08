@@ -7,6 +7,7 @@ tags:
 - beta-testing
 - streaming
 title: I got a Venice Project beta test
+translationKey: I got a Venice Project beta test
 wordpress_id: 1404
 wordpress_url: http://www.nata2.org/2007/01/10/i-got-a-venice-project-beta-test/
 ---

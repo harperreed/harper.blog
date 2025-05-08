@@ -12,6 +12,7 @@ tags:
 - technology
 - media
 title: getting stabbed in the stomach with a knife would really really hurt
+translationKey: getting stabbed in the stomach with a knife would really really hurt
 wordpress_id: 362
 wordpress_url: http://new.nata2.org/?p=362
 ---

@@ -7,6 +7,7 @@ tags:
 - family
 - culture
 title: Going to Japan.
+translationKey: Going to Japan.
 wordpress_id: 1399
 wordpress_url: http://www.nata2.org/2006/12/19/going-to-japan/
 ---

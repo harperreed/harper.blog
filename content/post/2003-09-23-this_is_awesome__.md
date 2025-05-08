@@ -8,6 +8,7 @@ tags:
 - competition
 - fun
 title: this is awesome..
+translationKey: this is awesome..
 wordpress_id: 625
 wordpress_url: http://new.nata2.org/?p=625
 ---

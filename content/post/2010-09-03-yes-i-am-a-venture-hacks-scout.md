@@ -7,6 +7,7 @@ tags:
 - midwest-entrepreneurship
 - scouting-programs
 title: Yes! I am a venture hacks scout! Chicago RPZNT
+translationKey: Yes! I am a venture hacks scout! Chicago RPZNT
 ---
 
 <img src="/images/Peace-Logo.jpg" align="right" width="200"/>

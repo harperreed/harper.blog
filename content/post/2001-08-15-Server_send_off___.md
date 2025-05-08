@@ -12,6 +12,7 @@ tags:
 - hosting
 - technology
 title: Server send off...
+translationKey: Server send off...
 wordpress_id: 26
 wordpress_url: http://new.nata2.org/?p=26
 ---

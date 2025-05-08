@@ -11,6 +11,7 @@ tags:
 - social-issues
 - film
 title: i've got no legs. i've got no legs..
+translationKey: i've got no legs. i've got no legs..
 wordpress_id: 564
 wordpress_url: http://new.nata2.org/?p=564
 ---

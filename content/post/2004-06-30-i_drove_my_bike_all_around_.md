@@ -12,6 +12,7 @@ tags:
 - friends
 - juggling
 title: i drove my bike all around.
+translationKey: i drove my bike all around.
 wordpress_id: 894
 wordpress_url: http://new.nata2.org/?p=894
 ---

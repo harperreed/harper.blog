@@ -7,6 +7,7 @@ tags:
 - haircut
 - sponsorship
 title: Yes master..
+translationKey: Yes master..
 wordpress_id: 245
 wordpress_url: http://new.nata2.org/?p=245
 ---

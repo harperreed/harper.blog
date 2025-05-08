@@ -12,6 +12,7 @@ tags:
 - costume-party
 - fun
 title: my birthday party at crobar. heh. funfun
+translationKey: my birthday party at crobar. heh. funfun
 wordpress_id: 1010
 wordpress_url: http://new.nata2.org/?p=1010
 ---

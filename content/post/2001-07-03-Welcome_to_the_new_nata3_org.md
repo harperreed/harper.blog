@@ -11,6 +11,7 @@ tags:
 - mobile
 - design
 title: Welcome to the new nata2.org
+translationKey: Welcome to the new nata2.org
 wordpress_id: 7
 wordpress_url: http://new.nata2.org/?p=7
 ---

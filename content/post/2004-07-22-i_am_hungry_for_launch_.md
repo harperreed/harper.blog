@@ -11,6 +11,7 @@ tags:
 - hacking
 - technology
 title: i am hungry for launch.
+translationKey: i am hungry for launch.
 wordpress_id: 904
 wordpress_url: http://new.nata2.org/?p=904
 ---

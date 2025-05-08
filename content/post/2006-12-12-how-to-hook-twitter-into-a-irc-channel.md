@@ -7,6 +7,7 @@ tags:
 - social-media
 - communication
 title: How to hook twitter into a IRC channel
+translationKey: How to hook twitter into a IRC channel
 wordpress_id: 1395
 wordpress_url: http://www.nata2.org/2006/12/12/how-to-hook-twitter-into-a-irc-channel/
 ---

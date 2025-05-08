@@ -12,6 +12,7 @@ tags:
 - law
 - current-affairs
 title: Check this out!!
+translationKey: Check this out!!
 wordpress_id: 128
 wordpress_url: http://new.nata2.org/?p=128
 ---

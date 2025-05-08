@@ -7,6 +7,7 @@ tags:
 - innovation
 - programming
 title: check out my new hack
+translationKey: check out my new hack
 wordpress_id: 820
 wordpress_url: http://new.nata2.org/?p=820
 ---

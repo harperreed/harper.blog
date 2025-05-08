@@ -9,6 +9,7 @@ tags:
 - culture
 - trip
 title: i got the good word.
+translationKey: i got the good word.
 wordpress_id: 825
 wordpress_url: http://new.nata2.org/?p=825
 ---

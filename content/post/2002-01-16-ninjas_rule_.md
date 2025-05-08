@@ -9,6 +9,7 @@ tags:
 - pop-culture
 - hobbies
 title: ninjas rule.
+translationKey: ninjas rule.
 wordpress_id: 181
 wordpress_url: http://new.nata2.org/?p=181
 ---

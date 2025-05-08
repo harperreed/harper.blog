@@ -15,6 +15,7 @@ tags:
 - internet-culture
 - personal-experiences
 title: friendster rules..
+translationKey: friendster rules..
 wordpress_id: 602
 wordpress_url: http://new.nata2.org/?p=602
 ---

@@ -12,6 +12,7 @@ tags:
 - tools
 - google-ads
 title: check out my new tool
+translationKey: check out my new tool
 wordpress_id: 1009
 wordpress_url: http://new.nata2.org/?p=1009
 ---

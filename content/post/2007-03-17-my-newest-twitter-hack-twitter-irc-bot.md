@@ -7,6 +7,7 @@ tags:
 - programming
 - automation
 title: 'My newest twitter hack: Twitter IRC bot'
+translationKey: 'My newest twitter hack: Twitter IRC bot'
 wordpress_id: 1419
 wordpress_url: http://www.nata2.org/2007/03/17/my-newest-twitter-hack-twitter-irc-bot/
 ---

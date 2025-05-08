@@ -14,6 +14,7 @@ tags:
 - sick
 - jokes
 title: 'stupid sick :: jokesareawesome.com'
+translationKey: 'stupid sick :: jokesareawesome.com'
 wordpress_id: 891
 wordpress_url: http://new.nata2.org/?p=891
 ---

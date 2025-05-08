@@ -12,6 +12,7 @@ tags:
 - shopping
 - friends
 title: so. this is a story
+translationKey: so. this is a story
 wordpress_id: 853
 wordpress_url: http://new.nata2.org/?p=853
 ---

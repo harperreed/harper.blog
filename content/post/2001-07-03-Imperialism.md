@@ -12,6 +12,7 @@ tags:
 - sociology
 - history
 title: Imperialism
+translationKey: Imperialism
 wordpress_id: 3
 wordpress_url: http://new.nata2.org/?p=3
 ---

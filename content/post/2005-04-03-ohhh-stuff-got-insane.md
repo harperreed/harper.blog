@@ -7,6 +7,7 @@ tags:
 - food
 - travel
 title: ohhh... stuff got insane
+translationKey: ohhh... stuff got insane
 wordpress_id: 1038
 wordpress_url: http://www.nata2.org/2005/04/03/ohhh-stuff-got-insane/
 ---

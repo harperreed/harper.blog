@@ -12,6 +12,7 @@ tags:
 - wrestling
 - wellness
 title: accurate punctures
+translationKey: accurate punctures
 wordpress_id: 779
 wordpress_url: http://new.nata2.org/?p=779
 ---

@@ -7,6 +7,7 @@ tags:
 - humor
 - construction
 title: insanity for sure
+translationKey: insanity for sure
 wordpress_id: 1048
 wordpress_url: http://www.nata2.org/2005/04/20/insanity-for-sure/
 ---

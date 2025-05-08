@@ -12,6 +12,7 @@ tags:
 - design
 - personal-experience
 title: disjointed
+translationKey: disjointed
 wordpress_id: 328
 wordpress_url: http://new.nata2.org/?p=328
 ---

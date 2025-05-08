@@ -11,6 +11,7 @@ tags:
 - technology
 - blogging
 title: Win Win Win Win
+translationKey: Win Win Win Win
 wordpress_id: 256
 wordpress_url: http://new.nata2.org/?p=256
 ---

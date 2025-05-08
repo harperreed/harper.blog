@@ -7,6 +7,7 @@ tags:
 - funny-stories
 - friendship
 title: Goddamn Stoners!
+translationKey: Goddamn Stoners!
 wordpress_id: 1460
 wordpress_url: http://www.nata2.org/2007/06/27/goddamn-stoners/
 ---

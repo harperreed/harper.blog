@@ -11,6 +11,7 @@ tags:
 - survival
 - friendship
 title: drugs are bad
+translationKey: drugs are bad
 wordpress_id: 394
 wordpress_url: http://new.nata2.org/?p=394
 ---

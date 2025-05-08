@@ -7,6 +7,7 @@ tags:
 - tokyo
 - cultural-experience
 title: Going to Japan!
+translationKey: Going to Japan!
 wordpress_id: 1501
 wordpress_url: http://www.nata2.org/2007/12/20/going-to-japan-2/
 ---

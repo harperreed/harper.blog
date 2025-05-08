@@ -7,6 +7,7 @@ tags:
 - public-safety
 - technology
 title: sleep is for the weak
+translationKey: sleep is for the weak
 wordpress_id: 1067
 wordpress_url: http://www.nata2.org/2005/05/22/sleep-is-for-the-weak/
 ---

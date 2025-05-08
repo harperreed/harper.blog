@@ -7,6 +7,7 @@ tags:
 - hosting
 - content-management
 title: If you see this, this blog is hosted on app engine
+translationKey: If you see this, this blog is hosted on app engine
 ---
 
 Decided to ditch wordpress for jekyl and drydrop. Let's see how it works.

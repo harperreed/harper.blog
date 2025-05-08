@@ -7,6 +7,7 @@ tags:
 - weekend-fun
 - fatigue
 title: holy damn tired. Juggling for Pride. intonation
+translationKey: holy damn tired. Juggling for Pride. intonation
 wordpress_id: 1298
 wordpress_url: http://www.nata2.org/2006/06/26/holy-damn-tired-juggling-for-pride-intonation/
 ---

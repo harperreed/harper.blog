@@ -11,6 +11,7 @@ tags:
 - colorado
 - nostalgia
 title: Everything is so confusing.
+translationKey: Everything is so confusing.
 wordpress_id: 682
 wordpress_url: http://new.nata2.org/?p=682
 ---

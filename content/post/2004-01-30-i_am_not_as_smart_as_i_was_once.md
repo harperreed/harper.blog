@@ -12,6 +12,7 @@ tags:
 - power-outage
 - tech-experience
 title: i am not as smart as i was once
+translationKey: i am not as smart as i was once
 wordpress_id: 741
 wordpress_url: http://new.nata2.org/?p=741
 ---

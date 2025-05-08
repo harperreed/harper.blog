@@ -12,6 +12,7 @@ tags:
 - music
 - social-scene
 title: my eyes are dripping tiredness
+translationKey: my eyes are dripping tiredness
 wordpress_id: 949
 wordpress_url: http://new.nata2.org/?p=949
 ---

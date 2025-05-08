@@ -12,6 +12,7 @@ tags:
 - travel
 - technology
 title: today i am flying
+translationKey: today i am flying
 wordpress_id: 438
 wordpress_url: http://new.nata2.org/?p=438
 ---

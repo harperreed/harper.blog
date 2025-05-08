@@ -10,6 +10,7 @@ tags:
 - friendster
 - e-commerce
 title: friendster
+translationKey: friendster
 wordpress_id: 551
 wordpress_url: http://new.nata2.org/?p=551
 ---

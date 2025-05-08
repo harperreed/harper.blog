@@ -7,6 +7,7 @@ tags:
 - food-adventures
 - outdoor-activities
 title: Kile and my Mom visited this weekend. eeek tourism!
+translationKey: Kile and my Mom visited this weekend. eeek tourism!
 wordpress_id: 1314
 wordpress_url: http://www.nata2.org/2006/07/31/kile-and-my-mom-visited-this-weekend-eeek-tourism/
 ---

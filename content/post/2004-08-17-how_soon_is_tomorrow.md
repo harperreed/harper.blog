@@ -15,6 +15,7 @@ tags:
 - stress
 - communication
 title: how soon is tomorrow
+translationKey: how soon is tomorrow
 wordpress_id: 917
 wordpress_url: http://new.nata2.org/?p=917
 ---

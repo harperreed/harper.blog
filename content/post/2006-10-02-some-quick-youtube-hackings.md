@@ -7,6 +7,7 @@ tags:
 - api
 - coding
 title: Some quick youtube hackings
+translationKey: Some quick youtube hackings
 wordpress_id: 1356
 wordpress_url: http://www.nata2.org/2006/10/02/some-quick-youtube-hackings/
 ---

@@ -12,6 +12,7 @@ tags:
 - weekend
 - parties
 title: BBQ and juggling.
+translationKey: BBQ and juggling.
 wordpress_id: 619
 wordpress_url: http://new.nata2.org/?p=619
 ---

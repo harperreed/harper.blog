@@ -7,6 +7,7 @@ tags:
 - stress
 - eczema
 title: Tell him to stay in his tree
+translationKey: Tell him to stay in his tree
 wordpress_id: 1485
 wordpress_url: http://www.nata2.org/2007/10/17/tell-him-to-stay-in-his-tree/
 ---

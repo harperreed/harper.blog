@@ -7,6 +7,7 @@ tags:
 - company-culture
 - frustration
 title: 'real quick. '
+translationKey: 'real quick. '
 wordpress_id: 1200
 wordpress_url: http://www.nata2.org/2006/01/24/real-quick/
 ---

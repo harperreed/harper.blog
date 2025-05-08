@@ -11,6 +11,7 @@ tags:
 - websites
 - personal
 title: del.icio.us link list
+translationKey: del.icio.us link list
 wordpress_id: 720
 wordpress_url: http://new.nata2.org/?p=720
 ---

@@ -11,6 +11,7 @@ tags:
 - friendship
 - electronics
 title: Valentines
+translationKey: Valentines
 wordpress_id: 83
 wordpress_url: http://new.nata2.org/?p=83
 ---

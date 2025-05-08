@@ -8,6 +8,7 @@ tags:
 - prisoners-of-war
 - media
 title: guantanamo airlines
+translationKey: guantanamo airlines
 wordpress_id: 391
 wordpress_url: http://new.nata2.org/?p=391
 ---

@@ -7,6 +7,7 @@ tags:
 - events
 - fun
 title: My birthday was awesome
+translationKey: My birthday was awesome
 wordpress_id: 1423
 wordpress_url: http://www.nata2.org/2007/03/22/my-birthday-was-awesome/
 ---

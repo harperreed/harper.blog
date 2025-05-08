@@ -12,6 +12,7 @@ tags:
 - sleep
 - personal-reflection
 title: bubba ho-tep
+translationKey: bubba ho-tep
 wordpress_id: 671
 wordpress_url: http://new.nata2.org/?p=671
 ---

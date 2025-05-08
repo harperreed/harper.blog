@@ -8,6 +8,7 @@ tags:
 - fundraising
 - chris-holmes
 title: check it out
+translationKey: check it out
 wordpress_id: 879
 wordpress_url: http://new.nata2.org/?p=879
 ---

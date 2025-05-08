@@ -7,6 +7,7 @@ tags:
 - wellness
 - productivity
 title: i am a polyphasic sleeper. woot.
+translationKey: i am a polyphasic sleeper. woot.
 wordpress_id: 1098
 wordpress_url: http://www.nata2.org/2005/07/21/i-am-a-polyphasic-sleeper-woot/
 ---

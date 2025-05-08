@@ -7,6 +7,7 @@ tags:
 - family
 - food
 title: Happy thanksgiving
+translationKey: Happy thanksgiving
 wordpress_id: 1492
 wordpress_url: http://www.nata2.org/2007/11/22/happy-thanksgiving/
 ---

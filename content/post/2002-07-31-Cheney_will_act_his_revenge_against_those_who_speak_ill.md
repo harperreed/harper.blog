@@ -10,6 +10,7 @@ tags:
 - family
 - juggling
 title: Cheney will act his revenge against those who speak ill
+translationKey: Cheney will act his revenge against those who speak ill
 wordpress_id: 331
 wordpress_url: http://new.nata2.org/?p=331
 ---

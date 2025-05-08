@@ -12,6 +12,7 @@ tags:
 - friends
 - guitar
 title: Built to Spill
+translationKey: Built to Spill
 wordpress_id: 100
 wordpress_url: http://new.nata2.org/?p=100
 ---

@@ -7,6 +7,7 @@ tags:
 - music
 - diversity
 title: why i love chicago
+translationKey: why i love chicago
 wordpress_id: 1332
 wordpress_url: http://www.nata2.org/2006/09/04/why-i-love-chicago/
 ---

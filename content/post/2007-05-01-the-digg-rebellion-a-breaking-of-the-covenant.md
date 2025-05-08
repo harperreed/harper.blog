@@ -7,6 +7,7 @@ tags:
 - digital-rights
 - social-media
 title: 'The Digg Rebellion: a breaking of the covenant'
+translationKey: 'The Digg Rebellion: a breaking of the covenant'
 wordpress_id: 1440
 wordpress_url: http://www.nata2.org/2007/05/01/the-digg-rebellion-a-breaking-of-the-covenant/
 ---

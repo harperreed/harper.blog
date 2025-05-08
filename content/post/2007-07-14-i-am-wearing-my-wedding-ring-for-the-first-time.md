@@ -7,6 +7,7 @@ tags:
 - newlyweds
 - traditions
 title: I am wearing my wedding ring for the first time.
+translationKey: I am wearing my wedding ring for the first time.
 wordpress_id: 1465
 wordpress_url: http://www.nata2.org/2007/07/14/i-am-wearing-my-wedding-ring-for-the-first-time/
 ---

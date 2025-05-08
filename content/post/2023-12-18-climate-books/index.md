@@ -14,6 +14,7 @@ tags:
 - environment
 - literature
 title: Harper's climate fiction reading list
+translationKey: Harper's climate fiction reading list
 ---
 
 A bunch of friends have asked for my climate fiction reading list. Here it is:

@@ -12,6 +12,7 @@ tags:
 - socializing
 - chicago
 title: Activities.
+translationKey: Activities.
 wordpress_id: 207
 wordpress_url: http://new.nata2.org/?p=207
 ---

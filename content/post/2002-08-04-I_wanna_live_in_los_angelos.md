@@ -16,6 +16,7 @@ tags:
 - summer
 - family
 title: I wanna live in los angelos
+translationKey: I wanna live in los angelos
 wordpress_id: 332
 wordpress_url: http://new.nata2.org/?p=332
 ---

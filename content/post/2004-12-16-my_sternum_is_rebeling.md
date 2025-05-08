@@ -11,6 +11,7 @@ tags:
 - entertainment
 - php
 title: my sternum is rebeling
+translationKey: my sternum is rebeling
 wordpress_id: 974
 wordpress_url: http://new.nata2.org/?p=974
 ---

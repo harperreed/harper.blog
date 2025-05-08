@@ -8,6 +8,7 @@ tags:
 - encouragement
 - community
 title: here.  for you. i got this.
+translationKey: here.  for you. i got this.
 wordpress_id: 796
 wordpress_url: http://new.nata2.org/?p=796
 ---

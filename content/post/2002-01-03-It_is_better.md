@@ -12,6 +12,7 @@ tags:
 - relationships
 - hobbies
 title: It is better
+translationKey: It is better
 wordpress_id: 161
 wordpress_url: http://new.nata2.org/?p=161
 ---

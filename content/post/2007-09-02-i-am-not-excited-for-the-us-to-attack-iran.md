@@ -7,6 +7,7 @@ tags:
 - international-relations
 - nuclear-issues
 title: I am not excited for the US to attack Iran
+translationKey: I am not excited for the US to attack Iran
 wordpress_id: 1475
 wordpress_url: http://www.nata2.org/2007/09/02/i-am-not-excited-for-the-us-to-attack-iran/
 ---

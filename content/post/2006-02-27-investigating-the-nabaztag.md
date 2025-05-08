@@ -7,6 +7,7 @@ tags:
 - embedded-systems
 - gadget
 title: Investigating the nabaztag
+translationKey: Investigating the nabaztag
 wordpress_id: 1223
 wordpress_url: http://www.nata2.org/2006/02/27/investigating-the-nabaztag/
 ---

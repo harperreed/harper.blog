@@ -9,6 +9,7 @@ tags:
 - technology
 - computing
 title: Mac Mini! oh yea. part deux
+translationKey: Mac Mini! oh yea. part deux
 wordpress_id: 983
 wordpress_url: http://new.nata2.org/?p=983
 ---

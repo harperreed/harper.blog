@@ -12,6 +12,7 @@ tags:
 - concerts
 - chicago
 title: all day i dream about spanish encyclopedias
+translationKey: all day i dream about spanish encyclopedias
 wordpress_id: 324
 wordpress_url: http://new.nata2.org/?p=324
 ---

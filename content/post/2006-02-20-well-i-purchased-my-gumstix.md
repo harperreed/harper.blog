@@ -7,6 +7,7 @@ tags:
 - blogging
 - personal-experience
 title: 'Well i purchased my gumstix. '
+translationKey: 'Well i purchased my gumstix. '
 wordpress_id: 1213
 wordpress_url: http://www.nata2.org/2006/02/20/well-i-purchased-my-gumstix/
 ---

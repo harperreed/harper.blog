@@ -7,6 +7,7 @@ tags:
 - python
 - work-life-balance
 title: Weekend blues
+translationKey: Weekend blues
 wordpress_id: 1445
 wordpress_url: http://www.nata2.org/2007/05/26/weekend-blues/
 ---

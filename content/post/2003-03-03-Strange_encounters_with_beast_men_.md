@@ -12,6 +12,7 @@ tags:
 - fashion
 - insanity
 title: Strange encounters with beast men.
+translationKey: Strange encounters with beast men.
 wordpress_id: 456
 wordpress_url: http://new.nata2.org/?p=456
 ---

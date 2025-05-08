@@ -18,6 +18,7 @@ tags:
 - museums
 - hobbies
 title: sleeeeepy. hungry. hungry. human needs.
+translationKey: sleeeeepy. hungry. hungry. human needs.
 wordpress_id: 1008
 wordpress_url: http://new.nata2.org/?p=1008
 ---

@@ -10,6 +10,7 @@ tags:
 - international-relations
 - opinion
 title: Once again...
+translationKey: Once again...
 wordpress_id: 439
 wordpress_url: http://new.nata2.org/?p=439
 ---

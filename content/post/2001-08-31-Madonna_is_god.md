@@ -12,6 +12,7 @@ tags:
 - performance
 - entertainment
 title: Madonna is god
+translationKey: Madonna is god
 wordpress_id: 96
 wordpress_url: http://new.nata2.org/?p=96
 ---

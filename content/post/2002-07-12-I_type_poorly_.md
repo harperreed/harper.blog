@@ -11,6 +11,7 @@ tags:
 - concerts
 - criticism
 title: I type poorly.
+translationKey: I type poorly.
 wordpress_id: 318
 wordpress_url: http://new.nata2.org/?p=318
 ---

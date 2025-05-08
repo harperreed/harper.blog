@@ -7,6 +7,7 @@ tags:
 - gadgets
 - consumer-electronics
 title: The iPhone is nifty
+translationKey: The iPhone is nifty
 wordpress_id: 1461
 wordpress_url: http://www.nata2.org/2007/06/30/the-iphone-is-nifty/
 ---

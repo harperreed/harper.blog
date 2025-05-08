@@ -7,6 +7,7 @@ tags:
 - small-it
 - community-events
 title: Chicago Ignite! Our presentation
+translationKey: Chicago Ignite! Our presentation
 wordpress_id: 1498
 wordpress_url: http://www.nata2.org/2007/12/07/chicago-ignite-our-presentation/
 ---

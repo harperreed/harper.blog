@@ -12,6 +12,7 @@ tags:
 - off-track-betting
 - workplace
 title: You down with OTB
+translationKey: You down with OTB
 wordpress_id: 212
 wordpress_url: http://new.nata2.org/?p=212
 ---

@@ -12,6 +12,7 @@ tags:
 - shoes
 - technology
 title: i got fancy boots.. lalalalalal
+translationKey: i got fancy boots.. lalalalalal
 wordpress_id: 648
 wordpress_url: http://new.nata2.org/?p=648
 ---

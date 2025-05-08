@@ -10,6 +10,7 @@ tags:
 - pictures
 - events
 title: this weekend was a mess
+translationKey: this weekend was a mess
 wordpress_id: 939
 wordpress_url: http://new.nata2.org/?p=939
 ---

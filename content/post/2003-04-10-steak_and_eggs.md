@@ -12,6 +12,7 @@ tags:
 - food
 - juggling
 title: steak and eggs
+translationKey: steak and eggs
 wordpress_id: 485
 wordpress_url: http://new.nata2.org/?p=485
 ---

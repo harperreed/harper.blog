@@ -7,6 +7,7 @@ tags:
 - technology
 - spam-protection
 title: Gmail Apps for Domains
+translationKey: Gmail Apps for Domains
 wordpress_id: 1376
 wordpress_url: http://www.nata2.org/2006/10/23/gmail-apps-for-domains/
 ---

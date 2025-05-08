@@ -14,6 +14,7 @@ tags:
 - event
 - hangout
 title: invitation
+translationKey: invitation
 wordpress_id: 763
 wordpress_url: http://new.nata2.org/?p=763
 ---

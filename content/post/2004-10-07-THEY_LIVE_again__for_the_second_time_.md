@@ -11,6 +11,7 @@ tags:
 - humor
 - personal-growth
 title: THEY LIVE again. for the second time.
+translationKey: THEY LIVE again. for the second time.
 wordpress_id: 947
 wordpress_url: http://new.nata2.org/?p=947
 ---

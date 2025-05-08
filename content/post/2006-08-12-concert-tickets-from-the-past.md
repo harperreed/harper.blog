@@ -7,6 +7,7 @@ tags:
 - personal-experience
 - ticket-collection
 title: Concert tickets from the past
+translationKey: Concert tickets from the past
 wordpress_id: 1320
 wordpress_url: http://www.nata2.org/2006/08/12/concert-tickets-from-the-past/
 ---

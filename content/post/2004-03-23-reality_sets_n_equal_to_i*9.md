@@ -12,6 +12,7 @@ tags:
 - technology
 - life-events
 title: reality sets n equal to i*9
+translationKey: reality sets n equal to i*9
 wordpress_id: 790
 wordpress_url: http://new.nata2.org/?p=790
 ---

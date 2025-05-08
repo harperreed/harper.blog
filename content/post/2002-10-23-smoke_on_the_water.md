@@ -9,6 +9,7 @@ tags:
 - performance
 - humor
 title: smoke on the water
+translationKey: smoke on the water
 wordpress_id: 381
 wordpress_url: http://new.nata2.org/?p=381
 ---

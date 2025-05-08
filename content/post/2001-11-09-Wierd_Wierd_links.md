@@ -11,6 +11,7 @@ tags:
 - entertainment
 - communication
 title: Wierd Wierd links
+translationKey: Wierd Wierd links
 wordpress_id: 127
 wordpress_url: http://new.nata2.org/?p=127
 ---

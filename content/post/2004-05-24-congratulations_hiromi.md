@@ -9,6 +9,7 @@ tags:
 - art-institute
 - hiromi
 title: congratulations hiromi
+translationKey: congratulations hiromi
 wordpress_id: 869
 wordpress_url: http://new.nata2.org/?p=869
 ---

@@ -10,6 +10,7 @@ tags:
 - history
 - entertainment
 title: Funny as hell
+translationKey: Funny as hell
 wordpress_id: 251
 wordpress_url: http://new.nata2.org/?p=251
 ---

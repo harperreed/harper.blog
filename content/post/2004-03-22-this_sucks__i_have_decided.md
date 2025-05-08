@@ -12,6 +12,7 @@ tags:
 - sadness
 - mental-health
 title: this sucks. i have decided
+translationKey: this sucks. i have decided
 wordpress_id: 785
 wordpress_url: http://new.nata2.org/?p=785
 ---

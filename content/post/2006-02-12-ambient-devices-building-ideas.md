@@ -7,6 +7,7 @@ tags:
 - visualization
 - user-interface
 title: 'Ambient devices. building ideas. '
+translationKey: 'Ambient devices. building ideas. '
 wordpress_id: 1206
 wordpress_url: http://www.nata2.org/2006/02/12/ambient-devices-building-ideas/
 ---

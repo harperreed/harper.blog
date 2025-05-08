@@ -6,6 +6,7 @@ tags:
 - mvc
 - learning
 title: ruby on rails
+translationKey: ruby on rails
 wordpress_id: 1047
 wordpress_url: http://www.nata2.org/2005/04/19/ruby-on-rails/
 ---

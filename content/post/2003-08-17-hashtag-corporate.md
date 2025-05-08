@@ -12,6 +12,7 @@ tags:
 - fashion
 - logging
 title: hash corporate
+translationKey: hash corporate
 wordpress_id: 599
 wordpress_url: http://new.nata2.org/?p=599
 ---

@@ -12,6 +12,7 @@ tags:
 - personal-reflection
 - technology
 title: the stones are falling from the ceiling and making a fortress
+translationKey: the stones are falling from the ceiling and making a fortress
 wordpress_id: 966
 wordpress_url: http://new.nata2.org/?p=966
 ---

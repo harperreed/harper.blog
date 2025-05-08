@@ -12,6 +12,7 @@ tags:
 - music
 - commute
 title: hot hot hot
+translationKey: hot hot hot
 wordpress_id: 550
 wordpress_url: http://new.nata2.org/?p=550
 ---

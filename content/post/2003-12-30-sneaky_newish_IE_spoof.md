@@ -12,6 +12,7 @@ tags:
 - irc
 - technology
 title: sneaky newish IE spoof
+translationKey: sneaky newish IE spoof
 wordpress_id: 709
 wordpress_url: http://new.nata2.org/?p=709
 ---

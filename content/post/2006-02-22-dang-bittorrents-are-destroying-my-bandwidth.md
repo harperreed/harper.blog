@@ -7,6 +7,7 @@ tags:
 - tv
 - loneliness
 title: DANG. Bittorrents are destroying my bandwidth.
+translationKey: DANG. Bittorrents are destroying my bandwidth.
 wordpress_id: 1216
 wordpress_url: http://www.nata2.org/2006/02/22/dang-bittorrents-are-destroying-my-bandwidth/
 ---
