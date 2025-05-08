@@ -6,6 +6,7 @@ note_id: 130
 original_url: https://harper.micro.blog/2024/11/21/random-pequods-encounter.html
 sub_title: Untitled
 title: 'Note #130'
+translationKey: 'Note #130'
 ---
 
 Random pequod’s encounter with Sayaka and Masato. Surprise.

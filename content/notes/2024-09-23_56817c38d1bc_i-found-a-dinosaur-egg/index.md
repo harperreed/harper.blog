@@ -5,6 +5,7 @@ note_id: 64
 original_url: https://harper.micro.blog/2024/09/23/i-found-a.html
 sub_title: I found a dinosaur egg! ​
 title: 'Note #64'
+translationKey: 'Note #64'
 ---
 
- I found a dinosaur egg! ​
+I found a dinosaur egg! ​

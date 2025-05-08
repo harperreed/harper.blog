@@ -5,6 +5,7 @@ note_id: 71
 original_url: https://harper.micro.blog/2024/09/29/celebrating-sl.html
 sub_title: Untitled
 title: 'Note #71'
+translationKey: 'Note #71'
 ---
 
 Celebrating SL

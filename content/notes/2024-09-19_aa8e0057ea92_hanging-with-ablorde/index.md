@@ -5,6 +5,7 @@ note_id: 62
 original_url: https://harper.micro.blog/2024/09/19/hanging-with-ablorde.html
 sub_title: Untitled
 title: 'Note #62'
+translationKey: 'Note #62'
 ---
 
 Hanging with Ablorde

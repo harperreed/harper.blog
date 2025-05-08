@@ -5,6 +5,7 @@ note_id: 9
 original_url: https://harper.micro.blog/2024/01/26/the-spotify-daylist.html
 sub_title: Untitled
 title: 'Note #9'
+translationKey: 'Note #9'
 ---
 
 the spotify "daylist" thing is pretty cool

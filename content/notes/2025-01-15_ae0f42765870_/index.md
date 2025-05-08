@@ -4,7 +4,8 @@ description: Infinite hyper color backrooms
 draft: false
 original_url: https://harper.micro.blog/2025/01/15/infinite-hyper-color-backrooms.html
 sub_title: Infinite hyper color backrooms
-title: "Note #160"
+title: 'Note #160'
+translationKey: 'Note #160'
 ---
 
 Infinite hyper color backrooms

@@ -5,6 +5,7 @@ note_id: 26
 original_url: https://harper.micro.blog/2024/04/06/i-am-also.html
 sub_title: Untitled
 title: 'Note #26'
+translationKey: 'Note #26'
 ---
 
 I am also looking for recommendations on what to use for my photo site: harper.photos. I am currently using hugo and it is ok.

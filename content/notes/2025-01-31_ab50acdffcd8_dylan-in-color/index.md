@@ -5,6 +5,7 @@ draft: false
 original_url: https://harper.micro.blog/2025/01/31/dylan-in-color.html
 sub_title: Untitled
 title: 'Note #197'
+translationKey: 'Note #197'
 ---
 
 Dylan. In color.

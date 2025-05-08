@@ -6,6 +6,7 @@ draft: false
 original_url: https://harper.micro.blog/2025/03/08/hung-with-some-cool-cats.html
 sub_title: Untitled
 title: 'Note #209'
+translationKey: 'Note #209'
 ---
 
 Hung with some cool cats at Marz.

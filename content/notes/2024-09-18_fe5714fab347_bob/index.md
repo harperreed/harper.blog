@@ -5,6 +5,7 @@ note_id: 60
 original_url: https://harper.micro.blog/2024/09/18/bob.html
 sub_title: Untitled
 title: 'Note #60'
+translationKey: 'Note #60'
 ---
 
 Bob!

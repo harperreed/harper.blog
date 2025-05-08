@@ -7,6 +7,7 @@ draft: false
 original_url: https://harper.micro.blog/2025/01/14/i-have-no-idea-how.html
 sub_title: Untitled
 title: 'Note #155'
+translationKey: 'Note #155'
 ---
 
 i have no idea how to "catch up on the news" and then when i do dip a bit more into it i am like "fuck this" and run away.

@@ -5,6 +5,7 @@ note_id: 117
 original_url: https://harper.micro.blog/2024/10/11/i-need-your.html
 sub_title: Untitled
 title: 'Note #117'
+translationKey: 'Note #117'
 ---
 
 I need your recommendations on TV shows.

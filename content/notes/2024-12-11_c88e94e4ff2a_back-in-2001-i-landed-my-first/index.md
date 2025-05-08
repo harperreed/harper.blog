@@ -8,6 +8,7 @@ note_id: 143
 original_url: https://harper.micro.blog/2024/12/11/back-in-i.html
 sub_title: Untitled
 title: 'Note #143'
+translationKey: 'Note #143'
 ---
 
 Back in 2001, I landed my first job as a Java programmer. Adam, my first product manager, played a pivotal role in shaping my perspective on technology. We reconnected today after a million years!
