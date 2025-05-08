@@ -8,9 +8,9 @@ duration: 341200
 preview_url: null
 spotify_url: https://open.spotify.com/track/7BBZGDSZbsb4Esi8YB94HT
 title: World's end Rhapsody
+translationKey: World's end Rhapsody
 type: music
 ---
-
 
 ## Nujabes on the album Modal Soul
 

@@ -8,9 +8,9 @@ duration: 186013
 preview_url: null
 spotify_url: https://open.spotify.com/track/4krhCfJg0znykZoyjeMXRe
 title: 'Chelsea Hotel #2'
+translationKey: 'Chelsea Hotel #2'
 type: music
 ---
-
 
 ## Leonard Cohen on the album New Skin For The Old Ceremony
 

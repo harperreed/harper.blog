@@ -8,9 +8,9 @@ duration: 184381
 preview_url: null
 spotify_url: https://open.spotify.com/track/1vP2JEXRsGrFbwOZ0foOQ5
 title: Sound and Vision - 2017 Remaster
+translationKey: Sound and Vision - 2017 Remaster
 type: music
 ---
-
 
 ## David Bowie on the album Low (2017 Remaster)
 

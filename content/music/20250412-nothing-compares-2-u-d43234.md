@@ -8,9 +8,9 @@ duration: 280040
 preview_url: null
 spotify_url: https://open.spotify.com/track/3nvuPQTw2zuFAVuLsC9IYQ
 title: Nothing Compares 2 U
+translationKey: Nothing Compares 2 U
 type: music
 ---
-
 
 ## Sinéad O'Connor on the album I Do Not Want What I Haven't Got
 

@@ -8,9 +8,9 @@ duration: 161680
 preview_url: null
 spotify_url: https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll
 title: Heartbeats
+translationKey: Heartbeats
 type: music
 ---
-
 
 ## José González on the album Veneer
 

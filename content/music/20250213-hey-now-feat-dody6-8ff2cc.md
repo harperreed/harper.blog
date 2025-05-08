@@ -8,9 +8,9 @@ duration: 217478
 preview_url: null
 spotify_url: https://open.spotify.com/track/5S8VwnB4sLi6W0lYTWYylu
 title: hey now (feat. dody6)
+translationKey: hey now (feat. dody6)
 type: music
 ---
-
 
 ## Kendrick Lamar on the album GNX
 

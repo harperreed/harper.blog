@@ -8,9 +8,9 @@ duration: 152226
 preview_url: null
 spotify_url: https://open.spotify.com/track/3c8JemHol1XwFFruXQxjCO
 title: Everybody's Talkin'
+translationKey: Everybody's Talkin'
 type: music
 ---
-
 
 ## Harry Nilsson on the album Midnight Cowboy (Music From The Motion Picture)
 

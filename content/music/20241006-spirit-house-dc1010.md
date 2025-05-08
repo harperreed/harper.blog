@@ -8,9 +8,9 @@ duration: 139693
 preview_url: null
 spotify_url: https://open.spotify.com/track/2mLZhtgEXPfYP4bn6hzrUV
 title: Spirit House
+translationKey: Spirit House
 type: music
 ---
-
 
 ## Broadcast on the album Spell Blanket - Collected Demos 2006 - 2009
 

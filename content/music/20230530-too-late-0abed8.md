@@ -8,9 +8,9 @@ duration: 205960
 preview_url: null
 spotify_url: https://open.spotify.com/track/52eg5klFsy0lgiUuQNaZA7
 title: Too Late
+translationKey: Too Late
 type: music
 ---
-
 
 ## Reflection Eternal on the album Train Of Thought
 

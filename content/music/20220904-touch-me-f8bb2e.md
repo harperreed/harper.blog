@@ -8,9 +8,9 @@ duration: 190253
 preview_url: null
 spotify_url: https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW
 title: Touch Me
+translationKey: Touch Me
 type: music
 ---
-
 
 ## The Doors on the album The Soft Parade
 

@@ -1,9 +1,9 @@
 ---
-title: Music
-lastmod: "2017-12-04"
-
-nofeed: true
 draft: false
+lastmod: '2017-12-04'
+nofeed: true
+title: Music
+translationKey: Music
 url: /media/music/list
 ---
 

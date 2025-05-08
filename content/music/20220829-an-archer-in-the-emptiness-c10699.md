@@ -8,9 +8,9 @@ duration: 440743
 preview_url: null
 spotify_url: https://open.spotify.com/track/5DvFlA13hUCziTxdUOZIWR
 title: An Archer in the Emptiness
+translationKey: An Archer in the Emptiness
 type: music
 ---
-
 
 ## Inter Arma on the album Paradise Gallows
 

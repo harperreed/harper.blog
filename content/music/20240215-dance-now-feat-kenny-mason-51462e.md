@@ -8,9 +8,9 @@ duration: 227555
 preview_url: null
 spotify_url: https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi
 title: Dance Now (feat. Kenny Mason)
+translationKey: Dance Now (feat. Kenny Mason)
 type: music
 ---
-
 
 ## JID on the album The Forever Story (Extended Version)
 

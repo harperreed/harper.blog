@@ -8,9 +8,9 @@ duration: 159245
 preview_url: null
 spotify_url: https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD
 title: End of Beginning
+translationKey: End of Beginning
 type: music
 ---
-
 
 ## Djo on the album DECIDE
 

@@ -8,9 +8,9 @@ duration: 163373
 preview_url: null
 spotify_url: https://open.spotify.com/track/4JapM9VeJCIhcH5w6kiKB5
 title: SHADOWREALM (ft. Zelooperz)
+translationKey: SHADOWREALM (ft. Zelooperz)
 type: music
 ---
-
 
 ## HiTech on the album SHADOWREALM (ft. Zelooperz)
 

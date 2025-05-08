@@ -8,9 +8,9 @@ duration: 256078
 preview_url: null
 spotify_url: https://open.spotify.com/track/070iRzgOurm4lI1SViKJ6i
 title: Anthropocene
+translationKey: Anthropocene
 type: music
 ---
-
 
 ## Samsa on the album Anthropocene
 

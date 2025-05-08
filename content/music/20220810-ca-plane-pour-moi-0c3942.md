@@ -8,9 +8,9 @@ duration: 179506
 preview_url: null
 spotify_url: https://open.spotify.com/track/7bx4zW72qdZKBb8p6g80jb
 title: Ça Plane Pour Moi
+translationKey: Ça Plane Pour Moi
 type: music
 ---
-
 
 ## Plastic Bertrand on the album Ça Plane Pour Moi
 

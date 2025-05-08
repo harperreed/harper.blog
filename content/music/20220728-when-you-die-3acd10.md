@@ -8,9 +8,9 @@ duration: 263880
 preview_url: null
 spotify_url: https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji
 title: When You Die
+translationKey: When You Die
 type: music
 ---
-
 
 ## MGMT on the album Little Dark Age
 

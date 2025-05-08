@@ -8,9 +8,9 @@ duration: 244506
 preview_url: null
 spotify_url: https://open.spotify.com/track/3jJm28Q9MEhnRbxk2LdfkK
 title: Generals And Majors - 2001 Remaster
+translationKey: Generals And Majors - 2001 Remaster
 type: music
 ---
-
 
 ## XTC on the album Black Sea
 

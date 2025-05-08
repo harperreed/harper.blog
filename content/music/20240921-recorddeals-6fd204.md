@@ -8,9 +8,9 @@ duration: 197005
 preview_url: null
 spotify_url: https://open.spotify.com/track/48mKqnEWVN0U68U6SUc995
 title: Recorddeals
+translationKey: Recorddeals
 type: music
 ---
-
 
 ## 1 9 0 5 on the album Ghettoboom Vol. 1
 

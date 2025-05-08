@@ -8,9 +8,9 @@ duration: 218893
 preview_url: null
 spotify_url: https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l
 title: Peaches En Regalia
+translationKey: Peaches En Regalia
 type: music
 ---
-
 
 ## Frank Zappa on the album Hot Rats
 

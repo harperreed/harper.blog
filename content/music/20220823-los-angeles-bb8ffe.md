@@ -8,9 +8,9 @@ duration: 249000
 preview_url: null
 spotify_url: https://open.spotify.com/track/5tAAIc2ve40EUsG1v1QTDQ
 title: Los Angeles
+translationKey: Los Angeles
 type: music
 ---
-
 
 ## Frank Black on the album Frank Black
 

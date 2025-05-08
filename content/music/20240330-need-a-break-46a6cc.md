@@ -8,9 +8,9 @@ duration: 124000
 preview_url: null
 spotify_url: https://open.spotify.com/track/1406n1HvjVlwx2Ea0DzAA4
 title: NEED A BREAK
+translationKey: NEED A BREAK
 type: music
 ---
-
 
 ## LAMANT on the album NEED A BREAK
 

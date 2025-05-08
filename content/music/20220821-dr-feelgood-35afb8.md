@@ -8,9 +8,9 @@ duration: 291306
 preview_url: null
 spotify_url: https://open.spotify.com/track/2cc9k15AifO7RfxxuEExkS
 title: Dr. Feelgood
+translationKey: Dr. Feelgood
 type: music
 ---
-
 
 ## Mötley Crüe on the album Dr. Feelgood (Deluxe Version)
 

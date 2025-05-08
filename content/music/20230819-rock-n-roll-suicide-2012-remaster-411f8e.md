@@ -8,9 +8,9 @@ duration: 178265
 preview_url: null
 spotify_url: https://open.spotify.com/track/1k5iH4KDKi56MFvlnrALNV
 title: Rock 'n' Roll Suicide - 2012 Remaster
+translationKey: Rock 'n' Roll Suicide - 2012 Remaster
 type: music
 ---
-
 
 ## David Bowie on the album The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)
 

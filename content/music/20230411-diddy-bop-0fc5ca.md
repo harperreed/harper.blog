@@ -8,9 +8,9 @@ duration: 209451
 preview_url: null
 spotify_url: https://open.spotify.com/track/24bPUsIQ2ocVEP0tgZV5jJ
 title: Diddy Bop
+translationKey: Diddy Bop
 type: music
 ---
-
 
 ## Noname on the album Little (Original Motion Picture Soundtrack)
 

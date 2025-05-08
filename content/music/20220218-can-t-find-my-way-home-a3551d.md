@@ -8,9 +8,9 @@ duration: 196133
 preview_url: null
 spotify_url: https://open.spotify.com/track/3VyJGPYr2DF9gdBNosSao4
 title: Can't Find My Way Home
+translationKey: Can't Find My Way Home
 type: music
 ---
-
 
 ## Blind Faith on the album Blind Faith
 

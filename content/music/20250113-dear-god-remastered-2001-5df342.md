@@ -8,9 +8,9 @@ duration: 219506
 preview_url: null
 spotify_url: https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn
 title: Dear God - Remastered 2001
+translationKey: Dear God - Remastered 2001
 type: music
 ---
-
 
 ## XTC on the album Skylarking
 

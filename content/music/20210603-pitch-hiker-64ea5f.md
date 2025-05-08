@@ -8,9 +8,9 @@ duration: 304534
 preview_url: null
 spotify_url: https://open.spotify.com/track/3XhS1vbvsVQPblCGP615sH
 title: Pitch-Hiker
+translationKey: Pitch-Hiker
 type: music
 ---
-
 
 ## Marc Acardipane a.k.a. Pilldriver on the album Don't You Mess With Cupid, 'Cause Cupid Ain't Stupid.
 

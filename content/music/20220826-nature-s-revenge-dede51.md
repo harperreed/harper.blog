@@ -8,9 +8,9 @@ duration: 237133
 preview_url: null
 spotify_url: https://open.spotify.com/track/4rDRYvy9wdW1ShNcuoTKUa
 title: Nature's Revenge
+translationKey: Nature's Revenge
 type: music
 ---
-
 
 ## Skinny Puppy on the album Too Dark Park
 

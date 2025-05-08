@@ -8,9 +8,9 @@ duration: 241346
 preview_url: null
 spotify_url: https://open.spotify.com/track/4mWahKerLaVddUjb8d1Q4Q
 title: The Man Who Sold the World - 2015 Remaster
+translationKey: The Man Who Sold the World - 2015 Remaster
 type: music
 ---
-
 
 ## David Bowie on the album The Man Who Sold the World (2015 Remaster)
 

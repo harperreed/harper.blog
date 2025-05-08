@@ -8,9 +8,9 @@ duration: 119813
 preview_url: null
 spotify_url: https://open.spotify.com/track/7sgi66biRYpAXuRZJBDuli
 title: Bizarre Love Triangle - 2014 Remaster
+translationKey: Bizarre Love Triangle - 2014 Remaster
 type: music
 ---
-
 
 ## Frente! on the album Marvin The Album - 21st Anniversary Edition
 

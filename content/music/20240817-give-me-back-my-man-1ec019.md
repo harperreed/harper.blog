@@ -8,9 +8,9 @@ duration: 240800
 preview_url: null
 spotify_url: https://open.spotify.com/track/4vKLfj7YuS2yRKAJ9Nn0Id
 title: Give Me Back My Man
+translationKey: Give Me Back My Man
 type: music
 ---
-
 
 ## The B-52's on the album Wild Planet
 

@@ -8,9 +8,9 @@ duration: 601266
 preview_url: null
 spotify_url: https://open.spotify.com/track/1TfaPQ638LQhWEIf3aYc4S
 title: 'Songs from Liquid Days: No. 1, Changing Opinion'
+translationKey: 'Songs from Liquid Days: No. 1, Changing Opinion'
 type: music
 ---
-
 
 ## Philip Glass on the album The Essential Philip Glass - Deluxe Edition
 

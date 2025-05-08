@@ -8,9 +8,9 @@ duration: 353720
 preview_url: null
 spotify_url: https://open.spotify.com/track/5hhVpGIBlqAU5yJEOmrk5o
 title: All My Love - Remaster
+translationKey: All My Love - Remaster
 type: music
 ---
-
 
 ## Led Zeppelin on the album In Through the out Door (Remaster)
 

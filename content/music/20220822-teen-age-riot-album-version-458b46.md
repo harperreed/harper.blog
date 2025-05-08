@@ -8,9 +8,9 @@ duration: 417800
 preview_url: null
 spotify_url: https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9
 title: Teen Age Riot (Album Version)
+translationKey: Teen Age Riot (Album Version)
 type: music
 ---
-
 
 ## Sonic Youth on the album Daydream Nation (Deluxe Edition)
 

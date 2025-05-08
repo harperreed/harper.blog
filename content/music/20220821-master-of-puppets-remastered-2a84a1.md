@@ -8,9 +8,9 @@ duration: 515386
 preview_url: null
 spotify_url: https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ
 title: Master of Puppets (Remastered)
+translationKey: Master of Puppets (Remastered)
 type: music
 ---
-
 
 ## Metallica on the album Master of Puppets (Remastered Deluxe Box Set)
 

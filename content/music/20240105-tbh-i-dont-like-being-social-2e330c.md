@@ -8,9 +8,9 @@ duration: 135529
 preview_url: null
 spotify_url: https://open.spotify.com/track/2N9fiSiVyPRCqMVGQiLUVr
 title: tbh i dont like being social
+translationKey: tbh i dont like being social
 type: music
 ---
-
 
 ## luvlxckdown on the album tbh i dont like being social
 

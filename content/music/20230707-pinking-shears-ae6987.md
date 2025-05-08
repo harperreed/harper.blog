@@ -8,9 +8,9 @@ duration: 152420
 preview_url: null
 spotify_url: https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF
 title: Pinking Shears
+translationKey: Pinking Shears
 type: music
 ---
-
 
 ## Mandy, Indiana on the album Pinking Shears
 

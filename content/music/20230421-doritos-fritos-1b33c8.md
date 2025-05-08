@@ -8,9 +8,9 @@ duration: 196893
 preview_url: null
 spotify_url: https://open.spotify.com/track/1jPPKYq1s1HhIjAiqrnRR8
 title: Doritos & Fritos
+translationKey: Doritos & Fritos
 type: music
 ---
-
 
 ## 100 gecs on the album 10,000 gecs
 

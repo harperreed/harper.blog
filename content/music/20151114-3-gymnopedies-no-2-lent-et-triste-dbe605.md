@@ -8,9 +8,9 @@ duration: 191290
 preview_url: null
 spotify_url: https://open.spotify.com/track/6cYiVbPLYKEikRkjPmqW44
 title: '3 Gymnopedies: No. 2. Lent et triste'
+translationKey: '3 Gymnopedies: No. 2. Lent et triste'
 type: music
 ---
-
 
 ## Erik Satie on the album Satie: Gymnopédies and other Works
 

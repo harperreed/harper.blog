@@ -8,9 +8,9 @@ duration: 206066
 preview_url: null
 spotify_url: https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko
 title: Alors on danse - Radio Edit
+translationKey: Alors on danse - Radio Edit
 type: music
 ---
-
 
 ## Stromae on the album Cheese
 

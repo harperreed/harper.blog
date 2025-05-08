@@ -8,9 +8,9 @@ duration: 124751
 preview_url: null
 spotify_url: https://open.spotify.com/track/0zlJpc8mUU9x92uU8t5f6p
 title: Irresponsible
+translationKey: Irresponsible
 type: music
 ---
-
 
 ## Emei on the album Scatterbrain
 

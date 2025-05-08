@@ -8,9 +8,9 @@ duration: 177511
 preview_url: null
 spotify_url: https://open.spotify.com/track/4bWUeJ9Qv0bGyfpR4WQBJP
 title: Can I Get the Real Stuff
+translationKey: Can I Get the Real Stuff
 type: music
 ---
-
 
 ## Guerilla Toss on the album GT Ultra
 

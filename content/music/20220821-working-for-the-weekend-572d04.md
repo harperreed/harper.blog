@@ -8,9 +8,9 @@ duration: 220893
 preview_url: null
 spotify_url: https://open.spotify.com/track/0zF1cSexRdrMlEzXKwxCDU
 title: Working for the Weekend
+translationKey: Working for the Weekend
 type: music
 ---
-
 
 ## Loverboy on the album Big Ones
 

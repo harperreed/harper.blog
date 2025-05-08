@@ -8,9 +8,9 @@ duration: 142961
 preview_url: null
 spotify_url: https://open.spotify.com/track/42hPDiwTOSPAPUL51FRNhp
 title: Pretend Friend
+translationKey: Pretend Friend
 type: music
 ---
-
 
 ## Sam Austins on the album Boy Toy
 

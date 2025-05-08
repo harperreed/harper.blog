@@ -8,9 +8,9 @@ duration: 186426
 preview_url: null
 spotify_url: https://open.spotify.com/track/4eQVJHK0O5LctXPzsRj9LI
 title: Long, Long, Long - 2018 Mix
+translationKey: Long, Long, Long - 2018 Mix
 type: music
 ---
-
 
 ## The Beatles on the album The Beatles
 

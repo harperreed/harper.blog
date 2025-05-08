@@ -8,9 +8,9 @@ duration: 142702
 preview_url: null
 spotify_url: https://open.spotify.com/track/3TUKsEPnPC2KpTrHiZSjkf
 title: The 1s After - Outro
+translationKey: The 1s After - Outro
 type: music
 ---
-
 
 ## Olik on the album The 1s After (Outro)
 

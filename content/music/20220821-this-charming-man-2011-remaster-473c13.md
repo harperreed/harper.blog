@@ -8,9 +8,9 @@ duration: 162920
 preview_url: null
 spotify_url: https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ
 title: This Charming Man - 2011 Remaster
+translationKey: This Charming Man - 2011 Remaster
 type: music
 ---
-
 
 ## The Smiths on the album The Smiths
 

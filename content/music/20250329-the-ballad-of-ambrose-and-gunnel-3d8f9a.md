@@ -8,9 +8,9 @@ duration: 267336
 preview_url: null
 spotify_url: https://open.spotify.com/track/3HoFVCmTjS0Et3qsAg2D5q
 title: The Ballad Of Ambrose and Gunnel
+translationKey: The Ballad Of Ambrose and Gunnel
 type: music
 ---
-
 
 ## Theodore Shapiro on the album Severance: Season 2 (Apple TV+ Original Series Soundtrack)
 

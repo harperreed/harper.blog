@@ -8,9 +8,9 @@ duration: 180000
 preview_url: null
 spotify_url: https://open.spotify.com/track/7uIrdhnGQw7bZSR2ygopuX
 title: SIMP (feat. Lil Mariko & Rico Nasty)
+translationKey: SIMP (feat. Lil Mariko & Rico Nasty)
 type: music
 ---
-
 
 ## Full Tac on the album SIMP (feat. Lil Mariko & Rico Nasty)
 

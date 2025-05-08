@@ -8,9 +8,9 @@ duration: 152000
 preview_url: null
 spotify_url: https://open.spotify.com/track/0gWvVB4bGvADocoPMEDy3K
 title: The Crystal Ship
+translationKey: The Crystal Ship
 type: music
 ---
-
 
 ## The Doors on the album The Doors
 

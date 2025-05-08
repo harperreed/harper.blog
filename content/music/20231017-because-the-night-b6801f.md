@@ -8,9 +8,9 @@ duration: 204800
 preview_url: null
 spotify_url: https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u
 title: Because the Night
+translationKey: Because the Night
 type: music
 ---
-
 
 ## Patti Smith on the album Easter
 

@@ -8,9 +8,9 @@ duration: 192440
 preview_url: null
 spotify_url: https://open.spotify.com/track/4LfmwxBjnk9vzBAg2AgbSb
 title: 隨風而去
+translationKey: 隨風而去
 type: music
 ---
-
 
 ## Wu Bai on the album 愛情的盡頭
 

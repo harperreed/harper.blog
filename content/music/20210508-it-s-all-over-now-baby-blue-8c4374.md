@@ -8,9 +8,9 @@ duration: 252630
 preview_url: null
 spotify_url: https://open.spotify.com/track/4nz1UjOhZx5ZlhbAAnvmSi
 title: It's All over Now, Baby Blue
+translationKey: It's All over Now, Baby Blue
 type: music
 ---
-
 
 ## ANOHNI on the album It's All over Now, Baby Blue b/w Be My Husband
 

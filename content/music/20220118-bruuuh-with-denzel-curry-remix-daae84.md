@@ -8,9 +8,9 @@ duration: 206446
 preview_url: null
 spotify_url: https://open.spotify.com/track/5LghBGmNUUwI2BvX2boIdK
 title: Bruuuh (with Denzel Curry) - Remix
+translationKey: Bruuuh (with Denzel Curry) - Remix
 type: music
 ---
-
 
 ## JID on the album Bruuuh (with Denzel Curry) [Remix]
 

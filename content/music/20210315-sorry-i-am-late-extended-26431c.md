@@ -8,9 +8,9 @@ duration: 489714
 preview_url: null
 spotify_url: https://open.spotify.com/track/4FpawvuBz4HxTz7UqR4ter
 title: Sorry I Am Late - Extended
+translationKey: Sorry I Am Late - Extended
 type: music
 ---
-
 
 ## Kollektiv Turmstrasse on the album Sorry I Am Late (Extended)
 

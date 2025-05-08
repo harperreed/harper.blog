@@ -8,9 +8,9 @@ duration: 213093
 preview_url: null
 spotify_url: https://open.spotify.com/track/0sYc7vkylcfmHx3kOqem4c
 title: Eight Miles High
+translationKey: Eight Miles High
 type: music
 ---
-
 
 ## The Byrds on the album THE ORIGINAL SINGLES 1965 - 1967 Volume I
 

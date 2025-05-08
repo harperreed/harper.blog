@@ -8,9 +8,9 @@ duration: 260666
 preview_url: null
 spotify_url: https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf
 title: The First Time Ever I Saw Your Face
+translationKey: The First Time Ever I Saw Your Face
 type: music
 ---
-
 
 ## Roberta Flack on the album First Take
 

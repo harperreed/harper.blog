@@ -8,9 +8,9 @@ duration: 169080
 preview_url: null
 spotify_url: https://open.spotify.com/track/2ofBYZkC1HRlpIZoPs0oWH
 title: Bad Gyal Flex
+translationKey: Bad Gyal Flex
 type: music
 ---
-
 
 ## Leikeli47 on the album Acrylic
 

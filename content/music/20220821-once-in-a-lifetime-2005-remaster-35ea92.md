@@ -8,9 +8,9 @@ duration: 259906
 preview_url: null
 spotify_url: https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k
 title: Once in a Lifetime - 2005 Remaster
+translationKey: Once in a Lifetime - 2005 Remaster
 type: music
 ---
-
 
 ## Talking Heads on the album Remain in Light (Deluxe Version)
 

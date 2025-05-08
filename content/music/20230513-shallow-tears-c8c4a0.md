@@ -8,9 +8,9 @@ duration: 308840
 preview_url: null
 spotify_url: https://open.spotify.com/track/1VCC1HTxNzBp7jdzeyp9io
 title: Shallow Tears
+translationKey: Shallow Tears
 type: music
 ---
-
 
 ## Light Asylum on the album Light Asylum
 

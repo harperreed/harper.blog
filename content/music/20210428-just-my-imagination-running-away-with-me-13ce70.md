@@ -8,9 +8,9 @@ duration: 228160
 preview_url: null
 spotify_url: https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv
 title: Just My Imagination (Running Away With Me)
+translationKey: Just My Imagination (Running Away With Me)
 type: music
 ---
-
 
 ## The Temptations on the album Sky's The Limit
 

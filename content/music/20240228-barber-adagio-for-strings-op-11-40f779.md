@@ -8,9 +8,9 @@ duration: 574053
 preview_url: null
 spotify_url: https://open.spotify.com/track/5y7GFejbyd179m5KbeeEFo
 title: 'Barber: Adagio for Strings, Op. 11'
+translationKey: 'Barber: Adagio for Strings, Op. 11'
 type: music
 ---
-
 
 ## Samuel Barber on the album Barber: Adagio, Violin Concerto, Cello Concerto & Agnus Dei
 

@@ -8,9 +8,9 @@ duration: 123493
 preview_url: null
 spotify_url: https://open.spotify.com/track/2X9H5BokS1u5O46YpNYNsZ
 title: I'm So Tired - Remastered 2009
+translationKey: I'm So Tired - Remastered 2009
 type: music
 ---
-
 
 ## The Beatles on the album The Beatles (Remastered)
 

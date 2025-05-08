@@ -8,9 +8,9 @@ duration: 254400
 preview_url: null
 spotify_url: https://open.spotify.com/track/01Mpj13vURSO3cCLprPt5T
 title: Raining Blood
+translationKey: Raining Blood
 type: music
 ---
-
 
 ## Slayer on the album Reign In Blood
 

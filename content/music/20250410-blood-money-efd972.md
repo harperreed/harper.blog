@@ -8,9 +8,9 @@ duration: 161317
 preview_url: null
 spotify_url: https://open.spotify.com/track/36kQGNGTfxeKw28YAWr0TQ
 title: Blood Money
+translationKey: Blood Money
 type: music
 ---
-
 
 ## Shade Apollo on the album Blood Money
 

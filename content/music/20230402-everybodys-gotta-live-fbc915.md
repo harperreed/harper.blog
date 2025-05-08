@@ -8,9 +8,9 @@ duration: 204521
 preview_url: null
 spotify_url: https://open.spotify.com/track/1Og2Qi5XwYdr0YI6rn79Zb
 title: Everybody’s Gotta Live
+translationKey: Everybody’s Gotta Live
 type: music
 ---
-
 
 ## Love on the album Reel To Real
 

@@ -8,9 +8,9 @@ duration: 220690
 preview_url: null
 spotify_url: https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG
 title: tv off (feat. lefty gunplay)
+translationKey: tv off (feat. lefty gunplay)
 type: music
 ---
-
 
 ## Kendrick Lamar on the album GNX
 

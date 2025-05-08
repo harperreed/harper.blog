@@ -8,9 +8,9 @@ duration: 150115
 preview_url: null
 spotify_url: https://open.spotify.com/track/32aVpvig4eQuNjMzQ8pNKN
 title: GOODMORNINGTOKYO!
+translationKey: GOODMORNINGTOKYO!
 type: music
 ---
-
 
 ## TOKYO’S REVENGE on the album GOODMORNINGTOKYO!
 

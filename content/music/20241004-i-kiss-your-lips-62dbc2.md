@@ -8,9 +8,9 @@ duration: 337173
 preview_url: null
 spotify_url: https://open.spotify.com/track/0urv9fHfh9vVkR4kRz3Mqh
 title: I Kiss Your Lips
+translationKey: I Kiss Your Lips
 type: music
 ---
-
 
 ## Tokyo Ghetto Pussy on the album Disco 2001
 

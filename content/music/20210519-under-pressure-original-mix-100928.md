@@ -8,9 +8,9 @@ duration: 391385
 preview_url: null
 spotify_url: https://open.spotify.com/track/0M07XMvl0ylY9VVt69LsJu
 title: Under Pressure - Original Mix
+translationKey: Under Pressure - Original Mix
 type: music
 ---
-
 
 ## Belocca on the album Under Pressure (Original Mix)
 

@@ -8,9 +8,9 @@ duration: 259026
 preview_url: null
 spotify_url: https://open.spotify.com/track/4OHIIZHytQRtATug0Abpaa
 title: Road to Nowhere - 2003 Remaster
+translationKey: Road to Nowhere - 2003 Remaster
 type: music
 ---
-
 
 ## Talking Heads on the album The Best of Talking Heads
 

@@ -8,9 +8,9 @@ duration: 115114
 preview_url: null
 spotify_url: https://open.spotify.com/track/6Uf4np9Ar3qVYd5VgPJU7s
 title: I H8 mY Anxiety <3
+translationKey: I H8 mY Anxiety <3
 type: music
 ---
-
 
 ## Jahzae Rose on the album I H8 mY Anxiety <3
 

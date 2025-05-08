@@ -8,9 +8,9 @@ duration: 214066
 preview_url: null
 spotify_url: https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c
 title: Vitamin C - 2004 Remastered Version
+translationKey: Vitamin C - 2004 Remastered Version
 type: music
 ---
-
 
 ## CAN on the album Ege Bamyasi (Remastered Version)
 

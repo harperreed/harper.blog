@@ -8,9 +8,9 @@ duration: 108000
 preview_url: null
 spotify_url: https://open.spotify.com/track/28LhTmlacBkppfjQIAPSCF
 title: yandere
+translationKey: yandere
 type: music
 ---
-
 
 ## Mai is outside on the album yandere
 

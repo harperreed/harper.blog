@@ -8,9 +8,9 @@ duration: 166896
 preview_url: null
 spotify_url: https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT
 title: Gunfinger (Salute)
+translationKey: Gunfinger (Salute)
 type: music
 ---
-
 
 ## IRAH on the album Gunfinger (Salute)
 

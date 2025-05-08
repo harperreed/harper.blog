@@ -8,9 +8,9 @@ duration: 256398
 preview_url: null
 spotify_url: https://open.spotify.com/track/6slWUMiyoNNWcQGu6tkTlH
 title: Leni (Crystal Castles vs GoodBooks)
+translationKey: Leni (Crystal Castles vs GoodBooks)
 type: music
 ---
-
 
 ## GoodBooks on the album Control Freaks (The Remixes)
 

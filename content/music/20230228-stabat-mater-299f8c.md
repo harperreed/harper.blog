@@ -8,9 +8,9 @@ duration: 121881
 preview_url: null
 spotify_url: https://open.spotify.com/track/5u1lnt4sTARI7o6WvDlym4
 title: Stabat Mater
+translationKey: Stabat Mater
 type: music
 ---
-
 
 ## Andreas Scholl on the album Marco Rosano: Stabat Mater
 

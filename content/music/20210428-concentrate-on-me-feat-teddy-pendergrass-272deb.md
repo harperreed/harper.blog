@@ -8,9 +8,9 @@ duration: 191320
 preview_url: null
 spotify_url: https://open.spotify.com/track/2lu7G8oIwTUSVQHqV2TqKh
 title: Concentrate On Me (feat. Teddy Pendergrass)
+translationKey: Concentrate On Me (feat. Teddy Pendergrass)
 type: music
 ---
-
 
 ## Harold Melvin & The Blue Notes on the album Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)
 

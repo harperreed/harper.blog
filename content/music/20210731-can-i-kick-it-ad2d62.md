@@ -8,9 +8,9 @@ duration: 251573
 preview_url: null
 spotify_url: https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I
 title: Can I Kick It?
+translationKey: Can I Kick It?
 type: music
 ---
-
 
 ## A Tribe Called Quest on the album People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)
 

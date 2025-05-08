@@ -8,9 +8,9 @@ duration: 372124
 preview_url: null
 spotify_url: https://open.spotify.com/track/5Yg3qxAEszA9AI6dVwuyz1
 title: Narcissist's Prayer
+translationKey: Narcissist's Prayer
 type: music
 ---
-
 
 ## Thou on the album Umbilical
 

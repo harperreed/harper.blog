@@ -8,9 +8,9 @@ duration: 285333
 preview_url: null
 spotify_url: https://open.spotify.com/track/1G4uCwBdIvaWGM2n4H4tN8
 title: Silver Moons
+translationKey: Silver Moons
 type: music
 ---
-
 
 ## Sunset Rubdown on the album Dragonslayer
 

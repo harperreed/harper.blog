@@ -8,9 +8,9 @@ duration: 195226
 preview_url: null
 spotify_url: https://open.spotify.com/track/3XOVanRi3prWDEZQiZTlYx
 title: Time Is Tight
+translationKey: Time Is Tight
 type: music
 ---
-
 
 ## Booker T. & the M.G.'s on the album The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971
 

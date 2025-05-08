@@ -8,9 +8,9 @@ duration: 144653
 preview_url: null
 spotify_url: https://open.spotify.com/track/5WzC0LHb2Ebb6Jz0v56D8y
 title: ひとつの曲ができるまで
+translationKey: ひとつの曲ができるまで
 type: music
 ---
-
 
 ## PK shampoo on the album 輝くもの天より堕ち
 

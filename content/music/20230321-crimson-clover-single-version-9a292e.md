@@ -8,9 +8,9 @@ duration: 208666
 preview_url: null
 spotify_url: https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY
 title: Crimson & Clover - Single Version
+translationKey: Crimson & Clover - Single Version
 type: music
 ---
-
 
 ## Tommy James & The Shondells on the album The Essentials: Tommy James & The Shondells
 

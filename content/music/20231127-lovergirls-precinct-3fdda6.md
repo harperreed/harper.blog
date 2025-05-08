@@ -8,9 +8,9 @@ duration: 95794
 preview_url: null
 spotify_url: https://open.spotify.com/track/1FZid2kPGVvAUM2Rab8NN7
 title: Lovergirls Precinct
+translationKey: Lovergirls Precinct
 type: music
 ---
-
 
 ## Oneohtrix Point Never on the album Rifts
 

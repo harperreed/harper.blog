@@ -8,9 +8,9 @@ duration: 226613
 preview_url: null
 spotify_url: https://open.spotify.com/track/5TS9LZZ3nf3W0EPZKZiYFX
 title: Nothing Better
+translationKey: Nothing Better
 type: music
 ---
-
 
 ## The Postal Service on the album Give Up
 

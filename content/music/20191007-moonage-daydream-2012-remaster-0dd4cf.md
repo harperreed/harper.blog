@@ -8,9 +8,9 @@ duration: 279693
 preview_url: null
 spotify_url: https://open.spotify.com/track/6mib3N4E8PZHAGQ3xy7bho
 title: Moonage Daydream - 2012 Remaster
+translationKey: Moonage Daydream - 2012 Remaster
 type: music
 ---
-
 
 ## David Bowie on the album The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)
 

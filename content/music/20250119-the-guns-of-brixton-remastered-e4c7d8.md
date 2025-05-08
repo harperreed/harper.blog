@@ -8,9 +8,9 @@ duration: 192440
 preview_url: null
 spotify_url: https://open.spotify.com/track/0jnFDxgNhS156vu6roUVco
 title: The Guns of Brixton - Remastered
+translationKey: The Guns of Brixton - Remastered
 type: music
 ---
-
 
 ## The Clash on the album London Calling (Remastered)
 

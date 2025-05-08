@@ -8,9 +8,9 @@ duration: 198333
 preview_url: null
 spotify_url: https://open.spotify.com/track/56OMc2pr6XJgpQqASY7kYc
 title: How Insensitive (Insensatez)
+translationKey: How Insensitive (Insensatez)
 type: music
 ---
-
 
 ## Antônio Carlos Jobim on the album Sinatra/Jobim: The Complete Reprise Recordings
 

@@ -8,9 +8,9 @@ duration: 230009
 preview_url: null
 spotify_url: https://open.spotify.com/track/4NkfSizDcCrFZoUzvEYJup
 title: Metallic Taste of Patience
+translationKey: Metallic Taste of Patience
 type: music
 ---
-
 
 ## Eartheater on the album Phoenix: Flames Are Dew Upon My Skin
 

@@ -8,9 +8,9 @@ duration: 217431
 preview_url: null
 spotify_url: https://open.spotify.com/track/24YR49RSh1T9rVPvJ9cTwM
 title: Shown and Told
+translationKey: Shown and Told
 type: music
 ---
-
 
 ## Devendra Banhart on the album Shown and Told
 

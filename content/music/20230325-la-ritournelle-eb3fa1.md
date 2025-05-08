@@ -8,9 +8,9 @@ duration: 454480
 preview_url: null
 spotify_url: https://open.spotify.com/track/0qG1teoBvooRo7Z5Z8edCk
 title: La ritournelle
+translationKey: La ritournelle
 type: music
 ---
-
 
 ## Sébastien Tellier on the album Politics
 

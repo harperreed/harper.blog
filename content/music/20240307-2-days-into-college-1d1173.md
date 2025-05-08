@@ -8,9 +8,9 @@ duration: 168113
 preview_url: null
 spotify_url: https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU
 title: 2 days into college
+translationKey: 2 days into college
 type: music
 ---
-
 
 ## Aimee Carty on the album 2 days into college
 

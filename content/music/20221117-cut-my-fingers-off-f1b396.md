@@ -8,9 +8,9 @@ duration: 139836
 preview_url: null
 spotify_url: https://open.spotify.com/track/5ARrWiDDRDocvURbemcnCy
 title: cut my fingers off
+translationKey: cut my fingers off
 type: music
 ---
-
 
 ## Ethan Bortnick on the album cut my fingers off
 

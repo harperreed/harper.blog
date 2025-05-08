@@ -8,9 +8,9 @@ duration: 168426
 preview_url: null
 spotify_url: https://open.spotify.com/track/39ctCzopDN0dYr26AKmQOP
 title: 愛のしるし
+translationKey: 愛のしるし
 type: music
 ---
-
 
 ## Puffy AmiYumi on the album JET CD
 

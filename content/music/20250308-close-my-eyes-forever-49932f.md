@@ -8,9 +8,9 @@ duration: 283133
 preview_url: null
 spotify_url: https://open.spotify.com/track/43thLwzSasUUZEYjYPeJh3
 title: Close My Eyes Forever
+translationKey: Close My Eyes Forever
 type: music
 ---
-
 
 ## Lita Ford on the album Lita
 

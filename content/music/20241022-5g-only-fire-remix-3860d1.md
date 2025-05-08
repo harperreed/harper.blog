@@ -8,9 +8,9 @@ duration: 178285
 preview_url: null
 spotify_url: https://open.spotify.com/track/1krwLYOjGFwwPBhgG3q0dq
 title: 5G (Only Fire Remix)
+translationKey: 5G (Only Fire Remix)
 type: music
 ---
-
 
 ## Heidi Montag on the album 5G (Only Fire Remix)
 

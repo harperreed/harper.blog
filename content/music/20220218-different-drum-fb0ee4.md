@@ -8,9 +8,9 @@ duration: 159973
 preview_url: null
 spotify_url: https://open.spotify.com/track/3k63RLvRgkgPGx0keOH3P6
 title: Different Drum
+translationKey: Different Drum
 type: music
 ---
-
 
 ## Stone Poneys on the album Evergreen, Vol.2
 

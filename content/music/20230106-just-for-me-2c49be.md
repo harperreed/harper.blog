@@ -8,9 +8,9 @@ duration: 116213
 preview_url: null
 spotify_url: https://open.spotify.com/track/1Vrj9Vcbb0lOG94pQbYvzv
 title: Just for Me
+translationKey: Just for Me
 type: music
 ---
-
 
 ## PinkPantheress on the album to hell with it
 

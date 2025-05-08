@@ -8,9 +8,9 @@ duration: 272466
 preview_url: null
 spotify_url: https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK
 title: Fairytale of New York (feat. Kirsty MacColl)
+translationKey: Fairytale of New York (feat. Kirsty MacColl)
 type: music
 ---
-
 
 ## The Pogues on the album If I Should Fall from Grace with God (Expanded Edition)
 

@@ -8,9 +8,9 @@ duration: 239066
 preview_url: null
 spotify_url: https://open.spotify.com/track/0Tik10Y3wsU8J5v4fjbV26
 title: Ca Plane Pour Moi
+translationKey: Ca Plane Pour Moi
 type: music
 ---
-
 
 ## Sonic Youth on the album Freedom Of Choice: Yesterday's New Wave Hits As Performed By Today's Stars
 

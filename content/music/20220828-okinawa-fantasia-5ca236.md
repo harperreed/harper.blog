@@ -8,9 +8,9 @@ duration: 92307
 preview_url: null
 spotify_url: https://open.spotify.com/track/7phasdQ9ODIIJlCfE1z3fY
 title: Okinawa Fantasia
+translationKey: Okinawa Fantasia
 type: music
 ---
-
 
 ## Martin Glass on the album The Pacific Visions of Martin Glass
 

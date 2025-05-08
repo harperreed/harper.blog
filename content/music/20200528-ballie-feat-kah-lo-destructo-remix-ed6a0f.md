@@ -8,9 +8,9 @@ duration: 266263
 preview_url: null
 spotify_url: https://open.spotify.com/track/24mAiaFiKP55r6IITNB2As
 title: Ballie (feat. Kah-Lo) - Destructo Remix
+translationKey: Ballie (feat. Kah-Lo) - Destructo Remix
 type: music
 ---
-
 
 ## IDRIS on the album Ballie (feat. Kah-Lo) [Destructo Remix]
 

@@ -8,9 +8,9 @@ duration: 552788
 preview_url: null
 spotify_url: https://open.spotify.com/track/6eLNnJwSlwEStbIAZVAYzd
 title: Eyes Of My Mind
+translationKey: Eyes Of My Mind
 type: music
 ---
-
 
 ## Axel Boman on the album Eyes Of My Mind
 

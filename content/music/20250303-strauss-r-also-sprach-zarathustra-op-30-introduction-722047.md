@@ -8,9 +8,9 @@ duration: 94546
 preview_url: null
 spotify_url: https://open.spotify.com/track/1PUNl4Drzka3xjDcLL42GQ
 title: 'Strauss, R: Also sprach Zarathustra, Op. 30: Introduction'
+translationKey: 'Strauss, R: Also sprach Zarathustra, Op. 30: Introduction'
 type: music
 ---
-
 
 ## Richard Strauss on the album Heroic Classics
 

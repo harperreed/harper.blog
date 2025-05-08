@@ -8,9 +8,9 @@ duration: 144760
 preview_url: null
 spotify_url: https://open.spotify.com/track/1MU62iuv0tVWWVkqHcY1tx
 title: Life's a Gas - 2003 Remaster
+translationKey: Life's a Gas - 2003 Remaster
 type: music
 ---
-
 
 ## T. Rex on the album Electric Warrior [Expanded & Remastered]
 

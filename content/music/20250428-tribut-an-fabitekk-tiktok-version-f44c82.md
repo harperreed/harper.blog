@@ -8,9 +8,9 @@ duration: 363283
 preview_url: null
 spotify_url: https://open.spotify.com/track/3VfgSbtjgXPNYFW2ON8Abn
 title: Tribut an Fabitekk - TikTok Version
+translationKey: Tribut an Fabitekk - TikTok Version
 type: music
 ---
-
 
 ## HRDSND on the album Tribut an Fabitekk (TikTok Version)
 

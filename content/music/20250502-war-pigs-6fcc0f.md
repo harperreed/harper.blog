@@ -8,9 +8,9 @@ duration: 428812
 preview_url: null
 spotify_url: https://open.spotify.com/track/0gWl7YQIOpujszxvl7pGZ6
 title: War Pigs
+translationKey: War Pigs
 type: music
 ---
-
 
 ## Ukandanz on the album Evil Plan
 

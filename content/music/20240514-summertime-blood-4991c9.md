@@ -8,9 +8,9 @@ duration: 182375
 preview_url: null
 spotify_url: https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO
 title: SummerTime Blood
+translationKey: SummerTime Blood
 type: music
 ---
-
 
 ## Yung Lean on the album Stardust
 

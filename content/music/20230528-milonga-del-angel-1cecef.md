@@ -8,9 +8,9 @@ duration: 391440
 preview_url: null
 spotify_url: https://open.spotify.com/track/1Gas3HGCmNODYQiMU13LqL
 title: Milonga Del Angel
+translationKey: Milonga Del Angel
 type: music
 ---
-
 
 ## Astor Piazzolla on the album Tango: Zero Hour
 

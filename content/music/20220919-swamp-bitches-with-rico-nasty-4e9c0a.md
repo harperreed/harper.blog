@@ -8,9 +8,9 @@ duration: 180076
 preview_url: null
 spotify_url: https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM
 title: Swamp Bitches (with Rico Nasty)
+translationKey: Swamp Bitches (with Rico Nasty)
 type: music
 ---
-
 
 ## Doechii on the album she / her / black bitch
 

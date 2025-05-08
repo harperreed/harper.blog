@@ -8,9 +8,9 @@ duration: 168026
 preview_url: null
 spotify_url: https://open.spotify.com/track/3bophIN3WTxzLd4yiIZv6X
 title: The Sun Is Burning
+translationKey: The Sun Is Burning
 type: music
 ---
-
 
 ## Simon & Garfunkel on the album Wednesday Morning, 3 A.M.
 

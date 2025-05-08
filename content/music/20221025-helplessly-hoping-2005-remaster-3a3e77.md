@@ -8,9 +8,9 @@ duration: 157893
 preview_url: null
 spotify_url: https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe
 title: Helplessly Hoping - 2005 Remaster
+translationKey: Helplessly Hoping - 2005 Remaster
 type: music
 ---
-
 
 ## Crosby, Stills & Nash on the album Crosby, Stills & Nash
 

@@ -8,9 +8,9 @@ duration: 206946
 preview_url: null
 spotify_url: https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX
 title: Harness Your Hopes - B-side
+translationKey: Harness Your Hopes - B-side
 type: music
 ---
-
 
 ## Pavement on the album Brighten the Corners: Nicene Creedence Ed.
 

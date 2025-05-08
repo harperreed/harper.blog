@@ -8,9 +8,9 @@ duration: 176002
 preview_url: null
 spotify_url: https://open.spotify.com/track/5o5SdS2vu1PgKblBABGlER
 title: ALIEN LOVE CALL
+translationKey: ALIEN LOVE CALL
 type: music
 ---
-
 
 ## Turnstile on the album GLOW ON
 

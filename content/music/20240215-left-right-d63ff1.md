@@ -8,9 +8,9 @@ duration: 83157
 preview_url: null
 spotify_url: https://open.spotify.com/track/6hO0b9LAggdysS9RIn8VxH
 title: LEFT RIGHT
+translationKey: LEFT RIGHT
 type: music
 ---
-
 
 ## Bktherula on the album LEFT RIGHT
 

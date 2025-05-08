@@ -8,9 +8,9 @@ duration: 622000
 preview_url: null
 spotify_url: https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx
 title: Sinnerman
+translationKey: Sinnerman
 type: music
 ---
-
 
 ## Nina Simone on the album Pastel Blues
 

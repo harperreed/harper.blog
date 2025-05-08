@@ -8,9 +8,9 @@ duration: 203506
 preview_url: null
 spotify_url: https://open.spotify.com/track/7mxvuhmRrnQ31vHRm9A9qj
 title: Warm Leatherette
+translationKey: Warm Leatherette
 type: music
 ---
-
 
 ## The Normal on the album Warm Leatherette
 

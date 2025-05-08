@@ -8,9 +8,9 @@ duration: 171373
 preview_url: null
 spotify_url: https://open.spotify.com/track/57460SJgSpCXaRJ9YIYHxy
 title: Going Up The Country
+translationKey: Going Up The Country
 type: music
 ---
-
 
 ## Canned Heat on the album The Best Of Canned Heat
 

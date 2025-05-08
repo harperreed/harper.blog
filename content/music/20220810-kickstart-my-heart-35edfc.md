@@ -8,9 +8,9 @@ duration: 284026
 preview_url: null
 spotify_url: https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn
 title: Kickstart My Heart
+translationKey: Kickstart My Heart
 type: music
 ---
-
 
 ## Mötley Crüe on the album Dr. Feelgood (Deluxe Version)
 

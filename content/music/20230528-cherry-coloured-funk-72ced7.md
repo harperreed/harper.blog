@@ -8,9 +8,9 @@ duration: 192466
 preview_url: null
 spotify_url: https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ
 title: Cherry-coloured Funk
+translationKey: Cherry-coloured Funk
 type: music
 ---
-
 
 ## Cocteau Twins on the album Heaven or Las Vegas
 

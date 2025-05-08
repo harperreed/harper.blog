@@ -8,9 +8,9 @@ duration: 142593
 preview_url: null
 spotify_url: https://open.spotify.com/track/1YGwW9On9EBdZDjTo1DxOq
 title: Visage of Truth
+translationKey: Visage of Truth
 type: music
 ---
-
 
 ## Baby Blue on the album Death of Euphoria
 

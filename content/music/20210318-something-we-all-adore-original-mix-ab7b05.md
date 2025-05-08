@@ -8,9 +8,9 @@ duration: 477120
 preview_url: null
 spotify_url: https://open.spotify.com/track/3npxGyRpSmxS7mlN5ndjNS
 title: Something We All Adore - Original Mix
+translationKey: Something We All Adore - Original Mix
 type: music
 ---
-
 
 ## Solomun on the album Something We All Adore
 

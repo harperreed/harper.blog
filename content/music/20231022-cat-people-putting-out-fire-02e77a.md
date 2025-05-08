@@ -8,9 +8,9 @@ duration: 401986
 preview_url: null
 spotify_url: https://open.spotify.com/track/5vLI1yIuny3x4OLZ38Rrn2
 title: Cat People (Putting Out Fire)
+translationKey: Cat People (Putting Out Fire)
 type: music
 ---
-
 
 ## David Bowie on the album A New Career in a New Town (1977 - 1982)
 

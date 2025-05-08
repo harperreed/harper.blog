@@ -8,9 +8,9 @@ duration: 133150
 preview_url: null
 spotify_url: https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx
 title: girlfriend
+translationKey: girlfriend
 type: music
 ---
-
 
 ## hemlocke springs on the album girlfriend
 

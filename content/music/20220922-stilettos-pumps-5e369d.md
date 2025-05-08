@@ -8,9 +8,9 @@ duration: 202560
 preview_url: null
 spotify_url: https://open.spotify.com/track/1bWFvGIN7b5cTps09X6tZ8
 title: Stilettos (Pumps)
+translationKey: Stilettos (Pumps)
 type: music
 ---
-
 
 ## Crime Mob on the album Crime Mob
 

@@ -8,9 +8,9 @@ duration: 185196
 preview_url: null
 spotify_url: https://open.spotify.com/track/3zIyj9W7UsoR0FvaLpba4Z
 title: Ethiopia - A COLORS SHOW
+translationKey: Ethiopia - A COLORS SHOW
 type: music
 ---
-
 
 ## Alewya on the album Ethiopia - A COLORS SHOW
 

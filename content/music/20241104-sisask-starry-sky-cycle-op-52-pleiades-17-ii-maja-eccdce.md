@@ -8,9 +8,9 @@ duration: 88933
 preview_url: null
 spotify_url: https://open.spotify.com/track/5jme5vI0C4ynzEC7YGvW2C
 title: 'Sisask : Starry Sky Cycle Op.52 - Pleiades : 17. II Maja'
+translationKey: 'Sisask : Starry Sky Cycle Op.52 - Pleiades : 17. II Maja'
 type: music
 ---
-
 
 ## Urmas Sisask on the album Sisask : Starry Sky Cycle
 

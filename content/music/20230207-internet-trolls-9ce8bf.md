@@ -8,9 +8,9 @@ duration: 140572
 preview_url: null
 spotify_url: https://open.spotify.com/track/5c2IvJeaFx4m2DmOR1iryD
 title: Internet Trolls
+translationKey: Internet Trolls
 type: music
 ---
-
 
 ## GloRilla on the album Internet Trolls
 

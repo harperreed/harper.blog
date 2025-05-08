@@ -8,9 +8,9 @@ duration: 255213
 preview_url: null
 spotify_url: https://open.spotify.com/track/4EkNINvDLeGgIL4zYGsYPb
 title: Bring On The Night
+translationKey: Bring On The Night
 type: music
 ---
-
 
 ## The Police on the album Reggatta De Blanc (Remastered 2003)
 

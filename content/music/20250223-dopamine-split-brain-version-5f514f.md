@@ -8,9 +8,9 @@ duration: 165461
 preview_url: null
 spotify_url: https://open.spotify.com/track/4hD4Q2BNH50ryovUWNzXKe
 title: Dopamine (Split Brain Version)
+translationKey: Dopamine (Split Brain Version)
 type: music
 ---
-
 
 ## Madelline on the album Dopamine (Split Brain Version)
 

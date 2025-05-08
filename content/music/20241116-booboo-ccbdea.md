@@ -8,9 +8,9 @@ duration: 212266
 preview_url: null
 spotify_url: https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8
 title: booboo
+translationKey: booboo
 type: music
 ---
-
 
 ## Yaeji on the album booboo
 

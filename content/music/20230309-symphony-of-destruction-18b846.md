@@ -8,9 +8,9 @@ duration: 246733
 preview_url: null
 spotify_url: https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ
 title: Symphony Of Destruction
+translationKey: Symphony Of Destruction
 type: music
 ---
-
 
 ## Megadeth on the album Countdown To Extinction (Expanded Edition - Remastered)
 

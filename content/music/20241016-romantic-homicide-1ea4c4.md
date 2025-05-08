@@ -8,9 +8,9 @@ duration: 132630
 preview_url: null
 spotify_url: https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL
 title: Romantic Homicide
+translationKey: Romantic Homicide
 type: music
 ---
-
 
 ## d4vd on the album Romantic Homicide
 

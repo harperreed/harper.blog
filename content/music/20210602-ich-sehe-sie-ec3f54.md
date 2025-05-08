@@ -8,9 +8,9 @@ duration: 422500
 preview_url: null
 spotify_url: https://open.spotify.com/track/0HYPqoZcSkRthezyr9YAC1
 title: Ich Sehe Sie
+translationKey: Ich Sehe Sie
 type: music
 ---
-
 
 ## Christian Kluge on the album Hot Steel: Round 2
 

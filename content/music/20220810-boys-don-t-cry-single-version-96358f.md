@@ -8,9 +8,9 @@ duration: 157533
 preview_url: null
 spotify_url: https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375
 title: Boys Don't Cry - Single Version
+translationKey: Boys Don't Cry - Single Version
 type: music
 ---
-
 
 ## The Cure on the album Three Imaginary Boys (Deluxe Edition)
 

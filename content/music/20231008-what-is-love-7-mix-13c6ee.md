@@ -8,9 +8,9 @@ duration: 270373
 preview_url: null
 spotify_url: https://open.spotify.com/track/2IHaGyfxNoFPLJnaEg4GTs
 title: What Is Love - 7" Mix
+translationKey: What Is Love - 7" Mix
 type: music
 ---
-
 
 ## Haddaway on the album The Album
 

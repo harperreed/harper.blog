@@ -8,9 +8,9 @@ duration: 163950
 preview_url: null
 spotify_url: https://open.spotify.com/track/0XsgnHyECM8f3ji3MyLZIf
 title: Closer (live)
+translationKey: Closer (live)
 type: music
 ---
-
 
 ## Pacifica on the album Freak Scene (live)
 

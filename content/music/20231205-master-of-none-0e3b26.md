@@ -8,9 +8,9 @@ duration: 199413
 preview_url: null
 spotify_url: https://open.spotify.com/track/3stWWPN41byqp8loPdy92u
 title: Master of None
+translationKey: Master of None
 type: music
 ---
-
 
 ## Beach House on the album Beach House
 

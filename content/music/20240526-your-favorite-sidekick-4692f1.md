@@ -8,9 +8,9 @@ duration: 150645
 preview_url: null
 spotify_url: https://open.spotify.com/track/0VNjaRcmIowjLbPtYDhLuh
 title: Your favorite sidekick
+translationKey: Your favorite sidekick
 type: music
 ---
-
 
 ## underscores on the album fishmonger
 

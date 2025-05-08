@@ -8,9 +8,9 @@ duration: 89563
 preview_url: null
 spotify_url: https://open.spotify.com/track/5yq647KdPpcKJ6F1BWvLqY
 title: Energy In My Town (feat. Spyda)
+translationKey: Energy In My Town (feat. Spyda)
 type: music
 ---
-
 
 ## Issey Cross on the album Energy In My Town (feat. Spyda)
 

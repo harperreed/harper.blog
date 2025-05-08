@@ -8,9 +8,9 @@ duration: 332229
 preview_url: null
 spotify_url: https://open.spotify.com/track/1IWzfq3sLedGQ3fb2hAMBA
 title: Rhythm Is A Dancer
+translationKey: Rhythm Is A Dancer
 type: music
 ---
-
 
 ## SNAP! on the album The Madman's Return
 

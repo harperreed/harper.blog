@@ -8,9 +8,9 @@ duration: 292173
 preview_url: null
 spotify_url: https://open.spotify.com/track/7ercrh41B32rlYnsV2t1Ik
 title: Rave to the Grave
+translationKey: Rave to the Grave
 type: music
 ---
-
 
 ## BxCx on the album Despot's Game (Original Game Soundtrack)
 

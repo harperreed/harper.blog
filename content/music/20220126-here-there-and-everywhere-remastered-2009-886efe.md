@@ -8,9 +8,9 @@ duration: 144880
 preview_url: null
 spotify_url: https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP
 title: Here, There And Everywhere - Remastered 2009
+translationKey: Here, There And Everywhere - Remastered 2009
 type: music
 ---
-
 
 ## The Beatles on the album Revolver (Remastered)
 

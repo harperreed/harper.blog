@@ -8,9 +8,9 @@ duration: 122253
 preview_url: null
 spotify_url: https://open.spotify.com/track/32B4HyegZNlYIWhENs8FcZ
 title: Memoirs of a Gorilla
+translationKey: Memoirs of a Gorilla
 type: music
 ---
-
 
 ## $uicideboy$ on the album Radical $uicide
 

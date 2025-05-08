@@ -8,9 +8,9 @@ duration: 146677
 preview_url: null
 spotify_url: https://open.spotify.com/track/1SgrtfTB9QmIihcmj4NRNO
 title: SLEEP WHEN I'M DEAD
+translationKey: SLEEP WHEN I'M DEAD
 type: music
 ---
-
 
 ## Jack Kays on the album DEADBEAT!
 

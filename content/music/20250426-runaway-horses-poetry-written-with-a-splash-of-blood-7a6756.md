@@ -8,9 +8,9 @@ duration: 548933
 preview_url: null
 spotify_url: https://open.spotify.com/track/49vmMTdjoIaCTZThH4VyW3
 title: RUNAWAY HORSES ("poetry written with a splash of blood")
+translationKey: RUNAWAY HORSES ("poetry written with a splash of blood")
 type: music
 ---
-
 
 ## Philip Glass on the album Mishima
 

@@ -8,9 +8,9 @@ duration: 298086
 preview_url: null
 spotify_url: https://open.spotify.com/track/416Gg6xPcOnhbYKJzS35LQ
 title: Take Control
+translationKey: Take Control
 type: music
 ---
-
 
 ## Culture Shock on the album Sequence
 

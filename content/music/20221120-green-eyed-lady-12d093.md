@@ -8,9 +8,9 @@ duration: 219760
 preview_url: null
 spotify_url: https://open.spotify.com/track/7s2orxqJ8qE0aG3Ngvct3C
 title: Green-Eyed Lady
+translationKey: Green-Eyed Lady
 type: music
 ---
-
 
 ## Sugarloaf on the album Green-Eyed Lady
 

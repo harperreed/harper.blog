@@ -8,9 +8,9 @@ duration: 85840
 preview_url: null
 spotify_url: https://open.spotify.com/track/4wOYt5nULk1Cu8pwJWk26m
 title: Wildfire (feat. Frank Ocean)
+translationKey: Wildfire (feat. Frank Ocean)
 type: music
 ---
-
 
 ## John Mayer on the album Paradise Valley
 

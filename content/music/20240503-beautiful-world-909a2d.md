@@ -8,9 +8,9 @@ duration: 215786
 preview_url: null
 spotify_url: https://open.spotify.com/track/2BgQ1M5BVr9WIAk7iJ9oAh
 title: Beautiful World
+translationKey: Beautiful World
 type: music
 ---
-
 
 ## DEVO on the album New Traditionalists
 

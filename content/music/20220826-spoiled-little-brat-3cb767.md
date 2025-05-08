@@ -8,9 +8,9 @@ duration: 199796
 preview_url: null
 spotify_url: https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu
 title: Spoiled little brat
+translationKey: Spoiled little brat
 type: music
 ---
-
 
 ## underscores on the album fishmonger
 

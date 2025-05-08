@@ -8,9 +8,9 @@ duration: 204382
 preview_url: null
 spotify_url: https://open.spotify.com/track/7vpJ3dvtr8xeAEdMFgAirp
 title: Out of The Fire (Type O Negative)
+translationKey: Out of The Fire (Type O Negative)
 type: music
 ---
-
 
 ## MANRRYX on the album Out of The Fire (Type O Negative)
 

@@ -8,9 +8,9 @@ duration: 191304
 preview_url: null
 spotify_url: https://open.spotify.com/track/24XIbFhfr4mqCtKDHyzIvv
 title: Golden Brown
+translationKey: Golden Brown
 type: music
 ---
-
 
 ## THE TAKE VIBE E.P. on the album Golden Brown
 

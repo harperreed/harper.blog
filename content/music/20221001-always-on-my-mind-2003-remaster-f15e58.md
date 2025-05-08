@@ -8,9 +8,9 @@ duration: 237653
 preview_url: null
 spotify_url: https://open.spotify.com/track/2SWn864dJI5RNyrp3F4Kp1
 title: Always on My Mind - 2003 Remaster
+translationKey: Always on My Mind - 2003 Remaster
 type: music
 ---
-
 
 ## Pet Shop Boys on the album PopArt: The Hits
 

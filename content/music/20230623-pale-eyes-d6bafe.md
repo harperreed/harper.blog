@@ -8,9 +8,9 @@ duration: 144547
 preview_url: null
 spotify_url: https://open.spotify.com/track/4de2p3iNoCa1BZXYA8QG0W
 title: Pale Eyes
+translationKey: Pale Eyes
 type: music
 ---
-
 
 ## Iglooghost on the album Neō Wax Bloom
 

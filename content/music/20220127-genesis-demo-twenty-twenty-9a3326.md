@@ -8,9 +8,9 @@ duration: 794334
 preview_url: null
 spotify_url: https://open.spotify.com/track/6heTKB089ppJfw2NTKn8sT
 title: Genesis Demo Twenty-Twenty
+translationKey: Genesis Demo Twenty-Twenty
 type: music
 ---
-
 
 ## Pillars of Ivory on the album Genesis Demo Twenty-Twenty
 

@@ -8,9 +8,9 @@ duration: 130000
 preview_url: null
 spotify_url: https://open.spotify.com/track/6HFlrUeCo9BwRvhlYkDbn6
 title: Last Night I Had the Strangest Dream
+translationKey: Last Night I Had the Strangest Dream
 type: music
 ---
-
 
 ## Simon & Garfunkel on the album Wednesday Morning, 3 A.M.
 

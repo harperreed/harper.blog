@@ -8,9 +8,9 @@ duration: 239053
 preview_url: null
 spotify_url: https://open.spotify.com/track/0ldTcpmFsxEASGiBBIfVLW
 title: Johnny And Mary
+translationKey: Johnny And Mary
 type: music
 ---
-
 
 ## Robert Palmer on the album Clues (Expanded Edition)
 

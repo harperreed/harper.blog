@@ -8,9 +8,9 @@ duration: 173037
 preview_url: null
 spotify_url: https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT
 title: 八方來財
+translationKey: 八方來財
 type: music
 ---
-
 
 ## 攬佬SKAI ISYOURGOD on the album 八方來財
 

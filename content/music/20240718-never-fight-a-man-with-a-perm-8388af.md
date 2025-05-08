@@ -8,9 +8,9 @@ duration: 228831
 preview_url: null
 spotify_url: https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0
 title: Never Fight A Man With A Perm
+translationKey: Never Fight A Man With A Perm
 type: music
 ---
-
 
 ## IDLES on the album Joy as an Act of Resistance.
 

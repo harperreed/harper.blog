@@ -8,9 +8,9 @@ duration: 160626
 preview_url: null
 spotify_url: https://open.spotify.com/track/4PlLA6QRD4YQmlwQfaNeaz
 title: Talkin the Hardest
+translationKey: Talkin the Hardest
 type: music
 ---
-
 
 ## Giggs on the album PAY CLOSE ATTENTION: XL Recordings
 
