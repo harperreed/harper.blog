@@ -11,6 +11,7 @@ tags:
     - media-tracking
     - automation
     - web-development
+translationKey: "new-media"
 ---
 
 _tl;dr: I added a media section to my website to track and display what I'm reading, listening to, and bookmarking online through automated data collection. visit it [here](/media)_
