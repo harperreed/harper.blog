@@ -101,7 +101,7 @@ This is nice cuz it doesn't clog your GitHub actions with a bunch of linting, fo
 
 These are both really simple additions that can squeeze a lot out.
 
-{{< image src="_SDI8149.jpg" alt="Jesse at the studio, Sept 15, 2023, Ricoh GRiii" caption="Jesse at the studio, Ricoh GRiii, 11/15/2023" >}}
+{{< image src="_SDI8149.jpg" alt="Jesse at the studio, Sept 15, 2023, Ricoh GRiii" caption="Jesse at the studio, Sigma fp, 11/15/2023" >}}
 
 I stole a [CLAUDE.md](https://github.com/harperreed/dotfiles/blob/master/.claude/CLAUDE.md) from my friend [Jesse Vincent](https://fsck.com/) who did an [awful lot of work on making it very robust](https://github.com/obra/dotfiles/blob/main/.claude/CLAUDE.md). It is quite nice. Some things that are built into it:
 
