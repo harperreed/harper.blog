@@ -9,9 +9,10 @@ preview_url: null
 spotify_url: https://open.spotify.com/track/3OF4zZxNv7gF1km8CELqYV
 title: 'Symphony No. 3, Op. 36 "Symphony of Sorrowful Songs": II. Lento e largo. Tranquillissimo
   cantabillissimo, dolcissimo, legatissimo'
+translationKey: 'Symphony No. 3, Op. 36 "Symphony of Sorrowful Songs": II. Lento e
+  largo. Tranquillissimo cantabillissimo, dolcissimo, legatissimo'
 type: music
 ---
-
 
 ## Henryk Górecki on the album Górecki: Symphony No. 3, Op. 36 "Symphony of Sorrowful Songs"
 

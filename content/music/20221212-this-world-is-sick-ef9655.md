@@ -8,9 +8,9 @@ duration: 112000
 preview_url: null
 spotify_url: https://open.spotify.com/track/04xhIz4DiBGDECn7kIFodv
 title: This World Is Sick
+translationKey: This World Is Sick
 type: music
 ---
-
 
 ## IC3PEAK on the album This World Is Sick
 

@@ -8,9 +8,9 @@ duration: 300603
 preview_url: null
 spotify_url: https://open.spotify.com/track/2Hv5oHAsWRz5d0oinTXWtc
 title: We Were In Love
+translationKey: We Were In Love
 type: music
 ---
-
 
 ## Disclosure on the album We Were In Love (Narciss Remix)
 

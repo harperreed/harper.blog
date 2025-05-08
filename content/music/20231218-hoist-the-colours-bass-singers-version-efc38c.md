@@ -8,9 +8,9 @@ duration: 278442
 preview_url: null
 spotify_url: https://open.spotify.com/track/6osGEhJCyLbneXgpcpKlUW
 title: Hoist the Colours - Bass Singers Version
+translationKey: Hoist the Colours - Bass Singers Version
 type: music
 ---
-
 
 ## Bobby Bass on the album Hoist the Colours (Bass Singers Version)
 

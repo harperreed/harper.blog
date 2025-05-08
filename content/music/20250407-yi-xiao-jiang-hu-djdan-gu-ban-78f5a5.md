@@ -8,9 +8,9 @@ duration: 230844
 preview_url: null
 spotify_url: https://open.spotify.com/track/0Zhz2M5XyepnbqxXk1Zd4O
 title: 一笑江湖 - DJ弹鼓版
+translationKey: 一笑江湖 - DJ弹鼓版
 type: music
 ---
-
 
 ## 闻人听書_ on the album 一笑江湖 (DJ版)
 

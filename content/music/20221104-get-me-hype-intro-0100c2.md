@@ -8,9 +8,9 @@ duration: 117375
 preview_url: null
 spotify_url: https://open.spotify.com/track/1S04juvhfo9NFsTVzxR4tU
 title: Get Me Hype (Intro)
+translationKey: Get Me Hype (Intro)
 type: music
 ---
-
 
 ## Lebra Jolie on the album Lebra Jolie
 

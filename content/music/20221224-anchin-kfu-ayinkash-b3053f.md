@@ -8,9 +8,9 @@ duration: 324880
 preview_url: null
 spotify_url: https://open.spotify.com/track/2YfRKF4sWeV1t1NqBoUgxH
 title: Anchin Kfu Ayinkash
+translationKey: Anchin Kfu Ayinkash
 type: music
 ---
-
 
 ## Hailu Mergia on the album Wede Harer Guzo
 

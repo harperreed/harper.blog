@@ -8,9 +8,9 @@ duration: 140733
 preview_url: null
 spotify_url: https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD
 title: BAND4BAND (feat. Lil Baby)
+translationKey: BAND4BAND (feat. Lil Baby)
 type: music
 ---
-
 
 ## Central Cee on the album BAND4BAND (feat. Lil Baby)
 

@@ -8,9 +8,9 @@ duration: 160266
 preview_url: null
 spotify_url: https://open.spotify.com/track/6ozkTvpSzrRK9vJCMksza3
 title: Past, Present & Future
+translationKey: Past, Present & Future
 type: music
 ---
-
 
 ## The Shangri-Las on the album The Best Of The Shangri-Las
 

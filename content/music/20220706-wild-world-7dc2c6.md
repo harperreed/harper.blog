@@ -8,9 +8,9 @@ duration: 200560
 preview_url: null
 spotify_url: https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9
 title: Wild World
+translationKey: Wild World
 type: music
 ---
-
 
 ## Yusuf / Cat Stevens on the album Tea For The Tillerman (Remastered 2020)
 

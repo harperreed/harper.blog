@@ -8,9 +8,9 @@ duration: 348333
 preview_url: null
 spotify_url: https://open.spotify.com/track/3xc2Kw5pl4OpbPm7e5UaBH
 title: Cover Up The Cover Up
+translationKey: Cover Up The Cover Up
 type: music
 ---
-
 
 ## Gruff Rhys on the album Sadness Sets Me Free
 

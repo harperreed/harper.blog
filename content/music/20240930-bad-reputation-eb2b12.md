@@ -8,9 +8,9 @@ duration: 167160
 preview_url: null
 spotify_url: https://open.spotify.com/track/5UGCoJvoAyKkK51ShNcJS3
 title: Bad Reputation
+translationKey: Bad Reputation
 type: music
 ---
-
 
 ## Joan Jett & the Blackhearts on the album Bad Reputation (Music from the Original Motion Picture)
 

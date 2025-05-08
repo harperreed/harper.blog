@@ -8,9 +8,9 @@ duration: 490480
 preview_url: null
 spotify_url: https://open.spotify.com/track/1O2SlAUcjIoFFt9vpI3P1i
 title: The Band Played Waltzing Matilda
+translationKey: The Band Played Waltzing Matilda
 type: music
 ---
-
 
 ## The Pogues on the album Rum Sodomy & The Lash (Expanded Edition)
 

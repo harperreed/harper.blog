@@ -8,9 +8,9 @@ duration: 267360
 preview_url: null
 spotify_url: https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj
 title: Total Eclipse of the Heart
+translationKey: Total Eclipse of the Heart
 type: music
 ---
-
 
 ## Bonnie Tyler on the album The Very Best of Bonnie Tyler
 

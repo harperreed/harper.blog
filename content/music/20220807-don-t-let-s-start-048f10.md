@@ -8,9 +8,9 @@ duration: 156040
 preview_url: null
 spotify_url: https://open.spotify.com/track/2kGwIRvtl5Axrb8hzIruFb
 title: Don't Let's Start
+translationKey: Don't Let's Start
 type: music
 ---
-
 
 ## They Might Be Giants on the album They Might Be Giants
 

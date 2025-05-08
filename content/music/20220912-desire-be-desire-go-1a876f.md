@@ -8,9 +8,9 @@ duration: 266160
 preview_url: null
 spotify_url: https://open.spotify.com/track/1jn1tS8R58gpxfgGNyRQph
 title: Desire Be Desire Go
+translationKey: Desire Be Desire Go
 type: music
 ---
-
 
 ## Tame Impala on the album InnerSpeaker
 

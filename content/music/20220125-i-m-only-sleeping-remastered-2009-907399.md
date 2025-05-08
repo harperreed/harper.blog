@@ -8,9 +8,9 @@ duration: 180320
 preview_url: null
 spotify_url: https://open.spotify.com/track/2ylCrFiBu98SC0vFfaCent
 title: I'm Only Sleeping - Remastered 2009
+translationKey: I'm Only Sleeping - Remastered 2009
 type: music
 ---
-
 
 ## The Beatles on the album Revolver (Remastered)
 

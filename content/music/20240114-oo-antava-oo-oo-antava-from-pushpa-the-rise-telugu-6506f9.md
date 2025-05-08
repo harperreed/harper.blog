@@ -8,9 +8,9 @@ duration: 223325
 preview_url: null
 spotify_url: https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8
 title: Oo Antava Oo Oo Antava (From "Pushpa - The Rise")(Telugu)
+translationKey: Oo Antava Oo Oo Antava (From "Pushpa - The Rise")(Telugu)
 type: music
 ---
-
 
 ## Devi Sri Prasad on the album Oo Antava Oo Oo Antava (From "Pushpa - The Rise")(Telugu)
 

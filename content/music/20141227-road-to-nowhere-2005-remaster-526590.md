@@ -8,9 +8,9 @@ duration: 259480
 preview_url: null
 spotify_url: https://open.spotify.com/track/7heBAWblTLFg7BbyRfHUAH
 title: Road to Nowhere - 2005 Remaster
+translationKey: Road to Nowhere - 2005 Remaster
 type: music
 ---
-
 
 ## Talking Heads on the album Little Creatures (Deluxe Version)
 

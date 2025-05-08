@@ -8,9 +8,9 @@ duration: 238413
 preview_url: null
 spotify_url: https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA
 title: The Only Living Boy in New York
+translationKey: The Only Living Boy in New York
 type: music
 ---
-
 
 ## Simon & Garfunkel on the album Bridge Over Troubled Water
 

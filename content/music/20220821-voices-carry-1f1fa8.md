@@ -8,9 +8,9 @@ duration: 263573
 preview_url: null
 spotify_url: https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ
 title: Voices Carry
+translationKey: Voices Carry
 type: music
 ---
-
 
 ## 'Til Tuesday on the album Voices Carry (Expanded Edition)
 

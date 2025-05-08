@@ -8,9 +8,9 @@ duration: 167142
 preview_url: null
 spotify_url: https://open.spotify.com/track/4Qpa0WH8hUHtOJKSNPrGV7
 title: Practice Makes Perfect
+translationKey: Practice Makes Perfect
 type: music
 ---
-
 
 ## SR on the album Practice Makes Perfect
 

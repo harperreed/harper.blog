@@ -8,9 +8,9 @@ duration: 179866
 preview_url: null
 spotify_url: https://open.spotify.com/track/5p2hASmdinu6WKlramNIu5
 title: Glass Danse
+translationKey: Glass Danse
 type: music
 ---
-
 
 ## The Faint on the album Danse Macabre
 

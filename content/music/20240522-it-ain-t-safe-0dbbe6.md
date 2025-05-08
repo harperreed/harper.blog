@@ -8,9 +8,9 @@ duration: 223411
 preview_url: null
 spotify_url: https://open.spotify.com/track/26DdCbuwHRX1BgWeHQIn1C
 title: It Ain't Safe
+translationKey: It Ain't Safe
 type: music
 ---
-
 
 ## Skepta on the album Konnichiwa
 

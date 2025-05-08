@@ -8,9 +8,9 @@ duration: 234200
 preview_url: null
 spotify_url: https://open.spotify.com/track/6kjbzQAJ2BkgcUecMikI0U
 title: Scrapyard
+translationKey: Scrapyard
 type: music
 ---
-
 
 ## Skinny Puppy on the album Last Rights
 

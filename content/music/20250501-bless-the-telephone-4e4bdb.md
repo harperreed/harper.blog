@@ -8,9 +8,9 @@ duration: 100746
 preview_url: null
 spotify_url: https://open.spotify.com/track/6RncQhBW59F9nm0Qao8cKA
 title: Bless the Telephone
+translationKey: Bless the Telephone
 type: music
 ---
-
 
 ## Labi Siffre on the album The Singer & The Song (Deluxe Edition)
 

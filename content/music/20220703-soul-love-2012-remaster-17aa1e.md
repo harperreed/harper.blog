@@ -8,9 +8,9 @@ duration: 214198
 preview_url: null
 spotify_url: https://open.spotify.com/track/1bo6xzrCrK7ocEirC5rrZk
 title: Soul Love - 2012 Remaster
+translationKey: Soul Love - 2012 Remaster
 type: music
 ---
-
 
 ## David Bowie on the album The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)
 

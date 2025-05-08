@@ -8,9 +8,9 @@ duration: 226546
 preview_url: null
 spotify_url: https://open.spotify.com/track/1SdqlTmK9P97PntBQrtf85
 title: Little Foot Big Foot (feat. Young Nudy)
+translationKey: Little Foot Big Foot (feat. Young Nudy)
 type: music
 ---
-
 
 ## Childish Gambino on the album Atavista
 

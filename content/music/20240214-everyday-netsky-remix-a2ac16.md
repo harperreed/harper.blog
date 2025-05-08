@@ -8,9 +8,9 @@ duration: 251669
 preview_url: null
 spotify_url: https://open.spotify.com/track/76kY7vDRhosNwxcml9LwTR
 title: Everyday - Netsky Remix
+translationKey: Everyday - Netsky Remix
 type: music
 ---
-
 
 ## Rusko on the album Everyday/Lick The Lizard
 

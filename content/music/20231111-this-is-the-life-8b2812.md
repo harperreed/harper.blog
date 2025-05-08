@@ -8,9 +8,9 @@ duration: 131388
 preview_url: null
 spotify_url: https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula
 title: This Is The Life
+translationKey: This Is The Life
 type: music
 ---
-
 
 ## LIZOT on the album This Is The Life
 

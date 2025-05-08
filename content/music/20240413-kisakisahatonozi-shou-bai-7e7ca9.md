@@ -8,9 +8,9 @@ duration: 176560
 preview_url: null
 spotify_url: https://open.spotify.com/track/2iCmi85cq1crvP1akxIl91
 title: ギザギザハートの子守唄
+translationKey: ギザギザハートの子守唄
 type: music
 ---
-
 
 ## The Checkers on the album ギザギザハートの子守唄
 

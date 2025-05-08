@@ -8,9 +8,9 @@ duration: 349679
 preview_url: null
 spotify_url: https://open.spotify.com/track/6T23ri8QUVdRWbkvImmXR2
 title: Certain Things Around You, Pt. 2
+translationKey: Certain Things Around You, Pt. 2
 type: music
 ---
-
 
 ## Minilogue on the album Certain Things - EP
 

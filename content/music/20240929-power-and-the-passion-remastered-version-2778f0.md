@@ -8,9 +8,9 @@ duration: 339400
 preview_url: null
 spotify_url: https://open.spotify.com/track/75SH7qKifZ0Mzl4UFmps31
 title: Power And The Passion - Remastered Version
+translationKey: Power And The Passion - Remastered Version
 type: music
 ---
-
 
 ## Midnight Oil on the album 10,9,8,7,6,5,4,3,2,1
 

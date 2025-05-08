@@ -8,9 +8,9 @@ duration: 331293
 preview_url: null
 spotify_url: https://open.spotify.com/track/1SCUAyfSXUzXccMbMb3LJB
 title: To The Last Whale... A) Critical Mass / B) Wind On The Water
+translationKey: To The Last Whale... A) Critical Mass / B) Wind On The Water
 type: music
 ---
-
 
 ## David Crosby on the album The Best Of Crosby & Nash: The ABC Years
 

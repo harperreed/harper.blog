@@ -8,9 +8,9 @@ duration: 229560
 preview_url: null
 spotify_url: https://open.spotify.com/track/32c5u16EkwZjJ1lEy9nRtk
 title: The Long Day Closes
+translationKey: The Long Day Closes
 type: music
 ---
-
 
 ## Arthur Sullivan on the album Traditional Glees and Madrigals
 

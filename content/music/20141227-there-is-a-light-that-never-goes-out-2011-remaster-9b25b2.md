@@ -8,9 +8,9 @@ duration: 244586
 preview_url: null
 spotify_url: https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI
 title: There Is a Light That Never Goes Out - 2011 Remaster
+translationKey: There Is a Light That Never Goes Out - 2011 Remaster
 type: music
 ---
-
 
 ## The Smiths on the album The Queen Is Dead
 

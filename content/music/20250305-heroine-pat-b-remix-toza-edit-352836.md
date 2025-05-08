@@ -8,9 +8,9 @@ duration: 144015
 preview_url: null
 spotify_url: https://open.spotify.com/track/6fVbDmjqqY9y4vIkXTML3U
 title: Heroine - (Pat B remix) [TOZA Edit]
+translationKey: Heroine - (Pat B remix) [TOZA Edit]
 type: music
 ---
-
 
 ## Dutch Disorder on the album Heroine [(Pat B remix) [TOZA Edit]]
 

@@ -8,9 +8,9 @@ duration: 86773
 preview_url: null
 spotify_url: https://open.spotify.com/track/46A9awz7xtpDGNeNtaqWMh
 title: The scarlett empress
+translationKey: The scarlett empress
 type: music
 ---
-
 
 ## College on the album Teenage color Ep
 

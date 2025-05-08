@@ -8,9 +8,9 @@ duration: 331240
 preview_url: null
 spotify_url: https://open.spotify.com/track/0G7qyvqwjfMdHZn4RwiAdf
 title: Tarantula - Original Mix
+translationKey: Tarantula - Original Mix
 type: music
 ---
-
 
 ## Pendulum on the album Hold Your Colour
 

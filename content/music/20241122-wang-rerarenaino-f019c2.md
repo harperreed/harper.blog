@@ -8,9 +8,9 @@ duration: 238000
 preview_url: null
 spotify_url: https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN
 title: 忘れられないの
+translationKey: 忘れられないの
 type: music
 ---
-
 
 ## sakanaction on the album 834.194
 

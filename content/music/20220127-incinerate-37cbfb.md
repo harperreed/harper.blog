@@ -8,9 +8,9 @@ duration: 295813
 preview_url: null
 spotify_url: https://open.spotify.com/track/0lDoG5fQ9cmpvpenwR7Jln
 title: Incinerate
+translationKey: Incinerate
 type: music
 ---
-
 
 ## Sonic Youth on the album Rather Ripped
 

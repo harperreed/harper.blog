@@ -8,9 +8,9 @@ duration: 163802
 preview_url: null
 spotify_url: https://open.spotify.com/track/2w0DHjwF1NIMGXKeypz0sr
 title: BILLI (feat. Future)
+translationKey: BILLI (feat. Future)
 type: music
 ---
-
 
 ## EARTHGANG on the album GHETTO GODS
 

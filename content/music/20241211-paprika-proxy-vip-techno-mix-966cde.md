@@ -8,9 +8,9 @@ duration: 121125
 preview_url: null
 spotify_url: https://open.spotify.com/track/0GHrnZhAQxQTiSaVsx27MI
 title: Paprika - Proxy VIP Techno Mix
+translationKey: Paprika - Proxy VIP Techno Mix
 type: music
 ---
-
 
 ## Ilektrify on the album VIP Mixes, Vol. 65
 

@@ -8,9 +8,9 @@ duration: 196520
 preview_url: null
 spotify_url: https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh
 title: Wait a Minute!
+translationKey: Wait a Minute!
 type: music
 ---
-
 
 ## WILLOW on the album ARDIPITHECUS
 

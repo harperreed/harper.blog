@@ -8,9 +8,9 @@ duration: 187693
 preview_url: null
 spotify_url: https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5
 title: Hollywood Baby
+translationKey: Hollywood Baby
 type: music
 ---
-
 
 ## 100 gecs on the album 10,000 gecs
 

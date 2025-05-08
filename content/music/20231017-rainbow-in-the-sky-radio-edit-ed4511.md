@@ -8,9 +8,9 @@ duration: 207933
 preview_url: null
 spotify_url: https://open.spotify.com/track/2MlqP1HzhitHfFXPXKumdB
 title: Rainbow In The Sky - Radio Edit
+translationKey: Rainbow In The Sky - Radio Edit
 type: music
 ---
-
 
 ## Paul Elstak on the album May The Forze Be With You
 

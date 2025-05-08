@@ -8,9 +8,9 @@ duration: 279520
 preview_url: null
 spotify_url: https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb
 title: I'm Waiting For The Man
+translationKey: I'm Waiting For The Man
 type: music
 ---
-
 
 ## The Velvet Underground on the album The Velvet Underground & Nico 45th Anniversary
 

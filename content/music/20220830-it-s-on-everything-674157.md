@@ -8,9 +8,9 @@ duration: 313000
 preview_url: null
 spotify_url: https://open.spotify.com/track/1LvcZ6JvBU3KDu04N7n8as
 title: It's On Everything
+translationKey: It's On Everything
 type: music
 ---
-
 
 ## Akira Kosemura on the album It's On Everything
 

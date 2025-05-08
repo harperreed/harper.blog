@@ -8,9 +8,9 @@ duration: 240026
 preview_url: null
 spotify_url: https://open.spotify.com/track/1OM6HeJdm6AKe2VJCn9pbA
 title: Scissor Man - 2001 Digital Remaster
+translationKey: Scissor Man - 2001 Digital Remaster
 type: music
 ---
-
 
 ## XTC on the album Drums And Wires
 

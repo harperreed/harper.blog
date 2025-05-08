@@ -8,9 +8,9 @@ duration: 187519
 preview_url: null
 spotify_url: https://open.spotify.com/track/6Fp3rmwGPtCQQImsFyNQ1L
 title: Ntabala (Rolex Riddim)
+translationKey: Ntabala (Rolex Riddim)
 type: music
 ---
-
 
 ## Still on the album Ntabala (Rolex Riddim)
 

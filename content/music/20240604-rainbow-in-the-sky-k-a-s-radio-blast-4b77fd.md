@@ -8,9 +8,9 @@ duration: 213112
 preview_url: null
 spotify_url: https://open.spotify.com/track/2PVqPbRv7mlCp2JYzDeMsc
 title: Rainbow In The Sky - K & A's Radio Blast
+translationKey: Rainbow In The Sky - K & A's Radio Blast
 type: music
 ---
-
 
 ## Paul Elstak on the album The Best Of Paul Elstak Top 20
 

@@ -8,9 +8,9 @@ duration: 323280
 preview_url: null
 spotify_url: https://open.spotify.com/track/4yGVlUUhN0PAHnuM8m2KZD
 title: Naive Response
+translationKey: Naive Response
 type: music
 ---
-
 
 ## Daniel Avery on the album Drone Logic
 

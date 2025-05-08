@@ -8,9 +8,9 @@ duration: 142053
 preview_url: null
 spotify_url: https://open.spotify.com/track/3M1Sjaj866h4VqejE7Ak6b
 title: I'm a Fucking McDonald's
+translationKey: I'm a Fucking McDonald's
 type: music
 ---
-
 
 ## Drinking Boys and Girls Choir on the album Keep Drinking
 

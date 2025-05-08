@@ -8,9 +8,9 @@ duration: 119466
 preview_url: null
 spotify_url: https://open.spotify.com/track/5RnlUyTKgmd7V6tXdQcKVK
 title: Ready or Not Here I Come (Can't Hide from Love)
+translationKey: Ready or Not Here I Come (Can't Hide from Love)
 type: music
 ---
-
 
 ## The Delfonics on the album The Sound Of Sexy Soul
 

@@ -8,9 +8,9 @@ duration: 189000
 preview_url: null
 spotify_url: https://open.spotify.com/track/4IRuoCdSY9fxpgXfCDaAeA
 title: Should I Stay or Should I Go - Remastered
+translationKey: Should I Stay or Should I Go - Remastered
 type: music
 ---
-
 
 ## The Clash on the album Combat Rock + The People's Hall
 

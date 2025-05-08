@@ -8,9 +8,9 @@ duration: 127686
 preview_url: null
 spotify_url: https://open.spotify.com/track/5P8By5oKf2pSDHoG7t4NyD
 title: Bruno Power
+translationKey: Bruno Power
 type: music
 ---
-
 
 ## Ivan Giannovani on the album Bruno Power
 

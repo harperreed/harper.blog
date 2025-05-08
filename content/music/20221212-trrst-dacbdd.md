@@ -8,9 +8,9 @@ duration: 184000
 preview_url: null
 spotify_url: https://open.spotify.com/track/0M56diRArdi0vRYmLBeltn
 title: TRRST
+translationKey: TRRST
 type: music
 ---
-
 
 ## IC3PEAK on the album До Свидания
 

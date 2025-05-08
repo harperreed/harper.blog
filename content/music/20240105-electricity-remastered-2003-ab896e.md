@@ -8,9 +8,9 @@ duration: 219066
 preview_url: null
 spotify_url: https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB
 title: Electricity - Remastered 2003
+translationKey: Electricity - Remastered 2003
 type: music
 ---
-
 
 ## Orchestral Manoeuvres In The Dark on the album Orchestral Manoeuvres In The Dark (Remastered 2003)
 

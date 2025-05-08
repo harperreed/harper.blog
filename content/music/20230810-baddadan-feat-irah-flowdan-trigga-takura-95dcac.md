@@ -8,9 +8,9 @@ duration: 177291
 preview_url: null
 spotify_url: https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg
 title: Baddadan (feat. IRAH, Flowdan, Trigga & Takura)
+translationKey: Baddadan (feat. IRAH, Flowdan, Trigga & Takura)
 type: music
 ---
-
 
 ## Chase & Status on the album Baddadan (feat. IRAH, Flowdan, Trigga & Takura)
 

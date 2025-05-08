@@ -8,9 +8,9 @@ duration: 371746
 preview_url: null
 spotify_url: https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0
 title: On the Nature of Daylight
+translationKey: On the Nature of Daylight
 type: music
 ---
-
 
 ## Max Richter on the album The Blue Notebooks (15 Years)
 

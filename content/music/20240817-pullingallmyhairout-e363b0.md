@@ -8,9 +8,9 @@ duration: 172855
 preview_url: null
 spotify_url: https://open.spotify.com/track/3IKgNZCey8iIJkRiwvoyUs
 title: PULLINGALLMYHAIROUT
+translationKey: PULLINGALLMYHAIROUT
 type: music
 ---
-
 
 ## Alice Gas on the album PULLINGALLMYHAIROUT
 

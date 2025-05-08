@@ -8,9 +8,9 @@ duration: 92307
 preview_url: null
 spotify_url: https://open.spotify.com/track/29jxXOLTMNEL2ixZRgPDkS
 title: TEQUILA
+translationKey: TEQUILA
 type: music
 ---
-
 
 ## IAMTRA$H on the album TEQUILA
 

@@ -8,9 +8,9 @@ duration: 193373
 preview_url: null
 spotify_url: https://open.spotify.com/track/2CMQoSgyQLXshYuWLdtlRh
 title: Mind Your Own Business
+translationKey: Mind Your Own Business
 type: music
 ---
-
 
 ## Delta 5 on the album Singles and Sessions 1979-1981
 

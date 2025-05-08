@@ -8,9 +8,9 @@ duration: 220220
 preview_url: null
 spotify_url: https://open.spotify.com/track/0tLcKkZqfylGoG5JcXOXvL
 title: Magical Doctor
+translationKey: Magical Doctor
 type: music
 ---
-
 
 ## Maretu on the album SIU
 

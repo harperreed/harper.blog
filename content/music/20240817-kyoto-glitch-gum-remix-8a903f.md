@@ -8,9 +8,9 @@ duration: 159813
 preview_url: null
 spotify_url: https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl
 title: Kyoto (Glitch Gum Remix)
+translationKey: Kyoto (Glitch Gum Remix)
 type: music
 ---
-
 
 ## Phoebe Bridgers on the album Kyoto (Glitch Gum Remix)
 

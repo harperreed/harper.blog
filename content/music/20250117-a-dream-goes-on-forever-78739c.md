@@ -8,9 +8,9 @@ duration: 279170
 preview_url: null
 spotify_url: https://open.spotify.com/track/1CGT5LV74SNzXFnVmTdAE8
 title: A Dream Goes On Forever
+translationKey: A Dream Goes On Forever
 type: music
 ---
-
 
 ## Vegyn on the album The Road To Hell Is Paved With Good Intentions
 

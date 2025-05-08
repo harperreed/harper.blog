@@ -8,9 +8,9 @@ duration: 347760
 preview_url: null
 spotify_url: https://open.spotify.com/track/6OSyCAmXT4Gkd3OQ2aPOaF
 title: Silent Lucidity - Remastered 2003
+translationKey: Silent Lucidity - Remastered 2003
 type: music
 ---
-
 
 ## Queensrÿche on the album Empire - 20th Anniversary Edition
 

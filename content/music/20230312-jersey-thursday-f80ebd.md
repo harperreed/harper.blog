@@ -8,9 +8,9 @@ duration: 131693
 preview_url: null
 spotify_url: https://open.spotify.com/track/2v9drluzNwXRgBmbX3L6I5
 title: Jersey Thursday
+translationKey: Jersey Thursday
 type: music
 ---
-
 
 ## Donovan on the album Fairytale (Deluxe Expanded Edition)
 

@@ -8,9 +8,9 @@ duration: 140800
 preview_url: null
 spotify_url: https://open.spotify.com/track/06gYMq6RAEHnSYnkrppYBp
 title: MONSTER ENERGY GUN!
+translationKey: MONSTER ENERGY GUN!
 type: music
 ---
-
 
 ## KevinKempt on the album MONSTER ENERGY GUN!
 

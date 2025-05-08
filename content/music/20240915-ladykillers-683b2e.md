@@ -8,9 +8,9 @@ duration: 193493
 preview_url: null
 spotify_url: https://open.spotify.com/track/64RQTM5ih8kx5rl8fxbRVv
 title: Ladykillers
+translationKey: Ladykillers
 type: music
 ---
-
 
 ## Lush on the album Lovelife
 

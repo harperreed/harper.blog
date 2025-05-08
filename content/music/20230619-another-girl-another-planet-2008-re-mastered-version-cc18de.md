@@ -8,9 +8,9 @@ duration: 181173
 preview_url: null
 spotify_url: https://open.spotify.com/track/5TmQl8urbTlfZb8xKisSl0
 title: Another Girl, Another Planet - 2008 re-mastered version
+translationKey: Another Girl, Another Planet - 2008 re-mastered version
 type: music
 ---
-
 
 ## The Only Ones on the album The Only Ones
 

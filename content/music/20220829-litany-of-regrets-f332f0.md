@@ -8,9 +8,9 @@ duration: 819000
 preview_url: null
 spotify_url: https://open.spotify.com/track/2nJXoK4eJH5LpsuAqfSI2e
 title: Litany of Regrets
+translationKey: Litany of Regrets
 type: music
 ---
-
 
 ## Krallice on the album Diotima
 

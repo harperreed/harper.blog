@@ -8,9 +8,9 @@ duration: 203333
 preview_url: null
 spotify_url: https://open.spotify.com/track/6Vz2IQv3AYoznh4tjsrRPo
 title: Something On Your Mind
+translationKey: Something On Your Mind
 type: music
 ---
-
 
 ## Karen Dalton on the album In My Own Time
 

@@ -8,9 +8,9 @@ duration: 304786
 preview_url: null
 spotify_url: https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl
 title: I Want to Know What Love Is - 1999 Remaster
+translationKey: I Want to Know What Love Is - 1999 Remaster
 type: music
 ---
-
 
 ## Foreigner on the album Agent Provocateur
 

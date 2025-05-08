@@ -8,9 +8,9 @@ duration: 122000
 preview_url: null
 spotify_url: https://open.spotify.com/track/68dJLo5V8r7SjA0P6JnnWt
 title: Tales Of Lolita
+translationKey: Tales Of Lolita
 type: music
 ---
-
 
 ## Floor on the album Self-Titled + Outtakes
 

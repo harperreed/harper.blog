@@ -8,9 +8,9 @@ duration: 234080
 preview_url: null
 spotify_url: https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod
 title: Thunder Kiss '65
+translationKey: Thunder Kiss '65
 type: music
 ---
-
 
 ## White Zombie on the album La Sexorcisto: Devil Music Volume 1
 

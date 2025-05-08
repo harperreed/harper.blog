@@ -8,9 +8,9 @@ duration: 201066
 preview_url: null
 spotify_url: https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q
 title: Didn't I (Blow Your Mind This Time)
+translationKey: Didn't I (Blow Your Mind This Time)
 type: music
 ---
-
 
 ## The Delfonics on the album The Delfonics
 

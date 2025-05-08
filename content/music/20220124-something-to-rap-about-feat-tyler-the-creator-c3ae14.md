@@ -8,9 +8,9 @@ duration: 282560
 preview_url: null
 spotify_url: https://open.spotify.com/track/5OkYfk72CNL8XLqa3gp9q7
 title: Something to Rap About (feat. Tyler, The Creator)
+translationKey: Something to Rap About (feat. Tyler, The Creator)
 type: music
 ---
-
 
 ## Freddie Gibbs on the album Alfredo
 

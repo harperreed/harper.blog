@@ -8,9 +8,9 @@ duration: 449600
 preview_url: null
 spotify_url: https://open.spotify.com/track/6FERZX07fqebws3FeqChTl
 title: Prints Tie
+translationKey: Prints Tie
 type: music
 ---
-
 
 ## Bobby Hutcherson on the album San Francisco
 

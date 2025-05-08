@@ -8,9 +8,9 @@ duration: 186306
 preview_url: null
 spotify_url: https://open.spotify.com/track/40d2EcaOOCUjDzzo2YvUWn
 title: Long, Long, Long - Remastered 2009
+translationKey: Long, Long, Long - Remastered 2009
 type: music
 ---
-
 
 ## The Beatles on the album The Beatles (Remastered)
 

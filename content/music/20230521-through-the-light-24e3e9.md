@@ -8,9 +8,9 @@ duration: 96678
 preview_url: null
 spotify_url: https://open.spotify.com/track/4dUFWoTGL8BXPj3chx3RzL
 title: through the light
+translationKey: through the light
 type: music
 ---
-
 
 ## dracodraco on the album through the light
 

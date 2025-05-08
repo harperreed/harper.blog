@@ -8,9 +8,9 @@ duration: 167600
 preview_url: null
 spotify_url: https://open.spotify.com/track/5E1XI3JnHOoSEcY2hYnbhj
 title: Click Click Click
+translationKey: Click Click Click
 type: music
 ---
-
 
 ## Tiësto on the album Click Click Click
 

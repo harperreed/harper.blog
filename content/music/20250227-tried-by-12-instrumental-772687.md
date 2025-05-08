@@ -8,9 +8,9 @@ duration: 174370
 preview_url: null
 spotify_url: https://open.spotify.com/track/3vIqoLnL7Y20z3ityk8h5i
 title: Tried by 12 (Instrumental)
+translationKey: Tried by 12 (Instrumental)
 type: music
 ---
-
 
 ## The East Flatbush Project on the album First Born
 

@@ -8,9 +8,10 @@ duration: 116435
 preview_url: null
 spotify_url: https://open.spotify.com/track/78jmn9mXdW3wf64j5l0VHl
 title: Wait a Minute! (Sped Up) - I Think I Left My Consciousness in the 6Th Dimension
+translationKey: Wait a Minute! (Sped Up) - I Think I Left My Consciousness in the
+  6Th Dimension
 type: music
 ---
-
 
 ## Hiko on the album Wait a Minute! (Sped Up) - I Think I Left My Consciousness in the 6Th Dimension
 

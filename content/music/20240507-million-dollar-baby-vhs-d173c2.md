@@ -8,9 +8,9 @@ duration: 155151
 preview_url: null
 spotify_url: https://open.spotify.com/track/3Sz8P5ZFLARe2oJeb0qsyb
 title: MILLION DOLLAR BABY (VHS)
+translationKey: MILLION DOLLAR BABY (VHS)
 type: music
 ---
-
 
 ## Tommy Richman on the album MILLION DOLLAR BABY
 

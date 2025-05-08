@@ -8,9 +8,9 @@ duration: 221498
 preview_url: null
 spotify_url: https://open.spotify.com/track/0je6JQMhrkDF8aPSHcQ1r2
 title: All The Things She Said
+translationKey: All The Things She Said
 type: music
 ---
-
 
 ## Poppy on the album All The Things She Said
 

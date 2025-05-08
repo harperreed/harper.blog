@@ -8,9 +8,9 @@ duration: 334426
 preview_url: null
 spotify_url: https://open.spotify.com/track/1MI0EW4ydOfbIYBuOEJ9Kc
 title: Today Is the Day
+translationKey: Today Is the Day
 type: music
 ---
-
 
 ## Yo La Tengo on the album Summer Sun
 

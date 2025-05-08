@@ -8,9 +8,9 @@ duration: 167834
 preview_url: null
 spotify_url: https://open.spotify.com/track/5LaT6csofzDEaFf8cmqoaQ
 title: Believe the Hype
+translationKey: Believe the Hype
 type: music
 ---
-
 
 ## Alice Longyu Gao on the album Let's Hope Heteros Fail, Learn and Retire
 

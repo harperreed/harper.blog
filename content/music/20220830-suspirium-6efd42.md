@@ -8,9 +8,9 @@ duration: 201768
 preview_url: null
 spotify_url: https://open.spotify.com/track/4Y1igB1GDncJvt7ezbV3cW
 title: Suspirium
+translationKey: Suspirium
 type: music
 ---
-
 
 ## Thom Yorke on the album Suspiria (Music for the Luca Guadagnino Film)
 

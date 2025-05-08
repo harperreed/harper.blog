@@ -8,9 +8,9 @@ duration: 294331
 preview_url: null
 spotify_url: https://open.spotify.com/track/0vzWUTqv0hDXJsH2fUrNlJ
 title: Some Things Last a Long Time
+translationKey: Some Things Last a Long Time
 type: music
 ---
-
 
 ## Daniel Johnston on the album 1990
 

@@ -8,9 +8,9 @@ duration: 197946
 preview_url: null
 spotify_url: https://open.spotify.com/track/5wYAof2gsaOvwNJ4PWZWxP
 title: It's Gonna Be (Alright)
+translationKey: It's Gonna Be (Alright)
 type: music
 ---
-
 
 ## Ween on the album The Mollusk
 

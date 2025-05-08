@@ -8,9 +8,9 @@ duration: 147666
 preview_url: null
 spotify_url: https://open.spotify.com/track/0rSuev4QLH0DydIV7PosuX
 title: Play the Greatest Hits
+translationKey: Play the Greatest Hits
 type: music
 ---
-
 
 ## Wolf Alice on the album Blue Weekend
 

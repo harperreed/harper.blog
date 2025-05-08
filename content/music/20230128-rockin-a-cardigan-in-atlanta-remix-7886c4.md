@@ -8,9 +8,9 @@ duration: 138000
 preview_url: null
 spotify_url: https://open.spotify.com/track/62eyQ0C0IbRBplVsU1C3rL
 title: Rockin A Cardigan In Atlanta - Remix
+translationKey: Rockin A Cardigan In Atlanta - Remix
 type: music
 ---
-
 
 ## lil Shordie Scott on the album Rockin A Cardigan In Atlanta (Remix)
 

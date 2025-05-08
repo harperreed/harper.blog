@@ -8,9 +8,9 @@ duration: 253800
 preview_url: null
 spotify_url: https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v
 title: Making Plans For Nigel
+translationKey: Making Plans For Nigel
 type: music
 ---
-
 
 ## XTC on the album Drums And Wires
 

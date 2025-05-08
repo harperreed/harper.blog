@@ -8,9 +8,9 @@ duration: 112666
 preview_url: null
 spotify_url: https://open.spotify.com/track/6y2cLmWkuM7u5By6ElBrla
 title: Kiss Me, Son of God
+translationKey: Kiss Me, Son of God
 type: music
 ---
-
 
 ## They Might Be Giants on the album Lincoln
 

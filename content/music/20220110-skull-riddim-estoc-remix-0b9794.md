@@ -8,9 +8,9 @@ duration: 301714
 preview_url: null
 spotify_url: https://open.spotify.com/track/0NyNkUQhbsyNy1MFZPAqUi
 title: Skull Riddim - Estoc Remix
+translationKey: Skull Riddim - Estoc Remix
 type: music
 ---
-
 
 ## Endgame on the album Consumed (RMX)
 

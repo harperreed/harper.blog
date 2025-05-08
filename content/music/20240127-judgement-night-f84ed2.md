@@ -8,9 +8,9 @@ duration: 120453
 preview_url: null
 spotify_url: https://open.spotify.com/track/6pRvjdaG7JB2TPSShF8y3O
 title: JUDGEMENT NIGHT
+translationKey: JUDGEMENT NIGHT
 type: music
 ---
-
 
 ## HEALTH on the album DISCO4 :: PART I
 

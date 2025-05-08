@@ -8,9 +8,9 @@ duration: 142866
 preview_url: null
 spotify_url: https://open.spotify.com/track/6OVrzpbprJutSZeJGAfm5F
 title: Knotty Pine
+translationKey: Knotty Pine
 type: music
 ---
-
 
 ## Dirty Projectors on the album Dark Was The Night (Red Hot Compilation)
 

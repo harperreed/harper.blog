@@ -8,9 +8,9 @@ duration: 277520
 preview_url: null
 spotify_url: https://open.spotify.com/track/7uNI7hGwuNUddCRK6F5QsO
 title: Melody - French Version
+translationKey: Melody - French Version
 type: music
 ---
-
 
 ## Blonde Redhead on the album Equus
 

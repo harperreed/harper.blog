@@ -8,9 +8,9 @@ duration: 111960
 preview_url: null
 spotify_url: https://open.spotify.com/track/40vfXX854M4Y5ndNIVth6J
 title: Redford (For Yia-Yia & Pappou)
+translationKey: Redford (For Yia-Yia & Pappou)
 type: music
 ---
-
 
 ## Sufjan Stevens on the album Undun
 

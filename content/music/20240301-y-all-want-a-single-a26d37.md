@@ -8,9 +8,9 @@ duration: 197933
 preview_url: null
 spotify_url: https://open.spotify.com/track/4S1zPTpWtNSymfNua4pGqU
 title: Y'all Want a Single
+translationKey: Y'all Want a Single
 type: music
 ---
-
 
 ## Korn on the album The Essential Korn
 

@@ -8,9 +8,9 @@ duration: 212533
 preview_url: null
 spotify_url: https://open.spotify.com/track/5p6xhgQCwzX0G9PadMU9GA
 title: Play The Game - Remastered 2011
+translationKey: Play The Game - Remastered 2011
 type: music
 ---
-
 
 ## Queen on the album The Game (2011 Remaster)
 

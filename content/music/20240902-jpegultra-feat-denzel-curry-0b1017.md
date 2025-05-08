@@ -8,9 +8,9 @@ duration: 291800
 preview_url: null
 spotify_url: https://open.spotify.com/track/0NMC6aezcf1GItgscoiQCO
 title: JPEGULTRA! (feat. Denzel Curry)
+translationKey: JPEGULTRA! (feat. Denzel Curry)
 type: music
 ---
-
 
 ## JPEGMAFIA on the album I LAY DOWN MY LIFE FOR YOU
 

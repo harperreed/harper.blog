@@ -8,9 +8,9 @@ duration: 203266
 preview_url: null
 spotify_url: https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA
 title: Close to Me - 2006 Remaster
+translationKey: Close to Me - 2006 Remaster
 type: music
 ---
-
 
 ## The Cure on the album The Head on the Door
 

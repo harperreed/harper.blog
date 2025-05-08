@@ -8,9 +8,9 @@ duration: 163293
 preview_url: null
 spotify_url: https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi
 title: Friday on My Mind
+translationKey: Friday on My Mind
 type: music
 ---
-
 
 ## The Easybeats on the album Easy
 

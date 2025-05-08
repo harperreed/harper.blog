@@ -8,9 +8,9 @@ duration: 151400
 preview_url: null
 spotify_url: https://open.spotify.com/track/5ZYBczat60p8a2Fnenour4
 title: Garage Palace (feat. Little Simz)
+translationKey: Garage Palace (feat. Little Simz)
 type: music
 ---
-
 
 ## Gorillaz on the album Garage Palace (feat. Little Simz)
 

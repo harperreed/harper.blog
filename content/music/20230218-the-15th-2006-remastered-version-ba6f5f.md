@@ -8,9 +8,9 @@ duration: 185306
 preview_url: null
 spotify_url: https://open.spotify.com/track/6uzfO4Nl3imrQEEbUN8kBY
 title: The 15th - 2006 Remastered Version
+translationKey: The 15th - 2006 Remastered Version
 type: music
 ---
-
 
 ## Wire on the album 154 (2006 Remastered Version)
 

@@ -8,9 +8,9 @@ duration: 295373
 preview_url: null
 spotify_url: https://open.spotify.com/track/6Va1qwqV4lEvbOyPqodbth
 title: Breaking the Girl
+translationKey: Breaking the Girl
 type: music
 ---
-
 
 ## Red Hot Chili Peppers on the album Blood Sugar Sex Magik
 

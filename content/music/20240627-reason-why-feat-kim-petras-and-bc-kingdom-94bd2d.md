@@ -8,9 +8,9 @@ duration: 232374
 preview_url: null
 spotify_url: https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu
 title: Reason Why (feat. Kim Petras and BC Kingdom)
+translationKey: Reason Why (feat. Kim Petras and BC Kingdom)
 type: music
 ---
-
 
 ## SOPHIE on the album Reason Why (feat. Kim Petras and BC Kingdom)
 

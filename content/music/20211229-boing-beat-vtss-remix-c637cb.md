@@ -8,9 +8,9 @@ duration: 176470
 preview_url: null
 spotify_url: https://open.spotify.com/track/2tDrNpxe5PboAmdXTASPdA
 title: Boing Beat - VTSS Remix
+translationKey: Boing Beat - VTSS Remix
 type: music
 ---
-
 
 ## Danny L Harle on the album Boing Beat (VTSS Remix)
 

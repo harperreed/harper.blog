@@ -9,9 +9,10 @@ preview_url: null
 spotify_url: https://open.spotify.com/track/2OaPyH3JLuft6iuNFHFJl0
 title: Trashwang (feat. Na-Kel Smith, Jasper Dolphin, Lucas, L-Boy, Taco, Left Brain
   & Lee Spielman)
+translationKey: Trashwang (feat. Na-Kel Smith, Jasper Dolphin, Lucas, L-Boy, Taco,
+  Left Brain & Lee Spielman)
 type: music
 ---
-
 
 ## Tyler, The Creator on the album Wolf
 

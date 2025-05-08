@@ -8,9 +8,9 @@ duration: 199920
 preview_url: null
 spotify_url: https://open.spotify.com/track/2R3g9k14OAcUzZYwo90Tx6
 title: John Wayne Gacy, Jr.
+translationKey: John Wayne Gacy, Jr.
 type: music
 ---
-
 
 ## Sufjan Stevens on the album Illinois
 

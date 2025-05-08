@@ -8,9 +8,9 @@ duration: 424088
 preview_url: null
 spotify_url: https://open.spotify.com/track/7yj1EMLzh9I1ZZqJyejIgm
 title: Persona
+translationKey: Persona
 type: music
 ---
-
 
 ## Rival Consoles on the album Persona
 

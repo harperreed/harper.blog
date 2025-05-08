@@ -8,9 +8,9 @@ duration: 337733
 preview_url: null
 spotify_url: https://open.spotify.com/track/2KfjGQ3MjL1PlRsf2xUH5s
 title: Muffin Man
+translationKey: Muffin Man
 type: music
 ---
-
 
 ## Frank Zappa on the album Bongo Fury (Live)
 

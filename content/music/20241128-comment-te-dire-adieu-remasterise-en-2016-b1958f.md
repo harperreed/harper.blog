@@ -8,9 +8,9 @@ duration: 148506
 preview_url: null
 spotify_url: https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO
 title: Comment te dire adieu - Remasterisé en 2016
+translationKey: Comment te dire adieu - Remasterisé en 2016
 type: music
 ---
-
 
 ## Françoise Hardy on the album Comment te dire adieu (Remasterisé en 2016)
 

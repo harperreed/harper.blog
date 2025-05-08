@@ -8,9 +8,9 @@ duration: 200128
 preview_url: null
 spotify_url: https://open.spotify.com/track/0ttpRUqY7S9LfMPnbZjrXq
 title: Hand on my heart
+translationKey: Hand on my heart
 type: music
 ---
-
 
 ## Ninajirachi on the album Hand on my heart
 

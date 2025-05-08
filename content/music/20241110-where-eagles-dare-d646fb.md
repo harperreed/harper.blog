@@ -8,9 +8,9 @@ duration: 128426
 preview_url: null
 spotify_url: https://open.spotify.com/track/5LgiqEgpK54OfXC6947wbU
 title: Where Eagles Dare
+translationKey: Where Eagles Dare
 type: music
 ---
-
 
 ## Misfits on the album Collection
 

@@ -8,9 +8,9 @@ duration: 222093
 preview_url: null
 spotify_url: https://open.spotify.com/track/0l7djXY6dukQGO9qzWadiz
 title: 10:15 Saturday Night - 2005 Remaster
+translationKey: 10:15 Saturday Night - 2005 Remaster
 type: music
 ---
-
 
 ## The Cure on the album Three Imaginary Boys (Deluxe Edition)
 

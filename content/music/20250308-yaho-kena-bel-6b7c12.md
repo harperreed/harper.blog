@@ -8,9 +8,9 @@ duration: 205078
 preview_url: null
 spotify_url: https://open.spotify.com/track/2vsBVE4B1RABY7uJPgj2yK
 title: YAHO | KENA BEL
+translationKey: YAHO | KENA BEL
 type: music
 ---
-
 
 ## Rophnan on the album ZETEGN | NOR
 

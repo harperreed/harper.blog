@@ -8,9 +8,9 @@ duration: 204400
 preview_url: null
 spotify_url: https://open.spotify.com/track/1UH4viviUjZnS9aWgPGrk0
 title: La vie en rose - Single Version
+translationKey: La vie en rose - Single Version
 type: music
 ---
-
 
 ## Louis Armstrong on the album The Best Of The Decca Years Volume One: The Singer
 

@@ -8,9 +8,9 @@ duration: 338200
 preview_url: null
 spotify_url: https://open.spotify.com/track/60YZ4pQN9D2YvWx4WyauVl
 title: Sister Europe - Remastered
+translationKey: Sister Europe - Remastered
 type: music
 ---
-
 
 ## The Psychedelic Furs on the album The Psychedelic Furs
 

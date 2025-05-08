@@ -8,9 +8,9 @@ duration: 153600
 preview_url: null
 spotify_url: https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc
 title: I'm Shipping Up To Boston
+translationKey: I'm Shipping Up To Boston
 type: music
 ---
-
 
 ## Dropkick Murphys on the album The Warrior's Code
 

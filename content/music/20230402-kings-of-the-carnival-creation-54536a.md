@@ -8,9 +8,9 @@ duration: 468480
 preview_url: null
 spotify_url: https://open.spotify.com/track/7x9gPXIuiG4K45JGR1Zqyq
 title: Kings of the Carnival Creation
+translationKey: Kings of the Carnival Creation
 type: music
 ---
-
 
 ## Dimmu Borgir on the album Puritanical Euphoric Misanthropia
 

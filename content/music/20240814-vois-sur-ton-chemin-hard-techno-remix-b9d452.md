@@ -8,9 +8,9 @@ duration: 228352
 preview_url: null
 spotify_url: https://open.spotify.com/track/6Sah28vFeZOmLVXE5KAsrZ
 title: Vois Sur Ton Chemin - Hard Techno Remix
+translationKey: Vois Sur Ton Chemin - Hard Techno Remix
 type: music
 ---
-
 
 ## GEWOONRAVES on the album Vois Sur Ton Chemin (Hard Techno Remix)
 

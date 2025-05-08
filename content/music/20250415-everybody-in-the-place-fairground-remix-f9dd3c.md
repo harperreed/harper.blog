@@ -8,9 +8,9 @@ duration: 308760
 preview_url: null
 spotify_url: https://open.spotify.com/track/01fdLsKy8Ph7Te2YZot7NE
 title: Everybody in the Place - Fairground Remix
+translationKey: Everybody in the Place - Fairground Remix
 type: music
 ---
-
 
 ## The Prodigy on the album XL Recordings: The First Chapters
 

@@ -8,9 +8,9 @@ duration: 102893
 preview_url: null
 spotify_url: https://open.spotify.com/track/0lVp0ajGZ2huxjV0LjnLI4
 title: Naruto Bluebird Freestyle
+translationKey: Naruto Bluebird Freestyle
 type: music
 ---
-
 
 ## Khantrast on the album Naruto Bluebird Freestyle
 

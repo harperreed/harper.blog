@@ -8,9 +8,9 @@ duration: 152186
 preview_url: null
 spotify_url: https://open.spotify.com/track/2GCTl74Bh8X2QDFh6h3h45
 title: My Everything (Ah Yaya)
+translationKey: My Everything (Ah Yaya)
 type: music
 ---
-
 
 ## Crowd Mova Crystal on the album Where My Shakers At?, Vol. 2 (New Orleans Gutta Bounce)
 

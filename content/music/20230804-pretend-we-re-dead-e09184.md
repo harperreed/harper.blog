@@ -8,9 +8,9 @@ duration: 235093
 preview_url: null
 spotify_url: https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9
 title: Pretend We're Dead
+translationKey: Pretend We're Dead
 type: music
 ---
-
 
 ## L7 on the album Bricks Are Heavy
 

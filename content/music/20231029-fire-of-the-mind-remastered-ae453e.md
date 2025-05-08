@@ -8,9 +8,9 @@ duration: 313999
 preview_url: null
 spotify_url: https://open.spotify.com/track/6G4oCGTKDLeP1AVtA5L3Yl
 title: Fire of the Mind - Remastered
+translationKey: Fire of the Mind - Remastered
 type: music
 ---
-
 
 ## Coil on the album The Ape of Naples
 

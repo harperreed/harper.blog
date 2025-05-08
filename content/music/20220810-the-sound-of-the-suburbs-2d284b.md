@@ -8,9 +8,9 @@ duration: 233200
 preview_url: null
 spotify_url: https://open.spotify.com/track/6RTh5BDes7y6KwC0rxW8WG
 title: The Sound Of The Suburbs
+translationKey: The Sound Of The Suburbs
 type: music
 ---
-
 
 ## The Members on the album Sound Of The Suburbs - A Collection Of The Members Finest Moments
 

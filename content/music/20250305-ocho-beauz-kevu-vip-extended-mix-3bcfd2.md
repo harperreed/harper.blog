@@ -8,9 +8,9 @@ duration: 147225
 preview_url: null
 spotify_url: https://open.spotify.com/track/7Ee2JcW0AcXWwcHaG0tjBm
 title: Ocho (BEAUZ & Kevu VIP) [Extended Mix]
+translationKey: Ocho (BEAUZ & Kevu VIP) [Extended Mix]
 type: music
 ---
-
 
 ## BEAUZ on the album Ocho (BEAUZ & KEVU VIP)
 

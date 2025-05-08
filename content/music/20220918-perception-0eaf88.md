@@ -8,9 +8,9 @@ duration: 246860
 preview_url: null
 spotify_url: https://open.spotify.com/track/1sbSjbgN3BO6pJ3Aes2XoS
 title: Perception
+translationKey: Perception
 type: music
 ---
-
 
 ## Tsuki on the album Redemption
 

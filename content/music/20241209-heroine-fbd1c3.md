@@ -8,9 +8,9 @@ duration: 123248
 preview_url: null
 spotify_url: https://open.spotify.com/track/0Hu7MIDZWEiipqaN2UBCet
 title: Heroine
+translationKey: Heroine
 type: music
 ---
-
 
 ## Dimitri Vegas & Like Mike on the album Heroine
 

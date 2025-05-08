@@ -8,9 +8,9 @@ duration: 350586
 preview_url: null
 spotify_url: https://open.spotify.com/track/6EMAoUEgfk2WtfwiBRG8hd
 title: Politicians In My Eyes
+translationKey: Politicians In My Eyes
 type: music
 ---
-
 
 ## Death on the album …For The Whole World To See
 

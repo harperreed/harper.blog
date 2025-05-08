@@ -8,9 +8,9 @@ duration: 291266
 preview_url: null
 spotify_url: https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn
 title: Protect Ya Neck
+translationKey: Protect Ya Neck
 type: music
 ---
-
 
 ## Wu-Tang Clan on the album Enter The Wu-Tang (36 Chambers) [Expanded Edition]
 

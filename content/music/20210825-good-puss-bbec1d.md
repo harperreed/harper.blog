@@ -8,9 +8,9 @@ duration: 220223
 preview_url: null
 spotify_url: https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc
 title: GOOD PUSS
+translationKey: GOOD PUSS
 type: music
 ---
-
 
 ## COBRAH on the album GOOD PUSS
 

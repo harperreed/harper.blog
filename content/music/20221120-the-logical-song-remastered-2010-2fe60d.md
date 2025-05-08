@@ -8,9 +8,9 @@ duration: 251253
 preview_url: null
 spotify_url: https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ
 title: The Logical Song - Remastered 2010
+translationKey: The Logical Song - Remastered 2010
 type: music
 ---
-
 
 ## Supertramp on the album Breakfast In America (Deluxe Edition)
 

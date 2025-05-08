@@ -8,9 +8,9 @@ duration: 520000
 preview_url: null
 spotify_url: https://open.spotify.com/track/5L9bEvb3CdE9LQWe5hAhD2
 title: 'Adams: The Death of Klinghoffer, Prologue: Chorus of Exiled Palestinians'
+translationKey: 'Adams: The Death of Klinghoffer, Prologue: Chorus of Exiled Palestinians'
 type: music
 ---
-
 
 ## John Adams on the album John Adams: The Death Of Klinghoffer
 

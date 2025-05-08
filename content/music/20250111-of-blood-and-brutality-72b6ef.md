@@ -8,9 +8,9 @@ duration: 187823
 preview_url: null
 spotify_url: https://open.spotify.com/track/4zGX2j6jtPtRyz4IjnMVKM
 title: '...Of Blood And Brutality'
+translationKey: '...Of Blood And Brutality'
 type: music
 ---
-
 
 ## Rev3rent on the album Last Trace
 

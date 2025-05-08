@@ -8,9 +8,9 @@ duration: 452853
 preview_url: null
 spotify_url: https://open.spotify.com/track/5nhCNDNbudIii09s8L6aFs
 title: Dance Tonight Revolution Tomorrow
+translationKey: Dance Tonight Revolution Tomorrow
 type: music
 ---
-
 
 ## Lorenzo Senni on the album Scacco Matto
 

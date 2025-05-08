@@ -8,9 +8,9 @@ duration: 229160
 preview_url: null
 spotify_url: https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4
 title: Uptown Top Ranking - Remastered 2001
+translationKey: Uptown Top Ranking - Remastered 2001
 type: music
 ---
-
 
 ## Althea And Donna on the album Uptown Top Ranking
 

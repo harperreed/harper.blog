@@ -8,9 +8,9 @@ duration: 1466000
 preview_url: null
 spotify_url: https://open.spotify.com/track/46ZQNYMl3w3B6XJcpsuQl7
 title: The Sinking of the Titanic
+translationKey: The Sinking of the Titanic
 type: music
 ---
-
 
 ## Gavin Bryars on the album Bryars: Jesus' Blood Never Failed Me Yet
 

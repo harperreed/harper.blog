@@ -8,9 +8,9 @@ duration: 162386
 preview_url: null
 spotify_url: https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO
 title: Upnow (feat. Coi Leray)
+translationKey: Upnow (feat. Coi Leray)
 type: music
 ---
-
 
 ## DD Osama on the album Upnow (feat. Coi Leray)
 

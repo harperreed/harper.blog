@@ -8,9 +8,9 @@ duration: 223098
 preview_url: null
 spotify_url: https://open.spotify.com/track/1ahEs6Mn7tP8SGN1WXuvbF
 title: Kiero K Me Kieras
+translationKey: Kiero K Me Kieras
 type: music
 ---
-
 
 ## SoFTT on the album Kiero K Me Kieras
 

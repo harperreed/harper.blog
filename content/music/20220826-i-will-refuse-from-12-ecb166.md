@@ -8,9 +8,9 @@ duration: 257399
 preview_url: null
 spotify_url: https://open.spotify.com/track/1IULyB0pxPt6VJlk5r0uZ9
 title: I Will Refuse (From 12")
+translationKey: I Will Refuse (From 12")
 type: music
 ---
-
 
 ## Pailhead on the album Side Trax
 

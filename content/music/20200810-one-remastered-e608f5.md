@@ -8,9 +8,9 @@ duration: 446145
 preview_url: null
 spotify_url: https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t
 title: One (Remastered)
+translationKey: One (Remastered)
 type: music
 ---
-
 
 ## Metallica on the album ...And Justice for All (Remastered Deluxe Box Set)
 

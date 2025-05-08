@@ -8,9 +8,9 @@ duration: 145066
 preview_url: null
 spotify_url: https://open.spotify.com/track/0rzEKEqkc1ifiytohMvErs
 title: Excremental Maniac
+translationKey: Excremental Maniac
 type: music
 ---
-
 
 ## Kraanium on the album Ten Acts of Sickening Perversity
 

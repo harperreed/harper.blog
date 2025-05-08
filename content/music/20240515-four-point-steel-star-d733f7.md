@@ -8,9 +8,9 @@ duration: 140982
 preview_url: null
 spotify_url: https://open.spotify.com/track/5f8B1wdJbXv1DUz6KR4drD
 title: Four Point Steel Star
+translationKey: Four Point Steel Star
 type: music
 ---
-
 
 ## Kumo 99 on the album Body N. Will
 

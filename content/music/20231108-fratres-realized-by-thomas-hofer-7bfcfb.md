@@ -8,9 +8,9 @@ duration: 565920
 preview_url: null
 spotify_url: https://open.spotify.com/track/5tsRjXhpTPJyNefX0PKSfD
 title: Fratres (realized by Thomas Höfer)
+translationKey: Fratres (realized by Thomas Höfer)
 type: music
 ---
-
 
 ## Arvo Pärt on the album Winter Was Hard
 

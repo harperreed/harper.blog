@@ -8,9 +8,9 @@ duration: 129403
 preview_url: null
 spotify_url: https://open.spotify.com/track/3vDSn3BLIJKMHGrGC0zAib
 title: HOODLUMZ (with PlayThatBoiZay & A$AP Rocky)
+translationKey: HOODLUMZ (with PlayThatBoiZay & A$AP Rocky)
 type: music
 ---
-
 
 ## Denzel Curry on the album HOODLUMZ (with PlayThatBoiZay & A$AP Rocky)
 

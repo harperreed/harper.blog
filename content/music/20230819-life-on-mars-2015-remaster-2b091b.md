@@ -8,9 +8,9 @@ duration: 235986
 preview_url: null
 spotify_url: https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N
 title: Life on Mars? - 2015 Remaster
+translationKey: Life on Mars? - 2015 Remaster
 type: music
 ---
-
 
 ## David Bowie on the album Hunky Dory (2015 Remaster)
 

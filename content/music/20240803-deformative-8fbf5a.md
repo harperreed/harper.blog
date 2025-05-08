@@ -8,9 +8,9 @@ duration: 147626
 preview_url: null
 spotify_url: https://open.spotify.com/track/1xTJ4sE2wEv6eq4L9BoKQ0
 title: Deformative
+translationKey: Deformative
 type: music
 ---
-
 
 ## Black Eyes on the album Black Eyes
 

@@ -8,9 +8,9 @@ duration: 182440
 preview_url: null
 spotify_url: https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ
 title: Bécane - A COLORS SHOW
+translationKey: Bécane - A COLORS SHOW
 type: music
 ---
-
 
 ## Yamê on the album Bécane - A COLORS SHOW
 

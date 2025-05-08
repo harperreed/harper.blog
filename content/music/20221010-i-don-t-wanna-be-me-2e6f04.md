@@ -8,9 +8,9 @@ duration: 308826
 preview_url: null
 spotify_url: https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p
 title: I Don't Wanna Be Me
+translationKey: I Don't Wanna Be Me
 type: music
 ---
-
 
 ## Type O Negative on the album Life Is Killing Me
 

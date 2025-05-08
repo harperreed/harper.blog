@@ -8,9 +8,9 @@ duration: 186013
 preview_url: null
 spotify_url: https://open.spotify.com/track/30l31DirTxcg4NaAY1BHlS
 title: Fangs - Slowed Down
+translationKey: Fangs - Slowed Down
 type: music
 ---
-
 
 ## Dionnysuss on the album Fangs
 

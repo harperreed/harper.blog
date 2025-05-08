@@ -8,9 +8,9 @@ duration: 334000
 preview_url: null
 spotify_url: https://open.spotify.com/track/5CGpPUcUahMuLzkNK9ZgPP
 title: Dear Mr. Fantasy
+translationKey: Dear Mr. Fantasy
 type: music
 ---
-
 
 ## Traffic on the album Mr. Fantasy
 
