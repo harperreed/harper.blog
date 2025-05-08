@@ -8,9 +8,10 @@
 - Update modules: `hugo mod clean --all && hugo mod get -u ./... && hugo mod tidy`
 
 ## Python Tools
-- Run book fetcher: `python tools/grab_read_books.py`
-- Run link fetcher: `python tools/grab_starred_links.py`
-- Run micro posts: `python tools/grab_micro_posts.py`
+- Always use `uv run` instead of `python` for running Python scripts
+- Run book fetcher: `uv run tools/grab_read_books.py`
+- Run link fetcher: `uv run tools/grab_starred_links.py`
+- Run micro posts: `uv run tools/grab_micro_posts_fixed.py`
 
 ## Multilingual Support
 - Supported languages: English (en), Spanish (es), Japanese (ja), and Korean (ko)
