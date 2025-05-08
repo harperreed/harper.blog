@@ -5,8 +5,8 @@ description: This morning I left the house with two different styles of shoes. I
 draft: false
 original_url: https://harper.micro.blog/2025/01/29/this-morning-i-left-the.html
 sub_title: Untitled
-title: 'Note #196'
-translationKey: 'Note #196'
+title: 'Note #155'
+translationKey: https://harper.micro.blog/2025/01/29/this-morning-i-left-the.html
 ---
 
 This morning I left the house with two different styles of shoes.

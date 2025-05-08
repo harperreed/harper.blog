@@ -4,8 +4,8 @@ description: It me
 draft: false
 original_url: https://harper.micro.blog/2025/02/02/it-me.html
 sub_title: Untitled
-title: 'Note #199'
-translationKey: 'Note #199'
+title: 'Note #158'
+translationKey: https://harper.micro.blog/2025/02/02/it-me.html
 ---
 
 It me!

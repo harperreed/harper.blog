@@ -5,8 +5,8 @@ description: An amazing week of friends and seeing Christine Sun Kim do amazing 
 draft: false
 original_url: https://harper.micro.blog/2025/02/08/an-amazing-week-of-friends.html
 sub_title: Untitled
-title: 'Note #203'
-translationKey: 'Note #203'
+title: 'Note #162'
+translationKey: https://harper.micro.blog/2025/02/08/an-amazing-week-of-friends.html
 ---
 
 An amazing week of friends and seeing Christine Sun Kim do amazing things. A blip of hope in a rather bleak few weeks.

@@ -4,8 +4,8 @@ description: Dylan. In color. https://cdn.uploads.micro.blog/2141/2025/6210e3a67
 draft: false
 original_url: https://harper.micro.blog/2025/01/31/dylan-in-color.html
 sub_title: Untitled
-title: 'Note #197'
-translationKey: 'Note #197'
+title: 'Note #156'
+translationKey: https://harper.micro.blog/2025/01/31/dylan-in-color.html
 ---
 
 Dylan. In color.

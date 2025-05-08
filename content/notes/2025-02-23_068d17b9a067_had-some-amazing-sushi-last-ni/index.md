@@ -5,8 +5,8 @@ description: Had some amazing sushi last night at Shoji. Chef Shoji san is alway
 draft: false
 original_url: https://harper.micro.blog/2025/02/23/had-some-amazing-sushi-last.html
 sub_title: Untitled
-title: 'Note #205'
-translationKey: 'Note #205'
+title: 'Note #164'
+translationKey: https://harper.micro.blog/2025/02/23/had-some-amazing-sushi-last.html
 ---
 
 Had some amazing sushi last night at Shoji. Chef Shoji san is always amazing.
