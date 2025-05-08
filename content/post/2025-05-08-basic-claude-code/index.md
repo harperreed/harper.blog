@@ -12,6 +12,7 @@ tags:
     - tdd
     - programming
 title: Basic Claude Code
+generateSocialImage: true
 translationKey: Basic Claude Code
 ---
 

@@ -1,18 +1,20 @@
 ---
 date: 2025-02-16 18:00:00-05:00
-description: A detailed walkthrough of my current workflow for using LLms to build
-  software, from brainstorming through planning and execution.
+description:
+    A detailed walkthrough of my current workflow for using LLms to build
+    software, from brainstorming through planning and execution.
 draft: false
 generateSocialImage: true
 tags:
-- LLM
-- coding
-- ai
-- workflow
-- software-development
-- productivity
+    - LLM
+    - coding
+    - ai
+    - workflow
+    - software-development
+    - productivity
 title: My LLM codegen workflow atm
 translationKey: My LLM codegen workflow atm
+bsky: https://bsky.app/profile/harper.lol/post/3lidixzdr5j2e
 ---
 
 _tl:dr; Brainstorm spec, then plan a plan, then execute using LLM codegen. Discrete loops. Then magic. ✩₊˚.⋆☾⋆⁺₊✧_
