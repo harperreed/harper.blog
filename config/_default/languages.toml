@@ -19,14 +19,14 @@ weight = 1
 # contentDir = "content.ja"
 # weight = 2
 
-[ko]
-title = "하퍼 리드의 블로그"
-languageName = "한국어 🇰🇷"
-languageCode = "ko"
-contentDir = "content.ko"
-weight = 4
+# [ko]
+# title = "하퍼 리드의 블로그"
+# languageName = "한국어 🇰🇷"
+# languageCode = "ko"
+# contentDir = "content.ko"
+# weight = 4
 
-# [zh]
+# # [zh]
 # title = "哈珀·雷德的博客"
 # languageName = "中文 🇨🇳"
 # languageCode = "zh-CN"
