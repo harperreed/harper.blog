@@ -27,9 +27,9 @@ I have received hundreds (wat) of emails from people talking about their workflo
 
 {{< image src="codegen.png"  >}}
 
-I was talking to a friend the other day about how we are **all totally fucked** and **AI will take our jobs** (more on that in a later post), and she was like "you should write a post about claude code."
+I was talking to a [friend](https://www.elidedbranches.com/) the other day about how we are **all totally fucked** and **AI will take our jobs** (more on that in a later post), and she was like "you should write a post about claude code."
 
-Here we are.
+Here we go.
 
 Claude Code was released eight days after I wrote my original workflow blog post, and as I predicted, it made a lot of my post irrelevant. I have since migrated from Aider to Claude Code and not looked back. I still like Aider, and it has a distinct use, but Claude Code is a bit more useful atm.
 
