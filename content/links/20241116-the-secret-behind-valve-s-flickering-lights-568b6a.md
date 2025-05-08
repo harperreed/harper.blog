@@ -10,6 +10,7 @@ tags:
 - visual-effects
 - quake
 title: The Secret Behind Valve's Flickering Lights
+translationKey: The Secret Behind Valve's Flickering Lights
 ---
 
 The Secret Behind Valve's Flickering Lights

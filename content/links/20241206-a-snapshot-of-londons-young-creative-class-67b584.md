@@ -10,6 +10,7 @@ tags:
 - photography
 - cost-of-living
 title: A snapshot of London’s young creative class
+translationKey: A snapshot of London’s young creative class
 ---
 
 A snapshot of London’s young creative class

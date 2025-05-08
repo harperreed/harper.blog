@@ -10,6 +10,7 @@ tags:
 - vulnerability-discovery
 - software-security
 title: AIs Discovering Vulnerabilities
+translationKey: AIs Discovering Vulnerabilities
 ---
 
 AIs Discovering Vulnerabilities

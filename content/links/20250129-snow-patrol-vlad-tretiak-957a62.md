@@ -10,6 +10,7 @@ tags:
 - vlad-tretiak
 - music-artist
 title: Snow patrol, Vlad Tretiak
+translationKey: Snow patrol, Vlad Tretiak
 ---
 
 Snow patrol, Vlad Tretiak

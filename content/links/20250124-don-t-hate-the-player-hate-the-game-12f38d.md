@@ -10,6 +10,7 @@ tags:
 - knowledge-work
 - workplace-culture
 title: Don't hate the player, hate the game.
+translationKey: Don't hate the player, hate the game.
 ---
 
 Don't hate the player, hate the game.

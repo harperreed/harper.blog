@@ -11,6 +11,7 @@ tags:
 - cloudflare-workers
 - serverless-database
 title: Infinite Git repos on Cloudflare workers
+translationKey: Infinite Git repos on Cloudflare workers
 ---
 
 Infinite Git repos on Cloudflare workers

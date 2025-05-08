@@ -11,6 +11,7 @@ tags:
 - gun-violence
 - political-safety
 title: Americans Are Heading for the Exits
+translationKey: Americans Are Heading for the Exits
 ---
 
 Americans Are Heading for the Exits

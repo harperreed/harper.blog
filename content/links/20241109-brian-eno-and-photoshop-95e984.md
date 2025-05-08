@@ -9,6 +9,7 @@ tags:
 - photoshop
 - creative-collaboration
 title: Brian Eno and Photoshop
+translationKey: Brian Eno and Photoshop
 ---
 
 Brian Eno and Photoshop

@@ -10,6 +10,7 @@ tags:
 - minimum-viable-product
 - business-processes
 title: Minimum Viable Startup Operations
+translationKey: Minimum Viable Startup Operations
 ---
 
 Minimum Viable Startup Operations

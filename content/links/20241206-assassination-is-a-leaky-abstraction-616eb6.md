@@ -10,6 +10,7 @@ tags:
 - corporate-greed
 - assassination
 title: Assassination Is a Leaky Abstraction
+translationKey: Assassination Is a Leaky Abstraction
 ---
 
 Assassination Is a Leaky Abstraction

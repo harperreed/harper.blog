@@ -10,6 +10,7 @@ tags:
 - arcade-machines
 - gaming-culture
 title: Oh No, I Bought A Candy Cab
+translationKey: Oh No, I Bought A Candy Cab
 ---
 
 Oh No, I Bought A Candy Cab

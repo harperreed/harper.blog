@@ -11,6 +11,8 @@ tags:
 - donald-trump
 title: ‘Trump Declares a Trade War on Uninhabited Islands, US Military, and Economic
   Logic’
+translationKey: ‘Trump Declares a Trade War on Uninhabited Islands, US Military, and
+  Economic Logic’
 ---
 
 ‘Trump Declares a Trade War on Uninhabited Islands, US Military, and Economic Logic’

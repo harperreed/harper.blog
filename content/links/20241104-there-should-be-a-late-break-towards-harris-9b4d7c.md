@@ -10,6 +10,7 @@ tags:
 - political-candidates
 - election-analysis
 title: There Should Be a Late Break Towards Harris
+translationKey: There Should Be a Late Break Towards Harris
 ---
 
 There Should Be a Late Break Towards Harris

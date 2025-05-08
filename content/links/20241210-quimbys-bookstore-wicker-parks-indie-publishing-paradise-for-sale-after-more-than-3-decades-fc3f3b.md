@@ -11,6 +11,8 @@ tags:
 - bookstore-for-sale
 title: Quimby’s Bookstore, Wicker Park’s Indie Publishing Paradise, For Sale After
   More Than 3 Decades&nbsp;
+translationKey: Quimby’s Bookstore, Wicker Park’s Indie Publishing Paradise, For Sale
+  After More Than 3 Decades&nbsp;
 ---
 
 Quimby’s Bookstore, Wicker Park’s Indie Publishing Paradise, For Sale After More Than 3 Decades&nbsp;

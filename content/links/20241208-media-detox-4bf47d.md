@@ -12,6 +12,7 @@ tags:
 - digital-wellbeing
 - self-improvement
 title: Media Detox
+translationKey: Media Detox
 ---
 
 Media Detox

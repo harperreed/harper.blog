@@ -10,6 +10,7 @@ tags:
 - programming
 - technology
 title: Quoting David Crawshaw
+translationKey: Quoting David Crawshaw
 ---
 
 Quoting David Crawshaw

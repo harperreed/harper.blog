@@ -9,6 +9,8 @@ tags:
 - rio-de-janeiro
 - ballroom-party
 title: 'In pictures: Beauty looks from Rio’s Lady Gaga-inspired ballroom party'
+translationKey: 'In pictures: Beauty looks from Rio’s Lady Gaga-inspired ballroom
+  party'
 ---
 
 In pictures: Beauty looks from Rio’s Lady Gaga-inspired ballroom party

@@ -10,6 +10,7 @@ tags:
 - diff-editor
 - cheatsheet
 title: Cheatsheet for jj's builtin diff editor
+translationKey: Cheatsheet for jj's builtin diff editor
 ---
 
 Cheatsheet for jj's builtin diff editor

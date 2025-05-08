@@ -10,6 +10,7 @@ tags:
 - copenhagen-architecture
 - renewable-energy
 title: Take a Look at Bjarke Ingels’ New Copenhagen Headquarters
+translationKey: Take a Look at Bjarke Ingels’ New Copenhagen Headquarters
 ---
 
 Take a Look at Bjarke Ingels’ New Copenhagen Headquarters

@@ -11,6 +11,7 @@ tags:
 - documentary-series
 - paul-reubens
 title: Pee-wee as Himself, a New Documentary Series About Pee-wee Herman
+translationKey: Pee-wee as Himself, a New Documentary Series About Pee-wee Herman
 ---
 
 Pee-wee as Himself, a New Documentary Series About Pee-wee Herman

@@ -10,6 +10,7 @@ tags:
 - decentralized-platform
 - open-source
 title: Tangled — a git collaboration platform built on atproto
+translationKey: Tangled — a git collaboration platform built on atproto
 ---
 
 Tangled — a git collaboration platform built on atproto

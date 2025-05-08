@@ -12,6 +12,8 @@ tags:
 - communication-safety
 title: Krypt3ia’s Survival Guide for Safe Communications in Today’s Internet and Social
   Media Landscape
+translationKey: Krypt3ia’s Survival Guide for Safe Communications in Today’s Internet
+  and Social Media Landscape
 ---
 
 Krypt3ia’s Survival Guide for Safe Communications in Today’s Internet and Social Media Landscape

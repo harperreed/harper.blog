@@ -9,6 +9,7 @@ tags:
 - older-founders
 - entrepreneurship
 title: Founders over fifty.
+translationKey: Founders over fifty.
 ---
 
 Founders over fifty.

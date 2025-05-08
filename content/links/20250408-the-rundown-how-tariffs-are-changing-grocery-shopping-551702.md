@@ -10,6 +10,7 @@ tags:
 - tariffs
 - consumer-behavior
 title: 'The Rundown: How tariffs are changing grocery shopping'
+translationKey: 'The Rundown: How tariffs are changing grocery shopping'
 ---
 
 The Rundown: How tariffs are changing grocery shopping

@@ -9,6 +9,8 @@ tags:
 - chicago-music
 - landmark-designation
 title: Wax Trax! Records Team Pushes To Landmark Its Former Lincoln Park Storefront
+translationKey: Wax Trax! Records Team Pushes To Landmark Its Former Lincoln Park
+  Storefront
 ---
 
 Wax Trax! Records Team Pushes To Landmark Its Former Lincoln Park Storefront

@@ -9,6 +9,7 @@ tags:
 - environment
 - sustainability
 title: Climate change
+translationKey: Climate change
 ---
 
 Climate change

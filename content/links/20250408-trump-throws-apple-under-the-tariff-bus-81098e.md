@@ -10,6 +10,7 @@ tags:
 - apple
 - tariffs
 title: Trump Throws Apple Under the Tariff Bus
+translationKey: Trump Throws Apple Under the Tariff Bus
 ---
 
 Trump Throws Apple Under the Tariff Bus

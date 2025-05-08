@@ -10,6 +10,7 @@ tags:
 - generative-ai
 - urban-imagery
 title: AI Generates Accurate Images of Streets From Sound Recordings
+translationKey: AI Generates Accurate Images of Streets From Sound Recordings
 ---
 
 AI Generates Accurate Images of Streets From Sound Recordings

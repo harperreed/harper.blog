@@ -11,6 +11,8 @@ tags:
 - trump-administration
 title: Chicago&nbsp;Restaurants Brace For Trump Immigration Raids as Misinformation
   Flourishes
+translationKey: Chicago&nbsp;Restaurants Brace For Trump Immigration Raids as Misinformation
+  Flourishes
 ---
 
 Chicago&nbsp;Restaurants Brace For Trump Immigration Raids as Misinformation Flourishes

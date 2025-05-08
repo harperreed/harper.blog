@@ -11,6 +11,7 @@ tags:
 - bots
 - bot-creation
 title: a site for making bots for the fediverse
+translationKey: a site for making bots for the fediverse
 ---
 
 a site for making bots for the fediverse

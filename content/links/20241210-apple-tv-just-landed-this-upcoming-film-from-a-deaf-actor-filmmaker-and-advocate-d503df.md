@@ -10,6 +10,8 @@ tags:
 - documentary-film
 title: Apple TV+ just landed this upcoming film from a Deaf actor, filmmaker, and
   advocate
+translationKey: Apple TV+ just landed this upcoming film from a Deaf actor, filmmaker,
+  and advocate
 ---
 
 Apple TV+ just landed this upcoming film from a Deaf actor, filmmaker, and advocate

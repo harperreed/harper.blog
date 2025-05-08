@@ -9,6 +9,7 @@ tags:
 - gun-violence
 - short-stories
 title: 'Pluralistic: Predicting the present (09 Dec 2024)'
+translationKey: 'Pluralistic: Predicting the present (09 Dec 2024)'
 ---
 
 Pluralistic: Predicting the present (09 Dec 2024)

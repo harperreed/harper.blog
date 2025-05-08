@@ -10,6 +10,8 @@ tags:
 - techno-orientalism
 - asian-identity
 title: “My friends are cyborgs, but that’s okay” by Photographer Ramona Jingru Wang
+translationKey: “My friends are cyborgs, but that’s okay” by Photographer Ramona Jingru
+  Wang
 ---
 
 “My friends are cyborgs, but that’s okay” by Photographer Ramona Jingru Wang

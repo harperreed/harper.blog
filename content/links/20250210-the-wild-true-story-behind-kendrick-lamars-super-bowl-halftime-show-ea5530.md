@@ -9,6 +9,7 @@ tags:
 - super-bowl-halftime-show
 - art-direction
 title: The Wild True Story Behind Kendrick Lamar’s Super Bowl Halftime Show
+translationKey: The Wild True Story Behind Kendrick Lamar’s Super Bowl Halftime Show
 ---
 
 The Wild True Story Behind Kendrick Lamar’s Super Bowl Halftime Show

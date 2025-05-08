@@ -10,6 +10,8 @@ tags:
 - mac-apps
 - indie-developer
 title: 'Indie App Spotlight: ‘Type’ is the easiest way to take notes on your Mac'
+translationKey: 'Indie App Spotlight: ‘Type’ is the easiest way to take notes on your
+  Mac'
 ---
 
 Indie App Spotlight: ‘Type’ is the easiest way to take notes on your Mac

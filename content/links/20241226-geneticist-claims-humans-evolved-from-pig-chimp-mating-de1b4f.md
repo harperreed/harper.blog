@@ -11,6 +11,7 @@ tags:
 - human-evolution
 - hybridization
 title: Geneticist claims humans evolved from pig-chimp mating
+translationKey: Geneticist claims humans evolved from pig-chimp mating
 ---
 
 Geneticist claims humans evolved from pig-chimp mating

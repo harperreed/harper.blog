@@ -10,6 +10,8 @@ tags:
 - cloud-brightening
 - health-safety
 title: City Officials Halt Experiment to Hack Earth's Climate, Citing Health Concerns
+translationKey: City Officials Halt Experiment to Hack Earth's Climate, Citing Health
+  Concerns
 ---
 
 City Officials Halt Experiment to Hack Earth's Climate, Citing Health Concerns

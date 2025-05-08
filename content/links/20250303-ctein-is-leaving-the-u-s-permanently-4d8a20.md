@@ -10,6 +10,7 @@ tags:
 - migration
 - Ctein
 title: Ctein Is Leaving the U.S. Permanently
+translationKey: Ctein Is Leaving the U.S. Permanently
 ---
 
 Ctein Is Leaving the U.S. Permanently

@@ -12,6 +12,8 @@ tags:
 - underwater-photography
 - azores-marine-life
 title: Stunning Underwater Portraits of Rare and Endangered Marine Life in the Azores
+translationKey: Stunning Underwater Portraits of Rare and Endangered Marine Life in
+  the Azores
 ---
 
 Stunning Underwater Portraits of Rare and Endangered Marine Life in the Azores

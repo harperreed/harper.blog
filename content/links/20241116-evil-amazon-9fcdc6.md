@@ -9,6 +9,7 @@ tags:
 - logistics
 - e-commerce
 title: “Evil Amazon”
+translationKey: “Evil Amazon”
 ---
 
 “Evil Amazon”

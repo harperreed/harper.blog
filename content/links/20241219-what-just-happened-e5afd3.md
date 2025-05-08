@@ -9,6 +9,7 @@ tags:
 - gpt-4
 - ai-developments
 title: What just happened
+translationKey: What just happened
 ---
 
 What just happened

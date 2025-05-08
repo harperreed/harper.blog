@@ -9,6 +9,8 @@ tags:
 - instant-messaging
 - tech-competition
 title: 'A decade and a half of instability: The history of Google messaging apps (2021)'
+translationKey: 'A decade and a half of instability: The history of Google messaging
+  apps (2021)'
 ---
 
 A decade and a half of instability: The history of Google messaging apps (2021)

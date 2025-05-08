@@ -11,6 +11,8 @@ tags:
 - lumia-1020
 title: Seasoned Hackintosh Redditor retrofits fully functional iPhone SE 3 hardware
   &amp; software into a Lumia 1020
+translationKey: Seasoned Hackintosh Redditor retrofits fully functional iPhone SE
+  3 hardware &amp; software into a Lumia 1020
 ---
 
 Seasoned Hackintosh Redditor retrofits fully functional iPhone SE 3 hardware &amp; software into a Lumia 1020

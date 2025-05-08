@@ -9,6 +9,7 @@ tags:
 - political-music
 - civil-rights
 title: 'Essay: Nina Said'
+translationKey: 'Essay: Nina Said'
 ---
 
 Essay: Nina Said

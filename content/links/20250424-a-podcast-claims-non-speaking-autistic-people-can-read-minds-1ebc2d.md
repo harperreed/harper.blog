@@ -10,6 +10,7 @@ tags:
 - mind-reading
 - spelling-communication
 title: A podcast claims non-speaking autistic people can read minds
+translationKey: A podcast claims non-speaking autistic people can read minds
 ---
 
 A podcast claims non-speaking autistic people can read minds

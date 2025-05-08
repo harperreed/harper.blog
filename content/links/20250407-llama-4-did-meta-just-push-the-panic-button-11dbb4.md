@@ -9,6 +9,7 @@ tags:
 - llama-4
 - ai-models
 title: 'Llama 4: Did Meta just push the panic button?'
+translationKey: 'Llama 4: Did Meta just push the panic button?'
 ---
 
 Llama 4: Did Meta just push the panic button?

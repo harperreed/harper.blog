@@ -9,6 +9,7 @@ tags:
 - password-replacement
 - web-authentication
 title: Will passkeys ever replace passwords? Can they? Here's why they should
+translationKey: Will passkeys ever replace passwords? Can they? Here's why they should
 ---
 
 Will passkeys ever replace passwords? Can they? Here's why they should

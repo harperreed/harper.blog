@@ -10,6 +10,7 @@ tags:
 - animal-health
 - disease-outbreaks
 title: Alarm as bird flu now 'endemic in cows'
+translationKey: Alarm as bird flu now 'endemic in cows'
 ---
 
 Alarm as bird flu now 'endemic in cows'

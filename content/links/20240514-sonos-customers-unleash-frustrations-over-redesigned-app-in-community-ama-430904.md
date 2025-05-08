@@ -9,6 +9,8 @@ tags:
 - customer-feedback
 - software-redesign
 title: Sonos customers unleash frustrations over redesigned app in community AMA
+translationKey: Sonos customers unleash frustrations over redesigned app in community
+  AMA
 ---
 
 Sonos customers unleash frustrations over redesigned app in community AMA

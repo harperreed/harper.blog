@@ -11,6 +11,8 @@ tags:
 - fintech
 title: CEO Says He Hasn’t Hired Anyone in a Year as He Replaces Human Workers With
   AI
+translationKey: CEO Says He Hasn’t Hired Anyone in a Year as He Replaces Human Workers
+  With AI
 ---
 
 CEO Says He Hasn’t Hired Anyone in a Year as He Replaces Human Workers With AI

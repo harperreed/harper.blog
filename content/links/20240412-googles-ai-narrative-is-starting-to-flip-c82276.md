@@ -9,6 +9,7 @@ tags:
 - tech-industry
 - cloud-keynote
 title: Google’s AI Narrative is Starting to Flip
+translationKey: Google’s AI Narrative is Starting to Flip
 ---
 
 Google’s AI Narrative is Starting to Flip

@@ -9,6 +9,7 @@ tags:
 - black-friday
 - internet-commerce
 title: Happy Affiliate Marketing Day to All Who Celebrate
+translationKey: Happy Affiliate Marketing Day to All Who Celebrate
 ---
 
 Happy Affiliate Marketing Day to All Who Celebrate

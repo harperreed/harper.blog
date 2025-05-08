@@ -9,6 +9,7 @@ tags:
 - plant-based-cooking
 - gourmet-snacks
 title: The 20 best things we ate around Chicago in 2024
+translationKey: The 20 best things we ate around Chicago in 2024
 ---
 
 The 20 best things we ate around Chicago in 2024

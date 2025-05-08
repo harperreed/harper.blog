@@ -10,6 +10,8 @@ tags:
 - goodreads
 - independent-authors
 title: '''Reading is part of my identity'': the woman taking on Goodreads owner Amazon'
+translationKey: '''Reading is part of my identity'': the woman taking on Goodreads
+  owner Amazon'
 ---
 
 'Reading is part of my identity': the woman taking on Goodreads owner Amazon

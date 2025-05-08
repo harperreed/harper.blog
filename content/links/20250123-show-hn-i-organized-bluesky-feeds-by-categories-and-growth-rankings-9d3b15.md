@@ -9,6 +9,7 @@ tags:
 - social-media
 - curated-feeds
 title: 'Show HN: I Organized Bluesky Feeds by Categories and Growth Rankings'
+translationKey: 'Show HN: I Organized Bluesky Feeds by Categories and Growth Rankings'
 ---
 
 Show HN: I Organized Bluesky Feeds by Categories and Growth Rankings

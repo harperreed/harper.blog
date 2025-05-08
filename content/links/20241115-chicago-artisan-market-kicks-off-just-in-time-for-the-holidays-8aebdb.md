@@ -10,6 +10,7 @@ tags:
 - holiday-gifts
 - support-small-businesses
 title: Chicago Artisan Market Kicks Off Just In Time For The Holidays
+translationKey: Chicago Artisan Market Kicks Off Just In Time For The Holidays
 ---
 
 Chicago Artisan Market Kicks Off Just In Time For The Holidays

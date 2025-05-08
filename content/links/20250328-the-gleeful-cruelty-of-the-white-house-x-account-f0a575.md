@@ -10,6 +10,7 @@ tags:
 - immigration-policy
 - social-media-ethics
 title: The Gleeful Cruelty of the White House X Account
+translationKey: The Gleeful Cruelty of the White House X Account
 ---
 
 The Gleeful Cruelty of the White House X Account

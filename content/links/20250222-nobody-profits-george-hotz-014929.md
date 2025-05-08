@@ -10,6 +10,7 @@ tags:
 - capitalism
 - ai
 title: Nobody Profits – George Hotz
+translationKey: Nobody Profits – George Hotz
 ---
 
 Nobody Profits – George Hotz

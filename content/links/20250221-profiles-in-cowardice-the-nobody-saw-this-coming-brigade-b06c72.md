@@ -10,6 +10,7 @@ tags:
 - ukraine-russia-conflict
 - republican-senators
 title: 'Profiles In Cowardice: The Nobody Saw This Coming Brigade'
+translationKey: 'Profiles In Cowardice: The Nobody Saw This Coming Brigade'
 ---
 
 Profiles In Cowardice: The Nobody Saw This Coming Brigade

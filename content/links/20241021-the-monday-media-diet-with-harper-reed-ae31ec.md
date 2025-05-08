@@ -9,6 +9,7 @@ tags:
 - media-diet
 - applied-technology
 title: The Monday Media Diet with Harper Reed
+translationKey: The Monday Media Diet with Harper Reed
 ---
 
 The Monday Media Diet with Harper Reed

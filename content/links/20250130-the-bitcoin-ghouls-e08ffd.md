@@ -9,6 +9,7 @@ tags:
 - human-rights
 - crypto-criticism
 title: The Bitcoin ghouls
+translationKey: The Bitcoin ghouls
 ---
 
 The Bitcoin ghouls

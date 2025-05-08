@@ -10,6 +10,7 @@ tags:
 - chemo-therapy
 - patient-safety
 title: “Eat What You Kill”
+translationKey: “Eat What You Kill”
 ---
 
 “Eat What You Kill”

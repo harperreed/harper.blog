@@ -10,6 +10,7 @@ tags:
 - microblogging
 - identity-ownership
 title: Tantek Çelik
+translationKey: Tantek Çelik
 ---
 
 Tantek Çelik

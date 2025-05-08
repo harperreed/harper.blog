@@ -11,6 +11,7 @@ tags:
 - mid-flight-incident
 - director-leave
 title: Art Institute of Chicago Director on Leave Over Mid-Flight Incident
+translationKey: Art Institute of Chicago Director on Leave Over Mid-Flight Incident
 ---
 
 Art Institute of Chicago Director on Leave Over Mid-Flight Incident

@@ -11,6 +11,7 @@ tags:
 - diabetes-prevention
 - weight-loss-drugs
 title: Mounjaro Appears to Be Extremely Effective at Preventing Diabetes
+translationKey: Mounjaro Appears to Be Extremely Effective at Preventing Diabetes
 ---
 
 Mounjaro Appears to Be Extremely Effective at Preventing Diabetes

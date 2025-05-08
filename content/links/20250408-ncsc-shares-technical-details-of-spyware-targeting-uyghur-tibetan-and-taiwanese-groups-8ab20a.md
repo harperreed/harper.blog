@@ -12,6 +12,8 @@ tags:
 - human-rights
 title: NCSC shares technical details of spyware targeting Uyghur, Tibetan and Taiwanese
   groups
+translationKey: NCSC shares technical details of spyware targeting Uyghur, Tibetan
+  and Taiwanese groups
 ---
 
 NCSC shares technical details of spyware targeting Uyghur, Tibetan and Taiwanese groups

@@ -10,6 +10,7 @@ tags:
 - private-schools
 - social-media-subversion
 title: Private School Labeler on Bluesky
+translationKey: Private School Labeler on Bluesky
 ---
 
 Private School Labeler on Bluesky

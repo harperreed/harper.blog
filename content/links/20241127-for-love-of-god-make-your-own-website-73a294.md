@@ -9,6 +9,7 @@ tags:
 - personal-website
 - nostalgia
 title: For Love of God, Make Your Own Website
+translationKey: For Love of God, Make Your Own Website
 ---
 
 For Love of God, Make Your Own Website

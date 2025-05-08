@@ -9,6 +9,7 @@ tags:
 - public-art
 - lgbtq-history
 title: 'NSFW: Keith Haring'
+translationKey: 'NSFW: Keith Haring'
 ---
 
 NSFW: Keith Haring

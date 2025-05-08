@@ -10,6 +10,7 @@ tags:
 - cringe-culture
 - social-justice
 title: The Cringeocracy
+translationKey: The Cringeocracy
 ---
 
 The Cringeocracy

@@ -11,6 +11,7 @@ tags:
 - pop-culture
 - billionaire-candidates
 title: American Kakistocracy
+translationKey: American Kakistocracy
 ---
 
 American Kakistocracy

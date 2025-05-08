@@ -11,6 +11,8 @@ tags:
 - trump-administration
 title: Hi Kids, Do You Like (Police) Violence? Trump’s DOJ Shuts Down Civil Rights
   Division
+translationKey: Hi Kids, Do You Like (Police) Violence? Trump’s DOJ Shuts Down Civil
+  Rights Division
 ---
 
 Hi Kids, Do You Like (Police) Violence? Trump’s DOJ Shuts Down Civil Rights Division

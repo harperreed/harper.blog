@@ -10,6 +10,7 @@ tags:
 - novel-writing
 - notebook-collection
 title: Writing is hard!!!
+translationKey: Writing is hard!!!
 ---
 
 Writing is hard!!!

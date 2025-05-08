@@ -10,6 +10,7 @@ tags:
 - music-review
 - 2024-album-release
 title: It’s Kendrick’s Party, You Can Cry If You Want To
+translationKey: It’s Kendrick’s Party, You Can Cry If You Want To
 ---
 
 It’s Kendrick’s Party, You Can Cry If You Want To

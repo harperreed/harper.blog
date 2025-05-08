@@ -9,6 +9,7 @@ tags:
 - ai-supercomputer
 - ces-2023
 title: Here’s how small Nvidia’s $3,000 Digits supercomputer looks in person
+translationKey: Here’s how small Nvidia’s $3,000 Digits supercomputer looks in person
 ---
 
 Here’s how small Nvidia’s $3,000 Digits supercomputer looks in person

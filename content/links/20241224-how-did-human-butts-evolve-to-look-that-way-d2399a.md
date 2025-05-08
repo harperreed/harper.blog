@@ -10,6 +10,7 @@ tags:
 - butt-science
 - anthropology
 title: How did human butts evolve to look that way?
+translationKey: How did human butts evolve to look that way?
 ---
 
 How did human butts evolve to look that way?

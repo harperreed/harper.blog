@@ -9,6 +9,7 @@ tags:
 - restaurant-closure
 - local-business
 title: Taqueria Chingón, One of Chicago’s Top Taco Spots, Is Closing
+translationKey: Taqueria Chingón, One of Chicago’s Top Taco Spots, Is Closing
 ---
 
 Taqueria Chingón, One of Chicago’s Top Taco Spots, Is Closing

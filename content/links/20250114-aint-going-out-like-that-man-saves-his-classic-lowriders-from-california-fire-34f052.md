@@ -12,6 +12,8 @@ tags:
 - car-culture
 title: '‘Ain’t Going Out Like That’: Man Saves His Classic Lowriders From California
   Fire'
+translationKey: '‘Ain’t Going Out Like That’: Man Saves His Classic Lowriders From
+  California Fire'
 ---
 
 ‘Ain’t Going Out Like That’: Man Saves His Classic Lowriders From California Fire

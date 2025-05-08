@@ -9,6 +9,7 @@ tags:
 - government-security
 - messaging-apps
 title: The Signal Clone the Trump Admin Uses Was Hacked
+translationKey: The Signal Clone the Trump Admin Uses Was Hacked
 ---
 
 The Signal Clone the Trump Admin Uses Was Hacked

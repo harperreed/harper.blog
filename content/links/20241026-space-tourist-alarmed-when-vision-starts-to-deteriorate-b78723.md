@@ -10,6 +10,7 @@ tags:
 - human-body
 - vision-deterioration
 title: Space Tourist Alarmed When Vision Starts to Deteriorate
+translationKey: Space Tourist Alarmed When Vision Starts to Deteriorate
 ---
 
 Space Tourist Alarmed When Vision Starts to Deteriorate

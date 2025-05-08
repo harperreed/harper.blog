@@ -9,6 +9,7 @@ tags:
 - viktor-kolar
 - photography
 title: Ostrava, Viktor Kolár
+translationKey: Ostrava, Viktor Kolár
 ---
 
 Ostrava, Viktor Kolár

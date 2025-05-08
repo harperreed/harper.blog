@@ -10,6 +10,7 @@ tags:
 - social-media-mockery
 - internet-culture
 title: 'Make Nazis Sweat Again:'
+translationKey: 'Make Nazis Sweat Again:'
 ---
 
 Make Nazis Sweat Again:

@@ -9,6 +9,7 @@ tags:
 - personal-growth
 - celebration-of-freedom
 title: Leaving my full-time job
+translationKey: Leaving my full-time job
 ---
 
 Leaving my full-time job

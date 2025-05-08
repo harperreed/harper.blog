@@ -10,6 +10,7 @@ tags:
 - tetris
 - world-records
 title: '''Bizarro World'''
+translationKey: '''Bizarro World'''
 ---
 
 'Bizarro World'

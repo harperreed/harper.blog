@@ -11,6 +11,7 @@ tags:
 - parenting-decisions
 - environmental-anxiety
 title: Climate scientists thinking twice about getting pregnant
+translationKey: Climate scientists thinking twice about getting pregnant
 ---
 
 Climate scientists thinking twice about getting pregnant

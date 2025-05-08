@@ -10,6 +10,8 @@ tags:
 - environmental-stewardship
 title: Scientists Say If We're Extremely Lucky, This Asteroid May Put Us Out of Our
   Misery
+translationKey: Scientists Say If We're Extremely Lucky, This Asteroid May Put Us
+  Out of Our Misery
 ---
 
 Scientists Say If We're Extremely Lucky, This Asteroid May Put Us Out of Our Misery

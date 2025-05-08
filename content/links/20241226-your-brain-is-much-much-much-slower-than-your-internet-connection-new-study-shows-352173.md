@@ -11,6 +11,8 @@ tags:
 - human-brain
 title: Your brain is much, much, MUCH slower than your Internet connection, new study
   shows
+translationKey: Your brain is much, much, MUCH slower than your Internet connection,
+  new study shows
 ---
 
 Your brain is much, much, MUCH slower than your Internet connection, new study shows

@@ -9,6 +9,7 @@ tags:
 - vpn-challenges
 - smart-heating
 title: Home Assistant can not be secured for internet access
+translationKey: Home Assistant can not be secured for internet access
 ---
 
 Home Assistant can not be secured for internet access

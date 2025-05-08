@@ -9,6 +9,7 @@ tags:
 - human-connection
 - artificial-intelligence
 title: Please Don't Use ChatGPT to Buy My Gift This Year
+translationKey: Please Don't Use ChatGPT to Buy My Gift This Year
 ---
 
 Please Don't Use ChatGPT to Buy My Gift This Year

@@ -10,6 +10,7 @@ tags:
 - resume-automation
 - developer-tools
 title: 'Show HN: My AI Native Resume'
+translationKey: 'Show HN: My AI Native Resume'
 ---
 
 Show HN: My AI Native Resume

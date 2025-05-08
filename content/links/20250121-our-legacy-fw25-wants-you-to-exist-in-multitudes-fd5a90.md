@@ -9,6 +9,7 @@ tags:
 - milan-fashion-week
 - style-manifesto
 title: Our Legacy FW25 Wants You to Exist in Multitudes
+translationKey: Our Legacy FW25 Wants You to Exist in Multitudes
 ---
 
 Our Legacy FW25 Wants You to Exist in Multitudes

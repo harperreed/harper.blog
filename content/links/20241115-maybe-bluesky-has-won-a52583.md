@@ -9,6 +9,7 @@ tags:
 - social-networks
 - decentralization
 title: Maybe Bluesky has “won”
+translationKey: Maybe Bluesky has “won”
 ---
 
 Maybe Bluesky has “won”

@@ -12,6 +12,8 @@ tags:
 - immigration-law
 title: Court Says There’s Nothing Unconstitutional About Warrantless Seizures, Searches
   Of An Immigration Lawyer’s Phone
+translationKey: Court Says There’s Nothing Unconstitutional About Warrantless Seizures,
+  Searches Of An Immigration Lawyer’s Phone
 ---
 
 Court Says There’s Nothing Unconstitutional About Warrantless Seizures, Searches Of An Immigration Lawyer’s Phone

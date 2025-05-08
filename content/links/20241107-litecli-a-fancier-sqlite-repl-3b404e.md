@@ -11,6 +11,7 @@ tags:
 - sqlite
 - command-line-tools
 title: 'litecli: a fancier SQLite REPL'
+translationKey: 'litecli: a fancier SQLite REPL'
 ---
 
 litecli: a fancier SQLite REPL

@@ -10,6 +10,7 @@ tags:
 - taiwan-strait
 - military-tensions
 title: China and the U.S. Are Numb to the Real Risk of War
+translationKey: China and the U.S. Are Numb to the Real Risk of War
 ---
 
 China and the U.S. Are Numb to the Real Risk of War

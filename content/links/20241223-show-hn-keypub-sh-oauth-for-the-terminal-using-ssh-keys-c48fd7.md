@@ -9,6 +9,7 @@ tags:
 - ssh-keys
 - terminal-tools
 title: 'Show HN: Keypub.sh – OAuth for the terminal using SSH keys'
+translationKey: 'Show HN: Keypub.sh – OAuth for the terminal using SSH keys'
 ---
 
 Show HN: Keypub.sh – OAuth for the terminal using SSH keys

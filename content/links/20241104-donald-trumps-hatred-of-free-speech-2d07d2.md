@@ -11,6 +11,7 @@ tags:
 - censorship
 - protests
 title: Donald Trump’s Hatred of Free Speech
+translationKey: Donald Trump’s Hatred of Free Speech
 ---
 
 Donald Trump’s Hatred of Free Speech

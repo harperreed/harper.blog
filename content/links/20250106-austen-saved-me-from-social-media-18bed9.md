@@ -10,6 +10,7 @@ tags:
 - social-media
 - reading-challenges
 title: Austen saved me from social media
+translationKey: Austen saved me from social media
 ---
 
 Austen saved me from social media

@@ -10,6 +10,7 @@ tags:
 - newsletters
 - morning-routine
 title: Reading newsletters via an RSS reader is still great ↦
+translationKey: Reading newsletters via an RSS reader is still great ↦
 ---
 
 Reading newsletters via an RSS reader is still great ↦

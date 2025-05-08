@@ -9,6 +9,7 @@ tags:
 - rust
 - command-line-tools
 title: Fish shell announces 4.0 release
+translationKey: Fish shell announces 4.0 release
 ---
 
 Fish shell announces 4.0 release

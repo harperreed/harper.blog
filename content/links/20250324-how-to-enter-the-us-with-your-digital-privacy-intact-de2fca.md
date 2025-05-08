@@ -10,6 +10,7 @@ tags:
 - border-control
 - cybersecurity
 title: How to Enter the US With Your Digital Privacy Intact
+translationKey: How to Enter the US With Your Digital Privacy Intact
 ---
 
 How to Enter the US With Your Digital Privacy Intact

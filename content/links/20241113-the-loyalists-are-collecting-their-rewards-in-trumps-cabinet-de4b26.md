@@ -10,6 +10,7 @@ tags:
 - political-appointments
 - national-security
 title: The Loyalists Are Collecting Their Rewards in Trump’s Cabinet
+translationKey: The Loyalists Are Collecting Their Rewards in Trump’s Cabinet
 ---
 
 The Loyalists Are Collecting Their Rewards in Trump’s Cabinet

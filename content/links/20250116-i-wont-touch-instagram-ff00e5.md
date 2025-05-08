@@ -10,6 +10,7 @@ tags:
 - social-media
 - internet-regulation
 title: ‘I Won’t Touch Instagram’
+translationKey: ‘I Won’t Touch Instagram’
 ---
 
 ‘I Won’t Touch Instagram’

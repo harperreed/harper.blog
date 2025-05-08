@@ -10,6 +10,8 @@ tags:
 - political-landscape
 title: Congrats to Silicon Valley's Trump Supporters. Here's to Hoping He Is Who You
   Think He Is.
+translationKey: Congrats to Silicon Valley's Trump Supporters. Here's to Hoping He
+  Is Who You Think He Is.
 ---
 
 Congrats to Silicon Valley's Trump Supporters. Here's to Hoping He Is Who You Think He Is.

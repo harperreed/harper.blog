@@ -10,6 +10,7 @@ tags:
 - donald-trump
 - deportation
 title: Trump vs immigrants
+translationKey: Trump vs immigrants
 ---
 
 Trump vs immigrants

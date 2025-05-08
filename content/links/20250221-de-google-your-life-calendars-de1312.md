@@ -10,6 +10,7 @@ tags:
 - calendar-privacy
 - tech-independence
 title: 'De-Google Your Life: Calendars'
+translationKey: 'De-Google Your Life: Calendars'
 ---
 
 De-Google Your Life: Calendars

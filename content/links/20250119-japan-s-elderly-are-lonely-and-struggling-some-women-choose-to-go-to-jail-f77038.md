@@ -10,6 +10,8 @@ tags:
 - loneliness-in-elderly
 - japan-prisons
 title: Japan's elderly are lonely and struggling. Some women choose to go to jail
+translationKey: Japan's elderly are lonely and struggling. Some women choose to go
+  to jail
 ---
 
 Japan's elderly are lonely and struggling. Some women choose to go to jail

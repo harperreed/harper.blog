@@ -9,6 +9,7 @@ tags:
 - bluesky
 - atproto
 title: follow_theirs.py
+translationKey: follow_theirs.py
 ---
 
 follow_theirs.py

@@ -10,6 +10,7 @@ tags:
 - internet-of-things
 - tech-anniversary
 title: MQTT turns 25 (and has taken over the world)
+translationKey: MQTT turns 25 (and has taken over the world)
 ---
 
 MQTT turns 25 (and has taken over the world)

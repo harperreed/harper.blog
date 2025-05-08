@@ -10,6 +10,8 @@ tags:
 - data-privacy
 - invisible-analytics
 title: 'The Future of Analytics Is Invisible: Why You Should Stop Using Google Analytics'
+translationKey: 'The Future of Analytics Is Invisible: Why You Should Stop Using Google
+  Analytics'
 ---
 
 The Future of Analytics Is Invisible: Why You Should Stop Using Google Analytics

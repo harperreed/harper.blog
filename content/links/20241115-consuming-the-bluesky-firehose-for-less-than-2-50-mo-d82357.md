@@ -10,6 +10,7 @@ tags:
 - data-visualization
 - real-time-data
 title: Consuming the Bluesky firehose for less than $2.50/mo
+translationKey: Consuming the Bluesky firehose for less than $2.50/mo
 ---
 
 Consuming the Bluesky firehose for less than $2.50/mo

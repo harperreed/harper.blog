@@ -10,6 +10,7 @@ tags:
 - south-korea
 - international-relations
 title: North Korea Blows Up Roads Leading to South Korea
+translationKey: North Korea Blows Up Roads Leading to South Korea
 ---
 
 North Korea Blows Up Roads Leading to South Korea

@@ -9,6 +9,7 @@ tags:
 - music-legacy
 - hollywood-icon
 title: 'Quincy Jones dies: Music titan was 91'
+translationKey: 'Quincy Jones dies: Music titan was 91'
 ---
 
 Quincy Jones dies: Music titan was 91

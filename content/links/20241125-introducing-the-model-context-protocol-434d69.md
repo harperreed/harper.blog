@@ -11,6 +11,7 @@ tags:
 - llm-interaction
 - anthropic-initiative
 title: Introducing the Model Context Protocol
+translationKey: Introducing the Model Context Protocol
 ---
 
 Introducing the Model Context Protocol

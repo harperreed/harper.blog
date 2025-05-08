@@ -10,6 +10,7 @@ tags:
 - doge-electoral-process
 - historical-politics
 title: The complicated business of electing a Doge
+translationKey: The complicated business of electing a Doge
 ---
 
 The complicated business of electing a Doge

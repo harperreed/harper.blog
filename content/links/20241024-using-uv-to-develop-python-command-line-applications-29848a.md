@@ -9,6 +9,7 @@ tags:
 - command-line-utilities
 - development-environment
 title: Using uv to develop Python command-line applications
+translationKey: Using uv to develop Python command-line applications
 ---
 
 Using uv to develop Python command-line applications

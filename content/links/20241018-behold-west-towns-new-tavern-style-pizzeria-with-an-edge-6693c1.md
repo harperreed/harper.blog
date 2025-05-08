@@ -10,6 +10,7 @@ tags:
 - tavern-style
 - chicago-restaurants
 title: Behold West Town’s New Tavern-Style Pizzeria With an Edge
+translationKey: Behold West Town’s New Tavern-Style Pizzeria With an Edge
 ---
 
 Behold West Town’s New Tavern-Style Pizzeria With an Edge

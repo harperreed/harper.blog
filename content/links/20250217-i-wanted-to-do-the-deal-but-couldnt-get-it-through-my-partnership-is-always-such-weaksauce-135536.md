@@ -11,6 +11,8 @@ tags:
 - decision-making
 title: “I wanted to do the deal but couldn’t get it through my partnership” is always
   such weaksauce
+translationKey: “I wanted to do the deal but couldn’t get it through my partnership”
+  is always such weaksauce
 ---
 
 “I wanted to do the deal but couldn’t get it through my partnership” is always such weaksauce

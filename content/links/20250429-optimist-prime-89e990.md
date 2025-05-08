@@ -9,6 +9,7 @@ tags:
 - cultural-criticism
 - political-theory
 title: Optimist Prime
+translationKey: Optimist Prime
 ---
 
 Optimist Prime

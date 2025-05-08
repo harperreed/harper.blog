@@ -9,6 +9,7 @@ tags:
 - smart-devices
 - reverse-engineering
 title: Tearing Down Nintendo’s Alarmo Alarm Clock
+translationKey: Tearing Down Nintendo’s Alarmo Alarm Clock
 ---
 
 Tearing Down Nintendo’s Alarmo Alarm Clock

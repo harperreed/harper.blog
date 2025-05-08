@@ -9,6 +9,8 @@ tags:
 - elon-musk
 - house-democrats
 title: 'Kinzinger to House Dems: ''Get out there and do something'' about Musk'
+translationKey: 'Kinzinger to House Dems: ''Get out there and do something'' about
+  Musk'
 ---
 
 Kinzinger to House Dems: 'Get out there and do something' about Musk

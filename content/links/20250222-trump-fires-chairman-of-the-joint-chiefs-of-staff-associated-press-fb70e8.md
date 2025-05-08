@@ -11,6 +11,7 @@ tags:
 - military-leadership
 - diversity-equity
 title: Trump fires chairman of the Joint Chiefs of Staff (Associated Press)
+translationKey: Trump fires chairman of the Joint Chiefs of Staff (Associated Press)
 ---
 
 Trump fires chairman of the Joint Chiefs of Staff (Associated Press)

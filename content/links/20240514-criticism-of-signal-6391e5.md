@@ -9,6 +9,7 @@ tags:
 - encryption
 - privacy
 title: Criticism of Signal
+translationKey: Criticism of Signal
 ---
 
 Criticism of Signal
