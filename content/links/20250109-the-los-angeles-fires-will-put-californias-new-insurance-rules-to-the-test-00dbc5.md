@@ -10,6 +10,8 @@ tags:
 - insurance-reform
 - wildfire-prevention
 title: The Los Angeles Fires Will Put California’s New Insurance Rules to the Test
+translationKey: The Los Angeles Fires Will Put California’s New Insurance Rules to
+  the Test
 ---
 
 The Los Angeles Fires Will Put California’s New Insurance Rules to the Test

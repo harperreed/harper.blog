@@ -10,6 +10,7 @@ tags:
 - gen-z-trends
 - nostalgia
 title: Old compact cameras the hot item for Gen Zers
+translationKey: Old compact cameras the hot item for Gen Zers
 ---
 
 Old compact cameras the hot item for Gen Zers

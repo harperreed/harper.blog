@@ -9,6 +9,7 @@ tags:
 - terminal-emulator
 - software-development
 title: 'Ghostty: Reflecting on Reaching 1.0'
+translationKey: 'Ghostty: Reflecting on Reaching 1.0'
 ---
 
 Ghostty: Reflecting on Reaching 1.0

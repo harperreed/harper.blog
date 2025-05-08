@@ -11,6 +11,7 @@ tags:
 - microchip-technology
 - deep-learning
 title: AI Designed an Alien Chip That Works, But Experts Can't Explain Why
+translationKey: AI Designed an Alien Chip That Works, But Experts Can't Explain Why
 ---
 
 AI Designed an Alien Chip That Works, But Experts Can't Explain Why

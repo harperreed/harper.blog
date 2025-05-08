@@ -10,6 +10,7 @@ tags:
 - interface-design
 - ux-research
 title: The UX of Lego Interface Panels (2020)
+translationKey: The UX of Lego Interface Panels (2020)
 ---
 
 The UX of Lego Interface Panels (2020)

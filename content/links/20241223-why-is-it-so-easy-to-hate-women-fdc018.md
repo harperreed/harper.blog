@@ -11,6 +11,7 @@ tags:
 - women-in-media
 - celebrity-culture
 title: Why is it so easy to hate women?
+translationKey: Why is it so easy to hate women?
 ---
 
 Why is it so easy to hate women?

@@ -11,6 +11,7 @@ tags:
 - technology-conference
 - artificial-intelligence
 title: The phony comforts of AI skepticism
+translationKey: The phony comforts of AI skepticism
 ---
 
 The phony comforts of AI skepticism

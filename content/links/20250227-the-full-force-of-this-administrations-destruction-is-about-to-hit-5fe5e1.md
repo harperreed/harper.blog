@@ -9,6 +9,7 @@ tags:
 - journalism
 - social-security
 title: The full force of this administration’s destruction is about to hit
+translationKey: The full force of this administration’s destruction is about to hit
 ---
 
 The full force of this administration’s destruction is about to hit

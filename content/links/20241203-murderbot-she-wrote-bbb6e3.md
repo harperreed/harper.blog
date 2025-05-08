@@ -10,6 +10,7 @@ tags:
 - martha-wells
 - science-fiction
 title: Murderbot, She Wrote
+translationKey: Murderbot, She Wrote
 ---
 
 Murderbot, She Wrote

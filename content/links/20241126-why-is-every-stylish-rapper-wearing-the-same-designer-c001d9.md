@@ -10,6 +10,7 @@ tags:
 - indie-designers
 - celebrity-style
 title: Why Is Every Stylish Rapper Wearing the Same Designer?
+translationKey: Why Is Every Stylish Rapper Wearing the Same Designer?
 ---
 
 Why Is Every Stylish Rapper Wearing the Same Designer?

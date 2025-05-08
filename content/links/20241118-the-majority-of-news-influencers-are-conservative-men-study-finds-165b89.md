@@ -11,6 +11,7 @@ tags:
 - gender-disparity
 - political-bias
 title: The majority of news influencers are conservative men, study finds
+translationKey: The majority of news influencers are conservative men, study finds
 ---
 
 The majority of news influencers are conservative men, study finds

@@ -10,6 +10,7 @@ tags:
 - technology
 - writing
 title: The Monday Media Diet with Jasmine Sun
+translationKey: The Monday Media Diet with Jasmine Sun
 ---
 
 The Monday Media Diet with Jasmine Sun

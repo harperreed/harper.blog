@@ -11,6 +11,7 @@ tags:
 - gift-giving
 - transparency-issues
 title: 'The Rundown: Hundreds of valuable gifts given to the mayor'
+translationKey: 'The Rundown: Hundreds of valuable gifts given to the mayor'
 ---
 
 The Rundown: Hundreds of valuable gifts given to the mayor

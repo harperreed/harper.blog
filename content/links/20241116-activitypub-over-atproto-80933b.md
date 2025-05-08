@@ -10,6 +10,7 @@ tags:
 - social-media
 - open-source
 title: ActivityPub over ATProto
+translationKey: ActivityPub over ATProto
 ---
 
 ActivityPub over ATProto

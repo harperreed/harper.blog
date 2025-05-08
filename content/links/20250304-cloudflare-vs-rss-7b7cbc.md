@@ -9,6 +9,7 @@ tags:
 - rss
 - bot-management
 title: Cloudflare vs RSS
+translationKey: Cloudflare vs RSS
 ---
 
 Cloudflare vs RSS

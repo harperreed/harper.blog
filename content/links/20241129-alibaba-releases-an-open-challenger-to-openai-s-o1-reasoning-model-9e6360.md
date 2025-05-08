@@ -12,6 +12,7 @@ tags:
 - reasoning-ai
 - openai-competitor
 title: Alibaba releases an 'open' challenger to OpenAI's O1 reasoning model
+translationKey: Alibaba releases an 'open' challenger to OpenAI's O1 reasoning model
 ---
 
 Alibaba releases an 'open' challenger to OpenAI's O1 reasoning model

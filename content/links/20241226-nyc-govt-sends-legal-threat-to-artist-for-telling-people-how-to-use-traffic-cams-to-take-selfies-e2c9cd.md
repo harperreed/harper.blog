@@ -11,6 +11,8 @@ tags:
 - social-media
 title: NYC Gov’t Sends Legal Threat To Artist For Telling People How To Use Traffic
   Cams To Take Selfies
+translationKey: NYC Gov’t Sends Legal Threat To Artist For Telling People How To Use
+  Traffic Cams To Take Selfies
 ---
 
 NYC Gov’t Sends Legal Threat To Artist For Telling People How To Use Traffic Cams To Take Selfies

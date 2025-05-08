@@ -11,6 +11,8 @@ tags:
 - climate-crisis
 title: As Trump Prepares to Slash Environmental Protections, 48 of the 50 States Are
   Facing Droughts
+translationKey: As Trump Prepares to Slash Environmental Protections, 48 of the 50
+  States Are Facing Droughts
 ---
 
 As Trump Prepares to Slash Environmental Protections, 48 of the 50 States Are Facing Droughts

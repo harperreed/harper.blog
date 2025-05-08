@@ -10,6 +10,7 @@ tags:
 - instant-messaging
 - open-source
 title: 'XMPP: The Gem of Instant Messaging'
+translationKey: 'XMPP: The Gem of Instant Messaging'
 ---
 
 XMPP: The Gem of Instant Messaging

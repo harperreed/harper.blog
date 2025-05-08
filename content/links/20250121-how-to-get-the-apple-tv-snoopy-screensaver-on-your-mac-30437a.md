@@ -10,6 +10,7 @@ tags:
 - snoopy-screensaver
 - mac-tips
 title: How to get the Apple TV Snoopy screensaver on your Mac
+translationKey: How to get the Apple TV Snoopy screensaver on your Mac
 ---
 
 How to get the Apple TV Snoopy screensaver on your Mac

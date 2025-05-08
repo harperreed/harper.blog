@@ -10,6 +10,8 @@ tags:
 - policy-solutions
 - accessibility-in-care
 title: We Can't Solve the Youth Mental Health Crisis Without Including Young People
+translationKey: We Can't Solve the Youth Mental Health Crisis Without Including Young
+  People
 ---
 
 We Can't Solve the Youth Mental Health Crisis Without Including Young People

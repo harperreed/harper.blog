@@ -12,6 +12,8 @@ tags:
 - political-scandals
 title: 'SignalGate Meets WordPress: Outgoing National Security Adviser’s Phone Dumps
   Messages via Israeli App'
+translationKey: 'SignalGate Meets WordPress: Outgoing National Security Adviser’s
+  Phone Dumps Messages via Israeli App'
 ---
 
 SignalGate Meets WordPress: Outgoing National Security Adviser’s Phone Dumps Messages via Israeli App

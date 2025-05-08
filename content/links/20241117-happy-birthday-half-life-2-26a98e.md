@@ -9,6 +9,7 @@ tags:
 - video-games
 - anniversary-update
 title: Happy birthday, Half-Life 2!
+translationKey: Happy birthday, Half-Life 2!
 ---
 
 Happy birthday, Half-Life 2!

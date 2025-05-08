@@ -10,6 +10,7 @@ tags:
 - elon-musk
 - politics
 title: How long until Trump turns on Elon?
+translationKey: How long until Trump turns on Elon?
 ---
 
 How long until Trump turns on Elon?

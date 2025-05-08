@@ -11,6 +11,7 @@ tags:
 - political-editorial
 - democracy
 title: Quoting NY Times Editorial Board
+translationKey: Quoting NY Times Editorial Board
 ---
 
 Quoting NY Times Editorial Board

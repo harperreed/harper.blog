@@ -9,6 +9,7 @@ tags:
 - social-issues
 - economic-inequality
 title: The War on Poverty Is Over. Rich People Won.
+translationKey: The War on Poverty Is Over. Rich People Won.
 ---
 
 The War on Poverty Is Over. Rich People Won.

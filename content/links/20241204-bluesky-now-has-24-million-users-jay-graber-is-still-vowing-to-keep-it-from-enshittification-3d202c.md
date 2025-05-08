@@ -11,6 +11,8 @@ tags:
 - user-growth
 title: Bluesky Now Has 24 Million Users. Jay Graber Is Still Vowing to Keep It From
   Enshittification
+translationKey: Bluesky Now Has 24 Million Users. Jay Graber Is Still Vowing to Keep
+  It From Enshittification
 ---
 
 Bluesky Now Has 24 Million Users. Jay Graber Is Still Vowing to Keep It From Enshittification

@@ -11,6 +11,7 @@ tags:
 - ev-industry
 - china-automotive
 title: Is Tesla the next Blackberry?
+translationKey: Is Tesla the next Blackberry?
 ---
 
 Is Tesla the next Blackberry?

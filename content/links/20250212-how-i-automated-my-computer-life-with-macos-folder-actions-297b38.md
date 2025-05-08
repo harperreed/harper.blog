@@ -10,6 +10,7 @@ tags:
 - automation
 - video-conversion
 title: How I Automated My Computer Life With macOS Folder Actions
+translationKey: How I Automated My Computer Life With macOS Folder Actions
 ---
 
 How I Automated My Computer Life With macOS Folder Actions

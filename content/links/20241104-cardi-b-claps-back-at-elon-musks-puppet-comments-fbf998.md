@@ -10,6 +10,7 @@ tags:
 - elon-musk
 - political-criticism
 title: Cardi B claps back at Elon Musk’s ‘puppet’ comments
+translationKey: Cardi B claps back at Elon Musk’s ‘puppet’ comments
 ---
 
 Cardi B claps back at Elon Musk’s ‘puppet’ comments

@@ -10,6 +10,7 @@ tags:
 - women-empowerment
 - political-satire
 title: Trump Takes Down Reproductive Rights Website
+translationKey: Trump Takes Down Reproductive Rights Website
 ---
 
 Trump Takes Down Reproductive Rights Website

@@ -10,6 +10,7 @@ tags:
 - heat-related-deaths
 - young-people
 title: Mexico Is Getting So Hot That Even Young People Are Dropping Dead
+translationKey: Mexico Is Getting So Hot That Even Young People Are Dropping Dead
 ---
 
 Mexico Is Getting So Hot That Even Young People Are Dropping Dead

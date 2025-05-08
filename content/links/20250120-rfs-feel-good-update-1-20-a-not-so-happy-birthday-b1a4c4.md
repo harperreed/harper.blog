@@ -9,6 +9,7 @@ tags:
 - trump-inauguration
 - anniversary-reflection
 title: 'RFS feel-good update (1/20): A not-so-happy birthday'
+translationKey: 'RFS feel-good update (1/20): A not-so-happy birthday'
 ---
 
 RFS feel-good update (1/20): A not-so-happy birthday

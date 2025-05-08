@@ -10,6 +10,7 @@ tags:
 - llms
 - benchmarking
 title: Aider Polyglot leaderboard results for Claude 3.7 Sonnet
+translationKey: Aider Polyglot leaderboard results for Claude 3.7 Sonnet
 ---
 
 Aider Polyglot leaderboard results for Claude 3.7 Sonnet

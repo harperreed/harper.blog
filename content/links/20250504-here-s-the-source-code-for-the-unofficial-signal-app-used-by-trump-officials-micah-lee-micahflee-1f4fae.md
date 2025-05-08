@@ -11,6 +11,8 @@ tags:
 - unofficial-source-code
 title: Here's the source code for the unofficial Signal app used by Trump officials
   (Micah Lee/micahflee)
+translationKey: Here's the source code for the unofficial Signal app used by Trump
+  officials (Micah Lee/micahflee)
 ---
 
 Here's the source code for the unofficial Signal app used by Trump officials (Micah Lee/micahflee)

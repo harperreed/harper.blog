@@ -12,6 +12,8 @@ tags:
 - h1b-visas
 title: Foreign-born scientists may find it harder to work in U.S. during Trump's 2nd
   term
+translationKey: Foreign-born scientists may find it harder to work in U.S. during
+  Trump's 2nd term
 ---
 
 Foreign-born scientists may find it harder to work in U.S. during Trump's 2nd term

@@ -10,6 +10,7 @@ tags:
 - information-overload
 - communication-strategies
 title: make it make sense
+translationKey: make it make sense
 ---
 
 make it make sense

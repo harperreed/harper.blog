@@ -10,6 +10,8 @@ tags:
 - artisanal-fashion
 - local-business
 title: Their Hand-Stitched Clothes Keep Ancient Craft Alive, But It’s Not That Serious
+translationKey: Their Hand-Stitched Clothes Keep Ancient Craft Alive, But It’s Not
+  That Serious
 ---
 
 Their Hand-Stitched Clothes Keep Ancient Craft Alive, But It’s Not That Serious

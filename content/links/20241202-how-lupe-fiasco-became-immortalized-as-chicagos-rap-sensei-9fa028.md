@@ -9,6 +9,7 @@ tags:
 - chicago-rap
 - childhood-influence
 title: How Lupe Fiasco became immortalized as Chicago’s rap sensei
+translationKey: How Lupe Fiasco became immortalized as Chicago’s rap sensei
 ---
 
 How Lupe Fiasco became immortalized as Chicago’s rap sensei

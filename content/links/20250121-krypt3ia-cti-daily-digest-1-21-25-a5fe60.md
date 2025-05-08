@@ -10,6 +10,7 @@ tags:
 - trump-administration
 - mirai-botnet
 title: Krypt3ia CTI Daily Digest 1.21.25
+translationKey: Krypt3ia CTI Daily Digest 1.21.25
 ---
 
 Krypt3ia CTI Daily Digest 1.21.25

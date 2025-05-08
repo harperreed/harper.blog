@@ -10,6 +10,7 @@ tags:
 - minecraft-server
 - gaming-performance
 title: A minecraft server written in rust
+translationKey: A minecraft server written in rust
 ---
 
 A minecraft server written in rust

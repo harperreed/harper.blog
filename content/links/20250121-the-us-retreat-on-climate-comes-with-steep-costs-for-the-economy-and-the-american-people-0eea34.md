@@ -12,6 +12,8 @@ tags:
 - us-economy
 title: The US retreat on climate comes with steep costs for the economy and the American
   people
+translationKey: The US retreat on climate comes with steep costs for the economy and
+  the American people
 ---
 
 The US retreat on climate comes with steep costs for the economy and the American people

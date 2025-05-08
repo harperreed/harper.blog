@@ -11,6 +11,8 @@ tags:
 - cyber-espionage
 title: Once-Private Government Networks Are Now Exposed, Making Cyber-Espionage Easier
   than Ever
+translationKey: Once-Private Government Networks Are Now Exposed, Making Cyber-Espionage
+  Easier than Ever
 ---
 
 Once-Private Government Networks Are Now Exposed, Making Cyber-Espionage Easier than Ever

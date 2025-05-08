@@ -9,6 +9,8 @@ tags:
 - diet-industry
 - glp-1-drugs
 title: The Diet Industry Is Reportedly in Total Meltdown Over GLP-1 Weight Loss Drugs
+translationKey: The Diet Industry Is Reportedly in Total Meltdown Over GLP-1 Weight
+  Loss Drugs
 ---
 
 The Diet Industry Is Reportedly in Total Meltdown Over GLP-1 Weight Loss Drugs

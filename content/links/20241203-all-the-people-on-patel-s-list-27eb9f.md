@@ -9,6 +9,7 @@ tags:
 - kash-patel
 - government-conspiracies
 title: All the people on Patel's list
+translationKey: All the people on Patel's list
 ---
 
 All the people on Patel's list

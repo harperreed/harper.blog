@@ -9,6 +9,7 @@ tags:
 - artificial-intelligence
 - scientific-innovation
 title: A Young Man Used AI to Build A Nuclear Fusor and Now I Must Weep
+translationKey: A Young Man Used AI to Build A Nuclear Fusor and Now I Must Weep
 ---
 
 A Young Man Used AI to Build A Nuclear Fusor and Now I Must Weep

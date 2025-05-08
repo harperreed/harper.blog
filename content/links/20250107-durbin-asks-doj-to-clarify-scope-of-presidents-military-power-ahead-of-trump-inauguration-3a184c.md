@@ -11,6 +11,8 @@ tags:
 - richard-durbin
 title: Durbin asks DOJ to clarify scope of president’s military power ahead of Trump
   inauguration
+translationKey: Durbin asks DOJ to clarify scope of president’s military power ahead
+  of Trump inauguration
 ---
 
 Durbin asks DOJ to clarify scope of president’s military power ahead of Trump inauguration

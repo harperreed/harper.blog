@@ -10,6 +10,7 @@ tags:
 - computer-bulletin-board-system
 - digital-community
 title: Ward Christensen, RIP
+translationKey: Ward Christensen, RIP
 ---
 
 Ward Christensen, RIP

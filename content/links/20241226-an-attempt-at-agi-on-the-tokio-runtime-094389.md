@@ -10,6 +10,7 @@ tags:
 - agi
 - tokio-runtime
 title: An attempt at AGI on the Tokio Runtime
+translationKey: An attempt at AGI on the Tokio Runtime
 ---
 
 An attempt at AGI on the Tokio Runtime

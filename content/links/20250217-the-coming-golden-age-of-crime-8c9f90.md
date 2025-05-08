@@ -11,6 +11,7 @@ tags:
 - money-laundering
 - cryptocurrency
 title: The Coming Golden Age of Crime
+translationKey: The Coming Golden Age of Crime
 ---
 
 The Coming Golden Age of Crime

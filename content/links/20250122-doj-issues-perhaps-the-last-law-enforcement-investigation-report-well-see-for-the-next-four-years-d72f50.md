@@ -11,6 +11,8 @@ tags:
 - trump-administration
 title: DOJ Issues Perhaps The Last Law Enforcement Investigation Report We’ll See
   For The Next Four Years
+translationKey: DOJ Issues Perhaps The Last Law Enforcement Investigation Report We’ll
+  See For The Next Four Years
 ---
 
 DOJ Issues Perhaps The Last Law Enforcement Investigation Report We’ll See For The Next Four Years

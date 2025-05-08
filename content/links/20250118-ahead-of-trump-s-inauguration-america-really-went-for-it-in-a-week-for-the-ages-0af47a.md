@@ -11,6 +11,8 @@ tags:
 - trump-inauguration
 title: Ahead of Trump's Inauguration, America Really Went For It in a 'Week for the
   Ages'
+translationKey: Ahead of Trump's Inauguration, America Really Went For It in a 'Week
+  for the Ages'
 ---
 
 Ahead of Trump's Inauguration, America Really Went For It in a 'Week for the Ages'

@@ -10,6 +10,7 @@ tags:
 - dublin-events
 - social-media-hoax
 title: AI slop hoax parade
+translationKey: AI slop hoax parade
 ---
 
 AI slop hoax parade

@@ -10,6 +10,7 @@ tags:
 - cultural-discourse
 - foucault
 title: There’s a New Language Sheriff in Town
+translationKey: There’s a New Language Sheriff in Town
 ---
 
 There’s a New Language Sheriff in Town

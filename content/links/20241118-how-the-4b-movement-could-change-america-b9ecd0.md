@@ -9,6 +9,7 @@ tags:
 - young-women
 - 4b-movement
 title: How the 4B Movement Could Change America
+translationKey: How the 4B Movement Could Change America
 ---
 
 How the 4B Movement Could Change America

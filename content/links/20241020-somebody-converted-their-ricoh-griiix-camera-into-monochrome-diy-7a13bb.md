@@ -10,6 +10,7 @@ tags:
 - monochrome-conversion
 - diy-photography
 title: Somebody converted their Ricoh GRIIIx camera into Monochrome (DIY)
+translationKey: Somebody converted their Ricoh GRIIIx camera into Monochrome (DIY)
 ---
 
 Somebody converted their Ricoh GRIIIx camera into Monochrome (DIY)

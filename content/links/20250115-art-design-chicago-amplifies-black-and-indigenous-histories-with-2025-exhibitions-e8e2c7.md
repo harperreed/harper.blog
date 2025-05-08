@@ -10,6 +10,8 @@ tags:
 - indigenous-art
 - urban-culture
 title: Art Design Chicago amplifies Black and Indigenous histories with 2025 exhibitions
+translationKey: Art Design Chicago amplifies Black and Indigenous histories with 2025
+  exhibitions
 ---
 
 Art Design Chicago amplifies Black and Indigenous histories with 2025 exhibitions

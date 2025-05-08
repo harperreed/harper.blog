@@ -11,6 +11,8 @@ tags:
 - media-bias
 title: ‘It Is Journalism’s Sacred Duty to Endanger the Lives of as Many Trans People
   as Possible’
+translationKey: ‘It Is Journalism’s Sacred Duty to Endanger the Lives of as Many Trans
+  People as Possible’
 ---
 
 ‘It Is Journalism’s Sacred Duty to Endanger the Lives of as Many Trans People as Possible’

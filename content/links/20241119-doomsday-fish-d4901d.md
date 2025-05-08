@@ -10,6 +10,7 @@ tags:
 - mythology
 - tsunami-omen
 title: Doomsday Fish
+translationKey: Doomsday Fish
 ---
 
 Doomsday Fish

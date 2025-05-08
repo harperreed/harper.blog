@@ -10,6 +10,7 @@ tags:
 - political-bias
 - instagram
 title: The Day Instagram Blocked Democracy
+translationKey: The Day Instagram Blocked Democracy
 ---
 
 The Day Instagram Blocked Democracy

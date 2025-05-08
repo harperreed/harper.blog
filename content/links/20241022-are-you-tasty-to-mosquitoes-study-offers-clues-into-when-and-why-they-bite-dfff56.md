@@ -11,6 +11,8 @@ tags:
 - taste-research
 - vector-control
 title: Are you tasty to mosquitoes? Study offers clues into when and why they bite
+translationKey: Are you tasty to mosquitoes? Study offers clues into when and why
+  they bite
 ---
 
 Are you tasty to mosquitoes? Study offers clues into when and why they bite

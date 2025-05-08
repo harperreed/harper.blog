@@ -10,6 +10,7 @@ tags:
 - disqus-comments
 - media-critique
 title: Hegseth Hearing Was a National Embarrassment
+translationKey: Hegseth Hearing Was a National Embarrassment
 ---
 
 Hegseth Hearing Was a National Embarrassment

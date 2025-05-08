@@ -9,6 +9,7 @@ tags:
 - cost-analysis
 - vps
 title: The Cost of Self-Hosting
+translationKey: The Cost of Self-Hosting
 ---
 
 The Cost of Self-Hosting

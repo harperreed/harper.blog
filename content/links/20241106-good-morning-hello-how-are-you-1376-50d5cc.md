@@ -10,6 +10,7 @@ tags:
 - long-form
 - personal-blog
 title: 'Good Morning. Hello. How are you? #1376'
+translationKey: 'Good Morning. Hello. How are you? #1376'
 ---
 
 Good Morning. Hello. How are you? #1376

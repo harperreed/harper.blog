@@ -10,6 +10,7 @@ tags:
 - gun-violence
 - crime-news
 title: The UnitedHealthcare Gunman Understands the Surveillance State
+translationKey: The UnitedHealthcare Gunman Understands the Surveillance State
 ---
 
 The UnitedHealthcare Gunman Understands the Surveillance State

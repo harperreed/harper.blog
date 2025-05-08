@@ -9,6 +9,7 @@ tags:
 - software-development
 - productivity-tools
 title: 'Trae: An AI Powered IDE by ByteDance'
+translationKey: 'Trae: An AI Powered IDE by ByteDance'
 ---
 
 Trae: An AI Powered IDE by ByteDance

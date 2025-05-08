@@ -10,6 +10,7 @@ tags:
 - unexpected-joy
 - storytelling
 title: Appreciate Everything Endlessly
+translationKey: Appreciate Everything Endlessly
 ---
 
 Appreciate Everything Endlessly

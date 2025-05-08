@@ -10,6 +10,7 @@ tags:
 - fediverse
 - social-media
 title: Why Not Bluesky
+translationKey: Why Not Bluesky
 ---
 
 Why Not Bluesky

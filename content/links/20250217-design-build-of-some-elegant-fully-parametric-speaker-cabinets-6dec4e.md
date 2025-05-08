@@ -9,6 +9,7 @@ tags:
 - openscad
 - parametric-modeling
 title: Design/build of some elegant, fully parametric speaker cabinets
+translationKey: Design/build of some elegant, fully parametric speaker cabinets
 ---
 
 Design/build of some elegant, fully parametric speaker cabinets

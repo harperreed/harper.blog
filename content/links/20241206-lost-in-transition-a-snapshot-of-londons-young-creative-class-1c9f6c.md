@@ -10,6 +10,7 @@ tags:
 - london-artist
 - photography-series
 title: 'Lost in transition: A snapshot of London’s young creative class'
+translationKey: 'Lost in transition: A snapshot of London’s young creative class'
 ---
 
 Lost in transition: A snapshot of London’s young creative class

@@ -10,6 +10,8 @@ tags:
 - donald-trump
 - political-analysis
 title: 'Romney: ''You can’t complain'' if Trump does what he said he would do'
+translationKey: 'Romney: ''You can’t complain'' if Trump does what he said he would
+  do'
 ---
 
 Romney: 'You can’t complain' if Trump does what he said he would do

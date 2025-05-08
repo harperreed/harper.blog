@@ -11,6 +11,7 @@ tags:
 - trump-administration
 - legal-challenges
 title: Trump’s Executive Orders Are Full of Deadlines. We’re Tracking Them.
+translationKey: Trump’s Executive Orders Are Full of Deadlines. We’re Tracking Them.
 ---
 
 Trump’s Executive Orders Are Full of Deadlines. We’re Tracking Them.

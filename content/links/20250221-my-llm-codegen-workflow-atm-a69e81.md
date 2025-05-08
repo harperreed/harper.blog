@@ -10,6 +10,7 @@ tags:
 - workflow-automation
 - specification-development
 title: My LLM codegen workflow atm
+translationKey: My LLM codegen workflow atm
 ---
 
 My LLM codegen workflow atm

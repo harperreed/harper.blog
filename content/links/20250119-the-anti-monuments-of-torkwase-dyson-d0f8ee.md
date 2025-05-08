@@ -10,6 +10,7 @@ tags:
 - anti-monuments
 - black-aesthetics
 title: The Anti-Monuments of Torkwase Dyson
+translationKey: The Anti-Monuments of Torkwase Dyson
 ---
 
 The Anti-Monuments of Torkwase Dyson

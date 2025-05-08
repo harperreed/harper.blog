@@ -9,6 +9,7 @@ tags:
 - gaming-setup
 - home-automation
 title: 'Show HN: I built a(nother) house optimized for LAN parties'
+translationKey: 'Show HN: I built a(nother) house optimized for LAN parties'
 ---
 
 Show HN: I built a(nother) house optimized for LAN parties

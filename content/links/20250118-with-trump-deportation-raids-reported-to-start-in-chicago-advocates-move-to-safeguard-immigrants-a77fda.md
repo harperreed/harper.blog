@@ -11,6 +11,8 @@ tags:
 - community-advocacy
 title: With Trump deportation raids reported to start in Chicago, advocates move to
   safeguard immigrants
+translationKey: With Trump deportation raids reported to start in Chicago, advocates
+  move to safeguard immigrants
 ---
 
 With Trump deportation raids reported to start in Chicago, advocates move to safeguard immigrants

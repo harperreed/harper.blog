@@ -10,6 +10,7 @@ tags:
 - social-media
 - ship-of-theseus
 title: Bluesky as the Ship of Theseus
+translationKey: Bluesky as the Ship of Theseus
 ---
 
 Bluesky as the Ship of Theseus

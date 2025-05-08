@@ -10,6 +10,7 @@ tags:
 - debugger-ui
 - prolog
 title: AI-generated tools can make programming more fun
+translationKey: AI-generated tools can make programming more fun
 ---
 
 AI-generated tools can make programming more fun

@@ -10,6 +10,7 @@ tags:
 - photoshop
 - digital-art
 title: Brian Eno and Photoshop
+translationKey: Brian Eno and Photoshop
 ---
 
 Brian Eno and Photoshop

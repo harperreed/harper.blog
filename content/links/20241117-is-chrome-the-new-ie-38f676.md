@@ -10,6 +10,7 @@ tags:
 - chrome
 - internet-explorer
 title: Is Chrome the New IE?
+translationKey: Is Chrome the New IE?
 ---
 
 Is Chrome the New IE?

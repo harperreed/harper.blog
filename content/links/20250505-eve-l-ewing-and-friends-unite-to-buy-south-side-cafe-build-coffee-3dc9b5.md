@@ -11,6 +11,7 @@ tags:
 - community-engagement
 - local-business
 title: Eve L. Ewing And Friends Unite To Buy South Side Cafe Build Coffee
+translationKey: Eve L. Ewing And Friends Unite To Buy South Side Cafe Build Coffee
 ---
 
 Eve L. Ewing And Friends Unite To Buy South Side Cafe Build Coffee

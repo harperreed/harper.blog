@@ -10,6 +10,7 @@ tags:
 - custom-roms
 - privacy-advocacy
 title: Updating my Phone to a More Secure Setup
+translationKey: Updating my Phone to a More Secure Setup
 ---
 
 Updating my Phone to a More Secure Setup

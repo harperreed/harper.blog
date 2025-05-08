@@ -10,6 +10,7 @@ tags:
 - neuroscience
 - crowdsourced-research
 title: Mapping a Fruit Fly’s Brain with Crowdsourced Research
+translationKey: Mapping a Fruit Fly’s Brain with Crowdsourced Research
 ---
 
 Mapping a Fruit Fly’s Brain with Crowdsourced Research

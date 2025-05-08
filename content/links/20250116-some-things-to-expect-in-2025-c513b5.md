@@ -10,6 +10,7 @@ tags:
 - cpu-scheduling
 - linux-kernel
 title: Some Things to Expect in 2025
+translationKey: Some Things to Expect in 2025
 ---
 
 Some Things to Expect in 2025

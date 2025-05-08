@@ -10,6 +10,7 @@ tags:
 - feminist-art
 - satire
 title: A Biting Satire of the Art World’s Monstrousness
+translationKey: A Biting Satire of the Art World’s Monstrousness
 ---
 
 A Biting Satire of the Art World’s Monstrousness

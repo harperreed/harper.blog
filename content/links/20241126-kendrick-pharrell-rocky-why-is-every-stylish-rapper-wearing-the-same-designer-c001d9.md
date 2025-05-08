@@ -9,6 +9,8 @@ tags:
 - fashion-trends
 - erl-clothing
 title: 'Kendrick, Pharrell, Rocky: Why Is Every Stylish Rapper Wearing the Same Designer?'
+translationKey: 'Kendrick, Pharrell, Rocky: Why Is Every Stylish Rapper Wearing the
+  Same Designer?'
 ---
 
 Kendrick, Pharrell, Rocky: Why Is Every Stylish Rapper Wearing the Same Designer?

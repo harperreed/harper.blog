@@ -11,6 +11,7 @@ tags:
 - password-security
 - fido-authentication
 title: A Tour of WebAuthn
+translationKey: A Tour of WebAuthn
 ---
 
 A Tour of WebAuthn

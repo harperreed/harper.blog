@@ -10,6 +10,7 @@ tags:
 - package-manager
 - rust
 title: Uv, a fast Python package and project manager
+translationKey: Uv, a fast Python package and project manager
 ---
 
 Uv, a fast Python package and project manager

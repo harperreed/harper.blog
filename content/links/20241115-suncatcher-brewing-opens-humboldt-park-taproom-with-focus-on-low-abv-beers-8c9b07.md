@@ -10,6 +10,8 @@ tags:
 - low-abv-beers
 - humboldt-park
 title: Suncatcher Brewing Opens Humboldt Park Taproom With Focus On Low ABV Beers
+translationKey: Suncatcher Brewing Opens Humboldt Park Taproom With Focus On Low ABV
+  Beers
 ---
 
 Suncatcher Brewing Opens Humboldt Park Taproom With Focus On Low ABV Beers

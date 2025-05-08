@@ -10,6 +10,7 @@ tags:
 - cultural-studies
 - diaspora
 title: 10 of the most arresting global photo stories of 2024
+translationKey: 10 of the most arresting global photo stories of 2024
 ---
 
 10 of the most arresting global photo stories of 2024

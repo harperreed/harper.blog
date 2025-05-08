@@ -10,6 +10,8 @@ tags:
 - closed-sessions
 - dj-muggs
 title: Chicago hip-hop label Closed Sessions looks to the future on its 15th anniversary&nbsp;
+translationKey: Chicago hip-hop label Closed Sessions looks to the future on its 15th
+  anniversary&nbsp;
 ---
 
 Chicago hip-hop label Closed Sessions looks to the future on its 15th anniversary&nbsp;

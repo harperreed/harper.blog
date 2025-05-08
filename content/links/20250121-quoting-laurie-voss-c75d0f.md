@@ -10,6 +10,7 @@ tags:
 - llm-performance
 - content-optimization
 title: Quoting Laurie Voss
+translationKey: Quoting Laurie Voss
 ---
 
 Quoting Laurie Voss

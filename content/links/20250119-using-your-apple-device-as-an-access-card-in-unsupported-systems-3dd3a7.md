@@ -11,6 +11,7 @@ tags:
 - nfc-access
 - uid-systems
 title: Using your Apple device as an access card in unsupported systems
+translationKey: Using your Apple device as an access card in unsupported systems
 ---
 
 Using your Apple device as an access card in unsupported systems

@@ -9,6 +9,7 @@ tags:
 - aja-wilson
 - nike-commercial
 title: Malia Obama Directed A'ja Wilson's New Nike Signature Shoe Commercial
+translationKey: Malia Obama Directed A'ja Wilson's New Nike Signature Shoe Commercial
 ---
 
 Malia Obama Directed A'ja Wilson's New Nike Signature Shoe Commercial

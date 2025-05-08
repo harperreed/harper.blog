@@ -10,6 +10,7 @@ tags:
 - political-commentary
 - current-events
 title: Science Fiction Didn’t Predict This
+translationKey: Science Fiction Didn’t Predict This
 ---
 
 Science Fiction Didn’t Predict This

@@ -10,6 +10,8 @@ tags:
 - critical-essay
 - casey-newton
 title: Hard-forked! Casey Newton’s distorted portrait of Gary Marcus and AI skepticism
+translationKey: Hard-forked! Casey Newton’s distorted portrait of Gary Marcus and
+  AI skepticism
 ---
 
 Hard-forked! Casey Newton’s distorted portrait of Gary Marcus and AI skepticism

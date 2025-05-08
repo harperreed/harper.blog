@@ -10,6 +10,7 @@ tags:
 - sherpa-guides
 - extreme-sports
 title: This Sherpa guide has climbed Everest a record 30 times
+translationKey: This Sherpa guide has climbed Everest a record 30 times
 ---
 
 This Sherpa guide has climbed Everest a record 30 times

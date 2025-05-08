@@ -10,6 +10,8 @@ tags:
 - analog-photography
 title: 'Polaroid unveils the Flip: a tech-packed instant camera made for an analog
   life'
+translationKey: 'Polaroid unveils the Flip: a tech-packed instant camera made for
+  an analog life'
 ---
 
 Polaroid unveils the Flip: a tech-packed instant camera made for an analog life

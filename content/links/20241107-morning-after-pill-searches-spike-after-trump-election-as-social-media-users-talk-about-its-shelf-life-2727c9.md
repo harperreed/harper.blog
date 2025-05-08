@@ -12,6 +12,8 @@ tags:
 - trump-election
 title: “Morning After Pill” Searches Spike After Trump Election As Social Media Users
   Talk About Its Shelf Life
+translationKey: “Morning After Pill” Searches Spike After Trump Election As Social
+  Media Users Talk About Its Shelf Life
 ---
 
 “Morning After Pill” Searches Spike After Trump Election As Social Media Users Talk About Its Shelf Life

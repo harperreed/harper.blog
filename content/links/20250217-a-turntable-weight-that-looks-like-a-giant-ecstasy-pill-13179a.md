@@ -10,6 +10,7 @@ tags:
 - vinyl-enthusiasts
 - hifi-equipment
 title: A turntable weight that looks like a giant ecstasy pill
+translationKey: A turntable weight that looks like a giant ecstasy pill
 ---
 
 A turntable weight that looks like a giant ecstasy pill

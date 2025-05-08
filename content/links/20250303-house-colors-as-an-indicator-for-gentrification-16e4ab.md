@@ -10,6 +10,7 @@ tags:
 - urban-development
 - color-analysis
 title: House colors as an indicator for gentrification
+translationKey: House colors as an indicator for gentrification
 ---
 
 House colors as an indicator for gentrification

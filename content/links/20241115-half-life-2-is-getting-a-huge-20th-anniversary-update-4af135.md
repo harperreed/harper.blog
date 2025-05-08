@@ -9,6 +9,7 @@ tags:
 - gaming-update
 - steam-workshop
 title: Half-Life 2 is getting a huge 20th anniversary update
+translationKey: Half-Life 2 is getting a huge 20th anniversary update
 ---
 
 Half-Life 2 is getting a huge 20th anniversary update

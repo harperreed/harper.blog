@@ -11,6 +11,7 @@ tags:
 - fire-prevention
 - california-fires
 title: The Unfightable Fire
+translationKey: The Unfightable Fire
 ---
 
 The Unfightable Fire

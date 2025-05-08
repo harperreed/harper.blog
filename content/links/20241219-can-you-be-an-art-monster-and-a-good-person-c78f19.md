@@ -10,6 +10,7 @@ tags:
 - art-monster
 - creative-identity
 title: Can You Be an ‘Art Monster’ and a Good Person?
+translationKey: Can You Be an ‘Art Monster’ and a Good Person?
 ---
 
 Can You Be an ‘Art Monster’ and a Good Person?

@@ -9,6 +9,7 @@ tags:
 - ai-aesthetics
 - minimalism
 title: Exterminate All Rational Graphic Design
+translationKey: Exterminate All Rational Graphic Design
 ---
 
 Exterminate All Rational Graphic Design

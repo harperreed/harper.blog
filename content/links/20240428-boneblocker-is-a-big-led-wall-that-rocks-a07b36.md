@@ -9,6 +9,7 @@ tags:
 - interactive-display
 - maker-projects
 title: Boneblocker Is A Big LED Wall That Rocks
+translationKey: Boneblocker Is A Big LED Wall That Rocks
 ---
 
 Boneblocker Is A Big LED Wall That Rocks

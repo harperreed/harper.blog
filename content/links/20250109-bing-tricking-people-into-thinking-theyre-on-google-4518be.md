@@ -11,6 +11,7 @@ tags:
 - microsoft
 - search-engine-tricks
 title: Bing Tricking People Into Thinking They’re on Google
+translationKey: Bing Tricking People Into Thinking They’re on Google
 ---
 
 Bing Tricking People Into Thinking They’re on Google

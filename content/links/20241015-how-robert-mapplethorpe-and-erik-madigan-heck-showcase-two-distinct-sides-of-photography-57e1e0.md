@@ -11,6 +11,8 @@ tags:
 - erik-madigan-heck
 title: How Robert Mapplethorpe And Erik Madigan Heck Showcase Two Distinct Sides of
   Photography
+translationKey: How Robert Mapplethorpe And Erik Madigan Heck Showcase Two Distinct
+  Sides of Photography
 ---
 
 How Robert Mapplethorpe And Erik Madigan Heck Showcase Two Distinct Sides of Photography

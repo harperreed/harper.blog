@@ -10,6 +10,7 @@ tags:
 - internet-nostalgia
 - html
 title: For The Love of God, Make Your Own Website
+translationKey: For The Love of God, Make Your Own Website
 ---
 
 For The Love of God, Make Your Own Website

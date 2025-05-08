@@ -11,6 +11,7 @@ tags:
 - online-betting
 - supreme-court-ruling
 title: Sports gambling should have stayed in Las Vegas
+translationKey: Sports gambling should have stayed in Las Vegas
 ---
 
 Sports gambling should have stayed in Las Vegas

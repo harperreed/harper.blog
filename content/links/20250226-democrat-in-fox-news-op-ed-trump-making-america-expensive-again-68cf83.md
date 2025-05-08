@@ -9,6 +9,7 @@ tags:
 - trump
 - economy
 title: 'Democrat in Fox News op-ed: Trump ''making America expensive again'''
+translationKey: 'Democrat in Fox News op-ed: Trump ''making America expensive again'''
 ---
 
 Democrat in Fox News op-ed: Trump 'making America expensive again'

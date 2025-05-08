@@ -9,6 +9,7 @@ tags:
 - cold-war
 - arctic-exploration
 title: NASA Scanners Detect Hidden Base Under Arctic Ice
+translationKey: NASA Scanners Detect Hidden Base Under Arctic Ice
 ---
 
 NASA Scanners Detect Hidden Base Under Arctic Ice

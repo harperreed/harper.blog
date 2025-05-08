@@ -11,6 +11,7 @@ tags:
 - social-issues
 - future-uncertainty
 title: problem space
+translationKey: problem space
 ---
 
 problem space

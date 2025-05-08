@@ -10,6 +10,7 @@ tags:
 - apple-iphone
 - supply-chain-issues
 title: A ‘U.S.-Made iPhone’ is Pure Fantasy
+translationKey: A ‘U.S.-Made iPhone’ is Pure Fantasy
 ---
 
 A ‘U.S.-Made iPhone’ is Pure Fantasy

@@ -10,6 +10,7 @@ tags:
 - contradictory-techniques
 - photographic-approaches
 title: Contradictions in Photography Advice
+translationKey: Contradictions in Photography Advice
 ---
 
 Contradictions in Photography Advice

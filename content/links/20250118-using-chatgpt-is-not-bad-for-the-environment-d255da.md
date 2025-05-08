@@ -10,6 +10,7 @@ tags:
 - sustainable-tech
 - chatgpt
 title: Using ChatGPT is not bad for the environment
+translationKey: Using ChatGPT is not bad for the environment
 ---
 
 Using ChatGPT is not bad for the environment

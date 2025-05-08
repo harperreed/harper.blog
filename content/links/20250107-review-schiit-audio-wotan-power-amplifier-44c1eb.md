@@ -10,6 +10,7 @@ tags:
 - hifi-audio
 - schiit-audio
 title: 'Review: Schiit Audio Wotan Power Amplifier'
+translationKey: 'Review: Schiit Audio Wotan Power Amplifier'
 ---
 
 Review: Schiit Audio Wotan Power Amplifier

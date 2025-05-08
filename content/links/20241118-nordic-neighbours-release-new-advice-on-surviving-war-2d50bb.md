@@ -10,6 +10,7 @@ tags:
 - nordic-countries
 - crisis-preparedness
 title: Nordic neighbours release new advice on surviving war
+translationKey: Nordic neighbours release new advice on surviving war
 ---
 
 Nordic neighbours release new advice on surviving war

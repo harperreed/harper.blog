@@ -9,6 +9,7 @@ tags:
 - openai
 - guest-posts
 title: O1 isn't a chat model (and that's the point)
+translationKey: O1 isn't a chat model (and that's the point)
 ---
 
 O1 isn't a chat model (and that's the point)

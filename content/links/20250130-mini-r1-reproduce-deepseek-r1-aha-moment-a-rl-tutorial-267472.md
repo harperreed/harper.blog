@@ -9,6 +9,7 @@ tags:
 - reinforcement-learning
 - model-evaluation
 title: 'Mini-R1: Reproduce Deepseek R1 „aha moment“ a RL tutorial'
+translationKey: 'Mini-R1: Reproduce Deepseek R1 „aha moment“ a RL tutorial'
 ---
 
 Mini-R1: Reproduce Deepseek R1 „aha moment“ a RL tutorial

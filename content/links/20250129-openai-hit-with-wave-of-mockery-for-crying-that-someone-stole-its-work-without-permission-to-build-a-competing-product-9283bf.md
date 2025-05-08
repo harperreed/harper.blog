@@ -12,6 +12,8 @@ tags:
 - ai-ethics
 title: OpenAI Hit With Wave of Mockery for Crying That Someone Stole Its Work Without
   Permission to Build a Competing Product
+translationKey: OpenAI Hit With Wave of Mockery for Crying That Someone Stole Its
+  Work Without Permission to Build a Competing Product
 ---
 
 OpenAI Hit With Wave of Mockery for Crying That Someone Stole Its Work Without Permission to Build a Competing Product

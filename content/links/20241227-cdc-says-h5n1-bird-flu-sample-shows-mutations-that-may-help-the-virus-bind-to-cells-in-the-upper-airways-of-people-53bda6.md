@@ -11,6 +11,8 @@ tags:
 - viral-mutations
 title: CDC says H5N1 bird flu sample shows mutations that may help the virus bind
   to cells in the upper airways of people
+translationKey: CDC says H5N1 bird flu sample shows mutations that may help the virus
+  bind to cells in the upper airways of people
 ---
 
 CDC says H5N1 bird flu sample shows mutations that may help the virus bind to cells in the upper airways of people

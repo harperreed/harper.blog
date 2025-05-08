@@ -10,6 +10,7 @@ tags:
 - political-chaos
 - martial-law
 title: South Korea’s Night of Political Chaos
+translationKey: South Korea’s Night of Political Chaos
 ---
 
 South Korea’s Night of Political Chaos

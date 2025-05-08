@@ -11,6 +11,7 @@ tags:
 - scientific-uncertainty
 - unanswered-questions
 title: Wikenigma is a fascinating encyclopedia of the holes in human knowledge
+translationKey: Wikenigma is a fascinating encyclopedia of the holes in human knowledge
 ---
 
 Wikenigma is a fascinating encyclopedia of the holes in human knowledge

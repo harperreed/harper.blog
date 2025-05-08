@@ -11,6 +11,8 @@ tags:
 - performing-arts
 title: Vince Staples slings eidetic lyricism and dry humor on his Black in America
   tour
+translationKey: Vince Staples slings eidetic lyricism and dry humor on his Black in
+  America tour
 ---
 
 Vince Staples slings eidetic lyricism and dry humor on his Black in America tour

@@ -9,6 +9,7 @@ tags:
 - us-politics
 - social-media
 title: TikTok is no longer available in the US
+translationKey: TikTok is no longer available in the US
 ---
 
 TikTok is no longer available in the US
