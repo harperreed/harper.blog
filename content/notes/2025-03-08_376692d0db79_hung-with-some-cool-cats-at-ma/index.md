@@ -5,8 +5,8 @@ description: Hung with some cool cats at Marz. We gotta get edmar to get some bi
 draft: false
 original_url: https://harper.micro.blog/2025/03/08/hung-with-some-cool-cats.html
 sub_title: Untitled
-title: 'Note #209'
-translationKey: 'Note #209'
+title: 'Note #168'
+translationKey: https://harper.micro.blog/2025/03/08/hung-with-some-cool-cats.html
 ---
 
 Hung with some cool cats at Marz.

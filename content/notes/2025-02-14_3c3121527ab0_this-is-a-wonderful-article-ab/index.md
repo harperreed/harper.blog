@@ -4,8 +4,8 @@ description: This is a wonderful article about my friend Christine Sun Kim. www.
 draft: false
 original_url: https://harper.micro.blog/2025/02/14/this-is-a-wonderful-article.html
 sub_title: Untitled
-title: 'Note #204'
-translationKey: 'Note #204'
+title: 'Note #163'
+translationKey: https://harper.micro.blog/2025/02/14/this-is-a-wonderful-article.html
 ---
 
 This is a wonderful article about my friend Christine Sun Kim.

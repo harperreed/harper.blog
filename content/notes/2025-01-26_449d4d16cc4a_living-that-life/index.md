@@ -4,8 +4,8 @@ description: Living that life
 draft: false
 original_url: https://harper.micro.blog/2025/01/26/living-that-life.html
 sub_title: Untitled
-title: 'Note #192'
-translationKey: 'Note #192'
+title: 'Note #151'
+translationKey: https://harper.micro.blog/2025/01/26/living-that-life.html
 ---
 
 Living that life

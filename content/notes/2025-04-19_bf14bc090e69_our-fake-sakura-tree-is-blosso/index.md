@@ -4,8 +4,8 @@ description: Our fake Sakura tree is blossoming.
 draft: false
 original_url: https://harper.micro.blog/2025/04/19/our-fake-sakura-tree-is.html
 sub_title: Untitled
-title: 'Note #214'
-translationKey: 'Note #214'
+title: 'Note #173'
+translationKey: https://harper.micro.blog/2025/04/19/our-fake-sakura-tree-is.html
 ---
 
 Our fake Sakura tree is blossoming.
