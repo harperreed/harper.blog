@@ -3,6 +3,7 @@ date: 2024-05-02 20:54:26-05:00
 draft: false
 nodate: true
 nofeed: true
+translationKey: "index"
 ---
 
 ### 저는 하퍼 리드이며, 이곳은 제 블로그입니다. 저에 대해 더 알고 싶으시면 제 웹사이트를 방문하세요: [harper.lol](https://harper.lol).
