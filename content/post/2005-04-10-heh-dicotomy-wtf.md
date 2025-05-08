@@ -7,6 +7,7 @@ tags:
 - photography
 - memories
 title: heh. dichotomy. wtf
+translationKey: heh. dichotomy. wtf
 wordpress_id: 1040
 wordpress_url: http://www.nata2.org/2005/04/10/heh-dicotomy-wtf/
 ---

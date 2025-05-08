@@ -13,6 +13,7 @@ tags:
 - iraq-war
 - bush-administration
 title: liberal media bias
+translationKey: liberal media bias
 wordpress_id: 639
 wordpress_url: http://new.nata2.org/?p=639
 ---

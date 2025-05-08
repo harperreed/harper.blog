@@ -7,6 +7,7 @@ tags:
 - vacancies
 - properties
 title: another quick little gmaps hack
+translationKey: another quick little gmaps hack
 wordpress_id: 1076
 wordpress_url: http://www.nata2.org/2005/06/06/another-quick-little-gmaps-hack/
 ---

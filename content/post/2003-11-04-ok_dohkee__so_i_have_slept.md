@@ -12,6 +12,7 @@ tags:
 - festivals
 - chicago
 title: ok dohkee. so i have slept
+translationKey: ok dohkee. so i have slept
 wordpress_id: 667
 wordpress_url: http://new.nata2.org/?p=667
 ---

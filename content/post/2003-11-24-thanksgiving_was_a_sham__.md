@@ -10,6 +10,7 @@ tags:
 - holidays
 - celebrations
 title: thanksgiving was a sham..
+translationKey: thanksgiving was a sham..
 wordpress_id: 683
 wordpress_url: http://new.nata2.org/?p=683
 ---

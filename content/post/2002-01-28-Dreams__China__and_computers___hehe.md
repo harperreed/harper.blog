@@ -12,6 +12,7 @@ tags:
 - war
 - technology
 title: Dreams. China. and computers.. hehe
+translationKey: Dreams. China. and computers.. hehe
 wordpress_id: 193
 wordpress_url: http://new.nata2.org/?p=193
 ---

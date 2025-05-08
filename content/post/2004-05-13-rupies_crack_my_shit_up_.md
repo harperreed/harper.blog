@@ -12,6 +12,7 @@ tags:
 - friends
 - culture
 title: rupies crack my shit up.
+translationKey: rupies crack my shit up.
 wordpress_id: 855
 wordpress_url: http://new.nata2.org/?p=855
 ---

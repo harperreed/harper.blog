@@ -7,6 +7,7 @@ tags:
 - career-development
 - productivity
 title: 'Worked to death. '
+translationKey: 'Worked to death. '
 wordpress_id: 1227
 wordpress_url: http://www.nata2.org/2006/03/03/worked-to-death/
 ---

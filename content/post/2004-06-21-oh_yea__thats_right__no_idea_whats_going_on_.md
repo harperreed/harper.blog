@@ -12,6 +12,7 @@ tags:
 - food
 - sickness
 title: oh yea. thats right. no idea whats going on.
+translationKey: oh yea. thats right. no idea whats going on.
 wordpress_id: 889
 wordpress_url: http://new.nata2.org/?p=889
 ---

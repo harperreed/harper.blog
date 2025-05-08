@@ -12,6 +12,7 @@ tags:
 - accidents
 - workplace
 title: yea. it is true
+translationKey: yea. it is true
 wordpress_id: 760
 wordpress_url: http://new.nata2.org/?p=760
 ---

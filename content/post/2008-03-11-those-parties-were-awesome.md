@@ -7,6 +7,7 @@ tags:
 - travel
 - events
 title: Those parties were awesome!
+translationKey: Those parties were awesome!
 wordpress_id: 1513
 wordpress_url: http://www.nata2.org/2008/03/11/those-parties-were-awesome/
 ---

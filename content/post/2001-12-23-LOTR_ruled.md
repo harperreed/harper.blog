@@ -12,6 +12,7 @@ tags:
 - entertainment
 - cinematography
 title: LOTR ruled
+translationKey: LOTR ruled
 wordpress_id: 152
 wordpress_url: http://new.nata2.org/?p=152
 ---

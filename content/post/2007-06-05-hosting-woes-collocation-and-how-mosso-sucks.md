@@ -7,6 +7,7 @@ tags:
 - rackspace
 - cloud-computing
 title: Hosting woes. Collocation and how Mosso sucks
+translationKey: Hosting woes. Collocation and how Mosso sucks
 wordpress_id: 1453
 wordpress_url: http://www.nata2.org/2007/06/05/hosting-woes-collocation-and-how-mosso-sucks/
 ---

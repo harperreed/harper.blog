@@ -7,6 +7,7 @@ tags:
 - technology-in-developing-countries
 - simple-devices
 title: 'I love phones designed for developing countries. '
+translationKey: 'I love phones designed for developing countries. '
 wordpress_id: 1661
 wordpress_url: http://www.nata2.org/?p=1661
 ---

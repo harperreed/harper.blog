@@ -12,6 +12,7 @@ tags:
 - chicago
 - cell-phones
 title: trash and my ruleness absolute.
+translationKey: trash and my ruleness absolute.
 wordpress_id: 727
 wordpress_url: http://new.nata2.org/?p=727
 ---

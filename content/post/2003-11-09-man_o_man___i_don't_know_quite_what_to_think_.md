@@ -12,6 +12,7 @@ tags:
 - money-management
 - small-business
 title: man o man.. i don't know quite what to think.
+translationKey: man o man.. i don't know quite what to think.
 wordpress_id: 670
 wordpress_url: http://new.nata2.org/?p=670
 ---

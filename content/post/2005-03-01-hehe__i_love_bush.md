@@ -9,6 +9,7 @@ tags:
 - technology
 - gaming
 title: hehe. i love bush
+translationKey: hehe. i love bush
 wordpress_id: 999
 wordpress_url: http://new.nata2.org/?p=999
 ---

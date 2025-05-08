@@ -7,6 +7,7 @@ tags:
 - technology
 - software
 title: 'Goddamn Joel on software''s new google search appliance. '
+translationKey: 'Goddamn Joel on software''s new google search appliance. '
 wordpress_id: 1315
 wordpress_url: http://www.nata2.org/2006/07/31/goddamn-joel-on-softwares-new-google-search-appliance/
 ---

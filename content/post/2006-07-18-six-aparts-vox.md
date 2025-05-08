@@ -8,6 +8,8 @@ tags:
 - user-experience
 title: 'Six Apart''s Vox - nice work.. good aggregation... but i don''t want another
   blog. '
+translationKey: 'Six Apart''s Vox - nice work.. good aggregation... but i don''t want
+  another blog. '
 wordpress_id: 1308
 wordpress_url: http://www.nata2.org/2006/07/18/six-aparts-vox/
 ---

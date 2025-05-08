@@ -10,6 +10,7 @@ tags:
 - bar
 - fun
 title: Halloween tonight?
+translationKey: Halloween tonight?
 wordpress_id: 386
 wordpress_url: http://new.nata2.org/?p=386
 ---

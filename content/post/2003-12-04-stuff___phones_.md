@@ -11,6 +11,7 @@ tags:
 - projects
 - housework
 title: stuff.. phones.
+translationKey: stuff.. phones.
 wordpress_id: 686
 wordpress_url: http://new.nata2.org/?p=686
 ---

@@ -12,6 +12,7 @@ tags:
 - friendship
 - spider-man
 title: spidey shoes
+translationKey: spidey shoes
 wordpress_id: 274
 wordpress_url: http://new.nata2.org/?p=274
 ---

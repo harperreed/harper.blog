@@ -7,6 +7,7 @@ tags:
 - aviation
 - chat
 title: Technology is pretty dope. IRC on a plane.
+translationKey: Technology is pretty dope. IRC on a plane.
 wordpress_id: 1400
 wordpress_url: http://www.nata2.org/2006/12/24/technology-is-pretty-dope-irc-on-a-plane/
 ---

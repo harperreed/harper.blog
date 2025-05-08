@@ -7,6 +7,7 @@ tags:
 - festivals
 - community
 title: I made a google calendar shared calendar of juggling festivals
+translationKey: I made a google calendar shared calendar of juggling festivals
 wordpress_id: 1257
 wordpress_url: http://www.nata2.org/2006/05/04/i-made-a-google-calendar-shared-calendar-of-juggling-festivals/
 ---

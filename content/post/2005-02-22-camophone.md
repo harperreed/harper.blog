@@ -9,6 +9,7 @@ tags:
 - communication
 - security
 title: camophone
+translationKey: camophone
 wordpress_id: 998
 wordpress_url: http://new.nata2.org/?p=998
 ---

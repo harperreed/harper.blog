@@ -7,6 +7,7 @@ tags:
 - family
 - personal-experience
 title: Sometimes blogs are sad
+translationKey: Sometimes blogs are sad
 wordpress_id: 1391
 wordpress_url: http://www.nata2.org/2006/12/03/sometimes-blogs-are-sad/
 ---

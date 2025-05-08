@@ -7,6 +7,7 @@ tags:
 - accessibility
 - senior-tech
 title: Linux distribution for older folks.
+translationKey: Linux distribution for older folks.
 wordpress_id: 1392
 wordpress_url: http://www.nata2.org/2006/12/05/linux-distribution-for-older-folks/
 ---

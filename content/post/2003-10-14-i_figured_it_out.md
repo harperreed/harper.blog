@@ -9,6 +9,7 @@ tags:
 - child-development
 - social-issues
 title: i figured it out
+translationKey: i figured it out
 wordpress_id: 643
 wordpress_url: http://new.nata2.org/?p=643
 ---

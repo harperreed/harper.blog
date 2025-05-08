@@ -9,6 +9,7 @@ tags:
 - middle-east
 - technology
 title: A simulation..
+translationKey: A simulation..
 wordpress_id: 432
 wordpress_url: http://new.nata2.org/?p=432
 ---

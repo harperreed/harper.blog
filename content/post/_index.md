@@ -1,15 +1,16 @@
 ---
 description: All posts from harper.blog
-lastmod: "2017-12-04"
+lastmod: '2017-12-04'
 menu:
-    footer:
-        name: Posts
-        weight: 2
-    main:
-        name: Posts
-        weight: 2
+  footer:
+    name: Posts
+    weight: 2
+  main:
+    name: Posts
+    weight: 2
 nofeed: true
 title: Posts
+translationKey: Posts
 url: /posts
 ---
 

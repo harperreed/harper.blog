@@ -9,6 +9,7 @@ tags:
 - health
 - lifestyle
 title: Lots of pictures and a crazy face
+translationKey: Lots of pictures and a crazy face
 wordpress_id: 202
 wordpress_url: http://new.nata2.org/?p=202
 ---

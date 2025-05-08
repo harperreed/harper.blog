@@ -11,6 +11,7 @@ tags:
 - personal-reflection
 - shuffle-play
 title: king diamond rules.
+translationKey: king diamond rules.
 wordpress_id: 601
 wordpress_url: http://new.nata2.org/?p=601
 ---

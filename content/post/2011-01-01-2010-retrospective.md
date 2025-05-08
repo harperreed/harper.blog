@@ -7,6 +7,7 @@ tags:
 - travel
 - cloud-computing
 title: 2010 Retrospective
+translationKey: 2010 Retrospective
 ---
 
 2010 was a great year. I rarely write these retrospectives (only [2008](http://www.nata2.org/2009/01/04/2008-retrospectiv/) I think), but i think about writing them every year. It is so cheesey, but also a fun exercise in memory and retrospection. 

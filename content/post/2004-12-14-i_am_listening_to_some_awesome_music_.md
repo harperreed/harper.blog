@@ -12,6 +12,7 @@ tags:
 - graphics
 - shuffle
 title: i am listening to some awesome music.
+translationKey: i am listening to some awesome music.
 wordpress_id: 972
 wordpress_url: http://new.nata2.org/?p=972
 ---

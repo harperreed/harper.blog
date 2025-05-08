@@ -7,6 +7,7 @@ tags:
 - airlines
 - memories
 title: kinda bummed
+translationKey: kinda bummed
 wordpress_id: 1112
 wordpress_url: http://www.nata2.org/2005/08/13/kinda-bummed-2/
 ---

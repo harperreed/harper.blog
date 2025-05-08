@@ -10,6 +10,7 @@ tags:
 - browsers
 - innovation
 title: The new new AI tools
+translationKey: The new new AI tools
 ---
 
 Back in the 2000s, we were all excited about new rock and roll, electro, and the scene and music coming out of nyc. some friends put together a party called the new new. The party was a great time (well, until I got kicked out for acting a fool lol). Specifically meant to feature all the wild new vibes that were coming down the pike.

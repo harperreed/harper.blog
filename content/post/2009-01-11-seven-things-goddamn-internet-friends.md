@@ -7,6 +7,7 @@ tags:
 - personal-stories
 - self-reflection
 title: Seven Things (goddamn internet friends)
+translationKey: Seven Things (goddamn internet friends)
 wordpress_id: 1601
 wordpress_url: http://www.nata2.org/2009/01/11/seven-things-goddamn-internet-friends/
 ---

@@ -12,6 +12,7 @@ tags:
 - comedy
 - funny-stories
 title: sometimes...
+translationKey: sometimes...
 wordpress_id: 140
 wordpress_url: http://new.nata2.org/?p=140
 ---

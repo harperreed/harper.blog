@@ -7,6 +7,7 @@ tags:
 - activism
 - campaign
 title: 'Obama: yes we can'
+translationKey: 'Obama: yes we can'
 wordpress_id: 1506
 wordpress_url: http://www.nata2.org/2008/02/04/obama-yes-we-can/
 ---

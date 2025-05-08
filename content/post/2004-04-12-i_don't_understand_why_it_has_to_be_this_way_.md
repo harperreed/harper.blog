@@ -7,6 +7,7 @@ tags:
 - technology
 - software
 title: i don't understand why it has to be this way.
+translationKey: i don't understand why it has to be this way.
 wordpress_id: 814
 wordpress_url: http://new.nata2.org/?p=814
 ---

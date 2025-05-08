@@ -11,6 +11,7 @@ tags:
 - friends
 - music
 title: apparently i am teh r0x0r
+translationKey: apparently i am teh r0x0r
 wordpress_id: 732
 wordpress_url: http://new.nata2.org/?p=732
 ---

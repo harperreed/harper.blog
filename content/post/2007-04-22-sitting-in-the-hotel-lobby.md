@@ -7,6 +7,7 @@ tags:
 - conference
 - cloud-computing
 title: Sitting in the hotel lobby...
+translationKey: Sitting in the hotel lobby...
 wordpress_id: 1437
 wordpress_url: http://www.nata2.org/2007/04/22/sitting-in-the-hotel-lobby/
 ---

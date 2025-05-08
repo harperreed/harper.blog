@@ -10,6 +10,7 @@ tags:
 - lifestyle
 - friends
 title: supersize
+translationKey: supersize
 wordpress_id: 881
 wordpress_url: http://new.nata2.org/?p=881
 ---

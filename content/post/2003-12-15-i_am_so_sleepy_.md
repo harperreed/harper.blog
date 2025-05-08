@@ -9,6 +9,7 @@ tags:
 - wifi
 - flight
 title: i am so sleepy.
+translationKey: i am so sleepy.
 wordpress_id: 700
 wordpress_url: http://new.nata2.org/?p=700
 ---

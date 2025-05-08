@@ -14,6 +14,7 @@ tags:
 - humor
 - bikes
 title: today was pretty fun
+translationKey: today was pretty fun
 wordpress_id: 874
 wordpress_url: http://new.nata2.org/?p=874
 ---

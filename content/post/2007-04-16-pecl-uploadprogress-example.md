@@ -7,6 +7,7 @@ tags:
 - asynchronous
 - pecl
 title: PECL Uploadprogress example
+translationKey: PECL Uploadprogress example
 wordpress_id: 1434
 wordpress_url: http://www.nata2.org/2007/04/16/pecl-uploadprogress-example/
 ---

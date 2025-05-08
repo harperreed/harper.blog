@@ -12,6 +12,7 @@ tags:
 - consulting
 - company-benefits
 title: Two things
+translationKey: Two things
 wordpress_id: 110
 wordpress_url: http://new.nata2.org/?p=110
 ---

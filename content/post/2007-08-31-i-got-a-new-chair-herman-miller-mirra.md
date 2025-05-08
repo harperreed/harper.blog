@@ -7,6 +7,7 @@ tags:
 - health
 - product-reviews
 title: 'I got a new chair: Herman Miller Mirra'
+translationKey: 'I got a new chair: Herman Miller Mirra'
 wordpress_id: 1473
 wordpress_url: http://www.nata2.org/2007/08/31/i-got-a-new-chair-herman-miller-mirra/
 ---

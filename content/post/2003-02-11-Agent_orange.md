@@ -12,6 +12,7 @@ tags:
 - history
 - conspiracy
 title: Agent orange
+translationKey: Agent orange
 wordpress_id: 445
 wordpress_url: http://new.nata2.org/?p=445
 ---

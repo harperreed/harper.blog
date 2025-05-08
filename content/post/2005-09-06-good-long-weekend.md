@@ -7,6 +7,7 @@ tags:
 - parties
 - psp
 title: 'good long weekend. '
+translationKey: 'good long weekend. '
 wordpress_id: 1125
 wordpress_url: http://www.nata2.org/?p=1125
 ---

@@ -7,6 +7,7 @@ tags:
 - performance
 - applications
 title: What happens when open source needs a closed source solution?
+translationKey: What happens when open source needs a closed source solution?
 wordpress_id: 1322
 wordpress_url: http://www.nata2.org/2006/08/14/what-happens-when-open-source-needs-a-closed-source-solution/
 ---

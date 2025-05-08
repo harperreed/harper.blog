@@ -7,6 +7,7 @@ tags:
 - performances
 - friends
 title: Relaxing weekend
+translationKey: Relaxing weekend
 wordpress_id: 1368
 wordpress_url: http://www.nata2.org/2006/10/15/relaxing-weekend/
 ---

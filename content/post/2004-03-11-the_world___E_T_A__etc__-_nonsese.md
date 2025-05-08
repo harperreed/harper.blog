@@ -11,6 +11,7 @@ tags:
 - politics
 - blogs
 title: the world.. E.T.A. etc. - nonsese
+translationKey: the world.. E.T.A. etc. - nonsese
 wordpress_id: 775
 wordpress_url: http://new.nata2.org/?p=775
 ---

@@ -11,6 +11,7 @@ tags:
 - movies
 - html
 title: yea. a different color altogether. Wedding Story
+translationKey: yea. a different color altogether. Wedding Story
 wordpress_id: 929
 wordpress_url: http://new.nata2.org/?p=929
 ---

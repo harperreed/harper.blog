@@ -8,6 +8,7 @@ tags:
 - office-culture
 - communication
 title: work rules
+translationKey: work rules
 wordpress_id: 563
 wordpress_url: http://new.nata2.org/?p=563
 ---

@@ -11,6 +11,7 @@ tags:
 - blogging
 - personal-reflection
 title: this morning.
+translationKey: this morning.
 wordpress_id: 762
 wordpress_url: http://new.nata2.org/?p=762
 ---

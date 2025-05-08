@@ -12,6 +12,7 @@ tags:
 - humor
 - punk-rock
 title: rock and roll star
+translationKey: rock and roll star
 wordpress_id: 284
 wordpress_url: http://new.nata2.org/?p=284
 ---

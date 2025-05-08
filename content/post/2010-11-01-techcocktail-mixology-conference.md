@@ -7,6 +7,7 @@ tags:
 - technology
 - problem-solving
 title: The Tech Cocktail Startup Mixology Conference
+translationKey: The Tech Cocktail Startup Mixology Conference
 ---
 
 On October 28th, I had the pleasure of speaking at the Tech Cocktail Startup Mixology Conference. It was a fun quick conference with a set of amazing speakers. 

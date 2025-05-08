@@ -11,6 +11,7 @@ tags:
 - online-communities
 - social-issues
 title: omg. sometimes people are really dumb..
+translationKey: omg. sometimes people are really dumb..
 wordpress_id: 756
 wordpress_url: http://new.nata2.org/?p=756
 ---

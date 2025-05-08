@@ -12,6 +12,7 @@ tags:
 - sushi
 - health
 title: umm yea.. i should eat..
+translationKey: umm yea.. i should eat..
 wordpress_id: 640
 wordpress_url: http://new.nata2.org/?p=640
 ---

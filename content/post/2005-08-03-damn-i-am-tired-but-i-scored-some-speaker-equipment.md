@@ -7,6 +7,7 @@ tags:
 - hobbies
 - repair
 title: 'damn i am tired. but i scored some speaker equipment. '
+translationKey: 'damn i am tired. but i scored some speaker equipment. '
 wordpress_id: 1104
 wordpress_url: http://www.nata2.org/?p=1104
 ---

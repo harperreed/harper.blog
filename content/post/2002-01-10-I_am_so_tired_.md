@@ -12,6 +12,7 @@ tags:
 - servers
 - computers
 title: I am so tired.
+translationKey: I am so tired.
 wordpress_id: 174
 wordpress_url: http://new.nata2.org/?p=174
 ---

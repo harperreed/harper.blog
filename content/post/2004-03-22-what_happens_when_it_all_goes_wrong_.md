@@ -12,6 +12,7 @@ tags:
 - emotions
 - self-care
 title: what happens when it all goes wrong.
+translationKey: what happens when it all goes wrong.
 wordpress_id: 783
 wordpress_url: http://new.nata2.org/?p=783
 ---

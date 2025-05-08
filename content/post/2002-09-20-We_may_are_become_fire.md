@@ -10,6 +10,7 @@ tags:
 - us-politics
 - bush-administration
 title: We may are become fire
+translationKey: We may are become fire
 wordpress_id: 361
 wordpress_url: http://new.nata2.org/?p=361
 ---

@@ -12,6 +12,7 @@ tags:
 - night-out
 - nostalgia
 title: youth of today
+translationKey: youth of today
 wordpress_id: 311
 wordpress_url: http://new.nata2.org/?p=311
 ---

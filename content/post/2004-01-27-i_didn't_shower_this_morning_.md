@@ -12,6 +12,7 @@ tags:
 - experiment
 - lifestyle
 title: i didn't shower this morning.
+translationKey: i didn't shower this morning.
 wordpress_id: 737
 wordpress_url: http://new.nata2.org/?p=737
 ---

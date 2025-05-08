@@ -11,6 +11,7 @@ tags:
 - chicago
 - hacking
 title: theis weekend i slept
+translationKey: theis weekend i slept
 wordpress_id: 371
 wordpress_url: http://new.nata2.org/?p=371
 ---

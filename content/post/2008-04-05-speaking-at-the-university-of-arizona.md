@@ -7,6 +7,7 @@ tags:
 - social-media
 - conference
 title: Speaking at the University of Arizona
+translationKey: Speaking at the University of Arizona
 wordpress_id: 1515
 wordpress_url: http://www.nata2.org/2008/04/05/speaking-at-the-university-of-arizona/
 ---

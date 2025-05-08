@@ -11,6 +11,7 @@ tags:
 - comedy
 - illusions
 title: david copperfield
+translationKey: david copperfield
 wordpress_id: 228
 wordpress_url: http://new.nata2.org/?p=228
 ---

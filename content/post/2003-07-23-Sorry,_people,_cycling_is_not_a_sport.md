@@ -10,6 +10,7 @@ tags:
 - iraq
 - military
 title: Sorry, people, cycling is not a sport
+translationKey: Sorry, people, cycling is not a sport
 wordpress_id: 575
 wordpress_url: http://new.nata2.org/?p=575
 ---

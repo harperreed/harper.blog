@@ -7,6 +7,7 @@ tags:
 - juggling
 - entertainment
 title: spiders are apparently good luck
+translationKey: spiders are apparently good luck
 wordpress_id: 1321
 wordpress_url: http://www.nata2.org/2006/08/13/spiders-are-apparently-good-luck/
 ---

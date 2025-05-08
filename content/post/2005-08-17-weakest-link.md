@@ -7,6 +7,7 @@ tags:
 - projects
 - funny
 title: Weakest link
+translationKey: Weakest link
 wordpress_id: 1113
 wordpress_url: http://www.nata2.org/2005/08/17/weakest-link/
 ---

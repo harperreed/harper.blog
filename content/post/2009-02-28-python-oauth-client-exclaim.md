@@ -6,6 +6,7 @@ tags:
 - technology
 - authentication
 title: Python Oauth Client - Excla.im
+translationKey: Python Oauth Client - Excla.im
 wordpress_id: 1606
 wordpress_url: http://www.nata2.org/?p=1606
 ---

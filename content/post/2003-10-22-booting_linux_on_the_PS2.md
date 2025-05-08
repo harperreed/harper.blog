@@ -13,6 +13,7 @@ tags:
 - tivo-hacking
 - gaming
 title: booting linux on the PS2
+translationKey: booting linux on the PS2
 wordpress_id: 653
 wordpress_url: http://new.nata2.org/?p=653
 ---

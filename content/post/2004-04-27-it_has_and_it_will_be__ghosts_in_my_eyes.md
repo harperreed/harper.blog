@@ -12,6 +12,7 @@ tags:
 - humor
 - music
 title: it has and it will be. ghosts in my eyes
+translationKey: it has and it will be. ghosts in my eyes
 wordpress_id: 829
 wordpress_url: http://new.nata2.org/?p=829
 ---

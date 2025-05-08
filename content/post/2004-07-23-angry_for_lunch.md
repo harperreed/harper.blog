@@ -11,6 +11,7 @@ tags:
 - social
 - technology
 title: angry for lunch
+translationKey: angry for lunch
 wordpress_id: 905
 wordpress_url: http://new.nata2.org/?p=905
 ---

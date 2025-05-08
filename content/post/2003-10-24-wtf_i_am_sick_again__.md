@@ -12,6 +12,7 @@ tags:
 - technology
 - website-launch
 title: wtf i am sick again..
+translationKey: wtf i am sick again..
 wordpress_id: 655
 wordpress_url: http://new.nata2.org/?p=655
 ---

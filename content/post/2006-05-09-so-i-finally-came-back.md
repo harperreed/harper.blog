@@ -7,6 +7,7 @@ tags:
 - video
 - bluegrass
 title: 'So i finally came back. '
+translationKey: 'So i finally came back. '
 wordpress_id: 1261
 wordpress_url: http://www.nata2.org/2006/05/09/so-i-finally-came-back/
 ---

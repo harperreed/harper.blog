@@ -1,17 +1,20 @@
 ---
 date: 2025-04-17 09:00:00-05:00
-title: An LLM Codegen Hero's Journey
-description: A comprehensive guide detailing the evolution of using AI-assisted software development, from basic code completion to fully autonomous coding agents, with practical steps and insights for maximizing productivity through LLM integration.
+description: A comprehensive guide detailing the evolution of using AI-assisted software
+  development, from basic code completion to fully autonomous coding agents, with
+  practical steps and insights for maximizing productivity through LLM integration.
 draft: false
 generateSocialImage: true
 tags:
-    - llm
-    - coding
-    - artificial-intelligence
-    - development-workflow
-    - software-engineering
-    - developer-productivity
-    - boomers
+- llm
+- coding
+- artificial-intelligence
+- development-workflow
+- software-engineering
+- developer-productivity
+- boomers
+title: An LLM Codegen Hero's Journey
+translationKey: An LLM Codegen Hero's Journey
 ---
 
 I have spent a lot of time since my [blog post](/2025/02/16/my-llm-codegen-workflow-atm/) about my LLM workflow talking to folks about codegen and how to get started, get better, and why it is interesting.

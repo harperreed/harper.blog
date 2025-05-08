@@ -11,6 +11,7 @@ tags:
 - peace
 - nuclear-issues
 title: Clearly Americans must prevent George W. Bush's attack on Iraq.
+translationKey: Clearly Americans must prevent George W. Bush's attack on Iraq.
 wordpress_id: 323
 wordpress_url: http://new.nata2.org/?p=323
 ---

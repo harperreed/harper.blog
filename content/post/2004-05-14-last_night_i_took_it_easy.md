@@ -12,6 +12,7 @@ tags:
 - fashion
 - entertainment
 title: last night i took it easy
+translationKey: last night i took it easy
 wordpress_id: 860
 wordpress_url: http://new.nata2.org/?p=860
 ---

@@ -11,6 +11,7 @@ tags:
 - the-roots
 - acoustics
 title: outkast.. the roots..
+translationKey: outkast.. the roots..
 wordpress_id: 327
 wordpress_url: http://new.nata2.org/?p=327
 ---

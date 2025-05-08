@@ -10,6 +10,7 @@ tags:
 - scooters
 - love
 title: keel yer idles
+translationKey: keel yer idles
 wordpress_id: 576
 wordpress_url: http://new.nata2.org/?p=576
 ---

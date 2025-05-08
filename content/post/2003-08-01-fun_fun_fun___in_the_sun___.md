@@ -10,6 +10,7 @@ tags:
 - friendship
 - relaxation
 title: fun fun fun.. in the sun...
+translationKey: fun fun fun.. in the sun...
 wordpress_id: 585
 wordpress_url: http://new.nata2.org/?p=585
 ---

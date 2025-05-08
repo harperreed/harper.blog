@@ -1,18 +1,18 @@
 ---
 date: 2024-03-26 09:00:00-05:00
-description:
-    I used sensors and an LLM to make my office talk. We used this to generate
-    a humorous LLM-generated commentary - creating an interactive, profanity and personality-infused
-    office space.
+description: I used sensors and an LLM to make my office talk. We used this to generate
+  a humorous LLM-generated commentary - creating an interactive, profanity and personality-infused
+  office space.
 draft: false
 generateSocialImage: true
 tags:
-    - office-automation
-    - sensors
-    - llm
-    - home-assistant
-    - technology
-title: "Our Office Avatar pt 1: The office is talking shit again"
+- office-automation
+- sensors
+- llm
+- home-assistant
+- technology
+title: 'Our Office Avatar pt 1: The office is talking shit again'
+translationKey: 'Our Office Avatar pt 1: The office is talking shit again'
 ---
 
 **tl;dr:** _I use a bunch of sensors, and an LLM to make my office talk to us about what’s going on in the office. This is a long post, but should be pretty straight forward. Generally, this is a good demonstration of how I have been using LLMs in my real life._

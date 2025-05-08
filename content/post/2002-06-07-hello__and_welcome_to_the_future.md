@@ -11,6 +11,7 @@ tags:
 - culture
 - lifestyle
 title: hello. and welcome to the future
+translationKey: hello. and welcome to the future
 wordpress_id: 290
 wordpress_url: http://new.nata2.org/?p=290
 ---

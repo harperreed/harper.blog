@@ -9,6 +9,7 @@ tags:
 - nightlife
 - friends
 title: happy new years!!
+translationKey: happy new years!!
 wordpress_id: 710
 wordpress_url: http://new.nata2.org/?p=710
 ---

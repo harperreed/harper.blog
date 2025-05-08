@@ -7,6 +7,7 @@ tags:
 - software-list
 - technology
 title: S60 3rd edition app list
+translationKey: S60 3rd edition app list
 wordpress_id: 1244
 wordpress_url: http://www.nata2.org/s60-3rd-edition-app-list/
 ---

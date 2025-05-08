@@ -7,6 +7,7 @@ tags:
 - literature
 - critical-thinking
 title: The future as told by books
+translationKey: The future as told by books
 ---
 
 I read a lot of books. I read because it inspires me and shows me paths that I could never imagine. Sometimes those paths are horrible and sad and sometimes they are hopeful and amazing. Not always are they paths to the future and sometimes the paths are actually about the past, but make sense when applied to the future. **Books are amazing.**

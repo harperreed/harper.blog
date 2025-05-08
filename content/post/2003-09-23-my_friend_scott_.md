@@ -10,6 +10,7 @@ tags:
 - social-issues
 - climate-change
 title: my friend scott.
+translationKey: my friend scott.
 wordpress_id: 624
 wordpress_url: http://new.nata2.org/?p=624
 ---

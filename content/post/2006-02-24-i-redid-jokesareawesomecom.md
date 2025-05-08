@@ -5,6 +5,7 @@ tags:
 - personal-projects
 - content-creation
 title: I redid jokesareawesome.com
+translationKey: I redid jokesareawesome.com
 wordpress_id: 1219
 wordpress_url: http://www.nata2.org/2006/02/24/i-redid-jokesareawesomecom/
 ---

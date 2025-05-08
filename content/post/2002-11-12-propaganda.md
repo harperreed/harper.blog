@@ -9,6 +9,7 @@ tags:
 - video
 - broox
 title: propaganda
+translationKey: propaganda
 wordpress_id: 395
 wordpress_url: http://new.nata2.org/?p=395
 ---

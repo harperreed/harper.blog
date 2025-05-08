@@ -12,6 +12,7 @@ tags:
 - friends
 - apocalypse
 title: meanwhile
+translationKey: meanwhile
 wordpress_id: 294
 wordpress_url: http://new.nata2.org/?p=294
 ---

@@ -12,6 +12,7 @@ tags:
 - fear
 - psychological-thriller
 title: Frolic in brine, goblins be thine..
+translationKey: Frolic in brine, goblins be thine..
 wordpress_id: 462
 wordpress_url: http://new.nata2.org/?p=462
 ---

@@ -7,6 +7,7 @@ tags:
 - personal-reflection
 - reading-habits
 title: 'last night. '
+translationKey: 'last night. '
 wordpress_id: 1202
 wordpress_url: http://www.nata2.org/2006/01/29/last-night/
 ---

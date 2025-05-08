@@ -9,6 +9,7 @@ tags:
 - entertainment
 - boredom
 title: so yea. happy holidays
+translationKey: so yea. happy holidays
 wordpress_id: 965
 wordpress_url: http://new.nata2.org/?p=965
 ---

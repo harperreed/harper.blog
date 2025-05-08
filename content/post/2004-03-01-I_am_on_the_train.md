@@ -8,6 +8,7 @@ tags:
 - life
 - humor
 title: I am on the train
+translationKey: I am on the train
 wordpress_id: 765
 wordpress_url: http://new.nata2.org/?p=765
 ---

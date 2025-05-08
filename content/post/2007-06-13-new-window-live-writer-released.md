@@ -7,6 +7,7 @@ tags:
 - software
 - editors
 title: New Window Live  Writer released
+translationKey: New Window Live  Writer released
 wordpress_id: 1457
 wordpress_url: http://www.nata2.org/2007/06/13/new-window-live-writer-released/
 ---

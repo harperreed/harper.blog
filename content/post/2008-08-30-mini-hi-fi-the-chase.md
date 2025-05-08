@@ -7,6 +7,7 @@ tags:
 - sound-system
 - amplifier
 title: 'Mini Hi Fi: The Chase'
+translationKey: 'Mini Hi Fi: The Chase'
 wordpress_id: 1546
 wordpress_url: http://www.nata2.org/?p=1546
 ---

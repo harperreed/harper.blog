@@ -12,6 +12,7 @@ tags:
 - violence
 - human-behavior
 title: ' Subduction'
+translationKey: ' Subduction'
 wordpress_id: 4
 wordpress_url: http://new.nata2.org/?p=4
 ---

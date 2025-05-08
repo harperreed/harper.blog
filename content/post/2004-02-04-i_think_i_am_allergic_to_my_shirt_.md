@@ -12,6 +12,7 @@ tags:
 - crafts
 - humor
 title: i think i am allergic to my shirt.
+translationKey: i think i am allergic to my shirt.
 wordpress_id: 745
 wordpress_url: http://new.nata2.org/?p=745
 ---

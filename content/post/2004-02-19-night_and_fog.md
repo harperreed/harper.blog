@@ -12,6 +12,7 @@ tags:
 - world-war-ii
 - personal-reflection
 title: night and fog
+translationKey: night and fog
 wordpress_id: 757
 wordpress_url: http://new.nata2.org/?p=757
 ---

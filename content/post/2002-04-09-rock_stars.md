@@ -11,6 +11,7 @@ tags:
 - music-culture
 - underground-music
 title: rock stars
+translationKey: rock stars
 wordpress_id: 254
 wordpress_url: http://new.nata2.org/?p=254
 ---

@@ -12,6 +12,7 @@ tags:
 - food
 - friends
 title: i am amazed
+translationKey: i am amazed
 wordpress_id: 547
 wordpress_url: http://new.nata2.org/?p=547
 ---

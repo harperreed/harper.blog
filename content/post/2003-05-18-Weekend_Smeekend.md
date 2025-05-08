@@ -12,6 +12,7 @@ tags:
 - phones
 - entertainment
 title: Weekend Smeekend
+translationKey: Weekend Smeekend
 wordpress_id: 512
 wordpress_url: http://new.nata2.org/?p=512
 ---

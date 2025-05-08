@@ -12,6 +12,7 @@ tags:
 - philosophy
 - friendster
 title: online communities
+translationKey: online communities
 wordpress_id: 603
 wordpress_url: http://new.nata2.org/?p=603
 ---

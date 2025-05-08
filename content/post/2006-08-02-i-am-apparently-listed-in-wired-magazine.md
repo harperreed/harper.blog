@@ -7,6 +7,7 @@ tags:
 - wired
 - internet-culture
 title: 'I am apparently listed in wired magazine. '
+translationKey: 'I am apparently listed in wired magazine. '
 wordpress_id: 1317
 wordpress_url: http://www.nata2.org/2006/08/02/i-am-apparently-listed-in-wired-magazine/
 ---

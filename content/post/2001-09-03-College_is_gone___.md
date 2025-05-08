@@ -12,6 +12,7 @@ tags:
 - growth
 - college-life
 title: College is gone...
+translationKey: College is gone...
 wordpress_id: 98
 wordpress_url: http://new.nata2.org/?p=98
 ---

@@ -12,6 +12,7 @@ tags:
 - health-issues
 - self-reflection
 title: Last night i was resurrected.
+translationKey: Last night i was resurrected.
 wordpress_id: 669
 wordpress_url: http://new.nata2.org/?p=669
 ---

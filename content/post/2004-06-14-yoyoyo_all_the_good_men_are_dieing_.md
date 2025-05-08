@@ -9,6 +9,7 @@ tags:
 - technology
 - death
 title: yoyoyo all the good men are dieing.
+translationKey: yoyoyo all the good men are dieing.
 wordpress_id: 883
 wordpress_url: http://new.nata2.org/?p=883
 ---

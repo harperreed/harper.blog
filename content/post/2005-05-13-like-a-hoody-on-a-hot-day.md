@@ -7,6 +7,7 @@ tags:
 - yoyos
 - fashion
 title: like a hoody on a hot day
+translationKey: like a hoody on a hot day
 wordpress_id: 1061
 wordpress_url: http://www.nata2.org/2005/05/13/like-a-hoody-on-a-hot-day/
 ---

@@ -8,6 +8,7 @@ tags:
 - automobiles
 - commuting
 title: driving in a car
+translationKey: driving in a car
 wordpress_id: 407
 wordpress_url: http://new.nata2.org/?p=407
 ---

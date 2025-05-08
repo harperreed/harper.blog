@@ -12,6 +12,7 @@ tags:
 - cell-phone
 - travel
 title: good morning.. or not
+translationKey: good morning.. or not
 wordpress_id: 721
 wordpress_url: http://new.nata2.org/?p=721
 ---

@@ -7,6 +7,7 @@ tags:
 - telecommunications
 - business
 title: 'squidoo. work. asterisk is awesome. '
+translationKey: 'squidoo. work. asterisk is awesome. '
 wordpress_id: 1153
 wordpress_url: http://www.nata2.org/2005/12/08/squidoo-work-asterisk-is-awesome/
 ---

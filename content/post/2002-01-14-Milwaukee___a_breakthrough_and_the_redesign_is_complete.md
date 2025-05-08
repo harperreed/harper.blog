@@ -12,6 +12,7 @@ tags:
 - web-design
 - xhtml
 title: Milwaukee.. a breakthrough and the redesign is complete
+translationKey: Milwaukee.. a breakthrough and the redesign is complete
 wordpress_id: 177
 wordpress_url: http://new.nata2.org/?p=177
 ---

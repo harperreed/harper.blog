@@ -12,6 +12,7 @@ tags:
 - relationships
 - memories
 title: weekend is done. i am sad
+translationKey: weekend is done. i am sad
 wordpress_id: 375
 wordpress_url: http://new.nata2.org/?p=375
 ---

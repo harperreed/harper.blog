@@ -11,6 +11,7 @@ tags:
 - technology
 - gmail
 title: google is my favorite friend/evil entity
+translationKey: google is my favorite friend/evil entity
 wordpress_id: 990
 wordpress_url: http://new.nata2.org/?p=990
 ---

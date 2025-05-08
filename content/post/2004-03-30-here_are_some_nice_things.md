@@ -11,6 +11,7 @@ tags:
 - technology
 - humor
 title: here are some nice things
+translationKey: here are some nice things
 wordpress_id: 802
 wordpress_url: http://new.nata2.org/?p=802
 ---

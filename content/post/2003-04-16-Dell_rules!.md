@@ -12,6 +12,7 @@ tags:
 - delivery
 - computing
 title: Dell rules!
+translationKey: Dell rules!
 wordpress_id: 489
 wordpress_url: http://new.nata2.org/?p=489
 ---

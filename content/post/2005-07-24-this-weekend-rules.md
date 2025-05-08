@@ -7,6 +7,7 @@ tags:
 - music
 - chicago
 title: 'This weekend rules. '
+translationKey: 'This weekend rules. '
 wordpress_id: 1099
 wordpress_url: http://www.nata2.org/2005/07/24/this-weekend-rules/
 ---

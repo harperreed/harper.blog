@@ -7,6 +7,7 @@ tags:
 - cartoons
 - stoner
 title: Oh my god. I can see forever
+translationKey: Oh my god. I can see forever
 wordpress_id: 1312
 wordpress_url: http://www.nata2.org/2006/07/25/oh-my-god-i-can-see-forever/
 ---

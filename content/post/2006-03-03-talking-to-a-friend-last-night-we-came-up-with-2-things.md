@@ -7,6 +7,7 @@ tags:
 - culture
 - office-life
 title: Talking to a friend last night we came up with 2 things
+translationKey: Talking to a friend last night we came up with 2 things
 wordpress_id: 1228
 wordpress_url: http://www.nata2.org/2006/03/03/talking-to-a-friend-last-night-we-came-up-with-2-things/
 ---

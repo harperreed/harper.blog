@@ -14,6 +14,7 @@ tags:
 - photography
 - style
 title: Fashion pics
+translationKey: Fashion pics
 wordpress_id: 272
 wordpress_url: http://new.nata2.org/?p=272
 ---

@@ -7,6 +7,7 @@ tags:
 - security
 - chat
 title: Campfire bot framework v.2 released
+translationKey: Campfire bot framework v.2 released
 wordpress_id: 1214
 wordpress_url: http://www.nata2.org/2006/02/20/campfire-v2-released/
 ---

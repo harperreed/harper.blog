@@ -7,6 +7,7 @@ tags:
 - counterstrike
 - sleep-deprivation
 title: stupid sleep. i hate you!
+translationKey: stupid sleep. i hate you!
 wordpress_id: 1148
 wordpress_url: http://www.nata2.org/2005/11/07/stupid-sleep-i-hate-you/
 ---

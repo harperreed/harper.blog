@@ -7,6 +7,7 @@ tags:
 - shopping
 - weather
 title: today has been a lazy and rainy day.
+translationKey: today has been a lazy and rainy day.
 wordpress_id: 1331
 wordpress_url: http://www.nata2.org/2006/09/01/today-has-been-a-lazy-and-rainy-day/
 ---

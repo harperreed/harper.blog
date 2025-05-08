@@ -12,6 +12,7 @@ tags:
 - personal-stories
 - linux
 title: i am a good pilot
+translationKey: i am a good pilot
 wordpress_id: 583
 wordpress_url: http://new.nata2.org/?p=583
 ---

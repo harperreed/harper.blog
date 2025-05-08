@@ -12,6 +12,7 @@ tags:
 - sleep-deprivation
 - script-kiddies
 title: 'w00t: harper''s back. Back again.'
+translationKey: 'w00t: harper''s back. Back again.'
 wordpress_id: 615
 wordpress_url: http://new.nata2.org/?p=615
 ---

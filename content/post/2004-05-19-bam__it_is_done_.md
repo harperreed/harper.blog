@@ -11,6 +11,7 @@ tags:
 - culture
 - storytelling
 title: bam. it is done.
+translationKey: bam. it is done.
 wordpress_id: 867
 wordpress_url: http://new.nata2.org/?p=867
 ---

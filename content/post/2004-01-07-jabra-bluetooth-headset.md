@@ -7,6 +7,7 @@ tags:
 - technology
 - reviews
 title: Jabra bluetooth headset
+translationKey: Jabra bluetooth headset
 wordpress_id: 1169
 wordpress_url: http://www.nata2.org/2004/01/07/jabra-bluetooth-headset/
 ---

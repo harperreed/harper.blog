@@ -12,6 +12,7 @@ tags:
 - ipod
 - technology
 title: interesting milestones.
+translationKey: interesting milestones.
 wordpress_id: 967
 wordpress_url: http://new.nata2.org/?p=967
 ---

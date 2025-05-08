@@ -7,6 +7,7 @@ tags:
 - public-safety
 - urban-life
 title: lunch arrest
+translationKey: lunch arrest
 wordpress_id: 1022
 wordpress_url: http://www.nata2.org/2005/03/22/lunch-arrest/
 ---

@@ -19,6 +19,7 @@ tags:
 - mysql
 - system-administration
 title: Goddamn Hosting Providers
+translationKey: Goddamn Hosting Providers
 wordpress_id: 13
 wordpress_url: http://new.nata2.org/?p=13
 ---

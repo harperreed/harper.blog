@@ -12,6 +12,7 @@ tags:
 - friends
 - sushi
 title: i hate my new phone.
+translationKey: i hate my new phone.
 wordpress_id: 795
 wordpress_url: http://new.nata2.org/?p=795
 ---

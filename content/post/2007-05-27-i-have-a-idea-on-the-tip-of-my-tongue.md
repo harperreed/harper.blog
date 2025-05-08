@@ -7,6 +7,7 @@ tags:
 - innovation
 - brainstorming
 title: I have a idea on the tip of my tongue
+translationKey: I have a idea on the tip of my tongue
 wordpress_id: 1446
 wordpress_url: http://www.nata2.org/2007/05/27/i-have-a-idea-on-the-tip-of-my-tongue/
 ---

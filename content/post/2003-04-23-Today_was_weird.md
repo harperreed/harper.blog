@@ -12,6 +12,7 @@ tags:
 - emotions
 - city-events
 title: Today was weird
+translationKey: Today was weird
 wordpress_id: 494
 wordpress_url: http://new.nata2.org/?p=494
 ---

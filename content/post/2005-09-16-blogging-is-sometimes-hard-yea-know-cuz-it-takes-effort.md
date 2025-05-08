@@ -7,6 +7,7 @@ tags:
 - creativity
 - effort
 title: blogging is sometimes hard. yea know. cuz it takes effort
+translationKey: blogging is sometimes hard. yea know. cuz it takes effort
 wordpress_id: 1130
 wordpress_url: http://www.nata2.org/?p=1130
 ---

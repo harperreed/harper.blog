@@ -7,6 +7,7 @@ tags:
 - cable-tv
 - news
 title: Keith Olbermann is pretty awesome.
+translationKey: Keith Olbermann is pretty awesome.
 wordpress_id: 1355
 wordpress_url: http://www.nata2.org/2006/10/09/keith-olbermann-is-pretty-awesome/
 ---

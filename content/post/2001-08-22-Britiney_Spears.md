@@ -12,6 +12,7 @@ tags:
 - pop-culture
 - entertainment
 title: Britiney Spears
+translationKey: Britiney Spears
 wordpress_id: 92
 wordpress_url: http://new.nata2.org/?p=92
 ---

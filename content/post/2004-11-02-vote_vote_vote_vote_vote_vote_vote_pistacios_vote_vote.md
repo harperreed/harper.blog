@@ -14,6 +14,7 @@ tags:
 - weekend
 - hosting
 title: vote vote vote vote vote vote vote pistacios vote vote
+translationKey: vote vote vote vote vote vote vote pistacios vote vote
 wordpress_id: 953
 wordpress_url: http://new.nata2.org/?p=953
 ---

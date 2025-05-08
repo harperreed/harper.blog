@@ -7,6 +7,7 @@ tags:
 - data-sync
 - hacking
 title: Google Contact Manager Hacking
+translationKey: Google Contact Manager Hacking
 wordpress_id: 1489
 wordpress_url: http://www.nata2.org/2007/11/05/google-contact-manager-hacking-2/
 ---

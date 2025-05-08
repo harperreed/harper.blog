@@ -12,6 +12,7 @@ tags:
 - modern-art
 - historical-books
 title: chi town art
+translationKey: chi town art
 wordpress_id: 43
 wordpress_url: http://new.nata2.org/?p=43
 ---

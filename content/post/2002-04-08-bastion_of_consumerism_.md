@@ -12,6 +12,7 @@ tags:
 - clubs
 - entertainment
 title: bastion of consumerism.
+translationKey: bastion of consumerism.
 wordpress_id: 253
 wordpress_url: http://new.nata2.org/?p=253
 ---

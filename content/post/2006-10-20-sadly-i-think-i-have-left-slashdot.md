@@ -7,6 +7,7 @@ tags:
 - web
 - internet
 title: Sadly I think I have left slashdot...
+translationKey: Sadly I think I have left slashdot...
 wordpress_id: 1373
 wordpress_url: http://www.nata2.org/2006/10/20/sadly-i-think-i-have-left-slashdot/
 ---

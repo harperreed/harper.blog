@@ -6,6 +6,7 @@ tags:
 - programming
 - user-experience
 title: 'ajaxed up on ruby on rails. seriously this time. '
+translationKey: 'ajaxed up on ruby on rails. seriously this time. '
 wordpress_id: 1050
 wordpress_url: http://www.nata2.org/2005/04/30/ajaxed-up-on-ruby-on-rails-seriously-this-time/
 ---

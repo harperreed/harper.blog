@@ -6,6 +6,7 @@ tags:
 - gae
 - cloud-computing
 title: 'OMG FREE HOSTING: How to use GAE to host static sites for free'
+translationKey: 'OMG FREE HOSTING: How to use GAE to host static sites for free'
 ---
 
 I am constantly telling my friends about the new technology tricks that I learn in my internet travels. I learn a lot, which has caused my friends to ignore around 90% of what I say about technology. I don't mind, because I know that I am a genius(heh) and they will come around some day.

@@ -9,6 +9,7 @@ tags:
 - home-office
 - software-tools
 title: A video conference setup for pro level video chats
+translationKey: A video conference setup for pro level video chats
 ---
 
 For the past 7 or 8 years I have  been traveling around the world speaking at amazing conferences and hanging out with amazing people. It was really great. However, that has all changed due to COVID-19. We now hang out in our houses and chat on zoom, hangouts, etc. It is... ok. But I think it can be better. let me walk you through what i have done. 

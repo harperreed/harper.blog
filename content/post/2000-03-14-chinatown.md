@@ -12,6 +12,7 @@ tags:
 - friends
 - shopping
 title: chinatown
+translationKey: chinatown
 wordpress_id: 40
 wordpress_url: http://new.nata2.org/?p=40
 ---

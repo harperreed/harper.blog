@@ -13,6 +13,7 @@ tags:
 - usa
 - terrorism
 title: Jugglers of Death
+translationKey: Jugglers of Death
 wordpress_id: 308
 wordpress_url: http://new.nata2.org/?p=308
 ---

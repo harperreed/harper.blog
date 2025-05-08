@@ -12,6 +12,7 @@ tags:
 - accidents
 - nightlife
 title: today ruled
+translationKey: today ruled
 wordpress_id: 581
 wordpress_url: http://new.nata2.org/?p=581
 ---

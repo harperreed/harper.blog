@@ -7,6 +7,7 @@ tags:
 - servers
 - pranks
 title: eek. I've been dugg!
+translationKey: eek. I've been dugg!
 wordpress_id: 1402
 wordpress_url: http://www.nata2.org/2007/01/07/eek-ive-been-dugg/
 ---

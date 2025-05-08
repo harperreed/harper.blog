@@ -10,6 +10,7 @@ tags:
 - apache
 - mysql
 title: Servers, I love Servers
+translationKey: Servers, I love Servers
 wordpress_id: 17
 wordpress_url: http://new.nata2.org/?p=17
 ---

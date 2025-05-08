@@ -11,6 +11,7 @@ tags:
 - nokia
 - fatigue
 title: i didn't get much sleep
+translationKey: i didn't get much sleep
 wordpress_id: 844
 wordpress_url: http://new.nata2.org/?p=844
 ---

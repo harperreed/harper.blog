@@ -7,6 +7,7 @@ tags:
 - television
 - entertainment
 title: dude! vh1 owns right now
+translationKey: dude! vh1 owns right now
 wordpress_id: 1259
 wordpress_url: http://www.nata2.org/2006/05/04/dude-vh1-owns-right-now/
 ---

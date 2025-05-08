@@ -6,6 +6,7 @@ tags:
 - frustration
 - website-design
 title: OMG. Using flash is the worst way to make a website.
+translationKey: OMG. Using flash is the worst way to make a website.
 wordpress_id: 1224
 wordpress_url: http://www.nata2.org/2006/02/28/omg-using-flash-is-the-worst-way-to-make-a-website/
 ---

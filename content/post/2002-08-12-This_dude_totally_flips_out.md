@@ -8,6 +8,7 @@ tags:
 - humor
 - php
 title: This dude totally flips out
+translationKey: This dude totally flips out
 wordpress_id: 337
 wordpress_url: http://new.nata2.org/?p=337
 ---

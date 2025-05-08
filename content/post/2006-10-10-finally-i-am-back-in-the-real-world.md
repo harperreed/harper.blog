@@ -7,6 +7,7 @@ tags:
 - workspace
 - personal-projects
 title: Finally. I am back in the real world
+translationKey: Finally. I am back in the real world
 wordpress_id: 1363
 wordpress_url: http://www.nata2.org/2006/10/10/finally-i-am-back-in-the-real-world/
 ---

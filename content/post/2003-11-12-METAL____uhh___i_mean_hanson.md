@@ -12,6 +12,7 @@ tags:
 - friendship
 - music-fans
 title: METAL... uhh.. i mean hanson
+translationKey: METAL... uhh.. i mean hanson
 wordpress_id: 674
 wordpress_url: http://new.nata2.org/?p=674
 ---

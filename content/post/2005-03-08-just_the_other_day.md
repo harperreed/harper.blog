@@ -18,6 +18,7 @@ tags:
 - summer
 - chicago
 title: just the other day
+translationKey: just the other day
 wordpress_id: 1002
 wordpress_url: http://new.nata2.org/?p=1002
 ---

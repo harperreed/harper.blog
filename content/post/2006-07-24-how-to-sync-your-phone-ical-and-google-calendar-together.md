@@ -7,6 +7,7 @@ tags:
 - osx
 - mobile-phones
 title: How to sync your phone, iCal and Google Calendar together.
+translationKey: How to sync your phone, iCal and Google Calendar together.
 wordpress_id: 1249
 wordpress_url: http://www.nata2.org/2006/07/24/how-to-sync-your-phone-ical-and-google-calendar-together/
 ---

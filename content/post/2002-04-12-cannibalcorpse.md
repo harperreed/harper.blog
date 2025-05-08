@@ -14,6 +14,7 @@ tags:
 - laptops
 - os
 title: cannibalcorpse
+translationKey: cannibalcorpse
 wordpress_id: 258
 wordpress_url: http://new.nata2.org/?p=258
 ---

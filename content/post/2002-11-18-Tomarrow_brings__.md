@@ -9,6 +9,7 @@ tags:
 - economy
 - corporate
 title: Tomarrow brings..
+translationKey: Tomarrow brings..
 wordpress_id: 402
 wordpress_url: http://new.nata2.org/?p=402
 ---

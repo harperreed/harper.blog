@@ -11,6 +11,7 @@ tags:
 - mel-gibson
 - controversy
 title: jesus.. bwahahahahah
+translationKey: jesus.. bwahahahahah
 wordpress_id: 656
 wordpress_url: http://new.nata2.org/?p=656
 ---

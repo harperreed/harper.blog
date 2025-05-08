@@ -11,6 +11,7 @@ tags:
 - music
 - hobbies
 title: yoyo website
+translationKey: yoyo website
 wordpress_id: 728
 wordpress_url: http://new.nata2.org/?p=728
 ---

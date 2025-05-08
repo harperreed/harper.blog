@@ -12,6 +12,7 @@ tags:
 - hayao-miyazaki
 - personal-experience
 title: Valley of Wind
+translationKey: Valley of Wind
 wordpress_id: 510
 wordpress_url: http://new.nata2.org/?p=510
 ---

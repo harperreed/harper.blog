@@ -11,6 +11,7 @@ tags:
 - music
 - food
 title: blah blah blah
+translationKey: blah blah blah
 wordpress_id: 771
 wordpress_url: http://new.nata2.org/?p=771
 ---

@@ -7,6 +7,7 @@ tags:
 - magazine-publishing
 - creative-exercise
 title: Marking up a magazine - interaction with the editors
+translationKey: Marking up a magazine - interaction with the editors
 wordpress_id: 1372
 wordpress_url: http://www.nata2.org/2006/10/16/marking-up-a-magazine-interaction-with-the-editors/
 ---

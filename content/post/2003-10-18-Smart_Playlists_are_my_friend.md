@@ -10,6 +10,7 @@ tags:
 - ipod
 - music-organization
 title: Smart Playlists are my friend
+translationKey: Smart Playlists are my friend
 wordpress_id: 651
 wordpress_url: http://new.nata2.org/?p=651
 ---

@@ -1,10 +1,10 @@
 ---
 aliases:
-- /media/books/
+    - /media/books/
 layout: books-grid
 nofeed: true
 title: Books
-translationKey: Books
+translationKey: Books-Grid
 url: /media/books/grid
 ---
 

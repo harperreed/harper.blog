@@ -12,6 +12,7 @@ tags:
 - music
 - gaming
 title: whoa nelly..  wtf.. why is that album named that.. seriously..
+translationKey: whoa nelly..  wtf.. why is that album named that.. seriously..
 wordpress_id: 443
 wordpress_url: http://new.nata2.org/?p=443
 ---

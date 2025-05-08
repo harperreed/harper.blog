@@ -12,6 +12,7 @@ tags:
 - self-reflection
 - boredom
 title: i cannot sleep
+translationKey: i cannot sleep
 wordpress_id: 712
 wordpress_url: http://new.nata2.org/?p=712
 ---

@@ -12,6 +12,7 @@ tags:
 - friendship
 - personal-projects
 title: hehe. how i love the internet
+translationKey: hehe. how i love the internet
 wordpress_id: 634
 wordpress_url: http://new.nata2.org/?p=634
 ---

@@ -12,6 +12,7 @@ tags:
 - weather
 - supernatural
 title: Vampires and Cornell..
+translationKey: Vampires and Cornell..
 wordpress_id: 16
 wordpress_url: http://new.nata2.org/?p=16
 ---

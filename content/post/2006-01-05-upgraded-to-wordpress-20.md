@@ -6,6 +6,7 @@ tags:
 - upgrades
 - technology
 title: upgraded to wordpress 2.0
+translationKey: upgraded to wordpress 2.0
 wordpress_id: 1156
 wordpress_url: http://www.nata2.org/2006/01/05/upgraded-to-wordpress-20/
 ---

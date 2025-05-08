@@ -11,6 +11,7 @@ tags:
 - terrorism
 - internet-culture
 title: Everyday is halloween.
+translationKey: Everyday is halloween.
 wordpress_id: 122
 wordpress_url: http://new.nata2.org/?p=122
 ---

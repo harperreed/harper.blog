@@ -7,6 +7,7 @@ tags:
 - dominance
 - technology
 title: Google owns the Internet... again
+translationKey: Google owns the Internet... again
 wordpress_id: 1412
 wordpress_url: http://www.nata2.org/2007/03/02/google-owns-the-internet-again/
 ---

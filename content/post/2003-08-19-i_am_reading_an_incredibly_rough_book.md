@@ -11,6 +11,7 @@ tags:
 - psychology
 - ethical-dilemmas
 title: i am reading an incredibly rough book
+translationKey: i am reading an incredibly rough book
 wordpress_id: 600
 wordpress_url: http://new.nata2.org/?p=600
 ---

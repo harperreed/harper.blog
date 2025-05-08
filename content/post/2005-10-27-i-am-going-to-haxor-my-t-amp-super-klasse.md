@@ -7,6 +7,7 @@ tags:
 - projects
 - diy
 title: I am going to Haxor my t-amp. Super Klasse
+translationKey: I am going to Haxor my t-amp. Super Klasse
 wordpress_id: 1143
 wordpress_url: http://www.nata2.org/?p=1143
 ---

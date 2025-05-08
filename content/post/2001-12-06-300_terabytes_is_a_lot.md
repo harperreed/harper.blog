@@ -11,6 +11,7 @@ tags:
 - family
 - college
 title: 300 terabytes is a lot
+translationKey: 300 terabytes is a lot
 wordpress_id: 144
 wordpress_url: http://new.nata2.org/?p=144
 ---

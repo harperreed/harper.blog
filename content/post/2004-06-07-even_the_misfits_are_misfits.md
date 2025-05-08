@@ -10,6 +10,7 @@ tags:
 - crobar
 - friends
 title: even the misfits are misfits
+translationKey: even the misfits are misfits
 wordpress_id: 878
 wordpress_url: http://new.nata2.org/?p=878
 ---

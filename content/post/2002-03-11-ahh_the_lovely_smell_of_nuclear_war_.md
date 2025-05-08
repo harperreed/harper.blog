@@ -10,6 +10,7 @@ tags:
 - international-relations
 - cold-war
 title: ahh the lovely smell of nuclear war.
+translationKey: ahh the lovely smell of nuclear war.
 wordpress_id: 227
 wordpress_url: http://new.nata2.org/?p=227
 ---

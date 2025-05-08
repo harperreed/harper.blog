@@ -15,6 +15,7 @@ tags:
 - friendship
 - communication
 title: Hosting woes
+translationKey: Hosting woes
 wordpress_id: 11
 wordpress_url: http://new.nata2.org/?p=11
 ---

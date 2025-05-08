@@ -8,6 +8,7 @@ tags:
 - diy
 - apple
 title: i love power tools
+translationKey: i love power tools
 wordpress_id: 578
 wordpress_url: http://new.nata2.org/?p=578
 ---

@@ -9,6 +9,7 @@ tags:
 - personal-growth
 - reflections
 title: a good thing
+translationKey: a good thing
 wordpress_id: 154
 wordpress_url: http://new.nata2.org/?p=154
 ---

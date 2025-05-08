@@ -11,6 +11,7 @@ tags:
 - civil-liberties
 - bush-administration
 title: yesterday.
+translationKey: yesterday.
 wordpress_id: 295
 wordpress_url: http://new.nata2.org/?p=295
 ---

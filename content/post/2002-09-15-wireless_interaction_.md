@@ -12,6 +12,7 @@ tags:
 - hacking
 - music
 title: wireless interaction.
+translationKey: wireless interaction.
 wordpress_id: 355
 wordpress_url: http://new.nata2.org/?p=355
 ---

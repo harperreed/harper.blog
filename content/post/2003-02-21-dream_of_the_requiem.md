@@ -12,6 +12,7 @@ tags:
 - dreams
 - us-foreign-policy
 title: dream of the requiem
+translationKey: dream of the requiem
 wordpress_id: 453
 wordpress_url: http://new.nata2.org/?p=453
 ---

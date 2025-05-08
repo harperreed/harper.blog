@@ -7,6 +7,7 @@ tags:
 - political-campaign
 - hope
 title: YES WE CAN. Obama apparently wins the democratic nomination
+translationKey: YES WE CAN. Obama apparently wins the democratic nomination
 wordpress_id: 1529
 wordpress_url: http://www.nata2.org/?p=1529
 ---

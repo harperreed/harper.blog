@@ -12,6 +12,7 @@ tags:
 - urban-reconstruction
 - pop-culture
 title: Machines of Grace
+translationKey: Machines of Grace
 wordpress_id: 203
 wordpress_url: http://new.nata2.org/?p=203
 ---

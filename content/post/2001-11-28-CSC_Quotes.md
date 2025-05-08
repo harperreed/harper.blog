@@ -11,6 +11,7 @@ tags:
 - student-experience
 - college-life
 title: CSC Quotes
+translationKey: CSC Quotes
 wordpress_id: 137
 wordpress_url: http://new.nata2.org/?p=137
 ---

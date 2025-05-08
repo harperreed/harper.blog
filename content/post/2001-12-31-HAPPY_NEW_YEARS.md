@@ -11,6 +11,7 @@ tags:
 - harper-reed
 - contest
 title: HAPPY NEW YEARS
+translationKey: HAPPY NEW YEARS
 wordpress_id: 158
 wordpress_url: http://new.nata2.org/?p=158
 ---

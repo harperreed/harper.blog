@@ -12,6 +12,7 @@ tags:
 - memories
 - couples
 title: Almost there
+translationKey: Almost there
 wordpress_id: 121
 wordpress_url: http://new.nata2.org/?p=121
 ---

@@ -7,6 +7,7 @@ tags:
 - voip
 - technology
 title: Nokia N80 is released
+translationKey: Nokia N80 is released
 wordpress_id: 1256
 wordpress_url: http://www.nata2.org/2006/04/26/nokia-n80-is-released/
 ---

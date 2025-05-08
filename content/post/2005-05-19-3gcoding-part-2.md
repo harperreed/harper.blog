@@ -7,6 +7,7 @@ tags:
 - mobile-market
 - blogging
 title: 3gcoding part 2
+translationKey: 3gcoding part 2
 wordpress_id: 1161
 wordpress_url: http://www.nata2.org/2005/05/19/3gcoding-part-2/
 ---

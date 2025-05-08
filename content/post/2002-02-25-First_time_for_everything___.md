@@ -13,6 +13,7 @@ tags:
 - friendship
 - travel
 title: First time for everything...
+translationKey: First time for everything...
 wordpress_id: 217
 wordpress_url: http://new.nata2.org/?p=217
 ---

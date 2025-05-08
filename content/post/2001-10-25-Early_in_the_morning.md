@@ -11,6 +11,7 @@ tags:
 - work
 - blogging
 title: Early in the morning
+translationKey: Early in the morning
 wordpress_id: 120
 wordpress_url: http://new.nata2.org/?p=120
 ---

@@ -10,6 +10,7 @@ tags:
 - strategy
 - friends
 title: Nemesis Factor
+translationKey: Nemesis Factor
 wordpress_id: 141
 wordpress_url: http://new.nata2.org/?p=141
 ---

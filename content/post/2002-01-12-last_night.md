@@ -12,6 +12,7 @@ tags:
 - friends
 - workplace
 title: last night
+translationKey: last night
 wordpress_id: 176
 wordpress_url: http://new.nata2.org/?p=176
 ---

@@ -7,6 +7,7 @@ tags:
 - infrastructure
 - virtualization
 title: My servers are offline. :(
+translationKey: My servers are offline. :(
 wordpress_id: 1491
 wordpress_url: http://www.nata2.org/2007/11/20/my-servers-are-offline/
 ---

@@ -10,6 +10,7 @@ tags:
 - beer
 - cornell
 title: A long absence for a lot to think about
+translationKey: A long absence for a lot to think about
 wordpress_id: 106
 wordpress_url: http://new.nata2.org/?p=106
 ---

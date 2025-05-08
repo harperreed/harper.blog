@@ -7,6 +7,7 @@ tags:
 - diy
 - juicer
 title: Juicebox haxoring
+translationKey: Juicebox haxoring
 wordpress_id: 1187
 wordpress_url: http://www.nata2.org/2005/06/10/juicebox-haxoring-3/
 ---

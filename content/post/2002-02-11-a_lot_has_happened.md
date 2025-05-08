@@ -12,6 +12,7 @@ tags:
 - technology
 - adventure
 title: a lot has happened
+translationKey: a lot has happened
 wordpress_id: 205
 wordpress_url: http://new.nata2.org/?p=205
 ---

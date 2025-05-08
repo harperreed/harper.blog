@@ -8,6 +8,7 @@ tags:
 - watership
 - innovation
 title: i have an experiment
+translationKey: i have an experiment
 wordpress_id: 934
 wordpress_url: http://new.nata2.org/?p=934
 ---

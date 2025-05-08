@@ -7,6 +7,7 @@ tags:
 - online-games
 - video-games
 title: tetrinet rules
+translationKey: tetrinet rules
 wordpress_id: 1055
 wordpress_url: http://www.nata2.org/2005/05/08/tetrinet-rules/
 ---

@@ -6,6 +6,7 @@ tags:
 - scaling
 - server-administration
 title: eAccelerator made it faster!
+translationKey: eAccelerator made it faster!
 wordpress_id: 1409
 wordpress_url: http://www.nata2.org/2007/02/14/eaccelerator-made-it-faster/
 ---

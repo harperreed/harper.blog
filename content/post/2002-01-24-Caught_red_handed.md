@@ -12,6 +12,7 @@ tags:
 - colocation
 - networking
 title: Caught red handed
+translationKey: Caught red handed
 wordpress_id: 188
 wordpress_url: http://new.nata2.org/?p=188
 ---

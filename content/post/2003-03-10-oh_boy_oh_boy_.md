@@ -12,6 +12,7 @@ tags:
 - music
 - sick
 title: oh boy oh boy.
+translationKey: oh boy oh boy.
 wordpress_id: 460
 wordpress_url: http://new.nata2.org/?p=460
 ---

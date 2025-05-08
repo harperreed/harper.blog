@@ -11,6 +11,7 @@ tags:
 - china
 - taiwan
 title: 'FEAR: Einstein may be a prophet'
+translationKey: 'FEAR: Einstein may be a prophet'
 wordpress_id: 232
 wordpress_url: http://new.nata2.org/?p=232
 ---

@@ -12,6 +12,7 @@ tags:
 - personal-experience
 - emotions
 title: today of all days
+translationKey: today of all days
 wordpress_id: 922
 wordpress_url: http://new.nata2.org/?p=922
 ---

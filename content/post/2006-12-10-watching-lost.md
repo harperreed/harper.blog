@@ -7,6 +7,7 @@ tags:
 - pop-culture
 - storytelling
 title: Watching Lost.
+translationKey: Watching Lost.
 wordpress_id: 1394
 wordpress_url: http://www.nata2.org/2006/12/10/watching-lost/
 ---

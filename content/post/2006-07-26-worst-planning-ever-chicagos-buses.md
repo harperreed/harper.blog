@@ -7,6 +7,7 @@ tags:
 - user-experience
 - transportation-planning
 title: Worst planning ever. Chicago's buses
+translationKey: Worst planning ever. Chicago's buses
 wordpress_id: 1313
 wordpress_url: http://www.nata2.org/2006/07/26/worst-planning-ever-chicagos-buses/
 ---

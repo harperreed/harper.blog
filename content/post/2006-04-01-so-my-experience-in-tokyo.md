@@ -7,6 +7,7 @@ tags:
 - japan
 - personal-experience
 title: so.. my experience in tokyo
+translationKey: so.. my experience in tokyo
 wordpress_id: 1236
 wordpress_url: http://www.nata2.org/2006/04/01/so-my-experience-in-tokyo/
 ---

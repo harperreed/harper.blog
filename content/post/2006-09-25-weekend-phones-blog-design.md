@@ -7,6 +7,7 @@ tags:
 - tornado
 - blogging
 title: Weekend. Phones. blog design.
+translationKey: Weekend. Phones. blog design.
 wordpress_id: 1353
 wordpress_url: http://www.nata2.org/2006/09/25/weekend-phones-blog-design/
 ---

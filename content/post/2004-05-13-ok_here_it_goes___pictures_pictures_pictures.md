@@ -11,6 +11,7 @@ tags:
 - culture
 - adventure
 title: 'ok here it goes:: pictures pictures pictures'
+translationKey: 'ok here it goes:: pictures pictures pictures'
 wordpress_id: 859
 wordpress_url: http://new.nata2.org/?p=859
 ---

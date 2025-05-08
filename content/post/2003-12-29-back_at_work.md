@@ -12,6 +12,7 @@ tags:
 - community
 - technology
 title: back at work
+translationKey: back at work
 wordpress_id: 707
 wordpress_url: http://new.nata2.org/?p=707
 ---

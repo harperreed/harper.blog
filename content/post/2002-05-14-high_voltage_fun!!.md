@@ -11,6 +11,7 @@ tags:
 - high-voltage
 - fun
 title: high voltage fun!!
+translationKey: high voltage fun!!
 wordpress_id: 282
 wordpress_url: http://new.nata2.org/?p=282
 ---

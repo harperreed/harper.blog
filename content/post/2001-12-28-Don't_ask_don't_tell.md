@@ -12,6 +12,7 @@ tags:
 - emotions
 - career
 title: Don't ask don't tell
+translationKey: Don't ask don't tell
 wordpress_id: 153
 wordpress_url: http://new.nata2.org/?p=153
 ---

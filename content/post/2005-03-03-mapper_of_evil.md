@@ -11,6 +11,7 @@ tags:
 - travel
 - personal
 title: mapper of evil
+translationKey: mapper of evil
 wordpress_id: 1000
 wordpress_url: http://new.nata2.org/?p=1000
 ---

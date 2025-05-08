@@ -11,6 +11,7 @@ tags:
 - colorado
 - vacation
 title: Spring Break
+translationKey: Spring Break
 wordpress_id: 86
 wordpress_url: http://new.nata2.org/?p=86
 ---

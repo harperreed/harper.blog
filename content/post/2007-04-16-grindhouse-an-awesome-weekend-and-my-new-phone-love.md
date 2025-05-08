@@ -7,6 +7,7 @@ tags:
 - music
 - phones
 title: Grindhouse. An awesome weekend and my new phone love!
+translationKey: Grindhouse. An awesome weekend and my new phone love!
 wordpress_id: 1435
 wordpress_url: http://www.nata2.org/2007/04/16/grindhouse-an-awesome-weekend-and-my-new-phone-love/
 ---

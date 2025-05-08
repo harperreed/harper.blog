@@ -12,6 +12,7 @@ tags:
 - friendship
 - metal
 title: silly human race
+translationKey: silly human race
 wordpress_id: 347
 wordpress_url: http://new.nata2.org/?p=347
 ---

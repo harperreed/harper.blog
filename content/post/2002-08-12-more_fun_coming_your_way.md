@@ -9,6 +9,7 @@ tags:
 - internet
 - blog
 title: more fun coming your way
+translationKey: more fun coming your way
 wordpress_id: 339
 wordpress_url: http://new.nata2.org/?p=339
 ---

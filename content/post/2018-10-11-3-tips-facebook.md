@@ -14,6 +14,7 @@ tags:
 - technology
 - online-privacy
 title: Harper's 3 tips to surviving Facebook
+translationKey: Harper's 3 tips to surviving Facebook
 ---
 
 I am not a huge fan of the Facebook suite of products<sup>†</sup>. Many times I have attempted to quit, only to be thwarted by the various warnings about deleting Facebook apps I admin and pages I own. I always forgot about how spidery the Facebook ecosystem is. I obviously don't have it in me to cut ties with all of the various things I built long ago and the pages that I have created or admin. So.. what to do. Well. I did a few things that helped somewhat. Here they are:

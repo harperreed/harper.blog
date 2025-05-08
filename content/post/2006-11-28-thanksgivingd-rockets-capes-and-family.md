@@ -7,6 +7,7 @@ tags:
 - colorado
 - holidays
 title: 'Thanksgiving''d: Rockets, Capes and family'
+translationKey: 'Thanksgiving''d: Rockets, Capes and family'
 wordpress_id: 1390
 wordpress_url: http://www.nata2.org/2006/11/28/thanksgivingd-rockets-capes-and-family/
 ---

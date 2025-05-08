@@ -7,6 +7,7 @@ tags:
 - moving
 - urban-living
 title: Lincoln Square Retrospective
+translationKey: Lincoln Square Retrospective
 ---
 
 I meant to post this months ago. hah. For some reason, it didn't quite make it live. Then a couple days ago, I was talking to a friend about his recent move to Lincoln Square. We spent some time talking about great places to go eat and hang out, and I remembered this post. I thought I would get it up and out there. 

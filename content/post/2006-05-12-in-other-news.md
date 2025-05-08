@@ -7,6 +7,7 @@ tags:
 - projects
 - hardware
 title: 'In other news... '
+translationKey: 'In other news... '
 wordpress_id: 1266
 wordpress_url: http://www.nata2.org/2006/05/12/in-other-news/
 ---

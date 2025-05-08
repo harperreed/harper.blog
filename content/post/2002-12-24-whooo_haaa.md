@@ -11,6 +11,7 @@ tags:
 - terrorism
 - colorado
 title: whooo haaa
+translationKey: whooo haaa
 wordpress_id: 420
 wordpress_url: http://new.nata2.org/?p=420
 ---

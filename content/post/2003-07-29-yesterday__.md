@@ -11,6 +11,7 @@ tags:
 - catholicism
 - college
 title: yesterday..
+translationKey: yesterday..
 wordpress_id: 580
 wordpress_url: http://new.nata2.org/?p=580
 ---

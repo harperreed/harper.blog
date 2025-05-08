@@ -7,6 +7,7 @@ tags:
 - software
 - consumer-technology
 title: Why linux isn't mainstream? Bullshit!
+translationKey: Why linux isn't mainstream? Bullshit!
 wordpress_id: 1310
 wordpress_url: http://www.nata2.org/2006/07/22/why-linux-isnt-mainstream-bullshit/
 ---

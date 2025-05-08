@@ -16,6 +16,7 @@ tags:
 - indiana
 - servers
 title: heh. on the road.
+translationKey: heh. on the road.
 wordpress_id: 811
 wordpress_url: http://new.nata2.org/?p=811
 ---

@@ -7,6 +7,7 @@ tags:
 - life-in-japan
 - travel
 title: 'whew.. almost all done.. '
+translationKey: 'whew.. almost all done.. '
 wordpress_id: 1329
 wordpress_url: http://www.nata2.org/2006/08/30/whew-almost-all-done/
 ---

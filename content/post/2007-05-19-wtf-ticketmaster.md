@@ -7,6 +7,7 @@ tags:
 - event-ticketing
 - online-sales
 title: WTF TicketMaster
+translationKey: WTF TicketMaster
 wordpress_id: 1444
 wordpress_url: http://www.nata2.org/2007/05/19/wtf-ticketmaster/
 ---

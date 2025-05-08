@@ -12,6 +12,7 @@ tags:
 - colorado
 - internet
 title: heheh. i am dumb :(
+translationKey: heheh. i am dumb :(
 wordpress_id: 406
 wordpress_url: http://new.nata2.org/?p=406
 ---

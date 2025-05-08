@@ -7,6 +7,7 @@ tags:
 - chicago
 - cta
 title: I am going to punch the CTA in the face
+translationKey: I am going to punch the CTA in the face
 wordpress_id: 1119
 wordpress_url: http://www.nata2.org/2005/08/26/i-am-going-to-punch-the-cta-in-the-face/
 ---

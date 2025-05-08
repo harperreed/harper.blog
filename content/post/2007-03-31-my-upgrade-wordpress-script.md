@@ -7,6 +7,7 @@ tags:
 - php
 - automation
 title: My upgrade wordpress script
+translationKey: My upgrade wordpress script
 wordpress_id: 1427
 wordpress_url: http://www.nata2.org/2007/03/31/my-upgrade-wordpress-script/
 ---

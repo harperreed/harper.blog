@@ -7,6 +7,7 @@ tags:
 - nightlife
 - skinnycorp
 title: Halloween! harperreed.org update. I missed the day.
+translationKey: Halloween! harperreed.org update. I missed the day.
 wordpress_id: 1378
 wordpress_url: http://www.nata2.org/2006/10/29/halloween-harperreedorg-update-i-missed-the-day/
 ---

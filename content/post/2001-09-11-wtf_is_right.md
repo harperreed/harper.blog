@@ -11,6 +11,7 @@ tags:
 - global-conflict
 - international-relations
 title: wtf is right
+translationKey: wtf is right
 wordpress_id: 102
 wordpress_url: http://new.nata2.org/?p=102
 ---

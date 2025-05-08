@@ -7,6 +7,7 @@ tags:
 - bad-day
 - friendship
 title: horrible things...
+translationKey: horrible things...
 wordpress_id: 1269
 wordpress_url: http://www.nata2.org/2006/05/18/horrible-things/
 ---

@@ -11,6 +11,7 @@ tags:
 - internet-culture
 - advertising
 title: a new internet hobby.
+translationKey: a new internet hobby.
 wordpress_id: 235
 wordpress_url: http://new.nata2.org/?p=235
 ---

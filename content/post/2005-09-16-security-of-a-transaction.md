@@ -7,6 +7,7 @@ tags:
 - purchase-behavior
 - exploitation
 title: Security of a transaction
+translationKey: Security of a transaction
 wordpress_id: 1131
 wordpress_url: http://www.nata2.org/2005/09/16/security-of-a-transaction/
 ---

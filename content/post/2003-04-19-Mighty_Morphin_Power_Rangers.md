@@ -18,6 +18,7 @@ tags:
 - pop-culture
 - soap
 title: Mighty Morphin Power Rangers
+translationKey: Mighty Morphin Power Rangers
 wordpress_id: 491
 wordpress_url: http://new.nata2.org/?p=491
 ---

@@ -11,6 +11,7 @@ tags:
 - art
 - travel
 title: omg I should use a computer
+translationKey: omg I should use a computer
 wordpress_id: 805
 wordpress_url: http://new.nata2.org/?p=805
 ---

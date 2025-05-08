@@ -6,6 +6,7 @@ tags:
 - content-management
 - php
 title: 'this is a test post '
+translationKey: 'this is a test post '
 wordpress_id: 1197
 wordpress_url: http://www.nata2.org/2006/01/22/this-is-a-test-post/
 ---

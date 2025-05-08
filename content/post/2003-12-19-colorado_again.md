@@ -11,6 +11,7 @@ tags:
 - entertainment
 - friends
 title: colorado again
+translationKey: colorado again
 wordpress_id: 703
 wordpress_url: http://new.nata2.org/?p=703
 ---

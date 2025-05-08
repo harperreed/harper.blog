@@ -7,6 +7,7 @@ tags:
 - data-privacy
 - open-data
 title: Data Portability feeds
+translationKey: Data Portability feeds
 wordpress_id: 1503
 wordpress_url: http://www.nata2.org/2008/01/10/data-portability-feeds/
 ---

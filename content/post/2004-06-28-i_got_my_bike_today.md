@@ -11,6 +11,7 @@ tags:
 - sick
 - fun
 title: i got my bike today
+translationKey: i got my bike today
 wordpress_id: 892
 wordpress_url: http://new.nata2.org/?p=892
 ---

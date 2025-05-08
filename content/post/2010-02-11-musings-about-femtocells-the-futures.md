@@ -7,6 +7,7 @@ tags:
 - innovation
 - internet-access
 title: 'Musings about femtocells: the futures!'
+translationKey: 'Musings about femtocells: the futures!'
 wordpress_id: 1669
 wordpress_url: http://www.nata2.org/?p=1669
 ---

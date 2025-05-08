@@ -7,6 +7,7 @@ tags:
 - work-from-home
 - side-projects
 title: I am once again a bad blogger.
+translationKey: I am once again a bad blogger.
 wordpress_id: 1442
 wordpress_url: http://www.nata2.org/2007/05/18/i-am-once-again-a-bad-blogger/
 ---

@@ -7,6 +7,7 @@ tags:
 - community
 - writing
 title: oh yea. hackathon idea
+translationKey: oh yea. hackathon idea
 wordpress_id: 1069
 wordpress_url: http://www.nata2.org/2005/05/24/oh-yea-hackathon-idea/
 ---

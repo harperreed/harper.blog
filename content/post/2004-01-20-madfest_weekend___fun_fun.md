@@ -12,6 +12,7 @@ tags:
 - yoyo
 - weekend-fun
 title: madfest weekend.. fun fun
+translationKey: madfest weekend.. fun fun
 wordpress_id: 730
 wordpress_url: http://new.nata2.org/?p=730
 ---

@@ -10,6 +10,7 @@ tags:
 - cms
 - php
 title: home. home on the range.
+translationKey: home. home on the range.
 wordpress_id: 1003
 wordpress_url: http://new.nata2.org/?p=1003
 ---

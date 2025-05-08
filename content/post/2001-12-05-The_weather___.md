@@ -12,6 +12,7 @@ tags:
 - life
 - happiness
 title: The weather...
+translationKey: The weather...
 wordpress_id: 143
 wordpress_url: http://new.nata2.org/?p=143
 ---

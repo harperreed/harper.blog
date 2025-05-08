@@ -7,6 +7,7 @@ tags:
 - social-interaction
 - nerd-culture
 title: IRC is a very strange place
+translationKey: IRC is a very strange place
 wordpress_id: 1479
 wordpress_url: http://www.nata2.org/2007/09/17/irc-is-a-very-strange-place/
 ---

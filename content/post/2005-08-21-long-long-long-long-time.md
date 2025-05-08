@@ -7,6 +7,7 @@ tags:
 - cultural-exchange
 - sleepiness
 title: long long long long time
+translationKey: long long long long time
 wordpress_id: 1115
 wordpress_url: http://www.nata2.org/2005/08/21/long-long-long-long-time/
 ---

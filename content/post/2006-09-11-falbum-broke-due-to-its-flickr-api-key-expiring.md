@@ -7,6 +7,7 @@ tags:
 - technology
 - photo-gallery
 title: 'falbum broke due to its flickr API key expiring. '
+translationKey: 'falbum broke due to its flickr API key expiring. '
 wordpress_id: 1342
 wordpress_url: http://www.nata2.org/2006/09/11/falbum-broke-due-to-its-flickr-api-key-expiring/
 ---

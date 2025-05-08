@@ -7,6 +7,7 @@ tags:
 - storytelling
 - etsy
 title: Monsters for you to buy and make your friend!
+translationKey: Monsters for you to buy and make your friend!
 wordpress_id: 1504
 wordpress_url: http://www.nata2.org/2008/01/11/monsters-for-you-to-buy-and-make-your-friend/
 ---

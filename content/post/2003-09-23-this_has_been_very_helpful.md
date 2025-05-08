@@ -8,6 +8,7 @@ tags:
 - tips
 - lifestyle
 title: this has been very helpful
+translationKey: this has been very helpful
 wordpress_id: 626
 wordpress_url: http://new.nata2.org/?p=626
 ---

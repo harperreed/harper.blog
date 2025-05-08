@@ -10,6 +10,7 @@ tags:
 - politics
 - global-security
 title: Once again fear is present...
+translationKey: Once again fear is present...
 wordpress_id: 200
 wordpress_url: http://new.nata2.org/?p=200
 ---

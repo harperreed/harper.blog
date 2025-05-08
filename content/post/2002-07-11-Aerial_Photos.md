@@ -10,6 +10,7 @@ tags:
 - visual-art
 - nature
 title: Aerial Photos
+translationKey: Aerial Photos
 wordpress_id: 317
 wordpress_url: http://new.nata2.org/?p=317
 ---

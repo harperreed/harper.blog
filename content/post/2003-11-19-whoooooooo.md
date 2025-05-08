@@ -12,6 +12,7 @@ tags:
 - personal-experience
 - daily-life
 title: whoooooooo
+translationKey: whoooooooo
 wordpress_id: 681
 wordpress_url: http://new.nata2.org/?p=681
 ---

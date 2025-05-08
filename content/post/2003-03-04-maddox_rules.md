@@ -8,6 +8,7 @@ tags:
 - satire
 - humor
 title: maddox rules
+translationKey: maddox rules
 wordpress_id: 457
 wordpress_url: http://new.nata2.org/?p=457
 ---

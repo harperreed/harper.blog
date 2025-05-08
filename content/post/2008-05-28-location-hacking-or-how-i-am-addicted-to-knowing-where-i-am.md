@@ -7,6 +7,7 @@ tags:
 - emergency-planning
 - digital-tools
 title: Location hacking. Or how I am addicted to knowing where I am
+translationKey: Location hacking. Or how I am addicted to knowing where I am
 wordpress_id: 1518
 wordpress_url: http://www.nata2.org/?p=1518
 ---

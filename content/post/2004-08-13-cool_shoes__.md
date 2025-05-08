@@ -10,6 +10,7 @@ tags:
 - events
 - photography
 title: cool shoes..
+translationKey: cool shoes..
 wordpress_id: 916
 wordpress_url: http://new.nata2.org/?p=916
 ---

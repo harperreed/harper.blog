@@ -12,6 +12,7 @@ tags:
 - dancehall
 - insanity
 title: Cold Medicine
+translationKey: Cold Medicine
 wordpress_id: 518
 wordpress_url: http://new.nata2.org/?p=518
 ---

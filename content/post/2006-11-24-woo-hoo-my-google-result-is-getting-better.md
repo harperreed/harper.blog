@@ -7,6 +7,7 @@ tags:
 - personal-branding
 - web
 title: Woo Hoo. My Google result is getting better
+translationKey: Woo Hoo. My Google result is getting better
 wordpress_id: 1388
 wordpress_url: http://www.nata2.org/2006/11/24/woo-hoo-my-google-result-is-getting-better/
 ---

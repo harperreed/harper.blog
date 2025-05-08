@@ -7,6 +7,7 @@ tags:
 - travel
 - events
 title: homecoming college 2005!!
+translationKey: homecoming college 2005!!
 wordpress_id: 1137
 wordpress_url: http://www.nata2.org/2005/10/17/homecoming-college-2005/
 ---

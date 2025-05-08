@@ -10,6 +10,7 @@ tags:
 - conspiracy
 - apocalypse
 title: Whoa magic mind reading
+translationKey: Whoa magic mind reading
 wordpress_id: 344
 wordpress_url: http://new.nata2.org/?p=344
 ---

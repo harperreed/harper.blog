@@ -11,6 +11,7 @@ tags:
 - performance
 - hacking
 title: slashdot.org sucks...
+translationKey: slashdot.org sucks...
 wordpress_id: 24
 wordpress_url: http://new.nata2.org/?p=24
 ---

@@ -12,6 +12,7 @@ tags:
 - photography
 - technology
 title: my shirt is too small
+translationKey: my shirt is too small
 wordpress_id: 804
 wordpress_url: http://new.nata2.org/?p=804
 ---

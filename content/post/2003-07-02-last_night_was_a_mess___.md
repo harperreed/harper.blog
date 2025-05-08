@@ -12,6 +12,7 @@ tags:
 - php
 - entertainment
 title: last night was a mess...
+translationKey: last night was a mess...
 wordpress_id: 558
 wordpress_url: http://new.nata2.org/?p=558
 ---

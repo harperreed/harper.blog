@@ -12,6 +12,7 @@ tags:
 - music
 - food
 title: photolog 4 life
+translationKey: photolog 4 life
 wordpress_id: 852
 wordpress_url: http://new.nata2.org/?p=852
 ---

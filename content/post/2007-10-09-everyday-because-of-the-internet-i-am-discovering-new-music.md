@@ -7,6 +7,7 @@ tags:
 - music-industry
 - internet-culture
 title: Everyday, because of the internet, I am discovering new music
+translationKey: Everyday, because of the internet, I am discovering new music
 wordpress_id: 1484
 wordpress_url: http://www.nata2.org/2007/10/09/everyday-because-of-the-internet-i-am-discovering-new-music/
 ---

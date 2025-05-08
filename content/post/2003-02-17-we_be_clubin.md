@@ -11,6 +11,7 @@ tags:
 - public-safety
 - crowd-control
 title: we be clubin
+translationKey: we be clubin
 wordpress_id: 449
 wordpress_url: http://new.nata2.org/?p=449
 ---

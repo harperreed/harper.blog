@@ -9,6 +9,7 @@ tags:
 - system-administration
 - troubleshooting
 title: The final solution
+translationKey: The final solution
 wordpress_id: 189
 wordpress_url: http://new.nata2.org/?p=189
 ---

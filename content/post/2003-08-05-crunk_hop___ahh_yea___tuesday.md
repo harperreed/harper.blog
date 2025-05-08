@@ -12,6 +12,7 @@ tags:
 - energy
 - politics
 title: crunk hop.. ahh yea.. tuesday
+translationKey: crunk hop.. ahh yea.. tuesday
 wordpress_id: 587
 wordpress_url: http://new.nata2.org/?p=587
 ---

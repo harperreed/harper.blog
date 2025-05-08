@@ -9,6 +9,7 @@ tags:
 - music-experience
 - live-music
 title: i broke my ears.
+translationKey: i broke my ears.
 wordpress_id: 637
 wordpress_url: http://new.nata2.org/?p=637
 ---

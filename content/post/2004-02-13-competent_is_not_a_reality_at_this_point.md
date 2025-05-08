@@ -9,6 +9,7 @@ tags:
 - personal-experience
 - technology
 title: competent is not a reality at this point
+translationKey: competent is not a reality at this point
 wordpress_id: 752
 wordpress_url: http://new.nata2.org/?p=752
 ---

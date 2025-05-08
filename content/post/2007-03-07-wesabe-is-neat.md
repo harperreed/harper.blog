@@ -7,6 +7,7 @@ tags:
 - budgeting
 - financial-goals
 title: Wesabe is neat
+translationKey: Wesabe is neat
 wordpress_id: 1417
 wordpress_url: http://www.nata2.org/2007/03/07/wesabe-is-neat/
 ---

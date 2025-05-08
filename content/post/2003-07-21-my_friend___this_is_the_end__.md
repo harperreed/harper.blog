@@ -9,6 +9,7 @@ tags:
 - internet-culture
 - flash-animations
 title: my friend.. this is the end..
+translationKey: my friend.. this is the end..
 wordpress_id: 572
 wordpress_url: http://new.nata2.org/?p=572
 ---

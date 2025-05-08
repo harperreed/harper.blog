@@ -7,6 +7,7 @@ tags:
 - telephony
 - open-source
 title: OSX Asterisk updated
+translationKey: OSX Asterisk updated
 wordpress_id: 1199
 wordpress_url: http://www.nata2.org/2006/01/24/osx-asterisk-updated/
 ---

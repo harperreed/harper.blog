@@ -8,6 +8,7 @@ tags:
 - defense
 - politics
 title: War is upon us.
+translationKey: War is upon us.
 wordpress_id: 103
 wordpress_url: http://new.nata2.org/?p=103
 ---

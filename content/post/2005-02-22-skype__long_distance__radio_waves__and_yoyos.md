@@ -10,6 +10,7 @@ tags:
 - skype
 - internet-communication
 title: skype. long distance. radio waves. and yoyos
+translationKey: skype. long distance. radio waves. and yoyos
 wordpress_id: 996
 wordpress_url: http://new.nata2.org/?p=996
 ---

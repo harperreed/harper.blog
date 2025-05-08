@@ -7,6 +7,7 @@ tags:
 - frustration
 - hivizone
 title: i HATE the usps. seirously i HATE them
+translationKey: i HATE the usps. seirously i HATE them
 wordpress_id: 1025
 wordpress_url: http://www.nata2.org/2005/03/22/i-hate-the-usps-seirously-i-hate-them-2/
 ---

@@ -11,6 +11,7 @@ tags:
 - image-processing
 - blogging
 title: ok so i lied
+translationKey: ok so i lied
 wordpress_id: 792
 wordpress_url: http://new.nata2.org/?p=792
 ---

@@ -9,6 +9,7 @@ tags:
 - gaming
 - recreation
 title: colorful colorado... REPRISE
+translationKey: colorful colorado... REPRISE
 wordpress_id: 658
 wordpress_url: http://new.nata2.org/?p=658
 ---

@@ -11,6 +11,7 @@ tags:
 - hacking
 - friendship
 title: today is awesome
+translationKey: today is awesome
 wordpress_id: 719
 wordpress_url: http://new.nata2.org/?p=719
 ---

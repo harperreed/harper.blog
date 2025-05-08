@@ -9,6 +9,7 @@ tags:
 - change
 - self-expression
 title: hello hello
+translationKey: hello hello
 wordpress_id: 906
 wordpress_url: http://new.nata2.org/?p=906
 ---

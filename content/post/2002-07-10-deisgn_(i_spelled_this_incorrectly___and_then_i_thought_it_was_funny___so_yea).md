@@ -12,6 +12,8 @@ tags:
 - humor
 - art
 title: deisgn (i spelled this incorrectly.. and then i thought it was funny.. so yea)
+translationKey: deisgn (i spelled this incorrectly.. and then i thought it was funny..
+  so yea)
 wordpress_id: 316
 wordpress_url: http://new.nata2.org/?p=316
 ---

@@ -7,6 +7,7 @@ tags:
 - food-delivery
 - farmers-market
 title: 'Our first CSA experience: Freshpicks.com'
+translationKey: 'Our first CSA experience: Freshpicks.com'
 wordpress_id: 1448
 wordpress_url: http://www.nata2.org/2007/05/28/our-first-csa-experience-freshpickscom/
 ---

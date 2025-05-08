@@ -7,6 +7,7 @@ tags:
 - holiday-celebration
 - gift-giving
 title: Christmas parties are pretty awesome.
+translationKey: Christmas parties are pretty awesome.
 wordpress_id: 1397
 wordpress_url: http://www.nata2.org/2006/12/19/christmas-parties-are-pretty-awesome/
 ---

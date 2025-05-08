@@ -12,6 +12,7 @@ tags:
 - rockets
 - games
 title: hehe.. rockets are fun
+translationKey: hehe.. rockets are fun
 wordpress_id: 657
 wordpress_url: http://new.nata2.org/?p=657
 ---

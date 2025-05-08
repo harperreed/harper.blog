@@ -7,6 +7,7 @@ tags:
 - culture
 - mental-health
 title: 'Shutting out the Sun: an interesting book about Japan'
+translationKey: 'Shutting out the Sun: an interesting book about Japan'
 wordpress_id: 1371
 wordpress_url: http://www.nata2.org/2006/10/16/shutting-out-the-sun-an-interesting-book-about-japan/
 ---

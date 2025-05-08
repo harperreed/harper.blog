@@ -6,6 +6,7 @@ tags:
 - plugin
 - blogging
 title: Photolog fixored
+translationKey: Photolog fixored
 wordpress_id: 1126
 wordpress_url: http://www.nata2.org/2005/09/07/photolog-fixored/
 ---

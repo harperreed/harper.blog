@@ -12,6 +12,7 @@ tags:
 - friends
 - weekend
 title: looky here
+translationKey: looky here
 wordpress_id: 797
 wordpress_url: http://new.nata2.org/?p=797
 ---

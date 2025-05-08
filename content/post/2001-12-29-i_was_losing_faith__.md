@@ -12,6 +12,7 @@ tags:
 - self-reflection
 - life-lessons
 title: i was losing faith..
+translationKey: i was losing faith..
 wordpress_id: 155
 wordpress_url: http://new.nata2.org/?p=155
 ---

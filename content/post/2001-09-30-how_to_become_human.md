@@ -10,6 +10,7 @@ tags:
 - science
 - apes
 title: how to become human
+translationKey: how to become human
 wordpress_id: 111
 wordpress_url: http://new.nata2.org/?p=111
 ---

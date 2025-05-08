@@ -12,6 +12,7 @@ tags:
 - movies
 - cleaning
 title: i woke up today. late.
+translationKey: i woke up today. late.
 wordpress_id: 957
 wordpress_url: http://new.nata2.org/?p=957
 ---

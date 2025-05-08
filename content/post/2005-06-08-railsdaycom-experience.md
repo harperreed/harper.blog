@@ -7,6 +7,7 @@ tags:
 - food
 - application-development
 title: railsday.com experience
+translationKey: railsday.com experience
 wordpress_id: 1079
 wordpress_url: http://www.nata2.org/2005/06/08/railsdaycom-experience/
 ---

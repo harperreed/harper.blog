@@ -7,6 +7,7 @@ tags:
 - books
 - technology
 title: A nice sad video
+translationKey: A nice sad video
 wordpress_id: 1362
 wordpress_url: http://www.nata2.org/2006/10/10/a-nice-sad-video/
 ---

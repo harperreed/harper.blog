@@ -7,6 +7,7 @@ tags:
 - life-changes
 - site-redesign
 title: goddamn scifi. and super things... like life changes
+translationKey: goddamn scifi. and super things... like life changes
 wordpress_id: 1296
 wordpress_url: http://www.nata2.org/2006/06/21/goddamn-scifi-and-super-things-like-life-changes/
 ---

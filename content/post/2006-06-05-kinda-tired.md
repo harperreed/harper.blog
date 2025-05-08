@@ -7,6 +7,7 @@ tags:
 - hiromi
 - waiting
 title: kinda tired
+translationKey: kinda tired
 wordpress_id: 1284
 wordpress_url: http://www.nata2.org/2006/06/05/kinda-tired/
 ---

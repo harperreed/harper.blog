@@ -12,6 +12,7 @@ tags:
 - stress-management
 - technology
 title: so i woke up
+translationKey: so i woke up
 wordpress_id: 801
 wordpress_url: http://new.nata2.org/?p=801
 ---

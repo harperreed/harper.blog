@@ -6,6 +6,7 @@ tags:
 - wordpress
 - technology
 title: 'blogs smogs. '
+translationKey: 'blogs smogs. '
 wordpress_id: 1052
 wordpress_url: http://www.nata2.org/2005/05/03/blogs-smogs/
 ---

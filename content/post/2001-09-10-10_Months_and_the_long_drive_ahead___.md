@@ -12,6 +12,7 @@ tags:
 - relationships
 - communication
 title: 10 Months and the long drive ahead...
+translationKey: 10 Months and the long drive ahead...
 wordpress_id: 101
 wordpress_url: http://new.nata2.org/?p=101
 ---

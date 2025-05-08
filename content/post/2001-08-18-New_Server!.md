@@ -10,6 +10,7 @@ tags:
 - speed
 - technology
 title: New Server!
+translationKey: New Server!
 wordpress_id: 27
 wordpress_url: http://new.nata2.org/?p=27
 ---

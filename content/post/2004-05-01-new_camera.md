@@ -11,6 +11,7 @@ tags:
 - gadgets
 - reviews
 title: new camera
+translationKey: new camera
 wordpress_id: 835
 wordpress_url: http://new.nata2.org/?p=835
 ---

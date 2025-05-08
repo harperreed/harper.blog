@@ -10,6 +10,7 @@ tags:
 - free-stuff
 - insanity
 title: i am going to punch your arms with a stick
+translationKey: i am going to punch your arms with a stick
 wordpress_id: 964
 wordpress_url: http://new.nata2.org/?p=964
 ---

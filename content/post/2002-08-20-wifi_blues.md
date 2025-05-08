@@ -10,6 +10,7 @@ tags:
 - troubleshooting
 - gadgets
 title: wifi blues
+translationKey: wifi blues
 wordpress_id: 345
 wordpress_url: http://new.nata2.org/?p=345
 ---

@@ -11,6 +11,7 @@ tags:
 - ethics
 - terrorism
 title: for the years of terror we have invoked on them
+translationKey: for the years of terror we have invoked on them
 wordpress_id: 291
 wordpress_url: http://new.nata2.org/?p=291
 ---

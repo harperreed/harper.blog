@@ -12,6 +12,7 @@ tags:
 - dating
 - social-anxiety
 title: danzig. zip zig.
+translationKey: danzig. zip zig.
 wordpress_id: 900
 wordpress_url: http://new.nata2.org/?p=900
 ---

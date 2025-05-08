@@ -10,6 +10,7 @@ tags:
 - economic-impact
 - war-strategy
 title: surprise surprise
+translationKey: surprise surprise
 wordpress_id: 377
 wordpress_url: http://new.nata2.org/?p=377
 ---

@@ -7,6 +7,7 @@ tags:
 - chicago
 - phones
 title: Hiromi is here! and i just won a windows smart phone
+translationKey: Hiromi is here! and i just won a windows smart phone
 wordpress_id: 1288
 wordpress_url: http://www.nata2.org/2006/06/08/hiromi-is-here-and-i-just-won-a-windows-smart-phone/
 ---

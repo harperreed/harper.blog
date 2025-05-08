@@ -12,6 +12,7 @@ tags:
 - mental-health
 - self-discovery
 title: i am incredibly tired.
+translationKey: i am incredibly tired.
 wordpress_id: 793
 wordpress_url: http://new.nata2.org/?p=793
 ---

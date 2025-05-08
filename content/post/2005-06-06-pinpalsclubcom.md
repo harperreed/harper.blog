@@ -7,6 +7,7 @@ tags:
 - community
 - social
 title: pinpalsclub.com
+translationKey: pinpalsclub.com
 wordpress_id: 1075
 wordpress_url: http://www.nata2.org/2005/06/06/pinpalsclubcom/
 ---

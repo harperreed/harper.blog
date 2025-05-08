@@ -9,6 +9,7 @@ tags:
 - solutions
 - writing
 title: The final battle
+translationKey: The final battle
 wordpress_id: 15
 wordpress_url: http://new.nata2.org/?p=15
 ---

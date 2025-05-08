@@ -7,6 +7,7 @@ tags:
 - web-design
 - technology
 title: How myspace treats its users
+translationKey: How myspace treats its users
 wordpress_id: 1309
 wordpress_url: http://www.nata2.org/2006/07/22/how-myspace-treats-its-users/
 ---

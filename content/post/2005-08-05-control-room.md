@@ -7,6 +7,7 @@ tags:
 - conflict
 - objectivity
 title: Control Room
+translationKey: Control Room
 wordpress_id: 1106
 wordpress_url: http://www.nata2.org/2005/08/05/control-room/
 ---

@@ -7,6 +7,7 @@ tags:
 - linux
 - apple-hardware
 title: iBook picture frame
+translationKey: iBook picture frame
 wordpress_id: 1181
 wordpress_url: http://www.nata2.org/2004/12/26/ibook-picture-frame/
 ---

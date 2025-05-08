@@ -11,6 +11,7 @@ tags:
 - php
 - mobile-photos
 title: recently on nata2
+translationKey: recently on nata2
 wordpress_id: 803
 wordpress_url: http://new.nata2.org/?p=803
 ---

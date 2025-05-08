@@ -12,6 +12,7 @@ tags:
 - technology
 - drugs
 title: so today i am a grown up...
+translationKey: so today i am a grown up...
 wordpress_id: 517
 wordpress_url: http://new.nata2.org/?p=517
 ---

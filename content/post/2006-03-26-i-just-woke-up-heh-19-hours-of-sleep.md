@@ -7,6 +7,7 @@ tags:
 - japan
 - daily-life
 title: i just woke up... heh. 19 hours of sleep
+translationKey: i just woke up... heh. 19 hours of sleep
 wordpress_id: 1234
 wordpress_url: http://www.nata2.org/2006/03/26/i-just-woke-up-heh-19-hours-of-sleep/
 ---

@@ -7,6 +7,7 @@ tags:
 - travel
 - entertainment
 title: 'Radio Fame. '
+translationKey: 'Radio Fame. '
 wordpress_id: 1110
 wordpress_url: http://www.nata2.org/2005/08/12/radio-fame/
 ---

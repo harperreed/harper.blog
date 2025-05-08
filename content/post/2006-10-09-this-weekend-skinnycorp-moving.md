@@ -7,6 +7,7 @@ tags:
 - skinnycorp
 - workspace
 title: This weekend. skinnyCorp Moving
+translationKey: This weekend. skinnyCorp Moving
 wordpress_id: 1361
 wordpress_url: http://www.nata2.org/2006/10/09/this-weekend-skinnycorp-moving/
 ---

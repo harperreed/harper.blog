@@ -10,6 +10,7 @@ tags:
 - humor
 - family
 title: yesterday i wasn't...
+translationKey: yesterday i wasn't...
 wordpress_id: 759
 wordpress_url: http://new.nata2.org/?p=759
 ---

@@ -7,6 +7,7 @@ tags:
 - unix
 - operating-systems
 title: 'Desktop Linux.... '
+translationKey: 'Desktop Linux.... '
 wordpress_id: 1493
 wordpress_url: http://www.nata2.org/2007/11/29/desktop-linux/
 ---

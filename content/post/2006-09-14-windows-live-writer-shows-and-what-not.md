@@ -7,6 +7,7 @@ tags:
 - flickr
 - muse
 title: 'windows live writer. shows. and what not. '
+translationKey: 'windows live writer. shows. and what not. '
 wordpress_id: 1344
 wordpress_url: http://www.nata2.org/2006/09/14/windows-live-writer-shows-and-what-not/
 ---

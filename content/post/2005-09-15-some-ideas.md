@@ -7,6 +7,7 @@ tags:
 - health
 - cycling
 title: 'some ideas. '
+translationKey: 'some ideas. '
 wordpress_id: 1129
 wordpress_url: http://www.nata2.org/2005/09/15/some-ideas/
 ---

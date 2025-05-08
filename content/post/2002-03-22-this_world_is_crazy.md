@@ -10,6 +10,7 @@ tags:
 - politics
 - future
 title: this world is crazy
+translationKey: this world is crazy
 wordpress_id: 237
 wordpress_url: http://new.nata2.org/?p=237
 ---

@@ -7,6 +7,7 @@ tags:
 - personal-finance
 - debt-management
 title: Goddamn. I hate Iowa Student loan people.
+translationKey: Goddamn. I hate Iowa Student loan people.
 wordpress_id: 1416
 wordpress_url: http://www.nata2.org/2007/03/06/goddamn-i-hate-iowa-student-loan-people/
 ---

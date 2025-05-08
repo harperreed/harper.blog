@@ -12,6 +12,7 @@ tags:
 - celebration
 - personal
 title: My birthday is today
+translationKey: My birthday is today
 wordpress_id: 236
 wordpress_url: http://new.nata2.org/?p=236
 ---

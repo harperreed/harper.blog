@@ -13,6 +13,7 @@ tags:
 - humor
 - competition
 title: another one for the books
+translationKey: another one for the books
 wordpress_id: 169
 wordpress_url: http://new.nata2.org/?p=169
 ---

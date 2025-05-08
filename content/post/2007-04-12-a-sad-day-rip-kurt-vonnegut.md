@@ -7,6 +7,7 @@ tags:
 - books
 - authors
 title: A Sad Day. RIP Kurt Vonnegut.
+translationKey: A Sad Day. RIP Kurt Vonnegut.
 wordpress_id: 1432
 wordpress_url: http://www.nata2.org/2007/04/12/a-sad-day-rip-kurt-vonnegut/
 ---

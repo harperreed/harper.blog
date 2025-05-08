@@ -12,6 +12,7 @@ tags:
 - nostalgia
 - tivo
 title: w00t.. pinging i am
+translationKey: w00t.. pinging i am
 wordpress_id: 675
 wordpress_url: http://new.nata2.org/?p=675
 ---

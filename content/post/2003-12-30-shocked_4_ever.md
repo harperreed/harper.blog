@@ -12,6 +12,7 @@ tags:
 - fun
 - gaming
 title: shocked 4 ever
+translationKey: shocked 4 ever
 wordpress_id: 708
 wordpress_url: http://new.nata2.org/?p=708
 ---

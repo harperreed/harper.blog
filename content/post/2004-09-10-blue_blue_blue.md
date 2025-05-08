@@ -12,6 +12,7 @@ tags:
 - mental-health
 - relaxation
 title: blue blue blue
+translationKey: blue blue blue
 wordpress_id: 930
 wordpress_url: http://new.nata2.org/?p=930
 ---

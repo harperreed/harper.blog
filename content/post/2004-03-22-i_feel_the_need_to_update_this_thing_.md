@@ -12,6 +12,7 @@ tags:
 - friendship
 - programming
 title: i feel the need to update this thing.
+translationKey: i feel the need to update this thing.
 wordpress_id: 787
 wordpress_url: http://new.nata2.org/?p=787
 ---

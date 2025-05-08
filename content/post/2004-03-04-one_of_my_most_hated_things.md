@@ -12,6 +12,7 @@ tags:
 - frustration
 - night-out
 title: one of my most hated things
+translationKey: one of my most hated things
 wordpress_id: 768
 wordpress_url: http://new.nata2.org/?p=768
 ---

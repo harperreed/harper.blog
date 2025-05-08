@@ -10,6 +10,7 @@ tags:
 - experimentation
 - outdoor-activities
 title: ice skating and such
+translationKey: ice skating and such
 wordpress_id: 704
 wordpress_url: http://new.nata2.org/?p=704
 ---

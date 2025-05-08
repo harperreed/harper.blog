@@ -7,6 +7,7 @@ tags:
 - books
 - nightlife
 title: 'see.. i told you so. '
+translationKey: 'see.. i told you so. '
 wordpress_id: 1068
 wordpress_url: http://www.nata2.org/2005/05/23/see-i-told-you-so/
 ---

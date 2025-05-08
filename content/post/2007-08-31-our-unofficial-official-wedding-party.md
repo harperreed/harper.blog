@@ -7,6 +7,7 @@ tags:
 - family
 - travel
 title: Our unofficial official wedding party
+translationKey: Our unofficial official wedding party
 wordpress_id: 1474
 wordpress_url: http://www.nata2.org/2007/08/31/our-unofficial-official-wedding-party/
 ---

@@ -11,6 +11,7 @@ tags:
 - technology
 - personal-experience
 title: 'importing your old mail into gmail :: go cart action'
+translationKey: 'importing your old mail into gmail :: go cart action'
 wordpress_id: 893
 wordpress_url: http://new.nata2.org/?p=893
 ---

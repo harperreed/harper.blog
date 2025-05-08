@@ -7,6 +7,7 @@ tags:
 - daily-life
 - personal-growth
 title: soo.. this was a good day
+translationKey: soo.. this was a good day
 wordpress_id: 1114
 wordpress_url: http://www.nata2.org/2005/08/18/soo-this-was-a-good-day/
 ---

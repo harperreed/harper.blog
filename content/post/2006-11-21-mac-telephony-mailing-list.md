@@ -7,6 +7,7 @@ tags:
 - communications
 - community
 title: Mac telephony mailing list
+translationKey: Mac telephony mailing list
 wordpress_id: 1387
 wordpress_url: http://www.nata2.org/2006/11/21/mac-telephony-mailing-list/
 ---

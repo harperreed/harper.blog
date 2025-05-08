@@ -7,6 +7,7 @@ tags:
 - holiday-season
 - food
 title: Happy Holidays
+translationKey: Happy Holidays
 wordpress_id: 1578
 wordpress_url: http://www.nata2.org/?p=1578
 ---

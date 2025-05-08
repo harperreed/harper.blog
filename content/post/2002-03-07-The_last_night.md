@@ -11,6 +11,7 @@ tags:
 - fraternities
 - puzzles
 title: The last night
+translationKey: The last night
 wordpress_id: 226
 wordpress_url: http://new.nata2.org/?p=226
 ---

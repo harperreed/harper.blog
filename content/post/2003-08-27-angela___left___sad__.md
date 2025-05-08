@@ -13,6 +13,7 @@ tags:
 - emotions
 - politics
 title: angela.. left.. sad..
+translationKey: angela.. left.. sad..
 wordpress_id: 608
 wordpress_url: http://new.nata2.org/?p=608
 ---

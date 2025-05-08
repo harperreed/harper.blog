@@ -7,6 +7,7 @@ tags:
 - xmpp
 - chat
 title: OLPC Chicago Jabber Server
+translationKey: OLPC Chicago Jabber Server
 wordpress_id: 1511
 wordpress_url: http://www.nata2.org/2008/03/02/olpc-chicago-jabber-server/
 ---

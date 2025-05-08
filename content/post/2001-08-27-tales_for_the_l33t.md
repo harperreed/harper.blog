@@ -9,6 +9,7 @@ tags:
 - flash-animation
 - friendship
 title: tales for the l33t
+translationKey: tales for the l33t
 wordpress_id: 95
 wordpress_url: http://new.nata2.org/?p=95
 ---

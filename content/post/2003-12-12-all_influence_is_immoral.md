@@ -11,6 +11,7 @@ tags:
 - johnny-depp
 - personal-experience
 title: all influence is immoral
+translationKey: all influence is immoral
 wordpress_id: 696
 wordpress_url: http://new.nata2.org/?p=696
 ---

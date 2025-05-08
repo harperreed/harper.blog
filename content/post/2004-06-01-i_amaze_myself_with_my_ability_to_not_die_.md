@@ -12,6 +12,7 @@ tags:
 - work
 - programming
 title: i amaze myself with my ability to not die.
+translationKey: i amaze myself with my ability to not die.
 wordpress_id: 872
 wordpress_url: http://new.nata2.org/?p=872
 ---

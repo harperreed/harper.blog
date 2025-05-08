@@ -7,6 +7,7 @@ tags:
 - book-reviews
 - recent-readings
 title: Recent readings. All the books in the past few weeks
+translationKey: Recent readings. All the books in the past few weeks
 wordpress_id: 1478
 wordpress_url: http://www.nata2.org/2007/09/16/recent-readings/
 ---

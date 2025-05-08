@@ -13,6 +13,7 @@ tags:
 - juggling-community
 - madfest
 title: juggling fest part 2
+translationKey: juggling fest part 2
 wordpress_id: 435
 wordpress_url: http://new.nata2.org/?p=435
 ---

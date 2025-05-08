@@ -7,6 +7,7 @@ tags:
 - experiences
 - adventure
 title: The theme for this spring is travel
+translationKey: The theme for this spring is travel
 wordpress_id: 1517
 wordpress_url: http://www.nata2.org/?p=1517
 ---

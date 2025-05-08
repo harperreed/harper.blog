@@ -7,6 +7,7 @@ tags:
 - healthcare-reform
 - political-commentary
 title: Sicko. You need to see this movie.
+translationKey: Sicko. You need to see this movie.
 wordpress_id: 1459
 wordpress_url: http://www.nata2.org/2007/06/20/sicko-you-need-to-see-this-movie/
 ---

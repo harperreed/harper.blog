@@ -12,6 +12,7 @@ tags:
 - sunburn
 - lifestyle
 title: nice weather
+translationKey: nice weather
 wordpress_id: 487
 wordpress_url: http://new.nata2.org/?p=487
 ---

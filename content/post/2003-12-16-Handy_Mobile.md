@@ -11,6 +11,7 @@ tags:
 - gaming
 - internet
 title: Handy Mobile
+translationKey: Handy Mobile
 wordpress_id: 702
 wordpress_url: http://new.nata2.org/?p=702
 ---

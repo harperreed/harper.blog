@@ -7,6 +7,7 @@ tags:
 - community
 - travel
 title: Japan Tech Friends
+translationKey: Japan Tech Friends
 wordpress_id: 1540
 wordpress_url: http://www.nata2.org/?p=1540
 ---

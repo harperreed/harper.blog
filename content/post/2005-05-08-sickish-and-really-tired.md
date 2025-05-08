@@ -7,6 +7,7 @@ tags:
 - friends
 - events
 title: sickish.. and really tired.  clubbing
+translationKey: sickish.. and really tired.  clubbing
 wordpress_id: 1053
 wordpress_url: http://www.nata2.org/2005/05/08/sickish-and-really-tired/
 ---

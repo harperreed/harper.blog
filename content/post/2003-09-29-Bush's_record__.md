@@ -12,6 +12,7 @@ tags:
 - economy
 - recession
 title: Bush's record..
+translationKey: Bush's record..
 wordpress_id: 632
 wordpress_url: http://new.nata2.org/?p=632
 ---

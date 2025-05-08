@@ -12,6 +12,7 @@ tags:
 - satellite-tv
 - warranty
 title: Technology
+translationKey: Technology
 wordpress_id: 199
 wordpress_url: http://new.nata2.org/?p=199
 ---

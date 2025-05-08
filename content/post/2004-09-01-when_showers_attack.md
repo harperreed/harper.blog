@@ -10,6 +10,7 @@ tags:
 - wedding
 - life-updates
 title: when showers attack
+translationKey: when showers attack
 wordpress_id: 926
 wordpress_url: http://new.nata2.org/?p=926
 ---

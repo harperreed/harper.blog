@@ -12,6 +12,7 @@ tags:
 - food
 - holiday
 title: Thanksgiving part two or part one or part ten... nobody knows
+translationKey: Thanksgiving part two or part one or part ten... nobody knows
 wordpress_id: 408
 wordpress_url: http://new.nata2.org/?p=408
 ---

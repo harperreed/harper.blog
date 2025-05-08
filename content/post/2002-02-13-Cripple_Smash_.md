@@ -12,6 +12,7 @@ tags:
 - software-development
 - bbs
 title: Cripple Smash.
+translationKey: Cripple Smash.
 wordpress_id: 209
 wordpress_url: http://new.nata2.org/?p=209
 ---

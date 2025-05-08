@@ -12,6 +12,7 @@ tags:
 - scissor-sisters
 - friends
 title: scissor sisters
+translationKey: scissor sisters
 wordpress_id: 937
 wordpress_url: http://new.nata2.org/?p=937
 ---

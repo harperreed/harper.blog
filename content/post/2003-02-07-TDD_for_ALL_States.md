@@ -12,6 +12,7 @@ tags:
 - life
 - culture
 title: TDD for ALL States
+translationKey: TDD for ALL States
 wordpress_id: 444
 wordpress_url: http://new.nata2.org/?p=444
 ---

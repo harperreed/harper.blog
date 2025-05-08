@@ -9,6 +9,7 @@ tags:
 - photography
 - celebration
 title: pictures pictures pictures
+translationKey: pictures pictures pictures
 wordpress_id: 928
 wordpress_url: http://new.nata2.org/?p=928
 ---

@@ -12,6 +12,7 @@ tags:
 - internet-culture
 - php
 title: wow. what an algorithm
+translationKey: wow. what an algorithm
 wordpress_id: 690
 wordpress_url: http://new.nata2.org/?p=690
 ---

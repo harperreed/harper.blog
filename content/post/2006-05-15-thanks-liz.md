@@ -7,6 +7,7 @@ tags:
 - friends
 - chicago
 title: 'Thanks liz... '
+translationKey: 'Thanks liz... '
 wordpress_id: 1267
 wordpress_url: http://www.nata2.org/2006/05/15/thanks-liz/
 ---

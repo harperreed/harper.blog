@@ -12,6 +12,7 @@ tags:
 - politics
 - travel
 title: trains like buses
+translationKey: trains like buses
 wordpress_id: 440
 wordpress_url: http://new.nata2.org/?p=440
 ---

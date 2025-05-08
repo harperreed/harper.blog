@@ -10,6 +10,7 @@ tags:
 - travel
 - fun
 title: so tired. this weekend. etv. weddings are fun and weird
+translationKey: so tired. this weekend. etv. weddings are fun and weird
 wordpress_id: 910
 wordpress_url: http://new.nata2.org/?p=910
 ---

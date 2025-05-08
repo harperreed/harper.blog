@@ -7,6 +7,7 @@ tags:
 - rackspace
 - technology
 title: 2009 Hosting Summary (or where does Harper host in 2009/2010)
+translationKey: 2009 Hosting Summary (or where does Harper host in 2009/2010)
 wordpress_id: 1655
 wordpress_url: http://www.nata2.org/?p=1655
 ---

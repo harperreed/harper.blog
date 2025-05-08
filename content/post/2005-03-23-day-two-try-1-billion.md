@@ -7,6 +7,7 @@ tags:
 - javascript
 - ajax
 title: Day two try 1 billion
+translationKey: Day two try 1 billion
 wordpress_id: 1026
 wordpress_url: http://www.nata2.org/2005/03/23/day-two-try-1-billion/
 ---

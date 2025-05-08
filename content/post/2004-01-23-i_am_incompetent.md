@@ -12,6 +12,7 @@ tags:
 - parties
 - sleep
 title: i am incompetent
+translationKey: i am incompetent
 wordpress_id: 733
 wordpress_url: http://new.nata2.org/?p=733
 ---

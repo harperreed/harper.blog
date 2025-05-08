@@ -14,6 +14,7 @@ tags:
 - local-news
 - public-safety
 title: Check out my neighborhood
+translationKey: Check out my neighborhood
 wordpress_id: 117
 wordpress_url: http://new.nata2.org/?p=117
 ---

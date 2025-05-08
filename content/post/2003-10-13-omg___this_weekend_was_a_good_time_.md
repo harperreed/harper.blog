@@ -12,6 +12,7 @@ tags:
 - weekend
 - dining
 title: omg.. this weekend was a good time.
+translationKey: omg.. this weekend was a good time.
 wordpress_id: 641
 wordpress_url: http://new.nata2.org/?p=641
 ---

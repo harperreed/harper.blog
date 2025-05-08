@@ -7,6 +7,7 @@ tags:
 - weather
 - humor
 title: phoenix is rather nice
+translationKey: phoenix is rather nice
 wordpress_id: 1039
 wordpress_url: http://www.nata2.org/2005/04/06/phoenix-is-rather-nice/
 ---

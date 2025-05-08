@@ -9,6 +9,7 @@ tags:
 - blogging
 - lifestyle
 title: i am going to stop
+translationKey: i am going to stop
 wordpress_id: 915
 wordpress_url: http://new.nata2.org/?p=915
 ---

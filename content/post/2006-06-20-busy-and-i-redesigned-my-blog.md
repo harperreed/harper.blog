@@ -6,6 +6,7 @@ tags:
 - personal-update
 - blogging-tips
 title: 'busy.. and i redesigned my blog. '
+translationKey: 'busy.. and i redesigned my blog. '
 wordpress_id: 1295
 wordpress_url: http://www.nata2.org/2006/06/20/busy-and-i-redesigned-my-blog/
 ---

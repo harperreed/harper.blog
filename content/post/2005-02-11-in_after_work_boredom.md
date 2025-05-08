@@ -8,6 +8,7 @@ tags:
 - work-life-balance
 - creativity
 title: in after work boredom
+translationKey: in after work boredom
 wordpress_id: 992
 wordpress_url: http://new.nata2.org/?p=992
 ---

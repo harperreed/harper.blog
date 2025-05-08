@@ -12,6 +12,7 @@ tags:
 - food
 - games
 title: Hand in the Bush
+translationKey: Hand in the Bush
 wordpress_id: 326
 wordpress_url: http://new.nata2.org/?p=326
 ---

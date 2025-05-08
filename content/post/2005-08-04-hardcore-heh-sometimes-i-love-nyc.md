@@ -7,6 +7,7 @@ tags:
 - music-festival
 - nostalgia
 title: HARDCORE! heh. sometimes i love nyc
+translationKey: HARDCORE! heh. sometimes i love nyc
 wordpress_id: 1105
 wordpress_url: http://www.nata2.org/2005/08/04/hardcore-heh-sometimes-i-love-nyc/
 ---

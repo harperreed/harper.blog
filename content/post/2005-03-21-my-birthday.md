@@ -7,6 +7,7 @@ tags:
 - milestone
 - blogging
 title: my birthday
+translationKey: my birthday
 wordpress_id: 1016
 wordpress_url: http://www.nata2.org/2005/03/21/my-birthday/
 ---

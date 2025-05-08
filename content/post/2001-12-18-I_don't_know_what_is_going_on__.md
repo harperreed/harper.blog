@@ -8,6 +8,7 @@ tags:
 - emotions
 - change
 title: I don't know what is going on..
+translationKey: I don't know what is going on..
 wordpress_id: 148
 wordpress_url: http://new.nata2.org/?p=148
 ---

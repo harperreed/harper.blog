@@ -7,6 +7,7 @@ tags:
 - wordpress
 - static-site
 title: 'I migrated this blog to Jekyll on App Engine. So long Wordpress. '
+translationKey: 'I migrated this blog to Jekyll on App Engine. So long Wordpress. '
 ---
 
 I don't like to move my blog around. It is super annoying. The RSS feed gets all messed up, I spend months tweaking everything. I find silly bugs and then fascinate about fixing them. All in all it takes months to complete the process. I avoid it like the plague. 

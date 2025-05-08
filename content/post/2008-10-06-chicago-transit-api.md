@@ -7,6 +7,7 @@ tags:
 - api-development
 - bus-tracker
 title: Chicago Transit API
+translationKey: Chicago Transit API
 wordpress_id: 1569
 wordpress_url: http://www.nata2.org/?p=1569
 ---
