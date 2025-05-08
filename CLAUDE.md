@@ -12,6 +12,7 @@
 - Run book fetcher: `uv run tools/grab_read_books.py`
 - Run link fetcher: `uv run tools/grab_starred_links.py`
 - Run micro posts: `uv run tools/grab_micro_posts_fixed.py`
+- Run notes deduplicator: `uv run tools/deduplicate_notes.py --notes-dir content/notes --dry-run` (remove `--dry-run` to actually delete duplicates)
 
 ## Multilingual Support
 - Supported languages: English (en), Spanish (es), Japanese (ja), and Korean (ko)
