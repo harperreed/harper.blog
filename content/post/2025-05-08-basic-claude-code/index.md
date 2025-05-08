@@ -107,8 +107,7 @@ I stole a [CLAUDE.md](https://github.com/harperreed/dotfiles/blob/master/.claude
 
 - a light version of the big daddy rule.
 - instructions on how to do TDD
-- insturcitons on how I like to do code.
-
+- instructions on how I like to do code.
 [@clint](https://instagram.com/clintecker) made his call him big daddy and it is currently embedding info about big daddy in our all documentation. While typing this out, I decided to make my CLAUDE.md file call me "Harp Dog." This is a feature, not a bug.
 
 The commands are also really nice. You can see some of mine in my dotfiles [here](https://github.com/harperreed/dotfiles/tree/master/.claude/commands).
