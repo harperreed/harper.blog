@@ -21,6 +21,8 @@ title: 'Confessions from the Velvet Ropes: The Glamorous, Grueling Life of Thoma
   Onorato, New York''s Top Club Doorman'
 title_without_series: 'Confessions from the Velvet Ropes: The Glamorous, Grueling
   Life of Thomas Onorato, New York''s Top Club Doorman'
+translationKey: 'Confessions from the Velvet Ropes: The Glamorous, Grueling Life of
+  Thomas Onorato, New York''s Top Club Doorman'
 yaml: confessions-from-the-velvet-ropes-the-glamorous-grueling-life-of-thomas-onorato-new-york-s-top-club-doorman
 ---
 

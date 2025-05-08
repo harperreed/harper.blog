@@ -18,6 +18,7 @@ tags:
 - John Varley
 title: 'Red Lightning (Red Thunder, #2)'
 title_without_series: Red Lightning
+translationKey: 'Red Lightning (Red Thunder, #2)'
 yaml: red-lightning-red-thunder-2
 ---
 

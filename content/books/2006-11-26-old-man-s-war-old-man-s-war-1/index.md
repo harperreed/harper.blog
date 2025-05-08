@@ -18,6 +18,7 @@ tags:
 - John Scalzi
 title: 'Old Man''s War (Old Man''s War, #1)'
 title_without_series: Old Man's War
+translationKey: 'Old Man''s War (Old Man''s War, #1)'
 yaml: old-man-s-war-old-man-s-war-1
 ---
 

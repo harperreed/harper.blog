@@ -22,6 +22,7 @@ tags:
 - Kaveh Akbar
 title: Martyr!
 title_without_series: Martyr!
+translationKey: Martyr!
 yaml: martyr
 ---
 

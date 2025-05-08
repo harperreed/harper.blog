@@ -18,6 +18,7 @@ tags:
 - Paolo Bacigalupi
 title: The Water Knife
 title_without_series: The Water Knife
+translationKey: The Water Knife
 yaml: the-water-knife
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Adrian Tchaikovsky
 title: Alien Clay
 title_without_series: Alien Clay
+translationKey: Alien Clay
 yaml: alien-clay
 ---
 

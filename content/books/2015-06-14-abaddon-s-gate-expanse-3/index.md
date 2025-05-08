@@ -18,6 +18,7 @@ tags:
 - James S.A. Corey
 title: 'Abaddon''s Gate (Expanse, #3)'
 title_without_series: Abaddon's Gate
+translationKey: 'Abaddon''s Gate (Expanse, #3)'
 yaml: abaddon-s-gate-expanse-3
 ---
 

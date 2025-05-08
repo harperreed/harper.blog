@@ -18,6 +18,7 @@ tags:
 - Peter Watts
 title: 'Blindsight (Firefall, #1)'
 title_without_series: Blindsight
+translationKey: 'Blindsight (Firefall, #1)'
 yaml: blindsight-firefall-1
 ---
 

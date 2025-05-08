@@ -18,6 +18,7 @@ tags:
 - Steven Brust
 title: 'Dzur (Vlad Taltos, #10)'
 title_without_series: Dzur
+translationKey: 'Dzur (Vlad Taltos, #10)'
 yaml: dzur-vlad-taltos-10
 ---
 

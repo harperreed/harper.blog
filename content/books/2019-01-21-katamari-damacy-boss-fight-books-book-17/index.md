@@ -19,6 +19,7 @@ tags:
 - L.E. Hall
 title: Katamari Damacy (Boss Fight Books Book 17)
 title_without_series: Katamari Damacy
+translationKey: Katamari Damacy (Boss Fight Books Book 17)
 yaml: katamari-damacy-boss-fight-books-book-17
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Larry Niven
 title: 'The Ringworld Engineers (Ringworld, #2)'
 title_without_series: The Ringworld Engineers
+translationKey: 'The Ringworld Engineers (Ringworld, #2)'
 yaml: the-ringworld-engineers-ringworld-2
 ---
 

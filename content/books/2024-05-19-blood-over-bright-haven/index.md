@@ -18,6 +18,7 @@ tags:
 - M.L. Wang
 title: Blood Over Bright Haven
 title_without_series: Blood Over Bright Haven
+translationKey: Blood Over Bright Haven
 yaml: blood-over-bright-haven
 ---
 

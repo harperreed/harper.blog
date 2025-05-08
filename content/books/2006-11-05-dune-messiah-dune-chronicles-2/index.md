@@ -18,6 +18,7 @@ tags:
 - Frank Herbert
 title: 'Dune Messiah (Dune Chronicles, #2)'
 title_without_series: Dune Messiah
+translationKey: 'Dune Messiah (Dune Chronicles, #2)'
 yaml: dune-messiah-dune-chronicles-2
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Cory Doctorow
 title: 'Red Team Blues (Martin Hench #1)'
 title_without_series: Red Team Blues
+translationKey: 'Red Team Blues (Martin Hench #1)'
 yaml: red-team-blues-martin-hench-1
 ---
 

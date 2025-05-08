@@ -18,6 +18,7 @@ tags:
 - Ha Jin
 title: The Bridegroom
 title_without_series: The Bridegroom
+translationKey: The Bridegroom
 yaml: the-bridegroom
 ---
 

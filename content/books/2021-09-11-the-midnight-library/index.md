@@ -18,6 +18,7 @@ tags:
 - Matt Haig
 title: The Midnight Library
 title_without_series: The Midnight Library
+translationKey: The Midnight Library
 yaml: the-midnight-library
 ---
 

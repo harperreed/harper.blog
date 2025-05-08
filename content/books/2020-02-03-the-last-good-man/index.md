@@ -18,6 +18,7 @@ tags:
 - Linda Nagata
 title: The Last Good Man
 title_without_series: The Last Good Man
+translationKey: The Last Good Man
 yaml: the-last-good-man
 ---
 

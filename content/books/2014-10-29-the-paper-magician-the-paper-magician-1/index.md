@@ -19,6 +19,7 @@ tags:
 - Charlie N. Holmberg
 title: 'The Paper Magician (The Paper Magician #1)'
 title_without_series: The Paper Magician
+translationKey: 'The Paper Magician (The Paper Magician #1)'
 yaml: the-paper-magician-the-paper-magician-1
 ---
 

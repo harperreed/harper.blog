@@ -18,6 +18,7 @@ tags:
 - Steven Brust
 title: 'Hawk (Vlad Taltos, #14)'
 title_without_series: Hawk
+translationKey: 'Hawk (Vlad Taltos, #14)'
 yaml: hawk-vlad-taltos-14
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Bruce Sterling
 title: Heavy Weather
 title_without_series: Heavy Weather
+translationKey: Heavy Weather
 yaml: heavy-weather
 ---
 

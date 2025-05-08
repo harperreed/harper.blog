@@ -18,6 +18,7 @@ tags:
 - Tochi Onyebuchi
 title: Riot Baby
 title_without_series: Riot Baby
+translationKey: Riot Baby
 yaml: riot-baby
 ---
 

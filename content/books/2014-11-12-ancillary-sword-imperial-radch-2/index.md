@@ -18,6 +18,7 @@ tags:
 - Ann Leckie
 title: 'Ancillary Sword (Imperial Radch, #2)'
 title_without_series: Ancillary Sword
+translationKey: 'Ancillary Sword (Imperial Radch, #2)'
 yaml: ancillary-sword-imperial-radch-2
 ---
 

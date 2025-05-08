@@ -20,6 +20,7 @@ tags:
 title: 'Walking Through Clear Water in a Pool Painted Black: Collected Stories'
 title_without_series: 'Walking Through Clear Water in a Pool Painted Black: Collected
   Stories'
+translationKey: 'Walking Through Clear Water in a Pool Painted Black: Collected Stories'
 yaml: walking-through-clear-water-in-a-pool-painted-black-collected-stories
 ---
 

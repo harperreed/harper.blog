@@ -18,6 +18,7 @@ tags:
 - Elizabeth Bear
 title: 'Ancestral Night (White Space, #1)'
 title_without_series: Ancestral Night
+translationKey: 'Ancestral Night (White Space, #1)'
 yaml: ancestral-night-white-space-1
 ---
 

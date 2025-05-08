@@ -19,6 +19,7 @@ tags:
 - Joe Abercrombie
 title: 'The Blade Itself (The First Law, #1)'
 title_without_series: The Blade Itself
+translationKey: 'The Blade Itself (The First Law, #1)'
 yaml: the-blade-itself-the-first-law-1
 ---
 

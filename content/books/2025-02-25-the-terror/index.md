@@ -18,6 +18,7 @@ tags:
 - Dan Simmons
 title: The Terror
 title_without_series: The Terror
+translationKey: The Terror
 yaml: the-terror
 ---
 

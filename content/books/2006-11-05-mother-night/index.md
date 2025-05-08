@@ -18,6 +18,7 @@ tags:
 - Kurt Vonnegut Jr.
 title: Mother Night
 title_without_series: Mother Night
+translationKey: Mother Night
 yaml: mother-night
 ---
 

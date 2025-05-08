@@ -18,6 +18,7 @@ tags:
 - Jack Campbell
 title: 'Fearless (The Lost Fleet, #2)'
 title_without_series: Fearless
+translationKey: 'Fearless (The Lost Fleet, #2)'
 yaml: fearless-the-lost-fleet-2
 ---
 

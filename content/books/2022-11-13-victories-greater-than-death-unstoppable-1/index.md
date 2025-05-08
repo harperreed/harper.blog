@@ -19,6 +19,7 @@ tags:
 - Charlie Jane Anders
 title: 'Victories Greater Than Death (Unstoppable #1)'
 title_without_series: Victories Greater Than Death
+translationKey: 'Victories Greater Than Death (Unstoppable #1)'
 yaml: victories-greater-than-death-unstoppable-1
 ---
 

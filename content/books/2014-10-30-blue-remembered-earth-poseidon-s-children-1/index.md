@@ -19,6 +19,7 @@ tags:
 - Alastair Reynolds
 title: 'Blue Remembered Earth (Poseidon''s Children, #1)'
 title_without_series: Blue Remembered Earth
+translationKey: 'Blue Remembered Earth (Poseidon''s Children, #1)'
 yaml: blue-remembered-earth-poseidon-s-children-1
 ---
 

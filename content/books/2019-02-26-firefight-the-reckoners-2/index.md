@@ -18,6 +18,7 @@ tags:
 - Brandon Sanderson
 title: 'Firefight (The Reckoners, #2)'
 title_without_series: Firefight
+translationKey: 'Firefight (The Reckoners, #2)'
 yaml: firefight-the-reckoners-2
 ---
 

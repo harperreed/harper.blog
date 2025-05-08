@@ -19,6 +19,7 @@ tags:
 - Vernor Vinge
 title: 'Rainbows End: A Novel With One Foot In The Future'
 title_without_series: 'Rainbows End: A Novel With One Foot In The Future'
+translationKey: 'Rainbows End: A Novel With One Foot In The Future'
 yaml: rainbows-end-a-novel-with-one-foot-in-the-future
 ---
 

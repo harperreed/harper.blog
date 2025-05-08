@@ -18,6 +18,7 @@ tags:
 - James  Church
 title: 'Bamboo and Blood (Inspector O, #3)'
 title_without_series: Bamboo and Blood
+translationKey: 'Bamboo and Blood (Inspector O, #3)'
 yaml: bamboo-and-blood-inspector-o-3
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Patrick Rothfuss
 title: 'The Name of the Wind (The Kingkiller Chronicle, #1)'
 title_without_series: The Name of the Wind
+translationKey: 'The Name of the Wind (The Kingkiller Chronicle, #1)'
 yaml: the-name-of-the-wind-the-kingkiller-chronicle-1
 ---
 

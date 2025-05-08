@@ -18,6 +18,7 @@ tags:
 - Simon     Clark
 title: The Key Man
 title_without_series: The Key Man
+translationKey: The Key Man
 yaml: the-key-man
 ---
 

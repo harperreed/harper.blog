@@ -18,6 +18,7 @@ tags:
 - Emma Newman
 title: 'Atlas Alone (Planetfall #4)'
 title_without_series: Atlas Alone
+translationKey: 'Atlas Alone (Planetfall #4)'
 yaml: atlas-alone-planetfall-4
 ---
 

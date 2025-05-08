@@ -21,6 +21,8 @@ title: 'Springfield Confidential: Jokes, Secrets, and Outright Lies from a Lifet
   Writing for The Simpsons'
 title_without_series: 'Springfield Confidential: Jokes, Secrets, and Outright Lies
   from a Lifetime Writing for The Simpsons'
+translationKey: 'Springfield Confidential: Jokes, Secrets, and Outright Lies from
+  a Lifetime Writing for The Simpsons'
 yaml: springfield-confidential-jokes-secrets-and-outright-lies-from-a-lifetime-writing-for-the-simpsons
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Erika Swyler
 title: Light from Other Stars
 title_without_series: Light from Other Stars
+translationKey: Light from Other Stars
 yaml: light-from-other-stars
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Joel Dane
 title: 'Burn Cycle (Cry Pilot #2)'
 title_without_series: Burn Cycle
+translationKey: 'Burn Cycle (Cry Pilot #2)'
 yaml: burn-cycle-cry-pilot-2
 ---
 

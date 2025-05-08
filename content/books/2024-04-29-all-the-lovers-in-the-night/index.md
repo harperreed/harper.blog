@@ -18,6 +18,7 @@ tags:
 - Mieko Kawakami
 title: All the Lovers in the Night
 title_without_series: All the Lovers in the Night
+translationKey: All the Lovers in the Night
 yaml: all-the-lovers-in-the-night
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Robin Sloan
 title: Annabel Scheme
 title_without_series: Annabel Scheme
+translationKey: Annabel Scheme
 yaml: annabel-scheme
 ---
 

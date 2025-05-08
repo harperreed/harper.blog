@@ -18,6 +18,7 @@ tags:
 - Russell Lutz
 title: The Department of Off World Affairs
 title_without_series: The Department of Off World Affairs
+translationKey: The Department of Off World Affairs
 yaml: the-department-of-off-world-affairs
 ---
 

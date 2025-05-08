@@ -18,6 +18,7 @@ tags:
 - Grace  Curtis
 title: Floating Hotel
 title_without_series: Floating Hotel
+translationKey: Floating Hotel
 yaml: floating-hotel
 ---
 

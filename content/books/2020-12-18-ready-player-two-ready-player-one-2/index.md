@@ -19,6 +19,7 @@ tags:
 - Ernest Cline
 title: 'Ready Player Two (Ready Player One #2)'
 title_without_series: Ready Player Two
+translationKey: 'Ready Player Two (Ready Player One #2)'
 yaml: ready-player-two-ready-player-one-2
 ---
 

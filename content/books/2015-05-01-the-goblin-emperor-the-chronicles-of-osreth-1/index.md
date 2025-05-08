@@ -19,6 +19,7 @@ tags:
 - Katherine Addison
 title: 'The Goblin Emperor (The Chronicles of Osreth, #1)'
 title_without_series: The Goblin Emperor
+translationKey: 'The Goblin Emperor (The Chronicles of Osreth, #1)'
 yaml: the-goblin-emperor-the-chronicles-of-osreth-1
 ---
 

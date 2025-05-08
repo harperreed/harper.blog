@@ -18,6 +18,7 @@ tags:
 - Mieko Kawakami
 title: Breasts and Eggs
 title_without_series: Breasts and Eggs
+translationKey: Breasts and Eggs
 yaml: breasts-and-eggs
 ---
 

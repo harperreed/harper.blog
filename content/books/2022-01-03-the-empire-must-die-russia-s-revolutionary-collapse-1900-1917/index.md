@@ -19,6 +19,7 @@ tags:
 - Mikhail Zygar
 title: 'The Empire Must Die: Russia''s Revolutionary Collapse, 1900-1917'
 title_without_series: 'The Empire Must Die: Russia''s Revolutionary Collapse, 1900-1917'
+translationKey: 'The Empire Must Die: Russia''s Revolutionary Collapse, 1900-1917'
 yaml: the-empire-must-die-russia-s-revolutionary-collapse-1900-1917
 ---
 

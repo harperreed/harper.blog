@@ -18,6 +18,7 @@ tags:
 - Tim Maughan
 title: Infinite Detail
 title_without_series: Infinite Detail
+translationKey: Infinite Detail
 yaml: infinite-detail
 ---
 

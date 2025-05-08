@@ -18,6 +18,7 @@ tags:
 - Peter Watts
 title: 'Starfish (Rifters, #1)'
 title_without_series: Starfish
+translationKey: 'Starfish (Rifters, #1)'
 yaml: starfish-rifters-1
 ---
 

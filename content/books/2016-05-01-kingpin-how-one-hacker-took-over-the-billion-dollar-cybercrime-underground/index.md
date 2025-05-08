@@ -20,6 +20,7 @@ tags:
 title: 'Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground'
 title_without_series: 'Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime
   Underground'
+translationKey: 'Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground'
 yaml: kingpin-how-one-hacker-took-over-the-billion-dollar-cybercrime-underground
 ---
 

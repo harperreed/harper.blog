@@ -18,6 +18,7 @@ tags:
 - Vajra Chandrasekera
 title: The Saint of Bright Doors
 title_without_series: The Saint of Bright Doors
+translationKey: The Saint of Bright Doors
 yaml: the-saint-of-bright-doors
 ---
 

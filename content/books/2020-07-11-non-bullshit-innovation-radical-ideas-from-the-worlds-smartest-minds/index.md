@@ -20,6 +20,8 @@ tags:
 title: 'Non-Bullshit Innovation: Radical Ideas from the World’s Smartest Minds'
 title_without_series: 'Non-Bullshit Innovation: Radical Ideas from the World’s Smartest
   Minds'
+translationKey: 'Non-Bullshit Innovation: Radical Ideas from the World’s Smartest
+  Minds'
 yaml: non-bullshit-innovation-radical-ideas-from-the-worlds-smartest-minds
 ---
 

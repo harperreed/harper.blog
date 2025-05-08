@@ -1,11 +1,11 @@
 ---
-title: Books
-lastmod: "2017-12-04"
-
-nofeed: true
+description: A collection of books I've read and my thoughts about them
 draft: false
+lastmod: '2017-12-04'
+nofeed: true
+title: Books
+translationKey: Books
 url: /media/books/list
-description: "A collection of books I've read and my thoughts about them"
 ---
 
 # Books I've Read

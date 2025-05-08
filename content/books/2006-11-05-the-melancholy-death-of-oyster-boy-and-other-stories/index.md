@@ -19,6 +19,7 @@ tags:
 - Tim Burton
 title: The Melancholy Death of Oyster Boy and Other Stories
 title_without_series: The Melancholy Death of Oyster Boy and Other Stories
+translationKey: The Melancholy Death of Oyster Boy and Other Stories
 yaml: the-melancholy-death-of-oyster-boy-and-other-stories
 ---
 

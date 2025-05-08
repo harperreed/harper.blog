@@ -18,6 +18,7 @@ tags:
 - Ian McEwan
 title: Atonement
 title_without_series: Atonement
+translationKey: Atonement
 yaml: atonement
 ---
 

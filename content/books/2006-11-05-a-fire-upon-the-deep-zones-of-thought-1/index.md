@@ -19,6 +19,7 @@ tags:
 - Vernor Vinge
 title: 'A Fire Upon the Deep (Zones of Thought, #1)'
 title_without_series: A Fire Upon the Deep
+translationKey: 'A Fire Upon the Deep (Zones of Thought, #1)'
 yaml: a-fire-upon-the-deep-zones-of-thought-1
 ---
 

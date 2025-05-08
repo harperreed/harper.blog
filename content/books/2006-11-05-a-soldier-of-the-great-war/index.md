@@ -18,6 +18,7 @@ tags:
 - Mark Helprin
 title: A Soldier of the Great War
 title_without_series: A Soldier of the Great War
+translationKey: A Soldier of the Great War
 yaml: a-soldier-of-the-great-war
 ---
 

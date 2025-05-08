@@ -18,6 +18,7 @@ tags:
 - Orson Scott Card
 title: 'Shadow of the Giant (Shadow, #4)'
 title_without_series: Shadow of the Giant
+translationKey: 'Shadow of the Giant (Shadow, #4)'
 yaml: shadow-of-the-giant-shadow-4
 ---
 

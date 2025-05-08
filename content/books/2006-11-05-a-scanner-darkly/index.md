@@ -18,6 +18,7 @@ tags:
 - Philip K. Dick
 title: A Scanner Darkly
 title_without_series: A Scanner Darkly
+translationKey: A Scanner Darkly
 yaml: a-scanner-darkly
 ---
 

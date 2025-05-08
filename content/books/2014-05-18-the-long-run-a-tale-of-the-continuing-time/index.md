@@ -19,6 +19,7 @@ tags:
 - Daniel Keys Moran
 title: 'The Long Run: A Tale of the Continuing Time'
 title_without_series: 'The Long Run: A Tale of the Continuing Time'
+translationKey: 'The Long Run: A Tale of the Continuing Time'
 yaml: the-long-run-a-tale-of-the-continuing-time
 ---
 

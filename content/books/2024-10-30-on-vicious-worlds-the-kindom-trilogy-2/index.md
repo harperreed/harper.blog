@@ -19,6 +19,7 @@ tags:
 - Bethany Jacobs
 title: 'On Vicious Worlds (The Kindom Trilogy #2)'
 title_without_series: On Vicious Worlds
+translationKey: 'On Vicious Worlds (The Kindom Trilogy #2)'
 yaml: on-vicious-worlds-the-kindom-trilogy-2
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Matt Dinniman
 title: 'The Gate of the Feral Gods (Dungeon Crawler Carl, #4)'
 title_without_series: The Gate of the Feral Gods
+translationKey: 'The Gate of the Feral Gods (Dungeon Crawler Carl, #4)'
 yaml: the-gate-of-the-feral-gods-dungeon-crawler-carl-4
 ---
 

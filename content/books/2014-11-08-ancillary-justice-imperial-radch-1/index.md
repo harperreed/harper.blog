@@ -18,6 +18,7 @@ tags:
 - Ann Leckie
 title: 'Ancillary Justice (Imperial Radch, #1)'
 title_without_series: Ancillary Justice
+translationKey: 'Ancillary Justice (Imperial Radch, #1)'
 yaml: ancillary-justice-imperial-radch-1
 ---
 

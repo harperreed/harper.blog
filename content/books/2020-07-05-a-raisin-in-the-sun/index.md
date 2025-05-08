@@ -18,6 +18,7 @@ tags:
 - Lorraine Hansberry
 title: A Raisin in the Sun
 title_without_series: A Raisin in the Sun
+translationKey: A Raisin in the Sun
 yaml: a-raisin-in-the-sun
 ---
 

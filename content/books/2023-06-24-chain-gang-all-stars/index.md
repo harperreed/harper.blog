@@ -18,6 +18,7 @@ tags:
 - Nana Kwame Adjei-Brenyah
 title: Chain-Gang All-Stars
 title_without_series: Chain-Gang All-Stars
+translationKey: Chain-Gang All-Stars
 yaml: chain-gang-all-stars
 ---
 

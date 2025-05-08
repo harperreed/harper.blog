@@ -19,6 +19,7 @@ tags:
 - Arkady Martine
 title: 'A Memory Called Empire (Teixcalaan, #1)'
 title_without_series: A Memory Called Empire
+translationKey: 'A Memory Called Empire (Teixcalaan, #1)'
 yaml: a-memory-called-empire-teixcalaan-1
 ---
 

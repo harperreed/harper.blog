@@ -19,6 +19,7 @@ tags:
 - Martha Wells
 title: 'Fugitive Telemetry (The Murderbot Diaries, #6)'
 title_without_series: Fugitive Telemetry
+translationKey: 'Fugitive Telemetry (The Murderbot Diaries, #6)'
 yaml: fugitive-telemetry-the-murderbot-diaries-6
 ---
 

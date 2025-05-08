@@ -19,6 +19,7 @@ tags:
 - Suzanne Palmer
 title: 'The Scavenger Door (Finder Chronicles, #3)'
 title_without_series: The Scavenger Door
+translationKey: 'The Scavenger Door (Finder Chronicles, #3)'
 yaml: the-scavenger-door-finder-chronicles-3
 ---
 

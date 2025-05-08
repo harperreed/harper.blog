@@ -19,6 +19,7 @@ tags:
 - Martha Wells
 title: 'Rogue Protocol (The Murderbot Diaries, #3)'
 title_without_series: Rogue Protocol
+translationKey: 'Rogue Protocol (The Murderbot Diaries, #3)'
 yaml: rogue-protocol-the-murderbot-diaries-3
 ---
 

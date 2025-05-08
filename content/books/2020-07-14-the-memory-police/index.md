@@ -18,6 +18,7 @@ tags:
 - Yōko Ogawa
 title: The Memory Police
 title_without_series: The Memory Police
+translationKey: The Memory Police
 yaml: the-memory-police
 ---
 

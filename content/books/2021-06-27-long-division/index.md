@@ -18,6 +18,7 @@ tags:
 - Kiese Laymon
 title: Long Division
 title_without_series: Long Division
+translationKey: Long Division
 yaml: long-division
 ---
 

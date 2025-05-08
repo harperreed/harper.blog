@@ -18,6 +18,7 @@ tags:
 - Ocean Vuong
 title: On Earth We're Briefly Gorgeous
 title_without_series: On Earth We're Briefly Gorgeous
+translationKey: On Earth We're Briefly Gorgeous
 yaml: on-earth-we-re-briefly-gorgeous
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Tana French
 title: 'Broken Harbor (Dublin Murder Squad, #4)'
 title_without_series: Broken Harbor
+translationKey: 'Broken Harbor (Dublin Murder Squad, #4)'
 yaml: broken-harbor-dublin-murder-squad-4
 ---
 

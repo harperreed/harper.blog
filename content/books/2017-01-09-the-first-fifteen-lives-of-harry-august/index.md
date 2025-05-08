@@ -19,6 +19,7 @@ tags:
 - Claire North
 title: The First Fifteen Lives of Harry August
 title_without_series: The First Fifteen Lives of Harry August
+translationKey: The First Fifteen Lives of Harry August
 yaml: the-first-fifteen-lives-of-harry-august
 ---
 

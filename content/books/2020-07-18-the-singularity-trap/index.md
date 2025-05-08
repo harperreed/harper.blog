@@ -18,6 +18,7 @@ tags:
 - Dennis E. Taylor
 title: The Singularity Trap
 title_without_series: The Singularity Trap
+translationKey: The Singularity Trap
 yaml: the-singularity-trap
 ---
 

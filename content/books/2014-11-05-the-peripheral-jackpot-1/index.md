@@ -18,6 +18,7 @@ tags:
 - William Gibson
 title: 'The Peripheral (Jackpot #1)'
 title_without_series: The Peripheral
+translationKey: 'The Peripheral (Jackpot #1)'
 yaml: the-peripheral-jackpot-1
 ---
 

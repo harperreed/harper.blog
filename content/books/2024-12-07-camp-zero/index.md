@@ -19,6 +19,7 @@ tags:
 - Michelle Min Sterling
 title: Camp Zero
 title_without_series: Camp Zero
+translationKey: Camp Zero
 yaml: camp-zero
 ---
 

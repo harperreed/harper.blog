@@ -18,6 +18,7 @@ tags:
 - James  Church
 title: The Man with the Baltic Stare
 title_without_series: The Man with the Baltic Stare
+translationKey: The Man with the Baltic Stare
 yaml: the-man-with-the-baltic-stare
 ---
 

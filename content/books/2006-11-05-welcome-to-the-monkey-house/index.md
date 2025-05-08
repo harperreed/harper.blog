@@ -18,6 +18,7 @@ tags:
 - Kurt Vonnegut Jr.
 title: Welcome to the Monkey House
 title_without_series: Welcome to the Monkey House
+translationKey: Welcome to the Monkey House
 yaml: welcome-to-the-monkey-house
 ---
 

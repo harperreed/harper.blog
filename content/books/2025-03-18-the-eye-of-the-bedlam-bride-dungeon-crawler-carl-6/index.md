@@ -20,6 +20,7 @@ tags:
 - Matt Dinniman
 title: 'The Eye of the Bedlam Bride (Dungeon Crawler Carl, #6)'
 title_without_series: The Eye of the Bedlam Bride
+translationKey: 'The Eye of the Bedlam Bride (Dungeon Crawler Carl, #6)'
 yaml: the-eye-of-the-bedlam-bride-dungeon-crawler-carl-6
 ---
 

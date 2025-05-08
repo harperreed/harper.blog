@@ -18,6 +18,7 @@ tags:
 - Andy Weir
 title: Artemis
 title_without_series: Artemis
+translationKey: Artemis
 yaml: artemis
 ---
 

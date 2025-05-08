@@ -19,6 +19,7 @@ tags:
 - Philip Pullman
 title: 'Lyra''s Oxford (His Dark Materials, #3.5)'
 title_without_series: Lyra's Oxford
+translationKey: 'Lyra''s Oxford (His Dark Materials, #3.5)'
 yaml: lyra-s-oxford-his-dark-materials-3-5
 ---
 

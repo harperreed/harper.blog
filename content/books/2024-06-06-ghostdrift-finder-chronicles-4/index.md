@@ -18,6 +18,7 @@ tags:
 - Suzanne Palmer
 title: 'Ghostdrift (Finder Chronicles, #4)'
 title_without_series: Ghostdrift
+translationKey: 'Ghostdrift (Finder Chronicles, #4)'
 yaml: ghostdrift-finder-chronicles-4
 ---
 

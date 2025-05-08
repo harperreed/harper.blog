@@ -19,6 +19,7 @@ tags:
 - Emily Devenport
 title: 'Medusa Uploaded (The Medusa Cycle, #1)'
 title_without_series: Medusa Uploaded
+translationKey: 'Medusa Uploaded (The Medusa Cycle, #1)'
 yaml: medusa-uploaded-the-medusa-cycle-1
 ---
 

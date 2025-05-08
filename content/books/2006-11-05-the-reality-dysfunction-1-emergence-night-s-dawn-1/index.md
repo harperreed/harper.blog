@@ -19,6 +19,7 @@ tags:
 - Peter F. Hamilton
 title: 'The Reality Dysfunction 1: Emergence (Night''s Dawn 1)'
 title_without_series: 'The Reality Dysfunction 1: Emergence'
+translationKey: 'The Reality Dysfunction 1: Emergence (Night''s Dawn 1)'
 yaml: the-reality-dysfunction-1-emergence-night-s-dawn-1
 ---
 

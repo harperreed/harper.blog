@@ -19,6 +19,7 @@ tags:
 - Philip P. Pan
 title: 'Out of Mao''s Shadow: The Struggle for the Soul of a New China'
 title_without_series: 'Out of Mao''s Shadow: The Struggle for the Soul of a New China'
+translationKey: 'Out of Mao''s Shadow: The Struggle for the Soul of a New China'
 yaml: out-of-mao-s-shadow-the-struggle-for-the-soul-of-a-new-china
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Nana Kwame Adjei-Brenyah
 title: Friday Black
 title_without_series: Friday Black
+translationKey: Friday Black
 yaml: friday-black
 ---
 

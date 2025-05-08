@@ -18,6 +18,7 @@ tags:
 - Kate Karyus Quinn
 title: Down with the Shine
 title_without_series: Down with the Shine
+translationKey: Down with the Shine
 yaml: down-with-the-shine
 ---
 

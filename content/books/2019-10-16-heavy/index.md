@@ -18,6 +18,7 @@ tags:
 - Kiese Laymon
 title: Heavy
 title_without_series: Heavy
+translationKey: Heavy
 yaml: heavy
 ---
 

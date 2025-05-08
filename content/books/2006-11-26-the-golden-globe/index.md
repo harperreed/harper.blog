@@ -18,6 +18,7 @@ tags:
 - John Varley
 title: The Golden Globe
 title_without_series: The Golden Globe
+translationKey: The Golden Globe
 yaml: the-golden-globe
 ---
 

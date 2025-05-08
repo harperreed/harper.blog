@@ -19,6 +19,7 @@ tags:
 - K. Eason
 title: 'How the Multiverse Got Its Revenge (The Thorne Chronicles, #2)'
 title_without_series: How the Multiverse Got Its Revenge
+translationKey: 'How the Multiverse Got Its Revenge (The Thorne Chronicles, #2)'
 yaml: how-the-multiverse-got-its-revenge-the-thorne-chronicles-2
 ---
 

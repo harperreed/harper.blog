@@ -18,6 +18,7 @@ tags:
 - Jennette McCurdy
 title: I'm Glad My Mom Died
 title_without_series: I'm Glad My Mom Died
+translationKey: I'm Glad My Mom Died
 yaml: i-m-glad-my-mom-died
 ---
 

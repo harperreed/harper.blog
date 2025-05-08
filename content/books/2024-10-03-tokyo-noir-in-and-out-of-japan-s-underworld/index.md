@@ -19,6 +19,7 @@ tags:
 - Jake Adelstein
 title: 'Tokyo Noir: in and out of Japan''s underworld'
 title_without_series: 'Tokyo Noir: in and out of Japan''s underworld'
+translationKey: 'Tokyo Noir: in and out of Japan''s underworld'
 yaml: tokyo-noir-in-and-out-of-japan-s-underworld
 ---
 

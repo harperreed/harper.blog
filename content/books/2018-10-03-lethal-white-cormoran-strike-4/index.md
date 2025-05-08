@@ -19,6 +19,7 @@ tags:
 - Robert Galbraith
 title: 'Lethal White (Cormoran Strike, #4)'
 title_without_series: Lethal White
+translationKey: 'Lethal White (Cormoran Strike, #4)'
 yaml: lethal-white-cormoran-strike-4
 ---
 

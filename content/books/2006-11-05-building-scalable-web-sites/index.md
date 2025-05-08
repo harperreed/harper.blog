@@ -18,6 +18,7 @@ tags:
 - Cal Henderson
 title: Building Scalable Web Sites
 title_without_series: Building Scalable Web Sites
+translationKey: Building Scalable Web Sites
 yaml: building-scalable-web-sites
 ---
 

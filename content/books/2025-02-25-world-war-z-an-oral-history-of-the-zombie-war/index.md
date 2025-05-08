@@ -19,6 +19,7 @@ tags:
 - Max Brooks
 title: 'World War Z: An Oral History of the Zombie War'
 title_without_series: 'World War Z: An Oral History of the Zombie War'
+translationKey: 'World War Z: An Oral History of the Zombie War'
 yaml: world-war-z-an-oral-history-of-the-zombie-war
 ---
 

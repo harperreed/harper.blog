@@ -19,6 +19,7 @@ tags:
 - Elizabeth Moon
 title: Trading in Danger / Remnant Population
 title_without_series: Trading in Danger / Remnant Population
+translationKey: Trading in Danger / Remnant Population
 yaml: trading-in-danger-remnant-population
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Ahmed Rashid
 title: 'Jihad: The Rise of Militant Islam in Central Asia'
 title_without_series: 'Jihad: The Rise of Militant Islam in Central Asia'
+translationKey: 'Jihad: The Rise of Militant Islam in Central Asia'
 yaml: jihad-the-rise-of-militant-islam-in-central-asia
 ---
 

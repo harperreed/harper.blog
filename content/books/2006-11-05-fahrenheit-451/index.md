@@ -18,6 +18,7 @@ tags:
 - Ray Bradbury
 title: Fahrenheit 451
 title_without_series: Fahrenheit 451
+translationKey: Fahrenheit 451
 yaml: fahrenheit-451
 ---
 

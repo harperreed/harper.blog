@@ -18,6 +18,7 @@ tags:
 - Damon Knight
 title: To Serve Man
 title_without_series: To Serve Man
+translationKey: To Serve Man
 yaml: to-serve-man
 ---
 

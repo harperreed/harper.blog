@@ -20,6 +20,8 @@ tags:
 title: 'Money Men: A Hot Startup, A Billion Dollar Fraud, A Fight for the Truth'
 title_without_series: 'Money Men: A Hot Startup, A Billion Dollar Fraud, A Fight for
   the Truth'
+translationKey: 'Money Men: A Hot Startup, A Billion Dollar Fraud, A Fight for the
+  Truth'
 yaml: money-men-a-hot-startup-a-billion-dollar-fraud-a-fight-for-the-truth
 ---
 

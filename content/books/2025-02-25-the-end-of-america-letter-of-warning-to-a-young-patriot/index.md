@@ -19,6 +19,7 @@ tags:
 - Naomi Wolf
 title: 'The End of America: Letter of Warning to a Young Patriot'
 title_without_series: 'The End of America: Letter of Warning to a Young Patriot'
+translationKey: 'The End of America: Letter of Warning to a Young Patriot'
 yaml: the-end-of-america-letter-of-warning-to-a-young-patriot
 ---
 

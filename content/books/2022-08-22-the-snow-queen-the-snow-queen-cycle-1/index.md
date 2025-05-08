@@ -19,6 +19,7 @@ tags:
 - Joan D. Vinge
 title: 'The Snow Queen (The Snow Queen Cycle, #1)'
 title_without_series: The Snow Queen
+translationKey: 'The Snow Queen (The Snow Queen Cycle, #1)'
 yaml: the-snow-queen-the-snow-queen-cycle-1
 ---
 

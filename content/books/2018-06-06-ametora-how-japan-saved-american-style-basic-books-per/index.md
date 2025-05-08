@@ -19,6 +19,7 @@ tags:
 - W. David Marx
 title: 'Ametora: How Japan Saved American Style (BASIC BOOKS/PER)'
 title_without_series: 'Ametora: How Japan Saved American Style'
+translationKey: 'Ametora: How Japan Saved American Style (BASIC BOOKS/PER)'
 yaml: ametora-how-japan-saved-american-style-basic-books-per
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Nassim Nicholas Taleb
 title: 'The Black Swan: The Impact of the Highly Improbable'
 title_without_series: 'The Black Swan: The Impact of the Highly Improbable'
+translationKey: 'The Black Swan: The Impact of the Highly Improbable'
 yaml: the-black-swan-the-impact-of-the-highly-improbable
 ---
 

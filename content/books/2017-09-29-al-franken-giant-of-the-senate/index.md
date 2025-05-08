@@ -18,6 +18,7 @@ tags:
 - Al Franken
 title: Al Franken, Giant of the Senate
 title_without_series: Al Franken, Giant of the Senate
+translationKey: Al Franken, Giant of the Senate
 yaml: al-franken-giant-of-the-senate
 ---
 

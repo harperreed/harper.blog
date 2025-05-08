@@ -18,6 +18,7 @@ tags:
 - William  Davies
 title: Economic Science Fictions
 title_without_series: Economic Science Fictions
+translationKey: Economic Science Fictions
 yaml: economic-science-fictions
 ---
 

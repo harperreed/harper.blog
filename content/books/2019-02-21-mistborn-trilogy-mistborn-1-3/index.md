@@ -19,6 +19,7 @@ tags:
 - Brandon Sanderson
 title: 'Mistborn Trilogy (Mistborn, #1-3)'
 title_without_series: Mistborn Trilogy
+translationKey: 'Mistborn Trilogy (Mistborn, #1-3)'
 yaml: mistborn-trilogy-mistborn-1-3
 ---
 

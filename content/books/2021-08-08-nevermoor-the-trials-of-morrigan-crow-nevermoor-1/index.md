@@ -19,6 +19,7 @@ tags:
 - Jessica Townsend
 title: 'Nevermoor: The Trials of Morrigan Crow (Nevermoor, #1)'
 title_without_series: 'Nevermoor: The Trials of Morrigan Crow'
+translationKey: 'Nevermoor: The Trials of Morrigan Crow (Nevermoor, #1)'
 yaml: nevermoor-the-trials-of-morrigan-crow-nevermoor-1
 ---
 

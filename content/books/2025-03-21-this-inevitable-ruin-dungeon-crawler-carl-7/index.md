@@ -20,6 +20,7 @@ tags:
 - Matt Dinniman
 title: 'This Inevitable Ruin (Dungeon Crawler Carl #7)'
 title_without_series: This Inevitable Ruin
+translationKey: 'This Inevitable Ruin (Dungeon Crawler Carl #7)'
 yaml: this-inevitable-ruin-dungeon-crawler-carl-7
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Elliott Downing
 title: Airplane Mode
 title_without_series: Airplane Mode
+translationKey: Airplane Mode
 yaml: airplane-mode
 ---
 

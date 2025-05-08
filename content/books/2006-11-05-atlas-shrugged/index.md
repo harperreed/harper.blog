@@ -18,6 +18,7 @@ tags:
 - Ayn Rand
 title: Atlas Shrugged
 title_without_series: Atlas Shrugged
+translationKey: Atlas Shrugged
 yaml: atlas-shrugged
 ---
 

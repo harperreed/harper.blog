@@ -19,6 +19,7 @@ tags:
 - Olga Ravn
 title: 'The Employees: A workplace novel of the 22nd century'
 title_without_series: 'The Employees: A workplace novel of the 22nd century'
+translationKey: 'The Employees: A workplace novel of the 22nd century'
 yaml: the-employees-a-workplace-novel-of-the-22nd-century
 ---
 

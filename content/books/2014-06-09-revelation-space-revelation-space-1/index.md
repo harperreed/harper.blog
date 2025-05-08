@@ -19,6 +19,7 @@ tags:
 - Alastair Reynolds
 title: 'Revelation Space (Revelation Space, #1)'
 title_without_series: Revelation Space
+translationKey: 'Revelation Space (Revelation Space, #1)'
 yaml: revelation-space-revelation-space-1
 ---
 

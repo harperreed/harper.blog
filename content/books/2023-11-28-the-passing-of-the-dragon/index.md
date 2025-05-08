@@ -18,6 +18,7 @@ tags:
 - Ken Liu
 title: The Passing of the Dragon
 title_without_series: The Passing of the Dragon
+translationKey: The Passing of the Dragon
 yaml: the-passing-of-the-dragon
 ---
 

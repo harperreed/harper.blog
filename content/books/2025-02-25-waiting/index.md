@@ -18,6 +18,7 @@ tags:
 - Ha Jin
 title: Waiting
 title_without_series: Waiting
+translationKey: Waiting
 yaml: waiting
 ---
 

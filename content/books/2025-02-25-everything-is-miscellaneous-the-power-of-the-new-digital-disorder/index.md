@@ -19,6 +19,7 @@ tags:
 - David Weinberger
 title: 'Everything Is Miscellaneous: The Power of the New Digital Disorder'
 title_without_series: 'Everything Is Miscellaneous: The Power of the New Digital Disorder'
+translationKey: 'Everything Is Miscellaneous: The Power of the New Digital Disorder'
 yaml: everything-is-miscellaneous-the-power-of-the-new-digital-disorder
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Hugh Howey
 title: 'Sand (The Sand Chronicles, #1)'
 title_without_series: Sand
+translationKey: 'Sand (The Sand Chronicles, #1)'
 yaml: sand-the-sand-chronicles-1
 ---
 

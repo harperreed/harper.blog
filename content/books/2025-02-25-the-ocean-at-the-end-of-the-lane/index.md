@@ -18,6 +18,7 @@ tags:
 - Neil Gaiman
 title: The Ocean at the End of the Lane
 title_without_series: The Ocean at the End of the Lane
+translationKey: The Ocean at the End of the Lane
 yaml: the-ocean-at-the-end-of-the-lane
 ---
 

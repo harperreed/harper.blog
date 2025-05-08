@@ -18,6 +18,7 @@ tags:
 - Charlie Jane Anders
 title: All the Birds in the Sky
 title_without_series: All the Birds in the Sky
+translationKey: All the Birds in the Sky
 yaml: all-the-birds-in-the-sky
 ---
 

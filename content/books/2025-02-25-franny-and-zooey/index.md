@@ -18,6 +18,7 @@ tags:
 - J.D. Salinger
 title: Franny and Zooey
 title_without_series: Franny and Zooey
+translationKey: Franny and Zooey
 yaml: franny-and-zooey
 ---
 

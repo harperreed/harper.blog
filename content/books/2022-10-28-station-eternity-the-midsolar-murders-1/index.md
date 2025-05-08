@@ -19,6 +19,7 @@ tags:
 - Mur Lafferty
 title: 'Station Eternity (The Midsolar Murders, #1)'
 title_without_series: Station Eternity
+translationKey: 'Station Eternity (The Midsolar Murders, #1)'
 yaml: station-eternity-the-midsolar-murders-1
 ---
 

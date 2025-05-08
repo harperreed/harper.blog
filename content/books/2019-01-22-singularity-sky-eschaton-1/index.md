@@ -18,6 +18,7 @@ tags:
 - Charles Stross
 title: 'Singularity Sky (Eschaton, #1)'
 title_without_series: Singularity Sky
+translationKey: 'Singularity Sky (Eschaton, #1)'
 yaml: singularity-sky-eschaton-1
 ---
 

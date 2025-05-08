@@ -18,6 +18,7 @@ tags:
 - Albert Camus
 title: The Stranger
 title_without_series: The Stranger
+translationKey: The Stranger
 yaml: the-stranger
 ---
 

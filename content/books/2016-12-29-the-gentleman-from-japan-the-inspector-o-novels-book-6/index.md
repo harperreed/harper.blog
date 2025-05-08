@@ -19,6 +19,7 @@ tags:
 - James  Church
 title: The Gentleman from Japan (The Inspector O Novels Book 6)
 title_without_series: The Gentleman from Japan
+translationKey: The Gentleman from Japan (The Inspector O Novels Book 6)
 yaml: the-gentleman-from-japan-the-inspector-o-novels-book-6
 ---
 

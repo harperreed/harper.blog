@@ -18,6 +18,7 @@ tags:
 - John Scalzi
 title: The Android's Dream
 title_without_series: The Android's Dream
+translationKey: The Android's Dream
 yaml: the-android-s-dream
 ---
 

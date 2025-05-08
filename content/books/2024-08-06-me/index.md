@@ -18,6 +18,7 @@ tags:
 - Amber McBride
 title: Me
 title_without_series: Me
+translationKey: Me
 yaml: me
 ---
 

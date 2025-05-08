@@ -21,6 +21,7 @@ tags:
 - Matt Dinniman
 title: 'The Dungeon Anarchist''s Cookbook (Dungeon Crawler Carl, #3)'
 title_without_series: The Dungeon Anarchist's Cookbook
+translationKey: 'The Dungeon Anarchist''s Cookbook (Dungeon Crawler Carl, #3)'
 yaml: the-dungeon-anarchist-s-cookbook-dungeon-crawler-carl-3
 ---
 

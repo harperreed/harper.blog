@@ -19,6 +19,7 @@ tags:
 - Kim Stanley Robinson
 title: 'Red Mars / Green Mars (Mars Trilogy, #1-2)'
 title_without_series: Red Mars / Green Mars
+translationKey: 'Red Mars / Green Mars (Mars Trilogy, #1-2)'
 yaml: red-mars-green-mars-mars-trilogy-1-2
 ---
 

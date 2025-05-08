@@ -18,6 +18,7 @@ tags:
 - Richard Matheson
 title: I Am Legend and Other Stories
 title_without_series: I Am Legend and Other Stories
+translationKey: I Am Legend and Other Stories
 yaml: i-am-legend-and-other-stories
 ---
 

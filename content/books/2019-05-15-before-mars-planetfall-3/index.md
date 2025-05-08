@@ -18,6 +18,7 @@ tags:
 - Emma Newman
 title: 'Before Mars (Planetfall, #3)'
 title_without_series: Before Mars
+translationKey: 'Before Mars (Planetfall, #3)'
 yaml: before-mars-planetfall-3
 ---
 

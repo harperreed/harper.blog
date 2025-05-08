@@ -20,6 +20,7 @@ tags:
 - Matt Dinniman
 title: 'The Butcher''s Masquerade (Dungeon Crawler Carl, #5)'
 title_without_series: The Butcher's Masquerade
+translationKey: 'The Butcher''s Masquerade (Dungeon Crawler Carl, #5)'
 yaml: the-butcher-s-masquerade-dungeon-crawler-carl-5
 ---
 

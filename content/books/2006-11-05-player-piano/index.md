@@ -18,6 +18,7 @@ tags:
 - Kurt Vonnegut Jr.
 title: Player Piano
 title_without_series: Player Piano
+translationKey: Player Piano
 yaml: player-piano
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Jeff VanderMeer
 title: 'Annihilation (Southern Reach, #1)'
 title_without_series: Annihilation
+translationKey: 'Annihilation (Southern Reach, #1)'
 yaml: annihilation-southern-reach-1
 ---
 

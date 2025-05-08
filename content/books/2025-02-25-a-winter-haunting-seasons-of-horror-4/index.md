@@ -19,6 +19,7 @@ tags:
 - Dan Simmons
 title: 'A Winter Haunting (Seasons of Horror #4)'
 title_without_series: A Winter Haunting
+translationKey: 'A Winter Haunting (Seasons of Horror #4)'
 yaml: a-winter-haunting-seasons-of-horror-4
 ---
 

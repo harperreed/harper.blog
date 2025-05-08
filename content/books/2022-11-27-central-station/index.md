@@ -18,6 +18,7 @@ tags:
 - Lavie Tidhar
 title: Central Station
 title_without_series: Central Station
+translationKey: Central Station
 yaml: central-station
 ---
 

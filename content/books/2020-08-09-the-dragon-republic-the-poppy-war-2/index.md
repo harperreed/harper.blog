@@ -19,6 +19,7 @@ tags:
 - R.F. Kuang
 title: 'The Dragon Republic (The Poppy War, #2)'
 title_without_series: The Dragon Republic
+translationKey: 'The Dragon Republic (The Poppy War, #2)'
 yaml: the-dragon-republic-the-poppy-war-2
 ---
 

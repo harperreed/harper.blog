@@ -18,6 +18,7 @@ tags:
 - Veronica Roth
 title: 'Allegiant (Divergent, #3)'
 title_without_series: Allegiant
+translationKey: 'Allegiant (Divergent, #3)'
 yaml: allegiant-divergent-3
 ---
 

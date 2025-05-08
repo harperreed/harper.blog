@@ -18,6 +18,7 @@ tags:
 - Leo Tolstoy
 title: Anna Karenina
 title_without_series: Anna Karenina
+translationKey: Anna Karenina
 yaml: anna-karenina
 ---
 

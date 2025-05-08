@@ -18,6 +18,7 @@ tags:
 - Slash
 title: Slash
 title_without_series: Slash
+translationKey: Slash
 yaml: slash
 ---
 

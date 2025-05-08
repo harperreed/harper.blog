@@ -19,6 +19,7 @@ tags:
 - Tana French
 title: 'The Trespasser (Dublin Murder Squad, #6)'
 title_without_series: The Trespasser
+translationKey: 'The Trespasser (Dublin Murder Squad, #6)'
 yaml: the-trespasser-dublin-murder-squad-6
 ---
 

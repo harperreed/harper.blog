@@ -18,6 +18,7 @@ tags:
 - Joseph Heller
 title: Catch-22
 title_without_series: Catch-22
+translationKey: Catch-22
 yaml: catch-22
 ---
 

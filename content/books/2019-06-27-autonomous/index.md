@@ -18,6 +18,7 @@ tags:
 - Annalee Newitz
 title: Autonomous
 title_without_series: Autonomous
+translationKey: Autonomous
 yaml: autonomous
 ---
 

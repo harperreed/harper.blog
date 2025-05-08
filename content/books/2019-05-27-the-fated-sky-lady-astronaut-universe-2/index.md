@@ -19,6 +19,7 @@ tags:
 - Mary Robinette Kowal
 title: 'The Fated Sky (Lady Astronaut Universe, #2)'
 title_without_series: The Fated Sky
+translationKey: 'The Fated Sky (Lady Astronaut Universe, #2)'
 yaml: the-fated-sky-lady-astronaut-universe-2
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Haruki Murakami
 title: Kafka on the Shore
 title_without_series: Kafka on the Shore
+translationKey: Kafka on the Shore
 yaml: kafka-on-the-shore
 ---
 

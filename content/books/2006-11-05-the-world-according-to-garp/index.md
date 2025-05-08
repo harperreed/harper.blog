@@ -18,6 +18,7 @@ tags:
 - John Irving
 title: The World According to Garp
 title_without_series: The World According to Garp
+translationKey: The World According to Garp
 yaml: the-world-according-to-garp
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Dave Cullen
 title: Columbine
 title_without_series: Columbine
+translationKey: Columbine
 yaml: columbine
 ---
 

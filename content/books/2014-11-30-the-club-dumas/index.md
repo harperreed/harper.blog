@@ -18,6 +18,7 @@ tags:
 - Arturo Pérez-Reverte
 title: The Club Dumas
 title_without_series: The Club Dumas
+translationKey: The Club Dumas
 yaml: the-club-dumas
 ---
 

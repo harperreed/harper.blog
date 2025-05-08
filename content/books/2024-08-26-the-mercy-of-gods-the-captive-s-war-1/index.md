@@ -19,6 +19,7 @@ tags:
 - James S.A. Corey
 title: 'The Mercy of Gods (The Captive''s War, #1)'
 title_without_series: The Mercy of Gods
+translationKey: 'The Mercy of Gods (The Captive''s War, #1)'
 yaml: the-mercy-of-gods-the-captive-s-war-1
 ---
 

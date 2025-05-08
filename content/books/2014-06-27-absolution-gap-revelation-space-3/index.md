@@ -19,6 +19,7 @@ tags:
 - Alastair Reynolds
 title: 'Absolution Gap (Revelation Space, #3)'
 title_without_series: Absolution Gap
+translationKey: 'Absolution Gap (Revelation Space, #3)'
 yaml: absolution-gap-revelation-space-3
 ---
 

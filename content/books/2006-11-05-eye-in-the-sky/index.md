@@ -18,6 +18,7 @@ tags:
 - Philip K. Dick
 title: Eye in the Sky
 title_without_series: Eye in the Sky
+translationKey: Eye in the Sky
 yaml: eye-in-the-sky
 ---
 

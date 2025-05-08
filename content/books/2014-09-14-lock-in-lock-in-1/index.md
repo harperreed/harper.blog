@@ -18,6 +18,7 @@ tags:
 - John Scalzi
 title: 'Lock In (Lock In, #1)'
 title_without_series: Lock In
+translationKey: 'Lock In (Lock In, #1)'
 yaml: lock-in-lock-in-1
 ---
 

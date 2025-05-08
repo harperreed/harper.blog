@@ -18,6 +18,7 @@ tags:
 - Edward Ashton
 title: 'Mickey7 (Mickey7, #1)'
 title_without_series: Mickey7
+translationKey: 'Mickey7 (Mickey7, #1)'
 yaml: mickey7-mickey7-1
 ---
 

@@ -18,6 +18,7 @@ tags:
 - R.F. Kuang
 title: 'The Poppy War (The Poppy War, #1)'
 title_without_series: The Poppy War
+translationKey: 'The Poppy War (The Poppy War, #1)'
 yaml: the-poppy-war-the-poppy-war-1
 ---
 

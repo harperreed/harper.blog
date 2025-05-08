@@ -19,6 +19,7 @@ tags:
 - Craig Alanson
 title: 'Columbus Day (Expeditionary Force, #1)'
 title_without_series: Columbus Day
+translationKey: 'Columbus Day (Expeditionary Force, #1)'
 yaml: columbus-day-expeditionary-force-1
 ---
 

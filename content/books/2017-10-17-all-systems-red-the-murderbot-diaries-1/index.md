@@ -19,6 +19,7 @@ tags:
 - Martha Wells
 title: 'All Systems Red (The Murderbot Diaries, #1)'
 title_without_series: All Systems Red
+translationKey: 'All Systems Red (The Murderbot Diaries, #1)'
 yaml: all-systems-red-the-murderbot-diaries-1
 ---
 

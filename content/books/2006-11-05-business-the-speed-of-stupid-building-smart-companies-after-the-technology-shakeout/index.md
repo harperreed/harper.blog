@@ -21,6 +21,8 @@ title: 'Business @ The Speed Of Stupid: Building Smart Companies After The Techn
   Shakeout'
 title_without_series: 'Business @ The Speed Of Stupid: Building Smart Companies After
   The Technology Shakeout'
+translationKey: 'Business @ The Speed Of Stupid: Building Smart Companies After The
+  Technology Shakeout'
 yaml: business-the-speed-of-stupid-building-smart-companies-after-the-technology-shakeout
 ---
 

@@ -21,6 +21,8 @@ title: 'The Other Side of the River: A Story of Two Towns, a Death, and America'
   Dilemma'
 title_without_series: 'The Other Side of the River: A Story of Two Towns, a Death,
   and America''s Dilemma'
+translationKey: 'The Other Side of the River: A Story of Two Towns, a Death, and America''s
+  Dilemma'
 yaml: the-other-side-of-the-river-a-story-of-two-towns-a-death-and-america-s-dilemma
 ---
 

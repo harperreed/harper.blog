@@ -21,6 +21,8 @@ title: 'The Ransomware Hunting Team: A Band of Misfits'' Improbable Crusade to S
   the World from Cybercrime'
 title_without_series: 'The Ransomware Hunting Team: A Band of Misfits'' Improbable
   Crusade to Save the World from Cybercrime'
+translationKey: 'The Ransomware Hunting Team: A Band of Misfits'' Improbable Crusade
+  to Save the World from Cybercrime'
 yaml: the-ransomware-hunting-team-a-band-of-misfits-improbable-crusade-to-save-the-world-from-cybercrime
 ---
 

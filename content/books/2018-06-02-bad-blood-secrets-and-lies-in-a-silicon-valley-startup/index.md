@@ -19,6 +19,7 @@ tags:
 - John Carreyrou
 title: 'Bad Blood: Secrets and Lies in a Silicon Valley Startup'
 title_without_series: 'Bad Blood: Secrets and Lies in a Silicon Valley Startup'
+translationKey: 'Bad Blood: Secrets and Lies in a Silicon Valley Startup'
 yaml: bad-blood-secrets-and-lies-in-a-silicon-valley-startup
 ---
 

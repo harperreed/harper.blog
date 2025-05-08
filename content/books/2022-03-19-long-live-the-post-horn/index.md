@@ -18,6 +18,7 @@ tags:
 - Vigdis Hjorth
 title: Long Live the Post Horn!
 title_without_series: Long Live the Post Horn!
+translationKey: Long Live the Post Horn!
 yaml: long-live-the-post-horn
 ---
 

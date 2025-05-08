@@ -18,6 +18,7 @@ tags:
 - Haruki Murakami
 title: 'A Wild Sheep Chase (The Rat, #3)'
 title_without_series: A Wild Sheep Chase
+translationKey: 'A Wild Sheep Chase (The Rat, #3)'
 yaml: a-wild-sheep-chase-the-rat-3
 ---
 

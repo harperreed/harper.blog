@@ -18,6 +18,7 @@ tags:
 - Wesley Chu
 title: 'Time Salvager (Time Salvager, #1)'
 title_without_series: Time Salvager
+translationKey: 'Time Salvager (Time Salvager, #1)'
 yaml: time-salvager-time-salvager-1
 ---
 

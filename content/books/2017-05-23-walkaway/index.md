@@ -18,6 +18,7 @@ tags:
 - Cory Doctorow
 title: Walkaway
 title_without_series: Walkaway
+translationKey: Walkaway
 yaml: walkaway
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Jessica Simpson
 title: Open Book
 title_without_series: Open Book
+translationKey: Open Book
 yaml: open-book
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Ursula K. Le Guin
 title: The Left Hand of Darkness
 title_without_series: The Left Hand of Darkness
+translationKey: The Left Hand of Darkness
 yaml: the-left-hand-of-darkness
 ---
 

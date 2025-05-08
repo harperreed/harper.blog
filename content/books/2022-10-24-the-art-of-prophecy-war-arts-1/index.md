@@ -18,6 +18,7 @@ tags:
 - Wesley Chu
 title: 'The Art of Prophecy (War Arts #1)'
 title_without_series: The Art of Prophecy
+translationKey: 'The Art of Prophecy (War Arts #1)'
 yaml: the-art-of-prophecy-war-arts-1
 ---
 

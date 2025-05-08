@@ -18,6 +18,7 @@ tags:
 - Temi Oh
 title: Do You Dream of Terra-Two?
 title_without_series: Do You Dream of Terra-Two?
+translationKey: Do You Dream of Terra-Two?
 yaml: do-you-dream-of-terra-two
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Greg Bear
 title: Blood Music
 title_without_series: Blood Music
+translationKey: Blood Music
 yaml: blood-music
 ---
 

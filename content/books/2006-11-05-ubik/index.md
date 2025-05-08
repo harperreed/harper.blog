@@ -18,6 +18,7 @@ tags:
 - Philip K. Dick
 title: Ubik
 title_without_series: Ubik
+translationKey: Ubik
 yaml: ubik
 ---
 

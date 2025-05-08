@@ -18,6 +18,7 @@ tags:
 - Kurt Vonnegut Jr.
 title: Breakfast of Champions
 title_without_series: Breakfast of Champions
+translationKey: Breakfast of Champions
 yaml: breakfast-of-champions
 ---
 

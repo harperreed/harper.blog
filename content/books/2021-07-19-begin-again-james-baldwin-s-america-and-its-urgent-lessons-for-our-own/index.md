@@ -20,6 +20,8 @@ tags:
 title: 'Begin Again: James Baldwin''s America and Its Urgent Lessons for Our Own'
 title_without_series: 'Begin Again: James Baldwin''s America and Its Urgent Lessons
   for Our Own'
+translationKey: 'Begin Again: James Baldwin''s America and Its Urgent Lessons for
+  Our Own'
 yaml: begin-again-james-baldwin-s-america-and-its-urgent-lessons-for-our-own
 ---
 

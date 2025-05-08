@@ -18,6 +18,7 @@ tags:
 - Warren Ellis
 title: Gun Machine
 title_without_series: Gun Machine
+translationKey: Gun Machine
 yaml: gun-machine
 ---
 

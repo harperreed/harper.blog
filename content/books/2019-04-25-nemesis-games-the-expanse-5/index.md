@@ -18,6 +18,7 @@ tags:
 - James S.A. Corey
 title: 'Nemesis Games (The Expanse, #5)'
 title_without_series: Nemesis Games
+translationKey: 'Nemesis Games (The Expanse, #5)'
 yaml: nemesis-games-the-expanse-5
 ---
 

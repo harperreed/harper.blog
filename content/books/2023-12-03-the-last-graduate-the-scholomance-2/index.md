@@ -19,6 +19,7 @@ tags:
 - Naomi Novik
 title: 'The Last Graduate (The Scholomance, #2)'
 title_without_series: The Last Graduate
+translationKey: 'The Last Graduate (The Scholomance, #2)'
 yaml: the-last-graduate-the-scholomance-2
 ---
 

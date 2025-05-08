@@ -18,6 +18,7 @@ tags:
 - Blake Gopnik
 title: Warhol
 title_without_series: Warhol
+translationKey: Warhol
 yaml: warhol
 ---
 

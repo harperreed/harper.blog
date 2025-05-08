@@ -18,6 +18,7 @@ tags:
 - Madeline Ashby
 title: Company Town
 title_without_series: Company Town
+translationKey: Company Town
 yaml: company-town
 ---
 

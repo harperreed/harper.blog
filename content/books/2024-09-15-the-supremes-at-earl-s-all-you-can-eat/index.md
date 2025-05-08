@@ -19,6 +19,7 @@ tags:
 - Edward Kelsey Moore
 title: The Supremes at Earl's All-You-Can-Eat
 title_without_series: The Supremes at Earl's All-You-Can-Eat
+translationKey: The Supremes at Earl's All-You-Can-Eat
 yaml: the-supremes-at-earl-s-all-you-can-eat
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Philip Pullman
 title: 'The Amber Spyglass (His Dark Materials, #3)'
 title_without_series: The Amber Spyglass
+translationKey: 'The Amber Spyglass (His Dark Materials, #3)'
 yaml: the-amber-spyglass-his-dark-materials-3
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Brandon Sanderson
 title: 'Words of Radiance (The Stormlight Archive, #2)'
 title_without_series: Words of Radiance
+translationKey: 'Words of Radiance (The Stormlight Archive, #2)'
 yaml: words-of-radiance-the-stormlight-archive-2
 ---
 

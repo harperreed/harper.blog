@@ -19,6 +19,7 @@ tags:
 - Kevin Kwan
 title: 'Rich People Problems (Crazy Rich Asians, #3)'
 title_without_series: Rich People Problems
+translationKey: 'Rich People Problems (Crazy Rich Asians, #3)'
 yaml: rich-people-problems-crazy-rich-asians-3
 ---
 

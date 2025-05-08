@@ -18,6 +18,7 @@ tags:
 - Neal Stephenson
 title: Atmosphæra Incognita
 title_without_series: Atmosphæra Incognita
+translationKey: Atmosphæra Incognita
 yaml: atmosphaera-incognita
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Larry Niven
 title: Building Harlequin's Moon
 title_without_series: Building Harlequin's Moon
+translationKey: Building Harlequin's Moon
 yaml: building-harlequin-s-moon
 ---
 

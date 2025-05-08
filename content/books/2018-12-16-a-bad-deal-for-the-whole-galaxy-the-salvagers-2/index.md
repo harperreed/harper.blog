@@ -19,6 +19,7 @@ tags:
 - Alex White
 title: 'A Bad Deal for the Whole Galaxy (The Salvagers, #2)'
 title_without_series: A Bad Deal for the Whole Galaxy
+translationKey: 'A Bad Deal for the Whole Galaxy (The Salvagers, #2)'
 yaml: a-bad-deal-for-the-whole-galaxy-the-salvagers-2
 ---
 

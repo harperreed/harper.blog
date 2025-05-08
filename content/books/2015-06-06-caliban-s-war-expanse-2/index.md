@@ -18,6 +18,7 @@ tags:
 - James S.A. Corey
 title: 'Caliban''s War (Expanse, #2)'
 title_without_series: Caliban's War
+translationKey: 'Caliban''s War (Expanse, #2)'
 yaml: caliban-s-war-expanse-2
 ---
 

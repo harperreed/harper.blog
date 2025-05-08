@@ -18,6 +18,7 @@ tags:
 - Brandon Sanderson
 title: 'Calamity (The Reckoners, #3)'
 title_without_series: Calamity
+translationKey: 'Calamity (The Reckoners, #3)'
 yaml: calamity-the-reckoners-3
 ---
 

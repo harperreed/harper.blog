@@ -19,6 +19,7 @@ tags:
 - Neal Stephenson
 title: 'The Diamond Age: Or, a Young Lady''s Illustrated Primer'
 title_without_series: 'The Diamond Age: Or, a Young Lady''s Illustrated Primer'
+translationKey: 'The Diamond Age: Or, a Young Lady''s Illustrated Primer'
 yaml: the-diamond-age-or-a-young-lady-s-illustrated-primer
 ---
 

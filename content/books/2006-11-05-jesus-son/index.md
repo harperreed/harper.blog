@@ -18,6 +18,7 @@ tags:
 - Denis Johnson
 title: Jesus’ Son
 title_without_series: Jesus’ Son
+translationKey: Jesus’ Son
 yaml: jesus-son
 ---
 

@@ -18,6 +18,7 @@ tags:
 - William Gibson
 title: Neuromancer
 title_without_series: Neuromancer
+translationKey: Neuromancer
 yaml: neuromancer
 ---
 

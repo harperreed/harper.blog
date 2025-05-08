@@ -18,6 +18,7 @@ tags:
 - William Gibson
 title: 'Agency (Jackpot #2)'
 title_without_series: Agency
+translationKey: 'Agency (Jackpot #2)'
 yaml: agency-jackpot-2
 ---
 

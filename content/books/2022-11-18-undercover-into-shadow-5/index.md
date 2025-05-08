@@ -18,6 +18,7 @@ tags:
 - Tamsyn Muir
 title: 'Undercover (Into Shadow, #5)'
 title_without_series: Undercover
+translationKey: 'Undercover (Into Shadow, #5)'
 yaml: undercover-into-shadow-5
 ---
 

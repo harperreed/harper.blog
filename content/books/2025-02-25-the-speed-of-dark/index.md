@@ -18,6 +18,7 @@ tags:
 - Elizabeth Moon
 title: The Speed of Dark
 title_without_series: The Speed of Dark
+translationKey: The Speed of Dark
 yaml: the-speed-of-dark
 ---
 

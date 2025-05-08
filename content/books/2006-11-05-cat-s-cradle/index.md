@@ -18,6 +18,7 @@ tags:
 - Kurt Vonnegut Jr.
 title: Cat's Cradle
 title_without_series: Cat's Cradle
+translationKey: Cat's Cradle
 yaml: cat-s-cradle
 ---
 

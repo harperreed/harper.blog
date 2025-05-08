@@ -20,6 +20,7 @@ tags:
 title: 'Schiit Happened: The Story of the World''s Most Improbable Start-Up'
 title_without_series: 'Schiit Happened: The Story of the World''s Most Improbable
   Start-Up'
+translationKey: 'Schiit Happened: The Story of the World''s Most Improbable Start-Up'
 yaml: schiit-happened-the-story-of-the-world-s-most-improbable-start-up
 ---
 

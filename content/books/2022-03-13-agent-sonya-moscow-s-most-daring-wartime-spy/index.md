@@ -19,6 +19,7 @@ tags:
 - Ben Macintyre
 title: 'Agent Sonya: Moscow''s Most Daring Wartime Spy'
 title_without_series: 'Agent Sonya: Moscow''s Most Daring Wartime Spy'
+translationKey: 'Agent Sonya: Moscow''s Most Daring Wartime Spy'
 yaml: agent-sonya-moscow-s-most-daring-wartime-spy
 ---
 

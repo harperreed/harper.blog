@@ -18,6 +18,7 @@ tags:
 - Teri Hall
 title: New Zapata
 title_without_series: New Zapata
+translationKey: New Zapata
 yaml: new-zapata
 ---
 

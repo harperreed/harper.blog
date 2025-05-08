@@ -18,6 +18,7 @@ tags:
 - Michael   Lewis
 title: 'The Premonition: A Pandemic Story'
 title_without_series: 'The Premonition: A Pandemic Story'
+translationKey: 'The Premonition: A Pandemic Story'
 yaml: the-premonition-a-pandemic-story
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Megan E. O'Keefe
 title: 'Chaos Vector (The Protectorate, #2)'
 title_without_series: Chaos Vector
+translationKey: 'Chaos Vector (The Protectorate, #2)'
 yaml: chaos-vector-the-protectorate-2
 ---
 

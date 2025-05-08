@@ -20,6 +20,8 @@ tags:
 title: 'The Starfish and the Spider: The Unstoppable Power of Leaderless Organizations'
 title_without_series: 'The Starfish and the Spider: The Unstoppable Power of Leaderless
   Organizations'
+translationKey: 'The Starfish and the Spider: The Unstoppable Power of Leaderless
+  Organizations'
 yaml: the-starfish-and-the-spider-the-unstoppable-power-of-leaderless-organizations
 ---
 

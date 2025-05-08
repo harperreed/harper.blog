@@ -18,6 +18,7 @@ tags:
 - Brandon Sanderson
 title: 'Steelheart (The Reckoners, #1)'
 title_without_series: Steelheart
+translationKey: 'Steelheart (The Reckoners, #1)'
 yaml: steelheart-the-reckoners-1
 ---
 

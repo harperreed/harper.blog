@@ -18,6 +18,7 @@ tags:
 - John Scalzi
 title: 'The Sagan Diary (Old Man''s War #2.5)'
 title_without_series: The Sagan Diary
+translationKey: 'The Sagan Diary (Old Man''s War #2.5)'
 yaml: the-sagan-diary-old-man-s-war-2-5
 ---
 

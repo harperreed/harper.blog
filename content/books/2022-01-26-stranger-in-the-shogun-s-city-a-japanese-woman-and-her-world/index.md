@@ -19,6 +19,7 @@ tags:
 - Amy Stanley
 title: 'Stranger in the Shogun''s City: A Japanese Woman and Her World'
 title_without_series: 'Stranger in the Shogun''s City: A Japanese Woman and Her World'
+translationKey: 'Stranger in the Shogun''s City: A Japanese Woman and Her World'
 yaml: stranger-in-the-shogun-s-city-a-japanese-woman-and-her-world
 ---
 

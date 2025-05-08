@@ -18,6 +18,7 @@ tags:
 - Mieko Kawakami
 title: Heaven
 title_without_series: Heaven
+translationKey: Heaven
 yaml: heaven
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Dan Simmons
 title: 'Olympos (Ilium, #2)'
 title_without_series: Olympos
+translationKey: 'Olympos (Ilium, #2)'
 yaml: olympos-ilium-2
 ---
 

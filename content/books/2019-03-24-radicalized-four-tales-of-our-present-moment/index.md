@@ -19,6 +19,7 @@ tags:
 - Cory Doctorow
 title: 'Radicalized: Four Tales of Our Present Moment'
 title_without_series: 'Radicalized: Four Tales of Our Present Moment'
+translationKey: 'Radicalized: Four Tales of Our Present Moment'
 yaml: radicalized-four-tales-of-our-present-moment
 ---
 

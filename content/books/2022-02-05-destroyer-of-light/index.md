@@ -18,6 +18,7 @@ tags:
 - Jennifer Marie Brissett
 title: Destroyer of Light
 title_without_series: Destroyer of Light
+translationKey: Destroyer of Light
 yaml: destroyer-of-light
 ---
 

@@ -18,6 +18,7 @@ tags:
 - J.D. Salinger
 title: Nine Stories
 title_without_series: Nine Stories
+translationKey: Nine Stories
 yaml: nine-stories
 ---
 

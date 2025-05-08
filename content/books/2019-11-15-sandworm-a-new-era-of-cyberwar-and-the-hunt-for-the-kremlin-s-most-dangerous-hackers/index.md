@@ -21,6 +21,8 @@ title: 'Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin''s Most Dan
   Hackers'
 title_without_series: 'Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin''s
   Most Dangerous Hackers'
+translationKey: 'Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin''s Most
+  Dangerous Hackers'
 yaml: sandworm-a-new-era-of-cyberwar-and-the-hunt-for-the-kremlin-s-most-dangerous-hackers
 ---
 

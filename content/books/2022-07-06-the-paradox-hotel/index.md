@@ -18,6 +18,7 @@ tags:
 - Rob Hart
 title: The Paradox Hotel
 title_without_series: The Paradox Hotel
+translationKey: The Paradox Hotel
 yaml: the-paradox-hotel
 ---
 

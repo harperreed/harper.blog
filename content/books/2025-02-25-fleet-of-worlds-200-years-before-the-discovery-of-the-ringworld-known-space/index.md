@@ -19,6 +19,8 @@ tags:
 - Larry Niven
 title: 'Fleet of Worlds: 200 Years Before the Discovery of the Ringworld (Known Space)'
 title_without_series: 'Fleet of Worlds: 200 Years Before the Discovery of the Ringworld'
+translationKey: 'Fleet of Worlds: 200 Years Before the Discovery of the Ringworld
+  (Known Space)'
 yaml: fleet-of-worlds-200-years-before-the-discovery-of-the-ringworld-known-space
 ---
 

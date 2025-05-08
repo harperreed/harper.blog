@@ -19,6 +19,7 @@ tags:
 - Martha Wells
 title: 'System Collapse (The Murderbot Diaries, #7)'
 title_without_series: System Collapse
+translationKey: 'System Collapse (The Murderbot Diaries, #7)'
 yaml: system-collapse-the-murderbot-diaries-7
 ---
 

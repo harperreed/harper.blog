@@ -18,6 +18,7 @@ tags:
 - Emily St. John Mandel
 title: The Glass Hotel
 title_without_series: The Glass Hotel
+translationKey: The Glass Hotel
 yaml: the-glass-hotel
 ---
 

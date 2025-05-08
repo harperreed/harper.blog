@@ -21,6 +21,8 @@ title: 'There are No Children Here: The Story of Two Boys Growing Up in the Othe
   America'
 title_without_series: 'There are No Children Here: The Story of Two Boys Growing Up
   in the Other America'
+translationKey: 'There are No Children Here: The Story of Two Boys Growing Up in the
+  Other America'
 yaml: there-are-no-children-here-the-story-of-two-boys-growing-up-in-the-other-america
 ---
 

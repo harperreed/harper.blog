@@ -22,6 +22,8 @@ title: 'People Who Eat Darkness: The True Story of a Young Woman Who Vanished fr
   the Streets of Tokyo—and the Evil That Swallowed Her Up'
 title_without_series: 'People Who Eat Darkness: The True Story of a Young Woman Who
   Vanished from the Streets of Tokyo—and the Evil That Swallowed Her Up'
+translationKey: 'People Who Eat Darkness: The True Story of a Young Woman Who Vanished
+  from the Streets of Tokyo—and the Evil That Swallowed Her Up'
 yaml: people-who-eat-darkness-the-true-story-of-a-young-woman-who-vanished-from-the-streets-of-tokyo-and-the-evil-that-swallowed-her-up
 ---
 

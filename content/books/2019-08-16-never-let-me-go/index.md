@@ -18,6 +18,7 @@ tags:
 - Kazuo Ishiguro
 title: Never Let Me Go
 title_without_series: Never Let Me Go
+translationKey: Never Let Me Go
 yaml: never-let-me-go
 ---
 

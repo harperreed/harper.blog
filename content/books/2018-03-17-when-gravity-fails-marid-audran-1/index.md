@@ -19,6 +19,7 @@ tags:
 - George Alec Effinger
 title: 'When Gravity Fails (Marîd Audran #1)'
 title_without_series: When Gravity Fails
+translationKey: 'When Gravity Fails (Marîd Audran #1)'
 yaml: when-gravity-fails-marid-audran-1
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Madeline Ashby
 title: Glass Houses
 title_without_series: Glass Houses
+translationKey: Glass Houses
 yaml: glass-houses
 ---
 

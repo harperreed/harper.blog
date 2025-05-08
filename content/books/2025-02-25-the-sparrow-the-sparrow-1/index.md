@@ -18,6 +18,7 @@ tags:
 - Mary Doria Russell
 title: 'The Sparrow (The Sparrow, #1)'
 title_without_series: The Sparrow
+translationKey: 'The Sparrow (The Sparrow, #1)'
 yaml: the-sparrow-the-sparrow-1
 ---
 

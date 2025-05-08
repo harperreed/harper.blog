@@ -18,6 +18,7 @@ tags:
 - John Darnielle
 title: Universal Harvester
 title_without_series: Universal Harvester
+translationKey: Universal Harvester
 yaml: universal-harvester
 ---
 

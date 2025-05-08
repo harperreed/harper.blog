@@ -19,6 +19,7 @@ tags:
 - Benjanun Sriduangkaew
 title: Then Will the Sun Rise Alabaster
 title_without_series: Then Will the Sun Rise Alabaster
+translationKey: Then Will the Sun Rise Alabaster
 yaml: then-will-the-sun-rise-alabaster
 ---
 

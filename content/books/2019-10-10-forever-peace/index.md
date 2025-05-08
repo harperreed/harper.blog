@@ -18,6 +18,7 @@ tags:
 - Joe Haldeman
 title: Forever Peace
 title_without_series: Forever Peace
+translationKey: Forever Peace
 yaml: forever-peace
 ---
 

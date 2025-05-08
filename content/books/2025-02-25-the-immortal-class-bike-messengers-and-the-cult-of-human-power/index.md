@@ -19,6 +19,7 @@ tags:
 - Travis Hugh Culley
 title: 'The Immortal Class: Bike Messengers and the Cult of Human Power'
 title_without_series: 'The Immortal Class: Bike Messengers and the Cult of Human Power'
+translationKey: 'The Immortal Class: Bike Messengers and the Cult of Human Power'
 yaml: the-immortal-class-bike-messengers-and-the-cult-of-human-power
 ---
 

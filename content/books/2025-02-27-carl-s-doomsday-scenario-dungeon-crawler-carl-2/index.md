@@ -19,6 +19,7 @@ tags:
 - Matt Dinniman
 title: 'Carl''s Doomsday Scenario (Dungeon Crawler Carl, #2)'
 title_without_series: Carl's Doomsday Scenario
+translationKey: 'Carl''s Doomsday Scenario (Dungeon Crawler Carl, #2)'
 yaml: carl-s-doomsday-scenario-dungeon-crawler-carl-2
 ---
 

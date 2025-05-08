@@ -18,6 +18,7 @@ tags:
 - Christopher Ruocchio
 title: Demon in White
 title_without_series: Demon in White
+translationKey: Demon in White
 yaml: demon-in-white
 ---
 

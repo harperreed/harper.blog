@@ -18,6 +18,7 @@ tags:
 - Michael Mammay
 title: 'Spaceside (Planetside #2)'
 title_without_series: Spaceside
+translationKey: 'Spaceside (Planetside #2)'
 yaml: spaceside-planetside-2
 ---
 

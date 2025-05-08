@@ -18,6 +18,7 @@ tags:
 - Joel Dane
 title: 'Kill Orbit (Cry Pilot, #3)'
 title_without_series: Kill Orbit
+translationKey: 'Kill Orbit (Cry Pilot, #3)'
 yaml: kill-orbit-cry-pilot-3
 ---
 

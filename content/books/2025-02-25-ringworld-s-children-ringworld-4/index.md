@@ -18,6 +18,7 @@ tags:
 - Larry Niven
 title: 'Ringworld''s Children (Ringworld, #4)'
 title_without_series: Ringworld's Children
+translationKey: 'Ringworld''s Children (Ringworld, #4)'
 yaml: ringworld-s-children-ringworld-4
 ---
 

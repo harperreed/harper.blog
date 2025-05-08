@@ -18,6 +18,7 @@ tags:
 - M.R. Carey
 title: 'Infinity Gate (Pandominion #1)'
 title_without_series: Infinity Gate
+translationKey: 'Infinity Gate (Pandominion #1)'
 yaml: infinity-gate-pandominion-1
 ---
 

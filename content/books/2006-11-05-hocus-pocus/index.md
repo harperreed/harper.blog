@@ -18,6 +18,7 @@ tags:
 - Kurt Vonnegut Jr.
 title: Hocus Pocus
 title_without_series: Hocus Pocus
+translationKey: Hocus Pocus
 yaml: hocus-pocus
 ---
 

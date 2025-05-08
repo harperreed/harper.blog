@@ -18,6 +18,7 @@ tags:
 - Dan Simmons
 title: 'Ilium (Ilium, #1)'
 title_without_series: Ilium
+translationKey: 'Ilium (Ilium, #1)'
 yaml: ilium-ilium-1
 ---
 

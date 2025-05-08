@@ -20,6 +20,7 @@ tags:
 title: 'Taliban: Militant Islam, Oil and Fundamentalism in Central Asia'
 title_without_series: 'Taliban: Militant Islam, Oil and Fundamentalism in Central
   Asia'
+translationKey: 'Taliban: Militant Islam, Oil and Fundamentalism in Central Asia'
 yaml: taliban-militant-islam-oil-and-fundamentalism-in-central-asia
 ---
 

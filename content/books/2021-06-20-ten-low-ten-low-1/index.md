@@ -18,6 +18,7 @@ tags:
 - Stark Holborn
 title: 'Ten Low (Ten Low #1)'
 title_without_series: Ten Low
+translationKey: 'Ten Low (Ten Low #1)'
 yaml: ten-low-ten-low-1
 ---
 

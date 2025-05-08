@@ -18,6 +18,7 @@ tags:
 - Robin Sloan
 title: Moonbound
 title_without_series: Moonbound
+translationKey: Moonbound
 yaml: moonbound
 ---
 

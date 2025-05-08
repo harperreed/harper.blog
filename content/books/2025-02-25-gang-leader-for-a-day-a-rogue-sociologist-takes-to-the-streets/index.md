@@ -19,6 +19,7 @@ tags:
 - Sudhir Venkatesh
 title: 'Gang Leader for a Day: A Rogue Sociologist Takes to the Streets'
 title_without_series: 'Gang Leader for a Day: A Rogue Sociologist Takes to the Streets'
+translationKey: 'Gang Leader for a Day: A Rogue Sociologist Takes to the Streets'
 yaml: gang-leader-for-a-day-a-rogue-sociologist-takes-to-the-streets
 ---
 

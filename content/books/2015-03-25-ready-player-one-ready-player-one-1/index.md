@@ -19,6 +19,7 @@ tags:
 - Ernest Cline
 title: 'Ready Player One (Ready Player One, #1)'
 title_without_series: Ready Player One
+translationKey: 'Ready Player One (Ready Player One, #1)'
 yaml: ready-player-one-ready-player-one-1
 ---
 

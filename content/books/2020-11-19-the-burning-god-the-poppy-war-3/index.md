@@ -18,6 +18,7 @@ tags:
 - R.F. Kuang
 title: 'The Burning God (The Poppy War, #3)'
 title_without_series: The Burning God
+translationKey: 'The Burning God (The Poppy War, #3)'
 yaml: the-burning-god-the-poppy-war-3
 ---
 

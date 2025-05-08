@@ -19,6 +19,7 @@ tags:
 - P.W. Singer
 title: 'Ghost Fleet: A Novel of the Next World War'
 title_without_series: 'Ghost Fleet: A Novel of the Next World War'
+translationKey: 'Ghost Fleet: A Novel of the Next World War'
 yaml: ghost-fleet-a-novel-of-the-next-world-war
 ---
 

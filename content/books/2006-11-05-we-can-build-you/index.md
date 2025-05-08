@@ -18,6 +18,7 @@ tags:
 - Philip K. Dick
 title: We Can Build You
 title_without_series: We Can Build You
+translationKey: We Can Build You
 yaml: we-can-build-you
 ---
 

@@ -18,6 +18,7 @@ tags:
 - John Scalzi
 title: 'The Last Colony (Old Man''s War, #3)'
 title_without_series: The Last Colony
+translationKey: 'The Last Colony (Old Man''s War, #3)'
 yaml: the-last-colony-old-man-s-war-3
 ---
 

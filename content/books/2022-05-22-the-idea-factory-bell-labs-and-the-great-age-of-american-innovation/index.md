@@ -19,6 +19,7 @@ tags:
 - Jon Gertner
 title: 'The Idea Factory: Bell Labs and the Great Age of American Innovation'
 title_without_series: 'The Idea Factory: Bell Labs and the Great Age of American Innovation'
+translationKey: 'The Idea Factory: Bell Labs and the Great Age of American Innovation'
 yaml: the-idea-factory-bell-labs-and-the-great-age-of-american-innovation
 ---
 

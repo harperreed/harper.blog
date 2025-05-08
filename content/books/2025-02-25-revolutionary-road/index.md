@@ -18,6 +18,7 @@ tags:
 - Richard Yates
 title: Revolutionary Road
 title_without_series: Revolutionary Road
+translationKey: Revolutionary Road
 yaml: revolutionary-road
 ---
 

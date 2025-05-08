@@ -19,6 +19,7 @@ tags:
 - Hannu Rajaniemi
 title: 'The Quantum Thief (Jean le Flambeur, #1)'
 title_without_series: The Quantum Thief
+translationKey: 'The Quantum Thief (Jean le Flambeur, #1)'
 yaml: the-quantum-thief-jean-le-flambeur-1
 ---
 

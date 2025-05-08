@@ -18,6 +18,7 @@ tags:
 - Cadwell Turnbull
 title: The Lesson
 title_without_series: The Lesson
+translationKey: The Lesson
 yaml: the-lesson
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Steven Brust
 title: 'Dragon (Vlad Taltos, #8)'
 title_without_series: Dragon
+translationKey: 'Dragon (Vlad Taltos, #8)'
 yaml: dragon-vlad-taltos-8
 ---
 

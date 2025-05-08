@@ -18,6 +18,7 @@ tags:
 - Ha Jin
 title: A Free Life
 title_without_series: A Free Life
+translationKey: A Free Life
 yaml: a-free-life
 ---
 

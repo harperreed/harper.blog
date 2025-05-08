@@ -19,6 +19,7 @@ tags:
 - Seth Dickinson
 title: 'The Monster Baru Cormorant (The Masquerade, #2)'
 title_without_series: The Monster Baru Cormorant
+translationKey: 'The Monster Baru Cormorant (The Masquerade, #2)'
 yaml: the-monster-baru-cormorant-the-masquerade-2
 ---
 

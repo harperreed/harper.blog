@@ -19,6 +19,7 @@ tags:
 - Douglas Adams
 title: 'The Hitchhiker''s Guide to the Galaxy (Hitchhiker''s Guide, #1)'
 title_without_series: The Hitchhiker's Guide to the Galaxy
+translationKey: 'The Hitchhiker''s Guide to the Galaxy (Hitchhiker''s Guide, #1)'
 yaml: the-hitchhiker-s-guide-to-the-galaxy-hitchhiker-s-guide-1
 ---
 

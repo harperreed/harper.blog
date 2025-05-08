@@ -18,6 +18,7 @@ tags:
 - Melissa Scott
 title: Trouble and Her Friends
 title_without_series: Trouble and Her Friends
+translationKey: Trouble and Her Friends
 yaml: trouble-and-her-friends
 ---
 

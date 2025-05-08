@@ -18,6 +18,7 @@ tags:
 - Charles Stross
 title: 'Halting State (Halting State, #1)'
 title_without_series: Halting State
+translationKey: 'Halting State (Halting State, #1)'
 yaml: halting-state-halting-state-1
 ---
 

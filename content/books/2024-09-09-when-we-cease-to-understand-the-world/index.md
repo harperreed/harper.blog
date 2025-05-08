@@ -19,6 +19,7 @@ tags:
 - Benjamín Labatut
 title: When We Cease to Understand the World
 title_without_series: When We Cease to Understand the World
+translationKey: When We Cease to Understand the World
 yaml: when-we-cease-to-understand-the-world
 ---
 

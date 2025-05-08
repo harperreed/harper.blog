@@ -18,6 +18,7 @@ tags:
 - Karel Čapek
 title: R.U.R.
 title_without_series: R.U.R.
+translationKey: R.U.R.
 yaml: r-u-r
 ---
 

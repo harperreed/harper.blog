@@ -18,6 +18,7 @@ tags:
 - Jack Campbell
 title: 'Courageous (The Lost Fleet, #3)'
 title_without_series: Courageous
+translationKey: 'Courageous (The Lost Fleet, #3)'
 yaml: courageous-the-lost-fleet-3
 ---
 

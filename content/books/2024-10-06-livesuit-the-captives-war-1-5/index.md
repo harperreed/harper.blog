@@ -19,6 +19,7 @@ tags:
 - James S.A. Corey
 title: 'Livesuit (The Captive’s War #1.5)'
 title_without_series: Livesuit
+translationKey: 'Livesuit (The Captive’s War #1.5)'
 yaml: livesuit-the-captives-war-1-5
 ---
 

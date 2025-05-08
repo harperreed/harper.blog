@@ -19,6 +19,7 @@ tags:
 - Peter F. Hamilton
 title: 'The Reality Dysfunction Part 2: Expansion (Night''s Dawn 1)'
 title_without_series: 'The Reality Dysfunction Part 2: Expansion'
+translationKey: 'The Reality Dysfunction Part 2: Expansion (Night''s Dawn 1)'
 yaml: the-reality-dysfunction-part-2-expansion-night-s-dawn-1
 ---
 

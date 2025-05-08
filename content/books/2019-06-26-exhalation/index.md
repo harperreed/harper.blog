@@ -18,6 +18,7 @@ tags:
 - Ted Chiang
 title: Exhalation
 title_without_series: Exhalation
+translationKey: Exhalation
 yaml: exhalation
 ---
 

@@ -18,6 +18,7 @@ tags:
 - P.D. James
 title: The Children of Men
 title_without_series: The Children of Men
+translationKey: The Children of Men
 yaml: the-children-of-men
 ---
 

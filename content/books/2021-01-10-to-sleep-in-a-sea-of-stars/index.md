@@ -18,6 +18,7 @@ tags:
 - Christopher Paolini
 title: To Sleep in a Sea of Stars
 title_without_series: To Sleep in a Sea of Stars
+translationKey: To Sleep in a Sea of Stars
 yaml: to-sleep-in-a-sea-of-stars
 ---
 

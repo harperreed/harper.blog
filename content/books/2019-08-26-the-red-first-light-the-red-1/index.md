@@ -18,6 +18,7 @@ tags:
 - Linda Nagata
 title: 'The Red: First Light (The Red, #1)'
 title_without_series: 'The Red: First Light'
+translationKey: 'The Red: First Light (The Red, #1)'
 yaml: the-red-first-light-the-red-1
 ---
 

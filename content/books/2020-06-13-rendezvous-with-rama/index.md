@@ -18,6 +18,7 @@ tags:
 - Arthur C. Clarke
 title: Rendezvous With Rama
 title_without_series: Rendezvous With Rama
+translationKey: Rendezvous With Rama
 yaml: rendezvous-with-rama
 ---
 

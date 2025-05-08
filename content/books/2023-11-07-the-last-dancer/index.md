@@ -18,6 +18,7 @@ tags:
 - Daniel Keys Moran
 title: The Last Dancer
 title_without_series: The Last Dancer
+translationKey: The Last Dancer
 yaml: the-last-dancer
 ---
 

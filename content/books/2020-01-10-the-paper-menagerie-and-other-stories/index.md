@@ -18,6 +18,7 @@ tags:
 - Ken Liu
 title: The Paper Menagerie and Other Stories
 title_without_series: The Paper Menagerie and Other Stories
+translationKey: The Paper Menagerie and Other Stories
 yaml: the-paper-menagerie-and-other-stories
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Seth Dickinson
 title: 'The Traitor Baru Cormorant (The Masquerade, #1)'
 title_without_series: The Traitor Baru Cormorant
+translationKey: 'The Traitor Baru Cormorant (The Masquerade, #1)'
 yaml: the-traitor-baru-cormorant-the-masquerade-1
 ---
 

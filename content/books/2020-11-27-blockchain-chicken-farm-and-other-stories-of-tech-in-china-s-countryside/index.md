@@ -20,6 +20,7 @@ tags:
 title: 'Blockchain Chicken Farm: And Other Stories of Tech in China''s Countryside'
 title_without_series: 'Blockchain Chicken Farm: And Other Stories of Tech in China''s
   Countryside'
+translationKey: 'Blockchain Chicken Farm: And Other Stories of Tech in China''s Countryside'
 yaml: blockchain-chicken-farm-and-other-stories-of-tech-in-china-s-countryside
 ---
 

@@ -21,6 +21,8 @@ title: 'From Cradle to Stage: Stories from the Mothers Who Rocked and Raised Roc
   Stars'
 title_without_series: 'From Cradle to Stage: Stories from the Mothers Who Rocked and
   Raised Rock Stars'
+translationKey: 'From Cradle to Stage: Stories from the Mothers Who Rocked and Raised
+  Rock Stars'
 yaml: from-cradle-to-stage-stories-from-the-mothers-who-rocked-and-raised-rock-stars
 ---
 

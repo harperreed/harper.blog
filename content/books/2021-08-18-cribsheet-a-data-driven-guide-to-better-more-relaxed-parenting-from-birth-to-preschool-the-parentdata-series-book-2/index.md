@@ -21,6 +21,8 @@ title: 'Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from B
   to Preschool (The ParentData Series Book 2)'
 title_without_series: 'Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting,
   from Birth to Preschool'
+translationKey: 'Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting,
+  from Birth to Preschool (The ParentData Series Book 2)'
 yaml: cribsheet-a-data-driven-guide-to-better-more-relaxed-parenting-from-birth-to-preschool-the-parentdata-series-book-2
 ---
 

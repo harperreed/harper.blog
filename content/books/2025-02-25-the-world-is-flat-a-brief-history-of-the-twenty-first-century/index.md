@@ -19,6 +19,7 @@ tags:
 - Thomas L. Friedman
 title: 'The World is Flat: A Brief History of the Twenty-First Century'
 title_without_series: 'The World is Flat: A Brief History of the Twenty-First Century'
+translationKey: 'The World is Flat: A Brief History of the Twenty-First Century'
 yaml: the-world-is-flat-a-brief-history-of-the-twenty-first-century
 ---
 

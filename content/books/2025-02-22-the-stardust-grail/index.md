@@ -20,6 +20,7 @@ tags:
 - Yume Kitasei
 title: The Stardust Grail
 title_without_series: The Stardust Grail
+translationKey: The Stardust Grail
 yaml: the-stardust-grail
 ---
 

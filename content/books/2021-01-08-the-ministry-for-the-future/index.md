@@ -18,6 +18,7 @@ tags:
 - Kim Stanley Robinson
 title: The Ministry for the Future
 title_without_series: The Ministry for the Future
+translationKey: The Ministry for the Future
 yaml: the-ministry-for-the-future
 ---
 

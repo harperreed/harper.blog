@@ -19,6 +19,7 @@ tags:
 - James S.A. Corey
 title: 'Persepolis Rising (The Expanse, #7)'
 title_without_series: Persepolis Rising
+translationKey: 'Persepolis Rising (The Expanse, #7)'
 yaml: persepolis-rising-the-expanse-7
 ---
 

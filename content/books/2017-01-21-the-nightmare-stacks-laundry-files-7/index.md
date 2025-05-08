@@ -19,6 +19,7 @@ tags:
 - Charles Stross
 title: 'The Nightmare Stacks (Laundry Files, #7)'
 title_without_series: The Nightmare Stacks
+translationKey: 'The Nightmare Stacks (Laundry Files, #7)'
 yaml: the-nightmare-stacks-laundry-files-7
 ---
 

@@ -19,6 +19,8 @@ tags:
 - Robin Sloan
 title: 'Mr. Penumbra''s 24-Hour Bookstore (Mr. Penumbra''s 24-Hour Bookstore, #1)'
 title_without_series: Mr. Penumbra's 24-Hour Bookstore
+translationKey: 'Mr. Penumbra''s 24-Hour Bookstore (Mr. Penumbra''s 24-Hour Bookstore,
+  #1)'
 yaml: mr-penumbra-s-24-hour-bookstore-mr-penumbra-s-24-hour-bookstore-1
 ---
 

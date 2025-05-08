@@ -18,6 +18,7 @@ tags:
 - David Kesmodel
 title: The Domain Game
 title_without_series: The Domain Game
+translationKey: The Domain Game
 yaml: the-domain-game
 ---
 

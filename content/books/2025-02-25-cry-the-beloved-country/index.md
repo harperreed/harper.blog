@@ -18,6 +18,7 @@ tags:
 - Alan Paton
 title: Cry, the Beloved Country
 title_without_series: Cry, the Beloved Country
+translationKey: Cry, the Beloved Country
 yaml: cry-the-beloved-country
 ---
 

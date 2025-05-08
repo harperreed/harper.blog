@@ -20,6 +20,7 @@ tags:
 title: 'Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency'
 title_without_series: 'Tracers in the Dark: The Global Hunt for the Crime Lords of
   Cryptocurrency'
+translationKey: 'Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency'
 yaml: tracers-in-the-dark-the-global-hunt-for-the-crime-lords-of-cryptocurrency
 ---
 

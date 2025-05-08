@@ -19,6 +19,7 @@ tags:
 - Lois McMaster Bujold
 title: 'Paladin of Souls (World of the Five Gods, #2)'
 title_without_series: Paladin of Souls
+translationKey: 'Paladin of Souls (World of the Five Gods, #2)'
 yaml: paladin-of-souls-world-of-the-five-gods-2
 ---
 

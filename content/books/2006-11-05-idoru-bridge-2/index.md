@@ -18,6 +18,7 @@ tags:
 - William Gibson
 title: 'Idoru (Bridge, #2)'
 title_without_series: Idoru
+translationKey: 'Idoru (Bridge, #2)'
 yaml: idoru-bridge-2
 ---
 

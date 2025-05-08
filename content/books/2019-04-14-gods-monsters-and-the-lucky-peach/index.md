@@ -18,6 +18,7 @@ tags:
 - Kelly Robson
 title: Gods, Monsters, and the Lucky Peach
 title_without_series: Gods, Monsters, and the Lucky Peach
+translationKey: Gods, Monsters, and the Lucky Peach
 yaml: gods-monsters-and-the-lucky-peach
 ---
 

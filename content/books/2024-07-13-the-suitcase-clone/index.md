@@ -18,6 +18,7 @@ tags:
 - Robin Sloan
 title: The Suitcase Clone
 title_without_series: The Suitcase Clone
+translationKey: The Suitcase Clone
 yaml: the-suitcase-clone
 ---
 

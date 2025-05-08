@@ -18,6 +18,7 @@ tags:
 - Liu Cixin
 title: Ball Lightning
 title_without_series: Ball Lightning
+translationKey: Ball Lightning
 yaml: ball-lightning
 ---
 

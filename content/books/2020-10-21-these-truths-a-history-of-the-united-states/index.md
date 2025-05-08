@@ -19,6 +19,7 @@ tags:
 - Jill Lepore
 title: 'These Truths: A History of the United States'
 title_without_series: 'These Truths: A History of the United States'
+translationKey: 'These Truths: A History of the United States'
 yaml: these-truths-a-history-of-the-united-states
 ---
 

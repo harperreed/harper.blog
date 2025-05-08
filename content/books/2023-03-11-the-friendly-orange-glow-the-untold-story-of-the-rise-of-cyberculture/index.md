@@ -19,6 +19,7 @@ tags:
 - Brian Dear
 title: 'The Friendly Orange Glow: The Untold Story of the Rise of Cyberculture'
 title_without_series: 'The Friendly Orange Glow: The Untold Story of the Rise of Cyberculture'
+translationKey: 'The Friendly Orange Glow: The Untold Story of the Rise of Cyberculture'
 yaml: the-friendly-orange-glow-the-untold-story-of-the-rise-of-cyberculture
 ---
 

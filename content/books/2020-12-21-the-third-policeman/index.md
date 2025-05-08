@@ -18,6 +18,7 @@ tags:
 - Flann O'Brien
 title: The Third Policeman
 title_without_series: The Third Policeman
+translationKey: The Third Policeman
 yaml: the-third-policeman
 ---
 

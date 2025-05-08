@@ -18,6 +18,7 @@ tags:
 - Tracy Kidder
 title: The Soul of a New Machine
 title_without_series: The Soul of a New Machine
+translationKey: The Soul of a New Machine
 yaml: the-soul-of-a-new-machine
 ---
 

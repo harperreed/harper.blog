@@ -19,6 +19,7 @@ tags:
 - Justin Fenton
 title: 'We Own This City: A True Story of Crime, Cops, and Corruption'
 title_without_series: 'We Own This City: A True Story of Crime, Cops, and Corruption'
+translationKey: 'We Own This City: A True Story of Crime, Cops, and Corruption'
 yaml: we-own-this-city-a-true-story-of-crime-cops-and-corruption
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Orson Scott Card
 title: 'Shadow Puppets (The Shadow Series, #3)'
 title_without_series: Shadow Puppets
+translationKey: 'Shadow Puppets (The Shadow Series, #3)'
 yaml: shadow-puppets-the-shadow-series-3
 ---
 

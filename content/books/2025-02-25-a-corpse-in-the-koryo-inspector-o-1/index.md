@@ -19,6 +19,7 @@ tags:
 - James  Church
 title: 'A Corpse in the Koryo (Inspector O, #1)'
 title_without_series: A Corpse in the Koryo
+translationKey: 'A Corpse in the Koryo (Inspector O, #1)'
 yaml: a-corpse-in-the-koryo-inspector-o-1
 ---
 

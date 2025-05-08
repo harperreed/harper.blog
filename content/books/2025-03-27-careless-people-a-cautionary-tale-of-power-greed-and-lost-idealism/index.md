@@ -22,6 +22,7 @@ tags:
 title: 'Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism'
 title_without_series: 'Careless People: A Cautionary Tale of Power, Greed, and Lost
   Idealism'
+translationKey: 'Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism'
 yaml: careless-people-a-cautionary-tale-of-power-greed-and-lost-idealism
 ---
 

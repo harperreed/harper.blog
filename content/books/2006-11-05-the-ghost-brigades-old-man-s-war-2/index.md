@@ -19,6 +19,7 @@ tags:
 - John Scalzi
 title: 'The Ghost Brigades (Old Man''s War, #2)'
 title_without_series: The Ghost Brigades
+translationKey: 'The Ghost Brigades (Old Man''s War, #2)'
 yaml: the-ghost-brigades-old-man-s-war-2
 ---
 

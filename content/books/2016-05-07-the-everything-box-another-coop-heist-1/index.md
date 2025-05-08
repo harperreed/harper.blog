@@ -19,6 +19,7 @@ tags:
 - Richard Kadrey
 title: 'The Everything Box (Another Coop Heist, #1)'
 title_without_series: The Everything Box
+translationKey: 'The Everything Box (Another Coop Heist, #1)'
 yaml: the-everything-box-another-coop-heist-1
 ---
 

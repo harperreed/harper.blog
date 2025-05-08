@@ -18,6 +18,7 @@ tags:
 - Essa Hansen
 title: Nophek Gloss
 title_without_series: Nophek Gloss
+translationKey: Nophek Gloss
 yaml: nophek-gloss
 ---
 

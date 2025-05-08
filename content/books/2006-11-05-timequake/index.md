@@ -18,6 +18,7 @@ tags:
 - Kurt Vonnegut Jr.
 title: Timequake
 title_without_series: Timequake
+translationKey: Timequake
 yaml: timequake
 ---
 

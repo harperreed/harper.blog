@@ -18,6 +18,7 @@ tags:
 - Ness Brown
 title: The Scourge Between Stars
 title_without_series: The Scourge Between Stars
+translationKey: The Scourge Between Stars
 yaml: the-scourge-between-stars
 ---
 

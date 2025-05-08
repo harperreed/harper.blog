@@ -20,6 +20,7 @@ tags:
 title: 'Freakonomics: A Rogue Economist Explores the Hidden Side of Everything'
 title_without_series: 'Freakonomics: A Rogue Economist Explores the Hidden Side of
   Everything'
+translationKey: 'Freakonomics: A Rogue Economist Explores the Hidden Side of Everything'
 yaml: freakonomics-a-rogue-economist-explores-the-hidden-side-of-everything
 ---
 

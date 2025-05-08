@@ -18,6 +18,7 @@ tags:
 - Larry Niven
 title: 'The Ringworld Throne (Ringworld, #3)'
 title_without_series: The Ringworld Throne
+translationKey: 'The Ringworld Throne (Ringworld, #3)'
 yaml: the-ringworld-throne-ringworld-3
 ---
 

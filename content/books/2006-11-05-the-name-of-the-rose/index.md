@@ -18,6 +18,7 @@ tags:
 - Umberto Eco
 title: The Name of the Rose
 title_without_series: The Name of the Rose
+translationKey: The Name of the Rose
 yaml: the-name-of-the-rose
 ---
 

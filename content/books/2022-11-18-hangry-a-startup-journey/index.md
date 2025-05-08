@@ -18,6 +18,7 @@ tags:
 - Mike           Evans
 title: 'Hangry: A Startup Journey'
 title_without_series: 'Hangry: A Startup Journey'
+translationKey: 'Hangry: A Startup Journey'
 yaml: hangry-a-startup-journey
 ---
 

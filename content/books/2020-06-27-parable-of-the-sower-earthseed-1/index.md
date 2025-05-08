@@ -19,6 +19,7 @@ tags:
 - Octavia E. Butler
 title: 'Parable of the Sower (Earthseed, #1)'
 title_without_series: Parable of the Sower
+translationKey: 'Parable of the Sower (Earthseed, #1)'
 yaml: parable-of-the-sower-earthseed-1
 ---
 

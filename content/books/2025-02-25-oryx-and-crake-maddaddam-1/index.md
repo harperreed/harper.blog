@@ -18,6 +18,7 @@ tags:
 - Margaret Atwood
 title: 'Oryx and Crake (MaddAddam, #1)'
 title_without_series: Oryx and Crake
+translationKey: 'Oryx and Crake (MaddAddam, #1)'
 yaml: oryx-and-crake-maddaddam-1
 ---
 

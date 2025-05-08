@@ -18,6 +18,7 @@ tags:
 - Natsuko Imamura
 title: The Woman in the Purple Skirt
 title_without_series: The Woman in the Purple Skirt
+translationKey: The Woman in the Purple Skirt
 yaml: the-woman-in-the-purple-skirt
 ---
 

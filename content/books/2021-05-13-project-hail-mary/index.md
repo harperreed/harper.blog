@@ -18,6 +18,7 @@ tags:
 - Andy Weir
 title: Project Hail Mary
 title_without_series: Project Hail Mary
+translationKey: Project Hail Mary
 yaml: project-hail-mary
 ---
 

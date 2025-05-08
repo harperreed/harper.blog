@@ -18,6 +18,7 @@ tags:
 - Benjanun Sriduangkaew
 title: And the Burned Moths Remain
 title_without_series: And the Burned Moths Remain
+translationKey: And the Burned Moths Remain
 yaml: and-the-burned-moths-remain
 ---
 

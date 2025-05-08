@@ -18,6 +18,7 @@ tags:
 - Banana Yoshimoto
 title: Amrita - 1st Edition/1st Printing
 title_without_series: Amrita - 1st Edition/1st Printing
+translationKey: Amrita - 1st Edition/1st Printing
 yaml: amrita-1st-edition-1st-printing
 ---
 

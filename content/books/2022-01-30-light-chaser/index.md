@@ -18,6 +18,7 @@ tags:
 - Peter F. Hamilton
 title: Light Chaser
 title_without_series: Light Chaser
+translationKey: Light Chaser
 yaml: light-chaser
 ---
 

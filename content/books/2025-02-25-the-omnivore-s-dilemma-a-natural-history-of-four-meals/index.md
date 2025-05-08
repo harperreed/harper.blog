@@ -19,6 +19,7 @@ tags:
 - Michael Pollan
 title: 'The Omnivore''s Dilemma: A Natural History of Four Meals'
 title_without_series: 'The Omnivore''s Dilemma: A Natural History of Four Meals'
+translationKey: 'The Omnivore''s Dilemma: A Natural History of Four Meals'
 yaml: the-omnivore-s-dilemma-a-natural-history-of-four-meals
 ---
 

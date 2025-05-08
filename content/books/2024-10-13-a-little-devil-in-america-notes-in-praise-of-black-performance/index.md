@@ -19,6 +19,7 @@ tags:
 - Hanif Abdurraqib
 title: 'A Little Devil in America: Notes in Praise of Black Performance'
 title_without_series: 'A Little Devil in America: Notes in Praise of Black Performance'
+translationKey: 'A Little Devil in America: Notes in Praise of Black Performance'
 yaml: a-little-devil-in-america-notes-in-praise-of-black-performance
 ---
 

@@ -18,6 +18,7 @@ tags:
 - R.F. Kuang
 title: Babel
 title_without_series: Babel
+translationKey: Babel
 yaml: babel
 ---
 

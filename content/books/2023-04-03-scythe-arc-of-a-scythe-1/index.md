@@ -18,6 +18,7 @@ tags:
 - Neal Shusterman
 title: 'Scythe (Arc of a Scythe, #1)'
 title_without_series: Scythe
+translationKey: 'Scythe (Arc of a Scythe, #1)'
 yaml: scythe-arc-of-a-scythe-1
 ---
 

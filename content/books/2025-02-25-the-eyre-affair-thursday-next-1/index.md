@@ -18,6 +18,7 @@ tags:
 - Jasper Fforde
 title: 'The Eyre Affair (Thursday Next, #1)'
 title_without_series: The Eyre Affair
+translationKey: 'The Eyre Affair (Thursday Next, #1)'
 yaml: the-eyre-affair-thursday-next-1
 ---
 

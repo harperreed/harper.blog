@@ -18,6 +18,7 @@ tags:
 - Chen Qiufan
 title: Waste Tide
 title_without_series: Waste Tide
+translationKey: Waste Tide
 yaml: waste-tide
 ---
 

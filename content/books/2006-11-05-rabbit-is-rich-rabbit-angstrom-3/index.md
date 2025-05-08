@@ -18,6 +18,7 @@ tags:
 - John Updike
 title: 'Rabbit Is Rich (Rabbit Angstrom #3)'
 title_without_series: Rabbit Is Rich
+translationKey: 'Rabbit Is Rich (Rabbit Angstrom #3)'
 yaml: rabbit-is-rich-rabbit-angstrom-3
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Philip Roth
 title: 'American Pastoral (The American Trilogy, #1)'
 title_without_series: American Pastoral
+translationKey: 'American Pastoral (The American Trilogy, #1)'
 yaml: american-pastoral-the-american-trilogy-1
 ---
 

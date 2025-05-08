@@ -18,6 +18,7 @@ tags:
 - Michael Cisco
 title: The Traitor
 title_without_series: The Traitor
+translationKey: The Traitor
 yaml: the-traitor
 ---
 

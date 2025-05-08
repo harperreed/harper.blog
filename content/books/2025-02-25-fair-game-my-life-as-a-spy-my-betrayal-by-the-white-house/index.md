@@ -19,6 +19,7 @@ tags:
 - Valerie Plame Wilson
 title: 'Fair Game: My Life as a Spy, My Betrayal by the White House'
 title_without_series: 'Fair Game: My Life as a Spy, My Betrayal by the White House'
+translationKey: 'Fair Game: My Life as a Spy, My Betrayal by the White House'
 yaml: fair-game-my-life-as-a-spy-my-betrayal-by-the-white-house
 ---
 

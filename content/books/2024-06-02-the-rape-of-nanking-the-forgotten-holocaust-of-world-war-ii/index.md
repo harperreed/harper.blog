@@ -19,6 +19,7 @@ tags:
 - Iris Chang
 title: 'The Rape of Nanking: The Forgotten Holocaust of World War II'
 title_without_series: 'The Rape of Nanking: The Forgotten Holocaust of World War II'
+translationKey: 'The Rape of Nanking: The Forgotten Holocaust of World War II'
 yaml: the-rape-of-nanking-the-forgotten-holocaust-of-world-war-ii
 ---
 

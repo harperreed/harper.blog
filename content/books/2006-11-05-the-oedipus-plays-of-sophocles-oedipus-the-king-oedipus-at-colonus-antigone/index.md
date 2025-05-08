@@ -20,6 +20,8 @@ tags:
 title: 'The Oedipus Plays of Sophocles: Oedipus the King - Oedipus at Colonus - Antigone'
 title_without_series: 'The Oedipus Plays of Sophocles: Oedipus the King - Oedipus
   at Colonus - Antigone'
+translationKey: 'The Oedipus Plays of Sophocles: Oedipus the King - Oedipus at Colonus
+  - Antigone'
 yaml: the-oedipus-plays-of-sophocles-oedipus-the-king-oedipus-at-colonus-antigone
 ---
 

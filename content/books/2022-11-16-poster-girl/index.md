@@ -18,6 +18,7 @@ tags:
 - Veronica Roth
 title: Poster Girl
 title_without_series: Poster Girl
+translationKey: Poster Girl
 yaml: poster-girl
 ---
 

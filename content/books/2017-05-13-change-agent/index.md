@@ -18,6 +18,7 @@ tags:
 - Daniel Suarez
 title: Change Agent
 title_without_series: Change Agent
+translationKey: Change Agent
 yaml: change-agent
 ---
 

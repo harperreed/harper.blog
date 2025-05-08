@@ -19,6 +19,7 @@ tags:
 - Kevin Kelly
 title: 'Excellent Advice for Living: Wisdom I Wish I''d Known Earlier'
 title_without_series: 'Excellent Advice for Living: Wisdom I Wish I''d Known Earlier'
+translationKey: 'Excellent Advice for Living: Wisdom I Wish I''d Known Earlier'
 yaml: excellent-advice-for-living-wisdom-i-wish-i-d-known-earlier
 ---
 

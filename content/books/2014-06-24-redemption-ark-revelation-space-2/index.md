@@ -19,6 +19,7 @@ tags:
 - Alastair Reynolds
 title: 'Redemption Ark (Revelation Space, #2)'
 title_without_series: Redemption Ark
+translationKey: 'Redemption Ark (Revelation Space, #2)'
 yaml: redemption-ark-revelation-space-2
 ---
 

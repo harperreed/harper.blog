@@ -18,6 +18,7 @@ tags:
 - Emily St. John Mandel
 title: Sea of Tranquility
 title_without_series: Sea of Tranquility
+translationKey: Sea of Tranquility
 yaml: sea-of-tranquility
 ---
 

@@ -19,6 +19,7 @@ tags:
 - Ayn Rand
 title: 'The Virtue of Selfishness: A New Concept of Egoism'
 title_without_series: 'The Virtue of Selfishness: A New Concept of Egoism'
+translationKey: 'The Virtue of Selfishness: A New Concept of Egoism'
 yaml: the-virtue-of-selfishness-a-new-concept-of-egoism
 ---
 

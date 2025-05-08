@@ -19,6 +19,7 @@ tags:
 - Bethany Jacobs
 title: 'These Burning Stars (The Kindom Trilogy, #1)'
 title_without_series: These Burning Stars
+translationKey: 'These Burning Stars (The Kindom Trilogy, #1)'
 yaml: these-burning-stars-the-kindom-trilogy-1
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Ada Palmer
 title: 'The Will to Battle (Terra Ignota, #3)'
 title_without_series: The Will to Battle
+translationKey: 'The Will to Battle (Terra Ignota, #3)'
 yaml: the-will-to-battle-terra-ignota-3
 ---
 

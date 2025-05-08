@@ -20,6 +20,8 @@ tags:
 title: 'Moneyland: The Inside Story of the Crooks and Kleptocrats Who Rule the World'
 title_without_series: 'Moneyland: The Inside Story of the Crooks and Kleptocrats Who
   Rule the World'
+translationKey: 'Moneyland: The Inside Story of the Crooks and Kleptocrats Who Rule
+  the World'
 yaml: moneyland-the-inside-story-of-the-crooks-and-kleptocrats-who-rule-the-world
 ---
 

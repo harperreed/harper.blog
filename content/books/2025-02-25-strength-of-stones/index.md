@@ -18,6 +18,7 @@ tags:
 - Greg Bear
 title: Strength of Stones
 title_without_series: Strength of Stones
+translationKey: Strength of Stones
 yaml: strength-of-stones
 ---
 

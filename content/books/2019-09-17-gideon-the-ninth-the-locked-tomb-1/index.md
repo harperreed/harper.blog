@@ -19,6 +19,7 @@ tags:
 - Tamsyn Muir
 title: 'Gideon the Ninth (The Locked Tomb, #1)'
 title_without_series: Gideon the Ninth
+translationKey: 'Gideon the Ninth (The Locked Tomb, #1)'
 yaml: gideon-the-ninth-the-locked-tomb-1
 ---
 

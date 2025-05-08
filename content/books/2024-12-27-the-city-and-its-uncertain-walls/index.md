@@ -21,6 +21,7 @@ tags:
 - Haruki Murakami
 title: The City and Its Uncertain Walls
 title_without_series: The City and Its Uncertain Walls
+translationKey: The City and Its Uncertain Walls
 yaml: the-city-and-its-uncertain-walls
 ---
 

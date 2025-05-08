@@ -19,6 +19,7 @@ tags:
 - John Scalzi
 title: 'Miniatures: The Very Short Fiction of John Scalzi'
 title_without_series: 'Miniatures: The Very Short Fiction of John Scalzi'
+translationKey: 'Miniatures: The Very Short Fiction of John Scalzi'
 yaml: miniatures-the-very-short-fiction-of-john-scalzi
 ---
 

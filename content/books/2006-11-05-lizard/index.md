@@ -18,6 +18,7 @@ tags:
 - Banana Yoshimoto
 title: Lizard
 title_without_series: Lizard
+translationKey: Lizard
 yaml: lizard
 ---
 

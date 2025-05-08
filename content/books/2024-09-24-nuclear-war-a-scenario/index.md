@@ -18,6 +18,7 @@ tags:
 - Annie Jacobsen
 title: 'Nuclear War: A Scenario'
 title_without_series: 'Nuclear War: A Scenario'
+translationKey: 'Nuclear War: A Scenario'
 yaml: nuclear-war-a-scenario
 ---
 

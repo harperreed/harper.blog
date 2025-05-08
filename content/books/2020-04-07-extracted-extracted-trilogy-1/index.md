@@ -18,6 +18,7 @@ tags:
 - R.R. Haywood
 title: 'Extracted (Extracted Trilogy, #1)'
 title_without_series: Extracted
+translationKey: 'Extracted (Extracted Trilogy, #1)'
 yaml: extracted-extracted-trilogy-1
 ---
 

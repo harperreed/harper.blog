@@ -18,6 +18,7 @@ tags:
 - John Updike
 title: 'Rabbit Redux (Rabbit Angstrom, #2)'
 title_without_series: Rabbit Redux
+translationKey: 'Rabbit Redux (Rabbit Angstrom, #2)'
 yaml: rabbit-redux-rabbit-angstrom-2
 ---
 

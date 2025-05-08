@@ -19,6 +19,7 @@ tags:
 - Christopher    Brown
 title: 'Rule of Capture (Dystopian Lawyer, #1)'
 title_without_series: Rule of Capture
+translationKey: 'Rule of Capture (Dystopian Lawyer, #1)'
 yaml: rule-of-capture-dystopian-lawyer-1
 ---
 

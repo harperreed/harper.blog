@@ -18,6 +18,7 @@ tags:
 - Seneca
 title: On the Shortness of Life
 title_without_series: On the Shortness of Life
+translationKey: On the Shortness of Life
 yaml: on-the-shortness-of-life
 ---
 

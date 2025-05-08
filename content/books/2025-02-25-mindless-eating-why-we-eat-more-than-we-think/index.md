@@ -19,6 +19,7 @@ tags:
 - Brian Wansink
 title: 'Mindless Eating: Why We Eat More Than We Think'
 title_without_series: 'Mindless Eating: Why We Eat More Than We Think'
+translationKey: 'Mindless Eating: Why We Eat More Than We Think'
 yaml: mindless-eating-why-we-eat-more-than-we-think
 ---
 

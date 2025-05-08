@@ -18,6 +18,7 @@ tags:
 - Jeff  Carlson
 title: 'Plague Year (Plague, #1)'
 title_without_series: Plague Year
+translationKey: 'Plague Year (Plague, #1)'
 yaml: plague-year-plague-1
 ---
 

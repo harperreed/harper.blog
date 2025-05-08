@@ -18,6 +18,7 @@ tags:
 - R.R. Haywood
 title: 'Executed (Extracted Trilogy, #2)'
 title_without_series: Executed
+translationKey: 'Executed (Extracted Trilogy, #2)'
 yaml: executed-extracted-trilogy-2
 ---
 

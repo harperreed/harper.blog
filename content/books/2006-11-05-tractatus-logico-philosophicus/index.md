@@ -18,6 +18,7 @@ tags:
 - Ludwig Wittgenstein
 title: Tractatus Logico-Philosophicus
 title_without_series: Tractatus Logico-Philosophicus
+translationKey: Tractatus Logico-Philosophicus
 yaml: tractatus-logico-philosophicus
 ---
 

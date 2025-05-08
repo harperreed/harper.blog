@@ -18,6 +18,7 @@ tags:
 - Rebecca Yarros
 title: 'Iron Flame (The Empyrean, #2)'
 title_without_series: Iron Flame
+translationKey: 'Iron Flame (The Empyrean, #2)'
 yaml: iron-flame-the-empyrean-2
 ---
 

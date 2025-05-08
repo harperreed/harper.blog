@@ -19,6 +19,7 @@ tags:
 - Arthur C. Clarke
 title: '2010: Odyssey Two (Space Odyssey, #2)'
 title_without_series: '2010: Odyssey Two'
+translationKey: '2010: Odyssey Two (Space Odyssey, #2)'
 yaml: 2010-odyssey-two-space-odyssey-2
 ---
 

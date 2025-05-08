@@ -18,6 +18,7 @@ tags:
 - Ian McDonald
 title: 'Luna: New Moon (Luna, #1)'
 title_without_series: 'Luna: New Moon'
+translationKey: 'Luna: New Moon (Luna, #1)'
 yaml: luna-new-moon-luna-1
 ---
 

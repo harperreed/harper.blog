@@ -18,6 +18,7 @@ tags:
 - Linda Nagata
 title: Pacific Storm
 title_without_series: Pacific Storm
+translationKey: Pacific Storm
 yaml: pacific-storm
 ---
 

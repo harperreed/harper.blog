@@ -19,6 +19,7 @@ tags:
 - Shelley Parker-Chan
 title: 'She Who Became the Sun (The Radiant Emperor, #1)'
 title_without_series: She Who Became the Sun
+translationKey: 'She Who Became the Sun (The Radiant Emperor, #1)'
 yaml: she-who-became-the-sun-the-radiant-emperor-1
 ---
 

@@ -18,6 +18,7 @@ tags:
 - James Baldwin
 title: The Fire Next Time
 title_without_series: The Fire Next Time
+translationKey: The Fire Next Time
 yaml: the-fire-next-time
 ---
 

@@ -21,6 +21,7 @@ tags:
 - Matt Dinniman
 title: 'Dungeon Crawler Carl (Dungeon Crawler Carl, #1)'
 title_without_series: Dungeon Crawler Carl
+translationKey: 'Dungeon Crawler Carl (Dungeon Crawler Carl, #1)'
 yaml: dungeon-crawler-carl-dungeon-crawler-carl-1
 ---
 

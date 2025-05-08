@@ -19,6 +19,7 @@ tags:
 - Ada Palmer
 title: 'Too Like the Lightning (Terra Ignota, #1)'
 title_without_series: Too Like the Lightning
+translationKey: 'Too Like the Lightning (Terra Ignota, #1)'
 yaml: too-like-the-lightning-terra-ignota-1
 ---
 

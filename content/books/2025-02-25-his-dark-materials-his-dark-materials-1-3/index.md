@@ -19,6 +19,7 @@ tags:
 - Philip Pullman
 title: 'His Dark Materials (His Dark Materials #1-3)'
 title_without_series: His Dark Materials
+translationKey: 'His Dark Materials (His Dark Materials #1-3)'
 yaml: his-dark-materials-his-dark-materials-1-3
 ---
 

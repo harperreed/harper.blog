@@ -19,6 +19,7 @@ tags:
 - Max Gladstone
 title: 'Three Parts Dead (Craft Sequence, #1)'
 title_without_series: Three Parts Dead
+translationKey: 'Three Parts Dead (Craft Sequence, #1)'
 yaml: three-parts-dead-craft-sequence-1
 ---
 

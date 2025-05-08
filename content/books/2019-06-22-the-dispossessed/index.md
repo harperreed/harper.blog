@@ -18,6 +18,7 @@ tags:
 - Ursula K. Le Guin
 title: The Dispossessed
 title_without_series: The Dispossessed
+translationKey: The Dispossessed
 yaml: the-dispossessed
 ---
 

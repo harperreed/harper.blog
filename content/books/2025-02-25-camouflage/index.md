@@ -18,6 +18,7 @@ tags:
 - Joe Haldeman
 title: Camouflage
 title_without_series: Camouflage
+translationKey: Camouflage
 yaml: camouflage
 ---
 

@@ -18,6 +18,7 @@ tags:
 - Yevgeny Zamyatin
 title: We
 title_without_series: We
+translationKey: We
 yaml: we
 ---
 

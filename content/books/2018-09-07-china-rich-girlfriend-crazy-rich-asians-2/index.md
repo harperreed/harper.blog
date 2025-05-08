@@ -19,6 +19,7 @@ tags:
 - Kevin Kwan
 title: 'China Rich Girlfriend (Crazy Rich Asians, #2)'
 title_without_series: China Rich Girlfriend
+translationKey: 'China Rich Girlfriend (Crazy Rich Asians, #2)'
 yaml: china-rich-girlfriend-crazy-rich-asians-2
 ---
 
