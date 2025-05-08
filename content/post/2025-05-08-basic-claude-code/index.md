@@ -1,6 +1,6 @@
 ---
 date: 2025-05-08
-description:
+description: A detailed walkthrough of using Claude Code AI assistant for software development, including workflow tips, testing practices, and practical examples from real projects. Covers defensive coding strategies, TDD, and team implementation.
 draft: false
 tags:
     - ai
