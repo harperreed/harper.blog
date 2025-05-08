@@ -14,6 +14,7 @@ tags:
 title: Basic Claude Code
 generateSocialImage: true
 translationKey: Basic Claude Code
+bsky: https://bsky.app/profile/harper.lol/post/3loo3lnbmbi22
 ---
 
 I really like this agentic coding thing. It is quite compelling in so many ways.
