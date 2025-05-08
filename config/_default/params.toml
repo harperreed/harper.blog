@@ -1,7 +1,3 @@
-
-
-description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
-subtitle = "Musing from a normal person doing normal things"
 name = "Harper Reed"
 
 email = "harper@modest.com"
@@ -26,8 +22,8 @@ amazon_tag = "harperrules0d-20"
 # theme = "sunset"
 # theme = "ocean"
 # theme = "desert"
-theme = "nordic"
-# theme = "autumn"
+# theme = "nordic"
+theme = "autumn"
 # theme = "cyber"
 # theme = "academia"
 # theme = "myspace"
