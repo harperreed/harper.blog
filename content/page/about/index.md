@@ -20,7 +20,7 @@ My name is [Harper Reed](mailto:harper@modest.com). This is my blog. I have been
 
 ## About me
 
-{{< image src="/images/harper_portrait.webp" caption="This is me!" >}}
+{{< image src="harper_portrait.webp" caption="This is me!" >}}
 
 I am a _computer operator_ who likes to make things, have fun, and hang out on the internet. Also pranks.
 

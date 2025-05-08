@@ -5,6 +5,10 @@ languageCode = "en-US"
 contentDir = "content"
 weight = 1
 
+[en.params]
+description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
+subtitle = "Musing from a normal person doing normal things"
+
 # [es]
 # title = "Blog de Harper Reed"
 # languageName = "Español 🇪🇸"
