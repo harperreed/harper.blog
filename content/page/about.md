@@ -3,7 +3,7 @@ title: Hello
 type: special
 url: /about/
 hideReply: true
-
+translationKey: "about"
 nofeed: true
 description: About page for harper.blog
 weight: 3

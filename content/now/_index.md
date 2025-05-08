@@ -1,7 +1,7 @@
 ---
 title: Now
 lastmod: "2017-12-04"
-
+translationKey: "now"
 url: /now
 nofeed: true
 menu:
