@@ -5,6 +5,7 @@ note_id: 6
 original_url: https://harper.micro.blog/2024/01/15/winter-magic-time.html
 sub_title: Untitled
 title: 'Note #6'
+translationKey: 'Note #6'
 ---
 
 Winter Magic Time.

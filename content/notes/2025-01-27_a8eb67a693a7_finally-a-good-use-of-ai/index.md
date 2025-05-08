@@ -5,6 +5,7 @@ draft: false
 original_url: https://harper.micro.blog/2025/01/27/finally-a-good-use-of.html
 sub_title: Untitled
 title: 'Note #193'
+translationKey: 'Note #193'
 ---
 
 Finally a good use of AI

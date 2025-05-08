@@ -6,6 +6,7 @@ note_id: 134
 original_url: https://harper.micro.blog/2024/11/26/fall-vibes.html
 sub_title: Untitled
 title: 'Note #134'
+translationKey: 'Note #134'
 ---
 
 Fall vibes

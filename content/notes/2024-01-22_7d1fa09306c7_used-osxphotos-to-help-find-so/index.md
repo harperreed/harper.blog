@@ -5,6 +5,7 @@ note_id: 8
 original_url: https://harper.micro.blog/2024/01/21/used-osxphotos-to.html
 sub_title: Untitled
 title: 'Note #8'
+translationKey: 'Note #8'
 ---
 
 Used osxphotos to help find some pleasant shots

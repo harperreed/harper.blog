@@ -5,6 +5,7 @@ note_id: 40
 original_url: https://harper.micro.blog/2024/07/16/zzz.html
 sub_title: Untitled
 title: 'Note #40'
+translationKey: 'Note #40'
 ---
 
 Zzz

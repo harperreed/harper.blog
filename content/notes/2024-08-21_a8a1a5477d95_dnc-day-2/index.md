@@ -5,6 +5,7 @@ note_id: 47
 original_url: https://harper.micro.blog/2024/08/21/211118.html
 sub_title: Untitled
 title: 'Note #47'
+translationKey: 'Note #47'
 ---
 
 DNC Day 2

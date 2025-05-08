@@ -5,6 +5,7 @@ draft: false
 original_url: https://harper.micro.blog/2025/02/14/this-is-a-wonderful-article.html
 sub_title: Untitled
 title: 'Note #180'
+translationKey: 'Note #180'
 ---
 
 This is a wonderful article about my friend Christine Sun Kim.

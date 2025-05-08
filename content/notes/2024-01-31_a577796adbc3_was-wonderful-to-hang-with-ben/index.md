@@ -5,6 +5,7 @@ note_id: 13
 original_url: https://harper.micro.blog/2024/01/31/was-wonderful-to.html
 sub_title: Untitled
 title: 'Note #13'
+translationKey: 'Note #13'
 ---
 
 Was wonderful to hang with Ben Huh today in rainy San Francisco

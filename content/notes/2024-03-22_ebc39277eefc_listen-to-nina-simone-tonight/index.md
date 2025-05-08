@@ -5,6 +5,7 @@ note_id: 22
 original_url: https://harper.micro.blog/2024/03/22/listen-to-nina.html
 sub_title: Untitled
 title: 'Note #22'
+translationKey: 'Note #22'
 ---
 
 Listen to Nina Simone tonight

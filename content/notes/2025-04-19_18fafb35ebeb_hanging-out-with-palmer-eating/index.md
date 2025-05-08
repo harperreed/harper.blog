@@ -5,6 +5,7 @@ draft: false
 original_url: https://harper.micro.blog/2025/04/19/hanging-out-with-palmer-eating.html
 sub_title: Untitled
 title: 'Note #190'
+translationKey: 'Note #190'
 ---
 
 Hanging out with Palmer. Eating amazing tofu.

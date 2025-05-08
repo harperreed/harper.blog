@@ -4,7 +4,8 @@ draft: false
 note_id: 68
 original_url: https://harper.micro.blog/2024/09/24/i-fixed-my.html
 sub_title: Untitled
-title: "Note #68"
+title: 'Note #68'
+translationKey: 'Note #68'
 ---
 
 I fixed my rss feed at [harper.blog](https://harper.blog)

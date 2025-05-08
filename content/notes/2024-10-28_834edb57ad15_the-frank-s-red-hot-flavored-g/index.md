@@ -5,6 +5,7 @@ note_id: 128
 original_url: https://harper.micro.blog/2024/10/28/the-franks-red.html
 sub_title: Untitled
 title: 'Note #128'
+translationKey: 'Note #128'
 ---
 
 the frank's red hot flavored gold fish are perfect

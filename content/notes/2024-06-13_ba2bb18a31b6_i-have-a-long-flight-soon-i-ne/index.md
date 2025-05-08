@@ -5,6 +5,7 @@ note_id: 33
 original_url: https://harper.micro.blog/2024/06/13/i-have-a.html
 sub_title: Untitled
 title: 'Note #33'
+translationKey: 'Note #33'
 ---
 
 i have a long flight soon. i need a new book. what do you recommend? (here is my recently read books: reading.lol)

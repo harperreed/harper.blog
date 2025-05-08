@@ -6,6 +6,7 @@ note_id: 146
 original_url: https://harper.micro.blog/2024/12/16/hanging-with-my.html
 sub_title: Untitled
 title: 'Note #146'
+translationKey: 'Note #146'
 ---
 
 Hanging with my fav player in NBA jam, Josh.

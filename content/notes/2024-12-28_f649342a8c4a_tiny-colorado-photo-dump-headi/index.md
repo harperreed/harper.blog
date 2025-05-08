@@ -6,6 +6,7 @@ note_id: 148
 original_url: https://harper.micro.blog/2024/12/28/tiny-colorado-photo-dump-heading.html
 sub_title: Untitled
 title: 'Note #148'
+translationKey: 'Note #148'
 ---
 
 Tiny Colorado photo dump. Heading home tomorrow. Was fun.

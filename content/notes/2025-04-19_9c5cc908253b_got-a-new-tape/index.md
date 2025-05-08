@@ -5,6 +5,7 @@ draft: false
 original_url: https://harper.micro.blog/2025/04/19/got-a-new-tape.html
 sub_title: Untitled
 title: 'Note #189'
+translationKey: 'Note #189'
 ---
 
 Got a new tape.

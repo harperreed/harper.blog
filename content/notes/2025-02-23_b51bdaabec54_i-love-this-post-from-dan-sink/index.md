@@ -5,6 +5,7 @@ draft: false
 original_url: https://harper.micro.blog/2025/02/23/i-love-this-post-from.html
 sub_title: Untitled
 title: 'Note #206'
+translationKey: 'Note #206'
 ---
 
 I love this post from Dan Sinker

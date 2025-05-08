@@ -6,6 +6,7 @@ note_id: 144
 original_url: https://harper.micro.blog/2024/12/11/lil-fly-boy.html
 sub_title: Untitled
 title: 'Note #144'
+translationKey: 'Note #144'
 ---
 
 Lil fly boy peeping out

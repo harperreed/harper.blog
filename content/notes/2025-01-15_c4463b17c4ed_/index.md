@@ -4,7 +4,8 @@ description: Iceland
 draft: false
 original_url: https://harper.micro.blog/2025/01/15/iceland.html
 sub_title: Iceland
-title: "Note #157"
+title: 'Note #157'
+translationKey: 'Note #157'
 ---
 
 Iceland
