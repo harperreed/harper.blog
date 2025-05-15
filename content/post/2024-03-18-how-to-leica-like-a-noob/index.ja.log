@@ -1,0 +1,18 @@
+Over the course of this translation project, an English source text was rendered into Japanese using a structured, multi-stage workflow designed to preserve formatting, tone, and technical accuracy. First, an “o3” model produced an initial draft following a ten-point system prompt. This draft maintained Markdown structures and block-quote exceptions, gave natural-sounding renderings of idioms, and flagged untranslatable terms to remain in English with quotes.  
+
+Next, an editing pass applied a second set of instructions to refine grammar, improve fluency, and make idiomatic expressions culturally appropriate. The editor smoothed out jarring phrasing (for example, streamlining “まとめておくことにした” to “まとめておく”) and ensured consistent use of brand references (“ライカを使っている” rather than the more cumbersome “ライカで撮っている”).  
+
+That edited version then underwent four sequential critique loops.  
+• Critique 1 identified critical and major issues: some technical terms had been mis-translated or omitted, and certain brand names (e.g., strap brands) were replaced incorrectly. It also flagged segments where tone drifted from conversational to overly formal.  
+• Critique 2 drilled into accuracy errors—pointing out factual mismatches and inconsistencies in how links and captions were handled—and recommended concrete fixes to restore alignment with the source.  
+• Critique 3 focused on moderate improvements: smoothing sentence rhythm, adjusting particle usage, and tightening up redundancy without altering meaning.  
+• Critique 4 performed a final polish, catching minor typos and ensuring the version read as if authored by a native speaker.  
+
+Each stage delivered measurable quality gains. The initial draft successfully mirrored the Markdown layout and block-quote exceptions but needed stronger idiomatic calibration and technical precision. The editing pass elevated naturalness and corrected glaring grammar issues. Subsequent critiques tightened accuracy, honed stylistic consistency, and weeded out residual literalness.  
+
+Challenges emerged mainly around:  
+• Technical jargon vs. colloquial tone—balancing faithful renderings of Leica-specific terms with smooth, everyday Japanese.  
+• Brand and link fidelity—ensuring that strap names, image captions, and hyperlinks remained accurate and correctly formatted.  
+• Idiom translation—finding equivalent Japanese expressions without introducing unintended nuance shifts.  
+
+Overall, the process proved highly effective. By layering automated translation, human-style editing, and systematic critique, the team produced a Japanese version that is both precise and engaging. While resource-intensive, this workflow minimized critical errors and ensured the final text reads with native fluency, preserving the author’s intent, tone, and the original document’s structure.
