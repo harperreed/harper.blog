@@ -13,7 +13,8 @@ tags:
 - testing
 - tdd
 - programming
-title: 基本的なClaude Code
+title: Basic Claude Code
+generateSocialImage: true
 translationKey: Basic Claude Code
 ---
 

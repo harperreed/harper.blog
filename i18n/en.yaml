@@ -10,7 +10,10 @@
 
 - id: of
   translation: "of"
-
+  
+- id: available_languages
+  translation: "Also available in:"
+  
 - id: nojscomments
   translation: "Comments require JavaScript. Please enable JavaScript in your browser settings or use a JavaScript-enabled browser to view comments."
 

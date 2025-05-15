@@ -16,6 +16,31 @@
 
 {{ partialCached "out_of_date.html" . (.Date.Format "2006") }}
 
+
+
+{{ if .Params.translationKey }}
+<p>
+    {{/* layouts/partials/language-selector.html */}}
+    {{- $p := . -}}                              {{/* current page */}}
+
+      <span class="label">
+        {{ i18n "available_languages" | default "Also available in:" }}
+      </span>
+        {{ range sort .Site.Languages "Weight" }}{{/* order = weight */}}
+          {{ $lang := .Lang }}
+          {{ $name := .LanguageName }}
+          {{ if ne $lang $p.Lang }} {{/* Only show languages different from current */}}
+            {{ $matches := where $p.Translations "Lang" $lang }}
+            {{ if gt (len $matches) 0 }}
+              {{ $t := index $matches 0 }}
+              <a href="{{ $t.RelPermalink }}" class="language-option"
+                 title="{{ $name }}">{{ $name }}</a>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+    </p>
+
+{{ end }}
 <content>
   
   {{ .Content }}
