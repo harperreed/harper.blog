@@ -5,21 +5,19 @@ draft: false
 generateSocialImage: true
 generated: true
 tags:
-- llm
-- large-language-models
-- code-generation
-- ai
-- artificial-intelligence
-- coding
-- programming
-- workflow
-- software-development
-- development-practices
-- productivity
-- automation
-title: '15分でウォーターフォール、できなければ全額返金
-
-  description: AI が従来の開発手法を迅速な15分ウォーターフォールサイクルへと加速させ、ソフトウェアエンジニアリングのワークフローとチームダイナミクスを変革している様子を探る。'
+    - llm
+    - large-language-models
+    - code-generation
+    - ai
+    - artificial-intelligence
+    - coding
+    - programming
+    - workflow
+    - software-development
+    - development-practices
+    - productivity
+    - automation
+title: Waterfall in 15 Minutes or Your Money Back
 translationKey: Waterfall in 15 Minutes or Your Money Back
 ---
 

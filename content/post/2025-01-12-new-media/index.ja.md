@@ -5,15 +5,13 @@ description: 自動データ収集によってオンラインで自分が読ん�
 draft: false
 generateSocialImage: true
 tags:
-- personal-data
-- hugo
-- rss
-- media-tracking
-- automation
-- web-development
-title: '新しいメディア
-
-  description: 自動データ収集によってオンラインで自分が読んでいるもの、聴いているもの、ブックマークしているものを追跡・表示するメディアセクションを自分のウェブサイトに追加する。'
+    - personal-data
+    - hugo
+    - rss
+    - media-tracking
+    - automation
+    - web-development
+title: "New Media"
 translationKey: new-media
 ---
 
