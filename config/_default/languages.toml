@@ -9,52 +9,52 @@ weight = 1
 description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
 subtitle = "Musing from a normal person doing normal things"
 
-# [es]
-# title = "Harper Reed's Blog"
-# languageName = "Español 🇪🇸"
-# languageCode = "es"
-# contentDir = "content.es"
-# weight = 3
+[es]
+title = "Harper Reed's Blog"
+languageName = "Español 🇪🇸"
+languageCode = "es"
+contentDir = "content.es"
+weight = 3
 
 
-# [es.params]
-# description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
-# subtitle = "Musing from a normal person doing normal things"
+[es.params]
+description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
+subtitle = "Musing from a normal person doing normal things"
 
 
-# [ja]
-# title = "Harper Reed's Blog"
-# languageName = "日本語 🇯🇵"
-# languageCode = "ja"
-# contentDir = "content"
-# weight = 2
+[ja]
+title = "Harper Reed's Blog"
+languageName = "日本語 🇯🇵"
+languageCode = "ja"
+contentDir = "content"
+weight = 2
 
 
-# [ja.params]
-# description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
-# subtitle = "Musing from a normal person doing normal things"
+[ja.params]
+description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
+subtitle = "Musing from a normal person doing normal things"
 
 
-# [ko]
-# title = "Harper Reed's Blog"
-# languageName = "한국어 🇰🇷"
-# languageCode = "ko"
-# contentDir = "content"
-# weight = 4
+[ko]
+title = "Harper Reed's Blog"
+languageName = "한국어 🇰🇷"
+languageCode = "ko"
+contentDir = "content"
+weight = 4
 
 
-# [ko.params]
-# description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
-# subtitle = "Musing from a normal person doing normal things"
+[ko.params]
+description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
+subtitle = "Musing from a normal person doing normal things"
 
 
-# [zh]
-# title = "Harper Reed's Blog"
-# languageName = "中文 🇨🇳"
-# languageCode = "zh-CN"
-# contentDir = "content"
-# weight = 5
+[zh]
+title = "Harper Reed's Blog"
+languageName = "中文 🇨🇳"
+languageCode = "zh-CN"
+contentDir = "content"
+weight = 5
 
-# [zh.params]
-# description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
-# subtitle = "Musing from a normal person doing normal things"
+[zh.params]
+description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
+subtitle = "Musing from a normal person doing normal things"
