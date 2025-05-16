@@ -1,0 +1,23 @@
+This translation project followed a multi-stage, feedback-driven workflow designed to produce a natural, accurate Japanese rendition of a technical blog post while preserving all formatting and structure. Here’s what happened:
+
+1. Translation Workflow Summary  
+- The translator used an “o3” model with a detailed system prompt that instructed it to respect markdown, block quotes, and code blocks, only translating running text into Japanese with a natural style.  
+- The initial pass yielded a coherent Japanese version including tl;dr, headings, links, and image tags.  
+- An editing pass then applied a second system prompt focused on fine-tuning grammar, fluency, idiomatic expression, and ensuring the output did not feel machine-generated.  
+- Four critique loops followed, each generating a structured list of issues and proposed fixes before reapplying corrections.
+
+2. Quality Improvements at Each Stage  
+- Initial translation: Captured the basic meaning and layout, but sometimes lost the original’s tone, introduced slight mistranslations, and missed a few phrases.  
+- Editing pass: Smoothed out Japanese phrasing (e.g., spacing around “LLM”), clarified ambiguous segments, improved flow, and tightened colloquial expressions.  
+- Critique loop 1: Flagged critical reversals of fact, omissions of entire sentences, and loss of the original’s rough or playful tone.  
+- Critique loop 2: Highlighted remaining mistranslations, missing details, and persistent “machine-like” constructions, plus over-politeness where the source was blunt.  
+- Subsequent loops: Gradually narrowed focus to minor style tweaks, consistent handling of jargon, and preservation of markdown.
+
+3. Challenges and Issues Identified  
+- Tone and Register: The original text was casual, sometimes coarse; early drafts diluted that edgy style, so critics pushed for sharper, more colloquial Japanese when appropriate.  
+- Omissions and Mistranslations: A few source sentences—especially ones introducing technical details—were dropped or inverted in meaning, requiring careful back-checking.  
+- Formatting Preservation: Maintaining link syntax, image tags, block quotes, and code blocks without translation errors added complexity.  
+- Idioms and Slang: Translators had to find natural Japanese equivalents or choose to leave terms in English, balancing fidelity and readability.
+
+4. Overall Assessment  
+This iterative, critique-driven process proved effective at catching both major errors (fact reversals or missing content) and subtle style mismatches. By the final loop, the translation achieved high accuracy, fluent Japanese, and a tone faithful to the source. The approach is time-intensive but yields a polished result well suited for technical blogging, demonstrating the value of structured feedback loops in professional translation workflows.
