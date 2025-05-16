@@ -5,16 +5,14 @@ description: 基本的なコード補完から完全自律型コーディング�
 draft: false
 generateSocialImage: true
 tags:
-- llm
-- coding
-- artificial-intelligence
-- development-workflow
-- software-engineering
-- developer-productivity
-- boomers
-title: 'LLMコード生成ヒーローズジャーニー
-
-  description: 基本的なコード補完から完全自律型コーディングエージェントまで、AI支援ソフトウェア開発の進化を詳細に解説し、LLM統合による生産性最大化のための実践的なステップと洞察を提供する包括的ガイド。'
+    - llm
+    - coding
+    - artificial-intelligence
+    - development-workflow
+    - software-engineering
+    - developer-productivity
+    - boomers
+title: An LLM Codegen Hero's Journey
 translationKey: An LLM Codegen Hero's Journey
 ---
 

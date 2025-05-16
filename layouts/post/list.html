@@ -20,6 +20,14 @@
       {{ else }}
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       {{ end }}
+      
+      {{ if .IsTranslated }}
+       &nbsp;(
+       {{ range $i, $t := .Translations }}
+         {{ if $i }},&nbsp;{{ end }}<a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+       {{ end }}
+          )
+      {{ end }}
     </li>
     {{ else }}
     <li>

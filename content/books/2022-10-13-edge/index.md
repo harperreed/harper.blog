@@ -18,7 +18,7 @@ tags:
 - Kōji Suzuki
 title: Edge
 title_without_series: Edge
-translationKey: Edge
+translationKey: "Edge-unique"
 yaml: edge
 ---
 

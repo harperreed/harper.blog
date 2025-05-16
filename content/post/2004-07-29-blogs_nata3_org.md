@@ -11,7 +11,7 @@ tags:
 - tech
 - servers
 title: blogs.nata2.org
-translationKey: blogs.nata2.org
+translationKey: "blogs.nata2.org-20040729"
 wordpress_id: 909
 wordpress_url: http://new.nata2.org/?p=909
 ---

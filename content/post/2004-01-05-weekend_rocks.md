@@ -12,7 +12,7 @@ tags:
 - friends
 - reading
 title: weekend rocks
-translationKey: weekend rocks
+translationKey: "weekend rocks-20040105"
 wordpress_id: 713
 wordpress_url: http://new.nata2.org/?p=713
 ---

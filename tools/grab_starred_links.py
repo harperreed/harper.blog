@@ -103,7 +103,7 @@ def create_hugo_post(entry):
                 post.metadata['summary'] = tags.summary
         post.metadata['draft'] = False
         post.metadata['original_url'] = url
-        post.metadata['translationKey'] = url
+        post.metadata['translationKey'] = f"{url}-link-{date}"
         
         try:
             with open(file_path, 'w', encoding='utf-8') as f:

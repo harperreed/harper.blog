@@ -12,7 +12,7 @@ tags:
 - distraction-free
 - work-life-balance
 title: work work work
-translationKey: work work work
+translationKey: "work work work-20030623"
 wordpress_id: 548
 wordpress_url: http://new.nata2.org/?p=548
 ---

@@ -9,7 +9,7 @@ tags:
 - reviews
 - excitement
 title: skinny puppy
-translationKey: skinny puppy
+translationKey: "skinny puppy-20040614"
 wordpress_id: 884
 wordpress_url: http://new.nata2.org/?p=884
 ---

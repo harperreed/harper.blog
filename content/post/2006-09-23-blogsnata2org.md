@@ -6,7 +6,7 @@ tags:
 - wordpress
 - smarty
 title: blogs.nata2.org
-translationKey: blogs.nata2.org
+translationKey: "blogs.nata2.org-20060923"
 wordpress_id: 1349
 wordpress_url: http://www.nata2.org/2006/09/23/blogsnata2org/
 ---

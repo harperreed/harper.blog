@@ -123,7 +123,7 @@ def create_hugo_content(track, output_dir):
         # Create post with frontmatter
         post = frontmatter.Post("")
         post['title'] = track['title']
-        post['translationKey'] = f"{track['title']}-{track['album']}-{track['artist']}"
+        post['translationKey'] = f"{track['title']}-{track['album']}-{track['artist']}-music-{track['added_at']}"
         post['date'] = datetime.fromisoformat(track['added_at'].replace('Z', '+00:00'))
         post['artist'] = track['artist']
         post['album'] = track['album']

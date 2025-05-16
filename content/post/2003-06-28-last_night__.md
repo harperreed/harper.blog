@@ -10,7 +10,7 @@ tags:
 - photography
 - music
 title: last night..
-translationKey: last night..
+translationKey: "last night..-20030628"
 wordpress_id: 556
 wordpress_url: http://new.nata2.org/?p=556
 ---
