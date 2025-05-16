@@ -127,7 +127,7 @@ You can also put these commands in a project directory, and make a custom CLAUDE
 
 {{< image src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDk3ZTZpdWYwdG5sdmpnaTJqNzJhYXlvcmp6bnNmdmhxaGdoeHJ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Je3fIeeXyYEM85G/giphy.gif" >}}
 
-Sometimes I feel like that bird that home got to hit "y". I am just writing "continue" or pressing up and pasting in the same prompt.
+Sometimes I feel like that bird that Homer got to hit "y". I am just writing "continue" or pressing up and pasting in the same prompt.
 
 Most of the time the plans are about 8–12 steps. I can usually get through a Greenfield development plan in about 30–45 minutes regardless of apparent complexity or language.
 
