@@ -133,6 +133,8 @@ def rewrite_nata2_url(url):
     import urllib.parse
     query_params = urllib.parse.parse_qs(parsed.query)
     
+    logger.debug(f"    Query params: {query_params}")
+    
     # Check if it has the expected path and img parameters
     if 'path' in query_params and 'img' in query_params:
         path = query_params['path'][0]
@@ -143,52 +145,91 @@ def rewrite_nata2_url(url):
         
         # Construct the direct URL
         direct_url = f"{parsed.scheme}://{parsed.netloc}/{path}/{img}"
-        logger.info(f"    Rewrote URL: {direct_url}")
+        logger.info(f"    Rewrote URL from: {url}")
+        logger.info(f"                  to: {direct_url}")
         return direct_url
     
     # Return original URL if it doesn't match the pattern
+    logger.debug(f"    No rewrite needed for: {url}")
     return url
 
 def get_archive_url(original_url, post_date=None):
-    """Get the best archive.org URL for a resource"""
+    """Get the best archive.org URL for a resource using the Wayback Machine API"""
     # First try to rewrite nata2.info URLs to direct paths
     original_url = rewrite_nata2_url(original_url.strip())
     
-    # If we have a post date, try to find an archive close to that date
-    if post_date:
-        timestamp = post_date.strftime('%Y%m%d')
-        # Check multiple timestamps around the post date
-        for offset in [0, 30, 60, 90, 180, 365]:
-            check_date = post_date
-            if offset > 0:
-                from datetime import timedelta
-                check_date = post_date + timedelta(days=offset)
-            timestamp = check_date.strftime('%Y%m%d')
-            
-            # Check if this archive exists
-            check_url = f"https://web.archive.org/web/{timestamp}000000/{original_url}"
-            try:
-                response = requests.head(check_url, allow_redirects=True, timeout=5)
-                if response.status_code == 200:
-                    return response.url
-            except:
-                continue
-    
-    # Fallback to getting the closest available capture
-    api_url = f"https://archive.org/wayback/available?url={quote(original_url)}"
     try:
-        response = requests.get(api_url, timeout=10)
-        if response.status_code == 200:
-            data = response.json()
-            if 'archived_snapshots' in data and 'closest' in data['archived_snapshots']:
-                snapshot = data['archived_snapshots']['closest']
-                if snapshot.get('available'):
-                    return snapshot['url']
+        # Use the Wayback Machine Availability API
+        api_url = "http://archive.org/wayback/available"
+        params = {"url": original_url}
+        
+        # If we have a post date, add timestamp parameter
+        if post_date:
+            # Format: YYYYMMDDhhmmss
+            params["timestamp"] = post_date.strftime('%Y%m%d000000')
+        
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        
+        logger.debug(f"    Checking availability for: {original_url}")
+        resp = requests.get(api_url, params=params, headers=headers, timeout=10)
+        data = resp.json()
+        
+        if "archived_snapshots" in data and "closest" in data["archived_snapshots"]:
+            snapshot = data["archived_snapshots"]["closest"]
+            if snapshot.get("available"):
+                archive_url = snapshot["url"]
+                timestamp = snapshot.get("timestamp", "unknown")
+                logger.info(f"    Found snapshot from {timestamp}")
+                
+                # For images/media, we need to modify the URL to get raw content
+                if any(ext in original_url.lower() for ext in ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.webp', '.mp4', '.mp3', '.3gp']):
+                    # Extract timestamp and construct raw URL
+                    if '/web/' in archive_url:
+                        parts = archive_url.split('/web/', 1)
+                        if len(parts) > 1:
+                            ts_and_url = parts[1].split('/', 1)
+                            if len(ts_and_url) > 1:
+                                ts = ts_and_url[0]
+                                # Use if_ modifier for raw access
+                                archive_url = f"https://web.archive.org/web/{ts}if_/{original_url}"
+                                logger.debug(f"    Modified to raw URL: {archive_url}")
+                
+                return archive_url
+        
+        # If no snapshot found, try the query-based URL format for nata2.info
+        if 'nata2.info' in original_url and '/pictures/' in original_url:
+            # Extract filename from direct URL and try query format
+            parsed = urlparse(original_url)
+            path_parts = parsed.path.strip('/').split('/')
+            
+            if len(path_parts) > 1 and path_parts[0] == 'pictures':
+                # Construct query-based URL
+                filename = path_parts[-1]
+                folder_path = '/'.join(path_parts[:-1])
+                query_url = f"http://www.nata2.info/?path={quote(folder_path)}&img={filename}"
+                
+                logger.info(f"    Trying query-based format: {query_url}")
+                
+                # Check availability for query URL
+                params["url"] = query_url
+                resp = requests.get(api_url, params=params, headers=headers, timeout=10)
+                data = resp.json()
+                
+                if "archived_snapshots" in data and "closest" in data["archived_snapshots"]:
+                    snapshot = data["archived_snapshots"]["closest"]
+                    if snapshot.get("available"):
+                        logger.info(f"    Found snapshot using query format from {snapshot.get('timestamp')}")
+                        return snapshot["url"]
+        
+        logger.warning(f"    No archive found for: {original_url}")
+        
     except Exception as e:
-        logger.error(f"Error checking archive availability: {e}")
+        logger.error(f"    Archive API error: {e}")
     
-    # Last resort - return a generic archive URL
-    return f"https://web.archive.org/web/*/{original_url}"
+    # Return None if no archive found
+    return None
 
 def download_resource(archive_url, local_path):
     """Download a resource from archive.org"""
@@ -196,8 +237,8 @@ def download_resource(archive_url, local_path):
         # Create directory if needed
         local_path.parent.mkdir(parents=True, exist_ok=True)
         
-        # For archive.org URLs, we need to handle them specially
-        if 'web.archive.org' in archive_url:
+        # For archive.org URLs, ensure we have the if_ modifier
+        if 'web.archive.org' in archive_url and 'if_' not in archive_url:
             # Extract the original URL from the archive URL
             # Format is usually: https://web.archive.org/web/TIMESTAMP/ORIGINAL_URL
             parts = archive_url.split('/web/', 1)
@@ -206,11 +247,14 @@ def download_resource(archive_url, local_path):
                 # Split by first slash after timestamp
                 parts = timestamp_and_url.split('/', 1)
                 if len(parts) > 1:
+                    timestamp = parts[0].replace('if_', '')
                     original_url = parts[1]
                     # Add if_ to get the raw archived file
                     # This bypasses the Wayback Machine toolbar/wrapper
-                    raw_archive_url = f"https://web.archive.org/web/{parts[0]}if_/{original_url}"
+                    raw_archive_url = f"https://web.archive.org/web/{timestamp}if_/{original_url}"
                     archive_url = raw_archive_url
+        
+        logger.debug(f"    Downloading from: {archive_url}")
         
         # Download the file
         headers = {
@@ -219,12 +263,21 @@ def download_resource(archive_url, local_path):
         response = requests.get(archive_url, headers=headers, timeout=30, stream=True)
         response.raise_for_status()
         
-        # Check if we got an image
+        # Check if we got an image/media file
         content_type = response.headers.get('content-type', '').lower()
-        if not any(img_type in content_type for img_type in ['image/', 'video/', 'audio/']):
+        logger.debug(f"    Content-Type: {content_type}")
+        
+        # For nata2.info, we might get application/octet-stream for images
+        valid_types = ['image/', 'video/', 'audio/', 'application/octet-stream']
+        if not any(valid_type in content_type for valid_type in valid_types):
             # Check if it's HTML (might be a wayback machine page)
             if 'text/html' in content_type:
                 logger.warning(f"    Got HTML instead of media file, might be a wayback wrapper")
+                # Try to extract the actual image URL from the HTML
+                html_content = response.text
+                if 'pictures/misc/phone_camera' in archive_url:
+                    # This looks like a phone camera image, let's try a different approach
+                    logger.info(f"    Attempting alternative download method for phone camera image")
                 return False
         
         # Save to local file
@@ -235,6 +288,14 @@ def download_resource(archive_url, local_path):
         
         # Verify the file was saved and has content
         if local_path.exists() and local_path.stat().st_size > 0:
+            # Additional check: make sure it's not HTML
+            with open(local_path, 'rb') as f:
+                first_bytes = f.read(100)
+                if b'<!DOCTYPE' in first_bytes or b'<html' in first_bytes:
+                    logger.error(f"    Downloaded file appears to be HTML, not media")
+                    local_path.unlink()
+                    return False
+            
             logger.info(f"    Downloaded: {local_path.name} ({local_path.stat().st_size} bytes)")
             return True
         else:
@@ -303,8 +364,11 @@ def convert_to_page_bundle(post_path, resources, dry_run=False):
     for resource in resources:
         logger.info(f"  Processing: {resource['url']}")
         
-        # Get archive URL
+        # Get archive URL (will rewrite URL internally if needed)
         archive_url = get_archive_url(resource['url'], post_date)
+        if not archive_url:
+            logger.warning(f"    No archive found, skipping resource")
+            continue
         logger.info(f"    Archive URL: {archive_url}")
         
         # Determine local filename
