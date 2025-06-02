@@ -1,0 +1,745 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.53'
+    id: '54318169'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1748045082p5/54318169.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/54318169.Patrick_McGee
+    name: Patrick  McGee
+    ratings_count: '185'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1748045082p2/54318169.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '27'
+average_rating: '4.53'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2025-06-01T00:00:00-07:00'
+description: null
+edition_information: null
+format: null
+id: '220291748'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn: 166805339X
+isbn13: '9781668053393'
+json: '{"id": "220291748", "isbn": "166805339X", "isbn13": "9781668053393", "text_reviews_count":
+  {"@type": "integer", "#text": "2"}, "uri": "kca://book/amzn1.gr.book.v3.JtKwQ3Qol4bHdScR",
+  "title": "Apple in China: The Capture of the World''s Greatest Company", "title_without_series":
+  "Apple in China: The Capture of the World''s Greatest Company", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/220291748-apple-in-china",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "4.53", "ratings_count": "185", "description": null, "authors": {"author": {"id":
+  "54318169", "name": "Patrick  McGee", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1748045082p5/54318169.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1748045082p2/54318169.jpg"},
+  "link": "https://www.goodreads.com/author/show/54318169.Patrick_McGee", "average_rating":
+  "4.53", "ratings_count": "185", "text_reviews_count": "27"}}, "published": null,
+  "work": {"id": "227093067", "uri": "kca://work/amzn1.gr.work.v3.bZdF1jzcMdmzKstv"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/7594596504",
+  "read_at": "Sun Jun 01 00:00:00 -0700 2025", "started_at": "Fri May 23 00:00:00
+  -0700 2025", "date": "Sun Jun 01 00:00:00 -0700 2025"}'
+kindle_asin: B0DJK2D88B
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/220291748-apple-in-china
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '3836'
+    '@name': to-read
+  - '@count': '735'
+    '@name': currently-reading
+  - '@count': '43'
+    '@name': non-fiction
+  - '@count': '33'
+    '@name': business
+  - '@count': '18'
+    '@name': nonfiction
+  - '@count': '17'
+    '@name': china
+  - '@count': '14'
+    '@name': technology
+  - '@count': '13'
+    '@name': economics
+  - '@count': '9'
+    '@name': politics
+  - '@count': '6'
+    '@name': history
+  - '@count': '5'
+    '@name': tech
+  - '@count': '5'
+    '@name': non-fiction-to-read
+  - '@count': '4'
+    '@name': to-buy
+  - '@count': '4'
+    '@name': audiobook
+  - '@count': '3'
+    '@name': audio
+  - '@count': '3'
+    '@name': geopolitics
+  - '@count': '2'
+    '@name': library
+  - '@count': '2'
+    '@name': favorites
+  - '@count': '2'
+    '@name': wish-list
+  - '@count': '2'
+    '@name': libby
+  - '@count': '2'
+    '@name': the-daily-show
+  - '@count': '2'
+    '@name': want-to-read-non-fiction
+  - '@count': '2'
+    '@name': english
+  - '@count': '2'
+    '@name': to-read-nonfiction
+  - '@count': '2'
+    '@name': industry
+  - '@count': '1'
+    '@name': queue
+  - '@count': '1'
+    '@name': economics-business
+  - '@count': '1'
+    '@name': wtr-current-events
+  - '@count': '1'
+    '@name': politics-and-law
+  - '@count': '1'
+    '@name': investigation-reporting
+  - '@count': '1'
+    '@name': technology-computers
+  - '@count': '1'
+    '@name': business-work
+  - '@count': '1'
+    '@name': 0-pg-county
+  - '@count': '1'
+    '@name': it
+  - '@count': '1'
+    '@name': don-t-own
+  - '@count': '1'
+    '@name': bookworms-suggestions
+  - '@count': '1'
+    '@name': tec-ai
+  - '@count': '1'
+    '@name': social-commentary
+  - '@count': '1'
+    '@name': non-fiction-read
+  - '@count': '1'
+    '@name': e-books
+  - '@count': '1'
+    '@name': business-tech
+  - '@count': '1'
+    '@name': economic-books-to-read
+  - '@count': '1'
+    '@name': 2025-releases-nonfiction
+  - '@count': '1'
+    '@name': policy
+  - '@count': '1'
+    '@name': capitalism
+  - '@count': '1'
+    '@name': read-2025
+  - '@count': '1'
+    '@name': want-to-read-in-2025
+  - '@count': '1'
+    '@name': nff5
+  - '@count': '1'
+    '@name': beautiful-covers
+  - '@count': '1'
+    '@name': finance
+  - '@count': '1'
+    '@name': to-borrow
+  - '@count': '1'
+    '@name': andrew-klaven-recommended
+  - '@count': '1'
+    '@name': scribd
+  - '@count': '1'
+    '@name': ny-times-top-ten-bestsellers
+  - '@count': '1'
+    '@name': general-non-fiction
+  - '@count': '1'
+    '@name': science
+  - '@count': '1'
+    '@name': foreign-affairs
+  - '@count': '1'
+    '@name': "ainda-n\xE3o-comprei"
+  - '@count': '1'
+    '@name': reading-plan-for-2025
+  - '@count': '1'
+    '@name': on-my-kindle-not-read
+  - '@count': '1'
+    '@name': nyt-woke
+  - '@count': '1'
+    '@name': eventually
+  - '@count': '1'
+    '@name': to-add-to-holds
+  - '@count': '1'
+    '@name': z-questionable-reformist
+  - '@count': '1'
+    '@name': z-propaganda-liberalism
+  - '@count': '1'
+    '@name': econ-sci-techno
+  - '@count': '1'
+    '@name': econ-china
+  - '@count': '1'
+    '@name': 3b-read-next-other
+  - '@count': '1'
+    '@name': business-books
+  - '@count': '1'
+    '@name': energy-and-environment
+  - '@count': '1'
+    '@name': wlc-26-27
+  - '@count': '1'
+    '@name': my-list-2025
+  - '@count': '1'
+    '@name': financial
+  - '@count': '1'
+    '@name': econ
+  - '@count': '1'
+    '@name': cyber-iw
+  - '@count': '1'
+    '@name': body-politic-read
+  - '@count': '1'
+    '@name': next-5-to-read-pipeline
+  - '@count': '1'
+    '@name': hardcover
+  - '@count': '1'
+    '@name': american
+  - '@count': '1'
+    '@name': short-list
+  - '@count': '1'
+    '@name': startup-core
+  - '@count': '1'
+    '@name': post-mortems
+  - '@count': '1'
+    '@name': current-want-to-read
+  - '@count': '1'
+    '@name': economic-politic
+  - '@count': '1'
+    '@name': someday-read
+  - '@count': '1'
+    '@name': books-to-buy
+  - '@count': '1'
+    '@name': bestsellers
+  - '@count': '1'
+    '@name': subject-nonfiction
+  - '@count': '1'
+    '@name': source-libby
+  - '@count': '1'
+    '@name': medium-audio
+  - '@count': '1'
+    '@name': kanban3found
+  - '@count': '1'
+    '@name': owned-audio
+  - '@count': '1'
+    '@name': miscellaneous-history
+  - '@count': '1'
+    '@name': purchased-tbr
+  - '@count': '1'
+    '@name': "ljudb\xF6cker"
+  - '@count': '1'
+    '@name': biz-saga
+  - '@count': '1'
+    '@name': audio-want-to-read
+  - '@count': '1'
+    '@name': on-hold
+  - '@count': '1'
+    '@name': owned-to-read
+  - '@count': '1'
+    '@name': 'yes'
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '185'
+read_at: '2025-06-01T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/7594596504
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/220291748-apple-in-china\"\
+  >Apple in China Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=166805339X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/220291748-apple-in-china?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '4412018'
+        link: https://www.goodreads.com/author/show/4412018.Ezra_Klein
+        name: Ezra Klein
+    average_rating: '4.53'
+    id: '176444106'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1668023482'
+    isbn13: '9781668023488'
+    link: https://www.goodreads.com/book/show/176444106-abundance
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '185'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Abundance
+    title_without_series: Abundance
+    uri: kca://book/amzn1.gr.book.v3.blyWNpJh6pnSSJwt
+    work:
+      id: '183066321'
+  - authors:
+      author:
+        id: '16995547'
+        link: https://www.goodreads.com/author/show/16995547.Keach_Hagey
+        name: Keach Hagey
+    average_rating: '4.53'
+    id: '223400731'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1324075961'
+    isbn13: '9781324075967'
+    link: https://www.goodreads.com/book/show/223400731-the-optimist
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '185'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Optimist: Sam Altman, OpenAI, and the Race to Invent the Future'
+    title_without_series: 'The Optimist: Sam Altman, OpenAI, and the Race to Invent
+      the Future'
+    uri: kca://book/amzn1.gr.book.v3.mS2zriqu0zfzEcsm
+    work:
+      id: '230463698'
+  - authors:
+      author:
+        id: '233537'
+        link: https://www.goodreads.com/author/show/233537.Jake_Tapper
+        name: Jake Tapper
+    average_rating: '4.53'
+    id: '223927267'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: '9798217060672'
+    link: https://www.goodreads.com/book/show/223927267-original-sin
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '185'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Original Sin: President Biden''s Decline, Its Cover-Up, and His Disastrous
+      Choice to Run Again'
+    title_without_series: 'Original Sin: President Biden''s Decline, Its Cover-Up,
+      and His Disastrous Choice to Run Again'
+    uri: kca://book/amzn1.gr.book.v3.bE_JQpoWHvEUalyH
+    work:
+      id: '231103438'
+  - authors:
+      author:
+        id: '1352780'
+        link: https://www.goodreads.com/author/show/1352780.Stephen_Witt
+        name: Stephen Witt
+    average_rating: '4.53'
+    id: '211399783'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1741381542l/211399783._SX98_.jpg
+    isbn: 0593832698
+    isbn13: '9780593832691'
+    link: https://www.goodreads.com/book/show/211399783-the-thinking-machine
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '185'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1741381542l/211399783._SY75_.jpg
+    title: 'The Thinking Machine: Jensen Huang, Nvidia, and the World''s Most Coveted
+      Microchip'
+    title_without_series: 'The Thinking Machine: Jensen Huang, Nvidia, and the World''s
+      Most Coveted Microchip'
+    uri: kca://book/amzn1.gr.book.v3.XgZTYhTvI9XSAX5d
+    work:
+      id: '218822936'
+  - authors:
+      author:
+        id: '55070443'
+        link: https://www.goodreads.com/author/show/55070443.Sarah_Wynn_Williams
+        name: Sarah Wynn-Williams
+    average_rating: '4.53'
+    id: '223436601'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1742029683l/223436601._SX98_.jpg
+    isbn: '1250391237'
+    isbn13: '9781250391230'
+    link: https://www.goodreads.com/book/show/223436601-careless-people
+    num_pages: '382'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '185'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1742029683l/223436601._SY75_.jpg
+    title: 'Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism'
+    title_without_series: 'Careless People: A Cautionary Tale of Power, Greed, and
+      Lost Idealism'
+    uri: kca://book/amzn1.gr.book.v3.5VCRAxab0hKBI2JF
+    work:
+      id: '230497654'
+  - authors:
+      author:
+        id: '3501244'
+        link: https://www.goodreads.com/author/show/3501244.Ross_Douthat
+        name: Ross Douthat
+    average_rating: '4.53'
+    id: '216052746'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0310367581
+    isbn13: '9780310367581'
+    link: https://www.goodreads.com/book/show/216052746-believe
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '185'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Believe: Why Everyone Should Be Religious'
+    title_without_series: 'Believe: Why Everyone Should Be Religious'
+    uri: kca://book/amzn1.gr.book.v3.sGHWAq35xF6fk1HD
+    work:
+      id: '222463217'
+  - authors:
+      author:
+        id: '8417197'
+        link: https://www.goodreads.com/author/show/8417197.Jonathan_Allen
+        name: Jonathan   Allen
+    average_rating: '4.53'
+    id: '216864525'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738611352l/216864525._SX98_.jpg
+    isbn: 006343864X
+    isbn13: '9780063438644'
+    link: https://www.goodreads.com/book/show/216864525-fight
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '185'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738611352l/216864525._SY75_.jpg
+    title: 'Fight: Inside the Wildest Battle for the White House'
+    title_without_series: 'Fight: Inside the Wildest Battle for the White House'
+    uri: kca://book/amzn1.gr.book.v3.U160f7O9T9SpcpAY
+    work:
+      id: '223319217'
+  - authors:
+      author:
+        id: '3296692'
+        link: https://www.goodreads.com/author/show/3296692.Gardiner_Harris
+        name: Gardiner Harris
+    average_rating: '4.53'
+    id: '216247552'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724259520l/216247552._SX98_.jpg
+    isbn: 059322986X
+    isbn13: '9780593229866'
+    link: https://www.goodreads.com/book/show/216247552-no-more-tears
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '185'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724259520l/216247552._SY75_.jpg
+    title: 'No More Tears: The Dark Secrets of Johnson & Johnson'
+    title_without_series: 'No More Tears: The Dark Secrets of Johnson & Johnson'
+    uri: kca://book/amzn1.gr.book.v3.1dCuKWsy8SZHtgyy
+    work:
+      id: '222657739'
+  - authors:
+      author:
+        id: '776'
+        link: https://www.goodreads.com/author/show/776.Michael_Lewis
+        name: Michael   Lewis
+    average_rating: '4.53'
+    id: '219551344'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: '9798217047802'
+    link: https://www.goodreads.com/book/show/219551344-who-is-government
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '185'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Who Is Government?: The Untold Story of Public Service'
+    title_without_series: 'Who Is Government?: The Untold Story of Public Service'
+    uri: kca://book/amzn1.gr.book.v3.BysSqVNW_O9NBUiF
+    work:
+      id: '226488194'
+  - authors:
+      author:
+        id: '23164572'
+        link: https://www.goodreads.com/author/show/23164572.Shaun_Walker
+        name: Shaun  Walker
+    average_rating: '4.53'
+    id: '216522655'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726217550l/216522655._SX98_.jpg
+    isbn: 0593319680
+    isbn13: '9780593319680'
+    link: https://www.goodreads.com/book/show/216522655-the-illegals
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '185'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726217550l/216522655._SX50_.jpg
+    title: 'The Illegals: Russia''s Most Audacious Spies and Their Century-Long Mission
+      to Infiltrate the West'
+    title_without_series: 'The Illegals: Russia''s Most Audacious Spies and Their
+      Century-Long Mission to Infiltrate the West'
+    uri: kca://book/amzn1.gr.book.v3.h4TAYI-BFKNvCJaU
+    work:
+      id: '100108530'
+  - authors:
+      author:
+        id: '96300'
+        link: https://www.goodreads.com/author/show/96300.Stephen_Graham_Jones
+        name: Stephen Graham Jones
+    average_rating: '4.53'
+    id: '214565614'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719446747l/214565614._SX98_.jpg
+    isbn: '1668075083'
+    isbn13: '9781668075081'
+    link: https://www.goodreads.com/book/show/214565614-the-buffalo-hunter-hunter
+    num_pages: '435'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '185'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719446747l/214565614._SY75_.jpg
+    title: The Buffalo Hunter Hunter
+    title_without_series: The Buffalo Hunter Hunter
+    uri: kca://book/amzn1.gr.book.v3.Bz6wqjW-vU-zeHJN
+    work:
+      id: '220854470'
+  - authors:
+      author:
+        id: '662774'
+        link: https://www.goodreads.com/author/show/662774.Christopher_L_Hayes
+        name: Christopher L. Hayes
+    average_rating: '4.53'
+    id: '217869789'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725466448l/217869789._SX98_.jpg
+    isbn: 0593653114
+    isbn13: '9780593653111'
+    link: https://www.goodreads.com/book/show/217869789-the-sirens-call
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '185'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725466448l/217869789._SY75_.jpg
+    title: 'The Sirens'' Call: How Attention Became the World''s Most Endangered Resource'
+    title_without_series: 'The Sirens'' Call: How Attention Became the World''s Most
+      Endangered Resource'
+    uri: kca://book/amzn1.gr.book.v3.IQoFeyf37126PGra
+    work:
+      id: '223871893'
+  - authors:
+      author:
+        id: '7112'
+        link: https://www.goodreads.com/author/show/7112.Evan_Thomas
+        name: Evan Thomas
+    average_rating: '4.53'
+    id: '40594422'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544628438l/40594422._SX98_.jpg
+    isbn: 0399589287
+    isbn13: '9780399589287'
+    link: https://www.goodreads.com/book/show/40594422-first
+    num_pages: '496'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '185'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544628438l/40594422._SY75_.jpg
+    title: 'First: Sandra Day O''Connor'
+    title_without_series: 'First: Sandra Day O''Connor'
+    uri: kca://book/amzn1.gr.book.v1.xhzRgtGw-sU5p-h0Kj9XZQ
+    work:
+      id: '63041805'
+  - authors:
+      author:
+        id: '6417'
+        link: https://www.goodreads.com/author/show/6417.James_Clavell
+        name: James Clavell
+    average_rating: '4.53'
+    id: '52382796'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704385704l/52382796._SX98_.jpg
+    isbn: '1982603844'
+    isbn13: '9781982603847'
+    link: https://www.goodreads.com/book/show/52382796-sh-gun
+    num_pages: '1152'
+    publication_day: null
+    publication_month: '3'
+    publication_year: '2020'
+    ratings_count: '185'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704385704l/52382796._SY75_.jpg
+    title: "Sh\u014Dgun (Asian Saga, #1)"
+    title_without_series: "Sh\u014Dgun"
+    uri: kca://book/amzn1.gr.book.v3.Off8qMAW2l7-C_ew
+    work:
+      id: '1755568'
+  - authors:
+      author:
+        id: '17062125'
+        link: https://www.goodreads.com/author/show/17062125.Phil_Tinline
+        name: Phil Tinline
+    average_rating: '4.53'
+    id: '214152284'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1668050498'
+    isbn13: '9781668050491'
+    link: https://www.goodreads.com/book/show/214152284-ghosts-of-iron-mountain
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '185'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Ghosts of Iron Mountain: The Hoax of the Century, Its Enduring Impact,
+      and What It Reveals About America Today'
+    title_without_series: 'Ghosts of Iron Mountain: The Hoax of the Century, Its Enduring
+      Impact, and What It Reveals About America Today'
+    uri: kca://book/amzn1.gr.book.v3.bq-PUqn3Z_OgR-iR
+    work:
+      id: '220416116'
+  - authors:
+      author:
+        id: '3020048'
+        link: https://www.goodreads.com/author/show/3020048.Karl_Ove_Knausg_rd
+        name: "Karl Ove Knausg\xE5rd"
+    average_rating: '4.53'
+    id: '7147831'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1262695721l/7147831._SX98_.jpg
+    isbn: '8252574580'
+    isbn13: '9788252574586'
+    link: https://www.goodreads.com/book/show/7147831-min-kamp-1
+    num_pages: '435'
+    publication_day: null
+    publication_month: null
+    publication_year: '2009'
+    ratings_count: '185'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1262695721l/7147831._SY75_.jpg
+    title: 'Min kamp 1 (Min kamp, #1)'
+    title_without_series: Min kamp 1
+    uri: kca://book/amzn1.gr.book.v1.zr_CKAQxQGtpwSTj2DDzLA
+    work:
+      id: '7412679'
+  - authors:
+      author:
+        id: '10983'
+        link: https://www.goodreads.com/author/show/10983.Sei_Sh_nagon
+        name: "Sei Sh\u014Dnagon"
+    average_rating: '4.53'
+    id: '18185'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328373976l/18185._SX98_.jpg
+    isbn: '0231073372'
+    isbn13: '9780231073370'
+    link: https://www.goodreads.com/book/show/18185.The_Pillow_Book
+    num_pages: '419'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '185'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328373976l/18185._SX50_.jpg
+    title: The Pillow Book
+    title_without_series: The Pillow Book
+    uri: kca://book/amzn1.gr.book.v1.exuDy8yJWXaguCGiRY817g
+    work:
+      id: '639833'
+  - authors:
+      author:
+        id: '1858'
+        link: https://www.goodreads.com/author/show/1858.Kim_Stanley_Robinson
+        name: Kim Stanley Robinson
+    average_rating: '4.53'
+    id: '77505'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0553572393
+    isbn13: '9780553572391'
+    link: https://www.goodreads.com/book/show/77505.Green_Mars
+    num_pages: '624'
+    publication_day: null
+    publication_month: '5'
+    publication_year: '1993'
+    ratings_count: '185'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Green Mars (Mars Trilogy, #2)'
+    title_without_series: Green Mars
+    uri: kca://book/amzn1.gr.book.v1.6mzvLufUxhGYDpjvEa_P7Q
+    work:
+      id: '69059'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: '2025-05-23T00:00:00-07:00'
+text_reviews_count:
+  '#text': '2'
+  '@type': integer
+title: 'Apple in China: The Capture of the World''s Greatest Company'
+title_without_series: 'Apple in China: The Capture of the World''s Greatest Company'
+uri: kca://book/amzn1.gr.book.v3.JtKwQ3Qol4bHdScR
+url: https://www.goodreads.com/book/show/220291748-apple-in-china
+work:
+  id: '227093067'
+  uri: kca://work/amzn1.gr.work.v3.bZdF1jzcMdmzKstv
