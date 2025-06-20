@@ -1,7 +1,7 @@
 {{ define "main" }} {{ if not .Params.menu }}
 <h1>{{ .Title }}</h1>
 <p class="byline">
-    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
+    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate aria-label="{{ i18n "date-aria" (printf "%s" (.Date.Format (default "2006-01-02" .Site.Params.dateFormat))) | default (printf "Date: %s" (.Date.Format (default "2006-01-02" .Site.Params.dateFormat))) }}">
         {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
     </time>
     {{ with .Params.author }}· {{.}}{{ end }}
@@ -14,11 +14,11 @@
 </content>
 <p>
     {{ range (.GetTerms "tags") }}
-    <a class="blog-tags" href="{{ .RelPermalink }}" aria-label="Tag: {{ lower .LinkTitle }}">#{{ lower .LinkTitle }}</a>
+    <a class="blog-tags" href="{{ .RelPermalink }}" aria-label="{{ i18n "tag-aria" (printf "%s" (lower .LinkTitle)) | default (printf "Tag: %s" (lower .LinkTitle)) }}">#{{ lower .LinkTitle }}</a>
     {{ end }}
 </p>
 
 <nav>
-    <a href="/links" aria-label="Back to the current links">Back to the current links</a>
+    <a href="/links" aria-label="{{ i18n "back-to-links" | default "Back to the current links" }}">{{ i18n "back-to-links" | default "Back to the current links" }}</a>
 </nav>
 {{ end }}

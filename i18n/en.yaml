@@ -85,3 +85,113 @@
 
 - id: backToLinksAria
   translation: "Back to the current links"
+
+# Missing keys used in templates
+- id: filtering-for
+  translation: "Filtering for"
+
+- id: no-posts
+  translation: "No posts found"
+
+- id: no-notes
+  translation: "No notes found"
+
+- id: no-links
+  translation: "No links found"
+
+- id: no-music
+  translation: "No music found"
+
+- id: email-subject
+  translation: "Re: %s"
+
+- id: email-reply
+  translation: "Reply via email"
+
+- id: skip-link
+  translation: "Skip to main content"
+
+# Navigation back links
+- id: back-to-now
+  translation: "Back to the current Now"
+
+- id: back-to-notes
+  translation: "Back to the current notes"
+
+- id: back-to-links
+  translation: "Back to the current links"
+
+- id: back-to-music
+  translation: "Back to music"
+
+- id: back-to-books
+  translation: "Back to the book list"
+
+- id: rss
+  translation: "RSS"
+
+- id: by
+  translation: "by"
+
+# Books template
+- id: book-cover-alt
+  translation: "Book cover"
+
+- id: my-rating
+  translation: "My rating:"
+
+- id: reading-duration
+  translation: "Reading duration: Read in"
+
+- id: days
+  translation: "days"
+
+- id: number-of-pages
+  translation: "Number of pages:"
+
+- id: pages
+  translation: "Pages"
+
+- id: read-this-book
+  translation: "Read this book"
+
+# Accessibility labels
+- id: page-title-aria
+  translation: "Page title"
+
+- id: note-images-aria
+  translation: "Note images"
+
+- id: date-aria
+  translation: "Date: %s"
+
+- id: tag-aria
+  translation: "Tag: %s"
+
+- id: link-to-aria
+  translation: "Link to %s"
+
+- id: note-aria
+  translation: "Note: %s"
+
+- id: avatar-aria
+  translation: "Avatar"
+
+- id: site-title-aria
+  translation: "Site Title"
+
+- id: main-nav-aria
+  translation: "Main Navigation"
+
+- id: send-email-aria
+  translation: "Send email to %s"
+
+- id: list-recent-notes-aria
+  translation: "List of recent notes"
+
+- id: permalink-note-aria
+  translation: "Permalink to this note"
+
+# 404 page
+- id: maybe-check-out
+  translation: "Maybe go check out the posts, notes, or the links."
