@@ -195,3 +195,53 @@
 # 404 page
 - id: maybe-check-out
   translation: "Maybe go check out the posts, notes, or the links."
+
+# AI content notices
+- id: human-written
+  translation: "This post was written 98% by a human."
+
+- id: ai-generated-notice-intro
+  translation: "Please note:"
+
+- id: ai-generated-notice
+  translation: "This post was generated largely by AI. The post most likely disclosed this fact. Although it is LLM generated, I do think that it is representative of my beliefs - otherwise I would not have published it."
+
+# Out of date warnings
+- id: please-note
+  translation: "Please note:"
+
+- id: post-old-warning
+  translation: "This post was written some time ago ({{ . }} years ago)."
+
+- id: young-author-note
+  translation: "I was only {{ . }} years old when this post was written."
+
+- id: perspective-evolution
+  translation: "My perspectives, knowledge, and opinions may have evolved significantly since then. While the content might still offer valuable insights, I encourage readers to consider it in the context of its publication date."
+
+# Content formatting
+- id: by-parentheses
+  translation: "(by %s)"
+
+- id: by-author
+  translation: "by %s"
+
+- id: by-artist
+  translation: "by %s"
+
+# Counts
+- id: books-count
+  translation: "(%d books)"
+
+- id: songs-count
+  translation: "(%d songs)"
+
+# Additional accessibility
+- id: home-aria
+  translation: "Home"
+
+- id: avatar-alt
+  translation: "Avatar"
+
+- id: permalink-note-title
+  translation: "Permalink to this note"
