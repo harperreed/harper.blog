@@ -4,12 +4,7 @@ $ageAtPostTime := div (sub $postDate.Unix $authorBirthDate.Unix) 31536000 }} {{
 $yearsAgo := math.Round (div (sub now.Unix $postDate.Unix) 31536000) }}
 <div class="outofdate-warning">
     <p>
-        <b>Please note:</b> This post was written some time ago ({{ $yearsAgo }}
-        years ago). {{ if lt $ageAtPostTime 25 }} I was only {{ $ageAtPostTime
-        }} years old when this post was written. {{ end }} My perspectives,
-        knowledge, and opinions may have evolved significantly since then. While
-        the content might still offer valuable insights, I encourage readers to
-        consider it in the context of its publication date.
+        <b>{{ i18n "please-note" | default "Please note:" }}</b> {{ i18n "post-old-warning" $yearsAgo | default (printf "This post was written some time ago (%d years ago)." $yearsAgo) }}{{ if lt $ageAtPostTime 25 }} {{ i18n "young-author-note" $ageAtPostTime | default (printf " I was only %d years old when this post was written." $ageAtPostTime) }}{{ end }} {{ i18n "perspective-evolution" | default " My perspectives, knowledge, and opinions may have evolved significantly since then. While the content might still offer valuable insights, I encourage readers to consider it in the context of its publication date." }}
     </p>
 </div>
 {{ end }}

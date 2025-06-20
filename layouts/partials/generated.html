@@ -12,15 +12,12 @@
     {{ else }}
         {{ if ne .Params.generated true }}
             <div class="human-notice">
-                <p>This post was written 98% by a human.</p>
+                <p>{{ i18n "human-written" | default "This post was written 98% by a human." }}</p>
             </div>
         {{ else }}
             <div class="ai-notice">
                 <p>
-                    <b>Please note:</b> This post was generated largely by AI. The post most
-                    likely disclosed this fact. Although it is LLM generated, I do think
-                    that it is representative of my beliefs - otherwise I would not have
-                    published it.
+                    <b>{{ i18n "ai-generated-notice-intro" | default "Please note:" }}</b> {{ i18n "ai-generated-notice" | default "This post was generated largely by AI. The post most likely disclosed this fact. Although it is LLM generated, I do think that it is representative of my beliefs - otherwise I would not have published it." }}
                 </p>
             </div>
         {{ end }}
