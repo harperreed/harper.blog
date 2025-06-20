@@ -4,7 +4,6 @@
 <h3>{{ i18n "404text" | default "Page not found" }}</h3>
 
 <p>
-    Maybe go check out the <a href="{{ "/posts" | relLangURL }}">posts</a>,
-    <a href="{{ "/notes" | relLangURL }}">notes</a>, or the <a href="{{ "/media/links" | relLangURL }}">links</a>.
+    {{ i18n "maybe-check-out" | default "Maybe go check out the posts, notes, or the links." }}
 </p>
 {{ end }}

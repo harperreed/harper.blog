@@ -4,7 +4,7 @@
 {{ end }}
 <content>
     {{ .Content }} {{- with .Resources.ByType "image" }}
-    <div class="note-images" aria-label="Note images">
+    <div class="note-images" aria-label="{{ i18n "note-images-aria" | default "Note images" }}">
         {{- range . }}
         <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
         {{- end }}
@@ -12,7 +12,7 @@
     {{- end }}
 </content>
 <p class="byline">
-    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
+    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate aria-label="{{ i18n "date-aria" (printf "%s" (.Date.Format (default "2006-01-02" .Site.Params.dateFormat))) | default (printf "Date: %s" (.Date.Format (default "2006-01-02" .Site.Params.dateFormat))) }}">
         {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
     </time> &middot;
     {{ with .Params.author }}{{.}} &middot;{{ end }}
@@ -23,6 +23,6 @@
 {{ partialCached "comments.html" . .Title }}
 
 <nav>
-    <a href="/notes" aria-label="Back to the current notes">Back to the current notes</a>
+    <a href="/notes" aria-label="{{ i18n "back-to-notes" | default "Back to the current notes" }}">{{ i18n "back-to-notes" | default "Back to the current notes" }}</a>
 </nav>
 {{ end }}

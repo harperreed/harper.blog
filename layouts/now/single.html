@@ -3,7 +3,7 @@
 
 
 {{ if not .Params.menu }}
-<h1 aria-label="Page title">{{ .Title }}</h1>
+<h1 aria-label="{{ i18n "page-title-aria" | default "Page title" }}">{{ .Title }}</h1>
 
 {{ end }}
 <content> {{ .Content }} </content>
@@ -17,7 +17,7 @@
 </p>
 
 <nav>
-    <a href="/now" aria-label="Back to the current Now"><span aria-hidden="true">&larr;</span> Back to the current Now</a>
+    <a href="/now" aria-label="{{ i18n "back-to-now" | default "Back to the current Now" }}"><span aria-hidden="true">&larr;</span> {{ i18n "back-to-now" | default "Back to the current Now" }}</a>
 </nav>
 
 {{ end }}
