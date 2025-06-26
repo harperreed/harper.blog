@@ -1,0 +1,18 @@
+Below is a concise narrative of what unfolded during this English-to-Japanese translation project:
+
+1. Workflow Overview  
+The team fed the source text (an English blog post about LLM code-generation) into an “o3” translation model, obeying a strict system prompt to preserve formatting, block quotes and code snippets while rendering all other parts naturally in Japanese. After the initial pass, an editing prompt prompted a human-style review to fix grammar, smooth phrasing, and ensure idioms and technical jargon read fluently. Finally, four structured critique loops drilled into remaining flaws—each loop producing a summary of issues and targeted corrections.
+
+2. Quality Improvements by Stage  
+– Initial Translation: Faithfully mirrored the structure and playful tone of the original. All headings, links, and emoji-style markers were kept intact. However, some Japanese phrases felt stilted, a few idioms were rendered too literally, and a handful of segments stayed in English without clear justification.  
+– First Editing Pass: Adjusted commas and particles, tightened awkward constructions (“そこで気づいたのは” became more conversational), and added small flourishes (like “笑”) to match the author’s style. This pass already lifted the text from “machine-translated” to “readable draft.”  
+– Critique Loops: Four rounds of targeted feedback progressively squashed remaining problems. The first two loops flagged the most critical issues—meaning drift, untranslated fragments, dropped details—while later loops honed tone consistency, natural word order, and idiomatic choices.
+
+3. Challenges and Recurring Issues  
+– Accuracy vs. Fluency: Balancing literal fidelity with natural Japanese led to occasional mistranslation of nuanced points. Critics repeatedly called out missing clauses or diluted technical explanations.  
+– Tone and Register: The original’s casual, “talking-over-coffee” vibe demanded a liberal approach to punctuation and colloquial expressions. Early drafts sometimes skewed too formal or too literal.  
+– Untranslated Segments: A few proper names, acronyms, and slang terms slipped through unchanged. Critics insisted on either translating them sensibly or clearly flagging them in quotes.  
+– Structural Preservation: Keeping markdown, links, and code blocks intact added a layer of complexity; every edit had to respect the original layout.
+
+4. Overall Assessment  
+By the end of four critique cycles, the translation achieved a strong balance of accuracy, readability, and cultural appropriateness. The iterative process—machine draft, human edit, and systematic critique—proved effective: each stage built on the last, steadily transforming a serviceable draft into polished, native-sounding Japanese. While time-intensive, this workflow ensured that technical terms remained precise, idioms felt natural, and the author’s original tone and formatting were fully preserved.

@@ -1,7 +1,7 @@
 ---
 title: Hello
 type: special
-url: /about/
+url: about
 hideReply: true
 translationKey: "about"
 nofeed: true
