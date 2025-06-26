@@ -1,11 +1,11 @@
 ---
 aliases:
-    - /media/books/
+    - media/books/
 layout: books-grid
 nofeed: true
 title: Books
 translationKey: Books-Grid
-url: /media/books/grid
+url: media/books/grid
 ---
 
 # Books I've Read

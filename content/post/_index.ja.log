@@ -1,0 +1,19 @@
+The translation process followed a structured, multi-stage workflow designed to deliver a fluent, accurate Japanese version of the source text while preserving its original formatting and tone. Here’s what happened:
+
+1. Translation Workflow Summary  
+   • Initial Machine Translation (MT): The o3 model generated a first draft in Japanese, strictly obeying the system prompt—retaining all Markdown, code blocks, and block quotes unaltered, and translating the rest naturally.  
+   • Editing Pass: A second “editor” model read both source and translation, fixed grammar, smoothed phrasing, and ensured cultural appropriateness without adding new content.  
+   • Four Critique Loops: Each loop applied a critical rubric (Critical, Major, Minor) to spot meaning shifts, awkward wording, formatting inconsistencies, and terminology issues. Feedback was folded back into the translation to refine accuracy and style.
+
+2. Quality Improvements at Each Stage  
+   • From MT to Edit: The raw translation (“ブログを始めました”) became more idiomatic (“ブログを始めて以来、いくつもの『時代』を経験してきました”), improving flow and nuance. Heading labels changed from “時代区分” to more intuitive “時代一覧.”  
+   • Through Critiques: Early loops caught overly emphatic phrases (e.g., “爆発的に多かった”) that misrepresented the source. Later loops refined bullet formatting, standardized date ranges, and ensured placeholders (like post counts) stayed intact. By loop four, the text read smoothly, with correct particle use, balanced emphasis, and consistent terminology.
+
+3. Challenges and Issues Identified  
+   • Nuance Drift: Some Japanese renderings initially added intensity or altered tone—critics flagged these as “Critical” because they risked distorting the author’s intent.  
+   • Literal vs. Natural Translation: Idioms and conversational tics needed adjustment to feel native. Early drafts were too literal; later versions opted for natural equivalents.  
+   • Formatting Preservation: Keeping Markdown structure exact while editing phrasing required careful attention. Mistakes in list markers or summary tags were repeatedly caught and fixed.  
+   • Technical Placeholders: Ensuring placeholders like `{{< postcount … >}}` remained untouched to prevent breaking downstream rendering.
+
+4. Overall Assessment  
+   The process was both thorough and effective. By layering an initial MT pass with a human-style editing prompt and repeated, focused critique loops, the final translation achieves fidelity to the source meaning, naturalness in Japanese, and strict preservation of formatting. The biggest gains came from the critique cycles, which systematically hunted down subtle mistranslations and style issues. In the end, the workflow balanced speed (via MT) with quality (via editing and critiques), resulting in a polished, ready-to-publish Japanese text.

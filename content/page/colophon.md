@@ -1,7 +1,7 @@
 ---
 title: Colophon
 type: special
-url: /colophon/
+url: colophon
 nofeed: true
 hideReply: true
 translationKey: "colophon"

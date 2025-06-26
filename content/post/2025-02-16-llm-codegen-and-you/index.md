@@ -14,6 +14,7 @@ tags:
     - productivity
 title: My LLM codegen workflow atm
 translationKey: My LLM codegen workflow atm
+slug: my-llm-codegen-workflow-atm
 bsky: https://bsky.app/profile/harper.lol/post/3lidixzdr5j2e
 ---
 
