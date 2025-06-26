@@ -14,6 +14,9 @@
 </p>
 {{ end }}
 
+
+{{ partial "post-translations.html" . }}
+
 {{ partialCached "out_of_date.html" . (.Date.Format "2006") }}
 
 <content>

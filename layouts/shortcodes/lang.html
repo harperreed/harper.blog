@@ -1,0 +1,21 @@
+{{/* layouts/shortcodes/lang.html */}}
+<div class="available-languages">
+  {{ $languages := slice }}
+  {{ range .Site.Languages }}
+    {{ if ne .Lang $.Site.Language.Lang }}
+      {{ $url := printf "/%s/" .Lang }}
+      {{ $languages = $languages | append (dict "url" $url "lang" .Lang "name" .LanguageName) }}
+    {{ end }}
+  {{ end }}
+  
+  {{ if gt (len $languages) 0 }}
+    <span class="languages-prefix">
+        {{ i18n "also-available-in" | default "Also available in" }}: </span>
+    {{ range $i, $lang := $languages }}
+      <a href="{{ $lang.url }}" hreflang="{{ $lang.lang }}" class="language-link">
+        {{ $lang.name }}
+      </a>
+      {{ if lt $i (sub (len $languages) 1) }} | {{ end }}
+    {{ end }}
+  {{ end }}
+</div>

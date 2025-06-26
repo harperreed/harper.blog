@@ -7,11 +7,6 @@ name = "harper@modest.com"
 url = "mailto:harper@modest.com"
 weight = 6
 
-[[main]]
-identifier = "home"
-name = "Home"
-url = "/"
-weight = 1
 
 [[footer]]
 identifier = "home"

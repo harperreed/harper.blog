@@ -7,8 +7,9 @@ name = "harper@modest.com"
 url = "mailto:harper@modest.com"
 weight = 6
 
+
 [[footer]]
-identifier = "home"
+identifier = "personal"
 name = "Harper.lol"
 url = "https://harper.lol"
 weight = 5

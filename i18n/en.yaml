@@ -43,7 +43,7 @@
 
 - id: "on"
   translation: "on"
-  
+
 - id: copyright
   translation: "Copyright"
 
@@ -245,3 +245,9 @@
 
 - id: permalink-note-title
   translation: "Permalink to this note"
+
+- id: translations-available
+  translation: "Translations"
+
+- id: read-in-language
+  translation: "Read this post in %s"
