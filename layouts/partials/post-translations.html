@@ -1,0 +1,27 @@
+{{/* layouts/partials/post-translations.html */}}
+{{ $currentLang := .Page.Lang }}
+{{ $translations := slice }}
+
+{{/* Build list of available translations excluding current language */}}
+{{ range .Translations }}
+  {{ $translations = $translations | append . }}
+{{ end }}
+
+{{/* Only show if there are translations */}}
+{{ if gt (len $translations) 0 }}
+  <div class="post-translations">
+    <span class="translations-prefix">
+      {{ i18n "translations-available" | default "Translations" }}:
+    </span>
+    
+    {{ range $i, $translation := $translations }}
+      <a href="{{ $translation.RelPermalink }}" 
+         hreflang="{{ $translation.Language.Lang }}"
+         class="translation-link"
+         title="{{ i18n "read-in-language" $translation.Language.LanguageName | default (printf "Read this post in %s" $translation.Language.LanguageName) }}">
+        {{ $translation.Language.LanguageName }}
+      </a>
+      {{- if lt $i (sub (len $translations) 1) }}, {{ end -}}
+    {{ end }}
+  </div>
+{{ end }}

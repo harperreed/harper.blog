@@ -1,0 +1,247 @@
+# i18n/ja.yaml
+
+- id: prevpage
+  translation: "前のページ"
+
+- id: nextpage
+  translation: "次のページ"
+
+- id: page
+  translation: "ページ"
+
+- id: of
+  translation: "の"
+
+- id: nojscomments
+  translation: "コメントを表示するにはJavaScriptが必要です。ブラウザの設定でJavaScriptを有効にするか、JavaScript対応のブラウザをご利用ください。"
+
+- id: 404title
+  translation: "404"
+
+- id: 404text
+  translation: "お探しのページは見つかりませんでした。URLを確認するか、ホームページに戻ってください。"
+
+- id: minutes
+  translation: "分"
+
+- id: words
+  translation: "単語"
+
+- id: readmore
+  translation: "続きを読む"
+
+- id: previousNows
+  translation: "過去のNow"
+
+- id: generated
+  translation: "生成"
+
+- id: sendMeAn
+  translation: "メールを送ってください"
+
+- id: email
+  translation: "メール"
+
+- id: "on"
+  translation: "投稿日："
+
+- id: copyright
+  translation: "著作権"
+
+- id: morePosts
+  translation: "他の投稿"
+
+- id: moreNotes
+  translation: "他のノート"
+
+- id: recentPosts
+  translation: "最近の投稿"
+
+- id: recentNotes
+  translation: "最近のノート"
+
+- id: posts
+  translation: "投稿"
+
+- id: notes
+  translation: "ノート"
+
+- id: morePostsAria
+  translation: "他の投稿"
+
+- id: moreNotesAria
+  translation: "他のノート"
+
+- id: skipLinkAria
+  translation: "メインコンテンツへスキップ"
+
+- id: titleAria
+  translation: "ホーム"
+
+- id: backToNowAria
+  translation: "現在のNowに戻る"
+
+- id: backToNotesAria
+  translation: "現在のノートに戻る"
+
+- id: backToLinksAria
+  translation: "現在のリンクに戻る"
+
+- id: filtering-for
+  translation: "次で絞り込み："
+
+- id: no-posts
+  translation: "投稿が見つかりませんでした"
+
+- id: no-notes
+  translation: "ノートが見つかりませんでした"
+
+- id: no-links
+  translation: "リンクが見つかりませんでした"
+
+- id: no-music
+  translation: "音楽が見つかりませんでした"
+
+- id: email-subject
+  translation: "Re: %s"
+
+- id: email-reply
+  translation: "メールで返信する"
+
+- id: skip-link
+  translation: "メインコンテンツへスキップ"
+
+- id: back-to-now
+  translation: "現在のNowに戻る"
+
+- id: back-to-notes
+  translation: "現在のノートに戻る"
+
+- id: back-to-links
+  translation: "現在のリンクに戻る"
+
+- id: back-to-music
+  translation: "音楽に戻る"
+
+- id: back-to-books
+  translation: "本のリストに戻る"
+
+- id: rss
+  translation: "RSSフィード"
+
+- id: by
+  translation: "作成者："
+
+- id: book-cover-alt
+  translation: "本の表紙"
+
+- id: my-rating
+  translation: "私の評価："
+
+- id: reading-duration
+  translation: "読了期間："
+
+- id: days
+  translation: "日"
+
+- id: number-of-pages
+  translation: "ページ数："
+
+- id: pages
+  translation: "ページ"
+
+- id: read-this-book
+  translation: "この本を読む"
+
+- id: page-title-aria
+  translation: "ページタイトル"
+
+- id: note-images-aria
+  translation: "ノートの画像"
+
+- id: date-aria
+  translation: "日付：%s"
+
+- id: tag-aria
+  translation: "タグ：%s"
+
+- id: link-to-aria
+  translation: "%sへのリンク"
+
+- id: note-aria
+  translation: "ノート：%s"
+
+- id: avatar-aria
+  translation: "アバター"
+
+- id: site-title-aria
+  translation: "サイトタイトル"
+
+- id: main-nav-aria
+  translation: "メインナビゲーション"
+
+- id: send-email-aria
+  translation: "%s にメールを送信"
+
+- id: list-recent-notes-aria
+  translation: "最近のノート一覧"
+
+- id: permalink-note-aria
+  translation: "このノートのパーマリンク"
+
+- id: maybe-check-out
+  translation: "投稿、ノート、リンクをチェックしてみてください。"
+
+- id: human-written
+  translation: "この投稿は98%人間が執筆しました。"
+
+- id: ai-generated-notice-intro
+  translation: "ご注意："
+
+- id: ai-generated-notice
+  translation: "この投稿は主にAIによって生成されました。投稿内でその旨が開示されているはずです。LLMによって生成されたものではありますが、自分の考えを正確に反映していると思っているため公開しています。"
+
+- id: please-note
+  translation: "ご注意ください："
+
+- id: post-old-warning
+  translation: "この投稿は{{ . }}年前に書かれたものです。"
+
+- id: young-author-note
+  translation: "この投稿を書いたとき、私は{{ . }}歳でした。"
+
+- id: perspective-evolution
+  translation: "その後、私の視点、知識、意見は大きく変化している可能性があります。当時のコンテキストを踏まえてお読みいただけると幸いです。"
+
+- id: by-parentheses
+  translation: "（%s 作）"
+
+- id: by-author
+  translation: "%s 作"
+
+- id: by-artist
+  translation: "%s 演奏"
+
+- id: books-count
+  translation: "（%d 冊）"
+
+- id: songs-count
+  translation: "（%d 曲）"
+
+- id: home-aria
+  translation: "ホーム"
+
+- id: avatar-alt
+  translation: "アバター"
+
+- id: permalink-note-title
+  translation: "このノートのパーマリンク"
+
+- id: also-available-in
+  translation: "他の言語で読む"
+
+- id: translations-available
+  translation: "他の言語で読む"
+
+- id: read-in-language
+  translation: "%sでこの記事を読む"

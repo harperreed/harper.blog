@@ -1,9 +1,11 @@
 {{ define "main" }} {{ .Content }}
 
+{{ $notes := first 5 (where .Site.RegularPages "Section" "post") }} 
+{{ if $notes }}
 <h2>{{ i18n "posts" | default "Posts" }}</h2>
 <ul class="blog-posts">
-    {{ $notes := first 5 (where .Site.RegularPages "Section" "post") }} {{ range
-    $notes }}
+    
+    {{ range $notes }}
     <li>
         <span>
             <i>
@@ -27,12 +29,15 @@
     <li>{{ i18n "no-posts" }}</li>
     {{ end }}
 </ul>
-<a href="/posts" aria-label="More Posts">{{ i18n "morePosts" | default "More Posts" }}</a>
+<a href="{{ "/posts" | relLangURL }}" aria-label="More Posts">{{ i18n "morePosts" | default "More Posts" }}</a>
+{{ end }}
 
+{{ $notes := first 5 (where .Site.RegularPages "Section" "notes") }} 
+{{ if $notes }}
 <h2>{{ i18n "notes" | default "Notes" }}</h2>
 <ul class="blog-posts" aria-label="List of recent notes">
-    {{ $notes := first 5 (where .Site.RegularPages "Section" "notes") }} {{
-    range $notes }}
+    
+    {{ range $notes }}
     <li>
         <span>
             <i>
@@ -50,6 +55,6 @@
     <li>{{ i18n "no-posts" }}</li>
     {{ end }}
 </ul>
-<a href="/notes" aria-label="More Notes">{{ i18n "moreNotes" | default "More Notes" }}</a>
-
+<a href="{{ "/notes" | relLangURL }}" aria-label="More Notes">{{ i18n "moreNotes" | default "More Notes" }}</a>
+{{ end }}
 {{ end }}
