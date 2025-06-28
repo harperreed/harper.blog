@@ -1,15 +1,18 @@
 ---
 date: 2023-11-30
-description: Holy Smokes there is a lot of new AI tools out there. Here is what I
-  have been recently using
+description:
+    Holy Smokes there is a lot of new AI tools out there. Here is what I
+    have been recently using
 draft: false
 tags:
-- ai
-- productivity-tools
-- technology
-- browsers
-- innovation
+    - ai
+    - llm
+    - productivity-tools
+    - technology
+    - browsers
+    - innovation
 title: The new new AI tools
+slug: the-new-new-ai-tools
 translationKey: The new new AI tools
 ---
 
@@ -71,7 +74,7 @@ Here is a shot unordered list of things I have asked chatgpt in the last couple 
 
 As you can see it's all over the place. Also, I have a cold. I use the SHIT out of chatgpt. It's hilariously overused atm.
 
-An possibly related observation:  I no longer know how to spell things.
+An possibly related observation: I no longer know how to spell things.
 
 ## Kagi
 
@@ -100,12 +103,12 @@ Here is a quick list of other tools that are in daily use. I highly recommend th
 - [Fish](https://fishshell.com/) - my shell
 - [neovim](https://neovim.io/) - my editor of choice
 - [vscode](https://code.visualstudio.com/) - my other editor of choice
-- [Tailscale](https://tailscale.com/) - my network *(I pay for this)*
+- [Tailscale](https://tailscale.com/) - my network _(I pay for this)_
 - [Maestral](https://maestral.app/) - dropbox client that doesn't suck
-- [DayOne](https://dayoneapp.com/) - I use this daily *(I pay for this)*
+- [DayOne](https://dayoneapp.com/) - I use this daily _(I pay for this)_
 - [Feedbin](https://feedbin.com/) / [NetNewsWire](https://netnewswire.com/) - feeeedsss
-- [Drafts](https://getdrafts.com/) - Amazing "dropbox" for text on my phone *(I pay for this)*
+- [Drafts](https://getdrafts.com/) - Amazing "dropbox" for text on my phone _(I pay for this)_
 - [iterm2](https://iterm2.com/) - it's nice
-- [nextDNS](https://nextdns.io/) - DNS servers *(I pay for this)*
+- [nextDNS](https://nextdns.io/) - DNS servers _(I pay for this)_
 
 hit me up if you have other tools I should check out.

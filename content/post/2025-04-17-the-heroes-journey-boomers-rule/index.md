@@ -15,6 +15,7 @@ tags:
     - developer-productivity
     - boomers
 title: An LLM Codegen Hero's Journey
+slug: an-llm-codegen-heros-journey
 translationKey: An LLM Codegen Hero's Journey
 bsky: https://bsky.app/profile/harper.lol/post/3ln2a3x52xs2y
 ---

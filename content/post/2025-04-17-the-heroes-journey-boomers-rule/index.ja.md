@@ -12,7 +12,8 @@ tags:
     - software-engineering
     - developer-productivity
     - boomers
-title: An LLM Codegen Hero's Journey
+title: LLMコード生成 ヒーローズ・ジャーニー
+slug: an-llm-codegen-heros-journey
 translationKey: An LLM Codegen Hero's Journey
 ---
 

@@ -9,8 +9,9 @@ tags:
     - commit-messages
     - programming
     - automation
-title: Use an llm to automagically generate meaningful git commit messages
+title: LLMを使って意味のあるGitコミットメッセージを自動生成する
 translationKey: Use an llm to automagically generate meaningful git commit messages
+slug: use-an-llm-to-automagically-generate-meaningful-git-commit-messages
 ---
 
 _TL;DR: pre-commit-msg Git フックに `llm` CLI を組み込めば、最近のコード変更を要約したコミットメッセージが自動で生成される。_

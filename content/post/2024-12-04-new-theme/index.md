@@ -1,15 +1,17 @@
 ---
 date: 2024-12-04 18:00:00-05:00
-description: Finally updating the theme on the site to something clean and minimal.
-  Inspired by bearblog and write.as, making tweaks for better accessibility and introducing
-  rotating color schemes.
+description:
+    Finally updating the theme on the site to something clean and minimal.
+    Inspired by bearblog and write.as, making tweaks for better accessibility and introducing
+    rotating color schemes.
 draft: false
 generateSocialImage: true
 tags:
-- design
-- theme
-- accessibility
+    - design
+    - theme
+    - accessibility
 title: New year, new theme
+slug: new-year-new-theme
 translationKey: New year, new theme
 ---
 

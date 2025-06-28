@@ -1,25 +1,27 @@
 ---
 date: 2024-03-18 09:00:11-05:00
-description: Some really bad advice on owning and using a Leica camera. Also, some
-  general photography advice.
+description:
+    Some really bad advice on owning and using a Leica camera. Also, some
+    general photography advice.
 draft: false
 generateSocialImage: true
 tags:
-- photography
-- leica
-- camera-equipment
-- travel-photography
-- photography-tips
+    - photography
+    - leica
+    - camera-equipment
+    - travel-photography
+    - photography-tips
+    - cameras
 title: How to Leica like a noob who shoots Leica
+slug: how-to-leica-like-a-noob-who-shoots-leica
 translationKey: How to Leica like a noob who shoots Leica
 ---
 
-After going down the *Leica path to extremism* over the last few years, I felt compelled to jot down a few notes and thoughts. Originally, I wrote this for a few friends who've recently purchased Leica cameras (Q2, and a M11). Thinking it might benefit others, I'm sharing it here. YMMV.
+After going down the _Leica path to extremism_ over the last few years, I felt compelled to jot down a few notes and thoughts. Originally, I wrote this for a few friends who've recently purchased Leica cameras (Q2, and a M11). Thinking it might benefit others, I'm sharing it here. YMMV.
 
 {{< image src="/images/posts/photos-congee.jpg" caption="Congee spot in Guangzhou. Leica Q. 2016">}}
 
-
-I have shot with Leica cameras since I got the og Q in 2016. Since then I have gone through the [Q](https://en.wikipedia.org/wiki/Leica_Q_), the [OG monochrom](https://en.wikipedia.org/wiki/Leica_M_Monochrom) (my very fav camera of all time), a [262](https://en.wikipedia.org/wiki/Leica_M_(Typ_262)) (Purchased with 10 BTC lol), and now I am shooting with a [M11](https://en.wikipedia.org/wiki/Leica_M11). I really enjoy them. I enjoy the community and I like the vibe.
+I have shot with Leica cameras since I got the og Q in 2016. Since then I have gone through the [Q](https://en.wikipedia.org/wiki/Leica_Q_), the [OG monochrom](https://en.wikipedia.org/wiki/Leica_M_Monochrom) (my very fav camera of all time), a [262](<https://en.wikipedia.org/wiki/Leica_M_(Typ_262)>) (Purchased with 10 BTC lol), and now I am shooting with a [M11](https://en.wikipedia.org/wiki/Leica_M11). I really enjoy them. I enjoy the community and I like the vibe.
 
 Someone once told me that Leica cameras are [Birkin bags](https://en.wikipedia.org/wiki/Birkin_bag) for men. Lol. Not wrong. This isn't bad - but is funny.
 
@@ -67,10 +69,10 @@ Sometimes the photography hobby is less about photography and more about equipme
 
 - Lenses. OMG. I have gone through a lot of lenses. I finally settled on shooting primarily with a [50m Summilux](https://en.wikipedia.org/wiki/Summilux). Through a bunch of experimentation I realized I like how 50mm works, how it looks, and how it frames.
 - I have never traveled with more than one lens.
-- Learning on a fast lens is a nightmare cuz the super shallow depth of field. When I first started out, I was hitting on 5% of my shots. VERY frustrating. Call Dan at Tamarkin and buy a vintage summicron.  You will adore it, and you will have more fun. *Then* go for the fast af lens that costs a million dollars.
+- Learning on a fast lens is a nightmare cuz the super shallow depth of field. When I first started out, I was hitting on 5% of my shots. VERY frustrating. Call Dan at Tamarkin and buy a vintage summicron. You will adore it, and you will have more fun. _Then_ go for the fast af lens that costs a million dollars.
 - I don’t really use a camera bag. I typically put my camera in a pouch, and then in my tote, or backpack. I want it quickly accessible.
-	- I have always liked the [Artisan and Artist](https://aaa-tokyo.com) brand
-    - I use their [lil travel pouch](https://aaa-tokyo.com/camera/camera-pouch/acam-75/) as the “wrapper” for my camera when it is in my bag.
+    - I have always liked the [Artisan and Artist](https://aaa-tokyo.com) brand
+        - I use their [lil travel pouch](https://aaa-tokyo.com/camera/camera-pouch/acam-75/) as the “wrapper” for my camera when it is in my bag.
 - Find a strap that you feel comfortable with
     - I use the "vintage" Leica goodies sling strap
     - My friends like [Cooph](https://store.cooph.com/en-us)
@@ -82,7 +84,6 @@ Sometimes the photography hobby is less about photography and more about equipme
 - This stuff isn’t meant to sit on shelves. It is meant to be used and capture amazing beautiful things.
 - If you break your camera, Leica will repair it. Go out and break it!
 - If it is on a shelf, you should sell it or give it away. You can always buy it again later.
-
 
 ## Software
 
