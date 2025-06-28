@@ -2,15 +2,16 @@
 description: harper.blog で利用可能な翻訳に関する情報
 hideReply: true
 menu:
-  footer:
-    name: 翻訳
-    weight: 2
+    footer:
+        name: 翻訳
+        weight: 2
 nodate: true
 nofeed: true
 title: 翻訳
 translationKey: translations-about
 type: special
 url: translations
+slug: translations
 weight: 3
 ---
 

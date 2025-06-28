@@ -8,6 +8,7 @@ nofeed: true
 nodate: true
 description: Information about translations available on harper.blog
 weight: 3
+slug: translations
 menu:
     footer:
         name: Translations

@@ -10,6 +10,7 @@ title: コロフォン
 translationKey: colophon
 type: special
 url: colophon
+slug: colophon
 weight: 6
 ---
 

@@ -18,8 +18,8 @@ tags:
     - tdd
     - programming
 title: Código Básico de Claude
-slug: basic-claude-code
 translationKey: Basic Claude Code
+slug: basic-claude-code
 ---
 
 Me encanta esto del _agentic coding_ (programación agéntica). Es muy atractivo en muchos sentidos.
