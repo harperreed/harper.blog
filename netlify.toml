@@ -34,7 +34,7 @@ Content-Security-Policy = """
     script-src 'self' https://unpkg.com https://cdnjs.cloudflare.com https://static.cloudflareinsights.com https://tinylytics.app;
     style-src 'self' ;
     font-src 'self';
-    img-src 'self' data: https: http: * https://s.gravatar.com;
+    img-src 'self' data: https: http: * https://s.gravatar.com https://cdn.bsky.app;
     connect-src 'self' https:;
     media-src 'self';
     object-src 'none';
