@@ -32,8 +32,8 @@ Permissions-Policy = "microphone 'none'; payment 'none'; geolocation 'none'; mid
 Content-Security-Policy = """
     default-src 'self';
     script-src 'self' https://unpkg.com https://cdnjs.cloudflare.com https://static.cloudflareinsights.com https://tinylytics.app;
-    style-src 'self' ;
-    font-src 'self';
+    style-src 'self' https://fonts.googleapis.com;
+    font-src 'self' https://fonts.gstatic.com;
     img-src 'self' data: https: http: * https://s.gravatar.com https://cdn.bsky.app;
     connect-src 'self' https:;
     media-src 'self';
