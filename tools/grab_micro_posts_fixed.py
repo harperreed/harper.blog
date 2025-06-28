@@ -12,18 +12,13 @@ from slugify import slugify
 from urllib.parse import urlparse
 from dotenv import load_dotenv
 import logging
+from api_security import safe_log_api_error, setup_secure_logging
 
 # Load environment variables from .env file if it exists
 load_dotenv()
 
-# Centralized logging configuration
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.StreamHandler()
-    ]
-)
+# Setup secure logging
+logger = setup_secure_logging(__name__)
 
 # Registry files will be stored in the data directory
 URL_REGISTRY_FILENAME = "processed_urls.json"
@@ -84,7 +79,7 @@ def download_json_feed(url):
         response.raise_for_status()
         return response.json()
     except requests.RequestException as e:
-        logging.error(f"Failed to download JSON feed: {e}")
+        safe_log_api_error(logger, "Failed to download JSON feed", {"error": str(e)})
         raise
 
 
@@ -651,7 +646,7 @@ def main():
     hugo_data_dir = os.getenv('NOTES_HUGO_DATA_DIR', os.path.join(os.path.dirname(hugo_content_dir), 'data', 'notes'))
 
     if not json_feed_url or not hugo_content_dir:
-        logging.error("NOTES_JSON_FEED_URL and NOTES_HUGO_CONTENT_DIR must be set in the .env file")
+        logger.error("NOTES_JSON_FEED_URL and NOTES_HUGO_CONTENT_DIR must be set in the .env file")
         return
 
     # Create directories if they don't exist
@@ -661,18 +656,18 @@ def main():
     # Load registries
     url_registry = load_url_registry(hugo_data_dir)
     content_registry = load_content_registry(hugo_data_dir)
-    logging.info(f"Loaded {len(url_registry)} entries from URL registry")
-    logging.info(f"Loaded {len(content_registry)} entries from content registry")
+    logger.info(f"Loaded {len(url_registry)} entries from URL registry")
+    logger.info(f"Loaded {len(content_registry)} entries from content registry")
     
     # Scan existing notes to build indexes
     highest_note_id, note_id_map, existing_note_ids = scan_existing_notes(hugo_content_dir)
-    logging.info(f"Found {len(existing_note_ids)} existing notes with IDs, highest ID: {highest_note_id}")
+    logger.info(f"Found {len(existing_note_ids)} existing notes with IDs, highest ID: {highest_note_id}")
 
     try:
         # Download feed
         feed_data = download_json_feed(json_feed_url)
         if not feed_data or not feed_data.get('items'):
-            logging.error("Feed contains no items or invalid format")
+            logger.error("Feed contains no items or invalid format")
             return
         
         # If --check-archive flag is used, also fetch the archival feed

@@ -13,12 +13,13 @@ from typing import Optional, List
 import logging
 from readabilipy import simple_json_from_html_string
 from diskcache import Cache
+from api_security import validate_api_key, safe_log_api_error, setup_secure_logging
 
 # Load environment variables
 load_dotenv()
 
-# Centralized logging configuration
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+# Setup secure logging
+logger = setup_secure_logging(__name__)
 
 # Configuration
 CACHE_DIRECTORY = "./script_cache"
@@ -31,22 +32,31 @@ class Tags(BaseModel):
     tags: List[str]
     summary: Optional[str]
 
-firecrawler = FirecrawlApp(api_key=os.getenv('FIRECRAWL_API_KEY'))
+# Validate API keys before using them
+try:
+    firecrawl_api_key = validate_api_key('FIRECRAWL_API_KEY')
+    # Validate OpenAI API key
+    openai_api_key = validate_api_key('OPENAI_API_KEY')
+except ValueError as e:
+    logger.error(f"API key validation failed: {e}")
+    raise
+
+firecrawler = FirecrawlApp(api_key=firecrawl_api_key)
 
 # Initialize disk cache
 cache = Cache(CACHE_DIRECTORY)
 
 try:
-    client = OpenAI()
+    client = OpenAI(api_key=openai_api_key)
 except Exception as e:
-    logging.error(f"Failed to initialize OpenAI client: {e}")
+    safe_log_api_error(logger, "Failed to initialize OpenAI client", {"error": str(e)})
     raise
 
 def fetch_rss_feed(url):
     try:
         return feedparser.parse(url)
     except Exception as e:
-        logging.error(f"Error fetching RSS feed: {e}")
+        safe_log_api_error(logger, f"Error fetching RSS feed: {e}")
         return None
 
 def generate_unique_slug(title, date_str, url):
@@ -70,17 +80,17 @@ def create_hugo_post(entry):
         date = entry.get('published', entry.get('updated', datetime.now().isoformat()))
         url = entry.link
         if not title or not date or not url:
-            logging.warning(f"Skipping invalid entry: {title}, {url}")
+            logger.warning(f"Skipping invalid entry: {title}, {url}")
             return False
         
         slug = generate_unique_slug(title, date, url)
         file_path = os.path.join(HUGO_CONTENT_DIR, f"{slug}.md")
         
         if os.path.exists(file_path):
-            logging.info(f"Skipping existing entry: {title}")
+            logger.info(f"Skipping existing entry: {title}")
             return False
         else:
-            logging.info(f"Creating post for: {title}, {url}")
+            logger.info(f"Creating post for: {title}, {url}")
 
         scraped_content = scrape_url(url)
      
@@ -108,21 +118,21 @@ def create_hugo_post(entry):
         try:
             with open(file_path, 'w', encoding='utf-8') as f:
                 f.write(frontmatter.dumps(post))
-            logging.info(f"Created post: {file_path}")
+            logger.info(f"Created post: {file_path}")
             return True
         except Exception as e:
-            logging.error(f"Error writing post to file '{file_path}': {e}")
+            safe_log_api_error(logger, f"Error writing post to file '{file_path}'", {"error": str(e)})
             return False
  
     except Exception as e:
-        logging.error(f"Error creating post for '{title}': {e}")
+        safe_log_api_error(logger, f"Error creating post for '{title}'", {"error": str(e)})
         return False
 
 def get_tags_summary(title, content):
-    logging.debug(f"Getting tags for title: {title[:100]}...")
+    logger.debug(f"Getting tags for title: {title[:100]}...")
 
     if not title or not content:
-        logging.warning("Empty title or content provided")
+        logger.warning("Empty title or content provided")
         return Tags(tags=[], summary=None)
 
     # Truncate content to avoid token limits while preserving meaning
@@ -153,7 +163,7 @@ def get_tags_summary(title, content):
         # Try to get cached response
         result = cache.get(cache_key)
         if result is None:
-            logging.debug("Cache miss - sending request to OpenAI API") 
+            logger.debug("Cache miss - sending request to OpenAI API") 
             response = client.beta.chat.completions.parse(
                 model=OPENAI_MODEL,  # Fixed model name
                 messages=[{
@@ -163,27 +173,27 @@ def get_tags_summary(title, content):
                 response_format=Tags
             )
             # Cache the response
-            logging.debug(f"Raw API response: {response}")
+            logger.debug(f"Raw API response: {response}")
             result = response.choices[0].message.parsed
             cache.set(cache_key, result, expire=CACHE_TIMEOUT) # Cache for 24 hours
         else:
-            logging.debug("Using cached OpenAI response")
+            logger.debug("Using cached OpenAI response")
 
-        logging.info(f"Generated tags: {result.tags}")
+        logger.info(f"Generated tags: {result.tags}")
         return result
 
     except RateLimitError as e:
-        logging.error(f"OpenAI rate limit exceeded: {e}")
+        safe_log_api_error(logger, "OpenAI rate limit exceeded", {"error": str(e)})
         return Tags(tags=[])
     except APIError as e:
-        logging.error(f"OpenAI API error: {e}")
+        safe_log_api_error(logger, "OpenAI API error", {"error": str(e)})
         return Tags(tags=[])
     except Exception as e:
-        logging.error(f"Unexpected error in tag generation: {e}")
+        safe_log_api_error(logger, "Unexpected error in tag generation", {"error": str(e)})
         return Tags(tags=[])
 
 def scrape_url(url):
-    logging.info(f"Attempting to scrape URL: {url}")
+    logger.info(f"Attempting to scrape URL: {url}")
     try:
         # Initialize disk cache for URL scraping
 
@@ -198,10 +208,10 @@ def scrape_url(url):
             cache.set(cache_key, scrape, expire=CACHE_TIMEOUT)
         
         if not scrape:
-            logging.warning(f"Empty scrape result for {url}")
+            logger.warning(f"Empty scrape result for {url}")
             return ""
 
-        logging.debug(f"Successfully scraped {url} - Content length: {len(str(scrape))}")        
+        logger.debug(f"Successfully scraped {url} - Content length: {len(str(scrape))}")        
         article = simple_json_from_html_string(scrape['html'], use_readability=True)
         raw = ""
         for p in article['plain_text']:
@@ -210,19 +220,19 @@ def scrape_url(url):
         return raw
 
     except Exception as e:
-        logging.error(f"Failed to scrape {url}: {str(e)}")
+        safe_log_api_error(logger, f"Failed to scrape {url}", {"error": str(e)})
         # Return empty string rather than None for safer handling
         return ""
 
 def main():
     if not RSS_URL or not HUGO_CONTENT_DIR:
-        logging.error("RSS_URL or HUGO_CONTENT_DIR not set in .env file")
+        logger.error("RSS_URL or HUGO_CONTENT_DIR not set in .env file")
         return
 
     try:
         feed = fetch_rss_feed(RSS_URL)
         if not feed:
-            logging.error("Failed to fetch RSS feed. Exiting.")
+            logger.error("Failed to fetch RSS feed. Exiting.")
             return
 
         new_entries_count = 0
@@ -230,9 +240,9 @@ def main():
             if create_hugo_post(entry):
                 new_entries_count += 1
 
-        logging.info(f"Processed {new_entries_count} new entries")
+        logger.info(f"Processed {new_entries_count} new entries")
     except Exception as e:
-        logging.error(f"Unexpected error in main: {e}")
+        safe_log_api_error(logger, "Unexpected error in main", {"error": str(e)})
 
 if __name__ == "__main__":
     main()

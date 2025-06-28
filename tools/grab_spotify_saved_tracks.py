@@ -8,19 +8,33 @@ from dotenv import load_dotenv
 from slugify import slugify
 import hashlib
 import yaml
+from api_security import validate_multiple_keys, safe_log_api_error, setup_secure_logging, mask_key_in_logs
 
 # Load environment variables
 load_dotenv()
 
-# Configure logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s'
-)
+# Setup secure logging
+logger = setup_secure_logging(__name__)
 
 def setup_spotify():
     """Initialize Spotify client with proper authentication."""
     try:
+        # Validate all required Spotify API credentials
+        spotify_keys = {
+            'SPOTIFY_CLIENT_ID': None,
+            'SPOTIFY_CLIENT_SECRET': None,
+            'SPOTIFY_REDIRECT_URI': None
+        }
+        
+        try:
+            validated_keys = validate_multiple_keys(spotify_keys)
+            logger.debug(f"Using Spotify client ID: {mask_key_in_logs(validated_keys['SPOTIFY_CLIENT_ID'])}")
+            logger.debug(f"Using Spotify client secret: {mask_key_in_logs(validated_keys['SPOTIFY_CLIENT_SECRET'])}")
+            logger.debug(f"Using Spotify redirect URI: {validated_keys['SPOTIFY_REDIRECT_URI']}")
+        except ValueError as e:
+            safe_log_api_error(logger, "Failed to validate Spotify API credentials", {"error": str(e)})
+            raise
+        
         # Use cache_path to specify where the token cache should be stored
         cache_path = os.getenv('SPOTIFY_TOKEN_CACHE_PATH', '.spotify_cache')
         
@@ -31,9 +45,9 @@ def setup_spotify():
                 f.write(cached_token)
         
         auth_manager = SpotifyOAuth(
-            client_id=os.getenv('SPOTIFY_CLIENT_ID'),
-            client_secret=os.getenv('SPOTIFY_CLIENT_SECRET'),
-            redirect_uri=os.getenv('SPOTIFY_REDIRECT_URI'),
+            client_id=validated_keys['SPOTIFY_CLIENT_ID'],
+            client_secret=validated_keys['SPOTIFY_CLIENT_SECRET'],
+            redirect_uri=validated_keys['SPOTIFY_REDIRECT_URI'],
             scope='user-library-read',
             cache_path=cache_path,
             open_browser=False  # Important for headless environments
@@ -51,7 +65,7 @@ def setup_spotify():
         
         return sp
     except Exception as e:
-        logging.error(f"Failed to initialize Spotify client: {e}")
+        safe_log_api_error(logger, "Failed to initialize Spotify client", {"error": str(e)})
         raise
 
 def get_saved_tracks(sp, limit=50, offset=0, grab_all=True):
@@ -84,14 +98,14 @@ def get_saved_tracks(sp, limit=50, offset=0, grab_all=True):
                 tracks.append(track_data)
             
             offset += limit
-            logging.info(f"Fetched {len(tracks)} tracks so far...")
+            logger.info(f"Fetched {len(tracks)} tracks so far...")
             
             # Optional: break after first batch during development
             # if offset >= limit:
             #     break
             
     except Exception as e:
-        logging.error(f"Error fetching tracks: {e}")
+        safe_log_api_error(logger, "Error fetching tracks", {"error": str(e)})
         raise
         
     return tracks
@@ -117,7 +131,7 @@ def create_hugo_content(track, output_dir):
         file_path = os.path.join(output_dir, f"{slug}.md")
         
         if os.path.exists(file_path):
-            logging.info(f"Track already exists: {file_path}")
+            logger.info(f"Track already exists: {file_path}")
             return False
 
         # Create post with frontmatter
@@ -148,7 +162,7 @@ added on {post['date'].strftime("%B %d, %Y")}
         with open(file_path, 'w', encoding='utf-8') as f:
             f.write(frontmatter.dumps(post))
         
-        logging.info(f"Created new track post: {file_path}")
+        logger.info(f"Created new track post: {file_path}")
         return True
         
     # except Exception as e:
@@ -180,26 +194,26 @@ def main():
         for track in tracks:
             if create_hugo_content(track, hugo_content_dir):
                 new_tracks_count += 1
-                logging.info(f"Created new track post: {track['title']}")
+                logger.info(f"Created new track post: {track['title']}")
                 
                 # Write data file
-                logging.info(f"Writing data file for {track['title']}")
+                logger.info(f"Writing data file for {track['title']}")
                 track_title = F"{track['added_at']} - {track['title']} - {track['artist']} - {track['album']}"
                 data_filename = os.path.join(hugo_data_dir, f"{slugify(track_title)}.yaml")
                 #check if file exists
                 if os.path.exists(data_filename):
-                    logging.info(f"Data file already exists: {data_filename}")
+                    logger.info(f"Data file already exists: {data_filename}")
                     continue
                 with open(data_filename, "w", encoding="utf-8") as f:
                     yaml.safe_dump(track, f, default_flow_style=False)
-                    logging.info(f"Data file created: {data_filename}")
+                    logger.info(f"Data file created: {data_filename}")
                 
                 
-        logging.info(f"Successfully processed {len(tracks)} tracks")
-        logging.info(f"Created {new_tracks_count} new track posts")
+        logger.info(f"Successfully processed {len(tracks)} tracks")
+        logger.info(f"Created {new_tracks_count} new track posts")
         
     except Exception as e:
-        logging.error(f"Script failed: {e}")
+        safe_log_api_error(logger, "Script failed", {"error": str(e)})
 
 if __name__ == "__main__":
     main()
