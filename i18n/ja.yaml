@@ -245,3 +245,6 @@
 
 - id: read-in-language
   translation: "%sでこの記事を読む"
+
+- id: current-language
+  translation: "言語"
