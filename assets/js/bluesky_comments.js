@@ -142,7 +142,8 @@ class CommentRenderer {
             const avatar = document.createElement("img");
             avatar.src = author.avatar;
             avatar.alt = `${author.handle}'s avatar`;
-            avatar.className = "bsky-avatar";
+            avatar.className = "bsky-avatar img loaded";
+            avatar.loading = "lazy";
             authorDiv.appendChild(avatar);
         }
 
