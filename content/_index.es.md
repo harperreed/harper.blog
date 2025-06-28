@@ -14,6 +14,6 @@ translationKey: index
 
 ### Me llamo Harper Reed y este es mi blog. Si deseas saber más sobre mí, visita mi sitio web: [harper.lol](https://harper.lol).
 
-Aquí encontrarás [entradas](/posts) más extensas, [notas](/notes) breves y de vez en cuando [enlaces](/links) que me resultan interesantes. Puedes ver en qué estoy ahora en la sección «[Now](/now)» y suscribirte a mi [canal RSS](/index.xml).
+Aquí encontrarás [entradas](/es/posts) más extensas, [notas](/notes) breves y de vez en cuando [enlaces](/links) que me resultan interesantes. Puedes ver en qué estoy ahora en la sección «[Now](/now)» y suscribirte a mi [canal RSS](/es/index.xml).
 
 {{< lang >}}

@@ -15,4 +15,4 @@ translationKey: index
 
 ### 大家好，我是 Harper Reed，这是我的博客。想更了解我，请访问我的个人网站：[harper.lol](https://harper.lol)。
 
-在这里，你可以看到一些长篇[博文](/posts)、一些简短[笔记](/notes)，以及我偶尔分享的有趣[链接](/links)。想知道我现在在做什么，可以查看[Now](/now)页面，并订阅我的[RSS 订阅源](/index.xml)。
+在这里，你可以看到一些长篇[博文](/zh/posts)、一些简短[笔记](/notes)，以及我偶尔分享的有趣[链接](/links)。想知道我现在在做什么，可以查看[Now](/now)页面，并订阅我的[RSS 订阅源](/zh/index.xml)。
