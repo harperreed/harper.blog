@@ -19,7 +19,7 @@ The blog is powered by [Hugo](https://gohugo.io/), a fast and flexible static si
 
 ### Prerequisites
 Make sure you have the following installed:
-- [Go](https://golang.org/doc/install) (version 1.19 or higher)
+- [Go](https://golang.org/doc/install) (version 1.21 or higher)
 - [Hugo](https://gohugo.io/getting-started/quick-start)
 
 ### Setup
