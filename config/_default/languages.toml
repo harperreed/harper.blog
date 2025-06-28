@@ -19,15 +19,15 @@ weight = 2
 description = "Harper Reedによるいくつかの文章。主にテクノロジー、政治、その他のことについて"
 subtitle = "普通の人が普通のことを考える随想"
 
-# [es]
-# title = "Blog de Harper Reed"
-# languageName = "Español 🇪🇸"
-# languageCode = "es"
-# weight = 3
-# 
-# [es.params]
-# description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
-# subtitle = "Musing from a normal person doing normal things"
+[es]
+title = "Blog de Harper Reed"
+languageName = "Español 🇪🇸"
+languageCode = "es"
+weight = 3
+
+[es.params]
+description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
+subtitle = "Musing from a normal person doing normal things"
 
 
 # [ko]
