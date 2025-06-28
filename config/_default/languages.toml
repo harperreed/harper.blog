@@ -30,15 +30,15 @@ description = "Some writing by Harper Reed. Mostly about technology, politics, a
 subtitle = "Musing from a normal person doing normal things"
 
 
-# [ko]
-# title = "하퍼 리드의 블로그"
-# languageName = "한국어 🇰🇷"
-# languageCode = "ko"
-# weight = 4
+[ko]
+title = "하퍼 리드의 블로그"
+languageName = "한국어 🇰🇷"
+languageCode = "ko"
+weight = 4
 
-# [ko.params]
-# description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
-# subtitle = "Musing from a normal person doing normal things"
+[ko.params]
+description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
+subtitle = "Musing from a normal person doing normal things"
 
 
 [zh]
