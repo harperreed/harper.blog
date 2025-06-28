@@ -41,12 +41,12 @@ subtitle = "Musing from a normal person doing normal things"
 # subtitle = "Musing from a normal person doing normal things"
 
 
-# # [zh]
-# title = "哈珀·雷德的博客"
-# languageName = "中文 🇨🇳"
-# languageCode = "zh-CN"
-# weight = 5
+[zh]
+title = "哈珀·雷德的博客"
+languageName = "中文 🇨🇳"
+languageCode = "zh-CN"
+weight = 5
 
-# [zh.params]
-# description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
-# subtitle = "Musing from a normal person doing normal things"
+[zh.params]
+description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
+subtitle = "Musing from a normal person doing normal things"

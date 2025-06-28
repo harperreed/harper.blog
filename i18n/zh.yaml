@@ -1,0 +1,259 @@
+# i18n/en.yaml
+- id: prevpage
+  translation: "上一页"
+
+- id: nextpage
+  translation: "下一页"
+
+- id: page
+  translation: "页"
+
+- id: of
+  translation: "共"
+
+- id: nojscomments
+  translation: "评论功能依赖 JavaScript。请在浏览器设置中启用 JavaScript，或使用支持 JavaScript 的浏览器查看评论。"
+
+- id: 404title
+  translation: "404"
+
+- id: 404text
+  translation: "无法找到您要访问的页面。请检查网址，或返回首页。"
+
+- id: minutes
+  translation: "分钟"
+
+- id: words
+  translation: "字"
+
+- id: readmore
+  translation: "阅读全文"
+
+- id: previousNows
+  translation: "往期近况"
+
+- id: generated
+  translation: "生成"
+
+- id: sendMeAn
+  translation: "给我发送"
+
+- id: email
+  translation: "电子邮件"
+
+- id: "on"
+  translation: "于"
+
+- id: copyright
+  translation: "版权所有"
+
+- id: morePosts
+  translation: "更多文章"
+
+- id: moreNotes
+  translation: "更多笔记"
+
+- id: recentPosts
+  translation: "最新文章"
+
+- id: recentNotes
+  translation: "最新笔记"
+
+- id: posts
+  translation: "文章"
+
+- id: notes
+  translation: "笔记"
+
+- id: morePostsAria
+  translation: "查看更多文章"
+
+- id: moreNotesAria
+  translation: "查看更多笔记"
+
+- id: skipLinkAria
+  translation: "跳转到主内容"
+
+- id: titleAria
+  translation: "首页"
+
+- id: backToNowAria
+  translation: "返回当前近况"
+
+- id: backToNotesAria
+  translation: "返回当前笔记"
+
+- id: backToLinksAria
+  translation: "返回当前链接列表"
+
+# Missing keys used in templates
+- id: filtering-for
+  translation: "筛选条件"
+
+- id: no-posts
+  translation: "未找到文章"
+
+- id: no-notes
+  translation: "未找到笔记"
+
+- id: no-links
+  translation: "未找到链接"
+
+- id: no-music
+  translation: "未找到音乐"
+
+- id: email-subject
+  translation: "Re: %s"
+
+- id: email-reply
+  translation: "通过邮件回复"
+
+- id: skip-link
+  translation: "跳转到主内容"
+
+# Navigation back links
+- id: back-to-now
+  translation: "返回当前近况"
+
+- id: back-to-notes
+  translation: "返回当前笔记"
+
+- id: back-to-links
+  translation: "返回当前链接列表"
+
+- id: back-to-music
+  translation: "返回音乐列表"
+
+- id: back-to-books
+  translation: "返回书单"
+
+- id: rss
+  translation: "RSS 订阅"
+
+- id: by
+  translation: "作者"
+
+# Books template
+- id: book-cover-alt
+  translation: "书籍封面"
+
+- id: my-rating
+  translation: "我的评分："
+
+- id: reading-duration
+  translation: "阅读耗时："
+
+- id: days
+  translation: "天"
+
+- id: number-of-pages
+  translation: "页数："
+
+- id: pages
+  translation: "页"
+
+- id: read-this-book
+  translation: "阅读此书"
+
+# Accessibility labels
+- id: page-title-aria
+  translation: "页面标题"
+
+- id: note-images-aria
+  translation: "笔记图片"
+
+- id: date-aria
+  translation: "日期：%s"
+
+- id: tag-aria
+  translation: "标签：%s"
+
+- id: link-to-aria
+  translation: "链接至 %s"
+
+- id: note-aria
+  translation: "笔记：%s"
+
+- id: avatar-aria
+  translation: "头像"
+
+- id: site-title-aria
+  translation: "网站标题"
+
+- id: main-nav-aria
+  translation: "主导航"
+
+- id: send-email-aria
+  translation: "给 %s 发送电子邮件"
+
+- id: list-recent-notes-aria
+  translation: "最近笔记列表"
+
+- id: permalink-note-aria
+  translation: "此笔记的永久链接"
+
+# 404 page
+- id: maybe-check-out
+  translation: "不妨去看看文章、笔记或链接。"
+
+# AI content notices
+- id: human-written
+  translation: "本文约 98% 由人类撰写。"
+
+- id: ai-generated-notice-intro
+  translation: "请注意："
+
+- id: ai-generated-notice
+  translation: "本文主要由 AI 生成，文章很可能已注明此事实。即便是 LLM 生成，它依旧代表我的立场，否则我不会发布。"
+
+# Out of date warnings
+- id: please-note
+  translation: "请注意："
+
+- id: post-old-warning
+  translation: "这篇文章写于 {{ . }} 年前。"
+
+- id: young-author-note
+  translation: "撰写此文时我仅 {{ . }} 岁。"
+
+- id: perspective-evolution
+  translation: "自那以后，我的视角、知识和观点可能已经发生了显著变化。虽然这些内容仍可能提供有价值的见解，但请读者结合其发布日期阅读参考。"
+
+# Content formatting
+- id: by-parentheses
+  translation: "（作者：%s）"
+
+- id: by-author
+  translation: "作者：%s"
+
+- id: by-artist
+  translation: "艺术家：%s"
+
+# Counts
+- id: books-count
+  translation: "（%d 本书）"
+
+- id: songs-count
+  translation: "（%d 首歌）"
+
+# Additional accessibility
+- id: home-aria
+  translation: "首页"
+
+- id: avatar-alt
+  translation: "头像"
+
+- id: permalink-note-title
+  translation: "此笔记的永久链接"
+
+- id: translations-available
+  translation: "可用翻译"
+
+- id: read-in-language
+  translation: "阅读本文（%s 语言版）"
+
+- id: also-available-in
+  translation: "其他可用语言版本"
+
+- id: current-language
+  translation: "当前语言"
