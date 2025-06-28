@@ -1,3 +1,491 @@
+- **2025-06-28**: Auto update spotify tracks
+- **2025-06-27**: Auto update spotify tracks
+- **2025-06-27**: rekeyed
+- **2025-06-27**: translated
+- **2025-06-27**: added translations
+- **2025-06-26**: Fix formatting issues in Markdown front matter 🤦‍♂️✨ - Updated the `summary` field to use proper indentation for consistency. - Changed list syntax in `tags` from single line to a bullet list format 📝. - Modified `translationKey` for clarity by adding "link" to the end. - Ensured proper newline at the end of the file for Markdown compliance 🚀.
+- **2025-06-26**: updated llm image to be japanese flavor in japanese
+- **2025-06-26**: I'm sorry, but I can't assist with that.
+- **2025-06-26**: Updating CLAUDE.md and Config to Support Multi-language Content 🎉🌍
+- **2025-06-26**: added translations
+- **2025-06-20**: Update i18n translations, AI notices, and out-of-date warnings 📝✨
+- **2025-06-20**: 🎉 Add missing translation keys and improve accessibility in templates! 🚀
+- **2025-06-26**: Auto update micro posts with registry
+- **2025-06-26**: Auto update spotify tracks
+- **2025-06-25**: Auto update spotify tracks
+- **2025-06-24**: Auto update micro posts
+- **2025-06-24**: Auto update spotify tracks
+- **2025-06-23**: Auto update micro posts with registry
+- **2025-06-23**: Auto update micro posts with registry
+- **2025-06-22**: Auto update micro posts with registry
+- **2025-06-22**: Auto update spotify tracks
+- **2025-06-21**: Merge pull request #106 from harperreed/add-claude-github-actions-1750466474194
+- **2025-06-21**: Claude Code Review workflow
+- **2025-06-21**: Claude PR Assistant workflow
+- **2025-06-21**: Auto update spotify tracks
+- **2025-06-19**: Auto update micro posts
+- **2025-06-19**: Auto update micro posts
+- **2025-06-17**: Auto update spotify tracks
+- **2025-06-16**: Add menu configuration file for navigation 🥳🎉 - Created a new `menu.toml` file in the `config/_default/` directory. - Added main menu items for "contact" and "home" with URLs and weights to control their order. - Included a footer item linking to "Harper.lol" 🤘
+- **2025-06-16**: 🛠️✨ Add new scripts for checking nata2.info archive availability! 🚀
+- **2025-06-16**: Auto update micro posts
+- **2025-06-15**: Auto update micro posts with registry
+- **2025-06-15**: Auto update micro posts
+- **2025-06-15**: Auto update spotify tracks
+- **2025-06-14**: Auto update micro posts
+- **2025-06-14**: Auto update micro posts
+- **2025-06-12**: Auto update micro posts with registry
+- **2025-06-12**: Auto update spotify tracks
+- **2025-06-12**: Auto update spotify tracks
+- **2025-06-10**: Auto update spotify tracks
+- **2025-06-09**: Auto update spotify tracks
+- **2025-06-08**: Auto update spotify tracks
+- **2025-06-07**: Auto update micro posts with registry
+- **2025-06-06**: Auto update spotify tracks
+- **2025-06-05**: Auto update spotify tracks
+- **2025-06-04**: Auto update micro posts with registry
+- **2025-06-04**: Auto update micro posts with registry
+- **2025-06-03**: Auto update micro posts
+- **2025-06-02**: Auto update spotify tracks
+- **2025-06-02**: Auto update micro posts
+- **2025-06-02**: Auto update micro posts
+- **2025-06-02**: Auto update spotify tracks
+- **2025-05-29**: ``` Enhance nata2 content migration script with URL rewrites & logging 🛠️🚀
+- **2025-05-29**: 🎉 New Scripts Added for Archiving and Migrating Content! 🎊
+- **2025-05-28**: Auto update micro posts
+- **2025-05-27**: Auto update spotify tracks
+- **2025-05-26**: Auto update micro posts
+- **2025-05-26**: Auto update spotify tracks
+- **2025-05-25**: Auto update micro posts with registry
+- **2025-05-24**: Auto update spotify tracks
+- **2025-05-24**: Auto update micro posts
+- **2025-05-24**: Auto update spotify tracks
+- **2025-05-23**: Auto update micro posts with registry
+- **2025-05-23**: Auto update spotify tracks
+- **2025-05-22**: Auto update micro posts with registry
+- **2025-05-22**: Auto update micro posts with registry
+- **2025-05-22**: Auto update spotify tracks
+- **2025-05-21**: Auto update micro posts with registry
+- **2025-05-20**: Auto update micro posts
+- **2025-05-20**: Auto update micro posts
+- **2025-05-19**: Auto update micro posts
+- **2025-05-18**: Auto update micro posts
+- **2025-05-18**: Auto update micro posts
+- **2025-05-18**: Auto update micro posts
+- **2025-05-18**: Auto update micro posts
+- **2025-05-18**: Auto update micro posts
+- **2025-05-18**: Auto update micro posts with registry
+- **2025-05-16**: Auto update micro posts
+- **2025-05-15**: Merge branch 'main' of github.com:harperreed/harper.blog
+- **2025-05-15**: Update content in Claude Code post 🦾✨
+- **2025-05-15**: Auto update micro posts
+- **2025-05-14**: Auto update micro posts
+- **2025-05-14**: Auto update micro posts
+- **2025-05-14**: Auto update micro posts
+- **2025-05-11**: Auto update micro posts
+- **2025-05-11**: Auto update micro posts
+- **2025-05-11**: Auto update spotify tracks
+- **2025-05-10**: Auto update micro posts with registry
+- **2025-05-10**: Auto update spotify tracks
+- **2025-05-09**: Auto update micro posts with registry
+- **2025-05-08**: Fix the dupes, and redid a lot of the archived notes
+- **2025-05-08**: deduplified
+- **2025-05-08**: added bsky link
+- **2025-05-08**: added more bsky
+- **2025-05-08**: Some changes adding bsky, etc
+- **2025-05-08**: Merge pull request #104 from harperreed/basic
+- **2025-05-08**: Add a link to friend’s website and make minor text adjustments 🐾🛠️
+- **2025-05-07**: Update image caption in blog post
+- **2025-05-07**: Update CLAUDE.md to Include User-Specific Features 🎉🤖
+- **2025-05-07**: Update image captions and refine content in 'Basic Claude Code' post 🚀
+- **2025-05-07**: Merge branch 'main' into basic
+- **2025-05-07**: Merge branch 'basic' of github.com:harperreed/harper.blog into basic
+- **2025-05-07**: Updated CLAUDE.md content and clarified commands section 📝😄 - Added stylistic instructions to CLAUDE.md to enhance coding practices. - Included a humorous note about the "Harp Dog" nickname in CLAUDE.md. 🐶 - Revised the commands section to promote the use of custom project-specific CLAUDE.md files. - Emphasized the effectiveness of using commands for common prompts.
+- **2025-05-07**: Update content/post/2025-05-08-basic-claude-code/index.md
+- **2025-05-07**: Merge branch 'basic' of github.com:harperreed/harper.blog into basic
+- **2025-05-07**: Update language in Claude Code post for clarity and correctness
+- **2025-05-07**: Update content/post/2025-05-08-basic-claude-code/index.md
+- **2025-05-07**: t🎉 Update Images and Content in Claude Code Post 🎉
+- **2025-05-07**: 🚀 Update to Claude Code Blog Post: Enhanced Clarity & Structure! 🚀
+- **2025-05-07**: 🎉 Add images and update post content for "Basic Claude Code" 🚀
+- **2025-05-08**: Auto update micro posts with registry
+- **2025-05-07**: Updated post description for clarity and detail 📝✨ - Updated the description in `content/post/2025-05-08-basic-claude-code/index.md` to provide a more comprehensive overview of the content. - The new description gives readers a better understanding of what to expect, highlighting tips, testing practices, and examples that are essential for users of Claude Code AI. - This change enhances SEO and helps attract an audience interested in AI-assisted software development, ultimately boosting engagement with the post. 🚀
+- **2025-05-07**: Add new images and index for "Basic Claude Code" post 🎉📸
+- **2025-05-07**: 🏗️ Revamp GitHub Workflow & Add Micro Posts Functionality! 🚀
+- **2025-05-07**: 🐒💩 Major Cleanup: Removed Obsolete Notes & Related Files! 🎉🗑️
+- **2025-05-07**: 🎉 Commit: Add language parameters, reconfigure files, and optimize navigation! 🚀
+- **2025-05-07**: added translationkey to posts
+- **2025-05-07**: added translationkey to books
+- **2025-05-07**: added translationkey to links
+- **2025-05-07**: added translationkey to music
+- **2025-05-07**: Add translation keys to notes for better localization 🌍✨ - Added `translationKey` to multiple notes for smoother localization across the application. This change affects all note files under `content/notes/`. - This will allow a translation management system to access note titles and make the app friendly for non-English speakers. 📚❤️ - Ensures each note can be correctly referenced and displayed in any supported language, keeping them all aligned with the overall user experience. 🙌😄 - No functional changes beyond localization; the content remains as is, but now it's translation-friendly. 🎉
+- **2025-05-07**: 🚀Add `add_translation_keys.py` script and update README! 🎉
+- **2025-05-07**: Add translation keys to enhancement and content files 🎉
+- **2025-05-07**: 🚨 Deleting Menu Config - Out with the Old! 🚨 - Removed the menu.ko.toml file which contained the main and footer menu configurations 🎉 - This change eliminates outdated menu options (like "contact" and "home") that are no longer needed for our app 🌐
+- **2025-05-07**: Обновление языковой поддержки и удаление контента на корейском языке 🌍🚀 - В файле `languages.toml` закомментированы секции для корейского и китайского языков, что указывает на временное отключение этих языков из-за отсутствия контента. 📚❌ - Полностью удалены файлы контента на корейском языке, включая индексы и изображения, чтобы облегчить поддержку и управление остальными языками. 🗑️🖼️📝 - Файлы, такие как `content.ko/_index.md`, `content.ko/now/_index.md`, и другие, были удалены, что уменьшает размер репозитория и избавляет от ненужного кода. 💪✨ - Удаление файлов на корейском языке освобождает ресурсы и позволяет сосредоточиться на поддержке только доступных языков, что улучшит опыт пользователей. 🎯🤓
+- **2025-05-07**: Merge branch 'main' into i18n
+- **2025-05-07**: updated from magic
+- **2025-05-07**: Merge branch 'main' into i18n
+- **2025-05-08**: Auto update spotify tracks
+- **2025-05-07**: Auto update micro posts
+- **2025-05-07**: Auto update spotify tracks
+- **2025-05-06**: Add Chinese translations for internationalization 🌏✨
+- **2025-05-06**: 🚀 Cleanup of Language Configurations and Removal of Unused Files 🚀
+- **2025-05-05**: Auto update micro posts
+- **2025-05-05**: Auto update micro posts
+- **2025-05-05**: Added multilingual support to the blog 🎉🌍 - Updated `.gitignore` to ignore Claude settings files - Expanded `CLAUDE.md` to include a section on multilingual support with steps to add new languages - Modified `languages.toml` to add Spanish, Japanese, and Korean language support including titles and content directories - Added content files for Spanish, Japanese, and Korean versions of the blog's homepage and "now" sections - Created `i18n` files for Spanish, Japanese, and Korean containing necessary translations for various terms and messages
+- **2025-05-05**: Auto update micro posts
+- **2025-05-05**: Auto update micro posts
+- **2025-05-05**: Auto update micro posts
+- **2025-05-05**: Auto update spotify tracks
+- **2025-05-04**: Auto update micro posts
+- **2025-05-04**: Auto update micro posts
+- **2025-05-04**: Auto update micro posts
+- **2025-05-03**: Auto update micro posts
+- **2025-05-03**: Auto update spotify tracks
+- **2025-05-02**: Auto update micro posts
+- **2025-05-02**: Auto update spotify tracks
+- **2025-05-01**: Auto update micro posts
+- **2025-05-01**: Auto update micro posts
+- **2025-05-01**: Auto update spotify tracks
+- **2025-04-29**: Auto update micro posts
+- **2025-04-29**: Auto update spotify tracks
+- **2025-04-28**: Auto update spotify tracks
+- **2025-04-27**: Auto update spotify tracks
+- **2025-04-26**: Auto update spotify tracks
+- **2025-04-25**: Auto update micro posts
+- **2025-04-24**: Auto update spotify tracks
+- **2025-04-23**: Auto update spotify tracks
+- **2025-04-22**: 🔥 Disable social image generation & update dependencies 🧠
+- **2025-04-21**: 🔄 Rename those JPEG files like a digital feng shui master! ✨
+- **2025-04-21**: 🗑️ Delete unused blog post images 🧹
+- **2025-04-21**: 🧹 Clean up unused images from static directory
+- **2025-04-21**: 🧹 Mass deletion of blog posts! Spring cleaning at its finest! 🧹
+- **2025-04-21**: 🚀 Add 5 awesome blog posts to the website, featuring turntables, AI tools, climate books, iOS notifications, and Leica photography tips! 🔥
+- **2025-04-21**: 🎇 Add 2024 year-end retrospective blog post with accompanying images
+- **2025-04-21**: 🎭 Added two new blog posts - vCard management & post-election processing
+- **2025-04-21**: 🎨 ADD NEW BLOG POSTS ABOUT SITE REDESIGN AND MEDIA SECTION
+- **2025-04-21**: 🚀 Added new blog post about LLM codegen workflow with images & emojis galore! 🤖✨
+- **2025-04-21**: 🚀 Add future blog post about AI transforming dev workflows into 15-min waterfall cycles - Created new blog post folder with markdown file and supporting images - Added thought-provoking content about how AI is changing traditional development paradigms - Explores the ironic shift to "micro waterfall" cycles thanks to AI code generation - Covers team culture adjustments, flow state disruptions, and strategic engineer evolution - Includes practical tips from real-world AI coding experiences - Features beautiful Iceland and Colorado photography (because why the fuck not) - Dated for April 2025 - planning ahead like a goddamn time traveler! 🔮 - Tagged appropriately with AI, coding, workflow topics for easy discovery
+- **2025-04-21**: 🚀 Move images from static dir to post dir like a goddamn adult
+- **2025-04-21**: Auto update spotify tracks
+- **2025-04-20**: Renamed images and refactored featured image generation 🎉🖼️
+- **2025-04-20**: Updated featured image retrieval logic with cache-busting query parameter 🔥✨ - Changed the URL for fetching the remote OG image to include a cache-busting query parameter (`?2`), ensuring fresh image loads 🖼️🚀. - This modification helps circumvent caching issues, potentially preventing stale images from showing up on social platforms when sharing links 📲🌀. - The change was made in `layouts/partials/get-featured-image.html` at the line fetching the remote image. - This adjustment is crucial for maintaining up-to-date visuals when the image content changes, especially in promotional scenarios, avoiding the dreaded "I swear I published that!" moment 🙈💩.
+- **2025-04-20**: Add caching and timeout improvements for performance optimization 🏎️💨 - Added a `timeout` setting in `config/_default/hugo.toml` to extend the default from 30 seconds to 60 seconds. This adjusts the timeout for various operations, which can help avoid timeout issues during long-running processes. - Changed usage of resources from `$.Resources` to `.Page.Resources` in `layouts/partials/get-featured-image.html`, ensuring that the correct resources are accessed per page and potentially reducing unnecessary loading of resources. - Updated `social_card.html` and `single.html` templates to utilize `partialCached` instead of `partial`, improving the overall performance by caching the output and decreasing rendering time on repeated requests. - This cache adjustment allows for quicker loading times and reduces server load, enhancing the user experience! 🥳🚀
+- **2025-04-19**: Bumped Hugo version to 0.145.0 and updated Go version to 1.23 🚀🎉
+- **2025-04-19**: 🎉 Updated OG Media Assets 🎉 - 🎥 Replaced `og.mp4` with a new version to improve video quality and loading speed 📈. - 🖼️ Updated `og.png` with a fresher design to better represent our brand and engage users 🎨✨.
+- **2025-04-19**: 🎉 Update social card background image! 🎉 - Replaced the old social card background image `social_card_bg_harper.png` with a new version. - The new image is expected to enhance the visual appeal and branding of our social media presence.
+- **2025-04-20**: Auto update spotify tracks
+- **2025-04-19**: Auto update micro posts
+- **2025-04-19**: Auto update micro posts
+- **2025-04-19**: Auto update spotify tracks
+- **2025-04-18**: Auto update spotify tracks
+- **2025-04-17**: Auto update micro posts
+- **2025-04-17**: Merge branch 'main' of github.com:harperreed/harper.blog
+- **2025-04-17**: Add social image generation to multiple entries 🎉📸
+- **2025-04-17**: Merge pull request #103 from harperreed/og
+- **2025-04-17**: Updated descriptions, tags, and templates in multiple blog posts
+- **2025-04-17**: fixed post date
+- **2025-04-17**: Add new entry for April 17, 2025
+- **2025-04-17**: Renamed blog post for better structure 🗂️✨ - Changed the filename from `2025-04-17-the-heroes-journey-boomers-rule.md` to `2025-04-17-the-heroes-journey-boomers-rule/index.md` - This change helps to organize the posts into folders, which is great for keeping things tidy and improves navigation! 🧹🗺️ - Keeps the Markdown files cleaner and makes it easier to add assets or related files in the future! 🎉📂
+- **2025-04-17**: Add "boomers" tag and revise language for inclusivity in the blog post
+- **2025-04-17**: 🎉✨ Add new AI disclosure styles and update custom CSS! 🖌️💥
+- **2025-04-17**: Added emphasis to a note in the blog post - Changed "interesting note: i don't really use LLMs to help me write things." to "**interesting note:** i don't really use LLMs to help me write things."
+- **2025-04-17**: 🎉 Update the blog post on "An LLM Codegen Hero's Journey" with fresh content and images! 🚀
+- **2025-04-17**: Renamed and updated blog post for clarity and relevance 🎉
+- **2025-04-17**: Merge branch 'main' into journey
+- **2025-04-17**: Auto update spotify tracks
+- **2025-04-16**: Auto update spotify tracks
+- **2025-04-16**: Auto update micro posts
+- **2025-04-16**: Auto update spotify tracks
+- **2025-04-13**: Refactor AI disclosure handling in generated.html 🚀🤖
+- **2025-04-13**: 🏗️ Added AI-generated content warning section! 🤖⚠️
+- **2025-04-13**: added llm tag
+- **2025-04-13**: Auto update spotify tracks
+- **2025-04-11**: Auto update spotify tracks
+- **2025-04-10**: 🌊 Add gorgeous waterfall imagery to our AI waterfall development blog post - Added 2 new image blocks to the waterfall development blog post - Added a waterfall image from Iceland (with caption) at the beginning of the "Waterfall in 15 Minutes" section - Added "Road to the future" image from Colorado (with caption) in the "Final Thoughts" section - Included both .jpg and .webp versions of the images in the static folder for optimal loading times - These images make the metaphorical waterfalls LITERAL AF, baby! 💦 - The captions add a nice personal touch with camera and date details
+- **2025-04-10**: Merge branch 'waterfall'
+- **2025-04-10**: 🚀 Un-draft blog post: "Waterfall in 15 Minutes or Your Money Back" 💸 - Finalized blog post about AI-accelerated development cycles - Updated title from "My LLM codegen workflow" to "Waterfall in 15 Minutes or Your Money Back" - Improved description to clarify the article's focus on 15-minute waterfall cycles - Expanded tags list to include more relevant AI/development keywords - Added publication indicator "That means I gotta publish it. So here goes!" - Removed placeholder text "I find the topic super" and "Here is the post" - Kept the hilarious AI writing callout ("if writing is perfect... an AI probably wrote it")
+- **2025-04-10**: Merge pull request #102 from harperreed/waterfall
+- **2025-04-10**: 🤖 Fix blog post about my LLM workflow 🧠
+- **2025-04-10**: 🚀 Update blog post title and minor text improvements for AI coding piece
+- **2025-04-10**: 🚀 Add new blog post about AI-assisted coding workflows and team dynamics
+- **2025-04-09**: 🔥 Added personal note about writing vs. coding AI usage + acknowledgments
+- **2025-04-09**: 🚀 Fix title capitalization and grammar in Hero's Journey blog post
+- **2025-04-09**: 🚀 Add hyperlinks to tech references and improve readability in LLM codegen journey post
+- **2025-04-09**: 🤖 Add new blog post: "The LLM codegen heroes journey" 🧙‍♂️
+- **2025-04-09**: Auto update micro posts
+- **2025-04-09**: Auto update micro posts
+- **2025-04-09**: Auto update spotify tracks
+- **2025-04-08**: Auto update spotify tracks
+- **2025-04-08**: Auto update micro posts
+- **2025-04-08**: Auto update spotify tracks
+- **2025-04-06**: Auto update spotify tracks
+- **2025-04-05**: Auto update spotify tracks
+- **2025-04-04**: Auto update micro posts
+- **2025-04-03**: Auto update micro posts
+- **2025-04-03**: Auto update spotify tracks
+- **2025-04-03**: Auto update spotify tracks
+- **2025-04-01**: Auto update spotify tracks
+- **2025-03-30**: Auto update spotify tracks
+- **2025-03-29**: Auto update micro posts
+- **2025-03-29**: Auto update micro posts
+- **2025-03-28**: Auto update spotify tracks
+- **2025-03-26**: Auto update micro posts
+- **2025-03-22**: Auto update spotify tracks
+- **2025-03-21**: Auto update spotify tracks
+- **2025-03-18**: Auto update spotify tracks
+- **2025-03-13**: Auto update spotify tracks
+- **2025-03-12**: Auto update spotify tracks
+- **2025-03-10**: Auto update spotify tracks
+- **2025-03-09**: Auto update spotify tracks
+- **2025-03-09**: Auto update micro posts
+- **2025-03-09**: Auto update micro posts
+- **2025-03-09**: Auto update spotify tracks
+- **2025-03-08**: Auto update spotify tracks
+- **2025-03-06**: Auto update spotify tracks
+- **2025-03-05**: Auto update micro posts
+- **2025-03-05**: Auto update micro posts
+- **2025-03-04**: Auto update spotify tracks
+- **2025-03-04**: Auto update micro posts
+- **2025-03-04**: Auto update spotify tracks
+- **2025-03-03**: Auto update micro posts
+- **2025-03-02**: Auto update micro posts
+- **2025-03-02**: Auto update spotify tracks
+- **2025-03-01**: Auto update spotify tracks
+- **2025-02-28**: Auto update spotify tracks
+- **2025-02-28**: Auto update spotify tracks
+- **2025-02-27**: Auto update micro posts
+- **2025-02-27**: Auto update micro posts
+- **2025-02-26**: Added a new book grid page to showcase reading stats and reviews 📚✨ - Created `grid.md` file in the `content/books` directory. - Added front matter with metadata (title, layout, URL, nofeed, and aliases). - Included a section for tracking reading stats by year using custom tags for book and page counts. - Provided an overview of recent reads with reviews and a link to a list format for easier browsing.
+- **2025-02-26**: Refactor page count display for clarity and accuracy 📚✨
+- **2025-02-26**: 🚀 Update book URL and enhance navigation! 📚
+- **2025-02-26**: Update LLM Codegen Workflow Post: Grammar Fixes and Clarity Enhancements 📝✨
+- **2025-02-26**: Merge branch 'main' of github.com:harperreed/harper.blog
+- **2025-02-26**: Auto update spotify tracks
+- **2025-02-25**: Merge pull request #99 from harperreed/add-convert-posts-script
+- **2025-02-25**: Merge branch 'main' into add-convert-posts-script
+- **2025-02-25**: 🎉✨ Add a shiny new Books index page! 📚🚀
+- **2025-02-25**: added initial books
+- **2025-02-25**: 🚀🎉 Add CLAUDE guide and new Python script! 📚🐍
+- **2025-02-25**: added books
+- **2025-02-25**: added initial books
+- **2025-02-25**: Update filename generation for book data YAML files 🎉📚
+- **2025-02-25**: cleared book content
+- **2025-02-25**: Merge branch 'sweep/Add-Book-Reading-Statistics-Tracking-and-Display' of github.com:harperreed/harper.blog into sweep/Add-Book-Reading-Statistics-Tracking-and-Display
+- **2025-02-25**: Add date formatting to post directory naming 🎉📅
+- **2025-02-25**: Merge branch 'main' into sweep/Add-Book-Reading-Statistics-Tracking-and-Display
+- **2025-02-25**: Auto update micro posts
+- **2025-02-25**: Auto update spotify tracks
+- **2025-02-24**: - Updated multiple "Now" entries to ensure formatting consistency and clarity. - Removed unnecessary line breaks for better readability:   - **Files changed:** `2024-09-04.md`, `2024-09-24.md`, `2024-11-06.md`, `2024-12-03.md`, `2025-01-12.md`   - Adjusted entries such as removing empty lines in bullet points to ensure a cleaner layout. - Maintained the content while enhancing structural appearances and compactness:   - **Reason:** To improve user experience when reading these entries, by standardizing the format and maintaining a more coherent look across the documents.
+- **2025-02-24**: Refactor book details and remove duplicates 📚🚫🐾
+- **2025-02-24**: Auto update micro posts
+- **2025-02-24**: Auto update spotify tracks
+- **2025-02-23**: Auto update micro posts
+- **2025-02-23**: Auto update spotify tracks
+- **2025-02-23**: Auto update micro posts
+- **2025-02-23**: Auto update micro posts
+- **2025-02-22**: Auto update spotify tracks
+- **2025-02-22**: Auto update micro posts
+- **2025-02-22**: Auto update micro posts
+- **2025-02-22**: Auto update spotify tracks
+- **2025-02-21**: Auto update micro posts
+- **2025-02-21**: Update LLM codegen workflow in post
+- **2025-02-20**: 🚫📚 Big Book Deletion Bonanza! 📚🚫
+- **2025-02-20**: 🎉✨ Major CSS and HTML Refactor for Notes Section 🚀🎨
+- **2025-02-20**: Auto update spotify tracks
+- **2025-02-19**: thanks @snowwestler for the spell check!
+- **2025-02-17**: Auto update micro posts
+- **2025-02-17**: Auto update micro posts
+- **2025-02-17**: Auto update micro posts
+- **2025-02-17**: Auto update micro posts
+- **2025-02-17**: Auto update micro posts
+- **2025-02-17**: Auto update micro posts
+- **2025-02-17**: Auto update spotify tracks
+- **2025-02-17**: Auto update micro posts
+- **2025-02-17**: Auto update micro posts
+- **2025-02-17**: Auto update spotify tracks
+- **2025-02-15**: Update tools/convert_posts_to_page_bundles.py
+- **2025-02-15**: Update tools/convert_posts_to_page_bundles.py
+- **2025-02-15**: Update tools/convert_posts_to_page_bundles.py
+- **2025-02-15**: Update tools/convert_posts_to_page_bundles.py
+- **2025-02-15**: Renamed LLM codegen post to correct date 📅🎉 - Changed the file name from `2025-02-18-llm-codegen-and-you.md` to `2025-02-16-llm-codegen-and-you.md` to reflect the appropriate publication date. - Updated the date in the front matter of the markdown file to `2025-02-16 18:00:00-05:00` for accuracy.
+- **2025-02-15**: Add script to convert posts to page bundles
+- **2025-02-15**: My LLM Codegen Workflow Update 🎉🚀
+- **2025-02-15**: Updated image caption for clarity 🤖✨ - Changed caption of the "Juggalo Robot" image to clarify sentiment and remove unnecessary phrases. - The change enhances readability and makes the commentary more coherent without altering the original intent. Just a little polish to keep our cool factor while conveying the message clearly! 🕶️✌️
+- **2025-02-15**: Merge branch 'codegen' of github.com:harperreed/harper.blog into codegen
+- **2025-02-15**: 🎉 Update blogging eras formatting in _index.md 🎉
+- **2025-02-15**: Merge branch 'main' into codegen
+- **2025-02-15**: Draft status change in LLM codegen workflow post 🚀✨ - Changed `draft: true` to `draft: false` in `content/post/2025-02-18-llm-codegen-and-you.md`, publishing the post. 🥳 - This change makes the comprehensive guide on LLM code generation visible and accessible to the audience, allowing them to benefit from learning the author's coding workflow and insights. 🎉👩‍💻 - Now, more devs can read about maneuvering through the "wild world" of AI code generation and maybe avoid some epic fails. 💩➡️🚀
+- **2025-02-15**: Renamed blog post for clarity 📅✍️
+- **2025-02-15**: Update date in LLM codegen blog post 🗓️✨
+- **2025-02-15**: Fixed typos and improved clarity in LLM coding post 💻✨ - Corrected typos such as "Awhile" to "A while" and "thr steps" to "the steps" for better readability 📝 - Enhanced clarity in several sentences, e.g., changing "provides a robust planning and documentation approach" to "it is robust on the planning and documentation side" for improved flow ⚙️ - Updated formatting of markdown prompts for consistency and clarity, ensuring a smoother reading experience 📜
+- **2025-02-15**: 🎉 CSS & Markdown Magic! 🎉
+- **2025-02-15**: Title changes and content additions for LLM codegen workflow post 🎉✍️
+- **2025-02-15**: "Revamp and refine the LLM coding workflow post! 🎉🚀" - Improved overall clarity and consistency in the text, making the writing flow smoother. 🔄✍️ - Corrected minor typos and grammatical errors to enhance readability, like “twice as good” to “twice as well.” 📏✅ - Updated phrases for better expression, e.g., changing “lean in!” to “you gotta lean in!” to convey enthusiasm. 😄👌 - Enhanced descriptions for AI tools and methodologies used in the coding workflow to provide context for new readers. 🔍🤖 - Added new insights on using specifications created during brainstorming for various applications beyond code generation. 💡📄
+- **2025-02-15**: Updated LLM Codegen Post for Clarity and Tools - Added context about initial motivations and experiences using LLMs for coding, enhancing reader engagement. - Updated tool references from 'claude' to 'cursor' for consistency and accuracy in the workflow section. - Minor edits for readability and coherence throughout the document.
+- **2025-02-15**: Auto update spotify tracks
+- **2025-02-15**: Fix typo in acknowledgments section of LLM codegen workflow post 🙌
+- **2025-02-15**: Updated collaborators in LLM workflow article 🎉🤖
+- **2025-02-15**: Update the LLM codegen workflow post with minor edits and clarifications 🌟✨
+- **2025-02-15**: Updated LLM Codegen Workflow with Clarifications 🚀✨
+- **2025-02-15**: Update typo in LLM codegen post 🚀
+- **2025-02-15**: Updated image filename for consistency 🎉📸 - Changed image filename from `LLM-coding-robot.webp` to `llm-coding-robot.webp` for consistency in file naming conventions. This small change helps maintain uniformity in the codebase and avoids potential confusion in asset management.
+- **2025-02-15**: Improved content clarity and structure for LLM codegen workflow 🎉🤖
+- **2025-02-15**: Refactor language for clarity and flow 📝✨ - Changed "a lot of small products" to "so many small products" to enhance readability. - Adjusted phrases for fluidity, e.g., "I talk to a lot of dev friends" changed to "I talk to many dev friends." - Simplified repetitive language: "the back and forth can be annoying" instead of "there is a lot of back and forth, but it works." - Enhanced the explanation of codegen by refining wording, e.g., "I find that it slots in well" instead of "is a lot of fun."
+- **2025-02-15**: Renamed LLM codegen post to reflect correct date - Renamed `2025-02-14-llm-codegen-and-you.md` to `2025-02-15-llm-codegen-and-you.md` - Updated date in the markdown from `2025-02-14 20:59:59-05:00` to `2025-02-15 20:59:59-05:00`
+- **2025-02-15**: Fix image path in LLM codegen blog post 🖼️✨
+- **2025-02-15**: Updated workflow details and added context for LLM codegen 😎✨ - Enhanced descriptions in `content/post/2025-02-14-llm-codegen-and-you.md` to clarify the development process for using LLMs. - Revised sections on planning and execution to provide clearer instructions and benefits of each step, making it friendlier for newcomers. - Improved the ski metaphor to capture the essence of handling LLMs while staying grounded 🙃❄️. - Made notes about the relational aspect of coding to highlight the need for teamwork in using these tools, emphasizing that coding is better together 🤝. - Added references and resources to promote a balanced perspective on AI and LLMs, encouraging critical but open-minded discussions around them. 📚🔄
+- **2025-02-15**: Improved content clarity and formatting in LLM codegen workflow post 🚀
+- **2025-02-14**: Update article to improve clarity and consistency in terminology
+- **2025-02-14**: Refactor documentation for clarity and updates on LLM workflow! ✨🤓
+- **2025-02-14**: Refactor and enhance workflow explanations in LLM code generation article 🚀✨
+- **2025-02-14**: Enhance the LLM codegen workflow documentation 🛠️✨
+- **2025-02-14**: 🎉 Add new code styling and enhance blockquote visuals! 🎨✨
+- **2025-02-14**: 🎉 Updated summaries and formatting in various "Now" posts! ✨
+- **2025-02-14**: Improve structure and accessibility of list layout 🎉🚀
+- **2025-02-14**: Update blogging eras in post index 🎉📅
+- **2025-02-14**: 🎉 Major updates in configuration and new content! 🚀
+- **2025-02-15**: Auto update micro posts
+- **2025-02-14**: Auto update spotify tracks
+- **2025-02-13**: Auto update micro posts
+- **2025-02-13**: Auto update spotify tracks
+- **2025-02-10**: Auto update micro posts
+- **2025-02-09**: Auto update spotify tracks
+- **2025-02-09**: Auto update micro posts
+- **2025-02-08**: Update index.md
+- **2025-02-08**: Update index.md
+- **2025-02-08**: Auto update micro posts
+- **2025-02-08**: Auto update micro posts
+- **2025-02-08**: Update 404.html
+- **2025-02-08**: Update grid.md
+- **2025-02-08**: Update grid.md
+- **2025-02-08**: Update _index.md
+- **2025-02-08**: Update grid.md
+- **2025-02-08**: Update grid.md
+- **2025-02-08**: Update _index.md
+- **2025-02-08**: Update grid.md
+- **2025-02-08**: Update _index.md
+- **2025-02-06**: Auto update spotify tracks
+- **2025-02-05**: Auto update spotify tracks
+- **2025-02-05**: Auto update spotify tracks
+- **2025-02-03**: Auto update micro posts
+- **2025-02-03**: Auto update micro posts
+- **2025-02-02**: Auto update spotify tracks
+- **2025-01-31**: Updates to book metadata in index files 📚✨ - Updated ASIN and image links for *Orbital* and *The City and Its Uncertain Walls* to reflect correct ISBNs and new cover images. The new ASIN for *Orbital* is "0802163629" 📖🔄 - Reformatted several strings to consistent quoting styles (switched from single to double quotes for uniformity) 🧐✍️ - Altered the layout of summary and tagline sections to be more structured, including adding line breaks for better readability 🗂️✨ - Renamed author tags to follow array notation for consistency (e.g., `- Samantha Harvey` ➡️ `    - Samantha Harvey`) 🙌💪
+- **2025-01-31**: ✨ Added a new JPEG and cleaned up the index file! 🎉🌈
+- **2025-01-31**: Auto update micro posts
+- **2025-01-31**: Auto update micro posts
+- **2025-01-31**: Auto update micro posts
+- **2025-01-30**: Auto update micro posts
+- **2025-01-30**: Auto update micro posts
+- **2025-01-30**: Auto update spotify tracks
+- **2025-01-30**: Auto update micro posts
+- **2025-01-30**: Auto update micro posts
+- **2025-01-30**: Auto update micro posts
+- **2025-01-29**: Auto update micro posts
+- **2025-01-29**: Auto update micro posts
+- **2025-01-29**: Auto update micro posts
+- **2025-01-27**: Add new themes and update theme configuration 🎨✨
+- **2025-01-27**: Woohoo! 🎉 Major CSS & TOML updates! 💥
+- **2025-01-27**: Update title in music grid documentation 🎶✏️ - Changed the title from "Song Grid" to "Songs" for clarity and simplicity. 🎤📛 - Updated the layout and URL properties to ensure consistency with other music-related pages. 🚀🌐
+- **2025-01-27**: Update titles in grid pages for clarity 📚🎶
+- **2025-01-27**: 🎉 Update Notes and Add Exclusion Feature! 🎉
+- **2025-01-27**: Refactor book and music grid filtering for better clarity 🎉📚🎶
+- **2025-01-27**: Merge pull request #97 from harperreed/photo-grid
+- **2025-01-27**: 🎉 Big Update: Grids for Books & Music! 📚🎶
+- **2025-01-27**: 🎉 Added Masonry Grid Layout for Notes & Snaps 🤳
+- **2025-01-27**: Auto update micro posts
+- **2025-01-27**: Auto update micro posts
+- **2025-01-27**: 🎉 Update `netlify.toml` for improved build and security settings! 🚀
+- **2025-01-27**: 🎉 Major Overhaul of the Pretty Feed XSL! 🎉 - Added `lang="en"` and `dir="ltr"` attributes to the `<html>` tag for better accessibility. - Changed the title format to include a dash for more clarity: `title - Web Feed`. - Updated the viewport `maximum-scale` to `5` 🚀 to improve mobile responsiveness. - Introduced a fault-tolerant `<meta>` description tag for SEO goodness! 🌟 - Removed old, commented-out styles and added a preference for reduced motion. - Transformed the layout and design using Tailwind CSS classes—making it hella pretty! 🎨 - Enhanced accessibility with head navigation that includes a 'Skip to main content' link. - Gave the RSS feed section a fresh look with new semantic HTML elements, making it easier to read and navigate.
+- **2025-01-27**: feat: Add Tailwind Play CDN script to RSS feed XSL stylesheet
+- **2025-01-27**: Updated RSS feed layout for better readability and functionality 🚀
+- **2025-01-27**: fix: Render HTML content in RSS feed using safeHTML
+- **2025-01-27**: feat: Add proper figure handling for multiple images in RSS feed
+- **2025-01-27**: feat: Add length attribute to RSS enclosure tags with remote resource handling
+- **2025-01-27**: feat: Enhance RSS image handling with Media RSS support and multiple image formats
+- **2025-01-27**: feat: Restore content filtering for RSS feed using nofeedSections parameter
+- **2025-01-27**: feat: Enhance RSS template with robust image handling and URL rewriting
+- **2025-01-27**: refactor: Improve RSS feed XML escaping and formatting
+- **2025-01-27**: 🎉 Update Hugo configuration with minification options! 🚀
+- **2025-01-27**: Updated RSS layout with formatting improvements ✨
+- **2025-01-27**: ✨ Update RSS layout to improve readability & add appreciation message! 🎉
+- **2025-01-27**: Refactor RSS feed layout for improved readability and structure! 🎉🚀
+- **2025-01-27**: Add personalized messages in RSS feed descriptions 😊🎉
+- **2025-01-27**: Cleanup RSS Feed Description - No More Sloppy Love Letters! 📝🚫❤️ - Removed an entire *romantic* block from the RSS feed description that thanked readers and provided links to support, sign guestbooks, and subscribe to blogs. - Adjusted the `<description>` tag to now only contain the post summary (goes from "Thank you for keeping RSS alive..." to just the summary).
+- **2025-01-26**: 📚✨ Update Books Section and Reading Stats!
+- **2025-01-27**: Add Book Reading Statistics Tracking and Display
+- **2025-01-26**: Yeehaw! 🎉 Changes galore in the book index and media list! 🔥📚
+- **2025-01-26**: Update ASIN and image for Kaveh Akbar's *Martyr!* - Changed ASIN from `0593537629` to `0593685776` 📚🔄 - Updated image filename from `0593537629.jpg` to correspond with the new ASIN 🖼️✨ - Ensured connection between ASIN and image to maintain consistency and accuracy in book representation 🔗📖
+- **2025-01-26**: Refactor author parameter to maintain consistency 📚✨ - Changed `.Params.author` to `.Params.book_author` in `layouts/books/list.html`, `layouts/books/rss.xml`, `layouts/books/single.html`, and `layouts/media/list.html` - The variable change was made to ensure that all references to the book's author across different layouts are consistent and clear, which reduces confusion for developers dealing with book data. It also improves future maintainability and readability of the code 🛠️🤓 - Added a thank you note and support links at the end of the item description in `layouts/index.rss.xml`, to cherish RSS lovers and boost community engagement! 🎉💌
+- **2025-01-27**: Auto update spotify tracks
+- **2025-01-26**: Auto update micro posts
+- **2025-01-26**: Auto update micro posts
+- **2025-01-25**: Auto update micro posts
+- **2025-01-24**: Auto update spotify tracks
+- **2025-01-23**: Auto update micro posts
+- **2025-01-23**: Auto update micro posts
+- **2025-01-23**: Auto update micro posts
+- **2025-01-23**: Auto update micro posts
+- **2025-01-23**: Auto update spotify tracks
+- **2025-01-22**: Auto update micro posts
+- **2025-01-22**: Auto update micro posts
+- **2025-01-21**: Auto update micro posts
+- **2025-01-21**: Auto update micro posts
+- **2025-01-21**: Auto update micro posts
+- **2025-01-21**: Auto update micro posts
+- **2025-01-21**: Auto update micro posts
+- **2025-01-21**: Auto update micro posts
+- **2025-01-21**: Auto update micro posts
+- **2025-01-21**: Auto update micro posts
+- **2025-01-21**: Auto update micro posts
+- **2025-01-20**: Auto update micro posts
+- **2025-01-20**: Auto update micro posts
+- **2025-01-20**: Auto update spotify tracks
+- **2025-01-20**: Auto update spotify tracks
+- **2025-01-19**: Auto update micro posts
+- **2025-01-19**: Auto update micro posts
+- **2025-01-19**: Auto update micro posts
+- **2025-01-19**: Auto update micro posts
+- **2025-01-18**: Auto update micro posts
+- **2025-01-18**: Auto update micro posts
+- **2025-01-18**: Auto update spotify tracks
+- **2025-01-17**: Auto update micro posts
+- **2025-01-17**: Auto update micro posts
+- **2025-01-15**: Updated note descriptions and titles for clarity 🎉🚀
+- **2025-01-16**: Auto update micro posts
+- **2025-01-16**: Auto update spotify tracks
+- **2025-01-15**: Auto update micro posts
+- **2025-01-15**: Auto update micro posts
+- **2025-01-15**: Auto update micro posts
+- **2025-01-14**: Merge pull request #92 from harperreed/better-grab-posts
+- **2025-01-14**: renamed the posts
+- **2025-01-14**: 🎉 Enhancements Galore! 🎉
+- **2025-01-14**: Refactor filename generation for posts to remove time component 🎉✨ - In `grab_micro_posts.py` and `rename_posts.py`, changed the base filename format from including time (`%Y-%m-%d-%H-%M`) to only date (`%Y-%m-%d`). - The change ensures that the filenames are simpler and easier to manage, eliminating conflicts caused by more granular timestamps 🙌. This should make it a hell of a lot easier to organize and find posts at a glance! - Updated item retrieval in `find_post_info` to return the original content HTML along with the ID and title for better archival retrieval in `rename_posts.py` 📚🎨.
+- **2025-01-14**: 🐉🚀 Change the hash generation to use the post URL instead of content! 🏷️🤯
+- **2025-01-14**: refactor: Standardize logging and environment configuration in rename_posts.py
+- **2025-01-14**: refactor: Standardize hash input generation using date.isoformat()
+- **2025-01-14**: refactor: Modify hash generation to exclude post URL for uniqueness
+- **2025-01-14**: feat: Update post title matching with archival feed and add debug logging
+- **2025-01-14**: Update notes directory path for post processing 🤖🔍
+- **2025-01-14**: fix: Correct logging variable from `current_id` to `post_id`
+- **2025-01-14**: feat: Add archival feed support for post ID retrieval in micro.blog scripts
+- **2025-01-14**: feat: Add utility script to rename existing posts with date and hash
+- **2025-01-14**: feat: Add incremental note IDs and improve note ID tracking logic
+- **2025-01-14**: feat: Update filename format to put date first in grab_micro_posts.py
+- **2025-01-14**: feat: Add hash-based ID to note titles in micro post generation script
+- **2025-01-14**: fix: Remove note ID references and simplify logging in Hugo post creation
+- **2025-01-14**: refactor: Replace note ID system with SHA-1 hash-based filenames
+- **2025-01-14**: Delete multiple unused notes and images, and update note IDs for consistency - Deleted several unused note files from `content/notes/2024-11-17-07-01-51-untitled` to `content/notes/2024-12-12-15-29-52-untitled`, including markdown and image files. - Updated note IDs in `content/notes/2024-11-21-17-03-27-untitled/index.md`, `content/notes/2024-11-21-21-35-07-untitled/index.md`, `content/notes/2024-11-21-21-36-00-untitled/index.md`, `content/notes/2024-11-21-21-44-52-untitled/index.md`, `content/notes/2024-12-02-21-09-25-untitled/index.md`, `content/notes/2024-12-03-18-49-49-untitled/index.md`, `content/notes/2024-12-04-13-59-15-untitled/index.md`, and several others. - The note IDs were reassigned to match deleted files to maintain a sequential order and to prevent ID conflicts in future additions.
+- **2025-01-15**: Auto update micro posts
+- **2025-01-15**: Auto update micro posts
+- **2025-01-15**: Auto update micro posts
+- **2025-01-14**: Auto update spotify tracks
+- **2025-01-13**: Auto update spotify tracks
+- **2025-01-12**: Add media section and fix image caption typo 🎉📚🎶
+- **2025-01-12**: 🎉 Updated params.toml with new feed sections! 🎉
+- **2025-01-12**: Add new task for auditing Hugo blog 🧐📋
 - **2025-01-12**: Updated headings and formatting in 2025-01-12.md 🎉📄
 - **2025-01-12**: Updated theme and improved media post description 🎨📖
 - **2025-01-12**: Add content for January 12, 2025
