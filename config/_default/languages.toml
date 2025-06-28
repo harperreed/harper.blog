@@ -26,8 +26,8 @@ languageCode = "es"
 weight = 3
 
 [es.params]
-description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
-subtitle = "Musing from a normal person doing normal things"
+description = "Algunos escritos de Harper Reed. Principalmente sobre tecnología, política y otras cosas"
+subtitle = "Reflexiones de una persona normal haciendo cosas normales"
 
 
 [ko]
@@ -37,9 +37,8 @@ languageCode = "ko"
 weight = 4
 
 [ko.params]
-description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
-subtitle = "Musing from a normal person doing normal things"
-
+description = "하퍼 리드가 쓴 글들. 주로 기술, 정치, 그리고 다양한 것들에 대해 씁니다"
+subtitle = "평범한 사람이 평범한 일을 하며 남기는 생각들"
 
 [zh]
 title = "哈珀·雷德的博客"
@@ -48,5 +47,49 @@ languageCode = "zh-CN"
 weight = 5
 
 [zh.params]
-description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
-subtitle = "Musing from a normal person doing normal things"
+description = "Harper Reed写的一些文章。主要关于技术、政治和其他事情"
+subtitle = "一个普通人做普通事情时的思考"
+
+# [it]
+# title = "Harper Reed's Blog"
+# languageName = "Italiano 🇮🇹"
+# languageCode = "it"
+# contentDir = "content"
+# weight = 7
+
+# [it.params]
+# description = "Alcuni scritti di Harper Reed. Principalmente su tecnologia, politica e altre cose"
+# subtitle = "Riflessioni di una persona normale che fa cose normali"
+
+# [fr]
+# title = "Blog de Harper Reed"
+# languageName = "Français 🇫🇷"
+# languageCode = "fr"
+# contentDir = "content"
+# weight = 8
+
+# [fr.params]
+# description = "Des écrits de Harper Reed. Principalement sur la technologie, la politique et d'autres choses"
+# subtitle = "Réflexions d'une personne normale qui fait des choses normales"
+
+# [de]
+# title = "Harper Reed's Blog"
+# languageName = "Deutsch 🇩🇪"
+# languageCode = "de"
+# contentDir = "content"
+# weight = 9
+
+# [de.params]
+# description = "Einige Schriften von Harper Reed. Hauptsächlich über Technologie, Politik und andere Dinge"
+# subtitle = "Denkungen einer normalen Person, die normaler Dinge macht"
+
+# [id]
+# title = "Harper Reed's Blog"
+# languageName = "Indonesia 🇮🇩"
+# languageCode = "id"
+# contentDir = "content"
+# weight = 10
+
+# [id.params]
+# description = "Beberapa tulisan dari Harper Reed. Utama tentang teknologi, politik, dan hal lainnya"
+# subtitle = "Pikiran dari seorang orang biasa yang melakukan hal-hal biasa"
