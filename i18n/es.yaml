@@ -1,0 +1,259 @@
+# i18n/en.yaml
+- id: prevpage
+  translation: "Página anterior"
+
+- id: nextpage
+  translation: "Página siguiente"
+
+- id: page
+  translation: "Página"
+
+- id: of
+  translation: "de"
+
+- id: nojscomments
+  translation: "Los comentarios requieren JavaScript. Actívalo en la configuración de tu navegador o usa uno que lo tenga habilitado para verlos."
+
+- id: 404title
+  translation: "404"
+
+- id: 404text
+  translation: "Página no encontrada. Comprueba la URL o vuelve a la página de inicio."
+
+- id: minutes
+  translation: "minutos"
+
+- id: words
+  translation: "palabras"
+
+- id: readmore
+  translation: "Leer más"
+
+- id: previousNows
+  translation: "Nows anteriores"
+
+- id: generated
+  translation: "Generado"
+
+- id: sendMeAn
+  translation: "Envíame un"
+
+- id: email
+  translation: "correo electrónico"
+
+- id: "on"
+  translation: "en"
+
+- id: copyright
+  translation: "Derechos de autor"
+
+- id: morePosts
+  translation: "Más entradas"
+
+- id: moreNotes
+  translation: "Más notas"
+
+- id: recentPosts
+  translation: "Entradas recientes"
+
+- id: recentNotes
+  translation: "Notas recientes"
+
+- id: posts
+  translation: "Entradas"
+
+- id: notes
+  translation: "Notas"
+
+- id: morePostsAria
+  translation: "Más entradas"
+
+- id: moreNotesAria
+  translation: "Más notas"
+
+- id: skipLinkAria
+  translation: "Saltar al contenido principal"
+
+- id: titleAria
+  translation: "Inicio"
+
+- id: backToNowAria
+  translation: "Volver al Now"
+
+- id: backToNotesAria
+  translation: "Volver a las notas"
+
+- id: backToLinksAria
+  translation: "Volver a los enlaces"
+
+# Missing keys used in templates
+- id: filtering-for
+  translation: "Filtrando por:"
+
+- id: no-posts
+  translation: "No se encontraron entradas"
+
+- id: no-notes
+  translation: "No se encontraron notas"
+
+- id: no-links
+  translation: "No se encontraron enlaces"
+
+- id: no-music
+  translation: "No se encontró música"
+
+- id: email-subject
+  translation: "Re: %s"
+
+- id: email-reply
+  translation: "Responder por correo electrónico"
+
+- id: skip-link
+  translation: "Saltar al contenido principal"
+
+# Navigation back links
+- id: back-to-now
+  translation: "Volver al Now"
+
+- id: back-to-notes
+  translation: "Volver a las notas"
+
+- id: back-to-links
+  translation: "Volver a los enlaces"
+
+- id: back-to-music
+  translation: "Volver a la música"
+
+- id: back-to-books
+  translation: "Volver a la lista de libros"
+
+- id: rss
+  translation: "RSS"
+
+- id: by
+  translation: "por"
+
+# Books template
+- id: book-cover-alt
+  translation: "Portada del libro"
+
+- id: my-rating
+  translation: "Mi valoración:"
+
+- id: reading-duration
+  translation: "Duración de la lectura: leído en"
+
+- id: days
+  translation: "días"
+
+- id: number-of-pages
+  translation: "Número de páginas:"
+
+- id: pages
+  translation: "Páginas"
+
+- id: read-this-book
+  translation: "Leer este libro"
+
+# Accessibility labels
+- id: page-title-aria
+  translation: "Título de la página"
+
+- id: note-images-aria
+  translation: "Imágenes de la nota"
+
+- id: date-aria
+  translation: "Fecha: %s"
+
+- id: tag-aria
+  translation: "Etiqueta: %s"
+
+- id: link-to-aria
+  translation: "Enlace a %s"
+
+- id: note-aria
+  translation: "Nota: %s"
+
+- id: avatar-aria
+  translation: "Avatar"
+
+- id: site-title-aria
+  translation: "Título del sitio"
+
+- id: main-nav-aria
+  translation: "Navegación principal"
+
+- id: send-email-aria
+  translation: "Enviar correo electrónico a %s"
+
+- id: list-recent-notes-aria
+  translation: "Lista de notas recientes"
+
+- id: permalink-note-aria
+  translation: "Enlace permanente a esta nota"
+
+# 404 page
+- id: maybe-check-out
+  translation: "Quizá quieras echar un vistazo a las entradas, notas o enlaces."
+
+# AI content notices
+- id: human-written
+  translation: "Esta entrada fue escrita en 98 % por un humano."
+
+- id: ai-generated-notice-intro
+  translation: "Aviso:"
+
+- id: ai-generated-notice
+  translation: "Esta entrada ha sido generada en gran parte por IA. Lo más probable es que el propio texto ya lo indique. Aunque la redactó un LLM, considero que refleja mis ideas; de lo contrario, no la habría publicado."
+
+# Out of date warnings
+- id: please-note
+  translation: "Ten en cuenta:"
+
+- id: post-old-warning
+  translation: "Esta entrada se escribió hace {{ . }} años."
+
+- id: young-author-note
+  translation: "Solo tenía {{ . }} años cuando se escribió esta entrada."
+
+- id: perspective-evolution
+  translation: "Mis perspectivas, conocimientos y opiniones pueden haber evolucionado considerablemente desde entonces. Aunque el contenido aún pueda ofrecer ideas valiosas, animo a los lectores a tener en cuenta la fecha de publicación."
+
+# Content formatting
+- id: by-parentheses
+  translation: "(por %s)"
+
+- id: by-author
+  translation: "por %s"
+
+- id: by-artist
+  translation: "por %s"
+
+# Counts
+- id: books-count
+  translation: "(%d libros)"
+
+- id: songs-count
+  translation: "(%d canciones)"
+
+# Additional accessibility
+- id: home-aria
+  translation: "Inicio"
+
+- id: avatar-alt
+  translation: "Avatar"
+
+- id: permalink-note-title
+  translation: "Enlace permanente a esta nota"
+
+- id: translations-available
+  translation: "Traducciones"
+
+- id: read-in-language
+  translation: "Leer esta entrada en %s"
+
+- id: also-available-in
+  translation: "También disponible en"
+
+- id: current-language
+  translation: "Idioma actual"
