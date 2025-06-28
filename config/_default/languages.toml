@@ -16,20 +16,26 @@ subtitle = "Musing from a normal person doing normal things"
 # weight = 3
 
 [ja]
-title = "Harper Reed's Blog"
+title = "ハーパー・リードのブログ"
 languageName = "日本語 🇯🇵"
 languageCode = "ja"
 weight = 2
 
 [ja.params]
-description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
-subtitle = "Musing from a normal person doing normal things"
+description = "Harper Reedによるいくつかの文章。主にテクノロジー、政治、その他のことについて"
+subtitle = "普通の人が普通のことを考える随想"
 
 # [ko]
 # title = "하퍼 리드의 블로그"
 # languageName = "한국어 🇰🇷"
 # languageCode = "ko"
 # weight = 4
+
+# [es]
+# title = "Blog de Harper Reed"
+# languageName = "Español 🇪🇸"
+# languageCode = "es"
+# weight = 3
 
 # # [zh]
 # title = "哈珀·雷德的博客"
