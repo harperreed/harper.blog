@@ -3,10 +3,10 @@ description: harper.blogの奥付
 hideReply: true
 menu:
     footer:
-        name: Colophon
+        name: コロフォン
         weight: 3
 nofeed: true
-title: colophon
+title: コロフォン
 translationKey: colophon
 type: special
 url: colophon
