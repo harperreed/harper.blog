@@ -4,6 +4,7 @@
     <a href="{{ .URL }}">{{ .Name }}</a>{{ if ne (add $index 1) (len $menuItems)
     }} &middot; {{ end }} {{ end }}
     <br />
+    <br />
     <nobr
         >{{ i18n "copyright" | default "Copyright" }} &copy; {{
         .Site.Params.Name }}</nobr
@@ -24,7 +25,6 @@
             >{{ i18n "email" | default "email" }}</a
         >
     </nobr>
-    <br />
     {{ partial "language-switcher.html" . }}
 </p>
 <script
