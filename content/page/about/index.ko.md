@@ -2,19 +2,18 @@
 description: harper.blog 소개 페이지
 hideReply: true
 menu:
-  footer:
-    name: About
-    weight: 2
-  main:
-    name: About
-    weight: 6
+    footer:
+        name: 안녕하세요
+        weight: 2
+    main:
+        name: 안녕하세요
+        weight: 6
 nofeed: true
-title: '안녕하세요
-
-  description: harper.blog 소개 페이지'
+title: "안녕하세요"
 translationKey: about
 type: special
 url: about
+slug: about
 weight: 3
 ---
 
@@ -24,7 +23,7 @@ weight: 3
 
 {{< image src="harper_portrait.webp" caption="접니다!" >}}
 
-저는 _컴퓨터 오퍼레이터_로, 뭔가 만들고 재밌는 짓 벌이고 인터넷에서 어슬렁거리며 노는 걸 좋아해요. 장난도 좋아합니다.
+저는 *컴퓨터 오퍼레이터*로, 뭔가 만들고 재밌는 짓 벌이고 인터넷에서 어슬렁거리며 노는 걸 좋아해요. 장난도 좋아합니다.
 
 저에 대해 더 알고 싶으시면 [harperreed.com](http://harperreed.com)을 방문해 주세요!
 

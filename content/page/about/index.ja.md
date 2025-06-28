@@ -13,6 +13,7 @@ title: こんにちは
 translationKey: about
 type: special
 url: about
+slug: about
 weight: 3
 ---
 

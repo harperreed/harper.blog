@@ -7,6 +7,7 @@ hideReply: true
 translationKey: "colophon"
 description: Colophon for harper.blog
 weight: 6
+slug: colophon
 menu:
     footer:
         name: Colophon
