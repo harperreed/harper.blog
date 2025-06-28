@@ -1,32 +1,32 @@
 ---
 bsky: https://bsky.app/profile/harper.lol/post/3loo3lnbmbi22
 date: 2025-05-08
-description: 워크플로 팁, 테스트 실천법, 실제 프로젝트 사례를 포함해 소프트웨어 개발에 Claude Code AI 어시스턴트를 활용하는
-  방법을 자세히 안내합니다. 방어적 코딩 전략, TDD, 팀 적용 방법을 다룹니다
+description:
+    워크플로 팁, 테스트 실천법, 실제 프로젝트 사례를 포함해 소프트웨어 개발에 Claude Code AI 어시스턴트를 활용하는
+    방법을 자세히 안내합니다. 방어적 코딩 전략, TDD, 팀 적용 방법을 다룹니다
 draft: false
 generateSocialImage: true
 tags:
-- ai
-- coding
-- claude
-- development
-- automation
-- testing
-- tdd
-- programming
-title: '클로드 코드 기초
-
-  description: 워크플로 팁, 테스트 실천법, 실제 프로젝트 사례를 포함해 소프트웨어 개발에 Claude Code AI 어시스턴트를 활용하는
-  방법을 자세히 안내합니다. 방어적 코딩 전략, TDD, 팀 적용 방법을 다룹니다'
+    - ai
+    - coding
+    - claude
+    - development
+    - automation
+    - testing
+    - tdd
+    - programming
+# title: "클로드 코드 기초"
+title: 클로드 코드 기초
+slug: basic-claude-code
 translationKey: Basic Claude Code
 ---
 
-나는 요즘 ‘에이전틱(Agentic) 코딩’에 푹 빠져 있다. 여러모로 *존나* 매력적이다.
+나는 요즘 ‘에이전틱(Agentic) 코딩’에 푹 빠져 있다. 여러모로 _존나_ 매력적이다.
 
 [그 원본 블로그 글](/2025/02/16/my-llm-codegen-workflow-atm/)을 올린 뒤 Claude 월드(land)에서는 우후죽순 일이 터져 나왔다.
 
-- Claude Code  
-- MCP  
+- Claude Code
+- MCP
 - etc
 
 내 워크플로우 얘기, 그리고 *내 방식을 베껴 써서 앞서 나갔다*는 내용의 이메일을 수백 통(wat; “뭐라고?” 싶은 숫자)이나 받았다. 몇몇 컨퍼런스에서 발표도 하고, 코드 생성(codegen) 수업도 몇 번 했다. 한 가지 깨달은 건—컴퓨터는 ‘codegen’을 ‘codeine’으로 자꾸 교정하더라. ㅋㅋ
@@ -39,14 +39,14 @@ translationKey: Basic Claude Code
 
 Claude Code는 내 워크플로우 글이 올라간 지 딱 여드레 만에 출시됐다. 예측한 대로 글의 상당 부분이 바로 구닥다리가 됐다. 나는 Aider에서 Claude Code로 갈아탄 뒤 뒤돌아본 적 없다. Aider도 좋고 용도는 분명하지만, 지금은 Claude Code 쪽이 더 쓸만하다.
 
-Claude Code는 강력하고, 전보다 *살벌하게* 겁나 비싸다.
+Claude Code는 강력하고, 전보다 _살벌하게_ 겁나 비싸다.
 
 내 워크플로우는 예전과 거의 같다.
 
-- 아이디어는 `gpt-4o`랑 수다 떨면서 갈고닦는다.  
-- 사양(spec)은 최고 추론 모델로 뽑아낸다. 요즘은 o1-pro나 o3(도대체 o1-pro가 더 나은 걸까, 아니면 오래 걸려서 그렇게 느끼는 걸까?).  
-- 같은 모델로 프롬프트(prompt)도 짜게 한다. LLM에게 프롬프트를 쓰게 하는 건 정말 기가 막힌 해킹이다. 그러면 붐머들 혈압이 치솟는다.  
-- `spec.md`와 `prompt_plan.md`를 프로젝트 최상위 경로에 저장한다.  
+- 아이디어는 `gpt-4o`랑 수다 떨면서 갈고닦는다.
+- 사양(spec)은 최고 추론 모델로 뽑아낸다. 요즘은 o1-pro나 o3(도대체 o1-pro가 더 나은 걸까, 아니면 오래 걸려서 그렇게 느끼는 걸까?).
+- 같은 모델로 프롬프트(prompt)도 짜게 한다. LLM에게 프롬프트를 쓰게 하는 건 정말 기가 막힌 해킹이다. 그러면 붐머들 혈압이 치솟는다.
+- `spec.md`와 `prompt_plan.md`를 프로젝트 최상위 경로에 저장한다.
 - 그리고 Claude Code에 이렇게 입력한다:
 
 ```prompt
@@ -62,8 +62,8 @@ Claude Code는 강력하고, 전보다 *살벌하게* 겁나 비싸다.
 4. Repeat with the next unfinished prompt as directed by the user.
 ```
 
-- 이 프롬프트의 묘미는 `prompt_plan.md`를 열어 “완료 표시 안 된 항목”을 찾은 다음, *가장 먼저 남아 있는* 작업을 처리한다는 점이다. Git에 커밋하고 `prompt_plan.md`에 완료 체크까지 해 둔 뒤, 멈춰서 사용자 리뷰·피드백을 기다리고 “계속할까요?”를 묻는다. 🤌  
-- 나는 의자 뒤로 기대 “yes”만 치면 된다. 피드백 타임이 오면 마법이 펼쳐진다.  
+- 이 프롬프트의 묘미는 `prompt_plan.md`를 열어 “완료 표시 안 된 항목”을 찾은 다음, _가장 먼저 남아 있는_ 작업을 처리한다는 점이다. Git에 커밋하고 `prompt_plan.md`에 완료 체크까지 해 둔 뒤, 멈춰서 사용자 리뷰·피드백을 기다리고 “계속할까요?”를 묻는다. 🤌
+- 나는 의자 뒤로 기대 “yes”만 치면 된다. 피드백 타임이 오면 마법이 펼쳐진다.
 - 그동안 쿠키 클릭커나 더 돌리면서 손가락만 까딱하면 된다.
 
 이 방식, 기가 막히게 잘 먹힌다. 여기에 몇 가지 ‘슈퍼파워’를 더하면 효과가 훨씬 커진다.
@@ -74,11 +74,11 @@ Claude Code는 강력하고, 전보다 *살벌하게* 겁나 비싸다.
 
 테스트, 특히 테스트 주도 개발(TDD)은 필수다. 정말, 빡세게 TDD 습관을 들이길 권한다.
 
-나도 한때 TDD 혐오자였다. 서툴렀고, 시간 낭비 같았다. 완전 착각이었다. ㅋㅋ 지난 수십 년 동안 회사와 프로젝트에 테스트를 잔뜩 달아 왔지만, 대개는 핵심 기능을 만든 *뒤에* 테스트를 붙였다. 사람한텐 그럭저럭 괜찮다.
+나도 한때 TDD 혐오자였다. 서툴렀고, 시간 낭비 같았다. 완전 착각이었다. ㅋㅋ 지난 수십 년 동안 회사와 프로젝트에 테스트를 잔뜩 달아 왔지만, 대개는 핵심 기능을 만든 _뒤에_ 테스트를 붙였다. 사람한텐 그럭저럭 괜찮다.
 
 **로봇한텐 최악이다.**
 
-로봇들은 TDD를 *게걸스럽게* 받아먹는다.
+로봇들은 TDD를 _게걸스럽게_ 받아먹는다.
 
 TDD를 쓰면 로봇 친구가 테스트와 모의(mock) 객체를 먼저 짜고, 다음 프롬프트에서 그 모의를 실제 구현으로 바꾼다. 내가 찾은 환각·스코프 드리프트 방지책 중 가장 효과적이다. 로봇이 한눈 안 팔고 일한다.
 
@@ -92,13 +92,13 @@ TDD를 쓰면 로봇 친구가 테스트와 모의(mock) 객체를 먼저 짜고
 
 ### Pre-commit 훅
 
-진짜 마법은 이 모든 작업을 pre-commit 훅에 넣는 것이다. Python 패키지 `pre-commit`을 `uv tools install pre-commit` 한 줄로 깔고 `.pre-commit-config.yaml`만 작성하면 끝. 커밋할 때마다 테스트·타입 검증·린트가 돌아서 코드가 A+++ 등급이라 *언제든 다시 돌려도 될* 정도로 깔끔하게 유지된다.
+진짜 마법은 이 모든 작업을 pre-commit 훅에 넣는 것이다. Python 패키지 `pre-commit`을 `uv tools install pre-commit` 한 줄로 깔고 `.pre-commit-config.yaml`만 작성하면 끝. 커밋할 때마다 테스트·타입 검증·린트가 돌아서 코드가 A+++ 등급이라 _언제든 다시 돌려도 될_ 정도로 깔끔하게 유지된다.
 
 Claude Code와 함께 쓰면 더욱 쾌적하다. 로봇은 *커밋하고 싶어 몸이 근질근질*하다. “코드 짜고 커밋해”라고 시키면 로봇은 코드를 마구 갈아엎고 커밋하고, 깨진 걸 다시 고친다.
 
 덕분에 GitHub Actions가 린트·포맷 실패 로그로 범람하지 않는다.
 
-> 웃긴 점 하나: Claude는 `uv`를 *도저히* 제대로 못 쓴다. 방심하면 `pip install`을 난사한다. `uv`를 쓰라고 지시해도 결국 `uv pip install`만 반복한다. AGI가 6월에 온다더니 글렀나. 슬프다.
+> 웃긴 점 하나: Claude는 `uv`를 _도저히_ 제대로 못 쓴다. 방심하면 `pip install`을 난사한다. `uv`를 쓰라고 지시해도 결국 `uv pip install`만 반복한다. AGI가 6월에 온다더니 글렀나. 슬프다.
 
 ### CLAUDE.md와 commands
 
@@ -108,9 +108,9 @@ Claude Code와 함께 쓰면 더욱 쾌적하다. 로봇은 *커밋하고 싶어
 
 나는 친구 [Jesse Vincent](https://fsck.com/)이 [피 땀 흘려 만든](https://github.com/obra/dotfiles/blob/main/.claude/CLAUDE.md) [CLAUDE.md](https://github.com/harperreed/dotfiles/blob/master/.claude/CLAUDE.md)를 슬쩍 훔쳐 쓴다. 주요 내용은 다음과 같다.
 
-- Big Daddy Rule의 라이트 버전  
-- TDD 가이드  
-- 내가 선호하는 코딩 스타일  
+- Big Daddy Rule의 라이트 버전
+- TDD 가이드
+- 내가 선호하는 코딩 스타일
 
 > [@clint](https://instagram.com/clintecker)은 CLAUDE.md에서 자길 ‘MR BEEF’라 부르도록 해 두었는데, 덕분에 문서마다 “막히면 MR BEEF에게 물어봐”라는 문구가 삽입되고 있다. 이 글을 쓰다가 나도 ‘Harp Dog’로 바꿨다. 기능이지 버그 아니다.
 

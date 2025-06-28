@@ -14,6 +14,7 @@ tags:
 title: Basic Claude Code
 generateSocialImage: true
 translationKey: Basic Claude Code
+slug: basic-claude-code
 bsky: https://bsky.app/profile/harper.lol/post/3loo3lnbmbi22
 ---
 

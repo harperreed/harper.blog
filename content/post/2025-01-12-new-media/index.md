@@ -14,6 +14,7 @@ tags:
     - web-development
 title: New Media
 translationKey: new-media
+slug: new-media
 bsky: https://bsky.app/profile/harper.lol/post/3lflrbeqy4s2u
 ---
 

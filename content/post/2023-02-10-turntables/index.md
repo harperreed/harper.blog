@@ -1,35 +1,36 @@
 ---
 date: 2023-02-10
-description: Dive into the world of turntables with a seasoned audiophile's comprehensive
-  guide. Discover detailed insights on the Pro-Ject Debut Carbon EVO turntable, various
-  setup options like preamps, amps, and streaming setups, along with personal recommendations
-  for creating the perfect vinyl listening experience. Learn about quality gear choices,
-  from the Schitt Mani preamp to the Bluesound streaming setup, and get practical
-  advice on accessories like record storage solutions. Whether you're a vinyl veteran
-  or new to the scene, this guide offers a genuine, knowledgeable perspective on enjoying
-  music through turntables.
+description:
+    Dive into the world of turntables with a seasoned audiophile's comprehensive
+    guide. Discover detailed insights on the Pro-Ject Debut Carbon EVO turntable, various setup options like preamps, amps, and streaming setups, along with personal recommendations
+    for creating the perfect vinyl listening experience. Learn about quality gear choices,
+    from the Schitt Mani preamp to the Bluesound streaming setup, and get practical
+    advice on accessories like record storage solutions. Whether you're a vinyl veteran
+    or new to the scene, this guide offers a genuine, knowledgeable perspective on enjoying
+    music through turntables.
 draft: false
 tags:
-- turntables
-- audio-equipment
-- vinyl-records
-- music
-- home-audio
+    - turntables
+    - audio-equipment
+    - vinyl-records
+    - music
+    - home-audio
 title: Some thoughts about turntables
+slug: some-thoughts-about-turntables
 translationKey: Some thoughts about turntables
 ---
 
 I wrote this for a few friends awhile ago and thought maybe it would be helpful for some more folks.
 
 # Some thoughts about turntables
-I did a LOT of research around this about a year ago. I thought it would be helpful to write up my notes.
 
+I did a LOT of research around this about a year ago. I thought it would be helpful to write up my notes.
 
 {{< image caption="" src="https://i.imgur.com/CKTvZ5a.jpg" >}}
 
 ^^ my two record stands from etsy, and my pro-ject debut carbon. Underneath the stands are a sonos port, and a Schitt Mani preamp. Works super.
 
-----
+---
 
 ## The turntable
 
@@ -67,9 +68,6 @@ There are a handful of options for "good stuff":
 
 There are so many options. I really like NAD. You can get a good "receiver" that has a phono stage for about $500. For example the NAD C 316BEE is very nice.
 
-
-
-
 #### Components
 
 This is how i typically do it:
@@ -78,7 +76,6 @@ This is how i typically do it:
 2. Project Stereo Box S2 - $300
 
 Both are super tiny and inexpensive. Dedicated hardware will be super nice. Easy to use. Super light and chill. Will sound amazing
-
 
 #### Speakers are complicated.
 
@@ -111,8 +108,7 @@ A couple of options:
 
 Another option around bluesound is that you could buy a new receiver that supports bluOS and use the hub without a Node. The [NAD T 758 V3i](https://www.crutchfield.com/S-d3k3RmKVQcF/p_745T758V3I/NAD-T-758-V3i.html) ($1600) would replace your receiver and have bluOS built right in. Then you could just have the hub to stream the turntable to your receiver. The receiver would support bluos and thus be controled by wifi, etc. Also supports a lot of other standards directly.
 
-----
-
+---
 
 ## My recommendation
 
@@ -179,7 +175,6 @@ So many makers are doing really great work around building solid record holders,
 
 I bought two of [DKVinylDisplay's](https://www.etsy.com/shop/DKVinylDisplays) record holders for my desk setup. They are super nice and not so expensive. They fit into our living space more than the crates and are colorful and have style. He has a lot of different models and shapes. I really like his stuff and would order from him again.
 
-
 There are hundreds of vendors there. Make sure you look at the reviews. A lot of folks are just reselling chinese made furniture. It isn't going to hold up and will be almost the same amount as the bespoke stuff.
 
 #### Audiophile brands
@@ -193,7 +188,6 @@ You can get very simple consoles that will hold everything you need (especially 
 I am really impressed with their products. I will most likely get one for my office to protect my records a bit, and hide my amps and what not. I can also get them to match my ridiculous speakers.
 
 The downside is that they are quite expensive. The above version is $2500!
-
 
 ---
 

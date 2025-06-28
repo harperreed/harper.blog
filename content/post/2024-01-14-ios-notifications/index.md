@@ -1,19 +1,18 @@
 ---
 date: 2024-01-14
-description: Manage your iOS device notifications effectively with Focus modes and
-  Scheduled Summaries. Customize Focus modes for different scenarios like work, personal
-  time, or sleep, allowing only important notifications. Use Scheduled Summaries to
-  bundle less critical notifications for convenient review at set times. This approach
-  streamlines your notification experience, reducing distractions and enhancing productivity.
+description:
+    Manage your iOS device notifications effectively with Focus modes and
+    Scheduled Summaries. Customize Focus modes for different scenarios like work, personal time, or sleep, allowing only important notifications. Use Scheduled Summaries to bundle less critical notifications for convenient review at set times. This approach streamlines your notification experience, reducing distractions and enhancing productivity.
 draft: false
 generateSocialImage: true
 tags:
-- ios
-- notifications
-- productivity
-- focus-modes
-- digital-wellbeing
+    - ios
+    - notifications
+    - productivity
+    - focus-modes
+    - digital-wellbeing
 title: How to easily handle the deluge of iOS notifications
+slug: how-to-easily-handle-the-deluge-of-ios-notifications
 translationKey: How to easily handle the deluge of iOS notifications
 ---
 

@@ -11,6 +11,7 @@ tags:
     - technology
 title: "Our Office Avatar pt 1: The office is talking shit again"
 translationKey: "Our Office Avatar pt 1: The office is talking shit again"
+slug: our-office-avatar-pt-1-the-office-is-talking-shit-again
 ---
 
 **tl;dr:** _いろんなセンサーと LLM をゴッソリ突っ込んで、オフィスが俺たち——そう、あんたも含めた **us**——に「いま何が起きてるか」しゃべり倒すようにしたぜ。記事は長いけど内容はシンプル。リアルライフで LLM をどうブッ込んでるかの実例だ。_

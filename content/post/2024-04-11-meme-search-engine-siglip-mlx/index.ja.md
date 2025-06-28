@@ -11,8 +11,9 @@ tags:
     - applied-ai
     - siglip
     - image-search
-title: I accidentally built a meme search engine
+title: うっかりミーム検索エンジンを作ってしまった
 translationKey: I accidentally built a meme search engine
+slug: i-accidentally-built-a-meme-search-engine
 ---
 
 ## 別名：CLIP/SigLIP と画像ベクトルエンコーディングを学ぶ方法

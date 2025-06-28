@@ -1,0 +1,259 @@
+# i18n/en.yaml
+- id: prevpage
+  translation: "이전 페이지"
+
+- id: nextpage
+  translation: "다음 페이지"
+
+- id: page
+  translation: "페이지"
+
+- id: of
+  translation: "중"
+
+- id: nojscomments
+  translation: "댓글을 보려면 JavaScript가 필요합니다. 브라우저 설정에서 JavaScript를 활성화하거나 JavaScript를 지원하는 브라우저를 사용해 주세요."
+
+- id: 404title
+  translation: "404"
+
+- id: 404text
+  translation: "요청하신 페이지를 찾을 수 없습니다. URL을 확인하시거나 홈페이지로 돌아가십시오."
+
+- id: minutes
+  translation: "분"
+
+- id: words
+  translation: "단어"
+
+- id: readmore
+  translation: "더 보기"
+
+- id: previousNows
+  translation: "이전 Now"
+
+- id: generated
+  translation: "생성됨:"
+
+- id: sendMeAn
+  translation: "이메일을"
+
+- id: email
+  translation: "보내주세요"
+
+- id: "on"
+  translation: "에"
+
+- id: copyright
+  translation: "저작권"
+
+- id: morePosts
+  translation: "더 많은 글"
+
+- id: moreNotes
+  translation: "더 많은 노트"
+
+- id: recentPosts
+  translation: "최근 글"
+
+- id: recentNotes
+  translation: "최근 노트"
+
+- id: posts
+  translation: "글"
+
+- id: notes
+  translation: "노트"
+
+- id: morePostsAria
+  translation: "더 많은 글"
+
+- id: moreNotesAria
+  translation: "더 많은 노트"
+
+- id: skipLinkAria
+  translation: "메인 콘텐츠로 건너뛰기"
+
+- id: titleAria
+  translation: "홈"
+
+- id: backToNowAria
+  translation: "Now 페이지로 돌아가기"
+
+- id: backToNotesAria
+  translation: "노트 페이지로 돌아가기"
+
+- id: backToLinksAria
+  translation: "링크 페이지로 돌아가기"
+
+# Missing keys used in templates
+- id: filtering-for
+  translation: "다음 조건으로 필터링:"
+
+- id: no-posts
+  translation: "글을 찾을 수 없습니다"
+
+- id: no-notes
+  translation: "노트를 찾을 수 없습니다"
+
+- id: no-links
+  translation: "링크를 찾을 수 없습니다"
+
+- id: no-music
+  translation: "음악을 찾을 수 없습니다"
+
+- id: email-subject
+  translation: "Re: %s"
+
+- id: email-reply
+  translation: "이메일로 회신"
+
+- id: skip-link
+  translation: "메인 콘텐츠로 건너뛰기"
+
+# Navigation back links
+- id: back-to-now
+  translation: "Now 페이지로 돌아가기"
+
+- id: back-to-notes
+  translation: "노트 페이지로 돌아가기"
+
+- id: back-to-links
+  translation: "링크 페이지로 돌아가기"
+
+- id: back-to-music
+  translation: "음악 목록으로 돌아가기"
+
+- id: back-to-books
+  translation: "도서 목록으로 돌아가기"
+
+- id: rss
+  translation: "RSS 피드"
+
+- id: by
+  translation: "저자"
+
+# Books template
+- id: book-cover-alt
+  translation: "책 표지"
+
+- id: my-rating
+  translation: "내 평점:"
+
+- id: reading-duration
+  translation: "읽는 데 걸린 시간:"
+
+- id: days
+  translation: "일"
+
+- id: number-of-pages
+  translation: "쪽수:"
+
+- id: pages
+  translation: "쪽"
+
+- id: read-this-book
+  translation: "이 책 읽어보기"
+
+# Accessibility labels
+- id: page-title-aria
+  translation: "페이지 제목"
+
+- id: note-images-aria
+  translation: "노트에 포함된 이미지"
+
+- id: date-aria
+  translation: "작성일: %s"
+
+- id: tag-aria
+  translation: "태그: %s"
+
+- id: link-to-aria
+  translation: "%s 링크"
+
+- id: note-aria
+  translation: "노트: %s"
+
+- id: avatar-aria
+  translation: "아바타"
+
+- id: site-title-aria
+  translation: "사이트 제목"
+
+- id: main-nav-aria
+  translation: "메인 메뉴"
+
+- id: send-email-aria
+  translation: "%s에게 이메일 보내기"
+
+- id: list-recent-notes-aria
+  translation: "최근 노트 목록"
+
+- id: permalink-note-aria
+  translation: "이 노트의 퍼머링크"
+
+# 404 page
+- id: maybe-check-out
+  translation: "글, 노트 또는 링크를 확인해 보세요."
+
+# AI content notices
+- id: human-written
+  translation: "이 글의 98%는 사람이 작성했습니다."
+
+- id: ai-generated-notice-intro
+  translation: "알림:"
+
+- id: ai-generated-notice
+  translation: "이 게시물은 대부분 AI가 작성했습니다. 본문에서도 이 사실을 명시했습니다. LLM이 생성했지만, 제 신념을 반영한다고 판단했기에 게시했습니다."
+
+# Out of date warnings
+- id: please-note
+  translation: "주의:"
+
+- id: post-old-warning
+  translation: "이 게시물은 작성된 지 오래되었습니다 ({{ . }}년 전)."
+
+- id: young-author-note
+  translation: "이 글을 작성할 당시 저는 {{ . }}살이었습니다."
+
+- id: perspective-evolution
+  translation: "제 관점, 지식, 의견은 그동안 크게 바뀌었을 수 있습니다. 내용이 여전히 도움이 될 수 있지만, 작성 시점을 고려해 읽어 주세요."
+
+# Content formatting
+- id: by-parentheses
+  translation: "(%s 지음)"
+
+- id: by-author
+  translation: "저자: %s"
+
+- id: by-artist
+  translation: "아티스트: %s"
+
+# Counts
+- id: books-count
+  translation: "(%d권)"
+
+- id: songs-count
+  translation: "(%d곡)"
+
+# Additional accessibility
+- id: home-aria
+  translation: "홈"
+
+- id: avatar-alt
+  translation: "프로필 사진"
+
+- id: permalink-note-title
+  translation: "이 노트의 퍼머링크"
+
+- id: translations-available
+  translation: "사용 가능한 번역"
+
+- id: read-in-language
+  translation: "이 글을 %s로 읽기"
+
+- id: also-available-in
+  translation: "다음 언어로도 제공:"
+
+- id: current-language
+  translation: "언어"

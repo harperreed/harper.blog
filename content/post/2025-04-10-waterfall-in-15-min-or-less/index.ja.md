@@ -17,7 +17,8 @@ tags:
     - development-practices
     - productivity
     - automation
-title: Waterfall in 15 Minutes or Your Money Back
+title: 15分でウォーターフォール、できなければ全額返金
+slug: waterfall-in-15-minutes-or-your-money-back
 translationKey: Waterfall in 15 Minutes or Your Money Back
 ---
 

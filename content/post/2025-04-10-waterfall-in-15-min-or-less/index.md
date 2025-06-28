@@ -1,25 +1,27 @@
 ---
 date: 2025-04-10
-description: An exploration of how AI is accelerating traditional development methods
-  into rapid, 15-minute waterfall cycles, transforming software engineering workflows
-  and team dynamics.
+description:
+    An exploration of how AI is accelerating traditional development methods
+    into rapid, 15-minute waterfall cycles, transforming software engineering workflows
+    and team dynamics.
 draft: false
 generateSocialImage: true
 generated: true
 tags:
-- llm
-- large-language-models
-- code-generation
-- ai
-- artificial-intelligence
-- coding
-- programming
-- workflow
-- software-development
-- development-practices
-- productivity
-- automation
+    - llm
+    - large-language-models
+    - code-generation
+    - ai
+    - artificial-intelligence
+    - coding
+    - programming
+    - workflow
+    - software-development
+    - development-practices
+    - productivity
+    - automation
 title: Waterfall in 15 Minutes or Your Money Back
+slug: waterfall-in-15-minutes-or-your-money-back
 translationKey: Waterfall in 15 Minutes or Your Money Back
 ---
 

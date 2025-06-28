@@ -11,7 +11,8 @@ tags:
     - travel
     - music
     - photography
-title: 2024 in the rear view
+title: 2024年を振り返って
+slug: 2024-in-the-rear-view
 translationKey: 2024 in the rear view
 ---
 
