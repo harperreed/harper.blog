@@ -1,10 +1,10 @@
 ---
-draft: false
+draft: true
 lastmod: "2017-12-04"
 nofeed: true
-title: Links
+title: Enlaces
 translationKey: Links
 url: media/links
 ---
 
-Articles and links that I found interesting.
+Artículos y enlaces que me resultaron interesantes.
