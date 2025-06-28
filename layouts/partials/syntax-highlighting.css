@@ -1,0 +1,2 @@
+{{/* Generate Hugo syntax highlighting CSS using the configured style */}}
+{{ (resources.Get "css/syntax.css" | default (hugo.HighlightCSS .Site.Params.highlightStyle | default (hugo.HighlightCSS "monokai"))) | safeCSS }}

@@ -24,3 +24,22 @@
         rel="stylesheet"
     />
  {{ end }}
+
+{{/* Hugo syntax highlighting CSS */}}
+{{ $syntaxCSS := hugo.HighlightCSS "monokai" }}
+{{ $syntax := resources.FromString "css/syntax.css" $syntaxCSS }}
+{{ if hugo.IsProduction }}
+    {{ $syntax = $syntax | minify | resources.Fingerprint "sha512" }}
+{{ else }}
+    {{ $syntax = $syntax | resources.Fingerprint "sha512" }}
+{{ end }}
+<link
+    rel="preload"
+    href="{{ $syntax.RelPermalink }}"
+    as="style"
+/>
+<link
+    href="{{ $syntax.RelPermalink }}"
+    integrity="{{ $syntax.Data.Integrity }}"
+    rel="stylesheet"
+/>
