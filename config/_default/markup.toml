@@ -1,7 +1,7 @@
 
 ############################ Markup ##############################
 [goldmark.renderer]
-unsafe = false
+unsafe = true
 
 [highlight]
 style = 'monokai' # see https://xyproto.github.io/splash/docs/all.html
