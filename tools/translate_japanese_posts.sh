@@ -187,8 +187,8 @@ translate_posts() {
         
         print_status "Translating $post_name: English → $language"
         
-        # Translate the English file (completely headless mode)
-        if yes "" | timeout 300 translator "$english_file" "$language" -o "$target_file" --no-edit --no-critique >/dev/null 2>&1; then
+        # Translate the English file (headless mode)
+        if translator "$english_file" "$language" -o "$target_file" --headless; then
             print_success "✓ Translated $post_name"
             ((success_count++))
         else
