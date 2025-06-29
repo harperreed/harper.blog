@@ -1,26 +1,21 @@
 ---
 date: 2024-03-11 11:04:11-05:00
-description: He transformado mi proceso de commits en Git usando una IA para generar
-  automáticamente mensajes significativos. Esta configuración implica una ingeniosa
-  integración de la CLI de LLM y los hooks de Git, lo que me ahorra tiempo. Ahora
-  puedo largarme mientras los robots documentan mis commits
+description:
+    He transformado mi proceso de commits en Git usando una IA para generar
+    automáticamente mensajes significativos. Esta configuración implica una ingeniosa
+    integración de la CLI de LLM y los hooks de Git, lo que me ahorra tiempo. Ahora
+    puedo largarme mientras los robots documentan mis commits
 draft: false
 generateSocialImage: true
 slug: use-an-llm-to-automagically-generate-meaningful-git-commit-messages
 tags:
-- git
-- llm
-- commit-messages
-- programming
-- automation
-- source-code-management
-title: 'Utiliza un LLM para generar automágicamente mensajes de commit significativos
-  en Git
-
-  description: He transformado mi proceso de commits en Git usando una IA para generar
-  automáticamente mensajes significativos. Esta configuración implica una ingeniosa
-  integración de la CLI de LLM y los hooks de Git, lo que me ahorra tiempo. Ahora
-  puedo largarme mientras los robots documentan mis commits'
+    - git
+    - llm
+    - commit-messages
+    - programming
+    - automation
+    - source-code-management
+title: "Utiliza un LLM para generar automágicamente mensajes de commit significativos en Git"
 translationKey: Use an llm to automagically generate meaningful git commit messages
 ---
 
@@ -43,9 +38,9 @@ gpt = "!f() { git diff $1 | sgpt 'Write concise, informative commit messages: St
 
 Pero yo quería usar la CLI de Simon, [`llm`](https://llm.datasette.io/en/stable/), en lugar de Shell GPT. `llm` admite muchos más modelos y puede usar modelos locales, MLX, etc.
 
-También quería que el *prompt* estuviera guardado externamente para poder iterar sin tener que volver a toquetear el `.gitconfig` una y otra vez.
+También quería que el _prompt_ estuviera guardado externamente para poder iterar sin tener que volver a toquetear el `.gitconfig` una y otra vez.
 
-Así que coloqué mi *prompt* en `~/.config/prompts/git-commit-message.txt`. Este es el *prompt*:
+Así que coloqué mi _prompt_ en `~/.config/prompts/git-commit-message.txt`. Este es el _prompt_:
 
 ```text
 Write short commit messages:
@@ -209,11 +204,11 @@ echo "$commit_msg" > "$1"
 
 (ChatGPT añadió la documentación)
 
-¡Funciona! ¡Tiene un *spinner*! ¡Captura errores! ¡Y además se ve bonito!
+¡Funciona! ¡Tiene un _spinner_! ¡Captura errores! ¡Y además se ve bonito!
 
 ![](/images/posts/llm-commit-hook.gif)
 
-Ahora, cada vez que hago un commit sin mensaje, el hook se ejecuta y envía el `diff` de los cambios a la CLI `llm` con el *prompt* del sistema previamente definido. ¡El resultado queda genial!
+Ahora, cada vez que hago un commit sin mensaje, el hook se ejecuta y envía el `diff` de los cambios a la CLI `llm` con el _prompt_ del sistema previamente definido. ¡El resultado queda genial!
 
 ```text
 🤖💬 AI-powered git commit messages FTW! 🚀🎉
@@ -253,13 +248,13 @@ llm models default gpt-4-turbo
 
 (La CLI `llm` es increíble. Admite un montón de modelos —incluidos locales— y distintos contextos. Vale la pena explorarlo, sin duda).
 
-### 2. Crea un directorio para tus *prompts*
+### 2. Crea un directorio para tus _prompts_
 
 ```bash
 mkdir -p ~/.config/prompts
 ```
 
-### 3. Añade tu *prompt* de sistema
+### 3. Añade tu _prompt_ de sistema
 
 El hook buscará en `~/.config/prompts/commit-system-prompt.txt`. Crea el archivo con este contenido:
 
@@ -283,7 +278,7 @@ Summary of changes
 What you write will be passed directly to git commit -m "[message]"
 ```
 
-Este *prompt* me funciona de lujo, pero si se te ocurren mejoras, ¡avísame! Lo considero la versión v0.
+Este _prompt_ me funciona de lujo, pero si se te ocurren mejoras, ¡avísame! Lo considero la versión v0.
 
 ### 4. Crea un directorio para tus hooks globales de Git
 
@@ -401,7 +396,7 @@ git config --global core.hooksPath ~/.git_hooks
 
 Ese último comando establece la opción de configuración `core.hooksPath` para que apunte a `~/.git_hooks`.
 
-Ahora, cada vez que ejecutes `git commit` en cualquiera de tus repositorios, Git lanzará el hook global `prepare-commit-msg`. El hook generará el mensaje en base a los cambios ya preparados (*staged*) usando `llm` y el *prompt* en `~/.config/prompts/commit-system-prompt.txt`.
+Ahora, cada vez que ejecutes `git commit` en cualquiera de tus repositorios, Git lanzará el hook global `prepare-commit-msg`. El hook generará el mensaje en base a los cambios ya preparados (_staged_) usando `llm` y el _prompt_ en `~/.config/prompts/commit-system-prompt.txt`.
 
 Con un hook global tienes la funcionalidad en todos tus repos sin configurarla uno por uno.
 
@@ -409,7 +404,7 @@ Asegúrate de tener la CLI `llm` y el archivo `~/.config/prompts/commit-system-p
 
 Prepara tus cambios con `git add` o `git add -p`, y luego ejecuta `git commit`. El hook generará el mensaje automáticamente, listo para que lo revises antes de confirmar.
 
-Si quieres omitir la generación del mensaje con LLM, simplemente añade tu propio mensaje:  
+Si quieres omitir la generación del mensaje con LLM, simplemente añade tu propio mensaje:
 
 ```bash
 git commit -m "fixed issue #420"
