@@ -6,15 +6,13 @@ draft: false
 generateSocialImage: true
 slug: my-llm-codegen-workflow-atm
 tags:
-- LLM
-- coding
-- ai
-- workflow
-- software-development
-- productivity
-title: '현재 나의 LLM 코드 생성 워크플로우
-
-  description: 브레인스토밍부터 기획과 실행까지, LLM을 활용해 소프트웨어를 개발하는 현재 나의 워크플로우를 자세히 안내합니다.'
+    - LLM
+    - coding
+    - ai
+    - workflow
+    - software-development
+    - productivity
+title: "현재 나의 LLM 코드 생성 워크플로우"
 translationKey: My LLM codegen workflow atm
 ---
 
@@ -36,7 +34,7 @@ LLM으로 자잘한 제품을 정말 많이 만들어 왔다. 재미있고 유�
 
 개발 상황은 대체로 두 가지다.
 
-- 그린필드(완전 신규) 코드  
+- 그린필드(완전 신규) 코드
 - 레거시(기존) 코드
 
 두 경우 모두 내가 쓰는 과정을 보여 주겠다.
@@ -125,13 +123,13 @@ Can you make a `todo.md` that I can use as a checklist? Be thorough.
 
 작업 흐름은 대략 이렇다.
 
-- 저장소 초기화(보일러플레이트, `uv init`, `cargo init` 등)  
-- Claude에 프롬프트 붙여넣기  
-- Claude가 생성한 코드를 IDE에 붙여넣기  
-- 코드·테스트 실행  
-- …  
-- 잘되면 다음 프롬프트  
-- 안 되면 repomix + Claude로 디버깅  
+- 저장소 초기화(보일러플레이트, `uv init`, `cargo init` 등)
+- Claude에 프롬프트 붙여넣기
+- Claude가 생성한 코드를 IDE에 붙여넣기
+- 코드·테스트 실행
+- …
+- 잘되면 다음 프롬프트
+- 안 되면 repomix + Claude로 디버깅
 - 같은 과정을 반복 ✩₊˚.⋆☾⋆⁺₊✧
 
 ### Aider
@@ -144,13 +142,13 @@ Aider는 테스트 스위트까지 실행하며 스스로 디버깅하기 때문
 
 작업 흐름은 비슷하다.
 
-- 저장소 초기화(보일러플레이트, `uv init`, `cargo init` 등)  
-- Aider 실행  
-- 프롬프트 붙여넣기  
-- Aider 춤 감상 ♪┏(・o･)┛♪  
-- Aider가 테스트 실행, 또는 직접 앱 실행  
-- 잘되면 다음 프롬프트  
-- 안 되면 Aider와 Q&A  
+- 저장소 초기화(보일러플레이트, `uv init`, `cargo init` 등)
+- Aider 실행
+- 프롬프트 붙여넣기
+- Aider 춤 감상 ♪┏(・o･)┛♪
+- Aider가 테스트 실행, 또는 직접 앱 실행
+- 잘되면 다음 프롬프트
+- 안 되면 Aider와 Q&A
 - 같은 과정을 반복 ✩₊˚.⋆☾⋆⁺₊✧
 
 ### 결과
@@ -189,25 +187,25 @@ LLM:generate_readme         Generate README.md from repository content stored in
 
 #### Claude
 
-- 코드 저장소로 이동  
-- `mise run LLM:generate_missing_tests` 실행  
-- 생성된 `missing-tests.md` 확인  
-- `mise run LLM:copy_buffer_bundle`로 컨텍스트를 클립보드에 복사  
-- 그걸 Claude에 붙여넣고 첫 번째 이슈부터 처리  
-- Claude가 준 코드를 IDE에 붙여넣기  
-- …  
-- 테스트 실행  
+- 코드 저장소로 이동
+- `mise run LLM:generate_missing_tests` 실행
+- 생성된 `missing-tests.md` 확인
+- `mise run LLM:copy_buffer_bundle`로 컨텍스트를 클립보드에 복사
+- 그걸 Claude에 붙여넣고 첫 번째 이슈부터 처리
+- Claude가 준 코드를 IDE에 붙여넣기
+- …
+- 테스트 실행
 - 같은 과정을 반복 ✩₊˚.⋆☾⋆⁺₊✧
 
 #### Aider
 
-- 새 브랜치에서 Aider 실행  
-- `mise run LLM:generate_missing_tests` 실행  
-- `missing-tests.md` 확인  
-- 첫 번째 이슈를 Aider에 붙여넣기  
-- Aider 춤 감상 ♪┏(・o･)┛♪  
-- …  
-- 테스트 실행  
+- 새 브랜치에서 Aider 실행
+- `mise run LLM:generate_missing_tests` 실행
+- `missing-tests.md` 확인
+- 첫 번째 이슈를 Aider에 붙여넣기
+- Aider 춤 감상 ♪┏(・o･)┛♪
+- …
+- 테스트 실행
 - 같은 과정을 반복 ✩₊˚.⋆☾⋆⁺₊✧
 
 이 방법은 거대한 코드베이스도 한 뼘씩 튜닝하기에 아주 좋다. 크든 작든 어떤 작업이든 무리 없이 처리할 수 있었다.
@@ -266,9 +264,9 @@ LLM 코딩을 멀티플레이 게임으로 만들어 줄 솔루션이 절실하�
 
 나는 그 시간을 이렇게 보낸다.
 
-- 다음 프로젝트 브레인스토밍  
-- 레코드 감상  
-- Cookie Clicker  
+- 다음 프로젝트 브레인스토밍
+- 레코드 감상
+- Cookie Clicker
 - 친구·봇과 수다
 
 이렇게 해킹! 해킹! 해킹! 해 본 적은 처음이다. 생산성이 폭발한다.
