@@ -1,24 +1,20 @@
 ---
 date: 2024-04-12 09:00:00-05:00
-description: Construí un buscador de memes mágico usando siglip/CLIP y codificación
-  vectorial de imágenes. Fue una forma divertida de aprender sobre esta poderosa tecnología.
-  Comparto el código para que puedas crear el tuyo y descubrir joyas olvidadas en
-  tu biblioteca de fotos. ¡Desatemos el poder de la IA en nuestras imágenes!
+description:
+    Construí un buscador de memes mágico usando siglip/CLIP y codificación
+    vectorial de imágenes. Fue una forma divertida de aprender sobre esta poderosa tecnología.
+    Comparto el código para que puedas crear el tuyo y descubrir joyas olvidadas en
+    tu biblioteca de fotos. ¡Desatemos el poder de la IA en nuestras imágenes!
 draft: false
 generateSocialImage: true
 slug: i-accidentally-built-a-meme-search-engine
 tags:
-- meme-search-engine
-- vector-embeddings
-- applied-ai
-- siglip
-- image-search
-title: 'Accidentalmente construí un buscador de memes
-
-  description: Construí un buscador de memes mágico usando siglip/CLIP y codificación
-  vectorial de imágenes. Fue una forma divertida de aprender sobre esta poderosa tecnología.
-  Comparto el código para que puedas crear el tuyo y descubrir joyas olvidadas en
-  tu biblioteca de fotos. ¡Desatemos el poder de la IA en nuestras imágenes!'
+    - meme-search-engine
+    - vector-embeddings
+    - applied-ai
+    - siglip
+    - image-search
+title: "Accidentalmente construí un buscador de memes"
 translationKey: I accidentally built a meme search engine
 ---
 
@@ -26,17 +22,17 @@ translationKey: I accidentally built a meme search engine
 
 _tl;dr_: Construí un buscador de memes con siglip/CLIP y codificación vectorial de imágenes. Fue muy divertido y aprendí un montón.
 
-Llevo un tiempo creando un montón de herramientas de IA aplicada. Uno de los componentes que siempre me ha parecido más mágico son los *embeddings* vectoriales. [Word2Vec](https://en.wikipedia.org/wiki/Word2vec) y similares me volaron la cabeza. Es como magia.
+Llevo un tiempo creando un montón de herramientas de IA aplicada. Uno de los componentes que siempre me ha parecido más mágico son los _embeddings_ vectoriales. [Word2Vec](https://en.wikipedia.org/wiki/Word2vec) y similares me volaron la cabeza. Es como magia.
 
-Vi una [app sencilla en Hacker News](https://news.ycombinator.com/item?id=39392582) que era [súper impresionante](https://mood-amber.vercel.app/). Alguien rastreó muchas imágenes de Tumblr, usó [siglip](https://arxiv.org/abs/2303.15343) para obtener los *embeddings* y luego montó una app de «haz clic en una imagen y ve otras similares». Parecía magia. No tenía idea de cómo lograrlo, pero se veía alcanzable.
+Vi una [app sencilla en Hacker News](https://news.ycombinator.com/item?id=39392582) que era [súper impresionante](https://mood-amber.vercel.app/). Alguien rastreó muchas imágenes de Tumblr, usó [siglip](https://arxiv.org/abs/2303.15343) para obtener los _embeddings_ y luego montó una app de «haz clic en una imagen y ve otras similares». Parecía magia. No tenía idea de cómo lograrlo, pero se veía alcanzable.
 
 Decidí aprovechar la motivación para aprender cómo funciona todo esto.
 
 ## wut
 
-Si nunca te has topado con *embeddings* vectoriales, siglip/CLIP, bases de datos vectoriales y compañía, no te preocupes.
+Si nunca te has topado con _embeddings_ vectoriales, siglip/CLIP, bases de datos vectoriales y compañía, no te preocupes.
 
-Antes de ver aquel hack en HN apenas pensaba en *embeddings* vectoriales, *embeddings* multimodales o almacenes vectoriales. Había usado FAISS (la base vectorial sencilla de Facebook) y Pinecone ($$) en algunos experimentos, pero sin profundizar: los hacía funcionar y luego pensaba «listo, las pruebas pasan».
+Antes de ver aquel hack en HN apenas pensaba en _embeddings_ vectoriales, _embeddings_ multimodales o almacenes vectoriales. Había usado FAISS (la base vectorial sencilla de Facebook) y Pinecone ($$) en algunos experimentos, pero sin profundizar: los hacía funcionar y luego pensaba «listo, las pruebas pasan».
 
 Sigo sin tener clarísimo qué demonios son los vectores, jajaja. Antes de meterme a construir esto, de verdad no veía cómo usarlos fuera de RAG (Retrieval-Augmented Generation) u otro proceso con LLM.
 
@@ -46,12 +42,12 @@ Aprendo construyendo. Ayuda cuando los resultados son intrigantes y, en este cas
 
 Unos amigos leyeron esto antes de publicarlo y varios dijeron «¿WTF es X?». Aquí va una lista breve de términos que eran casi nuevos para mí:
 
-- **Embeddings vectoriales**: convierten tu texto —o, mejor dicho, *text of images*— en representaciones numéricas que permiten encontrar fotos similares y buscar tu biblioteca con eficacia.  
-- **Base de datos vectorial**: sistema para almacenar y buscar elementos codificados, lo que posibilita hallar ítems parecidos.  
-- **Word2Vec**: técnica pionera que convierte palabras en vectores numéricos y permite encontrar términos afines y explorar sus relaciones.  
-- **CLIP**: modelo de OpenAI que codifica imágenes y texto en vectores numéricos.  
-- **OpenCLIP**: implementación de código abierto del modelo CLIP, que cualquiera puede usar y ampliar sin permisos especiales.  
-- **FAISS**: biblioteca eficiente para gestionar y buscar en grandes colecciones de vectores de imágenes; facilita encontrar la imagen que buscas.  
+- **Embeddings vectoriales**: convierten tu texto —o, mejor dicho, _text of images_— en representaciones numéricas que permiten encontrar fotos similares y buscar tu biblioteca con eficacia.
+- **Base de datos vectorial**: sistema para almacenar y buscar elementos codificados, lo que posibilita hallar ítems parecidos.
+- **Word2Vec**: técnica pionera que convierte palabras en vectores numéricos y permite encontrar términos afines y explorar sus relaciones.
+- **CLIP**: modelo de OpenAI que codifica imágenes y texto en vectores numéricos.
+- **OpenCLIP**: implementación de código abierto del modelo CLIP, que cualquiera puede usar y ampliar sin permisos especiales.
+- **FAISS**: biblioteca eficiente para gestionar y buscar en grandes colecciones de vectores de imágenes; facilita encontrar la imagen que buscas.
 - **ChromaDB**: base de datos que guarda y recupera vectores de imagen y texto, devolviendo rápidamente los resultados más similares.
 
 ## Manténlo simple, Harper
@@ -68,23 +64,23 @@ Creé el peor rastreador del mundo. Bueno, seamos honestos: Claude lo creó con 
 
 Es un poco enrevesado, pero estos son los pasos:
 
-1. Obtiene la lista de archivos del directorio objetivo.  
-2. Guarda la lista en un archivo `msgpack`.  
-3. A partir del archivo `msgpack`, recorre cada imagen y la almacena en una base de datos SQLite, extrayendo algunos metadatos:  
-   - hash  
-   - tamaño de archivo  
-   - ubicación  
-4. Recorre esa base SQLite y usa CLIP para obtener el vector de cada imagen.  
-5. Guarda esos vectores de nuevo en la base SQLite.  
-6. Recorre la base SQLite e inserta los vectores y la ruta de la imagen en ChromaDB.  
+1. Obtiene la lista de archivos del directorio objetivo.
+2. Guarda la lista en un archivo `msgpack`.
+3. A partir del archivo `msgpack`, recorre cada imagen y la almacena en una base de datos SQLite, extrayendo algunos metadatos:
+    - hash
+    - tamaño de archivo
+    - ubicación
+4. Recorre esa base SQLite y usa CLIP para obtener el vector de cada imagen.
+5. Guarda esos vectores de nuevo en la base SQLite.
+6. Recorre la base SQLite e inserta los vectores y la ruta de la imagen en ChromaDB.
 7. Fin.
 
-Sí, es mucho trabajo redundante: podría recorrer las imágenes, sacar los *embeddings* y meterlos directamente en ChromaDB (la elegí porque es sencilla, gratuita y sin infraestructura adicional).
+Sí, es mucho trabajo redundante: podría recorrer las imágenes, sacar los _embeddings_ y meterlos directamente en ChromaDB (la elegí porque es sencilla, gratuita y sin infraestructura adicional).
 
 Lo hice así porque:
 
-- Después de los memes, rastreé 140 000 imágenes y quería que fuera resistente a fallos.  
-- Necesitaba poder reanudar la construcción de las bases si se cortaba la luz o se colgaba el sistema.  
+- Después de los memes, rastreé 140 000 imágenes y quería que fuera resistente a fallos.
+- Necesitaba poder reanudar la construcción de las bases si se cortaba la luz o se colgaba el sistema.
 - Me encantan los bucles.
 
 Pese a la complejidad extra, funcionó sin problemas. He rastreado más de 200 000 imágenes sin un solo tropiezo.
@@ -170,7 +166,7 @@ Por alguna razón, esto me deja boquiabierto. Una cosa es una búsqueda semánti
 
 Ejemplos:
 
-Buscar **money**. Obtengo el *embedding* de _money_ y lo envío a ChromaDB. Los resultados:  
+Buscar **money**. Obtengo el _embedding_ de _money_ y lo envío a ChromaDB. Los resultados:  
 {{< image src="images/posts/vector-memes-money.png" >}}
 
 Buscar **AI**  
@@ -212,10 +208,10 @@ Buscar lugares es muy sencillo.
 O emociones. Al parecer me sorprendo mucho, así que tengo un montón de fotos «sorprendidas».  
 {{< image src="images/posts/vector-memes-surprised.png" >}}
 
-También cosas de nicho como *lowriders* (¡estas son de Shibuya!):  
+También cosas de nicho como _lowriders_ (¡estas son de Shibuya!):  
 {{< image src="images/posts/vector-memes-low-riders.png" >}}
 
-Y sirve para encontrar cosas difíciles de etiquetar, como el *bokeh*.  
+Y sirve para encontrar cosas difíciles de etiquetar, como el _bokeh_.  
 {{< image src="images/posts/vector-memes-bokeh.png" >}}
 
 Es maravilloso, porque puedo hacer clic y encontrar fotos geniales que había olvidado. Como esta gran foto de Baratunde que tomé en 2017:
@@ -242,9 +238,9 @@ Usa conda o algo similar para mantener todo limpio. La interfaz está en Tailwin
 
 Construye una app que me permita catalogar mi fototeca de forma cómoda. No quiero subirla a ningún sitio: quiero una app nativa para Mac que apunte a mi biblioteca de fotos y diga «rastrea esto». Se le podrían añadir cosas geniales:
 
-- Autocaptioning con Llava/Moondream  
-- Palabras clave / etiquetas  
-- Similitud vectorial  
+- Autocaptioning con Llava/Moondream
+- Palabras clave / etiquetas
+- Similitud vectorial
 - etc.
 
 Debe ejecutarse localmente, ser una app nativa, sencilla y eficaz. Quizá integrarse con Lightroom, Capture One o Apple Photos.
@@ -269,6 +265,6 @@ Puedes verlo aquí: [LR Preview JPEG Extractor](https://github.com/ibips/lrprev-
 
 ## Gracias por leer
 
-Como siempre, [avísame](mailto:harper@modest.com) y salgamos a charlar. Estoy pensando mucho en IA, comercio electrónico, fotos, hi-fi, *hacking* y otras cosas.
+Como siempre, [avísame](mailto:harper@modest.com) y salgamos a charlar. Estoy pensando mucho en IA, comercio electrónico, fotos, hi-fi, _hacking_ y otras cosas.
 
 Si estás por Chicago, pasa a saludar.

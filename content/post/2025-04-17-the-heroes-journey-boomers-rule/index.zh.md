@@ -6,20 +6,18 @@ draft: false
 generateSocialImage: true
 slug: an-llm-codegen-heros-journey
 tags:
-- llm
-- coding
-- artificial-intelligence
-- development-workflow
-- software-engineering
-- developer-productivity
-- boomers
-title: 'LLM代码生成英雄之旅
-
-  description: 一本全面指南，详述了使用AI辅助软件开发的演变历程——从基础代码补全到完全自主的编码代理——并提供了通过整合LLM来最大化生产力的实用步骤与洞见。'
+    - llm
+    - coding
+    - artificial-intelligence
+    - development-workflow
+    - software-engineering
+    - developer-productivity
+    - boomers
+title: "LLM代码生成英雄之旅"
 translationKey: An LLM Codegen Hero's Journey
 ---
 
-自从我发布那篇介绍自己**大型语言模型（LLM）**工作流的[博客](/2025/02/16/my-llm-codegen-workflow-atm/)以来，我花了大量时间和大家聊 **codegen**——怎么起步、怎么进阶，以及它到底有多上头。  
+自从我发布那篇介绍自己**大型语言模型（LLM）**工作流的[博客](/2025/02/16/my-llm-codegen-workflow-atm/)以来，我花了大量时间和大家聊 **codegen**——怎么起步、怎么进阶，以及它到底有多上头。
 
 这话题简直能量爆棚，我邮箱都快被挤爆了：大家都在琢磨该怎么开始、如何把所有环节串起来。我才反应过来——从 2023 年开始折腾这套流程的我，已经**见过不少离谱事儿**。LOL。
 
@@ -125,10 +123,10 @@ aider 的体验**狂野**：启动后注入项目，你直接发需求，它先�
 
 你开始**防御式编码**：
 
-- 测试覆盖率拉满  
-- 考虑形式化验证  
-- 选内存安全语言  
-- 选编译器“话痨”的语言，方便塞进上下文  
+- 测试覆盖率拉满
+- 考虑形式化验证
+- 选内存安全语言
+- 选编译器“话痨”的语言，方便塞进上下文
 
 你想方设法保证系统**安全、自动、无须干预**地落地。
 
