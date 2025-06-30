@@ -2,26 +2,60 @@
 {{ $currentLang := .Page.Lang }}
 {{ $translations := slice }}
 
-{{/* Build list of available translations excluding current language */}}
+{{/* Build list of available translations excluding current language and English */}}
 {{ range .Translations }}
-  {{ $translations = $translations | append . }}
+  {{ if ne .Language.Lang "en" }}
+    {{ $translations = $translations | append . }}
+  {{ end }}
 {{ end }}
 
-{{/* Only show if there are translations */}}
+{{/* Only show if there are non-English translations */}}
 {{ if gt (len $translations) 0 }}
-  <div class="post-translations">
-    <span class="translations-prefix">
-      {{ i18n "translations-available" | default "Translations" }}:
-    </span>
-    
-    {{ range $i, $translation := $translations }}
-      <a href="{{ $translation.RelPermalink }}" 
-         hreflang="{{ $translation.Language.Lang }}"
-         class="translation-link"
-         title="{{ i18n "read-in-language" $translation.Language.LanguageName | default (printf "Read this post in %s" $translation.Language.LanguageName) }}">
-        {{ $translation.Language.LanguageName }}
-      </a>
-      {{- if lt $i (sub (len $translations) 1) }}, {{ end -}}
+  <div class="post-translations-box">
+      
+    {{/* Original English link (show only if current page is not English) */}}
+    {{ if ne $currentLang "en" }}
+      {{ $englishPage := .GetPage "/" }}
+      {{ range .AllTranslations }}
+        {{ if eq .Language.Lang "en" }}
+          {{ $englishPage = . }}
+        {{ end }}
+      {{ end }}
+      <div class="original-language">
+          <p>
+        <span class="original-prefix">{{ i18n "originally-in" | default "Originally in" }}:</span>
+        <a href="{{ $englishPage.RelPermalink }}" 
+           hreflang="en"
+           class="original-link"
+           title="{{ i18n "read-original-english" | default "Read the original in English" }}">
+          English
+        </a>
+          </p>
+      </div>
     {{ end }}
+    
+    {{/* Available translations (excluding English) */}}
+    <div class="available-translations">
+        <p>
+      <span class="translations-prefix">
+        {{ if eq $currentLang "en" }}
+          {{ i18n "translations-available" | default "Also available in" }}:
+        {{ else }}
+          {{ i18n "other-translations" | default "Also available in" }}:
+        {{ end }}
+      </span>
+      
+      {{ range $i, $translation := $translations }}
+        <a href="{{ $translation.RelPermalink }}" 
+           hreflang="{{ $translation.Language.Lang }}"
+           class="translation-link"
+           title="{{ i18n "read-in-language" $translation.Language.LanguageName | default (printf "Read this post in %s" $translation.Language.LanguageName) }}">
+          {{ $translation.Language.LanguageName }}
+        </a>
+        {{- if lt $i (sub (len $translations) 1) }}, {{ end -}}
+      {{ end }}
+        </p>
+    </div>
+
   </div>
 {{ end }}
