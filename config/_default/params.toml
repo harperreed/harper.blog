@@ -23,8 +23,8 @@ defaultContentLanguage = "en"
 # theme = "sunset"
 # theme = "ocean"
 # theme = "desert"
-# theme = "nordic"
-theme = "autumn"
+theme = "nordic"
+# theme = "autumn"
 # theme = "cyber"
 # theme = "academia"
 # theme = "myspace"
@@ -53,6 +53,7 @@ customcss = [
     "/css/notes.css",
     "/css/notes-grid.css",
     "/css/code.css",
+    "/css/translations.css",
     "syntax.css",
 ]
 
