@@ -1,0 +1,259 @@
+# i18n/id.yaml
+- id: prevpage
+  translation: "Halaman sebelumnya"
+
+- id: nextpage
+  translation: "Halaman berikutnya"
+
+- id: page
+  translation: "Halaman"
+
+- id: of
+  translation: "dari"
+
+- id: nojscomments
+  translation: "Komentar memerlukan JavaScript. Silakan aktifkan JavaScript di pengaturan peramban Anda atau gunakan peramban lain yang mendukung JavaScript untuk melihat komentar."
+
+- id: 404title
+  translation: "404"
+
+- id: 404text
+  translation: "Halaman yang Anda cari tidak dapat ditemukan. Silakan periksa kembali URL tersebut atau kembali ke beranda."
+
+- id: minutes
+  translation: "menit"
+
+- id: words
+  translation: "kata"
+
+- id: readmore
+  translation: "Selengkapnya"
+
+- id: previousNows
+  translation: "Now terdahulu"
+
+- id: generated
+  translation: "Dihasilkan"
+
+- id: sendMeAn
+  translation: "Kirimkan saya"
+
+- id: email
+  translation: "email"
+
+- id: "on"
+  translation: "pada"
+
+- id: copyright
+  translation: "Hak cipta"
+
+- id: morePosts
+  translation: "Lebih banyak tulisan"
+
+- id: moreNotes
+  translation: "Lebih banyak catatan"
+
+- id: recentPosts
+  translation: "Tulisan terbaru"
+
+- id: recentNotes
+  translation: "Catatan terbaru"
+
+- id: posts
+  translation: "Tulisan"
+
+- id: notes
+  translation: "Catatan"
+
+- id: morePostsAria
+  translation: "Lebih banyak tulisan"
+
+- id: moreNotesAria
+  translation: "Lebih banyak catatan"
+
+- id: skipLinkAria
+  translation: "Lompat ke konten utama"
+
+- id: titleAria
+  translation: "Beranda"
+
+- id: backToNowAria
+  translation: "Kembali ke Now terkini"
+
+- id: backToNotesAria
+  translation: "Kembali ke catatan terkini"
+
+- id: backToLinksAria
+  translation: "Kembali ke tautan terkini"
+
+# Missing keys used in templates
+- id: filtering-for
+  translation: "Filter untuk"
+
+- id: no-posts
+  translation: "Tidak ada tulisan yang ditemukan"
+
+- id: no-notes
+  translation: "Tidak ada catatan yang ditemukan"
+
+- id: no-links
+  translation: "Tidak ada tautan yang ditemukan"
+
+- id: no-music
+  translation: "Tidak ada musik yang ditemukan"
+
+- id: email-subject
+  translation: "Re: %s"
+
+- id: email-reply
+  translation: "Balas via email"
+
+- id: skip-link
+  translation: "Lompat ke konten utama"
+
+# Navigation back links
+- id: back-to-now
+  translation: "Kembali ke Now terkini"
+
+- id: back-to-notes
+  translation: "Kembali ke catatan terkini"
+
+- id: back-to-links
+  translation: "Kembali ke tautan terkini"
+
+- id: back-to-music
+  translation: "Kembali ke musik"
+
+- id: back-to-books
+  translation: "Kembali ke daftar buku"
+
+- id: rss
+  translation: "RSS"
+
+- id: by
+  translation: "oleh"
+
+# Books template
+- id: book-cover-alt
+  translation: "Sampul buku"
+
+- id: my-rating
+  translation: "Penilaian saya:"
+
+- id: reading-duration
+  translation: "Durasi baca: selesai dalam"
+
+- id: days
+  translation: "hari"
+
+- id: number-of-pages
+  translation: "Jumlah halaman:"
+
+- id: pages
+  translation: "halaman"
+
+- id: read-this-book
+  translation: "Baca buku ini"
+
+# Accessibility labels
+- id: page-title-aria
+  translation: "Judul halaman"
+
+- id: note-images-aria
+  translation: "Gambar dalam catatan"
+
+- id: date-aria
+  translation: "Tanggal: %s"
+
+- id: tag-aria
+  translation: "Tag: %s"
+
+- id: link-to-aria
+  translation: "Tautan ke %s"
+
+- id: note-aria
+  translation: "Catatan: %s"
+
+- id: avatar-aria
+  translation: "Avatar"
+
+- id: site-title-aria
+  translation: "Judul situs"
+
+- id: main-nav-aria
+  translation: "Navigasi utama"
+
+- id: send-email-aria
+  translation: "Kirim email ke %s"
+
+- id: list-recent-notes-aria
+  translation: "Daftar catatan terbaru"
+
+- id: permalink-note-aria
+  translation: "Tautan permanen ke catatan ini"
+
+# 404 page
+- id: maybe-check-out
+  translation: "Mungkin Anda bisa melihat tulisan, catatan, atau tautan."
+
+# AI content notices
+- id: human-written
+  translation: "Tulisan ini 98% ditulis oleh manusia."
+
+- id: ai-generated-notice-intro
+  translation: "Harap dicatat:"
+
+- id: ai-generated-notice
+  translation: "Tulisan ini sebagian besar dihasilkan oleh AI. Hal ini kemungkinan besar telah disebutkan di dalam tulisan. Meskipun dihasilkan oleh model bahasa besar (LLM), saya yakin tulisan ini tetap merefleksikan keyakinan saya – jika tidak, saya tidak akan menerbitkannya."
+
+# Out of date warnings
+- id: please-note
+  translation: "Harap dicatat:"
+
+- id: post-old-warning
+  translation: "Tulisan ini dibuat beberapa waktu yang lalu ({{ . }} tahun)."
+
+- id: young-author-note
+  translation: "Saya berusia {{ . }} tahun ketika tulisan ini dibuat."
+
+- id: perspective-evolution
+  translation: "Perspektif, pengetahuan, dan opini saya mungkin telah berkembang cukup signifikan sejak saat itu. Meski kontennya masih menawarkan wawasan berharga, saya mendorong pembaca untuk mempertimbangkannya sesuai konteks tanggal publikasinya."
+
+# Content formatting
+- id: by-parentheses
+  translation: "(oleh %s)"
+
+- id: by-author
+  translation: "oleh %s"
+
+- id: by-artist
+  translation: "oleh %s"
+
+# Counts
+- id: books-count
+  translation: "(%d buku)"
+
+- id: songs-count
+  translation: "(%d lagu)"
+
+# Additional accessibility
+- id: home-aria
+  translation: "Beranda"
+
+- id: avatar-alt
+  translation: "Avatar"
+
+- id: permalink-note-title
+  translation: "Tautan permanen ke catatan ini"
+
+- id: translations-available
+  translation: "Terjemahan tersedia"
+
+- id: read-in-language
+  translation: "Baca tulisan ini dalam bahasa %s"
+
+- id: also-available-in
+  translation: "Juga tersedia dalam"
+
+- id: current-language
+  translation: "Bahasa saat ini"

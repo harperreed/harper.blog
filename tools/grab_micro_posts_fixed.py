@@ -321,7 +321,16 @@ def is_duplicate_content(content, hugo_content_dir, content_registry=None):
                         # Calculate rough similarity
                         if len(normalized_content) > 0 and len(post_normalized) > 0:
                             # Simple similarity check - if one is completely contained in the other
-                            if normalized_content in post_normalized or post_normalized in normalized_content:
+                            # But only if the content is long enough to be meaningful (avoid false positives)
+                            min_content_length = min(len(normalized_content), len(post_normalized))
+                            max_content_length = max(len(normalized_content), len(post_normalized))
+                            
+                            # Only consider substring matches if:
+                            # 1. The shorter content is at least 50 characters
+                            # 2. The shorter content is at least 80% of the longer content
+                            if (min_content_length >= 50 and 
+                                min_content_length / max_content_length >= 0.8 and
+                                (normalized_content in post_normalized or post_normalized in normalized_content)):
                                 return True, file_path
                             
                             # Check beginning/end similarity (for truncated content)
@@ -783,7 +792,7 @@ def main():
             if content_hash in content_registry:
                 # But add the URL to the URL registry to prevent future processing
                 url_registry[normalized_url] = datetime.now().isoformat()
-                save_url_registry(url_registry, data_dir)
+                save_url_registry(url_registry, hugo_data_dir)
                 continue
                 
             # If we get here, it's a new entry to process
