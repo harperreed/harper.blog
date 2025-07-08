@@ -1,0 +1,259 @@
+# i18n/en.yaml
+- id: prevpage
+  translation: "Vorherige Seite"
+
+- id: nextpage
+  translation: "Nächste Seite"
+
+- id: page
+  translation: "Seite"
+
+- id: of
+  translation: "von"
+
+- id: nojscomments
+  translation: "Für Kommentare wird JavaScript benötigt. Bitte aktiviere JavaScript in deinen Browser-Einstellungen oder verwende einen Browser mit JavaScript-Unterstützung, um Kommentare anzuzeigen."
+
+- id: 404title
+  translation: "404"
+
+- id: 404text
+  translation: "Die gesuchte Seite wurde nicht gefunden. Bitte überprüfe die URL oder kehre zur Startseite zurück."
+
+- id: minutes
+  translation: "Minuten"
+
+- id: words
+  translation: "Wörter"
+
+- id: readmore
+  translation: "Weiterlesen"
+
+- id: previousNows
+  translation: "Frühere Now-Seiten"
+
+- id: generated
+  translation: "Erstellt"
+
+- id: sendMeAn
+  translation: "Schreib mir eine"
+
+- id: email
+  translation: "E-Mail"
+
+- id: "on"
+  translation: "am"
+
+- id: copyright
+  translation: "Copyright"
+
+- id: morePosts
+  translation: "Weitere Beiträge"
+
+- id: moreNotes
+  translation: "Weitere Notizen"
+
+- id: recentPosts
+  translation: "Neueste Beiträge"
+
+- id: recentNotes
+  translation: "Neueste Notizen"
+
+- id: posts
+  translation: "Beiträge"
+
+- id: notes
+  translation: "Notizen"
+
+- id: morePostsAria
+  translation: "Weitere Beiträge"
+
+- id: moreNotesAria
+  translation: "Weitere Notizen"
+
+- id: skipLinkAria
+  translation: "Zum Hauptinhalt springen"
+
+- id: titleAria
+  translation: "Startseite"
+
+- id: backToNowAria
+  translation: "Zurück zum aktuellen Now-Eintrag"
+
+- id: backToNotesAria
+  translation: "Zurück zu den aktuellen Notizen"
+
+- id: backToLinksAria
+  translation: "Zurück zu den aktuellen Links"
+
+# Missing keys used in templates
+- id: filtering-for
+  translation: "Gefiltert nach"
+
+- id: no-posts
+  translation: "Keine Beiträge gefunden"
+
+- id: no-notes
+  translation: "Keine Notizen gefunden"
+
+- id: no-links
+  translation: "Keine Links gefunden"
+
+- id: no-music
+  translation: "Keine Musik gefunden"
+
+- id: email-subject
+  translation: "Re: %s"
+
+- id: email-reply
+  translation: "Per E-Mail antworten"
+
+- id: skip-link
+  translation: "Zum Hauptinhalt springen"
+
+# Navigation back links
+- id: back-to-now
+  translation: "Zurück zum aktuellen Now-Eintrag"
+
+- id: back-to-notes
+  translation: "Zurück zu den aktuellen Notizen"
+
+- id: back-to-links
+  translation: "Zurück zu den aktuellen Links"
+
+- id: back-to-music
+  translation: "Zurück zur Musik"
+
+- id: back-to-books
+  translation: "Zurück zur Bücherliste"
+
+- id: rss
+  translation: "RSS"
+
+- id: by
+  translation: "von"
+
+# Books template
+- id: book-cover-alt
+  translation: "Buchumschlag"
+
+- id: my-rating
+  translation: "Meine Bewertung:"
+
+- id: reading-duration
+  translation: "Lesedauer: gelesen in"
+
+- id: days
+  translation: "Tagen"
+
+- id: number-of-pages
+  translation: "Anzahl der Seiten:"
+
+- id: pages
+  translation: "Seiten"
+
+- id: read-this-book
+  translation: "Dieses Buch lesen"
+
+# Accessibility labels
+- id: page-title-aria
+  translation: "Seitentitel"
+
+- id: note-images-aria
+  translation: "Bilder zur Notiz"
+
+- id: date-aria
+  translation: "Datum: %s"
+
+- id: tag-aria
+  translation: "Schlagwort: %s"
+
+- id: link-to-aria
+  translation: "Link zu %s"
+
+- id: note-aria
+  translation: "Notiz: %s"
+
+- id: avatar-aria
+  translation: "Avatar"
+
+- id: site-title-aria
+  translation: "Seitentitel"
+
+- id: main-nav-aria
+  translation: "Hauptnavigation"
+
+- id: send-email-aria
+  translation: "E-Mail an %s senden"
+
+- id: list-recent-notes-aria
+  translation: "Liste der neuesten Notizen"
+
+- id: permalink-note-aria
+  translation: "Permalink zu dieser Notiz"
+
+# 404 page
+- id: maybe-check-out
+  translation: "Schau dir doch die Beiträge, Notizen oder Links an."
+
+# AI content notices
+- id: human-written
+  translation: "Dieser Beitrag wurde zu 98 % von einem Menschen geschrieben."
+
+- id: ai-generated-notice-intro
+  translation: "Bitte beachten:"
+
+- id: ai-generated-notice
+  translation: "Dieser Beitrag wurde größtenteils von einer KI erstellt. Der Beitrag weist höchstwahrscheinlich an entsprechender Stelle darauf hin. Obwohl er von einem LLM generiert wurde, entspricht er meinen Überzeugungen – sonst hätte ich ihn nicht veröffentlicht."
+
+# Out of date warnings
+- id: please-note
+  translation: "Bitte beachten:"
+
+- id: post-old-warning
+  translation: "Dieser Beitrag wurde vor einiger Zeit geschrieben (vor {{ . }} Jahren)."
+
+- id: young-author-note
+  translation: "Ich war erst {{ . }} Jahre alt, als dieser Beitrag verfasst wurde."
+
+- id: perspective-evolution
+  translation: "Meine Sichtweisen, mein Wissen und meine Meinungen haben sich seitdem möglicherweise erheblich weiterentwickelt. Auch wenn der Inhalt weiterhin interessante Einsichten bieten kann, bitte ich die Leserinnen und Leser, ihn im Kontext seines Erscheinungsdatums zu betrachten."
+
+# Content formatting
+- id: by-parentheses
+  translation: "(von %s)"
+
+- id: by-author
+  translation: "von %s"
+
+- id: by-artist
+  translation: "von %s"
+
+# Counts
+- id: books-count
+  translation: "(%d Bücher)"
+
+- id: songs-count
+  translation: "(%d Songs)"
+
+# Additional accessibility
+- id: home-aria
+  translation: "Startseite"
+
+- id: avatar-alt
+  translation: "Profilbild"
+
+- id: permalink-note-title
+  translation: "Permalink zu dieser Notiz"
+
+- id: translations-available
+  translation: "Verfügbare Übersetzungen"
+
+- id: read-in-language
+  translation: "Diesen Beitrag in %s lesen"
+
+- id: also-available-in
+  translation: "Ebenfalls verfügbar in"
+
+- id: current-language
+  translation: "Sprache"
