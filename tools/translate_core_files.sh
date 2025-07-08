@@ -141,7 +141,7 @@ translate_i18n() {
     fi
     
     print_status "Translating $source_file → $target_file"
-    if translator "$source_file" "$language" -o "$target_file"; then
+    if translator "$source_file" "$language" -o "$target_file" --headless; then
         print_success "Successfully translated i18n file"
     else
         print_error "Failed to translate i18n file"
@@ -206,7 +206,7 @@ translate_index_files() {
         fi
         
         print_status "Translating $index_file to page bundle format..."
-        if translator "$source_file" "$language" -o "$target_file"; then
+        if translator "$source_file" "$language" -o "$target_file" --headless; then
             print_success "✓ Translated $index_file → ${file_base}.${lang_code}.md"
             ((success_count++))
         else
