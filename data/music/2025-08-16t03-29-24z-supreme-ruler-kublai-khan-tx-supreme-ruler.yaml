@@ -1,0 +1,68 @@
+added_at: '2025-08-16T03:29:24Z'
+album: Supreme Ruler
+album_image: https://i.scdn.co/image/ab67616d0000b273c78fe777b22d3fed4788da4b
+artist: Kublai Khan TX
+duration_ms: 54242
+id: 55QDYIACL3Ze1gWBjVBUXz
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4
+      href: https://api.spotify.com/v1/artists/5BIOo2mCAokFcLHXO2Llb4
+      id: 5BIOo2mCAokFcLHXO2Llb4
+      name: Kublai Khan TX
+      type: artist
+      uri: spotify:artist:5BIOo2mCAokFcLHXO2Llb4
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/0nj0wMbDj49fBooNKFN5po
+    href: https://api.spotify.com/v1/albums/0nj0wMbDj49fBooNKFN5po
+    id: 0nj0wMbDj49fBooNKFN5po
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273c78fe777b22d3fed4788da4b
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02c78fe777b22d3fed4788da4b
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851c78fe777b22d3fed4788da4b
+      width: 64
+    is_playable: true
+    name: Supreme Ruler
+    release_date: '2024-08-09'
+    release_date_precision: day
+    total_tracks: 3
+    type: album
+    uri: spotify:album:0nj0wMbDj49fBooNKFN5po
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4
+    href: https://api.spotify.com/v1/artists/5BIOo2mCAokFcLHXO2Llb4
+    id: 5BIOo2mCAokFcLHXO2Llb4
+    name: Kublai Khan TX
+    type: artist
+    uri: spotify:artist:5BIOo2mCAokFcLHXO2Llb4
+  available_markets: []
+  disc_number: 1
+  duration_ms: 54242
+  explicit: false
+  external_ids:
+    isrc: QMRSZ2401074
+  external_urls:
+    spotify: https://open.spotify.com/track/55QDYIACL3Ze1gWBjVBUXz
+  href: https://api.spotify.com/v1/tracks/55QDYIACL3Ze1gWBjVBUXz
+  id: 55QDYIACL3Ze1gWBjVBUXz
+  is_local: false
+  is_playable: true
+  name: Supreme Ruler
+  popularity: 3
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:55QDYIACL3Ze1gWBjVBUXz
+spotify_url: https://open.spotify.com/track/55QDYIACL3Ze1gWBjVBUXz
+title: Supreme Ruler
