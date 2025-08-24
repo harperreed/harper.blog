@@ -1,0 +1,135 @@
+added_at: '2025-08-23T04:33:51Z'
+album: Some Nights
+album_image: https://i.scdn.co/image/ab67616d0000b27305fb4e9947c6edaf3836766e
+artist: fun.
+duration_ms: 272546
+id: 5tbz0VnVwfF3jubvjDGdHo
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0
+      href: https://api.spotify.com/v1/artists/5nCi3BB41mBaMH9gfr6Su0
+      id: 5nCi3BB41mBaMH9gfr6Su0
+      name: fun.
+      type: artist
+      uri: spotify:artist:5nCi3BB41mBaMH9gfr6Su0
+    available_markets:
+    - AL
+    - AT
+    - BA
+    - BG
+    - CH
+    - CZ
+    - DE
+    - DK
+    - EE
+    - FI
+    - HR
+    - HU
+    - IL
+    - IS
+    - LI
+    - LT
+    - LV
+    - ME
+    - MK
+    - 'NO'
+    - PL
+    - RO
+    - RS
+    - SE
+    - SI
+    - SK
+    - TR
+    - UA
+    - US
+    - XK
+    external_urls:
+      spotify: https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo
+    href: https://api.spotify.com/v1/albums/7iycyHwOW2plljYIK6I1Zo
+    id: 7iycyHwOW2plljYIK6I1Zo
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b27305fb4e9947c6edaf3836766e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e0205fb4e9947c6edaf3836766e
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d0000485105fb4e9947c6edaf3836766e
+      width: 64
+    is_playable: true
+    name: Some Nights
+    release_date: '2012-02-21'
+    release_date_precision: day
+    total_tracks: 12
+    type: album
+    uri: spotify:album:7iycyHwOW2plljYIK6I1Zo
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0
+    href: https://api.spotify.com/v1/artists/5nCi3BB41mBaMH9gfr6Su0
+    id: 5nCi3BB41mBaMH9gfr6Su0
+    name: fun.
+    type: artist
+    uri: spotify:artist:5nCi3BB41mBaMH9gfr6Su0
+  - external_urls:
+      spotify: https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs
+    href: https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs
+    id: 6ueGR6SWhUJfvEhqkvMsVs
+    name: "Janelle Mon\xE1e"
+    type: artist
+    uri: spotify:artist:6ueGR6SWhUJfvEhqkvMsVs
+  available_markets:
+  - AL
+  - AT
+  - BA
+  - BG
+  - CH
+  - CZ
+  - DE
+  - DK
+  - EE
+  - FI
+  - HR
+  - HU
+  - IL
+  - IS
+  - LI
+  - LT
+  - LV
+  - ME
+  - MK
+  - 'NO'
+  - PL
+  - RO
+  - RS
+  - SE
+  - SI
+  - SK
+  - TR
+  - UA
+  - US
+  - XK
+  disc_number: 1
+  duration_ms: 272546
+  explicit: false
+  external_ids:
+    isrc: USAT21200122
+  external_urls:
+    spotify: https://open.spotify.com/track/5tbz0VnVwfF3jubvjDGdHo
+  href: https://api.spotify.com/v1/tracks/5tbz0VnVwfF3jubvjDGdHo
+  id: 5tbz0VnVwfF3jubvjDGdHo
+  is_local: false
+  is_playable: true
+  name: "We Are Young (feat. Janelle Mon\xE1e) - Acoustic [Acoustic]"
+  popularity: 37
+  preview_url: null
+  track_number: 12
+  type: track
+  uri: spotify:track:5tbz0VnVwfF3jubvjDGdHo
+spotify_url: https://open.spotify.com/track/5tbz0VnVwfF3jubvjDGdHo
+title: "We Are Young (feat. Janelle Mon\xE1e) - Acoustic [Acoustic]"
