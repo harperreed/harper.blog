@@ -1,0 +1,68 @@
+added_at: '2025-09-01T03:23:53Z'
+album: Grown Up
+album_image: https://i.scdn.co/image/ab67616d0000b2734838a76d5fdc478ce046c92d
+artist: Danny Brown
+duration_ms: 139930
+id: 2KrkWcSP0oFWBUZzvj9KjS
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU
+      href: https://api.spotify.com/v1/artists/7aA592KWirLsnfb5ulGWvU
+      id: 7aA592KWirLsnfb5ulGWvU
+      name: Danny Brown
+      type: artist
+      uri: spotify:artist:7aA592KWirLsnfb5ulGWvU
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/75BAkzFWLER9MrZjaeFX2X
+    href: https://api.spotify.com/v1/albums/75BAkzFWLER9MrZjaeFX2X
+    id: 75BAkzFWLER9MrZjaeFX2X
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2734838a76d5fdc478ce046c92d
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e024838a76d5fdc478ce046c92d
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048514838a76d5fdc478ce046c92d
+      width: 64
+    is_playable: true
+    name: Grown Up
+    release_date: '2012-06-05'
+    release_date_precision: day
+    total_tracks: 3
+    type: album
+    uri: spotify:album:75BAkzFWLER9MrZjaeFX2X
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU
+    href: https://api.spotify.com/v1/artists/7aA592KWirLsnfb5ulGWvU
+    id: 7aA592KWirLsnfb5ulGWvU
+    name: Danny Brown
+    type: artist
+    uri: spotify:artist:7aA592KWirLsnfb5ulGWvU
+  available_markets: []
+  disc_number: 1
+  duration_ms: 139930
+  explicit: true
+  external_ids:
+    isrc: QMSDU1200054
+  external_urls:
+    spotify: https://open.spotify.com/track/2KrkWcSP0oFWBUZzvj9KjS
+  href: https://api.spotify.com/v1/tracks/2KrkWcSP0oFWBUZzvj9KjS
+  id: 2KrkWcSP0oFWBUZzvj9KjS
+  is_local: false
+  is_playable: true
+  name: Grown Up
+  popularity: 12
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:2KrkWcSP0oFWBUZzvj9KjS
+spotify_url: https://open.spotify.com/track/2KrkWcSP0oFWBUZzvj9KjS
+title: Grown Up
