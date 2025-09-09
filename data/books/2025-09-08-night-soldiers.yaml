@@ -1,0 +1,766 @@
+asin: B001LOEG5E
+authors:
+  author:
+    average_rating: '3.88'
+    id: '49941'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1226085973p5/49941.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/49941.Alan_Furst
+    name: Alan Furst
+    ratings_count: '97165'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1226085973p2/49941.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '9293'
+average_rating: '3.94'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2025-09-08T00:00:00-07:00'
+description: '<b>Bulgaria, 1934.</b> A young man is murdered by the local fascists.
+  His brother, Khristo Stoianev, is recruited into the NKVD, the Soviet secret intelligence
+  service, and sent to Spain to serve in its civil war. Warned that he is about to
+  become a victim of Stalin''s purges, Khristo flees to Paris. <i>Night Soldiers</i>
+  masterfully re-creates <br />the European world of 1934-45: the struggle between
+  Nazi Germany and Soviet Russia for Eastern Europe, the last desperate gaiety of
+  the beau monde in 1937 Paris, and guerrilla operations with the French underground
+  in 1944. <i>Night Soldiers</i> is a scrupulously researched panoramic novel, a work
+  on a grand scale.'
+edition_information: Reprint
+format: null
+id: '219559632'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn:
+  '@nil': 'true'
+isbn13:
+  '@nil': 'true'
+json: '{"id": "219559632", "isbn": {"@nil": "true"}, "isbn13": {"@nil": "true"}, "text_reviews_count":
+  {"@type": "integer", "#text": "3"}, "uri": "kca://book/amzn1.gr.book.v3.1irStUJ-Ey4F6H_f",
+  "title": "Night Soldiers", "title_without_series": "Night Soldiers", "image_url":
+  "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/219559632-night-soldiers",
+  "num_pages": null, "format": null, "edition_information": "Reprint", "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "3.94", "ratings_count": "12448", "description": "<b>Bulgaria,
+  1934.</b> A young man is murdered by the local fascists. His brother, Khristo Stoianev,
+  is recruited into the NKVD, the Soviet secret intelligence service, and sent to
+  Spain to serve in its civil war. Warned that he is about to become a victim of Stalin''s
+  purges, Khristo flees to Paris. <i>Night Soldiers</i> masterfully re-creates <br
+  />the European world of 1934-45: the struggle between Nazi Germany and Soviet Russia
+  for Eastern Europe, the last desperate gaiety of the beau monde in 1937 Paris, and
+  guerrilla operations with the French underground in 1944. <i>Night Soldiers</i>
+  is a scrupulously researched panoramic novel, a work on a grand scale.", "authors":
+  {"author": {"id": "49941", "name": "Alan Furst", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1226085973p5/49941.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1226085973p2/49941.jpg"},
+  "link": "https://www.goodreads.com/author/show/49941.Alan_Furst", "average_rating":
+  "3.88", "ratings_count": "97165", "text_reviews_count": "9293"}}, "published": null,
+  "work": {"id": "810894", "uri": "kca://work/amzn1.gr.work.v1.bsg_XnmK3vF5JsceFXzRuQ"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/7819476048",
+  "read_at": "Mon Sep 08 00:00:00 -0700 2025", "started_at": "Sun Aug 10 00:00:00
+  -0700 2025", "date": "Mon Sep 08 00:00:00 -0700 2025"}'
+kindle_asin: B001LOEG5E
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/219559632-night-soldiers
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '14773'
+    '@name': to-read
+  - '@count': '2223'
+    '@name': currently-reading
+  - '@count': '397'
+    '@name': historical-fiction
+  - '@count': '397'
+    '@name': fiction
+  - '@count': '160'
+    '@name': espionage
+  - '@count': '130'
+    '@name': thriller
+  - '@count': '96'
+    '@name': mystery
+  - '@count': '90'
+    '@name': spy
+  - '@count': '76'
+    '@name': war
+  - '@count': '67'
+    '@name': wwii
+  - '@count': '59'
+    '@name': series
+  - '@count': '58'
+    '@name': historical
+  - '@count': '43'
+    '@name': ww2
+  - '@count': '42'
+    '@name': kindle
+  - '@count': '40'
+    '@name': spies
+  - '@count': '40'
+    '@name': owned
+  - '@count': '35'
+    '@name': history
+  - '@count': '35'
+    '@name': alan-furst
+  - '@count': '35'
+    '@name': mystery-thriller
+  - '@count': '33'
+    '@name': spy-thriller
+  - '@count': '27'
+    '@name': favorites
+  - '@count': '26'
+    '@name': spy-novels
+  - '@count': '24'
+    '@name': library
+  - '@count': '24'
+    '@name': world-war-ii
+  - '@count': '22'
+    '@name': audiobook
+  - '@count': '21'
+    '@name': dnf
+  - '@count': '20'
+    '@name': thrillers
+  - '@count': '20'
+    '@name': audio
+  - '@count': '19'
+    '@name': world-war-2
+  - '@count': '19'
+    '@name': suspense
+  - '@count': '19'
+    '@name': audible
+  - '@count': '18'
+    '@name': did-not-finish
+  - '@count': '18'
+    '@name': spy-fiction
+  - '@count': '18'
+    '@name': novels
+  - '@count': '17'
+    '@name': europe
+  - '@count': '15'
+    '@name': default
+  - '@count': '15'
+    '@name': abandoned
+  - '@count': '14'
+    '@name': to-buy
+  - '@count': '14'
+    '@name': books-i-own
+  - '@count': '13'
+    '@name': audiobooks
+  - '@count': '13'
+    '@name': furst
+  - '@count': '12'
+    '@name': owned-books
+  - '@count': '12'
+    '@name': wish-list
+  - '@count': '12'
+    '@name': novel
+  - '@count': '12'
+    '@name': military
+  - '@count': '12'
+    '@name': furst-alan
+  - '@count': '12'
+    '@name': 20th-century
+  - '@count': '11'
+    '@name': historical-mystery
+  - '@count': '11'
+    '@name': ebook
+  - '@count': '11'
+    '@name': france
+  - '@count': '11'
+    '@name': to-read-fiction
+  - '@count': '11'
+    '@name': first-in-series
+  - '@count': '10'
+    '@name': my-library
+  - '@count': '10'
+    '@name': ww-ii
+  - '@count': '10'
+    '@name': russia
+  - '@count': '10'
+    '@name': fiction-historical
+  - '@count': '9'
+    '@name': adventure
+  - '@count': '9'
+    '@name': e-book
+  - '@count': '9'
+    '@name': crime
+  - '@count': '8'
+    '@name': have
+  - '@count': '8'
+    '@name': didn-t-finish
+  - '@count': '8'
+    '@name': mystery-suspense
+  - '@count': '8'
+    '@name': literary-fiction
+  - '@count': '8'
+    '@name': spy-espionage
+  - '@count': '7'
+    '@name': spy-thrillers
+  - '@count': '7'
+    '@name': mysteries
+  - '@count': '7'
+    '@name': fiction-espionage
+  - '@count': '7'
+    '@name': ebooks
+  - '@count': '7'
+    '@name': eastern-europe
+  - '@count': '6'
+    '@name': audio-book
+  - '@count': '6'
+    '@name': spy-books
+  - '@count': '6'
+    '@name': finished
+  - '@count': '6'
+    '@name': hist-fic
+  - '@count': '6'
+    '@name': gave-up-on
+  - '@count': '6'
+    '@name': contemporary-fiction
+  - '@count': '6'
+    '@name': recommended
+  - '@count': '6'
+    '@name': new-series
+  - '@count': '6'
+    '@name': literature
+  - '@count': '5'
+    '@name': thriller-mystery
+  - '@count': '5'
+    '@name': historic-fiction
+  - '@count': '5'
+    '@name': genre-fiction
+  - '@count': '5'
+    '@name': personal-library
+  - '@count': '5'
+    '@name': night-soldiers
+  - '@count': '5'
+    '@name': historical-novel
+  - '@count': '5'
+    '@name': gave-up
+  - '@count': '5'
+    '@name': paris
+  - '@count': '5'
+    '@name': crime-mystery-thriller
+  - '@count': '5'
+    '@name': mystery-crime
+  - '@count': '5'
+    '@name': suspense-thriller
+  - '@count': '5'
+    '@name': next-up
+  - '@count': '4'
+    '@name': libby
+  - '@count': '4'
+    '@name': bookshelf
+  - '@count': '4'
+    '@name': hoopla
+  - '@count': '4'
+    '@name': calibre
+  - '@count': '4'
+    '@name': fiction-to-read
+  - '@count': '4'
+    '@name': home-library
+  - '@count': '4'
+    '@name': tbr
+  - '@count': '4'
+    '@name': historical-novels
+  - '@count': '4'
+    '@name': espionage-fiction
+  - '@count': '4'
+    '@name': thriller-suspense
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '12448'
+read_at: '2025-09-08T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/7819476048
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/219559632-night-soldiers\"\
+  >Night Soldiers Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B001LOEG5E&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/219559632-night-soldiers?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works:
+  series_work:
+    id: '303655'
+    series:
+      description: Best-selling espionage thrillers about Europe starting in the 1930s
+        and through World War II.
+      id: '68230'
+      note: null
+      numbered: 'true'
+      primary_work_count: '15'
+      series_works_count: '16'
+      title: Night Soldiers
+    user_position: '1'
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '51252212'
+        link: https://www.goodreads.com/author/show/51252212.Elizabeth_Tebby_Germaine
+        name: Elizabeth Tebby Germaine
+    average_rating: '3.94'
+    id: '237066763'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/237066763-extraordinary-true-stories-of-survival-in-burma-ww2
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12448'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'EXTRAORDINARY TRUE STORIES OF SURVIVAL IN BURMA WW2: tens of thousands
+      fled to India from the Japanese Invasion in 1942'
+    title_without_series: 'EXTRAORDINARY TRUE STORIES OF SURVIVAL IN BURMA WW2: tens
+      of thousands fled to India from the Japanese Invasion in 1942'
+    uri: kca://book/amzn1.gr.book.v3.pK9OZUvBQO9wmr5y
+    work:
+      id: '252702947'
+  - authors:
+      author:
+        id: '12984'
+        link: https://www.goodreads.com/author/show/12984.Joseph_Kanon
+        name: Joseph Kanon
+    average_rating: '3.94'
+    id: '43822077'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570969720l/43822077._SX98_.jpg
+    isbn: '1501121421'
+    isbn13: '9781501121425'
+    link: https://www.goodreads.com/book/show/43822077-the-accomplice
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12448'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570969720l/43822077._SY75_.jpg
+    title: The Accomplice
+    title_without_series: The Accomplice
+    uri: kca://book/amzn1.gr.book.v1.oHO4yeEpvwdPxgM_M9rurg
+    work:
+      id: '68194003'
+  - authors:
+      author:
+        id: '256186'
+        link: https://www.goodreads.com/author/show/256186.John_Lawton
+        name: John Lawton
+    average_rating: '3.94'
+    id: '17347336'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377648161l/17347336._SX98_.jpg
+    isbn: 0802121969
+    isbn13: '9780802121967'
+    link: https://www.goodreads.com/book/show/17347336-then-we-take-berlin
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12448'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377648161l/17347336._SY75_.jpg
+    title: 'Then We Take Berlin (Joe Wilderness, #1)'
+    title_without_series: Then We Take Berlin
+    uri: kca://book/amzn1.gr.book.v1.kcGGPbVLTZbZNqhEjSTWjQ
+    work:
+      id: '24087534'
+  - authors:
+      author:
+        id: '1100593'
+        link: https://www.goodreads.com/author/show/1100593.Nick_Harkaway
+        name: Nick Harkaway
+    average_rating: '3.94'
+    id: '205899901'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722279958l/205899901._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/205899901-karla-s-choice
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12448'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722279958l/205899901._SY75_.jpg
+    title: Karla's Choice
+    title_without_series: Karla's Choice
+    uri: kca://book/amzn1.gr.book.v3.-10Gchyrkexw8D0C
+    work:
+      id: '211948288'
+  - authors:
+      author:
+        id: '26006'
+        link: https://www.goodreads.com/author/show/26006.Eric_Ambler
+        name: Eric Ambler
+    average_rating: '3.94'
+    id: '46429'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554001237l/46429._SX98_.jpg
+    isbn: '0375726713'
+    isbn13: '9780375726712'
+    link: https://www.goodreads.com/book/show/46429.The_Mask_of_Dimitrios
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12448'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554001237l/46429._SY75_.jpg
+    title: 'The Mask of Dimitrios (Charles Latimer, #1)'
+    title_without_series: The Mask of Dimitrios
+    uri: kca://book/amzn1.gr.book.v1.vyNydI9pIkW_9Cr99EzcPw
+    work:
+      id: '45552'
+  - authors:
+      author:
+        id: '35840'
+        link: https://www.goodreads.com/author/show/35840.David_Downing
+        name: David Downing
+    average_rating: '3.94'
+    id: '12403191'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/12403191-lehrter-station
+    num_pages: '443'
+    publication_day: '8'
+    publication_month: '5'
+    publication_year: '2012'
+    ratings_count: '12448'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Lehrter Station (John Russell, #5)'
+    title_without_series: Lehrter Station
+    uri: kca://book/amzn1.gr.book.v1.8tlNa8Qi6mH01iZ-g1cSAw
+    work:
+      id: '17384647'
+  - authors:
+      author:
+        id: '12984'
+        link: https://www.goodreads.com/author/show/12984.Joseph_Kanon
+        name: Joseph Kanon
+    average_rating: '3.94'
+    id: '492916'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/492916.Los_Alamos
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12448'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Los Alamos
+    title_without_series: Los Alamos
+    uri: kca://book/amzn1.gr.book.v1.QMT1C-Yo-zHcd5H8uNMi-Q
+    work:
+      id: '481095'
+  - authors:
+      author:
+        id: '35840'
+        link: https://www.goodreads.com/author/show/35840.David_Downing
+        name: David Downing
+    average_rating: '3.94'
+    id: '15798445'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1616952237'
+    isbn13: '9781616952235'
+    link: https://www.goodreads.com/book/show/15798445-masaryk-station
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12448'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Masaryk Station (John Russell, #6)'
+    title_without_series: Masaryk Station
+    uri: kca://book/amzn1.gr.book.v1.MnAk3HspqCJLZyFmmppWmg
+    work:
+      id: '19257629'
+  - authors:
+      author:
+        id: '4206074'
+        link: https://www.goodreads.com/author/show/4206074.Alex_Gerlis
+        name: Alex Gerlis
+    average_rating: '3.94'
+    id: '17207689'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368347727l/17207689._SX98_.jpg
+    isbn: '1782920013'
+    isbn13: '9781782920014'
+    link: https://www.goodreads.com/book/show/17207689-the-best-of-our-spies
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: '2017'
+    ratings_count: '12448'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368347727l/17207689._SY75_.jpg
+    title: 'The Best of Our Spies (Spy Masters, #1)'
+    title_without_series: The Best of Our Spies
+    uri: kca://book/amzn1.gr.book.v1.hHvASfWsNyzXG27RPv3peQ
+    work:
+      id: '23687327'
+  - authors:
+      author:
+        id: '15015247'
+        link: https://www.goodreads.com/author/show/15015247.Michael_G_Kramer
+        name: Michael G. Kramer
+    average_rating: '3.94'
+    id: '61834162'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683012903l/61834162._SX98_.jpg
+    isbn: 0645570109
+    isbn13: '9780645570106'
+    link: https://www.goodreads.com/book/show/61834162-a-gracious-enemy-after-the-war-volume-two
+    num_pages: '300'
+    publication_day: '3'
+    publication_month: '8'
+    publication_year: '2022'
+    ratings_count: '12448'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683012903l/61834162._SY75_.jpg
+    title: A Gracious Enemy & After the War Volume Two
+    title_without_series: A Gracious Enemy & After the War Volume Two
+    uri: kca://book/amzn1.gr.book.v3.aDQ3bN6RMhU_ET0b
+    work:
+      id: '97480671'
+  - authors:
+      author:
+        id: '31234'
+        link: https://www.goodreads.com/author/show/31234.Len_Deighton
+        name: Len Deighton
+    average_rating: '3.94'
+    id: '482120'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0345418344
+    isbn13: '9780345418340'
+    link: https://www.goodreads.com/book/show/482120.Berlin_Game
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12448'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Berlin Game (Bernard Samson, #1)'
+    title_without_series: Berlin Game
+    uri: kca://book/amzn1.gr.book.v1.Eb5ELn_rHzFhPjQ-M4Cr7g
+    work:
+      id: '3095609'
+  - authors:
+      author:
+        id: '11539'
+        link: https://www.goodreads.com/author/show/11539.Michael_Parker
+        name: Michael              Parker
+    average_rating: '3.94'
+    id: '24893504'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/24893504-the-eagle-s-covenant
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12448'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Eagle's Covenant
+    title_without_series: The Eagle's Covenant
+    uri: kca://book/amzn1.gr.book.v1.RURos1ajswkAANrNPXl2Xg
+    work:
+      id: '5056023'
+  - authors:
+      author:
+        id: '35840'
+        link: https://www.goodreads.com/author/show/35840.David_Downing
+        name: David Downing
+    average_rating: '3.94'
+    id: '8717812'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320550619l/8717812._SX98_.jpg
+    isbn: '1569479178'
+    isbn13: '9781569479179'
+    link: https://www.goodreads.com/book/show/8717812-potsdam-station
+    num_pages: '340'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12448'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320550619l/8717812._SY75_.jpg
+    title: 'Potsdam Station (John Russell, #4)'
+    title_without_series: Potsdam Station
+    uri: kca://book/amzn1.gr.book.v1.eh6SQbQVjsjbF4b2RHt4uQ
+    work:
+      id: '13546083'
+  - authors:
+      author:
+        id: '35840'
+        link: https://www.goodreads.com/author/show/35840.David_Downing
+        name: David Downing
+    average_rating: '3.94'
+    id: '3285072'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494095594l/3285072._SX98_.jpg
+    isbn: 156947494X
+    isbn13: '9781569474945'
+    link: https://www.goodreads.com/book/show/3285072-silesian-station
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12448'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494095594l/3285072._SY75_.jpg
+    title: 'Silesian Station (John Russell, #2)'
+    title_without_series: Silesian Station
+    uri: kca://book/amzn1.gr.book.v1.XTBh53eQBGa-r-cCNWMdWw
+    work:
+      id: '3321422'
+  - authors:
+      author:
+        id: '35840'
+        link: https://www.goodreads.com/author/show/35840.David_Downing
+        name: David Downing
+    average_rating: '3.94'
+    id: '63729'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325010301l/63729._SX98_.jpg
+    isbn: '1569474540'
+    isbn13: '9781569474549'
+    link: https://www.goodreads.com/book/show/63729.Zoo_Station
+    num_pages: '304'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '12448'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325010301l/63729._SY75_.jpg
+    title: 'Zoo Station (John Russell, #1)'
+    title_without_series: Zoo Station
+    uri: kca://book/amzn1.gr.book.v1.3XD3XlUV718b0kvgLTXiMA
+    work:
+      id: '61882'
+  - authors:
+      author:
+        id: '35840'
+        link: https://www.goodreads.com/author/show/35840.David_Downing
+        name: David Downing
+    average_rating: '3.94'
+    id: '6054413'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360107540l/6054413._SX98_.jpg
+    isbn: '1905847815'
+    isbn13: '9781905847815'
+    link: https://www.goodreads.com/book/show/6054413-stettin-station
+    num_pages: '320'
+    publication_day: null
+    publication_month: null
+    publication_year: '2009'
+    ratings_count: '12448'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360107540l/6054413._SY75_.jpg
+    title: 'Stettin Station (John Russell, #3)'
+    title_without_series: Stettin Station
+    uri: kca://book/amzn1.gr.book.v1.5bU11HQjxmWexDuESsRqig
+    work:
+      id: '6230224'
+  - authors:
+      author:
+        id: '35840'
+        link: https://www.goodreads.com/author/show/35840.David_Downing
+        name: David Downing
+    average_rating: '3.94'
+    id: '43093465'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543884905l/43093465._SX98_.jpg
+    isbn: 161695843X
+    isbn13: '9781616958435'
+    link: https://www.goodreads.com/book/show/43093465-diary-of-a-dead-man-on-leave
+    num_pages: '312'
+    publication_day: '2'
+    publication_month: '4'
+    publication_year: '2019'
+    ratings_count: '12448'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543884905l/43093465._SX50_.jpg
+    title: Diary of a Dead Man on Leave
+    title_without_series: Diary of a Dead Man on Leave
+    uri: kca://book/amzn1.gr.book.v1.OTl26f4bTGezG8JVqCRStg
+    work:
+      id: '66904278'
+  - authors:
+      author:
+        id: '53936'
+        link: https://www.goodreads.com/author/show/53936.Philip_Kerr
+        name: Philip Kerr
+    average_rating: '3.94'
+    id: '11448085'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352849119l/11448085._SX98_.jpg
+    isbn: '1780871430'
+    isbn13: '9781780871431'
+    link: https://www.goodreads.com/book/show/11448085-prague-fatale
+    num_pages: '527'
+    publication_day: '27'
+    publication_month: '10'
+    publication_year: '2011'
+    ratings_count: '12448'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352849119l/11448085._SY75_.jpg
+    title: 'Prague Fatale (Bernard Gunther, #8)'
+    title_without_series: Prague Fatale
+    uri: kca://book/amzn1.gr.book.v1.Ao4uFeL2iWu3s2lirKFMXQ
+    work:
+      id: '16381927'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: '2025-08-10T00:00:00-07:00'
+text_reviews_count:
+  '#text': '3'
+  '@type': integer
+title: Night Soldiers
+title_without_series: Night Soldiers
+uri: kca://book/amzn1.gr.book.v3.1irStUJ-Ey4F6H_f
+url: https://www.goodreads.com/book/show/219559632-night-soldiers
+work:
+  id: '810894'
+  uri: kca://work/amzn1.gr.work.v1.bsg_XnmK3vF5JsceFXzRuQ
