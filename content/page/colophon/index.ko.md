@@ -76,7 +76,7 @@ weight: 6
 
 이번 버전의 git 커밋 로그는 다음과 같습니다:
 
-{{< readfile file="gitlog.md" markdown="true" >}}
+{{% readfile file="gitlog.md" markdown="true" %}}
 
 ---
 
