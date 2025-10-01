@@ -233,6 +233,6 @@ And then when I said that the investigation found no wrong doing:
 
 They are so stupid. But, it is fun, and it turns out that these tools really help the agents think through hard tasks. Who knew!
 
-[![lil-guy.svg](lil-guy.svg)](https://2389.ai)
+[![](lil-guy.svg)](https://2389.ai)
 
 WE DID!!
