@@ -1,3 +1,7 @@
+# Tools to match Netlify environment  
+[tools]
+node = "22"
+
 [tasks.clean_llm_outputs]
 run = "find . -name 'output.txt' -print -delete"
 description = 'Remove all the various output.txts'
@@ -5,7 +9,6 @@ hide = true
 
 [tasks.clean_hugo_build_lock_file]
 run = "find . -name '.hugo_build.lock' -print -delete"
-description = 'Remove public directory'
 hide = true
 
 [tasks.clean_node_modules]
@@ -13,27 +16,21 @@ run = "rm -rf node_modules"
 description = 'Remove all the node_modules'
 hide = true
 
-[tasks.clean_public_dir]
-run = "rm -rf public"
-description = 'Remove public directory'
-hide = true
-
 [tasks.clean]
 depends = [
-    'clean_llm_outputs',
-    'clean_public_dir',
-    'clean_hugo_build_lock_file',
-    'clean_node_modules',
+  'clean_llm_outputs',
+  'clean_hugo_build_lock_file',
+  'clean_node_modules',
 ]
 description = 'Clean up the project: remove all the output.txts and node_modules'
 
+## Build Stuff
 [tasks.install_deps]
 run = "yarn"
 description = 'Install deps'
 
 [tasks.build]
-depends = ['clean_public_dir']
-run = "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic"
+run = "hugo --cleanDestinationDir --templateMetrics --templateMetricsHints --minify --forceSyncStatic --gc --logLevel info"
 description = 'Build hugo'
 
 [tasks.complete_build]
@@ -41,42 +38,30 @@ depends = ['install_deps', 'update_modules', 'build']
 description = 'Build hugo'
 
 [tasks.preview_build]
-run = "hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify"
+run = "hugo server --cleanDestinationDir --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify"
 description = 'Preview build hugo'
 
+[tasks.dev]
+run = "hugo server --cleanDestinationDir --navigateToChanged --templateMetrics --templateMetricsHints --buildDrafts --buildFuture"
+description = 'Preview build hugo'
 
 [tasks.update_modules]
 run = "hugo mod clean --all && hugo mod get -u ./... && hugo mod tidy"
 description = 'Update Modules'
 
-[tasks.build_and_deploy]
-depends = ['complete_build']
-run = "firebase deploy --only hosting"
-description = 'Build and Deploy'
-
+#LLM Stuff
 [tasks."llm:generate_bundle"]
 description = 'Generate LLM bundle output file using repomix'
 hide = true # hide this task from the lis
 run = """
 #!/usr/bin/env bash
-npx repomix --style xml --output-show-line-numbers --output output.txt --ignore **/uv.lock,**/package-lock.json,**/.env,content,assets,resources,static,functions,public,data,**/Cargo.lock,**/node_modules,**/target,**/dist,**/build,**/output.txt,**/yarn.lock
+npx repomix --style xml --output-show-line-numbers --output output.txt --ignore **/uv.lock,**/package-lock.json,**/.env,content,assets,resources,functions,public,data,**/Cargo.lock,**/node_modules,**/target,**/dist,**/build,**/output.txt,**/yarn.lock,**/*.svg
 """
-
-[tasks.get_photos] # hide this task from the list
-description = 'Grab photos from google'
-# you can specify a multiline script instead of individual commands
-run = """
-#!/usr/bin/env bash
-cd tools
-python get_photos.py
-
-"""
-
 
 [tasks."llm:audit_hugo"]
 depends = ["llm:generate_bundle"]
 description = 'Generate GitHub issues from repository content stored in output.txt using LLM generation'
 run = """
 #!/usr/bin/env bash
-cat output.txt | llm -m claude-3.5-sonnet "Audit this hugo blog. Output any issues you find in the style of github issues. Look for performance, efficiency, and usability issues. This is important" > hugo_issues.md
+cat output.txt | llm -m claude-4-sonnet "Audit this hugo blog. Output any issues you find in the style of github issues. Look for performance, efficiency, and usability issues. This is important" > hugo_issues.md
 """
