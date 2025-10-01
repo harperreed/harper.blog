@@ -86,7 +86,7 @@ I have been thinking a lot about what all this means. We did something that on t
 
 **My pet theory is that we are speed-running early 2000s enterprise software development lifecycle and work style.**
 
-First it was waterfall (2000, 2001). Now we have added social media (2004, 2008). Next we will probably add work group chat (IRC: 2002-2004, Campfire (2007-2012), and eventually Slack (2013 -...)). I have a stub MCP server you can peep [here](https://github.com/2389-research/workchat-mcp).
+First it was waterfall (2000, 2001). Now we have added social media (2004, 2008). Next we will probably add work group chat (IRC: 2002-2004, Campfire (2007-2012), and eventually Slack (2013 -...)). _I do have a prototype [work chat MCP server ](https://github.com/2389-research/workchat-mcp) you can checkout._
 
 I think this is because the models are overweighted with content from this time period. There was so much cruft around how to blog, post, etc to further your career. There are blogs upon blogs about how to blog. Let alone all of the nerds like us (i am including you in this) who blogged about inane things while working inane jobs. I have so many blogs that are [inane posts](https://harper.blog/2007/11/20/my-servers-are-offline./) [about my](https://harper.blog/2003/02/21/upgrade/) [tech life](https://harper.blog/2007/06/10/meraki-mesh-wifi-for-the-rest-of-us/) (warning these are hella cringe lol). I think it is second nature for us boomer tech people to complain and post about our work on social media.
 
