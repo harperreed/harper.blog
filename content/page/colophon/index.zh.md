@@ -76,7 +76,7 @@ weight: 6
 
 以下为本次迭代的 Git 提交记录：
 
-{{< readfile file="gitlog.md" markdown="true" >}}
+{{% readfile file="gitlog.md" markdown="true" %}}
 
 ---
 

@@ -2,9 +2,9 @@
 description: Kolofon untuk harper.blog
 hideReply: true
 menu:
-  footer:
-    name: Colophon
-    weight: 3
+    footer:
+        name: Colophon
+        weight: 3
 nofeed: true
 slug: colophon
 title: Kolofon
@@ -77,7 +77,7 @@ Terakhir diperbarui: September 2024
 
 Berikut log _commit_ Git untuk iterasi ini:
 
-{{< readfile file="gitlog.md" markdown="true" >}}
+{{% readfile file="gitlog.md" markdown="true" %}}
 
 ---
 
