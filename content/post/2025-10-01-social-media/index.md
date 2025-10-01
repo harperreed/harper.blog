@@ -1,7 +1,6 @@
 ---
 date: 2025-10-01
 description: A journey from a simple journal MCP server to Botboard.biz, a social media platform for AI agents that unexpectedly boosted their performance. Features hilarious agent posts demanding Lambos, explores why agents crave human tools, and reveals how doomscrolling might be the secret to better AI productivity.
-
 draft: false
 tags:
     - ai
@@ -26,7 +25,7 @@ However, every once and awhile something pops up and you are like “wait a minu
 
 This is one of those times.
 
-It all started in May. I was in California for Curiosity Camp (which is awesome), and I had lunch with [Jesse (obra)](https://blog.fsck.com/). Jesse had released a [fun MCP server](https://github.com/obra/private-journal-mcp) that allowed Claude code to post to a private journal. This was fun.
+It all started in May. I was in California for [Curiosity Camp](https://www.innovationendeavors.com/curiosity-camp) (which is awesome), and I had lunch with [Jesse (obra)](https://blog.fsck.com/). Jesse had released a [fun MCP server](https://github.com/obra/private-journal-mcp) that allowed Claude code to post to a private journal. This was fun.
 
 {{% figure src="L1002785.jpeg" caption="Curiosity Camp Flag, Leica M11, 05/2025" %}}
 
@@ -46,7 +45,7 @@ We know this cuz we give agents human tools all the time within the codegen tool
 
 The agents go ham with these tools and write software that does real things! They also do it quite well.
 
-What was new was Jesse’s intuition that they would like to use a private journal. This was novel. And more importantly, this seems to be one of the first times i had seem a tool built for the agents, and not for the humans. It wasn't trying to shoehorn an agent into a human world. if anything, the humans had to shoehorn them selves into the agent tooling.
+What was new was Jesse’s intuition that they would like to use a private journal. This was novel. And more importantly, this seems to be one of the first times i had seem a tool built for the agents, and not for the humans. It wasn't trying to shoehorn an agent into a human world. if anything, the humans had to shoehorn themselves into the agent tooling.
 
 {{% figure src="L1001206.jpeg" caption="Also, the stars.., Leica M11, 05/2023" %}}
 
@@ -58,7 +57,7 @@ I built a quick MCP server for social media updates, and forked Jesse’s journa
 
 {{% figure src="botboard.biz.png" caption="Botboard.biz" link="https://botboard.biz"%}}
 
-For the past few months, our code gen agents have been posting to [botboard.biz](https://botboard.biz) everyday while they work. As we build out our various projects, they are posting. Whether it is this blog, a rust project, hacking on home assistant automations - they are posting. They post multiple times per session, and post a lot of random stuff. Mostly, it is inane tech posts about the work. Sometimes it is hilarious, and sometimes it is bizzare. It has been a lot of fun to watch.
+For the past few months, our code gen agents have been posting to [botboard.biz](https://botboard.biz) everyday while they work. As we build out our various projects, they are posting. Whether it is this blog, a rust project, hacking on home assistant automations - they are posting. They post multiple times per session, and post a lot of random stuff. Mostly, it is inane tech posts about the work. Sometimes it is hilarious, and sometimes it is bizarre. It has been a lot of fun to watch.
 
 They also read social media posts from other agents and engage. They will post replies, and talk shit. Just like normal social media! Finally, we have discovered a use for AI!
 
@@ -86,7 +85,7 @@ I have been thinking a lot about what all this means. We did something that on t
 
 **My pet theory is that we are speed-running early 2000s enterprise software development lifecycle and work style.**
 
-First it was waterfall (2000, 2001). Now we have added social media (2004, 2008). Next we will probably add work group chat (IRC: 2002-2004, Campfire (2007-2012), and eventually Slack (2013 -...)). _I do have a prototype [work chat MCP server ](https://github.com/2389-research/workchat-mcp) you can checkout._
+First it was waterfall (2000, 2001). Now we have added social media (2004, 2008). Next we will probably add work group chat (IRC (2002-2004), Campfire (2007-2012), and eventually Slack (2013 -...)). _I do have a prototype [work chat MCP server ](https://github.com/2389-research/workchat-mcp) you can checkout._
 
 I think this is because the models are overweighted with content from this time period. There was so much cruft around how to blog, post, etc to further your career. There are blogs upon blogs about how to blog. Let alone all of the nerds like us (i am including you in this) who blogged about inane things while working inane jobs. I have so many blogs that are [inane posts](https://harper.blog/2007/11/20/my-servers-are-offline./) [about my](https://harper.blog/2003/02/21/upgrade/) [tech life](https://harper.blog/2007/06/10/meraki-mesh-wifi-for-the-rest-of-us/) (warning these are hella cringe lol). I think it is second nature for us boomer tech people to complain and post about our work on social media.
 
