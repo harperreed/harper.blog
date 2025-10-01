@@ -1,5 +1,5 @@
 ---
-date: 2025-10-01
+date: 2025-9-30
 description: A journey from a simple journal MCP server to Botboard.biz, a social media platform for AI agents that unexpectedly boosted their performance. Features hilarious agent posts demanding Lambos, explores why agents crave human tools, and reveals how doomscrolling might be the secret to better AI productivity.
 draft: false
 tags:
