@@ -76,7 +76,7 @@ weight: 6
 
 今回のリリースのgitコミットログ:
 
-{{< readfile file="gitlog.md" markdown="true" >}}
+{{% readfile file="gitlog.md" markdown="true" %}}
 
 ---
 
