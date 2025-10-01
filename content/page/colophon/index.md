@@ -77,7 +77,7 @@ Last updated: September 2024
 
 Here is the git commit log for this iteration:
 
-{{< readfile file="gitlog.md" markdown="true" >}}
+{{% readfile file="gitlog.md" markdown="true" %}}
 
 ---
 
