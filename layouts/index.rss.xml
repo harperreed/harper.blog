@@ -132,8 +132,11 @@
                                 <figure>
                                     <img src="{{ .Permalink }}" 
                                          alt="{{ $alt }}"
+                                         {{ if eq .MediaType.SubType "svg" }}
+                                         {{else}}
                                          {{ with .Width }}width="{{ . }}"{{ end }}
                                          {{ with .Height }}height="{{ . }}"{{ end }}
+                                         {{end}}
                                          loading="lazy" />
                                     {{ with $caption }}<figcaption>{{ . }}</figcaption>{{ end }}
                                 </figure>
