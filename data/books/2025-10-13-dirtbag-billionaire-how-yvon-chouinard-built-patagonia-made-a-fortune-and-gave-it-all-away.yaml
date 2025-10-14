@@ -1,0 +1,746 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.99'
+    id: '8393961'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1424383593p5/8393961.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/8393961.David_Gelles
+    name: David Gelles
+    ratings_count: '3022'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1424383593p2/8393961.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '430'
+average_rating: '4.29'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2025-10-13T00:00:00-07:00'
+description: null
+edition_information: null
+format: null
+id: '225539682'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn: '1668032287'
+isbn13: '9781668032282'
+json: '{"id": "225539682", "isbn": "1668032287", "isbn13": "9781668032282", "text_reviews_count":
+  {"@type": "integer", "#text": "26"}, "uri": "kca://book/amzn1.gr.book.v3.cAswUWjBZdacoIh3",
+  "title": "Dirtbag Billionaire: How Yvon Chouinard Built Patagonia, Made a Fortune,
+  and Gave It All Away", "title_without_series": "Dirtbag Billionaire: How Yvon Chouinard
+  Built Patagonia, Made a Fortune, and Gave It All Away", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/225539682-dirtbag-billionaire",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "4.29", "ratings_count": "157", "description": null, "authors": {"author": {"id":
+  "8393961", "name": "David Gelles", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1424383593p5/8393961.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1424383593p2/8393961.jpg"},
+  "link": "https://www.goodreads.com/author/show/8393961.David_Gelles", "average_rating":
+  "3.99", "ratings_count": "3022", "text_reviews_count": "430"}}, "published": null,
+  "work": {"id": "232795500", "uri": "kca://work/amzn1.gr.work.v3.zZ_Qbh6wudhCFpim"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/7931366157",
+  "read_at": "Mon Oct 13 00:00:00 -0700 2025", "started_at": "Sat Sep 20 00:00:00
+  -0700 2025", "date": "Mon Oct 13 00:00:00 -0700 2025"}'
+kindle_asin: B0DV68RRSK
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/225539682-dirtbag-billionaire
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '2428'
+    '@name': to-read
+  - '@count': '160'
+    '@name': currently-reading
+  - '@count': '27'
+    '@name': non-fiction
+  - '@count': '21'
+    '@name': biography
+  - '@count': '20'
+    '@name': business
+  - '@count': '12'
+    '@name': nonfiction
+  - '@count': '9'
+    '@name': memoir
+  - '@count': '5'
+    '@name': 2025-books
+  - '@count': '5'
+    '@name': audiobook
+  - '@count': '5'
+    '@name': biography-memoir
+  - '@count': '4'
+    '@name': memoirs
+  - '@count': '3'
+    '@name': audiobooks
+  - '@count': '3'
+    '@name': economics
+  - '@count': '3'
+    '@name': memoir-biography
+  - '@count': '2'
+    '@name': want-to-read-nonfiction
+  - '@count': '2'
+    '@name': nonfiction-tbr
+  - '@count': '2'
+    '@name': non-fiction-to-read
+  - '@count': '2'
+    '@name': sustainability
+  - '@count': '2'
+    '@name': environment
+  - '@count': '2'
+    '@name': biographies
+  - '@count': '2'
+    '@name': audio
+  - '@count': '2'
+    '@name': text-2025
+  - '@count': '2'
+    '@name': netgalley
+  - '@count': '1'
+    '@name': reserved
+  - '@count': '1'
+    '@name': outdoor-adventures
+  - '@count': '1'
+    '@name': wtr-non-fiction
+  - '@count': '1'
+    '@name': want-to-read
+  - '@count': '1'
+    '@name': travel
+  - '@count': '1'
+    '@name': wppl
+  - '@count': '1'
+    '@name': top-books-to-read
+  - '@count': '1'
+    '@name': left-right-whatever
+  - '@count': '1'
+    '@name': netgalley-tbr
+  - '@count': '1'
+    '@name': new-nonfiction-books-for-adults
+  - '@count': '1'
+    '@name': read-in-2025
+  - '@count': '1'
+    '@name': wtr-memoir
+  - '@count': '1'
+    '@name': personal-stories
+  - '@count': '1'
+    '@name': audible
+  - '@count': '1'
+    '@name': social-entrepreneurship
+  - '@count': '1'
+    '@name': history-bios
+  - '@count': '1'
+    '@name': read-society
+  - '@count': '1'
+    '@name': national-radio-nz
+  - '@count': '1'
+    '@name': bb-libro-fm
+  - '@count': '1'
+    '@name': ad-nonfiction
+  - '@count': '1'
+    '@name': borrowed
+  - '@count': '1'
+    '@name': family
+  - '@count': '1'
+    '@name': next-up
+  - '@count': '1'
+    '@name': library-options
+  - '@count': '1'
+    '@name': american
+  - '@count': '1'
+    '@name': bios
+  - '@count': '1'
+    '@name': g
+  - '@count': '1'
+    '@name': fall-reading-list-2025
+  - '@count': '1'
+    '@name': choice-2025
+  - '@count': '1'
+    '@name': recommended
+  - '@count': '1'
+    '@name': leisure-reading
+  - '@count': '1'
+    '@name': upcomingnonfiction
+  - '@count': '1'
+    '@name': en
+  - '@count': '1'
+    '@name': audiobooks-2
+  - '@count': '1'
+    '@name': to-buy
+  - '@count': '1'
+    '@name': outdoors
+  - '@count': '1'
+    '@name': librofm
+  - '@count': '1'
+    '@name': memoir-biographies
+  - '@count': '1'
+    '@name': business-economics-leadership
+  - '@count': '1'
+    '@name': audio-lib
+  - '@count': '1'
+    '@name': book-club-possibles
+  - '@count': '1'
+    '@name': 2-libby-yes
+  - '@count': '1'
+    '@name': maybe
+  - '@count': '1'
+    '@name': libro-fm
+  - '@count': '1'
+    '@name': top
+  - '@count': '1'
+    '@name': leadership-and-management
+  - '@count': '1'
+    '@name': motivational
+  - '@count': '1'
+    '@name': road-trip
+  - '@count': '1'
+    '@name': aaaa
+  - '@count': '1'
+    '@name': bought
+  - '@count': '1'
+    '@name': kindle
+  - '@count': '1'
+    '@name': aa
+  - '@count': '1'
+    '@name': a
+  - '@count': '1'
+    '@name': electronic
+  - '@count': '1'
+    '@name': business-nonfiction
+  - '@count': '1'
+    '@name': ecology-environment
+  - '@count': '1'
+    '@name': aaa
+  - '@count': '1'
+    '@name': 5-to-10
+  - '@count': '1'
+    '@name': short-squeeze
+  - '@count': '1'
+    '@name': potential-tbr
+  - '@count': '1'
+    '@name': pass
+  - '@count': '1'
+    '@name': wanna-read-asap
+  - '@count': '1'
+    '@name': tbr-longlist
+  - '@count': '1'
+    '@name': aaaaa
+  - '@count': '1'
+    '@name': nature
+  - '@count': '1'
+    '@name': memoirs-biographies
+  - '@count': '1'
+    '@name': biz-career
+  - '@count': '1'
+    '@name': trnf
+  - '@count': '1'
+    '@name': pd
+  - '@count': '1'
+    '@name': history
+  - '@count': '1'
+    '@name': historical-novel
+  - '@count': '1'
+    '@name': libby
+  - '@count': '1'
+    '@name': world-history-miscellaneous
+  - '@count': '1'
+    '@name': check-out
+  - '@count': '1'
+    '@name': not-interested
+  - '@count': '1'
+    '@name': not-my-jam
+  - '@count': '1'
+    '@name': summer-2025
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '157'
+read_at: '2025-10-13T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/7931366157
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/225539682-dirtbag-billionaire\"\
+  >Dirtbag Billionaire Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1668032287&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/225539682-dirtbag-billionaire?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '56500120'
+        link: https://www.goodreads.com/author/show/56500120.Dan_Wang
+        name: Dan  Wang
+    average_rating: '4.29'
+    id: '223736214'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1751038218l/223736214._SX98_.jpg
+    isbn: '1324106034'
+    isbn13: '9781324106036'
+    link: https://www.goodreads.com/book/show/223736214-breakneck
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '157'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1751038218l/223736214._SY75_.jpg
+    title: 'Breakneck: China''s Quest to Engineer the Future'
+    title_without_series: 'Breakneck: China''s Quest to Engineer the Future'
+    uri: kca://book/amzn1.gr.book.v3.hJ-YdGms_4UX9XLW
+    work:
+      id: '230831724'
+  - authors:
+      author:
+        id: '54318169'
+        link: https://www.goodreads.com/author/show/54318169.Patrick_McGee
+        name: Patrick  McGee
+    average_rating: '4.29'
+    id: '220161058'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1668053373'
+    isbn13: '9781668053379'
+    link: https://www.goodreads.com/book/show/220161058-apple-in-china
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '157'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Apple in China: The Capture of the World''s Greatest Company'
+    title_without_series: 'Apple in China: The Capture of the World''s Greatest Company'
+    uri: kca://book/amzn1.gr.book.v3.Xhsq8Cbn6d3pWkQe
+    work:
+      id: '227093067'
+  - authors:
+      author:
+        id: '38897913'
+        link: https://www.goodreads.com/author/show/38897913.Sophie_Elmhirst
+        name: Sophie Elmhirst
+    average_rating: '4.29'
+    id: '220239083'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0593854284
+    isbn13: '9780593854280'
+    link: https://www.goodreads.com/book/show/220239083-a-marriage-at-sea
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '157'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'A Marriage at Sea: A True Story of Love, Obsession, and Shipwreck'
+    title_without_series: 'A Marriage at Sea: A True Story of Love, Obsession, and
+      Shipwreck'
+    uri: kca://book/amzn1.gr.book.v3.uNFcUwPBKB2p-w-2
+    work:
+      id: '178255595'
+  - authors:
+      author:
+        id: '22383341'
+        link: https://www.goodreads.com/author/show/22383341.Megan_Greenwell
+        name: Megan Greenwell
+    average_rating: '4.29'
+    id: '218671853'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0063299356
+    isbn13: '9780063299351'
+    link: https://www.goodreads.com/book/show/218671853-bad-company
+    num_pages: '294'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '157'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Bad Company: Private Equity and the Death of the American Dream'
+    title_without_series: 'Bad Company: Private Equity and the Death of the American
+      Dream'
+    uri: kca://book/amzn1.gr.book.v3.xD6odVkCRjMjXJB_
+    work:
+      id: '225604609'
+  - authors:
+      author:
+        id: '53095990'
+        link: https://www.goodreads.com/author/show/53095990.Scott_Payne
+        name: Scott   Payne
+    average_rating: '4.29'
+    id: '199798602'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1668032902'
+    isbn13: '9781668032909'
+    link: https://www.goodreads.com/book/show/199798602-code-name
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '157'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: "Code Name: Pale Horse\u2014How I Went Undercover to Expose America's Nazis"
+    title_without_series: "Code Name: Pale Horse\u2014How I Went Undercover to Expose\
+      \ America's Nazis"
+    uri: kca://book/amzn1.gr.book.v3.0iyH0SRPgYlcY5iY
+    work:
+      id: '204371003'
+  - authors:
+      author:
+        id: '1193903'
+        link: https://www.goodreads.com/author/show/1193903.Charlie_Sheen
+        name: Charlie Sheen
+    average_rating: '4.29'
+    id: '234383003'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1668075288'
+    isbn13: '9781668075289'
+    link: https://www.goodreads.com/book/show/234383003-the-book-of-sheen
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '157'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Book of Sheen
+    title_without_series: The Book of Sheen
+    uri: kca://book/amzn1.gr.book.v3.gnRGtTbURxBClq-K
+    work:
+      id: '249371161'
+  - authors:
+      author:
+        id: '59400'
+        link: https://www.goodreads.com/author/show/59400.John_Seabrook
+        name: John Seabrook
+    average_rating: '4.29'
+    id: '218569847'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1732647447l/218569847._SX98_.jpg
+    isbn: '1324003529'
+    isbn13: '9781324003526'
+    link: https://www.goodreads.com/book/show/218569847-the-spinach-king
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '157'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1732647447l/218569847._SY75_.jpg
+    title: 'The Spinach King: The Rise and Fall of an American Dynasty'
+    title_without_series: 'The Spinach King: The Rise and Fall of an American Dynasty'
+    uri: kca://book/amzn1.gr.book.v3.P0jcO_RejM1QdzGp
+    work:
+      id: '225341462'
+  - authors:
+      author:
+        id: '6810849'
+        link: https://www.goodreads.com/author/show/6810849.Evan_Osnos
+        name: Evan Osnos
+    average_rating: '4.29'
+    id: '224003226'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1668204487'
+    isbn13: '9781668204481'
+    link: https://www.goodreads.com/book/show/224003226-the-haves-and-have-yachts
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '157'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Haves and Have-Yachts: Dispatches on the Ultrarich'
+    title_without_series: 'The Haves and Have-Yachts: Dispatches on the Ultrarich'
+    uri: kca://book/amzn1.gr.book.v3.qJxcyCnOjX2eI_kK
+    work:
+      id: '231198919'
+  - authors:
+      author:
+        id: '630'
+        link: https://www.goodreads.com/author/show/630.Dan_Brown
+        name: Dan    Brown
+    average_rating: '4.29'
+    id: '223889699'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0385546890
+    isbn13: '9780385546898'
+    link: https://www.goodreads.com/book/show/223889699-the-secret-of-secrets
+    num_pages: '688'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '157'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Secret of Secrets (Robert Langdon, #6)'
+    title_without_series: The Secret of Secrets
+    uri: kca://book/amzn1.gr.book.v3.UNZKjidWNdNCIWhm
+    work:
+      id: '231355010'
+  - authors:
+      author:
+        id: '52534167'
+        link: https://www.goodreads.com/author/show/52534167.Slutty_Cheff
+        name: Slutty Cheff
+    average_rating: '4.29'
+    id: '220161223'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1668070227'
+    isbn13: '9781668070222'
+    link: https://www.goodreads.com/book/show/220161223-tart
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '157'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Tart: Misadventures of an Anonymous Chef'
+    title_without_series: 'Tart: Misadventures of an Anonymous Chef'
+    uri: kca://book/amzn1.gr.book.v3.TI1qmyyS-KuKXlDj
+    work:
+      id: '227093205'
+  - authors:
+      author:
+        id: '5842213'
+        link: https://www.goodreads.com/author/show/5842213.Herman_Pontzer
+        name: Herman Pontzer
+    average_rating: '4.29'
+    id: '54734969'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603142735l/54734969._SX98_.jpg
+    isbn: '0525541527'
+    isbn13: '9780525541523'
+    link: https://www.goodreads.com/book/show/54734969-burn
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '157'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603142735l/54734969._SY75_.jpg
+    title: 'Burn: New Research Blows the Lid Off How We Really Burn Calories, Lose
+      Weight, and Stay Healthy'
+    title_without_series: 'Burn: New Research Blows the Lid Off How We Really Burn
+      Calories, Lose Weight, and Stay Healthy'
+    uri: kca://book/amzn1.gr.book.v3.zA5tTNsZGMQcfZw_
+    work:
+      id: '85382506'
+  - authors:
+      author:
+        id: '21826464'
+        link: https://www.goodreads.com/author/show/21826464.Nick_Maggiulli
+        name: Nick Maggiulli
+    average_rating: '4.29'
+    id: '220687901'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0593854039
+    isbn13: '9780593854037'
+    link: https://www.goodreads.com/book/show/220687901-the-wealth-ladder
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '157'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'The Wealth Ladder: Proven Strategies for Every Step of Your Financial
+      Life'
+    title_without_series: 'The Wealth Ladder: Proven Strategies for Every Step of
+      Your Financial Life'
+    uri: kca://book/amzn1.gr.book.v3.Z0envsG1XP4uw0tv
+    work:
+      id: '227637191'
+  - authors:
+      author:
+        id: '50094314'
+        link: https://www.goodreads.com/author/show/50094314.Vicky_Nguyen
+        name: Vicky Nguyen
+    average_rating: '4.29'
+    id: '214151482'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1668025566'
+    isbn13: '9781668025567'
+    link: https://www.goodreads.com/book/show/214151482-boat-baby
+    num_pages: '310'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '157'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Boat Baby: A Memoir'
+    title_without_series: 'Boat Baby: A Memoir'
+    uri: kca://book/amzn1.gr.book.v3.J7Xc2tL0Iq1sa9lY
+    work:
+      id: '220415462'
+  - authors:
+      author:
+        id: '50851266'
+        link: https://www.goodreads.com/author/show/50851266.Andrew_Wilkinson
+        name: Andrew  Wilkinson
+    average_rating: '4.29'
+    id: '199348906'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699912269l/199348906._SX98_.jpg
+    isbn: '1637744765'
+    isbn13: '9781637744765'
+    link: https://www.goodreads.com/book/show/199348906-never-enough
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '157'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699912269l/199348906._SY75_.jpg
+    title: 'Never Enough: From Barista to Billionaire'
+    title_without_series: 'Never Enough: From Barista to Billionaire'
+    uri: kca://book/amzn1.gr.book.v3.4I2TgE7ba7_qGlC3
+    work:
+      id: '203776411'
+  - authors:
+      author:
+        id: '1352780'
+        link: https://www.goodreads.com/author/show/1352780.Stephen_Witt
+        name: Stephen Witt
+    average_rating: '4.29'
+    id: '211399783'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1741381542l/211399783._SX98_.jpg
+    isbn: 0593832698
+    isbn13: '9780593832691'
+    link: https://www.goodreads.com/book/show/211399783-the-thinking-machine
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '157'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1741381542l/211399783._SY75_.jpg
+    title: 'The Thinking Machine: Jensen Huang, Nvidia, and the World''s Most Coveted
+      Microchip'
+    title_without_series: 'The Thinking Machine: Jensen Huang, Nvidia, and the World''s
+      Most Coveted Microchip'
+    uri: kca://book/amzn1.gr.book.v3.XgZTYhTvI9XSAX5d
+    work:
+      id: '218822936'
+  - authors:
+      author:
+        id: '11679'
+        link: https://www.goodreads.com/author/show/11679.Elizabeth_Gilbert
+        name: Elizabeth Gilbert
+    average_rating: '4.29'
+    id: '223405886'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0593540980
+    isbn13: '9780593540985'
+    link: https://www.goodreads.com/book/show/223405886-all-the-way-to-the-river
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '157'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'All the Way to the River: Love, Loss, and Liberation'
+    title_without_series: 'All the Way to the River: Love, Loss, and Liberation'
+    uri: kca://book/amzn1.gr.book.v3.KBi0esAsvuBDSqGx
+    work:
+      id: '230468557'
+  - authors:
+      author:
+        id: '20305367'
+        link: https://www.goodreads.com/author/show/20305367.Jacinda_Ardern
+        name: Jacinda Ardern
+    average_rating: '4.29'
+    id: '222531211'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0593728696
+    isbn13: '9780593728697'
+    link: https://www.goodreads.com/book/show/222531211-a-different-kind-of-power
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '157'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: A Different Kind of Power
+    title_without_series: A Different Kind of Power
+    uri: kca://book/amzn1.gr.book.v3.F5z58dbydy6sY-9S
+    work:
+      id: '229529040'
+  - authors:
+      author:
+        id: '35807'
+        link: https://www.goodreads.com/author/show/35807.Hisham_Matar
+        name: Hisham Matar
+    average_rating: '4.29'
+    id: '235476439'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1748845978l/235476439._SX98_.jpg
+    isbn: 0385340435
+    isbn13: '9780385340434'
+    link: https://www.goodreads.com/book/show/235476439-in-the-country-of-men
+    num_pages: '246'
+    publication_day: '26'
+    publication_month: '2'
+    publication_year: '2008'
+    ratings_count: '157'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1748845978l/235476439._SY75_.jpg
+    title: In the Country of Men
+    title_without_series: In the Country of Men
+    uri: kca://book/amzn1.gr.book.v3.K1RP_2MUxOOUjun3
+    work:
+      id: '2425175'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: '2025-09-20T00:00:00-07:00'
+text_reviews_count:
+  '#text': '26'
+  '@type': integer
+title: 'Dirtbag Billionaire: How Yvon Chouinard Built Patagonia, Made a Fortune, and
+  Gave It All Away'
+title_without_series: 'Dirtbag Billionaire: How Yvon Chouinard Built Patagonia, Made
+  a Fortune, and Gave It All Away'
+uri: kca://book/amzn1.gr.book.v3.cAswUWjBZdacoIh3
+url: https://www.goodreads.com/book/show/225539682-dirtbag-billionaire
+work:
+  id: '232795500'
+  uri: kca://work/amzn1.gr.work.v3.zZ_Qbh6wudhCFpim
