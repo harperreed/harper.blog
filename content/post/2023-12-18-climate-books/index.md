@@ -23,7 +23,7 @@ A bunch of friends have asked for my climate fiction reading list. Here it is:
 1. [A Children's Bible](https://www.amazon.com/dp/B07ZTTH5VD?tag=harperrules0d-20) by [Lydia Millet](https://www.amazon.com/s/?url=search-alias%3Dbooks&field-keywords=Lydia%20Millet&tag=harperrules0d-20)
 2. [Crossed](https://www.amazon.com/dp/B010EO3A3K?tag=harperrules0d-20) by [Evelyn Blackwell](https://www.amazon.com/s/?url=search-alias%3Dbooks&field-keywords=Evelyn%20Blackwell&tag=harperrules0d-20)
 3. [The Deluge](https://www.amazon.com/dp/B0B3Y91YDR?tag=harperrules0d-20) by [Stephen Markley](https://www.amazon.com/s/?url=search-alias%3Dbooks&field-keywords=Stephen%20Markley&tag=harperrules0d-20)
-4. [American War](https://reading.lol/books/american-war/) by [Omar El Akkad](https://www.amazon.com/s/?url=search-alias%3Dbooks&field-keywords=Omar%20El%20Akkad&tag=harperrules0d-20)
+4. [American War](<https://en.wikipedia.org/wiki/American_War_(novel)>) by [Omar El Akkad](https://www.amazon.com/s/?url=search-alias%3Dbooks&field-keywords=Omar%20El%20Akkad&tag=harperrules0d-20)
 5. [Denial](https://www.amazon.com/dp/B09JPJF5B1?tag=harperrules0d-20) by [Jon Raymond](https://www.amazon.com/s/?url=search-alias%3Dbooks&field-keywords=Jon%20Raymond&tag=harperrules0d-20)
 
 Extra credit
