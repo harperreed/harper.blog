@@ -1,0 +1,745 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.79'
+    id: '43861'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1218247538p5/43861.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/43861.Bill_McKibben
+    name: Bill McKibben
+    ratings_count: '208747'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1218247538p2/43861.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '11339'
+average_rating: '4.56'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2025-11-02T00:00:00-07:00'
+description: null
+edition_information: null
+format: null
+id: '228168532'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn: '1324106247'
+isbn13: '9781324106241'
+json: '{"id": "228168532", "isbn": "1324106247", "isbn13": "9781324106241", "text_reviews_count":
+  {"@type": "integer", "#text": "7"}, "uri": "kca://book/amzn1.gr.book.v3.-nb8nJyoAp44-JRD",
+  "title": "Here Comes the Sun: A Last Chance for the Climate and a Fresh Chance for
+  Civilization", "title_without_series": "Here Comes the Sun: A Last Chance for the
+  Climate and a Fresh Chance for Civilization", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/228168532-here-comes-the-sun",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "4.56", "ratings_count": "284", "description": null, "authors": {"author": {"id":
+  "43861", "name": "Bill McKibben", "role": null, "image_url": {"@nophoto": "false",
+  "#text": "https://images.gr-assets.com/authors/1218247538p5/43861.jpg"}, "small_image_url":
+  {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1218247538p2/43861.jpg"},
+  "link": "https://www.goodreads.com/author/show/43861.Bill_McKibben", "average_rating":
+  "3.79", "ratings_count": "208747", "text_reviews_count": "11339"}}, "published":
+  null, "work": {"id": "230831751", "uri": "kca://work/amzn1.gr.work.v3.XgcrV7tevrY_aKPK"},
+  "review_rating": "0", "owned": "0", "review_url": "https://www.goodreads.com/review/show/7991134392",
+  "read_at": "Sun Nov 02 00:00:00 -0700 2025", "started_at": "Mon Oct 13 00:00:00
+  -0700 2025", "date": "Sun Nov 02 00:00:00 -0700 2025"}'
+kindle_asin: B0DXQGBM4Z
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/228168532-here-comes-the-sun
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '2976'
+    '@name': to-read
+  - '@count': '188'
+    '@name': currently-reading
+  - '@count': '27'
+    '@name': non-fiction
+  - '@count': '17'
+    '@name': science
+  - '@count': '11'
+    '@name': nonfiction
+  - '@count': '11'
+    '@name': environment
+  - '@count': '10'
+    '@name': nature
+  - '@count': '7'
+    '@name': climate-change
+  - '@count': '6'
+    '@name': climate
+  - '@count': '6'
+    '@name': technology
+  - '@count': '3'
+    '@name': politics
+  - '@count': '3'
+    '@name': audiobook
+  - '@count': '3'
+    '@name': environmental
+  - '@count': '3'
+    '@name': giveaways
+  - '@count': '2'
+    '@name': science-and-nature
+  - '@count': '2'
+    '@name': audio
+  - '@count': '2'
+    '@name': to-buy
+  - '@count': '2'
+    '@name': essays
+  - '@count': '2'
+    '@name': ecology
+  - '@count': '2'
+    '@name': economics
+  - '@count': '1'
+    '@name': urgent-and-timely
+  - '@count': '1'
+    '@name': on-deck-to-read
+  - '@count': '1'
+    '@name': tsundoku
+  - '@count': '1'
+    '@name': tech
+  - '@count': '1'
+    '@name': social-culture
+  - '@count': '1'
+    '@name': true-crime
+  - '@count': '1'
+    '@name': social-science
+  - '@count': '1'
+    '@name': wwii
+  - '@count': '1'
+    '@name': shorts
+  - '@count': '1'
+    '@name': might-read
+  - '@count': '1'
+    '@name': radical
+  - '@count': '1'
+    '@name': science-medicine
+  - '@count': '1'
+    '@name': money
+  - '@count': '1'
+    '@name': philosophy
+  - '@count': '1'
+    '@name': usa
+  - '@count': '1'
+    '@name': social-justice
+  - '@count': '1'
+    '@name': social-medicine
+  - '@count': '1'
+    '@name': powerful
+  - '@count': '1'
+    '@name': pollution
+  - '@count': '1'
+    '@name': nonfiction-2025
+  - '@count': '1'
+    '@name': climate-and-ecology
+  - '@count': '1'
+    '@name': new-september-2025
+  - '@count': '1'
+    '@name': nature-environment
+  - '@count': '1'
+    '@name': u-listen-lib
+  - '@count': '1'
+    '@name': social-sciences
+  - '@count': '1'
+    '@name': social-causes
+  - '@count': '1'
+    '@name': to-read-2
+  - '@count': '1'
+    '@name': spring-2026
+  - '@count': '1'
+    '@name': recommendations-and-wish-list
+  - '@count': '1'
+    '@name': science-tech-society
+  - '@count': '1'
+    '@name': physical-tbr-pile
+  - '@count': '1'
+    '@name': on-my-shelf
+  - '@count': '1'
+    '@name': policy
+  - '@count': '1'
+    '@name': contemporary
+  - '@count': '1'
+    '@name': the-future-aint-what-it-used-to-be
+  - '@count': '1'
+    '@name': own-it
+  - '@count': '1'
+    '@name': nonfic-history
+  - '@count': '1'
+    '@name': non-fiction-to-reads
+  - '@count': '1'
+    '@name': reference
+  - '@count': '1'
+    '@name': nonfiction-queue
+  - '@count': '1'
+    '@name': work
+  - '@count': '1'
+    '@name': to-maybe-read
+  - '@count': '1'
+    '@name': poli-religious-environmental-econ
+  - '@count': '1'
+    '@name': bookbub-popular-nonfiction
+  - '@count': '1'
+    '@name': unfinished
+  - '@count': '1'
+    '@name': tbr
+  - '@count': '1'
+    '@name': recs
+  - '@count': '1'
+    '@name': hardcopy
+  - '@count': '1'
+    '@name': new-nonfiction-books-for-adults
+  - '@count': '1'
+    '@name': nature-science
+  - '@count': '1'
+    '@name': books-read-in-2025
+  - '@count': '1'
+    '@name': gcpl
+  - '@count': '1'
+    '@name': giveaways-and-arcs
+  - '@count': '1'
+    '@name': nonfic
+  - '@count': '1'
+    '@name': 2025-reads
+  - '@count': '1'
+    '@name': 1-audio-tr
+  - '@count': '1'
+    '@name': audiobooks-tbr
+  - '@count': '1'
+    '@name': 52-book-club-2025-challenge
+  - '@count': '1'
+    '@name': net-galley
+  - '@count': '1'
+    '@name': arc
+  - '@count': '1'
+    '@name': activism
+  - '@count': '1'
+    '@name': modern-non-fiction
+  - '@count': '1'
+    '@name': social-issues
+  - '@count': '1'
+    '@name': own-this-book
+  - '@count': '1'
+    '@name': '1304'
+  - '@count': '1'
+    '@name': want-to-read-non-fiction
+  - '@count': '1'
+    '@name': misc-recommendations
+  - '@count': '1'
+    '@name': 2025-audiobook
+  - '@count': '1'
+    '@name': environment-tbr
+  - '@count': '1'
+    '@name': eco-lit
+  - '@count': '1'
+    '@name': science-not-fiction
+  - '@count': '1'
+    '@name': wtr-nonfiction
+  - '@count': '1'
+    '@name': science-nature
+  - '@count': '1'
+    '@name': stem
+  - '@count': '1'
+    '@name': author-interview
+  - '@count': '1'
+    '@name': arcs
+  - '@count': '1'
+    '@name': usa-canada
+  - '@count': '1'
+    '@name': landscape
+  - '@count': '1'
+    '@name': dd
+  - '@count': '1'
+    '@name': 5-library-book
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '284'
+read_at: '2025-11-02T00:00:00-07:00'
+review_rating: '0'
+review_url: https://www.goodreads.com/review/show/7991134392
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/228168532-here-comes-the-sun\"\
+  >Here Comes the Sun Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1324106247&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/228168532-here-comes-the-sun?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '43932'
+        link: https://www.goodreads.com/author/show/43932.Robert_B_Reich
+        name: Robert B. Reich
+    average_rating: '4.56'
+    id: '221754271'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0593803280
+    isbn13: '9780593803288'
+    link: https://www.goodreads.com/book/show/221754271-coming-up-short
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '284'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Coming Up Short: A Memoir of My America'
+    title_without_series: 'Coming Up Short: A Memoir of My America'
+    uri: kca://book/amzn1.gr.book.v3.dA-jEdeELkQPhwvL
+    work:
+      id: '228749504'
+  - authors:
+      author:
+        id: '56500120'
+        link: https://www.goodreads.com/author/show/56500120.Dan_Wang
+        name: Dan  Wang
+    average_rating: '4.56'
+    id: '223736214'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1751038218l/223736214._SX98_.jpg
+    isbn: '1324106034'
+    isbn13: '9781324106036'
+    link: https://www.goodreads.com/book/show/223736214-breakneck
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1751038218l/223736214._SY75_.jpg
+    title: 'Breakneck: China''s Quest to Engineer the Future'
+    title_without_series: 'Breakneck: China''s Quest to Engineer the Future'
+    uri: kca://book/amzn1.gr.book.v3.hJ-YdGms_4UX9XLW
+    work:
+      id: '230831724'
+  - authors:
+      author:
+        id: '22299058'
+        link: https://www.goodreads.com/author/show/22299058.Karen_Hao
+        name: Karen Hao
+    average_rating: '4.56'
+    id: '222725518'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0593657519
+    isbn13: '9780593657515'
+    link: https://www.goodreads.com/book/show/222725518-empire-of-ai
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '284'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Empire of AI: Dreams and Nightmares in Sam Altman''s OpenAI'
+    title_without_series: 'Empire of AI: Dreams and Nightmares in Sam Altman''s OpenAI'
+    uri: kca://book/amzn1.gr.book.v3.F1sDWg3F4UuqcXKD
+    work:
+      id: '229757365'
+  - authors:
+      author:
+        id: '776'
+        link: https://www.goodreads.com/author/show/776.Michael_Lewis
+        name: Michael   Lewis
+    average_rating: '4.56'
+    id: '219551344'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: null
+    isbn13: '9798217047802'
+    link: https://www.goodreads.com/book/show/219551344-who-is-government-the-untold-story-of-public-service
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '284'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Who Is Government? The Untold Story of Public Service
+    title_without_series: Who Is Government? The Untold Story of Public Service
+    uri: kca://book/amzn1.gr.book.v3.BysSqVNW_O9NBUiF
+    work:
+      id: '226488194'
+  - authors:
+      author:
+        id: '12543524'
+        link: https://www.goodreads.com/author/show/12543524.Michael_E_Mann
+        name: Michael E. Mann
+    average_rating: '4.56'
+    id: '223296308'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1756829268l/223296308._SX98_.jpg
+    isbn: '1541705491'
+    isbn13: '9781541705494'
+    link: https://www.goodreads.com/book/show/223296308-science-under-siege
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1756829268l/223296308._SY75_.jpg
+    title: 'Science Under Siege: How to Fight the Five Most Powerful Forces that Threaten
+      Our World'
+    title_without_series: 'Science Under Siege: How to Fight the Five Most Powerful
+      Forces that Threaten Our World'
+    uri: kca://book/amzn1.gr.book.v3.yzAIH0GM3XNqy3XP
+    work:
+      id: '230359172'
+  - authors:
+      author:
+        id: '4533716'
+        link: https://www.goodreads.com/author/show/4533716.Eliezer_Yudkowsky
+        name: Eliezer Yudkowsky
+    average_rating: '4.56'
+    id: '228646231'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1751650717l/228646231._SX98_.jpg
+    isbn: 0316595640
+    isbn13: '9780316595643'
+    link: https://www.goodreads.com/book/show/228646231-if-anyone-builds-it-everyone-dies
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1751650717l/228646231._SY75_.jpg
+    title: 'If Anyone Builds It, Everyone Dies: Why Superhuman AI Would Kill Us All'
+    title_without_series: 'If Anyone Builds It, Everyone Dies: Why Superhuman AI Would
+      Kill Us All'
+    uri: kca://book/amzn1.gr.book.v3.Nn9x9wQVyUDcSlTC
+    work:
+      id: '239453610'
+  - authors:
+      author:
+        id: '662774'
+        link: https://www.goodreads.com/author/show/662774.Christopher_L_Hayes
+        name: Christopher L. Hayes
+    average_rating: '4.56'
+    id: '217869789'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725466448l/217869789._SX98_.jpg
+    isbn: 0593653114
+    isbn13: '9780593653111'
+    link: https://www.goodreads.com/book/show/217869789-the-sirens-call
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725466448l/217869789._SY75_.jpg
+    title: 'The Sirens'' Call: How Attention Became the World''s Most Endangered Resource'
+    title_without_series: 'The Sirens'' Call: How Attention Became the World''s Most
+      Endangered Resource'
+    uri: kca://book/amzn1.gr.book.v3.IQoFeyf37126PGra
+    work:
+      id: '223871893'
+  - authors:
+      author:
+        id: '4412018'
+        link: https://www.goodreads.com/author/show/4412018.Ezra_Klein
+        name: Ezra Klein
+    average_rating: '4.56'
+    id: '176444106'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1668023482'
+    isbn13: '9781668023488'
+    link: https://www.goodreads.com/book/show/176444106-abundance
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '284'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Abundance
+    title_without_series: Abundance
+    uri: kca://book/amzn1.gr.book.v3.blyWNpJh6pnSSJwt
+    work:
+      id: '183066321'
+  - authors:
+      author:
+        id: '77397'
+        link: https://www.goodreads.com/author/show/77397.Jill_Lepore
+        name: Jill Lepore
+    average_rating: '4.56'
+    id: '223736225'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738432343l/223736225._SX98_.jpg
+    isbn: '1631496085'
+    isbn13: '9781631496080'
+    link: https://www.goodreads.com/book/show/223736225-we-the-people
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738432343l/223736225._SY75_.jpg
+    title: 'We the People: A History of the U.S. Constitution'
+    title_without_series: 'We the People: A History of the U.S. Constitution'
+    uri: kca://book/amzn1.gr.book.v3.WsEFJd8oHw2mKXus
+    work:
+      id: '230831734'
+  - authors:
+      author:
+        id: '9950'
+        link: https://www.goodreads.com/author/show/9950.Ron_Chernow
+        name: Ron Chernow
+    average_rating: '4.56'
+    id: '219158874'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '0525561722'
+    isbn13: '9780525561729'
+    link: https://www.goodreads.com/book/show/219158874-mark-twain
+    num_pages: '1200'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '284'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: Mark Twain
+    title_without_series: Mark Twain
+    uri: kca://book/amzn1.gr.book.v3.Ok-izJZP7K65ayOY
+    work:
+      id: '226083234'
+  - authors:
+      author:
+        id: '2408'
+        link: https://www.goodreads.com/author/show/2408.Ian_McEwan
+        name: Ian McEwan
+    average_rating: '4.56'
+    id: '223854881'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0593804724
+    isbn13: '9780593804728'
+    link: https://www.goodreads.com/book/show/223854881-what-we-can-know
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '284'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: What We Can Know
+    title_without_series: What We Can Know
+    uri: kca://book/amzn1.gr.book.v3.O3SBMFO6tJ9X-ggW
+    work:
+      id: '235168705'
+  - authors:
+      author:
+        id: '14777716'
+        link: https://www.goodreads.com/author/show/14777716.Alexander_Clapp
+        name: Alexander Clapp
+    average_rating: '4.56'
+    id: '214175143'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734640424l/214175143._SX98_.jpg
+    isbn: 031645902X
+    isbn13: '9780316459020'
+    link: https://www.goodreads.com/book/show/214175143-waste-wars
+    num_pages: '391'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734640424l/214175143._SY75_.jpg
+    title: 'Waste Wars: The Wild Afterlife of Your Trash'
+    title_without_series: 'Waste Wars: The Wild Afterlife of Your Trash'
+    uri: kca://book/amzn1.gr.book.v3.-VC7Iap5CG2jpf53
+    work:
+      id: '220443314'
+  - authors:
+      author:
+        id: '3206446'
+        link: https://www.goodreads.com/author/show/3206446.Sam_Kean
+        name: Sam Kean
+    average_rating: '4.56'
+    id: '221179212'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1742517406l/221179212._SX98_.jpg
+    isbn: 0316496553
+    isbn13: '9780316496551'
+    link: https://www.goodreads.com/book/show/221179212-dinner-with-king-tut
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1742517406l/221179212._SY75_.jpg
+    title: 'Dinner with King Tut: How Rogue Archaeologists Are Re-creating the Sights,
+      Sounds, Smells, and Tastes of Lost Civilizations'
+    title_without_series: 'Dinner with King Tut: How Rogue Archaeologists Are Re-creating
+      the Sights, Sounds, Smells, and Tastes of Lost Civilizations'
+    uri: kca://book/amzn1.gr.book.v3.aOZKjtSC18Atjbga
+    work:
+      id: '228136197'
+  - authors:
+      author:
+        id: '49813379'
+        link: https://www.goodreads.com/author/show/49813379.Adam_Aleksic
+        name: Adam Aleksic
+    average_rating: '4.56'
+    id: '220458608'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733256099l/220458608._SX98_.jpg
+    isbn: 0593804074
+    isbn13: '9780593804070'
+    link: https://www.goodreads.com/book/show/220458608-algospeak
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733256099l/220458608._SX50_.jpg
+    title: 'Algospeak: How Social Media Is Transforming the Future of Language'
+    title_without_series: 'Algospeak: How Social Media Is Transforming the Future
+      of Language'
+    uri: kca://book/amzn1.gr.book.v3.L6XOynDPjbplC1Sm
+    work:
+      id: '227400624'
+  - authors:
+      author:
+        id: '51780720'
+        link: https://www.goodreads.com/author/show/51780720.Kevin_Sack
+        name: Kevin Sack
+    average_rating: '4.56'
+    id: '218460355'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: '1524761303'
+    isbn13: '9781524761301'
+    link: https://www.goodreads.com/book/show/218460355-mother-emanuel
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '284'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Mother Emanuel: Two Centuries of Race, Resistance, and Forgiveness in
+      One Charleston Church'
+    title_without_series: 'Mother Emanuel: Two Centuries of Race, Resistance, and
+      Forgiveness in One Charleston Church'
+    uri: kca://book/amzn1.gr.book.v3.S_KQgzrwVoBipd4a
+    work:
+      id: '225026088'
+  - authors:
+      author:
+        id: '75520'
+        link: https://www.goodreads.com/author/show/75520.Pico_Iyer
+        name: Pico Iyer
+    average_rating: '4.56'
+    id: '211399655'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0593420306
+    isbn13: '9780593420300'
+    link: https://www.goodreads.com/book/show/211399655-aflame
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '284'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: 'Aflame: Learning from Silence'
+    title_without_series: 'Aflame: Learning from Silence'
+    uri: kca://book/amzn1.gr.book.v3.qyAT8WD5HEgARXYb
+    work:
+      id: '217645568'
+  - authors:
+      author:
+        id: '6219675'
+        link: https://www.goodreads.com/author/show/6219675.Jason_Mott
+        name: Jason Mott
+    average_rating: '4.56'
+    id: '221251749'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1740424709l/221251749._SX98_.jpg
+    isbn: null
+    isbn13: '9798217047116'
+    link: https://www.goodreads.com/book/show/221251749-people-like-us
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1740424709l/221251749._SY75_.jpg
+    title: People Like Us
+    title_without_series: People Like Us
+    uri: kca://book/amzn1.gr.book.v3.X_1p3l8L5Mrx7WRf
+    work:
+      id: '228216359'
+  - authors:
+      author:
+        id: '435856'
+        link: https://www.goodreads.com/author/show/435856.Robert_Macfarlane
+        name: Robert Macfarlane
+    average_rating: '4.56'
+    id: '218569826'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729776933l/218569826._SX98_.jpg
+    isbn: 0393242137
+    isbn13: '9780393242133'
+    link: https://www.goodreads.com/book/show/218569826-is-a-river-alive
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '284'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729776933l/218569826._SY75_.jpg
+    title: Is a River Alive?
+    title_without_series: Is a River Alive?
+    uri: kca://book/amzn1.gr.book.v3.DbCpyuvc9u-bsabB
+    work:
+      id: '223930195'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: '2025-10-13T00:00:00-07:00'
+text_reviews_count:
+  '#text': '7'
+  '@type': integer
+title: 'Here Comes the Sun: A Last Chance for the Climate and a Fresh Chance for Civilization'
+title_without_series: 'Here Comes the Sun: A Last Chance for the Climate and a Fresh
+  Chance for Civilization'
+uri: kca://book/amzn1.gr.book.v3.-nb8nJyoAp44-JRD
+url: https://www.goodreads.com/book/show/228168532-here-comes-the-sun
+work:
+  id: '230831751'
+  uri: kca://work/amzn1.gr.work.v3.XgcrV7tevrY_aKPK
