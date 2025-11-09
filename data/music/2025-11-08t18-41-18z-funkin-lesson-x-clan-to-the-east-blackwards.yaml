@@ -1,0 +1,72 @@
+added_at: '2025-11-08T18:41:18Z'
+album: To The East, Blackwards
+album_image: https://i.scdn.co/image/ab67616d0000b2734c8cbc93908159ad1826c289
+artist: X-Clan
+duration_ms: 243773
+id: 6IkKUAda9Uq7827Y8TtnF9
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0UbkL4O5WmWWH8RZOweBZK
+      href: https://api.spotify.com/v1/artists/0UbkL4O5WmWWH8RZOweBZK
+      id: 0UbkL4O5WmWWH8RZOweBZK
+      name: X-Clan
+      type: artist
+      uri: spotify:artist:0UbkL4O5WmWWH8RZOweBZK
+    available_markets:
+    - MX
+    - US
+    external_urls:
+      spotify: https://open.spotify.com/album/0vBM7jhxCyfR2k8arPyaZu
+    href: https://api.spotify.com/v1/albums/0vBM7jhxCyfR2k8arPyaZu
+    id: 0vBM7jhxCyfR2k8arPyaZu
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2734c8cbc93908159ad1826c289
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e024c8cbc93908159ad1826c289
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048514c8cbc93908159ad1826c289
+      width: 64
+    is_playable: true
+    name: To The East, Blackwards
+    release_date: '1990-01-01'
+    release_date_precision: day
+    total_tracks: 11
+    type: album
+    uri: spotify:album:0vBM7jhxCyfR2k8arPyaZu
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0UbkL4O5WmWWH8RZOweBZK
+    href: https://api.spotify.com/v1/artists/0UbkL4O5WmWWH8RZOweBZK
+    id: 0UbkL4O5WmWWH8RZOweBZK
+    name: X-Clan
+    type: artist
+    uri: spotify:artist:0UbkL4O5WmWWH8RZOweBZK
+  available_markets:
+  - MX
+  - US
+  disc_number: 1
+  duration_ms: 243773
+  explicit: false
+  external_ids:
+    isrc: USIR29000012
+  external_urls:
+    spotify: https://open.spotify.com/track/6IkKUAda9Uq7827Y8TtnF9
+  href: https://api.spotify.com/v1/tracks/6IkKUAda9Uq7827Y8TtnF9
+  id: 6IkKUAda9Uq7827Y8TtnF9
+  is_local: false
+  is_playable: true
+  name: Funkin' Lesson
+  popularity: 31
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:6IkKUAda9Uq7827Y8TtnF9
+spotify_url: https://open.spotify.com/track/6IkKUAda9Uq7827Y8TtnF9
+title: Funkin' Lesson
