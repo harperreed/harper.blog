@@ -90,7 +90,7 @@ There are a few important parts:
 
 This is highly personal (how do you manage YOUR inbox), and very important. The first thing I did was have Claude go through the past couple hundred emails I have sent, and develop a vibe for how I write emails. After a bit of back and forth, we have this:
 
-```
+```prompt
 1. **Find the thread**: Search for the original email/thread to get context
 2. **Get thread details**: Retrieve the thread ID, message ID, AND recipient email address for proper threading
 3. **Check for calendar events**: If the email mentions an event, proactively check calendar and add it
@@ -108,7 +108,7 @@ This is highly personal (how do you manage YOUR inbox), and very important. The 
 
 Then I went through and did a bunch of emails via Claude Code. It did ok. But I was able to coach it, and once it was in a good place I had it make a skill based on what we discovered together.
 
-```
+```prompt
 ## Core Principles
 
 1. **Always draft, never send** - Save emails as drafts so Harper can review before sending
@@ -119,7 +119,7 @@ Then I went through and did a bunch of emails via Claude Code. It did ok. But I 
 
 And
 
-```
+```prompt
 ## Success Criteria
 
 You've successfully handled email tasks when:
