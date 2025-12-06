@@ -1,3 +1,18 @@
+# ABOUTME: Hugo image processing configuration for automatic resizing and WebP conversion.
+# ABOUTME: Sets quality defaults and EXIF handling for processed images.
+
+# Default quality for resized images (0-100)
+quality = 82
+
+# Background color for images with transparency (when converting to non-alpha formats)
+bgColor = "#ffffff"
+
+# Resampling filter for resizing (box is fast, lanczos is higher quality)
+resampleFilter = "lanczos"
+
+# Hint for the image encoder (photo, picture, drawing, icon, text)
+hint = "photo"
+
 [exif]
 disableDate = false
 disableLatLong = true
