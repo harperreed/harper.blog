@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "micropub": {
+      "type": "stdio",
+      "command": "micropub",
+      "args": [
+        "mcp"
+      ],
+      "env": {}
+    }
+  }
+}
