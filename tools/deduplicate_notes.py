@@ -1,13 +1,12 @@
 #!/usr/bin/env python
 import os
-import re
 import json
 import logging
 import shutil
-import hashlib
 from datetime import datetime
 from pathlib import Path
 import frontmatter
+from note_utils import normalize_content, generate_content_hash, get_note_id_from_title
 
 # ABOUTME: This script finds and removes duplicate notes, keeping the most recent version.
 # ABOUTME: It detects duplicates based on content similarity and handles Note ID preservation.
@@ -20,54 +19,6 @@ logging.basicConfig(
         logging.StreamHandler()
     ]
 )
-
-def generate_content_hash(content):
-    """
-    Generate a SHA-1 hash of content for comparison.
-    
-    Args:
-        content (str): Content to hash
-        
-    Returns:
-        str: SHA-1 hash
-    """
-    sha1 = hashlib.sha1()
-    sha1.update(content.encode('utf-8'))
-    return sha1.hexdigest()
-
-def clean_content_for_comparison(content):
-    """
-    Clean and normalize content for consistent comparison.
-    
-    Args:
-        content (str): Content to clean
-        
-    Returns:
-        str: Cleaned content
-    """
-    # Normalize whitespace
-    normalized = re.sub(r'\s+', ' ', content.strip())
-    # Remove any URLs or common variations that might differ but point to the same resource
-    normalized = re.sub(r'https?://\S+', '', normalized)
-    return normalized
-
-def get_note_id_from_title(title):
-    """
-    Extract note ID from title.
-    
-    Args:
-        title (str): Title string like "Note #123"
-        
-    Returns:
-        int or None: Extracted note ID or None if not found
-    """
-    if not title:
-        return None
-        
-    match = re.search(r'Note\s*#(\d+)', title)
-    if match:
-        return int(match.group(1))
-    return None
 
 def find_and_analyze_notes(notes_dir):
     """
@@ -113,9 +64,9 @@ def find_and_analyze_notes(notes_dir):
                 file_stat = index_file.stat()
                 creation_date = datetime.fromtimestamp(file_stat.st_mtime)
             
-            # Clean content for comparison
-            clean_content = clean_content_for_comparison(post.content)
-            content_hash = generate_content_hash(clean_content)
+            # Normalize and hash content for comparison
+            clean_content = normalize_content(post.content)
+            content_hash = generate_content_hash(post.content)
             
             # Extract note ID
             note_id = get_note_id_from_title(post.get('title'))

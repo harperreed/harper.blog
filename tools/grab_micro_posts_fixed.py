@@ -12,6 +12,7 @@ from slugify import slugify
 from urllib.parse import urlparse
 from dotenv import load_dotenv
 import logging
+from note_utils import normalize_content, generate_content_hash, get_note_id_from_title
 
 # Load environment variables from .env file if it exists
 load_dotenv()
@@ -243,40 +244,6 @@ def save_content_registry(registry, data_dir):
             json.dump(registry, f, indent=2)
     except IOError as e:
         logging.error(f"Error saving content registry: {e}")
-
-
-def normalize_content(content):
-    """
-    Normalize content for comparison by removing whitespace variations, etc.
-    
-    Args:
-        content (str): Content to normalize
-        
-    Returns:
-        str: Normalized content
-    """
-    # Strip whitespace and convert to lowercase for more robust comparison
-    normalized = re.sub(r'\s+', ' ', content.strip()).lower()
-    # Remove URLs as they might vary slightly but point to the same resource
-    normalized = re.sub(r'https?://\S+', '', normalized)
-    # Remove special characters that might vary between systems
-    normalized = re.sub(r'[^\w\s]', '', normalized)
-    return normalized
-
-
-def generate_content_hash(content):
-    """
-    Generate a more robust hash from content for comparison.
-    
-    Args:
-        content (str): Content to hash
-        
-    Returns:
-        str: Hash representing the content
-    """
-    # Generate a hash from the normalized content
-    normalized = normalize_content(content)
-    return generate_hash(normalized)
 
 
 def is_duplicate_content(content, hugo_content_dir, content_registry=None):
