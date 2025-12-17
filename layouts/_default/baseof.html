@@ -1,7 +1,9 @@
 <!doctype html>
+{{- $randomTheme := getenv "HUGO_RANDOM_THEME" -}}
+{{- $theme := cond (ne $randomTheme "") $randomTheme .Site.Params.theme -}}
 <html
     lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}"
-    class="{{ with .Site.Params.theme }}theme-{{ . }}{{ end }}"
+    class="{{ with $theme }}theme-{{ . }}{{ end }}"
 >
     <head>
         <meta charset="utf-8" />

@@ -19,8 +19,8 @@
     --color-primary: #2c392f;
     --color-secondary: #4a7856;
     --color-tertiary: #e6ede8;
-    --color-link: #4a7856;
-    --color-link-visited: #3d6347;
+    --color-link: #2d5a3a;
+    --color-link-visited: #234830;
     --color-link-hover: #1a231c;
     --color-code-fg: #f8f9f6;
     --color-code-bg: #2c392f;
@@ -33,8 +33,8 @@
         --color-primary: #e6ede8;
         --color-secondary: #6ba778;
         --color-tertiary: #3d4a41;
-        --color-link: #6ba778;
-        --color-link-visited: #89c196;
+        --color-link: #7ec090;
+        --color-link-visited: #9ad4a8;
         --color-link-hover: #f8f9f6;
         --color-code-fg: #2c392f;
         --color-code-bg: #e6ede8;
@@ -135,8 +135,8 @@
     --color-primary: #272932;
     --color-secondary: #5c6b8c;
     --color-tertiary: #e8eaf0;
-    --color-link: #5c6b8c;
-    --color-link-visited: #4d5a77;
+    --color-link: #3d4a6b;
+    --color-link-visited: #2d3a55;
     --color-link-hover: #16171c;
     --color-code-fg: #f7f7f9;
     --color-code-bg: #272932;
@@ -149,8 +149,8 @@
         --color-primary: #e8eaf0;
         --color-secondary: #7b89a8;
         --color-tertiary: #373b45;
-        --color-link: #7b89a8;
-        --color-link-visited: #99a5bf;
+        --color-link: #95a3c0;
+        --color-link-visited: #b0bcd3;
         --color-link-hover: #f7f7f9;
         --color-code-fg: #272932;
         --color-code-bg: #e8eaf0;
@@ -222,8 +222,8 @@
     --color-primary: #2b2821;
     --color-secondary: #8b4513;
     --color-tertiary: #e8e4d9;
-    --color-link: #8b4513;
-    --color-link-visited: #6b3410;
+    --color-link: #6b3000;
+    --color-link-visited: #4d2200;
     --color-link-hover: #1a1713;
     --color-code-fg: #f4f1ea;
     --color-code-bg: #2b2821;
@@ -236,8 +236,8 @@
         --color-primary: #e8e4d9;
         --color-secondary: #b25919;
         --color-tertiary: #3d3a32;
-        --color-link: #b25919;
-        --color-link-visited: #cc7033;
+        --color-link: #e88033;
+        --color-link-visited: #f0a060;
         --color-link-hover: #f4f1ea;
         --color-code-fg: #2b2821;
         --color-code-bg: #e8e4d9;
@@ -312,8 +312,8 @@
     --color-secondary: #0f8a5f;
     --color-tertiary: #ffd700;
     --color-error: #cc2936;
-    --color-link: #2f6d3c;
-    --color-link-visited: #5b4b49;
+    --color-link: #1a5028;
+    --color-link-visited: #0f3518;
     --color-link-hover: #c41e3a;
     --color-code-fg: #f4f6f8;
     --color-code-bg: #1c3144;
@@ -327,8 +327,8 @@
         --color-secondary: #1ab377;
         --color-tertiary: #ffeb4d;
         --color-error: #ff4d59;
-        --color-link: #3d8f4e;
-        --color-link-visited: #7f6f6d;
+        --color-link: #5cb870;
+        --color-link-visited: #80d090;
         --color-link-hover: #ff4d59;
         --color-code-fg: #1c3144;
         --color-code-bg: #f4f6f8;
@@ -445,5 +445,285 @@
         --color-link-hover: #ffbb00;
         --color-code-fg: #1f0f0f;
         --color-code-bg: #ffe6dd;
+    }
+}
+
+/* Midnight Theme - Deep night sky blues */
+.theme-midnight {
+    --color-dark: #0d1b2a;
+    --color-light: #f0f4f8;
+    --color-primary: #0d1b2a;
+    --color-secondary: #3a86ff;
+    --color-tertiary: #e0e8f0;
+    --color-link: #1a5fb4;
+    --color-link-visited: #1348a0;
+    --color-link-hover: #061018;
+    --color-code-fg: #f0f4f8;
+    --color-code-bg: #0d1b2a;
+}
+@media (prefers-color-scheme: dark) {
+    .theme-midnight {
+        --color-dark: #f0f4f8;
+        --color-light: #0d1b2a;
+        --color-primary: #e0e8f0;
+        --color-secondary: #3a86ff;
+        --color-tertiary: #1b2d44;
+        --color-link: #62a0ff;
+        --color-link-visited: #8ab8ff;
+        --color-link-hover: #f0f4f8;
+        --color-code-fg: #0d1b2a;
+        --color-code-bg: #e0e8f0;
+    }
+}
+
+/* Lavender Theme - Soft calming purples */
+.theme-lavender {
+    --color-dark: #2d2640;
+    --color-light: #f8f5fc;
+    --color-primary: #2d2640;
+    --color-secondary: #9b72cf;
+    --color-tertiary: #ede6f5;
+    --color-link: #6b4d9e;
+    --color-link-visited: #553d80;
+    --color-link-hover: #1a1528;
+    --color-code-fg: #f8f5fc;
+    --color-code-bg: #2d2640;
+}
+@media (prefers-color-scheme: dark) {
+    .theme-lavender {
+        --color-dark: #f8f5fc;
+        --color-light: #2d2640;
+        --color-primary: #ede6f5;
+        --color-secondary: #b08ee0;
+        --color-tertiary: #3d3555;
+        --color-link: #c4a6e8;
+        --color-link-visited: #d4c0f0;
+        --color-link-hover: #f8f5fc;
+        --color-code-fg: #2d2640;
+        --color-code-bg: #ede6f5;
+    }
+}
+
+/* Coffee Theme - Warm cozy browns */
+.theme-coffee {
+    --color-dark: #2c1810;
+    --color-light: #faf5f0;
+    --color-primary: #2c1810;
+    --color-secondary: #8b5a3c;
+    --color-tertiary: #f0e6dc;
+    --color-link: #6b4226;
+    --color-link-visited: #4d2f1a;
+    --color-link-hover: #1a0e08;
+    --color-code-fg: #faf5f0;
+    --color-code-bg: #2c1810;
+}
+@media (prefers-color-scheme: dark) {
+    .theme-coffee {
+        --color-dark: #faf5f0;
+        --color-light: #2c1810;
+        --color-primary: #f0e6dc;
+        --color-secondary: #c4916c;
+        --color-tertiary: #3d2820;
+        --color-link: #d4a882;
+        --color-link-visited: #e0c0a0;
+        --color-link-hover: #faf5f0;
+        --color-code-fg: #2c1810;
+        --color-code-bg: #f0e6dc;
+    }
+}
+
+/* Mint Theme - Fresh clean greens */
+.theme-mint {
+    --color-dark: #1a3028;
+    --color-light: #f2faf7;
+    --color-primary: #1a3028;
+    --color-secondary: #3eb489;
+    --color-tertiary: #e0f5ed;
+    --color-link: #1d7a55;
+    --color-link-visited: #155a40;
+    --color-link-hover: #0d1814;
+    --color-code-fg: #f2faf7;
+    --color-code-bg: #1a3028;
+}
+@media (prefers-color-scheme: dark) {
+    .theme-mint {
+        --color-dark: #f2faf7;
+        --color-light: #1a3028;
+        --color-primary: #e0f5ed;
+        --color-secondary: #5cd4a8;
+        --color-tertiary: #2a4038;
+        --color-link: #6be8b8;
+        --color-link-visited: #90f0cc;
+        --color-link-hover: #f2faf7;
+        --color-code-fg: #1a3028;
+        --color-code-bg: #e0f5ed;
+    }
+}
+
+/* Coral Theme - Warm tropical feel */
+.theme-coral {
+    --color-dark: #2d1a1a;
+    --color-light: #fff8f5;
+    --color-primary: #2d1a1a;
+    --color-secondary: #ff7f6b;
+    --color-tertiary: #ffe8e2;
+    --color-link: #c9503c;
+    --color-link-visited: #a5402f;
+    --color-link-hover: #1a0f0f;
+    --color-code-fg: #fff8f5;
+    --color-code-bg: #2d1a1a;
+}
+@media (prefers-color-scheme: dark) {
+    .theme-coral {
+        --color-dark: #fff8f5;
+        --color-light: #2d1a1a;
+        --color-primary: #ffe8e2;
+        --color-secondary: #ff9080;
+        --color-tertiary: #3d2828;
+        --color-link: #ff9a8a;
+        --color-link-visited: #ffb8ac;
+        --color-link-hover: #fff8f5;
+        --color-code-fg: #2d1a1a;
+        --color-code-bg: #ffe8e2;
+    }
+}
+
+/* Synthwave Theme - 80s retrowave aesthetic */
+.theme-synthwave {
+    --color-dark: #1a1030;
+    --color-light: #fdf0ff;
+    --color-primary: #1a1030;
+    --color-secondary: #ff2a6d;
+    --color-tertiary: #f5e0f8;
+    --color-link: #d41872;
+    --color-link-visited: #a8135a;
+    --color-link-hover: #05d9e8;
+    --color-code-fg: #05d9e8;
+    --color-code-bg: #1a1030;
+}
+@media (prefers-color-scheme: dark) {
+    .theme-synthwave {
+        --color-dark: #fdf0ff;
+        --color-light: #1a1030;
+        --color-primary: #f5e0f8;
+        --color-secondary: #ff2a6d;
+        --color-tertiary: #2d1850;
+        --color-link: #ff6b9d;
+        --color-link-visited: #ff99bb;
+        --color-link-hover: #05d9e8;
+        --color-code-fg: #05d9e8;
+        --color-code-bg: #1a1030;
+    }
+}
+
+/* Terminal Theme - Classic hacker green-on-black */
+.theme-terminal {
+    --color-dark: #0a0a0a;
+    --color-light: #f0fff0;
+    --color-primary: #0a0a0a;
+    --color-secondary: #00ff00;
+    --color-tertiary: #d8f8d8;
+    --color-link: #008800;
+    --color-link-visited: #006600;
+    --color-link-hover: #00ff00;
+    --color-code-fg: #00ff00;
+    --color-code-bg: #0a0a0a;
+}
+@media (prefers-color-scheme: dark) {
+    .theme-terminal {
+        --color-dark: #f0fff0;
+        --color-light: #0a0a0a;
+        --color-primary: #d8f8d8;
+        --color-secondary: #00ff00;
+        --color-tertiary: #1a1a1a;
+        --color-link: #00ff00;
+        --color-link-visited: #66ff66;
+        --color-link-hover: #f0fff0;
+        --color-code-fg: #00ff00;
+        --color-code-bg: #0a0a0a;
+    }
+}
+
+/* Solarized Theme - The classic developer scheme */
+.theme-solarized {
+    --color-dark: #073642;
+    --color-light: #fdf6e3;
+    --color-primary: #073642;
+    --color-secondary: #268bd2;
+    --color-tertiary: #eee8d5;
+    --color-link: #2075a8;
+    --color-link-visited: #185a80;
+    --color-link-hover: #002b36;
+    --color-code-fg: #fdf6e3;
+    --color-code-bg: #073642;
+}
+@media (prefers-color-scheme: dark) {
+    .theme-solarized {
+        --color-dark: #fdf6e3;
+        --color-light: #002b36;
+        --color-primary: #eee8d5;
+        --color-secondary: #268bd2;
+        --color-tertiary: #073642;
+        --color-link: #2aa198;
+        --color-link-visited: #5ab9b0;
+        --color-link-hover: #fdf6e3;
+        --color-code-fg: #fdf6e3;
+        --color-code-bg: #002b36;
+    }
+}
+
+/* Dracula Theme - Popular dark purple scheme */
+.theme-dracula {
+    --color-dark: #282a36;
+    --color-light: #f8f8f2;
+    --color-primary: #282a36;
+    --color-secondary: #bd93f9;
+    --color-tertiary: #44475a;
+    --color-link: #8054d0;
+    --color-link-visited: #6040a8;
+    --color-link-hover: #ff79c6;
+    --color-code-fg: #f8f8f2;
+    --color-code-bg: #282a36;
+}
+@media (prefers-color-scheme: dark) {
+    .theme-dracula {
+        --color-dark: #f8f8f2;
+        --color-light: #282a36;
+        --color-primary: #f8f8f2;
+        --color-secondary: #bd93f9;
+        --color-tertiary: #44475a;
+        --color-link: #bd93f9;
+        --color-link-visited: #d4b8ff;
+        --color-link-hover: #ff79c6;
+        --color-code-fg: #f8f8f2;
+        --color-code-bg: #282a36;
+    }
+}
+
+/* Bubblegum Theme - Fun pink candy colors */
+.theme-bubblegum {
+    --color-dark: #3d1a2e;
+    --color-light: #fff5fa;
+    --color-primary: #3d1a2e;
+    --color-secondary: #ff69b4;
+    --color-tertiary: #ffe0ef;
+    --color-link: #c9306a;
+    --color-link-visited: #a02555;
+    --color-link-hover: #ff1493;
+    --color-code-fg: #fff5fa;
+    --color-code-bg: #3d1a2e;
+}
+@media (prefers-color-scheme: dark) {
+    .theme-bubblegum {
+        --color-dark: #fff5fa;
+        --color-light: #3d1a2e;
+        --color-primary: #ffe0ef;
+        --color-secondary: #ff69b4;
+        --color-tertiary: #4d2a3e;
+        --color-link: #ff8cc8;
+        --color-link-visited: #ffaad8;
+        --color-link-hover: #fff5fa;
+        --color-code-fg: #3d1a2e;
+        --color-code-bg: #ffe0ef;
     }
 }
