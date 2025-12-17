@@ -68,13 +68,13 @@ Referrer-Policy = "no-referrer-when-downgrade"
 
 # Cache Control for Static Assets
 [[headers]]
-for = "/*.js"
+for = "/js/*"
 [headers.values]
 Cache-Control = "public, max-age=31536000, immutable"
 Access-Control-Allow-Origin = "*"
 
 [[headers]]
-for = "/*.css"
+for = "/css/*"
 [headers.values]
 Cache-Control = "public, max-age=31536000, immutable"
 Access-Control-Allow-Origin = "*"
