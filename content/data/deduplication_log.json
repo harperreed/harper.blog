@@ -1,0 +1,50 @@
+{
+  "timestamp": "2025-12-16T22:05:28.206464",
+  "dry_run": false,
+  "total_notes": 223,
+  "duplicate_sets": 3,
+  "actions": [
+    {
+      "action": "delete",
+      "content_hash": "bf26518e0729",
+      "keeper": {
+        "path": "../content/notes/2025-12-06_2f21234822ad_today-i-got-on-the-blueline-an/index.md",
+        "date": "2025-12-06T16:09:56-06:00",
+        "note_id": 305
+      },
+      "duplicate": {
+        "path": "../content/notes/2025-12-06_b43ba7ec2fc9_today-i-got-on-the-blueline-an/index.md",
+        "date": "2025-12-06T16:09:56-06:00",
+        "note_id": 300
+      }
+    },
+    {
+      "action": "delete",
+      "content_hash": "da39a3ee5e6b",
+      "keeper": {
+        "path": "../content/notes/2025-02-08_6f24c79bb563_/index.md",
+        "date": "2025-02-08T12:54:25-05:00",
+        "note_id": 161
+      },
+      "duplicate": {
+        "path": "../content/notes/2024-09-23_45a6402a0683_/index.md",
+        "date": "2024-09-23T15:39:56-05:00",
+        "note_id": 210
+      }
+    },
+    {
+      "action": "delete",
+      "content_hash": "2aea98a85f86",
+      "keeper": {
+        "path": "../content/notes/2024-02-02_b4edd5ee6e73_randeep-jeff-sam-tom/index.md",
+        "date": "2024-02-02T21:05:04-05:00",
+        "note_id": 207
+      },
+      "duplicate": {
+        "path": "../content/notes/2024-02-02_dd4a5d5f5075_randeep-jeff-sam-tom-me/index.md",
+        "date": "2024-02-02T21:05:04-05:00",
+        "note_id": 14
+      }
+    }
+  ]
+}

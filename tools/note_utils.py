@@ -7,7 +7,8 @@ import hashlib
 
 def normalize_content(content):
     """
-    Normalize content for comparison by removing whitespace variations and URLs.
+    Normalize content for comparison by stripping HTML, removing URLs, and
+    normalizing whitespace.
 
     Used for duplicate detection across grab_micro_posts_fixed.py and
     deduplicate_notes.py. Changes here affect both scripts.
@@ -18,10 +19,15 @@ def normalize_content(content):
     Returns:
         str: Normalized content
     """
-    # Normalize whitespace
-    normalized = re.sub(r'\s+', ' ', content.strip())
-    # Remove URLs as they might vary slightly but point to the same resource
+    # Strip all HTML tags first
+    normalized = re.sub(r'<[^>]+>', ' ', content)
+    # Remove image markdown syntax ![alt](url)
+    normalized = re.sub(r'!\[[^\]]*\]\([^)]+\)', '', normalized)
+    # Remove URLs (both absolute and common relative patterns like uploads/)
     normalized = re.sub(r'https?://\S+', '', normalized)
+    normalized = re.sub(r'uploads/\S+', '', normalized)
+    # Normalize whitespace
+    normalized = re.sub(r'\s+', ' ', normalized.strip())
     return normalized
 
 
