@@ -18,7 +18,6 @@ THEMES=(
     "academia"
     "myspace"
     "halloween"
-    "xmas"
     "neon"
     "electric"
     "cyberpunk"
