@@ -9,7 +9,7 @@ from functools import lru_cache
 import html2text
 import frontmatter
 from slugify import slugify
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urljoin
 from dotenv import load_dotenv
 import logging
 from note_utils import normalize_content, generate_content_hash, get_note_id_from_title
@@ -127,14 +127,15 @@ def download_image(url, output_path):
         return False
 
 
-def process_images(content, post_dir):
+def process_images(content, post_dir, base_url=None):
     """
     Process images in markdown content.
-    
+
     Args:
         content (str): Markdown content
         post_dir (str): Directory to save images
-        
+        base_url (str, optional): Base URL to resolve relative image URLs
+
     Returns:
         str: Updated content with local image references
     """
@@ -142,13 +143,19 @@ def process_images(content, post_dir):
     img_matches = img_pattern.findall(content)
 
     for i, (alt_text, img_url) in enumerate(img_matches):
-        parsed_url = urlparse(img_url)
+        # Resolve relative URLs to absolute URLs
+        resolved_url = img_url
+        if base_url and not img_url.startswith(('http://', 'https://', '//')):
+            resolved_url = urljoin(base_url, img_url)
+            logging.debug(f"Resolved relative URL '{img_url}' to '{resolved_url}'")
+
+        parsed_url = urlparse(resolved_url)
         file_extension = os.path.splitext(parsed_url.path)[1]
         if not file_extension:
             file_extension = '.jpg'  # Default to .jpg if no extension is found
         local_img_path = f'image_{i + 1}{file_extension}'
         full_img_path = os.path.join(post_dir, local_img_path)
-        if download_image(img_url, full_img_path):
+        if download_image(resolved_url, full_img_path):
             # Remove the image from the content
             content = content.replace(f'![{alt_text}]({img_url})', '')
 
@@ -336,34 +343,62 @@ def get_archival_feed():
         return None
 
 
-def find_post_info(url, content):
+def find_post_info(url, content, hugo_content_dir=None):
     """
-    Find the original post ID and title from the archival feed.
-    
+    Find the original post ID and title by checking existing notes and archive.
+
     Args:
         url (str): Post URL
         content (str): Post content
-        
+        hugo_content_dir (str, optional): Content directory to scan for existing notes
+
     Returns:
         tuple: (post_id, title) or (None, None) if not found
     """
-    feed = get_archival_feed()
-    if not feed:
-        return None, None
-    
     normalized_url = normalize_url(url)
-    
-    for item in feed.get('items', []):
-        item_url = normalize_url(item.get('url', ''))
-        if item_url == normalized_url or item.get('content_text') == content:
-            # Extract ID from the id field which might be in format "post/123456"
-            post_id = item.get('id', '').split('/')[-1]
-            if post_id.isdigit():
-                logging.debug(f"Found match in archive - URL: {url}")
-                logging.debug(f"Archive title: {item.get('title')}")
-                logging.debug(f"Archive content: {item.get('content_text')[:100]}...")
-                return int(post_id), item.get('title')
-    return None, None
+    post_id = None
+    title = None
+
+    # First, check existing notes on disk by matching original_url
+    if hugo_content_dir:
+        for root, dirs, files in os.walk(hugo_content_dir):
+            for file in files:
+                if file == "index.md":
+                    try:
+                        file_path = os.path.join(root, file)
+                        with open(file_path, 'r', encoding='utf-8') as f:
+                            post = frontmatter.load(f)
+                            existing_url = normalize_url(post.get('original_url', ''))
+                            if existing_url == normalized_url:
+                                # Found matching note - extract ID from title
+                                existing_title = post.get('title', '')
+                                if existing_title.startswith('Note #'):
+                                    try:
+                                        post_id = int(existing_title.split('#')[1])
+                                        title = existing_title
+                                        logging.debug(f"Found existing note with ID {post_id} for URL: {url}")
+                                    except (IndexError, ValueError):
+                                        pass
+                                break
+                    except Exception as e:
+                        logging.warning(f"Error reading {os.path.join(root, file)}: {e}")
+                        continue
+            if post_id:
+                break
+
+    # Then check archive feed for title (prefer archive title over generated)
+    feed = get_archival_feed()
+    if feed:
+        for item in feed.get('items', []):
+            item_url = normalize_url(item.get('url', ''))
+            if item_url == normalized_url or item.get('content_text') == content:
+                archive_title = item.get('title')
+                if archive_title:
+                    title = archive_title
+                    logging.debug(f"Found title in archive: {archive_title}")
+                break
+
+    return post_id, title
 
 
 def scan_existing_notes(hugo_content_dir):
@@ -503,16 +538,32 @@ def create_hugo_content(entry, output_dir, url_registry, content_registry, data_
     # Check if directory already exists (exact same file)
     if os.path.exists(post_dir):
         logging.info(f"Post directory already exists: {post_dir}")
+        # Read existing note to get note_id
+        existing_note_id = None
+        file_path = os.path.join(post_dir, "index.md")
+        if os.path.exists(file_path):
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    existing_post = frontmatter.load(f)
+                    existing_title = existing_post.get('title', '')
+                    if existing_title.startswith('Note #'):
+                        existing_note_id = int(existing_title.split('#')[1])
+            except Exception as e:
+                logging.warning(f"Error reading existing note: {e}")
+
         # Add to registries if not already there
         if normalized_url not in url_registry:
             url_registry[normalized_url] = datetime.now().isoformat()
             save_url_registry(url_registry, data_dir)
         if pure_content_hash not in content_registry:
-            content_registry[pure_content_hash] = {
-                'path': os.path.join(post_dir, "index.md"),
+            registry_entry = {
+                'path': file_path,
                 'url': post_url,
                 'date': date.isoformat()
             }
+            if existing_note_id:
+                registry_entry['note_id'] = existing_note_id
+            content_registry[pure_content_hash] = registry_entry
             save_content_registry(content_registry, data_dir)
         return False
     
@@ -534,8 +585,8 @@ def create_hugo_content(entry, output_dir, url_registry, content_registry, data_
         return False
         
     # If we got this far, we need to check for existing post ID
-    # Try to find post info from archive
-    post_id, archive_title = find_post_info(post_url, content)
+    # Try to find post info from existing notes and archive
+    post_id, archive_title = find_post_info(post_url, content, hugo_content_dir=output_dir)
 
     # Create the directory
     try:
@@ -547,7 +598,7 @@ def create_hugo_content(entry, output_dir, url_registry, content_registry, data_
     # Process content
     if '<' in content and '>' in content:  # Simple check for HTML
         content = html_to_markdown(content)
-    content = process_images(content, post_dir)
+    content = process_images(content, post_dir, base_url=post_url)
 
     file_path = os.path.join(post_dir, "index.md")
 
