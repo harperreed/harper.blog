@@ -304,38 +304,6 @@
     }
 }
 
-/* Christmas Theme */
-.theme-xmas {
-    --color-dark: #1c3144;
-    --color-light: #f4f6f8;
-    --color-primary: #d42426;
-    --color-secondary: #0f8a5f;
-    --color-tertiary: #ffd700;
-    --color-error: #cc2936;
-    --color-link: #1a5028;
-    --color-link-visited: #0f3518;
-    --color-link-hover: #c41e3a;
-    --color-code-fg: #f4f6f8;
-    --color-code-bg: #1c3144;
-}
-
-@media (prefers-color-scheme: dark) {
-    .theme-xmas {
-        --color-dark: #f4f6f8;
-        --color-light: #1c3144;
-        --color-primary: #ff4d4f;
-        --color-secondary: #1ab377;
-        --color-tertiary: #ffeb4d;
-        --color-error: #ff4d59;
-        --color-link: #5cb870;
-        --color-link-visited: #80d090;
-        --color-link-hover: #ff4d59;
-        --color-code-fg: #1c3144;
-        --color-code-bg: #f4f6f8;
-    }
-}
-
-
 /* Neon Theme */
 .theme-neon {
     --color-dark: #1a1b2e;
