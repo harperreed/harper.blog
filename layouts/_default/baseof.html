@@ -1,39 +1,63 @@
-<!doctype html>
-{{- $randomTheme := getenv "HUGO_RANDOM_THEME" -}}
-{{- $theme := cond (ne $randomTheme "") $randomTheme .Site.Params.theme -}}
-<html
-    lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}"
-    class="{{ with $theme }}theme-{{ . }}{{ end }}"
->
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="referrer" content="no-referrer-when-downgrade" />
-        {{- partialCached "favicon.html" . -}}
-        <title>
-            {{- block "title" . }}
-                {{ with .Title }}{{ . }} | {{ end }} {{.Site.Title }}
-            {{- end }}
-        </title>
-        
-        {{- partialCached "social_card.html" . .Title -}}
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}" class="{{ if eq (getenv "HUGO_THEME_MODE") "dark" }}dark{{ end }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
 
-        {{- partialCached "head/css.html" . -}}
-        
-        {{- partialCached "head/javascript.html" . -}}
-        
-        {{- partialCached "head/rss.html" . -}}
-        
-        {{- partialCached "head/security.html" . -}}
-        
-        {{- partialCached "head/custom_head.html" . -}}
-    </head>
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 
-    <body>
-        <header>{{- partialCached "header.html" . -}}</header>
-        <main id="main-content">{{- block "main" . }}{{- end }}</main>
-        <footer>{{- partialCached "footer.html" . -}}</footer>
+  {{/* Fonts */}}
+  {{ partial "head/fonts.html" . }}
 
-        {{- partialCached "custom_body.html" . -}}
-    </body>
+  {{/* CSS */}}
+  <link rel="stylesheet" href="/css/tailwind.css">
+
+  {{/* Favicon */}}
+  <link rel="icon" href="/favicon.ico">
+
+  {{/* RSS */}}
+  {{ range .AlternativeOutputFormats -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+  {{ end -}}
+
+  {{/* Open Graph */}}
+  {{ partial "social_card.html" . }}
+
+  {{/* Theme script (inline to prevent FOUC) */}}
+  <script>
+    (function() {
+      const theme = localStorage.getItem('theme');
+      if (theme === 'dark' || (!theme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.classList.add('dark');
+      }
+    })();
+  </script>
+</head>
+<body class="min-h-screen bg-[var(--color-bg)] text-[var(--color-text)] font-body">
+  {{/* Skip link */}}
+  <a href="#main-content" class="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-50 focus:px-4 focus:py-2 focus:bg-[var(--color-accent)] focus:text-white focus:rounded-md">
+    Skip to content
+  </a>
+
+  {{/* Reading progress bar */}}
+  <div id="progress-bar" class="fixed top-0 left-0 h-[3px] bg-[var(--color-accent)] z-50 w-0 transition-[width] duration-100"></div>
+
+  {{/* Header */}}
+  {{ partial "header.html" . }}
+
+  {{/* Main content */}}
+  <main id="main-content" class="flex-1">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  {{/* Footer */}}
+  {{ partial "footer.html" . }}
+
+  {{/* Search Modal */}}
+  {{ partial "search-modal.html" . }}
+
+  {{/* Scripts */}}
+  <script src="/js/main.js" defer></script>
+</body>
 </html>
