@@ -1,0 +1,114 @@
+{{ define "main" }}
+<div class="max-w-[var(--max-width)] mx-auto px-4 sm:px-6 lg:px-8 py-12">
+  <header class="mb-12">
+    <h1 class="font-display text-4xl font-bold mb-4">Notes</h1>
+    <p class="text-lg text-[var(--color-text-secondary)]">Short thoughts, links, and updates.</p>
+
+    {{/* Filter Pills */}}
+    <div class="flex flex-wrap gap-2 mt-6" id="note-filters">
+      <button class="filter-btn active px-4 py-2 text-sm font-medium rounded-full border border-[var(--color-border)] transition-all" data-filter="all">
+        All
+      </button>
+      <button class="filter-btn px-4 py-2 text-sm font-medium rounded-full border border-[var(--color-border)] transition-all" data-filter="text">
+        Text
+      </button>
+      <button class="filter-btn px-4 py-2 text-sm font-medium rounded-full border border-[var(--color-border)] transition-all" data-filter="images">
+        With Images
+      </button>
+    </div>
+  </header>
+
+  {{/* Masonry Grid */}}
+  <div class="columns-1 md:columns-2 lg:columns-3 gap-6 space-y-6" id="notes-grid">
+    {{ $paginator := .Paginate (where .Site.RegularPages "Section" "notes") .Site.Params.notes_pagination }}
+    {{ range $paginator.Pages }}
+    <article class="note-card break-inside-avoid mb-6" data-has-image="{{ if .Params.images }}true{{ else }}false{{ end }}">
+      <a href="{{ .Permalink }}" class="block p-6 rounded-xl border border-[var(--color-border)] hover:border-[var(--color-accent)] hover:shadow-lg transition-all bg-[var(--color-bg)]">
+        {{/* Image */}}
+        {{ with .Params.images }}
+        {{ $img := index . 0 }}
+        <img src="{{ $img }}" alt="" class="w-full rounded-lg mb-4 object-cover" loading="lazy">
+        {{ end }}
+
+        {{/* Content */}}
+        <div class="{{ if not .Params.images }}text-lg{{ end }}">
+          {{ with .Description }}
+          <p class="text-[var(--color-text)] leading-relaxed">{{ . }}</p>
+          {{ else }}
+          <p class="text-[var(--color-text)] leading-relaxed">{{ .Title }}</p>
+          {{ end }}
+        </div>
+
+        {{/* Meta */}}
+        <div class="flex items-center justify-between mt-4 text-xs text-[var(--color-text-secondary)]">
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+          {{ with .Params.tags }}
+          <div class="flex gap-1">
+            {{ range first 2 . }}
+            <span class="text-[var(--color-accent)]">#{{ . }}</span>
+            {{ end }}
+          </div>
+          {{ end }}
+        </div>
+      </a>
+    </article>
+    {{ end }}
+  </div>
+
+  {{/* Pagination */}}
+  {{ if gt $paginator.TotalPages 1 }}
+  <nav class="flex items-center justify-center gap-4 mt-12">
+    {{ if $paginator.HasPrev }}
+    <a href="{{ $paginator.Prev.URL }}" class="px-4 py-2 rounded-lg border border-[var(--color-border)] hover:border-[var(--color-accent)] transition-all">
+      &larr; Newer
+    </a>
+    {{ end }}
+
+    <span class="text-sm text-[var(--color-text-secondary)]">
+      Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}
+    </span>
+
+    {{ if $paginator.HasNext }}
+    <a href="{{ $paginator.Next.URL }}" class="px-4 py-2 rounded-lg border border-[var(--color-border)] hover:border-[var(--color-accent)] transition-all">
+      Older &rarr;
+    </a>
+    {{ end }}
+  </nav>
+  {{ end }}
+</div>
+
+<script>
+  // Note filtering
+  const filters = document.querySelectorAll('.filter-btn');
+  const notes = document.querySelectorAll('.note-card');
+
+  filters.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const filter = btn.dataset.filter;
+
+      // Update active state
+      filters.forEach(f => f.classList.remove('active', 'bg-[var(--color-accent)]', 'text-white', 'border-[var(--color-accent)]'));
+      btn.classList.add('active', 'bg-[var(--color-accent)]', 'text-white', 'border-[var(--color-accent)]');
+
+      // Filter notes
+      notes.forEach(note => {
+        const hasImage = note.dataset.hasImage === 'true';
+        let show = true;
+
+        if (filter === 'text') show = !hasImage;
+        if (filter === 'images') show = hasImage;
+
+        note.style.display = show ? 'block' : 'none';
+      });
+    });
+  });
+</script>
+
+<style>
+  .filter-btn.active {
+    background-color: var(--color-accent);
+    color: white;
+    border-color: var(--color-accent);
+  }
+</style>
+{{ end }}
