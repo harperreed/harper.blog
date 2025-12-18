@@ -7,4 +7,7 @@ echo "Building Tailwind CSS..."
 echo "Building Hugo..."
 hugo --cleanDestinationDir --minify --forceSyncStatic --gc --logLevel info
 
+echo "Building search index with Pagefind..."
+npx pagefind --site public --glob "**/*.html"
+
 echo "Build complete!"
