@@ -36,26 +36,9 @@ defaultContentLanguage = "en"
 # theme = "cyberpunk"
 
 
-customcss = [
-    "/css/root-colors.css",
-    "/css/harper.css",
-    "/css/shared.css",
-    "/css/themes.css",
-    "/css/bsky_comments.css",
-    "/css/outofdate.css",
-    "/css/ai-disclosure.css",
-    "/css/image-loading.css",
-    "/css/tinylytics.css",
-    "/css/media.css",
-    "/css/books.css",
-    "/css/music.css",
-    "/css/links.css",
-    "/css/notes.css",
-    "/css/notes-grid.css",
-    "/css/code.css",
-    "/css/translations.css",
-    "syntax.css",
-]
+# Legacy CSS files archived to assets/css-old/
+# Site now uses Tailwind CSS loaded directly in baseof.html
+# customcss = []
 
 customjs = ["/js/bluesky_comments.js", "/js/theme.js", "/js/image-loading.js"]
 
