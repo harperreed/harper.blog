@@ -1,0 +1,65 @@
+<footer class="border-t border-[var(--color-border)] mt-auto">
+  <div class="max-w-[var(--max-width)] mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      {{/* About */}}
+      <div>
+        <h3 class="font-display text-lg font-semibold mb-4">{{ .Site.Params.name }}</h3>
+        <p class="text-sm text-[var(--color-text-secondary)] leading-relaxed">
+          {{ with .Site.Language.Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}
+        </p>
+      </div>
+
+      {{/* Explore Links */}}
+      <div>
+        <h3 class="font-display text-lg font-semibold mb-4">Explore</h3>
+        <nav class="space-y-2">
+          {{ range .Site.Menus.main }}
+          <a href="{{ .URL }}" class="block text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors">
+            {{ .Name }}
+          </a>
+          {{ end }}
+        </nav>
+      </div>
+
+      {{/* Connect / Social Links */}}
+      <div>
+        <h3 class="font-display text-lg font-semibold mb-4">Connect</h3>
+        <div class="space-y-2">
+          {{ range .Site.Params.social }}
+          <a href="{{ .url }}" class="flex items-center gap-2 text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors" target="_blank" rel="noopener noreferrer">
+            <i class="{{ .icon }}"></i>
+            {{ .name }}
+          </a>
+          {{ end }}
+          {{ with .Site.Params.author.email }}
+          <a href="mailto:{{ . }}" class="flex items-center gap-2 text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
+            </svg>
+            Email
+          </a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+    {{/* Bottom bar with copyright, RSS, and language switcher */}}
+    <div class="mt-12 pt-8 border-t border-[var(--color-border)] flex flex-col sm:flex-row items-center justify-between gap-4">
+      <p class="text-sm text-[var(--color-text-secondary)]">
+        &copy; {{ now.Year }} {{ .Site.Params.name }}. All rights reserved.
+      </p>
+      <div class="flex items-center gap-4 text-sm text-[var(--color-text-secondary)]">
+        <a href="/index.xml" class="hover:text-[var(--color-accent)] transition-colors">RSS</a>
+        {{/* Language switcher */}}
+        {{ if .IsTranslated }}
+        <div class="flex items-center gap-2">
+          <span>|</span>
+          {{ range .Translations }}
+          <a href="{{ .Permalink }}" class="hover:text-[var(--color-accent)] transition-colors">{{ .Language.LanguageName }}</a>
+          {{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</footer>
