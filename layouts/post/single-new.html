@@ -1,0 +1,152 @@
+{{ define "main" }}
+<article class="max-w-[var(--max-width)] mx-auto px-4 sm:px-6 lg:px-8 py-12">
+  <div class="lg:grid lg:grid-cols-[1fr_280px] lg:gap-12">
+    {{/* Main Content */}}
+    <div>
+      {{/* Post Header */}}
+      <header class="mb-12">
+        <h1 class="font-display text-4xl md:text-5xl font-bold leading-tight mb-6">
+          {{ .Title }}
+        </h1>
+
+        <div class="flex flex-wrap items-center gap-4 text-sm text-[var(--color-text-secondary)]">
+          <time datetime="{{ .Date.Format "2006-01-02" }}">
+            {{ .Date.Format "January 2, 2006" }}
+          </time>
+          <span>&middot;</span>
+          <span>{{ .ReadingTime }} min read</span>
+          <span>&middot;</span>
+          <span>{{ .WordCount }} words</span>
+        </div>
+
+        {{/* Tags */}}
+        {{ with .Params.tags }}
+        <div class="flex flex-wrap gap-2 mt-4">
+          {{ range . }}
+          <a href="{{ "/tags/" | relURL }}{{ . | urlize }}" class="px-3 py-1 text-xs font-medium bg-[var(--color-bg-secondary)] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] rounded-full transition-colors">
+            #{{ . }}
+          </a>
+          {{ end }}
+        </div>
+        {{ end }}
+      </header>
+
+      {{/* Post Content - Manual prose styling since no @tailwindcss/typography */}}
+      <div class="max-w-none text-[var(--color-text)]
+        [&>h2]:font-display [&>h2]:font-bold [&>h2]:text-2xl [&>h2]:mt-12 [&>h2]:mb-4
+        [&>h3]:font-display [&>h3]:font-bold [&>h3]:text-xl [&>h3]:mt-8 [&>h3]:mb-3
+        [&>h4]:font-display [&>h4]:font-semibold [&>h4]:text-lg [&>h4]:mt-6 [&>h4]:mb-2
+        [&>p]:leading-relaxed [&>p]:mb-4
+        [&>ul]:list-disc [&>ul]:ml-6 [&>ul]:mb-4 [&>ul]:space-y-2
+        [&>ol]:list-decimal [&>ol]:ml-6 [&>ol]:mb-4 [&>ol]:space-y-2
+        [&>blockquote]:border-l-4 [&>blockquote]:border-[var(--color-accent)] [&>blockquote]:bg-[var(--color-bg-secondary)] [&>blockquote]:pl-6 [&>blockquote]:py-4 [&>blockquote]:my-6 [&>blockquote]:italic
+        [&>pre]:bg-[var(--color-bg-secondary)] [&>pre]:border [&>pre]:border-[var(--color-border)] [&>pre]:rounded-lg [&>pre]:p-4 [&>pre]:overflow-x-auto [&>pre]:mb-4
+        [&>code]:text-[var(--color-accent)] [&>code]:bg-[var(--color-bg-secondary)] [&>code]:px-1.5 [&>code]:py-0.5 [&>code]:rounded [&>code]:text-sm
+        [&>pre>code]:bg-transparent [&>pre>code]:p-0
+        [&_a]:text-[var(--color-accent)] [&_a]:no-underline hover:[&_a]:underline
+        [&>img]:rounded-lg [&>img]:shadow-md [&>img]:my-6
+        [&>hr]:border-[var(--color-border)] [&>hr]:my-8
+        [&>table]:w-full [&>table]:mb-4
+        [&_table_th]:text-left [&_table_th]:font-semibold [&_table_th]:p-2 [&_table_th]:border-b [&_table_th]:border-[var(--color-border)]
+        [&_table_td]:p-2 [&_table_td]:border-b [&_table_td]:border-[var(--color-border)]
+      ">
+        {{ .Content }}
+      </div>
+
+      {{/* Post Footer */}}
+      <footer class="mt-16 pt-8 border-t border-[var(--color-border)]">
+        {{/* Engagement */}}
+        <div class="flex flex-wrap items-center gap-4 mb-8">
+          {{/* Kudos button */}}
+          <button class="tinylytics_kudos flex items-center gap-2 px-4 py-2 rounded-full border border-[var(--color-border)] hover:border-[var(--color-accent)] hover:bg-[var(--color-bg-secondary)] transition-all">
+            <span>❤️</span>
+            <span>Kudos</span>
+          </button>
+
+          {{/* Share buttons */}}
+          <div class="flex items-center gap-2">
+            <span class="text-sm text-[var(--color-text-secondary)]">Share:</span>
+            <a href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title | urlquery }}" target="_blank" rel="noopener noreferrer" class="p-2 rounded-full hover:bg-[var(--color-bg-secondary)] transition-colors" aria-label="Share on X">
+              𝕏
+            </a>
+            <a href="https://bsky.app/intent/compose?text={{ .Title | urlquery }}%20{{ .Permalink }}" target="_blank" rel="noopener noreferrer" class="p-2 rounded-full hover:bg-[var(--color-bg-secondary)] transition-colors" aria-label="Share on Bluesky">
+              🦋
+            </a>
+            <button onclick="navigator.clipboard.writeText('{{ .Permalink }}')" class="p-2 rounded-full hover:bg-[var(--color-bg-secondary)] transition-colors" aria-label="Copy link">
+              🔗
+            </button>
+          </div>
+        </div>
+
+        {{/* Discussion */}}
+        <div class="mb-8">
+          <h3 class="font-display text-xl font-bold mb-4">Discussion</h3>
+          <p class="text-[var(--color-text-secondary)] mb-4">
+            Reply via <a href="mailto:{{ .Site.Params.author.email }}?subject=Re: {{ .Title }}" class="text-[var(--color-accent)] hover:underline">email</a> or join the conversation on Bluesky.
+          </p>
+          {{/* Bluesky comments will be rendered here */}}
+          <div id="bsky-comments" data-uri="{{ .Params.bsky_uri }}"></div>
+        </div>
+
+        {{/* Related Posts */}}
+        {{ $related := .Site.RegularPages.Related . | first 3 }}
+        {{ with $related }}
+        <div>
+          <h3 class="font-display text-xl font-bold mb-4">Keep Exploring</h3>
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+            {{ range . }}
+            <a href="{{ .Permalink }}" class="block p-4 rounded-lg border border-[var(--color-border)] hover:border-[var(--color-accent)] transition-all">
+              <h4 class="font-medium mb-2 line-clamp-2">{{ .Title }}</h4>
+              <time class="text-xs text-[var(--color-text-secondary)]">{{ .Date.Format "Jan 2, 2006" }}</time>
+            </a>
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+      </footer>
+    </div>
+
+    {{/* Sidebar (desktop only) */}}
+    <aside class="hidden lg:block">
+      <div class="sticky top-24 space-y-8">
+        {{/* Reading Progress */}}
+        <div>
+          <span class="text-xs uppercase tracking-wider text-[var(--color-text-secondary)]">Reading</span>
+          <p class="font-medium">{{ .ReadingTime }} min</p>
+        </div>
+
+        {{/* Table of Contents */}}
+        {{ if .TableOfContents }}
+        <div>
+          <h4 class="text-xs uppercase tracking-wider text-[var(--color-text-secondary)] mb-3">Contents</h4>
+          <nav class="toc text-sm space-y-2 [&_ul]:list-none [&_ul]:ml-0 [&_li]:mb-2 [&_a]:text-[var(--color-text-secondary)] [&_a]:no-underline hover:[&_a]:text-[var(--color-accent)] [&_a]:transition-colors">
+            {{ .TableOfContents }}
+          </nav>
+        </div>
+        {{ end }}
+
+        {{/* Tags */}}
+        {{ with .Params.tags }}
+        <div>
+          <h4 class="text-xs uppercase tracking-wider text-[var(--color-text-secondary)] mb-3">Tags</h4>
+          <div class="flex flex-wrap gap-2">
+            {{ range . }}
+            <a href="{{ "/tags/" | relURL }}{{ . | urlize }}" class="text-sm text-[var(--color-accent)] hover:underline">
+              #{{ . }}
+            </a>
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </aside>
+  </div>
+</article>
+
+{{/* Jump to top button */}}
+<button id="jump-to-top" class="fixed bottom-8 right-8 p-3 rounded-full bg-[var(--color-accent)] text-white shadow-lg opacity-0 pointer-events-none transition-opacity hover:bg-[var(--color-accent-hover)]" aria-label="Jump to top">
+  <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18"/>
+  </svg>
+</button>
+{{ end }}
