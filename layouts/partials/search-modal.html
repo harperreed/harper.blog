@@ -1,35 +1,42 @@
 {{/* Search Modal */}}
 <div id="search-modal" class="fixed inset-0 z-50 hidden">
   {{/* Backdrop */}}
-  <div class="absolute inset-0 bg-black/50 backdrop-blur-sm" id="search-backdrop"></div>
+  <div class="absolute inset-0 bg-black/80 backdrop-blur-sm" id="search-backdrop"></div>
 
   {{/* Modal */}}
-  <div class="absolute top-[20%] left-1/2 -translate-x-1/2 w-full max-w-2xl mx-auto px-4">
-    <div class="bg-[var(--color-bg)] rounded-xl shadow-2xl border border-[var(--color-border)] overflow-hidden">
+  <div class="absolute top-[15%] left-1/2 -translate-x-1/2 w-full max-w-2xl mx-auto px-4">
+    <div class="bg-[var(--color-bg-secondary)] shadow-2xl border border-[var(--color-border)] overflow-hidden">
       {{/* Search input */}}
-      <div class="p-4 border-b border-[var(--color-border)]">
-        <div class="flex items-center gap-3">
-          <svg class="w-5 h-5 text-[var(--color-text-secondary)]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <div class="p-6 border-b border-[var(--color-border)]">
+        <div class="flex items-center gap-4">
+          <svg class="w-5 h-5 text-[var(--color-text-muted)]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
           </svg>
           <input
             type="text"
             id="search-input"
-            placeholder="Search posts, notes, books..."
-            class="flex-1 bg-transparent text-lg outline-none placeholder:text-[var(--color-text-secondary)]"
+            placeholder="Search..."
+            class="flex-1 bg-transparent text-xl font-display outline-none placeholder:text-[var(--color-text-muted)]"
             autocomplete="off"
           >
-          <kbd class="hidden sm:inline-flex items-center px-2 py-1 text-xs font-mono bg-[var(--color-bg-secondary)] rounded">
+          <kbd class="hidden sm:inline-flex items-center px-2 py-1 text-xs font-mono text-[var(--color-text-muted)] bg-[var(--color-bg-tertiary)] border border-[var(--color-border)]">
             ESC
           </kbd>
         </div>
       </div>
 
       {{/* Results */}}
-      <div id="search-results" class="max-h-[60vh] overflow-y-auto p-2">
-        <p class="text-center text-[var(--color-text-secondary)] py-8">
+      <div id="search-results" class="max-h-[60vh] overflow-y-auto">
+        <p class="text-center text-[var(--color-text-muted)] py-12 text-sm font-mono uppercase tracking-[0.15em]">
           Start typing to search...
         </p>
+      </div>
+
+      {{/* Footer hint */}}
+      <div class="p-4 border-t border-[var(--color-border)] flex items-center justify-between text-xs font-mono text-[var(--color-text-muted)]">
+        <span>↑↓ Navigate</span>
+        <span>↵ Select</span>
+        <span>ESC Close</span>
       </div>
     </div>
   </div>
@@ -63,13 +70,13 @@
     function closeSearch() {
       modal.classList.add('hidden');
       input.value = '';
-      results.innerHTML = '<p class="text-center text-[var(--color-text-secondary)] py-8">Start typing to search...</p>';
+      results.innerHTML = '<p class="text-center text-[var(--color-text-muted)] py-12 text-sm font-mono uppercase tracking-[0.15em]">Start typing to search...</p>';
       document.body.style.overflow = '';
     }
 
     async function doSearch(query) {
       if (!query.trim()) {
-        results.innerHTML = '<p class="text-center text-[var(--color-text-secondary)] py-8">Start typing to search...</p>';
+        results.innerHTML = '<p class="text-center text-[var(--color-text-muted)] py-12 text-sm font-mono uppercase tracking-[0.15em]">Start typing to search...</p>';
         return;
       }
 
@@ -77,15 +84,15 @@
       const search = await pf.search(query);
 
       if (search.results.length === 0) {
-        results.innerHTML = '<p class="text-center text-[var(--color-text-secondary)] py-8">No results found.</p>';
+        results.innerHTML = '<p class="text-center text-[var(--color-text-muted)] py-12 text-sm font-mono uppercase tracking-[0.15em]">No results found.</p>';
         return;
       }
 
       const items = await Promise.all(search.results.slice(0, 10).map(r => r.data()));
 
       results.innerHTML = items.map(item => `
-        <a href="${item.url}" class="block p-3 rounded-lg hover:bg-[var(--color-bg-secondary)] transition-colors">
-          <h4 class="font-medium text-[var(--color-text)]">${item.meta.title || 'Untitled'}</h4>
+        <a href="${item.url}" class="block px-6 py-4 border-b border-[var(--color-border)] hover:bg-[var(--color-bg-tertiary)] transition-colors group">
+          <h4 class="font-display font-bold text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors">${item.meta.title || 'Untitled'}</h4>
           <p class="text-sm text-[var(--color-text-secondary)] mt-1 line-clamp-2">${item.excerpt}</p>
         </a>
       `).join('');

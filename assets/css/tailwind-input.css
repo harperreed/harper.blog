@@ -1,8 +1,5 @@
 @import './tokens.css';
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss" source("../..");
 
 @layer base {
   html {
@@ -31,3 +28,9 @@
     font-family: var(--font-mono);
   }
 }
+
+/* Theme icon visibility - dark mode is default */
+.light .theme-icon-sun { display: none; }
+.light .theme-icon-moon { display: block; }
+:root:not(.light) .theme-icon-sun { display: block; }
+:root:not(.light) .theme-icon-moon { display: none; }

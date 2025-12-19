@@ -1,49 +1,105 @@
-{{ define "main" }} {{ if not .Params.menu }}
-<h1>{{ .Title }}</h1>
-<p class="byline">{{ with .Params.book_author }}{{ i18n "by" | default "By" }} {{.}}{{ end }}</p>
-{{ end }}
-<content>
-    <h3>{{.Params.tagline}}</h3>
-    {{ with .Params.asin }} {{ $image := print
-    "https://images-na.ssl-images-amazon.com/images/P/" . ".01._SCLZZZZZZZ.jpg"
-    }}
+{{ define "main" }}
+<article class="max-w-[var(--max-width)] mx-auto px-4 py-16">
+  <div class="lg:grid lg:grid-cols-[280px_1fr] lg:gap-16">
+    {{/* Book Cover */}}
+    <div class="mb-12 lg:mb-0">
+      <div class="sticky top-24">
+        {{ with .Params.asin }}
+        {{ $image := print "https://images-na.ssl-images-amazon.com/images/P/" . ".01._SCLZZZZZZZ.jpg" }}
+        <div class="relative">
+          <img src="{{ $image }}" alt="{{ $.Title }} cover" class="w-full rounded shadow-xl">
+          {{/* Shelf shadow */}}
+          <div class="absolute -bottom-4 left-1/2 -translate-x-1/2 w-[80%] h-6 bg-black/30 blur-xl rounded-full"></div>
+        </div>
+        {{ else }}
+        <div class="aspect-[2/3] bg-[var(--color-bg-secondary)] flex items-center justify-center p-8 shadow-xl">
+          <span class="font-display text-xl text-center text-[var(--color-text-secondary)]">{{ .Title }}</span>
+        </div>
+        {{ end }}
 
-    <img src="{{ $image  }}" alt="{{ i18n "book-cover-alt" | default "Book cover" }}" class="book-cover" />
-    {{ end }} {{ .Content }}
-</content>
+        {{/* Buy button */}}
+        {{ with .Params.asin }}
+        {{ $url := print "https://www.amazon.com/dp/" . "?tag=" $.Site.Params.amazon_tag }}
+        <a href="{{ $url }}" target="_blank" rel="noopener noreferrer" class="mt-8 flex items-center justify-center gap-2 w-full py-3 px-4 bg-[var(--color-accent)] text-white font-medium hover:bg-[var(--color-accent-hover)] transition-colors text-sm">
+          Get this book →
+        </a>
+        {{ end }}
+      </div>
+    </div>
 
-<ul>
-    {{ with .Params.review_rating}}
-    <li>{{ i18n "my-rating" | default "My rating:" }} {{.}}/5</li>
-    {{end}} {{ $read_at := .Params.date }} {{ with .Params.started_at}} {{
-    $start := time . }} {{ $end := time $read_at }} {{ $duration := $end.Sub
-    $start }} {{/* Get total hours */}} {{ $hours := $duration.Hours }} {{/* Get
-    total days */}} {{ $days := div $duration.Hours 24 }}
-    <li>{{ i18n "reading-duration" | default "Reading duration: Read in" }} {{math.Ceil $days}} {{ i18n "days" | default "days" }}</li>
-    {{ end }} {{ with .Params.num_pages}}
-    <li>{{ i18n "number-of-pages" | default "Number of pages:" }} {{.}} {{ i18n "pages" | default "Pages" }}</li>
-    {{end}}
-</ul>
-{{ $url := print "https://www.amazon.com/dp/" .Params.asin "?tag="
-.Site.Params.amazon_tag }}
-<a href="{{ $url }}" target="_blank" rel="noopener noreferrer"
-    >{{ i18n "read-this-book" | default "Read this book" }}</a
->
+    {{/* Book Info */}}
+    <div>
+      <header class="mb-12">
+        <h1 class="font-display text-4xl md:text-5xl font-black leading-tight tracking-tight mb-4">{{ .Title }}</h1>
+        {{ with .Params.book_author }}
+        <p class="text-xl text-[var(--color-text-secondary)]">by {{ . }}</p>
+        {{ end }}
+      </header>
 
-<p>
-    {{ range (.GetTerms "tags") }}
-    <a
-        class="blog-tags"
-        href="{{ .RelPermalink }}"
-        aria-label="{{ i18n "tag-aria" (printf "%s" (lower .LinkTitle)) | default (printf "Tag: %s" (lower .LinkTitle)) }}"
-        >#{{ lower .LinkTitle }}</a
-    >
-    {{ end }}
-</p>
+      {{/* Reading stats */}}
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-[1px] bg-[var(--color-border)] mb-12">
+        {{ with .Params.review_rating }}
+        <div class="bg-[var(--color-bg)] p-6">
+          <div class="text-2xl font-display font-black text-[var(--color-accent)]">{{ . }}/5</div>
+          <div class="text-xs font-mono uppercase tracking-wider text-[var(--color-text-muted)] mt-1">Rating</div>
+        </div>
+        {{ end }}
 
-<nav>
-    <a href="/media/books" aria-label="{{ i18n "back-to-books" | default "Back to the book list" }}"
-        >{{ i18n "back-to-books" | default "Back to the book list" }}</a
-    >
-</nav>
+        {{ with .Params.num_pages }}
+        <div class="bg-[var(--color-bg)] p-6">
+          <div class="text-2xl font-display font-black">{{ . }}</div>
+          <div class="text-xs font-mono uppercase tracking-wider text-[var(--color-text-muted)] mt-1">Pages</div>
+        </div>
+        {{ end }}
+
+        {{ $read_at := .Params.date }}
+        {{ with .Params.started_at }}
+        {{ $start := time . }}
+        {{ $end := time $read_at }}
+        {{ $duration := $end.Sub $start }}
+        {{ $days := div $duration.Hours 24 }}
+        <div class="bg-[var(--color-bg)] p-6">
+          <div class="text-2xl font-display font-black">{{ math.Ceil $days }}</div>
+          <div class="text-xs font-mono uppercase tracking-wider text-[var(--color-text-muted)] mt-1">Days</div>
+        </div>
+        {{ end }}
+
+        <div class="bg-[var(--color-bg)] p-6">
+          <div class="text-2xl font-display font-black">{{ .Date.Format "2006" }}</div>
+          <div class="text-xs font-mono uppercase tracking-wider text-[var(--color-text-muted)] mt-1">Read</div>
+        </div>
+      </div>
+
+      {{/* Content/Review */}}
+      {{ with .Content }}
+      <div class="prose max-w-none text-[var(--color-text)] text-lg leading-relaxed mb-12
+        [&>h2]:font-display [&>h2]:font-bold [&>h2]:text-xl [&>h2]:mt-12 [&>h2]:mb-4
+        [&>p]:mb-6
+        [&>blockquote]:border-l-2 [&>blockquote]:border-[var(--color-accent)] [&>blockquote]:pl-6 [&>blockquote]:my-8 [&>blockquote]:italic [&>blockquote]:text-[var(--color-text-secondary)]
+        [&_a]:text-[var(--color-accent)] [&_a]:underline hover:[&_a]:no-underline
+      ">
+        {{ . }}
+      </div>
+      {{ end }}
+
+      {{/* Tags */}}
+      {{ with .GetTerms "tags" }}
+      <div class="flex flex-wrap gap-3 mb-12">
+        {{ range . }}
+        <a href="{{ .RelPermalink }}" class="text-xs font-mono uppercase tracking-wider text-[var(--color-text-muted)] hover:text-[var(--color-accent)] transition-colors">
+          #{{ lower .LinkTitle }}
+        </a>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      {{/* Navigation */}}
+      <nav class="pt-8 border-t border-[var(--color-border)]">
+        <a href="/books" class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors">
+          ← {{ i18n "back-to-books" | default "All Books" }}
+        </a>
+      </nav>
+    </div>
+  </div>
+</article>
 {{ end }}

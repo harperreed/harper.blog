@@ -5,22 +5,23 @@
   'use strict';
 
   // === Theme Toggle ===
+  // Dark is now the default (no class), light mode uses 'light' class
   const themeToggle = document.getElementById('theme-toggle');
 
-  function setTheme(isDark) {
-    document.documentElement.classList.toggle('dark', isDark);
-    localStorage.setItem('theme', isDark ? 'dark' : 'light');
+  function setTheme(isLight) {
+    document.documentElement.classList.toggle('light', isLight);
+    localStorage.setItem('theme', isLight ? 'light' : 'dark');
   }
 
   if (themeToggle) {
     themeToggle.addEventListener('click', () => {
-      const isDark = document.documentElement.classList.contains('dark');
-      setTheme(!isDark);
+      const isLight = document.documentElement.classList.contains('light');
+      setTheme(!isLight);
     });
   }
 
   // Listen for system theme changes
-  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
+  window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', (e) => {
     if (!localStorage.getItem('theme')) {
       setTheme(e.matches);
     }

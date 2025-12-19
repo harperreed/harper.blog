@@ -1,119 +1,231 @@
 {{ define "main" }}
-<div class="max-w-[var(--max-width)] mx-auto px-4 sm:px-6 lg:px-8 py-12">
+{{/* Collect all notes with images */}}
+{{ $notesWithImages := slice }}
+{{ range (where .Site.RegularPages "Section" "notes") }}
+  {{ $images := .Resources.ByType "image" }}
+  {{ if $images }}
+    {{ $notesWithImages = $notesWithImages | append . }}
+  {{ end }}
+{{ end }}
 
-  {{/* Hero: Latest Post */}}
-  {{ $latestPost := (where .Site.RegularPages "Section" "post" | first 1) }}
-  {{ with index $latestPost 0 }}
-  <section class="mb-16">
-    <article class="relative group">
-      <a href="{{ .Permalink }}" class="block p-8 md:p-12 rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] hover:border-[var(--color-accent)] transition-all">
-        <span class="inline-block px-3 py-1 text-xs font-medium uppercase tracking-wider text-[var(--color-accent)] bg-[var(--color-accent)]/10 rounded-full mb-4">
-          Latest Post
-        </span>
-        <h2 class="font-display text-3xl md:text-4xl font-bold leading-tight mb-4 group-hover:text-[var(--color-accent)] transition-colors">
+{{/* Hero: Full-bleed photo wall */}}
+<section class="relative">
+  {{/* Photo Masonry Grid - Full viewport */}}
+  <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-[2px] bg-[var(--color-bg)]">
+    {{ range first 10 $notesWithImages }}
+    {{ $images := .Resources.ByType "image" }}
+    {{ $img := index $images 0 }}
+    <a href="{{ .Permalink }}" class="group relative aspect-square overflow-hidden bg-[var(--color-bg-secondary)]">
+      <img
+        src="{{ $img.RelPermalink }}"
+        alt="{{ with .Title }}{{ . }}{{ end }}"
+        class="w-full h-full object-cover transition-all duration-500 group-hover:scale-105"
+        loading="lazy"
+      >
+      {{/* Hover overlay */}}
+      <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-4">
+        <time class="text-xs text-white/70 uppercase tracking-wider">{{ .Date.Format "Jan 2006" }}</time>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+
+  {{/* Floating title overlay */}}
+  <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-[var(--color-bg)] via-[var(--color-bg)]/90 to-transparent pt-32 pb-8 px-4">
+    <div class="max-w-[var(--max-width)] mx-auto">
+      <h1 class="font-display text-[var(--text-massive)] font-black leading-none tracking-tight">
+        <span class="text-[var(--color-text)]">HARPER</span>
+        <span class="text-[var(--color-accent)]">.</span>
+      </h1>
+      <p class="text-[var(--color-text-secondary)] text-lg md:text-xl mt-2 max-w-md">
+        Technologist, photographer, builder of things.
+      </p>
+    </div>
+  </div>
+</section>
+
+{{/* Latest Writing - Asymmetric editorial layout */}}
+{{ $latestPost := (where .Site.RegularPages "Section" "post" | first 1) }}
+{{ with index $latestPost 0 }}
+<section class="max-w-[var(--max-width)] mx-auto px-4 py-24">
+  <div class="grid lg:grid-cols-12 gap-8 lg:gap-16 items-end">
+    {{/* Left: Label */}}
+    <div class="lg:col-span-2">
+      <span class="inline-block text-xs font-mono uppercase tracking-[0.2em] text-[var(--color-accent)] border-b border-[var(--color-accent)] pb-1">
+        Latest
+      </span>
+    </div>
+    {{/* Right: Content */}}
+    <div class="lg:col-span-10">
+      <a href="{{ .Permalink }}" class="group block">
+        <h2 class="font-display text-3xl md:text-4xl lg:text-5xl font-bold leading-tight tracking-tight mb-6 group-hover:text-[var(--color-accent)] transition-colors">
           {{ .Title }}
         </h2>
-        <p class="text-lg text-[var(--color-text-secondary)] leading-relaxed mb-6 max-w-prose">
-          {{ .Summary | truncate 200 }}
+        <p class="text-[var(--color-text-secondary)] text-lg leading-relaxed max-w-2xl mb-4">
+          {{ .Summary | truncate 250 }}
         </p>
-        <div class="flex items-center gap-4 text-sm text-[var(--color-text-secondary)]">
+        <div class="flex items-center gap-6 text-sm text-[var(--color-text-muted)]">
           <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-          <span>&middot;</span>
-          <span>{{ .ReadingTime }} min read</span>
+          <span class="w-12 h-[1px] bg-[var(--color-border-strong)]"></span>
+          <span>{{ .ReadingTime }} min</span>
         </div>
       </a>
-    </article>
-  </section>
-  {{ end }}
-
-  {{/* Recent Notes */}}
-  {{ $recentNotes := (where .Site.RegularPages "Section" "notes" | first 6) }}
-  {{ if $recentNotes }}
-  <section class="mb-16">
-    <div class="flex items-center justify-between mb-8">
-      <h2 class="font-display text-2xl font-bold">Recent Notes</h2>
-      <a href="/notes/" class="text-sm font-medium text-[var(--color-accent)] hover:underline">View all &rarr;</a>
     </div>
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-      {{ range $recentNotes }}
-      <article class="group">
-        <a href="{{ .Permalink }}" class="block p-6 rounded-lg border border-[var(--color-border)] hover:border-[var(--color-accent)] hover:shadow-md transition-all h-full">
-          {{ with .Params.images }}
-          {{ $img := index . 0 }}
-          <img src="{{ $img }}" alt="" class="w-full h-40 object-cover rounded-md mb-4">
-          {{ end }}
-          <p class="text-[var(--color-text)] leading-relaxed mb-3">
-            {{ with .Description }}{{ . | truncate 120 }}{{ else }}{{ .Title | truncate 120 }}{{ end }}
-          </p>
-          <time class="text-xs text-[var(--color-text-secondary)]" datetime="{{ .Date.Format "2006-01-02" }}">
-            {{ .Date.Format "Jan 2, 2006" }}
-          </time>
-        </a>
-      </article>
-      {{ end }}
-    </div>
-  </section>
-  {{ end }}
+  </div>
+</section>
+{{ end }}
 
-  {{/* Currently Section */}}
-  <section class="mb-16">
-    <h2 class="font-display text-2xl font-bold mb-8">Currently</h2>
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-      {{/* Currently Reading */}}
-      {{ $currentBook := (where .Site.RegularPages "Section" "books" | first 1) }}
-      {{ with index $currentBook 0 }}
-      <a href="{{ .Permalink }}" class="flex items-center gap-4 p-4 rounded-lg border border-[var(--color-border)] hover:border-[var(--color-accent)] transition-all">
-        <span class="text-2xl">📚</span>
-        <div>
-          <span class="text-xs uppercase tracking-wider text-[var(--color-text-secondary)]">Reading</span>
-          <p class="font-medium">{{ .Title }}</p>
-        </div>
+{{/* More Photos - Offset grid */}}
+{{ if gt (len $notesWithImages) 10 }}
+<section class="bg-[var(--color-bg-secondary)] py-24">
+  <div class="max-w-[var(--max-width)] mx-auto px-4">
+    <div class="flex items-center justify-between mb-12">
+      <span class="text-xs font-mono uppercase tracking-[0.2em] text-[var(--color-text-muted)]">More Photos</span>
+      <a href="/notes/" class="text-xs font-mono uppercase tracking-[0.2em] text-[var(--color-accent)] hover:text-[var(--color-accent-hover)] transition-colors">
+        View All →
       </a>
-      {{ end }}
+    </div>
 
-      {{/* Recently Listened */}}
-      {{ $currentMusic := (where .Site.RegularPages "Section" "music" | first 1) }}
-      {{ with index $currentMusic 0 }}
-      <a href="{{ .Permalink }}" class="flex items-center gap-4 p-4 rounded-lg border border-[var(--color-border)] hover:border-[var(--color-accent)] transition-all">
-        <span class="text-2xl">🎵</span>
-        <div>
-          <span class="text-xs uppercase tracking-wider text-[var(--color-text-secondary)]">Listening</span>
-          <p class="font-medium">{{ .Title }}</p>
-        </div>
+    {{/* Asymmetric photo layout */}}
+    <div class="grid grid-cols-12 gap-4">
+      {{ range $i, $note := (after 10 $notesWithImages | first 6) }}
+      {{ $images := .Resources.ByType "image" }}
+      {{ $img := index $images 0 }}
+
+      {{ if eq $i 0 }}
+      <a href="{{ .Permalink }}" class="col-span-12 md:col-span-8 aspect-[16/9] group relative overflow-hidden">
+      {{ else if eq $i 1 }}
+      <a href="{{ .Permalink }}" class="col-span-6 md:col-span-4 aspect-square group relative overflow-hidden">
+      {{ else if eq $i 2 }}
+      <a href="{{ .Permalink }}" class="col-span-6 md:col-span-4 aspect-square group relative overflow-hidden">
+      {{ else if eq $i 3 }}
+      <a href="{{ .Permalink }}" class="col-span-6 md:col-span-4 aspect-[3/4] group relative overflow-hidden">
+      {{ else if eq $i 4 }}
+      <a href="{{ .Permalink }}" class="col-span-6 md:col-span-4 aspect-[3/4] group relative overflow-hidden">
+      {{ else }}
+      <a href="{{ .Permalink }}" class="col-span-12 md:col-span-4 aspect-video group relative overflow-hidden">
+      {{ end }}
+        <img
+          src="{{ $img.RelPermalink }}"
+          alt="{{ with $note.Title }}{{ . }}{{ end }}"
+          class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
+          loading="lazy"
+        >
+        <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
       </a>
       {{ end }}
     </div>
-  </section>
+  </div>
+</section>
+{{ end }}
 
-  {{/* Explore Section */}}
-  <section>
-    <h2 class="font-display text-2xl font-bold mb-8">Explore</h2>
-    <div class="flex flex-wrap gap-4">
+{{/* Currently - Minimal brutalist cards */}}
+<section class="max-w-[var(--max-width)] mx-auto px-4 py-24">
+  <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-[1px] bg-[var(--color-border)]">
+    {{/* Reading */}}
+    {{ $currentBook := (where .Site.RegularPages "Section" "books" | first 1) }}
+    {{ with index $currentBook 0 }}
+    <a href="{{ .Permalink }}" class="bg-[var(--color-bg)] p-8 group">
+      <span class="text-xs font-mono uppercase tracking-[0.2em] text-[var(--color-text-muted)] block mb-4">Reading</span>
+      <p class="font-display text-xl font-bold group-hover:text-[var(--color-accent)] transition-colors">{{ .Title }}</p>
+      {{ with .Params.book_author }}
+      <p class="text-sm text-[var(--color-text-secondary)] mt-1">{{ . }}</p>
+      {{ end }}
+    </a>
+    {{ end }}
+
+    {{/* Listening */}}
+    {{ $currentMusic := (where .Site.RegularPages "Section" "music" | first 1) }}
+    {{ with index $currentMusic 0 }}
+    <a href="{{ .Permalink }}" class="bg-[var(--color-bg)] p-8 group">
+      <span class="text-xs font-mono uppercase tracking-[0.2em] text-[var(--color-text-muted)] block mb-4">Listening</span>
+      <p class="font-display text-xl font-bold group-hover:text-[var(--color-accent)] transition-colors">{{ .Title }}</p>
+      {{ with .Params.artist }}
+      <p class="text-sm text-[var(--color-text-secondary)] mt-1">{{ . }}</p>
+      {{ end }}
+    </a>
+    {{ end }}
+
+    {{/* Latest Link */}}
+    {{ $currentLink := (where .Site.RegularPages "Section" "links" | first 1) }}
+    {{ with index $currentLink 0 }}
+    <a href="{{ .Permalink }}" class="bg-[var(--color-bg)] p-8 group">
+      <span class="text-xs font-mono uppercase tracking-[0.2em] text-[var(--color-text-muted)] block mb-4">Bookmarked</span>
+      <p class="font-display text-xl font-bold group-hover:text-[var(--color-accent)] transition-colors leading-tight">{{ .Title | truncate 60 }}</p>
+    </a>
+    {{ end }}
+
+    {{/* Now */}}
+    {{ $now := (where .Site.RegularPages "Section" "now" | first 1) }}
+    {{ with index $now 0 }}
+    <a href="{{ .Permalink }}" class="bg-[var(--color-bg)] p-8 group">
+      <span class="text-xs font-mono uppercase tracking-[0.2em] text-[var(--color-text-muted)] block mb-4">Now</span>
+      <p class="font-display text-xl font-bold group-hover:text-[var(--color-accent)] transition-colors">What I'm up to</p>
+      <p class="text-sm text-[var(--color-text-secondary)] mt-1">Updated {{ .Date.Format "Jan 2006" }}</p>
+    </a>
+    {{ else }}
+    <a href="/about/" class="bg-[var(--color-bg)] p-8 group">
+      <span class="text-xs font-mono uppercase tracking-[0.2em] text-[var(--color-text-muted)] block mb-4">About</span>
+      <p class="font-display text-xl font-bold group-hover:text-[var(--color-accent)] transition-colors">Harper Reed</p>
+      <p class="text-sm text-[var(--color-text-secondary)] mt-1">Who I am</p>
+    </a>
+    {{ end }}
+  </div>
+</section>
+
+{{/* Recent Posts - Editorial list */}}
+{{ $recentPosts := (where .Site.RegularPages "Section" "post" | after 1 | first 5) }}
+{{ if $recentPosts }}
+<section class="border-t border-[var(--color-border)] py-24">
+  <div class="max-w-[var(--max-width)] mx-auto px-4">
+    <span class="text-xs font-mono uppercase tracking-[0.2em] text-[var(--color-text-muted)] block mb-12">Archive</span>
+
+    <div class="space-y-0">
+      {{ range $recentPosts }}
+      <a href="{{ .Permalink }}" class="group flex flex-col md:flex-row md:items-baseline gap-2 md:gap-8 py-6 border-b border-[var(--color-border)] hover:border-[var(--color-accent)] transition-colors">
+        <time class="text-sm font-mono text-[var(--color-text-muted)] md:w-32 shrink-0" datetime="{{ .Date.Format "2006-01-02" }}">
+          {{ .Date.Format "2006.01.02" }}
+        </time>
+        <h3 class="font-display text-xl md:text-2xl font-bold group-hover:text-[var(--color-accent)] transition-colors">
+          {{ .Title }}
+        </h3>
+      </a>
+      {{ end }}
+    </div>
+
+    <a href="/post/" class="inline-block mt-12 text-xs font-mono uppercase tracking-[0.2em] text-[var(--color-accent)] hover:text-[var(--color-accent-hover)] transition-colors">
+      All Posts →
+    </a>
+  </div>
+</section>
+{{ end }}
+
+{{/* Footer nav - Minimal */}}
+<section class="border-t border-[var(--color-border)] py-16">
+  <div class="max-w-[var(--max-width)] mx-auto px-4">
+    <div class="flex flex-wrap gap-x-8 gap-y-4 justify-center">
       {{ range (slice
-        (dict "name" "Posts" "url" "/post/" "icon" "✍️")
-        (dict "name" "Notes" "url" "/notes/" "icon" "💭")
-        (dict "name" "Books" "url" "/books/" "icon" "📚")
-        (dict "name" "Music" "url" "/music/" "icon" "🎵")
-        (dict "name" "Links" "url" "/links/" "icon" "🔗")
+        (dict "name" "Posts" "url" "/post/")
+        (dict "name" "Notes" "url" "/notes/")
+        (dict "name" "Books" "url" "/books/")
+        (dict "name" "Music" "url" "/music/")
+        (dict "name" "Links" "url" "/links/")
+        (dict "name" "About" "url" "/about/")
       ) }}
-      <a href="{{ .url }}" class="flex items-center gap-2 px-4 py-2 rounded-full border border-[var(--color-border)] hover:border-[var(--color-accent)] hover:bg-[var(--color-bg-secondary)] transition-all">
-        <span>{{ .icon }}</span>
-        <span class="font-medium">{{ .name }}</span>
+      <a href="{{ .url }}" class="text-sm font-mono uppercase tracking-wider text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors">
+        {{ .name }}
       </a>
       {{ end }}
 
-      {{/* Random Post */}}
-      <button id="random-post-btn" class="flex items-center gap-2 px-4 py-2 rounded-full border border-[var(--color-border)] hover:border-[var(--color-accent)] hover:bg-[var(--color-bg-secondary)] transition-all">
-        <span>🎲</span>
-        <span class="font-medium">Random</span>
+      {{/* Random */}}
+      <button id="random-post-btn" class="text-sm font-mono uppercase tracking-wider text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors">
+        Random ↯
       </button>
     </div>
-  </section>
-
-</div>
+  </div>
+</section>
 
 <script>
-  // Random post functionality
   document.getElementById('random-post-btn')?.addEventListener('click', () => {
     const posts = {{ where .Site.RegularPages "Section" "post" | jsonify }};
     if (posts.length > 0) {

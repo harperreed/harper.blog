@@ -1,0 +1,84 @@
+{{ define "main" }}
+{{ $images := .Resources.ByType "image" }}
+
+<article class="max-w-[var(--max-width)] mx-auto px-4 py-16">
+  <div class="lg:grid lg:grid-cols-[1fr_300px] lg:gap-16 items-start">
+    {{/* Main content */}}
+    <div>
+      <h1 class="font-display text-5xl md:text-6xl lg:text-7xl font-black leading-[1.05] tracking-tight mb-12">
+        {{ .Title }}<span class="text-[var(--color-accent)]">.</span>
+      </h1>
+
+      <div class="prose max-w-none text-[var(--color-text)] text-lg leading-relaxed
+        [&>h2]:font-display [&>h2]:font-bold [&>h2]:text-2xl [&>h2]:mt-16 [&>h2]:mb-6 [&>h2]:tracking-tight [&>h2]:pb-4 [&>h2]:border-b [&>h2]:border-[var(--color-border)]
+        [&>h3]:font-display [&>h3]:font-bold [&>h3]:text-xl [&>h3]:mt-12 [&>h3]:mb-4
+        [&>p]:mb-6
+        [&>ul]:list-disc [&>ul]:ml-6 [&>ul]:mb-6 [&>ul]:space-y-2
+        [&>ol]:list-decimal [&>ol]:ml-6 [&>ol]:mb-6
+        [&>blockquote]:border-l-2 [&>blockquote]:border-[var(--color-accent)] [&>blockquote]:pl-6 [&>blockquote]:my-8 [&>blockquote]:italic [&>blockquote]:text-[var(--color-text-secondary)]
+        [&_a]:text-[var(--color-accent)] [&_a]:underline hover:[&_a]:no-underline
+        [&_em]:text-[var(--color-accent)] [&_em]:not-italic [&_em]:font-medium
+        [&_img]:rounded [&_img]:shadow-lg [&_img]:my-8
+        [&_figcaption]:text-sm [&_figcaption]:text-center [&_figcaption]:text-[var(--color-text-muted)] [&_figcaption]:mt-3
+      ">
+        {{ .Content }}
+      </div>
+    </div>
+
+    {{/* Sidebar with portrait */}}
+    <aside class="hidden lg:block">
+      <div class="sticky top-24">
+        {{ with $images }}
+        {{ $portrait := index . 0 }}
+        <figure class="mb-8">
+          <img src="{{ $portrait.RelPermalink }}" alt="Harper Reed" class="w-full rounded shadow-lg">
+        </figure>
+        {{ end }}
+
+        {{/* Quick links */}}
+        <div class="p-6 bg-[var(--color-bg-secondary)] border border-[var(--color-border)]">
+          <span class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-muted)] block mb-6">Connect</span>
+          <ul class="space-y-4">
+            <li>
+              <a href="mailto:harper@modest.com" class="flex items-center gap-3 text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors text-sm">
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
+                </svg>
+                Email
+              </a>
+            </li>
+            <li>
+              <a href="https://bsky.app/profile/harper.lol" target="_blank" rel="noopener noreferrer" class="flex items-center gap-3 text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors text-sm">
+                <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 568 501"><path d="M123.121 33.664C188.241 82.553 258.281 181.68 284 234.873c25.719-53.192 95.759-152.32 160.879-201.21C491.866-1.611 568-28.906 568 57.947c0 17.346-9.945 145.713-15.778 166.555-20.275 72.453-94.155 90.933-159.875 79.748C507.222 323.8 536.444 388.56 473.333 453.32c-119.86 122.992-172.273-30.859-185.702-70.281-2.462-7.227-3.614-10.608-3.631-7.733-.017-2.875-1.169.506-3.631 7.733-13.429 39.422-65.842 193.273-185.702 70.281-63.111-64.76-33.89-129.52 80.986-149.071-65.72 11.185-139.6-7.295-159.875-79.748C9.945 203.659 0 75.291 0 57.946 0-28.906 76.135-1.612 123.121 33.664Z"/></svg>
+                Bluesky
+              </a>
+            </li>
+            <li>
+              <a href="https://github.com/harperreed" target="_blank" rel="noopener noreferrer" class="flex items-center gap-3 text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors text-sm">
+                <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+                GitHub
+              </a>
+            </li>
+            <li>
+              <a href="http://harperreed.com" target="_blank" rel="noopener noreferrer" class="flex items-center gap-3 text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors text-sm">
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9"/>
+                </svg>
+                Website
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </aside>
+  </div>
+
+  {{/* Mobile portrait */}}
+  {{ with $images }}
+  {{ $portrait := index . 0 }}
+  <figure class="lg:hidden mt-12 max-w-xs mx-auto">
+    <img src="{{ $portrait.RelPermalink }}" alt="Harper Reed" class="w-full rounded shadow-lg">
+  </figure>
+  {{ end }}
+</article>
+{{ end }}

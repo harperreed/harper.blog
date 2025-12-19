@@ -1,97 +1,102 @@
 {{ define "main" }}
-<content>
-    {{ .Content }}
-    
-    {{ $allMedia := slice }}
-    {{ range where .Site.RegularPages "Section" "books" }}
-        {{ $allMedia = $allMedia | append . }}
-    {{ end }}
-    {{ range where .Site.RegularPages "Section" "music" }}
-        {{ $allMedia = $allMedia | append . }}
-    {{ end }}
-    {{ range where .Site.RegularPages "Section" "links" }}
-        {{ $allMedia = $allMedia | append . }}
-    {{ end }}
-    
-    {{ $sortedMedia := sort $allMedia "Date" "desc" }}
-    {{ $paginator := .Paginate $sortedMedia 20 }}
-    
-    <ul class="media-link-posts">
-        {{ range $paginator.Pages.GroupByDate "2006-01-02" }} 
-        {{ range $index, $page := .Pages }}
-        <li>
-            {{ if eq $index 0 }}
-            <span class="date">
-                <i>
-                    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
-                        {{ .Date.Format (default "2006-01-02" $.Site.Params.dateFormat) }}
-                    </time>
-                </i>
-            </span>
-            {{ else }}
-            <span></span>
-            {{ end }}
-            
-           
-            
-            {{ if eq $page.Section "links" }}
-                {{ if .Params.original_url }}
-                <a href="{{ .Params.original_url }}" class="media-link" target="_blank" rel="noopener noreferrer">
-                    <span class="media-link-title">{{ .Title }}</span>
-                    {{ $url := urls.Parse .Params.original_url }}
-                    <span class="media-link-domain">({{ $url.Hostname }})</span>
-                </a>
-                {{ else }}
-                    {{ .Title }}
-                {{ end }}
-            {{ else if eq $page.Section "music" }}
-            {{ if .Params.spotify_url }}
-            
-            <a href="{{ .Params.spotify_url }}" target="_blank" class="media-music" rel="noopener noreferrer">
-                <span class="media-link-title">{{ .Title }}</span>
-              
-                {{ with .Params.artist }}
-                <span class="media-link-domain">(by {{ . }})</span>
+<div class="max-w-[var(--max-width)] mx-auto px-4 py-16">
+  <header class="mb-16">
+    <h1 class="font-display text-5xl md:text-6xl font-black tracking-tight mb-4">
+      Media<span class="text-[var(--color-accent)]">.</span>
+    </h1>
+    <p class="text-lg text-[var(--color-text-secondary)] max-w-md">Books, music, and links - everything I'm consuming.</p>
+  </header>
 
-                {{ end }}
-            </a>
-            {{ else }}
-            <a href="{{ .RelPermalink }}" class="media-music">
-                <span class="media-link-title">{{ .Title }}</span>
-                {{ with .Params.artist }}
-                <span class="media-link-domain">(by {{ . }})</span>
-                {{ end }}
-            </a>
-            {{ end }}
-            {{ else if eq $page.Section "books" }}
-            {{ $url := print "https://www.amazon.com/dp/" (urlquery .Params.asin) "?tag=" (urlquery .Site.Params.amazon_tag) }}
-            <a href="{{ $url }}" target="_blank"  class="media-book" rel="noopener noreferrer">
-                <span class="media-link-title">{{ .Title }}</span>
+  {{/* Collect all media */}}
+  {{ $allMedia := slice }}
+  {{ range where .Site.RegularPages "Section" "books" }}
+    {{ $allMedia = $allMedia | append . }}
+  {{ end }}
+  {{ range where .Site.RegularPages "Section" "music" }}
+    {{ $allMedia = $allMedia | append . }}
+  {{ end }}
+  {{ range where .Site.RegularPages "Section" "links" }}
+    {{ $allMedia = $allMedia | append . }}
+  {{ end }}
 
-                {{ with .Params.book_author }}
-                <span class="media-link-domain">(by {{ . }})</span>
-                {{ end }}
-               
-            </a>
-            {{ else }}
-                <a href="{{ .RelPermalink }}">
-                    <span class="media-link-title">{{ .Title }}</span>
-                    {{ if eq $page.Section "books" }}
-                        {{ with .Params.author }}
-                        <span class="media-link-domain">(by {{ . }})</span>
-                        {{ end }}
-                    {{ else if eq $page.Section "music" }}
-                        {{ with .Params.artist }}
-                        <span class="media-link-domain">(by {{ . }})</span>
-                        {{ end }}
-                    {{ end }}
-                </a>
+  {{ $sortedMedia := sort $allMedia "Date" "desc" }}
+  {{ $paginator := .Paginate $sortedMedia 50 }}
+
+  {{/* Timeline */}}
+  <div class="space-y-0">
+    {{ range $paginator.Pages.GroupByDate "2006-01-02" }}
+    <div class="relative">
+      {{/* Date header */}}
+      <div class="sticky top-16 z-10 py-3 bg-[var(--color-bg)] border-b border-[var(--color-border)]">
+        <time datetime="{{ .Key }}" class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-muted)]">
+          {{ (index .Pages 0).Date.Format "2006.01.02" }}
+        </time>
+      </div>
+
+      {{/* Items for this date */}}
+      <div class="py-2">
+        {{ range .Pages }}
+        <div class="group">
+          {{ if eq .Section "links" }}
+          {{/* Link item */}}
+          <a href="{{ .Params.original_url }}" target="_blank" rel="noopener noreferrer" class="flex items-baseline gap-4 py-3 hover:text-[var(--color-accent)] transition-colors">
+            <span class="text-xs font-mono text-[var(--color-text-muted)] w-12 shrink-0">link</span>
+            <span class="font-medium">{{ .Title }}</span>
+            <svg class="w-3 h-3 text-[var(--color-text-muted)] shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
+            </svg>
+          </a>
+
+          {{ else if eq .Section "music" }}
+          {{/* Music item */}}
+          <a href="{{ with .Params.spotify_url }}{{ . }}{{ else }}{{ .RelPermalink }}{{ end }}" {{ if .Params.spotify_url }}target="_blank" rel="noopener noreferrer"{{ end }} class="flex items-baseline gap-4 py-3 hover:text-[var(--color-accent)] transition-colors">
+            <span class="text-xs font-mono text-[var(--color-text-muted)] w-12 shrink-0">music</span>
+            <span class="font-medium">{{ .Title }}</span>
+            {{ with .Params.artist }}
+            <span class="text-sm text-[var(--color-text-secondary)]">{{ . }}</span>
             {{ end }}
-        </li>
+          </a>
+
+          {{ else if eq .Section "books" }}
+          {{/* Book item */}}
+          <a href="{{ .RelPermalink }}" class="flex items-baseline gap-4 py-3 hover:text-[var(--color-accent)] transition-colors">
+            <span class="text-xs font-mono text-[var(--color-text-muted)] w-12 shrink-0">book</span>
+            <span class="font-medium">{{ .Title }}</span>
+            {{ with .Params.book_author }}
+            <span class="text-sm text-[var(--color-text-secondary)]">{{ . }}</span>
+            {{ end }}
+          </a>
+          {{ end }}
+        </div>
         {{ end }}
-        {{ end }}
-    </ul>
-    
-    {{ partial "pagination.html" . }}
-</content>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+
+  {{/* Pagination */}}
+  {{ if gt $paginator.TotalPages 1 }}
+  <nav class="flex items-center justify-between pt-12 border-t border-[var(--color-border)]">
+    <div>
+      {{ if $paginator.HasPrev }}
+      <a href="{{ $paginator.Prev.URL }}" class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors">
+        ← Newer
+      </a>
+      {{ end }}
+    </div>
+
+    <span class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-muted)]">
+      {{ $paginator.PageNumber }} / {{ $paginator.TotalPages }}
+    </span>
+
+    <div>
+      {{ if $paginator.HasNext }}
+      <a href="{{ $paginator.Next.URL }}" class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors">
+        Older →
+      </a>
+      {{ end }}
+    </div>
+  </nav>
+  {{ end }}
+</div>
 {{ end }}

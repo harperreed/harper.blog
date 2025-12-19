@@ -1,21 +1,102 @@
-{{ define "main" }} 
-{{ if not .Params.menu }}
-<h1>{{ .Title }} {{ i18n "by" | default "by" }} {{.Params.artist}}</h1>
-<p class="byline">
-    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate aria-label="{{ i18n "date-aria" (printf "%s" (.Date.Format (default "2006-01-02" .Site.Params.dateFormat))) | default (printf "Date: %s" (.Date.Format (default "2006-01-02" .Site.Params.dateFormat))) }}">
-        {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
-    </time>
-    {{ with .Params.author }}· {{.}}{{ end }}
-</p>
-{{ end }}
-<content> {{ .Content }} </content>
-<p>
-    {{ range (.GetTerms "tags") }}
-    <a class="blog-tags" href="{{ .RelPermalink }}" aria-label="{{ i18n "tag-aria" (printf "%s" (lower .LinkTitle)) | default (printf "Tag: %s" (lower .LinkTitle)) }}">#{{ lower .LinkTitle }}</a>
-    {{ end }}
-</p>
+{{ define "main" }}
+<article class="max-w-[var(--max-width)] mx-auto px-4 py-16">
+  <div class="lg:grid lg:grid-cols-[320px_1fr] lg:gap-16">
+    {{/* Album Art */}}
+    <div class="mb-12 lg:mb-0">
+      <div class="sticky top-24">
+        {{ with .Params.album_image }}
+        <div class="relative group">
+          <img src="{{ . }}" alt="{{ $.Params.album }} album cover" class="w-full rounded shadow-xl">
+          {{/* Play overlay */}}
+          {{ with $.Params.spotify_url }}
+          <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="absolute inset-0 flex items-center justify-center bg-black/50 opacity-0 group-hover:opacity-100 transition-opacity rounded">
+            <div class="w-16 h-16 rounded-full bg-[#1DB954] flex items-center justify-center">
+              <svg class="w-8 h-8 text-white ml-1" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M8 5v14l11-7z"/>
+              </svg>
+            </div>
+          </a>
+          {{ end }}
+        </div>
+        {{ else }}
+        <div class="aspect-square bg-gradient-to-br from-[var(--color-accent)] to-[var(--color-accent-hover)] flex items-center justify-center shadow-xl rounded">
+          <svg class="w-24 h-24 text-white/30" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19V6l12-3v13M9 19c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zm12-3c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zM9 10l12-3"/>
+          </svg>
+        </div>
+        {{ end }}
 
-<nav>
-    <a href="/media/music" aria-label="{{ i18n "back-to-music" | default "Back to music" }}">{{ i18n "back-to-music" | default "Back to music" }}</a>
-</nav>
+        {{/* Spotify button */}}
+        {{ with .Params.spotify_url }}
+        <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="mt-8 flex items-center justify-center gap-3 w-full py-3 px-4 bg-[#1DB954] text-white font-medium hover:bg-[#1ed760] transition-colors text-sm">
+          <svg class="w-5 h-5" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/>
+          </svg>
+          Play on Spotify
+        </a>
+        {{ end }}
+      </div>
+    </div>
+
+    {{/* Track Info */}}
+    <div>
+      <header class="mb-12">
+        <h1 class="font-display text-4xl md:text-5xl font-black leading-tight tracking-tight mb-3">{{ .Title }}</h1>
+        {{ with .Params.artist }}
+        <p class="text-2xl text-[var(--color-text-secondary)]">{{ . }}</p>
+        {{ end }}
+        {{ with .Params.album }}
+        <p class="text-lg text-[var(--color-accent)] mt-2">{{ . }}</p>
+        {{ end }}
+      </header>
+
+      {{/* Track stats */}}
+      <div class="grid grid-cols-2 gap-[1px] bg-[var(--color-border)] mb-12 max-w-sm">
+        {{ with .Params.duration }}
+        {{ $minutes := div . 60000 }}
+        {{ $seconds := mod (div . 1000) 60 }}
+        <div class="bg-[var(--color-bg)] p-6">
+          <div class="text-2xl font-display font-black">{{ $minutes }}:{{ printf "%02d" (int $seconds) }}</div>
+          <div class="text-xs font-mono uppercase tracking-wider text-[var(--color-text-muted)] mt-1">Duration</div>
+        </div>
+        {{ end }}
+
+        <div class="bg-[var(--color-bg)] p-6">
+          <div class="text-2xl font-display font-black">{{ .Date.Format "2006" }}</div>
+          <div class="text-xs font-mono uppercase tracking-wider text-[var(--color-text-muted)] mt-1">Added</div>
+        </div>
+      </div>
+
+      {{/* Content */}}
+      {{ with .Content }}
+      <div class="prose max-w-none text-[var(--color-text)] text-lg leading-relaxed mb-12
+        [&>h2]:font-display [&>h2]:font-bold [&>h2]:text-xl [&>h2]:mt-12 [&>h2]:mb-4
+        [&>p]:mb-6
+        [&_a]:text-[var(--color-accent)] [&_a]:underline hover:[&_a]:no-underline
+        [&_.spotify-embed]:my-8
+      ">
+        {{ . }}
+      </div>
+      {{ end }}
+
+      {{/* Tags */}}
+      {{ with .GetTerms "tags" }}
+      <div class="flex flex-wrap gap-3 mb-12">
+        {{ range . }}
+        <a href="{{ .RelPermalink }}" class="text-xs font-mono uppercase tracking-wider text-[var(--color-text-muted)] hover:text-[var(--color-accent)] transition-colors">
+          #{{ lower .LinkTitle }}
+        </a>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      {{/* Navigation */}}
+      <nav class="pt-8 border-t border-[var(--color-border)]">
+        <a href="/music" class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors">
+          ← {{ i18n "back-to-music" | default "All Music" }}
+        </a>
+      </nav>
+    </div>
+  </div>
+</article>
 {{ end }}

@@ -1,84 +1,94 @@
 {{ define "main" }}
-<div class="max-w-[var(--max-width)] mx-auto px-4 sm:px-6 lg:px-8 py-12">
-  <header class="mb-12">
-    <h1 class="font-display text-4xl font-bold mb-4">Notes</h1>
-    <p class="text-lg text-[var(--color-text-secondary)]">Short thoughts, links, and updates.</p>
+{{/* Hero header - minimal */}}
+<header class="max-w-[var(--max-width)] mx-auto px-4 py-16">
+  <h1 class="font-display text-5xl md:text-6xl font-black tracking-tight mb-4">
+    Notes<span class="text-[var(--color-accent)]">.</span>
+  </h1>
+  <p class="text-[var(--color-text-secondary)] text-lg max-w-md">Thoughts, photos, and moments.</p>
 
-    {{/* Filter Pills */}}
-    <div class="flex flex-wrap gap-2 mt-6" id="note-filters">
-      <button class="filter-btn active px-4 py-2 text-sm font-medium rounded-full border border-[var(--color-border)] transition-all" data-filter="all">
-        All
-      </button>
-      <button class="filter-btn px-4 py-2 text-sm font-medium rounded-full border border-[var(--color-border)] transition-all" data-filter="text">
-        Text
-      </button>
-      <button class="filter-btn px-4 py-2 text-sm font-medium rounded-full border border-[var(--color-border)] transition-all" data-filter="images">
-        With Images
-      </button>
-    </div>
-  </header>
+  {{/* Filter Pills */}}
+  <div class="flex flex-wrap gap-3 mt-8" id="note-filters">
+    <button class="filter-btn active text-xs font-mono uppercase tracking-[0.15em] px-4 py-2 border border-[var(--color-border)] hover:border-[var(--color-accent)] transition-all" data-filter="all">
+      All
+    </button>
+    <button class="filter-btn text-xs font-mono uppercase tracking-[0.15em] px-4 py-2 border border-[var(--color-border)] hover:border-[var(--color-accent)] transition-all" data-filter="images">
+      Photos
+    </button>
+    <button class="filter-btn text-xs font-mono uppercase tracking-[0.15em] px-4 py-2 border border-[var(--color-border)] hover:border-[var(--color-accent)] transition-all" data-filter="text">
+      Text
+    </button>
+  </div>
+</header>
 
-  {{/* Masonry Grid */}}
-  <div class="columns-1 md:columns-2 lg:columns-3 gap-6 space-y-6" id="notes-grid">
-    {{ $paginator := .Paginate (where .Site.RegularPages "Section" "notes") .Site.Params.notes_pagination }}
-    {{ range $paginator.Pages }}
-    <article class="note-card break-inside-avoid mb-6" data-has-image="{{ if .Params.images }}true{{ else }}false{{ end }}">
-      <a href="{{ .Permalink }}" class="block p-6 rounded-xl border border-[var(--color-border)] hover:border-[var(--color-accent)] hover:shadow-lg transition-all bg-[var(--color-bg)]">
-        {{/* Image */}}
-        {{ with .Params.images }}
-        {{ $img := index . 0 }}
-        <img src="{{ $img }}" alt="" class="w-full rounded-lg mb-4 object-cover" loading="lazy">
-        {{ end }}
+{{/* Photo grid - edge to edge */}}
+<section class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-[2px]" id="notes-grid">
+  {{ $paginator := .Paginate (where .Site.RegularPages "Section" "notes") 16 }}
+  {{ range $paginator.Pages }}
+  {{ $images := .Resources.ByType "image" }}
+  {{ $hasImage := gt (len $images) 0 }}
 
-        {{/* Content */}}
-        <div class="{{ if not .Params.images }}text-lg{{ end }}">
-          {{ with .Description }}
-          <p class="text-[var(--color-text)] leading-relaxed">{{ . }}</p>
-          {{ else }}
-          <p class="text-[var(--color-text)] leading-relaxed">{{ .Title }}</p>
+  {{ if $hasImage }}
+  {{/* Photo note - square card */}}
+  {{ $img := index $images 0 }}
+  <article class="note-card" data-has-image="true">
+    <a href="{{ .Permalink }}" class="group relative aspect-square block overflow-hidden bg-[var(--color-bg-secondary)]">
+      <img
+        src="{{ $img.RelPermalink }}"
+        alt="{{ .Title }}"
+        class="w-full h-full object-cover transition-all duration-500 group-hover:scale-105"
+        loading="lazy"
+      >
+      {{/* Hover overlay */}}
+      <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+        <div class="absolute bottom-0 left-0 right-0 p-4">
+          <time class="text-xs text-white/70 font-mono uppercase tracking-wider">{{ .Date.Format "Jan 2006" }}</time>
+          {{ if gt (len $images) 1 }}
+          <span class="absolute top-4 right-4 text-xs text-white/70 font-mono">+{{ sub (len $images) 1 }}</span>
           {{ end }}
         </div>
+      </div>
+    </a>
+  </article>
+  {{ else }}
+  {{/* Text-only note */}}
+  <article class="note-card col-span-1" data-has-image="false">
+    <a href="{{ .Permalink }}" class="group block aspect-square p-6 bg-[var(--color-bg-secondary)] hover:bg-[var(--color-bg-tertiary)] transition-colors overflow-hidden">
+      <time class="text-xs font-mono uppercase tracking-wider text-[var(--color-text-muted)] mb-4 block">{{ .Date.Format "2006.01.02" }}</time>
+      <p class="text-sm text-[var(--color-text)] leading-relaxed line-clamp-6 group-hover:text-[var(--color-text)] transition-colors">
+        {{ .Content | plainify | truncate 180 }}
+      </p>
+    </a>
+  </article>
+  {{ end }}
+  {{ end }}
+</section>
 
-        {{/* Meta */}}
-        <div class="flex items-center justify-between mt-4 text-xs text-[var(--color-text-secondary)]">
-          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
-          {{ with .Params.tags }}
-          <div class="flex gap-1">
-            {{ range first 2 . }}
-            <span class="text-[var(--color-accent)]">#{{ . }}</span>
-            {{ end }}
-          </div>
-          {{ end }}
-        </div>
-      </a>
-    </article>
+{{/* Pagination */}}
+{{ if gt $paginator.TotalPages 1 }}
+<nav class="max-w-[var(--max-width)] mx-auto px-4 py-16 flex items-center justify-between">
+  <div>
+    {{ if $paginator.HasPrev }}
+    <a href="{{ $paginator.Prev.URL }}" class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors">
+      ← Newer
+    </a>
     {{ end }}
   </div>
 
-  {{/* Pagination */}}
-  {{ if gt $paginator.TotalPages 1 }}
-  <nav class="flex items-center justify-center gap-4 mt-12">
-    {{ if $paginator.HasPrev }}
-    <a href="{{ $paginator.Prev.URL }}" class="px-4 py-2 rounded-lg border border-[var(--color-border)] hover:border-[var(--color-accent)] transition-all">
-      &larr; Newer
-    </a>
-    {{ end }}
+  <span class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-muted)]">
+    {{ $paginator.PageNumber }} / {{ $paginator.TotalPages }}
+  </span>
 
-    <span class="text-sm text-[var(--color-text-secondary)]">
-      Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}
-    </span>
-
+  <div>
     {{ if $paginator.HasNext }}
-    <a href="{{ $paginator.Next.URL }}" class="px-4 py-2 rounded-lg border border-[var(--color-border)] hover:border-[var(--color-accent)] transition-all">
-      Older &rarr;
+    <a href="{{ $paginator.Next.URL }}" class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors">
+      Older →
     </a>
     {{ end }}
-  </nav>
-  {{ end }}
-</div>
+  </div>
+</nav>
+{{ end }}
 
 <script>
-  // Note filtering
   const filters = document.querySelectorAll('.filter-btn');
   const notes = document.querySelectorAll('.note-card');
 
@@ -87,8 +97,8 @@
       const filter = btn.dataset.filter;
 
       // Update active state
-      filters.forEach(f => f.classList.remove('active', 'bg-[var(--color-accent)]', 'text-white', 'border-[var(--color-accent)]'));
-      btn.classList.add('active', 'bg-[var(--color-accent)]', 'text-white', 'border-[var(--color-accent)]');
+      filters.forEach(f => f.classList.remove('active'));
+      btn.classList.add('active');
 
       // Filter notes
       notes.forEach(note => {

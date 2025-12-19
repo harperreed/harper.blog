@@ -1,28 +1,97 @@
-{{ define "main" }} {{ if not .Params.menu }}
-<h1>{{ .Title }}</h1>
+{{ define "main" }}
+{{ $images := .Resources.ByType "image" }}
+{{ $hasImages := gt (len $images) 0 }}
 
+{{/* Hero image - full viewport */}}
+{{ if $hasImages }}
+{{ $img := index $images 0 }}
+<section class="relative h-[80vh] bg-[var(--color-bg-secondary)]">
+  <img
+    src="{{ $img.RelPermalink }}"
+    alt="{{ .Title }}"
+    class="w-full h-full object-contain"
+  >
+  {{/* Gradient overlay at bottom */}}
+  <div class="absolute inset-x-0 bottom-0 h-48 bg-gradient-to-t from-[var(--color-bg)] to-transparent"></div>
+</section>
 {{ end }}
-<content>
-    {{ .Content }} {{- with .Resources.ByType "image" }}
-    <div class="note-images" aria-label="{{ i18n "note-images-aria" | default "Note images" }}">
-        {{- range . }}
-        <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
-        {{- end }}
+
+<article class="max-w-[var(--max-width)] mx-auto px-4 {{ if not $hasImages }}pt-16{{ else }}-mt-24 relative z-10{{ end }} pb-16">
+  {{/* Content card */}}
+  <div class="max-w-2xl mx-auto">
+    {{/* Date + Meta */}}
+    <div class="flex items-center gap-4 mb-6 text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-muted)]">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">
+        {{ .Date.Format "2006.01.02" }}
+      </time>
+      {{ if $hasImages }}
+      <span class="w-8 h-[1px] bg-[var(--color-border-strong)]"></span>
+      <span>{{ len $images }} {{ if eq (len $images) 1 }}photo{{ else }}photos{{ end }}</span>
+      {{ end }}
     </div>
-    {{- end }}
-</content>
-<p class="byline">
-    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate aria-label="{{ i18n "date-aria" (printf "%s" (.Date.Format (default "2006-01-02" .Site.Params.dateFormat))) | default (printf "Date: %s" (.Date.Format (default "2006-01-02" .Site.Params.dateFormat))) }}">
-        {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
-    </time> &middot;
-    {{ with .Params.author }}{{.}} &middot;{{ end }}
 
-    <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
-</p>
-{{ partialCached "tags.html" . .Title }}
-{{ partialCached "comments.html" . .Title }}
+    {{/* Note content */}}
+    <div class="prose text-[var(--color-text)] text-lg leading-relaxed mb-8
+      [&>p]:mb-6
+      [&_a]:text-[var(--color-accent)] [&_a]:underline hover:[&_a]:no-underline
+      [&>blockquote]:border-l-2 [&>blockquote]:border-[var(--color-accent)] [&>blockquote]:pl-6 [&>blockquote]:my-8 [&>blockquote]:text-[var(--color-text-secondary)] [&>blockquote]:italic">
+      {{ .Content }}
+    </div>
 
-<nav>
-    <a href="/notes" aria-label="{{ i18n "back-to-notes" | default "Back to the current notes" }}">{{ i18n "back-to-notes" | default "Back to the current notes" }}</a>
-</nav>
+    {{/* Additional images gallery */}}
+    {{ if gt (len $images) 1 }}
+    <div class="mt-12 mb-8">
+      <div class="grid grid-cols-2 gap-2">
+        {{ range $index, $img := (after 1 $images) }}
+        <a href="{{ $img.RelPermalink }}" class="group relative aspect-square overflow-hidden bg-[var(--color-bg-secondary)]">
+          <img
+            src="{{ $img.RelPermalink }}"
+            alt=""
+            class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+            loading="lazy"
+          >
+          <div class="absolute inset-0 bg-black/20 opacity-0 group-hover:opacity-100 transition-opacity"></div>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+
+    {{/* Tags */}}
+    {{ with .Params.tags }}
+    <div class="flex flex-wrap gap-2 mb-8">
+      {{ range . }}
+      <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="text-xs font-mono uppercase tracking-wider text-[var(--color-text-muted)] hover:text-[var(--color-accent)] transition-colors">
+        #{{ . }}
+      </a>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{/* Footer actions */}}
+    <div class="flex items-center gap-6 pt-8 border-t border-[var(--color-border)]">
+      <a href="/notes" class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors">
+        ← All Notes
+      </a>
+
+      <button class="tinylytics_kudos text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors" data-path="{{ .RelPermalink }}">
+        ♡ Like
+      </button>
+
+      {{/* Prev/Next navigation */}}
+      <div class="ml-auto flex items-center gap-4">
+        {{ with .PrevInSection }}
+        <a href="{{ .Permalink }}" class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors">
+          Prev
+        </a>
+        {{ end }}
+        {{ with .NextInSection }}
+        <a href="{{ .Permalink }}" class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors">
+          Next
+        </a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</article>
 {{ end }}

@@ -1,43 +1,41 @@
 {{ define "main" }}
-<div class="max-w-[var(--max-width)] mx-auto px-4 sm:px-6 lg:px-8 py-12">
-  <header class="mb-12">
-    <h1 class="font-display text-4xl font-bold mb-4">Books</h1>
-    <p class="text-lg text-[var(--color-text-secondary)]">What I've been reading.</p>
+<div class="max-w-[var(--max-width)] mx-auto px-4 py-16">
+  <header class="mb-16">
+    <h1 class="font-display text-5xl md:text-6xl font-black tracking-tight mb-4">
+      Books<span class="text-[var(--color-accent)]">.</span>
+    </h1>
+    <p class="text-lg text-[var(--color-text-secondary)] max-w-md">What I've been reading.</p>
   </header>
 
-  {{/* Book Grid */}}
-  <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-6">
+  {{/* Book Grid - Shelf style */}}
+  <div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-7 gap-4">
     {{ range where .Site.RegularPages "Section" "books" }}
     <article class="group">
       <a href="{{ .Permalink }}" class="block">
         {{/* Book Cover */}}
-        <div class="relative aspect-[2/3] rounded-lg overflow-hidden shadow-md group-hover:shadow-xl transition-all group-hover:-translate-y-1">
-          {{ with .Params.cover }}
-          <img src="{{ . }}" alt="{{ $.Title }}" class="w-full h-full object-cover">
+        <div class="relative aspect-[2/3] overflow-hidden bg-[var(--color-bg-secondary)] group-hover:-translate-y-1 transition-transform duration-300">
+          {{ with .Params.asin }}
+          {{ $image := print "https://images-na.ssl-images-amazon.com/images/P/" . ".01._SCLZZZZZZZ.jpg" }}
+          <img src="{{ $image }}" alt="{{ $.Title }}" class="w-full h-full object-cover">
           {{ else }}
-          <div class="w-full h-full bg-gradient-to-br from-[var(--color-bg-secondary)] to-[var(--color-border)] flex items-center justify-center p-4">
-            <span class="font-display text-sm text-center text-[var(--color-text-secondary)]">{{ $.Title }}</span>
+          <div class="w-full h-full flex items-center justify-center p-3">
+            <span class="font-display text-xs text-center text-[var(--color-text-muted)] line-clamp-4">{{ .Title }}</span>
           </div>
           {{ end }}
 
           {{/* Hover overlay */}}
-          <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity flex flex-col justify-end p-4">
-            <h3 class="text-white font-medium text-sm line-clamp-2">{{ .Title }}</h3>
-            {{ with .Params.author }}
-            <p class="text-white/70 text-xs mt-1">{{ . }}</p>
+          <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-3">
+            <h3 class="text-white font-medium text-xs line-clamp-2">{{ .Title }}</h3>
+            {{ with .Params.book_author }}
+            <p class="text-white/60 text-[10px] mt-1 line-clamp-1">{{ . }}</p>
+            {{ end }}
+            {{ with $.Params.review_rating }}
+            <div class="text-[var(--color-accent)] text-xs mt-1">{{ . }}/5</div>
             {{ end }}
           </div>
 
           {{/* Shelf shadow */}}
-          <div class="absolute -bottom-2 left-1/2 -translate-x-1/2 w-[90%] h-4 bg-black/10 blur-md rounded-full"></div>
-        </div>
-
-        {{/* Book info (visible on mobile) */}}
-        <div class="mt-3 md:hidden">
-          <h3 class="font-medium text-sm line-clamp-2">{{ .Title }}</h3>
-          {{ with .Params.author }}
-          <p class="text-[var(--color-text-secondary)] text-xs mt-1">{{ . }}</p>
-          {{ end }}
+          <div class="absolute -bottom-2 left-1/2 -translate-x-1/2 w-[85%] h-3 bg-black/20 blur-md rounded-full opacity-0 group-hover:opacity-100 transition-opacity"></div>
         </div>
       </a>
     </article>

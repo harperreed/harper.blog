@@ -1,9 +1,39 @@
-{{ define "title" }}404{{ end }} {{ define "main" }}
-<h1>{{ i18n "404title" | default "404" }}</h1>
-<h2>ʕノ•ᴥ•ʔノ ︵ ┻━┻</h2>
-<h3>{{ i18n "404text" | default "Page not found" }}</h3>
+{{ define "title" }}404{{ end }}
 
-<p>
-    {{ i18n "maybe-check-out" | default "Maybe go check out the posts, notes, or the links." }}
-</p>
+{{ define "main" }}
+<div class="min-h-[60vh] flex items-center justify-center px-4">
+  <div class="text-center max-w-lg">
+    {{/* Big 404 */}}
+    <h1 class="font-display text-[12rem] md:text-[16rem] font-black leading-none text-[var(--color-bg-tertiary)] select-none">
+      404
+    </h1>
+
+    {{/* Table flip */}}
+    <div class="text-4xl md:text-5xl mb-8 -mt-12">
+      ʕノ•ᴥ•ʔノ ︵ ┻━┻
+    </div>
+
+    {{/* Message */}}
+    <h2 class="font-display text-2xl md:text-3xl font-bold mb-4">
+      {{ i18n "404title" | default "Page not found" }}<span class="text-[var(--color-accent)]">.</span>
+    </h2>
+
+    <p class="text-[var(--color-text-secondary)] mb-12">
+      {{ i18n "maybe-check-out" | default "The page you're looking for doesn't exist or has been moved." }}
+    </p>
+
+    {{/* Links */}}
+    <div class="flex flex-wrap justify-center gap-4">
+      <a href="/" class="px-6 py-3 bg-[var(--color-accent)] text-white font-medium hover:bg-[var(--color-accent-hover)] transition-colors">
+        Go Home
+      </a>
+      <a href="/posts" class="px-6 py-3 border border-[var(--color-border)] text-[var(--color-text-secondary)] hover:border-[var(--color-accent)] hover:text-[var(--color-accent)] transition-colors">
+        Browse Posts
+      </a>
+      <a href="/notes" class="px-6 py-3 border border-[var(--color-border)] text-[var(--color-text-secondary)] hover:border-[var(--color-accent)] hover:text-[var(--color-accent)] transition-colors">
+        View Notes
+      </a>
+    </div>
+  </div>
+</div>
 {{ end }}

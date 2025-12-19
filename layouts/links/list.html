@@ -1,39 +1,35 @@
 {{ define "main" }}
-<div class="max-w-[var(--max-width)] mx-auto px-4 sm:px-6 lg:px-8 py-12">
-  <header class="mb-12">
-    <h1 class="font-display text-4xl font-bold mb-4">Links</h1>
-    <p class="text-lg text-[var(--color-text-secondary)]">Interesting things from around the web.</p>
+<div class="max-w-[var(--max-width)] mx-auto px-4 py-16">
+  <header class="mb-16">
+    <h1 class="font-display text-5xl md:text-6xl font-black tracking-tight mb-4">
+      Links<span class="text-[var(--color-accent)]">.</span>
+    </h1>
+    <p class="text-lg text-[var(--color-text-secondary)] max-w-md">Interesting things from around the web.</p>
   </header>
 
   {{/* Links List */}}
-  <div class="space-y-4">
+  <div class="space-y-0">
     {{ $paginator := .Paginate (where .Site.RegularPages "Section" "links") .Site.Params.links_pagination }}
     {{ range $paginator.Pages }}
     <article class="group">
-      <a href="{{ .Params.original_url }}" target="_blank" rel="noopener noreferrer" class="flex items-start gap-4 p-4 rounded-lg border border-[var(--color-border)] hover:border-[var(--color-accent)] hover:bg-[var(--color-bg-secondary)] transition-all">
-        {{/* Favicon placeholder */}}
-        <div class="flex-shrink-0 w-10 h-10 rounded-lg bg-[var(--color-bg-secondary)] flex items-center justify-center text-lg">
-          🔗
-        </div>
-
-        {{/* Content */}}
+      <a href="{{ .Params.original_url }}" target="_blank" rel="noopener noreferrer" class="flex flex-col md:flex-row md:items-baseline gap-2 md:gap-6 py-5 border-b border-[var(--color-border)] hover:border-[var(--color-accent)] transition-colors">
+        <time datetime="{{ .Date.Format "2006-01-02" }}" class="text-xs font-mono text-[var(--color-text-muted)] md:w-24 shrink-0">
+          {{ .Date.Format "2006.01.02" }}
+        </time>
         <div class="flex-1 min-w-0">
-          <h3 class="font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors flex items-center gap-2">
-            {{ .Title }}
-            <svg class="w-4 h-4 text-[var(--color-text-secondary)]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <h3 class="font-display text-lg font-bold group-hover:text-[var(--color-accent)] transition-colors flex items-center gap-2">
+            <span class="line-clamp-1">{{ .Title }}</span>
+            <svg class="w-3 h-3 text-[var(--color-text-muted)] shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
             </svg>
           </h3>
           {{ with .Params.summary }}
-          <p class="text-sm text-[var(--color-text-secondary)] mt-1 line-clamp-2">{{ . }}</p>
+          <p class="text-sm text-[var(--color-text-secondary)] mt-1 line-clamp-1">{{ . }}</p>
           {{ end }}
-          <div class="flex items-center gap-3 mt-2 text-xs text-[var(--color-text-secondary)]">
-            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
-            {{ with .Params.original_url }}
-            <span class="truncate max-w-[200px]">{{ . | replaceRE "^https?://(www\\.)?" "" | replaceRE "/.*$" "" }}</span>
-            {{ end }}
-          </div>
         </div>
+        <span class="text-xs font-mono text-[var(--color-text-muted)] shrink-0">
+          {{ .Params.original_url | replaceRE "^https?://(www\\.)?" "" | replaceRE "/.*$" "" | truncate 25 }}
+        </span>
       </a>
     </article>
     {{ end }}
@@ -41,22 +37,26 @@
 
   {{/* Pagination */}}
   {{ if gt $paginator.TotalPages 1 }}
-  <nav class="flex items-center justify-center gap-4 mt-12">
-    {{ if $paginator.HasPrev }}
-    <a href="{{ $paginator.Prev.URL }}" class="px-4 py-2 rounded-lg border border-[var(--color-border)] hover:border-[var(--color-accent)] transition-all">
-      &larr; Newer
-    </a>
-    {{ end }}
+  <nav class="flex items-center justify-between pt-12">
+    <div>
+      {{ if $paginator.HasPrev }}
+      <a href="{{ $paginator.Prev.URL }}" class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors">
+        ← Newer
+      </a>
+      {{ end }}
+    </div>
 
-    <span class="text-sm text-[var(--color-text-secondary)]">
-      Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}
+    <span class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-muted)]">
+      {{ $paginator.PageNumber }} / {{ $paginator.TotalPages }}
     </span>
 
-    {{ if $paginator.HasNext }}
-    <a href="{{ $paginator.Next.URL }}" class="px-4 py-2 rounded-lg border border-[var(--color-border)] hover:border-[var(--color-accent)] transition-all">
-      Older &rarr;
-    </a>
-    {{ end }}
+    <div>
+      {{ if $paginator.HasNext }}
+      <a href="{{ $paginator.Next.URL }}" class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors">
+        Older →
+      </a>
+      {{ end }}
+    </div>
   </nav>
   {{ end }}
 </div>
