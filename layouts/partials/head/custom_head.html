@@ -1,4 +1,7 @@
-<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary | plainify | truncate 160 }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
+<meta
+    name="description"
+    content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary | plainify | truncate 160 }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"
+/>
 <meta name="author" content="Harper Reed <{{.Site.Params.email}}>" />
 <link rel="shortcut icon" href="/favicon.ico" />
 
@@ -13,7 +16,20 @@
 <link href="https://gravatar.com/harperreeed" rel="me" />
 <link href="harper@modest.com" rel="me" />
 <link href="harper@nata2.org" rel="me" />
-{{ with .Site.Params.indieAuth }}
-  <link rel="token_endpoint" href="{{ .tokenEndpoint | default "https://tokens.indieauth.com/token" }}" />
-  <link rel="authorization_endpoint" href="{{ .authEndpoint | default "https://indieauth.com/auth" }}" />
-{{ end }}
+
+<link
+    rel="shortcut icon"
+    href="https://micro.blog/harper/favicon.png"
+    type="image/x-icon"
+/>
+<link
+    rel="EditURI"
+    type="application/rsd+xml"
+    href="https://harper.micro.blog/rsd.xml"
+/>
+<link rel="authorization_endpoint" href="https://micro.blog/indieauth/auth" />
+<link rel="token_endpoint" href="https://micro.blog/indieauth/token" />
+<link rel="subscribe" href="https://micro.blog/users/follow" />
+<link rel="webmention" href="https://micro.blog/webmention" />
+<link rel="micropub" href="https://micro.blog/micropub" />
+<link rel="microsub" href="https://micro.blog/microsub" />
