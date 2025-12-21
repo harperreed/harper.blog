@@ -1,32 +1,133 @@
 {{ define "main" }}
+<article class="max-w-[var(--max-width)] mx-auto px-4 py-16">
+  <div class="lg:grid lg:grid-cols-[1fr_240px] lg:gap-16">
+    {{/* Main Content */}}
+    <div>
+      {{/* Post Header */}}
+      <header class="mb-12">
+        {{/* Meta line */}}
+        <div class="flex items-center gap-4 mb-6 text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-muted)]">
+          <time datetime="{{ .Date.Format "2006-01-02" }}">
+            {{ .Date.Format "2006.01.02" }}
+          </time>
+          <span class="w-8 h-[1px] bg-[var(--color-border-strong)]"></span>
+          <span>{{ .ReadingTime }} min</span>
+        </div>
 
+        <h1 class="font-display text-4xl md:text-5xl lg:text-6xl font-black leading-[1.1] tracking-tight">
+          {{ .Title }}
+        </h1>
 
-{{ if not .Params.menu }}
-<h1>{{ .Title }}</h1>
-<p class="byline">
-  <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
-    {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
-  </time>
-  {{ with .Params.author }}· {{.}}{{ end }} &middot;
-  {{ .WordCount }}&nbsp;{{ i18n "words" }} &middot;
-  {{ .ReadingTime }}&nbsp;{{ i18n "minutes" }} &middot;
-  <button class="tinylytics_kudos" data-path="{{ .Page.RelPermalink }}"></button>
-</p>
-{{ end }}
+        {{/* Tags */}}
+        {{ with .Params.tags }}
+        <div class="flex flex-wrap gap-3 mt-8">
+          {{ range . }}
+          <a href="{{ "/tags/" | relURL }}{{ . | urlize }}" class="text-xs font-mono uppercase tracking-wider text-[var(--color-text-muted)] hover:text-[var(--color-accent)] transition-colors">
+            #{{ . }}
+          </a>
+          {{ end }}
+        </div>
+        {{ end }}
+      </header>
 
+      {{/* Post Content */}}
+      <div class="max-w-prose text-[var(--color-text)] text-lg leading-relaxed
+        [&>h2]:font-display [&>h2]:font-bold [&>h2]:text-2xl [&>h2]:mt-16 [&>h2]:mb-6 [&>h2]:tracking-tight
+        [&>h3]:font-display [&>h3]:font-bold [&>h3]:text-xl [&>h3]:mt-12 [&>h3]:mb-4
+        [&>h4]:font-display [&>h4]:font-semibold [&>h4]:text-lg [&>h4]:mt-8 [&>h4]:mb-3
+        [&>p]:mb-6
+        [&>ul]:list-disc [&>ul]:ml-6 [&>ul]:mb-6 [&>ul]:space-y-2
+        [&>ol]:list-decimal [&>ol]:ml-6 [&>ol]:mb-6 [&>ol]:space-y-2
+        [&>blockquote]:border-l-2 [&>blockquote]:border-[var(--color-accent)] [&>blockquote]:pl-6 [&>blockquote]:my-8 [&>blockquote]:italic [&>blockquote]:text-[var(--color-text-secondary)]
+        [&>pre]:bg-[var(--color-bg-secondary)] [&>pre]:border [&>pre]:border-[var(--color-border)] [&>pre]:rounded [&>pre]:p-4 [&>pre]:overflow-x-auto [&>pre]:mb-6 [&>pre]:text-sm
+        [&>code]:text-[var(--color-accent)] [&>code]:bg-[var(--color-bg-secondary)] [&>code]:px-1.5 [&>code]:py-0.5 [&>code]:rounded [&>code]:text-sm
+        [&>pre>code]:bg-transparent [&>pre>code]:p-0
+        [&_a]:text-[var(--color-accent)] [&_a]:underline hover:[&_a]:no-underline
+        [&>img]:rounded [&>img]:my-8 [&>img]:w-full
+        [&>hr]:border-[var(--color-border)] [&>hr]:my-12
+        [&>table]:w-full [&>table]:mb-6
+        [&_table_th]:text-left [&_table_th]:font-mono [&_table_th]:text-xs [&_table_th]:uppercase [&_table_th]:tracking-wider [&_table_th]:p-3 [&_table_th]:border-b [&_table_th]:border-[var(--color-border)]
+        [&_table_td]:p-3 [&_table_td]:border-b [&_table_td]:border-[var(--color-border)]
+      ">
+        {{ .Content }}
+      </div>
 
-{{ partial "post-translations.html" . }}
+      {{/* Post Footer */}}
+      <footer class="mt-16 pt-8 border-t border-[var(--color-border)]">
+        {{/* Actions */}}
+        <div class="flex flex-wrap items-center gap-6 mb-12">
+          <button class="tinylytics_kudos text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors">
+            ♡ Like this
+          </button>
 
-{{ partialCached "out_of_date.html" . (.Date.Format "2006") }}
+          <a href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title | urlquery }}" target="_blank" rel="noopener noreferrer" class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors">
+            Share →
+          </a>
 
-<content>
-  
-  {{ .Content }}
-</content>
+          <a href="mailto:{{ .Site.Params.author.email }}?subject=Re: {{ .Title }}" class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors">
+            Reply →
+          </a>
+        </div>
 
-{{ partialCached "generated.html" . .Title}}
+        {{/* Related Posts */}}
+        {{ $related := .Site.RegularPages.Related . | first 3 }}
+        {{ with $related }}
+        <div>
+          <span class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-muted)] block mb-6">Keep Reading</span>
+          <div class="space-y-0">
+            {{ range . }}
+            <a href="{{ .Permalink }}" class="group flex flex-col md:flex-row md:items-baseline gap-2 md:gap-6 py-4 border-b border-[var(--color-border)] hover:border-[var(--color-accent)] transition-colors">
+              <time class="text-xs font-mono text-[var(--color-text-muted)] md:w-24 shrink-0">{{ .Date.Format "2006.01.02" }}</time>
+              <h4 class="font-display text-lg font-bold group-hover:text-[var(--color-accent)] transition-colors">{{ .Title }}</h4>
+            </a>
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+      </footer>
+    </div>
 
-{{ partialCached "tags.html" . .Title}}
+    {{/* Sidebar (desktop only) */}}
+    <aside class="hidden lg:block">
+      <div class="sticky top-24 space-y-8">
+        {{/* Reading time */}}
+        <div>
+          <span class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-muted)] block mb-2">Reading</span>
+          <p class="text-sm text-[var(--color-text)]">{{ .ReadingTime }} min · {{ .WordCount }} words</p>
+        </div>
 
-{{ partialCached "comments.html" . .Title}}
+        {{/* Table of Contents */}}
+        {{ if .TableOfContents }}
+        <div>
+          <span class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-muted)] block mb-4">Contents</span>
+          <nav class="toc text-sm space-y-2 [&_ul]:list-none [&_ul]:ml-0 [&_ul_ul]:ml-4 [&_li]:mb-2 [&_a]:text-[var(--color-text-secondary)] [&_a]:no-underline hover:[&_a]:text-[var(--color-accent)] [&_a]:transition-colors">
+            {{ .TableOfContents }}
+          </nav>
+        </div>
+        {{ end }}
+
+        {{/* Tags */}}
+        {{ with .Params.tags }}
+        <div>
+          <span class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-muted)] block mb-4">Tags</span>
+          <div class="flex flex-wrap gap-2">
+            {{ range . }}
+            <a href="{{ "/tags/" | relURL }}{{ . | urlize }}" class="text-xs font-mono text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors">
+              #{{ . }}
+            </a>
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </aside>
+  </div>
+</article>
+
+{{/* Jump to top button */}}
+<button id="jump-to-top" class="fixed bottom-8 right-8 p-3 bg-[var(--color-accent)] text-white opacity-0 pointer-events-none transition-opacity hover:bg-[var(--color-accent-hover)]" aria-label="Jump to top">
+  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18"/>
+  </svg>
+</button>
 {{ end }}

@@ -1,0 +1,33 @@
+<p>
+    {{ $menuItems := .Site.Menus.footer }} {{ range $index, $item := $menuItems
+    }}
+    <a href="{{ .URL }}">{{ .Name }}</a>{{ if ne (add $index 1) (len $menuItems)
+    }} &middot; {{ end }} {{ end }}
+    <br />
+    <br />
+    <nobr
+        >{{ i18n "copyright" | default "Copyright" }} &copy; {{
+        .Site.Params.Name }}</nobr
+    >
+
+    <br />
+    <nobr
+        >{{ i18n "generated" | default "Generated" }} {{ i18n "on" | default
+        "on" }} {{ now.Format "Jan 2, 2006" }} {{ with .GitInfo }} &middot; {{
+        .AbbreviatedHash }} {{ end }}
+    </nobr>
+    <br />
+    <nobr
+        >{{ i18n "sendMeAn" | default "Send me an" }}
+        <a
+            href="mailto:{{ .Site.Params.email }}"
+            aria-label="Send email to {{ .Site.Params.Name }}"
+            >{{ i18n "email" | default "email" }}</a
+        >
+    </nobr>
+    {{ partial "language-switcher.html" . }}
+</p>
+<script
+    src="https://tinylytics.app/embed/WV5Khk7ZG6MZe6q49ikx.js?hits&countries&kudos=❤️"
+    defer
+></script>

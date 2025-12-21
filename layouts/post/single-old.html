@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+
+{{ if not .Params.menu }}
+<h1>{{ .Title }}</h1>
+<p class="byline">
+  <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
+    {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
+  </time>
+  {{ with .Params.author }}· {{.}}{{ end }} &middot;
+  {{ .WordCount }}&nbsp;{{ i18n "words" }} &middot;
+  {{ .ReadingTime }}&nbsp;{{ i18n "minutes" }} &middot;
+  <button class="tinylytics_kudos" data-path="{{ .Page.RelPermalink }}"></button>
+</p>
+{{ end }}
+
+
+{{ partial "post-translations.html" . }}
+
+{{ partialCached "out_of_date.html" . (.Date.Format "2006") }}
+
+<content>
+  
+  {{ .Content }}
+</content>
+
+{{ partialCached "generated.html" . .Title}}
+
+{{ partialCached "tags.html" . .Title}}
+
+{{ partialCached "comments.html" . .Title}}
+{{ end }}

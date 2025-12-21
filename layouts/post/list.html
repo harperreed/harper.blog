@@ -1,32 +1,47 @@
 {{ define "main" }}
-<content>
-  {{ .Content }}
-    
-  {{ if .Data.Singular }}
-    <h3 class="blog-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
-  {{ end }}
-  <ul class="blog-posts">
-    {{ range .Pages }}
-    <li>
-      <span>
-        <i>
-          <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
-            {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
-          </time>
-        </i>
-      </span>
-      {{ if .Params.link }}
-        <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
+<div class="max-w-[var(--max-width)] mx-auto px-4 py-16">
+  <header class="mb-16">
+    <h1 class="font-display text-5xl md:text-6xl font-black tracking-tight mb-4">
+      {{ if .Data.Singular }}
+      {{ .Title }}<span class="text-[var(--color-accent)]">.</span>
       {{ else }}
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      Posts<span class="text-[var(--color-accent)]">.</span>
       {{ end }}
-    </li>
+    </h1>
+    {{ with .Content }}
+    <div class="text-lg text-[var(--color-text-secondary)] max-w-md">
+      {{ . }}
+    </div>
     {{ else }}
-    <li>
-      {{ i18n "no-posts" }}
-    </li>
+    <p class="text-lg text-[var(--color-text-secondary)] max-w-md">Long-form writing and thoughts.</p>
     {{ end }}
-  </ul>
- 
-</content>
+  </header>
+
+  {{/* Posts List - Editorial style */}}
+  <div class="space-y-0">
+    {{ range .Pages }}
+    <article class="group">
+      <a href="{{ if .Params.link }}{{ .Params.link }}{{ else }}{{ .RelPermalink }}{{ end }}" {{ if .Params.link }}target="_blank" rel="noopener noreferrer"{{ end }} class="flex flex-col md:flex-row md:items-baseline gap-2 md:gap-8 py-6 border-b border-[var(--color-border)] hover:border-[var(--color-accent)] transition-colors">
+        <time datetime="{{ .Date.Format "2006-01-02" }}" class="text-xs font-mono text-[var(--color-text-muted)] md:w-28 shrink-0">
+          {{ .Date.Format "2006.01.02" }}
+        </time>
+        <div class="flex-1">
+          <h2 class="font-display text-xl md:text-2xl font-bold group-hover:text-[var(--color-accent)] transition-colors">
+            {{ .Title }}{{ if .Params.link }} <span class="text-[var(--color-text-muted)]">↗</span>{{ end }}
+          </h2>
+          {{ with .Description }}
+          <p class="text-[var(--color-text-secondary)] mt-2 text-sm line-clamp-1">{{ . }}</p>
+          {{ end }}
+        </div>
+        <span class="text-xs font-mono text-[var(--color-text-muted)] shrink-0">{{ .ReadingTime }} min</span>
+      </a>
+    </article>
+    {{ else }}
+    <p class="text-[var(--color-text-secondary)] text-center py-16">{{ i18n "no-posts" | default "No posts yet." }}</p>
+    {{ end }}
+  </div>
+
+  {{/* Pagination */}}
+  {{ partial "pagination.html" . }}
+</div>
 {{ end }}

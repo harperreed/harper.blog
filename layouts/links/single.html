@@ -1,24 +1,68 @@
-{{ define "main" }} {{ if not .Params.menu }}
-<h1>{{ .Title }}</h1>
-<p class="byline">
-    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate aria-label="{{ i18n "date-aria" (printf "%s" (.Date.Format (default "2006-01-02" .Site.Params.dateFormat))) | default (printf "Date: %s" (.Date.Format (default "2006-01-02" .Site.Params.dateFormat))) }}">
-        {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
-    </time>
-    {{ with .Params.author }}· {{.}}{{ end }}
-</p>
-{{ end }}
-<content> {{ .Content }} 
-{{ if .Params.original_url }}
-  <a href="{{ .Params.original_url }}" target="_blank" rel="noopener noreferrer">{{ .Params.original_url }}</a>
-{{ end }}
-</content>
-<p>
-    {{ range (.GetTerms "tags") }}
-    <a class="blog-tags" href="{{ .RelPermalink }}" aria-label="{{ i18n "tag-aria" (printf "%s" (lower .LinkTitle)) | default (printf "Tag: %s" (lower .LinkTitle)) }}">#{{ lower .LinkTitle }}</a>
-    {{ end }}
-</p>
+{{ define "main" }}
+<article class="max-w-[var(--max-width)] mx-auto px-4 py-16">
+  <div class="max-w-2xl">
+    {{/* Header */}}
+    <header class="mb-12">
+      <div class="flex items-center gap-4 mb-6 text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-muted)]">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">
+          {{ .Date.Format "2006.01.02" }}
+        </time>
+        <span class="w-8 h-[1px] bg-[var(--color-border-strong)]"></span>
+        <span>Link</span>
+      </div>
 
-<nav>
-    <a href="/links" aria-label="{{ i18n "back-to-links" | default "Back to the current links" }}">{{ i18n "back-to-links" | default "Back to the current links" }}</a>
-</nav>
+      <h1 class="font-display text-3xl md:text-4xl font-black leading-tight tracking-tight mb-6">
+        {{ .Title }}
+      </h1>
+
+      {{ with .Params.original_url }}
+      <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 text-[var(--color-accent)] hover:underline">
+        <span class="text-sm">{{ . | replaceRE "^https?://(www\\.)?" "" | truncate 60 }}</span>
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
+        </svg>
+      </a>
+      {{ end }}
+    </header>
+
+    {{/* Content */}}
+    {{ with .Content }}
+    <div class="prose text-[var(--color-text)] text-lg leading-relaxed mb-12
+      [&>p]:mb-6
+      [&_a]:text-[var(--color-accent)] [&_a]:underline hover:[&_a]:no-underline
+      [&>blockquote]:border-l-2 [&>blockquote]:border-[var(--color-accent)] [&>blockquote]:pl-6 [&>blockquote]:my-8 [&>blockquote]:italic [&>blockquote]:text-[var(--color-text-secondary)]
+    ">
+      {{ . }}
+    </div>
+    {{ end }}
+
+    {{/* Tags */}}
+    {{ with .GetTerms "tags" }}
+    <div class="flex flex-wrap gap-3 mb-12">
+      {{ range . }}
+      <a href="{{ .RelPermalink }}" class="text-xs font-mono uppercase tracking-wider text-[var(--color-text-muted)] hover:text-[var(--color-accent)] transition-colors">
+        #{{ lower .LinkTitle }}
+      </a>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{/* Visit link button */}}
+    {{ with .Params.original_url }}
+    <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 px-6 py-3 bg-[var(--color-accent)] text-white font-medium hover:bg-[var(--color-accent-hover)] transition-colors text-sm">
+      Visit Link
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+      </svg>
+    </a>
+    {{ end }}
+
+    {{/* Navigation */}}
+    <nav class="mt-16 pt-8 border-t border-[var(--color-border)]">
+      <a href="/links" class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors">
+        ← All Links
+      </a>
+    </nav>
+  </div>
+</article>
 {{ end }}

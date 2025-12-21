@@ -1,17 +1,24 @@
 {{ $paginator := .Paginator }}
 {{ if gt $paginator.TotalPages 1 }}
-<nav class="pagination">
-    
-    
-    <span class="page-number">
-        {{ i18n "page" | default "Page" }} {{ $paginator.PageNumber }} {{ i18n "of" | default "of" }} {{ $paginator.TotalPages }}
-    </span>
-    
+<nav class="flex items-center justify-between pt-12 border-t border-[var(--color-border)]">
+  <div>
     {{ if $paginator.HasPrev }}
-        <a href="{{ $paginator.Prev.URL }}" class="prev" rel="prev">← {{ i18n "prevpage" | default "Previous" }}</a>
+    <a href="{{ $paginator.Prev.URL }}" class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors" rel="prev">
+      ← {{ i18n "prevpage" | default "Newer" }}
+    </a>
     {{ end }}
+  </div>
+
+  <span class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-muted)]">
+    {{ $paginator.PageNumber }} / {{ $paginator.TotalPages }}
+  </span>
+
+  <div>
     {{ if $paginator.HasNext }}
-        <a href="{{ $paginator.Next.URL }}" class="next" rel="next">{{ i18n "nextpage" | default "Next" }} →</a>
+    <a href="{{ $paginator.Next.URL }}" class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors" rel="next">
+      {{ i18n "nextpage" | default "Older" }} →
+    </a>
     {{ end }}
+  </div>
 </nav>
 {{ end }}

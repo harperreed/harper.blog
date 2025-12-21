@@ -1,0 +1,39 @@
+<!doctype html>
+{{- $randomTheme := getenv "HUGO_RANDOM_THEME" -}}
+{{- $theme := cond (ne $randomTheme "") $randomTheme .Site.Params.theme -}}
+<html
+    lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}"
+    class="{{ with $theme }}theme-{{ . }}{{ end }}"
+>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="referrer" content="no-referrer-when-downgrade" />
+        {{- partialCached "favicon.html" . -}}
+        <title>
+            {{- block "title" . }}
+                {{ with .Title }}{{ . }} | {{ end }} {{.Site.Title }}
+            {{- end }}
+        </title>
+        
+        {{- partialCached "social_card.html" . .Title -}}
+
+        {{- partialCached "head/css.html" . -}}
+        
+        {{- partialCached "head/javascript.html" . -}}
+        
+        {{- partialCached "head/rss.html" . -}}
+        
+        {{- partialCached "head/security.html" . -}}
+        
+        {{- partialCached "head/custom_head.html" . -}}
+    </head>
+
+    <body>
+        <header>{{- partialCached "header.html" . -}}</header>
+        <main id="main-content">{{- block "main" . }}{{- end }}</main>
+        <footer>{{- partialCached "footer.html" . -}}</footer>
+
+        {{- partialCached "custom_body.html" . -}}
+    </body>
+</html>

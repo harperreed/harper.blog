@@ -1,0 +1,36 @@
+@import './tokens.css';
+@import "tailwindcss" source("../..");
+
+@layer base {
+  html {
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    transition: color 200ms, background-color 200ms;
+  }
+
+  body {
+    font-family: var(--font-body);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+@layer utilities {
+  .font-display {
+    font-family: var(--font-display);
+  }
+
+  .font-body {
+    font-family: var(--font-body);
+  }
+
+  .font-mono {
+    font-family: var(--font-mono);
+  }
+}
+
+/* Theme icon visibility - dark mode is default */
+.light .theme-icon-sun { display: none; }
+.light .theme-icon-moon { display: block; }
+:root:not(.light) .theme-icon-sun { display: block; }
+:root:not(.light) .theme-icon-moon { display: none; }

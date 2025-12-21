@@ -1,3 +1,5 @@
+{{ partial "head/fonts.html" . }}
+
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary | plainify | truncate 160 }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
 <meta name="author" content="Harper Reed <{{.Site.Params.email}}>" />
 <link rel="shortcut icon" href="/favicon.ico" />

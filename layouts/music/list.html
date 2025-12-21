@@ -1,43 +1,49 @@
 {{ define "main" }}
-<content>
-    {{ .Content }} {{ if .Data.Singular }}
-    <h3 class="music-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
-    {{ end }} {{ $pages := .Pages }} {{ if not $pages }}
-    <ul class="music-posts">
-        <li>{{ i18n "no-posts" }}</li>
-    </ul>
-    {{ else }} {{ $paginator := .Paginate $pages 20 }}
-    <ul class="music-posts">
-        {{ range $paginator.Pages.GroupByDate "2006-01-02" }} {{ range $index,
-        $page := .Pages }} {{ $url := urls.Parse .Params.original_url}}
-        <li>
-            {{ if eq $index 0 }}
-            <span class="date">
-                <i>
-                    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
-                        {{ .Date.Format (default "2006-01-02"
-                        $.Site.Params.dateFormat) }}
-                    </time>
-                </i>
-            </span>
-            {{ else }}
-            <span></span>
-            {{ end }} {{ if .Params.spotify_url }}
-            <a
-                href="{{ .RelPermalink }}"
-                target="_blank"
-                rel="noopener noreferrer"
-            >
-                <span class="music-title">{{ .Title }}</span>
-                {{ with .Params.artist }}
-                <span class="music-domain">(by {{ . }})</span>
-                {{ end }}
-            </a>
-            {{ else }} {{ .Title }} {{ end }}
-        </li>
-        {{ end }} {{ end }}
-    </ul>
+<div class="max-w-[var(--max-width)] mx-auto px-4 py-16">
+  <header class="mb-16">
+    <h1 class="font-display text-5xl md:text-6xl font-black tracking-tight mb-4">
+      Music<span class="text-[var(--color-accent)]">.</span>
+    </h1>
+    <p class="text-lg text-[var(--color-text-secondary)] max-w-md">What I've been listening to.</p>
+  </header>
 
-    {{ partial "pagination.html" . }} {{ end }}
-</content>
+  {{/* Album Grid */}}
+  <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4">
+    {{ range where .Site.RegularPages "Section" "music" }}
+    <article class="group">
+      <a href="{{ .Permalink }}" class="block">
+        {{/* Album Art */}}
+        <div class="relative aspect-square overflow-hidden bg-[var(--color-bg-secondary)] group-hover:shadow-lg transition-all duration-300">
+          {{ with .Params.album_image }}
+          <img src="{{ . }}" alt="{{ $.Title }}" class="w-full h-full object-cover">
+          {{ else }}
+          <div class="w-full h-full bg-gradient-to-br from-[var(--color-accent)]/30 to-[var(--color-bg-tertiary)] flex items-center justify-center">
+            <svg class="w-12 h-12 text-[var(--color-text-muted)]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 19V6l12-3v13M9 19c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zm12-3c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zM9 10l12-3"/>
+            </svg>
+          </div>
+          {{ end }}
+
+          {{/* Play button overlay */}}
+          <div class="absolute inset-0 flex items-center justify-center bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+            <div class="w-12 h-12 rounded-full bg-[#1DB954] flex items-center justify-center">
+              <svg class="w-6 h-6 text-white ml-0.5" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M8 5v14l11-7z"/>
+              </svg>
+            </div>
+          </div>
+        </div>
+
+        {{/* Track info */}}
+        <div class="mt-3">
+          <h3 class="font-medium text-sm line-clamp-1 group-hover:text-[var(--color-accent)] transition-colors">{{ .Title }}</h3>
+          {{ with .Params.artist }}
+          <p class="text-xs text-[var(--color-text-muted)] mt-0.5 line-clamp-1">{{ . }}</p>
+          {{ end }}
+        </div>
+      </a>
+    </article>
+    {{ end }}
+  </div>
+</div>
 {{ end }}

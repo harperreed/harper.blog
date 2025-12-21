@@ -1,0 +1,43 @@
+{{ define "main" }}
+<content>
+    {{ .Content }} {{ if .Data.Singular }}
+    <h3 class="music-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
+    {{ end }} {{ $pages := .Pages }} {{ if not $pages }}
+    <ul class="music-posts">
+        <li>{{ i18n "no-posts" }}</li>
+    </ul>
+    {{ else }} {{ $paginator := .Paginate $pages 20 }}
+    <ul class="music-posts">
+        {{ range $paginator.Pages.GroupByDate "2006-01-02" }} {{ range $index,
+        $page := .Pages }} {{ $url := urls.Parse .Params.original_url}}
+        <li>
+            {{ if eq $index 0 }}
+            <span class="date">
+                <i>
+                    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+                        {{ .Date.Format (default "2006-01-02"
+                        $.Site.Params.dateFormat) }}
+                    </time>
+                </i>
+            </span>
+            {{ else }}
+            <span></span>
+            {{ end }} {{ if .Params.spotify_url }}
+            <a
+                href="{{ .RelPermalink }}"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                <span class="music-title">{{ .Title }}</span>
+                {{ with .Params.artist }}
+                <span class="music-domain">(by {{ . }})</span>
+                {{ end }}
+            </a>
+            {{ else }} {{ .Title }} {{ end }}
+        </li>
+        {{ end }} {{ end }}
+    </ul>
+
+    {{ partial "pagination.html" . }} {{ end }}
+</content>
+{{ end }}

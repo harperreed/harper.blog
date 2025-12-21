@@ -1,53 +1,74 @@
 {{ define "main" }}
-<content>
-    {{ .Content }} {{ range first 1 .Data.Pages }} {{ if not .Params.menu }}
-    <h1>{{ .Title }}</h1>
+<div class="max-w-[var(--max-width)] mx-auto px-4 py-16">
+  {{/* Current Now */}}
+  {{ range first 1 .Data.Pages }}
+  <article class="mb-20">
+    <header class="mb-12">
+      <span class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-accent)] block mb-4">Current</span>
+      <h1 class="font-display text-5xl md:text-6xl font-black leading-tight tracking-tight mb-4">
+        Now<span class="text-[var(--color-accent)]">.</span>
+      </h1>
+      <time datetime="{{ .Date.Format "2006-01-02" }}" class="text-sm text-[var(--color-text-muted)] font-mono">
+        Updated {{ .Date.Format "2006.01.02" }}
+      </time>
+    </header>
 
+    <div class="prose max-w-prose text-[var(--color-text)] text-lg leading-relaxed
+      [&>h2]:font-display [&>h2]:font-bold [&>h2]:text-2xl [&>h2]:mt-16 [&>h2]:mb-6 [&>h2]:tracking-tight [&>h2]:border-b [&>h2]:border-[var(--color-border)] [&>h2]:pb-4
+      [&>h3]:font-display [&>h3]:font-bold [&>h3]:text-xl [&>h3]:mt-12 [&>h3]:mb-4
+      [&>p]:mb-6
+      [&>ul]:list-disc [&>ul]:ml-6 [&>ul]:mb-6 [&>ul]:space-y-2
+      [&>ol]:list-decimal [&>ol]:ml-6 [&>ol]:mb-6
+      [&>blockquote]:border-l-2 [&>blockquote]:border-[var(--color-accent)] [&>blockquote]:pl-6 [&>blockquote]:my-8 [&>blockquote]:italic [&>blockquote]:text-[var(--color-text-secondary)]
+      [&_a]:text-[var(--color-accent)] [&_a]:underline hover:[&_a]:no-underline
+    ">
+      {{ .Content }}
+    </div>
+
+    {{/* Tags */}}
+    {{ with .GetTerms "tags" }}
+    <div class="flex flex-wrap gap-3 mt-12">
+      {{ range . }}
+      <a href="{{ .RelPermalink }}" class="text-xs font-mono uppercase tracking-wider text-[var(--color-text-muted)] hover:text-[var(--color-accent)] transition-colors">
+        #{{ lower .LinkTitle }}
+      </a>
+      {{ end }}
+    </div>
     {{ end }}
-    <content> {{ .Content }} </content>
-    <p>
-        {{ range (.GetTerms "tags") }}
-        <a class="now-tags" href="{{ .RelPermalink }}"
-            >#{{ lower .LinkTitle }}</a
-        >
+
+    <div class="mt-8">
+      <button class="tinylytics_kudos text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors" data-path="{{ .RelPermalink }}">
+        ♡ Like this update
+      </button>
+    </div>
+  </article>
+  {{ end }}
+
+  {{/* Previous Nows */}}
+  {{ $previousNows := after 1 .Data.Pages }}
+  {{ if $previousNows }}
+  <section class="border-t border-[var(--color-border)] pt-12">
+    <details class="group">
+      <summary class="flex items-center gap-3 cursor-pointer text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors">
+        <svg class="w-4 h-4 transform group-open:rotate-90 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+        </svg>
+        Previous Updates
+        <span class="text-[var(--color-text-muted)]">({{ len $previousNows }})</span>
+      </summary>
+
+      <div class="mt-8 space-y-0">
+        {{ range $previousNows }}
+        <a href="{{ .RelPermalink }}" class="group/item flex items-baseline gap-6 py-4 border-b border-[var(--color-border)] hover:border-[var(--color-accent)] transition-colors">
+          <time datetime="{{ .Date.Format "2006-01-02" }}" class="text-xs font-mono text-[var(--color-text-muted)] w-24 shrink-0">
+            {{ .Date.Format "2006.01.02" }}
+          </time>
+          <span class="font-display font-bold group-hover/item:text-[var(--color-accent)] transition-colors">{{ .Title }}</span>
+        </a>
         {{ end }}
-    </p>
-    <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
-
-    {{ end }}
-
-    <hr />
-
-    <details>
-        <summary>{{ i18n "previousNows" | default "Previous Nows" }}</summary>
-
-        {{ if .Data.Singular }}
-        <h3 class="now-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
-        {{ end }}
-        <ul class="now-posts">
-            {{ range after 1 .Data.Pages }}
-            <li>
-                <span>
-                    <i>
-                        <time
-                            datetime='{{ .Date.Format "2006-01-02" }}'
-                            pubdate
-                        >
-                            {{ .Date.Format (default "2006-01-02"
-                            .Site.Params.dateFormat) }}
-                        </time>
-                    </i>
-                </span>
-                {{ if .Params.link }}
-                <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
-                {{ else }}
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                {{ end }}
-            </li>
-            {{ else }}
-            <li>{{ i18n "no-posts" }}</li>
-            {{ end }}
-        </ul>
+      </div>
     </details>
-</content>
+  </section>
+  {{ end }}
+</div>
 {{ end }}

@@ -1,0 +1,53 @@
+{{ define "main" }}
+<content>
+    {{ .Content }} {{ if .Data.Singular }}
+    <p class="filter-notice">{{ i18n "filtering-for" }} "{{ .Title }}"</p>
+    {{ end }}
+    <div class="notes">
+        
+        {{ $paginator := .Paginate .Pages (.Param "notes_pagination" | default
+        2) }}
+        <!-- {{ $paginator := .Paginate .Pages .Site.Params.notes_pagination }} -->
+        {{ range $paginator.Pages }}
+        <article class="post">
+            <header>
+                <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
+                    {{ .Date.Format "Jan 02, 2006" }}
+                </time>
+                 <a href="{{ .RelPermalink }}" title="Permalink to this note">#</a>
+                 <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
+            </header>
+            {{ if .Params.text }} {{ .Params.text | markdownify }} {{ else }} {{
+            .Content }} 
+            {{ end }} 
+            {{ with .Resources.ByType "image" }}
+            <div class="note-images">
+                {{ range . }} 
+                {{ $thumbnail := .Resize "600x" }}
+                <img
+                    src="{{ $thumbnail.RelPermalink }}"
+                    alt="{{ .Title }}"
+                    loading="lazy"
+                    width="{{ $thumbnail.Width }}"
+                    height="{{ $thumbnail.Height }}"
+                />
+                {{ end }}
+            </div>
+            {{ end }}
+
+            <div>
+                {{ if .Params.tags }} {{ range .Params.tags }}
+                <a href="/tags/{{ . }}">#{{ . }}</a>
+                {{ end }} {{ end }}
+            </div>
+
+            <hr />
+        </article>
+        {{ else }}
+        <p>{{ i18n "no-posts" | default "No posts yet." }}</p>
+        {{ end }}
+    </div>
+
+    {{ partial "pagination.html" . }}
+</content>
+{{ end }}

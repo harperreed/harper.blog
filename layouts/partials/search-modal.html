@@ -1,0 +1,121 @@
+{{/* Search Modal */}}
+<div id="search-modal" class="fixed inset-0 z-50 hidden">
+  {{/* Backdrop */}}
+  <div class="absolute inset-0 bg-black/80 backdrop-blur-sm" id="search-backdrop"></div>
+
+  {{/* Modal */}}
+  <div class="absolute top-[15%] left-1/2 -translate-x-1/2 w-full max-w-2xl mx-auto px-4">
+    <div class="bg-[var(--color-bg-secondary)] shadow-2xl border border-[var(--color-border)] overflow-hidden">
+      {{/* Search input */}}
+      <div class="p-6 border-b border-[var(--color-border)]">
+        <div class="flex items-center gap-4">
+          <svg class="w-5 h-5 text-[var(--color-text-muted)]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+          </svg>
+          <input
+            type="text"
+            id="search-input"
+            placeholder="Search..."
+            class="flex-1 bg-transparent text-xl font-display outline-none placeholder:text-[var(--color-text-muted)]"
+            autocomplete="off"
+          >
+          <kbd class="hidden sm:inline-flex items-center px-2 py-1 text-xs font-mono text-[var(--color-text-muted)] bg-[var(--color-bg-tertiary)] border border-[var(--color-border)]">
+            ESC
+          </kbd>
+        </div>
+      </div>
+
+      {{/* Results */}}
+      <div id="search-results" class="max-h-[60vh] overflow-y-auto">
+        <p class="text-center text-[var(--color-text-muted)] py-12 text-sm font-mono uppercase tracking-[0.15em]">
+          Start typing to search...
+        </p>
+      </div>
+
+      {{/* Footer hint */}}
+      <div class="p-4 border-t border-[var(--color-border)] flex items-center justify-between text-xs font-mono text-[var(--color-text-muted)]">
+        <span>↑↓ Navigate</span>
+        <span>↵ Select</span>
+        <span>ESC Close</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  // Pagefind search integration
+  (function() {
+    const modal = document.getElementById('search-modal');
+    const backdrop = document.getElementById('search-backdrop');
+    const input = document.getElementById('search-input');
+    const results = document.getElementById('search-results');
+    const searchBtn = document.getElementById('search-btn');
+
+    let pagefind = null;
+
+    async function initPagefind() {
+      if (!pagefind) {
+        pagefind = await import('/pagefind/pagefind.js');
+        await pagefind.init();
+      }
+      return pagefind;
+    }
+
+    function openSearch() {
+      modal.classList.remove('hidden');
+      input.focus();
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeSearch() {
+      modal.classList.add('hidden');
+      input.value = '';
+      results.innerHTML = '<p class="text-center text-[var(--color-text-muted)] py-12 text-sm font-mono uppercase tracking-[0.15em]">Start typing to search...</p>';
+      document.body.style.overflow = '';
+    }
+
+    async function doSearch(query) {
+      if (!query.trim()) {
+        results.innerHTML = '<p class="text-center text-[var(--color-text-muted)] py-12 text-sm font-mono uppercase tracking-[0.15em]">Start typing to search...</p>';
+        return;
+      }
+
+      const pf = await initPagefind();
+      const search = await pf.search(query);
+
+      if (search.results.length === 0) {
+        results.innerHTML = '<p class="text-center text-[var(--color-text-muted)] py-12 text-sm font-mono uppercase tracking-[0.15em]">No results found.</p>';
+        return;
+      }
+
+      const items = await Promise.all(search.results.slice(0, 10).map(r => r.data()));
+
+      results.innerHTML = items.map(item => `
+        <a href="${item.url}" class="block px-6 py-4 border-b border-[var(--color-border)] hover:bg-[var(--color-bg-tertiary)] transition-colors group">
+          <h4 class="font-display font-bold text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors">${item.meta.title || 'Untitled'}</h4>
+          <p class="text-sm text-[var(--color-text-secondary)] mt-1 line-clamp-2">${item.excerpt}</p>
+        </a>
+      `).join('');
+    }
+
+    // Event listeners
+    searchBtn?.addEventListener('click', openSearch);
+    backdrop?.addEventListener('click', closeSearch);
+
+    document.addEventListener('keydown', (e) => {
+      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+        e.preventDefault();
+        openSearch();
+      }
+      if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    let debounceTimer;
+    input?.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => doSearch(e.target.value), 200);
+    });
+  })();
+</script>

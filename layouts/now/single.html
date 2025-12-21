@@ -1,23 +1,54 @@
 {{ define "main" }}
+<article class="max-w-[var(--max-width)] mx-auto px-4 py-16">
+  <div class="max-w-prose">
+    <header class="mb-12">
+      <div class="flex items-center gap-4 mb-6 text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-muted)]">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">
+          {{ .Date.Format "2006.01.02" }}
+        </time>
+        <span class="w-8 h-[1px] bg-[var(--color-border-strong)]"></span>
+        <span>Now</span>
+      </div>
 
+      <h1 class="font-display text-4xl md:text-5xl font-black leading-tight tracking-tight">
+        {{ .Title }}
+      </h1>
+    </header>
 
+    <div class="prose text-[var(--color-text)] text-lg leading-relaxed
+      [&>h2]:font-display [&>h2]:font-bold [&>h2]:text-2xl [&>h2]:mt-16 [&>h2]:mb-6 [&>h2]:tracking-tight [&>h2]:border-b [&>h2]:border-[var(--color-border)] [&>h2]:pb-4
+      [&>h3]:font-display [&>h3]:font-bold [&>h3]:text-xl [&>h3]:mt-12 [&>h3]:mb-4
+      [&>p]:mb-6
+      [&>ul]:list-disc [&>ul]:ml-6 [&>ul]:mb-6 [&>ul]:space-y-2
+      [&>ol]:list-decimal [&>ol]:ml-6 [&>ol]:mb-6
+      [&>blockquote]:border-l-2 [&>blockquote]:border-[var(--color-accent)] [&>blockquote]:pl-6 [&>blockquote]:my-8 [&>blockquote]:italic [&>blockquote]:text-[var(--color-text-secondary)]
+      [&_a]:text-[var(--color-accent)] [&_a]:underline hover:[&_a]:no-underline
+    ">
+      {{ .Content }}
+    </div>
 
-{{ if not .Params.menu }}
-<h1 aria-label="{{ i18n "page-title-aria" | default "Page title" }}">{{ .Title }}</h1>
-
-{{ end }}
-<content> {{ .Content }} </content>
-<button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
-<p>
-    {{ range (.GetTerms "tags") }}
-    <a class="blog-tags" href="{{ .RelPermalink }}"
-        >#{{ lower .LinkTitle }}</a
-    >
+    {{/* Tags */}}
+    {{ with .GetTerms "tags" }}
+    <div class="flex flex-wrap gap-3 mt-12">
+      {{ range . }}
+      <a href="{{ .RelPermalink }}" class="text-xs font-mono uppercase tracking-wider text-[var(--color-text-muted)] hover:text-[var(--color-accent)] transition-colors">
+        #{{ lower .LinkTitle }}
+      </a>
+      {{ end }}
+    </div>
     {{ end }}
-</p>
 
-<nav>
-    <a href="/now" aria-label="{{ i18n "back-to-now" | default "Back to the current Now" }}"><span aria-hidden="true">&larr;</span> {{ i18n "back-to-now" | default "Back to the current Now" }}</a>
-</nav>
+    <div class="mt-8">
+      <button class="tinylytics_kudos text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors" data-path="{{ .RelPermalink }}">
+        ♡ Like
+      </button>
+    </div>
 
+    <nav class="mt-16 pt-8 border-t border-[var(--color-border)]">
+      <a href="/now" class="text-xs font-mono uppercase tracking-[0.15em] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors">
+        ← {{ i18n "back-to-now" | default "Current Now" }}
+      </a>
+    </nav>
+  </div>
+</article>
 {{ end }}

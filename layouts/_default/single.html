@@ -1,0 +1,97 @@
+{{ define "main" }}
+{{ $images := .Resources.ByType "image" }}
+{{ $hasImages := gt (len $images) 0 }}
+
+<article class="max-w-[var(--max-width)] mx-auto px-4 sm:px-6 lg:px-8 py-12">
+  {{/* Header */}}
+  <header class="mb-8">
+    <h1 class="font-display text-4xl md:text-5xl font-bold leading-tight mb-4">
+      {{ .Title }}
+    </h1>
+
+    <div class="flex flex-wrap items-center gap-4 text-sm text-[var(--color-text-secondary)]">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">
+        {{ .Date.Format "January 2, 2006" }}
+      </time>
+      {{ if gt .ReadingTime 0 }}
+      <span>&middot;</span>
+      <span>{{ .ReadingTime }} min read</span>
+      {{ end }}
+    </div>
+
+    {{/* Tags */}}
+    {{ with .Params.tags }}
+    <div class="flex flex-wrap gap-2 mt-4">
+      {{ range . }}
+      <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="px-3 py-1 text-xs font-medium bg-[var(--color-bg-secondary)] text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] rounded-full transition-colors">
+        #{{ . }}
+      </a>
+      {{ end }}
+    </div>
+    {{ end }}
+  </header>
+
+  {{/* Images */}}
+  {{ if $hasImages }}
+  <div class="mb-8">
+    {{ if eq (len $images) 1 }}
+    {{ $img := index $images 0 }}
+    <figure class="rounded-xl overflow-hidden shadow-lg">
+      <img src="{{ $img.RelPermalink }}" alt="{{ .Title }}" class="w-full h-auto">
+    </figure>
+    {{ else }}
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      {{ range $index, $img := $images }}
+      <figure class="rounded-xl overflow-hidden shadow-lg {{ if eq $index 0 }}md:col-span-2{{ end }}">
+        <img src="{{ $img.RelPermalink }}" alt="{{ $.Title }}" class="w-full h-auto">
+      </figure>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  {{/* Content */}}
+  <div class="max-w-prose mx-auto">
+    <div class="prose text-[var(--color-text)]
+      [&>h2]:font-display [&>h2]:font-bold [&>h2]:text-2xl [&>h2]:mt-12 [&>h2]:mb-4
+      [&>h3]:font-display [&>h3]:font-bold [&>h3]:text-xl [&>h3]:mt-8 [&>h3]:mb-3
+      [&>p]:leading-relaxed [&>p]:mb-4
+      [&>ul]:list-disc [&>ul]:ml-6 [&>ul]:mb-4
+      [&>ol]:list-decimal [&>ol]:ml-6 [&>ol]:mb-4
+      [&>blockquote]:border-l-4 [&>blockquote]:border-[var(--color-accent)] [&>blockquote]:bg-[var(--color-bg-secondary)] [&>blockquote]:pl-6 [&>blockquote]:py-4 [&>blockquote]:my-6 [&>blockquote]:italic
+      [&>pre]:bg-[var(--color-bg-secondary)] [&>pre]:border [&>pre]:border-[var(--color-border)] [&>pre]:rounded-lg [&>pre]:p-4 [&>pre]:overflow-x-auto [&>pre]:mb-4
+      [&>code]:text-[var(--color-accent)] [&>code]:bg-[var(--color-bg-secondary)] [&>code]:px-1 [&>code]:rounded
+      [&>pre>code]:bg-transparent
+      [&_a]:text-[var(--color-accent)] [&_a]:no-underline hover:[&_a]:underline
+      [&>img]:rounded-lg [&>img]:shadow-md [&>img]:my-6
+      [&>hr]:border-[var(--color-border)] [&>hr]:my-8
+    ">
+      {{ .Content }}
+    </div>
+
+    {{/* Navigation */}}
+    <nav class="mt-12 pt-8 border-t border-[var(--color-border)] flex justify-between">
+      {{ with .PrevInSection }}
+      <a href="{{ .Permalink }}" class="flex items-center gap-2 text-[var(--color-accent)] hover:underline">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/>
+        </svg>
+        Previous
+      </a>
+      {{ else }}
+      <span></span>
+      {{ end }}
+
+      {{ with .NextInSection }}
+      <a href="{{ .Permalink }}" class="flex items-center gap-2 text-[var(--color-accent)] hover:underline">
+        Next
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+        </svg>
+      </a>
+      {{ end }}
+    </nav>
+  </div>
+</article>
+{{ end }}
