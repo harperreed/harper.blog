@@ -1,0 +1,736 @@
+asin: B0D6WL1XJ1
+authors:
+  author:
+    average_rating: '3.68'
+    id: '96300'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1631159041p5/96300.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/96300.Stephen_Graham_Jones
+    name: Stephen Graham Jones
+    ratings_count: '400651'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1631159041p2/96300.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '73482'
+average_rating: '4.01'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2025-12-25T00:00:00-08:00'
+description: null
+edition_information: null
+format: null
+id: '214783697'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+is_ebook: 'true'
+isbn:
+  '@nil': 'true'
+isbn13:
+  '@nil': 'true'
+json: '{"id": "214783697", "isbn": {"@nil": "true"}, "isbn13": {"@nil": "true"}, "text_reviews_count":
+  {"@type": "integer", "#text": "431"}, "uri": "kca://book/amzn1.gr.book.v3.M3gsowScAhyVMWSP",
+  "title": "The Buffalo Hunter Hunter", "title_without_series": "The Buffalo Hunter
+  Hunter", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/214783697-the-buffalo-hunter-hunter",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "4.01", "ratings_count": "35759", "description": null, "authors": {"author": {"id":
+  "96300", "name": "Stephen Graham Jones", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1631159041p5/96300.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1631159041p2/96300.jpg"},
+  "link": "https://www.goodreads.com/author/show/96300.Stephen_Graham_Jones", "average_rating":
+  "3.68", "ratings_count": "400651", "text_reviews_count": "73482"}}, "published":
+  null, "work": {"id": "220854470", "uri": "kca://work/amzn1.gr.work.v3.ySho_JaO7NWMFg3r"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/8119480772",
+  "read_at": "Thu Dec 25 00:00:00 -0800 2025", "started_at": "Thu Dec 18 00:00:00
+  -0800 2025", "date": "Thu Dec 25 00:00:00 -0800 2025"}'
+kindle_asin: B0D6WL1XJ1
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/214783697-the-buffalo-hunter-hunter
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '169057'
+    '@name': to-read
+  - '@count': '9284'
+    '@name': currently-reading
+  - '@count': '2900'
+    '@name': horror
+  - '@count': '1038'
+    '@name': historical-fiction
+  - '@count': '655'
+    '@name': dnf
+  - '@count': '651'
+    '@name': fiction
+  - '@count': '437'
+    '@name': vampires
+  - '@count': '348'
+    '@name': fantasy
+  - '@count': '332'
+    '@name': audiobook
+  - '@count': '303'
+    '@name': historical
+  - '@count': '289'
+    '@name': 2025-releases
+  - '@count': '286'
+    '@name': favorites
+  - '@count': '266'
+    '@name': physical-tbr
+  - '@count': '196'
+    '@name': owned
+  - '@count': '194'
+    '@name': audiobooks
+  - '@count': '194'
+    '@name': indigenous
+  - '@count': '184'
+    '@name': did-not-finish
+  - '@count': '163'
+    '@name': read-in-2025
+  - '@count': '159'
+    '@name': 2025-reads
+  - '@count': '148'
+    '@name': library
+  - '@count': '144'
+    '@name': tbr
+  - '@count': '139'
+    '@name': paranormal
+  - '@count': '137'
+    '@name': read-2025
+  - '@count': '124'
+    '@name': adult
+  - '@count': '120'
+    '@name': audio
+  - '@count': '106'
+    '@name': books-i-own
+  - '@count': '106'
+    '@name': book-club
+  - '@count': '103'
+    '@name': western
+  - '@count': '101'
+    '@name': to-buy
+  - '@count': '99'
+    '@name': thriller
+  - '@count': '99'
+    '@name': 2025-books
+  - '@count': '97'
+    '@name': vampire
+  - '@count': '90'
+    '@name': horror-thriller
+  - '@count': '84'
+    '@name': native-american
+  - '@count': '83'
+    '@name': netgalley
+  - '@count': '80'
+    '@name': kindle
+  - '@count': '79'
+    '@name': supernatural
+  - '@count': '75'
+    '@name': history
+  - '@count': '71'
+    '@name': 2025-tbr
+  - '@count': '67'
+    '@name': horror-tbr
+  - '@count': '66'
+    '@name': 2025-read
+  - '@count': '62'
+    '@name': libby
+  - '@count': '60'
+    '@name': spooky
+  - '@count': '55'
+    '@name': audible
+  - '@count': '55'
+    '@name': want-to-buy
+  - '@count': '55'
+    '@name': tbr-horror
+  - '@count': '53'
+    '@name': aardvark
+  - '@count': '53'
+    '@name': arc
+  - '@count': '52'
+    '@name': wish-list
+  - '@count': '48'
+    '@name': arcs
+  - '@count': '46'
+    '@name': '2026'
+  - '@count': '46'
+    '@name': owned-books
+  - '@count': '44'
+    '@name': abandoned
+  - '@count': '44'
+    '@name': adult-fiction
+  - '@count': '42'
+    '@name': audio-book
+  - '@count': '42'
+    '@name': ebook
+  - '@count': '41'
+    '@name': maybe
+  - '@count': '40'
+    '@name': 2025-release
+  - '@count': '39'
+    '@name': standalone
+  - '@count': '37'
+    '@name': mystery
+  - '@count': '35'
+    '@name': need-to-buy
+  - '@count': '35'
+    '@name': audio-books
+  - '@count': '35'
+    '@name': favourites
+  - '@count': '35'
+    '@name': on-hold
+  - '@count': '34'
+    '@name': indigenous-authors
+  - '@count': '33'
+    '@name': 2026-tbr
+  - '@count': '33'
+    '@name': mystery-thriller
+  - '@count': '33'
+    '@name': thriller-horror
+  - '@count': '33'
+    '@name': novels
+  - '@count': '32'
+    '@name': best-of-2025
+  - '@count': '32'
+    '@name': owned-tbr
+  - '@count': '32'
+    '@name': bipoc
+  - '@count': '30'
+    '@name': mystery-thriller-horror
+  - '@count': '29'
+    '@name': paused
+  - '@count': '29'
+    '@name': gothic
+  - '@count': '29'
+    '@name': halloween
+  - '@count': '27'
+    '@name': dark
+  - '@count': '27'
+    '@name': on-my-radar
+  - '@count': '26'
+    '@name': historical-fic
+  - '@count': '26'
+    '@name': tbr-2025
+  - '@count': '25'
+    '@name': westerns
+  - '@count': '25'
+    '@name': my-library
+  - '@count': '25'
+    '@name': spooky-season
+  - '@count': '23'
+    '@name': literary-fiction
+  - '@count': '23'
+    '@name': to-be-read
+  - '@count': '23'
+    '@name': bookclub
+  - '@count': '23'
+    '@name': priority
+  - '@count': '23'
+    '@name': horror-to-read
+  - '@count': '22'
+    '@name': library-books
+  - '@count': '22'
+    '@name': 2025-anticipated-releases
+  - '@count': '22'
+    '@name': genre-horror
+  - '@count': '21'
+    '@name': books-read-in-2025
+  - '@count': '21'
+    '@name': historical-fantasy
+  - '@count': '21'
+    '@name': library-book
+  - '@count': '21'
+    '@name': native-americans
+  - '@count': '21'
+    '@name': owlcrate
+  - '@count': '21'
+    '@name': not-owned
+  - '@count': '20'
+    '@name': on-my-shelf
+  - '@count': '20'
+    '@name': purchased
+  - '@count': '20'
+    '@name': 2025-favorites
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '35759'
+read_at: '2025-12-25T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/8119480772
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/214783697-the-buffalo-hunter-hunter\"\
+  >The Buffalo Hunter Hunter Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B0D6WL1XJ1&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/214783697-the-buffalo-hunter-hunter?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '3503908'
+        link: https://www.goodreads.com/author/show/3503908.Nat_Cassidy
+        name: Nat Cassidy
+    average_rating: '4.01'
+    id: '211004893'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716854520l/211004893._SX98_.jpg
+    isbn: 125035434X
+    isbn13: '9781250354341'
+    link: https://www.goodreads.com/book/show/211004893-when-the-wolf-comes-home
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35759'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716854520l/211004893._SY75_.jpg
+    title: When the Wolf Comes Home
+    title_without_series: When the Wolf Comes Home
+    uri: kca://book/amzn1.gr.book.v3.BEcThWql2AQ7H18L
+    work:
+      id: '217234040'
+  - authors:
+      author:
+        id: '20095503'
+        link: https://www.goodreads.com/author/show/20095503.Kylie_Lee_Baker
+        name: Kylie Lee Baker
+    average_rating: '4.01'
+    id: '218185743'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724867496l/218185743._SX98_.jpg
+    isbn: 0778368459
+    isbn13: '9780778368458'
+    link: https://www.goodreads.com/book/show/218185743-bat-eater-and-other-names-for-cora-zeng
+    num_pages: null
+    publication_day: '29'
+    publication_month: '4'
+    publication_year: '2025'
+    ratings_count: '35759'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724867496l/218185743._SY75_.jpg
+    title: Bat Eater and Other Names for Cora Zeng
+    title_without_series: Bat Eater and Other Names for Cora Zeng
+    uri: kca://book/amzn1.gr.book.v3.OfkybmXCKsjSfxKd
+    work:
+      id: '224778349'
+  - authors:
+      author:
+        id: '19359055'
+        link: https://www.goodreads.com/author/show/19359055.Isabel_Ca_as
+        name: "Isabel Ca\xF1as"
+    average_rating: '4.01'
+    id: '221502398'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1732311886l/221502398._SX98_.jpg
+    isbn: 0593641078
+    isbn13: '9780593641071'
+    link: https://www.goodreads.com/book/show/221502398-the-possession-of-alba-d-az
+    num_pages: '369'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35759'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1732311886l/221502398._SY75_.jpg
+    title: "The Possession of Alba D\xEDaz"
+    title_without_series: "The Possession of Alba D\xEDaz"
+    uri: kca://book/amzn1.gr.book.v3.dJr148ANaLp7JMxW
+    work:
+      id: '227703512'
+  - authors:
+      author:
+        id: '4088550'
+        link: https://www.goodreads.com/author/show/4088550.Silvia_Moreno_Garcia
+        name: Silvia Moreno-Garcia
+    average_rating: '4.01'
+    id: '220458657'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733380797l/220458657._SX98_.jpg
+    isbn: 0593874323
+    isbn13: '9780593874325'
+    link: https://www.goodreads.com/book/show/220458657-the-bewitching
+    num_pages: '357'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35759'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733380797l/220458657._SY75_.jpg
+    title: The Bewitching
+    title_without_series: The Bewitching
+    uri: kca://book/amzn1.gr.book.v3.LVj60Kc1lT_y6EyP
+    work:
+      id: '227399788'
+  - authors:
+      author:
+        id: '252338'
+        link: https://www.goodreads.com/author/show/252338.Keith_Rosson
+        name: Keith Rosson
+    average_rating: '4.01'
+    id: '222419255'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1741279925l/222419255._SX98_.jpg
+    isbn: 0593733401
+    isbn13: '9780593733400'
+    link: https://www.goodreads.com/book/show/222419255-coffin-moon
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35759'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1741279925l/222419255._SY75_.jpg
+    title: Coffin Moon
+    title_without_series: Coffin Moon
+    uri: kca://book/amzn1.gr.book.v3.qE_Ime6Wl81pLo6g
+    work:
+      id: '229408664'
+  - authors:
+      author:
+        id: '88506'
+        link: https://www.goodreads.com/author/show/88506.Joe_Hill
+        name: Joe Hill
+    average_rating: '4.01'
+    id: '223420465'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1737022301l/223420465._SX98_.jpg
+    isbn: '0062200607'
+    isbn13: '9780062200600'
+    link: https://www.goodreads.com/book/show/223420465-king-sorrow
+    num_pages: '896'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35759'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1737022301l/223420465._SY75_.jpg
+    title: King Sorrow
+    title_without_series: King Sorrow
+    uri: kca://book/amzn1.gr.book.v3.t46W4m_BieYVZ8OC
+    work:
+      id: '95995076'
+  - authors:
+      author:
+        id: '276660'
+        link: https://www.goodreads.com/author/show/276660.Joe_Abercrombie
+        name: Joe Abercrombie
+    average_rating: '4.01'
+    id: '233800039'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1747022269l/233800039._SX98_.jpg
+    isbn: 125088005X
+    isbn13: '9781250880055'
+    link: https://www.goodreads.com/book/show/233800039-the-devils
+    num_pages: '547'
+    publication_day: '13'
+    publication_month: '5'
+    publication_year: '2025'
+    ratings_count: '35759'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1747022269l/233800039._SY75_.jpg
+    title: 'The Devils (The Devils, #1)'
+    title_without_series: The Devils
+    uri: kca://book/amzn1.gr.book.v3.kELv6qy6dWB36_pM
+    work:
+      id: '95787371'
+  - authors:
+      author:
+        id: '17122287'
+        link: https://www.goodreads.com/author/show/17122287.Caitlin_Starling
+        name: Caitlin  Starling
+    average_rating: '4.01'
+    id: '217896248'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0063418819
+    isbn13: '9780063418813'
+    link: https://www.goodreads.com/book/show/217896248-the-starving-saints
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35759'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Starving Saints
+    title_without_series: The Starving Saints
+    uri: kca://book/amzn1.gr.book.v3.QJa9pnxk4dgPvlcs
+    work:
+      id: '224411105'
+  - authors:
+      author:
+        id: '17152'
+        link: https://www.goodreads.com/author/show/17152.Chuck_Wendig
+        name: Chuck Wendig
+    average_rating: '4.01'
+    id: '216971219'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    isbn: 0593156560
+    isbn13: '9780593156568'
+    link: https://www.goodreads.com/book/show/216971219-the-staircase-in-the-woods
+    num_pages: '388'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35759'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+    title: The Staircase in the Woods
+    title_without_series: The Staircase in the Woods
+    uri: kca://book/amzn1.gr.book.v3.WJKREyvA8jQQpkWB
+    work:
+      id: '223433309'
+  - authors:
+      author:
+        id: '17772202'
+        link: https://www.goodreads.com/author/show/17772202.Agustina_Bazterrica
+        name: Agustina Bazterrica
+    average_rating: '4.01'
+    id: '214151601'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722354275l/214151601._SX98_.jpg
+    isbn: '1668051885'
+    isbn13: '9781668051887'
+    link: https://www.goodreads.com/book/show/214151601-the-unworthy
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35759'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722354275l/214151601._SY75_.jpg
+    title: The Unworthy
+    title_without_series: The Unworthy
+    uri: kca://book/amzn1.gr.book.v3.s1VSV7Rry54kSJgB
+    work:
+      id: '201312385'
+  - authors:
+      author:
+        id: '10788353'
+        link: https://www.goodreads.com/author/show/10788353.Chuck_Tingle
+        name: Chuck Tingle
+    average_rating: '4.01'
+    id: '217387953'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1737780925l/217387953._SX98_.jpg
+    isbn: '1250398657'
+    isbn13: '9781250398659'
+    link: https://www.goodreads.com/book/show/217387953-lucky-day
+    num_pages: '229'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35759'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1737780925l/217387953._SY75_.jpg
+    title: Lucky Day
+    title_without_series: Lucky Day
+    uri: kca://book/amzn1.gr.book.v3.GntsRTOfcEMeX0LJ
+    work:
+      id: '223888163'
+  - authors:
+      author:
+        id: '51406524'
+        link: https://www.goodreads.com/author/show/51406524.Xenobe_Purvis
+        name: Xenobe Purvis
+    average_rating: '4.01'
+    id: '217388147'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1727253986l/217388147._SX98_.jpg
+    isbn: '1250366380'
+    isbn13: '9781250366382'
+    link: https://www.goodreads.com/book/show/217388147-the-hounding
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35759'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1727253986l/217388147._SY75_.jpg
+    title: The Hounding
+    title_without_series: The Hounding
+    uri: kca://book/amzn1.gr.book.v3.pTD6N_7KwpuznNnp
+    work:
+      id: '223888314'
+  - authors:
+      author:
+        id: '16820001'
+        link: https://www.goodreads.com/author/show/16820001.R_F_Kuang
+        name: R.F. Kuang
+    average_rating: '4.01'
+    id: '210223811'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1762103964l/210223811._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/210223811-katabasis
+    num_pages: '559'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35759'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1762103964l/210223811._SX50_.jpg
+    title: Katabasis
+    title_without_series: Katabasis
+    uri: kca://book/amzn1.gr.book.v3.1CEprB28wP8Bctdn
+    work:
+      id: '209877287'
+  - authors:
+      author:
+        id: '7367300'
+        link: https://www.goodreads.com/author/show/7367300.T_Kingfisher
+        name: T. Kingfisher
+    average_rating: '4.01'
+    id: '222376665'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1742864989l/222376665._SX98_.jpg
+    isbn: '1250354927'
+    isbn13: '9781250354921'
+    link: https://www.goodreads.com/book/show/222376665-what-stalks-the-deep
+    num_pages: '179'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35759'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1742864989l/222376665._SY75_.jpg
+    title: 'What Stalks the Deep (Sworn Soldier, #3)'
+    title_without_series: What Stalks the Deep
+    uri: kca://book/amzn1.gr.book.v3.ZsSEZY-t17kn8-g_
+    work:
+      id: '229632790'
+  - authors:
+      author:
+        id: '20464985'
+        link: https://www.goodreads.com/author/show/20464985.S_A_Cosby
+        name: S.A. Cosby
+    average_rating: '4.01'
+    id: '219833252'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1732223678l/219833252._SX98_.jpg
+    isbn: '1250832063'
+    isbn13: '9781250832061'
+    link: https://www.goodreads.com/book/show/219833252-king-of-ashes
+    num_pages: '333'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35759'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1732223678l/219833252._SY75_.jpg
+    title: King of Ashes
+    title_without_series: King of Ashes
+    uri: kca://book/amzn1.gr.book.v3.gzwfKnEs4VXC2FCe
+    work:
+      id: '226765060'
+  - authors:
+      author:
+        id: '7168230'
+        link: https://www.goodreads.com/author/show/7168230.V_E_Schwab
+        name: V.E. Schwab
+    average_rating: '4.01'
+    id: '215020997'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1752327619l/215020997._SX98_.jpg
+    isbn: '1035064642'
+    isbn13: '9781035064649'
+    link: https://www.goodreads.com/book/show/215020997-bury-our-bones-in-the-midnight-soil
+    num_pages: '535'
+    publication_day: '10'
+    publication_month: '6'
+    publication_year: '2025'
+    ratings_count: '35759'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1752327619l/215020997._SY75_.jpg
+    title: Bury Our Bones in the Midnight Soil
+    title_without_series: Bury Our Bones in the Midnight Soil
+    uri: kca://book/amzn1.gr.book.v3.MeyHvUCvlEyMPrfQ
+    work:
+      id: '154547320'
+  - authors:
+      author:
+        id: '20177041'
+        link: https://www.goodreads.com/author/show/20177041.Virginia_Feito
+        name: Virginia Feito
+    average_rating: '4.01'
+    id: '213395480'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1737737985l/213395480._SX98_.jpg
+    isbn: '1631498630'
+    isbn13: '9781631498633'
+    link: https://www.goodreads.com/book/show/213395480-victorian-psycho
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35759'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1737737985l/213395480._SY75_.jpg
+    title: Victorian Psycho
+    title_without_series: Victorian Psycho
+    uri: kca://book/amzn1.gr.book.v3.lb5MdE3jJjblksHH
+    work:
+      id: '219635442'
+  - authors:
+      author:
+        id: '4712375'
+        link: https://www.goodreads.com/author/show/4712375.Christopher_Buehlman
+        name: Christopher Buehlman
+    average_rating: '4.01'
+    id: '20893407'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396375462l/20893407._SX98_.jpg
+    isbn: '0425272613'
+    isbn13: '9780425272619'
+    link: https://www.goodreads.com/book/show/20893407-the-lesser-dead
+    num_pages: '362'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '35759'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396375462l/20893407._SY75_.jpg
+    title: The Lesser Dead
+    title_without_series: The Lesser Dead
+    uri: kca://book/amzn1.gr.book.v1.kNI0cuPlMKk5dVPnfcP_3w
+    work:
+      id: '40236397'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+started_at: '2025-12-18T00:00:00-08:00'
+text_reviews_count:
+  '#text': '431'
+  '@type': integer
+title: The Buffalo Hunter Hunter
+title_without_series: The Buffalo Hunter Hunter
+uri: kca://book/amzn1.gr.book.v3.M3gsowScAhyVMWSP
+url: https://www.goodreads.com/book/show/214783697-the-buffalo-hunter-hunter
+work:
+  id: '220854470'
+  uri: kca://work/amzn1.gr.work.v3.ySho_JaO7NWMFg3r
