@@ -2,7 +2,7 @@
 date: 2026-01-06
 description: A nostalgic guide to using Claude Code remotely from your phone by SSH-ing into your dev machine. Learn how to set up Tailscale for networking, use terminal clients like Blink, and leverage tools like tmux and mosh to code with AI assistance from anywhere - just like the good old days of the early 2000s.
 
-draft: true
+draft: false
 tags:
     - claude
     - ssh

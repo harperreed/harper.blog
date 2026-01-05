@@ -1,5 +1,6 @@
 # 📝 Harper Reed's Blog Repository
 
+
 Welcome to my personal blog repository! This project showcases my thoughts, experiences, and random musings on technology, politics, and everything in between. It's built using modern web technologies and static site generation techniques.
 
 ## 📖 Summary of Project
