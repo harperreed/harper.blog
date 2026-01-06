@@ -1,7 +1,6 @@
 ---
-date: 2026-01-06
-description: A nostalgic guide to using Claude Code remotely from your phone by SSH-ing into your dev machine. Learn how to set up Tailscale for networking, use terminal clients like Blink, and leverage tools like tmux and mosh to code with AI assistance from anywhere - just like the good old days of the early 2000s.
-
+date: 2026-01-05T18:10:00-06:00
+description: "A nostalgic guide to using Claude Code remotely from your phone by SSH-ing into your workstation. Learn how to set up Tailscale for networking, use terminal clients like Blink, and leverage tools like TMUX and mosh to code with AI assistance from anywhere - just like the good old days of the early 2000s."
 draft: false
 tags:
     - claude
@@ -9,7 +8,7 @@ tags:
     - remote-development
     - mobile-coding
     - terminal
-    - tmux
+    - TMUX
     - tailscale
     - mosh
     - blink
@@ -18,13 +17,11 @@ tags:
     - tools
 title: "Remote Claude Code: programing like it was the early 2000s"
 generateSocialImage: true
-translationKey: "Remote Claude Code: programing like it was the early 2000s"
+translationKey: programing like it was the early 2000s
 slug: claude-code-is-better-on-your-phone
 ---
 
-# Remote Claude Code: programing like it was the early 2000s
-
-So so many friends have asked me how I use Claude code from my phone. I am always a bit surprised, because a lot of this type of work I have been doing for nearly 25 years (or more!) and I always forget that it is partially a lost art. This is how it used to be. We didn’t have fancy IDEs, and fancy magic to deploy stuff. We had to ssh (hah. Telnet!) into a machine and work with it through the terminal. It ruled. It was a total nightmare. It was also a lot of fun.
+So so many friends have asked me how I use Claude Code from my phone. I am always a bit surprised, because a lot of this type of work I have been doing for nearly 25 years (or more!) and I always forget that it is partially a lost art. This is how it used to be. We didn’t have fancy IDEs, and fancy magic to deploy stuff. We had to ssh (hah. Telnet!) into a machine and work with it through the terminal. It ruled. It was a total nightmare. It was also a lot of fun.
 
 > One of my favorite parts of the early 2000s was hanging out in IRC channels and just participating in the most ridiculous community of tech workers. A very very fun time. #corporate on efnet!
 
@@ -32,21 +29,29 @@ There is a lot of nostalgia for that time period - but for the most part the too
 
 Or creates a new vibe? Who knows. Anyway. We are all using terminals now and it is hilarious and fun. So let’s vibe.
 
+{{% figure src="IMG_5743.jpeg" caption="Thinking about terminals probably, Leica M11, 12/2025" %}}
+
 The conversation I have with people about Claude Code start normally, and almost without exception end with “I wish I could do this from my phone.”
 
 Well.. I am here to tell you that it is easy! And accessible!
 
 ## The other (easier) way
 
-First things first - there are a couple really neat startups that are solving this in a very different way that I work. I think they are awesome. My favorite example of this is https://superconductor.dev/. They allow you are run and instantiate a bunch of agents and interact with them remotely. They are also a really great team!
+First things first - there are a couple really neat startups that are solving this in a very different way that I work. I think they are awesome. My favorite example of this is [superconductor](https://superconductor.dev) (great name!). They allow you to run and instantiate a bunch of agents (Claude Codex, Amp, Codex, etc) and interact with them remotely. They are also a really great team!
 
-Another example is [happy coder](https://happy.engineering/). An open source magical app that connects to your Claude code. It is theoretically pretty good, and I know some people who love it. I couldn’t get it to work reliably.
+Another example is [happy coder](https://happy.engineering/). An open source magical app that connects to your Claude Code. It is theoretically pretty good, and I know some people who love it. I couldn’t get it to work reliably.
 
 ## My way
 
-One of my core values is: I want to just ssh into shit. That is kind of one of my general hobbies. Can I ssh into this thing? If yes, then I am happy. If no, then how can I make it so I can ssh into it.
+One of my core values is: _I want to just ssh into shit_. That is kind of one of my general hobbies. Can I ssh into this thing? If yes, then I am happy. If no, then how can I make it so I can ssh into it.
 
-When it came to figuring out how to use Claude code on my phone, the obvious answer was: ssh into my computer from my phone, and run claude. Turns out this is pretty straight forward.
+When it came to figuring out how to use Claude Code on my phone, the obvious answer was: **ssh into my computer from my phone, and run claude**. Turns out this is pretty straight forward.
+
+My workstation:
+![](terminal2.png)
+
+My phone:
+![](terminal3.png)
 
 Let’s break it down.
 
@@ -56,21 +61,21 @@ There are maybe 4 things you need to solve for:
 
 - network
 - terminal client
-- dev machine
+- workstation
 - tools
 
 As a form of tldr, here are my personal answers:
 
-- network: Tailscale
-- client: blink
-- dev machine: Mac with constant power and fast internet
-- tools: tmux, some magic scripts, and Claude Code
+- network: [Tailscale](https://en.wikipedia.org/wiki/Tailscale)
+- client: [blink](https://blink.sh/)
+- workstation: Mac with constant power and fast internet
+- tools: [TMUX](https://en.wikipedia.org/wiki/Tmux), some magic scripts, and Claude Code
 
 Let’s break it down:
 
 ### Network
 
-You will need to access your dev machine from anywhere. I use a Mac and linux boxes for this.
+You will need to access your workstation from anywhere. I use a Mac and linux boxes for this.
 
 Linux is easy: Just make sure openssh-server is installed. Test that you can ssh into it - and bam. Typically if you are using a box from a Claude provider, this is built into the program.
 
@@ -102,7 +107,9 @@ And since you set up Tailscale, and ssh you can just type `ssh <dev-server-ip>` 
 
 > you can use the `config` command in blink to set up keys, and hosts, etc. highly worthwhile.
 
-Now you are inside of your dev machine! Now you can really rip some tokens!
+Now you are inside of your workstation! Now you can really rip some tokens!
+
+{{% figure src="L1004804.jpeg" caption="I checked the build status RIGHT AFTER THIS SHOT, Leica M11, 01/2026" %}}
 
 ## Tools!
 
@@ -114,7 +121,7 @@ There are three tools that are super helpful:
 
 - Keys/identity
 - Mosh
-- Tmux
+- TMUX
 
 ### Keys
 
@@ -126,7 +133,7 @@ Couple tips:
 
 - use a password to unlock your key!
 - use an ssh agent to make that process not horrible
-- on a Mac you can have your key be unlocked by your keychain (which is also where your Claude code api key is!)
+- on a Mac you can have your key be unlocked by your keychain (which is also where your Claude Code api key is!)
 
 ### Mosh
 
@@ -140,17 +147,17 @@ There are some gotchas about ssh-agent, keys and mosh that I won’t get into. I
 
 ### TMUX
 
-Tbh, I am a [screen](https://en.wikipedia.org/wiki/GNU_Screen) guy. But it is 2026 and [tmux](https://en.wikipedia.org/wiki/Tmux) is a better choice.
+Tbh, I am a [screen](https://en.wikipedia.org/wiki/GNU_Screen) guy. But it is 2026 and [TMUX](https://en.wikipedia.org/wiki/TMUX) is a better choice.
 
 It allows you to have a long running terminal process that you can reattach to. This is helpful even without a remote connection. It also acts as a multiplexer - allowing for multiple terminal sessions in a single terminal window.
 
-You can have 7 Claude codes running simultaneously and just tab through them as needed.
+You can have 7 Claude Codes running simultaneously and just tab through them as needed.
 
-TMUX is what a lot of the “Claude code orchestration” hacks are built upon.You should [check them out](https://github.com/steveyegge/gastown). I haven’t yet found one that works how I want it - even know there are some good ones! I just want to use regular old tmux, and a bunch of weird helpers.
+TMUX is what a lot of the “Claude Code orchestration” hacks are built upon.You should [check them out](https://github.com/steveyegge/gastown). I haven’t yet found one that works how I want it - even know there are some good ones! I just want to use regular old TMUX, and a bunch of weird helpers.
 
-My tmux config is here: [harperreed/dotfiles/.tmux.conf](https://github.com/harperreed/dotfiles/blob/master/.tmux.conf). Be forewarned, that the key combos are wacky!
+My TMUX config is here: [harperreed/dotfiles/.TMUX.conf](https://github.com/harperreed/dotfiles/blob/master/.TMUX.conf). Be forewarned, that the key combos are wacky!
 
-Tmux is the key that allows me to run a dozen Claude code instances, and then walk away from my workstation, pick up my phone and continue hacking.
+TMUX is the key that allows me to run a dozen Claude Code instances, and then walk away from my workstation, pick up my phone and continue hacking.
 
 ### shell scripts
 
@@ -190,7 +197,11 @@ else
 fi
 ```
 
-On a Mac, Claude code stores its api key in your keychain, then it requires you to unlock your keychain to work. This also has the added benefit of unlocking your ssh keys if they are using the keychain for your ssh-agent.
+like so:
+
+![](terminal1.png)
+
+On a Mac, Claude Code stores its api key in your keychain, then it requires you to unlock your keychain to work. This also has the added benefit of unlocking your ssh keys if they are using the keychain for your ssh-agent.
 
 #### tm
 

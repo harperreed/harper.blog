@@ -17,7 +17,7 @@ preview:
 
 # Development build with template metrics
 dev:
-	hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic
+	hugo server --buildDrafts --buildFuture --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic
 
 prod_build_verbose: getmodules
 	hugo --cleanDestinationDir --templateMetrics --templateMetricsHints --minify --forceSyncStatic --gc --logLevel info
