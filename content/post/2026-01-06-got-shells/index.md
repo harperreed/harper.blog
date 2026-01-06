@@ -1,6 +1,7 @@
 ---
 date: 2026-01-05T18:10:00-06:00
 description: "A nostalgic guide to using Claude Code remotely from your phone by SSH-ing into your workstation. Learn how to set up Tailscale for networking, use terminal clients like Blink, and leverage tools like TMUX and mosh to code with AI assistance from anywhere - just like the good old days of the early 2000s."
+bsky: https://bsky.app/profile/harper.lol/post/3mbpvn43cu42o
 draft: false
 tags:
     - claude
