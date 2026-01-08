@@ -42,6 +42,7 @@
             {{ end }}
             <hr />
             {{ .Summary | html }}
+            <img src="https://tinylytics.app/pixel/WV5Khk7ZG6MZe6q49ikx.gif" alt="" width="1" height="1" />
         {{"]]></content:encoded>" | safeHTML}}
         </item>
         {{ end }}

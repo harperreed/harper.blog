@@ -36,7 +36,7 @@
         {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
         <guid>{{ .Permalink }}</guid>
         {{ $url := urls.Parse .Params.original_url}}
-        <description>{{ .Content | plainify | htmlUnescape }} ({{ $url.Host }})</description>
+        <description><![CDATA[{{ .Content | plainify | htmlUnescape }} ({{ $url.Host }})<img src="https://tinylytics.app/pixel/WV5Khk7ZG6MZe6q49ikx.gif" alt="" width="1" height="1" />]]></description>
         <category>{{ .Date.Format "2006-01-02" }}</category>
       </item>
     {{ end }}
