@@ -145,6 +145,7 @@
                         
                         <hr />
                         <p>Thank you for using RSS. I appreciate you. <a href="mailto:harper&#64;modest.com">Email me</a></p>
+                        <img src="https://tinylytics.app/pixel/WV5Khk7ZG6MZe6q49ikx.gif" alt="" width="1" height="1" />
                     {{ printf "]]>" | safeHTML }}
                 </description>
             </item>
