@@ -39,7 +39,7 @@ Will check again in a bit.
 
 ## Travel
 
-{{< image src="black-dragon-temple.jpg" caption="Mt. Minobu Kuonji Temple">}}
+{{< image src="black-dragon-temple.jpg" caption="Mt. Minobu Kuonji Temple" width="1200" >}}
 
 I traveled almost zero this year. Wild. Five years ago in 2019, I did 95 flights. This year I did about 10?
 
@@ -59,11 +59,11 @@ I am still thinking a lot about stereos (middle age, amirite), and I really need
 
 ## Photography
 
-{{< image src="corncob-building.jpg" caption="The corncob dudes">}}
+{{< image src="corncob-building.jpg" caption="The corncob dudes" width="1200" >}}
 
 This year was fun because I got a new camera that changed how I shoot. I picked up a Ricoh GR3x after shooting with my M11 in Japan and being frustrated by its size and speed in certain situations. Normally the size and speed (slow) is a feature, but not always. The ricoh really unlocked some fun opportunities. You can see the magic of the ricoh in my [notes](/notes) section. It is quite fun to point, and shoot. Who knew!
 
-{{< image src="on-the-road.jpg" caption="Somewhere in eastern colorado">}}
+{{< image src="on-the-road.jpg" caption="Somewhere in eastern colorado" width="1200" >}}
 
 I still adore the M11 and still use it often - but the convenience of having the Ricoh (literally) in my pocket is amazing. I can grab hilarious shots that I would normally have lost.
 
@@ -131,7 +131,7 @@ These were my everyday carry
 
 I am excited for 2025.
 
-{{< image src="leaves.jpg" caption="A \"new\" leaf">}}
+{{< image src="leaves.jpg" caption="A \"new\" leaf" width="1200" >}}
 
 The company that I started with my friends is really starting to get going.
 
