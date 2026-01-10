@@ -1,0 +1,24 @@
+{{/* ABOUTME: Generates hreflang link tags for multilingual SEO. */}}
+{{/* ABOUTME: Tells search engines about all language versions of the page. */}}
+
+{{/* Self-referencing hreflang for current page */}}
+<link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}" />
+
+{{/* x-default points to English version */}}
+{{ if eq .Language.Lang "en" }}
+<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
+{{ else }}
+  {{/* Find English version for x-default */}}
+  {{ range .AllTranslations }}
+    {{ if eq .Language.Lang "en" }}
+<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{/* All translations */}}
+{{ range .AllTranslations }}
+  {{ if ne .Language.Lang $.Language.Lang }}
+<link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}" />
+  {{ end }}
+{{ end }}

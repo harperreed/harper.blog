@@ -1,0 +1,19 @@
+{{/* ABOUTME: Generates meta description tag for SEO. */}}
+{{/* ABOUTME: Provides search engines with page summary, max 160 characters. */}}
+
+{{- $description := "" -}}
+
+{{/* Use custom description if set */}}
+{{- if .Description -}}
+  {{- $description = .Description -}}
+{{/* Fall back to summary for pages */}}
+{{- else if .IsPage -}}
+  {{- $description = .Summary | plainify | truncate 160 -}}
+{{/* Fall back to site description */}}
+{{- else -}}
+  {{- $description = .Site.Params.description | default "" -}}
+{{- end -}}
+
+{{- with $description -}}
+<meta name="description" content="{{ . }}" />
+{{- end -}}
