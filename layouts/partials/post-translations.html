@@ -9,8 +9,8 @@
   {{ end }}
 {{ end }}
 
-{{/* Only show if there are non-English translations */}}
-{{ if gt (len $translations) 0 }}
+{{/* Show if there are non-English translations OR if current page is not English (to show English original link) */}}
+{{ if or (gt (len $translations) 0) (ne $currentLang "en") }}
   <div class="post-translations-box">
       
     {{/* Original English link (show only if current page is not English) */}}
