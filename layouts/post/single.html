@@ -1,6 +1,5 @@
 {{ define "main" }}
 
-
 {{ if not .Params.menu }}
 <h1>{{ .Title }}</h1>
 <p class="byline">
@@ -27,6 +26,8 @@
 {{ partialCached "generated.html" . .Title}}
 
 {{ partialCached "tags.html" . .Title}}
+
+{{ partial "related-posts.html" . }}
 
 {{ partialCached "comments.html" . .Title}}
 {{ end }}
