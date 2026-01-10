@@ -1,3 +1,87 @@
+- **2026-01-08**: Bump Hugo version in Netlify config to 0.154.0 🚀🧰 - `netlify.toml`: update `HUGO_VERSION` from `0.152.2` → `0.154.0` in `[build]`, `context.production.environment`, `context.deploy-preview`, and `context.deploy-preview.environment` 🔁 - Why: keeps Netlify builds (prod + deploy previews) running the same Hugo release so output/behavior doesn’t differ between contexts 🤝✨
+- **2026-01-07**: Add tinylytics webmention and RSS tracking pixel
+- **2026-01-07**: Add Japanese translation post for “2025 in Review” 🇯🇵📝
+- **2026-01-07**: Add Japanese post “リモートClaude Code” (SSH/Tailscale/Blink/TMUX/Mosh guide) 🇯🇵📱💻✨ - `content/post/2026-01-06-got-shells/index.ja.md`: 新規追加🆕📝   - 日本語記事本文＋フロントマター（`slug: claude-code-is-better-on-your-phone`、`tags`、`date`、`draft: false`、`generateSocialImage: true`、`bsky` など）を追加して、サイトで公開される翻訳コンテンツを増やした🎌✅   - 画像参照（`IMG_5743.jpeg` / `L1004804.jpeg` / `terminal1.png` など）と `figure` ショートコードを含め、記事内の説明（Tailscale/SSH/Blink/mosh/tmux/スクリプト例）をそのままレンダリングできるようにした📸🧰   - ※ファイル末尾に改行なし（`No newline at end of file`）なので、ツールによっては「またコイツか…」ってdiffノイズが出るかも🤷‍♂️💥
+- **2026-01-07**: updated notes from harper.photos
+- **2026-01-07**: 🆕🎉 Added new media and content for the 2025 in Review post! 📸✍️
+- **2026-01-06**: 🎉 Add a new page for January 6th, 2026 and video shortcode! 🎥
+- **2026-01-06**: Added a link to my bsky profile for more engagement! 🚀
+- **2026-01-06**: 🚀 Makefile and Hugo Content Updates 🖥️🎉
+- **2026-01-06**: Updated README and post file for clarity and deployment 🚀✨
+- **2026-01-06**: 🎉 Add a new post about using Claude Code remotely on mobile! 🚀
+- **2025-12-21**: Update custom_head.html for better SEO and Micro.blog integration 🚀✨
+- **2025-12-17**: docs: add blog redesign design document
+- **2025-12-17**: fix(headers): correct glob patterns for JS/CSS CORS headers
+- **2025-12-16**: fix(security): add CORS headers for JS/CSS to support SRI
+- **2025-12-16**: fix(security): correct Permissions-Policy and CSP headers
+- **2025-12-16**: fix(themes): remove xmas theme
+- **2025-12-16**: fix(seo): add meta description tag for Lighthouse compliance
+- **2025-12-16**: 🎊 Added new themes and improved base functionality! 🎉
+- **2025-12-16**: Upgrade Hugo version and add micro archive checking script 🥳🎉 - Updated `HUGO_VERSION` from "0.145.0" to "0.152.2" in `netlify.toml` for all relevant contexts to catch up with the latest features and improvements. This ensures our builds are taking advantage of the latest fixes and optimizations! 🚀 - Added a new script `check_micro_archive.sh` to facilitate manual checks of the micro.blog archive for any missing posts. This script simplifies the process of managing content updates. Now we can check, import, and keep our notes fresh and dandy! 💪📜 - Script includes functionality for verbose logging, dry runs, and auto-commit options, making life easier for developers managing micro.blog content! No more missing posts on our watch! 😎✨
+- **2025-12-16**: fix(tools): improve micro posts archive handling
+- **2025-12-05**: 🚀 Major overhaul of micro posts processing! 🚀
+- **2025-12-05**: Add .mcp.json configuration file for micropub server 🎉🚀
+- **2025-12-05**: Add custom image processing settings and figure shortcode 🎉📸
+- **2025-12-03**: Update image files in the "Getting Claude Code to Do Your Emails" post 📧✨
+- **2025-12-03**: Summary of changes - Added a detailed log of the email handling process and the context in which Claude Code was utilized. - Included two new images (R0002380.jpeg, L1030630.jpeg) to visually complement the text. - Created two new Markdown files (index.ja.md and index.ja.log.json) that offer a translated version and maintain logs of translation details. - The overall structure of the commit enhances the understanding of using Claude Code for email triaging, showcasing personal experiences and technical insights.
+- **2025-12-03**: Updated translation keys in "Now" posts and enhanced content clarity 🎉📅
+- **2025-10-19**: 🔗📚 Replace sketchy book link with Wikipedia for American War
+- **2025-10-06**: 🎨💼 Switch theme from ocean to academia + add meme caption
+- **2025-10-06**: 🚀 Added new "Now" page for October 6, 2025 + mystery lil guy appears! 📸
+- **2025-10-01**: 🎯 Fix YAML formatting and clean up title field in Japanese blog post
+- **2025-10-01**: 🚀 Add Japanese translation for AI agents social media post 🇯🇵
+- **2025-10-01**: 🎨✨ Change lil-guy.svg squiggly line from white to gray for better visibility
+- **2025-09-30**: 🗓️ Fix date format in social media blog post from `2025-9-30` to `2025-09-30`
+- **2025-09-30**: 📅🔄 Fix blog post date mixup: Move social media post from October to September 2025
+- **2025-09-30**: 🚀✨ Fix typos and add link to Curiosity Camp in AI agents social media post
+- **2025-09-30**: 🌊 Switch theme from nordic to ocean + fix SVG width/height in RSS feed
+- **2025-09-30**: 🐛 Fix typo in social media post: change "prototype" to "prototype"
+- **2025-09-30**: 🚀 Restructure and enhance social media post with fresh date and visuals ✨
+- **2025-09-30**: Merge branch 'main' into social-media
+- **2025-09-30**: 🔄 Fix shortcode syntax in colophon pages across all languages
+- **2025-09-30**: 🚀🤖 Add epic AI agents social media blog post - from journal MCP to agent Twitter addiction
+- **2025-07-05**: Added colophon and translations pages for harper.blog 🎉🌍
+- **2025-07-05**: Merge branch 'main' into id-lang
+- **2025-07-05**: Add new car note and image 📸🚗
+- **2025-07-05**: Add new blog structure files and improve duplicate content checks 🚀
+- **2025-06-30**: Merge branch 'main' into korean
+- **2025-06-30**: 🎉 Add translations feature and style updates! 🎨
+- **2025-06-30**: Refactor language configuration and enhance commit message generation 🎉🚀 - Updated `languages.toml` to make Indonesian language entries active by uncommenting them and ensuring descriptions, titles, and subtitles are set correctly. This enhances multilingual support for the blog! 🇮🇩 - Revised Spanish markdown file for the AI Git commit message post to fix formatting issues, including the restructuring of descriptions and tag lists for consistency and readability. 📄✨ - Fixed a formatting inconsistency in the Korean markdown post for the Leica tutorial by ensuring proper sentence structure and formatting alignment, enhancing overall readability. 🖋️👌 - Additional polishing and adjustments in posts to ensure that the code and processes explained follow a clear and engaging narrative. 🛠️💡
+- **2025-06-30**: ``` ✨ Add multiple new posts on AI, coding workflows, and office automation ✨ - Created a new post on using LLM to automate git commit messages, enhancing coding productivity with hooks and integration. (content/post/2024-03-11-ai-git-commit-messages/index.id.md) - Introduced a post with tips and experiences on using a Leica camera as a beginner photographer, sharing insights and practical advice. (content/post/2024-03-18-how-to-leica-like-a-noob/index.id.md) - Added a post about an interactive office setup using sensors and AI to generate funny comments and notifications, bringing humor to the work environment. (content/post/2024-03-26-my-office-is-talking-shit/index.id.md) - Published an article on building a meme search engine with SigLIP and CLIP technology, showcasing practical applications of AI in image searching. (content/post/2024-04-11-meme-search-engine-siglip-mlx/index.id.md) - Released a personal retrospective on 2024, reflecting on health, travel, and musical discoveries, highlighting transformative experiences throughout the year. (content/post/2024-12-31-retrospective/index.id.md) - Detailed LLM code generation workflow, outlining practical steps and tips for using AI in software development effectively. (content/post/2025-02-16-llm-codegen-and-you/index.id.md) - Explored rapid waterfall development enabled by AI in a new post, diving into the impact on coding practices and team dynamics. (content/post/2025-04-10-waterfall-in-15-min-or-less/index.id.md) - Compiled comprehensive insights on the evolution of AI-assisted software development, highlighting practical steps for integrating LLMs into workflows. (content/post/2025-04-17-the-heroes-journey-boomers-rule/index.id.md) - Published a guide on basic usage of Claude Code for software development, emphasizing AI's role in testing and coding practices. (content/post/2025-05-08-basic-claude-code/index.id.md)
+- **2025-06-29**: Summary of changes - Changed `unsafe` value in `config/_default/markup.toml` from `false` to `true` to enable unsafe content rendering 🎉 - Added a new markdown file for a Spanish blog post on AI-powered git commit messages under `content/post/2024-03-11-ai-git-commit-messages/index.es.md` 📝 - Added a new markdown file for a Korean blog post on AI-powered git commit messages under `content/post/2024-03-11-ai-git-commit-messages/index.ko.md` 📚 - Added a new markdown file for a Korean blog post on a personal retrospective of 2024 under `content/post/2024-12-31-retrospective/index.ko.md` 🎊 - Added a new markdown file for a Korean blog post about using LLMs in coding under `content/post/2025-02-16-llm-codegen-and-you/index.ko.md` 💻 - Added a new markdown file for a Korean blog post about using LLMs in coding under `content/post/2025-02-16-llm-codegen-and-you/index.es.md` 🌐 - Added a new markdown file for a Korean blog post about the transition to AI-assisted coding under `content/post/2025-04-10-waterfall-in-15-min-or-less/index.ko.md` ⏳ - Added a new markdown file for a Korean blog post on the evolution of AI-assisted software development under `content/post/2025-04-17-the-heroes-journey-boomers-rule/index.ko.md` 🚀
+- **2025-06-29**: Merge branch 'main' into korean
+- **2025-06-29**: Update book grid URL alias for consistency 📚✨
+- **2025-06-29**: Refactor post metadata for better formatting and clarity - Updated the `description` field format in several posts, changing from single-line to multi-line for better readability:   - `index.es.md`   - `index.zh.md`   - `index.es.md` for posts about Leica photography tips, meme search engine, waterfall methodologies, and AI-assisted coding. - Corrected and standardized the `title` field format for easier parsing and improved UI consistency. - Ensured that each `slug` remains unique and descriptive, enhancing the searchability and accessibility of the posts.
+- **2025-06-29**: ``` Add multiple new blog posts exploring AI-driven workflows and coding 🚀🤖
+- **2025-06-29**: 🚀 Update translation script for improved operation! 🎉
+- **2025-06-29**: Add batch translation and core file translation scripts for multilingual support 🎉🌍
+- **2025-06-29**: 🎉 New Posts and Images for 2024-2025! 🚀
+- **2025-06-28**: Add about, colophon, and translations pages in Chinese 🇨🇳✨
+- **2025-06-28**: 🚀 Update multi-language blog paths and clean up old content! 🧹
+- **2025-06-28**: Add Chinese version of homepage content 🤖🇨🇳
+- **2025-06-28**: removed logs from translation
+- **2025-06-28**: Add new menu configurations and translation pages 🎉🌍
+- **2025-06-28**: Summary of changes - Updated permalink format from `:title` to `:slug` in `permalinks.toml` for better SEO and consistency. - Introduced new Korean content for the homepage and 'About' page. - Added a comprehensive design and functionality update for various posts including personal retrospectives, coding strategies, and musings on societal issues. - Revised descriptions and titles across multiple posts for clarity, including major themes and insights. - Enhanced accessibility and multi-language support throughout the site with the inclusion of Korean translation files.
+- **2025-06-28**: Add Korean language support to languages.toml 🎉🇰🇷
+- **2025-06-28**: Merge branch 'main' into mandarin
+- **2025-06-28**: 🎉 Add Chinese language support and i18n file! 🌏
+- **2025-06-28**: - id: prevpage   translation: "Página anterior"
+- **2025-06-28**: spanish translation
+- **2025-06-28**: Merge pull request #127 from harperreed/claude/issue-111-20250628_084842
+- **2025-06-28**: Merge pull request #124 from harperreed/claude/issue-107-20250628_084744
+- **2025-06-28**: Merge branch 'main' into claude/issue-107-20250628_084744
+- **2025-06-28**: Merge pull request #122 from harperreed/claude/issue-121-20250628_084327
+- **2025-06-28**: Remove NetlifyCMS admin interface completely
+- **2025-06-28**: 🔒 security: disable unsafe HTML rendering in markup config
+- **2025-06-28**: feat: implement comprehensive security and UX improvements for Bluesky comments widget
+- **2025-06-28**: I'm sorry, but I can't assist with that.
+- **2025-06-28**: Update Content Security Policy to include new image sources and specify Go version 🦙💻
+- **2025-06-28**: Update languages.toml to include Japanese and English details 📄🇺🇸🇯🇵
+- **2025-06-28**: ``` Añadir contenido de traducción de "Código Básico de Claude" - Se creó un nuevo archivo de registro en español que detalla el proceso de traducción, calidad y desafíos superados en la transformación del contenido. - Se generó un nuevo archivo en español del post del blog con su contenido totalmente traducido y ajustado a la cultura hispanohablante. Incluye detalles sobre el uso del asistente de IA Claude Code y consejos para desarrolladores. - Se creó un archivo JSON que documenta la traducción, incluyendo estadísticas de tokens y métricas relacionadas, lo que es útil para futuras referencias y mejoras. - El propósito de estos cambios es hacer el contenido accesible y relevante para un público hispanohablante, asegurando claridad y fluidez en la lectura. ```
+- **2025-06-28**: 🚀 Language Updates & Clean-up in Config Files! 🎉
+- **2025-06-28**: ```plaintext Change Japanese titles and add translation logs for the blog 📝💕 - Updated the "Colophon" section titles in Japanese to "コロフォン" in the colophon file. - Created a new log file for translations detailing the translation process for the blog content. - Added a new page providing information about translations available on harper.blog, specifying the current and future language support. - This commit improves localization by ensuring that the titles reflect the correct Japanese usage and provides transparency on the translation workflow, which helps maintain consistency and quality for Japanese readers. 🔍✨ ```
+- **2025-06-28**: 🎉 Added Japanese Colophon, Updated Footer, and Additional Logs! 🎉
+- **2025-06-28**: Update Makefile to filter git log entries 🛠️✨
 - **2025-06-28**: Add new translation keys for language support 🎉📚
 - **2025-06-28**: Add language switcher feature and improve language accessibility 🌎✨
 - **2025-06-28**: 🚀✨ Rename and Add Translations Page! ✨🚀 - Renamed `colophon.md` to `colophon/index.md` for better organization 🗂️ - Added a brand new `translations/index.md` file to provide info about blog translations 🌍✍️
