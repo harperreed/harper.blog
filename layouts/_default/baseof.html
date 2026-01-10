@@ -18,6 +18,13 @@
         
         {{- partialCached "social_card.html" . .Title -}}
 
+        {{- partialCached "head/seo-meta-description.html" . .Title -}}
+        {{- partialCached "head/seo-canonical.html" . .Permalink -}}
+        {{- partialCached "head/seo-hreflang.html" . .Permalink -}}
+
+        {{- partialCached "schema/article.html" . .Title -}}
+        {{- partialCached "schema/person.html" . -}}
+
         {{- partialCached "head/css.html" . -}}
         
         {{- partialCached "head/javascript.html" . -}}
