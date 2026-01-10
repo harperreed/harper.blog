@@ -1,0 +1,67 @@
+{{/* ABOUTME: Generates breadcrumb navigation with JSON-LD BreadcrumbList schema. */}}
+{{/* ABOUTME: Improves site navigation and SEO with structured breadcrumb data. */}}
+
+{{- if not .IsHome -}}
+{{- $url := .Site.BaseURL -}}
+{{- $items := slice -}}
+
+{{/* Build breadcrumb items */}}
+{{- $items = $items | append (dict "name" "Home" "url" .Site.BaseURL "position" 1) -}}
+
+{{/* Add section if exists */}}
+{{- with .Section -}}
+  {{- $sectionTitle := . | humanize | title -}}
+  {{- if eq . "post" -}}
+    {{- $sectionTitle = "Posts" -}}
+  {{- else if eq . "notes" -}}
+    {{- $sectionTitle = "Notes" -}}
+  {{- else if eq . "links" -}}
+    {{- $sectionTitle = "Links" -}}
+  {{- else if eq . "books" -}}
+    {{- $sectionTitle = "Books" -}}
+  {{- else if eq . "music" -}}
+    {{- $sectionTitle = "Music" -}}
+  {{- end -}}
+  {{- $sectionURL := printf "%s%s/" $.Site.BaseURL . -}}
+  {{- $items = $items | append (dict "name" $sectionTitle "url" $sectionURL "position" 2) -}}
+{{- end -}}
+
+{{/* Add current page */}}
+{{- if .IsPage -}}
+  {{- $items = $items | append (dict "name" .Title "url" .Permalink "position" (add (len $items) 1)) -}}
+{{- end -}}
+
+{{/* Render visible breadcrumbs */}}
+<nav aria-label="Breadcrumb" class="breadcrumbs">
+  <ol class="breadcrumb-list">
+    {{- range $items -}}
+    <li class="breadcrumb-item">
+      {{- if eq .position (len $items) -}}
+      <span aria-current="page">{{ .name }}</span>
+      {{- else -}}
+      <a href="{{ .url }}">{{ .name }}</a>
+      {{- end -}}
+    </li>
+    {{- end -}}
+  </ol>
+</nav>
+
+{{/* JSON-LD BreadcrumbList schema */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {{- range $i, $item := $items -}}
+    {{- if $i -}},{{- end -}}
+    {
+      "@type": "ListItem",
+      "position": {{ $item.position }},
+      "name": {{ $item.name | jsonify }},
+      "item": {{ $item.url | jsonify }}
+    }
+    {{- end -}}
+  ]
+}
+</script>
+{{- end -}}

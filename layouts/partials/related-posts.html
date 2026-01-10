@@ -1,0 +1,30 @@
+{{/* ABOUTME: Displays related posts based on tags and content similarity. */}}
+{{/* ABOUTME: Uses Hugo's .Related function to suggest 3-5 relevant articles for better internal linking. */}}
+
+{{- $related := .Site.RegularPages.Related . | first 5 -}}
+{{- with $related -}}
+<aside class="related-posts" aria-label="Related posts">
+  <h3>{{ i18n "related-posts" | default "Related Posts" }}</h3>
+  <ul class="related-posts-list">
+    {{- range . -}}
+    <li class="related-post-item">
+      <a href="{{ .RelPermalink }}" class="related-post-link">
+        <span class="related-post-title">{{ .Title }}</span>
+        {{- if .Date -}}
+        <time datetime="{{ .Date.Format "2006-01-02" }}" class="related-post-date">
+          {{ .Date.Format "2006-01-02" }}
+        </time>
+        {{- end -}}
+      </a>
+      {{- with .Params.tags -}}
+      <div class="related-post-tags">
+        {{- range first 3 . -}}
+        <span class="related-tag">#{{ . }}</span>
+        {{- end -}}
+      </div>
+      {{- end -}}
+    </li>
+    {{- end -}}
+  </ul>
+</aside>
+{{- end -}}
