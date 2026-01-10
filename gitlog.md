@@ -1,3 +1,10 @@
+- **2026-01-10**: Merge pull request #135 from harperreed/seo-week3-performance
+- **2026-01-10**: Add performance optimizations (Week 3 SEO)
+- **2026-01-10**: Merge pull request #134 from harperreed/seo-week2-navigation-linking
+- **2026-01-10**: Refine related posts and remove breadcrumbs
+- **2026-01-10**: Add navigation and internal linking features (Week 2 SEO)
+- **2026-01-10**: Add comprehensive SEO improvements (Week 1 implementation)
+- **2026-01-10**: Fix English original link not showing on translated pages
 - **2026-01-08**: Bump Hugo version in Netlify config to 0.154.0 🚀🧰 - `netlify.toml`: update `HUGO_VERSION` from `0.152.2` → `0.154.0` in `[build]`, `context.production.environment`, `context.deploy-preview`, and `context.deploy-preview.environment` 🔁 - Why: keeps Netlify builds (prod + deploy previews) running the same Hugo release so output/behavior doesn’t differ between contexts 🤝✨
 - **2026-01-07**: Add tinylytics webmention and RSS tracking pixel
 - **2026-01-07**: Add Japanese translation post for “2025 in Review” 🇯🇵📝
