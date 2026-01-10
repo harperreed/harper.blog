@@ -1,0 +1,14 @@
+# ABOUTME: Hugo related content configuration for generating related posts suggestions.
+# ABOUTME: Uses tags and date proximity to find similar articles.
+
+threshold = 80
+includeNewer = true
+toLower = false
+
+[[indices]]
+name = "tags"
+weight = 100
+
+[[indices]]
+name = "date"
+weight = 10

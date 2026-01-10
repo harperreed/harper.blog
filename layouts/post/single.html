@@ -1,5 +1,6 @@
 {{ define "main" }}
 
+{{ partial "breadcrumbs.html" . }}
 
 {{ if not .Params.menu }}
 <h1>{{ .Title }}</h1>
@@ -27,6 +28,8 @@
 {{ partialCached "generated.html" . .Title}}
 
 {{ partialCached "tags.html" . .Title}}
+
+{{ partial "related-posts.html" . }}
 
 {{ partialCached "comments.html" . .Title}}
 {{ end }}
