@@ -1,0 +1,74 @@
+added_at: '2026-01-11T15:24:03Z'
+album: Peanuts Greatest Hits (Music From The TV Specials)
+album_image: https://i.scdn.co/image/ab67616d0000b2736bb02a6c90689f48e7fbb585
+artist: Vince Guaraldi Trio
+duration_ms: 195226
+id: 6DG6X1nXcFMpImEPxH9SRF
+preview_url: null
+raw_data:
+  album:
+    album_type: compilation
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS
+      href: https://api.spotify.com/v1/artists/4ytkhMSAnrDP8XzRNlw9FS
+      id: 4ytkhMSAnrDP8XzRNlw9FS
+      name: Vince Guaraldi Trio
+      type: artist
+      uri: spotify:artist:4ytkhMSAnrDP8XzRNlw9FS
+    available_markets:
+    - CA
+    - MX
+    - US
+    external_urls:
+      spotify: https://open.spotify.com/album/1JJ4vlKFmUCxYc1HGrMsRG
+    href: https://api.spotify.com/v1/albums/1JJ4vlKFmUCxYc1HGrMsRG
+    id: 1JJ4vlKFmUCxYc1HGrMsRG
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2736bb02a6c90689f48e7fbb585
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e026bb02a6c90689f48e7fbb585
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048516bb02a6c90689f48e7fbb585
+      width: 64
+    is_playable: true
+    name: Peanuts Greatest Hits (Music From The TV Specials)
+    release_date: '2015-01-01'
+    release_date_precision: day
+    total_tracks: 12
+    type: album
+    uri: spotify:album:1JJ4vlKFmUCxYc1HGrMsRG
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS
+    href: https://api.spotify.com/v1/artists/4ytkhMSAnrDP8XzRNlw9FS
+    id: 4ytkhMSAnrDP8XzRNlw9FS
+    name: Vince Guaraldi Trio
+    type: artist
+    uri: spotify:artist:4ytkhMSAnrDP8XzRNlw9FS
+  available_markets:
+  - CA
+  - MX
+  - US
+  disc_number: 1
+  duration_ms: 195226
+  explicit: false
+  external_ids:
+    isrc: USC4R1021086
+  external_urls:
+    spotify: https://open.spotify.com/track/6DG6X1nXcFMpImEPxH9SRF
+  href: https://api.spotify.com/v1/tracks/6DG6X1nXcFMpImEPxH9SRF
+  id: 6DG6X1nXcFMpImEPxH9SRF
+  is_local: false
+  is_playable: true
+  name: Little Birdie
+  popularity: 48
+  preview_url: null
+  track_number: 6
+  type: track
+  uri: spotify:track:6DG6X1nXcFMpImEPxH9SRF
+spotify_url: https://open.spotify.com/track/6DG6X1nXcFMpImEPxH9SRF
+title: Little Birdie
