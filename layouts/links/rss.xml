@@ -1,11 +1,10 @@
-{{- /* ABOUTME: Rich RSS feed template for curated links */}}
-{{- /* ABOUTME: Includes summaries, source domains, tags, and styled content */}}
+{{- /* ABOUTME: RSS feed template for curated links */}}
+{{- /* ABOUTME: Includes summaries, source domains, and tags */}}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 {{- printf "<?xml-stylesheet href=\"/pretty-feed-v3.xsl\" type=\"text/xsl\"?>" | safeHTML }}
 <rss version="2.0"
      xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ .Site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
@@ -50,20 +49,17 @@
         {{ end }}
         {{ end }}
         <description>{{ printf "<![CDATA[" | safeHTML }}
-            <article style="font-family:-apple-system,BlinkMacSystemFont,sans-serif;">
-            {{- /* Header with source info */ -}}
+            <div>
+            {{- /* Source info */ -}}
             {{ with .Params.original_url }}
             {{ $url := urls.Parse . }}
-            <div style="margin-bottom:15px;padding:10px 15px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);border-radius:8px;color:#fff;">
-              <span style="font-size:0.9em;opacity:0.9;">🔗 From</span>
-              <strong style="margin-left:5px;">{{ $url.Host }}</strong>
-            </div>
+            <p><strong>From:</strong> {{ $url.Host }}</p>
             {{ end }}
 
             {{- /* Title */ -}}
-            <h2 style="margin:0 0 15px 0;line-height:1.3;">
+            <h2>
               {{ with .Params.original_url }}
-              <a href="{{ . }}" style="color:#333;text-decoration:none;">{{ $.Title | plainify | htmlUnescape }}</a>
+              <a href="{{ . }}">{{ $.Title | plainify | htmlUnescape }}</a>
               {{ else }}
               {{ .Title | plainify | htmlUnescape }}
               {{ end }}
@@ -71,46 +67,34 @@
 
             {{- /* Summary */ -}}
             {{ with .Params.summary }}
-            <blockquote style="margin:15px 0;padding:15px 20px;background:#f8f9fa;border-left:4px solid #667eea;border-radius:0 8px 8px 0;font-style:italic;color:#555;">
-              {{ . }}
-            </blockquote>
+            <blockquote>{{ . }}</blockquote>
             {{ end }}
 
             {{- /* Content/Commentary */ -}}
             {{ with .Content }}
-            <div style="margin:15px 0;line-height:1.6;">
-              {{ . | html }}
-            </div>
+            <div>{{ . | html }}</div>
             {{ end }}
 
             {{- /* Tags */ -}}
             {{ with .Params.tags }}
-            <div style="margin:20px 0;">
-              {{ range . }}
-              <span style="display:inline-block;padding:4px 12px;margin:3px;background:#e9ecef;color:#495057;border-radius:20px;font-size:0.85em;">
-                #{{ . }}
-              </span>
-              {{ end }}
-            </div>
+            <p>
+              Tags:
+              {{ range $i, $tag := . }}{{ if $i }}, {{ end }}#{{ $tag }}{{ end }}
+            </p>
             {{ end }}
 
-            {{- /* Action button */ -}}
+            {{- /* Link */ -}}
             {{ with .Params.original_url }}
-            <div style="margin:20px 0;">
-              <a href="{{ . }}" style="display:inline-block;padding:12px 24px;background:#667eea;color:#fff;text-decoration:none;border-radius:8px;font-weight:600;transition:background 0.2s;">
-                📖 Read Full Article →
-              </a>
-            </div>
+            <p><a href="{{ . }}">Read Full Article →</a></p>
             {{ end }}
 
-            {{- /* Metadata footer */ -}}
-            <div style="margin-top:20px;padding-top:15px;border-top:1px solid #eee;font-size:0.85em;color:#888;">
-              <span>Saved on {{ .Date.Format "January 2, 2006" }}</span>
-              <span style="margin-left:15px;">
-                <a href="{{ .Permalink }}" style="color:#667eea;">View on {{ $.Site.Title }}</a>
-              </span>
+            <hr />
+            <p>
+              <small>Saved on {{ .Date.Format "January 2, 2006" }}</small>
+              |
+              <a href="{{ .Permalink }}">View on {{ $.Site.Title }}</a>
+            </p>
             </div>
-            </article>
             <img src="https://tinylytics.app/pixel/WV5Khk7ZG6MZe6q49ikx.gif" alt="" width="1" height="1" />
         {{ printf "]]>" | safeHTML }}</description>
         </item>

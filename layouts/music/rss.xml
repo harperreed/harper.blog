@@ -1,12 +1,11 @@
-{{- /* ABOUTME: Rich RSS feed template for music/Spotify tracks */}}
-{{- /* ABOUTME: Includes album art, Spotify embeds, duration, and preview links */}}
+{{- /* ABOUTME: RSS feed template for music/Spotify tracks */}}
+{{- /* ABOUTME: Includes album art, duration, and Spotify links */}}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 {{- printf "<?xml-stylesheet href=\"/pretty-feed-v3.xsl\" type=\"text/xsl\"?>" | safeHTML }}
 <rss version="2.0"
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:media="http://search.yahoo.com/mrss/"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ .Site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
@@ -48,88 +47,74 @@
         {{ end }}
         {{- /* Album art as media */ -}}
         {{ with .Params.album_image }}
-        <enclosure url="{{ . }}" type="image/jpeg" />
-        <media:content url="{{ . }}" medium="image" type="image/jpeg">
-          <media:title>{{ $.Params.album }} album art</media:title>
-        </media:content>
+        <enclosure url="{{ . }}" type="image/jpeg" length="0" />
+        <media:content url="{{ . }}" medium="image" type="image/jpeg" />
         <media:thumbnail url="{{ . }}" width="300" height="300" />
         <itunes:image href="{{ . }}" />
         {{ end }}
         {{- /* Preview audio if available */ -}}
         {{ with .Params.preview_url }}
-        <media:content url="{{ . }}" medium="audio" type="audio/mpeg">
-          <media:title>{{ $.Title }} preview</media:title>
-        </media:content>
+        <media:content url="{{ . }}" medium="audio" type="audio/mpeg" />
         {{ end }}
         {{- /* Categories */ -}}
         <category>Music</category>
         {{ with .Params.artist }}<category>{{ . }}</category>{{ end }}
         <description>{{ printf "<![CDATA[" | safeHTML }}
-            <div style="display:flex;gap:20px;flex-wrap:wrap;align-items:flex-start;">
-            {{- /* Large album art */ -}}
+            <div>
+            {{- /* Album art */ -}}
             {{ with .Params.album_image }}
-            <div style="flex:0 0 250px;">
-              <img src="{{ . }}" alt="{{ $.Params.album }} album art" style="width:250px;height:250px;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.3);"/>
-            </div>
+            <p><img src="{{ . }}" alt="{{ $.Params.album }} album art" style="max-width:250px;height:auto;" /></p>
             {{ end }}
-            <div style="flex:1;min-width:250px;">
-              <h2 style="margin:0 0 5px 0;">🎵 {{ .Title }}</h2>
-              {{ with .Params.artist }}<p style="font-size:1.2em;margin:0 0 10px 0;"><strong>{{ . }}</strong></p>{{ end }}
-              {{ with .Params.album }}<p style="color:#666;margin:0 0 15px 0;">from <em>{{ . }}</em></p>{{ end }}
 
-              {{- /* Duration */ -}}
-              {{ with .Params.duration }}
-              {{ $totalSeconds := div . 1000 }}
-              {{ $minutes := div $totalSeconds 60 }}
-              {{ $seconds := mod $totalSeconds 60 }}
-              <p style="margin:10px 0;">
-                <span style="display:inline-block;padding:4px 12px;background:#1DB954;color:#fff;border-radius:20px;font-size:0.9em;">
-                  ⏱️ {{ $minutes }}:{{ printf "%02d" $seconds }}
-                </span>
-              </p>
-              {{ end }}
+            <h2>{{ .Title }}</h2>
+            {{ with .Params.artist }}<p><strong>{{ . }}</strong></p>{{ end }}
+            {{ with .Params.album }}<p>from <em>{{ . }}</em></p>{{ end }}
 
-              {{- /* Spotify embed */ -}}
+            {{- /* Duration */ -}}
+            {{ with .Params.duration }}
+            {{ $totalSeconds := div . 1000 }}
+            {{ $minutes := div $totalSeconds 60 }}
+            {{ $seconds := mod $totalSeconds 60 }}
+            <p>Duration: {{ $minutes }}:{{ printf "%02d" $seconds }}</p>
+            {{ end }}
+
+            {{- /* Spotify embed */ -}}
+            {{ with .Params.spotify_url }}
+            {{ $trackId := replaceRE ".*track/" "" . }}
+            <p>
+              <iframe
+                src="https://open.spotify.com/embed/track/{{ $trackId }}?utm_source=generator&theme=0"
+                width="100%"
+                height="152"
+                frameBorder="0"
+                allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+                loading="lazy"
+                style="max-width:400px;">
+              </iframe>
+            </p>
+            {{ end }}
+
+            {{- /* Links */ -}}
+            <p>
               {{ with .Params.spotify_url }}
-              {{ $trackId := replaceRE ".*track/" "" . }}
-              <div style="margin:15px 0;">
-                <iframe
-                  src="https://open.spotify.com/embed/track/{{ $trackId }}?utm_source=generator&theme=0"
-                  width="100%"
-                  height="152"
-                  frameBorder="0"
-                  allowfullscreen=""
-                  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-                  loading="lazy"
-                  style="border-radius:12px;max-width:400px;">
-                </iframe>
-              </div>
+              <a href="{{ . }}">Play on Spotify</a>
               {{ end }}
+            </p>
 
-              {{- /* Action buttons */ -}}
-              <div style="margin:15px 0;">
-                {{ with .Params.spotify_url }}
-                <a href="{{ . }}" style="display:inline-block;padding:10px 20px;background:#1DB954;color:#fff;text-decoration:none;border-radius:25px;font-weight:bold;">
-                  <span style="vertical-align:middle;">▶️ Play on Spotify</span>
-                </a>
-                {{ end }}
-                {{ with .Params.preview_url }}
-                <audio controls style="display:block;margin-top:10px;max-width:300px;">
-                  <source src="{{ . }}" type="audio/mpeg">
-                  Your browser does not support audio.
-                </audio>
-                <p style="font-size:0.8em;color:#888;margin:5px 0;">30-second preview</p>
-                {{ end }}
-              </div>
+            {{ with .Params.preview_url }}
+            <p>
+              <audio controls>
+                <source src="{{ . }}" type="audio/mpeg">
+              </audio>
+              <br /><small>30-second preview</small>
+            </p>
+            {{ end }}
 
-              <p style="font-size:0.9em;color:#888;margin-top:15px;">
-                Added {{ .Date.Format "January 2, 2006" }}
-              </p>
-            </div>
-            </div>
+            <p><small>Added {{ .Date.Format "January 2, 2006" }}</small></p>
 
-            <hr style="margin:20px 0;border:none;border-top:1px solid #eee;"/>
+            <hr />
             <p><a href="{{ .Permalink }}">View on {{ $.Site.Title }}</a></p>
+            </div>
             <img src="https://tinylytics.app/pixel/WV5Khk7ZG6MZe6q49ikx.gif" alt="" width="1" height="1" />
         {{ printf "]]>" | safeHTML }}</description>
         </item>
