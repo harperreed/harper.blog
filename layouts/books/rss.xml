@@ -7,7 +7,7 @@
      xmlns:media="http://search.yahoo.com/mrss/"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <title>Books read by Harper - harper.blog</title>
     <link>{{ .Permalink }}</link>
     <description>Recent Books{{ if ne .Title .Site.Title }} on {{ .Site.Title }}{{ end }}</description>
     <generator>Hugo -- gohugo.io</generator>

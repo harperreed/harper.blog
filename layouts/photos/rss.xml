@@ -6,7 +6,7 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>{{ .Site.Title }} - Photos</title>
+    <title>Snapshots taken by Harper - harper.blog</title>
     <link>{{ .Site.BaseURL }}photos/</link>
     <description>Photo posts and snapshots from {{ .Site.Title }}</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -20,7 +20,7 @@
     {{ end }}
     <image>
       <url>{{ .Site.BaseURL }}images/favicon.png</url>
-      <title>{{ .Site.Title }} - Photos</title>
+      <title>Snapshots taken by Harper - harper.blog</title>
       <link>{{ .Site.BaseURL }}photos/</link>
     </image>
     {{- /* Get notes that have image resources */ -}}
