@@ -49,7 +49,7 @@
         <category>{{ . }}</category>
         {{ end }}
         {{ end }}
-        <content:encoded><![CDATA[
+        <description>{{ printf "<![CDATA[" | safeHTML }}
             <article style="font-family:-apple-system,BlinkMacSystemFont,sans-serif;">
             {{- /* Header with source info */ -}}
             {{ with .Params.original_url }}
@@ -112,7 +112,7 @@
             </div>
             </article>
             <img src="https://tinylytics.app/pixel/WV5Khk7ZG6MZe6q49ikx.gif" alt="" width="1" height="1" />
-        ]]></content:encoded>
+        {{ printf "]]>" | safeHTML }}</description>
         </item>
     {{ end }}
   </channel>

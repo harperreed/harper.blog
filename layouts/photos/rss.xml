@@ -57,7 +57,7 @@
         <media:thumbnail url="{{ .Permalink }}" />
         {{ end }}
         <category>Photos</category>
-        <content:encoded><![CDATA[
+        <description>{{ printf "<![CDATA[" | safeHTML }}
             <article style="font-family:-apple-system,BlinkMacSystemFont,sans-serif;">
             {{- /* Photo count badge */ -}}
             {{ $imageCount := len $images }}
@@ -145,7 +145,7 @@
 
             </article>
             <img src="https://tinylytics.app/pixel/WV5Khk7ZG6MZe6q49ikx.gif" alt="" width="1" height="1" />
-        ]]></content:encoded>
+        {{ printf "]]>" | safeHTML }}</description>
         </item>
         {{ end }}
     {{ end }}
