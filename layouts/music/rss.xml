@@ -7,7 +7,7 @@
      xmlns:media="http://search.yahoo.com/mrss/"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <title>Tracks favorited by Harper - harper.blog</title>
     <link>{{ .Permalink }}</link>
     <description>Recent Music{{ if ne .Title .Site.Title }} on {{ .Site.Title }}{{ end }}</description>
     <generator>Hugo -- gohugo.io</generator>

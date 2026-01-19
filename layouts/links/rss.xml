@@ -6,7 +6,7 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <title>Links curated by Harper - harper.blog</title>
     <link>{{ .Permalink }}</link>
     <description>Recent Links{{ if ne .Title .Site.Title }} on {{ .Site.Title }}{{ end }} - Curated articles and interesting reads</description>
     <generator>Hugo -- gohugo.io</generator>
