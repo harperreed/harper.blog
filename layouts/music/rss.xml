@@ -64,7 +64,7 @@
         {{- /* Categories */ -}}
         <category>Music</category>
         {{ with .Params.artist }}<category>{{ . }}</category>{{ end }}
-        <content:encoded><![CDATA[
+        <description>{{ printf "<![CDATA[" | safeHTML }}
             <div style="display:flex;gap:20px;flex-wrap:wrap;align-items:flex-start;">
             {{- /* Large album art */ -}}
             {{ with .Params.album_image }}
@@ -131,7 +131,7 @@
             <hr style="margin:20px 0;border:none;border-top:1px solid #eee;"/>
             <p><a href="{{ .Permalink }}">View on {{ $.Site.Title }}</a></p>
             <img src="https://tinylytics.app/pixel/WV5Khk7ZG6MZe6q49ikx.gif" alt="" width="1" height="1" />
-        ]]></content:encoded>
+        {{ printf "]]>" | safeHTML }}</description>
         </item>
     {{ end }}
   </channel>
