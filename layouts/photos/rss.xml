@@ -1,0 +1,153 @@
+{{- /* ABOUTME: Rich RSS feed template for photos from notes */}}
+{{- /* ABOUTME: Shows ALL images from notes with galleries and media enclosures */}}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+{{- printf "<?xml-stylesheet href=\"/pretty-feed-v3.xsl\" type=\"text/xsl\"?>" | safeHTML }}
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>{{ .Site.Title }} - Photos</title>
+    <link>{{ .Site.BaseURL }}photos/</link>
+    <description>Photo posts and snapshots from {{ .Site.Title }}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    {{ with .Site.LanguageCode }}<language>{{ . }}</language>{{ end }}
+    {{ with .Site.Author.email }}<managingEditor>{{ . }}{{ with $.Site.Author.name }} ({{ . }}){{ end }}</managingEditor>{{ end }}
+    {{ with .Site.Author.email }}<webMaster>{{ . }}{{ with $.Site.Author.name }} ({{ . }}){{ end }}</webMaster>{{ end }}
+    {{ with .Site.Copyright }}<copyright>{{ . }}</copyright>{{ end }}
+    <lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
+    {{ with .OutputFormats.Get "RSS" }}
+    {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+    {{ end }}
+    <image>
+      <url>{{ .Site.BaseURL }}images/favicon.png</url>
+      <title>{{ .Site.Title }} - Photos</title>
+      <link>{{ .Site.BaseURL }}photos/</link>
+    </image>
+    {{- /* Get notes that have image resources */ -}}
+    {{ $notes := where .Site.RegularPages "Type" "notes" }}
+    {{ $limit := .Site.Config.Services.RSS.Limit }}
+    {{ $count := 0 }}
+    {{ range $notes }}
+        {{- /* Check if this note has any image resources */ -}}
+        {{ $images := .Resources.ByType "image" }}
+        {{ if and (gt (len $images) 0) (lt $count $limit) }}
+        {{ $count = add $count 1 }}
+        <item>
+        <title>{{ with .Title }}{{ . }}{{ else }}📷 Photo Post{{ end }}</title>
+        <link>{{ .Permalink }}</link>
+        <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+        {{ with $.Site.Author.email }}<author>{{ . }}{{ with $.Site.Author.name }} ({{ . }}){{ end }}</author>{{ end }}
+        <guid>{{ .Permalink }}</guid>
+        {{- /* First image as primary enclosure */ -}}
+        {{ $firstImage := index $images 0 }}
+        {{ with $firstImage }}
+        <enclosure url="{{ .Permalink }}" type="{{ .MediaType }}" />
+        {{ end }}
+        {{- /* Media group with ALL images */ -}}
+        <media:group>
+        {{ range $idx, $img := $images }}
+          <media:content url="{{ $img.Permalink }}" medium="image" type="{{ $img.MediaType }}"{{ with $img.Width }} width="{{ . }}"{{ end }}{{ with $img.Height }} height="{{ . }}"{{ end }}>
+            <media:title>Image {{ add $idx 1 }}</media:title>
+          </media:content>
+        {{ end }}
+        </media:group>
+        {{- /* Thumbnail from first image */ -}}
+        {{ with $firstImage }}
+        <media:thumbnail url="{{ .Permalink }}" />
+        {{ end }}
+        <category>Photos</category>
+        <content:encoded><![CDATA[
+            <article style="font-family:-apple-system,BlinkMacSystemFont,sans-serif;">
+            {{- /* Photo count badge */ -}}
+            {{ $imageCount := len $images }}
+            <div style="margin-bottom:15px;">
+              <span style="display:inline-block;padding:6px 14px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#fff;border-radius:20px;font-size:0.9em;font-weight:600;">
+                📷 {{ $imageCount }} photo{{ if gt $imageCount 1 }}s{{ end }}
+              </span>
+              <span style="margin-left:10px;color:#888;font-size:0.9em;">
+                {{ .Date.Format "January 2, 2006" }}
+              </span>
+            </div>
+
+            {{- /* Caption/Content first if exists */ -}}
+            {{ with .Content }}
+            <div style="margin:15px 0;font-size:1.1em;line-height:1.5;">
+              {{ . | html }}
+            </div>
+            {{ end }}
+
+            {{- /* Photo gallery - show ALL images */ -}}
+            {{ if eq $imageCount 1 }}
+            {{- /* Single image - show large */ -}}
+            {{ $img := index $images 0 }}
+            <div style="margin:20px 0;">
+              <a href="{{ .Permalink }}">
+                <img src="{{ $img.Permalink }}" alt="{{ with .Title }}{{ . }}{{ else }}Photo{{ end }}" style="max-width:100%;height:auto;border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.15);"/>
+              </a>
+            </div>
+            {{ else if eq $imageCount 2 }}
+            {{- /* Two images - side by side */ -}}
+            <div style="display:flex;gap:10px;margin:20px 0;">
+              {{ range $images }}
+              <div style="flex:1;">
+                <a href="{{ $.Permalink }}">
+                  <img src="{{ .Permalink }}" alt="Photo" style="width:100%;height:250px;object-fit:cover;border-radius:8px;"/>
+                </a>
+              </div>
+              {{ end }}
+            </div>
+            {{ else if eq $imageCount 3 }}
+            {{- /* Three images - 1 large + 2 small */ -}}
+            <div style="display:grid;grid-template-columns:2fr 1fr;grid-template-rows:1fr 1fr;gap:8px;margin:20px 0;">
+              {{ range $idx, $img := $images }}
+              {{ if eq $idx 0 }}
+              <div style="grid-row:span 2;">
+                <a href="{{ $.Permalink }}">
+                  <img src="{{ $img.Permalink }}" alt="Photo" style="width:100%;height:100%;object-fit:cover;border-radius:8px;"/>
+                </a>
+              </div>
+              {{ else }}
+              <div>
+                <a href="{{ $.Permalink }}">
+                  <img src="{{ $img.Permalink }}" alt="Photo" style="width:100%;height:150px;object-fit:cover;border-radius:8px;"/>
+                </a>
+              </div>
+              {{ end }}
+              {{ end }}
+            </div>
+            {{ else }}
+            {{- /* 4+ images - grid layout */ -}}
+            <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin:20px 0;">
+              {{ range $idx, $img := $images }}
+              {{ if lt $idx 4 }}
+              <div style="position:relative;">
+                <a href="{{ $.Permalink }}">
+                  <img src="{{ $img.Permalink }}" alt="Photo" style="width:100%;height:200px;object-fit:cover;border-radius:8px;"/>
+                  {{ if and (eq $idx 3) (gt $imageCount 4) }}
+                  <div style="position:absolute;inset:0;background:rgba(0,0,0,0.6);border-radius:8px;display:flex;align-items:center;justify-content:center;">
+                    <span style="color:#fff;font-size:1.5em;font-weight:bold;">+{{ sub $imageCount 4 }} more</span>
+                  </div>
+                  {{ end }}
+                </a>
+              </div>
+              {{ end }}
+              {{ end }}
+            </div>
+            {{ end }}
+
+            {{- /* View all link */ -}}
+            <div style="margin:20px 0;text-align:center;">
+              <a href="{{ .Permalink }}" style="display:inline-block;padding:12px 24px;background:#333;color:#fff;text-decoration:none;border-radius:8px;font-weight:600;">
+                View Full Post →
+              </a>
+            </div>
+
+            </article>
+            <img src="https://tinylytics.app/pixel/WV5Khk7ZG6MZe6q49ikx.gif" alt="" width="1" height="1" />
+        ]]></content:encoded>
+        </item>
+        {{ end }}
+    {{ end }}
+  </channel>
+</rss>

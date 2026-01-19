@@ -1,0 +1,51 @@
+{{- /* ABOUTME: List template for photos section */}}
+{{- /* ABOUTME: Shows notes that have image resources in a grid layout */}}
+{{ define "main" }}
+<main>
+  <header>
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p>{{ . }}</p>{{ end }}
+    <p><a href="{{ .RelPermalink }}index.xml">📡 RSS Feed</a></p>
+  </header>
+
+  <div class="photo-grid">
+    {{- /* Get notes that have image resources */ -}}
+    {{ $notes := where .Site.RegularPages "Type" "notes" }}
+    {{ range $notes }}
+      {{ $images := .Resources.ByType "image" }}
+      {{ if gt (len $images) 0 }}
+      <article class="photo-item">
+        {{ $firstImage := index $images 0 }}
+        <a href="{{ .Permalink }}">
+          <img src="{{ $firstImage.RelPermalink }}" alt="{{ with .Title }}{{ . }}{{ else }}Photo{{ end }}" loading="lazy" />
+        </a>
+        <div class="photo-meta">
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+          {{ with .Title }}<p>{{ . }}</p>{{ end }}
+        </div>
+      </article>
+      {{ end }}
+    {{ end }}
+  </div>
+</main>
+
+<style>
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+}
+.photo-item img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+.photo-meta {
+  padding: 0.5rem 0;
+}
+.photo-meta time {
+  font-size: 0.9em;
+  color: var(--muted-text);
+}
+</style>
+{{ end }}
