@@ -1,12 +1,11 @@
-{{- /* ABOUTME: Rich RSS feed template for books with full metadata */}}
+{{- /* ABOUTME: RSS feed template for books with metadata */}}
 {{- /* ABOUTME: Includes cover images, ratings, author info, and reading dates */}}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 {{- printf "<?xml-stylesheet href=\"/pretty-feed-v3.xsl\" type=\"text/xsl\"?>" | safeHTML }}
 <rss version="2.0"
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:media="http://search.yahoo.com/mrss/"
-     xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ .Site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
@@ -44,82 +43,68 @@
         {{ with .Params.book_author }}<dc:creator>{{ . }}</dc:creator>{{ end }}
         {{- /* Book cover as media content */ -}}
         {{ with .Params.image_url }}
-        <enclosure url="{{ . }}" type="image/jpeg" />
-        <media:content url="{{ . }}" medium="image" type="image/jpeg">
-          <media:title>{{ $.Title }} cover</media:title>
-        </media:content>
+        <enclosure url="{{ . }}" type="image/jpeg" length="0" />
+        <media:content url="{{ . }}" medium="image" type="image/jpeg" />
         <media:thumbnail url="{{ . }}" />
         {{ end }}
         {{- /* Tags as categories */ -}}
         {{ with .Params.tags }}{{ range . }}<category>{{ . }}</category>{{ end }}{{ end }}
         <description>{{ printf "<![CDATA[" | safeHTML }}
-            <div style="display:flex;gap:20px;flex-wrap:wrap;">
-            {{- /* Large book cover */ -}}
+            <div>
+            {{- /* Book cover */ -}}
             {{ with .Params.image_url }}
-            <div style="flex:0 0 200px;">
-              <img src="{{ . }}" alt="{{ $.Title }} cover" style="width:200px;height:auto;border-radius:4px;box-shadow:0 2px 8px rgba(0,0,0,0.2);"/>
-            </div>
+            <p><img src="{{ . }}" alt="{{ $.Title }} cover" style="max-width:200px;height:auto;" /></p>
             {{ end }}
-            <div style="flex:1;min-width:250px;">
-              <h2 style="margin:0 0 10px 0;">{{ .Title }}</h2>
-              {{ with .Params.book_author }}<p style="font-size:1.1em;color:#666;margin:0 0 15px 0;">by <strong>{{ . }}</strong></p>{{ end }}
 
-              {{- /* Tagline */ -}}
-              {{ with .Params.tagline }}<p style="font-style:italic;color:#888;margin:0 0 15px 0;">"{{ . }}"</p>{{ end }}
+            <h2>{{ .Title }}</h2>
+            {{ with .Params.book_author }}<p>by <strong>{{ . }}</strong></p>{{ end }}
 
-              {{- /* Ratings */ -}}
-              <div style="margin:10px 0;">
-                {{ with .Params.review_rating }}
-                <span style="font-size:1.2em;">
-                  {{- $rating := int . -}}
-                  {{- range seq $rating }}⭐{{ end -}}
-                </span>
-                <strong> My Rating: {{ . }}/5</strong>
-                {{ end }}
-                {{ with .Params.average_rating }}
-                <span style="color:#666;margin-left:10px;">(Goodreads avg: {{ . }})</span>
-                {{ end }}
-              </div>
+            {{- /* Tagline */ -}}
+            {{ with .Params.tagline }}<p><em>"{{ . }}"</em></p>{{ end }}
 
-              {{- /* Book details */ -}}
-              <table style="margin:15px 0;border-collapse:collapse;">
-                {{ with .Params.num_pages }}<tr><td style="padding:3px 10px 3px 0;color:#666;">Pages:</td><td>{{ . }}</td></tr>{{ end }}
-                {{ with .Params.started_at }}
-                {{ $startDate := time . }}
-                <tr><td style="padding:3px 10px 3px 0;color:#666;">Started:</td><td>{{ $startDate.Format "Jan 2, 2006" }}</td></tr>
-                {{ end }}
-                <tr><td style="padding:3px 10px 3px 0;color:#666;">Finished:</td><td>{{ .Date.Format "Jan 2, 2006" }}</td></tr>
-              </table>
+            {{- /* Ratings */ -}}
+            {{ with .Params.review_rating }}
+            <p>
+              {{- $rating := int . -}}
+              {{- range seq $rating }}⭐{{ end }} <strong>My Rating: {{ . }}/5</strong>
+              {{ with $.Params.average_rating }} (Goodreads avg: {{ . }}){{ end }}
+            </p>
+            {{ end }}
 
-              {{- /* Links */ -}}
-              <div style="margin:15px 0;">
-                {{ with .Params.asin }}
-                {{ $url := print "https://www.amazon.com/dp/" . "?tag=" $tag }}
-                <a href="{{ $url }}" style="display:inline-block;padding:8px 16px;background:#ff9900;color:#000;text-decoration:none;border-radius:4px;margin-right:10px;">📚 Buy on Amazon</a>
-                {{ end }}
-                {{ with .Params.goodreads_link }}
-                <a href="{{ . }}" style="display:inline-block;padding:8px 16px;background:#553b08;color:#fff;text-decoration:none;border-radius:4px;">📖 View on Goodreads</a>
-                {{ end }}
-              </div>
-            </div>
-            </div>
+            {{- /* Book details */ -}}
+            <ul>
+              {{ with .Params.num_pages }}<li>Pages: {{ . }}</li>{{ end }}
+              {{ with .Params.started_at }}
+              {{ $startDate := time . }}
+              <li>Started: {{ $startDate.Format "Jan 2, 2006" }}</li>
+              {{ end }}
+              <li>Finished: {{ .Date.Format "Jan 2, 2006" }}</li>
+            </ul>
+
+            {{- /* Links */ -}}
+            <p>
+              {{ with .Params.asin }}
+              {{ $url := print "https://www.amazon.com/dp/" . "?tag=" $tag }}
+              <a href="{{ $url }}">Buy on Amazon</a>
+              {{ end }}
+              {{ with .Params.goodreads_link }}
+              | <a href="{{ . }}">View on Goodreads</a>
+              {{ end }}
+            </p>
 
             {{- /* Summary/Review */ -}}
             {{ with .Params.summary }}
-            <div style="margin-top:20px;padding:15px;background:#f5f5f5;border-left:4px solid #ddd;border-radius:4px;">
-              <p style="margin:0;">{{ . }}</p>
-            </div>
+            <blockquote>{{ . }}</blockquote>
             {{ end }}
 
             {{- /* Full content if available */ -}}
             {{ with .Content }}
-            <div style="margin-top:20px;">
-              {{ . | html }}
-            </div>
+            <div>{{ . | html }}</div>
             {{ end }}
 
-            <hr style="margin:20px 0;border:none;border-top:1px solid #eee;"/>
+            <hr />
             <p><a href="{{ .Permalink }}">View on {{ $.Site.Title }}</a></p>
+            </div>
             <img src="https://tinylytics.app/pixel/WV5Khk7ZG6MZe6q49ikx.gif" alt="" width="1" height="1" />
         {{ printf "]]>" | safeHTML }}</description>
         </item>
