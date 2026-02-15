@@ -1,0 +1,75 @@
+{{- /* ABOUTME: Generates /llms-full.txt - an expanded site overview with inlined content for LLMs */ -}}
+{{- /* ABOUTME: Same structure as llms.txt but includes full descriptions, summaries, and metadata */ -}}
+# {{ .Site.Title }}
+
+> Personal blog of {{ .Site.Params.author.name }} ({{ .Site.Params.author.email }}). A computer operator who likes to make things, have fun, and hang out on the internet. Blogging since 2000 with {{ len (where .Site.RegularPages "Section" "post") }}+ posts covering technology, AI, personal reflections, and internet culture. The site also tracks books read, music listened to, curated links, and short-form notes.
+
+Harper can be contacted at {{ .Site.Params.author.email }} or on Bluesky at @harper.lol. Main website: harper.lol
+
+## About
+{{ range where .Site.Pages "Params.url" "about" }}
+{{ .Plain | truncate 1000 }}
+{{ end }}
+
+## Now
+{{ range first 1 (sort (where .Site.RegularPages "Section" "now") "Date" "desc") }}
+**{{ .Title }}** ({{ .Date.Format "2006-01-02" }})
+URL: {{ .Permalink }}
+
+{{ .Plain | truncate 2000 }}
+{{ end }}
+
+## Recent Posts
+{{ range first 15 (sort (where .Site.RegularPages "Section" "post") "Date" "desc") }}
+### [{{ .Title }}]({{ .Permalink }})
+Date: {{ .Date.Format "2006-01-02" }}
+{{ with .Description }}Description: {{ . }}{{ end }}
+{{ with .Params.tags }}Tags: {{ delimit . ", " }}{{ end }}
+{{ .Plain | truncate 500 }}
+
+---
+{{ end }}
+
+## Notes
+
+Short-form micro-posts and quick thoughts. Full archive: {{ .Site.BaseURL }}notes/
+{{ range first 15 (sort (where .Site.RegularPages "Section" "notes") "Date" "desc") }}
+- **{{ .Title }}** ({{ .Date.Format "2006-01-02" }}): {{ .Plain | truncate 200 }} [Read more]({{ .Permalink }})
+{{- end }}
+
+## Books
+
+Books Harper has read with ratings and reviews. Full list: {{ .Site.BaseURL }}media/books/
+{{ range first 15 (sort (where .Site.RegularPages "Section" "books") "Date" "desc") }}
+- **{{ .Title }}** by {{ .Params.book_author }}{{ with .Params.review_rating }} | Rating: {{ . }}/5{{ end }}{{ with .Params.num_pages }} | {{ . }} pages{{ end }} | {{ with .Params.summary }}{{ . }}{{ end }} [Details]({{ .Permalink }})
+{{- end }}
+
+## Music
+
+Recently played tracks from Spotify. Full collection: {{ .Site.BaseURL }}media/music/
+{{ range first 15 (sort (where .Site.RegularPages "Section" "music") "Date" "desc") }}
+- **{{ .Title }}** by {{ .Params.artist }} on _{{ .Params.album }}_ ({{ .Date.Format "2006-01-02" }}) {{ with .Params.spotify_url }}[Spotify]({{ . }}){{ end }}
+{{- end }}
+
+## Links
+
+Curated articles and resources from around the web. Full archive: {{ .Site.BaseURL }}media/links/
+{{ range first 15 (sort (where .Site.RegularPages "Section" "links") "Date" "desc") }}
+- **[{{ .Title }}]({{ .Params.original_url }})** ({{ .Date.Format "2006-01-02" }}): {{ .Params.summary | default .Description }} [Blog entry]({{ .Permalink }})
+{{- end }}
+
+## Site Stats
+
+- Total posts: {{ len (where .Site.RegularPages "Section" "post") }}
+- Total notes: {{ len (where .Site.RegularPages "Section" "notes") }}
+- Total books: {{ len (where .Site.RegularPages "Section" "books") }}
+- Total music tracks: {{ len (where .Site.RegularPages "Section" "music") }}
+- Total curated links: {{ len (where .Site.RegularPages "Section" "links") }}
+- Languages: English, Japanese, Spanish, Korean, Chinese, Indonesian
+
+## Feeds & Technical
+
+- [RSS Feed]({{ .Site.BaseURL }}index.xml): Main blog RSS feed (recent posts, full content)
+- [Sitemap]({{ .Site.BaseURL }}sitemap.xml): Complete sitemap of all pages
+- [Posts Archive]({{ .Site.BaseURL }}posts): Full archive of all blog posts
+- [llms.txt]({{ .Site.BaseURL }}llms.txt): Concise version of this file
