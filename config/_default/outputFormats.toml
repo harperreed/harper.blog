@@ -1,8 +1,21 @@
 
 # MediaRSS format for aggregating media content (books, music, links)
-[outputFormats.MediaRSS]
+[MediaRSS]
 mediaType = "application/rss+xml"
 baseName = "media"
 isPlainText = true
 rel = "alternate"
 
+# llms.txt - concise site overview for LLMs (llmstxt.org spec)
+[llmstxt]
+mediaType = "text/plain"
+baseName = "llms"
+isPlainText = true
+notAlternative = true
+
+# llms-full.txt - expanded version with inlined content
+[llmstxtfull]
+mediaType = "text/plain"
+baseName = "llms-full"
+isPlainText = true
+notAlternative = true
