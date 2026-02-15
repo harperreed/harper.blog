@@ -1,0 +1,52 @@
+{{- /* ABOUTME: Generates /llms.txt - a concise site overview for LLMs following the llmstxt.org spec */ -}}
+{{- /* ABOUTME: Outputs Markdown with H1, blockquote summary, and H2 sections linking to key content */ -}}
+# {{ .Site.Title }}
+
+> Personal blog of {{ .Site.Params.author.name }} ({{ .Site.Params.author.email }}). A computer operator who likes to make things, have fun, and hang out on the internet. Blogging since 2000 with {{ len (where .Site.RegularPages "Section" "post") }}+ posts covering technology, AI, personal reflections, and internet culture. The site also tracks books read, music listened to, curated links, and short-form notes.
+
+## About
+
+- [About Harper]({{ .Site.BaseURL }}about): Who Harper is, contact info, and links to other web presences
+{{- with index (first 1 (sort (where .Site.RegularPages "Section" "now") "Date" "desc")) 0 }}
+- [Now]({{ .Permalink }}): What Harper is currently up to
+{{- end }}
+
+## Recent Posts
+{{ range first 10 (sort (where .Site.RegularPages "Section" "post") "Date" "desc") }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Description }}
+{{- end }}
+
+## Notes
+
+- [All Notes]({{ .Site.BaseURL }}notes/): Short-form micro-posts and quick thoughts
+{{ range first 10 (sort (where .Site.RegularPages "Section" "notes") "Date" "desc") }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Description }}
+{{- end }}
+
+## Books
+
+- [Reading List]({{ .Site.BaseURL }}media/books/): Books Harper has read with ratings and reviews
+{{ range first 10 (sort (where .Site.RegularPages "Section" "books") "Date" "desc") }}
+- [{{ .Title }}]({{ .Permalink }}): by {{ .Params.book_author }}{{ with .Params.review_rating }}, rated {{ . }}/5{{ end }}
+{{- end }}
+
+## Music
+
+- [Music Collection]({{ .Site.BaseURL }}media/music/): Recently played tracks from Spotify
+{{ range first 10 (sort (where .Site.RegularPages "Section" "music") "Date" "desc") }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Params.artist }} on {{ .Params.album }}
+{{- end }}
+
+## Links
+
+- [Curated Links]({{ .Site.BaseURL }}media/links/): Interesting articles and resources from around the web
+{{ range first 10 (sort (where .Site.RegularPages "Section" "links") "Date" "desc") }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Params.summary | default .Description }}
+{{- end }}
+
+## Feeds & Technical
+
+- [RSS Feed]({{ .Site.BaseURL }}index.xml): Main blog RSS feed (recent posts)
+- [Sitemap]({{ .Site.BaseURL }}sitemap.xml): Complete sitemap of all pages
+- [Posts Archive]({{ .Site.BaseURL }}posts): Full archive of all blog posts
+- [llms-full.txt]({{ .Site.BaseURL }}llms-full.txt): Expanded version of this file with more detail
