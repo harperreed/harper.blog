@@ -1,6 +1,6 @@
 module github.com/harperreed/harper.blog
 
-go 1.19
+go 1.23
 
 require (
 	github.com/clente/hugo-bearcub v0.0.0-20250119144833-c3286b77b8e2 // indirect
