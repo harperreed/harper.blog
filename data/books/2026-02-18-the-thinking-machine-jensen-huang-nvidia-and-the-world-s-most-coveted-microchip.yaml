@@ -1,0 +1,760 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.33'
+    id: '1352780'
+    image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+      '@nophoto': 'true'
+    link: https://www.goodreads.com/author/show/1352780.Stephen_Witt
+    name: Stephen Witt
+    ratings_count: '4226'
+    role: null
+    small_image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png
+      '@nophoto': 'true'
+    text_reviews_count: '397'
+average_rating: '4.33'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2026-02-18T00:00:00-08:00'
+description: null
+edition_information: null
+format: null
+id: '211399637'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1741381944l/211399637._SX98_.jpg
+is_ebook: 'true'
+isbn: 0593832701
+isbn13: '9780593832707'
+json: '{"id": "211399637", "isbn": "0593832701", "isbn13": "9780593832707", "text_reviews_count":
+  {"@type": "integer", "#text": "26"}, "uri": "kca://book/amzn1.gr.book.v3.8FxhTQVjEe7-zqv5",
+  "title": "The Thinking Machine: Jensen Huang, Nvidia, and the World''s Most Coveted
+  Microchip", "title_without_series": "The Thinking Machine: Jensen Huang, Nvidia,
+  and the World''s Most Coveted Microchip", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1741381944l/211399637._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1741381944l/211399637._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/211399637-the-thinking-machine",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "4.33", "ratings_count": "3089", "description": null, "authors": {"author": {"id":
+  "1352780", "name": "Stephen Witt", "role": null, "image_url": {"@nophoto": "true",
+  "#text": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"},
+  "small_image_url": {"@nophoto": "true", "#text": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"},
+  "link": "https://www.goodreads.com/author/show/1352780.Stephen_Witt", "average_rating":
+  "4.33", "ratings_count": "4226", "text_reviews_count": "397"}}, "published": null,
+  "work": {"id": "218822936", "uri": "kca://work/amzn1.gr.work.v3.gLIwZUZhuFYMwKCD"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/8343883230",
+  "read_at": "Wed Feb 18 00:00:00 -0800 2026", "started_at": "Sun Feb 08 00:00:00
+  -0800 2026", "date": "Wed Feb 18 00:00:00 -0800 2026"}'
+kindle_asin: B0D1QFBGQD
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/211399637-the-thinking-machine
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '12905'
+    '@name': to-read
+  - '@count': '1014'
+    '@name': currently-reading
+  - '@count': '143'
+    '@name': business
+  - '@count': '82'
+    '@name': non-fiction
+  - '@count': '78'
+    '@name': biography
+  - '@count': '71'
+    '@name': technology
+  - '@count': '59'
+    '@name': ai
+  - '@count': '58'
+    '@name': tech
+  - '@count': '38'
+    '@name': nonfiction
+  - '@count': '22'
+    '@name': science
+  - '@count': '21'
+    '@name': biographies
+  - '@count': '16'
+    '@name': history
+  - '@count': '15'
+    '@name': artificial-intelligence
+  - '@count': '14'
+    '@name': kindle
+  - '@count': '14'
+    '@name': audiobook
+  - '@count': '13'
+    '@name': audiobooks
+  - '@count': '12'
+    '@name': favorites
+  - '@count': '10'
+    '@name': entrepreneurship
+  - '@count': '8'
+    '@name': leadership
+  - '@count': '8'
+    '@name': to-buy
+  - '@count': '8'
+    '@name': library
+  - '@count': '7'
+    '@name': science-tech
+  - '@count': '7'
+    '@name': computer-science
+  - '@count': '6'
+    '@name': economics
+  - '@count': '6'
+    '@name': audible
+  - '@count': '6'
+    '@name': owned
+  - '@count': '5'
+    '@name': to-read-nonfiction
+  - '@count': '5'
+    '@name': it
+  - '@count': '5'
+    '@name': next
+  - '@count': '5'
+    '@name': finance
+  - '@count': '5'
+    '@name': to-read-non-fiction
+  - '@count': '5'
+    '@name': bio
+  - '@count': '5'
+    '@name': biography-memoir
+  - '@count': '5'
+    '@name': audio
+  - '@count': '5'
+    '@name': business-economics
+  - '@count': '4'
+    '@name': engineering
+  - '@count': '4'
+    '@name': audio-book
+  - '@count': '4'
+    '@name': work
+  - '@count': '4'
+    '@name': economist
+  - '@count': '4'
+    '@name': business-history
+  - '@count': '4'
+    '@name': business-leadership
+  - '@count': '4'
+    '@name': wish-list
+  - '@count': '4'
+    '@name': business-finance
+  - '@count': '3'
+    '@name': read-2026
+  - '@count': '3'
+    '@name': want-to-buy
+  - '@count': '3'
+    '@name': 2026-books
+  - '@count': '3'
+    '@name': biographies-memoirs
+  - '@count': '3'
+    '@name': bought
+  - '@count': '3'
+    '@name': autobiography
+  - '@count': '3'
+    '@name': 2025-books
+  - '@count': '3'
+    '@name': ft-business-book-of-the-year
+  - '@count': '3'
+    '@name': business-and-economics
+  - '@count': '3'
+    '@name': business-books
+  - '@count': '3'
+    '@name': maybe
+  - '@count': '3'
+    '@name': management
+  - '@count': '3'
+    '@name': research
+  - '@count': '3'
+    '@name': computing
+  - '@count': '3'
+    '@name': memoir-biography
+  - '@count': '3'
+    '@name': ebook
+  - '@count': '3'
+    '@name': memoirs
+  - '@count': '3'
+    '@name': business-and-finance
+  - '@count': '3'
+    '@name': nvidia
+  - '@count': '3'
+    '@name': science-technology
+  - '@count': '3'
+    '@name': society
+  - '@count': '3'
+    '@name': big-tech
+  - '@count': '3'
+    '@name': recommended
+  - '@count': '3'
+    '@name': investing
+  - '@count': '3'
+    '@name': non-fic
+  - '@count': '3'
+    '@name': science-and-technology
+  - '@count': '3'
+    '@name': 2025-reading-list
+  - '@count': '2'
+    '@name': china
+  - '@count': '2'
+    '@name': 2026-goals
+  - '@count': '2'
+    '@name': upcoming
+  - '@count': '2'
+    '@name': self-help
+  - '@count': '2'
+    '@name': 2026-reading-list
+  - '@count': '2'
+    '@name': "tecnolog\xEDa"
+  - '@count': '2'
+    '@name': 2026-to-read
+  - '@count': '2'
+    '@name': dnf
+  - '@count': '2'
+    '@name': wtr-nonfiction
+  - '@count': '2'
+    '@name': 2025-read
+  - '@count': '2'
+    '@name': big-data
+  - '@count': '2'
+    '@name': recommendations
+  - '@count': '2'
+    '@name': econ
+  - '@count': '2'
+    '@name': ia
+  - '@count': '2'
+    '@name': america
+  - '@count': '2'
+    '@name': to-download
+  - '@count': '2'
+    '@name': biographies-and-memoirs
+  - '@count': '2'
+    '@name': next-books
+  - '@count': '2'
+    '@name': memoir
+  - '@count': '2'
+    '@name': next-up
+  - '@count': '2'
+    '@name': priority
+  - '@count': '2'
+    '@name': wtr-business
+  - '@count': '2'
+    '@name': story
+  - '@count': '2'
+    '@name': tech-books
+  - '@count': '2'
+    '@name': politics
+  - '@count': '2'
+    '@name': read-next
+  - '@count': '2'
+    '@name': business-to-read
+  - '@count': '2'
+    '@name': tecnologia
+  - '@count': '2'
+    '@name': intellectual
+  - '@count': '2'
+    '@name': companies
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '3089'
+read_at: '2026-02-18T00:00:00-08:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/8343883230
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/211399637-the-thinking-machine\"\
+  >The Thinking Machine Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\"\
+  \ src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0593832701&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/211399637-the-thinking-machine?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '40241386'
+        link: https://www.goodreads.com/author/show/40241386.Eva_Dou
+        name: Eva Dou
+    average_rating: '4.33'
+    id: '214490408'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: 0593544633
+    isbn13: '9780593544631'
+    link: https://www.goodreads.com/book/show/214490408-house-of-huawei
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3089'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: 'House of Huawei: The Secret History of China''s Most Powerful Company'
+    title_without_series: 'House of Huawei: The Secret History of China''s Most Powerful
+      Company'
+    uri: kca://book/amzn1.gr.book.v3.e2Dhqyh7AVUgp05g
+    work:
+      id: '184127472'
+  - authors:
+      author:
+        id: '56500120'
+        link: https://www.goodreads.com/author/show/56500120.Dan_Wang
+        name: Dan  Wang
+    average_rating: '4.33'
+    id: '223736214'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1765233885l/223736214._SX98_.jpg
+    isbn: '1324106034'
+    isbn13: '9781324106036'
+    link: https://www.goodreads.com/book/show/223736214-breakneck
+    num_pages: '288'
+    publication_day: '26'
+    publication_month: '8'
+    publication_year: '2025'
+    ratings_count: '3089'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1765233885l/223736214._SY75_.jpg
+    title: 'Breakneck: China''s Quest to Engineer the Future'
+    title_without_series: 'Breakneck: China''s Quest to Engineer the Future'
+    uri: kca://book/amzn1.gr.book.v3.hJ-YdGms_4UX9XLW
+    work:
+      id: '230831724'
+  - authors:
+      author:
+        id: '16995547'
+        link: https://www.goodreads.com/author/show/16995547.Keach_Hagey
+        name: Keach Hagey
+    average_rating: '4.33'
+    id: '223400731'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: '1324075961'
+    isbn13: '9781324075967'
+    link: https://www.goodreads.com/book/show/223400731-the-optimist
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3089'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: 'The Optimist: Sam Altman, OpenAI, and the Race to Invent the Future'
+    title_without_series: 'The Optimist: Sam Altman, OpenAI, and the Race to Invent
+      the Future'
+    uri: kca://book/amzn1.gr.book.v3.mS2zriqu0zfzEcsm
+    work:
+      id: '230463698'
+  - authors:
+      author:
+        id: '54318169'
+        link: https://www.goodreads.com/author/show/54318169.Patrick_McGee
+        name: Patrick  McGee
+    average_rating: '4.33'
+    id: '220161058'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: '1668053373'
+    isbn13: '9781668053379'
+    link: https://www.goodreads.com/book/show/220161058-apple-in-china
+    num_pages: '448'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3089'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: 'Apple in China: The Capture of the World''s Greatest Company'
+    title_without_series: 'Apple in China: The Capture of the World''s Greatest Company'
+    uri: kca://book/amzn1.gr.book.v3.Xhsq8Cbn6d3pWkQe
+    work:
+      id: '227093067'
+  - authors:
+      author:
+        id: '49969203'
+        link: https://www.goodreads.com/author/show/49969203.Edward_Fishman
+        name: Edward Fishman
+    average_rating: '4.33'
+    id: '213870122'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: 0593712978
+    isbn13: '9780593712979'
+    link: https://www.goodreads.com/book/show/213870122-chokepoints
+    num_pages: '560'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3089'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: 'Chokepoints: American Power in the Age of Economic Warfare'
+    title_without_series: 'Chokepoints: American Power in the Age of Economic Warfare'
+    uri: kca://book/amzn1.gr.book.v3.TPQDSVznqiRujUT8
+    work:
+      id: '220126775'
+  - authors:
+      author:
+        id: '22299058'
+        link: https://www.goodreads.com/author/show/22299058.Karen_Hao
+        name: Karen Hao
+    average_rating: '4.33'
+    id: '222725518'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: 0593657519
+    isbn13: '9780593657515'
+    link: https://www.goodreads.com/book/show/222725518-empire-of-ai
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3089'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: 'Empire of AI: Dreams and Nightmares in Sam Altman''s OpenAI'
+    title_without_series: 'Empire of AI: Dreams and Nightmares in Sam Altman''s OpenAI'
+    uri: kca://book/amzn1.gr.book.v3.F1sDWg3F4UuqcXKD
+    work:
+      id: '229757365'
+  - authors:
+      author:
+        id: '23487'
+        link: https://www.goodreads.com/author/show/23487.Gary_Rivlin
+        name: Gary Rivlin
+    average_rating: '4.33'
+    id: '215217600'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1730215308l/215217600._SX98_.jpg
+    isbn: 0063347490
+    isbn13: '9780063347496'
+    link: https://www.goodreads.com/book/show/215217600-ai-valley
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3089'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1730215308l/215217600._SY75_.jpg
+    title: "AI Valley: Microsoft, Google, and the Trillion-Dollar Race to Cash In\
+      \ on Artificial Intelligence \u2013 A Definitive Insider Chronicle of the Breakthroughs\
+      \ Redefining Our World"
+    title_without_series: "AI Valley: Microsoft, Google, and the Trillion-Dollar Race\
+      \ to Cash In on Artificial Intelligence \u2013 A Definitive Insider Chronicle\
+      \ of the Breakthroughs Redefining Our World"
+    uri: kca://book/amzn1.gr.book.v3.mp_AepiICOzL4EAH
+    work:
+      id: '221641011'
+  - authors:
+      author:
+        id: '3012335'
+        link: https://www.goodreads.com/author/show/3012335.Andrew_Ross_Sorkin
+        name: Andrew Ross Sorkin
+    average_rating: '4.33'
+    id: '211179569'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1755784997l/211179569._SX98_.jpg
+    isbn: 0241479428
+    isbn13: '9780241479421'
+    link: https://www.goodreads.com/book/show/211179569-1929
+    num_pages: '577'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3089'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1755784997l/211179569._SY75_.jpg
+    title: "1929: Inside the Greatest Crash in History \u2013 and How It Shattered\
+      \ a Nation"
+    title_without_series: "1929: Inside the Greatest Crash in History \u2013 and How\
+      \ It Shattered a Nation"
+    uri: kca://book/amzn1.gr.book.v3.RSIiZLbzkr3rC-8L
+    work:
+      id: '217420263'
+  - authors:
+      author:
+        id: '2884322'
+        link: https://www.goodreads.com/author/show/2884322.Michael_Steinberger
+        name: Michael Steinberger
+    average_rating: '4.33'
+    id: '214666632'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/214666632-the-philosopher-in-the-valley
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3089'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: 'The Philosopher in the Valley: Alex Karp, Palantir and the Rise of the
+      Surveillance State'
+    title_without_series: 'The Philosopher in the Valley: Alex Karp, Palantir and
+      the Rise of the Surveillance State'
+    uri: kca://book/amzn1.gr.book.v3.AnRzdnDAwCBPGS3L
+    work:
+      id: '220978092'
+  - authors:
+      author:
+        id: '5770119'
+        link: https://www.goodreads.com/author/show/5770119.Parmy_Olson
+        name: Parmy Olson
+    average_rating: '4.33'
+    id: '199809440'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711570682l/199809440._SX98_.jpg
+    isbn: '1250337747'
+    isbn13: '9781250337740'
+    link: https://www.goodreads.com/book/show/199809440-supremacy
+    num_pages: '336'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3089'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711570682l/199809440._SY75_.jpg
+    title: 'Supremacy: AI, ChatGPT, and the Race That Will Change the World'
+    title_without_series: 'Supremacy: AI, ChatGPT, and the Race That Will Change the
+      World'
+    uri: kca://book/amzn1.gr.book.v3.lKNpRtb0B7Golxwm
+    work:
+      id: '204384595'
+  - authors:
+      author:
+        id: '52595687'
+        link: https://www.goodreads.com/author/show/52595687.Tae_Kim
+        name: Tae   Kim
+    average_rating: '4.33'
+    id: '218319936'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: '1324086726'
+    isbn13: '9781324086727'
+    link: https://www.goodreads.com/book/show/218319936-the-nvidia-way
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3089'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: 'The Nvidia Way: Jensen Huang and the Making of a Tech Giant'
+    title_without_series: 'The Nvidia Way: Jensen Huang and the Making of a Tech Giant'
+    uri: kca://book/amzn1.gr.book.v3.j8j3bAvkXJH8nGtc
+    work:
+      id: '224878108'
+  - authors:
+      author:
+        id: '7283947'
+        link: https://www.goodreads.com/author/show/7283947.Carl_Benedikt_Frey
+        name: Carl Benedikt Frey
+    average_rating: '4.33'
+    id: '228632947'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: 0691233071
+    isbn13: '9780691233079'
+    link: https://www.goodreads.com/book/show/228632947-how-progress-ends
+    num_pages: '552'
+    publication_day: '16'
+    publication_month: '9'
+    publication_year: '2025'
+    ratings_count: '3089'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: 'How Progress Ends: Technology, Innovation, and the Fate of Nations'
+    title_without_series: 'How Progress Ends: Technology, Innovation, and the Fate
+      of Nations'
+    uri: kca://book/amzn1.gr.book.v3.f4QJKWe4dH5mXr5D
+    work:
+      id: '239198658'
+  - authors:
+      author:
+        id: '230202'
+        link: https://www.goodreads.com/author/show/230202.John_Malone
+        name: John Malone
+    average_rating: '4.33'
+    id: '225642098'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: '1668051532'
+    isbn13: '9781668051535'
+    link: https://www.goodreads.com/book/show/225642098-born-to-be-wired
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3089'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: 'Born to Be Wired: Lessons from a Lifetime Transforming Television, Wiring
+      America for the Internet, and Growing Formula One, Discovery, Sirius XM, and
+      the Atlanta Braves'
+    title_without_series: 'Born to Be Wired: Lessons from a Lifetime Transforming
+      Television, Wiring America for the Internet, and Growing Formula One, Discovery,
+      Sirius XM, and the Atlanta Braves'
+    uri: kca://book/amzn1.gr.book.v3.DsYDjvgqYmIMsgE3
+    work:
+      id: '232931996'
+  - authors:
+      author:
+        id: '7499284'
+        link: https://www.goodreads.com/author/show/7499284.Morgan_Housel
+        name: Morgan Housel
+    average_rating: '4.33'
+    id: '231148075'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: 0593716620
+    isbn13: '9780593716625'
+    link: https://www.goodreads.com/book/show/231148075-the-art-of-spending-money
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3089'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: 'The Art of Spending Money: Simple Choices for a Richer Life'
+    title_without_series: 'The Art of Spending Money: Simple Choices for a Richer
+      Life'
+    uri: kca://book/amzn1.gr.book.v3.abE9bK9UTCGggvuv
+    work:
+      id: '244601640'
+  - authors:
+      author:
+        id: '6588214'
+        link: https://www.goodreads.com/author/show/6588214.Lionel_Barber
+        name: Lionel Barber
+    average_rating: '4.33'
+    id: '214151245'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: 166807074X
+    isbn13: '9781668070741'
+    link: https://www.goodreads.com/book/show/214151245-gambling-man
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3089'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: 'Gambling Man: The Secret Story of the World''s Greatest Disruptor, Masayoshi
+      Son'
+    title_without_series: 'Gambling Man: The Secret Story of the World''s Greatest
+      Disruptor, Masayoshi Son'
+    uri: kca://book/amzn1.gr.book.v3.uf1-xlmlARKZI3PX
+    work:
+      id: '227958621'
+  - authors:
+      author:
+        id: '624740'
+        link: https://www.goodreads.com/author/show/624740.Christian_Davenport
+        name: Christian Davenport
+    average_rating: '4.33'
+    id: '225165654'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: 0593594118
+    isbn13: '9780593594117'
+    link: https://www.goodreads.com/book/show/225165654-rocket-dreams
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3089'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: 'Rocket Dreams: Musk, Bezos, and the Inside Story of the New, Trillion-Dollar
+      Space Race'
+    title_without_series: 'Rocket Dreams: Musk, Bezos, and the Inside Story of the
+      New, Trillion-Dollar Space Race'
+    uri: kca://book/amzn1.gr.book.v3.iI4Jq5Av8sF6Lrcb
+    work:
+      id: '232378751'
+  - authors:
+      author:
+        id: '23470'
+        link: https://www.goodreads.com/author/show/23470.Bill_Gates
+        name: Bill  Gates
+    average_rating: '4.33'
+    id: '213034913'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: 059380158X
+    isbn13: '9780593801581'
+    link: https://www.goodreads.com/book/show/213034913-source-code
+    num_pages: '336'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3089'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: 'Source Code: My Beginnings'
+    title_without_series: 'Source Code: My Beginnings'
+    uri: kca://book/amzn1.gr.book.v3.7R7_x6ZioZIBW44T
+    work:
+      id: '220367923'
+  - authors:
+      author:
+        id: '17128971'
+        link: https://www.goodreads.com/author/show/17128971.Adam_Becker
+        name: Adam  Becker
+    average_rating: '4.33'
+    id: '212987932'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: '1541619609'
+    isbn13: '9781541619609'
+    link: https://www.goodreads.com/book/show/212987932-more-everything-forever
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '3089'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: 'More Everything Forever: AI Overlords, Space Empires, and Silicon Valley''s
+      Crusade to Control the Fate of Humanity'
+    title_without_series: 'More Everything Forever: AI Overlords, Space Empires, and
+      Silicon Valley''s Crusade to Control the Fate of Humanity'
+    uri: kca://book/amzn1.gr.book.v3.RHh66gAQ6PntEaRn
+    work:
+      id: '219202042'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1741381944l/211399637._SY75_.jpg
+started_at: '2026-02-08T00:00:00-08:00'
+text_reviews_count:
+  '#text': '26'
+  '@type': integer
+title: 'The Thinking Machine: Jensen Huang, Nvidia, and the World''s Most Coveted
+  Microchip'
+title_without_series: 'The Thinking Machine: Jensen Huang, Nvidia, and the World''s
+  Most Coveted Microchip'
+uri: kca://book/amzn1.gr.book.v3.8FxhTQVjEe7-zqv5
+url: https://www.goodreads.com/book/show/211399637-the-thinking-machine
+work:
+  id: '218822936'
+  uri: kca://work/amzn1.gr.work.v3.gLIwZUZhuFYMwKCD
