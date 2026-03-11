@@ -19,6 +19,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
   - Check archive for missing posts: `uv run tools/grab_micro_posts_fixed.py --check-archive`
   - Enable verbose logging: `uv run tools/grab_micro_posts_fixed.py --verbose`
 - Run notes deduplicator: `uv run tools/deduplicate_notes.py --notes-dir content/notes --dry-run` (remove `--dry-run` to actually delete duplicates)
+- Run micro.blog book sync: `uv run tools/push_books_to_microblog.py`
+- Backfill all books: `uv run tools/push_books_to_microblog.py --backfill --limit 50`
+- Export books as CSV (with read dates): `uv run tools/push_books_to_microblog.py --csv-export books_for_microblog.csv`
 
 ## Multilingual Support
 - Supported languages: English (en), Spanish (es), Japanese (ja), and Korean (ko)

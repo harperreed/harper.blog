@@ -172,3 +172,5 @@ Your messy input ends up becoming a connected system of:
 ## Suddenly the patterns emerge
 
 {{% figure src="vibes.png" caption="Living life." %}}
+
+If this type of thing is interesting and you want to learn more, hack, or work with us - hit me up at [harper@2389.ai](mailto:harper@2389.ai).

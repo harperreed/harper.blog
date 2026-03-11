@@ -1,5 +1,6 @@
 # Tools to match Netlify environment  
 [tools]
+hugo = "v0.154.1"
 node = "22"
 
 [tasks.clean_llm_outputs]
