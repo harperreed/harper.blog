@@ -19,7 +19,8 @@
     $start := time . }} {{ $end := time $read_at }} {{ $duration := $end.Sub
     $start }} {{/* Get total hours */}} {{ $hours := $duration.Hours }} {{/* Get
     total days */}} {{ $days := div $duration.Hours 24 }}
-    <li>{{ i18n "reading-duration" | default "Reading duration: Read in" }} {{math.Ceil $days}} {{ i18n "days" | default "days" }}</li>
+    {{ $displayDays := math.Max 1 (math.Ceil $days) }}
+    <li>{{ i18n "reading-duration" | default "Reading duration: Read in" }} {{ $displayDays }} {{ i18n "days" | default "days" }}</li>
     {{ end }} {{ with .Params.num_pages}}
     <li>{{ i18n "number-of-pages" | default "Number of pages:" }} {{.}} {{ i18n "pages" | default "Pages" }}</li>
     {{end}}
