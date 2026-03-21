@@ -125,3 +125,8 @@
   color: #ddd;
   margin: 0;
 }
+
+@media (prefers-reduced-motion: reduce) {
+    .music-grid-item { transition: none; }
+    .music-grid-item:hover { transform: none; }
+}

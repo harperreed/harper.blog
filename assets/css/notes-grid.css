@@ -77,3 +77,8 @@
         opacity: 1;
     }
 }
+
+@media (prefers-reduced-motion: reduce) {
+    .notes-masonry-item { animation: none; transition: none; }
+    .notes-masonry-item:hover { transform: none; }
+}

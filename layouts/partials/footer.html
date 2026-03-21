@@ -5,26 +5,26 @@
     }} &middot; {{ end }} {{ end }}
     <br />
     <br />
-    <nobr
+    <span class="nowrap"
         >{{ i18n "copyright" | default "Copyright" }} &copy; {{
-        .Site.Params.Name }}</nobr
+        .Site.Params.Name }}</span
     >
 
     <br />
-    <nobr
+    <span class="nowrap"
         >{{ i18n "generated" | default "Generated" }} {{ i18n "on" | default
         "on" }} {{ now.Format "Jan 2, 2006" }} {{ with .GitInfo }} &middot; {{
         .AbbreviatedHash }} {{ end }}
-    </nobr>
+    </span>
     <br />
-    <nobr
+    <span class="nowrap"
         >{{ i18n "sendMeAn" | default "Send me an" }}
         <a
             href="mailto:{{ .Site.Params.email }}"
             aria-label="Send email to {{ .Site.Params.Name }}"
             >{{ i18n "email" | default "email" }}</a
         >
-    </nobr>
+    </span>
     {{ partial "language-switcher.html" . }}
 </p>
 <script

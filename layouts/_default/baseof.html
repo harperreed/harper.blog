@@ -8,7 +8,6 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="referrer" content="no-referrer-when-downgrade" />
         {{- partialCached "favicon.html" . -}}
         {{- partialCached "head/resource-hints.html" . -}}
         <title>
@@ -17,24 +16,24 @@
             {{- end }}
         </title>
         
-        {{- partialCached "social_card.html" . .Title -}}
+        {{- partial "social_card.html" . -}}
 
-        {{- partialCached "head/seo-meta-description.html" . .Title -}}
-        {{- partialCached "head/seo-canonical.html" . .Permalink -}}
-        {{- partialCached "head/seo-hreflang.html" . .Permalink -}}
+        {{- partial "head/seo-meta-description.html" . -}}
+        {{- partial "head/seo-canonical.html" . -}}
+        {{- partial "head/seo-hreflang.html" . -}}
 
-        {{- partialCached "schema/article.html" . .Title -}}
+        {{- partial "schema/article.html" . -}}
         {{- partialCached "schema/person.html" . -}}
 
         {{- partialCached "head/css.html" . -}}
         
         {{- partialCached "head/javascript.html" . -}}
         
-        {{- partialCached "head/rss.html" . -}}
+        {{- partial "head/rss.html" . -}}
         
         {{- partialCached "head/security.html" . -}}
         
-        {{- partialCached "head/custom_head.html" . -}}
+        {{- partial "head/custom_head.html" . -}}
     </head>
 
     <body>

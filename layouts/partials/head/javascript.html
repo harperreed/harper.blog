@@ -9,9 +9,9 @@
     {{- end -}}
     {{ $bundle := resources.Concat "js/bundle.js" $js | minify }}
     {{ $minJS := $bundle | resources.Fingerprint "sha512" }}
-<script 
+<script
     src="{{ $minJS.RelPermalink }}"
     integrity="{{ $minJS.Data.Integrity }}"
-    type="text/javascript"
+    defer
 ></script>
 {{ end }}
