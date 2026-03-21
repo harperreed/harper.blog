@@ -17,38 +17,26 @@
 
 {{- $description := .Description | default .Summary | plainify | truncate 160 -}}
 
+{{- $article := dict
+  "@context" "https://schema.org"
+  "@type" "BlogPosting"
+  "headline" .Title
+  "image" $image
+  "datePublished" (.PublishDate.Format $iso8601)
+  "dateModified" (.Lastmod.Format $iso8601)
+  "author" (dict "@type" "Person" "name" $author "url" .Site.BaseURL)
+  "publisher" (dict "@type" "Organization" "name" .Site.Title "logo" (dict "@type" "ImageObject" "url" (.Site.Params.default_social_image | default (.Site.BaseURL | printf "%simages/og.png"))))
+  "description" $description
+  "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+  "wordCount" .WordCount
+  "inLanguage" .Language.LanguageCode
+-}}
+
+{{- with .Params.tags -}}
+  {{- $article = merge $article (dict "keywords" (delimit . ", ")) -}}
+{{- end -}}
+
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": {{ .Title | jsonify }},
-  "image": {{ $image | jsonify }},
-  "datePublished": {{ .PublishDate.Format $iso8601 | jsonify }},
-  "dateModified": {{ .Lastmod.Format $iso8601 | jsonify }},
-  "author": {
-    "@type": "Person",
-    "name": {{ $author | jsonify }},
-    "url": {{ .Site.BaseURL | jsonify }}
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": {{ .Site.Title | jsonify }},
-    "logo": {
-      "@type": "ImageObject",
-      "url": {{ .Site.Params.default_social_image | default (.Site.BaseURL | printf "%simages/og.png") | jsonify }}
-    }
-  },
-  "description": {{ $description | jsonify }},
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": {{ .Permalink | jsonify }}
-  },
-  "wordCount": {{ .WordCount }},
-  "inLanguage": {{ .Language.LanguageCode | jsonify }}
-  {{- with .Params.tags -}}
-  ,
-  "keywords": {{ delimit . ", " | jsonify }}
-  {{- end -}}
-}
+{{ $article | jsonify (dict "indent" "  ") | safeJS }}
 </script>
 {{- end -}}
