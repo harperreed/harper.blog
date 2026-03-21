@@ -6,7 +6,7 @@
 <h1 aria-label="{{ i18n "page-title-aria" | default "Page title" }}">{{ .Title }}</h1>
 
 {{ end }}
-<content> {{ .Content }} </content>
+<article> {{ .Content }} </article>
 <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
 <p>
     {{ range (.GetTerms "tags") }}

@@ -2,7 +2,7 @@
 <h1>{{ .Title }}</h1>
 <p class="byline">{{ with .Params.book_author }}{{ i18n "by" | default "By" }} {{.}}{{ end }}</p>
 {{ end }}
-<content>
+<article>
     <h3>{{.Params.tagline}}</h3>
     {{ with .Params.asin }} {{ $image := print
     "https://images-na.ssl-images-amazon.com/images/P/" . ".01._SCLZZZZZZZ.jpg"
@@ -10,7 +10,7 @@
 
     <img src="{{ $image  }}" alt="{{ i18n "book-cover-alt" | default "Book cover" }}" class="book-cover" />
     {{ end }} {{ .Content }}
-</content>
+</article>
 
 <ul>
     {{ with .Params.review_rating}}

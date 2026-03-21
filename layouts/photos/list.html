@@ -1,7 +1,6 @@
 {{- /* ABOUTME: List template for photos section */}}
 {{- /* ABOUTME: Shows notes that have image resources in a grid layout */}}
 {{ define "main" }}
-<main>
   <header>
     <h1>{{ .Title }}</h1>
     {{ with .Description }}<p>{{ . }}</p>{{ end }}
@@ -27,7 +26,6 @@
       {{ end }}
     {{ end }}
   </div>
-</main>
 
 <style>
 .photo-grid {

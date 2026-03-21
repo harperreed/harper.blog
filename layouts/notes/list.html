@@ -1,5 +1,5 @@
 {{ define "main" }}
-<content>
+<article>
     {{ .Content }} {{ if .Data.Singular }}
     <p class="filter-notice">{{ i18n "filtering-for" }} "{{ .Title }}"</p>
     {{ end }}
@@ -44,10 +44,10 @@
             <hr />
         </article>
         {{ else }}
-        <p>{{ i18n "no-posts" | default "No posts yet." }}</p>
+        <p>{{ i18n "no-notes" | default "No notes yet." }}</p>
         {{ end }}
     </div>
 
     {{ partial "pagination.html" . }}
-</content>
+</article>
 {{ end }}

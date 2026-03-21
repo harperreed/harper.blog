@@ -2,7 +2,7 @@
 <h1>{{ .Title }}</h1>
 
 {{ end }}
-<content>
+<article>
     {{ .Content }} {{- with .Resources.ByType "image" }}
     <div class="note-images" aria-label="{{ i18n "note-images-aria" | default "Note images" }}">
         {{- range . }}
@@ -10,9 +10,9 @@
         {{- end }}
     </div>
     {{- end }}
-</content>
+</article>
 <p class="byline">
-    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate aria-label="{{ i18n "date-aria" (printf "%s" (.Date.Format (default "2006-01-02" .Site.Params.dateFormat))) | default (printf "Date: %s" (.Date.Format (default "2006-01-02" .Site.Params.dateFormat))) }}">
+    <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="{{ i18n "date-aria" (printf "%s" (.Date.Format (default "2006-01-02" .Site.Params.dateFormat))) | default (printf "Date: %s" (.Date.Format (default "2006-01-02" .Site.Params.dateFormat))) }}">
         {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
     </time> &middot;
     {{ with .Params.author }}{{.}} &middot;{{ end }}

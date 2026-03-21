@@ -9,7 +9,7 @@
     <li>
         <span>
             <i>
-                <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
+                <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
                     {{ .Date.Format (default "2006-01-02"
                     .Site.Params.dateFormat) }}
                 </time>
@@ -41,7 +41,7 @@
     <li>
         <span>
             <i>
-                <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
+                <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
                     {{ .Date.Format (default "2006-01-02"
                     .Site.Params.dateFormat) }}
                 </time>
@@ -52,7 +52,7 @@
         </a>
     </li>
     {{ else }}
-    <li>{{ i18n "no-posts" }}</li>
+    <li>{{ i18n "no-notes" | default "No notes yet." }}</li>
     {{ end }}
 </ul>
 <a href="{{ "/notes" | relLangURL }}" aria-label="More Notes">{{ i18n "moreNotes" | default "More Notes" }}</a>

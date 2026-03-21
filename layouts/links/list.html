@@ -1,5 +1,5 @@
 {{ define "main" }}
-<content>
+<article>
     {{ .Content }} {{ if .Data.Singular }}
     <h3 class="link-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
     {{ end }} {{ $pages := .Pages }} {{ if not $pages }}
@@ -14,7 +14,7 @@
             {{ if eq $index 0 }}
             <span class="date">
                 <i>
-                    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+                    <time datetime='{{ .Date.Format "2006-01-02" }}' >
                         {{ .Date.Format (default "2006-01-02"
                         $.Site.Params.dateFormat) }}
                     </time>
@@ -37,5 +37,5 @@
     </ul>
 
     {{ partial "pagination.html" . }} {{ end }}
-</content>
+</article>
 {{ end }}
