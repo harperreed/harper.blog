@@ -263,3 +263,15 @@ ul.now-posts li a:visited {
 .pagination .page-number {
     color: var(--color-primary);
 }
+
+@media (prefers-reduced-motion: reduce) {
+    .skip-link { transition: none; }
+    * { scroll-behavior: auto !important; }
+}
+
+:focus-visible {
+    outline: 2px solid var(--color-link);
+    outline-offset: 2px;
+}
+
+.nowrap { white-space: nowrap; }

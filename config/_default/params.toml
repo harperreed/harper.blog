@@ -6,7 +6,7 @@ googleAnalytics = "UA-70650-74"
 ga_id = "UA-70650-74"
 
 fullRSS = true
-nofeedSections = ["page", "posts", "links", "books", "music"]
+nofeedSections = ["page", "post", "links", "books", "music"]
 mainSections = ["post"]
 images = ['https://harper.blog/images/og.png']
 default_social_image = "https://harper.blog/images/og.png"

@@ -1,5 +1,5 @@
 {{ range .Site.Menus.main.ByWeight }}
-<a href="{{ .URL | relLangURL }}" msg="{{ .URL }}">{{ .Name }}</a>
+<a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
 {{ end }}
 <a href='{{ absURL ("index.xml" | relLangURL) }}'
     >{{ i18n "rss" | default "RSS" }}</a

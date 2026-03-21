@@ -3,7 +3,7 @@
 {{ if not .Params.menu }}
 <h1>{{ .Title }}</h1>
 <p class="byline">
-  <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
+  <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
     {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
   </time>
   {{ with .Params.author }}· {{.}}{{ end }} &middot;
@@ -18,10 +18,10 @@
 
 {{ partialCached "out_of_date.html" . (.Date.Format "2006") }}
 
-<content>
-  
+<article>
+
   {{ .Content }}
-</content>
+</article>
 
 {{ partialCached "generated.html" . .Title}}
 

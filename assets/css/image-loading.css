@@ -6,3 +6,7 @@ img {
 img.loaded {
     opacity: 1;
 }
+
+@media (prefers-reduced-motion: reduce) {
+    img { transition: none; }
+}

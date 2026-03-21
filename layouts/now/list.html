@@ -1,10 +1,10 @@
 {{ define "main" }}
-<content>
+<article>
     {{ .Content }} {{ range first 1 .Data.Pages }} {{ if not .Params.menu }}
     <h1>{{ .Title }}</h1>
 
     {{ end }}
-    <content> {{ .Content }} </content>
+    <section> {{ .Content }} </section>
     <p>
         {{ range (.GetTerms "tags") }}
         <a class="now-tags" href="{{ .RelPermalink }}"
@@ -31,7 +31,6 @@
                     <i>
                         <time
                             datetime='{{ .Date.Format "2006-01-02" }}'
-                            pubdate
                         >
                             {{ .Date.Format (default "2006-01-02"
                             .Site.Params.dateFormat) }}
@@ -39,7 +38,7 @@
                     </i>
                 </span>
                 {{ if .Params.link }}
-                <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
+                <a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer">{{ .Title }} ↪</a>
                 {{ else }}
                 <a href="{{ .RelPermalink }}">{{ .Title }}</a>
                 {{ end }}
@@ -49,5 +48,5 @@
             {{ end }}
         </ul>
     </details>
-</content>
+</article>
 {{ end }}

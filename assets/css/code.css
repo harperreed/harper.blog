@@ -5,6 +5,11 @@ code {
     font-family: monospace;
 }
 
+pre {
+    max-width: 100%;
+    overflow-x: auto;
+}
+
 pre code {
     display: block;
     padding: var(--margin);

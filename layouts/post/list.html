@@ -1,5 +1,5 @@
 {{ define "main" }}
-<content>
+<article>
   {{ .Content }}
     
   {{ if .Data.Singular }}
@@ -10,13 +10,13 @@
     <li>
       <span>
         <i>
-          <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
+          <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
             {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
           </time>
         </i>
       </span>
       {{ if .Params.link }}
-        <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
+        <a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer">{{ .Title }} ↪</a>
       {{ else }}
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       {{ end }}
@@ -28,5 +28,5 @@
     {{ end }}
   </ul>
  
-</content>
+</article>
 {{ end }}

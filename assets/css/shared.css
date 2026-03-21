@@ -80,3 +80,7 @@
         margin-left: 0;
     }
 }
+
+@media (prefers-reduced-motion: reduce) {
+    a { transition: none; }
+}
