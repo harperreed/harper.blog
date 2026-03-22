@@ -1,0 +1,70 @@
+added_at: '2026-03-13T02:33:29Z'
+album: Soul Eyes / Solo Piano
+album_image: https://i.scdn.co/image/ab67616d0000b2738ddd56d05ce912d8ada2ac31
+artist: Atzko Kohashi
+duration_ms: 284200
+id: 5pgBicCsUHRSWyQq3dzxyM
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/663fDRhznKHDmaCT2lIuro
+      href: https://api.spotify.com/v1/artists/663fDRhznKHDmaCT2lIuro
+      id: 663fDRhznKHDmaCT2lIuro
+      name: Atzko Kohashi
+      type: artist
+      uri: spotify:artist:663fDRhznKHDmaCT2lIuro
+    available_markets:
+    - US
+    external_urls:
+      spotify: https://open.spotify.com/album/6SyrWXFBpxJkrodu5njsi1
+    href: https://api.spotify.com/v1/albums/6SyrWXFBpxJkrodu5njsi1
+    id: 6SyrWXFBpxJkrodu5njsi1
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2738ddd56d05ce912d8ada2ac31
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e028ddd56d05ce912d8ada2ac31
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048518ddd56d05ce912d8ada2ac31
+      width: 64
+    is_playable: true
+    name: Soul Eyes / Solo Piano
+    release_date: '2021-11-03'
+    release_date_precision: day
+    total_tracks: 14
+    type: album
+    uri: spotify:album:6SyrWXFBpxJkrodu5njsi1
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/663fDRhznKHDmaCT2lIuro
+    href: https://api.spotify.com/v1/artists/663fDRhznKHDmaCT2lIuro
+    id: 663fDRhznKHDmaCT2lIuro
+    name: Atzko Kohashi
+    type: artist
+    uri: spotify:artist:663fDRhznKHDmaCT2lIuro
+  available_markets:
+  - US
+  disc_number: 1
+  duration_ms: 284200
+  explicit: false
+  external_ids:
+    isrc: NL5PN2100042
+  external_urls:
+    spotify: https://open.spotify.com/track/5pgBicCsUHRSWyQq3dzxyM
+  href: https://api.spotify.com/v1/tracks/5pgBicCsUHRSWyQq3dzxyM
+  id: 5pgBicCsUHRSWyQq3dzxyM
+  is_local: false
+  is_playable: true
+  name: Soul Eyes
+  popularity: 0
+  preview_url: null
+  track_number: 7
+  type: track
+  uri: spotify:track:5pgBicCsUHRSWyQq3dzxyM
+spotify_url: https://open.spotify.com/track/5pgBicCsUHRSWyQq3dzxyM
+title: Soul Eyes
