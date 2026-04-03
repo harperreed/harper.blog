@@ -5,6 +5,7 @@ book_author: Barack Obama
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/3312550-the-audacity-of-hope
+goodreads_work_id: '1716451'
 image:
 - B000MAH5O2.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000MAH5O2.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Kōji Suzuki
 date: '2022-10-13T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/19049688-edge
+goodreads_work_id: '15748041'
 image:
 - B009QJMFFE.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B009QJMFFE.01._SCLZZZZZZZ.jpg

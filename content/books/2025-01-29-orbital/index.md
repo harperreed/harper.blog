@@ -5,6 +5,7 @@ book_author: Samantha Harvey
 date: '2025-01-29T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/123314421-orbital
+goodreads_work_id: '120178902'
 image:
 - B0BZ5Y513V.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0BZ5Y513V.01._SCLZZZZZZZ.jpg

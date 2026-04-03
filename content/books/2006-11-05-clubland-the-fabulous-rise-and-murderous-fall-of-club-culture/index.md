@@ -5,6 +5,7 @@ book_author: Frank   Owen
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/307193.Clubland
+goodreads_work_id: '298164'
 image:
 - B004E9UB4S.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B004E9UB4S.01._SCLZZZZZZZ.jpg

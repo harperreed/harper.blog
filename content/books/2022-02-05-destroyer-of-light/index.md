@@ -5,6 +5,7 @@ book_author: Jennifer Marie Brissett
 date: '2022-02-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/56294697-destroyer-of-light
+goodreads_work_id: '84253161'
 image:
 - B08QGJ2G5C.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08QGJ2G5C.01._SCLZZZZZZZ.jpg

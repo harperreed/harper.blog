@@ -5,6 +5,7 @@ book_author: Jeffrey  Lewis
 date: '2018-08-06T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/40206445-the-2020-commission-report-on-the-north-korean-nuclear-attacks-against-t
+goodreads_work_id: '60253009'
 image:
 - B0DWV43QJ7.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWV43QJ7.01._SCLZZZZZZZ.jpg

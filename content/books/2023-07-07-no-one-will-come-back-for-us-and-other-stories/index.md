@@ -5,6 +5,7 @@ book_author: Premee Mohamed
 date: '2023-07-07T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/75424817-no-one-will-come-back-for-us-and-other-stories
+goodreads_work_id: '98931285'
 image:
 - B0BNXTQNXG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0BNXTQNXG.01._SCLZZZZZZZ.jpg

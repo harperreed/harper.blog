@@ -5,6 +5,7 @@ book_author: Robert Whiting
 date: '2021-06-14T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/11885873-tokyo-underworld
+goodreads_work_id: '33138'
 image:
 - B0043M4YYE.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0043M4YYE.01._SCLZZZZZZZ.jpg

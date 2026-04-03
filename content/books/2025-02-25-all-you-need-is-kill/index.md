@@ -5,6 +5,7 @@ book_author: Hiroshi Sakurazaka
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/12868204-all-you-need-is-kill
+goodreads_work_id: '6439033'
 image:
 - B005LJETYI.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B005LJETYI.01._SCLZZZZZZZ.jpg

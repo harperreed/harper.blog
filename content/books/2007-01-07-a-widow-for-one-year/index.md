@@ -5,6 +5,7 @@ book_author: John Irving
 date: '2007-01-07T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/587402.A_Widow_for_One_Year
+goodreads_work_id: '3359767'
 image:
 - B000QCS9LO.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000QCS9LO.01._SCLZZZZZZZ.jpg

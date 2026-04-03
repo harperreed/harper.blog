@@ -5,6 +5,7 @@ book_author: Kurt Vonnegut Jr.
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/4985.Welcome_to_the_Monkey_House
+goodreads_work_id: '438581'
 image:
 - B001334J0U.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B001334J0U.01._SCLZZZZZZZ.jpg

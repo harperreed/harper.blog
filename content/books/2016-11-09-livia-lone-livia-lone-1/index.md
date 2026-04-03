@@ -5,6 +5,7 @@ book_author: Barry Eisler
 date: '2016-11-09T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/29942174-livia-lone
+goodreads_work_id: '50332882'
 image:
 - B01DYC113A.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01DYC113A.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Michael   Lewis
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/20639917-flash-boys
+goodreads_work_id: '38053447'
 image:
 - B00HVJB4VM.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00HVJB4VM.01._SCLZZZZZZZ.jpg

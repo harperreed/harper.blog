@@ -5,6 +5,7 @@ book_author: Brian Dear
 date: '2023-03-11T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/34950670-the-friendly-orange-glow
+goodreads_work_id: '55458316'
 image:
 - B06W9N6F5R.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B06W9N6F5R.01._SCLZZZZZZZ.jpg

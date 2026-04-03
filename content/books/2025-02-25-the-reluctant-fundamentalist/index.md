@@ -5,6 +5,7 @@ book_author: Mohsin Hamid
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/88815.The_Reluctant_Fundamentalist
+goodreads_work_id: '725380'
 image:
 - B004IPPINW.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B004IPPINW.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Sayaka Murata
 date: '2022-09-08T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/59802091-life-ceremony
+goodreads_work_id: '94174667'
 image:
 - B09MWR2QJ4.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09MWR2QJ4.01._SCLZZZZZZZ.jpg

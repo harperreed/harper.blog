@@ -5,6 +5,7 @@ book_author: Khalida Brohi
 date: '2019-02-10T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/40237966-i-should-have-honor
+goodreads_work_id: '59194390'
 image:
 - B0782RHNV4.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0782RHNV4.01._SCLZZZZZZZ.jpg

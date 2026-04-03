@@ -5,6 +5,7 @@ book_author: Andy Weir
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18401393-the-martian
+goodreads_work_id: '21825181'
 image:
 - B00EMXBDMA.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00EMXBDMA.01._SCLZZZZZZZ.jpg

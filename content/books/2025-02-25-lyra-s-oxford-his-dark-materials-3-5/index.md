@@ -5,6 +5,7 @@ book_author: Philip Pullman
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/514990.Lyra_s_Oxford
+goodreads_work_id: '3524192'
 image:
 - B000UZJQL4.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000UZJQL4.01._SCLZZZZZZZ.jpg

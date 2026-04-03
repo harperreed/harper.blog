@@ -5,6 +5,7 @@ book_author: Iain M. Banks
 date: '2020-03-20T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/6305619-use-of-weapons
+goodreads_work_id: '1494156'
 image:
 - B0015DWLTE.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0015DWLTE.01._SCLZZZZZZZ.jpg

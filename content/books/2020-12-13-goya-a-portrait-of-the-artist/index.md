@@ -5,6 +5,7 @@ book_author: Janis A. Tomlinson
 date: '2020-12-13T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/55340925-goya
+goodreads_work_id: '74904390'
 image:
 - B08652LH8P.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08652LH8P.01._SCLZZZZZZZ.jpg

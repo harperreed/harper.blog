@@ -5,6 +5,7 @@ book_author: Naomi Wolf
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/503432.The_End_of_America
+goodreads_work_id: '491492'
 image:
 - B005OCTIXE.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B005OCTIXE.01._SCLZZZZZZZ.jpg

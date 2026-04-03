@@ -5,6 +5,7 @@ book_author: J.S. Dewes
 date: '2023-04-15T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/61295985-rubicon
+goodreads_work_id: '95849260'
 image:
 - B09XL7CD6M.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09XL7CD6M.01._SCLZZZZZZZ.jpg

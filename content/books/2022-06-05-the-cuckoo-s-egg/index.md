@@ -5,6 +5,7 @@ book_author: Clifford Stoll
 date: '2022-06-05T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18914012-the-cuckoo-s-egg
+goodreads_work_id: '19611'
 image:
 - B0083DJXCM.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0083DJXCM.01._SCLZZZZZZZ.jpg

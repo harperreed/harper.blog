@@ -5,6 +5,7 @@ book_author: David E. Hoffman
 date: '2019-08-19T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/25570870-the-billion-dollar-spy
+goodreads_work_id: '42913846'
 image:
 - B0DWV1JTST.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWV1JTST.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: E.E.
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/576877.The_Skylark_of_Space
+goodreads_work_id: '1379469'
 image:
 - B0CGVCFRF5.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0CGVCFRF5.01._SCLZZZZZZZ.jpg

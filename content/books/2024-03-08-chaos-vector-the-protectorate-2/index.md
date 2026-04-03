@@ -5,6 +5,7 @@ book_author: Megan E. O'Keefe
 date: '2024-03-08T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/49215795-chaos-vector
+goodreads_work_id: '74523693'
 image:
 - B0827TG2C4.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0827TG2C4.01._SCLZZZZZZZ.jpg

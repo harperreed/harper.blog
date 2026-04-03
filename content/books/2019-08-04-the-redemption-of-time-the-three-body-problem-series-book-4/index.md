@@ -5,6 +5,7 @@ book_author: Baoshu
 date: '2019-08-04T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/42646354-the-redemption-of-time
+goodreads_work_id: '57914980'
 image:
 - B07JYZ4G6N.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07JYZ4G6N.01._SCLZZZZZZZ.jpg

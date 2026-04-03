@@ -5,6 +5,7 @@ book_author: Jason  Matthews
 date: '2017-08-01T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/17450194-red-sparrow
+goodreads_work_id: '21526451'
 image:
 - B0DWV5GRK3.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWV5GRK3.01._SCLZZZZZZZ.jpg

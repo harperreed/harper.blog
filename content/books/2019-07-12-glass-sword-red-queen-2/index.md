@@ -5,6 +5,7 @@ book_author: Victoria Aveyard
 date: '2019-07-12T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/25645546-glass-sword
+goodreads_work_id: '42720997'
 image:
 - B00XU6D9M2.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00XU6D9M2.01._SCLZZZZZZZ.jpg

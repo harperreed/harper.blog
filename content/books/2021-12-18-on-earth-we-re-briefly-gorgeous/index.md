@@ -5,6 +5,7 @@ book_author: Ocean Vuong
 date: '2021-12-18T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/58184393-on-earth-we-re-briefly-gorgeous
+goodreads_work_id: '61665003'
 image:
 - B07H72LJ5V.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07H72LJ5V.01._SCLZZZZZZZ.jpg

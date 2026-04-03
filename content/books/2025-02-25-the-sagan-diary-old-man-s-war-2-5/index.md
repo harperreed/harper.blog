@@ -5,6 +5,7 @@ book_author: John Scalzi
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/61664.The_Sagan_Diary
+goodreads_work_id: '15558795'
 image:
 - B005OTDQQ2.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B005OTDQQ2.01._SCLZZZZZZZ.jpg

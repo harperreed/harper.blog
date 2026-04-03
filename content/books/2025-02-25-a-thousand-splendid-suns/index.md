@@ -5,6 +5,7 @@ book_author: Khaled Hosseini
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/3850639-a-thousand-splendid-suns
+goodreads_work_id: '3271379'
 image:
 - B000SCHC0Q.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000SCHC0Q.01._SCLZZZZZZZ.jpg

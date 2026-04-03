@@ -5,6 +5,7 @@ book_author: Jeff VanderMeer
 date: '2021-04-11T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/36353367-hummingbird-salamander
+goodreads_work_id: '58035627'
 image:
 - B088DPRZPJ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B088DPRZPJ.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Kevin Kwan
 date: '2018-09-07T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/32603326-rich-people-problems
+goodreads_work_id: '50231439'
 image:
 - B01M09122V.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01M09122V.01._SCLZZZZZZZ.jpg

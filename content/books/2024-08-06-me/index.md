@@ -5,6 +5,7 @@ book_author: Amber McBride
 date: '2024-08-06T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/50490824-me
+goodreads_work_id: '75472927'
 image:
 - B08B554CC1.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08B554CC1.01._SCLZZZZZZZ.jpg

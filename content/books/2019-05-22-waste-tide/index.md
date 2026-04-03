@@ -5,6 +5,7 @@ book_author: Chen Qiufan
 date: '2019-05-22T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/39902008-waste-tide
+goodreads_work_id: '53488132'
 image:
 - B07C75NFYP.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07C75NFYP.01._SCLZZZZZZZ.jpg

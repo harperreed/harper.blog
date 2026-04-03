@@ -5,6 +5,7 @@ book_author: William Gibson
 date: '2014-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/22010718-the-peripheral
+goodreads_work_id: '40167043'
 image:
 - B00INIXKV2.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00INIXKV2.01._SCLZZZZZZZ.jpg

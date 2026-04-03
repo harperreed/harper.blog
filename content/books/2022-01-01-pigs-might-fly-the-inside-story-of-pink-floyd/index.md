@@ -5,6 +5,7 @@ book_author: Mark Blake
 date: '2022-01-01T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/19097480-pigs-might-fly
+goodreads_work_id: '1965162'
 image:
 - B0077FAXCQ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0077FAXCQ.01._SCLZZZZZZZ.jpg

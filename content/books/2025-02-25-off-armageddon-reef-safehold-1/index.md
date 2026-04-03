@@ -5,6 +5,7 @@ book_author: David Weber
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/72199.Off_Armageddon_Reef
+goodreads_work_id: '1069607'
 image:
 - B000Q67KJ2.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000Q67KJ2.01._SCLZZZZZZZ.jpg

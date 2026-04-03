@@ -5,6 +5,7 @@ book_author: Dan Simmons
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/6445824-ilium
+goodreads_work_id: '3185401'
 image:
 - B000FC129Q.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000FC129Q.01._SCLZZZZZZZ.jpg

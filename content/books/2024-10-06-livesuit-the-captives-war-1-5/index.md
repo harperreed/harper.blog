@@ -5,6 +5,7 @@ book_author: James S.A. Corey
 date: '2024-10-06T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/215760525-livesuit
+goodreads_work_id: '222176366'
 image:
 - B0D8HPDKYB.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0D8HPDKYB.01._SCLZZZZZZZ.jpg

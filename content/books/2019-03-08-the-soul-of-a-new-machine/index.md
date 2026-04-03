@@ -5,6 +5,7 @@ book_author: Tracy Kidder
 date: '2019-03-08T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/13081926-the-soul-of-a-new-machine
+goodreads_work_id: '882196'
 image:
 - B005HG4W9W.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B005HG4W9W.01._SCLZZZZZZZ.jpg

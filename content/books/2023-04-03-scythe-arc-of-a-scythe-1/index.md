@@ -5,6 +5,7 @@ book_author: Neal Shusterman
 date: '2023-04-03T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/29246020-scythe
+goodreads_work_id: '49179216'
 image:
 - B01BKR487W.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01BKR487W.01._SCLZZZZZZZ.jpg

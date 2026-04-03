@@ -5,6 +5,7 @@ book_author: Ha Jin
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/235773.Waiting
+goodreads_work_id: '985211'
 image:
 - B000QCSAU4.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000QCSAU4.01._SCLZZZZZZZ.jpg

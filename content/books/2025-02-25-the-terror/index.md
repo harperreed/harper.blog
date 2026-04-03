@@ -5,6 +5,7 @@ book_author: Dan Simmons
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/3974.The_Terror
+goodreads_work_id: '3025639'
 image:
 - B000PAAH3A.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000PAAH3A.01._SCLZZZZZZZ.jpg

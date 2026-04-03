@@ -5,6 +5,7 @@ book_author: Sayaka Murata
 date: '2019-11-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/51031906-convenience-store-woman
+goodreads_work_id: '51852264'
 image:
 - B075VC651Y.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B075VC651Y.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Frank Zappa
 date: '2019-12-12T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/1160790.The_Real_Frank_Zappa
+goodreads_work_id: '1148404'
 image:
 - B0C1RYPPZZ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0C1RYPPZZ.01._SCLZZZZZZZ.jpg

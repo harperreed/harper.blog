@@ -5,6 +5,7 @@ book_author: Christopher Ruocchio
 date: '2024-03-29T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/42298449-howling-dark
+goodreads_work_id: '64859822'
 image:
 - B07J48PWT5.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07J48PWT5.01._SCLZZZZZZZ.jpg

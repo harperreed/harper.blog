@@ -5,6 +5,7 @@ book_author: Robin Sloan
 date: '2024-06-02T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/11743674-annabel-scheme
+goodreads_work_id: '9402735'
 image:
 - B004E3XC1S.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B004E3XC1S.01._SCLZZZZZZZ.jpg

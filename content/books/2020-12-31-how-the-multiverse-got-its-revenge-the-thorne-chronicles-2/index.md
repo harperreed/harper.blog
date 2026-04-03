@@ -5,6 +5,7 @@ book_author: K. Eason
 date: '2020-12-31T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/52664989-how-the-multiverse-got-its-revenge
+goodreads_work_id: '78372462'
 image:
 - B08681GVNS.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08681GVNS.01._SCLZZZZZZZ.jpg

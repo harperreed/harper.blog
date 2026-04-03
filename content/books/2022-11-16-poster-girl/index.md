@@ -5,6 +5,7 @@ book_author: Veronica Roth
 date: '2022-11-16T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/61047425-poster-girl
+goodreads_work_id: '94603039'
 image:
 - B09PGBKSG4.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09PGBKSG4.01._SCLZZZZZZZ.jpg

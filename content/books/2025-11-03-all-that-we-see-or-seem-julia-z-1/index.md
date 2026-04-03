@@ -5,6 +5,7 @@ book_author: Ken Liu
 date: '2025-11-03T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/224050174-all-that-we-see-or-seem
+goodreads_work_id: '229906095'
 image:
 - B0DV6766HN.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DV6766HN.01._SCLZZZZZZZ.jpg

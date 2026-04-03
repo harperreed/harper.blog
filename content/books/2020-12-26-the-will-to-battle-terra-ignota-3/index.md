@@ -5,6 +5,7 @@ book_author: Ada Palmer
 date: '2020-12-26T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/35150666-the-will-to-battle
+goodreads_work_id: '54280306'
 image:
 - B071Z6M2TM.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B071Z6M2TM.01._SCLZZZZZZZ.jpg

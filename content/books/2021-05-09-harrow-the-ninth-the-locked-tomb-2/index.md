@@ -5,6 +5,7 @@ book_author: Tamsyn Muir
 date: '2021-05-09T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/53086262-harrow-the-ninth
+goodreads_work_id: '60943273'
 image:
 - B07WYSGHC7.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07WYSGHC7.01._SCLZZZZZZZ.jpg

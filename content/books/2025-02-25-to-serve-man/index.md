@@ -5,6 +5,7 @@ book_author: Damon Knight
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/6082238-to-serve-man
+goodreads_work_id: '6258953'
 image:
 - B000FBFP5O.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000FBFP5O.01._SCLZZZZZZZ.jpg

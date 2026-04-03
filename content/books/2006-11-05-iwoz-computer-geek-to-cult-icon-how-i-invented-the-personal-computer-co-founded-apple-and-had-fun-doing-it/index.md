@@ -5,6 +5,7 @@ book_author: Steve Wozniak
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/5558.iWoz_Computer_Geek_to_Cult_Icon
+goodreads_work_id: '2351530'
 image:
 - B000VUCIZO.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000VUCIZO.01._SCLZZZZZZZ.jpg

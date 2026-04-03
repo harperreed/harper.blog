@@ -5,6 +5,7 @@ book_author: Richard Matheson
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/547094.I_Am_Legend_and_Other_Stories
+goodreads_work_id: '2223519'
 image:
 - B07XB49BG4.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07XB49BG4.01._SCLZZZZZZZ.jpg

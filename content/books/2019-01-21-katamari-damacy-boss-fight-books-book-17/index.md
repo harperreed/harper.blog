@@ -5,6 +5,7 @@ book_author: L.E. Hall
 date: '2019-01-21T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/41825921-katamari-damacy
+goodreads_work_id: '55320017'
 image:
 - B07H8SPDFR.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07H8SPDFR.01._SCLZZZZZZZ.jpg

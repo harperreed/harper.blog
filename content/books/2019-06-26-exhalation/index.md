@@ -5,6 +5,7 @@ book_author: Ted Chiang
 date: '2019-06-26T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/52222275-exhalation
+goodreads_work_id: '64336454'
 image:
 - B07GD46PQZ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07GD46PQZ.01._SCLZZZZZZZ.jpg

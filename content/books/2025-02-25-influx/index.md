@@ -5,6 +5,7 @@ book_author: Daniel Suarez
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18620483-influx
+goodreads_work_id: '25441287'
 image:
 - B00DMCPOBI.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00DMCPOBI.01._SCLZZZZZZZ.jpg

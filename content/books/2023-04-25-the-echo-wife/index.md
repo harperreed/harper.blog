@@ -5,6 +5,7 @@ book_author: Sarah Gailey
 date: '2023-04-25T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/52762345-the-echo-wife
+goodreads_work_id: '73056559'
 image:
 - B07WPNG138.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07WPNG138.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Banana Yoshimoto
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/289859.Amrita_1st_Edition_1st_Printing
+goodreads_work_id: '2056'
 image:
 - B01I8S4O84.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01I8S4O84.01._SCLZZZZZZZ.jpg

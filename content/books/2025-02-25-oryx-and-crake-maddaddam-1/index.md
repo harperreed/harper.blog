@@ -5,6 +5,7 @@ book_author: Margaret Atwood
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/46756.Oryx_and_Crake
+goodreads_work_id: '3143431'
 image:
 - B00BG7FJFC.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00BG7FJFC.01._SCLZZZZZZZ.jpg

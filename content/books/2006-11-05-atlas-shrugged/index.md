@@ -5,6 +5,7 @@ book_author: Ayn Rand
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/831577.Atlas_Shrugged
+goodreads_work_id: '817219'
 image:
 - B003V8B5XO.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B003V8B5XO.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Arturo Pérez-Reverte
 date: '2014-11-30T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/16094919-the-club-dumas
+goodreads_work_id: '372756'
 image:
 - B003SNKBXW.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B003SNKBXW.01._SCLZZZZZZZ.jpg

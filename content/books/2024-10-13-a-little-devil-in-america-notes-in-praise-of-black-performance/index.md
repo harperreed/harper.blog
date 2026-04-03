@@ -5,6 +5,7 @@ book_author: Hanif Abdurraqib
 date: '2024-10-13T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/51218518-a-little-devil-in-america
+goodreads_work_id: '62219511'
 image:
 - B07QWH8DV1.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07QWH8DV1.01._SCLZZZZZZZ.jpg

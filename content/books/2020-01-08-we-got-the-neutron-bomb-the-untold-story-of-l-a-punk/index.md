@@ -5,6 +5,7 @@ book_author: Marc Spitz
 date: '2020-01-08T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/8450018-we-got-the-neutron-bomb
+goodreads_work_id: '1233005'
 image:
 - B003FCTZ9C.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B003FCTZ9C.01._SCLZZZZZZZ.jpg

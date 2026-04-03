@@ -5,6 +5,7 @@ book_author: Cory Doctorow
 date: '2021-07-05T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/53677578-attack-surface
+goodreads_work_id: '74693588'
 image:
 - B082RS7N3X.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B082RS7N3X.01._SCLZZZZZZZ.jpg

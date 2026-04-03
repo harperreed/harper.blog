@@ -5,6 +5,7 @@ book_author: M.L. Wang
 date: '2024-05-19T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/208455470-blood-over-bright-haven
+goodreads_work_id: '90736001'
 image:
 - B0CVLFJMV2.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0CVLFJMV2.01._SCLZZZZZZZ.jpg

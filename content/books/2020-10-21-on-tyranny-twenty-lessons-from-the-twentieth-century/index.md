@@ -5,6 +5,7 @@ book_author: Timothy Snyder
 date: '2020-10-21T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/34083908-on-tyranny
+goodreads_work_id: '54882949'
 image:
 - B01N4M1BQY.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01N4M1BQY.01._SCLZZZZZZZ.jpg

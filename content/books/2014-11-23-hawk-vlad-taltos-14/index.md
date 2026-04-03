@@ -5,6 +5,7 @@ book_author: Steven Brust
 date: '2014-11-23T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/21570327-hawk
+goodreads_work_id: '23893044'
 image:
 - B00J6TWICO.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00J6TWICO.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Jack Campbell
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/96594.Fearless
+goodreads_work_id: '93102'
 image:
 - B000SEGULG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000SEGULG.01._SCLZZZZZZZ.jpg

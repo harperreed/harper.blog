@@ -5,6 +5,7 @@ book_author: Virginia Hanlon Grohl
 date: '2024-02-27T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/33395558-from-cradle-to-stage
+goodreads_work_id: '52064070'
 image:
 - B01HZFB0CY.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01HZFB0CY.01._SCLZZZZZZZ.jpg

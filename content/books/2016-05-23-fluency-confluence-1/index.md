@@ -5,6 +5,7 @@ book_author: Jennifer Foehner Wells
 date: '2016-05-23T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/22566044-fluency
+goodreads_work_id: '42028608'
 image:
 - B00L3U9OCG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00L3U9OCG.01._SCLZZZZZZZ.jpg

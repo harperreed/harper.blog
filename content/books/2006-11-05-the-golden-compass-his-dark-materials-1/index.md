@@ -5,6 +5,7 @@ book_author: Philip Pullman
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18115.The_Golden_Compass
+goodreads_work_id: '1536771'
 image:
 - B000FC1ICM.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000FC1ICM.01._SCLZZZZZZZ.jpg

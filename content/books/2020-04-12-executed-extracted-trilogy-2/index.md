@@ -5,6 +5,7 @@ book_author: R.R. Haywood
 date: '2020-04-12T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/34037955-executed
+goodreads_work_id: '54831121'
 image:
 - B01N0QQWCL.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01N0QQWCL.01._SCLZZZZZZZ.jpg

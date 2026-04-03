@@ -5,6 +5,7 @@ book_author: Toni Morrison
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/6149.Beloved
+goodreads_work_id: '736076'
 image:
 - B000TWUTYG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000TWUTYG.01._SCLZZZZZZZ.jpg

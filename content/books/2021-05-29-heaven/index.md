@@ -5,6 +5,7 @@ book_author: Mieko Kawakami
 date: '2021-05-29T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/53583567-heaven
+goodreads_work_id: '7124935'
 image:
 - B0DWVSBS1K.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWVSBS1K.01._SCLZZZZZZZ.jpg

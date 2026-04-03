@@ -5,6 +5,7 @@ book_author: Ann Leckie
 date: '2014-11-12T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/20944489-ancillary-sword
+goodreads_work_id: '40026175'
 image:
 - B00I8289A0.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00I8289A0.01._SCLZZZZZZZ.jpg

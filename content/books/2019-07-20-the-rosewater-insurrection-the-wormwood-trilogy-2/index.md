@@ -5,6 +5,7 @@ book_author: Tade Thompson
 date: '2019-07-20T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/41819600-the-rosewater-insurrection
+goodreads_work_id: '63294872'
 image:
 - B07F67PVJ7.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07F67PVJ7.01._SCLZZZZZZZ.jpg

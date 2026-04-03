@@ -5,6 +5,7 @@ book_author: R.F. Kuang
 date: '2020-08-09T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/42800305-the-dragon-republic
+goodreads_work_id: '64240081'
 image:
 - B07CRKXQ1Y.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07CRKXQ1Y.01._SCLZZZZZZZ.jpg

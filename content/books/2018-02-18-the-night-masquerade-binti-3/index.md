@@ -5,6 +5,7 @@ book_author: Nnedi Okorafor
 date: '2018-02-18T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/34386617-the-night-masquerade
+goodreads_work_id: '55477512'
 image:
 - B06WPBWQMM.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B06WPBWQMM.01._SCLZZZZZZZ.jpg

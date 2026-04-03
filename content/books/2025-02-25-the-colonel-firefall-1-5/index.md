@@ -5,6 +5,7 @@ book_author: Peter Watts
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/22699805-the-colonel
+goodreads_work_id: '42039043'
 image:
 - B00L73GSVE.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00L73GSVE.01._SCLZZZZZZZ.jpg

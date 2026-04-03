@@ -5,6 +5,7 @@ book_author: Arkady Martine
 date: '2021-03-07T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/39873472-a-memory-called-empire
+goodreads_work_id: '59457173'
 image:
 - B07C7BCB88.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07C7BCB88.01._SCLZZZZZZZ.jpg

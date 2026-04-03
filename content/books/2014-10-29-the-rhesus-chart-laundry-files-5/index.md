@@ -5,6 +5,7 @@ book_author: Charles Stross
 date: '2014-10-29T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18902300-the-rhesus-chart
+goodreads_work_id: '25632880'
 image:
 - B00G3L7YT0.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00G3L7YT0.01._SCLZZZZZZZ.jpg

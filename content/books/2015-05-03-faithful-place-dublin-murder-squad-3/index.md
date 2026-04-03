@@ -5,6 +5,7 @@ book_author: Tana French
 date: '2015-05-03T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/8602351-faithful-place
+goodreads_work_id: '7350661'
 image:
 - B0DWV7CKST.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWV7CKST.01._SCLZZZZZZZ.jpg

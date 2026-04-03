@@ -5,6 +5,7 @@ book_author: Vikram Chandra
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/129678.Red_Earth_and_Pouring_Rain
+goodreads_work_id: '159892'
 image:
 - B004ZGZDCU.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B004ZGZDCU.01._SCLZZZZZZZ.jpg

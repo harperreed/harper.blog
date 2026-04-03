@@ -5,6 +5,7 @@ book_author: Lindsay  Ellis
 date: '2021-01-13T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/52848072-axiom-s-end
+goodreads_work_id: '72729696'
 image:
 - B07Z2L6VP4.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07Z2L6VP4.01._SCLZZZZZZZ.jpg

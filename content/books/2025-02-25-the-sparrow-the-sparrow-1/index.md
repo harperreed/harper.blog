@@ -5,6 +5,7 @@ book_author: Mary Doria Russell
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/35162756-the-sparrow
+goodreads_work_id: '3349153'
 image:
 - B000SEIFGO.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000SEIFGO.01._SCLZZZZZZZ.jpg

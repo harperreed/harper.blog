@@ -5,6 +5,7 @@ book_author: Haruki Murakami
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/11297.Norwegian_Wood
+goodreads_work_id: '2956680'
 image:
 - B003XT603Q.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B003XT603Q.01._SCLZZZZZZZ.jpg

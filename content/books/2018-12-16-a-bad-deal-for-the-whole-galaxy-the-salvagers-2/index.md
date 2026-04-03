@@ -5,6 +5,7 @@ book_author: Alex White
 date: '2018-12-16T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/39723966-a-bad-deal-for-the-whole-galaxy
+goodreads_work_id: '61404622'
 image:
 - B07BVPB56K.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07BVPB56K.01._SCLZZZZZZZ.jpg

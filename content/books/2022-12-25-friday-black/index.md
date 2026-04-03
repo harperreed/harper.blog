@@ -5,6 +5,7 @@ book_author: Nana Kwame Adjei-Brenyah
 date: '2022-12-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/39685351-friday-black
+goodreads_work_id: '59181816'
 image:
 - B07897SFZF.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07897SFZF.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Christopher    Brown
 date: '2025-04-02T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/43789390-rule-of-capture
+goodreads_work_id: '65917573'
 image:
 - B07G14MJ4Z.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07G14MJ4Z.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Neal Asher
 date: '2022-05-04T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/57668041-jack-four
+goodreads_work_id: '87575713'
 image:
 - B08YMGW2T8.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08YMGW2T8.01._SCLZZZZZZZ.jpg

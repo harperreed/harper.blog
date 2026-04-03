@@ -5,6 +5,7 @@ book_author: Silvia Moreno-Garcia
 date: '2021-03-20T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/52873094-mexican-gothic
+goodreads_work_id: '229519519'
 image:
 - B07YK1K1YK.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07YK1K1YK.01._SCLZZZZZZZ.jpg

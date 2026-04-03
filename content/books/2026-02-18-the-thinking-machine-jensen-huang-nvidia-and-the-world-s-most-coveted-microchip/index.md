@@ -5,6 +5,7 @@ book_author: Stephen Witt
 date: '2026-02-18T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/211399637-the-thinking-machine
+goodreads_work_id: '218822936'
 image:
 - B0D1QFBGQD.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0D1QFBGQD.01._SCLZZZZZZZ.jpg

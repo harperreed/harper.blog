@@ -5,6 +5,7 @@ book_author: Larry Niven
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/4049050-fleet-of-worlds
+goodreads_work_id: '293596'
 image:
 - B000UZPHTE.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000UZPHTE.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Eddie S. Glaude Jr.
 date: '2021-07-19T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/49992017-begin-again
+goodreads_work_id: '70560547'
 image:
 - B07RFVCB11.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07RFVCB11.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Jonah Lehrer
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/822367.Proust_Was_a_Neuroscientist
+goodreads_work_id: '2839122'
 image:
 - B003K15IM6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B003K15IM6.01._SCLZZZZZZZ.jpg

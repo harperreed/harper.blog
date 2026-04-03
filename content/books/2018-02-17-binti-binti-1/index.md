@@ -5,6 +5,7 @@ book_author: Nnedi Okorafor
 date: '2018-02-17T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/25667918-binti
+goodreads_work_id: '45491127'
 image:
 - B00Y7RWXHU.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00Y7RWXHU.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Jeff  Carlson
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/294460.Plague_Year
+goodreads_work_id: '4087763'
 image:
 - B00AHJTUBE.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00AHJTUBE.01._SCLZZZZZZZ.jpg

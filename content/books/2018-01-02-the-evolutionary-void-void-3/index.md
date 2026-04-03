@@ -5,6 +5,7 @@ book_author: Peter F. Hamilton
 date: '2018-01-02T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/9230082-the-evolutionary-void
+goodreads_work_id: '9438856'
 image:
 - B003F3PMEI.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B003F3PMEI.01._SCLZZZZZZZ.jpg

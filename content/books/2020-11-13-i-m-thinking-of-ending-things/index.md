@@ -5,6 +5,7 @@ book_author: Iain Reid
 date: '2020-11-13T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/40605223-i-m-thinking-of-ending-things
+goodreads_work_id: '47328175'
 image:
 - B0176M1BVG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0176M1BVG.01._SCLZZZZZZZ.jpg

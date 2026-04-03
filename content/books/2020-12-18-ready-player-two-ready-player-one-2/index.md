@@ -5,6 +5,7 @@ book_author: Ernest Cline
 date: '2020-12-18T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/54447930-ready-player-two
+goodreads_work_id: '59016474'
 image:
 - B08BYWH6CS.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08BYWH6CS.01._SCLZZZZZZZ.jpg

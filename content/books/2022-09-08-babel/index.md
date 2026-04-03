@@ -5,6 +5,7 @@ book_author: R.F. Kuang
 date: '2022-09-08T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/59729042-babel
+goodreads_work_id: '90789229'
 image:
 - B09MD95S5V.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09MD95S5V.01._SCLZZZZZZZ.jpg

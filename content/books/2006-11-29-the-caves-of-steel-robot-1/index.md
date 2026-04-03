@@ -5,6 +5,7 @@ book_author: Isaac Asimov
 date: '2006-11-29T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/76677.The_Caves_of_Steel
+goodreads_work_id: '140376'
 image:
 - 0553293400.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/0553293400.01._SCLZZZZZZZ.jpg

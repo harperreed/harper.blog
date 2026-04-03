@@ -5,6 +5,7 @@ book_author: Christopher Ruocchio
 date: '2024-03-19T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/36454667-empire-of-silence
+goodreads_work_id: '58159105'
 image:
 - B07693PKH7.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07693PKH7.01._SCLZZZZZZZ.jpg

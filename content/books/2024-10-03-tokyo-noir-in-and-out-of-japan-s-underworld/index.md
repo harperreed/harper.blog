@@ -5,6 +5,7 @@ book_author: Jake Adelstein
 date: '2024-10-03T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/209777275-tokyo-noir
+goodreads_work_id: '209883376'
 image:
 - B0CXVG6G6G.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0CXVG6G6G.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Alan Dean Foster
 date: '2019-10-04T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/37856921-relic
+goodreads_work_id: '58759972'
 image:
 - B077LVN64L.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B077LVN64L.01._SCLZZZZZZZ.jpg

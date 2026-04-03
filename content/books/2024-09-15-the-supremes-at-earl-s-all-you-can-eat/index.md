@@ -5,6 +5,7 @@ book_author: Edward Kelsey Moore
 date: '2024-09-15T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/17703544-the-supremes-at-earl-s-all-you-can-eat
+goodreads_work_id: '21430204'
 image:
 - B009FKTKIE.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B009FKTKIE.01._SCLZZZZZZZ.jpg

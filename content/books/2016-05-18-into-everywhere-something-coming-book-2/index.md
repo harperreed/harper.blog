@@ -5,6 +5,7 @@ book_author: Paul McAuley
 date: '2016-05-18T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/28445136-into-everywhere
+goodreads_work_id: '45895491'
 image:
 - B015ERLZ8Y.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B015ERLZ8Y.01._SCLZZZZZZZ.jpg

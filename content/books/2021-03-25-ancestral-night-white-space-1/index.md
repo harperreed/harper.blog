@@ -5,6 +5,7 @@ book_author: Elizabeth Bear
 date: '2021-03-25T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/41453114-ancestral-night
+goodreads_work_id: '41186071'
 image:
 - B07GNRVY7J.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07GNRVY7J.01._SCLZZZZZZZ.jpg

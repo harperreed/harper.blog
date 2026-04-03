@@ -5,6 +5,7 @@ book_author: Octavia E. Butler
 date: '2020-06-27T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/54093737-parable-of-the-sower
+goodreads_work_id: '59258'
 image:
 - B0DWVNGYXZ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWVNGYXZ.01._SCLZZZZZZZ.jpg

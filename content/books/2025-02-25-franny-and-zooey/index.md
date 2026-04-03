@@ -5,6 +5,7 @@ book_author: J.D. Salinger
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/5113.Franny_and_Zooey
+goodreads_work_id: '3118417'
 image:
 - B00JHQOCR0.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00JHQOCR0.01._SCLZZZZZZZ.jpg

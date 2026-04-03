@@ -5,6 +5,7 @@ book_author: Seneca
 date: '2022-08-01T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/36330113-on-the-shortness-of-life
+goodreads_work_id: '1374471'
 image:
 - B075THP2VL.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B075THP2VL.01._SCLZZZZZZZ.jpg

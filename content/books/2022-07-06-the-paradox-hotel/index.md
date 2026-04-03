@@ -5,6 +5,7 @@ book_author: Rob Hart
 date: '2022-07-06T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/58185921-the-paradox-hotel
+goodreads_work_id: '88639835'
 image:
 - B095MQZ72L.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B095MQZ72L.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: David Litt
 date: '2017-09-22T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/33640761-thanks-obama
+goodreads_work_id: '54491289'
 image:
 - B01NAMVJTI.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01NAMVJTI.01._SCLZZZZZZZ.jpg

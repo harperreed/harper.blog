@@ -5,6 +5,7 @@ book_author: Patrick Rothfuss
 date: '2024-06-18T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/153719252-the-narrow-road-between-desires
+goodreads_work_id: '170397636'
 image:
 - B0C54SFGG8.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0C54SFGG8.01._SCLZZZZZZZ.jpg

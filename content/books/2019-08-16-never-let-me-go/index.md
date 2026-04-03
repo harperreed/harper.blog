@@ -5,6 +5,7 @@ book_author: Kazuo Ishiguro
 date: '2019-08-16T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/6572790-never-let-me-go
+goodreads_work_id: '1499998'
 image:
 - B0DWV4LSP6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWV4LSP6.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Denis Johnson
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/9904.The_Throne_of_the_Third_Heaven_of_the_Nations_Millennium_General_Assembly
+goodreads_work_id: '12660'
 image:
 - B001TKD4ZS.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B001TKD4ZS.01._SCLZZZZZZZ.jpg

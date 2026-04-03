@@ -5,6 +5,7 @@ book_author: Steven D. Levitt
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/1202.Freakonomics
+goodreads_work_id: '5397'
 image:
 - B00699M9NM.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00699M9NM.01._SCLZZZZZZZ.jpg

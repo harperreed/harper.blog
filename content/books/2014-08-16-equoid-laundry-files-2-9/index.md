@@ -5,6 +5,7 @@ book_author: Charles Stross
 date: '2014-08-16T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18583436-equoid
+goodreads_work_id: '25632901'
 image:
 - B00EWZCTD0.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00EWZCTD0.01._SCLZZZZZZZ.jpg

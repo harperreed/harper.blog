@@ -5,6 +5,7 @@ book_author: Stephen Budiansky
 date: '2023-03-27T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/30557997-code-warriors
+goodreads_work_id: '46857180'
 image:
 - B015VA8OBK.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B015VA8OBK.01._SCLZZZZZZZ.jpg

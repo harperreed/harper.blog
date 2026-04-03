@@ -5,6 +5,7 @@ book_author: Vernor Vinge
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/167843.The_Collected_Stories_of_Vernor_Vinge
+goodreads_work_id: '3100319'
 image:
 - B0046A9MAE.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0046A9MAE.01._SCLZZZZZZZ.jpg

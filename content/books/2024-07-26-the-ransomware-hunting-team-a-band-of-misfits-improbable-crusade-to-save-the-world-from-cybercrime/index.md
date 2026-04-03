@@ -5,6 +5,7 @@ book_author: Renee Dudley
 date: '2024-07-26T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/62980094-the-ransomware-hunting-team
+goodreads_work_id: '94200038'
 image:
 - B09NTKJLDQ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09NTKJLDQ.01._SCLZZZZZZZ.jpg

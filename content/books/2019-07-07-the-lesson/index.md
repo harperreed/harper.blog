@@ -5,6 +5,7 @@ book_author: Cadwell Turnbull
 date: '2019-07-07T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/41971651-the-lesson
+goodreads_work_id: '64725061'
 image:
 - B0BVTGWC8N.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0BVTGWC8N.01._SCLZZZZZZZ.jpg

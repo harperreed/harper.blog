@@ -5,6 +5,7 @@ book_author: Lulu Miller
 date: '2025-06-11T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/52557132-why-fish-don-t-exist
+goodreads_work_id: '71431307'
 image:
 - B07THBZ4VD.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07THBZ4VD.01._SCLZZZZZZZ.jpg

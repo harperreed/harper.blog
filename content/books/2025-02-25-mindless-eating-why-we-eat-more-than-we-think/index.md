@@ -5,6 +5,7 @@ book_author: Brian Wansink
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/129731.Mindless_Eating
+goodreads_work_id: '124953'
 image:
 - B000MAHC0E.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000MAHC0E.01._SCLZZZZZZZ.jpg

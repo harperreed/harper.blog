@@ -5,6 +5,7 @@ book_author: Jessica Townsend
 date: '2021-08-08T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/35560263-nevermoor
+goodreads_work_id: '55271407'
 image:
 - B01N9ZT92Q.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01N9ZT92Q.01._SCLZZZZZZZ.jpg

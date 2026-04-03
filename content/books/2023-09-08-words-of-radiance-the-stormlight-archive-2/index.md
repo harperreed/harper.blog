@@ -5,6 +5,7 @@ book_author: Brandon Sanderson
 date: '2023-09-08T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/20150777-words-of-radiance
+goodreads_work_id: '16482835'
 image:
 - B0DWTYX522.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWTYX522.01._SCLZZZZZZZ.jpg

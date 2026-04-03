@@ -5,6 +5,7 @@ book_author: Adrian Tchaikovsky
 date: '2024-07-12T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/198112144-service-model
+goodreads_work_id: '197724648'
 image:
 - B0CGRXGB4Q.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0CGRXGB4Q.01._SCLZZZZZZZ.jpg

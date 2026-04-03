@@ -5,6 +5,7 @@ book_author: Jeremy Scahill
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/1920578.Blackwater
+goodreads_work_id: '93002'
 image:
 - B0097CYTYA.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0097CYTYA.01._SCLZZZZZZZ.jpg

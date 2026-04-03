@@ -5,6 +5,7 @@ book_author: Christopher Paolini
 date: '2021-01-10T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/48894288-to-sleep-in-a-sea-of-stars
+goodreads_work_id: '63664903'
 image:
 - B081D7ZSTL.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B081D7ZSTL.01._SCLZZZZZZZ.jpg

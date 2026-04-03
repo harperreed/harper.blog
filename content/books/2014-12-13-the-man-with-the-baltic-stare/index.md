@@ -5,6 +5,7 @@ book_author: James  Church
 date: '2014-12-13T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/9433291-the-man-with-the-baltic-stare
+goodreads_work_id: '13768666'
 image:
 - B003P9WEBG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B003P9WEBG.01._SCLZZZZZZZ.jpg

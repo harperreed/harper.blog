@@ -5,6 +5,7 @@ book_author: Elizabeth Moon
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/13378984-command-desicion
+goodreads_work_id: '230213'
 image:
 - B004BDOJA4.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B004BDOJA4.01._SCLZZZZZZZ.jpg

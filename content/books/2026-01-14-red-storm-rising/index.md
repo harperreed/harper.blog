@@ -5,6 +5,7 @@ book_author: Tom Clancy
 date: '2026-01-14T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/6316217-red-storm-rising
+goodreads_work_id: '5054712'
 image:
 - B001QEAQQC.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B001QEAQQC.01._SCLZZZZZZZ.jpg

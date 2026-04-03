@@ -5,6 +5,7 @@ book_author: Vernor Vinge
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/226004.A_Deepness_in_the_Sky
+goodreads_work_id: '1270006'
 image:
 - B002H8ORKM.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B002H8ORKM.01._SCLZZZZZZZ.jpg

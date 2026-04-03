@@ -5,6 +5,7 @@ book_author: Jon Raymond
 date: '2023-05-06T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/61684807-denial
+goodreads_work_id: '93537100'
 image:
 - B09JPJF5B1.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09JPJF5B1.01._SCLZZZZZZZ.jpg

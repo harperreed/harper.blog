@@ -5,6 +5,7 @@ book_author: Alastair Reynolds
 date: '2019-03-18T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/40048442-permafrost
+goodreads_work_id: '62058421'
 image:
 - B07HF26D1H.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07HF26D1H.01._SCLZZZZZZZ.jpg

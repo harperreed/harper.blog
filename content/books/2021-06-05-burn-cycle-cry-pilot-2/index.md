@@ -5,6 +5,7 @@ book_author: Joel Dane
 date: '2021-06-05T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/52376343-burn-cycle
+goodreads_work_id: '73055747'
 image:
 - B07RRLCKWX.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07RRLCKWX.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Wesley Chu
 date: '2015-11-30T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/24504740-time-salvager
+goodreads_work_id: '42713959'
 image:
 - B00NKB9RSW.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00NKB9RSW.01._SCLZZZZZZZ.jpg

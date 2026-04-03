@@ -5,6 +5,7 @@ book_author: Barbara Truelove
 date: '2025-06-16T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/216540053-of-monsters-and-mainframes
+goodreads_work_id: '222958059'
 image:
 - B0D9KF5FQN.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0D9KF5FQN.01._SCLZZZZZZZ.jpg

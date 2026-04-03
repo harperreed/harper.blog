@@ -5,6 +5,7 @@ book_author: Mick Herron
 date: '2022-03-29T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/19191674-slow-horses
+goodreads_work_id: '11252875'
 image:
 - B0DLRRT6B2.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DLRRT6B2.01._SCLZZZZZZZ.jpg

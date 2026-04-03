@@ -5,6 +5,7 @@ book_author: Michael Mammay
 date: '2018-08-05T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/36556473-planetside
+goodreads_work_id: '57112738'
 image:
 - B073TVCGBG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B073TVCGBG.01._SCLZZZZZZZ.jpg

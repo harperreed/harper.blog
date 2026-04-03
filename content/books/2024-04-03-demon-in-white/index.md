@@ -5,6 +5,7 @@ book_author: Christopher Ruocchio
 date: '2024-04-03T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/48906413-demon-in-white
+goodreads_work_id: '71370329'
 image:
 - B081M784DV.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B081M784DV.01._SCLZZZZZZZ.jpg

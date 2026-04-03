@@ -5,6 +5,7 @@ book_author: Alastair Reynolds
 date: '2014-06-15T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/6594614-chasm-city
+goodreads_work_id: '2926628'
 image:
 - B0819TXR83.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0819TXR83.01._SCLZZZZZZZ.jpg

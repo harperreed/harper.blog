@@ -5,6 +5,7 @@ book_author: John Scalzi
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/88071.The_Last_Colony
+goodreads_work_id: '18279847'
 image:
 - B000YJ85BI.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000YJ85BI.01._SCLZZZZZZZ.jpg

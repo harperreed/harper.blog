@@ -5,6 +5,7 @@ book_author: Dan Simmons
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/3972.Olympos
+goodreads_work_id: '1537178'
 image:
 - B000FCK97C.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000FCK97C.01._SCLZZZZZZZ.jpg

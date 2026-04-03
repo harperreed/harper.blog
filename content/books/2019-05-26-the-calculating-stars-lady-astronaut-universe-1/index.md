@@ -5,6 +5,7 @@ book_author: Mary Robinette Kowal
 date: '2019-05-26T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/36238876-the-calculating-stars
+goodreads_work_id: '53735352'
 image:
 - B0756JH5R1.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0756JH5R1.01._SCLZZZZZZZ.jpg

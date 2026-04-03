@@ -5,6 +5,7 @@ book_author: Isaac Asimov
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/626781.Second_Foundation
+goodreads_work_id: '64823'
 image:
 - B009I7OBT2.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B009I7OBT2.01._SCLZZZZZZZ.jpg

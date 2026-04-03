@@ -5,6 +5,7 @@ book_author: Neal Stephenson
 date: '2019-06-12T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/42740231-fall-or-dodge-in-hell
+goodreads_work_id: '45833113'
 image:
 - B071X3ZWDN.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B071X3ZWDN.01._SCLZZZZZZZ.jpg

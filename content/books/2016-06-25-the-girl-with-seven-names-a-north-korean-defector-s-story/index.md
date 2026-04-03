@@ -5,6 +5,7 @@ book_author: Hyeonseo Lee
 date: '2016-06-25T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/35248097-the-girl-with-seven-names
+goodreads_work_id: '45105689'
 image:
 - B00JD3ZL9U.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00JD3ZL9U.01._SCLZZZZZZZ.jpg

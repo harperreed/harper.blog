@@ -5,6 +5,7 @@ book_author: John Scalzi
 date: '2017-05-29T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/34819813-the-dispatcher
+goodreads_work_id: '46020966'
 image:
 - B06XZ41MYR.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B06XZ41MYR.01._SCLZZZZZZZ.jpg

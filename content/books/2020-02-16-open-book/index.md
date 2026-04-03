@@ -5,6 +5,7 @@ book_author: Jessica Simpson
 date: '2020-02-16T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/51282547-open-book
+goodreads_work_id: '71871234'
 image:
 - B07GVJPXV9.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07GVJPXV9.01._SCLZZZZZZZ.jpg

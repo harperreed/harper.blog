@@ -5,6 +5,7 @@ book_author: Ann Leckie
 date: '2014-11-08T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/17333324-ancillary-justice
+goodreads_work_id: '24064628'
 image:
 - B00BAXFDLM.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00BAXFDLM.01._SCLZZZZZZZ.jpg

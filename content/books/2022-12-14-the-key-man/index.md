@@ -5,6 +5,7 @@ book_author: Simon     Clark
 date: '2022-12-14T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/56021011-the-key-man
+goodreads_work_id: '72778329'
 image:
 - B08KQ97TDX.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08KQ97TDX.01._SCLZZZZZZZ.jpg

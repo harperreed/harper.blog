@@ -5,6 +5,7 @@ book_author: John Darnielle
 date: '2020-02-18T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/31327539-universal-harvester
+goodreads_work_id: '50329879'
 image:
 - B01IA6NW9Q.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01IA6NW9Q.01._SCLZZZZZZZ.jpg

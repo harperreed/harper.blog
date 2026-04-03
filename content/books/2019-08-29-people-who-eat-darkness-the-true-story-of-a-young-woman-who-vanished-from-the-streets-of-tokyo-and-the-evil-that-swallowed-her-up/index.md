@@ -5,6 +5,7 @@ book_author: Richard Lloyd Parry
 date: '2019-08-29T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18877989-people-who-eat-darkness
+goodreads_work_id: '13357472'
 image:
 - B007RMYAPA.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B007RMYAPA.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Gardner Dozois
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/98037.The_Year_s_Best_Science_Fiction
+goodreads_work_id: '1230503'
 image:
 - B005OS3BX6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B005OS3BX6.01._SCLZZZZZZZ.jpg

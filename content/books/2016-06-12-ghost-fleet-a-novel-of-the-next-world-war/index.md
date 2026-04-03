@@ -5,6 +5,7 @@ book_author: P.W. Singer
 date: '2016-06-12T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/22749719-ghost-fleet
+goodreads_work_id: '42295119'
 image:
 - B00LZ7GOI4.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00LZ7GOI4.01._SCLZZZZZZZ.jpg

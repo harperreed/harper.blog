@@ -5,6 +5,7 @@ book_author: Mieko Kawakami
 date: '2020-06-29T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/53501914-breasts-and-eggs
+goodreads_work_id: '74401064'
 image:
 - B085HJQKS8.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B085HJQKS8.01._SCLZZZZZZZ.jpg

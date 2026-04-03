@@ -5,6 +5,7 @@ book_author: Philip José Farmer
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/581102.Venus_on_the_Half_Shell
+goodreads_work_id: '567995'
 image:
 - B00HNCN3V6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00HNCN3V6.01._SCLZZZZZZZ.jpg

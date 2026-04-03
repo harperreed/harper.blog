@@ -5,6 +5,7 @@ book_author: Alex Kotlowitz
 date: '2006-11-30T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/41918.There_are_No_Children_Here
+goodreads_work_id: '729410'
 image:
 - B0056QYSKG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0056QYSKG.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: S.A. Barnes
 date: '2024-07-02T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/133286915-ghost-station
+goodreads_work_id: '148388472'
 image:
 - B0C2MVPFNC.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0C2MVPFNC.01._SCLZZZZZZZ.jpg

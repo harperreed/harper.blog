@@ -5,6 +5,7 @@ book_author: K. Eason
 date: '2020-12-28T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/45154546-how-rory-thorne-destroyed-the-multiverse
+goodreads_work_id: '60123788'
 image:
 - B07MMKKF6W.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07MMKKF6W.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Jessica Townsend
 date: '2021-08-15T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/46255017-hollowpox
+goodreads_work_id: '71032460'
 image:
 - B07SNDXNWJ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07SNDXNWJ.01._SCLZZZZZZZ.jpg

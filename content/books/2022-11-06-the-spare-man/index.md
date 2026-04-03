@@ -5,6 +5,7 @@ book_author: Mary Robinette Kowal
 date: '2022-11-06T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/41892799-the-spare-man
+goodreads_work_id: '65396105'
 image:
 - B09CNDXYW3.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09CNDXYW3.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Michael Mammay
 date: '2020-07-26T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/42789062-spaceside
+goodreads_work_id: '65162061'
 image:
 - B07G148CJ9.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07G148CJ9.01._SCLZZZZZZZ.jpg

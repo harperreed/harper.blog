@@ -5,6 +5,7 @@ book_author: Adam Oyebanji
 date: '2022-08-09T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/59117793-braking-day
+goodreads_work_id: '91969330'
 image:
 - B098PWRSC7.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B098PWRSC7.01._SCLZZZZZZZ.jpg

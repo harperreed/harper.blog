@@ -5,6 +5,7 @@ book_author: Brandon Sanderson
 date: '2019-02-26T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/25402243-calamity
+goodreads_work_id: '21366542'
 image:
 - B00VZZ085G.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00VZZ085G.01._SCLZZZZZZZ.jpg

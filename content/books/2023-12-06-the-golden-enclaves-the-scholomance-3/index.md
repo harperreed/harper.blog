@@ -5,6 +5,7 @@ book_author: Naomi Novik
 date: '2023-12-06T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/59743336-the-golden-enclaves
+goodreads_work_id: '87070283'
 image:
 - B09MVM8R7T.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09MVM8R7T.01._SCLZZZZZZZ.jpg

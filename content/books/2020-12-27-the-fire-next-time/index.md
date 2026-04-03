@@ -5,6 +5,7 @@ book_author: James Baldwin
 date: '2020-12-27T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/19073499-the-fire-next-time
+goodreads_work_id: '1129041'
 image:
 - B00EGMV00W.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00EGMV00W.01._SCLZZZZZZZ.jpg

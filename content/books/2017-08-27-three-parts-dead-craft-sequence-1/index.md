@@ -5,6 +5,7 @@ book_author: Max Gladstone
 date: '2017-08-27T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/15784099-three-parts-dead
+goodreads_work_id: '19101555'
 image:
 - B0085UEQDO.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0085UEQDO.01._SCLZZZZZZZ.jpg

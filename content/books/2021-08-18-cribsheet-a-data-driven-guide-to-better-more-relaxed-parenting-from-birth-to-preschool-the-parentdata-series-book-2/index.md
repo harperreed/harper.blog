@@ -5,6 +5,7 @@ book_author: Emily Oster
 date: '2021-08-18T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/41062319-cribsheet
+goodreads_work_id: '62221619'
 image:
 - B07FZPTDJ3.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07FZPTDJ3.01._SCLZZZZZZZ.jpg

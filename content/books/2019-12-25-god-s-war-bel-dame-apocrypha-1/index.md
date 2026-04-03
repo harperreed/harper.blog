@@ -5,6 +5,7 @@ book_author: Kameron Hurley
 date: '2019-12-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/41923289-god-s-war
+goodreads_work_id: '14243275'
 image:
 - B07H47LZ7B.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07H47LZ7B.01._SCLZZZZZZZ.jpg

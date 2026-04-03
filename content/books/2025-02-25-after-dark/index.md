@@ -5,6 +5,7 @@ book_author: Haruki Murakami
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/4447419-after-dark
+goodreads_work_id: '3070852'
 image:
 - B00CUM7MHK.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00CUM7MHK.01._SCLZZZZZZZ.jpg

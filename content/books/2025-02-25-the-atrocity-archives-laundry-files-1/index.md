@@ -5,6 +5,7 @@ book_author: Charles Stross
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/101869.The_Atrocity_Archives
+goodreads_work_id: '322252'
 image:
 - B000OIZUIA.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000OIZUIA.01._SCLZZZZZZZ.jpg

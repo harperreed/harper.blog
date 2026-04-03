@@ -5,6 +5,7 @@ book_author: Kameron Hurley
 date: '2019-08-25T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/44671052-meet-me-in-the-future
+goodreads_work_id: '68154157'
 image:
 - B07N8CT4Q6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07N8CT4Q6.01._SCLZZZZZZZ.jpg

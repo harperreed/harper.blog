@@ -5,6 +5,7 @@ book_author: Vernor Vinge
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/167847.Marooned_in_Realtime
+goodreads_work_id: '448211'
 image:
 - B003J5UIHI.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B003J5UIHI.01._SCLZZZZZZZ.jpg

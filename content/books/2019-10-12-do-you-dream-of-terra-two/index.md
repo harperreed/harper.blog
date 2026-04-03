@@ -5,6 +5,7 @@ book_author: Temi Oh
 date: '2019-10-12T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/43466535-do-you-dream-of-terra-two
+goodreads_work_id: '56816428'
 image:
 - B07MNH9RMW.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07MNH9RMW.01._SCLZZZZZZZ.jpg

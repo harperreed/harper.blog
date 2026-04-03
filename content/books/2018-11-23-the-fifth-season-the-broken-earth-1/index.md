@@ -5,6 +5,7 @@ book_author: N.K. Jemisin
 date: '2018-11-23T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/38213103-the-fifth-season
+goodreads_work_id: '26115977'
 image:
 - B00H25FCSQ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00H25FCSQ.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Ursula K. Le Guin
 date: '2019-06-22T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/6602919-the-dispossessed
+goodreads_work_id: '2684122'
 image:
 - B0DWTT7HML.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWTT7HML.01._SCLZZZZZZZ.jpg

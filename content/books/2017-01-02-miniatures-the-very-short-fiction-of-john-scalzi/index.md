@@ -5,6 +5,7 @@ book_author: John Scalzi
 date: '2017-01-02T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/33225997-miniatures
+goodreads_work_id: '51914336'
 image:
 - B01NCF8YH6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01NCF8YH6.01._SCLZZZZZZZ.jpg

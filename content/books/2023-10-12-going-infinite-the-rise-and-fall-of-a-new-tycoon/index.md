@@ -5,6 +5,7 @@ book_author: Michael   Lewis
 date: '2023-10-12T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/156552773-going-infinite
+goodreads_work_id: '164040243'
 image:
 - B0C5DNW987.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0C5DNW987.01._SCLZZZZZZZ.jpg

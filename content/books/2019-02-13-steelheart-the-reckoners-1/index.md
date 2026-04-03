@@ -5,6 +5,7 @@ book_author: Brandon Sanderson
 date: '2019-02-13T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/43633995-steelheart
+goodreads_work_id: '21366540'
 image:
 - B00ARHAAZ6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00ARHAAZ6.01._SCLZZZZZZZ.jpg

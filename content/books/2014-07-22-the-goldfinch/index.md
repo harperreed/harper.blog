@@ -5,6 +5,7 @@ book_author: Donna Tartt
 date: '2014-07-22T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18902634-the-goldfinch
+goodreads_work_id: '24065147'
 image:
 - B00BAXFECK.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00BAXFECK.01._SCLZZZZZZZ.jpg

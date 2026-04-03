@@ -5,6 +5,7 @@ book_author: Alan Paton
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/5214.Cry_the_Beloved_Country
+goodreads_work_id: '59082'
 image:
 - B000FBJHL2.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000FBJHL2.01._SCLZZZZZZZ.jpg

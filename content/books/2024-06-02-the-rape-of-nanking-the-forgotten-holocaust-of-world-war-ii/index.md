@@ -5,6 +5,7 @@ book_author: Iris Chang
 date: '2024-06-02T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18874122-the-rape-of-nanking
+goodreads_work_id: '31912'
 image:
 - B005XQ973M.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B005XQ973M.01._SCLZZZZZZZ.jpg

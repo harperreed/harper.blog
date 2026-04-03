@@ -5,6 +5,7 @@ book_author: Yū Miri
 date: '2025-06-05T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/50284415-tokyo-ueno-station
+goodreads_work_id: '47328578'
 image:
 - B081914PR7.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B081914PR7.01._SCLZZZZZZZ.jpg

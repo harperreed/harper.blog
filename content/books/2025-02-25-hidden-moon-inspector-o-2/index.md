@@ -5,6 +5,7 @@ book_author: James  Church
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/10377835-hidden-moon
+goodreads_work_id: '2040424'
 image:
 - B003JH868E.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B003JH868E.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Jena Friedman
 date: '2023-05-03T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/62323489-not-funny
+goodreads_work_id: '96611352'
 image:
 - B0B3Y9Q7TY.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0B3Y9Q7TY.01._SCLZZZZZZZ.jpg

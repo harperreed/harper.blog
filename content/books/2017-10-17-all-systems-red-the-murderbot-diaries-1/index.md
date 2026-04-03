@@ -5,6 +5,7 @@ book_author: Martha Wells
 date: '2017-10-17T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/33396171-all-systems-red
+goodreads_work_id: '53349516'
 image:
 - B0DWTY5HDB.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWTY5HDB.01._SCLZZZZZZZ.jpg

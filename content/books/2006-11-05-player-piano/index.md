@@ -5,6 +5,7 @@ book_author: Kurt Vonnegut Jr.
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/9597.Player_Piano
+goodreads_work_id: '1005005'
 image:
 - B009BICFQ4.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B009BICFQ4.01._SCLZZZZZZZ.jpg

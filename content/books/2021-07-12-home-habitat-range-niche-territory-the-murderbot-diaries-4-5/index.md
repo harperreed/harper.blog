@@ -5,6 +5,7 @@ book_author: Martha Wells
 date: '2021-07-12T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/57680116-home
+goodreads_work_id: '84274758'
 image:
 - B091NSFH5H.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B091NSFH5H.01._SCLZZZZZZZ.jpg

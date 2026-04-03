@@ -5,6 +5,7 @@ book_author: Jon Gertner
 date: '2022-05-22T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/13119596-the-idea-factory
+goodreads_work_id: '16750267'
 image:
 - B005GSZIWG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B005GSZIWG.01._SCLZZZZZZZ.jpg

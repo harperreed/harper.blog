@@ -5,6 +5,7 @@ book_author: Peter F. Hamilton
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/45244.Judas_Unchained
+goodreads_work_id: '44507'
 image:
 - B000FCKPJ4.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000FCKPJ4.01._SCLZZZZZZZ.jpg

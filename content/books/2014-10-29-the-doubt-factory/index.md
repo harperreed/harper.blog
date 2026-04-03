@@ -5,6 +5,7 @@ book_author: Paolo Bacigalupi
 date: '2014-10-29T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/21421836-the-doubt-factory
+goodreads_work_id: '19191672'
 image:
 - B00I8289EQ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00I8289EQ.01._SCLZZZZZZZ.jpg

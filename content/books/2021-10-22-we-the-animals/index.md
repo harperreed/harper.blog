@@ -5,6 +5,7 @@ book_author: Justin Torres
 date: '2021-10-22T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/12359041-we-the-animals
+goodreads_work_id: '15208454'
 image:
 - B005ENZ6KM.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B005ENZ6KM.01._SCLZZZZZZZ.jpg

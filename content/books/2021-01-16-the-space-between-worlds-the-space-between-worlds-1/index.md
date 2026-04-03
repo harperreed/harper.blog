@@ -5,6 +5,7 @@ book_author: Micaiah Johnson
 date: '2021-01-16T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/48990389-the-space-between-worlds
+goodreads_work_id: '67194722'
 image:
 - B08191MPPS.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08191MPPS.01._SCLZZZZZZZ.jpg

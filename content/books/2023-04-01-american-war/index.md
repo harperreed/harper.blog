@@ -5,6 +5,7 @@ book_author: Omar El Akkad
 date: '2023-04-01T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/44230162-american-war
+goodreads_work_id: '52910875'
 image:
 - B01LXK1HBB.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01LXK1HBB.01._SCLZZZZZZZ.jpg

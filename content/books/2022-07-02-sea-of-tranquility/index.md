@@ -5,6 +5,7 @@ book_author: Emily St. John Mandel
 date: '2022-07-02T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/58601245-sea-of-tranquility
+goodreads_work_id: '92408226'
 image:
 - B0DWVTXL87.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWVTXL87.01._SCLZZZZZZZ.jpg

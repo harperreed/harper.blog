@@ -5,6 +5,7 @@ book_author: Liu Cixin
 date: '2016-10-17T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/25735618-death-s-end
+goodreads_work_id: '18520265'
 image:
 - B00WDVKZY0.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00WDVKZY0.01._SCLZZZZZZZ.jpg

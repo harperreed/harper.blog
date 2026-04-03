@@ -5,6 +5,7 @@ book_author: Scott J. Shapiro
 date: '2024-08-04T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/63904237-fancy-bear-goes-phishing
+goodreads_work_id: '97797743'
 image:
 - B0BBC8LG9P.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0BBC8LG9P.01._SCLZZZZZZZ.jpg

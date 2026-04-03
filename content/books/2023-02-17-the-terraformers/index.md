@@ -5,6 +5,7 @@ book_author: Annalee Newitz
 date: '2023-02-17T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/41070431-the-terraformers
+goodreads_work_id: '64155389'
 image:
 - B09XL7N9XD.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09XL7N9XD.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Brandon Sanderson
 date: '2019-02-21T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/10267807-mistborn-trilogy
+goodreads_work_id: '6798109'
 image:
 - B004H1TQBW.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B004H1TQBW.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Monica Byrne
 date: '2015-08-24T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/19865466-the-girl-in-the-road
+goodreads_work_id: '25782502'
 image:
 - B00GVZZL7A.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00GVZZL7A.01._SCLZZZZZZZ.jpg

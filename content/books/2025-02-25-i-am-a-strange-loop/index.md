@@ -5,6 +5,7 @@ book_author: Douglas R. Hofstadter
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/2666176-i-am-a-strange-loop
+goodreads_work_id: '2691404'
 image:
 - B004PYDBS0.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B004PYDBS0.01._SCLZZZZZZZ.jpg

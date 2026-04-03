@@ -5,6 +5,7 @@ book_author: Mary Robinette Kowal
 date: '2019-05-27T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/36238888-the-fated-sky
+goodreads_work_id: '53736197'
 image:
 - B0756JKWCJ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0756JKWCJ.01._SCLZZZZZZZ.jpg

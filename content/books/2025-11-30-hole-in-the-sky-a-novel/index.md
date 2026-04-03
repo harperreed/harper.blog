@@ -5,6 +5,7 @@ book_author: Daniel H. Wilson
 date: '2025-11-30T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/223500849-hole-in-the-sky
+goodreads_work_id: '230425272'
 image:
 - B0DSGQ1FS9.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DSGQ1FS9.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Slash
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/3755846-slash
+goodreads_work_id: '2338187'
 image:
 - B000WJOW3K.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000WJOW3K.01._SCLZZZZZZZ.jpg

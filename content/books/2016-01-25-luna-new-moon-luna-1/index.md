@@ -5,6 +5,7 @@ book_author: Ian McDonald
 date: '2016-01-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/25600186-luna
+goodreads_work_id: '43458032'
 image:
 - B00V34YJE0.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00V34YJE0.01._SCLZZZZZZZ.jpg

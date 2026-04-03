@@ -5,6 +5,7 @@ book_author: Kim Stanley Robinson
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/1960491.Sixty_Days_and_Counting
+goodreads_work_id: '962334'
 image:
 - B000OI0G6Q.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000OI0G6Q.01._SCLZZZZZZZ.jpg

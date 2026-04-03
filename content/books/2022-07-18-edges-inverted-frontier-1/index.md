@@ -5,6 +5,7 @@ book_author: Linda Nagata
 date: '2022-07-18T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/43483913-edges
+goodreads_work_id: '67627795'
 image:
 - B07MBR4X9B.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07MBR4X9B.01._SCLZZZZZZZ.jpg

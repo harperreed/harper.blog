@@ -5,6 +5,7 @@ book_author: Ken Liu
 date: '2020-03-28T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/51070072-the-hidden-girl-and-other-stories
+goodreads_work_id: '71431737'
 image:
 - B0DWV2T4MD.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWV2T4MD.01._SCLZZZZZZZ.jpg

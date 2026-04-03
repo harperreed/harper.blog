@@ -5,6 +5,7 @@ book_author: Gabrielle Zevin
 date: '2022-12-17T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/58916147-tomorrow-and-tomorrow-and-tomorrow
+goodreads_work_id: '89167797'
 image:
 - B0DWVZQPNV.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWVZQPNV.01._SCLZZZZZZZ.jpg

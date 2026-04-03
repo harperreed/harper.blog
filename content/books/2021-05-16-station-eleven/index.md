@@ -5,6 +5,7 @@ book_author: Emily St. John Mandel
 date: '2021-05-16T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/37653062-station-eleven
+goodreads_work_id: '28098716'
 image:
 - B0DWTQT2YL.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWTQT2YL.01._SCLZZZZZZZ.jpg

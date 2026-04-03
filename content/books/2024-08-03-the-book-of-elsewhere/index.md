@@ -5,6 +5,7 @@ book_author: Keanu Reeves
 date: '2024-08-03T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/203264082-the-book-of-elsewhere
+goodreads_work_id: '208879156'
 image:
 - B0CP7FXC4V.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0CP7FXC4V.01._SCLZZZZZZZ.jpg

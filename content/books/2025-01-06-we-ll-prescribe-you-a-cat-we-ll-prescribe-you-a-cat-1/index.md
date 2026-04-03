@@ -5,6 +5,7 @@ book_author: Syou Ishida
 date: '2025-01-06T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/209895723-we-ll-prescribe-you-a-cat
+goodreads_work_id: '210659078'
 image:
 - B0CY1D8G7K.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0CY1D8G7K.01._SCLZZZZZZZ.jpg

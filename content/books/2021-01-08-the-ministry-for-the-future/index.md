@@ -5,6 +5,7 @@ book_author: Kim Stanley Robinson
 date: '2021-01-08T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/51342031-the-ministry-for-the-future
+goodreads_work_id: '75844661'
 image:
 - B0DWVDCFW4.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWVDCFW4.01._SCLZZZZZZZ.jpg

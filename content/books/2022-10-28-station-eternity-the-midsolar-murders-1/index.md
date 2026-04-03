@@ -5,6 +5,7 @@ book_author: Mur Lafferty
 date: '2022-10-28T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/60304743-station-eternity
+goodreads_work_id: '94651569'
 image:
 - B09PZT7H9F.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09PZT7H9F.01._SCLZZZZZZZ.jpg

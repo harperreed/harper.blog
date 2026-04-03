@@ -5,6 +5,7 @@ book_author: Amy Stanley
 date: '2022-01-26T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/49210910-stranger-in-the-shogun-s-city
+goodreads_work_id: '73727860'
 image:
 - B07Z44RNY7.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07Z44RNY7.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Maya Angelou
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/13214.I_Know_Why_the_Caged_Bird_Sings
+goodreads_work_id: '1413589'
 image:
 - B003VIWVBO.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B003VIWVBO.01._SCLZZZZZZZ.jpg

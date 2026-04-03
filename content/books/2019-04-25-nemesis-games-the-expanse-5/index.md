@@ -5,6 +5,7 @@ book_author: James S.A. Corey
 date: '2019-04-25T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/22886612-nemesis-games
+goodreads_work_id: '42456264'
 image:
 - B00O7X626W.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00O7X626W.01._SCLZZZZZZZ.jpg

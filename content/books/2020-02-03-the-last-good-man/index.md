@@ -5,6 +5,7 @@ book_author: Linda Nagata
 date: '2020-02-03T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/35048762-the-last-good-man
+goodreads_work_id: '56026785'
 image:
 - B0722LWS24.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0722LWS24.01._SCLZZZZZZZ.jpg

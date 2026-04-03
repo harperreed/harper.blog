@@ -5,6 +5,7 @@ book_author: Craig Alanson
 date: '2021-01-30T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/28525188-columbus-day
+goodreads_work_id: '48683561'
 image:
 - B0DWVDHFHB.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWVDHFHB.01._SCLZZZZZZZ.jpg

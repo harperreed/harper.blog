@@ -5,6 +5,7 @@ book_author: Kevin Kwan
 date: '2017-08-19T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18158562-crazy-rich-asians
+goodreads_work_id: '21571970'
 image:
 - B00AP2VQEM.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00AP2VQEM.01._SCLZZZZZZZ.jpg

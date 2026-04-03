@@ -5,6 +5,7 @@ book_author: Elizabeth Moon
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/4988897-trading-in-danger-remnant-population
+goodreads_work_id: '21693830'
 image:
 - B000FBJDGQ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000FBJDGQ.01._SCLZZZZZZZ.jpg

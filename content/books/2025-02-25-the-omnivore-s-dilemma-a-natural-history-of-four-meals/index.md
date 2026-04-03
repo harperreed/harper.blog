@@ -5,6 +5,7 @@ book_author: Michael Pollan
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/93504.The_Omnivore_s_Dilemma
+goodreads_work_id: '3287769'
 image:
 - B000SEIDR0.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000SEIDR0.01._SCLZZZZZZZ.jpg

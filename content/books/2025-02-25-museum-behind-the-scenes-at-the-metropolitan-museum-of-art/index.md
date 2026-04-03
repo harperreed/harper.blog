@@ -5,6 +5,7 @@ book_author: Danny Danziger
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/5967444-museum
+goodreads_work_id: '169150'
 image:
 - B000TO0TAI.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000TO0TAI.01._SCLZZZZZZZ.jpg

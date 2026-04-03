@@ -5,6 +5,7 @@ book_author: Neal Stephenson
 date: '2025-02-04T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/52163195-polostan
+goodreads_work_id: '73605495'
 image:
 - B0CQHP8258.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0CQHP8258.01._SCLZZZZZZZ.jpg

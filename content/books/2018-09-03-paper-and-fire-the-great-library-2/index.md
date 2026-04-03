@@ -5,6 +5,7 @@ book_author: Rachel Caine
 date: '2018-09-03T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/27887873-paper-and-fire
+goodreads_work_id: '45771330'
 image:
 - B016JPTGZ4.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B016JPTGZ4.01._SCLZZZZZZZ.jpg

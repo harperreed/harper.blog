@@ -5,6 +5,7 @@ book_author: Ashlee Vance
 date: '2023-05-30T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/63226865-when-the-heavens-went-on-sale
+goodreads_work_id: '97810426'
 image:
 - B0B9SLZX9M.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0B9SLZX9M.01._SCLZZZZZZZ.jpg

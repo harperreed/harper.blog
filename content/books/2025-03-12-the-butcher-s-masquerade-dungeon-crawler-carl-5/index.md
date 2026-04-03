@@ -5,6 +5,7 @@ book_author: Matt Dinniman
 date: '2025-03-12T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/60233239-the-butcher-s-masquerade
+goodreads_work_id: '94982490'
 image:
 - B09R6C5X88.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09R6C5X88.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Brandon Sanderson
 date: '2019-02-26T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/21911720-firefight
+goodreads_work_id: '21979689'
 image:
 - B00JNQMKSC.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00JNQMKSC.01._SCLZZZZZZZ.jpg

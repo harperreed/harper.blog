@@ -5,6 +5,7 @@ book_author: Ian McEwan
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/6867.Atonement
+goodreads_work_id: '2307233'
 image:
 - 1409090027.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/1409090027.01._SCLZZZZZZZ.jpg

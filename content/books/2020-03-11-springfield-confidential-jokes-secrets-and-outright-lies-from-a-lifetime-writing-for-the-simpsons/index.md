@@ -5,6 +5,7 @@ book_author: Mike Reiss
 date: '2020-03-11T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/38920009-springfield-confidential
+goodreads_work_id: '57858342'
 image:
 - B071JLPFZY.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B071JLPFZY.01._SCLZZZZZZZ.jpg

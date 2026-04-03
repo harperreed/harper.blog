@@ -5,6 +5,7 @@ book_author: David Mitchell
 date: '2015-11-03T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/24499258-slade-house
+goodreads_work_id: '44094715'
 image:
 - B00S3RILQW.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00S3RILQW.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Victoria Aveyard
 date: '2019-07-09T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/36869370-red-queen
+goodreads_work_id: '25037051'
 image:
 - B00KFG156C.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00KFG156C.01._SCLZZZZZZZ.jpg

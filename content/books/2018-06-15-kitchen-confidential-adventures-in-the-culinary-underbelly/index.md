@@ -5,6 +5,7 @@ book_author: Anthony Bourdain
 date: '2018-06-15T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/8161568-kitchen-confidential
+goodreads_work_id: '4219'
 image:
 - B002UM5BXW.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B002UM5BXW.01._SCLZZZZZZZ.jpg

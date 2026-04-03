@@ -5,6 +5,7 @@ book_author: Greg Bear
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/340819.Blood_Music
+goodreads_work_id: '2563510'
 image:
 - B00J48FHRA.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00J48FHRA.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Tim Maughan
 date: '2020-01-13T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/41431243-infinite-detail
+goodreads_work_id: '62223063'
 image:
 - B07GD9WB59.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07GD9WB59.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Ocean Vuong
 date: '2022-04-24T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/58596975-time-is-a-mother
+goodreads_work_id: '91902199'
 image:
 - B099PDD84R.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B099PDD84R.01._SCLZZZZZZZ.jpg

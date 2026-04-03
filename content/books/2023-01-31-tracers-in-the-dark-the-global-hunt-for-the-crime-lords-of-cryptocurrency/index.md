@@ -5,6 +5,7 @@ book_author: Andy Greenberg
 date: '2023-01-31T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/60808316-tracers-in-the-dark
+goodreads_work_id: '95283884'
 image:
 - B09SKW8WRV.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09SKW8WRV.01._SCLZZZZZZZ.jpg

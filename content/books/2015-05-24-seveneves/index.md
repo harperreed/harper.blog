@@ -5,6 +5,7 @@ book_author: Neal Stephenson
 date: '2015-05-24T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/22816087-seveneves
+goodreads_work_id: '42299347'
 image:
 - B00LZWV8JO.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00LZWV8JO.01._SCLZZZZZZZ.jpg

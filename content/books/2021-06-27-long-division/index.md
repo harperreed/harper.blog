@@ -5,6 +5,7 @@ book_author: Kiese Laymon
 date: '2021-06-27T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/56888759-long-division
+goodreads_work_id: '21954114'
 image:
 - B08LDX4G47.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08LDX4G47.01._SCLZZZZZZZ.jpg

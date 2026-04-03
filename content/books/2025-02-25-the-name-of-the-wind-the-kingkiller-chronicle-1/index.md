@@ -5,6 +5,7 @@ book_author: Patrick Rothfuss
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/20562717-the-name-of-the-wind
+goodreads_work_id: '2502879'
 image:
 - B0010SKUYM.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0010SKUYM.01._SCLZZZZZZZ.jpg

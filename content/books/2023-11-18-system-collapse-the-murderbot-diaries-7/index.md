@@ -5,6 +5,7 @@ book_author: Martha Wells
 date: '2023-11-18T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/75319056-system-collapse
+goodreads_work_id: '90712113'
 image:
 - B0BQGJHG3Q.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0BQGJHG3Q.01._SCLZZZZZZZ.jpg

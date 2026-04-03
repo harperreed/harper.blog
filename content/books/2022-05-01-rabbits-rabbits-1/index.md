@@ -5,6 +5,7 @@ book_author: Terry Miles
 date: '2022-05-01T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/55764834-rabbits
+goodreads_work_id: '86524394'
 image:
 - B08HY29VM2.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08HY29VM2.01._SCLZZZZZZZ.jpg

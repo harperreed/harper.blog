@@ -5,6 +5,7 @@ book_author: Linda Nagata
 date: '2025-06-30T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/11531146-the-bohr-maker
+goodreads_work_id: '1175812'
 image:
 - B004AYCU2S.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B004AYCU2S.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Emily Tesh
 date: '2024-08-20T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/60784260-some-desperate-glory
+goodreads_work_id: '91580340'
 image:
 - B09XL83PCQ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09XL83PCQ.01._SCLZZZZZZZ.jpg

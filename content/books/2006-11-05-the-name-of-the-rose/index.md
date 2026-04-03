@@ -5,6 +5,7 @@ book_author: Umberto Eco
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/119073.The_Name_of_the_Rose
+goodreads_work_id: '3138328'
 image:
 - B0089WCFSG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0089WCFSG.01._SCLZZZZZZZ.jpg

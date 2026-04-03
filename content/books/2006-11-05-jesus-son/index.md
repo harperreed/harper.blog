@@ -5,6 +5,7 @@ book_author: Denis Johnson
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/608287.Jesus_Son
+goodreads_work_id: '1033961'
 image:
 - B07KRS3DYZ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07KRS3DYZ.01._SCLZZZZZZZ.jpg

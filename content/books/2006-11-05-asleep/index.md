@@ -5,6 +5,7 @@ book_author: Banana Yoshimoto
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/989671.Asleep
+goodreads_work_id: '49020'
 image:
 - B01I8S3YS0.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01I8S3YS0.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Tana French
 date: '2016-10-25T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/29470866-the-trespasser
+goodreads_work_id: '48321130'
 image:
 - B01COJUFIQ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01COJUFIQ.01._SCLZZZZZZZ.jpg

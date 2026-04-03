@@ -5,6 +5,7 @@ book_author: William Gibson
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/14770.Neuromancer
+goodreads_work_id: '909457'
 image:
 - B000O76ON6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000O76ON6.01._SCLZZZZZZZ.jpg

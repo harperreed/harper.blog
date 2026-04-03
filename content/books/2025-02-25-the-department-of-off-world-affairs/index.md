@@ -5,6 +5,7 @@ book_author: Russell Lutz
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/6082240-the-department-of-off-world-affairs
+goodreads_work_id: '6258955'
 image:
 - B001H31OU4.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B001H31OU4.01._SCLZZZZZZZ.jpg

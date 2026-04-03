@@ -5,6 +5,7 @@ book_author: Chris   Miller
 date: '2025-08-10T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/60838950-chip-war
+goodreads_work_id: '95096793'
 image:
 - B09RX5F238.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09RX5F238.01._SCLZZZZZZZ.jpg

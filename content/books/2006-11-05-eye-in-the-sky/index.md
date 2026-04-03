@@ -5,6 +5,7 @@ book_author: Philip K. Dick
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/165908.Eye_in_the_Sky
+goodreads_work_id: '486298'
 image:
 - B005LVQZYI.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B005LVQZYI.01._SCLZZZZZZZ.jpg

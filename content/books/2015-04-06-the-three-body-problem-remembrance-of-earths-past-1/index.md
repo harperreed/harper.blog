@@ -5,6 +5,7 @@ book_author: Liu Cixin
 date: '2015-04-06T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18245960-the-three-body-problem
+goodreads_work_id: '25696480'
 image:
 - B0DWV1SZBX.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWV1SZBX.01._SCLZZZZZZZ.jpg

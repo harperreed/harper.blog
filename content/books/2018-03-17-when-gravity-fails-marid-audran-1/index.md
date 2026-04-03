@@ -5,6 +5,7 @@ book_author: George Alec Effinger
 date: '2018-03-17T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/36692847-when-gravity-fails
+goodreads_work_id: '127822'
 image:
 - B00J3EU3AG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00J3EU3AG.01._SCLZZZZZZZ.jpg

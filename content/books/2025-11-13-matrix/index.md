@@ -5,6 +5,7 @@ book_author: Lauren Groff
 date: '2025-11-13T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/57640897-matrix
+goodreads_work_id: '87447766'
 image:
 - B08WWZZ9NJ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08WWZZ9NJ.01._SCLZZZZZZZ.jpg

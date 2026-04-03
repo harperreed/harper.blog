@@ -5,6 +5,7 @@ book_author: Naomi Novik
 date: '2023-12-03T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/55556706-the-last-graduate
+goodreads_work_id: '86327641'
 image:
 - B08K7KY8Q7.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08K7KY8Q7.01._SCLZZZZZZZ.jpg

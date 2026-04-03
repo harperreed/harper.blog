@@ -5,6 +5,7 @@ book_author: Vigdis Hjorth
 date: '2022-03-19T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/54675534-long-live-the-post-horn
+goodreads_work_id: '22028540'
 image:
 - B083RZ7YGF.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B083RZ7YGF.01._SCLZZZZZZZ.jpg

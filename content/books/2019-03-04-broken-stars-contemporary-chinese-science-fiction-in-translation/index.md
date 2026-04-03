@@ -5,6 +5,7 @@ book_author: Ken Liu
 date: '2019-03-04T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/40776833-broken-stars
+goodreads_work_id: '61659555'
 image:
 - B07C75GLGK.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07C75GLGK.01._SCLZZZZZZZ.jpg

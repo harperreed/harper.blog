@@ -5,6 +5,7 @@ book_author: Sequoia Nagamatsu
 date: '2022-06-12T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/58161113-how-high-we-go-in-the-dark
+goodreads_work_id: '85173343'
 image:
 - B092VY49LZ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B092VY49LZ.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Al Franken
 date: '2017-09-29T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/32813524-al-franken-giant-of-the-senate
+goodreads_work_id: '52588116'
 image:
 - B01LL8BRRE.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01LL8BRRE.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: John Irving
 date: '2007-01-07T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/4472.A_Prayer_for_Owen_Meany
+goodreads_work_id: '1734019'
 image:
 - B006VE6TCW.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B006VE6TCW.01._SCLZZZZZZZ.jpg

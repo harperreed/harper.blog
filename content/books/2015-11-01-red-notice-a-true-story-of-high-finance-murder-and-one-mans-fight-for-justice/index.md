@@ -5,6 +5,7 @@ book_author: Bill Browder
 date: '2015-11-01T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/24811910-red-notice
+goodreads_work_id: '42099492'
 image:
 - B00LD1ORX6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00LD1ORX6.01._SCLZZZZZZZ.jpg

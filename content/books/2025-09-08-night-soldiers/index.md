@@ -5,6 +5,7 @@ book_author: Alan Furst
 date: '2025-09-08T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/219559632-night-soldiers
+goodreads_work_id: '810894'
 image:
 - B001LOEG5E.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B001LOEG5E.01._SCLZZZZZZZ.jpg

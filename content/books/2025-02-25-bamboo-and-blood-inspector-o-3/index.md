@@ -5,6 +5,7 @@ book_author: James  Church
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/12264025-bamboo-and-blood
+goodreads_work_id: '5168009'
 image:
 - B001FA0S1U.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B001FA0S1U.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Kameron Hurley
 date: '2019-12-31T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/41730600-rapture
+goodreads_work_id: '19158242'
 image:
 - B07H48PZTP.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07H48PZTP.01._SCLZZZZZZZ.jpg

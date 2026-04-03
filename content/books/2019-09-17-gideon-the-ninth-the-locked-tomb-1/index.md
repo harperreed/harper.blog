@@ -5,6 +5,7 @@ book_author: Tamsyn Muir
 date: '2019-09-17T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/42036538-gideon-the-ninth
+goodreads_work_id: '60943229'
 image:
 - B07J6HWLPR.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07J6HWLPR.01._SCLZZZZZZZ.jpg

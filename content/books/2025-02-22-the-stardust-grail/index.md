@@ -5,6 +5,7 @@ book_author: Yume Kitasei
 date: '2025-02-22T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/198112189-the-stardust-grail
+goodreads_work_id: '197725364'
 image:
 - B0CGRXZHYK.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0CGRXZHYK.01._SCLZZZZZZZ.jpg

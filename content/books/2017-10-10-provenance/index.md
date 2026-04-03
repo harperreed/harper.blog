@@ -5,6 +5,7 @@ book_author: Ann Leckie
 date: '2017-10-10T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/34219845-provenance
+goodreads_work_id: '45094649'
 image:
 - B06XW6YTKV.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B06XW6YTKV.01._SCLZZZZZZZ.jpg

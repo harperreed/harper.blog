@@ -5,6 +5,7 @@ book_author: Dan Simmons
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/11280.Song_of_Kali
+goodreads_work_id: '1623747'
 image:
 - B00J90EMK6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00J90EMK6.01._SCLZZZZZZZ.jpg

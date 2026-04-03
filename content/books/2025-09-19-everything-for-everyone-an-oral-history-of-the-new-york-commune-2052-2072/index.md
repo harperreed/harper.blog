@@ -5,6 +5,7 @@ book_author: M.E. O'Brien
 date: '2025-09-19T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/61413225-everything-for-everyone
+goodreads_work_id: '94497194'
 image:
 - B09TXZDDSB.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09TXZDDSB.01._SCLZZZZZZZ.jpg

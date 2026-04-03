@@ -5,6 +5,7 @@ book_author: Vajra Chandrasekera
 date: '2023-11-14T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/59344991-the-saint-of-bright-doors
+goodreads_work_id: '93503571'
 image:
 - B0B9L229QW.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0B9L229QW.01._SCLZZZZZZZ.jpg

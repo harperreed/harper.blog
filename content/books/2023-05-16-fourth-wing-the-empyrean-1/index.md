@@ -5,6 +5,7 @@ book_author: Rebecca Yarros
 date: '2023-05-16T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/63219094-fourth-wing
+goodreads_work_id: '96945623'
 image:
 - B0BGDM197Q.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0BGDM197Q.01._SCLZZZZZZZ.jpg

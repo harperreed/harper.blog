@@ -5,6 +5,7 @@ book_author: Joe Haldeman
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/21607.Camouflage
+goodreads_work_id: '22742'
 image:
 - B000OIZUAS.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000OIZUAS.01._SCLZZZZZZZ.jpg

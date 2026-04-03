@@ -5,6 +5,7 @@ book_author: John Seabrook
 date: '2016-04-06T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/26716983-the-song-machine
+goodreads_work_id: '43969681'
 image:
 - B00TIZFO2W.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00TIZFO2W.01._SCLZZZZZZZ.jpg

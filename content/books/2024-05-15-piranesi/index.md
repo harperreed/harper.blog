@@ -5,6 +5,7 @@ book_author: Susanna Clarke
 date: '2024-05-15T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/52702097-piranesi
+goodreads_work_id: '73586702'
 image:
 - B0865TSTWM.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0865TSTWM.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: R.F. Kuang
 date: '2020-11-19T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/52066765-the-burning-god
+goodreads_work_id: '70666057'
 image:
 - B084VP8KNB.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B084VP8KNB.01._SCLZZZZZZZ.jpg

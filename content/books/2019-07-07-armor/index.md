@@ -5,6 +5,7 @@ book_author: John Steakley
 date: '2019-07-07T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/25287342-armor
+goodreads_work_id: '604650'
 image:
 - B0DWTRC52D.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWTRC52D.01._SCLZZZZZZZ.jpg

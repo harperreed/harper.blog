@@ -5,6 +5,7 @@ book_author: Patrick Hutchison
 date: '2025-07-18T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/204253901-cabin
+goodreads_work_id: '209357558'
 image:
 - B0CQHL1XV7.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0CQHL1XV7.01._SCLZZZZZZZ.jpg

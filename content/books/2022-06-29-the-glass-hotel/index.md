@@ -5,6 +5,7 @@ book_author: Emily St. John Mandel
 date: '2022-06-29T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/45999201-the-glass-hotel
+goodreads_work_id: '57817644'
 image:
 - B07RL58ZDG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07RL58ZDG.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Elizabeth Moon
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/96277.Engaging_the_Enemy
+goodreads_work_id: '1136474'
 image:
 - B000GCFCNW.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000GCFCNW.01._SCLZZZZZZZ.jpg

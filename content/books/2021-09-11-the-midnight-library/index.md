@@ -5,6 +5,7 @@ book_author: Matt Haig
 date: '2021-09-11T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/53568397-the-midnight-library
+goodreads_work_id: '74043794'
 image:
 - B085BVSXS9.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B085BVSXS9.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Alastair Reynolds
 date: '2014-10-30T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18139005-blue-remembered-earth
+goodreads_work_id: '14308470'
 image:
 - B005ZOCF5E.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B005ZOCF5E.01._SCLZZZZZZZ.jpg

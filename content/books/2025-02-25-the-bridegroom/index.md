@@ -5,6 +5,7 @@ book_author: Ha Jin
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/33561.The_Bridegroom
+goodreads_work_id: '33628'
 image:
 - B000FC1H2S.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000FC1H2S.01._SCLZZZZZZZ.jpg

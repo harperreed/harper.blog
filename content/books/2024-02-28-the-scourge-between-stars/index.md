@@ -5,6 +5,7 @@ book_author: Ness Brown
 date: '2024-02-28T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/61441582-the-scourge-between-stars
+goodreads_work_id: '95740090'
 image:
 - B09XL6N6DJ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09XL6N6DJ.01._SCLZZZZZZZ.jpg

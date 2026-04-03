@@ -5,6 +5,7 @@ book_author: Richard Yates
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/5137911-revolutionary-road
+goodreads_work_id: '1235136'
 image:
 - B001CBMX9C.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B001CBMX9C.01._SCLZZZZZZZ.jpg

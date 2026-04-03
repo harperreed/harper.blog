@@ -5,6 +5,7 @@ book_author: Evelyn Blackwell
 date: '2019-03-24T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/25807816-crossed
+goodreads_work_id: '45663192'
 image:
 - B010EO3A3K.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B010EO3A3K.01._SCLZZZZZZZ.jpg

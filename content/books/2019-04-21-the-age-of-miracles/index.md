@@ -5,6 +5,7 @@ book_author: Karen Thompson Walker
 date: '2019-04-21T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/31286114-the-age-of-miracles
+goodreads_work_id: '17382941'
 image:
 - B005SHPWQC.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B005SHPWQC.01._SCLZZZZZZZ.jpg

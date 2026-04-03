@@ -5,6 +5,7 @@ book_author: Iain M. Banks
 date: '2026-03-02T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/8279737-consider-phlebas
+goodreads_work_id: '14366'
 image:
 - B0013TX6FI.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0013TX6FI.01._SCLZZZZZZZ.jpg

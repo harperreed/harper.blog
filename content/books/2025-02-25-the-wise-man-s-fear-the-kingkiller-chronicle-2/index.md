@@ -5,6 +5,7 @@ book_author: Patrick Rothfuss
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/9531737-the-wise-man-s-fear
+goodreads_work_id: '2502882'
 image:
 - B00475AYJQ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00475AYJQ.01._SCLZZZZZZZ.jpg

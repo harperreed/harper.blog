@@ -5,6 +5,7 @@ book_author: Robert Galbraith
 date: '2015-11-01T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/25735012-career-of-evil
+goodreads_work_id: '43699375'
 image:
 - B0106E2CO6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0106E2CO6.01._SCLZZZZZZZ.jpg

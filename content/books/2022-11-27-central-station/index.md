@@ -5,6 +5,7 @@ book_author: Lavie Tidhar
 date: '2022-11-27T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/28517135-central-station
+goodreads_work_id: '45899481'
 image:
 - B083G6VR9S.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B083G6VR9S.01._SCLZZZZZZZ.jpg

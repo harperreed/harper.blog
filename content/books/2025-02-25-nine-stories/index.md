@@ -5,6 +5,7 @@ book_author: J.D. Salinger
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/4009.Nine_Stories
+goodreads_work_id: '1839377'
 image:
 - B07V9GTCNK.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07V9GTCNK.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: James Bamford
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/345074.Body_of_Secrets
+goodreads_work_id: '335405'
 image:
 - B001334IXS.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B001334IXS.01._SCLZZZZZZZ.jpg

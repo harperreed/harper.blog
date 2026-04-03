@@ -5,6 +5,7 @@ book_author: Eric Haseltine
 date: '2022-01-17T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/40363386-the-spy-in-moscow-station
+goodreads_work_id: '61659708'
 image:
 - B07D2BHVW6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07D2BHVW6.01._SCLZZZZZZZ.jpg

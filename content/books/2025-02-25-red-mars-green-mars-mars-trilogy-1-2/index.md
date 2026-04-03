@@ -5,6 +5,7 @@ book_author: Kim Stanley Robinson
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/5222300-red-mars-green-mars
+goodreads_work_id: '5289562'
 image:
 - B000FBFNNI.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000FBFNNI.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Mark Helprin
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/988507.A_Soldier_of_the_Great_War
+goodreads_work_id: '3279676'
 image:
 - B007XA3KZW.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B007XA3KZW.01._SCLZZZZZZZ.jpg

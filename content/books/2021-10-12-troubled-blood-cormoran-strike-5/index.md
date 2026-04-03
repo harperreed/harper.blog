@@ -5,6 +5,7 @@ book_author: Robert Galbraith
 date: '2021-10-12T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/51480561-troubled-blood
+goodreads_work_id: '65370539'
 image:
 - B0DWVLRKB9.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWVLRKB9.01._SCLZZZZZZZ.jpg

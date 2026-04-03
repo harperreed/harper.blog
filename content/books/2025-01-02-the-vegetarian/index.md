@@ -5,6 +5,7 @@ book_author: Han Kang
 date: '2025-01-02T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/34845512-the-vegetarian
+goodreads_work_id: '18449744'
 image:
 - B00X2F7NRI.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00X2F7NRI.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Micaiah Johnson
 date: '2025-07-03T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/177185783-those-beyond-the-wall
+goodreads_work_id: '91316591'
 image:
 - B0C7TP7SY1.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0C7TP7SY1.01._SCLZZZZZZZ.jpg

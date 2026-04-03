@@ -5,6 +5,7 @@ book_author: Tana French
 date: '2015-05-04T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18243050-broken-harbor
+goodreads_work_id: '15718578'
 image:
 - B0DWV516ZH.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWV516ZH.01._SCLZZZZZZZ.jpg

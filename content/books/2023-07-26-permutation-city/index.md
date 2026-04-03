@@ -5,6 +5,7 @@ book_author: Greg Egan
 date: '2023-07-26T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18883652-permutation-city
+goodreads_work_id: '1270567'
 image:
 - B00FDWCPV2.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00FDWCPV2.01._SCLZZZZZZZ.jpg

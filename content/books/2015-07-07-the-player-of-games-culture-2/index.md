@@ -5,6 +5,7 @@ book_author: Iain M. Banks
 date: '2015-07-07T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/19819475-the-player-of-games
+goodreads_work_id: '1494157'
 image:
 - B002WM3HC2.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B002WM3HC2.01._SCLZZZZZZZ.jpg

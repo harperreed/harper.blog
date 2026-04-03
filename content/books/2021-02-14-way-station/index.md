@@ -5,6 +5,7 @@ book_author: Clifford D. Simak
 date: '2021-02-14T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/35006946-way-station
+goodreads_work_id: '348798'
 image:
 - B00YO78RRS.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00YO78RRS.01._SCLZZZZZZZ.jpg

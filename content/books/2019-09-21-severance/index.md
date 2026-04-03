@@ -5,6 +5,7 @@ book_author: Ling  Ma
 date: '2019-09-21T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/38472277-severance
+goodreads_work_id: '58029884'
 image:
 - B078X1KJ28.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B078X1KJ28.01._SCLZZZZZZZ.jpg

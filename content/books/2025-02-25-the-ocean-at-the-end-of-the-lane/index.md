@@ -5,6 +5,7 @@ book_author: Neil Gaiman
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/16078215-the-ocean-at-the-end-of-the-lane
+goodreads_work_id: '21500681'
 image:
 - B0DWV8S97J.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWV8S97J.01._SCLZZZZZZZ.jpg

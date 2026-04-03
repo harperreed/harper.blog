@@ -5,6 +5,7 @@ book_author: Julia   Fox
 date: '2023-11-20T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/125480298-down-the-drain
+goodreads_work_id: '144488010'
 image:
 - B0BXM2ZBYV.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0BXM2ZBYV.01._SCLZZZZZZZ.jpg

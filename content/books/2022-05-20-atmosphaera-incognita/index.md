@@ -5,6 +5,7 @@ book_author: Neal Stephenson
 date: '2022-05-20T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/51106419-atmosph-ra-incognita
+goodreads_work_id: '68150209'
 image:
 - B07TTCXX8T.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07TTCXX8T.01._SCLZZZZZZZ.jpg

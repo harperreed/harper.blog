@@ -5,6 +5,7 @@ book_author: Nghi Vo
 date: '2021-04-18T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/54203816-the-empress-of-salt-and-fortune
+goodreads_work_id: '71836130'
 image:
 - B07VH6Y4JD.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07VH6Y4JD.01._SCLZZZZZZZ.jpg

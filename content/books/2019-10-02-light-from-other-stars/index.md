@@ -5,6 +5,7 @@ book_author: Erika Swyler
 date: '2019-10-02T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/43683119-light-from-other-stars
+goodreads_work_id: '63181601'
 image:
 - B0DWVF3ZMB.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWVF3ZMB.01._SCLZZZZZZZ.jpg

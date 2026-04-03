@@ -5,6 +5,7 @@ book_author: Emma Newman
 date: '2019-05-12T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/25059041-planetfall
+goodreads_work_id: '43823353'
 image:
 - B00SI0B65W.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00SI0B65W.01._SCLZZZZZZZ.jpg

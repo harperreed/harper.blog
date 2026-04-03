@@ -5,6 +5,7 @@ book_author: Frank Herbert
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/106.Dune_Messiah
+goodreads_work_id: '3634570'
 image:
 - B0011UGNDG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0011UGNDG.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Martin MacInnes
 date: '2026-01-24T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/200624139-in-ascension
+goodreads_work_id: '98911813'
 image:
 - B0CLQNNJGK.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0CLQNNJGK.01._SCLZZZZZZZ.jpg

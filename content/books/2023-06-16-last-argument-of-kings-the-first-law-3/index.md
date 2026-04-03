@@ -5,6 +5,7 @@ book_author: Joe Abercrombie
 date: '2023-06-16T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/25434380-last-argument-of-kings
+goodreads_work_id: '929012'
 image:
 - B0DWV2RCW9.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWV2RCW9.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Steven Brust
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/133459.Issola
+goodreads_work_id: '1059'
 image:
 - B004WPGG2K.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B004WPGG2K.01._SCLZZZZZZZ.jpg

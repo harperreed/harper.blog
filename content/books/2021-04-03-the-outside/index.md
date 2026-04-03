@@ -5,6 +5,7 @@ book_author: Ada Hoffmann
 date: '2021-04-03T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/50010485-the-outside
+goodreads_work_id: '63855987'
 image:
 - B07H71QF2C.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07H71QF2C.01._SCLZZZZZZZ.jpg

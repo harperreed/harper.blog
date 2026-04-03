@@ -5,6 +5,7 @@ book_author: John Scalzi
 date: '2014-09-14T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/21418013-lock-in
+goodreads_work_id: '26115712'
 image:
 - B00IHCBE1C.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00IHCBE1C.01._SCLZZZZZZZ.jpg

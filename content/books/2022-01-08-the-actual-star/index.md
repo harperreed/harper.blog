@@ -5,6 +5,7 @@ book_author: Monica Byrne
 date: '2022-01-08T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/58530348-the-actual-star
+goodreads_work_id: '86058464'
 image:
 - B0DWVV27DJ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWVV27DJ.01._SCLZZZZZZZ.jpg

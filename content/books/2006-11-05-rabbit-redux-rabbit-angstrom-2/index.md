@@ -5,6 +5,7 @@ book_author: John Updike
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/46917.Rabbit_Redux
+goodreads_work_id: '864749'
 image:
 - B003WUYRAY.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B003WUYRAY.01._SCLZZZZZZZ.jpg

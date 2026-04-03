@@ -5,6 +5,7 @@ book_author: Mur Lafferty
 date: '2024-01-01T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/123023846-chaos-terminal
+goodreads_work_id: '97957323'
 image:
 - B0BV63WM8S.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0BV63WM8S.01._SCLZZZZZZZ.jpg

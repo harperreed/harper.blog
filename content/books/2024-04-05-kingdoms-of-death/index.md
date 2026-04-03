@@ -5,6 +5,7 @@ book_author: Christopher Ruocchio
 date: '2024-04-05T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/58420375-kingdoms-of-death
+goodreads_work_id: '89939526'
 image:
 - B096WYRG91.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B096WYRG91.01._SCLZZZZZZZ.jpg

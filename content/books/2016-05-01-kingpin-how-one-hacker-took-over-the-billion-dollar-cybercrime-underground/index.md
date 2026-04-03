@@ -5,6 +5,7 @@ book_author: Kevin Poulsen
 date: '2016-05-01T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/10587014-kingpin
+goodreads_work_id: '14202643'
 image:
 - B004IK8Q2M.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B004IK8Q2M.01._SCLZZZZZZZ.jpg

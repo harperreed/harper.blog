@@ -5,6 +5,7 @@ book_author: Olga Ravn
 date: '2022-04-04T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/59827158-the-employees
+goodreads_work_id: '61662083'
 image:
 - B0DWW2ZCVH.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWW2ZCVH.01._SCLZZZZZZZ.jpg

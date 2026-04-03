@@ -5,6 +5,7 @@ book_author: Hannu Rajaniemi
 date: '2014-11-16T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/11255836-the-quantum-thief
+goodreads_work_id: '9886333'
 image:
 - B004ULPVN6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B004ULPVN6.01._SCLZZZZZZZ.jpg

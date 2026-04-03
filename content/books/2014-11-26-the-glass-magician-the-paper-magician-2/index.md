@@ -5,6 +5,7 @@ book_author: Charlie N. Holmberg
 date: '2014-11-26T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/22910024-the-glass-magician
+goodreads_work_id: '41739586'
 image:
 - B00K89FZLW.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00K89FZLW.01._SCLZZZZZZZ.jpg

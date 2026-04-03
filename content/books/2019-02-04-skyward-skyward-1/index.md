@@ -5,6 +5,7 @@ book_author: Brandon Sanderson
 date: '2019-02-04T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/39353738-skyward
+goodreads_work_id: '58411143'
 image:
 - B07BJLB5LY.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07BJLB5LY.01._SCLZZZZZZZ.jpg

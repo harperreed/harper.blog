@@ -5,6 +5,7 @@ book_author: Keith Giffen
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/21761683-tag---preso-1
+goodreads_work_id: '539647'
 image:
 - 8863310483.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/8863310483.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: James S.A. Corey
 date: '2019-05-08T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/39713324-tiamat-s-wrath
+goodreads_work_id: '48382890'
 image:
 - B07BVNVWL6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07BVNVWL6.01._SCLZZZZZZZ.jpg

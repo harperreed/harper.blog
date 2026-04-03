@@ -5,6 +5,7 @@ book_author: Philip Pullman
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18119.The_Subtle_Knife
+goodreads_work_id: '1570229'
 image:
 - 0440418615.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/0440418615.01._SCLZZZZZZZ.jpg

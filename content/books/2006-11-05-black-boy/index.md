@@ -5,6 +5,7 @@ book_author: Richard Wright
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/228630.Black_Boy
+goodreads_work_id: '2063986'
 image:
 - B082T2DBT3.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B082T2DBT3.01._SCLZZZZZZZ.jpg

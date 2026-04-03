@@ -5,6 +5,7 @@ book_author: Linda Nagata
 date: '2025-06-28T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/61128835-needle
+goodreads_work_id: '96351605'
 image:
 - B0B17PBD1R.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0B17PBD1R.01._SCLZZZZZZZ.jpg

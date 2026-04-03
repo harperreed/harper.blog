@@ -5,6 +5,7 @@ book_author: Martha Wells
 date: '2020-06-25T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/52680842-network-effect
+goodreads_work_id: '63614271'
 image:
 - B07WZ7SB5D.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07WZ7SB5D.01._SCLZZZZZZZ.jpg

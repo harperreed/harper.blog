@@ -5,6 +5,7 @@ book_author: Martha Wells
 date: '2022-05-08T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/6528064-the-wizard-hunters
+goodreads_work_id: '3259620'
 image:
 - B000FCKI9Q.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000FCKI9Q.01._SCLZZZZZZZ.jpg

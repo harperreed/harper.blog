@@ -5,6 +5,7 @@ book_author: Banana Yoshimoto
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/50148.Lizard
+goodreads_work_id: '281214'
 image:
 - B00XAQ1N2K.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00XAQ1N2K.01._SCLZZZZZZZ.jpg

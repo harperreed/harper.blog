@@ -5,6 +5,7 @@ book_author: Emma Newman
 date: '2019-05-15T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/34457942-before-mars
+goodreads_work_id: '55572812'
 image:
 - B07466HF8D.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07466HF8D.01._SCLZZZZZZZ.jpg

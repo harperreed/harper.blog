@@ -5,6 +5,7 @@ book_author: Dan Burke
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/988447.Business_The_Speed_Of_Stupid
+goodreads_work_id: '973941'
 image:
 - B00272LHRY.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00272LHRY.01._SCLZZZZZZZ.jpg

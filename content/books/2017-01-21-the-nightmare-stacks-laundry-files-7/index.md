@@ -5,6 +5,7 @@ book_author: Charles Stross
 date: '2017-01-21T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/27748314-the-nightmare-stacks
+goodreads_work_id: '44666642'
 image:
 - B016JPTNZW.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B016JPTNZW.01._SCLZZZZZZZ.jpg

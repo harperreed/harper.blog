@@ -5,6 +5,7 @@ book_author: Christopher Ruocchio
 date: '2024-04-10T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/61656157-ashes-of-man
+goodreads_work_id: '95223708'
 image:
 - B0B6YZQ2WC.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0B6YZQ2WC.01._SCLZZZZZZZ.jpg

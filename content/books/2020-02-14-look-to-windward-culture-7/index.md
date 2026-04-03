@@ -5,6 +5,7 @@ book_author: Iain M. Banks
 date: '2020-02-14T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/8123046-look-to-windward
+goodreads_work_id: '124371'
 image:
 - B001D20270.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B001D20270.01._SCLZZZZZZZ.jpg

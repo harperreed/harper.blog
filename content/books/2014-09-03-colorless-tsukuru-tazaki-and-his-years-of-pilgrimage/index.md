@@ -5,6 +5,7 @@ book_author: Haruki Murakami
 date: '2014-09-03T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/19288239-colorless-tsukuru-tazaki-and-his-years-of-pilgrimage
+goodreads_work_id: '24593525'
 image:
 - B00IHMEAYK.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00IHMEAYK.01._SCLZZZZZZZ.jpg

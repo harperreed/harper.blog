@@ -5,6 +5,7 @@ book_author: Alastair Reynolds
 date: '2021-10-20T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/48991401-century-rain
+goodreads_work_id: '86084'
 image:
 - B0819VCQKH.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0819VCQKH.01._SCLZZZZZZZ.jpg

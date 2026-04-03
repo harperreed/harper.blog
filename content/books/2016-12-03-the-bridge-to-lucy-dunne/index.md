@@ -5,6 +5,7 @@ book_author: Exurb1a
 date: '2016-12-03T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/30137549-the-bridge-to-lucy-dunne
+goodreads_work_id: '50571190'
 image:
 - B01F7IQEHC.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01F7IQEHC.01._SCLZZZZZZZ.jpg

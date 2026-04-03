@@ -5,6 +5,7 @@ book_author: Michelle Min Sterling
 date: '2024-12-07T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/60779787-camp-zero
+goodreads_work_id: '93691457'
 image:
 - B0B3YBPB6H.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0B3YBPB6H.01._SCLZZZZZZZ.jpg

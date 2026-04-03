@@ -5,6 +5,7 @@ book_author: Dennis E. Taylor
 date: '2020-07-18T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/40772005-the-singularity-trap
+goodreads_work_id: '56627046'
 image:
 - B07FBRRL2Z.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07FBRRL2Z.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Philip Pullman
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18122.The_Amber_Spyglass
+goodreads_work_id: '1774510'
 image:
 - B000FC1GJW.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000FC1GJW.01._SCLZZZZZZZ.jpg

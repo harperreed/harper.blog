@@ -5,6 +5,7 @@ book_author: Joe Haldeman
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/21608.The_Accidental_Time_Machine
+goodreads_work_id: '22743'
 image:
 - B0015DWMRA.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0015DWMRA.01._SCLZZZZZZZ.jpg

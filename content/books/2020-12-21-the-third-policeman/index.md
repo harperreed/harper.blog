@@ -5,6 +5,7 @@ book_author: Flann O'Brien
 date: '2020-12-21T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/52971537-the-third-policeman
+goodreads_work_id: '3359269'
 image:
 - B07Y6746DT.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07Y6746DT.01._SCLZZZZZZZ.jpg

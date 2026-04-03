@@ -5,6 +5,7 @@ book_author: Karl Schroeder
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/19811279-lockstep
+goodreads_work_id: '25095591'
 image:
 - B00H6E6ATI.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00H6E6ATI.01._SCLZZZZZZZ.jpg

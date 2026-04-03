@@ -5,6 +5,7 @@ book_author: Emily Devenport
 date: '2020-12-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/41568637-medusa-in-the-graveyard
+goodreads_work_id: '64836417'
 image:
 - B07GVBYHX8.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07GVBYHX8.01._SCLZZZZZZZ.jpg

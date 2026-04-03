@@ -5,6 +5,7 @@ book_author: Jeff VanderMeer
 date: '2015-05-17T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/21504315-acceptance
+goodreads_work_id: '25384096'
 image:
 - B00ILWNU2E.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00ILWNU2E.01._SCLZZZZZZZ.jpg

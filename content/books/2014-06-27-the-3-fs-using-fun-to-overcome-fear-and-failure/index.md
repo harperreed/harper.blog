@@ -5,6 +5,7 @@ book_author: Dylan  Reed
 date: '2014-06-27T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/22596811-the-3-fs
+goodreads_work_id: '42080145'
 image:
 - B00L9MCJHK.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00L9MCJHK.01._SCLZZZZZZZ.jpg

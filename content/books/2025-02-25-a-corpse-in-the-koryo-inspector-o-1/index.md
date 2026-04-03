@@ -5,6 +5,7 @@ book_author: James  Church
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/9283615-a-corpse-in-the-koryo
+goodreads_work_id: '17199'
 image:
 - B003JMF9DY.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B003JMF9DY.01._SCLZZZZZZZ.jpg

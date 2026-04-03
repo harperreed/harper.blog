@@ -5,6 +5,7 @@ book_author: Vernor Vinge
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/167841.Tatja_Grimm_s_World
+goodreads_work_id: '1269999'
 image:
 - B001OLRMXW.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B001OLRMXW.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Ursula K. Le Guin
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/118028.The_Left_Hand_of_Darkness
+goodreads_work_id: '817527'
 image:
 - B0073N8XKQ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0073N8XKQ.01._SCLZZZZZZZ.jpg

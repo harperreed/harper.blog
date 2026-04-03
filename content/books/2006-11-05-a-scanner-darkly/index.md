@@ -5,6 +5,7 @@ book_author: Philip K. Dick
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/14817.A_Scanner_Darkly
+goodreads_work_id: '1527439'
 image:
 - B005LVR6NC.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B005LVR6NC.01._SCLZZZZZZZ.jpg

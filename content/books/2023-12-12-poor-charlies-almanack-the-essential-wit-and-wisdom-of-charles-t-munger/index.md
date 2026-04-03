@@ -5,6 +5,7 @@ book_author: Charles T. Munger
 date: '2023-12-12T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/157686100-poor-charlie-s-almanack
+goodreads_work_id: '3406894'
 image:
 - B0C5TCGPPS.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0C5TCGPPS.01._SCLZZZZZZZ.jpg

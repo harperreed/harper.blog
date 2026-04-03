@@ -5,6 +5,7 @@ book_author: Stephen Markley
 date: '2023-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/62077304-the-deluge
+goodreads_work_id: '95887110'
 image:
 - B0B3Y91YDR.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0B3Y91YDR.01._SCLZZZZZZZ.jpg

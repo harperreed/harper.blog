@@ -5,6 +5,7 @@ book_author: Dan Simmons
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/3978.A_Winter_Haunting
+goodreads_work_id: '7699'
 image:
 - B000FC14KI.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000FC14KI.01._SCLZZZZZZZ.jpg

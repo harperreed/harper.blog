@@ -5,6 +5,7 @@ book_author: Linda Nagata
 date: '2023-11-28T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/61445466-attitude-and-other-stories
+goodreads_work_id: '96988842'
 image:
 - B0B4GV7TRF.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0B4GV7TRF.01._SCLZZZZZZZ.jpg

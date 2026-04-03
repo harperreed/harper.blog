@@ -5,6 +5,7 @@ book_author: Jonathan Eig
 date: '2024-01-16T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/65146135-king
+goodreads_work_id: '96610903'
 image:
 - B0BBD5GXTF.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0BBD5GXTF.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: T. Kingfisher
 date: '2025-01-19T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/57119466-paladin-s-strength
+goodreads_work_id: '89390931'
 image:
 - B08WWKXXVY.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08WWKXXVY.01._SCLZZZZZZZ.jpg

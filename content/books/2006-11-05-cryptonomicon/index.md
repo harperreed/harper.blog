@@ -5,6 +5,7 @@ book_author: Neal Stephenson
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/77584.Cryptonomicon
+goodreads_work_id: '1166797'
 image:
 - B000FC11A6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000FC11A6.01._SCLZZZZZZZ.jpg

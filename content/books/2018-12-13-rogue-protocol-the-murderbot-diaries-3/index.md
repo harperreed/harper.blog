@@ -5,6 +5,7 @@ book_author: Martha Wells
 date: '2018-12-13T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/36153880-rogue-protocol
+goodreads_work_id: '56934596'
 image:
 - B0756JSWGL.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0756JSWGL.01._SCLZZZZZZZ.jpg

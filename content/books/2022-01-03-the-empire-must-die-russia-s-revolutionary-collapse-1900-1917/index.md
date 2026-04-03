@@ -5,6 +5,7 @@ book_author: Mikhail Zygar
 date: '2022-01-03T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/35105107-the-empire-must-die
+goodreads_work_id: '55658205'
 image:
 - B06XF9ZQQH.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B06XF9ZQQH.01._SCLZZZZZZZ.jpg

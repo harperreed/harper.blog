@@ -5,6 +5,7 @@ book_author: John Updike
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/386406.Rabbit_Is_Rich
+goodreads_work_id: '3101473'
 image:
 - B003WUYRJA.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B003WUYRJA.01._SCLZZZZZZZ.jpg

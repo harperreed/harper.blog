@@ -5,6 +5,7 @@ book_author: Jill Lepore
 date: '2020-10-21T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/39340860-these-truths
+goodreads_work_id: '59883979'
 image:
 - B07BLKWBYT.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07BLKWBYT.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Adrian Tchaikovsky
 date: '2024-10-18T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/199851460-alien-clay
+goodreads_work_id: '197089092'
 image:
 - B0CL4FVXH9.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0CL4FVXH9.01._SCLZZZZZZZ.jpg

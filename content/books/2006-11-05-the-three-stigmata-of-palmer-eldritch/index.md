@@ -5,6 +5,7 @@ book_author: Philip K. Dick
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/216368.The_Three_Stigmata_of_Palmer_Eldritch
+goodreads_work_id: '1399376'
 image:
 - B005LVR6C8.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B005LVR6C8.01._SCLZZZZZZZ.jpg

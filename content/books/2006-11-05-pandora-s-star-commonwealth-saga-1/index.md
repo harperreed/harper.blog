@@ -5,6 +5,7 @@ book_author: Peter F. Hamilton
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/526307.Pandora_s_Star
+goodreads_work_id: '987015'
 image:
 - B000FC1AFC.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000FC1AFC.01._SCLZZZZZZZ.jpg

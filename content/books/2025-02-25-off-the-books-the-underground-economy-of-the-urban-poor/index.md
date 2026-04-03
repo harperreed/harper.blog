@@ -5,6 +5,7 @@ book_author: Sudhir Venkatesh
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/87090.Off_the_Books
+goodreads_work_id: '84061'
 image:
 - B00EEO2Z3I.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00EEO2Z3I.01._SCLZZZZZZZ.jpg

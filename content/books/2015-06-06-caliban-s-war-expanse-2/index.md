@@ -5,6 +5,7 @@ book_author: James S.A. Corey
 date: '2015-06-06T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18142735-caliban-s-war
+goodreads_work_id: '17606541'
 image:
 - B005SCRR1A.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B005SCRR1A.01._SCLZZZZZZZ.jpg

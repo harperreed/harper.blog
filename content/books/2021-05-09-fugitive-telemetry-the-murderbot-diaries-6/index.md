@@ -5,6 +5,7 @@ book_author: Martha Wells
 date: '2021-05-09T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/53413743-fugitive-telemetry
+goodreads_work_id: '80438420'
 image:
 - B088H926KF.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B088H926KF.01._SCLZZZZZZZ.jpg

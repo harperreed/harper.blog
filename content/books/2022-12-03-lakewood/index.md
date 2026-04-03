@@ -5,6 +5,7 @@ book_author: Megan Giddings
 date: '2022-12-03T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/49935287-lakewood
+goodreads_work_id: '67870702'
 image:
 - B07TG9Y9KV.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07TG9Y9KV.01._SCLZZZZZZZ.jpg

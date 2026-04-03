@@ -5,6 +5,7 @@ book_author: Kameron Hurley
 date: '2019-12-28T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/42120376-infidel
+goodreads_work_id: '16404567'
 image:
 - B07H462P8F.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07H462P8F.01._SCLZZZZZZZ.jpg

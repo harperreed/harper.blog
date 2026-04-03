@@ -5,6 +5,7 @@ book_author: Tochi Onyebuchi
 date: '2021-03-15T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/43719523-riot-baby
+goodreads_work_id: '68038597'
 image:
 - B07QDHR8SG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07QDHR8SG.01._SCLZZZZZZZ.jpg

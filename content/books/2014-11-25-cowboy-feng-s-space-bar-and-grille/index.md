@@ -5,6 +5,7 @@ book_author: Steven Brust
 date: '2014-11-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/10132201-cowboy-feng-s-space-bar-and-grille
+goodreads_work_id: '135107'
 image:
 - B003L1ZZFK.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B003L1ZZFK.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Karel Čapek
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/816443.R_U_R_
+goodreads_work_id: '3065006'
 image:
 - B07D7V4XW3.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07D7V4XW3.01._SCLZZZZZZZ.jpg

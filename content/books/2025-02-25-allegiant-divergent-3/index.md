@@ -5,6 +5,7 @@ book_author: Veronica Roth
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/17406183-allegiant
+goodreads_work_id: '15524549'
 image:
 - B0DT156QVB.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DT156QVB.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Philip Pullman
 date: '2017-11-03T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/34313890-la-belle-sauvage
+goodreads_work_id: '14190696'
 image:
 - B0DT21DB3N.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DT21DB3N.01._SCLZZZZZZZ.jpg

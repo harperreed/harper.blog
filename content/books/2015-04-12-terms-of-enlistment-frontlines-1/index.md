@@ -5,6 +5,7 @@ book_author: Marko Kloos
 date: '2015-04-12T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18800655-terms-of-enlistment
+goodreads_work_id: '24585130'
 image:
 - B00CIXX144.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00CIXX144.01._SCLZZZZZZZ.jpg

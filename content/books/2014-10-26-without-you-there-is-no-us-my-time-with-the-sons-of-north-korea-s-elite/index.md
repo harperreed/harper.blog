@@ -5,6 +5,7 @@ book_author: Suki Kim
 date: '2014-10-26T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/20685373-without-you-there-is-no-us
+goodreads_work_id: '40000267'
 image:
 - B00JTC9QBO.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00JTC9QBO.01._SCLZZZZZZZ.jpg

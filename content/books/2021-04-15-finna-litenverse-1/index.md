@@ -5,6 +5,7 @@ book_author: Nino Cipri
 date: '2021-04-15T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/44081573-finna
+goodreads_work_id: '68548236'
 image:
 - B07TCXTBQN.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07TCXTBQN.01._SCLZZZZZZZ.jpg

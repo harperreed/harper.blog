@@ -5,6 +5,7 @@ book_author: James S.A. Corey
 date: '2024-08-26T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/202110188-the-mercy-of-gods
+goodreads_work_id: '95320019'
 image:
 - B0CN6NCV7P.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0CN6NCV7P.01._SCLZZZZZZZ.jpg

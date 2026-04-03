@@ -5,11 +5,14 @@ book_author: John Scalzi
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/51964.Old_Man_s_War
+goodreads_work_id: '50700'
 image:
 - B000SEIK2S.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000SEIK2S.01._SCLZZZZZZZ.jpg
 layout: book
 num_pages: '318'
+related_reads:
+- 2006-11-26-old-man-s-war-old-man-s-war-1
 review_rating: '5'
 started_at: ''
 summary: 'Old Man''s War (Old Man''s War, #1) by John Scalzi - rated 4.23/5 on Goodreads'

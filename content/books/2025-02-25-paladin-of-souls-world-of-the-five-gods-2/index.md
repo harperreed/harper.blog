@@ -5,6 +5,7 @@ book_author: Lois McMaster Bujold
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/61904.Paladin_of_Souls
+goodreads_work_id: '819610'
 image:
 - B000FC138Q.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000FC138Q.01._SCLZZZZZZZ.jpg

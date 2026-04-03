@@ -5,6 +5,7 @@ book_author: David    Stone
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/3130724-the-echelon-vendetta
+goodreads_work_id: '275446'
 image:
 - B000PDYVVQ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000PDYVVQ.01._SCLZZZZZZZ.jpg

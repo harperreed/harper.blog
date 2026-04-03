@@ -5,6 +5,7 @@ book_author: James S.A. Corey
 date: '2015-06-28T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18886975-cibola-burn
+goodreads_work_id: '26109318'
 image:
 - B00FPQA4F0.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00FPQA4F0.01._SCLZZZZZZZ.jpg

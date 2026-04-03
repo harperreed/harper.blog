@@ -5,6 +5,7 @@ book_author: Joe Haldeman
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/21610.Old_Twentieth
+goodreads_work_id: '189569'
 image:
 - B000PC71VE.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000PC71VE.01._SCLZZZZZZZ.jpg

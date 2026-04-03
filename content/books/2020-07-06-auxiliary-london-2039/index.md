@@ -5,6 +5,7 @@ book_author: Jon Richter
 date: '2020-07-06T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/53499324-auxiliary
+goodreads_work_id: '80257269'
 image:
 - B084P8JZ3K.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B084P8JZ3K.01._SCLZZZZZZZ.jpg

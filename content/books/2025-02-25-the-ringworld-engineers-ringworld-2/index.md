@@ -5,6 +5,7 @@ book_author: Larry Niven
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/760547.The_Ringworld_Engineers
+goodreads_work_id: '900675'
 image:
 - B00WZVQB78.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00WZVQB78.01._SCLZZZZZZZ.jpg

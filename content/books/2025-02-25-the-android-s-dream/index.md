@@ -5,6 +5,7 @@ book_author: John Scalzi
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/1126509.The_Android_s_Dream
+goodreads_work_id: '18280036'
 image:
 - B002GYI974.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B002GYI974.01._SCLZZZZZZZ.jpg

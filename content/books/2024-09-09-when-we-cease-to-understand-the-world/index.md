@@ -5,6 +5,7 @@ book_author: Benjamín Labatut
 date: '2024-09-09T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/57141034-when-we-cease-to-understand-the-world
+goodreads_work_id: '84341168'
 image:
 - B0DWVBX3BW.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWVBX3BW.01._SCLZZZZZZZ.jpg

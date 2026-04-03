@@ -5,6 +5,7 @@ book_author: Ann Leckie
 date: '2017-09-15T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/24819470-ancillary-mercy
+goodreads_work_id: '43134689'
 image:
 - B00TOT9LEY.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00TOT9LEY.01._SCLZZZZZZZ.jpg

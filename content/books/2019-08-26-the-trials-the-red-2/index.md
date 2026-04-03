@@ -5,6 +5,7 @@ book_author: Linda Nagata
 date: '2019-08-26T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/24782538-the-trials
+goodreads_work_id: '41355909'
 image:
 - B00O65X7ZA.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00O65X7ZA.01._SCLZZZZZZZ.jpg

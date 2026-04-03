@@ -5,6 +5,7 @@ book_author: Max Gladstone
 date: '2019-07-20T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/41559148-empress-of-forever
+goodreads_work_id: '62679049'
 image:
 - B07GVCXWR5.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07GVCXWR5.01._SCLZZZZZZZ.jpg

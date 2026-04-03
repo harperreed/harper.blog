@@ -5,6 +5,7 @@ book_author: Lizzy Goodman
 date: '2018-03-12T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/35154212-meet-me-in-the-bathroom
+goodreads_work_id: '45673821'
 image:
 - B00NLLVAY0.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00NLLVAY0.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Dan Simmons
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/11281.Darwin_s_Blade
+goodreads_work_id: '1868869'
 image:
 - B00BAXFB5A.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00BAXFB5A.01._SCLZZZZZZZ.jpg

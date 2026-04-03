@@ -5,6 +5,7 @@ book_author: Becky  Chambers
 date: '2020-04-26T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/26042767-the-long-way-to-a-small-angry-planet
+goodreads_work_id: '42270825'
 image:
 - B00ZP64F28.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00ZP64F28.01._SCLZZZZZZZ.jpg

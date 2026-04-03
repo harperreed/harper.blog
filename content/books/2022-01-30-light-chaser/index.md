@@ -5,6 +5,7 @@ book_author: Peter F. Hamilton
 date: '2022-01-30T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/53715327-light-chaser
+goodreads_work_id: '81650761'
 image:
 - B088Q9CQZ4.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B088Q9CQZ4.01._SCLZZZZZZZ.jpg

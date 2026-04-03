@@ -5,6 +5,7 @@ book_author: Te-Ping Chen
 date: '2022-02-23T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/45154216-land-of-big-numbers
+goodreads_work_id: '69841368'
 image:
 - B081TVNPKS.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B081TVNPKS.01._SCLZZZZZZZ.jpg

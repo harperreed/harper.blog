@@ -5,6 +5,7 @@ book_author: Matt Dinniman
 date: '2025-03-21T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/220329192-this-inevitable-ruin
+goodreads_work_id: '222430286'
 image:
 - B0DJWKWV8W.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DJWKWV8W.01._SCLZZZZZZZ.jpg

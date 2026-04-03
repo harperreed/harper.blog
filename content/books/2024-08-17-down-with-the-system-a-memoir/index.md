@@ -5,6 +5,7 @@ book_author: Serj Tankian
 date: '2024-08-17T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/199851611-down-with-the-system
+goodreads_work_id: '204440800'
 image:
 - B0CL4DXQVX.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0CL4DXQVX.01._SCLZZZZZZZ.jpg

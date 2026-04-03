@@ -5,6 +5,7 @@ book_author: Ori Brafman
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/21314.The_Starfish_and_the_Spider
+goodreads_work_id: '3014004'
 image:
 - B000S1LU3M.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000S1LU3M.01._SCLZZZZZZZ.jpg

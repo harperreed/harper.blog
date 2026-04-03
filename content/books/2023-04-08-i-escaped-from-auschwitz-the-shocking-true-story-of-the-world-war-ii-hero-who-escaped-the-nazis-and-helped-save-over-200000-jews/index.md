@@ -5,6 +5,7 @@ book_author: Rudolf Vrba
 date: '2023-04-08T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/53515921-i-escaped-from-auschwitz
+goodreads_work_id: '761237'
 image:
 - B0847SV2FF.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0847SV2FF.01._SCLZZZZZZZ.jpg

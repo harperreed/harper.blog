@@ -5,6 +5,7 @@ book_author: Philip K. Dick
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/226482.The_Man_Who_Japed
+goodreads_work_id: '1915737'
 image:
 - B005LVQZN4.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B005LVQZN4.01._SCLZZZZZZZ.jpg

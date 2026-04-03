@@ -5,6 +5,7 @@ book_author: Chaim Potok
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/988504.My_Name_Is_Asher_Lev
+goodreads_work_id: '924688'
 image:
 - B002GKGAZG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B002GKGAZG.01._SCLZZZZZZZ.jpg

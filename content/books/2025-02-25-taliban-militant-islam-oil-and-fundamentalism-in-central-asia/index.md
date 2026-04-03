@@ -5,6 +5,7 @@ book_author: Ahmed Rashid
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/113185.Taliban
+goodreads_work_id: '108976'
 image:
 - B007RMLB3E.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B007RMLB3E.01._SCLZZZZZZZ.jpg

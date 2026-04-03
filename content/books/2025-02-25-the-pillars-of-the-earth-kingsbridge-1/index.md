@@ -5,6 +5,7 @@ book_author: Ken Follett
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/2157743.The_Pillars_of_the_Earth
+goodreads_work_id: '3359698'
 image:
 - 0451225244.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/0451225244.01._SCLZZZZZZZ.jpg

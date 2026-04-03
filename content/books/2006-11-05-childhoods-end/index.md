@@ -5,6 +5,7 @@ book_author: Arthur C. Clarke
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/28178752-childhood-s-end
+goodreads_work_id: '209414'
 image:
 - B07XG6MG3Y.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07XG6MG3Y.01._SCLZZZZZZZ.jpg

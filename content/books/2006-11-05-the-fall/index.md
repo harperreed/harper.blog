@@ -5,6 +5,7 @@ book_author: Albert Camus
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/11991.The_Fall
+goodreads_work_id: '3324245'
 image:
 - B0092EE8RG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0092EE8RG.01._SCLZZZZZZZ.jpg

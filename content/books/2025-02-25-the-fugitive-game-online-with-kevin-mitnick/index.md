@@ -5,6 +5,7 @@ book_author: Jonathan Littman
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/1121524.The_Fugitive_Game
+goodreads_work_id: '19619'
 image:
 - B0BJ7W8CW7.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0BJ7W8CW7.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Megan Giddings
 date: '2022-09-15T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/55851367-the-women-could-fly
+goodreads_work_id: '96301065'
 image:
 - B09L8C8Q1W.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09L8C8Q1W.01._SCLZZZZZZZ.jpg

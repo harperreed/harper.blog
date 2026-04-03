@@ -5,6 +5,7 @@ book_author: Ernest Cline
 date: '2015-03-25T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/20603758-ready-player-one
+goodreads_work_id: '14863741'
 image:
 - B004J4WKUQ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B004J4WKUQ.01._SCLZZZZZZZ.jpg

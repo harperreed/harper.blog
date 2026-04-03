@@ -5,6 +5,7 @@ book_author: Robin Sloan
 date: '2024-06-18T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/198112041-moonbound
+goodreads_work_id: '197724652'
 image:
 - B0CGRZ97VZ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0CGRZ97VZ.01._SCLZZZZZZZ.jpg

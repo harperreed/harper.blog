@@ -5,6 +5,7 @@ book_author: Linda Nagata
 date: '2021-06-01T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/55525169-pacific-storm
+goodreads_work_id: '86587890'
 image:
 - B08KC4HN9F.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08KC4HN9F.01._SCLZZZZZZZ.jpg

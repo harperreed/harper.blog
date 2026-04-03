@@ -5,6 +5,7 @@ book_author: Kevin Kelly
 date: '2023-07-01T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/63101004-excellent-advice-for-living
+goodreads_work_id: '98113859'
 image:
 - B0BCF78T14.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0BCF78T14.01._SCLZZZZZZZ.jpg

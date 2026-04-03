@@ -5,6 +5,7 @@ book_author: Celeste Ng
 date: '2017-10-14T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/34331079-little-fires-everywhere
+goodreads_work_id: '94930152'
 image:
 - B0DWV3L2G6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWV3L2G6.01._SCLZZZZZZZ.jpg

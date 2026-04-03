@@ -5,6 +5,7 @@ book_author: Graham Nash
 date: '2026-02-08T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18275751-wild-tales
+goodreads_work_id: '24017449'
 image:
 - 0385347553.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/0385347553.01._SCLZZZZZZZ.jpg
@@ -24,7 +25,7 @@ translationKey: 'Wild Tales: A Rock & Roll Life-0385347553'
 yaml: wild-tales-a-rock-roll-life
 ---
 
- In "Wild Tales: A Rock & Roll Life", Graham Nash, an iconic member of legendary bands Crosby, Stills & Nash and The Hollies, takes readers on a vibrant journey through his extraordinary life in music. This candid autobiography is a must-read for every classic rock enthusiast.  
+In "Wild Tales: A Rock & Roll Life", Graham Nash, an iconic member of legendary bands Crosby, Stills & Nash and The Hollies, takes readers on a vibrant journey through his extraordinary life in music. This candid autobiography is a must-read for every classic rock enthusiast.  
 
 Nash's music has defined a generation, writing over 200 songs including beloved classics like "Carrie Anne," "Our House," and "Teach Your Children." His narrative captures the pulse of the British Rock Revolution and the bohemian community around Woodstock. Readers will immerse themselves in Nash's formative years, beginning with his modest post-war childhood in England, to his rise with The Hollies, and his romantic and artistic partnership with Joni Mitchell during a time of profound creativity for both artists.  
 

@@ -5,6 +5,7 @@ book_author: Nick Sagan
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/1637251.Edenborn
+goodreads_work_id: '1904783'
 image:
 - B0017QNL66.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0017QNL66.01._SCLZZZZZZZ.jpg

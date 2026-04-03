@@ -5,6 +5,7 @@ book_author: Kelly Robson
 date: '2019-04-14T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/36187158-gods-monsters-and-the-lucky-peach
+goodreads_work_id: '57810004'
 image:
 - B0756JDSZM.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0756JDSZM.01._SCLZZZZZZZ.jpg

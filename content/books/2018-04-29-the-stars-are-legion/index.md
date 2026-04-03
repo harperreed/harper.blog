@@ -5,6 +5,7 @@ book_author: Kameron Hurley
 date: '2018-04-29T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/29090844-the-stars-are-legion
+goodreads_work_id: '21836212'
 image:
 - B01BKR14LA.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01BKR14LA.01._SCLZZZZZZZ.jpg

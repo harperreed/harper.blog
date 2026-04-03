@@ -5,6 +5,7 @@ book_author: Nick Harkaway
 date: '2025-02-16T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/206108477-karla-s-choice
+goodreads_work_id: '211948288'
 image:
 - B0CT82PWJX.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0CT82PWJX.01._SCLZZZZZZZ.jpg

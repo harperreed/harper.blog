@@ -5,6 +5,7 @@ book_author: Alex Kotlowitz
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/129785.The_Other_Side_of_the_River
+goodreads_work_id: '992737'
 image:
 - B006LTIPEW.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B006LTIPEW.01._SCLZZZZZZZ.jpg

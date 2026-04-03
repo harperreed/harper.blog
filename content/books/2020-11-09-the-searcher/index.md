@@ -5,6 +5,7 @@ book_author: Tana French
 date: '2020-11-09T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/52699692-the-searcher
+goodreads_work_id: '78466518'
 image:
 - B08681BNKV.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08681BNKV.01._SCLZZZZZZZ.jpg

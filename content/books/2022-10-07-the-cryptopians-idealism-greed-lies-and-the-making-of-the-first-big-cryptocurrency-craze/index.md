@@ -5,6 +5,7 @@ book_author: Laura Shin
 date: '2022-10-07T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/58318087-the-cryptopians
+goodreads_work_id: '89768165'
 image:
 - B08Y8MQ66Z.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08Y8MQ66Z.01._SCLZZZZZZZ.jpg

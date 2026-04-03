@@ -5,6 +5,7 @@ book_author: Orson Scott Card
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/375802.Ender_s_Game
+goodreads_work_id: '2422333'
 image:
 - B0099U4MB0.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0099U4MB0.01._SCLZZZZZZZ.jpg

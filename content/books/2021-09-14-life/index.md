@@ -5,6 +5,7 @@ book_author: Keith Richards
 date: '2021-09-14T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/9653102-life
+goodreads_work_id: '14323907'
 image:
 - B00499BTS0.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00499BTS0.01._SCLZZZZZZZ.jpg

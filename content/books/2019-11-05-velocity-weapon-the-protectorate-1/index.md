@@ -5,6 +5,7 @@ book_author: Megan E. O'Keefe
 date: '2019-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/41085049-velocity-weapon
+goodreads_work_id: '64190668'
 image:
 - B07G73ZJTB.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07G73ZJTB.01._SCLZZZZZZZ.jpg

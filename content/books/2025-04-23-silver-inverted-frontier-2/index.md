@@ -5,6 +5,7 @@ book_author: Linda Nagata
 date: '2025-04-23T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/48495251-silver
+goodreads_work_id: '73805045'
 image:
 - B07Z5FXGNL.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07Z5FXGNL.01._SCLZZZZZZZ.jpg

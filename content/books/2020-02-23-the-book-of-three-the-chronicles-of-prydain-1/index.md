@@ -5,6 +5,7 @@ book_author: Lloyd Alexander
 date: '2020-02-23T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/12471215-the-book-of-three
+goodreads_work_id: '1149593'
 image:
 - B0DWV99XN1.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWV99XN1.01._SCLZZZZZZZ.jpg

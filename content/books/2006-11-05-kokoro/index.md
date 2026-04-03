@@ -5,6 +5,7 @@ book_author: Natsume Sōseki
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/762476.Kokoro
+goodreads_work_id: '1977713'
 image:
 - B09WWMB1FQ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09WWMB1FQ.01._SCLZZZZZZZ.jpg

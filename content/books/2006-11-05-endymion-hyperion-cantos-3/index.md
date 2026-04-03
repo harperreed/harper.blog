@@ -5,6 +5,7 @@ book_author: Dan Simmons
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/3977.Endymion
+goodreads_work_id: '1882574'
 image:
 - B004G606I0.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B004G606I0.01._SCLZZZZZZZ.jpg

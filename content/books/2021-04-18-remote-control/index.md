@@ -5,6 +5,7 @@ book_author: Nnedi Okorafor
 date: '2021-04-18T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/34215764-remote-control
+goodreads_work_id: '55266235'
 image:
 - B0879FRJ9X.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0879FRJ9X.01._SCLZZZZZZZ.jpg

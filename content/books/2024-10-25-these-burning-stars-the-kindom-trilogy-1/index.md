@@ -5,6 +5,7 @@ book_author: Bethany Jacobs
 date: '2024-10-25T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/136361472-these-burning-stars
+goodreads_work_id: '96708613'
 image:
 - B0BRJ6MRNJ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0BRJ6MRNJ.01._SCLZZZZZZZ.jpg

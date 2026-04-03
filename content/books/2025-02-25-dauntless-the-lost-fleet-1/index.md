@@ -5,6 +5,7 @@ book_author: Jack Campbell
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/112292.Dauntless
+goodreads_work_id: '108122'
 image:
 - B000OZ0NXU.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000OZ0NXU.01._SCLZZZZZZZ.jpg

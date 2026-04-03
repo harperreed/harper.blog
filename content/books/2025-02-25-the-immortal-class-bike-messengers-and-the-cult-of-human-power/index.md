@@ -5,6 +5,7 @@ book_author: Travis Hugh Culley
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/1882722.The_Immortal_Class
+goodreads_work_id: '169797'
 image:
 - B000FC1IR2.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000FC1IR2.01._SCLZZZZZZZ.jpg

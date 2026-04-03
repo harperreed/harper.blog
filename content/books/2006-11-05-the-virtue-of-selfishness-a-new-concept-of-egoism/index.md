@@ -5,6 +5,7 @@ book_author: Ayn Rand
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/665.The_Virtue_of_Selfishness
+goodreads_work_id: '443285'
 image:
 - B002OSXD64.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B002OSXD64.01._SCLZZZZZZZ.jpg

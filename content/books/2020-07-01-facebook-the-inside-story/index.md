@@ -5,6 +5,7 @@ book_author: Steven Levy
 date: '2020-07-01T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/48495926-facebook
+goodreads_work_id: '72310176'
 image:
 - B07V8CL7RH.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07V8CL7RH.01._SCLZZZZZZZ.jpg

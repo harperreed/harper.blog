@@ -5,6 +5,7 @@ book_author: David Kesmodel
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/3661740-the-domain-game
+goodreads_work_id: '3704961'
 image:
 - B001BHECAU.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B001BHECAU.01._SCLZZZZZZZ.jpg

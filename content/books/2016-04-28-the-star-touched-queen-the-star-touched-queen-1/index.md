@@ -5,6 +5,7 @@ book_author: Roshani Chokshi
 date: '2016-04-28T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/28177121-the-star-touched-queen
+goodreads_work_id: '44916095'
 image:
 - B016ICX852.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B016ICX852.01._SCLZZZZZZZ.jpg

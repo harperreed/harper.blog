@@ -5,6 +5,7 @@ book_author: Kurt Vonnegut Jr.
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/9589.Hocus_Pocus
+goodreads_work_id: '1683551'
 image:
 - B001QWDRZQ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B001QWDRZQ.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Robin Hobb
 date: '2021-05-22T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/57438319-assassin-s-apprentice
+goodreads_work_id: '171715'
 image:
 - B000FBFMG6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000FBFMG6.01._SCLZZZZZZZ.jpg

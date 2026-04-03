@@ -5,6 +5,7 @@ book_author: Vernor Vinge
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/167845.The_Peace_War
+goodreads_work_id: '1269997'
 image:
 - B003E74BSS.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B003E74BSS.01._SCLZZZZZZZ.jpg

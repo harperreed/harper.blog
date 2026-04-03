@@ -5,6 +5,7 @@ book_author: Charles Stross
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/656872.Glasshouse
+goodreads_work_id: '930588'
 image:
 - B001161L6O.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B001161L6O.01._SCLZZZZZZZ.jpg

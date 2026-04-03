@@ -5,6 +5,7 @@ book_author: Olga Ravn
 date: '2024-06-27T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/193767162-my-work
+goodreads_work_id: '85617823'
 image:
 - B0CCFXV15F.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0CCFXV15F.01._SCLZZZZZZZ.jpg

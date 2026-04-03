@@ -5,6 +5,7 @@ book_author: Neil Gaiman
 date: '2007-01-07T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/2744.Anansi_Boys
+goodreads_work_id: '1007964'
 image:
 - B000FCKENQ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000FCKENQ.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Arkady Martine
 date: '2021-03-14T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/45154547-a-desolation-called-peace
+goodreads_work_id: '61309907'
 image:
 - B07QPJHNSM.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07QPJHNSM.01._SCLZZZZZZZ.jpg

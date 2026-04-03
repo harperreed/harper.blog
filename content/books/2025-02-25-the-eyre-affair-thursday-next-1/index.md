@@ -5,6 +5,7 @@ book_author: Jasper Fforde
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/27003.The_Eyre_Affair
+goodreads_work_id: '3436605'
 image:
 - B000OCXHC2.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000OCXHC2.01._SCLZZZZZZZ.jpg

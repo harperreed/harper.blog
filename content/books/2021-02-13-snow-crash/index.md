@@ -5,6 +5,7 @@ book_author: Neal Stephenson
 date: '2021-02-13T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/40651883-snow-crash
+goodreads_work_id: '493634'
 image:
 - B0DNC1MQCS.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DNC1MQCS.01._SCLZZZZZZZ.jpg

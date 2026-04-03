@@ -5,6 +5,7 @@ book_author: Liu Cixin
 date: '2018-08-29T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/34742929-ball-lightning
+goodreads_work_id: '21552302'
 image:
 - B06XRGCFS8.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B06XRGCFS8.01._SCLZZZZZZZ.jpg

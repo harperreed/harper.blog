@@ -5,6 +5,7 @@ book_author: Naomi Novik
 date: '2023-12-02T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/51080382-a-deadly-education
+goodreads_work_id: '75543174'
 image:
 - B083RZC8KQ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B083RZC8KQ.01._SCLZZZZZZZ.jpg

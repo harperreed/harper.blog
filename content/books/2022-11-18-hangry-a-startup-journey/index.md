@@ -5,6 +5,7 @@ book_author: Mike           Evans
 date: '2022-11-18T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/63184265-hangry
+goodreads_work_id: '94762987'
 image:
 - B09Y5GDMMR.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09Y5GDMMR.01._SCLZZZZZZZ.jpg

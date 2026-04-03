@@ -5,6 +5,7 @@ book_author: Philip Fracassi
 date: '2025-04-15T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/215815771-the-third-rule-of-time-travel
+goodreads_work_id: '214321561'
 image:
 - B0D8HW9B94.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0D8HW9B94.01._SCLZZZZZZZ.jpg

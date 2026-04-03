@@ -5,6 +5,7 @@ book_author: Kazuo Ishiguro
 date: '2021-10-23T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/54250259-klara-and-the-sun
+goodreads_work_id: '84460796'
 image:
 - B0DWVZ1RL5.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWVZ1RL5.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Daniel Suarez
 date: '2017-05-13T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/31568220-change-agent
+goodreads_work_id: '52090299'
 image:
 - B0DWTYZ5NV.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWTYZ5NV.01._SCLZZZZZZZ.jpg

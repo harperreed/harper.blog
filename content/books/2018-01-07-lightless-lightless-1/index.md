@@ -5,6 +5,7 @@ book_author: C.A. Higgins
 date: '2018-01-07T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/34674956-lightless
+goodreads_work_id: '44848461'
 image:
 - B00R04IRHM.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00R04IRHM.01._SCLZZZZZZZ.jpg

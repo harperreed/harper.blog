@@ -5,6 +5,7 @@ book_author: Eric Schmidt
 date: '2022-06-06T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/42764751-trillion-dollar-coach
+goodreads_work_id: '65707665'
 image:
 - B076ZHG3H3.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B076ZHG3H3.01._SCLZZZZZZZ.jpg

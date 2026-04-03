@@ -5,6 +5,7 @@ book_author: P.D. James
 date: '2023-07-21T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/9505694-the-children-of-men
+goodreads_work_id: '1142'
 image:
 - B0046A9JEI.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0046A9JEI.01._SCLZZZZZZZ.jpg

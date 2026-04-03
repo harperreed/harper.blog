@@ -5,6 +5,7 @@ book_author: Sarah Wynn-Williams
 date: '2025-03-27T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/228578720-careless-people
+goodreads_work_id: '230497654'
 image:
 - 1250391245.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/1250391245.01._SCLZZZZZZZ.jpg

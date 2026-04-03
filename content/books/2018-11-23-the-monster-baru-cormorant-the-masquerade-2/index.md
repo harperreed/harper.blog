@@ -5,6 +5,7 @@ book_author: Seth Dickinson
 date: '2018-11-23T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/38117105-the-monster-baru-cormorant
+goodreads_work_id: '56883331'
 image:
 - B078X294FQ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B078X294FQ.01._SCLZZZZZZZ.jpg

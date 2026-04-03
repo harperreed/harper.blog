@@ -5,6 +5,7 @@ book_author: John Varley
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/49829.Mammoth
+goodreads_work_id: '48735'
 image:
 - B08CZD38YB.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08CZD38YB.01._SCLZZZZZZZ.jpg

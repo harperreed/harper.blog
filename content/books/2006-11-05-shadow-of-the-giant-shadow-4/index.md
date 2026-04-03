@@ -5,6 +5,7 @@ book_author: Orson Scott Card
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/363206.Shadow_of_the_Giant
+goodreads_work_id: '4088'
 image:
 - B003E74AHA.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B003E74AHA.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Rajan Khanna
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/22322035-falling-sky
+goodreads_work_id: '39872226'
 image:
 - B00JNPF3XW.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00JNPF3XW.01._SCLZZZZZZZ.jpg

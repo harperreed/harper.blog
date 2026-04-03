@@ -5,6 +5,7 @@ book_author: Nassim Nicholas Taleb
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/242472.The_Black_Swan
+goodreads_work_id: '2157806'
 image:
 - 1400063515.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/1400063515.01._SCLZZZZZZZ.jpg

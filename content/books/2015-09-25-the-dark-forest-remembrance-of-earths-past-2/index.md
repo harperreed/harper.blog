@@ -5,6 +5,7 @@ book_author: Liu Cixin
 date: '2015-09-25T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/24375664-the-dark-forest
+goodreads_work_id: '42713958'
 image:
 - B00R13OYU6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00R13OYU6.01._SCLZZZZZZZ.jpg

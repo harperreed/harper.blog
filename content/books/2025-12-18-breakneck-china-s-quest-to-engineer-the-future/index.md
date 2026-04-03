@@ -5,6 +5,7 @@ book_author: Dan  Wang
 date: '2025-12-18T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/228185703-breakneck
+goodreads_work_id: '230831724'
 image:
 - B0D6FP3W7Y.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0D6FP3W7Y.01._SCLZZZZZZZ.jpg

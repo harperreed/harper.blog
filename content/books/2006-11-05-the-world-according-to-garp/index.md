@@ -5,6 +5,7 @@ book_author: John Irving
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/348428.The_World_According_to_Garp
+goodreads_work_id: '1028204'
 image:
 - B07J44W78R.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07J44W78R.01._SCLZZZZZZZ.jpg

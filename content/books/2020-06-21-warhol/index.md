@@ -5,6 +5,7 @@ book_author: Blake Gopnik
 date: '2020-06-21T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/48588730-warhol
+goodreads_work_id: '72235090'
 image:
 - B079DQV1PT.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B079DQV1PT.01._SCLZZZZZZZ.jpg

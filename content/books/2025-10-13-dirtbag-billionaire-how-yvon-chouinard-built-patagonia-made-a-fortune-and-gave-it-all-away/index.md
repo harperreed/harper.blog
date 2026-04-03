@@ -5,6 +5,7 @@ book_author: David Gelles
 date: '2025-10-13T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/225539682-dirtbag-billionaire
+goodreads_work_id: '232795500'
 image:
 - B0DV68RRSK.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DV68RRSK.01._SCLZZZZZZZ.jpg

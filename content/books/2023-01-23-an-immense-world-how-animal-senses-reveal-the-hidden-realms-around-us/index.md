@@ -5,6 +5,7 @@ book_author: Ed Yong
 date: '2023-01-23T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/60186447-an-immense-world
+goodreads_work_id: '92905730'
 image:
 - B09JBJS1MF.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09JBJS1MF.01._SCLZZZZZZZ.jpg

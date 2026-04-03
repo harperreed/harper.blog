@@ -5,6 +5,7 @@ book_author: Sarah Beth Durst
 date: '2025-11-09T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/199269583-the-spellshop
+goodreads_work_id: '196658469'
 image:
 - B0CK72J9SS.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0CK72J9SS.01._SCLZZZZZZZ.jpg

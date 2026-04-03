@@ -5,6 +5,7 @@ book_author: Adam Fisher
 date: '2018-07-15T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/39108065-valley-of-genius
+goodreads_work_id: '58071511'
 image:
 - B0769XXGXX.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0769XXGXX.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Ronan Farrow
 date: '2019-10-15T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/51112101-catch-and-kill
+goodreads_work_id: '72177046'
 image:
 - B07TD413RV.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07TD413RV.01._SCLZZZZZZZ.jpg

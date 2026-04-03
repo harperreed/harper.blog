@@ -5,6 +5,7 @@ book_author: Eliot Peper
 date: '2018-05-10T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/36458711-bandwidth
+goodreads_work_id: '57914174'
 image:
 - B075CLV95J.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B075CLV95J.01._SCLZZZZZZZ.jpg

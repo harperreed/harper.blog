@@ -5,6 +5,7 @@ book_author: Kevin Bohacz
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/1706898.Immortality
+goodreads_work_id: '1704060'
 image:
 - B000ZKRDGY.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000ZKRDGY.01._SCLZZZZZZZ.jpg

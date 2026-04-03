@@ -5,6 +5,7 @@ book_author: Philip Roth
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/29738.Patrimony
+goodreads_work_id: '2183582'
 image:
 - B00BFYC94U.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00BFYC94U.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Joe Haldeman
 date: '2014-07-15T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/12008949-the-forever-war
+goodreads_work_id: '423'
 image:
 - B00PI184XG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00PI184XG.01._SCLZZZZZZZ.jpg

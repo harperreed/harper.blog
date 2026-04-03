@@ -5,6 +5,7 @@ book_author: Robert Sheckley
 date: '2015-02-23T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/12349664-store-of-the-worlds
+goodreads_work_id: '17439363'
 image:
 - B005FG0ZEK.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B005FG0ZEK.01._SCLZZZZZZZ.jpg

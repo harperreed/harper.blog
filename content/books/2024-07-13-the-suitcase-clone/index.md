@@ -5,6 +5,7 @@ book_author: Robin Sloan
 date: '2024-07-13T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/61271429-the-suitcase-clone
+goodreads_work_id: '96610461'
 image:
 - B0B3VKNF21.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0B3VKNF21.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Peter Pomerantsev
 date: '2019-10-24T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/23534229-nothing-is-true-and-everything-is-possible
+goodreads_work_id: '40714614'
 image:
 - B00L4FSVZ6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00L4FSVZ6.01._SCLZZZZZZZ.jpg

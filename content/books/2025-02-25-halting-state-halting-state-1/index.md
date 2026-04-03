@@ -5,6 +5,7 @@ book_author: Charles Stross
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/2564523-halting-state
+goodreads_work_id: '930563'
 image:
 - B000W9180A.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000W9180A.01._SCLZZZZZZZ.jpg

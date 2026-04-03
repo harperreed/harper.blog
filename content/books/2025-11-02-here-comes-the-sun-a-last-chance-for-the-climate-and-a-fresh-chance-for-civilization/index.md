@@ -5,6 +5,7 @@ book_author: Bill McKibben
 date: '2025-11-02T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/228168532-here-comes-the-sun
+goodreads_work_id: '230831751'
 image:
 - B0DXQGBM4Z.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DXQGBM4Z.01._SCLZZZZZZZ.jpg

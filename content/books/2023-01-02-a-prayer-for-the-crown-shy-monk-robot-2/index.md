@@ -5,6 +5,7 @@ book_author: Becky  Chambers
 date: '2023-01-02T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/40864030-a-prayer-for-the-crown-shy
+goodreads_work_id: '65807876'
 image:
 - B09CNFL3W7.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09CNFL3W7.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Sachiko Kashiwaba
 date: '2026-01-26T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/58301678-temple-alley-summer
+goodreads_work_id: '85364999'
 image:
 - B096FXSTF5.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B096FXSTF5.01._SCLZZZZZZZ.jpg

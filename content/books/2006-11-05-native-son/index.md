@@ -5,6 +5,7 @@ book_author: Richard Wright
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/15622.Native_Son
+goodreads_work_id: '3159084'
 image:
 - B002BY779U.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B002BY779U.01._SCLZZZZZZZ.jpg

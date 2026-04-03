@@ -5,6 +5,7 @@ book_author: Lydia Millet
 date: '2021-06-28T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/50902716-a-children-s-bible
+goodreads_work_id: '73351391'
 image:
 - B07ZTTH5VD.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07ZTTH5VD.01._SCLZZZZZZZ.jpg

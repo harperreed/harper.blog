@@ -5,6 +5,7 @@ book_author: Andy Weir
 date: '2021-05-13T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/54906250-project-hail-mary
+goodreads_work_id: '79106958'
 image:
 - B0DWVVNLC9.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWVVNLC9.01._SCLZZZZZZZ.jpg

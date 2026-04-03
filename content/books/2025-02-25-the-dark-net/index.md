@@ -5,6 +5,7 @@ book_author: James R. Riordon
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/6082239-the-dark-net
+goodreads_work_id: '2049253'
 image:
 - B000ZSGU4C.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000ZSGU4C.01._SCLZZZZZZZ.jpg

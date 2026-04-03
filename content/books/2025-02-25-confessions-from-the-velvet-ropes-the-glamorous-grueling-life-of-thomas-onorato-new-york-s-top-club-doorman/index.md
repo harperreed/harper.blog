@@ -5,6 +5,7 @@ book_author: Thomas Onorato
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/312638.Confessions_from_the_Velvet_Ropes
+goodreads_work_id: '303541'
 image:
 - B003E4CYWQ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B003E4CYWQ.01._SCLZZZZZZZ.jpg

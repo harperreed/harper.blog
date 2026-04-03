@@ -5,6 +5,7 @@ book_author: Kiese Laymon
 date: '2019-10-16T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/34939327-heavy
+goodreads_work_id: '49695308'
 image:
 - B0DWVB1M8D.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWVB1M8D.01._SCLZZZZZZZ.jpg

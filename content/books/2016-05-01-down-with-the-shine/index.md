@@ -5,6 +5,7 @@ book_author: Kate Karyus Quinn
 date: '2016-05-01T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/26104279-down-with-the-shine
+goodreads_work_id: '45466455'
 image:
 - B013CANCLI.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B013CANCLI.01._SCLZZZZZZZ.jpg

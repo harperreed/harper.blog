@@ -5,6 +5,7 @@ book_author: Jo Nesbø
 date: '2018-03-26T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/19792871-the-bat
+goodreads_work_id: '1994708'
 image:
 - B00BH0VSM6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00BH0VSM6.01._SCLZZZZZZZ.jpg

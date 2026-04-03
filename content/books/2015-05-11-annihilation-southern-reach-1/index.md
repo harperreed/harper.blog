@@ -5,6 +5,7 @@ book_author: Jeff VanderMeer
 date: '2015-05-11T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/20410192-annihilation
+goodreads_work_id: '24946895'
 image:
 - B00EGJ32A6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00EGJ32A6.01._SCLZZZZZZZ.jpg

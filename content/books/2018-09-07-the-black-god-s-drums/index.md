@@ -5,6 +5,7 @@ book_author: P. Djèlí Clark
 date: '2018-09-07T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/38118138-the-black-god-s-drums
+goodreads_work_id: '58277606'
 image:
 - B0791JV58Z.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0791JV58Z.01._SCLZZZZZZZ.jpg

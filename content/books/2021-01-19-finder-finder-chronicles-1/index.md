@@ -5,6 +5,7 @@ book_author: Suzanne Palmer
 date: '2021-01-19T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/40796392-finder
+goodreads_work_id: '63522653'
 image:
 - B07FC7KWLB.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07FC7KWLB.01._SCLZZZZZZZ.jpg

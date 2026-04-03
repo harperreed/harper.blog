@@ -5,6 +5,7 @@ book_author: Gregory Zuckerman
 date: '2016-01-17T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/8251225-the-greatest-trade-ever
+goodreads_work_id: '7228708'
 image:
 - B002UBRFFU.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B002UBRFFU.01._SCLZZZZZZZ.jpg

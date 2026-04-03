@@ -5,6 +5,7 @@ book_author: James S.A. Corey
 date: '2021-12-04T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/57397125-leviathan-falls
+goodreads_work_id: '48382891'
 image:
 - B08Y8LBCLH.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08Y8LBCLH.01._SCLZZZZZZZ.jpg

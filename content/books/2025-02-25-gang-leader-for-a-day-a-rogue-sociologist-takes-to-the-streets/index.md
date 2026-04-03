@@ -5,6 +5,7 @@ book_author: Sudhir Venkatesh
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/1491906.Gang_Leader_for_a_Day
+goodreads_work_id: '1483174'
 image:
 - B0011UCPQ0.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0011UCPQ0.01._SCLZZZZZZZ.jpg

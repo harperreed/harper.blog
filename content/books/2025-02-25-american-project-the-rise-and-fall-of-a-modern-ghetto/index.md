@@ -5,6 +5,7 @@ book_author: Sudhir Venkatesh
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/87091.American_Project
+goodreads_work_id: '84062'
 image:
 - B08KHKR4XF.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08KHKR4XF.01._SCLZZZZZZZ.jpg

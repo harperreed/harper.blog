@@ -5,6 +5,7 @@ book_author: M.R. Carey
 date: '2024-02-08T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/62842748-infinity-gate
+goodreads_work_id: '96545712'
 image:
 - B0B38STG6T.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0B38STG6T.01._SCLZZZZZZZ.jpg

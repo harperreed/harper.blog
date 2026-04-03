@@ -5,6 +5,7 @@ book_author: Ayn Rand
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/2122.The_Fountainhead
+goodreads_work_id: '3331807'
 image:
 - B098BBVG7D.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B098BBVG7D.01._SCLZZZZZZZ.jpg

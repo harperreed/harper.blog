@@ -5,6 +5,7 @@ book_author: Michael Cisco
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/2089988.The_Traitor
+goodreads_work_id: '2095320'
 image:
 - B00ESUSK9G.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00ESUSK9G.01._SCLZZZZZZZ.jpg

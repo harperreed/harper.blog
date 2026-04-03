@@ -5,6 +5,7 @@ book_author: Rumaan Alam
 date: '2023-12-14T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/53867504-leave-the-world-behind
+goodreads_work_id: '75306723'
 image:
 - B083JKGK15.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B083JKGK15.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Greg Bear
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/19836379-darwin-s-radio-darwin-s-children
+goodreads_work_id: '2510177'
 image:
 - B000QCQ9K2.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000QCQ9K2.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Megan E. O'Keefe
 date: '2024-04-27T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/56047181-catalyst-gate
+goodreads_work_id: '87055073'
 image:
 - B08MZT641Y.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08MZT641Y.01._SCLZZZZZZZ.jpg

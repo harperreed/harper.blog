@@ -5,6 +5,7 @@ book_author: David Weinberger
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/726004.Everything_Is_Miscellaneous
+goodreads_work_id: '712220'
 image:
 - B000R7PUW4.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000R7PUW4.01._SCLZZZZZZZ.jpg

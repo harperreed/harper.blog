@@ -5,6 +5,7 @@ book_author: Joe Gross
 date: '2025-11-01T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/73230826-fugazi-s-in-on-the-kill-taker
+goodreads_work_id: '56310572'
 image:
 - B09KS78DS6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09KS78DS6.01._SCLZZZZZZZ.jpg

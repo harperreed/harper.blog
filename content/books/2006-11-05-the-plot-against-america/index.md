@@ -5,6 +5,7 @@ book_author: Philip Roth
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/416050.The_Plot_Against_America
+goodreads_work_id: '911456'
 image:
 - B003WJQ6RC.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B003WJQ6RC.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Valerie Plame Wilson
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/1815529.Fair_Game
+goodreads_work_id: '1815022'
 image:
 - B000WJVK7G.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000WJVK7G.01._SCLZZZZZZZ.jpg

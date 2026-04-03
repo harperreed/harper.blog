@@ -5,6 +5,7 @@ book_author: Robert Galbraith
 date: '2015-02-01T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/20878276-the-silkworm
+goodreads_work_id: '25639104'
 image:
 - B0DWTRKNKP.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWTRKNKP.01._SCLZZZZZZZ.jpg

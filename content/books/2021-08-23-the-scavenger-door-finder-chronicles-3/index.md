@@ -5,6 +5,7 @@ book_author: Suzanne Palmer
 date: '2021-08-23T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/51319852-the-scavenger-door
+goodreads_work_id: '71397603'
 image:
 - B08LYV1HC7.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08LYV1HC7.01._SCLZZZZZZZ.jpg

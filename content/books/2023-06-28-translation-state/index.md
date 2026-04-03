@@ -5,6 +5,7 @@ book_author: Ann Leckie
 date: '2023-06-28T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/62979034-translation-state
+goodreads_work_id: '98667857'
 image:
 - B0BH4JGLMC.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0BH4JGLMC.01._SCLZZZZZZZ.jpg

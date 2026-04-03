@@ -5,6 +5,7 @@ book_author: Julie E. Czerneda
 date: '2022-11-18T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/62234956-to-each-this-world
+goodreads_work_id: '95141306'
 image:
 - B0B6YNQBY7.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0B6YNQBY7.01._SCLZZZZZZZ.jpg

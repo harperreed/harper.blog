@@ -5,6 +5,7 @@ book_author: Meghan Scott Molin
 date: '2018-12-18T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/39009405-the-frame-up
+goodreads_work_id: '58911241'
 image:
 - B07B3WQYXN.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07B3WQYXN.01._SCLZZZZZZZ.jpg

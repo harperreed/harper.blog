@@ -5,6 +5,7 @@ book_author: Tade Thompson
 date: '2019-07-20T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/40088463-rosewater
+goodreads_work_id: '51884865'
 image:
 - B077MGY96X.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B077MGY96X.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Emily Devenport
 date: '2020-12-23T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/36443389-medusa-uploaded
+goodreads_work_id: '57890959'
 image:
 - B0756K6X32.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0756K6X32.01._SCLZZZZZZZ.jpg

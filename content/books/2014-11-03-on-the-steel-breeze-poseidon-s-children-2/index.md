@@ -5,6 +5,7 @@ book_author: Alastair Reynolds
 date: '2014-11-03T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/19812210-on-the-steel-breeze
+goodreads_work_id: '21759781'
 image:
 - B00H2V6IN8.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00H2V6IN8.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Celeste Ng
 date: '2022-10-15T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/60197169-our-missing-hearts
+goodreads_work_id: '94900794'
 image:
 - B09QBYCC3J.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09QBYCC3J.01._SCLZZZZZZZ.jpg

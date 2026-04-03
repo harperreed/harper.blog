@@ -5,6 +5,7 @@ book_author: Vernor Vinge
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/167846.True_Names
+goodreads_work_id: '2605977'
 image:
 - B00VPX20KE.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00VPX20KE.01._SCLZZZZZZZ.jpg

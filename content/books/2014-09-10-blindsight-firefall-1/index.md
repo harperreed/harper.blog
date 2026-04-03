@@ -5,6 +5,7 @@ book_author: Peter Watts
 date: '2014-09-10T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/9303978-blindsight
+goodreads_work_id: '223813791'
 image:
 - B0DLZP4CKN.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DLZP4CKN.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Charles Stross
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/17863.Accelerando
+goodreads_work_id: '930555'
 image:
 - B000OIZUC6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000OIZUC6.01._SCLZZZZZZZ.jpg

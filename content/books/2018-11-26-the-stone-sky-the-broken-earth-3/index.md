@@ -5,6 +5,7 @@ book_author: N.K. Jemisin
 date: '2018-11-26T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/34017126-the-stone-sky
+goodreads_work_id: '52472813'
 image:
 - B01N7EQOFA.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01N7EQOFA.01._SCLZZZZZZZ.jpg

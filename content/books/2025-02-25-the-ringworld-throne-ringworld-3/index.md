@@ -5,6 +5,7 @@ book_author: Larry Niven
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/61177.The_Ringworld_Throne
+goodreads_work_id: '59500'
 image:
 - 0345358619.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/0345358619.01._SCLZZZZZZZ.jpg

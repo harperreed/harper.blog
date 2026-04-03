@@ -5,6 +5,7 @@ book_author: John Scalzi
 date: '2018-06-24T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/35113662-head-on
+goodreads_work_id: '45415409'
 image:
 - B072LD8JG9.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B072LD8JG9.01._SCLZZZZZZZ.jpg

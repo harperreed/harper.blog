@@ -5,6 +5,7 @@ book_author: Richard Lloyd Parry
 date: '2019-08-10T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/35268473-ghosts-of-the-tsunami
+goodreads_work_id: '50833742'
 image:
 - B06XBP3RV6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B06XBP3RV6.01._SCLZZZZZZZ.jpg

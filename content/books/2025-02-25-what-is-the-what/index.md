@@ -5,6 +5,7 @@ book_author: Dave Eggers
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/340514.What_Is_the_What
+goodreads_work_id: '3271214'
 image:
 - B00A2M1R4O.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00A2M1R4O.01._SCLZZZZZZZ.jpg

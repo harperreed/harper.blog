@@ -5,6 +5,7 @@ book_author: Alex White
 date: '2018-12-16T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/37864092-a-big-ship-at-the-edge-of-the-universe
+goodreads_work_id: '56936451'
 image:
 - B0763KVBBH.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0763KVBBH.01._SCLZZZZZZZ.jpg

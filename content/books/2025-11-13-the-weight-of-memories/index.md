@@ -5,6 +5,7 @@ book_author: Liu Cixin
 date: '2025-11-13T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/30833856-the-weight-of-memories
+goodreads_work_id: '50829916'
 image:
 - B01HW6R2Y6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01HW6R2Y6.01._SCLZZZZZZZ.jpg

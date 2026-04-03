@@ -5,6 +5,7 @@ book_author: Nana Kwame Adjei-Brenyah
 date: '2023-06-24T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/61618096-chain-gang-all-stars
+goodreads_work_id: '96464163'
 image:
 - 0593317343.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/0593317343.01._SCLZZZZZZZ.jpg

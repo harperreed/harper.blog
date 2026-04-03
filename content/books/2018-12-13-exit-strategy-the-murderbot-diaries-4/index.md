@@ -5,6 +5,7 @@ book_author: Martha Wells
 date: '2018-12-13T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/35519109-exit-strategy
+goodreads_work_id: '56934601'
 image:
 - B078X1N8VF.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B078X1N8VF.01._SCLZZZZZZZ.jpg

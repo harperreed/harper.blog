@@ -5,6 +5,7 @@ book_author: Richard K. Morgan
 date: '2019-02-07T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/35603348-thin-air
+goodreads_work_id: '45698076'
 image:
 - B0738K33YC.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0738K33YC.01._SCLZZZZZZZ.jpg

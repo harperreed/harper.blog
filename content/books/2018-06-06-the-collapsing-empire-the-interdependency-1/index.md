@@ -5,6 +5,7 @@ book_author: John Scalzi
 date: '2018-06-06T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/30282601-the-collapsing-empire
+goodreads_work_id: '50498420'
 image:
 - B01F20E7CO.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01F20E7CO.01._SCLZZZZZZZ.jpg

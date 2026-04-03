@@ -5,6 +5,7 @@ book_author: Natsuko Imamura
 date: '2021-07-08T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/57016623-the-woman-in-the-purple-skirt
+goodreads_work_id: '85223829'
 image:
 - B08LGTCPBW.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08LGTCPBW.01._SCLZZZZZZZ.jpg

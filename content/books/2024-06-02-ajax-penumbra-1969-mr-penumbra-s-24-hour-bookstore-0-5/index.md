@@ -5,6 +5,7 @@ book_author: Robin Sloan
 date: '2024-06-02T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18715978-ajax-penumbra-1969
+goodreads_work_id: '26036155'
 image:
 - B00EWZC8QI.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00EWZC8QI.01._SCLZZZZZZZ.jpg

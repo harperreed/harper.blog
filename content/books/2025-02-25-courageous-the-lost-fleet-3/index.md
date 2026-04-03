@@ -5,6 +5,7 @@ book_author: Jack Campbell
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/1372055.Courageous
+goodreads_work_id: '1361919'
 image:
 - B000UZNRXM.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000UZNRXM.01._SCLZZZZZZZ.jpg

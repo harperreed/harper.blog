@@ -5,6 +5,7 @@ book_author: T. Kingfisher
 date: '2025-01-12T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/50702014-paladin-s-grace
+goodreads_work_id: '75730699'
 image:
 - B0848Q8JVW.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0848Q8JVW.01._SCLZZZZZZZ.jpg

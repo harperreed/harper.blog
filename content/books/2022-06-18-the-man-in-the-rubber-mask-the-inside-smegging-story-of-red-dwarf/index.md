@@ -5,6 +5,7 @@ book_author: Robert Llewellyn
 date: '2022-06-18T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/25394897-the-man-in-the-rubber-mask
+goodreads_work_id: '145516'
 image:
 - B00WDP9EAW.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00WDP9EAW.01._SCLZZZZZZZ.jpg

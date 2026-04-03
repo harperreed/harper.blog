@@ -5,6 +5,7 @@ book_author: Arthur C. Clarke
 date: '2020-06-13T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/774928.Rendezvous_With_Rama
+goodreads_work_id: '1882772'
 image:
 - B07XD75HGV.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07XD75HGV.01._SCLZZZZZZZ.jpg

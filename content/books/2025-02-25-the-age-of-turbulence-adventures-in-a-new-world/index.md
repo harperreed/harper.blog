@@ -5,6 +5,7 @@ book_author: Alan Greenspan
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/522861.The_Age_of_Turbulence
+goodreads_work_id: '1203801'
 image:
 - B000UZJRIG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000UZJRIG.01._SCLZZZZZZZ.jpg

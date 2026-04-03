@@ -5,6 +5,7 @@ book_author: Peter Watts
 date: '2014-09-25T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/21432382-echopraxia
+goodreads_work_id: '26174428'
 image:
 - B00IHCBDJ0.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00IHCBDJ0.01._SCLZZZZZZZ.jpg

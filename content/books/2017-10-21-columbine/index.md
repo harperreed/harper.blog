@@ -5,6 +5,7 @@ book_author: Dave Cullen
 date: '2017-10-21T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/21948042-columbine
+goodreads_work_id: '5803859'
 image:
 - B0024NP4NO.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0024NP4NO.01._SCLZZZZZZZ.jpg

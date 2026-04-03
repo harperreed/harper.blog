@@ -5,6 +5,7 @@ book_author: Warren Ellis
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/17211146-gun-machine
+goodreads_work_id: '20384877'
 image:
 - B007ZFIMC6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B007ZFIMC6.01._SCLZZZZZZZ.jpg

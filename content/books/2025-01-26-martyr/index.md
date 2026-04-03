@@ -5,6 +5,7 @@ book_author: Kaveh Akbar
 date: '2025-01-26T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/139401966-martyr
+goodreads_work_id: '155375386'
 image:
 - B0C3C886FY.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0C3C886FY.01._SCLZZZZZZZ.jpg

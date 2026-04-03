@@ -5,6 +5,7 @@ book_author: Nick Bilton
 date: '2017-10-29T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/33390368-american-kingpin
+goodreads_work_id: '52573415'
 image:
 - B01L8C4WBG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01L8C4WBG.01._SCLZZZZZZZ.jpg

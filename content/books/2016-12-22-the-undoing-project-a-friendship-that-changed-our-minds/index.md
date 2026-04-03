@@ -5,6 +5,7 @@ book_author: Michael   Lewis
 date: '2016-12-22T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/30364647-the-undoing-project
+goodreads_work_id: '50830817'
 image:
 - B01GI6S7EK.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01GI6S7EK.01._SCLZZZZZZZ.jpg

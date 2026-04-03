@@ -5,6 +5,7 @@ book_author: Elizabeth Moon
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/96063.The_Speed_of_Dark
+goodreads_work_id: '1128271'
 image:
 - B000FC1B2Y.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000FC1B2Y.01._SCLZZZZZZZ.jpg

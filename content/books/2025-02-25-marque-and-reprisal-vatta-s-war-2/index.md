@@ -5,6 +5,7 @@ book_author: Elizabeth Moon
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/96279.Marque_and_Reprisal
+goodreads_work_id: '92799'
 image:
 - B000FC28UI.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000FC28UI.01._SCLZZZZZZZ.jpg

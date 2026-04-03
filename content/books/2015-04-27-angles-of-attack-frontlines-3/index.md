@@ -5,6 +5,7 @@ book_author: Marko Kloos
 date: '2015-04-27T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/24358527-angles-of-attack
+goodreads_work_id: '41876809'
 image:
 - B00OIBPIZO.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00OIBPIZO.01._SCLZZZZZZZ.jpg

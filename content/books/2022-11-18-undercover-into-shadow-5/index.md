@@ -5,6 +5,7 @@ book_author: Tamsyn Muir
 date: '2022-11-18T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/62991424-undercover
+goodreads_work_id: '98826696'
 image:
 - B0BGQ5ZCMD.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0BGQ5ZCMD.01._SCLZZZZZZZ.jpg

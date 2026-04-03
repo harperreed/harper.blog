@@ -5,6 +5,7 @@ book_author: Jeff VanderMeer
 date: '2024-11-16T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/210367687-absolution
+goodreads_work_id: '75957118'
 image:
 - B0CW19ZLFX.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0CW19ZLFX.01._SCLZZZZZZZ.jpg

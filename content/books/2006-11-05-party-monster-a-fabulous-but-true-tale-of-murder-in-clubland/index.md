@@ -5,6 +5,7 @@ book_author: James St. James
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/79090.Party_Monster
+goodreads_work_id: '262036'
 image:
 - B00ADSBYTK.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00ADSBYTK.01._SCLZZZZZZZ.jpg

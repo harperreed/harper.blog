@@ -5,6 +5,7 @@ book_author: Charlie N. Holmberg
 date: '2014-10-29T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/22521286-the-paper-magician
+goodreads_work_id: '40051132'
 image:
 - B00HVF7OL0.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00HVF7OL0.01._SCLZZZZZZZ.jpg

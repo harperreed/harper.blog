@@ -5,6 +5,7 @@ book_author: Tana French
 date: '2019-03-10T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/39788660-the-witch-elm
+goodreads_work_id: '61397225'
 image:
 - B0DWV3T41V.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWV3T41V.01._SCLZZZZZZZ.jpg

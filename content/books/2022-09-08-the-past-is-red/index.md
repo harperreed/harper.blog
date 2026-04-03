@@ -5,6 +5,7 @@ book_author: Catherynne M. Valente
 date: '2022-09-08T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/55503786-the-past-is-red
+goodreads_work_id: '85876196'
 image:
 - B08GZW6KF3.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08GZW6KF3.01._SCLZZZZZZZ.jpg

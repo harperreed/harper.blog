@@ -5,6 +5,7 @@ book_author: Annalee Newitz
 date: '2019-06-27T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/34001622-autonomous
+goodreads_work_id: '48237590'
 image:
 - B01N4P14CI.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01N4P14CI.01._SCLZZZZZZZ.jpg

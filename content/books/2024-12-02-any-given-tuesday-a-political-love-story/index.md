@@ -5,6 +5,7 @@ book_author: Lis Smith
 date: '2024-12-02T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/61204549-any-given-tuesday
+goodreads_work_id: '93639515'
 image:
 - B09JPCBSKF.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09JPCBSKF.01._SCLZZZZZZZ.jpg

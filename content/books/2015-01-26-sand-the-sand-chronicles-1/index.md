@@ -5,6 +5,7 @@ book_author: Hugh Howey
 date: '2015-01-26T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/20509356-sand
+goodreads_work_id: '32464091'
 image:
 - B00HSXGYCK.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00HSXGYCK.01._SCLZZZZZZZ.jpg

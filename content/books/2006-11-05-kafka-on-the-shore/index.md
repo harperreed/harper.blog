@@ -5,6 +5,7 @@ book_author: Haruki Murakami
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore
+goodreads_work_id: '6191072'
 image:
 - 1400079276.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/1400079276.01._SCLZZZZZZZ.jpg

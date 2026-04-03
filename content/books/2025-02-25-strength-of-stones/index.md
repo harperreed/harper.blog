@@ -5,6 +5,7 @@ book_author: Greg Bear
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/340815.Strength_of_Stones
+goodreads_work_id: '1933084'
 image:
 - B00J84KLGC.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00J84KLGC.01._SCLZZZZZZZ.jpg

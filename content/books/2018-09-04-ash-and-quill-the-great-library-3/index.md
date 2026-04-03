@@ -5,6 +5,7 @@ book_author: Rachel Caine
 date: '2018-09-04T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/32860059-ash-and-quill
+goodreads_work_id: '51572469'
 image:
 - B01M5CRY9P.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01M5CRY9P.01._SCLZZZZZZZ.jpg

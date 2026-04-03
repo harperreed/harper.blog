@@ -5,6 +5,7 @@ book_author: Larry Niven
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/49789.Building_Harlequin_s_Moon
+goodreads_work_id: '906153'
 image:
 - B003GY0KNY.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B003GY0KNY.01._SCLZZZZZZZ.jpg

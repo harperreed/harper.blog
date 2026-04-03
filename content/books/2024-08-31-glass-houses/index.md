@@ -5,6 +5,7 @@ book_author: Madeline Ashby
 date: '2024-08-31T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/200117170-glass-houses
+goodreads_work_id: '197724518'
 image:
 - B0CJBKR6CJ.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0CJBKR6CJ.01._SCLZZZZZZZ.jpg

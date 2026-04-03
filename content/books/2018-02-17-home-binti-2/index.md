@@ -5,6 +5,7 @@ book_author: Nnedi Okorafor
 date: '2018-02-17T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/30038654-home
+goodreads_work_id: '50442846'
 image:
 - 0765393107.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/0765393107.01._SCLZZZZZZZ.jpg

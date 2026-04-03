@@ -5,6 +5,7 @@ book_author: Terry Pratchett
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/474059.Good_Omens
+goodreads_work_id: '4110990'
 image:
 - B0054LJGWS.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0054LJGWS.01._SCLZZZZZZZ.jpg

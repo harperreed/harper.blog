@@ -5,6 +5,7 @@ book_author: Becky  Chambers
 date: '2022-04-19T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/53469412-the-galaxy-and-the-ground-within
+goodreads_work_id: '74080836'
 image:
 - B088RDCLQ4.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B088RDCLQ4.01._SCLZZZZZZZ.jpg

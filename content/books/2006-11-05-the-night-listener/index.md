@@ -5,6 +5,7 @@ book_author: Armistead Maupin
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/16266.The_Night_Listener
+goodreads_work_id: '869733'
 image:
 - B000UOJTV2.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000UOJTV2.01._SCLZZZZZZZ.jpg

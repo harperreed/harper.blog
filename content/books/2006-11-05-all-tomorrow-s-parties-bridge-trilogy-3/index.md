@@ -5,6 +5,7 @@ book_author: William Gibson
 date: '2006-11-05T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/888626.All_Tomorrow_s_Parties
+goodreads_work_id: '513838'
 image:
 - B000O76ONG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000O76ONG.01._SCLZZZZZZZ.jpg

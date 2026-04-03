@@ -5,6 +5,7 @@ book_author: Madeline Ashby
 date: '2016-07-07T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/28562798-company-town
+goodreads_work_id: '31461483'
 image:
 - B0176PDIHS.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0176PDIHS.01._SCLZZZZZZZ.jpg

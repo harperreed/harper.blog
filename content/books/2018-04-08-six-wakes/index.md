@@ -5,6 +5,7 @@ book_author: Mur Lafferty
 date: '2018-04-08T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/30120374-six-wakes
+goodreads_work_id: '46869174'
 image:
 - B01CDDAETS.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B01CDDAETS.01._SCLZZZZZZZ.jpg

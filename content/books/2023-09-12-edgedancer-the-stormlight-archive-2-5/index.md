@@ -5,6 +5,7 @@ book_author: Brandon Sanderson
 date: '2023-09-12T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/125259325-edgedancer
+goodreads_work_id: '54097500'
 image:
 - B0C1LBM91V.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0C1LBM91V.01._SCLZZZZZZZ.jpg

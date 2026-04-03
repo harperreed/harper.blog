@@ -5,6 +5,7 @@ book_author: Marko Kloos
 date: '2015-05-03T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/20329634-lines-of-departure
+goodreads_work_id: '26144200'
 image:
 - B00ELN0KB6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00ELN0KB6.01._SCLZZZZZZZ.jpg

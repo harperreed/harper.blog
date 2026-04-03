@@ -5,6 +5,7 @@ book_author: Xiaowei Wang
 date: '2020-11-27T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/54792254-blockchain-chicken-farm
+goodreads_work_id: '75365897'
 image:
 - B084M1SVMC.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B084M1SVMC.01._SCLZZZZZZZ.jpg

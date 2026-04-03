@@ -5,6 +5,7 @@ book_author: Matt Ruff
 date: '2020-08-29T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/25142942-lovecraft-country
+goodreads_work_id: '44803674'
 image:
 - B0DWV4N6W1.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWV4N6W1.01._SCLZZZZZZZ.jpg

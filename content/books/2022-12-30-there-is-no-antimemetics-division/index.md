@@ -5,6 +5,7 @@ book_author: qntm
 date: '2022-12-30T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/54870256-there-is-no-antimemetics-division
+goodreads_work_id: '84995086'
 image:
 - B08FHHQRM2.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08FHHQRM2.01._SCLZZZZZZZ.jpg

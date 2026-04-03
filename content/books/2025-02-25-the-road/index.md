@@ -5,6 +5,7 @@ book_author: Cormac McCarthy
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/350540.The_Road
+goodreads_work_id: '3355573'
 image:
 - B004KFYUTI.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B004KFYUTI.01._SCLZZZZZZZ.jpg

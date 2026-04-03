@@ -5,6 +5,7 @@ book_author: W. David Marx
 date: '2018-06-06T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/28043059-ametora
+goodreads_work_id: '44862590'
 image:
 - B012271ONK.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B012271ONK.01._SCLZZZZZZZ.jpg

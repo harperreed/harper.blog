@@ -5,6 +5,7 @@ book_author: Joan D. Vinge
 date: '2022-08-22T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/27284455-the-snow-queen
+goodreads_work_id: '522872'
 image:
 - B016VCHZP8.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B016VCHZP8.01._SCLZZZZZZZ.jpg

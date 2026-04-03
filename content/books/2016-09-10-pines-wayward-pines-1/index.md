@@ -5,6 +5,7 @@ book_author: Blake Crouch
 date: '2016-09-10T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/15096164-pines
+goodreads_work_id: '20688937'
 image:
 - B09T8YRT3Z.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09T8YRT3Z.01._SCLZZZZZZZ.jpg

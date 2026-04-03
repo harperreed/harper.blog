@@ -5,6 +5,7 @@ book_author: Mick Wall
 date: '2024-02-23T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/10339261-when-giants-walked-the-earth
+goodreads_work_id: '6635776'
 image:
 - B0049MPVS6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0049MPVS6.01._SCLZZZZZZZ.jpg

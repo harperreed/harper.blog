@@ -5,6 +5,7 @@ book_author: Arthur C. Clarke
 date: '2006-11-26T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/414972.2061
+goodreads_work_id: '1426854'
 image:
 - B07XF9ZZWG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07XF9ZZWG.01._SCLZZZZZZZ.jpg

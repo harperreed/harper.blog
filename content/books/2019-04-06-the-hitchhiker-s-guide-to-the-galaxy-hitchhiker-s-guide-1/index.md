@@ -5,6 +5,7 @@ book_author: Douglas Adams
 date: '2019-04-06T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/42410904-the-hitchhiker-s-guide-to-the-galaxy
+goodreads_work_id: '3078186'
 image:
 - B0DWVHDQTG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWVHDQTG.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Jeff VanderMeer
 date: '2015-05-14T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/20410190-authority
+goodreads_work_id: '25384114'
 image:
 - B00GET18P2.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00GET18P2.01._SCLZZZZZZZ.jpg

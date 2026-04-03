@@ -5,6 +5,7 @@ book_author: Thomas L. Friedman
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/5304241-the-world-is-flat
+goodreads_work_id: '711993'
 image:
 - B000U913GG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000U913GG.01._SCLZZZZZZZ.jpg

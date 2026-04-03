@@ -5,6 +5,7 @@ book_author: Ashley C. Ford
 date: '2023-07-09T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/55602891-somebody-s-daughter
+goodreads_work_id: '60882466'
 image:
 - B08FGSQYND.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08FGSQYND.01._SCLZZZZZZZ.jpg

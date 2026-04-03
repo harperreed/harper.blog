@@ -5,6 +5,7 @@ book_author: Daniel Keys Moran
 date: '2014-05-18T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/11800492-the-long-run
+goodreads_work_id: '1416'
 image:
 - B0DTRT5SJF.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DTRT5SJF.01._SCLZZZZZZZ.jpg

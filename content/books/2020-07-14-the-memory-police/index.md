@@ -5,6 +5,7 @@ book_author: Yōko Ogawa
 date: '2020-07-14T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/38058832-the-memory-police
+goodreads_work_id: '7310932'
 image:
 - B077RG9JFX.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B077RG9JFX.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Ernest Cline
 date: '2015-07-20T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/25016389-armada
+goodreads_work_id: '22378124'
 image:
 - B00TNDID0O.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00TNDID0O.01._SCLZZZZZZZ.jpg

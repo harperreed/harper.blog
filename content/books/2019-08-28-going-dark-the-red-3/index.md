@@ -5,6 +5,7 @@ book_author: Linda Nagata
 date: '2019-08-28T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/25611780-going-dark
+goodreads_work_id: '44534204'
 image:
 - B00TBKUXES.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00TBKUXES.01._SCLZZZZZZZ.jpg

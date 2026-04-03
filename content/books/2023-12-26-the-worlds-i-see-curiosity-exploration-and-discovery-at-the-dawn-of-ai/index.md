@@ -5,6 +5,7 @@ book_author: Fei-Fei Li
 date: '2023-12-26T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/65211854-the-worlds-i-see
+goodreads_work_id: '100096847'
 image:
 - B0BPQSLVL6.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0BPQSLVL6.01._SCLZZZZZZZ.jpg

@@ -5,6 +5,7 @@ book_author: Stephen Graham Jones
 date: '2025-12-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/214783697-the-buffalo-hunter-hunter
+goodreads_work_id: '220854470'
 image:
 - B0D6WL1XJ1.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0D6WL1XJ1.01._SCLZZZZZZZ.jpg

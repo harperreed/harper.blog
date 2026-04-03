@@ -5,6 +5,7 @@ book_author: Kevin Kwan
 date: '2018-09-07T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/23720035-china-rich-girlfriend
+goodreads_work_id: '42179165'
 image:
 - B00NRQORA8.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00NRQORA8.01._SCLZZZZZZZ.jpg

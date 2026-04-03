@@ -5,6 +5,7 @@ book_author: John Scalzi
 date: '2021-05-14T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/57382954-murder-by-other-means
+goodreads_work_id: '86224223'
 image:
 - B091DMSK36.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B091DMSK36.01._SCLZZZZZZZ.jpg

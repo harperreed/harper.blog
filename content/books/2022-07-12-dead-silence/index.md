@@ -5,6 +5,7 @@ book_author: S.A. Barnes
 date: '2022-07-12T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/58368819-dead-silence
+goodreads_work_id: '85069079'
 image:
 - B0951SCZRK.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0951SCZRK.01._SCLZZZZZZZ.jpg

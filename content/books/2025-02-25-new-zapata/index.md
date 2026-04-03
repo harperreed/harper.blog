@@ -5,6 +5,7 @@ book_author: Teri Hall
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/19424596-new-zapata
+goodreads_work_id: '24330934'
 image:
 - B00BLRSRMO.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00BLRSRMO.01._SCLZZZZZZZ.jpg

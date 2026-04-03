@@ -5,6 +5,7 @@ book_author: Andrew Rowe
 date: '2025-06-16T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/231002017-how-to-defeat-a-demon-king-in-ten-easy-steps
+goodreads_work_id: '81380602'
 image:
 - B0F2JFR6JF.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0F2JFR6JF.01._SCLZZZZZZZ.jpg

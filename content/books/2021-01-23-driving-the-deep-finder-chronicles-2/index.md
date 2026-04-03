@@ -5,6 +5,7 @@ book_author: Suzanne Palmer
 date: '2021-01-23T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/53096006-driving-the-deep
+goodreads_work_id: '71397598'
 image:
 - B07X7S4NTP.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07X7S4NTP.01._SCLZZZZZZZ.jpg

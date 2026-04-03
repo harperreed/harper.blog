@@ -5,6 +5,7 @@ book_author: Philip Pullman
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18116.His_Dark_Materials
+goodreads_work_id: '1943518'
 image:
 - B005WBBYXO.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B005WBBYXO.01._SCLZZZZZZZ.jpg

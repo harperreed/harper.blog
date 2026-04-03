@@ -5,6 +5,7 @@ book_author: Tamsyn Muir
 date: '2022-09-29T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/59830943-nona-the-ninth
+goodreads_work_id: '92285474'
 image:
 - B09G14BQMM.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B09G14BQMM.01._SCLZZZZZZZ.jpg

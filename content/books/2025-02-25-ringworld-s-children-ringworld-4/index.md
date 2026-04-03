@@ -5,6 +5,7 @@ book_author: Larry Niven
 date: ''
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/64466.Ringworld_s_Children
+goodreads_work_id: '59499'
 image:
 - B003J5UJ7M.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B003J5UJ7M.01._SCLZZZZZZZ.jpg
