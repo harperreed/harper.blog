@@ -2,7 +2,7 @@
 asin: B000FCK97C
 average_rating: '3.95'
 book_author: Dan Simmons
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/3972.Olympos
 goodreads_work_id: '1537178'

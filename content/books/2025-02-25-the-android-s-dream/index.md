@@ -2,7 +2,7 @@
 asin: B002GYI974
 average_rating: '3.99'
 book_author: John Scalzi
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/1126509.The_Android_s_Dream
 goodreads_work_id: '18280036'

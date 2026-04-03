@@ -2,7 +2,7 @@
 asin: B001CBMX9C
 average_rating: '3.93'
 book_author: Richard Yates
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/5137911-revolutionary-road
 goodreads_work_id: '1235136'

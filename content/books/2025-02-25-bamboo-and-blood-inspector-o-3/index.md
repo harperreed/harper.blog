@@ -2,7 +2,7 @@
 asin: B001FA0S1U
 average_rating: '3.72'
 book_author: James  Church
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/12264025-bamboo-and-blood
 goodreads_work_id: '5168009'

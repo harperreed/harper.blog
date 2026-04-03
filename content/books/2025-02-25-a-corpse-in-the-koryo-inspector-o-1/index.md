@@ -2,7 +2,7 @@
 asin: B003JMF9DY
 average_rating: '3.44'
 book_author: James  Church
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/9283615-a-corpse-in-the-koryo
 goodreads_work_id: '17199'

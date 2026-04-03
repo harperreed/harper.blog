@@ -2,7 +2,7 @@
 asin: B00BLRSRMO
 average_rating: '3.77'
 book_author: Teri Hall
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/19424596-new-zapata
 goodreads_work_id: '24330934'

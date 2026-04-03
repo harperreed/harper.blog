@@ -2,7 +2,7 @@
 asin: B000FBJDGQ
 average_rating: '4.30'
 book_author: Elizabeth Moon
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/4988897-trading-in-danger-remnant-population
 goodreads_work_id: '21693830'

@@ -2,7 +2,7 @@
 asin: B000GCFCNW
 average_rating: '4.07'
 book_author: Elizabeth Moon
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/96277.Engaging_the_Enemy
 goodreads_work_id: '1136474'

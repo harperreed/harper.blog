@@ -2,7 +2,7 @@
 asin: B000OI0G6Q
 average_rating: '3.70'
 book_author: Kim Stanley Robinson
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/1960491.Sixty_Days_and_Counting
 goodreads_work_id: '962334'

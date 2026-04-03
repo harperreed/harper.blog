@@ -2,7 +2,7 @@
 asin: B000OZ0NXU
 average_rating: '3.97'
 book_author: Jack Campbell
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/112292.Dauntless
 goodreads_work_id: '108122'

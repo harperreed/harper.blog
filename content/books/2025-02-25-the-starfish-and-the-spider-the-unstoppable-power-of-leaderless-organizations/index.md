@@ -2,7 +2,7 @@
 asin: B000S1LU3M
 average_rating: '3.83'
 book_author: Ori Brafman
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/21314.The_Starfish_and_the_Spider
 goodreads_work_id: '3014004'

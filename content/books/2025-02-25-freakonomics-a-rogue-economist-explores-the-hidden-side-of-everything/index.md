@@ -2,7 +2,7 @@
 asin: B00699M9NM
 average_rating: '4.01'
 book_author: Steven D. Levitt
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/1202.Freakonomics
 goodreads_work_id: '5397'

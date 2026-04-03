@@ -2,7 +2,7 @@
 asin: B007RMLB3E
 average_rating: '3.98'
 book_author: Ahmed Rashid
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/113185.Taliban
 goodreads_work_id: '108976'

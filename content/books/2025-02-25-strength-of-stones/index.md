@@ -2,7 +2,7 @@
 asin: B00J84KLGC
 average_rating: '3.34'
 book_author: Greg Bear
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/340815.Strength_of_Stones
 goodreads_work_id: '1933084'

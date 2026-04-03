@@ -2,7 +2,7 @@
 asin: B000PAAH3A
 average_rating: '4.08'
 book_author: Dan Simmons
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/3974.The_Terror
 goodreads_work_id: '3025639'

@@ -2,7 +2,7 @@
 asin: B00475AYJQ
 average_rating: '4.55'
 book_author: Patrick Rothfuss
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/9531737-the-wise-man-s-fear
 goodreads_work_id: '2502882'

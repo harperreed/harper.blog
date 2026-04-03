@@ -2,7 +2,7 @@
 asin: B0015DWMRA
 average_rating: '3.73'
 book_author: Joe Haldeman
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/21608.The_Accidental_Time_Machine
 goodreads_work_id: '22743'

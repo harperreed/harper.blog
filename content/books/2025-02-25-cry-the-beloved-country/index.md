@@ -2,7 +2,7 @@
 asin: B000FBJHL2
 average_rating: '3.92'
 book_author: Alan Paton
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/5214.Cry_the_Beloved_Country
 goodreads_work_id: '59082'

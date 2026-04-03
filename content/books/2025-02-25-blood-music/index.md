@@ -2,7 +2,7 @@
 asin: B00J48FHRA
 average_rating: '3.85'
 book_author: Greg Bear
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/340819.Blood_Music
 goodreads_work_id: '2563510'

@@ -2,7 +2,7 @@
 asin: B000FC28UI
 average_rating: '4.09'
 book_author: Elizabeth Moon
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/96279.Marque_and_Reprisal
 goodreads_work_id: '92799'

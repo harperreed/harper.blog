@@ -2,7 +2,7 @@
 asin: B003JH868E
 average_rating: '3.79'
 book_author: James  Church
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/10377835-hidden-moon
 goodreads_work_id: '2040424'

@@ -2,7 +2,7 @@
 asin: '1409090027'
 average_rating: '3.95'
 book_author: Ian McEwan
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/6867.Atonement
 goodreads_work_id: '2307233'

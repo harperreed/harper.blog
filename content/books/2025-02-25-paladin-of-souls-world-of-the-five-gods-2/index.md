@@ -2,7 +2,7 @@
 asin: B000FC138Q
 average_rating: '4.18'
 book_author: Lois McMaster Bujold
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/61904.Paladin_of_Souls
 goodreads_work_id: '819610'

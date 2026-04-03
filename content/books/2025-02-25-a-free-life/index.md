@@ -2,7 +2,7 @@
 asin: B000W966N4
 average_rating: '3.71'
 book_author: Ha Jin
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/6082242-a-free-life
 goodreads_work_id: '2082841'

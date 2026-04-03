@@ -2,7 +2,7 @@
 asin: B000YJ85BI
 average_rating: '4.10'
 book_author: John Scalzi
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/88071.The_Last_Colony
 goodreads_work_id: '18279847'

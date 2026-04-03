@@ -2,7 +2,7 @@
 asin: '0451225244'
 average_rating: '4.34'
 book_author: Ken Follett
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/2157743.The_Pillars_of_the_Earth
 goodreads_work_id: '3359698'

@@ -476,7 +476,7 @@ def create_post_metadata(book_data, book, summary, asin, author):
         "title": book_data["title"],
         "translationKey": f"{book_data['title']}-{asin}",
         "title_without_series": book.get("title_without_series", ""),
-        "date": book["read_at"],
+        "date": book["read_at"] or book["started_at"] or book.get("date", ""),
         "num_pages": book.get("num_pages", 0),
         "review_rating": book["review_rating"],
         "average_rating": book["average_rating"],

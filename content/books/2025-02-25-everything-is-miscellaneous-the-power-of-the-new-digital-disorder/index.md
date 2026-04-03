@@ -2,7 +2,7 @@
 asin: B000R7PUW4
 average_rating: '3.74'
 book_author: David Weinberger
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/726004.Everything_Is_Miscellaneous
 goodreads_work_id: '712220'

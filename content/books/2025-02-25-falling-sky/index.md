@@ -2,7 +2,7 @@
 asin: B00JNPF3XW
 average_rating: '3.38'
 book_author: Rajan Khanna
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/22322035-falling-sky
 goodreads_work_id: '39872226'

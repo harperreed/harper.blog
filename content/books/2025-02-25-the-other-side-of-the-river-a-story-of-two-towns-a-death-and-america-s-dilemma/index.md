@@ -2,7 +2,7 @@
 asin: B006LTIPEW
 average_rating: '3.79'
 book_author: Alex Kotlowitz
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/129785.The_Other_Side_of_the_River
 goodreads_work_id: '992737'

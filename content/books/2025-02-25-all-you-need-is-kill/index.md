@@ -2,7 +2,7 @@
 asin: B005LJETYI
 average_rating: '4.02'
 book_author: Hiroshi Sakurazaka
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/12868204-all-you-need-is-kill
 goodreads_work_id: '6439033'

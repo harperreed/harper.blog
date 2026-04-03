@@ -2,7 +2,7 @@
 asin: B000OIZUC6
 average_rating: '3.87'
 book_author: Charles Stross
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/17863.Accelerando
 goodreads_work_id: '930555'

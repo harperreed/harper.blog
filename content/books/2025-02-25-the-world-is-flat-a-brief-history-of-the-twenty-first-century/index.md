@@ -2,7 +2,7 @@
 asin: B000U913GG
 average_rating: '3.69'
 book_author: Thomas L. Friedman
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/5304241-the-world-is-flat
 goodreads_work_id: '711993'

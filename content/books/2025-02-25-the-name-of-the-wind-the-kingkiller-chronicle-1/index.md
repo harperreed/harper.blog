@@ -2,7 +2,7 @@
 asin: B0010SKUYM
 average_rating: '4.52'
 book_author: Patrick Rothfuss
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/20562717-the-name-of-the-wind
 goodreads_work_id: '2502879'

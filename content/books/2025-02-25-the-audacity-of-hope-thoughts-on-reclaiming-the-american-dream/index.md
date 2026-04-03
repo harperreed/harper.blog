@@ -2,7 +2,7 @@
 asin: B000MAH5O2
 average_rating: '3.83'
 book_author: Barack Obama
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/3312550-the-audacity-of-hope
 goodreads_work_id: '1716451'

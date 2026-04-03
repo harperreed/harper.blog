@@ -2,7 +2,7 @@
 asin: B000QCSAU4
 average_rating: '3.54'
 book_author: Ha Jin
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/235773.Waiting
 goodreads_work_id: '985211'

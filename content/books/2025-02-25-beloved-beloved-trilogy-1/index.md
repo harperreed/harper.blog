@@ -2,7 +2,7 @@
 asin: B000TWUTYG
 average_rating: '3.97'
 book_author: Toni Morrison
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/6149.Beloved
 goodreads_work_id: '736076'

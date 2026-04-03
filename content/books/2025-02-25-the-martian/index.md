@@ -2,7 +2,7 @@
 asin: B00EMXBDMA
 average_rating: '4.42'
 book_author: Andy Weir
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18401393-the-martian
 goodreads_work_id: '21825181'

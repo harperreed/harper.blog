@@ -2,7 +2,7 @@
 asin: B000FC129Q
 average_rating: '4.04'
 book_author: Dan Simmons
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/6445824-ilium
 goodreads_work_id: '3185401'

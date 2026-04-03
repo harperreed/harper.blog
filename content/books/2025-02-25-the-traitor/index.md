@@ -2,7 +2,7 @@
 asin: B00ESUSK9G
 average_rating: '3.69'
 book_author: Michael Cisco
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/2089988.The_Traitor
 goodreads_work_id: '2095320'

@@ -2,7 +2,7 @@
 asin: B000FBFP5O
 average_rating: '3.91'
 book_author: Damon Knight
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/6082238-to-serve-man
 goodreads_work_id: '6258953'

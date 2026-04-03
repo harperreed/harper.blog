@@ -2,7 +2,7 @@
 asin: B005WBBYXO
 average_rating: '4.29'
 book_author: Philip Pullman
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18116.His_Dark_Materials
 goodreads_work_id: '1943518'

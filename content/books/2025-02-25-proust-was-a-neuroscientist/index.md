@@ -2,7 +2,7 @@
 asin: B003K15IM6
 average_rating: '3.85'
 book_author: Jonah Lehrer
-date: ''
+date: '2025-02-25T00:00:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/822367.Proust_Was_a_Neuroscientist
 goodreads_work_id: '2839122'
