@@ -7,7 +7,7 @@ import yaml
 import frontmatter
 import pytest
 
-from backfill_goodreads_ids import get_work_id_from_data_file
+from backfill_goodreads_ids import get_work_id_from_data_file, backfill_work_ids
 
 
 def test_get_work_id_from_data_file():
@@ -28,9 +28,6 @@ def test_get_work_id_from_data_file_missing_work():
         result = get_work_id_from_data_file(f.name)
     os.unlink(f.name)
     assert result is None
-
-
-from backfill_goodreads_ids import backfill_work_ids
 
 
 def test_backfill_work_ids_writes_goodreads_work_id(tmp_path):

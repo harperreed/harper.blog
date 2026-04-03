@@ -95,11 +95,7 @@ if __name__ == "__main__":
         default=os.path.join(os.path.dirname(__file__), "..", "content", "books"),
         help="Path to content/books/ directory",
     )
-    parser.add_argument("--dry-run", action="store_true", help="Don't write any files")
     args = parser.parse_args()
-
-    if args.dry_run:
-        logging.info("Dry run mode — no files will be written")
 
     stats = backfill_work_ids(
         data_dir=os.path.realpath(args.data_dir),
