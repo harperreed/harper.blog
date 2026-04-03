@@ -5,6 +5,7 @@ from openai import OpenAI
 from pydantic import BaseModel
 from typing import List
 import json
+import glob
 import os
 import requests
 import logging
@@ -406,6 +407,66 @@ def get_goodreads_books(limit: int = 200) -> list:
     return books
 
 
+def find_existing_reads(content_dir: str, work_id: str) -> list[str]:
+    """
+    Scans content/books/ for entries with a matching goodreads_work_id.
+
+    Args:
+        content_dir: Path to content/books/ directory.
+        work_id: The Goodreads work ID to match.
+
+    Returns:
+        List of directory slugs (e.g. "2006-11-26-old-mans-war") that match.
+    """
+    if not work_id:
+        return []
+
+    matches = []
+    for index_file in glob.glob(os.path.join(content_dir, "*", "index.md")):
+        post = frontmatter.load(index_file)
+        if str(post.get("goodreads_work_id", "")) == str(work_id):
+            slug = os.path.basename(os.path.dirname(index_file))
+            matches.append(slug)
+
+    return sorted(matches)
+
+
+def link_related_reads(content_dir: str, new_slug: str, existing_slugs: list[str]) -> None:
+    """
+    Cross-links a new book entry with its existing reads.
+
+    Adds related_reads to the new entry listing existing slugs, and updates
+    each existing entry to include the new slug.
+
+    Args:
+        content_dir: Path to content/books/ directory.
+        new_slug: Directory slug of the newly created entry.
+        existing_slugs: List of directory slugs for existing reads of the same book.
+    """
+    new_file = os.path.join(content_dir, new_slug, "index.md")
+    if os.path.isfile(new_file):
+        post = frontmatter.load(new_file)
+        related = post.get("related_reads", [])
+        for slug in existing_slugs:
+            if slug not in related:
+                related.append(slug)
+        post["related_reads"] = related
+        with open(new_file, "wb") as f:
+            frontmatter.dump(post, f)
+
+    for slug in existing_slugs:
+        existing_file = os.path.join(content_dir, slug, "index.md")
+        if not os.path.isfile(existing_file):
+            continue
+        post = frontmatter.load(existing_file)
+        related = post.get("related_reads", [])
+        if new_slug not in related:
+            related.append(new_slug)
+            post["related_reads"] = related
+            with open(existing_file, "wb") as f:
+                frontmatter.dump(post, f)
+
+
 def create_post_metadata(book_data, book, summary, asin, author):
     """
     Creates metadata dictionary for the frontmatter post
@@ -430,7 +491,8 @@ def create_post_metadata(book_data, book, summary, asin, author):
         "image": [asin + ".jpg"] if asin else [],
         "asin": asin,
         "yaml": slugify(book_data["title"]),
-        "book_author": author
+        "book_author": author,
+        "goodreads_work_id": str(book_data.get("work", {}).get("id", "") or ""),
     }
     
 def main():
@@ -519,6 +581,16 @@ def main():
                     # Write the post to file
                     with open(post_filename, "wb") as file:
                         frontmatter.dump(post, file, encoding="utf-8")
+
+                    # Detect and link re-reads
+                    work_id = str(book_data.get("work", {}).get("id", "") or "")
+                    new_slug = os.path.basename(post_directory)
+                    if work_id:
+                        existing = find_existing_reads(hugo_book_dir, work_id)
+                        existing = [s for s in existing if s != new_slug]
+                        if existing:
+                            logging.info(f"Re-read detected for {book['title']}: linking to {existing}")
+                            link_related_reads(hugo_book_dir, new_slug, existing)
 
             except Exception as e:
                 logging.error(f"Failed creating post for {book['title']}: {str(e)}")
