@@ -493,6 +493,10 @@ def create_post_metadata(book_data, book, summary, asin, author):
         "yaml": slugify(book_data["title"]),
         "book_author": author,
         "goodreads_work_id": str(book_data.get("work", {}).get("id", "") or ""),
+        "is_reread": any(
+            s.get("@name") == "re-read"
+            for s in book_data.get("popular_shelves", {}).get("shelf", [])
+        ),
     }
     
 def main():

@@ -80,6 +80,66 @@ def test_find_existing_reads_no_match(tmp_path):
     assert results == []
 
 
+def test_create_post_metadata_includes_is_reread():
+    """create_post_metadata sets is_reread True when re-read shelf present in popular_shelves."""
+    book_data = {
+        "title": "Old Man's War",
+        "work": {"id": "50700"},
+        "popular_shelves": {
+            "shelf": [
+                {"@name": "to-read", "@count": "279892"},
+                {"@name": "re-read", "@count": "51"},
+            ]
+        },
+    }
+    book = {
+        "title_without_series": "Old Man's War",
+        "read_at": "2025-02-25T00:00:00-08:00",
+        "num_pages": "318",
+        "review_rating": "5",
+        "average_rating": "4.23",
+        "link": "https://www.goodreads.com/book/show/51964",
+        "started_at": "",
+    }
+    summary = {"Tagline": "A tagline", "Summary": "A summary", "Description": "Desc"}
+    asin = "B000SEIK2S"
+    author = "John Scalzi"
+
+    metadata = create_post_metadata(book_data, book, summary, asin, author)
+
+    assert metadata["is_reread"] is True
+
+
+def test_create_post_metadata_is_reread_false_when_no_shelf():
+    """create_post_metadata sets is_reread False when re-read shelf is absent."""
+    book_data = {
+        "title": "Old Man's War",
+        "work": {"id": "50700"},
+        "popular_shelves": {
+            "shelf": [
+                {"@name": "to-read", "@count": "279892"},
+                {"@name": "currently-reading", "@count": "1200"},
+            ]
+        },
+    }
+    book = {
+        "title_without_series": "Old Man's War",
+        "read_at": "2025-02-25T00:00:00-08:00",
+        "num_pages": "318",
+        "review_rating": "5",
+        "average_rating": "4.23",
+        "link": "https://www.goodreads.com/book/show/51964",
+        "started_at": "",
+    }
+    summary = {"Tagline": "A tagline", "Summary": "A summary", "Description": "Desc"}
+    asin = "B000SEIK2S"
+    author = "John Scalzi"
+
+    metadata = create_post_metadata(book_data, book, summary, asin, author)
+
+    assert metadata["is_reread"] is False
+
+
 from grab_read_books import link_related_reads
 
 
