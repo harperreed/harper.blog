@@ -230,3 +230,40 @@ def test_backfill_sets_is_reread(tmp_path):
 
     updated = frontmatter.load(str(content_dir / "index.md"))
     assert updated.get("is_reread") is True
+
+
+def test_backfill_sets_is_reread_even_when_work_id_exists(tmp_path):
+    """backfill_work_ids sets is_reread even when goodreads_work_id is already present."""
+    data_dir = tmp_path / "data" / "books"
+    data_dir.mkdir(parents=True)
+    data_file = data_dir / "2025-02-25-old-mans-war.yaml"
+    data = {
+        "work": {"id": "50700"},
+        "popular_shelves": {
+            "shelf": [
+                {"@name": "to-read", "@count": "279892"},
+                {"@name": "re-read", "@count": "51"},
+            ]
+        },
+    }
+    with open(data_file, "w") as f:
+        yaml.safe_dump(data, f)
+
+    content_dir = tmp_path / "content" / "books" / "2025-02-25-old-mans-war"
+    content_dir.mkdir(parents=True)
+    post = frontmatter.Post(
+        content="Re-read.",
+        title="Old Man's War",
+        goodreads_work_id="50700",
+    )
+    with open(content_dir / "index.md", "wb") as f:
+        frontmatter.dump(post, f)
+
+    stats = backfill_work_ids(
+        data_dir=str(data_dir),
+        content_dir=str(tmp_path / "content" / "books"),
+    )
+
+    updated = frontmatter.load(str(content_dir / "index.md"))
+    assert updated.get("is_reread") is True
+    assert stats["updated"] == 1

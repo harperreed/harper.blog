@@ -88,22 +88,26 @@ def backfill_work_ids(data_dir: str, content_dir: str) -> dict:
             continue
 
         post = frontmatter.load(content_file)
-        if post.get("goodreads_work_id"):
-            logger.debug(f"Already has work ID: {slug}")
-            stats["skipped"] += 1
-            continue
 
-        post["goodreads_work_id"] = work_id
+        needs_update = False
+
+        if not post.get("goodreads_work_id"):
+            post["goodreads_work_id"] = work_id
+            needs_update = True
 
         if not post.get("is_reread") and check_is_reread(data_file):
             post["is_reread"] = True
             logger.info(f"Marked {slug} as re-read")
+            needs_update = True
 
-        with open(content_file, "wb") as f:
-            frontmatter.dump(post, f)
-
-        logger.info(f"Updated {slug} with work ID {work_id}")
-        stats["updated"] += 1
+        if needs_update:
+            with open(content_file, "wb") as f:
+                frontmatter.dump(post, f)
+            logger.info(f"Updated {slug}")
+            stats["updated"] += 1
+        else:
+            logger.debug(f"Already up to date: {slug}")
+            stats["skipped"] += 1
 
     return stats
 
