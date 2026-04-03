@@ -6,6 +6,7 @@ import logging
 import yaml
 import frontmatter
 import glob
+from collections import defaultdict
 
 logger = logging.getLogger(__name__)
 
@@ -77,6 +78,54 @@ def backfill_work_ids(data_dir: str, content_dir: str) -> dict:
     return stats
 
 
+def detect_and_link_rereads(content_dir: str) -> int:
+    """
+    Scans all book entries for shared goodreads_work_id values and
+    populates related_reads on entries that share the same work ID.
+
+    Args:
+        content_dir: Path to content/books/ directory.
+
+    Returns:
+        Number of entries updated with new related_reads links.
+    """
+    work_id_map = defaultdict(list)
+    entry_dirs = sorted(glob.glob(os.path.join(content_dir, "*", "index.md")))
+
+    for content_file in entry_dirs:
+        slug = os.path.basename(os.path.dirname(content_file))
+        post = frontmatter.load(content_file)
+        work_id = post.get("goodreads_work_id")
+        if work_id:
+            work_id_map[work_id].append((slug, content_file))
+
+    updated_count = 0
+
+    for work_id, entries in work_id_map.items():
+        if len(entries) < 2:
+            continue
+
+        all_slugs = [slug for slug, _ in entries]
+
+        for slug, content_file in entries:
+            post = frontmatter.load(content_file)
+            existing = post.get("related_reads", [])
+            sibling_slugs = [s for s in all_slugs if s != slug]
+
+            new_slugs = [s for s in sibling_slugs if s not in existing]
+            if not new_slugs:
+                continue
+
+            post["related_reads"] = existing + new_slugs
+            with open(content_file, "wb") as f:
+                frontmatter.dump(post, f)
+
+            logger.info(f"Linked {slug} to {new_slugs}")
+            updated_count += 1
+
+    return updated_count
+
+
 if __name__ == "__main__":
     import argparse
 
@@ -104,3 +153,7 @@ if __name__ == "__main__":
     print(
         f"Done. Updated: {stats['updated']}, Skipped: {stats['skipped']}, Missing: {stats['missing']}"
     )
+
+    logging.info("Step 2: Detecting and linking re-reads...")
+    linked = detect_and_link_rereads(content_dir=os.path.realpath(args.content_dir))
+    print(f"Linked {linked} entries as re-reads")
