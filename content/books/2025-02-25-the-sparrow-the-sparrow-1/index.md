@@ -9,6 +9,7 @@ goodreads_work_id: '3349153'
 image:
 - B000SEIFGO.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000SEIFGO.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '518'
 review_rating: '5'

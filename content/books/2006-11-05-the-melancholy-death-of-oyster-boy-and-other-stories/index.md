@@ -9,6 +9,7 @@ goodreads_work_id: '466'
 image:
 - B0CKBMBMNP.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0CKBMBMNP.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '115'
 review_rating: '0'

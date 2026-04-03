@@ -9,6 +9,7 @@ goodreads_work_id: '1703483'
 image:
 - B0034QRTIS.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0034QRTIS.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '284'
 review_rating: '0'

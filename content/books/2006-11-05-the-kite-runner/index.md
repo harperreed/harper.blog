@@ -9,6 +9,7 @@ goodreads_work_id: '3295919'
 image:
 - B009C04KPA.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B009C04KPA.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '371'
 review_rating: '0'

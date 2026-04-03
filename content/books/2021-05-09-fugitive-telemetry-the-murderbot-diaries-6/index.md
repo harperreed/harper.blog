@@ -9,6 +9,7 @@ goodreads_work_id: '80438420'
 image:
 - B088H926KF.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B088H926KF.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '172'
 review_rating: '5'

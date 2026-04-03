@@ -9,6 +9,7 @@ goodreads_work_id: '1005005'
 image:
 - B009BICFQ4.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B009BICFQ4.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '341'
 review_rating: '0'

@@ -9,6 +9,7 @@ goodreads_work_id: '8134945'
 image:
 - B003P2WO5E.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B003P2WO5E.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '1137'
 review_rating: '5'

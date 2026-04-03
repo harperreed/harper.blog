@@ -9,6 +9,7 @@ goodreads_work_id: '50700'
 image:
 - B000SEIK2S.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000SEIK2S.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '318'
 related_reads:

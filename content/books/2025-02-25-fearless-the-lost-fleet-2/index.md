@@ -9,6 +9,7 @@ goodreads_work_id: '93102'
 image:
 - B000SEGULG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000SEGULG.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '295'
 review_rating: '0'

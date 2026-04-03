@@ -9,6 +9,7 @@ goodreads_work_id: '1494156'
 image:
 - B0015DWLTE.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0015DWLTE.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '352'
 review_rating: '5'

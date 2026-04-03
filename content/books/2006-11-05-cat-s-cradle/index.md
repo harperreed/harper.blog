@@ -9,6 +9,7 @@ goodreads_work_id: '1621115'
 image:
 - B000SEH13C.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000SEH13C.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '287'
 review_rating: '0'

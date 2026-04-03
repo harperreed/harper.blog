@@ -9,6 +9,7 @@ goodreads_work_id: '2507928'
 image:
 - B0C3SJDLK8.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0C3SJDLK8.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '838'
 review_rating: '0'

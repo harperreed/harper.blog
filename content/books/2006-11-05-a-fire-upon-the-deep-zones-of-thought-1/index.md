@@ -9,6 +9,7 @@ goodreads_work_id: '1253374'
 image:
 - B000FBJAGO.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000FBJAGO.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '613'
 review_rating: '0'

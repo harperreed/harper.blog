@@ -9,6 +9,7 @@ goodreads_work_id: '1235136'
 image:
 - B001CBMX9C.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B001CBMX9C.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '463'
 review_rating: '0'

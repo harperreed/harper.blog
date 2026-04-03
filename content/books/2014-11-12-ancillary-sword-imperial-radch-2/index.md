@@ -9,6 +9,7 @@ goodreads_work_id: '40026175'
 image:
 - B00I8289A0.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00I8289A0.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '400'
 review_rating: '5'

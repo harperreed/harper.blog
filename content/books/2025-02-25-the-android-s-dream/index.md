@@ -9,6 +9,7 @@ goodreads_work_id: '18280036'
 image:
 - B002GYI974.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B002GYI974.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '396'
 review_rating: '0'

@@ -9,6 +9,7 @@ goodreads_work_id: '2144026'
 image:
 - B07K4T9Z1W.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07K4T9Z1W.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '256'
 review_rating: '0'

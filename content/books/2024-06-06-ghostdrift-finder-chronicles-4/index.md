@@ -9,6 +9,7 @@ goodreads_work_id: '200934092'
 image:
 - B0CGTH4CLX.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0CGTH4CLX.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '384'
 review_rating: '5'

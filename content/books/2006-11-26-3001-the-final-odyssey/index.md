@@ -9,6 +9,7 @@ goodreads_work_id: '2118902'
 image:
 - B07X8ZR72R.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B07X8ZR72R.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: null
 review_rating: '0'

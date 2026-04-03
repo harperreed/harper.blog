@@ -9,6 +9,7 @@ goodreads_work_id: '78372462'
 image:
 - B08681GVNS.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08681GVNS.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '416'
 review_rating: '5'

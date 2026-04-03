@@ -9,6 +9,7 @@ goodreads_work_id: '513838'
 image:
 - B000O76ONG.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000O76ONG.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '278'
 review_rating: '0'

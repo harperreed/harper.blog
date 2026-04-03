@@ -9,6 +9,7 @@ goodreads_work_id: '197724648'
 image:
 - B0CGRXGB4Q.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0CGRXGB4Q.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: null
 review_rating: '5'

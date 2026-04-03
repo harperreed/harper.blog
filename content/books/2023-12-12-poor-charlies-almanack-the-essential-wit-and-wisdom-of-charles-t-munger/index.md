@@ -9,6 +9,7 @@ goodreads_work_id: '3406894'
 image:
 - B0C5TCGPPS.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0C5TCGPPS.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: null
 review_rating: '5'

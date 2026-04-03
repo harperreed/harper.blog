@@ -9,6 +9,7 @@ goodreads_work_id: '1882596'
 image:
 - B004G60FWM.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B004G60FWM.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '517'
 review_rating: '5'

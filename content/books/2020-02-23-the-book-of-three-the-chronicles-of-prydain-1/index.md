@@ -9,6 +9,7 @@ goodreads_work_id: '1149593'
 image:
 - B0DWV99XN1.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWV99XN1.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '190'
 review_rating: '5'

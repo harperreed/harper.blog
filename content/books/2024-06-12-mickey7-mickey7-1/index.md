@@ -9,6 +9,7 @@ goodreads_work_id: '81320343'
 image:
 - B092T7R689.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B092T7R689.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '288'
 review_rating: '4'

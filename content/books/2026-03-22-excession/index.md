@@ -5,9 +5,11 @@ book_author: Iain M. Banks
 date: '2026-03-22T00:00:00-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/228697776-excession
+goodreads_work_id: '1494164'
 image:
 - 0316595071.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/0316595071.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: null
 review_rating: '5'

@@ -9,6 +9,7 @@ goodreads_work_id: '54097500'
 image:
 - B0C1LBM91V.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0C1LBM91V.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: null
 review_rating: '5'

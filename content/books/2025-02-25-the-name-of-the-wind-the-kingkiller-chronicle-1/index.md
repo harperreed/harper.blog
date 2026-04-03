@@ -9,6 +9,7 @@ goodreads_work_id: '2502879'
 image:
 - B0010SKUYM.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0010SKUYM.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '676'
 review_rating: '5'

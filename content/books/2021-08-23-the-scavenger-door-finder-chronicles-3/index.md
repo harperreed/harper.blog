@@ -9,6 +9,7 @@ goodreads_work_id: '71397603'
 image:
 - B08LYV1HC7.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B08LYV1HC7.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '464'
 review_rating: '5'

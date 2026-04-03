@@ -9,6 +9,7 @@ goodreads_work_id: '1536771'
 image:
 - B000FC1ICM.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000FC1ICM.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: null
 review_rating: '0'

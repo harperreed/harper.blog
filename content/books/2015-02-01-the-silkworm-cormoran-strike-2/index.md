@@ -9,6 +9,7 @@ goodreads_work_id: '25639104'
 image:
 - B0DWTRKNKP.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWTRKNKP.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '464'
 review_rating: '5'

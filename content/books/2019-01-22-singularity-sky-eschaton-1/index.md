@@ -9,6 +9,7 @@ goodreads_work_id: '1192005'
 image:
 - B000OIZUA8.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B000OIZUA8.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: null
 review_rating: '5'

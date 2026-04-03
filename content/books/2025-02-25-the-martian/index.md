@@ -9,6 +9,7 @@ goodreads_work_id: '21825181'
 image:
 - B00EMXBDMA.jpg
 image_url: https://images-na.ssl-images-amazon.com/images/P/B00EMXBDMA.01._SCLZZZZZZZ.jpg
+is_reread: true
 layout: book
 num_pages: '385'
 review_rating: '5'
