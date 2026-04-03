@@ -140,6 +140,26 @@ def test_create_post_metadata_is_reread_false_when_no_shelf():
     assert metadata["is_reread"] is False
 
 
+def test_create_post_metadata_falls_back_to_date_added():
+    """create_post_metadata uses date_added when read_at and started_at are both empty."""
+    book_data = {"title": "Some Book", "work": {"id": "12345"}}
+    book = {
+        "title_without_series": "Some Book",
+        "read_at": "",
+        "started_at": "",
+        "date_added": "2023-06-15T00:00:00-07:00",
+        "num_pages": "250",
+        "review_rating": "4",
+        "average_rating": "3.9",
+        "link": "https://www.goodreads.com/book/show/12345",
+    }
+    summary = {"Tagline": "A tagline", "Summary": "A summary", "Description": "Desc"}
+
+    metadata = create_post_metadata(book_data, book, summary, "ASIN456", "Some Author")
+
+    assert metadata["date"] == "2023-06-15T00:00:00-07:00"
+
+
 from grab_read_books import link_related_reads
 
 

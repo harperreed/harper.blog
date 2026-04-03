@@ -374,9 +374,18 @@ def get_goodreads_books(limit: int = 200) -> list:
                     "review_url": r.url,
                     "read_at": str(r.read_at) if r.read_at else "",
                     "started_at": str(r.started_at) if r.started_at else "",
+                    "date_added": str(r._review_dict.get("date_added", "")) if r._review_dict.get("date_added") else "",
                     "date": str(r.read_at)
                     if r.read_at
-                    else (str(r.started_at) if r.started_at else ""),
+                    else (
+                        str(r.started_at)
+                        if r.started_at
+                        else (
+                            str(r._review_dict.get("date_added", ""))
+                            if r._review_dict.get("date_added")
+                            else ""
+                        )
+                    ),
                 }
             )
 
@@ -392,7 +401,7 @@ def get_goodreads_books(limit: int = 200) -> list:
             book["json"] = json.dumps(book)
 
             # Convert all date fields
-            for date_field in ["date", "started_at", "read_at"]:
+            for date_field in ["date", "started_at", "read_at", "date_added"]:
                 book[date_field] = (
                     fix_date(book[date_field]) if book[date_field] else ""
                 )
@@ -476,7 +485,7 @@ def create_post_metadata(book_data, book, summary, asin, author):
         "title": book_data["title"],
         "translationKey": f"{book_data['title']}-{asin}",
         "title_without_series": book.get("title_without_series", ""),
-        "date": book["read_at"] or book["started_at"] or book.get("date", ""),
+        "date": book["read_at"] or book["started_at"] or book.get("date_added", "") or book.get("date", ""),
         "num_pages": book.get("num_pages", 0),
         "review_rating": book["review_rating"],
         "average_rating": book["average_rating"],
