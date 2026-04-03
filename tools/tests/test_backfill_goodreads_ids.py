@@ -7,7 +7,7 @@ import yaml
 import frontmatter
 import pytest
 
-from backfill_goodreads_ids import get_work_id_from_data_file, backfill_work_ids, detect_and_link_rereads
+from backfill_goodreads_ids import get_work_id_from_data_file, backfill_work_ids, detect_and_link_rereads, check_is_reread
 
 
 def test_get_work_id_from_data_file():
@@ -162,3 +162,71 @@ def test_detect_and_link_rereads_no_duplicates(tmp_path):
     updated1 = frontmatter.load(str(dir1 / "index.md"))
     assert updated1["related_reads"] == ["2025-02-25-old-mans-war"]
     assert linked == 0
+
+
+def test_check_is_reread_true(tmp_path):
+    """Returns True when popular_shelves contains a shelf named re-read."""
+    data_file = tmp_path / "some-book.yaml"
+    data = {
+        "work": {"id": "50700"},
+        "popular_shelves": {
+            "shelf": [
+                {"@name": "to-read", "@count": "279892"},
+                {"@name": "re-read", "@count": "51"},
+            ]
+        },
+    }
+    with open(data_file, "w") as f:
+        yaml.safe_dump(data, f)
+
+    assert check_is_reread(str(data_file)) is True
+
+
+def test_check_is_reread_false(tmp_path):
+    """Returns False when popular_shelves does not contain a shelf named re-read."""
+    data_file = tmp_path / "some-book.yaml"
+    data = {
+        "work": {"id": "50700"},
+        "popular_shelves": {
+            "shelf": [
+                {"@name": "to-read", "@count": "279892"},
+                {"@name": "currently-reading", "@count": "10"},
+            ]
+        },
+    }
+    with open(data_file, "w") as f:
+        yaml.safe_dump(data, f)
+
+    assert check_is_reread(str(data_file)) is False
+
+
+def test_backfill_sets_is_reread(tmp_path):
+    """backfill_work_ids writes is_reread: true when the data file has re-read shelf."""
+    data_dir = tmp_path / "data" / "books"
+    data_dir.mkdir(parents=True)
+    data_file = data_dir / "2025-02-25-old-mans-war.yaml"
+    data = {
+        "work": {"id": "50700"},
+        "popular_shelves": {
+            "shelf": [
+                {"@name": "to-read", "@count": "279892"},
+                {"@name": "re-read", "@count": "51"},
+            ]
+        },
+    }
+    with open(data_file, "w") as f:
+        yaml.safe_dump(data, f)
+
+    content_dir = tmp_path / "content" / "books" / "2025-02-25-old-mans-war"
+    content_dir.mkdir(parents=True)
+    post = frontmatter.Post(content="Re-read.", title="Old Man's War", date="2025-02-25")
+    with open(content_dir / "index.md", "wb") as f:
+        frontmatter.dump(post, f)
+
+    backfill_work_ids(
+        data_dir=str(data_dir),
+        content_dir=str(tmp_path / "content" / "books"),
+    )
+
+    updated = frontmatter.load(str(content_dir / "index.md"))
+    assert updated.get("is_reread") is True

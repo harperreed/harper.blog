@@ -32,6 +32,31 @@ def get_work_id_from_data_file(data_file_path: str) -> str | None:
     return str(work_id) if work_id is not None else None
 
 
+def check_is_reread(data_file_path: str) -> bool:
+    """
+    Reads popular_shelves.shelf from a data/books/*.yaml file and returns True
+    if any shelf entry has @name equal to 're-read'.
+
+    Args:
+        data_file_path: Path to the YAML data file.
+
+    Returns:
+        True if the re-read shelf is present, False otherwise.
+    """
+    with open(data_file_path, "r", encoding="utf-8") as f:
+        data = yaml.safe_load(f)
+
+    popular_shelves = data.get("popular_shelves")
+    if not popular_shelves or not isinstance(popular_shelves, dict):
+        return False
+
+    shelves = popular_shelves.get("shelf")
+    if not shelves or not isinstance(shelves, list):
+        return False
+
+    return any(shelf.get("@name") == "re-read" for shelf in shelves)
+
+
 def backfill_work_ids(data_dir: str, content_dir: str) -> dict:
     """
     Reads work.id from each data/books/*.yaml and writes goodreads_work_id
@@ -69,6 +94,11 @@ def backfill_work_ids(data_dir: str, content_dir: str) -> dict:
             continue
 
         post["goodreads_work_id"] = work_id
+
+        if not post.get("is_reread") and check_is_reread(data_file):
+            post["is_reread"] = True
+            logger.info(f"Marked {slug} as re-read")
+
         with open(content_file, "wb") as f:
             frontmatter.dump(post, f)
 
