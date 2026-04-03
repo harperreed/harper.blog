@@ -25,6 +25,27 @@
     <li>{{ i18n "number-of-pages" | default "Number of pages:" }} {{.}} {{ i18n "pages" | default "Pages" }}</li>
     {{end}}
 </ul>
+{{ with .Params.related_reads }}
+<p class="related-reads">
+    {{ $currentDate := $.Date }}
+    {{ range . }}
+        {{ $relatedPage := $.Site.GetPage (printf "/books/%s" .) }}
+        {{ if $relatedPage }}
+            {{ if or $relatedPage.Date.IsZero $currentDate.IsZero }}
+                <em>Also read:</em>
+                <a href="{{ $relatedPage.RelPermalink }}">{{ $relatedPage.Title }}</a>
+            {{ else if $relatedPage.Date.Before $currentDate }}
+                <em>Previously read in {{ $relatedPage.Date.Format "January 2006" }}:</em>
+                <a href="{{ $relatedPage.RelPermalink }}">{{ $relatedPage.Date.Format "January 2, 2006" }}</a>
+            {{ else }}
+                <em>Re-read in {{ $relatedPage.Date.Format "January 2006" }}:</em>
+                <a href="{{ $relatedPage.RelPermalink }}">{{ $relatedPage.Date.Format "January 2, 2006" }}</a>
+            {{ end }}
+            <br>
+        {{ end }}
+    {{ end }}
+</p>
+{{ end }}
 {{ $url := print "https://www.amazon.com/dp/" .Params.asin "?tag="
 .Site.Params.amazon_tag }}
 <a href="{{ $url }}" target="_blank" rel="noopener noreferrer"
