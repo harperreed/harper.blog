@@ -25,6 +25,9 @@
     <li>{{ i18n "number-of-pages" | default "Number of pages:" }} {{.}} {{ i18n "pages" | default "Pages" }}</li>
     {{end}}
 </ul>
+{{ if .Params.is_reread }}
+<p class="reread-note"><em>{{ i18n "reread-note" | default "This is a re-read" }}</em></p>
+{{ end }}
 {{ with .Params.related_reads }}
 <p class="related-reads">
     {{ $currentDate := $.Date }}
