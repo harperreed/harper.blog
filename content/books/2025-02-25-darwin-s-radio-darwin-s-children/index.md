@@ -2,7 +2,7 @@
 asin: B000QCQ9K2
 average_rating: '3.93'
 book_author: Greg Bear
-date: '2025-02-25T00:00:00-08:00'
+date: '2009-01-08T17:58:53-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/19836379-darwin-s-radio-darwin-s-children
 goodreads_work_id: '2510177'

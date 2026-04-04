@@ -2,7 +2,7 @@
 asin: B000UZNRXM
 average_rating: '3.99'
 book_author: Jack Campbell
-date: '2025-02-25T00:00:00-08:00'
+date: '2008-01-13T16:34:31-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/1372055.Courageous
 goodreads_work_id: '1361919'

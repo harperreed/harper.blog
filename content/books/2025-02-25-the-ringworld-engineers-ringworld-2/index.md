@@ -2,7 +2,7 @@
 asin: B00WZVQB78
 average_rating: '3.88'
 book_author: Larry Niven
-date: '2025-02-25T00:00:00-08:00'
+date: '2008-01-13T16:34:34-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/760547.The_Ringworld_Engineers
 goodreads_work_id: '900675'

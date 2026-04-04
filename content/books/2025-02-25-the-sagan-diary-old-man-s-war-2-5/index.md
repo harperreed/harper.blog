@@ -2,7 +2,7 @@
 asin: B005OTDQQ2
 average_rating: '3.33'
 book_author: John Scalzi
-date: '2025-02-25T00:00:00-08:00'
+date: '2008-01-13T16:34:19-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/61664.The_Sagan_Diary
 goodreads_work_id: '15558795'

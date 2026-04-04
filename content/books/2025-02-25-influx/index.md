@@ -2,7 +2,7 @@
 asin: B00DMCPOBI
 average_rating: '3.93'
 book_author: Daniel Suarez
-date: '2025-02-25T00:00:00-08:00'
+date: '2014-02-20T21:19:15-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/18620483-influx
 goodreads_work_id: '25441287'

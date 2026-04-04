@@ -2,7 +2,7 @@
 asin: B00A2M1R4O
 average_rating: '4.14'
 book_author: Dave Eggers
-date: '2025-02-25T00:00:00-08:00'
+date: '2009-01-08T17:59:18-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/340514.What_Is_the_What
 goodreads_work_id: '3271214'

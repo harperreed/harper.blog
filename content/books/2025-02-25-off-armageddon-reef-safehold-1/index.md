@@ -2,7 +2,7 @@
 asin: B000Q67KJ2
 average_rating: '4.14'
 book_author: David Weber
-date: '2025-02-25T00:00:00-08:00'
+date: '2009-01-08T17:59:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/72199.Off_Armageddon_Reef
 goodreads_work_id: '1069607'

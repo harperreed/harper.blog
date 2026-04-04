@@ -2,7 +2,7 @@
 asin: B00BG7FJFC
 average_rating: '4.01'
 book_author: Margaret Atwood
-date: '2025-02-25T00:00:00-08:00'
+date: '2008-01-13T16:34:17-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/46756.Oryx_and_Crake
 goodreads_work_id: '3143431'

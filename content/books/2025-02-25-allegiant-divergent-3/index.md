@@ -2,7 +2,7 @@
 asin: B0DT156QVB
 average_rating: '3.60'
 book_author: Veronica Roth
-date: '2025-02-25T00:00:00-08:00'
+date: '2014-01-12T00:10:13-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/17406183-allegiant
 goodreads_work_id: '15524549'

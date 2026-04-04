@@ -2,7 +2,7 @@
 asin: '1400063515'
 average_rating: '3.96'
 book_author: Nassim Nicholas Taleb
-date: '2025-02-25T00:00:00-08:00'
+date: '2009-01-08T17:58:38-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/242472.The_Black_Swan
 goodreads_work_id: '2157806'

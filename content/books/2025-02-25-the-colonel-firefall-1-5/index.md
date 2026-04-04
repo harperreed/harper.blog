@@ -2,7 +2,7 @@
 asin: B00L73GSVE
 average_rating: '3.85'
 book_author: Peter Watts
-date: '2025-02-25T00:00:00-08:00'
+date: '2014-09-17T19:12:12-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/22699805-the-colonel
 goodreads_work_id: '42039043'

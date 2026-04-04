@@ -2,7 +2,7 @@
 asin: B000JMKQX0
 average_rating: '4.02'
 book_author: Max Brooks
-date: '2025-02-25T00:00:00-08:00'
+date: '2008-01-13T16:34:06-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/8908.World_War_Z
 goodreads_work_id: '817'

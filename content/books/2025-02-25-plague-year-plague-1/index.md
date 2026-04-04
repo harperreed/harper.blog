@@ -2,7 +2,7 @@
 asin: B00AHJTUBE
 average_rating: '3.40'
 book_author: Jeff  Carlson
-date: '2025-02-25T00:00:00-08:00'
+date: '2009-01-08T17:58:32-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/294460.Plague_Year
 goodreads_work_id: '4087763'

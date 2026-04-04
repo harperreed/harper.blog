@@ -2,7 +2,7 @@
 asin: B000W9180A
 average_rating: '3.80'
 book_author: Charles Stross
-date: '2025-02-25T00:00:00-08:00'
+date: '2009-01-08T17:59:14-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/2564523-halting-state
 goodreads_work_id: '930563'

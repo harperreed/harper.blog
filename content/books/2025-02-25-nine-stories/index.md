@@ -2,7 +2,7 @@
 asin: B07V9GTCNK
 average_rating: '4.18'
 book_author: J.D. Salinger
-date: '2025-02-25T00:00:00-08:00'
+date: '2007-05-24T10:42:27-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/4009.Nine_Stories
 goodreads_work_id: '1839377'

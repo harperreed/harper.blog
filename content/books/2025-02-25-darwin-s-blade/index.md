@@ -2,7 +2,7 @@
 asin: B00BAXFB5A
 average_rating: '3.40'
 book_author: Dan Simmons
-date: '2025-02-25T00:00:00-08:00'
+date: '2009-01-08T17:59:02-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/11281.Darwin_s_Blade
 goodreads_work_id: '1868869'

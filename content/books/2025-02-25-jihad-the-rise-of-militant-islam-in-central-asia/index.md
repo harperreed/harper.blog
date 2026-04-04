@@ -2,7 +2,7 @@
 asin: B00IH6UFY0
 average_rating: '3.75'
 book_author: Ahmed Rashid
-date: '2025-02-25T00:00:00-08:00'
+date: '2008-01-13T16:33:57-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/937699.Jihad
 goodreads_work_id: '316106'

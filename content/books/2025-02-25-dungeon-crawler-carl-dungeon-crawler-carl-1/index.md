@@ -2,7 +2,7 @@
 asin: B08BKGYQXW
 average_rating: '4.53'
 book_author: Matt Dinniman
-date: '2025-02-25T00:00:00-08:00'
+date: '2025-02-23T20:09:27-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/54659324-dungeon-crawler-carl
 goodreads_work_id: '76027608'

@@ -2,7 +2,7 @@
 asin: B007ZFIMC6
 average_rating: '3.82'
 book_author: Warren Ellis
-date: '2025-02-25T00:00:00-08:00'
+date: '2013-12-10T11:15:00-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/17211146-gun-machine
 goodreads_work_id: '20384877'

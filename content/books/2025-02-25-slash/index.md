@@ -2,7 +2,7 @@
 asin: B000WJOW3K
 average_rating: '4.00'
 book_author: Slash
-date: '2025-02-25T00:00:00-08:00'
+date: '2009-01-08T17:59:10-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/3755846-slash
 goodreads_work_id: '2338187'

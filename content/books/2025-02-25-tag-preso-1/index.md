@@ -2,7 +2,7 @@
 asin: '8863310483'
 average_rating: '2.91'
 book_author: Keith Giffen
-date: '2025-02-25T00:00:00-08:00'
+date: '2008-01-13T16:34:12-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/21761683-tag---preso-1
 goodreads_work_id: '539647'

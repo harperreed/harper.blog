@@ -2,7 +2,7 @@
 asin: 0345358619
 average_rating: '3.55'
 book_author: Larry Niven
-date: '2025-02-25T00:00:00-08:00'
+date: '2008-01-13T16:34:33-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/61177.The_Ringworld_Throne
 goodreads_work_id: '59500'

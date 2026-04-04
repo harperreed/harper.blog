@@ -2,7 +2,7 @@
 asin: B000SEIDR0
 average_rating: '4.19'
 book_author: Michael Pollan
-date: '2025-02-25T00:00:00-08:00'
+date: '2009-01-08T17:59:19-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/93504.The_Omnivore_s_Dilemma
 goodreads_work_id: '3287769'

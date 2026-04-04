@@ -2,7 +2,7 @@
 asin: B07XB49BG4
 average_rating: '4.00'
 book_author: Richard Matheson
-date: '2025-02-25T00:00:00-08:00'
+date: '2008-01-13T16:34:01-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/547094.I_Am_Legend_and_Other_Stories
 goodreads_work_id: '2223519'

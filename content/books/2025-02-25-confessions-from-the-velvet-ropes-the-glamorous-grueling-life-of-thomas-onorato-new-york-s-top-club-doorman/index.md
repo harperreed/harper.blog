@@ -2,7 +2,7 @@
 asin: B003E4CYWQ
 average_rating: '3.21'
 book_author: Thomas Onorato
-date: '2025-02-25T00:00:00-08:00'
+date: '2008-01-13T16:34:20-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/312638.Confessions_from_the_Velvet_Ropes
 goodreads_work_id: '303541'

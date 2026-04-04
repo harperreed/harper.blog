@@ -2,7 +2,7 @@
 asin: B0097CYTYA
 average_rating: '3.81'
 book_author: Jeremy Scahill
-date: '2025-02-25T00:00:00-08:00'
+date: '2009-01-08T17:58:47-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/1920578.Blackwater
 goodreads_work_id: '93002'

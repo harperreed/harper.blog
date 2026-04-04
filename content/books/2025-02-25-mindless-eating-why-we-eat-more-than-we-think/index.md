@@ -2,7 +2,7 @@
 asin: B000MAHC0E
 average_rating: '3.93'
 book_author: Brian Wansink
-date: '2025-02-25T00:00:00-08:00'
+date: '2009-01-08T17:59:05-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/129731.Mindless_Eating
 goodreads_work_id: '124953'

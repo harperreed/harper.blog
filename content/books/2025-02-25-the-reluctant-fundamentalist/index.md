@@ -2,7 +2,7 @@
 asin: B004IPPINW
 average_rating: '3.73'
 book_author: Mohsin Hamid
-date: '2025-02-25T00:00:00-08:00'
+date: '2008-01-13T16:34:18-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/88815.The_Reluctant_Fundamentalist
 goodreads_work_id: '725380'

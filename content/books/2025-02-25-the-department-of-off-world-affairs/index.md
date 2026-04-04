@@ -2,7 +2,7 @@
 asin: B001H31OU4
 average_rating: '4.18'
 book_author: Russell Lutz
-date: '2025-02-25T00:00:00-08:00'
+date: '2009-01-08T17:58:28-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/6082240-the-department-of-off-world-affairs
 goodreads_work_id: '6258955'

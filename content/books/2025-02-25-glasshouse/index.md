@@ -2,7 +2,7 @@
 asin: B001161L6O
 average_rating: '3.88'
 book_author: Charles Stross
-date: '2025-02-25T00:00:00-08:00'
+date: '2008-01-13T16:34:23-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/656872.Glasshouse
 goodreads_work_id: '930588'

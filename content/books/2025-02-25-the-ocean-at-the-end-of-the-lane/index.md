@@ -2,7 +2,7 @@
 asin: B0DWV8S97J
 average_rating: '4.02'
 book_author: Neil Gaiman
-date: '2025-02-25T00:00:00-08:00'
+date: '2014-04-23T18:05:43-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/16078215-the-ocean-at-the-end-of-the-lane
 goodreads_work_id: '21500681'

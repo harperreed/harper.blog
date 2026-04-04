@@ -2,7 +2,7 @@
 asin: B00H6E6ATI
 average_rating: '3.74'
 book_author: Karl Schroeder
-date: '2025-02-25T00:00:00-08:00'
+date: '2014-04-20T15:13:46-07:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/19811279-lockstep
 goodreads_work_id: '25095591'

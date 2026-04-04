@@ -2,7 +2,7 @@
 asin: B005OCTIXE
 average_rating: '3.95'
 book_author: Naomi Wolf
-date: '2025-02-25T00:00:00-08:00'
+date: '2009-01-08T17:58:46-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/503432.The_End_of_America
 goodreads_work_id: '491492'

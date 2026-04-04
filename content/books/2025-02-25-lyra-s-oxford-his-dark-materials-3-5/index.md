@@ -2,7 +2,7 @@
 asin: B000UZJQL4
 average_rating: '3.63'
 book_author: Philip Pullman
-date: '2025-02-25T00:00:00-08:00'
+date: '2008-01-13T16:34:36-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/514990.Lyra_s_Oxford
 goodreads_work_id: '3524192'

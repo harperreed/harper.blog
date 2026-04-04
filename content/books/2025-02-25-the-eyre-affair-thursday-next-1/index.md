@@ -2,7 +2,7 @@
 asin: B000OCXHC2
 average_rating: '3.89'
 book_author: Jasper Fforde
-date: '2025-02-25T00:00:00-08:00'
+date: '2009-01-08T17:59:09-08:00'
 draft: false
 goodreads_link: https://www.goodreads.com/book/show/27003.The_Eyre_Affair
 goodreads_work_id: '3436605'
