@@ -13,7 +13,7 @@ is_reread: true
 layout: book
 num_pages: '320'
 related_reads:
-- 2025-02-25-old-man-s-war-old-man-s-war-1
+- 2008-01-13-old-man-s-war-old-man-s-war-1
 review_rating: '0'
 started_at: ''
 summary: 'Old Man''s War (Old Man''s War, #1) by John Scalzi - rated 4.23/5 on Goodreads'
