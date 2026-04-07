@@ -116,7 +116,7 @@ It kind of just works. The notes end up being stored in your systems XDG directo
 
 Once transcripts are local, run them through a parser that turns them into structured notes designed for Obsidian.
 
-You can use our meeting summarization skill for this: [https://skills.2389.ai/plugins/summarize-meetings/](https://skills.2389.ai/plugins/summarize-meetings/)
+You can use our meeting summarization skill for this: [2389-research/summarize-meetings](https://github.com/2389-research/summarize-meetings).
 
 Or you can build your own. It is not super difficult to do.
 
