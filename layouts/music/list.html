@@ -27,6 +27,8 @@
                 href="{{ .RelPermalink }}"
                 target="_blank"
                 rel="noopener noreferrer"
+                data-tinylytics-event="outbound.spotify"
+                data-tinylytics-event-value="{{ .Title }}"
             >
                 <span class="music-title">{{ .Title }}</span>
                 {{ with .Params.artist }}

@@ -52,6 +52,8 @@
 {{ $url := print "https://www.amazon.com/dp/" .Params.asin "?tag="
 .Site.Params.amazon_tag }}
 <a href="{{ $url }}" target="_blank" rel="noopener noreferrer"
+    data-tinylytics-event="outbound.amazon"
+    data-tinylytics-event-value="{{ .Title }}"
     >{{ i18n "read-this-book" | default "Read this book" }}</a
 >
 

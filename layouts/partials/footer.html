@@ -22,12 +22,14 @@
         <a
             href="mailto:{{ .Site.Params.email }}"
             aria-label="Send email to {{ .Site.Params.Name }}"
+            data-tinylytics-event="contact.email"
+            data-tinylytics-event-value="footer"
             >{{ i18n "email" | default "email" }}</a
         >
     </span>
     {{ partial "language-switcher.html" . }}
 </p>
 <script
-    src="https://tinylytics.app/embed/WV5Khk7ZG6MZe6q49ikx.js?hits&countries&kudos=❤️"
+    src="https://tinylytics.app/embed/WV5Khk7ZG6MZe6q49ikx.js?hits&countries&kudos=❤️&events"
     defer
 ></script>
