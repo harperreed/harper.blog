@@ -36,7 +36,9 @@
             
             {{ if eq $page.Section "links" }}
                 {{ if .Params.original_url }}
-                <a href="{{ .Params.original_url }}" class="media-link" target="_blank" rel="noopener noreferrer">
+                <a href="{{ .Params.original_url }}" class="media-link" target="_blank" rel="noopener noreferrer"
+                   data-tinylytics-event="outbound.link"
+                   data-tinylytics-event-value="{{ .Title }}">
                     <span class="media-link-title">{{ .Title }}</span>
                     {{ $url := urls.Parse .Params.original_url }}
                     <span class="media-link-domain">({{ $url.Hostname }})</span>
@@ -47,7 +49,9 @@
             {{ else if eq $page.Section "music" }}
             {{ if .Params.spotify_url }}
             
-            <a href="{{ .Params.spotify_url }}" target="_blank" class="media-music" rel="noopener noreferrer">
+            <a href="{{ .Params.spotify_url }}" target="_blank" class="media-music" rel="noopener noreferrer"
+               data-tinylytics-event="outbound.spotify"
+               data-tinylytics-event-value="{{ .Title }}">
                 <span class="media-link-title">{{ .Title }}</span>
               
                 {{ with .Params.artist }}
@@ -65,7 +69,9 @@
             {{ end }}
             {{ else if eq $page.Section "books" }}
             {{ $url := print "https://www.amazon.com/dp/" (urlquery .Params.asin) "?tag=" (urlquery .Site.Params.amazon_tag) }}
-            <a href="{{ $url }}" target="_blank"  class="media-book" rel="noopener noreferrer">
+            <a href="{{ $url }}" target="_blank"  class="media-book" rel="noopener noreferrer"
+               data-tinylytics-event="outbound.amazon"
+               data-tinylytics-event-value="{{ .Title }}">
                 <span class="media-link-title">{{ .Title }}</span>
 
                 {{ with .Params.book_author }}

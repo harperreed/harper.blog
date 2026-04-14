@@ -4,7 +4,9 @@
   <header>
     <h1>{{ .Title }}</h1>
     {{ with .Description }}<p>{{ . }}</p>{{ end }}
-    <p><a href="{{ .RelPermalink }}index.xml">📡 RSS Feed</a></p>
+    <p><a href="{{ .RelPermalink }}index.xml"
+          data-tinylytics-event="feed.subscribe"
+          data-tinylytics-event-value="photos-rss">📡 RSS Feed</a></p>
   </header>
 
   <div class="photo-grid">

@@ -3,6 +3,8 @@
 <p>
     <a
         href='mailto:{{ . }}?subject={{ i18n "email-subject" }}"{{ default $.Site.Title $.Page.Title }}"'
+        data-tinylytics-event="contact.email"
+        data-tinylytics-event-value="post-reply"
     >
         {{ i18n "email-reply" }} ↪
     </a>

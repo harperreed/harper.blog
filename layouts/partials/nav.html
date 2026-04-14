@@ -2,5 +2,7 @@
 <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
 {{ end }}
 <a href='{{ absURL ("index.xml" | relLangURL) }}'
+    data-tinylytics-event="feed.subscribe"
+    data-tinylytics-event-value="main-rss"
     >{{ i18n "rss" | default "RSS" }}</a
 >

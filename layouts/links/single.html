@@ -9,7 +9,9 @@
 {{ end }}
 <article> {{ .Content }}
 {{ if .Params.original_url }}
-  <a href="{{ .Params.original_url }}" target="_blank" rel="noopener noreferrer">{{ .Params.original_url }}</a>
+  <a href="{{ .Params.original_url }}" target="_blank" rel="noopener noreferrer"
+     data-tinylytics-event="outbound.link"
+     data-tinylytics-event-value="{{ .Title }}">{{ .Params.original_url }}</a>
 {{ end }}
 </article>
 <p>

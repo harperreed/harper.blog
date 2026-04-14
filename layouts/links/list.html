@@ -27,6 +27,8 @@
                 href="{{ .Params.original_url }}"
                 target="_blank"
                 rel="noopener noreferrer"
+                data-tinylytics-event="outbound.link"
+                data-tinylytics-event-value="{{ .Title }}"
             >
                 <span class="link-title">{{ .Title }}</span>
                 <span class="link-domain">({{ $url.Hostname }})</span>
