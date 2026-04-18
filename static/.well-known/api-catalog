@@ -1,0 +1,21 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://harper.blog/",
+      "service-desc": [
+        {
+          "href": "https://harper.blog/index.xml",
+          "type": "application/rss+xml",
+          "title": "RSS Feed"
+        }
+      ],
+      "describedby": [
+        {
+          "href": "https://harper.blog/sitemap.xml",
+          "type": "application/xml",
+          "title": "Sitemap"
+        }
+      ]
+    }
+  ]
+}
