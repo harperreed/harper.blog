@@ -93,3 +93,17 @@ Cache-Control = "public, max-age=31536000, immutable"
 for = "/"
 [headers.values]
 Cache-Control = "public, max-age=3600"
+Link = """</.well-known/api-catalog>; rel="api-catalog", </sitemap.xml>; rel="sitemap"; type="application/xml", </index.xml>; rel="alternate"; type="application/rss+xml"; title="RSS Feed\""""
+
+# Agent discovery: API Catalog content type
+[[headers]]
+for = "/.well-known/api-catalog"
+[headers.values]
+Content-Type = "application/linkset+json"
+Access-Control-Allow-Origin = "*"
+
+# Agent discovery: Agent Skills index content type
+[[headers]]
+for = "/.well-known/agent-skills/index.json"
+[headers.values]
+Access-Control-Allow-Origin = "*"
