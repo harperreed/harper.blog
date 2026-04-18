@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /.well-known/
 Sitemap: {{ "sitemap.xml" | absURL }}
-Content-Signal: ai-train=yes, search=yes, ai-input=yes
+Content-Signal: ai-train=yes, search=yes, ai-generate=yes

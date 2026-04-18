@@ -6,21 +6,21 @@
       "type": "skill",
       "description": "Browse and read blog posts on harper.blog",
       "url": "https://harper.blog/.well-known/agent-skills/browse-posts/SKILL.md",
-      "sha256": "3f22519c9617b17fdf03d35aa2cbf74076c50536acd35adecb832f321bb8e74d"
+      "sha256": "06792d4b9e3c0478028f87f4ff9ce7ec6f2dafce86d552f96a6e3d2f3bf5dc71"
     },
     {
       "name": "read-rss",
       "type": "skill",
       "description": "Subscribe to harper.blog via RSS for recent posts",
       "url": "https://harper.blog/.well-known/agent-skills/read-rss/SKILL.md",
-      "sha256": "417d782bdc6e2a314973f6b20e663bcfbd4be69f4cadf32add7ad4d1cbf958a8"
+      "sha256": "e8f55fc49278e55670cc280ecfe9d6ffefbd4f35f8df95a70e77ee9456384080"
     },
     {
       "name": "search-sitemap",
       "type": "skill",
       "description": "Discover all URLs on harper.blog via XML sitemap",
       "url": "https://harper.blog/.well-known/agent-skills/search-sitemap/SKILL.md",
-      "sha256": "085684aba5dd1e421b93b3f4af1424f93b456cd0cd64c27f0301310dadb54ad5"
+      "sha256": "c19c3ac5bb69a9f302a2de97b5b6424bf90b236b9dfa76753ff94e235fab6472"
     }
   ]
 }
