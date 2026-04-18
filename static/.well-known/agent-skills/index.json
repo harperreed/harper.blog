@@ -1,0 +1,26 @@
+{
+  "$schema": "https://agentskills.io/schema/v0.2.0/index.json",
+  "skills": [
+    {
+      "name": "browse-posts",
+      "type": "skill",
+      "description": "Browse and read blog posts on harper.blog",
+      "url": "https://harper.blog/.well-known/agent-skills/browse-posts/SKILL.md",
+      "sha256": "3f22519c9617b17fdf03d35aa2cbf74076c50536acd35adecb832f321bb8e74d"
+    },
+    {
+      "name": "read-rss",
+      "type": "skill",
+      "description": "Subscribe to harper.blog via RSS for recent posts",
+      "url": "https://harper.blog/.well-known/agent-skills/read-rss/SKILL.md",
+      "sha256": "417d782bdc6e2a314973f6b20e663bcfbd4be69f4cadf32add7ad4d1cbf958a8"
+    },
+    {
+      "name": "search-sitemap",
+      "type": "skill",
+      "description": "Discover all URLs on harper.blog via XML sitemap",
+      "url": "https://harper.blog/.well-known/agent-skills/search-sitemap/SKILL.md",
+      "sha256": "085684aba5dd1e421b93b3f4af1424f93b456cd0cd64c27f0301310dadb54ad5"
+    }
+  ]
+}
