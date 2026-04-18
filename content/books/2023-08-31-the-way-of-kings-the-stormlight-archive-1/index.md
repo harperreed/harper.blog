@@ -13,7 +13,7 @@ is_reread: true
 layout: book
 num_pages: '1137'
 review_rating: '5'
-started_at: '2019-02-23T00:00:00-08:00'
+started_at: ''
 summary: 'The Way of Kings (The Stormlight Archive, #1) by Brandon Sanderson - rated
   4.67/5 on Goodreads'
 tagline: A 1137-page book by Brandon Sanderson

@@ -13,7 +13,7 @@ is_reread: true
 layout: book
 num_pages: '1088'
 review_rating: '5'
-started_at: '2019-03-04T00:00:00-08:00'
+started_at: ''
 summary: 'Words of Radiance (The Stormlight Archive, #2) by Brandon Sanderson - rated
   4.76/5 on Goodreads'
 tagline: A 1088-page book by Brandon Sanderson

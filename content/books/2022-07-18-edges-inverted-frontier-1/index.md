@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B07MBR4X9B.01._SCLZZ
 layout: book
 num_pages: '406'
 review_rating: '5'
-started_at: '2020-02-01T00:00:00-08:00'
+started_at: ''
 summary: 'Edges (Inverted Frontier, #1) by Linda Nagata - rated 4.01/5 on Goodreads'
 tagline: A 406-page book by Linda Nagata
 tags:

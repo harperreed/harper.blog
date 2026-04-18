@@ -13,7 +13,7 @@ is_reread: true
 layout: book
 num_pages: '592'
 review_rating: '5'
-started_at: '2019-08-28T00:00:00-07:00'
+started_at: ''
 summary: 'Ancestral Night (White Space, #1) by Elizabeth Bear - rated 3.79/5 on Goodreads'
 tagline: A 592-page book by Elizabeth Bear
 tags:

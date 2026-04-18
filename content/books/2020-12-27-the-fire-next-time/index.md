@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B00EGMV00W.01._SCLZZ
 layout: book
 num_pages: null
 review_rating: '5'
-started_at: '2020-08-18T00:00:00-07:00'
+started_at: ''
 summary: The Fire Next Time by James Baldwin - rated 4.55/5 on Goodreads
 tagline: A None-page book by James Baldwin
 tags:

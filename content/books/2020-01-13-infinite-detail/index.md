@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B07GD9WB59.01._SCLZZ
 layout: book
 num_pages: '386'
 review_rating: '5'
-started_at: '2019-07-12T00:00:00-07:00'
+started_at: ''
 summary: Infinite Detail by Tim Maughan - rated 3.71/5 on Goodreads
 tagline: A 386-page book by Tim Maughan
 tags:

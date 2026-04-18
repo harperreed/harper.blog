@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B081914PR7.01._SCLZZ
 layout: book
 num_pages: '192'
 review_rating: '5'
-started_at: '2021-07-06T00:00:00-07:00'
+started_at: ''
 summary: This poignant novel follows Kazu, a ghost born in Fukushima, as he reflects
   on the intertwining of his fate with Japan's modern history, all while haunting
   Ueno Station.

@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B07Z5FXGNL.01._SCLZZ
 layout: book
 num_pages: null
 review_rating: '5'
-started_at: '2020-04-12T00:00:00-07:00'
+started_at: ''
 summary: 'In **Silver (Inverted Frontier, #2)**, Urban navigates treacherous landscapes
   both physical and ethereal in a race against a broken god. Stranded and under pressure,
   he must unravel enigmatic forces threatening not just his existence but the fabric

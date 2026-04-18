@@ -13,7 +13,7 @@ is_reread: true
 layout: book
 num_pages: '512'
 review_rating: '4'
-started_at: '2020-08-09T00:00:00-07:00'
+started_at: ''
 summary: 'Harrow the Ninth (The Locked Tomb, #2) by Tamsyn Muir - rated 4.29/5 on
   Goodreads'
 tagline: A 512-page book by Tamsyn Muir

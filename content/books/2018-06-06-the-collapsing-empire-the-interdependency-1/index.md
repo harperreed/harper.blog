@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B01F20E7CO.01._SCLZZ
 layout: book
 num_pages: '336'
 review_rating: '5'
-started_at: '2017-04-07T00:00:00-07:00'
+started_at: ''
 summary: 'The Collapsing Empire (The Interdependency, #1) by John Scalzi - rated 4.12/5
   on Goodreads'
 tagline: A 336-page book by John Scalzi

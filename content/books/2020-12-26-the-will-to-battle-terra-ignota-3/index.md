@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B071Z6M2TM.01._SCLZZ
 layout: book
 num_pages: null
 review_rating: '5'
-started_at: '2018-10-26T00:00:00-07:00'
+started_at: ''
 summary: 'The Will to Battle (Terra Ignota, #3) by Ada Palmer - rated 4.21/5 on Goodreads'
 tagline: A None-page book by Ada Palmer
 tags:

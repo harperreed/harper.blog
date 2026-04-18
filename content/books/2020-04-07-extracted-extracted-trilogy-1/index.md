@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B01HIKCA52.01._SCLZZ
 layout: book
 num_pages: '400'
 review_rating: '5'
-started_at: '2019-08-28T00:00:00-07:00'
+started_at: ''
 summary: 'Extracted (Extracted Trilogy, #1) by R.R. Haywood - rated 3.95/5 on Goodreads'
 tagline: A 400-page book by R.R. Haywood
 tags:

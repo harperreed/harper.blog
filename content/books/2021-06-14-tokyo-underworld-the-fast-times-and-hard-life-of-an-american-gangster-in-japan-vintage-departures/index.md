@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B0043M4YYE.01._SCLZZ
 layout: book
 num_pages: '400'
 review_rating: '5'
-started_at: '2019-09-04T00:00:00-07:00'
+started_at: ''
 summary: 'Tokyo Underworld: The Fast Times and Hard Life of an American Gangster in
   Japan (Vintage Departures) by Robert Whiting - rated 3.84/5 on Goodreads'
 tagline: A 400-page book by Robert Whiting

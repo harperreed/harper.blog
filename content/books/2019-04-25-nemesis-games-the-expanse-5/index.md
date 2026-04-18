@@ -13,7 +13,7 @@ is_reread: true
 layout: book
 num_pages: '536'
 review_rating: '5'
-started_at: '2015-06-28T00:00:00-07:00'
+started_at: ''
 summary: 'Nemesis Games (The Expanse, #5) by James S.A. Corey - rated 4.44/5 on Goodreads'
 tagline: A 536-page book by James S.A. Corey
 tags:

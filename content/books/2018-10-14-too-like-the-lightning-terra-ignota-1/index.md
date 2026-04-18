@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B015MP6WPY.01._SCLZZ
 layout: book
 num_pages: '433'
 review_rating: '5'
-started_at: '2016-07-07T00:00:00-07:00'
+started_at: ''
 summary: 'Too Like the Lightning (Terra Ignota, #1) by Ada Palmer - rated 3.82/5 on
   Goodreads'
 tagline: A 433-page book by Ada Palmer

@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B08FHHQRM2.01._SCLZZ
 layout: book
 num_pages: '220'
 review_rating: '5'
-started_at: '2021-04-11T00:00:00-07:00'
+started_at: ''
 summary: There Is No Antimemetics Division by qntm - rated 4.23/5 on Goodreads
 tagline: A 220-page book by qntm
 tags:

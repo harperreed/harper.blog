@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B07V8CL7RH.01._SCLZZ
 layout: book
 num_pages: '592'
 review_rating: '5'
-started_at: '2020-02-27T00:00:00-08:00'
+started_at: ''
 summary: 'Facebook: The Inside Story by Steven Levy - rated 4.06/5 on Goodreads'
 tagline: A 592-page book by Steven Levy
 tags:

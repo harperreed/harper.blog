@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B085BWLNR2.01._SCLZZ
 layout: book
 num_pages: '362'
 review_rating: '5'
-started_at: '2021-09-16T00:00:00-07:00'
+started_at: ''
 summary: 'Agent Sonya: Moscow''s Most Daring Wartime Spy by Ben Macintyre - rated
   4.16/5 on Goodreads'
 tagline: A 362-page book by Ben Macintyre

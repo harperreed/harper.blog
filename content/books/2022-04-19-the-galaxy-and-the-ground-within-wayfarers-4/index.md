@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B088RDCLQ4.01._SCLZZ
 layout: book
 num_pages: '333'
 review_rating: '5'
-started_at: '2021-05-14T00:00:00-07:00'
+started_at: ''
 summary: 'The Galaxy, and the Ground Within (Wayfarers, #4) by Becky  Chambers - rated
   4.40/5 on Goodreads'
 tagline: A 333-page book by Becky  Chambers

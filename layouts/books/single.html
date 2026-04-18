@@ -20,7 +20,9 @@
     $start }} {{/* Get total hours */}} {{ $hours := $duration.Hours }} {{/* Get
     total days */}} {{ $days := div $duration.Hours 24 }}
     {{ $displayDays := math.Max 1 (math.Ceil $days) }}
+    {{ if le $displayDays 90.0 }}
     <li>{{ i18n "reading-duration" | default "Reading duration: Read in" }} {{ $displayDays }} {{ i18n "days" | default "days" }}</li>
+    {{ end }}
     {{ end }} {{ with .Params.num_pages}}
     <li>{{ i18n "number-of-pages" | default "Number of pages:" }} {{.}} {{ i18n "pages" | default "Pages" }}</li>
     {{end}}

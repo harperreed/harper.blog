@@ -13,7 +13,7 @@ is_reread: true
 layout: book
 num_pages: null
 review_rating: '5'
-started_at: '2022-05-24T00:00:00-07:00'
+started_at: ''
 summary: 'The Blade Itself (The First Law, #1) by Joe Abercrombie - rated 4.22/5 on
   Goodreads'
 tagline: A None-page book by Joe Abercrombie

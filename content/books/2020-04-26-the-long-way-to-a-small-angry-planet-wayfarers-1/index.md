@@ -13,7 +13,7 @@ is_reread: true
 layout: book
 num_pages: '423'
 review_rating: '5'
-started_at: '2019-12-01T00:00:00-08:00'
+started_at: ''
 summary: 'The Long Way to a Small, Angry Planet (Wayfarers, #1) by Becky  Chambers
   - rated 4.18/5 on Goodreads'
 tagline: A 423-page book by Becky  Chambers

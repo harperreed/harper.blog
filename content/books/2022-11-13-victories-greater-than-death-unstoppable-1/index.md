@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B0879H8NNB.01._SCLZZ
 layout: book
 num_pages: '284'
 review_rating: '5'
-started_at: '2022-03-01T00:00:00-08:00'
+started_at: ''
 summary: 'Victories Greater Than Death (Unstoppable #1) by Charlie Jane Anders - rated
   3.49/5 on Goodreads'
 tagline: A 284-page book by Charlie Jane Anders

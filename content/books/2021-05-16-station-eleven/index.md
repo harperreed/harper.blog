@@ -13,7 +13,7 @@ is_reread: true
 layout: book
 num_pages: '354'
 review_rating: '5'
-started_at: '2020-02-24T00:00:00-08:00'
+started_at: ''
 summary: Station Eleven by Emily St. John Mandel - rated 4.07/5 on Goodreads
 tagline: A 354-page book by Emily St. John Mandel
 tags:

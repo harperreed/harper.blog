@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B0DWVV27DJ.01._SCLZZ
 layout: book
 num_pages: '621'
 review_rating: '5'
-started_at: '2021-09-13T00:00:00-07:00'
+started_at: ''
 summary: The Actual Star by Monica Byrne - rated 3.87/5 on Goodreads
 tagline: A 621-page book by Monica Byrne
 tags:

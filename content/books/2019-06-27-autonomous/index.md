@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B01N4P14CI.01._SCLZZ
 layout: book
 num_pages: null
 review_rating: '5'
-started_at: '2017-09-22T00:00:00-07:00'
+started_at: ''
 summary: Autonomous by Annalee Newitz - rated 3.58/5 on Goodreads
 tagline: A None-page book by Annalee Newitz
 tags:

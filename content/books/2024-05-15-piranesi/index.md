@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B0865TSTWM.01._SCLZZ
 layout: book
 num_pages: '246'
 review_rating: '5'
-started_at: '2021-04-23T00:00:00-07:00'
+started_at: ''
 summary: Piranesi by Susanna Clarke - rated 4.22/5 on Goodreads
 tagline: A 246-page book by Susanna Clarke
 tags:

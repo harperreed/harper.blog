@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B07RFVCB11.01._SCLZZ
 layout: book
 num_pages: '207'
 review_rating: '5'
-started_at: '2021-01-31T00:00:00-08:00'
+started_at: ''
 summary: 'Begin Again: James Baldwin''s America and Its Urgent Lessons for Our Own
   by Eddie S. Glaude Jr. - rated 4.39/5 on Goodreads'
 tagline: A 207-page book by Eddie S. Glaude Jr.

@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B001QEAQQC.01._SCLZZ
 layout: book
 num_pages: '517'
 review_rating: '5'
-started_at: '2022-03-14T00:00:00-07:00'
+started_at: ''
 summary: In Red Storm Rising, Tom Clancy paints a chillingly authentic vision of World
   War III, where superpowers clash with the latest military technology.
 tagline: A gripping tale of modern warfare and global conflict.

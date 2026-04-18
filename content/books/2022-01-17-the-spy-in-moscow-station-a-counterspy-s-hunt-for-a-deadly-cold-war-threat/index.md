@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B07D2BHVW6.01._SCLZZ
 layout: book
 num_pages: null
 review_rating: '5'
-started_at: '2021-09-16T00:00:00-07:00'
+started_at: ''
 summary: 'The Spy in Moscow Station: A Counterspy''s Hunt for a Deadly Cold War Threat
   by Eric Haseltine - rated 3.79/5 on Goodreads'
 tagline: A None-page book by Eric Haseltine

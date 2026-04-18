@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/0385347553.01._SCLZZ
 layout: book
 num_pages: '368'
 review_rating: '5'
-started_at: '2024-12-10T00:00:00-08:00'
+started_at: ''
 summary: A candid autobiography by Graham Nash, chronicling his journey from a humble
   upbringing in post-war England to becoming a rock legend with timeless hits.
 tagline: Uncover the extraordinary life of rock icon Graham Nash in his thrilling

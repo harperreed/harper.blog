@@ -12,7 +12,7 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B07P5H18W6.01._SCLZZ
 layout: book
 num_pages: '513'
 review_rating: '5'
-started_at: '2019-10-24T00:00:00-07:00'
+started_at: ''
 summary: 'The Only Plane in the Sky: An Oral History of 9/11 by Garrett M. Graff -
   rated 4.72/5 on Goodreads'
 tagline: A 513-page book by Garrett M. Graff
