@@ -1,60 +1,128 @@
-{{ define "main" }} {{ .Content }}
+{{- /* ABOUTME: Homepage with posts feed, photo strip, and compact widgets */ -}}
+{{- /* ABOUTME: Posts-first layout with snapshots and reading/notes/links widgets */ -}}
+{{ define "main" }}
 
-{{ $notes := first 5 (where .Site.RegularPages "Section" "post") }} 
-{{ if $notes }}
-<h2>{{ i18n "posts" | default "Posts" }}</h2>
-<ul class="blog-posts">
-    
-    {{ range $notes }}
-    <li>
-        <span>
-            <i>
-                <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
-                    {{ .Date.Format (default "2006-01-02"
-                    .Site.Params.dateFormat) }}
-                </time>
-            </i>
-        </span>
-        {{ if .Params.link }}
-        <a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer" aria-label="Link to {{ .Title }}">
-            {{ .Title }} ↪
-        </a>
-        {{ else }}
-        <a href="{{ .RelPermalink }}" title="{{.Summary}}" aria-label="Link to {{ .Title }}">
-            {{ .Title }}
+{{- /* Posts feed */ -}}
+{{ $posts := first 5 (where .Site.RegularPages "Section" "post") }}
+{{ if $posts }}
+<div class="home-feed">
+    <div class="feed">
+        {{ range $posts }}
+        <article class="feed-item">
+            <h2 class="feed-title">
+                {{ if .Params.link }}
+                <a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer">{{ .Title }} ↪</a>
+                {{ else }}
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                {{ end }}
+            </h2>
+            <time class="feed-date" datetime='{{ .Date.Format "2006-01-02" }}'>
+                {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
+            </time>
+            {{ with .Summary }}
+            <p class="feed-summary">{{ . | plainify | truncate 200 }}</p>
+            {{ end }}
+        </article>
+        {{ end }}
+    </div>
+    <a href="{{ "/posts" | relLangURL }}" class="home-more" aria-label="More Posts">{{ i18n "morePosts" | default "More Posts" }} →</a>
+</div>
+{{ end }}
+
+{{- /* Photo strip — recent notes with images */ -}}
+{{ $photoNotes := slice }}
+{{ $allNotes := where .Site.RegularPages "Section" "notes" }}
+{{ range first 20 $allNotes }}
+    {{ if gt (len (.Resources.ByType "image")) 0 }}
+        {{ $photoNotes = $photoNotes | append . }}
+    {{ end }}
+{{ end }}
+{{ $photoNotes = first 6 $photoNotes }}
+{{ if $photoNotes }}
+<div class="photo-strip">
+    <div class="photo-strip-header">
+        <h3 class="section-label">Recent Photos</h3>
+        <a href="{{ "/photos" | relLangURL }}" class="section-more">More →</a>
+    </div>
+    <div class="photo-strip-row">
+        {{ range $photoNotes }}
+        {{ $firstImage := index (.Resources.ByType "image") 0 }}
+        {{ $thumb := $firstImage.Fill "240x240" }}
+        <a href="{{ .Permalink }}">
+            <img src="{{ $thumb.RelPermalink }}" alt="{{ with .Title }}{{ . }}{{ else }}Photo{{ end }}" loading="lazy" width="120" height="120" />
         </a>
         {{ end }}
-    </li>
-    {{ else }}
-    <li>{{ i18n "no-posts" }}</li>
-    {{ end }}
-</ul>
-<a href="{{ "/posts" | relLangURL }}" aria-label="More Posts">{{ i18n "morePosts" | default "More Posts" }}</a>
+    </div>
+</div>
 {{ end }}
 
-{{ $notes := first 5 (where .Site.RegularPages "Section" "notes") }} 
-{{ if $notes }}
-<h2>{{ i18n "notes" | default "Notes" }}</h2>
-<ul class="blog-posts" aria-label="List of recent notes">
-    
-    {{ range $notes }}
-    <li>
-        <span>
-            <i>
-                <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
-                    {{ .Date.Format (default "2006-01-02"
-                    .Site.Params.dateFormat) }}
-                </time>
-            </i>
-        </span>
-        <a href="{{ .RelPermalink }}" aria-label="Note: {{ .Description | default .Title }}">
-            {{ .Description | default .Title | truncate 120}}
-        </a>
-    </li>
-    {{ else }}
-    <li>{{ i18n "no-notes" | default "No notes yet." }}</li>
+{{- /* Compact widgets */ -}}
+<div class="widgets">
+    {{- /* Reading widget */ -}}
+    {{ $books := first 3 (where .Site.RegularPages "Section" "books") }}
+    {{ if $books }}
+    <div class="widget">
+        <div class="widget-header">
+            <h3 class="section-label">Reading</h3>
+            <a href="{{ "/books" | relLangURL }}" class="section-more">More →</a>
+        </div>
+        {{ range $books }}
+        <div class="widget-item">
+            <div class="widget-item-title">
+                <a href="{{ .RelPermalink }}" style="text-decoration: none; color: inherit;">{{ .Title }}</a>
+            </div>
+            {{ with .Params.book_author }}
+            <div class="widget-item-meta">{{ . }}</div>
+            {{ end }}
+        </div>
+        {{ end }}
+    </div>
     {{ end }}
-</ul>
-<a href="{{ "/notes" | relLangURL }}" aria-label="More Notes">{{ i18n "moreNotes" | default "More Notes" }}</a>
-{{ end }}
+
+    {{- /* Notes widget */ -}}
+    {{ $notes := first 2 (where .Site.RegularPages "Section" "notes") }}
+    {{ if $notes }}
+    <div class="widget">
+        <div class="widget-header">
+            <h3 class="section-label">Notes</h3>
+            <a href="{{ "/notes" | relLangURL }}" class="section-more">More →</a>
+        </div>
+        {{ range $notes }}
+        <div class="widget-item">
+            <div class="widget-item-excerpt">{{ .Description | default .Title | truncate 80 }}</div>
+        </div>
+        {{ end }}
+    </div>
+    {{ end }}
+
+    {{- /* Links widget */ -}}
+    {{ $links := first 2 (where .Site.RegularPages "Section" "links") }}
+    {{ if $links }}
+    <div class="widget">
+        <div class="widget-header">
+            <h3 class="section-label">Links</h3>
+            <a href="{{ "/links" | relLangURL }}" class="section-more">More →</a>
+        </div>
+        {{ range $links }}
+        {{ $url := urls.Parse .Params.original_url }}
+        <div class="widget-item">
+            <div class="widget-item-title">
+                {{ if .Params.original_url }}
+                <a href="{{ .Params.original_url }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;"
+                    data-tinylytics-event="outbound.link"
+                    data-tinylytics-event-value="{{ .Title }}"
+                >{{ .Title }} ↪</a>
+                {{ else }}
+                {{ .Title }}
+                {{ end }}
+            </div>
+            {{ if .Params.original_url }}
+            <div class="widget-item-meta">{{ $url.Hostname }}</div>
+            {{ end }}
+        </div>
+        {{ end }}
+    </div>
+    {{ end }}
+</div>
+
 {{ end }}

@@ -1,0 +1,128 @@
+/* ABOUTME: Homepage-specific styles for photo strip and compact widgets */
+/* ABOUTME: Handles the posts feed, snapshot photo strip, and three-column widget grid */
+
+/* Photo strip */
+.photo-strip {
+    margin: 32px 0;
+}
+
+.photo-strip-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 12px;
+}
+
+.section-label {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--color-dark);
+    opacity: 0.5;
+    font-weight: 600;
+    margin: 0;
+}
+
+.section-more {
+    font-size: 13px;
+    color: var(--color-dark);
+    opacity: 0.5;
+    text-decoration: none;
+}
+
+.section-more:hover {
+    opacity: 1;
+}
+
+.photo-strip-row {
+    display: flex;
+    gap: 8px;
+    overflow: hidden;
+}
+
+.photo-strip-row a {
+    flex-shrink: 0;
+}
+
+.photo-strip-row img {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 6px;
+    display: block;
+}
+
+/* Compact widgets */
+.widgets {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    margin: 32px 0;
+}
+
+.widget {
+    padding: 16px;
+    background: var(--color-tertiary);
+    border-radius: var(--border-radius-base);
+}
+
+.widget-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 10px;
+}
+
+.widget-item {
+    margin-bottom: 8px;
+}
+
+.widget-item:last-child {
+    margin-bottom: 0;
+}
+
+.widget-item-title {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--color-primary);
+}
+
+.widget-item-meta {
+    font-size: 12px;
+    color: var(--color-dark);
+    opacity: 0.5;
+}
+
+.widget-item-excerpt {
+    font-size: 14px;
+    color: var(--color-dark);
+    opacity: 0.7;
+    line-height: 1.45;
+}
+
+/* Homepage feed top margin */
+.home-feed {
+    margin-bottom: 8px;
+}
+
+.home-more {
+    font-size: 14px;
+    color: var(--color-dark);
+    opacity: 0.5;
+    text-decoration: none;
+}
+
+.home-more:hover {
+    opacity: 1;
+}
+
+@media (max-width: 600px) {
+    .widgets {
+        grid-template-columns: 1fr;
+    }
+
+    .photo-strip-row img {
+        width: 100px;
+        height: 100px;
+    }
+}
