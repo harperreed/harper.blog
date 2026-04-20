@@ -1,28 +1,28 @@
+{{- /* ABOUTME: Links section list page with dense row layout */ -}}
+{{- /* ABOUTME: Shows date, title, and source domain per link in consistent rows */ -}}
 {{ define "main" }}
 <article>
-    {{ .Content }} {{ if .Data.Singular }}
-    <h3 class="link-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
-    {{ end }} {{ $pages := .Pages }} {{ if not $pages }}
-    <ul class="link-posts">
-        <li>{{ i18n "no-posts" }}</li>
-    </ul>
-    {{ else }} {{ $paginator := .Paginate $pages 20 }}
-    <ul class="link-posts">
-        {{ range $paginator.Pages.GroupByDate "2006-01-02" }} {{ range $index,
-        $page := .Pages }} {{ $url := urls.Parse .Params.original_url}}
+    {{ .Content }}
+
+    {{ if .Data.Singular }}
+    <h3 class="section-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
+    {{ end }}
+
+    {{ $pages := .Pages }}
+    {{ if not $pages }}
+    <p>{{ i18n "no-posts" }}</p>
+    {{ else }}
+    {{ $paginator := .Paginate $pages 20 }}
+    <ul class="dense-list">
+        {{ range $paginator.Pages }}
+        {{ $url := urls.Parse .Params.original_url }}
         <li>
-            {{ if eq $index 0 }}
-            <span class="date">
-                <i>
-                    <time datetime='{{ .Date.Format "2006-01-02" }}' >
-                        {{ .Date.Format (default "2006-01-02"
-                        $.Site.Params.dateFormat) }}
-                    </time>
-                </i>
+            <span class="dense-date">
+                <time datetime='{{ .Date.Format "2006-01-02" }}'>
+                    {{ .Date.Format (default "2006-01-02" $.Site.Params.dateFormat) }}
+                </time>
             </span>
-            {{ else }}
-            <span></span>
-            {{ end }} {{ if .Params.original_url }}
+            {{ if .Params.original_url }}
             <a
                 href="{{ .Params.original_url }}"
                 target="_blank"
@@ -30,14 +30,17 @@
                 data-tinylytics-event="outbound.link"
                 data-tinylytics-event-value="{{ .Title }}"
             >
-                <span class="link-title">{{ .Title }}</span>
-                <span class="link-domain">({{ $url.Hostname }})</span>
+                <span class="dense-title">{{ .Title }}</span>
+                <span class="dense-meta">({{ $url.Hostname }})</span>
             </a>
-            {{ else }} {{ .Title }} {{ end }}
+            {{ else }}
+            <span class="dense-title">{{ .Title }}</span>
+            {{ end }}
         </li>
-        {{ end }} {{ end }}
+        {{ end }}
     </ul>
 
-    {{ partial "pagination.html" . }} {{ end }}
+    {{ partial "pagination.html" . }}
+    {{ end }}
 </article>
 {{ end }}
