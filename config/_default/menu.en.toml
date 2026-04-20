@@ -30,6 +30,18 @@ name = "Music"
 url = "/media/music/"
 weight = 5
 
+[[main]]
+identifier = "now"
+name = "Now"
+url = "/now/"
+weight = 6
+
+[[main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 7
+
 [[footer]]
 identifier = "contact"
 name = "harper@modest.com"

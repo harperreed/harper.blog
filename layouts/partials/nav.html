@@ -11,9 +11,11 @@
 {{ range .Site.Menus.main.ByWeight }}
 {{- $isActive := false -}}
 {{- $menuSection := .Identifier -}}
-{{- /* Handle "posts" menu item matching "post" section */ -}}
+{{- /* Handle identifier-to-section mismatches */ -}}
 {{- if eq $menuSection "posts" -}}
     {{- $isActive = eq $currentSection "post" -}}
+{{- else if eq $menuSection "about" -}}
+    {{- $isActive = eq $currentSection "page" -}}
 {{- else -}}
     {{- $isActive = eq $currentSection $menuSection -}}
 {{- end -}}
