@@ -313,6 +313,61 @@ ul.now-posts li a:visited {
     color: var(--color-primary);
 }
 
+/* Feed mode (posts, notes list pages) */
+.feed-item {
+    margin-bottom: 28px;
+    padding-bottom: 28px;
+    border-bottom: 1px solid var(--color-tertiary);
+}
+
+.feed-item:last-child {
+    border-bottom: none;
+}
+
+.feed-title {
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    margin: 0 0 4px;
+    line-height: 1.3;
+}
+
+.feed-title a {
+    text-decoration: none;
+    color: var(--color-primary);
+}
+
+.feed-title a:visited {
+    color: var(--color-primary);
+}
+
+.feed-title a:hover {
+    color: var(--color-link-hover);
+}
+
+.feed-date {
+    display: block;
+    font-size: 13px;
+    color: var(--color-dark);
+    opacity: 0.5;
+    margin-bottom: 8px;
+    font-style: normal;
+}
+
+.feed-summary {
+    font-size: 15px;
+    color: var(--color-dark);
+    opacity: 0.7;
+    line-height: 1.55;
+    margin: 0;
+}
+
+.section-filter {
+    color: var(--color-secondary);
+    font-size: 1.1em;
+    margin-bottom: 2em;
+}
+
 @media (prefers-reduced-motion: reduce) {
     .skip-link { transition: none; }
     * { scroll-behavior: auto !important; }
