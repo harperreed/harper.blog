@@ -15,19 +15,19 @@ weight = 2
 [[main]]
 identifier = "books"
 name = "Books"
-url = "/books/"
+url = "/media/books/"
 weight = 3
 
 [[main]]
 identifier = "links"
 name = "Links"
-url = "/links/"
+url = "/media/links/"
 weight = 4
 
 [[main]]
 identifier = "music"
 name = "Music"
-url = "/music/"
+url = "/media/music/"
 weight = 5
 
 [[footer]]

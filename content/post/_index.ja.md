@@ -5,9 +5,6 @@ menu:
     footer:
         name: 投稿
         weight: 2
-    main:
-        name: 投稿
-        weight: 2
 nofeed: true
 title: "投稿"
 translationKey: Posts
