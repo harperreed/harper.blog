@@ -183,32 +183,9 @@ footer {
     font-size: small;
 }
 
-/* blog posts */
-ul.blog-posts {
-    list-style-type: none;
-    padding: unset;
-}
-
-ul.blog-posts li {
-    display: flex;
-    margin-bottom: var(--margin);
-}
-
-ul.blog-posts li span {
-    flex: 0 0 130px;
-}
-
-ul.blog-posts li a:visited {
-    color: var(--color-link-visited);
-}
-
 a.blog-tags {
     line-height: calc(var(--line-height-base) * 1.2);
     margin-right: var(--margin);
-}
-
-h3.blog-filter {
-    margin-bottom: 0;
 }
 
 .disabled {
