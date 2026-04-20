@@ -368,6 +368,34 @@ ul.now-posts li a:visited {
     margin-bottom: 2em;
 }
 
+/* Note feed extras */
+.feed-item-header {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 8px;
+}
+
+.feed-item-header a {
+    font-size: 13px;
+    text-decoration: none;
+    opacity: 0.4;
+}
+
+.feed-item-header a:hover {
+    opacity: 1;
+}
+
+.feed-tags {
+    margin-top: 8px;
+}
+
+.feed-tags a {
+    font-size: 13px;
+    margin-right: var(--margin);
+    line-height: calc(var(--line-height-base) * 1.2);
+}
+
 @media (prefers-reduced-motion: reduce) {
     .skip-link { transition: none; }
     * { scroll-behavior: auto !important; }
