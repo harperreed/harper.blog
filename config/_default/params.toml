@@ -19,21 +19,8 @@ themeStyle = "harper"
 amazon_tag = "harperrules0d-20"
 defaultContentLanguage = "en"
 
-# Themes
-#theme = "sunset"
-#theme = "ocean"
-# theme = "desert"
+# Themes: nature, sunset, nordic, terminal (or leave unset for default)
 # theme = "nordic"
-# theme = "autumn"
-# theme = "cyber"
- theme = "academia"
-# theme = "myspace"
-# theme = "halloween"
-# theme = "xmas"
-# theme = "neon"
-# theme = "electric"
-# theme = "volcano"
-# theme = "cyberpunk"
 
 
 customcss = [
