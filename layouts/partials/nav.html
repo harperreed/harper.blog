@@ -1,8 +1,25 @@
+{{- /* ABOUTME: Section tab navigation with active state detection */ -}}
+{{- /* ABOUTME: Renders main menu items as tabs, highlights current section */ -}}
+{{- $currentSection := "" -}}
+{{- with .Page -}}
+    {{- $currentSection = .Section -}}
+    {{- /* Homepage gets "post" as active since posts feed is the homepage content */ -}}
+    {{- if .IsHome -}}
+        {{- $currentSection = "post" -}}
+    {{- end -}}
+{{- end -}}
 {{ range .Site.Menus.main.ByWeight }}
-<a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+{{- $isActive := false -}}
+{{- $menuSection := .Identifier -}}
+{{- /* Handle "posts" menu item matching "post" section */ -}}
+{{- if eq $menuSection "posts" -}}
+    {{- $isActive = eq $currentSection "post" -}}
+{{- else -}}
+    {{- $isActive = eq $currentSection $menuSection -}}
+{{- end -}}
+<a href="{{ .URL | relLangURL }}" {{ if $isActive }}class="active" aria-current="page"{{ end }}>{{ .Name }}</a>
 {{ end }}
 <a href='{{ absURL ("index.xml" | relLangURL) }}'
     data-tinylytics-event="feed.subscribe"
     data-tinylytics-event-value="main-rss"
-    >{{ i18n "rss" | default "RSS" }}</a
->
+    >{{ i18n "rss" | default "RSS" }}</a>

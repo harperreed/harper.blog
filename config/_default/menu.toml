@@ -1,12 +1,40 @@
 ######### menu #########
 
+[[main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 1
 
 [[main]]
+identifier = "notes"
+name = "Notes"
+url = "/notes/"
+weight = 2
+
+[[main]]
+identifier = "books"
+name = "Books"
+url = "/books/"
+weight = 3
+
+[[main]]
+identifier = "links"
+name = "Links"
+url = "/links/"
+weight = 4
+
+[[main]]
+identifier = "music"
+name = "Music"
+url = "/music/"
+weight = 5
+
+[[footer]]
 identifier = "contact"
 name = "harper@modest.com"
 url = "mailto:harper@modest.com"
-weight = 6
-
+weight = 1
 
 [[footer]]
 identifier = "home"
