@@ -64,12 +64,12 @@
     <div class="widget">
         <div class="widget-header">
             <h3 class="section-label">Reading</h3>
-            <a href="{{ "/books" | relLangURL }}" class="section-more">More →</a>
+            <a href="{{ "/media/books" | relLangURL }}" class="section-more">More →</a>
         </div>
         {{ range $books }}
         <div class="widget-item">
             <div class="widget-item-title">
-                <a href="{{ .RelPermalink }}" style="text-decoration: none; color: inherit;">{{ .Title }}</a>
+                <a href="{{ .RelPermalink }}" class="widget-link">{{ .Title }}</a>
             </div>
             {{ with .Params.book_author }}
             <div class="widget-item-meta">{{ . }}</div>
@@ -101,14 +101,14 @@
     <div class="widget">
         <div class="widget-header">
             <h3 class="section-label">Links</h3>
-            <a href="{{ "/links" | relLangURL }}" class="section-more">More →</a>
+            <a href="{{ "/media/links" | relLangURL }}" class="section-more">More →</a>
         </div>
         {{ range $links }}
         {{ $url := urls.Parse .Params.original_url }}
         <div class="widget-item">
             <div class="widget-item-title">
                 {{ if .Params.original_url }}
-                <a href="{{ .Params.original_url }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;"
+                <a href="{{ .Params.original_url }}" target="_blank" rel="noopener noreferrer" class="widget-link"
                     data-tinylytics-event="outbound.link"
                     data-tinylytics-event-value="{{ .Title }}"
                 >{{ .Title }} ↪</a>

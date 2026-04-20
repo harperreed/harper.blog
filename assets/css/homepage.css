@@ -87,6 +87,11 @@
     color: var(--color-primary);
 }
 
+.widget-link {
+    text-decoration: none;
+    color: inherit;
+}
+
 .widget-item-meta {
     font-size: 12px;
     color: var(--color-dark);

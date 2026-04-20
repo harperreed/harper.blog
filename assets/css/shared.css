@@ -56,12 +56,6 @@
     color: var(--color-link-hover);
 }
 
-.section-filter {
-    color: var(--color-secondary);
-    font-size: 1.1em;
-    margin-bottom: 2em;
-}
-
 /* Grid toggle */
 .view-toggle {
     display: flex;
