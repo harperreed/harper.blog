@@ -1,11 +1,6 @@
 ---
 date: 2024-05-02 20:54:26-05:00
 draft: false
-menu:
-    main:
-        identifier: home
-        name: Home
-        weight: 1
 nodate: true
 nofeed: true
 title: Beranda

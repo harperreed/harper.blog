@@ -2,17 +2,11 @@ class ThemeManager {
     constructor() {
         // Available themes from the CSS
         this.themes = [
-            "default", // No theme class
-            "dark",
+            "default",
             "nature",
             "sunset",
-            "ocean",
-            "desert",
             "nordic",
-            "autumn",
-            "cyber",
-            "academia",
-            "myspace",
+            "terminal",
         ];
 
         // Get the saved theme from localStorage or use default

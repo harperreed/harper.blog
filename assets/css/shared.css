@@ -1,86 +1,91 @@
-.link-posts,
-.book-posts,
-.music-posts,
-.media-posts {
+/* ABOUTME: Shared dense row styles for books, links, and music sections */
+/* ABOUTME: Consistent list layout with date column, title, and metadata */
+
+.dense-list {
     list-style: none;
     padding: 0;
     margin: 0;
 }
-.link-posts li,
-.book-posts li,
-.music-posts li,
-.media-posts li {
+
+.dense-list li {
     display: flex;
     align-items: baseline;
-    margin-bottom: 0.7em;
+    gap: 16px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--color-tertiary);
 }
 
-.link-posts span,
-.book-posts span,
-.music-posts span,
-.media-posts span {
-    flex: 0 0 130px;
-    margin-right: 1em;
+.dense-list li:last-child {
+    border-bottom: none;
 }
 
-.link-filter,
-.book-filter,
-.music-filter,
-.media-filter {
-    color: var(--color-secondary);
-    font-size: 1.1em;
-    margin-bottom: 2em;
-}
-
-.link-domain,
-.book-domain,
-.music-domain,
-.media-domain {
+.dense-date {
+    flex: 0 0 80px;
+    font-size: 13px;
     color: var(--color-dark);
-    transition: color 0.3s ease;
-    text-decoration: none;
+    opacity: 0.5;
+    font-style: italic;
 }
 
-.link-posts a,
-.book-posts a,
-.music-posts a,
-.media-posts a {
-    text-decoration: none;
-}
-
-.link-posts a .media-title,
-.book-posts a .media-title,
-.music-posts a .media-title,
-.media-posts a .media-title {
+.dense-title {
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--color-primary);
     text-decoration: underline;
 }
 
-@media (max-width: 600px) {
-    .link-posts li,
-    .book-posts li,
-    .music-posts li,
-    .media-posts li {
-        flex-direction: column;
-        margin-bottom: 1em;
-    }
-
-    .link-posts span,
-    .book-posts span,
-    .music-posts span,
-    .media-posts span {
-        flex: 0 0 auto;
-        margin-right: 0;
-        margin-bottom: 0.3em;
-    }
-
-    .link-posts a,
-    .book-posts a,
-    .music-posts a,
-    .media-posts a {
-        margin-left: 0;
-    }
+.dense-meta {
+    font-size: 13px;
+    color: var(--color-dark);
+    opacity: 0.5;
+    text-decoration: none;
 }
 
-@media (prefers-reduced-motion: reduce) {
-    a { transition: none; }
+.dense-list a {
+    text-decoration: none;
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+}
+
+.dense-list a:visited .dense-title {
+    color: var(--color-link-visited);
+}
+
+.dense-list a:hover .dense-title {
+    color: var(--color-link-hover);
+}
+
+/* Grid toggle */
+.view-toggle {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 16px;
+    font-size: 13px;
+}
+
+.view-toggle a {
+    text-decoration: none;
+    color: var(--color-dark);
+    opacity: 0.5;
+    padding: 4px 8px;
+    border-radius: var(--border-radius-sm);
+}
+
+.view-toggle a.active,
+.view-toggle a:hover {
+    opacity: 1;
+    background: var(--color-tertiary);
+}
+
+@media (max-width: 600px) {
+    .dense-list li {
+        flex-direction: column;
+        gap: 4px;
+        padding: 12px 0;
+    }
+
+    .dense-date {
+        flex: 0 0 auto;
+    }
 }

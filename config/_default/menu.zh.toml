@@ -1,11 +1,52 @@
 ######### menu #########
 
+[[main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 1
 
 [[main]]
+identifier = "notes"
+name = "Notes"
+url = "/notes/"
+weight = 2
+
+[[main]]
+identifier = "books"
+name = "Books"
+url = "/media/books/"
+weight = 3
+
+[[main]]
+identifier = "links"
+name = "Links"
+url = "/media/links/"
+weight = 4
+
+[[main]]
+identifier = "music"
+name = "Music"
+url = "/media/music/"
+weight = 5
+
+[[main]]
+identifier = "now"
+name = "Now"
+url = "/now/"
+weight = 6
+
+[[main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 7
+
+[[footer]]
 identifier = "contact"
 name = "harper@modest.com"
 url = "mailto:harper@modest.com"
-weight = 6
+weight = 1
 
 [[footer]]
 identifier = "personal"

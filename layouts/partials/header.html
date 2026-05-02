@@ -1,15 +1,16 @@
+{{- /* ABOUTME: Compact header with avatar, name, and section nav tabs */ -}}
+{{- /* ABOUTME: Avatar + name row on top, section tabs below with active state */ -}}
 <a class="skip-link" href="#main-content" aria-label="Skip to main content">{{ i18n "skip-link" }}</a>
-<a
-    href="{{ relURL .Site.Home.RelPermalink }}"
-    class="title"
-    aria-label="Home"
->
-    <img
-        src="{{ .Site.Params.avatar }}"
-        alt="Avatar"
-        class="avatar"
-    />
-    <h1>{{ .Site.Title }}</h1>
-</a>
-
-<nav aria-label="Main Navigation">{{- partialCached "nav.html" . -}}</nav>
+<div class="site-header">
+    <a href="{{ relURL .Site.Home.RelPermalink }}" class="site-identity" aria-label="Home">
+        <img
+            src="{{ .Site.Params.avatar }}"
+            alt="Avatar"
+            class="avatar"
+        />
+        <span class="site-name">{{ .Site.Params.name | default .Site.Title }}</span>
+    </a>
+    <nav class="site-nav" aria-label="Main Navigation">
+        {{- partial "nav.html" . -}}
+    </nav>
+</div>

@@ -7,31 +7,10 @@ set -euo pipefail
 
 # Available themes (must match themes.css)
 THEMES=(
-    "dark"
     "nature"
     "sunset"
-    "ocean"
-    "desert"
     "nordic"
-    "autumn"
-    "cyber"
-    "academia"
-    "myspace"
-    "halloween"
-    "neon"
-    "electric"
-    "cyberpunk"
-    "volcano"
-    "midnight"
-    "lavender"
-    "coffee"
-    "mint"
-    "coral"
-    "synthwave"
     "terminal"
-    "solarized"
-    "dracula"
-    "bubblegum"
 )
 
 # Select random theme

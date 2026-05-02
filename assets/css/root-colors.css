@@ -18,13 +18,13 @@
     --margin-big: calc(var(--size) * 1.5);
     --padding-body: calc(var(--size) * 1.25);
     --spacing: calc(var(--size) * 2.4);
-    --size-width: 720px;
+    --size-width: 760px;
     --title-font-size: 24px;
 
     /* Typography */
-    --font-family-base: Verdana, sans-serif;
+    --font-family-base: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     --font-size-base: 1rem;
-    --line-height-base: 1.5;
+    --line-height-base: 1.58;
 
     /* Borders */
     --border-radius-sm: 3px;
