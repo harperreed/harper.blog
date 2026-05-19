@@ -1,17 +1,29 @@
-{{/* ABOUTME: Generates meta description tag for SEO. */}}
-{{/* ABOUTME: Provides search engines with page summary, max 160 characters. */}}
+{{/* ABOUTME: Generates meta description tag for SEO + agent readability (a14y html.meta-description). */}}
+{{/* ABOUTME: Guarantees a description ≥50 chars by composing fallbacks from site + section context. */}}
 
 {{- $description := "" -}}
+{{- $siteAuthor := .Site.Params.author.name | default "Harper Reed" -}}
+{{- $siteTitle := .Site.Title -}}
+{{- $siteDesc := .Site.Params.description | default (printf "Personal blog of %s — essays, notes, links, books, and music." $siteAuthor) -}}
 
-{{/* Use custom description if set */}}
 {{- if .Description -}}
   {{- $description = .Description -}}
-{{/* Fall back to summary for pages */}}
 {{- else if .IsPage -}}
   {{- $description = .Summary | plainify | truncate 160 -}}
-{{/* Fall back to site description */}}
+{{- else if .IsHome -}}
+  {{- $description = $siteDesc -}}
 {{- else -}}
-  {{- $description = .Site.Params.description | default "" -}}
+  {{/* Section, taxonomy, term — synthesize from title + site description */}}
+  {{- $kindWord := "page" -}}
+  {{- if eq .Kind "section" }}{{ $kindWord = "section" }}{{ end -}}
+  {{- if eq .Kind "taxonomy" }}{{ $kindWord = "taxonomy" }}{{ end -}}
+  {{- if eq .Kind "term" }}{{ $kindWord = "tag" }}{{ end -}}
+  {{- $description = printf "%s — %s on %s." (.Title | default $kindWord) $kindWord $siteTitle -}}
+{{- end -}}
+
+{{/* Guarantee ≥50 chars by padding with site description if too short */}}
+{{- if lt (len $description) 50 -}}
+  {{- $description = printf "%s %s" $description $siteDesc | truncate 200 -}}
 {{- end -}}
 
 {{- with $description -}}

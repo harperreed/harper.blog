@@ -110,3 +110,34 @@ Cache-Control = "public, max-age=86400"
 for = "/.well-known/api-catalog"
 [headers.values]
 Content-Type = "application/linkset+json"
+
+# Agent discovery: redirect /.well-known/llms.txt to canonical /llms.txt
+[[redirects]]
+from = "/.well-known/llms.txt"
+to = "/llms.txt"
+status = 200
+force = true
+
+# Serve generated markdown mirrors with the right Content-Type
+[[headers]]
+for = "/*/index.md"
+[headers.values]
+Content-Type = "text/markdown; charset=utf-8"
+
+[[headers]]
+for = "/llms.txt"
+[headers.values]
+Content-Type = "text/plain; charset=utf-8"
+Cache-Control = "public, max-age=3600"
+
+[[headers]]
+for = "/AGENTS.md"
+[headers.values]
+Content-Type = "text/markdown; charset=utf-8"
+Cache-Control = "public, max-age=3600"
+
+[[headers]]
+for = "/sitemap.md"
+[headers.values]
+Content-Type = "text/markdown; charset=utf-8"
+Cache-Control = "public, max-age=3600"

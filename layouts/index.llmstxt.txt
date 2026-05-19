@@ -1,0 +1,38 @@
+{{- /* ABOUTME: Generates /llms.txt — LLM-friendly content index at site root for a14y. */ -}}
+{{- /* ABOUTME: Lists key sections and recent posts in a compact, LLM-readable format. */ -}}
+# {{ .Site.Title | htmlUnescape }}
+
+> {{ (.Site.Params.description | default (printf "Personal blog of %s." (.Site.Params.author.name | default "Harper Reed"))) | htmlUnescape }}
+
+Author: {{ .Site.Params.author.name | default "Harper Reed" | htmlUnescape }} (<{{ .Site.Params.email }}>)
+Site:   {{ .Site.BaseURL }}
+
+## Primary sections
+
+- [Posts]({{ .Site.BaseURL }}posts/): Long-form essays on engineering, AI/LLMs, and product work.
+- [Notes]({{ .Site.BaseURL }}notes/): Short micro-posts.
+- [Links]({{ .Site.BaseURL }}links/): Curated links.
+- [Books]({{ .Site.BaseURL }}books/): Reading list.
+- [Music]({{ .Site.BaseURL }}music/): Listening log.
+- [About]({{ .Site.BaseURL }}about/): About the author.
+- [Colophon]({{ .Site.BaseURL }}colophon/): Site terminology, tools, and credits.
+
+## Machine endpoints
+
+- [sitemap.xml]({{ .Site.BaseURL }}sitemap.xml)
+- [sitemap.md]({{ .Site.BaseURL }}sitemap.md)
+- [AGENTS.md]({{ .Site.BaseURL }}AGENTS.md)
+- [RSS]({{ .Site.BaseURL }}index.xml)
+- Markdown mirror: append `index.md` to any page URL.
+
+## Recent posts
+
+{{ $posts := where .Site.RegularPages "Section" "post" }}
+{{ range first 25 $posts.ByDate.Reverse -}}
+- [{{ .Title | htmlUnescape }}]({{ .Permalink }}): {{ with .Description }}{{ . | plainify | htmlUnescape }}{{ else }}{{ .Summary | plainify | truncate 140 | htmlUnescape }}{{ end }}
+{{ end }}
+
+## Optional
+
+- [Tags]({{ .Site.BaseURL }}categories/)
+- [Translations]({{ .Site.BaseURL }}translations/)

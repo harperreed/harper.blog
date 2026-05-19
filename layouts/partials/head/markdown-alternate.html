@@ -1,0 +1,5 @@
+{{/* ABOUTME: Emits <link rel="alternate" type="text/markdown"> for the page (a14y markdown.alternate-link). */}}
+{{/* ABOUTME: Points to the Markdown output format mirror at {permalink}index.md. */}}
+{{- with .OutputFormats.Get "markdown" -}}
+<link rel="alternate" type="text/markdown" href="{{ .Permalink }}" title="{{ $.Title }} (Markdown)" />
+{{- end -}}

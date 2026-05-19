@@ -1,0 +1,7 @@
+# Custom media types for agent-readability output formats (a14y).
+
+["text/plain"]
+suffixes = ["txt"]
+
+["text/markdown"]
+suffixes = ["md"]

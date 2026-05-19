@@ -1,0 +1,48 @@
+{{/* ABOUTME: Emits JSON-LD BreadcrumbList for the current page (a14y html.json-ld.breadcrumb). */}}
+{{/* ABOUTME: Walks .Ancestors to build a structured breadcrumb trail back to the site root. */}}
+
+{{- $items := slice -}}
+{{- $position := 1 -}}
+
+{{/* Site root is always the first crumb */}}
+{{- $items = $items | append (dict
+  "@type" "ListItem"
+  "position" $position
+  "name" .Site.Title
+  "item" .Site.BaseURL
+) -}}
+
+{{/* Walk ancestors in reverse (root → current) and append each */}}
+{{- $ancestors := .Ancestors.Reverse -}}
+{{- range $ancestors -}}
+  {{- if and (ne .Permalink $.Site.BaseURL) (ne .Kind "home") -}}
+    {{- $position = add $position 1 -}}
+    {{- $items = $items | append (dict
+      "@type" "ListItem"
+      "position" $position
+      "name" (.Title | default .Section)
+      "item" .Permalink
+    ) -}}
+  {{- end -}}
+{{- end -}}
+
+{{/* Current page (skip if it's home, since home is already item 1) */}}
+{{- if ne .Kind "home" -}}
+  {{- $position = add $position 1 -}}
+  {{- $items = $items | append (dict
+    "@type" "ListItem"
+    "position" $position
+    "name" (.Title | default .Section | default "Page")
+    "item" .Permalink
+  ) -}}
+{{- end -}}
+
+{{- $breadcrumb := dict
+  "@context" "https://schema.org"
+  "@type" "BreadcrumbList"
+  "itemListElement" $items
+-}}
+
+<script type="application/ld+json">
+{{ $breadcrumb | jsonify (dict "indent" "  ") | safeJS }}
+</script>
