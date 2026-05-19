@@ -1,5 +1,5 @@
-home = ['html', 'rss', 'AgentsMD', 'LLMSTxt', 'SitemapMD']
+home = ['html', 'rss', 'Markdown', 'AgentsMD', 'LLMSTxt', 'SitemapMD']
 section = ['html', 'rss', 'Markdown']
-taxonomy = ['html']
-term = ['html']
+taxonomy = ['html', 'Markdown']
+term = ['html', 'Markdown']
 page = ['html', 'Markdown']
