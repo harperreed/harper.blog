@@ -1,0 +1,68 @@
+added_at: '2026-05-22T03:05:46Z'
+album: Dammit (After Dark)
+album_image: https://i.scdn.co/image/ab67616d0000b273e81549f11eb8be92029ed3e0
+artist: Dead On A Sunday
+duration_ms: 222857
+id: 1K65KZUE4H4g0Vl1AuhJKR
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/2y19rzmHIF4YOLHm7AW0pl
+      href: https://api.spotify.com/v1/artists/2y19rzmHIF4YOLHm7AW0pl
+      id: 2y19rzmHIF4YOLHm7AW0pl
+      name: Dead On A Sunday
+      type: artist
+      uri: spotify:artist:2y19rzmHIF4YOLHm7AW0pl
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/5e8z5aonO7aV5aS6mHBMfx
+    href: https://api.spotify.com/v1/albums/5e8z5aonO7aV5aS6mHBMfx
+    id: 5e8z5aonO7aV5aS6mHBMfx
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273e81549f11eb8be92029ed3e0
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02e81549f11eb8be92029ed3e0
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851e81549f11eb8be92029ed3e0
+      width: 64
+    is_playable: true
+    name: Dammit (After Dark)
+    release_date: '2022-09-19'
+    release_date_precision: day
+    total_tracks: 1
+    type: album
+    uri: spotify:album:5e8z5aonO7aV5aS6mHBMfx
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/2y19rzmHIF4YOLHm7AW0pl
+    href: https://api.spotify.com/v1/artists/2y19rzmHIF4YOLHm7AW0pl
+    id: 2y19rzmHIF4YOLHm7AW0pl
+    name: Dead On A Sunday
+    type: artist
+    uri: spotify:artist:2y19rzmHIF4YOLHm7AW0pl
+  available_markets: []
+  disc_number: 1
+  duration_ms: 222857
+  explicit: true
+  external_ids:
+    isrc: SGB502250925
+  external_urls:
+    spotify: https://open.spotify.com/track/1K65KZUE4H4g0Vl1AuhJKR
+  href: https://api.spotify.com/v1/tracks/1K65KZUE4H4g0Vl1AuhJKR
+  id: 1K65KZUE4H4g0Vl1AuhJKR
+  is_local: false
+  is_playable: true
+  name: Dammit (After Dark)
+  popularity: 22
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:1K65KZUE4H4g0Vl1AuhJKR
+spotify_url: https://open.spotify.com/track/1K65KZUE4H4g0Vl1AuhJKR
+title: Dammit (After Dark)
