@@ -1,0 +1,733 @@
+asin: null
+authors:
+  author:
+    average_rating: '4.08'
+    id: '55459441'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1743181525p5/55459441.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/55459441.Brian_Anderson
+    name: Brian             Anderson
+    ratings_count: '230'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1743181525p2/55459441.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '53'
+average_rating: '4.08'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2026-06-08T00:00:00-07:00'
+date_added: '2026-05-15T22:23:47-07:00'
+description: null
+edition_information: null
+format: null
+id: '217872674'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+is_ebook: 'true'
+isbn: '1250319684'
+isbn13: '9781250319685'
+json: '{"id": "217872674", "isbn": "1250319684", "isbn13": "9781250319685", "text_reviews_count":
+  {"@type": "integer", "#text": "1"}, "uri": "kca://book/amzn1.gr.book.v3.qsofeKohB0tRbAfL",
+  "title": "Loud and Clear: The Grateful Dead\u2019s Wall of Sound and the Quest for
+  Audio Perfection", "title_without_series": "Loud and Clear: The Grateful Dead\u2019s
+  Wall of Sound and the Quest for Audio Perfection", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/217872674-loud-and-clear",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "4.08", "ratings_count": "230", "description": null, "authors": {"author": {"id":
+  "55459441", "name": "Brian             Anderson", "role": null, "image_url": {"@nophoto":
+  "false", "#text": "https://images.gr-assets.com/authors/1743181525p5/55459441.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1743181525p2/55459441.jpg"},
+  "link": "https://www.goodreads.com/author/show/55459441.Brian_Anderson", "average_rating":
+  "4.08", "ratings_count": "230", "text_reviews_count": "53"}}, "published": null,
+  "work": {"id": "223888216", "uri": "kca://work/amzn1.gr.work.v3.tVOLBiFULAXubpld"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/8605163635",
+  "read_at": "Mon Jun 08 00:00:00 -0700 2026", "started_at": "Fri May 15 00:00:00
+  -0700 2026", "date_added": "Fri May 15 22:23:47 -0700 2026", "date": "Mon Jun 08
+  00:00:00 -0700 2026"}'
+kindle_asin: B0CW1GS6G2
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/217872674-loud-and-clear
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '3359'
+    '@name': to-read
+  - '@count': '80'
+    '@name': currently-reading
+  - '@count': '20'
+    '@name': music
+  - '@count': '9'
+    '@name': non-fiction
+  - '@count': '5'
+    '@name': grateful-dead
+  - '@count': '5'
+    '@name': history
+  - '@count': '3'
+    '@name': did-not-finish
+  - '@count': '3'
+    '@name': owned
+  - '@count': '3'
+    '@name': libro-fm
+  - '@count': '3'
+    '@name': giveaways
+  - '@count': '2'
+    '@name': library
+  - '@count': '2'
+    '@name': nonfiction
+  - '@count': '2'
+    '@name': collection
+  - '@count': '2'
+    '@name': to-read-non-fiction
+  - '@count': '2'
+    '@name': giveaways-entered
+  - '@count': '2'
+    '@name': netgalley
+  - '@count': '1'
+    '@name': tbr-stack
+  - '@count': '1'
+    '@name': to-read-on-the-shelf
+  - '@count': '1'
+    '@name': music-library-nyc
+  - '@count': '1'
+    '@name': '26'
+  - '@count': '1'
+    '@name': non-fictions
+  - '@count': '1'
+    '@name': bard-loc-talkingbooks-performance
+  - '@count': '1'
+    '@name': music-biography
+  - '@count': '1'
+    '@name': listened
+  - '@count': '1'
+    '@name': hardcover
+  - '@count': '1'
+    '@name': 2025-completed
+  - '@count': '1'
+    '@name': on-the-road
+  - '@count': '1'
+    '@name': mid-hudson-libraries
+  - '@count': '1'
+    '@name': nonfic
+  - '@count': '1'
+    '@name': d
+  - '@count': '1'
+    '@name': books-i-own
+  - '@count': '1'
+    '@name': kindle
+  - '@count': '1'
+    '@name': kindle-advanced
+  - '@count': '1'
+    '@name': subcultures
+  - '@count': '1'
+    '@name': read-2025-2026
+  - '@count': '1'
+    '@name': biographies
+  - '@count': '1'
+    '@name': finished
+  - '@count': '1'
+    '@name': collection-non-fiction
+  - '@count': '1'
+    '@name': rock-and-roll
+  - '@count': '1'
+    '@name': sound-reinforcement
+  - '@count': '1'
+    '@name': wall-of-sound
+  - '@count': '1'
+    '@name': audio-book
+  - '@count': '1'
+    '@name': 2025-books
+  - '@count': '1'
+    '@name': xmisc
+  - '@count': '1'
+    '@name': to-finish
+  - '@count': '1'
+    '@name': music-stuff
+  - '@count': '1'
+    '@name': science-technology
+  - '@count': '1'
+    '@name': 1960s-counterculture-etc
+  - '@count': '1'
+    '@name': new-nonfiction-books-for-adults
+  - '@count': '1'
+    '@name': music-and-art
+  - '@count': '1'
+    '@name': 2025-challenge-words
+  - '@count': '1'
+    '@name': science
+  - '@count': '1'
+    '@name': musician
+  - '@count': '1'
+    '@name': on-deck-non-fiction
+  - '@count': '1'
+    '@name': the-bookshelf
+  - '@count': '1'
+    '@name': imcpl-news-nyt-nonfic-bestsellers
+  - '@count': '1'
+    '@name': 2025-releases-nonfiction
+  - '@count': '1'
+    '@name': choice-2025
+  - '@count': '1'
+    '@name': recs
+  - '@count': '1'
+    '@name': aaaa
+  - '@count': '1'
+    '@name': aaa
+  - '@count': '1'
+    '@name': aa
+  - '@count': '1'
+    '@name': a
+  - '@count': '1'
+    '@name': owned-tbr
+  - '@count': '1'
+    '@name': my-library
+  - '@count': '1'
+    '@name': audiobook
+  - '@count': '1'
+    '@name': audiobooks-2
+  - '@count': '1'
+    '@name': to-acquire
+  - '@count': '1'
+    '@name': sounds
+  - '@count': '1'
+    '@name': giveaway-entries
+  - '@count': '1'
+    '@name': art-music-language
+  - '@count': '1'
+    '@name': audio-books-owned
+  - '@count': '1'
+    '@name': reviewed
+  - '@count': '1'
+    '@name': arc-free-books
+  - '@count': '1'
+    '@name': egalley
+  - '@count': '1'
+    '@name': downloads
+  - '@count': '1'
+    '@name': challenge
+  - '@count': '1'
+    '@name': gotta-get
+  - '@count': '1'
+    '@name': for-my-child
+  - '@count': '1'
+    '@name': film-music-pop-culture-tv
+  - '@count': '1'
+    '@name': sorting
+  - '@count': '1'
+    '@name': biography-memoir
+  - '@count': '1'
+    '@name': mike
+  - '@count': '1'
+    '@name': tentative
+  - '@count': '1'
+    '@name': craft
+  - '@count': '1'
+    '@name': 2025-to-read-list
+  - '@count': '1'
+    '@name': giveaway-books
+  - '@count': '1'
+    '@name': memoirs-and-nonfiction
+  - '@count': '1'
+    '@name': giveaway
+  - '@count': '1'
+    '@name': deleted
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '230'
+read_at: '2026-06-08T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/8605163635
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/217872674-loud-and-clear\"\
+  >Loud and Clear Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1250319684&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/217872674-loud-and-clear?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '302237'
+        link: https://www.goodreads.com/author/show/302237.Jim_Newton
+        name: Jim Newton
+    average_rating: '4.08'
+    id: '223444751'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: 0593447077
+    isbn13: '9780593447079'
+    link: https://www.goodreads.com/book/show/223444751-here-beside-the-rising-tide
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '230'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: 'Here Beside the Rising Tide: Jerry Garcia, the Grateful Dead, and an American
+      Awakening'
+    title_without_series: 'Here Beside the Rising Tide: Jerry Garcia, the Grateful
+      Dead, and an American Awakening'
+    uri: kca://book/amzn1.gr.book.v3.zRJ3tCsQGX2AWe8J
+    work:
+      id: '230505972'
+  - authors:
+      author:
+        id: '20283162'
+        link: https://www.goodreads.com/author/show/20283162.Mike_Ayers
+        name: Mike  Ayers
+    average_rating: '4.08'
+    id: '217388025'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: '1250287456'
+    isbn13: '9781250287458'
+    link: https://www.goodreads.com/book/show/217388025-sharing-in-the-groove
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '230'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: 'Sharing in the Groove: The Untold Story of the ''90s Jam Band Explosion
+      and the Scene That Followed'
+    title_without_series: 'Sharing in the Groove: The Untold Story of the ''90s Jam
+      Band Explosion and the Scene That Followed'
+    uri: kca://book/amzn1.gr.book.v3.aPYutfyoNZy43sO_
+    work:
+      id: '224106842'
+  - authors:
+      author:
+        id: '35119'
+        link: https://www.goodreads.com/author/show/35119.Peter_Ames_Carlin
+        name: Peter Ames Carlin
+    average_rating: '4.08'
+    id: '221251885'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738178624l/221251885._SX98_.jpg
+    isbn: 0385551533
+    isbn13: '9780385551533'
+    link: https://www.goodreads.com/book/show/221251885-tonight-in-jungleland
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '230'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738178624l/221251885._SY75_.jpg
+    title: 'Tonight in Jungleland: The Making of Born to Run'
+    title_without_series: 'Tonight in Jungleland: The Making of Born to Run'
+    uri: kca://book/amzn1.gr.book.v3.XFrwGM29b5ssuLnF
+    work:
+      id: '228216487'
+  - authors:
+      author:
+        id: '4881'
+        link: https://www.goodreads.com/author/show/4881.Robert_Hunter
+        name: Robert Hunter
+    average_rating: '4.08'
+    id: '210100393'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: 0306835150
+    isbn13: '9780306835155'
+    link: https://www.goodreads.com/book/show/210100393-the-silver-snarling-trumpet
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '230'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: "The Silver Snarling Trumpet: The Birth of the Grateful Dead\u2015The Lost\
+      \ Manuscript of Robert Hunter"
+    title_without_series: "The Silver Snarling Trumpet: The Birth of the Grateful\
+      \ Dead\u2015The Lost Manuscript of Robert Hunter"
+    uri: kca://book/amzn1.gr.book.v3.yvSaemxiS5hT2edh
+    work:
+      id: '216311828'
+  - authors:
+      author:
+        id: '4887'
+        link: https://www.goodreads.com/author/show/4887.Dennis_McNally
+        name: Dennis McNally
+    average_rating: '4.08'
+    id: '7283'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: 0767911865
+    isbn13: '9780767911863'
+    link: https://www.goodreads.com/book/show/7283.A_Long_Strange_Trip
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '230'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: 'A Long Strange Trip: The Inside History of the Grateful Dead'
+    title_without_series: 'A Long Strange Trip: The Inside History of the Grateful
+      Dead'
+    uri: kca://book/amzn1.gr.book.v1.70CNWTdmz0LLMpZXJW9Z7Q
+    work:
+      id: '10413'
+  - authors:
+      author:
+        id: '94131'
+        link: https://www.goodreads.com/author/show/94131.Mike_Campbell
+        name: Mike Campbell
+    average_rating: '4.08'
+    id: '220923169'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: 0306833190
+    isbn13: '9780306833199'
+    link: https://www.goodreads.com/book/show/220923169-heartbreaker
+    num_pages: '448'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '230'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: Heartbreaker
+    title_without_series: Heartbreaker
+    uri: kca://book/amzn1.gr.book.v3.MT2SvNVRjQSQ3cyI
+    work:
+      id: '227877183'
+  - authors:
+      author:
+        id: '35119'
+        link: https://www.goodreads.com/author/show/35119.Peter_Ames_Carlin
+        name: Peter Ames Carlin
+    average_rating: '4.08'
+    id: '207611509'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715644257l/207611509._SX98_.jpg
+    isbn: 0385546947
+    isbn13: '9780385546942'
+    link: https://www.goodreads.com/book/show/207611509-the-name-of-this-band-is-r-e-m
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '230'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715644257l/207611509._SX50_.jpg
+    title: The Name of This Band Is R.E.M.
+    title_without_series: The Name of This Band Is R.E.M.
+    uri: kca://book/amzn1.gr.book.v3.otgd7Xw91TsFMJBs
+    work:
+      id: '213681793'
+  - authors:
+      author:
+        id: '173095'
+        link: https://www.goodreads.com/author/show/173095.Paul_Myers
+        name: Paul Myers
+    average_rating: '4.08'
+    id: '223602579'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1737045585l/223602579._SX98_.jpg
+    isbn: '1487009526'
+    isbn13: '9781487009526'
+    link: https://www.goodreads.com/book/show/223602579-john-candy
+    num_pages: '367'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '230'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1737045585l/223602579._SY75_.jpg
+    title: 'John Candy: A Life in Comedy'
+    title_without_series: 'John Candy: A Life in Comedy'
+    uri: kca://book/amzn1.gr.book.v3.RVFa7PhABWwbQ6_h
+    work:
+      id: '230669963'
+  - authors:
+      author:
+        id: '235'
+        link: https://www.goodreads.com/author/show/235.Thomas_Pynchon
+        name: Thomas Pynchon
+    average_rating: '4.08'
+    id: '230910361'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1752683302l/230910361._SX98_.jpg
+    isbn: '1594206104'
+    isbn13: '9781594206108'
+    link: https://www.goodreads.com/book/show/230910361-shadow-ticket
+    num_pages: '293'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '230'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1752683302l/230910361._SY75_.jpg
+    title: Shadow Ticket
+    title_without_series: Shadow Ticket
+    uri: kca://book/amzn1.gr.book.v3.myta6SSnHD-_RfKd
+    work:
+      id: '243916815'
+  - authors:
+      author:
+        id: '189155'
+        link: https://www.goodreads.com/author/show/189155.James_Kaplan
+        name: James Kaplan
+    average_rating: '4.08'
+    id: '174156154'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: '0525561005'
+    isbn13: '9780525561002'
+    link: https://www.goodreads.com/book/show/174156154-3-shades-of-blue
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '230'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: '3 Shades of Blue: Miles Davis, John Coltrane, Bill Evans, and the Lost
+      Empire of Cool'
+    title_without_series: '3 Shades of Blue: Miles Davis, John Coltrane, Bill Evans,
+      and the Lost Empire of Cool'
+    uri: kca://book/amzn1.gr.book.v3.A8LFo5zyuUWSc8pN
+    work:
+      id: '181587453'
+  - authors:
+      author:
+        id: '65570'
+        link: https://www.goodreads.com/author/show/65570.Tom_Piazza
+        name: Tom  Piazza
+    average_rating: '4.08'
+    id: '223736297'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1745946156l/223736297._SX98_.jpg
+    isbn: '1324050853'
+    isbn13: '9781324050858'
+    link: https://www.goodreads.com/book/show/223736297-living-in-the-present-with-john-prine
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '230'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1745946156l/223736297._SY75_.jpg
+    title: Living in the Present with John Prine
+    title_without_series: Living in the Present with John Prine
+    uri: kca://book/amzn1.gr.book.v3.x_aCN2WZ9eMj_2AF
+    work:
+      id: '230831799'
+  - authors:
+      author:
+        id: '53547297'
+        link: https://www.goodreads.com/author/show/53547297.Chris_DeVille
+        name: Chris DeVille
+    average_rating: '4.08'
+    id: '222376974'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: '1250363381'
+    isbn13: '9781250363381'
+    link: https://www.goodreads.com/book/show/222376974-such-great-heights
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '230'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: 'Such Great Heights: The Complete Cultural History of the Indie Rock Explosion'
+    title_without_series: 'Such Great Heights: The Complete Cultural History of the
+      Indie Rock Explosion'
+    uri: kca://book/amzn1.gr.book.v3.M6Y5x_Ck-3Qea7WQ
+    work:
+      id: '229348688'
+  - authors:
+      author:
+        id: '20127'
+        link: https://www.goodreads.com/author/show/20127.Paul_McCartney
+        name: Paul McCartney
+    average_rating: '4.08'
+    id: '228369543'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1762461651l/228369543._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/228369543-wings
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '230'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1762461651l/228369543._SY75_.jpg
+    title: 'Wings: The Story of a Band on the Run'
+    title_without_series: 'Wings: The Story of a Band on the Run'
+    uri: kca://book/amzn1.gr.book.v3.WfFRrw4bQm5yD0nB
+    work:
+      id: '238011726'
+  - authors:
+      author:
+        id: '58576767'
+        link: https://www.goodreads.com/author/show/58576767.Barry_Darsow
+        name: Barry Darsow
+    average_rating: '4.08'
+    id: '242610748'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/242610748-sickles-studs-stolen-cars
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '230'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: 'Sickles, Studs & Stolen Cars: The Many Faces of Barry Darsow'
+    title_without_series: 'Sickles, Studs & Stolen Cars: The Many Faces of Barry Darsow'
+    uri: kca://book/amzn1.gr.book.v3.tD-mUY9d7YrXB1qQ
+    work:
+      id: '263364536'
+  - authors:
+      author:
+        id: '22380'
+        link: https://www.goodreads.com/author/show/22380.Peter_Wolf
+        name: Peter Wolf
+    average_rating: '4.08'
+    id: '215748429'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: 0316571709
+    isbn13: '9780316571708'
+    link: https://www.goodreads.com/book/show/215748429-waiting-on-the-moon
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '230'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: 'Waiting on the Moon: Artists, Poets, Drifters, Grifters, and Goddesses'
+    title_without_series: 'Waiting on the Moon: Artists, Poets, Drifters, Grifters,
+      and Goddesses'
+    uri: kca://book/amzn1.gr.book.v3.nY8vFOpDjLnYIfa1
+    work:
+      id: '222164925'
+  - authors:
+      author:
+        id: '246304'
+        link: https://www.goodreads.com/author/show/246304.Jonathan_Gould
+        name: Jonathan Gould
+    average_rating: '4.08'
+    id: '218129473'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: 0063022982
+    isbn13: '9780063022980'
+    link: https://www.goodreads.com/book/show/218129473-burning-down-the-house
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '230'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: "Burning Down the House: Talking Heads and the New York Scene That Transformed\
+      \ Rock \u2013 The Definitive Band Biography of the 1970s Avant-Garde"
+    title_without_series: "Burning Down the House: Talking Heads and the New York\
+      \ Scene That Transformed Rock \u2013 The Definitive Band Biography of the 1970s\
+      \ Avant-Garde"
+    uri: kca://book/amzn1.gr.book.v3.887_TGnw9yTYiKJt
+    work:
+      id: '224674082'
+  - authors:
+      author:
+        id: '33773'
+        link: https://www.goodreads.com/author/show/33773.Daniel_H_Wilson
+        name: Daniel H. Wilson
+    average_rating: '4.08'
+    id: '223362313'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1742307144l/223362313._SX98_.jpg
+    isbn: 0385551118
+    isbn13: '9780385551113'
+    link: https://www.goodreads.com/book/show/223362313-hole-in-the-sky
+    num_pages: '268'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '230'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1742307144l/223362313._SY75_.jpg
+    title: Hole in the Sky
+    title_without_series: Hole in the Sky
+    uri: kca://book/amzn1.gr.book.v3.0yGJy2y_f0NhETcj
+    work:
+      id: '230425272'
+  - authors:
+      author:
+        id: '47341'
+        link: https://www.goodreads.com/author/show/47341.Cameron_Crowe
+        name: Cameron Crowe
+    average_rating: '4.08'
+    id: '224004354'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1746488823l/224004354._SX98_.jpg
+    isbn: '1668059436'
+    isbn13: '9781668059432'
+    link: https://www.goodreads.com/book/show/224004354-the-uncool
+    num_pages: '322'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '230'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1746488823l/224004354._SY75_.jpg
+    title: The Uncool
+    title_without_series: The Uncool
+    uri: kca://book/amzn1.gr.book.v3.Kj9MuAPGcapXQNvS
+    work:
+      id: '231199922'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+started_at: '2026-05-15T00:00:00-07:00'
+text_reviews_count:
+  '#text': '1'
+  '@type': integer
+title: "Loud and Clear: The Grateful Dead\u2019s Wall of Sound and the Quest for Audio\
+  \ Perfection"
+title_without_series: "Loud and Clear: The Grateful Dead\u2019s Wall of Sound and\
+  \ the Quest for Audio Perfection"
+uri: kca://book/amzn1.gr.book.v3.qsofeKohB0tRbAfL
+url: https://www.goodreads.com/book/show/217872674-loud-and-clear
+work:
+  id: '223888216'
+  uri: kca://work/amzn1.gr.work.v3.tVOLBiFULAXubpld
