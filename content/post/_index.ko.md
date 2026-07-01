@@ -5,9 +5,6 @@ menu:
     footer:
         name: 게시물
         weight: 2
-    main:
-        name: 게시물
-        weight: 2
 nofeed: true
 slug: posts
 title: 게시물

@@ -1,24 +1,2 @@
-.link-posts {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.link-filter {
-    composes: media-filter;
-}
-
-.link-domain {
-    composes: media-domain;
-}
-
-.link-title {
-    composes: media-title;
-}
-
-.link-posts a[target="_blank"]::before {
-    content: "🔗 ";
-    color: var(--color-secondary);
-    text-decoration: none;
-    speak: none;
-}
+/* ABOUTME: Link-specific styles (now uses shared dense-list classes) */
+/* ABOUTME: Kept for any future link-specific overrides */

@@ -1,45 +1,50 @@
+{{- /* ABOUTME: Music section list page with dense row layout */ -}}
+{{- /* ABOUTME: Shows date, title, and artist per track in consistent rows */ -}}
 {{ define "main" }}
 <article>
-    {{ .Content }} {{ if .Data.Singular }}
-    <h3 class="music-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
-    {{ end }} {{ $pages := .Pages }} {{ if not $pages }}
-    <ul class="music-posts">
-        <li>{{ i18n "no-posts" }}</li>
-    </ul>
-    {{ else }} {{ $paginator := .Paginate $pages 20 }}
-    <ul class="music-posts">
-        {{ range $paginator.Pages.GroupByDate "2006-01-02" }} {{ range $index,
-        $page := .Pages }} {{ $url := urls.Parse .Params.original_url}}
+    {{ .Content }}
+
+    {{ if .Data.Singular }}
+    <h3 class="section-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
+    {{ end }}
+
+    <div class="view-toggle">
+        <a class="active">List</a>
+        <a href="{{ "/media/music/grid" | relLangURL }}">Grid</a>
+    </div>
+
+    {{ $pages := .Pages }}
+    {{ if not $pages }}
+    <p>{{ i18n "no-posts" }}</p>
+    {{ else }}
+    {{ $paginator := .Paginate $pages 20 }}
+    <ul class="dense-list">
+        {{ range $paginator.Pages }}
         <li>
-            {{ if eq $index 0 }}
-            <span class="date">
-                <i>
-                    <time datetime='{{ .Date.Format "2006-01-02" }}' >
-                        {{ .Date.Format (default "2006-01-02"
-                        $.Site.Params.dateFormat) }}
-                    </time>
-                </i>
+            <span class="dense-date">
+                <time datetime='{{ .Date.Format "2006-01-02" }}'>
+                    {{ .Date.Format (default "2006-01-02" $.Site.Params.dateFormat) }}
+                </time>
             </span>
-            {{ else }}
-            <span></span>
-            {{ end }} {{ if .Params.spotify_url }}
+            {{ if .Params.spotify_url }}
             <a
                 href="{{ .RelPermalink }}"
-                target="_blank"
-                rel="noopener noreferrer"
                 data-tinylytics-event="outbound.spotify"
                 data-tinylytics-event-value="{{ .Title }}"
             >
-                <span class="music-title">{{ .Title }}</span>
+                <span class="dense-title">{{ .Title }}</span>
                 {{ with .Params.artist }}
-                <span class="music-domain">(by {{ . }})</span>
+                <span class="dense-meta">({{ . }})</span>
                 {{ end }}
             </a>
-            {{ else }} {{ .Title }} {{ end }}
+            {{ else }}
+            <span class="dense-title">{{ .Title }}</span>
+            {{ end }}
         </li>
-        {{ end }} {{ end }}
+        {{ end }}
     </ul>
 
-    {{ partial "pagination.html" . }} {{ end }}
+    {{ partial "pagination.html" . }}
+    {{ end }}
 </article>
 {{ end }}

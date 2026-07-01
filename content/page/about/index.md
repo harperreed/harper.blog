@@ -8,9 +8,6 @@ nofeed: true
 description: About page for harper.blog
 weight: 3
 menu:
-    main:
-        name: About
-        weight: 6
     footer:
         name: About
         weight: 2

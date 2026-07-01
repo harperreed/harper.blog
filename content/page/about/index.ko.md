@@ -5,9 +5,6 @@ menu:
     footer:
         name: 안녕하세요
         weight: 2
-    main:
-        name: 안녕하세요
-        weight: 6
 nofeed: true
 title: "안녕하세요"
 translationKey: about

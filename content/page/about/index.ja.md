@@ -5,9 +5,6 @@ menu:
     footer:
         name: こんにちは
         weight: 2
-    main:
-        name: こんにちは
-        weight: 4
 nofeed: true
 title: こんにちは
 translationKey: about

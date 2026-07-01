@@ -1,9 +1,6 @@
 ---
 description: Una colección de libros, música y enlaces interesantes que he disfrutado
 draft: true
-menu:
-    main:
-        weight: 5
 title: "Medios"
 translationKey: media
 ---

@@ -1,32 +1,36 @@
+{{- /* ABOUTME: Posts section list page with feed-style article blocks */ -}}
+{{- /* ABOUTME: Shows title, date, and summary excerpt per post, with pagination */ -}}
 {{ define "main" }}
 <article>
-  {{ .Content }}
-    
-  {{ if .Data.Singular }}
-    <h3 class="blog-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
-  {{ end }}
-  <ul class="blog-posts">
-    {{ range .Pages }}
-    <li>
-      <span>
-        <i>
-          <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
-            {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
-          </time>
-        </i>
-      </span>
-      {{ if .Params.link }}
-        <a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer">{{ .Title }} ↪</a>
-      {{ else }}
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      {{ end }}
-    </li>
-    {{ else }}
-    <li>
-      {{ i18n "no-posts" }}
-    </li>
+    {{ .Content }}
+
+    {{ if .Data.Singular }}
+    <h3 class="section-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
     {{ end }}
-  </ul>
- 
+
+    {{ $paginator := .Paginate .Pages 20 }}
+    <div class="feed">
+        {{ range $paginator.Pages }}
+        <article class="feed-item">
+            <h2 class="feed-title">
+                {{ if .Params.link }}
+                <a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer">{{ .Title }} ↪</a>
+                {{ else }}
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                {{ end }}
+            </h2>
+            <time class="feed-date" datetime='{{ .Date.Format "2006-01-02" }}'>
+                {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
+            </time>
+            {{ with .Summary }}
+            <p class="feed-summary">{{ . | plainify | truncate 200 }}</p>
+            {{ end }}
+        </article>
+        {{ else }}
+        <p>{{ i18n "no-posts" }}</p>
+        {{ end }}
+    </div>
+
+    {{ partial "pagination.html" . }}
 </article>
 {{ end }}
