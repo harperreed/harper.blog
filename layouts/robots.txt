@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
-Disallow: /.well-known/
+Allow: /.well-known/llms.txt
+Allow: /.well-known/agent-skills/
+Disallow: /.well-known/api-catalog
 Sitemap: {{ "sitemap.xml" | absURL }}
 Content-Signal: ai-train=yes, search=yes, ai-generate=yes

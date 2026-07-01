@@ -13,3 +13,9 @@ identifier = "personal"
 name = "Harper.lol"
 url = "https://harper.lol"
 weight = 5
+
+[[footer]]
+identifier = "glossary"
+name = "用語集 (Glossary)"
+url = "/ja/colophon/"
+weight = 6

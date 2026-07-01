@@ -1,8 +1,37 @@
 
 # MediaRSS format for aggregating media content (books, music, links)
-[outputFormats.MediaRSS]
+[MediaRSS]
 mediaType = "application/rss+xml"
 baseName = "media"
 isPlainText = true
 rel = "alternate"
 
+# Markdown mirror: emits {permalink}index.md for each page and section
+# Improves agent readability (a14y markdown.mirror-suffix / markdown.alternate-link)
+[Markdown]
+mediaType = "text/markdown"
+baseName = "index"
+isPlainText = true
+rel = "alternate"
+permalinkable = true
+
+# AGENTS.md at site root — agent skill manifest (a14y agents-md.exists)
+[AgentsMD]
+mediaType = "text/markdown"
+baseName = "AGENTS"
+isPlainText = true
+notAlternative = true
+
+# llms.txt at site root — LLM-friendly content index (a14y llms-txt.exists)
+[LLMSTxt]
+mediaType = "text/plain"
+baseName = "llms"
+isPlainText = true
+notAlternative = true
+
+# sitemap.md at site root — human/LLM-readable sitemap (a14y sitemap-md.exists)
+[SitemapMD]
+mediaType = "text/markdown"
+baseName = "sitemap"
+isPlainText = true
+notAlternative = true

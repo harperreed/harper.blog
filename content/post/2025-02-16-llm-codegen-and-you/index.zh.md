@@ -190,7 +190,7 @@ LLM:generate_readme         Generate README.md from repository content stored in
 
 生成 `output.txt` 后，用 [LLM](https://github.com/simonw/LLM) 做各种转换并保存为 markdown，例如：
 
-```
+```shell
 cat output.txt | LLM -t readme-gen > README.md
 cat output.txt | LLM -m claude-3.5-sonnet -t code-review-gen > code-review.md
 ```

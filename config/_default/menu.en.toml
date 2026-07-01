@@ -12,3 +12,9 @@ identifier = "home"
 name = "Harper.lol"
 url = "https://harper.lol"
 weight = 5
+
+[[footer]]
+identifier = "glossary"
+name = "Glossary"
+url = "/colophon/"
+weight = 6

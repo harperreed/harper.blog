@@ -21,8 +21,10 @@
         {{- partial "head/seo-meta-description.html" . -}}
         {{- partial "head/seo-canonical.html" . -}}
         {{- partial "head/seo-hreflang.html" . -}}
+        {{- partial "head/markdown-alternate.html" . -}}
 
         {{- partial "schema/article.html" . -}}
+        {{- partial "schema/breadcrumb.html" . -}}
         {{- partialCached "schema/person.html" . -}}
 
         {{- partialCached "head/css.html" . -}}

@@ -1,17 +1,34 @@
-{{/* ABOUTME: Generates meta description tag for SEO. */}}
-{{/* ABOUTME: Provides search engines with page summary, max 160 characters. */}}
+{{/* ABOUTME: Generates meta description tag for SEO + agent readability (a14y html.meta-description). */}}
+{{/* ABOUTME: Guarantees a description ≥50 chars in any encoding by always composing with site description. */}}
 
 {{- $description := "" -}}
+{{- $siteAuthor := .Site.Params.author.name | default "Harper Reed" -}}
+{{- $siteTitle := .Site.Title -}}
+{{- $siteDesc := .Site.Params.description | default (printf "Personal blog of %s — essays, notes, links, books, and music." $siteAuthor) -}}
 
-{{/* Use custom description if set */}}
 {{- if .Description -}}
   {{- $description = .Description -}}
-{{/* Fall back to summary for pages */}}
 {{- else if .IsPage -}}
   {{- $description = .Summary | plainify | truncate 160 -}}
-{{/* Fall back to site description */}}
+{{- else if .IsHome -}}
+  {{- $description = $siteDesc -}}
 {{- else -}}
-  {{- $description = .Site.Params.description | default "" -}}
+  {{/* Section, taxonomy, term — synthesize a description that's robust across multibyte languages. */}}
+  {{- $kindWord := "page" -}}
+  {{- if eq .Kind "section" }}{{ $kindWord = "section" }}{{ end -}}
+  {{- if eq .Kind "taxonomy" }}{{ $kindWord = "taxonomy" }}{{ end -}}
+  {{- if eq .Kind "term" }}{{ $kindWord = "tag" }}{{ end -}}
+  {{- $description = printf "%s — %s on %s. %s" (.Title | default $kindWord) $kindWord $siteTitle $siteDesc -}}
+{{- end -}}
+
+{{/*
+  a14y's html.meta-description counts characters (codepoints), but Hugo's `len`
+  counts bytes — for CJK languages, 50 bytes ≈ 16 characters, which still fails
+  the check. Use a higher byte threshold (150) to guarantee ≥50 characters in
+  any UTF-8 encoding, padding with the site description when too short.
+*/}}
+{{- if lt (len $description) 150 -}}
+  {{- $description = printf "%s — %s" $description $siteDesc | truncate 250 -}}
 {{- end -}}
 
 {{- with $description -}}

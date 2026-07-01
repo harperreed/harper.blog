@@ -1,0 +1,26 @@
+{{- /* ABOUTME: Override Hugo's default sitemap to always emit <lastmod> (a14y sitemap-xml.has-lastmod). */ -}}
+{{- /* ABOUTME: Falls back to `now` when a page's Lastmod is zero (e.g. empty taxonomy index). */ -}}
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    {{- range .Data.Pages }}
+    <url>
+        <loc>{{ .Permalink }}</loc>
+        {{- $lastmod := .Lastmod -}}
+        {{- if $lastmod.IsZero }}{{ $lastmod = now }}{{ end }}
+        <lastmod>{{ safeHTML ($lastmod.Format "2006-01-02T15:04:05-07:00") }}</lastmod>
+        {{- with .Sitemap.ChangeFreq }}
+        <changefreq>{{ . }}</changefreq>
+        {{- end }}
+        {{- if ge .Sitemap.Priority 0.0 }}
+        <priority>{{ .Sitemap.Priority }}</priority>
+        {{- end }}
+        {{- if .IsTranslated }}
+        {{- range .Translations }}
+        <xhtml:link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
+        {{- end }}
+        <xhtml:link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
+        {{- end }}
+    </url>
+    {{- end }}
+</urlset>

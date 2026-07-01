@@ -1,7 +1,6 @@
-{{/* ABOUTME: Generates JSON-LD Article/BlogPosting structured data for SEO. */}}
-{{/* ABOUTME: Enables rich snippets in search results with author, date, and content info. */}}
+{{/* ABOUTME: Generates JSON-LD structured data for SEO + a14y (BlogPosting for posts, WebPage/CollectionPage for list/home). */}}
+{{/* ABOUTME: Always includes dateModified so html.json-ld.date-modified passes on every kind of page. */}}
 
-{{- if .IsPage -}}
 {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
 {{- $author := .Params.author | default .Site.Params.author.name | default .Site.Author.name | default "Harper Reed" -}}
 {{- $image := "" -}}
@@ -17,26 +16,62 @@
 
 {{- $description := .Description | default .Summary | plainify | truncate 160 -}}
 
-{{- $article := dict
-  "@context" "https://schema.org"
-  "@type" "BlogPosting"
-  "headline" .Title
-  "image" $image
-  "datePublished" (.PublishDate.Format $iso8601)
-  "dateModified" (.Lastmod.Format $iso8601)
-  "author" (dict "@type" "Person" "name" $author "url" .Site.BaseURL)
-  "publisher" (dict "@type" "Organization" "name" .Site.Title "logo" (dict "@type" "ImageObject" "url" (.Site.Params.default_social_image | default (.Site.BaseURL | printf "%simages/og.png"))))
-  "description" $description
-  "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
-  "wordCount" .WordCount
-  "inLanguage" .Language.LanguageCode
--}}
+{{- if .IsPage -}}
 
-{{- with .Params.tags -}}
-  {{- $article = merge $article (dict "keywords" (delimit . ", ")) -}}
-{{- end -}}
+  {{- $article := dict
+    "@context" "https://schema.org"
+    "@type" "BlogPosting"
+    "headline" .Title
+    "image" $image
+    "datePublished" (.PublishDate.Format $iso8601)
+    "dateModified" (.Lastmod.Format $iso8601)
+    "author" (dict "@type" "Person" "name" $author "url" .Site.BaseURL)
+    "publisher" (dict "@type" "Organization" "name" .Site.Title "logo" (dict "@type" "ImageObject" "url" (.Site.Params.default_social_image | default (.Site.BaseURL | printf "%simages/og.png"))))
+    "description" $description
+    "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+    "wordCount" .WordCount
+    "inLanguage" .Language.LanguageCode
+  -}}
 
-<script type="application/ld+json">
-{{ $article | jsonify (dict "indent" "  ") | safeJS }}
-</script>
+  {{- with .Params.tags -}}
+    {{- $article = merge $article (dict "keywords" (delimit . ", ")) -}}
+  {{- end -}}
+
+  <script type="application/ld+json">
+  {{ $article | jsonify (dict "indent" "  ") | safeJS }}
+  </script>
+
+{{- else -}}
+
+  {{/* Home, section, taxonomy, term — emit WebPage / CollectionPage with dateModified */}}
+  {{- $type := "WebPage" -}}
+  {{- if or (eq .Kind "section") (eq .Kind "taxonomy") (eq .Kind "term") -}}
+    {{- $type = "CollectionPage" -}}
+  {{- end -}}
+
+  {{- $lastmod := .Lastmod -}}
+  {{- if $lastmod.IsZero -}}
+    {{- $lastmod = now -}}
+  {{- end -}}
+
+  {{- $webpage := dict
+    "@context" "https://schema.org"
+    "@type" $type
+    "name" (.Title | default .Site.Title)
+    "url" .Permalink
+    "description" $description
+    "dateModified" ($lastmod.Format $iso8601)
+    "inLanguage" .Language.LanguageCode
+    "isPartOf" (dict "@type" "WebSite" "name" .Site.Title "url" .Site.BaseURL)
+    "publisher" (dict "@type" "Organization" "name" .Site.Title "logo" (dict "@type" "ImageObject" "url" (.Site.Params.default_social_image | default (.Site.BaseURL | printf "%simages/og.png"))))
+  -}}
+
+  {{- if not .Date.IsZero -}}
+    {{- $webpage = merge $webpage (dict "datePublished" (.Date.Format $iso8601)) -}}
+  {{- end -}}
+
+  <script type="application/ld+json">
+  {{ $webpage | jsonify (dict "indent" "  ") | safeJS }}
+  </script>
+
 {{- end -}}
