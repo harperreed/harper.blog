@@ -5,13 +5,15 @@
 {{ $perWeek := 0.0 }}
 {{ if gt $years 0 }}{{ $perWeek = div (float $posts) (mul $years 52) }}{{ end }}
 
+{{ $framesCount := site.Params.aboutFramesCount | default 4 }}
 {{ $frames := slice }}
 {{ range (where site.RegularPages "Section" "notes").ByDate.Reverse }}
-  {{ range .Resources.ByType "image" }}
-    {{ $frames = $frames | append .RelPermalink }}
+  {{ if lt (len $frames) $framesCount }}
+    {{ range .Resources.ByType "image" }}
+      {{ $frames = $frames | append .RelPermalink }}
+    {{ end }}
   {{ end }}
 {{ end }}
-{{ $framesCount := site.Params.aboutFramesCount | default 4 }}
 
 <div class="about">
   <div class="about__band">

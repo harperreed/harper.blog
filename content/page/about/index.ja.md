@@ -10,10 +10,10 @@ hello: "こんにちは。"
 closing: "読んでくれてありがとう。私は素晴らしい。"
 menu:
     main:
-        name: こんにちは
+        name: 自己紹介
         weight: 4
     footer:
-        name: こんにちは
+        name: 自己紹介
         weight: 2
 contact:
   - label: "harper@modest.com"

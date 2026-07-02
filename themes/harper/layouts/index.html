@@ -21,13 +21,15 @@
 </ul>
 <a class="more-link" href="{{ "/posts/" | relURL }}">See all {{ len (where site.RegularPages "Section" "post") }} posts →</a>
 
+{{ $homeFramesCount := site.Params.homeFramesCount | default 3 }}
 {{ $homeFrames := slice }}
 {{ range (where site.RegularPages "Section" "notes").ByDate.Reverse }}
-  {{ range .Resources.ByType "image" }}
-    {{ $homeFrames = $homeFrames | append .RelPermalink }}
+  {{ if lt (len $homeFrames) $homeFramesCount }}
+    {{ range .Resources.ByType "image" }}
+      {{ $homeFrames = $homeFrames | append .RelPermalink }}
+    {{ end }}
   {{ end }}
 {{ end }}
-{{ $homeFramesCount := site.Params.homeFramesCount | default 3 }}
 {{ with $homeFrames }}
 <h2 class="section-label section-label--spaced">Latest frames</h2>
 <div class="frames frames--three">
