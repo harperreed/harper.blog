@@ -32,8 +32,8 @@ Tinylytics, SEO/OG/Twitter cards, related posts, RSS).
 | Features to port      | Bluesky comments, Tinylytics, SEO cards, related posts, RSS |
 | Theme chooser         | Dropped — light/dark only                                 |
 | Post URL structure    | Keep `/post/YYYY/MM/slug/` (rewire theme to `post` section) |
-| Frame images (home)   | Auto-pull 3 latest from `content/photos/`                 |
-| Frame images (about)  | Auto-pull 4 latest from `content/photos/`                 |
+| Frame images (home)   | Auto-pull 3 latest photos (from `content/notes/` `images`) |
+| Frame images (about)  | Auto-pull 4 latest photos (from `content/notes/` `images`) |
 | About page stats      | Auto-compute (post count, years, per-week rate)           |
 | Rollout               | Phased branch migration (7 commits on `redesign` branch)  |
 
@@ -121,13 +121,18 @@ Retheming = edit `:root` + `[data-theme="dark"]`. No other files.
 ### i18n
 
 - Language config in `config/_default/languages.toml` unchanged
-- Menu files `config/_default/menu.{en,es,ja,ko}.toml` audited to carry all
-  nav entries (Home, Posts, Notes, Books, Links, Music, Media, About, Now)
-- Translation keys in `i18n/{en,es,ja,ko}.yaml` extended with redesign labels:
-  `latestFrames`, `morePosts`, `selectedFrames`, `contact`, `writtenByHuman`,
-  `nothingHereYet`, etc.
+- Menu files `config/_default/menu.{en,es,ja,ko}.toml` are currently sparse
+  (only `contact`/`footer` entries). Phase 5 adds explicit `[[main]]` entries
+  for Home, Posts (→ `/post/`), Notes, Books, Links, Music, Media (→ `/photos/`),
+  About, Now in each of the four language menu files. `menu.{id,zh}.toml`
+  remain untouched (dormant).
+- Translation keys in `i18n/{en,es,ja,ko}.yaml` extended with new redesign
+  labels needed by the theme: `latestFrames`, `morePosts`, `selectedFrames`,
+  `contact`, `writtenByHuman`, `nothingHereYet`, `moreInNotes`,
+  `subscribeViaRSS`, `sayHi`
 - Language switcher rendered inline in masthead as `EN · ES · JA · KO`
-  (small, muted, active in ink color)
+  (small, muted, active in ink color). Points at the current page's
+  translated equivalent via `.Translations`, falls back to language home.
 - `hreflang` link tags emitted per language in `partials/head/seo.html`
 
 ### Feature port
@@ -180,23 +185,32 @@ Rendered as three stat cards: `{{ $years }} yrs blogging`, `{{ $posts }} posts`,
 
 ### Frames (home + about)
 
-Auto-pull from `content/photos/`:
+`content/photos/` is not populated on this site — photos live inline in notes
+via `images = [...]` frontmatter. Frame strips pull from there:
 
 ```gotemplate
-{{ $latest := first 3 (where site.RegularPages "Section" "photos").ByDate.Reverse }}
-{{ range $latest }}
-  {{ with .Resources.GetMatch "*.{jpg,jpeg,png,webp}" }}
-    <img class="frame" src="{{ .RelPermalink }}" alt="" loading="lazy">
+{{/* Collect the most-recent image references from notes */}}
+{{ $frames := slice }}
+{{ range (where site.RegularPages "Section" "notes").ByDate.Reverse }}
+  {{ range .Params.images }}
+    {{ $frames = $frames | append . }}
   {{ end }}
+  {{ if ge (len $frames) 3 }}{{ break }}{{ end }}
+{{ end }}
+{{ range first 3 $frames }}
+  <img class="frame" src="{{ . | relURL }}" alt="" loading="lazy">
 {{ end }}
 ```
 
-Config toggle in `params.toml`:
+If notes have no `images`, the frame strip is hidden entirely (the theme
+wraps it in `{{ with site.Params.frames }}`). Fallback: a hand-curated
+`frames = ["/img/..."]` list can be set in `params.toml`.
+
+Params:
 
 ```toml
-framesFromPhotos = true
-aboutFramesCount = 4
 homeFramesCount  = 3
+aboutFramesCount = 4
 ```
 
 ## Phased rollout
@@ -245,12 +259,16 @@ must render without errors at the end of every phase.
 
 ### Phase 5 — i18n port
 
-- Audit `config/_default/menu.{en,es,ja,ko}.toml` — add missing entries
-- Add redesign translation keys to `i18n/{en,es,ja,ko}.yaml`
+- Add explicit `[[main]]` menu entries (Home, Posts→/post/, Notes, Books,
+  Links, Music, Media→/photos/, About, Now) to `config/_default/menu.en.toml`
+  and translate labels in `menu.{es,ja,ko}.toml`
+- Add new redesign translation keys to `i18n/{en,es,ja,ko}.yaml`
+  (`latestFrames`, `morePosts`, `selectedFrames`, `contact`,
+  `writtenByHuman`, `nothingHereYet`, `moreInNotes`, `subscribeViaRSS`, `sayHi`)
 - Write `partials/language-switcher.html`, include in `partials/header.html`
 - Add `hreflang` tags to `partials/head/seo.html`
 - **Verification**: switcher toggles between languages on same slug; hreflang
-  present in `<head>` of every page
+  present in `<head>` of every page; each language home renders full nav
 
 ### Phase 6 — Feature port
 
@@ -305,7 +323,7 @@ must render without errors at the end of every phase.
 | Old posts use bearcub-specific shortcodes that break       | Phase 2 spot-check across years surfaces this early; port any needed shortcodes into `themes/harper/layouts/shortcodes/` |
 | Removing bearcub breaks something we don't know it depends on | `hugo mod tidy` after removal + full `hugo serve` boot at end of phase 1 |
 | Translation content references removed CSS classes         | i18n content is text-only in frontmatter/body; low risk        |
-| Frame auto-pull returns empty (photos section not seeded)  | Fallback to config-listed frames in `params.toml`              |
+| Frame auto-pull returns empty (recent notes have no `images`) | Theme conditionally hides the frame strip when list is empty; hand-curated `frames = [...]` in `params.toml` as fallback |
 | Netlify redirects break                                    | `/post/` URL scheme unchanged; no redirect rules touched       |
 
 ## Out of scope for this design
