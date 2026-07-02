@@ -19,7 +19,7 @@
   </li>
   {{ end }}
 </ul>
-<a class="more-link" href="{{ "/post/" | relURL }}">See all {{ len (where site.RegularPages "Section" "post") }} posts →</a>
+<a class="more-link" href="{{ "/posts/" | relURL }}">See all {{ len (where site.RegularPages "Section" "post") }} posts →</a>
 
 {{ with site.Params.frames }}
 <h2 class="section-label section-label--spaced">Latest frames</h2>

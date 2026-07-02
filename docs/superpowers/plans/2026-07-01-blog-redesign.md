@@ -10,7 +10,7 @@
 
 ## Global Constraints
 
-- Post URLs stay at `/post/YYYY/MM/slug/` — never rename the on-disk section.
+- Post URLs stay at their current `/YYYY/MM/DD/slug/` pattern and the section index stays at `/posts/` (per `content/post/_index.md`'s `url: posts`). Never rename the on-disk `content/post/` section or edit `config/_default/permalinks.toml`.
 - Design tokens (colors, widths, fonts) live only in `themes/harper/static/css/main.css` `:root` and `[data-theme="dark"]` blocks.
 - Text-first: system font stack, no custom web fonts, single warm-orange accent (`--acc: #B8532C`).
 - Reading measure: `--read: 640px`; page shell: `--page: 680px`.
