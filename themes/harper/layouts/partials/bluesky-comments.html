@@ -1,7 +1,9 @@
-{{ if and (eq .Section "post") .Params.bluesky_url }}
+{{/* ABOUTME: Renders Bluesky comments section for post pages that declare a bsky frontmatter param. */}}
+{{/* ABOUTME: Bootstraps the vanilla JS widget in static/js/bluesky_comments.js via id + data attribute. */}}
+{{ if and (eq .Section "post") .Params.bsky }}
 <section class="comments">
   <span class="section-label">Comments</span>
-  <div id="bsky-comments" data-url="{{ .Params.bluesky_url }}"></div>
+  <div id="comments-section" data-bsky-uri="{{ .Params.bsky }}"></div>
   <script src="{{ "js/bluesky_comments.js" | relURL }}" defer></script>
 </section>
 {{ end }}

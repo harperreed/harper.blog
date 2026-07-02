@@ -1,3 +1,5 @@
+{{/* ABOUTME: Injects the Tinylytics analytics embed script, gated to production builds only. */}}
+{{/* ABOUTME: Site ID is read from site.Params.tinylytics in config/_default/params.toml. */}}
 {{ if hugo.IsProduction }}
 <script defer src="https://tinylytics.app/embed/{{ site.Params.tinylytics }}.js"></script>
 {{ end }}
