@@ -6,8 +6,8 @@
 
 {{ $imgs := slice }}
 {{ range (where site.RegularPages "Section" "notes").ByDate.Reverse }}
-  {{ range .Params.images }}
-    {{ $imgs = $imgs | append . }}
+  {{ range .Resources.ByType "image" }}
+    {{ $imgs = $imgs | append .Permalink }}
   {{ end }}
 {{ end }}
 

@@ -7,10 +7,12 @@
 <ul class="book-list">
   {{ range .Pages.ByDate.Reverse }}
   <li class="book-list__row">
-    {{ with .Params.cover }}<img class="book-list__cover" src="{{ . }}" alt="" loading="lazy">{{ end }}
+    {{ $cover := .Params.image_url }}
+    {{ if not $cover }}{{ with .Params.image }}{{ $cover = index . 0 }}{{ end }}{{ end }}
+    {{ with $cover }}<img class="book-list__cover" src="{{ . }}" alt="" loading="lazy">{{ end }}
     <div class="book-list__meta">
       <a class="book-list__title" href="{{ .RelPermalink }}">{{ .Title }}</a>
-      {{ with .Params.author }}<span class="book-list__author">{{ i18n "by" }} {{ . }}</span>{{ end }}
+      {{ with .Params.book_author }}<span class="book-list__author">{{ i18n "by" }} {{ . }}</span>{{ end }}
       <span class="book-list__date">{{ .Date.Format "02 Jan 06" }}</span>
     </div>
   </li>

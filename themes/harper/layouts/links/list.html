@@ -8,8 +8,8 @@
   {{ range .Pages.ByDate.Reverse }}
   <li class="post-list__row">
     <span class="post-list__date">{{ .Date.Format "02 Jan 06" }}</span>
-    {{ if .Params.link }}
-    <a class="post-list__link" href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer">{{ .Title }} ↪</a>
+    {{ if .Params.original_url }}
+    <a class="post-list__link" href="{{ .Params.original_url }}" target="_blank" rel="noopener noreferrer">{{ .Title }} ↪</a>
     {{ else }}
     <a class="post-list__link" href="{{ .RelPermalink }}">{{ .Title }}</a>
     {{ end }}
