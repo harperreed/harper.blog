@@ -30,4 +30,4 @@ I read a lot of books. Here is my read book list.
 
 </details>
 
-Below you'll find my recent reads with reviews and thoughts. You can also [view this as a list](/media/books/list).
+Below you'll find my recent reads with reviews and thoughts. You can also [view this as a list](/media/books/).
