@@ -1,12 +1,13 @@
 ---
-title: Hello
-type: special
+title: About
+layout: about
 url: about
-hideReply: true
 translationKey: "about"
 nofeed: true
 description: About page for harper.blog
 weight: 3
+hello: "Hello."
+closing: "Thanks for reading. I am incredible."
 menu:
     main:
         name: About
@@ -14,24 +15,15 @@ menu:
     footer:
         name: About
         weight: 2
+contact:
+  - label: "harper@modest.com"
+    href: "mailto:harper@modest.com"
+  - label: "@harper.lol on bluesky"
+    href: "https://bsky.app/profile/harper.lol"
+  - label: "harperreed.com ↗"
+    href: "https://harperreed.com"
 ---
 
-My name is [Harper Reed](mailto:harper@modest.com). This is my blog. I have been blogging for around 24 years (wtaf). This is approximately {{< postcount 2000 "now" >}}. You can check out [all my posts here](/posts) and my [short form notes here](/notes).
-
-## About me
-
-{{< image src="harper_portrait.webp" caption="This is me!" >}}
-
-I am a _computer operator_ who likes to make things, have fun, and hang out on the internet. Also pranks.
-
-Please visit my main webpage at [harperreed.com](http://harperreed.com) for more information about me!
-
-## Contact
-
-You can email me at [harper@modest.com](mailto:harper@modest.com). If social media is your thing, you can find me on bluesky at [@harper.lol](https://bsky.app/profile/harper.lol).
-
-You can contact me many different ways by visiting [my contact page](http://harperreed.com/contact).
-
-## Thanks for reading
-
-I am incredible.
+My name is Harper Reed. This is my blog. I am a *computer operator* who likes
+to make things, have fun, and hang out on the internet. Also pranks. And a
+camera, always.

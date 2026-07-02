@@ -1,19 +1,37 @@
 {{ define "main" }}
+{{ $posts   := len (where site.RegularPages "Section" "post") }}
+{{ $since   := site.Params.since | default 2001 }}
+{{ $years   := sub now.Year $since }}
+{{ $perWeek := 0.0 }}
+{{ if gt $years 0 }}{{ $perWeek = div (float $posts) (mul $years 52) }}{{ end }}
+
+{{ $frames := slice }}
+{{ range (where site.RegularPages "Section" "notes").ByDate.Reverse }}
+  {{ range .Resources.ByType "image" }}
+    {{ $frames = $frames | append .RelPermalink }}
+  {{ end }}
+{{ end }}
+{{ $framesCount := site.Params.aboutFramesCount | default 4 }}
+
 <div class="about">
   <div class="about__band">
     <div class="about__intro">
       <h1 class="about__hello">{{ with .Params.hello }}{{ . }}{{ else }}Hello.{{ end }}</h1>
       <div class="content about__lede">{{ .Content }}</div>
-      {{ with .Params.stats }}
       <div class="stats">
-        {{ range . }}
         <div class="stat">
-          <div class="stat__num">{{ .value }}</div>
-          <div class="stat__label">{{ .label }}</div>
+          <div class="stat__num">{{ $years }}</div>
+          <div class="stat__label">yrs blogging</div>
         </div>
-        {{ end }}
+        <div class="stat">
+          <div class="stat__num">{{ $posts }}</div>
+          <div class="stat__label">posts</div>
+        </div>
+        <div class="stat">
+          <div class="stat__num">~{{ printf "%.2f" $perWeek }}</div>
+          <div class="stat__label">/ week</div>
+        </div>
       </div>
-      {{ end }}
     </div>
     {{ with .Params.portrait }}
     <img class="about__portrait" src="{{ . | relURL }}" alt="Portrait of {{ site.Params.author }}">
@@ -31,11 +49,13 @@
 
   {{ with .Params.closing }}<p class="about__closing">{{ . }}</p>{{ end }}
 
-  {{ with .Params.frames }}
+  {{ with $frames }}
   <div class="about__frames">
     <span class="section-label">Selected frames</span>
     <div class="frames frames--four">
-      {{ range . }}<img class="frame" src="{{ . | relURL }}" alt="" loading="lazy">{{ end }}
+      {{ range first $framesCount . }}
+      <img class="frame" src="{{ . }}" alt="" loading="lazy">
+      {{ end }}
     </div>
   </div>
   {{ end }}

@@ -21,13 +21,27 @@
 </ul>
 <a class="more-link" href="{{ "/posts/" | relURL }}">See all {{ len (where site.RegularPages "Section" "post") }} posts →</a>
 
-{{ with site.Params.frames }}
+{{ $homeFrames := slice }}
+{{ range (where site.RegularPages "Section" "notes").ByDate.Reverse }}
+  {{ range .Resources.ByType "image" }}
+    {{ $homeFrames = $homeFrames | append .RelPermalink }}
+  {{ end }}
+{{ end }}
+{{ $homeFramesCount := site.Params.homeFramesCount | default 3 }}
+{{ with $homeFrames }}
+<h2 class="section-label section-label--spaced">Latest frames</h2>
+<div class="frames frames--three">
+  {{ range first $homeFramesCount . }}
+  <img class="frame" src="{{ . }}" alt="" loading="lazy">
+  {{ end }}
+</div>
+<a class="more-link more-link--muted" href="{{ "/notes/" | relURL }}">More in the notes →</a>
+{{ else }}{{ with site.Params.frames }}
 <h2 class="section-label section-label--spaced">Latest frames</h2>
 <div class="frames frames--three">
   {{ range . }}
   <img class="frame" src="{{ . | relURL }}" alt="" loading="lazy">
   {{ end }}
 </div>
-<a class="more-link more-link--muted" href="{{ "/notes/" | relURL }}">More in the notes →</a>
-{{ end }}
+{{ end }}{{ end }}
 {{ end }}
