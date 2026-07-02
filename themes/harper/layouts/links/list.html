@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="lede-block">
+  <h1 class="page-title">{{ .Title }}</h1>
+  {{ with .Content }}<div class="sub sub--intro">{{ . }}</div>{{ end }}
+</div>
+
+<ul class="post-list">
+  {{ range .Pages.ByDate.Reverse }}
+  <li class="post-list__row">
+    <span class="post-list__date">{{ .Date.Format "02 Jan 06" }}</span>
+    {{ if .Params.link }}
+    <a class="post-list__link" href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer">{{ .Title }} ↪</a>
+    {{ else }}
+    <a class="post-list__link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ end }}
+  </li>
+  {{ else }}
+  <li class="post-list__empty">{{ i18n "no-links" | default "No links yet." }}</li>
+  {{ end }}
+</ul>
+{{ end }}

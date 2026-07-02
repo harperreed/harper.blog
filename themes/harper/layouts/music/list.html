@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="lede-block">
+  <h1 class="page-title">{{ .Title }}</h1>
+  {{ with .Content }}<div class="sub sub--intro">{{ . }}</div>{{ end }}
+</div>
+
+<ul class="post-list">
+  {{ range .Pages.ByDate.Reverse }}
+  <li class="post-list__row">
+    <span class="post-list__date">{{ .Date.Format "02 Jan 06" }}</span>
+    <a class="post-list__link" href="{{ .RelPermalink }}">
+      {{ .Title }}{{ with .Params.artist }} <span class="post-list__by">{{ i18n "by" }} {{ . }}</span>{{ end }}
+    </a>
+  </li>
+  {{ else }}
+  <li class="post-list__empty">{{ i18n "no-music" | default "No music yet." }}</li>
+  {{ end }}
+</ul>
+{{ end }}

@@ -409,3 +409,32 @@ a { color: var(--acc); }
   .about__portrait { float: none; width: 140px; height: 140px; margin: 0 0 20px; }
   .stats { gap: 28px; }
 }
+
+/* ---------- Books ---------- */
+.book-list { list-style: none; margin: 0; padding: 0; }
+.book-list__row {
+  display: grid;
+  grid-template-columns: 44px 1fr;
+  gap: 16px;
+  align-items: center;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
+}
+.book-list__row:last-child { border-bottom: 0; }
+.book-list__cover { width: 44px; height: 66px; object-fit: cover; border-radius: 3px; background: var(--bg2); }
+.book-list__meta { display: flex; flex-direction: column; gap: 2px; }
+.book-list__title { font-size: 16px; color: var(--ink); text-decoration: none; }
+.book-list__title:hover { color: var(--acc); }
+.book-list__author, .book-list__date { font-size: 13px; color: var(--mut); }
+.book-single__cover {
+  width: 160px;
+  float: right;
+  margin: 4px 0 20px 24px;
+  border-radius: 4px;
+  background: var(--bg2);
+}
+.post-list__by { color: var(--mut); font-weight: 400; }
+
+@media (max-width: 640px) {
+  .book-single__cover { float: none; margin: 0 0 20px; width: 120px; }
+}

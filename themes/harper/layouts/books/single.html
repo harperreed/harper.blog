@@ -1,0 +1,12 @@
+{{ define "main" }}
+<article class="post">
+  <div class="post__meta">
+    <span class="kicker">Book</span>
+    <span class="post__date">{{ .Date.Format "02 Jan 2006" }}</span>
+  </div>
+  <h1 class="post__title">{{ .Title }}</h1>
+  {{ with .Params.author }}<p class="post-note">{{ i18n "by" }} {{ . }}</p>{{ end }}
+  {{ with .Params.cover }}<img class="book-single__cover" src="{{ . }}" alt="{{ i18n "book-cover-alt" }}">{{ end }}
+  <div class="content">{{ .Content }}</div>
+</article>
+{{ end }}

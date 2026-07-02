@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="lede-block">
+  <h1 class="page-title">{{ .Title }}</h1>
+  {{ with .Content }}<div class="sub sub--intro">{{ . }}</div>{{ end }}
+</div>
+
+<ul class="book-list">
+  {{ range .Pages.ByDate.Reverse }}
+  <li class="book-list__row">
+    {{ with .Params.cover }}<img class="book-list__cover" src="{{ . }}" alt="" loading="lazy">{{ end }}
+    <div class="book-list__meta">
+      <a class="book-list__title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ with .Params.author }}<span class="book-list__author">{{ i18n "by" }} {{ . }}</span>{{ end }}
+      <span class="book-list__date">{{ .Date.Format "02 Jan 06" }}</span>
+    </div>
+  </li>
+  {{ else }}
+  <li class="post-list__empty">{{ i18n "no-books" | default "No books yet." }}</li>
+  {{ end }}
+</ul>
+{{ end }}

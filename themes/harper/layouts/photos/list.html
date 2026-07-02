@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="lede-block">
+  <h1 class="page-title">{{ .Title }}</h1>
+  {{ with .Content }}<div class="sub sub--intro">{{ . }}</div>{{ end }}
+</div>
+
+{{ $imgs := slice }}
+{{ range (where site.RegularPages "Section" "notes").ByDate.Reverse }}
+  {{ range .Params.images }}
+    {{ $imgs = $imgs | append . }}
+  {{ end }}
+{{ end }}
+
+{{ with $imgs }}
+<div class="frames frames--four">
+  {{ range first 24 . }}
+  <img class="frame" src="{{ . | relURL }}" alt="" loading="lazy">
+  {{ end }}
+</div>
+{{ else }}
+<p class="post-list__empty">No photos yet.</p>
+{{ end }}
+{{ end }}
