@@ -1,0 +1,14 @@
+{{ define "main" }}
+<article class="post">
+  <div class="post__meta">
+    <span class="kicker">Note</span>
+    <span class="post__date">{{ .Date.Format "02 Jan 2006" }}</span>
+  </div>
+  <div class="content">{{ .Content }}</div>
+  {{ with .Params.images }}
+  <div class="frames frames--three" style="margin-top:16px">
+    {{ range . }}<img class="frame" src="{{ . | relURL }}" alt="" loading="lazy">{{ end }}
+  </div>
+  {{ end }}
+</article>
+{{ end }}

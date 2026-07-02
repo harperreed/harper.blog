@@ -1,0 +1,23 @@
+{{ $cur := . }}
+<header class="masthead">
+  <div class="masthead__wrap">
+    <a class="wordmark" href="{{ "/" | relURL }}">{{ site.Title }}</a>
+    <nav class="nav">
+      {{ range site.Menus.main }}
+        {{ $active := false }}
+        {{ if eq .URL "/" }}
+          {{ $active = $cur.IsHome }}
+        {{ else }}
+          {{ $active = hasPrefix $cur.RelPermalink .URL }}
+        {{ end }}
+        <a href="{{ .URL | relURL }}" class="nav__link{{ if $active }} is-active{{ end }}">{{ .Name }}</a>
+      {{ end }}
+      {{ with .OutputFormats.Get "rss" }}
+        <a href="{{ .RelPermalink }}" class="nav__link nav__link--rss">RSS</a>
+      {{ else }}
+        <a href="{{ "index.xml" | relURL }}" class="nav__link nav__link--rss">RSS</a>
+      {{ end }}
+      <button type="button" class="nav__toggle" data-theme-toggle aria-label="Toggle light and dark theme">◐ dark</button>
+    </nav>
+  </div>
+</header>

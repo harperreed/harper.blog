@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="lede-block">
+  <h1 class="page-title">{{ .Title }}</h1>
+  {{ with .Content }}<div class="sub sub--intro">{{ . }}</div>{{ else }}
+  <p class="sub">Short form. The stuff between posts — the odd photo, the odd one-liner.</p>
+  {{ end }}
+</div>
+
+<div class="notes">
+  {{ range .Pages.ByDate.Reverse }}
+  <div class="note">
+    <span class="note__date">{{ .Date.Format "02 Jan 06" }}</span>
+    <div class="note__body">
+      <div class="content content--note">{{ .Content }}</div>
+      {{ with .Params.images }}
+      <div class="frames frames--three note__frames">
+        {{ range . }}
+        <img class="frame" src="{{ . | relURL }}" alt="" loading="lazy">
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+  {{ else }}
+  <p class="post-list__empty">No notes yet.</p>
+  {{ end }}
+</div>
+{{ end }}

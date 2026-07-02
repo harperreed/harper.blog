@@ -1,0 +1,20 @@
+{{ $title := .Title }}
+{{ if .IsHome }}{{ $title = site.Title }}{{ else }}{{ $title = printf "%s — %s" .Title site.Title }}{{ end }}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ $title }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+{{ with .OutputFormats.Get "rss" }}
+<link rel="alternate" type="application/rss+xml" href="{{ .Permalink }}" title="{{ site.Title }}">
+{{ end }}
+<link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+{{/* No-flash theme init: set data-theme before first paint */}}
+<script>
+(function () {
+  try {
+    var t = localStorage.getItem('theme');
+    if (!t) { t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'; }
+    document.documentElement.setAttribute('data-theme', t);
+  } catch (e) {}
+})();
+</script>

@@ -1,0 +1,13 @@
+name = "Harper"
+license = "MIT"
+description = "A text-led minimal blog theme — quiet system type, a narrow reading measure, and photography used sparingly as punctuation. Light/dark toggle included."
+min_version = "0.110.0"
+
+[author]
+  name = "Harper Reed redesign"
+
+[[authors]]
+  name = "Harper Reed redesign"
+
+tags = ["blog", "minimal", "personal", "dark mode", "photography"]
+features = ["blog", "dark-mode", "notes", "rss"]

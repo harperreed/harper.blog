@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#DDE1DE"></rect>
+  <circle cx="400" cy="270" r="70" fill="none" stroke="#A9B2AC" stroke-width="6"></circle>
+  <circle cx="400" cy="270" r="26" fill="#A9B2AC"></circle>
+  <rect x="250" y="150" width="300" height="240" rx="12" fill="none" stroke="#A9B2AC" stroke-width="6"></rect>
+  <text x="400" y="470" font-family="-apple-system, Segoe UI, sans-serif" font-size="26" fill="#A9B2AC" text-anchor="middle">replace with a real frame</text>
+</svg>

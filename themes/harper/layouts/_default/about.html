@@ -1,0 +1,43 @@
+{{ define "main" }}
+<div class="about">
+  <div class="about__band">
+    <div class="about__intro">
+      <h1 class="about__hello">{{ with .Params.hello }}{{ . }}{{ else }}Hello.{{ end }}</h1>
+      <div class="content about__lede">{{ .Content }}</div>
+      {{ with .Params.stats }}
+      <div class="stats">
+        {{ range . }}
+        <div class="stat">
+          <div class="stat__num">{{ .value }}</div>
+          <div class="stat__label">{{ .label }}</div>
+        </div>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+    {{ with .Params.portrait }}
+    <img class="about__portrait" src="{{ . | relURL }}" alt="Portrait of {{ site.Params.author }}">
+    {{ end }}
+  </div>
+
+  {{ with .Params.contact }}
+  <div class="about__contact">
+    <span class="section-label">Contact</span>
+    <div class="contact-list">
+      {{ range . }}<a href="{{ .href }}">{{ .label }}</a>{{ end }}
+    </div>
+  </div>
+  {{ end }}
+
+  {{ with .Params.closing }}<p class="about__closing">{{ . }}</p>{{ end }}
+
+  {{ with .Params.frames }}
+  <div class="about__frames">
+    <span class="section-label">Selected frames</span>
+    <div class="frames frames--four">
+      {{ range . }}<img class="frame" src="{{ . | relURL }}" alt="" loading="lazy">{{ end }}
+    </div>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

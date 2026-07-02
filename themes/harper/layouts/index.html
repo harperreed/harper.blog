@@ -1,0 +1,33 @@
+{{ define "main" }}
+<div class="lede-block">
+  {{ with .Content }}
+    {{ . }}
+  {{ else }}
+    <p class="lede">My name is Harper Reed. This is my blog. 24 years of technology, photography, and whatever else.</p>
+  {{ end }}
+  <p class="sub">Subscribe via
+    {{ with .OutputFormats.Get "rss" }}<a href="{{ .RelPermalink }}">RSS</a>{{ else }}<a href="{{ "index.xml" | relURL }}">RSS</a>{{ end }},
+    or say hi at <a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a>.</p>
+</div>
+
+<h2 class="section-label">Posts</h2>
+<ul class="post-list">
+  {{ range first 5 (where site.RegularPages "Section" "post") }}
+  <li class="post-list__row">
+    <span class="post-list__date">{{ .Date.Format "02 Jan 06" }}</span>
+    <a class="post-list__link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </li>
+  {{ end }}
+</ul>
+<a class="more-link" href="{{ "/post/" | relURL }}">See all {{ len (where site.RegularPages "Section" "post") }} posts →</a>
+
+{{ with site.Params.frames }}
+<h2 class="section-label section-label--spaced">Latest frames</h2>
+<div class="frames frames--three">
+  {{ range . }}
+  <img class="frame" src="{{ . | relURL }}" alt="" loading="lazy">
+  {{ end }}
+</div>
+<a class="more-link more-link--muted" href="{{ "/notes/" | relURL }}">More in the notes →</a>
+{{ end }}
+{{ end }}
