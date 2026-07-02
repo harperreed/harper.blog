@@ -5,11 +5,6 @@ nodate: true
 nofeed: true
 title: Home
 translationKey: "index"
-menu:
-    main:
-        weight: 1
-        identifier: home
-        name: Home
 ---
 
 ### My name is Harper Reed, and this is my blog. If you want to know more about me, visit my website: [harper.lol](https://harper.lol).

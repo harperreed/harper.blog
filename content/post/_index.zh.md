@@ -5,9 +5,6 @@ menu:
     footer:
         name: 文章
         weight: 2
-    main:
-        name: 文章
-        weight: 2
 nofeed: true
 slug: posts
 title: "文章"

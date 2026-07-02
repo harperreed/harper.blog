@@ -5,9 +5,6 @@ menu:
   footer:
     name: About
     weight: 2
-  main:
-    name: About
-    weight: 6
 nofeed: true
 title: 'Halo
 

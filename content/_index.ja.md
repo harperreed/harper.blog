@@ -5,11 +5,6 @@ nodate: true
 nofeed: true
 title: ホーム
 translationKey: index
-menu:
-    main:
-        weight: 1
-        identifier: home
-        name: ホーム
 ---
 
 ### ハーパー・リードと申します。こちらは私のブログです。

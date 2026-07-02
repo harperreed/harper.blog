@@ -5,9 +5,6 @@ menu:
     footer:
         name: Publicaciones
         weight: 2
-    main:
-        name: Publicaciones
-        weight: 2
 nofeed: true
 slug: posts
 title: Publicaciones

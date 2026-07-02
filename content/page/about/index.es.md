@@ -9,9 +9,6 @@ weight: 3
 hello: "Hola."
 closing: "Gracias por leer. Soy increíble."
 menu:
-    main:
-        name: Acerca de
-        weight: 6
     footer:
         name: Acerca de
         weight: 2

@@ -9,9 +9,6 @@ weight: 3
 hello: "こんにちは。"
 closing: "読んでくれてありがとう。私は素晴らしい。"
 menu:
-    main:
-        name: 自己紹介
-        weight: 4
     footer:
         name: 自己紹介
         weight: 2

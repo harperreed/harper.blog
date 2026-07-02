@@ -9,9 +9,6 @@ weight: 3
 hello: "안녕하세요."
 closing: "읽어주셔서 감사합니다. 저는 대단합니다."
 menu:
-    main:
-        name: 소개
-        weight: 6
     footer:
         name: 소개
         weight: 2

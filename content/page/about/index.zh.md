@@ -6,9 +6,6 @@ menu:
     footer:
         name: 你好
         weight: 2
-    main:
-        name: 你好
-        weight: 6
 nofeed: true
 title: 你好
 translationKey: about

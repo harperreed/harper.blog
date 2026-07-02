@@ -48,7 +48,7 @@
   translation: "Derechos de autor"
 
 - id: morePosts
-  translation: "Más entradas"
+  translation: "Más entradas →"
 
 - id: moreNotes
   translation: "Más notas"
@@ -258,7 +258,7 @@
 - id: current-language
   translation: "Idioma actual"
 
-# Redesign keys (Task 5)
+# Redesign keys
 - id: latestFrames
   translation: "Fotos recientes"
 

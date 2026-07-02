@@ -9,9 +9,6 @@ weight: 3
 hello: "Hello."
 closing: "Thanks for reading. I am incredible."
 menu:
-    main:
-        name: About
-        weight: 6
     footer:
         name: About
         weight: 2

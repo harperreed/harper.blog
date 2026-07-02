@@ -1,11 +1,6 @@
 ---
 draft: false
 lastmod: "2017-12-04"
-menu:
-    main:
-        identifier: notes
-        name: Notes
-        weight: 3
 nofeed: true
 title: Notes
 translationKey: Notes

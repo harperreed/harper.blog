@@ -5,9 +5,6 @@ menu:
     footer:
         name: Posts
         weight: 2
-    main:
-        name: Posts
-        weight: 2
 nofeed: true
 slug: posts
 title: Kiriman

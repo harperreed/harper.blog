@@ -1,11 +1,6 @@
 ---
 date: 2024-05-02 20:54:26-05:00
 draft: false
-menu:
-    main:
-        identifier: home
-        name: 主页
-        weight: 1
 nodate: true
 nofeed: true
 title: 主页

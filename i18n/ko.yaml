@@ -48,7 +48,7 @@
   translation: "저작권"
 
 - id: morePosts
-  translation: "더 많은 글"
+  translation: "더 많은 글 →"
 
 - id: moreNotes
   translation: "더 많은 노트"
@@ -258,7 +258,7 @@
 - id: current-language
   translation: "언어"
 
-# Redesign keys (Task 5)
+# Redesign keys
 - id: latestFrames
   translation: "최신 사진"
 

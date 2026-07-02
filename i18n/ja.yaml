@@ -49,7 +49,7 @@
   translation: "著作権"
 
 - id: morePosts
-  translation: "他の投稿"
+  translation: "もっと記事を見る →"
 
 - id: moreNotes
   translation: "他のノート"
@@ -249,7 +249,7 @@
 - id: current-language
   translation: "言語"
 
-# Redesign keys (Task 5)
+# Redesign keys
 - id: latestFrames
   translation: "最新の写真"
 
