@@ -7,3 +7,36 @@
     <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
   {{ end }}
 {{ end }}
+
+{{/* Description */}}
+{{ $desc := "" }}
+{{ if .Description }}{{ $desc = .Description }}
+{{ else if .IsPage }}{{ $desc = .Summary | plainify | truncate 200 }}
+{{ else }}{{ $desc = site.Params.description }}{{ end }}
+<meta name="description" content="{{ $desc }}">
+
+{{/* OG image resolution: per-page image (string or first element of slice), else site default */}}
+{{ $ogImage := site.Params.default_social_image | default "/images/og.png" }}
+{{ with .Params.image }}
+  {{ if reflect.IsSlice . }}{{ $ogImage = index . 0 }}{{ else }}{{ $ogImage = . }}{{ end }}
+{{ end }}
+{{ $ogImage = $ogImage | absURL }}
+
+{{/* Open Graph */}}
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:image" content="{{ $ogImage }}">
+<meta property="og:site_name" content="{{ site.Title }}">
+{{ if .IsPage }}
+{{ with .PublishDate }}<meta property="article:published_time" content="{{ .Format "2006-01-02T15:04:05Z07:00" }}">{{ end }}
+{{ with .Lastmod }}<meta property="article:modified_time" content="{{ .Format "2006-01-02T15:04:05Z07:00" }}">{{ end }}
+{{ end }}
+
+{{/* Twitter */}}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ $desc }}">
+<meta name="twitter:image" content="{{ $ogImage }}">
+{{ with site.Params.twitter_handle }}<meta name="twitter:site" content="@{{ . }}">{{ end }}

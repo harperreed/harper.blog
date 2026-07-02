@@ -1,0 +1,14 @@
+{{ $more := where (where site.RegularPages "Section" "post") "Permalink" "!=" .Permalink }}
+{{ with first 3 $more }}
+<section class="more">
+  <span class="section-label">{{ i18n "morePosts" | default "More posts" }}</span>
+  <div class="more__list">
+    {{ range . }}
+    <a class="more__row" href="{{ .RelPermalink }}">
+      <span class="more__date">{{ .Date.Format "02 Jan 06" }}</span>
+      <span class="more__title">{{ .Title }}</span>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

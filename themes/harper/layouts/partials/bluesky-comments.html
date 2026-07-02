@@ -1,0 +1,7 @@
+{{ if and (eq .Section "post") .Params.bluesky_url }}
+<section class="comments">
+  <span class="section-label">Comments</span>
+  <div id="bsky-comments" data-url="{{ .Params.bluesky_url }}"></div>
+  <script src="{{ "js/bluesky_comments.js" | relURL }}" defer></script>
+</section>
+{{ end }}
