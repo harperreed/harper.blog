@@ -8,7 +8,7 @@
   {{ range .Pages.ByDate.Reverse }}
   <li class="book-list__row">
     {{ $cover := .Params.image_url }}
-    {{ if not $cover }}{{ with .Params.image }}{{ $cover = index . 0 }}{{ end }}{{ end }}
+    {{ if not $cover }}{{ if reflect.IsSlice .Params.image }}{{ $cover = index .Params.image 0 }}{{ end }}{{ end }}
     {{ with $cover }}<img class="book-list__cover" src="{{ . }}" alt="" loading="lazy">{{ end }}
     <div class="book-list__meta">
       <a class="book-list__title" href="{{ .RelPermalink }}">{{ .Title }}</a>

@@ -7,7 +7,7 @@
   <h1 class="post__title">{{ .Title }}</h1>
   {{ with .Params.book_author }}<p class="post-note">{{ i18n "by" }} {{ . }}</p>{{ end }}
   {{ $cover := .Params.image_url }}
-  {{ if not $cover }}{{ with .Params.image }}{{ $cover = index . 0 }}{{ end }}{{ end }}
+  {{ if not $cover }}{{ if reflect.IsSlice .Params.image }}{{ $cover = index .Params.image 0 }}{{ end }}{{ end }}
   {{ with $cover }}<img class="book-single__cover" src="{{ . }}" alt="{{ i18n "book-cover-alt" }}">{{ end }}
   <div class="content">{{ .Content }}</div>
 </article>

@@ -7,14 +7,14 @@
 {{ $imgs := slice }}
 {{ range (where site.RegularPages "Section" "notes").ByDate.Reverse }}
   {{ range .Resources.ByType "image" }}
-    {{ $imgs = $imgs | append .Permalink }}
+    {{ $imgs = $imgs | append .RelPermalink }}
   {{ end }}
 {{ end }}
 
 {{ with $imgs }}
 <div class="frames frames--four">
   {{ range first 24 . }}
-  <img class="frame" src="{{ . | relURL }}" alt="" loading="lazy">
+  <img class="frame" src="{{ . }}" alt="" loading="lazy">
   {{ end }}
 </div>
 {{ else }}
