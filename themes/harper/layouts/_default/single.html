@@ -15,6 +15,12 @@
   {{ end }}
 </article>
 
+{{/* Injected in Task 6 */}}
+{{ if eq .Section "post" }}
+{{ partial "related-posts.html" . }}
+{{ partial "bluesky-comments.html" . }}
+{{ end }}
+
 {{ $more := where (where site.RegularPages "Section" "post") "Permalink" "!=" .Permalink }}
 {{ with first 3 $more }}
 <section class="more">

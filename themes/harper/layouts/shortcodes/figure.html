@@ -1,0 +1,107 @@
+{{/*
+ABOUTME: Custom figure shortcode that auto-converts images to WebP and generates responsive sizes.
+ABOUTME: Supports page bundle images (relative paths) and static images (absolute paths starting with /).
+*/}}
+
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default (.Get "caption") | default "" -}}
+{{- $caption := .Get "caption" -}}
+{{- $class := .Get "class" | default "" -}}
+{{- $link := .Get "link" -}}
+
+{{- $img := "" -}}
+{{- $isProcessable := false -}}
+
+{{/* Try to get the image resource */}}
+{{- if hasPrefix $src "/" -}}
+  {{/* Absolute path - try from assets or static */}}
+  {{- $img = resources.Get (strings.TrimPrefix "/" $src) -}}
+{{- else -}}
+  {{/* Relative path - try page bundle first */}}
+  {{- $img = .Page.Resources.GetMatch $src -}}
+  {{- if not $img -}}
+    {{/* Try from assets */}}
+    {{- $img = resources.Get $src -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if $img -}}
+  {{/* Check if image can be processed (not SVG, etc.) */}}
+  {{- $isProcessable = and $img (not (in (slice "svg" "gif") $img.MediaType.SubType)) -}}
+{{- end -}}
+
+<figure{{ with $class }} class="{{ . }}"{{ end }}>
+  {{- if $isProcessable -}}
+    {{/* Generate responsive sizes */}}
+    {{- $sizes := slice 480 768 1200 1600 -}}
+    {{- $origWidth := $img.Width -}}
+
+    {{/* Generate WebP versions */}}
+    {{- $webpSrcset := slice -}}
+    {{- $fallbackSrcset := slice -}}
+    {{- $defaultImg := $img -}}
+
+    {{- range $sizes -}}
+      {{- if le . $origWidth -}}
+        {{- $resized := $img.Resize (printf "%dx webp" .) -}}
+        {{- $webpSrcset = $webpSrcset | append (printf "%s %dw" $resized.RelPermalink .) -}}
+
+        {{/* Also create fallback in original format */}}
+        {{- $resizedOrig := $img.Resize (printf "%dx" .) -}}
+        {{- $fallbackSrcset = $fallbackSrcset | append (printf "%s %dw" $resizedOrig.RelPermalink .) -}}
+
+        {{/* Use 768w as default if available */}}
+        {{- if eq . 768 -}}
+          {{- $defaultImg = $resizedOrig -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{/* If image is smaller than 768, use a reasonable resize */}}
+    {{- if lt $origWidth 768 -}}
+      {{- $defaultImg = $img -}}
+    {{- end -}}
+
+    {{- $webpSrcsetStr := delimit $webpSrcset ", " -}}
+    {{- $fallbackSrcsetStr := delimit $fallbackSrcset ", " -}}
+
+    {{- if $link -}}
+    <a href="{{ $link }}">
+    {{- end -}}
+    <picture>
+      {{- if $webpSrcset -}}
+      <source
+        type="image/webp"
+        srcset="{{ $webpSrcsetStr }}"
+        sizes="(max-width: 480px) 100vw, (max-width: 768px) 100vw, 800px">
+      {{- end -}}
+      {{- if $fallbackSrcset -}}
+      <source
+        srcset="{{ $fallbackSrcsetStr }}"
+        sizes="(max-width: 480px) 100vw, (max-width: 768px) 100vw, 800px">
+      {{- end -}}
+      <img
+        src="{{ $defaultImg.RelPermalink }}"
+        alt="{{ $alt }}"
+        width="{{ $defaultImg.Width }}"
+        height="{{ $defaultImg.Height }}"
+        loading="lazy"
+        decoding="async">
+    </picture>
+    {{- if $link -}}
+    </a>
+    {{- end -}}
+  {{- else -}}
+    {{/* Fallback for non-processable images (SVG, GIF, external, etc.) */}}
+    {{- if $link -}}
+    <a href="{{ $link }}">
+    {{- end -}}
+    <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy" decoding="async">
+    {{- if $link -}}
+    </a>
+    {{- end -}}
+  {{- end -}}
+  {{- with $caption -}}
+  <figcaption>{{ . | markdownify }}</figcaption>
+  {{- end -}}
+</figure>
