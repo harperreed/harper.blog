@@ -248,3 +248,31 @@
 
 - id: current-language
   translation: "言語"
+
+# Redesign keys (Task 5)
+- id: latestFrames
+  translation: "最新の写真"
+
+- id: selectedFrames
+  translation: "選りすぐりの写真"
+
+- id: contact
+  translation: "連絡先"
+
+- id: writtenByHuman
+  translation: "この記事は{{ . }}%人間が書きました。"
+
+- id: nothingHereYet
+  translation: "まだ何もありません。"
+
+- id: moreInNotes
+  translation: "もっとノートを見る →"
+
+- id: subscribeViaRSS
+  translation: "購読は"
+
+- id: sayHi
+  translation: "こんにちは、"
+
+- id: no-books
+  translation: "本が見つかりません"

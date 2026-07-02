@@ -257,3 +257,31 @@
 
 - id: current-language
   translation: "언어"
+
+# Redesign keys (Task 5)
+- id: latestFrames
+  translation: "최신 사진"
+
+- id: selectedFrames
+  translation: "선택된 사진"
+
+- id: contact
+  translation: "연락처"
+
+- id: writtenByHuman
+  translation: "이 글은 {{ . }}% 사람이 작성했습니다."
+
+- id: nothingHereYet
+  translation: "아직 아무것도 없습니다."
+
+- id: moreInNotes
+  translation: "노트에서 더 보기 →"
+
+- id: subscribeViaRSS
+  translation: "구독"
+
+- id: sayHi
+  translation: "인사하기"
+
+- id: no-books
+  translation: "책을 찾을 수 없습니다"

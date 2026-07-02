@@ -438,3 +438,13 @@ a { color: var(--acc); }
 @media (max-width: 640px) {
   .book-single__cover { float: none; margin: 0 0 20px; width: 120px; }
 }
+
+/* ---------- Language switcher ---------- */
+.lang-switch { display: inline-flex; gap: 8px; margin-left: 8px; padding-left: 12px; border-left: 1px solid var(--line); }
+.lang-switch__link { font-size: 12px; letter-spacing: .08em; color: var(--mut); text-decoration: none; text-transform: uppercase; }
+.lang-switch__link:hover { color: var(--ink); }
+.lang-switch__link.is-active { color: var(--ink); }
+
+@media (max-width: 640px) {
+  .lang-switch { margin-left: 0; padding-left: 0; border-left: 0; }
+}

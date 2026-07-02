@@ -12,6 +12,7 @@
         {{ end }}
         <a href="{{ .URL | relURL }}" class="nav__link{{ if $active }} is-active{{ end }}">{{ .Name }}</a>
       {{ end }}
+      {{ partial "language-switcher.html" . }}
       {{ with .OutputFormats.Get "rss" }}
         <a href="{{ .RelPermalink }}" class="nav__link nav__link--rss">RSS</a>
       {{ else }}

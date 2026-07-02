@@ -1,12 +1,58 @@
 ######### menu #########
 
+[[main]]
+identifier = "home"
+name = "ホーム"
+url = "/ja/"
+weight = 1
 
 [[main]]
-identifier = "contact"
-name = "harper@modest.com"
-url = "mailto:harper@modest.com"
+identifier = "posts"
+name = "記事"
+url = "/ja/posts/"
+weight = 2
+
+[[main]]
+identifier = "notes"
+name = "ノート"
+url = "/notes/"
+weight = 3
+
+[[main]]
+identifier = "books"
+name = "本"
+url = "/media/books/"
+weight = 4
+
+[[main]]
+identifier = "links"
+name = "リンク"
+url = "/media/links/"
+weight = 5
+
+[[main]]
+identifier = "music"
+name = "音楽"
+url = "/media/music/"
 weight = 6
 
+[[main]]
+identifier = "photos"
+name = "写真"
+url = "/photos/"
+weight = 7
+
+[[main]]
+identifier = "about"
+name = "自己紹介"
+url = "/ja/about/"
+weight = 8
+
+[[main]]
+identifier = "now"
+name = "現在"
+url = "/now/"
+weight = 9
 
 [[footer]]
 identifier = "personal"

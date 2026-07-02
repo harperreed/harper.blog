@@ -1,11 +1,58 @@
 ######### menu #########
 
+[[main]]
+identifier = "home"
+name = "홈"
+url = "/ko/"
+weight = 1
 
 [[main]]
-identifier = "contact"
-name = "harper@modest.com"
-url = "mailto:harper@modest.com"
+identifier = "posts"
+name = "글"
+url = "/ko/posts/"
+weight = 2
+
+[[main]]
+identifier = "notes"
+name = "노트"
+url = "/notes/"
+weight = 3
+
+[[main]]
+identifier = "books"
+name = "책"
+url = "/media/books/"
+weight = 4
+
+[[main]]
+identifier = "links"
+name = "링크"
+url = "/media/links/"
+weight = 5
+
+[[main]]
+identifier = "music"
+name = "음악"
+url = "/media/music/"
 weight = 6
+
+[[main]]
+identifier = "photos"
+name = "사진"
+url = "/photos/"
+weight = 7
+
+[[main]]
+identifier = "about"
+name = "소개"
+url = "/ko/about/"
+weight = 8
+
+[[main]]
+identifier = "now"
+name = "지금"
+url = "/now/"
+weight = 9
 
 [[footer]]
 identifier = "personal"

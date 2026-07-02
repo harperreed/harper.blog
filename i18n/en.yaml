@@ -257,3 +257,31 @@
 
 - id: current-language
   translation: "Language"
+
+# Redesign keys (Task 5)
+- id: latestFrames
+  translation: "Latest frames"
+
+- id: selectedFrames
+  translation: "Selected frames"
+
+- id: contact
+  translation: "Contact"
+
+- id: writtenByHuman
+  translation: "This post was written {{ . }}% by a human."
+
+- id: nothingHereYet
+  translation: "Nothing here yet."
+
+- id: moreInNotes
+  translation: "More in the notes →"
+
+- id: subscribeViaRSS
+  translation: "Subscribe via"
+
+- id: sayHi
+  translation: "or say hi at"
+
+- id: no-books
+  translation: "No books found"

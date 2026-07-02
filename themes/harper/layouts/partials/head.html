@@ -8,6 +8,7 @@
 <link rel="alternate" type="application/rss+xml" href="{{ .Permalink }}" title="{{ site.Title }}">
 {{ end }}
 <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+{{ partial "head/seo.html" . }}
 {{/* No-flash theme init: set data-theme before first paint */}}
 <script>
 (function () {
