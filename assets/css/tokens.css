@@ -1,0 +1,41 @@
+/* ABOUTME: Design-token palette (6 semantic colors × light/dark) plus font/size/radius tokens for the Design 4 restyle. */
+/* ABOUTME: :root is the default "paper" palette; [data-mode] is the manual override; themes.css layers per-theme values on top. */
+
+:root {
+    --bg: #ffffff;
+    --bg2: #f7f5f1;
+    --ink: #191817;
+    --mut: #8c877e;
+    --line: #ece9e3;
+    --accent: #b8532c;
+    color-scheme: light;
+
+    --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    --font-mono: ui-monospace, Menlo, monospace;
+    --size-width: 660px;
+    --radius-thumb: 4px;
+    --radius-fig: 5px;
+    --radius-code: 6px;
+}
+
+:root[data-mode="dark"] {
+    --bg: #0f1011;
+    --bg2: #17181a;
+    --ink: #edebe7;
+    --mut: #8a8d90;
+    --line: #242628;
+    --accent: #e08a5f;
+    color-scheme: dark;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root:not([data-mode="light"]) {
+        --bg: #0f1011;
+        --bg2: #17181a;
+        --ink: #edebe7;
+        --mut: #8a8d90;
+        --line: #242628;
+        --accent: #e08a5f;
+        color-scheme: dark;
+    }
+}

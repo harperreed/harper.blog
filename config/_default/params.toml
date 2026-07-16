@@ -37,6 +37,7 @@ defaultContentLanguage = "en"
 
 
 customcss = [
+    "/css/tokens.css",
     "/css/root-colors.css",
     "/css/harper.css",
     "/css/shared.css",
