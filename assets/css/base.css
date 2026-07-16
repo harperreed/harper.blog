@@ -1,0 +1,492 @@
+/* ABOUTME: Core stylesheet for the Design 4 restyle: reset, chrome (header/nav/footer), typography, links, */
+/* ABOUTME: the shared date-row list pattern, figures, blockquotes, tables, forms, pagination, and responsive rules. */
+
+/* ---------- reset ---------- */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--font-sans);
+    font-size: 19px;
+    line-height: 1.75;
+}
+
+/* ---------- skip link ---------- */
+.skip-link {
+    position: absolute;
+    top: -48px;
+    left: 16px;
+    z-index: 10;
+    padding: 8px 14px;
+    background: var(--bg2);
+    color: var(--ink);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-thumb);
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.skip-link:focus {
+    top: 16px;
+}
+
+/* ---------- site chrome: header ---------- */
+/* body > header only: content templates (photos, notes) use <header> inside main */
+body > header {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px 24px;
+    padding: 20px 40px;
+    border-bottom: 1px solid var(--line);
+}
+
+.wordmark {
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+    text-decoration: none;
+}
+
+body > header nav {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px 22px;
+    margin-left: auto;
+}
+
+body > header nav a {
+    font-size: 14px;
+    color: var(--mut);
+    text-decoration: none;
+}
+
+body > header nav a:hover,
+body > header nav a.active {
+    color: var(--ink);
+}
+
+body > header nav a.nav-rss {
+    color: var(--accent);
+    padding-left: 22px;
+    border-left: 1px solid var(--line);
+}
+
+#mode-toggle {
+    font-size: 14px;
+    color: var(--mut);
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    font-family: inherit;
+}
+
+#mode-toggle:hover {
+    color: var(--ink);
+}
+
+/* ---------- layout column ---------- */
+main {
+    max-width: var(--size-width);
+    margin: 0 auto;
+    padding: 52px 20px 8px;
+    box-sizing: content-box;
+}
+
+/* ---------- typography ---------- */
+h1 {
+    font-size: 36px;
+    line-height: 1.15;
+    letter-spacing: -0.022em;
+    font-weight: 600;
+    margin: 6px 0 18px;
+}
+
+h2 {
+    font-size: 24px;
+    line-height: 1.3;
+    letter-spacing: -0.015em;
+    font-weight: 600;
+    margin: 40px 0 12px;
+}
+
+h3 {
+    font-size: 20px;
+    line-height: 1.35;
+    font-weight: 600;
+    margin: 32px 0 10px;
+}
+
+h4,
+h5,
+h6 {
+    font-size: 19px;
+    font-weight: 600;
+    margin: 28px 0 8px;
+}
+
+p {
+    margin: 0 0 1.35em;
+}
+
+main a {
+    color: var(--accent);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+article ul,
+article ol {
+    margin: 0 0 1.35em;
+    padding-left: 1.4em;
+}
+
+.section-label,
+.related-posts h3 {
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--mut);
+    margin: 46px 0 6px;
+}
+
+/* ---------- home intro ---------- */
+.home-intro p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--mut);
+    margin: 14px 0 0;
+}
+
+.home-intro p:first-child {
+    font-size: 22px;
+    line-height: 1.55;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+    margin: 0 0 6px;
+}
+
+.more-link {
+    display: inline-block;
+    margin-top: 16px;
+    font-size: 14px;
+    color: var(--accent);
+    text-decoration: none;
+}
+
+/* ---------- date-row lists (shared pattern) ---------- */
+:is(ul.blog-posts, ul.link-posts, ul.book-posts, ul.music-posts, ul.media-link-posts, ul.now-posts, ul.related-posts-list) {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+:is(ul.blog-posts, ul.link-posts, ul.book-posts, ul.music-posts, ul.media-link-posts, ul.now-posts, ul.related-posts-list) li {
+    display: flex;
+    gap: 20px;
+    align-items: baseline;
+    padding: 11px 0;
+    border-bottom: 1px solid var(--line);
+}
+
+:is(ul.blog-posts, ul.link-posts, ul.book-posts, ul.music-posts, ul.media-link-posts, ul.now-posts, ul.related-posts-list) li:last-child {
+    border-bottom: none;
+}
+
+:is(ul.blog-posts, ul.link-posts, ul.book-posts, ul.music-posts, ul.media-link-posts, ul.now-posts, ul.related-posts-list) li > span {
+    flex: none;
+    width: 88px;
+    font-size: 14px;
+    color: var(--mut);
+    font-variant-numeric: tabular-nums;
+}
+
+:is(ul.blog-posts, ul.link-posts, ul.book-posts, ul.music-posts, ul.media-link-posts, ul.now-posts, ul.related-posts-list) li > span i {
+    font-style: normal;
+}
+
+:is(ul.blog-posts, ul.link-posts, ul.book-posts, ul.music-posts, ul.media-link-posts, ul.now-posts, ul.related-posts-list) li a {
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+    text-decoration: none;
+}
+
+:is(ul.blog-posts, ul.link-posts, ul.book-posts, ul.music-posts, ul.media-link-posts, ul.now-posts, ul.related-posts-list) li a:hover {
+    color: var(--accent);
+}
+
+/* secondary text inside rows (link domains, book authors, artists) */
+.link-domain,
+.book-domain,
+.music-domain {
+    font-size: 15px;
+    font-weight: 400;
+    color: var(--mut);
+}
+
+/* related posts put the date inside the anchor, after the title — pull it back into the date column */
+a.related-post-link {
+    display: flex;
+    gap: 20px;
+    align-items: baseline;
+    flex: 1;
+}
+
+time.related-post-date {
+    order: -1;
+    flex: none;
+    width: 88px;
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--mut);
+    font-variant-numeric: tabular-nums;
+}
+
+/* filter notices on tag-filtered lists */
+.blog-filter,
+.link-filter,
+.book-filter,
+.music-filter,
+.now-filter,
+.filter-notice {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--mut);
+    margin: 0 0 18px;
+}
+
+/* ---------- bylines & kickers ---------- */
+.kicker {
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 0 0 10px;
+}
+
+.byline {
+    font-size: 13px;
+    color: var(--mut);
+    margin: -8px 0 36px;
+}
+
+.byline a {
+    color: var(--mut);
+}
+
+/* ---------- images & figures ---------- */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+figure {
+    margin: 32px 0;
+}
+
+figure img {
+    display: block;
+    border-radius: var(--radius-fig);
+}
+
+figcaption {
+    font-size: 13px;
+    color: var(--mut);
+    margin-top: 8px;
+}
+
+/* ---------- blockquote ---------- */
+blockquote {
+    margin: 28px 0;
+    padding: 2px 0 2px 20px;
+    border-left: 3px solid var(--line);
+    color: var(--mut);
+    font-style: italic;
+}
+
+/* ---------- tables ---------- */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 28px 0;
+    font-size: 16px;
+}
+
+th,
+td {
+    text-align: left;
+    padding: 8px 10px;
+    border-bottom: 1px solid var(--line);
+}
+
+th {
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--mut);
+}
+
+/* ---------- rules ---------- */
+hr {
+    border: 0;
+    border-top: 1px solid var(--line);
+    margin: 40px 0;
+}
+
+/* ---------- forms ---------- */
+input,
+textarea {
+    font-family: inherit;
+    font-size: 16px;
+    color: var(--ink);
+    background: var(--bg2);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-thumb);
+    padding: 8px 10px;
+}
+
+/* ---------- tags ---------- */
+a.blog-tags,
+a.now-tags {
+    font-size: 13px;
+    color: var(--mut);
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+a.blog-tags:hover,
+a.now-tags:hover {
+    color: var(--accent);
+}
+
+/* ---------- pagination ---------- */
+.pagination {
+    display: flex;
+    gap: 18px;
+    align-items: baseline;
+    margin: 36px 0 8px;
+    font-size: 14px;
+}
+
+.pagination .page-number {
+    color: var(--mut);
+}
+
+.pagination a {
+    color: var(--accent);
+    text-decoration: none;
+}
+
+/* ---------- now page ---------- */
+details summary {
+    cursor: pointer;
+    font-size: 14px;
+    color: var(--mut);
+}
+
+/* ---------- site chrome: footer ---------- */
+body > footer {
+    max-width: var(--size-width);
+    margin: 44px auto 0;
+    padding: 22px 20px;
+    border-top: 1px solid var(--line);
+    box-sizing: content-box;
+    font-size: 13px;
+    color: var(--mut);
+}
+
+body > footer a {
+    color: var(--mut);
+    text-decoration: none;
+}
+
+body > footer a:hover {
+    color: var(--ink);
+}
+
+.footer-row {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 6px 10px;
+}
+
+.footer-meta {
+    margin-top: 8px;
+}
+
+/* ---------- focus & motion ---------- */
+:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+}
+
+/* ---------- responsive ---------- */
+@media (max-width: 640px) {
+    body {
+        font-size: 17px;
+    }
+
+    body > header {
+        padding: 16px 20px;
+    }
+
+    body > header nav {
+        flex-basis: 100%;
+        margin-left: 0;
+    }
+
+    main {
+        padding: 36px 20px 8px;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+
+    :is(ul.blog-posts, ul.link-posts, ul.book-posts, ul.music-posts, ul.media-link-posts, ul.now-posts, ul.related-posts-list) li {
+        flex-direction: column;
+        gap: 2px;
+        align-items: flex-start;
+    }
+
+    :is(ul.blog-posts, ul.link-posts, ul.book-posts, ul.music-posts, ul.media-link-posts, ul.now-posts, ul.related-posts-list) li > span {
+        width: auto;
+        font-size: 13px;
+    }
+
+    a.related-post-link {
+        flex-direction: column;
+        gap: 2px;
+        align-items: flex-start;
+    }
+
+    time.related-post-date {
+        width: auto;
+        font-size: 13px;
+    }
+}
