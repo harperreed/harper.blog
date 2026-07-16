@@ -1,26 +1,27 @@
-{{ define "main" }} {{ .Content }}
+{{- /*
+ABOUTME: Home page layout — renders intro content, recent posts, and recent notes.
+ABOUTME: Consumes .home-intro, .section-label, .more-link, and date-row list styles from base.css.
+*/ -}}
+{{ define "main" }}
+<div class="home-intro">{{ .Content }}</div>
 
-{{ $notes := first 5 (where .Site.RegularPages "Section" "post") }} 
-{{ if $notes }}
-<h2>{{ i18n "posts" | default "Posts" }}</h2>
+{{ $posts := first 5 (where .Site.RegularPages "Section" "post") }}
+{{ if $posts }}
+<h2 class="section-label">{{ i18n "posts" | default "Posts" }}</h2>
 <ul class="blog-posts">
-    
-    {{ range $notes }}
+    {{ range $posts }}
     <li>
         <span>
-            <i>
-                <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
-                    {{ .Date.Format (default "2006-01-02"
-                    .Site.Params.dateFormat) }}
-                </time>
-            </i>
+            <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
+                {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
+            </time>
         </span>
         {{ if .Params.link }}
         <a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer" aria-label="Link to {{ .Title }}">
             {{ .Title }} ↪
         </a>
         {{ else }}
-        <a href="{{ .RelPermalink }}" title="{{.Summary}}" aria-label="Link to {{ .Title }}">
+        <a href="{{ .RelPermalink }}" title="{{ .Summary }}" aria-label="Link to {{ .Title }}">
             {{ .Title }}
         </a>
         {{ end }}
@@ -29,32 +30,28 @@
     <li>{{ i18n "no-posts" }}</li>
     {{ end }}
 </ul>
-<a href="{{ "/posts" | relLangURL }}" aria-label="More Posts">{{ i18n "morePosts" | default "More Posts" }}</a>
+<a class="more-link" href="{{ "/posts" | relLangURL }}" aria-label="More Posts">{{ i18n "morePosts" | default "More Posts" }} →</a>
 {{ end }}
 
-{{ $notes := first 5 (where .Site.RegularPages "Section" "notes") }} 
+{{ $notes := first 5 (where .Site.RegularPages "Section" "notes") }}
 {{ if $notes }}
-<h2>{{ i18n "notes" | default "Notes" }}</h2>
+<h2 class="section-label">{{ i18n "notes" | default "Notes" }}</h2>
 <ul class="blog-posts" aria-label="List of recent notes">
-    
     {{ range $notes }}
     <li>
         <span>
-            <i>
-                <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
-                    {{ .Date.Format (default "2006-01-02"
-                    .Site.Params.dateFormat) }}
-                </time>
-            </i>
+            <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
+                {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
+            </time>
         </span>
         <a href="{{ .RelPermalink }}" aria-label="Note: {{ .Description | default .Title }}">
-            {{ .Description | default .Title | truncate 120}}
+            {{ .Description | default .Title | truncate 120 }}
         </a>
     </li>
     {{ else }}
     <li>{{ i18n "no-notes" | default "No notes yet." }}</li>
     {{ end }}
 </ul>
-<a href="{{ "/notes" | relLangURL }}" aria-label="More Notes">{{ i18n "moreNotes" | default "More Notes" }}</a>
+<a class="more-link" href="{{ "/notes" | relLangURL }}" aria-label="More Notes">{{ i18n "moreNotes" | default "More Notes" }} →</a>
 {{ end }}
 {{ end }}

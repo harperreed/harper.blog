@@ -8,6 +8,7 @@ weight = 1
 [en.params]
 description = "Some writing by Harper Reed. Mostly about technology, politics, and things"
 subtitle = "Musing from a normal person doing normal things"
+dateFormat = "02 Jan 06"
 
 [ja]
 title = "ハーパー・リードのブログ"

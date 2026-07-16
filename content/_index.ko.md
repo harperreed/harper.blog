@@ -12,7 +12,7 @@ title: 홈
 translationKey: index
 ---
 
-### 제 이름은 Harper Reed입니다. 이곳은 제 블로그입니다.
+제 이름은 Harper Reed입니다. 이곳은 제 블로그입니다.
 
 저에 대해 더 알고 싶으시면 제 웹사이트 [harper.lol](https://harper.lol)을 방문해 주십시오.
 
