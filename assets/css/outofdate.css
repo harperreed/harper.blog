@@ -1,4 +1,5 @@
 /* ABOUTME: Old-post warning as a quiet hairline-left note (design4). */
+/* ABOUTME: Styles .outofdate-warning on single post pages; consumes --line and --mut from the six-token system. */
 
 .outofdate-warning {
     margin: 24px 0;

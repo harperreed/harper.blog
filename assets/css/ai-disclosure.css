@@ -1,4 +1,5 @@
 /* ABOUTME: AI/human authorship notice as a quiet muted italic line (design4 — no box). */
+/* ABOUTME: Styles the .ai-disclosure element on single post pages; consumes --mut from the six-token system. */
 
 .ai-disclosure {
     margin-top: 40px;

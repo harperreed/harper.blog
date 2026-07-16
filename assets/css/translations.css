@@ -1,4 +1,5 @@
 /* ABOUTME: Available-translations notice as a quiet hairline-left note (design4). */
+/* ABOUTME: Styles .post-translations-box on single post pages; consumes --line and --mut from the six-token system. */
 
 .post-translations-box {
     margin: 24px 0;

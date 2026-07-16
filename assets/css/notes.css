@@ -1,4 +1,5 @@
 /* ABOUTME: Notes section: date-column rows with 3-up image thumbnails on the list, 28px titles on singles. */
+/* ABOUTME: Styles the /notes list and single-note pages; consumes --bg --bg2 --ink --mut --line --accent (all six tokens). */
 
 .note-row {
     display: flex;

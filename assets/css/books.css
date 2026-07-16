@@ -45,6 +45,8 @@
     text-decoration: none;
 }
 
+/* color-mix() is required here for the translucent cover overlay; its 2023+ browser baseline matches the */
+/* color-mix() dependency already present in themes.css, so no rgba() fallback is provided. */
 .book-info {
     position: absolute;
     right: 0;

@@ -39,6 +39,8 @@
     text-decoration: none;
 }
 
+/* color-mix() is required here for the translucent album-art overlay; its 2023+ browser baseline matches the */
+/* color-mix() dependency already present in themes.css, so no rgba() fallback is provided. */
 .music-info {
     position: absolute;
     right: 0;

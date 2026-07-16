@@ -1,4 +1,5 @@
 /* ABOUTME: Masonry photo grid for the notes grid view (notes/notes-grid layout). */
+/* ABOUTME: Styles .masonry-columns and .masonry-item; consumes --bg2, --line, --accent from the six-token system. */
 
 .masonry-columns {
     column-count: 3;
