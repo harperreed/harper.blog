@@ -1,7 +1,12 @@
+/* ABOUTME: AI/human authorship notice as a quiet muted italic line (design4 — no box). */
+
 .ai-disclosure {
-    margin-top: var(--margin);
-    border: 1px dashed var(--color-secondary);
-    background: var(--color-tertiary);
-    padding-left: var(--margin);
-    padding-right: var(--margin);
+    margin-top: 40px;
+    font-size: 13px;
+    font-style: italic;
+    color: var(--mut);
+}
+
+.ai-disclosure p {
+    margin: 0;
 }

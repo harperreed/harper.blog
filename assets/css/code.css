@@ -1,25 +1,29 @@
+/* ABOUTME: Inline code and code blocks on the bg2 surface with hairline borders (design4). */
+/* ABOUTME: Chroma token colors come from bearcub's syntax.css, which loads after this file. */
+
 code {
-    padding: 2px 5px;
-    color: var(--color-code-fg);
-    background-color: var(--color-code-bg);
-    font-family: monospace;
+    font-family: var(--font-mono);
+    font-size: 0.85em;
+    background: var(--bg2);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-thumb);
+    padding: 0.1em 0.35em;
 }
 
 pre {
-    max-width: 100%;
+    background: var(--bg2);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-code);
+    padding: 16px 20px;
     overflow-x: auto;
+    font-size: 14px;
+    line-height: 1.6;
+    margin: 28px 0;
 }
 
 pre code {
-    display: block;
-    padding: var(--margin);
-    white-space: pre-wrap;
-    font-size: var(--font-size-base);
-    overflow-x: auto;
-    text-wrap: nowrap;
-}
-
-code[data-lang="prompt"],
-code[data-lang="text"] {
-    text-wrap: wrap;
+    background: none;
+    border: none;
+    padding: 0;
+    font-size: inherit;
 }

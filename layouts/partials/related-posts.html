@@ -16,7 +16,7 @@
         <span class="related-post-title">{{ .Title }}</span>
         {{- if .Date -}}
         <time datetime="{{ .Date.Format "2006-01-02" }}" class="related-post-date">
-          {{ .Date.Format "2006-01-02" }}
+          {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
         </time>
         {{- end -}}
       </a>
