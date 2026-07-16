@@ -1,15 +1,4 @@
 <a class="skip-link" href="#main-content" aria-label="Skip to main content">{{ i18n "skip-link" }}</a>
-<a
-    href="{{ relURL .Site.Home.RelPermalink }}"
-    class="title"
-    aria-label="Home"
->
-    <img
-        src="{{ .Site.Params.avatar }}"
-        alt="Avatar"
-        class="avatar"
-    />
-    <h1>{{ .Site.Title }}</h1>
-</a>
+<a href="{{ relURL .Site.Home.RelPermalink }}" class="wordmark" aria-label="{{ i18n "home-aria" | default "Home" }}">{{ .Site.Title }}</a>
 
-<nav aria-label="Main Navigation">{{- partialCached "nav.html" . -}}</nav>
+<nav aria-label="{{ i18n "main-nav-aria" | default "Main Navigation" }}">{{- partial "nav.html" . -}}</nav>

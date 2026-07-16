@@ -37,7 +37,7 @@
     </head>
 
     <body>
-        <header>{{- partialCached "header.html" . -}}</header>
+        <header>{{- partial "header.html" . -}}</header>
         <main id="main-content">{{- block "main" . }}{{- end }}</main>
         <footer>{{- partialCached "footer.html" . -}}</footer>
 
