@@ -1,84 +1,34 @@
-/* Masonry Columns Container */
+/* ABOUTME: Masonry photo grid for the notes grid view (notes/notes-grid layout). */
+
 .masonry-columns {
     column-count: 3;
-    column-gap: 16px;
-    column-fill: balance;
-    width: 100%;
-    margin: 0 auto;
-    padding: 0;
+    column-gap: 12px;
 }
 
-/* Responsive columns */
-@media (max-width: 1200px) {
+.masonry-item {
+    break-inside: avoid;
+    margin-bottom: 12px;
+}
+
+.masonry-item img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius-thumb);
+}
+
+.masonry-item a:hover img {
+    opacity: 0.9;
+}
+
+@media (max-width: 900px) {
     .masonry-columns {
         column-count: 2;
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
     .masonry-columns {
         column-count: 1;
     }
-}
-
-/* Masonry Items */
-.masonry-item {
-    break-inside: avoid;
-    margin-bottom: 16px;
-    page-break-inside: avoid;
-    -webkit-column-break-inside: avoid;
-    position: relative;
-    display: block;
-    will-change: transform;
-    transform: translateZ(0);
-}
-
-/* Image Styling */
-.masonry-item img {
-    width: 100%;
-    height: auto;
-    border-radius: 2px;
-    object-fit: cover;
-    display: block;
-    backface-visibility: hidden;
-    -webkit-backface-visibility: hidden;
-    transition: transform 0.3s ease;
-    will-change: transform;
-}
-
-/* Hover effect */
-.masonry-item:hover img {
-    transform: scale(1.02);
-}
-
-/* Fix for Firefox */
-@-moz-document url-prefix() {
-    .masonry-item {
-        display: inline-block;
-        width: 100%;
-    }
-}
-
-/* Fix for Safari */
-@supports (-webkit-overflow-scrolling: touch) {
-    .masonry-item {
-        -webkit-transform: translate3d(0, 0, 0);
-    }
-}
-
-/* Prevent FOUC */
-.masonry-columns {
-    opacity: 0;
-    animation: fadeIn 0.3s ease forwards;
-}
-
-@keyframes fadeIn {
-    to {
-        opacity: 1;
-    }
-}
-
-@media (prefers-reduced-motion: reduce) {
-    .notes-masonry-item { animation: none; transition: none; }
-    .notes-masonry-item:hover { transform: none; }
 }

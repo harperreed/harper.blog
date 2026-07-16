@@ -4,44 +4,37 @@
     <p class="filter-notice">{{ i18n "filtering-for" }} "{{ .Title }}"</p>
     {{ end }}
     <div class="notes">
-        
-        {{ $paginator := .Paginate .Pages (.Param "notes_pagination" | default
-        2) }}
-        <!-- {{ $paginator := .Paginate .Pages .Site.Params.notes_pagination }} -->
+        {{ $paginator := .Paginate .Pages (.Param "notes_pagination" | default 2) }}
         {{ range $paginator.Pages }}
-        <article class="post">
-            <header>
+        <article class="note-row">
+            <a class="note-date" href="{{ .RelPermalink }}" title="{{ i18n "permalink-note-title" | default "Permalink to this note" }}">
                 <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
-                    {{ .Date.Format "Jan 02, 2006" }}
+                    {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
                 </time>
-                 <a href="{{ .RelPermalink }}" title="Permalink to this note">#</a>
-                 <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
-            </header>
-            {{ if .Params.text }} {{ .Params.text | markdownify }} {{ else }} {{
-            .Content }} 
-            {{ end }} 
-            {{ with .Resources.ByType "image" }}
-            <div class="note-images">
-                {{ range . }} 
-                {{ $thumbnail := .Resize "600x" }}
-                <img
-                    src="{{ $thumbnail.RelPermalink }}"
-                    alt="{{ .Title }}"
-                    loading="lazy"
-                    width="{{ $thumbnail.Width }}"
-                    height="{{ $thumbnail.Height }}"
-                />
+            </a>
+            <div class="note-body">
+                {{ if .Params.text }} {{ .Params.text | markdownify }} {{ else }} {{ .Content }} {{ end }}
+                {{ with .Resources.ByType "image" }}
+                <div class="note-images">
+                    {{ range . }}
+                    {{ $thumbnail := .Resize "600x" }}
+                    <img
+                        src="{{ $thumbnail.RelPermalink }}"
+                        alt="{{ .Title }}"
+                        loading="lazy"
+                        width="{{ $thumbnail.Width }}"
+                        height="{{ $thumbnail.Height }}"
+                    />
+                    {{ end }}
+                </div>
                 {{ end }}
+                <div class="note-meta">
+                    {{ if .Params.tags }} {{ range .Params.tags }}
+                    <a class="blog-tags" href="/tags/{{ . }}">#{{ . }}</a>
+                    {{ end }} {{ end }}
+                    <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
+                </div>
             </div>
-            {{ end }}
-
-            <div>
-                {{ if .Params.tags }} {{ range .Params.tags }}
-                <a href="/tags/{{ . }}">#{{ . }}</a>
-                {{ end }} {{ end }}
-            </div>
-
-            <hr />
         </article>
         {{ else }}
         <p>{{ i18n "no-notes" | default "No notes yet." }}</p>

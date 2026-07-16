@@ -1,28 +1,93 @@
-/* notes */
+/* ABOUTME: Notes section: date-column rows with 3-up image thumbnails on the list, 28px titles on singles. */
 
-.notes hr {
-    border: 0;
-    border-top: 1px solid var(--color-tertiary);
-    margin: 2rem 0;
+.note-row {
+    display: flex;
+    gap: 20px;
+    padding: 18px 0;
+    border-bottom: 1px solid var(--line);
+}
+
+.note-row:last-child {
+    border-bottom: none;
+}
+
+.note-date {
+    flex: none;
+    width: 88px;
+    font-size: 14px;
+    color: var(--mut);
+    font-variant-numeric: tabular-nums;
+    text-decoration: none;
+    line-height: 1.6;
+}
+
+.note-date:hover {
+    color: var(--accent);
+}
+
+.note-body {
+    flex: 1;
+    min-width: 0;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.note-body p {
+    margin: 0 0 10px;
+}
+
+.note-body p:last-child {
+    margin-bottom: 0;
+}
+
+.note-images {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+    margin-top: 12px;
 }
 
 .note-images img {
-    max-width: 100%;
-    height: auto;
+    width: 100%;
+    height: 110px;
     object-fit: cover;
-    padding: var(--margin);
-    background-color: white;
-    border: 1px solid var(--color-tertiary);
-    border-radius: var(--border-radius-base);
+    border-radius: var(--radius-thumb);
 }
 
-/* Media query for mobile devices */
-@media screen and (max-width: 768px) {
+.note-meta {
+    margin-top: 10px;
+    font-size: 13px;
+    color: var(--mut);
+}
+
+/* single note page */
+.note-title {
+    font-size: 28px;
+}
+
+article > .note-images {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+    margin: 20px 0;
+}
+
+article > .note-images img {
+    border-radius: var(--radius-thumb);
+}
+
+@media (max-width: 640px) {
+    .note-row {
+        flex-direction: column;
+        gap: 4px;
+    }
+
+    .note-date {
+        width: auto;
+        font-size: 13px;
+    }
+
     .note-images img {
-        padding: 0px; /* Smaller padding on mobile */
-        border-radius: var(
-            --border-radius-sm
-        ); /* Slightly smaller border-radius */
-        border: 1px solid var(--color-primary);
+        height: 90px;
     }
 }
