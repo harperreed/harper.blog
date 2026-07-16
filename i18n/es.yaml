@@ -260,3 +260,12 @@
 
 - id: footer-tagline
   translation: "blogueando desde 2001, wtaf"
+
+- id: mode-dark
+  translation: "oscuro"
+
+- id: mode-light
+  translation: "claro"
+
+- id: mode-toggle-aria
+  translation: "Cambiar modo oscuro"

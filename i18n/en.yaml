@@ -260,3 +260,12 @@
 
 - id: footer-tagline
   translation: "blogging since 2001, wtaf"
+
+- id: mode-dark
+  translation: "dark"
+
+- id: mode-light
+  translation: "light"
+
+- id: mode-toggle-aria
+  translation: "Toggle dark mode"

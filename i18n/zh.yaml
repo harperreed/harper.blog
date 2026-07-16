@@ -260,3 +260,12 @@
 
 - id: footer-tagline
   translation: "从2001年开始写博客，wtaf"
+
+- id: mode-dark
+  translation: "深色"
+
+- id: mode-light
+  translation: "浅色"
+
+- id: mode-toggle-aria
+  translation: "切换深色模式"

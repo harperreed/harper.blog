@@ -251,3 +251,12 @@
 
 - id: footer-tagline
   translation: "2001年からブログを書いています、wtaf"
+
+- id: mode-dark
+  translation: "ダーク"
+
+- id: mode-light
+  translation: "ライト"
+
+- id: mode-toggle-aria
+  translation: "ダークモード切り替え"

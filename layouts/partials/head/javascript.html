@@ -1,3 +1,10 @@
+{{ with resources.Get "js/mode-init.js" }}
+    {{ $init := . | minify | resources.Fingerprint "sha512" }}
+<script
+    src="{{ $init.RelPermalink }}"
+    integrity="{{ $init.Data.Integrity }}"
+></script>
+{{ end }}
 {{ with .Site.Params.customjs }}
     {{ $js := slice }}
     {{- range . -}}

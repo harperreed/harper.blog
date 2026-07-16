@@ -260,3 +260,12 @@
 
 - id: footer-tagline
   translation: "ngeblog sejak 2001, wtaf"
+
+- id: mode-dark
+  translation: "gelap"
+
+- id: mode-light
+  translation: "terang"
+
+- id: mode-toggle-aria
+  translation: "Ganti mode gelap"

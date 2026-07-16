@@ -54,7 +54,7 @@ customcss = [
     "syntax.css",
 ]
 
-customjs = ["/js/bluesky_comments.js", "/js/theme.js", "/js/image-loading.js"]
+customjs = ["/js/bluesky_comments.js", "/js/mode.js", "/js/image-loading.js"]
 
 [author]
 name = "Harper Reed"
