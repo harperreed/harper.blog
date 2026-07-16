@@ -1,0 +1,36 @@
+/* ABOUTME: Photo wall (photos section) — grid of the first image from each note, with quiet captions. */
+
+.photo-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 10px;
+    margin-top: 24px;
+}
+
+.photo-item img {
+    display: block;
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: var(--radius-thumb);
+}
+
+.photo-item a:hover img {
+    opacity: 0.9;
+}
+
+.photo-meta {
+    padding: 6px 0 0;
+}
+
+.photo-meta time {
+    font-size: 13px;
+    color: var(--mut);
+    font-variant-numeric: tabular-nums;
+}
+
+.photo-meta p {
+    font-size: 13px;
+    color: var(--mut);
+    margin: 2px 0 0;
+}
