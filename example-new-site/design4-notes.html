@@ -1,0 +1,97 @@
+<!-- ABOUTME: Standalone notes page extracted from Design 4 of the Harper Blog Redesign. -->
+<!-- ABOUTME: Preserves the original visual markup, theme toggle, and image-slot dependencies. -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="../support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet data-dc-atomics>
+<style>
+:root{--pbg:#FFFFFF;--pbg2:#F7F5F1;--pink:#191817;--pmut:#8C877E;--pline:#ECE9E3;--pacc:#B8532C}
+body[data-mode="dark"]{--pbg:#0F1011;--pbg2:#17181A;--pink:#EDEBE7;--pmut:#8A8D90;--pline:#242628;--pacc:#E08A5F}
+body{margin:0;background:var(--pbg,#fff)}
+image-slot{display:block;width:100%;height:100%}
+</style>
+</helmet>
+<div style="width:820px;background:var(--pbg,#fff);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;color:var(--pink,#191817)">
+
+  <header style="display:flex;align-items:center;gap:24px;padding:20px 40px;border-bottom:1px solid var(--pline,#ECE9E3)">
+    <a href="design4-home.html" style="font-size:16px;font-weight:600;letter-spacing:-0.01em;color:var(--pink,#191817);text-decoration:none">Harper Reed</a>
+    <nav style="display:flex;gap:22px;margin-left:auto;align-items:center">
+      <a href="design4-home.html" style="font-size:14px;color:var(--pmut,#8C877E);text-decoration:none" style-hover="color:var(--pink,#191817)">Home</a>
+      <a href="design4-post.html" style="font-size:14px;color:var(--pmut,#8C877E);text-decoration:none" style-hover="color:var(--pink,#191817)">Posts</a>
+      <a href="design4-notes.html" style="font-size:14px;color:var(--pink,#191817);text-decoration:none">Notes</a>
+      <a href="https://harper.blog/about/" style="font-size:14px;color:var(--pmut,#8C877E);text-decoration:none" style-hover="color:var(--pink,#191817)">About</a>
+      <button onClick="{{ toggleTheme }}" title="Toggle light/dark" style="font-size:14px;color:var(--pmut,#8C877E);background:none;border:none;cursor:pointer;padding:0 0 0 22px;border-left:1px solid var(--pline,#ECE9E3);font-family:inherit" style-hover="color:var(--pink,#191817)">◐ {{ modeLabel }}</button>
+    </nav>
+  </header>
+
+  <div style="max-width:640px;margin:0 auto;padding:52px 0 8px">
+    <h1 style="font-size:28px;font-weight:600;letter-spacing:-0.02em;margin:0 0 8px">Notes</h1>
+    <p style="font-size:16px;line-height:1.6;color:var(--pmut,#8C877E);margin:0 0 40px">A collection of snaps, notes and thoughts. Mostly short form.</p>
+
+    <div style="display:grid;grid-template-columns:88px 1fr;gap:22px;padding:0 0 26px;border-bottom:1px solid var(--pline,#ECE9E3)">
+      <a href="https://harper.blog/notes/2026-06-10_cf9f14db8029_went-to-cali-for-a-fun-party-i/" style="font-size:13px;color:var(--pmut,#8C877E);font-variant-numeric:tabular-nums;padding-top:3px;text-decoration:none">10 Jun 26</a>
+      <div>
+        <p style="font-size:18px;line-height:1.6;margin:0 0 14px">Went to Cali for a fun party in the woods. Was able to hang with friends and talk about the future. Highly recommended.</p>
+        <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px">
+          <x-import component-from-global-scope="image-slot" from="../image-slot.js" id="qn-1" shape="rounded" radius="4" placeholder="Frame" src="https://harper.blog/notes/2026-06-10_cf9f14db8029_went-to-cali-for-a-fun-party-i/image_1_hu_b125a158c696fb8c.jpg" style="width:100%;height:110px;display:block" hint-size="150px,110px"></x-import>
+          <x-import component-from-global-scope="image-slot" from="../image-slot.js" id="qn-2" shape="rounded" radius="4" placeholder="Frame" src="https://harper.blog/notes/2026-06-10_cf9f14db8029_went-to-cali-for-a-fun-party-i/image_2_hu_f15d6289d345ad29.jpg" style="width:100%;height:110px;display:block" hint-size="150px,110px"></x-import>
+          <x-import component-from-global-scope="image-slot" from="../image-slot.js" id="qn-3" shape="rounded" radius="4" placeholder="Frame" src="https://harper.blog/notes/2026-06-10_cf9f14db8029_went-to-cali-for-a-fun-party-i/image_3_hu_924c5f76b50b7066.jpg" style="width:100%;height:110px;display:block" hint-size="150px,110px"></x-import>
+        </div>
+      </div>
+    </div>
+
+    <div style="display:grid;grid-template-columns:88px 1fr;gap:22px;padding:24px 0;border-bottom:1px solid var(--pline,#ECE9E3)">
+      <a href="https://harper.blog/notes/2026-05-14_b1eb988fdde5_night-in-shimbashi-taken-with-/" style="font-size:13px;color:var(--pmut,#8C877E);font-variant-numeric:tabular-nums;text-decoration:none">14 May 26</a>
+      <p style="font-size:18px;line-height:1.6;margin:0">Night in Shimbashi. Taken with an M11 and a 50mm summilux. We will be back in a few weeks. HMU</p>
+    </div>
+
+    <div style="display:grid;grid-template-columns:88px 1fr;gap:22px;padding:24px 0;border-bottom:1px solid var(--pline,#ECE9E3)">
+      <a href="https://harper.blog/notes/2026-05-03_ca1258cc3bf6_some-shots-from-miami-f1/" style="font-size:13px;color:var(--pmut,#8C877E);font-variant-numeric:tabular-nums;text-decoration:none">03 May 26</a>
+      <p style="font-size:18px;line-height:1.6;margin:0">Some shots from Miami F1</p>
+    </div>
+
+    <div style="display:grid;grid-template-columns:88px 1fr;gap:22px;padding:24px 0">
+      <a href="https://harper.blog/notes/2026-05-02_c4bd1d0531dd_quite-a-change-of-locale-also-/" style="font-size:13px;color:var(--pmut,#8C877E);font-variant-numeric:tabular-nums;text-decoration:none">02 May 26</a>
+      <p style="font-size:18px;line-height:1.6;margin:0">Quite a change of locale. Also I wear hats now. Sports hats. But motorsports.</p>
+    </div>
+  </div>
+
+  <footer style="max-width:640px;margin:44px auto 0;padding:22px 0;border-top:1px solid var(--pline,#ECE9E3);display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px">
+    <span style="font-size:13px;color:var(--pmut,#8C877E)">© Harper Reed — since 2001, wtaf</span>
+    <span style="font-size:13px;color:var(--pmut,#8C877E)">RSS · harper@modest.com</span>
+  </footer>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{
+  &quot;theme&quot;: { &quot;editor&quot;: &quot;enum&quot;, &quot;options&quot;: [&quot;light&quot;, &quot;dark&quot;], &quot;default&quot;: &quot;light&quot;, &quot;tsType&quot;: &quot;'light' | 'dark'&quot;, &quot;section&quot;: &quot;Theme&quot; },
+  &quot;accent&quot;: { &quot;editor&quot;: &quot;color&quot;, &quot;options&quot;: [&quot;#B3401F&quot;, &quot;#1F6A63&quot;, &quot;#7A2E2E&quot;], &quot;default&quot;: &quot;#B3401F&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Theme&quot; }
+}">
+class Component extends DCLogic {
+  state = { mode: null };
+  componentDidMount() { this.applyMode(); }
+  componentDidUpdate() { this.applyMode(); }
+  applyMode() {
+    const mode = this.state.mode ?? this.props.theme ?? 'light';
+    document.body.dataset.mode = mode;
+    const darkPairs = { '#B3401F': '#E08A5F', '#1F6A63': '#7EC4B6', '#7A2E2E': '#D08D85' };
+    const base = this.props.accent ?? '#B3401F';
+    const accent = mode === 'dark' ? (darkPairs[base] ?? base) : base;
+    document.body.style.setProperty('--accent', accent);
+  }
+  renderVals() {
+    const mode = this.state.mode ?? this.props.theme ?? 'light';
+    return {
+      modeLabel: mode === 'dark' ? 'light' : 'dark',
+      toggleTheme: () => this.setState({ mode: mode === 'dark' ? 'light' : 'dark' })
+    };
+  }
+}
+</script>
+</body>
+</html>

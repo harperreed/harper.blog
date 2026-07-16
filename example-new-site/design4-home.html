@@ -1,0 +1,90 @@
+<!-- ABOUTME: Standalone home page extracted from Design 4 of the Harper Blog Redesign. -->
+<!-- ABOUTME: Preserves the original visual markup, theme toggle, and image-slot dependencies. -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="../support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet data-dc-atomics>
+<style>
+:root{--pbg:#FFFFFF;--pbg2:#F7F5F1;--pink:#191817;--pmut:#8C877E;--pline:#ECE9E3;--pacc:#B8532C}
+body[data-mode="dark"]{--pbg:#0F1011;--pbg2:#17181A;--pink:#EDEBE7;--pmut:#8A8D90;--pline:#242628;--pacc:#E08A5F}
+body{margin:0;background:var(--pbg,#fff)}
+image-slot{display:block;width:100%;height:100%}
+</style>
+</helmet>
+<div style="width:820px;background:var(--pbg,#fff);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;color:var(--pink,#191817)">
+
+  <header style="display:flex;align-items:center;gap:24px;padding:20px 40px;border-bottom:1px solid var(--pline,#ECE9E3)">
+    <a href="design4-home.html" style="font-size:16px;font-weight:600;letter-spacing:-0.01em;color:var(--pink,#191817);text-decoration:none">Harper Reed</a>
+    <nav style="display:flex;gap:22px;margin-left:auto;align-items:center">
+      <a href="design4-home.html" style="font-size:14px;color:var(--pink,#191817);text-decoration:none">Home</a>
+      <a href="design4-post.html" style="font-size:14px;color:var(--pmut,#8C877E);text-decoration:none" style-hover="color:var(--pink,#191817)">Posts</a>
+      <a href="design4-notes.html" style="font-size:14px;color:var(--pmut,#8C877E);text-decoration:none" style-hover="color:var(--pink,#191817)">Notes</a>
+      <a href="https://harper.blog/media/" style="font-size:14px;color:var(--pmut,#8C877E);text-decoration:none" style-hover="color:var(--pink,#191817)">Media</a>
+      <a href="https://harper.blog/about/" style="font-size:14px;color:var(--pmut,#8C877E);text-decoration:none" style-hover="color:var(--pink,#191817)">About</a>
+      <a href="https://harper.blog/index.xml" style="font-size:14px;color:var(--pacc,#B8532C);text-decoration:none;padding-left:22px;border-left:1px solid var(--pline,#ECE9E3)">RSS</a>
+      <button onClick="{{ toggleTheme }}" title="Toggle light/dark" style="font-size:14px;color:var(--pmut,#8C877E);background:none;border:none;cursor:pointer;padding:0;font-family:inherit" style-hover="color:var(--pink,#191817)">◐ {{ modeLabel }}</button>
+    </nav>
+  </header>
+
+  <div style="max-width:660px;margin:0 auto;padding:52px 0 8px">
+    <p style="font-size:22px;line-height:1.55;letter-spacing:-0.01em;margin:0 0 6px;color:var(--pink,#191817)">My name is Harper Reed, and this is my blog. If you want to know more about me, visit my website: <a href="https://harper.lol/" style="color:var(--pacc,#B8532C);text-decoration:underline;text-underline-offset:2px">harper.lol</a>.</p>
+    <p style="font-size:16px;line-height:1.6;margin:14px 0 0;color:var(--pmut,#8C877E)"><a href="https://harper.blog/posts/" style="color:var(--pacc,#B8532C);text-decoration:underline;text-underline-offset:2px">Longer posts</a>, <a href="https://harper.blog/notes/" style="color:var(--pacc,#B8532C);text-decoration:underline;text-underline-offset:2px">short notes</a>, and interesting links — plus what I am up to now. Subscribe via <a href="https://harper.blog/index.xml" style="color:var(--pacc,#B8532C);text-decoration:underline;text-underline-offset:2px">RSS</a>, or say hi at <a href="mailto:harper@modest.com" style="color:var(--pacc,#B8532C);text-decoration:underline;text-underline-offset:2px">harper@modest.com</a>.</p>
+
+    <h2 style="font-size:12px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--pmut,#8C877E);margin:46px 0 6px">Posts</h2>
+    <ul style="list-style:none;margin:0;padding:0">
+      <li style="display:flex;gap:20px;align-items:baseline;padding:11px 0;border-bottom:1px solid var(--pline,#ECE9E3)"><span style="font-size:14px;color:var(--pmut,#8C877E);font-variant-numeric:tabular-nums;flex:none;width:88px">11 Mar 26</span><a href="https://harper.blog/2026/03/11/2026-immaculate-knowledge-graph/" style="font-size:18px;font-weight:500;letter-spacing:-0.01em;color:var(--pink,#191817);text-decoration:none" style-hover="color:var(--pacc,#B8532C)">My now immaculate knowledge graph of life</a></li>
+      <li style="display:flex;gap:20px;align-items:baseline;padding:11px 0;border-bottom:1px solid var(--pline,#ECE9E3)"><span style="font-size:14px;color:var(--pmut,#8C877E);font-variant-numeric:tabular-nums;flex:none;width:88px">07 Jan 26</span><a href="https://harper.blog/2026/01/07/2025-is-dead-to-me-2026-is-going-to-be-stranger/" style="font-size:18px;font-weight:500;letter-spacing:-0.01em;color:var(--pink,#191817);text-decoration:none" style-hover="color:var(--pacc,#B8532C)">2025 in Review: strange, terror, and weird</a></li>
+      <li style="display:flex;gap:20px;align-items:baseline;padding:11px 0;border-bottom:1px solid var(--pline,#ECE9E3)"><span style="font-size:14px;color:var(--pmut,#8C877E);font-variant-numeric:tabular-nums;flex:none;width:88px">05 Jan 26</span><a href="https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/" style="font-size:18px;font-weight:500;letter-spacing:-0.01em;color:var(--pink,#191817);text-decoration:none" style-hover="color:var(--pacc,#B8532C)">Remote Claude Code: programing like it was the early 2000s</a></li>
+      <li style="display:flex;gap:20px;align-items:baseline;padding:11px 0;border-bottom:1px solid var(--pline,#ECE9E3)"><span style="font-size:14px;color:var(--pmut,#8C877E);font-variant-numeric:tabular-nums;flex:none;width:88px">03 Dec 25</span><a href="https://harper.blog/2025/12/03/claude-code-email-productivity-mcp-agents/" style="font-size:18px;font-weight:500;letter-spacing:-0.01em;color:var(--pink,#191817);text-decoration:none" style-hover="color:var(--pacc,#B8532C)">Getting Claude Code to do my emails</a></li>
+      <li style="display:flex;gap:20px;align-items:baseline;padding:11px 0"><span style="font-size:14px;color:var(--pmut,#8C877E);font-variant-numeric:tabular-nums;flex:none;width:88px">30 Sep 25</span><a href="https://harper.blog/2025/09/30/ai-agents-social-media-performance-lambo-doomscrolling/" style="font-size:18px;font-weight:500;letter-spacing:-0.01em;color:var(--pink,#191817);text-decoration:none" style-hover="color:var(--pacc,#B8532C)">We Gave Our AI Agents Twitter and Now They&rsquo;re Demanding Lambos</a></li>
+    </ul>
+    <a href="https://harper.blog/posts/" style="display:inline-block;margin-top:16px;font-size:14px;color:var(--pacc,#B8532C);text-decoration:none">See all 1,444 posts →</a>
+
+    <h2 style="font-size:12px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--pmut,#8C877E);margin:46px 0 14px">Latest frames</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px">
+      <x-import component-from-global-scope="image-slot" from="../image-slot.js" id="q-strip-1" src="https://harper.blog/notes/2026-06-10_cf9f14db8029_went-to-cali-for-a-fun-party-i/image_1_hu_b125a158c696fb8c.jpg" shape="rounded" radius="4" placeholder="Frame" style="width:100%;height:120px;display:block" hint-size="215px,120px"></x-import>
+      <x-import component-from-global-scope="image-slot" from="../image-slot.js" id="q-strip-2" src="https://harper.blog/notes/2026-06-10_cf9f14db8029_went-to-cali-for-a-fun-party-i/image_2_hu_f15d6289d345ad29.jpg" shape="rounded" radius="4" placeholder="Frame" style="width:100%;height:120px;display:block" hint-size="215px,120px"></x-import>
+      <x-import component-from-global-scope="image-slot" from="../image-slot.js" id="q-strip-3" src="https://harper.blog/notes/2026-06-10_cf9f14db8029_went-to-cali-for-a-fun-party-i/image_3_hu_924c5f76b50b7066.jpg" shape="rounded" radius="4" placeholder="Frame" style="width:100%;height:120px;display:block" hint-size="215px,120px"></x-import>
+    </div>
+    <a href="https://harper.blog/notes/" style="display:inline-block;margin-top:12px;font-size:14px;color:var(--pmut,#8C877E);text-decoration:none" style-hover="color:var(--pink,#191817)">More in the notes →</a>
+  </div>
+
+  <footer style="max-width:660px;margin:44px auto 0;padding:22px 0;border-top:1px solid var(--pline,#ECE9E3);display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px">
+    <span style="font-size:13px;color:var(--pmut,#8C877E)">© Harper Reed — blogging since 2001, wtaf</span>
+    <span style="font-size:13px;color:var(--pmut,#8C877E)">日本語 · Español · 한국어 · 中文</span>
+  </footer>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{
+  &quot;theme&quot;: { &quot;editor&quot;: &quot;enum&quot;, &quot;options&quot;: [&quot;light&quot;, &quot;dark&quot;], &quot;default&quot;: &quot;light&quot;, &quot;tsType&quot;: &quot;'light' | 'dark'&quot;, &quot;section&quot;: &quot;Theme&quot; },
+  &quot;accent&quot;: { &quot;editor&quot;: &quot;color&quot;, &quot;options&quot;: [&quot;#B3401F&quot;, &quot;#1F6A63&quot;, &quot;#7A2E2E&quot;], &quot;default&quot;: &quot;#B3401F&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Theme&quot; }
+}">
+class Component extends DCLogic {
+  state = { mode: null };
+  componentDidMount() { this.applyMode(); }
+  componentDidUpdate() { this.applyMode(); }
+  applyMode() {
+    const mode = this.state.mode ?? this.props.theme ?? 'light';
+    document.body.dataset.mode = mode;
+    const darkPairs = { '#B3401F': '#E08A5F', '#1F6A63': '#7EC4B6', '#7A2E2E': '#D08D85' };
+    const base = this.props.accent ?? '#B3401F';
+    const accent = mode === 'dark' ? (darkPairs[base] ?? base) : base;
+    document.body.style.setProperty('--accent', accent);
+  }
+  renderVals() {
+    const mode = this.state.mode ?? this.props.theme ?? 'light';
+    return {
+      modeLabel: mode === 'dark' ? 'light' : 'dark',
+      toggleTheme: () => this.setState({ mode: mode === 'dark' ? 'light' : 'dark' })
+    };
+  }
+}
+</script>
+</body>
+</html>
