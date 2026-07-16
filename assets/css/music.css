@@ -1,132 +1,71 @@
-.music-posts {
-    list-style: none;
-    padding: 0;
-    margin: 0;
+/* ABOUTME: Music section: album-art grid (music-grid layout) with month/year group headings. */
+/* ABOUTME: The /music date-row list is styled by the shared pattern in base.css; heading styles live in books.css. */
+
+.month-section {
+    margin-bottom: 8px;
 }
 
-.music-filter {
-    composes: media-filter;
-}
-
-.music-domain {
-    composes: media-domain;
-}
-
-.music-title {
-    composes: media-title;
-}
-
-.music-posts a[target="_blank"]::before {
-    content: "🎵 ";
-    color: var(--color-secondary);
-    text-decoration: none;
-    speak: none;
-}
-
-
-/* Year section styling */
-/* .year-section {
-  margin-bottom: 40px;
-}
-
-.year-heading {
-  font-size: 2rem;
-  margin: 20px 0;
-  padding: 10px 20px;
-  background: #f5f5f5;
-  border-radius: 8px;
-  color: #333;
-}
-
-/* Month section styling */
-/* .month-section {
-  margin: 20px 0 30px 0;
-}
-
-.month-heading {
-  font-size: 1.5rem;
-  margin: 15px 20px;
-  padding: 8px 16px;
-  color: #666;
-  border-bottom: 2px solid #eee;
-} */ 
-
-/* Grid container styling */
 .music-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 20px;
-  padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 18px;
 }
 
-/* Individual grid item */
 .music-grid-item {
-  border: 1px solid var(--color-primary);
-  border-radius: 4px;
-  padding: 15px;
-  box-shadow: 0 4px 6px var(--color-primary);
-  transition: transform 0.2s, box-shadow 0.2s;
-  background: #fff;
-  position: relative;
-  overflow: hidden;
-  aspect-ratio: 1/1;
-  background: var(--color-dark);
-  background: radial-gradient(circle, var(--color-secondary) 0%, var(--color-dark) 90%);
-}
-
-.music-grid-item .album-bg {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  z-index: 0;
+    position: relative;
+    aspect-ratio: 1 / 1;
+    background: var(--bg2);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-thumb);
+    overflow: hidden;
+    transition: transform 0.15s ease;
 }
 
 .music-grid-item:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 6px 8px var(--color-primary);
+    transform: translateY(-4px);
 }
 
-/* Link styling */
-.music-grid-item .music-link {
-  text-decoration: none;
-  color: inherit;
-  position: relative;
-  z-index: 1;
-  display: block;
-  height: 100%;
+.album-bg {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
-/* Music info */
-.music-grid-item .music-info {
-  background: rgba(0, 0, 0, 0.7);
-  padding: 15px;
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  backdrop-filter: blur(5px);
-  z-index: 1;
+.music-link {
+    text-decoration: none;
 }
 
-/* Music title */
-.music-grid-item .music-title {
-  font-size: 1.2rem;
-  font-weight: bold;
-  margin: 0 0 5px;
-  color: #fff;
+.music-info {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 8px 10px;
+    background: color-mix(in srgb, var(--bg) 88%, transparent);
+    -webkit-backdrop-filter: blur(2px);
+    backdrop-filter: blur(2px);
 }
 
-/* Music artist */
-.music-grid-item .music-artist {
-  font-size: 1rem;
-  color: #ddd;
-  margin: 0;
+.music-title {
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1.3;
+    color: var(--ink);
+    margin: 0;
+}
+
+.music-artist {
+    font-size: 12px;
+    color: var(--mut);
+    margin: 2px 0 0;
 }
 
 @media (prefers-reduced-motion: reduce) {
-    .music-grid-item { transition: none; }
-    .music-grid-item:hover { transform: none; }
+    .music-grid-item,
+    .music-grid-item:hover {
+        transition: none;
+        transform: none;
+    }
 }

@@ -1,99 +1,90 @@
-.book-posts {
-    composes: media-posts;
+/* ABOUTME: Books section: cover grid (books-grid layout) and single-page cover/meta styling. */
+/* ABOUTME: The /books date-row list is styled by the shared pattern in base.css. */
+
+.year-heading,
+.month-heading {
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--mut);
+    margin: 46px 0 14px;
 }
 
-.book-filter {
-    composes: media-filter;
-}
-
-.book-domain {
-    composes: media-domain;
-}
-
-.book-title {
-    composes: media-title;
-}
-
-.book-posts a[target="_blank"]::before {
-    content: "📚 ";
-    color: var(--color-secondary);
-    text-decoration: none;
-    speak: none;
-}
-
-/* Grid container styling */
 .book-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 20px;
-    padding: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 18px;
 }
 
-/* Individual grid item */
 .book-grid-item {
-    border: 1px solid var(--color-primary);
-    border-radius: 4px;
-    padding: 15px;
-    box-shadow: 0 4px 6px var(--color-primary);
-    transition:
-        transform 0.2s,
-        box-shadow 0.2s;
-    background: #fff;
     position: relative;
+    aspect-ratio: 2 / 3;
+    background: var(--bg2);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-thumb);
     overflow: hidden;
-    /* Set aspect ratio to match standard book cover (2:3) */
-    aspect-ratio: 2/3.155;
-    background: var(--color-dark);
-    background: radial-gradient(circle, var(--color-secondary) 0%, var(--color-dark) 90%);
+    transition: transform 0.15s ease;
+}
+
+.book-grid-item:hover {
+    transform: translateY(-4px);
 }
 
 .book-bg {
     position: absolute;
-    top: 0;
-    left: 0;
+    inset: 0;
     width: 100%;
     height: 100%;
-    object-fit: contain;
-    z-index: 0;
+    object-fit: cover;
 }
 
-.book-grid-item:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 6px 12px var(--color-primary);
-}
-
-/* Link styling */
-.book-grid-item .book-link {
+.book-link {
     text-decoration: none;
-    color: inherit;
-    position: relative;
-    z-index: 1;
 }
 
-/* Book title */
-.book-grid-item .book-title {
-    font-size: 1.2rem;
-    font-weight: bold;
-    margin: 0 0 5px;
+.book-info {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 8px 10px;
+    background: color-mix(in srgb, var(--bg) 88%, transparent);
+    -webkit-backdrop-filter: blur(2px);
+    backdrop-filter: blur(2px);
 }
 
-/* Book author */
-.book-grid-item .book-author {
-    font-size: 1rem;
-    color: #555;
+.book-title {
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1.3;
+    color: var(--ink);
     margin: 0;
 }
 
-/* Add this to ensure text is readable over the background image */
-.book-grid-item .book-info {
-    background: rgba(255, 255, 255, 0.9);
-    padding: 10px;
-    border-radius: 4px;
-    position: relative;
-    z-index: 1;
+.book-author {
+    font-size: 12px;
+    color: var(--mut);
+    margin: 2px 0 0;
+}
+
+/* single book page */
+.book-cover {
+    max-width: 220px;
+    border-radius: var(--radius-thumb);
+    border: 1px solid var(--line);
+}
+
+.reread-note,
+.related-reads {
+    font-size: 14px;
+    color: var(--mut);
 }
 
 @media (prefers-reduced-motion: reduce) {
-    .book-grid-item { transition: none; }
-    .book-grid-item:hover { transform: none; }
+    .book-grid-item,
+    .book-grid-item:hover {
+        transition: none;
+        transform: none;
+    }
 }
