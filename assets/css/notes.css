@@ -73,6 +73,7 @@ article > .note-images {
 }
 
 article > .note-images img {
+    height: auto;
     border-radius: var(--radius-thumb);
 }
 

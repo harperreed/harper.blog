@@ -40,6 +40,8 @@
 }
 
 .book-link {
+    position: absolute;
+    inset: 0;
     text-decoration: none;
 }
 
