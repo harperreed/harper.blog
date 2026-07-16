@@ -1,5 +1,5 @@
 /* ABOUTME: Photo wall (photos section) — grid of the first image from each note, with quiet captions. */
-/* ABOUTME: Styles .photo-grid and .photo-item on the /photos page; consumes --bg2, --line, --mut from the six-token system. */
+/* ABOUTME: Styles .photo-grid, .photo-item, and .photo-meta on the /photos page; consumes --mut and --radius-thumb. */
 
 .photo-grid {
     display: grid;

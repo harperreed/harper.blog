@@ -1,5 +1,5 @@
 /* ABOUTME: Bluesky comments (rendered by bluesky_comments.js) restyled on the design4 tokens. */
-/* ABOUTME: Styles .comment, .author, and .content within the comments widget; consumes --bg2, --line, --ink, --mut. */
+/* ABOUTME: Styles .comment/.author and the .bsky-* widget elements; consumes --line, --ink, --mut, --radius-thumb. */
 
 .comment {
     padding: 10px 0;
