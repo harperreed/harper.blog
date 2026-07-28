@@ -15,26 +15,8 @@ generateSocialCard = false
 notes_pagination = 10
 # Number of items to show per page in links section
 links_pagination = 20
-themeStyle = "harper"
 amazon_tag = "harperrules0d-20"
 defaultContentLanguage = "en"
-
-# Themes
-#theme = "sunset"
-#theme = "ocean"
-# theme = "desert"
-# theme = "nordic"
-# theme = "autumn"
-# theme = "cyber"
- theme = "academia"
-# theme = "myspace"
-# theme = "halloween"
-# theme = "xmas"
-# theme = "neon"
-# theme = "electric"
-# theme = "volcano"
-# theme = "cyberpunk"
-
 
 customjs = ["/js/bluesky_comments.js", "/js/image-loading.js"]
 
