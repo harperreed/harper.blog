@@ -10,7 +10,7 @@ const purgecss = {
       ...(elements.ids || []),
     ];
   },
-  safelist: [/^masonry-/, /^highlight/, /^chroma/, /loaded/, /visible/, /^bsky/, /^tinylytics/],
+  safelist: ["page_content", /^prose/, /^masonry-/, /^highlight/, /^chroma/, /loaded/, /visible/, /^bsky/, /^tinylytics/],
 };
 
 module.exports = {
