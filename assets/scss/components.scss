@@ -19,3 +19,30 @@
   .post-list .post-date { @apply text-left text-sm; }
   .post-list li, .post-list .post-row { @apply mb-3; }
 }
+
+/* Notes */
+
+/* Notes photo masonry — CSS columns, FOUC fade preserved. */
+.masonry-columns {
+  @apply w-full mx-auto p-0 opacity-0;
+  column-count: 3;
+  column-gap: 16px;
+  column-fill: balance;
+  animation: masonry-fade-in 0.3s ease forwards;
+}
+@media (max-width: 1200px) { .masonry-columns { column-count: 2; } }
+@media (max-width: 768px) { .masonry-columns { column-count: 1; } }
+.masonry-item {
+  @apply relative block mb-4;
+  break-inside: avoid;
+}
+.masonry-item img {
+  @apply w-full h-auto block rounded-sm object-cover transition-transform duration-300;
+}
+.masonry-item:hover img { transform: scale(1.02); }
+@keyframes masonry-fade-in { to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) {
+  .masonry-columns { animation: none; opacity: 1; }
+  .masonry-item img { transition: none; }
+  .masonry-item:hover img { transform: none; }
+}

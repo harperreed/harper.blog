@@ -3,15 +3,18 @@
 
 {{ end }}
 <article>
-    {{ .Content }} {{- with .Resources.ByType "image" }}
+    <div class="page_content">
+        {{ .Content }}
+    </div>
+    {{- with .Resources.ByType "image" }}
     <div class="note-images" aria-label="{{ i18n "note-images-aria" | default "Note images" }}">
         {{- range . }}
-        <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
+        <img src="{{ .RelPermalink }}" alt="{{ .Title }}" class="rounded-sm w-full h-auto" />
         {{- end }}
     </div>
     {{- end }}
 </article>
-<p class="byline">
+<p class="text-sm text-text-faint mb-8">
     <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="{{ i18n "date-aria" (printf "%s" (.Date.Format (default "2006-01-02" .Site.Params.dateFormat))) | default (printf "Date: %s" (.Date.Format (default "2006-01-02" .Site.Params.dateFormat))) }}">
         {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
     </time> &middot;

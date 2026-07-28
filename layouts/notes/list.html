@@ -1,52 +1,53 @@
 {{ define "main" }}
 <article>
     {{ .Content }} {{ if .Data.Singular }}
-    <p class="filter-notice">{{ i18n "filtering-for" }} "{{ .Title }}"</p>
+    <p class="text-text-muted italic">{{ i18n "filtering-for" }} "{{ .Title }}"</p>
     {{ end }}
-    <div class="notes">
-        
-        {{ $paginator := .Paginate .Pages (.Param "notes_pagination" | default
-        2) }}
-        <!-- {{ $paginator := .Paginate .Pages .Site.Params.notes_pagination }} -->
-        {{ range $paginator.Pages }}
-        <article class="post">
-            <header>
+
+    {{ $paginator := .Paginate .Pages (.Param "notes_pagination" | default
+    2) }}
+    <!-- {{ $paginator := .Paginate .Pages .Site.Params.notes_pagination }} -->
+    {{ range $paginator.Pages }}
+    <article class="mb-10 pb-8" style="border-bottom: 1px solid var(--color-border-rule);">
+        <header>
+            <span class="text-text-faint text-sm">
                 <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
                     {{ .Date.Format "Jan 02, 2006" }}
                 </time>
-                 <a href="{{ .RelPermalink }}" title="Permalink to this note">#</a>
-                 <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
-            </header>
+                <a href="{{ .RelPermalink }}" title="Permalink to this note" class="text-text-muted no-underline hover:text-text-faint">#</a>
+                <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
+            </span>
+        </header>
+        <div class="page_content">
             {{ if .Params.text }} {{ .Params.text | markdownify }} {{ else }} {{
-            .Content }} 
-            {{ end }} 
-            {{ with .Resources.ByType "image" }}
-            <div class="note-images">
-                {{ range . }} 
-                {{ $thumbnail := .Resize "600x" }}
-                <img
-                    src="{{ $thumbnail.RelPermalink }}"
-                    alt="{{ .Title }}"
-                    loading="lazy"
-                    width="{{ $thumbnail.Width }}"
-                    height="{{ $thumbnail.Height }}"
-                />
-                {{ end }}
-            </div>
+            .Content }}
             {{ end }}
-
-            <div>
-                {{ if .Params.tags }} {{ range .Params.tags }}
-                <a href="/tags/{{ . }}">#{{ . }}</a>
-                {{ end }} {{ end }}
-            </div>
-
-            <hr />
-        </article>
-        {{ else }}
-        <p>{{ i18n "no-notes" | default "No notes yet." }}</p>
+        </div>
+        {{ with .Resources.ByType "image" }}
+        <div class="note-images">
+            {{ range . }}
+            {{ $thumbnail := .Resize "600x" }}
+            <img
+                src="{{ $thumbnail.RelPermalink }}"
+                alt="{{ .Title }}"
+                loading="lazy"
+                width="{{ $thumbnail.Width }}"
+                height="{{ $thumbnail.Height }}"
+                class="rounded-sm w-full h-auto"
+            />
+            {{ end }}
+        </div>
         {{ end }}
-    </div>
+
+        <div>
+            {{ if .Params.tags }} {{ range .Params.tags }}
+            <a href="/tags/{{ . }}" class="text-text-muted no-underline hover:text-text-faint">#{{ . }}</a>
+            {{ end }} {{ end }}
+        </div>
+    </article>
+    {{ else }}
+    <p>{{ i18n "no-notes" | default "No notes yet." }}</p>
+    {{ end }}
 
     {{ partial "pagination.html" . }}
 </article>
