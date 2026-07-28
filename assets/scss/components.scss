@@ -99,8 +99,10 @@
   object-fit: cover;
 }
 .photo-meta {
-  @apply text-text-muted text-sm;
   padding: 0.5rem 0;
+}
+.photo-meta time {
+  @apply text-text-muted text-sm;
 }
 
 /* Books */
