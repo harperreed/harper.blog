@@ -1,0 +1,13 @@
+############################# Build ##############################
+useResourceCacheWhen = 'fallback'
+[buildStats]
+enable = true
+[[cachebusters]]
+source = 'assets/watching/hugo_stats\.json'
+target = 'style\.css'
+[[cachebusters]]
+source = '(postcss|tailwind)\.config\.js'
+target = 'css'
+[[cachebusters]]
+source = 'assets/.*\.(css|scss|sass)'
+target = 'css'

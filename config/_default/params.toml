@@ -37,7 +37,6 @@ defaultContentLanguage = "en"
 
 
 customcss = [
-    "/css/root-colors.css",
     "/css/harper.css",
     "/css/shared.css",
     "/css/themes.css",
@@ -54,7 +53,6 @@ customcss = [
     "/css/notes-grid.css",
     "/css/code.css",
     "/css/translations.css",
-    "syntax.css",
 ]
 
 customjs = ["/js/bluesky_comments.js", "/js/theme.js", "/js/image-loading.js"]

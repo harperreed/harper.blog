@@ -1,0 +1,25 @@
+/* ABOUTME: Prose treatment for page/post content via Tailwind typography. */
+/* ABOUTME: Maps all prose colors onto the six design tokens. */
+.page_content {
+  @apply prose sm:prose-lg lg:prose-xl;
+  @apply prose-headings:font-display;
+  @apply prose-a:text-text-primary prose-a:font-semibold prose-a:underline;
+  @apply hover:prose-a:no-underline;
+  @apply min-w-full;
+
+  --tw-prose-body: var(--color-text-body);
+  --tw-prose-headings: var(--color-text-primary);
+  --tw-prose-links: var(--color-text-primary);
+  --tw-prose-bold: var(--color-text-primary);
+  --tw-prose-counters: var(--color-text-muted);
+  --tw-prose-bullets: var(--color-text-faint);
+  --tw-prose-hr: var(--color-border-rule);
+  --tw-prose-quotes: var(--color-text-primary);
+  --tw-prose-quote-borders: var(--color-border-rule);
+  --tw-prose-captions: var(--color-text-muted);
+  --tw-prose-code: var(--color-text-primary);
+  --tw-prose-th-borders: var(--color-border-rule);
+  --tw-prose-td-borders: var(--color-border-rule);
+
+  hr { margin-top: 2em; margin-bottom: 2em; }
+}

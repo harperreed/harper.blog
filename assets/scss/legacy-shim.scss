@@ -1,0 +1,28 @@
+/* ABOUTME: TEMPORARY aliases mapping legacy bearcub vars onto the new tokens */
+/* ABOUTME: so unconverted CSS renders the new palette. Deleted in the final task. */
+:root {
+  --color-dark: var(--color-text-body);
+  --color-light: var(--color-bg-page);
+  --color-primary: var(--color-text-primary);
+  --color-secondary: var(--color-text-muted);
+  --color-tertiary: var(--color-border-rule);
+  --color-error: var(--color-text-primary);
+  --color-link: var(--color-text-primary);
+  --color-link-visited: var(--color-text-primary);
+  --color-link-hover: var(--color-text-muted);
+  --color-code-fg: var(--color-bg-page);
+  --color-code-bg: var(--color-text-primary);
+  --font-family-base: 'DM Sans', sans-serif;
+  --font-size-base: 1rem;
+  --line-height-base: 1.5;
+  --size: 1rem;
+  --margin: calc(var(--size) * 0.8);
+  --margin-big: calc(var(--size) * 1.5);
+  --padding-body: calc(var(--size) * 1.25);
+  --spacing: calc(var(--size) * 2.4);
+  --size-width: 800px;
+  --title-font-size: 24px;
+  --border-radius-sm: 3px;
+  --border-radius-base: 5px;
+}
+a { text-decoration-thickness: 1px; }

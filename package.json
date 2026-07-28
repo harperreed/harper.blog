@@ -1,0 +1,19 @@
+{
+  "name": "harper-blog",
+  "private": true,
+  "author": "harperreed",
+  "license": "MIT",
+  "scripts": {
+    "dev": "hugo serve --buildDrafts --buildFuture",
+    "build": "hugo --cleanDestinationDir --minify --forceSyncStatic --gc --logLevel info"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^5.0.0",
+    "@tailwindcss/forms": "^0.5.7",
+    "@tailwindcss/typography": "^0.5.10",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.33",
+    "postcss-cli": "^11.0.0",
+    "tailwindcss": "^3.4.1"
+  }
+}

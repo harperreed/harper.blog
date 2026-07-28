@@ -1,0 +1,35 @@
+{{/* ABOUTME: Compiles scss/main.scss through libsass + PostCSS (Tailwind) and
+     inlines self-hosted font faces. Replaces the legacy customcss bundle. */}}
+{{ $scss := resources.Get "scss/main.scss" }}
+{{ if not $scss }}{{ errorf "Required SCSS file not found" }}{{ end }}
+{{ $CSSOpts := dict "transpiler" "libsass" "targetPath" "css/style.css" }}
+{{ $styles := $scss | toCSS $CSSOpts | css.PostCSS }}
+{{ if hugo.IsProduction }}
+  {{ $styles = $styles | minify | fingerprint "sha512" }}
+{{ else }}
+  {{ $styles = $styles | fingerprint "sha512" }}
+{{ end }}
+<link href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" rel="stylesheet" />
+
+{{ $dmSans := resources.Get "fonts/DMSans-Variable.woff2" }}
+{{ $sora := resources.Get "fonts/Sora-Variable.woff2" }}
+{{ if and $dmSans $sora }}
+<link rel="preload" href="{{ $dmSans.RelPermalink }}" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{{ $sora.RelPermalink }}" as="font" type="font/woff2" crossorigin>
+<style>
+@font-face {
+  font-family: 'DM Sans';
+  src: url('{{ $dmSans.RelPermalink }}') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sora';
+  src: url('{{ $sora.RelPermalink }}') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+</style>
+{{ end }}

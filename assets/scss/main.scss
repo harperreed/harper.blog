@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @import "base";
+}
+
+@layer components {
+  @import "content";
+  @import "components";
+}
+
+@import "legacy-shim";

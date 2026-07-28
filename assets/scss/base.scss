@@ -1,0 +1,21 @@
+/* ABOUTME: Design tokens for the harperreed.com-matched skin, light + dark. */
+/* ABOUTME: Six variables, system dark mode only — see the redesign spec. */
+:root {
+  --color-text-primary: #111111;
+  --color-text-body: #555555;
+  --color-text-muted: #767676;
+  --color-text-faint: #949494;
+  --color-bg-page: #FFFFFF;
+  --color-border-rule: #EEEEEE;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-text-primary: #F0F0F0;
+    --color-text-body: #D8D8D8;
+    --color-text-muted: #9A9A9A;
+    --color-text-faint: #717171;
+    --color-bg-page: #111111;
+    --color-border-rule: #3A3A3C;
+  }
+}
