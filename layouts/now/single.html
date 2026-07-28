@@ -3,21 +3,21 @@
 
 
 {{ if not .Params.menu }}
-<h1 aria-label="{{ i18n "page-title-aria" | default "Page title" }}">{{ .Title }}</h1>
+<h1 class="font-display text-3xl font-bold text-text-primary leading-tight tracking-tight mt-10 mb-2" aria-label="{{ i18n "page-title-aria" | default "Page title" }}">{{ .Title }}</h1>
 
 {{ end }}
-<article> {{ .Content }} </article>
+<article class="page_content"> {{ .Content }} </article>
 <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
-<p>
+<p class="text-sm text-text-muted mt-4">
     {{ range (.GetTerms "tags") }}
-    <a class="blog-tags" href="{{ .RelPermalink }}"
+    <a class="underline hover:no-underline hover:text-text-primary" href="{{ .RelPermalink }}"
         >#{{ lower .LinkTitle }}</a
     >
     {{ end }}
 </p>
 
-<nav>
-    <a href="/now" aria-label="{{ i18n "back-to-now" | default "Back to the current Now" }}"><span aria-hidden="true">&larr;</span> {{ i18n "back-to-now" | default "Back to the current Now" }}</a>
+<nav class="mt-6">
+    <a class="text-text-muted underline hover:no-underline hover:text-text-primary text-sm" href="/now" aria-label="{{ i18n "back-to-now" | default "Back to the current Now" }}"><span aria-hidden="true">&larr;</span> {{ i18n "back-to-now" | default "Back to the current Now" }}</a>
 </nav>
 
 {{ end }}

@@ -22,20 +22,18 @@
         <summary>{{ i18n "previousNows" | default "Previous Nows" }}</summary>
 
         {{ if .Data.Singular }}
-        <h3 class="now-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
+        <p class="text-text-muted italic mb-6">{{ i18n "filtering-for" }} "{{ .Title }}"</p>
         {{ end }}
-        <ul class="now-posts">
+        <ul class="post-list">
             {{ range after 1 .Data.Pages }}
-            <li>
-                <span>
-                    <i>
-                        <time
-                            datetime='{{ .Date.Format "2006-01-02" }}'
-                        >
-                            {{ .Date.Format (default "2006-01-02"
-                            .Site.Params.dateFormat) }}
-                        </time>
-                    </i>
+            <li class="contents">
+                <span class="post-date">
+                    <time
+                        datetime='{{ .Date.Format "2006-01-02" }}'
+                    >
+                        {{ .Date.Format (default "2006-01-02"
+                        .Site.Params.dateFormat) }}
+                    </time>
                 </span>
                 {{ if .Params.link }}
                 <a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer">{{ .Title }} ↪</a>

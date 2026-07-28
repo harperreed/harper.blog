@@ -1,19 +1,17 @@
 {{ define "main" }}
 <article>
   {{ .Content }}
-    
+
   {{ if .Data.Singular }}
-    <h3 class="blog-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
+    <p class="text-text-muted italic mb-6">{{ i18n "filtering-for" }} "{{ .Title }}"</p>
   {{ end }}
-  <ul class="blog-posts">
+  <ul class="post-list">
     {{ range .Pages }}
-    <li>
-      <span>
-        <i>
-          <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
-            {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
-          </time>
-        </i>
+    <li class="contents">
+      <span class="post-date">
+        <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
+          {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
+        </time>
       </span>
       {{ if .Params.link }}
         <a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer">{{ .Title }} ↪</a>
@@ -27,6 +25,7 @@
     </li>
     {{ end }}
   </ul>
- 
+
+  {{ partial "pagination.html" . }}
 </article>
 {{ end }}

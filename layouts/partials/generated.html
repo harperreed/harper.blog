@@ -1,4 +1,4 @@
-{{/* ai-disclosure.html partial 
+{{/* ai-disclosure.html partial
     Displays appropriate notice about AI content generation
     Usage: {{ partial "ai-disclosure.html" . }}
 */}}
@@ -6,7 +6,7 @@
 {{ $postDate := .Date.Format "2006" }}
 {{ $preAiCutoff := "2024" }}
 
-<div class="ai-disclosure">
+<div class="ai-disclosure mt-8 text-sm text-text-muted">
     {{ if lt $postDate $preAiCutoff }}
         <!-- Posts before 2024 are 100% human written, no notice needed -->
     {{ else }}

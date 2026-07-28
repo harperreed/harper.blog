@@ -1,2 +1,21 @@
 /* ABOUTME: Converted section/feature components from the harperreed.com design system. */
-/* ABOUTME: Content arrives in Tasks 4–9; this file is a placeholder for now. */
+/* ABOUTME: Houses the post-list grid idiom and other site-wide components. */
+
+/* Date | title list — the site-wide list idiom (posts, notes, links, now…). */
+.post-list {
+  @apply grid grid-cols-[8.125rem_1fr] gap-x-4 gap-y-3 list-none p-0 m-0;
+}
+.post-list .post-date {
+  @apply text-text-faint text-right tabular-nums whitespace-nowrap not-italic;
+}
+.post-list a {
+  @apply text-text-primary no-underline hover:text-text-muted;
+}
+.post-list li.contents {
+  display: contents;
+}
+@media (max-width: 640px) {
+  .post-list { @apply grid-cols-1 gap-y-1; }
+  .post-list .post-date { @apply text-left text-sm; }
+  .post-list li, .post-list .post-row { @apply mb-3; }
+}

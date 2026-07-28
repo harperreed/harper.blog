@@ -1,8 +1,8 @@
 {{ define "main" }}
 
 {{ if not .Params.menu }}
-<h1>{{ .Title }}</h1>
-<p class="byline">
+<h1 class="font-display text-3xl font-bold text-text-primary leading-tight tracking-tight mt-10 mb-2">{{ .Title }}</h1>
+<p class="text-sm text-text-faint mb-8">
   <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
     {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
   </time>
@@ -18,7 +18,7 @@
 
 {{ partialCached "out_of_date.html" . (.Date.Format "2006") }}
 
-<article>
+<article class="page_content">
 
   {{ .Content }}
 </article>

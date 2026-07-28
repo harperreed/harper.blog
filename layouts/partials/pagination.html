@@ -1,17 +1,16 @@
 {{ $paginator := .Paginator }}
 {{ if gt $paginator.TotalPages 1 }}
-<nav class="pagination">
-    
-    
-    <span class="page-number">
+<nav class="pagination flex justify-between items-center mt-6 py-4">
+
+    <span class="page-number text-text-faint text-sm">
         {{ i18n "page" | default "Page" }} {{ $paginator.PageNumber }} {{ i18n "of" | default "of" }} {{ $paginator.TotalPages }}
     </span>
-    
+
     {{ if $paginator.HasPrev }}
-        <a href="{{ $paginator.Prev.URL }}" class="prev" rel="prev">← {{ i18n "prevpage" | default "Previous" }}</a>
+        <a href="{{ $paginator.Prev.URL }}" class="prev text-text-muted hover:text-text-primary no-underline" rel="prev">← {{ i18n "prevpage" | default "Previous" }}</a>
     {{ end }}
     {{ if $paginator.HasNext }}
-        <a href="{{ $paginator.Next.URL }}" class="next" rel="next">{{ i18n "nextpage" | default "Next" }} →</a>
+        <a href="{{ $paginator.Next.URL }}" class="next text-text-muted hover:text-text-primary no-underline" rel="next">{{ i18n "nextpage" | default "Next" }} →</a>
     {{ end }}
 </nav>
 {{ end }}

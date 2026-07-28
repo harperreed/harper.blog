@@ -1,5 +1,5 @@
-<p>
+<p class="text-sm text-text-muted mt-4">
   {{ range (.GetTerms "tags") }}
-    <a class="blog-tags" href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a>
+    <a class="underline hover:no-underline hover:text-text-primary" href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a>
   {{ end }}
 </p>

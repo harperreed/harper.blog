@@ -1,7 +1,8 @@
-{{ if .Params.showReply }} 
+{{ if .Params.showReply }}
 {{ with .Site.Params.author.email }}
-<p>
+<p class="text-sm text-text-muted mt-4">
     <a
+        class="underline hover:no-underline hover:text-text-primary"
         href='mailto:{{ . }}?subject={{ i18n "email-subject" }}"{{ default $.Site.Title $.Page.Title }}"'
         data-tinylytics-event="contact.email"
         data-tinylytics-event-value="post-reply"
@@ -9,7 +10,7 @@
         {{ i18n "email-reply" }} ↪
     </a>
 </p>
-{{ end }} 
+{{ end }}
 {{ end }}
 
 

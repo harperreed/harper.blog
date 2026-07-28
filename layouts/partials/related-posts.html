@@ -7,19 +7,17 @@
 {{- $allRelated := .Site.RegularPages.Related . -}}
 {{- $related := where (where $allRelated ".Date" "ge" $startDate) ".Date" "le" $endDate | first 5 -}}
 {{- with $related -}}
-<aside class="related-posts" aria-label="Related posts">
-  <h3>{{ i18n "related-posts" | default "Related Posts" }}</h3>
-  <ul class="related-posts-list">
+<aside class="related-posts mt-8" aria-label="Related posts">
+  <h3 class="text-sm text-text-muted font-semibold mb-2">{{ i18n "related-posts" | default "Related Posts" }}</h3>
+  <ul class="post-list">
     {{- range . -}}
-    <li class="related-post-item">
-      <a href="{{ .RelPermalink }}" class="related-post-link">
-        <span class="related-post-title">{{ .Title }}</span>
+    <li class="contents">
+      <span class="post-date">
         {{- if .Date -}}
-        <time datetime="{{ .Date.Format "2006-01-02" }}" class="related-post-date">
-          {{ .Date.Format "2006-01-02" }}
-        </time>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
         {{- end -}}
-      </a>
+      </span>
+      <a href="{{ .RelPermalink }}" class="underline hover:no-underline hover:text-text-muted">{{ .Title }}</a>
     </li>
     {{- end -}}
   </ul>
