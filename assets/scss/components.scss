@@ -111,6 +111,7 @@
   @apply rounded-sm relative overflow-hidden;
   border: 1px solid var(--color-border-rule);
   aspect-ratio: 2/3.155;
+  padding: 15px;
   background: var(--color-text-body);
   background: radial-gradient(circle, var(--color-text-muted) 0%, var(--color-text-body) 90%);
   transition: transform 0.2s, box-shadow 0.2s;
@@ -132,6 +133,7 @@
   z-index: 1;
 }
 
+/* Overlay sits on arbitrary cover art: fixed light panel + hardcoded dark text in both color schemes. */
 /* Info overlay */
 .book-grid-item .book-info {
   @apply relative p-2.5 rounded-sm;
@@ -142,12 +144,14 @@
 /* Title inside grid card — scoped to avoid collision with .media-title in list.html */
 .book-grid .book-title,
 .book-info .book-title {
-  @apply text-text-primary font-bold text-lg m-0 mb-1;
+  @apply font-bold text-lg m-0 mb-1;
+  color: #111111;
 }
 
 /* Author inside grid card */
 .book-grid-item .book-author {
-  @apply text-text-muted text-sm m-0;
+  @apply text-sm m-0;
+  color: #555555;
 }
 
 @media (prefers-reduced-motion: reduce) {
