@@ -73,3 +73,5 @@
 .book-posts { @extend .media-list; }
 .music-posts { @extend .media-list; }
 .media-posts { @extend .media-list; }
+/* NOTE: .book-filter/.music-filter/.book-domain/.music-domain live in legacy-shim.scss
+   because they are conditionally rendered and would be purged from @layer components. */
