@@ -11,7 +11,7 @@ const purgecss = {
     ];
   },
   // page_content is rendered inside {{ .Content }} — not scannable by hugo_stats.json.
-  safelist: ["page_content", /^prose/, /^masonry-/, /^highlight/, /^chroma/, /loaded/, /visible/, /^bsky/, /^tinylytics/],
+  safelist: ["page_content", /^prose/, /^masonry-/, /^highlight/, /^chroma/, /loaded/, /visible/, /^bsky/, /^tinylytics/, /did_select/],
 };
 
 module.exports = {
