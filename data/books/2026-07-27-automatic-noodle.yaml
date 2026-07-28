@@ -1,0 +1,752 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.65'
+    id: '191888'
+    image_url:
+      '#text': https://images.gr-assets.com/authors/1608627466p5/191888.jpg
+      '@nophoto': 'false'
+    link: https://www.goodreads.com/author/show/191888.Annalee_Newitz
+    name: Annalee Newitz
+    ratings_count: '80363'
+    role: null
+    small_image_url:
+      '#text': https://images.gr-assets.com/authors/1608627466p2/191888.jpg
+      '@nophoto': 'false'
+    text_reviews_count: '14756'
+average_rating: '3.69'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: US
+date: '2026-07-27T00:00:00-07:00'
+date_added: '2026-07-27T17:28:07-07:00'
+description: "<b>From sci-fi visionary and acclaimed author Annalee Newitz comes Automatic\
+  \ Noodle, a cozy near-future novella about a crew of abandoned food service bots\
+  \ opening their very own restaurant.</b><br /><br />While San Francisco rebuilds\
+  \ from the chaos of war, a group of food service bots in an abandoned ghost kitchen\
+  \ take over their own delivery app account. They rebrand as a neighborhood lunch\
+  \ spot and start producing some of the tastiest hand-pulled noodles in the city.\
+  \ But there\u2019s just one problem. Someone\u2015or something\u2015is review bombing\
+  \ the restaurant\u2019s feedback page with fake \u201Cbad service\u201D reports.\
+  \ Can the bots find the culprit before their ratings plummet and destroy everything\
+  \ they created?"
+edition_information: null
+format: ebook
+id: '217582924'
+image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731705848l/217582924._SX98_.jpg
+is_ebook: 'true'
+isbn: '1250357470'
+isbn13: '9781250357472'
+json: '{"id": "217582924", "isbn": "1250357470", "isbn13": "9781250357472", "text_reviews_count":
+  {"@type": "integer", "#text": "416"}, "uri": "kca://book/amzn1.gr.book.v3.b73jXqg9I8Ry1JhK",
+  "title": "Automatic Noodle", "title_without_series": "Automatic Noodle", "image_url":
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731705848l/217582924._SX98_.jpg",
+  "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731705848l/217582924._SY75_.jpg",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/217582924-automatic-noodle",
+  "num_pages": null, "format": "ebook", "edition_information": null, "publisher":
+  null, "publication_day": null, "publication_year": null, "publication_month": null,
+  "average_rating": "3.69", "ratings_count": "27819", "description": "<b>From sci-fi
+  visionary and acclaimed author Annalee Newitz comes Automatic Noodle, a cozy near-future
+  novella about a crew of abandoned food service bots opening their very own restaurant.</b><br
+  /><br />While San Francisco rebuilds from the chaos of war, a group of food service
+  bots in an abandoned ghost kitchen take over their own delivery app account. They
+  rebrand as a neighborhood lunch spot and start producing some of the tastiest hand-pulled
+  noodles in the city. But there\u2019s just one problem. Someone\u2015or something\u2015is
+  review bombing the restaurant\u2019s feedback page with fake \u201cbad service\u201d
+  reports. Can the bots find the culprit before their ratings plummet and destroy
+  everything they created?", "authors": {"author": {"id": "191888", "name": "Annalee
+  Newitz", "role": null, "image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1608627466p5/191888.jpg"},
+  "small_image_url": {"@nophoto": "false", "#text": "https://images.gr-assets.com/authors/1608627466p2/191888.jpg"},
+  "link": "https://www.goodreads.com/author/show/191888.Annalee_Newitz", "average_rating":
+  "3.65", "ratings_count": "80363", "text_reviews_count": "14756"}}, "published":
+  null, "work": {"id": "223888211", "uri": "kca://work/amzn1.gr.work.v3.9CPY02m6MfTneObl"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/8807698764",
+  "read_at": "Mon Jul 27 00:00:00 -0700 2026", "started_at": "", "date_added": "Mon
+  Jul 27 17:28:07 -0700 2026", "date": "Mon Jul 27 00:00:00 -0700 2026"}'
+kindle_asin: B0DDJCWQH8
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/217582924-automatic-noodle
+marketplace_id: ATVPDKIKX0DER
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '50359'
+    '@name': to-read
+  - '@count': '1566'
+    '@name': currently-reading
+  - '@count': '1016'
+    '@name': sci-fi
+  - '@count': '880'
+    '@name': science-fiction
+  - '@count': '640'
+    '@name': did-not-finish
+  - '@count': '447'
+    '@name': fiction
+  - '@count': '388'
+    '@name': audiobook
+  - '@count': '318'
+    '@name': novella
+  - '@count': '251'
+    '@name': cozy
+  - '@count': '211'
+    '@name': audiobooks
+  - '@count': '196'
+    '@name': scifi
+  - '@count': '156'
+    '@name': audio
+  - '@count': '135'
+    '@name': fantasy
+  - '@count': '133'
+    '@name': library
+  - '@count': '133'
+    '@name': dystopian
+  - '@count': '110'
+    '@name': 2025-releases
+  - '@count': '107'
+    '@name': read-in-2025
+  - '@count': '103'
+    '@name': adult
+  - '@count': '90'
+    '@name': owned
+  - '@count': '90'
+    '@name': dystopia
+  - '@count': '85'
+    '@name': favorites
+  - '@count': '82'
+    '@name': novellas
+  - '@count': '80'
+    '@name': book-club
+  - '@count': '79'
+    '@name': read-in-2026
+  - '@count': '79'
+    '@name': read-2025
+  - '@count': '78'
+    '@name': robots
+  - '@count': '74'
+    '@name': 2025-reads
+  - '@count': '71'
+    '@name': ebook
+  - '@count': '69'
+    '@name': lgbtq
+  - '@count': '68'
+    '@name': food
+  - '@count': '64'
+    '@name': 2026-reads
+  - '@count': '63'
+    '@name': queer
+  - '@count': '62'
+    '@name': speculative-fiction
+  - '@count': '60'
+    '@name': libby
+  - '@count': '60'
+    '@name': kindle
+  - '@count': '60'
+    '@name': sf
+  - '@count': '58'
+    '@name': sci-fi-fantasy
+  - '@count': '55'
+    '@name': read-2026
+  - '@count': '54'
+    '@name': netgalley
+  - '@count': '50'
+    '@name': arc
+  - '@count': '46'
+    '@name': tbr
+  - '@count': '45'
+    '@name': adult-fiction
+  - '@count': '42'
+    '@name': audio-books
+  - '@count': '41'
+    '@name': short-stories
+  - '@count': '41'
+    '@name': sff
+  - '@count': '39'
+    '@name': audio-book
+  - '@count': '38'
+    '@name': 2026-books
+  - '@count': '38'
+    '@name': found-family
+  - '@count': '36'
+    '@name': california
+  - '@count': '36'
+    '@name': 2025-books
+  - '@count': '35'
+    '@name': lgbt
+  - '@count': '33'
+    '@name': fantasy-sci-fi
+  - '@count': '32'
+    '@name': physical-tbr
+  - '@count': '32'
+    '@name': lgbtqia
+  - '@count': '31'
+    '@name': 2025-read
+  - '@count': '31'
+    '@name': books-i-own
+  - '@count': '30'
+    '@name': arcs
+  - '@count': '27'
+    '@name': dnf
+  - '@count': '27'
+    '@name': cozy-fantasy
+  - '@count': '27'
+    '@name': to-buy
+  - '@count': '26'
+    '@name': short-books
+  - '@count': '25'
+    '@name': library-books
+  - '@count': '25'
+    '@name': scifi-fantasy
+  - '@count': '25'
+    '@name': maybe
+  - '@count': '24'
+    '@name': borrowed
+  - '@count': '24'
+    '@name': artificial-intelligence
+  - '@count': '24'
+    '@name': short
+  - '@count': '23'
+    '@name': ebooks
+  - '@count': '23'
+    '@name': san-francisco
+  - '@count': '23'
+    '@name': standalone
+  - '@count': '22'
+    '@name': 2026-read
+  - '@count': '22'
+    '@name': humor
+  - '@count': '22'
+    '@name': post-apocalyptic
+  - '@count': '20'
+    '@name': 2026-tbr
+  - '@count': '19'
+    '@name': want-to-buy
+  - '@count': '19'
+    '@name': audible
+  - '@count': '19'
+    '@name': friendship
+  - '@count': '19'
+    '@name': science-fiction-fantasy
+  - '@count': '19'
+    '@name': short-stories-novellas
+  - '@count': '18'
+    '@name': english
+  - '@count': '18'
+    '@name': 2025-release
+  - '@count': '17'
+    '@name': novels
+  - '@count': '17'
+    '@name': ai
+  - '@count': '16'
+    '@name': short-fiction
+  - '@count': '15'
+    '@name': sword-and-laser
+  - '@count': '15'
+    '@name': technology
+  - '@count': '15'
+    '@name': cosy
+  - '@count': '14'
+    '@name': library-book
+  - '@count': '14'
+    '@name': speculative
+  - '@count': '14'
+    '@name': interested
+  - '@count': '14'
+    '@name': sci-fi-tbr
+  - '@count': '13'
+    '@name': listened-to
+  - '@count': '13'
+    '@name': listened
+  - '@count': '13'
+    '@name': cozy-sci-fi
+  - '@count': '13'
+    '@name': futuristic
+  - '@count': '13'
+    '@name': war
+  - '@count': '13'
+    '@name': e-book
+  - '@count': '13'
+    '@name': on-my-radar
+  - '@count': '12'
+    '@name': kindle-unlimited
+  - '@count': '12'
+    '@name': hugo-2026
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '27819'
+read_at: '2026-07-27T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/8807698764
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/217582924-automatic-noodle\"\
+  >Automatic Noodle Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"\
+  https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1250357470&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/217582924-automatic-noodle?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '87305'
+        link: https://www.goodreads.com/author/show/87305.Martha_Wells
+        name: Martha Wells
+    average_rating: '3.69'
+    id: '240019874'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1758044201l/240019874._SX98_.jpg
+    isbn: '1250827000'
+    isbn13: '9781250827005'
+    link: https://www.goodreads.com/book/show/240019874-platform-decay
+    num_pages: '244'
+    publication_day: '5'
+    publication_month: '5'
+    publication_year: '2026'
+    ratings_count: '27819'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1758044201l/240019874._SY75_.jpg
+    title: 'Platform Decay (The Murderbot Diaries, #8)'
+    title_without_series: Platform Decay
+    uri: kca://book/amzn1.gr.book.v3.sddf03WSwQed893q
+    work:
+      id: '252979352'
+  - authors:
+      author:
+        id: '4710174'
+        link: https://www.goodreads.com/author/show/4710174.Olivia_Waite
+        name: Olivia Waite
+    average_rating: '3.69'
+    id: '231127477'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1747933065l/231127477._SX98_.jpg
+    isbn: '1250342260'
+    isbn13: '9781250342263'
+    link: https://www.goodreads.com/book/show/231127477-nobody-s-baby
+    num_pages: '136'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '27819'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1747933065l/231127477._SY75_.jpg
+    title: 'Nobody''s Baby (Dorothy Gentleman, #2)'
+    title_without_series: Nobody's Baby
+    uri: kca://book/amzn1.gr.book.v3.aCK8Radr7ZWQHyGQ
+    work:
+      id: '244539637'
+  - authors:
+      author:
+        id: '4710174'
+        link: https://www.goodreads.com/author/show/4710174.Olivia_Waite
+        name: Olivia Waite
+    average_rating: '3.69'
+    id: '211004175'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724325334l/211004175._SX98_.jpg
+    isbn: '1250342244'
+    isbn13: '9781250342249'
+    link: https://www.goodreads.com/book/show/211004175-murder-by-memory
+    num_pages: '103'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '27819'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724325334l/211004175._SY75_.jpg
+    title: 'Murder by Memory (Dorothy Gentleman, #1)'
+    title_without_series: Murder by Memory
+    uri: kca://book/amzn1.gr.book.v3.sluaqG8Vvh7ON2BG
+    work:
+      id: '216890022'
+  - authors:
+      author:
+        id: '20891490'
+        link: https://www.goodreads.com/author/show/20891490.Barbara_Truelove
+        name: Barbara Truelove
+    average_rating: '3.69'
+    id: '216540053'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726684450l/216540053._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/216540053-of-monsters-and-mainframes
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '27819'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726684450l/216540053._SX50_.jpg
+    title: Of Monsters and Mainframes
+    title_without_series: Of Monsters and Mainframes
+    uri: kca://book/amzn1.gr.book.v3.uujRQs8d-qyD-J0s
+    work:
+      id: '222958059'
+  - authors:
+      author:
+        id: '22182916'
+        link: https://www.goodreads.com/author/show/22182916.Travis_Baldree
+        name: Travis Baldree
+    average_rating: '3.69'
+    id: '222376572'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738162389l/222376572._SX98_.jpg
+    isbn: '1250334888'
+    isbn13: '9781250334886'
+    link: https://www.goodreads.com/book/show/222376572-brigands-breadknives
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '27819'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738162389l/222376572._SY75_.jpg
+    title: 'Brigands & Breadknives (Legends & Lattes, #2)'
+    title_without_series: Brigands & Breadknives
+    uri: kca://book/amzn1.gr.book.v3.y6h0Atvg4HejozdQ
+    work:
+      id: '229363270'
+  - authors:
+      author:
+        id: '7106498'
+        link: https://www.goodreads.com/author/show/7106498.Freya_Marske
+        name: Freya Marske
+    average_rating: '3.69'
+    id: '222376570'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1741983755l/222376570._SX98_.jpg
+    isbn: 125034171X
+    isbn13: '9781250341716'
+    link: https://www.goodreads.com/book/show/222376570-cinder-house
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '27819'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1741983755l/222376570._SY75_.jpg
+    title: Cinder House
+    title_without_series: Cinder House
+    uri: kca://book/amzn1.gr.book.v3.p0HABOdm30empTiJ
+    work:
+      id: '229363267'
+  - authors:
+      author:
+        id: '48172010'
+        link: https://www.goodreads.com/author/show/48172010.H_H_Pak
+        name: H.H. Pak
+    average_rating: '3.69'
+    id: '251904930'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1778096219l/251904930._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/251904930-never-eaten-vegetables
+    num_pages: '39'
+    publication_day: '6'
+    publication_month: '5'
+    publication_year: '2026'
+    ratings_count: '27819'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1778096219l/251904930._SY75_.jpg
+    title: Never Eaten Vegetables
+    title_without_series: Never Eaten Vegetables
+    uri: kca://book/amzn1.gr.book.v3.1t418s4NdOWqQIgg
+    work:
+      id: '291658570'
+  - authors:
+      author:
+        id: '8730'
+        link: https://www.goodreads.com/author/show/8730.Naomi_Novik
+        name: Naomi Novik
+    average_rating: '3.69'
+    id: '222683998'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1747927269l/222683998._SX98_.jpg
+    isbn: 0593984706
+    isbn13: '9780593984703'
+    link: https://www.goodreads.com/book/show/222683998-the-summer-war
+    num_pages: '144'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '27819'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1747927269l/222683998._SY75_.jpg
+    title: The Summer War
+    title_without_series: The Summer War
+    uri: kca://book/amzn1.gr.book.v3.DlDqqmBdEQ3V2ej0
+    work:
+      id: '229716563'
+  - authors:
+      author:
+        id: '6683690'
+        link: https://www.goodreads.com/author/show/6683690.Sarah_Pinsker
+        name: Sarah Pinsker
+    average_rating: '3.69'
+    id: '251905439'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1778097199l/251905439._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/251905439-the-millay-illusion
+    num_pages: '29'
+    publication_day: '6'
+    publication_month: '5'
+    publication_year: '2026'
+    ratings_count: '27819'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1778097199l/251905439._SY75_.jpg
+    title: The Millay Illusion
+    title_without_series: The Millay Illusion
+    uri: kca://book/amzn1.gr.book.v3.XMZ8tnHIVujzs1xy
+    work:
+      id: '291659854'
+  - authors:
+      author:
+        id: '46004191'
+        link: https://www.goodreads.com/author/show/46004191.Tia_Tashiro
+        name: Tia Tashiro
+    average_rating: '3.69'
+    id: '251905008'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1778096391l/251905008._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/251905008-missing-helen
+    num_pages: '15'
+    publication_day: '6'
+    publication_month: '5'
+    publication_year: '2026'
+    ratings_count: '27819'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1778096391l/251905008._SY75_.jpg
+    title: Missing Helen
+    title_without_series: Missing Helen
+    uri: kca://book/amzn1.gr.book.v3.PuW8O8jFYl5WjWKI
+    work:
+      id: '291658778'
+  - authors:
+      author:
+        id: '73149'
+        link: https://www.goodreads.com/author/show/73149.Scott_Lynch
+        name: Scott Lynch
+    average_rating: '3.69'
+    id: '251905481'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1778097303l/251905481._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/251905481-kaiju-agonistes
+    num_pages: '48'
+    publication_day: '6'
+    publication_month: '5'
+    publication_year: '2026'
+    ratings_count: '27819'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1778097303l/251905481._SY75_.jpg
+    title: Kaiju Agonistes
+    title_without_series: Kaiju Agonistes
+    uri: kca://book/amzn1.gr.book.v3.V26zegEdWiVoTBVk
+    work:
+      id: '291659979'
+  - authors:
+      author:
+        id: '4175512'
+        link: https://www.goodreads.com/author/show/4175512.Amal_El_Mohtar
+        name: Amal El-Mohtar
+    average_rating: '3.69'
+    id: '211004176'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719522277l/211004176._SX98_.jpg
+    isbn: '1250341086'
+    isbn13: '9781250341082'
+    link: https://www.goodreads.com/book/show/211004176-the-river-has-roots
+    num_pages: '133'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '27819'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719522277l/211004176._SY75_.jpg
+    title: The River Has Roots
+    title_without_series: The River Has Roots
+    uri: kca://book/amzn1.gr.book.v3.D3VOOfFSvwfG8sVv
+    work:
+      id: '217233331'
+  - authors:
+      author:
+        id: '7367300'
+        link: https://www.goodreads.com/author/show/7367300.T_Kingfisher
+        name: T. Kingfisher
+    average_rating: '3.69'
+    id: '222376665'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1742864989l/222376665._SX98_.jpg
+    isbn: '1250354927'
+    isbn13: '9781250354921'
+    link: https://www.goodreads.com/book/show/222376665-what-stalks-the-deep
+    num_pages: '179'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '27819'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1742864989l/222376665._SY75_.jpg
+    title: 'What Stalks the Deep (Sworn Soldier, #3)'
+    title_without_series: What Stalks the Deep
+    uri: kca://book/amzn1.gr.book.v3.ZsSEZY-t17kn8-g_
+    work:
+      id: '229632790'
+  - authors:
+      author:
+        id: '338705'
+        link: https://www.goodreads.com/author/show/338705.Catherynne_M_Valente
+        name: Catherynne M. Valente
+    average_rating: '3.69'
+    id: '251905527'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1778097404l/251905527._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/251905527-when-he-calls-your-name
+    num_pages: '35'
+    publication_day: '6'
+    publication_month: '5'
+    publication_year: '2026'
+    ratings_count: '27819'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1778097404l/251905527._SY75_.jpg
+    title: When He Calls Your Name
+    title_without_series: When He Calls Your Name
+    uri: kca://book/amzn1.gr.book.v3.6MDLT7_pgDDO-D5-
+    work:
+      id: '291660109'
+  - authors:
+      author:
+        id: '7774355'
+        link: https://www.goodreads.com/author/show/7774355.Effie_Seiberg
+        name: Effie Seiberg
+    average_rating: '3.69'
+    id: '251905306'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1778096938l/251905306._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/251905306-laser-eyes-ain-t-everything
+    num_pages: '12'
+    publication_day: '6'
+    publication_month: '5'
+    publication_year: '2026'
+    ratings_count: '27819'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1778096938l/251905306._SX50_.jpg
+    title: Laser Eyes Ain't Everything
+    title_without_series: Laser Eyes Ain't Everything
+    uri: kca://book/amzn1.gr.book.v3.TJDhGpv5u9Z6_91T
+    work:
+      id: '291659519'
+  - authors:
+      author:
+        id: '5562157'
+        link: https://www.goodreads.com/author/show/5562157.John_Chu
+        name: John Chu
+    average_rating: '3.69'
+    id: '231127269'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1746580232l/231127269._SX98_.jpg
+    isbn: '1250425409'
+    isbn13: '9781250425409'
+    link: https://www.goodreads.com/book/show/231127269-the-subtle-art-of-folding-space
+    num_pages: '227'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '27819'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1746580232l/231127269._SY75_.jpg
+    title: The Subtle Art of Folding Space
+    title_without_series: The Subtle Art of Folding Space
+    uri: kca://book/amzn1.gr.book.v3.uU6yFPf-f0P8FTXd
+    work:
+      id: '244539370'
+  - authors:
+      author:
+        id: '50622438'
+        link: https://www.goodreads.com/author/show/50622438.J_R_Dawson
+        name: J. R. Dawson
+    average_rating: '3.69'
+    id: '251905061'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1778096512l/251905061._SX98_.jpg
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/251905061-six-people-to-revise-you
+    num_pages: '19'
+    publication_day: '6'
+    publication_month: '5'
+    publication_year: '2026'
+    ratings_count: '27819'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1778096512l/251905061._SY75_.jpg
+    title: Six People to Revise You
+    title_without_series: Six People to Revise You
+    uri: kca://book/amzn1.gr.book.v3.JHnvnMI4sNmiCfSz
+    work:
+      id: '291658906'
+  - authors:
+      author:
+        id: '18758567'
+        link: https://www.goodreads.com/author/show/18758567.Emily_Tesh
+        name: Emily  Tesh
+    average_rating: '3.69'
+    id: '217387935'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1723556679l/217387935._SX98_.jpg
+    isbn: '1250835011'
+    isbn13: '9781250835017'
+    link: https://www.goodreads.com/book/show/217387935-the-incandescent
+    num_pages: '416'
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '27819'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1723556679l/217387935._SY75_.jpg
+    title: The Incandescent
+    title_without_series: The Incandescent
+    uri: kca://book/amzn1.gr.book.v3.yohM5b_sdpGj1Ces
+    work:
+      id: '222907299'
+small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731705848l/217582924._SY75_.jpg
+started_at: ''
+text_reviews_count:
+  '#text': '416'
+  '@type': integer
+title: Automatic Noodle
+title_without_series: Automatic Noodle
+uri: kca://book/amzn1.gr.book.v3.b73jXqg9I8Ry1JhK
+url: https://www.goodreads.com/book/show/217582924-automatic-noodle
+work:
+  id: '223888211'
+  uri: kca://work/amzn1.gr.work.v3.9CPY02m6MfTneObl
