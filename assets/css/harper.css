@@ -122,3 +122,13 @@ hr {
 }
 
 .nowrap { white-space: nowrap; }
+
+/* blog posts */
+a.blog-tags {
+    line-height: calc(var(--line-height-base) * 1.2);
+    margin-right: var(--margin);
+}
+
+p.byline {
+    font-style: italic;
+}
