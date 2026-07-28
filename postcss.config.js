@@ -10,9 +10,8 @@ const purgecss = {
       ...(elements.ids || []),
     ];
   },
-  // TEMP: music-filter is conditionally rendered; hugo_stats.json misses it.
-  // Remove when Task 7 converts music templates.
-  safelist: ["page_content", "music-filter", /^prose/, /^masonry-/, /^highlight/, /^chroma/, /loaded/, /visible/, /^bsky/, /^tinylytics/],
+  // page_content is rendered inside {{ .Content }} — not scannable by hugo_stats.json.
+  safelist: ["page_content", /^prose/, /^masonry-/, /^highlight/, /^chroma/, /loaded/, /visible/, /^bsky/, /^tinylytics/],
 };
 
 module.exports = {

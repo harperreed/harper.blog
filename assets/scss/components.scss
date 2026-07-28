@@ -69,11 +69,9 @@
   .media-list li > span:first-child { @apply w-auto mr-0 mb-1; }
 }
 
-/* TEMP aliases until Tasks 7-8 convert these templates: */
-.music-posts { @extend .media-list; }
+/* TEMP alias until Task 8 converts remaining templates: */
 .media-posts { @extend .media-list; }
-/* NOTE: .music-filter/.music-domain live in legacy-shim.scss
-   because they are conditionally rendered and would be purged from @layer components. */
+/* NOTE: See legacy-shim.scss for any remaining TEMP rules. */
 
 /* Books */
 
@@ -157,4 +155,83 @@
 @media (prefers-reduced-motion: reduce) {
   .book-grid-item { transition: none; }
   .book-grid-item:hover { transform: none; }
+}
+
+/* Music */
+
+/* Grid container */
+.music-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+/* Individual grid card — square aspect ratio */
+.music-grid-item {
+  @apply rounded-sm relative overflow-hidden;
+  border: 1px solid var(--color-border-rule);
+  aspect-ratio: 1/1;
+  padding: 15px;
+  background: var(--color-text-body);
+  background: radial-gradient(circle, var(--color-text-muted) 0%, var(--color-text-body) 90%);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.music-grid-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 8px var(--color-border-rule);
+}
+
+/* Background album art image */
+.music-grid-item .album-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+}
+
+/* Link wrapper */
+.music-grid-item .music-link {
+  text-decoration: none;
+  color: inherit;
+  position: relative;
+  z-index: 1;
+  display: block;
+  height: 100%;
+}
+
+/* Overlay sits on arbitrary album art: fixed dark panel + hardcoded light text in both color schemes. */
+.music-grid-item .music-info {
+  background: rgba(0, 0, 0, 0.7);
+  padding: 15px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  backdrop-filter: blur(5px);
+  z-index: 1;
+}
+
+/* Title inside grid card — scoped to avoid collision with .media-title in list.html */
+.music-grid .music-title,
+.music-info .music-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 0 0 5px;
+  color: #ffffff;
+}
+
+/* Artist inside grid card */
+.music-grid-item .music-artist {
+  font-size: 1rem;
+  margin: 0;
+  color: #dddddd;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .music-grid-item { transition: none; }
+  .music-grid-item:hover { transform: none; }
 }

@@ -1,17 +1,21 @@
-{{ define "main" }} 
+{{ define "main" }}
 {{ if not .Params.menu }}
 <h1>{{ .Title }} {{ i18n "by" | default "by" }} {{.Params.artist}}</h1>
-<p class="byline">
+<p class="text-sm text-text-faint mb-8">
     <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="{{ i18n "date-aria" (printf "%s" (.Date.Format (default "2006-01-02" .Site.Params.dateFormat))) | default (printf "Date: %s" (.Date.Format (default "2006-01-02" .Site.Params.dateFormat))) }}">
         {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
     </time>
     {{ with .Params.author }}· {{.}}{{ end }}
 </p>
 {{ end }}
-<article> {{ .Content }} </article>
+<article>
+    <div class="page_content">
+    {{ .Content }}
+    </div>
+</article>
 <p>
     {{ range (.GetTerms "tags") }}
-    <a class="blog-tags" href="{{ .RelPermalink }}" aria-label="{{ i18n "tag-aria" (printf "%s" (lower .LinkTitle)) | default (printf "Tag: %s" (lower .LinkTitle)) }}">#{{ lower .LinkTitle }}</a>
+    <a class="text-sm text-text-muted underline hover:no-underline hover:text-text-primary" href="{{ .RelPermalink }}" aria-label="{{ i18n "tag-aria" (printf "%s" (lower .LinkTitle)) | default (printf "Tag: %s" (lower .LinkTitle)) }}">#{{ lower .LinkTitle }}</a>
     {{ end }}
 </p>
 
