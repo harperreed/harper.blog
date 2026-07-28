@@ -21,3 +21,7 @@ pagerSize = "6"
 [minify]
 disableXML = true
 # minifyOutput = true
+
+# Keep HTML comments so the ASCII-art head easter egg survives --minify
+[minify.tdewolff.html]
+keepComments = true
