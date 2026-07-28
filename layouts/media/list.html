@@ -16,54 +16,47 @@
     {{ $sortedMedia := sort $allMedia "Date" "desc" }}
     {{ $paginator := .Paginate $sortedMedia 20 }}
     
-    <ul class="media-link-posts">
-        {{ range $paginator.Pages.GroupByDate "2006-01-02" }} 
+    <ul class="media-list">
+        {{ range $paginator.Pages.GroupByDate "2006-01-02" }}
         {{ range $index, $page := .Pages }}
         <li>
             {{ if eq $index 0 }}
-            <span class="date">
-                <i>
-                    <time datetime='{{ .Date.Format "2006-01-02" }}' >
-                        {{ .Date.Format (default "2006-01-02" $.Site.Params.dateFormat) }}
-                    </time>
-                </i>
+            <span>
+                <time datetime='{{ .Date.Format "2006-01-02" }}' >
+                    {{ .Date.Format (default "2006-01-02" $.Site.Params.dateFormat) }}
+                </time>
             </span>
             {{ else }}
             <span></span>
             {{ end }}
-            
-           
-            
+
             {{ if eq $page.Section "links" }}
                 {{ if .Params.original_url }}
                 <a href="{{ .Params.original_url }}" class="media-link" target="_blank" rel="noopener noreferrer"
                    data-tinylytics-event="outbound.link"
                    data-tinylytics-event-value="{{ .Title }}">
-                    <span class="media-link-title">{{ .Title }}</span>
+                    <span class="media-title">{{ .Title }}</span>
                     {{ $url := urls.Parse .Params.original_url }}
-                    <span class="media-link-domain">({{ $url.Hostname }})</span>
+                    <span class="media-domain">({{ $url.Hostname }})</span>
                 </a>
                 {{ else }}
                     {{ .Title }}
                 {{ end }}
             {{ else if eq $page.Section "music" }}
             {{ if .Params.spotify_url }}
-            
             <a href="{{ .Params.spotify_url }}" target="_blank" class="media-music" rel="noopener noreferrer"
                data-tinylytics-event="outbound.spotify"
                data-tinylytics-event-value="{{ .Title }}">
-                <span class="media-link-title">{{ .Title }}</span>
-              
+                <span class="media-title">{{ .Title }}</span>
                 {{ with .Params.artist }}
-                <span class="media-link-domain">(by {{ . }})</span>
-
+                <span class="media-domain">(by {{ . }})</span>
                 {{ end }}
             </a>
             {{ else }}
             <a href="{{ .RelPermalink }}" class="media-music">
-                <span class="media-link-title">{{ .Title }}</span>
+                <span class="media-title">{{ .Title }}</span>
                 {{ with .Params.artist }}
-                <span class="media-link-domain">(by {{ . }})</span>
+                <span class="media-domain">(by {{ . }})</span>
                 {{ end }}
             </a>
             {{ end }}
@@ -72,23 +65,21 @@
             <a href="{{ $url }}" target="_blank"  class="media-book" rel="noopener noreferrer"
                data-tinylytics-event="outbound.amazon"
                data-tinylytics-event-value="{{ .Title }}">
-                <span class="media-link-title">{{ .Title }}</span>
-
+                <span class="media-title">{{ .Title }}</span>
                 {{ with .Params.book_author }}
-                <span class="media-link-domain">(by {{ . }})</span>
+                <span class="media-domain">(by {{ . }})</span>
                 {{ end }}
-               
             </a>
             {{ else }}
                 <a href="{{ .RelPermalink }}">
-                    <span class="media-link-title">{{ .Title }}</span>
+                    <span class="media-title">{{ .Title }}</span>
                     {{ if eq $page.Section "books" }}
                         {{ with .Params.author }}
-                        <span class="media-link-domain">(by {{ . }})</span>
+                        <span class="media-domain">(by {{ . }})</span>
                         {{ end }}
                     {{ else if eq $page.Section "music" }}
                         {{ with .Params.artist }}
-                        <span class="media-link-domain">(by {{ . }})</span>
+                        <span class="media-domain">(by {{ . }})</span>
                         {{ end }}
                     {{ end }}
                 </a>

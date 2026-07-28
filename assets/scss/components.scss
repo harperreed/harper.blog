@@ -69,9 +69,39 @@
   .media-list li > span:first-child { @apply w-auto mr-0 mb-1; }
 }
 
-/* TEMP alias until Task 8 converts remaining templates: */
-.media-posts { @extend .media-list; }
-/* NOTE: See legacy-shim.scss for any remaining TEMP rules. */
+/* Media */
+
+/* Emoji prefix for link/book/music entries in the media hub list. */
+.media-link::before {
+  content: "🔗 ";
+  speak: none;
+}
+.media-book::before {
+  content: "📚 ";
+  speak: none;
+}
+.media-music::before {
+  content: "🎵 ";
+  speak: none;
+}
+
+/* Photos */
+
+/* Photo grid — CSS grid with fixed-height slots (distinct from notes masonry columns). */
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+}
+.photo-item img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+.photo-meta {
+  @apply text-text-muted text-sm;
+  padding: 0.5rem 0;
+}
 
 /* Books */
 
