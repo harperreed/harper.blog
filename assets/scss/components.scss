@@ -69,9 +69,88 @@
   .media-list li > span:first-child { @apply w-auto mr-0 mb-1; }
 }
 
-/* TEMP aliases until Tasks 6-8 convert these templates: */
-.book-posts { @extend .media-list; }
+/* TEMP aliases until Tasks 7-8 convert these templates: */
 .music-posts { @extend .media-list; }
 .media-posts { @extend .media-list; }
-/* NOTE: .book-filter/.music-filter/.book-domain/.music-domain live in legacy-shim.scss
+/* NOTE: .music-filter/.music-domain live in legacy-shim.scss
    because they are conditionally rendered and would be purged from @layer components. */
+
+/* Books */
+
+/* Book cover image in single view */
+.book-cover {
+  @apply rounded-sm mb-4;
+}
+
+/* Re-read note */
+.reread-note {
+  @apply text-sm text-text-muted italic mb-4;
+}
+
+/* Related reads paragraph */
+.related-reads {
+  @apply text-sm text-text-muted mb-4;
+}
+
+/* Cover grid — year grouping */
+.year-section {
+  @apply mb-12;
+}
+.year-heading {
+  @apply text-text-primary text-xl font-semibold mb-4;
+}
+
+/* Cover grid container */
+.book-grid {
+  @apply grid gap-5 p-5;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+/* Individual grid card */
+.book-grid-item {
+  @apply rounded-sm relative overflow-hidden;
+  border: 1px solid var(--color-border-rule);
+  aspect-ratio: 2/3.155;
+  background: var(--color-text-body);
+  background: radial-gradient(circle, var(--color-text-muted) 0%, var(--color-text-body) 90%);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.book-grid-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px var(--color-border-rule);
+}
+
+/* Background cover image */
+.book-bg {
+  @apply absolute top-0 left-0 w-full h-full object-contain;
+  z-index: 0;
+}
+
+/* Link wrapper */
+.book-grid-item .book-link {
+  @apply no-underline text-inherit relative;
+  z-index: 1;
+}
+
+/* Info overlay */
+.book-grid-item .book-info {
+  @apply relative p-2.5 rounded-sm;
+  background: rgba(255, 255, 255, 0.9);
+  z-index: 1;
+}
+
+/* Title inside grid card — scoped to avoid collision with .media-title in list.html */
+.book-grid .book-title,
+.book-info .book-title {
+  @apply text-text-primary font-bold text-lg m-0 mb-1;
+}
+
+/* Author inside grid card */
+.book-grid-item .book-author {
+  @apply text-text-muted text-sm m-0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .book-grid-item { transition: none; }
+  .book-grid-item:hover { transform: none; }
+}

@@ -1,6 +1,6 @@
 {{ define "main" }} {{ if not .Params.menu }}
 <h1>{{ .Title }}</h1>
-<p class="byline">{{ with .Params.book_author }}{{ i18n "by" | default "By" }} {{.}}{{ end }}</p>
+<p class="text-sm text-text-faint mb-8">{{ with .Params.book_author }}{{ i18n "by" | default "By" }} {{.}}{{ end }}</p>
 {{ end }}
 <article>
     <h3>{{.Params.tagline}}</h3>
@@ -9,7 +9,10 @@
     }}
 
     <img src="{{ $image  }}" alt="{{ i18n "book-cover-alt" | default "Book cover" }}" class="book-cover" />
-    {{ end }} {{ .Content }}
+    {{ end }}
+    <div class="page_content">
+    {{ .Content }}
+    </div>
 </article>
 
 <ul>
@@ -62,7 +65,7 @@
 <p>
     {{ range (.GetTerms "tags") }}
     <a
-        class="blog-tags"
+        class="text-sm text-text-muted underline hover:no-underline hover:text-text-primary"
         href="{{ .RelPermalink }}"
         aria-label="{{ i18n "tag-aria" (printf "%s" (lower .LinkTitle)) | default (printf "Tag: %s" (lower .LinkTitle)) }}"
         >#{{ lower .LinkTitle }}</a

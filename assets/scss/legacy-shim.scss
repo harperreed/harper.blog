@@ -27,11 +27,9 @@
 }
 a { text-decoration-thickness: 1px; }
 
-/* TEMP aliases — books/music filter headings and domain spans (Tasks 6-7 will convert). */
+/* TEMP aliases — music filter headings and domain spans (Task 7 will convert). */
 /* Placed here (outside @layer) so Tailwind JIT purging does not strip them. */
-.book-filter,
 .music-filter { color: var(--color-text-muted); font-style: italic; margin-bottom: 2rem; }
-.book-domain,
 .music-domain { color: var(--color-text-muted); text-decoration: none; font-size: 0.875rem; }
 
 /* Site-wide: suppress link transitions under reduced motion (from shared.css). */

@@ -10,9 +10,9 @@ const purgecss = {
       ...(elements.ids || []),
     ];
   },
-  // TEMP: book-filter/music-filter are conditionally rendered; hugo_stats.json misses them.
-  // Remove when Tasks 6-7 convert books/music templates.
-  safelist: ["page_content", "book-filter", "music-filter", /^prose/, /^masonry-/, /^highlight/, /^chroma/, /loaded/, /visible/, /^bsky/, /^tinylytics/],
+  // TEMP: music-filter is conditionally rendered; hugo_stats.json misses it.
+  // Remove when Task 7 converts music templates.
+  safelist: ["page_content", "music-filter", /^prose/, /^masonry-/, /^highlight/, /^chroma/, /loaded/, /visible/, /^bsky/, /^tinylytics/],
 };
 
 module.exports = {
