@@ -1,0 +1,127 @@
+// ABOUTME: Styles for client-side-injected markup (bsky comments, tinylytics widget states).
+// ABOUTME: Kept outside Tailwind layers so Tailwind tree-shaking and PurgeCSS cannot prune them.
+
+/* ── Bluesky comments — DOM built by assets/js/bluesky_comments.js ── */
+
+.bsky-comments-container {
+  max-width: 100%;
+  margin: 1rem 0;
+}
+
+.bsky-meta {
+  margin: 1rem 0;
+  font-size: 0.9rem;
+  color: var(--color-text-primary);
+}
+
+.bsky-meta a {
+  color: var(--color-text-primary);
+  text-decoration: none;
+}
+
+.bsky-meta a:hover {
+  text-decoration: underline;
+}
+
+.bsky-comment {
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--color-border-rule);
+}
+
+.bsky-comment:last-child {
+  border-bottom: none;
+}
+
+.bsky-author {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.bsky-avatar {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid var(--color-border-rule);
+}
+
+.bsky-author a {
+  color: var(--color-text-primary);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.bsky-author a:hover {
+  text-decoration: underline;
+}
+
+.bsky-handle {
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+}
+
+.bsky-content {
+  margin: 0.5rem 0;
+  line-height: 1.5;
+  word-wrap: break-word;
+}
+
+.bsky-actions {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+}
+
+.bsky-nested-replies {
+  margin-left: 2rem;
+  border-left: 2px solid var(--color-border-rule);
+  padding-left: 1rem;
+}
+
+.bsky-error {
+  color: #dc2626;
+  padding: 1rem;
+  background-color: #fef2f2;
+  border-radius: 4px;
+  margin: 1rem 0;
+}
+
+.bsky-loading {
+  color: var(--color-text-muted);
+  padding: 1rem 0;
+}
+
+.bsky-retry-button {
+  margin-top: 0.5rem;
+  padding: 0.25rem 0.75rem;
+  border: 1px solid var(--color-border-rule);
+  border-radius: 4px;
+  background: none;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.bsky-comment-count {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  margin-top: 0.5rem;
+}
+
+/* ── Tinylytics widget — state injected by tinylytics.js ── */
+
+/* After a visitor clicks the kudos button, tinylytics adds .did_select */
+.did_select {
+  opacity: 0.6;
+  cursor: default;
+  text-decoration: none;
+  pointer-events: none;
+}
+
+/* ── Image-loading state — added by assets/js/image-loading.js ── */
+
+/* img starts invisible; .loaded is added once the image fires onload */
+img.loaded {
+  opacity: 1;
+}

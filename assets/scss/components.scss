@@ -267,3 +267,36 @@
   .music-grid-item { transition: none; }
   .music-grid-item:hover { transform: none; }
 }
+
+/* ── Notices — outofdate, ai-disclosure, post-translations-box ── */
+/* Shared bordered-note idiom: no amber/red, uses border-rule token. */
+
+.outofdate-warning,
+.ai-disclosure,
+.post-translations-box {
+  @apply border rounded p-4 my-6 text-sm text-text-muted;
+  border-color: var(--color-border-rule);
+}
+
+/* ── Translations / available-languages ── */
+
+.available-languages {
+  @apply text-xs text-text-muted;
+}
+
+/* ── Tinylytics kudos button (server-rendered) ── */
+/* .did_select lives in widgets.scss — it's JS-injected after click. */
+
+.tinylytics_kudos {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+  cursor: pointer;
+  display: inline;
+  vertical-align: baseline;
+  line-height: inherit;
+}
