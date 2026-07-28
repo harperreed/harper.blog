@@ -20,6 +20,24 @@
   .post-list li, .post-list .post-row { @apply mb-3; }
 }
 
+/* Bearcub module _default/list.html fallback (/page/, taxonomy lists) — date | title rows. */
+ul.blog-posts {
+  @apply list-none p-0 m-0;
+}
+ul.blog-posts li {
+  @apply flex gap-x-4 mb-3;
+}
+ul.blog-posts li span {
+  flex: 0 0 8.125rem;
+  @apply text-text-faint tabular-nums;
+}
+ul.blog-posts li span i {
+  @apply not-italic;
+}
+h3.blog-filter {
+  @apply mb-0;
+}
+
 /* Notes */
 
 /* Notes photo masonry — CSS columns, FOUC fade preserved. */
