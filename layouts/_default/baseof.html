@@ -1,10 +1,5 @@
 <!doctype html>
-{{- $randomTheme := getenv "HUGO_RANDOM_THEME" -}}
-{{- $theme := cond (ne $randomTheme "") $randomTheme .Site.Params.theme -}}
-<html
-    lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}"
-    class="{{ with $theme }}theme-{{ . }}{{ end }}"
->
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -15,7 +10,7 @@
                 {{ with .Title }}{{ . }} | {{ end }} {{.Site.Title }}
             {{- end }}
         </title>
-        
+
         {{- partial "social_card.html" . -}}
 
         {{- partial "head/seo-meta-description.html" . -}}
@@ -26,21 +21,20 @@
         {{- partialCached "schema/person.html" . -}}
 
         {{- partialCached "head/css.html" . -}}
-        
+
         {{- partialCached "head/javascript.html" . -}}
-        
+
         {{- partial "head/rss.html" . -}}
-        
+
         {{- partialCached "head/security.html" . -}}
-        
+
         {{- partial "head/custom_head.html" . -}}
     </head>
 
-    <body>
-        <header>{{- partialCached "header.html" . -}}</header>
-        <main id="main-content">{{- block "main" . }}{{- end }}</main>
-        <footer>{{- partialCached "footer.html" . -}}</footer>
-
+    <body class="bg-bg-page font-sans text-text-body">
+        <header class="font-sans">{{- partialCached "header.html" . -}}</header>
+        <main id="main-content" class="mx-auto max-w-[800px] px-6">{{- block "main" . }}{{- end }}</main>
+        <footer class="mx-auto max-w-[800px] px-6 mt-16 font-sans" style="border-top: 1px solid var(--color-border-rule);">{{- partialCached "footer.html" . -}}</footer>
         {{- partialCached "custom_body.html" . -}}
     </body>
 </html>

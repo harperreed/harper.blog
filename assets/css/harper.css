@@ -1,21 +1,5 @@
 /* markup */
 
-body {
-    font-family: var(--font-family-base);
-    margin: auto;
-
-    padding-left: var(--padding-body);
-    padding-right: var(--padding-body);
-    padding-bottom: var(--padding-body);
-    max-width: var(--size-width);
-    text-align: left;
-    background-color: var(--color-light);
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    line-height: var(--line-height-base);
-    color: var(--color-dark);
-}
-
 h1,
 h2,
 h3,
@@ -37,48 +21,6 @@ a:hover {
 
 a:visited {
     color: var(--color-link-visited);
-}
-
-.title {
-    /* border: 1px solid; */
-    text-decoration: none;
-    /* margin-bottom: var(--margin-big); */
-    display: flex;
-    align-items: center;
-}
-
-.title h1 {
-    font-size: var(--title-font-size);
-    /* margin: 19.92px 0 19.92px 0; */
-}
-
-.title span {
-    font-weight: 400;
-}
-
-.avatar {
-    margin-right: 10px;
-}
-
-nav {
-    /* border: 1px solid; */
-    padding-bottom: calc(var(--margin-big));
-    /* padding-top: var(--margin); */
-    border-bottom: 1px solid var(--color-tertiary);
-    /* margin-bottom: var(--margin); */
-    margin-bottom: calc(var(--margin));
-}
-
-nav a {
-    margin-right: var(--margin);
-}
-
-nav a:visited {
-    color: var(--color-link);
-}
-
-nav a:hover {
-    color: var(--color-link-hover);
 }
 
 textarea,
@@ -117,11 +59,6 @@ blockquote {
     padding: var(--margin);
     font-style: italic;
     background-color: var(--color-tertiary);
-}
-
-footer {
-    padding: var(--margin);
-    text-align: center;
 }
 
 .helptext {
@@ -170,20 +107,6 @@ h3.blog-filter {
 
 p.byline {
     font-style: italic;
-}
-
-/* "Skip to main content" link */
-.skip-link {
-    position: absolute;
-    top: 5px;
-    transform: translateY(-600%);
-    transition: transform 0.3s;
-    background-color: var(--color-light);
-    padding: 0.5rem;
-}
-
-.skip-link:focus {
-    transform: translateY(0%);
 }
 
 figure {
@@ -265,7 +188,6 @@ ul.now-posts li a:visited {
 }
 
 @media (prefers-reduced-motion: reduce) {
-    .skip-link { transition: none; }
     * { scroll-behavior: auto !important; }
 }
 

@@ -1,8 +1,8 @@
 {{ range .Site.Menus.main.ByWeight }}
-<a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+<a href="{{ .URL | relLangURL }}" class="text-base text-text-muted no-underline hover:text-text-primary transition-colors duration-200">{{ .Name }}</a>
 {{ end }}
 <a href='{{ absURL ("index.xml" | relLangURL) }}'
+    class="text-base text-text-muted no-underline hover:text-text-primary transition-colors duration-200"
     data-tinylytics-event="feed.subscribe"
     data-tinylytics-event-value="main-rss"
-    >{{ i18n "rss" | default "RSS" }}</a
->
+    >{{ i18n "rss" | default "RSS" }}</a>
