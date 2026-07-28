@@ -34,7 +34,7 @@
     <body class="bg-bg-page font-sans text-text-body">
         <header class="font-sans">{{- partialCached "header.html" . -}}</header>
         <main id="main-content" class="mx-auto max-w-[800px] px-6">{{- block "main" . }}{{- end }}</main>
-        <footer class="mx-auto max-w-[800px] px-6 mt-16 font-sans" style="border-top: 1px solid var(--color-border-rule);">{{- partialCached "footer.html" . -}}</footer>
+        <footer class="mx-auto max-w-[800px] px-6 mt-16 font-sans border-t border-border-rule">{{- partialCached "footer.html" . -}}</footer>
         {{- partialCached "custom_body.html" . -}}
     </body>
 </html>

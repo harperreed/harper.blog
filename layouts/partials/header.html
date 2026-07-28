@@ -1,7 +1,6 @@
 <a class="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-50 focus:bg-bg-page focus:text-text-primary focus:px-4 focus:py-2 focus:rounded" href="#main-content" aria-label="Skip to main content">{{ i18n "skip-link" }}</a>
 <nav aria-label="Main Navigation"
-     class="mx-auto flex justify-between items-baseline max-w-[800px] px-6 pt-8 pb-4 sm:pt-12 sm:pb-7"
-     style="border-bottom: 1px solid var(--color-border-rule);">
+     class="mx-auto flex justify-between items-baseline max-w-[800px] px-6 pt-8 pb-4 sm:pt-12 sm:pb-7 border-b border-border-rule">
     <a href="{{ relURL .Site.Home.RelPermalink }}" aria-label="Home"
        class="text-lg font-bold text-text-primary no-underline hover:no-underline">harper.blog</a>
     <div class="flex gap-5">{{- partialCached "nav.html" . -}}</div>

@@ -1,3 +1,21 @@
+/* Self-hosted variable fonts. Declared in the stylesheet (not inline in head)
+   because the site CSP has no style-src 'unsafe-inline'. Paths are static —
+   the resources are published unfingerprinted via head/style.html's preloads. */
+@font-face {
+  font-family: "DM Sans";
+  src: url("/fonts/DMSans-Variable.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Sora";
+  src: url("/fonts/Sora-Variable.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
