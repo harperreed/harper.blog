@@ -46,3 +46,30 @@
   .masonry-item img { transition: none; }
   .masonry-item:hover img { transform: none; }
 }
+
+/* Dated media lists (links, books, music, media) — flex rows, 130px date col. */
+.media-list {
+  @apply list-none p-0 m-0;
+}
+.media-list li {
+  @apply flex items-baseline mb-3;
+}
+.media-list li > span:first-child {
+  @apply flex-none w-[8.125rem] mr-4 text-text-faint tabular-nums text-sm;
+}
+.media-list a {
+  @apply no-underline text-text-primary;
+}
+.media-list a .media-title { @apply underline; }
+.media-list a:hover .media-title { @apply no-underline; }
+.media-domain { @apply text-text-muted no-underline text-sm; }
+.media-filter { @apply text-text-muted italic mb-8; }
+@media (max-width: 640px) {
+  .media-list li { @apply flex-col mb-4; }
+  .media-list li > span:first-child { @apply w-auto mr-0 mb-1; }
+}
+
+/* TEMP aliases until Tasks 6-8 convert these templates: */
+.book-posts { @extend .media-list; }
+.music-posts { @extend .media-list; }
+.media-posts { @extend .media-list; }

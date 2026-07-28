@@ -38,7 +38,6 @@ defaultContentLanguage = "en"
 
 customcss = [
     "/css/harper.css",
-    "/css/shared.css",
     "/css/themes.css",
     "/css/bsky_comments.css",
     "/css/outofdate.css",
@@ -48,7 +47,6 @@ customcss = [
     "/css/media.css",
     "/css/books.css",
     "/css/music.css",
-    "/css/links.css",
     "/css/code.css",
     "/css/translations.css",
 ]

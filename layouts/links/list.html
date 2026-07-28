@@ -1,24 +1,22 @@
 {{ define "main" }}
 <article>
     {{ .Content }} {{ if .Data.Singular }}
-    <h3 class="link-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
+    <h3 class="media-filter">{{ i18n "filtering-for" }} "{{ .Title }}"</h3>
     {{ end }} {{ $pages := .Pages }} {{ if not $pages }}
-    <ul class="link-posts">
+    <ul class="media-list">
         <li>{{ i18n "no-posts" }}</li>
     </ul>
     {{ else }} {{ $paginator := .Paginate $pages 20 }}
-    <ul class="link-posts">
+    <ul class="media-list">
         {{ range $paginator.Pages.GroupByDate "2006-01-02" }} {{ range $index,
         $page := .Pages }} {{ $url := urls.Parse .Params.original_url}}
         <li>
             {{ if eq $index 0 }}
-            <span class="date">
-                <i>
-                    <time datetime='{{ .Date.Format "2006-01-02" }}' >
-                        {{ .Date.Format (default "2006-01-02"
-                        $.Site.Params.dateFormat) }}
-                    </time>
-                </i>
+            <span>
+                <time datetime='{{ .Date.Format "2006-01-02" }}' >
+                    {{ .Date.Format (default "2006-01-02"
+                    $.Site.Params.dateFormat) }}
+                </time>
             </span>
             {{ else }}
             <span></span>
@@ -30,8 +28,8 @@
                 data-tinylytics-event="outbound.link"
                 data-tinylytics-event-value="{{ .Title }}"
             >
-                <span class="link-title">{{ .Title }}</span>
-                <span class="link-domain">({{ $url.Hostname }})</span>
+                <span class="media-title">{{ .Title }}</span>
+                <span class="media-domain">({{ $url.Hostname }})</span>
             </a>
             {{ else }} {{ .Title }} {{ end }}
         </li>
