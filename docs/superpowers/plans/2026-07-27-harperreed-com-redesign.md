@@ -52,7 +52,7 @@
 - Create: `assets/fonts/DMSans-Variable.woff2`, `assets/fonts/Sora-Variable.woff2` (copied from reference repo)
 - Create: `layouts/partials/head/style.html`
 - Modify: `layouts/partials/head/css.html` (append new pipeline include), `.gitignore`
-- Modify: `config/_default/params.toml` (remove dead `"syntax.css"` entry only)
+- Modify: `config/_default/params.toml` (remove `"/css/root-colors.css"` and the dead `"syntax.css"` entry)
 
 **Interfaces:**
 - Produces: `page_content` class (prose treatment), Tailwind utilities incl. `text-text-primary|body|muted|faint`, `bg-bg-page`, `border-rule` color, `font-display`; legacy vars still resolve (shim).
