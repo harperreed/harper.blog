@@ -25,7 +25,7 @@ TLDR: build taste profile, add to prompt, make project in ChatGPT. Use this as p
 
 > You can add this to openclaw, etc. it works for the most part. I find that ChatGPT/Claude is what most people are using and the apps work really well while traveling. 
 > 
-> here is a skill that you can drop into your agent harness and make magic. 
+> here is a skill that you can drop into your agent harness and make magic: [harperreed/travel-agent](https://github.com/harperreed/travel-agent). You shoudl be able to install it in most places with `npx skills add harperreed/travel-agent`
 
 
 ## Your tastes
