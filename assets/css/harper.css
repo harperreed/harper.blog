@@ -188,6 +188,8 @@ h3.blog-filter {
 
 p.byline {
     font-style: italic;
+    font-size: 0.9em;
+    color: var(--color-muted);
 }
 
 /* "Skip to main content" link */
