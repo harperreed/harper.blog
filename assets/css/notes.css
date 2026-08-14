@@ -59,7 +59,7 @@
    square thumbs. The individual note page keeps the big breakout grid. */
 .notes .note-images:has(img:nth-child(2)) {
     margin-inline: 0;
-    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    grid-template-columns: repeat(3, 1fr);
     gap: 0.5rem;
 }
 
