@@ -14,9 +14,22 @@
 
 .note-images img {
     display: block;
+    box-sizing: border-box;
     margin-inline: auto;
     max-width: 100%;
     height: auto;
+    padding: var(--margin);
+    background-color: white;
+    border: 1px solid var(--color-tertiary);
+    border-radius: var(--border-radius-base);
     margin-block-end: var(--margin);
-    border-radius: var(--border-radius-sm);
+}
+
+/* Media query for mobile devices */
+@media screen and (max-width: 768px) {
+    .note-images img {
+        padding: 0px; /* Smaller padding on mobile */
+        border-radius: var(--border-radius-sm);
+        border: 1px solid var(--color-primary);
+    }
 }

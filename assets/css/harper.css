@@ -212,10 +212,22 @@ figure {
 
 figure img {
     display: block;
+    box-sizing: border-box;
     margin-inline: auto;
     max-width: 100%;
     height: auto;
-    border-radius: var(--border-radius-sm);
+    padding: var(--margin);
+    background-color: white;
+    border: 1px solid var(--color-tertiary);
+    border-radius: var(--border-radius-base);
+}
+
+@media screen and (max-width: 768px) {
+    figure img {
+        padding: 0px; /* Smaller padding on mobile */
+        border-radius: var(--border-radius-sm);
+        border: 1px solid var(--color-primary);
+    }
 }
 
 figcaption,
