@@ -1,0 +1,29 @@
+/* ABOUTME: Styles for the /photos grid (layouts/photos/list.html). */
+/* ABOUTME: Lives in the customcss bundle because Netlify CSP blocks inline styles. */
+
+/* Break the grid out of the 720px column, mirroring figure/note images */
+.photo-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1rem;
+    width: min(1000px, calc(100vw - 2 * var(--padding-body)));
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+.photo-item img {
+    width: 100%;
+    aspect-ratio: 1;
+    height: auto;
+    object-fit: cover;
+    border-radius: var(--border-radius-sm);
+}
+
+.photo-meta {
+    padding: 0.5rem 0;
+}
+
+.photo-meta time {
+    font-size: 0.9em;
+    color: var(--color-muted);
+}
