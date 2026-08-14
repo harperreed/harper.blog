@@ -26,7 +26,7 @@
     --title-font-size: 24px;
 
     /* Typography */
-    --font-family-base: Charter, "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+    --font-family-base: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     --font-size-base: 1.125rem;
     --line-height-base: 1.6;
 
