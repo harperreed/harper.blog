@@ -6,9 +6,7 @@
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: 1rem;
-    width: min(1000px, calc(100vw - 2 * var(--padding-body)));
-    margin-left: 50%;
-    transform: translateX(-50%);
+    margin-inline: var(--breakout-margin);
 }
 
 .photo-item img {

@@ -6,13 +6,17 @@
     margin: 2rem 0;
 }
 
-/* Break out of the 720px column up to 1000px; never upscale past intrinsic width */
+/* Break out of the 720px column up to 1000px via container margins;
+   transforms move paint but not layout boxes and cause horizontal scroll */
+.note-images {
+    margin-inline: var(--breakout-margin);
+}
+
 .note-images img {
     display: block;
-    max-width: min(1000px, calc(100vw - 2 * var(--padding-body)));
+    margin-inline: auto;
+    max-width: 100%;
     height: auto;
-    margin-left: 50%;
-    transform: translateX(-50%);
     margin-block-end: var(--margin);
     border-radius: var(--border-radius-sm);
 }

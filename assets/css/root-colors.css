@@ -20,6 +20,9 @@
     --padding-body: calc(var(--size) * 1.25);
     --spacing: calc(var(--size) * 2.4);
     --size-width: 720px;
+    /* Negative side margin that widens a block from the column to at most
+       1000px, never past the viewport padding; 0 on narrow screens */
+    --breakout-margin: min(0px, calc((var(--size-width) - min(1000px, 100vw - 2 * var(--padding-body))) / 2));
     --title-font-size: 24px;
 
     /* Typography */
