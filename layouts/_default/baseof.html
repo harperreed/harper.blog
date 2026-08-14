@@ -39,7 +39,7 @@
     <body>
         <header>{{- partialCached "header.html" . -}}</header>
         <main id="main-content">{{- block "main" . }}{{- end }}</main>
-        <footer>{{- partialCached "footer.html" . -}}</footer>
+        <footer>{{- partialCached "footer.html" . ((.GitInfo | default dict).AbbreviatedHash | default "nogit") -}}</footer>
 
         {{- partialCached "custom_body.html" . -}}
     </body>
