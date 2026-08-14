@@ -35,35 +35,32 @@
 }
 
 /* Notes with 2+ photos: 2-up grid of uniform crops instead of stacked heroes.
+   Count direct children — bare imgs on the note page, linked imgs in the feed.
    Without :has() support this falls back to the stacked layout. */
-.note-images:has(img:nth-child(2)) {
+.note-images:has(> :nth-child(2)) {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 1rem;
 }
 
-.note-images:has(img:nth-child(2)) img {
+.note-images:has(> :nth-child(2)) img {
     width: 100%;
     aspect-ratio: 1;
     object-fit: cover;
     margin-block-end: 0;
 }
 
-/* Odd photo counts lead with a full-width 3:2 crop, pairs below */
-.note-images:has(img:nth-child(2)) img:first-child:nth-last-child(odd) {
+/* Odd photo counts lead with a full-width 3:2 crop, pairs below; the child
+   combinator keeps this off the feed's anchor-wrapped thumbs */
+.note-images:has(> :nth-child(2)) > img:first-child:nth-last-child(odd) {
     grid-column: span 2;
     aspect-ratio: 3 / 2;
 }
 
 /* Notes feed: multi-photo notes stay compact — an in-column grid of small
    square thumbs. The individual note page keeps the big breakout grid. */
-.notes .note-images:has(img:nth-child(2)) {
+.notes .note-images:has(> :nth-child(2)) {
     margin-inline: 0;
     grid-template-columns: repeat(3, 1fr);
     gap: 0.5rem;
-}
-
-.notes .note-images:has(img:nth-child(2)) img:first-child:nth-last-child(odd) {
-    grid-column: auto;
-    aspect-ratio: 1;
 }

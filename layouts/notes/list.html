@@ -20,17 +20,20 @@
             {{ if .Params.text }} {{ .Params.text | markdownify }} {{ else }} {{
             .Content }} 
             {{ end }} 
+            {{ $noteLink := .RelPermalink }}
             {{ with .Resources.ByType "image" }}
             <div class="note-images">
-                {{ range . }} 
+                {{ range . }}
                 {{ $thumbnail := .Resize "600x" }}
-                <img
-                    src="{{ $thumbnail.RelPermalink }}"
-                    alt="{{ .Title }}"
-                    loading="lazy"
-                    width="{{ $thumbnail.Width }}"
-                    height="{{ $thumbnail.Height }}"
-                />
+                <a href="{{ $noteLink }}">
+                    <img
+                        src="{{ $thumbnail.RelPermalink }}"
+                        alt="{{ .Title }}"
+                        loading="lazy"
+                        width="{{ $thumbnail.Width }}"
+                        height="{{ $thumbnail.Height }}"
+                    />
+                </a>
                 {{ end }}
             </div>
             {{ end }}
