@@ -22,9 +22,9 @@
     --title-font-size: 24px;
 
     /* Typography */
-    --font-family-base: Verdana, sans-serif;
-    --font-size-base: 1rem;
-    --line-height-base: 1.5;
+    --font-family-base: Charter, "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+    --font-size-base: 1.125rem;
+    --line-height-base: 1.6;
 
     /* Borders */
     --border-radius-sm: 3px;

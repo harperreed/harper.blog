@@ -2,6 +2,7 @@
 
 body {
     font-family: var(--font-family-base);
+    font-size: var(--font-size-base);
     margin: auto;
 
     padding-left: var(--padding-body);
