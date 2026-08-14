@@ -1,6 +1,6 @@
 baseURL = "https://harper.blog/"
 publishDir = "public"
-languageCode = "en-us"
+locale = "en-us"
 title = "Harper Reed's Blog"
 canonifyURLs = true
 enableRobotsTXT = true

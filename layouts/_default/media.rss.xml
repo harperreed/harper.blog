@@ -26,7 +26,7 @@
     <link>{{ .Permalink }}</link>
     <description>Recent media activity including books, music, and links from {{ .Site.Title }}</description>
     <generator>Hugo -- gohugo.io</generator>
-    {{ with .Site.LanguageCode }}<language>{{.}}</language>{{end}}
+    {{ with .Site.Language.Locale }}<language>{{.}}</language>{{end}}
     {{ with .Site.Params.author.email }}<managingEditor>{{.}}{{ with $.Site.Params.author.name }} ({{.}}){{end}}</managingEditor>{{end}}
     {{ with .Site.Params.author.email }}<webMaster>{{.}}{{ with $.Site.Params.author.name }} ({{.}}){{end}}</webMaster>{{end}}
     {{ if not .Date.IsZero }}<lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}

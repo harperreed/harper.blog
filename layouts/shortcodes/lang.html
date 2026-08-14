@@ -1,10 +1,10 @@
 {{/* layouts/shortcodes/lang.html */}}
 <div class="available-languages">
   {{ $languages := slice }}
-  {{ range .Site.Languages }}
-    {{ if ne .Lang $.Site.Language.Lang }}
-      {{ $url := printf "/%s/" .Lang }}
-      {{ $languages = $languages | append (dict "url" $url "lang" .Lang "name" .LanguageName) }}
+  {{ range hugo.Sites }}
+    {{ if ne .Language.Lang $.Site.Language.Lang }}
+      {{ $url := printf "/%s/" .Language.Lang }}
+      {{ $languages = $languages | append (dict "url" $url "lang" .Language.Lang "name" .Language.Label) }}
     {{ end }}
   {{ end }}
   
@@ -20,7 +20,7 @@
     {{ end }}
   {{ else }}
     <span class="single-language">
-      {{ i18n "current-language" | default "Language" }}: {{ .Site.Language.LanguageName }}
+      {{ i18n "current-language" | default "Language" }}: {{ .Site.Language.Label }}
     </span>
   {{ end }}
 </div>

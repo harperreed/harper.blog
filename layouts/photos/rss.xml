@@ -10,7 +10,7 @@
     <link>{{ .Site.BaseURL }}photos/</link>
     <description>Photo posts and snapshots from {{ .Site.Title }}</description>
     <generator>Hugo -- gohugo.io</generator>
-    {{ with .Site.LanguageCode }}<language>{{ . }}</language>{{ end }}
+    {{ with .Site.Language.Locale }}<language>{{ . }}</language>{{ end }}
     {{ with .Site.Params.author.email }}<managingEditor>{{ . }}{{ with $.Site.Params.author.name }} ({{ . }}){{ end }}</managingEditor>{{ end }}
     {{ with .Site.Params.author.email }}<webMaster>{{ . }}{{ with $.Site.Params.author.name }} ({{ . }}){{ end }}</webMaster>{{ end }}
     {{ with .Site.Copyright }}<copyright>{{ . }}</copyright>{{ end }}
