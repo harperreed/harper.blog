@@ -3,6 +3,10 @@
 [goldmark.renderer]
 unsafe = true
 
+# Standalone images render unwrapped so the image render hook can emit <figure>
+[goldmark.parser]
+wrapStandAloneImageWithinParagraph = false
+
 [highlight]
 style = 'monokai' # see https://xyproto.github.io/splash/docs/all.html
 

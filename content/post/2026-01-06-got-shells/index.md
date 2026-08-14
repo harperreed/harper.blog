@@ -49,9 +49,11 @@ One of my core values is: _I want to just ssh into shit_. That is kind of one of
 When it came to figuring out how to use Claude Code on my phone, the obvious answer was: **ssh into my computer from my phone, and run claude**. Turns out this is pretty straight forward.
 
 My workstation:
+
 ![](terminal2.png)
 
 My phone:
+
 ![](terminal3.png)
 
 Let’s break it down.
