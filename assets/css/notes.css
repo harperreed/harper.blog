@@ -33,3 +33,24 @@
         border: 1px solid var(--color-primary);
     }
 }
+
+/* Notes with 2+ photos: 2-up grid of uniform crops instead of stacked heroes.
+   Without :has() support this falls back to the stacked layout. */
+.note-images:has(img:nth-child(2)) {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+
+.note-images:has(img:nth-child(2)) img {
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    margin-block-end: 0;
+}
+
+/* Odd photo counts lead with a full-width 3:2 crop, pairs below */
+.note-images:has(img:nth-child(2)) img:first-child:nth-last-child(odd) {
+    grid-column: span 2;
+    aspect-ratio: 3 / 2;
+}
