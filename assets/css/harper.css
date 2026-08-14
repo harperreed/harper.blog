@@ -209,24 +209,14 @@ figure {
     margin-inline-end: 0em;
 }
 
+/* Break out of the 720px column up to 1000px; never upscale past intrinsic width */
 figure img {
-    max-width: 100%;
+    display: block;
+    max-width: min(1000px, calc(100vw - 2 * var(--padding-body)));
     height: auto;
-    object-fit: cover;
-    padding: var(--margin);
-    background-color: white;
-    border: 1px solid var(--color-tertiary);
-    border-radius: var(--border-radius-base);
-}
-
-@media screen and (max-width: 768px) {
-    figure img {
-        padding: 0px; /* Smaller padding on mobile */
-        border-radius: var(
-            --border-radius-sm
-        ); /* Slightly smaller border-radius */
-        border: 1px solid var(--color-primary);
-    }
+    margin-left: 50%;
+    transform: translateX(-50%);
+    border-radius: var(--border-radius-sm);
 }
 
 figcaption,
