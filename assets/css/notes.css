@@ -64,3 +64,23 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 0.5rem;
 }
+
+/* Home page: one small line of recent note photos, each linking to its note */
+.note-photo-strip {
+    display: flex;
+    gap: 6px;
+    overflow-x: auto;
+    margin-block-end: var(--margin);
+}
+
+.note-photo-strip a {
+    flex: 0 0 auto;
+}
+
+.note-photo-strip img {
+    display: block;
+    width: 72px;
+    height: 72px;
+    object-fit: cover;
+    border-radius: var(--border-radius-sm);
+}
