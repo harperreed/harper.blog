@@ -54,3 +54,16 @@
     grid-column: span 2;
     aspect-ratio: 3 / 2;
 }
+
+/* Notes feed: multi-photo notes stay compact — an in-column grid of small
+   square thumbs. The individual note page keeps the big breakout grid. */
+.notes .note-images:has(img:nth-child(2)) {
+    margin-inline: 0;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 0.5rem;
+}
+
+.notes .note-images:has(img:nth-child(2)) img:first-child:nth-last-child(odd) {
+    grid-column: auto;
+    aspect-ratio: 1;
+}
