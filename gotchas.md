@@ -8,7 +8,7 @@ Hard-won facts about working on harper.blog. Add yours; keep entries short.
 - Production deploys run `./scripts/build_with_random_theme.sh` — every deploy gets a random theme from `themes.css`. Visual changes must survive all themes, and the first deploy after a CSS change is worth a look.
 - Two hugo binaries exist: `.mise.toml` pins the real one; `/opt/homebrew/bin/hugo` drifts. If a build error names an API that greps clean, check `hugo version` first.
 - Never run a one-shot `hugo` build in the checkout while `hugo serve` is running — the server serves `public/` from disk, and the build poisons it and silently kills the watcher. Use `hugo --destination /tmp/hugo-verify` or stop the server. Recovery: kill server, `rm -rf public`, relaunch.
-- Build output is nondeterministic (unkeyed `partialCached` on footer/out_of_date, RSS `lastBuildDate` from `now`). Normalize before diffing two builds.
+- Build output is still slightly nondeterministic: photos RSS stamps `lastBuildDate` from `now`, and hugo silently drops GitInfo if git is locked mid-build. (Footer and out_of_date `partialCached` calls are now keyed properly.) Normalize before diffing two builds.
 
 ## Design decisions (settled — don't re-litigate)
 
@@ -24,4 +24,5 @@ Hard-won facts about working on harper.blog. Add yours; keep entries short.
 
 ## Content
 
-- WordPress import left 21 duplicate `content/post/*-2.md` files; two pairs collide on permalinks. Deleting them is Harper's call.
+- The `content/post/*-2.md` files are mostly NOT duplicates. Of the original 21, only 3 were true same-date twins (deleted); the other 18 are real posts — titles reused years apart, or sole copies. Filename `-2` ≠ duplicate; check content before deleting.
+- Permalinks are `/:year/:month/:day/:slug/` and `:slug` falls back to the title — two posts with the same title on the same date silently fight over one URL.
