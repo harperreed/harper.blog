@@ -35,24 +35,6 @@
 {{ $notes := first 5 (where .Site.RegularPages "Section" "notes") }}
 {{ if $notes }}
 <h2>{{ i18n "notes" | default "Notes" }}</h2>
-{{ $stripPhotos := slice }}
-{{ range where .Site.RegularPages "Section" "notes" }}
-    {{ $note := . }}
-    {{ range first 2 (.Resources.ByType "image") }}
-        {{ if lt (len $stripPhotos) 8 }}
-            {{ $stripPhotos = $stripPhotos | append (dict "img" . "note" $note) }}
-        {{ end }}
-    {{ end }}
-{{ end }}
-{{ with $stripPhotos }}
-<div class="note-photo-strip" aria-label="{{ i18n "recent-note-photos" | default "Recent photos from notes" }}">
-    {{ range . }}
-    <a href="{{ .note.RelPermalink }}">
-        <img src="{{ (.img.Fill "144x144 smart").RelPermalink }}" alt="{{ .img.Title }}" loading="lazy" width="144" height="144" />
-    </a>
-    {{ end }}
-</div>
-{{ end }}
 <ul class="blog-posts" aria-label="List of recent notes">
     
     {{ range $notes }}
@@ -65,9 +47,21 @@
                 </time>
             </i>
         </span>
-        <a href="{{ .RelPermalink }}" aria-label="Note: {{ .Description | default .Title }}">
-            {{ .Description | default .Title | truncate 120}}
-        </a>
+        <div>
+            <a href="{{ .RelPermalink }}" aria-label="Note: {{ .Description | default .Title }}">
+                {{ .Description | default .Title | truncate 120}}
+            </a>
+            {{ $noteLink := .RelPermalink }}
+            {{ with .Resources.ByType "image" }}
+            <div class="note-photo-strip">
+                {{ range . }}
+                <a href="{{ $noteLink }}">
+                    <img src="{{ (.Fill "144x144 smart").RelPermalink }}" alt="{{ .Title }}" loading="lazy" width="144" height="144" />
+                </a>
+                {{ end }}
+            </div>
+            {{ end }}
+        </div>
     </li>
     {{ else }}
     <li>{{ i18n "no-notes" | default "No notes yet." }}</li>

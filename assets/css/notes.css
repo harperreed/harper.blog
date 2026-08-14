@@ -65,12 +65,18 @@
     gap: 0.5rem;
 }
 
-/* Home page: one small line of recent note photos, each linking to its note */
+/* Home page notes list: the text-and-photos column beside the date */
+ul.blog-posts li > div {
+    flex: 1;
+    min-width: 0;
+}
+
+/* One small scrollable line of a note's photos, each linking to the note */
 .note-photo-strip {
     display: flex;
     gap: 6px;
     overflow-x: auto;
-    margin-block-end: var(--margin);
+    margin-block-start: 6px;
 }
 
 .note-photo-strip a {
