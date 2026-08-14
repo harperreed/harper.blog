@@ -1,6 +1,4 @@
 ---
-aliases:
-    - /media/books/
 layout: books-grid
 nofeed: true
 title: Books

@@ -2,7 +2,7 @@
 {{/* ABOUTME: Tells search engines about all language versions of the page. */}}
 
 {{/* Self-referencing hreflang for current page */}}
-<link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}" />
+<link rel="alternate" hreflang="{{ .Language.Locale }}" href="{{ .Permalink }}" />
 
 {{/* x-default points to English version */}}
 {{ if eq .Language.Lang "en" }}
@@ -19,6 +19,6 @@
 {{/* All translations */}}
 {{ range .AllTranslations }}
   {{ if ne .Language.Lang $.Language.Lang }}
-<link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}" />
+<link rel="alternate" hreflang="{{ .Language.Locale }}" href="{{ .Permalink }}" />
   {{ end }}
 {{ end }}

@@ -49,8 +49,8 @@
         <a href="{{ $translation.RelPermalink }}" 
            hreflang="{{ $translation.Language.Lang }}"
            class="translation-link"
-           title="{{ i18n "read-in-language" $translation.Language.LanguageName | default (printf "Read this post in %s" $translation.Language.LanguageName) }}">
-          {{ $translation.Language.LanguageName }}
+           title="{{ i18n "read-in-language" $translation.Language.Label | default (printf "Read this post in %s" $translation.Language.Label) }}">
+          {{ $translation.Language.Label }}
         </a>
         {{- if lt $i (sub (len $translations) 1) }}, {{ end -}}
       {{ end }}

@@ -46,7 +46,7 @@
         on {{ $baseurl := urls.Parse .Site.BaseURL }}{{ $baseurl.Host }}
     </description>
     <generator>Hugo -- gohugo.io</generator>
-    {{ with .Site.LanguageCode }}
+    {{ with .Site.Language.Locale }}
     <language>{{.}}</language>{{end}}
     {{ with .Site.Params.author.email }}
     <managingEditor>{{.}}{{ with $.Site.Params.author.name }} ({{.}}){{end}}</managingEditor>
