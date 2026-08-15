@@ -40,11 +40,11 @@
                 <em>{{ i18n "also-read" }}</em>
                 <a href="{{ $relatedPage.RelPermalink }}">{{ $relatedPage.Title }}</a>
             {{ else if $relatedPage.Date.Before $currentDate }}
-                <em>{{ i18n "previously-read-in" ($relatedPage.Date.Format "January 2006") }}</em>
-                <a href="{{ $relatedPage.RelPermalink }}">{{ $relatedPage.Date.Format "January 2, 2006" }}</a>
+                <em>{{ i18n "previously-read-in" (time.Format "January 2006" $relatedPage.Date) }}</em>
+                <a href="{{ $relatedPage.RelPermalink }}">{{ time.Format ":date_long" $relatedPage.Date }}</a>
             {{ else }}
-                <em>{{ i18n "reread-in" ($relatedPage.Date.Format "January 2006") }}</em>
-                <a href="{{ $relatedPage.RelPermalink }}">{{ $relatedPage.Date.Format "January 2, 2006" }}</a>
+                <em>{{ i18n "reread-in" (time.Format "January 2006" $relatedPage.Date) }}</em>
+                <a href="{{ $relatedPage.RelPermalink }}">{{ time.Format ":date_long" $relatedPage.Date }}</a>
             {{ end }}
             <br>
         {{ end }}
