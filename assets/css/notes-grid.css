@@ -1,84 +1,49 @@
-/* Masonry Columns Container */
-.masonry-columns {
-    column-count: 3;
-    column-gap: 16px;
-    column-fill: balance;
-    width: 100%;
-    margin: 0 auto;
-    padding: 0;
+/* ABOUTME: Justified photo wall for /notes/snapshots/ (layouts/notes/notes-grid.html). */
+/* ABOUTME: Flex rows preserve aspect ratios and read row-major, so newest photos stay on top. */
+
+.snap-wall {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-block-start: var(--margin-big);
+    margin-inline: var(--breakout-margin);
 }
 
-/* Responsive columns */
-@media (max-width: 1200px) {
-    .masonry-columns {
-        column-count: 2;
-    }
+/* Items start at their photo's natural width for the row height, then grow to
+   justify the row; the max-width keeps a sparse last row from stretching one
+   photo absurdly wide. */
+.snap-wall > a {
+    flex-grow: 1;
+    height: 240px;
+    max-width: 480px;
+}
+
+/* width:auto seeds the flex item's intrinsic width from the photo's aspect
+   ratio at row height — a percentage width here is a "cyclic percentage" whose
+   intrinsic resolution differs across engines. The min/max clamps only apply
+   after layout, making the image fill whatever the item grew (or capped) to. */
+.snap-wall img {
+    width: auto;
+    min-width: 100%;
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    border-radius: var(--border-radius-sm);
 }
 
 @media (max-width: 768px) {
-    .masonry-columns {
-        column-count: 1;
+    .snap-wall > a {
+        height: 150px;
+        max-width: 300px;
     }
 }
 
-/* Masonry Items */
-.masonry-item {
-    break-inside: avoid;
-    margin-bottom: 16px;
-    page-break-inside: avoid;
-    -webkit-column-break-inside: avoid;
-    position: relative;
-    display: block;
-    will-change: transform;
-    transform: translateZ(0);
-}
-
-/* Image Styling */
-.masonry-item img {
-    width: 100%;
-    height: auto;
-    border-radius: 2px;
-    object-fit: cover;
-    display: block;
-    backface-visibility: hidden;
-    -webkit-backface-visibility: hidden;
-    transition: transform 0.3s ease;
-    will-change: transform;
-}
-
-/* Hover effect */
-.masonry-item:hover img {
-    transform: scale(1.02);
-}
-
-/* Fix for Firefox */
-@-moz-document url-prefix() {
-    .masonry-item {
-        display: inline-block;
-        width: 100%;
+@media (prefers-reduced-motion: no-preference) {
+    .snap-wall img {
+        transition: opacity 0.15s ease;
     }
-}
-
-/* Fix for Safari */
-@supports (-webkit-overflow-scrolling: touch) {
-    .masonry-item {
-        -webkit-transform: translate3d(0, 0, 0);
+    .snap-wall > a:hover img {
+        opacity: 0.85;
     }
-}
-
-/* Prevent FOUC */
-.masonry-columns {
-    opacity: 0;
-    animation: fadeIn 0.3s ease forwards;
-}
-
-@keyframes fadeIn {
-    to {
-        opacity: 1;
-    }
-}
-
-@media (prefers-reduced-motion: reduce) {
-    .notes-masonry-item { animation: none; transition: none; }
-    .notes-masonry-item:hover { transform: none; }
 }
