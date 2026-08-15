@@ -1,0 +1,46 @@
+{{- /* ABOUTME: Date-grouped media list shared by /media/ and the books/music/links sections. */}}
+{{- /* ABOUTME: Rows link to the thing itself (Amazon/Spotify/source URL), falling back to the local page. */}}
+<ul class="media-posts">
+    {{- range .GroupByDate "2006-01-02" }}
+    {{- range $index, $page := .Pages }}
+    <li>
+        {{- if eq $index 0 }}
+        <span class="date"><i><time datetime='{{ .Date.Format "2006-01-02" }}'>{{ .Date.Format (default "2006-01-02" site.Params.dateFormat) }}</time></i></span>
+        {{- else }}
+        <span></span>
+        {{- end }}
+        {{- $href := .RelPermalink }}
+        {{- $event := "" }}
+        {{- $context := "" }}
+        {{- $class := "" }}
+        {{- if eq .Section "links" }}
+            {{- $class = "media-link" }}
+            {{- with .Params.original_url }}
+                {{- $href = . }}
+                {{- $event = "outbound.link" }}
+                {{- $context = (urls.Parse .).Hostname }}
+            {{- end }}
+        {{- else if eq .Section "music" }}
+            {{- $class = "media-music" }}
+            {{- with .Params.artist }}{{ $context = printf "by %s" . }}{{ end }}
+            {{- with .Params.spotify_url }}
+                {{- $href = . }}
+                {{- $event = "outbound.spotify" }}
+            {{- end }}
+        {{- else if eq .Section "books" }}
+            {{- $class = "media-book" }}
+            {{- with or .Params.book_author .Params.author }}{{ $context = printf "by %s" . }}{{ end }}
+            {{- with .Params.asin }}
+                {{- $href = printf "https://www.amazon.com/dp/%s?tag=%s" (urlquery .) (urlquery site.Params.amazon_tag) }}
+                {{- $event = "outbound.amazon" }}
+            {{- end }}
+        {{- end }}
+        <a href="{{ $href }}" class="{{ $class }}"
+            {{- if $event }} target="_blank" rel="noopener noreferrer" data-tinylytics-event="{{ $event }}" data-tinylytics-event-value="{{ .Title }}"{{ end }}>
+            <span class="media-title">{{ .Title }}</span>
+            {{- with $context }} <span class="media-domain">({{ . }})</span>{{ end }}
+        </a>
+    </li>
+    {{- end }}
+    {{- end }}
+</ul>
