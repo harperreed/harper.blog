@@ -2,7 +2,8 @@
 {{- /* ABOUTME: Covers lazy-load from Amazon by ASIN; books without one get a placeholder card. */}}
 {{ define "main" }}
 {{ .Content }}
-{{- $books := where site.RegularPages "Section" "books" }}
+{{- /* Books live on the default (en) site only */}}
+{{- $books := where hugo.Sites.Default.RegularPages "Section" "books" }}
 {{- $books = where $books "Params.nofeed" "ne" true }}
 {{- range $books.GroupByDate "2006" }}
 <section class="year-section">

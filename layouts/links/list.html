@@ -2,7 +2,9 @@
 {{ define "main" }}
 <article>
     {{ .Content }}
-    {{ $paginator := .Paginate (where .Pages "Params.nofeed" "ne" true) 20 }}
+    {{/* Links live on the default (en) site only; .Pages would be empty on translated sites */}}
+    {{ $pages := where hugo.Sites.Default.RegularPages "Section" .Section }}
+    {{ $paginator := .Paginate (where $pages "Params.nofeed" "ne" true) 20 }}
     {{ partial "media-list.html" $paginator.Pages }}
     {{ partial "pagination.html" . }}
 </article>

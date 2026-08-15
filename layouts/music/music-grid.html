@@ -2,7 +2,8 @@
 {{- /* ABOUTME: Art lazy-loads from each track's album_image; tracks without one get a placeholder card. */}}
 {{ define "main" }}
 {{ .Content }}
-{{- $music := where site.RegularPages "Section" "music" }}
+{{- /* Music lives on the default (en) site only */}}
+{{- $music := where hugo.Sites.Default.RegularPages "Section" "music" }}
 {{- $music = where $music "Params.nofeed" "ne" true }}
 {{- range $music.GroupByDate "2006" }}
 <section class="year-section">
