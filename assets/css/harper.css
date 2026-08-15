@@ -233,6 +233,13 @@ figure img {
     border-radius: var(--border-radius-base);
 }
 
+/* Videos re-center in the breakout box like images, but skip the photo frame */
+figure video {
+    display: block;
+    margin-inline: auto;
+    max-width: 100%;
+}
+
 @media screen and (max-width: 768px) {
     figure img {
         padding: 0px; /* Smaller padding on mobile */
