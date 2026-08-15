@@ -27,7 +27,7 @@ Hard-won facts about working on harper.blog. Add yours; keep entries short.
 
 ## Multilingual
 
-- `site.RegularPages` is language-scoped. Books/music/links exist only on the en site (translations are `_index.<lang>.md` suffix files), so on /es/ pages it returns nothing and lists/stats render empty. For cross-language data use `hugo.Sites.Default.RegularPages` — and it's `hugo.Sites`, not `site.Sites` (deprecated since hugo 0.156, WARNs in the server log). The es media list pages still iterate `.Pages` and show empty item lists — pre-existing.
+- `site.RegularPages` is language-scoped: on an /es/ page it returns only Spanish pages. Books/music/links exist only on the en site (translations are `_index.<lang>.md` suffix files), so filtering it by those sections comes back empty there and lists/stats render blank. For cross-language data use `hugo.Sites.Default.RegularPages` — and it's `hugo.Sites`, not `site.Sites` (deprecated since hugo 0.156, WARNs in the server log). The es media list pages still iterate `.Pages` and show empty item lists — pre-existing.
 
 ## Content
 
