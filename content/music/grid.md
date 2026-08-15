@@ -1,6 +1,4 @@
 ---
-aliases:
-- /media/music/
 layout: music-grid
 nofeed: true
 title: Songs

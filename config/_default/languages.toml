@@ -1,7 +1,7 @@
 [en]
 title = "Harper Reed's Blog"
-languageName = "English 🇺🇸"
-languageCode = "en-US"
+label = "English 🇺🇸"
+locale = "en-US"
 contentDir = "content"
 weight = 1
 
@@ -11,8 +11,8 @@ subtitle = "Musing from a normal person doing normal things"
 
 [ja]
 title = "ハーパー・リードのブログ"
-languageName = "日本語 🇯🇵"
-languageCode = "ja"
+label = "日本語 🇯🇵"
+locale = "ja"
 weight = 2
 
 [ja.params]
@@ -21,8 +21,8 @@ subtitle = "普通の人が普通のことを考える随想"
 
 [es]
 title = "Blog de Harper Reed"
-languageName = "Español 🇪🇸"
-languageCode = "es"
+label = "Español 🇪🇸"
+locale = "es"
 weight = 3
 
 [es.params]
@@ -32,8 +32,8 @@ subtitle = "Reflexiones de una persona normal haciendo cosas normales"
 
 [ko]
 title = "하퍼 리드의 블로그"
-languageName = "한국어 🇰🇷"
-languageCode = "ko"
+label = "한국어 🇰🇷"
+locale = "ko"
 weight = 4
 
 [ko.params]
@@ -42,8 +42,8 @@ subtitle = "평범한 사람이 평범한 일을 하며 남기는 생각들"
 
 [zh]
 title = "哈珀·雷德的博客"
-languageName = "中文 🇨🇳"
-languageCode = "zh-CN"
+label = "中文 🇨🇳"
+locale = "zh-CN"
 weight = 5
 
 [zh.params]
@@ -52,8 +52,8 @@ subtitle = "一个普通人做普通事情时的思考"
 
 # [it]
 # title = "Harper Reed's Blog"
-# languageName = "Italiano 🇮🇹"
-# languageCode = "it"
+# label = "Italiano 🇮🇹"
+# locale = "it"
 # contentDir = "content"
 # weight = 7
 
@@ -63,8 +63,8 @@ subtitle = "一个普通人做普通事情时的思考"
 
 # [fr]
 # title = "Blog de Harper Reed"
-# languageName = "Français 🇫🇷"
-# languageCode = "fr"
+# label = "Français 🇫🇷"
+# locale = "fr"
 # contentDir = "content"
 # weight = 8
 
@@ -74,8 +74,8 @@ subtitle = "一个普通人做普通事情时的思考"
 
 # [de]
 # title = "Harper Reed's Blog"
-# languageName = "Deutsch 🇩🇪"
-# languageCode = "de"
+# label = "Deutsch 🇩🇪"
+# locale = "de"
 # contentDir = "content"
 # weight = 9
 
@@ -85,8 +85,8 @@ subtitle = "一个普通人做普通事情时的思考"
 
 [id]
 title = "Harper Reed's Blog"
-languageName = "Indonesia 🇮🇩"
-languageCode = "id"
+label = "Indonesia 🇮🇩"
+locale = "id"
 contentDir = "content"
 weight = 10
 
