@@ -303,6 +303,7 @@ ul.now-posts li a:visited {
 
 @media (prefers-reduced-motion: reduce) {
     .skip-link { transition: none; }
+    a { transition: none; }
     * { scroll-behavior: auto !important; }
 }
 

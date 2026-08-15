@@ -1,74 +1,62 @@
-.media-link::before {
-    content: "🔗 ";
-    color: var(--color-secondary);
-    text-decoration: none;
-    speak: none;
-}
+/* ABOUTME: Media section lists (/media/ and books/music/links): date-grouped rows with type markers. */
+/* ABOUTME: Markup comes from layouts/partials/media-list.html; grid pages style themselves in books.css/music.css. */
 
+/* The "/ ''" alt text keeps screen readers from announcing the emoji */
 .media-book::before {
-    content: "📚 ";
-    color: var(--color-secondary);
-    text-decoration: none;
-    speak: none;
+    content: "📚 " / "";
 }
 
 .media-music::before {
-    content: "🎵 ";
-    color: var(--color-secondary);
-    text-decoration: none;
-    speak: none;
+    content: "🎵 " / "";
 }
 
-.media-link-posts {
+.media-link::before {
+    content: "🔗 " / "";
+}
+
+.media-posts {
     list-style: none;
     padding: 0;
     margin: 0;
 }
 
-.media-link-posts li {
+.media-posts li {
     display: flex;
     align-items: baseline;
     margin-bottom: 0.7em;
 }
 
-.media-link-posts span {
+/* Date cell; an empty span keeps rows without a date aligned */
+.media-posts li > span {
     flex: 0 0 130px;
     margin-right: 1em;
 }
 
-.media-link-filter {
-    color: var(--color-secondary);
-    font-size: 1.1em;
-    margin-bottom: 2em;
-}
-
-.media-link-domain {
-    color: var(--color-dark);
-    transition: color 0.3s ease;
+.media-posts a {
     text-decoration: none;
 }
 
-.media-link-posts a {
-    text-decoration: none;
-}
-
-.media-link-posts a .media-link-title {
+.media-posts a .media-title {
     text-decoration: underline;
 }
 
+.media-posts .media-domain {
+    color: var(--color-muted);
+}
+
 @media (max-width: 600px) {
-    .media-link-posts li {
+    .media-posts li {
         flex-direction: column;
         margin-bottom: 1em;
     }
 
-    .media-link-posts span {
+    .media-posts li > span {
         flex: 0 0 auto;
         margin-right: 0;
         margin-bottom: 0.3em;
     }
 
-    .media-link-posts a {
-        margin-left: 0;
+    .media-posts li > span:empty {
+        display: none;
     }
 }

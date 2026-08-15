@@ -1,25 +1,5 @@
-.book-posts {
-    composes: media-posts;
-}
-
-.book-filter {
-    composes: media-filter;
-}
-
-.book-domain {
-    composes: media-domain;
-}
-
-.book-title {
-    composes: media-title;
-}
-
-.book-posts a[target="_blank"]::before {
-    content: "📚 ";
-    color: var(--color-secondary);
-    text-decoration: none;
-    speak: none;
-}
+/* ABOUTME: Books grid page (/media/books/grid): cover wall grouped by year. */
+/* ABOUTME: The books list at /media/books is styled by media.css via the shared partial. */
 
 /* Grid container styling */
 .book-grid {

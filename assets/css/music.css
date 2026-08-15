@@ -1,55 +1,5 @@
-.music-posts {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.music-filter {
-    composes: media-filter;
-}
-
-.music-domain {
-    composes: media-domain;
-}
-
-.music-title {
-    composes: media-title;
-}
-
-.music-posts a[target="_blank"]::before {
-    content: "🎵 ";
-    color: var(--color-secondary);
-    text-decoration: none;
-    speak: none;
-}
-
-
-/* Year section styling */
-/* .year-section {
-  margin-bottom: 40px;
-}
-
-.year-heading {
-  font-size: 2rem;
-  margin: 20px 0;
-  padding: 10px 20px;
-  background: #f5f5f5;
-  border-radius: 8px;
-  color: #333;
-}
-
-/* Month section styling */
-/* .month-section {
-  margin: 20px 0 30px 0;
-}
-
-.month-heading {
-  font-size: 1.5rem;
-  margin: 15px 20px;
-  padding: 8px 16px;
-  color: #666;
-  border-bottom: 2px solid #eee;
-} */ 
+/* ABOUTME: Music grid page (/media/music/grid): album-art wall grouped by year and month. */
+/* ABOUTME: The music list at /media/music is styled by media.css via the shared partial. */
 
 /* Grid container styling */
 .music-grid {
