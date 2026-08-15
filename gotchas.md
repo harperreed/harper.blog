@@ -17,6 +17,7 @@ Hard-won facts about working on harper.blog. Add yours; keep entries short.
 - Photos get the **white-mat frame** (padding + border, white like a physical print across all themes). Bare images were tried and reverted.
 - Feed contexts show photos small (3-across thumbs in /notes/, one-line strips on home), the individual note page shows them big (breakout to 1000px). Thumbs link to their note.
 - Any visual change is provisional until Harper has seen it rendered on the preview — approval of a written list is not visual sign-off.
+- Markdown `![]()` images in posts stay bare. The figure/image shortcodes are the deliberate opt-in for the framed breakout treatment — an auto-wrapping render hook was tried and reverted. Don't blanket-normalize how content renders.
 
 ## Verification on this machine
 
