@@ -12,3 +12,6 @@ output.txt
 # agent session state
 .private-journal/
 .superpowers/
+
+# tinylytics stats exports (huge; analyze locally, never commit)
+stats-*.csv
