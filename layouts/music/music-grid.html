@@ -1,43 +1,30 @@
+{{- /* ABOUTME: /media/music/grid — album-art wall of every track, grouped by year and month. */}}
+{{- /* ABOUTME: Art lazy-loads from each track's album_image; tracks without one get a placeholder card. */}}
 {{ define "main" }}
-  {{ .Content }}
-  
-  <!-- Filter for music and group by year -->
-  {{ $music := where (where .Site.RegularPages "Type" "music") "Kind" "page" }}
-  {{ $filteredMusic := where $music "File.LogicalName" "not in" (slice "grid.md" "_index.md") }}
-  {{ $musicByYear := $filteredMusic.GroupByDate "2006" }}
-  
-  {{ range $musicByYear }}
-    <!-- Year section -->
-    <div class="year-section">
-      <h2 class="year-heading">{{ .Key }} ({{ len .Pages }} songs)</h2>
-      
-      <!-- Group by month within the year -->
-      {{ $musicByMonth := .Pages.GroupByDate "January" }}
-      {{ range $musicByMonth }}
-        <div class="month-section">
-          <h3 class="month-heading">{{ .Key }} ({{ len .Pages }} songs)</h3>
-          <div class="music-grid">
-            {{ range .Pages }}
-              <div class="music-grid-item">
-                {{ with .Params.album_image }}
-                  <img src="{{ . }}" class="album-bg" alt="">
-                {{ end }}
-
-                  <a href="{{ .RelPermalink }}" target="_blank" rel="noopener noreferrer" class="music-link">
-                    <div class="music-info">
-                      <h3 class="music-title">{{ .Title }}</h3>
-                      {{ with .Params.artist }}
-                        <p class="music-artist">by {{ . }}</p>
-                      {{ end }}
-                    </div>
-                  </a>
-               
-              </div>
-            {{ end }}
-          </div>
-        </div>
-      {{ end }}
+{{ .Content }}
+{{- $music := where site.RegularPages "Section" "music" }}
+{{- $music = where $music "Params.nofeed" "ne" true }}
+{{- range $music.GroupByDate "2006" }}
+<section class="year-section">
+    <h2 class="year-heading">{{ .Key }} <span class="group-count">· {{ len .Pages }} songs</span></h2>
+    {{- range .Pages.GroupByDate "January" }}
+    <h3 class="month-heading">{{ .Key }} <span class="group-count">· {{ len .Pages }} songs</span></h3>
+    <div class="music-grid">
+        {{- range .Pages }}
+        <a href="{{ .RelPermalink }}" class="music-grid-item">
+            {{- with .Params.album_image }}
+            <img src="{{ . }}" class="album-art" alt="" loading="lazy" decoding="async">
+            {{- else }}
+            <span class="album-art album-art-fallback">🎵</span>
+            {{- end }}
+            <span class="music-title">{{ .Title }}</span>
+            {{- with .Params.artist }}
+            <span class="music-artist">by {{ . }}</span>
+            {{- end }}
+        </a>
+        {{- end }}
     </div>
-  {{ end }}
-
+    {{- end }}
+</section>
+{{- end }}
 {{ end }}

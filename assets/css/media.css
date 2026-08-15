@@ -44,6 +44,13 @@
     color: var(--color-muted);
 }
 
+/* Muted item count in the grid pages' year/month headings */
+.group-count {
+    font-size: 0.65em;
+    font-weight: 400;
+    color: var(--color-muted);
+}
+
 @media (max-width: 600px) {
     .media-posts li {
         flex-direction: column;
