@@ -13,7 +13,8 @@
 {{ if eq $endYear $currentYear }}
   {{ $endDate = $currentDate }}
 {{ end }}
-{{ range where .Site.RegularPages "Section" "post" }}
+{{/* Shortcodes render on every language site; posts live on the default (en) site only */}}
+{{ range where hugo.Sites.Default.RegularPages "Section" "post" }}
   {{ $postYear := .Date.Year }}
   {{ if and (ge $postYear $startYear) (le $postYear $endYear) }}
     {{ $count = add $count 1 }}
