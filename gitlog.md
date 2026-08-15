@@ -1,3 +1,5 @@
+# Git log
+
 - **2026-08-15**: feat: restyle media grids as lazy-loading cover walls
 - **2026-08-15**: fix: self-updating reading stats, 109KB less whitespace
 - **2026-08-15**: refactor: consolidate media list CSS into media.css
