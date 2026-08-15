@@ -236,6 +236,15 @@
 - id: songs-count
   translation: "(%d songs)"
 
+# Reading stats shortcode
+- id: reading-stats-books
+  translation:
+    one: "{{ . }} book"
+    other: "{{ . }} books"
+
+- id: reading-stats-pages
+  translation: "%d yearly pages read, ~%d daily pages read"
+
 # Additional accessibility
 - id: home-aria
   translation: "Home"

@@ -1,15 +1,17 @@
 {{- /* ABOUTME: Renders per-year book and page reading stats as a markdown list, newest year first. */ -}}
 {{- /* ABOUTME: Replaces the hand-maintained book-count/page-count year lines that rotted every January. */ -}}
-{{- range (where site.RegularPages "Section" "books").GroupByDate "2006" -}}
+{{- /* Books exist only in the default language, so count from that site on every language. */ -}}
+{{- range (where hugo.Sites.Default.RegularPages "Section" "books").GroupByDate "2006" -}}
 {{- $year := int .Key -}}
 {{- /* zero-date pages (the grid stub) group under year 0001 */ -}}
 {{- if gt $year 1 -}}
 {{- $pages := 0 -}}
 {{- range .Pages -}}{{- $pages = add $pages (int (default 0 .Params.num_pages)) -}}{{- end -}}
 {{- $days := 365 -}}
+{{- if and (eq (mod $year 4) 0) (or (ne (mod $year 100) 0) (eq (mod $year 400) 0)) -}}{{- $days = 366 -}}{{- end -}}
 {{- if eq $year (int (now.Format "2006")) -}}{{- $days = now.YearDay -}}{{- end -}}
-{{- $line := printf "- **%s** - %d books" .Key (len .Pages) -}}
-{{- if gt $pages 0 -}}{{- $line = printf "%s, %d yearly pages read, ~%d daily pages read" $line $pages (div $pages $days) -}}{{- end }}
+{{- $line := printf "- **%s** - %s" .Key (i18n "reading-stats-books" (len .Pages)) -}}
+{{- if gt $pages 0 -}}{{- $line = printf "%s, %s" $line (printf (i18n "reading-stats-pages") $pages (div $pages $days)) -}}{{- end }}
 {{ $line }}
 {{- end -}}
 {{- end -}}
