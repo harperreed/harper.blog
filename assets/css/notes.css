@@ -6,23 +6,87 @@
     margin: 2rem 0;
 }
 
+/* Break out of the 720px column up to 1000px via container margins;
+   transforms move paint but not layout boxes and cause horizontal scroll */
+.note-images {
+    margin-inline: var(--breakout-margin);
+}
+
 .note-images img {
+    display: block;
+    box-sizing: border-box;
+    margin-inline: auto;
     max-width: 100%;
     height: auto;
-    object-fit: cover;
     padding: var(--margin);
     background-color: white;
     border: 1px solid var(--color-tertiary);
     border-radius: var(--border-radius-base);
+    margin-block-end: var(--margin);
 }
 
 /* Media query for mobile devices */
 @media screen and (max-width: 768px) {
     .note-images img {
         padding: 0px; /* Smaller padding on mobile */
-        border-radius: var(
-            --border-radius-sm
-        ); /* Slightly smaller border-radius */
+        border-radius: var(--border-radius-sm);
         border: 1px solid var(--color-primary);
     }
+}
+
+/* Notes with 2+ photos: 2-up grid of uniform crops instead of stacked heroes.
+   Count direct children — bare imgs on the note page, linked imgs in the feed.
+   Without :has() support this falls back to the stacked layout. */
+.note-images:has(> :nth-child(2)) {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+
+.note-images:has(> :nth-child(2)) img {
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    margin-block-end: 0;
+}
+
+/* Odd photo counts lead with a full-width 3:2 crop, pairs below; the child
+   combinator keeps this off the feed's anchor-wrapped thumbs */
+.note-images:has(> :nth-child(2)) > img:first-child:nth-last-child(odd) {
+    grid-column: span 2;
+    aspect-ratio: 3 / 2;
+}
+
+/* Notes feed: multi-photo notes stay compact — an in-column grid of small
+   square thumbs. The individual note page keeps the big breakout grid. */
+.notes .note-images:has(> :nth-child(2)) {
+    margin-inline: 0;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.5rem;
+}
+
+/* Home page notes list: the text-and-photos column beside the date */
+ul.blog-posts li > div {
+    flex: 1;
+    min-width: 0;
+}
+
+/* One small scrollable line of a note's photos, each linking to the note */
+.note-photo-strip {
+    display: flex;
+    gap: 6px;
+    overflow-x: auto;
+    margin-block-start: 6px;
+}
+
+.note-photo-strip a {
+    flex: 0 0 auto;
+}
+
+.note-photo-strip img {
+    display: block;
+    width: 72px;
+    height: 72px;
+    object-fit: cover;
+    border-radius: var(--border-radius-sm);
 }

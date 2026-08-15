@@ -13,7 +13,6 @@ dependencies = [
     "goodreads>=0.3.2",
     "html2text>=2024.2.26",
     "markdownify>=0.13.1",
-    "nltk>=3.9.1",
     "openai>=1.54.3",
     "python-dotenv>=1.0.1",
     "python-frontmatter>=1.1.0",

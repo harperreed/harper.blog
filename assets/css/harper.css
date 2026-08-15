@@ -2,6 +2,7 @@
 
 body {
     font-family: var(--font-family-base);
+    font-size: var(--font-size-base);
     margin: auto;
 
     padding-left: var(--padding-body);
@@ -25,6 +26,23 @@ h6,
 strong,
 b {
     color: var(--color-primary);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-wrap: balance;
+}
+
+p {
+    text-wrap: pretty;
+}
+
+article p {
+    margin-block: 0 1.25em;
 }
 
 a {
@@ -110,13 +128,11 @@ img {
 }
 
 blockquote {
-    margin-left: var(--margin);
-    border-left: 2px dashed var(--color-dark);
+    margin-left: 0;
+    border-left: 3px solid var(--color-muted);
     color: var(--color-dark);
-
-    padding: var(--margin);
+    padding: 0 var(--margin) 0 var(--margin-big);
     font-style: italic;
-    background-color: var(--color-tertiary);
 }
 
 footer {
@@ -170,6 +186,8 @@ h3.blog-filter {
 
 p.byline {
     font-style: italic;
+    font-size: 0.9em;
+    color: var(--color-muted);
 }
 
 /* "Skip to main content" link */
@@ -186,15 +204,18 @@ p.byline {
     transform: translateY(0%);
 }
 
+/* Break out of the 720px column up to 1000px via container margins;
+   transforms move paint but not layout boxes and cause horizontal scroll */
 figure {
-    margin-inline-start: 0em;
-    margin-inline-end: 0em;
+    margin-inline: var(--breakout-margin);
 }
 
 figure img {
+    display: block;
+    box-sizing: border-box;
+    margin-inline: auto;
     max-width: 100%;
     height: auto;
-    object-fit: cover;
     padding: var(--margin);
     background-color: white;
     border: 1px solid var(--color-tertiary);
@@ -204,9 +225,7 @@ figure img {
 @media screen and (max-width: 768px) {
     figure img {
         padding: 0px; /* Smaller padding on mobile */
-        border-radius: var(
-            --border-radius-sm
-        ); /* Slightly smaller border-radius */
+        border-radius: var(--border-radius-sm);
         border: 1px solid var(--color-primary);
     }
 }

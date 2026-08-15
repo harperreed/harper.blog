@@ -48,10 +48,12 @@ Claude Code の話を始めると会話は普通にスタートするんだけ�
 
 スマホで Claude Code を使う答えはシンプルだった。**スマホから自宅マシンに SSH して `claude` を叩く**。やってみるとほんとに簡単だ。
 
-My workstation:  
+My workstation:
+
 ![](terminal2.png)
 
-My phone:  
+My phone:
+
 ![](terminal3.png)
 
 ではバラしていこう。  

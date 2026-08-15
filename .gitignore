@@ -8,3 +8,7 @@ output.txt
 .aider*
 
 **/.claude/settings.local.json
+
+# agent session state
+.private-journal/
+.superpowers/
