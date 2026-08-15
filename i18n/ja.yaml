@@ -160,10 +160,10 @@
   translation: "ノートの画像"
 
 - id: date-aria
-  translation: "日付：%s"
+  translation: "日付：{{ . }}"
 
 - id: tag-aria
-  translation: "タグ：%s"
+  translation: "タグ：{{ . }}"
 
 - id: link-to-aria
   translation: "%sへのリンク"
@@ -244,7 +244,30 @@
   translation: "他の言語で読む"
 
 - id: read-in-language
-  translation: "%sでこの記事を読む"
+  translation: "{{ . }}でこの記事を読む"
 
 - id: current-language
   translation: "言語"
+
+# Reading stats shortcode
+- id: reading-stats-books
+  translation:
+    other: "{{ . }} 冊"
+
+- id: reading-stats-pages
+  translation: "年間 %d ページ、1日あたり約 %d ページ"
+
+# Post translations box
+- id: originally-in
+  translation: "原文"
+
+- id: read-original-english
+  translation: "英語の原文を読む"
+
+# Related posts
+- id: related-posts
+  translation: "関連記事"
+
+# Books
+- id: reread-note
+  translation: "再読です"

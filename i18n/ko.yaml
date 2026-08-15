@@ -1,4 +1,4 @@
-# i18n/en.yaml
+# i18n/ko.yaml
 - id: prevpage
   translation: "이전 페이지"
 
@@ -163,10 +163,10 @@
   translation: "노트에 포함된 이미지"
 
 - id: date-aria
-  translation: "작성일: %s"
+  translation: "작성일: {{ . }}"
 
 - id: tag-aria
-  translation: "태그: %s"
+  translation: "태그: {{ . }}"
 
 - id: link-to-aria
   translation: "%s 링크"
@@ -250,10 +250,33 @@
   translation: "사용 가능한 번역"
 
 - id: read-in-language
-  translation: "이 글을 %s로 읽기"
+  translation: "이 글을 {{ . }}로 읽기"
 
 - id: also-available-in
   translation: "다음 언어로도 제공:"
 
 - id: current-language
   translation: "언어"
+
+# Reading stats shortcode
+- id: reading-stats-books
+  translation:
+    other: "{{ . }}권"
+
+- id: reading-stats-pages
+  translation: "연간 %d페이지, 하루 약 %d페이지"
+
+# Post translations box
+- id: originally-in
+  translation: "원문"
+
+- id: read-original-english
+  translation: "영어 원문 읽기"
+
+# Related posts
+- id: related-posts
+  translation: "관련 글"
+
+# Books
+- id: reread-note
+  translation: "재독한 책입니다"

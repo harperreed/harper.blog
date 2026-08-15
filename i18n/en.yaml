@@ -163,10 +163,10 @@
   translation: "Note images"
 
 - id: date-aria
-  translation: "Date: %s"
+  translation: "Date: {{ . }}"
 
 - id: tag-aria
-  translation: "Tag: %s"
+  translation: "Tag: {{ . }}"
 
 - id: link-to-aria
   translation: "Link to %s"
@@ -259,10 +259,25 @@
   translation: "Translations available"
 
 - id: read-in-language
-  translation: "Read this post in %s"
+  translation: "Read this post in {{ . }}"
 
 - id: also-available-in
   translation: "Also available in"
 
 - id: current-language
   translation: "Language"
+
+# Post translations box
+- id: originally-in
+  translation: "Originally in"
+
+- id: read-original-english
+  translation: "Read the original in English"
+
+# Related posts
+- id: related-posts
+  translation: "Related Posts"
+
+# Books
+- id: reread-note
+  translation: "This is a re-read"

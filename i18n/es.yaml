@@ -163,10 +163,10 @@
   translation: "Imágenes de la nota"
 
 - id: date-aria
-  translation: "Fecha: %s"
+  translation: "Fecha: {{ . }}"
 
 - id: tag-aria
-  translation: "Etiqueta: %s"
+  translation: "Etiqueta: {{ . }}"
 
 - id: link-to-aria
   translation: "Enlace a %s"
@@ -259,10 +259,25 @@
   translation: "Traducciones"
 
 - id: read-in-language
-  translation: "Leer esta entrada en %s"
+  translation: "Leer esta entrada en {{ . }}"
 
 - id: also-available-in
   translation: "También disponible en"
 
 - id: current-language
   translation: "Idioma actual"
+
+# Post translations box
+- id: originally-in
+  translation: "Originalmente en"
+
+- id: read-original-english
+  translation: "Leer el original en inglés"
+
+# Related posts
+- id: related-posts
+  translation: "Entradas relacionadas"
+
+# Books
+- id: reread-note
+  translation: "Esta es una relectura"

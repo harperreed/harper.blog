@@ -1,4 +1,4 @@
-# i18n/en.yaml
+# i18n/zh.yaml
 - id: prevpage
   translation: "上一页"
 
@@ -163,10 +163,10 @@
   translation: "笔记图片"
 
 - id: date-aria
-  translation: "日期：%s"
+  translation: "日期：{{ . }}"
 
 - id: tag-aria
-  translation: "标签：%s"
+  translation: "标签：{{ . }}"
 
 - id: link-to-aria
   translation: "链接至 %s"
@@ -250,10 +250,33 @@
   translation: "可用翻译"
 
 - id: read-in-language
-  translation: "阅读本文（%s 语言版）"
+  translation: "阅读本文（{{ . }} 语言版）"
 
 - id: also-available-in
   translation: "其他可用语言版本"
 
 - id: current-language
   translation: "当前语言"
+
+# Reading stats shortcode
+- id: reading-stats-books
+  translation:
+    other: "{{ . }} 本"
+
+- id: reading-stats-pages
+  translation: "全年阅读 %d 页，日均约 %d 页"
+
+# Post translations box
+- id: originally-in
+  translation: "原文"
+
+- id: read-original-english
+  translation: "阅读英文原文"
+
+# Related posts
+- id: related-posts
+  translation: "相关文章"
+
+# Books
+- id: reread-note
+  translation: "这是重读"
