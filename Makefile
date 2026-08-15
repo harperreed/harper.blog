@@ -29,9 +29,10 @@ prod_build: getmodules
 	hugo --cleanDestinationDir --minify --forceSyncStatic --gc --logLevel info
 
 gitlog:
+	printf '# Git log\n\n' > gitlog.md
 	git log --pretty=format:'- **%ad**: %s' --date=short | \
 		grep -v 'Auto update spotify tracks' | \
 		grep -v 'Auto update micro posts with registry' | \
-		grep -v 'Auto update micro posts' > gitlog.md
+		grep -v 'Auto update micro posts' >> gitlog.md
 	sed -i '' '/Updated gitlog/d' "gitlog.md"
 	git commit -m "Updated gitlog" gitlog.md

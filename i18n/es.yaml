@@ -1,4 +1,4 @@
-# i18n/en.yaml
+# i18n/es.yaml
 - id: prevpage
   translation: "Página anterior"
 
@@ -235,6 +235,15 @@
 
 - id: songs-count
   translation: "(%d canciones)"
+
+# Reading stats shortcode
+- id: reading-stats-books
+  translation:
+    one: "{{ . }} libro"
+    other: "{{ . }} libros"
+
+- id: reading-stats-pages
+  translation: "%d páginas leídas en el año, ~%d páginas al día"
 
 # Additional accessibility
 - id: home-aria

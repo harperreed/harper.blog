@@ -1,3 +1,102 @@
+# Git log
+
+- **2026-08-15**: feat: restyle media grids as lazy-loading cover walls
+- **2026-08-15**: fix: self-updating reading stats, 109KB less whitespace
+- **2026-08-15**: refactor: consolidate media list CSS into media.css
+- **2026-08-15**: refactor: render all media lists through one shared partial
+- **2026-08-15**: Merge pull request #163 from harperreed/feat/snapshots-wall
+- **2026-08-15**: fix: seed snap widths from aspect ratio, not cyclic percentage
+- **2026-08-15**: feat: rebuild snapshots page as a justified photo wall
+- **2026-08-15**: Merge pull request #162 from harperreed/fix/video-center-blockquote
+- **2026-08-15**: fix: center videos inside breakout figures
+- **2026-08-15**: feat: pronounced blockquotes — accent bar and theme-tinted wash
+- **2026-08-15**: Merge pull request #161 from harperreed/feat/typography-reading
+- **2026-08-14**: fix: let photo grid columns shrink below 280px on narrow viewports
+- **2026-08-14**: Merge remote-tracking branch 'origin/main' into feat/typography-reading
+- **2026-08-14**: docs: gotcha — markdown images stay bare, figure shortcode is the opt-in
+- **2026-08-14**: revert: markdown images stay bare — figure treatment is opt-in via shortcode
+- **2026-08-14**: feat: render standalone markdown images with the site's figure treatment
+- **2026-08-14**: Merge pull request #160 from harperreed/chore/hugo-0164
+- **2026-08-14**: Merge pull request #159 from harperreed/fix/hugo-site-author-removal
+- **2026-08-14**: docs: update gotchas for fixed cache keys and real duplicate-post count
+- **2026-08-14**: fix: deterministic partialCached keys; gitignore agent state dirs
+- **2026-08-14**: fix: drop unused nltk, upgrade tool deps past 31 dependabot alerts
+- **2026-08-14**: fix: delete 3 formatting-twin posts colliding on permalinks
+- **2026-08-14**: docs: add gotchas.md — build/deploy traps and settled design decisions
+- **2026-08-14**: revert: body type back to sans — system-ui stack, keep 1.125rem/1.6 leading
+- **2026-08-14**: revert: restore word count and reading time to post byline
+- **2026-08-14**: feat: per-note photo strips on home page instead of one aggregate strip
+- **2026-08-14**: feat: one-line strip of recent note photos on home page
+- **2026-08-14**: feat: feed photos link to their note
+- **2026-08-14**: feat: 3-across thumbs in notes feed
+- **2026-08-14**: feat: compact multi-photo thumbs in notes feed, big grid on note page
+- **2026-08-14**: feat: 2-up grid for multi-photo notes
+- **2026-08-14**: fix: restore framed photo treatment on figures and note images
+- **2026-08-14**: fix: break out images with container margins, not transforms
+- **2026-08-14**: feat: photo grid — bundled CSS (CSP-safe), square cells, breakout width, fix undefined --muted-text
+- **2026-08-14**: feat: post figures and note images break out of column to 1000px, drop polaroid frame
+- **2026-08-14**: feat: calm blockquotes — thin solid muted rule, no box
+- **2026-08-14**: feat: slim post byline to date/author/kudos, add theme-aware --color-muted
+- **2026-08-14**: feat: balance headings, pretty-wrap paragraphs, ease paragraph rhythm
+- **2026-08-14**: feat: serif body type — Charter/Iowan/Georgia at 1.125rem, 1.6 leading
+- **2026-08-14**: docs: add gotchas.md with build/deploy landmines
+- **2026-08-14**: chore: migrate hugo 0.154 to 0.164
+- **2026-08-14**: Delete Claude workflows in GitHub Actions 🚫🤖 - Removed the `.github/workflows/claude-code-review.yml` file which handled PR code reviews using the Claude AI tool. - Removed the `.github/workflows/claude.yml` file which allowed for interactive comments and issues to trigger code processing with Claude AI.
+- **2026-08-14**: fix: replace removed .Site.Author with .Site.Params.author in templates
+- **2026-08-09**: Merge pull request #158 from harperreed/llm-travel-friend
+- **2026-08-09**: Update travel agent post with current date and enhance clarity 🎉✈️
+- **2026-08-09**: Enhance travel agent documentation with usage details
+- **2026-08-09**: Update index.md
+- **2026-08-09**: Add a post on AI travel experiences with ChatGPT 🌍✈️
+- **2026-07-01**: fix(books): point grid 'view as list' link to correct English URL
+- **2026-04-18**: fix: address review squad findings for agent-readiness files
+- **2026-04-18**: feat: add Link headers and content-type for agent discovery endpoints
+- **2026-04-18**: feat: add Agent Skills discovery index with blog capabilities
+- **2026-04-18**: feat: add API catalog for agent discovery (RFC 9727)
+- **2026-04-18**: feat: add Content Signals to robots.txt for AI agent discovery
+- **2026-04-18**: docs: add agent readiness implementation plan
+- **2026-04-18**: docs: add agent readiness design spec
+- **2026-04-18**: fix: clear bogus started_at dates and hide unreasonable reading durations
+- **2026-04-14**: feat: add Tinylytics event tracking to outbound links, email, RSS, and language switcher
+- **2026-04-07**: Updating meeting transcript summary skill URL in knowledge graph article 🔄📚
+- **2026-04-03**: fix: rename 116 book directories from 2025-02-25 to correct dates
+- **2026-04-03**: chore: remove one-time fix-book-dates workflow
+- **2026-04-04**: fix: correct 116 book dates using Goodreads date_added
+- **2026-04-03**: ci: add one-time workflow to run fix_book_dates.py
+- **2026-04-03**: feat(books): add fix_book_dates script to correct 116 wrong 2025-02-25 dates
+- **2026-04-03**: feat(books): capture date_added from Goodreads API and use in date fallback chain
+- **2026-04-03**: feat: display re-read indicator on book pages with is_reread flag
+- **2026-04-03**: feat: backfill is_reread flag on 196 book entries from Goodreads shelf tags
+- **2026-04-03**: feat(books): add is_reread field to create_post_metadata
+- **2026-04-03**: feat: add is_reread detection from Goodreads shelf tags to backfill script
+- **2026-04-03**: feat(books): add check_is_reread() to backfill script with tests
+- **2026-04-02**: docs: add book re-read tracking spec and implementation plan
+- **2026-04-02**: fix: use date fallback chain in book frontmatter, fix 114 empty dates
+- **2026-04-02**: fix: set missing date on 2025 Old Man's War re-read entry
+- **2026-04-02**: feat: render related reads note on book pages
+- **2026-04-02**: feat(books): add goodreads_work_id to book metadata and detect re-reads
+- **2026-04-02**: chore: backfill goodreads_work_id across all book entries
+- **2026-04-02**: feat: add re-read detection and cross-linking to backfill script
+- **2026-04-02**: fix: remove unspecified --dry-run flag, consolidate imports in backfill tests
+- **2026-04-02**: feat: add backfill script for goodreads_work_id in book frontmatter
+- **2026-03-20**: Merge pull request #142 from harperreed/fix/expert-panel-review
+- **2026-03-20**: fix: correct JSON-LD structured data output using dict + jsonify
+- **2026-03-20**: fix: replace invalid <content> with <article>, remove pubdate, fix template issues
+- **2026-03-20**: fix: fix head partials — remove duplicate meta, add JS defer, tighten CSP
+- **2026-03-11**: Add Hugo version and update CLAUDE.md with new tools info 🎉💻
+- **2026-03-11**: Merge pull request #138 from harperreed/dependabot/uv/tools/h11-0.16.0
+- **2026-03-11**: Merge pull request #136 from harperreed/dependabot/uv/tools/requests-2.32.4
+- **2026-03-11**: new post
+- **2026-03-10**: fix: ensure book reading duration shows minimum 1 day
+- **2026-02-17**: Bump h11 from 0.14.0 to 0.16.0 in /tools
+- **2026-02-17**: Bump requests from 2.32.3 to 2.32.4 in /tools
+- **2026-02-16**: fix: sync Hugo and Go versions between CI and Netlify
+- **2026-01-19**: style: personalize RSS feed titles
+- **2026-01-19**: fix: RSS validation for books, music, and links feeds
+- **2026-01-19**: fix: address RSS validation errors in photos feed
+- **2026-01-19**: fix: correct CDATA escaping in RSS templates
+- **2026-01-19**: feat: add rich RSS feeds for photos, music, links, and books
+- **2026-01-10**: Fix build timeout by increasing limit and optimizing images
 - **2026-01-10**: Merge pull request #135 from harperreed/seo-week3-performance
 - **2026-01-10**: Add performance optimizations (Week 3 SEO)
 - **2026-01-10**: Merge pull request #134 from harperreed/seo-week2-navigation-linking
@@ -596,7 +695,6 @@
 - **2024-11-08**: 🚀 Update GitHub Actions Workflow for Starred Links Script 🐙
 - **2024-11-08**: Updated `grab_starred_links.py` and added dependencies in `pyproject.toml` 🎉🛠️
 - **2024-11-08**: 🎉 Added .env file to .gitignore 🎉 - Created a new .gitignore file in the tools directory to exclude the .env file from version control. - This is crucial because it prevents sensitive environment variables from being pushed to the repo. We want to keep those secrets under wraps, you feel me? 🤫🔥
-- **2024-11-08**: 💥💨 Deleted .env file in tools directory 💨💥 - Removed the `.env` file from the `tools` directory, which contained environment variable settings for JSON feed URLs and content directories 🤷‍♂️📂. - Cleaned up unnecessary configurations since they're either not used or are being repurposed elsewhere 🤔 🔄. - This helps to reduce clutter and prevent potential confusion for developers who might be poking around looking for environment variable settings that no longer apply 🚮🔍.
 - **2024-11-07**: Reflecting on the world's chaos – book recommendations included! 📚✨ - Changed the image syntax from markdown to Hugo shortcodes for better compatibility and rendering. 🤖💻 - Maintained original content while ensuring the post aligns with the updated image handling in our site. 💪🖼️
 - **2024-11-07**: Updated dates and polished content in Now entries 🗓️✨
 - **2024-11-07**: Update dates and content in now.md files 🚀🎉
