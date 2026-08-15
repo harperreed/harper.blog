@@ -39,7 +39,8 @@
     <body>
         <header>{{- partialCached "header.html" . -}}</header>
         <main id="main-content">{{- block "main" . }}{{- end }}</main>
-        <footer>{{- partialCached "footer.html" . ((.GitInfo | default dict).AbbreviatedHash | default "nogit") -}}</footer>
+        {{- /* Keyed per page: the footer's language switcher deep-links to this page's translations */}}
+        <footer>{{- partialCached "footer.html" . .RelPermalink ((.GitInfo | default dict).AbbreviatedHash | default "nogit") -}}</footer>
 
         {{- partialCached "custom_body.html" . -}}
     </body>

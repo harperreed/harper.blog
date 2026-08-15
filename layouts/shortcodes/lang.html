@@ -1,26 +1,2 @@
-{{/* layouts/shortcodes/lang.html */}}
-<div class="available-languages">
-  {{ $languages := slice }}
-  {{ range hugo.Sites }}
-    {{ if ne .Language.Lang $.Site.Language.Lang }}
-      {{ $url := printf "/%s/" .Language.Lang }}
-      {{ $languages = $languages | append (dict "url" $url "lang" .Language.Lang "name" .Language.Label) }}
-    {{ end }}
-  {{ end }}
-  
-  {{ if gt (len $languages) 0 }}
-    <span class="languages-prefix">
-        {{ i18n "also-available-in" }}: </span>
-    {{ range $i, $lang := $languages }}
-      <a href="{{ $lang.url }}" hreflang="{{ $lang.lang }}" class="language-link" 
-         aria-label="{{ i18n "read-in-language" $lang.name }}">
-        {{ $lang.name }}
-      </a>
-      {{ if lt $i (sub (len $languages) 1) }} | {{ end }}
-    {{ end }}
-  {{ else }}
-    <span class="single-language">
-      {{ i18n "current-language" }}: {{ .Site.Language.Label }}
-    </span>
-  {{ end }}
-</div>
+{{/* layouts/shortcodes/lang.html — content-embeddable wrapper for the language switcher */}}
+{{ partial "language-switcher.html" .Page }}

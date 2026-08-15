@@ -1,13 +1,19 @@
 {{/* layouts/partials/language-switcher.html */}}
 <div class="available-languages">
+  {{ $page := . }}
+  {{/* Deep-link to this page's translation when one exists; fall back to that language's home */}}
+  {{ $translated := dict }}
+  {{ range .Translations }}
+    {{ $translated = merge $translated (dict .Language.Lang .RelPermalink) }}
+  {{ end }}
   {{ $languages := slice }}
   {{ range hugo.Sites }}
-    {{ if ne .Language.Lang $.Site.Language.Lang }}
-      {{ $url := printf "/%s/" .Language.Lang }}
+    {{ if ne .Language.Lang $page.Site.Language.Lang }}
+      {{ $url := index $translated .Language.Lang | default .Home.RelPermalink }}
       {{ $languages = $languages | append (dict "url" $url "lang" .Language.Lang "name" .Language.Label) }}
     {{ end }}
   {{ end }}
-  
+
   {{ if gt (len $languages) 0 }}
     <span class="languages-prefix">
         {{ i18n "also-available-in" }}: </span>
