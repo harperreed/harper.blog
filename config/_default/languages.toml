@@ -82,14 +82,3 @@ subtitle = "一个普通人做普通事情时的思考"
 # [de.params]
 # description = "Einige Schriften von Harper Reed. Hauptsächlich über Technologie, Politik und andere Dinge"
 # subtitle = "Denkungen einer normalen Person, die normaler Dinge macht"
-
-[id]
-title = "Harper Reed's Blog"
-label = "Indonesia 🇮🇩"
-locale = "id"
-contentDir = "content"
-weight = 10
-
-[id.params]
-description = "Beberapa tulisan dari Harper Reed. Utama tentang teknologi, politik, dan hal lainnya"
-subtitle = "Pikiran dari seorang orang biasa yang melakukan hal-hal biasa"

@@ -1,0 +1,3 @@
+# Indonesian was removed 2026-08: ~1 hit/day, mostly non-Indonesian crawlers.
+# Old /id/ URLs mirror the English paths, so splat straight across.
+/id/* /:splat 301
