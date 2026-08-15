@@ -5,7 +5,12 @@
     {{ end }}
     <div class="notes">
         
-        {{ $paginator := .Paginate .Pages (.Param "notes_pagination" | default
+        {{ $pages := .Pages }}
+        {{ if not $pages }}
+            {{/* Notes live on the default (en) site only; translated sites see an empty .Pages */}}
+            {{ $pages = where hugo.Sites.Default.RegularPages "Section" "notes" }}
+        {{ end }}
+        {{ $paginator := .Paginate $pages (.Param "notes_pagination" | default
         2) }}
         <!-- {{ $paginator := .Paginate .Pages .Site.Params.notes_pagination }} -->
         {{ range $paginator.Pages }}

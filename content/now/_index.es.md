@@ -3,7 +3,7 @@ lastmod: "2017-12-04"
 menu:
     main:
         identifier: now
-        name: Now
+        name: Ahora
         weight: 4
 nofeed: true
 title: Ahora

@@ -11,9 +11,6 @@
 - id: of
   translation: "of"
 
-- id: nojscomments
-  translation: "Comments require JavaScript. Please enable JavaScript in your browser settings or use a JavaScript-enabled browser to view comments."
-
 - id: 404title
   translation: "404"
 
@@ -25,9 +22,6 @@
 
 - id: words
   translation: "words"
-
-- id: readmore
-  translation: "Read more"
 
 - id: previousNows
   translation: "Previous Nows"
@@ -53,38 +47,11 @@
 - id: moreNotes
   translation: "More notes"
 
-- id: recentPosts
-  translation: "Recent Posts"
-
-- id: recentNotes
-  translation: "Recent Notes"
-
 - id: posts
   translation: "Posts"
 
 - id: notes
   translation: "Notes"
-
-- id: morePostsAria
-  translation: "More Posts"
-
-- id: moreNotesAria
-  translation: "More Notes"
-
-- id: skipLinkAria
-  translation: "Skip to main content"
-
-- id: titleAria
-  translation: "Home"
-
-- id: backToNowAria
-  translation: "Back to the current Now"
-
-- id: backToNotesAria
-  translation: "Back to the current notes"
-
-- id: backToLinksAria
-  translation: "Back to the current links"
 
 # Missing keys used in templates
 - id: filtering-for
@@ -95,12 +62,6 @@
 
 - id: no-notes
   translation: "No notes found"
-
-- id: no-links
-  translation: "No links found"
-
-- id: no-music
-  translation: "No music found"
 
 - id: email-subject
   translation: "Re: %s"
@@ -174,12 +135,6 @@
 - id: note-aria
   translation: "Note: %s"
 
-- id: avatar-aria
-  translation: "Avatar"
-
-- id: site-title-aria
-  translation: "Site Title"
-
 - id: main-nav-aria
   translation: "Main Navigation"
 
@@ -188,9 +143,6 @@
 
 - id: list-recent-notes-aria
   translation: "List of recent notes"
-
-- id: permalink-note-aria
-  translation: "Permalink to this note"
 
 # 404 page
 - id: maybe-check-out
@@ -220,9 +172,6 @@
   translation: "My perspectives, knowledge, and opinions may have evolved significantly since then. While the content might still offer valuable insights, I encourage readers to consider it in the context of its publication date."
 
 # Content formatting
-- id: by-parentheses
-  translation: "(by %s)"
-
 - id: by-author
   translation: "by %s"
 

@@ -5,7 +5,7 @@ lastmod: '2017-12-04'
 nofeed: true
 title: Libros
 translationKey: Books
-url: media/books/list
+url: media/books
 ---
 
 # Libros que he leído

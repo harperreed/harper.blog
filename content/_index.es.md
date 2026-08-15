@@ -4,7 +4,7 @@ draft: false
 menu:
     main:
         identifier: home
-        name: Home
+        name: Inicio
         weight: 1
 nodate: true
 nofeed: true

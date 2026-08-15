@@ -12,9 +12,6 @@
 - id: of
   translation: "の"
 
-- id: nojscomments
-  translation: "コメントを表示するにはJavaScriptが必要です。ブラウザの設定でJavaScriptを有効にするか、JavaScript対応のブラウザをご利用ください。"
-
 - id: 404title
   translation: "404"
 
@@ -26,9 +23,6 @@
 
 - id: words
   translation: "単語"
-
-- id: readmore
-  translation: "続きを読む"
 
 - id: previousNows
   translation: "過去のNow"
@@ -54,38 +48,11 @@
 - id: moreNotes
   translation: "他のノート"
 
-- id: recentPosts
-  translation: "最近の投稿"
-
-- id: recentNotes
-  translation: "最近のノート"
-
 - id: posts
   translation: "投稿"
 
 - id: notes
   translation: "ノート"
-
-- id: morePostsAria
-  translation: "他の投稿"
-
-- id: moreNotesAria
-  translation: "他のノート"
-
-- id: skipLinkAria
-  translation: "メインコンテンツへスキップ"
-
-- id: titleAria
-  translation: "ホーム"
-
-- id: backToNowAria
-  translation: "現在のNowに戻る"
-
-- id: backToNotesAria
-  translation: "現在のノートに戻る"
-
-- id: backToLinksAria
-  translation: "現在のリンクに戻る"
 
 - id: filtering-for
   translation: "次で絞り込み："
@@ -95,12 +62,6 @@
 
 - id: no-notes
   translation: "ノートが見つかりませんでした"
-
-- id: no-links
-  translation: "リンクが見つかりませんでした"
-
-- id: no-music
-  translation: "音楽が見つかりませんでした"
 
 - id: email-subject
   translation: "Re: %s"
@@ -171,12 +132,6 @@
 - id: note-aria
   translation: "ノート：%s"
 
-- id: avatar-aria
-  translation: "アバター"
-
-- id: site-title-aria
-  translation: "サイトタイトル"
-
 - id: main-nav-aria
   translation: "メインナビゲーション"
 
@@ -185,9 +140,6 @@
 
 - id: list-recent-notes-aria
   translation: "最近のノート一覧"
-
-- id: permalink-note-aria
-  translation: "このノートのパーマリンク"
 
 - id: maybe-check-out
   translation: "投稿、ノート、リンクをチェックしてみてください。"
@@ -212,9 +164,6 @@
 
 - id: perspective-evolution
   translation: "その後、私の視点、知識、意見は大きく変化している可能性があります。当時のコンテキストを踏まえてお読みいただけると幸いです。"
-
-- id: by-parentheses
-  translation: "（%s 作）"
 
 - id: by-author
   translation: "%s 作"
