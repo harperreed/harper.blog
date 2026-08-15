@@ -231,10 +231,10 @@
 
 # Counts
 - id: books-count
-  translation: "(%d권)"
+  translation: "%d권"
 
 - id: songs-count
-  translation: "(%d곡)"
+  translation: "%d곡"
 
 # Additional accessibility
 - id: home-aria
@@ -280,3 +280,25 @@
 # Books
 - id: reread-note
   translation: "재독한 책입니다"
+
+- id: also-read
+  translation: "함께 읽은 책:"
+
+- id: previously-read-in
+  translation: "이전에 {{ . }}에 읽음:"
+
+- id: reread-in
+  translation: "{{ . }}에 재독:"
+
+# Post count shortcode
+- id: postcount-summary
+  translation: "%d개 ~ %s"
+
+- id: posts-per-day
+  translation: "%.2f개/일"
+
+- id: posts-per-week
+  translation: "%.2f개/주"
+
+- id: posts-per-month
+  translation: "%.2f개/월"

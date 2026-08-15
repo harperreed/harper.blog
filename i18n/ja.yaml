@@ -223,10 +223,10 @@
   translation: "%s 演奏"
 
 - id: books-count
-  translation: "（%d 冊）"
+  translation: "%d冊"
 
 - id: songs-count
-  translation: "（%d 曲）"
+  translation: "%d曲"
 
 - id: home-aria
   translation: "ホーム"
@@ -271,3 +271,25 @@
 # Books
 - id: reread-note
   translation: "再読です"
+
+- id: also-read
+  translation: "関連して読んだ本："
+
+- id: previously-read-in
+  translation: "以前{{ . }}に読了："
+
+- id: reread-in
+  translation: "{{ . }}に再読："
+
+# Post count shortcode
+- id: postcount-summary
+  translation: "%d件 ~ %s"
+
+- id: posts-per-day
+  translation: "%.2f件/日"
+
+- id: posts-per-week
+  translation: "%.2f件/週"
+
+- id: posts-per-month
+  translation: "%.2f件/月"

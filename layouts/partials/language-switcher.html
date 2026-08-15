@@ -10,10 +10,10 @@
   
   {{ if gt (len $languages) 0 }}
     <span class="languages-prefix">
-        {{ i18n "also-available-in" | default "Also available in" }}: </span>
+        {{ i18n "also-available-in" }}: </span>
     {{ range $i, $lang := $languages }}
       <a href="{{ $lang.url }}" hreflang="{{ $lang.lang }}" class="language-link"
-         aria-label="{{ i18n "read-in-language" | default "Read this post in %s" | printf $lang.name }}"
+         aria-label="{{ i18n "read-in-language" $lang.name }}"
          data-tinylytics-event="navigation.language"
          data-tinylytics-event-value="{{ $lang.lang }}">
         {{ $lang.name }}
@@ -22,7 +22,7 @@
     {{ end }}
   {{ else }}
     <span class="single-language">
-      {{ i18n "current-language" | default "Language" }}: {{ .Site.Language.Label }}
+      {{ i18n "current-language" }}: {{ .Site.Language.Label }}
     </span>
   {{ end }}
 </div>

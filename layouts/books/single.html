@@ -37,13 +37,13 @@
         {{ $relatedPage := $.Site.GetPage (printf "/books/%s" .) }}
         {{ if $relatedPage }}
             {{ if or $relatedPage.Date.IsZero $currentDate.IsZero }}
-                <em>Also read:</em>
+                <em>{{ i18n "also-read" }}</em>
                 <a href="{{ $relatedPage.RelPermalink }}">{{ $relatedPage.Title }}</a>
             {{ else if $relatedPage.Date.Before $currentDate }}
-                <em>Previously read in {{ $relatedPage.Date.Format "January 2006" }}:</em>
+                <em>{{ i18n "previously-read-in" ($relatedPage.Date.Format "January 2006") }}</em>
                 <a href="{{ $relatedPage.RelPermalink }}">{{ $relatedPage.Date.Format "January 2, 2006" }}</a>
             {{ else }}
-                <em>Re-read in {{ $relatedPage.Date.Format "January 2006" }}:</em>
+                <em>{{ i18n "reread-in" ($relatedPage.Date.Format "January 2006") }}</em>
                 <a href="{{ $relatedPage.RelPermalink }}">{{ $relatedPage.Date.Format "January 2, 2006" }}</a>
             {{ end }}
             <br>

@@ -7,9 +7,9 @@
 {{- $music = where $music "Params.nofeed" "ne" true }}
 {{- range $music.GroupByDate "2006" }}
 <section class="year-section">
-    <h2 class="year-heading">{{ .Key }} <span class="group-count">· {{ len .Pages }} songs</span></h2>
+    <h2 class="year-heading">{{ .Key }} <span class="group-count">· {{ printf (i18n "songs-count") (len .Pages) }}</span></h2>
     {{- range .Pages.GroupByDate "January" }}
-    <h3 class="month-heading">{{ .Key }} <span class="group-count">· {{ len .Pages }} songs</span></h3>
+    <h3 class="month-heading">{{ .Key }} <span class="group-count">· {{ printf (i18n "songs-count") (len .Pages) }}</span></h3>
     <div class="music-grid">
         {{- range .Pages }}
         <a href="{{ .RelPermalink }}" class="music-grid-item">
@@ -20,7 +20,7 @@
             {{- end }}
             <span class="music-title">{{ .Title }}</span>
             {{- with .Params.artist }}
-            <span class="music-artist">by {{ . }}</span>
+            <span class="music-artist">{{ printf (i18n "by-artist") . }}</span>
             {{- end }}
         </a>
         {{- end }}

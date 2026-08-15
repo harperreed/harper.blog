@@ -231,10 +231,10 @@
 
 # Counts
 - id: books-count
-  translation: "(%d libros)"
+  translation: "%d libros"
 
 - id: songs-count
-  translation: "(%d canciones)"
+  translation: "%d canciones"
 
 # Reading stats shortcode
 - id: reading-stats-books
@@ -281,3 +281,25 @@
 # Books
 - id: reread-note
   translation: "Esta es una relectura"
+
+- id: also-read
+  translation: "También leído:"
+
+- id: previously-read-in
+  translation: "Leído anteriormente en {{ . }}:"
+
+- id: reread-in
+  translation: "Releído en {{ . }}:"
+
+# Post count shortcode
+- id: postcount-summary
+  translation: "%d entradas ~ %s"
+
+- id: posts-per-day
+  translation: "%.2f entradas/día"
+
+- id: posts-per-week
+  translation: "%.2f entradas/semana"
+
+- id: posts-per-month
+  translation: "%.2f entradas/mes"

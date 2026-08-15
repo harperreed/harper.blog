@@ -231,10 +231,10 @@
 
 # Counts
 - id: books-count
-  translation: "（%d 本书）"
+  translation: "%d本"
 
 - id: songs-count
-  translation: "（%d 首歌）"
+  translation: "%d首"
 
 # Additional accessibility
 - id: home-aria
@@ -280,3 +280,25 @@
 # Books
 - id: reread-note
   translation: "这是重读"
+
+- id: also-read
+  translation: "同时读过："
+
+- id: previously-read-in
+  translation: "曾于{{ . }}读过："
+
+- id: reread-in
+  translation: "于{{ . }}重读："
+
+# Post count shortcode
+- id: postcount-summary
+  translation: "%d篇 ~ %s"
+
+- id: posts-per-day
+  translation: "%.2f篇/天"
+
+- id: posts-per-week
+  translation: "%.2f篇/周"
+
+- id: posts-per-month
+  translation: "%.2f篇/月"

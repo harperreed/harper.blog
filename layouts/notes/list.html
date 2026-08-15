@@ -11,10 +11,10 @@
         {{ range $paginator.Pages }}
         <article class="post">
             <header>
-                <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
+                <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="{{ i18n "date-aria" (.Date.Format (default "2006-01-02" .Site.Params.dateFormat)) }}">
                     {{ .Date.Format "Jan 02, 2006" }}
                 </time>
-                 <a href="{{ .RelPermalink }}" title="Permalink to this note">#</a>
+                 <a href="{{ .RelPermalink }}" title="{{ i18n "permalink-note-title" }}">#</a>
                  <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
             </header>
             {{ if .Params.text }} {{ .Params.text | markdownify }} {{ else }} {{

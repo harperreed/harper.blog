@@ -21,7 +21,7 @@
         >{{ i18n "sendMeAn" | default "Send me an" }}
         <a
             href="mailto:{{ .Site.Params.email }}"
-            aria-label="Send email to {{ .Site.Params.Name }}"
+            aria-label="{{ printf (i18n "send-email-aria") .Site.Params.Name }}"
             data-tinylytics-event="contact.email"
             data-tinylytics-event-value="footer"
             >{{ i18n "email" | default "email" }}</a

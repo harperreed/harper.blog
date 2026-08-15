@@ -7,7 +7,7 @@
 {{- $allRelated := .Site.RegularPages.Related . -}}
 {{- $related := where (where $allRelated ".Date" "ge" $startDate) ".Date" "le" $endDate | first 5 -}}
 {{- with $related -}}
-<aside class="related-posts" aria-label="Related posts">
+<aside class="related-posts" aria-label="{{ i18n "related-posts" }}">
   <h3>{{ i18n "related-posts" }}</h3>
   <ul class="related-posts-list">
     {{- range . -}}
