@@ -20,6 +20,11 @@ Hard-won facts about working on harper.blog. Add yours; keep entries short.
 - Markdown `![]()` images in posts stay bare. The figure/image shortcodes are the deliberate opt-in for the framed breakout treatment — an auto-wrapping render hook was tried and reverted. Don't blanket-normalize how content renders.
 - PR #156 (Tailwind redesign) was closed unmerged. Notes referencing Tailwind/PurgeCSS/postcss describe that dead branch, not main.
 
+## Templates
+
+- `RegularPages` sorts by weight before date: `/about/` (menu weight 3, dateless, `nofeed: true`) is `RegularPages[0]` on every language site. Anything taking "the newest page" must filter nofeed/dateless pages first — this zeroed the root feed's `lastBuildDate` and silently wasted a feed slot.
+- `.Paginate` may only get one collection+size per page, but repeat calls return the first paginator — so head partials (which render before the main block) and list templates share `partials/paginator.html` as the single place that defines collections and sizes. Never call `.Paginator`/`.Paginate` anywhere else.
+
 ## Theme CSS
 
 - Theme dark mode cascades as: root light block ← root dark block ← **theme light block** ← theme dark block. A variable set only in a theme's light block applies in dark mode too unless the dark block overrides it. Per-theme `--color-muted` overrides regressed dark mode exactly this way and were removed — the `color-mix` derivation in `root-colors.css` covers muted for every palette; the explicit hexes in `:root` are only the no-color-mix fallback.
@@ -29,6 +34,7 @@ Hard-won facts about working on harper.blog. Add yours; keep entries short.
 
 - Headless Chrome hangs from agent shells — don't use it for layout checks. Verify via the served CSS bundle + arithmetic + Harper's eyes on the tailscale HTTPS preview (`tailscale serve` proxying to a localhost hugo).
 - `~/workspace` symlinks to `~/Public/src` — same repo behind both paths, not two clones.
+- `hugo --quiet` swallows `warnf` output. When debugging templates with `warnf`, build without `--quiet` or the probe looks like it never ran.
 
 ## Multilingual
 
