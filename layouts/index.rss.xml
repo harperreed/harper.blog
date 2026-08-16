@@ -125,7 +125,9 @@
                 <description>
                     {{ printf "<![CDATA[" | safeHTML }}
                         {{- $content := replaceRE "a href=\"(#.*?)\"" (printf "%s%s%s" "a href=\"" .Permalink "$1\"") .Content -}}
-                        {{- $content = replaceRE "img src=\"(.*?)\"" (printf "%s%s%s" "img src=\"" .Permalink "$1\"") $content -}}
+                        {{- /* Render hooks resolve content images to root-relative or absolute URLs, so only
+                               root-relative srcs need the host; prefixing .Permalink onto them mangles the path */ -}}
+                        {{- $content = replaceRE "img src=\"(/[^\"]*)\"" (printf "img src=\"%s$1\"" (strings.TrimSuffix "/" site.BaseURL)) $content -}}
                         {{ $content | safeHTML }}
                         
                         {{- $images := union (.Resources.ByType "image") (.Resources.Match "**.{jpg,jpeg,png,gif,webp}") -}}
