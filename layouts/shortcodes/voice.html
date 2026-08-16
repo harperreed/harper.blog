@@ -1,0 +1,7 @@
+{{- /* Dialogue voice for back-and-forth posts: {{< voice a "Karen" >}}markdown{{< /voice >}}.
+First arg picks the color slot (a or b), optional second arg is the speaker label. */ -}}
+{{- $slot := .Get 0 | default "a" -}}
+<div class="voice voice-{{ $slot }}">
+    {{- with .Get 1 }}<strong class="voice-name">{{ . }}</strong>{{ end }}
+    {{ .Inner | markdownify }}
+</div>

@@ -1,0 +1,34 @@
+/* dialogue voices (voice shortcode) — colors come from theme vars so they survive the per-deploy theme roulette */
+
+.voice {
+    --voice-color: var(--color-primary);
+    border-left: 3px solid var(--voice-color);
+    padding-left: 1rem;
+    margin: 1.5rem 0;
+}
+
+.voice-a {
+    --voice-color: var(--color-link);
+}
+
+.voice-b {
+    --voice-color: var(--color-secondary);
+}
+
+.voice-name {
+    display: block;
+    color: var(--voice-color);
+    font-weight: 700;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.25rem;
+}
+
+.voice p:first-of-type {
+    margin-top: 0;
+}
+
+.voice p:last-of-type {
+    margin-bottom: 0;
+}
