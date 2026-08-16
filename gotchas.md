@@ -20,6 +20,11 @@ Hard-won facts about working on harper.blog. Add yours; keep entries short.
 - Markdown `![]()` images in posts stay bare. The figure/image shortcodes are the deliberate opt-in for the framed breakout treatment — an auto-wrapping render hook was tried and reverted. Don't blanket-normalize how content renders.
 - PR #156 (Tailwind redesign) was closed unmerged. Notes referencing Tailwind/PurgeCSS/postcss describe that dead branch, not main.
 
+## Theme CSS
+
+- Theme dark mode cascades as: root light block ← root dark block ← **theme light block** ← theme dark block. A variable set only in a theme's light block applies in dark mode too unless the dark block overrides it. Per-theme `--color-muted` overrides regressed dark mode exactly this way and were removed — the `color-mix` derivation in `root-colors.css` covers muted for every palette; the explicit hexes in `:root` are only the no-color-mix fallback.
+- `make check-contrast` sweeps all 26 palettes × light/dark (468 pairs) for WCAG AA 4.5:1, modeling that cascade. Run it after touching `root-colors.css` or `themes.css`.
+
 ## Verification on this machine
 
 - Headless Chrome hangs from agent shells — don't use it for layout checks. Verify via the served CSS bundle + arithmetic + Harper's eyes on the tailscale HTTPS preview (`tailscale serve` proxying to a localhost hugo).

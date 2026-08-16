@@ -14,6 +14,10 @@ getmodules:
 check-i18n:
 	cd tools && uv run pytest test_check_i18n.py -q && uv run check_i18n.py
 
+# Check WCAG AA contrast across every theme palette (light + dark cascade)
+check-contrast:
+	cd tools && uv run check_contrast.py
+
 # Preview the site with production settings
 # Preview the site with production settings
 preview: 
