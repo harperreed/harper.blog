@@ -71,6 +71,7 @@ a:visited {
 }
 
 .title span {
+    font-size: var(--title-font-size);
     font-weight: 400;
 }
 
@@ -203,7 +204,7 @@ p.byline {
 
 /* "Skip to main content" link */
 .skip-link {
-    position: absolute;
+    position: fixed;
     top: 5px;
     transform: translateY(-600%);
     transition: transform 0.3s;
