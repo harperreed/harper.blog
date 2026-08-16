@@ -230,6 +230,14 @@
 - id: reread-in
   translation: "{{ . }}に再読："
 
+# Spotify embed
+- id: spotify-player-title
+  translation: "Spotifyプレーヤー"
+
+# Kudos button
+- id: kudos-aria
+  translation: "この投稿にいいねを送る"
+
 # Post count shortcode
 - id: postcount-summary
   translation: "%d件 ~ %s"

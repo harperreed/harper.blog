@@ -240,6 +240,14 @@
 - id: reread-in
   translation: "Releído en {{ . }}:"
 
+# Spotify embed
+- id: spotify-player-title
+  translation: "Reproductor de Spotify"
+
+# Kudos button
+- id: kudos-aria
+  translation: "Dar kudos a esta publicación"
+
 # Post count shortcode
 - id: postcount-summary
   translation: "%d entradas ~ %s"

@@ -9,7 +9,7 @@
         alt="{{ i18n "avatar-alt" }}"
         class="avatar"
     />
-    <h1>{{ .Site.Title }}</h1>
+    {{ if .IsHome }}<h1>{{ .Site.Title }}</h1>{{ else }}<span>{{ .Site.Title }}</span>{{ end }}
 </a>
 
 <nav aria-label="{{ i18n "main-nav-aria" }}">{{- partialCached "nav.html" . -}}</nav>

@@ -1,4 +1,4 @@
-<p>
+<div>
     {{ $menuItems := .Site.Menus.footer }} {{ range $index, $item := $menuItems
     }}
     <a href="{{ .URL }}">{{ .Name }}</a>{{ if ne (add $index 1) (len $menuItems)
@@ -28,7 +28,7 @@
         >
     </span>
     {{ partial "language-switcher.html" . }}
-</p>
+</div>
 <script
     src="https://tinylytics.app/embed/WV5Khk7ZG6MZe6q49ikx.js?hits&countries&kudos=❤️&events"
     defer

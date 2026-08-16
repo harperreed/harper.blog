@@ -37,7 +37,7 @@
     </head>
 
     <body>
-        <header>{{- partialCached "header.html" . -}}</header>
+        <header>{{- partialCached "header.html" . .IsHome -}}</header>
         <main id="main-content">{{- block "main" . }}{{- end }}</main>
         {{- /* Keyed per page: the footer's language switcher deep-links to this page's translations */}}
         <footer>{{- partialCached "footer.html" . .RelPermalink ((.GitInfo | default dict).AbbreviatedHash | default "nogit") -}}</footer>

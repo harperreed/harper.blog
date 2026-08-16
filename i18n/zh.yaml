@@ -239,6 +239,14 @@
 - id: reread-in
   translation: "于{{ . }}重读："
 
+# Spotify embed
+- id: spotify-player-title
+  translation: "Spotify 播放器"
+
+# Kudos button
+- id: kudos-aria
+  translation: "为这篇文章点赞"
+
 # Post count shortcode
 - id: postcount-summary
   translation: "%d篇 ~ %s"
