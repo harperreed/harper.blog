@@ -16,7 +16,7 @@ timeZone = "America/Chicago"
 limit = 20 # Limits the number of items in RSS feed to prevent excessive bandwidth usage
 
 [pagination]
-pagerSize = "6"
+pagerSize = 6
 
 [minify]
 disableXML = true

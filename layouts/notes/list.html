@@ -6,14 +6,8 @@
     {{ end }}
     <div class="notes">
         
-        {{ $pages := .Pages }}
-        {{ if not $pages }}
-            {{/* Notes live on the default (en) site only; translated sites see an empty .Pages */}}
-            {{ $pages = where hugo.Sites.Default.RegularPages "Section" "notes" }}
-        {{ end }}
-        {{ $paginator := .Paginate $pages (.Param "notes_pagination" | default
-        2) }}
-        <!-- {{ $paginator := .Paginate .Pages .Site.Params.notes_pagination }} -->
+        {{/* Collection and page size live in partials/paginator.html, shared with head/seo-canonical.html */}}
+        {{ $paginator := partial "paginator.html" . }}
         {{ range $paginator.Pages }}
         <article class="post">
             <header>

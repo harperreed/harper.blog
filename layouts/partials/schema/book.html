@@ -1,0 +1,59 @@
+{{/* ABOUTME: Generates JSON-LD Book structured data for SEO rich results. */}}
+{{/* ABOUTME: Emits only fields present in frontmatter — no invented values. */}}
+
+{{- if and .IsPage (eq .Layout "book") -}}
+
+{{- $book := dict
+  "@context" "https://schema.org"
+  "@type" "Book"
+  "name" .Title
+  "url" .Permalink
+-}}
+
+{{- with .Params.book_author -}}
+  {{- $book = merge $book (dict "author" (dict "@type" "Person" "name" .)) -}}
+{{- end -}}
+
+{{- with .Params.isbn -}}
+  {{- $book = merge $book (dict "isbn" .) -}}
+{{- end -}}
+
+{{- /* asin doubles as the product identifier when no isbn exists */}}
+{{- with .Params.asin -}}
+  {{- if not (index $book "isbn") -}}
+    {{- $book = merge $book (dict "productID" (printf "asin:%s" .)) -}}
+  {{- end -}}
+  {{- $coverURL := printf "https://images-na.ssl-images-amazon.com/images/P/%s.01._SCLZZZZZZZ.jpg" . -}}
+  {{- $book = merge $book (dict "image" $coverURL) -}}
+{{- end -}}
+
+{{- with .Params.num_pages -}}
+  {{- $book = merge $book (dict "numberOfPages" .) -}}
+{{- end -}}
+
+{{- /* review_rating is a string "0"–"5"; skip when zero (unrated) */}}
+{{- with .Params.review_rating -}}
+  {{- if ne . "0" -}}
+    {{- $review := dict
+      "@type" "Review"
+      "reviewRating" (dict
+        "@type" "Rating"
+        "ratingValue" .
+        "bestRating" "5"
+        "worstRating" "1"
+      )
+      "author" (dict "@type" "Person" "name" ($.Site.Params.author.name | default "Harper Reed"))
+    -}}
+    {{- $book = merge $book (dict "review" $review) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* goodreads_work_id maps to a sameAs URL for the work */}}
+{{- with .Params.goodreads_link -}}
+  {{- $book = merge $book (dict "sameAs" .) -}}
+{{- end -}}
+
+<script type="application/ld+json">
+{{ $book | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{- end -}}

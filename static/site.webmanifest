@@ -1,0 +1,14 @@
+{
+  "name": "Harper Reed's Blog",
+  "short_name": "harper.blog",
+  "description": "Musings from Harper Reed.",
+  "start_url": "/",
+  "display": "minimal-ui",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
