@@ -5,6 +5,11 @@ on:
       - main
   workflow_dispatch: # Allow manual triggers
 
+# Rapid pushes to main would otherwise race on the update-authors branch
+concurrency:
+  group: update-authors-${{ github.ref }}
+  cancel-in-progress: true
+
 # Document workflow purpose
 # This workflow automatically updates the AUTHORS file with new contributors
 jobs:
@@ -13,7 +18,7 @@ jobs:
     steps:
       # Check out repository with full history
       - name: Checkout Repository
-        uses: actions/checkout@v3 # Upgrade to v3
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
           fetch-depth: 0
 
@@ -45,7 +50,7 @@ jobs:
 
       # Create Pull Request if changes exist
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v5 # Upgrade to v5
+        uses: peter-evans/create-pull-request@4e1beaa7521e8b457b572c090b25bd3db56bf1c5 # v5
         with:
           commit-message: "chore: update AUTHORS file"
           title: "chore: update AUTHORS file with new contributors"

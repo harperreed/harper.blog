@@ -2,7 +2,7 @@ name: Run Goodreads Read Script
 
 on:
     schedule:
-        - cron: "0 10 * * *" # Runs every 12 hours
+        - cron: "0 10 * * *" # Runs daily at 10:00 UTC
     workflow_dispatch: # Allows manual triggering
 
 # Add concurrency control
