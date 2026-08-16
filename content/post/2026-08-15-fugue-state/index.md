@@ -1,7 +1,7 @@
 ---
 date: 2026-08-15T12:10:00-06:00
 description: "A free-form conversation with high school students turned into a surprisingly coherent set of ideas about AI, entrepreneurship, power, authenticity, taste, work, fun, and what it means to stay human as technology gets better. Mostly: have agency, try more things, interrogate systems, make room for abundance—and put the things in your head that you love."
-bsky: false
+bsky: https://bsky.app/profile/harper.lol/post/3mt7o2lmze227
 draft: false
 tags:
     - AI
