@@ -14,6 +14,9 @@
         {{- $pages = $pctx.Pages -}}
     {{- end -}}
 {{- end -}}
+{{- /* Drop nofeed pages before the limit: weighted dateless pages (e.g. /about/) otherwise
+       waste item slots and poison lastBuildDate with a zero date */ -}}
+{{- $pages = where $pages "Params.nofeed" "ne" true -}}
 {{- $limit := .Site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}
 {{- $pages = $pages | first $limit -}}
@@ -57,16 +60,18 @@
     {{ with .Site.Copyright }}
     <copyright>{{ . | markdownify | plainify }}</copyright>
     {{end}}
-    {{ if not .Date.IsZero }}
+    {{- /* lastBuildDate: use the newest item's date, not the section's creation date */}}
+    {{- $lastBuild := .Date -}}
+    {{- with $pages -}}{{- with index . 0 -}}{{- $lastBuild = .Date -}}{{- end -}}{{- end -}}
+    {{ if not $lastBuild.IsZero }}
     <lastBuildDate>
-        {{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}
+        {{ $lastBuild.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}
     </lastBuildDate>
     {{ end }}
     {{- with .OutputFormats.Get "RSS" }}
         {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{- end }}
     {{- range $pages }}
-        {{- if ne .Params.nofeed true }}
             <item>
                 <title>{{ .Title | htmlEscape }}</title>
                 <link>
@@ -85,27 +90,27 @@
                 {{- with .Params.images -}}
                     {{- $img := index . 0 -}}
                     {{- $imgPath := printf "%s%s" $pagePermalink $img -}}
+                    {{- $mime := path.Ext $img | lower -}}
+                    {{- $mimeType := "image/jpeg" -}}
+                    {{- if eq $mime ".png" }}{{- $mimeType = "image/png" -}}{{- end -}}
+                    {{- if eq $mime ".gif" }}{{- $mimeType = "image/gif" -}}{{- end -}}
+                    {{- if eq $mime ".webp" }}{{- $mimeType = "image/webp" -}}{{- end -}}
                     {{- with resources.GetRemote $imgPath -}}
-                        <enclosure url="{{ $imgPath }}" type="image/jpg" length="{{ len .Content }}"></enclosure>
-                    {{- else -}}
-                        <enclosure url="{{ $imgPath }}" type="image/jpg" length="0"></enclosure>
+                        <enclosure url="{{ $imgPath }}" type="{{ $mimeType }}" length="{{ len .Content }}"></enclosure>
                     {{- end -}}
                 {{ else -}}
                     {{- $images := .Resources.ByType "image" -}}
                     {{- $featured := $images.GetMatch "*feature*" -}}
                     {{- if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end -}}
                     {{- with $featured -}}
-                        <enclosure url="{{ $featured.Permalink }}" type="image/jpg" length="{{ len $featured.Content }}"></enclosure>
-                    {{- else -}}
-                        {{- with .Site.Params.images -}}
-                            {{- $defaultImg := index . 0 | absURL -}}
-                            {{- with resources.GetRemote $defaultImg -}}
-                                <enclosure url="{{ $defaultImg }}" type="image/jpg" length="{{ len .Content }}"></enclosure>
-                            {{- else -}}
-                                <enclosure url="{{ $defaultImg }}" type="image/jpg" length="0"></enclosure>
-                            {{- end -}}
-                        {{- end -}}
+                        {{- $mime := $featured.MediaType.SubType -}}
+                        {{- $mimeType := "image/jpeg" -}}
+                        {{- if eq $mime "png" }}{{- $mimeType = "image/png" -}}{{- end -}}
+                        {{- if eq $mime "gif" }}{{- $mimeType = "image/gif" -}}{{- end -}}
+                        {{- if eq $mime "webp" }}{{- $mimeType = "image/webp" -}}{{- end -}}
+                        <enclosure url="{{ $featured.Permalink }}" type="{{ $mimeType }}" length="{{ len $featured.Content }}"></enclosure>
                     {{- end -}}
+                    {{- /* No og.png fallback: that file does not exist and emitting length="0" breaks strict clients */}}
                 {{- end }}
 
                 {{- $images := union (.Resources.ByType "image") (.Resources.Match "**.{jpg,jpeg,png,gif,webp}") -}}
@@ -149,7 +154,6 @@
                     {{ printf "]]>" | safeHTML }}
                 </description>
             </item>
-        {{- end }}
     {{- end }}
   </channel>
 </rss>
