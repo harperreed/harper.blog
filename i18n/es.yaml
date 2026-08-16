@@ -185,6 +185,19 @@
 - id: songs-count
   translation: "%d canciones"
 
+- id: links-count
+  translation: "%d enlaces"
+
+# Media hub (/media/ page 1)
+- id: latest-read
+  translation: "Última lectura"
+
+- id: recent-tracks
+  translation: "Canciones recientes"
+
+- id: recent-links
+  translation: "Enlaces recientes"
+
 # Reading stats shortcode
 - id: reading-stats-books
   translation:
