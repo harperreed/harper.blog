@@ -38,9 +38,8 @@ h6 {
     text-wrap: pretty;
 }
 
-p {
-    text-wrap: pretty;
-}
+/* Paragraphs use the default greedy wrap: Safari's text-wrap pretty
+   rag-balances whole paragraphs, leaving lines well short of the column */
 
 article p {
     margin-block: 0 1.25em;
