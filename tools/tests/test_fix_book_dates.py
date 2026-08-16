@@ -102,8 +102,7 @@ def test_fix_dates_updates_frontmatter(tmp_path):
         title="Some Book",
         date="2025-02-25T00:00:00-08:00",
     )
-    with open(book_dir / "index.md", "wb") as f:
-        frontmatter.dump(post, f)
+    (book_dir / "index.md").write_text(frontmatter.dumps(post), encoding="utf-8")
 
     date_map = {"14770": "2006-11-05T00:00:00-08:00"}
     stats = fix_dates(str(content_dir), str(data_dir), date_map)
@@ -135,8 +134,7 @@ def test_fix_dates_skips_non_matching_directories(tmp_path):
         title="Some Book",
         date="2006-11-05T00:00:00-08:00",
     )
-    with open(book_dir / "index.md", "wb") as f:
-        frontmatter.dump(post, f)
+    (book_dir / "index.md").write_text(frontmatter.dumps(post), encoding="utf-8")
 
     date_map = {"14770": "2006-11-05T00:00:00-08:00"}
     stats = fix_dates(str(content_dir), str(data_dir), date_map)
@@ -165,8 +163,7 @@ def test_fix_dates_no_match_in_map(tmp_path):
         title="Unknown Book",
         date="2025-02-25T00:00:00-08:00",
     )
-    with open(book_dir / "index.md", "wb") as f:
-        frontmatter.dump(post, f)
+    (book_dir / "index.md").write_text(frontmatter.dumps(post), encoding="utf-8")
 
     date_map = {}  # empty map — no match
     stats = fix_dates(str(content_dir), str(data_dir), date_map)

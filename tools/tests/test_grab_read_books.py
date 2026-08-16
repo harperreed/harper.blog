@@ -58,8 +58,7 @@ def test_find_existing_reads_finds_match(tmp_path):
     book_dir = tmp_path / "2006-11-26-old-mans-war"
     book_dir.mkdir()
     post = fm.Post(content="A book.", goodreads_work_id="50700", title="Old Man's War")
-    with open(book_dir / "index.md", "wb") as f:
-        fm.dump(post, f)
+    (book_dir / "index.md").write_text(fm.dumps(post), encoding="utf-8")
 
     results = find_existing_reads(str(tmp_path), "50700")
 
@@ -72,8 +71,7 @@ def test_find_existing_reads_no_match(tmp_path):
     book_dir = tmp_path / "2006-11-26-other-book"
     book_dir.mkdir()
     post = fm.Post(content="A book.", goodreads_work_id="99999", title="Other")
-    with open(book_dir / "index.md", "wb") as f:
-        fm.dump(post, f)
+    (book_dir / "index.md").write_text(fm.dumps(post), encoding="utf-8")
 
     results = find_existing_reads(str(tmp_path), "50700")
 
@@ -168,14 +166,12 @@ def test_link_related_reads_updates_both_entries(tmp_path):
     dir1 = tmp_path / "2006-11-26-old-mans-war"
     dir1.mkdir()
     post1 = fm.Post(content="First read.", goodreads_work_id="50700", title="OMW")
-    with open(dir1 / "index.md", "wb") as f:
-        fm.dump(post1, f)
+    (dir1 / "index.md").write_text(fm.dumps(post1), encoding="utf-8")
 
     dir2 = tmp_path / "2025-02-25-old-mans-war"
     dir2.mkdir()
     post2 = fm.Post(content="Re-read.", goodreads_work_id="50700", title="OMW")
-    with open(dir2 / "index.md", "wb") as f:
-        fm.dump(post2, f)
+    (dir2 / "index.md").write_text(fm.dumps(post2), encoding="utf-8")
 
     link_related_reads(
         content_dir=str(tmp_path),

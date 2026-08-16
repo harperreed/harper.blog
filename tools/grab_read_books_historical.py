@@ -12,6 +12,8 @@ from slugify import slugify
 from dotenv import load_dotenv
 import xmltodict
 import frontmatter
+
+from book_files import write_frontmatter_file
 from goodreads import review
 from json import loads, dumps
 from diskcache import Cache
@@ -558,8 +560,7 @@ def main():
                     )
 
                     # Write the post to file
-                    with open(post_filename, "wb") as file:
-                        frontmatter.dump(post, file, encoding="utf-8")
+                    write_frontmatter_file(post, post_filename)
 
                 except Exception as e:
                     logging.error(f"Failed creating post for {book['title']}: {str(e)}")

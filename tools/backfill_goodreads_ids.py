@@ -5,6 +5,8 @@ import os
 import logging
 import yaml
 import frontmatter
+
+from book_files import write_frontmatter_file
 import glob
 from collections import defaultdict
 
@@ -101,8 +103,7 @@ def backfill_work_ids(data_dir: str, content_dir: str) -> dict:
             needs_update = True
 
         if needs_update:
-            with open(content_file, "wb") as f:
-                frontmatter.dump(post, f)
+            write_frontmatter_file(post, content_file)
             logger.info(f"Updated {slug}")
             stats["updated"] += 1
         else:
@@ -151,8 +152,7 @@ def detect_and_link_rereads(content_dir: str) -> int:
                 continue
 
             post["related_reads"] = existing + new_slugs
-            with open(content_file, "wb") as f:
-                frontmatter.dump(post, f)
+            write_frontmatter_file(post, content_file)
 
             logger.info(f"Linked {slug} to {new_slugs}")
             updated_count += 1
