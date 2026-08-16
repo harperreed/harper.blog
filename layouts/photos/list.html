@@ -21,7 +21,7 @@
           <img src="{{ $firstImage.RelPermalink }}" alt="{{ with .Title }}{{ . }}{{ else }}Photo{{ end }}" loading="lazy" />
         </a>
         <div class="photo-meta">
-          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ time.Format ":date_medium" .Date }}</time>
           {{ with .Title }}<p>{{ . }}</p>{{ end }}
         </div>
       </article>

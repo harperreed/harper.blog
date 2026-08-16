@@ -9,18 +9,18 @@
     <li>
         <span>
             <i>
-                <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
+                <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="{{ i18n "date-aria" (.Date.Format (default "2006-01-02" .Site.Params.dateFormat)) }}">
                     {{ .Date.Format (default "2006-01-02"
                     .Site.Params.dateFormat) }}
                 </time>
             </i>
         </span>
         {{ if .Params.link }}
-        <a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer" aria-label="Link to {{ .Title }}">
+        <a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer" aria-label="{{ printf (i18n "link-to-aria") .Title }}">
             {{ .Title }} ↪
         </a>
         {{ else }}
-        <a href="{{ .RelPermalink }}" title="{{.Summary}}" aria-label="Link to {{ .Title }}">
+        <a href="{{ .RelPermalink }}" title="{{.Summary}}" aria-label="{{ printf (i18n "link-to-aria") .Title }}">
             {{ .Title }}
         </a>
         {{ end }}
@@ -29,26 +29,26 @@
     <li>{{ i18n "no-posts" }}</li>
     {{ end }}
 </ul>
-<a href="{{ "/posts" | relLangURL }}" aria-label="More Posts">{{ i18n "morePosts" | default "More Posts" }}</a>
+<a href="{{ "/posts" | relLangURL }}">{{ i18n "morePosts" }}</a>
 {{ end }}
 
 {{ $notes := first 5 (where .Site.RegularPages "Section" "notes") }}
 {{ if $notes }}
 <h2>{{ i18n "notes" | default "Notes" }}</h2>
-<ul class="blog-posts" aria-label="List of recent notes">
+<ul class="blog-posts" aria-label="{{ i18n "list-recent-notes-aria" }}">
     
     {{ range $notes }}
     <li>
         <span>
             <i>
-                <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
+                <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="{{ i18n "date-aria" (.Date.Format (default "2006-01-02" .Site.Params.dateFormat)) }}">
                     {{ .Date.Format (default "2006-01-02"
                     .Site.Params.dateFormat) }}
                 </time>
             </i>
         </span>
         <div>
-            <a href="{{ .RelPermalink }}" aria-label="Note: {{ .Description | default .Title }}">
+            <a href="{{ .RelPermalink }}" aria-label="{{ printf (i18n "note-aria") (.Description | default .Title) }}">
                 {{ .Description | default .Title | truncate 120}}
             </a>
             {{ $noteLink := .RelPermalink }}
@@ -67,6 +67,6 @@
     <li>{{ i18n "no-notes" | default "No notes yet." }}</li>
     {{ end }}
 </ul>
-<a href="{{ "/notes" | relLangURL }}" aria-label="More Notes">{{ i18n "moreNotes" | default "More Notes" }}</a>
+<a href="{{ "/notes" | relLangURL }}">{{ i18n "moreNotes" }}</a>
 {{ end }}
 {{ end }}

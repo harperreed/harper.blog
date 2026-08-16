@@ -1,14 +1,15 @@
 {{- $pctx := . -}}
 {{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
 
+{{- /* Media content lives on the default (en) site only; translated feeds must reach across */ -}}
 {{- $allMedia := slice -}}
-{{- range where .Site.RegularPages "Section" "books" -}}
+{{- range where hugo.Sites.Default.RegularPages "Section" "books" -}}
     {{- $allMedia = $allMedia | append . -}}
 {{- end -}}
-{{- range where .Site.RegularPages "Section" "music" -}}
+{{- range where hugo.Sites.Default.RegularPages "Section" "music" -}}
     {{- $allMedia = $allMedia | append . -}}
 {{- end -}}
-{{- range where .Site.RegularPages "Section" "links" -}}
+{{- range where hugo.Sites.Default.RegularPages "Section" "links" -}}
     {{- $allMedia = $allMedia | append . -}}
 {{- end -}}
 

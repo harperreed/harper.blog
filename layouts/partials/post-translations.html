@@ -23,11 +23,11 @@
       {{ end }}
       <div class="original-language">
           <p>
-        <span class="original-prefix">{{ i18n "originally-in" | default "Originally in" }}:</span>
-        <a href="{{ $englishPage.RelPermalink }}" 
+        <span class="original-prefix">{{ i18n "originally-in" }}:</span>
+        <a href="{{ $englishPage.RelPermalink }}"
            hreflang="en"
            class="original-link"
-           title="{{ i18n "read-original-english" | default "Read the original in English" }}">
+           title="{{ i18n "read-original-english" }}">
           English
         </a>
           </p>
@@ -39,9 +39,9 @@
         <p>
       <span class="translations-prefix">
         {{ if eq $currentLang "en" }}
-          {{ i18n "translations-available" | default "Also available in" }}:
+          {{ i18n "translations-available" }}:
         {{ else }}
-          {{ i18n "other-translations" | default "Also available in" }}:
+          {{ i18n "also-available-in" }}:
         {{ end }}
       </span>
       
@@ -49,7 +49,7 @@
         <a href="{{ $translation.RelPermalink }}" 
            hreflang="{{ $translation.Language.Lang }}"
            class="translation-link"
-           title="{{ i18n "read-in-language" $translation.Language.Label | default (printf "Read this post in %s" $translation.Language.Label) }}">
+           title="{{ i18n "read-in-language" $translation.Language.Label }}">
           {{ $translation.Language.Label }}
         </a>
         {{- if lt $i (sub (len $translations) 1) }}, {{ end -}}

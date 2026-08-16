@@ -2,11 +2,12 @@
 {{- /* ABOUTME: Covers lazy-load from Amazon by ASIN; books without one get a placeholder card. */}}
 {{ define "main" }}
 {{ .Content }}
-{{- $books := where site.RegularPages "Section" "books" }}
+{{- /* Books live on the default (en) site only */}}
+{{- $books := where hugo.Sites.Default.RegularPages "Section" "books" }}
 {{- $books = where $books "Params.nofeed" "ne" true }}
 {{- range $books.GroupByDate "2006" }}
 <section class="year-section">
-    <h2 class="year-heading">{{ .Key }} <span class="group-count">· {{ len .Pages }} books</span></h2>
+    <h2 class="year-heading">{{ .Key }} <span class="group-count">· {{ printf (i18n "books-count") (len .Pages) }}</span></h2>
     <div class="book-grid">
         {{- range .Pages }}
         <a href="{{ .RelPermalink }}" class="book-grid-item">
@@ -17,7 +18,7 @@
             {{- end }}
             <span class="book-title">{{ .Title }}</span>
             {{- with or .Params.book_author .Params.author }}
-            <span class="book-author">by {{ . }}</span>
+            <span class="book-author">{{ printf (i18n "by-author") . }}</span>
             {{- end }}
         </a>
         {{- end }}

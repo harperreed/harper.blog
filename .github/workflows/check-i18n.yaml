@@ -1,0 +1,39 @@
+name: Check i18n
+
+# Static i18n hygiene: key parity across languages, phantom/dead keys,
+# language-scoping regressions. Content-only commits never touch these paths.
+on:
+    pull_request:
+        paths:
+            - "layouts/**"
+            - "i18n/**"
+            - "tools/check_i18n.py"
+            - "tools/test_check_i18n.py"
+            - ".github/workflows/check-i18n.yaml"
+    push:
+        branches:
+            - main
+        paths:
+            - "layouts/**"
+            - "i18n/**"
+            - "tools/check_i18n.py"
+            - "tools/test_check_i18n.py"
+            - ".github/workflows/check-i18n.yaml"
+
+jobs:
+    check-i18n:
+        runs-on: ubuntu-latest
+        timeout-minutes: 5
+        steps:
+            - uses: actions/checkout@v4
+              with:
+                  fetch-depth: 1
+
+            - name: Setup uv
+              uses: astral-sh/setup-uv@v5
+              with:
+                  enable-cache: true
+                  cache-dependency-glob: "tools/uv.lock"
+
+            - name: Check i18n hygiene
+              run: make check-i18n

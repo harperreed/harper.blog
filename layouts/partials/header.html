@@ -1,15 +1,15 @@
-<a class="skip-link" href="#main-content" aria-label="Skip to main content">{{ i18n "skip-link" }}</a>
+<a class="skip-link" href="#main-content">{{ i18n "skip-link" }}</a>
 <a
     href="{{ relURL .Site.Home.RelPermalink }}"
     class="title"
-    aria-label="Home"
+    aria-label="{{ i18n "home-aria" }}"
 >
     <img
         src="{{ .Site.Params.avatar }}"
-        alt="Avatar"
+        alt="{{ i18n "avatar-alt" }}"
         class="avatar"
     />
     <h1>{{ .Site.Title }}</h1>
 </a>
 
-<nav aria-label="Main Navigation">{{- partialCached "nav.html" . -}}</nav>
+<nav aria-label="{{ i18n "main-nav-aria" }}">{{- partialCached "nav.html" . -}}</nav>

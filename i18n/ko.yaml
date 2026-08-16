@@ -1,4 +1,4 @@
-# i18n/en.yaml
+# i18n/ko.yaml
 - id: prevpage
   translation: "이전 페이지"
 
@@ -11,9 +11,6 @@
 - id: of
   translation: "중"
 
-- id: nojscomments
-  translation: "댓글을 보려면 JavaScript가 필요합니다. 브라우저 설정에서 JavaScript를 활성화하거나 JavaScript를 지원하는 브라우저를 사용해 주세요."
-
 - id: 404title
   translation: "404"
 
@@ -25,9 +22,6 @@
 
 - id: words
   translation: "단어"
-
-- id: readmore
-  translation: "더 보기"
 
 - id: previousNows
   translation: "이전 Now"
@@ -53,38 +47,11 @@
 - id: moreNotes
   translation: "더 많은 노트"
 
-- id: recentPosts
-  translation: "최근 글"
-
-- id: recentNotes
-  translation: "최근 노트"
-
 - id: posts
   translation: "글"
 
 - id: notes
   translation: "노트"
-
-- id: morePostsAria
-  translation: "더 많은 글"
-
-- id: moreNotesAria
-  translation: "더 많은 노트"
-
-- id: skipLinkAria
-  translation: "메인 콘텐츠로 건너뛰기"
-
-- id: titleAria
-  translation: "홈"
-
-- id: backToNowAria
-  translation: "Now 페이지로 돌아가기"
-
-- id: backToNotesAria
-  translation: "노트 페이지로 돌아가기"
-
-- id: backToLinksAria
-  translation: "링크 페이지로 돌아가기"
 
 # Missing keys used in templates
 - id: filtering-for
@@ -95,12 +62,6 @@
 
 - id: no-notes
   translation: "노트를 찾을 수 없습니다"
-
-- id: no-links
-  translation: "링크를 찾을 수 없습니다"
-
-- id: no-music
-  translation: "음악을 찾을 수 없습니다"
 
 - id: email-subject
   translation: "Re: %s"
@@ -163,22 +124,16 @@
   translation: "노트에 포함된 이미지"
 
 - id: date-aria
-  translation: "작성일: %s"
+  translation: "작성일: {{ . }}"
 
 - id: tag-aria
-  translation: "태그: %s"
+  translation: "태그: {{ . }}"
 
 - id: link-to-aria
   translation: "%s 링크"
 
 - id: note-aria
   translation: "노트: %s"
-
-- id: avatar-aria
-  translation: "아바타"
-
-- id: site-title-aria
-  translation: "사이트 제목"
 
 - id: main-nav-aria
   translation: "메인 메뉴"
@@ -188,9 +143,6 @@
 
 - id: list-recent-notes-aria
   translation: "최근 노트 목록"
-
-- id: permalink-note-aria
-  translation: "이 노트의 퍼머링크"
 
 # 404 page
 - id: maybe-check-out
@@ -220,9 +172,6 @@
   translation: "제 관점, 지식, 의견은 그동안 크게 바뀌었을 수 있습니다. 내용이 여전히 도움이 될 수 있지만, 작성 시점을 고려해 읽어 주세요."
 
 # Content formatting
-- id: by-parentheses
-  translation: "(%s 지음)"
-
 - id: by-author
   translation: "저자: %s"
 
@@ -231,10 +180,10 @@
 
 # Counts
 - id: books-count
-  translation: "(%d권)"
+  translation: "%d권"
 
 - id: songs-count
-  translation: "(%d곡)"
+  translation: "%d곡"
 
 # Additional accessibility
 - id: home-aria
@@ -250,10 +199,55 @@
   translation: "사용 가능한 번역"
 
 - id: read-in-language
-  translation: "이 글을 %s로 읽기"
+  translation: "이 글을 {{ . }}로 읽기"
 
 - id: also-available-in
   translation: "다음 언어로도 제공:"
 
 - id: current-language
   translation: "언어"
+
+# Reading stats shortcode
+- id: reading-stats-books
+  translation:
+    other: "{{ . }}권"
+
+- id: reading-stats-pages
+  translation: "연간 %d페이지, 하루 약 %d페이지"
+
+# Post translations box
+- id: originally-in
+  translation: "원문"
+
+- id: read-original-english
+  translation: "영어 원문 읽기"
+
+# Related posts
+- id: related-posts
+  translation: "관련 글"
+
+# Books
+- id: reread-note
+  translation: "재독한 책입니다"
+
+- id: also-read
+  translation: "함께 읽은 책:"
+
+- id: previously-read-in
+  translation: "이전에 {{ . }}에 읽음:"
+
+- id: reread-in
+  translation: "{{ . }}에 재독:"
+
+# Post count shortcode
+- id: postcount-summary
+  translation: "%d개 ~ %s"
+
+- id: posts-per-day
+  translation: "%.2f개/일"
+
+- id: posts-per-week
+  translation: "%.2f개/주"
+
+- id: posts-per-month
+  translation: "%.2f개/월"

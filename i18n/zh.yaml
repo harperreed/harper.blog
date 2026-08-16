@@ -1,4 +1,4 @@
-# i18n/en.yaml
+# i18n/zh.yaml
 - id: prevpage
   translation: "上一页"
 
@@ -11,9 +11,6 @@
 - id: of
   translation: "共"
 
-- id: nojscomments
-  translation: "评论功能依赖 JavaScript。请在浏览器设置中启用 JavaScript，或使用支持 JavaScript 的浏览器查看评论。"
-
 - id: 404title
   translation: "404"
 
@@ -25,9 +22,6 @@
 
 - id: words
   translation: "字"
-
-- id: readmore
-  translation: "阅读全文"
 
 - id: previousNows
   translation: "往期近况"
@@ -53,38 +47,11 @@
 - id: moreNotes
   translation: "更多笔记"
 
-- id: recentPosts
-  translation: "最新文章"
-
-- id: recentNotes
-  translation: "最新笔记"
-
 - id: posts
   translation: "文章"
 
 - id: notes
   translation: "笔记"
-
-- id: morePostsAria
-  translation: "查看更多文章"
-
-- id: moreNotesAria
-  translation: "查看更多笔记"
-
-- id: skipLinkAria
-  translation: "跳转到主内容"
-
-- id: titleAria
-  translation: "首页"
-
-- id: backToNowAria
-  translation: "返回当前近况"
-
-- id: backToNotesAria
-  translation: "返回当前笔记"
-
-- id: backToLinksAria
-  translation: "返回当前链接列表"
 
 # Missing keys used in templates
 - id: filtering-for
@@ -95,12 +62,6 @@
 
 - id: no-notes
   translation: "未找到笔记"
-
-- id: no-links
-  translation: "未找到链接"
-
-- id: no-music
-  translation: "未找到音乐"
 
 - id: email-subject
   translation: "Re: %s"
@@ -163,22 +124,16 @@
   translation: "笔记图片"
 
 - id: date-aria
-  translation: "日期：%s"
+  translation: "日期：{{ . }}"
 
 - id: tag-aria
-  translation: "标签：%s"
+  translation: "标签：{{ . }}"
 
 - id: link-to-aria
   translation: "链接至 %s"
 
 - id: note-aria
   translation: "笔记：%s"
-
-- id: avatar-aria
-  translation: "头像"
-
-- id: site-title-aria
-  translation: "网站标题"
 
 - id: main-nav-aria
   translation: "主导航"
@@ -188,9 +143,6 @@
 
 - id: list-recent-notes-aria
   translation: "最近笔记列表"
-
-- id: permalink-note-aria
-  translation: "此笔记的永久链接"
 
 # 404 page
 - id: maybe-check-out
@@ -220,9 +172,6 @@
   translation: "自那以后，我的视角、知识和观点可能已经发生了显著变化。虽然这些内容仍可能提供有价值的见解，但请读者结合其发布日期阅读参考。"
 
 # Content formatting
-- id: by-parentheses
-  translation: "（作者：%s）"
-
 - id: by-author
   translation: "作者：%s"
 
@@ -231,10 +180,10 @@
 
 # Counts
 - id: books-count
-  translation: "（%d 本书）"
+  translation: "%d本"
 
 - id: songs-count
-  translation: "（%d 首歌）"
+  translation: "%d首"
 
 # Additional accessibility
 - id: home-aria
@@ -250,10 +199,55 @@
   translation: "可用翻译"
 
 - id: read-in-language
-  translation: "阅读本文（%s 语言版）"
+  translation: "阅读本文（{{ . }} 语言版）"
 
 - id: also-available-in
   translation: "其他可用语言版本"
 
 - id: current-language
   translation: "当前语言"
+
+# Reading stats shortcode
+- id: reading-stats-books
+  translation:
+    other: "{{ . }} 本"
+
+- id: reading-stats-pages
+  translation: "全年阅读 %d 页，日均约 %d 页"
+
+# Post translations box
+- id: originally-in
+  translation: "原文"
+
+- id: read-original-english
+  translation: "阅读英文原文"
+
+# Related posts
+- id: related-posts
+  translation: "相关文章"
+
+# Books
+- id: reread-note
+  translation: "这是重读"
+
+- id: also-read
+  translation: "同时读过："
+
+- id: previously-read-in
+  translation: "曾于{{ . }}读过："
+
+- id: reread-in
+  translation: "于{{ . }}重读："
+
+# Post count shortcode
+- id: postcount-summary
+  translation: "%d篇 ~ %s"
+
+- id: posts-per-day
+  translation: "%.2f篇/天"
+
+- id: posts-per-week
+  translation: "%.2f篇/周"
+
+- id: posts-per-month
+  translation: "%.2f篇/月"

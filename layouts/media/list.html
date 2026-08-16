@@ -3,7 +3,8 @@
 {{ define "main" }}
 <article>
     {{ .Content }}
-    {{ $media := where site.RegularPages "Section" "in" (slice "books" "music" "links") }}
+    {{/* Media content lives on the default (en) site only; translated pages must reach across */}}
+    {{ $media := where hugo.Sites.Default.RegularPages "Section" "in" (slice "books" "music" "links") }}
     {{ $media = where $media "Params.nofeed" "ne" true }}
     {{ $paginator := .Paginate $media.ByDate.Reverse 20 }}
     {{ partial "media-list.html" $paginator.Pages }}

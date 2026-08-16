@@ -2,7 +2,7 @@
 {{ with .Site.Params.author.email }}
 <p>
     <a
-        href='mailto:{{ . }}?subject={{ i18n "email-subject" }}"{{ default $.Site.Title $.Page.Title }}"'
+        href='mailto:{{ . }}?subject={{ printf (i18n "email-subject") (default $.Site.Title $.Page.Title) }}'
         data-tinylytics-event="contact.email"
         data-tinylytics-event-value="post-reply"
     >

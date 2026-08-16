@@ -1,19 +1,25 @@
 {{/* layouts/partials/language-switcher.html */}}
 <div class="available-languages">
+  {{ $page := . }}
+  {{/* Deep-link to this page's translation when one exists; fall back to that language's home */}}
+  {{ $translated := dict }}
+  {{ range .Translations }}
+    {{ $translated = merge $translated (dict .Language.Lang .RelPermalink) }}
+  {{ end }}
   {{ $languages := slice }}
   {{ range hugo.Sites }}
-    {{ if ne .Language.Lang $.Site.Language.Lang }}
-      {{ $url := printf "/%s/" .Language.Lang }}
+    {{ if ne .Language.Lang $page.Site.Language.Lang }}
+      {{ $url := index $translated .Language.Lang | default .Home.RelPermalink }}
       {{ $languages = $languages | append (dict "url" $url "lang" .Language.Lang "name" .Language.Label) }}
     {{ end }}
   {{ end }}
-  
+
   {{ if gt (len $languages) 0 }}
     <span class="languages-prefix">
-        {{ i18n "also-available-in" | default "Also available in" }}: </span>
+        {{ i18n "also-available-in" }}: </span>
     {{ range $i, $lang := $languages }}
       <a href="{{ $lang.url }}" hreflang="{{ $lang.lang }}" class="language-link"
-         aria-label="{{ i18n "read-in-language" | default "Read this post in %s" | printf $lang.name }}"
+         aria-label="{{ i18n "read-in-language" $lang.name }}"
          data-tinylytics-event="navigation.language"
          data-tinylytics-event-value="{{ $lang.lang }}">
         {{ $lang.name }}
@@ -22,7 +28,7 @@
     {{ end }}
   {{ else }}
     <span class="single-language">
-      {{ i18n "current-language" | default "Language" }}: {{ .Site.Language.Label }}
+      {{ i18n "current-language" }}: {{ .Site.Language.Label }}
     </span>
   {{ end }}
 </div>

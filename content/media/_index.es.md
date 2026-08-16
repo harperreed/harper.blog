@@ -1,6 +1,6 @@
 ---
 description: Una colección de libros, música y enlaces interesantes que he disfrutado
-draft: true
+draft: false
 menu:
     main:
         weight: 5

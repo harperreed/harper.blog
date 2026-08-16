@@ -27,7 +27,9 @@ Hard-won facts about working on harper.blog. Add yours; keep entries short.
 
 ## Multilingual
 
-- `site.RegularPages` is language-scoped: on an /es/ page it returns only Spanish pages. Books/music/links exist only on the en site (translations are `_index.<lang>.md` suffix files), so filtering it by those sections comes back empty there and lists/stats render blank. For cross-language data use `hugo.Sites.Default.RegularPages` — and it's `hugo.Sites`, not `site.Sites` (deprecated since hugo 0.156, WARNs in the server log). The es media list pages still iterate `.Pages` and show empty item lists — pre-existing.
+- `site.RegularPages` is language-scoped: on an /es/ page it returns only Spanish pages. Books/music/links exist only on the en site (translations are `_index.<lang>.md` suffix files), so filtering it by those sections comes back empty there and lists/stats render blank. For cross-language data use `hugo.Sites.Default.RegularPages` — and it's `hugo.Sites`, not `site.Sites` (deprecated since hugo 0.156, WARNs in the server log).
+- `i18n` placeholders: a key called as `{{ i18n "key" arg }}` must use `{{ . }}` in its value; `%s`/`%d` values only work via `printf (i18n "key") args`. Mixing the styles renders blanks or `%!(EXTRA …)` garbage. `make check-i18n` catches parity/phantom/dead keys — run it after touching `layouts/` or `i18n/`.
+- Frontmatter `aliases:` on section `_index.*.md` pages with a `url:` override never emitted redirect stubs (dev server, full rebuilds included). URL moves go in `static/_redirects` (Netlify) instead — the `/id/*` and `/es/media/*/list/` entries are the pattern.
 
 ## Content
 

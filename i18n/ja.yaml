@@ -12,9 +12,6 @@
 - id: of
   translation: "の"
 
-- id: nojscomments
-  translation: "コメントを表示するにはJavaScriptが必要です。ブラウザの設定でJavaScriptを有効にするか、JavaScript対応のブラウザをご利用ください。"
-
 - id: 404title
   translation: "404"
 
@@ -26,9 +23,6 @@
 
 - id: words
   translation: "単語"
-
-- id: readmore
-  translation: "続きを読む"
 
 - id: previousNows
   translation: "過去のNow"
@@ -54,38 +48,11 @@
 - id: moreNotes
   translation: "他のノート"
 
-- id: recentPosts
-  translation: "最近の投稿"
-
-- id: recentNotes
-  translation: "最近のノート"
-
 - id: posts
   translation: "投稿"
 
 - id: notes
   translation: "ノート"
-
-- id: morePostsAria
-  translation: "他の投稿"
-
-- id: moreNotesAria
-  translation: "他のノート"
-
-- id: skipLinkAria
-  translation: "メインコンテンツへスキップ"
-
-- id: titleAria
-  translation: "ホーム"
-
-- id: backToNowAria
-  translation: "現在のNowに戻る"
-
-- id: backToNotesAria
-  translation: "現在のノートに戻る"
-
-- id: backToLinksAria
-  translation: "現在のリンクに戻る"
 
 - id: filtering-for
   translation: "次で絞り込み："
@@ -95,12 +62,6 @@
 
 - id: no-notes
   translation: "ノートが見つかりませんでした"
-
-- id: no-links
-  translation: "リンクが見つかりませんでした"
-
-- id: no-music
-  translation: "音楽が見つかりませんでした"
 
 - id: email-subject
   translation: "Re: %s"
@@ -160,22 +121,16 @@
   translation: "ノートの画像"
 
 - id: date-aria
-  translation: "日付：%s"
+  translation: "日付：{{ . }}"
 
 - id: tag-aria
-  translation: "タグ：%s"
+  translation: "タグ：{{ . }}"
 
 - id: link-to-aria
   translation: "%sへのリンク"
 
 - id: note-aria
   translation: "ノート：%s"
-
-- id: avatar-aria
-  translation: "アバター"
-
-- id: site-title-aria
-  translation: "サイトタイトル"
 
 - id: main-nav-aria
   translation: "メインナビゲーション"
@@ -185,9 +140,6 @@
 
 - id: list-recent-notes-aria
   translation: "最近のノート一覧"
-
-- id: permalink-note-aria
-  translation: "このノートのパーマリンク"
 
 - id: maybe-check-out
   translation: "投稿、ノート、リンクをチェックしてみてください。"
@@ -213,9 +165,6 @@
 - id: perspective-evolution
   translation: "その後、私の視点、知識、意見は大きく変化している可能性があります。当時のコンテキストを踏まえてお読みいただけると幸いです。"
 
-- id: by-parentheses
-  translation: "（%s 作）"
-
 - id: by-author
   translation: "%s 作"
 
@@ -223,10 +172,10 @@
   translation: "%s 演奏"
 
 - id: books-count
-  translation: "（%d 冊）"
+  translation: "%d冊"
 
 - id: songs-count
-  translation: "（%d 曲）"
+  translation: "%d曲"
 
 - id: home-aria
   translation: "ホーム"
@@ -244,7 +193,52 @@
   translation: "他の言語で読む"
 
 - id: read-in-language
-  translation: "%sでこの記事を読む"
+  translation: "{{ . }}でこの記事を読む"
 
 - id: current-language
   translation: "言語"
+
+# Reading stats shortcode
+- id: reading-stats-books
+  translation:
+    other: "{{ . }} 冊"
+
+- id: reading-stats-pages
+  translation: "年間 %d ページ、1日あたり約 %d ページ"
+
+# Post translations box
+- id: originally-in
+  translation: "原文"
+
+- id: read-original-english
+  translation: "英語の原文を読む"
+
+# Related posts
+- id: related-posts
+  translation: "関連記事"
+
+# Books
+- id: reread-note
+  translation: "再読です"
+
+- id: also-read
+  translation: "関連して読んだ本："
+
+- id: previously-read-in
+  translation: "以前{{ . }}に読了："
+
+- id: reread-in
+  translation: "{{ . }}に再読："
+
+# Post count shortcode
+- id: postcount-summary
+  translation: "%d件 ~ %s"
+
+- id: posts-per-day
+  translation: "%.2f件/日"
+
+- id: posts-per-week
+  translation: "%.2f件/週"
+
+- id: posts-per-month
+  translation: "%.2f件/月"

@@ -24,18 +24,17 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - Export books as CSV (with read dates): `uv run tools/push_books_to_microblog.py --csv-export books_for_microblog.csv`
 
 ## Multilingual Support
-- Supported languages: English (en), Spanish (es), Japanese (ja), and Korean (ko)
-- Content directories:
-  - English: `content/`
-  - Spanish: `content.es/`
-  - Japanese: `content.ja/`
-  - Korean: `content.ko/`
-- Each language has its own translation file in the `i18n/` directory
+- Supported languages: English (en, default), Spanish (es), Japanese (ja), Korean (ko), and Chinese (zh)
+- One content tree: translations are suffix files next to the English original (`content/_index.es.md`, `content/post/<slug>/index.ja.md`) — there are no per-language content directories
+- Each language has a translation file in `i18n/<lang>.yaml`; every key must exist in all five files (parity is enforced)
+- i18n guardrail: `make check-i18n` runs the checker tests plus `tools/check_i18n.py` (key parity, phantom/dead keys, duplicate ids, language scoping in shortcodes) — run it after touching `i18n/` or templates that call `i18n`
+- Placeholder convention: keys with `%s`/`%d` values are called `{{ printf (i18n "key") arg }}`; keys with `{{ . }}` values are called `{{ i18n "key" arg }}` — match the key's value style
+- Books, music, links, and notes content exists only on the en site; templates that surface them on translated sites must query `hugo.Sites.Default.RegularPages` (plain `.Pages`/`site.RegularPages` are language-scoped and come back empty)
 - To add a new language:
-  1. Add language configuration to `config/_default/languages.toml`
-  2. Create content directory: `content.<lang_code>/`
-  3. Add translation file: `i18n/<lang_code>.yaml`
-  4. Create translated content starting with `_index.md`
+  1. Add language configuration to `config/_default/languages.toml` (include `label` — the switcher shows it)
+  2. Add translation file `i18n/<lang_code>.yaml` with every key (copy en.yaml and translate; `make check-i18n` verifies parity)
+  3. Add `config/_default/menu.<lang_code>.toml`
+  4. Create translated content as suffix files, starting with `content/_index.<lang_code>.md`
 
 ## Architecture Overview
 

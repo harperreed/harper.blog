@@ -13,7 +13,8 @@
 {{ if eq $endYear $currentYear }}
   {{ $endDate = $currentDate }}
 {{ end }}
-{{ range where .Site.RegularPages "Section" "post" }}
+{{/* Shortcodes render on every language site; posts live on the default (en) site only */}}
+{{ range where hugo.Sites.Default.RegularPages "Section" "post" }}
   {{ $postYear := .Date.Year }}
   {{ if and (ge $postYear $startYear) (le $postYear $endYear) }}
     {{ $count = add $count 1 }}
@@ -27,12 +28,12 @@
 {{ $frequency := div $postsPerDay 1000000.0 }}
 {{ $frequencyOutput := "" }}
 {{ if ge $frequency 0.5 }}
-  {{ $frequencyOutput = printf "%.2f posts/day" $frequency }}
+  {{ $frequencyOutput = printf (i18n "posts-per-day") $frequency }}
 {{ else if ge $frequency 0.07142857 }} {{/* 0.5 posts per week */}}
   {{ $postsPerWeek := mul $frequency 7 }}
-  {{ $frequencyOutput = printf "%.2f posts/week" $postsPerWeek }}
+  {{ $frequencyOutput = printf (i18n "posts-per-week") $postsPerWeek }}
 {{ else }}
   {{ $postsPerMonth := mul $frequency 30.44 }} {{/* Average days in a month */}}
-  {{ $frequencyOutput = printf "%.2f posts/month" $postsPerMonth }}
+  {{ $frequencyOutput = printf (i18n "posts-per-month") $postsPerMonth }}
 {{ end }}
-{{ printf "%d posts ~ %s" $count $frequencyOutput }}
+{{ printf (i18n "postcount-summary") $count $frequencyOutput }}

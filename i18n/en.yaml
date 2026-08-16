@@ -11,9 +11,6 @@
 - id: of
   translation: "of"
 
-- id: nojscomments
-  translation: "Comments require JavaScript. Please enable JavaScript in your browser settings or use a JavaScript-enabled browser to view comments."
-
 - id: 404title
   translation: "404"
 
@@ -25,9 +22,6 @@
 
 - id: words
   translation: "words"
-
-- id: readmore
-  translation: "Read more"
 
 - id: previousNows
   translation: "Previous Nows"
@@ -53,38 +47,11 @@
 - id: moreNotes
   translation: "More notes"
 
-- id: recentPosts
-  translation: "Recent Posts"
-
-- id: recentNotes
-  translation: "Recent Notes"
-
 - id: posts
   translation: "Posts"
 
 - id: notes
   translation: "Notes"
-
-- id: morePostsAria
-  translation: "More Posts"
-
-- id: moreNotesAria
-  translation: "More Notes"
-
-- id: skipLinkAria
-  translation: "Skip to main content"
-
-- id: titleAria
-  translation: "Home"
-
-- id: backToNowAria
-  translation: "Back to the current Now"
-
-- id: backToNotesAria
-  translation: "Back to the current notes"
-
-- id: backToLinksAria
-  translation: "Back to the current links"
 
 # Missing keys used in templates
 - id: filtering-for
@@ -95,12 +62,6 @@
 
 - id: no-notes
   translation: "No notes found"
-
-- id: no-links
-  translation: "No links found"
-
-- id: no-music
-  translation: "No music found"
 
 - id: email-subject
   translation: "Re: %s"
@@ -163,22 +124,16 @@
   translation: "Note images"
 
 - id: date-aria
-  translation: "Date: %s"
+  translation: "Date: {{ . }}"
 
 - id: tag-aria
-  translation: "Tag: %s"
+  translation: "Tag: {{ . }}"
 
 - id: link-to-aria
   translation: "Link to %s"
 
 - id: note-aria
   translation: "Note: %s"
-
-- id: avatar-aria
-  translation: "Avatar"
-
-- id: site-title-aria
-  translation: "Site Title"
 
 - id: main-nav-aria
   translation: "Main Navigation"
@@ -188,9 +143,6 @@
 
 - id: list-recent-notes-aria
   translation: "List of recent notes"
-
-- id: permalink-note-aria
-  translation: "Permalink to this note"
 
 # 404 page
 - id: maybe-check-out
@@ -220,9 +172,6 @@
   translation: "My perspectives, knowledge, and opinions may have evolved significantly since then. While the content might still offer valuable insights, I encourage readers to consider it in the context of its publication date."
 
 # Content formatting
-- id: by-parentheses
-  translation: "(by %s)"
-
 - id: by-author
   translation: "by %s"
 
@@ -231,10 +180,10 @@
 
 # Counts
 - id: books-count
-  translation: "(%d books)"
+  translation: "%d books"
 
 - id: songs-count
-  translation: "(%d songs)"
+  translation: "%d songs"
 
 # Reading stats shortcode
 - id: reading-stats-books
@@ -259,10 +208,47 @@
   translation: "Translations available"
 
 - id: read-in-language
-  translation: "Read this post in %s"
+  translation: "Read this post in {{ . }}"
 
 - id: also-available-in
   translation: "Also available in"
 
 - id: current-language
   translation: "Language"
+
+# Post translations box
+- id: originally-in
+  translation: "Originally in"
+
+- id: read-original-english
+  translation: "Read the original in English"
+
+# Related posts
+- id: related-posts
+  translation: "Related Posts"
+
+# Books
+- id: reread-note
+  translation: "This is a re-read"
+
+- id: also-read
+  translation: "Also read:"
+
+- id: previously-read-in
+  translation: "Previously read in {{ . }}:"
+
+- id: reread-in
+  translation: "Re-read in {{ . }}:"
+
+# Post count shortcode
+- id: postcount-summary
+  translation: "%d posts ~ %s"
+
+- id: posts-per-day
+  translation: "%.2f posts/day"
+
+- id: posts-per-week
+  translation: "%.2f posts/week"
+
+- id: posts-per-month
+  translation: "%.2f posts/month"

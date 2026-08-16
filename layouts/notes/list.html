@@ -5,16 +5,21 @@
     {{ end }}
     <div class="notes">
         
-        {{ $paginator := .Paginate .Pages (.Param "notes_pagination" | default
+        {{ $pages := .Pages }}
+        {{ if not $pages }}
+            {{/* Notes live on the default (en) site only; translated sites see an empty .Pages */}}
+            {{ $pages = where hugo.Sites.Default.RegularPages "Section" "notes" }}
+        {{ end }}
+        {{ $paginator := .Paginate $pages (.Param "notes_pagination" | default
         2) }}
         <!-- {{ $paginator := .Paginate .Pages .Site.Params.notes_pagination }} -->
         {{ range $paginator.Pages }}
         <article class="post">
             <header>
-                <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="Date: {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}">
-                    {{ .Date.Format "Jan 02, 2006" }}
+                <time datetime='{{ .Date.Format "2006-01-02" }}' aria-label="{{ i18n "date-aria" (.Date.Format (default "2006-01-02" .Site.Params.dateFormat)) }}">
+                    {{ time.Format ":date_medium" .Date }}
                 </time>
-                 <a href="{{ .RelPermalink }}" title="Permalink to this note">#</a>
+                 <a href="{{ .RelPermalink }}" title="{{ i18n "permalink-note-title" }}">#</a>
                  <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
             </header>
             {{ if .Params.text }} {{ .Params.text | markdownify }} {{ else }} {{

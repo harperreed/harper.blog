@@ -22,14 +22,14 @@
             {{- end }}
         {{- else if eq .Section "music" }}
             {{- $class = "media-music" }}
-            {{- with .Params.artist }}{{ $context = printf "by %s" . }}{{ end }}
+            {{- with .Params.artist }}{{ $context = printf (i18n "by-artist") . }}{{ end }}
             {{- with .Params.spotify_url }}
                 {{- $href = . }}
                 {{- $event = "outbound.spotify" }}
             {{- end }}
         {{- else if eq .Section "books" }}
             {{- $class = "media-book" }}
-            {{- with or .Params.book_author .Params.author }}{{ $context = printf "by %s" . }}{{ end }}
+            {{- with or .Params.book_author .Params.author }}{{ $context = printf (i18n "by-author") . }}{{ end }}
             {{- with .Params.asin }}
                 {{- $href = printf "https://www.amazon.com/dp/%s?tag=%s" (urlquery .) (urlquery site.Params.amazon_tag) }}
                 {{- $event = "outbound.amazon" }}

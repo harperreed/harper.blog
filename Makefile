@@ -10,6 +10,10 @@ serve:
 getmodules:
 	hugo mod clean --all && hugo mod get -u ./... && hugo mod tidy
 
+# Check i18n hygiene: key parity, phantom/dead keys, language-scoping regressions
+check-i18n:
+	cd tools && uv run pytest test_check_i18n.py -q && uv run check_i18n.py
+
 # Preview the site with production settings
 # Preview the site with production settings
 preview: 

@@ -1,0 +1,7 @@
+# Indonesian was removed 2026-08: ~1 hit/day, mostly non-Indonesian crawlers.
+# Old /id/ URLs mirror the English paths, so splat straight across.
+/id/* /:splat 301
+
+# Spanish media sections moved to the English URL scheme 2026-08 (was media/*/list).
+/es/media/books/list/* /es/media/books/:splat 301
+/es/media/music/list/* /es/media/music/:splat 301
