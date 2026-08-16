@@ -21,8 +21,12 @@
         {{- partial "head/seo-meta-description.html" . -}}
         {{- partial "head/seo-canonical.html" . -}}
         {{- partial "head/seo-hreflang.html" . -}}
+        {{- if eq .Data.Singular "category" }}{{/* /categories/ has no real content */}}
+        <meta name="robots" content="noindex" />
+        {{- end -}}
 
         {{- partial "schema/article.html" . -}}
+        {{- partial "schema/book.html" . -}}
         {{- partialCached "schema/person.html" . -}}
 
         {{- partialCached "head/css.html" . -}}

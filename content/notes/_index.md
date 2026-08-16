@@ -1,4 +1,5 @@
 ---
+description: Snaps, notes, and short thoughts from Harper Reed.
 draft: false
 lastmod: "2017-12-04"
 menu:

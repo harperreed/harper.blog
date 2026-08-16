@@ -1,4 +1,5 @@
 ---
+description: Articles and links Harper Reed found interesting.
 draft: false
 lastmod: "2017-12-04"
 nofeed: true
