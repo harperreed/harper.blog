@@ -16,6 +16,7 @@ from dotenv import load_dotenv
 import xmltodict
 from pprint import pprint
 import frontmatter
+from book_files import write_frontmatter_file
 from goodreads import review
 from json import loads, dumps
 
@@ -460,8 +461,7 @@ def link_related_reads(content_dir: str, new_slug: str, existing_slugs: list[str
             if slug not in related:
                 related.append(slug)
         post["related_reads"] = related
-        with open(new_file, "wb") as f:
-            frontmatter.dump(post, f)
+        write_frontmatter_file(post, new_file)
 
     for slug in existing_slugs:
         existing_file = os.path.join(content_dir, slug, "index.md")
@@ -472,8 +472,7 @@ def link_related_reads(content_dir: str, new_slug: str, existing_slugs: list[str
         if new_slug not in related:
             related.append(new_slug)
             post["related_reads"] = related
-            with open(existing_file, "wb") as f:
-                frontmatter.dump(post, f)
+            write_frontmatter_file(post, existing_file)
 
 
 def create_post_metadata(book_data, book, summary, asin, author):
@@ -598,8 +597,7 @@ def main():
                     )
 
                     # Write the post to file
-                    with open(post_filename, "wb") as file:
-                        frontmatter.dump(post, file, encoding="utf-8")
+                    write_frontmatter_file(post, post_filename)
 
                     # Detect and link re-reads
                     work_id = str(book_data.get("work", {}).get("id", "") or "")

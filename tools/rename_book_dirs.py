@@ -8,6 +8,8 @@ import logging
 import shutil
 import frontmatter
 
+from book_files import write_frontmatter_file
+
 logger = logging.getLogger(__name__)
 
 
@@ -73,8 +75,7 @@ def rename_book_dirs(content_dir: str, data_dir: str) -> dict:
                 if old_slug in related:
                     related = [new_slug if s == old_slug else s for s in related]
                     other_post["related_reads"] = related
-                    with open(other_file, "wb") as f:
-                        frontmatter.dump(other_post, f)
+                    write_frontmatter_file(other_post, other_file)
                     logger.info(f"Updated related_reads ref in {os.path.basename(os.path.dirname(other_file))}")
             except Exception:
                 pass

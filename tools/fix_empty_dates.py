@@ -6,6 +6,8 @@ import re
 import frontmatter
 import os
 
+from book_files import write_frontmatter_file
+
 content_dir = os.path.join(os.path.dirname(__file__), "..", "content", "books")
 
 fixed = 0
@@ -17,8 +19,7 @@ for f in sorted(glob.glob(os.path.join(content_dir, "*", "index.md"))):
         if m:
             date_str = m.group(1) + "T00:00:00-08:00"
             post["date"] = date_str
-            with open(f, "wb") as fh:
-                frontmatter.dump(post, fh)
+            write_frontmatter_file(post, f)
             fixed += 1
 
 print(f"Fixed {fixed} entries")

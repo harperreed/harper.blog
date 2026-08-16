@@ -40,8 +40,7 @@ def test_backfill_work_ids_writes_goodreads_work_id(tmp_path):
     content_dir = tmp_path / "content" / "books" / "2025-02-25-some-book"
     content_dir.mkdir(parents=True)
     post = frontmatter.Post(content="A book description.", title="Some Book", date="2025-02-25")
-    with open(content_dir / "index.md", "wb") as f:
-        frontmatter.dump(post, f)
+    (content_dir / "index.md").write_text(frontmatter.dumps(post), encoding="utf-8")
 
     stats = backfill_work_ids(
         data_dir=str(data_dir),
@@ -68,8 +67,7 @@ def test_backfill_work_ids_skips_already_set(tmp_path):
         title="Some Book",
         goodreads_work_id="12345",
     )
-    with open(content_dir / "index.md", "wb") as f:
-        frontmatter.dump(post, f)
+    (content_dir / "index.md").write_text(frontmatter.dumps(post), encoding="utf-8")
 
     stats = backfill_work_ids(
         data_dir=str(data_dir),
@@ -92,8 +90,7 @@ def test_detect_and_link_rereads(tmp_path):
         date="2006-11-26T00:00:00-08:00",
         goodreads_work_id="50700",
     )
-    with open(dir1 / "index.md", "wb") as f:
-        frontmatter.dump(post1, f)
+    (dir1 / "index.md").write_text(frontmatter.dumps(post1), encoding="utf-8")
 
     dir2 = content_dir / "2025-02-25-old-mans-war"
     dir2.mkdir(parents=True)
@@ -103,8 +100,7 @@ def test_detect_and_link_rereads(tmp_path):
         date="2025-02-25T00:00:00-08:00",
         goodreads_work_id="50700",
     )
-    with open(dir2 / "index.md", "wb") as f:
-        frontmatter.dump(post2, f)
+    (dir2 / "index.md").write_text(frontmatter.dumps(post2), encoding="utf-8")
 
     dir3 = content_dir / "2025-01-01-other-book"
     dir3.mkdir(parents=True)
@@ -114,8 +110,7 @@ def test_detect_and_link_rereads(tmp_path):
         date="2025-01-01T00:00:00-08:00",
         goodreads_work_id="99999",
     )
-    with open(dir3 / "index.md", "wb") as f:
-        frontmatter.dump(post3, f)
+    (dir3 / "index.md").write_text(frontmatter.dumps(post3), encoding="utf-8")
 
     linked = detect_and_link_rereads(content_dir=str(content_dir))
 
@@ -142,8 +137,7 @@ def test_detect_and_link_rereads_no_duplicates(tmp_path):
         goodreads_work_id="50700",
         related_reads=["2025-02-25-old-mans-war"],
     )
-    with open(dir1 / "index.md", "wb") as f:
-        frontmatter.dump(post1, f)
+    (dir1 / "index.md").write_text(frontmatter.dumps(post1), encoding="utf-8")
 
     dir2 = content_dir / "2025-02-25-old-mans-war"
     dir2.mkdir(parents=True)
@@ -154,8 +148,7 @@ def test_detect_and_link_rereads_no_duplicates(tmp_path):
         goodreads_work_id="50700",
         related_reads=["2006-11-26-old-mans-war"],
     )
-    with open(dir2 / "index.md", "wb") as f:
-        frontmatter.dump(post2, f)
+    (dir2 / "index.md").write_text(frontmatter.dumps(post2), encoding="utf-8")
 
     linked = detect_and_link_rereads(content_dir=str(content_dir))
 
@@ -220,8 +213,7 @@ def test_backfill_sets_is_reread(tmp_path):
     content_dir = tmp_path / "content" / "books" / "2025-02-25-old-mans-war"
     content_dir.mkdir(parents=True)
     post = frontmatter.Post(content="Re-read.", title="Old Man's War", date="2025-02-25")
-    with open(content_dir / "index.md", "wb") as f:
-        frontmatter.dump(post, f)
+    (content_dir / "index.md").write_text(frontmatter.dumps(post), encoding="utf-8")
 
     backfill_work_ids(
         data_dir=str(data_dir),
@@ -256,8 +248,7 @@ def test_backfill_sets_is_reread_even_when_work_id_exists(tmp_path):
         title="Old Man's War",
         goodreads_work_id="50700",
     )
-    with open(content_dir / "index.md", "wb") as f:
-        frontmatter.dump(post, f)
+    (content_dir / "index.md").write_text(frontmatter.dumps(post), encoding="utf-8")
 
     stats = backfill_work_ids(
         data_dir=str(data_dir),

@@ -8,6 +8,8 @@ import logging
 import os
 
 import frontmatter
+
+from book_files import write_frontmatter_file
 import requests
 import xmltodict
 import yaml
@@ -192,8 +194,7 @@ def fix_dates(content_dir: str, data_dir: str, date_map: dict[str, str]) -> dict
         post = frontmatter.load(content_file)
         post["date"] = new_date
 
-        with open(content_file, "wb") as f:
-            frontmatter.dump(post, f)
+        write_frontmatter_file(post, content_file)
 
         logger.info(f"Fixed {slug}: {new_date}")
         stats["fixed"] += 1

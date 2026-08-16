@@ -1,0 +1,35 @@
+name: Tools tests
+
+# The content-automation scripts mostly break via dependency bumps flipping
+# library behavior (python-frontmatter 1.2 turned every binary-mode dump into
+# a zero-byte file) — run their tests whenever tools or their deps change.
+on:
+    pull_request:
+        paths:
+            - "tools/**"
+            - ".github/workflows/tools-tests.yaml"
+    push:
+        branches:
+            - main
+        paths:
+            - "tools/**"
+            - ".github/workflows/tools-tests.yaml"
+
+jobs:
+    tools-tests:
+        runs-on: ubuntu-latest
+        timeout-minutes: 5
+        steps:
+            - uses: actions/checkout@v4
+              with:
+                  fetch-depth: 1
+
+            - name: Setup uv
+              uses: astral-sh/setup-uv@v5
+              with:
+                  enable-cache: true
+                  cache-dependency-glob: "tools/uv.lock"
+
+            - name: Run tools test suite
+              working-directory: ./tools
+              run: uv run pytest -q
