@@ -1,5 +1,6 @@
 {{ define "main" }}
 <article>
+    <h1 class="sr-only">{{ .Title }}</h1>
     {{ .Content }} {{ if .Data.Singular }}
     <p class="filter-notice">{{ i18n "filtering-for" }} "{{ .Title }}"</p>
     {{ end }}

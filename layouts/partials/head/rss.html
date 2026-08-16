@@ -1,6 +1,8 @@
 
 {{/* RSS feed: emit the page-level feed when available, otherwise the site root feed.
-     On the homepage both resolve to the same URL so we emit only one. */}}
+     On the homepage both resolve to the same URL so we emit only one.
+     Attribute values interpolate through the template engine so titles with
+     quotes stay inert. */}}
 {{- $rootFeed := "" }}
 {{- with .Site.GetPage "/" }}
   {{- with .OutputFormats.Get "rss" }}
@@ -16,11 +18,8 @@
 {{- end }}
 
 {{- if and $pageFeed (ne $pageFeed $rootFeed) }}
-{{ printf `<link rel="alternate" type="application/rss+xml" href="%s" title="%s" />`
-    $pageFeed
-    (printf "%s - %s" $.Page.Title $.Site.Title) | safeHTML }}
+<link rel="alternate" type="application/rss+xml" href="{{ $pageFeed }}" title="{{ printf "%s - %s" $.Page.Title $.Site.Title }}" />
 {{- end }}
-{{ printf `<link rel="alternate" type="application/rss+xml" href="%s" title="%s" />`
-    $rootFeed
-    $.Site.Title | safeHTML }}
-
+{{- with $rootFeed }}
+<link rel="alternate" type="application/rss+xml" href="{{ . }}" title="{{ $.Site.Title }}" />
+{{- end }}

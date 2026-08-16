@@ -48,6 +48,17 @@
   {{- /* ── Responsive <picture> path ── */ -}}
   {{- $sizes    := slice 480 768 1200 1600 -}}
   {{- $origW    := $img.Width -}}
+
+  {{- /* width param = author-declared max display width: cap the variant set
+         and add the requested width itself as a candidate. */ -}}
+  {{- $reqW := 0 -}}
+  {{- with .Get "width" -}}{{- $reqW = int . -}}{{- end -}}
+  {{- if gt $reqW 0 -}}
+    {{- $capped := slice -}}
+    {{- range $sizes -}}{{- if le . $reqW -}}{{- $capped = $capped | append . -}}{{- end -}}{{- end -}}
+    {{- if and (lt $reqW $origW) (not (in $capped $reqW)) -}}{{- $capped = $capped | append $reqW -}}{{- end -}}
+    {{- $sizes = $capped -}}
+  {{- end -}}
   {{- $webpSet  := slice -}}
   {{- $origSet  := slice -}}
   {{- $default  := $img -}}
@@ -58,7 +69,7 @@
       {{- $ov := $img.Resize (printf "%dx"      .) -}}
       {{- $webpSet = $webpSet | append (printf "%s %dw" $wv.RelPermalink .) -}}
       {{- $origSet = $origSet | append (printf "%s %dw" $ov.RelPermalink .) -}}
-      {{- if eq . 768 -}}{{- $default = $ov -}}{{- end -}}
+      {{- if le . 768 -}}{{- $default = $ov -}}{{- end -}}
     {{- end -}}
   {{- end -}}
 

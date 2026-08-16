@@ -216,6 +216,19 @@ p.byline {
     transform: translateY(0%);
 }
 
+/* Visually hidden but exposed to screen readers (list-page h1s) */
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
 /* Break out of the 720px column up to 1000px via container margins;
    transforms move paint but not layout boxes and cause horizontal scroll */
 figure {

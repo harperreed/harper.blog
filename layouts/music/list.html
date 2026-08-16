@@ -1,6 +1,7 @@
 {{- /* ABOUTME: /media/music — date-grouped listening list rendered by partials/media-list.html. */}}
 {{ define "main" }}
 <article>
+    <h1 class="sr-only">{{ .Title }}</h1>
     {{ .Content }}
     {{/* Music lives on the default (en) site only; .Pages would be empty on translated sites */}}
     {{ $pages := where hugo.Sites.Default.RegularPages "Section" .Section }}

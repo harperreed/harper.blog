@@ -2,6 +2,7 @@
 {{- /* ABOUTME: Row rendering lives in partials/media-list.html, shared with each section's own list. */}}
 {{ define "main" }}
 <article>
+    <h1 class="sr-only">{{ .Title }}</h1>
     {{ .Content }}
     {{/* Media content lives on the default (en) site only; translated pages must reach across */}}
     {{ $media := where hugo.Sites.Default.RegularPages "Section" "in" (slice "books" "music" "links") }}
