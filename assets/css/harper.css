@@ -34,7 +34,8 @@ h3,
 h4,
 h5,
 h6 {
-    text-wrap: balance;
+    /* pretty avoids orphan words without balance's early wrap on long titles */
+    text-wrap: pretty;
 }
 
 p {

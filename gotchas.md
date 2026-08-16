@@ -19,6 +19,7 @@ Hard-won facts about working on harper.blog. Add yours; keep entries short.
 - Any visual change is provisional until Harper has seen it rendered on the preview — approval of a written list is not visual sign-off.
 - Markdown `![]()` images in posts stay bare. The figure/image shortcodes are the deliberate opt-in for the framed breakout treatment — an auto-wrapping render hook was tried and reverted. Don't blanket-normalize how content renders.
 - PR #156 (Tailwind redesign) was closed unmerged. Notes referencing Tailwind/PurgeCSS/postcss describe that dead branch, not main.
+- Headings wrap `pretty`, not `balance` — balance's even-line break read as a phantom width limit on long titles (looked capped well short of the 720px column). Harper confirmed pretty on preview, 2026-08-16.
 
 ## Templates
 
