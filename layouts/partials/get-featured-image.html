@@ -10,6 +10,18 @@
 {{ $images := .Page.Resources.ByType "image" }}
 {{ $featured := or ($images.GetMatch "*feature*") ($images.GetMatch "{*cover*,*thumbnail*}") }}
 
+{{/* Fallback: first image resource (catches image_1.jpg style naming from notes importer) */}}
+{{ if not $featured }}
+  {{ with index $images 0 }}
+    {{ $featured = . }}
+  {{ end }}
+{{ end }}
+
+{{/* Downscale oversized bundle images: social crawlers cap preview fetches (~5MB) */}}
+{{ if and $featured (gt $featured.Width 1200) }}
+  {{ $featured = $featured.Resize "1200x" }}
+{{ end }}
+
 {{ if not $featured }}
   {{ if $generate }}
     {{/* Use a local base image for custom generation */}}

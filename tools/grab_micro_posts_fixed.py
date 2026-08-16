@@ -1,17 +1,21 @@
-import requests
+import hashlib
+import html
+import json
+import logging
 import os
 import re
-import hashlib
-import json
+import tempfile
 from datetime import datetime
-from bs4 import BeautifulSoup
 from functools import lru_cache
-import html2text
-import frontmatter
-from slugify import slugify
 from urllib.parse import urlparse, urljoin
+
+import frontmatter
+import html2text
+import requests
+from bs4 import BeautifulSoup
 from dotenv import load_dotenv
-import logging
+from slugify import slugify
+
 from note_utils import normalize_content, generate_content_hash, get_note_id_from_title
 
 # Load environment variables from .env file if it exists
@@ -92,17 +96,22 @@ def download_json_feed(url):
 def html_to_markdown(html_content):
     """
     Convert HTML to Markdown.
-    
+
     Args:
         html_content (str): HTML content
-        
+
     Returns:
         str: Markdown content
     """
     h = html2text.HTML2Text()
     h.wrap_links = False
     h.body_width = 0  # Disable line wrapping
-    return h.handle(html_content)
+    result = h.handle(html_content)
+    # html2text decodes HTML entities in text nodes, so entity-encoded tags like
+    # &lt;script&gt; become <script> in the output. Escape any remaining angle-bracket
+    # sequences that look like HTML tags so goldmark (unsafe=true) can't execute them.
+    result = re.sub(r'<(/?)([a-zA-Z][^>]*)>', lambda m: f'&lt;{m.group(1)}{m.group(2)}&gt;', result)
+    return result
 
 
 def download_image(url, output_path):
@@ -202,16 +211,22 @@ def load_url_registry(data_dir):
 
 def save_url_registry(registry, data_dir):
     """
-    Save URL registry to data directory.
-    
+    Save URL registry to data directory (atomic write via temp file + os.replace).
+
     Args:
         registry (dict): URL registry
         data_dir (str): Data directory path
     """
     registry_path = os.path.join(data_dir, URL_REGISTRY_FILENAME)
     try:
-        with open(registry_path, 'w', encoding='utf-8') as f:
-            json.dump(registry, f, indent=2)
+        fd, tmp_path = tempfile.mkstemp(dir=data_dir, prefix=URL_REGISTRY_FILENAME + ".tmp")
+        try:
+            with os.fdopen(fd, 'w', encoding='utf-8') as f:
+                json.dump(registry, f, indent=2)
+            os.replace(tmp_path, registry_path)
+        except Exception:
+            os.unlink(tmp_path)
+            raise
     except IOError as e:
         logging.error(f"Error saving URL registry: {e}")
 
@@ -239,16 +254,22 @@ def load_content_registry(data_dir):
 
 def save_content_registry(registry, data_dir):
     """
-    Save content hash registry to data directory.
-    
+    Save content hash registry to data directory (atomic write via temp file + os.replace).
+
     Args:
         registry (dict): Content hash registry
         data_dir (str): Data directory path
     """
     registry_path = os.path.join(data_dir, CONTENT_REGISTRY_FILENAME)
     try:
-        with open(registry_path, 'w', encoding='utf-8') as f:
-            json.dump(registry, f, indent=2)
+        fd, tmp_path = tempfile.mkstemp(dir=data_dir, prefix=CONTENT_REGISTRY_FILENAME + ".tmp")
+        try:
+            with os.fdopen(fd, 'w', encoding='utf-8') as f:
+                json.dump(registry, f, indent=2)
+            os.replace(tmp_path, registry_path)
+        except Exception:
+            os.unlink(tmp_path)
+            raise
     except IOError as e:
         logging.error(f"Error saving content registry: {e}")
 
@@ -602,28 +623,26 @@ def create_hugo_content(entry, output_dir, url_registry, content_registry, data_
 
     file_path = os.path.join(post_dir, "index.md")
 
-    # Parse or create frontmatter
-    if frontmatter.checks(content):
-        post = frontmatter.loads(content)
-    else:
-        post = frontmatter.Post(content)
-    
-    # If we didn't find the post ID earlier, assign a new one
+    # Assign note ID before building the post
     if post_id is None:
         post_id = get_highest_note_id(os.path.dirname(post_dir)) + 1
-        post['title'] = f"Note #{post_id}"
+        title = f"Note #{post_id}"
     else:
-        post['title'] = archive_title if archive_title else f"Note #{post_id}"
-    
-    # Add metadata
-    post['sub_title'] = sub_title
-    post['description'] = create_description(content)
-    post['date'] = date
-    post['draft'] = False
-    post['original_url'] = post_url
-    post['translationKey'] = f"note-{post_id}"  # Use a consistent format for translation keys
-    # Add content hash to help with deduplication
-    post['content_hash'] = pure_content_hash
+        title = archive_title if archive_title else f"Note #{post_id}"
+
+    # Always construct via frontmatter.Post — never parse feed bodies as frontmatter.
+    # A hostile feed item starting with --- would otherwise inject arbitrary metadata.
+    post = frontmatter.Post(
+        content,
+        title=title,
+        sub_title=sub_title,
+        description=create_description(content),
+        date=date,
+        draft=False,
+        original_url=post_url,
+        translationKey=f"note-{post_id}",
+        content_hash=pure_content_hash,
+    )
 
     # Write the post
     try:
@@ -657,29 +676,31 @@ def create_hugo_content(entry, output_dir, url_registry, content_registry, data_
 
 
 def main():
-    """Main function to process microblog entries."""
+    """Main function to process microblog entries. Returns 0 on success, 1 on failure."""
     import argparse
-    
+    import sys as _sys
+
     # Set up command line arguments
     parser = argparse.ArgumentParser(description='Process microblog entries and create Hugo content')
-    parser.add_argument('--check-archive', action='store_true', 
+    parser.add_argument('--check-archive', action='store_true',
                         help='Check the archive for missing posts and import them')
     parser.add_argument('--verbose', '-v', action='store_true',
                         help='Enable verbose logging')
     args = parser.parse_args()
-    
+
     # Set logging level based on verbosity
     if args.verbose:
         logging.getLogger().setLevel(logging.DEBUG)
         logging.info("Verbose logging enabled")
-    
+
     json_feed_url = os.getenv('NOTES_JSON_FEED_URL')
     hugo_content_dir = os.getenv('NOTES_HUGO_CONTENT_DIR')
-    hugo_data_dir = os.getenv('NOTES_HUGO_DATA_DIR', os.path.join(os.path.dirname(hugo_content_dir), 'data', 'notes'))
 
     if not json_feed_url or not hugo_content_dir:
         logging.error("NOTES_JSON_FEED_URL and NOTES_HUGO_CONTENT_DIR must be set in the .env file")
-        return
+        return 1
+
+    hugo_data_dir = os.getenv('NOTES_HUGO_DATA_DIR', os.path.join(os.path.dirname(hugo_content_dir), 'data', 'notes'))
 
     # Create directories if they don't exist
     os.makedirs(hugo_content_dir, exist_ok=True)
@@ -700,7 +721,7 @@ def main():
         feed_data = download_json_feed(json_feed_url)
         if not feed_data or not feed_data.get('items'):
             logging.error("Feed contains no items or invalid format")
-            return
+            return 1
         
         # If --check-archive flag is used, also fetch the archival feed
         archival_items = []
@@ -846,12 +867,15 @@ def main():
         logging.info(f"Created {new_posts_created} new posts.")
         logging.info(f"URL registry now contains {len(url_registry)} entries.")
         logging.info(f"Content registry now contains {len(content_registry)} entries.")
+        return 0
 
     except Exception as e:
         logging.error(f"Unexpected error: {e}")
         import traceback
         logging.error(traceback.format_exc())
+        return 1
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+    sys.exit(main())

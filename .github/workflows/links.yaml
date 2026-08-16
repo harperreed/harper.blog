@@ -22,16 +22,16 @@ jobs:
 
         steps:
             - name: Check out repository
-              uses: actions/checkout@v2
+              uses: actions/checkout@0717577d45739eb3c851188b29f50ed6c0b2194e # v2
 
             - name: Install the latest version of uv
-              uses: astral-sh/setup-uv@v3
+              uses: astral-sh/setup-uv@caf0cab7a618c569241d31dcd442f54681755d39 # v3
               with:
                   version: "latest"
                   enable-cache: true
 
             - name: Cache Script Cache directory
-              uses: actions/cache@v3
+              uses: actions/cache@6f8efc29b200d32929f49075959781ed54ec270c # v3
               with:
                   path: ./tools/.script_cache
                   key: openai-cache-${{ github.sha }}
@@ -45,5 +45,5 @@ jobs:
               run: |
                   git config --global user.name 'GitHub Action'
                   git config --global user.email 'action@github.com'
-                  git add -A
-                  git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update micro posts" && git push)
+                  git add content/links
+                  git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update starred links" && git push)

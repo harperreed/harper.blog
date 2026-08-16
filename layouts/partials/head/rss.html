@@ -1,23 +1,25 @@
 
-{{/* Main RSS feed */}}
-{{ with .Site.GetPage "/" }}
-{{ with .OutputFormats.Get "rss" -}}
-    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />`
-        .Rel
-        .MediaType.Type
-        .Permalink
-        $.Site.Title | safeHTML }}
-{{ end -}}
-{{ end }}
+{{/* RSS feed: emit the page-level feed when available, otherwise the site root feed.
+     On the homepage both resolve to the same URL so we emit only one.
+     Attribute values interpolate through the template engine so titles with
+     quotes stay inert. */}}
+{{- $rootFeed := "" }}
+{{- with .Site.GetPage "/" }}
+  {{- with .OutputFormats.Get "rss" }}
+    {{- $rootFeed = .Permalink }}
+  {{- end }}
+{{- end }}
 
-{{ with .Page }}
-{{ with .OutputFormats.Get "rss" -}}
-{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />`
-    .Rel
-    .MediaType.Type
-    .Permalink
-    (printf "%s - %s" $.Page.Title $.Site.Title) | safeHTML 
-}}
-{{ end -}}
-{{ end }}
+{{- $pageFeed := "" }}
+{{- with .Page }}
+  {{- with .OutputFormats.Get "rss" }}
+    {{- $pageFeed = .Permalink }}
+  {{- end }}
+{{- end }}
 
+{{- if and $pageFeed (ne $pageFeed $rootFeed) }}
+<link rel="alternate" type="application/rss+xml" href="{{ $pageFeed }}" title="{{ printf "%s - %s" $.Page.Title $.Site.Title }}" />
+{{- end }}
+{{- with $rootFeed }}
+<link rel="alternate" type="application/rss+xml" href="{{ . }}" title="{{ $.Site.Title }}" />
+{{- end }}

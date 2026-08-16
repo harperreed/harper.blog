@@ -1,0 +1,135 @@
+{{- /*
+  Local override of the gethugothemes/hugo-modules/images shortcode.
+  Keeps the same parameter interface (src, caption, alt, width, height, class,
+  position, command, option, webp, zoomable, title) but emits responsive
+  <picture>/srcset at 480/768/1200/1600 with real dimensions and clean attributes.
+
+  Resolution order: page bundle resource → static file → remote/absolute URL.
+  Non-processable types (SVG, GIF) and unresolvable paths get a plain <img>.
+*/ -}}
+
+{{- $src     := .Get "src" -}}
+{{- $caption := .Get "caption" -}}
+{{- $alt     := .Get "alt" | default ($caption | plainify) | default "" -}}
+
+{{- /* Position classes mirror the module's output for CSS compatibility. */ -}}
+{{- $posClass := "" -}}
+{{- $position := .Get "position" -}}
+{{- if eq $position "center" }}{{- $posClass = "img-center" -}}
+{{- else if eq $position "left" }}{{- $posClass = "img-left" -}}
+{{- else if eq $position "right" }}{{- $posClass = "img-right" -}}
+{{- else if eq $position "float-left" }}{{- $posClass = "img-float-left" -}}
+{{- else if eq $position "float-right" }}{{- $posClass = "img-float-right" -}}
+{{- end -}}
+
+{{- $img          := "" -}}
+{{- $isProcessable := false -}}
+
+{{- /* 1. Page bundle resource (relative path, not starting with / or http). */ -}}
+{{- if and $src (not (hasPrefix $src "/")) (not (hasPrefix $src "http")) -}}
+  {{- $img = .Page.Resources.GetMatch (printf "*%s*" $src) -}}
+{{- end -}}
+
+{{- /* 2. Static file (absolute path or non-bundle relative — try assets then static). */ -}}
+{{- if and $src (not $img) -}}
+  {{- $trimmed := $src | strings.TrimPrefix "/" -}}
+  {{- $img = resources.Get $trimmed -}}
+  {{- if not $img -}}
+    {{- $img = resources.Get $src -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Decide if Hugo can process this resource. */ -}}
+{{- if $img -}}
+  {{- $isProcessable = not (in (slice "svg" "gif") $img.MediaType.SubType) -}}
+{{- end -}}
+
+{{- if and $img $isProcessable -}}
+  {{- /* ── Responsive <picture> path ── */ -}}
+  {{- $sizes    := slice 480 768 1200 1600 -}}
+  {{- $origW    := $img.Width -}}
+
+  {{- /* width param = author-declared max display width: cap the variant set
+         and add the requested width itself as a candidate. */ -}}
+  {{- $reqW := 0 -}}
+  {{- with .Get "width" -}}{{- $reqW = int . -}}{{- end -}}
+  {{- if gt $reqW 0 -}}
+    {{- $capped := slice -}}
+    {{- range $sizes -}}{{- if le . $reqW -}}{{- $capped = $capped | append . -}}{{- end -}}{{- end -}}
+    {{- if and (lt $reqW $origW) (not (in $capped $reqW)) -}}{{- $capped = $capped | append $reqW -}}{{- end -}}
+    {{- $sizes = $capped -}}
+  {{- end -}}
+  {{- $webpSet  := slice -}}
+  {{- $origSet  := slice -}}
+  {{- $default  := $img -}}
+
+  {{- range $sizes -}}
+    {{- if le . $origW -}}
+      {{- $wv := $img.Resize (printf "%dx webp" .) -}}
+      {{- $ov := $img.Resize (printf "%dx"      .) -}}
+      {{- $webpSet = $webpSet | append (printf "%s %dw" $wv.RelPermalink .) -}}
+      {{- $origSet = $origSet | append (printf "%s %dw" $ov.RelPermalink .) -}}
+      {{- if le . 768 -}}{{- $default = $ov -}}{{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- if lt $origW 768 -}}{{- $default = $img -}}{{- end -}}
+
+  <figure{{ with $posClass }} class="{{ . }}"{{ end }}>
+    <picture>
+      {{- with $webpSet -}}
+      <source
+        type="image/webp"
+        srcset="{{ delimit . ", " }}"
+        sizes="(max-width: 480px) 100vw, (max-width: 768px) 100vw, 800px">
+      {{- end -}}
+      {{- with $origSet -}}
+      <source
+        srcset="{{ delimit . ", " }}"
+        sizes="(max-width: 480px) 100vw, (max-width: 768px) 100vw, 800px">
+      {{- end -}}
+      <img
+        src="{{ $default.RelPermalink }}"
+        alt="{{ $alt }}"
+        width="{{ $default.Width }}"
+        height="{{ $default.Height }}"
+        loading="lazy"
+        decoding="async">
+    </picture>
+    {{- with $caption -}}
+    <figcaption>{{ . | markdownify }}</figcaption>
+    {{- end -}}
+  </figure>
+
+{{- else if $img -}}
+  {{- /* ── Non-processable resource (SVG, GIF) ── */ -}}
+  <figure{{ with $posClass }} class="{{ . }}"{{ end }}>
+    <img
+      src="{{ $img.RelPermalink }}"
+      alt="{{ $alt }}"
+      loading="lazy"
+      decoding="async">
+    {{- with $caption -}}
+    <figcaption>{{ . | markdownify }}</figcaption>
+    {{- end -}}
+  </figure>
+
+{{- else -}}
+  {{- /* ── Static file or remote URL: no Hugo resource, plain fallback ── */ -}}
+  {{- $resolvedSrc := $src | absURL -}}
+  {{- if hasPrefix $src "/" -}}
+    {{- /* Absolute static path — keep as root-relative, not absURL'd fully. */ -}}
+    {{- $resolvedSrc = $src -}}
+  {{- end -}}
+  <figure{{ with $posClass }} class="{{ . }}"{{ end }}>
+    <img
+      src="{{ $resolvedSrc }}"
+      alt="{{ $alt }}"
+      loading="lazy"
+      decoding="async">
+    {{- with $caption -}}
+    <figcaption>{{ . | markdownify }}</figcaption>
+    {{- end -}}
+  </figure>
+
+{{- end -}}

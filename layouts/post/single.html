@@ -9,7 +9,7 @@
   {{ with .Params.author }}· {{.}}{{ end }} &middot;
   {{ .WordCount }}&nbsp;{{ i18n "words" }} &middot;
   {{ .ReadingTime }}&nbsp;{{ i18n "minutes" }} &middot;
-  <button class="tinylytics_kudos" data-path="{{ .Page.RelPermalink }}"></button>
+  <button class="tinylytics_kudos" data-path="{{ .Page.RelPermalink }}" aria-label="{{ i18n "kudos-aria" }}"></button>
 </p>
 {{ end }}
 

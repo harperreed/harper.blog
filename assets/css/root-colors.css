@@ -6,8 +6,8 @@
     --color-secondary: #1a8fe3;
     --color-tertiary: #efefef;
     --color-error: #eba613;
-    --color-link: #1a8fe3;
-    --color-link-visited: #097ed2;
+    --color-link: #1477c0;
+    --color-link-visited: #0870be;
     --color-link-hover: #181a20;
     --color-code-fg: #fafafa;
     --color-code-bg: #222;
@@ -49,7 +49,7 @@
         --color-link-hover: #e0e0e0;
         --color-code-fg: #222;
         --color-code-bg: #fafafa;
-        --color-muted: #9a9a9a;
+        --color-muted: #a2a2a2;
 
         /* Keep the rest of the variables the same since they're not color-related */
     }
@@ -60,6 +60,6 @@
 @supports (color: color-mix(in srgb, red, blue)) {
     :root,
     body {
-        --color-muted: color-mix(in srgb, var(--color-dark) 62%, var(--color-light));
+        --color-muted: color-mix(in srgb, var(--color-dark) 72%, var(--color-light));
     }
 }

@@ -1,3 +1,4 @@
+import html
 import os
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
@@ -110,96 +111,99 @@ def generate_unique_slug(title, date_str, url):
     return f"{date_str}-{base_slug}-{url_hash}"
 
 def create_hugo_content(track, output_dir):
-    """Create a Hugo markdown file for a track."""
-    # try:
-    if True:
+    """Create a Hugo markdown file for a track.
+
+    Returns "created", "skipped" (already exists), or "error".
+    """
+    try:
         slug = generate_unique_slug(track['title'], track['added_at'], track['spotify_url'])
         file_path = os.path.join(output_dir, f"{slug}.md")
-        
+
         if os.path.exists(file_path):
             logging.info(f"Track already exists: {file_path}")
-            return False
+            return "skipped"
 
-        # Create post with frontmatter
-        post = frontmatter.Post("")
-        post['title'] = track['title']
-        post['translationKey'] = f"{track['title']}-{track['album']}-{track['artist']}"
-        post['date'] = datetime.fromisoformat(track['added_at'].replace('Z', '+00:00'))
-        post['artist'] = track['artist']
-        post['album'] = track['album']
-        post['spotify_url'] = track['spotify_url']
-        post['preview_url'] = track['preview_url']
-        post['duration'] = track['duration_ms']
-        post['album_image'] = track['album_image']
-        post['draft'] = False
-        post['type'] = 'music'
-        
-        post.content = f"""
-## {post['artist']} on the album {post['album']}
+        date = datetime.fromisoformat(track['added_at'].replace('Z', '+00:00'))
+        # Metadata values are YAML-serialized so special chars are safe there.
+        # The markdown body is rendered by goldmark (unsafe=true), so escape
+        # feed-derived text that lands in the body.
+        artist_safe = html.escape(track['artist'])
+        album_safe = html.escape(track['album'])
 
-You can listen [here]({post['spotify_url']})
+        post = frontmatter.Post(
+            f"## {artist_safe} on the album {album_safe}\n\n"
+            f"You can listen [here]({track['spotify_url']})\n\n"
+            f"{{{{% spotify \"{track['id']}\" small %}}}}\n\n"
+            f"added on {date.strftime('%B %d, %Y')}\n",
+            title=track['title'],
+            translationKey=f"{track['title']}-{track['album']}-{track['artist']}",
+            date=date,
+            artist=track['artist'],
+            album=track['album'],
+            spotify_url=track['spotify_url'],
+            preview_url=track['preview_url'],
+            duration=track['duration_ms'],
+            album_image=track['album_image'],
+            draft=False,
+            type='music',
+        )
 
-{{{{% spotify "{track['id']}" small %}}}}
-
-added on {post['date'].strftime("%B %d, %Y")}
-"""
-        
         # Write the file
         with open(file_path, 'w', encoding='utf-8') as f:
             f.write(frontmatter.dumps(post))
-        
+
         logging.info(f"Created new track post: {file_path}")
-        return True
-        
-    # except Exception as e:
-    #     logging.error(f"Error creating post for '{track['title']}': {e}")
-    #     return False
+        return "created"
+
+    except Exception as e:
+        logging.error(f"Error creating post for '{track.get('title', '?')}': {e}")
+        return "error"
 
 def main():
-    """Main function to orchestrate the script."""
-    # Get environment variables
+    """Main function to orchestrate the script. Returns 0 on success, 1 on failure."""
     hugo_content_dir = os.getenv('MUSIC_HUGO_CONTENT_DIR', "../content/music")
     hugo_data_dir = os.getenv('MUSIC_HUGO_DATA_DIR', "../data/music")
-    
-    
-    
-        
-    # Ensure content directory exists
+
     os.makedirs(hugo_content_dir, exist_ok=True)
     os.makedirs(hugo_data_dir, exist_ok=True)
-    
+
     try:
-        # Initialize Spotify client
         sp = setup_spotify()
-        
-        # Fetch tracks
         tracks = get_saved_tracks(sp)
-        
-        # Create content files
+
         new_tracks_count = 0
+        error_count = 0
         for track in tracks:
-            if create_hugo_content(track, hugo_content_dir):
+            result = create_hugo_content(track, hugo_content_dir)
+            if result == "error":
+                error_count += 1
+            elif result == "created":
                 new_tracks_count += 1
                 logging.info(f"Created new track post: {track['title']}")
-                
-                # Write data file
-                logging.info(f"Writing data file for {track['title']}")
-                track_title = F"{track['added_at']} - {track['title']} - {track['artist']} - {track['album']}"
+
+                track_title = f"{track['added_at']} - {track['title']} - {track['artist']} - {track['album']}"
                 data_filename = os.path.join(hugo_data_dir, f"{slugify(track_title)}.yaml")
-                #check if file exists
                 if os.path.exists(data_filename):
                     logging.info(f"Data file already exists: {data_filename}")
                     continue
                 with open(data_filename, "w", encoding="utf-8") as f:
                     yaml.safe_dump(track, f, default_flow_style=False)
                     logging.info(f"Data file created: {data_filename}")
-                
-                
+
         logging.info(f"Successfully processed {len(tracks)} tracks")
         logging.info(f"Created {new_tracks_count} new track posts")
-        
+        if error_count:
+            logging.error(f"Failed to create {error_count} track posts")
+        # A lone bad item must not block the cron from landing the good ones;
+        # red only when every attempted item failed.
+        if error_count and not new_tracks_count:
+            return 1
+        return 0
+
     except Exception as e:
         logging.error(f"Script failed: {e}")
+        return 1
 
 if __name__ == "__main__":
-    main()
+    import sys
+    sys.exit(main())

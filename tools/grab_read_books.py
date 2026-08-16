@@ -511,7 +511,7 @@ def create_post_metadata(book_data, book, summary, asin, author):
 def main():
     """
     Main function to process books from Goodreads API and generate Hugo blog posts.
-    Now uses frontmatter library for post creation.
+    Returns 0 on success, 1 on run-level failure.
     """
     logging.info("Starting main processing")
 
@@ -527,15 +527,21 @@ def main():
         books = get_goodreads_books(limit=15)
     except Exception as e:
         logging.error(f"Failed to get books from Goodreads: {str(e)}")
-        raise
+        return 1
 
     for book in books:
         logging.debug(f"Processing book: {book['title']}")
-  
-        
-        # date = datetime.fromisoformat(book['date'])\
-        date_pattern = "%Y-%m-%dT%H:%M:%S%z"
-        datetime_object = datetime.datetime.strptime(book['date'], date_pattern)
+
+        date_raw = book.get('date', '')
+        if not date_raw:
+            logging.warning(f"Skipping book with empty date: {book.get('title', '?')}")
+            continue
+        try:
+            date_pattern = "%Y-%m-%dT%H:%M:%S%z"
+            datetime_object = datetime.datetime.strptime(date_raw, date_pattern)
+        except ValueError:
+            logging.warning(f"Skipping book with unparseable date '{date_raw}': {book.get('title', '?')}")
+            continue
         date_str = datetime_object.strftime("%Y-%m-%d")
         
         content_filename = f"{date_str} {book['title']}"
@@ -620,6 +626,8 @@ def main():
                     logging.error(f"Failed downloading image for {book['title']}: {str(e)}")
 
     logging.info("Main processing completed")
+    return 0
 
 if __name__ == "__main__":
-    main()
+    import sys
+    sys.exit(main())

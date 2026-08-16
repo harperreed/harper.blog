@@ -239,6 +239,14 @@
 - id: reread-in
   translation: "{{ . }}에 재독:"
 
+# Spotify embed
+- id: spotify-player-title
+  translation: "Spotify 플레이어"
+
+# Kudos button
+- id: kudos-aria
+  translation: "이 게시물에 칭찬 보내기"
+
 # Post count shortcode
 - id: postcount-summary
   translation: "%d개 ~ %s"

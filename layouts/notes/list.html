@@ -1,5 +1,6 @@
 {{ define "main" }}
 <article>
+    <h1 class="sr-only">{{ .Title }}</h1>
     {{ .Content }} {{ if .Data.Singular }}
     <p class="filter-notice">{{ i18n "filtering-for" }} "{{ .Title }}"</p>
     {{ end }}
@@ -20,12 +21,13 @@
                     {{ time.Format ":date_medium" .Date }}
                 </time>
                  <a href="{{ .RelPermalink }}" title="{{ i18n "permalink-note-title" }}">#</a>
-                 <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
+                 <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}" aria-label="{{ i18n "kudos-aria" }}"></button>
             </header>
             {{ if .Params.text }} {{ .Params.text | markdownify }} {{ else }} {{
             .Content }} 
             {{ end }} 
             {{ $noteLink := .RelPermalink }}
+            {{ $noteTitle := .Title }}
             {{ with .Resources.ByType "image" }}
             <div class="note-images">
                 {{ range . }}
@@ -33,7 +35,7 @@
                 <a href="{{ $noteLink }}">
                     <img
                         src="{{ $thumbnail.RelPermalink }}"
-                        alt="{{ .Title }}"
+                        alt="{{ $noteTitle }}"
                         loading="lazy"
                         width="{{ $thumbnail.Width }}"
                         height="{{ $thumbnail.Height }}"

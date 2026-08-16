@@ -6,7 +6,7 @@
     {{ .Content }} {{- with .Resources.ByType "image" }}
     <div class="note-images" aria-label="{{ i18n "note-images-aria" | default "Note images" }}">
         {{- range . }}
-        <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
+        <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" />
         {{- end }}
     </div>
     {{- end }}
@@ -17,7 +17,7 @@
     </time> &middot;
     {{ with .Params.author }}{{.}} &middot;{{ end }}
 
-    <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
+    <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}" aria-label="{{ i18n "kudos-aria" }}"></button>
 </p>
 {{ partialCached "tags.html" . .Title }}
 {{ partialCached "comments.html" . .Title }}
