@@ -65,14 +65,15 @@ a:visited {
     align-items: center;
 }
 
-.title h1 {
-    font-size: var(--title-font-size);
-    /* margin: 19.92px 0 19.92px 0; */
-}
-
+/* Masthead site title: h1 on the home page, span elsewhere (single h1 per
+   page). Both must render identically, so state the h1's inherited look
+   (bold, primary color, 0.67em UA margins) explicitly for both. */
+.title h1,
 .title span {
     font-size: var(--title-font-size);
-    font-weight: 400;
+    font-weight: bold;
+    color: var(--color-primary);
+    margin-block: 0.67em;
 }
 
 .avatar {
