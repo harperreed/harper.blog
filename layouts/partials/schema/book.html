@@ -18,10 +18,10 @@
   {{- $book = merge $book (dict "isbn" .) -}}
 {{- end -}}
 
-{{- /* asin doubles as the product identifier when no isbn exists */}}
+{{- /* asin identifies the book when no isbn exists; productID belongs to Product, so Book takes identifier/PropertyValue */}}
 {{- with .Params.asin -}}
   {{- if not (index $book "isbn") -}}
-    {{- $book = merge $book (dict "productID" (printf "asin:%s" .)) -}}
+    {{- $book = merge $book (dict "identifier" (dict "@type" "PropertyValue" "propertyID" "ASIN" "value" .)) -}}
   {{- end -}}
   {{- $coverURL := printf "https://images-na.ssl-images-amazon.com/images/P/%s.01._SCLZZZZZZZ.jpg" . -}}
   {{- $book = merge $book (dict "image" $coverURL) -}}
@@ -48,7 +48,7 @@
   {{- end -}}
 {{- end -}}
 
-{{- /* goodreads_work_id maps to a sameAs URL for the work */}}
+{{- /* goodreads_link maps to a sameAs URL for the work */}}
 {{- with .Params.goodreads_link -}}
   {{- $book = merge $book (dict "sameAs" .) -}}
 {{- end -}}

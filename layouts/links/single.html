@@ -21,6 +21,7 @@
 </p>
 
 <nav>
-    <a href="/links" aria-label="{{ i18n "back-to-links" | default "Back to the current links" }}">{{ i18n "back-to-links" | default "Back to the current links" }}</a>
+    {{- /* .Parent is the links section page, so this follows the url: param in its _index.md */}}
+    <a href="{{ .Parent.RelPermalink }}" aria-label="{{ i18n "back-to-links" | default "Back to the current links" }}">{{ i18n "back-to-links" | default "Back to the current links" }}</a>
 </nav>
 {{ end }}

@@ -14,4 +14,4 @@ menu:
 
 ### My name is Harper Reed, and this is my blog. If you want to know more about me, visit my website: [harper.lol](https://harper.lol).
 
-Here you will find longer form [blog posts](/posts), some short form [notes](/notes), and occasionally some [links](/links) I find interesting. You can find out what I am up to [Now](/now) and you can subscribe to my [RSS feed](/index.xml).
+Here you will find longer form [blog posts](/posts), some short form [notes](/notes), and occasionally some [links](/media/links) I find interesting. You can find out what I am up to [Now](/now) and you can subscribe to my [RSS feed](/index.xml).
