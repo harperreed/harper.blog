@@ -4,7 +4,8 @@
 {{- $postDate := .Date -}}
 {{- $startDate := $postDate.AddDate -5 0 0 -}}
 {{- $endDate := $postDate.AddDate 5 0 0 -}}
-{{- $allRelated := .Site.RegularPages.Related . -}}
+{{- /* Candidates are blog posts only — links/books/music/notes share tags and would crowd out actual posts */ -}}
+{{- $allRelated := (where .Site.RegularPages "Section" "post").Related . -}}
 {{- $related := where (where $allRelated ".Date" "ge" $startDate) ".Date" "le" $endDate | first 5 -}}
 {{- with $related -}}
 <aside class="related-posts" aria-label="{{ i18n "related-posts" }}">
