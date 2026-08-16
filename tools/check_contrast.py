@@ -77,7 +77,8 @@ def ratio(c1, c2):
 def mix(c1, c2, w1):
     """color-mix in srgb: gamma-space channel interpolation."""
     a, b = hex_to_rgb(c1), hex_to_rgb(c2)
-    return "#%02x%02x%02x" % tuple(round(w1 * x + (1 - w1) * y) for x, y in zip(a, b))
+    mixed = tuple(round(w1 * x + (1 - w1) * y) for x, y in zip(a, b, strict=True))
+    return "#{:02x}{:02x}{:02x}".format(*mixed)
 
 
 def main():
@@ -118,6 +119,7 @@ def main():
         return {**root_light, **root_dark, **t["light"], **t["dark"]}
 
     fails = []
+    unresolved = []
     checked = 0
     for name in ["(default)"] + sorted(themes):
         for mode in ("light", "dark"):
@@ -140,19 +142,26 @@ def main():
                 try:
                     r = ratio(fg, b)
                 except ValueError:
-                    continue  # non-hex value (var() indirection etc.)
+                    # non-hex value (var() indirection etc.) — can't verify, so fail loudly
+                    unresolved.append((name, mode, pair, fg, b))
+                    continue
                 if r < THRESHOLD:
                     fails.append((name, mode, pair, fg, b, round(r, 2)))
 
     n_palettes = 1 + len(themes)
     print(f"Swept {n_palettes} palettes x 2 modes = {checked} pairs "
           f"(muted mix {int(mix_ratio * 100)}%)")
-    if not fails:
+    if unresolved:
+        print(f"{len(unresolved)} UNRESOLVED pairs (non-hex values the checker can't verify):")
+        for t, m, p, fg, bg in unresolved:
+            print(f"         {t:<12} {m:<5} {p:<24} fg={fg} bg={bg}")
+    if not fails and not unresolved:
         print(f"contrast clean: all pairs >= {THRESHOLD}:1")
         return 0
-    print(f"{len(fails)} FAILURES (<{THRESHOLD}:1):")
-    for t, m, p, fg, bg, r in sorted(fails, key=lambda x: x[5]):
-        print(f"  {r:>5}  {t:<12} {m:<5} {p:<24} fg={fg} bg={bg}")
+    if fails:
+        print(f"{len(fails)} FAILURES (<{THRESHOLD}:1):")
+        for t, m, p, fg, bg, r in sorted(fails, key=lambda x: x[5]):
+            print(f"  {r:>5}  {t:<12} {m:<5} {p:<24} fg={fg} bg={bg}")
     return 1
 
 

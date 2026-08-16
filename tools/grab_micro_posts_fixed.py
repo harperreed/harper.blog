@@ -1,19 +1,21 @@
+import hashlib
 import html
-import requests
+import json
+import logging
 import os
 import re
-import hashlib
-import json
 import tempfile
 from datetime import datetime
-from bs4 import BeautifulSoup
 from functools import lru_cache
-import html2text
-import frontmatter
-from slugify import slugify
 from urllib.parse import urlparse, urljoin
+
+import frontmatter
+import html2text
+import requests
+from bs4 import BeautifulSoup
 from dotenv import load_dotenv
-import logging
+from slugify import slugify
+
 from note_utils import normalize_content, generate_content_hash, get_note_id_from_title
 
 # Load environment variables from .env file if it exists

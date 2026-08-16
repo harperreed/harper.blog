@@ -84,12 +84,14 @@ def test_starred_links_title_escaped_in_body():
 
 
 # ---------------------------------------------------------------------------
-# C2d — grab_spotify_saved_tracks: content via frontmatter.Post, not f-string
+# C2d — grab_spotify_saved_tracks: production create_hugo_content escapes body
 # ---------------------------------------------------------------------------
 
-def test_spotify_content_uses_frontmatter_post():
-    """Spotify track content should be built via frontmatter.Post, not raw f-string."""
-    # Simulate what the fixed code does
+def test_spotify_create_hugo_content_escapes_body(tmp_path):
+    """The production writer must escape artist/album in the markdown body
+    while keeping raw values in the YAML metadata."""
+    import grab_spotify_saved_tracks
+
     track = {
         "id": "abc123",
         "title": 'Track "Quoted" & <Special>',
@@ -101,18 +103,22 @@ def test_spotify_content_uses_frontmatter_post():
         "duration_ms": 200000,
         "album_image": None,
     }
-    post = frontmatter.Post("")
-    post["title"] = track["title"]
-    post["artist"] = track["artist"]
-    post["album"] = track["album"]
-    # Content built safely (not via unescaped f-string injected into frontmatter)
-    post.content = f"## {html.escape(track['artist'])} on the album {html.escape(track['album'])}"
+    result = grab_spotify_saved_tracks.create_hugo_content(track, str(tmp_path))
+    assert result == "created"
 
-    dumped = frontmatter.dumps(post)
-    parsed = frontmatter.loads(dumped)
-    # Metadata fields are YAML-serialized so & and < are fine in values
+    files = list(tmp_path.glob("*.md"))
+    assert len(files) == 1
+    parsed = frontmatter.loads(files[0].read_text(encoding="utf-8"))
+    # Body is rendered by goldmark (unsafe=true): angle brackets must be escaped
+    assert "<One>" not in parsed.content
+    assert "Album &lt;One&gt;" in parsed.content
+    assert "Artist &amp; Co." in parsed.content
+    # Metadata is YAML-serialized, so raw values are safe and must be preserved
     assert parsed["artist"] == track["artist"]
     assert parsed["album"] == track["album"]
+
+    # Idempotent: a second run skips the existing file
+    assert grab_spotify_saved_tracks.create_hugo_content(track, str(tmp_path)) == "skipped"
 
 
 # ---------------------------------------------------------------------------
@@ -182,28 +188,55 @@ def test_books_main_returns_nonzero_on_api_failure(monkeypatch):
 # C3b — spotify try/except restored
 # ---------------------------------------------------------------------------
 
-def test_spotify_create_hugo_content_returns_false_on_error(monkeypatch, tmp_path):
-    """create_hugo_content must catch errors and return False, not raise."""
-    import grab_spotify_saved_tracks
-
-    track = {
-        "id": "x",
-        "title": "T",
+def _spotify_track(n):
+    return {
+        "id": f"id{n}",
+        "title": f"Track {n}",
         "artist": "A",
         "album": "B",
         "added_at": "2024-01-01T00:00:00Z",
-        "spotify_url": "https://open.spotify.com/track/x",
+        "spotify_url": f"https://open.spotify.com/track/{n}",
         "preview_url": None,
         "duration_ms": 1000,
         "album_image": None,
     }
 
+
+def test_spotify_create_hugo_content_returns_error_on_exception(monkeypatch, tmp_path):
+    """create_hugo_content must catch errors and return "error", not raise."""
+    import grab_spotify_saved_tracks
+
     # Make generate_unique_slug blow up to exercise the except path
     def bad_slug(*a):
         raise RuntimeError("boom")
     monkeypatch.setattr(grab_spotify_saved_tracks, "generate_unique_slug", bad_slug)
-    result = grab_spotify_saved_tracks.create_hugo_content(track, str(tmp_path))
-    assert result is False
+    result = grab_spotify_saved_tracks.create_hugo_content(_spotify_track(1), str(tmp_path))
+    assert result == "error"
+
+
+def test_spotify_main_red_when_every_attempted_item_fails(monkeypatch, tmp_path):
+    """main() must return 1 when every non-skipped item errors."""
+    import grab_spotify_saved_tracks as g
+
+    monkeypatch.setenv("MUSIC_HUGO_CONTENT_DIR", str(tmp_path / "content"))
+    monkeypatch.setenv("MUSIC_HUGO_DATA_DIR", str(tmp_path / "data"))
+    monkeypatch.setattr(g, "setup_spotify", lambda: None)
+    monkeypatch.setattr(g, "get_saved_tracks", lambda sp: [_spotify_track(1), _spotify_track(2)])
+    monkeypatch.setattr(g, "create_hugo_content", lambda t, d: "error")
+    assert g.main() == 1
+
+
+def test_spotify_main_green_when_some_items_land(monkeypatch, tmp_path):
+    """A lone bad feed item must not fail the run when other items land."""
+    import grab_spotify_saved_tracks as g
+
+    monkeypatch.setenv("MUSIC_HUGO_CONTENT_DIR", str(tmp_path / "content"))
+    monkeypatch.setenv("MUSIC_HUGO_DATA_DIR", str(tmp_path / "data"))
+    monkeypatch.setattr(g, "setup_spotify", lambda: None)
+    monkeypatch.setattr(g, "get_saved_tracks", lambda sp: [_spotify_track(1), _spotify_track(2)])
+    results = iter(["created", "error"])
+    monkeypatch.setattr(g, "create_hugo_content", lambda t, d: next(results))
+    assert g.main() == 0
 
 
 # ---------------------------------------------------------------------------

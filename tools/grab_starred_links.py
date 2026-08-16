@@ -66,20 +66,24 @@ def generate_unique_slug(title, date_str, url):
     return f"{date_str}-{base_slug}-{url_hash}"
 
 def create_hugo_post(entry):
+    """Create a Hugo markdown file for a feed entry.
+
+    Returns "created", "skipped" (already exists), or "error".
+    """
     try:
         title = entry.title
         date = entry.get('published', entry.get('updated', datetime.now().isoformat()))
         url = entry.link
         if not title or not date or not url:
             logging.warning(f"Skipping invalid entry: {title}, {url}")
-            return False
-        
+            return "error"
+
         slug = generate_unique_slug(title, date, url)
         file_path = os.path.join(HUGO_CONTENT_DIR, f"{slug}.md")
-        
+
         if os.path.exists(file_path):
             logging.info(f"Skipping existing entry: {title}")
-            return False
+            return "skipped"
         else:
             logging.info(f"Creating post for: {title}, {url}")
 
@@ -112,14 +116,14 @@ def create_hugo_post(entry):
             with open(file_path, 'w', encoding='utf-8') as f:
                 f.write(frontmatter.dumps(post))
             logging.info(f"Created post: {file_path}")
-            return True
+            return "created"
         except Exception as e:
             logging.error(f"Error writing post to file '{file_path}': {e}")
-            return False
- 
+            return "error"
+
     except Exception as e:
         logging.error(f"Error creating post for '{title}': {e}")
-        return False
+        return "error"
 
 def get_tags_summary(title, content):
     logging.debug(f"Getting tags for title: {title[:100]}...")
@@ -230,17 +234,24 @@ def main():
             return 1
 
         new_entries_count = 0
-        failed_count = 0
+        error_count = 0
         for entry in feed.entries:
             try:
-                if create_hugo_post(entry):
-                    new_entries_count += 1
+                result = create_hugo_post(entry)
             except Exception as e:
                 logging.error(f"Unexpected error processing entry: {e}")
-                failed_count += 1
+                result = "error"
+            if result == "created":
+                new_entries_count += 1
+            elif result == "error":
+                error_count += 1
 
         logging.info(f"Processed {new_entries_count} new entries")
-        if failed_count and not new_entries_count and not (len(feed.entries) - failed_count):
+        if error_count:
+            logging.error(f"Failed to process {error_count} entries")
+        # A lone bad item must not block the cron from landing the good ones;
+        # red only when every attempted item failed.
+        if error_count and not new_entries_count:
             return 1
         return 0
     except Exception as e:

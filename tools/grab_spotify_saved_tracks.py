@@ -111,14 +111,17 @@ def generate_unique_slug(title, date_str, url):
     return f"{date_str}-{base_slug}-{url_hash}"
 
 def create_hugo_content(track, output_dir):
-    """Create a Hugo markdown file for a track."""
+    """Create a Hugo markdown file for a track.
+
+    Returns "created", "skipped" (already exists), or "error".
+    """
     try:
         slug = generate_unique_slug(track['title'], track['added_at'], track['spotify_url'])
         file_path = os.path.join(output_dir, f"{slug}.md")
 
         if os.path.exists(file_path):
             logging.info(f"Track already exists: {file_path}")
-            return False
+            return "skipped"
 
         date = datetime.fromisoformat(track['added_at'].replace('Z', '+00:00'))
         # Metadata values are YAML-serialized so special chars are safe there.
@@ -150,11 +153,11 @@ def create_hugo_content(track, output_dir):
             f.write(frontmatter.dumps(post))
 
         logging.info(f"Created new track post: {file_path}")
-        return True
+        return "created"
 
     except Exception as e:
         logging.error(f"Error creating post for '{track.get('title', '?')}': {e}")
-        return False
+        return "error"
 
 def main():
     """Main function to orchestrate the script. Returns 0 on success, 1 on failure."""
@@ -169,8 +172,12 @@ def main():
         tracks = get_saved_tracks(sp)
 
         new_tracks_count = 0
+        error_count = 0
         for track in tracks:
-            if create_hugo_content(track, hugo_content_dir):
+            result = create_hugo_content(track, hugo_content_dir)
+            if result == "error":
+                error_count += 1
+            elif result == "created":
                 new_tracks_count += 1
                 logging.info(f"Created new track post: {track['title']}")
 
@@ -185,6 +192,12 @@ def main():
 
         logging.info(f"Successfully processed {len(tracks)} tracks")
         logging.info(f"Created {new_tracks_count} new track posts")
+        if error_count:
+            logging.error(f"Failed to create {error_count} track posts")
+        # A lone bad item must not block the cron from landing the good ones;
+        # red only when every attempted item failed.
+        if error_count and not new_tracks_count:
+            return 1
         return 0
 
     except Exception as e:
