@@ -37,6 +37,7 @@ Hard-won facts about working on harper.blog. Add yours; keep entries short.
 - Headless Chrome hangs from agent shells — don't use it for layout checks. Verify via the served CSS bundle + arithmetic + Harper's eyes on the tailscale HTTPS preview (`tailscale serve` proxying to a localhost hugo).
 - `~/workspace` symlinks to `~/Public/src` — same repo behind both paths, not two clones.
 - `hugo --quiet` swallows `warnf` output. When debugging templates with `warnf`, build without `--quiet` or the probe looks like it never ran.
+- The dev server's `partialCached` output survives incremental rebuilds AND template touches: a frontmatter change that alters a cached partial's output (e.g. setting `bsky:` on a post — comments.html is cached by `.Title`) won't show on the preview until the server restarts. Fresh one-shot builds are correct; restart the server before declaring a cached partial broken.
 
 ## Multilingual
 
