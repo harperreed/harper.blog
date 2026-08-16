@@ -133,8 +133,12 @@ def main():
                 ("link-hover", v["color-link-hover"], bg),
                 ("input(primary/tertiary)", v["color-primary"], v["color-tertiary"]),
                 ("code", v["color-code-fg"], v["color-code-bg"]),
-                ("muted-colormix", mix(txt, bg, mix_ratio), bg),
             ]
+            try:
+                pairs.append(("muted-colormix", mix(txt, bg, mix_ratio), bg))
+            except ValueError:
+                # mix() needs hex inputs; report like any unresolvable pair
+                unresolved.append((name, mode, "muted-colormix", txt, bg))
             if "color-muted" in v:
                 pairs.append(("muted-explicit", v["color-muted"], bg))
             for pair, fg, b in pairs:
@@ -142,7 +146,8 @@ def main():
                 try:
                     r = ratio(fg, b)
                 except ValueError:
-                    # non-hex value (var() indirection etc.) — can't verify, so fail loudly
+                    # non-hex value (var() indirection etc.) —
+                    # can't verify, so fail loudly
                     unresolved.append((name, mode, pair, fg, b))
                     continue
                 if r < THRESHOLD:

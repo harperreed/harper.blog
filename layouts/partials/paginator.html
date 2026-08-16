@@ -3,15 +3,21 @@
 {{- $pager := "" -}}
 {{- if eq .Kind "section" -}}
   {{- $size := 20 -}}
-  {{- $coll := "" -}}
+  {{- $coll := slice -}}
+  {{- $paginates := false -}}
   {{- if eq .Section "media" -}}
     {{- /* Media content lives on the default (en) site only; translated pages must reach across */ -}}
     {{- $media := where hugo.Sites.Default.RegularPages "Section" "in" (slice "books" "music" "links") -}}
     {{- $coll = (where $media "Params.nofeed" "ne" true).ByDate.Reverse -}}
+    {{- $paginates = true -}}
   {{- else if in (slice "books" "links" "music") .Section -}}
     {{- /* These sections live on the default (en) site only; .Pages would be empty on translated sites */ -}}
     {{- $pages := where hugo.Sites.Default.RegularPages "Section" .Section -}}
     {{- $coll = where $pages "Params.nofeed" "ne" true -}}
+    {{- if eq .Section "links" -}}
+      {{- $size = .Param "links_pagination" | default 20 -}}
+    {{- end -}}
+    {{- $paginates = true -}}
   {{- else if eq .Section "notes" -}}
     {{- $pages := .Pages -}}
     {{- if not $pages -}}
@@ -19,9 +25,11 @@
     {{- end -}}
     {{- $coll = $pages -}}
     {{- $size = .Param "notes_pagination" | default 10 -}}
+    {{- $paginates = true -}}
   {{- end -}}
-  {{- with $coll -}}
-    {{- $pager = $.Paginate . $size -}}
+  {{- if $paginates -}}
+    {{- /* Paginate even when the collection is empty — an empty paginator keeps $paginator.Pages valid in list templates ("with" would skip an empty slice and return "") */ -}}
+    {{- $pager = $.Paginate $coll $size -}}
   {{- end -}}
 {{- end -}}
 {{- return $pager -}}

@@ -21,7 +21,7 @@
         {{- partial "head/seo-meta-description.html" . -}}
         {{- partial "head/seo-canonical.html" . -}}
         {{- partial "head/seo-hreflang.html" . -}}
-        {{- if eq .Data.Singular "category" }}{{/* /categories/ has no real content */}}
+        {{- if and (eq .Kind "taxonomy") (eq .Data.Singular "category") }}{{/* the /categories/ listing has no real content; term pages stay indexable */}}
         <meta name="robots" content="noindex" />
         {{- end -}}
 
