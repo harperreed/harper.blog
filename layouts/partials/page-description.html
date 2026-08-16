@@ -1,0 +1,12 @@
+{{/* ABOUTME: Returns a cleaned, plain-text description for meta tags. */}}
+{{/* ABOUTME: Shared by seo-meta-description.html and social_card.html. */}}
+
+{{- $description := "" -}}
+{{- if .Description -}}
+  {{- $description = .Description | plainify | replaceRE `\s+` " " | strings.TrimSpace | truncate 160 -}}
+{{- else if .IsPage -}}
+  {{- $description = .Summary | plainify | replaceRE `\s+` " " | strings.TrimSpace | truncate 160 -}}
+{{- else -}}
+  {{- $description = .Site.Params.description | default "" -}}
+{{- end -}}
+{{- return $description -}}

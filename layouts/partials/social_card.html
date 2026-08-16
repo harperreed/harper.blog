@@ -1,14 +1,18 @@
 
 {{- $card := partialCached "get-featured-image.html" . .Title}}
+{{- $description := partial "page-description.html" . -}}
 
 <!-- Open Graph / Facebook -->
 <!-- Source: https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/opengraph.html -->
-<meta property="og:title" content="{{ .Title }}" />
-<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
+{{- $ogTitle := cond .IsHome .Site.Title .Title }}
+<meta property="og:title" content="{{ $ogTitle }}" />
+<meta property="og:description" content="{{ $description }}" />
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 
 <meta property="og:image" content="{{ $card.Permalink | absURL }}"/>
+<meta property="og:image:width" content="{{ $card.Width }}" />
+<meta property="og:image:height" content="{{ $card.Height }}" />
 
 {{- if .IsPage }}
 {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
@@ -18,21 +22,23 @@
 {{- end -}}
 
 {{- with .Params.audio }}<meta property="og:audio" content="{{ . }}" />{{ end }}
-{{- with .Params.locale }}<meta property="og:locale" content="{{ . }}" />{{ end }}
+{{/* og:locale from the site language config; convert "en-US" → "en_US" */}}
+{{- with .Site.Language.Params.locale | default .Site.Language.Locale }}
+<meta property="og:locale" content="{{ replace . "-" "_" }}" />
+{{- end }}
 {{- with .Site.Params.title }}<meta property="og:site_name" content="{{ . }}" />{{ end }}
+{{/* og:video only on pages that declare a video param or resource */}}
 {{- with .Params.videos }}
     {{- range . }}
-        {{ $video = resources.Get . | resources.Fingerprint "sha512" }}
+        {{ $video := resources.Get . | resources.Fingerprint "sha512" }}
         <meta property="og:video" content="{{ $video.Permalink | absURL }}" />
-
     {{ end }}
-{{else}}
-    {{ $video := resources.Get "/videos/og.mp4" | resources.Fingerprint "sha512" }}
-    <meta property="og:video" content="{{ $video.Permalink | absURL }}" />
+{{- else }}
+  {{- with .Resources.GetMatch "*.mp4" }}
+    <meta property="og:video" content="{{ .Permalink | absURL }}" />
     <meta property="og:video:type" content="video/mp4" />
-    <meta property="og:video:width" content="{{ .Site.Params.ogVideoWidth | default "1200" }}" />
-    <meta property="og:video:height" content="{{ .Site.Params.ogVideoHeight | default "600" }}" />
-{{ end }}
+  {{- end }}
+{{- end }}
 
 {{- /* If it is part of a series, link to related articles */}}
 {{- $permalink := .Permalink }}
@@ -46,16 +52,11 @@
 {{ end }}{{ end }}
 {{- end }}
 
-{{- /* Deprecate site.Social.facebook_admin in favor of site.Params.social.facebook_admin */}}
+{{- /* Lookup facebook_admin from the [[social]] array in params.toml */}}
 {{- $facebookAdmin := "" }}
-{{- with site.Params.social }}
-  {{- if reflect.IsMap . }}
-    {{- $facebookAdmin = .facebook_admin }}
-  {{- end }}
-{{- else }}
-  {{- with site.Social.facebook_admin }}
+{{- range site.Params.social }}
+  {{- with .facebook_admin }}
     {{- $facebookAdmin = . }}
-    {{- warnf "The social key in site configuration is deprecated. Use params.social.facebook_admin instead." }}
   {{- end }}
 {{- end }}
 
@@ -66,19 +67,14 @@
 <!-- Source: https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/twitter_cards.html -->
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="{{ $card.Permalink | absURL }}"/>
-<meta name="twitter:title" content="{{ .Title }}"/>
-<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}"/>
+<meta name="twitter:title" content="{{ $ogTitle }}"/>
+<meta name="twitter:description" content="{{ $description }}"/>
 
-{{- /* Deprecate site.Social.twitter in favor of site.Params.social.twitter */}}
+{{- /* Lookup twitter/x handle from the [[social]] array in params.toml */}}
 {{- $twitterSite := "" }}
-{{- with site.Params.social }}
-  {{- if reflect.IsMap . }}
-    {{- $twitterSite = .twitter }}
-  {{- end }}
-{{- else }}
-  {{- with site.Social.twitter }}
+{{- range site.Params.social }}
+  {{- with .twitter }}
     {{- $twitterSite = . }}
-    {{- warnf "The social key in site configuration is deprecated. Use params.social.twitter instead." }}
   {{- end }}
 {{- end }}
 
@@ -92,8 +88,8 @@
 
 <!-- Microdata -->
 <!-- Source: https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/schema.html -->
-<meta itemprop="name" content="{{ .Title }}">
-<meta itemprop="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+<meta itemprop="name" content="{{ $ogTitle }}">
+<meta itemprop="description" content="{{ $description }}">
 
 {{- if .IsPage -}}
 {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}

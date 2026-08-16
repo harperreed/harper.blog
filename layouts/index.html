@@ -1,3 +1,6 @@
+{{/* On the homepage the <title> should just be the site title, not "Home | Site" */}}
+{{ define "title" }}{{ .Site.Title }}{{ end }}
+
 {{ define "main" }} {{ .Content }}
 
 {{ $notes := first 5 (where .Site.RegularPages "Section" "post") }} 
