@@ -1,0 +1,27 @@
+{{- /* ABOUTME: Single source of truth for list pagination — returns the page's paginator, or "" for pages that don't paginate. */ -}}
+{{- /* ABOUTME: Called by BOTH head/seo-canonical.html (self-canonical on pager pages) and each list template; Hugo returns the same paginator for repeat calls, so the collection/size must live only here. */ -}}
+{{- $pager := "" -}}
+{{- if eq .Kind "section" -}}
+  {{- $size := 20 -}}
+  {{- $coll := "" -}}
+  {{- if eq .Section "media" -}}
+    {{- /* Media content lives on the default (en) site only; translated pages must reach across */ -}}
+    {{- $media := where hugo.Sites.Default.RegularPages "Section" "in" (slice "books" "music" "links") -}}
+    {{- $coll = (where $media "Params.nofeed" "ne" true).ByDate.Reverse -}}
+  {{- else if in (slice "books" "links" "music") .Section -}}
+    {{- /* These sections live on the default (en) site only; .Pages would be empty on translated sites */ -}}
+    {{- $pages := where hugo.Sites.Default.RegularPages "Section" .Section -}}
+    {{- $coll = where $pages "Params.nofeed" "ne" true -}}
+  {{- else if eq .Section "notes" -}}
+    {{- $pages := .Pages -}}
+    {{- if not $pages -}}
+      {{- $pages = where hugo.Sites.Default.RegularPages "Section" "notes" -}}
+    {{- end -}}
+    {{- $coll = $pages -}}
+    {{- $size = .Param "notes_pagination" | default 10 -}}
+  {{- end -}}
+  {{- with $coll -}}
+    {{- $pager = $.Paginate . $size -}}
+  {{- end -}}
+{{- end -}}
+{{- return $pager -}}
