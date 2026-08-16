@@ -1,3 +1,4 @@
+import html
 import os
 import feedparser
 from datetime import datetime
@@ -21,7 +22,7 @@ load_dotenv()
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Configuration
-CACHE_DIRECTORY = "./script_cache"
+CACHE_DIRECTORY = ".script_cache"
 CACHE_TIMEOUT = 86400  # 24 hours
 RSS_URL = os.getenv('LINKS_RSS_URL')
 HUGO_CONTENT_DIR = os.getenv('LINKS_HUGO_CONTENT_DIR')
@@ -90,8 +91,10 @@ def create_hugo_post(entry):
             tags = Tags(tags=[], summary=None)
     
         
-        # Create a new Post object with the title as the content
-        post = frontmatter.Post(title)
+        # Escape feed-derived title before embedding as markdown content.
+        # links/single.html renders {{ .Content }} unescaped; angle brackets from
+        # a hostile feed item would otherwise become live HTML (goldmark unsafe=true).
+        post = frontmatter.Post(html.escape(title))
         
         # Add metadata to the front matter
         post.metadata['title'] = title
@@ -215,24 +218,35 @@ def scrape_url(url):
         return ""
 
 def main():
+    """Returns 0 on success, 1 on failure."""
     if not RSS_URL or not HUGO_CONTENT_DIR:
         logging.error("RSS_URL or HUGO_CONTENT_DIR not set in .env file")
-        return
+        return 1
 
     try:
         feed = fetch_rss_feed(RSS_URL)
         if not feed:
             logging.error("Failed to fetch RSS feed. Exiting.")
-            return
+            return 1
 
         new_entries_count = 0
+        failed_count = 0
         for entry in feed.entries:
-            if create_hugo_post(entry):
-                new_entries_count += 1
+            try:
+                if create_hugo_post(entry):
+                    new_entries_count += 1
+            except Exception as e:
+                logging.error(f"Unexpected error processing entry: {e}")
+                failed_count += 1
 
         logging.info(f"Processed {new_entries_count} new entries")
+        if failed_count and not new_entries_count and not (len(feed.entries) - failed_count):
+            return 1
+        return 0
     except Exception as e:
         logging.error(f"Unexpected error in main: {e}")
+        return 1
 
 if __name__ == "__main__":
-    main()
+    import sys
+    sys.exit(main())

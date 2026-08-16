@@ -31,6 +31,14 @@ Hard-won facts about working on harper.blog. Add yours; keep entries short.
 - `i18n` placeholders: a key called as `{{ i18n "key" arg }}` must use `{{ . }}` in its value; `%s`/`%d` values only work via `printf (i18n "key") args`. Mixing the styles renders blanks or `%!(EXTRA …)` garbage. `make check-i18n` catches parity/phantom/dead keys — run it after touching `layouts/` or `i18n/`.
 - Frontmatter `aliases:` on section `_index.*.md` pages with a `url:` override never emitted redirect stubs (dev server, full rebuilds included). URL moves go in `static/_redirects` (Netlify) instead — the `/id/*` and `/es/media/*/list/` entries are the pattern.
 
+## Python tools
+
+- `grab_starred_links.py` initializes `FirecrawlApp` and `OpenAI` at module level — importing it in tests without live credentials crashes. Test against source directly, not via import.
+- Registry writes in `grab_micro_posts_fixed.py` are atomic (temp + `os.replace`). `save_url_registry` and `save_content_registry` leave temp files prefixed with the registry filename if interrupted; safe to delete.
+- CI workflow caches `./tools/.script_cache` (dot-prefixed). Code must use `CACHE_DIRECTORY = ".script_cache"` — no dot was the old mismatch that meant every OpenAI call was a cache miss.
+- `grab_micro_posts_fixed.main()`, `grab_starred_links.main()`, `grab_spotify_saved_tracks.main()`, and `grab_read_books.main()` all return `int` and call `sys.exit(main())`. Per-item failures log and continue; run-level failures (auth, feed unreachable, all items failed) exit non-zero so GitHub Actions goes red.
+- `markup.toml` sets goldmark `unsafe = true` (old posts need raw HTML). Feed-ingestion tools must sanitize all feed-derived content that lands in markdown bodies — use `html.escape()` for text and `frontmatter.Post(content, **metadata)` (never `frontmatter.loads(feed_body)`) to prevent frontmatter injection.
+
 ## Content
 
 - The `content/post/*-2.md` files are mostly NOT duplicates. Of the original 21, only 3 were true same-date twins (deleted); the other 18 are real posts — titles reused years apart, or sole copies. Filename `-2` ≠ duplicate; check content before deleting.

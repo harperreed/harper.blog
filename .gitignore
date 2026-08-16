@@ -15,3 +15,6 @@ output.txt
 
 # tinylytics stats exports (huge; analyze locally, never commit)
 stats-*.csv
+
+# Spotify OAuth token cache — contains live credentials
+.spotify_cache

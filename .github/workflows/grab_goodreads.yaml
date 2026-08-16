@@ -7,7 +7,7 @@ on:
 
 # Add concurrency control
 concurrency:
-    group: spotify-tracks-${{ github.ref }}
+    group: goodreads-${{ github.ref }}
     cancel-in-progress: true
 
 jobs:
@@ -23,10 +23,10 @@ jobs:
             GOODREADS_REQUEST_TOKEN_SECRET: ${{ secrets.GOODREADS_REQUEST_TOKEN_SECRET }}
         steps:
             - name: Check out repository
-              uses: actions/checkout@v2
+              uses: actions/checkout@0717577d45739eb3c851188b29f50ed6c0b2194e # v2
 
             - name: Install the latest version of uv
-              uses: astral-sh/setup-uv@v3
+              uses: astral-sh/setup-uv@caf0cab7a618c569241d31dcd442f54681755d39 # v3
               with:
                   version: "latest"
                   enable-cache: true
@@ -39,5 +39,5 @@ jobs:
               run: |
                   git config --global user.name 'GitHub Action'
                   git config --global user.email 'action@github.com'
-                  git add -A
-                  git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update spotify tracks" && git push)
+                  git add content/books data/books
+                  git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update goodreads books" && git push)
