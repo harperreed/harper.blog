@@ -19,8 +19,7 @@ check-contrast:
 	cd tools && uv run check_contrast.py
 
 # Preview the site with production settings
-# Preview the site with production settings
-preview: 
+preview:
 	hugo server --disableFastRender --navigateToChanged --watch --forceSyncStatic -e production --minify
 
 # Development build with template metrics

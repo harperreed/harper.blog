@@ -89,6 +89,18 @@ for = "/*.webp"
 [headers.values]
 Cache-Control = "public, max-age=31536000, immutable"
 
+# Videos keep their filenames when replaced, so cache a week rather than immutable
+[[headers]]
+for = "/*.mp4"
+[headers.values]
+Cache-Control = "public, max-age=604800"
+
+# Feeds: cache matches the 10-minute content-automation cadence
+[[headers]]
+for = "/*.xml"
+[headers.values]
+Cache-Control = "public, max-age=600"
+
 [[headers]]
 for = "/"
 [headers.values]
