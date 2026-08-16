@@ -185,6 +185,19 @@
 - id: songs-count
   translation: "%d곡"
 
+- id: links-count
+  translation: "링크 %d개"
+
+# Media hub (/media/ page 1)
+- id: latest-read
+  translation: "최근 읽은 책"
+
+- id: recent-tracks
+  translation: "최근 들은 곡"
+
+- id: recent-links
+  translation: "최근 링크"
+
 # Additional accessibility
 - id: home-aria
   translation: "홈"

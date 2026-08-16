@@ -177,6 +177,19 @@
 - id: songs-count
   translation: "%d曲"
 
+- id: links-count
+  translation: "%d件のリンク"
+
+# Media hub (/media/ page 1)
+- id: latest-read
+  translation: "最近読んだ本"
+
+- id: recent-tracks
+  translation: "最近聴いた曲"
+
+- id: recent-links
+  translation: "最近のリンク"
+
 - id: home-aria
   translation: "ホーム"
 

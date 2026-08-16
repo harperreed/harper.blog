@@ -13,8 +13,11 @@
         {{- $event := "" }}
         {{- $context := "" }}
         {{- $class := "" }}
+        {{- $thumb := "" }}
+        {{- $glyph := "" }}
         {{- if eq .Section "links" }}
             {{- $class = "media-link" }}
+            {{- $glyph = "🔗" }}
             {{- with .Params.original_url }}
                 {{- $href = . }}
                 {{- $event = "outbound.link" }}
@@ -22,23 +25,35 @@
             {{- end }}
         {{- else if eq .Section "music" }}
             {{- $class = "media-music" }}
+            {{- $glyph = "🎵" }}
             {{- with .Params.artist }}{{ $context = printf (i18n "by-artist") . }}{{ end }}
             {{- with .Params.spotify_url }}
                 {{- $href = . }}
                 {{- $event = "outbound.spotify" }}
             {{- end }}
+            {{- /* Spotify serves the same art at 64px under the 4851 prefix; unknown URLs pass through full-size */}}
+            {{- with .Params.album_image }}{{ $thumb = replace . "ab67616d0000b273" "ab67616d00004851" }}{{ end }}
         {{- else if eq .Section "books" }}
             {{- $class = "media-book" }}
+            {{- $glyph = "📚" }}
             {{- with or .Params.book_author .Params.author }}{{ $context = printf (i18n "by-author") . }}{{ end }}
             {{- with .Params.asin }}
                 {{- $href = printf "https://www.amazon.com/dp/%s?tag=%s" (urlquery .) (urlquery site.Params.amazon_tag) }}
                 {{- $event = "outbound.amazon" }}
+                {{- $thumb = printf "https://images-na.ssl-images-amazon.com/images/P/%s.01._SL160_.jpg" . }}
             {{- end }}
         {{- end }}
         <a href="{{ $href }}" class="{{ $class }}"
             {{- if $event }} target="_blank" rel="noopener noreferrer" data-tinylytics-event="{{ $event }}" data-tinylytics-event-value="{{ .Title }}"{{ end }}>
-            <span class="media-title">{{ .Title }}</span>
-            {{- with $context }} <span class="media-domain">({{ . }})</span>{{ end }}
+            {{- with $thumb }}
+            <img src="{{ . }}" class="media-thumb" alt="" loading="lazy" decoding="async">
+            {{- else }}
+            <span class="media-thumb media-thumb-glyph" aria-hidden="true">{{ $glyph }}</span>
+            {{- end }}
+            <span class="media-text">
+                <span class="media-title">{{ .Title }}</span>
+                {{- with $context }} <span class="media-domain">({{ . }})</span>{{ end }}
+            </span>
         </a>
     </li>
     {{- end }}

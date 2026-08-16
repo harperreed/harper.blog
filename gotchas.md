@@ -51,6 +51,7 @@ Hard-won facts about working on harper.blog. Add yours; keep entries short.
 - Registry writes in `grab_micro_posts_fixed.py` are atomic (temp + `os.replace`). `save_url_registry` and `save_content_registry` leave temp files prefixed with the registry filename if interrupted; safe to delete.
 - CI workflow caches `./tools/.script_cache` (dot-prefixed). Code must use `CACHE_DIRECTORY = ".script_cache"` — no dot was the old mismatch that meant every OpenAI call was a cache miss.
 - `grab_micro_posts_fixed.main()`, `grab_starred_links.main()`, `grab_spotify_saved_tracks.main()`, and `grab_read_books.main()` all return `int` and call `sys.exit(main())`. Per-item failures log and continue; run-level failures (auth, feed unreachable, all items failed) exit non-zero so GitHub Actions goes red.
+- `grab_read_books.py` skips any book whose `index.md` exists — content unchecked. A zero-byte `index.md` (automation race mid-write) permanently blocks that book from re-fetching; delete the empty bundle dir and the daily run recreates it.
 - `markup.toml` sets goldmark `unsafe = true` (old posts need raw HTML). Feed-ingestion tools must sanitize all feed-derived content that lands in markdown bodies — use `html.escape()` for text and `frontmatter.Post(content, **metadata)` (never `frontmatter.loads(feed_body)`) to prevent frontmatter injection.
 
 ## Content

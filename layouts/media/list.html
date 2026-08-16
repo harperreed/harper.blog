@@ -1,11 +1,86 @@
 {{- /* ABOUTME: /media/ firehose — books, music, and links merged into one date-sorted stream. */}}
-{{- /* ABOUTME: Row rendering lives in partials/media-list.html, shared with each section's own list. */}}
+{{- /* ABOUTME: Page 1 opens with a hub band (latest read, recent tracks/links); rows render via partials/media-list.html. */}}
 {{ define "main" }}
 <article>
     <h1 class="sr-only">{{ .Title }}</h1>
     {{ .Content }}
     {{/* Collection and page size live in partials/paginator.html, shared with head/seo-canonical.html */}}
     {{ $paginator := partial "paginator.html" . }}
+    {{- if eq $paginator.PageNumber 1 }}
+    {{- /* Media content lives on the default (en) site only; translated pages must reach across */}}
+    {{- $all := where hugo.Sites.Default.RegularPages "Params.nofeed" "ne" true }}
+    {{- $books := (where $all "Section" "books").ByDate.Reverse }}
+    {{- $music := (where $all "Section" "music").ByDate.Reverse }}
+    {{- $links := (where $all "Section" "links").ByDate.Reverse }}
+    <div class="media-hub">
+        <section class="media-hub-block">
+            <h2 class="media-hub-heading">
+                <a href="{{ with .Site.GetPage "/books" }}{{ .RelPermalink }}{{ end }}"><span aria-hidden="true">📚 </span>{{ i18n "latest-read" }} <span class="group-count">· {{ printf (i18n "books-count") (len $books) }}</span></a>
+            </h2>
+            {{- with $books }}
+            {{- with index . 0 }}
+            <a href="{{ .RelPermalink }}" class="media-hub-book">
+                {{- with .Params.asin }}
+                <img src="https://images-na.ssl-images-amazon.com/images/P/{{ . }}.01._SCLZZZZZZZ.jpg" class="book-cover" alt="" decoding="async">
+                {{- else }}
+                <span class="book-cover book-cover-fallback" aria-hidden="true">📖</span>
+                {{- end }}
+                <span class="media-hub-book-meta">
+                    <span class="media-title">{{ .Title }}</span>
+                    {{- with or .Params.book_author .Params.author }}
+                    <span class="book-author">{{ printf (i18n "by-author") . }}</span>
+                    {{- end }}
+                    {{- $rating := int (default "0" .Params.review_rating) }}
+                    {{- if and (gt $rating 0) (le $rating 5) }}
+                    <span class="book-rating" role="img" aria-label="{{ $rating }}/5">{{ strings.Repeat $rating "★" }}{{ strings.Repeat (sub 5 $rating) "☆" }}</span>
+                    {{- end }}
+                    {{- with .Params.tagline }}
+                    <span class="media-hub-tagline">{{ . }}</span>
+                    {{- end }}
+                </span>
+            </a>
+            {{- end }}
+            {{- end }}
+        </section>
+        <section class="media-hub-block">
+            <h2 class="media-hub-heading">
+                <a href="{{ with .Site.GetPage "/music" }}{{ .RelPermalink }}{{ end }}"><span aria-hidden="true">🎵 </span>{{ i18n "recent-tracks" }} <span class="group-count">· {{ printf (i18n "songs-count") (len $music) }}</span></a>
+            </h2>
+            <div class="media-hub-tracks">
+                {{- range first 6 $music }}
+                <a href="{{ .RelPermalink }}" aria-label="{{ .Title }}{{ with .Params.artist }} — {{ . }}{{ end }}" title="{{ .Title }}{{ with .Params.artist }} — {{ . }}{{ end }}">
+                    {{- /* Spotify serves the same art at 300px under the 1e02 prefix; unknown URLs pass through full-size */}}
+                    {{- with .Params.album_image }}
+                    <img src="{{ replace . "ab67616d0000b273" "ab67616d00001e02" }}" class="album-art" alt="" loading="lazy" decoding="async">
+                    {{- else }}
+                    <span class="album-art album-art-fallback" aria-hidden="true">🎵</span>
+                    {{- end }}
+                </a>
+                {{- end }}
+            </div>
+        </section>
+        <section class="media-hub-block">
+            <h2 class="media-hub-heading">
+                <a href="{{ with .Site.GetPage "/links" }}{{ .RelPermalink }}{{ end }}"><span aria-hidden="true">🔗 </span>{{ i18n "recent-links" }} <span class="group-count">· {{ printf (i18n "links-count") (len $links) }}</span></a>
+            </h2>
+            <ul class="media-hub-links">
+                {{- range first 3 $links }}
+                {{- $link := . }}
+                <li>
+                    <a href="{{ or .Params.original_url .RelPermalink }}"
+                        {{- with .Params.original_url }} target="_blank" rel="noopener noreferrer" data-tinylytics-event="outbound.link" data-tinylytics-event-value="{{ $link.Title }}"{{ end }}>
+                        <span class="media-title">{{ .Title }}</span>
+                        {{- with .Params.original_url }} <span class="media-domain">({{ (urls.Parse .).Hostname }})</span>{{ end }}
+                    </a>
+                    {{- with .Params.summary }}
+                    <p class="media-hub-summary">{{ . }}</p>
+                    {{- end }}
+                </li>
+                {{- end }}
+            </ul>
+        </section>
+    </div>
+    {{- end }}
     {{ partial "media-list.html" $paginator.Pages }}
     {{ partial "pagination.html" . }}
 </article>

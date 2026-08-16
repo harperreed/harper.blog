@@ -1,18 +1,5 @@
-/* ABOUTME: Media section lists (/media/ and books/music/links): date-grouped rows with type markers. */
-/* ABOUTME: Markup comes from layouts/partials/media-list.html; grid pages style themselves in books.css/music.css. */
-
-/* The "/ ''" alt text keeps screen readers from announcing the emoji */
-.media-book::before {
-    content: "📚 " / "";
-}
-
-.media-music::before {
-    content: "🎵 " / "";
-}
-
-.media-link::before {
-    content: "🔗 " / "";
-}
+/* ABOUTME: Media section lists (/media/ and books/music/links): date-grouped rows with cover/art thumbs, plus the /media/ hub band. */
+/* ABOUTME: Markup comes from layouts/partials/media-list.html and layouts/media/list.html; grid pages style themselves in books.css/music.css. */
 
 .media-posts {
     list-style: none;
@@ -22,7 +9,7 @@
 
 .media-posts li {
     display: flex;
-    align-items: baseline;
+    align-items: center;
     margin-bottom: 0.7em;
 }
 
@@ -33,27 +20,145 @@
 }
 
 .media-posts a {
+    display: flex;
+    align-items: center;
+    gap: 0.6em;
     text-decoration: none;
+}
+
+/* Cover/art thumbnail; the glyph variant stands in when a row has no image */
+.media-thumb {
+    flex: none;
+    width: 2.25rem;
+    height: 2.25rem;
+    object-fit: cover;
+    border: 1px solid var(--color-tertiary);
+    border-radius: var(--border-radius-sm);
+    background: var(--color-tertiary);
+}
+
+.media-thumb-glyph {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.05rem;
+}
+
+.media-text {
+    display: block;
 }
 
 .media-posts a .media-title {
     text-decoration: underline;
 }
 
-.media-posts .media-domain {
+.media-domain {
     color: var(--color-muted);
 }
 
-/* Muted item count in the grid pages' year/month headings */
+/* Muted item count in the grid pages' year/month headings and the hub headings */
 .group-count {
     font-size: 0.65em;
     font-weight: 400;
     color: var(--color-muted);
 }
 
+/* Hub band on /media/ page 1: latest read, recent tracks, recent links */
+.media-hub {
+    margin-block: 1.5em 2.5em;
+}
+
+.media-hub-block {
+    margin-block-end: 2em;
+}
+
+.media-hub-heading {
+    font-size: 1.15rem;
+    margin-block: 0 0.6em;
+}
+
+.media-hub-heading a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.media-hub-heading a:hover {
+    text-decoration: underline;
+}
+
+a.media-hub-book {
+    display: flex;
+    align-items: flex-start;
+    gap: 1em;
+    text-decoration: none;
+}
+
+/* books.css sets the 2/3 aspect and frame; only the size is ours */
+.media-hub-book .book-cover {
+    flex: none;
+    width: 96px;
+}
+
+.media-hub-book-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25em;
+}
+
+.media-hub-book .media-title {
+    text-decoration: underline;
+}
+
+.book-rating {
+    color: var(--color-primary);
+    letter-spacing: 0.1em;
+}
+
+.media-hub-tagline {
+    font-size: 0.9rem;
+    font-style: italic;
+    color: var(--color-muted);
+}
+
+.media-hub-tracks {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: var(--margin);
+}
+
+.media-hub-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.media-hub-links li {
+    margin-block-end: 0.9em;
+}
+
+.media-hub-links a {
+    text-decoration: none;
+}
+
+.media-hub-links .media-title {
+    text-decoration: underline;
+}
+
+.media-hub-summary {
+    margin: 0.15em 0 0;
+    font-size: 0.9rem;
+    color: var(--color-muted);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    line-clamp: 2;
+    overflow: hidden;
+}
+
 @media (max-width: 600px) {
     .media-posts li {
         flex-direction: column;
+        align-items: flex-start;
         margin-bottom: 1em;
     }
 
@@ -65,5 +170,13 @@
 
     .media-posts li > span:empty {
         display: none;
+    }
+
+    .media-hub-tracks {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .media-hub-book .book-cover {
+        width: 80px;
     }
 }

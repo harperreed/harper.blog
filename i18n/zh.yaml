@@ -185,6 +185,19 @@
 - id: songs-count
   translation: "%d首"
 
+- id: links-count
+  translation: "%d个链接"
+
+# Media hub (/media/ page 1)
+- id: latest-read
+  translation: "最近读的书"
+
+- id: recent-tracks
+  translation: "最近听的歌"
+
+- id: recent-links
+  translation: "最近的链接"
+
 # Additional accessibility
 - id: home-aria
   translation: "首页"
