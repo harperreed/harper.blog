@@ -34,12 +34,12 @@ h3,
 h4,
 h5,
 h6 {
-    text-wrap: balance;
-}
-
-p {
+    /* pretty avoids orphan words without balance's early wrap on long titles */
     text-wrap: pretty;
 }
+
+/* Paragraphs use the default greedy wrap: Safari's text-wrap pretty
+   rag-balances whole paragraphs, leaving lines well short of the column */
 
 article p {
     margin-block: 0 1.25em;
