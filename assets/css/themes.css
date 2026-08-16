@@ -360,34 +360,6 @@
     }
 }
 
-/* Cyberpunk Theme */
-.theme-cyberpunk {
-    --color-dark: #150b29;
-    --color-light: #fcf9ff;
-    --color-primary: #150b29;
-    --color-secondary: #00ffff;
-    --color-tertiary: #e0ffff;
-    --color-link: #00ffff;
-    --color-link-visited: #00cccc;
-    --color-link-hover: #ff00aa;
-    --color-code-fg: #fcf9ff;
-    --color-code-bg: #150b29;
-}
-@media (prefers-color-scheme: dark) {
-    .theme-cyberpunk {
-        --color-dark: #fcf9ff;
-        --color-light: #150b29;
-        --color-primary: #e0ffff;
-        --color-secondary: #00ffff;
-        --color-tertiary: #2b1652;
-        --color-link: #00ffff;
-        --color-link-visited: #66ffff;
-        --color-link-hover: #ff00aa;
-        --color-code-fg: #150b29;
-        --color-code-bg: #e0ffff;
-    }
-}
-
 /* Volcano Theme */
 .theme-volcano {
     --color-dark: #1f0f0f;

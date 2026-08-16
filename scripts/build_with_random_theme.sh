@@ -20,7 +20,6 @@ THEMES=(
     "halloween"
     "neon"
     "electric"
-    "cyberpunk"
     "volcano"
     "midnight"
     "lavender"
