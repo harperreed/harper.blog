@@ -5,3 +5,18 @@
 # Spanish media sections moved to the English URL scheme 2026-08 (was media/*/list).
 /es/media/books/list/* /es/media/books/:splat 301
 /es/media/music/list/* /es/media/music/:splat 301
+
+# Media consolidation 2026-08: the books/music/links lists, grids, feeds, and
+# pagination moved under /media/. Individual pages kept their old URLs, so
+# exact paths only — a /books/* splat would shadow /books/<slug>/.
+/books/ /media/books/ 301
+/music/ /media/music/ 301
+/links/ /media/links/ 301
+/books/grid/ /media/books/grid/ 301
+/music/grid/ /media/music/grid/ 301
+/books/index.xml /media/books/index.xml 301
+/music/index.xml /media/music/index.xml 301
+/links/index.xml /media/links/index.xml 301
+/books/page/* /media/books/page/:splat 301
+/music/page/* /media/music/page/:splat 301
+/links/page/* /media/links/page/:splat 301
