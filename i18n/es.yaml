@@ -198,6 +198,9 @@
 - id: recent-links
   translation: "Enlaces recientes"
 
+- id: media-log
+  translation: "Bitácora"
+
 # Reading stats shortcode
 - id: reading-stats-books
   translation:

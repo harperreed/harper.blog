@@ -198,6 +198,9 @@
 - id: recent-links
   translation: "Recent links"
 
+- id: media-log
+  translation: "The log"
+
 # Reading stats shortcode
 - id: reading-stats-books
   translation:
