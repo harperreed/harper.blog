@@ -5,6 +5,12 @@ on:
         - cron: "*/10 * * * *" # Runs every 10 minutes
     workflow_dispatch: # Allows manual triggering
 
+# Add concurrency control (a run that outlives the 10-minute cadence would
+# otherwise overlap the next one and race on the registry push)
+concurrency:
+    group: micro-posts-${{ github.ref }}
+    cancel-in-progress: true
+
 jobs:
     update-micro-posts:
         runs-on: ubuntu-latest

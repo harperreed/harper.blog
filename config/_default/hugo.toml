@@ -1,13 +1,13 @@
 baseURL = "https://harper.blog/"
 publishDir = "public"
-locale = "en-us"
 title = "Harper Reed's Blog"
+# Absolutizes URLs in rendered HTML only (feeds are unaffected). Dropping it
+# would churn every built page for no visible gain, so it stays.
 canonifyURLs = true
 enableRobotsTXT = true
 enableGitInfo = true
 timeout = "300s"                 # Increased for large image processing
 defaultContentLanguage = "en"
-author = "Harper Reed"
 disableKinds = []
 timeZone = "America/Chicago"
 

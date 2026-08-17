@@ -26,6 +26,7 @@ Hard-won facts about working on harper.blog. Add yours; keep entries short.
 
 - `RegularPages` sorts by weight before date: `/about/` (menu weight 3, dateless, `nofeed: true`) is `RegularPages[0]` on every language site. Anything taking "the newest page" must filter nofeed/dateless pages first — this zeroed the root feed's `lastBuildDate` and silently wasted a feed slot.
 - `.Paginate` may only get one collection+size per page, but repeat calls return the first paginator — so head partials (which render before the main block) and list templates share `partials/paginator.html` as the single place that defines collections and sizes. Never call `.Paginator`/`.Paginate` anywhere else.
+- `canonifyURLs = true` only absolutizes URLs in rendered HTML output — `.Content` embedded in RSS templates keeps root-relative img srcs. Feed templates that need absolute srcs must prefix `site.BaseURL` themselves (`index.rss.xml` does); prefixing `.Permalink` onto an already-root-relative src mangles the path.
 
 ## Theme CSS
 

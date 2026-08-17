@@ -2,7 +2,7 @@ name: Run Spotify Tracks Script
 
 on:
     schedule:
-        - cron: "0 */24 * * *" # Runs every 12 hours
+        - cron: "0 */24 * * *" # Runs daily at 00:00 UTC
     workflow_dispatch: # Allows manual triggering
 
 # Add concurrency control
