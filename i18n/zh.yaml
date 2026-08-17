@@ -198,6 +198,9 @@
 - id: recent-links
   translation: "最近的链接"
 
+- id: media-log
+  translation: "记录"
+
 # Additional accessibility
 - id: home-aria
   translation: "首页"

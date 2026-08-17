@@ -198,6 +198,9 @@
 - id: recent-links
   translation: "최근 링크"
 
+- id: media-log
+  translation: "기록"
+
 # Additional accessibility
 - id: home-aria
   translation: "홈"
