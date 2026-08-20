@@ -750,8 +750,12 @@ def main():
     os.makedirs(hugo_data_dir, exist_ok=True)
 
     # Load registries
-    url_registry = load_url_registry(hugo_data_dir)
-    content_registry = load_content_registry(hugo_data_dir)
+    try:
+        url_registry = load_url_registry(hugo_data_dir)
+        content_registry = load_content_registry(hugo_data_dir)
+    except RegistryCorruptError as e:
+        logging.error(f"Registry corrupt, aborting: {e}")
+        return 1
     logging.info(f"Loaded {len(url_registry)} entries from URL registry")
     logging.info(f"Loaded {len(content_registry)} entries from content registry")
     
