@@ -14,7 +14,10 @@
     {{ with .Site.Params.author.email }}<managingEditor>{{ . }}{{ with $.Site.Params.author.name }} ({{ . }}){{ end }}</managingEditor>{{ end }}
     {{ with .Site.Params.author.email }}<webMaster>{{ . }}{{ with $.Site.Params.author.name }} ({{ . }}){{ end }}</webMaster>{{ end }}
     {{ with .Site.Copyright }}<copyright>{{ . }}</copyright>{{ end }}
-    <lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
+    {{- $notes := where .Site.RegularPages "Type" "notes" }}
+    {{- $lastBuild := .Date }}
+    {{- range $notes }}{{ if .Resources.ByType "image" }}{{ $lastBuild = .Date }}{{ break }}{{ end }}{{ end }}
+    {{ if not $lastBuild.IsZero }}<lastBuildDate>{{ $lastBuild.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
     {{ with .OutputFormats.Get "RSS" }}
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{ end }}
@@ -24,7 +27,6 @@
       <link>{{ .Site.BaseURL }}photos/</link>
     </image>
     {{- /* Get notes that have image resources */ -}}
-    {{ $notes := where .Site.RegularPages "Type" "notes" }}
     {{ $limit := .Site.Config.Services.RSS.Limit }}
     {{ $count := 0 }}
     {{ range $notes }}
