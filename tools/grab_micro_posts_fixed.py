@@ -5,7 +5,7 @@ import logging
 import os
 import re
 import tempfile
-from datetime import datetime
+from datetime import datetime, timezone
 from functools import lru_cache
 from urllib.parse import urlparse, urljoin
 
@@ -37,6 +37,32 @@ CONTENT_REGISTRY_FILENAME = "processed_content_hashes.json"
 # Network safety: cap how long we wait for feeds and how large an image can be.
 HTTP_TIMEOUT = 30
 MAX_IMAGE_BYTES = 10 * 1024 * 1024
+
+
+def parse_feed_date(value):
+    """Parse a feed date string into a timezone-aware UTC datetime.
+
+    Accepts ISO 8601 strings with or without a UTC offset. Naive strings (no
+    offset) are assumed to be UTC. Unparseable or missing values fall back to
+    the current UTC time so a single malformed entry can't crash the whole run.
+
+    Args:
+        value (str | None): The raw date_published value from a feed entry.
+
+    Returns:
+        datetime: Always timezone-aware, in UTC.
+    """
+    if value is None:
+        return datetime.now(timezone.utc)
+    try:
+        dt = datetime.fromisoformat(value)
+        if dt.tzinfo is None:
+            # Naive datetime — feed didn't include an offset; treat as UTC.
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt
+    except (ValueError, TypeError):
+        logging.warning(f"Unparseable feed date '{value}', substituting current UTC time")
+        return datetime.now(timezone.utc)
 
 
 class RegistryCorruptError(RuntimeError):
@@ -884,13 +910,8 @@ def main():
             # If we get here, it's a new entry to process
             # For duplicate URLs in the feed, keep the latest one
             if normalized_url in unique_entries:
-                existing_date_str = unique_entries[normalized_url].get('date_published', '')
-                try:
-                    existing_date = datetime.fromisoformat(existing_date_str)
-                    if date > existing_date:
-                        unique_entries[normalized_url] = entry
-                except ValueError:
-                    # If date parsing fails, prefer the current entry
+                existing_date = parse_feed_date(unique_entries[normalized_url].get('date_published'))
+                if parse_feed_date(entry.get('date_published')) > existing_date:
                     unique_entries[normalized_url] = entry
             else:
                 unique_entries[normalized_url] = entry
@@ -898,7 +919,7 @@ def main():
         # Sort entries chronologically
         sorted_entries = sorted(
             unique_entries.values(),
-            key=lambda x: datetime.fromisoformat(x.get('date_published', datetime.now().isoformat())),
+            key=lambda x: parse_feed_date(x.get('date_published')),
             reverse=False  # Oldest first
         )
 
