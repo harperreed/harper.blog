@@ -8,7 +8,14 @@ Hard-won facts about working on harper.blog. Add yours; keep entries short.
 - Production deploys run `./scripts/build_with_random_theme.sh` — every deploy gets a random theme from `themes.css`. Visual changes must survive all themes, and the first deploy after a CSS change is worth a look.
 - Two hugo binaries exist: `.mise.toml` pins the real one; `/opt/homebrew/bin/hugo` drifts. If a build error names an API that greps clean, check `hugo version` first.
 - Never run a one-shot `hugo` build in the checkout while `hugo serve` is running — the server serves `public/` from disk, and the build poisons it and silently kills the watcher. Use `hugo --destination /tmp/hugo-verify` or stop the server. Recovery: kill server, `rm -rf public`, relaunch.
-- Build output is still slightly nondeterministic: photos RSS stamps `lastBuildDate` from `now`, and hugo silently drops GitInfo if git is locked mid-build. (Footer and out_of_date `partialCached` calls are now keyed properly.) Normalize before diffing two builds.
+- Build output can still differ across runs: hugo silently drops GitInfo if git is locked mid-build. (Photos RSS `lastBuildDate` now comes from the newest image note, and footer/out_of_date `partialCached` calls are keyed properly.) Normalize before diffing two builds.
+
+## CI workflows
+
+- `make check` is the canonical local gate: tools ruff+pytest, i18n parity, contrast sweep. CI mirrors it — tools-tests lints and tests `tools/`, check-i18n covers translations, and build-check does a pinned-hugo production build to /tmp plus feed/redirect/inline-style checkers on anything touching layouts/config/assets/static/i18n.
+- Cron content workflows push with a rebase-retry loop under a `concurrency` queue-of-one: a waiting run replaces the queued one, and a manual `workflow_dispatch` can be silently eaten by the next cron tick. If your dispatch vanished, that's why.
+- Job timeouts conclude `cancelled`, not `failure` — `if: failure()` alert steps stay silent on them, so a persistently hanging cron eats ticks without alerting (known gap; `failure() || cancelled()` is the candidate fix).
+- Runner network weather is real: checkout fetches sometimes hang dead mid-stream (three times on 2026-08-20 alone). Rerun on a fresh runner before redesigning anything; job timeouts exist to bound exactly this.
 
 ## Design decisions (settled — don't re-litigate)
 
@@ -39,6 +46,7 @@ Hard-won facts about working on harper.blog. Add yours; keep entries short.
 - `~/workspace` symlinks to `~/Public/src` — same repo behind both paths, not two clones.
 - `hugo --quiet` swallows `warnf` output. When debugging templates with `warnf`, build without `--quiet` or the probe looks like it never ran.
 - The dev server's `partialCached` output survives incremental rebuilds AND template touches: a frontmatter change that alters a cached partial's output (e.g. setting `bsky:` on a post — comments.html is cached by `.Title`) won't show on the preview until the server restarts. Fresh one-shot builds are correct; restart the server before declaring a cached partial broken.
+- After mise upgrades Go, hugo servers launched from stale shells segfault on the next config reload (inherited GOROOT points at the deleted toolchain). Relaunch via a fresh `mise x -- hugo serve`.
 
 ## Multilingual
 
@@ -52,6 +60,9 @@ Hard-won facts about working on harper.blog. Add yours; keep entries short.
 - `grab_starred_links.py` initializes `FirecrawlApp` and `OpenAI` at module level — importing it in tests without live credentials crashes. Test against source directly, not via import.
 - Registry writes in `grab_micro_posts_fixed.py` are atomic (temp + `os.replace`). `save_url_registry` and `save_content_registry` leave temp files prefixed with the registry filename if interrupted; safe to delete.
 - CI workflow caches `./tools/.script_cache` (dot-prefixed). Code must use `CACHE_DIRECTORY = ".script_cache"` — no dot was the old mismatch that meant every OpenAI call was a cache miss.
+- Note registries live only in `data/notes/` (`processed_urls.json`, `processed_content_hashes.json`; the split copies were merged in PR #180). A registry that fails to parse ABORTS the run (`RegistryCorruptError`) by design — restore the file from git, never regenerate: a fresh registry forgets every published URL and re-posts the whole feed.
+- ruff ≥0.16 ships far more default rules than the old E4/E7/E9/F — `tools/pyproject.toml` pins `[tool.ruff.lint] select` to keep lint scope fixed. Don't "clean up" the pin; removing it detonates ~300 new violations.
+- `git check-ignore` never matches dir-only patterns (`foo/`) for paths absent from disk — "not ignored" for a directory that doesn't exist yet proves nothing. `tools/.gitignore` keeps both `script_cache` (stale pre-rename dir still on disk) and `.script_cache/` (the live cache) deliberately.
 - `grab_micro_posts_fixed.main()`, `grab_starred_links.main()`, `grab_spotify_saved_tracks.main()`, and `grab_read_books.main()` all return `int` and call `sys.exit(main())`. Per-item failures log and continue; run-level failures (auth, feed unreachable, all items failed) exit non-zero so GitHub Actions goes red.
 - `grab_read_books.py` skips any book whose `index.md` exists — content unchecked. python-frontmatter ≥ 1.2 writes str (not bytes), so the old `open(path, "wb")` + `frontmatter.dump` pattern truncated the file then raised, committing zero-byte bundles that blocked re-fetching forever (dormant since April, activated by the 2026-08-14 dep upgrade). Book writes now go through `book_files.write_frontmatter_file` — serialize first, then open. If a zero-byte bundle appears, delete the dir and re-run the goodreads workflow.
 - Spotify revokes refresh tokens now and then (Jul 21 2026: expired, then revoked); the poller then dies nightly with `invalid_grant`, and CI can't re-auth itself (`open_browser=False`). Recover with `cd tools && uv run spotify_reauth.py`, then `gh secret set SPOTIFY_TOKEN_CACHE < tools/.spotify_cache` and re-dispatch — backfill is automatic (full-library pagination, existing tracks skipped). The token is bound to the client id that minted it, so all SPOTIFY_* secrets must come from the same dashboard app.
