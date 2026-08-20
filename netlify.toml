@@ -30,7 +30,7 @@ Referrer-Policy = "strict-origin-when-cross-origin"
 Permissions-Policy = "microphone=(), payment=(), geolocation=(), midi=(), sync-xhr=(), camera=(), magnetometer=(), gyroscope=()"
 Content-Security-Policy = """
     default-src 'self' https://harper.blog;
-    script-src 'self' https://harper.blog https://unpkg.com https://static.cloudflareinsights.com https://tinylytics.app;
+    script-src 'self' https://harper.blog https://static.cloudflareinsights.com https://tinylytics.app;
     style-src 'self' https://harper.blog;
     font-src 'self' https://harper.blog;
     img-src 'self' data: https:;
