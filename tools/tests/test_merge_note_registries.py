@@ -1,6 +1,5 @@
 # ABOUTME: Tests for the one-off registry merge script that heals the
 # ABOUTME: split between data/notes and the abandoned content/data/notes registries.
-import json
 from pathlib import Path
 
 from merge_note_registries import merge_registries, sweep_notes_dir
@@ -41,6 +40,8 @@ def test_sweep_adds_missing_url(tmp_path):
     additions = sweep_notes_dir(tmp_path / "notes", url_registry)
     assert "https://harper.micro.blog/2024/03/01/some-note.html" in additions
     assert len(additions) == 1
+    # The entry value must be the note's frontmatter date as str(datetime): "YYYY-MM-DD HH:MM:SS"
+    assert additions["https://harper.micro.blog/2024/03/01/some-note.html"] == "2024-03-01 00:00:00"
 
 
 def test_sweep_skips_already_registered(tmp_path):
