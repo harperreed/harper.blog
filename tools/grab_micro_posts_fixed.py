@@ -565,7 +565,7 @@ def create_description(content, max_length=160):
     return clean_content
 
 
-def create_hugo_content(entry, output_dir, url_registry, content_registry, data_dir, next_note_id=None):
+def create_hugo_content(entry, output_dir, url_registry, content_registry, data_dir, next_note_id):
     """
     Create a Hugo content post from a feed entry.
     
@@ -575,8 +575,8 @@ def create_hugo_content(entry, output_dir, url_registry, content_registry, data_
         url_registry (dict): Registry of processed URLs
         content_registry (dict): Registry of processed content hashes
         data_dir (str): Data directory path
-        next_note_id (int, optional): Pre-computed next note ID to assign. If None,
-            falls back to scanning the notes tree (for callers that don't pre-scan).
+        next_note_id (int): Next note ID to assign; the caller computes it once
+            from the notes pre-scan and increments it per created note.
 
     Returns:
         bool: True if post was created, False otherwise
@@ -687,7 +687,7 @@ def create_hugo_content(entry, output_dir, url_registry, content_registry, data_
 
     # Assign note ID before building the post
     if post_id is None:
-        post_id = next_note_id if next_note_id is not None else 1
+        post_id = next_note_id
         title = f"Note #{post_id}"
     else:
         title = archive_title if archive_title else f"Note #{post_id}"
