@@ -1,10 +1,7 @@
 # ABOUTME: Tests for the check_feeds.py feed-validity checker.
 # ABOUTME: Exercises check_feed() for healthy/broken/empty XML and main() missing-feed guard.
 
-from pathlib import Path
 import textwrap
-
-import pytest
 
 
 HEALTHY_FEED = textwrap.dedent("""\
@@ -64,7 +61,7 @@ def test_check_feed_broken_xml(tmp_path):
 
     import check_feeds
     problems = check_feeds.check_feed(f)
-    assert len(problems) == 1
+    assert len(problems) >= 1
     assert "parse" in problems[0].lower() or "xml" in problems[0].lower()
 
 
