@@ -1,14 +1,13 @@
 # ABOUTME: This script batch translates blog posts using the AICoder Translator tool
 # ABOUTME: It handles page bundles and markdown files for Hugo static site generation
 
-import os
-import sys
-import subprocess
 import argparse
-from pathlib import Path
-from typing import List, Optional, Dict
 import logging
 import shutil
+import subprocess
+import sys
+from pathlib import Path
+
 
 def setup_logging(verbose: bool = False) -> None:
     """Configure logging based on verbosity level."""
@@ -19,7 +18,7 @@ def setup_logging(verbose: bool = False) -> None:
         datefmt='%Y-%m-%d %H:%M:%S'
     )
 
-def find_translator_binary() -> Optional[str]:
+def find_translator_binary() -> str | None:
     """Find the translator binary in PATH."""
     return shutil.which('translator')
 
@@ -28,7 +27,7 @@ def validate_language(language: str) -> bool:
     # Simple check - language should be alphabetic and reasonable length
     return language.isalpha() and 2 <= len(language) <= 20
 
-def get_output_filename(input_file: Path, language: str, output_dir: Optional[Path] = None) -> Path:
+def get_output_filename(input_file: Path, language: str, output_dir: Path | None = None) -> Path:
     """Generate output filename based on language and optional output directory."""
     if output_dir:
         output_dir.mkdir(parents=True, exist_ok=True)
@@ -38,8 +37,8 @@ def get_output_filename(input_file: Path, language: str, output_dir: Optional[Pa
         return input_file.parent / f"{input_file.stem}.{language.lower()}.md"
 
 def translate_file(file_path: Path, language: str, translator_binary: str, 
-                  output_dir: Optional[Path] = None, dry_run: bool = False,
-                  translator_args: Optional[List[str]] = None) -> bool:
+                  output_dir: Path | None = None, dry_run: bool = False,
+                  translator_args: list[str] | None = None) -> bool:
     """Translate a single file using the translator tool."""
     logger = logging.getLogger(__name__)
     
@@ -82,7 +81,7 @@ def translate_file(file_path: Path, language: str, translator_binary: str,
         logger.error(f"Unexpected error translating {file_path.name}: {e}")
         return False
 
-def find_page_bundles(content_dir: Path) -> List[Path]:
+def find_page_bundles(content_dir: Path) -> list[Path]:
     """Find all page bundles (directories with index.md) in content directory."""
     bundles = []
     
@@ -94,7 +93,7 @@ def find_page_bundles(content_dir: Path) -> List[Path]:
     
     return bundles
 
-def find_markdown_files(paths: List[str], include_bundles: bool = True) -> List[Path]:
+def find_markdown_files(paths: list[str], include_bundles: bool = True) -> list[Path]:
     """Find all markdown files in the given paths."""
     files = []
     

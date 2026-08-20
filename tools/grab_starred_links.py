@@ -1,20 +1,20 @@
+import hashlib
 import html
+import logging
 import os
 import socket
-import feedparser
 from datetime import datetime
-import slugify
-import frontmatter
-import hashlib
-from dotenv import load_dotenv
 from email.utils import parsedate_to_datetime
-from firecrawl import FirecrawlApp
-from openai import OpenAI, RateLimitError, APIError
-from pydantic import BaseModel
-from typing import Optional, List
-import logging
-from readabilipy import simple_json_from_html_string
+
+import feedparser
+import frontmatter
+import slugify
 from diskcache import Cache
+from dotenv import load_dotenv
+from firecrawl import FirecrawlApp
+from openai import APIError, OpenAI, RateLimitError
+from pydantic import BaseModel
+from readabilipy import simple_json_from_html_string
 
 # Load environment variables
 load_dotenv()
@@ -30,8 +30,8 @@ HUGO_CONTENT_DIR = os.getenv('LINKS_HUGO_CONTENT_DIR')
 OPENAI_MODEL = os.getenv('OPENAI_MODEL')
 
 class Tags(BaseModel):
-    tags: List[str]
-    summary: Optional[str]
+    tags: list[str]
+    summary: str | None
 
 firecrawler = FirecrawlApp(api_key=os.getenv('FIRECRAWL_API_KEY'))
 
@@ -223,7 +223,7 @@ def scrape_url(url):
         return raw
 
     except Exception as e:
-        logging.error(f"Failed to scrape {url}: {str(e)}")
+        logging.error(f"Failed to scrape {url}: {e!s}")
         # Return empty string rather than None for safer handling
         return ""
 

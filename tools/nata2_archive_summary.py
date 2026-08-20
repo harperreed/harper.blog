@@ -2,12 +2,11 @@
 # ABOUTME: This script generates a comprehensive summary of nata2.info archive availability
 # ABOUTME: It combines data from multiple sources to create a final report
 
-import json
 import argparse
+import json
 import logging
-from pathlib import Path
-from datetime import datetime
 from collections import defaultdict
+from datetime import datetime
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
@@ -126,40 +125,40 @@ def print_summary(summary):
     
     print(f"\nReport Date: {summary['report_date']}")
     
-    print(f"\n📊 OVERVIEW")
+    print("\n📊 OVERVIEW")
     print(f"  Total URLs in blog posts: {summary['overview']['total_urls_in_posts']}")
     print(f"  Unique hosts: {summary['overview']['unique_hosts']}")
     
     if 'posts_analysis' in summary:
-        print(f"\n📝 POSTS WITH MOST NATA2 URLS")
+        print("\n📝 POSTS WITH MOST NATA2 URLS")
         for post in summary['posts_analysis']['posts_breakdown'][:5]:
             print(f"  • {post['title'][:50]:<50} ({post['url_count']} URLs)")
     
     if 'archive_coverage' in summary:
-        print(f"\n🗄️  ARCHIVE.ORG COVERAGE")
+        print("\n🗄️  ARCHIVE.ORG COVERAGE")
         print(f"  Total archived URLs: {summary['archive_coverage']['total_archived_urls']:,}")
-        print(f"  By type:")
+        print("  By type:")
         for typ, count in summary['archive_coverage']['archive_by_type'].items():
             print(f"    - {typ}: {count:,}")
     
     if 'matching_results' in summary:
-        print(f"\n🔍 MATCHING RESULTS")
+        print("\n🔍 MATCHING RESULTS")
         print(f"  Matched: {summary['matching_results']['total_matched']} URLs")
         print(f"  Unmatched: {summary['matching_results']['total_unmatched']} URLs")
         print(f"  Coverage: {summary['matching_results']['coverage_percentage']}%")
         
         if summary['matching_results']['match_types']:
-            print(f"  Match types:")
+            print("  Match types:")
             for typ, count in summary['matching_results']['match_types'].items():
                 print(f"    - {typ}: {count}")
     
     if summary.get('unmatched_samples'):
-        print(f"\n❌ SAMPLE UNMATCHED URLS (first 5)")
+        print("\n❌ SAMPLE UNMATCHED URLS (first 5)")
         for url in summary['unmatched_samples'][:5]:
             print(f"  • {url}")
     
     if summary.get('recommendations'):
-        print(f"\n💡 RECOMMENDATIONS")
+        print("\n💡 RECOMMENDATIONS")
         for rec in summary['recommendations']:
             print(f"  [{rec['priority'].upper()}] {rec['action']}")
             print(f"         {rec['detail']}")

@@ -11,7 +11,8 @@ def test_shared_prefix_alone_is_not_duplicate(tmp_path):
     # The prefix branch would have returned True (false positive); it must be gone.
     shared_open = "This is a shared opening that happens to be exactl"
     assert len(shared_open) == 50
-    a = tmp_path / "note-a"; a.mkdir()
+    a = tmp_path / "note-a"
+    a.mkdir()
     (a / "index.md").write_text("---\ntitle: a\n---\n" + shared_open + "y fine.")
     new_content = shared_open + " ZZZZ " * 100
     is_dup, _ = gm.is_duplicate_content(new_content, str(tmp_path))

@@ -1,14 +1,15 @@
 # ABOUTME: One-time backfill script that adds goodreads_work_id to book entry frontmatter.
 # ABOUTME: Reads work.id from data/books/*.yaml and writes it into content/books/*/index.md.
 
-import os
+import glob
 import logging
-import yaml
+import os
+from collections import defaultdict
+
 import frontmatter
+import yaml
 
 from book_files import write_frontmatter_file
-import glob
-from collections import defaultdict
 
 logger = logging.getLogger(__name__)
 

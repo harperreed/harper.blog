@@ -1,11 +1,11 @@
 # ABOUTME: One-time script to rename 2025-02-25-* book directories to match corrected frontmatter dates.
 # ABOUTME: Also renames matching data/books/*.yaml files.
 
-import os
-import glob
 import datetime
+import glob
 import logging
-import shutil
+import os
+
 import frontmatter
 
 from book_files import write_frontmatter_file

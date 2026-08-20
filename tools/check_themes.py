@@ -2,7 +2,6 @@
 # ABOUTME: Checks WCAG contrast ratios and reports potential accessibility issues
 
 import re
-import colorsys
 from pathlib import Path
 
 
@@ -88,7 +87,6 @@ def check_theme(name: str, colors: dict, mode: str) -> list[str]:
     bg = colors.get("color-light", "#ffffff")
     fg = colors.get("color-dark", "#000000")
     link = colors.get("color-link", fg)
-    primary = colors.get("color-primary", fg)
 
     try:
         # Text on background (should be >= 4.5 for AA)

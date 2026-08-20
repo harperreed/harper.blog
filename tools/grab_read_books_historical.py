@@ -1,24 +1,23 @@
-from __future__ import print_function
 
+import argparse
 import datetime
 import json
-import os
-import requests
 import logging
-import yaml
+import os
 import shutil
 import time
-from slugify import slugify
-from dotenv import load_dotenv
-import xmltodict
+from json import dumps, loads
+
 import frontmatter
+import requests
+import xmltodict
+import yaml
+from diskcache import Cache
+from dotenv import load_dotenv
+from goodreads import review
+from slugify import slugify
 
 from book_files import write_frontmatter_file
-from goodreads import review
-from json import loads, dumps
-from diskcache import Cache
-from typing import List, Dict, Any, Optional
-import argparse
 
 load_dotenv()
 
@@ -71,7 +70,7 @@ def fix_date(date_string: str) -> str:
         logging.debug(f"Successfully converted date to ISO format: {iso_date}")
         return iso_date
     except ValueError as e:
-        logging.warning(f"Failed to parse date string '{date_string}': {str(e)}")
+        logging.warning(f"Failed to parse date string '{date_string}': {e!s}")
         return date_string  # Return original on error
 
 @cache.memoize(expire=604800)  # Cache for one week
@@ -111,7 +110,7 @@ def get_goodreads_book(id: str) -> dict:
         logging.error("Request timed out")
         raise
     except requests.exceptions.RequestException as e:
-        logging.error(f"Request failed: {str(e)}")
+        logging.error(f"Request failed: {e!s}")
         logging.debug(
             f"Response content: {resp.content[:500] if 'resp' in locals() else 'No response'}"
         )
@@ -130,10 +129,10 @@ def get_goodreads_book(id: str) -> dict:
         return book
 
     except (xmltodict.expat.ExpatError, KeyError) as e:
-        logging.error(f"Failed to parse API response: {str(e)}")
+        logging.error(f"Failed to parse API response: {e!s}")
         raise
 
-def get_goodreads_reviews_page(page: int, limit: int = 200) -> List[Dict]:
+def get_goodreads_reviews_page(page: int, limit: int = 200) -> list[dict]:
     """
     Fetches a page of book reviews from Goodreads API.
 
@@ -186,7 +185,7 @@ def get_goodreads_reviews_page(page: int, limit: int = 200) -> List[Dict]:
         logging.error(f"Request to Goodreads API timed out for page {page}")
         raise
     except requests.exceptions.RequestException as e:
-        logging.error(f"Failed to fetch reviews from Goodreads for page {page}: {str(e)}")
+        logging.error(f"Failed to fetch reviews from Goodreads for page {page}: {e!s}")
         logging.debug(
             f"Response content: {resp.content[:500] if 'resp' in locals() else 'No response'}"
         )
@@ -216,10 +215,10 @@ def get_goodreads_reviews_page(page: int, limit: int = 200) -> List[Dict]:
         return reviews
 
     except (xmltodict.expat.ExpatError, KeyError) as e:
-        logging.error(f"Failed to parse API response for page {page}: {str(e)}")
+        logging.error(f"Failed to parse API response for page {page}: {e!s}")
         raise
 
-def process_review(r) -> Dict:
+def process_review(r) -> dict:
     """
     Process a single review into a book dictionary.
     
@@ -266,10 +265,10 @@ def process_review(r) -> Dict:
         return book
 
     except Exception as e:
-        logging.error(f"Error processing book review: {str(e)}")
+        logging.error(f"Error processing book review: {e!s}")
         return None
 
-def get_all_goodreads_books(max_pages: int = 10) -> List[Dict]:
+def get_all_goodreads_books(max_pages: int = 10) -> list[dict]:
     """
     Fetches all books across multiple pages.
     
@@ -368,18 +367,18 @@ def downloadAmazonImage(asin: str, book: dict, url: str, image_filename: str) ->
             return  # Exit after successful download
 
         except requests.exceptions.RequestException as e:
-            logging.error(f"Failed to download image: {str(e)}")
+            logging.error(f"Failed to download image: {e!s}")
             continue
-        except IOError as e:
-            logging.error(f"Failed to save image file: {str(e)}")
+        except OSError as e:
+            logging.error(f"Failed to save image file: {e!s}")
             continue
         except Exception as e:
-            logging.error(f"Unexpected error downloading image: {str(e)}")
+            logging.error(f"Unexpected error downloading image: {e!s}")
             continue
 
     logging.warning(f"Failed to download image for {book['title']} in any size")
 
-def get_book_summary(book_metadata: Dict) -> Dict:
+def get_book_summary(book_metadata: dict) -> dict:
     """
     Create a simple summary from book metadata without relying on OpenAI.
     
@@ -463,7 +462,7 @@ def main():
     try:
         books = get_all_goodreads_books(max_pages=args.pages)
     except Exception as e:
-        logging.error(f"Failed to get books from Goodreads: {str(e)}")
+        logging.error(f"Failed to get books from Goodreads: {e!s}")
         raise
 
     processed_count = 0
@@ -523,7 +522,7 @@ def main():
                     with open(data_filename, "w", encoding="utf-8") as f:
                         yaml.safe_dump(book_data, f, default_flow_style=False)
                 except Exception as e:
-                    logging.error(f"Failed processing book data for {book['title']}: {str(e)}")
+                    logging.error(f"Failed processing book data for {book['title']}: {e!s}")
                     failed_count += 1
                     continue
             else:
@@ -532,7 +531,7 @@ def main():
                     with open(data_filename, "r", encoding="utf-8") as stream:
                         book_data = yaml.safe_load(stream)
                 except Exception as e:
-                    logging.error(f"Failed loading book data from {data_filename}: {str(e)}")
+                    logging.error(f"Failed loading book data from {data_filename}: {e!s}")
                     failed_count += 1
                     continue
 
@@ -563,7 +562,7 @@ def main():
                     write_frontmatter_file(post, post_filename)
 
                 except Exception as e:
-                    logging.error(f"Failed creating post for {book['title']}: {str(e)}")
+                    logging.error(f"Failed creating post for {book['title']}: {e!s}")
                     failed_count += 1
                     continue
 
@@ -575,7 +574,7 @@ def main():
                     try:
                         downloadAmazonImage(asin, book_data, "", image_filename)
                     except Exception as e:
-                        logging.error(f"Failed downloading image for {book['title']}: {str(e)}")
+                        logging.error(f"Failed downloading image for {book['title']}: {e!s}")
 
             processed_count += 1
             logging.info(f"Successfully processed book: {book['title']}")
@@ -584,7 +583,7 @@ def main():
             time.sleep(args.delay)
             
         except Exception as e:
-            logging.error(f"Unexpected error processing book {book.get('title', 'Unknown')}: {str(e)}")
+            logging.error(f"Unexpected error processing book {book.get('title', 'Unknown')}: {e!s}")
             failed_count += 1
             continue
 

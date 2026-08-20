@@ -8,11 +8,11 @@ import logging
 import os
 
 import frontmatter
-
-from book_files import write_frontmatter_file
 import requests
 import xmltodict
 import yaml
+
+from book_files import write_frontmatter_file
 
 logger = logging.getLogger(__name__)
 

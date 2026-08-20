@@ -1,3 +1,12 @@
+.PHONY: build serve getmodules check check-i18n check-contrast tools-test preview dev prod_build prod_build_verbose gitlog
+
+# Run every local verification: tools tests, i18n hygiene, contrast sweep
+check: tools-test check-i18n check-contrast
+
+# Run the Python tools test suite
+tools-test:
+	cd tools && uv run ruff check . && uv run pytest -q
+
 # Build the Hugo site
 build:
 	hugo

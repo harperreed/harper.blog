@@ -2,19 +2,17 @@
 # ABOUTME: This script migrates old nata2.info content to page bundles with local resources
 # ABOUTME: It finds nata2.info links/images, downloads them from archive.org, and creates page bundles
 
+import argparse
+import hashlib
+import logging
 import os
 import re
-import shutil
 from datetime import datetime
-import argparse
 from pathlib import Path
+from urllib.parse import quote, urlparse
+
 import frontmatter
-from urllib.parse import urlparse, urljoin, quote
-import logging
-import time
 import requests
-from bs4 import BeautifulSoup
-import hashlib
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
@@ -272,12 +270,10 @@ def download_resource(archive_url, local_path):
         if not any(valid_type in content_type for valid_type in valid_types):
             # Check if it's HTML (might be a wayback machine page)
             if 'text/html' in content_type:
-                logger.warning(f"    Got HTML instead of media file, might be a wayback wrapper")
-                # Try to extract the actual image URL from the HTML
-                html_content = response.text
+                logger.warning("    Got HTML instead of media file, might be a wayback wrapper")
                 if 'pictures/misc/phone_camera' in archive_url:
                     # This looks like a phone camera image, let's try a different approach
-                    logger.info(f"    Attempting alternative download method for phone camera image")
+                    logger.info("    Attempting alternative download method for phone camera image")
                 return False
         
         # Save to local file
@@ -292,14 +288,14 @@ def download_resource(archive_url, local_path):
             with open(local_path, 'rb') as f:
                 first_bytes = f.read(100)
                 if b'<!DOCTYPE' in first_bytes or b'<html' in first_bytes:
-                    logger.error(f"    Downloaded file appears to be HTML, not media")
+                    logger.error("    Downloaded file appears to be HTML, not media")
                     local_path.unlink()
                     return False
             
             logger.info(f"    Downloaded: {local_path.name} ({local_path.stat().st_size} bytes)")
             return True
         else:
-            logger.error(f"    Downloaded file is empty or missing")
+            logger.error("    Downloaded file is empty or missing")
             if local_path.exists():
                 local_path.unlink()
             return False
@@ -348,7 +344,7 @@ def convert_to_page_bundle(post_path, resources, dry_run=False):
     if isinstance(post_date, str):
         try:
             post_date = datetime.fromisoformat(post_date.replace('+00:00', '').replace('Z', ''))
-        except:
+        except:  # noqa: E722 behavioral
             post_date = None
     elif hasattr(post_date, 'date'):
         post_date = post_date.replace(tzinfo=None)
@@ -367,7 +363,7 @@ def convert_to_page_bundle(post_path, resources, dry_run=False):
         # Get archive URL (will rewrite URL internally if needed)
         archive_url = get_archive_url(resource['url'], post_date)
         if not archive_url:
-            logger.warning(f"    No archive found, skipping resource")
+            logger.warning("    No archive found, skipping resource")
             continue
         logger.info(f"    Archive URL: {archive_url}")
         
@@ -419,7 +415,7 @@ def convert_to_page_bundle(post_path, resources, dry_run=False):
                 })
             else:
                 # Fall back to archive.org link if download fails
-                logger.warning(f"    Falling back to archive.org link")
+                logger.warning("    Falling back to archive.org link")
                 downloaded_resources.append({
                     'original_url': resource['url'],
                     'archive_url': archive_url,
@@ -614,7 +610,7 @@ def main():
                     if response == 'n':
                         break
     
-    logger.info(f"\n\nSummary:")
+    logger.info("\n\nSummary:")
     logger.info(f"  Total posts checked: {processed_count}")
     logger.info(f"  Posts migrated: {migrated_count}")
 

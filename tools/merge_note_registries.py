@@ -9,11 +9,11 @@ from pathlib import Path
 import frontmatter
 
 from grab_micro_posts_fixed import (
-    URL_REGISTRY_FILENAME,
     CONTENT_REGISTRY_FILENAME,
+    URL_REGISTRY_FILENAME,
     normalize_url,
-    save_url_registry,
     save_content_registry,
+    save_url_registry,
 )
 
 logging.basicConfig(
@@ -78,7 +78,7 @@ def _load_json(path: Path) -> dict:
     try:
         with open(path, "r", encoding="utf-8") as f:
             return json.load(f)
-    except (json.JSONDecodeError, IOError) as e:
+    except (OSError, json.JSONDecodeError) as e:
         logging.error(f"Could not load {path}: {e}")
         return {}
 

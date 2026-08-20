@@ -34,7 +34,9 @@ def test_failed_serialization_creates_no_file(tmp_path):
 
 
 def test_write_frontmatter_file_is_atomic(tmp_path):
-    import inspect, book_files
+    import inspect
+
+    import book_files
     src = inspect.getsource(book_files.write_frontmatter_file)
     assert "os.replace(" in src  # temp-file + rename, no in-place open("w")
 

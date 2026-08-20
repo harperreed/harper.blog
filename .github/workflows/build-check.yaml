@@ -1,0 +1,81 @@
+name: Build check
+
+# Full build gate: hugo build, feed/redirect/inline-style checks, contrast sweep.
+# Runs on PRs and main-branch pushes that touch layout, config, or asset paths.
+on:
+    pull_request:
+        paths:
+            - "layouts/**"
+            - "config/**"
+            - "assets/**"
+            - "static/**"
+            - "i18n/**"
+            - "go.mod"
+            - "go.sum"
+            - "netlify.toml"
+            - "tools/check_feeds.py"
+            - "tools/check_redirects.py"
+            - "tools/check_inline_styles.py"
+            - ".github/workflows/build-check.yaml"
+    push:
+        branches:
+            - main
+        paths:
+            - "layouts/**"
+            - "config/**"
+            - "assets/**"
+            - "static/**"
+            - "i18n/**"
+            - "go.mod"
+            - "go.sum"
+            - "netlify.toml"
+            - "tools/check_feeds.py"
+            - "tools/check_redirects.py"
+            - "tools/check_inline_styles.py"
+            - ".github/workflows/build-check.yaml"
+
+permissions:
+    contents: read
+
+env:
+    HUGO_VERSION: "0.164.0"
+
+jobs:
+    build-check:
+        runs-on: ubuntu-latest
+        timeout-minutes: 15
+        steps:
+            - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+              with:
+                  fetch-depth: 1
+
+            - name: Setup uv
+              uses: astral-sh/setup-uv@d4b2f3b6ecc6e67c4457f6d3e41ec42d3d0fcb86 # v5
+              with:
+                  enable-cache: true
+                  cache-dependency-glob: "tools/uv.lock"
+
+            - name: Install Hugo
+              run: |
+                  # sha256sum -c resolves the filename from the checksums line, so the
+                  # tarball must sit next to it under its canonical release name.
+                  cd /tmp
+                  curl -fsSL "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_checksums.txt" -o hugo_checksums.txt
+                  curl -fsSL "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz" -o "hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
+                  grep " hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz$" hugo_checksums.txt | sha256sum -c
+                  tar -xzf "hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz" -C /usr/local/bin hugo
+
+            - name: Build site
+              run: hugo --destination /tmp/hugo-check --quiet -e production --logLevel warn
+
+            - name: Check feeds
+              run: cd tools && uv run check_feeds.py /tmp/hugo-check
+
+            - name: Check redirects
+              run: cd tools && uv run check_redirects.py /tmp/hugo-check
+
+            - name: Check inline styles
+              run: cd tools && uv run check_inline_styles.py
+
+            - name: Check contrast
+              run: make check-contrast

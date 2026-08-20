@@ -1,14 +1,15 @@
+import hashlib
 import html
-import os
-import spotipy
-from spotipy.oauth2 import SpotifyOAuth
-from datetime import datetime
-import frontmatter
 import logging
+import os
+from datetime import datetime
+
+import frontmatter
+import spotipy
+import yaml
 from dotenv import load_dotenv
 from slugify import slugify
-import hashlib
-import yaml
+from spotipy.oauth2 import SpotifyOAuth
 
 # Load environment variables
 load_dotenv()

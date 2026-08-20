@@ -2,16 +2,16 @@
 # ABOUTME: This script checks nata2.info URLs availability using archive.org CDX API
 # ABOUTME: It's faster than individual checks and provides comprehensive archive data
 
-import os
-import json
-import requests
 import argparse
+import json
 import logging
-from pathlib import Path
-from urllib.parse import urlparse, quote
-import time
+import os
 from collections import defaultdict
 from datetime import datetime
+from pathlib import Path
+from urllib.parse import urlparse
+
+import requests
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
@@ -19,7 +19,7 @@ logger = logging.getLogger(__name__)
 
 def get_cdx_data(domain="nata2.info"):
     """Fetch CDX data for a domain from archive.org"""
-    cdx_url = f"http://web.archive.org/cdx/search/cdx"
+    cdx_url = "http://web.archive.org/cdx/search/cdx"
     
     # Parameters for the CDX API
     params = {
@@ -74,8 +74,7 @@ def analyze_cdx_data(cdx_data):
     for entry in cdx_data:
         url = entry.get('original', '')
         timestamp = entry.get('timestamp', '')
-        mimetype = entry.get('mimetype', '')
-        
+
         # Extract year from timestamp
         if timestamp and len(timestamp) >= 4:
             year = timestamp[:4]
@@ -236,7 +235,7 @@ def main():
         if check_results:
             report['specific_urls_check'] = check_results
             
-            logger.info(f"\nSpecific URLs Check:")
+            logger.info("\nSpecific URLs Check:")
             logger.info(f"  Total requested: {check_results['total_requested']}")
             logger.info(f"  Found in archive: {check_results['found_count']} ({check_results['coverage_percentage']}%)")
             logger.info(f"  Not found: {check_results['not_found_count']}")

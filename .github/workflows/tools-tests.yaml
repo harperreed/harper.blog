@@ -34,6 +34,10 @@ jobs:
                   enable-cache: true
                   cache-dependency-glob: "tools/uv.lock"
 
+            - name: Lint
+              working-directory: ./tools
+              run: uv run ruff check .
+
             - name: Run tools test suite
               working-directory: ./tools
               run: uv run pytest -q

@@ -1,12 +1,10 @@
 # ABOUTME: Tests for the one-time fix_book_dates script that corrects wrong 2025-02-25 dates.
 # ABOUTME: Covers offline functions: date map building, book ID extraction, and frontmatter updates.
 
-import os
-import yaml
 import frontmatter
-import pytest
+import yaml
 
-from fix_book_dates import build_date_added_map, get_book_id_from_data_file, fix_dates
+from fix_book_dates import build_date_added_map, fix_dates, get_book_id_from_data_file
 
 
 def test_build_date_added_map_basic():

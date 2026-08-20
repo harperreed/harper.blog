@@ -2,9 +2,10 @@
 # ABOUTME: Infers the date from the directory name when frontmatter date is empty.
 
 import glob
-import re
-import frontmatter
 import os
+import re
+
+import frontmatter
 
 from book_files import write_frontmatter_file
 

@@ -1,24 +1,23 @@
-from __future__ import print_function
 
 import datetime
+import glob
+import json
+import logging
+import os
+import shutil
+from json import dumps, loads
+
+import frontmatter
+import requests
+import xmltodict
+import yaml
+from dotenv import load_dotenv
+from goodreads import review
 from openai import OpenAI
 from pydantic import BaseModel
-from typing import List
-import json
-import glob
-import os
-import requests
-import logging
-import yaml
-import shutil
 from slugify import slugify
-from dotenv import load_dotenv
-import xmltodict
-from pprint import pprint
-import frontmatter
+
 from book_files import write_frontmatter_file
-from goodreads import review
-from json import loads, dumps
 
 load_dotenv()
 
@@ -83,7 +82,7 @@ def get_book_summary(book_metadata):
         logging.info("Successfully received response from OpenAI API")
         logging.debug(f"Full API response: {response}")
     except Exception as e:
-        logging.error(f"Error occurred while calling OpenAI API: {str(e)}")
+        logging.error(f"Error occurred while calling OpenAI API: {e!s}")
         raise
 
     logging.info("Extracting tags from API response")
@@ -91,16 +90,16 @@ def get_book_summary(book_metadata):
     try:
         result = json.loads(response.choices[0].message.content)
     except json.JSONDecodeError as e:
-        logging.error(f"Failed to parse JSON from API response: {str(e)}")
+        logging.error(f"Failed to parse JSON from API response: {e!s}")
         raise
     except AttributeError as e:
-        logging.error(f"Unexpected API response structure: {str(e)}")
+        logging.error(f"Unexpected API response structure: {e!s}")
         raise
     except IndexError:
         logging.error("API response does not contain any choices")
         raise
     except Exception as e:
-        logging.error(f"Unexpected error while processing API response: {str(e)}")
+        logging.error(f"Unexpected error while processing API response: {e!s}")
         raise
 
     if not isinstance(result, dict):
@@ -182,13 +181,13 @@ def downloadAmazonImage(asin: str, book: dict, url: str, image_filename: str) ->
             return  # Exit after successful download
 
         except requests.exceptions.RequestException as e:
-            logging.error(f"Failed to download image: {str(e)}")
+            logging.error(f"Failed to download image: {e!s}")
             continue
-        except IOError as e:
-            logging.error(f"Failed to save image file: {str(e)}")
+        except OSError as e:
+            logging.error(f"Failed to save image file: {e!s}")
             continue
         except Exception as e:
-            logging.error(f"Unexpected error downloading image: {str(e)}")
+            logging.error(f"Unexpected error downloading image: {e!s}")
             continue
 
     logging.warning(f"Failed to download image for {book['title']} in any size")
@@ -228,7 +227,7 @@ def fix_date(date_string: str) -> str:
         logging.debug(f"Successfully converted date to ISO format: {iso_date}")
         return iso_date
     except ValueError as e:
-        logging.error(f"Failed to parse date string '{date_string}': {str(e)}")
+        logging.error(f"Failed to parse date string '{date_string}': {e!s}")
         return ""
 
 
@@ -268,7 +267,7 @@ def get_goodreads_book(id: str) -> dict:
         logging.error("Request timed out")
         raise
     except requests.exceptions.RequestException as e:
-        logging.error(f"Request failed: {str(e)}")
+        logging.error(f"Request failed: {e!s}")
         logging.debug(
             f"Response content: {resp.content[:500] if resp else 'No response'}"
         )
@@ -287,7 +286,7 @@ def get_goodreads_book(id: str) -> dict:
         return book
 
     except (xmltodict.expat.ExpatError, KeyError) as e:
-        logging.error(f"Failed to parse API response: {str(e)}")
+        logging.error(f"Failed to parse API response: {e!s}")
         raise
 
 
@@ -339,7 +338,7 @@ def get_goodreads_books(limit: int = 200) -> list:
         logging.error("Request to Goodreads API timed out")
         raise
     except requests.exceptions.RequestException as e:
-        logging.error(f"Failed to fetch books from Goodreads: {str(e)}")
+        logging.error(f"Failed to fetch books from Goodreads: {e!s}")
         logging.debug(
             f"Response content: {resp.content[:500] if resp else 'No response'}"
         )
@@ -357,7 +356,7 @@ def get_goodreads_books(limit: int = 200) -> list:
         reviews = [review.GoodreadsReview(r) for r in res["reviews"]["review"]]
 
     except (xmltodict.expat.ExpatError, KeyError) as e:
-        logging.error(f"Failed to parse API response: {str(e)}")
+        logging.error(f"Failed to parse API response: {e!s}")
         raise
 
     logging.info(f"Successfully fetched {len(reviews)} reviews")
@@ -410,7 +409,7 @@ def get_goodreads_books(limit: int = 200) -> list:
             books.append(book)
 
         except Exception as e:
-            logging.error(f"Error processing book review: {str(e)}")
+            logging.error(f"Error processing book review: {e!s}")
             continue
 
     logging.info(f"Successfully processed {len(books)} books")
@@ -525,7 +524,7 @@ def main():
     try:
         books = get_goodreads_books(limit=15)
     except Exception as e:
-        logging.error(f"Failed to get books from Goodreads: {str(e)}")
+        logging.error(f"Failed to get books from Goodreads: {e!s}")
         return 1
 
     for book in books:
@@ -560,7 +559,7 @@ def main():
                 with open(data_filename, "w", encoding="utf-8") as f:
                     yaml.safe_dump(book_data, f, default_flow_style=False)
             except Exception as e:
-                logging.error(f"Failed processing book data for {book['title']}: {str(e)}")
+                logging.error(f"Failed processing book data for {book['title']}: {e!s}")
                 continue
         else:
             logging.debug(f"Loading existing book data from {data_filename}")
@@ -568,7 +567,7 @@ def main():
                 with open(data_filename, "r", encoding="utf-8") as stream:
                     book_data = yaml.safe_load(stream)
             except Exception as e:
-                logging.error(f"Failed loading book data from {data_filename}: {str(e)}")
+                logging.error(f"Failed loading book data from {data_filename}: {e!s}")
                 continue
 
         os.makedirs(post_directory, exist_ok=True)
@@ -611,7 +610,7 @@ def main():
                             link_related_reads(hugo_book_dir, new_slug, existing)
 
             except Exception as e:
-                logging.error(f"Failed creating post for {book['title']}: {str(e)}")
+                logging.error(f"Failed creating post for {book['title']}: {e!s}")
                 continue
 
         # Download cover image
@@ -622,7 +621,7 @@ def main():
                 try:
                     downloadAmazonImage(asin, book_data, "", image_filename)
                 except Exception as e:
-                    logging.error(f"Failed downloading image for {book['title']}: {str(e)}")
+                    logging.error(f"Failed downloading image for {book['title']}: {e!s}")
 
     logging.info("Main processing completed")
     return 0

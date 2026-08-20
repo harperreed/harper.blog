@@ -1,9 +1,10 @@
+import logging
 import os
 import re
-import requests
-import logging
 from pathlib import Path
 from urllib.parse import urlparse
+
+import requests
 
 # Centralized logging configuration
 logging.basicConfig(
@@ -20,7 +21,7 @@ def download_image(url: str, output_path: Path) -> bool:
         with open(output_path, 'wb') as f:
             f.write(response.content)
         return True
-    except requests.RequestException as e:
+    except requests.RequestException:
         logging.exception("Failed to download image from %s", url)
         return False
 def process_images(content: str, post_dir: Path) -> str:

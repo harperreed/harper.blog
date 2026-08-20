@@ -1,7 +1,6 @@
 # ABOUTME: Tests for re-read detection and goodreads_work_id surfacing in the book ingestion script.
 # ABOUTME: Covers metadata creation and re-read scanning logic.
 
-import os
 import frontmatter as fm
 
 from grab_read_books import create_post_metadata
@@ -50,7 +49,7 @@ def test_create_post_metadata_handles_missing_work_id():
     assert metadata["goodreads_work_id"] == ""
 
 
-from grab_read_books import find_existing_reads
+from grab_read_books import find_existing_reads  # noqa: E402 intentional
 
 
 def test_find_existing_reads_finds_match(tmp_path):
@@ -158,11 +157,13 @@ def test_create_post_metadata_falls_back_to_date_added():
     assert metadata["date"] == "2023-06-15T00:00:00-07:00"
 
 
-from grab_read_books import link_related_reads
+from grab_read_books import link_related_reads  # noqa: E402 intentional
 
 
 def test_openai_client_has_timeout():
-    import inspect, grab_read_books
+    import inspect
+
+    import grab_read_books
     assert "OpenAI(timeout=" in inspect.getsource(grab_read_books.get_book_summary)
 
 

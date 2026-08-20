@@ -2,48 +2,51 @@
 # ABOUTME: This script audits blog posts that are 10+ years old and replaces external links with archive.org links
 # ABOUTME: It helps preserve content accessibility by preventing link rot in older posts
 
-import os
-import re
-from datetime import datetime, timedelta
 import argparse
-from pathlib import Path
-import frontmatter
-from urllib.parse import urlparse
 import logging
+import re
 import time
+from datetime import datetime, timedelta
+from pathlib import Path
+from urllib.parse import urlparse
+
+import frontmatter
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 logger = logging.getLogger(__name__)
 
+# Archive services whose links are already preserved; internal domains that never need archiving
+ARCHIVE_DOMAINS = ('archive.org', 'archive.is', 'archive.today', 'archive.ph', 'archive.vn')
+INTERNAL_DOMAINS = ('localhost', '127.0.0.1', 'harper.blog', 'nata2.org', 'nata3.org')
+
+def host_matches(hostname, domains):
+    """Check if hostname equals or is a subdomain of any domain — substring checks let look-alike hosts through"""
+    if not hostname:
+        return False
+    host = hostname.lower()
+    return any(host == domain or host.endswith('.' + domain) for domain in domains)
+
 def is_external_link(url):
     """Check if a URL is an external link that needs archiving"""
     if not url:
         return False
-    
+
     # Parse the URL
     parsed = urlparse(url)
-    
+
     # If no scheme or netloc, it's likely a relative link
     if not parsed.scheme or not parsed.netloc:
         return False
-    
-    # Check if it's already an archive.org link
-    if 'archive.org' in parsed.netloc or 'web.archive.org' in parsed.netloc:
+
+    # Check if it's already an archive service link
+    if host_matches(parsed.hostname, ARCHIVE_DOMAINS):
         return False
-    
-    # Check if it's an archive.is or archive.today link
-    if any(domain in parsed.netloc for domain in ['archive.is', 'archive.today', 'archive.ph', 'archive.vn']):
-        return False
-    
-    # List of local/internal domains (customize as needed)
-    internal_domains = ['localhost', '127.0.0.1', 'harper.blog', 'nata2.org', 'nata3.org']
-    
+
     # Check if the domain is internal
-    for domain in internal_domains:
-        if domain in parsed.netloc:
-            return False
-    
+    if host_matches(parsed.hostname, INTERNAL_DOMAINS):
+        return False
+
     return True
 
 def extract_links_from_content(content):
@@ -126,7 +129,7 @@ def process_post(file_path, dry_run=False, summary_only=False):
             try:
                 # Remove timezone info for consistent comparison
                 post_date = datetime.fromisoformat(post_date.replace('+00:00', '').replace('Z', ''))
-            except:
+            except:  # noqa: E722 behavioral
                 if not summary_only:
                     logger.warning(f"Could not parse date in {file_path}: {post_date}")
                 return stats
@@ -159,9 +162,7 @@ def process_post(file_path, dry_run=False, summary_only=False):
         for link in links:
             parsed = urlparse(link['url'])
             if parsed.scheme and parsed.netloc:
-                if 'archive.org' in parsed.netloc or 'web.archive.org' in parsed.netloc:
-                    archived_count += 1
-                elif any(domain in parsed.netloc for domain in ['archive.is', 'archive.today', 'archive.ph', 'archive.vn']):
+                if host_matches(parsed.hostname, ARCHIVE_DOMAINS):
                     archived_count += 1
                 elif is_external_link(link['url']):
                     external_links.append(link)
@@ -176,9 +177,9 @@ def process_post(file_path, dry_run=False, summary_only=False):
             
             if not external_links:
                 if archived_count > 0:
-                    logger.info(f"  No new external links to archive")
+                    logger.info("  No new external links to archive")
                 else:
-                    logger.info(f"  No external links found")
+                    logger.info("  No external links found")
                 return stats
             
             logger.info(f"  Found {len(external_links)} external links to archive")
@@ -323,7 +324,7 @@ def main():
             if not args.dry_run and not args.summary and stats['updated']:
                 time.sleep(0.5)
     
-    logger.info(f"\nSummary:")
+    logger.info("\nSummary:")
     logger.info(f"  Total posts processed: {processed_count}")
     logger.info(f"  Posts 10+ years old: {old_posts_count}")
     logger.info(f"  Old posts with any links: {posts_with_links}")
