@@ -18,10 +18,13 @@ def test_cache_keys_use_sha256_not_md5():
     assert "hashlib.md5(prompt" not in SRC
     assert "cache_key = hashlib.md5(" not in SRC
     assert SRC.count("hashlib.sha256(") >= 2
+    assert 'cache_key = hashlib.sha256(f"{OPENAI_MODEL}:{prompt}".encode())' in SRC
+    assert 'cache_key = hashlib.sha256(url.encode())' in SRC
 
 
 def test_feed_content_sent_as_separate_user_data_message():
-    assert '"role": "system"' in SRC  # instructions live in the system message
+    assert '"role": "system", "content": system_message' in SRC  # instructions in system_message
+    assert '"role": "user", "content": user_message' in SRC  # data in user_message
 
 
 def test_slug_hash_still_md5():
