@@ -27,3 +27,4 @@ def test_mixed_entries_sort_without_typeerror():
     ]
     ordered = sorted(entries, key=lambda x: gm.parse_feed_date(x.get("date_published")))
     assert len(ordered) == 3
+    assert ordered[0]["date_published"] == "2025-06-01T11:00:00"
