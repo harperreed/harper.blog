@@ -16,7 +16,7 @@
 
 {{ partial "post-translations.html" . }}
 
-{{ partialCached "out_of_date.html" . (.Date.Format "2006-01-02") }}
+{{ partialCached "out_of_date.html" . (printf "%s-%d" (.Date.Format "2006-01-02") now.Year) }}
 
 <article>
 

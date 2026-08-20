@@ -26,13 +26,13 @@ preview:
 dev:
 	hugo server --buildDrafts --buildFuture --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic
 
-prod_build_verbose: getmodules
+prod_build_verbose:
 	hugo --cleanDestinationDir --templateMetrics --templateMetricsHints --minify --forceSyncStatic --gc --logLevel info
 
 	
 	
 # Build the site with production settings and optimizations
-prod_build: getmodules
+prod_build:
 	hugo --cleanDestinationDir --minify --forceSyncStatic --gc --logLevel info
 
 gitlog:

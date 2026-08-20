@@ -9,9 +9,10 @@ HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 GO_VERSION = "1.23"         # Add this line to specify a modern Go version
 
+# branch deploys inherit [build] which has no HUGO_ENV → hugo.IsProduction=false → noindex active — intentional
 [context.deploy-preview]
 HUGO_VERSION = "0.164.0"
-command = "make getmodules; ./scripts/build_with_random_theme.sh --cleanDestinationDir --templateMetrics --templateMetricsHints --gc --logLevel info --buildDrafts --buildFuture -b $DEPLOY_PRIME_URL"
+command = "./scripts/build_with_random_theme.sh --cleanDestinationDir --templateMetrics --templateMetricsHints --gc --logLevel info --buildDrafts --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.164.0"
@@ -30,20 +31,19 @@ Referrer-Policy = "strict-origin-when-cross-origin"
 Permissions-Policy = "microphone=(), payment=(), geolocation=(), midi=(), sync-xhr=(), camera=(), magnetometer=(), gyroscope=()"
 Content-Security-Policy = """
     default-src 'self' https://harper.blog;
-    script-src 'self' https://harper.blog https://unpkg.com https://cdnjs.cloudflare.com https://static.cloudflareinsights.com https://tinylytics.app;
+    script-src 'self' https://harper.blog https://static.cloudflareinsights.com https://tinylytics.app;
     style-src 'self' https://harper.blog;
     font-src 'self' https://harper.blog;
-    img-src 'self' data: https: http: * https://s.gravatar.com https://cdn.bsky.app;
-    connect-src 'self' https:;
+    img-src 'self' data: https:;
+    connect-src 'self' https://public.api.bsky.app https://bsky.social https://tinylytics.app https://cloudflareinsights.com https://static.cloudflareinsights.com;
     media-src 'self' https://harper.blog;
     object-src 'none';
     frame-src 'self' https://www.youtube.com https://youtube.com https://youtu.be https://open.spotify.com;
     frame-ancestors 'self';
     form-action 'self';
     base-uri 'self';
+    manifest-src 'self';
     upgrade-insecure-requests;"""
-X-XSS-Protection = "1; mode=block"
-
 # Special headers for images directory
 [[headers]]
 for = "/images/*"
@@ -63,7 +63,6 @@ Access-Control-Allow-Origin = "*"
 Access-Control-Allow-Methods = "GET, HEAD, OPTIONS"
 Access-Control-Allow-Headers = "*"
 Cache-Control = "public, max-age=3600"
-Referrer-Policy = "no-referrer-when-downgrade"
 
 
 # Cache Control for Static Assets
@@ -104,7 +103,7 @@ Cache-Control = "public, max-age=600"
 [[headers]]
 for = "/"
 [headers.values]
-Cache-Control = "public, max-age=3600"
+Cache-Control = "public, max-age=600"
 Link = """</.well-known/api-catalog>; rel="api-catalog", </sitemap.xml>; rel="sitemap"; type="application/xml", </index.xml>; rel="alternate"; type="application/rss+xml"; title="RSS Feed\""""
 
 # Agent discovery: .well-known endpoints

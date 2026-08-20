@@ -14,7 +14,7 @@
             <xsl:value-of select="/rss/channel/description"/>
           </xsl:attribute>
         </meta>
-        <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+        <script src="/js/tailwind-browser-4.js"></script>
         <!-- Fallback styles in case Tailwind fails to load -->
         <style>
           @media (prefers-reduced-motion: reduce) {
