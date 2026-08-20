@@ -5,15 +5,20 @@ on:
         - cron: "*/10 * * * *" # Runs every 10 minutes
     workflow_dispatch: # Allows manual triggering
 
-# Add concurrency control (a run that outlives the 10-minute cadence would
-# otherwise overlap the next one and race on the registry push)
+# A running publish is never killed mid-write; the pending slot holds the
+# latest queued tick. The timeout-minutes is the hang backstop.
 concurrency:
     group: micro-posts-${{ github.ref }}
-    cancel-in-progress: true
+    cancel-in-progress: false
+
+permissions:
+    contents: write
+    issues: write
 
 jobs:
     update-micro-posts:
         runs-on: ubuntu-latest
+        timeout-minutes: 8
         env:
             NOTES_JSON_FEED_URL: ${{ secrets.JSON_FEED_URL }}
             NOTES_HUGO_CONTENT_DIR: ../content/notes
@@ -21,12 +26,12 @@ jobs:
 
         steps:
             - name: Check out repository
-              uses: actions/checkout@0717577d45739eb3c851188b29f50ed6c0b2194e # v2
+              uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
               with:
-                fetch-depth: 0 # Full history to ensure we have all previous commits
+                  fetch-depth: 1
 
             - name: Install the latest version of uv
-              uses: astral-sh/setup-uv@caf0cab7a618c569241d31dcd442f54681755d39 # v3
+              uses: astral-sh/setup-uv@d4b2f3b6ecc6e67c4457f6d3e41ec42d3d0fcb86 # v5
               with:
                   version: "latest"
                   enable-cache: true
@@ -48,4 +53,26 @@ jobs:
                   # Ensure registry files are tracked to prevent duplicate processing across runs
                   git add data/notes/processed_urls.json || true
                   git add data/notes/processed_content_hashes.json || true
-                  git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update micro posts with registry" && git push)
+                  git diff --quiet && git diff --staged --quiet && exit 0
+                  git commit -m "Auto update micro posts with registry"
+                  for attempt in 1 2 3; do
+                      git pull --rebase origin main && git push && exit 0
+                      echo "push attempt ${attempt} failed; retrying"
+                      sleep $((attempt * 5))
+                  done
+                  echo "::error::push failed after 3 rebase attempts"
+                  exit 1
+
+            - name: Alert on failure
+              if: failure()
+              env:
+                  GH_TOKEN: ${{ github.token }}
+              run: |
+                  title="Cron failure: ${{ github.workflow }}"
+                  run_url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+                  existing=$(gh issue list --state open --label automation-failure --search "\"$title\" in:title" --json number --jq '.[0].number // empty')
+                  if [ -n "$existing" ]; then
+                      gh issue comment "$existing" --body "Still failing: $run_url"
+                  else
+                      gh issue create --title "$title" --label automation-failure --body "Workflow run failed: $run_url — recovery notes in docs/robustness-audit-2026-08-20.md (failure-visibility section) and gotchas.md (Spotify reauth)."
+                  fi
