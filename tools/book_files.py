@@ -1,9 +1,10 @@
 # ABOUTME: Shared writer for book index.md files across the goodreads tools.
 # ABOUTME: Serializes before opening so a failed dump never truncates or leaves a zero-byte file.
 
-import frontmatter
 import os
 import tempfile
+
+import frontmatter
 
 
 def write_frontmatter_file(post, path):

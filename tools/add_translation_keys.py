@@ -5,12 +5,11 @@ ABOUTME: A tool to add translationKey to the frontmatter of Hugo content files.
 ABOUTME: This helps with multilingual content by linking translations across languages.
 """
 
-import os
-import sys
 import argparse
-import uuid
 import logging
+import uuid
 from pathlib import Path
+
 import frontmatter
 from slugify import slugify
 

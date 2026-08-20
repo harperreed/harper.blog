@@ -1,8 +1,8 @@
 # ABOUTME: Shared utilities for note/micro-post processing across tools.
 # ABOUTME: Contains content normalization, hashing, and note ID extraction.
 
-import re
 import hashlib
+import re
 
 
 def normalize_content(content):

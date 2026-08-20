@@ -8,8 +8,6 @@ import sys
 import tempfile
 
 import frontmatter
-import pytest
-
 
 # ---------------------------------------------------------------------------
 # C2a — frontmatter injection via feed body
@@ -143,7 +141,7 @@ def test_starred_links_main_returns_nonzero_on_missing_env():
     import it in a test environment without credentials.  We test the behavior by calling
     the implementation logic directly via its module globals.
     """
-    import unittest.mock as mock
+    from unittest import mock
     # Use sys.modules trick: provide a fully-mocked module so import succeeds
     fake_module = mock.MagicMock()
     fake_module.RSS_URL = None
@@ -151,7 +149,6 @@ def test_starred_links_main_returns_nonzero_on_missing_env():
 
     # The real check we want: main() in the fixed code returns nonzero when globals are None.
     # Verify the guard logic directly by inspecting the source.
-    import inspect, ast
     source_path = os.path.join(os.path.dirname(__file__), "..", "grab_starred_links.py")
     source = open(source_path).read()
     # Ensure the fixed code uses `return` with a nonzero int (not bare return) on the guard
@@ -272,8 +269,6 @@ def test_books_main_skips_bad_date_and_continues(monkeypatch):
         "num_pages": "100",
     }
 
-    processed = []
-
     monkeypatch.setattr(grab_read_books, "get_goodreads_books", lambda limit=15: [bad_book, good_book])
     # We only want to verify that main() doesn't abort — stub out the heavy work
     original_makedirs = os.makedirs
@@ -283,10 +278,10 @@ def test_books_main_skips_bad_date_and_continues(monkeypatch):
 
     # Just confirm it returns 0 or at least doesn't raise
     # We do a minimal test: bad_book with empty date should be skipped, not crash
-    with tempfile.TemporaryDirectory() as tmpdir:
+    with tempfile.TemporaryDirectory() as _:
         monkeypatch.setattr(grab_read_books, "get_goodreads_books", lambda limit=15: [bad_book])
         # Patch directories
-        import unittest.mock as mock
+        from unittest import mock
         with mock.patch("grab_read_books.os.makedirs"):
             # The key check: strptime on empty date must not raise
             from grab_read_books import fix_date

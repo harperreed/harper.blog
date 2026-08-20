@@ -22,7 +22,7 @@ DEFAULT_THEMES_CSS = REPO / "assets/css/themes.css"
 def parse_blocks(text):
     """Yield (selector, in_dark_media, {var: value}) for each rule block."""
     out = []
-    text = re.sub(r"/\*.*?\*/", "", text, flags=re.S)
+    text = re.sub(r"/\*.*?\*/", "", text, flags=re.DOTALL)
     i, n = 0, len(text)
     media_stack = []
     in_dark = False

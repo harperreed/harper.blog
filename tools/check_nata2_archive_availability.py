@@ -2,17 +2,17 @@
 # ABOUTME: This script extracts all nata2.info URLs from blog posts and checks their availability on archive.org
 # ABOUTME: It outputs URLs to a text file and creates a report showing which URLs are archived
 
-import os
-import re
-from pathlib import Path
-import frontmatter
-from urllib.parse import urlparse, quote
-import requests
-import time
-import json
-from datetime import datetime
 import argparse
+import json
 import logging
+import re
+import time
+from datetime import datetime
+from pathlib import Path
+from urllib.parse import urlparse
+
+import frontmatter
+import requests
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
@@ -253,8 +253,7 @@ def main():
     # Write URLs to text file
     output_path = project_root / args.output
     with open(output_path, 'w', encoding='utf-8') as f:
-        for url in sorted(all_urls):
-            f.write(url + '\n')
+        f.writelines(url + '\n' for url in sorted(all_urls))
     logger.info(f"Wrote URL list to: {output_path}")
     
     # Create report structure
@@ -281,7 +280,7 @@ def main():
                 archived_count += 1
                 logger.info(f"  ✓ Archived: {result['archive_url']}")
             else:
-                logger.info(f"  ✗ Not archived")
+                logger.info("  ✗ Not archived")
             
             # Show progress
             if i % 10 == 0:
@@ -291,7 +290,7 @@ def main():
         report['missing_count'] = len(all_urls) - archived_count
         report['archive_percentage'] = round((archived_count / len(all_urls)) * 100, 2) if all_urls else 0
         
-        logger.info(f"\n\nArchive Summary:")
+        logger.info("\n\nArchive Summary:")
         logger.info(f"  Total URLs: {len(all_urls)}")
         logger.info(f"  Archived: {archived_count} ({report['archive_percentage']}%)")
         logger.info(f"  Missing: {report['missing_count']}")

@@ -5,7 +5,7 @@ check: tools-test check-i18n check-contrast
 
 # Run the Python tools test suite
 tools-test:
-	cd tools && uv run pytest -q
+	cd tools && uv run ruff check . && uv run pytest -q
 
 # Build the Hugo site
 build:

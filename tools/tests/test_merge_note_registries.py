@@ -1,6 +1,5 @@
 # ABOUTME: Tests for the one-off registry merge script that heals the
 # ABOUTME: split between data/notes and the abandoned content/data/notes registries.
-from pathlib import Path
 
 from merge_note_registries import merge_registries, sweep_notes_dir
 

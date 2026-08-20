@@ -2,16 +2,15 @@
 # ABOUTME: This script smartly matches nata2.info URLs from blog posts with archived URLs
 # ABOUTME: It handles different URL formats and finds the best available archive matches
 
-import os
-import json
-import requests
 import argparse
+import json
 import logging
-from pathlib import Path
-from urllib.parse import urlparse, quote, unquote, parse_qs
-import time
+import os
 from collections import defaultdict
 from datetime import datetime
+from urllib.parse import parse_qs, unquote, urlparse
+
+import requests
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
@@ -265,7 +264,7 @@ def main():
     logger.info("Finding matches...")
     matches, no_matches = find_matches(requested_urls, cdx_data)
     
-    logger.info(f"\nResults:")
+    logger.info("\nResults:")
     logger.info(f"  Matched: {len(matches)} URLs")
     logger.info(f"  Not matched: {len(no_matches)} URLs")
     logger.info(f"  Coverage: {round((len(matches) / len(requested_urls)) * 100, 2)}%")

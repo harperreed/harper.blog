@@ -1,15 +1,13 @@
-import os
-import re
 import hashlib
-import frontmatter
 import logging
-import requests
-from slugify import slugify
-import sys
-from datetime import datetime
-from pathlib import Path
+import os
 from functools import lru_cache
+from pathlib import Path
+
+import frontmatter
+import requests
 from dotenv import load_dotenv
+from slugify import slugify
 
 # Load environment variables from .env file if it exists
 load_dotenv()

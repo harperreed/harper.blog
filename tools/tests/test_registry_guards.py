@@ -1,8 +1,8 @@
 # ABOUTME: Corrupt registries must abort the run (exit non-zero), never
 # ABOUTME: silently reset to empty — an empty registry recreates all notes.
-import pytest
 import sys
-from unittest.mock import patch
+
+import pytest
 
 import grab_micro_posts_fixed as gm
 

@@ -42,8 +42,7 @@ def _splat_base(target_pattern: str) -> str:
     '/:splat'                   →  '/'
     """
     without_splat = target_pattern.replace(":splat", "").rstrip("/")
-    if without_splat.endswith("/page"):
-        without_splat = without_splat[: -len("/page")]
+    without_splat = without_splat.removesuffix("/page")
     return without_splat + "/"
 
 

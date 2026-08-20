@@ -1,17 +1,17 @@
-import requests
+import hashlib
+import logging
 import os
 import re
-import hashlib
-import json
 from datetime import datetime
-from bs4 import BeautifulSoup
 from functools import lru_cache
-import html2text
-import frontmatter
-from slugify import slugify
 from urllib.parse import urlparse
+
+import frontmatter
+import html2text
+import requests
+from bs4 import BeautifulSoup
 from dotenv import load_dotenv
-import logging
+from slugify import slugify
 
 # Load environment variables from .env file if it exists
 load_dotenv()
@@ -186,7 +186,7 @@ def get_highest_note_id(hugo_content_dir):
                             except (IndexError, ValueError):
                                 continue
                 except Exception as e:
-                    logging.error(f"Error reading file {os.path.join(root, file)}: {str(e)}")
+                    logging.error(f"Error reading file {os.path.join(root, file)}: {e!s}")
     
     return highest_note_id
 

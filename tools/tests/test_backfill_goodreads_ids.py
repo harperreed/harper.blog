@@ -3,11 +3,16 @@
 
 import os
 import tempfile
-import yaml
-import frontmatter
-import pytest
 
-from backfill_goodreads_ids import get_work_id_from_data_file, backfill_work_ids, detect_and_link_rereads, check_is_reread
+import frontmatter
+import yaml
+
+from backfill_goodreads_ids import (
+    backfill_work_ids,
+    check_is_reread,
+    detect_and_link_rereads,
+    get_work_id_from_data_file,
+)
 
 
 def test_get_work_id_from_data_file():

@@ -1,6 +1,6 @@
 # ABOUTME: Feed date handling must never mix naive and aware datetimes —
 # ABOUTME: one malformed date_published used to TypeError the whole run.
-from datetime import timezone
+from datetime import UTC
 
 import grab_micro_posts_fixed as gm
 
@@ -11,7 +11,7 @@ def test_parse_feed_date_aware_passthrough():
 
 
 def test_parse_feed_date_naive_becomes_utc():
-    assert gm.parse_feed_date("2025-06-01T12:00:00").tzinfo == timezone.utc
+    assert gm.parse_feed_date("2025-06-01T12:00:00").tzinfo == UTC
 
 
 def test_parse_feed_date_garbage_and_none_are_aware():

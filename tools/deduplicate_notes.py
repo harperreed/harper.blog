@@ -1,12 +1,14 @@
 #!/usr/bin/env python
-import os
 import json
 import logging
+import os
 import shutil
 from datetime import datetime
 from pathlib import Path
+
 import frontmatter
-from note_utils import normalize_content, generate_content_hash, get_note_id_from_title
+
+from note_utils import generate_content_hash, get_note_id_from_title, normalize_content
 
 # ABOUTME: This script finds and removes duplicate notes, keeping the most recent version.
 # ABOUTME: It detects duplicates based on content similarity and handles Note ID preservation.

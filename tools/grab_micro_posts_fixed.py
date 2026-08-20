@@ -1,13 +1,12 @@
 import hashlib
-import html
 import json
 import logging
 import os
 import re
 import tempfile
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from functools import lru_cache
-from urllib.parse import urlparse, urljoin
+from urllib.parse import urljoin, urlparse
 
 import frontmatter
 import html2text
@@ -16,7 +15,7 @@ from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 from slugify import slugify
 
-from note_utils import normalize_content, generate_content_hash, get_note_id_from_title
+from note_utils import generate_content_hash, normalize_content
 
 # Load environment variables from .env file if it exists
 load_dotenv()
@@ -53,16 +52,16 @@ def parse_feed_date(value):
         datetime: Always timezone-aware, in UTC.
     """
     if value is None:
-        return datetime.now(timezone.utc)
+        return datetime.now(UTC)
     try:
         dt = datetime.fromisoformat(value)
         if dt.tzinfo is None:
             # Naive datetime — feed didn't include an offset; treat as UTC.
-            dt = dt.replace(tzinfo=timezone.utc)
+            dt = dt.replace(tzinfo=UTC)
         return dt
     except (ValueError, TypeError):
         logging.warning(f"Unparseable feed date '{value}', substituting current UTC time")
-        return datetime.now(timezone.utc)
+        return datetime.now(UTC)
 
 
 class RegistryCorruptError(RuntimeError):
@@ -268,7 +267,7 @@ def load_url_registry(data_dir):
         try:
             with open(registry_path, 'r', encoding='utf-8') as f:
                 return json.load(f)
-        except (json.JSONDecodeError, IOError) as e:
+        except (OSError, json.JSONDecodeError) as e:
             logging.error(f"Error loading URL registry: {e}")
             raise RegistryCorruptError(
                 f"{registry_path}: {e} — refusing to run with an empty registry (would recreate existing notes)"
@@ -294,7 +293,7 @@ def save_url_registry(registry, data_dir):
         except Exception:
             os.unlink(tmp_path)
             raise
-    except IOError as e:
+    except OSError as e:
         logging.error(f"Error saving URL registry: {e}")
 
 
@@ -313,7 +312,7 @@ def load_content_registry(data_dir):
         try:
             with open(registry_path, 'r', encoding='utf-8') as f:
                 return json.load(f)
-        except (json.JSONDecodeError, IOError) as e:
+        except (OSError, json.JSONDecodeError) as e:
             logging.error(f"Error loading content registry: {e}")
             raise RegistryCorruptError(
                 f"{registry_path}: {e} — refusing to run with an empty registry (would recreate existing notes)"
@@ -339,7 +338,7 @@ def save_content_registry(registry, data_dir):
         except Exception:
             os.unlink(tmp_path)
             raise
-    except IOError as e:
+    except OSError as e:
         logging.error(f"Error saving content registry: {e}")
 
 
@@ -525,7 +524,7 @@ def scan_existing_notes(hugo_content_dir):
                             except (IndexError, ValueError):
                                 continue
                 except Exception as e:
-                    logging.error(f"Error reading file {os.path.join(root, file)}: {str(e)}")
+                    logging.error(f"Error reading file {os.path.join(root, file)}: {e!s}")
     
     return highest_note_id, note_id_map, existing_note_ids
 
@@ -740,7 +739,6 @@ def create_hugo_content(entry, output_dir, url_registry, content_registry, data_
 def main():
     """Main function to process microblog entries. Returns 0 on success, 1 on failure."""
     import argparse
-    import sys as _sys
 
     # Set up command line arguments
     parser = argparse.ArgumentParser(description='Process microblog entries and create Hugo content')
