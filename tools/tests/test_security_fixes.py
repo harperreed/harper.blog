@@ -152,7 +152,7 @@ def test_starred_links_main_returns_nonzero_on_missing_env():
     # The real check we want: main() in the fixed code returns nonzero when globals are None.
     # Verify the guard logic directly by inspecting the source.
     import inspect, ast
-    source_path = os.path.join(os.path.dirname(__file__), "grab_starred_links.py")
+    source_path = os.path.join(os.path.dirname(__file__), "..", "grab_starred_links.py")
     source = open(source_path).read()
     # Ensure the fixed code uses `return` with a nonzero int (not bare return) on the guard
     assert "return 1" in source or "sys.exit" in source, (
@@ -334,7 +334,7 @@ def test_starred_links_cache_directory_matches_workflow():
     grab_starred_links can't be imported without live API keys (FirecrawlApp + OpenAI
     initialise at module level), so we check the source directly.
     """
-    source_path = os.path.join(os.path.dirname(__file__), "grab_starred_links.py")
+    source_path = os.path.join(os.path.dirname(__file__), "..", "grab_starred_links.py")
     source = open(source_path).read()
     # Workflow caches ./tools/.script_cache; code must use ".script_cache" (dot-prefixed).
     assert 'CACHE_DIRECTORY = ".script_cache"' in source, (
