@@ -34,6 +34,10 @@ logging.basicConfig(
 URL_REGISTRY_FILENAME = "processed_urls.json"
 CONTENT_REGISTRY_FILENAME = "processed_content_hashes.json"
 
+# Network safety: cap how long we wait for feeds and how large an image can be.
+HTTP_TIMEOUT = 30
+MAX_IMAGE_BYTES = 10 * 1024 * 1024
+
 
 def normalize_url(url):
     """
@@ -85,7 +89,7 @@ def download_json_feed(url):
         requests.RequestException: If download fails
     """
     try:
-        response = requests.get(url)
+        response = requests.get(url, timeout=HTTP_TIMEOUT)
         response.raise_for_status()
         return response.json()
     except requests.RequestException as e:
@@ -117,23 +121,50 @@ def html_to_markdown(html_content):
 def download_image(url, output_path):
     """
     Download an image from URL to local file.
-    
+
+    Rejects non-image content types and aborts if the download exceeds
+    MAX_IMAGE_BYTES to prevent poisoning the build with untrusted blobs.
+    Uses a temp file in the same directory so a failed download never leaves
+    a partial file at output_path.
+
     Args:
         url (str): Image URL
         output_path (str): Local path to save image
-        
+
     Returns:
         bool: True if successful, False otherwise
     """
+    tmp_path = None
     try:
-        response = requests.get(url)
+        response = requests.get(url, timeout=HTTP_TIMEOUT, stream=True)
         response.raise_for_status()
-        with open(output_path, 'wb') as f:
-            f.write(response.content)
+        content_type = response.headers.get("Content-Type", "")
+        if not content_type.startswith("image/"):
+            logging.warning(f"Skipping non-image response for {url}: Content-Type={content_type!r}")
+            response.close()
+            return False
+        output_dir = os.path.dirname(os.path.abspath(output_path))
+        tmp_fd, tmp_path = tempfile.mkstemp(dir=output_dir)
+        total = 0
+        with os.fdopen(tmp_fd, "wb") as f:
+            for chunk in response.iter_content(chunk_size=65536):
+                total += len(chunk)
+                if total > MAX_IMAGE_BYTES:
+                    logging.warning(f"Image too large (>{MAX_IMAGE_BYTES} bytes), aborting: {url}")
+                    response.close()
+                    os.unlink(tmp_path)
+                    tmp_path = None
+                    return False
+                f.write(chunk)
+        os.replace(tmp_path, output_path)
+        tmp_path = None
         return True
     except requests.RequestException as e:
         logging.error(f"Failed to download image from {url}: {e}")
         return False
+    finally:
+        if tmp_path and os.path.exists(tmp_path):
+            os.unlink(tmp_path)
 
 
 def process_images(content, post_dir, base_url=None):
@@ -356,7 +387,7 @@ def get_archival_feed():
         dict: Parsed JSON feed or None if fetch fails
     """
     try:
-        response = requests.get(ARCHIVAL_FEED_URL)
+        response = requests.get(ARCHIVAL_FEED_URL, timeout=HTTP_TIMEOUT)
         response.raise_for_status()
         return response.json()
     except Exception as e:
