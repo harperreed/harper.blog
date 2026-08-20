@@ -39,6 +39,14 @@ HTTP_TIMEOUT = 30
 MAX_IMAGE_BYTES = 10 * 1024 * 1024
 
 
+class RegistryCorruptError(RuntimeError):
+    """Raised when a registry file exists but cannot be parsed as JSON.
+
+    A missing registry is fine (first run). A present-but-unreadable registry
+    must abort — silently resetting would recreate every historical note.
+    """
+
+
 def normalize_url(url):
     """
     Normalize URLs to prevent duplicates from minor variations.
@@ -236,7 +244,9 @@ def load_url_registry(data_dir):
                 return json.load(f)
         except (json.JSONDecodeError, IOError) as e:
             logging.error(f"Error loading URL registry: {e}")
-            return {}
+            raise RegistryCorruptError(
+                f"{registry_path}: {e} — refusing to run with an empty registry (would recreate existing notes)"
+            ) from e
     return {}
 
 
@@ -279,7 +289,9 @@ def load_content_registry(data_dir):
                 return json.load(f)
         except (json.JSONDecodeError, IOError) as e:
             logging.error(f"Error loading content registry: {e}")
-            return {}
+            raise RegistryCorruptError(
+                f"{registry_path}: {e} — refusing to run with an empty registry (would recreate existing notes)"
+            ) from e
     return {}
 
 
