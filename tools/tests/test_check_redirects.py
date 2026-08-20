@@ -156,6 +156,21 @@ def test_splat_rule_direct_section_missing_exits_1(tmp_path):
     assert result == 1
 
 
+def test_splat_rule_root_target(tmp_path):
+    """A /:splat rule (strip-prefix redirect, e.g. /id/*) validates the site root."""
+    import check_redirects
+
+    site_dir = tmp_path / "site"
+    _make_site_page(site_dir, "/")
+
+    redirects = _write_redirects(tmp_path, """\
+        /id/* /:splat 301
+    """)
+
+    result = check_redirects.main([str(site_dir), str(redirects)])
+    assert result == 0
+
+
 def test_splat_rule_invalid_when_section_missing(tmp_path):
     """A splat rule whose target base section is absent from the built site must exit 1."""
     import check_redirects
