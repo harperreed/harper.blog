@@ -125,6 +125,37 @@ def test_splat_rule_valid_when_section_exists(tmp_path):
     assert result == 0
 
 
+def test_splat_rule_direct_section_valid(tmp_path):
+    """A /section/:splat rule verifies the section itself exists."""
+    import check_redirects
+
+    site_dir = tmp_path / "site"
+    _make_site_page(site_dir, "/media/books/")
+
+    redirects = _write_redirects(tmp_path, """\
+        /old/* /media/books/:splat 301
+    """)
+
+    result = check_redirects.main([str(site_dir), str(redirects)])
+    assert result == 0
+
+
+def test_splat_rule_direct_section_missing_exits_1(tmp_path):
+    """A /section/:splat rule must fail when the section is gone, even if its parent exists."""
+    import check_redirects
+
+    site_dir = tmp_path / "site"
+    # Parent /media/ exists; the actual target section /media/books/ does not.
+    _make_site_page(site_dir, "/media/")
+
+    redirects = _write_redirects(tmp_path, """\
+        /old/* /media/books/:splat 301
+    """)
+
+    result = check_redirects.main([str(site_dir), str(redirects)])
+    assert result == 1
+
+
 def test_splat_rule_invalid_when_section_missing(tmp_path):
     """A splat rule whose target base section is absent from the built site must exit 1."""
     import check_redirects

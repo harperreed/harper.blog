@@ -32,7 +32,7 @@ def scan_layouts(layouts_root: Path) -> list[str]:
     """Scan layouts_root/**/*.html for inline styles; return 'file:line: snippet' strings."""
     hits: list[str] = []
 
-    for html_file in sorted(layouts_root.rglob("*.html")):
+    for html_file in sorted(layouts_root.rglob("*.html")):  # *.xml excluded: RSS inline styles are feed-reader intentional, not CSP-gated
         text = html_file.read_text(encoding="utf-8")
 
         # Strip Go template comments so their content doesn't trigger false positives.

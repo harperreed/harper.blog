@@ -34,17 +34,17 @@ def _page_exists(site_dir: Path, url_path: str) -> bool:
 
 
 def _splat_base(target_pattern: str) -> str:
-    """Return the base path of a splat target pattern.
+    """Return the directory that must exist as a built page for a splat target.
 
-    '/media/books/page/:splat'  →  '/media/books/'
+    '/es/media/books/:splat'    →  '/es/media/books/'
+    '/media/books/page/:splat'  →  '/media/books/'  (Hugo emits no bare
+        /page/ index — the section root is what must survive)
     '/:splat'                   →  '/'
     """
-    # Strip the :splat token and any trailing path segment that held it.
     without_splat = target_pattern.replace(":splat", "").rstrip("/")
-    # Remove the last segment (which is the prefix word like 'page').
-    parts = without_splat.rsplit("/", 1)
-    base = parts[0] + "/" if len(parts) > 1 else "/"
-    return base
+    if without_splat.endswith("/page"):
+        without_splat = without_splat[: -len("/page")]
+    return without_splat + "/"
 
 
 def check_rules(site_dir: Path, redirects_path: Path) -> list[str]:
