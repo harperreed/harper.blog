@@ -37,5 +37,5 @@ def test_create_hugo_post_uses_isoformat_date():
     create_hugo_post_src = SRC.split("def create_hugo_post")[1]
     assert "parse_entry_date(" in create_hugo_post_src
     assert "parse_entry_date" in SRC
-    # The date metadata must be set to the isoformat result
-    assert "parse_entry_date(" in create_hugo_post_src and ".isoformat()" in create_hugo_post_src
+    # The date metadata must be set to the chained result
+    assert "post.metadata['date'] = parse_entry_date(date).isoformat()" in create_hugo_post_src
