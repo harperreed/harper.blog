@@ -84,6 +84,8 @@ def _load_json(path: Path) -> dict:
 
 
 def main() -> int:
+    # NOTE: OLD_DATA_DIR (content/data/notes/) was deleted after the 2026-08-20
+    # merge ran; re-runs find nothing there and are no-ops by design.
     # --- Load both URL registries ---
     old_url = _load_json(OLD_DATA_DIR / URL_REGISTRY_FILENAME)
     active_url = _load_json(ACTIVE_DATA_DIR / URL_REGISTRY_FILENAME)
