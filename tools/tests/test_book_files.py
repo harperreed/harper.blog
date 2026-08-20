@@ -33,6 +33,26 @@ def test_failed_serialization_creates_no_file(tmp_path):
     assert not path.exists()
 
 
+def test_write_frontmatter_file_is_atomic(tmp_path):
+    import inspect, book_files
+    src = inspect.getsource(book_files.write_frontmatter_file)
+    assert "os.replace(" in src  # temp-file + rename, no in-place open("w")
+
+
+def test_write_frontmatter_file_roundtrips_and_leaves_no_tmp(tmp_path):
+    """Write via write_frontmatter_file, round-trip with frontmatter.load, no *.tmp* residue."""
+    path = tmp_path / "index.md"
+    post = fm.Post(content="Great book.", title="Atomic Write Test", review_rating="5")
+
+    write_frontmatter_file(post, str(path))
+
+    loaded = fm.load(str(path))
+    assert loaded.content == "Great book."
+    assert loaded["title"] == "Atomic Write Test"
+    tmp_residue = list(tmp_path.glob("*.tmp*")) + list(tmp_path.glob("*tmp*"))
+    assert tmp_residue == [], f"Leftover temp files: {tmp_residue}"
+
+
 def test_failed_serialization_keeps_existing_content(tmp_path):
     """A failed rewrite must not truncate the existing file."""
     path = tmp_path / "index.md"

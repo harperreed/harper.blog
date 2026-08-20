@@ -44,7 +44,7 @@ class BookSummary(BaseModel):
 
 def get_book_summary(book_metadata):
     logging.debug("Starting get_book_summary")
-    client = OpenAI()
+    client = OpenAI(timeout=60.0)
     logging.debug("OpenAI client initialized")
 
     logging.info("Preparing to send request to OpenAI API")
@@ -546,7 +546,6 @@ def main():
         content_filename = f"{date_str} {book['title']}"
 
         post_directory = os.path.join(hugo_book_dir, slugify(content_filename))
-        os.makedirs(post_directory, exist_ok=True)
 
         data_filename = os.path.join(hugo_data_dir, f"{slugify(content_filename)}.yaml")
         book_data = {}
@@ -571,6 +570,8 @@ def main():
             except Exception as e:
                 logging.error(f"Failed loading book data from {data_filename}: {str(e)}")
                 continue
+
+        os.makedirs(post_directory, exist_ok=True)
 
         # Determine ASIN
         asin = (

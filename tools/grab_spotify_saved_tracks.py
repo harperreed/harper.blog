@@ -40,7 +40,7 @@ def setup_spotify():
             open_browser=False  # Important for headless environments
         )
         
-        sp = spotipy.Spotify(auth_manager=auth_manager)
+        sp = spotipy.Spotify(auth_manager=auth_manager, requests_timeout=30)
         
         # After authentication, save the token back to environment if needed
         # if os.path.exists(cache_path):

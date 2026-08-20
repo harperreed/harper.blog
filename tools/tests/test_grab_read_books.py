@@ -161,6 +161,11 @@ def test_create_post_metadata_falls_back_to_date_added():
 from grab_read_books import link_related_reads
 
 
+def test_openai_client_has_timeout():
+    import inspect, grab_read_books
+    assert "OpenAI(timeout=" in inspect.getsource(grab_read_books.get_book_summary)
+
+
 def test_link_related_reads_updates_both_entries(tmp_path):
     """Cross-links new entry and existing entry."""
     dir1 = tmp_path / "2006-11-26-old-mans-war"

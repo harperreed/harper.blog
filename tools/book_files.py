@@ -2,16 +2,25 @@
 # ABOUTME: Serializes before opening so a failed dump never truncates or leaves a zero-byte file.
 
 import frontmatter
+import os
+import tempfile
 
 
 def write_frontmatter_file(post, path):
-    """Serialize post, then write it to path in text mode.
+    """Serialize post, then write it atomically via temp file + os.replace.
 
-    python-frontmatter >= 1.2 writes str to file objects, so binary-mode
-    handles raise TypeError after open() has already truncated the file.
-    Serializing before opening means a failing dump can't leave an empty
-    or half-written index.md behind.
+    Serializing before opening means a failing dump can't leave an empty or
+    half-written file behind. The temp-file + os.replace pattern means a
+    concurrent reader always sees either the old file or the new one — never
+    a partial write.
     """
     text = frontmatter.dumps(post)
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(text)
+    dir_ = os.path.dirname(os.path.abspath(path))
+    fd, tmp_path = tempfile.mkstemp(dir=dir_)
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8") as f:
+            f.write(text)
+        os.replace(tmp_path, path)
+    except Exception:
+        os.unlink(tmp_path)
+        raise
