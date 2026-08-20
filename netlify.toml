@@ -9,6 +9,7 @@ HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 GO_VERSION = "1.23"         # Add this line to specify a modern Go version
 
+# branch deploys inherit [build] which has no HUGO_ENV → hugo.IsProduction=false → noindex active — intentional
 [context.deploy-preview]
 HUGO_VERSION = "0.164.0"
 command = "./scripts/build_with_random_theme.sh --cleanDestinationDir --templateMetrics --templateMetricsHints --gc --logLevel info --buildDrafts --buildFuture -b $DEPLOY_PRIME_URL"
