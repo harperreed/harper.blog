@@ -5,7 +5,7 @@ import logging
 import os
 import re
 import tempfile
-from datetime import datetime
+from datetime import datetime, timezone
 from functools import lru_cache
 from urllib.parse import urlparse, urljoin
 
@@ -33,6 +33,44 @@ logging.basicConfig(
 # Registry files will be stored in the data directory
 URL_REGISTRY_FILENAME = "processed_urls.json"
 CONTENT_REGISTRY_FILENAME = "processed_content_hashes.json"
+
+# Network safety: cap how long we wait for feeds and how large an image can be.
+HTTP_TIMEOUT = 30
+MAX_IMAGE_BYTES = 10 * 1024 * 1024
+
+
+def parse_feed_date(value):
+    """Parse a feed date string into a timezone-aware UTC datetime.
+
+    Accepts ISO 8601 strings with or without a UTC offset. Naive strings (no
+    offset) are assumed to be UTC. Unparseable or missing values fall back to
+    the current UTC time so a single malformed entry can't crash the whole run.
+
+    Args:
+        value (str | None): The raw date_published value from a feed entry.
+
+    Returns:
+        datetime: Always timezone-aware, in UTC.
+    """
+    if value is None:
+        return datetime.now(timezone.utc)
+    try:
+        dt = datetime.fromisoformat(value)
+        if dt.tzinfo is None:
+            # Naive datetime — feed didn't include an offset; treat as UTC.
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt
+    except (ValueError, TypeError):
+        logging.warning(f"Unparseable feed date '{value}', substituting current UTC time")
+        return datetime.now(timezone.utc)
+
+
+class RegistryCorruptError(RuntimeError):
+    """Raised when a registry file exists but cannot be parsed as JSON.
+
+    A missing registry is fine (first run). A present-but-unreadable registry
+    must abort — silently resetting would recreate every historical note.
+    """
 
 
 def normalize_url(url):
@@ -85,7 +123,7 @@ def download_json_feed(url):
         requests.RequestException: If download fails
     """
     try:
-        response = requests.get(url)
+        response = requests.get(url, timeout=HTTP_TIMEOUT)
         response.raise_for_status()
         return response.json()
     except requests.RequestException as e:
@@ -117,23 +155,50 @@ def html_to_markdown(html_content):
 def download_image(url, output_path):
     """
     Download an image from URL to local file.
-    
+
+    Rejects non-image content types and aborts if the download exceeds
+    MAX_IMAGE_BYTES to prevent poisoning the build with untrusted blobs.
+    Uses a temp file in the same directory so a failed download never leaves
+    a partial file at output_path.
+
     Args:
         url (str): Image URL
         output_path (str): Local path to save image
-        
+
     Returns:
         bool: True if successful, False otherwise
     """
+    tmp_path = None
     try:
-        response = requests.get(url)
+        response = requests.get(url, timeout=HTTP_TIMEOUT, stream=True)
         response.raise_for_status()
-        with open(output_path, 'wb') as f:
-            f.write(response.content)
+        content_type = response.headers.get("Content-Type", "")
+        if not content_type.startswith("image/"):
+            logging.warning(f"Skipping non-image response for {url}: Content-Type={content_type!r}")
+            response.close()
+            return False
+        output_dir = os.path.dirname(os.path.abspath(output_path))
+        tmp_fd, tmp_path = tempfile.mkstemp(dir=output_dir)
+        total = 0
+        with os.fdopen(tmp_fd, "wb") as f:
+            for chunk in response.iter_content(chunk_size=65536):
+                total += len(chunk)
+                if total > MAX_IMAGE_BYTES:
+                    logging.warning(f"Image too large (>{MAX_IMAGE_BYTES} bytes), aborting: {url}")
+                    response.close()
+                    os.unlink(tmp_path)
+                    tmp_path = None
+                    return False
+                f.write(chunk)
+        os.replace(tmp_path, output_path)
+        tmp_path = None
         return True
     except requests.RequestException as e:
         logging.error(f"Failed to download image from {url}: {e}")
         return False
+    finally:
+        if tmp_path and os.path.exists(tmp_path):
+            os.unlink(tmp_path)
 
 
 def process_images(content, post_dir, base_url=None):
@@ -205,7 +270,9 @@ def load_url_registry(data_dir):
                 return json.load(f)
         except (json.JSONDecodeError, IOError) as e:
             logging.error(f"Error loading URL registry: {e}")
-            return {}
+            raise RegistryCorruptError(
+                f"{registry_path}: {e} — refusing to run with an empty registry (would recreate existing notes)"
+            ) from e
     return {}
 
 
@@ -248,7 +315,9 @@ def load_content_registry(data_dir):
                 return json.load(f)
         except (json.JSONDecodeError, IOError) as e:
             logging.error(f"Error loading content registry: {e}")
-            return {}
+            raise RegistryCorruptError(
+                f"{registry_path}: {e} — refusing to run with an empty registry (would recreate existing notes)"
+            ) from e
     return {}
 
 
@@ -323,20 +392,11 @@ def is_duplicate_content(content, hugo_content_dir, content_registry=None):
                             # Only consider substring matches if:
                             # 1. The shorter content is at least 50 characters
                             # 2. The shorter content is at least 80% of the longer content
-                            if (min_content_length >= 50 and 
+                            if (min_content_length >= 50 and
                                 min_content_length / max_content_length >= 0.8 and
                                 (normalized_content in post_normalized or post_normalized in normalized_content)):
                                 return True, file_path
-                            
-                            # Check beginning/end similarity (for truncated content)
-                            min_length = min(len(normalized_content), len(post_normalized))
-                            if min_length > 30:  # Only if we have enough content to compare
-                                # Check first 50 chars (or available content)
-                                start_size = min(50, min_length)
-                                if normalized_content[:start_size] == post_normalized[:start_size]:
-                                    # Beginning matches, likely same content
-                                    return True, file_path
-                                
+
                 except Exception as e:
                     logging.warning(f"Error checking duplicate content in {os.path.join(root, file)}: {e}")
                     continue
@@ -356,7 +416,7 @@ def get_archival_feed():
         dict: Parsed JSON feed or None if fetch fails
     """
     try:
-        response = requests.get(ARCHIVAL_FEED_URL)
+        response = requests.get(ARCHIVAL_FEED_URL, timeout=HTTP_TIMEOUT)
         response.raise_for_status()
         return response.json()
     except Exception as e:
@@ -505,7 +565,7 @@ def create_description(content, max_length=160):
     return clean_content
 
 
-def create_hugo_content(entry, output_dir, url_registry, content_registry, data_dir):
+def create_hugo_content(entry, output_dir, url_registry, content_registry, data_dir, next_note_id):
     """
     Create a Hugo content post from a feed entry.
     
@@ -515,7 +575,9 @@ def create_hugo_content(entry, output_dir, url_registry, content_registry, data_
         url_registry (dict): Registry of processed URLs
         content_registry (dict): Registry of processed content hashes
         data_dir (str): Data directory path
-        
+        next_note_id (int): Next note ID to assign; the caller computes it once
+            from the notes pre-scan and increments it per created note.
+
     Returns:
         bool: True if post was created, False otherwise
     """
@@ -625,7 +687,7 @@ def create_hugo_content(entry, output_dir, url_registry, content_registry, data_
 
     # Assign note ID before building the post
     if post_id is None:
-        post_id = get_highest_note_id(os.path.dirname(post_dir)) + 1
+        post_id = next_note_id
         title = f"Note #{post_id}"
     else:
         title = archive_title if archive_title else f"Note #{post_id}"
@@ -707,8 +769,12 @@ def main():
     os.makedirs(hugo_data_dir, exist_ok=True)
 
     # Load registries
-    url_registry = load_url_registry(hugo_data_dir)
-    content_registry = load_content_registry(hugo_data_dir)
+    try:
+        url_registry = load_url_registry(hugo_data_dir)
+        content_registry = load_content_registry(hugo_data_dir)
+    except RegistryCorruptError as e:
+        logging.error(f"Registry corrupt, aborting: {e}")
+        return 1
     logging.info(f"Loaded {len(url_registry)} entries from URL registry")
     logging.info(f"Loaded {len(content_registry)} entries from content registry")
     
@@ -816,13 +882,7 @@ def main():
             normalized_url = normalize_url(url)
             content = entry.get('content_text') or entry.get('content_html', '')
             content_hash = generate_content_hash(content)
-            date_str = entry.get('date_published', datetime.now().isoformat())
-            
-            try:
-                date = datetime.fromisoformat(date_str)
-            except ValueError:
-                date = datetime.now()
-            
+
             # Skip if URL is already in registry
             if normalized_url in url_registry:
                 continue
@@ -837,13 +897,8 @@ def main():
             # If we get here, it's a new entry to process
             # For duplicate URLs in the feed, keep the latest one
             if normalized_url in unique_entries:
-                existing_date_str = unique_entries[normalized_url].get('date_published', '')
-                try:
-                    existing_date = datetime.fromisoformat(existing_date_str)
-                    if date > existing_date:
-                        unique_entries[normalized_url] = entry
-                except ValueError:
-                    # If date parsing fails, prefer the current entry
+                existing_date = parse_feed_date(unique_entries[normalized_url].get('date_published'))
+                if parse_feed_date(entry.get('date_published')) > existing_date:
                     unique_entries[normalized_url] = entry
             else:
                 unique_entries[normalized_url] = entry
@@ -851,7 +906,7 @@ def main():
         # Sort entries chronologically
         sorted_entries = sorted(
             unique_entries.values(),
-            key=lambda x: datetime.fromisoformat(x.get('date_published', datetime.now().isoformat())),
+            key=lambda x: parse_feed_date(x.get('date_published')),
             reverse=False  # Oldest first
         )
 
@@ -859,9 +914,11 @@ def main():
 
         # Process entries
         new_posts_created = 0
+        next_note_id = highest_note_id + 1
         for entry in sorted_entries:
-            if create_hugo_content(entry, hugo_content_dir, url_registry, content_registry, hugo_data_dir):
+            if create_hugo_content(entry, hugo_content_dir, url_registry, content_registry, hugo_data_dir, next_note_id):
                 new_posts_created += 1
+                next_note_id += 1
 
         logging.info(f"Processed {len(sorted_entries)} entries.")
         logging.info(f"Created {new_posts_created} new posts.")
