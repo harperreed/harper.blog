@@ -53,18 +53,20 @@ def fetch_rss_feed(url):
         logging.error(f"Error fetching RSS feed: {e}")
         return None
 
+def parse_entry_date(date_str) -> datetime:
+    """Parse a feed date string to datetime: ISO 8601 first, RFC 2822 fallback, then now."""
+    try:
+        return datetime.fromisoformat(date_str)
+    except ValueError:
+        try:
+            return parsedate_to_datetime(date_str)
+        except Exception:
+            return datetime.now()
+
 def generate_unique_slug(title, date_str, url):
     base_slug = slugify.slugify(title)
     url_hash = hashlib.md5(url.encode()).hexdigest()[:6]
-    
-    try:
-        date = datetime.fromisoformat(date_str)
-    except ValueError:
-        try:
-            date = parsedate_to_datetime(date_str)
-        except Exception:
-            date = datetime.now()
-    
+    date = parse_entry_date(date_str)
     date_str = date.strftime("%Y%m%d")
     return f"{date_str}-{base_slug}-{url_hash}"
 
@@ -105,7 +107,7 @@ def create_hugo_post(entry):
         
         # Add metadata to the front matter
         post.metadata['title'] = title
-        post.metadata['date'] = date
+        post.metadata['date'] = parse_entry_date(date).isoformat()
         if tags: 
             if tags.tags:
                 post.metadata['tags'] = tags.tags

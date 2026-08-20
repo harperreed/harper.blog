@@ -30,3 +30,12 @@ def test_feed_content_sent_as_separate_user_data_message():
 def test_slug_hash_still_md5():
     # generate_unique_slug's md5 is a stable public URL component — must NOT change
     assert "hashlib.md5(url.encode()).hexdigest()[:6]" in SRC
+
+
+def test_create_hugo_post_uses_isoformat_date():
+    # create_hugo_post must store the date via parse_entry_date(...).isoformat()
+    create_hugo_post_src = SRC.split("def create_hugo_post")[1]
+    assert "parse_entry_date(" in create_hugo_post_src
+    assert "parse_entry_date" in SRC
+    # The date metadata must be set to the isoformat result
+    assert "parse_entry_date(" in create_hugo_post_src and ".isoformat()" in create_hugo_post_src
