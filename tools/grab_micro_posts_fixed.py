@@ -392,20 +392,11 @@ def is_duplicate_content(content, hugo_content_dir, content_registry=None):
                             # Only consider substring matches if:
                             # 1. The shorter content is at least 50 characters
                             # 2. The shorter content is at least 80% of the longer content
-                            if (min_content_length >= 50 and 
+                            if (min_content_length >= 50 and
                                 min_content_length / max_content_length >= 0.8 and
                                 (normalized_content in post_normalized or post_normalized in normalized_content)):
                                 return True, file_path
-                            
-                            # Check beginning/end similarity (for truncated content)
-                            min_length = min(len(normalized_content), len(post_normalized))
-                            if min_length > 30:  # Only if we have enough content to compare
-                                # Check first 50 chars (or available content)
-                                start_size = min(50, min_length)
-                                if normalized_content[:start_size] == post_normalized[:start_size]:
-                                    # Beginning matches, likely same content
-                                    return True, file_path
-                                
+
                 except Exception as e:
                     logging.warning(f"Error checking duplicate content in {os.path.join(root, file)}: {e}")
                     continue
@@ -574,7 +565,7 @@ def create_description(content, max_length=160):
     return clean_content
 
 
-def create_hugo_content(entry, output_dir, url_registry, content_registry, data_dir):
+def create_hugo_content(entry, output_dir, url_registry, content_registry, data_dir, next_note_id=None):
     """
     Create a Hugo content post from a feed entry.
     
@@ -584,7 +575,9 @@ def create_hugo_content(entry, output_dir, url_registry, content_registry, data_
         url_registry (dict): Registry of processed URLs
         content_registry (dict): Registry of processed content hashes
         data_dir (str): Data directory path
-        
+        next_note_id (int, optional): Pre-computed next note ID to assign. If None,
+            falls back to scanning the notes tree (for callers that don't pre-scan).
+
     Returns:
         bool: True if post was created, False otherwise
     """
@@ -694,7 +687,7 @@ def create_hugo_content(entry, output_dir, url_registry, content_registry, data_
 
     # Assign note ID before building the post
     if post_id is None:
-        post_id = get_highest_note_id(os.path.dirname(post_dir)) + 1
+        post_id = next_note_id if next_note_id is not None else 1
         title = f"Note #{post_id}"
     else:
         title = archive_title if archive_title else f"Note #{post_id}"
@@ -889,13 +882,7 @@ def main():
             normalized_url = normalize_url(url)
             content = entry.get('content_text') or entry.get('content_html', '')
             content_hash = generate_content_hash(content)
-            date_str = entry.get('date_published', datetime.now().isoformat())
-            
-            try:
-                date = datetime.fromisoformat(date_str)
-            except ValueError:
-                date = datetime.now()
-            
+
             # Skip if URL is already in registry
             if normalized_url in url_registry:
                 continue
@@ -927,9 +914,11 @@ def main():
 
         # Process entries
         new_posts_created = 0
+        next_note_id = highest_note_id + 1
         for entry in sorted_entries:
-            if create_hugo_content(entry, hugo_content_dir, url_registry, content_registry, hugo_data_dir):
+            if create_hugo_content(entry, hugo_content_dir, url_registry, content_registry, hugo_data_dir, next_note_id):
                 new_posts_created += 1
+                next_note_id += 1
 
         logging.info(f"Processed {len(sorted_entries)} entries.")
         logging.info(f"Created {new_posts_created} new posts.")
