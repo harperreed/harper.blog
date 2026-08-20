@@ -1,0 +1,734 @@
+asin: null
+authors:
+  author:
+    average_rating: '3.61'
+    id: '1109510'
+    image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+      '@nophoto': 'true'
+    link: https://www.goodreads.com/author/show/1109510.Luke_Kennard
+    name: Luke Kennard
+    ratings_count: '4197'
+    role: null
+    small_image_url:
+      '#text': https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png
+      '@nophoto': 'true'
+    text_reviews_count: '834'
+average_rating: '3.71'
+book_links:
+  book_link:
+    id: '8'
+    link: https://www.goodreads.com/book_link/follow/8
+    name: Libraries
+buy_links:
+  buy_link:
+  - id: '1'
+    link: https://www.goodreads.com/book_link/follow/1
+    name: Amazon
+  - id: '10'
+    link: https://www.goodreads.com/book_link/follow/10
+    name: Audible
+  - id: '3'
+    link: https://www.goodreads.com/book_link/follow/3
+    name: Barnes & Noble
+  - id: '4'
+    link: https://www.goodreads.com/book_link/follow/4
+    name: AbeBooks
+  - id: '1027'
+    link: https://www.goodreads.com/book_link/follow/1027
+    name: Kobo
+  - id: '2102'
+    link: https://www.goodreads.com/book_link/follow/2102
+    name: Apple Books
+  - id: '8036'
+    link: https://www.goodreads.com/book_link/follow/8036
+    name: Google Play
+  - id: '5'
+    link: https://www.goodreads.com/book_link/follow/5
+    name: Alibris
+  - id: '9'
+    link: https://www.goodreads.com/book_link/follow/9
+    name: Indigo
+  - id: '107'
+    link: https://www.goodreads.com/book_link/follow/107
+    name: Better World Books
+  - id: '7'
+    link: https://www.goodreads.com/book_link/follow/7
+    name: IndieBound
+  - id: '92'
+    link: https://www.goodreads.com/book_link/follow/92
+    name: Thriftbooks
+country_code: NL
+date: '2026-08-19T00:00:00-07:00'
+date_added: '2026-08-15T22:30:02-07:00'
+description: null
+edition_information: null
+format: null
+id: '236882804'
+image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+is_ebook: 'true'
+isbn: '1638933391'
+isbn13: '9781638933397'
+json: '{"id": "236882804", "isbn": "1638933391", "isbn13": "9781638933397", "text_reviews_count":
+  {"@type": "integer", "#text": "20"}, "uri": "kca://book/amzn1.gr.book.v3.cdZt7yhVbE1pzEtB",
+  "title": "Black Bag", "title_without_series": "Black Bag", "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png",
+  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png",
+  "large_image_url": null, "link": "https://www.goodreads.com/book/show/236882804-black-bag",
+  "num_pages": null, "format": null, "edition_information": null, "publisher": null,
+  "publication_day": null, "publication_year": null, "publication_month": null, "average_rating":
+  "3.71", "ratings_count": "1797", "description": null, "authors": {"author": {"id":
+  "1109510", "name": "Luke Kennard", "role": null, "image_url": {"@nophoto": "true",
+  "#text": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"},
+  "small_image_url": {"@nophoto": "true", "#text": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"},
+  "link": "https://www.goodreads.com/author/show/1109510.Luke_Kennard", "average_rating":
+  "3.61", "ratings_count": "4197", "text_reviews_count": "834"}}, "published": null,
+  "work": {"id": "252314442", "uri": "kca://work/amzn1.gr.work.v3.qIc_5vjiyj-QwLo3"},
+  "review_rating": "5", "owned": "0", "review_url": "https://www.goodreads.com/review/show/8863493219",
+  "read_at": "Wed Aug 19 00:00:00 -0700 2026", "started_at": "Sat Aug 15 00:00:00
+  -0700 2026", "date_added": "Sat Aug 15 22:30:02 -0700 2026", "date": "Wed Aug 19
+  00:00:00 -0700 2026"}'
+kindle_asin: null
+language_code: null
+large_image_url: null
+link: https://www.goodreads.com/book/show/236882804-black-bag
+marketplace_id: null
+num_pages: null
+owned: '0'
+popular_shelves:
+  shelf:
+  - '@count': '19153'
+    '@name': to-read
+  - '@count': '896'
+    '@name': currently-reading
+  - '@count': '94'
+    '@name': fiction
+  - '@count': '72'
+    '@name': did-not-finish
+  - '@count': '69'
+    '@name': booker-2026
+  - '@count': '35'
+    '@name': booker
+  - '@count': '32'
+    '@name': booker-prize
+  - '@count': '30'
+    '@name': booker-prize-2026
+  - '@count': '27'
+    '@name': literary-fiction
+  - '@count': '25'
+    '@name': booker-longlist-2026
+  - '@count': '18'
+    '@name': contemporary
+  - '@count': '18'
+    '@name': giveaways
+  - '@count': '17'
+    '@name': 2026-booker-longlist
+  - '@count': '17'
+    '@name': audiobook
+  - '@count': '17'
+    '@name': kindle
+  - '@count': '16'
+    '@name': booker-longlist
+  - '@count': '16'
+    '@name': humor
+  - '@count': '13'
+    '@name': audiobooks
+  - '@count': '13'
+    '@name': to-buy
+  - '@count': '12'
+    '@name': booker-26
+  - '@count': '12'
+    '@name': 2026-releases
+  - '@count': '11'
+    '@name': read-in-2026
+  - '@count': '11'
+    '@name': physical-tbr
+  - '@count': '10'
+    '@name': netgalley
+  - '@count': '9'
+    '@name': booker-prize-longlist-2026
+  - '@count': '9'
+    '@name': literature
+  - '@count': '9'
+    '@name': literary
+  - '@count': '8'
+    '@name': booker2026
+  - '@count': '8'
+    '@name': booker-prize-2026-longlist
+  - '@count': '8'
+    '@name': audio
+  - '@count': '8'
+    '@name': owned
+  - '@count': '8'
+    '@name': 2026-reads
+  - '@count': '8'
+    '@name': want-to-buy
+  - '@count': '7'
+    '@name': booker-2026-longlist
+  - '@count': '7'
+    '@name': booker-prize-longlist
+  - '@count': '7'
+    '@name': lit-fic
+  - '@count': '6'
+    '@name': tbr
+  - '@count': '6'
+    '@name': 2026-tbr
+  - '@count': '6'
+    '@name': booker26
+  - '@count': '6'
+    '@name': booker-long-list-2026
+  - '@count': '6'
+    '@name': novels
+  - '@count': '6'
+    '@name': british
+  - '@count': '6'
+    '@name': adult
+  - '@count': '6'
+    '@name': book-club
+  - '@count': '5'
+    '@name': 2026-booker-prize-longlist
+  - '@count': '5'
+    '@name': 2026-booker-prize
+  - '@count': '5'
+    '@name': europe
+  - '@count': '5'
+    '@name': humour
+  - '@count': '5'
+    '@name': library
+  - '@count': '5'
+    '@name': ebook
+  - '@count': '5'
+    '@name': arcs
+  - '@count': '5'
+    '@name': contemporary-fiction
+  - '@count': '4'
+    '@name': owned-tbr
+  - '@count': '4'
+    '@name': booker-prize-26
+  - '@count': '4'
+    '@name': england
+  - '@count': '4'
+    '@name': booker-prize-nominees
+  - '@count': '4'
+    '@name': 2026-booker
+  - '@count': '4'
+    '@name': read-2026
+  - '@count': '4'
+    '@name': comedy
+  - '@count': '4'
+    '@name': next
+  - '@count': '4'
+    '@name': 2026-reading-list
+  - '@count': '4'
+    '@name': english
+  - '@count': '4'
+    '@name': 2026-books
+  - '@count': '4'
+    '@name': goodreads-giveaways
+  - '@count': '4'
+    '@name': adult-fiction
+  - '@count': '4'
+    '@name': arc
+  - '@count': '4'
+    '@name': 2026-release
+  - '@count': '4'
+    '@name': giveaway-books
+  - '@count': '3'
+    '@name': kindle-tbr
+  - '@count': '3'
+    '@name': e-books
+  - '@count': '3'
+    '@name': kobo
+  - '@count': '3'
+    '@name': satire
+  - '@count': '3'
+    '@name': audible
+  - '@count': '3'
+    '@name': 2026-booker-long-list
+  - '@count': '3'
+    '@name': booker-prize-long-list
+  - '@count': '3'
+    '@name': priority-tbr
+  - '@count': '3'
+    '@name': the-booker-prize-2026
+  - '@count': '3'
+    '@name': favorites
+  - '@count': '3'
+    '@name': fiction-tbr
+  - '@count': '3'
+    '@name': funny
+  - '@count': '3'
+    '@name': considering
+  - '@count': '3'
+    '@name': general-fiction
+  - '@count': '3'
+    '@name': academia
+  - '@count': '3'
+    '@name': on-my-radar
+  - '@count': '3'
+    '@name': novel
+  - '@count': '3'
+    '@name': bookshelf
+  - '@count': '3'
+    '@name': need-to-buy
+  - '@count': '3'
+    '@name': interested
+  - '@count': '3'
+    '@name': wish-list
+  - '@count': '3'
+    '@name': net-galley
+  - '@count': '2'
+    '@name': booker-price-2026
+  - '@count': '2'
+    '@name': booker-nominated
+  - '@count': '2'
+    '@name': booker-prizes
+  - '@count': '2'
+    '@name': up-next
+  - '@count': '2'
+    '@name': want-to-read-dont-have
+  - '@count': '2'
+    '@name': 4-star
+  - '@count': '2'
+    '@name': books-read-2026
+  - '@count': '2'
+    '@name': 2026-books-read
+  - '@count': '2'
+    '@name': buy
+  - '@count': '2'
+    '@name': buddy-read
+publication_day: null
+publication_month: null
+publication_year: null
+published: null
+publisher: null
+ratings_count: '1797'
+read_at: '2026-08-19T00:00:00-07:00'
+review_rating: '5'
+review_url: https://www.goodreads.com/review/show/8863493219
+reviews_widget: "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n\
+  \    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n\
+  \    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom:\
+  \ 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n\
+  \  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover {\
+  \ text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n\
+  \  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n   \
+  \ text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n\
+  \    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica\
+  \ Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\"\
+  >\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/236882804-black-bag\"\
+  >Black Bag Reviews</a></h1></div>\n  <iframe sandbox id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1638933391&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\"\
+  \ width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\"\
+  >\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\
+  \ href=\"https://www.goodreads.com/book/show/236882804-black-bag?utm_medium=api&amp;utm_source=reviews_widget\"\
+  >Reviews from Goodreads.com</a>\n  </div>\n</div>"
+series_works: null
+similar_books:
+  book:
+  - authors:
+      author:
+        id: '19738632'
+        link: https://www.goodreads.com/author/show/19738632.Makenna_Goodman
+        name: Makenna Goodman
+    average_rating: '3.71'
+    id: '222826591'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1743189580l/222826591._SX98_.jpg
+    isbn: '1566897351'
+    isbn13: '9781566897358'
+    link: https://www.goodreads.com/book/show/222826591-helen-of-nowhere
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1797'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1743189580l/222826591._SX50_.jpg
+    title: Helen of Nowhere
+    title_without_series: Helen of Nowhere
+    uri: kca://book/amzn1.gr.book.v3.YNKpeAmfF_cVd7zX
+    work:
+      id: '229858877'
+  - authors:
+      author:
+        id: '14586023'
+        link: https://www.goodreads.com/author/show/14586023.Kenan_Orhan
+        name: Kenan Orhan
+    average_rating: '3.71'
+    id: '231126831'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: 037460942X
+    isbn13: '9780374609429'
+    link: https://www.goodreads.com/book/show/231126831-the-renovation
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1797'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: The Renovation
+    title_without_series: The Renovation
+    uri: kca://book/amzn1.gr.book.v3.Cv4BMvb-JHa-LWjT
+    work:
+      id: '244538908'
+  - authors:
+      author:
+        id: '1933850'
+        link: https://www.goodreads.com/author/show/1933850.Chloe_Aridjis
+        name: Chloe Aridjis
+    average_rating: '3.71'
+    id: '239158336'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: 152996993X
+    isbn13: '9781529969931'
+    link: https://www.goodreads.com/book/show/239158336-the-shadow-of-the-object
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1797'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: The Shadow of the Object
+    title_without_series: The Shadow of the Object
+    uri: kca://book/amzn1.gr.book.v3.B0Vj2ZiR1OvYygPc
+    work:
+      id: '255620283'
+  - authors:
+      author:
+        id: '21426323'
+        link: https://www.goodreads.com/author/show/21426323.Missouri_Williams
+        name: Missouri Williams
+    average_rating: '3.71'
+    id: '241392653'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: 0374619298
+    isbn13: '9780374619299'
+    link: https://www.goodreads.com/book/show/241392653-the-vivisectors
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1797'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: The Vivisectors
+    title_without_series: The Vivisectors
+    uri: kca://book/amzn1.gr.book.v3.sAo5f5IXFKQteeSz
+    work:
+      id: '268650138'
+  - authors:
+      author:
+        id: '51273234'
+        link: https://www.goodreads.com/author/show/51273234.Djamel_White
+        name: Djamel White
+    average_rating: '3.71'
+    id: '217114261'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: null
+    isbn13: '9798217046676'
+    link: https://www.goodreads.com/book/show/217114261-all-them-dogs
+    num_pages: null
+    publication_day: '26'
+    publication_month: '3'
+    publication_year: '2026'
+    ratings_count: '1797'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: All Them Dogs
+    title_without_series: All Them Dogs
+    uri: kca://book/amzn1.gr.book.v3.sWb1Ee-rG4uiPyaE
+    work:
+      id: '223586399'
+  - authors:
+      author:
+        id: '10765'
+        link: https://www.goodreads.com/author/show/10765.M_John_Harrison
+        name: M. John Harrison
+    average_rating: '3.71'
+    id: '241835818'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1777613380l/241835818._SX98_.jpg
+    isbn: '1800812965'
+    isbn13: '9781800812963'
+    link: https://www.goodreads.com/book/show/241835818-the-end-of-everything
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1797'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1777613380l/241835818._SY75_.jpg
+    title: The End of Everything
+    title_without_series: The End of Everything
+    uri: kca://book/amzn1.gr.book.v3.5YXfitqBf1inKr_C
+    work:
+      id: '261291311'
+  - authors:
+      author:
+        id: '297799'
+        link: https://www.goodreads.com/author/show/297799.Gwendoline_Riley
+        name: Gwendoline Riley
+    average_rating: '3.71'
+    id: '239704041'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1773951895l/239704041._SX98_.jpg
+    isbn: '1035021048'
+    isbn13: '9781035021048'
+    link: https://www.goodreads.com/book/show/239704041-the-palm-house
+    num_pages: '211'
+    publication_day: '2'
+    publication_month: '4'
+    publication_year: '2026'
+    ratings_count: '1797'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1773951895l/239704041._SY75_.jpg
+    title: The Palm House
+    title_without_series: The Palm House
+    uri: kca://book/amzn1.gr.book.v3.6CC-_gkpczhJW_6W
+    work:
+      id: '254958358'
+  - authors:
+      author:
+        id: '14685424'
+        link: https://www.goodreads.com/author/show/14685424.Rebecca_Perry
+        name: Rebecca  Perry
+    average_rating: '3.71'
+    id: '242252419'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: '1803513888'
+    isbn13: '9781803513881'
+    link: https://www.goodreads.com/book/show/242252419-may-we-feed-the-king
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1797'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: May We Feed the King
+    title_without_series: May We Feed the King
+    uri: kca://book/amzn1.gr.book.v3.kzZHop-qu4cJ4Yqk
+    work:
+      id: '262396422'
+  - authors:
+      author:
+        id: '2926065'
+        link: https://www.goodreads.com/author/show/2926065.Emma_Cline
+        name: Emma Cline
+    average_rating: '3.71'
+    id: '244969690'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: 0593595246
+    isbn13: '9780593595244'
+    link: https://www.goodreads.com/book/show/244969690-switzy
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1797'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: Switzy
+    title_without_series: Switzy
+    uri: kca://book/amzn1.gr.book.v3.CDgsIq67B8JvEZ-m
+    work:
+      id: '270845457'
+  - authors:
+      author:
+        id: '19629033'
+        link: https://www.goodreads.com/author/show/19629033.Douglas_Stuart
+        name: Douglas   Stuart
+    average_rating: '3.71'
+    id: '235260861'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1777987045l/235260861._SX98_.jpg
+    isbn: 0802167195
+    isbn13: '9780802167194'
+    link: https://www.goodreads.com/book/show/235260861-john-of-john
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1797'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1777987045l/235260861._SY75_.jpg
+    title: John of John
+    title_without_series: John of John
+    uri: kca://book/amzn1.gr.book.v3.4O7MMcUG1z3mCdX_
+    work:
+      id: '251383002'
+  - authors:
+      author:
+        id: '73733'
+        link: https://www.goodreads.com/author/show/73733.Ben_Lerner
+        name: Ben Lerner
+    average_rating: '3.71'
+    id: '231387262'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1754068063l/231387262._SX98_.jpg
+    isbn: 0374618593
+    isbn13: '9780374618599'
+    link: https://www.goodreads.com/book/show/231387262-transcription
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1797'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1754068063l/231387262._SY75_.jpg
+    title: Transcription
+    title_without_series: Transcription
+    uri: kca://book/amzn1.gr.book.v3.nDiLLg0LUJ75DMxx
+    work:
+      id: '245410574'
+  - authors:
+      author:
+        id: '97313'
+        link: https://www.goodreads.com/author/show/97313.Elizabeth_Strout
+        name: Elizabeth Strout
+    average_rating: '3.71'
+    id: '242082631'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1771952095l/242082631._SX98_.jpg
+    isbn: null
+    isbn13: '9798217154746'
+    link: https://www.goodreads.com/book/show/242082631-the-things-we-never-say
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1797'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1771952095l/242082631._SY75_.jpg
+    title: The Things We Never Say
+    title_without_series: The Things We Never Say
+    uri: kca://book/amzn1.gr.book.v3.gZLn16n4sxH48shM
+    work:
+      id: '261899906'
+  - authors:
+      author:
+        id: '31095'
+        link: https://www.goodreads.com/author/show/31095.Daniel_Mason
+        name: Daniel       Mason
+    average_rating: '3.71'
+    id: '242518677'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: null
+    isbn13: null
+    link: https://www.goodreads.com/book/show/242518677-country-people
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1797'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: Country People
+    title_without_series: Country People
+    uri: kca://book/amzn1.gr.book.v3.ez3NVS698bGpuNon
+    work:
+      id: '263163250'
+  - authors:
+      author:
+        id: '429519'
+        link: https://www.goodreads.com/author/show/429519.Tahmima_Anam
+        name: Tahmima Anam
+    average_rating: '3.71'
+    id: '244275884'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: '1837265828'
+    isbn13: '9781837265824'
+    link: https://www.goodreads.com/book/show/244275884-uprising
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1797'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: Uprising
+    title_without_series: Uprising
+    uri: kca://book/amzn1.gr.book.v3.LC1h9n7kA6RbVhvr
+    work:
+      id: '269398062'
+  - authors:
+      author:
+        id: '53717123'
+        link: https://www.goodreads.com/author/show/53717123.Rozie_Kelly
+        name: Rozie Kelly
+    average_rating: '3.71'
+    id: '222700466'
+    image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1772673526l/222700466._SX98_.jpg
+    isbn: 191681235X
+    isbn13: '9781916812352'
+    link: https://www.goodreads.com/book/show/222700466-kingfisher
+    num_pages: '212'
+    publication_day: '3'
+    publication_month: '4'
+    publication_year: '2025'
+    ratings_count: '1797'
+    small_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1772673526l/222700466._SY75_.jpg
+    title: Kingfisher
+    title_without_series: Kingfisher
+    uri: kca://book/amzn1.gr.book.v3.jeer7XDlKDjH5aI5
+    work:
+      id: '229733423'
+  - authors:
+      author:
+        id: '30478647'
+        link: https://www.goodreads.com/author/show/30478647.Josh_Silver
+        name: Josh  Silver
+    average_rating: '3.71'
+    id: '243596291'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: null
+    isbn13: '9798892426374'
+    link: https://www.goodreads.com/book/show/243596291-fruit-fly
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1797'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: Fruit Fly
+    title_without_series: Fruit Fly
+    uri: kca://book/amzn1.gr.book.v3.fnk3FG34TBpHoAbZ
+    work:
+      id: '252131830'
+  - authors:
+      author:
+        id: '15971338'
+        link: https://www.goodreads.com/author/show/15971338.Hannah_Lillith_Assadi
+        name: Hannah Lillith Assadi
+    average_rating: '3.71'
+    id: '236772703'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: 0593804058
+    isbn13: '9780593804056'
+    link: https://www.goodreads.com/book/show/236772703-paradiso-17
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1797'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: Paradiso 17
+    title_without_series: Paradiso 17
+    uri: kca://book/amzn1.gr.book.v3.PYgdZlVQwtQOI4Wc
+    work:
+      id: '252313710'
+  - authors:
+      author:
+        id: '56064'
+        link: https://www.goodreads.com/author/show/56064.Marlon_James
+        name: Marlon James
+    average_rating: '3.71'
+    id: '247031766'
+    image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
+    isbn: 0593717201
+    isbn13: '9780593717202'
+    link: https://www.goodreads.com/book/show/247031766-the-disappearers
+    num_pages: null
+    publication_day: null
+    publication_month: null
+    publication_year: null
+    ratings_count: '1797'
+    small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+    title: The Disappearers
+    title_without_series: The Disappearers
+    uri: kca://book/amzn1.gr.book.v3.nMr9qYovuHFJCVH_
+    work:
+      id: '277889081'
+small_image_url: https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png
+started_at: '2026-08-15T00:00:00-07:00'
+text_reviews_count:
+  '#text': '20'
+  '@type': integer
+title: Black Bag
+title_without_series: Black Bag
+uri: kca://book/amzn1.gr.book.v3.cdZt7yhVbE1pzEtB
+url: https://www.goodreads.com/book/show/236882804-black-bag
+work:
+  id: '252314442'
+  uri: kca://work/amzn1.gr.work.v3.qIc_5vjiyj-QwLo3
