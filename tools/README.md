@@ -6,7 +6,7 @@ This repository contains a suite of powerful tools designed to help you manage a
 
 This project comprises three primary scripts:
 
-1. **grab_micro_posts.py**: This script downloads JSON feeds, converts HTML content to Markdown, and processes any images associated with the posts to ensure a smooth integration into a Hugo blog.
+1. **grab_micro_posts_fixed.py**: This script downloads JSON feeds, converts HTML content to Markdown, and processes any images associated with the posts to ensure a smooth integration into a Hugo blog.
 2. **grab_starred_links.py**: This script fetches RSS feeds of starred links and converts them into Markdown format suitable for Hugo.
 3. **convert_posts_to_page_bundles.py**: This script converts posts in the `content/post` directory into page bundle directories, processes images in the markdown content, and updates the image paths.
 4. **add_translation_keys.py**: This script adds or updates the translationKey in the frontmatter of Hugo content files, which is essential for multilingual content.
@@ -45,7 +45,7 @@ Before using the tools, ensure you have the following installed:
    To fetch micro posts and convert them to Markdown, run:
 
    ```bash
-   uv run tools/grab_micro_posts.py
+   uv run tools/grab_micro_posts_fixed.py
    ```
 
    To fetch starred links and convert them to Markdown, run:
@@ -91,7 +91,7 @@ Before using the tools, ensure you have the following installed:
   ```
   tools/
   ├── README.md
-  ├── grab_micro_posts.py       # Script to fetch and process micro posts
+  ├── grab_micro_posts_fixed.py # Script to fetch and process micro posts
   ├── grab_starred_links.py     # Script to fetch and process starred links
   ├── convert_posts_to_page_bundles.py # Script to convert posts to page bundles
   ├── add_translation_keys.py   # Script to add translation keys to Hugo content
