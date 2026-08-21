@@ -9,7 +9,7 @@
     {{- $localCover := $singlePage.Resources.GetMatch (printf "%s.jpg" .) }}
     {{- if $localCover }}
     {{- $img := $localCover.Fit "600x900" }}
-    <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ i18n "book-cover-alt" | default "Book cover" }}" class="book-cover" />
+    <img src="{{ $img.RelPermalink }}" alt="{{ i18n "book-cover-alt" | default "Book cover" }}" class="book-cover" />
     {{- else }}
     <img src="{{ print "https://images-na.ssl-images-amazon.com/images/P/" . ".01._SCLZZZZZZZ.jpg" }}" alt="{{ i18n "book-cover-alt" | default "Book cover" }}" class="book-cover" />
     {{- end }}

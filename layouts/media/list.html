@@ -25,7 +25,7 @@
                 {{- $localCover := $hubPage.Resources.GetMatch (printf "%s.jpg" .) }}
                 {{- if $localCover }}
                 {{- $img := $localCover.Fit "192x288" }}
-                <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" class="book-cover" alt="" decoding="async">
+                <img src="{{ $img.RelPermalink }}" class="book-cover" alt="" decoding="async">
                 {{- else }}
                 <img src="https://images-na.ssl-images-amazon.com/images/P/{{ . }}.01._SCLZZZZZZZ.jpg" class="book-cover" alt="" decoding="async">
                 {{- end }}
