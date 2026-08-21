@@ -1,5 +1,5 @@
 {{- /* ABOUTME: /media/books/grid — cover wall of every book read, grouped by year. */}}
-{{- /* ABOUTME: Covers lazy-load from Amazon by ASIN; books without one get a placeholder card. */}}
+{{- /* ABOUTME: Covers prefer the local bundle jpg (Amazon by ASIN as fallback); books without either get a placeholder card. */}}
 {{ define "main" }}
 {{ .Content }}
 {{- /* Books live on the default (en) site only */}}
@@ -10,9 +10,16 @@
     <h2 class="year-heading">{{ .Key }} <span class="group-count">· {{ printf (i18n "books-count") (len .Pages) }}</span></h2>
     <div class="book-grid">
         {{- range .Pages }}
+        {{- $page := . }}
         <a href="{{ .RelPermalink }}" class="book-grid-item">
             {{- with .Params.asin }}
+            {{- $localCover := $page.Resources.GetMatch (printf "%s.jpg" .) }}
+            {{- if $localCover }}
+            {{- $img := $localCover.Fill "280x420" }}
+            <img src="{{ $img.RelPermalink }}" class="book-cover" alt="" loading="lazy" decoding="async">
+            {{- else }}
             <img src="https://images-na.ssl-images-amazon.com/images/P/{{ . }}.01._SCLZZZZZZZ.jpg" class="book-cover" alt="" loading="lazy" decoding="async">
+            {{- end }}
             {{- else }}
             <span class="book-cover book-cover-fallback">📖</span>
             {{- end }}

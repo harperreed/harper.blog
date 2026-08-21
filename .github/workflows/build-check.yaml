@@ -39,6 +39,7 @@ permissions:
 
 env:
     HUGO_VERSION: "0.164.0"
+    HUGO_CACHEDIR: /tmp/hugo-cache
 
 jobs:
     build-check:
@@ -48,6 +49,13 @@ jobs:
             - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
               with:
                   fetch-depth: 1
+
+            - name: Cache Hugo processed images
+              uses: actions/cache@6f8efc29b200d32929f49075959781ed54ec270c # v3
+              with:
+                  path: /tmp/hugo-cache/images
+                  key: hugo-images-${{ github.sha }}
+                  restore-keys: hugo-images-
 
             - name: Setup uv
               uses: astral-sh/setup-uv@d4b2f3b6ecc6e67c4457f6d3e41ec42d3d0fcb86 # v5
