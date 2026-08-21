@@ -9,6 +9,7 @@ Hard-won facts about working on harper.blog. Add yours; keep entries short.
 - Two hugo binaries exist: `.mise.toml` pins the real one; `/opt/homebrew/bin/hugo` drifts. The pin resolves per-directory — `hugo --source <repo>` run from OUTSIDE the repo gets the global/homebrew binary. If a build error names an API that greps clean (e.g. `.Site.Language.Locale` "can't evaluate field"), check `hugo version` first.
 - Never run a one-shot `hugo` build in the checkout while `hugo serve` is running — the server serves `public/` from disk, and the build poisons it and silently kills the watcher. Use `hugo --destination /tmp/hugo-verify` or stop the server. Recovery: kill server, `rm -rf public`, relaunch.
 - Build output can still differ across runs: hugo silently drops GitInfo if git is locked mid-build. (Photos RSS `lastBuildDate` now comes from the newest image note, and footer/out_of_date `partialCached` calls are keyed properly.) Normalize before diffing two builds.
+- Netlify's build cache (`/opt/build/cache`, holds `HUGO_CACHEDIR` with the processed-image cache) is shared across deploy contexts: a deploy-preview build warms production and vice versa. Measured on PR #187: 32min cold, ~1.5min warm. Flip side: poisoned cache from any context reaches them all — fix via "Clear cache and retry deploy".
 
 ## CI workflows
 
