@@ -10,9 +10,16 @@
     <h2 class="year-heading">{{ .Key }} <span class="group-count">· {{ printf (i18n "books-count") (len .Pages) }}</span></h2>
     <div class="book-grid">
         {{- range .Pages }}
+        {{- $page := . }}
         <a href="{{ .RelPermalink }}" class="book-grid-item">
             {{- with .Params.asin }}
+            {{- $localCover := $page.Resources.GetMatch (printf "%s.jpg" .) }}
+            {{- if $localCover }}
+            {{- $img := $localCover.Fill "280x420" }}
+            <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" class="book-cover" alt="" loading="lazy" decoding="async">
+            {{- else }}
             <img src="https://images-na.ssl-images-amazon.com/images/P/{{ . }}.01._SCLZZZZZZZ.jpg" class="book-cover" alt="" loading="lazy" decoding="async">
+            {{- end }}
             {{- else }}
             <span class="book-cover book-cover-fallback">📖</span>
             {{- end }}

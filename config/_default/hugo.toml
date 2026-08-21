@@ -21,3 +21,8 @@ pagerSize = 6
 [minify]
 disableXML = true
 # minifyOutput = true
+
+# Persist processed images across builds by storing them in cacheDir.
+# Netlify mounts /opt/build/cache between builds; HUGO_CACHEDIR points there.
+[caches.images]
+dir = ":cacheDir/images"

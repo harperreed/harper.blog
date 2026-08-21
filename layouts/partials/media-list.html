@@ -37,10 +37,17 @@
             {{- $class = "media-book" }}
             {{- $glyph = "📚" }}
             {{- with or .Params.book_author .Params.author }}{{ $context = printf (i18n "by-author") . }}{{ end }}
+            {{- $bookPage := . }}
             {{- with .Params.asin }}
                 {{- $href = printf "https://www.amazon.com/dp/%s?tag=%s" (urlquery .) (urlquery site.Params.amazon_tag) }}
                 {{- $event = "outbound.amazon" }}
-                {{- $thumb = printf "https://images-na.ssl-images-amazon.com/images/P/%s.01._SL160_.jpg" . }}
+                {{- $localCover := $bookPage.Resources.GetMatch (printf "%s.jpg" .) }}
+                {{- if $localCover }}
+                    {{- $img := $localCover.Fill "72x72" }}
+                    {{- $thumb = $img.RelPermalink }}
+                {{- else }}
+                    {{- $thumb = printf "https://images-na.ssl-images-amazon.com/images/P/%s.01._SL160_.jpg" . }}
+                {{- end }}
             {{- end }}
         {{- end }}
         <a href="{{ $href }}" class="{{ $class }}"

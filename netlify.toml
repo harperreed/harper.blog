@@ -3,6 +3,9 @@ HUGO_VERSION = "0.164.0"
 publish = "public"
 command = "./scripts/build_with_random_theme.sh --cleanDestinationDir --gc --minify --forceSyncStatic --logLevel info"
 
+[build.environment]
+HUGO_CACHEDIR = "/opt/build/cache/hugo"
+
 [context.production.environment]
 HUGO_VERSION = "0.164.0"
 HUGO_ENV = "production"

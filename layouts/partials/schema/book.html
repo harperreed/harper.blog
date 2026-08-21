@@ -19,11 +19,19 @@
 {{- end -}}
 
 {{- /* asin identifies the book when no isbn exists; productID belongs to Product, so Book takes identifier/PropertyValue */}}
+{{- $schemaPage := . -}}
 {{- with .Params.asin -}}
   {{- if not (index $book "isbn") -}}
     {{- $book = merge $book (dict "identifier" (dict "@type" "PropertyValue" "propertyID" "ASIN" "value" .)) -}}
   {{- end -}}
-  {{- $coverURL := printf "https://images-na.ssl-images-amazon.com/images/P/%s.01._SCLZZZZZZZ.jpg" . -}}
+  {{- $localCover := $schemaPage.Resources.GetMatch (printf "%s.jpg" .) -}}
+  {{- $coverURL := "" -}}
+  {{- if $localCover -}}
+    {{- $img := $localCover.Fit "600x900" -}}
+    {{- $coverURL = $img.Permalink -}}
+  {{- else -}}
+    {{- $coverURL = printf "https://images-na.ssl-images-amazon.com/images/P/%s.01._SCLZZZZZZZ.jpg" . -}}
+  {{- end -}}
   {{- $book = merge $book (dict "image" $coverURL) -}}
 {{- end -}}
 
