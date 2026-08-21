@@ -1,10 +1,11 @@
 # ABOUTME: Backfill tool for missing local book cover images in content/books/.
-# ABOUTME: Queries OpenLibrary by title+author, validates the image, and saves it beside index.md.
+# ABOUTME: Queries OpenLibrary first, then falls back to Goodreads og:image, validates, and saves.
 
 import argparse
 import glob
 import logging
 import os
+import re
 import sys
 import tempfile
 import time
@@ -24,12 +25,106 @@ OPENLIBRARY_SEARCH_URL = "https://openlibrary.org/search.json"
 OPENLIBRARY_COVERS_URL = "https://covers.openlibrary.org/b/id/{cover_id}-L.jpg"
 
 RATE_LIMIT_SECONDS = 0.5
+GOODREADS_RATE_LIMIT_SECONDS = 1.5
+
+# Browser-ish User-Agent; still honest (identifies as a bot via the path component).
+GOODREADS_USER_AGENT = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/125.0 Safari/537.36 harper-blog-cover-backfill/1.0"
+)
+
+# Matches: <meta property="og:image" content="..." />
+# Only the content attribute value is captured.
+_OG_IMAGE_RE = re.compile(
+    r'<meta\s[^>]*property=["\']og:image["\'][^>]*content=["\']([^"\']+)["\']',
+    re.IGNORECASE,
+)
+_OG_IMAGE_RE_ALT = re.compile(
+    r'<meta\s[^>]*content=["\']([^"\']+)["\'][^>]*property=["\']og:image["\']',
+    re.IGNORECASE,
+)
+
+
+def parse_og_image(html: str) -> str | None:
+    """Extract the og:image URL from an HTML string.
+
+    Returns the URL string when found and it starts with 'https:', else None.
+    Accepts both attribute orderings of the meta tag.
+    """
+    for pattern in (_OG_IMAGE_RE, _OG_IMAGE_RE_ALT):
+        m = pattern.search(html)
+        if m:
+            url = m.group(1).strip()
+            if url.startswith("https:"):
+                return url
+    return None
+
+
+def fetch_goodreads_cover_bytes(goodreads_link: str) -> bytes | None:
+    """Fetch the book's cover image via the Goodreads og:image tag.
+
+    Fetches the Goodreads page, parses only the og:image meta tag, then
+    downloads the image URL found there. Returns raw bytes or None.
+    Never writes the intermediate HTML to disk.
+    Backs off politely (GOODREADS_RATE_LIMIT_SECONDS) after each page fetch.
+    """
+    if not goodreads_link:
+        return None
+
+    headers = {"User-Agent": GOODREADS_USER_AGENT}
+    try:
+        resp = requests.get(goodreads_link, headers=headers, timeout=HTTP_TIMEOUT)
+    except requests.RequestException as e:
+        logger.warning(f"Goodreads fetch failed for {goodreads_link}: {e}")
+        return None
+
+    time.sleep(GOODREADS_RATE_LIMIT_SECONDS)
+
+    if resp.status_code in (403, 429):
+        logger.warning(
+            f"Goodreads blocked request (HTTP {resp.status_code}) for {goodreads_link} — skipping"
+        )
+        return None
+
+    if resp.status_code != 200:
+        logger.warning(f"Goodreads returned HTTP {resp.status_code} for {goodreads_link}")
+        return None
+
+    # Detect CAPTCHA / block pages heuristically — no og:image means nothing to do.
+    html = resp.text
+    image_url = parse_og_image(html)
+    if not image_url:
+        logger.info(f"No og:image found on Goodreads page: {goodreads_link}")
+        return None
+
+    logger.debug(f"Goodreads og:image URL: {image_url}")
+
+    try:
+        img_resp = requests.get(image_url, headers=headers, timeout=HTTP_TIMEOUT, stream=True)
+        img_resp.raise_for_status()
+
+        chunks = []
+        total = 0
+        max_bytes = 10 * 1024 * 1024
+        for chunk in img_resp.iter_content(chunk_size=65536):
+            total += len(chunk)
+            if total > max_bytes:
+                logger.warning(f"Goodreads cover too large (>{max_bytes} B) at {image_url}")
+                img_resp.close()
+                return None
+            chunks.append(chunk)
+
+        return b"".join(chunks)
+    except requests.RequestException as e:
+        logger.warning(f"Failed to download Goodreads cover from {image_url}: {e}")
+        return None
 
 
 def find_missing_cover_bundles(books_dir: str) -> list[dict]:
     """Return bundles under books_dir that have index.md but no image file.
 
-    Each returned dict has: dir, slug, title, book_author, asin.
+    Each returned dict has: dir, slug, title, book_author, asin, goodreads_link.
     """
     image_exts = {".jpg", ".jpeg", ".png", ".webp"}
     missing = []
@@ -58,6 +153,7 @@ def find_missing_cover_bundles(books_dir: str) -> list[dict]:
                 "title": post.get("title", ""),
                 "book_author": post.get("book_author", ""),
                 "asin": post.get("asin", ""),
+                "goodreads_link": post.get("goodreads_link", ""),
             }
         )
 
@@ -160,10 +256,12 @@ def save_cover(data: bytes, target_path: str) -> bool:
 def process_bundle(bundle: dict, dry_run: bool) -> str:
     """Attempt to fetch and save a cover for one bundle.
 
-    Returns a status string: 'fetched', 'no_cover', or 'failed'.
+    Tries OpenLibrary first; falls back to Goodreads og:image when that yields nothing.
+    Returns a status string: 'fetched', 'no_cover', 'failed', or 'skipped'.
     """
     title = bundle["title"]
     author = bundle["book_author"]
+    goodreads_link = bundle.get("goodreads_link", "")
     target = cover_target_path(bundle)
 
     if os.path.exists(target):
@@ -173,26 +271,44 @@ def process_bundle(bundle: dict, dry_run: bool) -> str:
     logger.info(f"Looking up cover for '{title}' by '{author}'")
     cover_id = fetch_openlibrary_cover_id(title, author)
 
-    if cover_id is None:
-        logger.info(f"No cover found: '{title}'")
+    data: bytes | None = None
+    any_source_failed = False  # True when a source returned bytes that failed validation
+
+    if cover_id is not None:
+        data = download_cover_bytes(cover_id)
+        if data is not None and not is_valid_image(data):
+            logger.warning(
+                f"OpenLibrary image validation failed for '{title}': {len(data)} bytes, "
+                f"magic={data[:8].hex() if data else 'empty'}"
+            )
+            any_source_failed = True
+            data = None
+
+    if data is None:
+        if goodreads_link:
+            logger.info(f"Trying Goodreads fallback for '{title}'")
+            raw = fetch_goodreads_cover_bytes(goodreads_link)
+            if raw is not None:
+                if is_valid_image(raw):
+                    data = raw
+                else:
+                    logger.warning(
+                        f"Goodreads image validation failed for '{title}': {len(raw)} bytes, "
+                        f"magic={raw[:8].hex() if raw else 'empty'}"
+                    )
+                    any_source_failed = True
+        else:
+            logger.info(f"No Goodreads link for '{title}', cannot try fallback")
+
+    if data is None:
+        if any_source_failed:
+            logger.warning(f"All cover sources failed for '{title}'")
+            return "failed"
+        logger.info(f"No cover found for '{title}'")
         return "no_cover"
 
-    data = download_cover_bytes(cover_id)
-    if data is None:
-        logger.warning(f"Download failed for '{title}' (cover_id={cover_id})")
-        return "failed"
-
-    if not is_valid_image(data):
-        logger.warning(
-            f"Validation failed for '{title}': {len(data)} bytes, "
-            f"magic={data[:8].hex() if data else 'empty'}"
-        )
-        return "failed"
-
     if dry_run:
-        logger.info(
-            f"[dry-run] Would save {len(data)} bytes to {target}"
-        )
+        logger.info(f"[dry-run] Would save {len(data)} bytes to {target}")
         return "fetched"
 
     if save_cover(data, target):

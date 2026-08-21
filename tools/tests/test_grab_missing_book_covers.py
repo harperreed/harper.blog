@@ -217,3 +217,209 @@ def test_main_returns_int(monkeypatch):
     monkeypatch.setattr(gmc, "find_missing_cover_bundles", lambda _: [])
     result = gmc.main(books_dir="/nonexistent", dry_run=True)
     assert isinstance(result, int)
+
+
+# ---------------------------------------------------------------------------
+# parse_og_image — Goodreads og:image extraction
+# ---------------------------------------------------------------------------
+
+_OG_IMAGE_HTML = """\
+<html><head>
+<meta property="og:title" content="Excession" />
+<meta property="og:image" content="https://images.gr-assets.com/books/1487025510l/12345.jpg" />
+</head><body></body></html>
+"""
+
+_NO_OG_IMAGE_HTML = """\
+<html><head>
+<meta property="og:title" content="Excession" />
+</head><body></body></html>
+"""
+
+_MALFORMED_OG_IMAGE_HTML = """\
+<html><head>
+<meta property="og:image" content="" />
+</head><body></body></html>
+"""
+
+_NON_HTTPS_OG_IMAGE_HTML = """\
+<html><head>
+<meta property="og:image" content="http://images.gr-assets.com/books/123.jpg" />
+</head><body></body></html>
+"""
+
+_HTTP_BLOCK_HTML = """\
+<html><head><title>Access Denied</title></head>
+<body>Please verify you are a human.</body>
+</html>
+"""
+
+
+def test_parse_og_image_extracts_url():
+    """parse_og_image returns the og:image URL when present."""
+    url = gmc.parse_og_image(_OG_IMAGE_HTML)
+    assert url == "https://images.gr-assets.com/books/1487025510l/12345.jpg"
+
+
+def test_parse_og_image_returns_none_when_absent():
+    """parse_og_image returns None when the page has no og:image tag."""
+    url = gmc.parse_og_image(_NO_OG_IMAGE_HTML)
+    assert url is None
+
+
+def test_parse_og_image_returns_none_for_empty_content():
+    """parse_og_image returns None when og:image has an empty content attribute."""
+    url = gmc.parse_og_image(_MALFORMED_OG_IMAGE_HTML)
+    assert url is None
+
+
+def test_parse_og_image_rejects_http_urls():
+    """parse_og_image returns None for non-https image URLs."""
+    url = gmc.parse_og_image(_NON_HTTPS_OG_IMAGE_HTML)
+    assert url is None
+
+
+def test_parse_og_image_returns_none_on_captcha_page():
+    """parse_og_image returns None when page has no og:image (e.g. block page)."""
+    url = gmc.parse_og_image(_HTTP_BLOCK_HTML)
+    assert url is None
+
+
+# ---------------------------------------------------------------------------
+# find_missing_cover_bundles — goodreads_link field included
+# ---------------------------------------------------------------------------
+
+
+def test_find_missing_cover_bundles_includes_goodreads_link(tmp_path):
+    """Returned bundle dict includes goodreads_link from frontmatter."""
+    d = tmp_path / "2021-05-13-project-hail-mary"
+    d.mkdir()
+    post = fm.Post(
+        content="body",
+        title="Project Hail Mary",
+        asin="B0DWVVNLC9",
+        book_author="Andy Weir",
+        goodreads_link="https://www.goodreads.com/book/show/54493401-project-hail-mary",
+    )
+    (d / "index.md").write_text(fm.dumps(post), encoding="utf-8")
+
+    result = gmc.find_missing_cover_bundles(str(tmp_path))
+
+    assert result[0]["goodreads_link"] == "https://www.goodreads.com/book/show/54493401-project-hail-mary"
+
+
+def test_find_missing_cover_bundles_goodreads_link_defaults_empty(tmp_path):
+    """goodreads_link is empty string when not present in frontmatter."""
+    d = tmp_path / "2021-05-13-project-hail-mary"
+    d.mkdir()
+    post = fm.Post(content="body", title="Project Hail Mary", asin="B0DWVVNLC9", book_author="Andy Weir")
+    (d / "index.md").write_text(fm.dumps(post), encoding="utf-8")
+
+    result = gmc.find_missing_cover_bundles(str(tmp_path))
+
+    assert result[0]["goodreads_link"] == ""
+
+
+# ---------------------------------------------------------------------------
+# process_bundle — Goodreads fallback ordering
+# ---------------------------------------------------------------------------
+
+
+def test_process_bundle_tries_goodreads_when_openlibrary_fails(tmp_path, monkeypatch):
+    """When OpenLibrary returns no cover, Goodreads fallback is attempted."""
+    d = tmp_path / "2022-01-01-some-book"
+    d.mkdir()
+    (d / "index.md").write_text("", encoding="utf-8")  # dummy — bundle dict is passed directly
+
+    bundle = {
+        "dir": str(d),
+        "slug": "2022-01-01-some-book",
+        "title": "Some Book",
+        "book_author": "Some Author",
+        "asin": "B00FAKE001",
+        "goodreads_link": "https://www.goodreads.com/book/show/12345.Some_Book",
+    }
+
+    monkeypatch.setattr(gmc, "fetch_openlibrary_cover_id", lambda *a, **kw: None)
+    monkeypatch.setattr(
+        gmc,
+        "fetch_goodreads_cover_bytes",
+        lambda *a, **kw: b"\xff\xd8\xff" + b"\x00" * 3000,
+    )
+
+    status = gmc.process_bundle(bundle, dry_run=True)
+    assert status == "fetched"
+
+
+def test_process_bundle_skips_goodreads_when_openlibrary_succeeds(tmp_path, monkeypatch):
+    """When OpenLibrary provides a valid cover, Goodreads is never called."""
+    d = tmp_path / "2022-01-01-some-book"
+    d.mkdir()
+
+    bundle = {
+        "dir": str(d),
+        "slug": "2022-01-01-some-book",
+        "title": "Some Book",
+        "book_author": "Some Author",
+        "asin": "B00FAKE001",
+        "goodreads_link": "https://www.goodreads.com/book/show/12345.Some_Book",
+    }
+
+    good_cover = b"\xff\xd8\xff" + b"\x00" * 3000
+    monkeypatch.setattr(gmc, "fetch_openlibrary_cover_id", lambda *a, **kw: 9999)
+    monkeypatch.setattr(gmc, "download_cover_bytes", lambda *a, **kw: good_cover)
+
+    goodreads_called = []
+
+    def fake_goodreads(*a, **kw):
+        goodreads_called.append(True)
+        return good_cover
+
+    monkeypatch.setattr(gmc, "fetch_goodreads_cover_bytes", fake_goodreads)
+
+    status = gmc.process_bundle(bundle, dry_run=True)
+    assert status == "fetched"
+    assert not goodreads_called, "Goodreads should not be called when OpenLibrary succeeds"
+
+
+def test_process_bundle_no_cover_when_both_sources_fail(tmp_path, monkeypatch):
+    """When both OpenLibrary and Goodreads fail, status is 'no_cover'."""
+    d = tmp_path / "2022-01-01-some-book"
+    d.mkdir()
+
+    bundle = {
+        "dir": str(d),
+        "slug": "2022-01-01-some-book",
+        "title": "Some Book",
+        "book_author": "Some Author",
+        "asin": "B00FAKE001",
+        "goodreads_link": "https://www.goodreads.com/book/show/12345.Some_Book",
+    }
+
+    monkeypatch.setattr(gmc, "fetch_openlibrary_cover_id", lambda *a, **kw: None)
+    monkeypatch.setattr(gmc, "fetch_goodreads_cover_bytes", lambda *a, **kw: None)
+
+    status = gmc.process_bundle(bundle, dry_run=True)
+    assert status == "no_cover"
+
+
+def test_process_bundle_failed_when_goodreads_returns_invalid_image(tmp_path, monkeypatch):
+    """When Goodreads returns bytes that fail validation, status is 'failed'."""
+    d = tmp_path / "2022-01-01-some-book"
+    d.mkdir()
+
+    bundle = {
+        "dir": str(d),
+        "slug": "2022-01-01-some-book",
+        "title": "Some Book",
+        "book_author": "Some Author",
+        "asin": "B00FAKE001",
+        "goodreads_link": "https://www.goodreads.com/book/show/12345.Some_Book",
+    }
+
+    monkeypatch.setattr(gmc, "fetch_openlibrary_cover_id", lambda *a, **kw: None)
+    # Return raw HTML — fails is_valid_image
+    monkeypatch.setattr(gmc, "fetch_goodreads_cover_bytes", lambda *a, **kw: b"<html>" + b"x" * 3000)
+
+    status = gmc.process_bundle(bundle, dry_run=True)
+    assert status == "failed"
