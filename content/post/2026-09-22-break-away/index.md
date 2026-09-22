@@ -36,7 +36,7 @@ My favorite reason is unlimited tokens. I realized that everything we are buildi
 
 This was a novel idea for me. I had not really thought much about what changes if you have unlimited tokens. 
 
-An example is max turns of an agentic loop - you cap the number of turns so the agent doesn’t waste tokens. Our prompts are crafted for token efficiency. Our harnesses are meant to be thoughtful and efficient. We route tasks based on model cost. Most of the defensive work we do building agentic systems is directly rooted in token scarcity. 
+An example is max turns of an agentic loop - you cap the number of turns so the agent doesn’t waste tokens. Most agentic frameworks have some concept of max tokens. NO LONGER NEEDED! Our prompts are crafted for token efficiency. Our harnesses are meant to be thoughtful and efficient. We route tasks based on model cost. Most of the defensive work we do building agentic systems is directly rooted in token scarcity. 
 
 What happens if that isn’t the case? What would an agent system look like if it were not token limited. 
 
