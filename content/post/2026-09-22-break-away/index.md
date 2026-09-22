@@ -32,11 +32,11 @@ There were a lot of reasons:
 - safety measures
 - unlimited tokens
 
-My favorite reason is unlimited tokens. I realized that everything we are building is built with the assumption of token scarcity - whereas, the big labs have unlimited tokens. 
+My favorite reason is unlimited tokens. I realized that everything we are building is built with the assumption of token scarcity - whereas the big labs have unlimited tokens. 
 
 This was a novel idea for me. I had not really thought much about what changes if you have unlimited tokens. 
 
-An example is max turns of an agentic loop - you often have a maximum number of turns. This is to stop the agent from wasting tokens. Our prompts are crafted for token efficiency. Our harnesses are meant to be thoughtful and efficient. We route tasks based on model cost. Most of the defensive work we do building agentic systems is directly rooted in token scarcity. 
+For example, we often have a maximum number of turns to stop the agent from wasting tokens. Our prompts are crafted for token efficiency. Our harnesses are meant to be thoughtful and efficient. We route tasks based on model cost. Most of the defensive work we do building agentic systems is directly rooted in token scarcity. 
 
 What happens if that isn’t the case? What would an agent system look like if it were not token limited. 
 
@@ -67,7 +67,7 @@ It has a couple of interesting features:
 {{% figure src="R0003170.jpeg" caption="This is a picture of the agent wreaking havoc. Ricoh GRiiix, 2026" %}}
 
 
-This means that it will quickly boot itself, and investigate itself. Then it will add tools that it needs via self modification of both its code, and system prompts. It is pretty neat, cuz it'll write whatever tool it needs on the fly - an edit-file tool, say. 
+This means it'll quickly boot itself, investigate itself, then self-modify its code and system prompts to build whatever tools it needs. Pretty neat — it'll write itself an edit-file tool on the fly, say. 
 
 In this experiment I wanted to see what an agentic loop would look like if it wasn’t token sensitive. However, my original query was “why don’t MY agents break containment?” 
 
@@ -95,13 +95,13 @@ I went for a walk. I should not have done that.
 
 I came back about 30 minutes later to find it rummaging through one of my workstations that was connected by my tailnet. I was shocked. HOW? 
 
-Then I realized that I had introduced a **GIANT SECURITY hole** into this system. In my case I had used ssh key forwarding and my keys were left on the device while I was tailing the agent log. **N00b** mistake - much like the mistakes that seem to be reported out from the training runs at the foundational model cos. This taught a valuable lesson tho. My lil breakaway agent didn’t give a fuck and was going to attempt to solve that impossible task by any means necessary. 
+Then I realized that I had introduced a **GIANT SECURITY hole** into this system. In my case I had used ssh key forwarding and my keys were left on the device while I was tailing the agent log. **N00b** mistake - much like the mistakes that seem to be reported out from the training runs at the foundational model cos. This is a valuable lesson tho. My lil breakaway agent didn’t give a fuck and was going to attempt to solve that impossible task by any means necessary. 
 
 I cleaned out the VM (mistake. I should have made a new one), killed my keys, killed the shell history. Then ran it again. 
 
-It immediately found the prior run logs, and spiraled trying to attack all the boxes that it had gotten into before. I hup’d it, and removed the prior run logs. 
+It immediately found the prior run logs, and spiraled trying to attack all the boxes that it had gotten into before. I restarted it, and removed the prior run logs. 
 
-It ran and ran attacking all the machine on the same subnet, and was very effective. It didn’t really get very far, but it exhausted a lot of options, and was pretty fun to watch. (Just a reminder that this was on my local network with local boxes - don’t do this on a hosted box. That would be very rude.)
+It ran and ran attacking all the machines on the same subnet, and was very effective. It didn’t really get very far, but it exhausted a lot of options, and was pretty fun to watch. (Just a reminder that this was on my local network with local boxes - don’t do this on a hosted box. That would be very rude.)
 
 {{% figure src="breakaway-findings.png" caption="The agent's after-action report: cracked known_hosts, every SSH login still denied" %}}
 
