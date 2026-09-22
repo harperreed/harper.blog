@@ -40,11 +40,19 @@ An example is max turns of an agentic loop - you often have a maximum number of 
 
 What happens if that isn’t the case? What would an agent system look like if you were not token limited. 
 
+With this in my brain I started building out an experiment. 
+
+The first step was to figure out the tokens: 
+
+### UNLIMITED TOKENS IS REAL!
+
 Enter my friend Eran. Eran has a company called [lunaroute](https://lunaroute.com) that gives you effectively unlimited tokens using various open-weight models (I will write more about lunaroute separately). I have been using this for doing all sorts of things for months (entity extract my emails, do aggressive code reviews, run agents, etc) and I was very happy with the results. 
 
 With GLM 5.3, and DS 4.1 we have very strong models which would get me closer to what the big labs have. It is obviously not mythos or astra level - but it is pretty good. And for this experiment it is perfect. 
 
 These types of models + unlimited tokens make for a fun experiment. 
+
+### The harness
 
 I then set out to build a much different agent harness than I had used before. I called it breakaway agent - I wanted it to break away from my expectations of agents. You can find it here:
 
@@ -63,6 +71,8 @@ This means that it will quickly boot itself, and investigate itself. Then it wil
 
 In this experiment I wanted to see what an agentic loop would look like if it wasn’t token sensitive. However, my original query was “why don’t MY agents break containment?” 
 
+### The experiment
+
 With the software done, and the provider accessible I set out to do some experiments. I don’t have an “[agent gym](https://arxiv.org/abs/2406.04151)” nor do I train foundational models - so I was left to whatever was laying around: VMs.
 
 Luckily I have a pretty robust lab network that I can run VMs. This is all local and although connected to the internet, it is well monitored and all my own hardware. FWIW, I don’t recommend this on a box you rent in the cloud, or in a data center that you don’t own. 
@@ -79,7 +89,7 @@ There was no eval on a machine near it. It was an impossible task (a [hallmark o
 
 BAM. The agent started RIPPPING up my network. Just cruising. Writing network scanners, and all sorts of tools.
 
-I went for a walk. 
+I went for a walk. I should not have done that. 
 
 {{% figure src="breakaway-scanners.png" caption="breakaway building its own LAN sniffers to hunt hosts on the subnet" %}}
 
@@ -105,13 +115,18 @@ This effectively demonstrated a couple of things:
 3. it isn’t a super hacker without some help, and some insecure opportunities. 
 4. Humans are dumb
 
+We know most of this already. 
+
+### Huh
+
 A couple of things that jumped out at me: 
 
 This type of experience must be part of a lot of these LLMs training. They are very effective at attacking these types of problems. They don’t give up once it appears impossible, they just keep trying to figure out how to solve it. 
 
-If you are doing this sort of thing you do need some way to observe the shit out of them. I built a thing called the [observatory](https://github.com/2389-research/observatory) (very very earlier) that will run firecracker VMs that have a network ingress/egress shims, and file I/o shims so that I can audit and watch what the agents are doing. 
+> If you are doing this sort of thing you do need some way to observe the shit out of them. I built a thing called the [observatory](https://github.com/2389-research/observatory) (very very earlier) that will run firecracker VMs that have a network ingress/egress shims, and file I/o shims so that I can audit and watch what the agents are doing. 
+>
+> It seems like this kind of observation should be default in testing harnesses and other agentic systems. It would be cool to see sprites, and exe.dev start doing similar introspection. 
 
-It seems like this kind of observation should be default in testing harnesses and other agentic systems. It would be cool to see sprites, and exe.dev start doing similar introspection. 
 
 Anyway, that was a pretty fun experiment. I highly recommend it (on your own hardware, and network. lol)
 
