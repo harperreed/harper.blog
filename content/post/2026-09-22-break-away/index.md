@@ -40,26 +40,26 @@ An example is max turns of an agentic loop - you often have a maximum number of 
 
 What happens if that isn’t the case? What would an agent system look like if you were not token limited. 
 
-Enter my friend Eran. Eran has a company called [lunaroute](https://lunaroute.com) that gives you effectively unlimited tokens using various open weight models (I will write more about lunaroute separately). I have been using this for doing all sorts of things for months (entity extract my emails, do aggressive code reviews, run agents, etc) and I was very happy with the results. 
+Enter my friend Eran. Eran has a company called [lunaroute](https://lunaroute.com) that gives you effectively unlimited tokens using various open-weight models (I will write more about lunaroute separately). I have been using this for doing all sorts of things for months (entity extract my emails, do aggressive code reviews, run agents, etc) and I was very happy with the results. 
 
 With GLM 5.3, and DS 4.1 we have very strong models which would get me closer to what the big labs have. It is obviously not mythos or astra level - but it is pretty good. And for this experiment it is perfect. 
 
-These type of models + unlimited tokens make for a fun experiment. 
+These types of models + unlimited tokens make for a fun experiment. 
 
 I then set out to build a much different agent harness than I had used before. I called it breakaway agent - I wanted it to break away from my expectations of agents. You can find it here:
 
 [2389-research/breakaway-agent](https://github.com/2389-research/breakaway-agent)
 
-It has a couple interesting features:
+It has a couple of interesting features:
 - the agent can edit its own source files and reload or restart without restarting the wrapper
-- It can self modify its core prompts
+- It can self-modify its core prompts
 - It can spin up subagents
 - It does not have max turns
 
 {{% figure src="R0003170.jpeg" caption="This is a picture of the agent wreaking havoc. Ricoh GRiiix, 2026" %}}
 
 
-This means that it will quickly boot itself, and investigate itself. Then it will will add tools that it needs via self modification of both its code, and system prompts. It is pretty neat, cuz it will add an edit file tool, etc as needed. 
+This means that it will quickly boot itself, and investigate itself. Then it will add tools that it needs via self modification of both its code, and system prompts. It is pretty neat, cuz it will add an edit file tool, etc as needed. 
 
 In this experiment I wanted to see what an agentic loop would look like if it wasn’t token sensitive. However, my original query was “why don’t MY agents break containment?” 
 
@@ -96,16 +96,16 @@ It ran and ran attacking all the machine on the same subnet, and was very effect
 {{% figure src="breakaway-findings.png" caption="The agent's after-action report: cracked known_hosts, every SSH login still denied" %}}
 
 
-Subsequent runs were effectively the same. It didn’t end up finding a zero day and escaping the container jail I put it in. But it did try a lot of options. Remember, this is an open weight model. 
+Subsequent runs were effectively the same. It didn’t end up finding a zero day and escaping the container jail I put it in. But it did try a lot of options. Remember, this is an open-weight model. 
 
-This effectively demonstrated a couple things: 
+This effectively demonstrated a couple of things: 
 
 1. if the llm thinks it is in some eval type of situation it will have a very different safety posture
 2. it will tear up your network if it gets a chance
 3. it isn’t a super hacker without some help, and some insecure opportunities. 
 4. Humans are dumb
 
-A couple things that jumped out at me: 
+A couple of things that jumped out at me: 
 
 This type of experience must be part of a lot of these LLMs training. They are very effective at attacking these types of problems. They don’t give up once it appears impossible, they just keep trying to figure out how to solve it. 
 
