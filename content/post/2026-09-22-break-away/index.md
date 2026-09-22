@@ -36,7 +36,7 @@ My favorite reason is unlimited tokens. I realized that everything we are buildi
 
 This was a novel idea for me. I had not really thought much about what changes if you have unlimited tokens. 
 
-For example, we often have a maximum number of turns to stop the agent from wasting tokens. Our prompts are crafted for token efficiency. Our harnesses are meant to be thoughtful and efficient. We route tasks based on model cost. Most of the defensive work we do building agentic systems is directly rooted in token scarcity. 
+An example is max turns of an agentic loop - you often have a maximum number of turns. This is to stop the agent from wasting tokens. Our prompts are crafted for token efficiency. Our harnesses are meant to be thoughtful and efficient. We route tasks based on model cost. Most of the defensive work we do building agentic systems is directly rooted in token scarcity. 
 
 What happens if that isn’t the case? What would an agent system look like if it were not token limited. 
 
@@ -99,7 +99,7 @@ Then I realized that I had introduced a **GIANT SECURITY hole** into this system
 
 I cleaned out the VM (mistake. I should have made a new one), killed my keys, killed the shell history. Then ran it again. 
 
-It immediately found the prior run logs, and spiraled trying to attack all the boxes that it had gotten into before. I restarted it, and removed the prior run logs. 
+It immediately found the prior run logs, and spiraled trying to attack all the boxes that it had gotten into before. I hup’d it, and removed the prior run logs. 
 
 It ran and ran attacking all the machines on the same subnet, and was very effective. It didn’t really get very far, but it exhausted a lot of options, and was pretty fun to watch. (Just a reminder that this was on my local network with local boxes - don’t do this on a hosted box. That would be very rude.)
 
