@@ -1,6 +1,7 @@
 ---
 date: 2026-09-22T12:10:00-06:00
 description: "An experiment in what happens when you strip the token-scarcity assumptions out of an agent: a self-modifying 'breakaway' harness with no max turns, unlimited open-weight tokens, and a home lab to tear up. It won't break containment on its own. But tell it there's an impossible eval nearby and it goes feral, right through the SSH keys you forgot to clean up."
+bsky: https://bsky.app/profile/harper.lol/post/3mw5do4dpxk2o
 draft: false
 tags:
     - AI
