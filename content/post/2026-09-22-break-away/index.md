@@ -149,3 +149,11 @@ I don't know the exact conclusion i would pull from this experiment. It is compe
 There are probably a lot more - but that is high level where i am at. Go play with break away. Use Lunaroute or ollama. 
 
 Let me know how it goes for you! 
+
+
+-----
+
+
+i sent this to client and this is his response: 
+
+{{% figure src="clint-chat.png" %}}
