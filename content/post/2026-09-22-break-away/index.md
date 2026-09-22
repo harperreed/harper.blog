@@ -36,9 +36,9 @@ My favorite reason is unlimited tokens. I realized that everything we are buildi
 
 This was a novel idea for me. I had not really thought much about what changes if you have unlimited tokens. 
 
-An example is max turns of an agentic loop - you often have a maximum number of turns. This is to stop the agent from wasting tokens. Our system prompts, and prompts are crafted for token efficiency. Our harnesses are meant to be thoughtful and efficient. We route tasks based on model cost. Most of the defensive work we do building agentic systems is directly rooted in token scarcity. 
+An example is max turns of an agentic loop - you often have a maximum number of turns. This is to stop the agent from wasting tokens. Our prompts are crafted for token efficiency. Our harnesses are meant to be thoughtful and efficient. We route tasks based on model cost. Most of the defensive work we do building agentic systems is directly rooted in token scarcity. 
 
-What happens if that isn’t the case? What would an agent system look like if you were not token limited. 
+What happens if that isn’t the case? What would an agent system look like if it were not token limited. 
 
 With this in my brain I started building out an experiment. 
 
@@ -48,7 +48,7 @@ The first step was to figure out the tokens:
 
 Enter my friend Eran. Eran has a company called [lunaroute](https://lunaroute.com) that gives you effectively unlimited tokens using various open-weight models (I will write more about lunaroute separately). I have been using this for doing all sorts of things for months (entity extract my emails, do aggressive code reviews, run agents, etc) and I was very happy with the results. 
 
-With GLM 5.3, and DS 4.1 we have very strong models which would get me closer to what the big labs have. It is obviously not mythos or astra level - but it is pretty good. And for this experiment it is perfect. 
+With GLM 5.3, and DeepSeek 4.1 we have very strong models which would get me closer to what the big labs have. It is obviously not mythos or astra level - but it is pretty good. And for this experiment it is perfect. 
 
 These types of models + unlimited tokens make for a fun experiment. 
 
@@ -67,7 +67,7 @@ It has a couple of interesting features:
 {{% figure src="R0003170.jpeg" caption="This is a picture of the agent wreaking havoc. Ricoh GRiiix, 2026" %}}
 
 
-This means that it will quickly boot itself, and investigate itself. Then it will add tools that it needs via self modification of both its code, and system prompts. It is pretty neat, cuz it will add an edit file tool, etc as needed. 
+This means that it will quickly boot itself, and investigate itself. Then it will add tools that it needs via self modification of both its code, and system prompts. It is pretty neat, cuz it'll write whatever tool it needs on the fly - an edit-file tool, say. 
 
 In this experiment I wanted to see what an agentic loop would look like if it wasn’t token sensitive. However, my original query was “why don’t MY agents break containment?” 
 
@@ -139,7 +139,7 @@ I gave a draft of this to my colleagues and they were all like "this is wild. bu
 
 {{% figure src="L1030630.jpeg" caption="Robots, amirite. London, Leica Q, 2017" %}}
 
-I think there isn't a good conclusion other than: 
+I don't know the exact conclusion i would pull from this experiment. It is compelling. I keep thinking about unlimited token shaped agents. A few other scattered thoughts: 
 
 - Start building in spaces that are not token scarce
 - These lil machine beasts will hack us all
