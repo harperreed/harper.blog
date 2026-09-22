@@ -122,7 +122,7 @@ I don't know, man. What do you want from me? lol
 
 I gave a draft of this to my colleagues and they were all like "this is wild. but what does it mean? is there a conclusion?"
 
-{{% figure src="L1030630.jpeg" caption="Robots, amirite. London, Leica Q, 2016" %}}
+{{% figure src="L1030630.jpeg" caption="Robots, amirite. London, Leica Q, 2017" %}}
 
 I think there isn't a good conclusion other than: 
 
