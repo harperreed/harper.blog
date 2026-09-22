@@ -130,26 +130,7 @@ This type of experience must be part of a lot of these LLMs training. They are v
 
 Anyway, that was a pretty fun experiment. I highly recommend it (on your own hardware, and network. lol)
 
-## Conclusion
-
-
-I don't know, man. What do you want from me? lol
-
-I gave a draft of this to my colleagues and they were all like "this is wild. but what does it mean? is there a conclusion?"
-
 {{% figure src="L1030630.jpeg" caption="Robots, amirite. London, Leica Q, 2017" %}}
-
-I don't know the exact conclusion i would pull from this experiment. It is compelling. I keep thinking about unlimited token shaped agents. A few other scattered thoughts: 
-
-- Start building in spaces that are not token scarce
-- These lil machine beasts will hack us all
-- Humans are bad at computer security
-- Computers are fun
-
-There are probably a lot more - but that is high level where i am at. Go play with break away. Use Lunaroute or ollama. 
-
-Let me know how it goes for you! 
-
 
 -----
 
