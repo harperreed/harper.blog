@@ -4,7 +4,8 @@ email = "harper@modest.com"
 avatar = "https://s.gravatar.com/avatar/b7a96b3d5b5cfed5228396104cd67b38?s=100&r=g"
 
 fullRSS = true
-nofeedSections = ["page", "post", "links", "books", "music"]
+# Home feed (/index.xml) is blog posts only — list every non-post section here, or it leaks into the main feed.
+nofeedSections = ["page", "notes", "links", "books", "music", "now", "media", "photos"]
 mainSections = ["post"]
 images = ['https://harper.blog/images/og.png']
 default_social_image = "https://harper.blog/images/og.png"

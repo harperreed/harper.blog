@@ -73,7 +73,7 @@
     {{- end }}
     {{- range $pages }}
             <item>
-                <title>{{ .Title | htmlEscape }}</title>
+                <title>{{ .Title }}</title>
                 <link>
                     {{ .Permalink }}
                 </link>
