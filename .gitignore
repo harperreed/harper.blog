@@ -18,3 +18,6 @@ stats-*.csv
 
 # Spotify OAuth token cache — contains live credentials
 .spotify_cache
+
+# Local browser reports, screenshots, and isolated Hugo output
+.e2e/

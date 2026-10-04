@@ -1,7 +1,7 @@
 .PHONY: build serve getmodules check check-i18n check-contrast tools-test preview dev prod_build prod_build_verbose gitlog
 
-# Run every local verification: tools tests, i18n hygiene, contrast sweep
-check: tools-test check-i18n check-contrast
+# Run every local verification: tools, i18n, contrast, and browser flows
+check: tools-test check-i18n check-contrast check-e2e
 
 # Run the Python tools test suite
 tools-test:
@@ -52,3 +52,9 @@ gitlog:
 		grep -v 'Auto update micro posts' >> gitlog.md
 	sed -i '' '/Updated gitlog/d' "gitlog.md"
 	git commit -m "Updated gitlog" gitlog.md
+
+# Type-check and exercise the production Hugo site in a real browser
+.PHONY: check-e2e
+check-e2e:
+	npx --yes yarn@1.22.22 check:e2e
+	npx --yes yarn@1.22.22 test:e2e

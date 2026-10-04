@@ -1,6 +1,11 @@
+/* ABOUTME: Fades loaded images when scripting can mark them ready. */
+/* ABOUTME: Keeps images visible when scripting or its media query is unavailable. */
 img {
-    opacity: 0;
     transition: opacity 0.4s ease-in-out;
+}
+
+@media (scripting: enabled) {
+    img { opacity: 0; }
 }
 
 img.loaded {

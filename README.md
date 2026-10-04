@@ -84,3 +84,9 @@ LINKS_HUGO_CONTENT_DIR=your_hugo_content_directory_here
 Feel free to explore and contribute! If you have any questions, please reach out to me at [harper@modest.com](mailto:harper@modest.com).
 
 Happy blogging! 🎉
+
+### Reader flow tests
+
+`make check` includes the pinned tester-army/e2e browser suite against production
+Hugo output. Setup, flow coverage, evidence, and limits are documented in
+[tests/e2e/README.md](tests/e2e/README.md).

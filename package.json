@@ -1,0 +1,16 @@
+{
+  "name": "harper-blog",
+  "private": true,
+  "packageManager": "yarn@1.22.22",
+  "scripts": {
+    "test:e2e": "E2E_TELEMETRY_DISABLED=1 e2e run",
+    "check:e2e": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@e2e-dev/web": "0.12.0",
+    "@types/node": "22.19.15",
+    "e2e": "0.17.0",
+    "typescript": "5.9.3",
+    "playwright-core": "1.63.0"
+  }
+}
