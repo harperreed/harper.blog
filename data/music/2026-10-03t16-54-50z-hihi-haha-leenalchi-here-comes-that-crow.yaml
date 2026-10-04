@@ -1,0 +1,140 @@
+added_at: '2026-10-03T16:54:50Z'
+album: Here Comes That Crow
+album_image: https://i.scdn.co/image/ab67616d0000b2734d568b2fabde7d6be9c10728
+artist: LEENALCHI
+duration_ms: 221094
+id: 3xaEMbVbzMlbFoghrZ8WCd
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq
+      href: https://api.spotify.com/v1/artists/0kHgYUOcTac5RhkYx1thsq
+      id: 0kHgYUOcTac5RhkYx1thsq
+      name: LEENALCHI
+      type: artist
+      uri: spotify:artist:0kHgYUOcTac5RhkYx1thsq
+    available_markets:
+    - AG
+    - AR
+    - BB
+    - BO
+    - BR
+    - BS
+    - BZ
+    - CA
+    - CL
+    - CO
+    - CR
+    - CW
+    - DM
+    - DO
+    - EC
+    - GD
+    - GT
+    - GY
+    - HN
+    - HT
+    - JM
+    - KN
+    - LC
+    - MX
+    - NI
+    - PA
+    - PE
+    - PR
+    - PY
+    - SR
+    - SV
+    - TT
+    - US
+    - UY
+    - VC
+    - VE
+    external_urls:
+      spotify: https://open.spotify.com/album/3yRLYacN3H9dUDSQQZgLAF
+    href: https://api.spotify.com/v1/albums/3yRLYacN3H9dUDSQQZgLAF
+    id: 3yRLYacN3H9dUDSQQZgLAF
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2734d568b2fabde7d6be9c10728
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e024d568b2fabde7d6be9c10728
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048514d568b2fabde7d6be9c10728
+      width: 64
+    is_playable: true
+    name: Here Comes That Crow
+    release_date: '2026-06-12'
+    release_date_precision: day
+    total_tracks: 6
+    type: album
+    uri: spotify:album:3yRLYacN3H9dUDSQQZgLAF
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq
+    href: https://api.spotify.com/v1/artists/0kHgYUOcTac5RhkYx1thsq
+    id: 0kHgYUOcTac5RhkYx1thsq
+    name: LEENALCHI
+    type: artist
+    uri: spotify:artist:0kHgYUOcTac5RhkYx1thsq
+  available_markets:
+  - AG
+  - AR
+  - BB
+  - BO
+  - BR
+  - BS
+  - BZ
+  - CA
+  - CL
+  - CO
+  - CR
+  - CW
+  - DM
+  - DO
+  - EC
+  - GD
+  - GT
+  - GY
+  - HN
+  - HT
+  - JM
+  - KN
+  - LC
+  - MX
+  - NI
+  - PA
+  - PE
+  - PR
+  - PY
+  - SR
+  - SV
+  - TT
+  - US
+  - UY
+  - VC
+  - VE
+  disc_number: 1
+  duration_ms: 221094
+  explicit: false
+  external_ids:
+    isrc: KRMIM2480428
+  external_urls:
+    spotify: https://open.spotify.com/track/3xaEMbVbzMlbFoghrZ8WCd
+  href: https://api.spotify.com/v1/tracks/3xaEMbVbzMlbFoghrZ8WCd
+  id: 3xaEMbVbzMlbFoghrZ8WCd
+  is_local: false
+  is_playable: true
+  name: Hihi Haha
+  popularity: 28
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:3xaEMbVbzMlbFoghrZ8WCd
+spotify_url: https://open.spotify.com/track/3xaEMbVbzMlbFoghrZ8WCd
+title: Hihi Haha
