@@ -1,0 +1,75 @@
+added_at: '2026-10-08T01:33:08Z'
+album: misery. (The Living Tombstone Remix)
+album_image: https://i.scdn.co/image/ab67616d0000b273eca7d9fa69854dc9a8530af1
+artist: pupsies
+duration_ms: 166579
+id: 3szSOQjWBCE0s5Ys2nNFuZ
+preview_url: null
+raw_data:
+  album:
+    album_type: single
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0Uo0W0Vfq9ZOLCFngwxOLm
+      href: https://api.spotify.com/v1/artists/0Uo0W0Vfq9ZOLCFngwxOLm
+      id: 0Uo0W0Vfq9ZOLCFngwxOLm
+      name: pupsies
+      type: artist
+      uri: spotify:artist:0Uo0W0Vfq9ZOLCFngwxOLm
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF
+      href: https://api.spotify.com/v1/artists/0I6yADrmeyvw66g7yjkqIF
+      id: 0I6yADrmeyvw66g7yjkqIF
+      name: The Living Tombstone
+      type: artist
+      uri: spotify:artist:0I6yADrmeyvw66g7yjkqIF
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/3XwENXkvanWdNQVlFz6fav
+    href: https://api.spotify.com/v1/albums/3XwENXkvanWdNQVlFz6fav
+    id: 3XwENXkvanWdNQVlFz6fav
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273eca7d9fa69854dc9a8530af1
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02eca7d9fa69854dc9a8530af1
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851eca7d9fa69854dc9a8530af1
+      width: 64
+    is_playable: true
+    name: misery. (The Living Tombstone Remix)
+    release_date: '2026-09-11'
+    release_date_precision: day
+    total_tracks: 2
+    type: album
+    uri: spotify:album:3XwENXkvanWdNQVlFz6fav
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0Uo0W0Vfq9ZOLCFngwxOLm
+    href: https://api.spotify.com/v1/artists/0Uo0W0Vfq9ZOLCFngwxOLm
+    id: 0Uo0W0Vfq9ZOLCFngwxOLm
+    name: pupsies
+    type: artist
+    uri: spotify:artist:0Uo0W0Vfq9ZOLCFngwxOLm
+  available_markets: []
+  disc_number: 1
+  duration_ms: 166579
+  explicit: false
+  external_ids:
+    isrc: QZTAS2690388
+  external_urls:
+    spotify: https://open.spotify.com/track/3szSOQjWBCE0s5Ys2nNFuZ
+  href: https://api.spotify.com/v1/tracks/3szSOQjWBCE0s5Ys2nNFuZ
+  id: 3szSOQjWBCE0s5Ys2nNFuZ
+  is_local: false
+  is_playable: true
+  name: misery.
+  popularity: 53
+  preview_url: null
+  track_number: 2
+  type: track
+  uri: spotify:track:3szSOQjWBCE0s5Ys2nNFuZ
+spotify_url: https://open.spotify.com/track/3szSOQjWBCE0s5Ys2nNFuZ
+title: misery.

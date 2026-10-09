@@ -1,0 +1,140 @@
+added_at: '2026-10-08T13:27:36Z'
+album: SUGUNGGA
+album_image: https://i.scdn.co/image/ab67616d0000b273f504072c7b9423f4a0df2910
+artist: LEENALCHI
+duration_ms: 420951
+id: 5dgu8SBv1QzV5xGGR78VOo
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq
+      href: https://api.spotify.com/v1/artists/0kHgYUOcTac5RhkYx1thsq
+      id: 0kHgYUOcTac5RhkYx1thsq
+      name: LEENALCHI
+      type: artist
+      uri: spotify:artist:0kHgYUOcTac5RhkYx1thsq
+    available_markets:
+    - AG
+    - AR
+    - BB
+    - BO
+    - BR
+    - BS
+    - BZ
+    - CA
+    - CL
+    - CO
+    - CR
+    - CW
+    - DM
+    - DO
+    - EC
+    - GD
+    - GT
+    - GY
+    - HN
+    - HT
+    - JM
+    - KN
+    - LC
+    - MX
+    - NI
+    - PA
+    - PE
+    - PR
+    - PY
+    - SR
+    - SV
+    - TT
+    - US
+    - UY
+    - VC
+    - VE
+    external_urls:
+      spotify: https://open.spotify.com/album/6oI30Ql37tXi5WDUw3iapG
+    href: https://api.spotify.com/v1/albums/6oI30Ql37tXi5WDUw3iapG
+    id: 6oI30Ql37tXi5WDUw3iapG
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273f504072c7b9423f4a0df2910
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02f504072c7b9423f4a0df2910
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851f504072c7b9423f4a0df2910
+      width: 64
+    is_playable: true
+    name: SUGUNGGA
+    release_date: '2026-10-02'
+    release_date_precision: day
+    total_tracks: 10
+    type: album
+    uri: spotify:album:6oI30Ql37tXi5WDUw3iapG
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq
+    href: https://api.spotify.com/v1/artists/0kHgYUOcTac5RhkYx1thsq
+    id: 0kHgYUOcTac5RhkYx1thsq
+    name: LEENALCHI
+    type: artist
+    uri: spotify:artist:0kHgYUOcTac5RhkYx1thsq
+  available_markets:
+  - AG
+  - AR
+  - BB
+  - BO
+  - BR
+  - BS
+  - BZ
+  - CA
+  - CL
+  - CO
+  - CR
+  - CW
+  - DM
+  - DO
+  - EC
+  - GD
+  - GT
+  - GY
+  - HN
+  - HT
+  - JM
+  - KN
+  - LC
+  - MX
+  - NI
+  - PA
+  - PE
+  - PR
+  - PY
+  - SR
+  - SV
+  - TT
+  - US
+  - UY
+  - VC
+  - VE
+  disc_number: 1
+  duration_ms: 420951
+  explicit: false
+  external_ids:
+    isrc: KRA0R2000209
+  external_urls:
+    spotify: https://open.spotify.com/track/5dgu8SBv1QzV5xGGR78VOo
+  href: https://api.spotify.com/v1/tracks/5dgu8SBv1QzV5xGGR78VOo
+  id: 5dgu8SBv1QzV5xGGR78VOo
+  is_local: false
+  is_playable: true
+  name: Ultimate Prescription
+  popularity: 15
+  preview_url: null
+  track_number: 5
+  type: track
+  uri: spotify:track:5dgu8SBv1QzV5xGGR78VOo
+spotify_url: https://open.spotify.com/track/5dgu8SBv1QzV5xGGR78VOo
+title: Ultimate Prescription
