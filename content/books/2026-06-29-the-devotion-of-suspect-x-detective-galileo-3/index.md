@@ -12,6 +12,8 @@ image_url: https://images-na.ssl-images-amazon.com/images/P/B0044781ZQ.01._SCLZZ
 is_reread: false
 layout: book
 num_pages: null
+related_reads:
+- 2026-06-29-the-devotion-of-suspect-x-detective-galileo-1
 review_rating: '5'
 started_at: '2026-06-08T00:00:00-07:00'
 summary: A gripping tale of deception, intellect, and the unbreakable bond between
