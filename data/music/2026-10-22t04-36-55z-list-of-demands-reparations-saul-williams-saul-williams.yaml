@@ -1,0 +1,68 @@
+added_at: '2026-10-22T04:36:55Z'
+album: Saul Williams
+album_image: https://i.scdn.co/image/ab67616d0000b2731e9539400cb274226fbab2c3
+artist: Saul Williams
+duration_ms: 198400
+id: 3H8bcfuvbMoCIzjYLBBcgb
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm
+      href: https://api.spotify.com/v1/artists/11K0HIZKfdB6ez0VhIgxPm
+      id: 11K0HIZKfdB6ez0VhIgxPm
+      name: Saul Williams
+      type: artist
+      uri: spotify:artist:11K0HIZKfdB6ez0VhIgxPm
+    available_markets: []
+    external_urls:
+      spotify: https://open.spotify.com/album/6o77mcoz5ZdeGZ75JNif6U
+    href: https://api.spotify.com/v1/albums/6o77mcoz5ZdeGZ75JNif6U
+    id: 6o77mcoz5ZdeGZ75JNif6U
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b2731e9539400cb274226fbab2c3
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e021e9539400cb274226fbab2c3
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d000048511e9539400cb274226fbab2c3
+      width: 64
+    is_playable: true
+    name: Saul Williams
+    release_date: '2004-09-21'
+    release_date_precision: day
+    total_tracks: 12
+    type: album
+    uri: spotify:album:6o77mcoz5ZdeGZ75JNif6U
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm
+    href: https://api.spotify.com/v1/artists/11K0HIZKfdB6ez0VhIgxPm
+    id: 11K0HIZKfdB6ez0VhIgxPm
+    name: Saul Williams
+    type: artist
+    uri: spotify:artist:11K0HIZKfdB6ez0VhIgxPm
+  available_markets: []
+  disc_number: 1
+  duration_ms: 198400
+  explicit: false
+  external_ids:
+    isrc: US4HB0490405
+  external_urls:
+    spotify: https://open.spotify.com/track/3H8bcfuvbMoCIzjYLBBcgb
+  href: https://api.spotify.com/v1/tracks/3H8bcfuvbMoCIzjYLBBcgb
+  id: 3H8bcfuvbMoCIzjYLBBcgb
+  is_local: false
+  is_playable: true
+  name: List Of Demands (Reparations)
+  popularity: 1
+  preview_url: null
+  track_number: 5
+  type: track
+  uri: spotify:track:3H8bcfuvbMoCIzjYLBBcgb
+spotify_url: https://open.spotify.com/track/3H8bcfuvbMoCIzjYLBBcgb
+title: List Of Demands (Reparations)
