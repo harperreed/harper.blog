@@ -1,0 +1,86 @@
+added_at: '2026-11-06T04:36:06Z'
+album: Black Classical Music
+album_image: https://i.scdn.co/image/ab67616d0000b273dd7cb838198e61322964f7b0
+artist: Yussef Dayes
+duration_ms: 319040
+id: 3hmCHZFkgE4tkJKSqpOUhz
+preview_url: null
+raw_data:
+  album:
+    album_type: album
+    artists:
+    - external_urls:
+        spotify: https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht
+      href: https://api.spotify.com/v1/artists/2rspptKP0lPBdlJJAJHqht
+      id: 2rspptKP0lPBdlJJAJHqht
+      name: Yussef Dayes
+      type: artist
+      uri: spotify:artist:2rspptKP0lPBdlJJAJHqht
+    available_markets:
+    - PR
+    - US
+    external_urls:
+      spotify: https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET
+    href: https://api.spotify.com/v1/albums/5uw3ZBsmxonVJGmocj8EET
+    id: 5uw3ZBsmxonVJGmocj8EET
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ab67616d0000b273dd7cb838198e61322964f7b0
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab67616d00001e02dd7cb838198e61322964f7b0
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab67616d00004851dd7cb838198e61322964f7b0
+      width: 64
+    is_playable: true
+    name: Black Classical Music
+    release_date: '2023-09-08'
+    release_date_precision: day
+    total_tracks: 19
+    type: album
+    uri: spotify:album:5uw3ZBsmxonVJGmocj8EET
+  artists:
+  - external_urls:
+      spotify: https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht
+    href: https://api.spotify.com/v1/artists/2rspptKP0lPBdlJJAJHqht
+    id: 2rspptKP0lPBdlJJAJHqht
+    name: Yussef Dayes
+    type: artist
+    uri: spotify:artist:2rspptKP0lPBdlJJAJHqht
+  - external_urls:
+      spotify: https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP
+    href: https://api.spotify.com/v1/artists/7qKJMpPZfyGHHwPgsjgFCP
+    id: 7qKJMpPZfyGHHwPgsjgFCP
+    name: Venna
+    type: artist
+    uri: spotify:artist:7qKJMpPZfyGHHwPgsjgFCP
+  - external_urls:
+      spotify: https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g
+    href: https://api.spotify.com/v1/artists/3Uw7i8bbD7k8eOD5SIqn9g
+    id: 3Uw7i8bbD7k8eOD5SIqn9g
+    name: Charlie Stacey
+    type: artist
+    uri: spotify:artist:3Uw7i8bbD7k8eOD5SIqn9g
+  available_markets:
+  - PR
+  - US
+  disc_number: 1
+  duration_ms: 319040
+  explicit: false
+  external_ids:
+    isrc: GBAYE2300245
+  external_urls:
+    spotify: https://open.spotify.com/track/3hmCHZFkgE4tkJKSqpOUhz
+  href: https://api.spotify.com/v1/tracks/3hmCHZFkgE4tkJKSqpOUhz
+  id: 3hmCHZFkgE4tkJKSqpOUhz
+  is_local: false
+  is_playable: true
+  name: Black Classical Music (feat. Venna & Charlie Stacey)
+  popularity: 38
+  preview_url: null
+  track_number: 1
+  type: track
+  uri: spotify:track:3hmCHZFkgE4tkJKSqpOUhz
+spotify_url: https://open.spotify.com/track/3hmCHZFkgE4tkJKSqpOUhz
+title: Black Classical Music (feat. Venna & Charlie Stacey)
